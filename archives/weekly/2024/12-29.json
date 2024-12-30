@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735530190124,
+  "endTime": 1735532805313,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -123,6 +123,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 2132025,
+      "num": 2132025,
+      "word": "女子患癌1年多难得旅行遇空难身亡",
+      "onboard_time": 1735529962,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1843203,
       "num": 1843203,
       "word": "王楚钦疑连夜染回黑发",
@@ -227,6 +235,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1390399,
+      "num": 1390399,
+      "word": "邯郸初中生被杀案一人不予刑罚",
+      "onboard_time": 1735530561,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1328270,
       "num": 1204570,
       "word": "韩国空难发布会现场家属大哭大吼",
@@ -316,7 +332,7 @@
     },
     {
       "raw_hot": 1139704,
-      "num": 420433,
+      "num": 429793,
       "word": "大奉打更人被演技劝退",
       "onboard_time": 1735523299,
       "rank": 23,
@@ -417,6 +433,14 @@
       "onboard_time": 1735448301,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 913041,
+      "num": 913041,
+      "word": "央视跨年晚会第一批阵容官宣",
+      "onboard_time": 1735532001,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 909099,
@@ -563,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 679475,
+      "num": 928317,
+      "word": "河北邯郸初中生被杀案主犯被判无期",
+      "onboard_time": 1735529481,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 676145,
       "num": 355673,
       "word": "赵露思的头像是化茧成蝶",
@@ -691,14 +723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 581733,
-      "num": 928317,
-      "word": "河北邯郸初中生被杀案主犯被判无期",
-      "onboard_time": 1735529481,
-      "rank": 3,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 574908,
       "num": 487782,
       "word": "姜涛全球最帅面孔第二",
@@ -819,6 +843,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 505407,
+      "num": 427994,
+      "word": "感觉我生了小孩就是这样的父母",
+      "onboard_time": 1735530080,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 492427,
       "num": 492427,
       "word": "央视曝光部分直播间公然售假羊绒衫",
@@ -897,6 +929,14 @@
       "onboard_time": 1735439120,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 457361,
+      "num": 457361,
+      "word": "孙颖莎vs何卓佳",
+      "onboard_time": 1735530742,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 457034,
@@ -980,7 +1020,7 @@
     },
     {
       "raw_hot": 426663,
-      "num": 249467,
+      "num": 272503,
       "word": "遇难韩国妈妈患癌1年刚旅行归来",
       "onboard_time": 1735528339,
       "rank": 33,
@@ -1009,6 +1049,14 @@
       "onboard_time": 1735444879,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 416007,
+      "num": 416007,
+      "word": "女子用车厘子喂鸡引网友羡慕",
+      "onboard_time": 1735531164,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 413555,
@@ -1083,6 +1131,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 390558,
+      "num": 416867,
+      "word": "住北京0.5环是什么体验",
+      "onboard_time": 1735527739,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 389902,
       "num": 542771,
       "word": "刘昊然去了欧阳娜娜音乐会",
@@ -1115,20 +1171,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 367487,
+      "num": 474171,
+      "word": "演员请就位",
+      "onboard_time": 1735529481,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 367056,
       "num": 258047,
       "word": "卿卿日常五美2年后重聚大奉",
       "onboard_time": 1735397725,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 366970,
-      "num": 366970,
-      "word": "住北京0.5环是什么体验",
-      "onboard_time": 1735527739,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 364126,
@@ -1193,6 +1249,14 @@
       "onboard_time": 1735499951,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 345073,
+      "num": 424633,
+      "word": "陈丽君也抢不到我的大观园",
+      "onboard_time": 1735530801,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 344133,
@@ -1297,14 +1361,6 @@
       "onboard_time": 1735477642,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 322155,
-      "num": 474171,
-      "word": "演员请就位",
-      "onboard_time": 1735529481,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 320816,
@@ -1571,6 +1627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 267009,
+      "num": 427321,
+      "word": "虞书欣湖南卫视跨年晚会彩排",
+      "onboard_time": 1735530080,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 266930,
       "num": 266930,
       "word": "樊振东 红米",
@@ -1731,6 +1795,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 244022,
+      "num": 244022,
+      "word": "果农回应车厘子喂鸡系用的次果",
+      "onboard_time": 1735530861,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 243937,
       "num": 177963,
       "word": "庆余年",
@@ -1764,7 +1836,7 @@
     },
     {
       "raw_hot": 239274,
-      "num": 239274,
+      "num": 376194,
       "word": "金晨哭戏",
       "onboard_time": 1735529242,
       "rank": 47,
@@ -1803,12 +1875,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 229854,
+      "num": 229854,
+      "word": "赵露思曾因拍戏一只耳朵短暂性失聪",
+      "onboard_time": 1735515677,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229085,
       "num": 332739,
       "word": "因质疑作业把家长踢出群老师已道歉",
       "onboard_time": 1735485800,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 228913,
+      "num": 228913,
+      "word": "12306推出系统自动提交订单功能",
+      "onboard_time": 1735531641,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 228161,
+      "num": 228161,
+      "word": "玉溪 cos圣体",
+      "onboard_time": 1735529000,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 225704,
@@ -1865,14 +1961,6 @@
       "onboard_time": 1735472179,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 219119,
-      "num": 219119,
-      "word": "玉溪 cos圣体",
-      "onboard_time": 1735529000,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 218754,
@@ -2011,14 +2099,6 @@
       "category": "幽默,科学科普"
     },
     {
-      "raw_hot": 208526,
-      "num": 208526,
-      "word": "赵露思曾因拍戏一只耳朵短暂性失聪",
-      "onboard_time": 1735515677,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208440,
       "num": 208440,
       "word": "小小的我 脑瘫患者",
@@ -2065,6 +2145,14 @@
       "onboard_time": 1735455500,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206697,
+      "num": 206697,
+      "word": "钟睒睒再谈企业家直播带货",
+      "onboard_time": 1735532421,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 206084,
@@ -2355,6 +2443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194428,
+      "num": 194428,
+      "word": "波音今年公司已亏损近80亿美元",
+      "onboard_time": 1735531942,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 194236,
       "num": 177948,
       "word": "王鹤棣演唱会上座率",
@@ -2401,6 +2497,14 @@
       "onboard_time": 1735467019,
       "rank": 27,
       "category": "电影,艺人"
+    },
+    {
+      "raw_hot": 191468,
+      "num": 191468,
+      "word": "王一博新歌彩排路透",
+      "onboard_time": 1735531701,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 191370,
@@ -2497,14 +2601,6 @@
       "onboard_time": 1735449801,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 187599,
-      "num": 187599,
-      "word": "感觉我生了小孩就是这样的父母",
-      "onboard_time": 1735530080,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 187164,
@@ -2817,6 +2913,14 @@
       "onboard_time": 1735454360,
       "rank": 36,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 165918,
+      "num": 278126,
+      "word": "登陆少年像极了被老师提问的我",
+      "onboard_time": 1735531822,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 165498,
@@ -3323,14 +3427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 131097,
-      "num": 376449,
-      "word": "虞书欣湖南卫视跨年晚会彩排",
-      "onboard_time": 1735530080,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 130344,
       "num": 177798,
       "word": "张若昀范闲",
@@ -3369,6 +3465,14 @@
       "onboard_time": 1735522159,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126968,
+      "num": 420555,
+      "word": "黄渤现在发歌是要上春晚吗",
+      "onboard_time": 1735531164,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 124639,
@@ -3451,6 +3555,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120327,
+      "num": 230965,
+      "word": "杨紫讲述回顾2024我们的故事",
+      "onboard_time": 1735531164,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 117906,
+      "num": 421796,
+      "word": "四旬老汉詹姆斯",
+      "onboard_time": 1735532001,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117820,
       "num": 299912,
       "word": "许七安 下雪了",
@@ -3481,6 +3601,14 @@
       "onboard_time": 1735465040,
       "rank": 45,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 116476,
+      "num": 1520296,
+      "word": "中国刷新世界最长高速公路隧道纪录",
+      "onboard_time": 1735528279,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 116017,
@@ -3585,14 +3713,6 @@
       "onboard_time": 1735470679,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 108593,
-      "num": 1097446,
-      "word": "中国刷新世界最长高速公路隧道纪录",
-      "onboard_time": 1735528279,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 107990,
@@ -3891,6 +4011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 78470,
+      "num": 710787,
+      "word": "韩客机事故目击者听到多声爆炸",
+      "onboard_time": 1735524497,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 77675,
       "num": 292839,
       "word": "用你的活法定义世界的算法",
@@ -3929,6 +4057,14 @@
       "onboard_time": 1735456281,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 73575,
+      "num": 433796,
+      "word": "巩立姣的2024是圆满又遗憾",
+      "onboard_time": 1735531942,
+      "rank": 18,
+      "category": "正能量"
     },
     {
       "raw_hot": 71671,
@@ -3985,6 +4121,14 @@
       "onboard_time": 1735523479,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 65887,
+      "num": 488825,
+      "word": "阿塞拜疆总统要求俄方认错并赔偿",
+      "onboard_time": 1735532181,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 65262,
@@ -4195,6 +4339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 41295,
+      "num": 419495,
+      "word": "华为推出FreeBudsPro4蛇年特别款",
+      "onboard_time": 1735529781,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 39571,
       "num": 39571,
       "word": "有直播间公然售假羊绒衫不怕举报封号",
@@ -4403,12 +4555,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 29270,
-      "num": 209942,
-      "word": "华为推出FreeBudsPro4蛇年特别款",
-      "onboard_time": 1735529781,
-      "rank": 40,
-      "category": "数码"
+      "raw_hot": 28938,
+      "num": 431432,
+      "word": "陈道明沙漠弹琴",
+      "onboard_time": 1735531462,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 28499,
@@ -4425,6 +4577,14 @@
       "onboard_time": 1735495333,
       "rank": 38,
       "category": "民生新闻,幽默"
+    },
+    {
+      "raw_hot": 26803,
+      "num": 232707,
+      "word": "主角都是自己给自己的",
+      "onboard_time": 1735529781,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 26774,
@@ -4499,14 +4659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 24238,
-      "num": 491866,
-      "word": "女子患癌1年多难得旅行遇空难身亡",
-      "onboard_time": 1735529962,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 24072,
       "num": 329328,
       "word": "付航演绎酸甜苦辣每一面",
@@ -4529,14 +4681,6 @@
       "onboard_time": 1735498812,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 22539,
-      "num": 219187,
-      "word": "主角都是自己给自己的",
-      "onboard_time": 1735529781,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 22524,
@@ -4607,6 +4751,14 @@
       "num": 44294,
       "word": "埃文凯尔收到40年历史收藏品感动落泪",
       "onboard_time": 1735419911,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20303,
+      "num": 705040,
+      "word": "对未成年人犯罪坚持宽容不纵容",
+      "onboard_time": 1735532721,
       "rank": 9,
       "category": "民生新闻"
     },

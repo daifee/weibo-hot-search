@@ -1,6 +1,6 @@
 {
   "startTime": 1735489511133,
-  "endTime": 1735530190124,
+  "endTime": 1735532805313,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -16,6 +16,14 @@
       "word": "韩国又一客机起落架故障",
       "onboard_time": 1735516998,
       "rank": 0,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 2132025,
+      "num": 2132025,
+      "word": "女子患癌1年多难得旅行遇空难身亡",
+      "onboard_time": 1735529962,
+      "rank": 14,
       "category": "海外新闻"
     },
     {
@@ -51,6 +59,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1390399,
+      "num": 1390399,
+      "word": "邯郸初中生被杀案一人不予刑罚",
+      "onboard_time": 1735530561,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1293079,
       "num": 1293079,
       "word": "华为悬赏300万元求解难题",
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 1139704,
-      "num": 420433,
+      "num": 429793,
       "word": "大奉打更人被演技劝退",
       "onboard_time": 1735523299,
       "rank": 23,
@@ -121,6 +137,14 @@
       "onboard_time": 1735519940,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 913041,
+      "num": 913041,
+      "word": "央视跨年晚会第一批阵容官宣",
+      "onboard_time": 1735532001,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 909099,
@@ -163,6 +187,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 679475,
+      "num": 928317,
+      "word": "河北邯郸初中生被杀案主犯被判无期",
+      "onboard_time": 1735529481,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 648026,
       "num": 405180,
       "word": "沈月亚洲最具影响力排名第一",
@@ -203,14 +235,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 581733,
-      "num": 928317,
-      "word": "河北邯郸初中生被杀案主犯被判无期",
-      "onboard_time": 1735529481,
-      "rank": 3,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 564830,
       "num": 419998,
       "word": "幸存韩国乘务员回忆空难",
@@ -243,12 +267,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 505407,
+      "num": 427994,
+      "word": "感觉我生了小孩就是这样的父母",
+      "onboard_time": 1735530080,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 483558,
       "num": 403554,
       "word": "奉劝大家12月份的工资别乱花",
       "onboard_time": 1735525337,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 457361,
+      "num": 457361,
+      "word": "孙颖莎vs何卓佳",
+      "onboard_time": 1735530742,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 434006,
@@ -268,11 +308,19 @@
     },
     {
       "raw_hot": 426663,
-      "num": 249467,
+      "num": 272503,
       "word": "遇难韩国妈妈患癌1年刚旅行归来",
       "onboard_time": 1735528339,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 416007,
+      "num": 416007,
+      "word": "女子用车厘子喂鸡引网友羡慕",
+      "onboard_time": 1735531164,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 409190,
@@ -283,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 390558,
+      "num": 416867,
+      "word": "住北京0.5环是什么体验",
+      "onboard_time": 1735527739,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 375766,
       "num": 375766,
       "word": "动画还原韩国客机碰撞起火事故",
@@ -291,12 +347,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 366970,
-      "num": 366970,
-      "word": "住北京0.5环是什么体验",
-      "onboard_time": 1735527739,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 367487,
+      "num": 474171,
+      "word": "演员请就位",
+      "onboard_time": 1735529481,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 358777,
@@ -323,6 +379,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 345073,
+      "num": 424633,
+      "word": "陈丽君也抢不到我的大观园",
+      "onboard_time": 1735530801,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 331808,
       "num": 331808,
       "word": "韩国起火客机179名死者全部找到",
@@ -337,14 +401,6 @@
       "onboard_time": 1735527199,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 322155,
-      "num": 474171,
-      "word": "演员请就位",
-      "onboard_time": 1735529481,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 320357,
@@ -435,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267009,
+      "num": 427321,
+      "word": "虞书欣湖南卫视跨年晚会彩排",
+      "onboard_time": 1735530080,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 266930,
       "num": 266930,
       "word": "樊振东 红米",
@@ -491,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 244022,
+      "num": 244022,
+      "word": "果农回应车厘子喂鸡系用的次果",
+      "onboard_time": 1735530861,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 242923,
       "num": 242923,
       "word": "黄奕一件礼服塞了一整个车",
@@ -500,11 +572,19 @@
     },
     {
       "raw_hot": 239274,
-      "num": 239274,
+      "num": 376194,
       "word": "金晨哭戏",
       "onboard_time": 1735529242,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 229854,
+      "num": 229854,
+      "word": "赵露思曾因拍戏一只耳朵短暂性失聪",
+      "onboard_time": 1735515677,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 229085,
@@ -515,8 +595,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 219119,
-      "num": 219119,
+      "raw_hot": 228913,
+      "num": 228913,
+      "word": "12306推出系统自动提交订单功能",
+      "onboard_time": 1735531641,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 228161,
+      "num": 228161,
       "word": "玉溪 cos圣体",
       "onboard_time": 1735529000,
       "rank": 46,
@@ -555,12 +643,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 208526,
-      "num": 208526,
-      "word": "赵露思曾因拍戏一只耳朵短暂性失聪",
-      "onboard_time": 1735515677,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 206697,
+      "num": 206697,
+      "word": "钟睒睒再谈企业家直播带货",
+      "onboard_time": 1735532421,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 205788,
@@ -627,12 +715,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194428,
+      "num": 194428,
+      "word": "波音今年公司已亏损近80亿美元",
+      "onboard_time": 1735531942,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 192919,
       "num": 382318,
       "word": "火箭热火冲突",
       "onboard_time": 1735528759,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191468,
+      "num": 191468,
+      "word": "王一博新歌彩排路透",
+      "onboard_time": 1735531701,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 190800,
@@ -649,14 +753,6 @@
       "onboard_time": 1735526117,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 187599,
-      "num": 187599,
-      "word": "感觉我生了小孩就是这样的父母",
-      "onboard_time": 1735530080,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 186683,
@@ -737,6 +833,14 @@
       "onboard_time": 1735465160,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 165918,
+      "num": 278126,
+      "word": "登陆少年像极了被老师提问的我",
+      "onboard_time": 1735531822,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 164722,
@@ -859,14 +963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 131097,
-      "num": 376449,
-      "word": "虞书欣湖南卫视跨年晚会彩排",
-      "onboard_time": 1735530080,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 131086,
       "num": 131086,
       "word": "俄罗斯已就阿航空难向阿塞拜疆认错",
@@ -881,6 +977,14 @@
       "onboard_time": 1735522159,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126968,
+      "num": 420555,
+      "word": "黄渤现在发歌是要上春晚吗",
+      "onboard_time": 1735531164,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 124111,
@@ -915,6 +1019,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120327,
+      "num": 230965,
+      "word": "杨紫讲述回顾2024我们的故事",
+      "onboard_time": 1735531164,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 117906,
+      "num": 421796,
+      "word": "四旬老汉詹姆斯",
+      "onboard_time": 1735532001,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 116476,
+      "num": 1520296,
+      "word": "中国刷新世界最长高速公路隧道纪录",
+      "onboard_time": 1735528279,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 113559,
       "num": 113559,
       "word": "韩国空难发布会现场家属大哭大吼",
@@ -937,14 +1065,6 @@
       "onboard_time": 1735486760,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 108593,
-      "num": 1097446,
-      "word": "中国刷新世界最长高速公路隧道纪录",
-      "onboard_time": 1735528279,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 107990,
@@ -995,6 +1115,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 78470,
+      "num": 710787,
+      "word": "韩客机事故目击者听到多声爆炸",
+      "onboard_time": 1735524497,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 73575,
+      "num": 433796,
+      "word": "巩立姣的2024是圆满又遗憾",
+      "onboard_time": 1735531942,
+      "rank": 18,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 71671,
       "num": 422779,
       "word": "CR450动车内部长啥样",
@@ -1025,6 +1161,14 @@
       "onboard_time": 1735523479,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 65887,
+      "num": 488825,
+      "word": "阿塞拜疆总统要求俄方认错并赔偿",
+      "onboard_time": 1735532181,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 65148,
@@ -1115,6 +1259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 41295,
+      "num": 419495,
+      "word": "华为推出FreeBudsPro4蛇年特别款",
+      "onboard_time": 1735529781,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 39571,
       "num": 39571,
       "word": "有直播间公然售假羊绒衫不怕举报封号",
@@ -1195,12 +1347,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 29270,
-      "num": 209942,
-      "word": "华为推出FreeBudsPro4蛇年特别款",
-      "onboard_time": 1735529781,
-      "rank": 40,
-      "category": "数码"
+      "raw_hot": 28938,
+      "num": 431432,
+      "word": "陈道明沙漠弹琴",
+      "onboard_time": 1735531462,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 28491,
@@ -1209,6 +1361,14 @@
       "onboard_time": 1735495333,
       "rank": 38,
       "category": "民生新闻,幽默"
+    },
+    {
+      "raw_hot": 26803,
+      "num": 232707,
+      "word": "主角都是自己给自己的",
+      "onboard_time": 1735529781,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 26591,
@@ -1227,14 +1387,6 @@
       "category": "综艺,演出"
     },
     {
-      "raw_hot": 24238,
-      "num": 491866,
-      "word": "女子患癌1年多难得旅行遇空难身亡",
-      "onboard_time": 1735529962,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 24037,
       "num": 24037,
       "word": "杨紫何惟芳原声台词",
@@ -1249,14 +1401,6 @@
       "onboard_time": 1735498812,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 22539,
-      "num": 219187,
-      "word": "主角都是自己给自己的",
-      "onboard_time": 1735529781,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 22423,
@@ -1289,6 +1433,14 @@
       "onboard_time": 1735504030,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 20303,
+      "num": 705040,
+      "word": "对未成年人犯罪坚持宽容不纵容",
+      "onboard_time": 1735532721,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19280,
