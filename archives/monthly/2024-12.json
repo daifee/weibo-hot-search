@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1735544195443,
+  "endTime": 1735547335374,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -409,6 +409,14 @@
       "onboard_time": 1733570240,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3658053,
+      "num": 3658053,
+      "word": "韩国空难幸存空少恐全身瘫痪",
+      "onboard_time": 1735544600,
+      "rank": 0,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 3589309,
@@ -4355,6 +4363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1168597,
+      "num": 1168597,
+      "word": "贾玲C位",
+      "onboard_time": 1735542739,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1166241,
       "num": 526788,
       "word": "收留女硕士男子称办过酒席",
@@ -7595,6 +7611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 857648,
+      "num": 493454,
+      "word": "四川一高中老师被指与学生有不雅行为",
+      "onboard_time": 1735544001,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 857022,
       "num": 851173,
       "word": "张大大和明星谈过恋爱",
@@ -9313,14 +9337,6 @@
       "onboard_time": 1735302079,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 748777,
-      "num": 748777,
-      "word": "贾玲C位",
-      "onboard_time": 1735542739,
-      "rank": 23,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 748612,
@@ -11729,6 +11745,14 @@
       "onboard_time": 1734175880,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 644534,
+      "num": 644534,
+      "word": "鸟类为何不避开飞机",
+      "onboard_time": 1735542200,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 644428,
@@ -16539,6 +16563,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 493818,
+      "num": 493818,
+      "word": "嗯哼 能把价格打下来的就是家人",
+      "onboard_time": 1735545199,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 493248,
       "num": 493248,
       "word": "韩国总统府周边进入全面管制状态",
@@ -16881,6 +16913,14 @@
       "onboard_time": 1735372400,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 484605,
+      "num": 484605,
+      "word": "韩国济州航空同机型飞机故障返航",
+      "onboard_time": 1735541780,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 484390,
@@ -17897,6 +17937,14 @@
       "onboard_time": 1735348220,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 461810,
+      "num": 461810,
+      "word": "建议周三放一天假的理由",
+      "onboard_time": 1735545799,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 461635,
@@ -19617,6 +19665,14 @@
       "onboard_time": 1734839239,
       "rank": 20,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 426743,
+      "num": 426743,
+      "word": "国际乒联回应未收到中国乒协通知",
+      "onboard_time": 1735545619,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 426663,
@@ -21361,6 +21417,14 @@
       "onboard_time": 1733387059,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 395658,
+      "num": 395658,
+      "word": "韩国旅游业受到重创",
+      "onboard_time": 1735542798,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 395567,
@@ -24355,14 +24419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 344817,
-      "num": 344817,
-      "word": "鸟类为何不避开飞机",
-      "onboard_time": 1735542200,
-      "rank": 34,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 344621,
       "num": 344621,
       "word": "李佳琦直播卖货每件能赚几十元",
@@ -25377,14 +25433,6 @@
       "onboard_time": 1733379500,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 328968,
-      "num": 328968,
-      "word": "韩国济州航空同机型飞机故障返航",
-      "onboard_time": 1735541780,
-      "rank": 16,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 328751,
@@ -29795,14 +29843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 275008,
-      "num": 275008,
-      "word": "四川一高中老师被指与学生有不雅行为",
-      "onboard_time": 1735544001,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 274862,
       "num": 318260,
       "word": "马龙陈梦混双开门红",
@@ -33627,6 +33667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 239812,
+      "num": 239812,
+      "word": "十个勤天 民俗表演直播",
+      "onboard_time": 1735543938,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239797,
       "num": 239797,
       "word": "孟子义李昀锐涨粉",
@@ -37075,6 +37123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216791,
+      "num": 216791,
+      "word": "aespa 紫菜包饭",
+      "onboard_time": 1735541780,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 216767,
       "num": 172009,
       "word": "无限暖暖 华为平板进不去",
@@ -39643,14 +39699,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 205837,
-      "num": 205837,
-      "word": "韩国旅游业受到重创",
-      "onboard_time": 1735542798,
-      "rank": 46,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 205803,
       "num": 205803,
       "word": "董子健给王俊凯打电话",
@@ -40193,14 +40241,6 @@
       "onboard_time": 1735399341,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 203871,
-      "num": 203871,
-      "word": "aespa 紫菜包饭",
-      "onboard_time": 1735541780,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 203845,
@@ -42257,6 +42297,14 @@
       "onboard_time": 1734261979,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 197660,
+      "num": 197660,
+      "word": "张彬彬与孙珍妮合跳troublemaker",
+      "onboard_time": 1735546759,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 197656,
@@ -46977,6 +47025,14 @@
       "onboard_time": 1733328740,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185441,
+      "num": 185441,
+      "word": "李现背头",
+      "onboard_time": 1735546639,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 185288,
@@ -52755,14 +52811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166292,
-      "num": 166292,
-      "word": "十个勤天 民俗表演直播",
-      "onboard_time": 1735543938,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 166228,
       "num": 166228,
       "word": "国防部正告菲方",
@@ -54305,6 +54353,14 @@
       "onboard_time": 1733729599,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161771,
+      "num": 161771,
+      "word": "王俊凯薛之谦舞台彩排",
+      "onboard_time": 1735546340,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 161759,
@@ -57713,6 +57769,14 @@
       "onboard_time": 1733980100,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153409,
+      "num": 153409,
+      "word": "JDG为无畏发声明",
+      "onboard_time": 1735546941,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 153402,
@@ -63835,6 +63899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137012,
+      "num": 137012,
+      "word": "谁家爱豆在舞台上擦鼻涕啊",
+      "onboard_time": 1735547119,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 136991,
       "num": 136991,
       "word": "A股超4700股上涨",
@@ -65593,6 +65665,14 @@
       "onboard_time": 1734938718,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 132083,
+      "num": 132083,
+      "word": "凡人修仙传",
+      "onboard_time": 1735546519,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 132058,
@@ -67675,6 +67755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125971,
+      "num": 125971,
+      "word": "我会在仙考中打败你们所有人",
+      "onboard_time": 1735545680,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125930,
       "num": 125930,
       "word": "沈翊 黑足猫",
@@ -69435,6 +69523,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 121057,
+      "num": 121057,
+      "word": "孙珍妮自己吓自己",
+      "onboard_time": 1735545500,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121048,
       "num": 121048,
       "word": "主办方回应李行亮商演被网友抵制",
@@ -70491,6 +70587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117904,
+      "num": 117904,
+      "word": "评论罗伯特总结我的2024",
+      "onboard_time": 1735547300,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 117900,
       "num": 140461,
       "word": "福宝未来两三天不会去室外运动场",
@@ -71177,6 +71281,14 @@
       "onboard_time": 1734837498,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 116133,
+      "num": 116133,
+      "word": "深圳大学3比1上海龙腾",
+      "onboard_time": 1735547239,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 116080,
@@ -81987,6 +82099,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 74230,
+      "num": 289846,
+      "word": "杨紫人民日报年度混剪配音",
+      "onboard_time": 1735546699,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74219,
       "num": 697139,
       "word": "网红是怎么变味的",
@@ -83520,6 +83640,14 @@
       "word": "汪顺回应是否参加洛杉矶奥运会",
       "onboard_time": 1735090157,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 68434,
+      "num": 438945,
+      "word": "乒超联赛回来了",
+      "onboard_time": 1735545859,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -96051,6 +96179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32888,
+      "num": 145133,
+      "word": "智己翻车逃生车主发声",
+      "onboard_time": 1735545859,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 32863,
       "num": 57189,
       "word": "起猛了在尔滨看见福建舰",
@@ -98929,6 +99065,14 @@
       "onboard_time": 1735290201,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 26901,
+      "num": 197826,
+      "word": "lululemon已经过气了吗",
+      "onboard_time": 1735546579,
+      "rank": 29,
+      "category": "时尚"
     },
     {
       "raw_hot": 26900,
