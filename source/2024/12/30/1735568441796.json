@@ -1,0 +1,410 @@
+{
+  "runTime": 1735568441796,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1404650,
+        "num": 1404650,
+        "word": "韩国空难幸存空少恐全身瘫痪",
+        "onboard_time": 1735544600,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1102450,
+        "num": 1102450,
+        "word": "雷军千万年薪聘用的95后女生履历",
+        "onboard_time": 1735562780,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 108806,
+        "num": 858684,
+        "word": "中国基建人又创造了奇迹",
+        "onboard_time": 1735564221,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 847224,
+        "num": 847224,
+        "word": "薯饼 全日制",
+        "onboard_time": 1735562361,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 833145,
+        "num": 833145,
+        "word": "韩失事客机飞行员3次发出求救信号",
+        "onboard_time": 1735556838,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 749438,
+        "num": 749438,
+        "word": "同情赵露思患病并不可耻",
+        "onboard_time": 1735566500,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 665760,
+        "num": 665760,
+        "word": "吴奇隆马雅舒离婚后不同境遇",
+        "onboard_time": 1735549340,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 624590,
+        "num": 624590,
+        "word": "教育局回应中学教师与学生亲吻搂抱",
+        "onboard_time": 1735548740,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 612471,
+        "num": 612471,
+        "word": "向佐致歉",
+        "onboard_time": 1735563200,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 600689,
+        "num": 600689,
+        "word": "20岁儿子死在缅北妈妈被骗90万元",
+        "onboard_time": 1735541600,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 931495,
+        "num": 597390,
+        "word": "赵露思生病",
+        "onboard_time": 1735559719,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 593241,
+        "num": 593241,
+        "word": "大连一医院急诊室墙上有殡葬广告",
+        "onboard_time": 1735564761,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 551419,
+        "num": 551419,
+        "word": "大奉打更人热度",
+        "onboard_time": 1735564940,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47721,
+        "num": 509078,
+        "word": "王曼昱陈幸同与孙颖莎顶峰相见",
+        "onboard_time": 1735567701,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43190,
+        "num": 497223,
+        "word": "16岁女孩溺亡父亲称事发地无护栏监控",
+        "onboard_time": 1735567762,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 491328,
+        "num": 491328,
+        "word": "白鹿王楚然周也同框",
+        "onboard_time": 1735562900,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96890,
+        "num": 483585,
+        "word": "鞠婧祎浙江跨年彩排",
+        "onboard_time": 1735567762,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31407,
+        "num": 472585,
+        "word": "王曼昱说回归后还是很熟悉",
+        "onboard_time": 1735567762,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23143,
+        "num": 451778,
+        "word": "广州近千户家庭地址被冒用注册公司",
+        "onboard_time": 1735568062,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25335,
+        "num": 447499,
+        "word": "李昀锐回应上桌",
+        "onboard_time": 1735567340,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 566187,
+        "num": 433675,
+        "word": "周扬青 小腹",
+        "onboard_time": 1735564221,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210661,
+        "num": 421306,
+        "word": "男子钓到56斤鳡鱼绕城5小时炫耀",
+        "onboard_time": 1735563080,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 411305,
+        "num": 411305,
+        "word": "中国人在缅北被明码标价交易",
+        "onboard_time": 1735540219,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404065,
+        "num": 404065,
+        "word": "终于懂得昼川老师的被光所诱惑",
+        "onboard_time": 1735566141,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 69647,
+        "num": 392013,
+        "word": "NIP祝Doinb生日快乐",
+        "onboard_time": 1735567882,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 381862,
+        "num": 381862,
+        "word": "李沐宸片酬",
+        "onboard_time": 1735557019,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362195,
+        "num": 362195,
+        "word": "夏之光 我要工作",
+        "onboard_time": 1735560020,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19181,
+        "num": 320059,
+        "word": "诱导男用户安装交友软件骗取1.39亿",
+        "onboard_time": 1735567581,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63329,
+        "num": 290629,
+        "word": "当地回应殡葬广告打到医院急诊室",
+        "onboard_time": 1735568302,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26982,
+        "num": 284589,
+        "word": "盘点24年度让你感动的瞬间",
+        "onboard_time": 1735565840,
+        "rank": 29,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 283054,
+        "num": 283054,
+        "word": "伊能静 恩利不需要一个完美妈妈",
+        "onboard_time": 1735561699,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245313,
+        "num": 245313,
+        "word": "Doinb NIP",
+        "onboard_time": 1735562119,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 242741,
+        "num": 242741,
+        "word": "男子住女友家5年分手后被判付23万",
+        "onboard_time": 1735558999,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236817,
+        "num": 236817,
+        "word": "网友抱怨哈尔滨200多元酒店涨至2000多",
+        "onboard_time": 1735566441,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234162,
+        "num": 234162,
+        "word": "柳演锡蔡秀彬最佳cp奖",
+        "onboard_time": 1735568001,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210475,
+        "num": 210475,
+        "word": "男子公司年会上饮酒身亡无同事发现",
+        "onboard_time": 1735558579,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209908,
+        "num": 209908,
+        "word": "男子花近40万相亲1天结婚领证",
+        "onboard_time": 1735555940,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209189,
+        "num": 209189,
+        "word": "陈意涵大奉出场镜头",
+        "onboard_time": 1735567161,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201871,
+        "num": 201871,
+        "word": "华晨宇马嘉祺合唱彩排",
+        "onboard_time": 1735567641,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17513,
+        "num": 195161,
+        "word": "人间仙境赛里木湖怎么玩",
+        "onboard_time": 1735568001,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 67526,
+        "num": 192475,
+        "word": "王源湖南卫视跨年彩排图",
+        "onboard_time": 1735562840,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60610,
+        "num": 192273,
+        "word": "王曼昱展望乒超决赛",
+        "onboard_time": 1735566981,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192225,
+        "num": 192225,
+        "word": "王鹤棣半裸戏",
+        "onboard_time": 1735558640,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191102,
+        "num": 191102,
+        "word": "离了高叶谁还哭着哄我笑",
+        "onboard_time": 1735567403,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180589,
+        "num": 180589,
+        "word": "2025跨年晚会最全阵容",
+        "onboard_time": 1735567942,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175002,
+        "num": 175002,
+        "word": "孙颖莎世界排名积分破万领跑",
+        "onboard_time": 1735563259,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171532,
+        "num": 171532,
+        "word": "澳门国际电影节",
+        "onboard_time": 1735567161,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168636,
+        "num": 168636,
+        "word": "李小冉你这话也太糙了",
+        "onboard_time": 1735558339,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168556,
+        "num": 168556,
+        "word": "孙颖莎高情商回答上海比赛成主场",
+        "onboard_time": 1735566441,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164114,
+        "num": 164114,
+        "word": "京沪高铁的班味从年初冲到年尾",
+        "onboard_time": 1735568241,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温习近平主席新年贺词#"
+    }
+  }
+}

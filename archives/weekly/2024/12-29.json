@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735565921064,
+  "endTime": 1735568441796,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 971887,
-      "num": 391976,
+      "num": 433675,
       "word": "周扬青 小腹",
       "onboard_time": 1735564221,
       "rank": 21,
@@ -713,6 +713,14 @@
       "onboard_time": 1735432938,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 749438,
+      "num": 749438,
+      "word": "同情赵露思患病并不可耻",
+      "onboard_time": 1735566500,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 746627,
@@ -915,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 612471,
+      "num": 612471,
+      "word": "向佐致歉",
+      "onboard_time": 1735563200,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 607756,
       "num": 326653,
       "word": "赵露思1月到12月的变化",
@@ -937,6 +953,14 @@
       "onboard_time": 1735513936,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 593241,
+      "num": 593241,
+      "word": "大连一医院急诊室墙上有殡葬广告",
+      "onboard_time": 1735564761,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 590462,
@@ -1017,6 +1041,14 @@
       "onboard_time": 1735438398,
       "rank": 6,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 551419,
+      "num": 551419,
+      "word": "大奉打更人热度",
+      "onboard_time": 1735564940,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 549701,
@@ -1467,6 +1499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 404065,
+      "num": 404065,
+      "word": "终于懂得昼川老师的被光所诱惑",
+      "onboard_time": 1735566141,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 400510,
       "num": 400510,
       "word": "迪丽热巴今天cos碱水结",
@@ -1649,14 +1689,6 @@
       "onboard_time": 1735429153,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 360458,
-      "num": 360458,
-      "word": "向佐致歉",
-      "onboard_time": 1735563200,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 358777,
@@ -1899,14 +1931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 317812,
-      "num": 317812,
-      "word": "大奉打更人热度",
-      "onboard_time": 1735564940,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 315258,
       "num": 383319,
       "word": "秋瓷炫于晓光韩国新家",
@@ -1977,14 +2001,6 @@
       "onboard_time": 1735551141,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 302435,
-      "num": 582145,
-      "word": "大连一医院急诊室墙上有殡葬广告",
-      "onboard_time": 1735564761,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 301083,
@@ -2084,7 +2100,7 @@
     },
     {
       "raw_hot": 288299,
-      "num": 288299,
+      "num": 421306,
       "word": "男子钓到56斤鳡鱼绕城5小时炫耀",
       "onboard_time": 1735563080,
       "rank": 41,
@@ -2619,11 +2635,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 236817,
+      "num": 236817,
+      "word": "网友抱怨哈尔滨200多元酒店涨至2000多",
+      "onboard_time": 1735566441,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 234676,
       "num": 272457,
       "word": "范世錡 有点羞耻但还是想说",
       "onboard_time": 1735448361,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 234162,
+      "num": 234162,
+      "word": "柳演锡蔡秀彬最佳cp奖",
+      "onboard_time": 1735568001,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -2899,6 +2931,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 209189,
+      "num": 209189,
+      "word": "陈意涵大奉出场镜头",
+      "onboard_time": 1735567161,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208875,
       "num": 208875,
       "word": "孟子义怎么会觉得李昀锐胆小",
@@ -3113,6 +3153,14 @@
       "onboard_time": 1735463660,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 201871,
+      "num": 201871,
+      "word": "华晨宇马嘉祺合唱彩排",
+      "onboard_time": 1735567641,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 201866,
@@ -3451,6 +3499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191102,
+      "num": 191102,
+      "word": "离了高叶谁还哭着哄我笑",
+      "onboard_time": 1735567403,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190866,
       "num": 353327,
       "word": "中国榫卯建筑硬抗8级地震",
@@ -3723,6 +3779,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 180589,
+      "num": 180589,
+      "word": "2025跨年晚会最全阵容",
+      "onboard_time": 1735567942,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180155,
       "num": 180155,
       "word": "赵丽颖金鸡奖影人特辑",
@@ -3899,6 +3963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 171532,
+      "num": 171532,
+      "word": "澳门国际电影节",
+      "onboard_time": 1735567161,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 171420,
       "num": 171420,
       "word": "当一个二次元开始年终总结",
@@ -3969,6 +4041,14 @@
       "onboard_time": 1735476141,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168556,
+      "num": 168556,
+      "word": "孙颖莎高情商回答上海比赛成主场",
+      "onboard_time": 1735566441,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 167938,
@@ -4065,6 +4145,14 @@
       "onboard_time": 1735553120,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164114,
+      "num": 164114,
+      "word": "京沪高铁的班味从年初冲到年尾",
+      "onboard_time": 1735568241,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163999,
@@ -5267,6 +5355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108806,
+      "num": 926346,
+      "word": "中国基建人又创造了奇迹",
+      "onboard_time": 1735564221,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 108604,
       "num": 364613,
       "word": "西蒙高茨支持樊振东",
@@ -5297,14 +5393,6 @@
       "onboard_time": 1735428554,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105979,
-      "num": 926346,
-      "word": "中国基建人又创造了奇迹",
-      "onboard_time": 1735564221,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 104386,
@@ -5473,6 +5561,14 @@
       "onboard_time": 1735399341,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96890,
+      "num": 483585,
+      "word": "鞠婧祎浙江跨年彩排",
+      "onboard_time": 1735567762,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 96801,
@@ -5795,6 +5891,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 69647,
+      "num": 392013,
+      "word": "NIP祝Doinb生日快乐",
+      "onboard_time": 1735567882,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 69380,
       "num": 128309,
       "word": "如果AI也有自己的世界会发生什么",
@@ -5891,6 +5995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63329,
+      "num": 290629,
+      "word": "当地回应殡葬广告打到医院急诊室",
+      "onboard_time": 1735568302,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63204,
       "num": 243043,
       "word": "联合杯中国晋级八强",
@@ -5929,6 +6041,14 @@
       "onboard_time": 1735539498,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 60610,
+      "num": 192273,
+      "word": "王曼昱展望乒超决赛",
+      "onboard_time": 1735566981,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 59817,
@@ -6139,6 +6259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 47721,
+      "num": 509078,
+      "word": "王曼昱陈幸同与孙颖莎顶峰相见",
+      "onboard_time": 1735567701,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47221,
       "num": 741719,
       "word": "2024那些治愈瞬间",
@@ -6201,6 +6329,14 @@
       "onboard_time": 1735542258,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 43190,
+      "num": 497223,
+      "word": "16岁女孩溺亡父亲称事发地无护栏监控",
+      "onboard_time": 1735567762,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42652,
@@ -6475,6 +6611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31407,
+      "num": 472585,
+      "word": "王曼昱说回归后还是很熟悉",
+      "onboard_time": 1735567762,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31353,
       "num": 157457,
       "word": "海底捞金真的有技巧",
@@ -6571,6 +6715,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 26982,
+      "num": 284589,
+      "word": "盘点24年度让你感动的瞬间",
+      "onboard_time": 1735565840,
+      "rank": 48,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 26894,
       "num": 335682,
       "word": "王曼昱上海体育馆赛前训练",
@@ -6643,6 +6795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 25335,
+      "num": 447499,
+      "word": "李昀锐回应上桌",
+      "onboard_time": 1735567340,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 25308,
       "num": 304927,
       "word": "00后为什么爱上了年代故事",
@@ -6705,6 +6865,14 @@
       "onboard_time": 1735509552,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23143,
+      "num": 451778,
+      "word": "广州近千户家庭地址被冒用注册公司",
+      "onboard_time": 1735568062,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23063,
@@ -6867,6 +7035,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 19181,
+      "num": 320059,
+      "word": "诱导男用户安装交友软件骗取1.39亿",
+      "onboard_time": 1735567581,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18592,
       "num": 36225,
       "word": "中国车企的nextlevel会是啥样",
@@ -6881,6 +7057,14 @@
       "onboard_time": 1735416131,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 17513,
+      "num": 195161,
+      "word": "人间仙境赛里木湖怎么玩",
+      "onboard_time": 1735568001,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 17214,
@@ -7089,14 +7273,6 @@
       "onboard_time": 1735507931,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8233,
-      "num": 131025,
-      "word": "盘点24年度让你感动的瞬间",
-      "onboard_time": 1735565840,
-      "rank": 48,
-      "category": "正能量"
     },
     {
       "raw_hot": 8200,
