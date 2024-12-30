@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735558540950,
+  "endTime": 1735562546522,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 1069484,
-      "num": 451795,
+      "num": 924822,
       "word": "李沐宸片酬",
       "onboard_time": 1735557019,
       "rank": 15,
@@ -481,6 +481,14 @@
       "onboard_time": 1735480520,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1062169,
+      "num": 1062169,
+      "word": "赵露思生病",
+      "onboard_time": 1735559719,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1023099,
@@ -553,6 +561,14 @@
       "onboard_time": 1735448301,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 911355,
+      "num": 911355,
+      "word": "韩失事客机飞行员3次发出求救信号",
+      "onboard_time": 1735556838,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 909099,
@@ -649,6 +665,14 @@
       "onboard_time": 1735438099,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 760248,
+      "num": 480967,
+      "word": "王鹤棣半裸戏",
+      "onboard_time": 1735558640,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 759503,
@@ -963,6 +987,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 556470,
+      "num": 480558,
+      "word": "夏之光 我要工作",
+      "onboard_time": 1735560020,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 549701,
       "num": 434499,
       "word": "迪丽热巴小时候的童年照片",
@@ -1145,6 +1177,14 @@
       "onboard_time": 1735525337,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 479788,
+      "num": 479788,
+      "word": "男子住女友家5年分手后被判付23万",
+      "onboard_time": 1735558999,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 479695,
@@ -1363,14 +1403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 411161,
-      "num": 411161,
-      "word": "韩失事客机飞行员3次发出求救信号",
-      "onboard_time": 1735556838,
-      "rank": 28,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 410065,
       "num": 242962,
       "word": "秋瓷炫儿子说我中国人",
@@ -1459,6 +1491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 383759,
+      "num": 383759,
+      "word": "男子公司年会上饮酒身亡无同事发现",
+      "onboard_time": 1735558579,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 382165,
       "num": 382165,
       "word": "白百何和老公带儿子打游戏",
@@ -1529,6 +1569,14 @@
       "onboard_time": 1735397725,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 364516,
+      "num": 364516,
+      "word": "泰国女子探望完家人后在韩遇空难身亡",
+      "onboard_time": 1735559360,
+      "rank": 15,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 364126,
@@ -2059,6 +2107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 274466,
+      "num": 274466,
+      "word": "李诞你们稍微隐晦点",
+      "onboard_time": 1735558940,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 274260,
       "num": 274260,
       "word": "12306推出系统自动提交订单功能",
@@ -2193,6 +2249,14 @@
       "onboard_time": 1735435577,
       "rank": 15,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 258777,
+      "num": 258777,
+      "word": "山东鲁能晋级女团决赛",
+      "onboard_time": 1735561339,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 258665,
@@ -3403,6 +3467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 184170,
+      "num": 184170,
+      "word": "汪苏泷演唱会",
+      "onboard_time": 1735561759,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 183999,
       "num": 219974,
       "word": "女婿早起帮环卫工岳母扫了两年马路",
@@ -3617,6 +3689,14 @@
       "onboard_time": 1735536379,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174955,
+      "num": 174955,
+      "word": "Doinb NIP",
+      "onboard_time": 1735562119,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 174860,
@@ -3883,6 +3963,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 162964,
+      "num": 162964,
+      "word": "Doinb 生日祝福收到了",
+      "onboard_time": 1735560979,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 162884,
       "num": 282900,
       "word": "刘涛送小提琴给蓝盈莹",
@@ -3995,12 +4083,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158651,
+      "num": 154078,
+      "word": "李小冉你这话也太糙了",
+      "onboard_time": 1735558339,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157900,
       "num": 157900,
       "word": "李雪琴王皓 邪门但好嗑",
       "onboard_time": 1735444520,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 157869,
+      "num": 157869,
+      "word": "鞠婧祎跨年唱褪黑素",
+      "onboard_time": 1735561160,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 157678,
@@ -4227,12 +4331,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146790,
+      "num": 146790,
+      "word": "高价宠物殡葬收费达万元",
+      "onboard_time": 1735559841,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146737,
       "num": 146737,
       "word": "感觉这鸟小时候抱过我",
       "onboard_time": 1735464079,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146490,
+      "num": 146490,
+      "word": "白鹿官宣央视跨年",
+      "onboard_time": 1735559779,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 146174,
+      "num": 192076,
+      "word": "樊振东退出世界排名不只是为了自己",
+      "onboard_time": 1735560860,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 145712,
@@ -4379,6 +4507,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 140294,
+      "num": 140294,
+      "word": "王曼昱复出",
+      "onboard_time": 1735559660,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140170,
       "num": 177931,
       "word": "妻子剖腹产丈夫请搬家公司搬回家",
@@ -4417,6 +4553,22 @@
       "onboard_time": 1735440139,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137682,
+      "num": 252053,
+      "word": "伊能静 恩利不需要一个完美妈妈",
+      "onboard_time": 1735561699,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 137525,
+      "num": 137525,
+      "word": "张泉灵会靠知否解压",
+      "onboard_time": 1735561521,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 137292,
@@ -4465,14 +4617,6 @@
       "onboard_time": 1735433537,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 135364,
-      "num": 135364,
-      "word": "李小冉你这话也太糙了",
-      "onboard_time": 1735558339,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 135107,
@@ -4635,6 +4779,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 125083,
+      "num": 481505,
+      "word": "你最期待的2025跨年舞台",
+      "onboard_time": 1735561941,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124639,
       "num": 124639,
       "word": "柳演锡演技",
@@ -4667,12 +4819,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123369,
+      "num": 123369,
+      "word": "孙颖莎说不论输赢希望能全力以赴",
+      "onboard_time": 1735562299,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123157,
       "num": 177565,
       "word": "亡母金镯被熔儿子回应要求父亲道歉",
       "onboard_time": 1735398862,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122927,
+      "num": 122927,
+      "word": "2025年金价会持续走高吗",
+      "onboard_time": 1735560199,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 122562,
@@ -4747,6 +4915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119227,
+      "num": 119227,
+      "word": "薯饼 全日制",
+      "onboard_time": 1735562361,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 118709,
       "num": 263386,
       "word": "2025春运购票日历",
@@ -4760,6 +4936,14 @@
       "word": "四旬老汉詹姆斯",
       "onboard_time": 1735532001,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 117843,
+      "num": 117843,
+      "word": "樊振东陈梦为何退出WTT",
+      "onboard_time": 1735562361,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -6385,6 +6569,14 @@
       "onboard_time": 1735464619,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 19777,
+      "num": 169020,
+      "word": "为父海上追凶姐妹将继续上诉",
+      "onboard_time": 1735561220,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19280,
