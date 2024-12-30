@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1735529337956,
+  "endTime": 1735530190124,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -497,6 +497,14 @@
       "onboard_time": 1722139881,
       "rank": 20,
       "category": "国外时政,体育"
+    },
+    {
+      "raw_hot": 15478881,
+      "num": 16728881,
+      "word": "河北邯郸初中生被杀案一审宣判",
+      "onboard_time": 1735528399,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 15346908,
@@ -1993,14 +2001,6 @@
       "onboard_time": 1710547951,
       "rank": 13,
       "category": "教育"
-    },
-    {
-      "raw_hot": 9136656,
-      "num": 10386656,
-      "word": "河北邯郸初中生被杀案一审宣判",
-      "onboard_time": 1735528399,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 9102725,
