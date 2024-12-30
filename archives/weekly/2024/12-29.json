@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735600864191,
+  "endTime": 1735601731122,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -683,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 821465,
+      "num": 926503,
+      "word": "缅北明家靠诈骗过奢靡生活",
+      "onboard_time": 1735574239,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 805241,
       "num": 805241,
       "word": "难哄 任性",
@@ -697,14 +705,6 @@
       "onboard_time": 1735456160,
       "rank": 4,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 780298,
-      "num": 819292,
-      "word": "缅北明家靠诈骗过奢靡生活",
-      "onboard_time": 1735574239,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 779800,
@@ -1416,6 +1416,14 @@
       "word": "苏新皓的网盘",
       "onboard_time": 1735541539,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 440763,
+      "num": 205593,
+      "word": "女演员姜尘自曝曾被男明星家暴",
+      "onboard_time": 1735600694,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -2483,6 +2491,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 260209,
+      "num": 260209,
+      "word": "WTT85%股份由ITTF持有",
+      "onboard_time": 1735583171,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 260093,
       "num": 463639,
       "word": "接任3天韩国代总统被立案调查",
@@ -2811,6 +2827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231043,
+      "num": 208898,
+      "word": "蒋勤勤感谢易烊千玺",
+      "onboard_time": 1735574719,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 230760,
       "num": 230759,
       "word": "个税专项附加扣除明天截止",
@@ -3009,14 +3033,6 @@
       "onboard_time": 1735543220,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 212352,
-      "num": 208898,
-      "word": "蒋勤勤感谢易烊千玺",
-      "onboard_time": 1735574719,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 211635,
@@ -3763,14 +3779,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 188596,
-      "num": 188596,
-      "word": "WTT85%股份由ITTF持有",
-      "onboard_time": 1735583171,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 188505,
       "num": 188505,
       "word": "柯南樱花场超火爆加场",
@@ -3865,6 +3873,14 @@
       "onboard_time": 1735561759,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 184038,
+      "num": 202558,
+      "word": "刘梓晨参加演员请就位",
+      "onboard_time": 1735600936,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 183999,
@@ -5108,7 +5124,7 @@
     },
     {
       "raw_hot": 135797,
-      "num": 123431,
+      "num": 131745,
       "word": "千万彩票被冒领当事人说宁可没中彩票",
       "onboard_time": 1735580833,
       "rank": 9,
@@ -5227,14 +5243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132902,
-      "num": 132902,
-      "word": "女演员姜尘自曝曾被男明星家暴",
-      "onboard_time": 1735600694,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 132138,
       "num": 262874,
       "word": "樊振东陈梦为何退出WTT",
@@ -5329,6 +5337,14 @@
       "onboard_time": 1735547539,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 127082,
+      "num": 105423,
+      "word": "去爬山结果自己成了景点",
+      "onboard_time": 1735600756,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 125971,
@@ -5579,6 +5595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116083,
+      "num": 116083,
+      "word": "蔡徐坤ins更新",
+      "onboard_time": 1735600756,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116017,
       "num": 116017,
       "word": "有人自林中坠落",
@@ -5667,6 +5691,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 109240,
+      "num": 109240,
+      "word": "国际乒联连续三年亏损运营",
+      "onboard_time": 1735600756,
+      "rank": 27,
+      "category": "体育,电竞"
+    },
+    {
       "raw_hot": 109057,
       "num": 109057,
       "word": "九重紫",
@@ -5721,6 +5753,14 @@
       "onboard_time": 1735428554,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105383,
+      "num": 105383,
+      "word": "马龙祝你不惧时间不怕向前",
+      "onboard_time": 1735601536,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 104386,
@@ -6027,6 +6067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87109,
+      "num": 87109,
+      "word": "曼联0比2纽卡斯尔联",
+      "onboard_time": 1735601295,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86503,
       "num": 552860,
       "word": "孙颖莎3比1何卓佳",
@@ -6121,14 +6169,6 @@
       "onboard_time": 1735466119,
       "rank": 9,
       "category": "国内时政,民生新闻"
-    },
-    {
-      "raw_hot": 79700,
-      "num": 79700,
-      "word": "国际乒联连续三年亏损运营",
-      "onboard_time": 1735600756,
-      "rank": 27,
-      "category": "体育,电竞"
     },
     {
       "raw_hot": 79303,
@@ -6227,6 +6267,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 72955,
+      "num": 72955,
+      "word": "大奉打更人妆造",
+      "onboard_time": 1735599374,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 71764,
       "num": 351364,
       "word": "朱一龙蝉联金莲花最佳男主角",
@@ -6275,12 +6323,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68338,
+      "num": 68338,
+      "word": "姜尘是谁",
+      "onboard_time": 1735601175,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68184,
       "num": 484951,
       "word": "乒超女团山东vs黄石",
       "onboard_time": 1735554860,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68013,
+      "num": 107570,
+      "word": "多方回应16岁女孩湖边落水溺亡",
+      "onboard_time": 1735597451,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67880,
@@ -6297,6 +6361,14 @@
       "onboard_time": 1735470081,
       "rank": 29,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 67067,
+      "num": 67067,
+      "word": "俄罗斯前国脚前线阵亡",
+      "onboard_time": 1735601656,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 66588,
@@ -6321,6 +6393,14 @@
       "onboard_time": 1735534880,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65946,
+      "num": 65946,
+      "word": "A股2024最后一个交易日",
+      "onboard_time": 1735601536,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 65933,
@@ -6361,22 +6441,6 @@
       "onboard_time": 1735474461,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 64618,
-      "num": 107570,
-      "word": "多方回应16岁女孩湖边落水溺亡",
-      "onboard_time": 1735597451,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 63351,
-      "num": 63351,
-      "word": "蔡徐坤ins更新",
-      "onboard_time": 1735600756,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 63329,
@@ -6433,14 +6497,6 @@
       "onboard_time": 1735484723,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 60828,
-      "num": 60828,
-      "word": "去爬山结果自己成了景点",
-      "onboard_time": 1735600756,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 60798,
@@ -6513,6 +6569,14 @@
       "onboard_time": 1735563320,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 57309,
+      "num": 57309,
+      "word": "1月份十二星座注意事项",
+      "onboard_time": 1735601536,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 56920,
@@ -6595,11 +6659,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 52753,
-      "num": 52753,
-      "word": "大奉打更人妆造",
-      "onboard_time": 1735599374,
-      "rank": 36,
+      "raw_hot": 52796,
+      "num": 52796,
+      "word": "王鹤棣无水雾版腹肌",
+      "onboard_time": 1735584912,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -6723,14 +6787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 47841,
-      "num": 47841,
-      "word": "王鹤棣无水雾版腹肌",
-      "onboard_time": 1735584912,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 47721,
       "num": 509078,
       "word": "王曼昱陈幸同与孙颖莎顶峰相见",
@@ -6739,20 +6795,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47566,
+      "num": 47566,
+      "word": "2024你追过哪些国产影视",
+      "onboard_time": 1735598894,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 47221,
       "num": 741719,
       "word": "2024那些治愈瞬间",
       "onboard_time": 1735548799,
       "rank": 2,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 45934,
-      "num": 45934,
-      "word": "2024你追过哪些国产影视",
-      "onboard_time": 1735598894,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 45839,
@@ -7715,6 +7771,14 @@
       "category": "运动健身,其它"
     },
     {
+      "raw_hot": 16540,
+      "num": 116671,
+      "word": "黎深零下沸点",
+      "onboard_time": 1735600694,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 16492,
       "num": 36916,
       "word": "考古首次发现记载秦人的甲骨",
@@ -7780,7 +7844,7 @@
     },
     {
       "raw_hot": 14926,
-      "num": 484301,
+      "num": 490672,
       "word": "一组数据看中国空间站成绩单",
       "onboard_time": 1735563560,
       "rank": 2,
@@ -7825,6 +7889,14 @@
       "onboard_time": 1735530080,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 13662,
+      "num": 72978,
+      "word": "2024年电影总票房421.26亿",
+      "onboard_time": 1735601056,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 13643,
@@ -7881,14 +7953,6 @@
       "onboard_time": 1735456338,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 12757,
-      "num": 116671,
-      "word": "黎深零下沸点",
-      "onboard_time": 1735600694,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 12453,
@@ -8041,6 +8105,14 @@
       "onboard_time": 1735406896,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 7854,
+      "num": 205793,
+      "word": "2024那些惊艳的影视台词",
+      "onboard_time": 1735601415,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 7369,
