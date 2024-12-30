@@ -1,0 +1,410 @@
+{
+  "runTime": 1735543406356,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2259625,
+        "num": 2259625,
+        "word": "河北邯郸初中生被杀案一审宣判",
+        "onboard_time": 1735528399,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1698563,
+        "num": 1698563,
+        "word": "中国人在缅北被明码标价交易",
+        "onboard_time": 1735540219,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28052,
+        "num": 1300334,
+        "word": "10个关键词收藏2024记忆",
+        "onboard_time": 1735521259,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1250468,
+        "num": 1250468,
+        "word": "娄艺潇回应整容",
+        "onboard_time": 1735537341,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1090248,
+        "num": 1090248,
+        "word": "黄奕11岁女儿体态",
+        "onboard_time": 1735538599,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1039407,
+        "num": 1039407,
+        "word": "20岁儿子死在缅北妈妈被骗90万元",
+        "onboard_time": 1735541600,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 874741,
+        "num": 874741,
+        "word": "韩国失事客机有28位无法确认身份人员",
+        "onboard_time": 1735538841,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 714870,
+        "num": 714870,
+        "word": "女子患癌1年多难得旅行遇空难身亡",
+        "onboard_time": 1735529962,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 93623,
+        "num": 669119,
+        "word": "孙颖莎总结乒超半决赛",
+        "onboard_time": 1735542258,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46971,
+        "num": 640241,
+        "word": "点外卖监视女友行踪违法吗",
+        "onboard_time": 1735533443,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 638508,
+        "num": 638508,
+        "word": "央视跨年晚会第一批阵容官宣",
+        "onboard_time": 1735532001,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 509385,
+        "num": 509385,
+        "word": "大奉打更人收视率破1",
+        "onboard_time": 1735540159,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 489731,
+        "num": 489731,
+        "word": "朴成焄ins秒删",
+        "onboard_time": 1735537940,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386665,
+        "num": 386665,
+        "word": "缅北明家都干了哪些恶事",
+        "onboard_time": 1735540159,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37363,
+        "num": 379669,
+        "word": "韩国将全面检查现有波音737-800型客机",
+        "onboard_time": 1735542559,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 374404,
+        "num": 374404,
+        "word": "白百何和老公带儿子打游戏",
+        "onboard_time": 1735538960,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319744,
+        "num": 319744,
+        "word": "韩国济州航空同机型飞机故障返航",
+        "onboard_time": 1735541780,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 20219,
+        "num": 319631,
+        "word": "演员如何挣脱一个既定形",
+        "onboard_time": 1735543280,
+        "rank": 17,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 33501,
+        "num": 319527,
+        "word": "巩立姣回应巴黎奥运会泪洒赛场",
+        "onboard_time": 1735542379,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42245,
+        "num": 319354,
+        "word": "孩子表演时彩虹合唱团突然乱入",
+        "onboard_time": 1735542258,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366190,
+        "num": 319125,
+        "word": "微波炉热了10分钟的馒头",
+        "onboard_time": 1735537160,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 348116,
+        "num": 318983,
+        "word": "肖战蝉联第6年世首帅",
+        "onboard_time": 1735535302,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43215,
+        "num": 318864,
+        "word": "何洁给陌生女孩的歌",
+        "onboard_time": 1735542258,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181206,
+        "num": 318620,
+        "word": "贾玲C位",
+        "onboard_time": 1735542739,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 224714,
+        "num": 318416,
+        "word": "孙颖莎王楚钦上海同行被偶遇",
+        "onboard_time": 1735542859,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318387,
+        "num": 318387,
+        "word": "韩国又一客机起落架故障",
+        "onboard_time": 1735516998,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 96801,
+        "num": 317952,
+        "word": "韩失事客机机型无释放燃料功能",
+        "onboard_time": 1735542078,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 36549,
+        "num": 316663,
+        "word": "Turbo4超级能效",
+        "onboard_time": 1735542258,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 77623,
+        "num": 316387,
+        "word": "杨幂八年八连登封费加罗",
+        "onboard_time": 1735543340,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 28324,
+        "num": 315563,
+        "word": "韩国失事客机后续航班乘客称退票遭拒",
+        "onboard_time": 1735543039,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 314751,
+        "num": 314751,
+        "word": "苏新皓的网盘",
+        "onboard_time": 1735541539,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310441,
+        "num": 310441,
+        "word": "离婚也要争婆婆的抚养权",
+        "onboard_time": 1735540999,
+        "rank": 31,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 294171,
+        "num": 294171,
+        "word": "迪丽热巴今天cos碱水结",
+        "onboard_time": 1735536800,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277772,
+        "num": 277772,
+        "word": "华为突然降价",
+        "onboard_time": 1735517540,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 275651,
+        "num": 275651,
+        "word": "鸟类为何不避开飞机",
+        "onboard_time": 1735542200,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 248529,
+        "num": 248529,
+        "word": "aespa没有逆应援",
+        "onboard_time": 1735536979,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 242049,
+        "num": 242049,
+        "word": "建议不要在12月提离职",
+        "onboard_time": 1735534281,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 236091,
+        "num": 236091,
+        "word": "薛之谦王俊凯 天外来物",
+        "onboard_time": 1735541600,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229794,
+        "num": 229794,
+        "word": "女子用车厘子喂鸡引网友羡慕",
+        "onboard_time": 1735531164,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222957,
+        "num": 222957,
+        "word": "雷军千万年薪挖角95后AI天才少女",
+        "onboard_time": 1735522759,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 200564,
+        "num": 200564,
+        "word": "情绪是失语症的第一位诱因",
+        "onboard_time": 1735537160,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 188146,
+        "num": 188146,
+        "word": "种地吧",
+        "onboard_time": 1735542619,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184512,
+        "num": 184512,
+        "word": "哪部剧是2024年黑马剧",
+        "onboard_time": 1735539680,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182056,
+        "num": 182056,
+        "word": "aespa 紫菜包饭",
+        "onboard_time": 1735541780,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165824,
+        "num": 165824,
+        "word": "杨幂费加罗闭年刊高定封面",
+        "onboard_time": 1735541178,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 163909,
+        "num": 163909,
+        "word": "明家犯罪集团案诈骗数十亿元",
+        "onboard_time": 1735538960,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156258,
+        "num": 156258,
+        "word": "韩国旅游业受到重创",
+        "onboard_time": 1735542798,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 151612,
+        "num": 151612,
+        "word": "WTT长期赞助商只有4个",
+        "onboard_time": 1735543220,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150511,
+        "num": 150511,
+        "word": "12306推出系统自动提交订单功能",
+        "onboard_time": 1735531641,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149299,
+        "num": 149299,
+        "word": "黑色大衣是胡歌和阿宝的开关",
+        "onboard_time": 1735541059,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将发表2025新年贺词#"
+    }
+  }
+}

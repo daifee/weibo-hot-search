@@ -1,6 +1,6 @@
 {
   "startTime": 1735489511133,
-  "endTime": 1735541104881,
+  "endTime": 1735543406356,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -33,6 +33,14 @@
       "onboard_time": 1735478060,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1698563,
+      "num": 1698563,
+      "word": "中国人在缅北被明码标价交易",
+      "onboard_time": 1735540219,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1697786,
@@ -131,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1039407,
+      "num": 1039407,
+      "word": "20岁儿子死在缅北妈妈被骗90万元",
+      "onboard_time": 1735541600,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 999229,
       "num": 420075,
       "word": "她最后一刻发的是妈妈我爱你",
@@ -177,6 +193,14 @@
       "onboard_time": 1735525759,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 874741,
+      "num": 874741,
+      "word": "韩国失事客机有28位无法确认身份人员",
+      "onboard_time": 1735538841,
+      "rank": 15,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 852248,
@@ -323,12 +347,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 509385,
+      "num": 509385,
+      "word": "大奉打更人收视率破1",
+      "onboard_time": 1735540159,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 495031,
       "num": 368880,
       "word": "建议不要在12月提离职",
       "onboard_time": 1735534281,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 489731,
+      "num": 489731,
+      "word": "朴成焄ins秒删",
+      "onboard_time": 1735537940,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 483558,
@@ -347,28 +387,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 464141,
-      "num": 464141,
-      "word": "中国人在缅北被明码标价交易",
-      "onboard_time": 1735540219,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 461978,
-      "num": 245565,
+      "num": 319125,
       "word": "微波炉热了10分钟的馒头",
       "onboard_time": 1735537160,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 458128,
-      "num": 400598,
-      "word": "朴成焄ins秒删",
-      "onboard_time": 1735537940,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 434006,
@@ -411,14 +435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 400622,
-      "num": 400622,
-      "word": "韩国失事客机有28位无法确认身份人员",
-      "onboard_time": 1735538841,
-      "rank": 15,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 400510,
       "num": 400510,
       "word": "迪丽热巴今天cos碱水结",
@@ -432,6 +448,14 @@
       "word": "住北京0.5环是什么体验",
       "onboard_time": 1735527739,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 386665,
+      "num": 386665,
+      "word": "缅北明家都干了哪些恶事",
+      "onboard_time": 1735540159,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -563,12 +587,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 319744,
+      "num": 319744,
+      "word": "韩国济州航空同机型飞机故障返航",
+      "onboard_time": 1735541780,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 315041,
       "num": 315041,
       "word": "虞书欣 往那一站和小手办一样",
       "onboard_time": 1735518620,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 314751,
+      "num": 314751,
+      "word": "苏新皓的网盘",
+      "onboard_time": 1735541539,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 310441,
+      "num": 310441,
+      "word": "离婚也要争婆婆的抚养权",
+      "onboard_time": 1735540999,
+      "rank": 48,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 301083,
@@ -649,6 +697,14 @@
       "onboard_time": 1735513936,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 275651,
+      "num": 275651,
+      "word": "鸟类为何不避开飞机",
+      "onboard_time": 1735542200,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 274260,
@@ -771,14 +827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 242354,
-      "num": 244859,
-      "word": "大奉打更人收视率破1",
-      "onboard_time": 1735540159,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 239274,
       "num": 376194,
       "word": "金晨哭戏",
@@ -811,6 +859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 236091,
+      "num": 236091,
+      "word": "薛之谦王俊凯 天外来物",
+      "onboard_time": 1735541600,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233691,
       "num": 233691,
       "word": "为什么年轻人开始积极存钱",
@@ -841,6 +897,14 @@
       "onboard_time": 1735485800,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 224714,
+      "num": 318416,
+      "word": "孙颖莎王楚钦上海同行被偶遇",
+      "onboard_time": 1735542859,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 218754,
@@ -1019,20 +1083,20 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 190690,
-      "num": 236023,
-      "word": "缅北明家都干了哪些恶事",
-      "onboard_time": 1735540159,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 190016,
       "num": 190016,
       "word": "丁禹兮问蔡文静要檀健次演唱会门票",
       "onboard_time": 1735537400,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 188146,
+      "num": 188146,
+      "word": "种地吧",
+      "onboard_time": 1735542619,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 188093,
@@ -1059,6 +1123,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 184512,
+      "num": 244790,
+      "word": "哪部剧是2024年黑马剧",
+      "onboard_time": 1735539680,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183082,
       "num": 360386,
       "word": "WTT世界排名",
@@ -1075,6 +1147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182056,
+      "num": 182056,
+      "word": "aespa 紫菜包饭",
+      "onboard_time": 1735541780,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 181301,
       "num": 181301,
       "word": "九重紫苏琰是宋墨妹妹",
@@ -1089,6 +1169,14 @@
       "onboard_time": 1735470260,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 181206,
+      "num": 318620,
+      "word": "贾玲C位",
+      "onboard_time": 1735542739,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 177812,
@@ -1155,8 +1243,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165824,
+      "num": 165824,
+      "word": "杨幂费加罗闭年刊高定封面",
+      "onboard_time": 1735541178,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 164722,
-      "num": 648213,
+      "num": 1300334,
       "word": "10个关键词收藏2024记忆",
       "onboard_time": 1735521259,
       "rank": 9,
@@ -1195,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156258,
+      "num": 156258,
+      "word": "韩国旅游业受到重创",
+      "onboard_time": 1735542798,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 155665,
       "num": 251244,
       "word": "江苏卫视跨年无尽空间镜面舞台",
@@ -1203,12 +1307,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151612,
+      "num": 151612,
+      "word": "WTT长期赞助商只有4个",
+      "onboard_time": 1735543220,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151586,
       "num": 151586,
       "word": "田曦薇的手机壳是临安公主",
       "onboard_time": 1735473560,
       "rank": 35,
       "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 149299,
+      "num": 231742,
+      "word": "黑色大衣是胡歌和阿宝的开关",
+      "onboard_time": 1735541059,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 149144,
@@ -1348,7 +1468,7 @@
     },
     {
       "raw_hot": 129966,
-      "num": 193169,
+      "num": 640241,
       "word": "点外卖监视女友行踪违法吗",
       "onboard_time": 1735533443,
       "rank": 46,
@@ -1417,14 +1537,6 @@
       "onboard_time": 1735533982,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118090,
-      "num": 118090,
-      "word": "离婚也要争婆婆的抚养权",
-      "onboard_time": 1735540999,
-      "rank": 48,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 117906,
@@ -1499,6 +1611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 96801,
+      "num": 317952,
+      "word": "韩失事客机机型无释放燃料功能",
+      "onboard_time": 1735542078,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 93805,
       "num": 93805,
       "word": "无限暖暖",
@@ -1513,6 +1633,14 @@
       "onboard_time": 1735534522,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93623,
+      "num": 669119,
+      "word": "孙颖莎总结乒超半决赛",
+      "onboard_time": 1735542258,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 91648,
@@ -1577,6 +1705,14 @@
       "onboard_time": 1735534042,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77623,
+      "num": 316387,
+      "word": "杨幂八年八连登封费加罗",
+      "onboard_time": 1735543340,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 73575,
@@ -1659,14 +1795,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 59432,
-      "num": 231742,
-      "word": "黑色大衣是胡歌和阿宝的开关",
-      "onboard_time": 1735541059,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 59424,
       "num": 366674,
       "word": "为何韩国失事客机着陆后无法减速",
@@ -1705,14 +1833,6 @@
       "onboard_time": 1735500072,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 50515,
-      "num": 244790,
-      "word": "哪部剧是2024年黑马剧",
-      "onboard_time": 1735539680,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 49631,
@@ -1755,12 +1875,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43215,
+      "num": 318864,
+      "word": "何洁给陌生女孩的歌",
+      "onboard_time": 1735542258,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 42652,
       "num": 42652,
       "word": "肖战说打动人的永远是真挚情感",
       "onboard_time": 1735510332,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 42245,
+      "num": 319354,
+      "word": "孩子表演时彩虹合唱团突然乱入",
+      "onboard_time": 1735542258,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41468,
@@ -1819,12 +1955,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 37363,
+      "num": 379669,
+      "word": "韩国将全面检查现有波音737-800型客机",
+      "onboard_time": 1735542559,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 37138,
       "num": 37138,
       "word": "易烊千玺演完刘春和半年还有肌肉记忆",
       "onboard_time": 1735494134,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 36549,
+      "num": 316663,
+      "word": "Turbo4超级能效",
+      "onboard_time": 1735542258,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 36091,
@@ -1856,6 +2008,14 @@
       "word": "乒超联赛总决赛今日开赛",
       "onboard_time": 1735517839,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 33501,
+      "num": 319527,
+      "word": "巩立姣回应巴黎奥运会泪洒赛场",
+      "onboard_time": 1735542379,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -1897,6 +2057,14 @@
       "onboard_time": 1735495333,
       "rank": 38,
       "category": "民生新闻,幽默"
+    },
+    {
+      "raw_hot": 28324,
+      "num": 315563,
+      "word": "韩国失事客机后续航班乘客称退票遭拒",
+      "onboard_time": 1735543039,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 26591,
@@ -1977,6 +2145,14 @@
       "onboard_time": 1735536740,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20219,
+      "num": 319631,
+      "word": "演员如何挣脱一个既定形",
+      "onboard_time": 1735543280,
+      "rank": 17,
+      "category": "艺人,剧集"
     },
     {
       "raw_hot": 19280,
