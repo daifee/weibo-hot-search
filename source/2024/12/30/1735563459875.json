@@ -1,0 +1,410 @@
+{
+  "runTime": 1735563459875,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1435147,
+        "num": 1435147,
+        "word": "韩国空难幸存空少恐全身瘫痪",
+        "onboard_time": 1735544600,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1222562,
+        "num": 1222562,
+        "word": "赵露思生病",
+        "onboard_time": 1735559719,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96586,
+        "num": 918694,
+        "word": "警方讲述缅北1020案侦办始末",
+        "onboard_time": 1735548620,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 767085,
+        "num": 767085,
+        "word": "韩失事客机飞行员3次发出求救信号",
+        "onboard_time": 1735556838,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 751882,
+        "num": 751882,
+        "word": "李沐宸片酬",
+        "onboard_time": 1735557019,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 675999,
+        "num": 675999,
+        "word": "教育局回应中学教师与学生亲吻搂抱",
+        "onboard_time": 1735548740,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 670960,
+        "num": 670960,
+        "word": "吴奇隆马雅舒离婚后不同境遇",
+        "onboard_time": 1735549340,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 661680,
+        "num": 661680,
+        "word": "夏之光 我要工作",
+        "onboard_time": 1735560020,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 495173,
+        "num": 495173,
+        "word": "男子住女友家5年分手后被判付23万",
+        "onboard_time": 1735558999,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58129,
+        "num": 467001,
+        "word": "多名男子赴云南高价闪婚被骗",
+        "onboard_time": 1735561580,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 636576,
+        "num": 462984,
+        "word": "王鹤棣半裸戏",
+        "onboard_time": 1735558640,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 458916,
+        "num": 458916,
+        "word": "20岁儿子死在缅北妈妈被骗90万元",
+        "onboard_time": 1735541600,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 424122,
+        "num": 424122,
+        "word": "中国人在缅北被明码标价交易",
+        "onboard_time": 1735540219,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 421053,
+        "num": 421053,
+        "word": "男子花近40万相亲1天结婚领证",
+        "onboard_time": 1735555940,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 390951,
+        "num": 390951,
+        "word": "男子公司年会上饮酒身亡无同事发现",
+        "onboard_time": 1735558579,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389936,
+        "num": 389936,
+        "word": "泰国女子探望完家人后在韩遇空难身亡",
+        "onboard_time": 1735559360,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 358185,
+        "num": 358185,
+        "word": "伊能静 恩利不需要一个完美妈妈",
+        "onboard_time": 1735561699,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348511,
+        "num": 348511,
+        "word": "Doinb NIP",
+        "onboard_time": 1735562119,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149921,
+        "num": 339583,
+        "word": "张凌赫粉丝生怕他不认识字",
+        "onboard_time": 1735562599,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79196,
+        "num": 337669,
+        "word": "许昕回应代表运动员宣誓",
+        "onboard_time": 1735562780,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 357518,
+        "num": 337296,
+        "word": "河北邯郸初中生被杀案一审宣判",
+        "onboard_time": 1735528399,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 336669,
+        "num": 336669,
+        "word": "以色列",
+        "onboard_time": 1735552760,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 305422,
+        "num": 305422,
+        "word": "雷军千万年薪聘用的95后女生履历",
+        "onboard_time": 1735562780,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 274268,
+        "num": 274268,
+        "word": "薯饼 全日制",
+        "onboard_time": 1735562361,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 132138,
+        "num": 262874,
+        "word": "樊振东陈梦为何退出WTT",
+        "onboard_time": 1735562361,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255993,
+        "num": 255993,
+        "word": "你最期待的2025跨年舞台",
+        "onboard_time": 1735561941,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255846,
+        "num": 255846,
+        "word": "赵露思1月到12月的变化",
+        "onboard_time": 1735555639,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247986,
+        "num": 247986,
+        "word": "李诞你们稍微隐晦点",
+        "onboard_time": 1735558940,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247171,
+        "num": 247171,
+        "word": "贾玲C位",
+        "onboard_time": 1735542739,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 246981,
+        "num": 246981,
+        "word": "李小冉你这话也太糙了",
+        "onboard_time": 1735558339,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238245,
+        "num": 238245,
+        "word": "山东鲁能晋级女团决赛",
+        "onboard_time": 1735561339,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219552,
+        "num": 219552,
+        "word": "娄艺潇回应整容",
+        "onboard_time": 1735537341,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211212,
+        "num": 211212,
+        "word": "白鹿王楚然周也同框",
+        "onboard_time": 1735562900,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197958,
+        "num": 197958,
+        "word": "看误杀3知道了采生折割",
+        "onboard_time": 1735562900,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192957,
+        "num": 192957,
+        "word": "王源湖南卫视跨年彩排图",
+        "onboard_time": 1735562840,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42177,
+        "num": 191720,
+        "word": "夏之光高铁站被围堵",
+        "onboard_time": 1735563320,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191249,
+        "num": 191249,
+        "word": "网传异人之下2播出时间",
+        "onboard_time": 1735563020,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169920,
+        "num": 169920,
+        "word": "向佐致歉",
+        "onboard_time": 1735563200,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166946,
+        "num": 166946,
+        "word": "四川一学校全体教师举报副校长",
+        "onboard_time": 1735547539,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 159852,
+        "num": 159852,
+        "word": "樊振东退出世界排名不只是为了自己",
+        "onboard_time": 1735560860,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153831,
+        "num": 153831,
+        "word": "Doinb官宣复出",
+        "onboard_time": 1735562599,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149646,
+        "num": 149646,
+        "word": "男子钓到56斤鳡鱼绕城5小时炫耀",
+        "onboard_time": 1735563080,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147586,
+        "num": 147586,
+        "word": "女子患癌1年多难得旅行遇空难身亡",
+        "onboard_time": 1735529962,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 147350,
+        "num": 147350,
+        "word": "关晓彤总台跨年",
+        "onboard_time": 1735557200,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145299,
+        "num": 145299,
+        "word": "韩国济州航空同机型飞机故障返航",
+        "onboard_time": 1735541780,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 136967,
+        "num": 136967,
+        "word": "孙颖莎世界排名积分破万领跑",
+        "onboard_time": 1735563259,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136669,
+        "num": 136669,
+        "word": "汪苏泷演唱会",
+        "onboard_time": 1735561759,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134360,
+        "num": 134360,
+        "word": "李在明跪地安慰失事客机遇难者家属",
+        "onboard_time": 1735550660,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 134059,
+        "num": 134059,
+        "word": "朱一龙冬日幕语轻启",
+        "onboard_time": 1735563378,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133400,
+        "num": 133400,
+        "word": "孙颖莎说不论输赢希望能全力以赴",
+        "onboard_time": 1735562299,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#党的纪律和干事创业是内在统一的#"
+    }
+  }
+}
