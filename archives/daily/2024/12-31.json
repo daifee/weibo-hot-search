@@ -1,6 +1,6 @@
 {
   "startTime": 1735576065390,
-  "endTime": 1735580201280,
+  "endTime": 1735583413528,
   "band_list": [
     {
       "raw_hot": 1781083,
@@ -307,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109589,
+      "num": 109589,
+      "word": "本周上四休三不调休",
+      "onboard_time": 1735577775,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99973,
       "num": 115357,
       "word": "朱一龙电影部部有回响",
@@ -377,6 +385,14 @@
       "onboard_time": 1735563080,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71213,
+      "num": 54027,
+      "word": "WTT85%股份由ITTF持有",
+      "onboard_time": 1735583171,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 70245,
@@ -467,12 +483,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 42610,
-      "num": 42610,
-      "word": "本周上四休三不调休",
-      "onboard_time": 1735577775,
-      "rank": 46,
+      "raw_hot": 39954,
+      "num": 99549,
+      "word": "千万彩票被冒领当事人说宁可没中彩票",
+      "onboard_time": 1735580833,
+      "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27646,
+      "num": 27646,
+      "word": "张杰三亚演唱会",
+      "onboard_time": 1735582512,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 27344,
@@ -481,6 +505,38 @@
       "onboard_time": 1735574600,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 27177,
+      "num": 27177,
+      "word": "赵小童 来两场说走就走的旅行",
+      "onboard_time": 1735582813,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 26627,
+      "num": 26627,
+      "word": "檀健次穿好六惩罚表情包衣服",
+      "onboard_time": 1735583171,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 26567,
+      "num": 26567,
+      "word": "张康乐马柏全cp感",
+      "onboard_time": 1735581373,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 25568,
+      "num": 26384,
+      "word": "檀健次自己的梗自己舞",
+      "onboard_time": 1735582632,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 22204,
@@ -511,6 +567,14 @@
       "num": 65729,
       "word": "陈梦勇往直前",
       "onboard_time": 1735579754,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 8766,
+      "num": 44040,
+      "word": "2024体坛榜样年度评选揭晓",
+      "onboard_time": 1735581013,
       "rank": 24,
       "category": "体育"
     }
