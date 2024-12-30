@@ -1,0 +1,410 @@
+{
+  "runTime": 1735554244449,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2096067,
+        "num": 2096067,
+        "word": "韩国空难幸存空少恐全身瘫痪",
+        "onboard_time": 1735544600,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1128521,
+        "num": 1128521,
+        "word": "教育局回应中学教师与学生亲吻搂抱",
+        "onboard_time": 1735548740,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104175,
+        "num": 794195,
+        "word": "警方讲述缅北1020案侦办始末",
+        "onboard_time": 1735548620,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 588900,
+        "num": 588900,
+        "word": "以色列",
+        "onboard_time": 1735552760,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 569609,
+        "num": 569609,
+        "word": "四川一学校全体教师举报副校长",
+        "onboard_time": 1735547539,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 561196,
+        "num": 561196,
+        "word": "中国人在缅北被明码标价交易",
+        "onboard_time": 1735540219,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 556644,
+        "num": 556644,
+        "word": "贾玲C位",
+        "onboard_time": 1735542739,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 503734,
+        "num": 503734,
+        "word": "女子患癌1年多难得旅行遇空难身亡",
+        "onboard_time": 1735529962,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 467435,
+        "num": 467435,
+        "word": "短剧演员片酬",
+        "onboard_time": 1735552879,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180373,
+        "num": 463639,
+        "word": "接任3天韩国代总统被立案调查",
+        "onboard_time": 1735553059,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1393904,
+        "num": 457658,
+        "word": "李在明跪地安慰失事客机遇难者家属",
+        "onboard_time": 1735550660,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1193845,
+        "num": 449246,
+        "word": "吴奇隆马雅舒离婚后不同境遇",
+        "onboard_time": 1735549340,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 852173,
+        "num": 443560,
+        "word": "建议周三放一天假的理由",
+        "onboard_time": 1735545799,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 440149,
+        "num": 440149,
+        "word": "娄艺潇回应整容",
+        "onboard_time": 1735537341,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70951,
+        "num": 434786,
+        "word": "千万彩票被冒领当事人仍未拿到奖金",
+        "onboard_time": 1735553779,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 324772,
+        "num": 430730,
+        "word": "杨幂湖南卫视跨年素颜彩排照",
+        "onboard_time": 1735549579,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 549701,
+        "num": 419867,
+        "word": "迪丽热巴小时候的童年照片",
+        "onboard_time": 1735549760,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219201,
+        "num": 412659,
+        "word": "李昀锐浙江跨年彩排",
+        "onboard_time": 1735552940,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 497388,
+        "num": 410429,
+        "word": "20岁儿子死在缅北妈妈被骗90万元",
+        "onboard_time": 1735541600,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25702,
+        "num": 403796,
+        "word": "奥特曼音乐之父去世",
+        "onboard_time": 1735554080,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 710150,
+        "num": 391909,
+        "word": "河北邯郸初中生被杀案一审宣判",
+        "onboard_time": 1735528399,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 549017,
+        "num": 387471,
+        "word": "安小鸟保胎",
+        "onboard_time": 1735547419,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288917,
+        "num": 380687,
+        "word": "孟子义 菩提树下的一朵花",
+        "onboard_time": 1735550540,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376334,
+        "num": 376334,
+        "word": "拜登称后悔退出总统选举",
+        "onboard_time": 1735552581,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 237189,
+        "num": 327033,
+        "word": "国际乒联回应樊振东陈梦退出世排",
+        "onboard_time": 1735552160,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287675,
+        "num": 287675,
+        "word": "2岁男童发烧后确诊甲状腺结节4级",
+        "onboard_time": 1735551500,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276560,
+        "num": 276560,
+        "word": "韩国济州航空同机型飞机故障返航",
+        "onboard_time": 1735541780,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 209172,
+        "num": 253194,
+        "word": "aespa 紫菜包饭",
+        "onboard_time": 1735541780,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 23905,
+        "num": 246588,
+        "word": "韩交通部称将调查机场跑道末端设施",
+        "onboard_time": 1735554020,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 28339,
+        "num": 242827,
+        "word": "大学生期末周现状",
+        "onboard_time": 1735553540,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 240687,
+        "num": 240687,
+        "word": "央视跨年晚会第一批阵容官宣",
+        "onboard_time": 1735532001,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238078,
+        "num": 238078,
+        "word": "韩国代总统被警方立案调查",
+        "onboard_time": 1735548740,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 227211,
+        "num": 227211,
+        "word": "国际乒联回应未收到中国乒协通知",
+        "onboard_time": 1735545619,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223751,
+        "num": 223751,
+        "word": "韩国失事客机事发前48小时执飞13次",
+        "onboard_time": 1735553059,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 219284,
+        "num": 219284,
+        "word": "恋与深空奔涌至昨夜尽头",
+        "onboard_time": 1735553600,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 54049,
+        "num": 209517,
+        "word": "杨紫致敬每一个努力向上的你",
+        "onboard_time": 1735552220,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207858,
+        "num": 207858,
+        "word": "丁禹兮冷脸AllBlack",
+        "onboard_time": 1735552940,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191157,
+        "num": 191157,
+        "word": "嗯哼 能把价格打下来的就是家人",
+        "onboard_time": 1735545199,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184935,
+        "num": 184935,
+        "word": "微波炉热了10分钟的馒头",
+        "onboard_time": 1735537160,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 7911,
+        "num": 182121,
+        "word": "水果冷泡红酒",
+        "onboard_time": 1735554140,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 28229,
+        "num": 181612,
+        "word": "一种很新的接好运方式",
+        "onboard_time": 1735548799,
+        "rank": 40,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 181335,
+        "num": 181335,
+        "word": "王一博我在彩排",
+        "onboard_time": 1735550123,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171090,
+        "num": 171090,
+        "word": "樊振东和陈梦退出世界排名意味着什么",
+        "onboard_time": 1735551738,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164584,
+        "num": 164584,
+        "word": "刘耀文生日愿望是永远爱我",
+        "onboard_time": 1735553120,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163570,
+        "num": 163570,
+        "word": "周震南 来这就是为了第一名",
+        "onboard_time": 1735551379,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163556,
+        "num": 163556,
+        "word": "姥姥高定",
+        "onboard_time": 1735552820,
+        "rank": 45,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 162686,
+        "num": 162686,
+        "word": "小伙落健身房充值陷阱半年充了84万",
+        "onboard_time": 1735550900,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162264,
+        "num": 162264,
+        "word": "国产剧里有自己的小镇赚钱家",
+        "onboard_time": 1735553841,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152716,
+        "num": 152716,
+        "word": "阴阳师",
+        "onboard_time": 1735554201,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150452,
+        "num": 150452,
+        "word": "鸟类为何不避开飞机",
+        "onboard_time": 1735542200,
+        "rank": 49,
+        "category": "科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将发表2025新年贺词#"
+    }
+  }
+}

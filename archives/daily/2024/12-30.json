@@ -1,6 +1,6 @@
 {
   "startTime": 1735489511133,
-  "endTime": 1735551470496,
+  "endTime": 1735554244449,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -107,6 +107,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1393904,
+      "num": 457658,
+      "word": "李在明跪地安慰失事客机遇难者家属",
+      "onboard_time": 1735550660,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1390399,
       "num": 1390399,
       "word": "邯郸初中生被杀案一人不予刑罚",
@@ -155,6 +163,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1193845,
+      "num": 992233,
+      "word": "吴奇隆马雅舒离婚后不同境遇",
+      "onboard_time": 1735549340,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1168597,
       "num": 1168597,
       "word": "贾玲C位",
@@ -179,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1128521,
+      "num": 1128521,
+      "word": "教育局回应中学教师与学生亲吻搂抱",
+      "onboard_time": 1735548740,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 999229,
       "num": 420075,
       "word": "她最后一刻发的是妈妈我爱你",
@@ -193,14 +217,6 @@
       "onboard_time": 1735487540,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 992233,
-      "num": 992233,
-      "word": "吴奇隆马雅舒离婚后不同境遇",
-      "onboard_time": 1735549340,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 937634,
@@ -252,7 +268,7 @@
     },
     {
       "raw_hot": 743381,
-      "num": 346941,
+      "num": 387471,
       "word": "安小鸟保胎",
       "onboard_time": 1735547419,
       "rank": 22,
@@ -363,6 +379,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 588900,
+      "num": 588900,
+      "word": "以色列",
+      "onboard_time": 1735552760,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 567675,
       "num": 531086,
       "word": "女子用车厘子喂鸡引网友羡慕",
@@ -385,6 +409,14 @@
       "onboard_time": 1735470441,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 549701,
+      "num": 419867,
+      "word": "迪丽热巴小时候的童年照片",
+      "onboard_time": 1735549760,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 548032,
@@ -443,14 +475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 511628,
-      "num": 533842,
-      "word": "教育局回应中学教师与学生亲吻搂抱",
-      "onboard_time": 1735548740,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 495031,
       "num": 368880,
       "word": "建议不要在12月提离职",
@@ -481,6 +505,14 @@
       "onboard_time": 1735530742,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 467435,
+      "num": 467435,
+      "word": "短剧演员片酬",
+      "onboard_time": 1735552879,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 461978,
@@ -588,11 +620,19 @@
     },
     {
       "raw_hot": 376822,
-      "num": 376822,
+      "num": 430730,
       "word": "杨幂湖南卫视跨年素颜彩排照",
       "onboard_time": 1735549579,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 376334,
+      "num": 376334,
+      "word": "拜登称后悔退出总统选举",
+      "onboard_time": 1735552581,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 375766,
@@ -625,14 +665,6 @@
       "onboard_time": 1735530561,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 364882,
-      "num": 364882,
-      "word": "迪丽热巴小时候的童年照片",
-      "onboard_time": 1735549760,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 358777,
@@ -793,6 +825,22 @@
       "onboard_time": 1735523178,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 288917,
+      "num": 380687,
+      "word": "孟子义 菩提树下的一朵花",
+      "onboard_time": 1735550540,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 287675,
+      "num": 287675,
+      "word": "2岁男童发烧后确诊甲状腺结节4级",
+      "onboard_time": 1735551500,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 287659,
@@ -1035,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 237189,
+      "num": 327033,
+      "word": "国际乒联回应樊振东陈梦退出世排",
+      "onboard_time": 1735552160,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 233691,
       "num": 233691,
       "word": "为什么年轻人开始积极存钱",
@@ -1052,7 +1108,7 @@
     },
     {
       "raw_hot": 230610,
-      "num": 230610,
+      "num": 253194,
       "word": "aespa 紫菜包饭",
       "onboard_time": 1735541780,
       "rank": 43,
@@ -1083,20 +1139,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 223751,
+      "num": 223751,
+      "word": "韩国失事客机事发前48小时执飞13次",
+      "onboard_time": 1735553059,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 219284,
+      "num": 219284,
+      "word": "恋与深空奔涌至昨夜尽头",
+      "onboard_time": 1735553600,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 219201,
+      "num": 412659,
+      "word": "李昀锐浙江跨年彩排",
+      "onboard_time": 1735552940,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218754,
       "num": 254758,
       "word": "周深说成为歌手是他生命的一次意外",
       "onboard_time": 1735525999,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 216370,
-      "num": 216370,
-      "word": "孟子义 菩提树下的一朵花",
-      "onboard_time": 1735550540,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 215445,
@@ -1155,12 +1227,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208118,
-      "num": 208118,
-      "word": "李在明跪地安慰失事客机遇难者家属",
-      "onboard_time": 1735550660,
+      "raw_hot": 207858,
+      "num": 207858,
+      "word": "丁禹兮冷脸AllBlack",
+      "onboard_time": 1735552940,
       "rank": 36,
-      "category": "海外新闻"
+      "category": "综艺"
     },
     {
       "raw_hot": 206697,
@@ -1395,6 +1467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 180373,
+      "num": 463639,
+      "word": "接任3天韩国代总统被立案调查",
+      "onboard_time": 1735553059,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 179473,
       "num": 179473,
       "word": "年度账单",
@@ -1457,6 +1537,14 @@
       "onboard_time": 1735483583,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171090,
+      "num": 171090,
+      "word": "樊振东和陈梦退出世界排名意味着什么",
+      "onboard_time": 1735551738,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 171009,
@@ -1523,12 +1611,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164584,
+      "num": 164584,
+      "word": "刘耀文生日愿望是永远爱我",
+      "onboard_time": 1735553120,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163999,
       "num": 163999,
       "word": "无限暖暖流星季",
       "onboard_time": 1735529301,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 163570,
+      "num": 163570,
+      "word": "周震南 来这就是为了第一名",
+      "onboard_time": 1735551379,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 163556,
+      "num": 163556,
+      "word": "姥姥高定",
+      "onboard_time": 1735552820,
+      "rank": 45,
+      "category": "时尚"
     },
     {
       "raw_hot": 163027,
@@ -1547,11 +1659,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162686,
+      "num": 514209,
+      "word": "小伙落健身房充值陷阱半年充了84万",
+      "onboard_time": 1735550900,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162319,
       "num": 162319,
       "word": "鱿鱼游戏2水光肌木头人",
       "onboard_time": 1735550480,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162264,
+      "num": 162264,
+      "word": "国产剧里有自己的小镇赚钱家",
+      "onboard_time": 1735553841,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -1571,14 +1699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 157597,
-      "num": 157597,
-      "word": "周震南 来这就是为了第一名",
-      "onboard_time": 1735551379,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 156530,
       "num": 420555,
       "word": "黄渤现在发歌是要上春晚吗",
@@ -1593,6 +1713,14 @@
       "onboard_time": 1735539859,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152716,
+      "num": 152716,
+      "word": "阴阳师",
+      "onboard_time": 1735554201,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 151586,
@@ -1979,6 +2107,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 104175,
+      "num": 886987,
+      "word": "警方讲述缅北1020案侦办始末",
+      "onboard_time": 1735548620,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103903,
       "num": 246848,
       "word": "王楚钦赛前训练",
@@ -2123,6 +2259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70951,
+      "num": 434786,
+      "word": "千万彩票被冒领当事人仍未拿到奖金",
+      "onboard_time": 1735553779,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 69722,
       "num": 69722,
       "word": "樊振东王楚钦2024最后一天巅峰对决",
@@ -2187,14 +2331,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 60186,
-      "num": 886987,
-      "word": "警方讲述缅北1020案侦办始末",
-      "onboard_time": 1735548620,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 59874,
       "num": 1187268,
       "word": "2024年国内十大新闻",
@@ -2216,6 +2352,14 @@
       "word": "马子佳当爸",
       "onboard_time": 1735492575,
       "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 54049,
+      "num": 209517,
+      "word": "杨紫致敬每一个努力向上的你",
+      "onboard_time": 1735552220,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -2411,14 +2555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35551,
-      "num": 514209,
-      "word": "小伙落健身房充值陷阱半年充了84万",
-      "onboard_time": 1735550900,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34270,
       "num": 369329,
       "word": "起底职称代办骗局",
@@ -2515,7 +2651,15 @@
       "category": "民生新闻,幽默"
     },
     {
-      "raw_hot": 27405,
+      "raw_hot": 28339,
+      "num": 242827,
+      "word": "大学生期末周现状",
+      "onboard_time": 1735553540,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 28229,
       "num": 303935,
       "word": "一种很新的接好运方式",
       "onboard_time": 1735548799,
@@ -2545,6 +2689,14 @@
       "onboard_time": 1735496353,
       "rank": 49,
       "category": "综艺,演出"
+    },
+    {
+      "raw_hot": 25702,
+      "num": 403796,
+      "word": "奥特曼音乐之父去世",
+      "onboard_time": 1735554080,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 25308,
@@ -2577,6 +2729,14 @@
       "onboard_time": 1735509552,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23905,
+      "num": 246588,
+      "word": "韩交通部称将调查机场跑道末端设施",
+      "onboard_time": 1735554020,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 23063,
@@ -2737,6 +2897,14 @@
       "onboard_time": 1735507931,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7911,
+      "num": 182121,
+      "word": "水果冷泡红酒",
+      "onboard_time": 1735554140,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 7322,
