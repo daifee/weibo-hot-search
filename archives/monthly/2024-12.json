@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1735579174358,
+  "endTime": 1735580201280,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -66323,6 +66323,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 133499,
+      "num": 133499,
+      "word": "年度照片",
+      "onboard_time": 1735153931,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133490,
       "num": 133490,
       "word": "梅花烙 宫锁连城",
@@ -73323,6 +73331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113318,
+      "num": 151693,
+      "word": "江苏卫视跨年演唱会全开麦真唱",
+      "onboard_time": 1735576097,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113315,
       "num": 113315,
       "word": "日照海上火箭发射进入倒计时",
@@ -74969,14 +74985,6 @@
       "onboard_time": 1732977921,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 107822,
-      "num": 115083,
-      "word": "江苏卫视跨年演唱会全开麦真唱",
-      "onboard_time": 1735576097,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 107808,
@@ -83139,14 +83147,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 75495,
-      "num": 75495,
-      "word": "年度照片",
-      "onboard_time": 1735153931,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 75423,
       "num": 769787,
       "word": "来过一个冬日梦幻之旅",
@@ -90251,6 +90251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 51017,
+      "num": 188320,
+      "word": "明家犯罪集团及其关联案件侦办始末",
+      "onboard_time": 1735578135,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50952,
       "num": 364729,
       "word": "韩国政治对立为何如此严重",
@@ -90625,6 +90633,14 @@
       "onboard_time": 1734430999,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49834,
+      "num": 49834,
+      "word": "归棹 年上还是年下",
+      "onboard_time": 1735579454,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 49833,
@@ -93401,6 +93417,14 @@
       "onboard_time": 1734767897,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 42610,
+      "num": 42610,
+      "word": "本周上四休三不调休",
+      "onboard_time": 1735577775,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42590,
@@ -97985,14 +98009,6 @@
       "onboard_time": 1735193120,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 32402,
-      "num": 188320,
-      "word": "明家犯罪集团及其关联案件侦办始末",
-      "onboard_time": 1735578135,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32390,
@@ -107953,6 +107969,14 @@
       "onboard_time": 1733412859,
       "rank": 18,
       "category": "网红"
+    },
+    {
+      "raw_hot": 9586,
+      "num": 65729,
+      "word": "陈梦勇往直前",
+      "onboard_time": 1735579754,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 9582,

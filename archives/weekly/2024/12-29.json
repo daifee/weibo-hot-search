@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735579174358,
+  "endTime": 1735580201280,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -5171,6 +5171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133499,
+      "num": 133499,
+      "word": "年度照片",
+      "onboard_time": 1735576817,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133400,
       "num": 133400,
       "word": "孙颖莎说不论输赢希望能全力以赴",
@@ -5571,6 +5579,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 113318,
+      "num": 151693,
+      "word": "江苏卫视跨年演唱会全开麦真唱",
+      "onboard_time": 1735576097,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111930,
       "num": 1355142,
       "word": "2024年国内十大新闻",
@@ -5649,14 +5665,6 @@
       "onboard_time": 1735521259,
       "rank": 47,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 107822,
-      "num": 115083,
-      "word": "江苏卫视跨年演唱会全开麦真唱",
-      "onboard_time": 1735576097,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 106889,
@@ -6131,14 +6139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75495,
-      "num": 75495,
-      "word": "年度照片",
-      "onboard_time": 1735576817,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 75131,
       "num": 150341,
       "word": "湖人横扫国王",
@@ -6539,6 +6539,14 @@
       "category": "民生新闻,情感"
     },
     {
+      "raw_hot": 51017,
+      "num": 188320,
+      "word": "明家犯罪集团及其关联案件侦办始末",
+      "onboard_time": 1735578135,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50338,
       "num": 50338,
       "word": "多家卫视跨年晚会阵容出炉",
@@ -6553,6 +6561,14 @@
       "onboard_time": 1735426512,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 49834,
+      "num": 49834,
+      "word": "归棹 年上还是年下",
+      "onboard_time": 1735579454,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 49631,
@@ -6713,6 +6729,14 @@
       "onboard_time": 1735510332,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 42610,
+      "num": 42610,
+      "word": "本周上四休三不调休",
+      "onboard_time": 1735577775,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42245,
@@ -6952,14 +6976,6 @@
       "word": "姐妹为父海上追凶案一审宣判",
       "onboard_time": 1735547840,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32402,
-      "num": 188320,
-      "word": "明家犯罪集团及其关联案件侦办始末",
-      "onboard_time": 1735578135,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -7649,6 +7665,14 @@
       "onboard_time": 1735467680,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 9586,
+      "num": 65729,
+      "word": "陈梦勇往直前",
+      "onboard_time": 1735579754,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 9236,

@@ -1,6 +1,6 @@
 {
   "startTime": 1735576065390,
-  "endTime": 1735579174358,
+  "endTime": 1735580201280,
   "band_list": [
     {
       "raw_hot": 1781083,
@@ -219,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133499,
+      "num": 133499,
+      "word": "年度照片",
+      "onboard_time": 1735576817,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130498,
       "num": 121181,
       "word": "白敬亭直播",
@@ -275,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113318,
+      "num": 151693,
+      "word": "江苏卫视跨年演唱会全开麦真唱",
+      "onboard_time": 1735576097,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111819,
       "num": 120747,
       "word": "Doinb NIP",
@@ -288,14 +304,6 @@
       "word": "白鹿王楚然周也同框",
       "onboard_time": 1735562900,
       "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 107822,
-      "num": 115083,
-      "word": "江苏卫视跨年演唱会全开麦真唱",
-      "onboard_time": 1735576097,
-      "rank": 42,
       "category": "综艺"
     },
     {
@@ -361,14 +369,6 @@
       "onboard_time": 1735558640,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 75495,
-      "num": 75495,
-      "word": "年度照片",
-      "onboard_time": 1735576817,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 72527,
@@ -443,6 +443,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51017,
+      "num": 188320,
+      "word": "明家犯罪集团及其关联案件侦办始末",
+      "onboard_time": 1735578135,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49834,
+      "num": 49834,
+      "word": "归棹 年上还是年下",
+      "onboard_time": 1735579454,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 45473,
       "num": 114757,
       "word": "2024我们一起走过",
@@ -451,11 +467,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32402,
-      "num": 188320,
-      "word": "明家犯罪集团及其关联案件侦办始末",
-      "onboard_time": 1735578135,
-      "rank": 9,
+      "raw_hot": 42610,
+      "num": 42610,
+      "word": "本周上四休三不调休",
+      "onboard_time": 1735577775,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -489,6 +505,14 @@
       "onboard_time": 1735563560,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 9586,
+      "num": 65729,
+      "word": "陈梦勇往直前",
+      "onboard_time": 1735579754,
+      "rank": 24,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
