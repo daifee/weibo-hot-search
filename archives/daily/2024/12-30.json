@@ -1,6 +1,6 @@
 {
   "startTime": 1735489511133,
-  "endTime": 1735548126663,
+  "endTime": 1735550638853,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -33,6 +33,14 @@
       "onboard_time": 1735529962,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1844918,
+      "num": 546447,
+      "word": "建议周三放一天假的理由",
+      "onboard_time": 1735545799,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 1766704,
@@ -211,14 +219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 899797,
-      "num": 546447,
-      "word": "建议周三放一天假的理由",
-      "onboard_time": 1735545799,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 891394,
       "num": 891394,
       "word": "难哄",
@@ -307,6 +307,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 628063,
+      "num": 337599,
+      "word": "安小鸟保胎",
+      "onboard_time": 1735547419,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 617400,
       "num": 617400,
       "word": "国际乒联回应未收到中国乒协通知",
@@ -321,6 +329,14 @@
       "onboard_time": 1735534823,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 597134,
+      "num": 597134,
+      "word": "四川一学校全体教师举报副校长",
+      "onboard_time": 1735547539,
+      "rank": 28,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 595978,
@@ -416,6 +432,14 @@
       "word": "肖战蝉联第6年世首帅",
       "onboard_time": 1735535302,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 513563,
+      "num": 513563,
+      "word": "吴奇隆马雅舒离婚后不同境遇",
+      "onboard_time": 1735549340,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -537,6 +561,14 @@
       "onboard_time": 1735536800,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 397729,
+      "num": 533842,
+      "word": "教育局回应中学教师与学生亲吻搂抱",
+      "onboard_time": 1735548740,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 390558,
@@ -691,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 301776,
+      "num": 301776,
+      "word": "韩国代总统被警方立案调查",
+      "onboard_time": 1735548740,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 301083,
       "num": 301083,
       "word": "世界排名规则由乒乓球专家设计",
@@ -795,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 271369,
+      "num": 271369,
+      "word": "张彬彬与孙珍妮合跳troublemaker",
+      "onboard_time": 1735546759,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 270107,
       "num": 468991,
       "word": "孟子义帮李昀锐整理头发",
@@ -851,6 +899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 255754,
+      "num": 255754,
+      "word": "凡人修仙传",
+      "onboard_time": 1735546519,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 254487,
       "num": 254487,
       "word": "多国政要悼念卡特",
@@ -889,6 +945,14 @@
       "onboard_time": 1735541600,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 244781,
+      "num": 244781,
+      "word": "杨幂湖南卫视跨年素颜彩排照",
+      "onboard_time": 1735549579,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 244022,
@@ -955,20 +1019,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 237774,
-      "num": 237774,
-      "word": "张彬彬与孙珍妮合跳troublemaker",
-      "onboard_time": 1735546759,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 233691,
       "num": 233691,
       "word": "为什么年轻人开始积极存钱",
       "onboard_time": 1735534281,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 233080,
+      "num": 301893,
+      "word": "迪丽热巴小时候的童年照片",
+      "onboard_time": 1735549760,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 230760,
+      "num": 230759,
+      "word": "个税专项附加扣除明天截止",
+      "onboard_time": 1735548381,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 230610,
@@ -985,14 +1057,6 @@
       "onboard_time": 1735533443,
       "rank": 43,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 229886,
-      "num": 229886,
-      "word": "凡人修仙传",
-      "onboard_time": 1735546519,
-      "rank": 43,
-      "category": "动漫"
     },
     {
       "raw_hot": 229854,
@@ -1017,14 +1081,6 @@
       "onboard_time": 1735525999,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 217168,
-      "num": 217168,
-      "word": "安小鸟保胎",
-      "onboard_time": 1735547419,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 215445,
@@ -1067,6 +1123,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 210941,
+      "num": 210941,
+      "word": "网传湖南卫视跨年歌单",
+      "onboard_time": 1735549279,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 208352,
+      "num": 289846,
+      "word": "杨紫人民日报年度混剪配音",
+      "onboard_time": 1735546699,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206697,
       "num": 206697,
       "word": "钟睒睒再谈企业家直播带货",
@@ -1081,6 +1153,14 @@
       "onboard_time": 1735524077,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 203257,
+      "num": 203257,
+      "word": "王一博我在彩排",
+      "onboard_time": 1735550123,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 201757,
@@ -1291,6 +1371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 180612,
+      "num": 180612,
+      "word": "孟子义 菩提树下的一朵花",
+      "onboard_time": 1735550540,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177812,
       "num": 177812,
       "word": "微博年度关键词松弛感",
@@ -1307,12 +1395,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 175567,
+      "num": 175567,
+      "word": "年度账单",
+      "onboard_time": 1735545619,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 175000,
       "num": 175000,
       "word": "男子因邻里矛盾将马桶装在房顶上",
       "onboard_time": 1735536379,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172464,
+      "num": 172464,
+      "word": "肖战希望大家可以喜欢专辑我们",
+      "onboard_time": 1735550123,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 172084,
@@ -1345,14 +1449,6 @@
       "onboard_time": 1735473200,
       "rank": 33,
       "category": "网红"
-    },
-    {
-      "raw_hot": 169787,
-      "num": 289846,
-      "word": "杨紫人民日报年度混剪配音",
-      "onboard_time": 1735546699,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 167938,
@@ -1427,6 +1523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159145,
+      "num": 230794,
+      "word": "李昀锐说自己上了电视桌",
+      "onboard_time": 1735550000,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 156530,
       "num": 420555,
       "word": "黄渤现在发歌是要上春晚吗",
@@ -1451,6 +1555,14 @@
       "category": "剧集,艺人"
     },
     {
+      "raw_hot": 151143,
+      "num": 197826,
+      "word": "lululemon已经过气了吗",
+      "onboard_time": 1735546579,
+      "rank": 29,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 149299,
       "num": 231742,
       "word": "黑色大衣是胡歌和阿宝的开关",
@@ -1465,6 +1577,14 @@
       "onboard_time": 1735514177,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149082,
+      "num": 257892,
+      "word": "孙颖莎独得2分助深圳大学进乒超决赛",
+      "onboard_time": 1735549700,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 148687,
@@ -1489,6 +1609,14 @@
       "onboard_time": 1735539079,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147068,
+      "num": 147068,
+      "word": "缅北1020案那天到底发生了什么",
+      "onboard_time": 1735548020,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147015,
@@ -1539,6 +1667,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 140769,
+      "num": 230760,
+      "word": "电诈金主一晚花上百万",
+      "onboard_time": 1735548200,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139113,
       "num": 139113,
       "word": "原打算乘韩国失事客机的中国游客发声",
@@ -1553,6 +1689,30 @@
       "onboard_time": 1735469060,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138134,
+      "num": 138134,
+      "word": "鱿鱼游戏2水光肌木头人",
+      "onboard_time": 1735550480,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 137292,
+      "num": 137292,
+      "word": "詹青云cue张泉灵再见爱人当观察员",
+      "onboard_time": 1735549880,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 137020,
+      "num": 137020,
+      "word": "孙颖莎说自己状态好了很多",
+      "onboard_time": 1735548020,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 135450,
@@ -1739,14 +1899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 117619,
-      "num": 117619,
-      "word": "缅北1020案那天到底发生了什么",
-      "onboard_time": 1735548020,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116476,
       "num": 1800959,
       "word": "中国刷新世界最长高速公路隧道纪录",
@@ -1759,14 +1911,6 @@
       "num": 116133,
       "word": "深圳大学3比1上海龙腾",
       "onboard_time": 1735547239,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 116098,
-      "num": 116098,
-      "word": "孙颖莎说自己状态好了很多",
-      "onboard_time": 1735548020,
       "rank": 49,
       "category": "体育"
     },
@@ -1809,14 +1953,6 @@
       "onboard_time": 1735520239,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102848,
-      "num": 183649,
-      "word": "四川一学校全体教师举报副校长",
-      "onboard_time": 1735547539,
-      "rank": 28,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 102218,
@@ -2099,6 +2235,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 44851,
+      "num": 741719,
+      "word": "2024那些治愈瞬间",
+      "onboard_time": 1735548799,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 43484,
       "num": 43484,
       "word": "拉塞尔重回篮网",
@@ -2275,6 +2419,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31175,
+      "num": 180078,
+      "word": "张晓龙用华为手表电子号脉",
+      "onboard_time": 1735547960,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 30342,
+      "num": 302162,
+      "word": "开年会宠粉是认真的",
+      "onboard_time": 1735549459,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 29502,
       "num": 253640,
       "word": "主角都是自己给自己的",
@@ -2297,14 +2457,6 @@
       "onboard_time": 1735495333,
       "rank": 38,
       "category": "民生新闻,幽默"
-    },
-    {
-      "raw_hot": 26901,
-      "num": 197826,
-      "word": "lululemon已经过气了吗",
-      "onboard_time": 1735546579,
-      "rank": 29,
-      "category": "时尚"
     },
     {
       "raw_hot": 26591,
@@ -2363,6 +2515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 22517,
+      "num": 304927,
+      "word": "00后为什么爱上了年代故事",
+      "onboard_time": 1735549520,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22423,
       "num": 22423,
       "word": "回顾和周深的小美满时刻",
@@ -2385,6 +2545,14 @@
       "onboard_time": 1735506311,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21340,
+      "num": 276252,
+      "word": "一种很新的接好运方式",
+      "onboard_time": 1735548799,
+      "rank": 22,
+      "category": "正能量"
     },
     {
       "raw_hot": 21319,
@@ -2467,14 +2635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12379,
-      "num": 117949,
-      "word": "张晓龙用华为手表电子号脉",
-      "onboard_time": 1735547960,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 11440,
       "num": 51691,
       "word": "Tarzan荣获德杯FMVP",
@@ -2532,6 +2692,9 @@
     },
     {
       "word": "#习近平将发表2025新年贺词#"
+    },
+    {
+      "word": "#党的纪律和干事创业是内在统一的#"
     }
   ]
 }
