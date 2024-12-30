@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735590198705,
+  "endTime": 1735590998061,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -7595,6 +7595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16649,
+      "num": 48196,
+      "word": "纪委调查一中学全体教师举报副校长",
+      "onboard_time": 1735589531,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16630,
       "num": 169529,
       "word": "田径场冬训强度课有多过瘾",
@@ -7617,6 +7625,14 @@
       "onboard_time": 1735585032,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 16221,
+      "num": 16431,
+      "word": "曼联vs纽卡斯尔",
+      "onboard_time": 1735587371,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 16203,
@@ -7643,14 +7659,6 @@
       "category": "动漫,其它"
     },
     {
-      "raw_hot": 15302,
-      "num": 16431,
-      "word": "曼联vs纽卡斯尔",
-      "onboard_time": 1735587371,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 15045,
       "num": 20648,
       "word": "小佳说刘春和们都能到达憧憬的地方",
@@ -7667,6 +7675,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 14454,
+      "num": 15304,
+      "word": "官方通报全体教师举报副校长",
+      "onboard_time": 1735590551,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14025,
       "num": 16425,
       "word": "一路繁花",
@@ -7681,6 +7697,14 @@
       "onboard_time": 1735498032,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 13793,
+      "num": 51147,
+      "word": "3分钟回顾美国前总统卡特一生",
+      "onboard_time": 1735589831,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 13741,
@@ -7731,28 +7755,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 12987,
-      "num": 51147,
-      "word": "3分钟回顾美国前总统卡特一生",
-      "onboard_time": 1735589831,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 12946,
       "num": 145535,
       "word": "詹姆斯生病",
       "onboard_time": 1735456338,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 12631,
-      "num": 16428,
-      "word": "纪委调查一中学全体教师举报副校长",
-      "onboard_time": 1735589531,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11940,

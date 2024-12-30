@@ -1,6 +1,6 @@
 {
   "startTime": 1735576065390,
-  "endTime": 1735590198705,
+  "endTime": 1735590998061,
   "band_list": [
     {
       "raw_hot": 1781083,
@@ -603,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16649,
+      "num": 48196,
+      "word": "纪委调查一中学全体教师举报副校长",
+      "onboard_time": 1735589531,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16261,
       "num": 66864,
       "word": "中国海军076两栖攻击舰首舰下水",
@@ -611,7 +619,7 @@
       "category": "军事"
     },
     {
-      "raw_hot": 15302,
+      "raw_hot": 16221,
       "num": 16431,
       "word": "曼联vs纽卡斯尔",
       "onboard_time": 1735587371,
@@ -627,12 +635,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 14454,
+      "num": 15304,
+      "word": "官方通报全体教师举报副校长",
+      "onboard_time": 1735590551,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14025,
       "num": 16425,
       "word": "一路繁花",
       "onboard_time": 1735588331,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13793,
+      "num": 51147,
+      "word": "3分钟回顾美国前总统卡特一生",
+      "onboard_time": 1735589831,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 13741,
@@ -649,22 +673,6 @@
       "onboard_time": 1735588751,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 12987,
-      "num": 51147,
-      "word": "3分钟回顾美国前总统卡特一生",
-      "onboard_time": 1735589831,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 12631,
-      "num": 16428,
-      "word": "纪委调查一中学全体教师举报副校长",
-      "onboard_time": 1735589531,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10200,
