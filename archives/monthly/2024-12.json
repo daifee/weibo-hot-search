@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1735547335374,
+  "endTime": 1735548126663,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -387,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3703793,
+      "num": 3703793,
+      "word": "韩国空难幸存空少恐全身瘫痪",
+      "onboard_time": 1735544600,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 3698769,
       "num": 3698769,
       "word": "12345回应徐娇劝阻男子餐厅抽烟",
@@ -409,14 +417,6 @@
       "onboard_time": 1733570240,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 3658053,
-      "num": 3658053,
-      "word": "韩国空难幸存空少恐全身瘫痪",
-      "onboard_time": 1735544600,
-      "rank": 0,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 3589309,
@@ -3249,6 +3249,14 @@
       "onboard_time": 1733585122,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1339419,
+      "num": 493454,
+      "word": "四川一高中老师被指与学生有不雅行为",
+      "onboard_time": 1735544001,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1337491,
@@ -7059,6 +7067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 899797,
+      "num": 546447,
+      "word": "建议周三放一天假的理由",
+      "onboard_time": 1735545799,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 899444,
       "num": 1143911,
       "word": "秦岚一把搂住虞书欣",
@@ -7609,14 +7625,6 @@
       "onboard_time": 1734257000,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 857648,
-      "num": 493454,
-      "word": "四川一高中老师被指与学生有不雅行为",
-      "onboard_time": 1735544001,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 857022,
@@ -12507,6 +12515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 617400,
+      "num": 617400,
+      "word": "国际乒联回应未收到中国乒协通知",
+      "onboard_time": 1735545619,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 617082,
       "num": 617082,
       "word": "员工推算同事工资求涨薪被辞",
@@ -14619,6 +14635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 547521,
+      "num": 547521,
+      "word": "韩国济州航空同机型飞机故障返航",
+      "onboard_time": 1735541780,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 547404,
       "num": 355549,
       "word": "张若昀为扔烟头道歉",
@@ -14673,6 +14697,14 @@
       "onboard_time": 1734430219,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 546522,
+      "num": 546522,
+      "word": "嗯哼 能把价格打下来的就是家人",
+      "onboard_time": 1735545199,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 546306,
@@ -16563,14 +16595,6 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 493818,
-      "num": 493818,
-      "word": "嗯哼 能把价格打下来的就是家人",
-      "onboard_time": 1735545199,
-      "rank": 9,
-      "category": "电影"
-    },
-    {
       "raw_hot": 493248,
       "num": 493248,
       "word": "韩国总统府周边进入全面管制状态",
@@ -16913,14 +16937,6 @@
       "onboard_time": 1735372400,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 484605,
-      "num": 484605,
-      "word": "韩国济州航空同机型飞机故障返航",
-      "onboard_time": 1735541780,
-      "rank": 16,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 484390,
@@ -17937,14 +17953,6 @@
       "onboard_time": 1735348220,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 461810,
-      "num": 461810,
-      "word": "建议周三放一天假的理由",
-      "onboard_time": 1735545799,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 461635,
@@ -19667,14 +19675,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 426743,
-      "num": 426743,
-      "word": "国际乒联回应未收到中国乒协通知",
-      "onboard_time": 1735545619,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 426663,
       "num": 272503,
       "word": "遇难韩国妈妈患癌1年刚旅行归来",
@@ -20185,6 +20185,14 @@
       "onboard_time": 1734404239,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 418031,
+      "num": 418031,
+      "word": "韩国旅游业受到重创",
+      "onboard_time": 1735542798,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 417979,
@@ -21417,14 +21425,6 @@
       "onboard_time": 1733387059,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 395658,
-      "num": 395658,
-      "word": "韩国旅游业受到重创",
-      "onboard_time": 1735542798,
-      "rank": 46,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 395567,
@@ -33923,6 +33923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237774,
+      "num": 237774,
+      "word": "张彬彬与孙珍妮合跳troublemaker",
+      "onboard_time": 1735546759,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 237675,
       "num": 302176,
       "word": "被家暴女子接受净身出户但坚持死刑",
@@ -34891,6 +34899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 230610,
+      "num": 230610,
+      "word": "aespa 紫菜包饭",
+      "onboard_time": 1735541780,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 230583,
       "num": 341240,
       "word": "孟子义媚眼如丝",
@@ -35041,6 +35057,14 @@
       "onboard_time": 1734136578,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 229886,
+      "num": 229886,
+      "word": "凡人修仙传",
+      "onboard_time": 1735546519,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 229855,
@@ -37067,6 +37091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217168,
+      "num": 217168,
+      "word": "安小鸟保胎",
+      "onboard_time": 1735547419,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217136,
       "num": 217136,
       "word": "于正说在娱乐圈不能太较真",
@@ -37121,14 +37153,6 @@
       "onboard_time": 1735129099,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 216791,
-      "num": 216791,
-      "word": "aespa 紫菜包饭",
-      "onboard_time": 1735541780,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 216767,
@@ -42299,14 +42323,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 197660,
-      "num": 197660,
-      "word": "张彬彬与孙珍妮合跳troublemaker",
-      "onboard_time": 1735546759,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 197656,
       "num": 276404,
       "word": "YSKM的职业现状",
@@ -45809,6 +45825,14 @@
       "onboard_time": 1733404821,
       "rank": 37,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 188706,
+      "num": 188706,
+      "word": "JDG为无畏发声明",
+      "onboard_time": 1735546941,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 188680,
@@ -51627,6 +51651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169787,
+      "num": 289846,
+      "word": "杨紫人民日报年度混剪配音",
+      "onboard_time": 1735546699,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169776,
       "num": 169776,
       "word": "宋翰戏份",
@@ -52225,6 +52257,14 @@
       "onboard_time": 1734009619,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 167938,
+      "num": 167938,
+      "word": "谁家爱豆在舞台上擦鼻涕啊",
+      "onboard_time": 1735547119,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 167917,
@@ -57771,14 +57811,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 153409,
-      "num": 153409,
-      "word": "JDG为无畏发声明",
-      "onboard_time": 1735546941,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 153402,
       "num": 153402,
       "word": "他好像摸了一下魔方就复原了",
@@ -59585,6 +59617,14 @@
       "onboard_time": 1733284038,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148687,
+      "num": 148687,
+      "word": "六公主专访李昀锐",
+      "onboard_time": 1735547659,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 148677,
@@ -63899,14 +63939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137012,
-      "num": 137012,
-      "word": "谁家爱豆在舞台上擦鼻涕啊",
-      "onboard_time": 1735547119,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 136991,
       "num": 136991,
       "word": "A股超4700股上涨",
@@ -65667,14 +65699,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 132083,
-      "num": 132083,
-      "word": "凡人修仙传",
-      "onboard_time": 1735546519,
-      "rank": 43,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 132058,
       "num": 132058,
       "word": "被这些2024的可爱瞬间治愈了",
@@ -66683,6 +66707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129298,
+      "num": 230065,
+      "word": "WTT长期赞助商全部来自中国",
+      "onboard_time": 1735546941,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129285,
       "num": 129285,
       "word": "王源说00后不是垮掉的一代",
@@ -67113,6 +67145,14 @@
       "onboard_time": 1733673619,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128126,
+      "num": 128126,
+      "word": "这三种条件公务用车原则上100%用新能源",
+      "onboard_time": 1735547539,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 128111,
@@ -69427,6 +69467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121331,
+      "num": 121331,
+      "word": "评论罗伯特总结我的2024",
+      "onboard_time": 1735547300,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121292,
       "num": 121292,
       "word": "轮到檀健次的舞台粉上桌了",
@@ -70587,14 +70635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 117904,
-      "num": 117904,
-      "word": "评论罗伯特总结我的2024",
-      "onboard_time": 1735547300,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 117900,
       "num": 140461,
       "word": "福宝未来两三天不会去室外运动场",
@@ -70705,6 +70745,14 @@
       "onboard_time": 1735468639,
       "rank": 49,
       "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 117619,
+      "num": 117619,
+      "word": "缅北1020案那天到底发生了什么",
+      "onboard_time": 1735548020,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117592,
@@ -71287,6 +71335,14 @@
       "num": 116133,
       "word": "深圳大学3比1上海龙腾",
       "onboard_time": 1735547239,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 116098,
+      "num": 116098,
+      "word": "孙颖莎说自己状态好了很多",
+      "onboard_time": 1735548020,
       "rank": 49,
       "category": "体育"
     },
@@ -75177,6 +75233,14 @@
       "onboard_time": 1735437317,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102848,
+      "num": 183649,
+      "word": "四川一学校全体教师举报副校长",
+      "onboard_time": 1735547539,
+      "rank": 28,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 102839,
@@ -82097,14 +82161,6 @@
       "onboard_time": 1734331040,
       "rank": 26,
       "category": "财经"
-    },
-    {
-      "raw_hot": 74230,
-      "num": 289846,
-      "word": "杨紫人民日报年度混剪配音",
-      "onboard_time": 1735546699,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 74219,
@@ -96411,6 +96467,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 32434,
+      "num": 183484,
+      "word": "姐妹为父海上追凶案一审宣判",
+      "onboard_time": 1735547840,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32432,
       "num": 161789,
       "word": "拜登签署应急拨款法案防美政府停摆",
@@ -105321,6 +105385,14 @@
       "onboard_time": 1735332251,
       "rank": 40,
       "category": "军事"
+    },
+    {
+      "raw_hot": 12379,
+      "num": 117949,
+      "word": "张晓龙用华为手表电子号脉",
+      "onboard_time": 1735547960,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 12346,

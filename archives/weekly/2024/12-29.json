@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735547335374,
+  "endTime": 1735548126663,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -51,8 +51,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 3658053,
-      "num": 3658053,
+      "raw_hot": 3703793,
+      "num": 3703793,
       "word": "韩国空难幸存空少恐全身瘫痪",
       "onboard_time": 1735544600,
       "rank": 0,
@@ -283,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1339419,
+      "num": 493454,
+      "word": "四川一高中老师被指与学生有不雅行为",
+      "onboard_time": 1735544001,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1328270,
       "num": 1204570,
       "word": "韩国空难发布会现场家属大哭大吼",
@@ -499,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 899797,
+      "num": 546447,
+      "word": "建议周三放一天假的理由",
+      "onboard_time": 1735545799,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 891394,
       "num": 891394,
       "word": "难哄",
@@ -521,14 +537,6 @@
       "onboard_time": 1735538841,
       "rank": 15,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 857648,
-      "num": 493454,
-      "word": "四川一高中老师被指与学生有不雅行为",
-      "onboard_time": 1735544001,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 852248,
@@ -771,6 +779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 617400,
+      "num": 617400,
+      "word": "国际乒联回应未收到中国乒协通知",
+      "onboard_time": 1735545619,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 604885,
       "num": 604885,
       "word": "郑合惠子 小姨是种感觉",
@@ -865,6 +881,22 @@
       "onboard_time": 1735438398,
       "rank": 6,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 547521,
+      "num": 547521,
+      "word": "韩国济州航空同机型飞机故障返航",
+      "onboard_time": 1735541780,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 546522,
+      "num": 546522,
+      "word": "嗯哼 能把价格打下来的就是家人",
+      "onboard_time": 1735545199,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 542246,
@@ -971,14 +1003,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 493818,
-      "num": 493818,
-      "word": "嗯哼 能把价格打下来的就是家人",
-      "onboard_time": 1735545199,
-      "rank": 9,
-      "category": "电影"
-    },
-    {
       "raw_hot": 492427,
       "num": 492427,
       "word": "央视曝光部分直播间公然售假羊绒衫",
@@ -1007,14 +1031,6 @@
       "num": 489407,
       "word": "阿塞拜疆空难原因公布",
       "onboard_time": 1735472481,
-      "rank": 16,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 484605,
-      "num": 484605,
-      "word": "韩国济州航空同机型飞机故障返航",
-      "onboard_time": 1735541780,
       "rank": 16,
       "category": "海外新闻"
     },
@@ -1080,14 +1096,6 @@
       "word": "微波炉热了10分钟的馒头",
       "onboard_time": 1735537160,
       "rank": 20,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 461810,
-      "num": 461810,
-      "word": "建议周三放一天假的理由",
-      "onboard_time": 1735545799,
-      "rank": 13,
       "category": "情感"
     },
     {
@@ -1187,14 +1195,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 426743,
-      "num": 426743,
-      "word": "国际乒联回应未收到中国乒协通知",
-      "onboard_time": 1735545619,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 426663,
       "num": 272503,
       "word": "遇难韩国妈妈患癌1年刚旅行归来",
@@ -1233,6 +1233,14 @@
       "onboard_time": 1735444879,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 418031,
+      "num": 418031,
+      "word": "韩国旅游业受到重创",
+      "onboard_time": 1735542798,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 415306,
@@ -1289,14 +1297,6 @@
       "onboard_time": 1735536800,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 395658,
-      "num": 395658,
-      "word": "韩国旅游业受到重创",
-      "onboard_time": 1735542798,
-      "rank": 46,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 394513,
@@ -2235,6 +2235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237774,
+      "num": 237774,
+      "word": "张彬彬与孙珍妮合跳troublemaker",
+      "onboard_time": 1735546759,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 234676,
       "num": 272457,
       "word": "范世錡 有点羞耻但还是想说",
@@ -2259,12 +2267,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 230610,
+      "num": 230610,
+      "word": "aespa 紫菜包饭",
+      "onboard_time": 1735541780,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 230293,
       "num": 327059,
       "word": "韩国惨烈空难背后有何疑点待解",
       "onboard_time": 1735533443,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 229886,
+      "num": 229886,
+      "word": "凡人修仙传",
+      "onboard_time": 1735546519,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 229854,
@@ -2355,12 +2379,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 216791,
-      "num": 216791,
-      "word": "aespa 紫菜包饭",
-      "onboard_time": 1735541780,
-      "rank": 43,
-      "category": "音乐"
+      "raw_hot": 217168,
+      "num": 217168,
+      "word": "安小鸟保胎",
+      "onboard_time": 1735547419,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 216529,
@@ -2779,14 +2803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197660,
-      "num": 197660,
-      "word": "张彬彬与孙珍妮合跳troublemaker",
-      "onboard_time": 1735546759,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 197630,
       "num": 197630,
       "word": "JackeyLove绝境五杀",
@@ -3025,6 +3041,14 @@
       "onboard_time": 1735463840,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188706,
+      "num": 188706,
+      "word": "JDG为无畏发声明",
+      "onboard_time": 1735546941,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 188505,
@@ -3363,6 +3387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169787,
+      "num": 289846,
+      "word": "杨紫人民日报年度混剪配音",
+      "onboard_time": 1735546699,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169357,
       "num": 1629267,
       "word": "中国的全球最快高铁列车亮相",
@@ -3385,6 +3417,14 @@
       "onboard_time": 1735476141,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167938,
+      "num": 167938,
+      "word": "谁家爱豆在舞台上擦鼻涕啊",
+      "onboard_time": 1735547119,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 167475,
@@ -3651,14 +3691,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 153409,
-      "num": 153409,
-      "word": "JDG为无畏发声明",
-      "onboard_time": 1735546941,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 150777,
       "num": 150777,
       "word": "刘雅瑟演误杀3两个愿望实现0个",
@@ -3705,6 +3737,14 @@
       "onboard_time": 1735471039,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148687,
+      "num": 148687,
+      "word": "六公主专访李昀锐",
+      "onboard_time": 1735547659,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 148186,
@@ -3923,14 +3963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137012,
-      "num": 137012,
-      "word": "谁家爱豆在舞台上擦鼻涕啊",
-      "onboard_time": 1735547119,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 135615,
       "num": 135615,
       "word": "胡先煦破大防",
@@ -4011,14 +4043,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 132083,
-      "num": 132083,
-      "word": "凡人修仙传",
-      "onboard_time": 1735546519,
-      "rank": 43,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 131144,
       "num": 141606,
       "word": "李健深圳演唱会",
@@ -4075,6 +4099,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 129298,
+      "num": 230065,
+      "word": "WTT长期赞助商全部来自中国",
+      "onboard_time": 1735546941,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129059,
       "num": 177745,
       "word": "星光闪耀的少年排名",
@@ -4089,6 +4121,14 @@
       "onboard_time": 1735522159,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128126,
+      "num": 128126,
+      "word": "这三种条件公务用车原则上100%用新能源",
+      "onboard_time": 1735547539,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 125971,
@@ -4179,6 +4219,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 121331,
+      "num": 121331,
+      "word": "评论罗伯特总结我的2024",
+      "onboard_time": 1735547300,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121057,
       "num": 121057,
       "word": "孙珍妮自己吓自己",
@@ -4227,14 +4275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 117904,
-      "num": 117904,
-      "word": "评论罗伯特总结我的2024",
-      "onboard_time": 1735547300,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 117820,
       "num": 299912,
       "word": "许七安 下雪了",
@@ -4249,6 +4289,14 @@
       "onboard_time": 1735468639,
       "rank": 49,
       "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 117619,
+      "num": 117619,
+      "word": "缅北1020案那天到底发生了什么",
+      "onboard_time": 1735548020,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117340,
@@ -4279,6 +4327,14 @@
       "num": 116133,
       "word": "深圳大学3比1上海龙腾",
       "onboard_time": 1735547239,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 116098,
+      "num": 116098,
+      "word": "孙颖莎说自己状态好了很多",
+      "onboard_time": 1735548020,
       "rank": 49,
       "category": "体育"
     },
@@ -4449,6 +4505,14 @@
       "onboard_time": 1735437317,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102848,
+      "num": 183649,
+      "word": "四川一学校全体教师举报副校长",
+      "onboard_time": 1735547539,
+      "rank": 28,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 102482,
@@ -4785,14 +4849,6 @@
       "onboard_time": 1735457840,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 74230,
-      "num": 289846,
-      "word": "杨紫人民日报年度混剪配音",
-      "onboard_time": 1735546699,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 74170,
@@ -5363,6 +5419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32434,
+      "num": 183484,
+      "word": "姐妹为父海上追凶案一审宣判",
+      "onboard_time": 1735547840,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32273,
       "num": 49272,
       "word": "泽连斯基就坠机事件向阿塞拜疆表示慰问",
@@ -5817,6 +5881,14 @@
       "onboard_time": 1735456338,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12379,
+      "num": 117949,
+      "word": "张晓龙用华为手表电子号脉",
+      "onboard_time": 1735547960,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 11940,
