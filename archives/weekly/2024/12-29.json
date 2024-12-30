@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735532805313,
+  "endTime": 1735533658477,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -107,6 +107,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 2490745,
+      "num": 2490745,
+      "word": "女子患癌1年多难得旅行遇空难身亡",
+      "onboard_time": 1735529962,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 2279154,
       "num": 2279154,
       "word": "樊振东回应WTT声明",
@@ -120,14 +128,6 @@
       "word": "韩国客机起火28人死亡",
       "onboard_time": 1735434137,
       "rank": 6,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 2132025,
-      "num": 2132025,
-      "word": "女子患癌1年多难得旅行遇空难身亡",
-      "onboard_time": 1735529962,
-      "rank": 14,
       "category": "海外新闻"
     },
     {
@@ -185,6 +185,14 @@
       "onboard_time": 1735437918,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1603840,
+      "num": 1603840,
+      "word": "央视跨年晚会第一批阵容官宣",
+      "onboard_time": 1735532001,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1586008,
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 1139704,
-      "num": 429793,
+      "num": 542501,
       "word": "大奉打更人被演技劝退",
       "onboard_time": 1735523299,
       "rank": 23,
@@ -433,14 +441,6 @@
       "onboard_time": 1735448301,
       "rank": 4,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 913041,
-      "num": 913041,
-      "word": "央视跨年晚会第一批阵容官宣",
-      "onboard_time": 1735532001,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 909099,
@@ -731,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 567675,
+      "num": 531086,
+      "word": "女子用车厘子喂鸡引网友羡慕",
+      "onboard_time": 1735531164,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 562393,
       "num": 562393,
       "word": "韩国事发机型为波音737",
@@ -787,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 525339,
+      "num": 525339,
+      "word": "感觉我生了小孩就是这样的父母",
+      "onboard_time": 1735530080,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 519549,
       "num": 578878,
       "word": "时速400公里高铁列车来了",
@@ -841,14 +857,6 @@
       "onboard_time": 1735460719,
       "rank": 30,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 505407,
-      "num": 427994,
-      "word": "感觉我生了小孩就是这样的父母",
-      "onboard_time": 1735530080,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 492427,
@@ -915,6 +923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 467557,
+      "num": 467557,
+      "word": "孙颖莎vs何卓佳",
+      "onboard_time": 1735530742,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 463943,
       "num": 463943,
       "word": "徐明浩 不要买小卡",
@@ -929,14 +945,6 @@
       "onboard_time": 1735439120,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 457361,
-      "num": 457361,
-      "word": "孙颖莎vs何卓佳",
-      "onboard_time": 1735530742,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 457034,
@@ -1051,14 +1059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 416007,
-      "num": 416007,
-      "word": "女子用车厘子喂鸡引网友羡慕",
-      "onboard_time": 1735531164,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 413555,
       "num": 413555,
       "word": "专家回应新毒株来了",
@@ -1163,20 +1163,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 373086,
+      "num": 567802,
+      "word": "演员请就位",
+      "onboard_time": 1735529481,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 370046,
       "num": 370046,
       "word": "中国新高铁列车外形科幻风",
       "onboard_time": 1735442000,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 367487,
-      "num": 474171,
-      "word": "演员请就位",
-      "onboard_time": 1735529481,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 367056,
@@ -1275,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 337423,
+      "num": 566525,
+      "word": "阿塞拜疆总统要求俄方认错并赔偿",
+      "onboard_time": 1735532181,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 334622,
       "num": 334622,
       "word": "哥哥第一次带女朋友回家",
@@ -1361,6 +1369,14 @@
       "onboard_time": 1735477642,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 321044,
+      "num": 535067,
+      "word": "虞书欣湖南卫视跨年晚会彩排",
+      "onboard_time": 1735530080,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 320816,
@@ -1563,6 +1579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 285382,
+      "num": 482102,
+      "word": "刘国梁出席乒超总决赛开幕式",
+      "onboard_time": 1735532903,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 284170,
       "num": 284170,
       "word": "韩客机起火前乘客曾发消息称鸟卡机翼",
@@ -1611,6 +1635,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 274260,
+      "num": 274260,
+      "word": "12306推出系统自动提交订单功能",
+      "onboard_time": 1735531641,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 273237,
+      "num": 273237,
+      "word": "玉溪 cos圣体",
+      "onboard_time": 1735529000,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270107,
       "num": 468991,
       "word": "孟子义帮李昀锐整理头发",
@@ -1625,14 +1665,6 @@
       "onboard_time": 1735401501,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 267009,
-      "num": 427321,
-      "word": "虞书欣湖南卫视跨年晚会彩排",
-      "onboard_time": 1735530080,
-      "rank": 24,
-      "category": "音乐"
     },
     {
       "raw_hot": 266930,
@@ -1843,6 +1875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 238518,
+      "num": 705040,
+      "word": "对未成年人犯罪坚持宽容不纵容",
+      "onboard_time": 1735532721,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 238447,
       "num": 238447,
       "word": "网传迪丽热巴钟汉良主演法医荣誉",
@@ -1857,6 +1897,14 @@
       "onboard_time": 1735440139,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 235795,
+      "num": 566841,
+      "word": "清华法学院教授谈邯郸初中生被杀案",
+      "onboard_time": 1735532961,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 234676,
@@ -1889,22 +1937,6 @@
       "onboard_time": 1735485800,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 228913,
-      "num": 228913,
-      "word": "12306推出系统自动提交订单功能",
-      "onboard_time": 1735531641,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 228161,
-      "num": 228161,
-      "word": "玉溪 cos圣体",
-      "onboard_time": 1735529000,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 225704,
@@ -2113,6 +2145,14 @@
       "onboard_time": 1735437799,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208289,
+      "num": 208289,
+      "word": "韩国惨烈空难背后有何疑点待解",
+      "onboard_time": 1735533443,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 207932,
@@ -2459,12 +2499,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 194082,
+      "num": 194082,
+      "word": "应届生真的很想扛着年终奖回家",
+      "onboard_time": 1735532903,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 193419,
       "num": 177892,
       "word": "檀健次亮片深V",
       "onboard_time": 1735402700,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193069,
+      "num": 193069,
+      "word": "韩国历史上最严重的空难",
+      "onboard_time": 1735533323,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 192919,
@@ -3067,6 +3123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156530,
+      "num": 420555,
+      "word": "黄渤现在发歌是要上春晚吗",
+      "onboard_time": 1735531164,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156391,
       "num": 156391,
       "word": "西蒙高茨称不接受WTT声明",
@@ -3171,6 +3235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147015,
+      "num": 193100,
+      "word": "孙颖莎2024总结",
+      "onboard_time": 1735533082,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146737,
       "num": 146737,
       "word": "感觉这鸟小时候抱过我",
@@ -3193,6 +3265,14 @@
       "onboard_time": 1735444640,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 144850,
+      "num": 285670,
+      "word": "误杀 动物符号隐喻",
+      "onboard_time": 1735533562,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 144712,
@@ -3435,6 +3515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129966,
+      "num": 193169,
+      "word": "点外卖监视女友行踪违法吗",
+      "onboard_time": 1735533443,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129861,
       "num": 129861,
       "word": "檀健次海口路透",
@@ -3465,14 +3553,6 @@
       "onboard_time": 1735522159,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 126968,
-      "num": 420555,
-      "word": "黄渤现在发歌是要上春晚吗",
-      "onboard_time": 1735531164,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 124639,
@@ -3547,6 +3627,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 121114,
+      "num": 565642,
+      "word": "恩利说自己曾反抗过父母",
+      "onboard_time": 1735532961,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120532,
       "num": 120532,
       "word": "白鹿 不能cue的梗提前说",
@@ -3604,7 +3692,7 @@
     },
     {
       "raw_hot": 116476,
-      "num": 1520296,
+      "num": 1800959,
       "word": "中国刷新世界最长高速公路隧道纪录",
       "onboard_time": 1735528279,
       "rank": 2,
@@ -3923,6 +4011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86503,
+      "num": 552860,
+      "word": "孙颖莎3比1何卓佳",
+      "onboard_time": 1735533143,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86361,
       "num": 177578,
       "word": "在新疆根本不存在审美疲劳",
@@ -4123,14 +4219,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 65887,
-      "num": 488825,
-      "word": "阿塞拜疆总统要求俄方认错并赔偿",
-      "onboard_time": 1735532181,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 65262,
       "num": 294019,
       "word": "误杀3 23个孩子失踪N重反转",
@@ -4283,6 +4371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48329,
+      "num": 419495,
+      "word": "华为推出FreeBudsPro4蛇年特别款",
+      "onboard_time": 1735529781,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 48052,
       "num": 48052,
       "word": "辛巴喊话不要为蹭流量搞垮国民企业",
@@ -4339,14 +4435,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 41295,
-      "num": 419495,
-      "word": "华为推出FreeBudsPro4蛇年特别款",
-      "onboard_time": 1735529781,
-      "rank": 40,
-      "category": "数码"
-    },
-    {
       "raw_hot": 39571,
       "num": 39571,
       "word": "有直播间公然售假羊绒衫不怕举报封号",
@@ -4361,6 +4449,14 @@
       "onboard_time": 1735427833,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 39278,
+      "num": 562128,
+      "word": "蒯曼vs陈熠",
+      "onboard_time": 1735533443,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 39114,
@@ -4555,8 +4651,16 @@
       "category": "数码"
     },
     {
+      "raw_hot": 29502,
+      "num": 253640,
+      "word": "主角都是自己给自己的",
+      "onboard_time": 1735529781,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28938,
-      "num": 431432,
+      "num": 549925,
       "word": "陈道明沙漠弹琴",
       "onboard_time": 1735531462,
       "rank": 19,
@@ -4577,14 +4681,6 @@
       "onboard_time": 1735495333,
       "rank": 38,
       "category": "民生新闻,幽默"
-    },
-    {
-      "raw_hot": 26803,
-      "num": 232707,
-      "word": "主角都是自己给自己的",
-      "onboard_time": 1735529781,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 26774,
@@ -4751,14 +4847,6 @@
       "num": 44294,
       "word": "埃文凯尔收到40年历史收藏品感动落泪",
       "onboard_time": 1735419911,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20303,
-      "num": 705040,
-      "word": "对未成年人犯罪坚持宽容不纵容",
-      "onboard_time": 1735532721,
       "rank": 9,
       "category": "民生新闻"
     },

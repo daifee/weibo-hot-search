@@ -1,6 +1,6 @@
 {
   "startTime": 1735489511133,
-  "endTime": 1735532805313,
+  "endTime": 1735533658477,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -19,8 +19,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 2132025,
-      "num": 2132025,
+      "raw_hot": 2490745,
+      "num": 2490745,
       "word": "女子患癌1年多难得旅行遇空难身亡",
       "onboard_time": 1735529962,
       "rank": 14,
@@ -41,6 +41,14 @@
       "onboard_time": 1735487658,
       "rank": 1,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1603840,
+      "num": 1603840,
+      "word": "央视跨年晚会第一批阵容官宣",
+      "onboard_time": 1735532001,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1586008,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 1139704,
-      "num": 429793,
+      "num": 542501,
       "word": "大奉打更人被演技劝退",
       "onboard_time": 1735523299,
       "rank": 23,
@@ -137,14 +145,6 @@
       "onboard_time": 1735519940,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 913041,
-      "num": 913041,
-      "word": "央视跨年晚会第一批阵容官宣",
-      "onboard_time": 1735532001,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 909099,
@@ -235,6 +235,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 567675,
+      "num": 531086,
+      "word": "女子用车厘子喂鸡引网友羡慕",
+      "onboard_time": 1735531164,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 564830,
       "num": 419998,
       "word": "幸存韩国乘务员回忆空难",
@@ -259,20 +267,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 525339,
+      "num": 525339,
+      "word": "感觉我生了小孩就是这样的父母",
+      "onboard_time": 1735530080,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 516410,
       "num": 516410,
       "word": "韩国大妈目击客机起火爆炸",
       "onboard_time": 1735474220,
       "rank": 5,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 505407,
-      "num": 427994,
-      "word": "感觉我生了小孩就是这样的父母",
-      "onboard_time": 1735530080,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 483558,
@@ -283,8 +291,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 457361,
-      "num": 457361,
+      "raw_hot": 467557,
+      "num": 467557,
       "word": "孙颖莎vs何卓佳",
       "onboard_time": 1735530742,
       "rank": 15,
@@ -315,14 +323,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 416007,
-      "num": 416007,
-      "word": "女子用车厘子喂鸡引网友羡慕",
-      "onboard_time": 1735531164,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 409190,
       "num": 516315,
       "word": "王鹤棣演技",
@@ -347,8 +347,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 367487,
-      "num": 474171,
+      "raw_hot": 373086,
+      "num": 567802,
       "word": "演员请就位",
       "onboard_time": 1735529481,
       "rank": 15,
@@ -387,6 +387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 337423,
+      "num": 566525,
+      "word": "阿塞拜疆总统要求俄方认错并赔偿",
+      "onboard_time": 1735532181,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 331808,
       "num": 331808,
       "word": "韩国起火客机179名死者全部找到",
@@ -401,6 +409,14 @@
       "onboard_time": 1735527199,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 321044,
+      "num": 535067,
+      "word": "虞书欣湖南卫视跨年晚会彩排",
+      "onboard_time": 1735530080,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 320357,
@@ -467,12 +483,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 285382,
+      "num": 482102,
+      "word": "刘国梁出席乒超总决赛开幕式",
+      "onboard_time": 1735532903,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 280824,
       "num": 280824,
       "word": "湖人篮网交易",
       "onboard_time": 1735513936,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 274260,
+      "num": 274260,
+      "word": "12306推出系统自动提交订单功能",
+      "onboard_time": 1735531641,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 274075,
@@ -483,20 +515,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 273237,
+      "num": 273237,
+      "word": "玉溪 cos圣体",
+      "onboard_time": 1735529000,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270107,
       "num": 468991,
       "word": "孟子义帮李昀锐整理头发",
       "onboard_time": 1735528279,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 267009,
-      "num": 427321,
-      "word": "虞书欣湖南卫视跨年晚会彩排",
-      "onboard_time": 1735530080,
-      "rank": 24,
-      "category": "音乐"
     },
     {
       "raw_hot": 266930,
@@ -579,6 +611,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 238518,
+      "num": 705040,
+      "word": "对未成年人犯罪坚持宽容不纵容",
+      "onboard_time": 1735532721,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 235795,
+      "num": 566841,
+      "word": "清华法学院教授谈邯郸初中生被杀案",
+      "onboard_time": 1735532961,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 229854,
       "num": 229854,
       "word": "赵露思曾因拍戏一只耳朵短暂性失聪",
@@ -593,22 +641,6 @@
       "onboard_time": 1735485800,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 228913,
-      "num": 228913,
-      "word": "12306推出系统自动提交订单功能",
-      "onboard_time": 1735531641,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 228161,
-      "num": 228161,
-      "word": "玉溪 cos圣体",
-      "onboard_time": 1735529000,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 218754,
@@ -641,6 +673,14 @@
       "onboard_time": 1735480702,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208289,
+      "num": 208289,
+      "word": "韩国惨烈空难背后有何疑点待解",
+      "onboard_time": 1735533443,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 206697,
@@ -721,6 +761,22 @@
       "onboard_time": 1735531942,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 194082,
+      "num": 194082,
+      "word": "应届生真的很想扛着年终奖回家",
+      "onboard_time": 1735532903,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 193069,
+      "num": 193069,
+      "word": "韩国历史上最严重的空难",
+      "onboard_time": 1735533323,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 192919,
@@ -875,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156530,
+      "num": 420555,
+      "word": "黄渤现在发歌是要上春晚吗",
+      "onboard_time": 1735531164,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151586,
       "num": 151586,
       "word": "田曦薇的手机壳是临安公主",
@@ -897,6 +961,22 @@
       "onboard_time": 1735480460,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147015,
+      "num": 193100,
+      "word": "孙颖莎2024总结",
+      "onboard_time": 1735533082,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 144850,
+      "num": 285670,
+      "word": "误杀 动物符号隐喻",
+      "onboard_time": 1735533562,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 144712,
@@ -971,20 +1051,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 129966,
+      "num": 193169,
+      "word": "点外卖监视女友行踪违法吗",
+      "onboard_time": 1735533443,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128885,
       "num": 128885,
       "word": "丁禹兮跨年彩排路透",
       "onboard_time": 1735522159,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 126968,
-      "num": 420555,
-      "word": "黄渤现在发歌是要上春晚吗",
-      "onboard_time": 1735531164,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 124111,
@@ -1009,6 +1089,14 @@
       "onboard_time": 1735467680,
       "rank": 44,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 121114,
+      "num": 565642,
+      "word": "恩利说自己曾反抗过父母",
+      "onboard_time": 1735532961,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 120630,
@@ -1036,7 +1124,7 @@
     },
     {
       "raw_hot": 116476,
-      "num": 1520296,
+      "num": 1800959,
       "word": "中国刷新世界最长高速公路隧道纪录",
       "onboard_time": 1735528279,
       "rank": 2,
@@ -1107,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86503,
+      "num": 552860,
+      "word": "孙颖莎3比1何卓佳",
+      "onboard_time": 1735533143,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86050,
       "num": 86050,
       "word": "段奕宏老兵到老公只需一个陈思诚",
@@ -1161,14 +1257,6 @@
       "onboard_time": 1735523479,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 65887,
-      "num": 488825,
-      "word": "阿塞拜疆总统要求俄方认错并赔偿",
-      "onboard_time": 1735532181,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 65148,
@@ -1235,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48329,
+      "num": 419495,
+      "word": "华为推出FreeBudsPro4蛇年特别款",
+      "onboard_time": 1735529781,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 43484,
       "num": 43484,
       "word": "拉塞尔重回篮网",
@@ -1259,20 +1355,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 41295,
-      "num": 419495,
-      "word": "华为推出FreeBudsPro4蛇年特别款",
-      "onboard_time": 1735529781,
-      "rank": 40,
-      "category": "数码"
-    },
-    {
       "raw_hot": 39571,
       "num": 39571,
       "word": "有直播间公然售假羊绒衫不怕举报封号",
       "onboard_time": 1735494134,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39278,
+      "num": 562128,
+      "word": "蒯曼vs陈熠",
+      "onboard_time": 1735533443,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 38850,
@@ -1347,8 +1443,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 29502,
+      "num": 253640,
+      "word": "主角都是自己给自己的",
+      "onboard_time": 1735529781,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28938,
-      "num": 431432,
+      "num": 549925,
       "word": "陈道明沙漠弹琴",
       "onboard_time": 1735531462,
       "rank": 19,
@@ -1361,14 +1465,6 @@
       "onboard_time": 1735495333,
       "rank": 38,
       "category": "民生新闻,幽默"
-    },
-    {
-      "raw_hot": 26803,
-      "num": 232707,
-      "word": "主角都是自己给自己的",
-      "onboard_time": 1735529781,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 26591,
@@ -1433,14 +1529,6 @@
       "onboard_time": 1735504030,
       "rank": 42,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 20303,
-      "num": 705040,
-      "word": "对未成年人犯罪坚持宽容不纵容",
-      "onboard_time": 1735532721,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19280,

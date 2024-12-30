@@ -1,0 +1,410 @@
+{
+  "runTime": 1735533658477,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 13148939,
+        "num": 13148939,
+        "word": "河北邯郸初中生被杀案一审宣判",
+        "onboard_time": 1735528399,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2490745,
+        "num": 2490745,
+        "word": "女子患癌1年多难得旅行遇空难身亡",
+        "onboard_time": 1735529962,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 110982,
+        "num": 1800959,
+        "word": "中国刷新世界最长高速公路隧道纪录",
+        "onboard_time": 1735528279,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1603840,
+        "num": 1603840,
+        "word": "央视跨年晚会第一批阵容官宣",
+        "onboard_time": 1735532001,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1305538,
+        "num": 1305538,
+        "word": "邯郸初中生被杀案一人不予刑罚",
+        "onboard_time": 1735530561,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 987160,
+        "num": 987160,
+        "word": "韩国又一客机起落架故障",
+        "onboard_time": 1735516998,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 695375,
+        "num": 695375,
+        "word": "雷军千万年薪挖角95后AI天才少女",
+        "onboard_time": 1735522759,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 600146,
+        "num": 600146,
+        "word": "孟子义说现在本子多到手软",
+        "onboard_time": 1735517659,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 569325,
+        "num": 569325,
+        "word": "华为突然降价",
+        "onboard_time": 1735517540,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 238518,
+        "num": 568940,
+        "word": "对未成年人犯罪坚持宽容不纵容",
+        "onboard_time": 1735532721,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 453117,
+        "num": 568527,
+        "word": "难哄",
+        "onboard_time": 1735525759,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 373086,
+        "num": 567802,
+        "word": "演员请就位",
+        "onboard_time": 1735529481,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 820150,
+        "num": 567612,
+        "word": "有人一家9口都在韩失事客机上",
+        "onboard_time": 1735520361,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 235795,
+        "num": 566841,
+        "word": "清华法学院教授谈邯郸初中生被杀案",
+        "onboard_time": 1735532961,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337423,
+        "num": 566525,
+        "word": "阿塞拜疆总统要求俄方认错并赔偿",
+        "onboard_time": 1735532181,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121114,
+        "num": 565642,
+        "word": "恩利说自己曾反抗过父母",
+        "onboard_time": 1735532961,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 565622,
+        "num": 565622,
+        "word": "河北邯郸初中生被杀案主犯被判无期",
+        "onboard_time": 1735529481,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 39278,
+        "num": 562128,
+        "word": "蒯曼vs陈熠",
+        "onboard_time": 1735533443,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86503,
+        "num": 552860,
+        "word": "孙颖莎3比1何卓佳",
+        "onboard_time": 1735533143,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26632,
+        "num": 549925,
+        "word": "陈道明沙漠弹琴",
+        "onboard_time": 1735531462,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 630898,
+        "num": 542501,
+        "word": "大奉打更人被演技劝退",
+        "onboard_time": 1735523299,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321044,
+        "num": 535067,
+        "word": "虞书欣湖南卫视跨年晚会彩排",
+        "onboard_time": 1735530080,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 567675,
+        "num": 531086,
+        "word": "女子用车厘子喂鸡引网友羡慕",
+        "onboard_time": 1735531164,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 525339,
+        "num": 525339,
+        "word": "感觉我生了小孩就是这样的父母",
+        "onboard_time": 1735530080,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 285382,
+        "num": 482102,
+        "word": "刘国梁出席乒超总决赛开幕式",
+        "onboard_time": 1735532903,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 467557,
+        "num": 467557,
+        "word": "孙颖莎vs何卓佳",
+        "onboard_time": 1735530742,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156530,
+        "num": 398665,
+        "word": "黄渤现在发歌是要上春晚吗",
+        "onboard_time": 1735531164,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334114,
+        "num": 334114,
+        "word": "住北京0.5环是什么体验",
+        "onboard_time": 1735527739,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229126,
+        "num": 331978,
+        "word": "金晨哭戏",
+        "onboard_time": 1735529242,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 331721,
+        "num": 331721,
+        "word": "医保个人账户余额自动转结到明年用",
+        "onboard_time": 1735491735,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318079,
+        "num": 318079,
+        "word": "奉劝大家12月份的工资别乱花",
+        "onboard_time": 1735525337,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 308291,
+        "num": 308291,
+        "word": "陈丽君也抢不到我的大观园",
+        "onboard_time": 1735530801,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 48329,
+        "num": 295868,
+        "word": "华为推出FreeBudsPro4蛇年特别款",
+        "onboard_time": 1735529781,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 294335,
+        "num": 294335,
+        "word": "大奉打更人 耀祖",
+        "onboard_time": 1735519940,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144850,
+        "num": 285670,
+        "word": "误杀 动物符号隐喻",
+        "onboard_time": 1735533562,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 278926,
+        "num": 278926,
+        "word": "韩国客机撞墙前6分钟鸟情预警",
+        "onboard_time": 1735522279,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 274260,
+        "num": 274260,
+        "word": "12306推出系统自动提交订单功能",
+        "onboard_time": 1735531641,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273237,
+        "num": 273237,
+        "word": "玉溪 cos圣体",
+        "onboard_time": 1735529000,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267684,
+        "num": 267684,
+        "word": "遇难韩国妈妈患癌1年刚旅行归来",
+        "onboard_time": 1735528339,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 254971,
+        "num": 254971,
+        "word": "美国前总统吉米卡特去世",
+        "onboard_time": 1735513936,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29502,
+        "num": 253640,
+        "word": "主角都是自己给自己的",
+        "onboard_time": 1735529781,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253235,
+        "num": 253235,
+        "word": "海口官方通报小学生校内死亡",
+        "onboard_time": 1735525698,
+        "rank": 41,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 223809,
+        "num": 223809,
+        "word": "赵露思曾因拍戏一只耳朵短暂性失聪",
+        "onboard_time": 1735515677,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208289,
+        "num": 208289,
+        "word": "韩国惨烈空难背后有何疑点待解",
+        "onboard_time": 1735533443,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 205109,
+        "num": 205109,
+        "word": "缅北4名中国警察卧底被害等传言不实",
+        "onboard_time": 1735527199,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194082,
+        "num": 194082,
+        "word": "应届生真的很想扛着年终奖回家",
+        "onboard_time": 1735532903,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129966,
+        "num": 193169,
+        "word": "点外卖监视女友行踪违法吗",
+        "onboard_time": 1735533443,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147015,
+        "num": 193100,
+        "word": "孙颖莎2024总结",
+        "onboard_time": 1735533082,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211518,
+        "num": 193088,
+        "word": "赵露思的头像是化茧成蝶",
+        "onboard_time": 1735480820,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193069,
+        "num": 193069,
+        "word": "韩国历史上最严重的空难",
+        "onboard_time": 1735533323,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟习近平主席新年贺词里的人民情怀#"
+    }
+  }
+}
