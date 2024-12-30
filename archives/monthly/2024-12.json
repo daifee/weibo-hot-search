@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1735515338562,
+  "endTime": 1735523108517,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -673,6 +673,14 @@
       "onboard_time": 1733457379,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2747457,
+      "num": 2747457,
+      "word": "韩国又一客机起落架故障",
+      "onboard_time": 1735516998,
+      "rank": 0,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 2720304,
@@ -2955,6 +2963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1386708,
+      "num": 1153306,
+      "word": "有人一家9口都在韩失事客机上",
+      "onboard_time": 1735520361,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1386681,
       "num": 1386681,
       "word": "上海 韩国人",
@@ -3417,6 +3433,14 @@
       "onboard_time": 1734778878,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1293079,
+      "num": 1293079,
+      "word": "华为悬赏300万元求解难题",
+      "onboard_time": 1735519580,
+      "rank": 1,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 1291932,
@@ -4441,6 +4465,14 @@
       "onboard_time": 1735266318,
       "rank": 5,
       "category": "军事"
+    },
+    {
+      "raw_hot": 1140983,
+      "num": 1140983,
+      "word": "华为突然降价",
+      "onboard_time": 1735517540,
+      "rank": 4,
+      "category": "数码"
     },
     {
       "raw_hot": 1140763,
@@ -6473,6 +6505,14 @@
       "onboard_time": 1733036417,
       "rank": 13,
       "category": "美食"
+    },
+    {
+      "raw_hot": 937634,
+      "num": 937634,
+      "word": "孟子义说现在本子多到手软",
+      "onboard_time": 1735517659,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 937436,
@@ -9483,6 +9523,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 729911,
+      "num": 729911,
+      "word": "大奉打更人 耀祖",
+      "onboard_time": 1735519940,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 729860,
       "num": 729860,
       "word": "上海地铁乘客互骂女子怒问你上海几套房",
@@ -10652,7 +10700,7 @@
     },
     {
       "raw_hot": 676145,
-      "num": 352001,
+      "num": 354059,
       "word": "赵露思的头像是化茧成蝶",
       "onboard_time": 1735480820,
       "rank": 22,
@@ -11635,6 +11683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 641213,
+      "num": 641213,
+      "word": "提档",
+      "onboard_time": 1735515016,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 640999,
       "num": 640999,
       "word": "撞死知名医生肇事者家属请求谅解",
@@ -11977,6 +12033,14 @@
       "onboard_time": 1733819540,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 630148,
+      "num": 630148,
+      "word": "韩国客机遭鸟撞击画面曝光",
+      "onboard_time": 1735491675,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 629945,
@@ -12897,6 +12961,14 @@
       "onboard_time": 1734929479,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 595978,
+      "num": 595978,
+      "word": "美国前总统吉米卡特去世",
+      "onboard_time": 1735513936,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 595778,
@@ -13969,14 +14041,6 @@
       "onboard_time": 1734348799,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 558336,
-      "num": 558336,
-      "word": "韩国客机遭鸟撞击画面曝光",
-      "onboard_time": 1735491675,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 558222,
@@ -18265,14 +18329,6 @@
       "onboard_time": 1734488358,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 449455,
-      "num": 449455,
-      "word": "美国前总统吉米卡特去世",
-      "onboard_time": 1735513936,
-      "rank": 16,
-      "category": "国际时政"
     },
     {
       "raw_hot": 449391,
@@ -26995,6 +27051,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 301083,
+      "num": 301083,
+      "word": "世界排名规则由乒乓球专家设计",
+      "onboard_time": 1735513936,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 300916,
       "num": 324541,
       "word": "马斯克千亿美元薪酬梦又被她击碎",
@@ -32675,6 +32739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241914,
+      "num": 241914,
+      "word": "虞书欣 往那一站和小手办一样",
+      "onboard_time": 1735518620,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241894,
       "num": 468299,
       "word": "王家卫拍了繁花2000年的故事",
@@ -34393,6 +34465,14 @@
       "onboard_time": 1734868458,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 229355,
+      "num": 229355,
+      "word": "如果2024年是一部大电影",
+      "onboard_time": 1735522279,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 229336,
@@ -37089,6 +37169,14 @@
       "onboard_time": 1733291600,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 213304,
+      "num": 213304,
+      "word": "雷军千万年薪挖角95后AI天才少女",
+      "onboard_time": 1735522759,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 213283,
@@ -40401,6 +40489,14 @@
       "onboard_time": 1734005959,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 200825,
+      "num": 200825,
+      "word": "Uzi说al没有ale是史诗级加强",
+      "onboard_time": 1735521739,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 200817,
@@ -43729,6 +43825,14 @@
       "onboard_time": 1735467019,
       "rank": 27,
       "category": "电影,艺人"
+    },
+    {
+      "raw_hot": 191558,
+      "num": 307251,
+      "word": "缅北明家犯罪集团案39人被提起公诉",
+      "onboard_time": 1735521259,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 191538,
@@ -49819,6 +49923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172169,
+      "num": 172169,
+      "word": "大哥跳进驾驶室停下10多吨失控货车",
+      "onboard_time": 1735522339,
+      "rank": 31,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 172148,
       "num": 284289,
       "word": "林诗栋蒯曼vs赵大成申裕斌",
@@ -52433,6 +52545,14 @@
       "onboard_time": 1733203120,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 164722,
+      "num": 648213,
+      "word": "10个关键词收藏2024记忆",
+      "onboard_time": 1735521259,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164715,
@@ -55169,6 +55289,14 @@
       "onboard_time": 1733734880,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 157222,
+      "num": 157222,
+      "word": "赵露思曾因拍戏一只耳朵短暂性失聪",
+      "onboard_time": 1735515677,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 157203,
@@ -59251,6 +59379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 146378,
+      "num": 259874,
+      "word": "刘涛送小提琴给蓝盈莹",
+      "onboard_time": 1735522038,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146376,
       "num": 191693,
       "word": "跟张晚意一起重温2024",
@@ -59929,6 +60065,14 @@
       "onboard_time": 1734059899,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 144712,
+      "num": 144712,
+      "word": "易烊千玺说演刘春和不能做奇观的表演",
+      "onboard_time": 1735515557,
+      "rank": 36,
+      "category": "电影,综艺"
     },
     {
       "raw_hot": 144701,
@@ -63355,6 +63499,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 135112,
+      "num": 135112,
+      "word": "韩国客机撞墙前6分钟鸟情预警",
+      "onboard_time": 1735522279,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 135107,
       "num": 135107,
       "word": "GR对战MRC",
@@ -65659,6 +65811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128885,
+      "num": 128885,
+      "word": "丁禹兮跨年彩排路透",
+      "onboard_time": 1735522159,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128884,
       "num": 128884,
       "word": "没人告诉刘力扬穿黑色啊",
@@ -66483,6 +66643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 126279,
+      "num": 126279,
+      "word": "WTT世界排名",
+      "onboard_time": 1735522878,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126275,
       "num": 126275,
       "word": "谭松韵没有台词的眼技",
@@ -66720,14 +66888,6 @@
       "word": "苏翊鸣完赛",
       "onboard_time": 1733054359,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 125658,
-      "num": 125658,
-      "word": "世界排名规则由乒乓球专家设计",
-      "onboard_time": 1735513936,
-      "rank": 33,
       "category": "体育"
     },
     {
@@ -67361,6 +67521,14 @@
       "onboard_time": 1734232578,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 124111,
+      "num": 124111,
+      "word": "韩国济州航空股价大跌13%",
+      "onboard_time": 1735521259,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 124107,
@@ -72483,6 +72651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107990,
+      "num": 107990,
+      "word": "韩客机遇难者家属哭诉只希望他们活着",
+      "onboard_time": 1735521259,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 107943,
       "num": 416635,
       "word": "我的年度总结",
@@ -72633,6 +72809,14 @@
       "onboard_time": 1734241279,
       "rank": 46,
       "category": "国际时政,军事"
+    },
+    {
+      "raw_hot": 107551,
+      "num": 107551,
+      "word": "人生第一次坐机龄0年的宝宝机",
+      "onboard_time": 1735522999,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 107520,
@@ -73705,6 +73889,14 @@
       "onboard_time": 1734762317,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103903,
+      "num": 246848,
+      "word": "王楚钦赛前训练",
+      "onboard_time": 1735520239,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 103880,
@@ -79139,14 +79331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 80961,
-      "num": 80961,
-      "word": "提档",
-      "onboard_time": 1735515016,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 80955,
       "num": 231425,
       "word": "donk MVP",
@@ -83201,6 +83385,14 @@
       "onboard_time": 1733086572,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 65148,
+      "num": 108182,
+      "word": "美方团队将协助韩国调查客机失事",
+      "onboard_time": 1735521019,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 65143,
@@ -93347,6 +93539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35770,
+      "num": 1153458,
+      "word": "2024他们让五星红旗飘扬国际赛场",
+      "onboard_time": 1735479561,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35765,
       "num": 183699,
       "word": "爱玛电动车门店卖改装车被立案调查",
@@ -99481,14 +99681,6 @@
       "onboard_time": 1734271101,
       "rank": 2,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 22437,
-      "num": 837803,
-      "word": "2024他们让五星红旗飘扬国际赛场",
-      "onboard_time": 1735479561,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 22424,
