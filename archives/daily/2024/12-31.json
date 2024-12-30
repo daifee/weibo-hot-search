@@ -1,6 +1,6 @@
 {
   "startTime": 1735576065390,
-  "endTime": 1735597257181,
+  "endTime": 1735598294514,
   "band_list": [
     {
       "raw_hot": 1781083,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 354574,
-      "num": 374901,
+      "num": 475531,
       "word": "缅北明家靠诈骗过奢靡生活",
       "onboard_time": 1735574239,
       "rank": 9,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 176234,
-      "num": 129588,
+      "num": 157668,
       "word": "赵露思1月到12月的变化",
       "onboard_time": 1735555639,
       "rank": 25,
@@ -185,6 +185,14 @@
       "onboard_time": 1735574719,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 159714,
+      "num": 159714,
+      "word": "官方通报全体教师举报副校长",
+      "onboard_time": 1735590551,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155489,
@@ -307,14 +315,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 111678,
-      "num": 111678,
-      "word": "官方通报全体教师举报副校长",
-      "onboard_time": 1735590551,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109924,
       "num": 115034,
       "word": "白鹿王楚然周也同框",
@@ -371,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86441,
+      "num": 55933,
+      "word": "WTT85%股份由ITTF持有",
+      "onboard_time": 1735583171,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82104,
       "num": 860322,
       "word": "中国基建人又创造了奇迹",
@@ -403,14 +411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 71213,
-      "num": 54027,
-      "word": "WTT85%股份由ITTF持有",
-      "onboard_time": 1735583171,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 70245,
       "num": 115295,
       "word": "以色列",
@@ -441,6 +441,14 @@
       "onboard_time": 1735570100,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60081,
+      "num": 60081,
+      "word": "新疆炒米粉一辣一个不吱声",
+      "onboard_time": 1735592112,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 56820,
@@ -483,14 +491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 50548,
-      "num": 50548,
-      "word": "新疆炒米粉一辣一个不吱声",
-      "onboard_time": 1735592112,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 49834,
       "num": 49834,
       "word": "归棹 年上还是年下",
@@ -513,6 +513,14 @@
       "onboard_time": 1735584912,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33556,
+      "num": 33556,
+      "word": "哈尔滨部分连锁酒店房价过千",
+      "onboard_time": 1735594751,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27646,
@@ -555,14 +563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25669,
-      "num": 25669,
-      "word": "哈尔滨部分连锁酒店房价过千",
-      "onboard_time": 1735594751,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 25568,
       "num": 26384,
       "word": "檀健次自己的梗自己舞",
@@ -603,6 +603,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22758,
+      "num": 48196,
+      "word": "纪委调查一中学全体教师举报副校长",
+      "onboard_time": 1735589531,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22467,
+      "num": 27917,
+      "word": "央视跨年晚会宣传片热血震撼",
+      "onboard_time": 1735589412,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 22204,
       "num": 131119,
       "word": "致爱临空",
@@ -619,28 +635,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21406,
-      "num": 20822,
-      "word": "央视跨年晚会宣传片热血震撼",
-      "onboard_time": 1735589412,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 21328,
-      "num": 21328,
+      "num": 27881,
       "word": "曼联vs纽卡斯尔",
       "onboard_time": 1735587371,
       "rank": 40,
       "category": "体育"
     },
     {
-      "raw_hot": 18839,
-      "num": 48196,
-      "word": "纪委调查一中学全体教师举报副校长",
-      "onboard_time": 1735589531,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 20157,
+      "num": 59994,
+      "word": "天山深处基建狂魔放大招",
+      "onboard_time": 1735595952,
+      "rank": 14,
+      "category": "正能量"
     },
     {
       "raw_hot": 18220,
@@ -651,12 +659,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17516,
-      "num": 59994,
-      "word": "天山深处基建狂魔放大招",
-      "onboard_time": 1735595952,
-      "rank": 14,
-      "category": "正能量"
+      "raw_hot": 17298,
+      "num": 107570,
+      "word": "多方回应16岁女孩湖边落水溺亡",
+      "onboard_time": 1735597451,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16261,
@@ -731,20 +739,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 10641,
+      "num": 455798,
+      "word": "一组数据看中国空间站成绩单",
+      "onboard_time": 1735563560,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 10200,
       "num": 85893,
       "word": "潘展乐获2024体坛榜样最佳运动员",
       "onboard_time": 1735578556,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 9941,
-      "num": 455798,
-      "word": "一组数据看中国空间站成绩单",
-      "onboard_time": 1735563560,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 9586,
