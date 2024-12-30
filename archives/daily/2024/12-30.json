@@ -1,6 +1,6 @@
 {
   "startTime": 1735489511133,
-  "endTime": 1735565256141,
+  "endTime": 1735565921064,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -187,6 +187,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1156974,
+      "num": 1156974,
+      "word": "雷军千万年薪聘用的95后女生履历",
+      "onboard_time": 1735562780,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1140983,
       "num": 1140983,
       "word": "华为突然降价",
@@ -227,14 +235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1028377,
-      "num": 1028377,
-      "word": "雷军千万年薪聘用的95后女生履历",
-      "onboard_time": 1735562780,
-      "rank": 22,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 999229,
       "num": 420075,
       "word": "她最后一刻发的是妈妈我爱你",
@@ -251,7 +251,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 954370,
+      "raw_hot": 971887,
       "num": 391976,
       "word": "周扬青 小腹",
       "onboard_time": 1735564221,
@@ -313,6 +313,14 @@
       "onboard_time": 1735538841,
       "rank": 15,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 860343,
+      "num": 860343,
+      "word": "薯饼 全日制",
+      "onboard_time": 1735562361,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 852248,
@@ -417,14 +425,6 @@
       "onboard_time": 1735515016,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 637101,
-      "num": 637101,
-      "word": "薯饼 全日制",
-      "onboard_time": 1735562361,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 630148,
@@ -571,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 501297,
+      "num": 501297,
+      "word": "白鹿王楚然周也同框",
+      "onboard_time": 1735562900,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 495173,
       "num": 495173,
       "word": "男子住女友家5年分手后被判付23万",
@@ -643,14 +651,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 428940,
-      "num": 428940,
-      "word": "白鹿王楚然周也同框",
-      "onboard_time": 1735562900,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 426663,
       "num": 272503,
       "word": "遇难韩国妈妈患癌1年刚旅行归来",
@@ -691,20 +691,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 413632,
+      "num": 413632,
+      "word": "伊能静 恩利不需要一个完美妈妈",
+      "onboard_time": 1735561699,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 409190,
       "num": 516315,
       "word": "王鹤棣演技",
       "onboard_time": 1735524619,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 402220,
-      "num": 402220,
-      "word": "伊能静 恩利不需要一个完美妈妈",
-      "onboard_time": 1735561699,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 400510,
@@ -745,6 +745,14 @@
       "onboard_time": 1735559360,
       "rank": 15,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 385519,
+      "num": 407421,
+      "word": "女子两年被家暴16次怕前夫出狱报复",
+      "onboard_time": 1735563801,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 382165,
@@ -793,6 +801,14 @@
       "onboard_time": 1735530561,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 360458,
+      "num": 360458,
+      "word": "向佐致歉",
+      "onboard_time": 1735563200,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 358777,
@@ -899,20 +915,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 320735,
-      "num": 320735,
-      "word": "向佐致歉",
-      "onboard_time": 1735563200,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 320357,
       "num": 320357,
       "word": "苦寻多年才知父亲是抗日英雄杨靖宇",
       "onboard_time": 1735485560,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 317812,
+      "num": 317812,
+      "word": "大奉打更人热度",
+      "onboard_time": 1735564940,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 315041,
@@ -929,6 +945,14 @@
       "onboard_time": 1735551141,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 302435,
+      "num": 582145,
+      "word": "大连一医院急诊室墙上有殡葬广告",
+      "onboard_time": 1735564761,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 301083,
@@ -1819,6 +1843,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 175796,
+      "num": 316831,
+      "word": "孙颖莎世界排名积分破万领跑",
+      "onboard_time": 1735563259,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175000,
       "num": 175000,
       "word": "男子因邻里矛盾将马桶装在房顶上",
@@ -1833,14 +1865,6 @@
       "onboard_time": 1735550123,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 173413,
-      "num": 407421,
-      "word": "女子两年被家暴16次怕前夫出狱报复",
-      "onboard_time": 1735563801,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 172084,
@@ -1955,14 +1979,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 163573,
-      "num": 316831,
-      "word": "孙颖莎世界排名积分破万领跑",
-      "onboard_time": 1735563259,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 163570,
       "num": 163570,
       "word": "周震南 来这就是为了第一名",
@@ -2067,14 +2083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 157543,
-      "num": 157543,
-      "word": "大奉打更人热度",
-      "onboard_time": 1735564940,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 157153,
       "num": 484692,
       "word": "千万彩票被冒领当事人仍未拿到奖金",
@@ -2108,7 +2116,7 @@
     },
     {
       "raw_hot": 153831,
-      "num": 153831,
+      "num": 317815,
       "word": "Doinb官宣复出",
       "onboard_time": 1735562599,
       "rank": 40,
@@ -2235,6 +2243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146370,
+      "num": 146370,
+      "word": "快乐再出发再不疯狂更老了",
+      "onboard_time": 1735565481,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145712,
       "num": 669119,
       "word": "孙颖莎总结乒超半决赛",
@@ -2305,6 +2321,14 @@
       "onboard_time": 1735563801,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 138681,
+      "num": 138681,
+      "word": "辽宁男篮vs广东男篮",
+      "onboard_time": 1735565420,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 138157,
@@ -2515,14 +2539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 120889,
-      "num": 582145,
-      "word": "大连一医院急诊室墙上有殡葬广告",
-      "onboard_time": 1735564761,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120630,
       "num": 120630,
       "word": "古巨基 你还是叫我书桓吧",
@@ -2619,6 +2635,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 105979,
+      "num": 926346,
+      "word": "中国基建人又创造了奇迹",
+      "onboard_time": 1735564221,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 104175,
       "num": 1069261,
       "word": "警方讲述缅北1020案侦办始末",
@@ -2691,14 +2715,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 95248,
-      "num": 863173,
-      "word": "中国基建人又创造了奇迹",
-      "onboard_time": 1735564221,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 93805,
       "num": 93805,
       "word": "无限暖暖",
@@ -2721,6 +2737,14 @@
       "onboard_time": 1735514296,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91465,
+      "num": 392820,
+      "word": "杨晓培说舒适区反而是不舒适的",
+      "onboard_time": 1735564101,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 90707,
@@ -2801,6 +2825,14 @@
       "onboard_time": 1735534042,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 74870,
+      "num": 394715,
+      "word": "刘宇直播",
+      "onboard_time": 1735564640,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 73575,
@@ -2947,12 +2979,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 57431,
-      "num": 392820,
-      "word": "杨晓培说舒适区反而是不舒适的",
-      "onboard_time": 1735564101,
-      "rank": 18,
-      "category": "作品衍生"
+      "raw_hot": 57365,
+      "num": 279892,
+      "word": "夏之光高铁站被围堵",
+      "onboard_time": 1735563320,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 54049,
@@ -3059,12 +3091,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 44624,
-      "num": 242620,
-      "word": "夏之光高铁站被围堵",
-      "onboard_time": 1735563320,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 43733,
+      "num": 267388,
+      "word": "女子买大量金条寄给网恋男友",
+      "onboard_time": 1735564579,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43484,
@@ -3121,14 +3153,6 @@
       "onboard_time": 1735494134,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39402,
-      "num": 394715,
-      "word": "刘宇直播",
-      "onboard_time": 1735564640,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 39278,
@@ -3371,14 +3395,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 26394,
-      "num": 244394,
-      "word": "女子买大量金条寄给网恋男友",
-      "onboard_time": 1735564579,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 25807,
       "num": 28203,
       "word": "成毅出发湖南跨年",
@@ -3425,6 +3441,22 @@
       "onboard_time": 1735498812,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 22850,
+      "num": 157573,
+      "word": "张颜齐的广东话有进步但不多",
+      "onboard_time": 1735563921,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 22441,
+      "num": 402708,
+      "word": "药王谷治癌中医侯元祥一审被判六年",
+      "onboard_time": 1735565901,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22431,
@@ -3497,14 +3529,6 @@
       "onboard_time": 1735491616,
       "rank": 9,
       "category": "民生新闻,情感"
-    },
-    {
-      "raw_hot": 18424,
-      "num": 157573,
-      "word": "张颜齐的广东话有进步但不多",
-      "onboard_time": 1735563921,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 17214,
@@ -3611,6 +3635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 8233,
+      "num": 131025,
+      "word": "盘点24年度让你感动的瞬间",
+      "onboard_time": 1735565840,
+      "rank": 48,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 8200,
       "num": 481392,
       "word": "微博松弛感累计被互动10.4亿次",
@@ -3650,6 +3682,9 @@
     },
     {
       "word": "#总书记的惦念与牵挂#"
+    },
+    {
+      "word": "#重温习近平主席新年贺词#"
     }
   ]
 }
