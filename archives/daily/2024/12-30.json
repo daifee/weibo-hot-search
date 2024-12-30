@@ -1,6 +1,6 @@
 {
   "startTime": 1735489511133,
-  "endTime": 1735523108517,
+  "endTime": 1735524156972,
   "band_list": [
     {
       "raw_hot": 2747457,
@@ -35,7 +35,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1386708,
+      "raw_hot": 1499410,
       "num": 1153306,
       "word": "有人一家9口都在韩失事客机上",
       "onboard_time": 1735520361,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 923370,
+      "num": 923370,
+      "word": "大奉打更人 耀祖",
+      "onboard_time": 1735519940,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 909099,
       "num": 909099,
       "word": "被踢群家长再入群老师发表情包欢迎",
@@ -91,19 +99,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 749628,
+      "num": 574160,
+      "word": "雷军千万年薪挖角95后AI天才少女",
+      "onboard_time": 1735522759,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 734327,
       "num": 685925,
       "word": "大奉打更人 短剧",
       "onboard_time": 1735487240,
       "rank": 14,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 729911,
-      "num": 729911,
-      "word": "大奉打更人 耀祖",
-      "onboard_time": 1735519940,
-      "rank": 8,
       "category": "剧集"
     },
     {
@@ -211,12 +219,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 354059,
-      "num": 354059,
+      "raw_hot": 355673,
+      "num": 355673,
       "word": "赵露思的头像是化茧成蝶",
       "onboard_time": 1735480820,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 352173,
+      "num": 352173,
+      "word": "缅北明家犯罪集团案39人被提起公诉",
+      "onboard_time": 1735521259,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 345260,
@@ -241,6 +257,14 @@
       "onboard_time": 1735485560,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 315041,
+      "num": 315041,
+      "word": "虞书欣 往那一站和小手办一样",
+      "onboard_time": 1735518620,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 301083,
@@ -283,12 +307,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 273685,
+      "num": 273685,
+      "word": "大奉打更人被演技劝退",
+      "onboard_time": 1735523299,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 266930,
+      "num": 266930,
+      "word": "樊振东 红米",
+      "onboard_time": 1735523418,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 264865,
       "num": 264865,
       "word": "白桃星座",
       "onboard_time": 1735485201,
       "rank": 22,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 249705,
+      "num": 574973,
+      "word": "如果2024年是一部大电影",
+      "onboard_time": 1735522279,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 242923,
@@ -299,22 +347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 241914,
-      "num": 241914,
-      "word": "虞书欣 往那一站和小手办一样",
-      "onboard_time": 1735518620,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 229355,
-      "num": 229355,
-      "word": "如果2024年是一部大电影",
-      "onboard_time": 1735522279,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 229085,
       "num": 229085,
       "word": "因质疑作业把家长踢出群老师已道歉",
@@ -323,12 +355,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 213304,
-      "num": 213304,
-      "word": "雷军千万年薪挖角95后AI天才少女",
-      "onboard_time": 1735522759,
-      "rank": 28,
-      "category": "数码"
+      "raw_hot": 221340,
+      "num": 195691,
+      "word": "人生第一次坐机龄0年的宝宝机",
+      "onboard_time": 1735522999,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 211635,
+      "num": 270039,
+      "word": "樊振东退赛事件后首赛",
+      "onboard_time": 1735523178,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 211121,
@@ -363,12 +403,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191558,
-      "num": 307251,
-      "word": "缅北明家犯罪集团案39人被提起公诉",
-      "onboard_time": 1735521259,
-      "rank": 19,
-      "category": "国际时政"
+      "raw_hot": 190800,
+      "num": 190800,
+      "word": "大哥跳进驾驶室停下10多吨失控货车",
+      "onboard_time": 1735522339,
+      "rank": 31,
+      "category": "正能量"
     },
     {
       "raw_hot": 186683,
@@ -377,6 +417,22 @@
       "onboard_time": 1735482922,
       "rank": 29,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 183082,
+      "num": 183082,
+      "word": "WTT世界排名",
+      "onboard_time": 1735522878,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 182348,
+      "num": 182348,
+      "word": "韩国客机撞墙前6分钟鸟情预警",
+      "onboard_time": 1735522279,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 181301,
@@ -393,14 +449,6 @@
       "onboard_time": 1735470260,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 172169,
-      "num": 172169,
-      "word": "大哥跳进驾驶室停下10多吨失控货车",
-      "onboard_time": 1735522339,
-      "rank": 31,
-      "category": "正能量"
     },
     {
       "raw_hot": 171692,
@@ -435,8 +483,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162884,
+      "num": 282900,
+      "word": "刘涛送小提琴给蓝盈莹",
+      "onboard_time": 1735522038,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157222,
-      "num": 157222,
+      "num": 180921,
       "word": "赵露思曾因拍戏一只耳朵短暂性失聪",
       "onboard_time": 1735515677,
       "rank": 34,
@@ -457,14 +513,6 @@
       "onboard_time": 1735514177,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146378,
-      "num": 259874,
-      "word": "刘涛送小提琴给蓝盈莹",
-      "onboard_time": 1735522038,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 144712,
@@ -507,14 +555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 135112,
-      "num": 135112,
-      "word": "韩国客机撞墙前6分钟鸟情预警",
-      "onboard_time": 1735522279,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 133100,
       "num": 133100,
       "word": "易烊千玺采访",
@@ -553,14 +593,6 @@
       "onboard_time": 1735522159,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 126279,
-      "num": 126279,
-      "word": "WTT世界排名",
-      "onboard_time": 1735522878,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 124111,
@@ -635,12 +667,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 107551,
-      "num": 107551,
-      "word": "人生第一次坐机龄0年的宝宝机",
-      "onboard_time": 1735522999,
-      "rank": 48,
-      "category": "幽默"
+      "raw_hot": 105966,
+      "num": 105966,
+      "word": "阿塞拜疆",
+      "onboard_time": 1735524077,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 103903,
@@ -649,6 +681,30 @@
       "onboard_time": 1735520239,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101741,
+      "num": 101741,
+      "word": "年末总结",
+      "onboard_time": 1735523838,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 96518,
+      "num": 96518,
+      "word": "男童游乐场被陌生小孩从1米高台推下",
+      "onboard_time": 1735524139,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93805,
+      "num": 93805,
+      "word": "无限暖暖",
+      "onboard_time": 1735522699,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 91648,
@@ -681,6 +737,14 @@
       "onboard_time": 1735481842,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65933,
+      "num": 117394,
+      "word": "AL众人发文回应夺冠",
+      "onboard_time": 1735523479,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 65148,
