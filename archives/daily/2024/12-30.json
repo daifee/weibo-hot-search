@@ -1,6 +1,6 @@
 {
   "startTime": 1735489511133,
-  "endTime": 1735568441796,
+  "endTime": 1735569528646,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -147,6 +147,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 1245745,
+      "num": 1245745,
+      "word": "同情赵露思患病并不可耻",
+      "onboard_time": 1735566500,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1225080,
       "num": 1173881,
       "word": "韩国客机撞墙前6分钟鸟情预警",
@@ -259,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 961249,
+      "num": 961249,
+      "word": "柳演锡蔡秀彬最佳cp奖",
+      "onboard_time": 1735568001,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 950706,
       "num": 950706,
       "word": "短剧演员片酬",
@@ -347,14 +363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 749438,
-      "num": 749438,
-      "word": "同情赵露思患病并不可耻",
-      "onboard_time": 1735566500,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 743381,
       "num": 393320,
       "word": "安小鸟保胎",
@@ -411,6 +419,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 669496,
+      "num": 573886,
+      "word": "终于懂得昼川老师的被光所诱惑",
+      "onboard_time": 1735566141,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 658278,
+      "num": 612471,
+      "word": "向佐致歉",
+      "onboard_time": 1735563200,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 648026,
       "num": 405180,
       "word": "沈月亚洲最具影响力排名第一",
@@ -449,14 +473,6 @@
       "onboard_time": 1735545619,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 612471,
-      "num": 612471,
-      "word": "向佐致歉",
-      "onboard_time": 1735563200,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 607756,
@@ -515,19 +531,19 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 561587,
+      "num": 561587,
+      "word": "大奉打更人热度",
+      "onboard_time": 1735564940,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 551470,
       "num": 465896,
       "word": "大奉打更人 浮夸",
       "onboard_time": 1735470441,
       "rank": 6,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 551419,
-      "num": 551419,
-      "word": "大奉打更人热度",
-      "onboard_time": 1735564940,
-      "rank": 45,
       "category": "剧集"
     },
     {
@@ -739,14 +755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 404065,
-      "num": 404065,
-      "word": "终于懂得昼川老师的被光所诱惑",
-      "onboard_time": 1735566141,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 400510,
       "num": 400510,
       "word": "迪丽热巴今天cos碱水结",
@@ -785,6 +793,14 @@
       "onboard_time": 1735559360,
       "rank": 15,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 388913,
+      "num": 388913,
+      "word": "网友抱怨哈尔滨200多元酒店涨至2000多",
+      "onboard_time": 1735566441,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 385519,
@@ -963,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304090,
+      "num": 304090,
+      "word": "京沪高铁的班味从年初冲到年尾",
+      "onboard_time": 1735568241,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 303915,
       "num": 303915,
       "word": "FPXZQ对战成都GG",
@@ -1123,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269778,
+      "num": 375422,
+      "word": "白敬亭直播",
+      "onboard_time": 1735568541,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269073,
       "num": 269073,
       "word": "男频剧",
@@ -1145,6 +1177,14 @@
       "onboard_time": 1735524139,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 265858,
+      "num": 265858,
+      "word": "2025跨年晚会最全阵容",
+      "onboard_time": 1735567942,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 264865,
@@ -1251,6 +1291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 249271,
+      "num": 249271,
+      "word": "麦当劳奶昔回归",
+      "onboard_time": 1735569021,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 246981,
       "num": 246981,
       "word": "李小冉你这话也太糙了",
@@ -1281,6 +1329,14 @@
       "onboard_time": 1735541600,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 244157,
+      "num": 579052,
+      "word": "央视跨年晚会阵容你最期待谁",
+      "onboard_time": 1735568541,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 244022,
@@ -1353,22 +1409,6 @@
       "onboard_time": 1735552160,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 236817,
-      "num": 236817,
-      "word": "网友抱怨哈尔滨200多元酒店涨至2000多",
-      "onboard_time": 1735566441,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 234162,
-      "num": 234162,
-      "word": "柳演锡蔡秀彬最佳cp奖",
-      "onboard_time": 1735568001,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 233691,
@@ -1683,6 +1723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192227,
+      "num": 192227,
+      "word": "by2被粉丝包围",
+      "onboard_time": 1735569200,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191468,
       "num": 191468,
       "word": "王一博新歌彩排路透",
@@ -1737,6 +1785,14 @@
       "onboard_time": 1735522339,
       "rank": 31,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 190492,
+      "num": 190492,
+      "word": "刘宇宁央视跨年晚会舞台好震撼",
+      "onboard_time": 1735569261,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 190016,
@@ -1859,14 +1915,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 180589,
-      "num": 180589,
-      "word": "2025跨年晚会最全阵容",
-      "onboard_time": 1735567942,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 179473,
       "num": 179473,
       "word": "年度账单",
@@ -1923,6 +1971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174292,
+      "num": 174292,
+      "word": "致爱临空",
+      "onboard_time": 1735568241,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 173889,
       "num": 173889,
       "word": "肖战希望大家可以喜欢专辑我们",
@@ -1969,6 +2025,14 @@
       "onboard_time": 1735473200,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 170181,
+      "num": 170181,
+      "word": "联合杯",
+      "onboard_time": 1735569380,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 169281,
@@ -2049,14 +2113,6 @@
       "onboard_time": 1735553120,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 164114,
-      "num": 164114,
-      "word": "京沪高铁的班味从年初冲到年尾",
-      "onboard_time": 1735568241,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 163999,
@@ -2395,6 +2451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139956,
+      "num": 139956,
+      "word": "辽宁男篮战胜广东男篮",
+      "onboard_time": 1735569261,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139113,
       "num": 139113,
       "word": "原打算乘韩国失事客机的中国游客发声",
@@ -2433,6 +2497,14 @@
       "onboard_time": 1735561521,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137486,
+      "num": 540582,
+      "word": "16岁女孩溺亡父亲称事发地无护栏监控",
+      "onboard_time": 1735567762,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137292,
@@ -2489,6 +2561,14 @@
       "onboard_time": 1735483940,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132904,
+      "num": 132904,
+      "word": "霍建华阚清子新剧开机",
+      "onboard_time": 1735569500,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 132636,
@@ -2699,6 +2779,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 109681,
+      "num": 999104,
+      "word": "中国基建人又创造了奇迹",
+      "onboard_time": 1735564221,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 109244,
       "num": 103388,
       "word": "韩国客机着火179人遇难",
@@ -2713,14 +2801,6 @@
       "onboard_time": 1735486760,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 108806,
-      "num": 926346,
-      "word": "中国基建人又创造了奇迹",
-      "onboard_time": 1735564221,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 107990,
@@ -2939,6 +3019,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 71764,
+      "num": 351364,
+      "word": "朱一龙蝉联金莲花最佳男主角",
+      "onboard_time": 1735569441,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 71671,
       "num": 422779,
       "word": "CR450动车内部长啥样",
@@ -3033,6 +3121,14 @@
       "onboard_time": 1735564041,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63119,
+      "num": 350015,
+      "word": "Doinb透露将回归LPL",
+      "onboard_time": 1735568600,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 62792,
@@ -3219,6 +3315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44335,
+      "num": 451778,
+      "word": "广州近千户家庭地址被冒用注册公司",
+      "onboard_time": 1735568062,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43733,
       "num": 267388,
       "word": "女子买大量金条寄给网恋男友",
@@ -3241,14 +3345,6 @@
       "onboard_time": 1735542258,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 43190,
-      "num": 497223,
-      "word": "16岁女孩溺亡父亲称事发地无护栏监控",
-      "onboard_time": 1735567762,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 42652,
@@ -3329,6 +3425,14 @@
       "onboard_time": 1735495993,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 37223,
+      "num": 320059,
+      "word": "诱导男用户安装交友软件骗取1.39亿",
+      "onboard_time": 1735567581,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37138,
@@ -3595,14 +3699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 23143,
-      "num": 451778,
-      "word": "广州近千户家庭地址被冒用注册公司",
-      "onboard_time": 1735568062,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23063,
       "num": 23063,
       "word": "马嘉祺音乐剧舞台",
@@ -3697,14 +3793,6 @@
       "onboard_time": 1735491616,
       "rank": 9,
       "category": "民生新闻,情感"
-    },
-    {
-      "raw_hot": 19181,
-      "num": 320059,
-      "word": "诱导男用户安装交友软件骗取1.39亿",
-      "onboard_time": 1735567581,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17513,
