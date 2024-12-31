@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735677348930,
+  "endTime": 1735680081295,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -11011,6 +11011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 31251,
+      "num": 31251,
+      "word": "汪苏泷跳了4遍女团舞",
+      "onboard_time": 1735679951,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 31175,
       "num": 191694,
       "word": "张晓龙用华为手表电子号脉",
@@ -12155,6 +12163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11121,
+      "num": 102601,
+      "word": "进入2025的跨年仪式感",
+      "onboard_time": 1735678452,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11011,
       "num": 228617,
       "word": "联合杯中国vs德国",
@@ -12305,6 +12321,14 @@
       "onboard_time": 1735601415,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 7760,
+      "num": 34184,
+      "word": "黎深 把醉猫带回家",
+      "onboard_time": 1735678571,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 7369,
