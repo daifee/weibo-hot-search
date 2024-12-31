@@ -1,0 +1,410 @@
+{
+  "runTime": 1735634499485,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2104837,
+        "num": 2104837,
+        "word": "赵露思 救救我",
+        "onboard_time": 1735633520,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1700472,
+        "num": 1700472,
+        "word": "樊振东陈梦马龙正式退出世界排名",
+        "onboard_time": 1735633043,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54983,
+        "num": 1674333,
+        "word": "2024年终大盘点",
+        "onboard_time": 1735617199,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1650658,
+        "num": 1650658,
+        "word": "赵露思好友朱锐称霸凌的是前公司",
+        "onboard_time": 1735631240,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1631703,
+        "num": 1631703,
+        "word": "韩1家9口遇难后家中仅剩1只狗",
+        "onboard_time": 1735630280,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 872789,
+        "num": 872789,
+        "word": "韩坠机事故遗体目前仍放在地上",
+        "onboard_time": 1735626621,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 805822,
+        "num": 805822,
+        "word": "韩国首都发生车辆冲击人群事件",
+        "onboard_time": 1735632319,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 606265,
+        "num": 606265,
+        "word": "前乒乓球冠军称WTT需要致歉",
+        "onboard_time": 1735627999,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 583244,
+        "num": 583244,
+        "word": "湖南卫视跨年节目单",
+        "onboard_time": 1735624578,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82616,
+        "num": 559420,
+        "word": "每一个热气腾腾的日子都值得纪念",
+        "onboard_time": 1735633100,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 556773,
+        "num": 556773,
+        "word": "恋与深空登顶",
+        "onboard_time": 1735633700,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 456254,
+        "num": 456254,
+        "word": "戚薇穿了28年前古董高定",
+        "onboard_time": 1735632501,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372290,
+        "num": 372290,
+        "word": "张加帅",
+        "onboard_time": 1735617860,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 5858,
+        "num": 351750,
+        "word": "乒协回应马龙樊振东陈梦退出世",
+        "onboard_time": 1735634421,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91105,
+        "num": 348874,
+        "word": "一个不经意的动作会让眼球变形",
+        "onboard_time": 1735632920,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348039,
+        "num": 348039,
+        "word": "韩国官方回应机场跑道尽头有墙",
+        "onboard_time": 1735629078,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 53430,
+        "num": 345491,
+        "word": "时代少年团执笔构建少年梦境",
+        "onboard_time": 1735633640,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151744,
+        "num": 343222,
+        "word": "电信0元购机老人背上3年分期还款",
+        "onboard_time": 1735629919,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 30045,
+        "num": 336377,
+        "word": "2024十大情绪关键词你中了几个",
+        "onboard_time": 1735632501,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37803,
+        "num": 332571,
+        "word": "公司经法院调解仍拖欠工人薪资",
+        "onboard_time": 1735632920,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2952418,
+        "num": 327018,
+        "word": "赵露思好友曝她曾被公司殴打",
+        "onboard_time": 1735617620,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324685,
+        "num": 324685,
+        "word": "果农称车厘子喂鸡视频非近期拍摄",
+        "onboard_time": 1735628659,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217081,
+        "num": 294870,
+        "word": "皮特朱莉签署离婚协议",
+        "onboard_time": 1735630759,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371436,
+        "num": 293473,
+        "word": "张颂文",
+        "onboard_time": 1735625838,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291934,
+        "num": 291934,
+        "word": "今年车厘子价格为何断崖式下跌",
+        "onboard_time": 1735613479,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 223632,
+        "num": 223632,
+        "word": "下水道捡到国家一级保护动物",
+        "onboard_time": 1735633280,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25776,
+        "num": 223605,
+        "word": "2024哪部文艺作品打动过你",
+        "onboard_time": 1735632559,
+        "rank": 26,
+        "category": "电影,剧集"
+      },
+      {
+        "raw_hot": 205560,
+        "num": 221892,
+        "word": "易烊千玺2024最后一天营业",
+        "onboard_time": 1735632080,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201052,
+        "num": 221150,
+        "word": "孟姐 你好娇啊",
+        "onboard_time": 1735625061,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100514,
+        "num": 220667,
+        "word": "2025年初首套房贷利率将下调至3.3%",
+        "onboard_time": 1735632920,
+        "rank": 29,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 219776,
+        "num": 219776,
+        "word": "四大行2024年均涨超40%",
+        "onboard_time": 1735630880,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 214174,
+        "num": 214174,
+        "word": "王腾晋升小米双料总经理",
+        "onboard_time": 1735632140,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 203740,
+        "num": 203740,
+        "word": "小米SU7",
+        "onboard_time": 1735626200,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 189945,
+        "num": 189945,
+        "word": "宝妈靠展示隐形家务劳动逆袭人生",
+        "onboard_time": 1735633942,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188527,
+        "num": 188527,
+        "word": "葛夕留几手CP群",
+        "onboard_time": 1735631180,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187310,
+        "num": 187310,
+        "word": "花花心态乐观超越99%大熊猫",
+        "onboard_time": 1735628300,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181243,
+        "num": 181243,
+        "word": "饿瘦和运动瘦的区别",
+        "onboard_time": 1735618641,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179952,
+        "num": 179952,
+        "word": "陈建州妹妹器官移植手术成功",
+        "onboard_time": 1735625542,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23004,
+        "num": 173222,
+        "word": "清明上河图密码台词含金量",
+        "onboard_time": 1735633043,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26518,
+        "num": 170124,
+        "word": "被骗只是运气不好 不是你不好",
+        "onboard_time": 1735634119,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168952,
+        "num": 168952,
+        "word": "倪妮承认是恋爱脑",
+        "onboard_time": 1735630939,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168764,
+        "num": 168764,
+        "word": "感谢每一个不平凡的你",
+        "onboard_time": 1735634300,
+        "rank": 41,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 165112,
+        "num": 165112,
+        "word": "D社不公布年度情侣",
+        "onboard_time": 1735624578,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163727,
+        "num": 163727,
+        "word": "Angelababy瑞丽开年刊封面",
+        "onboard_time": 1735620802,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 39354,
+        "num": 162656,
+        "word": "80秒回顾2024中国科技新突破",
+        "onboard_time": 1735633100,
+        "rank": 44,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 162524,
+        "num": 162524,
+        "word": "加沙病人被迫只穿内裤徒步走3小时",
+        "onboard_time": 1735626020,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 160407,
+        "num": 160407,
+        "word": "2024A股收官",
+        "onboard_time": 1735632080,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 150732,
+        "num": 150732,
+        "word": "李一桐 粉红玛丽猫",
+        "onboard_time": 1735634360,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142818,
+        "num": 142818,
+        "word": "秦彻 就这么不想让我走",
+        "onboard_time": 1735634360,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138413,
+        "num": 138413,
+        "word": "TVB拍了娱乐圈文",
+        "onboard_time": 1735630280,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全国各族人民致以新年美好祝福#"
+    }
+  }
+}
