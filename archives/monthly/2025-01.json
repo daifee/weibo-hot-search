@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735666577328,
+  "endTime": 1735669745891,
   "band_list": [
     {
       "raw_hot": 10681189,
@@ -43,6 +43,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1796306,
+      "num": 792465,
+      "word": "棣欣引力",
+      "onboard_time": 1735667060,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1793831,
       "num": 1793831,
       "word": "跨年收视率",
@@ -75,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1472244,
+      "num": 806392,
+      "word": "王玮晨向赵露思道歉",
+      "onboard_time": 1735665801,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1358503,
       "num": 1358503,
       "word": "马龙王鹤棣打乒乓球",
@@ -89,6 +105,14 @@
       "onboard_time": 1735657828,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1180484,
+      "num": 628755,
+      "word": "赵露思好友曝她曾被公司殴打",
+      "onboard_time": 1735617620,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 1158960,
@@ -139,14 +163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 982229,
-      "num": 806392,
-      "word": "王玮晨向赵露思道歉",
-      "onboard_time": 1735665801,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 962730,
       "num": 962730,
       "word": "醒醒 现在是千禧年",
@@ -176,6 +192,14 @@
       "word": "鞠婧祎 行走的CD",
       "onboard_time": 1735660407,
       "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 843360,
+      "num": 581215,
+      "word": "禹宙中欣",
+      "onboard_time": 1735668077,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -225,14 +249,6 @@
       "onboard_time": 1735662445,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 687488,
-      "num": 628755,
-      "word": "赵露思好友曝她曾被公司殴打",
-      "onboard_time": 1735617620,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 654288,
@@ -307,6 +323,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 394603,
+      "num": 394603,
+      "word": "王力宏 复出",
+      "onboard_time": 1735663643,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 390749,
+      "num": 390749,
+      "word": "苏醒被绑架到C位",
+      "onboard_time": 1735667418,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 385887,
       "num": 359035,
       "word": "丁禹兮拿了慕声发带",
@@ -321,14 +353,6 @@
       "onboard_time": 1735658126,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 351265,
-      "num": 351265,
-      "word": "王力宏 复出",
-      "onboard_time": 1735663643,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 340821,
@@ -368,6 +392,14 @@
       "word": "王鹤棣转场太可以了",
       "onboard_time": 1735659146,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 312288,
+      "num": 312288,
+      "word": "天经棣义",
+      "onboard_time": 1735668918,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -451,6 +483,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 244269,
+      "num": 244269,
+      "word": "赵丽颖 想什么呢一起往前走啊",
+      "onboard_time": 1735667000,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243469,
       "num": 243469,
       "word": "名侦探柯南",
@@ -515,12 +555,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199068,
+      "num": 199068,
+      "word": "谢娜",
+      "onboard_time": 1735668618,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197532,
       "num": 500403,
       "word": "孙颖莎兔牙小宝",
       "onboard_time": 1735660705,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193734,
+      "num": 843700,
+      "word": "2025新年签",
+      "onboard_time": 1735665801,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178067,
@@ -531,12 +587,36 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 177831,
+      "num": 177831,
+      "word": "喻言在湖南跨年打工",
+      "onboard_time": 1735668737,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176162,
       "num": 196324,
       "word": "邓亚萍称小胖今天状态并不太好",
       "onboard_time": 1735656568,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176159,
+      "num": 176159,
+      "word": "芒果男主持 杨淇源是谁啊",
+      "onboard_time": 1735666820,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 175447,
+      "num": 175447,
+      "word": "国色芳华",
+      "onboard_time": 1735668858,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 170524,
@@ -553,6 +633,22 @@
       "onboard_time": 1735658246,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169134,
+      "num": 169134,
+      "word": "影视剧难哄",
+      "onboard_time": 1735668977,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 165806,
+      "num": 165806,
+      "word": "感觉上海外滩有一亿个人在跨年",
+      "onboard_time": 1735666820,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 158276,
@@ -587,20 +683,20 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 149237,
-      "num": 843700,
-      "word": "2025新年签",
-      "onboard_time": 1735665801,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 147865,
       "num": 340178,
       "word": "樊振东称希望得到大家的祝福",
       "onboard_time": 1735664243,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143776,
+      "num": 143776,
+      "word": "王者荣耀",
+      "onboard_time": 1735668798,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 116506,
@@ -625,6 +721,14 @@
       "onboard_time": 1735650388,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 97815,
+      "num": 591845,
+      "word": "2025好运来",
+      "onboard_time": 1735662807,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83774,
@@ -657,6 +761,14 @@
       "onboard_time": 1735666520,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34379,
+      "num": 319680,
+      "word": "无畏祝大家25年都发财",
+      "onboard_time": 1735668437,
+      "rank": 24,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [
