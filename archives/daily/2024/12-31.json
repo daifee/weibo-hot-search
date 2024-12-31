@@ -1,6 +1,6 @@
 {
   "startTime": 1735576065390,
-  "endTime": 1735613501089,
+  "endTime": 1735614032309,
   "band_list": [
     {
       "raw_hot": 1781083,
@@ -12,19 +12,27 @@
     },
     {
       "raw_hot": 1753798,
-      "num": 775299,
+      "num": 960723,
       "word": "陈学冬疑似退圈定居美国",
       "onboard_time": 1735605319,
       "rank": 3,
       "category": "艺人"
     },
     {
-      "raw_hot": 1574419,
-      "num": 1574419,
+      "raw_hot": 1609536,
+      "num": 1609536,
       "word": "韩国空难机场跑道尽头为何有墙",
       "onboard_time": 1735610118,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1337207,
+      "num": 1337207,
+      "word": "2025跨年节目单",
+      "onboard_time": 1735613058,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1318682,
@@ -67,16 +75,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 795155,
-      "num": 795155,
-      "word": "2025跨年节目单",
-      "onboard_time": 1735613058,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 758003,
-      "num": 489165,
+      "num": 667098,
       "word": "地铁公司回应地铁口被吐槽像棺材",
       "onboard_time": 1735610660,
       "rank": 10,
@@ -259,6 +259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 302972,
+      "num": 392793,
+      "word": "韩国总统警卫处称将依法采取措施",
+      "onboard_time": 1735611919,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 300218,
       "num": 300218,
       "word": "WTT85%股份由ITTF持有",
@@ -273,6 +281,14 @@
       "onboard_time": 1735572381,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 292889,
+      "num": 237164,
+      "word": "韩安冉老公宋墨仿妆",
+      "onboard_time": 1735613298,
+      "rank": 39,
+      "category": "网红"
     },
     {
       "raw_hot": 284403,
@@ -315,6 +331,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 270663,
+      "num": 270663,
+      "word": "亲生父母弃养女儿多年后要20万养育费",
+      "onboard_time": 1735613058,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 268085,
+      "num": 304136,
+      "word": "韩国空难遇难者群像",
+      "onboard_time": 1735612458,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 262271,
+      "num": 262271,
+      "word": "恋与深空",
+      "onboard_time": 1735601536,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 258406,
       "num": 258406,
       "word": "2025春运",
@@ -323,12 +363,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 254800,
-      "num": 254800,
-      "word": "恋与深空",
-      "onboard_time": 1735601536,
-      "rank": 18,
-      "category": "游戏"
+      "raw_hot": 257264,
+      "num": 489905,
+      "word": "英专家称韩客机失事真凶是混凝土设施",
+      "onboard_time": 1735610298,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 251217,
@@ -339,20 +379,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 245611,
-      "num": 245611,
-      "word": "韩国空难遇难者群像",
-      "onboard_time": 1735612458,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 237431,
-      "num": 489905,
-      "word": "英专家称韩客机失事真凶是混凝土设施",
-      "onboard_time": 1735610298,
-      "rank": 9,
-      "category": "海外新闻"
+      "raw_hot": 250880,
+      "num": 251044,
+      "word": "射雕人物海报",
+      "onboard_time": 1735613058,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 231043,
@@ -379,6 +411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 223081,
+      "num": 223081,
+      "word": "26岁裸辞瞒着爸妈假装上班的一天",
+      "onboard_time": 1735611499,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 218382,
       "num": 218382,
       "word": "去爬山结果自己成了景点",
@@ -393,14 +433,6 @@
       "onboard_time": 1735573879,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 216874,
-      "num": 216874,
-      "word": "26岁裸辞瞒着爸妈假装上班的一天",
-      "onboard_time": 1735611499,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 209226,
@@ -419,14 +451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200442,
-      "num": 251044,
-      "word": "射雕人物海报",
-      "onboard_time": 1735613058,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 200095,
       "num": 200095,
       "word": "麦当劳奶昔回归",
@@ -443,20 +467,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 197582,
-      "num": 197582,
-      "word": "亲生父母弃养女儿多年后要20万养育费",
-      "onboard_time": 1735613058,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 193584,
-      "num": 392793,
-      "word": "韩国总统警卫处称将依法采取措施",
-      "onboard_time": 1735611919,
-      "rank": 18,
-      "category": "国际时政"
+      "raw_hot": 195721,
+      "num": 195721,
+      "word": "今年车厘子价格为何断崖式下跌",
+      "onboard_time": 1735613479,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 190138,
@@ -467,8 +483,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 185223,
-      "num": 185223,
+      "raw_hot": 188461,
+      "num": 246218,
       "word": "江苏卫视跨年节目单",
       "onboard_time": 1735613118,
       "rank": 34,
@@ -483,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172349,
+      "num": 172349,
+      "word": "江苏卫视跨年演唱会全开麦真唱",
+      "onboard_time": 1735576097,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166271,
       "num": 210359,
       "word": "外来媳妇本地郎要从第一集重播了",
@@ -491,20 +515,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164140,
-      "num": 164140,
-      "word": "韩安冉老公宋墨仿妆",
-      "onboard_time": 1735613298,
-      "rank": 39,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 164027,
-      "num": 164027,
-      "word": "江苏卫视跨年演唱会全开麦真唱",
-      "onboard_time": 1735576097,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 160822,
+      "num": 160822,
+      "word": "特朗普被判赔偿500万美元",
+      "onboard_time": 1735612878,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 155489,
@@ -563,12 +579,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148483,
-      "num": 148483,
-      "word": "特朗普被判赔偿500万美元",
-      "onboard_time": 1735612878,
-      "rank": 45,
-      "category": "国际时政"
+      "raw_hot": 148357,
+      "num": 148357,
+      "word": "B站跨年晚会节目单",
+      "onboard_time": 1735613959,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 147849,
+      "num": 147849,
+      "word": "繁花周年短片好久不见",
+      "onboard_time": 1735613356,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 145922,
@@ -585,6 +609,14 @@
       "onboard_time": 1735608378,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143069,
+      "num": 143069,
+      "word": "柯南樱花场超火爆加场",
+      "onboard_time": 1735613778,
+      "rank": 48,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 142727,
@@ -683,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124350,
+      "num": 365899,
+      "word": "潘宏不反对吃狗肉",
+      "onboard_time": 1735613356,
+      "rank": 19,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 122262,
       "num": 140203,
       "word": "薯饼 全日制",
@@ -715,28 +755,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 118627,
-      "num": 118627,
-      "word": "繁花周年短片好久不见",
-      "onboard_time": 1735613356,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 116482,
       "num": 116482,
       "word": "男子花近40万相亲1天结婚领证",
       "onboard_time": 1735555940,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 112803,
-      "num": 112803,
-      "word": "今年车厘子价格为何断崖式下跌",
-      "onboard_time": 1735613479,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 111819,
@@ -835,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91952,
+      "num": 188550,
+      "word": "献给2024年的告别短片",
+      "onboard_time": 1735610598,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91869,
       "num": 115008,
       "word": "伊能静 恩利不需要一个完美妈妈",
@@ -892,7 +924,7 @@
     },
     {
       "raw_hot": 70324,
-      "num": 248944,
+      "num": 258359,
       "word": "那一年我喜欢上了詹姆斯",
       "onboard_time": 1735613419,
       "rank": 28,
@@ -953,6 +985,14 @@
       "onboard_time": 1735570100,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62373,
+      "num": 444970,
+      "word": "闪婚中介教记者相亲套路",
+      "onboard_time": 1735612639,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60081,
@@ -1027,14 +1067,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 47662,
-      "num": 444970,
-      "word": "闪婚中介教记者相亲套路",
-      "onboard_time": 1735612639,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47566,
       "num": 47566,
       "word": "2024你追过哪些国产影视",
@@ -1051,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42466,
+      "num": 237799,
+      "word": "A股公司董事长被罚1.09亿元",
+      "onboard_time": 1735613599,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 38776,
       "num": 48196,
       "word": "纪委调查一中学全体教师举报副校长",
@@ -1064,6 +1104,14 @@
       "word": "哈尔滨部分连锁酒店房价过千",
       "onboard_time": 1735594751,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29515,
+      "num": 400651,
+      "word": "男生做康复治疗师3年帮助千余老人",
+      "onboard_time": 1735612998,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -1108,7 +1156,7 @@
     },
     {
       "raw_hot": 25661,
-      "num": 776895,
+      "num": 972851,
       "word": "一组数据看中国空间站成绩单",
       "onboard_time": 1735563560,
       "rank": 2,
@@ -1187,14 +1235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 20310,
-      "num": 365899,
-      "word": "潘宏不反对吃狗肉",
-      "onboard_time": 1735613356,
-      "rank": 19,
-      "category": "网红,民生新闻"
-    },
-    {
       "raw_hot": 20157,
       "num": 59994,
       "word": "天山深处基建狂魔放大招",
@@ -1227,14 +1267,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 15529,
-      "num": 400651,
-      "word": "男生做康复治疗师3年帮助千余老人",
-      "onboard_time": 1735612998,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 15413,
       "num": 20821,
       "word": "伊普斯vs切尔西",
@@ -1249,6 +1281,14 @@
       "onboard_time": 1735587311,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 14505,
+      "num": 164597,
+      "word": "2024你经历了断崖式衰老吗",
+      "onboard_time": 1735613839,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 14090,
