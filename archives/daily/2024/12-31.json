@@ -1,6 +1,6 @@
 {
   "startTime": 1735576065390,
-  "endTime": 1735643913644,
+  "endTime": 1735644943428,
   "band_list": [
     {
       "raw_hot": 8867990,
@@ -19,8 +19,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3518470,
-      "num": 4036941,
+      "raw_hot": 7278820,
+      "num": 8528820,
       "word": "2025年新年贺词",
       "onboard_time": 1735642642,
       "rank": 0,
@@ -107,6 +107,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 1556641,
+      "num": 1556641,
+      "word": "湖南卫视跨年晚会",
+      "onboard_time": 1735644021,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1546982,
       "num": 1546982,
       "word": "2025跨年节目单",
@@ -153,6 +161,14 @@
       "onboard_time": 1735572980,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1095627,
+      "num": 1095627,
+      "word": "湖南卫视跨年节目单",
+      "onboard_time": 1735624578,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1075180,
@@ -203,11 +219,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 928244,
-      "num": 921615,
-      "word": "湖南卫视跨年节目单",
-      "onboard_time": 1735624578,
-      "rank": 3,
+      "raw_hot": 904656,
+      "num": 532904,
+      "word": "江苏卫视跨年",
+      "onboard_time": 1735643841,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -244,7 +260,7 @@
     },
     {
       "raw_hot": 767271,
-      "num": 413905,
+      "num": 427171,
       "word": "常州一党委书记被曝群内发不雅内容",
       "onboard_time": 1735639700,
       "rank": 13,
@@ -259,7 +275,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 684473,
+      "raw_hot": 723256,
       "num": 556271,
       "word": "乒协称同意三人退出世界排名",
       "onboard_time": 1735640780,
@@ -329,6 +345,14 @@
       "onboard_time": 1735633700,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 543627,
+      "num": 515479,
+      "word": "浙江卫视跨年晚会",
+      "onboard_time": 1735643841,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 542031,
@@ -523,6 +547,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 423825,
+      "num": 423825,
+      "word": "刘国梁说樊振东陈梦可用外卡参赛",
+      "onboard_time": 1735641201,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 423611,
       "num": 423611,
       "word": "B站跨年晚会节目单",
@@ -651,6 +683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 355816,
+      "num": 355816,
+      "word": "央视跨年晚会节目单",
+      "onboard_time": 1735643721,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 353658,
       "num": 353658,
       "word": "央视跨年晚会阵容你最期待谁",
@@ -681,14 +721,6 @@
       "onboard_time": 1735610418,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 336778,
-      "num": 336778,
-      "word": "刘国梁说樊振东陈梦可用外卡参赛",
-      "onboard_time": 1735641201,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 335321,
@@ -761,6 +793,14 @@
       "onboard_time": 1735623200,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 315110,
+      "num": 315110,
+      "word": "东方卫视跨年",
+      "onboard_time": 1735583892,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 314016,
@@ -1003,12 +1043,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242969,
+      "num": 242969,
+      "word": "红白歌会",
+      "onboard_time": 1735643480,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240971,
       "num": 240971,
       "word": "Hero久哲成为历史",
       "onboard_time": 1735622601,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 239535,
+      "num": 239535,
+      "word": "跨年晚会彩排",
+      "onboard_time": 1735636400,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 239159,
@@ -1041,6 +1097,14 @@
       "onboard_time": 1735620980,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231528,
+      "num": 231528,
+      "word": "2024年的你也辛苦了",
+      "onboard_time": 1735641262,
+      "rank": 33,
+      "category": "正能量"
     },
     {
       "raw_hot": 231172,
@@ -1089,6 +1153,14 @@
       "onboard_time": 1735566141,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 227603,
+      "num": 227603,
+      "word": "九重紫浙江卫视即将播出",
+      "onboard_time": 1735643121,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 223081,
@@ -1147,14 +1219,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 213893,
-      "num": 213893,
-      "word": "九重紫浙江卫视即将播出",
-      "onboard_time": 1735643121,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 213753,
       "num": 213753,
       "word": "河南广西2省区党委主要负责同志职务调整",
@@ -1203,14 +1267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205710,
-      "num": 205710,
-      "word": "2024年的你也辛苦了",
-      "onboard_time": 1735641262,
-      "rank": 33,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 205428,
       "num": 205428,
       "word": "白鹿 花仙子",
@@ -1224,6 +1280,14 @@
       "word": "葛夕留几手CP群",
       "onboard_time": 1735631180,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 205352,
+      "num": 205352,
+      "word": "北京卫视跨年",
+      "onboard_time": 1735644260,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -1291,14 +1355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 198605,
-      "num": 198605,
-      "word": "红白歌会",
-      "onboard_time": 1735643480,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 198573,
       "num": 198573,
       "word": "低成本养气血的8种方法",
@@ -1313,6 +1369,14 @@
       "onboard_time": 1735621822,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 198311,
+      "num": 198311,
+      "word": "上海地产vs山东魏桥",
+      "onboard_time": 1735644321,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 197943,
@@ -1355,20 +1419,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196336,
-      "num": 196336,
-      "word": "跨年晚会彩排",
-      "onboard_time": 1735636400,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 194722,
       "num": 194722,
       "word": "王鹤棣穿好六惩罚衣跨年彩排",
       "onboard_time": 1735627698,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194194,
+      "num": 194194,
+      "word": "鞠婧祎金色臂环",
+      "onboard_time": 1735644382,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 193229,
@@ -1404,7 +1468,7 @@
     },
     {
       "raw_hot": 191027,
-      "num": 187707,
+      "num": 245034,
       "word": "马龙累计64个月排名世界第一",
       "onboard_time": 1735643239,
       "rank": 31,
@@ -1579,6 +1643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182093,
+      "num": 182093,
+      "word": "南都娱乐说虞书欣是明星的示范",
+      "onboard_time": 1735644743,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181759,
       "num": 181759,
       "word": "银河酷娱旗下艺人",
@@ -1601,6 +1673,14 @@
       "onboard_time": 1735632380,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178740,
+      "num": 178740,
+      "word": "联合国感谢中国缴清会费",
+      "onboard_time": 1735644560,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 178246,
@@ -1649,6 +1729,14 @@
       "onboard_time": 1735622242,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 172488,
+      "num": 343294,
+      "word": "手握女子照片烈士DNA鉴定完成",
+      "onboard_time": 1735643180,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172349,
@@ -1747,6 +1835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165458,
+      "num": 165458,
+      "word": "田曦薇姜贞羽大奉女团出道",
+      "onboard_time": 1735643121,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165325,
       "num": 165325,
       "word": "少年歌行血染天启篇定档",
@@ -1792,14 +1888,6 @@
       "word": "周深跨年5个舞台10首歌",
       "onboard_time": 1735632860,
       "rank": 48,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 161119,
-      "num": 161119,
-      "word": "江苏卫视跨年",
-      "onboard_time": 1735643841,
-      "rank": 33,
       "category": "综艺"
     },
     {
@@ -1955,20 +2043,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 150917,
-      "num": 150917,
-      "word": "田曦薇姜贞羽大奉女团出道",
-      "onboard_time": 1735643121,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 150732,
       "num": 150732,
       "word": "李一桐 粉红玛丽猫",
       "onboard_time": 1735634360,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149879,
+      "num": 149879,
+      "word": "央视跨年晚会",
+      "onboard_time": 1735644141,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 149573,
+      "num": 149573,
+      "word": "李多海上海逛街",
+      "onboard_time": 1735644021,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 148455,
@@ -1993,6 +2089,14 @@
       "onboard_time": 1735630341,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147611,
+      "num": 147611,
+      "word": "小小的我",
+      "onboard_time": 1735644800,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 147215,
@@ -2025,14 +2129,6 @@
       "onboard_time": 1735634960,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144616,
-      "num": 144616,
-      "word": "央视跨年晚会节目单",
-      "onboard_time": 1735643721,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 143708,
@@ -2091,6 +2187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142668,
+      "num": 142668,
+      "word": "李昀锐带着跨年舞台和九重紫来浙江卫视",
+      "onboard_time": 1735644862,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141651,
       "num": 141651,
       "word": "小小的我总票房破3亿",
@@ -2121,14 +2225,6 @@
       "onboard_time": 1735605500,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 137568,
-      "num": 137568,
-      "word": "浙江卫视跨年晚会",
-      "onboard_time": 1735643841,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 136913,
@@ -2169,6 +2265,14 @@
       "onboard_time": 1735623141,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131358,
+      "num": 463474,
+      "word": "祝大家所愿皆所成",
+      "onboard_time": 1735644560,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131261,
@@ -2395,14 +2499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104499,
-      "num": 338184,
-      "word": "手握女子照片烈士DNA鉴定完成",
-      "onboard_time": 1735643180,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 103793,
       "num": 103793,
       "word": "北京存量房公积金贷款利率将下调",
@@ -2425,6 +2521,14 @@
       "onboard_time": 1735575856,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 97488,
+      "num": 152215,
+      "word": "这可能是最有代入感的2024年度回顾",
+      "onboard_time": 1735638740,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97328,
@@ -2571,6 +2675,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 72853,
+      "num": 253678,
+      "word": "有俄罗斯商品馆货架标签已注明产地",
+      "onboard_time": 1735643360,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70781,
       "num": 254423,
       "word": "孙颖莎2025第1周继续霸榜世一",
@@ -2715,6 +2827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56224,
+      "num": 235123,
+      "word": "钎城 我们2025年见",
+      "onboard_time": 1735644080,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 55600,
       "num": 109832,
       "word": "记者暗访闪婚陷阱2分钟相亲成功",
@@ -2801,14 +2921,6 @@
       "onboard_time": 1735629860,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 49555,
-      "num": 213856,
-      "word": "有俄罗斯商品馆货架标签已注明产地",
-      "onboard_time": 1735643360,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 47566,
@@ -2996,7 +3108,7 @@
     },
     {
       "raw_hot": 35626,
-      "num": 149206,
+      "num": 194711,
       "word": "理想汽车年交付50万辆",
       "onboard_time": 1735643121,
       "rank": 38,
@@ -3049,6 +3161,14 @@
       "onboard_time": 1735618762,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 29719,
+      "num": 341683,
+      "word": "先人一步到底有多快乐",
+      "onboard_time": 1735641262,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29515,
@@ -3187,14 +3307,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 24984,
-      "num": 276661,
-      "word": "先人一步到底有多快乐",
-      "onboard_time": 1735641262,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 24916,
       "num": 266061,
       "word": "今年来近200家中小银行注销",
@@ -3209,6 +3321,14 @@
       "onboard_time": 1735622661,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 24359,
+      "num": 498090,
+      "word": "新年贺词完整视频",
+      "onboard_time": 1735644622,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23801,
@@ -3233,14 +3353,6 @@
       "onboard_time": 1735637121,
       "rank": 28,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 23358,
-      "num": 23358,
-      "word": "东方卫视跨年",
-      "onboard_time": 1735583892,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 22629,

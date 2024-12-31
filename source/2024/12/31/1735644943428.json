@@ -1,0 +1,410 @@
+{
+  "runTime": 1735644943428,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7278820,
+        "num": 8528820,
+        "word": "2025年新年贺词",
+        "onboard_time": 1735642642,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1556641,
+        "num": 1556641,
+        "word": "湖南卫视跨年晚会",
+        "onboard_time": 1735644021,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43541,
+        "num": 1099365,
+        "word": "2024年终大盘点",
+        "onboard_time": 1735617199,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1095627,
+        "num": 1095627,
+        "word": "湖南卫视跨年节目单",
+        "onboard_time": 1735624578,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 562171,
+        "num": 562171,
+        "word": "跨年文案",
+        "onboard_time": 1735636101,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 536230,
+        "num": 536230,
+        "word": "樊振东vs王楚钦",
+        "onboard_time": 1735641680,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 904656,
+        "num": 532904,
+        "word": "江苏卫视跨年",
+        "onboard_time": 1735643841,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 543627,
+        "num": 515479,
+        "word": "浙江卫视跨年晚会",
+        "onboard_time": 1735643841,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24359,
+        "num": 498090,
+        "word": "新年贺词完整视频",
+        "onboard_time": 1735644622,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131358,
+        "num": 463474,
+        "word": "祝大家所愿皆所成",
+        "onboard_time": 1735644560,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 723256,
+        "num": 460431,
+        "word": "乒协称同意三人退出世界排名",
+        "onboard_time": 1735640780,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 541654,
+        "num": 427171,
+        "word": "常州一党委书记被曝群内发不雅内容",
+        "onboard_time": 1735639700,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 423825,
+        "num": 423825,
+        "word": "刘国梁说樊振东陈梦可用外卡参赛",
+        "onboard_time": 1735641201,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355816,
+        "num": 355816,
+        "word": "央视跨年晚会节目单",
+        "onboard_time": 1735643721,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172488,
+        "num": 343294,
+        "word": "手握女子照片烈士DNA鉴定完成",
+        "onboard_time": 1735643180,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29719,
+        "num": 341683,
+        "word": "先人一步到底有多快乐",
+        "onboard_time": 1735641262,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341644,
+        "num": 341644,
+        "word": "有银行高管补发近270万元工资",
+        "onboard_time": 1735640662,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 315110,
+        "num": 315110,
+        "word": "东方卫视跨年",
+        "onboard_time": 1735644200,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254060,
+        "num": 254060,
+        "word": "博主发布白敬亭占春山言论被判不实",
+        "onboard_time": 1735635143,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72853,
+        "num": 253678,
+        "word": "有俄罗斯商品馆货架标签已注明产地",
+        "onboard_time": 1735643360,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2805560,
+        "num": 253241,
+        "word": "赵露思 救救我",
+        "onboard_time": 1735633520,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1195456,
+        "num": 252571,
+        "word": "赵露思好友曝她曾被公司殴打",
+        "onboard_time": 1735617620,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 613186,
+        "num": 252305,
+        "word": "偶遇许嵩冯禧挽手逛街",
+        "onboard_time": 1735637301,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251859,
+        "num": 251859,
+        "word": "虞书欣湖南跨年晚会造型",
+        "onboard_time": 1735638680,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114029,
+        "num": 245034,
+        "word": "马龙累计64个月排名世界第一",
+        "onboard_time": 1735643239,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242969,
+        "num": 242969,
+        "word": "红白歌会",
+        "onboard_time": 1735643480,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241192,
+        "num": 241192,
+        "word": "刘国梁称支持运动员捍卫权利",
+        "onboard_time": 1735640240,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239632,
+        "num": 239632,
+        "word": "李昀锐跨年晚会造型出图",
+        "onboard_time": 1735640481,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239535,
+        "num": 239535,
+        "word": "跨年晚会彩排",
+        "onboard_time": 1735636400,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56224,
+        "num": 235123,
+        "word": "钎城 我们2025年见",
+        "onboard_time": 1735644080,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 231528,
+        "num": 231528,
+        "word": "2024年的你也辛苦了",
+        "onboard_time": 1735641262,
+        "rank": 30,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 199823,
+        "num": 229311,
+        "word": "小孩哥捡110元被赠120元礼物",
+        "onboard_time": 1735637062,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227603,
+        "num": 227603,
+        "word": "九重紫浙江卫视即将播出",
+        "onboard_time": 1735643121,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218530,
+        "num": 218530,
+        "word": "中国乒协公告",
+        "onboard_time": 1735635861,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205352,
+        "num": 205352,
+        "word": "北京卫视跨年",
+        "onboard_time": 1735644260,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198311,
+        "num": 198311,
+        "word": "上海地产vs山东魏桥",
+        "onboard_time": 1735644321,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197019,
+        "num": 197019,
+        "word": "2025跨年节目单",
+        "onboard_time": 1735613058,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23867,
+        "num": 194711,
+        "word": "理想汽车年交付50万辆",
+        "onboard_time": 1735643121,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 194194,
+        "num": 194194,
+        "word": "鞠婧祎金色臂环",
+        "onboard_time": 1735644382,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182093,
+        "num": 182093,
+        "word": "南都娱乐说虞书欣是明星的示范",
+        "onboard_time": 1735644743,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178740,
+        "num": 178740,
+        "word": "联合国感谢中国缴清会费",
+        "onboard_time": 1735644560,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 166461,
+        "num": 166461,
+        "word": "独子贷款买房后去世母亲要求退还首付",
+        "onboard_time": 1735636821,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165458,
+        "num": 165458,
+        "word": "田曦薇姜贞羽大奉女团出道",
+        "onboard_time": 1735643121,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155435,
+        "num": 155435,
+        "word": "WTT世界排名已删除樊振东",
+        "onboard_time": 1735640481,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97488,
+        "num": 152215,
+        "word": "这可能是最有代入感的2024年度回顾",
+        "onboard_time": 1735638740,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149879,
+        "num": 149879,
+        "word": "央视跨年晚会",
+        "onboard_time": 1735644141,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149573,
+        "num": 149573,
+        "word": "李多海上海逛街",
+        "onboard_time": 1735644021,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147611,
+        "num": 147611,
+        "word": "小小的我",
+        "onboard_time": 1735644800,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145556,
+        "num": 145556,
+        "word": "丁禹兮贵族王子",
+        "onboard_time": 1735643480,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142668,
+        "num": 142668,
+        "word": "李昀锐带着跨年舞台和九重紫来浙江卫视",
+        "onboard_time": 1735644862,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025新年贺词#"
+    }
+  }
+}
