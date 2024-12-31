@@ -1,6 +1,6 @@
 {
   "startTime": 1735576065390,
-  "endTime": 1735649795535,
+  "endTime": 1735651559831,
   "band_list": [
     {
       "raw_hot": 10530418,
@@ -35,6 +35,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 5287714,
+      "num": 1306060,
+      "word": "陈哲远假唱忘记拿麦",
+      "onboard_time": 1735649307,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 4001064,
       "num": 4001064,
       "word": "王俊凯太帅了",
@@ -43,11 +51,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3647163,
+      "num": 3647163,
+      "word": "虞书欣 甜辣风",
+      "onboard_time": 1735649907,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3097846,
       "num": 3097846,
       "word": "湖南卫视跨年晚会",
       "onboard_time": 1735644021,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2382280,
+      "num": 2181534,
+      "word": "中文版APT 难听",
+      "onboard_time": 1735648826,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2177938,
+      "num": 2177938,
+      "word": "央视跨年 大气",
+      "onboard_time": 1735649488,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -115,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1774348,
+      "num": 1592554,
+      "word": "张艺兴忘词",
+      "onboard_time": 1735649488,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1773996,
       "num": 1773996,
       "word": "张继科说国家队有人盲目自信",
@@ -129,6 +169,22 @@
       "onboard_time": 1735605319,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1750264,
+      "num": 1272426,
+      "word": "王俊凯舞台好像孔雀开屏",
+      "onboard_time": 1735647507,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1690670,
+      "num": 1690670,
+      "word": "王楚钦3比1胜樊振东",
+      "onboard_time": 1735648708,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 1631703,
@@ -211,22 +267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1103808,
-      "num": 1103808,
-      "word": "中文版APT 难听",
-      "onboard_time": 1735648826,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1099029,
-      "num": 1099029,
-      "word": "陈哲远假唱忘记拿麦",
-      "onboard_time": 1735649307,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1095627,
       "num": 1095627,
       "word": "湖南卫视跨年节目单",
@@ -248,14 +288,6 @@
       "word": "中国乒协公告",
       "onboard_time": 1735635861,
       "rank": 11,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1068021,
-      "num": 1099715,
-      "word": "王楚钦3比1胜樊振东",
-      "onboard_time": 1735648708,
-      "rank": 13,
       "category": "体育"
     },
     {
@@ -371,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 717001,
+      "num": 717001,
+      "word": "何炅汪涵都感冒了吗",
+      "onboard_time": 1735649007,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 674156,
       "num": 674156,
       "word": "王俊凯跨年舞台花了很多精力",
@@ -443,14 +483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 565213,
-      "num": 565213,
-      "word": "何炅汪涵都感冒了吗",
-      "onboard_time": 1735649007,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 557034,
       "num": 470195,
       "word": "古巨基4岁儿子近照",
@@ -481,6 +513,22 @@
       "onboard_time": 1735625838,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 536261,
+      "num": 536261,
+      "word": "江苏卫视音响怎么回事",
+      "onboard_time": 1735650207,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 536052,
+      "num": 536052,
+      "word": "跨年晚会",
+      "onboard_time": 1735645942,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 533382,
@@ -571,14 +619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 469325,
-      "num": 469325,
-      "word": "跨年晚会",
-      "onboard_time": 1735645942,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 467006,
       "num": 513921,
       "word": "博主发布白敬亭占春山言论被判不实",
@@ -609,14 +649,6 @@
       "onboard_time": 1735636523,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 449376,
-      "num": 449376,
-      "word": "央视跨年 大气",
-      "onboard_time": 1735649488,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 449122,
@@ -723,14 +755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 409489,
-      "num": 409489,
-      "word": "张艺兴忘词",
-      "onboard_time": 1735649488,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 408345,
       "num": 347876,
       "word": "曾黎 平凡却又相信美好",
@@ -761,6 +785,14 @@
       "onboard_time": 1735635381,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 396226,
+      "num": 396226,
+      "word": "张加帅AI",
+      "onboard_time": 1735649488,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 391881,
@@ -801,6 +833,14 @@
       "onboard_time": 1735617860,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 373146,
+      "num": 373146,
+      "word": "欧阳娣娣 一个月瘦20斤",
+      "onboard_time": 1735650867,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 370952,
@@ -899,6 +939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 340521,
+      "num": 340521,
+      "word": "李晨郑恺没卡进节奏",
+      "onboard_time": 1735650629,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 337282,
       "num": 337282,
       "word": "金秀贤让C位",
@@ -945,6 +993,14 @@
       "onboard_time": 1735635981,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 324228,
+      "num": 324228,
+      "word": "周深我on fire了",
+      "onboard_time": 1735650088,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 321010,
@@ -1003,14 +1059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 308521,
-      "num": 308521,
-      "word": "张加帅AI",
-      "onboard_time": 1735649488,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 306719,
       "num": 378954,
       "word": "尹锡悦逮捕令有效期7天",
@@ -1056,6 +1104,14 @@
       "word": "李昀锐跨年晚会造型出图",
       "onboard_time": 1735640481,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 286561,
+      "num": 286561,
+      "word": "吴建豪 死侍",
+      "onboard_time": 1735650867,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -1193,6 +1249,14 @@
       "onboard_time": 1735630880,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 257712,
+      "num": 536060,
+      "word": "王楚钦进攻状态",
+      "onboard_time": 1735650268,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 257264,
@@ -1571,12 +1635,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203606,
+      "num": 769837,
+      "word": "周恺vs梁靖崑",
+      "onboard_time": 1735648947,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203036,
       "num": 203036,
       "word": "古装悬疑扎堆来了",
       "onboard_time": 1735630280,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201488,
+      "num": 201488,
+      "word": "央视跨年在泰安 国泰民安",
+      "onboard_time": 1735651528,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 201112,
+      "num": 2134480,
+      "word": "新年贺词这些话暖人心",
+      "onboard_time": 1735649488,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 200216,
@@ -2059,14 +2147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 167193,
-      "num": 769837,
-      "word": "周恺vs梁靖崑",
-      "onboard_time": 1735648947,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 166644,
       "num": 166644,
       "word": "郭敬明说没想过什么古偶三部曲",
@@ -2160,6 +2240,14 @@
       "word": "WTT世界排名已删除樊振东",
       "onboard_time": 1735640481,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 158630,
+      "num": 752883,
+      "word": "山东魏桥3比0上海地产",
+      "onboard_time": 1735650749,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -2467,6 +2555,14 @@
       "category": "综艺,演出"
     },
     {
+      "raw_hot": 138792,
+      "num": 2183698,
+      "word": "总书记的这些话暖心鼓劲",
+      "onboard_time": 1735650327,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 138125,
       "num": 138125,
       "word": "英国专家谈韩客机失事真凶",
@@ -2627,6 +2723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120774,
+      "num": 1361447,
+      "word": "我们从来都是在风雨洗礼中成长",
+      "onboard_time": 1735650388,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 120104,
       "num": 115127,
       "word": "汪苏泷演唱会特邀主持人何炅",
@@ -2657,14 +2761,6 @@
       "onboard_time": 1735628118,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 117143,
-      "num": 2134480,
-      "word": "新年贺词这些话暖人心",
-      "onboard_time": 1735649488,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 116702,
@@ -2760,6 +2856,14 @@
       "word": "马龙祝你不惧时间不怕向前",
       "onboard_time": 1735601536,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 104406,
+      "num": 666456,
+      "word": "莎头2024赛事总结",
+      "onboard_time": 1735647986,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -2859,14 +2963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 87818,
-      "num": 300323,
-      "word": "莎头2024赛事总结",
-      "onboard_time": 1735647986,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 87109,
       "num": 87109,
       "word": "曼联0比2纽卡斯尔联",
@@ -2915,12 +3011,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 79126,
+      "num": 757109,
+      "word": "解说称赞王楚钦发球",
+      "onboard_time": 1735650749,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78509,
       "num": 78509,
       "word": "王鹤棣半裸戏",
       "onboard_time": 1735558640,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 77446,
+      "num": 567217,
+      "word": "1斤的狗头金到底被谁拿走了",
+      "onboard_time": 1735648767,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77228,
@@ -3027,11 +3139,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 66428,
-      "num": 567217,
-      "word": "1斤的狗头金到底被谁拿走了",
-      "onboard_time": 1735648767,
-      "rank": 46,
+      "raw_hot": 66196,
+      "num": 741968,
+      "word": "运输成本下降致车厘子价格暴跌",
+      "onboard_time": 1735650567,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -3291,6 +3403,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 41947,
+      "num": 824947,
+      "word": "跨年夜雅迪亮了",
+      "onboard_time": 1735647204,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 41838,
       "num": 258168,
       "word": "乒超总决赛男团今日赛程",
@@ -3473,14 +3593,6 @@
       "onboard_time": 1735618641,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28605,
-      "num": 824947,
-      "word": "跨年夜雅迪亮了",
-      "onboard_time": 1735647204,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 28230,

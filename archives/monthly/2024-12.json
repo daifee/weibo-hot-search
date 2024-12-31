@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1735649795535,
+  "endTime": 1735651559831,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -307,6 +307,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 5287714,
+      "num": 1306060,
+      "word": "陈哲远假唱忘记拿麦",
+      "onboard_time": 1735649307,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 4687951,
       "num": 4687951,
       "word": "国考",
@@ -456,6 +464,14 @@
       "word": "尖叫之夜内场",
       "onboard_time": 1733570240,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3647163,
+      "num": 3647163,
+      "word": "虞书欣 甜辣风",
+      "onboard_time": 1735649907,
+      "rank": 0,
       "category": "综艺"
     },
     {
@@ -955,6 +971,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 2382280,
+      "num": 2181534,
+      "word": "中文版APT 难听",
+      "onboard_time": 1735648826,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2380812,
       "num": 885589,
       "word": "韩娱地震",
@@ -1169,6 +1193,14 @@
       "onboard_time": 1733239045,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2177938,
+      "num": 2177938,
+      "word": "央视跨年 大气",
+      "onboard_time": 1735649488,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 2162897,
@@ -1739,6 +1771,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1774348,
+      "num": 1592554,
+      "word": "张艺兴忘词",
+      "onboard_time": 1735649488,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1773996,
       "num": 1773996,
       "word": "张继科说国家队有人盲目自信",
@@ -1825,6 +1865,14 @@
       "onboard_time": 1735605319,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1750264,
+      "num": 1272426,
+      "word": "王俊凯舞台好像孔雀开屏",
+      "onboard_time": 1735647507,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1746700,
@@ -1945,6 +1993,14 @@
       "onboard_time": 1735532001,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1690670,
+      "num": 1690670,
+      "word": "王楚钦3比1胜樊振东",
+      "onboard_time": 1735648708,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 1684312,
@@ -5099,14 +5155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1103808,
-      "num": 1103808,
-      "word": "中文版APT 难听",
-      "onboard_time": 1735648826,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1103474,
       "num": 1103474,
       "word": "琼瑶 当雪花飘落",
@@ -5145,14 +5193,6 @@
       "onboard_time": 1734499279,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1099029,
-      "num": 1099029,
-      "word": "陈哲远假唱忘记拿麦",
-      "onboard_time": 1735649307,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 1097235,
@@ -5537,14 +5577,6 @@
       "onboard_time": 1735557019,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1068021,
-      "num": 1099715,
-      "word": "王楚钦3比1胜樊振东",
-      "onboard_time": 1735648708,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 1066114,
@@ -10459,6 +10491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 717001,
+      "num": 717001,
+      "word": "何炅汪涵都感冒了吗",
+      "onboard_time": 1735649007,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 716873,
       "num": 716873,
       "word": "宝石老舅被拘前和粉丝合照",
@@ -14587,14 +14627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 565213,
-      "num": 565213,
-      "word": "何炅汪涵都感冒了吗",
-      "onboard_time": 1735649007,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 565194,
       "num": 565194,
       "word": "金高银来杭州了",
@@ -15699,12 +15731,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 536261,
+      "num": 536261,
+      "word": "江苏卫视音响怎么回事",
+      "onboard_time": 1735650207,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 536086,
       "num": 421278,
       "word": "周密式聊天",
       "onboard_time": 1733219300,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 536052,
+      "num": 536052,
+      "word": "跨年晚会",
+      "onboard_time": 1735645942,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 535592,
@@ -18355,14 +18403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 469325,
-      "num": 469325,
-      "word": "跨年晚会",
-      "onboard_time": 1735645942,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 468979,
       "num": 468979,
       "word": "Rose前男友是谁",
@@ -19417,14 +19457,6 @@
       "onboard_time": 1734868939,
       "rank": 32,
       "category": "教育"
-    },
-    {
-      "raw_hot": 449376,
-      "num": 449376,
-      "word": "央视跨年 大气",
-      "onboard_time": 1735649488,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 449341,
@@ -21563,14 +21595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 409489,
-      "num": 409489,
-      "word": "张艺兴忘词",
-      "onboard_time": 1735649488,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 409446,
       "num": 288124,
       "word": "深圳住宅爆炸坠楼人员已被120拉走",
@@ -22345,6 +22369,14 @@
       "onboard_time": 1735038558,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 396226,
+      "num": 396226,
+      "word": "张加帅AI",
+      "onboard_time": 1735649488,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 396093,
@@ -23681,6 +23713,14 @@
       "onboard_time": 1733317583,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 373146,
+      "num": 373146,
+      "word": "欧阳娣娣 一个月瘦20斤",
+      "onboard_time": 1735650867,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 373086,
@@ -25811,6 +25851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 340521,
+      "num": 340521,
+      "word": "李晨郑恺没卡进节奏",
+      "onboard_time": 1735650629,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 340211,
       "num": 340211,
       "word": "麦琳退出李行亮新歌出品方",
@@ -26993,6 +27041,14 @@
       "onboard_time": 1733104278,
       "rank": 44,
       "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 324228,
+      "num": 324228,
+      "word": "周深我on fire了",
+      "onboard_time": 1735650088,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 324122,
@@ -28233,14 +28289,6 @@
       "onboard_time": 1735458799,
       "rank": 26,
       "category": "网红"
-    },
-    {
-      "raw_hot": 308521,
-      "num": 308521,
-      "word": "张加帅AI",
-      "onboard_time": 1735649488,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 308293,
@@ -30057,6 +30105,14 @@
       "onboard_time": 1733112079,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 286561,
+      "num": 286561,
+      "word": "吴建豪 死侍",
+      "onboard_time": 1735650867,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 286560,
@@ -32921,6 +32977,14 @@
       "onboard_time": 1733885239,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 257712,
+      "num": 536060,
+      "word": "王楚钦进攻状态",
+      "onboard_time": 1735650268,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 257703,
@@ -42307,6 +42371,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 203606,
+      "num": 769837,
+      "word": "周恺vs梁靖崑",
+      "onboard_time": 1735648947,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203576,
       "num": 203576,
       "word": "唐嫣 星光大赏",
@@ -43003,6 +43075,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 201488,
+      "num": 201488,
+      "word": "央视跨年在泰安 国泰民安",
+      "onboard_time": 1735651528,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201476,
       "num": 173893,
       "word": "宋墨遭遇婆媳双打",
@@ -43153,6 +43233,14 @@
       "onboard_time": 1734872058,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201112,
+      "num": 2134480,
+      "word": "新年贺词这些话暖人心",
+      "onboard_time": 1735649488,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 201041,
@@ -55211,14 +55299,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 167193,
-      "num": 769837,
-      "word": "周恺vs梁靖崑",
-      "onboard_time": 1735648947,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 167166,
       "num": 167166,
       "word": "训实习生发现自己是公司唯一的外人",
@@ -58481,6 +58561,14 @@
       "onboard_time": 1732974380,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 158630,
+      "num": 752883,
+      "word": "山东魏桥3比0上海地产",
+      "onboard_time": 1735650749,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 158605,
@@ -66483,6 +66571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138792,
+      "num": 2183698,
+      "word": "总书记的这些话暖心鼓劲",
+      "onboard_time": 1735650327,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 138751,
       "num": 263223,
       "word": "登陆少年成团百日直播",
@@ -73083,6 +73179,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 120774,
+      "num": 1361447,
+      "word": "我们从来都是在风雨洗礼中成长",
+      "onboard_time": 1735650388,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 120767,
       "num": 120767,
       "word": "上海月租3000房子的楼梯",
@@ -74329,14 +74433,6 @@
       "onboard_time": 1733412259,
       "rank": 49,
       "category": "军事"
-    },
-    {
-      "raw_hot": 117143,
-      "num": 2134480,
-      "word": "新年贺词这些话暖人心",
-      "onboard_time": 1735649488,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 117140,
@@ -78456,6 +78552,14 @@
       "word": "吴柳芳曾说想自己沉淀",
       "onboard_time": 1733127858,
       "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 104406,
+      "num": 666456,
+      "word": "莎头2024赛事总结",
+      "onboard_time": 1735647986,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -82627,14 +82731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87818,
-      "num": 300323,
-      "word": "莎头2024赛事总结",
-      "onboard_time": 1735647986,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 87751,
       "num": 87751,
       "word": "成都为杜甫修了1000年的家",
@@ -84731,6 +84827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79126,
+      "num": 757109,
+      "word": "解说称赞王楚钦发球",
+      "onboard_time": 1735650749,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79070,
       "num": 164410,
       "word": "王者姬小满小橘子皮肤攻略",
@@ -85137,6 +85241,14 @@
       "onboard_time": 1733499678,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77446,
+      "num": 567217,
+      "word": "1斤的狗头金到底被谁拿走了",
+      "onboard_time": 1735648767,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77415,
@@ -88091,14 +88203,6 @@
       "category": "健康医疗,民生新闻"
     },
     {
-      "raw_hot": 66428,
-      "num": 567217,
-      "word": "1斤的狗头金到底被谁拿走了",
-      "onboard_time": 1735648767,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 66422,
       "num": 339241,
       "word": "2024年十大国际事件",
@@ -88152,6 +88256,14 @@
       "word": "25年员工学员工手册时玩手机被辞",
       "onboard_time": 1733899519,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66196,
+      "num": 741968,
+      "word": "运输成本下降致车厘子价格暴跌",
+      "onboard_time": 1735650567,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -96443,6 +96555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41947,
+      "num": 824947,
+      "word": "跨年夜雅迪亮了",
+      "onboard_time": 1735647204,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 41909,
       "num": 41909,
       "word": "2024最后一个月",
@@ -102921,14 +103041,6 @@
       "onboard_time": 1735210938,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 28605,
-      "num": 824947,
-      "word": "跨年夜雅迪亮了",
-      "onboard_time": 1735647204,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 28567,
