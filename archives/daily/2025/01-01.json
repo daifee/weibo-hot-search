@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735672642977,
+  "endTime": 1735673739470,
   "band_list": [
     {
       "raw_hot": 10681189,
@@ -563,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202751,
+      "num": 202751,
+      "word": "赵露思被打时间线",
+      "onboard_time": 1735671434,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197532,
       "num": 500403,
       "word": "孙颖莎兔牙小宝",
@@ -577,6 +585,14 @@
       "onboard_time": 1735665801,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192579,
+      "num": 192579,
+      "word": "虞书欣丁禹兮林一手牵手蹦蹦跳跳",
+      "onboard_time": 1735673714,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 178067,
@@ -641,14 +657,6 @@
       "onboard_time": 1735668977,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 166448,
-      "num": 166448,
-      "word": "赵露思被打时间线",
-      "onboard_time": 1735671434,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 165806,
@@ -803,6 +811,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71830,
+      "num": 71830,
+      "word": "元旦快乐",
+      "onboard_time": 1735672753,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 70408,
+      "num": 70408,
+      "word": "GALA 难听",
+      "onboard_time": 1735673533,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 65839,
       "num": 363046,
       "word": "上海大屏为樊振东新的一年打call",
@@ -812,7 +836,7 @@
     },
     {
       "raw_hot": 47108,
-      "num": 209269,
+      "num": 221496,
       "word": "深圳的跨年已经nextlevel",
       "onboard_time": 1735665201,
       "rank": 24,
@@ -859,12 +883,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 12203,
+      "raw_hot": 17185,
+      "num": 103904,
+      "word": "2025祝你多喜乐长安宁",
+      "onboard_time": 1735672815,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15655,
       "num": 209703,
       "word": "樊振东和全场观众挥手",
       "onboard_time": 1735672514,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 10896,
+      "num": 112615,
+      "word": "黎深 大口吃小醉梨",
+      "onboard_time": 1735673714,
+      "rank": 29,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
