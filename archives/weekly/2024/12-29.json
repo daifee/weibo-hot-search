@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735669745891,
+  "endTime": 1735670530029,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -355,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1962342,
+      "num": 792465,
+      "word": "棣欣引力",
+      "onboard_time": 1735667060,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1941328,
       "num": 1158313,
       "word": "韩坠机事故遗体目前仍放在地上",
@@ -401,14 +409,6 @@
       "onboard_time": 1735633043,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1796306,
-      "num": 792465,
-      "word": "棣欣引力",
-      "onboard_time": 1735667060,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1793935,
@@ -2643,6 +2643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 420439,
+      "num": 420439,
+      "word": "天经棣义",
+      "onboard_time": 1735668918,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 419889,
       "num": 419889,
       "word": "刘亦菲十年前给女生的祝福太超前",
@@ -3537,14 +3545,6 @@
       "onboard_time": 1735439058,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 312288,
-      "num": 312288,
-      "word": "天经棣义",
-      "onboard_time": 1735668918,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 311552,
@@ -5371,6 +5371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204373,
+      "num": 204373,
+      "word": "谢娜",
+      "onboard_time": 1735668618,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204270,
       "num": 204270,
       "word": "李昀锐宋墨告别视频",
@@ -5569,14 +5577,6 @@
       "onboard_time": 1735456437,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 199068,
-      "num": 199068,
-      "word": "谢娜",
-      "onboard_time": 1735668618,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 198893,
@@ -7939,6 +7939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144464,
+      "num": 144464,
+      "word": "王者荣耀",
+      "onboard_time": 1735668798,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 144339,
       "num": 144339,
       "word": "东北人家庭聚餐共用一个菜谱",
@@ -7953,14 +7961,6 @@
       "onboard_time": 1735456760,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143776,
-      "num": 143776,
-      "word": "王者荣耀",
-      "onboard_time": 1735668798,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 143615,
@@ -8065,6 +8065,14 @@
       "onboard_time": 1735555820,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 141798,
+      "num": 141798,
+      "word": "张艺兴 烟花好看吗",
+      "onboard_time": 1735670416,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 141651,
@@ -8497,6 +8505,14 @@
       "onboard_time": 1735522159,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128335,
+      "num": 128335,
+      "word": "原神",
+      "onboard_time": 1735669037,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 128126,
@@ -9051,6 +9067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103292,
+      "num": 591845,
+      "word": "2025好运来",
+      "onboard_time": 1735662807,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103282,
       "num": 177913,
       "word": "熊猫渝爱初步诊断感染性脱毛",
@@ -9187,14 +9211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 97815,
-      "num": 591845,
-      "word": "2025好运来",
-      "onboard_time": 1735662807,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 97522,
       "num": 177749,
       "word": "浙江人民开始煮糖水",
@@ -9304,6 +9320,14 @@
       "word": "献给2024年的告别短片",
       "onboard_time": 1735610598,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91695,
+      "num": 227453,
+      "word": "今天发条微博迎接2025",
+      "onboard_time": 1735663765,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -10865,6 +10889,14 @@
       "onboard_time": 1735547840,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32425,
+      "num": 344529,
+      "word": "网易第五人格",
+      "onboard_time": 1735669936,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 32339,

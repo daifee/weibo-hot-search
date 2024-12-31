@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735669745891,
+  "endTime": 1735670530029,
   "band_list": [
     {
       "raw_hot": 10681189,
@@ -43,7 +43,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1796306,
+      "raw_hot": 1962342,
       "num": 792465,
       "word": "棣欣引力",
       "onboard_time": 1735667060,
@@ -107,7 +107,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1180484,
+      "raw_hot": 1237324,
       "num": 628755,
       "word": "赵露思好友曝她曾被公司殴打",
       "onboard_time": 1735617620,
@@ -315,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 420439,
+      "num": 420439,
+      "word": "天经棣义",
+      "onboard_time": 1735668918,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 417278,
       "num": 417278,
       "word": "周深 我在外面混vs我回家",
@@ -392,14 +400,6 @@
       "word": "王鹤棣转场太可以了",
       "onboard_time": 1735659146,
       "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 312288,
-      "num": 312288,
-      "word": "天经棣义",
-      "onboard_time": 1735668918,
-      "rank": 25,
       "category": "综艺"
     },
     {
@@ -555,8 +555,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199068,
-      "num": 199068,
+      "raw_hot": 204373,
+      "num": 204373,
       "word": "谢娜",
       "onboard_time": 1735668618,
       "rank": 36,
@@ -691,11 +691,27 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143776,
-      "num": 143776,
+      "raw_hot": 144464,
+      "num": 144464,
       "word": "王者荣耀",
       "onboard_time": 1735668798,
       "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 141798,
+      "num": 141798,
+      "word": "张艺兴 烟花好看吗",
+      "onboard_time": 1735670416,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 128335,
+      "num": 128335,
+      "word": "原神",
+      "onboard_time": 1735669037,
+      "rank": 48,
       "category": "游戏"
     },
     {
@@ -723,11 +739,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 97815,
+      "raw_hot": 103292,
       "num": 591845,
       "word": "2025好运来",
       "onboard_time": 1735662807,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91695,
+      "num": 227453,
+      "word": "今天发条微博迎接2025",
+      "onboard_time": 1735663765,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -769,6 +793,14 @@
       "onboard_time": 1735668437,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 32425,
+      "num": 344529,
+      "word": "网易第五人格",
+      "onboard_time": 1735669936,
+      "rank": 24,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
