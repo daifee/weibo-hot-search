@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/12/31 12:26:46
+本榜单时间：2024/01/01 00:21:05 ~ 2024/12/31 12:40:21
 </p>
 </blockquote>
 <p>
@@ -1785,6 +1785,12 @@ T1夺冠（热度：10436342）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%A5%BD%E5%8F%8B%E6%9B%9D%E5%A5%B9%E6%9B%BE%E8%A2%AB%E5%85%AC%E5%8F%B8%E6%AE%B4%E6%89%93%23" target="weibo">
+赵露思好友曝她曾被公司殴打（热度：8389802）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8E%8E%E5%A4%B4%E7%BB%84%E5%90%88%E8%BF%9B%E5%8D%8A%E5%86%B3%E8%B5%9B%23" target="weibo">
 莎头组合进半决赛（热度：8387106）
 </a>
@@ -1805,12 +1811,6 @@ T1夺冠（热度：10436342）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%20who%E6%92%BA%E6%8E%87you%23" target="weibo">
 那英 who撺掇you（热度：8325244）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%A8%87%E6%80%BC%E4%BA%8E%E6%AD%A3%23" target="weibo">
-徐娇怼于正（热度：8309889）
 </a>
 </li>
 

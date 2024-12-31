@@ -1,10 +1,10 @@
 {
   "startTime": 1735576065390,
-  "endTime": 1735619206388,
+  "endTime": 1735620021372,
   "band_list": [
     {
-      "raw_hot": 8060290,
-      "num": 8060290,
+      "raw_hot": 8389802,
+      "num": 8389802,
       "word": "赵露思好友曝她曾被公司殴打",
       "onboard_time": 1735617620,
       "rank": 0,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 782478,
+      "num": 782478,
+      "word": "张加帅",
+      "onboard_time": 1735617860,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 758003,
       "num": 667098,
       "word": "地铁公司回应地铁口被吐槽像棺材",
@@ -129,14 +137,6 @@
       "onboard_time": 1735544600,
       "rank": 3,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 591111,
-      "num": 591111,
-      "word": "张加帅",
-      "onboard_time": 1735617860,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 589795,
@@ -227,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 428138,
+      "num": 428138,
+      "word": "迪丽热巴坐车的习惯是遗传妈妈",
+      "onboard_time": 1735617739,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 423611,
       "num": 423611,
       "word": "B站跨年晚会节目单",
@@ -251,12 +259,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 401061,
-      "num": 401061,
-      "word": "迪丽热巴坐车的习惯是遗传妈妈",
-      "onboard_time": 1735617739,
-      "rank": 14,
-      "category": "剧集"
+      "raw_hot": 399647,
+      "num": 298760,
+      "word": "饿瘦和运动瘦的区别",
+      "onboard_time": 1735618641,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 391881,
@@ -281,6 +289,14 @@
       "onboard_time": 1735614499,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 373614,
+      "num": 289038,
+      "word": "年终奖才是真正的试金石",
+      "onboard_time": 1735617860,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 370952,
@@ -363,6 +379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 313501,
+      "num": 313501,
+      "word": "蒋奇明 条狗有人样了",
+      "onboard_time": 1735617620,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 306719,
       "num": 378954,
       "word": "尹锡悦逮捕令有效期7天",
@@ -395,11 +419,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 292709,
-      "num": 271084,
-      "word": "饿瘦和运动瘦的区别",
-      "onboard_time": 1735618641,
-      "rank": 21,
+      "raw_hot": 289772,
+      "num": 1081012,
+      "word": "2024最后一次",
+      "onboard_time": 1735607719,
+      "rank": 4,
       "category": "情感"
     },
     {
@@ -451,14 +475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 268651,
-      "num": 268651,
-      "word": "蒋奇明 条狗有人样了",
-      "onboard_time": 1735617620,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 268085,
       "num": 304136,
       "word": "韩国空难遇难者群像",
@@ -491,6 +507,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 256851,
+      "num": 256851,
+      "word": "父母将3个月大儿子拖朋友照顾却被偷",
+      "onboard_time": 1735616960,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 255985,
+      "num": 431459,
+      "word": "草莓价格上涨车厘子连降",
+      "onboard_time": 1735617080,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 251217,
       "num": 252757,
       "word": "刘诗诗一月进组",
@@ -505,14 +537,6 @@
       "onboard_time": 1735613058,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 241292,
-      "num": 241292,
-      "word": "年终奖才是真正的试金石",
-      "onboard_time": 1735617860,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 236728,
@@ -619,14 +643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200976,
-      "num": 427753,
-      "word": "草莓价格上涨车厘子连降",
-      "onboard_time": 1735617080,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 200095,
       "num": 200095,
       "word": "麦当劳奶昔回归",
@@ -643,20 +659,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 197939,
-      "num": 1081012,
-      "word": "2024最后一次",
-      "onboard_time": 1735607719,
-      "rank": 4,
-      "category": "情感"
+      "raw_hot": 198573,
+      "num": 198573,
+      "word": "低成本养气血的8种方法",
+      "onboard_time": 1735618580,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 196926,
-      "num": 227007,
+      "num": 256030,
       "word": "虞书欣2025壹月行程",
       "onboard_time": 1735616599,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196841,
+      "num": 196841,
+      "word": "记录2024每个人的小荣耀",
+      "onboard_time": 1735619003,
+      "rank": 35,
+      "category": "正能量"
     },
     {
       "raw_hot": 196750,
@@ -667,12 +691,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192536,
-      "num": 192536,
-      "word": "父母将3个月大儿子拖朋友照顾却被偷",
-      "onboard_time": 1735616960,
-      "rank": 34,
+      "raw_hot": 193380,
+      "num": 193380,
+      "word": "被吐槽像棺材的地铁口已进行拆除",
+      "onboard_time": 1735619243,
+      "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192883,
+      "num": 192883,
+      "word": "张艺兴张加帅合作",
+      "onboard_time": 1735619720,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 190138,
@@ -683,20 +715,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 190032,
-      "num": 190032,
-      "word": "记录2024每个人的小荣耀",
-      "onboard_time": 1735619003,
-      "rank": 35,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 188461,
       "num": 246218,
       "word": "江苏卫视跨年节目单",
       "onboard_time": 1735613118,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187458,
+      "num": 187458,
+      "word": "银河酷娱",
+      "onboard_time": 1735619901,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 183973,
+      "num": 183973,
+      "word": "刘宁任河南省委书记",
+      "onboard_time": 1735615278,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 183141,
@@ -731,8 +771,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 175344,
-      "num": 175344,
+      "raw_hot": 176398,
+      "num": 176398,
       "word": "杨迪让大家另谋财路",
       "onboard_time": 1735616540,
       "rank": 40,
@@ -747,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170053,
+      "num": 170053,
+      "word": "跨年夜打算跟谁过",
+      "onboard_time": 1735619959,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169483,
       "num": 169483,
       "word": "肖战郭靖新海报",
@@ -755,12 +803,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 169317,
-      "num": 169317,
-      "word": "刘宁任河南省委书记",
-      "onboard_time": 1735615278,
-      "rank": 45,
-      "category": "国内时政"
+      "raw_hot": 169277,
+      "num": 169277,
+      "word": "今天摸鱼 明年年年有余",
+      "onboard_time": 1735619959,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 166644,
@@ -849,6 +897,22 @@
       "onboard_time": 1735605319,
       "rank": 32,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 153916,
+      "num": 246824,
+      "word": "颜安 我的整容方案是斩首",
+      "onboard_time": 1735619782,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 153848,
+      "num": 501656,
+      "word": "薛飞vs林高远",
+      "onboard_time": 1735618702,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 153318,
@@ -1019,14 +1083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124817,
-      "num": 501656,
-      "word": "薛飞vs林高远",
-      "onboard_time": 1735618702,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 123707,
       "num": 172620,
       "word": "颠簸的生活被阿勒泰的雪景治愈",
@@ -1107,6 +1163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109850,
+      "num": 266974,
+      "word": "国际乒联尚未更新第53周排名",
+      "onboard_time": 1735617799,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109240,
       "num": 109240,
       "word": "国际乒联连续三年亏损运营",
@@ -1179,6 +1243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93961,
+      "num": 1025670,
+      "word": "2024年终大盘点",
+      "onboard_time": 1735617199,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91952,
       "num": 188550,
       "word": "献给2024年的告别短片",
@@ -1241,14 +1313,6 @@
       "onboard_time": 1735558640,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 78390,
-      "num": 1025670,
-      "word": "2024年终大盘点",
-      "onboard_time": 1735617199,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 70324,
@@ -1329,6 +1393,14 @@
       "onboard_time": 1735592112,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 58672,
+      "num": 312537,
+      "word": "白敬亭工作室公布告黑进展",
+      "onboard_time": 1735619422,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 57309,
@@ -1419,6 +1491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42571,
+      "num": 190079,
+      "word": "孟晚舟发布华为2025新年致辞",
+      "onboard_time": 1735616179,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 42466,
       "num": 237799,
       "word": "A股公司董事长被罚1.09亿元",
@@ -1459,14 +1539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35647,
-      "num": 182803,
-      "word": "孟晚舟发布华为2025新年致辞",
-      "onboard_time": 1735616179,
-      "rank": 38,
-      "category": "数码"
-    },
-    {
       "raw_hot": 33514,
       "num": 416941,
       "word": "被AI视频渲染的汽车世界震撼到",
@@ -1483,6 +1555,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 30024,
+      "num": 255608,
+      "word": "影帝张涵予代言比亚迪夏",
+      "onboard_time": 1735618762,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29515,
       "num": 400651,
       "word": "男生做康复治疗师3年帮助千余老人",
@@ -1492,10 +1572,18 @@
     },
     {
       "raw_hot": 28762,
-      "num": 228323,
+      "num": 255712,
       "word": "健康是最想要的新年礼物",
       "onboard_time": 1735618641,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28520,
+      "num": 1214425,
+      "word": "国之重器为元旦送硬核礼物",
+      "onboard_time": 1735580533,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -1563,22 +1651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25525,
-      "num": 184588,
-      "word": "影帝张涵予代言比亚迪夏",
-      "onboard_time": 1735618762,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 25502,
-      "num": 1214425,
-      "word": "国之重器为元旦送硬核礼物",
-      "onboard_time": 1735580533,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 25112,
       "num": 25112,
       "word": "成毅湖南卫视跨晚彩排图",
@@ -1609,6 +1681,14 @@
       "onboard_time": 1735583892,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 22511,
+      "num": 327981,
+      "word": "生成25个AI换脸视频只需59元",
+      "onboard_time": 1735619601,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22467,
@@ -1812,6 +1892,9 @@
     },
     {
       "word": "#总书记心系人民步履不停#"
+    },
+    {
+      "word": "#这一年总书记的惦念与牵挂#"
     }
   ]
 }
