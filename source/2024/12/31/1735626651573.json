@@ -1,0 +1,410 @@
+{
+  "runTime": 1735626651573,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5347795,
+        "num": 5347795,
+        "word": "赵露思好友曝她曾被公司殴打",
+        "onboard_time": 1735617620,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 716358,
+        "num": 716358,
+        "word": "今年车厘子价格为何断崖式下跌",
+        "onboard_time": 1735613479,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 25870,
+        "num": 439648,
+        "word": "国之重器为元旦送硬核礼物",
+        "onboard_time": 1735580533,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 928244,
+        "num": 429951,
+        "word": "湖南卫视跨年节目单",
+        "onboard_time": 1735624578,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 418858,
+        "num": 418858,
+        "word": "许昕孩子假装给孙颖莎打电话",
+        "onboard_time": 1735622781,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 366105,
+        "num": 366105,
+        "word": "A股",
+        "onboard_time": 1735614318,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 683549,
+        "num": 364590,
+        "word": "张加帅",
+        "onboard_time": 1735617860,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 427021,
+        "num": 361419,
+        "word": "张加帅身高不够未能入镜",
+        "onboard_time": 1735622481,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351506,
+        "num": 351506,
+        "word": "韩坠机事故遗体目前仍放在地上",
+        "onboard_time": 1735626621,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 32222,
+        "num": 350386,
+        "word": "尹锡悦律师称逮捕令不合法",
+        "onboard_time": 1735626559,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 390464,
+        "num": 346546,
+        "word": "Angelababy瑞丽开年刊封面",
+        "onboard_time": 1735620802,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 357369,
+        "num": 344561,
+        "word": "潘宏不反对吃狗肉",
+        "onboard_time": 1735613356,
+        "rank": 11,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 244962,
+        "num": 341167,
+        "word": "被吐槽像棺材的地铁口已进行拆除",
+        "onboard_time": 1735619243,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341118,
+        "num": 341118,
+        "word": "孟姐 你好娇啊",
+        "onboard_time": 1735625061,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 326572,
+        "num": 326572,
+        "word": "D社不公布年度情侣",
+        "onboard_time": 1735624578,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239288,
+        "num": 239288,
+        "word": "韩国空难机场跑道尽头为何有墙",
+        "onboard_time": 1735610118,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 221927,
+        "num": 221927,
+        "word": "小米SU7",
+        "onboard_time": 1735626200,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 205475,
+        "num": 205475,
+        "word": "肖战2024年中国年度演员金奖",
+        "onboard_time": 1735626141,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24736,
+        "num": 205445,
+        "word": "电影骗骗喜欢你今日上映",
+        "onboard_time": 1735622661,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 39393,
+        "num": 205399,
+        "word": "男子被拐33年2024最后一天团圆",
+        "onboard_time": 1735624939,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 220520,
+        "num": 205350,
+        "word": "就这么水灵灵谈恋爱结婚了",
+        "onboard_time": 1735624520,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178111,
+        "num": 205338,
+        "word": "加沙病人被迫只穿内裤徒步走3小时",
+        "onboard_time": 1735626020,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1895733,
+        "num": 205250,
+        "word": "赵露思老板",
+        "onboard_time": 1735621401,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291375,
+        "num": 205244,
+        "word": "张颂文",
+        "onboard_time": 1735625838,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63555,
+        "num": 205166,
+        "word": "曹赟定宣布退役",
+        "onboard_time": 1735624639,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280637,
+        "num": 205109,
+        "word": "杨紫演技就没让人失望过",
+        "onboard_time": 1735623200,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253141,
+        "num": 205065,
+        "word": "银河酷娱",
+        "onboard_time": 1735619901,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237863,
+        "num": 205039,
+        "word": "饿瘦和运动瘦的区别",
+        "onboard_time": 1735618641,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161524,
+        "num": 205015,
+        "word": "白鹿 花仙子",
+        "onboard_time": 1735621461,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16650,
+        "num": 204953,
+        "word": "央广军事年度超燃集锦",
+        "onboard_time": 1735625599,
+        "rank": 29,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 407104,
+        "num": 204918,
+        "word": "陈建州妹妹器官移植手术成功",
+        "onboard_time": 1735625542,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28595,
+        "num": 204875,
+        "word": "刘亦菲说每个女孩都是自己的榜样",
+        "onboard_time": 1735625542,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234499,
+        "num": 204827,
+        "word": "周也一番",
+        "onboard_time": 1735621583,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233274,
+        "num": 204751,
+        "word": "2025跨年节目单",
+        "onboard_time": 1735613058,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189420,
+        "num": 204702,
+        "word": "韩国法院批准尹锡悦逮捕令",
+        "onboard_time": 1735605019,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 191683,
+        "num": 204653,
+        "word": "白桃星座2025新年好运",
+        "onboard_time": 1735624520,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204651,
+        "num": 204651,
+        "word": "蒋奇明张艺凡吻戏",
+        "onboard_time": 1735625960,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202364,
+        "num": 202364,
+        "word": "倪妮说好久没遇到过很喜欢的人了",
+        "onboard_time": 1735626621,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183294,
+        "num": 183294,
+        "word": "陈学冬疑似退圈定居美国",
+        "onboard_time": 1735605319,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21438,
+        "num": 172217,
+        "word": "学生时代好像就没安心跨过年",
+        "onboard_time": 1735626141,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 129148,
+        "num": 168648,
+        "word": "马龙彩排",
+        "onboard_time": 1735626020,
+        "rank": 40,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 168345,
+        "num": 168345,
+        "word": "大奉打更人团综",
+        "onboard_time": 1735621762,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158029,
+        "num": 158029,
+        "word": "网红称去云南被当猪仔卖后致歉",
+        "onboard_time": 1735622301,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19388,
+        "num": 156517,
+        "word": "红色是记忆里春节的颜色",
+        "onboard_time": 1735625719,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155580,
+        "num": 155580,
+        "word": "医生下班后的这个折返太帅了",
+        "onboard_time": 1735621161,
+        "rank": 44,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 154048,
+        "num": 154048,
+        "word": "网红潘宏回应被请求打压狗肉馆",
+        "onboard_time": 1735621161,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152021,
+        "num": 152021,
+        "word": "J人已经开始预制年终总结了",
+        "onboard_time": 1735622360,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149493,
+        "num": 149493,
+        "word": "草莓价格上涨车厘子连降",
+        "onboard_time": 1735617080,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28750,
+        "num": 143804,
+        "word": "原神火神摇滚",
+        "onboard_time": 1735626621,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142251,
+        "num": 142251,
+        "word": "Hero久哲成为历史",
+        "onboard_time": 1735622601,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系人民步履不停#"
+    }
+  }
+}

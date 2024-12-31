@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735623519101,
+  "endTime": 1735626651573,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -683,6 +683,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 928244,
+      "num": 429951,
+      "word": "湖南卫视跨年节目单",
+      "onboard_time": 1735624578,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 923370,
       "num": 923370,
       "word": "大奉打更人 耀祖",
@@ -1052,7 +1060,7 @@
     },
     {
       "raw_hot": 643253,
-      "num": 342369,
+      "num": 346546,
       "word": "Angelababy瑞丽开年刊封面",
       "onboard_time": 1735620802,
       "rank": 11,
@@ -1691,6 +1699,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 427021,
+      "num": 361419,
+      "word": "张加帅身高不够未能入镜",
+      "onboard_time": 1735622481,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 426663,
       "num": 272503,
       "word": "遇难韩国妈妈患癌1年刚旅行归来",
@@ -1737,6 +1753,14 @@
       "onboard_time": 1735444879,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 418858,
+      "num": 418858,
+      "word": "许昕孩子假装给孙颖莎打电话",
+      "onboard_time": 1735622781,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 418031,
@@ -1809,6 +1833,14 @@
       "onboard_time": 1735524619,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 407104,
+      "num": 204918,
+      "word": "陈建州妹妹器官移植手术成功",
+      "onboard_time": 1735625542,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 404975,
@@ -2027,12 +2059,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 364911,
-      "num": 292136,
-      "word": "张加帅身高不够未能入镜",
-      "onboard_time": 1735622481,
-      "rank": 20,
-      "category": "综艺"
+      "raw_hot": 366105,
+      "num": 366105,
+      "word": "A股",
+      "onboard_time": 1735614318,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 364126,
@@ -2107,6 +2139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 351506,
+      "num": 351506,
+      "word": "韩坠机事故遗体目前仍放在地上",
+      "onboard_time": 1735626621,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 350133,
       "num": 350133,
       "word": "韩国代总统被警方立案调查",
@@ -2161,6 +2201,14 @@
       "onboard_time": 1735533863,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 341118,
+      "num": 341118,
+      "word": "孟姐 你好娇啊",
+      "onboard_time": 1735625061,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 340526,
@@ -2260,7 +2308,7 @@
     },
     {
       "raw_hot": 326953,
-      "num": 326953,
+      "num": 341167,
       "word": "被吐槽像棺材的地铁口已进行拆除",
       "onboard_time": 1735619243,
       "rank": 38,
@@ -2272,6 +2320,14 @@
       "word": "冉莹颖儿子打生长激素27天见成效",
       "onboard_time": 1735389501,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 326572,
+      "num": 326572,
+      "word": "D社不公布年度情侣",
+      "onboard_time": 1735624578,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -2361,14 +2417,6 @@
       "onboard_time": 1735571121,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 316300,
-      "num": 316300,
-      "word": "许昕孩子假装给孙颖莎打电话",
-      "onboard_time": 1735622781,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 315258,
@@ -2579,6 +2627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 291375,
+      "num": 205244,
+      "word": "张颂文",
+      "onboard_time": 1735625838,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290226,
       "num": 375422,
       "word": "白敬亭直播",
@@ -2697,6 +2753,14 @@
       "onboard_time": 1735513936,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 280637,
+      "num": 262370,
+      "word": "杨紫演技就没让人失望过",
+      "onboard_time": 1735623200,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 278873,
@@ -3387,6 +3451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 221927,
+      "num": 221927,
+      "word": "小米SU7",
+      "onboard_time": 1735626200,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 221395,
       "num": 470238,
       "word": "全红婵点赞陈梦退出世排博文",
@@ -3424,6 +3496,14 @@
       "word": "爸爸把女儿发箍做成标记防走丢",
       "onboard_time": 1735472179,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220520,
+      "num": 205350,
+      "word": "就这么水灵灵谈恋爱结婚了",
+      "onboard_time": 1735624520,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -3691,14 +3771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 208175,
-      "num": 219377,
-      "word": "A股",
-      "onboard_time": 1735614318,
-      "rank": 34,
-      "category": "财经"
-    },
-    {
       "raw_hot": 207932,
       "num": 266090,
       "word": "MBC歌谣大祭典",
@@ -3779,6 +3851,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 205475,
+      "num": 205475,
+      "word": "肖战2024年中国年度演员金奖",
+      "onboard_time": 1735626141,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205428,
       "num": 205428,
       "word": "白鹿 花仙子",
@@ -3793,6 +3873,14 @@
       "onboard_time": 1735452800,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204651,
+      "num": 204651,
+      "word": "蒋奇明张艺凡吻戏",
+      "onboard_time": 1735625960,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 204588,
@@ -3835,14 +3923,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 203434,
-      "num": 262370,
-      "word": "杨紫演技就没让人失望过",
-      "onboard_time": 1735623200,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 203257,
       "num": 203257,
       "word": "王一博我在彩排",
@@ -3873,6 +3953,14 @@
       "onboard_time": 1735474880,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 202364,
+      "num": 202364,
+      "word": "倪妮说好久没遇到过很喜欢的人了",
+      "onboard_time": 1735626621,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 202238,
@@ -4241,6 +4329,14 @@
       "onboard_time": 1735440799,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191683,
+      "num": 204653,
+      "word": "白桃星座2025新年好运",
+      "onboard_time": 1735624520,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 191570,
@@ -4713,6 +4809,14 @@
       "onboard_time": 1735575497,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178111,
+      "num": 205338,
+      "word": "加沙病人被迫只穿内裤徒步走3小时",
+      "onboard_time": 1735626020,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 177812,
@@ -6259,6 +6363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129148,
+      "num": 168648,
+      "word": "马龙彩排",
+      "onboard_time": 1735626020,
+      "rank": 40,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 129086,
       "num": 129086,
       "word": "姜尘是谁",
@@ -7467,6 +7579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63555,
+      "num": 205166,
+      "word": "曹赟定宣布退役",
+      "onboard_time": 1735624639,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63329,
       "num": 290629,
       "word": "当地回应殡葬广告打到医院急诊室",
@@ -7995,6 +8115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39393,
+      "num": 205399,
+      "word": "男子被拐33年2024最后一天团圆",
+      "onboard_time": 1735624939,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 39344,
       "num": 44013,
       "word": "檀健次不导戏真的可惜了",
@@ -8259,6 +8387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 32222,
+      "num": 350386,
+      "word": "尹锡悦律师称逮捕令不合法",
+      "onboard_time": 1735626559,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 32217,
       "num": 346982,
       "word": "开年会宠粉是认真的",
@@ -8393,6 +8529,22 @@
       "onboard_time": 1735618641,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28750,
+      "num": 143804,
+      "word": "原神火神摇滚",
+      "onboard_time": 1735626621,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 28595,
+      "num": 204875,
+      "word": "刘亦菲说每个女孩都是自己的榜样",
+      "onboard_time": 1735625542,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 28499,
@@ -8619,6 +8771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24736,
+      "num": 205445,
+      "word": "电影骗骗喜欢你今日上映",
+      "onboard_time": 1735622661,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 24694,
       "num": 253462,
       "word": "2024国产剧经典台词回顾",
@@ -8795,6 +8955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21438,
+      "num": 172217,
+      "word": "学生时代好像就没安心跨过年",
+      "onboard_time": 1735626141,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 21328,
       "num": 27881,
       "word": "曼联vs纽卡斯尔",
@@ -8867,6 +9035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19388,
+      "num": 156517,
+      "word": "红色是记忆里春节的颜色",
+      "onboard_time": 1735625719,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 19280,
       "num": 85254,
       "word": "还有30天就要过大年",
@@ -8937,6 +9113,14 @@
       "onboard_time": 1735535421,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16650,
+      "num": 204953,
+      "word": "央广军事年度超燃集锦",
+      "onboard_time": 1735625599,
+      "rank": 29,
+      "category": "军事"
     },
     {
       "raw_hot": 16630,
