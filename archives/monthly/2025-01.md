@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/01 00:42:57
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/01 01:18:37
 </p>
 </blockquote>
 <p>
@@ -45,8 +45,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B7%A8%E5%B9%B4%E6%94%B6%E8%A7%86%E7%8E%87%23" target="weibo">
+跨年收视率（热度：1793831）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%88%AB%E6%89%93%E9%BC%93%E4%BA%86%20%E6%89%93%E6%88%91%23" target="weibo">
 杨幂别打鼓了 打我（热度：1565917）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%81%E7%A6%B9%E5%85%AE%E4%BD%A0%E4%BF%A9%E5%9C%A8%E8%AF%B4%E4%BB%80%E4%B9%88%23" target="weibo">
+虞书欣丁禹兮你俩在说什么（热度：1546854）
 </a>
 </li>
 
@@ -69,12 +81,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B7%A8%E5%B9%B4%E6%94%B6%E8%A7%86%E7%8E%87%23" target="weibo">
-跨年收视率（热度：1207271）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%232025%E5%B9%B4%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%23" target="weibo">
 2025年新年贺词（热度：1158960）
 </a>
@@ -83,6 +89,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E8%BF%98%E6%98%AF%E8%BF%99%E4%B9%88%E7%94%9C%23" target="weibo">
 杨幂还是这么甜（热度：1128280）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%B9%B4%E7%BA%A2%E5%8C%85%23" target="weibo">
+新年红包（热度：1086217）
 </a>
 </li>
 
@@ -99,14 +111,32 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E8%BF%9E%E7%BB%AD20%E5%B9%B4%E9%9B%B6%E7%82%B9%E5%8E%8B%E8%BD%B4%23" target="weibo">
+李宇春连续20年零点压轴（热度：986055）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%90%8A%E5%A8%81%E4%BA%9A%E9%A3%9E%E8%B5%B7%E6%9D%A5%E4%BA%86%23" target="weibo">
 王一博吊威亚飞起来了（热度：921839）
 </a>
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%86%92%E9%86%92%20%E7%8E%B0%E5%9C%A8%E6%98%AF%E5%8D%83%E7%A6%A7%E5%B9%B4%23" target="weibo">
+醒醒 现在是千禧年（热度：894256）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%20%E8%A1%8C%E8%B5%B0%E7%9A%84CD%23" target="weibo">
 鞠婧祎 行走的CD（热度：879247）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%B7%A8%E5%B9%B4%E7%94%9C%E8%BE%A3%E9%A3%8E%E8%88%9E%E5%8F%B0%23" target="weibo">
+虞书欣跨年甜辣风舞台（热度：865770）
 </a>
 </li>
 
@@ -123,8 +153,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E8%B7%A8%E5%B9%B4%E6%89%93%E9%BC%93%E8%88%9E%E5%8F%B0%23" target="weibo">
+杨幂跨年打鼓舞台（热度：765910）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B7%A8%E5%B9%B4%E6%96%87%E6%A1%88%23" target="weibo">
 跨年文案（热度：744481）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E5%A9%9A%E5%90%8E%E9%A6%96%E6%AC%A1%E5%90%8C%E5%8F%B0%23" target="weibo">
+黄子韬徐艺洋婚后首次同台（热度：698456）
 </a>
 </li>
 
@@ -141,18 +183,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%86%92%E9%86%92%20%E7%8E%B0%E5%9C%A8%E6%98%AF%E5%8D%83%E7%A6%A7%E5%B9%B4%23" target="weibo">
-醒醒 现在是千禧年（热度：631308）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E8%BF%9E%E7%BB%AD20%E5%B9%B4%E9%9B%B6%E7%82%B9%E5%8E%8B%E8%BD%B4%23" target="weibo">
-李宇春连续20年零点压轴（热度：629512）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%99%A8%E5%85%89%23" target="weibo">
 华晨宇晨光（热度：626801）
 </a>
@@ -165,8 +195,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E8%B0%A2%E5%A8%9C%E7%BB%99%E6%88%91%E5%94%B1%E5%93%AD%E4%BA%86%23" target="weibo">
+何炅谢娜给我唱哭了（热度：560285）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8D%A1%E6%BC%8F30%E4%B8%87%E9%BB%84%E9%87%91%E5%A5%B3%E5%84%BF%E6%80%95%E8%AF%88%E9%AA%97%E6%80%A5%E5%93%AD%23" target="weibo">
 女子捡漏30万黄金女儿怕诈骗急哭（热度：507092）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B7%A8%E5%B9%B4%E7%83%9F%E8%8A%B1%23" target="weibo">
+跨年烟花（热度：485651）
 </a>
 </li>
 
@@ -177,8 +219,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E8%B0%A2%E5%A8%9C%E7%BB%99%E6%88%91%E5%94%B1%E5%93%AD%E4%BA%86%23" target="weibo">
-何炅谢娜给我唱哭了（热度：427769）
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%9C%89%E6%9C%8B%E9%BB%84%E6%99%93%E6%98%8E%20%E8%BF%98%E7%8F%A0%E6%A0%BC%E6%A0%BC%23" target="weibo">
+苏有朋黄晓明 还珠格格（热度：434386）
 </a>
 </li>
 
@@ -189,8 +231,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B7%A8%E5%B9%B4%E7%83%9F%E8%8A%B1%23" target="weibo">
-跨年烟花（热度：391081）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E6%8B%BF%E4%BA%86%E6%85%95%E5%A3%B0%E5%8F%91%E5%B8%A6%23" target="weibo">
+丁禹兮拿了慕声发带（热度：385887）
 </a>
 </li>
 
@@ -237,6 +279,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%20%E5%A4%8D%E5%87%BA%23" target="weibo">
+王力宏 复出（热度：293581）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%23" target="weibo">
 跨年晚会（热度：277666）
 </a>
@@ -273,6 +321,18 @@ B站跨年 爷青回（热度：258130）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232025%23" target="weibo">
+2025（热度：242065）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E5%85%A8%E5%BC%80%E9%BA%A6%E5%94%B1%E8%B7%B3%E5%A5%BD%E7%A8%B3%23" target="weibo">
+檀健次全开麦唱跳好稳（热度：221643）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E7%A5%9E%E8%AF%9D%E8%88%9E%E5%8F%B0%E5%A5%BD%E5%B8%85%23" target="weibo">
 黑神话舞台好帅（热度：215922）
 </a>
@@ -297,8 +357,26 @@ B站跨年 爷青回（热度：258130）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%8D%E4%BE%A6%E6%8E%A2%E6%9F%AF%E5%8D%97%23" target="weibo">
+名侦探柯南（热度：190044）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E6%9C%89%E4%B8%AA%E5%85%B1%E5%90%8C%E7%9A%84%E5%AE%B6%E5%90%8D%E5%8F%AB%E4%B8%AD%E5%9B%BD%23" target="weibo">
+我们有个共同的家名叫中国（热度：177226）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E4%BA%9A%E8%90%8D%E7%A7%B0%E5%B0%8F%E8%83%96%E4%BB%8A%E5%A4%A9%E7%8A%B6%E6%80%81%E5%B9%B6%E4%B8%8D%E5%A4%AA%E5%A5%BD%23" target="weibo">
 邓亚萍称小胖今天状态并不太好（热度：176162）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%941%E8%83%9C%E6%A8%8A%E6%8C%AF%E4%B8%9C%23" target="weibo">
+王楚钦3比1胜樊振东（热度：170524）
 </a>
 </li>
 
@@ -315,14 +393,14 @@ B站跨年 爷青回（热度：258130）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%941%E8%83%9C%E6%A8%8A%E6%8C%AF%E4%B8%9C%23" target="weibo">
-王楚钦3比1胜樊振东（热度：166798）
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E4%B9%9F%E4%B8%8D%E8%83%BD%E9%98%BB%E6%8C%A1%E7%A5%96%E5%9B%BD%E7%BB%9F%E4%B8%80%E7%9A%84%E5%8E%86%E5%8F%B2%E5%A4%A7%E5%8A%BF%23" target="weibo">
+谁也不能阻挡祖国统一的历史大势（热度：158276）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E4%B9%9F%E4%B8%8D%E8%83%BD%E9%98%BB%E6%8C%A1%E7%A5%96%E5%9B%BD%E7%BB%9F%E4%B8%80%E7%9A%84%E5%8E%86%E5%8F%B2%E5%A4%A7%E5%8A%BF%23" target="weibo">
-谁也不能阻挡祖国统一的历史大势（热度：158276）
+<a href="https://s.weibo.com/weibo?q=%232025%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%A7%8B%23" target="weibo">
+2025正式开始（热度：156926）
 </a>
 </li>
 
@@ -339,8 +417,8 @@ B站跨年 爷青回（热度：258130）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E6%9C%89%E4%B8%AA%E5%85%B1%E5%90%8C%E7%9A%84%E5%AE%B6%E5%90%8D%E5%8F%AB%E4%B8%AD%E5%9B%BD%23" target="weibo">
-我们有个共同的家名叫中国（热度：142503）
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%A7%B0%E5%B8%8C%E6%9C%9B%E5%BE%97%E5%88%B0%E5%A4%A7%E5%AE%B6%E7%9A%84%E7%A5%9D%E7%A6%8F%23" target="weibo">
+樊振东称希望得到大家的祝福（热度：147865）
 </a>
 </li>
 
@@ -352,13 +430,25 @@ B站跨年 爷青回（热度：258130）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E8%BF%99%E4%BA%9B%E8%AF%9D%E6%9A%96%E5%BF%83%E9%BC%93%E5%8A%B2%23" target="weibo">
-总书记的这些话暖心鼓劲（热度：97760）
+总书记的这些话暖心鼓劲（热度：110032）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%A8%E6%B8%A9%E6%9A%96%E5%91%8A%E5%88%AB2024%23" target="weibo">
+用温暖告别2024（热度：108697）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B5%B7%E5%90%912025%E5%87%BA%E5%8F%91%23" target="weibo">
 一起向2025出发（热度：83774）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%A4%A7%E5%B1%8F%E4%B8%BA%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%96%B0%E7%9A%84%E4%B8%80%E5%B9%B4%E6%89%93call%23" target="weibo">
+上海大屏为樊振东新的一年打call（热度：58531）
 </a>
 </li>
 
