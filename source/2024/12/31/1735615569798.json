@@ -1,0 +1,410 @@
+{
+  "runTime": 1735615569798,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1773996,
+        "num": 1773996,
+        "word": "张继科说国家队有人盲目自信",
+        "onboard_time": 1735614437,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1546982,
+        "num": 1546982,
+        "word": "2025跨年节目单",
+        "onboard_time": 1735613058,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30714,
+        "num": 1472133,
+        "word": "一组数据看中国空间站成绩单",
+        "onboard_time": 1735563560,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1462727,
+        "num": 1462727,
+        "word": "潘宏不反对吃狗肉",
+        "onboard_time": 1735613356,
+        "rank": 3,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 1098746,
+        "num": 1098746,
+        "word": "韩国空难机场跑道尽头为何有墙",
+        "onboard_time": 1735610118,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1038195,
+        "num": 1038195,
+        "word": "今年车厘子价格为何断崖式下跌",
+        "onboard_time": 1735613479,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 772046,
+        "num": 772046,
+        "word": "陈学冬疑似退圈定居美国",
+        "onboard_time": 1735605319,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 561104,
+        "num": 561104,
+        "word": "地铁公司回应地铁口被吐槽像棺材",
+        "onboard_time": 1735610660,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 467528,
+        "num": 467528,
+        "word": "韩国法院批准尹锡悦逮捕令",
+        "onboard_time": 1735605019,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 356293,
+        "num": 356293,
+        "word": "烫伤出生2天婴儿护士停岗",
+        "onboard_time": 1735604778,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439582,
+        "num": 356033,
+        "word": "亲生父母弃养女儿多年后要20万养育费",
+        "onboard_time": 1735613058,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430071,
+        "num": 353939,
+        "word": "韩安冉老公宋墨仿妆",
+        "onboard_time": 1735613298,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 184912,
+        "num": 353828,
+        "word": "济州航空6.8万张机票被取消",
+        "onboard_time": 1735614258,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169863,
+        "num": 352053,
+        "word": "一条plog告别2024",
+        "onboard_time": 1735615339,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24322,
+        "num": 350958,
+        "word": "被AI视频渲染的汽车世界震撼到",
+        "onboard_time": 1735614019,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 350408,
+        "num": 350408,
+        "word": "赵露思1月到12月的变化",
+        "onboard_time": 1735555639,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388687,
+        "num": 348870,
+        "word": "古巨基4岁儿子近照",
+        "onboard_time": 1735611078,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345834,
+        "num": 345834,
+        "word": "B站跨年晚会节目单",
+        "onboard_time": 1735613959,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341954,
+        "num": 341954,
+        "word": "广州花地湾地铁站龙虾造型引热议",
+        "onboard_time": 1735607419,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166965,
+        "num": 335495,
+        "word": "行程图",
+        "onboard_time": 1735615160,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334710,
+        "num": 334710,
+        "word": "姜尘疑似内涵张颂文",
+        "onboard_time": 1735572319,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309556,
+        "num": 309556,
+        "word": "女演员姜尘自曝曾被男明星家暴",
+        "onboard_time": 1735600694,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287088,
+        "num": 287088,
+        "word": "樊振东和WTT各自在坚持什么",
+        "onboard_time": 1735614499,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272790,
+        "num": 272790,
+        "word": "难哄跨年吃的是国宴",
+        "onboard_time": 1735615518,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 25573,
+        "num": 262748,
+        "word": "中国网球队连续2年打进联合杯8强",
+        "onboard_time": 1735614619,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258840,
+        "num": 258840,
+        "word": "恋与深空",
+        "onboard_time": 1735601536,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 245768,
+        "num": 245768,
+        "word": "本周上四休三不调休",
+        "onboard_time": 1735577775,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220749,
+        "num": 239240,
+        "word": "王一博和大学生唱天高海阔",
+        "onboard_time": 1735573760,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211709,
+        "num": 238841,
+        "word": "李昀锐期待封神2和蛟龙行动",
+        "onboard_time": 1735610418,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 35897,
+        "num": 238630,
+        "word": "湘奶奶在生命最后一年说出日军暴行",
+        "onboard_time": 1735615038,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238568,
+        "num": 238568,
+        "word": "加沙出生仅21天双胞胎冻死",
+        "onboard_time": 1735609038,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 237553,
+        "num": 237553,
+        "word": "小伙买多次转手电动车电池爆炸身亡",
+        "onboard_time": 1735614678,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226289,
+        "num": 226289,
+        "word": "韩国空难遇难者群像",
+        "onboard_time": 1735612458,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 223502,
+        "num": 223502,
+        "word": "WTT",
+        "onboard_time": 1735609998,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208175,
+        "num": 219377,
+        "word": "A股",
+        "onboard_time": 1735614318,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 219171,
+        "num": 219171,
+        "word": "白鹿范丞丞宋雨琦合唱",
+        "onboard_time": 1735614437,
+        "rank": 35,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 213753,
+        "num": 213753,
+        "word": "河南广西2省区党委主要负责同志职务调整",
+        "onboard_time": 1735614437,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 211040,
+        "num": 211040,
+        "word": "26岁裸辞瞒着爸妈假装上班的一天",
+        "onboard_time": 1735611499,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196750,
+        "num": 196750,
+        "word": "王俊凯跨年彩排花絮",
+        "onboard_time": 1735614437,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185104,
+        "num": 185104,
+        "word": "射雕人物海报",
+        "onboard_time": 1735613058,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182608,
+        "num": 182608,
+        "word": "韩国首次对现任总统发布逮捕令",
+        "onboard_time": 1735606700,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 177499,
+        "num": 177499,
+        "word": "和2024好好道个别",
+        "onboard_time": 1735615399,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167334,
+        "num": 167334,
+        "word": "刘梓晨参加演员请就位",
+        "onboard_time": 1735600936,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166644,
+        "num": 166644,
+        "word": "郭敬明说没想过什么古偶三部曲",
+        "onboard_time": 1735614678,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106061,
+        "num": 164690,
+        "word": "向鹏薛飞vs林高远徐海东",
+        "onboard_time": 1735614378,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164268,
+        "num": 164268,
+        "word": "阴阳师夏目友人帐联动",
+        "onboard_time": 1735614859,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164260,
+        "num": 164260,
+        "word": "英专家称韩客机失事真凶是混凝土设施",
+        "onboard_time": 1735610298,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 159575,
+        "num": 159575,
+        "word": "韩国总统警卫处称将依法采取措施",
+        "onboard_time": 1735611919,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148117,
+        "num": 148117,
+        "word": "刘诗诗一月进组",
+        "onboard_time": 1735609998,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144149,
+        "num": 144149,
+        "word": "江苏卫视跨年演唱会全开麦真唱",
+        "onboard_time": 1735576097,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温习近平主席新年贺词#"
+    }
+  }
+}

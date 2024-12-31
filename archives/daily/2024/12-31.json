@@ -1,6 +1,6 @@
 {
   "startTime": 1735576065390,
-  "endTime": 1735614032309,
+  "endTime": 1735615569798,
   "band_list": [
     {
       "raw_hot": 1781083,
@@ -9,6 +9,14 @@
       "onboard_time": 1735572319,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1773996,
+      "num": 1773996,
+      "word": "张继科说国家队有人盲目自信",
+      "onboard_time": 1735614437,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1753798,
@@ -27,12 +35,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1337207,
-      "num": 1337207,
+      "raw_hot": 1546982,
+      "num": 1546982,
       "word": "2025跨年节目单",
       "onboard_time": 1735613058,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1462727,
+      "num": 1462727,
+      "word": "潘宏不反对吃狗肉",
+      "onboard_time": 1735613356,
+      "rank": 19,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 1318682,
@@ -49,6 +65,14 @@
       "onboard_time": 1735572980,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1038195,
+      "num": 1038195,
+      "word": "今年车厘子价格为何断崖式下跌",
+      "onboard_time": 1735613479,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 995723,
@@ -163,6 +187,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 439582,
+      "num": 356033,
+      "word": "亲生父母弃养女儿多年后要20万养育费",
+      "onboard_time": 1735613058,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 430071,
+      "num": 353939,
+      "word": "韩安冉老公宋墨仿妆",
+      "onboard_time": 1735613298,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 413393,
       "num": 427405,
       "word": "王一博和大学生唱天高海阔",
@@ -216,6 +256,14 @@
       "word": "央视跨年晚会阵容你最期待谁",
       "onboard_time": 1735568541,
       "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 345834,
+      "num": 345834,
+      "word": "B站跨年晚会节目单",
+      "onboard_time": 1735613959,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -283,12 +331,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 292889,
-      "num": 237164,
-      "word": "韩安冉老公宋墨仿妆",
-      "onboard_time": 1735613298,
-      "rank": 39,
-      "category": "网红"
+      "raw_hot": 287088,
+      "num": 287088,
+      "word": "樊振东和WTT各自在坚持什么",
+      "onboard_time": 1735614499,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 284403,
@@ -331,12 +379,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 270663,
-      "num": 270663,
-      "word": "亲生父母弃养女儿多年后要20万养育费",
-      "onboard_time": 1735613058,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 272790,
+      "num": 272790,
+      "word": "难哄跨年吃的是国宴",
+      "onboard_time": 1735615518,
+      "rank": 23,
+      "category": "动漫"
     },
     {
       "raw_hot": 268085,
@@ -387,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237553,
+      "num": 237553,
+      "word": "小伙买多次转手电动车电池爆炸身亡",
+      "onboard_time": 1735614678,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 231043,
       "num": 208898,
       "word": "蒋勤勤感谢易烊千玺",
@@ -419,6 +475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 219171,
+      "num": 219171,
+      "word": "白鹿范丞丞宋雨琦合唱",
+      "onboard_time": 1735614437,
+      "rank": 35,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 218382,
       "num": 218382,
       "word": "去爬山结果自己成了景点",
@@ -435,12 +499,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 213753,
+      "num": 213753,
+      "word": "河南广西2省区党委主要负责同志职务调整",
+      "onboard_time": 1735614437,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 209226,
       "num": 249995,
       "word": "蔡磊仍在倔强发声",
       "onboard_time": 1735608258,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208175,
+      "num": 219377,
+      "word": "A股",
+      "onboard_time": 1735614318,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 205885,
@@ -467,12 +547,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 195721,
-      "num": 195721,
-      "word": "今年车厘子价格为何断崖式下跌",
-      "onboard_time": 1735613479,
-      "rank": 49,
-      "category": "财经"
+      "raw_hot": 196750,
+      "num": 196750,
+      "word": "王俊凯跨年彩排花絮",
+      "onboard_time": 1735614437,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 190138,
@@ -491,12 +571,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184912,
+      "num": 353828,
+      "word": "济州航空6.8万张机票被取消",
+      "onboard_time": 1735614258,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178246,
       "num": 136305,
       "word": "虞书欣明晚见",
       "onboard_time": 1735575497,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177499,
+      "num": 177499,
+      "word": "和2024好好道个别",
+      "onboard_time": 1735615399,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172349,
@@ -507,12 +603,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169863,
+      "num": 352053,
+      "word": "一条plog告别2024",
+      "onboard_time": 1735615339,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166965,
+      "num": 335495,
+      "word": "行程图",
+      "onboard_time": 1735615160,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 166644,
+      "num": 166644,
+      "word": "郭敬明说没想过什么古偶三部曲",
+      "onboard_time": 1735614678,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166271,
       "num": 210359,
       "word": "外来媳妇本地郎要从第一集重播了",
       "onboard_time": 1735609577,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164268,
+      "num": 164268,
+      "word": "阴阳师夏目友人帐联动",
+      "onboard_time": 1735614859,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 160822,
@@ -577,14 +705,6 @@
       "onboard_time": 1735610538,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 148357,
-      "num": 148357,
-      "word": "B站跨年晚会节目单",
-      "onboard_time": 1735613959,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 147849,
@@ -715,14 +835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124350,
-      "num": 365899,
-      "word": "潘宏不反对吃狗肉",
-      "onboard_time": 1735613356,
-      "rank": 19,
-      "category": "网红,民生新闻"
-    },
-    {
       "raw_hot": 122262,
       "num": 140203,
       "word": "薯饼 全日制",
@@ -809,6 +921,14 @@
       "onboard_time": 1735609698,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 106061,
+      "num": 164690,
+      "word": "向鹏薛飞vs林高远徐海东",
+      "onboard_time": 1735614378,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 105383,
@@ -1107,6 +1227,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35897,
+      "num": 238630,
+      "word": "湘奶奶在生命最后一年说出日军暴行",
+      "onboard_time": 1735615038,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30714,
+      "num": 1472133,
+      "word": "一组数据看中国空间站成绩单",
+      "onboard_time": 1735563560,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 29515,
       "num": 400651,
       "word": "男生做康复治疗师3年帮助千余老人",
@@ -1155,12 +1291,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25661,
-      "num": 972851,
-      "word": "一组数据看中国空间站成绩单",
-      "onboard_time": 1735563560,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 25573,
+      "num": 262748,
+      "word": "中国网球队连续2年打进联合杯8强",
+      "onboard_time": 1735614619,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 25568,
@@ -1185,6 +1321,14 @@
       "onboard_time": 1735592051,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 24322,
+      "num": 350958,
+      "word": "被AI视频渲染的汽车世界震撼到",
+      "onboard_time": 1735614019,
+      "rank": 14,
+      "category": "汽车"
     },
     {
       "raw_hot": 23557,
