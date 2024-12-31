@@ -1,6 +1,6 @@
 {
   "startTime": 1735576065390,
-  "endTime": 1735610300803,
+  "endTime": 1735613501089,
   "band_list": [
     {
       "raw_hot": 1781083,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 1753798,
-      "num": 718350,
+      "num": 775299,
       "word": "陈学冬疑似退圈定居美国",
       "onboard_time": 1735605319,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1574419,
+      "num": 1574419,
+      "word": "韩国空难机场跑道尽头为何有墙",
+      "onboard_time": 1735610118,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1318682,
@@ -59,6 +67,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 795155,
+      "num": 795155,
+      "word": "2025跨年节目单",
+      "onboard_time": 1735613058,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 758003,
+      "num": 489165,
+      "word": "地铁公司回应地铁口被吐槽像棺材",
+      "onboard_time": 1735610660,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 636825,
       "num": 636825,
       "word": "女演员姜尘自曝曾被男明星家暴",
@@ -83,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 557034,
+      "num": 470195,
+      "word": "古巨基4岁儿子近照",
+      "onboard_time": 1735611078,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 529888,
       "num": 529888,
       "word": "本周上四休三不调休",
@@ -99,6 +131,30 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 502124,
+      "num": 502124,
+      "word": "加沙出生仅21天双胞胎冻死",
+      "onboard_time": 1735609038,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 501131,
+      "num": 501131,
+      "word": "广州花地湾地铁站龙虾造型引热议",
+      "onboard_time": 1735607419,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 488335,
+      "num": 488335,
+      "word": "WTT",
+      "onboard_time": 1735609998,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 449122,
       "num": 449122,
       "word": "韩国公开更多空难细节",
@@ -108,7 +164,7 @@
     },
     {
       "raw_hot": 413393,
-      "num": 413393,
+      "num": 427405,
       "word": "王一博和大学生唱天高海阔",
       "onboard_time": 1735573760,
       "rank": 6,
@@ -155,20 +211,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 355456,
-      "num": 355456,
-      "word": "广州花地湾地铁站龙虾造型引热议",
-      "onboard_time": 1735607419,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 353658,
       "num": 353658,
       "word": "央视跨年晚会阵容你最期待谁",
       "onboard_time": 1735568541,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 340526,
+      "num": 452486,
+      "word": "李昀锐期待封神2和蛟龙行动",
+      "onboard_time": 1735610418,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 329883,
@@ -235,14 +291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 280933,
-      "num": 280933,
-      "word": "加沙出生仅21天双胞胎冻死",
-      "onboard_time": 1735609038,
-      "rank": 35,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 280729,
       "num": 280729,
       "word": "韩失事客机飞行员3次发出求救信号",
@@ -284,11 +332,27 @@
     },
     {
       "raw_hot": 251217,
-      "num": 251217,
+      "num": 252757,
       "word": "刘诗诗一月进组",
       "onboard_time": 1735609998,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 245611,
+      "num": 245611,
+      "word": "韩国空难遇难者群像",
+      "onboard_time": 1735612458,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 237431,
+      "num": 489905,
+      "word": "英专家称韩客机失事真凶是混凝土设施",
+      "onboard_time": 1735610298,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 231043,
@@ -331,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216874,
+      "num": 216874,
+      "word": "26岁裸辞瞒着爸妈假装上班的一天",
+      "onboard_time": 1735611499,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 209226,
       "num": 249995,
       "word": "蔡磊仍在倔强发声",
@@ -345,6 +417,14 @@
       "onboard_time": 1735608559,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200442,
+      "num": 251044,
+      "word": "射雕人物海报",
+      "onboard_time": 1735613058,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 200095,
@@ -363,6 +443,38 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197582,
+      "num": 197582,
+      "word": "亲生父母弃养女儿多年后要20万养育费",
+      "onboard_time": 1735613058,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193584,
+      "num": 392793,
+      "word": "韩国总统警卫处称将依法采取措施",
+      "onboard_time": 1735611919,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 190138,
+      "num": 249419,
+      "word": "年度歌单",
+      "onboard_time": 1735608859,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 185223,
+      "num": 185223,
+      "word": "江苏卫视跨年节目单",
+      "onboard_time": 1735613118,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178246,
       "num": 136305,
       "word": "虞书欣明晚见",
@@ -379,20 +491,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165934,
-      "num": 209408,
-      "word": "年度歌单",
-      "onboard_time": 1735608859,
-      "rank": 44,
-      "category": "音乐"
+      "raw_hot": 164140,
+      "num": 164140,
+      "word": "韩安冉老公宋墨仿妆",
+      "onboard_time": 1735613298,
+      "rank": 39,
+      "category": "网红"
     },
     {
-      "raw_hot": 157611,
-      "num": 157611,
-      "word": "WTT",
-      "onboard_time": 1735609998,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 164027,
+      "num": 164027,
+      "word": "江苏卫视跨年演唱会全开麦真唱",
+      "onboard_time": 1735576097,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 155489,
@@ -408,6 +520,14 @@
       "word": "跨年演唱会",
       "onboard_time": 1735609518,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 154546,
+      "num": 154546,
+      "word": "跨年",
+      "onboard_time": 1735611559,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -433,6 +553,22 @@
       "onboard_time": 1735609218,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 151513,
+      "num": 151513,
+      "word": "妻子谈蔡磊病情进展",
+      "onboard_time": 1735610538,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148483,
+      "num": 148483,
+      "word": "特朗普被判赔偿500万美元",
+      "onboard_time": 1735612878,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 145922,
@@ -579,6 +715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 118627,
+      "num": 118627,
+      "word": "繁花周年短片好久不见",
+      "onboard_time": 1735613356,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116482,
       "num": 116482,
       "word": "男子花近40万相亲1天结婚领证",
@@ -587,12 +731,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 113318,
-      "num": 151693,
-      "word": "江苏卫视跨年演唱会全开麦真唱",
-      "onboard_time": 1735576097,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 112803,
+      "num": 112803,
+      "word": "今年车厘子价格为何断崖式下跌",
+      "onboard_time": 1735613479,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 111819,
@@ -675,6 +819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97009,
+      "num": 182847,
+      "word": "詹姆斯40岁首次采访",
+      "onboard_time": 1735612219,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94386,
       "num": 109918,
       "word": "胡歌说繁花的售后是最长的",
@@ -689,6 +841,14 @@
       "onboard_time": 1735561699,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 91331,
+      "num": 245978,
+      "word": "韩国空难机场将关闭至明年1月7日",
+      "onboard_time": 1735611858,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 87109,
@@ -729,6 +889,14 @@
       "onboard_time": 1735558640,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 70324,
+      "num": 248944,
+      "word": "那一年我喜欢上了詹姆斯",
+      "onboard_time": 1735613419,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 70245,
@@ -859,6 +1027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 47662,
+      "num": 444970,
+      "word": "闪婚中介教记者相亲套路",
+      "onboard_time": 1735612639,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47566,
       "num": 47566,
       "word": "2024你追过哪些国产影视",
@@ -931,16 +1107,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25969,
-      "num": 453708,
-      "word": "韩国空难机场跑道尽头为何有墙",
-      "onboard_time": 1735610118,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 25661,
-      "num": 727235,
+      "num": 776895,
       "word": "一组数据看中国空间站成绩单",
       "onboard_time": 1735563560,
       "rank": 2,
@@ -1019,6 +1187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20310,
+      "num": 365899,
+      "word": "潘宏不反对吃狗肉",
+      "onboard_time": 1735613356,
+      "rank": 19,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 20157,
       "num": 59994,
       "word": "天山深处基建狂魔放大招",
@@ -1049,6 +1225,14 @@
       "onboard_time": 1735585032,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 15529,
+      "num": 400651,
+      "word": "男生做康复治疗师3年帮助千余老人",
+      "onboard_time": 1735612998,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15413,
