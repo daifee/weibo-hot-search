@@ -1,0 +1,410 @@
+{
+  "runTime": 1735630545011,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1196330,
+        "num": 1196330,
+        "word": "张加帅",
+        "onboard_time": 1735617860,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 680030,
+        "num": 680030,
+        "word": "前乒乓球冠军称WTT需要致歉",
+        "onboard_time": 1735627999,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27579,
+        "num": 445290,
+        "word": "国之重器为元旦送硬核礼物",
+        "onboard_time": 1735580533,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1941328,
+        "num": 437908,
+        "word": "韩坠机事故遗体目前仍放在地上",
+        "onboard_time": 1735626621,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 897575,
+        "num": 432000,
+        "word": "赵露思1岁到26岁的经历",
+        "onboard_time": 1735628539,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424028,
+        "num": 424028,
+        "word": "今年车厘子价格为何断崖式下跌",
+        "onboard_time": 1735613479,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 746139,
+        "num": 421573,
+        "word": "湖南卫视跨年节目单",
+        "onboard_time": 1735624578,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 542031,
+        "num": 406988,
+        "word": "张颂文",
+        "onboard_time": 1735625838,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391879,
+        "num": 391879,
+        "word": "加沙病人被迫只穿内裤徒步走3小时",
+        "onboard_time": 1735626020,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 310989,
+        "num": 310989,
+        "word": "福宝转移至非展区静养",
+        "onboard_time": 1735627640,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397022,
+        "num": 310095,
+        "word": "D社不公布年度情侣",
+        "onboard_time": 1735624578,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368290,
+        "num": 308120,
+        "word": "孟姐 你好娇啊",
+        "onboard_time": 1735625061,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 325451,
+        "num": 305489,
+        "word": "陈建州妹妹器官移植手术成功",
+        "onboard_time": 1735625542,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279160,
+        "num": 303365,
+        "word": "韩国官方回应机场跑道尽头有墙",
+        "onboard_time": 1735629078,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 33843,
+        "num": 301083,
+        "word": "元气满满奔赴下一程",
+        "onboard_time": 1735628419,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 300491,
+        "num": 300491,
+        "word": "果农称车厘子喂鸡视频非近期拍摄",
+        "onboard_time": 1735628659,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299328,
+        "num": 299328,
+        "word": "韩1家9口遇难后家中仅剩1只狗",
+        "onboard_time": 1735630280,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 285266,
+        "num": 285266,
+        "word": "许昕孩子假装给孙颖莎打电话",
+        "onboard_time": 1735622781,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49104,
+        "num": 285061,
+        "word": "电信0元购机老人背上3年分期还款",
+        "onboard_time": 1735629919,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 50924,
+        "num": 284873,
+        "word": "尹子维 爱徐冬冬要先锁住她的胃",
+        "onboard_time": 1735630399,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3131153,
+        "num": 284279,
+        "word": "赵露思好友曝她曾被公司殴打",
+        "onboard_time": 1735617620,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42554,
+        "num": 283903,
+        "word": "起底虚标羊绒含量涉事公司",
+        "onboard_time": 1735628659,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 437962,
+        "num": 283684,
+        "word": "小米SU7",
+        "onboard_time": 1735626200,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 147722,
+        "num": 283357,
+        "word": "前乒乓球冠军称很同情樊振东",
+        "onboard_time": 1735630341,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217710,
+        "num": 283024,
+        "word": "真心英雄定档",
+        "onboard_time": 1735630280,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27680,
+        "num": 282598,
+        "word": "原神火神摇滚",
+        "onboard_time": 1735626621,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 282279,
+        "num": 282279,
+        "word": "Angelababy瑞丽开年刊封面",
+        "onboard_time": 1735620802,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 430006,
+        "num": 281688,
+        "word": "A股",
+        "onboard_time": 1735614318,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 267747,
+        "num": 267747,
+        "word": "尚雯婕参加复旦同学聚会",
+        "onboard_time": 1735627880,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16672,
+        "num": 234533,
+        "word": "韩空难最后15位遇难者身份或将确认",
+        "onboard_time": 1735630341,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 231056,
+        "num": 231056,
+        "word": "潘宏不反对吃狗肉",
+        "onboard_time": 1735613356,
+        "rank": 30,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 213349,
+        "num": 213349,
+        "word": "饿瘦和运动瘦的区别",
+        "onboard_time": 1735618641,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29172,
+        "num": 209861,
+        "word": "白敬亭工作室委托律师声明",
+        "onboard_time": 1735629860,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209185,
+        "num": 209185,
+        "word": "就这么水灵灵谈恋爱结婚了",
+        "onboard_time": 1735624520,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203036,
+        "num": 203036,
+        "word": "古装悬疑扎堆来了",
+        "onboard_time": 1735630280,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197943,
+        "num": 197943,
+        "word": "TVB拍了娱乐圈文",
+        "onboard_time": 1735630280,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192866,
+        "num": 192866,
+        "word": "龚俊换风格了",
+        "onboard_time": 1735629380,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191008,
+        "num": 191008,
+        "word": "李昀锐你撩到我了",
+        "onboard_time": 1735630280,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189776,
+        "num": 189776,
+        "word": "肖战郭靖定妆视频",
+        "onboard_time": 1735630341,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165687,
+        "num": 165687,
+        "word": "张加帅身高不够未能入镜",
+        "onboard_time": 1735622481,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162590,
+        "num": 162590,
+        "word": "孟子义新年开运红裙",
+        "onboard_time": 1735627040,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161573,
+        "num": 161573,
+        "word": "医生下班后的这个折返太帅了",
+        "onboard_time": 1735621161,
+        "rank": 41,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 158250,
+        "num": 158250,
+        "word": "王家卫拍了李李出家前的剧情",
+        "onboard_time": 1735626919,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156631,
+        "num": 156631,
+        "word": "2025跨年节目单",
+        "onboard_time": 1735613058,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30647,
+        "num": 154704,
+        "word": "鸿蒙智行冬日出行不设限",
+        "onboard_time": 1735630341,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 152883,
+        "num": 152883,
+        "word": "2024升咖TOP4",
+        "onboard_time": 1735626799,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139506,
+        "num": 139506,
+        "word": "马龙彩排",
+        "onboard_time": 1735626020,
+        "rank": 46,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 32025,
+        "num": 136888,
+        "word": "黄金为什么那么值钱",
+        "onboard_time": 1735626739,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 134663,
+        "num": 134663,
+        "word": "小白花就要搭糙汉才有感觉",
+        "onboard_time": 1735627759,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127924,
+        "num": 127924,
+        "word": "草莓价格上涨车厘子连降",
+        "onboard_time": 1735617080,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#这一年总书记的惦念与牵挂#"
+    }
+  }
+}

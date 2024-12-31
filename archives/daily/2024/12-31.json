@@ -1,6 +1,6 @@
 {
   "startTime": 1735576065390,
-  "endTime": 1735629661368,
+  "endTime": 1735630545011,
   "band_list": [
     {
       "raw_hot": 8867990,
@@ -19,7 +19,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1824614,
+      "raw_hot": 1941328,
       "num": 1158313,
       "word": "韩坠机事故遗体目前仍放在地上",
       "onboard_time": 1735626621,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1446197,
-      "num": 1177234,
+      "num": 1196330,
       "word": "张加帅",
       "onboard_time": 1735617860,
       "rank": 7,
@@ -163,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 680030,
+      "num": 680030,
+      "word": "前乒乓球冠军称WTT需要致歉",
+      "onboard_time": 1735627999,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 643253,
       "num": 346546,
       "word": "Angelababy瑞丽开年刊封面",
@@ -195,14 +203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 586065,
-      "num": 586065,
-      "word": "前乒乓球冠军称WTT需要致歉",
-      "onboard_time": 1735627999,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 568752,
       "num": 568752,
       "word": "赵露思1月到12月的变化",
@@ -216,6 +216,14 @@
       "word": "古巨基4岁儿子近照",
       "onboard_time": 1735611078,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 542031,
+      "num": 462804,
+      "word": "张颂文",
+      "onboard_time": 1735625838,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -233,14 +241,6 @@
       "onboard_time": 1735606700,
       "rank": 7,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 521300,
-      "num": 462804,
-      "word": "张颂文",
-      "onboard_time": 1735625838,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 504910,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 492851,
-      "num": 239021,
+      "num": 283684,
       "word": "小米SU7",
       "onboard_time": 1735626200,
       "rank": 16,
@@ -563,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 310989,
+      "num": 310989,
+      "word": "福宝转移至非展区静养",
+      "onboard_time": 1735627640,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 306719,
       "num": 378954,
       "word": "尹锡悦逮捕令有效期7天",
@@ -579,6 +587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 300491,
+      "num": 300491,
+      "word": "果农称车厘子喂鸡视频非近期拍摄",
+      "onboard_time": 1735628659,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 300218,
       "num": 300218,
       "word": "WTT85%股份由ITTF持有",
@@ -593,6 +609,14 @@
       "onboard_time": 1735572381,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 299328,
+      "num": 299328,
+      "word": "韩1家9口遇难后家中仅剩1只狗",
+      "onboard_time": 1735630280,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 284403,
@@ -616,6 +640,14 @@
       "word": "韩失事客机飞行员3次发出求救信号",
       "onboard_time": 1735556838,
       "rank": 15,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 279160,
+      "num": 320442,
+      "word": "韩国官方回应机场跑道尽头有墙",
+      "onboard_time": 1735629078,
+      "rank": 13,
       "category": "海外新闻"
     },
     {
@@ -649,6 +681,14 @@
       "onboard_time": 1735612458,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 267747,
+      "num": 267747,
+      "word": "尚雯婕参加复旦同学聚会",
+      "onboard_time": 1735627880,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 262271,
@@ -721,14 +761,6 @@
       "onboard_time": 1735626621,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 242693,
-      "num": 242693,
-      "word": "福宝转移至非展区静养",
-      "onboard_time": 1735627640,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 240971,
@@ -835,6 +867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 217710,
+      "num": 283024,
+      "word": "真心英雄定档",
+      "onboard_time": 1735630280,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 217558,
       "num": 272032,
       "word": "2024就剩1天了",
@@ -891,12 +931,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202896,
-      "num": 202896,
-      "word": "尚雯婕参加复旦同学聚会",
-      "onboard_time": 1735627880,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 203036,
+      "num": 203036,
+      "word": "古装悬疑扎堆来了",
+      "onboard_time": 1735630280,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 200173,
@@ -937,6 +977,14 @@
       "onboard_time": 1735621822,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 197943,
+      "num": 197943,
+      "word": "TVB拍了娱乐圈文",
+      "onboard_time": 1735630280,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 197296,
@@ -995,12 +1043,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192866,
+      "num": 192866,
+      "word": "龚俊换风格了",
+      "onboard_time": 1735629380,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191683,
       "num": 204653,
       "word": "白桃星座2025新年好运",
       "onboard_time": 1735624520,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 191008,
+      "num": 191008,
+      "word": "李昀锐你撩到我了",
+      "onboard_time": 1735630280,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 190868,
@@ -1025,6 +1089,14 @@
       "onboard_time": 1735608859,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 189776,
+      "num": 189776,
+      "word": "肖战郭靖定妆视频",
+      "onboard_time": 1735630341,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 189394,
@@ -1299,20 +1371,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148094,
-      "num": 148094,
-      "word": "龚俊换风格了",
-      "onboard_time": 1735629380,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 147849,
       "num": 147849,
       "word": "繁花周年短片好久不见",
       "onboard_time": 1735613356,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147722,
+      "num": 283357,
+      "word": "前乒乓球冠军称很同情樊振东",
+      "onboard_time": 1735630341,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 145922,
@@ -1361,6 +1433,14 @@
       "onboard_time": 1735615339,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 139506,
+      "num": 168648,
+      "word": "马龙彩排",
+      "onboard_time": 1735626020,
+      "rank": 40,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 138125,
@@ -1425,14 +1505,6 @@
       "onboard_time": 1735600756,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 129148,
-      "num": 168648,
-      "word": "马龙彩排",
-      "onboard_time": 1735626020,
-      "rank": 40,
-      "category": "综艺,体育"
     },
     {
       "raw_hot": 129086,
@@ -1609,14 +1681,6 @@
       "onboard_time": 1735601536,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105264,
-      "num": 320442,
-      "word": "韩国官方回应机场跑道尽头有墙",
-      "onboard_time": 1735629078,
-      "rank": 13,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 103793,
@@ -1907,12 +1971,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50924,
+      "num": 284873,
+      "word": "尹子维 爱徐冬冬要先锁住她的胃",
+      "onboard_time": 1735630399,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49834,
       "num": 49834,
       "word": "归棹 年上还是年下",
       "onboard_time": 1735579454,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 49104,
+      "num": 285061,
+      "word": "电信0元购机老人背上3年分期还款",
+      "onboard_time": 1735629919,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 47566,
@@ -1963,6 +2043,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 42554,
+      "num": 423600,
+      "word": "起底虚标羊绒含量涉事公司",
+      "onboard_time": 1735628659,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42466,
       "num": 237799,
       "word": "A股公司董事长被罚1.09亿元",
@@ -1985,14 +2073,6 @@
       "onboard_time": 1735628419,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 39731,
-      "num": 242248,
-      "word": "果农称车厘子喂鸡视频非近期拍摄",
-      "onboard_time": 1735628659,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39459,
@@ -2059,14 +2139,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 32785,
-      "num": 423600,
-      "word": "起底虚标羊绒含量涉事公司",
-      "onboard_time": 1735628659,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30714,
       "num": 1472133,
       "word": "一组数据看中国空间站成绩单",
@@ -2075,8 +2147,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 30647,
+      "num": 154704,
+      "word": "鸿蒙智行冬日出行不设限",
+      "onboard_time": 1735630341,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 30248,
-      "num": 268451,
+      "num": 282598,
       "word": "原神火神摇滚",
       "onboard_time": 1735626621,
       "rank": 48,
@@ -2097,6 +2177,14 @@
       "onboard_time": 1735612998,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29172,
+      "num": 209861,
+      "word": "白敬亭工作室委托律师声明",
+      "onboard_time": 1735629860,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 28762,
@@ -2305,6 +2393,14 @@
       "onboard_time": 1735586232,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16672,
+      "num": 234533,
+      "word": "韩空难最后15位遇难者身份或将确认",
+      "onboard_time": 1735630341,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 16650,
