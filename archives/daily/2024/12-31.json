@@ -1,10 +1,10 @@
 {
   "startTime": 1735576065390,
-  "endTime": 1735620021372,
+  "endTime": 1735622490037,
   "band_list": [
     {
-      "raw_hot": 8389802,
-      "num": 8389802,
+      "raw_hot": 8867990,
+      "num": 8867990,
       "word": "赵露思好友曝她曾被公司殴打",
       "onboard_time": 1735617620,
       "rank": 0,
@@ -59,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1446197,
+      "num": 782478,
+      "word": "张加帅",
+      "onboard_time": 1735617860,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1441435,
       "num": 1441435,
       "word": "今年车厘子价格为何断崖式下跌",
@@ -83,6 +91,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1192536,
+      "num": 346521,
+      "word": "赵露思老板",
+      "onboard_time": 1735621401,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 995723,
       "num": 391456,
       "word": "同情赵露思患病并不可耻",
@@ -99,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 866937,
+      "num": 345246,
+      "word": "银河酷娱",
+      "onboard_time": 1735619901,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 821465,
       "num": 926503,
       "word": "缅北明家靠诈骗过奢靡生活",
@@ -107,20 +131,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 782478,
-      "num": 782478,
-      "word": "张加帅",
-      "onboard_time": 1735617860,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 758003,
       "num": 667098,
       "word": "地铁公司回应地铁口被吐槽像棺材",
       "onboard_time": 1735610660,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 643253,
+      "num": 342369,
+      "word": "Angelababy瑞丽开年刊封面",
+      "onboard_time": 1735620802,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 636825,
@@ -225,6 +249,14 @@
       "onboard_time": 1735613058,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 428613,
+      "num": 341786,
+      "word": "周也一番",
+      "onboard_time": 1735621583,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 428138,
@@ -339,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 341132,
+      "num": 341132,
+      "word": "父母将3个月大儿子拖朋友照顾却被偷",
+      "onboard_time": 1735616960,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 340526,
       "num": 452486,
       "word": "李昀锐期待封神2和蛟龙行动",
@@ -363,12 +403,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 326953,
+      "num": 326953,
+      "word": "被吐槽像棺材的地铁口已进行拆除",
+      "onboard_time": 1735619243,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320567,
       "num": 320567,
       "word": "柳演锡蔡秀彬最佳cp奖",
       "onboard_time": 1735568001,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 319358,
+      "num": 1081012,
+      "word": "2024最后一次",
+      "onboard_time": 1735607719,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 314016,
@@ -417,14 +473,6 @@
       "onboard_time": 1735572381,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 289772,
-      "num": 1081012,
-      "word": "2024最后一次",
-      "onboard_time": 1735607719,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 284403,
@@ -476,7 +524,7 @@
     },
     {
       "raw_hot": 268085,
-      "num": 304136,
+      "num": 343125,
       "word": "韩国空难遇难者群像",
       "onboard_time": 1735612458,
       "rank": 30,
@@ -507,12 +555,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 256851,
-      "num": 256851,
-      "word": "父母将3个月大儿子拖朋友照顾却被偷",
-      "onboard_time": 1735616960,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 256474,
+      "num": 239524,
+      "word": "湖南卫视节目单呢",
+      "onboard_time": 1735621941,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 255985,
@@ -539,12 +587,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 239159,
+      "num": 239159,
+      "word": "网红潘宏回应被请求打压狗肉馆",
+      "onboard_time": 1735621161,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 236728,
       "num": 429889,
       "word": "一条plog告别2024",
       "onboard_time": 1735615339,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233760,
+      "num": 233760,
+      "word": "薛飞3比1林高远",
+      "onboard_time": 1735620980,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 231043,
@@ -611,6 +675,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216652,
+      "num": 216652,
+      "word": "医生下班后的这个折返太帅了",
+      "onboard_time": 1735621161,
+      "rank": 32,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 215941,
+      "num": 215941,
+      "word": "大奉打更人团综",
+      "onboard_time": 1735621762,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213753,
       "num": 213753,
       "word": "河南广西2省区党委主要负责同志职务调整",
@@ -643,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205428,
+      "num": 205428,
+      "word": "白鹿 花仙子",
+      "onboard_time": 1735621461,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200095,
       "num": 200095,
       "word": "麦当劳奶昔回归",
@@ -665,6 +753,14 @@
       "onboard_time": 1735618580,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 198399,
+      "num": 198399,
+      "word": "肖战徐克2025祝福",
+      "onboard_time": 1735621822,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 196926,
@@ -691,12 +787,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193380,
-      "num": 193380,
-      "word": "被吐槽像棺材的地铁口已进行拆除",
-      "onboard_time": 1735619243,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 193229,
+      "num": 218861,
+      "word": "张远 好起来了和主演演起来了",
+      "onboard_time": 1735621641,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 192883,
@@ -705,6 +801,14 @@
       "onboard_time": 1735619720,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190338,
+      "num": 190338,
+      "word": "林诗栋3比1胜陈垣宇",
+      "onboard_time": 1735621583,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 190138,
@@ -721,14 +825,6 @@
       "onboard_time": 1735613118,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 187458,
-      "num": 187458,
-      "word": "银河酷娱",
-      "onboard_time": 1735619901,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 183973,
@@ -777,6 +873,22 @@
       "onboard_time": 1735616540,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173485,
+      "num": 173485,
+      "word": "王俊凯跨年翻唱让我一次爱个够",
+      "onboard_time": 1735622121,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 172785,
+      "num": 228977,
+      "word": "别人撩妹费钱 费翔新片撩妹费灯",
+      "onboard_time": 1735622242,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 172349,
@@ -851,6 +963,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 156708,
+      "num": 156708,
+      "word": "J人已经开始预制年终总结了",
+      "onboard_time": 1735622360,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155968,
       "num": 153994,
       "word": "跨年夜八台晚会你最期待哪个",
@@ -913,6 +1033,14 @@
       "onboard_time": 1735618702,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153656,
+      "num": 153656,
+      "word": "网红称去云南被当猪仔卖后致歉",
+      "onboard_time": 1735622301,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153318,
@@ -1403,6 +1531,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58041,
+      "num": 224339,
+      "word": "18元外卖包装费6元",
+      "onboard_time": 1735622061,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 57843,
+      "num": 341163,
+      "word": "女孩知自己非亲生仍打工给奶奶挣钱治病",
+      "onboard_time": 1735621941,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57309,
       "num": 57309,
       "word": "1月份十二星座注意事项",
@@ -1539,6 +1683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36752,
+      "num": 1214425,
+      "word": "国之重器为元旦送硬核礼物",
+      "onboard_time": 1735580533,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33514,
       "num": 416941,
       "word": "被AI视频渲染的汽车世界震撼到",
@@ -1576,14 +1728,6 @@
       "word": "健康是最想要的新年礼物",
       "onboard_time": 1735618641,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28520,
-      "num": 1214425,
-      "word": "国之重器为元旦送硬核礼物",
-      "onboard_time": 1735580533,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -1779,6 +1923,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 14221,
+      "num": 243340,
+      "word": "2024我的心里话",
+      "onboard_time": 1735620142,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 14090,
       "num": 51147,
       "word": "3分钟回顾美国前总统卡特一生",
@@ -1881,6 +2033,14 @@
       "onboard_time": 1735583413,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 6874,
+      "num": 158691,
+      "word": "白举纲吉他版你快乐所以我快乐",
+      "onboard_time": 1735621343,
+      "rank": 44,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
