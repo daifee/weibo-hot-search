@@ -1,6 +1,6 @@
 {
   "startTime": 1735576065390,
-  "endTime": 1735627430547,
+  "endTime": 1735629661368,
   "band_list": [
     {
       "raw_hot": 8867990,
@@ -17,6 +17,14 @@
       "onboard_time": 1735621401,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1824614,
+      "num": 1158313,
+      "word": "韩坠机事故遗体目前仍放在地上",
+      "onboard_time": 1735626621,
+      "rank": 8,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1781083,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 1446197,
-      "num": 782478,
+      "num": 1177234,
       "word": "张加帅",
       "onboard_time": 1735617860,
       "rank": 7,
@@ -99,20 +107,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1058938,
+      "num": 510358,
+      "word": "赵露思1岁到26岁的经历",
+      "onboard_time": 1735628539,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 995723,
       "num": 391456,
       "word": "同情赵露思患病并不可耻",
       "onboard_time": 1735566500,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 989462,
-      "num": 1158313,
-      "word": "韩坠机事故遗体目前仍放在地上",
-      "onboard_time": 1735626621,
-      "rank": 8,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 959865,
@@ -187,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 586065,
+      "num": 586065,
+      "word": "前乒乓球冠军称WTT需要致歉",
+      "onboard_time": 1735627999,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 568752,
       "num": 568752,
       "word": "赵露思1月到12月的变化",
@@ -219,8 +235,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 521300,
+      "num": 462804,
+      "word": "张颂文",
+      "onboard_time": 1735625838,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 504910,
-      "num": 264291,
+      "num": 375329,
       "word": "陈建州妹妹器官移植手术成功",
       "onboard_time": 1735625542,
       "rank": 30,
@@ -244,7 +268,7 @@
     },
     {
       "raw_hot": 492851,
-      "num": 221927,
+      "num": 239021,
       "word": "小米SU7",
       "onboard_time": 1735626200,
       "rank": 16,
@@ -257,6 +281,14 @@
       "onboard_time": 1735609998,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 481628,
+      "num": 366105,
+      "word": "A股",
+      "onboard_time": 1735614318,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 479289,
@@ -291,14 +323,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 444679,
-      "num": 444679,
-      "word": "张颂文",
-      "onboard_time": 1735625838,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 439582,
       "num": 432023,
       "word": "亲生父母弃养女儿多年后要20万养育费",
@@ -308,7 +332,7 @@
     },
     {
       "raw_hot": 439399,
-      "num": 341118,
+      "num": 423407,
       "word": "孟姐 你好娇啊",
       "onboard_time": 1735625061,
       "rank": 13,
@@ -337,6 +361,14 @@
       "onboard_time": 1735622481,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 424727,
+      "num": 424727,
+      "word": "加沙病人被迫只穿内裤徒步走3小时",
+      "onboard_time": 1735626020,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 423611,
@@ -417,14 +449,6 @@
       "onboard_time": 1735572619,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 369061,
-      "num": 366105,
-      "word": "A股",
-      "onboard_time": 1735614318,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 359031,
@@ -603,14 +627,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 275359,
-      "num": 275359,
-      "word": "加沙病人被迫只穿内裤徒步走3小时",
-      "onboard_time": 1735626020,
-      "rank": 21,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 273108,
       "num": 141811,
       "word": "大奉打更人热度",
@@ -707,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242693,
+      "num": 242693,
+      "word": "福宝转移至非展区静养",
+      "onboard_time": 1735627640,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 240971,
       "num": 240971,
       "word": "Hero久哲成为历史",
@@ -720,6 +744,14 @@
       "word": "网红潘宏回应被请求打压狗肉馆",
       "onboard_time": 1735621161,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 237363,
+      "num": 237363,
+      "word": "就这么水灵灵谈恋爱结婚了",
+      "onboard_time": 1735624520,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -785,14 +817,6 @@
       "onboard_time": 1735611499,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 220520,
-      "num": 205623,
-      "word": "就这么水灵灵谈恋爱结婚了",
-      "onboard_time": 1735624520,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 219171,
@@ -867,6 +891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202896,
+      "num": 202896,
+      "word": "尚雯婕参加复旦同学聚会",
+      "onboard_time": 1735627880,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200173,
       "num": 200173,
       "word": "孟子义新年开运红裙",
@@ -936,6 +968,14 @@
       "word": "王俊凯跨年彩排花絮",
       "onboard_time": 1735614437,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 194722,
+      "num": 194722,
+      "word": "王鹤棣穿好六惩罚衣跨年彩排",
+      "onboard_time": 1735627698,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -1011,6 +1051,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 183391,
+      "num": 183391,
+      "word": "王家卫拍了李李出家前的剧情",
+      "onboard_time": 1735626919,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183141,
       "num": 183141,
       "word": "浙江卫视跨年节目单",
@@ -1025,14 +1073,6 @@
       "onboard_time": 1735618580,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 179196,
-      "num": 179196,
-      "word": "王家卫拍了李李出家前的剧情",
-      "onboard_time": 1735626919,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 178246,
@@ -1243,12 +1283,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 152689,
+      "num": 152689,
+      "word": "小白花就要搭糙汉才有感觉",
+      "onboard_time": 1735627759,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 151513,
       "num": 151513,
       "word": "妻子谈蔡磊病情进展",
       "onboard_time": 1735610538,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148094,
+      "num": 148094,
+      "word": "龚俊换风格了",
+      "onboard_time": 1735629380,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 147849,
@@ -1427,6 +1483,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 121496,
+      "num": 121496,
+      "word": "花花心态乐观超越99%大熊猫",
+      "onboard_time": 1735628300,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121413,
       "num": 121413,
       "word": "男子钓到56斤鳡鱼绕城5小时炫耀",
@@ -1449,6 +1513,14 @@
       "onboard_time": 1735572439,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 117720,
+      "num": 117720,
+      "word": "陈都灵复古挂历女郎",
+      "onboard_time": 1735628118,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 116702,
@@ -1537,6 +1609,14 @@
       "onboard_time": 1735601536,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105264,
+      "num": 320442,
+      "word": "韩国官方回应机场跑道尽头有墙",
+      "onboard_time": 1735629078,
+      "rank": 13,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 103793,
@@ -1651,6 +1731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77228,
+      "num": 238539,
+      "word": "威少16分三双",
+      "onboard_time": 1735628899,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70324,
       "num": 258359,
       "word": "那一年我喜欢上了詹姆斯",
@@ -1705,6 +1793,14 @@
       "onboard_time": 1735601536,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 65901,
+      "num": 241424,
+      "word": "刘亦菲说每个女孩都是自己的榜样",
+      "onboard_time": 1735625542,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 65404,
@@ -1843,6 +1939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43471,
+      "num": 158326,
+      "word": "黄金为什么那么值钱",
+      "onboard_time": 1735626739,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 42598,
       "num": 350386,
       "word": "尹锡悦律师称逮捕令不合法",
@@ -1867,20 +1971,28 @@
       "category": "财经"
     },
     {
-      "raw_hot": 42455,
-      "num": 158326,
-      "word": "黄金为什么那么值钱",
-      "onboard_time": 1735626739,
-      "rank": 41,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 41838,
       "num": 258168,
       "word": "乒超总决赛男团今日赛程",
       "onboard_time": 1735618641,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40048,
+      "num": 313825,
+      "word": "元气满满奔赴下一程",
+      "onboard_time": 1735628419,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 39731,
+      "num": 242248,
+      "word": "果农称车厘子喂鸡视频非近期拍摄",
+      "onboard_time": 1735628659,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39459,
@@ -1947,6 +2059,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 32785,
+      "num": 423600,
+      "word": "起底虚标羊绒含量涉事公司",
+      "onboard_time": 1735628659,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30714,
       "num": 1472133,
       "word": "一组数据看中国空间站成绩单",
@@ -1956,7 +2076,7 @@
     },
     {
       "raw_hot": 30248,
-      "num": 204272,
+      "num": 268451,
       "word": "原神火神摇滚",
       "onboard_time": 1735626621,
       "rank": 48,
@@ -1985,14 +2105,6 @@
       "onboard_time": 1735618641,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28595,
-      "num": 204875,
-      "word": "刘亦菲说每个女孩都是自己的榜样",
-      "onboard_time": 1735625542,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 27646,

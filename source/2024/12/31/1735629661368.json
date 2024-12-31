@@ -1,0 +1,410 @@
+{
+  "runTime": 1735629661368,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1107717,
+        "num": 1177234,
+        "word": "张加帅",
+        "onboard_time": 1735617860,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 586065,
+        "num": 586065,
+        "word": "前乒乓球冠军称WTT需要致歉",
+        "onboard_time": 1735627999,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31689,
+        "num": 525792,
+        "word": "国之重器为元旦送硬核礼物",
+        "onboard_time": 1735580533,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1824614,
+        "num": 518147,
+        "word": "韩坠机事故遗体目前仍放在地上",
+        "onboard_time": 1735626621,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1058938,
+        "num": 510358,
+        "word": "赵露思1岁到26岁的经历",
+        "onboard_time": 1735628539,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501257,
+        "num": 501257,
+        "word": "今年车厘子价格为何断崖式下跌",
+        "onboard_time": 1735613479,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 750035,
+        "num": 474414,
+        "word": "湖南卫视跨年节目单",
+        "onboard_time": 1735624578,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 521300,
+        "num": 462804,
+        "word": "张颂文",
+        "onboard_time": 1735625838,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424727,
+        "num": 424727,
+        "word": "加沙病人被迫只穿内裤徒步走3小时",
+        "onboard_time": 1735626020,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 32785,
+        "num": 423600,
+        "word": "起底虚标羊绒含量涉事公司",
+        "onboard_time": 1735628659,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 425412,
+        "num": 423407,
+        "word": "孟姐 你好娇啊",
+        "onboard_time": 1735625061,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 423036,
+        "num": 423036,
+        "word": "D社不公布年度情侣",
+        "onboard_time": 1735624578,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375329,
+        "num": 375329,
+        "word": "陈建州妹妹器官移植手术成功",
+        "onboard_time": 1735625542,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105264,
+        "num": 320442,
+        "word": "韩国官方回应机场跑道尽头有墙",
+        "onboard_time": 1735629078,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 40048,
+        "num": 313825,
+        "word": "元气满满奔赴下一程",
+        "onboard_time": 1735628419,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307785,
+        "num": 307785,
+        "word": "许昕孩子假装给孙颖莎打电话",
+        "onboard_time": 1735622781,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23443,
+        "num": 268451,
+        "word": "原神火神摇滚",
+        "onboard_time": 1735626621,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 242693,
+        "num": 242693,
+        "word": "福宝转移至非展区静养",
+        "onboard_time": 1735627640,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39731,
+        "num": 242248,
+        "word": "果农称车厘子喂鸡视频非近期拍摄",
+        "onboard_time": 1735628659,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65901,
+        "num": 241424,
+        "word": "刘亦菲说每个女孩都是自己的榜样",
+        "onboard_time": 1735625542,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295876,
+        "num": 240931,
+        "word": "Angelababy瑞丽开年刊封面",
+        "onboard_time": 1735620802,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 3106347,
+        "num": 240445,
+        "word": "赵露思好友曝她曾被公司殴打",
+        "onboard_time": 1735617620,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481628,
+        "num": 239948,
+        "word": "A股",
+        "onboard_time": 1735614318,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 441219,
+        "num": 239021,
+        "word": "小米SU7",
+        "onboard_time": 1735626200,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 77228,
+        "num": 238539,
+        "word": "威少16分三双",
+        "onboard_time": 1735628899,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257987,
+        "num": 237958,
+        "word": "潘宏不反对吃狗肉",
+        "onboard_time": 1735613356,
+        "rank": 25,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 237363,
+        "num": 237363,
+        "word": "就这么水灵灵谈恋爱结婚了",
+        "onboard_time": 1735624520,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224198,
+        "num": 224198,
+        "word": "饿瘦和运动瘦的区别",
+        "onboard_time": 1735618641,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204169,
+        "num": 204169,
+        "word": "张加帅身高不够未能入镜",
+        "onboard_time": 1735622481,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202896,
+        "num": 202896,
+        "word": "尚雯婕参加复旦同学聚会",
+        "onboard_time": 1735627880,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194722,
+        "num": 194722,
+        "word": "王鹤棣穿好六惩罚衣跨年彩排",
+        "onboard_time": 1735627698,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183391,
+        "num": 183391,
+        "word": "王家卫拍了李李出家前的剧情",
+        "onboard_time": 1735626919,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178337,
+        "num": 178337,
+        "word": "2024升咖TOP4",
+        "onboard_time": 1735626799,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171144,
+        "num": 171144,
+        "word": "孟子义新年开运红裙",
+        "onboard_time": 1735627040,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165411,
+        "num": 165411,
+        "word": "医生下班后的这个折返太帅了",
+        "onboard_time": 1735621161,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 159971,
+        "num": 159971,
+        "word": "韩国法院批准尹锡悦逮捕令",
+        "onboard_time": 1735605019,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 157932,
+        "num": 157932,
+        "word": "2025跨年节目单",
+        "onboard_time": 1735613058,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152689,
+        "num": 152689,
+        "word": "小白花就要搭糙汉才有感觉",
+        "onboard_time": 1735627759,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152315,
+        "num": 152315,
+        "word": "肖战2024年中国年度演员金奖",
+        "onboard_time": 1735626141,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148094,
+        "num": 148094,
+        "word": "龚俊换风格了",
+        "onboard_time": 1735629380,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145556,
+        "num": 145556,
+        "word": "韩国空难机场跑道尽头为何有墙",
+        "onboard_time": 1735610118,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 143847,
+        "num": 143847,
+        "word": "白桃星座2025新年好运",
+        "onboard_time": 1735624520,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141606,
+        "num": 141606,
+        "word": "倪妮说好久没遇到过很喜欢的人了",
+        "onboard_time": 1735626621,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133530,
+        "num": 133530,
+        "word": "被吐槽像棺材的地铁口已进行拆除",
+        "onboard_time": 1735619243,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122399,
+        "num": 122399,
+        "word": "马龙彩排",
+        "onboard_time": 1735626020,
+        "rank": 44,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 122341,
+        "num": 122341,
+        "word": "周也一番",
+        "onboard_time": 1735621583,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121496,
+        "num": 121496,
+        "word": "花花心态乐观超越99%大熊猫",
+        "onboard_time": 1735628300,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117720,
+        "num": 117720,
+        "word": "陈都灵复古挂历女郎",
+        "onboard_time": 1735628118,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115213,
+        "num": 115213,
+        "word": "草莓价格上涨车厘子连降",
+        "onboard_time": 1735617080,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43471,
+        "num": 115191,
+        "word": "黄金为什么那么值钱",
+        "onboard_time": 1735626739,
+        "rank": 49,
+        "category": "科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系人民步履不停#"
+    }
+  }
+}
