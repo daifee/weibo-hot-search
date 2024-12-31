@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735687241035,
+  "endTime": 1735688126196,
   "band_list": [
     {
       "raw_hot": 10681189,
@@ -299,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 499122,
+      "num": 195232,
+      "word": "赵露思全国后援会发长文",
+      "onboard_time": 1735687934,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 485651,
       "num": 1061341,
       "word": "跨年烟花",
@@ -539,6 +547,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 209388,
+      "num": 209388,
+      "word": "马龙太帅了",
+      "onboard_time": 1735659686,
+      "rank": 13,
+      "category": "体育,综艺"
+    },
+    {
       "raw_hot": 209209,
       "num": 313471,
       "word": "让人民过上幸福生活是头等大事",
@@ -585,14 +601,6 @@
       "onboard_time": 1735665801,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 193077,
-      "num": 193077,
-      "word": "马龙太帅了",
-      "onboard_time": 1735659686,
-      "rank": 13,
-      "category": "体育,综艺"
     },
     {
       "raw_hot": 192579,
@@ -643,6 +651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172942,
+      "num": 172942,
+      "word": "肖战新年私信",
+      "onboard_time": 1735671015,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170524,
       "num": 316855,
       "word": "王楚钦3比1胜樊振东",
@@ -665,14 +681,6 @@
       "onboard_time": 1735668977,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168616,
-      "num": 168616,
-      "word": "肖战新年私信",
-      "onboard_time": 1735671015,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 165806,
@@ -811,20 +819,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86291,
+      "num": 86291,
+      "word": "王楚钦称樊振东是最优秀的选手",
+      "onboard_time": 1735686735,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 85296,
+      "num": 85296,
+      "word": "2024年的你也辛苦了",
+      "onboard_time": 1735641262,
+      "rank": 31,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 83774,
       "num": 644056,
       "word": "一起向2025出发",
       "onboard_time": 1735661546,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 81867,
-      "num": 81867,
-      "word": "2024年的你也辛苦了",
-      "onboard_time": 1735641262,
-      "rank": 31,
-      "category": "正能量"
     },
     {
       "raw_hot": 71830,
@@ -859,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64917,
+      "num": 64917,
+      "word": "祝大家所愿皆所成",
+      "onboard_time": 1735644560,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 63182,
       "num": 63182,
       "word": "2025新年新气象",
@@ -867,28 +891,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58906,
+      "num": 58906,
+      "word": "竹林四侠的新年祝福",
+      "onboard_time": 1735687514,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 58808,
       "num": 58808,
       "word": "汪苏泷跳了4遍女团舞",
       "onboard_time": 1735679951,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 54086,
-      "num": 54086,
-      "word": "祝大家所愿皆所成",
-      "onboard_time": 1735644560,
-      "rank": 48,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 51871,
-      "num": 51871,
-      "word": "王楚钦称樊振东是最优秀的选手",
-      "onboard_time": 1735686735,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 47108,
@@ -923,6 +939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 34527,
+      "num": 136463,
+      "word": "邓亚萍说王楚钦技战术十分灵动",
+      "onboard_time": 1735687695,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34379,
       "num": 319680,
       "word": "无畏祝大家25年都发财",
@@ -955,6 +979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21004,
+      "num": 150535,
+      "word": "樊振东发孤勇者歌词",
+      "onboard_time": 1735687274,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20375,
       "num": 131112,
       "word": "樊振东展望2025",
@@ -969,6 +1001,14 @@
       "onboard_time": 1735686433,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17724,
+      "num": 195507,
+      "word": "2024那些击中心趴的瞬间",
+      "onboard_time": 1735686914,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 17185,
@@ -1003,12 +1043,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12110,
-      "num": 195507,
-      "word": "2024那些击中心趴的瞬间",
-      "onboard_time": 1735686914,
-      "rank": 9,
-      "category": "正能量"
+      "raw_hot": 12190,
+      "num": 84954,
+      "word": "这些话温暖人心",
+      "onboard_time": 1735687634,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 11948,

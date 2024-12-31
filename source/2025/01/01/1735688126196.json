@@ -1,0 +1,410 @@
+{
+  "runTime": 1735688126196,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 634907,
+        "num": 896654,
+        "word": "新年快乐",
+        "onboard_time": 1735660407,
+        "rank": 0,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 449348,
+        "num": 449348,
+        "word": "醒醒 现在是千禧年",
+        "onboard_time": 1735661546,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26971,
+        "num": 421206,
+        "word": "总书记的这些话暖心鼓劲",
+        "onboard_time": 1735661427,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 537344,
+        "num": 418581,
+        "word": "王一博 安全扣没扣好",
+        "onboard_time": 1735659686,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22643,
+        "num": 412673,
+        "word": "我们从来都是在风雨洗礼中成长",
+        "onboard_time": 1735650388,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 408684,
+        "num": 408684,
+        "word": "棣欣引力",
+        "onboard_time": 1735667060,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346833,
+        "num": 346833,
+        "word": "跨年收视率",
+        "onboard_time": 1735661488,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227428,
+        "num": 227428,
+        "word": "李宇春连续20年零点压轴",
+        "onboard_time": 1735661967,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209388,
+        "num": 209388,
+        "word": "马龙太帅了",
+        "onboard_time": 1735659686,
+        "rank": 8,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 198115,
+        "num": 198115,
+        "word": "王力宏 复出",
+        "onboard_time": 1735663643,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 843469,
+        "num": 195589,
+        "word": "王玮晨向赵露思道歉",
+        "onboard_time": 1735665801,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 499122,
+        "num": 195232,
+        "word": "赵露思全国后援会发长文",
+        "onboard_time": 1735687934,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222161,
+        "num": 194779,
+        "word": "天经棣义",
+        "onboard_time": 1735668918,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192395,
+        "num": 192395,
+        "word": "苏醒被绑架到C位",
+        "onboard_time": 1735667418,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187165,
+        "num": 187165,
+        "word": "虞书欣丁禹兮林一手牵手蹦蹦跳跳",
+        "onboard_time": 1735673714,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182436,
+        "num": 182436,
+        "word": "跨年烟花",
+        "onboard_time": 1735662088,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172942,
+        "num": 172942,
+        "word": "肖战新年私信",
+        "onboard_time": 1735671015,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21004,
+        "num": 150535,
+        "word": "樊振东发孤勇者歌词",
+        "onboard_time": 1735687274,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149283,
+        "num": 149283,
+        "word": "何炅谢娜给我唱哭了",
+        "onboard_time": 1735662445,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17724,
+        "num": 146525,
+        "word": "2024那些击中心趴的瞬间",
+        "onboard_time": 1735686914,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 352664,
+        "num": 146512,
+        "word": "赵露思好友曝她曾被公司殴打",
+        "onboard_time": 1735617620,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344341,
+        "num": 146509,
+        "word": "赵露思 救救我",
+        "onboard_time": 1735633520,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146484,
+        "num": 146484,
+        "word": "2025新年签",
+        "onboard_time": 1735665801,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34527,
+        "num": 136463,
+        "word": "邓亚萍说王楚钦技战术十分灵动",
+        "onboard_time": 1735687695,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134953,
+        "num": 134953,
+        "word": "2025第1条微博",
+        "onboard_time": 1735663227,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119039,
+        "num": 119039,
+        "word": "虞书欣跨年甜辣风舞台",
+        "onboard_time": 1735649907,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110766,
+        "num": 110766,
+        "word": "禹宙中欣",
+        "onboard_time": 1735668077,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108365,
+        "num": 108365,
+        "word": "李昀锐有点紧张",
+        "onboard_time": 1735657828,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102781,
+        "num": 102781,
+        "word": "感觉上海外滩有一亿个人在跨年",
+        "onboard_time": 1735666820,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87382,
+        "num": 87382,
+        "word": "今天发条微博迎接2025",
+        "onboard_time": 1735663765,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145473,
+        "num": 87125,
+        "word": "陈哲远假唱忘记拿麦",
+        "onboard_time": 1735649307,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86291,
+        "num": 86291,
+        "word": "王楚钦称樊振东是最优秀的选手",
+        "onboard_time": 1735686735,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85296,
+        "num": 85296,
+        "word": "2024年的你也辛苦了",
+        "onboard_time": 1735641262,
+        "rank": 32,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 84974,
+        "num": 84974,
+        "word": "马龙王鹤棣打乒乓球",
+        "onboard_time": 1735659086,
+        "rank": 33,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 12190,
+        "num": 84954,
+        "word": "这些话温暖人心",
+        "onboard_time": 1735687634,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 84935,
+        "num": 84935,
+        "word": "何炅看王一博舞台哭了",
+        "onboard_time": 1735663047,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84329,
+        "num": 84329,
+        "word": "杨幂还是这么甜",
+        "onboard_time": 1735651649,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81373,
+        "num": 81373,
+        "word": "孟子义没跑调",
+        "onboard_time": 1735654770,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79666,
+        "num": 79666,
+        "word": "2025",
+        "onboard_time": 1735663525,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78561,
+        "num": 78561,
+        "word": "宋茜绝美endingpose",
+        "onboard_time": 1735654770,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77681,
+        "num": 77681,
+        "word": "2025好运来",
+        "onboard_time": 1735662807,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75536,
+        "num": 75536,
+        "word": "赵丽颖 想什么呢一起往前走啊",
+        "onboard_time": 1735667000,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73599,
+        "num": 73599,
+        "word": "假唱",
+        "onboard_time": 1735655966,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73110,
+        "num": 73110,
+        "word": "新年红包",
+        "onboard_time": 1735664063,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69774,
+        "num": 69774,
+        "word": "国色芳华定档",
+        "onboard_time": 1735665860,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67804,
+        "num": 67804,
+        "word": "你好我们的2025",
+        "onboard_time": 1735661005,
+        "rank": 45,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 67513,
+        "num": 67513,
+        "word": "黄子韬徐艺洋婚后首次同台",
+        "onboard_time": 1735665381,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64917,
+        "num": 64917,
+        "word": "祝大家所愿皆所成",
+        "onboard_time": 1735644560,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 62332,
+        "num": 62332,
+        "word": "2025正式开始",
+        "onboard_time": 1735663706,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58906,
+        "num": 58906,
+        "word": "竹林四侠的新年祝福",
+        "onboard_time": 1735687514,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025新年贺词#"
+    }
+  }
+}
