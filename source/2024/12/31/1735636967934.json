@@ -1,0 +1,410 @@
+{
+  "runTime": 1735636967934,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1798647,
+        "num": 1798647,
+        "word": "樊振东陈梦马龙正式退出世界排名",
+        "onboard_time": 1735633043,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8295124,
+        "num": 1642735,
+        "word": "赵露思 救救我",
+        "onboard_time": 1735633520,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57730,
+        "num": 1205513,
+        "word": "2024年终大盘点",
+        "onboard_time": 1735617199,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1012197,
+        "num": 1012197,
+        "word": "赵露思好友朱锐称霸凌的是前公司",
+        "onboard_time": 1735631240,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 789894,
+        "num": 789894,
+        "word": "韩1家9口遇难后家中仅剩1只狗",
+        "onboard_time": 1735630280,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 547505,
+        "num": 547505,
+        "word": "韩坠机事故遗体目前仍放在地上",
+        "onboard_time": 1735626621,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 546371,
+        "num": 546371,
+        "word": "韩国首都发生车辆冲击人群事件",
+        "onboard_time": 1735632319,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 440504,
+        "num": 440504,
+        "word": "戚薇穿了28年前古董高定",
+        "onboard_time": 1735632501,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417770,
+        "num": 417770,
+        "word": "湖南卫视跨年节目单",
+        "onboard_time": 1735624578,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222788,
+        "num": 370302,
+        "word": "首尔车辆冲撞人群事件已致10人受伤",
+        "onboard_time": 1735636523,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 365221,
+        "num": 365221,
+        "word": "乒协称将为马龙樊振东陈梦提供最大支持",
+        "onboard_time": 1735635381,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345270,
+        "num": 345270,
+        "word": "中国乒协公告",
+        "onboard_time": 1735635861,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310895,
+        "num": 343317,
+        "word": "博主发布白敬亭占春山言论被判不实",
+        "onboard_time": 1735635143,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341862,
+        "num": 341862,
+        "word": "恋与深空登顶",
+        "onboard_time": 1735633700,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 34850,
+        "num": 341031,
+        "word": "嫦娥六号年终总结",
+        "onboard_time": 1735636580,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 69560,
+        "num": 340147,
+        "word": "刘春和是易烊千玺工作量最大的角色",
+        "onboard_time": 1735630158,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 42175,
+        "num": 337946,
+        "word": "2024年哪只股票最赚钱",
+        "onboard_time": 1735636223,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 24993,
+        "num": 337545,
+        "word": "武大靖说明年见",
+        "onboard_time": 1735636223,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103268,
+        "num": 335682,
+        "word": "电信0元购机老人背上3年分期还款",
+        "onboard_time": 1735629919,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 62066,
+        "num": 334216,
+        "word": "曾黎 有些人永远看不到2025年的曙光",
+        "onboard_time": 1735636703,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2330439,
+        "num": 332803,
+        "word": "赵露思好友曝她曾被公司殴打",
+        "onboard_time": 1735617620,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331913,
+        "num": 331913,
+        "word": "张颂文",
+        "onboard_time": 1735625838,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326221,
+        "num": 326221,
+        "word": "恋与深空 二十抽",
+        "onboard_time": 1735635981,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 312155,
+        "num": 312155,
+        "word": "张加帅",
+        "onboard_time": 1735617860,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256676,
+        "num": 256676,
+        "word": "跨年文案",
+        "onboard_time": 1735636101,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 255253,
+        "num": 255253,
+        "word": "下水道捡到国家一级保护动物",
+        "onboard_time": 1735633280,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240704,
+        "num": 240704,
+        "word": "今年车厘子价格为何断崖式下跌",
+        "onboard_time": 1735613479,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 200433,
+        "num": 200433,
+        "word": "杨紫2024最后一天也在剧组",
+        "onboard_time": 1735636282,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186916,
+        "num": 192432,
+        "word": "吴宣仪海南辣妹回归",
+        "onboard_time": 1735635741,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180458,
+        "num": 189207,
+        "word": "丁禹兮新岁踏光",
+        "onboard_time": 1735636703,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188420,
+        "num": 188420,
+        "word": "乒协回应马龙樊振东陈梦退出世排",
+        "onboard_time": 1735634421,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185876,
+        "num": 185876,
+        "word": "国际乒联已就相关问题成立工作组",
+        "onboard_time": 1735635381,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171433,
+        "num": 171433,
+        "word": "韩国官方回应机场跑道尽头有墙",
+        "onboard_time": 1735629078,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 169609,
+        "num": 169609,
+        "word": "李一桐 不要叫我的名字",
+        "onboard_time": 1735635562,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169255,
+        "num": 169255,
+        "word": "跨年晚会彩排",
+        "onboard_time": 1735636400,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166502,
+        "num": 166502,
+        "word": "易烊千玺2024最后一天营业",
+        "onboard_time": 1735632080,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20231,
+        "num": 157270,
+        "word": "清明上河图密码剧情反转",
+        "onboard_time": 1735635021,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22526,
+        "num": 156936,
+        "word": "清明上河图密码台词含金量",
+        "onboard_time": 1735633043,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156924,
+        "num": 156924,
+        "word": "沪指全年涨12.67%",
+        "onboard_time": 1735636523,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 153266,
+        "num": 153266,
+        "word": "小米SU7",
+        "onboard_time": 1735626200,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 145726,
+        "num": 145726,
+        "word": "大奉打更人当着老婆表白大姨子",
+        "onboard_time": 1735634960,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145070,
+        "num": 145070,
+        "word": "最近的车厘子几乎一天一个价",
+        "onboard_time": 1735633820,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 143022,
+        "num": 143022,
+        "word": "张峻豪张艺凡彩排",
+        "onboard_time": 1735634600,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132600,
+        "num": 132600,
+        "word": "独子贷款买房后去世母亲要求退还首付",
+        "onboard_time": 1735636821,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131870,
+        "num": 131870,
+        "word": "感谢每一个不平凡的你",
+        "onboard_time": 1735634300,
+        "rank": 44,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 110839,
+        "num": 131757,
+        "word": "2025新年新气象",
+        "onboard_time": 1735636342,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131693,
+        "num": 131693,
+        "word": "孟姐 你好娇啊",
+        "onboard_time": 1735625061,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131261,
+        "num": 131261,
+        "word": "韩坠机遇难者父亲写了一夜的信",
+        "onboard_time": 1735631420,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 131041,
+        "num": 131041,
+        "word": "美国机场两架飞机险相撞",
+        "onboard_time": 1735634541,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 129870,
+        "num": 129870,
+        "word": "王楚钦2025第1周继续霸榜世一",
+        "onboard_time": 1735635322,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025新年贺词#"
+    }
+  }
+}
