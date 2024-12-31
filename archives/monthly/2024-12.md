@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/12/01 00:27:16 ~ 2024/12/31 18:40:00
+本榜单时间：2024/12/01 00:27:16 ~ 2024/12/31 19:18:33
 </p>
 </blockquote>
 <p>
@@ -347,6 +347,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%B8%E5%AD%98%E9%9F%A9%E5%9B%BD%E4%B9%98%E5%8A%A1%E5%91%98%E5%9B%9E%E5%BF%86%E7%A9%BA%E9%9A%BE%23" target="weibo">
 幸存韩国乘务员回忆空难（热度：3563685）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232025%E5%B9%B4%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%23" target="weibo">
+2025年新年贺词（热度：3518470）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ icon怒喷麦琳（热度：853412）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E8%AF%B4%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E4%B8%8D%E5%AE%B9%E6%98%93%23" target="weibo">
 张继科说王楚钦孙颖莎不容易（热度：850699）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A44%E4%B8%AA%E6%9C%88%E5%90%8E%E7%8B%82%E7%8A%AC%E7%97%85%E5%8F%91%E6%AD%BB%E4%BA%A1%23" target="weibo">
-男子被狗咬伤4个月后狂犬病发死亡（热度：850215）
 </a>
 </li>
 

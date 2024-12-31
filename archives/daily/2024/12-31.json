@@ -1,6 +1,6 @@
 {
   "startTime": 1735576065390,
-  "endTime": 1735641600742,
+  "endTime": 1735643913644,
   "band_list": [
     {
       "raw_hot": 8867990,
@@ -17,6 +17,14 @@
       "onboard_time": 1735633520,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3518470,
+      "num": 4036941,
+      "word": "2025年新年贺词",
+      "onboard_time": 1735642642,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2058211,
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 767271,
-      "num": 322650,
+      "num": 413905,
       "word": "常州一党委书记被曝群内发不雅内容",
       "onboard_time": 1735639700,
       "rank": 13,
@@ -248,6 +256,14 @@
       "word": "地铁公司回应地铁口被吐槽像棺材",
       "onboard_time": 1735610660,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 684473,
+      "num": 556271,
+      "word": "乒协称同意三人退出世界排名",
+      "onboard_time": 1735640780,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -289,6 +305,14 @@
       "onboard_time": 1735555639,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 567735,
+      "num": 567735,
+      "word": "樊振东vs王楚钦",
+      "onboard_time": 1735641680,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 557034,
@@ -396,7 +420,7 @@
     },
     {
       "raw_hot": 467006,
-      "num": 467006,
+      "num": 513921,
       "word": "博主发布白敬亭占春山言论被判不实",
       "onboard_time": 1735635143,
       "rank": 12,
@@ -603,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 367275,
+      "num": 367275,
+      "word": "有银行高管补发近270万元工资",
+      "onboard_time": 1735640662,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 359031,
       "num": 359031,
       "word": "雷军千万年薪聘用的95后女生履历",
@@ -649,6 +681,14 @@
       "onboard_time": 1735610418,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 336778,
+      "num": 336778,
+      "word": "刘国梁说樊振东陈梦可用外卡参赛",
+      "onboard_time": 1735641201,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 335321,
@@ -779,12 +819,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 290404,
-      "num": 290404,
-      "word": "乒协称同意三人退出世界排名",
-      "onboard_time": 1735640780,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 286971,
+      "num": 484080,
+      "word": "李昀锐跨年晚会造型出图",
+      "onboard_time": 1735640481,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 284403,
@@ -796,7 +836,7 @@
     },
     {
       "raw_hot": 282828,
-      "num": 353797,
+      "num": 471600,
       "word": "小孩哥捡110元被赠120元礼物",
       "onboard_time": 1735637062,
       "rank": 8,
@@ -939,14 +979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 251189,
-      "num": 251189,
-      "word": "李昀锐跨年晚会造型出图",
-      "onboard_time": 1735640481,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 250880,
       "num": 251044,
       "word": "射雕人物海报",
@@ -1001,14 +1033,6 @@
       "onboard_time": 1735615339,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 234017,
-      "num": 204058,
-      "word": "有银行高管补发近270万元工资",
-      "onboard_time": 1735640662,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 233760,
@@ -1123,6 +1147,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 213893,
+      "num": 213893,
+      "word": "九重紫浙江卫视即将播出",
+      "onboard_time": 1735643121,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213753,
       "num": 213753,
       "word": "河南广西2省区党委主要负责同志职务调整",
@@ -1169,6 +1201,14 @@
       "onboard_time": 1735632080,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205710,
+      "num": 205710,
+      "word": "2024年的你也辛苦了",
+      "onboard_time": 1735641262,
+      "rank": 33,
+      "category": "正能量"
     },
     {
       "raw_hot": 205428,
@@ -1251,6 +1291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 198605,
+      "num": 198605,
+      "word": "红白歌会",
+      "onboard_time": 1735643480,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198573,
       "num": 198573,
       "word": "低成本养气血的8种方法",
@@ -1307,20 +1355,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196336,
+      "num": 196336,
+      "word": "跨年晚会彩排",
+      "onboard_time": 1735636400,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194722,
       "num": 194722,
       "word": "王鹤棣穿好六惩罚衣跨年彩排",
       "onboard_time": 1735627698,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194106,
-      "num": 194106,
-      "word": "2024年的你也辛苦了",
-      "onboard_time": 1735641262,
-      "rank": 33,
-      "category": "正能量"
     },
     {
       "raw_hot": 193229,
@@ -1353,6 +1401,14 @@
       "onboard_time": 1735624520,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 191027,
+      "num": 187707,
+      "word": "马龙累计64个月排名世界第一",
+      "onboard_time": 1735643239,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 191008,
@@ -1401,6 +1457,14 @@
       "onboard_time": 1735630341,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 189640,
+      "num": 189640,
+      "word": "王一博新歌我在首舞台",
+      "onboard_time": 1735643000,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 189394,
@@ -1523,6 +1587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181593,
+      "num": 181593,
+      "word": "年轻人连跨年朋友圈都是预制的",
+      "onboard_time": 1735642642,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179720,
       "num": 179720,
       "word": "王一博的2025新年祝福",
@@ -1569,14 +1641,6 @@
       "onboard_time": 1735622121,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 173174,
-      "num": 173174,
-      "word": "刘国梁说樊振东陈梦可用外卡参赛",
-      "onboard_time": 1735641201,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 172785,
@@ -1641,14 +1705,6 @@
       "onboard_time": 1735619959,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 169255,
-      "num": 169255,
-      "word": "跨年晚会彩排",
-      "onboard_time": 1735636400,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 168952,
@@ -1739,6 +1795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161119,
+      "num": 161119,
+      "word": "江苏卫视跨年",
+      "onboard_time": 1735643841,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160822,
       "num": 160822,
       "word": "特朗普被判赔偿500万美元",
@@ -1748,7 +1812,7 @@
     },
     {
       "raw_hot": 160255,
-      "num": 160255,
+      "num": 207417,
       "word": "WTT世界排名已删除樊振东",
       "onboard_time": 1735640481,
       "rank": 48,
@@ -1867,6 +1931,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 152705,
+      "num": 146494,
+      "word": "丁禹兮贵族王子",
+      "onboard_time": 1735643480,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152689,
       "num": 152689,
       "word": "小白花就要搭糙汉才有感觉",
@@ -1883,11 +1955,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150917,
+      "num": 150917,
+      "word": "田曦薇姜贞羽大奉女团出道",
+      "onboard_time": 1735643121,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150732,
       "num": 150732,
       "word": "李一桐 粉红玛丽猫",
       "onboard_time": 1735634360,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 148455,
+      "num": 145992,
+      "word": "虞书欣浪花澎湃",
+      "onboard_time": 1735643420,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -1905,6 +1993,14 @@
       "onboard_time": 1735630341,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147215,
+      "num": 328275,
+      "word": "2025爱你爱我",
+      "onboard_time": 1735640780,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 146294,
@@ -1929,6 +2025,14 @@
       "onboard_time": 1735634960,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144616,
+      "num": 144616,
+      "word": "央视跨年晚会节目单",
+      "onboard_time": 1735643721,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 143708,
@@ -2019,12 +2123,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 137568,
+      "num": 137568,
+      "word": "浙江卫视跨年晚会",
+      "onboard_time": 1735643841,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136913,
       "num": 136913,
       "word": "恋与深空维护",
       "onboard_time": 1735605679,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 135952,
+      "num": 135952,
+      "word": "2025东方卫视跨年节目单",
+      "onboard_time": 1735642040,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 135797,
@@ -2243,14 +2363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 109480,
-      "num": 328275,
-      "word": "2025爱你爱我",
-      "onboard_time": 1735640780,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 109240,
       "num": 109240,
       "word": "国际乒联连续三年亏损运营",
@@ -2281,6 +2393,14 @@
       "onboard_time": 1735601536,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104499,
+      "num": 338184,
+      "word": "手握女子照片烈士DNA鉴定完成",
+      "onboard_time": 1735643180,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103793,
@@ -2401,6 +2521,14 @@
       "onboard_time": 1735564221,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 81383,
+      "num": 428354,
+      "word": "许昕周恺vs林昀儒梁靖崑",
+      "onboard_time": 1735641621,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 80154,
@@ -2675,6 +2803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49555,
+      "num": 213856,
+      "word": "有俄罗斯商品馆货架标签已注明产地",
+      "onboard_time": 1735643360,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47566,
       "num": 47566,
       "word": "2024你追过哪些国产影视",
@@ -2857,6 +2993,14 @@
       "onboard_time": 1735626739,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35626,
+      "num": 149206,
+      "word": "理想汽车年交付50万辆",
+      "onboard_time": 1735643121,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 35329,
@@ -3043,6 +3187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 24984,
+      "num": 276661,
+      "word": "先人一步到底有多快乐",
+      "onboard_time": 1735641262,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24916,
       "num": 266061,
       "word": "今年来近200家中小银行注销",
@@ -3081,14 +3233,6 @@
       "onboard_time": 1735637121,
       "rank": 28,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 23465,
-      "num": 164230,
-      "word": "先人一步到底有多快乐",
-      "onboard_time": 1735641262,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23358,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1735643913644,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3518470,
+        "num": 4036941,
+        "word": "2025年新年贺词",
+        "onboard_time": 1735642642,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 726688,
+        "num": 726688,
+        "word": "跨年文案",
+        "onboard_time": 1735636101,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 48154,
+        "num": 684544,
+        "word": "2024年终大盘点",
+        "onboard_time": 1735617199,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 683098,
+        "num": 683098,
+        "word": "湖南卫视跨年节目单",
+        "onboard_time": 1735624578,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 567735,
+        "num": 567735,
+        "word": "樊振东vs王楚钦",
+        "onboard_time": 1735641680,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 684473,
+        "num": 556271,
+        "word": "乒协称同意三人退出世界排名",
+        "onboard_time": 1735640780,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342407,
+        "num": 513921,
+        "word": "博主发布白敬亭占春山言论被判不实",
+        "onboard_time": 1735635143,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286971,
+        "num": 484080,
+        "word": "李昀锐跨年晚会造型出图",
+        "onboard_time": 1735640481,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198423,
+        "num": 471600,
+        "word": "小孩哥捡110元被赠120元礼物",
+        "onboard_time": 1735637062,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81383,
+        "num": 428354,
+        "word": "许昕周恺vs林昀儒梁靖崑",
+        "onboard_time": 1735641621,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 667419,
+        "num": 413905,
+        "word": "常州一党委书记被曝群内发不雅内容",
+        "onboard_time": 1735639700,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397719,
+        "num": 397719,
+        "word": "中国乒协公告",
+        "onboard_time": 1735635861,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 367275,
+        "num": 367275,
+        "word": "有银行高管补发近270万元工资",
+        "onboard_time": 1735640662,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 343683,
+        "num": 343683,
+        "word": "刘国梁称支持运动员捍卫权利",
+        "onboard_time": 1735640240,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104499,
+        "num": 338184,
+        "word": "手握女子照片烈士DNA鉴定完成",
+        "onboard_time": 1735643180,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336778,
+        "num": 336778,
+        "word": "刘国梁说樊振东陈梦可用外卡参赛",
+        "onboard_time": 1735641201,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24984,
+        "num": 276661,
+        "word": "先人一步到底有多快乐",
+        "onboard_time": 1735641262,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257738,
+        "num": 257738,
+        "word": "独子贷款买房后去世母亲要求退还首付",
+        "onboard_time": 1735636821,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213893,
+        "num": 213893,
+        "word": "九重紫浙江卫视即将播出",
+        "onboard_time": 1735643121,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49555,
+        "num": 213856,
+        "word": "有俄罗斯商品馆货架标签已注明产地",
+        "onboard_time": 1735643360,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3301850,
+        "num": 211848,
+        "word": "赵露思 救救我",
+        "onboard_time": 1735633520,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304200,
+        "num": 211342,
+        "word": "虞书欣湖南跨年晚会造型",
+        "onboard_time": 1735638680,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1361866,
+        "num": 210013,
+        "word": "赵露思好友曝她曾被公司殴打",
+        "onboard_time": 1735617620,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 751461,
+        "num": 208898,
+        "word": "偶遇许嵩冯禧挽手逛街",
+        "onboard_time": 1735637301,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150896,
+        "num": 207417,
+        "word": "WTT世界排名已删除樊振东",
+        "onboard_time": 1735640481,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216367,
+        "num": 206274,
+        "word": "2025跨年节目单",
+        "onboard_time": 1735613058,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205710,
+        "num": 205710,
+        "word": "2024年的你也辛苦了",
+        "onboard_time": 1735641262,
+        "rank": 26,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 198605,
+        "num": 198605,
+        "word": "红白歌会",
+        "onboard_time": 1735643480,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196336,
+        "num": 196336,
+        "word": "跨年晚会彩排",
+        "onboard_time": 1735636400,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189640,
+        "num": 189640,
+        "word": "王一博新歌我在首舞台",
+        "onboard_time": 1735643000,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 459229,
+        "num": 188011,
+        "word": "赵露思好友朱锐称霸凌的是前公司",
+        "onboard_time": 1735631240,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191027,
+        "num": 187707,
+        "word": "马龙累计64个月排名世界第一",
+        "onboard_time": 1735643239,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181593,
+        "num": 181593,
+        "word": "年轻人连跨年朋友圈都是预制的",
+        "onboard_time": 1735642642,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161119,
+        "num": 161119,
+        "word": "江苏卫视跨年",
+        "onboard_time": 1735643841,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160725,
+        "num": 160725,
+        "word": "最近的车厘子几乎一天一个价",
+        "onboard_time": 1735633820,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 158041,
+        "num": 158041,
+        "word": "丁禹兮国风拖尾披风造型",
+        "onboard_time": 1735640420,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150917,
+        "num": 150917,
+        "word": "田曦薇姜贞羽大奉女团出道",
+        "onboard_time": 1735643121,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150204,
+        "num": 150204,
+        "word": "小米最可爱的员工走失",
+        "onboard_time": 1735637960,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 35626,
+        "num": 149206,
+        "word": "理想汽车年交付50万辆",
+        "onboard_time": 1735643121,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 148764,
+        "num": 148764,
+        "word": "银河酷娱旗下艺人",
+        "onboard_time": 1735639520,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147215,
+        "num": 147215,
+        "word": "2025爱你爱我",
+        "onboard_time": 1735640780,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 152705,
+        "num": 146494,
+        "word": "丁禹兮贵族王子",
+        "onboard_time": 1735643480,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148455,
+        "num": 145992,
+        "word": "虞书欣浪花澎湃",
+        "onboard_time": 1735643420,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145118,
+        "num": 145118,
+        "word": "杨紫2024最后一天也在剧组",
+        "onboard_time": 1735636282,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144661,
+        "num": 144661,
+        "word": "张艺兴 谁喊我",
+        "onboard_time": 1735640181,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144616,
+        "num": 144616,
+        "word": "央视跨年晚会节目单",
+        "onboard_time": 1735643721,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137568,
+        "num": 137568,
+        "word": "浙江卫视跨年晚会",
+        "onboard_time": 1735643841,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135952,
+        "num": 135952,
+        "word": "2025东方卫视跨年节目单",
+        "onboard_time": 1735642040,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134495,
+        "num": 134495,
+        "word": "曾黎 平凡却又相信美好",
+        "onboard_time": 1735636703,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128058,
+        "num": 128058,
+        "word": "恋与深空登顶",
+        "onboard_time": 1735633700,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全国各族人民致以新年美好祝福#"
+    }
+  }
+}
