@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735680929000,
+  "endTime": 1735683645692,
   "band_list": [
     {
       "raw_hot": 10681189,
@@ -891,6 +891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 27855,
+      "num": 34544,
+      "word": "陈楚生 光之翼",
+      "onboard_time": 1735683073,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 20375,
       "num": 131112,
       "word": "樊振东展望2025",
@@ -921,6 +929,22 @@
       "onboard_time": 1735676172,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11948,
+      "num": 61379,
+      "word": "古人留下了可千百年不褪色的永生花",
+      "onboard_time": 1735682052,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11800,
+      "num": 60247,
+      "word": "中国式现代化新征程每一个人都是主角",
+      "onboard_time": 1735683432,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 11754,
