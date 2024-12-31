@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735609311668,
+  "endTime": 1735610300803,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -579,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 959865,
+      "num": 1153578,
+      "word": "烫伤出生2天婴儿护士停岗",
+      "onboard_time": 1735604778,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 950706,
       "num": 950706,
       "word": "短剧演员片酬",
@@ -843,14 +851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 694305,
-      "num": 694305,
-      "word": "烫伤出生2天婴儿护士停岗",
-      "onboard_time": 1735604778,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 693424,
       "num": 693424,
       "word": "网友抱怨哈尔滨200多元酒店涨至2000多",
@@ -1028,7 +1028,7 @@
     },
     {
       "raw_hot": 607756,
-      "num": 355806,
+      "num": 568752,
       "word": "赵露思1月到12月的变化",
       "onboard_time": 1735555639,
       "rank": 21,
@@ -1451,6 +1451,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 449122,
+      "num": 449122,
+      "word": "韩国公开更多空难细节",
+      "onboard_time": 1735604478,
+      "rank": 11,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 446007,
       "num": 446007,
       "word": "加拿大一飞机着陆滑行时起火",
@@ -1819,14 +1827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 365552,
-      "num": 365552,
-      "word": "韩国公开更多空难细节",
-      "onboard_time": 1735604478,
-      "rank": 11,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 364126,
       "num": 364126,
       "word": "杜江霍思燕带娃和狗看帕丁顿熊",
@@ -1857,6 +1857,14 @@
       "onboard_time": 1735535302,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 355456,
+      "num": 355456,
+      "word": "广州花地湾地铁站龙虾造型引热议",
+      "onboard_time": 1735607419,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 353747,
@@ -2115,6 +2123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 314016,
+      "num": 314016,
+      "word": "甄子丹父子误判中真不是演的",
+      "onboard_time": 1735607538,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 313203,
       "num": 313203,
       "word": "宋旻浩和女友约会",
@@ -2129,14 +2145,6 @@
       "onboard_time": 1735439058,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 312428,
-      "num": 312428,
-      "word": "甄子丹父子误判中真不是演的",
-      "onboard_time": 1735607538,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 311552,
@@ -2403,6 +2411,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 280933,
+      "num": 280933,
+      "word": "加沙出生仅21天双胞胎冻死",
+      "onboard_time": 1735609038,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 280824,
       "num": 280824,
       "word": "湖人篮网交易",
@@ -2555,14 +2571,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 264186,
-      "num": 264186,
-      "word": "广州花地湾地铁站龙虾造型引热议",
-      "onboard_time": 1735607419,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 263657,
       "num": 274316,
       "word": "王嘉尔 不爱看别看",
@@ -2675,6 +2683,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 254800,
+      "num": 254800,
+      "word": "恋与深空",
+      "onboard_time": 1735442481,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 254487,
       "num": 254487,
       "word": "多国政要悼念卡特",
@@ -2705,6 +2721,14 @@
       "onboard_time": 1735525759,
       "rank": 33,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 251217,
+      "num": 251217,
+      "word": "刘诗诗一月进组",
+      "onboard_time": 1735609998,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 250034,
@@ -2995,14 +3019,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 224303,
-      "num": 224303,
-      "word": "恋与深空",
-      "onboard_time": 1735442481,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 221395,
       "num": 470238,
       "word": "全红婵点赞陈梦退出世排博文",
@@ -3065,6 +3081,14 @@
       "onboard_time": 1735456100,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 218382,
+      "num": 218382,
+      "word": "去爬山结果自己成了景点",
+      "onboard_time": 1735600756,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 217558,
@@ -3211,6 +3235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 209226,
+      "num": 249995,
+      "word": "蔡磊仍在倔强发声",
+      "onboard_time": 1735608258,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209189,
       "num": 209189,
       "word": "陈意涵大奉出场镜头",
@@ -3329,6 +3361,14 @@
       "onboard_time": 1735477702,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205885,
+      "num": 222889,
+      "word": "王楚钦今日或再战樊振东",
+      "onboard_time": 1735608559,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 205788,
@@ -3651,14 +3691,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 194341,
-      "num": 194341,
-      "word": "去爬山结果自己成了景点",
-      "onboard_time": 1735600756,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 194236,
       "num": 177948,
       "word": "王鹤棣演唱会上座率",
@@ -3681,14 +3713,6 @@
       "onboard_time": 1735402700,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 193376,
-      "num": 193376,
-      "word": "王楚钦今日或再战樊振东",
-      "onboard_time": 1735608559,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 193069,
@@ -4427,12 +4451,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 166271,
+      "num": 210359,
+      "word": "外来媳妇本地郎要从第一集重播了",
+      "onboard_time": 1735609577,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166097,
       "num": 166097,
       "word": "现在的滑雪已经进化成这样了吗",
       "onboard_time": 1735454360,
       "rank": 36,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 165934,
+      "num": 209408,
+      "word": "年度歌单",
+      "onboard_time": 1735608859,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 165918,
@@ -4667,14 +4707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 158761,
-      "num": 249995,
-      "word": "蔡磊仍在倔强发声",
-      "onboard_time": 1735608258,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157900,
       "num": 157900,
       "word": "李雪琴王皓 邪门但好嗑",
@@ -4697,6 +4729,14 @@
       "onboard_time": 1735452140,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157611,
+      "num": 157611,
+      "word": "WTT",
+      "onboard_time": 1735609998,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 157153,
@@ -4771,6 +4811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 154768,
+      "num": 154768,
+      "word": "跨年演唱会",
+      "onboard_time": 1735609518,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154623,
       "num": 154623,
       "word": "Faker力挺Peanut",
@@ -4809,6 +4857,14 @@
       "onboard_time": 1735562599,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 153318,
+      "num": 226735,
+      "word": "詹姆斯说一旦退役就不会再复出",
+      "onboard_time": 1735608977,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 152943,
@@ -5097,14 +5153,6 @@
       "onboard_time": 1735467979,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 143036,
-      "num": 143036,
-      "word": "加沙出生仅21天双胞胎冻死",
-      "onboard_time": 1735609038,
-      "rank": 35,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 142985,
@@ -5451,6 +5499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130272,
+      "num": 130272,
+      "word": "张艺兴开天MV",
+      "onboard_time": 1735609137,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 129966,
       "num": 640241,
       "word": "点外卖监视女友行踪违法吗",
@@ -5795,28 +5851,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 114970,
-      "num": 114970,
-      "word": "年度歌单",
-      "onboard_time": 1735608859,
-      "rank": 44,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 114694,
       "num": 146270,
       "word": "耳帝评2024华语100首最佳",
       "onboard_time": 1735404197,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 113973,
-      "num": 226735,
-      "word": "詹姆斯说一旦退役就不会再复出",
-      "onboard_time": 1735608977,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 113491,
@@ -5931,14 +5971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 108483,
-      "num": 108483,
-      "word": "张艺兴开天MV",
-      "onboard_time": 1735609137,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 107990,
       "num": 107990,
       "word": "韩客机遇难者家属哭诉只希望他们活着",
@@ -5961,6 +5993,14 @@
       "onboard_time": 1735428554,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106611,
+      "num": 106611,
+      "word": "加沙父亲2天失去2个孩子",
+      "onboard_time": 1735609698,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 105383,
@@ -7587,6 +7627,14 @@
       "category": "综艺,汽车"
     },
     {
+      "raw_hot": 25969,
+      "num": 453708,
+      "word": "韩国空难机场跑道尽头为何有墙",
+      "onboard_time": 1735610118,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 25807,
       "num": 28203,
       "word": "成毅出发湖南跨年",
@@ -7604,7 +7652,7 @@
     },
     {
       "raw_hot": 25661,
-      "num": 722897,
+      "num": 727235,
       "word": "一组数据看中国空间站成绩单",
       "onboard_time": 1735563560,
       "rank": 2,

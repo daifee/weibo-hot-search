@@ -1,6 +1,6 @@
 {
   "startTime": 1735576065390,
-  "endTime": 1735609311668,
+  "endTime": 1735610300803,
   "band_list": [
     {
       "raw_hot": 1781083,
@@ -43,19 +43,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 959865,
+      "num": 1153578,
+      "word": "烫伤出生2天婴儿护士停岗",
+      "onboard_time": 1735604778,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 821465,
       "num": 926503,
       "word": "缅北明家靠诈骗过奢靡生活",
       "onboard_time": 1735574239,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 694305,
-      "num": 694305,
-      "word": "烫伤出生2天婴儿护士停岗",
-      "onboard_time": 1735604778,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -75,6 +75,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 568752,
+      "num": 568752,
+      "word": "赵露思1月到12月的变化",
+      "onboard_time": 1735555639,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 529888,
       "num": 529888,
       "word": "本周上四休三不调休",
@@ -89,6 +97,14 @@
       "onboard_time": 1735606700,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 449122,
+      "num": 449122,
+      "word": "韩国公开更多空难细节",
+      "onboard_time": 1735604478,
+      "rank": 11,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 413393,
@@ -131,28 +147,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 365552,
-      "num": 365552,
-      "word": "韩国公开更多空难细节",
-      "onboard_time": 1735604478,
-      "rank": 11,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 360967,
-      "num": 355806,
-      "word": "赵露思1月到12月的变化",
-      "onboard_time": 1735555639,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 359031,
       "num": 359031,
       "word": "雷军千万年薪聘用的95后女生履历",
       "onboard_time": 1735562780,
       "rank": 16,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 355456,
+      "num": 355456,
+      "word": "广州花地湾地铁站龙虾造型引热议",
+      "onboard_time": 1735607419,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 353658,
@@ -179,8 +187,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 312428,
-      "num": 312428,
+      "raw_hot": 314016,
+      "num": 314016,
       "word": "甄子丹父子误判中真不是演的",
       "onboard_time": 1735607538,
       "rank": 14,
@@ -227,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 280933,
+      "num": 280933,
+      "word": "加沙出生仅21天双胞胎冻死",
+      "onboard_time": 1735609038,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 280729,
       "num": 280729,
       "word": "韩失事客机飞行员3次发出求救信号",
@@ -251,20 +267,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 264186,
-      "num": 264186,
-      "word": "广州花地湾地铁站龙虾造型引热议",
-      "onboard_time": 1735607419,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 258406,
       "num": 258406,
       "word": "2025春运",
       "onboard_time": 1735606099,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254800,
+      "num": 254800,
+      "word": "恋与深空",
+      "onboard_time": 1735601536,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 251217,
+      "num": 251217,
+      "word": "刘诗诗一月进组",
+      "onboard_time": 1735609998,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 231043,
@@ -291,12 +315,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 224303,
-      "num": 224303,
-      "word": "恋与深空",
-      "onboard_time": 1735601536,
-      "rank": 18,
-      "category": "游戏"
+      "raw_hot": 218382,
+      "num": 218382,
+      "word": "去爬山结果自己成了景点",
+      "onboard_time": 1735600756,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 217558,
@@ -305,6 +329,22 @@
       "onboard_time": 1735573879,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 209226,
+      "num": 249995,
+      "word": "蔡磊仍在倔强发声",
+      "onboard_time": 1735608258,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205885,
+      "num": 222889,
+      "word": "王楚钦今日或再战樊振东",
+      "onboard_time": 1735608559,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 200095,
@@ -323,22 +363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 194341,
-      "num": 194341,
-      "word": "去爬山结果自己成了景点",
-      "onboard_time": 1735600756,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 193376,
-      "num": 193376,
-      "word": "王楚钦今日或再战樊振东",
-      "onboard_time": 1735608559,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 178246,
       "num": 136305,
       "word": "虞书欣明晚见",
@@ -347,12 +371,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158761,
-      "num": 249995,
-      "word": "蔡磊仍在倔强发声",
-      "onboard_time": 1735608258,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 166271,
+      "num": 210359,
+      "word": "外来媳妇本地郎要从第一集重播了",
+      "onboard_time": 1735609577,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 165934,
+      "num": 209408,
+      "word": "年度歌单",
+      "onboard_time": 1735608859,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 157611,
+      "num": 157611,
+      "word": "WTT",
+      "onboard_time": 1735609998,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 155489,
@@ -363,12 +403,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154768,
+      "num": 154768,
+      "word": "跨年演唱会",
+      "onboard_time": 1735609518,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154465,
       "num": 154465,
       "word": "法拉第未来涨近80%",
       "onboard_time": 1735605319,
       "rank": 32,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 153318,
+      "num": 226735,
+      "word": "詹姆斯说一旦退役就不会再复出",
+      "onboard_time": 1735608977,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 152943,
@@ -393,14 +449,6 @@
       "onboard_time": 1735608378,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143036,
-      "num": 143036,
-      "word": "加沙出生仅21天双胞胎冻死",
-      "onboard_time": 1735609038,
-      "rank": 35,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 142727,
@@ -449,6 +497,14 @@
       "onboard_time": 1735568541,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130272,
+      "num": 130272,
+      "word": "张艺兴开天MV",
+      "onboard_time": 1735609137,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 129512,
@@ -531,22 +587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 114970,
-      "num": 114970,
-      "word": "年度歌单",
-      "onboard_time": 1735608859,
-      "rank": 44,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 113973,
-      "num": 226735,
-      "word": "詹姆斯说一旦退役就不会再复出",
-      "onboard_time": 1735608977,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 113318,
       "num": 151693,
       "word": "江苏卫视跨年演唱会全开麦真唱",
@@ -595,12 +635,12 @@
       "category": "体育,电竞"
     },
     {
-      "raw_hot": 108483,
-      "num": 108483,
-      "word": "张艺兴开天MV",
-      "onboard_time": 1735609137,
-      "rank": 47,
-      "category": "音乐"
+      "raw_hot": 106611,
+      "num": 106611,
+      "word": "加沙父亲2天失去2个孩子",
+      "onboard_time": 1735609698,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 105383,
@@ -891,8 +931,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25969,
+      "num": 453708,
+      "word": "韩国空难机场跑道尽头为何有墙",
+      "onboard_time": 1735610118,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 25661,
-      "num": 722897,
+      "num": 727235,
       "word": "一组数据看中国空间站成绩单",
       "onboard_time": 1735563560,
       "rank": 2,
