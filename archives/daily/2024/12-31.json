@@ -1,6 +1,6 @@
 {
   "startTime": 1735576065390,
-  "endTime": 1735648897954,
+  "endTime": 1735649795535,
   "band_list": [
     {
       "raw_hot": 10530418,
@@ -49,6 +49,22 @@
       "onboard_time": 1735644021,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2100885,
+      "num": 2100885,
+      "word": "张艺兴耳返有问题",
+      "onboard_time": 1735648526,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2097527,
+      "num": 2097527,
+      "word": "樊振东vs王楚钦",
+      "onboard_time": 1735641680,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 2058211,
@@ -147,14 +163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1462608,
-      "num": 1462608,
-      "word": "樊振东vs王楚钦",
-      "onboard_time": 1735641680,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1446197,
       "num": 1196330,
       "word": "张加帅",
@@ -195,6 +203,30 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1133840,
+      "num": 1133840,
+      "word": "浙江卫视 真唱",
+      "onboard_time": 1735647084,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1103808,
+      "num": 1103808,
+      "word": "中文版APT 难听",
+      "onboard_time": 1735648826,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1099029,
+      "num": 1099029,
+      "word": "陈哲远假唱忘记拿麦",
+      "onboard_time": 1735649307,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1095627,
       "num": 1095627,
       "word": "湖南卫视跨年节目单",
@@ -203,11 +235,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1079106,
+      "num": 1079106,
+      "word": "浙江卫视跨年晚会",
+      "onboard_time": 1735643841,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1075180,
       "num": 1172028,
       "word": "中国乒协公告",
       "onboard_time": 1735635861,
       "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1068021,
+      "num": 1099715,
+      "word": "王楚钦3比1胜樊振东",
+      "onboard_time": 1735648708,
+      "rank": 13,
       "category": "体育"
     },
     {
@@ -225,30 +273,6 @@
       "onboard_time": 1735637301,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1017507,
-      "num": 1017507,
-      "word": "张艺兴耳返有问题",
-      "onboard_time": 1735648526,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1013850,
-      "num": 1013850,
-      "word": "浙江卫视跨年晚会",
-      "onboard_time": 1735643841,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1005690,
-      "num": 1005690,
-      "word": "浙江卫视 真唱",
-      "onboard_time": 1735647084,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 995723,
@@ -307,8 +331,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 779994,
-      "num": 779994,
+      "raw_hot": 802750,
+      "num": 802750,
       "word": "国内生产总值预计超130万亿元",
       "onboard_time": 1735645882,
       "rank": 15,
@@ -329,6 +353,14 @@
       "onboard_time": 1735610660,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 728563,
+      "num": 728563,
+      "word": "B站跨年 爷青回",
+      "onboard_time": 1735648587,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 723256,
@@ -371,6 +403,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 620555,
+      "num": 620555,
+      "word": "鞠婧祎金色臂环",
+      "onboard_time": 1735644382,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 589795,
       "num": 589795,
       "word": "济州航空6.8万张机票被取消",
@@ -379,12 +419,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 575378,
-      "num": 575378,
-      "word": "鞠婧祎金色臂环",
-      "onboard_time": 1735644382,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 577654,
+      "num": 577654,
+      "word": "浙江跨年 致敬琼瑶",
+      "onboard_time": 1735648587,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 569864,
+      "num": 569864,
+      "word": "联合国感谢中国缴清会费",
+      "onboard_time": 1735644560,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 568752,
@@ -393,6 +441,14 @@
       "onboard_time": 1735555639,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 565213,
+      "num": 565213,
+      "word": "何炅汪涵都感冒了吗",
+      "onboard_time": 1735649007,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 557034,
@@ -483,14 +539,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 491799,
-      "num": 491799,
-      "word": "联合国感谢中国缴清会费",
-      "onboard_time": 1735644560,
-      "rank": 40,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 488335,
       "num": 488335,
       "word": "WTT",
@@ -561,6 +609,14 @@
       "onboard_time": 1735636523,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 449376,
+      "num": 449376,
+      "word": "央视跨年 大气",
+      "onboard_time": 1735649488,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 449122,
@@ -667,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 409489,
+      "num": 409489,
+      "word": "张艺兴忘词",
+      "onboard_time": 1735649488,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 408345,
       "num": 347876,
       "word": "曾黎 平凡却又相信美好",
@@ -683,20 +747,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 397356,
+      "num": 1323874,
+      "word": "2025新年贺词金句",
+      "onboard_time": 1735648286,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 397271,
       "num": 397271,
       "word": "乒协称将为马龙樊振东陈梦提供最大支持",
       "onboard_time": 1735635381,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 394305,
-      "num": 394305,
-      "word": "浙江跨年 致敬琼瑶",
-      "onboard_time": 1735648587,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 391881,
@@ -721,6 +785,14 @@
       "onboard_time": 1735614499,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 373956,
+      "num": 373956,
+      "word": "虞书欣MV拍摄花絮好辣",
+      "onboard_time": 1735649246,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 373614,
@@ -809,6 +881,14 @@
       "onboard_time": 1735640240,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 344413,
+      "num": 344413,
+      "word": "雷军直播",
+      "onboard_time": 1735648886,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 340526,
@@ -923,6 +1003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 308521,
+      "num": 308521,
+      "word": "张加帅AI",
+      "onboard_time": 1735649488,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306719,
       "num": 378954,
       "word": "尹锡悦逮捕令有效期7天",
@@ -961,14 +1049,6 @@
       "onboard_time": 1735647326,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 296476,
-      "num": 296476,
-      "word": "B站跨年 爷青回",
-      "onboard_time": 1735648587,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 286971,
@@ -1051,14 +1131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 268846,
-      "num": 1014096,
-      "word": "2025新年贺词金句",
-      "onboard_time": 1735648286,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 268085,
       "num": 343125,
       "word": "韩国空难遇难者群像",
@@ -1099,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258895,
+      "num": 258895,
+      "word": "央视跨年晚会",
+      "onboard_time": 1735644141,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258406,
       "num": 258406,
       "word": "2025春运",
@@ -1129,14 +1209,6 @@
       "onboard_time": 1735621762,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 256365,
-      "num": 256365,
-      "word": "央视跨年晚会",
-      "onboard_time": 1735644141,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 256264,
@@ -1209,6 +1281,14 @@
       "onboard_time": 1735643480,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243980,
+      "num": 261227,
+      "word": "把老百姓身边的大事小情解决好",
+      "onboard_time": 1735644922,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 240971,
@@ -1353,14 +1433,6 @@
       "onboard_time": 1735614437,
       "rank": 35,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 219020,
-      "num": 219020,
-      "word": "中文版APT 难听",
-      "onboard_time": 1735648826,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 218382,
@@ -1660,7 +1732,7 @@
     },
     {
       "raw_hot": 190656,
-      "num": 308965,
+      "num": 645306,
       "word": "WTT官网樊振东陈梦头像变灰",
       "onboard_time": 1735645822,
       "rank": 29,
@@ -1979,20 +2051,20 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 168722,
-      "num": 261227,
-      "word": "把老百姓身边的大事小情解决好",
-      "onboard_time": 1735644922,
-      "rank": 38,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 167229,
       "num": 167229,
       "word": "王俊凯江苏卫视跨年三个舞台",
       "onboard_time": 1735641440,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167193,
+      "num": 769837,
+      "word": "周恺vs梁靖崑",
+      "onboard_time": 1735648947,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 166644,
@@ -2507,6 +2579,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 126159,
+      "num": 1957927,
+      "word": "经济运行面临一些新情况经努力可以克服",
+      "onboard_time": 1735646483,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 125522,
       "num": 119269,
       "word": "江苏卫视跨年李宇春再度压轴演出",
@@ -2579,6 +2659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117143,
+      "num": 2134480,
+      "word": "新年贺词这些话暖人心",
+      "onboard_time": 1735649488,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 116702,
       "num": 341163,
       "word": "女孩知自己非亲生仍打工给奶奶挣钱治病",
@@ -2649,14 +2737,6 @@
       "onboard_time": 1735600756,
       "rank": 27,
       "category": "体育,电竞"
-    },
-    {
-      "raw_hot": 108805,
-      "num": 1565655,
-      "word": "经济运行面临一些新情况经努力可以克服",
-      "onboard_time": 1735646483,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 106611,
@@ -2907,6 +2987,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 68027,
+      "num": 1099127,
+      "word": "余额宝有余游戏玩得太抽象了",
+      "onboard_time": 1735646423,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 68013,
       "num": 107570,
       "word": "多方回应16岁女孩湖边落水溺亡",
@@ -2936,6 +3024,14 @@
       "word": "80后妈妈决定不给女儿报任何补习班",
       "onboard_time": 1735571361,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66428,
+      "num": 567217,
+      "word": "1斤的狗头金到底被谁拿走了",
+      "onboard_time": 1735648767,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -2969,14 +3065,6 @@
       "onboard_time": 1735570100,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 64477,
-      "num": 789414,
-      "word": "余额宝有余游戏玩得太抽象了",
-      "onboard_time": 1735646423,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 63555,
@@ -3387,6 +3475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28605,
+      "num": 824947,
+      "word": "跨年夜雅迪亮了",
+      "onboard_time": 1735647204,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 28230,
       "num": 204078,
       "word": "一路奔驰向2025年",
@@ -3593,14 +3689,6 @@
       "onboard_time": 1735568241,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 21966,
-      "num": 542405,
-      "word": "跨年夜雅迪亮了",
-      "onboard_time": 1735647204,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 21903,
@@ -3827,14 +3915,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 10736,
-      "num": 800201,
-      "word": "王楚钦3比1胜樊振东",
-      "onboard_time": 1735648708,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 10200,
       "num": 85893,
       "word": "潘展乐获2024体坛榜样最佳运动员",
@@ -3857,14 +3937,6 @@
       "onboard_time": 1735579754,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 8792,
-      "num": 227329,
-      "word": "1斤的狗头金到底被谁拿走了",
-      "onboard_time": 1735648767,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 8766,
