@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735601731122,
+  "endTime": 1735609311668,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1753798,
+      "num": 718350,
+      "word": "陈学冬疑似退圈定居美国",
+      "onboard_time": 1735605319,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1724428,
       "num": 1724428,
       "word": "医生称咖啡患癌无法避免是基因问题",
@@ -329,6 +337,14 @@
       "onboard_time": 1735467680,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1318682,
+      "num": 1318682,
+      "word": "韩国法院批准尹锡悦逮捕令",
+      "onboard_time": 1735605019,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1300580,
@@ -827,6 +843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 694305,
+      "num": 694305,
+      "word": "烫伤出生2天婴儿护士停岗",
+      "onboard_time": 1735604778,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 693424,
       "num": 693424,
       "word": "网友抱怨哈尔滨200多元酒店涨至2000多",
@@ -963,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 636825,
+      "num": 636825,
+      "word": "女演员姜尘自曝曾被男明星家暴",
+      "onboard_time": 1735600694,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 630148,
       "num": 630148,
       "word": "韩国客机遭鸟撞击画面曝光",
@@ -996,7 +1028,7 @@
     },
     {
       "raw_hot": 607756,
-      "num": 326653,
+      "num": 355806,
       "word": "赵露思1月到12月的变化",
       "onboard_time": 1735555639,
       "rank": 21,
@@ -1163,12 +1195,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 529888,
+      "num": 529888,
+      "word": "本周上四休三不调休",
+      "onboard_time": 1735577775,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 529637,
       "num": 529637,
       "word": "广州一地铁口出现密集隔离柱",
       "onboard_time": 1735480702,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 526662,
+      "num": 526662,
+      "word": "韩国首次对现任总统发布逮捕令",
+      "onboard_time": 1735606700,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 525339,
@@ -1419,14 +1467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 440763,
-      "num": 205593,
-      "word": "女演员姜尘自曝曾被男明星家暴",
-      "onboard_time": 1735600694,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 438875,
       "num": 326899,
       "word": "姜贞羽来了古装就别走了",
@@ -1563,6 +1603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 413393,
+      "num": 413393,
+      "word": "王一博和大学生唱天高海阔",
+      "onboard_time": 1735573760,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 410065,
       "num": 242962,
       "word": "秋瓷炫儿子说我中国人",
@@ -1675,14 +1723,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 389849,
-      "num": 389849,
-      "word": "王一博和大学生唱天高海阔",
-      "onboard_time": 1735573760,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 385519,
       "num": 407421,
       "word": "女子两年被家暴16次怕前夫出狱报复",
@@ -1777,6 +1817,14 @@
       "onboard_time": 1735397725,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 365552,
+      "num": 365552,
+      "word": "韩国公开更多空难细节",
+      "onboard_time": 1735604478,
+      "rank": 11,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 364126,
@@ -1939,6 +1987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 329883,
+      "num": 329883,
+      "word": "刘梓晨参加演员请就位",
+      "onboard_time": 1735600936,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 329851,
       "num": 401449,
       "word": "医生称咖啡所患罕见病和生活状态无关",
@@ -2075,6 +2131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 312428,
+      "num": 312428,
+      "word": "甄子丹父子误判中真不是演的",
+      "onboard_time": 1735607538,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 311552,
       "num": 358508,
       "word": "12岁女孩偷拿家里近2万块买卡牌",
@@ -2107,6 +2171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 306719,
+      "num": 378954,
+      "word": "尹锡悦逮捕令有效期7天",
+      "onboard_time": 1735608319,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 304090,
       "num": 304090,
       "word": "京沪高铁的班味从年初冲到年尾",
@@ -2137,6 +2209,14 @@
       "onboard_time": 1735481482,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 300218,
+      "num": 300218,
+      "word": "WTT85%股份由ITTF持有",
+      "onboard_time": 1735583171,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 299954,
@@ -2331,6 +2411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278873,
+      "num": 278873,
+      "word": "官方通报鄂尔多斯虚标羊绒含量事件",
+      "onboard_time": 1735602376,
+      "rank": 16,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 277666,
       "num": 333814,
       "word": "小电话女主",
@@ -2467,6 +2555,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 264186,
+      "num": 264186,
+      "word": "广州花地湾地铁站龙虾造型引热议",
+      "onboard_time": 1735607419,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 263657,
       "num": 274316,
       "word": "王嘉尔 不爱看别看",
@@ -2489,14 +2585,6 @@
       "onboard_time": 1735482922,
       "rank": 42,
       "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 260209,
-      "num": 260209,
-      "word": "WTT85%股份由ITTF持有",
-      "onboard_time": 1735583171,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 260093,
@@ -2529,6 +2617,14 @@
       "onboard_time": 1735557200,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 258406,
+      "num": 258406,
+      "word": "2025春运",
+      "onboard_time": 1735606099,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 258078,
@@ -2859,6 +2955,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 229902,
+      "num": 229902,
+      "word": "猫 随便吧",
+      "onboard_time": 1735604116,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 229854,
       "num": 229854,
       "word": "赵露思曾因拍戏一只耳朵短暂性失聪",
@@ -2889,6 +2993,14 @@
       "onboard_time": 1735482382,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 224303,
+      "num": 224303,
+      "word": "恋与深空",
+      "onboard_time": 1735442481,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 221395,
@@ -3275,14 +3387,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 203274,
-      "num": 203274,
-      "word": "恋与深空",
-      "onboard_time": 1735442481,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 203257,
       "num": 203257,
       "word": "王一博我在彩排",
@@ -3547,6 +3651,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 194341,
+      "num": 194341,
+      "word": "去爬山结果自己成了景点",
+      "onboard_time": 1735600756,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 194236,
       "num": 177948,
       "word": "王鹤棣演唱会上座率",
@@ -3569,6 +3681,14 @@
       "onboard_time": 1735402700,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193376,
+      "num": 193376,
+      "word": "王楚钦今日或再战樊振东",
+      "onboard_time": 1735608559,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 193069,
@@ -3873,14 +3993,6 @@
       "onboard_time": 1735561759,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 184038,
-      "num": 202558,
-      "word": "刘梓晨参加演员请就位",
-      "onboard_time": 1735600936,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 183999,
@@ -4555,6 +4667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158761,
+      "num": 249995,
+      "word": "蔡磊仍在倔强发声",
+      "onboard_time": 1735608258,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157900,
       "num": 157900,
       "word": "李雪琴王皓 邪门但好嗑",
@@ -4659,6 +4779,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 154465,
+      "num": 154465,
+      "word": "法拉第未来涨近80%",
+      "onboard_time": 1735605319,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 154069,
       "num": 342430,
       "word": "程之女巫",
@@ -4681,6 +4809,14 @@
       "onboard_time": 1735562599,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 152943,
+      "num": 152943,
+      "word": "A股迎来首只市值低于5亿元退市股",
+      "onboard_time": 1735609218,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 152716,
@@ -4931,6 +5067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143708,
+      "num": 194847,
+      "word": "成毅镜头签",
+      "onboard_time": 1735608378,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143521,
       "num": 177858,
       "word": "同一天两个天王演唱会发生意外",
@@ -4953,6 +5097,14 @@
       "onboard_time": 1735467979,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 143036,
+      "num": 143036,
+      "word": "加沙出生仅21天双胞胎冻死",
+      "onboard_time": 1735609038,
+      "rank": 35,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 142985,
@@ -5083,6 +5235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138125,
+      "num": 138125,
+      "word": "英国专家谈韩客机失事真凶",
+      "onboard_time": 1735605500,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 137525,
       "num": 137525,
       "word": "张泉灵会靠知否解压",
@@ -5113,6 +5273,14 @@
       "onboard_time": 1735548020,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136913,
+      "num": 136913,
+      "word": "恋与深空维护",
+      "onboard_time": 1735605679,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 136558,
@@ -5299,6 +5467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129512,
+      "num": 129512,
+      "word": "蔡徐坤ins更新",
+      "onboard_time": 1735600756,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129406,
       "num": 127574,
       "word": "韩国着火客机后续航班乘客发声",
@@ -5313,6 +5489,14 @@
       "onboard_time": 1735546941,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129086,
+      "num": 129086,
+      "word": "姜尘是谁",
+      "onboard_time": 1735601175,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 129059,
@@ -5339,12 +5523,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 127082,
-      "num": 105423,
-      "word": "去爬山结果自己成了景点",
-      "onboard_time": 1735600756,
-      "rank": 34,
-      "category": "幽默"
+      "raw_hot": 128003,
+      "num": 128003,
+      "word": "网球王子 超大型巨人cos",
+      "onboard_time": 1735601777,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 125971,
@@ -5417,14 +5601,6 @@
       "onboard_time": 1735560199,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 122656,
-      "num": 122656,
-      "word": "本周上四休三不调休",
-      "onboard_time": 1735577775,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122562,
@@ -5595,14 +5771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116083,
-      "num": 116083,
-      "word": "蔡徐坤ins更新",
-      "onboard_time": 1735600756,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 116017,
       "num": 116017,
       "word": "有人自林中坠落",
@@ -5627,12 +5795,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 114970,
+      "num": 114970,
+      "word": "年度歌单",
+      "onboard_time": 1735608859,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 114694,
       "num": 146270,
       "word": "耳帝评2024华语100首最佳",
       "onboard_time": 1735404197,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 113973,
+      "num": 226735,
+      "word": "詹姆斯说一旦退役就不会再复出",
+      "onboard_time": 1735608977,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 113491,
@@ -5691,6 +5875,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 110161,
+      "num": 110161,
+      "word": "2025年春运首日火车票今起开售",
+      "onboard_time": 1735604959,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109959,
+      "num": 109959,
+      "word": "大奉打更人妆造",
+      "onboard_time": 1735599374,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109240,
       "num": 109240,
       "word": "国际乒联连续三年亏损运营",
@@ -5729,6 +5929,14 @@
       "onboard_time": 1735470679,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108483,
+      "num": 108483,
+      "word": "张艺兴开天MV",
+      "onboard_time": 1735609137,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 107990,
@@ -5785,6 +5993,14 @@
       "onboard_time": 1735520239,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103793,
+      "num": 103793,
+      "word": "北京存量房公积金贷款利率将下调",
+      "onboard_time": 1735602857,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103753,
@@ -6267,14 +6483,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 72955,
-      "num": 72955,
-      "word": "大奉打更人妆造",
-      "onboard_time": 1735599374,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 71764,
       "num": 351364,
       "word": "朱一龙蝉联金莲花最佳男主角",
@@ -6321,14 +6529,6 @@
       "onboard_time": 1735545859,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 68338,
-      "num": 68338,
-      "word": "姜尘是谁",
-      "onboard_time": 1735601175,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 68184,
@@ -7403,6 +7603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 25661,
+      "num": 722897,
+      "word": "一组数据看中国空间站成绩单",
+      "onboard_time": 1735563560,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25568,
       "num": 26384,
       "word": "檀健次自己的梗自己舞",
@@ -7841,14 +8049,6 @@
       "onboard_time": 1735504090,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 14926,
-      "num": 490672,
-      "word": "一组数据看中国空间站成绩单",
-      "onboard_time": 1735563560,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 14090,

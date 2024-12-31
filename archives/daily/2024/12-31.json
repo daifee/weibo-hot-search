@@ -1,6 +1,6 @@
 {
   "startTime": 1735576065390,
-  "endTime": 1735601731122,
+  "endTime": 1735609311668,
   "band_list": [
     {
       "raw_hot": 1781083,
@@ -9,6 +9,22 @@
       "onboard_time": 1735572319,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1753798,
+      "num": 718350,
+      "word": "陈学冬疑似退圈定居美国",
+      "onboard_time": 1735605319,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1318682,
+      "num": 1318682,
+      "word": "韩国法院批准尹锡悦逮捕令",
+      "onboard_time": 1735605019,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1195346,
@@ -35,6 +51,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 694305,
+      "num": 694305,
+      "word": "烫伤出生2天婴儿护士停岗",
+      "onboard_time": 1735604778,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 636825,
+      "num": 636825,
+      "word": "女演员姜尘自曝曾被男明星家暴",
+      "onboard_time": 1735600694,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 624465,
       "num": 624465,
       "word": "韩国空难幸存空少恐全身瘫痪",
@@ -43,12 +75,28 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 440763,
-      "num": 205593,
-      "word": "女演员姜尘自曝曾被男明星家暴",
-      "onboard_time": 1735600694,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 529888,
+      "num": 529888,
+      "word": "本周上四休三不调休",
+      "onboard_time": 1735577775,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 526662,
+      "num": 526662,
+      "word": "韩国首次对现任总统发布逮捕令",
+      "onboard_time": 1735606700,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 413393,
+      "num": 413393,
+      "word": "王一博和大学生唱天高海阔",
+      "onboard_time": 1735573760,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 391881,
@@ -57,14 +105,6 @@
       "onboard_time": 1735569561,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 389849,
-      "num": 389849,
-      "word": "王一博和大学生唱天高海阔",
-      "onboard_time": 1735573760,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 388508,
@@ -91,8 +131,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 365552,
+      "num": 365552,
+      "word": "韩国公开更多空难细节",
+      "onboard_time": 1735604478,
+      "rank": 11,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 360967,
-      "num": 208974,
+      "num": 355806,
       "word": "赵露思1月到12月的变化",
       "onboard_time": 1735555639,
       "rank": 25,
@@ -115,12 +163,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 329883,
+      "num": 329883,
+      "word": "刘梓晨参加演员请就位",
+      "onboard_time": 1735600936,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 320567,
       "num": 320567,
       "word": "柳演锡蔡秀彬最佳cp奖",
       "onboard_time": 1735568001,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 312428,
+      "num": 312428,
+      "word": "甄子丹父子误判中真不是演的",
+      "onboard_time": 1735607538,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 306719,
+      "num": 378954,
+      "word": "尹锡悦逮捕令有效期7天",
+      "onboard_time": 1735608319,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 300218,
+      "num": 300218,
+      "word": "WTT85%股份由ITTF持有",
+      "onboard_time": 1735583171,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 299954,
@@ -155,6 +235,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 278873,
+      "num": 278873,
+      "word": "官方通报鄂尔多斯虚标羊绒含量事件",
+      "onboard_time": 1735602376,
+      "rank": 16,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 273108,
       "num": 141811,
       "word": "大奉打更人热度",
@@ -163,12 +251,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 260209,
-      "num": 260209,
-      "word": "WTT85%股份由ITTF持有",
-      "onboard_time": 1735583171,
-      "rank": 21,
-      "category": "体育"
+      "raw_hot": 264186,
+      "num": 264186,
+      "word": "广州花地湾地铁站龙虾造型引热议",
+      "onboard_time": 1735607419,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258406,
+      "num": 258406,
+      "word": "2025春运",
+      "onboard_time": 1735606099,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 231043,
@@ -179,12 +275,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 229902,
+      "num": 229902,
+      "word": "猫 随便吧",
+      "onboard_time": 1735604116,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 228255,
       "num": 140384,
       "word": "终于懂得昼川老师的被光所诱惑",
       "onboard_time": 1735566141,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 224303,
+      "num": 224303,
+      "word": "恋与深空",
+      "onboard_time": 1735601536,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 217558,
@@ -211,20 +323,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 184039,
-      "num": 184039,
-      "word": "恋与深空",
-      "onboard_time": 1735601536,
-      "rank": 18,
-      "category": "游戏"
+      "raw_hot": 194341,
+      "num": 194341,
+      "word": "去爬山结果自己成了景点",
+      "onboard_time": 1735600756,
+      "rank": 34,
+      "category": "幽默"
     },
     {
-      "raw_hot": 184038,
-      "num": 202558,
-      "word": "刘梓晨参加演员请就位",
-      "onboard_time": 1735600936,
-      "rank": 14,
-      "category": "艺人"
+      "raw_hot": 193376,
+      "num": 193376,
+      "word": "王楚钦今日或再战樊振东",
+      "onboard_time": 1735608559,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 178246,
@@ -235,12 +347,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158761,
+      "num": 249995,
+      "word": "蔡磊仍在倔强发声",
+      "onboard_time": 1735608258,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155489,
       "num": 125538,
       "word": "姜尘",
       "onboard_time": 1735569621,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154465,
+      "num": 154465,
+      "word": "法拉第未来涨近80%",
+      "onboard_time": 1735605319,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 152943,
+      "num": 152943,
+      "word": "A股迎来首只市值低于5亿元退市股",
+      "onboard_time": 1735609218,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 145922,
@@ -251,12 +387,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143708,
+      "num": 194847,
+      "word": "成毅镜头签",
+      "onboard_time": 1735608378,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 143036,
+      "num": 143036,
+      "word": "加沙出生仅21天双胞胎冻死",
+      "onboard_time": 1735609038,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 142727,
       "num": 142727,
       "word": "网友抱怨哈尔滨200多元酒店涨至2000多",
       "onboard_time": 1735566441,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138125,
+      "num": 138125,
+      "word": "英国专家谈韩客机失事真凶",
+      "onboard_time": 1735605500,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 136913,
+      "num": 136913,
+      "word": "恋与深空维护",
+      "onboard_time": 1735605679,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 135797,
@@ -283,12 +451,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127082,
-      "num": 105423,
-      "word": "去爬山结果自己成了景点",
+      "raw_hot": 129512,
+      "num": 129512,
+      "word": "蔡徐坤ins更新",
       "onboard_time": 1735600756,
-      "rank": 34,
-      "category": "幽默"
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 129086,
+      "num": 129086,
+      "word": "姜尘是谁",
+      "onboard_time": 1735601175,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 128003,
+      "num": 128003,
+      "word": "网球王子 超大型巨人cos",
+      "onboard_time": 1735601777,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 125522,
@@ -300,19 +484,11 @@
     },
     {
       "raw_hot": 125309,
-      "num": 115477,
+      "num": 122480,
       "word": "2025跨年晚会最全阵容",
       "onboard_time": 1735567942,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122656,
-      "num": 122656,
-      "word": "本周上四休三不调休",
-      "onboard_time": 1735577775,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122262,
@@ -321,6 +497,14 @@
       "onboard_time": 1735562361,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 121413,
+      "num": 121413,
+      "word": "男子钓到56斤鳡鱼绕城5小时炫耀",
+      "onboard_time": 1735563080,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120104,
@@ -347,12 +531,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 116083,
-      "num": 116083,
-      "word": "蔡徐坤ins更新",
-      "onboard_time": 1735600756,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 114970,
+      "num": 114970,
+      "word": "年度歌单",
+      "onboard_time": 1735608859,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 113973,
+      "num": 226735,
+      "word": "詹姆斯说一旦退役就不会再复出",
+      "onboard_time": 1735608977,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 113318,
@@ -371,6 +563,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110161,
+      "num": 110161,
+      "word": "2025年春运首日火车票今起开售",
+      "onboard_time": 1735604959,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109959,
+      "num": 109959,
+      "word": "大奉打更人妆造",
+      "onboard_time": 1735599374,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109924,
       "num": 115034,
       "word": "白鹿王楚然周也同框",
@@ -387,12 +595,28 @@
       "category": "体育,电竞"
     },
     {
+      "raw_hot": 108483,
+      "num": 108483,
+      "word": "张艺兴开天MV",
+      "onboard_time": 1735609137,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 105383,
       "num": 105383,
       "word": "马龙祝你不惧时间不怕向前",
       "onboard_time": 1735601536,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103793,
+      "num": 103793,
+      "word": "北京存量房公积金贷款利率将下调",
+      "onboard_time": 1735602857,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99973,
@@ -443,14 +667,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 83302,
-      "num": 115210,
-      "word": "男子钓到56斤鳡鱼绕城5小时炫耀",
-      "onboard_time": 1735563080,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82104,
       "num": 860322,
       "word": "中国基建人又创造了奇迹",
@@ -475,28 +691,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 72955,
-      "num": 72955,
-      "word": "大奉打更人妆造",
-      "onboard_time": 1735599374,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 70245,
       "num": 115295,
       "word": "以色列",
       "onboard_time": 1735552760,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 68338,
-      "num": 68338,
-      "word": "姜尘是谁",
-      "onboard_time": 1735601175,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 68013,
@@ -691,6 +891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25661,
+      "num": 722897,
+      "word": "一组数据看中国空间站成绩单",
+      "onboard_time": 1735563560,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25568,
       "num": 26384,
       "word": "檀健次自己的梗自己舞",
@@ -809,14 +1017,6 @@
       "onboard_time": 1735587311,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 14926,
-      "num": 490672,
-      "word": "一组数据看中国空间站成绩单",
-      "onboard_time": 1735563560,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 14090,
