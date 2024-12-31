@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1735644943428,
+  "endTime": 1735648897954,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -105,6 +105,14 @@
       "onboard_time": 1735309881,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 10530418,
+      "num": 10530418,
+      "word": "湖南卫视舞台坏了",
+      "onboard_time": 1735645042,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 9888127,
@@ -371,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4001064,
+      "num": 4001064,
+      "word": "王俊凯太帅了",
+      "onboard_time": 1735647507,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3965862,
       "num": 598349,
       "word": "鹿晗 关晓彤",
@@ -553,6 +569,14 @@
       "onboard_time": 1733916681,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 3097846,
+      "num": 3097846,
+      "word": "湖南卫视跨年晚会",
+      "onboard_time": 1735644021,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 3091079,
@@ -1539,6 +1563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1865951,
+      "num": 1865951,
+      "word": "江苏卫视跨年",
+      "onboard_time": 1734336919,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1865613,
       "num": 1865613,
       "word": "韩国流行周五下班去中国",
@@ -2401,14 +2433,6 @@
       "onboard_time": 1734832518,
       "rank": 1,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1556641,
-      "num": 1556641,
-      "word": "湖南卫视跨年晚会",
-      "onboard_time": 1735644021,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1556119,
@@ -6011,6 +6035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1017507,
+      "num": 1017507,
+      "word": "张艺兴耳返有问题",
+      "onboard_time": 1735648526,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1016875,
       "num": 1016875,
       "word": "淘宝回应网友12块捡漏宝马车",
@@ -6059,6 +6091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1013850,
+      "num": 1013850,
+      "word": "浙江卫视跨年晚会",
+      "onboard_time": 1735643841,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1013061,
       "num": 1013061,
       "word": "何炅 不要为节目效果做不想做的事",
@@ -6105,6 +6145,14 @@
       "onboard_time": 1734274100,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1005690,
+      "num": 1005690,
+      "word": "浙江卫视 真唱",
+      "onboard_time": 1735647084,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1005636,
@@ -7345,14 +7393,6 @@
       "onboard_time": 1733113399,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 904656,
-      "num": 532904,
-      "word": "江苏卫视跨年",
-      "onboard_time": 1734336919,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 903689,
@@ -9161,6 +9201,14 @@
       "onboard_time": 1733719881,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 779994,
+      "num": 779994,
+      "word": "国内生产总值预计超130万亿元",
+      "onboard_time": 1735645882,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 779800,
@@ -11377,6 +11425,14 @@
       "onboard_time": 1734402859,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 674156,
+      "num": 674156,
+      "word": "王俊凯跨年舞台花了很多精力",
+      "onboard_time": 1735647204,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 673965,
@@ -14187,6 +14243,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 575378,
+      "num": 575378,
+      "word": "鞠婧祎金色臂环",
+      "onboard_time": 1735644382,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 575191,
       "num": 746573,
       "word": "尖叫之夜阵容",
@@ -15115,6 +15179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 548529,
+      "num": 548529,
+      "word": "男双 爆分",
+      "onboard_time": 1735645704,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 548249,
       "num": 548249,
       "word": "教育局介入废弃小学信箱发现举报信",
@@ -15337,14 +15409,6 @@
       "onboard_time": 1734575597,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 543627,
-      "num": 515479,
-      "word": "浙江卫视跨年晚会",
-      "onboard_time": 1735643841,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 543505,
@@ -15713,6 +15777,14 @@
       "onboard_time": 1733864772,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 533382,
+      "num": 533382,
+      "word": "东方卫视跨年",
+      "onboard_time": 1735583892,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 533333,
@@ -17283,6 +17355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 491799,
+      "num": 491799,
+      "word": "联合国感谢中国缴清会费",
+      "onboard_time": 1735644560,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 491376,
       "num": 491376,
       "word": "汪苏泷 家人都在",
@@ -18225,6 +18305,14 @@
       "onboard_time": 1735467680,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 469325,
+      "num": 469325,
+      "word": "跨年晚会",
+      "onboard_time": 1735645942,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 468979,
@@ -22347,6 +22435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 394305,
+      "num": 394305,
+      "word": "浙江跨年 致敬琼瑶",
+      "onboard_time": 1735648587,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 394165,
       "num": 394165,
       "word": "哈尔滨文旅邀请刘亦菲去冰雪大世界",
@@ -25819,6 +25915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 337282,
+      "num": 337282,
+      "word": "金秀贤让C位",
+      "onboard_time": 1735648648,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 337088,
       "num": 294928,
       "word": "刘亦菲环保皮草",
@@ -27627,14 +27731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 315110,
-      "num": 315110,
-      "word": "东方卫视跨年",
-      "onboard_time": 1735583892,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 315041,
       "num": 315041,
       "word": "虞书欣 往那一站和小手办一样",
@@ -28851,6 +28947,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 297444,
+      "num": 297444,
+      "word": "黄多多晒照告别2024",
+      "onboard_time": 1735647326,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 297411,
       "num": 297411,
       "word": "DNF 原神",
@@ -28929,6 +29033,14 @@
       "onboard_time": 1733904683,
       "rank": 10,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 296476,
+      "num": 296476,
+      "word": "B站跨年 爷青回",
+      "onboard_time": 1735648587,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 296469,
@@ -30539,6 +30651,14 @@
       "category": "国内时政,国际时政"
     },
     {
+      "raw_hot": 279322,
+      "num": 279322,
+      "word": "TF家族2025跨年节目单",
+      "onboard_time": 1735647867,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 279172,
       "num": 279172,
       "word": "无意识控糖的5个行为",
@@ -31537,6 +31657,22 @@
       "onboard_time": 1735392861,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 268868,
+      "num": 268868,
+      "word": "家人陪欧阳妮妮待产",
+      "onboard_time": 1735647986,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 268846,
+      "num": 1014096,
+      "word": "2025新年贺词金句",
+      "onboard_time": 1735648286,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 268567,
@@ -32883,12 +33019,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256365,
+      "num": 256365,
+      "word": "央视跨年晚会",
+      "onboard_time": 1735644141,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256324,
       "num": 256324,
       "word": "以前没有肖四政治怎么考啊",
       "onboard_time": 1734511401,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 256264,
+      "num": 256264,
+      "word": "谢娜不主持跨年晚会",
+      "onboard_time": 1735648227,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 256125,
@@ -34331,6 +34483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 244799,
+      "num": 244799,
+      "word": "红白歌会",
+      "onboard_time": 1735643480,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244708,
       "num": 323115,
       "word": "网传火车站内一女子掌掴工作人员",
@@ -34529,14 +34689,6 @@
       "onboard_time": 1734941538,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 242969,
-      "num": 242969,
-      "word": "红白歌会",
-      "onboard_time": 1735643480,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 242898,
@@ -36619,6 +36771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229571,
+      "num": 229571,
+      "word": "乒超联赛",
+      "onboard_time": 1735645822,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229492,
       "num": 229492,
       "word": "如果下雪了你最想做什么",
@@ -37297,6 +37457,14 @@
       "onboard_time": 1735296620,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225148,
+      "num": 225148,
+      "word": "宋茜暗夜兔女王",
+      "onboard_time": 1735647926,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 225083,
@@ -38337,6 +38505,14 @@
       "onboard_time": 1734075440,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219020,
+      "num": 219020,
+      "word": "中文版APT 难听",
+      "onboard_time": 1735648826,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 218918,
@@ -45483,14 +45659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194194,
-      "num": 194194,
-      "word": "鞠婧祎金色臂环",
-      "onboard_time": 1735644382,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 194183,
       "num": 192537,
       "word": "贺峻霖连续两年获得中传奖学金",
@@ -46929,6 +47097,14 @@
       "onboard_time": 1733462059,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190656,
+      "num": 308965,
+      "word": "WTT官网樊振东陈梦头像变灰",
+      "onboard_time": 1735645822,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 190647,
@@ -51043,14 +51219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178740,
-      "num": 178740,
-      "word": "联合国感谢中国缴清会费",
-      "onboard_time": 1735644560,
-      "rank": 40,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 178656,
       "num": 329351,
       "word": "中国乡村藏着一本巨型食谱",
@@ -54387,6 +54555,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 168722,
+      "num": 261227,
+      "word": "把老百姓身边的大事小情解决好",
+      "onboard_time": 1735644922,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 168715,
       "num": 168715,
       "word": "大冰含金量还在上升",
@@ -57417,6 +57593,14 @@
       "onboard_time": 1735283540,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160477,
+      "num": 1674333,
+      "word": "2024年终大盘点",
+      "onboard_time": 1735617199,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160444,
@@ -61888,14 +62072,6 @@
       "word": "宋亚轩cos那英",
       "onboard_time": 1733643018,
       "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 149879,
-      "num": 149879,
-      "word": "央视跨年晚会",
-      "onboard_time": 1735644141,
-      "rank": 45,
       "category": "综艺"
     },
     {
@@ -76715,6 +76891,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 108805,
+      "num": 1565655,
+      "word": "经济运行面临一些新情况经努力可以克服",
+      "onboard_time": 1735646483,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 108787,
       "num": 318071,
       "word": "一诺做则必成",
@@ -80211,6 +80395,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 96778,
+      "num": 266902,
+      "word": "复读学校隐身公办高中年收费1.5万",
+      "onboard_time": 1735647025,
+      "rank": 36,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 96744,
       "num": 175134,
       "word": "张杰直播",
@@ -80929,14 +81121,6 @@
       "onboard_time": 1733243184,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 93961,
-      "num": 1674333,
-      "word": "2024年终大盘点",
-      "onboard_time": 1735617199,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93918,
@@ -82360,6 +82544,14 @@
       "word": "杜润旺被驱逐",
       "onboard_time": 1733412859,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 87818,
+      "num": 300323,
+      "word": "莎头2024赛事总结",
+      "onboard_time": 1735647986,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -88393,6 +88585,14 @@
       "onboard_time": 1734682819,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 64477,
+      "num": 789414,
+      "word": "余额宝有余游戏玩得太抽象了",
+      "onboard_time": 1735646423,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 64398,
@@ -97212,7 +97412,7 @@
     },
     {
       "raw_hot": 39354,
-      "num": 728879,
+      "num": 3418755,
       "word": "80秒回顾2024中国科技新突破",
       "onboard_time": 1735633100,
       "rank": 2,
@@ -105795,6 +105995,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 21966,
+      "num": 542405,
+      "word": "跨年夜雅迪亮了",
+      "onboard_time": 1735647204,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 21913,
       "num": 206935,
       "word": "桃花坞反转短片放映会",
@@ -110643,6 +110851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 10736,
+      "num": 800201,
+      "word": "王楚钦3比1胜樊振东",
+      "onboard_time": 1735648708,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 10717,
       "num": 103492,
       "word": "被晚安短信安慰了",
@@ -111169,6 +111385,14 @@
       "onboard_time": 1733829259,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 8792,
+      "num": 227329,
+      "word": "1斤的狗头金到底被谁拿走了",
+      "onboard_time": 1735648767,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8784,
