@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735659403627,
+  "endTime": 1735662398644,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -17,6 +17,14 @@
       "onboard_time": 1735434137,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 10681189,
+      "num": 10681189,
+      "word": "新年快乐",
+      "onboard_time": 1735493774,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 10679803,
@@ -57,6 +65,14 @@
       "onboard_time": 1735633520,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 8395718,
+      "num": 2716623,
+      "word": "王一博 安全扣没扣好",
+      "onboard_time": 1735659686,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 7774223,
@@ -161,6 +177,14 @@
       "onboard_time": 1735400960,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3315107,
+      "num": 3315107,
+      "word": "种地吧直播",
+      "onboard_time": 1735662029,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 3110663,
@@ -300,7 +324,7 @@
     },
     {
       "raw_hot": 2062843,
-      "num": 747750,
+      "num": 1299836,
       "word": "李昀锐有点紧张",
       "onboard_time": 1735657828,
       "rank": 14,
@@ -316,7 +340,7 @@
     },
     {
       "raw_hot": 2007598,
-      "num": 750893,
+      "num": 1050688,
       "word": "假唱",
       "onboard_time": 1735655966,
       "rank": 10,
@@ -324,7 +348,7 @@
     },
     {
       "raw_hot": 1967905,
-      "num": 751687,
+      "num": 778709,
       "word": "王力宏状态",
       "onboard_time": 1735657707,
       "rank": 9,
@@ -635,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1358503,
+      "num": 1358503,
+      "word": "马龙王鹤棣打乒乓球",
+      "onboard_time": 1735659086,
+      "rank": 26,
+      "category": "体育,综艺"
+    },
+    {
       "raw_hot": 1343202,
       "num": 1343202,
       "word": "时代少年团又偷偷开演唱会了",
@@ -931,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1039348,
+      "num": 801101,
+      "word": "杨幂别打鼓了 打我",
+      "onboard_time": 1735660942,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1023099,
       "num": 390997,
       "word": "黄奕一件礼服塞了一整个车",
@@ -1073,6 +1113,14 @@
       "onboard_time": 1735473200,
       "rank": 7,
       "category": "网红"
+    },
+    {
+      "raw_hot": 879247,
+      "num": 879247,
+      "word": "鞠婧祎 行走的CD",
+      "onboard_time": 1735660407,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 874741,
@@ -1480,6 +1528,14 @@
       "word": "向佐致歉",
       "onboard_time": 1735563200,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 654677,
+      "num": 654677,
+      "word": "跨年收视率",
+      "onboard_time": 1735661488,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -1907,14 +1963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 513796,
-      "num": 513796,
-      "word": "马龙王鹤棣打乒乓球",
-      "onboard_time": 1735659086,
-      "rank": 26,
-      "category": "体育,综艺"
-    },
-    {
       "raw_hot": 513755,
       "num": 513755,
       "word": "韩国起火客机无中国籍乘客",
@@ -2267,6 +2315,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 448688,
+      "num": 448688,
+      "word": "张小斐 人美就算了唱歌还好听",
+      "onboard_time": 1735659686,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 446305,
       "num": 446305,
       "word": "欧阳娣娣 一个月瘦20斤",
@@ -2489,6 +2545,14 @@
       "onboard_time": 1735542798,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 417278,
+      "num": 417278,
+      "word": "周深 我在外面混vs我回家",
+      "onboard_time": 1735659505,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 416479,
@@ -2771,6 +2835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 371483,
+      "num": 744923,
+      "word": "王楚钦回应战胜樊振东",
+      "onboard_time": 1735658126,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 370952,
       "num": 370952,
       "word": "官方通报全体教师举报副校长",
@@ -2851,6 +2923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 362067,
+      "num": 362067,
+      "word": "醒醒 现在是千禧年",
+      "onboard_time": 1735661546,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 358777,
       "num": 358777,
       "word": "缅北明家犯罪集团案39人被提起公诉",
@@ -2916,7 +2996,7 @@
     },
     {
       "raw_hot": 351291,
-      "num": 259711,
+      "num": 327742,
       "word": "五月天跨年演唱会",
       "onboard_time": 1735658727,
       "rank": 41,
@@ -3049,6 +3129,14 @@
       "onboard_time": 1735636821,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 335254,
+      "num": 335254,
+      "word": "薛之谦跨年蹦迪",
+      "onboard_time": 1735660942,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 334622,
@@ -3243,14 +3331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 317211,
-      "num": 744923,
-      "word": "王楚钦回应战胜樊振东",
-      "onboard_time": 1735658126,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 315990,
       "num": 262370,
       "word": "杨紫演技就没让人失望过",
@@ -3363,6 +3443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 305974,
+      "num": 305974,
+      "word": "李宇春 接春天",
+      "onboard_time": 1735660226,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305879,
       "num": 536060,
       "word": "王楚钦进攻状态",
@@ -3441,6 +3529,14 @@
       "onboard_time": 1735647326,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 297207,
+      "num": 206911,
+      "word": "李宇春连续20年零点压轴",
+      "onboard_time": 1735661967,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 295054,
@@ -3667,6 +3763,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 278339,
+      "num": 204191,
+      "word": "无名的人还是得毛不易唱",
+      "onboard_time": 1735661787,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277666,
       "num": 333814,
       "word": "小电话女主",
@@ -3696,6 +3800,14 @@
       "word": "李诞你们稍微隐晦点",
       "onboard_time": 1735558940,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 274372,
+      "num": 199268,
+      "word": "徐克肖战合体送2025新年祝福",
+      "onboard_time": 1735660527,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -4539,6 +4651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 222384,
+      "num": 608073,
+      "word": "樊振东称毫无保留地和大家沟通",
+      "onboard_time": 1735659986,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221395,
       "num": 470238,
       "word": "全红婵点赞陈梦退出世排博文",
@@ -4817,6 +4937,14 @@
       "onboard_time": 1735608258,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 209209,
+      "num": 1430203,
+      "word": "让人民过上幸福生活是头等大事",
+      "onboard_time": 1735657467,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 209189,
@@ -5379,6 +5507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196336,
+      "num": 196336,
+      "word": "孙颖莎兔牙小宝",
+      "onboard_time": 1735660705,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195791,
       "num": 195791,
       "word": "剧集成何体统",
@@ -5825,6 +5961,14 @@
       "onboard_time": 1735634421,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188206,
+      "num": 606548,
+      "word": "跨年烟花",
+      "onboard_time": 1735662088,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188146,
@@ -8523,14 +8667,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 106923,
-      "num": 1430203,
-      "word": "让人民过上幸福生活是头等大事",
-      "onboard_time": 1735657467,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 106889,
       "num": 356326,
       "word": "张远和鸟吵起来了",
@@ -9009,6 +9145,14 @@
       "onboard_time": 1735542559,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 83774,
+      "num": 644056,
+      "word": "一起向2025出发",
+      "onboard_time": 1735661546,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83402,
@@ -10019,6 +10163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42530,
+      "num": 489315,
+      "word": "雷军回应股价回升",
+      "onboard_time": 1735659208,
+      "rank": 49,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 42466,
       "num": 237799,
       "word": "A股公司董事长被罚1.09亿元",
@@ -10265,14 +10417,6 @@
       "onboard_time": 1735557561,
       "rank": 38,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 36091,
-      "num": 36091,
-      "word": "新年快乐",
-      "onboard_time": 1735493774,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 35770,
@@ -11705,14 +11849,6 @@
       "onboard_time": 1735493534,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 6618,
-      "num": 258630,
-      "word": "雷军回应股价回升",
-      "onboard_time": 1735659208,
-      "rank": 49,
-      "category": "互联网,财经"
     },
     {
       "raw_hot": 5858,
