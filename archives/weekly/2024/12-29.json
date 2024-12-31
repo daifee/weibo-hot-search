@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735655869207,
+  "endTime": 1735658536227,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -63,6 +63,14 @@
       "num": 7774223,
       "word": "杨幂还是这么甜",
       "onboard_time": 1735651649,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 7644156,
+      "num": 7644156,
+      "word": "王源跨年晚会音准",
+      "onboard_time": 1735653450,
       "rank": 0,
       "category": "综艺"
     },
@@ -313,6 +321,22 @@
       "onboard_time": 1735566500,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1896701,
+      "num": 751687,
+      "word": "王力宏状态",
+      "onboard_time": 1735657707,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1884137,
+      "num": 750893,
+      "word": "假唱",
+      "onboard_time": 1735655966,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1865951,
@@ -755,6 +779,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1150844,
+      "num": 747750,
+      "word": "李昀锐有点紧张",
+      "onboard_time": 1735657828,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1142187,
       "num": 1142187,
       "word": "樊振东收到罚款文件后当天就签名",
@@ -801,6 +833,14 @@
       "onboard_time": 1735548740,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1099153,
+      "num": 746336,
+      "word": "宋茜绝美endingpose",
+      "onboard_time": 1735654770,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 1095861,
@@ -1259,6 +1299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 727551,
+      "num": 727551,
+      "word": "成毅镜头签",
+      "onboard_time": 1735608378,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 727023,
       "num": 727023,
       "word": "70多位租客被房东要求10天内搬离",
@@ -1587,6 +1635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 578412,
+      "num": 578412,
+      "word": "成毅唱歌好稳",
+      "onboard_time": 1735658067,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 577654,
       "num": 577654,
       "word": "浙江跨年 致敬琼瑶",
@@ -1747,6 +1803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 537961,
+      "num": 753002,
+      "word": "女子捡漏30万黄金女儿怕诈骗急哭",
+      "onboard_time": 1735657828,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 536261,
       "num": 536261,
       "word": "江苏卫视音响怎么回事",
@@ -1896,6 +1960,14 @@
       "word": "白鹿王楚然周也同框",
       "onboard_time": 1735562900,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 501186,
+      "num": 501186,
+      "word": "李雪琴妆造好美",
+      "onboard_time": 1735656867,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -2163,6 +2235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 449162,
+      "num": 449162,
+      "word": "白鹿 人美歌甜",
+      "onboard_time": 1735656987,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 449122,
       "num": 449122,
       "word": "韩国公开更多空难细节",
@@ -2257,6 +2337,14 @@
       "onboard_time": 1735628659,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 432440,
+      "num": 315388,
+      "word": "周深飞的也太高了",
+      "onboard_time": 1735657167,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 431933,
@@ -2664,14 +2752,6 @@
       "word": "演员请就位",
       "onboard_time": 1735529481,
       "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 371528,
-      "num": 273763,
-      "word": "宋茜绝美endingpose",
-      "onboard_time": 1735654770,
-      "rank": 43,
       "category": "综艺"
     },
     {
@@ -3163,20 +3243,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315007,
+      "num": 1464081,
+      "word": "谁也不能阻挡祖国统一的历史大势",
+      "onboard_time": 1735652007,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 314016,
       "num": 314016,
       "word": "甄子丹父子误判中真不是演的",
       "onboard_time": 1735607538,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 313699,
-      "num": 1464081,
-      "word": "谁也不能阻挡祖国统一的历史大势",
-      "onboard_time": 1735652007,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 313501,
@@ -3345,6 +3425,14 @@
       "onboard_time": 1735472179,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 293781,
+      "num": 315469,
+      "word": "邓亚萍称小胖今天状态并不太好",
+      "onboard_time": 1735656568,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 293417,
@@ -5075,6 +5163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199743,
+      "num": 2975442,
+      "word": "央视跨年的格局大了",
+      "onboard_time": 1735657348,
+      "rank": 2,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199686,
       "num": 199686,
       "word": "李宇春 老了之后自然会调整",
@@ -5097,6 +5193,14 @@
       "onboard_time": 1735474281,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198813,
+      "num": 198813,
+      "word": "徐娇劝阻男子餐厅抽烟后续",
+      "onboard_time": 1735655908,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198576,
@@ -5417,6 +5521,14 @@
       "onboard_time": 1735467019,
       "rank": 27,
       "category": "电影,艺人"
+    },
+    {
+      "raw_hot": 191514,
+      "num": 744485,
+      "word": "樊振东离场时向球迷招手",
+      "onboard_time": 1735658246,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 191468,
@@ -6201,6 +6313,14 @@
       "onboard_time": 1735622242,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 172674,
+      "num": 193419,
+      "word": "再见我们的2024",
+      "onboard_time": 1735656269,
+      "rank": 46,
+      "category": "正能量"
     },
     {
       "raw_hot": 172488,
@@ -7371,14 +7491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143708,
-      "num": 194847,
-      "word": "成毅镜头签",
-      "onboard_time": 1735608378,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 143615,
       "num": 143615,
       "word": "又和孟子义一起看烟花了",
@@ -7505,6 +7617,14 @@
       "onboard_time": 1735460719,
       "rank": 41,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 140364,
+      "num": 463474,
+      "word": "祝大家所愿皆所成",
+      "onboard_time": 1735644560,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140294,
@@ -7793,14 +7913,6 @@
       "onboard_time": 1735562361,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131358,
-      "num": 463474,
-      "word": "祝大家所愿皆所成",
-      "onboard_time": 1735644560,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131261,
@@ -8523,6 +8635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 100941,
+      "num": 744923,
+      "word": "王楚钦回应战胜樊振东",
+      "onboard_time": 1735658126,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100909,
       "num": 260122,
       "word": "四川一中学教师被指与学生亲吻搂抱",
@@ -8945,6 +9065,14 @@
       "onboard_time": 1735562780,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79181,
+      "num": 1430203,
+      "word": "让人民过上幸福生活是头等大事",
+      "onboard_time": 1735657467,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 79126,
@@ -10267,6 +10395,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 31990,
+      "num": 747345,
+      "word": "特仑苏跨年夜好忙",
+      "onboard_time": 1735655669,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 31580,
       "num": 196809,
       "word": "林一的崽崽好可爱",
@@ -11497,14 +11633,6 @@
       "onboard_time": 1735507931,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8355,
-      "num": 214036,
-      "word": "特仑苏跨年夜好忙",
-      "onboard_time": 1735655669,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 8200,
