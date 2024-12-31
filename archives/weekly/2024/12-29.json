@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735640588284,
+  "endTime": 1735641600742,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -619,6 +619,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1075180,
+      "num": 1172028,
+      "word": "中国乒协公告",
+      "onboard_time": 1735635861,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1070134,
       "num": 1070134,
       "word": "以色列",
@@ -659,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1040341,
+      "num": 330036,
+      "word": "偶遇许嵩冯禧挽手逛街",
+      "onboard_time": 1735637301,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1023099,
       "num": 390997,
       "word": "黄奕一件礼服塞了一整个车",
@@ -681,14 +697,6 @@
       "onboard_time": 1735442839,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 978882,
-      "num": 1156621,
-      "word": "中国乒协公告",
-      "onboard_time": 1735635861,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 971887,
@@ -723,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 949512,
+      "num": 949512,
+      "word": "跨年文案",
+      "onboard_time": 1735636101,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 943117,
       "num": 943117,
       "word": "韩国客机着火2名生还者均为乘务员",
@@ -745,14 +761,6 @@
       "onboard_time": 1735454419,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 930586,
-      "num": 330036,
-      "word": "偶遇许嵩冯禧挽手逛街",
-      "onboard_time": 1735637301,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 928244,
@@ -929,6 +937,14 @@
       "onboard_time": 1735447341,
       "rank": 6,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 767271,
+      "num": 322650,
+      "word": "常州一党委书记被曝群内发不雅内容",
+      "onboard_time": 1735639700,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 760958,
@@ -1129,14 +1145,6 @@
       "onboard_time": 1735563200,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 655352,
-      "num": 655352,
-      "word": "跨年文案",
-      "onboard_time": 1735636101,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 648026,
@@ -1691,6 +1699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 467006,
+      "num": 467006,
+      "word": "博主发布白敬亭占春山言论被判不实",
+      "onboard_time": 1735635143,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 463943,
       "num": 463943,
       "word": "徐明浩 不要买小卡",
@@ -1817,14 +1833,6 @@
       "onboard_time": 1735480460,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 438227,
-      "num": 364450,
-      "word": "博主发布白敬亭占春山言论被判不实",
-      "onboard_time": 1735635143,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 437511,
@@ -2259,6 +2267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 368409,
+      "num": 341400,
+      "word": "虞书欣湖南跨年晚会造型",
+      "onboard_time": 1735638680,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 367056,
       "num": 258047,
       "word": "卿卿日常五美2年后重聚大奉",
@@ -2355,6 +2371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 345385,
+      "num": 345385,
+      "word": "刘国梁称支持运动员捍卫权利",
+      "onboard_time": 1735640240,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 345260,
       "num": 277446,
       "word": "韩客机碰撞起火前6分钟塔台曾发警告",
@@ -2425,6 +2449,14 @@
       "onboard_time": 1735540999,
       "rank": 48,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 335321,
+      "num": 335321,
+      "word": "独子贷款买房后去世母亲要求退还首付",
+      "onboard_time": 1735636821,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 334622,
@@ -2827,6 +2859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 290404,
+      "num": 290404,
+      "word": "乒协称同意三人退出世界排名",
+      "onboard_time": 1735640780,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 290226,
       "num": 375422,
       "word": "白敬亭直播",
@@ -2937,6 +2977,14 @@
       "onboard_time": 1735449921,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 282828,
+      "num": 353797,
+      "word": "小孩哥捡110元被赠120元礼物",
+      "onboard_time": 1735637062,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 280824,
@@ -3331,6 +3379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 251189,
+      "num": 251189,
+      "word": "李昀锐跨年晚会造型出图",
+      "onboard_time": 1735640481,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 250880,
       "num": 251044,
       "word": "射雕人物海报",
@@ -3579,6 +3635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234017,
+      "num": 204058,
+      "word": "有银行高管补发近270万元工资",
+      "onboard_time": 1735640662,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 233966,
       "num": 233966,
       "word": "国色芳华",
@@ -3609,6 +3673,14 @@
       "onboard_time": 1735552940,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231172,
+      "num": 231172,
+      "word": "杨紫2024最后一天也在剧组",
+      "onboard_time": 1735636282,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 231043,
@@ -3681,14 +3753,6 @@
       "onboard_time": 1735485800,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 229016,
-      "num": 229016,
-      "word": "杨紫2024最后一天也在剧组",
-      "onboard_time": 1735636282,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 225704,
@@ -3769,14 +3833,6 @@
       "onboard_time": 1735614437,
       "rank": 35,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 218777,
-      "num": 218777,
-      "word": "常州一党委书记被曝群内发不雅内容",
-      "onboard_time": 1735639700,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 218754,
@@ -4083,6 +4139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206727,
+      "num": 206727,
+      "word": "丁禹兮国风拖尾披风造型",
+      "onboard_time": 1735640420,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206713,
       "num": 289621,
       "word": "秦牛正威孔语浩分手原因",
@@ -4105,14 +4169,6 @@
       "onboard_time": 1735454479,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 206011,
-      "num": 206011,
-      "word": "虞书欣湖南跨年晚会造型",
-      "onboard_time": 1735638680,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 205904,
@@ -4145,14 +4201,6 @@
       "onboard_time": 1735524077,
       "rank": 44,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 205659,
-      "num": 205659,
-      "word": "刘国梁称支持运动员捍卫权利",
-      "onboard_time": 1735640240,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 205428,
@@ -4217,6 +4265,14 @@
       "onboard_time": 1735564280,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203937,
+      "num": 203937,
+      "word": "刘国梁称将推动WTT修改规则",
+      "onboard_time": 1735640542,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 203501,
@@ -4595,20 +4651,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 194106,
+      "num": 194106,
+      "word": "2024年的你也辛苦了",
+      "onboard_time": 1735641262,
+      "rank": 33,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 194082,
       "num": 194082,
       "word": "应届生真的很想扛着年终奖回家",
       "onboard_time": 1735532903,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 193773,
-      "num": 171647,
-      "word": "刘国梁称将推动WTT修改规则",
-      "onboard_time": 1735640542,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 193419,
@@ -5011,6 +5067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186844,
+      "num": 186844,
+      "word": "刘国梁称应为老运动员设立参赛豁免权",
+      "onboard_time": 1735640841,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186496,
       "num": 263072,
       "word": "紧急迫降的含金量在持续上升",
@@ -5299,14 +5363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 177093,
-      "num": 353797,
-      "word": "小孩哥捡110元被赠120元礼物",
-      "onboard_time": 1735637062,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 176923,
       "num": 243038,
       "word": "孙颖莎汰渍见面会现场",
@@ -5433,6 +5489,14 @@
       "onboard_time": 1735442600,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 173174,
+      "num": 173174,
+      "word": "刘国梁说樊振东陈梦可用外卡参赛",
+      "onboard_time": 1735641201,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 172785,
@@ -5675,12 +5739,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 167216,
-      "num": 205673,
-      "word": "独子贷款买房后去世母亲要求退还首付",
-      "onboard_time": 1735636821,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 167229,
+      "num": 167229,
+      "word": "王俊凯江苏卫视跨年三个舞台",
+      "onboard_time": 1735641440,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 166793,
@@ -5747,6 +5811,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 165015,
+      "num": 165015,
+      "word": "新年愿望刘亦菲翻牌了",
+      "onboard_time": 1735641139,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164844,
       "num": 164844,
       "word": "恋爱脑可以恋爱脑梗不行",
@@ -5779,6 +5851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 164011,
+      "num": 164011,
+      "word": "最近的车厘子几乎一天一个价",
+      "onboard_time": 1735633820,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 163999,
       "num": 163999,
       "word": "无限暖暖流星季",
@@ -5809,6 +5889,14 @@
       "onboard_time": 1735470919,
       "rank": 14,
       "category": "民生新闻,议题讨论"
+    },
+    {
+      "raw_hot": 163222,
+      "num": 163222,
+      "word": "娜扎古早晋江文在逃女主",
+      "onboard_time": 1735639821,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 163027,
@@ -5923,6 +6011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160255,
+      "num": 160255,
+      "word": "WTT世界排名已删除樊振东",
+      "onboard_time": 1735640481,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159852,
       "num": 192076,
       "word": "樊振东退出世界排名不只是为了自己",
@@ -5977,14 +6073,6 @@
       "onboard_time": 1735564402,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 158071,
-      "num": 158071,
-      "word": "最近的车厘子几乎一天一个价",
-      "onboard_time": 1735633820,
-      "rank": 41,
-      "category": "财经"
     },
     {
       "raw_hot": 157900,
@@ -6155,14 +6243,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 154132,
-      "num": 154132,
-      "word": "娜扎古早晋江文在逃女主",
-      "onboard_time": 1735639821,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 154069,
       "num": 342430,
       "word": "程之女巫",
@@ -6273,14 +6353,6 @@
       "onboard_time": 1735556479,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 150907,
-      "num": 150907,
-      "word": "丁禹兮国风拖尾披风造型",
-      "onboard_time": 1735640420,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 150777,
@@ -6723,14 +6795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139094,
-      "num": 139094,
-      "word": "李昀锐跨年晚会造型出图",
-      "onboard_time": 1735640481,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 139055,
       "num": 139055,
       "word": "整个中国只有我和你在做这个了",
@@ -7107,14 +7171,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 124813,
-      "num": 124813,
-      "word": "WTT世界排名已删除樊振东",
-      "onboard_time": 1735640481,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 124639,
       "num": 124639,
       "word": "柳演锡演技",
@@ -7481,6 +7537,14 @@
       "onboard_time": 1735617799,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109480,
+      "num": 328275,
+      "word": "2025爱你爱我",
+      "onboard_time": 1735640780,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 109240,
@@ -8099,6 +8163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76910,
+      "num": 299172,
+      "word": "贺峻霖直播",
+      "onboard_time": 1735640301,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 76246,
       "num": 250133,
       "word": "重庆解放碑跨年氛围感拉满了",
@@ -8169,6 +8241,14 @@
       "onboard_time": 1735489699,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70781,
+      "num": 254423,
+      "word": "孙颖莎2025第1周继续霸榜世一",
+      "onboard_time": 1735641502,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 70622,
@@ -8595,6 +8675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52884,
+      "num": 310730,
+      "word": "对2024的自己说",
+      "onboard_time": 1735640900,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 52796,
       "num": 52796,
       "word": "王鹤棣无水雾版腹肌",
@@ -8923,14 +9011,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 42147,
-      "num": 205701,
-      "word": "贺峻霖直播",
-      "onboard_time": 1735640301,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 41838,
       "num": 258168,
       "word": "乒超总决赛男团今日赛程",
@@ -9121,6 +9201,14 @@
       "onboard_time": 1735580533,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36586,
+      "num": 176967,
+      "word": "陈学冬曾回应退圈传闻",
+      "onboard_time": 1735639700,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 36549,
@@ -9451,6 +9539,14 @@
       "category": "民生新闻,幽默"
     },
     {
+      "raw_hot": 28230,
+      "num": 204078,
+      "word": "一路奔驰向2025年",
+      "onboard_time": 1735639880,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28229,
       "num": 303935,
       "word": "一种很新的接好运方式",
@@ -9585,14 +9681,6 @@
       "onboard_time": 1735449980,
       "rank": 36,
       "category": "综艺,汽车"
-    },
-    {
-      "raw_hot": 25977,
-      "num": 171657,
-      "word": "一路奔驰向2025年",
-      "onboard_time": 1735639880,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25807,
@@ -9769,6 +9857,14 @@
       "onboard_time": 1735637121,
       "rank": 28,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 23465,
+      "num": 164230,
+      "word": "先人一步到底有多快乐",
+      "onboard_time": 1735641262,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23386,
@@ -9971,14 +10067,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20282,
-      "num": 171760,
-      "word": "陈学冬曾回应退圈传闻",
-      "onboard_time": 1735639700,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 20157,
       "num": 59994,
       "word": "天山深处基建狂魔放大招",
@@ -10033,6 +10121,14 @@
       "onboard_time": 1735411513,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 18630,
+      "num": 307087,
+      "word": "交空调租赁费不该与学生毕业证挂钩",
+      "onboard_time": 1735641322,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18592,
@@ -10177,6 +10273,14 @@
       "onboard_time": 1735627159,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15177,
+      "num": 313376,
+      "word": "2024年微博暖新闻盘点",
+      "onboard_time": 1735641081,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15045,
@@ -10331,6 +10435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11855,
+      "num": 174978,
+      "word": "王传福称中国品牌掌握新能源话语权",
+      "onboard_time": 1735639461,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 11440,
       "num": 51691,
       "word": "Tarzan荣获德杯FMVP",
@@ -10345,14 +10457,6 @@
       "onboard_time": 1735550841,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 10788,
-      "num": 146955,
-      "word": "王传福称中国品牌掌握新能源话语权",
-      "onboard_time": 1735639461,
-      "rank": 38,
-      "category": "汽车"
     },
     {
       "raw_hot": 10749,

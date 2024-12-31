@@ -1,0 +1,410 @@
+{
+  "runTime": 1735641600742,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1075180,
+        "num": 1172028,
+        "word": "中国乒协公告",
+        "onboard_time": 1735635861,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 949512,
+        "num": 949512,
+        "word": "跨年文案",
+        "onboard_time": 1735636101,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50750,
+        "num": 645757,
+        "word": "2024年终大盘点",
+        "onboard_time": 1735617199,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 525272,
+        "num": 525272,
+        "word": "湖南卫视跨年节目单",
+        "onboard_time": 1735624578,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 467006,
+        "num": 467006,
+        "word": "博主发布白敬亭占春山言论被判不实",
+        "onboard_time": 1735635143,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345385,
+        "num": 345385,
+        "word": "刘国梁称支持运动员捍卫权利",
+        "onboard_time": 1735640240,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 368409,
+        "num": 341400,
+        "word": "虞书欣湖南跨年晚会造型",
+        "onboard_time": 1735638680,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335321,
+        "num": 335321,
+        "word": "独子贷款买房后去世母亲要求退还首付",
+        "onboard_time": 1735636821,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329972,
+        "num": 329972,
+        "word": "戚薇穿了28年前古董高定",
+        "onboard_time": 1735632501,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109480,
+        "num": 328275,
+        "word": "2025爱你爱我",
+        "onboard_time": 1735640780,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 328162,
+        "num": 328162,
+        "word": "乒协称将为马龙樊振东陈梦提供最大支持",
+        "onboard_time": 1735635381,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1040341,
+        "num": 325912,
+        "word": "偶遇许嵩冯禧挽手逛街",
+        "onboard_time": 1735637301,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 767271,
+        "num": 322650,
+        "word": "常州一党委书记被曝群内发不雅内容",
+        "onboard_time": 1735639700,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289009,
+        "num": 319556,
+        "word": "曾黎 平凡却又相信美好",
+        "onboard_time": 1735636703,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449956,
+        "num": 315150,
+        "word": "首尔车辆冲撞人群事件已致10人受伤",
+        "onboard_time": 1735636523,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 15177,
+        "num": 313376,
+        "word": "2024年微博暖新闻盘点",
+        "onboard_time": 1735641081,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52884,
+        "num": 310730,
+        "word": "对2024的自己说",
+        "onboard_time": 1735640900,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18630,
+        "num": 307087,
+        "word": "交空调租赁费不该与学生毕业证挂钩",
+        "onboard_time": 1735641322,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65000,
+        "num": 301490,
+        "word": "电信0元购机老人背上3年分期还款",
+        "onboard_time": 1735629919,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 76910,
+        "num": 299172,
+        "word": "贺峻霖直播",
+        "onboard_time": 1735640301,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 4908610,
+        "num": 295730,
+        "word": "赵露思 救救我",
+        "onboard_time": 1735633520,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1633041,
+        "num": 293834,
+        "word": "赵露思好友曝她曾被公司殴打",
+        "onboard_time": 1735617620,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290404,
+        "num": 290404,
+        "word": "乒协称同意三人退出世界排名",
+        "onboard_time": 1735640780,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282828,
+        "num": 282828,
+        "word": "小孩哥捡110元被赠120元礼物",
+        "onboard_time": 1735637062,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70781,
+        "num": 254423,
+        "word": "孙颖莎2025第1周继续霸榜世一",
+        "onboard_time": 1735641502,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251189,
+        "num": 251189,
+        "word": "李昀锐跨年晚会造型出图",
+        "onboard_time": 1735640481,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 600581,
+        "num": 241893,
+        "word": "赵露思好友朱锐称霸凌的是前公司",
+        "onboard_time": 1735631240,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231172,
+        "num": 231172,
+        "word": "杨紫2024最后一天也在剧组",
+        "onboard_time": 1735636282,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206727,
+        "num": 206727,
+        "word": "丁禹兮国风拖尾披风造型",
+        "onboard_time": 1735640420,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28230,
+        "num": 204078,
+        "word": "一路奔驰向2025年",
+        "onboard_time": 1735639880,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234017,
+        "num": 204058,
+        "word": "有银行高管补发近270万元工资",
+        "onboard_time": 1735640662,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 203937,
+        "num": 203937,
+        "word": "刘国梁称将推动WTT修改规则",
+        "onboard_time": 1735640542,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195584,
+        "num": 195584,
+        "word": "2025跨年节目单",
+        "onboard_time": 1735613058,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194106,
+        "num": 194106,
+        "word": "2024年的你也辛苦了",
+        "onboard_time": 1735641262,
+        "rank": 33,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 186844,
+        "num": 186844,
+        "word": "刘国梁称应为老运动员设立参赛豁免权",
+        "onboard_time": 1735640841,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186354,
+        "num": 186354,
+        "word": "小米最可爱的员工走失",
+        "onboard_time": 1735637960,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 181663,
+        "num": 181663,
+        "word": "张艺兴 谁喊我",
+        "onboard_time": 1735640181,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36586,
+        "num": 176967,
+        "word": "陈学冬曾回应退圈传闻",
+        "onboard_time": 1735639700,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11855,
+        "num": 174978,
+        "word": "王传福称中国品牌掌握新能源话语权",
+        "onboard_time": 1735639461,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 173174,
+        "num": 173174,
+        "word": "刘国梁说樊振东陈梦可用外卡参赛",
+        "onboard_time": 1735641201,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167229,
+        "num": 167229,
+        "word": "王俊凯江苏卫视跨年三个舞台",
+        "onboard_time": 1735641440,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165015,
+        "num": 165015,
+        "word": "新年愿望刘亦菲翻牌了",
+        "onboard_time": 1735641139,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23465,
+        "num": 164230,
+        "word": "先人一步到底有多快乐",
+        "onboard_time": 1735641262,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164011,
+        "num": 164011,
+        "word": "最近的车厘子几乎一天一个价",
+        "onboard_time": 1735633820,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 163222,
+        "num": 163222,
+        "word": "娜扎古早晋江文在逃女主",
+        "onboard_time": 1735639821,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160255,
+        "num": 160255,
+        "word": "WTT世界排名已删除樊振东",
+        "onboard_time": 1735640481,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159906,
+        "num": 159906,
+        "word": "跨年晚会彩排",
+        "onboard_time": 1735636400,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148052,
+        "num": 148052,
+        "word": "时代少年团 听取紫啧声一片",
+        "onboard_time": 1735637421,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145812,
+        "num": 145812,
+        "word": "恋与深空登顶",
+        "onboard_time": 1735633700,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145809,
+        "num": 145809,
+        "word": "美国机场两架飞机险相撞",
+        "onboard_time": 1735634541,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025新年贺词#"
+    }
+  }
+}
