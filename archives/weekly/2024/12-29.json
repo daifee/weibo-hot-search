@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735665517046,
+  "endTime": 1735666577328,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -491,6 +491,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1723920,
+      "num": 1546854,
+      "word": "虞书欣丁禹兮你俩在说什么",
+      "onboard_time": 1735665381,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1697786,
       "num": 1697786,
       "word": "央视跨年晚会第一批阵容官宣",
@@ -608,14 +616,6 @@
       "word": "2025跨年节目单",
       "onboard_time": 1735613058,
       "rank": 1,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1546854,
-      "num": 1546854,
-      "word": "虞书欣丁禹兮你俩在说什么",
-      "onboard_time": 1735665381,
-      "rank": 4,
       "category": "综艺"
     },
     {
@@ -1035,12 +1035,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 982229,
+      "num": 806392,
+      "word": "王玮晨向赵露思道歉",
+      "onboard_time": 1735665801,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 971887,
       "num": 433675,
       "word": "周扬青 小腹",
       "onboard_time": 1735564221,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 962730,
+      "num": 962730,
+      "word": "醒醒 现在是千禧年",
+      "onboard_time": 1735661546,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 961249,
@@ -1129,14 +1145,6 @@
       "onboard_time": 1735497792,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 894256,
-      "num": 894256,
-      "word": "醒醒 现在是千禧年",
-      "onboard_time": 1735661546,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 891737,
@@ -1387,6 +1395,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 738710,
+      "num": 738710,
+      "word": "黄子韬徐艺洋婚后首次同台",
+      "onboard_time": 1735665381,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 736629,
+      "num": 736629,
+      "word": "何炅谢娜给我唱哭了",
+      "onboard_time": 1735662445,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 734327,
       "num": 685925,
       "word": "大奉打更人 短剧",
@@ -1449,14 +1473,6 @@
       "onboard_time": 1735547539,
       "rank": 28,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 698456,
-      "num": 698456,
-      "word": "黄子韬徐艺洋婚后首次同台",
-      "onboard_time": 1735665381,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 697981,
@@ -1592,6 +1608,14 @@
       "word": "向佐致歉",
       "onboard_time": 1735563200,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 654288,
+      "num": 654288,
+      "word": "苏新皓 破音",
+      "onboard_time": 1735665500,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -1841,14 +1865,6 @@
       "onboard_time": 1735564940,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 560285,
-      "num": 560285,
-      "word": "何炅谢娜给我唱哭了",
-      "onboard_time": 1735662445,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 559682,
@@ -3083,6 +3099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 351265,
+      "num": 351265,
+      "word": "王力宏 复出",
+      "onboard_time": 1735663643,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 350133,
       "num": 350133,
       "word": "韩国代总统被警方立案调查",
@@ -3651,14 +3675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 293581,
-      "num": 293581,
-      "word": "王力宏 复出",
-      "onboard_time": 1735663643,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 293417,
       "num": 293417,
       "word": "12月31日晚7时发表新年贺词",
@@ -4059,6 +4075,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 263825,
+      "num": 725705,
+      "word": "2025第1条微博",
+      "onboard_time": 1735663227,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 263657,
       "num": 274316,
       "word": "王嘉尔 不爱看别看",
@@ -4235,6 +4259,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 255370,
+      "num": 255370,
+      "word": "檀健次全开麦唱跳好稳",
+      "onboard_time": 1735665381,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255253,
       "num": 255253,
       "word": "下水道捡到国家一级保护动物",
@@ -4289,6 +4321,14 @@
       "onboard_time": 1735525759,
       "rank": 33,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 251316,
+      "num": 251316,
+      "word": "樊振东 东方卫视跨年晚会",
+      "onboard_time": 1735665561,
+      "rank": 38,
+      "category": "体育,综艺"
     },
     {
       "raw_hot": 251217,
@@ -4433,6 +4473,14 @@
       "onboard_time": 1735388000,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 243469,
+      "num": 243469,
+      "word": "名侦探柯南",
+      "onboard_time": 1735665441,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 243272,
@@ -4763,14 +4811,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 221643,
-      "num": 182140,
-      "word": "檀健次全开麦唱跳好稳",
-      "onboard_time": 1735665381,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 221395,
       "num": 470238,
       "word": "全红婵点赞陈梦退出世排博文",
@@ -4897,6 +4937,14 @@
       "onboard_time": 1735535242,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 215194,
+      "num": 215194,
+      "word": "国色芳华定档",
+      "onboard_time": 1735665860,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 214489,
@@ -5099,6 +5147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 208389,
+      "num": 208389,
+      "word": "沙一汀发红包",
+      "onboard_time": 1735666100,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208352,
       "num": 289846,
       "word": "杨紫人民日报年度混剪配音",
@@ -5209,6 +5265,14 @@
       "onboard_time": 1735524077,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 205771,
+      "num": 205771,
+      "word": "朱锐为赵露思发声",
+      "onboard_time": 1735665321,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 205428,
@@ -5963,14 +6027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190044,
-      "num": 190044,
-      "word": "名侦探柯南",
-      "onboard_time": 1735665441,
-      "rank": 39,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 190016,
       "num": 190016,
       "word": "丁禹兮问蔡文静要檀健次演唱会门票",
@@ -6443,6 +6499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178067,
+      "num": 239503,
+      "word": "我们有个共同的家名叫中国",
+      "onboard_time": 1735663285,
+      "rank": 46,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 177825,
       "num": 4559041,
       "word": "总书记的这些话暖心鼓劲",
@@ -6465,14 +6529,6 @@
       "onboard_time": 1735615399,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 177226,
-      "num": 239503,
-      "word": "我们有个共同的家名叫中国",
-      "onboard_time": 1735663285,
-      "rank": 46,
-      "category": "正能量"
     },
     {
       "raw_hot": 176923,
@@ -6817,14 +6873,6 @@
       "onboard_time": 1735566441,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168438,
-      "num": 725705,
-      "word": "2025第1条微博",
-      "onboard_time": 1735663227,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 167938,
@@ -7268,7 +7316,7 @@
     },
     {
       "raw_hot": 156926,
-      "num": 156926,
+      "num": 311528,
       "word": "2025正式开始",
       "onboard_time": 1735663706,
       "rank": 45,
@@ -7577,6 +7625,14 @@
       "onboard_time": 1735541059,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149237,
+      "num": 843700,
+      "word": "2025新年签",
+      "onboard_time": 1735665801,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149144,
@@ -8643,6 +8699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116506,
+      "num": 384172,
+      "word": "用温暖告别2024",
+      "onboard_time": 1735663525,
+      "rank": 28,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 116476,
       "num": 1800959,
       "word": "中国刷新世界最长高速公路隧道纪录",
@@ -8801,14 +8865,6 @@
       "onboard_time": 1735448721,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 108697,
-      "num": 384172,
-      "word": "用温暖告别2024",
-      "onboard_time": 1735663525,
-      "rank": 28,
-      "category": "正能量"
     },
     {
       "raw_hot": 108604,
@@ -10345,6 +10401,14 @@
       "onboard_time": 1735542258,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42128,
+      "num": 351667,
+      "word": "王楚钦送新年祝福",
+      "onboard_time": 1735666520,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 41947,
