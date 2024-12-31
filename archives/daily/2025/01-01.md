@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/01 03:35:39
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/01 04:23:00
 </p>
 </blockquote>
 <p>
@@ -351,6 +351,12 @@ B站跨年 爷青回（热度：258130）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E8%A2%AB%E6%89%93%E6%97%B6%E9%97%B4%E7%BA%BF%23" target="weibo">
+赵露思被打时间线（热度：255684）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E5%85%A8%E5%BC%80%E9%BA%A6%E5%94%B1%E8%B7%B3%E5%A5%BD%E7%A8%B3%23" target="weibo">
 檀健次全开麦唱跳好稳（热度：255370）
 </a>
@@ -431,12 +437,6 @@ B站跨年 爷青回（热度：258130）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%23" target="weibo">
 谢娜（热度：204373）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E8%A2%AB%E6%89%93%E6%97%B6%E9%97%B4%E7%BA%BF%23" target="weibo">
-赵露思被打时间线（热度：202751）
 </a>
 </li>
 
@@ -687,8 +687,26 @@ GALA 难听（热度：70408）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232025%E8%AE%B8%E6%84%BF%E6%B1%A0%E5%BC%80%E5%90%AF%23" target="weibo">
+2025许愿池开启（热度：11754）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232025%E5%B9%B4%E7%AC%AC1%E5%A4%A9%23" target="weibo">
+2025年第1天（热度：11471）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%8E%E6%B7%B1%20%E5%A4%A7%E5%8F%A3%E5%90%83%E5%B0%8F%E9%86%89%E6%A2%A8%23" target="weibo">
 黎深 大口吃小醉梨（热度：10896）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%8A%B1%E7%9D%80%E5%AF%B9%E8%83%9C%E5%88%A9%E5%BC%BA%E7%83%88%E7%9A%84%E6%B8%B4%E6%9C%9B%E9%9D%A2%E5%AF%B9%E5%86%B3%E8%B5%9B%23" target="weibo">
+王楚钦抱着对胜利强烈的渴望面对决赛（热度：8284）
 </a>
 </li>
 
