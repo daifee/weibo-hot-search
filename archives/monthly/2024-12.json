@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1735654803266,
+  "endTime": 1735655869207,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 10679803,
+      "num": 10679803,
+      "word": "王源 跑调",
+      "onboard_time": 1735653450,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 10530418,
       "num": 10530418,
       "word": "湖南卫视舞台坏了",
@@ -185,14 +193,6 @@
       "onboard_time": 1733296346,
       "rank": 4,
       "category": "读书作家,艺人"
-    },
-    {
-      "raw_hot": 8558855,
-      "num": 8558855,
-      "word": "王源 跑调",
-      "onboard_time": 1735653450,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 8551893,
@@ -353,6 +353,14 @@
       "onboard_time": 1735278862,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 4363263,
+      "num": 4363263,
+      "word": "王一博吊威亚飞起来了",
+      "onboard_time": 1735654950,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 4266097,
@@ -891,6 +899,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 2485351,
+      "num": 2485351,
+      "word": "丁禹兮拿了慕声发带",
+      "onboard_time": 1735654649,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2484442,
       "num": 2484442,
       "word": "南昌通报李某雪已被送诊",
@@ -1107,14 +1123,6 @@
       "category": "国际时政,艺人"
     },
     {
-      "raw_hot": 2282777,
-      "num": 2282777,
-      "word": "丁禹兮拿了慕声发带",
-      "onboard_time": 1735654649,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 2280320,
       "num": 2280320,
       "word": "长期接不到女乘客网约司机投诉平台",
@@ -1296,6 +1304,14 @@
       "word": "张艺兴耳返有问题",
       "onboard_time": 1735648526,
       "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2092342,
+      "num": 2092342,
+      "word": "孟子义没跑调",
+      "onboard_time": 1735654770,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -14299,14 +14315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 580681,
-      "num": 580681,
-      "word": "孟子义没跑调",
-      "onboard_time": 1735654770,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 580253,
       "num": 580253,
       "word": "孕妈称吃到发霉百草味面包宫缩入院",
@@ -18147,6 +18155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 477984,
+      "num": 477984,
+      "word": "许嵩冷到哈白气了",
+      "onboard_time": 1735653988,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 477954,
       "num": 1060572,
       "word": "赣州公园恶犬伤人2人被采取强制措施",
@@ -18235,20 +18251,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 476262,
-      "num": 274008,
-      "word": "许嵩冷到哈白气了",
-      "onboard_time": 1735653988,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 476184,
       "num": 476184,
       "word": "花海",
       "onboard_time": 1735314681,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 476029,
+      "num": 476029,
+      "word": "丁禹兮直播",
+      "onboard_time": 1733657119,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 475925,
@@ -19585,6 +19601,14 @@
       "onboard_time": 1734488358,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 449589,
+      "num": 216102,
+      "word": "以后谁还说张凌赫不会唱歌",
+      "onboard_time": 1735655488,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 449391,
@@ -25137,14 +25161,6 @@
       "onboard_time": 1735183277,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 353645,
-      "num": 353645,
-      "word": "丁禹兮直播",
-      "onboard_time": 1733657119,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 353624,
@@ -51763,6 +51779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177825,
+      "num": 4559041,
+      "word": "总书记的这些话暖心鼓劲",
+      "onboard_time": 1735650327,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 177814,
       "num": 177814,
       "word": "汉堡王 恋与制作人",
@@ -54099,14 +54123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170742,
-      "num": 2999968,
-      "word": "总书记的这些话暖心鼓劲",
-      "onboard_time": 1735650327,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 170719,
       "num": 307925,
       "word": "猎罪图鉴2 冲进火场是她最后的绝唱",
@@ -56019,6 +56035,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 165635,
+      "num": 215224,
+      "word": "WTT世界排名已删除樊振东",
+      "onboard_time": 1735640481,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165613,
       "num": 165613,
       "word": "如鸢 徐庶",
@@ -57539,6 +57563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161550,
+      "num": 1351699,
+      "word": "一个个瞬间定格在这不平凡的一年",
+      "onboard_time": 1735652188,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 161450,
       "num": 161450,
       "word": "战争与和平",
@@ -58033,14 +58065,6 @@
       "onboard_time": 1734864618,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 160255,
-      "num": 207417,
-      "word": "WTT世界排名已删除樊振东",
-      "onboard_time": 1735640481,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 160226,
@@ -64552,6 +64576,14 @@
       "word": "拉伸的王楚钦表情好萌",
       "onboard_time": 1734007278,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 144483,
+      "num": 213442,
+      "word": "王楚钦总结2024展望2025",
+      "onboard_time": 1735655368,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -71113,14 +71145,6 @@
       "onboard_time": 1733058321,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127128,
-      "num": 1351699,
-      "word": "一个个瞬间定格在这不平凡的一年",
-      "onboard_time": 1735652188,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 127115,
@@ -95851,6 +95875,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 44060,
+      "num": 745138,
+      "word": "雷军跨年直播",
+      "onboard_time": 1735652848,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 44054,
       "num": 267836,
       "word": "杨幂同款鹅绒服的含金量",
@@ -99017,14 +99049,6 @@
       "onboard_time": 1735394242,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 36778,
-      "num": 745138,
-      "word": "雷军跨年直播",
-      "onboard_time": 1735652848,
-      "rank": 24,
-      "category": "互联网"
     },
     {
       "raw_hot": 36770,
@@ -103651,6 +103675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 27538,
+      "num": 675713,
+      "word": "NBA为詹姆斯庆生",
+      "onboard_time": 1735652067,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 27533,
       "num": 124560,
       "word": "眼科专家揭秘手机屏幕护眼能力真相",
@@ -104097,6 +104129,14 @@
       "onboard_time": 1734441439,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 26715,
+      "num": 773648,
+      "word": "如何用演唱会神器拍跨年大片",
+      "onboard_time": 1735652067,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 26713,
@@ -105355,14 +105395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24277,
-      "num": 773648,
-      "word": "如何用演唱会神器拍跨年大片",
-      "onboard_time": 1735652067,
-      "rank": 44,
-      "category": "数码"
-    },
-    {
       "raw_hot": 24272,
       "num": 192275,
       "word": "藏在香奈儿服装细节里的八角",
@@ -106075,14 +106107,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 22526,
-      "num": 593468,
-      "word": "NBA为詹姆斯庆生",
-      "onboard_time": 1735652067,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 22524,
       "num": 315470,
       "word": "曾舜晞方公布维权进度",
@@ -106273,6 +106297,14 @@
       "onboard_time": 1735066932,
       "rank": 25,
       "category": "国内时政,国际时政"
+    },
+    {
+      "raw_hot": 22296,
+      "num": 215072,
+      "word": "郑钦文告别2024plog",
+      "onboard_time": 1735647507,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 22279,
@@ -110411,6 +110443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 13050,
+      "num": 737842,
+      "word": "谷爱凌2025年的新年期待",
+      "onboard_time": 1735654830,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 13044,
       "num": 116867,
       "word": "2024中国向新发力",
@@ -111921,6 +111961,14 @@
       "onboard_time": 1733256071,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 8355,
+      "num": 214036,
+      "word": "特仑苏跨年夜好忙",
+      "onboard_time": 1735655669,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 8334,

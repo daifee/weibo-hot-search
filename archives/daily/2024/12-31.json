@@ -1,7 +1,15 @@
 {
   "startTime": 1735576065390,
-  "endTime": 1735654803266,
+  "endTime": 1735655869207,
   "band_list": [
+    {
+      "raw_hot": 10679803,
+      "num": 10679803,
+      "word": "王源 跑调",
+      "onboard_time": 1735653450,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 10530418,
       "num": 10530418,
@@ -17,14 +25,6 @@
       "onboard_time": 1735617620,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 8558855,
-      "num": 8558855,
-      "word": "王源 跑调",
-      "onboard_time": 1735653450,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 8551893,
@@ -59,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 4363263,
+      "num": 4363263,
+      "word": "王一博吊威亚飞起来了",
+      "onboard_time": 1735654950,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 4001064,
       "num": 4001064,
       "word": "王俊凯太帅了",
@@ -80,6 +88,14 @@
       "word": "湖南卫视跨年晚会",
       "onboard_time": 1735644021,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2485351,
+      "num": 2485351,
+      "word": "丁禹兮拿了慕声发带",
+      "onboard_time": 1735654649,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -107,14 +123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2282777,
-      "num": 2282777,
-      "word": "丁禹兮拿了慕声发带",
-      "onboard_time": 1735654649,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 2116616,
       "num": 2116616,
       "word": "汪涵大张伟王一博合体",
@@ -137,6 +145,14 @@
       "onboard_time": 1735641680,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2092342,
+      "num": 2092342,
+      "word": "孟子义没跑调",
+      "onboard_time": 1735654770,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 2058211,
@@ -555,14 +571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 580681,
-      "num": 580681,
-      "word": "孟子义没跑调",
-      "onboard_time": 1735654770,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 579544,
       "num": 579544,
       "word": "TFING的舞台呢",
@@ -739,12 +747,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 476262,
-      "num": 274008,
+      "raw_hot": 477984,
+      "num": 477984,
       "word": "许嵩冷到哈白气了",
       "onboard_time": 1735653988,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 476029,
+      "num": 476029,
+      "word": "丁禹兮直播",
+      "onboard_time": 1735655009,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 475705,
@@ -785,6 +801,14 @@
       "onboard_time": 1735636523,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 449589,
+      "num": 216102,
+      "word": "以后谁还说张凌赫不会唱歌",
+      "onboard_time": 1735655488,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 449122,
@@ -2211,6 +2235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177825,
+      "num": 4559041,
+      "word": "总书记的这些话暖心鼓劲",
+      "onboard_time": 1735650327,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 177499,
       "num": 177499,
       "word": "和2024好好道个别",
@@ -2273,14 +2305,6 @@
       "onboard_time": 1735634541,
       "rank": 48,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 170742,
-      "num": 2999968,
-      "word": "总书记的这些话暖心鼓劲",
-      "onboard_time": 1735650327,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 170473,
@@ -2363,6 +2387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165635,
+      "num": 215224,
+      "word": "WTT世界排名已删除樊振东",
+      "onboard_time": 1735640481,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165458,
       "num": 165458,
       "word": "田曦薇姜贞羽大奉女团出道",
@@ -2419,6 +2451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161550,
+      "num": 1351699,
+      "word": "一个个瞬间定格在这不平凡的一年",
+      "onboard_time": 1735652188,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 160822,
       "num": 160822,
       "word": "特朗普被判赔偿500万美元",
@@ -2433,14 +2473,6 @@
       "onboard_time": 1735617199,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 160255,
-      "num": 207417,
-      "word": "WTT世界排名已删除樊振东",
-      "onboard_time": 1735640481,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 157193,
@@ -2659,6 +2691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144483,
+      "num": 213442,
+      "word": "王楚钦总结2024展望2025",
+      "onboard_time": 1735655368,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143708,
       "num": 194847,
       "word": "成毅镜头签",
@@ -2857,14 +2897,6 @@
       "onboard_time": 1735601777,
       "rank": 41,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 127128,
-      "num": 1351699,
-      "word": "一个个瞬间定格在这不平凡的一年",
-      "onboard_time": 1735652188,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 126159,
@@ -3547,6 +3579,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 44060,
+      "num": 745138,
+      "word": "雷军跨年直播",
+      "onboard_time": 1735652848,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 43562,
       "num": 337946,
       "word": "2024年哪只股票最赚钱",
@@ -3683,14 +3723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 36778,
-      "num": 745138,
-      "word": "雷军跨年直播",
-      "onboard_time": 1735652848,
-      "rank": 24,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 36752,
       "num": 1214425,
       "word": "国之重器为元旦送硬核礼物",
@@ -3819,6 +3851,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 27538,
+      "num": 675713,
+      "word": "NBA为詹姆斯庆生",
+      "onboard_time": 1735652067,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 27344,
       "num": 129978,
       "word": "2024德玛西亚杯",
@@ -3841,6 +3881,14 @@
       "onboard_time": 1735645282,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 26715,
+      "num": 773648,
+      "word": "如何用演唱会神器拍跨年大片",
+      "onboard_time": 1735652067,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 26627,
@@ -3955,14 +4003,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24277,
-      "num": 773648,
-      "word": "如何用演唱会神器拍跨年大片",
-      "onboard_time": 1735652067,
-      "rank": 44,
-      "category": "数码"
-    },
-    {
       "raw_hot": 23801,
       "num": 206697,
       "word": "清明上河图密码台词含金量",
@@ -3995,14 +4035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 22526,
-      "num": 593468,
-      "word": "NBA为詹姆斯庆生",
-      "onboard_time": 1735652067,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 22511,
       "num": 327981,
       "word": "生成25个AI换脸视频只需59元",
@@ -4025,6 +4057,14 @@
       "onboard_time": 1735626799,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 22296,
+      "num": 215072,
+      "word": "郑钦文告别2024plog",
+      "onboard_time": 1735647507,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 22204,
@@ -4243,6 +4283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13050,
+      "num": 737842,
+      "word": "谷爱凌2025年的新年期待",
+      "onboard_time": 1735654830,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 12453,
       "num": 17069,
       "word": "每天认识一件文物",
@@ -4289,6 +4337,14 @@
       "onboard_time": 1735581013,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8355,
+      "num": 214036,
+      "word": "特仑苏跨年夜好忙",
+      "onboard_time": 1735655669,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 7854,
