@@ -1,6 +1,6 @@
 {
   "startTime": 1735576065390,
-  "endTime": 1735615569798,
+  "endTime": 1735616442205,
   "band_list": [
     {
       "raw_hot": 1781083,
@@ -35,6 +35,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1585029,
+      "num": 1585029,
+      "word": "潘宏不反对吃狗肉",
+      "onboard_time": 1735613356,
+      "rank": 19,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 1546982,
       "num": 1546982,
       "word": "2025跨年节目单",
@@ -43,12 +51,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1462727,
-      "num": 1462727,
-      "word": "潘宏不反对吃狗肉",
-      "onboard_time": 1735613356,
-      "rank": 19,
-      "category": "网红,民生新闻"
+      "raw_hot": 1441435,
+      "num": 1441435,
+      "word": "今年车厘子价格为何断崖式下跌",
+      "onboard_time": 1735613479,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 1318682,
@@ -65,14 +73,6 @@
       "onboard_time": 1735572980,
       "rank": 1,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1038195,
-      "num": 1038195,
-      "word": "今年车厘子价格为何断崖式下跌",
-      "onboard_time": 1735613479,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 995723,
@@ -179,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 463528,
+      "num": 429119,
+      "word": "韩安冉老公宋墨仿妆",
+      "onboard_time": 1735613298,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 449122,
       "num": 449122,
       "word": "韩国公开更多空难细节",
@@ -187,20 +195,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 448989,
+      "num": 448989,
+      "word": "济州航空6.8万张机票被取消",
+      "onboard_time": 1735614258,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 439582,
-      "num": 356033,
+      "num": 427703,
       "word": "亲生父母弃养女儿多年后要20万养育费",
       "onboard_time": 1735613058,
       "rank": 33,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 430071,
-      "num": 353939,
-      "word": "韩安冉老公宋墨仿妆",
-      "onboard_time": 1735613298,
-      "rank": 39,
-      "category": "网红"
+      "raw_hot": 416479,
+      "num": 416479,
+      "word": "行程图",
+      "onboard_time": 1735615160,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 413393,
@@ -225,6 +241,22 @@
       "onboard_time": 1735570701,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 386824,
+      "num": 386824,
+      "word": "樊振东和WTT各自在坚持什么",
+      "onboard_time": 1735614499,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 375805,
+      "num": 375805,
+      "word": "B站跨年晚会节目单",
+      "onboard_time": 1735613959,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 370952,
@@ -259,20 +291,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 345834,
-      "num": 345834,
-      "word": "B站跨年晚会节目单",
-      "onboard_time": 1735613959,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 340526,
       "num": 452486,
       "word": "李昀锐期待封神2和蛟龙行动",
       "onboard_time": 1735610418,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 332459,
+      "num": 332459,
+      "word": "难哄跨年吃的是国宴",
+      "onboard_time": 1735615518,
+      "rank": 23,
+      "category": "动漫"
     },
     {
       "raw_hot": 329883,
@@ -331,14 +363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 287088,
-      "num": 287088,
-      "word": "樊振东和WTT各自在坚持什么",
-      "onboard_time": 1735614499,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 284403,
       "num": 284403,
       "word": "吴奇隆马雅舒离婚后不同境遇",
@@ -371,20 +395,20 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 277778,
+      "num": 277778,
+      "word": "小伙买多次转手电动车电池爆炸身亡",
+      "onboard_time": 1735614678,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 273108,
       "num": 141811,
       "word": "大奉打更人热度",
       "onboard_time": 1735564940,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 272790,
-      "num": 272790,
-      "word": "难哄跨年吃的是国宴",
-      "onboard_time": 1735615518,
-      "rank": 23,
-      "category": "动漫"
     },
     {
       "raw_hot": 268085,
@@ -435,11 +459,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 237553,
-      "num": 237553,
-      "word": "小伙买多次转手电动车电池爆炸身亡",
-      "onboard_time": 1735614678,
-      "rank": 31,
+      "raw_hot": 242855,
+      "num": 242855,
+      "word": "张予曦 海的女儿上岸了",
+      "onboard_time": 1735615639,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 236728,
+      "num": 429889,
+      "word": "一条plog告别2024",
+      "onboard_time": 1735615339,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -571,12 +603,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 184912,
-      "num": 353828,
-      "word": "济州航空6.8万张机票被取消",
-      "onboard_time": 1735614258,
-      "rank": 12,
-      "category": "民生新闻"
+      "raw_hot": 183141,
+      "num": 183141,
+      "word": "浙江卫视跨年节目单",
+      "onboard_time": 1735615639,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 178246,
@@ -603,20 +635,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 169863,
-      "num": 352053,
-      "word": "一条plog告别2024",
-      "onboard_time": 1735615339,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 166965,
-      "num": 335495,
-      "word": "行程图",
-      "onboard_time": 1735615160,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 169483,
+      "num": 169483,
+      "word": "肖战郭靖新海报",
+      "onboard_time": 1735616299,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 166644,
@@ -649,6 +673,14 @@
       "onboard_time": 1735612878,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 156489,
+      "num": 156489,
+      "word": "刘宁任河南省委书记",
+      "onboard_time": 1735615278,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 155489,
@@ -715,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146964,
+      "num": 418206,
+      "word": "80后90后人群将成养老消费主力",
+      "onboard_time": 1735616119,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145922,
       "num": 126049,
       "word": "玫瑰星人狠狠心动了",
@@ -745,6 +785,14 @@
       "onboard_time": 1735566441,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141651,
+      "num": 141651,
+      "word": "小小的我总票房破3亿",
+      "onboard_time": 1735615339,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 138125,
@@ -833,6 +881,14 @@
       "onboard_time": 1735567942,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123707,
+      "num": 172620,
+      "word": "颠簸的生活被阿勒泰的雪景治愈",
+      "onboard_time": 1735615879,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 122262,
@@ -1195,6 +1251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45916,
+      "num": 225878,
+      "word": "每只都绝美的年度口红",
+      "onboard_time": 1735616419,
+      "rank": 29,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 45473,
       "num": 114757,
       "word": "2024我们一起走过",
@@ -1209,6 +1273,14 @@
       "onboard_time": 1735613599,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 39459,
+      "num": 238630,
+      "word": "湘奶奶在生命最后一年说出日军暴行",
+      "onboard_time": 1735615038,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38776,
@@ -1227,12 +1299,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35897,
-      "num": 238630,
-      "word": "湘奶奶在生命最后一年说出日军暴行",
-      "onboard_time": 1735615038,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 33514,
+      "num": 416941,
+      "word": "被AI视频渲染的汽车世界震撼到",
+      "onboard_time": 1735614019,
+      "rank": 14,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 33099,
+      "num": 175830,
+      "word": "孟晚舟发布华为2025新年致辞",
+      "onboard_time": 1735616179,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 30714,
@@ -1291,6 +1371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26466,
+      "num": 271850,
+      "word": "40岁詹姆斯的16个球场瞬间",
+      "onboard_time": 1735615758,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 25573,
       "num": 262748,
       "word": "中国网球队连续2年打进联合杯8强",
@@ -1321,14 +1409,6 @@
       "onboard_time": 1735592051,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 24322,
-      "num": 350958,
-      "word": "被AI视频渲染的汽车世界震撼到",
-      "onboard_time": 1735614019,
-      "rank": 14,
-      "category": "汽车"
     },
     {
       "raw_hot": 23557,
