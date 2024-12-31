@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735622490037,
+  "endTime": 1735623519101,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -145,6 +145,14 @@
       "onboard_time": 1735434137,
       "rank": 6,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 2058211,
+      "num": 346521,
+      "word": "赵露思老板",
+      "onboard_time": 1735621401,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1911388,
@@ -489,14 +497,6 @@
       "onboard_time": 1735472720,
       "rank": 4,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 1192536,
-      "num": 346521,
-      "word": "赵露思老板",
-      "onboard_time": 1735621401,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 1168597,
@@ -2027,6 +2027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 364911,
+      "num": 292136,
+      "word": "张加帅身高不够未能入镜",
+      "onboard_time": 1735622481,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 364126,
       "num": 364126,
       "word": "杜江霍思燕带娃和狗看帕丁顿熊",
@@ -2057,6 +2065,14 @@
       "onboard_time": 1735535302,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 356169,
+      "num": 356169,
+      "word": "父母将3个月大儿子拖朋友照顾却被偷",
+      "onboard_time": 1735616960,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 353747,
@@ -2145,14 +2161,6 @@
       "onboard_time": 1735533863,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 341132,
-      "num": 341132,
-      "word": "父母将3个月大儿子拖朋友照顾却被偷",
-      "onboard_time": 1735616960,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 340526,
@@ -2307,6 +2315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 321010,
+      "num": 321010,
+      "word": "湖南卫视节目单呢",
+      "onboard_time": 1735621941,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 320816,
       "num": 320816,
       "word": "普京对阿航坠机事件致歉",
@@ -2345,6 +2361,14 @@
       "onboard_time": 1735571121,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 316300,
+      "num": 316300,
+      "word": "许昕孩子假装给孙颖莎打电话",
+      "onboard_time": 1735622781,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 315258,
@@ -2939,12 +2963,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 256474,
-      "num": 239524,
-      "word": "湖南卫视节目单呢",
-      "onboard_time": 1735621941,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 256882,
+      "num": 235170,
+      "word": "大奉打更人团综",
+      "onboard_time": 1735621762,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 256125,
@@ -3137,6 +3161,14 @@
       "onboard_time": 1735539680,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 240971,
+      "num": 240971,
+      "word": "Hero久哲成为历史",
+      "onboard_time": 1735622601,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 240265,
@@ -3465,14 +3497,6 @@
       "onboard_time": 1735481842,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 215941,
-      "num": 215941,
-      "word": "大奉打更人团综",
-      "onboard_time": 1735621762,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 215445,
@@ -3811,6 +3835,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 203434,
+      "num": 262370,
+      "word": "杨紫演技就没让人失望过",
+      "onboard_time": 1735623200,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203257,
       "num": 203257,
       "word": "王一博我在彩排",
@@ -4027,6 +4059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197296,
+      "num": 197296,
+      "word": "J人已经开始预制年终总结了",
+      "onboard_time": 1735622360,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197038,
       "num": 277138,
       "word": "快乐再出发山海季官宣",
@@ -4044,7 +4084,7 @@
     },
     {
       "raw_hot": 196841,
-      "num": 196841,
+      "num": 338053,
       "word": "记录2024每个人的小荣耀",
       "onboard_time": 1735619003,
       "rank": 35,
@@ -4265,6 +4305,14 @@
       "onboard_time": 1735567403,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190868,
+      "num": 190868,
+      "word": "恋与深空什么时候登顶",
+      "onboard_time": 1735623200,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 190866,
@@ -4875,6 +4923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170473,
+      "num": 170473,
+      "word": "网红称去云南被当猪仔卖后致歉",
+      "onboard_time": 1735622301,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170320,
       "num": 170320,
       "word": "王鹤棣演唱会万人陪看大奉打更人",
@@ -5307,20 +5363,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157193,
+      "num": 157193,
+      "word": "汕头明润1比0黄石基地",
+      "onboard_time": 1735623500,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157153,
       "num": 484692,
       "word": "千万彩票被冒领当事人仍未拿到奖金",
       "onboard_time": 1735553779,
       "rank": 14,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 156708,
-      "num": 156708,
-      "word": "J人已经开始预制年终总结了",
-      "onboard_time": 1735622360,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 156530,
@@ -5473,14 +5529,6 @@
       "onboard_time": 1735562599,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 153656,
-      "num": 153656,
-      "word": "网红称去云南被当猪仔卖后致歉",
-      "onboard_time": 1735622301,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153318,
@@ -6115,6 +6163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132455,
+      "num": 269010,
+      "word": "谁给王心凌吴克群递个本子",
+      "onboard_time": 1735623141,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132138,
       "num": 262874,
       "word": "樊振东陈梦为何退出WTT",
@@ -6473,6 +6529,14 @@
       "onboard_time": 1735465040,
       "rank": 45,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 116702,
+      "num": 341163,
+      "word": "女孩知自己非亲生仍打工给奶奶挣钱治病",
+      "onboard_time": 1735621941,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116476,
@@ -7307,6 +7371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67618,
+      "num": 263954,
+      "word": "18元外卖包装费6元",
+      "onboard_time": 1735622061,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 67072,
       "num": 290590,
       "word": "中医建议服中药后少说话",
@@ -7528,22 +7600,6 @@
       "word": "多名男子赴云南高价闪婚被骗",
       "onboard_time": 1735561580,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 58041,
-      "num": 224339,
-      "word": "18元外卖包装费6元",
-      "onboard_time": 1735622061,
-      "rank": 29,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 57843,
-      "num": 341163,
-      "word": "女孩知自己非亲生仍打工给奶奶挣钱治病",
-      "onboard_time": 1735621941,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -8099,6 +8155,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 35329,
+      "num": 324346,
+      "word": "请假羞耻成了打工人的隐形枷锁",
+      "onboard_time": 1735622960,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34746,
       "num": 1671858,
       "word": "探寻中国电影的第一",
@@ -8539,6 +8603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 24916,
+      "num": 266061,
+      "word": "今年来近200家中小银行注销",
+      "onboard_time": 1735622901,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24764,
       "num": 36549,
       "word": "黄子弘凡除了快乐禁止入内",
@@ -8689,6 +8761,14 @@
       "onboard_time": 1735397122,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21903,
+      "num": 178481,
+      "word": "白举纲吉他版你快乐所以我快乐",
+      "onboard_time": 1735621343,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 21690,
@@ -8907,6 +8987,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 15568,
+      "num": 299753,
+      "word": "超七成受访者没听说过护理假",
+      "onboard_time": 1735622840,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15495,
       "num": 321258,
       "word": "平妖往事广播剧主役直播",
@@ -8948,7 +9036,7 @@
     },
     {
       "raw_hot": 14221,
-      "num": 243340,
+      "num": 267448,
       "word": "2024我的心里话",
       "onboard_time": 1735620142,
       "rank": 19,
@@ -9233,14 +9321,6 @@
       "onboard_time": 1735493534,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 6874,
-      "num": 158691,
-      "word": "白举纲吉他版你快乐所以我快乐",
-      "onboard_time": 1735621343,
-      "rank": 44,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

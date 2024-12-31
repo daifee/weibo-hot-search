@@ -1,0 +1,410 @@
+{
+  "runTime": 1735623519101,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7706080,
+        "num": 7706080,
+        "word": "赵露思好友曝她曾被公司殴打",
+        "onboard_time": 1735617620,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 787839,
+        "num": 787839,
+        "word": "今年车厘子价格为何断崖式下跌",
+        "onboard_time": 1735613479,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 34910,
+        "num": 567692,
+        "word": "国之重器为元旦送硬核礼物",
+        "onboard_time": 1735580533,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356169,
+        "num": 356169,
+        "word": "父母将3个月大儿子拖朋友照顾却被偷",
+        "onboard_time": 1735616960,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346327,
+        "num": 346327,
+        "word": "韩国空难机场跑道尽头为何有墙",
+        "onboard_time": 1735610118,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 2058211,
+        "num": 346172,
+        "word": "赵露思老板",
+        "onboard_time": 1735621401,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1285392,
+        "num": 344079,
+        "word": "张加帅",
+        "onboard_time": 1735617860,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 633064,
+        "num": 342876,
+        "word": "银河酷娱",
+        "onboard_time": 1735619901,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340577,
+        "num": 340577,
+        "word": "韩国法院批准尹锡悦逮捕令",
+        "onboard_time": 1735605019,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107275,
+        "num": 338053,
+        "word": "记录2024每个人的小荣耀",
+        "onboard_time": 1735619003,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 613735,
+        "num": 336644,
+        "word": "Angelababy瑞丽开年刊封面",
+        "onboard_time": 1735620802,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 604291,
+        "num": 334867,
+        "word": "潘宏不反对吃狗肉",
+        "onboard_time": 1735613356,
+        "rank": 11,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 460560,
+        "num": 330827,
+        "word": "2025跨年节目单",
+        "onboard_time": 1735613058,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116702,
+        "num": 328516,
+        "word": "女孩知自己非亲生仍打工给奶奶挣钱治病",
+        "onboard_time": 1735621941,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35329,
+        "num": 324346,
+        "word": "请假羞耻成了打工人的隐形枷锁",
+        "onboard_time": 1735622960,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 423395,
+        "num": 323338,
+        "word": "周也一番",
+        "onboard_time": 1735621583,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321010,
+        "num": 321010,
+        "word": "湖南卫视节目单呢",
+        "onboard_time": 1735621941,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316300,
+        "num": 316300,
+        "word": "许昕孩子假装给孙颖莎打电话",
+        "onboard_time": 1735622781,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307849,
+        "num": 307849,
+        "word": "被吐槽像棺材的地铁口已进行拆除",
+        "onboard_time": 1735619243,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15568,
+        "num": 299753,
+        "word": "超七成受访者没听说过护理假",
+        "onboard_time": 1735622840,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364911,
+        "num": 292136,
+        "word": "张加帅身高不够未能入镜",
+        "onboard_time": 1735622481,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360225,
+        "num": 281457,
+        "word": "陈学冬疑似退圈定居美国",
+        "onboard_time": 1735605319,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310406,
+        "num": 275035,
+        "word": "饿瘦和运动瘦的区别",
+        "onboard_time": 1735618641,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 270588,
+        "num": 270588,
+        "word": "迪丽热巴坐车的习惯是遗传妈妈",
+        "onboard_time": 1735617739,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269914,
+        "num": 269914,
+        "word": "年终奖才是真正的试金石",
+        "onboard_time": 1735617860,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132455,
+        "num": 269010,
+        "word": "谁给王心凌吴克群递个本子",
+        "onboard_time": 1735623141,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 8557,
+        "num": 267448,
+        "word": "2024我的心里话",
+        "onboard_time": 1735620142,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24916,
+        "num": 266061,
+        "word": "今年来近200家中小银行注销",
+        "onboard_time": 1735622901,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67618,
+        "num": 263954,
+        "word": "18元外卖包装费6元",
+        "onboard_time": 1735622061,
+        "rank": 28,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 203434,
+        "num": 262370,
+        "word": "杨紫演技就没让人失望过",
+        "onboard_time": 1735623200,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261723,
+        "num": 261723,
+        "word": "韩国空难遇难者群像",
+        "onboard_time": 1735612458,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 240971,
+        "num": 240971,
+        "word": "Hero久哲成为历史",
+        "onboard_time": 1735622601,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 256882,
+        "num": 235170,
+        "word": "大奉打更人团综",
+        "onboard_time": 1735621762,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228418,
+        "num": 228418,
+        "word": "小伙买多次转手电动车电池爆炸身亡",
+        "onboard_time": 1735614678,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215571,
+        "num": 215571,
+        "word": "草莓价格上涨车厘子连降",
+        "onboard_time": 1735617080,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206340,
+        "num": 206340,
+        "word": "2024最后一次",
+        "onboard_time": 1735607719,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197296,
+        "num": 197296,
+        "word": "J人已经开始预制年终总结了",
+        "onboard_time": 1735622360,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190868,
+        "num": 190868,
+        "word": "恋与深空什么时候登顶",
+        "onboard_time": 1735623200,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186017,
+        "num": 186017,
+        "word": "B站跨年晚会节目单",
+        "onboard_time": 1735613959,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185745,
+        "num": 185745,
+        "word": "网红潘宏回应被请求打压狗肉馆",
+        "onboard_time": 1735621161,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183454,
+        "num": 183454,
+        "word": "白鹿 花仙子",
+        "onboard_time": 1735621461,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183271,
+        "num": 183271,
+        "word": "广州花地湾地铁站龙虾造型引热议",
+        "onboard_time": 1735607419,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180371,
+        "num": 180371,
+        "word": "济州航空6.8万张机票被取消",
+        "onboard_time": 1735614258,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21903,
+        "num": 178481,
+        "word": "白举纲吉他版你快乐所以我快乐",
+        "onboard_time": 1735621343,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178159,
+        "num": 178159,
+        "word": "医生下班后的这个折返太帅了",
+        "onboard_time": 1735621161,
+        "rank": 44,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 173907,
+        "num": 173907,
+        "word": "薛飞3比1林高远",
+        "onboard_time": 1735620980,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170473,
+        "num": 170473,
+        "word": "网红称去云南被当猪仔卖后致歉",
+        "onboard_time": 1735622301,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166416,
+        "num": 166416,
+        "word": "低成本养气血的8种方法",
+        "onboard_time": 1735618580,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157637,
+        "num": 157637,
+        "word": "肖战徐克2025祝福",
+        "onboard_time": 1735621822,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157193,
+        "num": 157193,
+        "word": "汕头明润1比0黄石基地",
+        "onboard_time": 1735623500,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系人民步履不停#"
+    }
+  }
+}
