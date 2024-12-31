@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1735636967934,
+  "endTime": 1735637775167,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -2291,6 +2291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 8551893,
+      "num": 2104837,
+      "word": "赵露思 救救我",
+      "onboard_time": 1735633520,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 8542450,
       "num": 8542450,
       "word": "王楚钦一上网天塌了",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1714720519,
       "rank": 46,
       "category": "网红,社会新闻"
-    },
-    {
-      "raw_hot": 8325244,
-      "num": 419947,
-      "word": "那英 who撺掇you",
-      "onboard_time": 1716552384,
-      "rank": 10,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

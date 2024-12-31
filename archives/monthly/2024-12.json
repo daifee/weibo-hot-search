@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1735636967934,
+  "endTime": 1735637775167,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -179,7 +179,7 @@
       "category": "读书作家,艺人"
     },
     {
-      "raw_hot": 8295124,
+      "raw_hot": 8551893,
       "num": 2104837,
       "word": "赵露思 救救我",
       "onboard_time": 1735633520,
@@ -3577,6 +3577,14 @@
       "onboard_time": 1733301747,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1305671,
+      "num": 189891,
+      "word": "张颂文曾愿赵露思终生不经历轮椅",
+      "onboard_time": 1735637481,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 1303722,
@@ -19115,6 +19123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 451580,
+      "num": 1072252,
+      "word": "中国乒协公告",
+      "onboard_time": 1735635861,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 451465,
       "num": 451465,
       "word": "檀健次虞书欣 合作",
@@ -22027,6 +22043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 397271,
+      "num": 397271,
+      "word": "乒协称将为马龙樊振东陈梦提供最大支持",
+      "onboard_time": 1735635381,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 397113,
       "num": 397113,
       "word": "英国夫妇纯素食饿死3岁儿子",
@@ -23075,6 +23099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 378347,
+      "num": 343317,
+      "word": "博主发布白敬亭占春山言论被判不实",
+      "onboard_time": 1735635143,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 378228,
       "num": 378228,
       "word": "九重紫最大尺度",
@@ -23865,14 +23897,6 @@
       "onboard_time": 1735209078,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 365221,
-      "num": 365221,
-      "word": "乒协称将为马龙樊振东陈梦提供最大支持",
-      "onboard_time": 1735635381,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 364659,
@@ -25177,14 +25201,6 @@
       "onboard_time": 1734505159,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 345270,
-      "num": 345270,
-      "word": "中国乒协公告",
-      "onboard_time": 1735635861,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 345260,
@@ -27819,14 +27835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 310895,
-      "num": 343317,
-      "word": "博主发布白敬亭占春山言论被判不实",
-      "onboard_time": 1735635143,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 310775,
       "num": 354607,
       "word": "中国向联合国交存黄岩岛领海基线声明",
@@ -30267,6 +30275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 280753,
+      "num": 280753,
+      "word": "跨年文案",
+      "onboard_time": 1735636101,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 280671,
       "num": 280671,
       "word": "绝区零",
@@ -30745,6 +30761,14 @@
       "onboard_time": 1733997799,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 276077,
+      "num": 276077,
+      "word": "偶遇许嵩冯禧挽手逛街",
+      "onboard_time": 1735637301,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 276047,
@@ -32699,14 +32723,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 256676,
-      "num": 256676,
-      "word": "跨年文案",
-      "onboard_time": 1735636101,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 256594,
       "num": 239448,
       "word": "原来韩国公务员的工资也很少",
@@ -33217,6 +33233,14 @@
       "onboard_time": 1734228918,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252333,
+      "num": 334216,
+      "word": "曾黎 有些人永远看不到2025年的曙光",
+      "onboard_time": 1735636703,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 252311,
@@ -36505,6 +36529,14 @@
       "onboard_time": 1735304781,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 229016,
+      "num": 229016,
+      "word": "杨紫2024最后一天也在剧组",
+      "onboard_time": 1735636282,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 228953,
@@ -41571,6 +41603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204401,
+      "num": 189207,
+      "word": "丁禹兮新岁踏光",
+      "onboard_time": 1735636703,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204379,
       "num": 224073,
       "word": "魏如萱 我没有",
@@ -42913,14 +42953,6 @@
       "onboard_time": 1733068398,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 200433,
-      "num": 200433,
-      "word": "杨紫2024最后一天也在剧组",
-      "onboard_time": 1735636282,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 200394,
@@ -47627,6 +47659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188563,
+      "num": 188563,
+      "word": "虞书欣海底精灵",
+      "onboard_time": 1735637242,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188549,
       "num": 188549,
       "word": "CBA",
@@ -50139,14 +50179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 180458,
-      "num": 189207,
-      "word": "丁禹兮新岁踏光",
-      "onboard_time": 1735636703,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 180445,
       "num": 180445,
       "word": "CN赛区夺得CFS总冠军",
@@ -51584,6 +51616,14 @@
       "word": "丁禹兮说体验过灰姑娘",
       "onboard_time": 1734618381,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 175777,
+      "num": 216261,
+      "word": "时代少年团 听取紫啧声一片",
+      "onboard_time": 1735637421,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -63867,6 +63907,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 143770,
+      "num": 143770,
+      "word": "独子贷款买房后去世母亲要求退还首付",
+      "onboard_time": 1735636821,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143755,
       "num": 292496,
       "word": "以官方首次公开承认暗杀哈尼亚",
@@ -65801,6 +65849,14 @@
       "onboard_time": 1734772579,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 138838,
+      "num": 138838,
+      "word": "华晨宇贺峻霖跨年合唱",
+      "onboard_time": 1735637602,
+      "rank": 42,
+      "category": "综艺,演出"
     },
     {
       "raw_hot": 138828,
@@ -68129,14 +68185,6 @@
       "onboard_time": 1734410481,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 132600,
-      "num": 132600,
-      "word": "独子贷款买房后去世母亲要求退还首付",
-      "onboard_time": 1735636821,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132591,
@@ -84739,6 +84787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76085,
+      "num": 198808,
+      "word": "曾舜晞你小子穿内搭就见外了",
+      "onboard_time": 1735637181,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 76074,
       "num": 76074,
       "word": "路易吉表示不认罪",
@@ -88539,14 +88595,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 62066,
-      "num": 334216,
-      "word": "曾黎 有些人永远看不到2025年的曙光",
-      "onboard_time": 1735636703,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 62053,
       "num": 132804,
       "word": "买意外险工作中猝死不能赔合理吗",
@@ -92003,6 +92051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51379,
+      "num": 147370,
+      "word": "这小说写的太好了",
+      "onboard_time": 1735637602,
+      "rank": 39,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 51360,
       "num": 202671,
       "word": "TheShy参加solo选边",
@@ -94419,6 +94475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 44936,
+      "num": 341031,
+      "word": "嫦娥六号年终总结",
+      "onboard_time": 1735636580,
+      "rank": 14,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 44906,
       "num": 169164,
       "word": "白宇拍的国乒",
@@ -94953,6 +95017,14 @@
       "onboard_time": 1733407582,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 43562,
+      "num": 337946,
+      "word": "2024年哪只股票最赚钱",
+      "onboard_time": 1735636223,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 43539,
@@ -95577,14 +95649,6 @@
       "onboard_time": 1735223060,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42175,
-      "num": 337946,
-      "word": "2024年哪只股票最赚钱",
-      "onboard_time": 1735636223,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 42147,
@@ -98833,14 +98897,6 @@
       "onboard_time": 1734867139,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34850,
-      "num": 341031,
-      "word": "嫦娥六号年终总结",
-      "onboard_time": 1735636580,
-      "rank": 14,
-      "category": "正能量"
     },
     {
       "raw_hot": 34844,
@@ -104499,6 +104555,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 23520,
+      "num": 191890,
+      "word": "女婴3次开胸急送杭州他们接力护送",
+      "onboard_time": 1735637121,
+      "rank": 28,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 23436,
       "num": 24072,
       "word": "歌谣大战",
@@ -104849,6 +104913,14 @@
       "onboard_time": 1734506179,
       "rank": 27,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 22629,
+      "num": 157270,
+      "word": "清明上河图密码剧情反转",
+      "onboard_time": 1735635021,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 22612,
@@ -105953,14 +106025,6 @@
       "onboard_time": 1733599452,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 20231,
-      "num": 157270,
-      "word": "清明上河图密码剧情反转",
-      "onboard_time": 1735635021,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 20216,
@@ -110409,6 +110473,14 @@
       "onboard_time": 1733412859,
       "rank": 18,
       "category": "网红"
+    },
+    {
+      "raw_hot": 9591,
+      "num": 190362,
+      "word": "浙大把射雕英雄传唱出花了",
+      "onboard_time": 1735637661,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 9586,
