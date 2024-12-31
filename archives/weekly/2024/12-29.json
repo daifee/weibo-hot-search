@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735658536227,
+  "endTime": 1735659403627,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -299,12 +299,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2062843,
+      "num": 747750,
+      "word": "李昀锐有点紧张",
+      "onboard_time": 1735657828,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2058211,
       "num": 346521,
       "word": "赵露思老板",
       "onboard_time": 1735621401,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2007598,
+      "num": 750893,
+      "word": "假唱",
+      "onboard_time": 1735655966,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1967905,
+      "num": 751687,
+      "word": "王力宏状态",
+      "onboard_time": 1735657707,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 1941328,
@@ -321,22 +345,6 @@
       "onboard_time": 1735566500,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1896701,
-      "num": 751687,
-      "word": "王力宏状态",
-      "onboard_time": 1735657707,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1884137,
-      "num": 750893,
-      "word": "假唱",
-      "onboard_time": 1735655966,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 1865951,
@@ -777,14 +785,6 @@
       "onboard_time": 1735562780,
       "rank": 22,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1150844,
-      "num": 747750,
-      "word": "李昀锐有点紧张",
-      "onboard_time": 1735657828,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 1142187,
@@ -1379,6 +1379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 684412,
+      "num": 753002,
+      "word": "女子捡漏30万黄金女儿怕诈骗急哭",
+      "onboard_time": 1735657828,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 683671,
       "num": 683671,
       "word": "黄子韬说低估了大家的能力",
@@ -1427,6 +1435,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 662804,
+      "num": 662804,
+      "word": "李雪琴妆造好美",
+      "onboard_time": 1735656867,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 662114,
       "num": 662114,
       "word": "当妈妈花4300元网购了一个亭子",
@@ -1464,6 +1480,14 @@
       "word": "向佐致歉",
       "onboard_time": 1735563200,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 652434,
+      "num": 259010,
+      "word": "娜扎硬美",
+      "onboard_time": 1735659327,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -1803,14 +1827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 537961,
-      "num": 753002,
-      "word": "女子捡漏30万黄金女儿怕诈骗急哭",
-      "onboard_time": 1735657828,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 536261,
       "num": 536261,
       "word": "江苏卫视音响怎么回事",
@@ -1891,6 +1907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 513796,
+      "num": 513796,
+      "word": "马龙王鹤棣打乒乓球",
+      "onboard_time": 1735659086,
+      "rank": 26,
+      "category": "体育,综艺"
+    },
+    {
       "raw_hot": 513755,
       "num": 513755,
       "word": "韩国起火客机无中国籍乘客",
@@ -1960,14 +1984,6 @@
       "word": "白鹿王楚然周也同框",
       "onboard_time": 1735562900,
       "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 501186,
-      "num": 501186,
-      "word": "李雪琴妆造好美",
-      "onboard_time": 1735656867,
-      "rank": 28,
       "category": "综艺"
     },
     {
@@ -2211,6 +2227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 451174,
+      "num": 451174,
+      "word": "白鹿 人美歌甜",
+      "onboard_time": 1735656987,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 450249,
       "num": 370302,
       "word": "首尔车辆冲撞人群事件已致10人受伤",
@@ -2232,14 +2256,6 @@
       "word": "以后谁还说张凌赫不会唱歌",
       "onboard_time": 1735655488,
       "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 449162,
-      "num": 449162,
-      "word": "白鹿 人美歌甜",
-      "onboard_time": 1735656987,
-      "rank": 32,
       "category": "综艺"
     },
     {
@@ -2340,7 +2356,7 @@
     },
     {
       "raw_hot": 432440,
-      "num": 315388,
+      "num": 396853,
       "word": "周深飞的也太高了",
       "onboard_time": 1735657167,
       "rank": 36,
@@ -2899,6 +2915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 351291,
+      "num": 259711,
+      "word": "五月天跨年演唱会",
+      "onboard_time": 1735658727,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 350133,
       "num": 350133,
       "word": "韩国代总统被警方立案调查",
@@ -3217,6 +3241,14 @@
       "onboard_time": 1735571121,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 317211,
+      "num": 744923,
+      "word": "王楚钦回应战胜樊振东",
+      "onboard_time": 1735658126,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 315990,
@@ -4075,6 +4107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 248582,
+      "num": 2975442,
+      "word": "央视跨年的格局大了",
+      "onboard_time": 1735657348,
+      "rank": 2,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248550,
       "num": 259337,
       "word": "王太利看完误杀3不想跟肖央说话",
@@ -4481,6 +4521,14 @@
       "onboard_time": 1735482382,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 224717,
+      "num": 744485,
+      "word": "樊振东离场时向球迷招手",
+      "onboard_time": 1735658246,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 223081,
@@ -5163,14 +5211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199743,
-      "num": 2975442,
-      "word": "央视跨年的格局大了",
-      "onboard_time": 1735657348,
-      "rank": 2,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 199686,
       "num": 199686,
       "word": "李宇春 老了之后自然会调整",
@@ -5196,7 +5236,7 @@
     },
     {
       "raw_hot": 198813,
-      "num": 198813,
+      "num": 259536,
       "word": "徐娇劝阻男子餐厅抽烟后续",
       "onboard_time": 1735655908,
       "rank": 39,
@@ -5521,14 +5561,6 @@
       "onboard_time": 1735467019,
       "rank": 27,
       "category": "电影,艺人"
-    },
-    {
-      "raw_hot": 191514,
-      "num": 744485,
-      "word": "樊振东离场时向球迷招手",
-      "onboard_time": 1735658246,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 191468,
@@ -6283,6 +6315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 173950,
+      "num": 596151,
+      "word": "再见我们的2024",
+      "onboard_time": 1735656269,
+      "rank": 46,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 173889,
       "num": 173889,
       "word": "肖战希望大家可以喜欢专辑我们",
@@ -6313,14 +6353,6 @@
       "onboard_time": 1735622242,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 172674,
-      "num": 193419,
-      "word": "再见我们的2024",
-      "onboard_time": 1735656269,
-      "rank": 46,
-      "category": "正能量"
     },
     {
       "raw_hot": 172488,
@@ -6609,6 +6641,14 @@
       "onboard_time": 1735541178,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 165678,
+      "num": 463474,
+      "word": "祝大家所愿皆所成",
+      "onboard_time": 1735644560,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165635,
@@ -7619,14 +7659,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 140364,
-      "num": 463474,
-      "word": "祝大家所愿皆所成",
-      "onboard_time": 1735644560,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140294,
       "num": 140294,
       "word": "王曼昱复出",
@@ -8491,6 +8523,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 106923,
+      "num": 1430203,
+      "word": "让人民过上幸福生活是头等大事",
+      "onboard_time": 1735657467,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 106889,
       "num": 356326,
       "word": "张远和鸟吵起来了",
@@ -8633,14 +8673,6 @@
       "onboard_time": 1735523838,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 100941,
-      "num": 744923,
-      "word": "王楚钦回应战胜樊振东",
-      "onboard_time": 1735658126,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 100909,
@@ -9065,14 +9097,6 @@
       "onboard_time": 1735562780,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 79181,
-      "num": 1430203,
-      "word": "让人民过上幸福生活是头等大事",
-      "onboard_time": 1735657467,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 79126,
@@ -10379,6 +10403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32339,
+      "num": 747345,
+      "word": "特仑苏跨年夜好忙",
+      "onboard_time": 1735655669,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 32273,
       "num": 49272,
       "word": "泽连斯基就坠机事件向阿塞拜疆表示慰问",
@@ -10393,14 +10425,6 @@
       "onboard_time": 1735549459,
       "rank": 19,
       "category": "美食"
-    },
-    {
-      "raw_hot": 31990,
-      "num": 747345,
-      "word": "特仑苏跨年夜好忙",
-      "onboard_time": 1735655669,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 31580,
@@ -11681,6 +11705,14 @@
       "onboard_time": 1735493534,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 6618,
+      "num": 258630,
+      "word": "雷军回应股价回升",
+      "onboard_time": 1735659208,
+      "rank": 49,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 5858,

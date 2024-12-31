@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1735658536227,
+  "endTime": 1735659403627,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -1347,6 +1347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 2062843,
+      "num": 747750,
+      "word": "李昀锐有点紧张",
+      "onboard_time": 1735657828,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2058330,
       "num": 348058,
       "word": "可口可乐发布会",
@@ -1411,6 +1419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2007598,
+      "num": 750893,
+      "word": "假唱",
+      "onboard_time": 1735655966,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1985544,
       "num": 1674830,
       "word": "Angelababy直播",
@@ -1457,6 +1473,14 @@
       "onboard_time": 1733119879,
       "rank": 0,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 1967905,
+      "num": 751687,
+      "word": "王力宏状态",
+      "onboard_time": 1735657707,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 1967180,
@@ -1603,14 +1627,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1896701,
-      "num": 751687,
-      "word": "王力宏状态",
-      "onboard_time": 1735657707,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1894073,
       "num": 1894073,
       "word": "女子花368888赌石切开不满意想退款",
@@ -1641,14 +1657,6 @@
       "onboard_time": 1733290938,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1884137,
-      "num": 750893,
-      "word": "假唱",
-      "onboard_time": 1735655966,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 1876388,
@@ -4873,14 +4881,6 @@
       "onboard_time": 1734424819,
       "rank": 43,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1150844,
-      "num": 747750,
-      "word": "李昀锐有点紧张",
-      "onboard_time": 1735657828,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 1150450,
@@ -11395,6 +11395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 684412,
+      "num": 753002,
+      "word": "女子捡漏30万黄金女儿怕诈骗急哭",
+      "onboard_time": 1735657828,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 684081,
       "num": 520535,
       "word": "白鹿妆造",
@@ -11979,6 +11987,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 662804,
+      "num": 662804,
+      "word": "李雪琴妆造好美",
+      "onboard_time": 1735656867,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 662779,
       "num": 603080,
       "word": "杨子 延迟退休",
@@ -12297,6 +12313,14 @@
       "onboard_time": 1734572237,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 652434,
+      "num": 259010,
+      "word": "娜扎硬美",
+      "onboard_time": 1735659327,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 651552,
@@ -15883,14 +15907,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 537961,
-      "num": 753002,
-      "word": "女子捡漏30万黄金女儿怕诈骗急哭",
-      "onboard_time": 1735657828,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 536971,
       "num": 490207,
       "word": "向佐找晓华3小时做新发型",
@@ -16915,6 +16931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 513796,
+      "num": 513796,
+      "word": "马龙王鹤棣打乒乓球",
+      "onboard_time": 1735659086,
+      "rank": 26,
+      "category": "体育,综艺"
+    },
+    {
       "raw_hot": 513775,
       "num": 513775,
       "word": "iG全神班首秀",
@@ -17305,14 +17329,6 @@
       "onboard_time": 1734409760,
       "rank": 13,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 501186,
-      "num": 501186,
-      "word": "李雪琴妆造好美",
-      "onboard_time": 1735656867,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 501131,
@@ -19627,6 +19643,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 451174,
+      "num": 451174,
+      "word": "白鹿 人美歌甜",
+      "onboard_time": 1735656987,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 451172,
       "num": 451172,
       "word": "极越",
@@ -19697,14 +19721,6 @@
       "onboard_time": 1734158178,
       "rank": 46,
       "category": "教育"
-    },
-    {
-      "raw_hot": 449162,
-      "num": 449162,
-      "word": "白鹿 人美歌甜",
-      "onboard_time": 1735656987,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 449122,
@@ -20516,7 +20532,7 @@
     },
     {
       "raw_hot": 432440,
-      "num": 315388,
+      "num": 396853,
       "word": "周深飞的也太高了",
       "onboard_time": 1735657167,
       "rank": 36,
@@ -25435,6 +25451,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 351291,
+      "num": 259711,
+      "word": "五月天跨年演唱会",
+      "onboard_time": 1735658727,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 351275,
       "num": 311822,
       "word": "Zeus",
@@ -27921,6 +27945,14 @@
       "onboard_time": 1734583101,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 317211,
+      "num": 744923,
+      "word": "王楚钦回应战胜樊振东",
+      "onboard_time": 1735658126,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 317172,
@@ -34355,6 +34387,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 248582,
+      "num": 2975442,
+      "word": "央视跨年的格局大了",
+      "onboard_time": 1735657348,
+      "rank": 2,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248550,
       "num": 259337,
       "word": "王太利看完误杀3不想跟肖央说话",
@@ -37945,6 +37985,14 @@
       "onboard_time": 1733897839,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224717,
+      "num": 744485,
+      "word": "樊振东离场时向球迷招手",
+      "onboard_time": 1735658246,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 224647,
@@ -43923,14 +43971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199743,
-      "num": 2975442,
-      "word": "央视跨年的格局大了",
-      "onboard_time": 1735657348,
-      "rank": 2,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 199686,
       "num": 199686,
       "word": "李宇春 老了之后自然会调整",
@@ -44196,7 +44236,7 @@
     },
     {
       "raw_hot": 198813,
-      "num": 198813,
+      "num": 259536,
       "word": "徐娇劝阻男子餐厅抽烟后续",
       "onboard_time": 1735655908,
       "rank": 39,
@@ -47153,14 +47193,6 @@
       "onboard_time": 1733316863,
       "rank": 9,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 191514,
-      "num": 744485,
-      "word": "樊振东离场时向球迷招手",
-      "onboard_time": 1735658246,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 191509,
@@ -53107,6 +53139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173950,
+      "num": 596151,
+      "word": "再见我们的2024",
+      "onboard_time": 1735656269,
+      "rank": 46,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 173944,
       "num": 376344,
       "word": "陈丽君回应粉丝",
@@ -53545,14 +53585,6 @@
       "onboard_time": 1734843858,
       "rank": 33,
       "category": "教育"
-    },
-    {
-      "raw_hot": 172674,
-      "num": 193419,
-      "word": "再见我们的2024",
-      "onboard_time": 1735656269,
-      "rank": 46,
-      "category": "正能量"
     },
     {
       "raw_hot": 172662,
@@ -56137,6 +56169,14 @@
       "onboard_time": 1734883697,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 165678,
+      "num": 463474,
+      "word": "祝大家所愿皆所成",
+      "onboard_time": 1735644560,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165663,
@@ -66337,14 +66377,6 @@
       "onboard_time": 1734098840,
       "rank": 42,
       "category": "演出,演出"
-    },
-    {
-      "raw_hot": 140364,
-      "num": 463474,
-      "word": "祝大家所愿皆所成",
-      "onboard_time": 1735644560,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 140359,
@@ -78123,6 +78155,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 106923,
+      "num": 1430203,
+      "word": "让人民过上幸福生活是头等大事",
+      "onboard_time": 1735657467,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 106914,
       "num": 106914,
       "word": "大学生有自己的帝皇铠甲",
@@ -79737,14 +79777,6 @@
       "onboard_time": 1734088159,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 100941,
-      "num": 744923,
-      "word": "王楚钦回应战胜樊振东",
-      "onboard_time": 1735658126,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 100933,
@@ -85169,14 +85201,6 @@
       "onboard_time": 1735562780,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 79181,
-      "num": 1430203,
-      "word": "让人民过上幸福生活是头等大事",
-      "onboard_time": 1735657467,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 79126,
@@ -101395,6 +101419,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 32339,
+      "num": 747345,
+      "word": "特仑苏跨年夜好忙",
+      "onboard_time": 1735655669,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 32334,
       "num": 178973,
       "word": "当地回应租农院停车需再交进村费",
@@ -101625,14 +101657,6 @@
       "onboard_time": 1734110654,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 31990,
-      "num": 747345,
-      "word": "特仑苏跨年夜好忙",
-      "onboard_time": 1735655669,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 31985,
@@ -112729,6 +112753,14 @@
       "onboard_time": 1734722831,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 6618,
+      "num": 258630,
+      "word": "雷军回应股价回升",
+      "onboard_time": 1735659208,
+      "rank": 49,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 6614,
