@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735736200039,
+  "endTime": 1735737941737,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -227,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1135342,
+      "num": 608469,
+      "word": "韩国空难最小遇难者生前最后照片",
+      "onboard_time": 1735730541,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1128280,
       "num": 1128280,
       "word": "杨幂还是这么甜",
@@ -241,14 +249,6 @@
       "onboard_time": 1735664063,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1060393,
-      "num": 608469,
-      "word": "韩国空难最小遇难者生前最后照片",
-      "onboard_time": 1735730541,
-      "rank": 10,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1017412,
@@ -313,6 +313,14 @@
       "onboard_time": 1735661546,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 960505,
+      "num": 960505,
+      "word": "日本电视塔跨年倒数完竟直接关灯",
+      "onboard_time": 1735733721,
+      "rank": 4,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 931934,
@@ -395,12 +403,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 815143,
-      "num": 815143,
-      "word": "日本电视塔跨年倒数完竟直接关灯",
-      "onboard_time": 1735733721,
-      "rank": 4,
-      "category": "海外新闻"
+      "raw_hot": 802140,
+      "num": 501766,
+      "word": "庞博文 小怡同学",
+      "onboard_time": 1735735281,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 801403,
@@ -473,6 +481,22 @@
       "onboard_time": 1735662445,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 724571,
+      "num": 724571,
+      "word": "张峻豪正式出道",
+      "onboard_time": 1735737440,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 713962,
+      "num": 496856,
+      "word": "时代峰峻",
+      "onboard_time": 1735737801,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 687973,
@@ -747,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 422128,
+      "num": 422128,
+      "word": "王楚钦3比2林诗栋",
+      "onboard_time": 1735736002,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 421369,
       "num": 346258,
       "word": "中国乒协同意马龙樊振东陈梦退出世排",
@@ -881,14 +913,6 @@
       "onboard_time": 1735703540,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 373881,
-      "num": 373881,
-      "word": "庞博文 小怡同学",
-      "onboard_time": 1735735281,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 372814,
@@ -1171,6 +1195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270093,
+      "num": 338460,
+      "word": "时代峰峻有自己的换头笑话",
+      "onboard_time": 1735734563,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265897,
       "num": 265897,
       "word": "DQ Chiikawa",
@@ -1257,14 +1289,6 @@
       "onboard_time": 1735645882,
       "rank": 35,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 245953,
-      "num": 245953,
-      "word": "时代峰峻有自己的换头笑话",
-      "onboard_time": 1735734563,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 245315,
@@ -1483,6 +1507,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 205180,
+      "num": 205180,
+      "word": "猎罪图鉴",
+      "onboard_time": 1735737021,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205175,
       "num": 205175,
       "word": "喻言出场好辣",
@@ -1515,12 +1547,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200815,
+      "num": 201655,
+      "word": "昆明一步行街蛇宝宝花灯丑萌出圈",
+      "onboard_time": 1735733721,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200693,
       "num": 200693,
       "word": "欣有林兮",
       "onboard_time": 1735689377,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200148,
+      "num": 202377,
+      "word": "王俊凯你还是太强了",
+      "onboard_time": 1735737382,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 198629,
@@ -1555,6 +1603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196568,
+      "num": 196568,
+      "word": "你好星期六三周年",
+      "onboard_time": 1735737021,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194875,
       "num": 301771,
       "word": "香港用水门礼迎接国产大飞机C919",
@@ -1569,6 +1625,14 @@
       "onboard_time": 1735711940,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193960,
+      "num": 200916,
+      "word": "王楚钦2025首战开门红",
+      "onboard_time": 1735737801,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 193734,
@@ -1707,8 +1771,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182553,
+      "num": 182553,
+      "word": "假如猎罪图鉴3的开头是这样的",
+      "onboard_time": 1735735941,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182159,
-      "num": 182159,
+      "num": 188792,
       "word": "山东鲁能队夺冠",
       "onboard_time": 1735716560,
       "rank": 31,
@@ -1721,14 +1793,6 @@
       "onboard_time": 1735706360,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 180967,
-      "num": 201655,
-      "word": "昆明一步行街蛇宝宝花灯丑萌出圈",
-      "onboard_time": 1735733721,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 179074,
@@ -1793,6 +1857,14 @@
       "onboard_time": 1735668858,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175077,
+      "num": 175077,
+      "word": "NAME晒虞书欣吴宣仪新年合照",
+      "onboard_time": 1735737562,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 174665,
@@ -1889,6 +1961,14 @@
       "onboard_time": 1735666820,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 165295,
+      "num": 165295,
+      "word": "杀熊救妻丈夫与熊搏斗近半小时",
+      "onboard_time": 1735734262,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164933,
@@ -2067,6 +2147,22 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 150657,
+      "num": 150657,
+      "word": "汪苏泷小段",
+      "onboard_time": 1735736302,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 149111,
+      "num": 149111,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1735736123,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 149089,
       "num": 149089,
       "word": "天津天塔跨年夜人从众了",
@@ -2147,6 +2243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 144459,
+      "num": 144459,
+      "word": "潘展乐孙颖莎给你发晚安短信",
+      "onboard_time": 1735736123,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144445,
       "num": 144445,
       "word": "竹林四侠的新年祝福",
@@ -2161,6 +2265,14 @@
       "onboard_time": 1735722258,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142187,
+      "num": 142187,
+      "word": "山东魏桥vs黄石基地",
+      "onboard_time": 1735737801,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 142096,
@@ -2289,118 +2401,6 @@
       "onboard_time": 1735708399,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135251,
-      "num": 135251,
-      "word": "中国海警首次在黄岩岛起飞舰载机",
-      "onboard_time": 1735713620,
-      "rank": 40,
-      "category": "军事"
-    },
-    {
-      "raw_hot": 133699,
-      "num": 133699,
-      "word": "王俊凯 蝴蝶王子",
-      "onboard_time": 1735697421,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 133653,
-      "num": 133653,
-      "word": "宋小宝新片死去活来 我笑得死去活来",
-      "onboard_time": 1735725320,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 133103,
-      "num": 133103,
-      "word": "苔花是送给8500万人的新年烟花",
-      "onboard_time": 1735702821,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 132992,
-      "num": 132992,
-      "word": "世界羽联祝福黄雅琼",
-      "onboard_time": 1735730182,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 132319,
-      "num": 375743,
-      "word": "爱奇艺2025开年大戏",
-      "onboard_time": 1735707919,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 132275,
-      "num": 132275,
-      "word": "成毅笨小孩舞台",
-      "onboard_time": 1735695260,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 131229,
-      "num": 390652,
-      "word": "新年第1个拥抱",
-      "onboard_time": 1735694120,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 130991,
-      "num": 130991,
-      "word": "电影误杀3",
-      "onboard_time": 1735723580,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 130696,
-      "num": 130696,
-      "word": "黄雅琼感谢祖国的悉心栽培",
-      "onboard_time": 1735726702,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 130586,
-      "num": 130586,
-      "word": "邓紫棋 祝大家旧事已过都变成新的",
-      "onboard_time": 1735730722,
-      "rank": 43,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 130208,
-      "num": 130208,
-      "word": "杀熊救妻丈夫与熊搏斗近半小时",
-      "onboard_time": 1735734262,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 128694,
-      "num": 136988,
-      "word": "追星女的爱是偶像的最大滤镜",
-      "onboard_time": 1735714759,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 128335,
-      "num": 128335,
-      "word": "原神",
-      "onboard_time": 1735669037,
-      "rank": 48,
-      "category": "游戏"
     }
   ],
   "hotgov_list": [
