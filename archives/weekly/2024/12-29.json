@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735738612649,
+  "endTime": 1735741207447,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -307,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2358182,
+      "num": 2358182,
+      "word": "张峻豪正式出道",
+      "onboard_time": 1735737440,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2319098,
       "num": 2319098,
       "word": "虞书欣跨年甜辣风舞台",
@@ -376,14 +384,6 @@
       "word": "赵露思老板",
       "onboard_time": 1735621401,
       "rank": 6,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2025346,
-      "num": 2025346,
-      "word": "张峻豪正式出道",
-      "onboard_time": 1735737440,
-      "rank": 3,
       "category": "艺人"
     },
     {
@@ -2395,6 +2395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 524973,
+      "num": 524973,
+      "word": "张继科关注王曼昱",
+      "onboard_time": 1735739721,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 524104,
       "num": 524104,
       "word": "杨幂李一桐嘟嘴合照",
@@ -3243,6 +3251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 406189,
+      "num": 533971,
+      "word": "王楚钦2025第1天夺冠",
+      "onboard_time": 1735738042,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 404975,
       "num": 404975,
       "word": "陌生人发来的晚安",
@@ -4051,6 +4067,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 324006,
+      "num": 324006,
+      "word": "猎罪图鉴",
+      "onboard_time": 1735737021,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 323781,
+      "num": 323781,
+      "word": "B站2024百大UP主",
+      "onboard_time": 1735739784,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 323299,
       "num": 396918,
       "word": "MBC演艺大赏取消",
@@ -4401,6 +4433,14 @@
       "onboard_time": 1735536979,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 297704,
+      "num": 257774,
+      "word": "于朦胧状态",
+      "onboard_time": 1735738161,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 297444,
@@ -4771,6 +4811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269319,
+      "num": 269319,
+      "word": "邱贻可 相信2025更好",
+      "onboard_time": 1735738642,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 269164,
       "num": 269164,
       "word": "戏里一双靴子要用到近1000张纸",
@@ -4993,6 +5041,14 @@
       "onboard_time": 1735606099,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258361,
+      "num": 258361,
+      "word": "任嘉伦一开口红了一片海",
+      "onboard_time": 1735738161,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 258078,
@@ -5675,6 +5731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224816,
+      "num": 224816,
+      "word": "赵睿撞裁判",
+      "onboard_time": 1735739422,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 224776,
       "num": 273376,
       "word": "鱿鱼游戏2收视率爆了",
@@ -5952,6 +6016,14 @@
       "word": "TF家族新年音乐会特权码",
       "onboard_time": 1735719380,
       "rank": 22,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 212775,
+      "num": 212775,
+      "word": "大湾区音乐会舞台好梦幻",
+      "onboard_time": 1735739482,
+      "rank": 26,
       "category": "演出"
     },
     {
@@ -6297,14 +6369,6 @@
       "onboard_time": 1735644260,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205180,
-      "num": 205180,
-      "word": "猎罪图鉴",
-      "onboard_time": 1735737021,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 205175,
@@ -6809,6 +6873,14 @@
       "onboard_time": 1735453220,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195381,
+      "num": 195381,
+      "word": "林高远男双MVP",
+      "onboard_time": 1735740263,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 195356,
@@ -7731,6 +7803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 179929,
+      "num": 421525,
+      "word": "银河酷娱绝不容忍恶意诋毁",
+      "onboard_time": 1735740323,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179898,
       "num": 179898,
       "word": "台军人持手枪卧射姿势被疑P图",
@@ -7787,14 +7867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178280,
-      "num": 178280,
-      "word": "于朦胧状态",
-      "onboard_time": 1735738161,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 178246,
       "num": 136305,
       "word": "虞书欣明晚见",
@@ -7841,6 +7913,14 @@
       "onboard_time": 1735615399,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177491,
+      "num": 177491,
+      "word": "山东魏桥队夺冠",
+      "onboard_time": 1735739541,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 177171,
@@ -8075,14 +8155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172283,
-      "num": 172283,
-      "word": "任嘉伦一开口红了一片海",
-      "onboard_time": 1735738161,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 172084,
       "num": 172084,
       "word": "李现片场帮杨紫拍照",
@@ -8161,6 +8233,14 @@
       "onboard_time": 1735622301,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170357,
+      "num": 170357,
+      "word": "逐玉预约",
+      "onboard_time": 1735739902,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 170341,
@@ -8467,6 +8547,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 165278,
+      "num": 165278,
+      "word": "王楚钦怒吼释放",
+      "onboard_time": 1735739062,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165015,
       "num": 165015,
       "word": "新年愿望刘亦菲翻牌了",
@@ -8529,6 +8617,14 @@
       "onboard_time": 1735720519,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 164439,
+      "num": 164439,
+      "word": "乒超MVP",
+      "onboard_time": 1735741041,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 164268,
@@ -9563,6 +9659,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 144288,
+      "num": 144288,
+      "word": "梁靖崑3比1薛飞",
+      "onboard_time": 1735741103,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143817,
       "num": 143817,
       "word": "孟子义海口路透",
@@ -9737,6 +9841,14 @@
       "onboard_time": 1735692259,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140676,
+      "num": 140676,
+      "word": "纽约男子在地铁进站瞬间被推下站台",
+      "onboard_time": 1735740802,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 140298,
@@ -10043,6 +10155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 134751,
+      "num": 134751,
+      "word": "王楚钦大跨步极限救球好牛",
+      "onboard_time": 1735739602,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134681,
       "num": 203504,
       "word": "王楚钦打乒乓球的初心",
@@ -10241,6 +10361,14 @@
       "onboard_time": 1735540519,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130457,
+      "num": 130457,
+      "word": "阿里131亿港元出售高鑫零售",
+      "onboard_time": 1735739242,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 130344,
@@ -11833,14 +11961,6 @@
       "onboard_time": 1735466119,
       "rank": 9,
       "category": "国内时政,民生新闻"
-    },
-    {
-      "raw_hot": 79959,
-      "num": 533971,
-      "word": "王楚钦2025第1天夺冠",
-      "onboard_time": 1735738042,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 79303,
@@ -13833,6 +13953,14 @@
       "onboard_time": 1735583171,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26622,
+      "num": 1056872,
+      "word": "习近平新年贺词里镌刻的中国",
+      "onboard_time": 1735738764,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 26591,

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735738612649,
+  "endTime": 1735741207447,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -75,20 +75,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2358182,
+      "num": 2358182,
+      "word": "张峻豪正式出道",
+      "onboard_time": 1735737440,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2077247,
       "num": 351308,
       "word": "陈哲远假唱忘记拿麦",
       "onboard_time": 1735649307,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2025346,
-      "num": 2025346,
-      "word": "张峻豪正式出道",
-      "onboard_time": 1735737440,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1962342,
@@ -627,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 524973,
+      "num": 524973,
+      "word": "张继科关注王曼昱",
+      "onboard_time": 1735739721,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 524104,
       "num": 524104,
       "word": "杨幂李一桐嘟嘴合照",
@@ -825,6 +833,14 @@
       "onboard_time": 1735729462,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 406189,
+      "num": 533971,
+      "word": "王楚钦2025第1天夺冠",
+      "onboard_time": 1735738042,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 402722,
@@ -1059,6 +1075,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 324006,
+      "num": 324006,
+      "word": "猎罪图鉴",
+      "onboard_time": 1735737021,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 323781,
+      "num": 323781,
+      "word": "B站2024百大UP主",
+      "onboard_time": 1735739784,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 323263,
       "num": 240191,
       "word": "王鹤棣转场太可以了",
@@ -1147,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 297704,
+      "num": 257774,
+      "word": "于朦胧状态",
+      "onboard_time": 1735738161,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 290935,
       "num": 290935,
       "word": "孙颖莎绕场感谢球迷",
@@ -1211,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269319,
+      "num": 269319,
+      "word": "邱贻可 相信2025更好",
+      "onboard_time": 1735738642,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 265897,
       "num": 265897,
       "word": "DQ Chiikawa",
@@ -1240,6 +1288,14 @@
       "word": "登陆少年衣服居然会变色",
       "onboard_time": 1735662986,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 258361,
+      "num": 258361,
+      "word": "任嘉伦一开口红了一片海",
+      "onboard_time": 1735738161,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -1363,6 +1419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 224816,
+      "num": 224816,
+      "word": "赵睿撞裁判",
+      "onboard_time": 1735739422,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 224776,
       "num": 273376,
       "word": "鱿鱼游戏2收视率爆了",
@@ -1459,6 +1523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 212775,
+      "num": 212775,
+      "word": "大湾区音乐会舞台好梦幻",
+      "onboard_time": 1735739482,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 211518,
       "num": 225414,
       "word": "邓亚萍说老将王曼昱扛住了压力",
@@ -1521,14 +1593,6 @@
       "onboard_time": 1735701861,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 205180,
-      "num": 205180,
-      "word": "猎罪图鉴",
-      "onboard_time": 1735737021,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 205175,
@@ -1633,6 +1697,14 @@
       "onboard_time": 1735737021,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195381,
+      "num": 195381,
+      "word": "林高远男双MVP",
+      "onboard_time": 1735740263,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 195355,
@@ -1819,20 +1891,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179929,
+      "num": 421525,
+      "word": "银河酷娱绝不容忍恶意诋毁",
+      "onboard_time": 1735740323,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179074,
       "num": 179074,
       "word": "陈幸同单打MVP",
       "onboard_time": 1735719859,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 178280,
-      "num": 178280,
-      "word": "于朦胧状态",
-      "onboard_time": 1735738161,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 178067,
@@ -1849,6 +1921,14 @@
       "onboard_time": 1735668737,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177491,
+      "num": 177491,
+      "word": "山东魏桥队夺冠",
+      "onboard_time": 1735739541,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 177171,
@@ -1939,14 +2019,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 172283,
-      "num": 172283,
-      "word": "任嘉伦一开口红了一片海",
-      "onboard_time": 1735738161,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 171514,
       "num": 211724,
       "word": "王宝强刘昊然电影唐探1900造型",
@@ -1961,6 +2033,14 @@
       "onboard_time": 1735648708,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170357,
+      "num": 170357,
+      "word": "逐玉预约",
+      "onboard_time": 1735739902,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 170341,
@@ -2043,6 +2123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 165278,
+      "num": 165278,
+      "word": "王楚钦怒吼释放",
+      "onboard_time": 1735739062,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164933,
       "num": 164933,
       "word": "肖战祝大家新年喜乐多",
@@ -2073,6 +2161,14 @@
       "onboard_time": 1735720519,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 164439,
+      "num": 164439,
+      "word": "乒超MVP",
+      "onboard_time": 1735741041,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 164022,
@@ -2305,102 +2401,6 @@
       "onboard_time": 1735734682,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144464,
-      "num": 144464,
-      "word": "王者荣耀",
-      "onboard_time": 1735668798,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 144445,
-      "num": 144445,
-      "word": "竹林四侠的新年祝福",
-      "onboard_time": 1735687514,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 143621,
-      "num": 194390,
-      "word": "家属称老人信养生馆治癌拒就医去世",
-      "onboard_time": 1735722258,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 142096,
-      "num": 142096,
-      "word": "元旦让打工人实现了上四休三",
-      "onboard_time": 1735713138,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 141798,
-      "num": 141798,
-      "word": "张艺兴 烟花好看吗",
-      "onboard_time": 1735670416,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 141009,
-      "num": 141009,
-      "word": "大奉打更人云合数据登顶",
-      "onboard_time": 1735728143,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 140708,
-      "num": 140708,
-      "word": "黑神话千手观音 震撼",
-      "onboard_time": 1735692259,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 140298,
-      "num": 140298,
-      "word": "张远晒马龙合照和签名球拍",
-      "onboard_time": 1735724420,
-      "rank": 36,
-      "category": "综艺,体育"
-    },
-    {
-      "raw_hot": 140189,
-      "num": 140189,
-      "word": "年会抽中一头300斤的活猪",
-      "onboard_time": 1735693039,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140147,
-      "num": 140147,
-      "word": "成毅祝各位江湖小友新年快乐",
-      "onboard_time": 1735709659,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 139921,
-      "num": 139921,
-      "word": "张颂文方未回应",
-      "onboard_time": 1735717760,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 139652,
-      "num": 139652,
-      "word": "山东魏桥1比0黄石基地",
-      "onboard_time": 1735735462,
-      "rank": 36,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
