@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735763792973,
+  "endTime": 1735766473052,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -15315,6 +15315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 14118,
+      "num": 18841,
+      "word": "新年美甲look",
+      "onboard_time": 1735762931,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 14090,
       "num": 51147,
       "word": "3分钟回顾美国前总统卡特一生",
@@ -15419,6 +15427,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 13095,
+      "num": 15252,
+      "word": "陶喆唱的满头大汗",
+      "onboard_time": 1735757352,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 13050,
       "num": 737842,
       "word": "谷爱凌2025年的新年期待",
@@ -15459,20 +15475,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 12456,
+      "num": 15252,
+      "word": "王一博新年快乐勇攀高峰",
+      "onboard_time": 1735765511,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 12453,
       "num": 17069,
       "word": "每天认识一件文物",
       "onboard_time": 1735589652,
       "rank": 49,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 12451,
-      "num": 18841,
-      "word": "新年美甲look",
-      "onboard_time": 1735762931,
-      "rank": 49,
-      "category": "美妆"
     },
     {
       "raw_hot": 12356,
@@ -15793,6 +15809,14 @@
       "onboard_time": 1735634421,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 5754,
+      "num": 20605,
+      "word": "张峻豪歌手制作人",
+      "onboard_time": 1735766111,
+      "rank": 19,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [

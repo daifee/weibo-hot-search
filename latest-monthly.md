@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/02 04:36:32
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/02 05:21:13
 </p>
 </blockquote>
 <p>
@@ -3237,8 +3237,20 @@ High Five 2025（热度：18462）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%B9%B4%E7%BE%8E%E7%94%B2look%23" target="weibo">
+新年美甲look（热度：14118）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%8A%B1%E7%9D%80%E5%AF%B9%E8%83%9C%E5%88%A9%E5%BC%BA%E7%83%88%E7%9A%84%E6%B8%B4%E6%9C%9B%E9%9D%A2%E5%AF%B9%E5%86%B3%E8%B5%9B%23" target="weibo">
 王楚钦抱着对胜利强烈的渴望面对决赛（热度：13327）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%B6%E5%96%86%E5%94%B1%E7%9A%84%E6%BB%A1%E5%A4%B4%E5%A4%A7%E6%B1%97%23" target="weibo">
+陶喆唱的满头大汗（热度：13095）
 </a>
 </li>
 
@@ -3261,8 +3273,8 @@ High Five 2025（热度：18462）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%B9%B4%E7%BE%8E%E7%94%B2look%23" target="weibo">
-新年美甲look（热度：12451）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90%E5%8B%87%E6%94%80%E9%AB%98%E5%B3%B0%23" target="weibo">
+王一博新年快乐勇攀高峰（热度：12456）
 </a>
 </li>
 
@@ -3359,6 +3371,12 @@ CBA新年大战（热度：9431）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%9D%A1%E5%A7%90%E5%B1%B1%E6%B5%B7%E7%BB%8F%E8%90%8C%E5%85%BD%E6%96%B0%E5%B9%B4citywalk%23" target="weibo">
 阿条姐山海经萌兽新年citywalk（热度：7181）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B3%BB%E8%B1%AA%E6%AD%8C%E6%89%8B%E5%88%B6%E4%BD%9C%E4%BA%BA%23" target="weibo">
+张峻豪歌手制作人（热度：5754）
 </a>
 </li>
 
