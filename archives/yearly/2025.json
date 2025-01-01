@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735771094369,
+  "endTime": 1735773664561,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -387,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 878595,
+      "num": 878595,
+      "word": "超市因员工集体盗窃亏损200万倒闭",
+      "onboard_time": 1735750698,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 869666,
       "num": 1139146,
       "word": "孙颖莎vs王曼昱",
@@ -513,6 +521,14 @@
       "onboard_time": 1735662445,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 732843,
+      "num": 732843,
+      "word": "老妻少夫26年丈夫为妻子留白发扮老",
+      "onboard_time": 1735770433,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 687973,
@@ -761,14 +777,6 @@
       "onboard_time": 1735724360,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 493991,
-      "num": 497944,
-      "word": "超市因员工集体盗窃亏损200万倒闭",
-      "onboard_time": 1735750698,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 485651,
@@ -1619,6 +1627,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 227518,
+      "num": 324214,
+      "word": "目击者称美冲撞行人司机下车后扫射人群",
+      "onboard_time": 1735747340,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 226105,
       "num": 226105,
       "word": "1月十二星座运势",
@@ -1769,6 +1785,14 @@
       "onboard_time": 1735657467,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 209134,
+      "num": 209134,
+      "word": "专家谈中学招13名教师10清北0师范",
+      "onboard_time": 1735767612,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 209101,
@@ -2376,30 +2400,6 @@
       "word": "王曼昱陈幸同率队获100万奖金",
       "onboard_time": 1735725981,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 165806,
-      "num": 165806,
-      "word": "感觉上海外滩有一亿个人在跨年",
-      "onboard_time": 1735666820,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 165461,
-      "num": 326780,
-      "word": "苍茫的天涯是我的爱定档",
-      "onboard_time": 1735741702,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 165278,
-      "num": 165278,
-      "word": "王楚钦怒吼释放",
-      "onboard_time": 1735739062,
-      "rank": 34,
       "category": "体育"
     }
   ],

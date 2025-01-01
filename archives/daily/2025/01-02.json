@@ -1,6 +1,6 @@
 {
   "startTime": 1735748807244,
-  "endTime": 1735771094369,
+  "endTime": 1735773664561,
   "band_list": [
     {
       "raw_hot": 3850549,
@@ -17,6 +17,22 @@
       "onboard_time": 1735747999,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 878595,
+      "num": 878595,
+      "word": "超市因员工集体盗窃亏损200万倒闭",
+      "onboard_time": 1735750698,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 732843,
+      "num": 732843,
+      "word": "老妻少夫26年丈夫为妻子留白发扮老",
+      "onboard_time": 1735770433,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 637501,
@@ -57,14 +73,6 @@
       "onboard_time": 1735737440,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 493991,
-      "num": 497944,
-      "word": "超市因员工集体盗窃亏损200万倒闭",
-      "onboard_time": 1735750698,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 456734,
@@ -147,6 +155,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227518,
+      "num": 324214,
+      "word": "目击者称美冲撞行人司机下车后扫射人群",
+      "onboard_time": 1735747340,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 209134,
+      "num": 209134,
+      "word": "专家谈中学招13名教师10清北0师范",
+      "onboard_time": 1735767612,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208537,
       "num": 208537,
       "word": "2025年是本世纪唯一一个完美平方年",
@@ -201,22 +225,6 @@
       "onboard_time": 1735740443,
       "rank": 27,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 140451,
-      "num": 140451,
-      "word": "老妻少夫26年丈夫为妻子留白发扮老",
-      "onboard_time": 1735770433,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 138864,
-      "num": 324214,
-      "word": "目击者称美冲撞行人司机下车后扫射人群",
-      "onboard_time": 1735747340,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 129130,
@@ -395,14 +403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 86067,
-      "num": 86067,
-      "word": "专家谈中学招13名教师10清北0师范",
-      "onboard_time": 1735767612,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85029,
       "num": 85029,
       "word": "黄雅琼宣布退出国家队",
@@ -443,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60960,
+      "num": 78871,
+      "word": "王楚钦回应呐喊庆祝",
+      "onboard_time": 1735749917,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59170,
       "num": 83244,
       "word": "王楚钦说以低姿态面对林诗栋",
@@ -457,14 +465,6 @@
       "onboard_time": 1735737562,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 57394,
-      "num": 78871,
-      "word": "王楚钦回应呐喊庆祝",
-      "onboard_time": 1735749917,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 54779,
@@ -507,12 +507,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37373,
+      "num": 54835,
+      "word": "中国烟花今年在德国订单激增",
+      "onboard_time": 1735761972,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 34892,
+      "num": 54828,
+      "word": "王楚钦拥抱梁靖崑",
+      "onboard_time": 1735770493,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 32068,
+      "num": 54820,
+      "word": "这是2025年第一天的中国",
+      "onboard_time": 1735770853,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31137,
       "num": 36485,
       "word": "钟意 有人机",
       "onboard_time": 1735754534,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 30421,
+      "num": 54814,
+      "word": "微博年度喜爱剧集",
+      "onboard_time": 1735772114,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 28748,
@@ -523,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28599,
+      "num": 54808,
+      "word": "大奉打更人改编",
+      "onboard_time": 1735757472,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 27858,
       "num": 27858,
       "word": "那年今日",
@@ -531,12 +571,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 25277,
-      "num": 27155,
-      "word": "大奉打更人改编",
-      "onboard_time": 1735757472,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 27664,
+      "num": 54804,
+      "word": "什么是分离转换性障碍",
+      "onboard_time": 1735773616,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 27072,
+      "num": 54803,
+      "word": "刘宇宁祝大家新年快乐",
+      "onboard_time": 1735772713,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 24177,
@@ -553,22 +601,6 @@
       "onboard_time": 1735756571,
       "rank": 9,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 20285,
-      "num": 27295,
-      "word": "中国烟花今年在德国订单激增",
-      "onboard_time": 1735761972,
-      "rank": 42,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 19985,
-      "num": 27155,
-      "word": "这是2025年第一天的中国",
-      "onboard_time": 1735770853,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18572,
@@ -609,14 +641,6 @@
       "onboard_time": 1735762931,
       "rank": 49,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 13837,
-      "num": 35148,
-      "word": "王楚钦拥抱梁靖崑",
-      "onboard_time": 1735770493,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 13095,
@@ -683,7 +707,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3270,
+      "raw_hot": 4194,
       "num": 603883,
       "word": "2025拼出自己的高光时刻",
       "onboard_time": 1735698440,
