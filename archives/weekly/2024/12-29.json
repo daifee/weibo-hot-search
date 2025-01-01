@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735696187732,
+  "endTime": 1735697485954,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -1595,6 +1595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 674003,
+      "num": 674003,
+      "word": "天安门放飞10000多只和平鸽",
+      "onboard_time": 1735691477,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 669496,
       "num": 601179,
       "word": "终于懂得昼川老师的被光所诱惑",
@@ -1769,14 +1777,6 @@
       "onboard_time": 1735545619,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 612520,
-      "num": 612520,
-      "word": "天安门放飞10000多只和平鸽",
-      "onboard_time": 1735691477,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 607756,
@@ -2691,6 +2691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 421369,
+      "num": 346258,
+      "word": "中国乒协同意马龙樊振东陈梦退出世排",
+      "onboard_time": 1735691659,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 420989,
       "num": 420989,
       "word": "孙颖莎王楚钦上海同行被偶遇",
@@ -3339,6 +3347,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 336498,
+      "num": 336498,
+      "word": "程潇 老娘要摆ending",
+      "onboard_time": 1735690459,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 335321,
       "num": 335321,
       "word": "独子贷款买房后去世母亲要求退还首付",
@@ -3472,14 +3488,6 @@
       "word": "周深我on fire了",
       "onboard_time": 1735650088,
       "rank": 38,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 323887,
-      "num": 323887,
-      "word": "程潇 老娘要摆ending",
-      "onboard_time": 1735690459,
-      "rank": 13,
       "category": "综艺"
     },
     {
@@ -3651,12 +3659,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 310269,
-      "num": 310269,
-      "word": "中国乒协同意马龙樊振东陈梦退出世排",
-      "onboard_time": 1735691659,
-      "rank": 16,
-      "category": "体育"
+      "raw_hot": 310137,
+      "num": 310137,
+      "word": "贾玲在刘德华演唱会跨年",
+      "onboard_time": 1735696519,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 308995,
@@ -3715,6 +3723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 304298,
+      "num": 304298,
+      "word": "雷军紧张到一动不动",
+      "onboard_time": 1735692020,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 304090,
       "num": 304090,
       "word": "京沪高铁的班味从年初冲到年尾",
@@ -3747,12 +3763,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 301708,
-      "num": 278134,
-      "word": "雷军紧张到一动不动",
-      "onboard_time": 1735692020,
-      "rank": 21,
-      "category": "互联网"
+      "raw_hot": 302731,
+      "num": 297700,
+      "word": "王一博攀冰",
+      "onboard_time": 1735695319,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 301083,
@@ -3825,14 +3841,6 @@
       "onboard_time": 1735656568,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 293432,
-      "num": 228480,
-      "word": "王一博攀冰",
-      "onboard_time": 1735695319,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 293417,
@@ -3945,6 +3953,14 @@
       "onboard_time": 1735526358,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 287120,
+      "num": 191328,
+      "word": "香港全款150万13平米的家",
+      "onboard_time": 1735696999,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 286971,
@@ -5667,6 +5683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200693,
+      "num": 200693,
+      "word": "欣有林兮",
+      "onboard_time": 1735689377,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200268,
       "num": 200268,
       "word": "洪知秀LED巨屏祝福",
@@ -5729,14 +5753,6 @@
       "onboard_time": 1735655908,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198805,
-      "num": 198805,
-      "word": "欣有林兮",
-      "onboard_time": 1735689377,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 198576,
@@ -6401,6 +6417,14 @@
       "onboard_time": 1735569621,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186948,
+      "num": 186948,
+      "word": "常州一党委书记发不雅内容被免职",
+      "onboard_time": 1735696999,
+      "rank": 34,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 186916,
@@ -7915,6 +7939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149089,
+      "num": 149089,
+      "word": "天津天塔跨年夜人从众了",
+      "onboard_time": 1735697240,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149082,
       "num": 257892,
       "word": "孙颖莎独得2分助深圳大学进乒超决赛",
@@ -8001,6 +8033,14 @@
       "onboard_time": 1735630341,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147299,
+      "num": 147299,
+      "word": "江苏一中学招13名教师8名为博士",
+      "onboard_time": 1735697240,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 147215,
@@ -8569,6 +8609,14 @@
       "onboard_time": 1735461680,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133699,
+      "num": 133699,
+      "word": "王俊凯 蝴蝶王子",
+      "onboard_time": 1735697421,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 133499,
@@ -9267,6 +9315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105749,
+      "num": 280404,
+      "word": "新年第1个拥抱",
+      "onboard_time": 1735694120,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 105383,
       "num": 105383,
       "word": "马龙祝你不惧时间不怕向前",
@@ -9681,14 +9737,6 @@
       "onboard_time": 1735601295,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86901,
-      "num": 280404,
-      "word": "新年第1个拥抱",
-      "onboard_time": 1735694120,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 86503,
@@ -10355,6 +10403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 57303,
+      "num": 190454,
+      "word": "樊振东回应球迷支持",
+      "onboard_time": 1735694900,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56920,
       "num": 353272,
       "word": "浓眉36分15篮板",
@@ -10857,6 +10913,14 @@
       "onboard_time": 1735555159,
       "rank": 33,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 40805,
+      "num": 306404,
+      "word": "周深演碰一下一嘴分饰多角",
+      "onboard_time": 1735696822,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 40048,
@@ -11577,6 +11641,14 @@
       "onboard_time": 1735615758,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26445,
+      "num": 277003,
+      "word": "2025第一天绝美朝霞",
+      "onboard_time": 1735688896,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26365,

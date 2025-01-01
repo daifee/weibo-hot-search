@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735696187732,
+  "endTime": 1735697485954,
   "band_list": [
     {
       "raw_hot": 10681189,
@@ -283,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 674003,
+      "num": 674003,
+      "word": "天安门放飞10000多只和平鸽",
+      "onboard_time": 1735691477,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 654288,
       "num": 654288,
       "word": "苏新皓 破音",
@@ -305,14 +313,6 @@
       "onboard_time": 1735662445,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 612520,
-      "num": 612520,
-      "word": "天安门放飞10000多只和平鸽",
-      "onboard_time": 1735691477,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 606513,
@@ -369,6 +369,14 @@
       "onboard_time": 1735663824,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 421369,
+      "num": 346258,
+      "word": "中国乒协同意马龙樊振东陈梦退出世排",
+      "onboard_time": 1735691659,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 417278,
@@ -451,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 336498,
+      "num": 336498,
+      "word": "程潇 老娘要摆ending",
+      "onboard_time": 1735690459,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 335254,
       "num": 335254,
       "word": "薛之谦跨年蹦迪",
@@ -475,14 +491,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 323887,
-      "num": 323887,
-      "word": "程潇 老娘要摆ending",
-      "onboard_time": 1735690459,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 323263,
       "num": 240191,
       "word": "王鹤棣转场太可以了",
@@ -491,12 +499,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 310269,
-      "num": 310269,
-      "word": "中国乒协同意马龙樊振东陈梦退出世排",
-      "onboard_time": 1735691659,
-      "rank": 16,
-      "category": "体育"
+      "raw_hot": 310137,
+      "num": 310137,
+      "word": "贾玲在刘德华演唱会跨年",
+      "onboard_time": 1735696519,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 308995,
@@ -515,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 304298,
+      "num": 304298,
+      "word": "雷军紧张到一动不动",
+      "onboard_time": 1735692020,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 302866,
       "num": 202751,
       "word": "赵露思被打时间线",
@@ -523,20 +539,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 301708,
-      "num": 278134,
-      "word": "雷军紧张到一动不动",
-      "onboard_time": 1735692020,
-      "rank": 21,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 293432,
-      "num": 228480,
+      "raw_hot": 302731,
+      "num": 297700,
       "word": "王一博攀冰",
       "onboard_time": 1735695319,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 287120,
+      "num": 191328,
+      "word": "香港全款150万13平米的家",
+      "onboard_time": 1735696999,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 277666,
@@ -699,8 +715,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198805,
-      "num": 198805,
+      "raw_hot": 200693,
+      "num": 200693,
       "word": "欣有林兮",
       "onboard_time": 1735689377,
       "rank": 31,
@@ -729,6 +745,14 @@
       "onboard_time": 1735695980,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186948,
+      "num": 186948,
+      "word": "常州一党委书记发不雅内容被免职",
+      "onboard_time": 1735696999,
+      "rank": 34,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 185671,
@@ -883,6 +907,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 149089,
+      "num": 149089,
+      "word": "天津天塔跨年夜人从众了",
+      "onboard_time": 1735697240,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148548,
       "num": 148548,
       "word": "元旦天安门升国旗仪式视频",
@@ -897,6 +929,14 @@
       "onboard_time": 1735664243,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147299,
+      "num": 147299,
+      "word": "江苏一中学招13名教师8名为博士",
+      "onboard_time": 1735697240,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 144464,
@@ -937,6 +977,14 @@
       "onboard_time": 1735693039,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133699,
+      "num": 133699,
+      "word": "王俊凯 蝴蝶王子",
+      "onboard_time": 1735697421,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 132275,
@@ -995,6 +1043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105749,
+      "num": 280404,
+      "word": "新年第1个拥抱",
+      "onboard_time": 1735694120,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 103292,
       "num": 591845,
       "word": "2025好运来",
@@ -1025,14 +1081,6 @@
       "onboard_time": 1735671914,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86901,
-      "num": 280404,
-      "word": "新年第1个拥抱",
-      "onboard_time": 1735694120,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 86291,
@@ -1115,6 +1163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 57303,
+      "num": 190454,
+      "word": "樊振东回应球迷支持",
+      "onboard_time": 1735694900,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47108,
       "num": 221496,
       "word": "深圳的跨年已经nextlevel",
@@ -1147,6 +1203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 40805,
+      "num": 306404,
+      "word": "周深演碰一下一嘴分饰多角",
+      "onboard_time": 1735696822,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 34527,
       "num": 136463,
       "word": "邓亚萍说王楚钦技战术十分灵动",
@@ -1177,6 +1241,14 @@
       "onboard_time": 1735683073,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26445,
+      "num": 277003,
+      "word": "2025第一天绝美朝霞",
+      "onboard_time": 1735688896,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21649,
