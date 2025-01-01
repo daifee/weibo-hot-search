@@ -1,7 +1,15 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735724186036,
+  "endTime": 1735726980343,
   "band_list": [
+    {
+      "raw_hot": 12053557,
+      "num": 12053557,
+      "word": "赵露思发长文回应",
+      "onboard_time": 1735726580,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 10681189,
       "num": 10681189,
@@ -9,6 +17,14 @@
       "onboard_time": 1735660407,
       "rank": 0,
       "category": "情感,民生新闻"
+    },
+    {
+      "raw_hot": 10121552,
+      "num": 618212,
+      "word": "赵露思微博解了",
+      "onboard_time": 1735718120,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 8395718,
@@ -33,14 +49,6 @@
       "onboard_time": 1735662029,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 3277288,
-      "num": 497925,
-      "word": "赵露思微博解了",
-      "onboard_time": 1735718120,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 2578366,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 1391559,
-      "num": 582602,
+      "num": 606565,
       "word": "弹性退休办法来了",
       "onboard_time": 1735715780,
       "rank": 9,
@@ -145,6 +153,14 @@
       "onboard_time": 1735659086,
       "rank": 5,
       "category": "体育,综艺"
+    },
+    {
+      "raw_hot": 1347325,
+      "num": 1347325,
+      "word": "黄雅琼宣布退出国家队",
+      "onboard_time": 1735725682,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1328407,
@@ -329,6 +345,14 @@
       "onboard_time": 1735713558,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 844503,
+      "num": 844503,
+      "word": "何炅 我现在有点惊弓之鸟了",
+      "onboard_time": 1735723699,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 843360,
@@ -528,6 +552,14 @@
       "word": "大学生跨年夜卖出5个气球都没回本",
       "onboard_time": 1735699221,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 511850,
+      "num": 511850,
+      "word": "跨年夜突发氢气球爆燃群众轻微灼伤",
+      "onboard_time": 1735723640,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -748,7 +780,7 @@
     },
     {
       "raw_hot": 379175,
-      "num": 430426,
+      "num": 526020,
       "word": "2025是一个什么年",
       "onboard_time": 1735689617,
       "rank": 9,
@@ -875,6 +907,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 324252,
+      "num": 324252,
+      "word": "骗骗喜欢你 烂人错过",
+      "onboard_time": 1735724239,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 323263,
       "num": 240191,
       "word": "王鹤棣转场太可以了",
@@ -905,6 +945,14 @@
       "onboard_time": 1735660226,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 305493,
+      "num": 305493,
+      "word": "孙颖莎回应深大幼儿园称号",
+      "onboard_time": 1735723580,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 304298,
@@ -1091,20 +1139,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 240055,
+      "num": 240055,
+      "word": "误杀3 东南亚式恐怖",
+      "onboard_time": 1735724959,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 230697,
       "num": 230697,
       "word": "东部战区发布MV中国人",
       "onboard_time": 1735698081,
       "rank": 25,
       "category": "军事"
-    },
-    {
-      "raw_hot": 229805,
-      "num": 141754,
-      "word": "孙颖莎回应深大幼儿园称号",
-      "onboard_time": 1735723580,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 224776,
@@ -1121,6 +1169,14 @@
       "onboard_time": 1735701260,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 222328,
+      "num": 222328,
+      "word": "孙策时之奇旅皮肤",
+      "onboard_time": 1735726401,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 222054,
@@ -1203,11 +1259,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 209101,
+      "num": 209101,
+      "word": "王者时之奇旅系列皮肤上新",
+      "onboard_time": 1735726401,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 208389,
       "num": 208389,
       "word": "沙一汀发红包",
       "onboard_time": 1735666100,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 208172,
+      "num": 208172,
+      "word": "甜妹版迪丽热巴",
+      "onboard_time": 1735726521,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -1483,6 +1555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173612,
+      "num": 173612,
+      "word": "易烊千玺吃糖戏嘴角被抠紫了",
+      "onboard_time": 1735724959,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 172942,
       "num": 172942,
       "word": "肖战新年私信",
@@ -1556,7 +1636,7 @@
     },
     {
       "raw_hot": 164465,
-      "num": 151012,
+      "num": 153407,
       "word": "被高铁上的生菜牛肉拌饭馋疯了",
       "onboard_time": 1735720519,
       "rank": 30,
@@ -1643,6 +1723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156006,
+      "num": 156006,
+      "word": "专家说很多翻译硕士水平比不上AI",
+      "onboard_time": 1735722680,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 155346,
       "num": 155346,
       "word": "存量房公积金贷款利率明起正式下调",
@@ -1667,6 +1755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153319,
+      "num": 153319,
+      "word": "成都Wolves对战MRC",
+      "onboard_time": 1735724360,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 152629,
       "num": 152629,
       "word": "弦子 不得不爱",
@@ -1681,6 +1777,14 @@
       "onboard_time": 1735717699,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 151202,
+      "num": 151202,
+      "word": "唐九洲一晚上要惹多少祸",
+      "onboard_time": 1735726762,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 150714,
@@ -1729,14 +1833,6 @@
       "onboard_time": 1735709779,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 146932,
-      "num": 141737,
-      "word": "何炅 我现在有点惊弓之鸟了",
-      "onboard_time": 1735723699,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 146911,
@@ -1803,6 +1899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140298,
+      "num": 140298,
+      "word": "张远晒马龙合照和签名球拍",
+      "onboard_time": 1735724420,
+      "rank": 36,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 140189,
       "num": 140189,
       "word": "年会抽中一头300斤的活猪",
@@ -1835,12 +1939,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139181,
+      "num": 225414,
+      "word": "邓亚萍说老将王曼昱扛住了压力",
+      "onboard_time": 1735725500,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138565,
       "num": 138565,
       "word": "原来在跨年许愿还有这样的意义",
       "onboard_time": 1735723640,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 136493,
+      "num": 136493,
+      "word": "宋雨琦晒浙江跨年后台合照",
+      "onboard_time": 1735723939,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 136044,
@@ -1883,6 +2003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133653,
+      "num": 133653,
+      "word": "宋小宝新片死去活来 我笑得死去活来",
+      "onboard_time": 1735725320,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 133103,
       "num": 133103,
       "word": "苔花是送给8500万人的新年烟花",
@@ -1923,6 +2051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 130696,
+      "num": 130696,
+      "word": "黄雅琼感谢祖国的悉心栽培",
+      "onboard_time": 1735726702,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128694,
       "num": 136988,
       "word": "追星女的爱是偶像的最大滤镜",
@@ -1953,6 +2089,14 @@
       "onboard_time": 1735718839,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126981,
+      "num": 126981,
+      "word": "用鸡柳骗回家的小狗一年的变化",
+      "onboard_time": 1735723879,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 126873,
@@ -1987,20 +2131,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 124911,
-      "num": 152129,
-      "word": "专家说很多翻译硕士水平比不上AI",
-      "onboard_time": 1735722680,
-      "rank": 29,
-      "category": "教育"
-    },
-    {
       "raw_hot": 124843,
       "num": 276933,
       "word": "2025第一天专属壁纸",
       "onboard_time": 1735702699,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124687,
+      "num": 209282,
+      "word": "潘展乐 新年更加坚定前行",
+      "onboard_time": 1735725920,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 123648,
@@ -2067,6 +2211,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 117188,
+      "num": 114520,
+      "word": "王曼昱陈幸同率队获100万奖金",
+      "onboard_time": 1735725981,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116586,
       "num": 116586,
       "word": "迪丽热巴贺思慕甜妹版",
@@ -2091,6 +2243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115512,
+      "num": 115512,
+      "word": "张帅vs高芙",
+      "onboard_time": 1735725741,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113808,
       "num": 113808,
       "word": "东部战区新年MV用了繁体字",
@@ -2105,6 +2265,22 @@
       "onboard_time": 1735720580,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112993,
+      "num": 112993,
+      "word": "沈奕斐 小小的我是每个不服输的人",
+      "onboard_time": 1735726942,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 111578,
+      "num": 111578,
+      "word": "王曼昱2025希望自己健康快乐",
+      "onboard_time": 1735725199,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 111068,
@@ -2195,14 +2371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99277,
-      "num": 278652,
-      "word": "跨年夜突发氢气球爆燃群众轻微灼伤",
-      "onboard_time": 1735723640,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 99217,
       "num": 99217,
       "word": "守望先锋",
@@ -2233,174 +2401,6 @@
       "onboard_time": 1735721660,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 95339,
-      "num": 95339,
-      "word": "光与夜之恋",
-      "onboard_time": 1735670895,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 95175,
-      "num": 396573,
-      "word": "2025元旦档电影票房破亿",
-      "onboard_time": 1735722919,
-      "rank": 9,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 93901,
-      "num": 225239,
-      "word": "蒯曼覃予萱vs陈幸同钱天一",
-      "onboard_time": 1735701379,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 91917,
-      "num": 91917,
-      "word": "乒超",
-      "onboard_time": 1735671914,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 88075,
-      "num": 155051,
-      "word": "请查收来自边防线的新年祝福",
-      "onboard_time": 1735724119,
-      "rank": 27,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 86291,
-      "num": 86291,
-      "word": "王楚钦称樊振东是最优秀的选手",
-      "onboard_time": 1735686735,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 85296,
-      "num": 85296,
-      "word": "2024年的你也辛苦了",
-      "onboard_time": 1735641262,
-      "rank": 31,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 83774,
-      "num": 644056,
-      "word": "一起向2025出发",
-      "onboard_time": 1735661546,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 78420,
-      "num": 155806,
-      "word": "罗渽民Felix同框",
-      "onboard_time": 1735704260,
-      "rank": 44,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 72250,
-      "num": 317959,
-      "word": "骗骗喜欢你这段把人笑喷了",
-      "onboard_time": 1735709239,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 71830,
-      "num": 71830,
-      "word": "元旦快乐",
-      "onboard_time": 1735672753,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 70720,
-      "num": 306404,
-      "word": "周深演碰一下一嘴分饰多角",
-      "onboard_time": 1735696822,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 70408,
-      "num": 70408,
-      "word": "GALA 难听",
-      "onboard_time": 1735673533,
-      "rank": 49,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 68085,
-      "num": 68085,
-      "word": "感谢每一个不平凡的你",
-      "onboard_time": 1735634300,
-      "rank": 19,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 67936,
-      "num": 165574,
-      "word": "2025月历壁纸",
-      "onboard_time": 1735715359,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 67871,
-      "num": 679706,
-      "word": "六尺巷为何有六尺",
-      "onboard_time": 1735722021,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 67543,
-      "num": 300030,
-      "word": "1月电影大片扎堆了",
-      "onboard_time": 1735716679,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 65839,
-      "num": 363046,
-      "word": "上海大屏为樊振东新的一年打call",
-      "onboard_time": 1735653150,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 64917,
-      "num": 64917,
-      "word": "祝大家所愿皆所成",
-      "onboard_time": 1735644560,
-      "rank": 48,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 63182,
-      "num": 63182,
-      "word": "2025新年新气象",
-      "onboard_time": 1735636342,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 61459,
-      "num": 164950,
-      "word": "韩失事飞机最后4分钟究竟发生了啥",
-      "onboard_time": 1735719020,
-      "rank": 29,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [
