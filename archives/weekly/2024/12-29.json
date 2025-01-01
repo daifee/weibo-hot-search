@@ -1,7 +1,15 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735726980343,
+  "endTime": 1735728001336,
   "band_list": [
+    {
+      "raw_hot": 16189782,
+      "num": 16189782,
+      "word": "赵露思发长文回应",
+      "onboard_time": 1735726580,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 15478881,
       "num": 16728881,
@@ -17,14 +25,6 @@
       "onboard_time": 1735434137,
       "rank": 0,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 12053557,
-      "num": 12053557,
-      "word": "赵露思发长文回应",
-      "onboard_time": 1735726580,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 10681189,
@@ -635,6 +635,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 1575211,
+      "num": 1575211,
+      "word": "黄雅琼宣布退出国家队",
+      "onboard_time": 1735725682,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1565917,
       "num": 1565917,
       "word": "杨幂别打鼓了 打我",
@@ -761,14 +769,6 @@
       "onboard_time": 1735659086,
       "rank": 26,
       "category": "体育,综艺"
-    },
-    {
-      "raw_hot": 1347325,
-      "num": 1347325,
-      "word": "黄雅琼宣布退出国家队",
-      "onboard_time": 1735725682,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 1343202,
@@ -2193,6 +2193,14 @@
       "onboard_time": 1735645704,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 548096,
+      "num": 548096,
+      "word": "甜妹版迪丽热巴",
+      "onboard_time": 1735726521,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 547521,
@@ -3899,8 +3907,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 324252,
-      "num": 324252,
+      "raw_hot": 324813,
+      "num": 324813,
       "word": "骗骗喜欢你 烂人错过",
       "onboard_time": 1735724239,
       "rank": 11,
@@ -4763,6 +4771,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 260071,
+      "num": 179342,
+      "word": "53岁员工因公司打分制离职",
+      "onboard_time": 1735727542,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 260005,
       "num": 260005,
       "word": "韩国客机冲撞起火视频",
@@ -5115,6 +5131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244341,
+      "num": 244341,
+      "word": "误杀3 东南亚式恐怖",
+      "onboard_time": 1735724959,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 244269,
       "num": 244269,
       "word": "赵丽颖 想什么呢一起往前走啊",
@@ -5171,6 +5195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 241854,
+      "num": 222328,
+      "word": "孙策时之奇旅皮肤",
+      "onboard_time": 1735726401,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 241643,
       "num": 241643,
       "word": "大奉打更人作者否认阴阳王鹤棣",
@@ -5201,14 +5233,6 @@
       "onboard_time": 1735442300,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 240055,
-      "num": 240055,
-      "word": "误杀3 东南亚式恐怖",
-      "onboard_time": 1735724959,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 239812,
@@ -5515,14 +5539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 222328,
-      "num": 222328,
-      "word": "孙策时之奇旅皮肤",
-      "onboard_time": 1735726401,
-      "rank": 22,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 222054,
       "num": 264690,
       "word": "吴敬平发樊振东奥运照",
@@ -5779,6 +5795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211518,
+      "num": 225414,
+      "word": "邓亚萍说老将王曼昱扛住了压力",
+      "onboard_time": 1735725500,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211335,
       "num": 637723,
       "word": "刘传健就韩国客机失事发声",
@@ -5937,14 +5961,6 @@
       "onboard_time": 1735437799,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 208172,
-      "num": 208172,
-      "word": "甜妹版迪丽热巴",
-      "onboard_time": 1735726521,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 207932,
@@ -7539,6 +7555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176899,
+      "num": 176899,
+      "word": "成都Wolves对战MRC",
+      "onboard_time": 1735724360,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 176797,
       "num": 176797,
       "word": "樊振东和陈梦退出世界排名意味着什么",
@@ -7627,6 +7651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174665,
+      "num": 158209,
+      "word": "用鸡柳骗回家的小狗一年的变化",
+      "onboard_time": 1735723879,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 174427,
       "num": 343163,
       "word": "AL德杯决赛战胜TES",
@@ -7641,6 +7673,14 @@
       "onboard_time": 1735568241,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 174139,
+      "num": 174139,
+      "word": "黄雅琼感谢刘雨辰",
+      "onboard_time": 1735727122,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 173950,
@@ -7961,6 +8001,14 @@
       "onboard_time": 1735614678,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166473,
+      "num": 177595,
+      "word": "王曼昱陈幸同率队获100万奖金",
+      "onboard_time": 1735725981,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 166271,
@@ -8643,14 +8691,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 153319,
-      "num": 153319,
-      "word": "成都Wolves对战MRC",
-      "onboard_time": 1735724360,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 153318,
       "num": 226735,
       "word": "詹姆斯说一旦退役就不会再复出",
@@ -8713,6 +8753,14 @@
       "onboard_time": 1735717699,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 152305,
+      "num": 152305,
+      "word": "黄雅琼说随时可以给国家队当陪练",
+      "onboard_time": 1735727301,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 151513,
@@ -9379,14 +9427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139181,
-      "num": 225414,
-      "word": "邓亚萍说老将王曼昱扛住了压力",
-      "onboard_time": 1735725500,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 139055,
       "num": 139055,
       "word": "整个中国只有我和你在做这个了",
@@ -9513,6 +9553,14 @@
       "onboard_time": 1735701500,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135864,
+      "num": 135864,
+      "word": "邓亚萍说莎莎鳗鱼都非最佳状态",
+      "onboard_time": 1735727062,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 135797,
@@ -9803,6 +9851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129802,
+      "num": 129802,
+      "word": "孙颖莎说虽实力略显单薄但发挥很好",
+      "onboard_time": 1735727301,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129512,
       "num": 129512,
       "word": "蔡徐坤ins更新",
@@ -9897,14 +9953,6 @@
       "onboard_time": 1735718839,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126981,
-      "num": 126981,
-      "word": "用鸡柳骗回家的小狗一年的变化",
-      "onboard_time": 1735723879,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 126873,
@@ -10115,6 +10163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120933,
+      "num": 120933,
+      "word": "脱口秀式年终总结",
+      "onboard_time": 1735727483,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120876,
       "num": 296340,
       "word": "2025我们来了",
@@ -10203,6 +10259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118674,
+      "num": 118674,
+      "word": "孙颖莎绕场跑是给大家送祝福",
+      "onboard_time": 1735726342,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118375,
       "num": 118375,
       "word": "张艺兴新年为家乡文旅摇人",
@@ -10265,14 +10329,6 @@
       "onboard_time": 1735392441,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117188,
-      "num": 114520,
-      "word": "王曼昱陈幸同率队获100万奖金",
-      "onboard_time": 1735725981,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 116929,
@@ -10403,6 +10459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 112222,
+      "num": 182740,
+      "word": "云南劫杀案700公里外的他成嫌疑人",
+      "onboard_time": 1735724119,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 111930,
       "num": 1355142,
       "word": "2024年国内十大新闻",
@@ -10433,6 +10497,14 @@
       "onboard_time": 1735485201,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111125,
+      "num": 111125,
+      "word": "再就业男团顶峰相见",
+      "onboard_time": 1735727962,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 111091,
@@ -10529,6 +10601,14 @@
       "onboard_time": 1735465280,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108860,
+      "num": 108860,
+      "word": "孙颖莎说新年呈现了一场精彩的比赛",
+      "onboard_time": 1735727782,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 108827,
@@ -11524,7 +11604,7 @@
     },
     {
       "raw_hot": 67871,
-      "num": 914335,
+      "num": 1013484,
       "word": "六尺巷为何有六尺",
       "onboard_time": 1735722021,
       "rank": 2,
@@ -11883,6 +11963,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 54263,
+      "num": 229989,
+      "word": "专访杀熊救妻丈夫",
+      "onboard_time": 1735725920,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54208,
       "num": 227173,
       "word": "马龙说永远可以整装上场再来一局",
@@ -12121,14 +12209,6 @@
       "onboard_time": 1735529781,
       "rank": 40,
       "category": "数码"
-    },
-    {
-      "raw_hot": 48271,
-      "num": 182740,
-      "word": "云南劫杀案700公里外的他成嫌疑人",
-      "onboard_time": 1735724119,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 48052,
@@ -12728,14 +12808,6 @@
       "word": "太好了是2025今天不上班",
       "onboard_time": 1735705940,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33998,
-      "num": 229989,
-      "word": "专访杀熊救妻丈夫",
-      "onboard_time": 1735725920,
-      "rank": 14,
       "category": "民生新闻"
     },
     {

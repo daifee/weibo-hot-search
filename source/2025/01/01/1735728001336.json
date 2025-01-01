@@ -1,0 +1,410 @@
+{
+  "runTime": 1735728001336,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 16189782,
+        "num": 16189782,
+        "word": "赵露思发长文回应",
+        "onboard_time": 1735726580,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1575211,
+        "num": 1575211,
+        "word": "黄雅琼宣布退出国家队",
+        "onboard_time": 1735725682,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56959,
+        "num": 1013484,
+        "word": "六尺巷为何有六尺",
+        "onboard_time": 1735722021,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 548096,
+        "num": 548096,
+        "word": "甜妹版迪丽热巴",
+        "onboard_time": 1735726521,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 726388,
+        "num": 546783,
+        "word": "何炅 我现在有点惊弓之鸟了",
+        "onboard_time": 1735723699,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 7774387,
+        "num": 516154,
+        "word": "赵露思微博解了",
+        "onboard_time": 1735718120,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 622782,
+        "num": 512731,
+        "word": "弹性退休办法来了",
+        "onboard_time": 1735715780,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 461033,
+        "num": 461033,
+        "word": "孙颖莎钱天一擦边球争议",
+        "onboard_time": 1735714041,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85050,
+        "num": 426653,
+        "word": "2025是一个什么年",
+        "onboard_time": 1735689617,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 407582,
+        "num": 407582,
+        "word": "孕照被AI生成文案脑子不够肚子来凑",
+        "onboard_time": 1735722021,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324813,
+        "num": 324813,
+        "word": "骗骗喜欢你 烂人错过",
+        "onboard_time": 1735724239,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 244341,
+        "num": 244341,
+        "word": "误杀3 东南亚式恐怖",
+        "onboard_time": 1735724959,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 221802,
+        "num": 221802,
+        "word": "擦边球",
+        "onboard_time": 1735716379,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215748,
+        "num": 215748,
+        "word": "孙颖莎回应深大幼儿园称号",
+        "onboard_time": 1735723580,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211518,
+        "num": 211518,
+        "word": "邓亚萍说老将王曼昱扛住了压力",
+        "onboard_time": 1735725500,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195982,
+        "num": 195982,
+        "word": "虞书欣2025第一个变装视频",
+        "onboard_time": 1735720160,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195876,
+        "num": 195876,
+        "word": "摇粒绒就是穷人的貂",
+        "onboard_time": 1735712120,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192765,
+        "num": 192765,
+        "word": "易烊千玺面试戏演哭剧组所有人",
+        "onboard_time": 1735719499,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182702,
+        "num": 182702,
+        "word": "王者时之奇旅系列皮肤上新",
+        "onboard_time": 1735726401,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 20182,
+        "num": 182291,
+        "word": "火神载人的正确方式",
+        "onboard_time": 1735725199,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 446649,
+        "num": 181631,
+        "word": "杨幂情商",
+        "onboard_time": 1735721479,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400071,
+        "num": 179870,
+        "word": "张颂文 姜尘",
+        "onboard_time": 1735712780,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260071,
+        "num": 179342,
+        "word": "53岁员工因公司打分制离职",
+        "onboard_time": 1735727542,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241854,
+        "num": 178205,
+        "word": "孙策时之奇旅皮肤",
+        "onboard_time": 1735726401,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166473,
+        "num": 177595,
+        "word": "王曼昱陈幸同率队获100万奖金",
+        "onboard_time": 1735725981,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176899,
+        "num": 176899,
+        "word": "成都Wolves对战MRC",
+        "onboard_time": 1735724360,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 174139,
+        "num": 174139,
+        "word": "黄雅琼感谢刘雨辰",
+        "onboard_time": 1735727122,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172803,
+        "num": 172803,
+        "word": "易烊千玺吃糖戏嘴角被抠紫了",
+        "onboard_time": 1735724959,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164128,
+        "num": 164128,
+        "word": "樊振东登上国防军事频道",
+        "onboard_time": 1735711099,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161750,
+        "num": 161750,
+        "word": "贾玲 影史第一位年冠女导演",
+        "onboard_time": 1735713558,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174665,
+        "num": 158209,
+        "word": "用鸡柳骗回家的小狗一年的变化",
+        "onboard_time": 1735723879,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152305,
+        "num": 152305,
+        "word": "黄雅琼说随时可以给国家队当陪练",
+        "onboard_time": 1735727301,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151479,
+        "num": 151479,
+        "word": "被高铁上的生菜牛肉拌饭馋疯了",
+        "onboard_time": 1735720519,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 136458,
+        "num": 136458,
+        "word": "唐九洲一晚上要惹多少祸",
+        "onboard_time": 1735726762,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135864,
+        "num": 135864,
+        "word": "邓亚萍说莎莎鳗鱼都非最佳状态",
+        "onboard_time": 1735727062,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129802,
+        "num": 129802,
+        "word": "孙颖莎说虽实力略显单薄但发挥很好",
+        "onboard_time": 1735727301,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8761,
+        "num": 125807,
+        "word": "24年极氪年终交卷",
+        "onboard_time": 1735723699,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 125620,
+        "num": 125620,
+        "word": "张远晒马龙合照和签名球拍",
+        "onboard_time": 1735724420,
+        "rank": 37,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 398857,
+        "num": 125539,
+        "word": "跨年夜突发氢气球爆燃群众轻微灼伤",
+        "onboard_time": 1735723640,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123323,
+        "num": 123323,
+        "word": "专家说很多翻译硕士水平比不上AI",
+        "onboard_time": 1735722680,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 121506,
+        "num": 121506,
+        "word": "张若昀说魏晨下海了",
+        "onboard_time": 1735719920,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120933,
+        "num": 120933,
+        "word": "脱口秀式年终总结",
+        "onboard_time": 1735727483,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 54263,
+        "num": 120895,
+        "word": "专访杀熊救妻丈夫",
+        "onboard_time": 1735725920,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120889,
+        "num": 120889,
+        "word": "宋雨琦晒浙江跨年后台合照",
+        "onboard_time": 1735723939,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118674,
+        "num": 118674,
+        "word": "孙颖莎绕场跑是给大家送祝福",
+        "onboard_time": 1735726342,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114088,
+        "num": 114088,
+        "word": "宋小宝新片死去活来 我笑得死去活来",
+        "onboard_time": 1735725320,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112222,
+        "num": 112222,
+        "word": "云南劫杀案700公里外的他成嫌疑人",
+        "onboard_time": 1735724119,
+        "rank": 46,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 111125,
+        "num": 111125,
+        "word": "再就业男团顶峰相见",
+        "onboard_time": 1735727962,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108860,
+        "num": 108860,
+        "word": "孙颖莎说新年呈现了一场精彩的比赛",
+        "onboard_time": 1735727782,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106880,
+        "num": 106880,
+        "word": "西飞",
+        "onboard_time": 1735714339,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025年新年贺词#"
+    }
+  }
+}
