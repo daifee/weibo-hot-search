@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735697485954,
+  "endTime": 1735700382341,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -1059,6 +1059,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 991350,
+      "num": 297270,
+      "word": "轧戏",
+      "onboard_time": 1735698200,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 986055,
       "num": 986055,
       "word": "李宇春连续20年零点压轴",
@@ -1465,6 +1473,14 @@
       "onboard_time": 1735487240,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 732541,
+      "num": 732541,
+      "word": "贾玲在刘德华演唱会跨年",
+      "onboard_time": 1735696519,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 728563,
@@ -2203,6 +2219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 495039,
+      "num": 294866,
+      "word": "常州一党委书记发不雅内容被免职",
+      "onboard_time": 1735696999,
+      "rank": 34,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 495031,
       "num": 368880,
       "word": "建议不要在12月提离职",
@@ -2593,6 +2617,14 @@
       "onboard_time": 1735657167,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 432070,
+      "num": 286967,
+      "word": "韩国空难179名遇难者身份全部确认",
+      "onboard_time": 1735698379,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 431933,
@@ -2987,6 +3019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 379491,
+      "num": 263181,
+      "word": "大学生跨年夜卖出5个气球都没回本",
+      "onboard_time": 1735699221,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 379453,
       "num": 316828,
       "word": "秦牛正威说没有男友都会改名字",
@@ -3033,6 +3073,14 @@
       "onboard_time": 1735649246,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 373928,
+      "num": 260718,
+      "word": "香港全款150万13平米的家",
+      "onboard_time": 1735696999,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 373614,
@@ -3659,14 +3707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 310137,
-      "num": 310137,
-      "word": "贾玲在刘德华演唱会跨年",
-      "onboard_time": 1735696519,
-      "rank": 13,
-      "category": "演出"
-    },
-    {
       "raw_hot": 308995,
       "num": 308995,
       "word": "雷军辟谣只招聘35岁以下员工",
@@ -3955,14 +3995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 287120,
-      "num": 191328,
-      "word": "香港全款150万13平米的家",
-      "onboard_time": 1735696999,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 286971,
       "num": 484080,
       "word": "李昀锐跨年晚会造型出图",
@@ -3985,6 +4017,14 @@
       "onboard_time": 1735532903,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 284629,
+      "num": 284629,
+      "word": "江苏一中学招13名教师8名为博士",
+      "onboard_time": 1735697240,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 284170,
@@ -4891,6 +4931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 230697,
+      "num": 230697,
+      "word": "东部战区发布MV中国人",
+      "onboard_time": 1735698081,
+      "rank": 25,
+      "category": "军事"
+    },
+    {
       "raw_hot": 230610,
       "num": 253194,
       "word": "aespa 紫菜包饭",
@@ -5033,6 +5081,14 @@
       "onboard_time": 1735472179,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220449,
+      "num": 220449,
+      "word": "登陆少年 百事",
+      "onboard_time": 1735698921,
+      "rank": 27,
+      "category": "艺人,美食"
     },
     {
       "raw_hot": 219284,
@@ -5395,6 +5451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206785,
+      "num": 206785,
+      "word": "雷军否认造小米汽车只要100亿",
+      "onboard_time": 1735698501,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 206727,
       "num": 206727,
       "word": "丁禹兮国风拖尾披风造型",
@@ -5601,6 +5665,14 @@
       "onboard_time": 1735630280,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202684,
+      "num": 202684,
+      "word": "喻言出场好辣",
+      "onboard_time": 1735697481,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 202548,
@@ -6417,14 +6489,6 @@
       "onboard_time": 1735569621,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 186948,
-      "num": 186948,
-      "word": "常州一党委书记发不雅内容被免职",
-      "onboard_time": 1735696999,
-      "rank": 34,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 186916,
@@ -7571,6 +7635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158091,
+      "num": 158091,
+      "word": "DQ Chiikawa",
+      "onboard_time": 1735699340,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 157900,
       "num": 157900,
       "word": "李雪琴王皓 邪门但好嗑",
@@ -7843,6 +7915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 152162,
+      "num": 152162,
+      "word": "2025腾讯视频大剧片单",
+      "onboard_time": 1735700240,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151513,
       "num": 151513,
       "word": "妻子谈蔡磊病情进展",
@@ -8033,14 +8113,6 @@
       "onboard_time": 1735630341,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 147299,
-      "num": 147299,
-      "word": "江苏一中学招13名教师8名为博士",
-      "onboard_time": 1735697240,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 147215,
@@ -8531,6 +8603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135741,
+      "num": 135741,
+      "word": "林忆莲状态",
+      "onboard_time": 1735700181,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135615,
       "num": 135615,
       "word": "胡先煦破大防",
@@ -8817,6 +8897,14 @@
       "onboard_time": 1735601777,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 127059,
+      "num": 280404,
+      "word": "新年第1个拥抱",
+      "onboard_time": 1735694120,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 126159,
@@ -9313,14 +9401,6 @@
       "onboard_time": 1735663765,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105749,
-      "num": 280404,
-      "word": "新年第1个拥抱",
-      "onboard_time": 1735694120,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 105383,
@@ -10041,6 +10121,14 @@
       "onboard_time": 1735641502,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70720,
+      "num": 306404,
+      "word": "周深演碰一下一嘴分饰多角",
+      "onboard_time": 1735696822,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 70622,
@@ -10913,14 +11001,6 @@
       "onboard_time": 1735555159,
       "rank": 33,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 40805,
-      "num": 306404,
-      "word": "周深演碰一下一嘴分饰多角",
-      "onboard_time": 1735696822,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 40048,
@@ -12377,6 +12457,14 @@
       "onboard_time": 1735588331,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13930,
+      "num": 301272,
+      "word": "2025拼出自己的高光时刻",
+      "onboard_time": 1735698440,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13830,
