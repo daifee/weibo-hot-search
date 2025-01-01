@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735737941737,
+  "endTime": 1735738612649,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -376,6 +376,14 @@
       "word": "赵露思老板",
       "onboard_time": 1735621401,
       "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2025346,
+      "num": 2025346,
+      "word": "张峻豪正式出道",
+      "onboard_time": 1735737440,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -1291,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 918404,
+      "num": 519601,
+      "word": "时代峰峻",
+      "onboard_time": 1735737801,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 917863,
       "num": 917863,
       "word": "AAA",
@@ -1691,14 +1707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 724571,
-      "num": 724571,
-      "word": "张峻豪正式出道",
-      "onboard_time": 1735737440,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 723256,
       "num": 556271,
       "word": "乒协称同意三人退出世界排名",
@@ -1713,14 +1721,6 @@
       "onboard_time": 1735649007,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 713962,
-      "num": 496856,
-      "word": "时代峰峻",
-      "onboard_time": 1735737801,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 709656,
@@ -2531,6 +2531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 498910,
+      "num": 498910,
+      "word": "王楚钦3比2林诗栋",
+      "onboard_time": 1735736002,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 495173,
       "num": 495173,
       "word": "男子住女友家5年分手后被判付23万",
@@ -3089,14 +3097,6 @@
       "onboard_time": 1735613959,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 422128,
-      "num": 422128,
-      "word": "王楚钦3比2林诗栋",
-      "onboard_time": 1735736002,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 421369,
@@ -4121,6 +4121,14 @@
       "onboard_time": 1735607719,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 319077,
+      "num": 362934,
+      "word": "NAME晒虞书欣吴宣仪新年合照",
+      "onboard_time": 1735737562,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 318767,
@@ -5827,6 +5835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 217669,
+      "num": 217669,
+      "word": "山东魏桥vs黄石基地",
+      "onboard_time": 1735737801,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217558,
       "num": 272032,
       "word": "2024就剩1天了",
@@ -6419,6 +6435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202994,
+      "num": 466969,
+      "word": "王楚钦暴扣两连击",
+      "onboard_time": 1735737682,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202742,
       "num": 202742,
       "word": "这一天不够哇唧唧哇忙的",
@@ -6795,6 +6819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195355,
+      "num": 200916,
+      "word": "王楚钦2025首战开门红",
+      "onboard_time": 1735737801,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194977,
       "num": 194977,
       "word": "差点以为许七安背着LV",
@@ -6865,14 +6897,6 @@
       "onboard_time": 1735532903,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 193960,
-      "num": 200916,
-      "word": "王楚钦2025首战开门红",
-      "onboard_time": 1735737801,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 193734,
@@ -7644,7 +7668,7 @@
     },
     {
       "raw_hot": 182159,
-      "num": 188792,
+      "num": 200736,
       "word": "山东鲁能队夺冠",
       "onboard_time": 1735716560,
       "rank": 31,
@@ -7761,6 +7785,14 @@
       "onboard_time": 1735719859,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178280,
+      "num": 178280,
+      "word": "于朦胧状态",
+      "onboard_time": 1735738161,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 178246,
@@ -7907,14 +7939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175077,
-      "num": 175077,
-      "word": "NAME晒虞书欣吴宣仪新年合照",
-      "onboard_time": 1735737562,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 175000,
       "num": 175000,
       "word": "男子因邻里矛盾将马桶装在房顶上",
@@ -7979,6 +8003,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 173631,
+      "num": 173631,
+      "word": "张家界机场备好礼迎入境游客",
+      "onboard_time": 1735738402,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173612,
       "num": 173612,
       "word": "易烊千玺吃糖戏嘴角被抠紫了",
@@ -8027,11 +8059,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172436,
+      "num": 172436,
+      "word": "杀熊救妻丈夫与熊搏斗近半小时",
+      "onboard_time": 1735734262,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172349,
       "num": 172349,
       "word": "江苏卫视跨年演唱会全开麦真唱",
       "onboard_time": 1735576097,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 172283,
+      "num": 172283,
+      "word": "任嘉伦一开口红了一片海",
+      "onboard_time": 1735738161,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -8115,11 +8163,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170341,
+      "num": 170341,
+      "word": "大奉打更人范世錡轻点帅",
+      "onboard_time": 1735738284,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170320,
       "num": 170320,
       "word": "王鹤棣演唱会万人陪看大奉打更人",
       "onboard_time": 1735471400,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 170301,
+      "num": 170301,
+      "word": "国剧盛典2024",
+      "onboard_time": 1735737621,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -8219,6 +8283,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 168735,
+      "num": 168735,
+      "word": "潘展乐孙颖莎给你发晚安短信",
+      "onboard_time": 1735736123,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168591,
       "num": 168591,
       "word": "檀健次风大但发型不能乱",
@@ -8281,6 +8353,14 @@
       "onboard_time": 1735641440,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166934,
+      "num": 166934,
+      "word": "丁禹兮2024年度总结",
+      "onboard_time": 1735738344,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 166793,
@@ -8385,14 +8465,6 @@
       "onboard_time": 1735618641,
       "rank": 43,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 165295,
-      "num": 165295,
-      "word": "杀熊救妻丈夫与熊搏斗近半小时",
-      "onboard_time": 1735734262,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 165015,
@@ -9475,14 +9547,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 144459,
-      "num": 144459,
-      "word": "潘展乐孙颖莎给你发晚安短信",
-      "onboard_time": 1735736123,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 144445,
       "num": 144445,
       "word": "竹林四侠的新年祝福",
@@ -9607,14 +9671,6 @@
       "num": 142299,
       "word": "太阳vs勇士",
       "onboard_time": 1735439899,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 142187,
-      "num": 142187,
-      "word": "山东魏桥vs黄石基地",
-      "onboard_time": 1735737801,
       "rank": 47,
       "category": "体育"
     },
@@ -11443,6 +11499,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 96568,
+      "num": 586973,
+      "word": "中国人在太空拍2025第一缕曙光",
+      "onboard_time": 1735736841,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 96541,
       "num": 96541,
       "word": "情久挑杯淘汰",
@@ -11771,6 +11835,14 @@
       "category": "国内时政,民生新闻"
     },
     {
+      "raw_hot": 79959,
+      "num": 533971,
+      "word": "王楚钦2025第1天夺冠",
+      "onboard_time": 1735738042,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79303,
       "num": 669858,
       "word": "3只野生猕猴冰天雪地里泡温泉",
@@ -11905,14 +11977,6 @@
       "onboard_time": 1735531942,
       "rank": 18,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 72982,
-      "num": 422460,
-      "word": "王楚钦暴扣两连击",
-      "onboard_time": 1735737682,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 72853,
@@ -12193,14 +12257,6 @@
       "onboard_time": 1735521019,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 65122,
-      "num": 544267,
-      "word": "中国人在太空拍2025第一缕曙光",
-      "onboard_time": 1735736841,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 64755,
@@ -12808,6 +12864,14 @@
       "word": "2024我们一起走过",
       "onboard_time": 1735576457,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45356,
+      "num": 449392,
+      "word": "民警从游戏皮肤骗局里抢回14万",
+      "onboard_time": 1735737743,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -13843,14 +13907,6 @@
       "category": "综艺,汽车"
     },
     {
-      "raw_hot": 25833,
-      "num": 423625,
-      "word": "民警从游戏皮肤骗局里抢回14万",
-      "onboard_time": 1735737743,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 25807,
       "num": 28203,
       "word": "成毅出发湖南跨年",
@@ -14228,7 +14284,7 @@
     },
     {
       "raw_hot": 21225,
-      "num": 804025,
+      "num": 1469705,
       "word": "2025拼出自己的高光时刻",
       "onboard_time": 1735698440,
       "rank": 9,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1735738612649,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8141441,
+        "num": 8141441,
+        "word": "赵露思发长文回应",
+        "onboard_time": 1735726580,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2025346,
+        "num": 2025346,
+        "word": "张峻豪正式出道",
+        "onboard_time": 1735737440,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13564,
+        "num": 1469705,
+        "word": "2025拼出自己的高光时刻",
+        "onboard_time": 1735698440,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 954502,
+        "num": 954502,
+        "word": "日本电视塔跨年倒数完竟直接关灯",
+        "onboard_time": 1735733721,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 618161,
+        "num": 618161,
+        "word": "孙颖莎告别乒超总决赛",
+        "onboard_time": 1735733902,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2003445,
+        "num": 617419,
+        "word": "银河酷娱致歉",
+        "onboard_time": 1735728622,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96568,
+        "num": 586973,
+        "word": "中国人在太空拍2025第一缕曙光",
+        "onboard_time": 1735736841,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 950817,
+        "num": 571112,
+        "word": "韩国空难最小遇难者生前最后照片",
+        "onboard_time": 1735730541,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 33688,
+        "num": 560802,
+        "word": "2025是一个什么年",
+        "onboard_time": 1735689617,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 79959,
+        "num": 533971,
+        "word": "王楚钦2025第1天夺冠",
+        "onboard_time": 1735738042,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 918404,
+        "num": 519601,
+        "word": "时代峰峻",
+        "onboard_time": 1735737801,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 766806,
+        "num": 501539,
+        "word": "庞博文 小怡同学",
+        "onboard_time": 1735735281,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 498910,
+        "num": 498910,
+        "word": "王楚钦3比2林诗栋",
+        "onboard_time": 1735736002,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202994,
+        "num": 466969,
+        "word": "王楚钦暴扣两连击",
+        "onboard_time": 1735737682,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45356,
+        "num": 449392,
+        "word": "民警从游戏皮肤骗局里抢回14万",
+        "onboard_time": 1735737743,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448662,
+        "num": 448662,
+        "word": "黄雅琼宣布退出国家队",
+        "onboard_time": 1735725682,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 444017,
+        "num": 444017,
+        "word": "国剧盛典",
+        "onboard_time": 1735733241,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 405916,
+        "num": 405916,
+        "word": "弹性退休办法来了",
+        "onboard_time": 1735715780,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 319077,
+        "num": 362934,
+        "word": "NAME晒虞书欣吴宣仪新年合照",
+        "onboard_time": 1735737562,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306485,
+        "num": 337333,
+        "word": "江苏卫视跨年演唱会全域收视第1",
+        "onboard_time": 1735730123,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2269918,
+        "num": 336907,
+        "word": "赵露思微博解了",
+        "onboard_time": 1735718120,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336165,
+        "num": 336165,
+        "word": "警方通报一男子跨年夜人群里点烟花",
+        "onboard_time": 1735732582,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303527,
+        "num": 303527,
+        "word": "戚薇你根本没喝中药",
+        "onboard_time": 1735731560,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285400,
+        "num": 285400,
+        "word": "王曼昱回应决胜场争议判罚",
+        "onboard_time": 1735729522,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245439,
+        "num": 245439,
+        "word": "时代峰峻有自己的换头笑话",
+        "onboard_time": 1735734563,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233446,
+        "num": 233446,
+        "word": "甜妹版迪丽热巴",
+        "onboard_time": 1735726521,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217669,
+        "num": 217669,
+        "word": "山东魏桥vs黄石基地",
+        "onboard_time": 1735737801,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213282,
+        "num": 213282,
+        "word": "何炅 我现在有点惊弓之鸟了",
+        "onboard_time": 1735723699,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202483,
+        "num": 202483,
+        "word": "1月十二星座运势",
+        "onboard_time": 1735734202,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28860,
+        "num": 200736,
+        "word": "山东鲁能队夺冠",
+        "onboard_time": 1735716560,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21399,
+        "num": 200159,
+        "word": "宠爱说深渊再见",
+        "onboard_time": 1735732222,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 200113,
+        "num": 200113,
+        "word": "王楚钦vs林诗栋",
+        "onboard_time": 1735729702,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195355,
+        "num": 195355,
+        "word": "王楚钦2025首战开门红",
+        "onboard_time": 1735737801,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185636,
+        "num": 185636,
+        "word": "昆明一步行街蛇宝宝花灯丑萌出圈",
+        "onboard_time": 1735733721,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181150,
+        "num": 181150,
+        "word": "猎罪图鉴",
+        "onboard_time": 1735737021,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179678,
+        "num": 179678,
+        "word": "王俊凯你还是太强了",
+        "onboard_time": 1735737382,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178280,
+        "num": 178280,
+        "word": "于朦胧状态",
+        "onboard_time": 1735738161,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173631,
+        "num": 173631,
+        "word": "张家界机场备好礼迎入境游客",
+        "onboard_time": 1735738402,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172436,
+        "num": 172436,
+        "word": "杀熊救妻丈夫与熊搏斗近半小时",
+        "onboard_time": 1735734262,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172283,
+        "num": 172283,
+        "word": "任嘉伦一开口红了一片海",
+        "onboard_time": 1735738161,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170341,
+        "num": 170341,
+        "word": "大奉打更人范世錡轻点帅",
+        "onboard_time": 1735738284,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170301,
+        "num": 170301,
+        "word": "国剧盛典2024",
+        "onboard_time": 1735737621,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168735,
+        "num": 168735,
+        "word": "潘展乐孙颖莎给你发晚安短信",
+        "onboard_time": 1735736123,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168189,
+        "num": 168189,
+        "word": "唯一一个上班让老板亏钱的人",
+        "onboard_time": 1735728681,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166934,
+        "num": 166934,
+        "word": "丁禹兮2024年度总结",
+        "onboard_time": 1735738344,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20666,
+        "num": 163197,
+        "word": "黄雅琼感谢祖国的悉心栽培",
+        "onboard_time": 1735726702,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162569,
+        "num": 162569,
+        "word": "台下艺人看华晨宇舞台的反应",
+        "onboard_time": 1735729583,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159335,
+        "num": 159335,
+        "word": "龚俊数完黄景瑜数",
+        "onboard_time": 1735733001,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143881,
+        "num": 143881,
+        "word": "假如猎罪图鉴3的开头是这样的",
+        "onboard_time": 1735735941,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143337,
+        "num": 143337,
+        "word": "孕照被AI生成文案脑子不够肚子来凑",
+        "onboard_time": 1735722021,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025新年贺词#"
+    }
+  }
+}
