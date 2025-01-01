@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735709930013,
+  "endTime": 1735713126113,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -699,6 +699,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1400663,
+      "num": 1400663,
+      "word": "跨年最佳节目",
+      "onboard_time": 1735709360,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1393904,
       "num": 487188,
       "word": "李在明跪地安慰失事客机遇难者家属",
@@ -1051,12 +1059,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1011615,
+      "num": 1102386,
+      "word": "孙颖莎状态",
+      "onboard_time": 1735708399,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 998655,
       "num": 998655,
       "word": "遇龙",
       "onboard_time": 1735487540,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 998543,
+      "num": 275244,
+      "word": "消防通报万达广场门口氢气球爆燃",
+      "onboard_time": 1735709120,
+      "rank": 34,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 996724,
@@ -1795,12 +1819,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 639916,
-      "num": 1102386,
-      "word": "孙颖莎状态",
-      "onboard_time": 1735708399,
-      "rank": 22,
-      "category": "体育"
+      "raw_hot": 637102,
+      "num": 637102,
+      "word": "鹿晗的阿贝贝",
+      "onboard_time": 1735709898,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 636825,
@@ -1873,6 +1897,14 @@
       "onboard_time": 1735534823,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 601584,
+      "num": 601584,
+      "word": "孙颖莎vs钱天一",
+      "onboard_time": 1735710079,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 595978,
@@ -2987,6 +3019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 401225,
+      "num": 214662,
+      "word": "樊振东登上国防军事频道",
+      "onboard_time": 1735711099,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 400510,
       "num": 400510,
       "word": "迪丽热巴今天cos碱水结",
@@ -3033,6 +3073,14 @@
       "onboard_time": 1735649488,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 395930,
+      "num": 395930,
+      "word": "摇粒绒就是穷人的貂",
+      "onboard_time": 1735712120,
+      "rank": 6,
+      "category": "幽默"
     },
     {
       "raw_hot": 394603,
@@ -3681,6 +3729,14 @@
       "onboard_time": 1735650088,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 323837,
+      "num": 323837,
+      "word": "江苏一中学招13名教师10名清北0师范",
+      "onboard_time": 1735710499,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 323299,
@@ -5235,6 +5291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222216,
+      "num": 222216,
+      "word": "张颂文 姜尘",
+      "onboard_time": 1735712780,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222054,
       "num": 264690,
       "word": "吴敬平发樊振东奥运照",
@@ -5521,14 +5585,6 @@
       "onboard_time": 1735628300,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 209774,
-      "num": 209774,
-      "word": "跨年最佳节目",
-      "onboard_time": 1735709360,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 209614,
@@ -6243,6 +6299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194839,
+      "num": 194839,
+      "word": "网剧冬至",
+      "onboard_time": 1735711940,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194812,
       "num": 194812,
       "word": "天王杯",
@@ -6289,6 +6353,14 @@
       "onboard_time": 1735665801,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193531,
+      "num": 157422,
+      "word": "雷军谈极越事件",
+      "onboard_time": 1735712120,
+      "rank": 32,
+      "category": "汽车"
     },
     {
       "raw_hot": 193419,
@@ -6795,6 +6867,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 185560,
+      "num": 159484,
+      "word": "孙颖莎3比2钱天一",
+      "onboard_time": 1735711823,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185441,
       "num": 185441,
       "word": "李现背头",
@@ -7121,14 +7201,6 @@
       "onboard_time": 1735462880,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176917,
-      "num": 176917,
-      "word": "消防通报万达广场门口氢气球爆燃",
-      "onboard_time": 1735709120,
-      "rank": 34,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 176797,
@@ -7827,6 +7899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161296,
+      "num": 301771,
+      "word": "香港用水门礼迎接国产大飞机C919",
+      "onboard_time": 1735710499,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 161094,
       "num": 168368,
       "word": "最强县级市市委书记调整",
@@ -7953,6 +8033,14 @@
       "onboard_time": 1735561160,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157810,
+      "num": 157810,
+      "word": "田曦薇新剧一天打鱼五天晒网",
+      "onboard_time": 1735712059,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 157678,
@@ -8139,14 +8227,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 153927,
-      "num": 153927,
-      "word": "鹿晗的阿贝贝",
-      "onboard_time": 1735709898,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 153925,
       "num": 153925,
       "word": "济州航空运营40架飞机均为波音737系列",
@@ -8225,6 +8305,14 @@
       "onboard_time": 1735627759,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 152629,
+      "num": 152629,
+      "word": "弦子 不得不爱",
+      "onboard_time": 1735712299,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 151513,
@@ -8707,6 +8795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141974,
+      "num": 213067,
+      "word": "将于今年退伍的男爱豆们",
+      "onboard_time": 1735712419,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141965,
       "num": 141965,
       "word": "MRC对战Wolves",
@@ -8817,6 +8913,14 @@
       "onboard_time": 1735626020,
       "rank": 40,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 139292,
+      "num": 139292,
+      "word": "看孙颖莎打球好爽",
+      "onboard_time": 1735712299,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 139237,
@@ -9371,6 +9475,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 122654,
+      "num": 122654,
+      "word": "原神焚夜以炎",
+      "onboard_time": 1735712000,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 122562,
       "num": 177804,
       "word": "现在拨打的电话",
@@ -9627,6 +9739,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 113258,
+      "num": 157914,
+      "word": "大奉我同事竟然是顶流明星",
+      "onboard_time": 1735711039,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111930,
       "num": 1355142,
       "word": "2024年国内十大新闻",
@@ -9673,6 +9793,14 @@
       "onboard_time": 1735564221,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 110543,
+      "num": 110543,
+      "word": "沈月的vlog",
+      "onboard_time": 1735710738,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 110161,
@@ -9795,6 +9923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104899,
+      "num": 104899,
+      "word": "不知道的还以为马年要来了",
+      "onboard_time": 1735711580,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104406,
       "num": 666456,
       "word": "莎头2024赛事总结",
@@ -9809,6 +9945,14 @@
       "onboard_time": 1735389980,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104311,
+      "num": 218538,
+      "word": "覃予萱vs王曼昱",
+      "onboard_time": 1735712359,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 104175,
@@ -9841,6 +9985,14 @@
       "onboard_time": 1735550900,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103695,
+      "num": 103695,
+      "word": "B站懂我",
+      "onboard_time": 1735712899,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 103292,
@@ -12379,6 +12531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 24053,
+      "num": 341750,
+      "word": "2025一起passion",
+      "onboard_time": 1735708039,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24037,
       "num": 24037,
       "word": "杨紫何惟芳原声台词",
@@ -12425,14 +12585,6 @@
       "onboard_time": 1735498812,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 22975,
-      "num": 341750,
-      "word": "2025一起passion",
-      "onboard_time": 1735708039,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 22850,
