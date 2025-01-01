@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735700924362,
+  "endTime": 1735702501274,
   "band_list": [
     {
       "raw_hot": 10681189,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2578366,
-      "num": 311537,
+      "num": 318307,
       "word": "赵露思走不动想去捶打腿",
       "onboard_time": 1735693338,
       "rank": 15,
@@ -113,6 +113,14 @@
       "onboard_time": 1735659086,
       "rank": 5,
       "category": "体育,综艺"
+    },
+    {
+      "raw_hot": 1310666,
+      "num": 1310666,
+      "word": "高瀚宇加盟鹿晗工作室",
+      "onboard_time": 1735700480,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1299836,
@@ -235,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 832820,
+      "num": 318723,
+      "word": "电视剧轧戏",
+      "onboard_time": 1735698200,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 801403,
       "num": 801403,
       "word": "中文版APT 难听",
@@ -299,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 686504,
+      "num": 318478,
+      "word": "常州一党委书记发不雅内容被免职",
+      "onboard_time": 1735696999,
+      "rank": 34,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 674003,
       "num": 674003,
       "word": "天安门放飞10000多只和平鸽",
@@ -339,20 +363,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 545904,
-      "num": 308908,
-      "word": "常州一党委书记发不雅内容被免职",
-      "onboard_time": 1735696999,
-      "rank": 34,
-      "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 528601,
-      "num": 306886,
-      "word": "电视剧轧戏",
-      "onboard_time": 1735698200,
-      "rank": 13,
-      "category": "剧集"
+      "raw_hot": 514994,
+      "num": 306955,
+      "word": "大学生跨年夜卖出5个气球都没回本",
+      "onboard_time": 1735699221,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 507092,
@@ -377,14 +393,6 @@
       "onboard_time": 1735662088,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 483038,
-      "num": 483038,
-      "word": "高瀚宇加盟鹿晗工作室",
-      "onboard_time": 1735700480,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 466406,
@@ -412,7 +420,7 @@
     },
     {
       "raw_hot": 432070,
-      "num": 299172,
+      "num": 318224,
       "word": "韩国空难179名遇难者身份全部确认",
       "onboard_time": 1735698379,
       "rank": 16,
@@ -435,12 +443,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 401956,
-      "num": 263181,
-      "word": "大学生跨年夜卖出5个气球都没回本",
-      "onboard_time": 1735699221,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 416416,
+      "num": 494639,
+      "word": "江苏一中学招13名教师8名为博士",
+      "onboard_time": 1735697240,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 394603,
@@ -460,7 +468,7 @@
     },
     {
       "raw_hot": 388917,
-      "num": 260718,
+      "num": 295683,
       "word": "香港全款150万13平米的家",
       "onboard_time": 1735696999,
       "rank": 30,
@@ -563,12 +571,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 315683,
-      "num": 494639,
-      "word": "江苏一中学招13名教师8名为博士",
-      "onboard_time": 1735697240,
-      "rank": 46,
-      "category": "教育"
+      "raw_hot": 319765,
+      "num": 319765,
+      "word": "王鹤棣你是真饿了",
+      "onboard_time": 1735701559,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 318224,
+      "num": 318223,
+      "word": "虞书欣丁禹兮林一把日子过好",
+      "onboard_time": 1735702221,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 308995,
@@ -585,6 +601,14 @@
       "onboard_time": 1735660226,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 304989,
+      "num": 295036,
+      "word": "陈哲远发了5万红包",
+      "onboard_time": 1735701379,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 304298,
@@ -707,6 +731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 231566,
+      "num": 231566,
+      "word": "DQ Chiikawa",
+      "onboard_time": 1735699340,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 230697,
       "num": 230697,
       "word": "东部战区发布MV中国人",
@@ -715,8 +747,16 @@
       "category": "军事"
     },
     {
-      "raw_hot": 221474,
-      "num": 221474,
+      "raw_hot": 223069,
+      "num": 223069,
+      "word": "樊振东回应是否将更注重国内赛事",
+      "onboard_time": 1735701260,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 222054,
+      "num": 222054,
       "word": "吴敬平发樊振东奥运照",
       "onboard_time": 1735700421,
       "rank": 26,
@@ -729,6 +769,14 @@
       "onboard_time": 1735698921,
       "rank": 27,
       "category": "艺人,美食"
+    },
+    {
+      "raw_hot": 216037,
+      "num": 216037,
+      "word": "雷军否认造小米汽车只要100亿",
+      "onboard_time": 1735698501,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 215922,
@@ -779,12 +827,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206785,
-      "num": 206785,
-      "word": "雷军否认造小米汽车只要100亿",
-      "onboard_time": 1735698501,
-      "rank": 28,
-      "category": "汽车"
+      "raw_hot": 207478,
+      "num": 238909,
+      "word": "慕胥辞提灯赴新岁海报",
+      "onboard_time": 1735701979,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 205771,
@@ -835,14 +883,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 191962,
-      "num": 191962,
-      "word": "DQ Chiikawa",
-      "onboard_time": 1735699340,
-      "rank": 36,
-      "category": "美食"
-    },
-    {
       "raw_hot": 191623,
       "num": 191623,
       "word": "张栋梁一开口还是大明星何群",
@@ -865,6 +905,14 @@
       "onboard_time": 1735691118,
       "rank": 34,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 181949,
+      "num": 181949,
+      "word": "国色芳华大剧排面",
+      "onboard_time": 1735702340,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 178067,
@@ -979,6 +1027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161070,
+      "num": 161070,
+      "word": "张艺兴工作室新年长文",
+      "onboard_time": 1735702160,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158533,
       "num": 158533,
       "word": "鞠婧祎 我现在要再看看我的舞台",
@@ -1051,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146911,
+      "num": 146911,
+      "word": "ELLE80周年时髦词典",
+      "onboard_time": 1735701979,
+      "rank": 45,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 144464,
       "num": 144464,
       "word": "王者荣耀",
@@ -1091,6 +1155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135925,
+      "num": 135925,
+      "word": "你好2025",
+      "onboard_time": 1735701500,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133699,
       "num": 133699,
       "word": "王俊凯 蝴蝶王子",
@@ -1105,6 +1177,14 @@
       "onboard_time": 1735695260,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131988,
+      "num": 131988,
+      "word": "德国人凌晨4点排长队抢购中国烟花",
+      "onboard_time": 1735702399,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 131229,
@@ -1179,12 +1259,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 98075,
+      "num": 319379,
+      "word": "一觉醒来中国空间站科幻化了",
+      "onboard_time": 1735701861,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 95339,
       "num": 95339,
       "word": "光与夜之恋",
       "onboard_time": 1735670895,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 93901,
+      "num": 225239,
+      "word": "蒯曼覃予萱vs陈幸同钱天一",
+      "onboard_time": 1735701379,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 91917,
@@ -1289,6 +1385,22 @@
       "onboard_time": 1735694900,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51134,
+      "num": 317164,
+      "word": "尹锡悦多名高级幕僚请辞",
+      "onboard_time": 1735701680,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 47410,
+      "num": 318324,
+      "word": "高校新年营业求抱抱",
+      "onboard_time": 1735700899,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47108,
@@ -1529,14 +1641,6 @@
       "onboard_time": 1735678571,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 5627,
-      "num": 305273,
-      "word": "高校新年营业求抱抱",
-      "onboard_time": 1735700899,
-      "rank": 14,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

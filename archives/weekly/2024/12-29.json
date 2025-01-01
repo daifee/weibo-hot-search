@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735700924362,
+  "endTime": 1735702501274,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 2578366,
-      "num": 311537,
+      "num": 318307,
       "word": "赵露思走不动想去捶打腿",
       "onboard_time": 1735693338,
       "rank": 15,
@@ -753,6 +753,14 @@
       "onboard_time": 1735605019,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1310666,
+      "num": 1310666,
+      "word": "高瀚宇加盟鹿晗工作室",
+      "onboard_time": 1735700480,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1305671,
@@ -1275,6 +1283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 832820,
+      "num": 318723,
+      "word": "电视剧轧戏",
+      "onboard_time": 1735698200,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 821741,
       "num": 821741,
       "word": "央视跨年晚会阵容你最期待谁",
@@ -1569,6 +1585,14 @@
       "onboard_time": 1735470260,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 686504,
+      "num": 318478,
+      "word": "常州一党委书记发不雅内容被免职",
+      "onboard_time": 1735696999,
+      "rank": 34,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 684412,
@@ -2011,14 +2035,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 545904,
-      "num": 308908,
-      "word": "常州一党委书记发不雅内容被免职",
-      "onboard_time": 1735696999,
-      "rank": 34,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 542246,
       "num": 460075,
       "word": "韩国客机接到鸟情预警6分钟后撞墙",
@@ -2099,14 +2115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 528601,
-      "num": 306886,
-      "word": "电视剧轧戏",
-      "onboard_time": 1735698200,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 526662,
       "num": 526662,
       "word": "韩国首次对现任总统发布逮捕令",
@@ -2137,6 +2145,14 @@
       "onboard_time": 1735535302,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 514994,
+      "num": 306955,
+      "word": "大学生跨年夜卖出5个气球都没回本",
+      "onboard_time": 1735699221,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 513755,
@@ -2329,14 +2345,6 @@
       "onboard_time": 1735525337,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 483038,
-      "num": 483038,
-      "word": "高瀚宇加盟鹿晗工作室",
-      "onboard_time": 1735700480,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 481628,
@@ -2636,7 +2644,7 @@
     },
     {
       "raw_hot": 432070,
-      "num": 299172,
+      "num": 318224,
       "word": "韩国空难179名遇难者身份全部确认",
       "onboard_time": 1735698379,
       "rank": 16,
@@ -2795,6 +2803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 416416,
+      "num": 494639,
+      "word": "江苏一中学招13名教师8名为博士",
+      "onboard_time": 1735697240,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 415306,
       "num": 415306,
       "word": "缅北明家都干了哪些恶事",
@@ -2865,14 +2881,6 @@
       "onboard_time": 1735478720,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 401956,
-      "num": 263181,
-      "word": "大学生跨年夜卖出5个气球都没回本",
-      "onboard_time": 1735699221,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 400510,
@@ -3012,7 +3020,7 @@
     },
     {
       "raw_hot": 388917,
-      "num": 260718,
+      "num": 295683,
       "word": "香港全款150万13平米的家",
       "onboard_time": 1735696999,
       "rank": 30,
@@ -3619,6 +3627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 319765,
+      "num": 319765,
+      "word": "王鹤棣你是真饿了",
+      "onboard_time": 1735701559,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 319358,
       "num": 1081012,
       "word": "2024最后一次",
@@ -3643,20 +3659,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 318224,
+      "num": 318223,
+      "word": "虞书欣丁禹兮林一把日子过好",
+      "onboard_time": 1735702221,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 315990,
       "num": 262370,
       "word": "杨紫演技就没让人失望过",
       "onboard_time": 1735623200,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 315683,
-      "num": 494639,
-      "word": "江苏一中学招13名教师8名为博士",
-      "onboard_time": 1735697240,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 315258,
@@ -3785,6 +3801,14 @@
       "onboard_time": 1735650268,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 304989,
+      "num": 295036,
+      "word": "陈哲远发了5万红包",
+      "onboard_time": 1735701379,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 304298,
@@ -4907,6 +4931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231566,
+      "num": 231566,
+      "word": "DQ Chiikawa",
+      "onboard_time": 1735699340,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 231528,
       "num": 231528,
       "word": "2024年的你也辛苦了",
@@ -5059,8 +5091,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 221474,
-      "num": 221474,
+      "raw_hot": 223069,
+      "num": 223069,
+      "word": "樊振东回应是否将更注重国内赛事",
+      "onboard_time": 1735701260,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 222054,
+      "num": 222054,
       "word": "吴敬平发樊振东奥运照",
       "onboard_time": 1735700421,
       "rank": 26,
@@ -5193,6 +5233,14 @@
       "onboard_time": 1735481842,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216037,
+      "num": 216037,
+      "word": "雷军否认造小米汽车只要100亿",
+      "onboard_time": 1735698501,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 215445,
@@ -5467,20 +5515,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 207478,
+      "num": 238909,
+      "word": "慕胥辞提灯赴新岁海报",
+      "onboard_time": 1735701979,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207105,
       "num": 207105,
       "word": "白鹿敖瑞鹏合拍法海你不懂爱",
       "onboard_time": 1735448301,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 206785,
-      "num": 206785,
-      "word": "雷军否认造小米汽车只要100亿",
-      "onboard_time": 1735698501,
-      "rank": 28,
-      "category": "汽车"
     },
     {
       "raw_hot": 206727,
@@ -6163,14 +6211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 191962,
-      "num": 191962,
-      "word": "DQ Chiikawa",
-      "onboard_time": 1735699340,
-      "rank": 36,
-      "category": "美食"
-    },
-    {
       "raw_hot": 191956,
       "num": 274040,
       "word": "白鹿又白录了",
@@ -6745,6 +6785,14 @@
       "onboard_time": 1735644743,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181949,
+      "num": 181949,
+      "word": "国色芳华大剧排面",
+      "onboard_time": 1735702340,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 181759,
@@ -7595,6 +7643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161070,
+      "num": 161070,
+      "word": "张艺兴工作室新年长文",
+      "onboard_time": 1735702160,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160822,
       "num": 160822,
       "word": "特朗普被判赔偿500万美元",
@@ -8171,6 +8227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146911,
+      "num": 146911,
+      "word": "ELLE80周年时髦词典",
+      "onboard_time": 1735701979,
+      "rank": 45,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 146790,
       "num": 146790,
       "word": "高价宠物殡葬收费达万元",
@@ -8627,6 +8691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135925,
+      "num": 135925,
+      "word": "你好2025",
+      "onboard_time": 1735701500,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135797,
       "num": 131745,
       "word": "千万彩票被冒领当事人说宁可没中彩票",
@@ -8777,6 +8849,14 @@
       "onboard_time": 1735562361,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131988,
+      "num": 131988,
+      "word": "德国人凌晨4点排长队抢购中国烟花",
+      "onboard_time": 1735702399,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 131261,
@@ -9635,6 +9715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 98075,
+      "num": 319379,
+      "word": "一觉醒来中国空间站科幻化了",
+      "onboard_time": 1735701861,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 97522,
       "num": 177749,
       "word": "浙江人民开始煮糖水",
@@ -9705,6 +9793,14 @@
       "onboard_time": 1735435337,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93901,
+      "num": 225239,
+      "word": "蒯曼覃予萱vs陈幸同钱天一",
+      "onboard_time": 1735701379,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 93805,
@@ -10675,6 +10771,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 51134,
+      "num": 317164,
+      "word": "尹锡悦多名高级幕僚请辞",
+      "onboard_time": 1735701680,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 51017,
       "num": 188320,
       "word": "明家犯罪集团及其关联案件侦办始末",
@@ -10801,6 +10905,14 @@
       "onboard_time": 1735598894,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 47410,
+      "num": 318324,
+      "word": "高校新年营业求抱抱",
+      "onboard_time": 1735700899,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47221,
@@ -12881,14 +12993,6 @@
       "onboard_time": 1735634421,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 5627,
-      "num": 305273,
-      "word": "高校新年营业求抱抱",
-      "onboard_time": 1735700899,
-      "rank": 14,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
