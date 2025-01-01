@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735716927247,
+  "endTime": 1735720109926,
   "band_list": [
     {
       "raw_hot": 10681189,
@@ -33,6 +33,14 @@
       "onboard_time": 1735662029,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3143550,
+      "num": 337578,
+      "word": "赵露思微博解了",
+      "onboard_time": 1735718120,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2578366,
@@ -419,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 686634,
+      "num": 686634,
+      "word": "擦边球",
+      "onboard_time": 1735716379,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 686504,
       "num": 402453,
       "word": "常州一党委书记发不雅内容被免职",
@@ -715,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 372431,
+      "num": 372431,
+      "word": "孙颖莎为队友点赞",
+      "onboard_time": 1735716798,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 371483,
       "num": 640595,
       "word": "王楚钦回应战胜樊振东",
@@ -763,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 340552,
+      "num": 340552,
+      "word": "孙颖莎 真诚的小女孩",
+      "onboard_time": 1735718779,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 336498,
       "num": 336498,
       "word": "程潇 老娘要摆ending",
@@ -777,6 +809,14 @@
       "onboard_time": 1735660942,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 334908,
+      "num": 334908,
+      "word": "西飞",
+      "onboard_time": 1735714339,
+      "rank": 24,
+      "category": "军事"
     },
     {
       "raw_hot": 330592,
@@ -873,6 +913,14 @@
       "onboard_time": 1735660527,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 273980,
+      "num": 273980,
+      "word": "钱天一双打MVP",
+      "onboard_time": 1735717699,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 265897,
@@ -1019,12 +1067,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220798,
+      "num": 164941,
+      "word": "孙颖莎绕场感谢球迷",
+      "onboard_time": 1735719800,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220449,
       "num": 220449,
       "word": "登陆少年 百事",
       "onboard_time": 1735698921,
       "rank": 27,
       "category": "艺人,美食"
+    },
+    {
+      "raw_hot": 219856,
+      "num": 219856,
+      "word": "C919机舱响起康辉的声音",
+      "onboard_time": 1735718899,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 216037,
@@ -1043,14 +1107,6 @@
       "category": "游戏,综艺"
     },
     {
-      "raw_hot": 215198,
-      "num": 215198,
-      "word": "西飞",
-      "onboard_time": 1735714339,
-      "rank": 24,
-      "category": "军事"
-    },
-    {
       "raw_hot": 215194,
       "num": 215194,
       "word": "国色芳华定档",
@@ -1065,6 +1121,22 @@
       "onboard_time": 1735644560,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 212851,
+      "num": 212851,
+      "word": "TF家族新年音乐会特权码",
+      "onboard_time": 1735719380,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 210798,
+      "num": 274853,
+      "word": "易烊千玺面试戏演哭剧组所有人",
+      "onboard_time": 1735719499,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 209388,
@@ -1139,14 +1211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200791,
-      "num": 226235,
-      "word": "擦边球",
-      "onboard_time": 1735716379,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 200693,
       "num": 200693,
       "word": "欣有林兮",
@@ -1201,6 +1265,14 @@
       "onboard_time": 1735712120,
       "rank": 32,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 193291,
+      "num": 193291,
+      "word": "沈梦辰的造型师请出来挨夸",
+      "onboard_time": 1735717038,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 191623,
@@ -1363,6 +1435,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 165203,
+      "num": 165203,
+      "word": "TizzyT跨年压轴连唱15首",
+      "onboard_time": 1735719560,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 164933,
+      "num": 164933,
+      "word": "肖战祝大家新年喜乐多",
+      "onboard_time": 1735718839,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164833,
       "num": 164833,
       "word": "元旦",
@@ -1491,6 +1579,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 149293,
+      "num": 149293,
+      "word": "2024全年电影票房425.02亿元",
+      "onboard_time": 1735717699,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 149089,
       "num": 149089,
       "word": "天津天塔跨年夜人从众了",
@@ -1515,6 +1611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147697,
+      "num": 147697,
+      "word": "会长是女仆大人 婚后新图",
+      "onboard_time": 1735716021,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 147680,
       "num": 147680,
       "word": "山东鲁能1比0深圳大学",
@@ -1529,6 +1633,14 @@
       "onboard_time": 1735701979,
       "rank": 45,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 145283,
+      "num": 145283,
+      "word": "黄景瑜孙千吻戏吻到忘词",
+      "onboard_time": 1735718598,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 144464,
@@ -1587,27 +1699,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139921,
+      "num": 139921,
+      "word": "张颂文方未回应",
+      "onboard_time": 1735717760,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139292,
       "num": 139292,
       "word": "看孙颖莎打球好爽",
       "onboard_time": 1735712299,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 139255,
-      "num": 139255,
-      "word": "会长是女仆大人 婚后新图",
-      "onboard_time": 1735716021,
-      "rank": 45,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 139106,
-      "num": 139106,
-      "word": "孙颖莎为队友点赞",
-      "onboard_time": 1735716798,
-      "rank": 39,
       "category": "体育"
     },
     {
@@ -1707,6 +1811,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 126624,
+      "num": 126624,
+      "word": "山东鲁能九夺乒超女团冠军",
+      "onboard_time": 1735717880,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126424,
       "num": 126424,
       "word": "AG对战情久",
@@ -1755,6 +1867,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120486,
+      "num": 120486,
+      "word": "嘘国王新年第一cha",
+      "onboard_time": 1735718779,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 120136,
+      "num": 120136,
+      "word": "陈幸同单打MVP",
+      "onboard_time": 1735719859,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119005,
       "num": 157914,
       "word": "大奉我同事竟然是顶流明星",
@@ -1771,12 +1899,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118375,
+      "num": 118375,
+      "word": "张艺兴新年为家乡文旅摇人",
+      "onboard_time": 1735719560,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117950,
       "num": 229756,
       "word": "2025新年的第一声问候",
       "onboard_time": 1735694839,
       "rank": 25,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 117676,
+      "num": 203775,
+      "word": "深圳大学女团亚军",
+      "onboard_time": 1735718839,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 116506,
@@ -1791,6 +1935,14 @@
       "num": 115856,
       "word": "名侦探的假期",
       "onboard_time": 1735713800,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 111869,
+      "num": 111869,
+      "word": "张若昀说魏晨下海了",
+      "onboard_time": 1735719920,
       "rank": 48,
       "category": "综艺"
     },
@@ -1825,6 +1977,14 @@
       "onboard_time": 1735650388,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 108571,
+      "num": 310552,
+      "word": "家人为被拐儿子补齐21个生日蛋糕",
+      "onboard_time": 1735719740,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106025,
@@ -2075,6 +2235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47197,
+      "num": 164950,
+      "word": "韩失事飞机最后4分钟究竟发生了啥",
+      "onboard_time": 1735719020,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 47108,
       "num": 221496,
       "word": "深圳的跨年已经nextlevel",
@@ -2203,12 +2371,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27096,
+      "num": 254142,
+      "word": "2025年原生鸿蒙将迎来爆发式增长",
+      "onboard_time": 1735717099,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 26445,
       "num": 277003,
       "word": "2025第一天绝美朝霞",
       "onboard_time": 1735688896,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25289,
+      "num": 204965,
+      "word": "一图回顾2024年A股大事记",
+      "onboard_time": 1735718239,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 24053,
@@ -2233,6 +2417,14 @@
       "onboard_time": 1735698440,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21079,
+      "num": 338817,
+      "word": "来自中国空间站的新年祝福太全面了",
+      "onboard_time": 1735719679,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 21004,
@@ -2275,6 +2467,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 17193,
+      "num": 374470,
+      "word": "新年贺词这些话暖人心",
+      "onboard_time": 1735649488,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 17185,
       "num": 103904,
       "word": "2025祝你多喜乐长安宁",
@@ -2297,6 +2497,14 @@
       "onboard_time": 1735672514,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15634,
+      "num": 135307,
+      "word": "对象雪雕走红哈尔滨",
+      "onboard_time": 1735718419,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 14287,
@@ -2417,6 +2625,9 @@
     },
     {
       "word": "#习近平发表二〇二五年新年贺词#"
+    },
+    {
+      "word": "#2025年新年贺词#"
     }
   ]
 }

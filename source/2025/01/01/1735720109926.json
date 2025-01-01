@@ -1,0 +1,410 @@
+{
+  "runTime": 1735720109926,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1192763,
+        "num": 1192763,
+        "word": "孙颖莎钱天一擦边球争议",
+        "onboard_time": 1735714041,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 686634,
+        "num": 686634,
+        "word": "擦边球",
+        "onboard_time": 1735716379,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17193,
+        "num": 374470,
+        "word": "新年贺词这些话暖人心",
+        "onboard_time": 1735649488,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2810400,
+        "num": 373627,
+        "word": "赵露思最新康复状态",
+        "onboard_time": 1735689496,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372431,
+        "num": 372431,
+        "word": "孙颖莎为队友点赞",
+        "onboard_time": 1735716798,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1167543,
+        "num": 356736,
+        "word": "弹性退休办法来了",
+        "onboard_time": 1735715780,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 825084,
+        "num": 355019,
+        "word": "贾玲 影史第一位年冠女导演",
+        "onboard_time": 1735713558,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 340552,
+        "num": 340552,
+        "word": "孙颖莎 真诚的小女孩",
+        "onboard_time": 1735718779,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96491,
+        "num": 339878,
+        "word": "2025是一个什么年",
+        "onboard_time": 1735689617,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 21079,
+        "num": 338817,
+        "word": "来自中国空间站的新年祝福太全面了",
+        "onboard_time": 1735719679,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 3143550,
+        "num": 337578,
+        "word": "赵露思微博解了",
+        "onboard_time": 1735718120,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 731718,
+        "num": 336760,
+        "word": "张颂文 姜尘",
+        "onboard_time": 1735712780,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 649274,
+        "num": 336034,
+        "word": "摇粒绒就是穷人的貂",
+        "onboard_time": 1735712120,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 334908,
+        "num": 334908,
+        "word": "西飞",
+        "onboard_time": 1735714339,
+        "rank": 13,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 108571,
+        "num": 310552,
+        "word": "家人为被拐儿子补齐21个生日蛋糕",
+        "onboard_time": 1735719740,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289232,
+        "num": 289232,
+        "word": "鹿晗的阿贝贝",
+        "onboard_time": 1735709898,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286528,
+        "num": 286528,
+        "word": "跨年最佳节目",
+        "onboard_time": 1735709360,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210798,
+        "num": 274853,
+        "word": "易烊千玺面试戏演哭剧组所有人",
+        "onboard_time": 1735719499,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 273980,
+        "num": 273980,
+        "word": "钱天一双打MVP",
+        "onboard_time": 1735717699,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27096,
+        "num": 254142,
+        "word": "2025年原生鸿蒙将迎来爆发式增长",
+        "onboard_time": 1735717099,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 239148,
+        "num": 239148,
+        "word": "樊振东登上国防军事频道",
+        "onboard_time": 1735711099,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219856,
+        "num": 219856,
+        "word": "C919机舱响起康辉的声音",
+        "onboard_time": 1735718899,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212851,
+        "num": 212851,
+        "word": "TF家族新年音乐会特权码",
+        "onboard_time": 1735719380,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 25289,
+        "num": 204965,
+        "word": "一图回顾2024年A股大事记",
+        "onboard_time": 1735718239,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117676,
+        "num": 203775,
+        "word": "深圳大学女团亚军",
+        "onboard_time": 1735718839,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203723,
+        "num": 203723,
+        "word": "王鹤棣你是真饿了",
+        "onboard_time": 1735701559,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193291,
+        "num": 193291,
+        "word": "沈梦辰的造型师请出来挨夸",
+        "onboard_time": 1735717038,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181832,
+        "num": 181832,
+        "word": "将于今年退伍的男爱豆们",
+        "onboard_time": 1735712419,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165203,
+        "num": 165203,
+        "word": "TizzyT跨年压轴连唱15首",
+        "onboard_time": 1735719560,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 47197,
+        "num": 164950,
+        "word": "韩失事飞机最后4分钟究竟发生了啥",
+        "onboard_time": 1735719020,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 220798,
+        "num": 164941,
+        "word": "孙颖莎绕场感谢球迷",
+        "onboard_time": 1735719800,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164933,
+        "num": 164933,
+        "word": "肖战祝大家新年喜乐多",
+        "onboard_time": 1735718839,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161846,
+        "num": 161846,
+        "word": "江苏一中学招13名教师10名清北0师范",
+        "onboard_time": 1735710499,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 160951,
+        "num": 160951,
+        "word": "虞书欣丁禹兮林一把日子过好",
+        "onboard_time": 1735702221,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149293,
+        "num": 149293,
+        "word": "2024全年电影票房425.02亿元",
+        "onboard_time": 1735717699,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147697,
+        "num": 147697,
+        "word": "会长是女仆大人 婚后新图",
+        "onboard_time": 1735716021,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 145283,
+        "num": 145283,
+        "word": "黄景瑜孙千吻戏吻到忘词",
+        "onboard_time": 1735718598,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142796,
+        "num": 142796,
+        "word": "网购车厘子一整盒仅6颗大小达标",
+        "onboard_time": 1735703540,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139921,
+        "num": 139921,
+        "word": "张颂文方未回应",
+        "onboard_time": 1735717760,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15634,
+        "num": 135307,
+        "word": "对象雪雕走红哈尔滨",
+        "onboard_time": 1735718419,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 135011,
+        "num": 135011,
+        "word": "杨幂李一桐嘟嘴合照",
+        "onboard_time": 1735707380,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130856,
+        "num": 130856,
+        "word": "香港用水门礼迎接国产大飞机C919",
+        "onboard_time": 1735710499,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 126624,
+        "num": 126624,
+        "word": "山东鲁能九夺乒超女团冠军",
+        "onboard_time": 1735717880,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120486,
+        "num": 120486,
+        "word": "嘘国王新年第一cha",
+        "onboard_time": 1735718779,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120136,
+        "num": 120136,
+        "word": "陈幸同单打MVP",
+        "onboard_time": 1735719859,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119418,
+        "num": 119418,
+        "word": "王宝强刘昊然电影唐探1900造型",
+        "onboard_time": 1735713198,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118375,
+        "num": 118375,
+        "word": "张艺兴新年为家乡文旅摇人",
+        "onboard_time": 1735719560,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116431,
+        "num": 116431,
+        "word": "存量房公积金贷款利率明起正式下调",
+        "onboard_time": 1735716741,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111869,
+        "num": 111869,
+        "word": "张若昀说魏晨下海了",
+        "onboard_time": 1735719920,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108704,
+        "num": 108704,
+        "word": "消防通报万达广场门口氢气球爆燃",
+        "onboard_time": 1735709120,
+        "rank": 49,
+        "category": "辟谣/通报"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025年新年贺词#"
+    }
+  }
+}
