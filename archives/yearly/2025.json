@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735742286306,
+  "endTime": 1735744998134,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -459,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 773739,
+      "num": 773739,
+      "word": "白敬亭宋轶同款比心",
+      "onboard_time": 1735741642,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 765910,
       "num": 765910,
       "word": "杨幂跨年打鼓舞台",
@@ -595,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 605044,
+      "num": 394030,
+      "word": "Angelababy沙漠神女",
+      "onboard_time": 1735742121,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 601584,
       "num": 601584,
       "word": "孙颖莎vs钱天一",
@@ -624,6 +640,14 @@
       "word": "杨幂情商",
       "onboard_time": 1735721479,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 554168,
+      "num": 402993,
+      "word": "杨幂 梗当然要当本人面玩",
+      "onboard_time": 1735742603,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -707,14 +731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 482636,
-      "num": 354788,
-      "word": "Angelababy沙漠神女",
-      "onboard_time": 1735742121,
-      "rank": 11,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 475731,
       "num": 475731,
       "word": "易烊千玺面试戏演哭剧组所有人",
@@ -729,6 +745,14 @@
       "onboard_time": 1735702399,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 469784,
+      "num": 469784,
+      "word": "B站2024百大UP主",
+      "onboard_time": 1735739784,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 467394,
@@ -875,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 393270,
+      "num": 393270,
+      "word": "阳光型抑郁症到底是什么",
+      "onboard_time": 1735743981,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 390749,
       "num": 390749,
       "word": "苏醒被绑架到C位",
@@ -995,12 +1027,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 353037,
-      "num": 353037,
-      "word": "B站2024百大UP主",
-      "onboard_time": 1735739784,
-      "rank": 14,
-      "category": "互联网"
+      "raw_hot": 356401,
+      "num": 271301,
+      "word": "赵本山还是太超前了",
+      "onboard_time": 1735743262,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 351740,
@@ -1025,6 +1057,14 @@
       "onboard_time": 1735691239,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 341025,
+      "num": 271254,
+      "word": "00后男生耐得住寂寞一天做上百条女裤",
+      "onboard_time": 1735742241,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 340821,
@@ -1099,6 +1139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 326987,
+      "num": 326987,
+      "word": "王楚钦感谢球迷",
+      "onboard_time": 1735742121,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 324813,
       "num": 324813,
       "word": "骗骗喜欢你 烂人错过",
@@ -1161,14 +1209,6 @@
       "onboard_time": 1735723580,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 305460,
-      "num": 305460,
-      "word": "白敬亭宋轶同款比心",
-      "onboard_time": 1735741642,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 304298,
@@ -1283,12 +1323,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 270221,
-      "num": 280032,
-      "word": "王楚钦感谢球迷",
-      "onboard_time": 1735742121,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 272703,
+      "num": 272703,
+      "word": "张峻豪前缀",
+      "onboard_time": 1735743561,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 271849,
+      "num": 263546,
+      "word": "气血不足的人试试这3个动作",
+      "onboard_time": 1735740443,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 271199,
+      "num": 271199,
+      "word": "张峻豪余宇涵明天地球要爆炸",
+      "onboard_time": 1735742843,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 270093,
@@ -1355,6 +1411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257674,
+      "num": 364337,
+      "word": "东部战区MV出现银杏叶",
+      "onboard_time": 1735741824,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 255370,
       "num": 255370,
       "word": "檀健次全开麦唱跳好稳",
@@ -1363,20 +1427,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253824,
+      "num": 253824,
+      "word": "纽约男子在地铁进站瞬间被推下站台",
+      "onboard_time": 1735740802,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 253679,
       "num": 608073,
       "word": "樊振东称毫无保留地和大家沟通",
       "onboard_time": 1735659986,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 252527,
-      "num": 252527,
-      "word": "00后男生耐得住寂寞一天做上百条女裤",
-      "onboard_time": 1735742241,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 252377,
@@ -1459,12 +1523,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 235273,
+      "num": 235273,
+      "word": "周也翟潇闻吻戏路透",
+      "onboard_time": 1735743202,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 230697,
       "num": 230697,
       "word": "东部战区发布MV中国人",
       "onboard_time": 1735698081,
       "rank": 25,
       "category": "军事"
+    },
+    {
+      "raw_hot": 229526,
+      "num": 229526,
+      "word": "2025年是本世纪唯一一个完美平方年",
+      "onboard_time": 1735742121,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 226105,
@@ -1489,14 +1569,6 @@
       "onboard_time": 1735704321,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 223959,
-      "num": 223959,
-      "word": "纽约男子在地铁进站瞬间被推下站台",
-      "onboard_time": 1735740802,
-      "rank": 42,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 223069,
@@ -1593,6 +1665,14 @@
       "onboard_time": 1735719380,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 212439,
+      "num": 231777,
+      "word": "周深演唱祝福心同此愿",
+      "onboard_time": 1735743741,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 211518,
@@ -2091,6 +2171,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172662,
+      "num": 172662,
+      "word": "王楚钦预判了林诗栋的预判",
+      "onboard_time": 1735744522,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 172517,
+      "num": 172517,
+      "word": "陈飞宇 没有技巧就是硬帅",
+      "onboard_time": 1735743981,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172436,
       "num": 172436,
       "word": "杀熊救妻丈夫与熊搏斗近半小时",
@@ -2177,6 +2273,14 @@
       "onboard_time": 1735730483,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167067,
+      "num": 398452,
+      "word": "美警方回应汽车撞人事件",
+      "onboard_time": 1735744642,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 166934,
@@ -2267,14 +2371,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 161875,
-      "num": 161875,
-      "word": "2025年是本世纪唯一一个完美平方年",
-      "onboard_time": 1735742121,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 161243,
       "num": 161243,
       "word": "归棹",
@@ -2299,108 +2395,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158533,
-      "num": 158533,
-      "word": "鞠婧祎 我现在要再看看我的舞台",
-      "onboard_time": 1735691477,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 158276,
-      "num": 239342,
-      "word": "谁也不能阻挡祖国统一的历史大势",
-      "onboard_time": 1735652007,
-      "rank": 48,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 157810,
-      "num": 157810,
-      "word": "田曦薇新剧一天打鱼五天晒网",
-      "onboard_time": 1735712059,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 157530,
-      "num": 157530,
-      "word": "B站 用心",
-      "onboard_time": 1735691959,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 157372,
-      "num": 157372,
-      "word": "林诗栋男单MVP",
-      "onboard_time": 1735741581,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 157050,
-      "num": 157050,
-      "word": "孙颖莎王曼昱为小球员颁奖",
-      "onboard_time": 1735722739,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 156926,
-      "num": 311528,
-      "word": "2025正式开始",
-      "onboard_time": 1735663706,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 156006,
-      "num": 156006,
-      "word": "专家说很多翻译硕士水平比不上AI",
-      "onboard_time": 1735722680,
-      "rank": 29,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 155346,
-      "num": 155346,
-      "word": "存量房公积金贷款利率明起正式下调",
-      "onboard_time": 1735716741,
-      "rank": 35,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 154930,
-      "num": 196086,
-      "word": "再见我们的2024",
-      "onboard_time": 1735656269,
-      "rank": 49,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 154542,
-      "num": 154542,
-      "word": "林一 Steve",
-      "onboard_time": 1735707261,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 152629,
-      "num": 152629,
-      "word": "弦子 不得不爱",
-      "onboard_time": 1735712299,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 152524,
-      "num": 152524,
-      "word": "2024全年电影票房425.02亿元",
-      "onboard_time": 1735717699,
-      "rank": 34,
-      "category": "电影"
+      "raw_hot": 158770,
+      "num": 158770,
+      "word": "美国冲撞人群司机下车向人群开枪",
+      "onboard_time": 1735742723,
+      "rank": 40,
+      "category": "海外新闻"
     }
   ],
   "hotgov_list": [
