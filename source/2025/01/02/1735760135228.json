@@ -1,0 +1,410 @@
+{
+  "runTime": 1735760135228,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 159468,
+        "num": 159468,
+        "word": "超市因员工集体盗窃亏损200万倒闭",
+        "onboard_time": 1735750698,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71935,
+        "num": 71935,
+        "word": "张峻豪改名",
+        "onboard_time": 1735746080,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1778,
+        "num": 60991,
+        "word": "2025拼出自己的高光时刻",
+        "onboard_time": 1735698440,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57763,
+        "num": 57763,
+        "word": "目击者称美冲撞行人司机下车后扫射人群",
+        "onboard_time": 1735747340,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 56696,
+        "num": 56696,
+        "word": "丁克的李健抱着他绝育的猫",
+        "onboard_time": 1735745661,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71584,
+        "num": 56581,
+        "word": "银河酷娱致歉",
+        "onboard_time": 1735728622,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56309,
+        "num": 56309,
+        "word": "丈夫称烧伤妈妈皮肤不可能回到以前",
+        "onboard_time": 1735747879,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47676,
+        "num": 47676,
+        "word": "日本电视塔跨年倒数完竟直接关灯",
+        "onboard_time": 1735733721,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 3391,
+        "num": 45788,
+        "word": "2025是一个什么年",
+        "onboard_time": 1735689617,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 45493,
+        "num": 45493,
+        "word": "王楚钦说林诗栋是国乒绝对主力",
+        "onboard_time": 1735747101,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244944,
+        "num": 40134,
+        "word": "徐以若 赵露思",
+        "onboard_time": 1735747999,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75232,
+        "num": 39753,
+        "word": "庞博文 小怡同学",
+        "onboard_time": 1735735281,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34090,
+        "num": 34090,
+        "word": "李炜回应",
+        "onboard_time": 1735745121,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33519,
+        "num": 33519,
+        "word": "B站2024百大UP主",
+        "onboard_time": 1735739784,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 31342,
+        "num": 31342,
+        "word": "杨幂 梗当然要当本人面玩",
+        "onboard_time": 1735742603,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29151,
+        "num": 29151,
+        "word": "Angelababy沙漠神女",
+        "onboard_time": 1735742121,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 29136,
+        "num": 29136,
+        "word": "阳光型抑郁症到底是什么",
+        "onboard_time": 1735743981,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 28462,
+        "num": 28462,
+        "word": "拖米",
+        "onboard_time": 1735745181,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27770,
+        "num": 27770,
+        "word": "张峻豪正式出道",
+        "onboard_time": 1735737440,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26696,
+        "num": 26696,
+        "word": "白敬亭宋轶同款比心",
+        "onboard_time": 1735741642,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450666,
+        "num": 26644,
+        "word": "赵露思发长文回应",
+        "onboard_time": 1735726580,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42292,
+        "num": 26626,
+        "word": "00后男生耐得住寂寞一天做上百条女裤",
+        "onboard_time": 1735742241,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26296,
+        "num": 26296,
+        "word": "赵本山还是太超前了",
+        "onboard_time": 1735743262,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25074,
+        "num": 25074,
+        "word": "WTT退赛罚款是否算霸王条款",
+        "onboard_time": 1735750336,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9246,
+        "num": 25034,
+        "word": "CBA新年大战",
+        "onboard_time": 1735759032,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25016,
+        "num": 25016,
+        "word": "时代峰峻",
+        "onboard_time": 1735737801,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24165,
+        "num": 24165,
+        "word": "纽约男子在地铁进站瞬间被推下站台",
+        "onboard_time": 1735740802,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 23678,
+        "num": 24164,
+        "word": "康柏",
+        "onboard_time": 1735746740,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23011,
+        "num": 24164,
+        "word": "钱还会再回来看不见汪苏泷逗我们开心了",
+        "onboard_time": 1735749797,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22998,
+        "num": 24163,
+        "word": "美车辆冲撞行人事件目击者发声",
+        "onboard_time": 1735748898,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 22817,
+        "num": 24162,
+        "word": "大奉打更人改编",
+        "onboard_time": 1735757472,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21726,
+        "num": 24161,
+        "word": "檀健次告别猎罪图鉴2",
+        "onboard_time": 1735749199,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21442,
+        "num": 24159,
+        "word": "美国汽车撞人事件已致10死30伤",
+        "onboard_time": 1735741581,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 21434,
+        "num": 24159,
+        "word": "东部战区MV出现银杏叶",
+        "onboard_time": 1735741824,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20267,
+        "num": 24157,
+        "word": "云南劫杀案申冤者申诉6年被判无罪",
+        "onboard_time": 1735756571,
+        "rank": 34,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 19061,
+        "num": 24157,
+        "word": "2025年是本世纪唯一一个完美平方年",
+        "onboard_time": 1735742121,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19027,
+        "num": 24156,
+        "word": "何炅 我现在有点惊弓之鸟了",
+        "onboard_time": 1735723699,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18388,
+        "num": 24155,
+        "word": "余宇涵童禹坤认输舞台",
+        "onboard_time": 1735747939,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18379,
+        "num": 24153,
+        "word": "林诗栋说印象最深刻是输给樊振东王楚钦",
+        "onboard_time": 1735750277,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18297,
+        "num": 24153,
+        "word": "孙颖莎告别乒超总决赛",
+        "onboard_time": 1735733902,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17357,
+        "num": 24151,
+        "word": "诺言告别eStar",
+        "onboard_time": 1735747281,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16951,
+        "num": 24150,
+        "word": "汪苏泷大娱乐家新年限定演唱会",
+        "onboard_time": 1735752314,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16927,
+        "num": 24150,
+        "word": "王曼昱回应决胜场争议判罚",
+        "onboard_time": 1735729522,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16720,
+        "num": 24149,
+        "word": "猎罪图鉴",
+        "onboard_time": 1735737021,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16624,
+        "num": 24147,
+        "word": "甜妹版迪丽热巴",
+        "onboard_time": 1735726521,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16575,
+        "num": 24147,
+        "word": "NAME晒虞书欣吴宣仪新年合照",
+        "onboard_time": 1735737562,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15284,
+        "num": 24145,
+        "word": "王楚钦连续两天状态拉满",
+        "onboard_time": 1735757051,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15060,
+        "num": 24145,
+        "word": "周深演唱祝福心同此愿",
+        "onboard_time": 1735743741,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14972,
+        "num": 24143,
+        "word": "那年今日",
+        "onboard_time": 1735755132,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14285,
+        "num": 24143,
+        "word": "大奉说错一句都是修罗场",
+        "onboard_time": 1735748059,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025新年贺词#"
+    }
+  }
+}
