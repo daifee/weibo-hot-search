@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735744998134,
+  "endTime": 1735745833213,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -363,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 914585,
+      "num": 914585,
+      "word": "白敬亭宋轶同款比心",
+      "onboard_time": 1735741642,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 879247,
       "num": 879247,
       "word": "鞠婧祎 行走的CD",
@@ -457,14 +465,6 @@
       "onboard_time": 1735657707,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 773739,
-      "num": 773739,
-      "word": "白敬亭宋轶同款比心",
-      "onboard_time": 1735741642,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 765910,
@@ -604,7 +604,7 @@
     },
     {
       "raw_hot": 605044,
-      "num": 394030,
+      "num": 495592,
       "word": "Angelababy沙漠神女",
       "onboard_time": 1735742121,
       "rank": 11,
@@ -644,7 +644,7 @@
     },
     {
       "raw_hot": 554168,
-      "num": 402993,
+      "num": 498727,
       "word": "杨幂 梗当然要当本人面玩",
       "onboard_time": 1735742603,
       "rank": 7,
@@ -697,6 +697,14 @@
       "onboard_time": 1735702221,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 500919,
+      "num": 500919,
+      "word": "阳光型抑郁症到底是什么",
+      "onboard_time": 1735743981,
+      "rank": 11,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 499122,
@@ -899,14 +907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 393270,
-      "num": 393270,
-      "word": "阳光型抑郁症到底是什么",
-      "onboard_time": 1735743981,
-      "rank": 11,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 390749,
       "num": 390749,
       "word": "苏醒被绑架到C位",
@@ -1083,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 339456,
+      "num": 339456,
+      "word": "张峻豪前缀",
+      "onboard_time": 1735743561,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 336498,
       "num": 336498,
       "word": "程潇 老娘要摆ending",
@@ -1187,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 310025,
+      "num": 310025,
+      "word": "银河酷娱前老板回应",
+      "onboard_time": 1735745241,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 308995,
       "num": 308995,
       "word": "雷军辟谣只招聘35岁以下员工",
@@ -1283,6 +1299,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 281177,
+      "num": 263546,
+      "word": "气血不足的人试试这3个动作",
+      "onboard_time": 1735740443,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 280633,
       "num": 280633,
       "word": "虞书欣2025第一个变装视频",
@@ -1321,22 +1345,6 @@
       "onboard_time": 1735660527,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 272703,
-      "num": 272703,
-      "word": "张峻豪前缀",
-      "onboard_time": 1735743561,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 271849,
-      "num": 263546,
-      "word": "气血不足的人试试这3个动作",
-      "onboard_time": 1735740443,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 271199,
@@ -1475,6 +1483,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 246596,
+      "num": 246596,
+      "word": "2025年是本世纪唯一一个完美平方年",
+      "onboard_time": 1735742121,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 245315,
       "num": 282069,
       "word": "aespa对宁艺卓的中文呼唤",
@@ -1537,14 +1553,6 @@
       "onboard_time": 1735698081,
       "rank": 25,
       "category": "军事"
-    },
-    {
-      "raw_hot": 229526,
-      "num": 229526,
-      "word": "2025年是本世纪唯一一个完美平方年",
-      "onboard_time": 1735742121,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 226105,
@@ -1811,6 +1819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199217,
+      "num": 199217,
+      "word": "王楚钦预判了林诗栋的预判",
+      "onboard_time": 1735744522,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198629,
       "num": 198629,
       "word": "新年音乐会 特权码",
@@ -1915,6 +1931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193180,
+      "num": 496403,
+      "word": "美警方回应汽车撞人事件",
+      "onboard_time": 1735744642,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 191865,
       "num": 191865,
       "word": "元旦宝宝来报到了",
@@ -2001,6 +2025,14 @@
       "onboard_time": 1735700240,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185754,
+      "num": 185754,
+      "word": "拖米",
+      "onboard_time": 1735745181,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 185671,
@@ -2171,14 +2203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 172662,
-      "num": 172662,
-      "word": "王楚钦预判了林诗栋的预判",
-      "onboard_time": 1735744522,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 172517,
       "num": 172517,
       "word": "陈飞宇 没有技巧就是硬帅",
@@ -2273,14 +2297,6 @@
       "onboard_time": 1735730483,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 167067,
-      "num": 398452,
-      "word": "美警方回应汽车撞人事件",
-      "onboard_time": 1735744642,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 166934,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1735736302,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 160996,
-      "num": 160996,
-      "word": "王皓新年祝福",
-      "onboard_time": 1735704920,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 158770,
-      "num": 158770,
-      "word": "美国冲撞人群司机下车向人群开枪",
-      "onboard_time": 1735742723,
-      "rank": 40,
-      "category": "海外新闻"
     }
   ],
   "hotgov_list": [
