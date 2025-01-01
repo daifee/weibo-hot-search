@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735745833213,
+  "endTime": 1735748807244,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -433,6 +433,14 @@
       "onboard_time": 1735643841,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1857996,
+      "num": 321953,
+      "word": "徐以若 赵露思",
+      "onboard_time": 1735747999,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1844918,
@@ -1995,6 +2003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 637501,
+      "num": 637501,
+      "word": "张峻豪改名",
+      "onboard_time": 1735746080,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 636825,
       "num": 636825,
       "word": "女演员姜尘自曝曾被男明星家暴",
@@ -2089,6 +2105,22 @@
       "onboard_time": 1735710079,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 600749,
+      "num": 600749,
+      "word": "丁克的李健抱着他绝育的猫",
+      "onboard_time": 1735745661,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 597582,
+      "num": 329661,
+      "word": "李炜回应",
+      "onboard_time": 1735745121,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 595978,
@@ -4259,6 +4291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 316033,
+      "num": 316033,
+      "word": "拖米",
+      "onboard_time": 1735745181,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 315990,
       "num": 262370,
       "word": "杨紫演技就没让人失望过",
@@ -4976,6 +5016,14 @@
       "word": "樊振东 红米",
       "onboard_time": 1735523418,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 266885,
+      "num": 266885,
+      "word": "王楚钦说林诗栋是国乒绝对主力",
+      "onboard_time": 1735747101,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -7731,14 +7779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 185754,
-      "num": 185754,
-      "word": "拖米",
-      "onboard_time": 1735745181,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 185671,
       "num": 281604,
       "word": "马龙杨幂同框",
@@ -8209,6 +8249,14 @@
       "onboard_time": 1735536379,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174932,
+      "num": 174932,
+      "word": "余宇涵童禹坤认输舞台",
+      "onboard_time": 1735747939,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 174860,
@@ -8827,6 +8875,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 164280,
+      "num": 164280,
+      "word": "丈夫称烧伤妈妈皮肤不可能回到以前",
+      "onboard_time": 1735747879,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164268,
       "num": 164268,
       "word": "阴阳师夏目友人帐联动",
@@ -9369,6 +9425,14 @@
       "onboard_time": 1735619782,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153889,
+      "num": 153889,
+      "word": "黄龄刘忻声音里带水印",
+      "onboard_time": 1735744101,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 153848,
@@ -10259,16 +10323,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 137279,
-      "num": 137279,
-      "word": "丁克的李健抱着他绝育的猫",
-      "onboard_time": 1735745661,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 137145,
-      "num": 137145,
+      "num": 158270,
       "word": "邱贻可晒和孙颖莎合照",
       "onboard_time": 1735745540,
       "rank": 44,
@@ -11051,6 +11107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120140,
+      "num": 120140,
+      "word": "大奉说错一句都是修罗场",
+      "onboard_time": 1735748059,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119942,
       "num": 119942,
       "word": "周深又双叒叕在大湾区唱歌了",
@@ -11363,6 +11427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111570,
+      "num": 111570,
+      "word": "康柏",
+      "onboard_time": 1735746740,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 111350,
       "num": 495990,
       "word": "2024年只剩2天",
@@ -11473,14 +11545,6 @@
       "onboard_time": 1735486760,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 108931,
-      "num": 245421,
-      "word": "李炜回应",
-      "onboard_time": 1735745121,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 108892,
@@ -12099,6 +12163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87260,
+      "num": 87260,
+      "word": "王楚钦林诗栋水平非常接近",
+      "onboard_time": 1735747101,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87109,
       "num": 87109,
       "word": "曼联0比2纽卡斯尔联",
@@ -12153,6 +12225,14 @@
       "onboard_time": 1735650567,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84135,
+      "num": 93638,
+      "word": "诺言告别eStar",
+      "onboard_time": 1735747281,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 83932,
@@ -12337,6 +12417,14 @@
       "onboard_time": 1735396521,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75588,
+      "num": 324214,
+      "word": "目击者称美冲撞行人司机下车后扫射人群",
+      "onboard_time": 1735747340,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 75131,

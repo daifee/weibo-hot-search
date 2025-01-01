@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735745833213,
+  "endTime": 1735748807244,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -97,6 +97,14 @@
       "onboard_time": 1735667060,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1857996,
+      "num": 321953,
+      "word": "徐以若 赵露思",
+      "onboard_time": 1735747999,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1793831,
@@ -579,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 637501,
+      "num": 637501,
+      "word": "张峻豪改名",
+      "onboard_time": 1735746080,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 626801,
       "num": 626801,
       "word": "华晨宇晨光",
@@ -617,6 +633,22 @@
       "onboard_time": 1735710079,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 600749,
+      "num": 600749,
+      "word": "丁克的李健抱着他绝育的猫",
+      "onboard_time": 1735745661,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 597582,
+      "num": 329661,
+      "word": "李炜回应",
+      "onboard_time": 1735745121,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 592770,
@@ -1187,6 +1219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 316033,
+      "num": 316033,
+      "word": "拖米",
+      "onboard_time": 1735745181,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 312365,
       "num": 312365,
       "word": "NINEPERCENT真快给吴宣仪集齐了",
@@ -1368,6 +1408,14 @@
       "word": "邱贻可 相信2025更好",
       "onboard_time": 1735738642,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 266885,
+      "num": 266885,
+      "word": "王楚钦说林诗栋是国乒绝对主力",
+      "onboard_time": 1735747101,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -2027,14 +2075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185754,
-      "num": 185754,
-      "word": "拖米",
-      "onboard_time": 1735745181,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 185671,
       "num": 281604,
       "word": "马龙杨幂同框",
@@ -2153,6 +2193,14 @@
       "onboard_time": 1735668858,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174932,
+      "num": 174932,
+      "word": "余宇涵童禹坤认输舞台",
+      "onboard_time": 1735747939,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 174665,
@@ -2353,54 +2401,6 @@
       "onboard_time": 1735691599,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 164717,
-      "num": 164717,
-      "word": "KPL",
-      "onboard_time": 1735704380,
-      "rank": 37,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 164465,
-      "num": 153407,
-      "word": "被高铁上的生菜牛肉拌饭馋疯了",
-      "onboard_time": 1735720519,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 164022,
-      "num": 164022,
-      "word": "林忆莲状态",
-      "onboard_time": 1735700181,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 163339,
-      "num": 252782,
-      "word": "果然数学的尽头是英语",
-      "onboard_time": 1735695200,
-      "rank": 23,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 161243,
-      "num": 161243,
-      "word": "归棹",
-      "onboard_time": 1735699340,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 161009,
-      "num": 161009,
-      "word": "汪苏泷小段",
-      "onboard_time": 1735736302,
-      "rank": 43,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
