@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735703185193,
+  "endTime": 1735705621039,
   "band_list": [
     {
       "raw_hot": 10681189,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 3905242,
-      "num": 374456,
+      "num": 404033,
       "word": "赵露思最新康复状态",
       "onboard_time": 1735689496,
       "rank": 10,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2578366,
-      "num": 318307,
+      "num": 387693,
       "word": "赵露思走不动想去捶打腿",
       "onboard_time": 1735693338,
       "rank": 15,
@@ -128,6 +128,14 @@
       "word": "李昀锐有点紧张",
       "onboard_time": 1735657828,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1279595,
+      "num": 498781,
+      "word": "王鹤棣你是真饿了",
+      "onboard_time": 1735701559,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 832820,
-      "num": 318723,
+      "num": 393444,
       "word": "电视剧轧戏",
       "onboard_time": 1735698200,
       "rank": 13,
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 686504,
-      "num": 318478,
+      "num": 402453,
       "word": "常州一党委书记发不雅内容被免职",
       "onboard_time": 1735696999,
       "rank": 34,
@@ -363,8 +371,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 565726,
+      "num": 1090516,
+      "word": "陈哲远发了5万红包",
+      "onboard_time": 1735701379,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 514994,
-      "num": 306955,
+      "num": 310601,
       "word": "大学生跨年夜卖出5个气球都没回本",
       "onboard_time": 1735699221,
       "rank": 21,
@@ -387,11 +403,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 498781,
-      "num": 498781,
-      "word": "王鹤棣你是真饿了",
-      "onboard_time": 1735701559,
-      "rank": 7,
+      "raw_hot": 490992,
+      "num": 399055,
+      "word": "虞书欣丁禹兮林一把日子过好",
+      "onboard_time": 1735702221,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -419,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 438242,
+      "num": 438242,
+      "word": "孙颖莎vs王曼昱",
+      "onboard_time": 1735703422,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 434386,
       "num": 434386,
       "word": "苏有朋黄晓明 还珠格格",
@@ -441,6 +465,14 @@
       "onboard_time": 1735691659,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 417350,
+      "num": 417350,
+      "word": "国色芳华大剧排面",
+      "onboard_time": 1735702340,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 417278,
@@ -515,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 362938,
+      "num": 362938,
+      "word": "德国人凌晨4点排长队抢购中国烟花",
+      "onboard_time": 1735702399,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 362317,
       "num": 362317,
       "word": "1月1日天安门广场升旗仪式",
@@ -523,12 +563,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 347342,
+      "num": 407175,
+      "word": "东部战区发布重磅MV献礼新年",
+      "onboard_time": 1735702880,
+      "rank": 13,
+      "category": "军事"
+    },
+    {
       "raw_hot": 342790,
       "num": 342790,
       "word": "樊振东分享霉霉的Mean",
       "onboard_time": 1735691239,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 341630,
+      "num": 341630,
+      "word": "网购车厘子一整盒仅6颗大小达标",
+      "onboard_time": 1735703540,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 340821,
@@ -571,14 +627,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 327621,
-      "num": 318223,
-      "word": "虞书欣丁禹兮林一把日子过好",
-      "onboard_time": 1735702221,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 323263,
       "num": 240191,
       "word": "王鹤棣转场太可以了",
@@ -595,20 +643,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 307156,
+      "num": 307156,
+      "word": "半亩花田 孙颖莎",
+      "onboard_time": 1735704621,
+      "rank": 22,
+      "category": "美妆,体育"
+    },
+    {
       "raw_hot": 305974,
       "num": 305974,
       "word": "李宇春 接春天",
       "onboard_time": 1735660226,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 304989,
-      "num": 295036,
-      "word": "陈哲远发了5万红包",
-      "onboard_time": 1735701379,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 304298,
@@ -803,6 +851,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 211020,
+      "num": 211020,
+      "word": "鱿鱼游戏2收视率爆了",
+      "onboard_time": 1735704321,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209388,
       "num": 209388,
       "word": "马龙太帅了",
@@ -827,14 +883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208238,
-      "num": 208238,
-      "word": "国色芳华大剧排面",
-      "onboard_time": 1735702340,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 207478,
       "num": 238909,
       "word": "慕胥辞提灯赴新岁海报",
@@ -849,6 +897,14 @@
       "onboard_time": 1735665321,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205652,
+      "num": 319379,
+      "word": "一觉醒来中国空间站科幻化了",
+      "onboard_time": 1735701861,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 205175,
@@ -891,14 +947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197166,
-      "num": 197166,
-      "word": "德国人凌晨4点排长队抢购中国烟花",
-      "onboard_time": 1735702399,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 193734,
       "num": 843700,
       "word": "2025新年签",
@@ -913,6 +961,14 @@
       "onboard_time": 1735695980,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191078,
+      "num": 212131,
+      "word": "白色橄榄树交响乐OST",
+      "onboard_time": 1735704621,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 185897,
@@ -947,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177171,
+      "num": 177171,
+      "word": "小李子出演鱿鱼游戏3",
+      "onboard_time": 1735704439,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176162,
       "num": 196324,
       "word": "邓亚萍称小胖今天状态并不太好",
@@ -963,20 +1027,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175539,
+      "num": 175539,
+      "word": "魏笑 嫡长闺",
+      "onboard_time": 1735705039,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175447,
       "num": 175447,
       "word": "国色芳华",
       "onboard_time": 1735668858,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 173668,
-      "num": 319379,
-      "word": "一觉醒来中国空间站科幻化了",
-      "onboard_time": 1735701861,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 172942,
@@ -1019,20 +1083,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 165244,
-      "num": 288719,
-      "word": "东部战区发布重磅MV献礼新年",
-      "onboard_time": 1735702880,
-      "rank": 13,
-      "category": "军事"
-    },
-    {
       "raw_hot": 164833,
       "num": 164833,
       "word": "元旦",
       "onboard_time": 1735691599,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164717,
+      "num": 164717,
+      "word": "KPL",
+      "onboard_time": 1735704380,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 164022,
@@ -1057,6 +1121,14 @@
       "onboard_time": 1735699340,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160721,
+      "num": 160721,
+      "word": "刘亦菲连体皮衣",
+      "onboard_time": 1735705221,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 158533,
@@ -1187,6 +1259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135783,
+      "num": 135783,
+      "word": "王皓新年祝福",
+      "onboard_time": 1735704920,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133699,
       "num": 133699,
       "word": "王俊凯 蝴蝶王子",
@@ -1211,8 +1291,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131776,
+      "num": 131776,
+      "word": "NINEPERCENT真快给吴宣仪集齐了",
+      "onboard_time": 1735705520,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131229,
-      "num": 280404,
+      "num": 390652,
       "word": "新年第1个拥抱",
       "onboard_time": 1735694120,
       "rank": 19,
@@ -1251,6 +1339,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 116442,
+      "num": 116442,
+      "word": "2025第一天专属壁纸",
+      "onboard_time": 1735702699,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110673,
       "num": 2770880,
       "word": "总书记的这些话暖心鼓劲",
@@ -1281,6 +1377,14 @@
       "onboard_time": 1735662807,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100272,
+      "num": 278241,
+      "word": "孙颖莎送祝福笑得好开心",
+      "onboard_time": 1735703661,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 99217,
@@ -1481,6 +1585,14 @@
       "onboard_time": 1735669936,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 29378,
+      "num": 175482,
+      "word": "接住新年第一道好运极光",
+      "onboard_time": 1735704800,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27855,
