@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735713126113,
+  "endTime": 1735713895459,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -683,6 +683,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1454388,
+      "num": 1454388,
+      "word": "跨年最佳节目",
+      "onboard_time": 1735709360,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1446197,
       "num": 1196330,
       "word": "张加帅",
@@ -697,14 +705,6 @@
       "onboard_time": 1735613479,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1400663,
-      "num": 1400663,
-      "word": "跨年最佳节目",
-      "onboard_time": 1735709360,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 1393904,
@@ -1076,7 +1076,7 @@
     },
     {
       "raw_hot": 998543,
-      "num": 275244,
+      "num": 328493,
       "word": "消防通报万达广场门口氢气球爆燃",
       "onboard_time": 1735709120,
       "rank": 34,
@@ -1273,6 +1273,14 @@
       "onboard_time": 1735538841,
       "rank": 15,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 871910,
+      "num": 733955,
+      "word": "摇粒绒就是穷人的貂",
+      "onboard_time": 1735712120,
+      "rank": 6,
+      "category": "幽默"
     },
     {
       "raw_hot": 869666,
@@ -1627,6 +1635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 687973,
+      "num": 687973,
+      "word": "鹿晗的阿贝贝",
+      "onboard_time": 1735709898,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 687349,
       "num": 687349,
       "word": "小小的我票房",
@@ -1656,6 +1672,14 @@
       "word": "黄子韬说低估了大家的能力",
       "onboard_time": 1735415412,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 682781,
+      "num": 323904,
+      "word": "张颂文 姜尘",
+      "onboard_time": 1735712780,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -1817,14 +1841,6 @@
       "onboard_time": 1735515016,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 637102,
-      "num": 637102,
-      "word": "鹿晗的阿贝贝",
-      "onboard_time": 1735709898,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 636825,
@@ -2851,6 +2867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 423808,
+      "num": 423808,
+      "word": "覃予萱vs王曼昱",
+      "onboard_time": 1735712359,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 423618,
       "num": 447336,
       "word": "韩国起火客机疑似撞鸟",
@@ -3075,14 +3099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 395930,
-      "num": 395930,
-      "word": "摇粒绒就是穷人的貂",
-      "onboard_time": 1735712120,
-      "rank": 6,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 394603,
       "num": 394603,
       "word": "王力宏 复出",
@@ -3281,6 +3297,14 @@
       "onboard_time": 1735529481,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 371579,
+      "num": 371579,
+      "word": "江苏一中学招13名教师10名清北0师范",
+      "onboard_time": 1735710499,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 371483,
@@ -3729,14 +3753,6 @@
       "onboard_time": 1735650088,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 323837,
-      "num": 323837,
-      "word": "江苏一中学招13名教师10名清北0师范",
-      "onboard_time": 1735710499,
-      "rank": 7,
-      "category": "教育"
     },
     {
       "raw_hot": 323299,
@@ -5291,14 +5307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 222216,
-      "num": 222216,
-      "word": "张颂文 姜尘",
-      "onboard_time": 1735712780,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 222054,
       "num": 264690,
       "word": "吴敬平发樊振东奥运照",
@@ -5723,6 +5731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207160,
+      "num": 213067,
+      "word": "将于今年退伍的男爱豆们",
+      "onboard_time": 1735712419,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207105,
       "num": 207105,
       "word": "白鹿敖瑞鹏合拍法海你不懂爱",
@@ -6115,6 +6131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 198629,
+      "num": 198629,
+      "word": "新年音乐会 特权码",
+      "onboard_time": 1735713138,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 198576,
       "num": 198576,
       "word": "张艺兴红色寸头",
@@ -6291,6 +6315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194875,
+      "num": 301771,
+      "word": "香港用水门礼迎接国产大飞机C919",
+      "onboard_time": 1735710499,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 194873,
       "num": 194873,
       "word": "樊振东称不会退役",
@@ -6356,7 +6388,7 @@
     },
     {
       "raw_hot": 193531,
-      "num": 157422,
+      "num": 182480,
       "word": "雷军谈极越事件",
       "onboard_time": 1735712120,
       "rank": 32,
@@ -7899,14 +7931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 161296,
-      "num": 301771,
-      "word": "香港用水门礼迎接国产大飞机C919",
-      "onboard_time": 1735710499,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 161094,
       "num": 168368,
       "word": "最强县级市市委书记调整",
@@ -8515,6 +8539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147264,
+      "num": 147264,
+      "word": "贾玲 影史第一位年冠女导演",
+      "onboard_time": 1735713558,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 147215,
       "num": 328275,
       "word": "2025爱你爱我",
@@ -8795,12 +8827,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141974,
-      "num": 213067,
-      "word": "将于今年退伍的男爱豆们",
-      "onboard_time": 1735712419,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 142096,
+      "num": 142096,
+      "word": "元旦让打工人实现了上四休三",
+      "onboard_time": 1735713138,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141965,
@@ -8963,6 +8995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138339,
+      "num": 163259,
+      "word": "过境乌的俄天然气申请流量为零",
+      "onboard_time": 1735713138,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 138125,
       "num": 138125,
       "word": "英国专家谈韩客机失事真凶",
@@ -9089,6 +9129,14 @@
       "onboard_time": 1735433537,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 135251,
+      "num": 135251,
+      "word": "中国海警首次在黄岩岛起飞舰载机",
+      "onboard_time": 1735713620,
+      "rank": 40,
+      "category": "军事"
     },
     {
       "raw_hot": 135107,
@@ -9499,6 +9547,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 122035,
+      "num": 122035,
+      "word": "王宝强刘昊然电影唐探1900造型",
+      "onboard_time": 1735713198,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 121764,
       "num": 121764,
       "word": "易烊千玺演技",
@@ -9593,6 +9649,14 @@
       "onboard_time": 1735563320,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119005,
+      "num": 157914,
+      "word": "大奉我同事竟然是顶流明星",
+      "onboard_time": 1735711039,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 118709,
@@ -9707,6 +9771,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 115856,
+      "num": 115856,
+      "word": "名侦探的假期",
+      "onboard_time": 1735713800,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115755,
       "num": 177826,
       "word": "2025全球总决赛",
@@ -9737,14 +9809,6 @@
       "onboard_time": 1735442780,
       "rank": 2,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 113258,
-      "num": 157914,
-      "word": "大奉我同事竟然是顶流明星",
-      "onboard_time": 1735711039,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 111930,
@@ -9867,6 +9931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108587,
+      "num": 108587,
+      "word": "乒超解说",
+      "onboard_time": 1735713858,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107990,
       "num": 107990,
       "word": "韩客机遇难者家属哭诉只希望他们活着",
@@ -9945,14 +10017,6 @@
       "onboard_time": 1735389980,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 104311,
-      "num": 218538,
-      "word": "覃予萱vs王曼昱",
-      "onboard_time": 1735712359,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 104175,
@@ -10169,6 +10233,14 @@
       "onboard_time": 1735638740,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97416,
+      "num": 163195,
+      "word": "张杰爱自己爱家人爱音乐爱你们",
+      "onboard_time": 1735713138,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 97022,
@@ -12043,6 +12115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31172,
+      "num": 136118,
+      "word": "捷豹发布两款限时劲豹价",
+      "onboard_time": 1735713138,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 30719,
       "num": 39301,
       "word": "阿富汗巴基斯坦边境口岸爆发激烈冲突",
@@ -12193,6 +12273,14 @@
       "onboard_time": 1735548799,
       "rank": 22,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 28093,
+      "num": 146772,
+      "word": "邱天的新年第一天",
+      "onboard_time": 1735713320,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 28060,
@@ -13457,6 +13545,14 @@
       "onboard_time": 1735558279,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7954,
+      "num": 135674,
+      "word": "罗振宇MateX6强得飞起",
+      "onboard_time": 1735713439,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 7916,
