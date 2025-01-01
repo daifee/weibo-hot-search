@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735728001336,
+  "endTime": 1735730291744,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -65,6 +65,14 @@
       "onboard_time": 1735653450,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2332361,
+      "num": 2332361,
+      "word": "银河酷娱致歉",
+      "onboard_time": 1735728622,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 2077247,
@@ -467,6 +475,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 674075,
+      "num": 548096,
+      "word": "甜妹版迪丽热巴",
+      "onboard_time": 1735726521,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 674003,
       "num": 674003,
       "word": "天安门放飞10000多只和平鸽",
@@ -537,14 +553,6 @@
       "onboard_time": 1735721479,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 548096,
-      "num": 548096,
-      "word": "甜妹版迪丽热巴",
-      "onboard_time": 1735726521,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 524104,
@@ -915,6 +923,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 327192,
+      "num": 327192,
+      "word": "成都Wolves对战MRC",
+      "onboard_time": 1735724360,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 324813,
       "num": 324813,
       "word": "骗骗喜欢你 烂人错过",
@@ -929,6 +945,14 @@
       "onboard_time": 1735659146,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 319437,
+      "num": 168590,
+      "word": "唯一一个上班让老板亏钱的人",
+      "onboard_time": 1735728681,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 312365,
@@ -1179,6 +1203,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 226255,
+      "num": 226255,
+      "word": "银河酷娱",
+      "onboard_time": 1735729462,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224776,
       "num": 273376,
       "word": "鱿鱼游戏2收视率爆了",
@@ -1200,6 +1232,14 @@
       "word": "吴敬平发樊振东奥运照",
       "onboard_time": 1735700421,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 220514,
+      "num": 220514,
+      "word": "孙颖莎说虽实力略显单薄但发挥很好",
+      "onboard_time": 1735727301,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -1419,6 +1459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192558,
+      "num": 192558,
+      "word": "台下艺人看华晨宇舞台的反应",
+      "onboard_time": 1735729583,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191865,
       "num": 191865,
       "word": "元旦宝宝来报到了",
@@ -1449,6 +1497,14 @@
       "onboard_time": 1735704621,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190590,
+      "num": 190590,
+      "word": "丁禹兮捡彩带",
+      "onboard_time": 1735729041,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 187568,
@@ -1547,14 +1603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 176899,
-      "num": 176899,
-      "word": "成都Wolves对战MRC",
-      "onboard_time": 1735724360,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 176162,
       "num": 196324,
       "word": "邓亚萍称小胖今天状态并不太好",
@@ -1580,7 +1628,7 @@
     },
     {
       "raw_hot": 174665,
-      "num": 158209,
+      "num": 166390,
       "word": "用鸡柳骗回家的小狗一年的变化",
       "onboard_time": 1735723879,
       "rank": 41,
@@ -1601,6 +1649,14 @@
       "onboard_time": 1735724959,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 173257,
+      "num": 173257,
+      "word": "唐九洲一晚上要惹多少祸",
+      "onboard_time": 1735726762,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 172942,
@@ -1705,6 +1761,14 @@
       "onboard_time": 1735695200,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 161319,
+      "num": 161319,
+      "word": "抑郁症",
+      "onboard_time": 1735729883,
+      "rank": 28,
+      "category": "艺人,健康医疗"
     },
     {
       "raw_hot": 161243,
@@ -1827,14 +1891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 151202,
-      "num": 151202,
-      "word": "唐九洲一晚上要惹多少祸",
-      "onboard_time": 1735726762,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 150714,
       "num": 240071,
       "word": "你好我们的2025",
@@ -1923,6 +1979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142546,
+      "num": 142546,
+      "word": "国产剧的新型活爹出现了",
+      "onboard_time": 1735729822,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142096,
       "num": 142096,
       "word": "元旦让打工人实现了上四休三",
@@ -1945,6 +2009,14 @@
       "onboard_time": 1735692259,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140625,
+      "num": 140625,
+      "word": "大奉打更人云合数据登顶",
+      "onboard_time": 1735728143,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 140298,
@@ -2067,6 +2139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132992,
+      "num": 132992,
+      "word": "世界羽联祝福黄雅琼",
+      "onboard_time": 1735730182,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132319,
       "num": 375743,
       "word": "爱奇艺2025开年大戏",
@@ -2081,6 +2161,14 @@
       "onboard_time": 1735695260,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131419,
+      "num": 131419,
+      "word": "王曼昱回应决胜场争议判罚",
+      "onboard_time": 1735729522,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 131229,
@@ -2104,14 +2192,6 @@
       "word": "黄雅琼感谢祖国的悉心栽培",
       "onboard_time": 1735726702,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 129802,
-      "num": 129802,
-      "word": "孙颖莎说虽实力略显单薄但发挥很好",
-      "onboard_time": 1735727301,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -2252,7 +2332,7 @@
     },
     {
       "raw_hot": 118674,
-      "num": 118674,
+      "num": 168331,
       "word": "孙颖莎绕场跑是给大家送祝福",
       "onboard_time": 1735726342,
       "rank": 44,
@@ -2273,6 +2353,14 @@
       "onboard_time": 1735694839,
       "rank": 25,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 117116,
+      "num": 117116,
+      "word": "花海回家了",
+      "onboard_time": 1735729103,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 116586,
@@ -2313,94 +2401,6 @@
       "onboard_time": 1735720699,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 113404,
-      "num": 113404,
-      "word": "骄阳似我剧宣连时间点都还原了",
-      "onboard_time": 1735720580,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 112993,
-      "num": 112993,
-      "word": "沈奕斐 小小的我是每个不服输的人",
-      "onboard_time": 1735726942,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 112222,
-      "num": 182740,
-      "word": "云南劫杀案700公里外的他成嫌疑人",
-      "onboard_time": 1735724119,
-      "rank": 19,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 111578,
-      "num": 111578,
-      "word": "王曼昱2025希望自己健康快乐",
-      "onboard_time": 1735725199,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 111125,
-      "num": 111125,
-      "word": "再就业男团顶峰相见",
-      "onboard_time": 1735727962,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 111068,
-      "num": 111068,
-      "word": "苏新皓新年私信好真诚",
-      "onboard_time": 1735720880,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 110823,
-      "num": 110823,
-      "word": "唐嫣新年首套高定",
-      "onboard_time": 1735715898,
-      "rank": 49,
-      "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 110673,
-      "num": 2770880,
-      "word": "总书记的这些话暖心鼓劲",
-      "onboard_time": 1735661427,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 110543,
-      "num": 110543,
-      "word": "沈月的vlog",
-      "onboard_time": 1735710738,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 110323,
-      "num": 1131319,
-      "word": "我们从来都是在风雨洗礼中成长",
-      "onboard_time": 1735650388,
-      "rank": 8,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 108860,
-      "num": 108860,
-      "word": "孙颖莎说新年呈现了一场精彩的比赛",
-      "onboard_time": 1735727782,
-      "rank": 48,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
