@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735713895459,
+  "endTime": 1735716104076,
   "band_list": [
     {
       "raw_hot": 10681189,
@@ -131,12 +131,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1300740,
+      "num": 1300740,
+      "word": "孙颖莎钱天一擦边球争议",
+      "onboard_time": 1735714041,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1299836,
       "num": 1299836,
       "word": "李昀锐有点紧张",
       "onboard_time": 1735657828,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1289527,
+      "num": 733955,
+      "word": "摇粒绒就是穷人的貂",
+      "onboard_time": 1735712120,
+      "rank": 6,
+      "category": "幽默"
     },
     {
       "raw_hot": 1279595,
@@ -161,6 +177,14 @@
       "onboard_time": 1735642642,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1138458,
+      "num": 369944,
+      "word": "张颂文 姜尘",
+      "onboard_time": 1735712780,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1128280,
@@ -196,7 +220,7 @@
     },
     {
       "raw_hot": 998543,
-      "num": 328493,
+      "num": 336674,
       "word": "消防通报万达广场门口氢气球爆燃",
       "onboard_time": 1735709120,
       "rank": 34,
@@ -275,14 +299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 871910,
-      "num": 733955,
-      "word": "摇粒绒就是穷人的貂",
-      "onboard_time": 1735712120,
-      "rank": 6,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 869666,
       "num": 1139146,
       "word": "孙颖莎vs王曼昱",
@@ -305,6 +321,14 @@
       "onboard_time": 1735698200,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 818078,
+      "num": 818078,
+      "word": "覃予萱vs王曼昱",
+      "onboard_time": 1735712359,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 801403,
@@ -371,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 732720,
+      "num": 732720,
+      "word": "贾玲 影史第一位年冠女导演",
+      "onboard_time": 1735713558,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 687973,
       "num": 687973,
       "word": "鹿晗的阿贝贝",
@@ -385,14 +417,6 @@
       "onboard_time": 1735696999,
       "rank": 34,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 682781,
-      "num": 323904,
-      "word": "张颂文 姜尘",
-      "onboard_time": 1735712780,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 674003,
@@ -563,14 +587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 423808,
-      "num": 423808,
-      "word": "覃予萱vs王曼昱",
-      "onboard_time": 1735712359,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 421369,
       "num": 346258,
       "word": "中国乒协同意马龙樊振东陈梦退出世排",
@@ -612,7 +628,7 @@
     },
     {
       "raw_hot": 401225,
-      "num": 214662,
+      "num": 260042,
       "word": "樊振东登上国防军事频道",
       "onboard_time": 1735711099,
       "rank": 22,
@@ -651,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 384796,
+      "num": 384796,
+      "word": "江苏一中学招13名教师10名清北0师范",
+      "onboard_time": 1735710499,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 382409,
       "num": 382409,
       "word": "虞书欣丁禹兮林一手牵手蹦蹦跳跳",
@@ -660,7 +684,7 @@
     },
     {
       "raw_hot": 379175,
-      "num": 379175,
+      "num": 383923,
       "word": "2025是一个什么年",
       "onboard_time": 1735689617,
       "rank": 9,
@@ -675,20 +699,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 371579,
-      "num": 371579,
-      "word": "江苏一中学招13名教师10名清北0师范",
-      "onboard_time": 1735710499,
-      "rank": 7,
-      "category": "教育"
-    },
-    {
       "raw_hot": 371483,
       "num": 640595,
       "word": "王楚钦回应战胜樊振东",
       "onboard_time": 1735658126,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 367452,
+      "num": 367452,
+      "word": "将于今年退伍的男爱豆们",
+      "onboard_time": 1735712419,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 362317,
@@ -819,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 288092,
+      "num": 288092,
+      "word": "乒超解说",
+      "onboard_time": 1735713858,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 277666,
       "num": 202737,
       "word": "跨年晚会",
@@ -897,6 +929,14 @@
       "onboard_time": 1735665561,
       "rank": 38,
       "category": "体育,综艺"
+    },
+    {
+      "raw_hot": 248482,
+      "num": 248482,
+      "word": "过境乌的俄天然气申请流量为零",
+      "onboard_time": 1735713138,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 246844,
@@ -995,6 +1035,14 @@
       "category": "游戏,综艺"
     },
     {
+      "raw_hot": 215198,
+      "num": 215198,
+      "word": "西飞",
+      "onboard_time": 1735714339,
+      "rank": 24,
+      "category": "军事"
+    },
+    {
       "raw_hot": 215194,
       "num": 215194,
       "word": "国色芳华定档",
@@ -1020,7 +1068,7 @@
     },
     {
       "raw_hot": 209209,
-      "num": 777722,
+      "num": 842116,
       "word": "让人民过上幸福生活是头等大事",
       "onboard_time": 1735657467,
       "rank": 38,
@@ -1041,14 +1089,6 @@
       "onboard_time": 1735701979,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 207160,
-      "num": 213067,
-      "word": "将于今年退伍的男爱豆们",
-      "onboard_time": 1735712419,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 205771,
@@ -1201,6 +1241,14 @@
       "onboard_time": 1735706360,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178425,
+      "num": 380827,
+      "word": "弹性退休办法来了",
+      "onboard_time": 1735715780,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 178067,
@@ -1435,20 +1483,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147802,
+      "num": 207185,
+      "word": "王宝强刘昊然电影唐探1900造型",
+      "onboard_time": 1735713198,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 147680,
       "num": 147680,
       "word": "山东鲁能1比0深圳大学",
       "onboard_time": 1735709779,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 147264,
-      "num": 147264,
-      "word": "贾玲 影史第一位年冠女导演",
-      "onboard_time": 1735713558,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 146911,
@@ -1523,14 +1571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138339,
-      "num": 163259,
-      "word": "过境乌的俄天然气申请流量为零",
-      "onboard_time": 1735713138,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 136044,
       "num": 136044,
       "word": "白月梵星买了不负人间",
@@ -1540,7 +1580,7 @@
     },
     {
       "raw_hot": 135925,
-      "num": 135925,
+      "num": 348225,
       "word": "你好2025",
       "onboard_time": 1735701500,
       "rank": 48,
@@ -1603,12 +1643,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128694,
+      "num": 136988,
+      "word": "追星女的爱是偶像的最大滤镜",
+      "onboard_time": 1735714759,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128335,
       "num": 128335,
       "word": "原神",
       "onboard_time": 1735669037,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 126873,
+      "num": 126873,
+      "word": "张家界文旅跨年夜机场迎客",
+      "onboard_time": 1735715599,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 126424,
+      "num": 126424,
+      "word": "AG对战情久",
+      "onboard_time": 1735715539,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 125286,
@@ -1627,20 +1691,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123910,
+      "num": 123910,
+      "word": "会长是女仆大人 婚后新图",
+      "onboard_time": 1735716021,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 122654,
       "num": 122654,
       "word": "原神焚夜以炎",
       "onboard_time": 1735712000,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 122035,
-      "num": 122035,
-      "word": "王宝强刘昊然电影唐探1900造型",
-      "onboard_time": 1735713198,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 120876,
@@ -1683,6 +1747,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110909,
+      "num": 110909,
+      "word": "国色芳华版拜把子誓言get",
+      "onboard_time": 1735716021,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 110823,
+      "num": 110823,
+      "word": "唐嫣新年首套高定",
+      "onboard_time": 1735715898,
+      "rank": 49,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 110673,
       "num": 2770880,
       "word": "总书记的这些话暖心鼓劲",
@@ -1705,14 +1785,6 @@
       "onboard_time": 1735650388,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 108587,
-      "num": 108587,
-      "word": "乒超解说",
-      "onboard_time": 1735713858,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 106025,
@@ -1867,6 +1939,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 67936,
+      "num": 134943,
+      "word": "2025月历壁纸",
+      "onboard_time": 1735715359,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65839,
       "num": 363046,
       "word": "上海大屏为樊振东新的一年打call",
@@ -2012,7 +2092,7 @@
     },
     {
       "raw_hot": 31172,
-      "num": 136118,
+      "num": 273979,
       "word": "捷豹发布两款限时劲豹价",
       "onboard_time": 1735713138,
       "rank": 37,
@@ -2028,7 +2108,7 @@
     },
     {
       "raw_hot": 28093,
-      "num": 146772,
+      "num": 211911,
       "word": "邱天的新年第一天",
       "onboard_time": 1735713320,
       "rank": 33,
@@ -2235,7 +2315,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 7954,
+      "raw_hot": 8278,
       "num": 135674,
       "word": "罗振宇MateX6强得飞起",
       "onboard_time": 1735713439,
