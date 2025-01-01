@@ -1,0 +1,410 @@
+{
+  "runTime": 1735709930013,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 639916,
+        "num": 1102386,
+        "word": "孙颖莎状态",
+        "onboard_time": 1735708399,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 524104,
+        "num": 524104,
+        "word": "杨幂李一桐嘟嘴合照",
+        "onboard_time": 1735707380,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18023,
+        "num": 451158,
+        "word": "总书记的这些话暖心鼓劲",
+        "onboard_time": 1735661427,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 723798,
+        "num": 444475,
+        "word": "半亩花田 孙颖莎",
+        "onboard_time": 1735704621,
+        "rank": 3,
+        "category": "美妆,体育"
+      },
+      {
+        "raw_hot": 427953,
+        "num": 427953,
+        "word": "陈哲远发了5万红包",
+        "onboard_time": 1735701379,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421736,
+        "num": 421736,
+        "word": "沈小婷到期不续约",
+        "onboard_time": 1735706600,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411260,
+        "num": 411260,
+        "word": "高瀚宇加盟鹿晗工作室",
+        "onboard_time": 1735700480,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366618,
+        "num": 366618,
+        "word": "东部战区发布重磅MV献礼新年",
+        "onboard_time": 1735702880,
+        "rank": 7,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 6234,
+        "num": 366582,
+        "word": "我们从来都是在风雨洗礼中成长",
+        "onboard_time": 1735650388,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 43133,
+        "num": 366253,
+        "word": "国旗护卫队升旗后高唱祖国不会忘记",
+        "onboard_time": 1735709360,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 2641128,
+        "num": 366184,
+        "word": "赵露思最新康复状态",
+        "onboard_time": 1735689496,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390030,
+        "num": 365937,
+        "word": "刘亦菲连体皮衣",
+        "onboard_time": 1735705221,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365806,
+        "num": 365806,
+        "word": "虞书欣丁禹兮林一把日子过好",
+        "onboard_time": 1735702221,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351740,
+        "num": 351740,
+        "word": "王一栩你好事做尽",
+        "onboard_time": 1735706240,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348452,
+        "num": 348452,
+        "word": "常州一党委书记发不雅内容被免职",
+        "onboard_time": 1735696999,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 21613,
+        "num": 341750,
+        "word": "2025一起passion",
+        "onboard_time": 1735708039,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1289714,
+        "num": 341116,
+        "word": "赵露思走不动想去捶打腿",
+        "onboard_time": 1735693338,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340298,
+        "num": 340298,
+        "word": "德国人凌晨4点排长队抢购中国烟花",
+        "onboard_time": 1735702399,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 72250,
+        "num": 317959,
+        "word": "骗骗喜欢你这段把人笑喷了",
+        "onboard_time": 1735709239,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 307633,
+        "num": 307633,
+        "word": "孙颖莎3比2王曼昱",
+        "onboard_time": 1735706360,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 788194,
+        "num": 305979,
+        "word": "王鹤棣你是真饿了",
+        "onboard_time": 1735701559,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345444,
+        "num": 296702,
+        "word": "王一博 安全扣没扣好",
+        "onboard_time": 1735659686,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281238,
+        "num": 281238,
+        "word": "网购车厘子一整盒仅6颗大小达标",
+        "onboard_time": 1735703540,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14287,
+        "num": 250781,
+        "word": "奥尔莫注册失败",
+        "onboard_time": 1735709239,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245315,
+        "num": 245315,
+        "word": "aespa对宁艺卓的中文呼唤",
+        "onboard_time": 1735707979,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 241131,
+        "num": 241131,
+        "word": "NINEPERCENT真快给吴宣仪集齐了",
+        "onboard_time": 1735705520,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220664,
+        "num": 220664,
+        "word": "大学生跨年夜卖出5个气球都没回本",
+        "onboard_time": 1735699221,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220563,
+        "num": 220563,
+        "word": "孙颖莎vs王曼昱",
+        "onboard_time": 1735703422,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219003,
+        "num": 219003,
+        "word": "深圳大学vs山东鲁能",
+        "onboard_time": 1735706660,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152265,
+        "num": 213754,
+        "word": "孟佳 初代女团的实力",
+        "onboard_time": 1735706360,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209774,
+        "num": 209774,
+        "word": "跨年最佳节目",
+        "onboard_time": 1735709360,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197079,
+        "num": 197079,
+        "word": "鱿鱼游戏2收视率爆了",
+        "onboard_time": 1735704321,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193641,
+        "num": 193641,
+        "word": "魏笑 嫡长闺",
+        "onboard_time": 1735705039,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186725,
+        "num": 186725,
+        "word": "孙颖莎连胜三局逆转",
+        "onboard_time": 1735709299,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176917,
+        "num": 176917,
+        "word": "消防通报万达广场门口氢气球爆燃",
+        "onboard_time": 1735709120,
+        "rank": 34,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 154494,
+        "num": 154494,
+        "word": "王一博攀冰",
+        "onboard_time": 1735695319,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153927,
+        "num": 153927,
+        "word": "鹿晗的阿贝贝",
+        "onboard_time": 1735709898,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148924,
+        "num": 148924,
+        "word": "棣欣引力",
+        "onboard_time": 1735667060,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147680,
+        "num": 147680,
+        "word": "山东鲁能1比0深圳大学",
+        "onboard_time": 1735709779,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147675,
+        "num": 147675,
+        "word": "贾玲在刘德华演唱会跨年",
+        "onboard_time": 1735696519,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144949,
+        "num": 144949,
+        "word": "小李子出演鱿鱼游戏3",
+        "onboard_time": 1735704439,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144704,
+        "num": 144704,
+        "word": "陈哲远假唱忘记拿麦",
+        "onboard_time": 1735649307,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140689,
+        "num": 140689,
+        "word": "香港全款150万13平米的家",
+        "onboard_time": 1735696999,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140147,
+        "num": 140147,
+        "word": "成毅祝各位江湖小友新年快乐",
+        "onboard_time": 1735709659,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136044,
+        "num": 136044,
+        "word": "白月梵星买了不负人间",
+        "onboard_time": 1735706721,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128977,
+        "num": 128977,
+        "word": "林一 Steve",
+        "onboard_time": 1735707261,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127741,
+        "num": 127741,
+        "word": "电视剧轧戏",
+        "onboard_time": 1735698200,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127009,
+        "num": 127009,
+        "word": "国色芳华大剧排面",
+        "onboard_time": 1735702340,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125521,
+        "num": 125521,
+        "word": "樊振东回应是否将更注重国内赛事",
+        "onboard_time": 1735701260,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125286,
+        "num": 125286,
+        "word": "网剧千香开启预约",
+        "onboard_time": 1735709839,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平发表二〇二五年新年贺词#"
+    }
+  }
+}

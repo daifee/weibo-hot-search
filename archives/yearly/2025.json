@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735708912629,
+  "endTime": 1735709930013,
   "band_list": [
     {
       "raw_hot": 10681189,
@@ -371,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 639916,
+      "num": 1102386,
+      "word": "孙颖莎状态",
+      "onboard_time": 1735708399,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 638431,
       "num": 638431,
       "word": "王俊凯薛之谦 好听",
@@ -393,6 +401,14 @@
       "onboard_time": 1735654770,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 524104,
+      "num": 524104,
+      "word": "杨幂李一桐嘟嘴合照",
+      "onboard_time": 1735707380,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 514994,
@@ -539,14 +555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 395338,
-      "num": 395338,
-      "word": "杨幂李一桐嘟嘴合照",
-      "onboard_time": 1735707380,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 394603,
       "num": 394603,
       "word": "王力宏 复出",
@@ -611,20 +619,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 363118,
-      "num": 363118,
-      "word": "孙颖莎状态",
-      "onboard_time": 1735708399,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 362317,
       "num": 362317,
       "word": "1月1日天安门广场升旗仪式",
       "onboard_time": 1735689617,
       "rank": 11,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 351740,
+      "num": 379149,
+      "word": "王一栩你好事做尽",
+      "onboard_time": 1735706240,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 342790,
@@ -755,14 +763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 270070,
-      "num": 379149,
-      "word": "王一栩你好事做尽",
-      "onboard_time": 1735706240,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 265897,
       "num": 265897,
       "word": "DQ Chiikawa",
@@ -833,6 +833,14 @@
       "onboard_time": 1735645882,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 245315,
+      "num": 282069,
+      "word": "aespa对宁艺卓的中文呼唤",
+      "onboard_time": 1735707979,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 244269,
@@ -929,6 +937,14 @@
       "onboard_time": 1735644560,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 209774,
+      "num": 209774,
+      "word": "跨年最佳节目",
+      "onboard_time": 1735709360,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 209388,
@@ -1043,6 +1059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186725,
+      "num": 186725,
+      "word": "孙颖莎连胜三局逆转",
+      "onboard_time": 1735709299,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185897,
       "num": 185897,
       "word": "2025腾讯视频大剧片单",
@@ -1057,14 +1081,6 @@
       "onboard_time": 1735691118,
       "rank": 34,
       "category": "综艺,体育"
-    },
-    {
-      "raw_hot": 183953,
-      "num": 282069,
-      "word": "aespa对宁艺卓的中文呼唤",
-      "onboard_time": 1735707979,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 181206,
@@ -1097,6 +1113,14 @@
       "onboard_time": 1735704439,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176917,
+      "num": 176917,
+      "word": "消防通报万达广场门口氢气球爆燃",
+      "onboard_time": 1735709120,
+      "rank": 34,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 176162,
@@ -1259,6 +1283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153927,
+      "num": 153927,
+      "word": "鹿晗的阿贝贝",
+      "onboard_time": 1735709898,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150714,
       "num": 240071,
       "word": "你好我们的2025",
@@ -1288,6 +1320,14 @@
       "word": "樊振东称希望得到大家的祝福",
       "onboard_time": 1735664243,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 147680,
+      "num": 147680,
+      "word": "山东鲁能1比0深圳大学",
+      "onboard_time": 1735709779,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -1337,6 +1377,22 @@
       "onboard_time": 1735693039,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140147,
+      "num": 140147,
+      "word": "成毅祝各位江湖小友新年快乐",
+      "onboard_time": 1735709659,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 136044,
+      "num": 136044,
+      "word": "白月梵星买了不负人间",
+      "onboard_time": 1735706721,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 135925,
@@ -1403,20 +1459,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 125286,
+      "num": 125286,
+      "word": "网剧千香开启预约",
+      "onboard_time": 1735709839,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124843,
       "num": 276933,
       "word": "2025第一天专属壁纸",
       "onboard_time": 1735702699,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 121784,
-      "num": 121784,
-      "word": "白月梵星买了不负人间",
-      "onboard_time": 1735706721,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 120876,
@@ -1547,6 +1603,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 72250,
+      "num": 317959,
+      "word": "骗骗喜欢你这段把人笑喷了",
+      "onboard_time": 1735709239,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 71830,
       "num": 71830,
       "word": "元旦快乐",
@@ -1659,6 +1723,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 43133,
+      "num": 366253,
+      "word": "国旗护卫队升旗后高唱祖国不会忘记",
+      "onboard_time": 1735709360,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 42530,
       "num": 489315,
       "word": "雷军回应股价回升",
@@ -1748,7 +1820,7 @@
     },
     {
       "raw_hot": 22975,
-      "num": 279928,
+      "num": 341750,
       "word": "2025一起passion",
       "onboard_time": 1735708039,
       "rank": 28,
@@ -1823,6 +1895,14 @@
       "num": 209703,
       "word": "樊振东和全场观众挥手",
       "onboard_time": 1735672514,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 14287,
+      "num": 250781,
+      "word": "奥尔莫注册失败",
+      "onboard_time": 1735709239,
       "rank": 23,
       "category": "体育"
     },
@@ -1926,6 +2006,9 @@
   "hotgov_list": [
     {
       "word": "#2025新年贺词#"
+    },
+    {
+      "word": "#习近平发表二〇二五年新年贺词#"
     }
   ]
 }
