@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735720109926,
+  "endTime": 1735720922606,
   "band_list": [
     {
       "raw_hot": 10681189,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 3905242,
-      "num": 429430,
+      "num": 483256,
       "word": "赵露思最新康复状态",
       "onboard_time": 1735689496,
       "rank": 10,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 3143550,
-      "num": 337578,
+      "num": 368561,
       "word": "赵露思微博解了",
       "onboard_time": 1735718120,
       "rank": 10,
@@ -419,20 +419,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 705602,
+      "num": 705602,
+      "word": "擦边球",
+      "onboard_time": 1735716379,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 687973,
       "num": 687973,
       "word": "鹿晗的阿贝贝",
       "onboard_time": 1735709898,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 686634,
-      "num": 686634,
-      "word": "擦边球",
-      "onboard_time": 1735716379,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 686504,
@@ -571,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 463033,
+      "num": 463033,
+      "word": "孙颖莎 真诚的小女孩",
+      "onboard_time": 1735718779,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 448688,
       "num": 448688,
       "word": "张小斐 人美就算了唱歌还好听",
@@ -641,6 +649,14 @@
       "onboard_time": 1735659505,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 417202,
+      "num": 417202,
+      "word": "易烊千玺面试戏演哭剧组所有人",
+      "onboard_time": 1735719499,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 416416,
@@ -787,14 +803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 340552,
-      "num": 340552,
-      "word": "孙颖莎 真诚的小女孩",
-      "onboard_time": 1735718779,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 336498,
       "num": 336498,
       "word": "程潇 老娘要摆ending",
@@ -907,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 275114,
+      "num": 275114,
+      "word": "钱天一双打MVP",
+      "onboard_time": 1735717699,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 274372,
       "num": 255767,
       "word": "徐克肖战合体送2025新年祝福",
@@ -915,11 +931,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 273980,
-      "num": 273980,
-      "word": "钱天一双打MVP",
-      "onboard_time": 1735717699,
-      "rank": 18,
+      "raw_hot": 267098,
+      "num": 267098,
+      "word": "孙颖莎绕场感谢球迷",
+      "onboard_time": 1735719800,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -953,6 +969,14 @@
       "onboard_time": 1735648587,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 257218,
+      "num": 310552,
+      "word": "家人为被拐儿子补齐21个生日蛋糕",
+      "onboard_time": 1735719740,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 255370,
@@ -1067,14 +1091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 220798,
-      "num": 164941,
-      "word": "孙颖莎绕场感谢球迷",
-      "onboard_time": 1735719800,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 220449,
       "num": 220449,
       "word": "登陆少年 百事",
@@ -1129,14 +1145,6 @@
       "onboard_time": 1735719380,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 210798,
-      "num": 274853,
-      "word": "易烊千玺面试戏演哭剧组所有人",
-      "onboard_time": 1735719499,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 209388,
@@ -1291,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187568,
+      "num": 187568,
+      "word": "TizzyT跨年压轴连唱15首",
+      "onboard_time": 1735719560,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 186725,
       "num": 186725,
       "word": "孙颖莎连胜三局逆转",
@@ -1320,6 +1336,14 @@
       "word": "孙颖莎3比2钱天一",
       "onboard_time": 1735711823,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 183916,
+      "num": 149296,
+      "word": "孙颖莎3比2逆转王曼昱",
+      "onboard_time": 1735720699,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -1379,12 +1403,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175594,
+      "num": 175594,
+      "word": "张若昀说魏晨下海了",
+      "onboard_time": 1735719920,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175447,
       "num": 175447,
       "word": "国色芳华",
       "onboard_time": 1735668858,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175161,
+      "num": 175161,
+      "word": "虞书欣2025第一个变装视频",
+      "onboard_time": 1735720160,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 172942,
@@ -1433,14 +1473,6 @@
       "onboard_time": 1735666820,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 165203,
-      "num": 165203,
-      "word": "TizzyT跨年压轴连唱15首",
-      "onboard_time": 1735719560,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 164933,
@@ -1571,20 +1603,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152524,
+      "num": 152524,
+      "word": "2024全年电影票房425.02亿元",
+      "onboard_time": 1735717699,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 150714,
       "num": 240071,
       "word": "你好我们的2025",
       "onboard_time": 1735661005,
       "rank": 45,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 149293,
-      "num": 149293,
-      "word": "2024全年电影票房425.02亿元",
-      "onboard_time": 1735717699,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 149089,
@@ -1635,8 +1667,8 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 145283,
-      "num": 145283,
+      "raw_hot": 146099,
+      "num": 146099,
       "word": "黄景瑜孙千吻戏吻到忘词",
       "onboard_time": 1735718598,
       "rank": 36,
@@ -1803,20 +1835,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 127897,
+      "num": 127897,
+      "word": "山东鲁能九夺乒超女团冠军",
+      "onboard_time": 1735717880,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 127268,
+      "num": 203775,
+      "word": "深圳大学女团亚军",
+      "onboard_time": 1735718839,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126873,
       "num": 126873,
       "word": "张家界文旅跨年夜机场迎客",
       "onboard_time": 1735715599,
       "rank": 43,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 126624,
-      "num": 126624,
-      "word": "山东鲁能九夺乒超女团冠军",
-      "onboard_time": 1735717880,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 126424,
@@ -1851,6 +1891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123648,
+      "num": 123648,
+      "word": "张婧仪周翊然水族馆六连拍",
+      "onboard_time": 1735720340,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122654,
       "num": 122654,
       "word": "原神焚夜以炎",
@@ -1876,7 +1924,7 @@
     },
     {
       "raw_hot": 120136,
-      "num": 120136,
+      "num": 175175,
       "word": "陈幸同单打MVP",
       "onboard_time": 1735719859,
       "rank": 44,
@@ -1915,14 +1963,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 117676,
-      "num": 203775,
-      "word": "深圳大学女团亚军",
-      "onboard_time": 1735718839,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 116506,
       "num": 384172,
       "word": "用温暖告别2024",
@@ -1939,12 +1979,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111869,
-      "num": 111869,
-      "word": "张若昀说魏晨下海了",
-      "onboard_time": 1735719920,
-      "rank": 48,
-      "category": "综艺"
+      "raw_hot": 113808,
+      "num": 113808,
+      "word": "东部战区新年MV用了繁体字",
+      "onboard_time": 1735720699,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 111068,
+      "num": 111068,
+      "word": "苏新皓新年私信好真诚",
+      "onboard_time": 1735720880,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 110823,
@@ -1977,14 +2025,6 @@
       "onboard_time": 1735650388,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 108571,
-      "num": 310552,
-      "word": "家人为被拐儿子补齐21个生日蛋糕",
-      "onboard_time": 1735719740,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106025,
@@ -2179,6 +2219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61459,
+      "num": 164950,
+      "word": "韩失事飞机最后4分钟究竟发生了啥",
+      "onboard_time": 1735719020,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 60793,
       "num": 317164,
       "word": "尹锡悦多名高级幕僚请辞",
@@ -2201,6 +2249,14 @@
       "onboard_time": 1735694900,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56525,
+      "num": 175207,
+      "word": "原神5.3",
+      "onboard_time": 1735717038,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 54155,
@@ -2233,14 +2289,6 @@
       "onboard_time": 1735700899,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 47197,
-      "num": 164950,
-      "word": "韩失事飞机最后4分钟究竟发生了啥",
-      "onboard_time": 1735719020,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 47108,
@@ -2299,6 +2347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36256,
+      "num": 384979,
+      "word": "来自中国空间站的新年祝福太全面了",
+      "onboard_time": 1735719679,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 34527,
       "num": 136463,
       "word": "邓亚萍说王楚钦技战术十分灵动",
@@ -2345,62 +2401,6 @@
       "onboard_time": 1735704800,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28093,
-      "num": 211911,
-      "word": "邱天的新年第一天",
-      "onboard_time": 1735713320,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 27855,
-      "num": 34544,
-      "word": "陈楚生 光之翼",
-      "onboard_time": 1735683073,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 27545,
-      "num": 313251,
-      "word": "NBA中国赛2025",
-      "onboard_time": 1735706840,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 27096,
-      "num": 254142,
-      "word": "2025年原生鸿蒙将迎来爆发式增长",
-      "onboard_time": 1735717099,
-      "rank": 19,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 26445,
-      "num": 277003,
-      "word": "2025第一天绝美朝霞",
-      "onboard_time": 1735688896,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25289,
-      "num": 204965,
-      "word": "一图回顾2024年A股大事记",
-      "onboard_time": 1735718239,
-      "rank": 23,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 24053,
-      "num": 341750,
-      "word": "2025一起passion",
-      "onboard_time": 1735708039,
-      "rank": 28,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
