@@ -1,0 +1,410 @@
+{
+  "runTime": 1735706452001,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 869666,
+        "num": 1139146,
+        "word": "孙颖莎vs王曼昱",
+        "onboard_time": 1735703422,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 650437,
+        "num": 650437,
+        "word": "陈哲远发了5万红包",
+        "onboard_time": 1735701379,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23226,
+        "num": 443253,
+        "word": "总书记的这些话暖心鼓劲",
+        "onboard_time": 1735661427,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 822638,
+        "num": 440692,
+        "word": "高瀚宇加盟鹿晗工作室",
+        "onboard_time": 1735700480,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1256183,
+        "num": 440118,
+        "word": "王鹤棣你是真饿了",
+        "onboard_time": 1735701559,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438113,
+        "num": 438113,
+        "word": "德国人凌晨4点排长队抢购中国烟花",
+        "onboard_time": 1735702399,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 431324,
+        "num": 431324,
+        "word": "东部战区发布重磅MV献礼新年",
+        "onboard_time": 1735702880,
+        "rank": 6,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 386758,
+        "num": 386758,
+        "word": "贾玲在刘德华演唱会跨年",
+        "onboard_time": 1735696519,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 11788,
+        "num": 368728,
+        "word": "我们从来都是在风雨洗礼中成长",
+        "onboard_time": 1735650388,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 362737,
+        "num": 362737,
+        "word": "半亩花田 孙颖莎",
+        "onboard_time": 1735704621,
+        "rank": 9,
+        "category": "美妆,体育"
+      },
+      {
+        "raw_hot": 3076009,
+        "num": 362551,
+        "word": "赵露思最新康复状态",
+        "onboard_time": 1735689496,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 502657,
+        "num": 361933,
+        "word": "虞书欣丁禹兮林一把日子过好",
+        "onboard_time": 1735702221,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 448665,
+        "num": 361535,
+        "word": "常州一党委书记发不雅内容被免职",
+        "onboard_time": 1735696999,
+        "rank": 12,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 360081,
+        "num": 360081,
+        "word": "网购车厘子一整盒仅6颗大小达标",
+        "onboard_time": 1735703540,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98101,
+        "num": 339999,
+        "word": "新年第1个拥抱",
+        "onboard_time": 1735704021,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1839683,
+        "num": 339572,
+        "word": "赵露思走不动想去捶打腿",
+        "onboard_time": 1735693338,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339100,
+        "num": 339100,
+        "word": "国色芳华大剧排面",
+        "onboard_time": 1735702340,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24301,
+        "num": 338465,
+        "word": "接住新年第一道好运极光",
+        "onboard_time": 1735704800,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338108,
+        "num": 338108,
+        "word": "电视剧轧戏",
+        "onboard_time": 1735698200,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15908,
+        "num": 305086,
+        "word": "孙颖莎3比2王曼昱",
+        "onboard_time": 1735706360,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97080,
+        "num": 296340,
+        "word": "2025我们来了",
+        "onboard_time": 1735703001,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397128,
+        "num": 295532,
+        "word": "王一博 安全扣没扣好",
+        "onboard_time": 1735659686,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291497,
+        "num": 291497,
+        "word": "醒醒 现在是千禧年",
+        "onboard_time": 1735661546,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53889,
+        "num": 281604,
+        "word": "马龙杨幂同框",
+        "onboard_time": 1735691118,
+        "rank": 23,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 124843,
+        "num": 276933,
+        "word": "2025第一天专属壁纸",
+        "onboard_time": 1735702699,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276395,
+        "num": 276395,
+        "word": "NINEPERCENT真快给吴宣仪集齐了",
+        "onboard_time": 1735705520,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327197,
+        "num": 275761,
+        "word": "新年快乐",
+        "onboard_time": 1735660407,
+        "rank": 26,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 207534,
+        "num": 273376,
+        "word": "鱿鱼游戏2收视率爆了",
+        "onboard_time": 1735704321,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34157,
+        "num": 270738,
+        "word": "太好了是2025今天不上班",
+        "onboard_time": 1735705940,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43530,
+        "num": 267120,
+        "word": "张朝阳跨年演讲祝大家宽裕有成就",
+        "onboard_time": 1735706180,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 311281,
+        "num": 262920,
+        "word": "大学生跨年夜卖出5个气球都没回本",
+        "onboard_time": 1735699221,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103740,
+        "num": 262234,
+        "word": "孟佳 初代女团的实力",
+        "onboard_time": 1735706360,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259740,
+        "num": 259740,
+        "word": "刘亦菲连体皮衣",
+        "onboard_time": 1735705221,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256929,
+        "num": 256929,
+        "word": "棣欣引力",
+        "onboard_time": 1735667060,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252377,
+        "num": 252377,
+        "word": "魏笑 嫡长闺",
+        "onboard_time": 1735705039,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214648,
+        "num": 214648,
+        "word": "江苏一中学招13名教师8名为博士",
+        "onboard_time": 1735697240,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 214470,
+        "num": 214470,
+        "word": "陈哲远假唱忘记拿麦",
+        "onboard_time": 1735649307,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192149,
+        "num": 192149,
+        "word": "香港全款150万13平米的家",
+        "onboard_time": 1735696999,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183915,
+        "num": 183915,
+        "word": "湖南卫视收视率",
+        "onboard_time": 1735690579,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177040,
+        "num": 177040,
+        "word": "王一博攀冰",
+        "onboard_time": 1735695319,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175316,
+        "num": 175316,
+        "word": "小李子出演鱿鱼游戏3",
+        "onboard_time": 1735704439,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174919,
+        "num": 174919,
+        "word": "樊振东回应是否将更注重国内赛事",
+        "onboard_time": 1735701260,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168160,
+        "num": 168160,
+        "word": "一觉醒来中国空间站科幻化了",
+        "onboard_time": 1735701861,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 160996,
+        "num": 160996,
+        "word": "王皓新年祝福",
+        "onboard_time": 1735704920,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78420,
+        "num": 155806,
+        "word": "罗渽民Felix同框",
+        "onboard_time": 1735704260,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151023,
+        "num": 151023,
+        "word": "韩国空难179名遇难者身份全部确认",
+        "onboard_time": 1735698379,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 141478,
+        "num": 141478,
+        "word": "王一栩你好事做尽",
+        "onboard_time": 1735706240,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140853,
+        "num": 140853,
+        "word": "吴敬平发樊振东奥运照",
+        "onboard_time": 1735700421,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129926,
+        "num": 129926,
+        "word": "昀牵孟绕",
+        "onboard_time": 1735691898,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127070,
+        "num": 127070,
+        "word": "雷军否认造小米汽车只要100亿",
+        "onboard_time": 1735698501,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025新年贺词#"
+    }
+  }
+}

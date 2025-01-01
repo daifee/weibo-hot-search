@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735705621039,
+  "endTime": 1735706452001,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -1243,6 +1243,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 869666,
+      "num": 1139146,
+      "word": "孙颖莎vs王曼昱",
+      "onboard_time": 1735703422,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 866937,
       "num": 345246,
       "word": "银河酷娱",
@@ -1731,6 +1739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 650437,
+      "num": 1090516,
+      "word": "陈哲远发了5万红包",
+      "onboard_time": 1735701379,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 648026,
       "num": 405180,
       "word": "沈月亚洲最具影响力排名第一",
@@ -1945,14 +1961,6 @@
       "onboard_time": 1735531164,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 565726,
-      "num": 1090516,
-      "word": "陈哲远发了5万红包",
-      "onboard_time": 1735701379,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 562393,
@@ -2227,6 +2235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 502657,
+      "num": 399055,
+      "word": "虞书欣丁禹兮林一把日子过好",
+      "onboard_time": 1735702221,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 502124,
       "num": 502124,
       "word": "加沙出生仅21天双胞胎冻死",
@@ -2305,14 +2321,6 @@
       "onboard_time": 1735454719,
       "rank": 9,
       "category": "美食"
-    },
-    {
-      "raw_hot": 490992,
-      "num": 399055,
-      "word": "虞书欣丁禹兮林一把日子过好",
-      "onboard_time": 1735702221,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 489731,
@@ -2619,12 +2627,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 438242,
-      "num": 438242,
-      "word": "孙颖莎vs王曼昱",
-      "onboard_time": 1735703422,
-      "rank": 5,
-      "category": "体育"
+      "raw_hot": 438113,
+      "num": 438113,
+      "word": "德国人凌晨4点排长队抢购中国烟花",
+      "onboard_time": 1735702399,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 437511,
@@ -2689,6 +2697,14 @@
       "onboard_time": 1735488019,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 431324,
+      "num": 431324,
+      "word": "东部战区发布重磅MV献礼新年",
+      "onboard_time": 1735702880,
+      "rank": 13,
+      "category": "军事"
     },
     {
       "raw_hot": 430311,
@@ -3243,12 +3259,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 362938,
-      "num": 362938,
-      "word": "德国人凌晨4点排长队抢购中国烟花",
-      "onboard_time": 1735702399,
-      "rank": 49,
-      "category": "海外新闻"
+      "raw_hot": 362737,
+      "num": 362737,
+      "word": "半亩花田 孙颖莎",
+      "onboard_time": 1735704621,
+      "rank": 22,
+      "category": "美妆,体育"
     },
     {
       "raw_hot": 362370,
@@ -3265,6 +3281,14 @@
       "onboard_time": 1735689617,
       "rank": 11,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 360081,
+      "num": 360081,
+      "word": "网购车厘子一整盒仅6颗大小达标",
+      "onboard_time": 1735703540,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 358777,
@@ -3347,14 +3371,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 347342,
-      "num": 407175,
-      "word": "东部战区发布重磅MV献礼新年",
-      "onboard_time": 1735702880,
-      "rank": 13,
-      "category": "军事"
-    },
-    {
       "raw_hot": 346789,
       "num": 604509,
       "word": "樊振东称上周接到最新处罚规定通知",
@@ -3417,14 +3433,6 @@
       "onboard_time": 1735691239,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 341630,
-      "num": 341630,
-      "word": "网购车厘子一整盒仅6颗大小达标",
-      "onboard_time": 1735703540,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 341328,
@@ -3827,14 +3835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 307156,
-      "num": 307156,
-      "word": "半亩花田 孙颖莎",
-      "onboard_time": 1735704621,
-      "rank": 22,
-      "category": "美妆,体育"
-    },
-    {
       "raw_hot": 306719,
       "num": 378954,
       "word": "尹锡悦逮捕令有效期7天",
@@ -4195,6 +4195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 276395,
+      "num": 276395,
+      "word": "NINEPERCENT真快给吴宣仪集齐了",
+      "onboard_time": 1735705520,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 274692,
       "num": 363046,
       "word": "上海大屏为樊振东新的一年打call",
@@ -4443,6 +4451,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 259740,
+      "num": 259740,
+      "word": "刘亦菲连体皮衣",
+      "onboard_time": 1735705221,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259425,
       "num": 259425,
       "word": "登陆少年衣服居然会变色",
@@ -4609,6 +4625,14 @@
       "onboard_time": 1735659986,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 252377,
+      "num": 252377,
+      "word": "魏笑 嫡长闺",
+      "onboard_time": 1735705039,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 252333,
@@ -5396,7 +5420,7 @@
     },
     {
       "raw_hot": 211020,
-      "num": 211020,
+      "num": 273376,
       "word": "鱿鱼游戏2收视率爆了",
       "onboard_time": 1735704321,
       "rank": 28,
@@ -6692,7 +6716,7 @@
     },
     {
       "raw_hot": 185671,
-      "num": 185671,
+      "num": 281604,
       "word": "马龙杨幂同框",
       "onboard_time": 1735691118,
       "rank": 34,
@@ -7088,14 +7112,6 @@
       "word": "时代少年团 听取紫啧声一片",
       "onboard_time": 1735637421,
       "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 175539,
-      "num": 175539,
-      "word": "魏笑 嫡长闺",
-      "onboard_time": 1735705039,
-      "rank": 32,
       "category": "艺人"
     },
     {
@@ -7739,20 +7755,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160996,
+      "num": 160996,
+      "word": "王皓新年祝福",
+      "onboard_time": 1735704920,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160822,
       "num": 160822,
       "word": "特朗普被判赔偿500万美元",
       "onboard_time": 1735612878,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 160721,
-      "num": 160721,
-      "word": "刘亦菲连体皮衣",
-      "onboard_time": 1735705221,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 160667,
@@ -8611,6 +8627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141478,
+      "num": 141478,
+      "word": "王一栩你好事做尽",
+      "onboard_time": 1735706240,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141181,
       "num": 141181,
       "word": "看到这种红头文件千万别上头",
@@ -8803,14 +8827,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 135783,
-      "num": 135783,
-      "word": "王皓新年祝福",
-      "onboard_time": 1735704920,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 135615,
       "num": 135615,
       "word": "胡先煦破大防",
@@ -8961,14 +8977,6 @@
       "onboard_time": 1735562361,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131776,
-      "num": 131776,
-      "word": "NINEPERCENT真快给吴宣仪集齐了",
-      "onboard_time": 1735705520,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 131261,
@@ -9147,6 +9155,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 124843,
+      "num": 276933,
+      "word": "2025第一天专属壁纸",
+      "onboard_time": 1735702699,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124639,
       "num": 124639,
       "word": "柳演锡演技",
@@ -9268,7 +9284,7 @@
     },
     {
       "raw_hot": 120876,
-      "num": 120876,
+      "num": 296340,
       "word": "2025我们来了",
       "onboard_time": 1735703001,
       "rank": 49,
@@ -9417,14 +9433,6 @@
       "onboard_time": 1735528279,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 116442,
-      "num": 116442,
-      "word": "2025第一天专属壁纸",
-      "onboard_time": 1735702699,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116133,
@@ -9689,6 +9697,14 @@
       "onboard_time": 1735550900,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103740,
+      "num": 262234,
+      "word": "孟佳 初代女团的实力",
+      "onboard_time": 1735706360,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 103292,
@@ -10241,6 +10257,14 @@
       "onboard_time": 1735524497,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 78420,
+      "num": 155806,
+      "word": "罗渽民Felix同框",
+      "onboard_time": 1735704260,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 77760,
@@ -11147,6 +11171,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 43530,
+      "num": 267120,
+      "word": "张朝阳跨年演讲祝大家宽裕有成就",
+      "onboard_time": 1735706180,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 43484,
       "num": 43484,
       "word": "拉塞尔重回篮网",
@@ -11555,6 +11587,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 34157,
+      "num": 270738,
+      "word": "太好了是2025今天不上班",
+      "onboard_time": 1735705940,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33943,
       "num": 55585,
       "word": "官方通报花3千订房入住被要求加钱",
@@ -11788,7 +11828,7 @@
     },
     {
       "raw_hot": 29378,
-      "num": 175482,
+      "num": 338465,
       "word": "接住新年第一道好运极光",
       "onboard_time": 1735704800,
       "rank": 33,
@@ -12633,6 +12673,14 @@
       "onboard_time": 1735481659,
       "rank": 39,
       "category": "时尚,其它"
+    },
+    {
+      "raw_hot": 15908,
+      "num": 305086,
+      "word": "孙颖莎3比2王曼昱",
+      "onboard_time": 1735706360,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 15717,
