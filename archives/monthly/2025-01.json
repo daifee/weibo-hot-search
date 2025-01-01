@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735749783442,
+  "endTime": 1735751927275,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -1075,6 +1075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 346317,
+      "num": 346317,
+      "word": "超市因员工集体盗窃亏损200万倒闭",
+      "onboard_time": 1735750698,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 344066,
       "num": 421525,
       "word": "银河酷娱绝不容忍恶意诋毁",
@@ -1347,6 +1355,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 284141,
+      "num": 284141,
+      "word": "丈夫称烧伤妈妈皮肤不可能回到以前",
+      "onboard_time": 1735747879,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 281177,
       "num": 263546,
       "word": "气血不足的人试试这3个动作",
@@ -1577,14 +1593,6 @@
       "onboard_time": 1735663525,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 242048,
-      "num": 242048,
-      "word": "丈夫称烧伤妈妈皮肤不可能回到以前",
-      "onboard_time": 1735747879,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 241854,
@@ -3587,6 +3595,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82092,
+      "num": 322818,
+      "word": "美车辆冲撞行人事件目击者发声",
+      "onboard_time": 1735748898,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 81875,
+      "num": 81875,
+      "word": "WTT退赛罚款是否算霸王条款",
+      "onboard_time": 1735750336,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 81212,
+      "num": 81212,
+      "word": "林诗栋说印象最深刻是输给樊振东王楚钦",
+      "onboard_time": 1735750277,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78420,
       "num": 155806,
       "word": "罗渽民Felix同框",
@@ -3739,6 +3771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 57394,
+      "num": 57394,
+      "word": "王楚钦回应呐喊庆祝",
+      "onboard_time": 1735749917,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57303,
       "num": 190454,
       "word": "樊振东回应球迷支持",
@@ -3819,6 +3859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47183,
+      "num": 47183,
+      "word": "钱还会再回来看不见汪苏泷逗我们开心了",
+      "onboard_time": 1735749797,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 47108,
       "num": 221496,
       "word": "深圳的跨年已经nextlevel",
@@ -3851,6 +3899,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 43080,
+      "num": 97532,
+      "word": "赵睿被驱逐",
+      "onboard_time": 1735746260,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42530,
       "num": 489315,
       "word": "雷军回应股价回升",
@@ -3873,14 +3929,6 @@
       "onboard_time": 1735733662,
       "rank": 29,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 41251,
-      "num": 322818,
-      "word": "美车辆冲撞行人事件目击者发声",
-      "onboard_time": 1735748898,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 40918,
@@ -4195,6 +4243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 12138,
+      "num": 81892,
+      "word": "打铁花演绎中国式浪漫",
+      "onboard_time": 1735751895,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11948,
       "num": 61379,
       "word": "古人留下了可千百年不褪色的永生花",
@@ -4241,6 +4297,22 @@
       "onboard_time": 1735673714,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 10855,
+      "num": 76403,
+      "word": "郁可唯温兆伦国粤双语合唱",
+      "onboard_time": 1735751715,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 10777,
+      "num": 75671,
+      "word": "因爱重生的肥娟小吃店迎来晚高峰",
+      "onboard_time": 1735751834,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10401,
