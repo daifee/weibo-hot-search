@@ -1,0 +1,410 @@
+{
+  "runTime": 1735735280908,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10794657,
+        "num": 10794657,
+        "word": "赵露思发长文回应",
+        "onboard_time": 1735726580,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 650454,
+        "num": 650454,
+        "word": "黄雅琼宣布退出国家队",
+        "onboard_time": 1735725682,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58867,
+        "num": 602487,
+        "word": "习主席新年贺词赞扬中国体育健儿",
+        "onboard_time": 1735732521,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 592770,
+        "num": 592770,
+        "word": "戚薇你根本没喝中药",
+        "onboard_time": 1735731560,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 576596,
+        "num": 576596,
+        "word": "日本电视塔跨年倒数完竟直接关灯",
+        "onboard_time": 1735733721,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 2371612,
+        "num": 572346,
+        "word": "银河酷娱致歉",
+        "onboard_time": 1735728622,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 939446,
+        "num": 561066,
+        "word": "韩国空难最小遇难者生前最后照片",
+        "onboard_time": 1735730541,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 548239,
+        "num": 548239,
+        "word": "国剧盛典",
+        "onboard_time": 1735733241,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43778,
+        "num": 528193,
+        "word": "2025是一个什么年",
+        "onboard_time": 1735689617,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 482376,
+        "num": 519761,
+        "word": "弹性退休办法来了",
+        "onboard_time": 1735715780,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 515333,
+        "num": 515333,
+        "word": "孙颖莎告别乒超总决赛",
+        "onboard_time": 1735733902,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 375247,
+        "num": 375247,
+        "word": "王楚钦vs林诗栋",
+        "onboard_time": 1735729702,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372814,
+        "num": 372814,
+        "word": "江苏卫视跨年演唱会全域收视第1",
+        "onboard_time": 1735730123,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326187,
+        "num": 326187,
+        "word": "警方通报一男子跨年夜人群里点烟花",
+        "onboard_time": 1735732582,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303507,
+        "num": 303507,
+        "word": "王曼昱回应决胜场争议判罚",
+        "onboard_time": 1735729522,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247690,
+        "num": 247690,
+        "word": "台下艺人看华晨宇舞台的反应",
+        "onboard_time": 1735729583,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211210,
+        "num": 211210,
+        "word": "时代峰峻有自己的换头笑话",
+        "onboard_time": 1735734563,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202742,
+        "num": 202742,
+        "word": "这一天不够哇唧唧哇忙的",
+        "onboard_time": 1735731862,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50165,
+        "num": 202231,
+        "word": "抑郁症相当于心灵感冒",
+        "onboard_time": 1735734380,
+        "rank": 18,
+        "category": "艺人,健康医疗"
+      },
+      {
+        "raw_hot": 163199,
+        "num": 201655,
+        "word": "昆明一步行街蛇宝宝花灯丑萌出圈",
+        "onboard_time": 1735733721,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2604564,
+        "num": 201481,
+        "word": "赵露思微博解了",
+        "onboard_time": 1735718120,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330534,
+        "num": 200460,
+        "word": "何炅 我现在有点惊弓之鸟了",
+        "onboard_time": 1735723699,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297361,
+        "num": 200222,
+        "word": "甜妹版迪丽热巴",
+        "onboard_time": 1735726521,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72413,
+        "num": 199553,
+        "word": "一句话迎接2025",
+        "onboard_time": 1735734742,
+        "rank": 23,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 128771,
+        "num": 198798,
+        "word": "樊振东对2025年的期许",
+        "onboard_time": 1735734682,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223337,
+        "num": 198509,
+        "word": "唯一一个上班让老板亏钱的人",
+        "onboard_time": 1735728681,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198002,
+        "num": 198002,
+        "word": "2025",
+        "onboard_time": 1735734321,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185556,
+        "num": 185556,
+        "word": "抑郁症",
+        "onboard_time": 1735729883,
+        "rank": 27,
+        "category": "艺人,健康医疗"
+      },
+      {
+        "raw_hot": 169450,
+        "num": 169450,
+        "word": "唐探1900预告的预告",
+        "onboard_time": 1735733842,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41900,
+        "num": 168649,
+        "word": "passion红是什么红",
+        "onboard_time": 1735733662,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 191419,
+        "num": 168326,
+        "word": "1月十二星座运势",
+        "onboard_time": 1735734202,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167889,
+        "num": 167889,
+        "word": "陈梦元旦发文",
+        "onboard_time": 1735730483,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161827,
+        "num": 161827,
+        "word": "龚俊数完黄景瑜数",
+        "onboard_time": 1735733001,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160354,
+        "num": 160354,
+        "word": "张颂文 姜尘",
+        "onboard_time": 1735712780,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149873,
+        "num": 149873,
+        "word": "银河酷娱",
+        "onboard_time": 1735729462,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136188,
+        "num": 136188,
+        "word": "杨幂情商",
+        "onboard_time": 1735721479,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126449,
+        "num": 126449,
+        "word": "53岁员工因公司打分制离职",
+        "onboard_time": 1735727542,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125303,
+        "num": 125303,
+        "word": "京城大师赛",
+        "onboard_time": 1735735161,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30891,
+        "num": 123979,
+        "word": "坦克500hi4z价格超预期",
+        "onboard_time": 1735732521,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 123907,
+        "num": 123907,
+        "word": "孕照被AI生成文案脑子不够肚子来凑",
+        "onboard_time": 1735722021,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123079,
+        "num": 123079,
+        "word": "王一博我在舞台播放破亿",
+        "onboard_time": 1735730301,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122087,
+        "num": 122087,
+        "word": "国色芳华 烟火气",
+        "onboard_time": 1735731321,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120567,
+        "num": 120567,
+        "word": "MRC冠军",
+        "onboard_time": 1735731381,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119036,
+        "num": 119036,
+        "word": "杀熊救妻丈夫与熊搏斗近半小时",
+        "onboard_time": 1735734262,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116003,
+        "num": 116003,
+        "word": "樊振东登上国防军事频道",
+        "onboard_time": 1735711099,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114800,
+        "num": 114800,
+        "word": "易烊千玺面试戏演哭剧组所有人",
+        "onboard_time": 1735719499,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106227,
+        "num": 106227,
+        "word": "群星耀东方",
+        "onboard_time": 1735735041,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95915,
+        "num": 95915,
+        "word": "周深又双叒叕在大湾区唱歌了",
+        "onboard_time": 1735735161,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94066,
+        "num": 94066,
+        "word": "大奉打更人云合数据登顶",
+        "onboard_time": 1735728143,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47854,
+        "num": 91934,
+        "word": "宠爱说深渊再见",
+        "onboard_time": 1735732222,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025年新年贺词#"
+    }
+  }
+}
