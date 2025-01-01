@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735723383821,
+  "endTime": 1735724186036,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 3277288,
-      "num": 454343,
+      "num": 497925,
       "word": "赵露思微博解了",
       "onboard_time": 1735718120,
       "rank": 10,
@@ -1891,6 +1891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 640226,
+      "num": 640226,
+      "word": "孕照被AI生成文案脑子不够肚子来凑",
+      "onboard_time": 1735722021,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 636825,
       "num": 636825,
       "word": "女演员姜尘自曝曾被男明星家暴",
@@ -2137,6 +2145,14 @@
       "onboard_time": 1735633700,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 556242,
+      "num": 556242,
+      "word": "杨幂情商",
+      "onboard_time": 1735721479,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 549701,
@@ -2457,14 +2473,6 @@
       "onboard_time": 1735472481,
       "rank": 16,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 489127,
-      "num": 489127,
-      "word": "杨幂情商",
-      "onboard_time": 1735721479,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 488866,
@@ -3393,14 +3401,6 @@
       "onboard_time": 1735658126,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 371039,
-      "num": 371039,
-      "word": "孕照被AI生成文案脑子不够肚子来凑",
-      "onboard_time": 1735722021,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 370952,
@@ -4427,6 +4427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 280633,
+      "num": 280633,
+      "word": "虞书欣2025第一个变装视频",
+      "onboard_time": 1735720160,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279322,
       "num": 279322,
       "word": "TF家族2025跨年节目单",
@@ -4457,14 +4465,6 @@
       "onboard_time": 1735440139,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 276412,
-      "num": 276412,
-      "word": "虞书欣2025第一个变装视频",
-      "onboard_time": 1735720160,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 275114,
@@ -5369,6 +5369,14 @@
       "onboard_time": 1735515677,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229805,
+      "num": 141754,
+      "word": "孙颖莎回应深大幼儿园称号",
+      "onboard_time": 1735723580,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 229571,
@@ -6427,6 +6435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196902,
+      "num": 196902,
+      "word": "焉栩嘉直播全靠预制问题",
+      "onboard_time": 1735722800,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196841,
       "num": 338053,
       "word": "记录2024每个人的小荣耀",
@@ -7379,12 +7395,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178502,
-      "num": 178502,
-      "word": "焉栩嘉直播全靠预制问题",
-      "onboard_time": 1735722800,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 179074,
+      "num": 179074,
+      "word": "陈幸同单打MVP",
+      "onboard_time": 1735719859,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 178246,
@@ -7649,14 +7665,6 @@
       "onboard_time": 1735634541,
       "rank": 48,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 171553,
-      "num": 175175,
-      "word": "陈幸同单打MVP",
-      "onboard_time": 1735719859,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 171532,
@@ -8347,6 +8355,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 157050,
+      "num": 157050,
+      "word": "孙颖莎王曼昱为小球员颁奖",
+      "onboard_time": 1735722739,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156926,
       "num": 311528,
       "word": "2025正式开始",
@@ -8835,6 +8851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146932,
+      "num": 141737,
+      "word": "何炅 我现在有点惊弓之鸟了",
+      "onboard_time": 1735723699,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146911,
       "num": 146911,
       "word": "ELLE80周年时髦词典",
@@ -8884,7 +8908,7 @@
     },
     {
       "raw_hot": 146099,
-      "num": 146099,
+      "num": 156839,
       "word": "黄景瑜孙千吻戏吻到忘词",
       "onboard_time": 1735718598,
       "rank": 36,
@@ -9001,6 +9025,14 @@
       "onboard_time": 1735456760,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143621,
+      "num": 194390,
+      "word": "家属称老人信养生馆治癌拒就医去世",
+      "onboard_time": 1735722258,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143615,
@@ -9275,6 +9307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138565,
+      "num": 138565,
+      "word": "原来在跨年许愿还有这样的意义",
+      "onboard_time": 1735723640,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138125,
       "num": 138125,
       "word": "英国专家谈韩客机失事真凶",
@@ -9483,14 +9523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133371,
-      "num": 133371,
-      "word": "孙颖莎王曼昱为小球员颁奖",
-      "onboard_time": 1735722739,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 133103,
       "num": 133103,
       "word": "苔花是送给8500万人的新年烟花",
@@ -9577,6 +9609,14 @@
       "onboard_time": 1735460420,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130991,
+      "num": 130991,
+      "word": "电影误杀3",
+      "onboard_time": 1735416551,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 130497,
@@ -9777,6 +9817,14 @@
       "onboard_time": 1735709839,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124911,
+      "num": 152129,
+      "word": "专家说很多翻译硕士水平比不上AI",
+      "onboard_time": 1735722680,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 124843,
@@ -10089,6 +10137,14 @@
       "onboard_time": 1735621941,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116586,
+      "num": 116586,
+      "word": "迪丽热巴贺思慕甜妹版",
+      "onboard_time": 1735723999,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 116506,
@@ -10595,6 +10651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99277,
+      "num": 278652,
+      "word": "跨年夜突发氢气球爆燃群众轻微灼伤",
+      "onboard_time": 1735723640,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99217,
       "num": 99217,
       "word": "守望先锋",
@@ -10659,14 +10723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 96870,
-      "num": 151025,
-      "word": "专家说很多翻译硕士水平比不上AI",
-      "onboard_time": 1735722680,
-      "rank": 29,
-      "category": "教育"
-    },
-    {
       "raw_hot": 96801,
       "num": 317952,
       "word": "韩失事客机机型无释放燃料功能",
@@ -10705,6 +10761,14 @@
       "onboard_time": 1735721660,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95175,
+      "num": 396573,
+      "word": "2025元旦档电影票房破亿",
+      "onboard_time": 1735722919,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 93901,
@@ -10833,6 +10897,14 @@
       "onboard_time": 1735483940,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88075,
+      "num": 155051,
+      "word": "请查收来自边防线的新年祝福",
+      "onboard_time": 1735724119,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 87389,
@@ -11275,6 +11347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67871,
+      "num": 679706,
+      "word": "六尺巷为何有六尺",
+      "onboard_time": 1735722021,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 67618,
       "num": 263954,
       "word": "18元外卖包装费6元",
@@ -11361,14 +11441,6 @@
       "onboard_time": 1735575438,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 65400,
-      "num": 396573,
-      "word": "2025元旦档电影票房破亿",
-      "onboard_time": 1735722919,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 65262,
@@ -11691,14 +11763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 53384,
-      "num": 613239,
-      "word": "六尺巷为何有六尺",
-      "onboard_time": 1735722021,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 53349,
       "num": 299385,
       "word": "馋嘴男子催老板到点出摊被回白眼",
@@ -11835,6 +11899,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 49169,
+      "num": 188559,
+      "word": "嬴政传说限定皮肤",
+      "onboard_time": 1735717219,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 48958,
       "num": 124989,
       "word": "光荣属于每一个挺膺担当的奋斗者",
@@ -11873,6 +11945,14 @@
       "onboard_time": 1735529781,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 48271,
+      "num": 182740,
+      "word": "云南劫杀案700公里外的他成嫌疑人",
+      "onboard_time": 1735724119,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 48052,
@@ -11985,14 +12065,6 @@
       "onboard_time": 1735424351,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 44455,
-      "num": 194390,
-      "word": "家属称老人信养生馆治癌拒就医去世",
-      "onboard_time": 1735722258,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44335,
@@ -12257,14 +12329,6 @@
       "onboard_time": 1735489219,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38445,
-      "num": 188559,
-      "word": "嬴政传说限定皮肤",
-      "onboard_time": 1735717219,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 38267,
@@ -12811,6 +12875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 27750,
+      "num": 139311,
+      "word": "24年极氪年终交卷",
+      "onboard_time": 1735723699,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 27646,
       "num": 27646,
       "word": "张杰三亚演唱会",
@@ -12985,14 +13057,6 @@
       "onboard_time": 1735632559,
       "rank": 14,
       "category": "电影,剧集"
-    },
-    {
-      "raw_hot": 25708,
-      "num": 25708,
-      "word": "电影误杀3",
-      "onboard_time": 1735416551,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 25573,
@@ -13961,6 +14025,14 @@
       "onboard_time": 1735410912,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10401,
+      "num": 151628,
+      "word": "国羽送新年祝福",
+      "onboard_time": 1735724119,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 10273,
