@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735700382341,
+  "endTime": 1735700924362,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -1339,6 +1339,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 780894,
+      "num": 780894,
+      "word": "贾玲在刘德华演唱会跨年",
+      "onboard_time": 1735696519,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 779800,
       "num": 779800,
       "word": "女子睡觉被丈夫刺伤大出血法院发保护令",
@@ -1473,14 +1481,6 @@
       "onboard_time": 1735487240,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 732541,
-      "num": 732541,
-      "word": "贾玲在刘德华演唱会跨年",
-      "onboard_time": 1735696519,
-      "rank": 13,
-      "category": "演出"
     },
     {
       "raw_hot": 728563,
@@ -2011,6 +2011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 545904,
+      "num": 308908,
+      "word": "常州一党委书记发不雅内容被免职",
+      "onboard_time": 1735696999,
+      "rank": 34,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 542246,
       "num": 460075,
       "word": "韩国客机接到鸟情预警6分钟后撞墙",
@@ -2089,6 +2097,14 @@
       "onboard_time": 1735480702,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 528601,
+      "num": 306886,
+      "word": "电视剧轧戏",
+      "onboard_time": 1735698200,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 526662,
@@ -2219,14 +2235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 495039,
-      "num": 294866,
-      "word": "常州一党委书记发不雅内容被免职",
-      "onboard_time": 1735696999,
-      "rank": 34,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 495031,
       "num": 368880,
       "word": "建议不要在12月提离职",
@@ -2321,6 +2329,14 @@
       "onboard_time": 1735525337,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 483038,
+      "num": 483038,
+      "word": "高瀚宇加盟鹿晗工作室",
+      "onboard_time": 1735700480,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 481628,
@@ -2620,7 +2636,7 @@
     },
     {
       "raw_hot": 432070,
-      "num": 286967,
+      "num": 299172,
       "word": "韩国空难179名遇难者身份全部确认",
       "onboard_time": 1735698379,
       "rank": 16,
@@ -2851,6 +2867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 401956,
+      "num": 263181,
+      "word": "大学生跨年夜卖出5个气球都没回本",
+      "onboard_time": 1735699221,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 400510,
       "num": 400510,
       "word": "迪丽热巴今天cos碱水结",
@@ -2987,6 +3011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 388917,
+      "num": 260718,
+      "word": "香港全款150万13平米的家",
+      "onboard_time": 1735696999,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 386824,
       "num": 386824,
       "word": "樊振东和WTT各自在坚持什么",
@@ -3017,14 +3049,6 @@
       "onboard_time": 1735538960,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 379491,
-      "num": 263181,
-      "word": "大学生跨年夜卖出5个气球都没回本",
-      "onboard_time": 1735699221,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 379453,
@@ -3073,14 +3097,6 @@
       "onboard_time": 1735649246,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 373928,
-      "num": 260718,
-      "word": "香港全款150万13平米的家",
-      "onboard_time": 1735696999,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 373614,
@@ -3635,6 +3651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 315683,
+      "num": 494639,
+      "word": "江苏一中学招13名教师8名为博士",
+      "onboard_time": 1735697240,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 315258,
       "num": 383319,
       "word": "秋瓷炫于晓光韩国新家",
@@ -4017,14 +4041,6 @@
       "onboard_time": 1735532903,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 284629,
-      "num": 284629,
-      "word": "江苏一中学招13名教师8名为博士",
-      "onboard_time": 1735697240,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 284170,
@@ -5043,6 +5059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 221474,
+      "num": 221474,
+      "word": "吴敬平发樊振东奥运照",
+      "onboard_time": 1735700421,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221395,
       "num": 470238,
       "word": "全红婵点赞陈梦退出世排博文",
@@ -5555,6 +5579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205175,
+      "num": 205175,
+      "word": "喻言出场好辣",
+      "onboard_time": 1735697481,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204832,
       "num": 217933,
       "word": "国王vs湖人",
@@ -5665,14 +5697,6 @@
       "onboard_time": 1735630280,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 202684,
-      "num": 202684,
-      "word": "喻言出场好辣",
-      "onboard_time": 1735697481,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 202548,
@@ -6139,6 +6163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191962,
+      "num": 191962,
+      "word": "DQ Chiikawa",
+      "onboard_time": 1735699340,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 191956,
       "num": 274040,
       "word": "白鹿又白录了",
@@ -6521,6 +6553,14 @@
       "onboard_time": 1735447101,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 185897,
+      "num": 185897,
+      "word": "2025腾讯视频大剧片单",
+      "onboard_time": 1735700240,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 185876,
@@ -7387,6 +7427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 164022,
+      "num": 164022,
+      "word": "林忆莲状态",
+      "onboard_time": 1735700181,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164011,
       "num": 164011,
       "word": "最近的车厘子几乎一天一个价",
@@ -7633,14 +7681,6 @@
       "onboard_time": 1735691477,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 158091,
-      "num": 158091,
-      "word": "DQ Chiikawa",
-      "onboard_time": 1735699340,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 157900,
@@ -7913,14 +7953,6 @@
       "onboard_time": 1735627759,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 152162,
-      "num": 152162,
-      "word": "2025腾讯视频大剧片单",
-      "onboard_time": 1735700240,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 151513,
@@ -8603,14 +8635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 135741,
-      "num": 135741,
-      "word": "林忆莲状态",
-      "onboard_time": 1735700181,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 135615,
       "num": 135615,
       "word": "胡先煦破大防",
@@ -8763,6 +8787,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 131229,
+      "num": 280404,
+      "word": "新年第1个拥抱",
+      "onboard_time": 1735694120,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 131144,
       "num": 141606,
       "word": "李健深圳演唱会",
@@ -8897,14 +8929,6 @@
       "onboard_time": 1735601777,
       "rank": 41,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 127059,
-      "num": 280404,
-      "word": "新年第1个拥抱",
-      "onboard_time": 1735694120,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 126159,
@@ -12107,6 +12131,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 21225,
+      "num": 301272,
+      "word": "2025拼出自己的高光时刻",
+      "onboard_time": 1735698440,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21008,
       "num": 657061,
       "word": "2024德玛西亚杯决赛",
@@ -12457,14 +12489,6 @@
       "onboard_time": 1735588331,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 13930,
-      "num": 301272,
-      "word": "2025拼出自己的高光时刻",
-      "onboard_time": 1735698440,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13830,
@@ -12857,6 +12881,14 @@
       "onboard_time": 1735634421,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 5627,
+      "num": 305273,
+      "word": "高校新年营业求抱抱",
+      "onboard_time": 1735700899,
+      "rank": 14,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

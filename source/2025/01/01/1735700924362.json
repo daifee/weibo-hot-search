@@ -1,0 +1,410 @@
+{
+  "runTime": 1735700924362,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1187412,
+        "num": 1189985,
+        "word": "新年快乐",
+        "onboard_time": 1735660407,
+        "rank": 0,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 780894,
+        "num": 780894,
+        "word": "贾玲在刘德华演唱会跨年",
+        "onboard_time": 1735696519,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31602,
+        "num": 618377,
+        "word": "总书记的这些话暖心鼓劲",
+        "onboard_time": 1735661427,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 612516,
+        "num": 612516,
+        "word": "湖南卫视收视率",
+        "onboard_time": 1735690579,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 507716,
+        "num": 507716,
+        "word": "醒醒 现在是千禧年",
+        "onboard_time": 1735661546,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315683,
+        "num": 494639,
+        "word": "江苏一中学招13名教师8名为博士",
+        "onboard_time": 1735697240,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 483038,
+        "num": 483038,
+        "word": "高瀚宇加盟鹿晗工作室",
+        "onboard_time": 1735700480,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318741,
+        "num": 318741,
+        "word": "程潇 老娘要摆ending",
+        "onboard_time": 1735690459,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22458,
+        "num": 316129,
+        "word": "我们从来都是在风雨洗礼中成长",
+        "onboard_time": 1735650388,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 313702,
+        "num": 313702,
+        "word": "昀牵孟绕",
+        "onboard_time": 1735691898,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 3271899,
+        "num": 313138,
+        "word": "赵露思最新康复状态",
+        "onboard_time": 1735689496,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 883674,
+        "num": 309880,
+        "word": "棣欣引力",
+        "onboard_time": 1735667060,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 545904,
+        "num": 308908,
+        "word": "常州一党委书记发不雅内容被免职",
+        "onboard_time": 1735696999,
+        "rank": 12,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 528601,
+        "num": 306886,
+        "word": "电视剧轧戏",
+        "onboard_time": 1735698200,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 5627,
+        "num": 305273,
+        "word": "高校新年营业求抱抱",
+        "onboard_time": 1735700899,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1914048,
+        "num": 302029,
+        "word": "赵露思走不动想去捶打腿",
+        "onboard_time": 1735693338,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421075,
+        "num": 299172,
+        "word": "韩国空难179名遇难者身份全部确认",
+        "onboard_time": 1735698379,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 329291,
+        "num": 298551,
+        "word": "中国乒协同意马龙樊振东陈梦退出世排",
+        "onboard_time": 1735691659,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 297046,
+        "num": 297046,
+        "word": "天安门放飞10000多只和平鸽",
+        "onboard_time": 1735691477,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 252283,
+        "num": 252283,
+        "word": "雷军紧张到一动不动",
+        "onboard_time": 1735692020,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 21225,
+        "num": 251700,
+        "word": "2025拼出自己的高光时刻",
+        "onboard_time": 1735698440,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 526436,
+        "num": 249487,
+        "word": "王一博 安全扣没扣好",
+        "onboard_time": 1735659686,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401956,
+        "num": 248164,
+        "word": "大学生跨年夜卖出5个气球都没回本",
+        "onboard_time": 1735699221,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388917,
+        "num": 246977,
+        "word": "香港全款150万13平米的家",
+        "onboard_time": 1735696999,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245885,
+        "num": 245885,
+        "word": "1月1日天安门广场升旗仪式",
+        "onboard_time": 1735689617,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 224697,
+        "num": 224697,
+        "word": "虞书欣丁禹兮林一手牵手蹦蹦跳跳",
+        "onboard_time": 1735673714,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221474,
+        "num": 221474,
+        "word": "吴敬平发樊振东奥运照",
+        "onboard_time": 1735700421,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220100,
+        "num": 220100,
+        "word": "东部战区发布MV中国人",
+        "onboard_time": 1735698081,
+        "rank": 27,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 207331,
+        "num": 207331,
+        "word": "王一博攀冰",
+        "onboard_time": 1735695319,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205175,
+        "num": 205175,
+        "word": "喻言出场好辣",
+        "onboard_time": 1735697481,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257031,
+        "num": 199675,
+        "word": "陈哲远假唱忘记拿麦",
+        "onboard_time": 1735649307,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206387,
+        "num": 196779,
+        "word": "虞书欣跨年甜辣风舞台",
+        "onboard_time": 1735649907,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191962,
+        "num": 191962,
+        "word": "DQ Chiikawa",
+        "onboard_time": 1735699340,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 190456,
+        "num": 190456,
+        "word": "雷军否认造小米汽车只要100亿",
+        "onboard_time": 1735698501,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 185897,
+        "num": 185897,
+        "word": "2025腾讯视频大剧片单",
+        "onboard_time": 1735700240,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188545,
+        "num": 181676,
+        "word": "登陆少年 百事",
+        "onboard_time": 1735698921,
+        "rank": 35,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 168297,
+        "num": 168297,
+        "word": "跨年收视率",
+        "onboard_time": 1735661488,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166343,
+        "num": 166343,
+        "word": "欣有林兮",
+        "onboard_time": 1735689377,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164022,
+        "num": 164022,
+        "word": "林忆莲状态",
+        "onboard_time": 1735700181,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152295,
+        "num": 152295,
+        "word": "张栋梁一开口还是大明星何群",
+        "onboard_time": 1735695980,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146668,
+        "num": 146668,
+        "word": "果然数学的尽头是英语",
+        "onboard_time": 1735695200,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 140882,
+        "num": 140882,
+        "word": "2025年新年贺词",
+        "onboard_time": 1735642642,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131229,
+        "num": 131229,
+        "word": "新年第1个拥抱",
+        "onboard_time": 1735694120,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129464,
+        "num": 129464,
+        "word": "苏醒被绑架到C位",
+        "onboard_time": 1735667418,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128296,
+        "num": 128296,
+        "word": "李昀锐有点紧张",
+        "onboard_time": 1735657828,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120045,
+        "num": 120045,
+        "word": "2025是一个什么年",
+        "onboard_time": 1735689617,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118382,
+        "num": 118382,
+        "word": "跨年烟花",
+        "onboard_time": 1735662088,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117559,
+        "num": 117559,
+        "word": "樊振东分享霉霉的Mean",
+        "onboard_time": 1735691239,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114083,
+        "num": 114083,
+        "word": "马龙杨幂同框",
+        "onboard_time": 1735691118,
+        "rank": 48,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 113782,
+        "num": 113782,
+        "word": "竹林四侠的新年祝福",
+        "onboard_time": 1735687514,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025新年贺词#"
+    }
+  }
+}
