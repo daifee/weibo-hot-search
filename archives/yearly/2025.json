@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735773664561,
+  "endTime": 1735774537646,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -379,20 +379,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 912714,
+      "num": 948551,
+      "word": "超市因员工集体盗窃亏损200万倒闭",
+      "onboard_time": 1735750698,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 879247,
       "num": 879247,
       "word": "鞠婧祎 行走的CD",
       "onboard_time": 1735660407,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 878595,
-      "num": 878595,
-      "word": "超市因员工集体盗窃亏损200万倒闭",
-      "onboard_time": 1735750698,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 869666,
@@ -433,6 +433,14 @@
       "onboard_time": 1735698200,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 822120,
+      "num": 822120,
+      "word": "老妻少夫26年丈夫为妻子留白发扮老",
+      "onboard_time": 1735770433,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 818078,
@@ -523,14 +531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 732843,
-      "num": 732843,
-      "word": "老妻少夫26年丈夫为妻子留白发扮老",
-      "onboard_time": 1735770433,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 687973,
       "num": 687973,
       "word": "鹿晗的阿贝贝",
@@ -608,6 +608,14 @@
       "word": "张峻豪改名",
       "onboard_time": 1735746080,
       "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 626897,
+      "num": 137550,
+      "word": "徐以若",
+      "onboard_time": 1735773735,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -961,6 +969,14 @@
       "onboard_time": 1735667418,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 389785,
+      "num": 100364,
+      "word": "金星到底有多恐怖",
+      "onboard_time": 1735773675,
+      "rank": 21,
+      "category": "科学科普"
     },
     {
       "raw_hot": 388917,
@@ -1715,6 +1731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216658,
+      "num": 216658,
+      "word": "专家谈中学招13名教师10清北0师范",
+      "onboard_time": 1735767612,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216037,
       "num": 216037,
       "word": "雷军否认造小米汽车只要100亿",
@@ -1787,14 +1811,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 209134,
-      "num": 209134,
-      "word": "专家谈中学招13名教师10清北0师范",
-      "onboard_time": 1735767612,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 209101,
       "num": 209101,
       "word": "王者时之奇旅系列皮肤上新",
@@ -1833,6 +1849,14 @@
       "onboard_time": 1735701861,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 205296,
+      "num": 205296,
+      "word": "孟子义 小碗不够大碗来凑",
+      "onboard_time": 1735773735,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 205175,
@@ -2376,30 +2400,6 @@
       "word": "潘展乐孙颖莎给你发晚安短信",
       "onboard_time": 1735736123,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 167889,
-      "num": 167889,
-      "word": "陈梦元旦发文",
-      "onboard_time": 1735730483,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 166934,
-      "num": 166934,
-      "word": "丁禹兮2024年度总结",
-      "onboard_time": 1735738344,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 166473,
-      "num": 177595,
-      "word": "王曼昱陈幸同率队获100万奖金",
-      "onboard_time": 1735725981,
-      "rank": 46,
       "category": "体育"
     }
   ],

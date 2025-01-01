@@ -1,6 +1,6 @@
 {
   "startTime": 1735748807244,
-  "endTime": 1735773664561,
+  "endTime": 1735774537646,
   "band_list": [
     {
       "raw_hot": 3850549,
@@ -19,16 +19,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 878595,
-      "num": 878595,
+      "raw_hot": 912714,
+      "num": 948551,
       "word": "超市因员工集体盗窃亏损200万倒闭",
       "onboard_time": 1735750698,
       "rank": 3,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 732843,
-      "num": 732843,
+      "raw_hot": 822120,
+      "num": 822120,
       "word": "老妻少夫26年丈夫为妻子留白发扮老",
       "onboard_time": 1735770433,
       "rank": 3,
@@ -40,6 +40,14 @@
       "word": "张峻豪改名",
       "onboard_time": 1735746080,
       "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 626897,
+      "num": 137550,
+      "word": "徐以若",
+      "onboard_time": 1735773735,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -81,6 +89,14 @@
       "onboard_time": 1735741642,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 389785,
+      "num": 100364,
+      "word": "金星到底有多恐怖",
+      "onboard_time": 1735773675,
+      "rank": 21,
+      "category": "科学科普"
     },
     {
       "raw_hot": 337145,
@@ -163,8 +179,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 209134,
-      "num": 209134,
+      "raw_hot": 216658,
+      "num": 216658,
       "word": "专家谈中学招13名教师10清北0师范",
       "onboard_time": 1735767612,
       "rank": 15,
@@ -185,6 +201,14 @@
       "onboard_time": 1735735281,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205296,
+      "num": 205296,
+      "word": "孟子义 小碗不够大碗来凑",
+      "onboard_time": 1735773735,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 188446,
@@ -227,6 +251,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 131734,
+      "num": 131734,
+      "word": "东部战区MV出现银杏叶",
+      "onboard_time": 1735741824,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 129130,
       "num": 129130,
       "word": "美国汽车撞人事件已致10死30伤",
@@ -235,12 +267,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 125190,
-      "num": 125190,
-      "word": "东部战区MV出现银杏叶",
-      "onboard_time": 1735741824,
-      "rank": 29,
-      "category": "国内时政"
+      "raw_hot": 121618,
+      "num": 121618,
+      "word": "向太说控制不住向佐的抽象",
+      "onboard_time": 1735773735,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 120140,
@@ -275,20 +307,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116159,
+      "num": 116159,
+      "word": "纽约男子在地铁进站瞬间被推下站台",
+      "onboard_time": 1735740802,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 115575,
       "num": 115575,
       "word": "康柏",
       "onboard_time": 1735746740,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 113101,
-      "num": 113101,
-      "word": "纽约男子在地铁进站瞬间被推下站台",
-      "onboard_time": 1735740802,
-      "rank": 34,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 111651,
@@ -337,6 +369,14 @@
       "onboard_time": 1735743981,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94086,
+      "num": 94086,
+      "word": "邓亚萍说女团决赛有点drama",
+      "onboard_time": 1735773794,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 92745,
@@ -411,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84634,
+      "num": 84634,
+      "word": "什么是分离转换性障碍",
+      "onboard_time": 1735773616,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 84135,
       "num": 139055,
       "word": "诺言告别eStar",
@@ -467,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58345,
+      "num": 72751,
+      "word": "任嘉伦一开口红了一片海",
+      "onboard_time": 1735738161,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 54779,
       "num": 57512,
       "word": "王曼昱回应决胜场争议判罚",
@@ -491,12 +547,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 44570,
+      "num": 45710,
+      "word": "白鹿看月亮爬上来",
+      "onboard_time": 1735774096,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 43080,
       "num": 97532,
       "word": "赵睿被驱逐",
       "onboard_time": 1735746260,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40284,
+      "num": 45700,
+      "word": "陈哲远直播放烟花",
+      "onboard_time": 1735773735,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 37558,
@@ -513,6 +585,30 @@
       "onboard_time": 1735761972,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 37361,
+      "num": 45682,
+      "word": "新华社解读马龙樊振东陈梦退出世排",
+      "onboard_time": 1735774217,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 36510,
+      "num": 45675,
+      "word": "德国柏林发生持刀袭击事件",
+      "onboard_time": 1735774456,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 35811,
+      "num": 45670,
+      "word": "王曼昱说能赢下来是不一样的体验",
+      "onboard_time": 1735774096,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 34892,
@@ -569,14 +665,6 @@
       "onboard_time": 1735755132,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 27664,
-      "num": 54804,
-      "word": "什么是分离转换性障碍",
-      "onboard_time": 1735773616,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 27072,
@@ -707,7 +795,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 4194,
+      "raw_hot": 4796,
       "num": 603883,
       "word": "2025拼出自己的高光时刻",
       "onboard_time": 1735698440,
