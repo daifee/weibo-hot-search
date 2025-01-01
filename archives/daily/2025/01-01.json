@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735702501274,
+  "endTime": 1735703185193,
   "band_list": [
     {
       "raw_hot": 10681189,
@@ -387,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 498781,
+      "num": 498781,
+      "word": "王鹤棣你是真饿了",
+      "onboard_time": 1735701559,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 485651,
       "num": 1061341,
       "word": "跨年烟花",
@@ -444,7 +452,7 @@
     },
     {
       "raw_hot": 416416,
-      "num": 494639,
+      "num": 508812,
       "word": "江苏一中学招13名教师8名为博士",
       "onboard_time": 1735697240,
       "rank": 46,
@@ -563,27 +571,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 327621,
+      "num": 318223,
+      "word": "虞书欣丁禹兮林一把日子过好",
+      "onboard_time": 1735702221,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 323263,
       "num": 240191,
       "word": "王鹤棣转场太可以了",
       "onboard_time": 1735659146,
       "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 319765,
-      "num": 319765,
-      "word": "王鹤棣你是真饿了",
-      "onboard_time": 1735701559,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 318224,
-      "num": 318223,
-      "word": "虞书欣丁禹兮林一把日子过好",
-      "onboard_time": 1735702221,
-      "rank": 18,
       "category": "综艺"
     },
     {
@@ -649,6 +649,14 @@
       "onboard_time": 1735660527,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 265897,
+      "num": 265897,
+      "word": "DQ Chiikawa",
+      "onboard_time": 1735699340,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 263825,
@@ -731,14 +739,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 231566,
-      "num": 231566,
-      "word": "DQ Chiikawa",
-      "onboard_time": 1735699340,
-      "rank": 36,
-      "category": "美食"
-    },
-    {
       "raw_hot": 230697,
       "num": 230697,
       "word": "东部战区发布MV中国人",
@@ -756,7 +756,7 @@
     },
     {
       "raw_hot": 222054,
-      "num": 222054,
+      "num": 264690,
       "word": "吴敬平发樊振东奥运照",
       "onboard_time": 1735700421,
       "rank": 26,
@@ -827,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208238,
+      "num": 208238,
+      "word": "国色芳华大剧排面",
+      "onboard_time": 1735702340,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207478,
       "num": 238909,
       "word": "慕胥辞提灯赴新岁海报",
@@ -851,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204671,
+      "num": 204671,
+      "word": "张艺兴工作室新年长文",
+      "onboard_time": 1735702160,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204373,
       "num": 204373,
       "word": "谢娜",
@@ -873,6 +889,14 @@
       "onboard_time": 1735660705,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197166,
+      "num": 197166,
+      "word": "德国人凌晨4点排长队抢购中国烟花",
+      "onboard_time": 1735702399,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 193734,
@@ -905,14 +929,6 @@
       "onboard_time": 1735691118,
       "rank": 34,
       "category": "综艺,体育"
-    },
-    {
-      "raw_hot": 181949,
-      "num": 181949,
-      "word": "国色芳华大剧排面",
-      "onboard_time": 1735702340,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 178067,
@@ -955,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173668,
+      "num": 319379,
+      "word": "一觉醒来中国空间站科幻化了",
+      "onboard_time": 1735701861,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 172942,
       "num": 172942,
       "word": "肖战新年私信",
@@ -995,6 +1019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 165244,
+      "num": 288719,
+      "word": "东部战区发布重磅MV献礼新年",
+      "onboard_time": 1735702880,
+      "rank": 13,
+      "category": "军事"
+    },
+    {
       "raw_hot": 164833,
       "num": 164833,
       "word": "元旦",
@@ -1025,14 +1057,6 @@
       "onboard_time": 1735699340,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 161070,
-      "num": 161070,
-      "word": "张艺兴工作室新年长文",
-      "onboard_time": 1735702160,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 158533,
@@ -1171,20 +1195,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133103,
+      "num": 133103,
+      "word": "苔花是送给8500万人的新年烟花",
+      "onboard_time": 1735702821,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132275,
       "num": 132275,
       "word": "成毅笨小孩舞台",
       "onboard_time": 1735695260,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131988,
-      "num": 131988,
-      "word": "德国人凌晨4点排长队抢购中国烟花",
-      "onboard_time": 1735702399,
-      "rank": 49,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 131229,
@@ -1201,6 +1225,14 @@
       "onboard_time": 1735669037,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 120876,
+      "num": 120876,
+      "word": "2025我们来了",
+      "onboard_time": 1735703001,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117950,
@@ -1257,14 +1289,6 @@
       "onboard_time": 1735670954,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 98075,
-      "num": 319379,
-      "word": "一觉醒来中国空间站科幻化了",
-      "onboard_time": 1735701861,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 95339,
@@ -1371,6 +1395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60793,
+      "num": 317164,
+      "word": "尹锡悦多名高级幕僚请辞",
+      "onboard_time": 1735701680,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 58808,
       "num": 58808,
       "word": "汪苏泷跳了4遍女团舞",
@@ -1385,14 +1417,6 @@
       "onboard_time": 1735694900,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 51134,
-      "num": 317164,
-      "word": "尹锡悦多名高级幕僚请辞",
-      "onboard_time": 1735701680,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 47410,
