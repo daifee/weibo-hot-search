@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735730291744,
+  "endTime": 1735731337276,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -51,6 +51,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2763810,
+      "num": 2763810,
+      "word": "银河酷娱致歉",
+      "onboard_time": 1735728622,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2578366,
       "num": 395633,
       "word": "赵露思走不动想去捶打腿",
@@ -65,14 +73,6 @@
       "onboard_time": 1735653450,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2332361,
-      "num": 2332361,
-      "word": "银河酷娱致歉",
-      "onboard_time": 1735728622,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 2077247,
@@ -603,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 494036,
+      "num": 494036,
+      "word": "成都Wolves对战MRC",
+      "onboard_time": 1735724360,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 485651,
       "num": 1061341,
       "word": "跨年烟花",
@@ -731,6 +739,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 409124,
+      "num": 409124,
+      "word": "银河酷娱",
+      "onboard_time": 1735729462,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 402722,
       "num": 402722,
       "word": "孙颖莎3比2王曼昱",
@@ -803,6 +819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 375927,
+      "num": 375927,
+      "word": "台下艺人看华晨宇舞台的反应",
+      "onboard_time": 1735729583,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 375611,
       "num": 375611,
       "word": "网购车厘子一整盒仅6颗大小达标",
@@ -833,6 +857,14 @@
       "onboard_time": 1735713858,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 362816,
+      "num": 193138,
+      "word": "唯一一个上班让老板亏钱的人",
+      "onboard_time": 1735728681,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 362317,
@@ -923,12 +955,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 327192,
-      "num": 327192,
-      "word": "成都Wolves对战MRC",
-      "onboard_time": 1735724360,
-      "rank": 34,
-      "category": "电竞"
+      "raw_hot": 327062,
+      "num": 285768,
+      "word": "韩国空难最小遇难者生前最后照片",
+      "onboard_time": 1735730541,
+      "rank": 10,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 324813,
@@ -945,14 +977,6 @@
       "onboard_time": 1735659146,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 319437,
-      "num": 168590,
-      "word": "唯一一个上班让老板亏钱的人",
-      "onboard_time": 1735728681,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 312365,
@@ -1027,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 287322,
+      "num": 287322,
+      "word": "抑郁症",
+      "onboard_time": 1735729883,
+      "rank": 28,
+      "category": "艺人,健康医疗"
+    },
+    {
       "raw_hot": 280633,
       "num": 280633,
       "word": "虞书欣2025第一个变装视频",
@@ -1059,6 +1091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269921,
+      "num": 269921,
+      "word": "王曼昱回应决胜场争议判罚",
+      "onboard_time": 1735729522,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 265897,
       "num": 265897,
       "word": "DQ Chiikawa",
@@ -1076,7 +1116,7 @@
     },
     {
       "raw_hot": 260071,
-      "num": 179342,
+      "num": 188793,
       "word": "53岁员工因公司打分制离职",
       "onboard_time": 1735727542,
       "rank": 22,
@@ -1201,14 +1241,6 @@
       "onboard_time": 1735698081,
       "rank": 25,
       "category": "军事"
-    },
-    {
-      "raw_hot": 226255,
-      "num": 226255,
-      "word": "银河酷娱",
-      "onboard_time": 1735729462,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 224776,
@@ -1347,6 +1379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206758,
+      "num": 206758,
+      "word": "王楚钦vs林诗栋",
+      "onboard_time": 1735729702,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205771,
       "num": 205771,
       "word": "朱锐为赵露思发声",
@@ -1411,6 +1451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197434,
+      "num": 197434,
+      "word": "王一博我在舞台播放破亿",
+      "onboard_time": 1735730301,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196902,
       "num": 196902,
       "word": "焉栩嘉直播全靠预制问题",
@@ -1459,14 +1507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192558,
-      "num": 192558,
-      "word": "台下艺人看华晨宇舞台的反应",
-      "onboard_time": 1735729583,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 191865,
       "num": 191865,
       "word": "元旦宝宝来报到了",
@@ -1507,12 +1547,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188129,
+      "num": 188129,
+      "word": "IVL",
+      "onboard_time": 1735730840,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 187568,
       "num": 187568,
       "word": "TizzyT跨年压轴连唱15首",
       "onboard_time": 1735719560,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 186938,
+      "num": 189991,
+      "word": "易烊千玺小小的我社会意义具象化",
+      "onboard_time": 1735730422,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 186725,
@@ -1619,6 +1675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175699,
+      "num": 175699,
+      "word": "唐九洲一晚上要惹多少祸",
+      "onboard_time": 1735726762,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175447,
       "num": 175447,
       "word": "国色芳华",
@@ -1649,14 +1713,6 @@
       "onboard_time": 1735724959,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 173257,
-      "num": 173257,
-      "word": "唐九洲一晚上要惹多少祸",
-      "onboard_time": 1735726762,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 172942,
@@ -1755,6 +1811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163895,
+      "num": 163895,
+      "word": "陈梦元旦发文",
+      "onboard_time": 1735730483,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163339,
       "num": 252782,
       "word": "果然数学的尽头是英语",
@@ -1763,12 +1827,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 161319,
-      "num": 161319,
-      "word": "抑郁症",
-      "onboard_time": 1735729883,
-      "rank": 28,
-      "category": "艺人,健康医疗"
+      "raw_hot": 162077,
+      "num": 162077,
+      "word": "江苏卫视跨年演唱会全域收视第1",
+      "onboard_time": 1735730123,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 161243,
@@ -1907,6 +1971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149027,
+      "num": 188991,
+      "word": "国产剧的新型活爹出现了",
+      "onboard_time": 1735729822,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148548,
       "num": 148548,
       "word": "元旦天安门升国旗仪式视频",
@@ -1979,14 +2051,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 142546,
-      "num": 142546,
-      "word": "国产剧的新型活爹出现了",
-      "onboard_time": 1735729822,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142096,
       "num": 142096,
       "word": "元旦让打工人实现了上四休三",
@@ -2003,20 +2067,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141009,
+      "num": 141009,
+      "word": "大奉打更人云合数据登顶",
+      "onboard_time": 1735728143,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140708,
       "num": 140708,
       "word": "黑神话千手观音 震撼",
       "onboard_time": 1735692259,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140625,
-      "num": 140625,
-      "word": "大奉打更人云合数据登顶",
-      "onboard_time": 1735728143,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 140298,
@@ -2163,14 +2227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 131419,
-      "num": 131419,
-      "word": "王曼昱回应决胜场争议判罚",
-      "onboard_time": 1735729522,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 131229,
       "num": 390652,
       "word": "新年第1个拥抱",
@@ -2193,6 +2249,14 @@
       "onboard_time": 1735726702,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130586,
+      "num": 130586,
+      "word": "邓紫棋 祝大家旧事已过都变成新的",
+      "onboard_time": 1735730722,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 128694,
@@ -2332,7 +2396,7 @@
     },
     {
       "raw_hot": 118674,
-      "num": 168331,
+      "num": 191827,
       "word": "孙颖莎绕场跑是给大家送祝福",
       "onboard_time": 1735726342,
       "rank": 44,
@@ -2377,6 +2441,14 @@
       "onboard_time": 1735663525,
       "rank": 28,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 116347,
+      "num": 116347,
+      "word": "时代少年团新年福袋",
+      "onboard_time": 1735730962,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 115856,
@@ -2507,6 +2579,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105997,
+      "num": 105997,
+      "word": "黄子华朱一龙同框",
+      "onboard_time": 1735730483,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 105994,
+      "num": 227046,
+      "word": "没买到直达火车票怎么办",
+      "onboard_time": 1735729342,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104899,
       "num": 104899,
       "word": "不知道的还以为马年要来了",
@@ -2537,22 +2625,6 @@
       "onboard_time": 1735662807,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102179,
-      "num": 171623,
-      "word": "王楚钦vs林诗栋",
-      "onboard_time": 1735729702,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 101582,
-      "num": 101582,
-      "word": "江苏卫视跨年演唱会全域收视第1",
-      "onboard_time": 1735730123,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 100272,
@@ -2627,6 +2699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88209,
+      "num": 197536,
+      "word": "pick你的2025新年主打歌",
+      "onboard_time": 1735731143,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 88075,
       "num": 178357,
       "word": "请查收来自边防线的新年祝福",
@@ -2656,14 +2736,6 @@
       "word": "一起向2025出发",
       "onboard_time": 1735661546,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 80896,
-      "num": 227046,
-      "word": "没买到直达火车票怎么办",
-      "onboard_time": 1735729342,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -2915,6 +2987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36316,
+      "num": 197444,
+      "word": "苔花公约",
+      "onboard_time": 1735730903,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 36256,
       "num": 384979,
       "word": "来自中国空间站的新年祝福太全面了",
@@ -3152,6 +3232,14 @@
       "word": "王楚钦抱着对胜利强烈的渴望面对决赛",
       "onboard_time": 1735676172,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 12503,
+      "num": 196807,
+      "word": "梁靖崑vs薛飞",
+      "onboard_time": 1735731084,
+      "rank": 19,
       "category": "体育"
     },
     {
