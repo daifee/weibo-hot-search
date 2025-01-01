@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/02 01:18:47
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/02 01:35:57
 </p>
 </blockquote>
 <p>
@@ -585,6 +585,12 @@ Angelababy沙漠神女（热度：605044）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B6%85%E5%B8%82%E5%9B%A0%E5%91%98%E5%B7%A5%E9%9B%86%E4%BD%93%E7%9B%97%E7%AA%83%E4%BA%8F%E6%8D%9F200%E4%B8%87%E5%80%92%E9%97%AD%23" target="weibo">
+超市因员工集体盗窃亏损200万倒闭（热度：493991）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B7%A8%E5%B9%B4%E7%83%9F%E8%8A%B1%23" target="weibo">
 跨年烟花（热度：485651）
 </a>
@@ -815,12 +821,6 @@ B站2024百大UP主（热度：469784）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E6%A0%A9%E4%BD%A0%E5%A5%BD%E4%BA%8B%E5%81%9A%E5%B0%BD%23" target="weibo">
 王一栩你好事做尽（热度：351740）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B6%85%E5%B8%82%E5%9B%A0%E5%91%98%E5%B7%A5%E9%9B%86%E4%BD%93%E7%9B%97%E7%AA%83%E4%BA%8F%E6%8D%9F200%E4%B8%87%E5%80%92%E9%97%AD%23" target="weibo">
-超市因员工集体盗窃亏损200万倒闭（热度：346317）
 </a>
 </li>
 
