@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735748807244,
+  "endTime": 1735749783442,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -99,8 +99,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1857996,
-      "num": 321953,
+      "raw_hot": 1908560,
+      "num": 322435,
       "word": "徐以若 赵露思",
       "onboard_time": 1735747999,
       "rank": 10,
@@ -588,7 +588,7 @@
     },
     {
       "raw_hot": 637501,
-      "num": 637501,
+      "num": 978757,
       "word": "张峻豪改名",
       "onboard_time": 1735746080,
       "rank": 1,
@@ -644,7 +644,7 @@
     },
     {
       "raw_hot": 597582,
-      "num": 329661,
+      "num": 505851,
       "word": "李炜回应",
       "onboard_time": 1735745121,
       "rank": 18,
@@ -1203,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 321893,
+      "num": 321893,
+      "word": "拖米",
+      "onboard_time": 1735745181,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 319077,
       "num": 362934,
       "word": "NAME晒虞书欣吴宣仪新年合照",
@@ -1211,20 +1219,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 316756,
+      "num": 459541,
+      "word": "王楚钦说林诗栋是国乒绝对主力",
+      "onboard_time": 1735747101,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 316243,
       "num": 316243,
       "word": "乒超MVP",
       "onboard_time": 1735741041,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 316033,
-      "num": 316033,
-      "word": "拖米",
-      "onboard_time": 1735745181,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 312365,
@@ -1411,14 +1419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 266885,
-      "num": 266885,
-      "word": "王楚钦说林诗栋是国乒绝对主力",
-      "onboard_time": 1735747101,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 265897,
       "num": 265897,
       "word": "DQ Chiikawa",
@@ -1577,6 +1577,14 @@
       "onboard_time": 1735663525,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 242048,
+      "num": 242048,
+      "word": "丈夫称烧伤妈妈皮肤不可能回到以前",
+      "onboard_time": 1735747879,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 241854,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735718839,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 164833,
-      "num": 164833,
-      "word": "元旦",
-      "onboard_time": 1735691599,
-      "rank": 35,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

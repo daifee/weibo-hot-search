@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735748807244,
+  "endTime": 1735749783442,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -427,20 +427,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1908560,
+      "num": 322435,
+      "word": "徐以若 赵露思",
+      "onboard_time": 1735747999,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1865951,
       "num": 1865951,
       "word": "江苏卫视跨年",
       "onboard_time": 1735643841,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1857996,
-      "num": 321953,
-      "word": "徐以若 赵露思",
-      "onboard_time": 1735747999,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1844918,
@@ -2004,7 +2004,7 @@
     },
     {
       "raw_hot": 637501,
-      "num": 637501,
+      "num": 978757,
       "word": "张峻豪改名",
       "onboard_time": 1735746080,
       "rank": 1,
@@ -2116,7 +2116,7 @@
     },
     {
       "raw_hot": 597582,
-      "num": 329661,
+      "num": 505851,
       "word": "李炜回应",
       "onboard_time": 1735745121,
       "rank": 18,
@@ -4219,6 +4219,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 321893,
+      "num": 321893,
+      "word": "拖米",
+      "onboard_time": 1735745181,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 321044,
       "num": 535067,
       "word": "虞书欣湖南卫视跨年晚会彩排",
@@ -4283,20 +4291,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 316756,
+      "num": 459541,
+      "word": "王楚钦说林诗栋是国乒绝对主力",
+      "onboard_time": 1735747101,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 316243,
       "num": 316243,
       "word": "乒超MVP",
       "onboard_time": 1735741041,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 316033,
-      "num": 316033,
-      "word": "拖米",
-      "onboard_time": 1735745181,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 315990,
@@ -5019,14 +5027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 266885,
-      "num": 266885,
-      "word": "王楚钦说林诗栋是国乒绝对主力",
-      "onboard_time": 1735747101,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 266775,
       "num": 266775,
       "word": "男童游乐场被陌生小孩从1米高台推下",
@@ -5601,6 +5601,14 @@
       "onboard_time": 1735663525,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 242048,
+      "num": 242048,
+      "word": "丈夫称烧伤妈妈皮肤不可能回到以前",
+      "onboard_time": 1735747879,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 241854,
@@ -8875,14 +8883,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 164280,
-      "num": 164280,
-      "word": "丈夫称烧伤妈妈皮肤不可能回到以前",
-      "onboard_time": 1735747879,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 164268,
       "num": 164268,
       "word": "阴阳师夏目友人帐联动",
@@ -10259,6 +10259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138864,
+      "num": 324214,
+      "word": "目击者称美冲撞行人司机下车后扫射人群",
+      "onboard_time": 1735747340,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 138838,
       "num": 138838,
       "word": "华晨宇贺峻霖跨年合唱",
@@ -11339,6 +11347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 115575,
+      "num": 115575,
+      "word": "康柏",
+      "onboard_time": 1735746740,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 115512,
       "num": 115512,
       "word": "张帅vs高芙",
@@ -11425,14 +11441,6 @@
       "onboard_time": 1735725199,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 111570,
-      "num": 111570,
-      "word": "康柏",
-      "onboard_time": 1735746740,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 111350,
@@ -11641,6 +11649,14 @@
       "onboard_time": 1735729342,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105631,
+      "num": 105631,
+      "word": "檀健次告别猎罪图鉴2",
+      "onboard_time": 1735749199,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 105383,
@@ -12228,7 +12244,7 @@
     },
     {
       "raw_hot": 84135,
-      "num": 93638,
+      "num": 139055,
       "word": "诺言告别eStar",
       "onboard_time": 1735747281,
       "rank": 41,
@@ -12417,14 +12433,6 @@
       "onboard_time": 1735396521,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 75588,
-      "num": 324214,
-      "word": "目击者称美冲撞行人司机下车后扫射人群",
-      "onboard_time": 1735747340,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 75131,
@@ -12889,6 +12897,14 @@
       "onboard_time": 1735535781,
       "rank": 26,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 59170,
+      "num": 83244,
+      "word": "王楚钦说以低姿态面对林诗栋",
+      "onboard_time": 1735749378,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 58867,
@@ -13545,6 +13561,14 @@
       "onboard_time": 1735618641,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41251,
+      "num": 322818,
+      "word": "美车辆冲撞行人事件目击者发声",
+      "onboard_time": 1735748898,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 40918,
