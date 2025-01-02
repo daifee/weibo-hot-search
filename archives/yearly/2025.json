@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735856449045,
+  "endTime": 1735857517437,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -2211,6 +2211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301432,
+      "num": 301432,
+      "word": "男子认亲成功16年后发现亲爹是假的",
+      "onboard_time": 1735844712,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 301278,
       "num": 301278,
       "word": "深圳大学vs山东鲁能",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735830321,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 271199,
-      "num": 271199,
-      "word": "张峻豪余宇涵明天地球要爆炸",
-      "onboard_time": 1735742843,
-      "rank": 23,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
