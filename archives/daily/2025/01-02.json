@@ -1,13 +1,29 @@
 {
   "startTime": 1735748807244,
-  "endTime": 1735783098787,
+  "endTime": 1735786313945,
   "band_list": [
+    {
+      "raw_hot": 9341756,
+      "num": 9341756,
+      "word": "于正问赵露思我怎么着你了",
+      "onboard_time": 1735784479,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 3850549,
       "num": 3850549,
       "word": "赵露思发长文回应",
       "onboard_time": 1735726580,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2183435,
+      "num": 1011633,
+      "word": "徐以若律师声明",
+      "onboard_time": 1735782440,
+      "rank": 1,
       "category": "艺人"
     },
     {
@@ -35,12 +51,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 935368,
-      "num": 935368,
-      "word": "徐以若律师声明",
-      "onboard_time": 1735782440,
+      "raw_hot": 1402746,
+      "num": 1402746,
+      "word": "银川地震",
+      "onboard_time": 1735783819,
       "rank": 1,
-      "category": "艺人"
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 955067,
+      "num": 955067,
+      "word": "15岁女孩以买方身份入院产子卖6万8",
+      "onboard_time": 1735785019,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 912714,
@@ -99,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 616301,
+      "num": 258600,
+      "word": "黄冠亨 叶舒华",
+      "onboard_time": 1735782858,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 600749,
       "num": 600749,
       "word": "丁克的李健抱着他绝育的猫",
@@ -139,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 509232,
+      "num": 509232,
+      "word": "银川4.9级左右地震",
+      "onboard_time": 1735785082,
+      "rank": 6,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 456734,
       "num": 319493,
       "word": "白敬亭宋轶同款比心",
@@ -153,6 +193,14 @@
       "onboard_time": 1735773735,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 435344,
+      "num": 191686,
+      "word": "留学生穿睡衣帮爸爸谈跨国生意",
+      "onboard_time": 1735785082,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 389785,
@@ -227,6 +275,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279296,
+      "num": 279296,
+      "word": "樊振东MLB中国区冠军荣耀大使",
+      "onboard_time": 1735786160,
+      "rank": 7,
+      "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 271785,
+      "num": 271785,
+      "word": "上海男子5元卖早高峰地铁座位",
+      "onboard_time": 1735785082,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 267771,
       "num": 267771,
       "word": "Angelababy沙漠神女",
@@ -243,6 +307,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 259351,
+      "num": 259351,
+      "word": "山西一产科医生涉嫌参与婴儿买卖",
+      "onboard_time": 1735785019,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 241016,
       "num": 241016,
       "word": "B站2024百大UP主",
@@ -257,6 +329,14 @@
       "onboard_time": 1735733721,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 237500,
+      "num": 237500,
+      "word": "BLACKPINK5月完整体回归",
+      "onboard_time": 1735785019,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 230329,
@@ -339,6 +419,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 192836,
+      "num": 192836,
+      "word": "何秋亊精神状态",
+      "onboard_time": 1735782618,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 188446,
       "num": 188446,
       "word": "赵本山还是太超前了",
@@ -353,6 +441,22 @@
       "onboard_time": 1735781539,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181852,
+      "num": 181852,
+      "word": "网友说周三放假很科学",
+      "onboard_time": 1735784479,
+      "rank": 32,
+      "category": "民生新闻,议题讨论"
+    },
+    {
+      "raw_hot": 177121,
+      "num": 191556,
+      "word": "王楚钦看到梁靖崑采访座位低头一笑",
+      "onboard_time": 1735785082,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 174932,
@@ -387,6 +491,30 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 165985,
+      "num": 165985,
+      "word": "糖丸爷爷顾方舟逝世6周年",
+      "onboard_time": 1735786160,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158304,
+      "num": 158304,
+      "word": "德国居民排队14小时买1600欧烟花",
+      "onboard_time": 1735781059,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 154086,
+      "num": 154086,
+      "word": "今天缅怀糖丸爷爷顾方舟",
+      "onboard_time": 1735785201,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153889,
       "num": 153889,
       "word": "黄龄刘忻声音里带水印",
@@ -411,14 +539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148861,
-      "num": 148861,
-      "word": "黄冠亨 叶舒华",
-      "onboard_time": 1735782858,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 147431,
       "num": 147431,
       "word": "新华社解读马龙樊振东陈梦退出世排",
@@ -433,14 +553,6 @@
       "onboard_time": 1735779019,
       "rank": 32,
       "category": "教育"
-    },
-    {
-      "raw_hot": 143960,
-      "num": 143960,
-      "word": "何秋亊精神状态",
-      "onboard_time": 1735782618,
-      "rank": 33,
-      "category": "网红"
     },
     {
       "raw_hot": 142805,
@@ -465,6 +577,30 @@
       "onboard_time": 1735740443,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 141077,
+      "num": 190796,
+      "word": "黄奕把窗花戴头上",
+      "onboard_time": 1735785501,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 134766,
+      "num": 134766,
+      "word": "鸣潮",
+      "onboard_time": 1735785082,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 133233,
+      "num": 190371,
+      "word": "2025第一个工作日开始了",
+      "onboard_time": 1735786221,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132513,
@@ -523,12 +659,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 123937,
-      "num": 123937,
-      "word": "德国居民排队14小时买1600欧烟花",
-      "onboard_time": 1735781059,
-      "rank": 44,
-      "category": "海外新闻"
+      "raw_hot": 122183,
+      "num": 192733,
+      "word": "A股2025年第一个交易日",
+      "onboard_time": 1735785501,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 120489,
@@ -545,6 +681,14 @@
       "onboard_time": 1735748059,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119577,
+      "num": 119577,
+      "word": "网友喊话雷军开小米健身房",
+      "onboard_time": 1735785141,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 119217,
@@ -585,6 +729,14 @@
       "onboard_time": 1735746740,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 114565,
+      "num": 114565,
+      "word": "詹姆斯小儿子加盟亚利桑那大学",
+      "onboard_time": 1735785861,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 111651,
@@ -755,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73690,
+      "num": 246820,
+      "word": "乌海巴彦淖尔等地震感明显",
+      "onboard_time": 1735786041,
+      "rank": 14,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 60960,
       "num": 78871,
       "word": "王楚钦回应呐喊庆祝",
@@ -776,6 +936,14 @@
       "word": "王楚钦说以低姿态面对林诗栋",
       "onboard_time": 1735749378,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 58468,
+      "num": 190590,
+      "word": "箱根驿传",
+      "onboard_time": 1735785260,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -825,6 +993,14 @@
       "onboard_time": 1735774096,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 43924,
+      "num": 430473,
+      "word": "2025是一个什么年",
+      "onboard_time": 1735689617,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 43080,
@@ -899,6 +1075,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 30982,
+      "num": 192599,
+      "word": "了不起的马尾绣妈妈",
+      "onboard_time": 1735785141,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30421,
       "num": 54814,
       "word": "微博年度喜爱剧集",
@@ -937,14 +1121,6 @@
       "onboard_time": 1735772713,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 26878,
-      "num": 430473,
-      "word": "2025是一个什么年",
-      "onboard_time": 1735689617,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 24177,
@@ -1035,20 +1211,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 9187,
+      "num": 1032761,
+      "word": "2025拼出自己的高光时刻",
+      "onboard_time": 1735698440,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 8120,
       "num": 27155,
       "word": "能吃三碗饭的油焖大虾",
       "onboard_time": 1735770493,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 8012,
-      "num": 853109,
-      "word": "2025拼出自己的高光时刻",
-      "onboard_time": 1735698440,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 7181,

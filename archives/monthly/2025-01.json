@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735783098787,
+  "endTime": 1735786313945,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -24,6 +24,14 @@
       "word": "赵露思微博解了",
       "onboard_time": 1735718120,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 9341756,
+      "num": 9341756,
+      "word": "于正问赵露思我怎么着你了",
+      "onboard_time": 1735784479,
+      "rank": 0,
       "category": "艺人"
     },
     {
@@ -80,6 +88,14 @@
       "word": "张峻豪正式出道",
       "onboard_time": 1735737440,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2183435,
+      "num": 1011633,
+      "word": "徐以若律师声明",
+      "onboard_time": 1735782440,
+      "rank": 1,
       "category": "艺人"
     },
     {
@@ -185,6 +201,14 @@
       "onboard_time": 1735709360,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1402746,
+      "num": 1402746,
+      "word": "银川地震",
+      "onboard_time": 1735783819,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1391559,
@@ -355,12 +379,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 935368,
-      "num": 935368,
-      "word": "徐以若律师声明",
-      "onboard_time": 1735782440,
-      "rank": 1,
-      "category": "艺人"
+      "raw_hot": 955067,
+      "num": 955067,
+      "word": "15岁女孩以买方身份入院产子卖6万8",
+      "onboard_time": 1735785019,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 931934,
@@ -675,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 616301,
+      "num": 258600,
+      "word": "黄冠亨 叶舒华",
+      "onboard_time": 1735782858,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 610835,
       "num": 610835,
       "word": "王楚钦vs林诗栋",
@@ -793,6 +825,14 @@
       "onboard_time": 1735723640,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 509232,
+      "num": 509232,
+      "word": "银川4.9级左右地震",
+      "onboard_time": 1735785082,
+      "rank": 6,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 507092,
@@ -921,6 +961,14 @@
       "onboard_time": 1735702880,
       "rank": 13,
       "category": "军事"
+    },
+    {
+      "raw_hot": 435344,
+      "num": 191686,
+      "word": "留学生穿睡衣帮爸爸谈跨国生意",
+      "onboard_time": 1735785082,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 434386,
@@ -1491,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279296,
+      "num": 279296,
+      "word": "樊振东MLB中国区冠军荣耀大使",
+      "onboard_time": 1735786160,
+      "rank": 7,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 277666,
       "num": 202737,
       "word": "跨年晚会",
@@ -1521,6 +1577,14 @@
       "onboard_time": 1735660527,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 271785,
+      "num": 271785,
+      "word": "上海男子5元卖早高峰地铁座位",
+      "onboard_time": 1735785082,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 271199,
@@ -1585,6 +1649,14 @@
       "onboard_time": 1735662986,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 259351,
+      "num": 259351,
+      "word": "山西一产科医生涉嫌参与婴儿买卖",
+      "onboard_time": 1735785019,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 258361,
@@ -1721,6 +1793,14 @@
       "onboard_time": 1735726401,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 237500,
+      "num": 237500,
+      "word": "BLACKPINK5月完整体回归",
+      "onboard_time": 1735785019,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 235273,
@@ -2179,6 +2259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 192836,
+      "num": 192836,
+      "word": "何秋亊精神状态",
+      "onboard_time": 1735782618,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 191865,
       "num": 191865,
       "word": "元旦宝宝来报到了",
@@ -2315,6 +2403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181852,
+      "num": 181852,
+      "word": "网友说周三放假很科学",
+      "onboard_time": 1735784479,
+      "rank": 32,
+      "category": "民生新闻,议题讨论"
+    },
+    {
       "raw_hot": 181206,
       "num": 262234,
       "word": "孟佳 初代女团的实力",
@@ -2361,6 +2457,14 @@
       "onboard_time": 1735704439,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177121,
+      "num": 191556,
+      "word": "王楚钦看到梁靖崑采访座位低头一笑",
+      "onboard_time": 1735785082,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 176162,
@@ -2587,6 +2691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165985,
+      "num": 165985,
+      "word": "糖丸爷爷顾方舟逝世6周年",
+      "onboard_time": 1735786160,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165806,
       "num": 165806,
       "word": "感觉上海外滩有一亿个人在跨年",
@@ -2699,6 +2811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158304,
+      "num": 158304,
+      "word": "德国居民排队14小时买1600欧烟花",
+      "onboard_time": 1735781059,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 158276,
       "num": 239342,
       "word": "谁也不能阻挡祖国统一的历史大势",
@@ -2777,6 +2897,14 @@
       "onboard_time": 1735707261,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154086,
+      "num": 154086,
+      "word": "今天缅怀糖丸爷爷顾方舟",
+      "onboard_time": 1735785201,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153889,
@@ -2865,14 +2993,6 @@
       "onboard_time": 1735729822,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 148861,
-      "num": 148861,
-      "word": "黄冠亨 叶舒华",
-      "onboard_time": 1735782858,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 148548,
@@ -2971,14 +3091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143960,
-      "num": 143960,
-      "word": "何秋亊精神状态",
-      "onboard_time": 1735782618,
-      "rank": 33,
-      "category": "网红"
-    },
-    {
       "raw_hot": 143621,
       "num": 194390,
       "word": "家属称老人信养生馆治癌拒就医去世",
@@ -3017,6 +3129,14 @@
       "onboard_time": 1735670416,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 141077,
+      "num": 190796,
+      "word": "黄奕把窗花戴头上",
+      "onboard_time": 1735785501,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 141009,
@@ -3155,6 +3275,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 134766,
+      "num": 134766,
+      "word": "鸣潮",
+      "onboard_time": 1735785082,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 134751,
       "num": 134751,
       "word": "王楚钦大跨步极限救球好牛",
@@ -3177,6 +3305,14 @@
       "onboard_time": 1735725320,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 133233,
+      "num": 190371,
+      "word": "2025第一个工作日开始了",
+      "onboard_time": 1735786221,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133103,
@@ -3387,14 +3523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123937,
-      "num": 123937,
-      "word": "德国居民排队14小时买1600欧烟花",
-      "onboard_time": 1735781059,
-      "rank": 44,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 123648,
       "num": 123648,
       "word": "张婧仪周翊然水族馆六连拍",
@@ -3409,6 +3537,14 @@
       "onboard_time": 1735712000,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 122183,
+      "num": 192733,
+      "word": "A股2025年第一个交易日",
+      "onboard_time": 1735785501,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 122087,
@@ -3481,6 +3617,14 @@
       "onboard_time": 1735735041,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119577,
+      "num": 119577,
+      "word": "网友喊话雷军开小米健身房",
+      "onboard_time": 1735785141,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 119005,
@@ -3584,6 +3728,14 @@
       "word": "张帅vs高芙",
       "onboard_time": 1735725741,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114565,
+      "num": 114565,
+      "word": "詹姆斯小儿子加盟亚利桑那大学",
+      "onboard_time": 1735785861,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -3955,6 +4107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 73690,
+      "num": 246820,
+      "word": "乌海巴彦淖尔等地震感明显",
+      "onboard_time": 1735786041,
+      "rank": 14,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 72413,
       "num": 199553,
       "word": "一句话迎接2025",
@@ -4113,6 +4273,14 @@
       "onboard_time": 1735679951,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 58468,
+      "num": 190590,
+      "word": "箱根驿传",
+      "onboard_time": 1735785260,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 57303,
@@ -4433,6 +4601,14 @@
       "onboard_time": 1735754534,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 30982,
+      "num": 192599,
+      "word": "了不起的马尾绣妈妈",
+      "onboard_time": 1735785141,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30421,

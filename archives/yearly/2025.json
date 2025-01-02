@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735783098787,
+  "endTime": 1735786313945,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -24,6 +24,14 @@
       "word": "赵露思微博解了",
       "onboard_time": 1735718120,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 9341756,
+      "num": 9341756,
+      "word": "于正问赵露思我怎么着你了",
+      "onboard_time": 1735784479,
+      "rank": 0,
       "category": "艺人"
     },
     {
@@ -80,6 +88,14 @@
       "word": "张峻豪正式出道",
       "onboard_time": 1735737440,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2183435,
+      "num": 1011633,
+      "word": "徐以若律师声明",
+      "onboard_time": 1735782440,
+      "rank": 1,
       "category": "艺人"
     },
     {
@@ -185,6 +201,14 @@
       "onboard_time": 1735709360,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1402746,
+      "num": 1402746,
+      "word": "银川地震",
+      "onboard_time": 1735783819,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1391559,
@@ -355,12 +379,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 935368,
-      "num": 935368,
-      "word": "徐以若律师声明",
-      "onboard_time": 1735782440,
-      "rank": 1,
-      "category": "艺人"
+      "raw_hot": 955067,
+      "num": 955067,
+      "word": "15岁女孩以买方身份入院产子卖6万8",
+      "onboard_time": 1735785019,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 931934,
@@ -675,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 616301,
+      "num": 258600,
+      "word": "黄冠亨 叶舒华",
+      "onboard_time": 1735782858,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 610835,
       "num": 610835,
       "word": "王楚钦vs林诗栋",
@@ -793,6 +825,14 @@
       "onboard_time": 1735723640,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 509232,
+      "num": 509232,
+      "word": "银川4.9级左右地震",
+      "onboard_time": 1735785082,
+      "rank": 6,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 507092,
@@ -921,6 +961,14 @@
       "onboard_time": 1735702880,
       "rank": 13,
       "category": "军事"
+    },
+    {
+      "raw_hot": 435344,
+      "num": 191686,
+      "word": "留学生穿睡衣帮爸爸谈跨国生意",
+      "onboard_time": 1735785082,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 434386,
@@ -1491,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279296,
+      "num": 279296,
+      "word": "樊振东MLB中国区冠军荣耀大使",
+      "onboard_time": 1735786160,
+      "rank": 7,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 277666,
       "num": 202737,
       "word": "跨年晚会",
@@ -1521,6 +1577,14 @@
       "onboard_time": 1735660527,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 271785,
+      "num": 271785,
+      "word": "上海男子5元卖早高峰地铁座位",
+      "onboard_time": 1735785082,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 271199,
@@ -1585,6 +1649,14 @@
       "onboard_time": 1735662986,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 259351,
+      "num": 259351,
+      "word": "山西一产科医生涉嫌参与婴儿买卖",
+      "onboard_time": 1735785019,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 258361,
@@ -1721,6 +1793,14 @@
       "onboard_time": 1735726401,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 237500,
+      "num": 237500,
+      "word": "BLACKPINK5月完整体回归",
+      "onboard_time": 1735785019,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 235273,
@@ -2179,6 +2259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 192836,
+      "num": 192836,
+      "word": "何秋亊精神状态",
+      "onboard_time": 1735782618,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 191865,
       "num": 191865,
       "word": "元旦宝宝来报到了",
@@ -2313,94 +2401,6 @@
       "onboard_time": 1735716560,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 181206,
-      "num": 262234,
-      "word": "孟佳 初代女团的实力",
-      "onboard_time": 1735706360,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 179074,
-      "num": 179074,
-      "word": "陈幸同单打MVP",
-      "onboard_time": 1735719859,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 178067,
-      "num": 239503,
-      "word": "我们有个共同的家名叫中国",
-      "onboard_time": 1735663285,
-      "rank": 46,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 177831,
-      "num": 177831,
-      "word": "喻言在湖南跨年打工",
-      "onboard_time": 1735668737,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 177491,
-      "num": 177491,
-      "word": "山东魏桥队夺冠",
-      "onboard_time": 1735739541,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 177171,
-      "num": 177171,
-      "word": "小李子出演鱿鱼游戏3",
-      "onboard_time": 1735704439,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 176162,
-      "num": 196324,
-      "word": "邓亚萍称小胖今天状态并不太好",
-      "onboard_time": 1735656568,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 176159,
-      "num": 176159,
-      "word": "芒果男主持 杨淇源是谁啊",
-      "onboard_time": 1735666820,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 175699,
-      "num": 175699,
-      "word": "唐九洲一晚上要惹多少祸",
-      "onboard_time": 1735726762,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 175447,
-      "num": 175447,
-      "word": "国色芳华",
-      "onboard_time": 1735668858,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 174932,
-      "num": 174932,
-      "word": "余宇涵童禹坤认输舞台",
-      "onboard_time": 1735747939,
-      "rank": 22,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
