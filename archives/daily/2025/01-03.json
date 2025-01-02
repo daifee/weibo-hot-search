@@ -1,6 +1,6 @@
 {
   "startTime": 1735835273269,
-  "endTime": 1735845449874,
+  "endTime": 1735846540528,
   "band_list": [
     {
       "raw_hot": 1058621,
@@ -451,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69514,
+      "num": 78778,
+      "word": "男子认亲成功16年后发现亲爹是假的",
+      "onboard_time": 1735844712,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59854,
       "num": 606814,
       "word": "这就是咱中国人的独家浪漫",
@@ -465,6 +473,14 @@
       "onboard_time": 1735834039,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 52217,
+      "num": 52217,
+      "word": "银川地震震中附近小学老师发声",
+      "onboard_time": 1735843272,
+      "rank": 24,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 50710,
@@ -483,14 +499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 48006,
-      "num": 48006,
-      "word": "银川地震震中附近小学老师发声",
-      "onboard_time": 1735843272,
-      "rank": 24,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 48000,
       "num": 48000,
       "word": "2025好运连连",
@@ -499,19 +507,19 @@
       "category": "民生新闻,情感"
     },
     {
-      "raw_hot": 31900,
-      "num": 78778,
-      "word": "男子认亲成功16年后发现亲爹是假的",
-      "onboard_time": 1735844712,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29732,
       "num": 89402,
       "word": "银川辟谣一小区因地震有房屋倒塌",
       "onboard_time": 1735841353,
       "rank": 14,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 19235,
+      "num": 20742,
+      "word": "银川一小区因地震瓦檐掉落",
+      "onboard_time": 1735845552,
+      "rank": 46,
       "category": "突发/灾害"
     },
     {
@@ -537,6 +545,14 @@
       "onboard_time": 1735838475,
       "rank": 24,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 13011,
+      "num": 67206,
+      "word": "召之即来来之能战战之必胜",
+      "onboard_time": 1735846151,
+      "rank": 9,
+      "category": "军事"
     }
   ],
   "hotgov_list": [
