@@ -1,6 +1,6 @@
 {
   "startTime": 1735835273269,
-  "endTime": 1735857517437,
+  "endTime": 1735860078523,
   "band_list": [
     {
       "raw_hot": 1058621,
@@ -27,20 +27,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 754499,
+      "num": 815164,
+      "word": "男子认亲成功16年后发现亲爹是假的",
+      "onboard_time": 1735844712,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 752342,
+      "num": 752342,
+      "word": "上4休3的好处已经显现出来了",
+      "onboard_time": 1735816100,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 590452,
       "num": 590452,
       "word": "医院宣传语称堕胎斩断男方祖宗血脉",
       "onboard_time": 1735827442,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 582249,
-      "num": 582249,
-      "word": "上4休3的好处已经显现出来了",
-      "onboard_time": 1735816100,
-      "rank": 3,
-      "category": "情感"
     },
     {
       "raw_hot": 531762,
@@ -123,6 +131,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 313318,
+      "num": 313318,
+      "word": "超市丢千万元托盘让全员每人赔500",
+      "onboard_time": 1735830321,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 311950,
       "num": 311950,
       "word": "外国网红猫女去世",
@@ -139,14 +155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 301432,
-      "num": 301432,
-      "word": "男子认亲成功16年后发现亲爹是假的",
-      "onboard_time": 1735844712,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 296228,
       "num": 296228,
       "word": "地震局称银川进入地震窗口期",
@@ -161,14 +169,6 @@
       "onboard_time": 1735818620,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 273034,
-      "num": 273034,
-      "word": "超市丢千万元托盘让全员每人赔500",
-      "onboard_time": 1735830321,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 268390,
@@ -211,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215795,
+      "num": 215795,
+      "word": "韩国空难遇难者有一名泰籍华人",
+      "onboard_time": 1735834339,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 202615,
       "num": 202615,
       "word": "赵露思抑郁症",
@@ -225,6 +233,14 @@
       "onboard_time": 1735827020,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191832,
+      "num": 191832,
+      "word": "脑瘫很难在孕产检中被直接发现",
+      "onboard_time": 1735832300,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 191396,
@@ -275,6 +291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154088,
+      "num": 154088,
+      "word": "教育局回应学校工作人员向老人泼水",
+      "onboard_time": 1735849811,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153536,
       "num": 153536,
       "word": "网传泸溪河鸡蛋糕吃出钉子",
@@ -307,28 +331,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 146460,
-      "num": 146460,
-      "word": "脑瘫很难在孕产检中被直接发现",
-      "onboard_time": 1735832300,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 145347,
       "num": 145347,
       "word": "向前女友泼汽油男子被判12年",
       "onboard_time": 1735826541,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 139477,
-      "num": 139477,
-      "word": "韩国空难遇难者有一名泰籍华人",
-      "onboard_time": 1735834339,
-      "rank": 41,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 128356,
@@ -339,12 +347,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 124040,
+      "num": 124040,
+      "word": "辽宁一大货车起火爆炸多车被引燃",
+      "onboard_time": 1735853112,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 117112,
       "num": 197867,
       "word": "新的一年从这3件事开始",
       "onboard_time": 1735833497,
       "rank": 28,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 111832,
+      "num": 111832,
+      "word": "肖战蝉联第6年世首帅",
+      "onboard_time": 1735847592,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 110837,
@@ -396,7 +420,7 @@
     },
     {
       "raw_hot": 102251,
-      "num": 102251,
+      "num": 106403,
       "word": "微博之夜马嘉祺的赛博搭子",
       "onboard_time": 1735832839,
       "rank": 41,
@@ -443,12 +467,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93706,
+      "num": 346402,
+      "word": "韩国公调处出发执行尹锡悦逮捕令",
+      "onboard_time": 1735859416,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 85869,
       "num": 107376,
       "word": "央视新闻铁粉",
       "onboard_time": 1735836496,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81196,
+      "num": 81196,
+      "word": "16个新种蜘蛛以周杰伦歌命名",
+      "onboard_time": 1735857433,
+      "rank": 48,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 78288,
@@ -459,28 +499,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 77526,
-      "num": 77526,
-      "word": "辽宁一大货车起火爆炸多车被引燃",
-      "onboard_time": 1735853112,
-      "rank": 9,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 73146,
-      "num": 73146,
-      "word": "教育局回应学校工作人员向老人泼水",
-      "onboard_time": 1735849811,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 71418,
       "num": 223630,
       "word": "于正怒怼网友没做错干嘛不能说",
       "onboard_time": 1735835237,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67732,
+      "num": 67732,
+      "word": "东方甄选变火药桶让俞敏洪后悔创办",
+      "onboard_time": 1735848791,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 66738,
@@ -491,6 +523,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 64277,
+      "num": 64277,
+      "word": "95后脑瘫小伙因自己理发健身走红",
+      "onboard_time": 1735851138,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59854,
       "num": 606814,
       "word": "这就是咱中国人的独家浪漫",
@@ -499,20 +539,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 58206,
-      "num": 58206,
-      "word": "肖战蝉联第6年世首帅",
-      "onboard_time": 1735847592,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 57759,
       "num": 217112,
       "word": "微博之夜周深的赛博搭子",
       "onboard_time": 1735834039,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 56792,
+      "num": 56792,
+      "word": "冬夜老人躲角落里银行小姐姐出手了",
+      "onboard_time": 1735854670,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50710,
@@ -539,12 +579,44 @@
       "category": "民生新闻,情感"
     },
     {
-      "raw_hot": 42861,
-      "num": 42861,
-      "word": "95后脑瘫小伙因自己理发健身走红",
-      "onboard_time": 1735851138,
-      "rank": 20,
+      "raw_hot": 46548,
+      "num": 123875,
+      "word": "2025年开工大吉",
+      "onboard_time": 1735859716,
+      "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38085,
+      "num": 49240,
+      "word": "papi酱 可能杨子这就是专业吧",
+      "onboard_time": 1735859655,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 37390,
+      "num": 49203,
+      "word": "银川又震440名消防员已集结完毕",
+      "onboard_time": 1735849451,
+      "rank": 37,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 34887,
+      "num": 123993,
+      "word": "广东过年吃饭相当于讲吉祥话",
+      "onboard_time": 1735858754,
+      "rank": 20,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 34761,
+      "num": 49172,
+      "word": "2024年新华社年度照片",
+      "onboard_time": 1735857552,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 33035,
@@ -563,28 +635,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 32661,
-      "num": 32661,
-      "word": "东方甄选变火药桶让俞敏洪后悔创办",
-      "onboard_time": 1735848791,
-      "rank": 45,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 29732,
       "num": 89402,
       "word": "银川辟谣一小区因地震有房屋倒塌",
       "onboard_time": 1735841353,
       "rank": 14,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 28136,
-      "num": 46494,
-      "word": "冬夜老人躲角落里银行小姐姐出手了",
-      "onboard_time": 1735854670,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26247,
@@ -595,28 +651,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 24402,
-      "num": 24402,
-      "word": "银川又震440名消防员已集结完毕",
-      "onboard_time": 1735849451,
-      "rank": 37,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 23502,
       "num": 23502,
       "word": "中国顶尖舞者推广大使王一博",
       "onboard_time": 1735856352,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 22766,
-      "num": 23501,
-      "word": "16个新种蜘蛛以周杰伦歌命名",
-      "onboard_time": 1735857433,
-      "rank": 48,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 22085,
