@@ -1,6 +1,6 @@
 {
   "startTime": 1735835273269,
-  "endTime": 1735846540528,
+  "endTime": 1735849426082,
   "band_list": [
     {
       "raw_hot": 1058621,
@@ -307,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142930,
+      "num": 142930,
+      "word": "男子认亲成功16年后发现亲爹是假的",
+      "onboard_time": 1735844712,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139477,
       "num": 139477,
       "word": "韩国空难遇难者有一名泰籍华人",
@@ -451,12 +459,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 69514,
-      "num": 78778,
-      "word": "男子认亲成功16年后发现亲爹是假的",
-      "onboard_time": 1735844712,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 66738,
+      "num": 66738,
+      "word": "银川地震震中附近小学老师发声",
+      "onboard_time": 1735843272,
+      "rank": 24,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 59854,
@@ -473,14 +481,6 @@
       "onboard_time": 1735834039,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 52217,
-      "num": 52217,
-      "word": "银川地震震中附近小学老师发声",
-      "onboard_time": 1735843272,
-      "rank": 24,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 50710,
@@ -507,6 +507,22 @@
       "category": "民生新闻,情感"
     },
     {
+      "raw_hot": 31584,
+      "num": 31584,
+      "word": "银川本次地震系中级浅表地震",
+      "onboard_time": 1735846751,
+      "rank": 21,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 30526,
+      "num": 30526,
+      "word": "肖战蝉联第6年世首帅",
+      "onboard_time": 1735847592,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29732,
       "num": 89402,
       "word": "银川辟谣一小区因地震有房屋倒塌",
@@ -515,8 +531,8 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 19235,
-      "num": 20742,
+      "raw_hot": 22085,
+      "num": 25227,
       "word": "银川一小区因地震瓦檐掉落",
       "onboard_time": 1735845552,
       "rank": 46,
@@ -529,6 +545,22 @@
       "onboard_time": 1735837275,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16464,
+      "num": 16464,
+      "word": "东方甄选变火药桶让俞敏洪后悔创办",
+      "onboard_time": 1735848791,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 15608,
+      "num": 61079,
+      "word": "银川市民讲述4.8级地震瞬间",
+      "onboard_time": 1735848612,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 13596,
