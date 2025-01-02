@@ -1,0 +1,410 @@
+{
+  "runTime": 1735796345294,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1220260,
+        "num": 1220260,
+        "word": "苹果官网突然降价",
+        "onboard_time": 1735786459,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 650410,
+        "num": 650410,
+        "word": "韩国9名家人遇难的小狗已被收养",
+        "onboard_time": 1735793543,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 19842,
+        "num": 616977,
+        "word": "足迹2024",
+        "onboard_time": 1735788561,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 601983,
+        "num": 601983,
+        "word": "自驾阿姨苏敏称已转给男方16万",
+        "onboard_time": 1735791686,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 547931,
+        "num": 547931,
+        "word": "女员工伪造怀孕B超单逃避服刑",
+        "onboard_time": 1735793783,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 546832,
+        "num": 546832,
+        "word": "上2休1再上2好潮",
+        "onboard_time": 1735777638,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 502952,
+        "num": 502952,
+        "word": "十个勤天 春晚",
+        "onboard_time": 1735791686,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 453604,
+        "num": 453604,
+        "word": "肖战倪妮隔窗对视",
+        "onboard_time": 1735790240,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 390448,
+        "num": 453571,
+        "word": "再见爱人",
+        "onboard_time": 1735793243,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298164,
+        "num": 453528,
+        "word": "微博之夜猜阵容",
+        "onboard_time": 1735792104,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4654923,
+        "num": 453490,
+        "word": "于正问赵露思我怎么着你了",
+        "onboard_time": 1735784479,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518157,
+        "num": 453479,
+        "word": "欧阳妮妮生子",
+        "onboard_time": 1735793783,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 453443,
+        "num": 453443,
+        "word": "拍照时左右脸不对称的人有福了",
+        "onboard_time": 1735792763,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 395915,
+        "num": 395915,
+        "word": "男子跨年夜对近9万气球喷射加特林",
+        "onboard_time": 1735794861,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36256,
+        "num": 371311,
+        "word": "韩国执政党总部遭遇炸弹威胁",
+        "onboard_time": 1735795703,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 363202,
+        "num": 363202,
+        "word": "第一次见长发穿裙子的孙颖莎",
+        "onboard_time": 1735786339,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287546,
+        "num": 287546,
+        "word": "小S晒了全家福",
+        "onboard_time": 1735794562,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277983,
+        "num": 277983,
+        "word": "黄冠亨 叶舒华",
+        "onboard_time": 1735782858,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132805,
+        "num": 277166,
+        "word": "大奉打更人",
+        "onboard_time": 1735795100,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181552,
+        "num": 270740,
+        "word": "再上18天班就过年了",
+        "onboard_time": 1735793363,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 834896,
+        "num": 265533,
+        "word": "徐以若律师声明",
+        "onboard_time": 1735782440,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 666162,
+        "num": 257419,
+        "word": "张颂文",
+        "onboard_time": 1735778299,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254076,
+        "num": 254076,
+        "word": "芒果影视台 真干不了退圈不就行",
+        "onboard_time": 1735795942,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73710,
+        "num": 250063,
+        "word": "银川地震当地震感强烈",
+        "onboard_time": 1735796242,
+        "rank": 23,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 114637,
+        "num": 248022,
+        "word": "孙颖莎喊你接好运",
+        "onboard_time": 1735794983,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227597,
+        "num": 247672,
+        "word": "迪丽热巴人鱼美杜莎",
+        "onboard_time": 1735795703,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 247672,
+        "num": 247671,
+        "word": "金星到底有多恐怖",
+        "onboard_time": 1735773675,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 219907,
+        "num": 244423,
+        "word": "医生解读赵露思病情",
+        "onboard_time": 1735796001,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200519,
+        "num": 241922,
+        "word": "孟子义李昀锐都参加微博之夜",
+        "onboard_time": 1735794261,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217453,
+        "num": 241827,
+        "word": "春晚彩排",
+        "onboard_time": 1735791262,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241806,
+        "num": 241806,
+        "word": "抑郁症患者会无意识做哪些事",
+        "onboard_time": 1735791262,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 227949,
+        "num": 227949,
+        "word": "元旦上4休3体验感如何",
+        "onboard_time": 1735786941,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221207,
+        "num": 221207,
+        "word": "徐以若",
+        "onboard_time": 1735773735,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217902,
+        "num": 217902,
+        "word": "A股",
+        "onboard_time": 1735783578,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 212734,
+        "num": 212734,
+        "word": "鹿晗高瀚宇眉钉大片",
+        "onboard_time": 1735791143,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 200708,
+        "num": 200708,
+        "word": "十个勤天蛇年春晚彩排路透",
+        "onboard_time": 1735795643,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187545,
+        "num": 187545,
+        "word": "霉霉登上央视2024世界新闻年鉴",
+        "onboard_time": 1735794443,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179044,
+        "num": 179044,
+        "word": "毛不易 雪琴我那么握因为我是独唱",
+        "onboard_time": 1735796001,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178267,
+        "num": 178267,
+        "word": "银川地震",
+        "onboard_time": 1735783819,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177998,
+        "num": 177998,
+        "word": "花1万8去俄罗斯玩了一周",
+        "onboard_time": 1735787961,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 15674,
+        "num": 175602,
+        "word": "雷佳音开年头一单",
+        "onboard_time": 1735792525,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173867,
+        "num": 173867,
+        "word": "王子文签约和颂",
+        "onboard_time": 1735791985,
+        "rank": 41,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 172196,
+        "num": 172196,
+        "word": "孙颖莎 OLAY",
+        "onboard_time": 1735793543,
+        "rank": 42,
+        "category": "体育,美妆"
+      },
+      {
+        "raw_hot": 167372,
+        "num": 167372,
+        "word": "没人能顺利念出这个电影名字",
+        "onboard_time": 1735796182,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145018,
+        "num": 145018,
+        "word": "绘旅人怪谈游荡之森",
+        "onboard_time": 1735795942,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143737,
+        "num": 143737,
+        "word": "秦彻 我停不下来",
+        "onboard_time": 1735793243,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143540,
+        "num": 143540,
+        "word": "女子在外打工家里住十几个陌生人",
+        "onboard_time": 1735787061,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139597,
+        "num": 139597,
+        "word": "史上最薄iPhone渲染图来了",
+        "onboard_time": 1735788262,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 139404,
+        "num": 139404,
+        "word": "王一博微指破八亿",
+        "onboard_time": 1735793125,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138290,
+        "num": 138290,
+        "word": "眠狼画了迪丽热巴贺思慕",
+        "onboard_time": 1735793363,
+        "rank": 49,
+        "category": "剧集,动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025新年贺词#"
+    }
+  }
+}

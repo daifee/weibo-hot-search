@@ -1,6 +1,6 @@
 {
   "startTime": 1735748807244,
-  "endTime": 1735795297452,
+  "endTime": 1735796345294,
   "band_list": [
     {
       "raw_hot": 10019281,
@@ -147,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 650410,
+      "num": 650410,
+      "word": "韩国9名家人遇难的小狗已被收养",
+      "onboard_time": 1735793543,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 645882,
       "num": 645882,
       "word": "自驾阿姨苏敏称已转给男方16万",
@@ -177,14 +185,6 @@
       "onboard_time": 1735773735,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 622007,
-      "num": 622007,
-      "word": "韩国9名家人遇难的小狗已被收养",
-      "onboard_time": 1735793543,
-      "rank": 3,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 616301,
@@ -267,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 453443,
+      "num": 453443,
+      "word": "拍照时左右脸不对称的人有福了",
+      "onboard_time": 1735792763,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 444758,
       "num": 444758,
       "word": "向太说控制不住向佐的抽象",
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 442986,
-      "num": 442986,
+      "num": 453571,
       "word": "再见爱人",
       "onboard_time": 1735793243,
       "rank": 12,
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 411522,
-      "num": 411522,
+      "num": 453528,
       "word": "微博之夜猜阵容",
       "onboard_time": 1735792104,
       "rank": 28,
@@ -307,8 +315,16 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 395915,
+      "num": 395915,
+      "word": "男子跨年夜对近9万气球喷射加特林",
+      "onboard_time": 1735794861,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 389785,
-      "num": 224619,
+      "num": 247671,
       "word": "金星到底有多恐怖",
       "onboard_time": 1735773675,
       "rank": 21,
@@ -321,14 +337,6 @@
       "onboard_time": 1735785082,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 370481,
-      "num": 370481,
-      "word": "拍照时左右脸不对称的人有福了",
-      "onboard_time": 1735792763,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 359981,
@@ -443,6 +451,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 287546,
+      "num": 287546,
+      "word": "小S晒了全家福",
+      "onboard_time": 1735794562,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284141,
       "num": 284141,
       "word": "丈夫称烧伤妈妈皮肤不可能回到以前",
@@ -457,14 +473,6 @@
       "onboard_time": 1735776979,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 275708,
-      "num": 239893,
-      "word": "小S晒了全家福",
-      "onboard_time": 1735794562,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 269792,
@@ -499,6 +507,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 254076,
+      "num": 254076,
+      "word": "芒果影视台 真干不了退圈不就行",
+      "onboard_time": 1735795942,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253089,
       "num": 315758,
       "word": "王子文签约和颂",
@@ -507,8 +523,8 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 241160,
-      "num": 241160,
+      "raw_hot": 241806,
+      "num": 241806,
       "word": "抑郁症患者会无意识做哪些事",
       "onboard_time": 1735791262,
       "rank": 31,
@@ -555,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227597,
+      "num": 247672,
+      "word": "迪丽热巴人鱼美杜莎",
+      "onboard_time": 1735795703,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 227518,
       "num": 324214,
       "word": "目击者称美冲撞行人司机下车后扫射人群",
@@ -579,14 +603,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 224906,
-      "num": 224906,
-      "word": "男子跨年夜对近9万气球喷射加特林",
-      "onboard_time": 1735794861,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 224760,
       "num": 235762,
       "word": "孙颖莎 OLAY",
@@ -601,6 +617,22 @@
       "onboard_time": 1735775178,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 219907,
+      "num": 244423,
+      "word": "医生解读赵露思病情",
+      "onboard_time": 1735796001,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 217902,
+      "num": 217902,
+      "word": "A股",
+      "onboard_time": 1735783578,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 217673,
@@ -676,7 +708,7 @@
     },
     {
       "raw_hot": 204084,
-      "num": 204084,
+      "num": 241922,
       "word": "孟子义李昀锐都参加微博之夜",
       "onboard_time": 1735794261,
       "rank": 34,
@@ -713,6 +745,14 @@
       "onboard_time": 1735793363,
       "rank": 29,
       "category": "剧集,动漫"
+    },
+    {
+      "raw_hot": 200708,
+      "num": 200708,
+      "word": "十个勤天蛇年春晚彩排路透",
+      "onboard_time": 1735795643,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 200680,
@@ -763,12 +803,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187545,
+      "num": 246896,
+      "word": "霉霉登上央视2024世界新闻年鉴",
+      "onboard_time": 1735794443,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187162,
       "num": 209322,
       "word": "方时赫 生活组",
       "onboard_time": 1735781539,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181552,
+      "num": 270740,
+      "word": "再上18天班就过年了",
+      "onboard_time": 1735793363,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181356,
@@ -785,6 +841,14 @@
       "onboard_time": 1735793962,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179044,
+      "num": 179044,
+      "word": "毛不易 雪琴我那么握因为我是独唱",
+      "onboard_time": 1735796001,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 177121,
@@ -857,6 +921,14 @@
       "onboard_time": 1735780938,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 167372,
+      "num": 167372,
+      "word": "没人能顺利念出这个电影名字",
+      "onboard_time": 1735796182,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 166132,
@@ -955,20 +1027,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145018,
+      "num": 145018,
+      "word": "绘旅人怪谈游荡之森",
+      "onboard_time": 1735795942,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 143588,
       "num": 143588,
       "word": "千朵桃花一世开",
       "onboard_time": 1735795222,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 143462,
-      "num": 143462,
-      "word": "再上18天班就过年了",
-      "onboard_time": 1735793363,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142805,
@@ -1003,12 +1075,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139404,
+      "num": 139404,
+      "word": "王一博微指破八亿",
+      "onboard_time": 1735793125,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134766,
       "num": 134766,
       "word": "鸣潮",
       "onboard_time": 1735785082,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 132805,
+      "num": 277166,
+      "word": "大奉打更人",
+      "onboard_time": 1735795100,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 132513,
@@ -1153,6 +1241,14 @@
       "onboard_time": 1735746740,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 114637,
+      "num": 248022,
+      "word": "孙颖莎喊你接好运",
+      "onboard_time": 1735794983,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 114565,
@@ -1363,12 +1459,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 71389,
-      "num": 238067,
-      "word": "大奉打更人",
-      "onboard_time": 1735795100,
+      "raw_hot": 73710,
+      "num": 250063,
+      "word": "银川地震当地震感强烈",
+      "onboard_time": 1735796242,
       "rank": 23,
-      "category": "剧集"
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 66396,
@@ -1441,14 +1537,6 @@
       "onboard_time": 1735738161,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 57295,
-      "num": 246896,
-      "word": "霉霉登上央视2024世界新闻年鉴",
-      "onboard_time": 1735794443,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 54779,
@@ -1536,6 +1624,14 @@
       "word": "德国柏林发生持刀袭击事件",
       "onboard_time": 1735774456,
       "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 36256,
+      "num": 371311,
+      "word": "韩国执政党总部遭遇炸弹威胁",
+      "onboard_time": 1735795703,
+      "rank": 14,
       "category": "国际时政"
     },
     {
