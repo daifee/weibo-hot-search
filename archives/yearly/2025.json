@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735816723739,
+  "endTime": 1735817741682,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 3865281,
-      "num": 264548,
+      "num": 282634,
       "word": "于正刚和赵露思聊了一小时",
       "onboard_time": 1735814900,
       "rank": 10,
@@ -1107,6 +1107,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 509195,
+      "num": 448657,
+      "word": "谢娜何炅是一辈子的好朋友",
+      "onboard_time": 1735815200,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 507092,
       "num": 305310,
       "word": "女子捡漏30万黄金女儿怕诈骗急哭",
@@ -1233,14 +1241,6 @@
       "onboard_time": 1735659686,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 448657,
-      "num": 448657,
-      "word": "谢娜何炅是一辈子的好朋友",
-      "onboard_time": 1735815200,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 446361,
@@ -1395,6 +1395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 408527,
+      "num": 408527,
+      "word": "理发师晓华爆改外国人",
+      "onboard_time": 1735816639,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 406189,
       "num": 533971,
       "word": "王楚钦2025第1天夺冠",
@@ -1449,6 +1457,14 @@
       "onboard_time": 1735667418,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 390690,
+      "num": 282486,
+      "word": "上4休3的好处已经显现出来了",
+      "onboard_time": 1735816100,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 389785,
@@ -1520,6 +1536,14 @@
       "word": "网购车厘子一整盒仅6颗大小达标",
       "onboard_time": 1735703540,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 375524,
+      "num": 375524,
+      "word": "做腊肉引发火灾上千斤全部报废",
+      "onboard_time": 1735814779,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -1697,6 +1721,14 @@
       "onboard_time": 1735690459,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 335918,
+      "num": 335918,
+      "word": "温以凡也暗恋了桑延九年",
+      "onboard_time": 1735814361,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 335709,
@@ -1881,14 +1913,6 @@
       "onboard_time": 1735660226,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 305851,
-      "num": 305851,
-      "word": "温以凡也暗恋了桑延九年",
-      "onboard_time": 1735814361,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 305493,
@@ -2131,14 +2155,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 264299,
-      "num": 264299,
-      "word": "上4休3的好处已经显现出来了",
-      "onboard_time": 1735816100,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 263825,
       "num": 725705,
       "word": "2025第1条微博",
@@ -2323,6 +2339,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 242252,
+      "num": 264466,
+      "word": "微博禁言800余个账号",
+      "onboard_time": 1735811600,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 242065,
       "num": 242065,
       "word": "2025",
@@ -2363,14 +2387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 237264,
-      "num": 264466,
-      "word": "微博禁言800余个账号",
-      "onboard_time": 1735811600,
-      "rank": 45,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 235273,
       "num": 235273,
       "word": "周也翟潇闻吻戏路透",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1735698081,
       "rank": 25,
       "category": "军事"
-    },
-    {
-      "raw_hot": 230542,
-      "num": 230542,
-      "word": "跨晚男明星微指",
-      "onboard_time": 1735792043,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 227518,
-      "num": 324214,
-      "word": "目击者称美冲撞行人司机下车后扫射人群",
-      "onboard_time": 1735747340,
-      "rank": 9,
-      "category": "海外新闻"
     }
   ],
   "hotgov_list": [
