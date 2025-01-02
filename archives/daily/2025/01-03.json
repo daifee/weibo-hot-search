@@ -1,6 +1,6 @@
 {
   "startTime": 1735835273269,
-  "endTime": 1735849426082,
+  "endTime": 1735850238316,
   "band_list": [
     {
       "raw_hot": 1058621,
@@ -507,20 +507,20 @@
       "category": "民生新闻,情感"
     },
     {
-      "raw_hot": 31584,
-      "num": 31584,
-      "word": "银川本次地震系中级浅表地震",
-      "onboard_time": 1735846751,
-      "rank": 21,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 30526,
-      "num": 30526,
+      "raw_hot": 33032,
+      "num": 31882,
       "word": "肖战蝉联第6年世首帅",
       "onboard_time": 1735847592,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 32745,
+      "num": 32745,
+      "word": "银川本次地震系中级浅表地震",
+      "onboard_time": 1735846751,
+      "rank": 21,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 29732,
@@ -539,6 +539,22 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 20596,
+      "num": 20596,
+      "word": "银川又震440名消防员已集结完毕",
+      "onboard_time": 1735849451,
+      "rank": 37,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 20479,
+      "num": 61079,
+      "word": "银川市民讲述4.8级地震瞬间",
+      "onboard_time": 1735848612,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 17030,
       "num": 116269,
       "word": "赵睿停赛五场罚款10万",
@@ -547,20 +563,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 16464,
-      "num": 16464,
+      "raw_hot": 16894,
+      "num": 16894,
       "word": "东方甄选变火药桶让俞敏洪后悔创办",
       "onboard_time": 1735848791,
       "rank": 45,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 15608,
-      "num": 61079,
-      "word": "银川市民讲述4.8级地震瞬间",
-      "onboard_time": 1735848612,
-      "rank": 9,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 13596,
@@ -585,6 +593,14 @@
       "onboard_time": 1735846151,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 12658,
+      "num": 54081,
+      "word": "教育局回应学校工作人员向老人泼水",
+      "onboard_time": 1735849811,
+      "rank": 9,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
