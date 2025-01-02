@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735838361049,
+  "endTime": 1735839405265,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -10179,6 +10179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 170574,
+      "num": 288580,
+      "word": "被前男友泼汽油女子植皮12次",
+      "onboard_time": 1735837755,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170473,
       "num": 170473,
       "word": "网红称去云南被当猪仔卖后致歉",
@@ -16083,6 +16091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49657,
+      "num": 135940,
+      "word": "火星工作人员为赵露思发声",
+      "onboard_time": 1735837934,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49631,
       "num": 349983,
       "word": "蒯曼覃予萱vs陈熠刘炜珊",
@@ -16153,6 +16169,14 @@
       "onboard_time": 1735427833,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48000,
+      "num": 48000,
+      "word": "2025好运连连",
+      "onboard_time": 1735839374,
+      "rank": 49,
+      "category": "民生新闻,情感"
     },
     {
       "raw_hot": 47940,
@@ -16537,6 +16561,14 @@
       "onboard_time": 1735773735,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 40244,
+      "num": 80066,
+      "word": "宁夏启动四级地震应急响应",
+      "onboard_time": 1735839074,
+      "rank": 29,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 40048,
@@ -17112,14 +17144,6 @@
       "word": "这是2025年第一天的中国",
       "onboard_time": 1735770853,
       "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31673,
-      "num": 288580,
-      "word": "被前男友泼汽油女子植皮12次",
-      "onboard_time": 1735837755,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -18011,14 +18035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 21919,
-      "num": 135940,
-      "word": "火星工作人员为赵露思发声",
-      "onboard_time": 1735837934,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 21903,
       "num": 178481,
       "word": "白举纲吉他版你快乐所以我快乐",
@@ -18665,6 +18681,14 @@
       "onboard_time": 1735598653,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13252,
+      "num": 93130,
+      "word": "新年第一套look",
+      "onboard_time": 1735838475,
+      "rank": 24,
+      "category": "时尚"
     },
     {
       "raw_hot": 13250,
