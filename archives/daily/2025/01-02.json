@@ -1,6 +1,6 @@
 {
   "startTime": 1735748807244,
-  "endTime": 1735828706660,
+  "endTime": 1735831374903,
   "band_list": [
     {
       "raw_hot": 10019281,
@@ -195,6 +195,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1116150,
+      "num": 1116150,
+      "word": "医院宣传语称堕胎斩断男方祖宗血脉",
+      "onboard_time": 1735827442,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1045391,
       "num": 636415,
       "word": "黄多多近照",
@@ -241,6 +249,14 @@
       "onboard_time": 1735783578,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 918530,
+      "num": 918530,
+      "word": "留几手问葛夕能再要个孩子吗",
+      "onboard_time": 1735827501,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 918165,
@@ -321,14 +337,6 @@
       "onboard_time": 1735800682,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 757726,
-      "num": 580342,
-      "word": "留几手问葛夕能再要个孩子吗",
-      "onboard_time": 1735827501,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 728069,
@@ -532,7 +540,7 @@
     },
     {
       "raw_hot": 575841,
-      "num": 372762,
+      "num": 380691,
       "word": "上4休3的好处已经显现出来了",
       "onboard_time": 1735816100,
       "rank": 33,
@@ -555,12 +563,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 545526,
+      "num": 545526,
+      "word": "樊振东大雪压青松青松挺且直",
+      "onboard_time": 1735826361,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 544134,
       "num": 544134,
       "word": "姜涛 又要被人骂了",
       "onboard_time": 1735778780,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 526584,
+      "num": 526584,
+      "word": "滑翔伞坠落致教练和一女大学生身亡",
+      "onboard_time": 1735829240,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 516758,
@@ -593,14 +617,6 @@
       "onboard_time": 1735815200,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 501483,
-      "num": 501483,
-      "word": "樊振东大雪压青松青松挺且直",
-      "onboard_time": 1735826361,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 481989,
@@ -676,7 +692,7 @@
     },
     {
       "raw_hot": 434391,
-      "num": 339207,
+      "num": 417856,
       "word": "胡彦斌吧唧",
       "onboard_time": 1735826121,
       "rank": 24,
@@ -721,6 +737,14 @@
       "onboard_time": 1735792104,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 402772,
+      "num": 402772,
+      "word": "王安宇Vlog",
+      "onboard_time": 1735827020,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 400256,
@@ -771,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 363147,
+      "num": 363147,
+      "word": "向前女友泼汽油男子被判12年",
+      "onboard_time": 1735826541,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 359981,
       "num": 505211,
       "word": "女子在外打工家里住十几个陌生人",
@@ -787,12 +819,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 355729,
+      "num": 355729,
+      "word": "年前金价下跌年轻人再掀淘金热",
+      "onboard_time": 1735829661,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 355023,
       "num": 264922,
       "word": "A股新变化",
       "onboard_time": 1735800199,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 352456,
+      "num": 352456,
+      "word": "车厘子一降价就知道要过年了",
+      "onboard_time": 1735829481,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 352136,
@@ -809,14 +857,6 @@
       "onboard_time": 1735807821,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 340738,
-      "num": 340738,
-      "word": "医院宣传语称堕胎斩断男方祖宗血脉",
-      "onboard_time": 1735827442,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 337145,
@@ -963,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286588,
+      "num": 286588,
+      "word": "大奉男妲己翻车现场",
+      "onboard_time": 1735828281,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 284141,
       "num": 284141,
       "word": "丈夫称烧伤妈妈皮肤不可能回到以前",
@@ -1083,12 +1131,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 243607,
-      "num": 314086,
-      "word": "向前女友泼汽油男子被判12年",
-      "onboard_time": 1735826541,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 246335,
+      "num": 246335,
+      "word": "2025最容易成为富婆的星座",
+      "onboard_time": 1735829961,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 242252,
@@ -1163,6 +1211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 232348,
+      "num": 232348,
+      "word": "超市丢千万元托盘让全员每人赔500",
+      "onboard_time": 1735830321,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230542,
       "num": 230542,
       "word": "跨晚男明星微指",
@@ -1177,14 +1233,6 @@
       "onboard_time": 1735742241,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 228334,
-      "num": 228334,
-      "word": "王安宇Vlog",
-      "onboard_time": 1735827020,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 227518,
@@ -1627,6 +1675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184252,
+      "num": 460741,
+      "word": "中学录用13人无一师范毕业的冷思考",
+      "onboard_time": 1735830441,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181552,
       "num": 270740,
       "word": "再上18天班就过年了",
@@ -1657,14 +1713,6 @@
       "onboard_time": 1735812920,
       "rank": 35,
       "category": "财经"
-    },
-    {
-      "raw_hot": 179441,
-      "num": 179441,
-      "word": "大奉男妲己翻车现场",
-      "onboard_time": 1735828281,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 179264,
@@ -1721,6 +1769,14 @@
       "onboard_time": 1735801401,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173721,
+      "num": 173721,
+      "word": "徐克肖战合体送2025新年祝福",
+      "onboard_time": 1735831101,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 173654,
@@ -1899,6 +1955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164911,
+      "num": 164911,
+      "word": "乒超联赛票房收入近3000万元",
+      "onboard_time": 1735830862,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164586,
       "num": 317378,
       "word": "刘亦菲芭莎一月刊",
@@ -1977,6 +2041,14 @@
       "onboard_time": 1735822760,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155370,
+      "num": 155370,
+      "word": "虞书欣林一2025首cha",
+      "onboard_time": 1735829001,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 154315,
@@ -2187,6 +2259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141144,
+      "num": 461453,
+      "word": "杨妞花总结2024",
+      "onboard_time": 1735829661,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141077,
       "num": 201084,
       "word": "黄奕把窗花戴头上",
@@ -2225,6 +2305,14 @@
       "onboard_time": 1735793125,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138746,
+      "num": 138746,
+      "word": "人类对李川的开发不足1%",
+      "onboard_time": 1735831341,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 137984,
@@ -2401,6 +2489,14 @@
       "onboard_time": 1735785141,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 126489,
+      "num": 407462,
+      "word": "火星情报局导演给赵露思发声",
+      "onboard_time": 1735830981,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 126089,
@@ -2721,6 +2817,14 @@
       "onboard_time": 1735786041,
       "rank": 14,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 92898,
+      "num": 357215,
+      "word": "钱天一感谢全力以赴的自己",
+      "onboard_time": 1735831041,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 92745,
@@ -3049,6 +3153,14 @@
       "onboard_time": 1735810281,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 53432,
+      "num": 402878,
+      "word": "男子境外失联多日曾要求家人勿报警",
+      "onboard_time": 1735830142,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52740,
