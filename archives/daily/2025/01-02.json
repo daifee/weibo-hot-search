@@ -1,6 +1,6 @@
 {
   "startTime": 1735748807244,
-  "endTime": 1735807291930,
+  "endTime": 1735809792553,
   "band_list": [
     {
       "raw_hot": 10019281,
@@ -44,11 +44,19 @@
     },
     {
       "raw_hot": 2103658,
-      "num": 686817,
+      "num": 713869,
       "word": "虞书欣评论张彬彬",
       "onboard_time": 1735802482,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1939080,
+      "num": 1939080,
+      "word": "银川地震",
+      "onboard_time": 1735783819,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1911188,
@@ -99,14 +107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1402746,
-      "num": 1402746,
-      "word": "银川地震",
-      "onboard_time": 1735783819,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1274107,
       "num": 1020426,
       "word": "15岁女孩以买方身份入院产子卖6万8",
@@ -115,20 +115,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1259521,
+      "num": 1167843,
+      "word": "棣欣引力",
+      "onboard_time": 1735805060,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1159548,
       "num": 1159548,
       "word": "男子跨年夜对近9万气球喷射加特林",
       "onboard_time": 1735794861,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1049019,
-      "num": 1167843,
-      "word": "棣欣引力",
-      "onboard_time": 1735805060,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 981982,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 822895,
+      "num": 325969,
+      "word": "2025年不愧是蛇年太冷血了",
+      "onboard_time": 1735807461,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 822120,
       "num": 822120,
       "word": "老妻少夫26年丈夫为妻子留白发扮老",
@@ -185,6 +193,14 @@
       "onboard_time": 1735778299,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 806194,
+      "num": 806194,
+      "word": "禁止向28家美国实体出口两用物项",
+      "onboard_time": 1735807099,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 795291,
@@ -225,6 +241,14 @@
       "onboard_time": 1735778359,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 687034,
+      "num": 687034,
+      "word": "湖南一女游客玩滑翔伞疑掉进水帘洞",
+      "onboard_time": 1735805118,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 681455,
@@ -283,14 +307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 624580,
-      "num": 624580,
-      "word": "湖南一女游客玩滑翔伞疑掉进水帘洞",
-      "onboard_time": 1735805118,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 620993,
       "num": 620993,
       "word": "女员工伪造怀孕B超单逃避服刑",
@@ -347,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 593105,
+      "num": 593105,
+      "word": "地震局称银川进入地震窗口期",
+      "onboard_time": 1735807941,
+      "rank": 5,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 590278,
       "num": 590278,
       "word": "周涛董卿合照",
@@ -372,7 +396,7 @@
     },
     {
       "raw_hot": 516758,
-      "num": 394482,
+      "num": 473417,
       "word": "黄圣依说杨子这出戏是拿奖级别",
       "onboard_time": 1735803081,
       "rank": 40,
@@ -579,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 318010,
+      "num": 318010,
+      "word": "韩国空难遇难机长哥哥的亲笔信",
+      "onboard_time": 1735808780,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 317471,
       "num": 343581,
       "word": "史上最薄iPhone渲染图来了",
@@ -603,6 +635,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 308731,
+      "num": 308731,
+      "word": "2024kpop男爱豆百度指数排名",
+      "onboard_time": 1735807821,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 303752,
       "num": 303752,
       "word": "杨幂 梗当然要当本人面玩",
@@ -617,6 +657,14 @@
       "onboard_time": 1735791262,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 293014,
+      "num": 330307,
+      "word": "福建123岁最长寿老人去世",
+      "onboard_time": 1735806019,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 292173,
@@ -723,12 +771,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244044,
+      "num": 221528,
+      "word": "小孩 你欺负到蛋糕店千金了",
+      "onboard_time": 1735804940,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 241806,
       "num": 241806,
       "word": "抑郁症患者会无意识做哪些事",
       "onboard_time": 1735791262,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 241726,
+      "num": 241726,
+      "word": "Kpop艺人TikTok年涨幅",
+      "onboard_time": 1735808780,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 241016,
@@ -787,6 +851,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 227048,
+      "num": 205637,
+      "word": "孙铭阳孙颖莎合照",
+      "onboard_time": 1735808900,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226037,
       "num": 339049,
       "word": "周微",
@@ -816,14 +888,6 @@
       "word": "全款3万8买了条80平米老房船",
       "onboard_time": 1735775178,
       "rank": 17,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 221528,
-      "num": 221528,
-      "word": "小孩 你欺负到蛋糕店千金了",
-      "onboard_time": 1735804940,
-      "rank": 32,
       "category": "幽默"
     },
     {
@@ -897,6 +961,14 @@
       "onboard_time": 1735735281,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207233,
+      "num": 207233,
+      "word": "多家公司正探索上四休三工作模式",
+      "onboard_time": 1735804579,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 206287,
@@ -1035,12 +1107,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192522,
-      "num": 192522,
-      "word": "福建123岁最长寿老人去世",
-      "onboard_time": 1735806019,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 190932,
+      "num": 472137,
+      "word": "银川4.8级地震原因",
+      "onboard_time": 1735802840,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 190850,
@@ -1048,6 +1120,14 @@
       "word": "云襄传之将进酒全员剧照首发",
       "onboard_time": 1735788742,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 190124,
+      "num": 206531,
+      "word": "张彬彬8g网速",
+      "onboard_time": 1735807222,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -1099,12 +1179,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181640,
-      "num": 187910,
-      "word": "禁止向28家美国实体出口两用物项",
-      "onboard_time": 1735807099,
-      "rank": 34,
-      "category": "国内时政"
+      "raw_hot": 185516,
+      "num": 185516,
+      "word": "李昀锐冰湖重生上班路透",
+      "onboard_time": 1735809320,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 181552,
@@ -1129,6 +1209,14 @@
       "onboard_time": 1735793962,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180668,
+      "num": 250063,
+      "word": "银川地震当地震感强烈",
+      "onboard_time": 1735796242,
+      "rank": 23,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 177121,
@@ -1212,11 +1300,19 @@
     },
     {
       "raw_hot": 171185,
-      "num": 171185,
+      "num": 206736,
       "word": "Doinb曝Zoom试训没过",
       "onboard_time": 1735806921,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 171100,
+      "num": 174349,
+      "word": "王鹤棣 天选许七安",
+      "onboard_time": 1735808060,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 169434,
@@ -1323,6 +1419,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162663,
+      "num": 162663,
+      "word": "赵睿致歉声明",
+      "onboard_time": 1735808780,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 162162,
+      "num": 237625,
+      "word": "医院保洁倒卖婴儿称自己是做好事",
+      "onboard_time": 1735805780,
+      "rank": 27,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 161583,
       "num": 161583,
       "word": "今天缅怀糖丸爷爷顾方舟",
@@ -1353,14 +1465,6 @@
       "onboard_time": 1735801339,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 152444,
-      "num": 237625,
-      "word": "医院保洁倒卖婴儿称自己是做好事",
-      "onboard_time": 1735805780,
-      "rank": 27,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 151164,
@@ -1505,14 +1609,6 @@
       "onboard_time": 1735793125,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 138128,
-      "num": 138128,
-      "word": "张彬彬8g网速",
-      "onboard_time": 1735807222,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 137674,
@@ -1819,14 +1915,6 @@
       "category": "健康医疗,艺人"
     },
     {
-      "raw_hot": 100187,
-      "num": 472137,
-      "word": "银川4.8级地震原因",
-      "onboard_time": 1735802840,
-      "rank": 9,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 98365,
       "num": 98365,
       "word": "乒超MVP",
@@ -1979,6 +2067,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 82423,
+      "num": 207170,
+      "word": "封神训练营7年了",
+      "onboard_time": 1735808419,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 82173,
       "num": 333285,
       "word": "欧阳娜娜当小姨了",
@@ -2019,14 +2115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 73710,
-      "num": 250063,
-      "word": "银川地震当地震感强烈",
-      "onboard_time": 1735796242,
-      "rank": 23,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 73167,
       "num": 196832,
       "word": "女子举报在国企上班的丈夫包养情人受贿",
@@ -2041,6 +2129,14 @@
       "onboard_time": 1735790962,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63847,
+      "num": 206052,
+      "word": "千朵桃花热辣滚炕",
+      "onboard_time": 1735808000,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 63562,
@@ -2139,12 +2235,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 52240,
+      "num": 308744,
+      "word": "气象专家提醒北方部分冰面厚度不足",
+      "onboard_time": 1735808600,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51897,
       "num": 216927,
       "word": "杨子演技",
       "onboard_time": 1735806560,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 47238,
+      "num": 206254,
+      "word": "美国汽车撞人事件遇难者",
+      "onboard_time": 1735809380,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 47201,
@@ -2185,6 +2297,14 @@
       "onboard_time": 1735746260,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40454,
+      "num": 214981,
+      "word": "于正说以后别家的艺人不敢捧了",
+      "onboard_time": 1735808600,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 40284,
@@ -2307,6 +2427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30940,
+      "num": 177471,
+      "word": "徐海东说林高远是双打的神",
+      "onboard_time": 1735802240,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30580,
       "num": 381501,
       "word": "婚恋网站不能成了锁定客户的网坑",
@@ -2403,6 +2531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22696,
+      "num": 206281,
+      "word": "直升机悬崖边救起失足坠崖男子",
+      "onboard_time": 1735808660,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22251,
       "num": 245337,
       "word": "雷佳音开年头一单",
@@ -2475,6 +2611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 12894,
+      "num": 176163,
+      "word": "肖战同款毛衣",
+      "onboard_time": 1735809560,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 12797,
       "num": 79049,
       "word": "龙马乘组在空间站有了拍照搭子",
@@ -2521,6 +2665,14 @@
       "onboard_time": 1735770493,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 8081,
+      "num": 175147,
+      "word": "在图书馆被很多王俊凯盯着",
+      "onboard_time": 1735809020,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 7181,
