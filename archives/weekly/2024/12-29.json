@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735792850245,
+  "endTime": 1735795297452,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 2944850,
-      "num": 450137,
+      "num": 601524,
       "word": "自称赵露思前工作人员喊话赵露思",
       "onboard_time": 1735790842,
       "rank": 5,
@@ -1836,7 +1836,7 @@
     },
     {
       "raw_hot": 719009,
-      "num": 449301,
+      "num": 537320,
       "word": "肖战倪妮隔窗对视",
       "onboard_time": 1735790240,
       "rank": 7,
@@ -2052,7 +2052,7 @@
     },
     {
       "raw_hot": 657885,
-      "num": 320818,
+      "num": 547152,
       "word": "十个勤天 春晚",
       "onboard_time": 1735791686,
       "rank": 21,
@@ -2089,6 +2089,14 @@
       "onboard_time": 1735488981,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 645882,
+      "num": 645882,
+      "word": "自驾阿姨苏敏称已转给男方16万",
+      "onboard_time": 1735791686,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 644534,
@@ -2195,6 +2203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 622007,
+      "num": 622007,
+      "word": "韩国9名家人遇难的小狗已被收养",
+      "onboard_time": 1735793543,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 620555,
       "num": 620555,
       "word": "鞠婧祎金色臂环",
@@ -2248,6 +2264,14 @@
       "word": "郑合惠子 小姨是种感觉",
       "onboard_time": 1735534823,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 603770,
+      "num": 488344,
+      "word": "欧阳妮妮生子",
+      "onboard_time": 1735793783,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -2465,6 +2489,14 @@
       "onboard_time": 1735721479,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 554319,
+      "num": 554319,
+      "word": "女员工伪造怀孕B超单逃避服刑",
+      "onboard_time": 1735793783,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 554168,
@@ -3147,6 +3179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 442986,
+      "num": 442986,
+      "word": "再见爱人",
+      "onboard_time": 1735793243,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 440256,
       "num": 440256,
       "word": "韩国官方回应机场跑道尽头有墙",
@@ -3472,6 +3512,14 @@
       "word": "王一博和大学生唱天高海阔",
       "onboard_time": 1735573760,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 411522,
+      "num": 411522,
+      "word": "微博之夜猜阵容",
+      "onboard_time": 1735792104,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -3851,6 +3899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 370481,
+      "num": 370481,
+      "word": "拍照时左右脸不对称的人有福了",
+      "onboard_time": 1735792763,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 370046,
       "num": 370046,
       "word": "中国新高铁列车外形科幻风",
@@ -4201,14 +4257,6 @@
       "onboard_time": 1735648648,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 337127,
-      "num": 337127,
-      "word": "自驾阿姨苏敏称已转给男方16万",
-      "onboard_time": 1735791686,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 336985,
@@ -5179,6 +5227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 275708,
+      "num": 239893,
+      "word": "小S晒了全家福",
+      "onboard_time": 1735794562,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275114,
       "num": 275114,
       "word": "钱天一双打MVP",
@@ -5248,14 +5304,6 @@
       "word": "张峻豪余宇涵明天地球要爆炸",
       "onboard_time": 1735742843,
       "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 271137,
-      "num": 271137,
-      "word": "微博之夜猜阵容",
-      "onboard_time": 1735792104,
-      "rank": 28,
       "category": "综艺"
     },
     {
@@ -5689,6 +5737,14 @@
       "onboard_time": 1735659986,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 253089,
+      "num": 315758,
+      "word": "王子文签约和颂",
+      "onboard_time": 1735791985,
+      "rank": 28,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 252377,
@@ -6307,6 +6363,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 224906,
+      "num": 224906,
+      "word": "男子跨年夜对近9万气球喷射加特林",
+      "onboard_time": 1735794861,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 224816,
       "num": 224816,
       "word": "赵睿撞裁判",
@@ -6321,6 +6385,14 @@
       "onboard_time": 1735704321,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224760,
+      "num": 235762,
+      "word": "孙颖莎 OLAY",
+      "onboard_time": 1735793543,
+      "rank": 24,
+      "category": "体育,美妆"
     },
     {
       "raw_hot": 224741,
@@ -6859,14 +6931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 208240,
-      "num": 315758,
-      "word": "王子文签约和颂",
-      "onboard_time": 1735791985,
-      "rank": 28,
-      "category": "艺人,综艺"
-    },
-    {
       "raw_hot": 207932,
       "num": 266090,
       "word": "MBC歌谣大祭典",
@@ -7107,6 +7171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204084,
+      "num": 204084,
+      "word": "孟子义李昀锐都参加微博之夜",
+      "onboard_time": 1735794261,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203937,
       "num": 203937,
       "word": "刘国梁称将推动WTT修改规则",
@@ -7251,12 +7323,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201314,
+      "num": 201314,
+      "word": "秦彻 我停不下来",
+      "onboard_time": 1735793243,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 201041,
       "num": 436629,
       "word": "调查称机尾乘客生还率比前排高40%",
       "onboard_time": 1735455200,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201035,
+      "num": 227275,
+      "word": "眠狼画了迪丽热巴贺思慕",
+      "onboard_time": 1735793363,
+      "rank": 29,
+      "category": "剧集,动漫"
     },
     {
       "raw_hot": 200825,
@@ -7577,14 +7665,6 @@
       "onboard_time": 1735453220,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 195522,
-      "num": 195522,
-      "word": "拍照时左右脸不对称的人有福了",
-      "onboard_time": 1735792763,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 195381,
@@ -8468,7 +8548,7 @@
     },
     {
       "raw_hot": 182520,
-      "num": 182520,
+      "num": 238067,
       "word": "大奉打更人",
       "onboard_time": 1735383079,
       "rank": 44,
@@ -8553,6 +8633,14 @@
       "onboard_time": 1735706360,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181033,
+      "num": 181033,
+      "word": "HYBE今年将推出两组新女团",
+      "onboard_time": 1735793962,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 180696,
@@ -8769,6 +8857,14 @@
       "onboard_time": 1735558279,
       "rank": 37,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 175805,
+      "num": 175805,
+      "word": "王楚钦眼神杀",
+      "onboard_time": 1735793962,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 175796,
@@ -10491,6 +10587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146117,
+      "num": 146117,
+      "word": "杭州到香港的高铁1月5日开通",
+      "onboard_time": 1735795162,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146099,
       "num": 156839,
       "word": "黄景瑜孙千吻戏吻到忘词",
@@ -10643,12 +10747,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143588,
+      "num": 143588,
+      "word": "千朵桃花一世开",
+      "onboard_time": 1735795222,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143521,
       "num": 177858,
       "word": "同一天两个天王演唱会发生意外",
       "onboard_time": 1735398984,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 143462,
+      "num": 143462,
+      "word": "再上18天班就过年了",
+      "onboard_time": 1735793363,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143416,
@@ -13659,6 +13779,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 62462,
+      "num": 144047,
+      "word": "尹锡悦逮捕令或于今天执行",
+      "onboard_time": 1735793303,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 62373,
       "num": 444970,
       "word": "闪婚中介教记者相亲套路",
@@ -13849,6 +13977,14 @@
       "onboard_time": 1735694900,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57295,
+      "num": 246896,
+      "word": "霉霉登上央视2024世界新闻年鉴",
+      "onboard_time": 1735794443,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 56920,
@@ -15804,7 +15940,7 @@
     },
     {
       "raw_hot": 22251,
-      "num": 202904,
+      "num": 245337,
       "word": "雷佳音开年头一单",
       "onboard_time": 1735792525,
       "rank": 38,
