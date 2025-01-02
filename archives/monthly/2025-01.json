@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735800248921,
+  "endTime": 1735802473732,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -160,6 +160,14 @@
       "word": "跨年收视率",
       "onboard_time": 1735661488,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1751598,
+      "num": 1751598,
+      "word": "杨子崩溃大哭",
+      "onboard_time": 1735798942,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -387,14 +395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 991966,
-      "num": 991966,
-      "word": "杨子崩溃大哭",
-      "onboard_time": 1735798942,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 991350,
       "num": 297270,
       "word": "轧戏",
@@ -563,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 819760,
+      "num": 819760,
+      "word": "韩失事客机残骸在调查过程中起火",
+      "onboard_time": 1735796421,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 818078,
       "num": 818078,
       "word": "覃予萱vs王曼昱",
@@ -617,6 +625,14 @@
       "onboard_time": 1735657707,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 768582,
+      "num": 399271,
+      "word": "2元成本一晚进账6523元她的营销很棒",
+      "onboard_time": 1735800682,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 765910,
@@ -721,14 +737,6 @@
       "onboard_time": 1735733902,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 659234,
-      "num": 659234,
-      "word": "韩失事客机残骸在调查过程中起火",
-      "onboard_time": 1735796421,
-      "rank": 6,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 657885,
@@ -1227,6 +1235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 406700,
+      "num": 406700,
+      "word": "什么是抑郁症躯体化",
+      "onboard_time": 1735797861,
+      "rank": 18,
+      "category": "运动健身,艺人"
+    },
+    {
       "raw_hot": 406189,
       "num": 533971,
       "word": "王楚钦2025第1天夺冠",
@@ -1427,6 +1443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 355023,
+      "num": 261373,
+      "word": "A股新变化",
+      "onboard_time": 1735800199,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 351740,
       "num": 379149,
       "word": "王一栩你好事做尽",
@@ -1521,14 +1545,6 @@
       "onboard_time": 1735714339,
       "rank": 24,
       "category": "军事"
-    },
-    {
-      "raw_hot": 333951,
-      "num": 333951,
-      "word": "什么是抑郁症躯体化",
-      "onboard_time": 1735797861,
-      "rank": 18,
-      "category": "运动健身,艺人"
     },
     {
       "raw_hot": 330592,
@@ -1721,6 +1737,14 @@
       "onboard_time": 1735791262,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 301403,
+      "num": 301403,
+      "word": "股市",
+      "onboard_time": 1735800140,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 301278,
@@ -2019,6 +2043,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 248475,
+      "num": 260877,
+      "word": "赵丽颖对接确认参加微博之夜",
+      "onboard_time": 1735800562,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246844,
       "num": 307031,
       "word": "国内生产总值预计超130万亿元",
@@ -2225,6 +2257,14 @@
       "onboard_time": 1735698921,
       "rank": 27,
       "category": "艺人,美食"
+    },
+    {
+      "raw_hot": 220376,
+      "num": 261642,
+      "word": "2025LPL官宣",
+      "onboard_time": 1735801220,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 219856,
@@ -2635,6 +2675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194689,
+      "num": 262607,
+      "word": "当教师不是铁饭碗你还会卷教资吗",
+      "onboard_time": 1735801579,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194425,
       "num": 194425,
       "word": "美国汽车撞人事件已致10死30伤",
@@ -2703,6 +2751,14 @@
       "num": 191623,
       "word": "张栋梁一开口还是大明星何群",
       "onboard_time": 1735695980,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 191549,
+      "num": 191549,
+      "word": "陈小春古巨基催婚奥斯卡",
+      "onboard_time": 1735802060,
       "rank": 33,
       "category": "综艺"
     },
@@ -3011,6 +3067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173898,
+      "num": 173898,
+      "word": "张踩铃让黄子弘凡夸杨子",
+      "onboard_time": 1735801401,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173654,
       "num": 173654,
       "word": "张凌赫田曦薇逐玉官宣平番",
@@ -3065,6 +3129,14 @@
       "onboard_time": 1735743981,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172511,
+      "num": 172511,
+      "word": "红米发布会",
+      "onboard_time": 1735800441,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 172436,
@@ -3145,6 +3217,14 @@
       "onboard_time": 1735658246,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169368,
+      "num": 326401,
+      "word": "郭靖宇说肖战的眼神让他印象深刻",
+      "onboard_time": 1735798040,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 169134,
@@ -3427,14 +3507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 156441,
-      "num": 156441,
-      "word": "A股新变化",
-      "onboard_time": 1735800199,
-      "rank": 42,
-      "category": "财经"
-    },
-    {
       "raw_hot": 156006,
       "num": 156006,
       "word": "专家说很多翻译硕士水平比不上AI",
@@ -3459,14 +3531,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 154564,
-      "num": 154564,
-      "word": "股市",
-      "onboard_time": 1735800140,
-      "rank": 44,
-      "category": "财经"
-    },
-    {
       "raw_hot": 154542,
       "num": 154542,
       "word": "林一 Steve",
@@ -3483,12 +3547,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153686,
-      "num": 326401,
-      "word": "郭靖宇说肖战的眼神让他印象深刻",
-      "onboard_time": 1735798040,
-      "rank": 26,
-      "category": "电影"
+      "raw_hot": 153542,
+      "num": 153542,
+      "word": "华晨宇摩斯密码",
+      "onboard_time": 1735801339,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 152629,
@@ -3539,6 +3603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150077,
+      "num": 324509,
+      "word": "上海地铁回应男子早高峰有偿占座",
+      "onboard_time": 1735797561,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 149666,
       "num": 413345,
       "word": "历史学家路遥逝世",
@@ -3585,6 +3657,14 @@
       "onboard_time": 1735664243,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147861,
+      "num": 399697,
+      "word": "高铁澡堂子也有搓澡环节",
+      "onboard_time": 1735801642,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147697,
@@ -3747,6 +3827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140824,
+      "num": 408799,
+      "word": "大同就婴儿买卖事件成立联合调查组",
+      "onboard_time": 1735799420,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 140708,
       "num": 140708,
       "word": "黑神话千手观音 震撼",
@@ -3833,6 +3921,14 @@
       "onboard_time": 1735723640,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 137674,
+      "num": 137674,
+      "word": "原来滑雪从不考验装备",
+      "onboard_time": 1735801761,
+      "rank": 46,
+      "category": "运动健身"
     },
     {
       "raw_hot": 137145,
@@ -3947,6 +4043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132843,
+      "num": 340383,
+      "word": "唐探1900用300亩土地搭建拍摄",
+      "onboard_time": 1735799121,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 132805,
       "num": 277166,
       "word": "大奉打更人",
@@ -4043,14 +4147,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 129467,
-      "num": 340383,
-      "word": "唐探1900用300亩土地搭建拍摄",
-      "onboard_time": 1735799121,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 128918,
       "num": 127888,
       "word": "胡锡进建议普通人避开四个陷阱",
@@ -4105,14 +4201,6 @@
       "onboard_time": 1735718839,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127200,
-      "num": 324509,
-      "word": "上海地铁回应男子早高峰有偿占座",
-      "onboard_time": 1735797561,
-      "rank": 29,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 127087,
@@ -4395,6 +4483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115314,
+      "num": 260073,
+      "word": "戴耳机听导航撞倒路人被判赔近30万",
+      "onboard_time": 1735802000,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114637,
       "num": 248022,
       "word": "孙颖莎喊你接好运",
@@ -4523,11 +4619,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108920,
+      "num": 260212,
+      "word": "被国漫开年第一首战歌燃到了",
+      "onboard_time": 1735801881,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 108860,
       "num": 108860,
       "word": "孙颖莎说新年呈现了一场精彩的比赛",
       "onboard_time": 1735727782,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 108524,
+      "num": 151034,
+      "word": "孙颖莎说东京懵懂巴黎成熟",
+      "onboard_time": 1735801761,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -4889,14 +5001,6 @@
       "onboard_time": 1735673533,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 69623,
-      "num": 408799,
-      "word": "大同就婴儿买卖事件成立联合调查组",
-      "onboard_time": 1735799420,
-      "rank": 14,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 68085,
@@ -5371,6 +5475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33931,
+      "num": 413259,
+      "word": "肖战倪妮新年短片",
+      "onboard_time": 1735798762,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33680,
       "num": 316094,
       "word": "拜登称正调查新年两起恶性事件有无关联",
@@ -5481,14 +5593,6 @@
       "onboard_time": 1735757472,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 28294,
-      "num": 413259,
-      "word": "肖战倪妮新年短片",
-      "onboard_time": 1735798762,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 28093,
@@ -5640,6 +5744,14 @@
       "word": "中国红是中国人的浪漫",
       "onboard_time": 1735788441,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20694,
+      "num": 262812,
+      "word": "律师谈男子地铁早高峰卖座位",
+      "onboard_time": 1735802000,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
