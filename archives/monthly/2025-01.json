@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735774537646,
+  "endTime": 1735782106737,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -105,6 +105,14 @@
       "onboard_time": 1735747999,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1820460,
+      "num": 1820460,
+      "word": "上2休1再上2好潮",
+      "onboard_time": 1735777638,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1793831,
@@ -411,6 +419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 858667,
+      "num": 405815,
+      "word": "徐以若 于正",
+      "onboard_time": 1735775057,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 844503,
       "num": 844503,
       "word": "何炅 我现在有点惊弓之鸟了",
@@ -449,6 +465,14 @@
       "onboard_time": 1735712359,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 810490,
+      "num": 810490,
+      "word": "赵露思看余华的我胆小如鼠",
+      "onboard_time": 1735780459,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 802140,
@@ -505,6 +529,14 @@
       "onboard_time": 1735716379,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 745626,
+      "num": 395882,
+      "word": "张颂文",
+      "onboard_time": 1735778299,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 744481,
@@ -571,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 658810,
+      "num": 658810,
+      "word": "美特朗普国际酒店门前汽车爆炸1死7伤",
+      "onboard_time": 1735778359,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 654288,
       "num": 654288,
       "word": "苏新皓 破音",
@@ -612,7 +652,7 @@
     },
     {
       "raw_hot": 626897,
-      "num": 137550,
+      "num": 395861,
       "word": "徐以若",
       "onboard_time": 1735773735,
       "rank": 11,
@@ -720,6 +760,14 @@
       "word": "杨幂李一桐嘟嘴合照",
       "onboard_time": 1735707380,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 516994,
+      "num": 516994,
+      "word": "姜涛 又要被人骂了",
+      "onboard_time": 1735778780,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -851,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 444758,
+      "num": 444758,
+      "word": "向太说控制不住向佐的抽象",
+      "onboard_time": 1735773735,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 440233,
       "num": 440233,
       "word": "东部战区发布重磅MV献礼新年",
@@ -972,7 +1028,7 @@
     },
     {
       "raw_hot": 389785,
-      "num": 100364,
+      "num": 198051,
       "word": "金星到底有多恐怖",
       "onboard_time": 1735773675,
       "rank": 21,
@@ -1195,6 +1251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 330131,
+      "num": 330131,
+      "word": "林诗栋点赞樊振东分享霉霉歌词的微博",
+      "onboard_time": 1735776798,
+      "rank": 13,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 328665,
       "num": 328665,
       "word": "孙颖莎称赞覃予萱表现",
@@ -1355,6 +1419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292173,
+      "num": 292173,
+      "word": "黄冠亨 交朋友",
+      "onboard_time": 1735777398,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290935,
       "num": 290935,
       "word": "孙颖莎绕场感谢球迷",
@@ -1385,6 +1457,14 @@
       "onboard_time": 1735747879,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 283053,
+      "num": 283053,
+      "word": "以为GAI原名叫周震南",
+      "onboard_time": 1735776979,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 281177,
@@ -1675,6 +1755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223116,
+      "num": 223116,
+      "word": "全款3万8买了条80平米老房船",
+      "onboard_time": 1735775178,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 223069,
       "num": 223069,
       "word": "樊振东回应是否将更注重国内赛事",
@@ -1891,6 +1979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203038,
+      "num": 203038,
+      "word": "俄乌斗气协议失效不续美或受益",
+      "onboard_time": 1735775178,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 202994,
       "num": 466969,
       "word": "王楚钦暴扣两连击",
@@ -2017,6 +2113,14 @@
       "onboard_time": 1735741581,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 194304,
+      "num": 194304,
+      "word": "雷军晒健身房照片",
+      "onboard_time": 1735778240,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 193734,
@@ -2283,6 +2387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173654,
+      "num": 173654,
+      "word": "张凌赫田曦薇逐玉官宣平番",
+      "onboard_time": 1735774816,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173631,
       "num": 173631,
       "word": "张家界机场备好礼迎入境游客",
@@ -2377,6 +2489,14 @@
       "onboard_time": 1735733842,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 169434,
+      "num": 169434,
+      "word": "什么是分离转换性障碍",
+      "onboard_time": 1735773616,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 169408,
@@ -2651,6 +2771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151164,
+      "num": 151164,
+      "word": "国旗护卫队送上硬核新年祝福",
+      "onboard_time": 1735776798,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 150714,
       "num": 240071,
       "word": "你好我们的2025",
@@ -2779,12 +2907,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142805,
+      "num": 151553,
+      "word": "孙艺洲被哄成胚胎了",
+      "onboard_time": 1735777097,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142733,
       "num": 142733,
       "word": "凌云对战DRG",
       "onboard_time": 1735743862,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 142462,
+      "num": 142462,
+      "word": "你觉得上四休三工作制可行吗",
+      "onboard_time": 1735782017,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142096,
@@ -2947,6 +3091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133918,
+      "num": 133918,
+      "word": "湘潭大学三万学生一起跨年",
+      "onboard_time": 1735779019,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 133699,
       "num": 133699,
       "word": "王俊凯 蝴蝶王子",
@@ -2961,6 +3113,14 @@
       "onboard_time": 1735725320,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 133529,
+      "num": 133529,
+      "word": "新华社解读马龙樊振东陈梦退出世排",
+      "onboard_time": 1735774217,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 133103,
@@ -2985,6 +3145,14 @@
       "onboard_time": 1735745720,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132513,
+      "num": 132513,
+      "word": "百大没有中国boy",
+      "onboard_time": 1735775238,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 132319,
@@ -3019,6 +3187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 130904,
+      "num": 130904,
+      "word": "第1个工作日",
+      "onboard_time": 1735774877,
+      "rank": 35,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 130696,
       "num": 173429,
       "word": "黄雅琼感谢祖国的悉心栽培",
@@ -3040,6 +3216,22 @@
       "word": "阿里131亿港元出售高鑫零售",
       "onboard_time": 1735739242,
       "rank": 46,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 129556,
+      "num": 129556,
+      "word": "第二天醒来头顶停个车就老实了",
+      "onboard_time": 1735776859,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 128918,
+      "num": 127888,
+      "word": "胡锡进建议普通人避开四个陷阱",
+      "onboard_time": 1735780339,
+      "rank": 39,
       "category": "财经"
     },
     {
@@ -3067,6 +3259,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127848,
+      "num": 127848,
+      "word": "方时赫 生活组",
+      "onboard_time": 1735781539,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 127288,
+      "num": 127288,
+      "word": "小米汽车2025年交付目标30万辆",
+      "onboard_time": 1735779319,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 127268,
       "num": 203775,
       "word": "深圳大学女团亚军",
@@ -3081,6 +3289,14 @@
       "onboard_time": 1735715599,
       "rank": 43,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 126708,
+      "num": 126708,
+      "word": "樊振东比耶照",
+      "onboard_time": 1735781358,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 126424,
@@ -3115,6 +3331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125192,
+      "num": 413345,
+      "word": "历史学家路遥逝世",
+      "onboard_time": 1735779199,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124843,
       "num": 276933,
       "word": "2025第一天专属壁纸",
@@ -3129,6 +3353,14 @@
       "onboard_time": 1735725920,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123937,
+      "num": 123937,
+      "word": "德国居民排队14小时买1600欧烟花",
+      "onboard_time": 1735781059,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 123648,
@@ -3155,14 +3387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121618,
-      "num": 121618,
-      "word": "向太说控制不住向佐的抽象",
-      "onboard_time": 1735773735,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 120933,
       "num": 120933,
       "word": "脱口秀式年终总结",
@@ -3185,6 +3409,14 @@
       "onboard_time": 1735731381,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 120489,
+      "num": 120489,
+      "word": "邓亚萍说女团决赛有点drama",
+      "onboard_time": 1735773794,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 120486,
@@ -3291,6 +3523,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 116387,
+      "num": 116387,
+      "word": "我是陆地航母准备启程",
+      "onboard_time": 1735780938,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 116347,
       "num": 116347,
       "word": "时代少年团新年福袋",
@@ -3361,6 +3601,14 @@
       "onboard_time": 1735725199,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111150,
+      "num": 111150,
+      "word": "跨年夜过后留下一地垃圾",
+      "onboard_time": 1735776859,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 111125,
@@ -3523,6 +3771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 97797,
+      "num": 97797,
+      "word": "九重紫在尊重每一种爱情观的存在",
+      "onboard_time": 1735781778,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97416,
       "num": 163195,
       "word": "张杰爱自己爱家人爱音乐爱你们",
@@ -3569,14 +3825,6 @@
       "onboard_time": 1735722919,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 94086,
-      "num": 94086,
-      "word": "邓亚萍说女团决赛有点drama",
-      "onboard_time": 1735773794,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 93901,
@@ -3633,14 +3881,6 @@
       "onboard_time": 1735641262,
       "rank": 31,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 84634,
-      "num": 84634,
-      "word": "什么是分离转换性障碍",
-      "onboard_time": 1735773616,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 84135,
@@ -3817,6 +4057,14 @@
       "onboard_time": 1735701680,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 60689,
+      "num": 176738,
+      "word": "拖米发文道歉",
+      "onboard_time": 1735776859,
+      "rank": 24,
+      "category": "电竞,艺人"
     },
     {
       "raw_hot": 59170,
@@ -4049,14 +4297,6 @@
       "onboard_time": 1735761972,
       "rank": 42,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 37361,
-      "num": 45682,
-      "word": "新华社解读马龙樊振东陈梦退出世排",
-      "onboard_time": 1735774217,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 36510,

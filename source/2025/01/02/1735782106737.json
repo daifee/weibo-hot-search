@@ -1,0 +1,410 @@
+{
+  "runTime": 1735782106737,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1820460,
+        "num": 1820460,
+        "word": "上2休1再上2好潮",
+        "onboard_time": 1735777638,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 810490,
+        "num": 810490,
+        "word": "赵露思看余华的我胆小如鼠",
+        "onboard_time": 1735780459,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7937,
+        "num": 695231,
+        "word": "2025拼出自己的高光时刻",
+        "onboard_time": 1735698440,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 658810,
+        "num": 658810,
+        "word": "美特朗普国际酒店门前汽车爆炸1死7伤",
+        "onboard_time": 1735778359,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 545978,
+        "num": 545978,
+        "word": "超市因员工集体盗窃亏损200万倒闭",
+        "onboard_time": 1735750698,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 516994,
+        "num": 516994,
+        "word": "姜涛 又要被人骂了",
+        "onboard_time": 1735778780,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444758,
+        "num": 444758,
+        "word": "向太说控制不住向佐的抽象",
+        "onboard_time": 1735773735,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423950,
+        "num": 423950,
+        "word": "老妻少夫26年丈夫为妻子留白发扮老",
+        "onboard_time": 1735770433,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26878,
+        "num": 419795,
+        "word": "2025是一个什么年",
+        "onboard_time": 1735689617,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 125192,
+        "num": 413345,
+        "word": "历史学家路遥逝世",
+        "onboard_time": 1735779199,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 858667,
+        "num": 405815,
+        "word": "徐以若 于正",
+        "onboard_time": 1735775057,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 745626,
+        "num": 395882,
+        "word": "张颂文",
+        "onboard_time": 1735778299,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395861,
+        "num": 395861,
+        "word": "徐以若",
+        "onboard_time": 1735773735,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330131,
+        "num": 330131,
+        "word": "林诗栋点赞樊振东分享霉霉歌词的微博",
+        "onboard_time": 1735776798,
+        "rank": 13,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 317365,
+        "num": 317365,
+        "word": "丁克的李健抱着他绝育的猫",
+        "onboard_time": 1735745661,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292173,
+        "num": 292173,
+        "word": "黄冠亨 交朋友",
+        "onboard_time": 1735777398,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283053,
+        "num": 283053,
+        "word": "以为GAI原名叫周震南",
+        "onboard_time": 1735776979,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223116,
+        "num": 223116,
+        "word": "全款3万8买了条80平米老房船",
+        "onboard_time": 1735775178,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203038,
+        "num": 203038,
+        "word": "俄乌斗气协议失效不续美或受益",
+        "onboard_time": 1735775178,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 199999,
+        "num": 199999,
+        "word": "专家谈中学招13名教师10清北0师范",
+        "onboard_time": 1735767612,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1439356,
+        "num": 199803,
+        "word": "赵露思发长文回应",
+        "onboard_time": 1735726580,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322840,
+        "num": 198051,
+        "word": "金星到底有多恐怖",
+        "onboard_time": 1735773675,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 207999,
+        "num": 197510,
+        "word": "00后男生耐得住寂寞一天做上百条女裤",
+        "onboard_time": 1735742241,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194304,
+        "num": 194304,
+        "word": "雷军晒健身房照片",
+        "onboard_time": 1735778240,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 60689,
+        "num": 176738,
+        "word": "拖米发文道歉",
+        "onboard_time": 1735776859,
+        "rank": 24,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 173654,
+        "num": 173654,
+        "word": "张凌赫田曦薇逐玉官宣平番",
+        "onboard_time": 1735774816,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169434,
+        "num": 169434,
+        "word": "什么是分离转换性障碍",
+        "onboard_time": 1735773616,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157293,
+        "num": 157293,
+        "word": "孟子义 小碗不够大碗来凑",
+        "onboard_time": 1735773735,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146854,
+        "num": 152192,
+        "word": "赵本山还是太超前了",
+        "onboard_time": 1735743262,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142805,
+        "num": 151553,
+        "word": "孙艺洲被哄成胚胎了",
+        "onboard_time": 1735777097,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151164,
+        "num": 151164,
+        "word": "国旗护卫队送上硬核新年祝福",
+        "onboard_time": 1735776798,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 142462,
+        "num": 142462,
+        "word": "你觉得上四休三工作制可行吗",
+        "onboard_time": 1735782017,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133918,
+        "num": 133918,
+        "word": "湘潭大学三万学生一起跨年",
+        "onboard_time": 1735779019,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 133529,
+        "num": 133529,
+        "word": "新华社解读马龙樊振东陈梦退出世排",
+        "onboard_time": 1735774217,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132513,
+        "num": 132513,
+        "word": "百大没有中国boy",
+        "onboard_time": 1735775238,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 130904,
+        "num": 130904,
+        "word": "第1个工作日",
+        "onboard_time": 1735774877,
+        "rank": 35,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 129556,
+        "num": 129556,
+        "word": "第二天醒来头顶停个车就老实了",
+        "onboard_time": 1735776859,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129236,
+        "num": 129236,
+        "word": "阳光型抑郁症到底是什么",
+        "onboard_time": 1735743981,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127913,
+        "num": 127913,
+        "word": "杨幂 梗当然要当本人面玩",
+        "onboard_time": 1735742603,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128918,
+        "num": 127888,
+        "word": "胡锡进建议普通人避开四个陷阱",
+        "onboard_time": 1735780339,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127848,
+        "num": 127848,
+        "word": "方时赫 生活组",
+        "onboard_time": 1735781539,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127288,
+        "num": 127288,
+        "word": "小米汽车2025年交付目标30万辆",
+        "onboard_time": 1735779319,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 126708,
+        "num": 126708,
+        "word": "樊振东比耶照",
+        "onboard_time": 1735781358,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124601,
+        "num": 124601,
+        "word": "丈夫称烧伤妈妈皮肤不可能回到以前",
+        "onboard_time": 1735747879,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123937,
+        "num": 123937,
+        "word": "德国居民排队14小时买1600欧烟花",
+        "onboard_time": 1735781059,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 120489,
+        "num": 120489,
+        "word": "邓亚萍说女团决赛有点drama",
+        "onboard_time": 1735773794,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116387,
+        "num": 116387,
+        "word": "我是陆地航母准备启程",
+        "onboard_time": 1735780938,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 111150,
+        "num": 111150,
+        "word": "跨年夜过后留下一地垃圾",
+        "onboard_time": 1735776859,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 100707,
+        "num": 100707,
+        "word": "日本电视塔跨年倒数完竟直接关灯",
+        "onboard_time": 1735733721,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97797,
+        "num": 97797,
+        "word": "九重紫在尊重每一种爱情观的存在",
+        "onboard_time": 1735781778,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025新年贺词#"
+    }
+  }
+}
