@@ -1,6 +1,6 @@
 {
   "startTime": 1735748807244,
-  "endTime": 1735782106737,
+  "endTime": 1735783098787,
   "band_list": [
     {
       "raw_hot": 3850549,
@@ -27,6 +27,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1460989,
+      "num": 421883,
+      "word": "徐以若 于正",
+      "onboard_time": 1735775057,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 935368,
+      "num": 935368,
+      "word": "徐以若律师声明",
+      "onboard_time": 1735782440,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 912714,
       "num": 948551,
       "word": "超市因员工集体盗窃亏损200万倒闭",
@@ -35,11 +51,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 858667,
-      "num": 405815,
-      "word": "徐以若 于正",
-      "onboard_time": 1735775057,
-      "rank": 10,
+      "raw_hot": 843634,
+      "num": 843634,
+      "word": "赵露思看余华的我胆小如鼠",
+      "onboard_time": 1735780459,
+      "rank": 1,
       "category": "艺人"
     },
     {
@@ -51,24 +67,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 810490,
-      "num": 810490,
-      "word": "赵露思看余华的我胆小如鼠",
-      "onboard_time": 1735780459,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 745626,
-      "num": 395882,
+      "raw_hot": 816428,
+      "num": 416381,
       "word": "张颂文",
       "onboard_time": 1735778299,
       "rank": 11,
       "category": "艺人"
     },
     {
-      "raw_hot": 658810,
-      "num": 658810,
+      "raw_hot": 701829,
+      "num": 701829,
       "word": "美特朗普国际酒店门前汽车爆炸1死7伤",
       "onboard_time": 1735778359,
       "rank": 3,
@@ -123,8 +131,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 516994,
-      "num": 516994,
+      "raw_hot": 544134,
+      "num": 544134,
       "word": "姜涛 又要被人骂了",
       "onboard_time": 1735778780,
       "rank": 5,
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 389785,
-      "num": 198051,
+      "num": 209294,
       "word": "金星到底有多恐怖",
       "onboard_time": 1735773675,
       "rank": 21,
@@ -227,6 +235,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 260667,
+      "num": 260667,
+      "word": "雷军晒健身房照片",
+      "onboard_time": 1735778240,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 241016,
       "num": 241016,
       "word": "B站2024百大UP主",
@@ -244,7 +260,7 @@
     },
     {
       "raw_hot": 230329,
-      "num": 198429,
+      "num": 209257,
       "word": "00后男生耐得住寂寞一天做上百条女裤",
       "onboard_time": 1735742241,
       "rank": 20,
@@ -273,6 +289,22 @@
       "onboard_time": 1735767612,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211161,
+      "num": 209277,
+      "word": "你觉得上四休三工作制可行吗",
+      "onboard_time": 1735782017,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 209332,
+      "num": 209332,
+      "word": "樊振东比耶照",
+      "onboard_time": 1735781358,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 208537,
@@ -307,20 +339,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 194304,
-      "num": 194304,
-      "word": "雷军晒健身房照片",
-      "onboard_time": 1735778240,
-      "rank": 23,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 188446,
       "num": 188446,
       "word": "赵本山还是太超前了",
       "onboard_time": 1735743262,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187162,
+      "num": 209322,
+      "word": "方时赫 生活组",
+      "onboard_time": 1735781539,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 174932,
@@ -347,6 +379,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 167454,
+      "num": 428106,
+      "word": "我是陆地航母准备启程",
+      "onboard_time": 1735780938,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 153889,
       "num": 153889,
       "word": "黄龄刘忻声音里带水印",
@@ -361,6 +401,46 @@
       "onboard_time": 1735776798,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 149666,
+      "num": 413345,
+      "word": "历史学家路遥逝世",
+      "onboard_time": 1735779199,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148861,
+      "num": 148861,
+      "word": "黄冠亨 叶舒华",
+      "onboard_time": 1735782858,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 147431,
+      "num": 147431,
+      "word": "新华社解读马龙樊振东陈梦退出世排",
+      "onboard_time": 1735774217,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 147408,
+      "num": 147408,
+      "word": "湘潭大学三万学生一起跨年",
+      "onboard_time": 1735779019,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 143960,
+      "num": 143960,
+      "word": "何秋亊精神状态",
+      "onboard_time": 1735782618,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 142805,
@@ -385,30 +465,6 @@
       "onboard_time": 1735740443,
       "rank": 27,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 142462,
-      "num": 142462,
-      "word": "你觉得上四休三工作制可行吗",
-      "onboard_time": 1735782017,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 133918,
-      "num": 133918,
-      "word": "湘潭大学三万学生一起跨年",
-      "onboard_time": 1735779019,
-      "rank": 32,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 133529,
-      "num": 133529,
-      "word": "新华社解读马龙樊振东陈梦退出世排",
-      "onboard_time": 1735774217,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 132513,
@@ -459,36 +515,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 127848,
-      "num": 127848,
-      "word": "方时赫 生活组",
-      "onboard_time": 1735781539,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 127288,
       "num": 127288,
       "word": "小米汽车2025年交付目标30万辆",
       "onboard_time": 1735779319,
       "rank": 41,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 126708,
-      "num": 126708,
-      "word": "樊振东比耶照",
-      "onboard_time": 1735781358,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 125192,
-      "num": 413345,
-      "word": "历史学家路遥逝世",
-      "onboard_time": 1735779199,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123937,
@@ -539,14 +571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116387,
-      "num": 116387,
-      "word": "我是陆地航母准备启程",
-      "onboard_time": 1735780938,
-      "rank": 46,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 116159,
       "num": 116159,
       "word": "纽约男子在地铁进站瞬间被推下站台",
@@ -595,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104200,
+      "num": 104200,
+      "word": "九重紫在尊重每一种爱情观的存在",
+      "onboard_time": 1735781778,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98365,
       "num": 98365,
       "word": "乒超MVP",
@@ -609,14 +641,6 @@
       "onboard_time": 1735733902,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 97797,
-      "num": 97797,
-      "word": "九重紫在尊重每一种爱情观的存在",
-      "onboard_time": 1735781778,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 96321,
@@ -740,7 +764,7 @@
     },
     {
       "raw_hot": 60689,
-      "num": 176738,
+      "num": 209269,
       "word": "拖米发文道歉",
       "onboard_time": 1735776859,
       "rank": 24,
@@ -916,7 +940,7 @@
     },
     {
       "raw_hot": 26878,
-      "num": 419795,
+      "num": 430473,
       "word": "2025是一个什么年",
       "onboard_time": 1735689617,
       "rank": 8,
@@ -1019,8 +1043,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 7937,
-      "num": 695231,
+      "raw_hot": 8012,
+      "num": 853109,
       "word": "2025拼出自己的高光时刻",
       "onboard_time": 1735698440,
       "rank": 2,
