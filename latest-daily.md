@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/03 00:27:53 ~ 2025/01/03 02:30:07
+本榜单时间：2025/01/03 00:27:53 ~ 2025/01/03 02:43:07
 </p>
 </blockquote>
 <p>
@@ -393,14 +393,20 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%A5%97look%23" target="weibo">
-新年第一套look（热度：13252）
+<a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E5%9C%B0%E9%9C%87%E9%9C%87%E4%B8%AD%E9%99%84%E8%BF%91%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%E5%8F%91%E5%A3%B0%23" target="weibo">
+银川地震震中附近小学老师发声（热度：14621）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%8E%E5%B7%9E%E8%88%AA%E7%A9%BA%E4%BB%A3%E8%A1%A8%E7%90%86%E4%BA%8B%E9%87%91%E5%88%A9%E5%9F%B9%E8%A2%AB%E7%A6%81%E6%AD%A2%E5%87%BA%E5%9B%BD%23" target="weibo">
-济州航空代表理事金利培被禁止出国（热度：12994）
+济州航空代表理事金利培被禁止出国（热度：13596）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%A5%97look%23" target="weibo">
+新年第一套look（热度：13252）
 </a>
 </li>
 
