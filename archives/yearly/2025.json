@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735799464923,
+  "endTime": 1735800248921,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -131,19 +131,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1911188,
+      "num": 1911188,
+      "word": "医生解读赵露思病情",
+      "onboard_time": 1735796001,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1908560,
       "num": 322435,
       "word": "徐以若 赵露思",
       "onboard_time": 1735747999,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1905908,
-      "num": 1905908,
-      "word": "医生解读赵露思病情",
-      "onboard_time": 1735796001,
-      "rank": 27,
       "category": "艺人"
     },
     {
@@ -307,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1159548,
+      "num": 1159548,
+      "word": "男子跨年夜对近9万气球喷射加特林",
+      "onboard_time": 1735794861,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1158960,
       "num": 1158960,
       "word": "2025年新年贺词",
@@ -379,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 991966,
+      "num": 991966,
+      "word": "杨子崩溃大哭",
+      "onboard_time": 1735798942,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 991350,
       "num": 297270,
       "word": "轧戏",
@@ -396,7 +412,7 @@
     },
     {
       "raw_hot": 981982,
-      "num": 329129,
+      "num": 335727,
       "word": "芒果影视台 真干不了退圈不就行",
       "onboard_time": 1735795942,
       "rank": 22,
@@ -427,20 +443,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 932734,
-      "num": 932734,
-      "word": "男子跨年夜对近9万气球喷射加特林",
-      "onboard_time": 1735794861,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 931934,
       "num": 1149109,
       "word": "半亩花田 孙颖莎",
       "onboard_time": 1735704621,
       "rank": 22,
       "category": "美妆,体育"
+    },
+    {
+      "raw_hot": 927066,
+      "num": 927066,
+      "word": "A股",
+      "onboard_time": 1735783578,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 921839,
@@ -547,14 +563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 820665,
-      "num": 820665,
-      "word": "A股",
-      "onboard_time": 1735783578,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 818078,
       "num": 818078,
       "word": "覃予萱vs王曼昱",
@@ -659,6 +667,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 712620,
+      "num": 712620,
+      "word": "许昕再一次维护樊振东",
+      "onboard_time": 1735796483,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 701829,
       "num": 701829,
       "word": "美特朗普国际酒店门前汽车爆炸1死7伤",
@@ -707,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 659234,
+      "num": 659234,
+      "word": "韩失事客机残骸在调查过程中起火",
+      "onboard_time": 1735796421,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 657885,
       "num": 547152,
       "word": "十个勤天 春晚",
@@ -745,14 +769,6 @@
       "onboard_time": 1735791686,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 640551,
-      "num": 640551,
-      "word": "许昕再一次维护樊振东",
-      "onboard_time": 1735796483,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 640378,
@@ -801,14 +817,6 @@
       "onboard_time": 1735662445,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 623325,
-      "num": 623325,
-      "word": "韩失事客机残骸在调查过程中起火",
-      "onboard_time": 1735796421,
-      "rank": 6,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 620993,
@@ -896,6 +904,14 @@
       "word": "戚薇你根本没喝中药",
       "onboard_time": 1735731560,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 590278,
+      "num": 590278,
+      "word": "周涛董卿合照",
+      "onboard_time": 1735797561,
+      "rank": 9,
       "category": "艺人"
     },
     {
@@ -1027,14 +1043,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 481561,
-      "num": 481561,
-      "word": "周涛董卿合照",
-      "onboard_time": 1735797561,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 475731,
       "num": 475731,
       "word": "易烊千玺面试戏演哭剧组所有人",
@@ -1147,6 +1155,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 426313,
+      "num": 426313,
+      "word": "迪丽热巴人鱼美杜莎",
+      "onboard_time": 1735795703,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 424980,
       "num": 424980,
       "word": "刘亦菲连体皮衣",
@@ -1193,14 +1209,6 @@
       "onboard_time": 1735697240,
       "rank": 46,
       "category": "教育"
-    },
-    {
-      "raw_hot": 412350,
-      "num": 412350,
-      "word": "迪丽热巴人鱼美杜莎",
-      "onboard_time": 1735795703,
-      "rank": 25,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 411522,
@@ -1800,14 +1808,6 @@
       "word": "以为GAI原名叫周震南",
       "onboard_time": 1735776979,
       "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 281568,
-      "num": 281568,
-      "word": "杨子崩溃大哭",
-      "onboard_time": 1735798942,
-      "rank": 33,
       "category": "综艺"
     },
     {

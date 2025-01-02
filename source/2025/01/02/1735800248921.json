@@ -1,0 +1,410 @@
+{
+  "runTime": 1735800248921,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1911188,
+        "num": 1911188,
+        "word": "医生解读赵露思病情",
+        "onboard_time": 1735796001,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1159548,
+        "num": 1159548,
+        "word": "男子跨年夜对近9万气球喷射加特林",
+        "onboard_time": 1735794861,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22607,
+        "num": 1012081,
+        "word": "足迹2024",
+        "onboard_time": 1735788561,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 991966,
+        "num": 991966,
+        "word": "杨子崩溃大哭",
+        "onboard_time": 1735798942,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 927066,
+        "num": 927066,
+        "word": "A股",
+        "onboard_time": 1735783578,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 825085,
+        "num": 825085,
+        "word": "苹果官网突然降价",
+        "onboard_time": 1735786459,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 712620,
+        "num": 712620,
+        "word": "许昕再一次维护樊振东",
+        "onboard_time": 1735796483,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 659234,
+        "num": 659234,
+        "word": "韩失事客机残骸在调查过程中起火",
+        "onboard_time": 1735796421,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 590278,
+        "num": 590278,
+        "word": "周涛董卿合照",
+        "onboard_time": 1735797561,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103720,
+        "num": 502497,
+        "word": "抑郁是种情绪抑郁症是种疾病",
+        "onboard_time": 1735799241,
+        "rank": 9,
+        "category": "健康医疗,艺人"
+      },
+      {
+        "raw_hot": 498062,
+        "num": 498062,
+        "word": "女员工伪造怀孕B超单逃避服刑",
+        "onboard_time": 1735793783,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 426313,
+        "num": 426313,
+        "word": "迪丽热巴人鱼美杜莎",
+        "onboard_time": 1735795703,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 28294,
+        "num": 413259,
+        "word": "肖战倪妮新年短片",
+        "onboard_time": 1735798762,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410542,
+        "num": 410542,
+        "word": "上2休1再上2好潮",
+        "onboard_time": 1735777638,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69623,
+        "num": 408799,
+        "word": "大同就婴儿买卖事件成立联合调查组",
+        "onboard_time": 1735799420,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 407459,
+        "num": 407459,
+        "word": "韩国9名家人遇难的小狗已被收养",
+        "onboard_time": 1735793543,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 391338,
+        "num": 391338,
+        "word": "欧阳妮妮生子",
+        "onboard_time": 1735793783,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129467,
+        "num": 340383,
+        "word": "唐探1900用300亩土地搭建拍摄",
+        "onboard_time": 1735799121,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 338512,
+        "num": 338512,
+        "word": "拍照时左右脸不对称的人有福了",
+        "onboard_time": 1735792763,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23580,
+        "num": 337303,
+        "word": "张泽群 我们一同走过从前",
+        "onboard_time": 1735799841,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2561195,
+        "num": 336901,
+        "word": "于正问赵露思我怎么着你了",
+        "onboard_time": 1735784479,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 875293,
+        "num": 335727,
+        "word": "芒果影视台 真干不了退圈不就行",
+        "onboard_time": 1735795942,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378180,
+        "num": 334311,
+        "word": "徐以若律师声明",
+        "onboard_time": 1735782440,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352218,
+        "num": 332832,
+        "word": "毛不易 雪琴我那么握因为我是独唱",
+        "onboard_time": 1735796001,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135332,
+        "num": 331240,
+        "word": "樊振东这一幕和五年前好像",
+        "onboard_time": 1735799181,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 331034,
+        "num": 331034,
+        "word": "什么是抑郁症躯体化",
+        "onboard_time": 1735797861,
+        "rank": 25,
+        "category": "运动健身,艺人"
+      },
+      {
+        "raw_hot": 291990,
+        "num": 291990,
+        "word": "自驾阿姨苏敏称已转给男方16万",
+        "onboard_time": 1735791686,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263825,
+        "num": 263825,
+        "word": "十个勤天 春晚",
+        "onboard_time": 1735791686,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63562,
+        "num": 251686,
+        "word": "有洗发水用伪科学抹黑同行营销",
+        "onboard_time": 1735799299,
+        "rank": 28,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 77709,
+        "num": 248106,
+        "word": "千朵桃花两集三场床咚",
+        "onboard_time": 1735797801,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247690,
+        "num": 247690,
+        "word": "微博之夜赵丽颖的赛博搭子",
+        "onboard_time": 1735798161,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226726,
+        "num": 226726,
+        "word": "张颂文",
+        "onboard_time": 1735778299,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127200,
+        "num": 224139,
+        "word": "上海地铁回应男子早高峰有偿占座",
+        "onboard_time": 1735797561,
+        "rank": 32,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 186722,
+        "num": 223457,
+        "word": "吴磊daddy是一种感觉",
+        "onboard_time": 1735799060,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223168,
+        "num": 223168,
+        "word": "再见爱人",
+        "onboard_time": 1735793243,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208902,
+        "num": 208902,
+        "word": "肖战倪妮隔窗对视",
+        "onboard_time": 1735790240,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 206967,
+        "num": 206967,
+        "word": "小S晒了全家福",
+        "onboard_time": 1735794562,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168237,
+        "num": 168237,
+        "word": "微博之夜猜阵容",
+        "onboard_time": 1735792104,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167525,
+        "num": 167525,
+        "word": "难哄",
+        "onboard_time": 1735797440,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37736,
+        "num": 166213,
+        "word": "让所有人感叹的两爬动物",
+        "onboard_time": 1735799962,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 165181,
+        "num": 165181,
+        "word": "第一次见长发穿裙子的孙颖莎",
+        "onboard_time": 1735786339,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164975,
+        "num": 164975,
+        "word": "樊振东太全面的含金量还在上升",
+        "onboard_time": 1735797919,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156441,
+        "num": 156441,
+        "word": "A股新变化",
+        "onboard_time": 1735800199,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155688,
+        "num": 155688,
+        "word": "黄冠亨 叶舒华",
+        "onboard_time": 1735782858,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154564,
+        "num": 154564,
+        "word": "股市",
+        "onboard_time": 1735800140,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 153686,
+        "num": 153686,
+        "word": "郭靖宇说肖战的眼神让他印象深刻",
+        "onboard_time": 1735798040,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143228,
+        "num": 143228,
+        "word": "金星到底有多恐怖",
+        "onboard_time": 1735773675,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 143091,
+        "num": 143091,
+        "word": "祝绪丹微博之夜海报",
+        "onboard_time": 1735800140,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138935,
+        "num": 138935,
+        "word": "徐以若",
+        "onboard_time": 1735773735,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128489,
+        "num": 136915,
+        "word": "说说国乒奥运冠军退出世界排名这件事",
+        "onboard_time": 1735799420,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平说这些问题我一直挂念#"
+    }
+  }
+}

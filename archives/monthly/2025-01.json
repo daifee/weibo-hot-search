@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735799464923,
+  "endTime": 1735800248921,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -131,19 +131,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1911188,
+      "num": 1911188,
+      "word": "医生解读赵露思病情",
+      "onboard_time": 1735796001,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1908560,
       "num": 322435,
       "word": "徐以若 赵露思",
       "onboard_time": 1735747999,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1905908,
-      "num": 1905908,
-      "word": "医生解读赵露思病情",
-      "onboard_time": 1735796001,
-      "rank": 27,
       "category": "艺人"
     },
     {
@@ -307,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1159548,
+      "num": 1159548,
+      "word": "男子跨年夜对近9万气球喷射加特林",
+      "onboard_time": 1735794861,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1158960,
       "num": 1158960,
       "word": "2025年新年贺词",
@@ -379,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 991966,
+      "num": 991966,
+      "word": "杨子崩溃大哭",
+      "onboard_time": 1735798942,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 991350,
       "num": 297270,
       "word": "轧戏",
@@ -396,7 +412,7 @@
     },
     {
       "raw_hot": 981982,
-      "num": 329129,
+      "num": 335727,
       "word": "芒果影视台 真干不了退圈不就行",
       "onboard_time": 1735795942,
       "rank": 22,
@@ -427,20 +443,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 932734,
-      "num": 932734,
-      "word": "男子跨年夜对近9万气球喷射加特林",
-      "onboard_time": 1735794861,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 931934,
       "num": 1149109,
       "word": "半亩花田 孙颖莎",
       "onboard_time": 1735704621,
       "rank": 22,
       "category": "美妆,体育"
+    },
+    {
+      "raw_hot": 927066,
+      "num": 927066,
+      "word": "A股",
+      "onboard_time": 1735783578,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 921839,
@@ -547,14 +563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 820665,
-      "num": 820665,
-      "word": "A股",
-      "onboard_time": 1735783578,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 818078,
       "num": 818078,
       "word": "覃予萱vs王曼昱",
@@ -659,6 +667,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 712620,
+      "num": 712620,
+      "word": "许昕再一次维护樊振东",
+      "onboard_time": 1735796483,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 701829,
       "num": 701829,
       "word": "美特朗普国际酒店门前汽车爆炸1死7伤",
@@ -707,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 659234,
+      "num": 659234,
+      "word": "韩失事客机残骸在调查过程中起火",
+      "onboard_time": 1735796421,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 657885,
       "num": 547152,
       "word": "十个勤天 春晚",
@@ -745,14 +769,6 @@
       "onboard_time": 1735791686,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 640551,
-      "num": 640551,
-      "word": "许昕再一次维护樊振东",
-      "onboard_time": 1735796483,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 640378,
@@ -801,14 +817,6 @@
       "onboard_time": 1735662445,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 623325,
-      "num": 623325,
-      "word": "韩失事客机残骸在调查过程中起火",
-      "onboard_time": 1735796421,
-      "rank": 6,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 620993,
@@ -896,6 +904,14 @@
       "word": "戚薇你根本没喝中药",
       "onboard_time": 1735731560,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 590278,
+      "num": 590278,
+      "word": "周涛董卿合照",
+      "onboard_time": 1735797561,
+      "rank": 9,
       "category": "艺人"
     },
     {
@@ -1027,14 +1043,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 481561,
-      "num": 481561,
-      "word": "周涛董卿合照",
-      "onboard_time": 1735797561,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 475731,
       "num": 475731,
       "word": "易烊千玺面试戏演哭剧组所有人",
@@ -1147,6 +1155,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 426313,
+      "num": 426313,
+      "word": "迪丽热巴人鱼美杜莎",
+      "onboard_time": 1735795703,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 424980,
       "num": 424980,
       "word": "刘亦菲连体皮衣",
@@ -1193,14 +1209,6 @@
       "onboard_time": 1735697240,
       "rank": 46,
       "category": "教育"
-    },
-    {
-      "raw_hot": 412350,
-      "num": 412350,
-      "word": "迪丽热巴人鱼美杜莎",
-      "onboard_time": 1735795703,
-      "rank": 25,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 411522,
@@ -1800,14 +1808,6 @@
       "word": "以为GAI原名叫周震南",
       "onboard_time": 1735776979,
       "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 281568,
-      "num": 281568,
-      "word": "杨子崩溃大哭",
-      "onboard_time": 1735798942,
-      "rank": 33,
       "category": "综艺"
     },
     {
@@ -2803,6 +2803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186722,
+      "num": 223457,
+      "word": "吴磊daddy是一种感觉",
+      "onboard_time": 1735799060,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185897,
       "num": 185897,
       "word": "2025腾讯视频大剧片单",
@@ -3163,6 +3171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167525,
+      "num": 167525,
+      "word": "难哄",
+      "onboard_time": 1735797440,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167454,
       "num": 428106,
       "word": "我是陆地航母准备启程",
@@ -3347,14 +3363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 159887,
-      "num": 159887,
-      "word": "难哄",
-      "onboard_time": 1735797440,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 158770,
       "num": 158770,
       "word": "美国冲撞人群司机下车向人群开枪",
@@ -3419,6 +3427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156441,
+      "num": 156441,
+      "word": "A股新变化",
+      "onboard_time": 1735800199,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 156006,
       "num": 156006,
       "word": "专家说很多翻译硕士水平比不上AI",
@@ -3443,6 +3459,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 154564,
+      "num": 154564,
+      "word": "股市",
+      "onboard_time": 1735800140,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 154542,
       "num": 154542,
       "word": "林一 Steve",
@@ -3457,6 +3481,14 @@
       "onboard_time": 1735744101,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153686,
+      "num": 326401,
+      "word": "郭靖宇说肖战的眼神让他印象深刻",
+      "onboard_time": 1735798040,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 152629,
@@ -3659,6 +3691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143091,
+      "num": 143091,
+      "word": "祝绪丹微博之夜海报",
+      "onboard_time": 1735800140,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142805,
       "num": 151553,
       "word": "孙艺洲被哄成胚胎了",
@@ -3716,7 +3756,7 @@
     },
     {
       "raw_hot": 140325,
-      "num": 328275,
+      "num": 331240,
       "word": "樊振东这一幕和五年前好像",
       "onboard_time": 1735799181,
       "rank": 24,
@@ -4003,6 +4043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 129467,
+      "num": 340383,
+      "word": "唐探1900用300亩土地搭建拍摄",
+      "onboard_time": 1735799121,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 128918,
       "num": 127888,
       "word": "胡锡进建议普通人避开四个陷阱",
@@ -4017,6 +4065,14 @@
       "onboard_time": 1735714759,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128489,
+      "num": 156193,
+      "word": "说说国乒奥运冠军退出世界排名这件事",
+      "onboard_time": 1735799420,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 128335,
@@ -4049,6 +4105,14 @@
       "onboard_time": 1735718839,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127200,
+      "num": 324509,
+      "word": "上海地铁回应男子早高峰有偿占座",
+      "onboard_time": 1735797561,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 127087,
@@ -4259,14 +4323,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 117315,
-      "num": 156193,
-      "word": "说说国乒奥运冠军退出世界排名这件事",
-      "onboard_time": 1735799420,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 117116,
       "num": 117116,
       "word": "花海回家了",
@@ -4289,14 +4345,6 @@
       "onboard_time": 1735789040,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 116606,
-      "num": 324509,
-      "word": "上海地铁回应男子早高峰有偿占座",
-      "onboard_time": 1735797561,
-      "rank": 29,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 116586,
@@ -4475,14 +4523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109270,
-      "num": 206852,
-      "word": "吴磊daddy是一种感觉",
-      "onboard_time": 1735799060,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 108860,
       "num": 108860,
       "word": "孙颖莎说新年呈现了一场精彩的比赛",
@@ -4547,6 +4587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103720,
+      "num": 502497,
+      "word": "抑郁是种情绪抑郁症是种疾病",
+      "onboard_time": 1735799241,
+      "rank": 16,
+      "category": "健康医疗,艺人"
+    },
+    {
       "raw_hot": 103695,
       "num": 103695,
       "word": "B站懂我",
@@ -4593,14 +4641,6 @@
       "onboard_time": 1735670954,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 98729,
-      "num": 326401,
-      "word": "郭靖宇说肖战的眼神让他印象深刻",
-      "onboard_time": 1735798040,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 97725,
@@ -4697,14 +4737,6 @@
       "onboard_time": 1735724119,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 87349,
-      "num": 334185,
-      "word": "唐探1900用300亩土地搭建拍摄",
-      "onboard_time": 1735799121,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 87260,
@@ -4859,6 +4891,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 69623,
+      "num": 408799,
+      "word": "大同就婴儿买卖事件成立联合调查组",
+      "onboard_time": 1735799420,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 68085,
       "num": 68085,
       "word": "感谢每一个不平凡的你",
@@ -4913,6 +4953,14 @@
       "onboard_time": 1735644560,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 63562,
+      "num": 326356,
+      "word": "有洗发水用伪科学抹黑同行营销",
+      "onboard_time": 1735799299,
+      "rank": 27,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 63182,
@@ -4995,14 +5043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 58509,
-      "num": 326356,
-      "word": "有洗发水用伪科学抹黑同行营销",
-      "onboard_time": 1735799299,
-      "rank": 27,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 58468,
       "num": 190590,
       "word": "箱根驿传",
@@ -5033,14 +5073,6 @@
       "onboard_time": 1735725920,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54163,
-      "num": 335917,
-      "word": "抑郁是种情绪抑郁症是种疾病",
-      "onboard_time": 1735799241,
-      "rank": 16,
-      "category": "健康医疗,艺人"
     },
     {
       "raw_hot": 54155,
@@ -5219,6 +5251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37736,
+      "num": 166213,
+      "word": "让所有人感叹的两爬动物",
+      "onboard_time": 1735799962,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 37558,
       "num": 75671,
       "word": "因爱重生的肥娟小吃店迎来晚高峰",
@@ -5347,14 +5387,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 32340,
-      "num": 357798,
-      "word": "大同就婴儿买卖事件成立联合调查组",
-      "onboard_time": 1735799420,
-      "rank": 14,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 32068,
       "num": 54820,
       "word": "这是2025年第一天的中国",
@@ -5449,6 +5481,14 @@
       "onboard_time": 1735757472,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 28294,
+      "num": 413259,
+      "word": "肖战倪妮新年短片",
+      "onboard_time": 1735798762,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 28093,
@@ -5547,6 +5587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 23580,
+      "num": 337303,
+      "word": "张泽群 我们一同走过从前",
+      "onboard_time": 1735799841,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 22251,
       "num": 245337,
       "word": "雷佳音开年头一单",
@@ -5625,14 +5673,6 @@
       "onboard_time": 1735695620,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 17961,
-      "num": 323977,
-      "word": "肖战倪妮新年短片",
-      "onboard_time": 1735798762,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 17934,
