@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735786313945,
+  "endTime": 1735786854772,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -27,8 +27,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 9341756,
-      "num": 9341756,
+      "raw_hot": 10019281,
+      "num": 10019281,
       "word": "于正问赵露思我怎么着你了",
       "onboard_time": 1735784479,
       "rank": 0,
@@ -307,6 +307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1020426,
+      "num": 1020426,
+      "word": "15岁女孩以买方身份入院产子卖6万8",
+      "onboard_time": 1735785019,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1017412,
       "num": 639794,
       "word": "赵露思 救救我",
@@ -377,14 +385,6 @@
       "onboard_time": 1735733721,
       "rank": 4,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 955067,
-      "num": 955067,
-      "word": "15岁女孩以买方身份入院产子卖6万8",
-      "onboard_time": 1735785019,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 931934,
@@ -700,7 +700,7 @@
     },
     {
       "raw_hot": 616301,
-      "num": 258600,
+      "num": 301243,
       "word": "黄冠亨 叶舒华",
       "onboard_time": 1735782858,
       "rank": 30,
@@ -964,7 +964,7 @@
     },
     {
       "raw_hot": 435344,
-      "num": 191686,
+      "num": 221431,
       "word": "留学生穿睡衣帮爸爸谈跨国生意",
       "onboard_time": 1735785082,
       "rank": 23,
@@ -1347,6 +1347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 324678,
+      "num": 324678,
+      "word": "上海男子5元卖早高峰地铁座位",
+      "onboard_time": 1735785082,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 323263,
       "num": 240191,
       "word": "王鹤棣转场太可以了",
@@ -1385,6 +1393,14 @@
       "onboard_time": 1735741041,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 312607,
+      "num": 312607,
+      "word": "山西一产科医生涉嫌参与婴儿买卖",
+      "onboard_time": 1735785019,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 312365,
@@ -1491,6 +1507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 290450,
+      "num": 290450,
+      "word": "樊振东MLB中国区冠军荣耀大使",
+      "onboard_time": 1735786160,
+      "rank": 7,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 287322,
       "num": 287322,
       "word": "抑郁症",
@@ -1539,14 +1563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 279296,
-      "num": 279296,
-      "word": "樊振东MLB中国区冠军荣耀大使",
-      "onboard_time": 1735786160,
-      "rank": 7,
-      "category": "体育,时尚"
-    },
-    {
       "raw_hot": 277666,
       "num": 202737,
       "word": "跨年晚会",
@@ -1577,14 +1593,6 @@
       "onboard_time": 1735660527,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 271785,
-      "num": 271785,
-      "word": "上海男子5元卖早高峰地铁座位",
-      "onboard_time": 1735785082,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 271199,
@@ -1649,14 +1657,6 @@
       "onboard_time": 1735662986,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 259351,
-      "num": 259351,
-      "word": "山西一产科医生涉嫌参与婴儿买卖",
-      "onboard_time": 1735785019,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 258361,
@@ -1795,6 +1795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 241638,
+      "num": 221132,
+      "word": "苹果官网突然降价",
+      "onboard_time": 1735786459,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 237500,
       "num": 237500,
       "word": "BLACKPINK5月完整体回归",
@@ -1809,6 +1817,14 @@
       "onboard_time": 1735743202,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 235175,
+      "num": 221267,
+      "word": "第一次见长发穿裙子的孙颖莎",
+      "onboard_time": 1735786339,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 230697,
@@ -1905,6 +1921,14 @@
       "onboard_time": 1735718899,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217673,
+      "num": 217673,
+      "word": "网友说周三放假很科学",
+      "onboard_time": 1735784479,
+      "rank": 32,
+      "category": "民生新闻,议题讨论"
     },
     {
       "raw_hot": 217669,
@@ -2131,6 +2155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200680,
+      "num": 221966,
+      "word": "何秋亊精神状态",
+      "onboard_time": 1735782618,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 200148,
       "num": 202377,
       "word": "王俊凯你还是太强了",
@@ -2227,6 +2259,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 193884,
+      "num": 311188,
+      "word": "2025第一个工作日开始了",
+      "onboard_time": 1735786221,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193734,
       "num": 843700,
       "word": "2025新年签",
@@ -2257,14 +2297,6 @@
       "onboard_time": 1735744642,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 192836,
-      "num": 192836,
-      "word": "何秋亊精神状态",
-      "onboard_time": 1735782618,
-      "rank": 33,
-      "category": "网红"
     },
     {
       "raw_hot": 191865,
@@ -2369,38 +2401,6 @@
       "onboard_time": 1735691118,
       "rank": 34,
       "category": "综艺,体育"
-    },
-    {
-      "raw_hot": 185560,
-      "num": 159484,
-      "word": "孙颖莎3比2钱天一",
-      "onboard_time": 1735711823,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 183916,
-      "num": 149296,
-      "word": "孙颖莎3比2逆转王曼昱",
-      "onboard_time": 1735720699,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 182553,
-      "num": 182553,
-      "word": "假如猎罪图鉴3的开头是这样的",
-      "onboard_time": 1735735941,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 182159,
-      "num": 200736,
-      "word": "山东鲁能队夺冠",
-      "onboard_time": 1735716560,
-      "rank": 31,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
