@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735822666909,
+  "endTime": 1735824403918,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 2227116,
-      "num": 676773,
+      "num": 891572,
       "word": "外国网红猫女去世",
       "onboard_time": 1735810700,
       "rank": 3,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 987481,
-      "num": 742300,
+      "num": 902877,
       "word": "疑似李行亮没下车",
       "onboard_time": 1735818683,
       "rank": 6,
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 955891,
-      "num": 649304,
+      "num": 887726,
       "word": "感觉王鹤棣下一秒就要哭了",
       "onboard_time": 1735818620,
       "rank": 7,
@@ -547,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 918165,
+      "num": 918165,
+      "word": "父子相认17年结果生父变养父",
+      "onboard_time": 1735819702,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 915869,
       "num": 865770,
       "word": "虞书欣跨年甜辣风舞台",
@@ -571,16 +579,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 887594,
-      "num": 887594,
-      "word": "父子相认17年结果生父变养父",
-      "onboard_time": 1735819702,
-      "rank": 1,
+      "raw_hot": 895489,
+      "num": 895489,
+      "word": "19岁少女网贷9万买笑气",
+      "onboard_time": 1735820780,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
       "raw_hot": 883945,
-      "num": 665953,
+      "num": 669248,
       "word": "理发师晓华爆改外国人",
       "onboard_time": 1735816639,
       "rank": 34,
@@ -731,6 +739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 767760,
+      "num": 767760,
+      "word": "2025待爆",
+      "onboard_time": 1735821560,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 765910,
       "num": 765910,
       "word": "杨幂跨年打鼓舞台",
@@ -817,6 +833,14 @@
       "onboard_time": 1735696999,
       "rank": 34,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 682351,
+      "num": 682351,
+      "word": "霸王茶姬毛绒杯",
+      "onboard_time": 1735822219,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 681455,
@@ -956,7 +980,7 @@
     },
     {
       "raw_hot": 625119,
-      "num": 531396,
+      "num": 534985,
       "word": "谁家电视剧第一集就亲啊",
       "onboard_time": 1735817059,
       "rank": 15,
@@ -1387,14 +1411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 426581,
-      "num": 426581,
-      "word": "19岁少女网贷9万买笑气",
-      "onboard_time": 1735820780,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 426313,
       "num": 426313,
       "word": "迪丽热巴人鱼美杜莎",
@@ -1553,14 +1569,6 @@
       "onboard_time": 1735696999,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 388267,
-      "num": 254418,
-      "word": "2025待爆",
-      "onboard_time": 1735821560,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 386314,
@@ -2099,6 +2107,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 290068,
+      "num": 281191,
+      "word": "村民称刘强东发钱不是应该的",
+      "onboard_time": 1735821261,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 287546,
       "num": 287546,
       "word": "小S晒了全家福",
@@ -2235,12 +2251,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 264546,
+      "num": 264546,
+      "word": "黄多多近照",
+      "onboard_time": 1735824260,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 263825,
       "num": 725705,
       "word": "2025第1条微博",
       "onboard_time": 1735663227,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 261750,
+      "num": 261750,
+      "word": "能存得住钱的人都有一个共同点",
+      "onboard_time": 1735818260,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 260667,
@@ -2291,11 +2323,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 256478,
+      "num": 256478,
+      "word": "黄圣依这段突然燃起来了",
+      "onboard_time": 1735822040,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255370,
       "num": 255370,
       "word": "檀健次全开麦唱跳好稳",
       "onboard_time": 1735665381,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 255355,
+      "num": 255355,
+      "word": "再见爱人最终选择",
+      "onboard_time": 1735823659,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -2352,54 +2400,6 @@
       "word": "误杀3 肖央你耍我",
       "onboard_time": 1735805118,
       "rank": 17,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 248482,
-      "num": 248482,
-      "word": "过境乌的俄天然气申请流量为零",
-      "onboard_time": 1735713138,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 248475,
-      "num": 260877,
-      "word": "赵丽颖对接确认参加微博之夜",
-      "onboard_time": 1735800562,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 246844,
-      "num": 307031,
-      "word": "国内生产总值预计超130万亿元",
-      "onboard_time": 1735645882,
-      "rank": 35,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 246596,
-      "num": 246596,
-      "word": "2025年是本世纪唯一一个完美平方年",
-      "onboard_time": 1735742121,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 245315,
-      "num": 282069,
-      "word": "aespa对宁艺卓的中文呼唤",
-      "onboard_time": 1735707979,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 244341,
-      "num": 244341,
-      "word": "误杀3 东南亚式恐怖",
-      "onboard_time": 1735724959,
-      "rank": 13,
       "category": "电影"
     }
   ],
