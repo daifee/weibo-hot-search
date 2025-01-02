@@ -1,0 +1,410 @@
+{
+  "runTime": 1735806494728,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 739927,
+        "num": 1118388,
+        "word": "苹果官网突然降价",
+        "onboard_time": 1735786459,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 698925,
+        "num": 698925,
+        "word": "棣欣引力",
+        "onboard_time": 1735805060,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23920,
+        "num": 688339,
+        "word": "足迹2024",
+        "onboard_time": 1735788561,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2103658,
+        "num": 686817,
+        "word": "虞书欣评论张彬彬",
+        "onboard_time": 1735802482,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 681455,
+        "num": 681455,
+        "word": "当教师不是铁饭碗你还会卷教资吗",
+        "onboard_time": 1735801579,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 611831,
+        "num": 611831,
+        "word": "男子跨年夜对近9万气球喷射加特林",
+        "onboard_time": 1735794861,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1165782,
+        "num": 540020,
+        "word": "医生解读赵露思病情",
+        "onboard_time": 1735796001,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1094434,
+        "num": 528727,
+        "word": "杨子崩溃大哭",
+        "onboard_time": 1735798942,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400457,
+        "num": 400457,
+        "word": "韩失事客机残骸在调查过程中起火",
+        "onboard_time": 1735796421,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 200624,
+        "num": 397334,
+        "word": "部分中国航司航班绕开俄罗斯南部空域",
+        "onboard_time": 1735803620,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430913,
+        "num": 393107,
+        "word": "陈小春古巨基催婚奥斯卡",
+        "onboard_time": 1735802060,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430466,
+        "num": 391000,
+        "word": "王鹤棣说拍大奉时热到盒饭都馊了",
+        "onboard_time": 1735804220,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 516758,
+        "num": 388919,
+        "word": "黄圣依说杨子这出戏是拿奖级别",
+        "onboard_time": 1735803081,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385751,
+        "num": 385751,
+        "word": "拜登特朗普就汽车撞人事件表态",
+        "onboard_time": 1735804100,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118856,
+        "num": 329384,
+        "word": "美国汽车撞人案遇难女生即将上大学",
+        "onboard_time": 1735805181,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25044,
+        "num": 314047,
+        "word": "Turbo4尔滨专用机",
+        "onboard_time": 1735804400,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 313717,
+        "num": 313717,
+        "word": "湖南一女游客玩滑翔伞疑掉进水帘洞",
+        "onboard_time": 1735805118,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187729,
+        "num": 310417,
+        "word": "误杀3 肖央你耍我",
+        "onboard_time": 1735805118,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104567,
+        "num": 309875,
+        "word": "一潜水者被所乘游艇挂机螺旋绞中死亡",
+        "onboard_time": 1735805300,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309563,
+        "num": 309563,
+        "word": "2元成本一晚进账6523元她的营销很棒",
+        "onboard_time": 1735800682,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2026341,
+        "num": 298341,
+        "word": "于正问赵露思我怎么着你了",
+        "onboard_time": 1735784479,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 795291,
+        "num": 295803,
+        "word": "公摊面积最大的水果",
+        "onboard_time": 1735803919,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 278043,
+        "num": 278043,
+        "word": "什么是抑郁症躯体化",
+        "onboard_time": 1735797861,
+        "rank": 22,
+        "category": "运动健身,艺人"
+      },
+      {
+        "raw_hot": 372752,
+        "num": 267808,
+        "word": "23岁男子称遭30岁女房东骚扰",
+        "onboard_time": 1735804400,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254064,
+        "num": 254064,
+        "word": "许昕再一次维护樊振东",
+        "onboard_time": 1735796483,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208849,
+        "num": 245144,
+        "word": "孙珍妮是00花也是灵灵花",
+        "onboard_time": 1735805660,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240883,
+        "num": 240883,
+        "word": "A股振幅加大原因",
+        "onboard_time": 1735804579,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 97449,
+        "num": 237625,
+        "word": "医院保洁倒卖婴儿称自己是做好事",
+        "onboard_time": 1735805780,
+        "rank": 27,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 55217,
+        "num": 234728,
+        "word": "马斯克就汽车爆炸事件发声",
+        "onboard_time": 1735805118,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 94855,
+        "num": 229811,
+        "word": "樊振东跨界棒球",
+        "onboard_time": 1735805422,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199952,
+        "num": 225617,
+        "word": "迪丽热巴人鱼美杜莎",
+        "onboard_time": 1735795703,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 92958,
+        "num": 224936,
+        "word": "孙颖莎谈赛场上的小癖好",
+        "onboard_time": 1735806200,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221528,
+        "num": 221528,
+        "word": "小孩 你欺负到蛋糕店千金了",
+        "onboard_time": 1735804940,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211643,
+        "num": 211643,
+        "word": "拍照时左右脸不对称的人有福了",
+        "onboard_time": 1735792763,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192816,
+        "num": 192816,
+        "word": "只有张雨绮真的在喝中药",
+        "onboard_time": 1735804100,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191045,
+        "num": 191045,
+        "word": "上2休1再上2好潮",
+        "onboard_time": 1735777638,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190487,
+        "num": 190487,
+        "word": "股市",
+        "onboard_time": 1735800140,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 181717,
+        "num": 181717,
+        "word": "周涛董卿合照",
+        "onboard_time": 1735797561,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178306,
+        "num": 178306,
+        "word": "十个勤天 春晚",
+        "onboard_time": 1735791686,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172724,
+        "num": 172724,
+        "word": "赵丽颖对接确认参加微博之夜",
+        "onboard_time": 1735800562,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171536,
+        "num": 171536,
+        "word": "张颂文",
+        "onboard_time": 1735778299,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168972,
+        "num": 168972,
+        "word": "俄罗斯一客机降落滑行时冲出跑道",
+        "onboard_time": 1735803919,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 161028,
+        "num": 161028,
+        "word": "赵睿爆粗回怼上海网友",
+        "onboard_time": 1735806320,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153906,
+        "num": 153906,
+        "word": "福建123岁最长寿老人去世",
+        "onboard_time": 1735806019,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150481,
+        "num": 150481,
+        "word": "世界之外",
+        "onboard_time": 1735805359,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149888,
+        "num": 149888,
+        "word": "女员工伪造怀孕B超单逃避服刑",
+        "onboard_time": 1735793783,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146758,
+        "num": 146758,
+        "word": "欧阳妮妮生子",
+        "onboard_time": 1735793783,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145566,
+        "num": 145566,
+        "word": "突然get到胡冰卿的法式明媚",
+        "onboard_time": 1735806442,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144487,
+        "num": 144487,
+        "word": "徐以若律师声明",
+        "onboard_time": 1735782440,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144345,
+        "num": 144345,
+        "word": "韩国9名家人遇难的小狗已被收养",
+        "onboard_time": 1735793543,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025新年贺词#"
+    }
+  }
+}
