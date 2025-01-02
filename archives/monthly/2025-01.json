@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735789310895,
+  "endTime": 1735792002291,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -57,6 +57,14 @@
       "onboard_time": 1735662029,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2944850,
+      "num": 450137,
+      "word": "自称赵露思前工作人员喊话赵露思",
+      "onboard_time": 1735790842,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 2763810,
@@ -145,6 +153,14 @@
       "onboard_time": 1735665381,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1634915,
+      "num": 1634915,
+      "word": "樊振东瘦成薄薄一片了",
+      "onboard_time": 1735790542,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1630212,
@@ -603,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 719009,
+      "num": 449301,
+      "word": "肖战倪妮隔窗对视",
+      "onboard_time": 1735790240,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 701829,
       "num": 701829,
       "word": "美特朗普国际酒店门前汽车爆炸1死7伤",
@@ -665,6 +689,14 @@
       "onboard_time": 1735701379,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 640378,
+      "num": 535527,
+      "word": "第一次见长发穿裙子的孙颖莎",
+      "onboard_time": 1735786339,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 640226,
@@ -809,14 +841,6 @@
       "onboard_time": 1735778780,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 535527,
-      "num": 535527,
-      "word": "第一次见长发穿裙子的孙颖莎",
-      "onboard_time": 1735786339,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 524104,
@@ -1083,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 397209,
+      "num": 397209,
+      "word": "鹿晗高瀚宇眉钉大片",
+      "onboard_time": 1735791143,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 394603,
       "num": 394603,
       "word": "王力宏 复出",
@@ -1100,7 +1132,7 @@
     },
     {
       "raw_hot": 389785,
-      "num": 209294,
+      "num": 217087,
       "word": "金星到底有多恐怖",
       "onboard_time": 1735773675,
       "rank": 21,
@@ -1411,6 +1443,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 317842,
+      "num": 317842,
+      "word": "花1万8去俄罗斯玩了一周",
+      "onboard_time": 1735787961,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 317471,
+      "num": 343581,
+      "word": "史上最薄iPhone渲染图来了",
+      "onboard_time": 1735788262,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 316756,
       "num": 459541,
       "word": "王楚钦说林诗栋是国乒绝对主力",
@@ -1507,6 +1555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 298373,
+      "num": 298373,
+      "word": "十个勤天 春晚",
+      "onboard_time": 1735791686,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297704,
       "num": 281030,
       "word": "于朦胧状态",
@@ -1521,6 +1577,14 @@
       "onboard_time": 1735777398,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291056,
+      "num": 291056,
+      "word": "路特斯正式更名为莲花跑车",
+      "onboard_time": 1735789401,
+      "rank": 23,
+      "category": "汽车"
     },
     {
       "raw_hot": 290935,
@@ -1651,6 +1715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 268790,
+      "num": 268790,
+      "word": "李晨姑姑消消乐",
+      "onboard_time": 1735789942,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 265897,
       "num": 265897,
       "word": "DQ Chiikawa",
@@ -1721,14 +1793,6 @@
       "onboard_time": 1735665381,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 254913,
-      "num": 254913,
-      "word": "花1万8去俄罗斯玩了一周",
-      "onboard_time": 1735787961,
-      "rank": 33,
-      "category": "旅游"
     },
     {
       "raw_hot": 253824,
@@ -1835,6 +1899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 237562,
+      "num": 237562,
+      "word": "抑郁症患者会无意识做哪些事",
+      "onboard_time": 1735791262,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 237500,
       "num": 384566,
       "word": "BLACKPINK5月完整体回归",
@@ -1873,6 +1945,14 @@
       "onboard_time": 1735734202,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 226037,
+      "num": 339049,
+      "word": "周微",
+      "onboard_time": 1735788621,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 225099,
@@ -1955,14 +2035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 219017,
-      "num": 343581,
-      "word": "史上最薄iPhone渲染图来了",
-      "onboard_time": 1735788262,
-      "rank": 42,
-      "category": "数码"
-    },
-    {
       "raw_hot": 217673,
       "num": 217673,
       "word": "网友说周三放假很科学",
@@ -2035,6 +2107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212386,
+      "num": 212386,
+      "word": "52周存钱法最无痛的存钱方式",
+      "onboard_time": 1735789462,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 211518,
       "num": 225414,
       "word": "邓亚萍说老将王曼昱扛住了压力",
@@ -2097,6 +2177,14 @@
       "onboard_time": 1735701979,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206038,
+      "num": 448227,
+      "word": "元旦上4休3体验感如何",
+      "onboard_time": 1735786941,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205771,
@@ -2179,11 +2267,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201840,
+      "num": 201840,
+      "word": "新华社解读马龙樊振东陈梦退出世排",
+      "onboard_time": 1735774217,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200815,
       "num": 201655,
       "word": "昆明一步行街蛇宝宝花灯丑萌出圈",
       "onboard_time": 1735733721,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200813,
+      "num": 200813,
+      "word": "自驾阿姨苏敏称已转给男方16万",
+      "onboard_time": 1735791686,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -2209,6 +2313,14 @@
       "onboard_time": 1735737382,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199973,
+      "num": 256747,
+      "word": "国色芳华祖传cp包甜的",
+      "onboard_time": 1735790962,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 199217,
@@ -2563,6 +2675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175792,
+      "num": 266020,
+      "word": "误杀3 染血的佛珠",
+      "onboard_time": 1735788621,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 175699,
       "num": 175699,
       "word": "唐九洲一晚上要惹多少祸",
@@ -2625,6 +2745,14 @@
       "onboard_time": 1735724959,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 173413,
+      "num": 173413,
+      "word": "薛之谦刘维黄子弘凡跳troublemaker",
+      "onboard_time": 1735791922,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 172942,
@@ -2819,6 +2947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165121,
+      "num": 165121,
+      "word": "王楚钦眼里有光",
+      "onboard_time": 1735790360,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164933,
       "num": 164933,
       "word": "肖战祝大家新年喜乐多",
@@ -2865,6 +3001,14 @@
       "onboard_time": 1735695200,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 162421,
+      "num": 162421,
+      "word": "张彬彬新剧老天爷赏老婆",
+      "onboard_time": 1735791864,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 161583,
@@ -3059,6 +3203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149234,
+      "num": 317504,
+      "word": "春晚彩排",
+      "onboard_time": 1735791262,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149111,
       "num": 149111,
       "word": "崩坏星穹铁道",
@@ -3112,14 +3264,6 @@
       "word": "山东鲁能1比0深圳大学",
       "onboard_time": 1735709779,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 147431,
-      "num": 147431,
-      "word": "新华社解读马龙樊振东陈梦退出世排",
-      "onboard_time": 1735774217,
-      "rank": 43,
       "category": "体育"
     },
     {
@@ -3353,14 +3497,6 @@
       "onboard_time": 1735708399,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135261,
-      "num": 266020,
-      "word": "误杀3 染血的佛珠",
-      "onboard_time": 1735788621,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 135251,
@@ -3627,6 +3763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122954,
+      "num": 317486,
+      "word": "男子疑得罪驿站员工致无法收到快递",
+      "onboard_time": 1735790903,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122654,
       "num": 122654,
       "word": "原神焚夜以炎",
@@ -3761,14 +3905,6 @@
       "onboard_time": 1735694839,
       "rank": 25,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 117800,
-      "num": 117800,
-      "word": "元旦上4休3体验感如何",
-      "onboard_time": 1735786941,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117116,
@@ -4075,6 +4211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 97725,
+      "num": 287518,
+      "word": "马龙当之无愧的GOAT",
+      "onboard_time": 1735790423,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97416,
       "num": 163195,
       "word": "张杰爱自己爱家人爱音乐爱你们",
@@ -4193,6 +4337,14 @@
       "onboard_time": 1735641262,
       "rank": 31,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 85289,
+      "num": 257247,
+      "word": "王子文签约和颂",
+      "onboard_time": 1735791985,
+      "rank": 28,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 84135,
@@ -4531,6 +4683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46354,
+      "num": 407950,
+      "word": "食品代购游走在灰色地带",
+      "onboard_time": 1735790962,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45356,
       "num": 449392,
       "word": "民警从游戏皮肤骗局里抢回14万",
@@ -4715,14 +4875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34040,
-      "num": 339049,
-      "word": "周微",
-      "onboard_time": 1735788621,
-      "rank": 18,
-      "category": "网红"
-    },
-    {
       "raw_hot": 32425,
       "num": 344529,
       "word": "网易第五人格",
@@ -4785,6 +4937,22 @@
       "onboard_time": 1735738764,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 29833,
+      "num": 154497,
+      "word": "骑士面对西部球队保持全胜",
+      "onboard_time": 1735790542,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 29479,
+      "num": 1608607,
+      "word": "足迹2024",
+      "onboard_time": 1735788561,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29378,
@@ -4899,12 +5067,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 23547,
-      "num": 1027276,
-      "word": "足迹2024",
-      "onboard_time": 1735788561,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 22788,
+      "num": 401325,
+      "word": "够蛋定的人在路上都能蹭到财气",
+      "onboard_time": 1735790423,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 21649,

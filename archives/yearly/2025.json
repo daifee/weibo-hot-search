@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735789310895,
+  "endTime": 1735792002291,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -57,6 +57,14 @@
       "onboard_time": 1735662029,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2944850,
+      "num": 450137,
+      "word": "自称赵露思前工作人员喊话赵露思",
+      "onboard_time": 1735790842,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 2763810,
@@ -145,6 +153,14 @@
       "onboard_time": 1735665381,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1634915,
+      "num": 1634915,
+      "word": "樊振东瘦成薄薄一片了",
+      "onboard_time": 1735790542,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1630212,
@@ -603,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 719009,
+      "num": 449301,
+      "word": "肖战倪妮隔窗对视",
+      "onboard_time": 1735790240,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 701829,
       "num": 701829,
       "word": "美特朗普国际酒店门前汽车爆炸1死7伤",
@@ -665,6 +689,14 @@
       "onboard_time": 1735701379,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 640378,
+      "num": 535527,
+      "word": "第一次见长发穿裙子的孙颖莎",
+      "onboard_time": 1735786339,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 640226,
@@ -809,14 +841,6 @@
       "onboard_time": 1735778780,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 535527,
-      "num": 535527,
-      "word": "第一次见长发穿裙子的孙颖莎",
-      "onboard_time": 1735786339,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 524104,
@@ -1083,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 397209,
+      "num": 397209,
+      "word": "鹿晗高瀚宇眉钉大片",
+      "onboard_time": 1735791143,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 394603,
       "num": 394603,
       "word": "王力宏 复出",
@@ -1100,7 +1132,7 @@
     },
     {
       "raw_hot": 389785,
-      "num": 209294,
+      "num": 217087,
       "word": "金星到底有多恐怖",
       "onboard_time": 1735773675,
       "rank": 21,
@@ -1411,6 +1443,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 317842,
+      "num": 317842,
+      "word": "花1万8去俄罗斯玩了一周",
+      "onboard_time": 1735787961,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 317471,
+      "num": 343581,
+      "word": "史上最薄iPhone渲染图来了",
+      "onboard_time": 1735788262,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 316756,
       "num": 459541,
       "word": "王楚钦说林诗栋是国乒绝对主力",
@@ -1507,6 +1555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 298373,
+      "num": 298373,
+      "word": "十个勤天 春晚",
+      "onboard_time": 1735791686,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297704,
       "num": 281030,
       "word": "于朦胧状态",
@@ -1521,6 +1577,14 @@
       "onboard_time": 1735777398,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291056,
+      "num": 291056,
+      "word": "路特斯正式更名为莲花跑车",
+      "onboard_time": 1735789401,
+      "rank": 23,
+      "category": "汽车"
     },
     {
       "raw_hot": 290935,
@@ -1651,6 +1715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 268790,
+      "num": 268790,
+      "word": "李晨姑姑消消乐",
+      "onboard_time": 1735789942,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 265897,
       "num": 265897,
       "word": "DQ Chiikawa",
@@ -1721,14 +1793,6 @@
       "onboard_time": 1735665381,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 254913,
-      "num": 254913,
-      "word": "花1万8去俄罗斯玩了一周",
-      "onboard_time": 1735787961,
-      "rank": 33,
-      "category": "旅游"
     },
     {
       "raw_hot": 253824,
@@ -1835,6 +1899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 237562,
+      "num": 237562,
+      "word": "抑郁症患者会无意识做哪些事",
+      "onboard_time": 1735791262,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 237500,
       "num": 384566,
       "word": "BLACKPINK5月完整体回归",
@@ -1873,6 +1945,14 @@
       "onboard_time": 1735734202,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 226037,
+      "num": 339049,
+      "word": "周微",
+      "onboard_time": 1735788621,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 225099,
@@ -1955,14 +2035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 219017,
-      "num": 343581,
-      "word": "史上最薄iPhone渲染图来了",
-      "onboard_time": 1735788262,
-      "rank": 42,
-      "category": "数码"
-    },
-    {
       "raw_hot": 217673,
       "num": 217673,
       "word": "网友说周三放假很科学",
@@ -2035,6 +2107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212386,
+      "num": 212386,
+      "word": "52周存钱法最无痛的存钱方式",
+      "onboard_time": 1735789462,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 211518,
       "num": 225414,
       "word": "邓亚萍说老将王曼昱扛住了压力",
@@ -2097,6 +2177,14 @@
       "onboard_time": 1735701979,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206038,
+      "num": 448227,
+      "word": "元旦上4休3体验感如何",
+      "onboard_time": 1735786941,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205771,
@@ -2179,11 +2267,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201840,
+      "num": 201840,
+      "word": "新华社解读马龙樊振东陈梦退出世排",
+      "onboard_time": 1735774217,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200815,
       "num": 201655,
       "word": "昆明一步行街蛇宝宝花灯丑萌出圈",
       "onboard_time": 1735733721,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200813,
+      "num": 200813,
+      "word": "自驾阿姨苏敏称已转给男方16万",
+      "onboard_time": 1735791686,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -2209,6 +2313,14 @@
       "onboard_time": 1735737382,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199973,
+      "num": 256747,
+      "word": "国色芳华祖传cp包甜的",
+      "onboard_time": 1735790962,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 199217,
@@ -2289,118 +2401,6 @@
       "onboard_time": 1735711940,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 194425,
-      "num": 194425,
-      "word": "美国汽车撞人事件已致10死30伤",
-      "onboard_time": 1735741581,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 193884,
-      "num": 311188,
-      "word": "2025第一个工作日开始了",
-      "onboard_time": 1735786221,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 193734,
-      "num": 843700,
-      "word": "2025新年签",
-      "onboard_time": 1735665801,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 193531,
-      "num": 182480,
-      "word": "雷军谈极越事件",
-      "onboard_time": 1735712120,
-      "rank": 32,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 193291,
-      "num": 193291,
-      "word": "沈梦辰的造型师请出来挨夸",
-      "onboard_time": 1735717038,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 193180,
-      "num": 496403,
-      "word": "美警方回应汽车撞人事件",
-      "onboard_time": 1735744642,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 191865,
-      "num": 191865,
-      "word": "元旦宝宝来报到了",
-      "onboard_time": 1735721599,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 191623,
-      "num": 191623,
-      "word": "张栋梁一开口还是大明星何群",
-      "onboard_time": 1735695980,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 191530,
-      "num": 191530,
-      "word": "龚俊数完黄景瑜数",
-      "onboard_time": 1735733001,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 191292,
-      "num": 191292,
-      "word": "张若昀说魏晨下海了",
-      "onboard_time": 1735719920,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 191078,
-      "num": 212131,
-      "word": "白色橄榄树交响乐OST",
-      "onboard_time": 1735704621,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 190850,
-      "num": 341752,
-      "word": "云襄传之将进酒全员剧照首发",
-      "onboard_time": 1735788742,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 190590,
-      "num": 190590,
-      "word": "丁禹兮捡彩带",
-      "onboard_time": 1735729041,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 188129,
-      "num": 188129,
-      "word": "IVL",
-      "onboard_time": 1735730840,
-      "rank": 33,
-      "category": "电竞"
     }
   ],
   "hotgov_list": [

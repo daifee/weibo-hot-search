@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735789310895,
+  "endTime": 1735792002291,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -256,6 +256,14 @@
       "word": "秦牛正威分手",
       "onboard_time": 1735440679,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2944850,
+      "num": 450137,
+      "word": "自称赵露思前工作人员喊话赵露思",
+      "onboard_time": 1735790842,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -633,6 +641,14 @@
       "onboard_time": 1735482322,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1634915,
+      "num": 1634915,
+      "word": "樊振东瘦成薄薄一片了",
+      "onboard_time": 1735790542,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1631703,
@@ -1819,6 +1835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 719009,
+      "num": 449301,
+      "word": "肖战倪妮隔窗对视",
+      "onboard_time": 1735790240,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 717001,
       "num": 717001,
       "word": "何炅汪涵都感冒了吗",
@@ -2089,6 +2113,14 @@
       "onboard_time": 1735515016,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 640378,
+      "num": 535527,
+      "word": "第一次见长发穿裙子的孙颖莎",
+      "onboard_time": 1735786339,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 640226,
@@ -2521,14 +2553,6 @@
       "onboard_time": 1735645942,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 535527,
-      "num": 535527,
-      "word": "第一次见长发穿裙子的孙颖莎",
-      "onboard_time": 1735786339,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 535190,
@@ -3539,6 +3563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 397209,
+      "num": 397209,
+      "word": "鹿晗高瀚宇眉钉大片",
+      "onboard_time": 1735791143,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 396226,
       "num": 396226,
       "word": "张加帅AI",
@@ -3636,7 +3668,7 @@
     },
     {
       "raw_hot": 389785,
-      "num": 209294,
+      "num": 217087,
       "word": "金星到底有多恐怖",
       "onboard_time": 1735773675,
       "rank": 21,
@@ -4475,6 +4507,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317842,
+      "num": 317842,
+      "word": "花1万8去俄罗斯玩了一周",
+      "onboard_time": 1735787961,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 317471,
+      "num": 343581,
+      "word": "史上最薄iPhone渲染图来了",
+      "onboard_time": 1735788262,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 316756,
       "num": 459541,
       "word": "王楚钦说林诗栋是国乒绝对主力",
@@ -4747,6 +4795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 298373,
+      "num": 298373,
+      "word": "十个勤天 春晚",
+      "onboard_time": 1735791686,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297755,
       "num": 276916,
       "word": "aespa没有逆应援",
@@ -4849,6 +4905,14 @@
       "onboard_time": 1735523178,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 291056,
+      "num": 291056,
+      "word": "路特斯正式更名为莲花跑车",
+      "onboard_time": 1735789401,
+      "rank": 23,
+      "category": "汽车"
     },
     {
       "raw_hot": 290935,
@@ -5227,6 +5291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 268790,
+      "num": 268790,
+      "word": "李晨姑姑消消乐",
+      "onboard_time": 1735789942,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 268085,
       "num": 343125,
       "word": "韩国空难遇难者群像",
@@ -5553,14 +5625,6 @@
       "onboard_time": 1735633280,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 254913,
-      "num": 254913,
-      "word": "花1万8去俄罗斯玩了一周",
-      "onboard_time": 1735787961,
-      "rank": 33,
-      "category": "旅游"
     },
     {
       "raw_hot": 254487,
@@ -5955,6 +6019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237562,
+      "num": 237562,
+      "word": "抑郁症患者会无意识做哪些事",
+      "onboard_time": 1735791262,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 237500,
       "num": 384566,
       "word": "BLACKPINK5月完整体回归",
@@ -6163,6 +6235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 226037,
+      "num": 339049,
+      "word": "周微",
+      "onboard_time": 1735788621,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
       "raw_hot": 225704,
       "num": 329844,
       "word": "鸟击通常不会造成起落架不能放出",
@@ -6337,14 +6417,6 @@
       "onboard_time": 1735614437,
       "rank": 35,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 219017,
-      "num": 343581,
-      "word": "史上最薄iPhone渲染图来了",
-      "onboard_time": 1735788262,
-      "rank": 42,
-      "category": "数码"
     },
     {
       "raw_hot": 218754,
@@ -6545,6 +6617,14 @@
       "onboard_time": 1735743741,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212386,
+      "num": 212386,
+      "word": "52周存钱法最无痛的存钱方式",
+      "onboard_time": 1735789462,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 211635,
@@ -6809,6 +6889,14 @@
       "onboard_time": 1735454479,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206038,
+      "num": 448227,
+      "word": "元旦上4休3体验感如何",
+      "onboard_time": 1735786941,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205904,
@@ -7091,6 +7179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201840,
+      "num": 201840,
+      "word": "新华社解读马龙樊振东陈梦退出世排",
+      "onboard_time": 1735774217,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201546,
       "num": 266760,
       "word": "研究生是非要期末考吗",
@@ -7136,6 +7232,14 @@
       "word": "昆明一步行街蛇宝宝花灯丑萌出圈",
       "onboard_time": 1735733721,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200813,
+      "num": 200813,
+      "word": "自驾阿姨苏敏称已转给男方16万",
+      "onboard_time": 1735791686,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -7185,6 +7289,14 @@
       "onboard_time": 1735737382,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199973,
+      "num": 256747,
+      "word": "国色芳华祖传cp包甜的",
+      "onboard_time": 1735790962,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 199918,
@@ -8603,6 +8715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175792,
+      "num": 266020,
+      "word": "误杀3 染血的佛珠",
+      "onboard_time": 1735788621,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 175777,
       "num": 216261,
       "word": "时代少年团 听取紫啧声一片",
@@ -8720,6 +8840,14 @@
       "word": "王俊凯跨年翻唱让我一次爱个够",
       "onboard_time": 1735622121,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 173413,
+      "num": 173413,
+      "word": "薛之谦刘维黄子弘凡跳troublemaker",
+      "onboard_time": 1735791922,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -9235,6 +9363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165121,
+      "num": 165121,
+      "word": "王楚钦眼里有光",
+      "onboard_time": 1735790360,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165015,
       "num": 165015,
       "word": "新年愿望刘亦菲翻牌了",
@@ -9409,6 +9545,14 @@
       "onboard_time": 1735399102,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162421,
+      "num": 162421,
+      "word": "张彬彬新剧老天爷赏老婆",
+      "onboard_time": 1735791864,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 162323,
@@ -10059,6 +10203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149234,
+      "num": 317504,
+      "word": "春晚彩排",
+      "onboard_time": 1735791262,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149144,
       "num": 149144,
       "word": "陈小纭大奉出场仅一个眼神",
@@ -10192,14 +10344,6 @@
       "word": "山东鲁能1比0深圳大学",
       "onboard_time": 1735709779,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 147431,
-      "num": 147431,
-      "word": "新华社解读马龙樊振东陈梦退出世排",
-      "onboard_time": 1735774217,
-      "rank": 43,
       "category": "体育"
     },
     {
@@ -10915,14 +11059,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 135261,
-      "num": 266020,
-      "word": "误杀3 染血的佛珠",
-      "onboard_time": 1735788621,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 135251,
       "num": 135251,
       "word": "中国海警首次在黄岩岛起飞舰载机",
@@ -11499,6 +11635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122954,
+      "num": 317486,
+      "word": "男子疑得罪驿站员工致无法收到快递",
+      "onboard_time": 1735790903,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122927,
       "num": 122927,
       "word": "2025年金价会持续走高吗",
@@ -11777,14 +11921,6 @@
       "onboard_time": 1735461080,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117800,
-      "num": 117800,
-      "word": "元旦上4休3体验感如何",
-      "onboard_time": 1735786941,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117720,
@@ -12515,6 +12651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 97725,
+      "num": 287518,
+      "word": "马龙当之无愧的GOAT",
+      "onboard_time": 1735790423,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97522,
       "num": 177749,
       "word": "浙江人民开始煮糖水",
@@ -12849,6 +12993,14 @@
       "onboard_time": 1735399940,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85289,
+      "num": 257247,
+      "word": "王子文签约和颂",
+      "onboard_time": 1735791985,
+      "rank": 28,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 84879,
@@ -14035,6 +14187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46354,
+      "num": 407950,
+      "word": "食品代购游走在灰色地带",
+      "onboard_time": 1735790962,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45916,
       "num": 225878,
       "word": "每只都绝美的年度口红",
@@ -14675,14 +14835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34040,
-      "num": 339049,
-      "word": "周微",
-      "onboard_time": 1735788621,
-      "rank": 18,
-      "category": "网红"
-    },
-    {
       "raw_hot": 33943,
       "num": 55585,
       "word": "官方通报花3千订房入住被要求加钱",
@@ -14939,6 +15091,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 29833,
+      "num": 154497,
+      "word": "骑士面对西部球队保持全胜",
+      "onboard_time": 1735790542,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29719,
       "num": 341683,
       "word": "先人一步到底有多快乐",
@@ -14969,6 +15129,14 @@
       "onboard_time": 1735554080,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 29479,
+      "num": 1608607,
+      "word": "足迹2024",
+      "onboard_time": 1735788561,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29378,
@@ -15459,14 +15627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 23547,
-      "num": 1027276,
-      "word": "足迹2024",
-      "onboard_time": 1735788561,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23520,
       "num": 191890,
       "word": "女婴3次开胸急送杭州他们接力护送",
@@ -15497,6 +15657,14 @@
       "onboard_time": 1735563921,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 22788,
+      "num": 401325,
+      "word": "够蛋定的人在路上都能蹭到财气",
+      "onboard_time": 1735790423,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 22629,
