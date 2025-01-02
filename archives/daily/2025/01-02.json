@@ -1,6 +1,6 @@
 {
   "startTime": 1735748807244,
-  "endTime": 1735810625097,
+  "endTime": 1735813382852,
   "band_list": [
     {
       "raw_hot": 10019281,
@@ -33,6 +33,14 @@
       "onboard_time": 1735790542,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2227116,
+      "num": 605579,
+      "word": "外国网红猫女去世",
+      "onboard_time": 1735810700,
+      "rank": 3,
+      "category": "海外新闻,网红"
     },
     {
       "raw_hot": 2183435,
@@ -123,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1234808,
+      "num": 597309,
+      "word": "韩国空难遇难机长哥哥的亲笔信",
+      "onboard_time": 1735808780,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1159548,
       "num": 1159548,
       "word": "男子跨年夜对近9万气球喷射加特林",
@@ -140,7 +156,7 @@
     },
     {
       "raw_hot": 1040720,
-      "num": 329582,
+      "num": 378647,
       "word": "2025年不愧是蛇年太冷血了",
       "onboard_time": 1735807461,
       "rank": 11,
@@ -171,20 +187,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 847896,
-      "num": 347941,
-      "word": "韩国空难遇难机长哥哥的亲笔信",
-      "onboard_time": 1735808780,
-      "rank": 12,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 843634,
       "num": 843634,
       "word": "赵露思看余华的我胆小如鼠",
       "onboard_time": 1735780459,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 829931,
+      "num": 1132789,
+      "word": "刘强东给老家60岁以上老人发一万元",
+      "onboard_time": 1735811780,
+      "rank": 0,
+      "category": "互联网"
     },
     {
       "raw_hot": 822120,
@@ -212,7 +228,7 @@
     },
     {
       "raw_hot": 795291,
-      "num": 295803,
+      "num": 330338,
       "word": "公摊面积最大的水果",
       "onboard_time": 1735803919,
       "rank": 21,
@@ -515,6 +531,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 391749,
+      "num": 391749,
+      "word": "Kpop艺人TikTok年涨幅",
+      "onboard_time": 1735808780,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 389785,
       "num": 247671,
       "word": "金星到底有多恐怖",
@@ -528,6 +552,14 @@
       "word": "上海男子5元卖早高峰地铁座位",
       "onboard_time": 1735785082,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 373384,
+      "num": 373384,
+      "word": "茅台",
+      "onboard_time": 1735810099,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -572,7 +604,7 @@
     },
     {
       "raw_hot": 348355,
-      "num": 348355,
+      "num": 388772,
       "word": "2024kpop男爱豆百度指数排名",
       "onboard_time": 1735807821,
       "rank": 15,
@@ -643,6 +675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 314410,
+      "num": 387535,
+      "word": "宁夏近期存在发生4到5级地震的可能",
+      "onboard_time": 1735812681,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 311472,
       "num": 311472,
       "word": "股市",
@@ -667,8 +707,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 300730,
-      "num": 300730,
+      "raw_hot": 300997,
+      "num": 300997,
       "word": "孙铭阳孙颖莎合照",
       "onboard_time": 1735808900,
       "rank": 33,
@@ -779,14 +819,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 248790,
-      "num": 248790,
-      "word": "Kpop艺人TikTok年涨幅",
-      "onboard_time": 1735808780,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 248475,
       "num": 260877,
       "word": "赵丽颖对接确认参加微博之夜",
@@ -891,6 +923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 221791,
+      "num": 360874,
+      "word": "李昀锐冰湖重生上班路透",
+      "onboard_time": 1735809320,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220376,
       "num": 309106,
       "word": "2025LPL官宣",
@@ -977,14 +1017,6 @@
       "onboard_time": 1735735281,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 206808,
-      "num": 213674,
-      "word": "李昀锐冰湖重生上班路透",
-      "onboard_time": 1735809320,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 206287,
@@ -1211,20 +1243,20 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 181260,
-      "num": 181260,
-      "word": "茅台",
-      "onboard_time": 1735810099,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 181033,
       "num": 181033,
       "word": "HYBE今年将推出两组新女团",
       "onboard_time": 1735793962,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178306,
+      "num": 320792,
+      "word": "王鹤棣 天选许七安",
+      "onboard_time": 1735808060,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 177121,
@@ -1315,14 +1347,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 171100,
-      "num": 174349,
-      "word": "王鹤棣 天选许七安",
-      "onboard_time": 1735808060,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 169434,
       "num": 169434,
       "word": "什么是分离转换性障碍",
@@ -1353,6 +1377,14 @@
       "onboard_time": 1735808600,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167977,
+      "num": 167977,
+      "word": "A股2025首个交易日成交额破万亿",
+      "onboard_time": 1735812920,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 167525,
@@ -1419,6 +1451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164586,
+      "num": 317378,
+      "word": "刘亦菲芭莎一月刊",
+      "onboard_time": 1735810760,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 163853,
       "num": 163853,
       "word": "宋亚轩的嘴就跟弹幕似的",
@@ -1441,6 +1481,14 @@
       "onboard_time": 1735808780,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162374,
+      "num": 316046,
+      "word": "易烊千玺刘春和的片场花絮",
+      "onboard_time": 1735811900,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 162162,
@@ -1505,6 +1553,14 @@
       "onboard_time": 1735779199,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149078,
+      "num": 212775,
+      "word": "19.9元的电影票回来了",
+      "onboard_time": 1735810099,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 147408,
@@ -1611,6 +1667,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 140679,
+      "num": 140679,
+      "word": "樱桃三千年的人气车厘子说超就超",
+      "onboard_time": 1735813101,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 140325,
       "num": 331240,
       "word": "樊振东这一幕和五年前好像",
@@ -1633,6 +1697,14 @@
       "onboard_time": 1735801761,
       "rank": 46,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 136792,
+      "num": 136792,
+      "word": "微博禁言800余个账号",
+      "onboard_time": 1735811600,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 135873,
@@ -1667,6 +1739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 133517,
+      "num": 133517,
+      "word": "马龙旗手照入选新华社年度照片",
+      "onboard_time": 1735811240,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132843,
       "num": 340383,
       "word": "唐探1900用300亩土地搭建拍摄",
@@ -1697,6 +1777,14 @@
       "onboard_time": 1735741824,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 131096,
+      "num": 131096,
+      "word": "王鸥这拍摄团队在内娱属于TOP级别",
+      "onboard_time": 1735813218,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 130904,
@@ -1768,6 +1856,14 @@
       "word": "孙颖莎说东京懵懂巴黎成熟",
       "onboard_time": 1735801761,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 122967,
+      "num": 122967,
+      "word": "国际乒联主席说孙颖莎家喻户晓",
+      "onboard_time": 1735810700,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -2163,14 +2259,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 69206,
-      "num": 212775,
-      "word": "19.9元的电影票回来了",
-      "onboard_time": 1735810099,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 66396,
       "num": 407950,
       "word": "食品代购游走在灰色地带",
@@ -2283,6 +2371,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 53961,
+      "num": 311598,
+      "word": "大学生入招聘陷阱上4天班欠5万4",
+      "onboard_time": 1735812738,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53338,
+      "num": 375606,
+      "word": "肖战同款毛衣",
+      "onboard_time": 1735809560,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 52740,
       "num": 57520,
       "word": "汪苏泷大娱乐家新年限定演唱会",
@@ -2297,6 +2401,14 @@
       "onboard_time": 1735806560,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 51277,
+      "num": 580670,
+      "word": "新年贺词里的你我",
+      "onboard_time": 1735811361,
+      "rank": 5,
+      "category": "正能量"
     },
     {
       "raw_hot": 47238,
@@ -2459,6 +2571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 33294,
+      "num": 610909,
+      "word": "2025年奋斗正当时",
+      "onboard_time": 1735811059,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32068,
       "num": 54820,
       "word": "这是2025年第一天的中国",
@@ -2611,19 +2731,27 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 20871,
-      "num": 213106,
-      "word": "肖战同款毛衣",
-      "onboard_time": 1735809560,
-      "rank": 42,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 20707,
       "num": 373802,
       "word": "中国红是中国人的浪漫",
       "onboard_time": 1735788441,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19249,
+      "num": 328023,
+      "word": "孙颖莎谈如何面对紧张和压力",
+      "onboard_time": 1735812020,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 18986,
+      "num": 368847,
+      "word": "女子为牟利将烟花爆竹搬进居民楼",
+      "onboard_time": 1735812979,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -2651,6 +2779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 15472,
+      "num": 346720,
+      "word": "不讨好的人生应是一场开放麦",
+      "onboard_time": 1735812559,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 15284,
       "num": 26294,
       "word": "王楚钦连续两天状态拉满",
@@ -2673,6 +2809,14 @@
       "onboard_time": 1735809020,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13112,
+      "num": 137958,
+      "word": "幸运咖两只耳朵都听到了",
+      "onboard_time": 1735812320,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 13095,
@@ -2753,6 +2897,9 @@
     },
     {
       "word": "#习近平说这些问题我一直挂念#"
+    },
+    {
+      "word": "#二〇二五年新年贺词#"
     }
   ]
 }
