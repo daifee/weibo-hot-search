@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735836178030,
+  "endTime": 1735838361049,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -555,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 951115,
+      "num": 951115,
+      "word": "宁夏地震局",
+      "onboard_time": 1735831580,
+      "rank": 31,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 931934,
       "num": 1149109,
       "word": "半亩花田 孙颖莎",
@@ -841,14 +849,6 @@
       "onboard_time": 1735790240,
       "rank": 7,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 718233,
-      "num": 795542,
-      "word": "宁夏地震局",
-      "onboard_time": 1735831580,
-      "rank": 31,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 712620,
@@ -1779,6 +1779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 367803,
+      "num": 404034,
+      "word": "滑翔伞事故死亡教练系公司法人",
+      "onboard_time": 1735835358,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 366981,
       "num": 355729,
       "word": "年前金价下跌年轻人再掀淘金热",
@@ -2187,6 +2195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 302226,
+      "num": 302226,
+      "word": "何炅拥抱谢娜零点照片",
+      "onboard_time": 1735834039,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 302117,
       "num": 317504,
       "word": "春晚彩排",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1735742843,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 270403,
-      "num": 270403,
-      "word": "杨紫说出了我的心声",
-      "onboard_time": 1735822521,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 270093,
-      "num": 338460,
-      "word": "时代峰峻有自己的换头笑话",
-      "onboard_time": 1735734563,
-      "rank": 16,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

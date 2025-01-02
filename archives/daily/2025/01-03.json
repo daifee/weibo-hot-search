@@ -1,6 +1,6 @@
 {
   "startTime": 1735835273269,
-  "endTime": 1735836178030,
+  "endTime": 1735838361049,
   "band_list": [
     {
       "raw_hot": 1058621,
@@ -11,20 +11,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 951115,
+      "num": 951115,
+      "word": "宁夏地震局",
+      "onboard_time": 1735831580,
+      "rank": 4,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 789257,
       "num": 913937,
       "word": "123岁老人林蛇母家中去世",
       "onboard_time": 1735825641,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 718233,
-      "num": 795542,
-      "word": "宁夏地震局",
-      "onboard_time": 1735831580,
-      "rank": 4,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 590452,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 367803,
+      "num": 404034,
+      "word": "滑翔伞事故死亡教练系公司法人",
+      "onboard_time": 1735835358,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 349876,
       "num": 349876,
       "word": "微博之夜全员人脸识别",
@@ -121,6 +129,14 @@
       "onboard_time": 1735810700,
       "rank": 15,
       "category": "海外新闻,网红"
+    },
+    {
+      "raw_hot": 302226,
+      "num": 302226,
+      "word": "何炅拥抱谢娜零点照片",
+      "onboard_time": 1735834039,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 296228,
@@ -185,14 +201,6 @@
       "onboard_time": 1735832898,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 206258,
-      "num": 206258,
-      "word": "何炅拥抱谢娜零点照片",
-      "onboard_time": 1735834039,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 194424,
@@ -323,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108291,
+      "num": 108291,
+      "word": "王鹤棣好像提前过年了",
+      "onboard_time": 1735837395,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108100,
       "num": 219995,
       "word": "媒体评国乒运动员退出世界排名",
@@ -403,12 +419,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85869,
+      "num": 107376,
+      "word": "央视新闻铁粉",
+      "onboard_time": 1735836496,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78288,
       "num": 78288,
       "word": "理发师晓华爆改外国人",
       "onboard_time": 1735816639,
       "rank": 48,
       "category": "网红"
+    },
+    {
+      "raw_hot": 71418,
+      "num": 223630,
+      "word": "于正怒怼网友没做错干嘛不能说",
+      "onboard_time": 1735835237,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 59854,
@@ -427,20 +459,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 56515,
-      "num": 404034,
-      "word": "滑翔伞事故死亡教练系公司法人",
-      "onboard_time": 1735835358,
+      "raw_hot": 31673,
+      "num": 288580,
+      "word": "被前男友泼汽油女子植皮12次",
+      "onboard_time": 1735837755,
       "rank": 9,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32725,
-      "num": 223630,
-      "word": "于正怒怼网友没做错干嘛不能说",
-      "onboard_time": 1735835237,
-      "rank": 29,
+      "raw_hot": 21919,
+      "num": 135940,
+      "word": "火星工作人员为赵露思发声",
+      "onboard_time": 1735837934,
+      "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17030,
+      "num": 116269,
+      "word": "赵睿停赛五场罚款10万",
+      "onboard_time": 1735837275,
+      "rank": 24,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
