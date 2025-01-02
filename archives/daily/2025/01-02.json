@@ -1,6 +1,6 @@
 {
   "startTime": 1735748807244,
-  "endTime": 1735806494728,
+  "endTime": 1735807291930,
   "band_list": [
     {
       "raw_hot": 10019281,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1049019,
+      "num": 1167843,
+      "word": "棣欣引力",
+      "onboard_time": 1735805060,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 981982,
       "num": 335727,
       "word": "芒果影视台 真干不了退圈不就行",
@@ -219,14 +227,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 698925,
-      "num": 698925,
-      "word": "棣欣引力",
-      "onboard_time": 1735805060,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 681455,
       "num": 681455,
       "word": "当教师不是铁饭碗你还会卷教资吗",
@@ -281,6 +281,14 @@
       "onboard_time": 1735773735,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 624580,
+      "num": 624580,
+      "word": "湖南一女游客玩滑翔伞疑掉进水帘洞",
+      "onboard_time": 1735805118,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 620993,
@@ -364,11 +372,19 @@
     },
     {
       "raw_hot": 516758,
-      "num": 388919,
+      "num": 394482,
       "word": "黄圣依说杨子这出戏是拿奖级别",
       "onboard_time": 1735803081,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 513973,
+      "num": 513973,
+      "word": "拜登特朗普就汽车撞人事件表态",
+      "onboard_time": 1735804100,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 509232,
@@ -427,20 +443,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 431540,
+      "num": 431540,
+      "word": "王鹤棣说拍大奉时热到盒饭都馊了",
+      "onboard_time": 1735804220,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 430913,
       "num": 393107,
       "word": "陈小春古巨基催婚奥斯卡",
       "onboard_time": 1735802060,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 430466,
-      "num": 391000,
-      "word": "王鹤棣说拍大奉时热到盒饭都馊了",
-      "onboard_time": 1735804220,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 426313,
@@ -481,14 +497,6 @@
       "onboard_time": 1735785082,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 385751,
-      "num": 385751,
-      "word": "拜登特朗普就汽车撞人事件表态",
-      "onboard_time": 1735804100,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 372752,
@@ -585,14 +593,6 @@
       "onboard_time": 1735747101,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 313717,
-      "num": 313717,
-      "word": "湖南一女游客玩滑翔伞疑掉进水帘洞",
-      "onboard_time": 1735805118,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 311472,
@@ -705,6 +705,14 @@
       "onboard_time": 1735791985,
       "rank": 28,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 249609,
+      "num": 310417,
+      "word": "误杀3 肖央你耍我",
+      "onboard_time": 1735805118,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 248475,
@@ -891,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206287,
+      "num": 182484,
+      "word": "王俊凯方确认出席微博之夜",
+      "onboard_time": 1735806500,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205831,
       "num": 175925,
       "word": "张彬彬新剧老天爷赏老婆",
@@ -972,7 +988,7 @@
     },
     {
       "raw_hot": 200624,
-      "num": 397334,
+      "num": 514977,
       "word": "部分中国航司航班绕开俄罗斯南部空域",
       "onboard_time": 1735803620,
       "rank": 9,
@@ -985,6 +1001,14 @@
       "onboard_time": 1735790962,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197530,
+      "num": 329384,
+      "word": "美国汽车撞人案遇难女生即将上大学",
+      "onboard_time": 1735805181,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 193884,
@@ -1011,6 +1035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192522,
+      "num": 192522,
+      "word": "福建123岁最长寿老人去世",
+      "onboard_time": 1735806019,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190850,
       "num": 341752,
       "word": "云襄传之将进酒全员剧照首发",
@@ -1035,14 +1067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187729,
-      "num": 310417,
-      "word": "误杀3 肖央你耍我",
-      "onboard_time": 1735805118,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 187545,
       "num": 246896,
       "word": "霉霉登上央视2024世界新闻年鉴",
@@ -1065,6 +1089,22 @@
       "onboard_time": 1735799060,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186715,
+      "num": 186715,
+      "word": "赵睿爆粗回怼上海网友",
+      "onboard_time": 1735806320,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 181640,
+      "num": 187910,
+      "word": "禁止向28家美国实体出口两用物项",
+      "onboard_time": 1735807099,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 181552,
@@ -1161,6 +1201,22 @@
       "onboard_time": 1735786160,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171221,
+      "num": 171221,
+      "word": "孙颖莎防偷窥意识好强",
+      "onboard_time": 1735806739,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 171185,
+      "num": 171185,
+      "word": "Doinb曝Zoom试训没过",
+      "onboard_time": 1735806921,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 169434,
@@ -1275,20 +1331,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 161028,
-      "num": 161028,
-      "word": "赵睿爆粗回怼上海网友",
-      "onboard_time": 1735806320,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 153906,
-      "num": 153906,
-      "word": "福建123岁最长寿老人去世",
-      "onboard_time": 1735806019,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 154315,
+      "num": 154315,
+      "word": "世界之外",
+      "onboard_time": 1735805359,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 153889,
@@ -1307,20 +1355,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152444,
+      "num": 237625,
+      "word": "医院保洁倒卖婴儿称自己是做好事",
+      "onboard_time": 1735805780,
+      "rank": 27,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 151164,
       "num": 151164,
       "word": "国旗护卫队送上硬核新年祝福",
       "onboard_time": 1735776798,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 150481,
-      "num": 150481,
-      "word": "世界之外",
-      "onboard_time": 1735805359,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 150077,
@@ -1387,6 +1435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143425,
+      "num": 143425,
+      "word": "白鹿 快来个人把敖瑞鹏拉走",
+      "onboard_time": 1735807160,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143091,
       "num": 143091,
       "word": "祝绪丹微博之夜海报",
@@ -1451,6 +1507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138128,
+      "num": 138128,
+      "word": "张彬彬8g网速",
+      "onboard_time": 1735807222,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137674,
       "num": 137674,
       "word": "原来滑雪从不考验装备",
@@ -1464,6 +1528,14 @@
       "word": "湖南衡山一滑翔伞基地事故致2死",
       "onboard_time": 1735796840,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135336,
+      "num": 135336,
+      "word": "10岁男孩教科书式拨打120救妈妈一命",
+      "onboard_time": 1735807099,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -1611,14 +1683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118856,
-      "num": 329384,
-      "word": "美国汽车撞人案遇难女生即将上大学",
-      "onboard_time": 1735805181,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 118697,
       "num": 118697,
       "word": "王楚钦预判了林诗栋的预判",
@@ -1683,6 +1747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114209,
+      "num": 309875,
+      "word": "一潜水者被所乘游艇挂机螺旋绞中死亡",
+      "onboard_time": 1735805300,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111651,
       "num": 111651,
       "word": "周深演唱祝福心同此愿",
@@ -1729,14 +1801,6 @@
       "onboard_time": 1735749199,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 104567,
-      "num": 309875,
-      "word": "一潜水者被所乘游艇挂机螺旋绞中死亡",
-      "onboard_time": 1735805300,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104200,
@@ -1787,20 +1851,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 97449,
-      "num": 237625,
-      "word": "医院保洁倒卖婴儿称自己是做好事",
-      "onboard_time": 1735805780,
-      "rank": 27,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 96321,
       "num": 96321,
       "word": "陈飞宇 没有技巧就是硬帅",
       "onboard_time": 1735743981,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95502,
+      "num": 224936,
+      "word": "孙颖莎谈赛场上的小癖好",
+      "onboard_time": 1735806200,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 94855,
@@ -1817,14 +1881,6 @@
       "onboard_time": 1735786041,
       "rank": 14,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 92958,
-      "num": 224936,
-      "word": "孙颖莎谈赛场上的小癖好",
-      "onboard_time": 1735806200,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 92745,
@@ -1971,6 +2027,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 73167,
+      "num": 196832,
+      "word": "女子举报在国企上班的丈夫包养情人受贿",
+      "onboard_time": 1735806981,
+      "rank": 28,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 66396,
       "num": 407950,
       "word": "食品代购游走在灰色地带",
@@ -2073,6 +2137,14 @@
       "onboard_time": 1735752314,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 51897,
+      "num": 216927,
+      "word": "杨子演技",
+      "onboard_time": 1735806560,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 47201,
@@ -2291,20 +2363,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 27420,
+      "num": 314047,
+      "word": "Turbo4尔滨专用机",
+      "onboard_time": 1735804400,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 27072,
       "num": 54803,
       "word": "刘宇宁祝大家新年快乐",
       "onboard_time": 1735772713,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 25044,
-      "num": 314047,
-      "word": "Turbo4尔滨专用机",
-      "onboard_time": 1735804400,
-      "rank": 15,
-      "category": "数码"
     },
     {
       "raw_hot": 24599,
