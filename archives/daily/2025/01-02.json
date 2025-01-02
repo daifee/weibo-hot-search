@@ -1,6 +1,6 @@
 {
   "startTime": 1735748807244,
-  "endTime": 1735827624670,
+  "endTime": 1735828706660,
   "band_list": [
     {
       "raw_hot": 10019281,
@@ -107,8 +107,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1661223,
-      "num": 1661223,
+      "raw_hot": 1687435,
+      "num": 1687435,
       "word": "123岁老人林蛇母家中去世",
       "onboard_time": 1735825641,
       "rank": 1,
@@ -323,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 757726,
+      "num": 580342,
+      "word": "留几手问葛夕能再要个孩子吗",
+      "onboard_time": 1735827501,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 728069,
       "num": 728069,
       "word": "霸王茶姬毛绒杯",
@@ -515,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 587212,
+      "num": 587212,
+      "word": "工资计算方式有变化",
+      "onboard_time": 1735824801,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 575841,
       "num": 372762,
       "word": "上4休3的好处已经显现出来了",
@@ -579,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 501483,
+      "num": 501483,
+      "word": "樊振东大雪压青松青松挺且直",
+      "onboard_time": 1735826361,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 481989,
       "num": 481989,
       "word": "国色芳华白月梵星 对打",
@@ -595,8 +619,8 @@
       "category": "运动健身,艺人"
     },
     {
-      "raw_hot": 456840,
-      "num": 456840,
+      "raw_hot": 462851,
+      "num": 462851,
       "word": "村民称刘强东发钱不是应该的",
       "onboard_time": 1735821261,
       "rank": 38,
@@ -651,12 +675,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 433515,
-      "num": 433515,
-      "word": "工资计算方式有变化",
-      "onboard_time": 1735824801,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 434391,
+      "num": 339207,
+      "word": "胡彦斌吧唧",
+      "onboard_time": 1735826121,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 431540,
@@ -787,20 +811,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 346288,
-      "num": 346288,
-      "word": "樊振东大雪压青松青松挺且直",
-      "onboard_time": 1735826361,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 339207,
-      "num": 339207,
-      "word": "胡彦斌吧唧",
-      "onboard_time": 1735826121,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 340738,
+      "num": 340738,
+      "word": "医院宣传语称堕胎斩断男方祖宗血脉",
+      "onboard_time": 1735827442,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 337145,
@@ -833,14 +849,6 @@
       "onboard_time": 1735776798,
       "rank": 13,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 327844,
-      "num": 327844,
-      "word": "留几手问葛夕能再要个孩子吗",
-      "onboard_time": 1735827501,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 321893,
@@ -987,6 +995,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 277265,
+      "num": 277265,
+      "word": "济州航空务安机场涉嫌职务过失致死",
+      "onboard_time": 1735826961,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 270403,
       "num": 270403,
       "word": "杨紫说出了我的心声",
@@ -1067,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243607,
+      "num": 314086,
+      "word": "向前女友泼汽油男子被判12年",
+      "onboard_time": 1735826541,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 242252,
       "num": 264466,
       "word": "微博禁言800余个账号",
@@ -1107,6 +1131,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 239210,
+      "num": 455289,
+      "word": "易烊千玺拍过马路没人发现在拍电影",
+      "onboard_time": 1735826780,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 237500,
       "num": 384566,
       "word": "BLACKPINK5月完整体回归",
@@ -1123,6 +1155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232945,
+      "num": 434998,
+      "word": "一学校工作人员半夜向老人泼冷水",
+      "onboard_time": 1735814900,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230542,
       "num": 230542,
       "word": "跨晚男明星微指",
@@ -1137,6 +1177,14 @@
       "onboard_time": 1735742241,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 228334,
+      "num": 228334,
+      "word": "王安宇Vlog",
+      "onboard_time": 1735827020,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 227518,
@@ -1179,12 +1227,12 @@
       "category": "体育,美妆"
     },
     {
-      "raw_hot": 223259,
-      "num": 223259,
-      "word": "济州航空务安机场涉嫌职务过失致死",
-      "onboard_time": 1735826961,
-      "rank": 36,
-      "category": "海外新闻"
+      "raw_hot": 224487,
+      "num": 224487,
+      "word": "全糖可乐",
+      "onboard_time": 1735827921,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 223238,
@@ -1201,6 +1249,14 @@
       "onboard_time": 1735775178,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 220495,
+      "num": 346248,
+      "word": "向老人泼冷水涉事学校被曝拖欠170万",
+      "onboard_time": 1735826001,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 220376,
@@ -1315,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206233,
+      "num": 206233,
+      "word": "赵露思定会踏遍荆棘勇敢归来",
+      "onboard_time": 1735823360,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205831,
       "num": 175925,
       "word": "张彬彬新剧老天爷赏老婆",
@@ -1427,11 +1491,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198054,
-      "num": 198054,
-      "word": "赵露思定会踏遍荆棘勇敢归来",
-      "onboard_time": 1735823360,
-      "rank": 35,
+      "raw_hot": 198557,
+      "num": 198557,
+      "word": "王一博入选品牌人物500强",
+      "onboard_time": 1735828042,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -1441,14 +1505,6 @@
       "onboard_time": 1735805181,
       "rank": 14,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 196469,
-      "num": 346248,
-      "word": "向老人泼冷水涉事学校被曝拖欠170万",
-      "onboard_time": 1735826001,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 193884,
@@ -1483,14 +1539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 191581,
-      "num": 191581,
-      "word": "王安宇Vlog",
-      "onboard_time": 1735827020,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 190932,
       "num": 472137,
       "word": "银川4.8级地震原因",
@@ -1513,6 +1561,14 @@
       "onboard_time": 1735807222,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189441,
+      "num": 189441,
+      "word": "成毅星光大赏出发",
+      "onboard_time": 1735828402,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 188585,
@@ -1603,6 +1659,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 179441,
+      "num": 179441,
+      "word": "大奉男妲己翻车现场",
+      "onboard_time": 1735828281,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179264,
       "num": 386906,
       "word": "车主入村借道40秒被收费3元",
@@ -1649,14 +1713,6 @@
       "onboard_time": 1735747939,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 174801,
-      "num": 174801,
-      "word": "医院宣传语称堕胎斩断男方祖宗血脉",
-      "onboard_time": 1735827442,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 173898,
@@ -1801,14 +1857,6 @@
       "onboard_time": 1735822460,
       "rank": 41,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 166797,
-      "num": 455289,
-      "word": "易烊千玺拍过马路没人发现在拍电影",
-      "onboard_time": 1735826780,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 166782,
@@ -2027,14 +2075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148809,
-      "num": 314086,
-      "word": "向前女友泼汽油男子被判12年",
-      "onboard_time": 1735826541,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 147408,
       "num": 147408,
       "word": "湘潭大学三万学生一起跨年",
@@ -2185,14 +2225,6 @@
       "onboard_time": 1735793125,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 138675,
-      "num": 434998,
-      "word": "一学校工作人员半夜向老人泼冷水",
-      "onboard_time": 1735814900,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 137984,
@@ -2715,6 +2747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90801,
+      "num": 235047,
+      "word": "少女吸笑气2年送医3次",
+      "onboard_time": 1735825760,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90603,
       "num": 214478,
       "word": "王一珩直播",
@@ -2881,6 +2921,14 @@
       "onboard_time": 1735790962,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65279,
+      "num": 281125,
+      "word": "证监会回应保险公司赎回公募等传闻",
+      "onboard_time": 1735825341,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 63847,
@@ -3177,6 +3225,14 @@
       "onboard_time": 1735798762,
       "rank": 39,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 36678,
+      "num": 312241,
+      "word": "周震南微博之夜官宣",
+      "onboard_time": 1735827561,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 36510,
@@ -3521,14 +3577,6 @@
       "onboard_time": 1735751715,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 16430,
-      "num": 312241,
-      "word": "周震南微博之夜官宣",
-      "onboard_time": 1735827561,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 15284,
