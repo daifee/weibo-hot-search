@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735825079181,
+  "endTime": 1735827624670,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -211,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1661223,
+      "num": 1661223,
+      "word": "123岁老人林蛇母家中去世",
+      "onboard_time": 1735825641,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1630212,
       "num": 1630212,
       "word": "苹果官网突然降价",
@@ -379,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1146342,
+      "num": 1146342,
+      "word": "再见爱人最终选择",
+      "onboard_time": 1735823659,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1138458,
       "num": 401147,
       "word": "张颂文 姜尘",
@@ -417,6 +433,14 @@
       "onboard_time": 1735664063,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1045391,
+      "num": 636415,
+      "word": "黄多多近照",
+      "onboard_time": 1735824260,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 1040720,
@@ -1323,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 456840,
+      "num": 456840,
+      "word": "村民称刘强东发钱不是应该的",
+      "onboard_time": 1735821261,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 453443,
       "num": 453443,
       "word": "拍照时左右脸不对称的人有福了",
@@ -1385,6 +1417,14 @@
       "onboard_time": 1735663824,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 433515,
+      "num": 433515,
+      "word": "工资计算方式有变化",
+      "onboard_time": 1735824801,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 432070,
@@ -1571,14 +1611,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 386830,
-      "num": 386830,
-      "word": "再见爱人最终选择",
-      "onboard_time": 1735823659,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 386314,
       "num": 386314,
       "word": "上海男子5元卖早高峰地铁座位",
@@ -1755,6 +1787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 346288,
+      "num": 346288,
+      "word": "樊振东大雪压青松青松挺且直",
+      "onboard_time": 1735826361,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 344066,
       "num": 421525,
       "word": "银河酷娱绝不容忍恶意诋毁",
@@ -1800,6 +1840,14 @@
       "word": "张峻豪前缀",
       "onboard_time": 1735743561,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 339207,
+      "num": 339207,
+      "word": "胡彦斌吧唧",
+      "onboard_time": 1735826121,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -1851,14 +1899,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 331657,
-      "num": 331657,
-      "word": "黄多多近照",
-      "onboard_time": 1735824260,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 330592,
       "num": 330592,
       "word": "无名的人还是得毛不易唱",
@@ -1881,6 +1921,14 @@
       "onboard_time": 1735721660,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 327844,
+      "num": 327844,
+      "word": "留几手问葛夕能再要个孩子吗",
+      "onboard_time": 1735827501,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 327742,
@@ -2091,14 +2139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 293345,
-      "num": 293345,
-      "word": "村民称刘强东发钱不是应该的",
-      "onboard_time": 1735821261,
-      "rank": 38,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 292173,
       "num": 292173,
       "word": "黄冠亨 交朋友",
@@ -2195,6 +2235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278745,
+      "num": 278745,
+      "word": "B站百大",
+      "onboard_time": 1735823420,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 277666,
       "num": 202737,
       "word": "跨年晚会",
@@ -2233,6 +2281,14 @@
       "onboard_time": 1735742843,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 270403,
+      "num": 270403,
+      "word": "杨紫说出了我的心声",
+      "onboard_time": 1735822521,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 270093,
@@ -2345,62 +2401,6 @@
       "onboard_time": 1735665381,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 253824,
-      "num": 253824,
-      "word": "纽约男子在地铁进站瞬间被推下站台",
-      "onboard_time": 1735740802,
-      "rank": 42,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 253679,
-      "num": 608073,
-      "word": "樊振东称毫无保留地和大家沟通",
-      "onboard_time": 1735659986,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 253089,
-      "num": 315758,
-      "word": "王子文签约和颂",
-      "onboard_time": 1735791985,
-      "rank": 28,
-      "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 252377,
-      "num": 252377,
-      "word": "魏笑 嫡长闺",
-      "onboard_time": 1735705039,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 251316,
-      "num": 251316,
-      "word": "樊振东 东方卫视跨年晚会",
-      "onboard_time": 1735665561,
-      "rank": 38,
-      "category": "体育,综艺"
-    },
-    {
-      "raw_hot": 250425,
-      "num": 221528,
-      "word": "小孩 你欺负到蛋糕店千金了",
-      "onboard_time": 1735804940,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 249609,
-      "num": 310417,
-      "word": "误杀3 肖央你耍我",
-      "onboard_time": 1735805118,
-      "rank": 17,
-      "category": "电影"
     }
   ],
   "hotgov_list": [
@@ -2424,6 +2424,9 @@
     },
     {
       "word": "#习近平在新年贺词中反复提及的关键词#"
+    },
+    {
+      "word": "#亿万个你我汇聚成中国#"
     }
   ]
 }
