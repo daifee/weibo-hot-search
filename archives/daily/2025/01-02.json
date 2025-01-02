@@ -1,6 +1,6 @@
 {
   "startTime": 1735748807244,
-  "endTime": 1735792002291,
+  "endTime": 1735792850245,
   "band_list": [
     {
       "raw_hot": 10019281,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2256630,
+      "num": 1634915,
+      "word": "樊振东瘦成薄薄一片了",
+      "onboard_time": 1735790542,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2183435,
       "num": 1011633,
       "word": "徐以若律师声明",
@@ -49,14 +57,6 @@
       "onboard_time": 1735777638,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1634915,
-      "num": 1634915,
-      "word": "樊振东瘦成薄薄一片了",
-      "onboard_time": 1735790542,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 1630212,
@@ -137,6 +137,14 @@
       "onboard_time": 1735778359,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 657885,
+      "num": 320818,
+      "word": "十个勤天 春晚",
+      "onboard_time": 1735791686,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 640378,
@@ -243,7 +251,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 397209,
+      "raw_hot": 397838,
       "num": 397209,
       "word": "鹿晗高瀚宇眉钉大片",
       "onboard_time": 1735791143,
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 389785,
-      "num": 217087,
+      "num": 224619,
       "word": "金星到底有多恐怖",
       "onboard_time": 1735773675,
       "rank": 21,
@@ -283,6 +291,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 337127,
+      "num": 337127,
+      "word": "自驾阿姨苏敏称已转给男方16万",
+      "onboard_time": 1735791686,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 335497,
       "num": 335497,
       "word": "山西一产科医生涉嫌参与婴儿买卖",
@@ -307,12 +323,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 317842,
-      "num": 317842,
+      "raw_hot": 320004,
+      "num": 320004,
       "word": "花1万8去俄罗斯玩了一周",
       "onboard_time": 1735787961,
       "rank": 33,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 318310,
+      "num": 448227,
+      "word": "元旦上4休3体验感如何",
+      "onboard_time": 1735786941,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 317471,
@@ -339,11 +363,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 298373,
-      "num": 298373,
-      "word": "十个勤天 春晚",
-      "onboard_time": 1735791686,
-      "rank": 21,
+      "raw_hot": 302117,
+      "num": 317504,
+      "word": "春晚彩排",
+      "onboard_time": 1735791262,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -387,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 271137,
+      "num": 271137,
+      "word": "微博之夜猜阵容",
+      "onboard_time": 1735792104,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 269792,
       "num": 513357,
       "word": "银川105名消防员赶赴震中排查",
@@ -419,6 +451,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 241160,
+      "num": 241160,
+      "word": "抑郁症患者会无意识做哪些事",
+      "onboard_time": 1735791262,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 241016,
       "num": 241016,
       "word": "B站2024百大UP主",
@@ -435,20 +475,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 237562,
-      "num": 237562,
-      "word": "抑郁症患者会无意识做哪些事",
-      "onboard_time": 1735791262,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 237500,
       "num": 384566,
       "word": "BLACKPINK5月完整体回归",
       "onboard_time": 1735785019,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230542,
+      "num": 230542,
+      "word": "跨晚男明星微指",
+      "onboard_time": 1735792043,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 230329,
@@ -539,6 +579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 208240,
+      "num": 315758,
+      "word": "王子文签约和颂",
+      "onboard_time": 1735791985,
+      "rank": 28,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 208204,
       "num": 208204,
       "word": "庞博文 小怡同学",
@@ -547,12 +595,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206038,
-      "num": 448227,
-      "word": "元旦上4休3体验感如何",
-      "onboard_time": 1735786941,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 205831,
+      "num": 175925,
+      "word": "张彬彬新剧老天爷赏老婆",
+      "onboard_time": 1735791864,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 205296,
@@ -579,14 +627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200813,
-      "num": 200813,
-      "word": "自驾阿姨苏敏称已转给男方16万",
-      "onboard_time": 1735791686,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 200680,
       "num": 383255,
       "word": "何秋亊精神状态",
@@ -603,12 +643,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195522,
+      "num": 195522,
+      "word": "拍照时左右脸不对称的人有福了",
+      "onboard_time": 1735792763,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 193884,
       "num": 311188,
       "word": "2025第一个工作日开始了",
       "onboard_time": 1735786221,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193169,
+      "num": 193169,
+      "word": "原神5.3版本",
+      "onboard_time": 1735792643,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 190850,
@@ -651,7 +707,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 175792,
+      "raw_hot": 176363,
       "num": 266020,
       "word": "误杀3 染血的佛珠",
       "onboard_time": 1735788621,
@@ -716,7 +772,7 @@
     },
     {
       "raw_hot": 165669,
-      "num": 165669,
+      "num": 317145,
       "word": "南京地铁奶奶奶奶奶还有嗲嗲",
       "onboard_time": 1735787602,
       "rank": 39,
@@ -731,12 +787,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162421,
-      "num": 162421,
-      "word": "张彬彬新剧老天爷赏老婆",
-      "onboard_time": 1735791864,
-      "rank": 45,
-      "category": "剧集"
+      "raw_hot": 165032,
+      "num": 317486,
+      "word": "男子疑得罪驿站员工致无法收到快递",
+      "onboard_time": 1735790903,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163853,
+      "num": 163853,
+      "word": "宋亚轩的嘴就跟弹幕似的",
+      "onboard_time": 1735792403,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 162975,
+      "num": 304265,
+      "word": "孙颖莎幼儿园时期的毕业照",
+      "onboard_time": 1735792223,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 161583,
@@ -769,14 +841,6 @@
       "onboard_time": 1735779199,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 149234,
-      "num": 317504,
-      "word": "春晚彩排",
-      "onboard_time": 1735791262,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 147408,
@@ -889,14 +953,6 @@
       "onboard_time": 1735785141,
       "rank": 44,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 122954,
-      "num": 317486,
-      "word": "男子疑得罪驿站员工致无法收到快递",
-      "onboard_time": 1735790903,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122183,
@@ -1147,14 +1203,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 85289,
-      "num": 257247,
-      "word": "王子文签约和颂",
-      "onboard_time": 1735791985,
-      "rank": 28,
-      "category": "艺人,综艺"
-    },
-    {
       "raw_hot": 85029,
       "num": 85029,
       "word": "黄雅琼宣布退出国家队",
@@ -1193,6 +1241,14 @@
       "onboard_time": 1735750277,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66396,
+      "num": 407950,
+      "word": "食品代购游走在灰色地带",
+      "onboard_time": 1735790962,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62210,
@@ -1283,14 +1339,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 46354,
-      "num": 407950,
-      "word": "食品代购游走在灰色地带",
-      "onboard_time": 1735790962,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 44570,
       "num": 45710,
       "word": "白鹿看月亮爬上来",
@@ -1361,6 +1409,14 @@
       "onboard_time": 1735770493,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33680,
+      "num": 316094,
+      "word": "拜登称正调查新年两起恶性事件有无关联",
+      "onboard_time": 1735792824,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 32068,
@@ -1451,6 +1507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 24599,
+      "num": 401325,
+      "word": "够蛋定的人在路上都能蹭到财气",
+      "onboard_time": 1735790423,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 24177,
       "num": 27345,
       "word": "王一博新年快乐勇攀高峰",
@@ -1459,12 +1523,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 22788,
-      "num": 401325,
-      "word": "够蛋定的人在路上都能蹭到财气",
-      "onboard_time": 1735790423,
-      "rank": 14,
-      "category": "互联网"
+      "raw_hot": 22251,
+      "num": 202904,
+      "word": "雷佳音开年头一单",
+      "onboard_time": 1735792525,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 21599,

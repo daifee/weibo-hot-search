@@ -1,0 +1,410 @@
+{
+  "runTime": 1735792850245,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8069066,
+        "num": 8069066,
+        "word": "于正问赵露思我怎么着你了",
+        "onboard_time": 1735784479,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1350700,
+        "num": 1350700,
+        "word": "苹果官网突然降价",
+        "onboard_time": 1735786459,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 27708,
+        "num": 718611,
+        "word": "足迹2024",
+        "onboard_time": 1735788561,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404423,
+        "num": 404423,
+        "word": "上2休1再上2好潮",
+        "onboard_time": 1735777638,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337127,
+        "num": 337127,
+        "word": "自驾阿姨苏敏称已转给男方16万",
+        "onboard_time": 1735791686,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 567724,
+        "num": 335007,
+        "word": "15岁女孩以买方身份入院产子卖6万8",
+        "onboard_time": 1735785019,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2743979,
+        "num": 328825,
+        "word": "自称赵露思前工作人员喊话赵露思",
+        "onboard_time": 1735790842,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1320037,
+        "num": 325618,
+        "word": "徐以若律师声明",
+        "onboard_time": 1735782440,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 657885,
+        "num": 320818,
+        "word": "十个勤天 春晚",
+        "onboard_time": 1735791686,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320004,
+        "num": 320004,
+        "word": "花1万8去俄罗斯玩了一周",
+        "onboard_time": 1735787961,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 318310,
+        "num": 318310,
+        "word": "元旦上4休3体验感如何",
+        "onboard_time": 1735786941,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2256630,
+        "num": 318086,
+        "word": "樊振东瘦成薄薄一片了",
+        "onboard_time": 1735790542,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 653387,
+        "num": 317740,
+        "word": "肖战倪妮隔窗对视",
+        "onboard_time": 1735790240,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 635869,
+        "num": 317508,
+        "word": "第一次见长发穿裙子的孙颖莎",
+        "onboard_time": 1735786339,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24599,
+        "num": 317307,
+        "word": "够蛋定的人在路上都能蹭到财气",
+        "onboard_time": 1735790423,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131415,
+        "num": 317145,
+        "word": "南京地铁奶奶奶奶奶还有嗲嗲",
+        "onboard_time": 1735787602,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319660,
+        "num": 316740,
+        "word": "上海男子5元卖早高峰地铁座位",
+        "onboard_time": 1735785082,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 476755,
+        "num": 316427,
+        "word": "黄冠亨 叶舒华",
+        "onboard_time": 1735782858,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33680,
+        "num": 316094,
+        "word": "拜登称正调查新年两起恶性事件有无关联",
+        "onboard_time": 1735792824,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 208240,
+        "num": 315758,
+        "word": "王子文签约和颂",
+        "onboard_time": 1735791985,
+        "rank": 19,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 409917,
+        "num": 315475,
+        "word": "张颂文",
+        "onboard_time": 1735778299,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397838,
+        "num": 315256,
+        "word": "鹿晗高瀚宇眉钉大片",
+        "onboard_time": 1735791143,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 315117,
+        "num": 315117,
+        "word": "徐以若",
+        "onboard_time": 1735773735,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309347,
+        "num": 309347,
+        "word": "史上最薄iPhone渲染图来了",
+        "onboard_time": 1735788262,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 162975,
+        "num": 304265,
+        "word": "孙颖莎幼儿园时期的毕业照",
+        "onboard_time": 1735792223,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302117,
+        "num": 302117,
+        "word": "春晚彩排",
+        "onboard_time": 1735791262,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66396,
+        "num": 292981,
+        "word": "食品代购游走在灰色地带",
+        "onboard_time": 1735790962,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288057,
+        "num": 288057,
+        "word": "徐以若 于正",
+        "onboard_time": 1735775057,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271137,
+        "num": 271137,
+        "word": "微博之夜猜阵容",
+        "onboard_time": 1735792104,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270279,
+        "num": 270279,
+        "word": "路特斯正式更名为莲花跑车",
+        "onboard_time": 1735789401,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 248309,
+        "num": 248309,
+        "word": "女子在外打工家里住十几个陌生人",
+        "onboard_time": 1735787061,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241160,
+        "num": 241160,
+        "word": "抑郁症患者会无意识做哪些事",
+        "onboard_time": 1735791262,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 230542,
+        "num": 230542,
+        "word": "跨晚男明星微指",
+        "onboard_time": 1735792043,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224619,
+        "num": 224619,
+        "word": "金星到底有多恐怖",
+        "onboard_time": 1735773675,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 217504,
+        "num": 217504,
+        "word": "银川地震",
+        "onboard_time": 1735783819,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216831,
+        "num": 216831,
+        "word": "李晨姑姑消消乐",
+        "onboard_time": 1735789942,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208677,
+        "num": 208677,
+        "word": "52周存钱法最无痛的存钱方式",
+        "onboard_time": 1735789462,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165032,
+        "num": 204587,
+        "word": "男子疑得罪驿站员工致无法收到快递",
+        "onboard_time": 1735790903,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22251,
+        "num": 202904,
+        "word": "雷佳音开年头一单",
+        "onboard_time": 1735792525,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202589,
+        "num": 202589,
+        "word": "山西一产科医生涉嫌参与婴儿买卖",
+        "onboard_time": 1735785019,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195522,
+        "num": 195522,
+        "word": "拍照时左右脸不对称的人有福了",
+        "onboard_time": 1735792763,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193169,
+        "num": 193169,
+        "word": "原神5.3版本",
+        "onboard_time": 1735792643,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176363,
+        "num": 176363,
+        "word": "误杀3 染血的佛珠",
+        "onboard_time": 1735788621,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205831,
+        "num": 175925,
+        "word": "张彬彬新剧老天爷赏老婆",
+        "onboard_time": 1735791864,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170876,
+        "num": 170876,
+        "word": "周微",
+        "onboard_time": 1735788621,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 150240,
+        "num": 166384,
+        "word": "银川105名消防员赶赴震中排查",
+        "onboard_time": 1735787180,
+        "rank": 45,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 163853,
+        "num": 163853,
+        "word": "宋亚轩的嘴就跟弹幕似的",
+        "onboard_time": 1735792403,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159509,
+        "num": 159509,
+        "word": "小米已投资健身公司",
+        "onboard_time": 1735786581,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 158629,
+        "num": 158629,
+        "word": "新华社解读马龙樊振东陈梦退出世排",
+        "onboard_time": 1735774217,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123821,
+        "num": 151718,
+        "word": "王楚钦眼里有光",
+        "onboard_time": 1735790360,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平说这些问题我一直挂念#"
+    }
+  }
+}

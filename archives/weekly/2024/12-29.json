@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735792002291,
+  "endTime": 1735792850245,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -347,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2256630,
+      "num": 1634915,
+      "word": "樊振东瘦成薄薄一片了",
+      "onboard_time": 1735790542,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2235550,
       "num": 2235550,
       "word": "韩国客机起火28人死亡",
@@ -641,14 +649,6 @@
       "onboard_time": 1735482322,
       "rank": 33,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1634915,
-      "num": 1634915,
-      "word": "樊振东瘦成薄薄一片了",
-      "onboard_time": 1735790542,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 1631703,
@@ -2048,6 +2048,14 @@
       "word": "向佐致歉",
       "onboard_time": 1735563200,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 657885,
+      "num": 320818,
+      "word": "十个勤天 春晚",
+      "onboard_time": 1735791686,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -3539,6 +3547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 397838,
+      "num": 397209,
+      "word": "鹿晗高瀚宇眉钉大片",
+      "onboard_time": 1735791143,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 397524,
       "num": 397524,
       "word": "Doinb NIP",
@@ -3561,14 +3577,6 @@
       "onboard_time": 1735635381,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 397209,
-      "num": 397209,
-      "word": "鹿晗高瀚宇眉钉大片",
-      "onboard_time": 1735791143,
-      "rank": 15,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 396226,
@@ -3668,7 +3676,7 @@
     },
     {
       "raw_hot": 389785,
-      "num": 217087,
+      "num": 224619,
       "word": "金星到底有多恐怖",
       "onboard_time": 1735773675,
       "rank": 21,
@@ -4195,6 +4203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 337127,
+      "num": 337127,
+      "word": "自驾阿姨苏敏称已转给男方16万",
+      "onboard_time": 1735791686,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 336985,
       "num": 336985,
       "word": "离婚也要争婆婆的抚养权",
@@ -4475,6 +4491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 320004,
+      "num": 320004,
+      "word": "花1万8去俄罗斯玩了一周",
+      "onboard_time": 1735787961,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 319358,
       "num": 1081012,
       "word": "2024最后一次",
@@ -4507,12 +4531,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 317842,
-      "num": 317842,
-      "word": "花1万8去俄罗斯玩了一周",
-      "onboard_time": 1735787961,
-      "rank": 33,
-      "category": "旅游"
+      "raw_hot": 318310,
+      "num": 448227,
+      "word": "元旦上4休3体验感如何",
+      "onboard_time": 1735786941,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 317471,
@@ -4755,6 +4779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 302117,
+      "num": 317504,
+      "word": "春晚彩排",
+      "onboard_time": 1735791262,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301278,
       "num": 301278,
       "word": "深圳大学vs山东鲁能",
@@ -4792,14 +4824,6 @@
       "word": "何炅跨年彩排穿着好六惩罚衣",
       "onboard_time": 1735572381,
       "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 298373,
-      "num": 298373,
-      "word": "十个勤天 春晚",
-      "onboard_time": 1735791686,
-      "rank": 21,
       "category": "综艺"
     },
     {
@@ -5224,6 +5248,14 @@
       "word": "张峻豪余宇涵明天地球要爆炸",
       "onboard_time": 1735742843,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 271137,
+      "num": 271137,
+      "word": "微博之夜猜阵容",
+      "onboard_time": 1735792104,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -5931,6 +5963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241160,
+      "num": 241160,
+      "word": "抑郁症患者会无意识做哪些事",
+      "onboard_time": 1735791262,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 240971,
       "num": 240971,
       "word": "Hero久哲成为历史",
@@ -6017,14 +6057,6 @@
       "onboard_time": 1735440139,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 237562,
-      "num": 237562,
-      "word": "抑郁症患者会无意识做哪些事",
-      "onboard_time": 1735791262,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 237500,
@@ -6161,6 +6193,14 @@
       "onboard_time": 1735541780,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 230542,
+      "num": 230542,
+      "word": "跨晚男明星微指",
+      "onboard_time": 1735792043,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 230293,
@@ -6819,6 +6859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208240,
+      "num": 315758,
+      "word": "王子文签约和颂",
+      "onboard_time": 1735791985,
+      "rank": 28,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 207932,
       "num": 266090,
       "word": "MBC歌谣大祭典",
@@ -6891,14 +6939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206038,
-      "num": 448227,
-      "word": "元旦上4休3体验感如何",
-      "onboard_time": 1735786941,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 205904,
       "num": 205904,
       "word": "李昀锐你真的没喝醉吗",
@@ -6921,6 +6961,14 @@
       "onboard_time": 1735632080,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205831,
+      "num": 175925,
+      "word": "张彬彬新剧老天爷赏老婆",
+      "onboard_time": 1735791864,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 205788,
@@ -7235,14 +7283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 200813,
-      "num": 200813,
-      "word": "自驾阿姨苏敏称已转给男方16万",
-      "onboard_time": 1735791686,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 200693,
       "num": 200693,
       "word": "欣有林兮",
@@ -7539,6 +7579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195522,
+      "num": 195522,
+      "word": "拍照时左右脸不对称的人有福了",
+      "onboard_time": 1735792763,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 195381,
       "num": 195381,
       "word": "林高远男双MVP",
@@ -7697,6 +7745,14 @@
       "onboard_time": 1735744642,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 193169,
+      "num": 193169,
+      "word": "原神5.3版本",
+      "onboard_time": 1735792643,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 193069,
@@ -8683,6 +8739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176363,
+      "num": 266020,
+      "word": "误杀3 染血的佛珠",
+      "onboard_time": 1735788621,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 176159,
       "num": 176159,
       "word": "芒果男主持 杨淇源是谁啊",
@@ -8713,14 +8777,6 @@
       "onboard_time": 1735563259,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 175792,
-      "num": 266020,
-      "word": "误杀3 染血的佛珠",
-      "onboard_time": 1735788621,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 175777,
@@ -9308,7 +9364,7 @@
     },
     {
       "raw_hot": 165669,
-      "num": 165669,
+      "num": 317145,
       "word": "南京地铁奶奶奶奶奶还有嗲嗲",
       "onboard_time": 1735787602,
       "rank": 39,
@@ -9369,6 +9425,14 @@
       "onboard_time": 1735790360,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165032,
+      "num": 317486,
+      "word": "男子疑得罪驿站员工致无法收到快递",
+      "onboard_time": 1735790903,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165015,
@@ -9475,6 +9539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163853,
+      "num": 163853,
+      "word": "宋亚轩的嘴就跟弹幕似的",
+      "onboard_time": 1735792403,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163570,
       "num": 163570,
       "word": "周震南 来这就是为了第一名",
@@ -9515,6 +9587,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 162975,
+      "num": 304265,
+      "word": "孙颖莎幼儿园时期的毕业照",
+      "onboard_time": 1735792223,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162964,
       "num": 162964,
       "word": "Doinb 生日祝福收到了",
@@ -9545,14 +9625,6 @@
       "onboard_time": 1735399102,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 162421,
-      "num": 162421,
-      "word": "张彬彬新剧老天爷赏老婆",
-      "onboard_time": 1735791864,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 162323,
@@ -10201,14 +10273,6 @@
       "onboard_time": 1735541059,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 149234,
-      "num": 317504,
-      "word": "春晚彩排",
-      "onboard_time": 1735791262,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 149144,
@@ -11635,14 +11699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122954,
-      "num": 317486,
-      "word": "男子疑得罪驿站员工致无法收到快递",
-      "onboard_time": 1735790903,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 122927,
       "num": 122927,
       "word": "2025年金价会持续走高吗",
@@ -12995,14 +13051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 85289,
-      "num": 257247,
-      "word": "王子文签约和颂",
-      "onboard_time": 1735791985,
-      "rank": 28,
-      "category": "艺人,综艺"
-    },
-    {
       "raw_hot": 84879,
       "num": 741968,
       "word": "运输成本下降致车厘子价格暴跌",
@@ -13488,6 +13536,14 @@
       "word": "2024年十大国际事件",
       "onboard_time": 1735527018,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66396,
+      "num": 407950,
+      "word": "食品代购游走在灰色地带",
+      "onboard_time": 1735790962,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -14187,14 +14243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 46354,
-      "num": 407950,
-      "word": "食品代购游走在灰色地带",
-      "onboard_time": 1735790962,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 45916,
       "num": 225878,
       "word": "每只都绝美的年度口红",
@@ -14849,6 +14897,14 @@
       "onboard_time": 1735517839,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33680,
+      "num": 316094,
+      "word": "拜登称正调查新年两起恶性事件有无关联",
+      "onboard_time": 1735792824,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33514,
@@ -15563,6 +15619,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 24599,
+      "num": 401325,
+      "word": "够蛋定的人在路上都能蹭到财气",
+      "onboard_time": 1735790423,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 24554,
       "num": 44805,
       "word": "WTT发布声明",
@@ -15659,14 +15723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 22788,
-      "num": 401325,
-      "word": "够蛋定的人在路上都能蹭到财气",
-      "onboard_time": 1735790423,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 22629,
       "num": 157270,
       "word": "清明上河图密码剧情反转",
@@ -15745,6 +15801,14 @@
       "onboard_time": 1735647507,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22251,
+      "num": 202904,
+      "word": "雷佳音开年头一单",
+      "onboard_time": 1735792525,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 22044,
