@@ -1,0 +1,410 @@
+{
+  "runTime": 1735832233172,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1131504,
+        "num": 1181040,
+        "word": "123岁老人林蛇母家中去世",
+        "onboard_time": 1735825641,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1078091,
+        "num": 1078091,
+        "word": "医院宣传语称堕胎斩断男方祖宗血脉",
+        "onboard_time": 1735827442,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79280,
+        "num": 869457,
+        "word": "这就是咱中国人的独家浪漫",
+        "onboard_time": 1735824141,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 807903,
+        "num": 807903,
+        "word": "留几手问葛夕能再要个孩子吗",
+        "onboard_time": 1735827501,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 531846,
+        "num": 735033,
+        "word": "滑翔伞坠落致教练和一女大学生身亡",
+        "onboard_time": 1735829240,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1493523,
+        "num": 734989,
+        "word": "于正刚和赵露思聊了一小时",
+        "onboard_time": 1735814900,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 734846,
+        "num": 734846,
+        "word": "再见爱人最终选择",
+        "onboard_time": 1735823659,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 628434,
+        "num": 628434,
+        "word": "黄多多近照",
+        "onboard_time": 1735824260,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494967,
+        "num": 494967,
+        "word": "外国网红猫女去世",
+        "onboard_time": 1735810700,
+        "rank": 8,
+        "category": "海外新闻,网红"
+      },
+      {
+        "raw_hot": 451977,
+        "num": 451977,
+        "word": "樊振东大雪压青松青松挺且直",
+        "onboard_time": 1735826361,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 901866,
+        "num": 443595,
+        "word": "银川地震",
+        "onboard_time": 1735807941,
+        "rank": 10,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 457618,
+        "num": 438900,
+        "word": "谁家电视剧第一集就亲啊",
+        "onboard_time": 1735817059,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 407669,
+        "num": 407669,
+        "word": "中学录用13人无一师范毕业的冷思考",
+        "onboard_time": 1735830441,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387930,
+        "num": 387930,
+        "word": "村民称刘强东发钱不是应该的",
+        "onboard_time": 1735821261,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 378897,
+        "num": 378897,
+        "word": "王安宇Vlog",
+        "onboard_time": 1735827020,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377960,
+        "num": 377960,
+        "word": "感觉王鹤棣下一秒就要哭了",
+        "onboard_time": 1735818620,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349721,
+        "num": 349721,
+        "word": "上4休3的好处已经显现出来了",
+        "onboard_time": 1735816100,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92516,
+        "num": 349095,
+        "word": "杨妞花说用微笑迎接2025",
+        "onboard_time": 1735832059,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230091,
+        "num": 347899,
+        "word": "超市丢千万元托盘让全员每人赔500",
+        "onboard_time": 1735830321,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44396,
+        "num": 345992,
+        "word": "网传泸溪河鸡蛋糕吃出钉子",
+        "onboard_time": 1735831640,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366981,
+        "num": 343283,
+        "word": "年前金价下跌年轻人再掀淘金热",
+        "onboard_time": 1735829661,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 343254,
+        "num": 343254,
+        "word": "向前女友泼汽油男子被判12年",
+        "onboard_time": 1735826541,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336797,
+        "num": 336797,
+        "word": "胡彦斌吧唧",
+        "onboard_time": 1735826121,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158411,
+        "num": 334563,
+        "word": "火星情报局导演给赵露思发声",
+        "onboard_time": 1735830981,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78552,
+        "num": 334502,
+        "word": "钱天一感谢全力以赴的自己",
+        "onboard_time": 1735831041,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334457,
+        "num": 334457,
+        "word": "大奉男妲己翻车现场",
+        "onboard_time": 1735828281,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318558,
+        "num": 318558,
+        "word": "工资计算方式有变化",
+        "onboard_time": 1735824801,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299611,
+        "num": 299611,
+        "word": "霸王茶姬毛绒杯",
+        "onboard_time": 1735822219,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 92642,
+        "num": 258143,
+        "word": "偏头疼为啥一跳一跳",
+        "onboard_time": 1735824381,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 93776,
+        "num": 257026,
+        "word": "微博之夜全员人脸识别",
+        "onboard_time": 1735830381,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 256986,
+        "num": 256986,
+        "word": "车厘子一降价就知道要过年了",
+        "onboard_time": 1735829481,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249594,
+        "num": 249594,
+        "word": "宁夏地震局",
+        "onboard_time": 1735831580,
+        "rank": 31,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 242191,
+        "num": 242191,
+        "word": "全糖可乐",
+        "onboard_time": 1735827921,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230127,
+        "num": 230127,
+        "word": "小怡同学 庞博文",
+        "onboard_time": 1735818620,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226248,
+        "num": 226248,
+        "word": "男子境外失联多日曾要求家人勿报警",
+        "onboard_time": 1735830142,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224063,
+        "num": 224063,
+        "word": "虞书欣评论张彬彬",
+        "onboard_time": 1735802482,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214808,
+        "num": 214808,
+        "word": "19岁少女网贷9万买笑气",
+        "onboard_time": 1735820780,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211183,
+        "num": 211183,
+        "word": "2025最容易成为富婆的星座",
+        "onboard_time": 1735829961,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196085,
+        "num": 196085,
+        "word": "韩国空难遇难机长哥哥的亲笔信",
+        "onboard_time": 1735808780,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 184015,
+        "num": 184015,
+        "word": "张康乐好帅",
+        "onboard_time": 1735831521,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179783,
+        "num": 179783,
+        "word": "宁夏近期存在发生4到5级地震的可能",
+        "onboard_time": 1735812681,
+        "rank": 40,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 171203,
+        "num": 171203,
+        "word": "2025待爆",
+        "onboard_time": 1735821560,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160293,
+        "num": 160293,
+        "word": "济州航空务安机场涉嫌职务过失致死",
+        "onboard_time": 1735826961,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 158232,
+        "num": 158232,
+        "word": "黄圣依这段突然燃起来了",
+        "onboard_time": 1735822040,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157668,
+        "num": 157668,
+        "word": "国色芳华白月梵星 对打",
+        "onboard_time": 1735819161,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149764,
+        "num": 149764,
+        "word": "徐克肖战合体送2025新年祝福",
+        "onboard_time": 1735831101,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149649,
+        "num": 149649,
+        "word": "虞书欣林一2025首cha",
+        "onboard_time": 1735829001,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143420,
+        "num": 143420,
+        "word": "杨妞花总结2024",
+        "onboard_time": 1735829661,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138825,
+        "num": 138825,
+        "word": "易烊千玺拍过马路没人发现在拍电影",
+        "onboard_time": 1735826780,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137078,
+        "num": 137078,
+        "word": "乒超联赛票房收入近3000万元",
+        "onboard_time": 1735830862,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#亿万个你我汇聚成中国#"
+    }
+  }
+}
