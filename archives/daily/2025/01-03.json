@@ -1,6 +1,6 @@
 {
   "startTime": 1735835273269,
-  "endTime": 1735839405265,
+  "endTime": 1735842607093,
   "band_list": [
     {
       "raw_hot": 1058621,
@@ -467,6 +467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 50710,
+      "num": 80066,
+      "word": "宁夏启动四级地震应急响应",
+      "onboard_time": 1735839074,
+      "rank": 29,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 49657,
       "num": 135940,
       "word": "火星工作人员为赵露思发声",
@@ -483,11 +491,11 @@
       "category": "民生新闻,情感"
     },
     {
-      "raw_hot": 40244,
-      "num": 80066,
-      "word": "宁夏启动四级地震应急响应",
-      "onboard_time": 1735839074,
-      "rank": 29,
+      "raw_hot": 29732,
+      "num": 89402,
+      "word": "银川辟谣一小区因地震有房屋倒塌",
+      "onboard_time": 1735841353,
+      "rank": 14,
       "category": "突发/灾害"
     },
     {
@@ -505,6 +513,14 @@
       "onboard_time": 1735838475,
       "rank": 24,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 12994,
+      "num": 45675,
+      "word": "济州航空代表理事金利培被禁止出国",
+      "onboard_time": 1735842551,
+      "rank": 29,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
