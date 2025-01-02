@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735860078523,
+  "endTime": 1735860916616,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -491,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 993498,
+      "num": 993498,
+      "word": "上4休3的好处已经显现出来了",
+      "onboard_time": 1735816100,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 991350,
       "num": 297270,
       "word": "轧戏",
@@ -715,6 +723,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 818752,
+      "num": 815164,
+      "word": "男子认亲成功16年后发现亲爹是假的",
+      "onboard_time": 1735844712,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 818078,
       "num": 818078,
       "word": "覃予萱vs王曼昱",
@@ -809,22 +825,6 @@
       "onboard_time": 1735716379,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 754499,
-      "num": 815164,
-      "word": "男子认亲成功16年后发现亲爹是假的",
-      "onboard_time": 1735844712,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 752342,
-      "num": 752342,
-      "word": "上4休3的好处已经显现出来了",
-      "onboard_time": 1735816100,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 744481,
@@ -1515,6 +1515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 428969,
+      "num": 428969,
+      "word": "超市丢千万元托盘让全员每人赔500",
+      "onboard_time": 1735830321,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 426313,
       "num": 426313,
       "word": "迪丽热巴人鱼美杜莎",
@@ -2123,14 +2131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 313318,
-      "num": 347899,
-      "word": "超市丢千万元托盘让全员每人赔500",
-      "onboard_time": 1735830321,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 312365,
       "num": 312365,
       "word": "NINEPERCENT真快给吴宣仪集齐了",
@@ -2257,6 +2257,14 @@
       "onboard_time": 1735738161,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 297123,
+      "num": 346402,
+      "word": "韩国公调处出发执行尹锡悦逮捕令",
+      "onboard_time": 1735859416,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 292173,
@@ -2923,6 +2931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218862,
+      "num": 218862,
+      "word": "脑瘫很难在孕产检中被直接发现",
+      "onboard_time": 1735832300,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 217673,
       "num": 217673,
       "word": "网友说周三放假很科学",
@@ -3507,20 +3523,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 191832,
-      "num": 191832,
-      "word": "脑瘫很难在孕产检中被直接发现",
-      "onboard_time": 1735832300,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 191796,
       "num": 277166,
       "word": "大奉打更人",
       "onboard_time": 1735795100,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191714,
+      "num": 191714,
+      "word": "教育局回应学校工作人员向老人泼水",
+      "onboard_time": 1735849811,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191623,
@@ -4547,14 +4563,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 154088,
-      "num": 154088,
-      "word": "教育局回应学校工作人员向老人泼水",
-      "onboard_time": 1735849811,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153889,
       "num": 153889,
       "word": "黄龄刘忻声音里带水印",
@@ -4923,6 +4931,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141589,
+      "num": 141589,
+      "word": "肖战蝉联第6年世首帅",
+      "onboard_time": 1735847592,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141429,
       "num": 264302,
       "word": "王曼昱乒超夺冠发文",
@@ -5041,6 +5057,14 @@
       "onboard_time": 1735712299,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139023,
+      "num": 139023,
+      "word": "papi酱 可能杨子这就是专业吧",
+      "onboard_time": 1735859655,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 138746,
@@ -5811,14 +5835,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 111832,
-      "num": 111832,
-      "word": "肖战蝉联第6年世首帅",
-      "onboard_time": 1735847592,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 111578,
       "num": 111578,
       "word": "王曼昱2025希望自己健康快乐",
@@ -5937,6 +5953,14 @@
       "onboard_time": 1735833859,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106323,
+      "num": 106323,
+      "word": "16个新种蜘蛛以周杰伦歌命名",
+      "onboard_time": 1735857433,
+      "rank": 48,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 106025,
@@ -6187,14 +6211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 93706,
-      "num": 346402,
-      "word": "韩国公调处出发执行尹锡悦逮捕令",
-      "onboard_time": 1735859416,
-      "rank": 4,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 92898,
       "num": 357215,
       "word": "钱天一感谢全力以赴的自己",
@@ -6363,14 +6379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 81196,
-      "num": 81196,
-      "word": "16个新种蜘蛛以周杰伦歌命名",
-      "onboard_time": 1735857433,
-      "rank": 48,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 79984,
       "num": 211254,
       "word": "警方通报男子用加特林烟花射向气球海",
@@ -6395,12 +6403,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 77628,
+      "num": 77628,
+      "word": "东方甄选变火药桶让俞敏洪后悔创办",
+      "onboard_time": 1735848791,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 75606,
       "num": 282541,
       "word": "韩消防部门回应失事客机残骸起火",
       "onboard_time": 1735815980,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 74553,
+      "num": 74553,
+      "word": "95后脑瘫小伙因自己理发健身走红",
+      "onboard_time": 1735851138,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73167,
@@ -6491,20 +6515,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 67732,
-      "num": 67732,
-      "word": "东方甄选变火药桶让俞敏洪后悔创办",
-      "onboard_time": 1735848791,
-      "rank": 45,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 67543,
       "num": 300030,
       "word": "1月电影大片扎堆了",
       "onboard_time": 1735716679,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 66796,
+      "num": 304456,
+      "word": "2025年开工大吉",
+      "onboard_time": 1735859716,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66738,
@@ -6545,14 +6569,6 @@
       "onboard_time": 1735644560,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 64277,
-      "num": 64277,
-      "word": "95后脑瘫小伙因自己理发健身走红",
-      "onboard_time": 1735851138,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 63847,
@@ -6675,6 +6691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58460,
+      "num": 142277,
+      "word": "王楚钦分享环球影城vlog",
+      "onboard_time": 1735860256,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57759,
       "num": 217112,
       "word": "微博之夜周深的赛博搭子",
@@ -6761,6 +6785,14 @@
       "onboard_time": 1735811361,
       "rank": 5,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 51270,
+      "num": 51270,
+      "word": "银川又震440名消防员已集结完毕",
+      "onboard_time": 1735849451,
+      "rank": 37,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 50710,
@@ -6891,14 +6923,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 46548,
-      "num": 123875,
-      "word": "2025年开工大吉",
-      "onboard_time": 1735859716,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 45356,
       "num": 449392,
       "word": "民警从游戏皮肤骗局里抢回14万",
@@ -6953,6 +6977,14 @@
       "onboard_time": 1735746260,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42756,
+      "num": 123993,
+      "word": "广东过年吃饭相当于讲吉祥话",
+      "onboard_time": 1735858754,
+      "rank": 20,
+      "category": "正能量"
     },
     {
       "raw_hot": 42530,
@@ -7027,14 +7059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 38085,
-      "num": 49240,
-      "word": "papi酱 可能杨子这就是专业吧",
-      "onboard_time": 1735859655,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 37736,
       "num": 166213,
       "word": "让所有人感叹的两爬动物",
@@ -7049,14 +7073,6 @@
       "onboard_time": 1735751834,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 37390,
-      "num": 49203,
-      "word": "银川又震440名消防员已集结完毕",
-      "onboard_time": 1735849451,
-      "rank": 37,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 37373,
@@ -7137,14 +7153,6 @@
       "onboard_time": 1735770493,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 34887,
-      "num": 123993,
-      "word": "广东过年吃饭相当于讲吉祥话",
-      "onboard_time": 1735858754,
-      "rank": 20,
-      "category": "正能量"
     },
     {
       "raw_hot": 34761,
@@ -8033,6 +8041,14 @@
       "onboard_time": 1735766111,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 6554,
+      "num": 59307,
+      "word": "王昱珩说企鹅不都在南极",
+      "onboard_time": 1735860617,
+      "rank": 39,
+      "category": "科学科普"
     }
   ],
   "hotgov_list": [

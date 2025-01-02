@@ -1,0 +1,410 @@
+{
+  "runTime": 1735860916616,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 993498,
+        "num": 993498,
+        "word": "上4休3的好处已经显现出来了",
+        "onboard_time": 1735816100,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 428969,
+        "num": 428969,
+        "word": "超市丢千万元托盘让全员每人赔500",
+        "onboard_time": 1735830321,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50946,
+        "num": 405388,
+        "word": "这就是咱中国人的独家浪漫",
+        "onboard_time": 1735824141,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 392146,
+        "num": 392146,
+        "word": "村民称刘强东发钱不是应该的",
+        "onboard_time": 1735821261,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 388084,
+        "num": 388084,
+        "word": "123岁老人林蛇母家中去世",
+        "onboard_time": 1735825641,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 379199,
+        "num": 379199,
+        "word": "再见爱人最终选择",
+        "onboard_time": 1735823659,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 818752,
+        "num": 354516,
+        "word": "男子认亲成功16年后发现亲爹是假的",
+        "onboard_time": 1735844712,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325759,
+        "num": 325759,
+        "word": "留几手问葛夕能再要个孩子吗",
+        "onboard_time": 1735827501,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324614,
+        "num": 324614,
+        "word": "宁夏地震局",
+        "onboard_time": 1735831580,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 66796,
+        "num": 304456,
+        "word": "2025年开工大吉",
+        "onboard_time": 1735859716,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297123,
+        "num": 297123,
+        "word": "韩国公调处出发执行尹锡悦逮捕令",
+        "onboard_time": 1735859416,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 260952,
+        "num": 260952,
+        "word": "滑翔伞事故死亡教练系公司法人",
+        "onboard_time": 1735835358,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229528,
+        "num": 229528,
+        "word": "永宁县应急局称超2000人在救援排查",
+        "onboard_time": 1735833558,
+        "rank": 12,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 218862,
+        "num": 218862,
+        "word": "脑瘫很难在孕产检中被直接发现",
+        "onboard_time": 1735832300,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201503,
+        "num": 201503,
+        "word": "韩国空难遇难者有一名泰籍华人",
+        "onboard_time": 1735834339,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 191714,
+        "num": 191714,
+        "word": "教育局回应学校工作人员向老人泼水",
+        "onboard_time": 1735849811,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176233,
+        "num": 176233,
+        "word": "中学录用13人无一师范毕业的冷思考",
+        "onboard_time": 1735830441,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145599,
+        "num": 175363,
+        "word": "何炅拥抱谢娜零点照片",
+        "onboard_time": 1735834039,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101484,
+        "num": 174544,
+        "word": "谁家电视剧第一集就亲啊",
+        "onboard_time": 1735817059,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94466,
+        "num": 172515,
+        "word": "感觉王鹤棣下一秒就要哭了",
+        "onboard_time": 1735818620,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231499,
+        "num": 170327,
+        "word": "年前金价下跌年轻人再掀淘金热",
+        "onboard_time": 1735829661,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 169486,
+        "num": 169486,
+        "word": "滑翔伞坠落致教练和一女大学生身亡",
+        "onboard_time": 1735829240,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161846,
+        "num": 161846,
+        "word": "外国网红猫女去世",
+        "onboard_time": 1735810700,
+        "rank": 22,
+        "category": "海外新闻,网红"
+      },
+      {
+        "raw_hot": 148298,
+        "num": 148298,
+        "word": "银川地震",
+        "onboard_time": 1735807941,
+        "rank": 23,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 58460,
+        "num": 142277,
+        "word": "王楚钦分享环球影城vlog",
+        "onboard_time": 1735860256,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141589,
+        "num": 141589,
+        "word": "肖战蝉联第6年世首帅",
+        "onboard_time": 1735847592,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139023,
+        "num": 139023,
+        "word": "papi酱 可能杨子这就是专业吧",
+        "onboard_time": 1735859655,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119185,
+        "num": 119185,
+        "word": "樊振东大雪压青松青松挺且直",
+        "onboard_time": 1735826361,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106323,
+        "num": 106323,
+        "word": "16个新种蜘蛛以周杰伦歌命名",
+        "onboard_time": 1735857433,
+        "rank": 28,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 80923,
+        "num": 104942,
+        "word": "黄多多近照",
+        "onboard_time": 1735824260,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104272,
+        "num": 104272,
+        "word": "辽宁一大货车起火爆炸多车被引燃",
+        "onboard_time": 1735853112,
+        "rank": 30,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 102416,
+        "num": 102416,
+        "word": "医院宣传语称堕胎斩断男方祖宗血脉",
+        "onboard_time": 1735827442,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93291,
+        "num": 93291,
+        "word": "地震局称银川进入地震窗口期",
+        "onboard_time": 1735807941,
+        "rank": 32,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 91492,
+        "num": 91492,
+        "word": "19岁少女网贷9万买笑气",
+        "onboard_time": 1735820780,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88143,
+        "num": 88143,
+        "word": "许昕回应采访为樊振东解围",
+        "onboard_time": 1735835657,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79416,
+        "num": 79416,
+        "word": "济州航空务安机场涉嫌职务过失致死",
+        "onboard_time": 1735826961,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 77628,
+        "num": 77628,
+        "word": "东方甄选变火药桶让俞敏洪后悔创办",
+        "onboard_time": 1735848791,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 74553,
+        "num": 74553,
+        "word": "95后脑瘫小伙因自己理发健身走红",
+        "onboard_time": 1735851138,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59529,
+        "num": 59529,
+        "word": "王鹤棣好像提前过年了",
+        "onboard_time": 1735837395,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 6554,
+        "num": 59307,
+        "word": "王昱珩说企鹅不都在南极",
+        "onboard_time": 1735860617,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 59305,
+        "num": 59305,
+        "word": "国色芳华白月梵星 对打",
+        "onboard_time": 1735819161,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57175,
+        "num": 57175,
+        "word": "微博之夜马嘉祺的赛博搭子",
+        "onboard_time": 1735832839,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 56537,
+        "num": 56537,
+        "word": "冬夜老人躲角落里银行小姐姐出手了",
+        "onboard_time": 1735854670,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56060,
+        "num": 56060,
+        "word": "大奉男妲己翻车现场",
+        "onboard_time": 1735828281,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52233,
+        "num": 52233,
+        "word": "微博之夜全员人脸识别",
+        "onboard_time": 1735830381,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 52067,
+        "num": 52067,
+        "word": "银川地震震中附近小学老师发声",
+        "onboard_time": 1735843272,
+        "rank": 45,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 51901,
+        "num": 51901,
+        "word": "葛夕坚持孩子跟自己姓",
+        "onboard_time": 1735832898,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51270,
+        "num": 51270,
+        "word": "银川又震440名消防员已集结完毕",
+        "onboard_time": 1735849451,
+        "rank": 47,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 42756,
+        "num": 42756,
+        "word": "广东过年吃饭相当于讲吉祥话",
+        "onboard_time": 1735858754,
+        "rank": 48,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 41743,
+        "num": 41743,
+        "word": "宁夏近期存在发生4到5级地震的可能",
+        "onboard_time": 1735812681,
+        "rank": 49,
+        "category": "突发/灾害"
+      }
+    ],
+    "hotgov": {
+      "word": "#亿万个你我汇聚成中国#"
+    }
+  }
+}

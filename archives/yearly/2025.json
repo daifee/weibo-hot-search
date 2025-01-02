@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735860078523,
+  "endTime": 1735860916616,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -491,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 993498,
+      "num": 993498,
+      "word": "上4休3的好处已经显现出来了",
+      "onboard_time": 1735816100,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 991350,
       "num": 297270,
       "word": "轧戏",
@@ -715,6 +723,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 818752,
+      "num": 815164,
+      "word": "男子认亲成功16年后发现亲爹是假的",
+      "onboard_time": 1735844712,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 818078,
       "num": 818078,
       "word": "覃予萱vs王曼昱",
@@ -809,22 +825,6 @@
       "onboard_time": 1735716379,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 754499,
-      "num": 815164,
-      "word": "男子认亲成功16年后发现亲爹是假的",
-      "onboard_time": 1735844712,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 752342,
-      "num": 752342,
-      "word": "上4休3的好处已经显现出来了",
-      "onboard_time": 1735816100,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 744481,
@@ -1515,6 +1515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 428969,
+      "num": 428969,
+      "word": "超市丢千万元托盘让全员每人赔500",
+      "onboard_time": 1735830321,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 426313,
       "num": 426313,
       "word": "迪丽热巴人鱼美杜莎",
@@ -2123,14 +2131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 313318,
-      "num": 347899,
-      "word": "超市丢千万元托盘让全员每人赔500",
-      "onboard_time": 1735830321,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 312365,
       "num": 312365,
       "word": "NINEPERCENT真快给吴宣仪集齐了",
@@ -2257,6 +2257,14 @@
       "onboard_time": 1735738161,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 297123,
+      "num": 346402,
+      "word": "韩国公调处出发执行尹锡悦逮捕令",
+      "onboard_time": 1735859416,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 292173,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735717699,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 274372,
-      "num": 255767,
-      "word": "徐克肖战合体送2025新年祝福",
-      "onboard_time": 1735660527,
-      "rank": 43,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
