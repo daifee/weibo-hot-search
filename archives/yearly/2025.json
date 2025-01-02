@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735802473732,
+  "endTime": 1735803335073,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -155,19 +155,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1812315,
+      "num": 1812315,
+      "word": "杨子崩溃大哭",
+      "onboard_time": 1735798942,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1793831,
       "num": 1793831,
       "word": "跨年收视率",
       "onboard_time": 1735661488,
       "rank": 17,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1751598,
-      "num": 1751598,
-      "word": "杨子崩溃大哭",
-      "onboard_time": 1735798942,
-      "rank": 33,
       "category": "综艺"
     },
     {
@@ -523,6 +523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 853036,
+      "num": 478451,
+      "word": "虞书欣评论张彬彬",
+      "onboard_time": 1735802482,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 844503,
       "num": 844503,
       "word": "何炅 我现在有点惊弓之鸟了",
@@ -628,7 +636,7 @@
     },
     {
       "raw_hot": 768582,
-      "num": 399271,
+      "num": 468369,
       "word": "2元成本一晚进账6523元她的营销很棒",
       "onboard_time": 1735800682,
       "rank": 10,
@@ -1043,6 +1051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 492085,
+      "num": 492085,
+      "word": "当教师不是铁饭碗你还会卷教资吗",
+      "onboard_time": 1735801579,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 485651,
       "num": 1061341,
       "word": "跨年烟花",
@@ -1089,6 +1105,14 @@
       "onboard_time": 1735691898,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 463717,
+      "num": 463717,
+      "word": "什么是抑郁症躯体化",
+      "onboard_time": 1735797861,
+      "rank": 18,
+      "category": "运动健身,艺人"
     },
     {
       "raw_hot": 463033,
@@ -1233,14 +1257,6 @@
       "onboard_time": 1735729462,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 406700,
-      "num": 406700,
-      "word": "什么是抑郁症躯体化",
-      "onboard_time": 1735797861,
-      "rank": 18,
-      "category": "运动健身,艺人"
     },
     {
       "raw_hot": 406189,
@@ -1444,7 +1460,7 @@
     },
     {
       "raw_hot": 355023,
-      "num": 261373,
+      "num": 264922,
       "word": "A股新变化",
       "onboard_time": 1735800199,
       "rank": 42,
@@ -1667,6 +1683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 311472,
+      "num": 311472,
+      "word": "股市",
+      "onboard_time": 1735800140,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 310025,
       "num": 310025,
       "word": "银河酷娱前老板回应",
@@ -1739,14 +1763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 301403,
-      "num": 301403,
-      "word": "股市",
-      "onboard_time": 1735800140,
-      "rank": 44,
-      "category": "财经"
-    },
-    {
       "raw_hot": 301278,
       "num": 301278,
       "word": "深圳大学vs山东鲁能",
@@ -1760,6 +1776,14 @@
       "word": "于朦胧状态",
       "onboard_time": 1735738161,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 296715,
+      "num": 314143,
+      "word": "陈小春古巨基催婚奥斯卡",
+      "onboard_time": 1735802060,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -2260,7 +2284,7 @@
     },
     {
       "raw_hot": 220376,
-      "num": 261642,
+      "num": 309106,
       "word": "2025LPL官宣",
       "onboard_time": 1735801220,
       "rank": 24,
@@ -2377,30 +2401,6 @@
       "onboard_time": 1735659686,
       "rank": 13,
       "category": "体育,综艺"
-    },
-    {
-      "raw_hot": 209332,
-      "num": 209332,
-      "word": "樊振东比耶照",
-      "onboard_time": 1735781358,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 209209,
-      "num": 868034,
-      "word": "让人民过上幸福生活是头等大事",
-      "onboard_time": 1735657467,
-      "rank": 38,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 209101,
-      "num": 209101,
-      "word": "王者时之奇旅系列皮肤上新",
-      "onboard_time": 1735726401,
-      "rank": 26,
-      "category": "游戏"
     }
   ],
   "hotgov_list": [

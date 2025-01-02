@@ -1,0 +1,410 @@
+{
+  "runTime": 1735803335073,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1812315,
+        "num": 1812315,
+        "word": "杨子崩溃大哭",
+        "onboard_time": 1735798942,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 987514,
+        "num": 987514,
+        "word": "苹果官网突然降价",
+        "onboard_time": 1735786459,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 23681,
+        "num": 785837,
+        "word": "足迹2024",
+        "onboard_time": 1735788561,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 724586,
+        "num": 724586,
+        "word": "韩失事客机残骸在调查过程中起火",
+        "onboard_time": 1735796421,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 492085,
+        "num": 492085,
+        "word": "当教师不是铁饭碗你还会卷教资吗",
+        "onboard_time": 1735801579,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 867756,
+        "num": 487688,
+        "word": "男子跨年夜对近9万气球喷射加特林",
+        "onboard_time": 1735794861,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1673388,
+        "num": 484190,
+        "word": "医生解读赵露思病情",
+        "onboard_time": 1735796001,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 853036,
+        "num": 478451,
+        "word": "虞书欣评论张彬彬",
+        "onboard_time": 1735802482,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 511510,
+        "num": 474689,
+        "word": "周涛董卿合照",
+        "onboard_time": 1735797561,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100187,
+        "num": 472137,
+        "word": "银川4.8级地震原因",
+        "onboard_time": 1735802840,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 698518,
+        "num": 468369,
+        "word": "2元成本一晚进账6523元她的营销很棒",
+        "onboard_time": 1735800682,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 463717,
+        "num": 463717,
+        "word": "什么是抑郁症躯体化",
+        "onboard_time": 1735797861,
+        "rank": 11,
+        "category": "运动健身,艺人"
+      },
+      {
+        "raw_hot": 461816,
+        "num": 461816,
+        "word": "许昕再一次维护樊振东",
+        "onboard_time": 1735796483,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 410071,
+        "num": 410071,
+        "word": "拍照时左右脸不对称的人有福了",
+        "onboard_time": 1735792763,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78771,
+        "num": 347853,
+        "word": "自驾博主苏敏回应离婚进展",
+        "onboard_time": 1735800320,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39226,
+        "num": 316236,
+        "word": "肖战倪妮新年短片",
+        "onboard_time": 1735798762,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314480,
+        "num": 314480,
+        "word": "迪丽热巴人鱼美杜莎",
+        "onboard_time": 1735795703,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 296715,
+        "num": 314143,
+        "word": "陈小春古巨基催婚奥斯卡",
+        "onboard_time": 1735802060,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39665,
+        "num": 313608,
+        "word": "律师谈男子地铁早高峰卖座位",
+        "onboard_time": 1735802000,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337416,
+        "num": 313184,
+        "word": "女员工伪造怀孕B超单逃避服刑",
+        "onboard_time": 1735793783,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2297030,
+        "num": 312637,
+        "word": "于正问赵露思我怎么着你了",
+        "onboard_time": 1735784479,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 605058,
+        "num": 312314,
+        "word": "芒果影视台 真干不了退圈不就行",
+        "onboard_time": 1735795942,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358219,
+        "num": 311725,
+        "word": "A股",
+        "onboard_time": 1735783578,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 311472,
+        "num": 311472,
+        "word": "股市",
+        "onboard_time": 1735800140,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 185966,
+        "num": 309106,
+        "word": "2025LPL官宣",
+        "onboard_time": 1735801220,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 307865,
+        "num": 307865,
+        "word": "上2休1再上2好潮",
+        "onboard_time": 1735777638,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264922,
+        "num": 264922,
+        "word": "A股新变化",
+        "onboard_time": 1735800199,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 230243,
+        "num": 248810,
+        "word": "赵丽颖对接确认参加微博之夜",
+        "onboard_time": 1735800562,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166782,
+        "num": 246524,
+        "word": "高铁澡堂子也有搓澡环节",
+        "onboard_time": 1735801642,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147283,
+        "num": 245736,
+        "word": "戴耳机听导航撞倒路人被判赔近30万",
+        "onboard_time": 1735802000,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245401,
+        "num": 245401,
+        "word": "徐以若律师声明",
+        "onboard_time": 1735782440,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236133,
+        "num": 236133,
+        "word": "欧阳妮妮生子",
+        "onboard_time": 1735793783,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208736,
+        "num": 208736,
+        "word": "毛不易 雪琴我那么握因为我是独唱",
+        "onboard_time": 1735796001,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203081,
+        "num": 203081,
+        "word": "十个勤天 春晚",
+        "onboard_time": 1735791686,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195608,
+        "num": 195608,
+        "word": "韩国9名家人遇难的小狗已被收养",
+        "onboard_time": 1735793543,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 195355,
+        "num": 195355,
+        "word": "张颂文",
+        "onboard_time": 1735778299,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160857,
+        "num": 160857,
+        "word": "自驾阿姨苏敏称已转给男方16万",
+        "onboard_time": 1735791686,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148755,
+        "num": 148755,
+        "word": "吴磊daddy是一种感觉",
+        "onboard_time": 1735799060,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148131,
+        "num": 148131,
+        "word": "微博之夜猜阵容",
+        "onboard_time": 1735792104,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145844,
+        "num": 145844,
+        "word": "郭靖宇说肖战的眼神让他印象深刻",
+        "onboard_time": 1735798040,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144746,
+        "num": 144746,
+        "word": "黄圣依说杨子这出戏是拿奖级别",
+        "onboard_time": 1735803081,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137542,
+        "num": 137542,
+        "word": "上海地铁回应男子早高峰有偿占座",
+        "onboard_time": 1735797561,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 135381,
+        "num": 135381,
+        "word": "春晚彩排",
+        "onboard_time": 1735791262,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135357,
+        "num": 135357,
+        "word": "第一次见长发穿裙子的孙颖莎",
+        "onboard_time": 1735786339,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143079,
+        "num": 135096,
+        "word": "肖战倪妮隔窗对视",
+        "onboard_time": 1735790240,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 134013,
+        "num": 134013,
+        "word": "原来滑雪从不考验装备",
+        "onboard_time": 1735801761,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 127459,
+        "num": 127459,
+        "word": "祁煜 看着我",
+        "onboard_time": 1735803140,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126089,
+        "num": 126089,
+        "word": "孙颖莎说东京懵懂巴黎成熟",
+        "onboard_time": 1735801761,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122462,
+        "num": 122462,
+        "word": "黄冠亨 叶舒华",
+        "onboard_time": 1735782858,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100148,
+        "num": 121764,
+        "word": "被国漫开年第一首战歌燃到了",
+        "onboard_time": 1735801881,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025新年贺词#"
+    }
+  }
+}
