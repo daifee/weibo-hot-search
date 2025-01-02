@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735788395359,
+  "endTime": 1735789310895,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -147,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1630212,
+      "num": 1630212,
+      "word": "苹果官网突然降价",
+      "onboard_time": 1735786459,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1626736,
       "num": 1626736,
       "word": "孙颖莎钱天一擦边球争议",
@@ -265,14 +273,6 @@
       "onboard_time": 1735785019,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1273774,
-      "num": 1273774,
-      "word": "苹果官网突然降价",
-      "onboard_time": 1735786459,
-      "rank": 25,
-      "category": "数码"
     },
     {
       "raw_hot": 1237324,
@@ -1227,6 +1227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 359981,
+      "num": 505211,
+      "word": "女子在外打工家里住十几个陌生人",
+      "onboard_time": 1735787061,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 356401,
       "num": 271301,
       "word": "赵本山还是太超前了",
@@ -1307,6 +1315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 335497,
+      "num": 335497,
+      "word": "山西一产科医生涉嫌参与婴儿买卖",
+      "onboard_time": 1735785019,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 335254,
       "num": 335254,
       "word": "薛之谦跨年蹦迪",
@@ -1321,14 +1337,6 @@
       "onboard_time": 1735714339,
       "rank": 24,
       "category": "军事"
-    },
-    {
-      "raw_hot": 332675,
-      "num": 505211,
-      "word": "女子在外打工家里住十几个陌生人",
-      "onboard_time": 1735787061,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 330592,
@@ -1417,14 +1425,6 @@
       "onboard_time": 1735741041,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 312607,
-      "num": 312607,
-      "word": "山西一产科医生涉嫌参与婴儿买卖",
-      "onboard_time": 1735785019,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 312365,
@@ -1635,6 +1635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269792,
+      "num": 513357,
+      "word": "银川105名消防员赶赴震中排查",
+      "onboard_time": 1735787180,
+      "rank": 8,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 269319,
       "num": 269319,
       "word": "邱贻可 相信2025更好",
@@ -1657,14 +1665,6 @@
       "onboard_time": 1735663227,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 262656,
-      "num": 513357,
-      "word": "银川105名消防员赶赴震中排查",
-      "onboard_time": 1735787180,
-      "rank": 8,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 260667,
@@ -1721,6 +1721,14 @@
       "onboard_time": 1735665381,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254913,
+      "num": 254913,
+      "word": "花1万8去俄罗斯玩了一周",
+      "onboard_time": 1735787961,
+      "rank": 33,
+      "category": "旅游"
     },
     {
       "raw_hot": 253824,
@@ -1945,6 +1953,14 @@
       "onboard_time": 1735718899,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219017,
+      "num": 343581,
+      "word": "史上最薄iPhone渲染图来了",
+      "onboard_time": 1735788262,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 217673,
@@ -2363,6 +2379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190850,
+      "num": 341752,
+      "word": "云襄传之将进酒全员剧照首发",
+      "onboard_time": 1735788742,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190590,
       "num": 190590,
       "word": "丁禹兮捡彩带",
@@ -2377,30 +2401,6 @@
       "onboard_time": 1735730840,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 187568,
-      "num": 187568,
-      "word": "TizzyT跨年压轴连唱15首",
-      "onboard_time": 1735719560,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 187162,
-      "num": 209322,
-      "word": "方时赫 生活组",
-      "onboard_time": 1735781539,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 186938,
-      "num": 189991,
-      "word": "易烊千玺小小的我社会意义具象化",
-      "onboard_time": 1735730422,
-      "rank": 30,
-      "category": "电影"
     }
   ],
   "hotgov_list": [
@@ -2412,6 +2412,9 @@
     },
     {
       "word": "#2025年新年贺词#"
+    },
+    {
+      "word": "#习近平说这些问题我一直挂念#"
     }
   ]
 }

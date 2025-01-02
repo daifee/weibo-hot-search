@@ -1,6 +1,6 @@
 {
   "startTime": 1735748807244,
-  "endTime": 1735788395359,
+  "endTime": 1735789310895,
   "band_list": [
     {
       "raw_hot": 10019281,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1630212,
+      "num": 1630212,
+      "word": "苹果官网突然降价",
+      "onboard_time": 1735786459,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1460989,
       "num": 488648,
       "word": "徐以若 于正",
@@ -65,14 +73,6 @@
       "onboard_time": 1735785019,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1273774,
-      "num": 1273774,
-      "word": "苹果官网突然降价",
-      "onboard_time": 1735786459,
-      "rank": 25,
-      "category": "数码"
     },
     {
       "raw_hot": 912714,
@@ -235,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 359981,
+      "num": 505211,
+      "word": "女子在外打工家里住十几个陌生人",
+      "onboard_time": 1735787061,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 337145,
       "num": 337145,
       "word": "阳光型抑郁症到底是什么",
@@ -243,10 +251,10 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 332675,
-      "num": 505211,
-      "word": "女子在外打工家里住十几个陌生人",
-      "onboard_time": 1735787061,
+      "raw_hot": 335497,
+      "num": 335497,
+      "word": "山西一产科医生涉嫌参与婴儿买卖",
+      "onboard_time": 1735785019,
       "rank": 9,
       "category": "民生新闻"
     },
@@ -273,14 +281,6 @@
       "onboard_time": 1735747101,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 312607,
-      "num": 312607,
-      "word": "山西一产科医生涉嫌参与婴儿买卖",
-      "onboard_time": 1735785019,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 303752,
@@ -323,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269792,
+      "num": 513357,
+      "word": "银川105名消防员赶赴震中排查",
+      "onboard_time": 1735787180,
+      "rank": 8,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 267771,
       "num": 267771,
       "word": "Angelababy沙漠神女",
@@ -331,20 +339,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 262656,
-      "num": 513357,
-      "word": "银川105名消防员赶赴震中排查",
-      "onboard_time": 1735787180,
-      "rank": 8,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 260667,
       "num": 260667,
       "word": "雷军晒健身房照片",
       "onboard_time": 1735778240,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 254913,
+      "num": 254913,
+      "word": "花1万8去俄罗斯玩了一周",
+      "onboard_time": 1735787961,
+      "rank": 33,
+      "category": "旅游"
     },
     {
       "raw_hot": 241016,
@@ -401,6 +409,14 @@
       "onboard_time": 1735775178,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 219017,
+      "num": 343581,
+      "word": "史上最薄iPhone渲染图来了",
+      "onboard_time": 1735788262,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 217673,
@@ -483,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190850,
+      "num": 341752,
+      "word": "云襄传之将进酒全员剧照首发",
+      "onboard_time": 1735788742,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188446,
       "num": 188446,
       "word": "赵本山还是太超前了",
@@ -563,20 +587,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 165669,
+      "num": 165669,
+      "word": "南京地铁奶奶奶奶奶还有嗲嗲",
+      "onboard_time": 1735787602,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161583,
       "num": 161583,
       "word": "今天缅怀糖丸爷爷顾方舟",
       "onboard_time": 1735785201,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 155396,
-      "num": 155396,
-      "word": "花1万8去俄罗斯玩了一周",
-      "onboard_time": 1735787961,
-      "rank": 33,
-      "category": "旅游"
     },
     {
       "raw_hot": 153889,
@@ -651,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135261,
+      "num": 266020,
+      "word": "误杀3 染血的佛珠",
+      "onboard_time": 1735788621,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 134766,
       "num": 134766,
       "word": "鸣潮",
@@ -723,14 +755,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 123946,
-      "num": 123946,
-      "word": "南京地铁奶奶奶奶奶还有嗲嗲",
-      "onboard_time": 1735787602,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 122183,
       "num": 192733,
       "word": "A股2025年第一个交易日",
@@ -771,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118168,
+      "num": 118168,
+      "word": "陈哲远 双向奔赴才是爱",
+      "onboard_time": 1735789101,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118078,
       "num": 118078,
       "word": "时代峰峻",
@@ -779,12 +811,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116355,
-      "num": 116355,
-      "word": "史上最薄iPhone渲染图来了",
-      "onboard_time": 1735788262,
-      "rank": 42,
-      "category": "数码"
+      "raw_hot": 117800,
+      "num": 117800,
+      "word": "元旦上4休3体验感如何",
+      "onboard_time": 1735786941,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116740,
+      "num": 116740,
+      "word": "被孙颖莎暖到了",
+      "onboard_time": 1735789040,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 116159,
@@ -804,19 +844,11 @@
     },
     {
       "raw_hot": 114565,
-      "num": 114565,
+      "num": 259537,
       "word": "詹姆斯小儿子加盟亚利桑那大学",
       "onboard_time": 1735785861,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113330,
-      "num": 113330,
-      "word": "元旦上4休3体验感如何",
-      "onboard_time": 1735786941,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111651,
@@ -963,6 +995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86579,
+      "num": 385794,
+      "word": "2025年美联储或最多降息50个基点",
+      "onboard_time": 1735787180,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 85029,
       "num": 85029,
       "word": "黄雅琼宣布退出国家队",
@@ -1001,6 +1041,14 @@
       "onboard_time": 1735750277,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62210,
+      "num": 337817,
+      "word": "银川地震亲历者发声",
+      "onboard_time": 1735788441,
+      "rank": 19,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 60960,
@@ -1067,12 +1115,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 52454,
-      "num": 385794,
-      "word": "2025年美联储或最多降息50个基点",
-      "onboard_time": 1735787180,
-      "rank": 14,
-      "category": "国际时政"
+      "raw_hot": 47201,
+      "num": 254949,
+      "word": "银川地震有住户家吊灯晃动明显",
+      "onboard_time": 1735789220,
+      "rank": 29,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 47183,
@@ -1155,6 +1203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34040,
+      "num": 339049,
+      "word": "周微",
+      "onboard_time": 1735788621,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
       "raw_hot": 32068,
       "num": 54820,
       "word": "这是2025年第一天的中国",
@@ -1235,12 +1291,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 23547,
+      "num": 1027276,
+      "word": "足迹2024",
+      "onboard_time": 1735788561,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21599,
       "num": 65164,
       "word": "云南劫杀案申冤者申诉6年被判无罪",
       "onboard_time": 1735756571,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 20707,
+      "num": 373802,
+      "word": "中国红是中国人的浪漫",
+      "onboard_time": 1735788441,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18462,
@@ -1358,6 +1430,9 @@
   "hotgov_list": [
     {
       "word": "#2025新年贺词#"
+    },
+    {
+      "word": "#习近平说这些问题我一直挂念#"
     }
   ]
 }
