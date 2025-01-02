@@ -1,6 +1,6 @@
 {
   "startTime": 1735748807244,
-  "endTime": 1735813382852,
+  "endTime": 1735814439540,
   "band_list": [
     {
       "raw_hot": 10019281,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1354688,
+      "num": 1354688,
+      "word": "刘强东给老家60岁以上老人发一万元",
+      "onboard_time": 1735811780,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1274107,
       "num": 1020426,
       "word": "15岁女孩以买方身份入院产子卖6万8",
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 1040720,
-      "num": 378647,
+      "num": 422676,
       "word": "2025年不愧是蛇年太冷血了",
       "onboard_time": 1735807461,
       "rank": 11,
@@ -193,14 +201,6 @@
       "onboard_time": 1735780459,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 829931,
-      "num": 1132789,
-      "word": "刘强东给老家60岁以上老人发一万元",
-      "onboard_time": 1735811780,
-      "rank": 0,
-      "category": "互联网"
     },
     {
       "raw_hot": 822120,
@@ -507,12 +507,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 429279,
+      "num": 429279,
+      "word": "宁夏近期存在发生4到5级地震的可能",
+      "onboard_time": 1735812681,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 426313,
       "num": 426313,
       "word": "迪丽热巴人鱼美杜莎",
       "onboard_time": 1735795703,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 414546,
+      "num": 414546,
+      "word": "茅台",
+      "onboard_time": 1735810099,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 411522,
@@ -531,8 +547,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 391749,
-      "num": 391749,
+      "raw_hot": 392656,
+      "num": 428822,
       "word": "Kpop艺人TikTok年涨幅",
       "onboard_time": 1735808780,
       "rank": 17,
@@ -552,14 +568,6 @@
       "word": "上海男子5元卖早高峰地铁座位",
       "onboard_time": 1735785082,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 373384,
-      "num": 373384,
-      "word": "茅台",
-      "onboard_time": 1735810099,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -604,7 +612,7 @@
     },
     {
       "raw_hot": 348355,
-      "num": 388772,
+      "num": 415253,
       "word": "2024kpop男爱豆百度指数排名",
       "onboard_time": 1735807821,
       "rank": 15,
@@ -673,14 +681,6 @@
       "onboard_time": 1735747101,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 314410,
-      "num": 387535,
-      "word": "宁夏近期存在发生4到5级地震的可能",
-      "onboard_time": 1735812681,
-      "rank": 9,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 311472,
@@ -793,6 +793,14 @@
       "onboard_time": 1735778240,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 258701,
+      "num": 426854,
+      "word": "王鸥这拍摄团队在内娱属于TOP级别",
+      "onboard_time": 1735813218,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 253089,
@@ -915,20 +923,20 @@
       "category": "体育,美妆"
     },
     {
+      "raw_hot": 223238,
+      "num": 416312,
+      "word": "李昀锐冰湖重生上班路透",
+      "onboard_time": 1735809320,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223116,
       "num": 223116,
       "word": "全款3万8买了条80平米老房船",
       "onboard_time": 1735775178,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 221791,
-      "num": 360874,
-      "word": "李昀锐冰湖重生上班路透",
-      "onboard_time": 1735809320,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 220376,
@@ -993,6 +1001,14 @@
       "onboard_time": 1735781358,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209026,
+      "num": 339808,
+      "word": "虞书欣澎湃新年第一天破百万",
+      "onboard_time": 1735813460,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 208849,
@@ -1131,6 +1147,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 194519,
+      "num": 194519,
+      "word": "温以凡也暗恋了桑延九年",
+      "onboard_time": 1735814361,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193884,
       "num": 311188,
       "word": "2025第一个工作日开始了",
@@ -1251,7 +1275,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178306,
+      "raw_hot": 179573,
+      "num": 179573,
+      "word": "A股2025首个交易日成交额破万亿",
+      "onboard_time": 1735812920,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 178367,
       "num": 320792,
       "word": "王鹤棣 天选许七安",
       "onboard_time": 1735808060,
@@ -1289,6 +1321,14 @@
       "onboard_time": 1735747939,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174377,
+      "num": 174377,
+      "word": "微博禁言800余个账号",
+      "onboard_time": 1735811600,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 173898,
@@ -1377,14 +1417,6 @@
       "onboard_time": 1735808600,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 167977,
-      "num": 167977,
-      "word": "A股2025首个交易日成交额破万亿",
-      "onboard_time": 1735812920,
-      "rank": 35,
-      "category": "财经"
     },
     {
       "raw_hot": 167525,
@@ -1667,8 +1699,8 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 140679,
-      "num": 140679,
+      "raw_hot": 140798,
+      "num": 140798,
       "word": "樱桃三千年的人气车厘子说超就超",
       "onboard_time": 1735813101,
       "rank": 42,
@@ -1697,14 +1729,6 @@
       "onboard_time": 1735801761,
       "rank": 46,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 136792,
-      "num": 136792,
-      "word": "微博禁言800余个账号",
-      "onboard_time": 1735811600,
-      "rank": 45,
-      "category": "互联网"
     },
     {
       "raw_hot": 135873,
@@ -1779,14 +1803,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 131096,
-      "num": 131096,
-      "word": "王鸥这拍摄团队在内娱属于TOP级别",
-      "onboard_time": 1735813218,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 130904,
       "num": 130904,
       "word": "第1个工作日",
@@ -1824,6 +1840,22 @@
       "word": "说说国乒奥运冠军退出世界排名这件事",
       "onboard_time": 1735799420,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 128307,
+      "num": 128307,
+      "word": "外媒不解黑神话获得杰出剧情奖",
+      "onboard_time": 1735814120,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 128259,
+      "num": 128259,
+      "word": "王曼昱说努力为国乒带来更多荣誉",
+      "onboard_time": 1735814120,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -2171,6 +2203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86810,
+      "num": 418410,
+      "word": "女子为牟利将烟花爆竹搬进居民楼",
+      "onboard_time": 1735812979,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86579,
       "num": 385794,
       "word": "2025年美联储或最多降息50个基点",
@@ -2203,6 +2243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 84065,
+      "num": 315193,
+      "word": "大学生入招聘陷阱上4天班欠5万4",
+      "onboard_time": 1735812738,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82173,
       "num": 333285,
       "word": "欧阳娜娜当小姨了",
@@ -2225,6 +2273,14 @@
       "onboard_time": 1735750336,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81521,
+      "num": 425219,
+      "word": "10岁儿子教科书式拨打120救回妈妈",
+      "onboard_time": 1735813700,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 81212,
@@ -2315,6 +2371,14 @@
       "category": "电竞,艺人"
     },
     {
+      "raw_hot": 59924,
+      "num": 375606,
+      "word": "肖战同款毛衣",
+      "onboard_time": 1735809560,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 59170,
       "num": 83244,
       "word": "王楚钦说以低姿态面对林诗栋",
@@ -2369,22 +2433,6 @@
       "onboard_time": 1735810281,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 53961,
-      "num": 311598,
-      "word": "大学生入招聘陷阱上4天班欠5万4",
-      "onboard_time": 1735812738,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 53338,
-      "num": 375606,
-      "word": "肖战同款毛衣",
-      "onboard_time": 1735809560,
-      "rank": 42,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 52740,
@@ -2507,6 +2555,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 37622,
+      "num": 419777,
+      "word": "研究发现责任心强的人爱存钱",
+      "onboard_time": 1735813820,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37558,
       "num": 75671,
       "word": "因爱重生的肥娟小吃店迎来晚高峰",
@@ -2563,6 +2619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33853,
+      "num": 143996,
+      "word": "幸运咖两只耳朵都听到了",
+      "onboard_time": 1735812320,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 33680,
       "num": 316094,
       "word": "拜登称正调查新年两起恶性事件有无关联",
@@ -2577,6 +2641,14 @@
       "onboard_time": 1735811059,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33143,
+      "num": 361499,
+      "word": "交通局回应邹城公交停运",
+      "onboard_time": 1735813579,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 32068,
@@ -2747,20 +2819,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 18986,
-      "num": 368847,
-      "word": "女子为牟利将烟花爆竹搬进居民楼",
-      "onboard_time": 1735812979,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 18462,
       "num": 26264,
       "word": "High Five 2025",
       "onboard_time": 1735758791,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 18022,
+      "num": 347927,
+      "word": "不讨好的人生应是一场开放麦",
+      "onboard_time": 1735812559,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 17090,
@@ -2779,14 +2851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 15472,
-      "num": 346720,
-      "word": "不讨好的人生应是一场开放麦",
-      "onboard_time": 1735812559,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 15284,
       "num": 26294,
       "word": "王楚钦连续两天状态拉满",
@@ -2803,20 +2867,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 13438,
+      "num": 336610,
+      "word": "孙颖莎成为学姐了",
+      "onboard_time": 1735813820,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 13250,
       "num": 175147,
       "word": "在图书馆被很多王俊凯盯着",
       "onboard_time": 1735809020,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 13112,
-      "num": 137958,
-      "word": "幸运咖两只耳朵都听到了",
-      "onboard_time": 1735812320,
-      "rank": 44,
-      "category": "美食"
     },
     {
       "raw_hot": 13095,
@@ -2900,6 +2964,9 @@
     },
     {
       "word": "#二〇二五年新年贺词#"
+    },
+    {
+      "word": "#习近平的头等大事#"
     }
   ]
 }

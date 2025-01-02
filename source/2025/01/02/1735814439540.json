@@ -1,0 +1,410 @@
+{
+  "runTime": 1735814439540,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1354688,
+        "num": 1354688,
+        "word": "刘强东给老家60岁以上老人发一万元",
+        "onboard_time": 1735811780,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 555833,
+        "num": 555833,
+        "word": "地震局称银川进入地震窗口期",
+        "onboard_time": 1735807941,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 29132,
+        "num": 457390,
+        "word": "2025年奋斗正当时",
+        "onboard_time": 1735811059,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2166143,
+        "num": 444644,
+        "word": "外国网红猫女去世",
+        "onboard_time": 1735810700,
+        "rank": 3,
+        "category": "海外新闻,网红"
+      },
+      {
+        "raw_hot": 985079,
+        "num": 443033,
+        "word": "韩国空难遇难机长哥哥的亲笔信",
+        "onboard_time": 1735808780,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 429779,
+        "num": 429779,
+        "word": "禁止向28家美国实体出口两用物项",
+        "onboard_time": 1735807099,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 429279,
+        "num": 429279,
+        "word": "宁夏近期存在发生4到5级地震的可能",
+        "onboard_time": 1735812681,
+        "rank": 6,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 392656,
+        "num": 428822,
+        "word": "Kpop艺人TikTok年涨幅",
+        "onboard_time": 1735808780,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258701,
+        "num": 426854,
+        "word": "王鸥这拍摄团队在内娱属于TOP级别",
+        "onboard_time": 1735813218,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81521,
+        "num": 425219,
+        "word": "10岁儿子教科书式拨打120救回妈妈",
+        "onboard_time": 1735813700,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1028006,
+        "num": 423677,
+        "word": "虞书欣评论张彬彬",
+        "onboard_time": 1735802482,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 668527,
+        "num": 422676,
+        "word": "2025年不愧是蛇年太冷血了",
+        "onboard_time": 1735807461,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 551156,
+        "num": 421287,
+        "word": "棣欣引力",
+        "onboard_time": 1735805060,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37622,
+        "num": 419777,
+        "word": "研究发现责任心强的人爱存钱",
+        "onboard_time": 1735813820,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86810,
+        "num": 418410,
+        "word": "女子为牟利将烟花爆竹搬进居民楼",
+        "onboard_time": 1735812979,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223238,
+        "num": 416312,
+        "word": "李昀锐冰湖重生上班路透",
+        "onboard_time": 1735809320,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210946,
+        "num": 415253,
+        "word": "2024kpop男爱豆百度指数排名",
+        "onboard_time": 1735807821,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414546,
+        "num": 414546,
+        "word": "茅台",
+        "onboard_time": 1735810099,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362343,
+        "num": 362343,
+        "word": "银川地震",
+        "onboard_time": 1735807941,
+        "rank": 18,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 33143,
+        "num": 361499,
+        "word": "交通局回应邹城公交停运",
+        "onboard_time": 1735813579,
+        "rank": 19,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1560569,
+        "num": 355117,
+        "word": "于正问赵露思我怎么着你了",
+        "onboard_time": 1735784479,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59924,
+        "num": 352603,
+        "word": "肖战同款毛衣",
+        "onboard_time": 1735809560,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 18022,
+        "num": 347927,
+        "word": "不讨好的人生应是一场开放麦",
+        "onboard_time": 1735812559,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209026,
+        "num": 339808,
+        "word": "虞书欣澎湃新年第一天破百万",
+        "onboard_time": 1735813460,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13438,
+        "num": 336610,
+        "word": "孙颖莎成为学姐了",
+        "onboard_time": 1735813820,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43880,
+        "num": 330376,
+        "word": "新年贺词里的你我",
+        "onboard_time": 1735811361,
+        "rank": 25,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 437990,
+        "num": 325750,
+        "word": "杨子崩溃大哭",
+        "onboard_time": 1735798942,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 771831,
+        "num": 324599,
+        "word": "医生解读赵露思病情",
+        "onboard_time": 1735796001,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187308,
+        "num": 319423,
+        "word": "黄圣依说杨子这出戏是拿奖级别",
+        "onboard_time": 1735803081,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84065,
+        "num": 315193,
+        "word": "大学生入招聘陷阱上4天班欠5万4",
+        "onboard_time": 1735812738,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311500,
+        "num": 311500,
+        "word": "公摊面积最大的水果",
+        "onboard_time": 1735803919,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 254197,
+        "num": 254197,
+        "word": "苹果官网突然降价",
+        "onboard_time": 1735786459,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 178367,
+        "num": 243937,
+        "word": "王鹤棣 天选许七安",
+        "onboard_time": 1735808060,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241533,
+        "num": 241533,
+        "word": "福建123岁最长寿老人去世",
+        "onboard_time": 1735806019,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235620,
+        "num": 235620,
+        "word": "23岁男子称遭30岁女房东骚扰",
+        "onboard_time": 1735804400,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212834,
+        "num": 212834,
+        "word": "孙铭阳孙颖莎合照",
+        "onboard_time": 1735808900,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194519,
+        "num": 194519,
+        "word": "温以凡也暗恋了桑延九年",
+        "onboard_time": 1735814361,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179573,
+        "num": 179573,
+        "word": "A股2025首个交易日成交额破万亿",
+        "onboard_time": 1735812920,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 174377,
+        "num": 174377,
+        "word": "微博禁言800余个账号",
+        "onboard_time": 1735811600,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 159671,
+        "num": 159671,
+        "word": "2元成本一晚进账6523元她的营销很棒",
+        "onboard_time": 1735800682,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151975,
+        "num": 151975,
+        "word": "迪丽热巴人鱼美杜莎",
+        "onboard_time": 1735795703,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 145885,
+        "num": 145885,
+        "word": "当教师不是铁饭碗你还会卷教资吗",
+        "onboard_time": 1735801579,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33853,
+        "num": 143996,
+        "word": "幸运咖两只耳朵都听到了",
+        "onboard_time": 1735812320,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 142939,
+        "num": 142939,
+        "word": "湖南一女游客玩滑翔伞疑掉进水帘洞",
+        "onboard_time": 1735805118,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140798,
+        "num": 140798,
+        "word": "樱桃三千年的人气车厘子说超就超",
+        "onboard_time": 1735813101,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 139032,
+        "num": 139032,
+        "word": "19.9元的电影票回来了",
+        "onboard_time": 1735810099,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131942,
+        "num": 131942,
+        "word": "银川地震当地震感强烈",
+        "onboard_time": 1735796242,
+        "rank": 46,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 135459,
+        "num": 131729,
+        "word": "刘亦菲芭莎一月刊",
+        "onboard_time": 1735810760,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 128307,
+        "num": 128307,
+        "word": "外媒不解黑神话获得杰出剧情奖",
+        "onboard_time": 1735814120,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128259,
+        "num": 128259,
+        "word": "王曼昱说努力为国乒带来更多荣誉",
+        "onboard_time": 1735814120,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的头等大事#"
+    }
+  }
+}
