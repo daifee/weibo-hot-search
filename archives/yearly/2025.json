@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735817741682,
+  "endTime": 1735821730748,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 3865281,
-      "num": 282634,
+      "num": 2602586,
       "word": "于正刚和赵露思聊了一小时",
       "onboard_time": 1735814900,
       "rank": 10,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 2227116,
-      "num": 605579,
+      "num": 662921,
       "word": "外国网红猫女去世",
       "onboard_time": 1735810700,
       "rank": 3,
@@ -555,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 883945,
+      "num": 665953,
+      "word": "理发师晓华爆改外国人",
+      "onboard_time": 1735816639,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 879247,
       "num": 879247,
       "word": "鞠婧祎 行走的CD",
@@ -577,6 +585,14 @@
       "onboard_time": 1735713558,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 867289,
+      "num": 661899,
+      "word": "疑似李行亮没下车",
+      "onboard_time": 1735818683,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 844503,
@@ -625,6 +641,14 @@
       "onboard_time": 1735796421,
       "rank": 6,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 818911,
+      "num": 649304,
+      "word": "感觉王鹤棣下一秒就要哭了",
+      "onboard_time": 1735818620,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 818078,
@@ -739,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 720062,
+      "num": 720062,
+      "word": "父子相认17年结果生父变养父",
+      "onboard_time": 1735819702,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 719009,
       "num": 537320,
       "word": "肖战倪妮隔窗对视",
@@ -817,6 +849,14 @@
       "onboard_time": 1735691477,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 664109,
+      "num": 664109,
+      "word": "上海地铁",
+      "onboard_time": 1735819161,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 663317,
@@ -913,6 +953,14 @@
       "onboard_time": 1735662445,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 625119,
+      "num": 531396,
+      "word": "谁家电视剧第一集就亲啊",
+      "onboard_time": 1735817059,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 620993,
@@ -1019,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 575841,
+      "num": 282486,
+      "word": "上4休3的好处已经显现出来了",
+      "onboard_time": 1735816100,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 574205,
       "num": 574205,
       "word": "张继科关注王曼昱",
@@ -1064,6 +1120,14 @@
       "word": "杨幂李一桐嘟嘴合照",
       "onboard_time": 1735707380,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 523330,
+      "num": 523330,
+      "word": "小怡同学 庞博文",
+      "onboard_time": 1735818620,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -1169,6 +1233,14 @@
       "onboard_time": 1735662088,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 481989,
+      "num": 481989,
+      "word": "国色芳华白月梵星 对打",
+      "onboard_time": 1735819161,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 475731,
@@ -1395,14 +1467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 408527,
-      "num": 408527,
-      "word": "理发师晓华爆改外国人",
-      "onboard_time": 1735816639,
-      "rank": 34,
-      "category": "网红"
-    },
-    {
       "raw_hot": 406189,
       "num": 533971,
       "word": "王楚钦2025第1天夺冠",
@@ -1425,6 +1489,14 @@
       "onboard_time": 1735711099,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 400256,
+      "num": 400256,
+      "word": "做腊肉引发火灾上千斤全部报废",
+      "onboard_time": 1735814779,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 397838,
@@ -1457,14 +1529,6 @@
       "onboard_time": 1735667418,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 390690,
-      "num": 282486,
-      "word": "上4休3的好处已经显现出来了",
-      "onboard_time": 1735816100,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 389785,
@@ -1536,14 +1600,6 @@
       "word": "网购车厘子一整盒仅6颗大小达标",
       "onboard_time": 1735703540,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 375524,
-      "num": 375524,
-      "word": "做腊肉引发火灾上千斤全部报废",
-      "onboard_time": 1735814779,
-      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -1979,6 +2035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 300734,
+      "num": 254658,
+      "word": "黄子韬ins换头像了",
+      "onboard_time": 1735818141,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 297704,
       "num": 281030,
       "word": "于朦胧状态",
@@ -2219,6 +2283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254418,
+      "num": 254418,
+      "word": "2025待爆",
+      "onboard_time": 1735821560,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 253824,
       "num": 253824,
       "word": "纽约男子在地铁进站瞬间被推下站台",
@@ -2329,78 +2401,6 @@
       "onboard_time": 1735667000,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 243469,
-      "num": 243469,
-      "word": "名侦探柯南",
-      "onboard_time": 1735665441,
-      "rank": 39,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 242252,
-      "num": 264466,
-      "word": "微博禁言800余个账号",
-      "onboard_time": 1735811600,
-      "rank": 45,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 242065,
-      "num": 242065,
-      "word": "2025",
-      "onboard_time": 1735663525,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 241854,
-      "num": 222328,
-      "word": "孙策时之奇旅皮肤",
-      "onboard_time": 1735726401,
-      "rank": 22,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 241806,
-      "num": 241806,
-      "word": "抑郁症患者会无意识做哪些事",
-      "onboard_time": 1735791262,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 240883,
-      "num": 240883,
-      "word": "A股振幅加大原因",
-      "onboard_time": 1735804579,
-      "rank": 26,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 237500,
-      "num": 384566,
-      "word": "BLACKPINK5月完整体回归",
-      "onboard_time": 1735785019,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 235273,
-      "num": 235273,
-      "word": "周也翟潇闻吻戏路透",
-      "onboard_time": 1735743202,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 230697,
-      "num": 230697,
-      "word": "东部战区发布MV中国人",
-      "onboard_time": 1735698081,
-      "rank": 25,
-      "category": "军事"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1735748807244,
-  "endTime": 1735817741682,
+  "endTime": 1735821730748,
   "band_list": [
     {
       "raw_hot": 10019281,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3865281,
-      "num": 282634,
+      "num": 2602586,
       "word": "于正刚和赵露思聊了一小时",
       "onboard_time": 1735814900,
       "rank": 10,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2227116,
-      "num": 605579,
+      "num": 662921,
       "word": "外国网红猫女去世",
       "onboard_time": 1735810700,
       "rank": 3,
@@ -203,6 +203,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 883945,
+      "num": 665953,
+      "word": "理发师晓华爆改外国人",
+      "onboard_time": 1735816639,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 867289,
+      "num": 661899,
+      "word": "疑似李行亮没下车",
+      "onboard_time": 1735818683,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 843634,
       "num": 843634,
       "word": "赵露思看余华的我胆小如鼠",
@@ -227,6 +243,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 818911,
+      "num": 649304,
+      "word": "感觉王鹤棣下一秒就要哭了",
+      "onboard_time": 1735818620,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 816428,
       "num": 460903,
       "word": "张颂文",
@@ -248,6 +272,14 @@
       "word": "2元成本一晚进账6523元她的营销很棒",
       "onboard_time": 1735800682,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 720062,
+      "num": 720062,
+      "word": "父子相认17年结果生父变养父",
+      "onboard_time": 1735819702,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -299,6 +331,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 664109,
+      "num": 664109,
+      "word": "上海地铁",
+      "onboard_time": 1735819161,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 657885,
       "num": 547152,
       "word": "十个勤天 春晚",
@@ -345,6 +385,14 @@
       "onboard_time": 1735773735,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 625119,
+      "num": 531396,
+      "word": "谁家电视剧第一集就亲啊",
+      "onboard_time": 1735817059,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 620993,
@@ -419,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 575841,
+      "num": 282486,
+      "word": "上4休3的好处已经显现出来了",
+      "onboard_time": 1735816100,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 571508,
       "num": 338487,
       "word": "张峻豪正式出道",
@@ -432,6 +488,14 @@
       "word": "姜涛 又要被人骂了",
       "onboard_time": 1735778780,
       "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 523330,
+      "num": 523330,
+      "word": "小怡同学 庞博文",
+      "onboard_time": 1735818620,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -465,6 +529,14 @@
       "onboard_time": 1735815200,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 481989,
+      "num": 481989,
+      "word": "国色芳华白月梵星 对打",
+      "onboard_time": 1735819161,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 463717,
@@ -563,12 +635,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 408527,
-      "num": 408527,
-      "word": "理发师晓华爆改外国人",
-      "onboard_time": 1735816639,
-      "rank": 34,
-      "category": "网红"
+      "raw_hot": 400256,
+      "num": 400256,
+      "word": "做腊肉引发火灾上千斤全部报废",
+      "onboard_time": 1735814779,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 397838,
@@ -587,14 +659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 390690,
-      "num": 282486,
-      "word": "上4休3的好处已经显现出来了",
-      "onboard_time": 1735816100,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 389785,
       "num": 247671,
       "word": "金星到底有多恐怖",
@@ -608,14 +672,6 @@
       "word": "上海男子5元卖早高峰地铁座位",
       "onboard_time": 1735785082,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 375524,
-      "num": 375524,
-      "word": "做腊肉引发火灾上千斤全部报废",
-      "onboard_time": 1735814779,
-      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -771,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 300734,
+      "num": 254658,
+      "word": "黄子韬ins换头像了",
+      "onboard_time": 1735818141,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 292173,
       "num": 292173,
       "word": "黄冠亨 交朋友",
@@ -849,6 +913,14 @@
       "onboard_time": 1735778240,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 254418,
+      "num": 254418,
+      "word": "2025待爆",
+      "onboard_time": 1735821560,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 253089,
@@ -1115,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204683,
+      "num": 204683,
+      "word": "能存得住钱的人都有一个共同点",
+      "onboard_time": 1735818260,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 204084,
       "num": 241922,
       "word": "孟子义李昀锐都参加微博之夜",
@@ -1203,6 +1283,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 197152,
+      "num": 197152,
+      "word": "19岁少女网贷9万买笑气",
+      "onboard_time": 1735820780,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193884,
       "num": 311188,
       "word": "2025第一个工作日开始了",
@@ -1227,20 +1315,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191796,
+      "num": 277166,
+      "word": "大奉打更人",
+      "onboard_time": 1735795100,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190932,
       "num": 472137,
       "word": "银川4.8级地震原因",
       "onboard_time": 1735802840,
       "rank": 9,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 190902,
-      "num": 282576,
-      "word": "谁家电视剧第一集就亲啊",
-      "onboard_time": 1735817059,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 190850,
@@ -1379,6 +1467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174339,
+      "num": 174339,
+      "word": "所有北方人最近警惕这种小生命",
+      "onboard_time": 1735820721,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173898,
       "num": 173898,
       "word": "张踩铃让黄子弘凡夸杨子",
@@ -1457,6 +1553,14 @@
       "onboard_time": 1735803919,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 168484,
+      "num": 168484,
+      "word": "原神",
+      "onboard_time": 1735821320,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 168281,
@@ -1603,6 +1707,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 155639,
+      "num": 155639,
+      "word": "李昀锐进组",
+      "onboard_time": 1735821560,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154315,
       "num": 154315,
       "word": "世界之外",
@@ -1667,12 +1779,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149195,
+      "num": 149195,
+      "word": "商务部2025年第1号公告",
+      "onboard_time": 1735819101,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 149078,
       "num": 212775,
       "word": "19.9元的电影票回来了",
       "onboard_time": 1735810099,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 148847,
+      "num": 148847,
+      "word": "国色芳华预约量破500万",
+      "onboard_time": 1735821141,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 147408,
@@ -1689,6 +1817,14 @@
       "onboard_time": 1735802000,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146991,
+      "num": 146991,
+      "word": "王勉 这是我能参观的吗",
+      "onboard_time": 1735818501,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 146117,
@@ -1713,6 +1849,14 @@
       "onboard_time": 1735795942,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 144074,
+      "num": 144074,
+      "word": "归棹",
+      "onboard_time": 1735819101,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 143588,
@@ -1873,14 +2017,6 @@
       "onboard_time": 1735799121,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 132805,
-      "num": 277166,
-      "word": "大奉打更人",
-      "onboard_time": 1735795100,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 132513,
@@ -2203,6 +2339,14 @@
       "category": "健康医疗,艺人"
     },
     {
+      "raw_hot": 99698,
+      "num": 254976,
+      "word": "两艘万吨大驱新年度起航开训",
+      "onboard_time": 1735819761,
+      "rank": 23,
+      "category": "军事"
+    },
+    {
       "raw_hot": 98889,
       "num": 211888,
       "word": "第一次看见孙颖莎的反应",
@@ -2467,6 +2611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64519,
+      "num": 402939,
+      "word": "东北三省文旅卷疯了",
+      "onboard_time": 1735820899,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63847,
       "num": 206052,
       "word": "千朵桃花热辣滚炕",
@@ -2497,6 +2649,14 @@
       "onboard_time": 1735788441,
       "rank": 19,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 61685,
+      "num": 255656,
+      "word": "当事人回应做腊肉引发火灾",
+      "onboard_time": 1735818440,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60960,
@@ -2603,6 +2763,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 50238,
+      "num": 204907,
+      "word": "倒卖婴儿举报人上官正义发声",
+      "onboard_time": 1735819761,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47340,
       "num": 282549,
       "word": "段奕宏是张sir还是张涩",
@@ -2657,6 +2825,14 @@
       "onboard_time": 1735689617,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 43649,
+      "num": 205264,
+      "word": "周昊东向国家队提交离队报告",
+      "onboard_time": 1735821320,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 43080,
@@ -2780,7 +2956,7 @@
     },
     {
       "raw_hot": 33294,
-      "num": 610909,
+      "num": 667229,
       "word": "2025年奋斗正当时",
       "onboard_time": 1735811059,
       "rank": 2,
@@ -2963,12 +3139,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 20811,
+      "num": 155856,
+      "word": "王俊凯幸运buff",
+      "onboard_time": 1735819520,
+      "rank": 43,
+      "category": "艺人,美食"
+    },
+    {
       "raw_hot": 20707,
       "num": 373802,
       "word": "中国红是中国人的浪漫",
       "onboard_time": 1735788441,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19877,
+      "num": 163121,
+      "word": "哈尔滨 属于北方人的浪漫",
+      "onboard_time": 1735821621,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 19368,
@@ -2985,6 +3177,14 @@
       "onboard_time": 1735812020,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19122,
+      "num": 255958,
+      "word": "社会提倡的是在地铁让座而非卖座",
+      "onboard_time": 1735821020,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18934,
