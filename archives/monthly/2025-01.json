@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735821730748,
+  "endTime": 1735822666909,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 2227116,
-      "num": 662921,
+      "num": 676773,
       "word": "外国网红猫女去世",
       "onboard_time": 1735810700,
       "rank": 3,
@@ -459,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 987481,
+      "num": 742300,
+      "word": "疑似李行亮没下车",
+      "onboard_time": 1735818683,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 986055,
       "num": 986055,
       "word": "李宇春连续20年零点压轴",
@@ -497,6 +505,14 @@
       "onboard_time": 1735733721,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 955891,
+      "num": 649304,
+      "word": "感觉王鹤棣下一秒就要哭了",
+      "onboard_time": 1735818620,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 931934,
@@ -555,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 887594,
+      "num": 887594,
+      "word": "父子相认17年结果生父变养父",
+      "onboard_time": 1735819702,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 883945,
       "num": 665953,
       "word": "理发师晓华爆改外国人",
@@ -585,14 +609,6 @@
       "onboard_time": 1735713558,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 867289,
-      "num": 661899,
-      "word": "疑似李行亮没下车",
-      "onboard_time": 1735818683,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 844503,
@@ -641,14 +657,6 @@
       "onboard_time": 1735796421,
       "rank": 6,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 818911,
-      "num": 649304,
-      "word": "感觉王鹤棣下一秒就要哭了",
-      "onboard_time": 1735818620,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 818078,
@@ -761,14 +769,6 @@
       "onboard_time": 1735662445,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 720062,
-      "num": 720062,
-      "word": "父子相认17年结果生父变养父",
-      "onboard_time": 1735819702,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 719009,
@@ -1083,6 +1083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 566784,
+      "num": 523330,
+      "word": "小怡同学 庞博文",
+      "onboard_time": 1735818620,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 556242,
       "num": 556242,
       "word": "杨幂情商",
@@ -1120,14 +1128,6 @@
       "word": "杨幂李一桐嘟嘴合照",
       "onboard_time": 1735707380,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 523330,
-      "num": 523330,
-      "word": "小怡同学 庞博文",
-      "onboard_time": 1735818620,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -1387,6 +1387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 426581,
+      "num": 426581,
+      "word": "19岁少女网贷9万买笑气",
+      "onboard_time": 1735820780,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 426313,
       "num": 426313,
       "word": "迪丽热巴人鱼美杜莎",
@@ -1545,6 +1553,14 @@
       "onboard_time": 1735696999,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 388267,
+      "num": 254418,
+      "word": "2025待爆",
+      "onboard_time": 1735821560,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 386314,
@@ -2283,14 +2299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 254418,
-      "num": 254418,
-      "word": "2025待爆",
-      "onboard_time": 1735821560,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 253824,
       "num": 253824,
       "word": "纽约男子在地铁进站瞬间被推下站台",
@@ -2505,6 +2513,14 @@
       "onboard_time": 1735788621,
       "rank": 18,
       "category": "网红"
+    },
+    {
+      "raw_hot": 225238,
+      "num": 225238,
+      "word": "能存得住钱的人都有一个共同点",
+      "onboard_time": 1735818260,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 225099,
@@ -2843,14 +2859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204683,
-      "num": 204683,
-      "word": "能存得住钱的人都有一个共同点",
-      "onboard_time": 1735818260,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 204671,
       "num": 204671,
       "word": "张艺兴工作室新年长文",
@@ -2995,12 +3003,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199096,
+      "num": 199096,
+      "word": "黄圣依这段突然燃起来了",
+      "onboard_time": 1735822040,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198629,
       "num": 198629,
       "word": "新年音乐会 特权码",
       "onboard_time": 1735713138,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 198174,
+      "num": 198174,
+      "word": "所有北方人最近警惕这种小生命",
+      "onboard_time": 1735820721,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 197532,
@@ -3027,12 +3051,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197152,
-      "num": 197152,
-      "word": "19岁少女网贷9万买笑气",
-      "onboard_time": 1735820780,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 196947,
+      "num": 196947,
+      "word": "李昀锐进组",
+      "onboard_time": 1735821560,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 196902,
@@ -3235,6 +3259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188364,
+      "num": 417273,
+      "word": "东北三省文旅卷疯了",
+      "onboard_time": 1735820899,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188129,
       "num": 188129,
       "word": "IVL",
@@ -3321,6 +3353,14 @@
       "onboard_time": 1735711823,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185438,
+      "num": 185438,
+      "word": "霸王茶姬毛绒杯",
+      "onboard_time": 1735822219,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 183916,
@@ -3507,14 +3547,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 174339,
-      "num": 174339,
-      "word": "所有北方人最近警惕这种小生命",
-      "onboard_time": 1735820721,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 174139,
       "num": 174139,
       "word": "黄雅琼感谢刘雨辰",
@@ -3553,6 +3585,14 @@
       "onboard_time": 1735724959,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 173474,
+      "num": 173474,
+      "word": "微博年度喜爱综艺",
+      "onboard_time": 1735822281,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 173413,
@@ -3715,6 +3755,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 168801,
+      "num": 168801,
+      "word": "村民称刘强东发钱不是应该的",
+      "onboard_time": 1735821261,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 168735,
       "num": 168735,
       "word": "潘展乐孙颖莎给你发晚安短信",
@@ -3771,12 +3819,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 166980,
+      "num": 166980,
+      "word": "杨紫说出了我的心声",
+      "onboard_time": 1735822521,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166934,
       "num": 166934,
       "word": "丁禹兮2024年度总结",
       "onboard_time": 1735738344,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166860,
+      "num": 166860,
+      "word": "完美世界仙古擂台篇开播",
+      "onboard_time": 1735822460,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 166782,
@@ -4067,14 +4131,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 155639,
-      "num": 155639,
-      "word": "李昀锐进组",
-      "onboard_time": 1735821560,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 155346,
       "num": 155346,
       "word": "存量房公积金贷款利率明起正式下调",
@@ -4153,6 +4209,14 @@
       "onboard_time": 1735727301,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151360,
+      "num": 151360,
+      "word": "王勉 这是我能参观的吗",
+      "onboard_time": 1735818501,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 151164,
@@ -4297,14 +4361,6 @@
       "onboard_time": 1735802000,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 146991,
-      "num": 146991,
-      "word": "王勉 这是我能参观的吗",
-      "onboard_time": 1735818501,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 146911,
@@ -4593,6 +4649,14 @@
       "onboard_time": 1735745540,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136711,
+      "num": 136711,
+      "word": "世界之外周年庆典",
+      "onboard_time": 1735821981,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 136493,
@@ -5363,6 +5427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108997,
+      "num": 254976,
+      "word": "两艘万吨大驱新年度起航开训",
+      "onboard_time": 1735819761,
+      "rank": 23,
+      "category": "军事"
+    },
+    {
       "raw_hot": 108920,
       "num": 260212,
       "word": "被国漫开年第一首战歌燃到了",
@@ -5481,14 +5553,6 @@
       "onboard_time": 1735742483,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99698,
-      "num": 254976,
-      "word": "两艘万吨大驱新年度起航开训",
-      "onboard_time": 1735819761,
-      "rank": 23,
-      "category": "军事"
     },
     {
       "raw_hot": 99217,
@@ -5881,14 +5945,6 @@
       "onboard_time": 1735644560,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 64519,
-      "num": 402939,
-      "word": "东北三省文旅卷疯了",
-      "onboard_time": 1735820899,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 63847,
@@ -6444,7 +6500,7 @@
     },
     {
       "raw_hot": 33294,
-      "num": 667229,
+      "num": 759280,
       "word": "2025年奋斗正当时",
       "onboard_time": 1735811059,
       "rank": 2,
@@ -6595,6 +6651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28036,
+      "num": 167634,
+      "word": "哈尔滨 属于北方人的浪漫",
+      "onboard_time": 1735821621,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 27980,
       "num": 254142,
       "word": "2025年原生鸿蒙将迎来爆发式增长",
@@ -6659,6 +6723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25478,
+      "num": 255958,
+      "word": "社会提倡的是在地铁让座而非卖座",
+      "onboard_time": 1735821020,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25289,
       "num": 204965,
       "word": "一图回顾2024年A股大事记",
@@ -6697,6 +6769,14 @@
       "onboard_time": 1735799841,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 22376,
+      "num": 210254,
+      "word": "起底美国汽车撞人事件嫌疑人",
+      "onboard_time": 1735822400,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 22251,
@@ -6771,14 +6851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 19877,
-      "num": 163121,
-      "word": "哈尔滨 属于北方人的浪漫",
-      "onboard_time": 1735821621,
-      "rank": 39,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 19482,
       "num": 484771,
       "word": "新年贺词这些话暖人心",
@@ -6801,14 +6873,6 @@
       "onboard_time": 1735812020,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 19122,
-      "num": 255958,
-      "word": "社会提倡的是在地铁让座而非卖座",
-      "onboard_time": 1735821020,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18934,

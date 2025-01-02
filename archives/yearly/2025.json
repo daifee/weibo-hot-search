@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735821730748,
+  "endTime": 1735822666909,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 2227116,
-      "num": 662921,
+      "num": 676773,
       "word": "外国网红猫女去世",
       "onboard_time": 1735810700,
       "rank": 3,
@@ -459,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 987481,
+      "num": 742300,
+      "word": "疑似李行亮没下车",
+      "onboard_time": 1735818683,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 986055,
       "num": 986055,
       "word": "李宇春连续20年零点压轴",
@@ -497,6 +505,14 @@
       "onboard_time": 1735733721,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 955891,
+      "num": 649304,
+      "word": "感觉王鹤棣下一秒就要哭了",
+      "onboard_time": 1735818620,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 931934,
@@ -555,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 887594,
+      "num": 887594,
+      "word": "父子相认17年结果生父变养父",
+      "onboard_time": 1735819702,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 883945,
       "num": 665953,
       "word": "理发师晓华爆改外国人",
@@ -585,14 +609,6 @@
       "onboard_time": 1735713558,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 867289,
-      "num": 661899,
-      "word": "疑似李行亮没下车",
-      "onboard_time": 1735818683,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 844503,
@@ -641,14 +657,6 @@
       "onboard_time": 1735796421,
       "rank": 6,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 818911,
-      "num": 649304,
-      "word": "感觉王鹤棣下一秒就要哭了",
-      "onboard_time": 1735818620,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 818078,
@@ -761,14 +769,6 @@
       "onboard_time": 1735662445,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 720062,
-      "num": 720062,
-      "word": "父子相认17年结果生父变养父",
-      "onboard_time": 1735819702,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 719009,
@@ -1083,6 +1083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 566784,
+      "num": 523330,
+      "word": "小怡同学 庞博文",
+      "onboard_time": 1735818620,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 556242,
       "num": 556242,
       "word": "杨幂情商",
@@ -1120,14 +1128,6 @@
       "word": "杨幂李一桐嘟嘴合照",
       "onboard_time": 1735707380,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 523330,
-      "num": 523330,
-      "word": "小怡同学 庞博文",
-      "onboard_time": 1735818620,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -1387,6 +1387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 426581,
+      "num": 426581,
+      "word": "19岁少女网贷9万买笑气",
+      "onboard_time": 1735820780,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 426313,
       "num": 426313,
       "word": "迪丽热巴人鱼美杜莎",
@@ -1545,6 +1553,14 @@
       "onboard_time": 1735696999,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 388267,
+      "num": 254418,
+      "word": "2025待爆",
+      "onboard_time": 1735821560,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 386314,
@@ -2283,14 +2299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 254418,
-      "num": 254418,
-      "word": "2025待爆",
-      "onboard_time": 1735821560,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 253824,
       "num": 253824,
       "word": "纽约男子在地铁进站瞬间被推下站台",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735724959,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 244269,
-      "num": 244269,
-      "word": "赵丽颖 想什么呢一起往前走啊",
-      "onboard_time": 1735667000,
-      "rank": 27,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
