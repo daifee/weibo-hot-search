@@ -1,6 +1,6 @@
 {
   "startTime": 1735835273269,
-  "endTime": 1735882726951,
+  "endTime": 1735885863270,
   "band_list": [
     {
       "raw_hot": 2979441,
@@ -51,12 +51,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1126166,
+      "num": 1180186,
+      "word": "偏我来时不逢丁",
+      "onboard_time": 1735880121,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1058621,
       "num": 229981,
       "word": "于正刚和赵露思聊了一小时",
       "onboard_time": 1735814900,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1044221,
+      "num": 409589,
+      "word": "防漏姨妈内裤居然里面加一层塑料膜",
+      "onboard_time": 1735884740,
+      "rank": 11,
+      "category": "科学科普"
     },
     {
       "raw_hot": 951115,
@@ -107,6 +123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 740887,
+      "num": 403887,
+      "word": "张一山瘦了好多",
+      "onboard_time": 1735883180,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 705846,
       "num": 705846,
       "word": "广西车厘子10元2盒是真的",
@@ -129,14 +153,6 @@
       "onboard_time": 1735875560,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 641973,
-      "num": 641973,
-      "word": "偏我来时不逢丁",
-      "onboard_time": 1735880121,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 600762,
@@ -179,12 +195,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 551681,
+      "num": 551681,
+      "word": "刘强东曾收村民500元76个茶叶蛋",
+      "onboard_time": 1735882221,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 531762,
       "num": 531762,
       "word": "留几手问葛夕能再要个孩子吗",
       "onboard_time": 1735827501,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 524759,
+      "num": 524759,
+      "word": "上海队为樊振东做奥运保障工作",
+      "onboard_time": 1735882038,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 506652,
@@ -275,12 +307,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 471462,
+      "num": 388883,
+      "word": "德国电价跌至0以下",
+      "onboard_time": 1735884260,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 442488,
       "num": 442488,
       "word": "现在拨打的电话",
       "onboard_time": 1735869979,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 436378,
+      "num": 436378,
+      "word": "李行亮 哄是一种扬汤止沸的行为",
+      "onboard_time": 1735883359,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 432791,
@@ -297,6 +345,14 @@
       "onboard_time": 1735830321,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 427080,
+      "num": 427080,
+      "word": "韩国公调处停止执行尹锡悦逮捕令",
+      "onboard_time": 1735879521,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 420165,
@@ -329,14 +385,6 @@
       "onboard_time": 1735875080,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 381639,
-      "num": 381639,
-      "word": "韩国公调处停止执行尹锡悦逮捕令",
-      "onboard_time": 1735879521,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 377742,
@@ -377,6 +425,14 @@
       "onboard_time": 1735871299,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 359551,
+      "num": 280517,
+      "word": "控糖60天的面部变化",
+      "onboard_time": 1735881320,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 355119,
@@ -451,6 +507,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 313307,
+      "num": 313307,
+      "word": "广东一老人买药材煲汤中毒身亡",
+      "onboard_time": 1735882221,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 311950,
       "num": 311950,
       "word": "外国网红猫女去世",
@@ -505,22 +569,6 @@
       "onboard_time": 1735868118,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 274912,
-      "num": 274912,
-      "word": "上海队为樊振东做奥运保障工作",
-      "onboard_time": 1735882038,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 270698,
-      "num": 270698,
-      "word": "控糖60天的面部变化",
-      "onboard_time": 1735881320,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 268390,
@@ -611,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234829,
+      "num": 333215,
+      "word": "内娱明星的工作量统一按G算",
+      "onboard_time": 1735883059,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233805,
       "num": 233805,
       "word": "终于知道焯水该用热水还是凉水了",
@@ -625,6 +681,14 @@
       "onboard_time": 1735861997,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 231768,
+      "num": 231768,
+      "word": "湖人战胜开拓者",
+      "onboard_time": 1735884919,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 231496,
@@ -675,6 +739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 216547,
+      "num": 216547,
+      "word": "上海258元一份的蛋炒饭",
+      "onboard_time": 1735880601,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 215795,
       "num": 215795,
       "word": "韩国空难遇难者有一名泰籍华人",
@@ -699,12 +771,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206046,
-      "num": 206046,
-      "word": "上海258元一份的蛋炒饭",
-      "onboard_time": 1735880601,
-      "rank": 36,
-      "category": "美食"
+      "raw_hot": 207659,
+      "num": 239081,
+      "word": "甄嬛传晚会直播8小时",
+      "onboard_time": 1735885160,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 202615,
@@ -729,6 +801,14 @@
       "onboard_time": 1735878982,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 200687,
+      "num": 276786,
+      "word": "田亮我相信我的小棉袄会越来越漂亮",
+      "onboard_time": 1735882639,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 199615,
@@ -803,6 +883,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 192922,
+      "num": 232753,
+      "word": "迪丽热巴今日chill一下",
+      "onboard_time": 1735884621,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 192732,
+      "num": 192732,
+      "word": "制片人刘宁拒绝古偶换乘恋爱",
+      "onboard_time": 1735883540,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191714,
       "num": 191714,
       "word": "教育局回应学校工作人员向老人泼水",
@@ -851,11 +947,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187192,
-      "num": 187192,
-      "word": "广东一老人买药材煲汤中毒身亡",
-      "onboard_time": 1735882221,
-      "rank": 42,
+      "raw_hot": 188923,
+      "num": 424374,
+      "word": "装了热水的保温杯千万别晃",
+      "onboard_time": 1735884799,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -923,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173037,
+      "num": 173037,
+      "word": "李行亮麦琳 双向拯救文学",
+      "onboard_time": 1735885100,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170873,
       "num": 325413,
       "word": "中学招聘教师有硕博学历无可厚非",
@@ -937,14 +1041,6 @@
       "onboard_time": 1735837755,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 170026,
-      "num": 170026,
-      "word": "刘强东曾收村民500元76个茶叶蛋",
-      "onboard_time": 1735882221,
-      "rank": 46,
-      "category": "互联网"
     },
     {
       "raw_hot": 169652,
@@ -971,6 +1067,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 167409,
+      "num": 167409,
+      "word": "新年美甲",
+      "onboard_time": 1735884141,
+      "rank": 36,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 165032,
       "num": 322937,
       "word": "2025跨年最佳舞台TOP3",
@@ -985,6 +1089,14 @@
       "onboard_time": 1735822219,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 164104,
+      "num": 164104,
+      "word": "张继科回怼被指蹭国乒热度",
+      "onboard_time": 1735885579,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 163570,
@@ -1057,6 +1169,14 @@
       "onboard_time": 1735831640,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152312,
+      "num": 152312,
+      "word": "宋雨琦上一秒辣妹下一秒甜豆",
+      "onboard_time": 1735883960,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 152287,
@@ -1211,6 +1331,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 126870,
+      "num": 126870,
+      "word": "库里三分8中8",
+      "onboard_time": 1735883420,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125710,
       "num": 125710,
       "word": "NBA全明星第一轮投票结果",
@@ -1227,12 +1355,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 123937,
+      "num": 123937,
+      "word": "德普22岁儿子近照",
+      "onboard_time": 1735885639,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121899,
       "num": 211979,
       "word": "库里全明星首轮投票未进前十",
       "onboard_time": 1735872258,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121558,
+      "num": 121558,
+      "word": "胡彦斌死嘴快憋住啊",
+      "onboard_time": 1735883299,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 121501,
@@ -1371,6 +1515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104984,
+      "num": 220304,
+      "word": "王鹤棣读弹幕被按了音量键",
+      "onboard_time": 1735884380,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104706,
       "num": 104706,
       "word": "火星情报局导演给赵露思发声",
@@ -1475,6 +1627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81148,
+      "num": 217598,
+      "word": "证监会辟谣释放全部利空传言",
+      "onboard_time": 1735884679,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 78288,
       "num": 78288,
       "word": "理发师晓华爆改外国人",
@@ -1497,6 +1657,14 @@
       "onboard_time": 1735851138,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72078,
+      "num": 237345,
+      "word": "库里支棱起来了",
+      "onboard_time": 1735885340,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 71418,
@@ -1619,20 +1787,20 @@
       "category": "民生新闻,情感"
     },
     {
-      "raw_hot": 44504,
-      "num": 276786,
-      "word": "田亮我相信我的小棉袄会越来越漂亮",
-      "onboard_time": 1735882639,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 44133,
       "num": 266591,
       "word": "清华92%毕业生在国内工作",
       "onboard_time": 1735881859,
       "rank": 27,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 43338,
+      "num": 281460,
+      "word": "微博之夜张真源的赛博搭子",
+      "onboard_time": 1735885340,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 42756,
@@ -1673,6 +1841,14 @@
       "onboard_time": 1735882401,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 36782,
+      "num": 393760,
+      "word": "门前三包二维码竟扫出内衣介绍",
+      "onboard_time": 1735884320,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34761,

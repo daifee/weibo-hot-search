@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735882726951,
+  "endTime": 1735885863270,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -467,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1126166,
+      "num": 1180186,
+      "word": "偏我来时不逢丁",
+      "onboard_time": 1735880121,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1117157,
       "num": 1117157,
       "word": "禁止向28家美国实体出口两用物项",
@@ -497,6 +505,14 @@
       "onboard_time": 1735824260,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1044221,
+      "num": 409589,
+      "word": "防漏姨妈内裤居然里面加一层塑料膜",
+      "onboard_time": 1735884740,
+      "rank": 11,
+      "category": "科学科普"
     },
     {
       "raw_hot": 1040720,
@@ -899,6 +915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 740887,
+      "num": 403887,
+      "word": "张一山瘦了好多",
+      "onboard_time": 1735883180,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 738710,
       "num": 738710,
       "word": "黄子韬徐艺洋婚后首次同台",
@@ -1081,14 +1105,6 @@
       "onboard_time": 1735791686,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 641973,
-      "num": 641973,
-      "word": "偏我来时不逢丁",
-      "onboard_time": 1735880121,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 640378,
@@ -1323,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 551681,
+      "num": 551681,
+      "word": "刘强东曾收村民500元76个茶叶蛋",
+      "onboard_time": 1735882221,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 548239,
       "num": 548239,
       "word": "国剧盛典",
@@ -1353,6 +1377,14 @@
       "onboard_time": 1735829240,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 524759,
+      "num": 524759,
+      "word": "上海队为樊振东做奥运保障工作",
+      "onboard_time": 1735882038,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 524104,
@@ -1563,6 +1595,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 471462,
+      "num": 388883,
+      "word": "德国电价跌至0以下",
+      "onboard_time": 1735884260,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 469784,
       "num": 469784,
       "word": "B站2024百大UP主",
@@ -1667,6 +1707,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 436378,
+      "num": 436378,
+      "word": "李行亮 哄是一种扬汤止沸的行为",
+      "onboard_time": 1735883359,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 435344,
       "num": 379617,
       "word": "留学生穿睡衣帮爸爸谈跨国生意",
@@ -1729,6 +1777,14 @@
       "onboard_time": 1735830321,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 427080,
+      "num": 427080,
+      "word": "韩国公调处停止执行尹锡悦逮捕令",
+      "onboard_time": 1735879521,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 426313,
@@ -1955,14 +2011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 381639,
-      "num": 381639,
-      "word": "韩国公调处停止执行尹锡悦逮捕令",
-      "onboard_time": 1735879521,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 379175,
       "num": 562007,
       "word": "2025是一个什么年",
@@ -2105,6 +2153,14 @@
       "onboard_time": 1735787061,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 359551,
+      "num": 280517,
+      "word": "控糖60天的面部变化",
+      "onboard_time": 1735881320,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 357754,
@@ -2345,62 +2401,6 @@
       "onboard_time": 1735742121,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 324813,
-      "num": 324813,
-      "word": "骗骗喜欢你 烂人错过",
-      "onboard_time": 1735724239,
-      "rank": 11,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 323263,
-      "num": 240191,
-      "word": "王鹤棣转场太可以了",
-      "onboard_time": 1735659146,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 322378,
-      "num": 420331,
-      "word": "MCN老板说网红成功率比考清北低",
-      "onboard_time": 1735880660,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 321893,
-      "num": 321893,
-      "word": "拖米",
-      "onboard_time": 1735745181,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 320004,
-      "num": 320004,
-      "word": "花1万8去俄罗斯玩了一周",
-      "onboard_time": 1735787961,
-      "rank": 33,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 319913,
-      "num": 344797,
-      "word": "刘亦菲说千万不要神化任何人",
-      "onboard_time": 1735872799,
-      "rank": 15,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 319077,
-      "num": 362934,
-      "word": "NAME晒虞书欣吴宣仪新年合照",
-      "onboard_time": 1735737562,
-      "rank": 36,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1735885863270,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1126166,
+        "num": 1180186,
+        "word": "偏我来时不逢丁",
+        "onboard_time": 1735880121,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 760316,
+        "num": 760316,
+        "word": "蛇钞",
+        "onboard_time": 1735870699,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 18695,
+        "num": 639860,
+        "word": "这就是咱中国人的独家浪漫",
+        "onboard_time": 1735824141,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 551681,
+        "num": 551681,
+        "word": "刘强东曾收村民500元76个茶叶蛋",
+        "onboard_time": 1735882221,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 524759,
+        "num": 524759,
+        "word": "上海队为樊振东做奥运保障工作",
+        "onboard_time": 1735882038,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 494710,
+        "num": 494710,
+        "word": "00后为了局部退休疯狂存钱",
+        "onboard_time": 1735874118,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 445403,
+        "num": 445403,
+        "word": "八省联考语文",
+        "onboard_time": 1735880060,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 436378,
+        "num": 436378,
+        "word": "李行亮 哄是一种扬汤止沸的行为",
+        "onboard_time": 1735883359,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 427080,
+        "num": 427080,
+        "word": "韩国公调处停止执行尹锡悦逮捕令",
+        "onboard_time": 1735879521,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 188923,
+        "num": 424374,
+        "word": "装了热水的保温杯千万别晃",
+        "onboard_time": 1735884799,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1140311,
+        "num": 416712,
+        "word": "田亮女儿进行下巴后缩矫正",
+        "onboard_time": 1735874540,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1044221,
+        "num": 409589,
+        "word": "防漏姨妈内裤居然里面加一层塑料膜",
+        "onboard_time": 1735884740,
+        "rank": 11,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 740887,
+        "num": 403887,
+        "word": "张一山瘦了好多",
+        "onboard_time": 1735883180,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 509821,
+        "num": 402376,
+        "word": "田亮回应网友质疑女儿下巴后缩严重",
+        "onboard_time": 1735873398,
+        "rank": 13,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 36782,
+        "num": 393760,
+        "word": "门前三包二维码竟扫出内衣介绍",
+        "onboard_time": 1735884320,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 471462,
+        "num": 388883,
+        "word": "德国电价跌至0以下",
+        "onboard_time": 1735884260,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 383920,
+        "num": 383920,
+        "word": "对600万人说慢一点没关系",
+        "onboard_time": 1735876881,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 234829,
+        "num": 333215,
+        "word": "内娱明星的工作量统一按G算",
+        "onboard_time": 1735883059,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313307,
+        "num": 313307,
+        "word": "广东一老人买药材煲汤中毒身亡",
+        "onboard_time": 1735882221,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43338,
+        "num": 281460,
+        "word": "微博之夜张真源的赛博搭子",
+        "onboard_time": 1735885340,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 359551,
+        "num": 280517,
+        "word": "控糖60天的面部变化",
+        "onboard_time": 1735881320,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 250347,
+        "num": 250347,
+        "word": "尹锡悦逮捕令执行现场",
+        "onboard_time": 1735875560,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 239755,
+        "num": 239755,
+        "word": "小米SU7侧翻起火十余路人抬车救人",
+        "onboard_time": 1735869680,
+        "rank": 22,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 207659,
+        "num": 239081,
+        "word": "甄嬛传晚会直播8小时",
+        "onboard_time": 1735885160,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72078,
+        "num": 237345,
+        "word": "库里支棱起来了",
+        "onboard_time": 1735885340,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200687,
+        "num": 234673,
+        "word": "田亮我相信我的小棉袄会越来越漂亮",
+        "onboard_time": 1735882639,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192922,
+        "num": 232753,
+        "word": "迪丽热巴今日chill一下",
+        "onboard_time": 1735884621,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 231768,
+        "num": 231768,
+        "word": "湖人战胜开拓者",
+        "onboard_time": 1735884919,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104984,
+        "num": 220304,
+        "word": "王鹤棣读弹幕被按了音量键",
+        "onboard_time": 1735884380,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81148,
+        "num": 217598,
+        "word": "证监会辟谣释放全部利空传言",
+        "onboard_time": 1735884679,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 216547,
+        "num": 216547,
+        "word": "上海258元一份的蛋炒饭",
+        "onboard_time": 1735880601,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 207531,
+        "num": 207531,
+        "word": "买手机平板智能手表手环能省钱了",
+        "onboard_time": 1735874899,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 192732,
+        "num": 192732,
+        "word": "制片人刘宁拒绝古偶换乘恋爱",
+        "onboard_time": 1735883540,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188335,
+        "num": 188335,
+        "word": "韩国公调处尝试抓捕尹锡悦",
+        "onboard_time": 1735867400,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 179805,
+        "num": 179805,
+        "word": "微博之夜第二波阵容",
+        "onboard_time": 1735878682,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173037,
+        "num": 173037,
+        "word": "李行亮麦琳 双向拯救文学",
+        "onboard_time": 1735885100,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167409,
+        "num": 167409,
+        "word": "新年美甲",
+        "onboard_time": 1735884141,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 165356,
+        "num": 165356,
+        "word": "张雪峰公司实行上4休3",
+        "onboard_time": 1735874299,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164104,
+        "num": 164104,
+        "word": "张继科回怼被指蹭国乒热度",
+        "onboard_time": 1735885579,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161168,
+        "num": 161168,
+        "word": "将实施手机等数码产品购新补贴",
+        "onboard_time": 1735878562,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159752,
+        "num": 159752,
+        "word": "MCN老板说网红成功率比考清北低",
+        "onboard_time": 1735880660,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156353,
+        "num": 156353,
+        "word": "女生清华毕业5年后去蓝翔全职学厨",
+        "onboard_time": 1735876461,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154519,
+        "num": 154519,
+        "word": "王鹤棣两次跨年状态的区别",
+        "onboard_time": 1735875080,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152312,
+        "num": 152312,
+        "word": "宋雨琦上一秒辣妹下一秒甜豆",
+        "onboard_time": 1735883960,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129076,
+        "num": 129076,
+        "word": "女子拒绝复合被泼汽油男方获刑12年",
+        "onboard_time": 1735874118,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126870,
+        "num": 126870,
+        "word": "库里三分8中8",
+        "onboard_time": 1735883420,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123937,
+        "num": 123937,
+        "word": "德普22岁儿子近照",
+        "onboard_time": 1735885639,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121558,
+        "num": 121558,
+        "word": "胡彦斌死嘴快憋住啊",
+        "onboard_time": 1735883299,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119774,
+        "num": 119774,
+        "word": "再见爱人牛了一整季",
+        "onboard_time": 1735877543,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114863,
+        "num": 114863,
+        "word": "小米集团涨超5%创历史新高",
+        "onboard_time": 1735880241,
+        "rank": 49,
+        "category": "财经,互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#亿万个你我汇聚成中国#"
+    }
+  }
+}
