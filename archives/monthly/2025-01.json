@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735886644821,
+  "endTime": 1735888875239,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -643,6 +643,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 922495,
+      "num": 1147599,
+      "word": "德国电价跌至0以下",
+      "onboard_time": 1735884260,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 921839,
       "num": 921839,
       "word": "王一博吊威亚飞起来了",
@@ -961,14 +969,6 @@
       "onboard_time": 1735796483,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 710441,
-      "num": 388883,
-      "word": "德国电价跌至0以下",
-      "onboard_time": 1735884260,
-      "rank": 15,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 705846,
@@ -1339,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 554958,
+      "num": 319599,
+      "word": "张继科回怼被指蹭国乒热度",
+      "onboard_time": 1735885579,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 554168,
       "num": 498727,
       "word": "杨幂 梗当然要当本人面玩",
@@ -1595,6 +1603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 474212,
+      "num": 474212,
+      "word": "甄嬛传晚会直播8小时",
+      "onboard_time": 1735885160,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 472267,
       "num": 472267,
       "word": "德国人凌晨4点排长队抢购中国烟花",
@@ -1809,14 +1825,6 @@
       "onboard_time": 1735691659,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 420730,
-      "num": 420730,
-      "word": "甄嬛传晚会直播8小时",
-      "onboard_time": 1735885160,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 420445,
@@ -2233,6 +2241,14 @@
       "onboard_time": 1735807821,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 347493,
+      "num": 347493,
+      "word": "上海有偿占座男子已被警方行拘",
+      "onboard_time": 1735886239,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 347487,
@@ -2779,14 +2795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 277561,
-      "num": 277561,
-      "word": "张继科回怼被指蹭国乒热度",
-      "onboard_time": 1735885579,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 277265,
       "num": 277265,
       "word": "济州航空务安机场涉嫌职务过失致死",
@@ -3257,6 +3265,22 @@
       "onboard_time": 1735814900,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232612,
+      "num": 230679,
+      "word": "A股调整什么原因",
+      "onboard_time": 1735885999,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 232591,
+      "num": 232591,
+      "word": "李行亮麦琳 双向拯救文学",
+      "onboard_time": 1735885100,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 231768,
@@ -3731,6 +3755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205283,
+      "num": 205283,
+      "word": "新年美甲",
+      "onboard_time": 1735884141,
+      "rank": 36,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 205175,
       "num": 205175,
       "word": "喻言出场好辣",
@@ -3905,6 +3937,14 @@
       "onboard_time": 1735782618,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 200648,
+      "num": 200648,
+      "word": "专家称上四休三全面铺开不现实",
+      "onboard_time": 1735886359,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200624,
@@ -4275,6 +4315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190228,
+      "num": 231134,
+      "word": "易烊千玺贴玻璃贴纸",
+      "onboard_time": 1735887980,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 190124,
       "num": 206531,
       "word": "张彬彬8g网速",
@@ -4289,14 +4337,6 @@
       "onboard_time": 1735886119,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 190040,
-      "num": 214305,
-      "word": "李行亮麦琳 双向拯救文学",
-      "onboard_time": 1735885100,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 189621,
@@ -4915,14 +4955,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 169316,
-      "num": 169316,
-      "word": "新年美甲",
-      "onboard_time": 1735884141,
-      "rank": 36,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 169134,
       "num": 169134,
       "word": "影视剧难哄",
@@ -5243,14 +5275,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 161819,
-      "num": 161819,
-      "word": "上海有偿占座男子已被警方行拘",
-      "onboard_time": 1735886239,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161583,
       "num": 161583,
       "word": "今天缅怀糖丸爷爷顾方舟",
@@ -5537,6 +5561,14 @@
       "onboard_time": 1735797561,
       "rank": 29,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 149840,
+      "num": 319129,
+      "word": "工作人员回应十二生肖图有猫无蛇",
+      "onboard_time": 1735887560,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149678,
@@ -5849,6 +5881,14 @@
       "onboard_time": 1735670416,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 141680,
+      "num": 141680,
+      "word": "易烊千玺发起小小的倡议",
+      "onboard_time": 1735888279,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 141589,
@@ -6275,6 +6315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131490,
+      "num": 131490,
+      "word": "都暻秀演技",
+      "onboard_time": 1735887798,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131229,
       "num": 390652,
       "word": "新年第1个拥抱",
@@ -6539,6 +6587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123472,
+      "num": 123472,
+      "word": "归棹 宗族观念",
+      "onboard_time": 1735888580,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122967,
       "num": 122967,
       "word": "国际乒联主席说孙颖莎家喻户晓",
@@ -6553,6 +6609,14 @@
       "onboard_time": 1735712000,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 122517,
+      "num": 122517,
+      "word": "檀健次多鉴一次云访谈",
+      "onboard_time": 1735888580,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 122449,
@@ -6875,6 +6939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114632,
+      "num": 270765,
+      "word": "詹姆斯38分",
+      "onboard_time": 1735888038,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114565,
       "num": 259537,
       "word": "詹姆斯小儿子加盟亚利桑那大学",
@@ -6929,6 +7001,14 @@
       "onboard_time": 1735726942,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 112898,
+      "num": 112898,
+      "word": "女生回应不顾家人反对嫁给脑瘫老公",
+      "onboard_time": 1735887618,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112222,
@@ -7499,6 +7579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82272,
+      "num": 316872,
+      "word": "口呼吸",
+      "onboard_time": 1735888220,
+      "rank": 18,
+      "category": "艺人,健康医疗"
+    },
+    {
       "raw_hot": 82173,
       "num": 333285,
       "word": "欧阳娜娜当小姨了",
@@ -7547,14 +7635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 79709,
-      "num": 214674,
-      "word": "A股调整什么原因",
-      "onboard_time": 1735885999,
-      "rank": 29,
-      "category": "财经"
-    },
-    {
       "raw_hot": 78771,
       "num": 347853,
       "word": "自驾博主苏敏回应离婚进展",
@@ -7577,6 +7657,14 @@
       "onboard_time": 1735848791,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 77240,
+      "num": 322266,
+      "word": "贺峻霖推荐ChinaTravel来家乡成都",
+      "onboard_time": 1735888099,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 75606,
@@ -7737,6 +7825,14 @@
       "onboard_time": 1735653150,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65753,
+      "num": 406785,
+      "word": "中国航天一日五试",
+      "onboard_time": 1735885879,
+      "rank": 9,
+      "category": "军事"
     },
     {
       "raw_hot": 65279,
@@ -8139,6 +8235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45618,
+      "num": 360476,
+      "word": "极简版闰年知识帖",
+      "onboard_time": 1735862599,
+      "rank": 8,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 45356,
       "num": 449392,
       "word": "民警从游戏皮肤骗局里抢回14万",
@@ -8499,6 +8603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 33447,
+      "num": 314748,
+      "word": "打工人的幸福时刻belike",
+      "onboard_time": 1735887079,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33294,
       "num": 759280,
       "word": "2025年奋斗正当时",
@@ -8545,6 +8657,14 @@
       "onboard_time": 1735669936,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 32165,
+      "num": 620078,
+      "word": "打开2025年的中国时刻",
+      "onboard_time": 1735885879,
+      "rank": 25,
+      "category": "正能量"
     },
     {
       "raw_hot": 32068,
@@ -8659,14 +8779,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 29352,
-      "num": 238402,
-      "word": "打开2025年的中国时刻",
-      "onboard_time": 1735885879,
-      "rank": 25,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 28790,
       "num": 206281,
       "word": "直升机悬崖边救起失足坠崖男子",
@@ -8721,14 +8833,6 @@
       "onboard_time": 1735717099,
       "rank": 19,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 27892,
-      "num": 405099,
-      "word": "中国航天一日五试",
-      "onboard_time": 1735885879,
-      "rank": 9,
-      "category": "军事"
     },
     {
       "raw_hot": 27858,
@@ -8817,6 +8921,14 @@
       "onboard_time": 1735790423,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 24519,
+      "num": 230692,
+      "word": "有人点烤串外卖发现被按串收打包费",
+      "onboard_time": 1735888759,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 24177,

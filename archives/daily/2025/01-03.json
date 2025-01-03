@@ -1,6 +1,6 @@
 {
   "startTime": 1735835273269,
-  "endTime": 1735886644821,
+  "endTime": 1735888875239,
   "band_list": [
     {
       "raw_hot": 2979441,
@@ -83,6 +83,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 922495,
+      "num": 1147599,
+      "word": "德国电价跌至0以下",
+      "onboard_time": 1735884260,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 818752,
       "num": 815164,
       "word": "男子认亲成功16年后发现亲爹是假的",
@@ -131,14 +139,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 710441,
-      "num": 388883,
-      "word": "德国电价跌至0以下",
-      "onboard_time": 1735884260,
-      "rank": 15,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 705846,
       "num": 705846,
       "word": "广西车厘子10元2盒是真的",
@@ -179,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 587832,
+      "num": 312727,
+      "word": "A股",
+      "onboard_time": 1735887260,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
       "raw_hot": 580346,
       "num": 580346,
       "word": "八省联考语文",
@@ -201,6 +209,14 @@
       "onboard_time": 1735867400,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 554958,
+      "num": 319599,
+      "word": "张继科回怼被指蹭国乒热度",
+      "onboard_time": 1735885579,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 551681,
@@ -315,6 +331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 474212,
+      "num": 474212,
+      "word": "甄嬛传晚会直播8小时",
+      "onboard_time": 1735885160,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 442488,
       "num": 442488,
       "word": "现在拨打的电话",
@@ -353,14 +377,6 @@
       "onboard_time": 1735879521,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 420730,
-      "num": 420730,
-      "word": "甄嬛传晚会直播8小时",
-      "onboard_time": 1735885160,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 420165,
@@ -457,6 +473,14 @@
       "onboard_time": 1735830381,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 347493,
+      "num": 347493,
+      "word": "上海有偿占座男子已被警方行拘",
+      "onboard_time": 1735886239,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 347487,
@@ -587,14 +611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 277561,
-      "num": 277561,
-      "word": "张继科回怼被指蹭国乒热度",
-      "onboard_time": 1735885579,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 268390,
       "num": 268390,
       "word": "谁家电视剧第一集就亲啊",
@@ -707,6 +723,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 232612,
+      "num": 230679,
+      "word": "A股调整什么原因",
+      "onboard_time": 1735885999,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 232591,
+      "num": 232591,
+      "word": "李行亮麦琳 双向拯救文学",
+      "onboard_time": 1735885100,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231768,
       "num": 231768,
       "word": "湖人战胜开拓者",
@@ -795,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205283,
+      "num": 205283,
+      "word": "新年美甲",
+      "onboard_time": 1735884141,
+      "rank": 36,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 202615,
       "num": 202615,
       "word": "赵露思抑郁症",
@@ -825,6 +865,14 @@
       "onboard_time": 1735882639,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200648,
+      "num": 200648,
+      "word": "专家称上四休三全面铺开不现实",
+      "onboard_time": 1735886359,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199615,
@@ -955,20 +1003,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190228,
+      "num": 231134,
+      "word": "易烊千玺贴玻璃贴纸",
+      "onboard_time": 1735887980,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 190075,
       "num": 211558,
       "word": "华晨宇六专预告",
       "onboard_time": 1735886119,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 190040,
-      "num": 214305,
-      "word": "李行亮麦琳 双向拯救文学",
-      "onboard_time": 1735885100,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 189621,
@@ -1075,14 +1123,6 @@
       "category": "财经,互联网"
     },
     {
-      "raw_hot": 169316,
-      "num": 169316,
-      "word": "新年美甲",
-      "onboard_time": 1735884141,
-      "rank": 36,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 168676,
       "num": 301703,
       "word": "王曼昱让我亲",
@@ -1137,14 +1177,6 @@
       "onboard_time": 1735878142,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 161819,
-      "num": 161819,
-      "word": "上海有偿占座男子已被警方行拘",
-      "onboard_time": 1735886239,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 160220,
@@ -1211,6 +1243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149840,
+      "num": 319129,
+      "word": "工作人员回应十二生肖图有猫无蛇",
+      "onboard_time": 1735887560,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149319,
       "num": 149319,
       "word": "车厘子一降价就知道要过年了",
@@ -1273,6 +1313,14 @@
       "onboard_time": 1735885639,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141680,
+      "num": 141680,
+      "word": "易烊千玺发起小小的倡议",
+      "onboard_time": 1735888279,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 141589,
@@ -1355,6 +1403,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 131490,
+      "num": 131490,
+      "word": "都暻秀演技",
+      "onboard_time": 1735887798,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129758,
       "num": 129758,
       "word": "黑山新年首日发生恶性大规模枪击案",
@@ -1401,6 +1457,22 @@
       "onboard_time": 1735853112,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 123472,
+      "num": 123472,
+      "word": "归棹 宗族观念",
+      "onboard_time": 1735888580,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 122517,
+      "num": 122517,
+      "word": "檀健次多鉴一次云访谈",
+      "onboard_time": 1735888580,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 121899,
@@ -1483,6 +1555,14 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 114632,
+      "num": 270765,
+      "word": "詹姆斯38分",
+      "onboard_time": 1735888038,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113873,
       "num": 113873,
       "word": "早高峰地铁5元卖座生财之路走歪了",
@@ -1497,6 +1577,14 @@
       "onboard_time": 1735862359,
       "rank": 40,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 112898,
+      "num": 112898,
+      "word": "女生回应不顾家人反对嫁给脑瘫老公",
+      "onboard_time": 1735887618,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110837,
@@ -1667,18 +1755,18 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82272,
+      "num": 316872,
+      "word": "口呼吸",
+      "onboard_time": 1735888220,
+      "rank": 18,
+      "category": "艺人,健康医疗"
+    },
+    {
       "raw_hot": 81148,
       "num": 217598,
       "word": "证监会辟谣释放全部利空传言",
       "onboard_time": 1735884679,
-      "rank": 29,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 79709,
-      "num": 214674,
-      "word": "A股调整什么原因",
-      "onboard_time": 1735885999,
       "rank": 29,
       "category": "财经"
     },
@@ -1697,6 +1785,14 @@
       "onboard_time": 1735848791,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 77240,
+      "num": 322266,
+      "word": "贺峻霖推荐ChinaTravel来家乡成都",
+      "onboard_time": 1735888099,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 74553,
@@ -1745,6 +1841,14 @@
       "onboard_time": 1735880301,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 65753,
+      "num": 406785,
+      "word": "中国航天一日五试",
+      "onboard_time": 1735885879,
+      "rank": 9,
+      "category": "军事"
     },
     {
       "raw_hot": 64204,
@@ -1835,6 +1939,14 @@
       "category": "民生新闻,情感"
     },
     {
+      "raw_hot": 45618,
+      "num": 360476,
+      "word": "极简版闰年知识帖",
+      "onboard_time": 1735862599,
+      "rank": 8,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 44133,
       "num": 266591,
       "word": "清华92%毕业生在国内工作",
@@ -1915,6 +2027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33447,
+      "num": 314748,
+      "word": "打工人的幸福时刻belike",
+      "onboard_time": 1735887079,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33035,
       "num": 63631,
       "word": "美汽车撞人事件细节披露",
@@ -1929,6 +2049,14 @@
       "onboard_time": 1735846751,
       "rank": 21,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 32165,
+      "num": 620078,
+      "word": "打开2025年的中国时刻",
+      "onboard_time": 1735885879,
+      "rank": 25,
+      "category": "正能量"
     },
     {
       "raw_hot": 30793,
@@ -1955,14 +2083,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 29352,
-      "num": 238402,
-      "word": "打开2025年的中国时刻",
-      "onboard_time": 1735885879,
-      "rank": 25,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 28676,
       "num": 137674,
       "word": "沉浸式拆毛绒杯盲盒",
@@ -1971,20 +2091,20 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 27892,
-      "num": 405099,
-      "word": "中国航天一日五试",
-      "onboard_time": 1735885879,
-      "rank": 9,
-      "category": "军事"
-    },
-    {
       "raw_hot": 26247,
       "num": 26702,
       "word": "美国汽车撞人已致15死细节披露",
       "onboard_time": 1735851020,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 24519,
+      "num": 230692,
+      "word": "有人点烤串外卖发现被按串收打包费",
+      "onboard_time": 1735888759,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 23502,

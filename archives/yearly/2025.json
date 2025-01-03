@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735886644821,
+  "endTime": 1735888875239,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -643,6 +643,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 922495,
+      "num": 1147599,
+      "word": "德国电价跌至0以下",
+      "onboard_time": 1735884260,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 921839,
       "num": 921839,
       "word": "王一博吊威亚飞起来了",
@@ -961,14 +969,6 @@
       "onboard_time": 1735796483,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 710441,
-      "num": 388883,
-      "word": "德国电价跌至0以下",
-      "onboard_time": 1735884260,
-      "rank": 15,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 705846,
@@ -1339,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 554958,
+      "num": 319599,
+      "word": "张继科回怼被指蹭国乒热度",
+      "onboard_time": 1735885579,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 554168,
       "num": 498727,
       "word": "杨幂 梗当然要当本人面玩",
@@ -1595,6 +1603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 474212,
+      "num": 474212,
+      "word": "甄嬛传晚会直播8小时",
+      "onboard_time": 1735885160,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 472267,
       "num": 472267,
       "word": "德国人凌晨4点排长队抢购中国烟花",
@@ -1809,14 +1825,6 @@
       "onboard_time": 1735691659,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 420730,
-      "num": 420730,
-      "word": "甄嬛传晚会直播8小时",
-      "onboard_time": 1735885160,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 420445,
@@ -2235,6 +2243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 347493,
+      "num": 347493,
+      "word": "上海有偿占座男子已被警方行拘",
+      "onboard_time": 1735886239,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 347487,
       "num": 347487,
       "word": "韩总统官邸你推我挤一片混乱",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1735861097,
       "rank": 14,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 328665,
-      "num": 328665,
-      "word": "孙颖莎称赞覃予萱表现",
-      "onboard_time": 1735721660,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 327742,
-      "num": 327742,
-      "word": "五月天跨年演唱会",
-      "onboard_time": 1735658727,
-      "rank": 32,
-      "category": "演出"
     }
   ],
   "hotgov_list": [
