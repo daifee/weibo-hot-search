@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735888875239,
+  "endTime": 1735889743529,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -587,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 975177,
+      "num": 1156028,
+      "word": "德国电价跌至0以下",
+      "onboard_time": 1735884260,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 966952,
       "num": 966952,
       "word": "湖南卫视收视率",
@@ -641,14 +649,6 @@
       "onboard_time": 1735783578,
       "rank": 33,
       "category": "财经"
-    },
-    {
-      "raw_hot": 922495,
-      "num": 1147599,
-      "word": "德国电价跌至0以下",
-      "onboard_time": 1735884260,
-      "rank": 15,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 921839,
@@ -1667,6 +1667,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 453532,
+      "num": 453532,
+      "word": "上海有偿占座男子已被警方行拘",
+      "onboard_time": 1735886239,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 453443,
       "num": 453443,
       "word": "拍照时左右脸不对称的人有福了",
@@ -2243,14 +2251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 347493,
-      "num": 347493,
-      "word": "上海有偿占座男子已被警方行拘",
-      "onboard_time": 1735886239,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 347487,
       "num": 347487,
       "word": "韩总统官邸你推我挤一片混乱",
@@ -2281,6 +2281,14 @@
       "onboard_time": 1735691239,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 341769,
+      "num": 341769,
+      "word": "口呼吸",
+      "onboard_time": 1735888220,
+      "rank": 18,
+      "category": "艺人,健康医疗"
     },
     {
       "raw_hot": 341025,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735776798,
       "rank": 13,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 329910,
-      "num": 329910,
-      "word": "95后脑瘫小伙回应因理发健身走红",
-      "onboard_time": 1735861097,
-      "rank": 14,
-      "category": "正能量"
     }
   ],
   "hotgov_list": [

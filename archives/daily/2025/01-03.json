@@ -1,6 +1,6 @@
 {
   "startTime": 1735835273269,
-  "endTime": 1735888875239,
+  "endTime": 1735889743529,
   "band_list": [
     {
       "raw_hot": 2979441,
@@ -75,20 +75,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 975177,
+      "num": 1156028,
+      "word": "德国电价跌至0以下",
+      "onboard_time": 1735884260,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 951115,
       "num": 951115,
       "word": "宁夏地震局",
       "onboard_time": 1735831580,
       "rank": 4,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 922495,
-      "num": 1147599,
-      "word": "德国电价跌至0以下",
-      "onboard_time": 1735884260,
-      "rank": 15,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 818752,
@@ -339,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 453532,
+      "num": 453532,
+      "word": "上海有偿占座男子已被警方行拘",
+      "onboard_time": 1735886239,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 442488,
       "num": 442488,
       "word": "现在拨打的电话",
@@ -475,14 +483,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 347493,
-      "num": 347493,
-      "word": "上海有偿占座男子已被警方行拘",
-      "onboard_time": 1735886239,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 347487,
       "num": 347487,
       "word": "韩总统官邸你推我挤一片混乱",
@@ -505,6 +505,14 @@
       "onboard_time": 1735879820,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 341769,
+      "num": 341769,
+      "word": "口呼吸",
+      "onboard_time": 1735888220,
+      "rank": 18,
+      "category": "艺人,健康医疗"
     },
     {
       "raw_hot": 331652,
@@ -667,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249665,
+      "num": 319129,
+      "word": "工作人员回应十二生肖图有猫无蛇",
+      "onboard_time": 1735887560,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 246765,
       "num": 246765,
       "word": "银川未来几日还可能有较强地震发生",
@@ -680,6 +696,22 @@
       "word": "丫丫站得笔直晒太阳",
       "onboard_time": 1735869559,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 243663,
+      "num": 243663,
+      "word": "李行亮麦琳 双向拯救文学",
+      "onboard_time": 1735885100,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 242078,
+      "num": 242078,
+      "word": "王慧玲封号",
+      "onboard_time": 1735889120,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -729,14 +761,6 @@
       "onboard_time": 1735885999,
       "rank": 29,
       "category": "财经"
-    },
-    {
-      "raw_hot": 232591,
-      "num": 232591,
-      "word": "李行亮麦琳 双向拯救文学",
-      "onboard_time": 1735885100,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 231768,
@@ -907,6 +931,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 195031,
+      "num": 222745,
+      "word": "易烊千玺穿过一棵树变了个人",
+      "onboard_time": 1735889541,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 195011,
       "num": 195011,
       "word": "第五人格重做先知虚妄",
@@ -920,6 +952,14 @@
       "word": "杨采钰又拿了樊胜美剧本",
       "onboard_time": 1735878142,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 194728,
+      "num": 234711,
+      "word": "归棹 宗族观念",
+      "onboard_time": 1735888580,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -1057,6 +1097,14 @@
       "onboard_time": 1735873578,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 181772,
+      "num": 322266,
+      "word": "贺峻霖推荐ChinaTravel来家乡成都",
+      "onboard_time": 1735888099,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 180326,
@@ -1243,14 +1291,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 149840,
-      "num": 319129,
-      "word": "工作人员回应十二生肖图有猫无蛇",
-      "onboard_time": 1735887560,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 149319,
       "num": 149319,
       "word": "车厘子一降价就知道要过年了",
@@ -1363,6 +1403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 138798,
+      "num": 138798,
+      "word": "陈楚生曾多次拒绝参加快男的原因",
+      "onboard_time": 1735889299,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138324,
       "num": 384530,
       "word": "2025春节档",
@@ -1457,14 +1505,6 @@
       "onboard_time": 1735853112,
       "rank": 9,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 123472,
-      "num": 123472,
-      "word": "归棹 宗族观念",
-      "onboard_time": 1735888580,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 122517,
@@ -1731,6 +1771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 88551,
+      "num": 308752,
+      "word": "警方回应上海男子5元出让地铁高峰座位",
+      "onboard_time": 1735888460,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86644,
       "num": 259015,
       "word": "专家称老百姓消费少跟收入分配有关",
@@ -1755,20 +1803,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 82272,
-      "num": 316872,
-      "word": "口呼吸",
-      "onboard_time": 1735888220,
-      "rank": 18,
-      "category": "艺人,健康医疗"
-    },
-    {
       "raw_hot": 81148,
       "num": 217598,
       "word": "证监会辟谣释放全部利空传言",
       "onboard_time": 1735884679,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 80724,
+      "num": 406785,
+      "word": "中国航天一日五试",
+      "onboard_time": 1735885879,
+      "rank": 9,
+      "category": "军事"
     },
     {
       "raw_hot": 78288,
@@ -1785,14 +1833,6 @@
       "onboard_time": 1735848791,
       "rank": 45,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 77240,
-      "num": 322266,
-      "word": "贺峻霖推荐ChinaTravel来家乡成都",
-      "onboard_time": 1735888099,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 74553,
@@ -1819,6 +1859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70587,
+      "num": 307021,
+      "word": "刷单返现宝妈疯狂付款收到空包裹",
+      "onboard_time": 1735888940,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66796,
       "num": 304456,
       "word": "2025年开工大吉",
@@ -1843,14 +1891,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 65753,
-      "num": 406785,
-      "word": "中国航天一日五试",
-      "onboard_time": 1735885879,
-      "rank": 9,
-      "category": "军事"
-    },
-    {
       "raw_hot": 64204,
       "num": 324252,
       "word": "民航局回应近期外航安全事故",
@@ -1873,6 +1913,14 @@
       "onboard_time": 1735877601,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58475,
+      "num": 242367,
+      "word": "国内雪场已经满足不了高级玩家",
+      "onboard_time": 1735888879,
+      "rank": 27,
+      "category": "运动健身,财经"
     },
     {
       "raw_hot": 58460,
@@ -1907,6 +1955,22 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 50907,
+      "num": 360476,
+      "word": "极简版闰年知识帖",
+      "onboard_time": 1735862599,
+      "rank": 8,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 50847,
+      "num": 242133,
+      "word": "有人点烤串外卖发现被按串收打包费",
+      "onboard_time": 1735888759,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 50710,
       "num": 80066,
       "word": "宁夏启动四级地震应急响应",
@@ -1939,12 +2003,12 @@
       "category": "民生新闻,情感"
     },
     {
-      "raw_hot": 45618,
-      "num": 360476,
-      "word": "极简版闰年知识帖",
-      "onboard_time": 1735862599,
-      "rank": 8,
-      "category": "正能量"
+      "raw_hot": 47326,
+      "num": 202441,
+      "word": "世界乒联期待陈梦绽放更多精彩",
+      "onboard_time": 1735879460,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 44133,
@@ -2027,12 +2091,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33971,
+      "num": 306243,
+      "word": "张婧仪微博之夜官宣",
+      "onboard_time": 1735889419,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 33447,
       "num": 314748,
       "word": "打工人的幸福时刻belike",
       "onboard_time": 1735887079,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33277,
+      "num": 250807,
+      "word": "全红婵希望大家多关注跳水",
+      "onboard_time": 1735889659,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 33035,
@@ -2099,14 +2179,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 24519,
-      "num": 230692,
-      "word": "有人点烤串外卖发现被按串收打包费",
-      "onboard_time": 1735888759,
-      "rank": 29,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 23502,
       "num": 23502,
       "word": "中国顶尖舞者推广大使王一博",
@@ -2137,6 +2209,14 @@
       "onboard_time": 1735848612,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 17060,
+      "num": 242105,
+      "word": "我国首款干细胞治疗药品上市",
+      "onboard_time": 1735889059,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 17030,
