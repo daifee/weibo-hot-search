@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735904146177,
+  "endTime": 1735908131669,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 1568621,
-      "num": 438684,
+      "num": 637337,
       "word": "李小冉 都说了让你说话注意点",
       "onboard_time": 1735895179,
       "rank": 15,
@@ -307,12 +307,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1559260,
+      "num": 1559260,
+      "word": "电竞文男主有脸了",
+      "onboard_time": 1735900819,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1538021,
       "num": 1061062,
       "word": "假唱",
       "onboard_time": 1735655966,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1522027,
+      "num": 594196,
+      "word": "胖东来员工结婚无力购置房车可先租房",
+      "onboard_time": 1735902920,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1475823,
@@ -779,14 +795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 872661,
-      "num": 1139625,
-      "word": "电竞文男主有脸了",
-      "onboard_time": 1735900819,
-      "rank": 5,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 869666,
       "num": 1139146,
       "word": "孙颖莎vs王曼昱",
@@ -1067,6 +1075,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 698370,
+      "num": 698370,
+      "word": "国际乒联发声",
+      "onboard_time": 1735905320,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 687973,
       "num": 687973,
       "word": "鹿晗的阿贝贝",
@@ -1307,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 605343,
+      "num": 605343,
+      "word": "四大预爆艺人微博之夜来了仨",
+      "onboard_time": 1735900761,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 605044,
       "num": 495592,
       "word": "Angelababy沙漠神女",
@@ -1523,6 +1547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 543388,
+      "num": 543388,
+      "word": "R1SE合体",
+      "onboard_time": 1735907359,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 532792,
       "num": 532792,
       "word": "永夜星河获奖",
@@ -1537,6 +1569,14 @@
       "onboard_time": 1735829240,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 525801,
+      "num": 297536,
+      "word": "瘦了50斤的面部折叠度",
+      "onboard_time": 1735903698,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 524759,
@@ -1563,6 +1603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 517423,
+      "num": 517423,
+      "word": "金星伴月",
+      "onboard_time": 1735900879,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 516758,
       "num": 473417,
       "word": "黄圣依说杨子这出戏是拿奖级别",
@@ -1585,14 +1633,6 @@
       "onboard_time": 1735804100,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 513116,
-      "num": 469442,
-      "word": "四大预爆艺人微博之夜来了仨",
-      "onboard_time": 1735900761,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 511850,
@@ -1689,6 +1729,14 @@
       "onboard_time": 1735702221,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 501344,
+      "num": 501344,
+      "word": "世界之外直播",
+      "onboard_time": 1735907479,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 500919,
@@ -1851,6 +1899,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 457296,
+      "num": 457296,
+      "word": "陈乔恩吐槽餐厅奇葩规定",
+      "onboard_time": 1735902019,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 453532,
       "num": 453532,
       "word": "上海有偿占座男子已被警方行拘",
@@ -2011,14 +2067,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 426189,
-      "num": 426189,
-      "word": "金星伴月",
-      "onboard_time": 1735900879,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 424980,
       "num": 424980,
       "word": "刘亦菲连体皮衣",
@@ -2105,6 +2153,14 @@
       "onboard_time": 1735729462,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 408100,
+      "num": 408100,
+      "word": "胖东来员工不许靠父母积蓄买房买车",
+      "onboard_time": 1735904900,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 407669,
@@ -2345,62 +2401,6 @@
       "onboard_time": 1735716798,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 371483,
-      "num": 640595,
-      "word": "王楚钦回应战胜樊振东",
-      "onboard_time": 1735658126,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 369882,
-      "num": 369882,
-      "word": "车厘子届爱马仕价格接近腰斩",
-      "onboard_time": 1735861637,
-      "rank": 8,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 368134,
-      "num": 368134,
-      "word": "乒超解说",
-      "onboard_time": 1735713858,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 367803,
-      "num": 404034,
-      "word": "滑翔伞事故死亡教练系公司法人",
-      "onboard_time": 1735835358,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 366981,
-      "num": 355729,
-      "word": "年前金价下跌年轻人再掀淘金热",
-      "onboard_time": 1735829661,
-      "rank": 25,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 366209,
-      "num": 366209,
-      "word": "虞书欣妮妮塑",
-      "onboard_time": 1735871299,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 363147,
-      "num": 363147,
-      "word": "向前女友泼汽油男子被判12年",
-      "onboard_time": 1735826541,
-      "rank": 28,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
