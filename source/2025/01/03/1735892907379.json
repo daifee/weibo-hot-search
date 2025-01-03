@@ -1,0 +1,410 @@
+{
+  "runTime": 1735892907379,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1180862,
+        "num": 1188937,
+        "word": "胖东来公布员工结婚执行标准",
+        "onboard_time": 1735891459,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 561663,
+        "num": 561663,
+        "word": "德国电价跌至0以下",
+        "onboard_time": 1735884260,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 33868,
+        "num": 491161,
+        "word": "打开2025年的中国时刻",
+        "onboard_time": 1735885879,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1431979,
+        "num": 488574,
+        "word": "鱿鱼游戏吴京",
+        "onboard_time": 1735890917,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 457603,
+        "num": 457603,
+        "word": "蛇钞",
+        "onboard_time": 1735870699,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 445761,
+        "num": 445761,
+        "word": "陈楚生曾多次拒绝参加快男的原因",
+        "onboard_time": 1735889299,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379067,
+        "num": 379067,
+        "word": "周雨彤太平年婚服造型",
+        "onboard_time": 1735890080,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 378361,
+        "num": 378361,
+        "word": "刷单返现宝妈疯狂付款收到空包裹",
+        "onboard_time": 1735888940,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366203,
+        "num": 366203,
+        "word": "上海有偿占座男子已被警方行拘",
+        "onboard_time": 1735886239,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335178,
+        "num": 335178,
+        "word": "口呼吸",
+        "onboard_time": 1735888220,
+        "rank": 9,
+        "category": "艺人,健康医疗"
+      },
+      {
+        "raw_hot": 729278,
+        "num": 334741,
+        "word": "田亮女儿进行下巴后缩矫正",
+        "onboard_time": 1735874540,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 525269,
+        "num": 334076,
+        "word": "张一山瘦了好多",
+        "onboard_time": 1735883180,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426602,
+        "num": 333540,
+        "word": "防漏姨妈内裤居然里面加一层塑料膜",
+        "onboard_time": 1735884740,
+        "rank": 12,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 374871,
+        "num": 333276,
+        "word": "孙颖莎周边",
+        "onboard_time": 1735890859,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332899,
+        "num": 332899,
+        "word": "对600万人说慢一点没关系",
+        "onboard_time": 1735876881,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 278775,
+        "num": 278775,
+        "word": "张继科回怼被指蹭国乒热度",
+        "onboard_time": 1735885579,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270764,
+        "num": 270764,
+        "word": "田亮回应网友质疑女儿下巴后缩严重",
+        "onboard_time": 1735873398,
+        "rank": 16,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 28533,
+        "num": 268050,
+        "word": "侯明昊微博之夜官宣",
+        "onboard_time": 1735891520,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 64231,
+        "num": 264068,
+        "word": "云南一学校多名学生出现呕吐腹泻",
+        "onboard_time": 1735891639,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25370,
+        "num": 259717,
+        "word": "原来这些剧已经是20年前了",
+        "onboard_time": 1735892840,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299157,
+        "num": 256686,
+        "word": "考公人真的很害怕过年",
+        "onboard_time": 1735891699,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 254823,
+        "num": 254823,
+        "word": "偏我来时不逢丁",
+        "onboard_time": 1735880121,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262188,
+        "num": 254256,
+        "word": "被家暴16次女子直播带货",
+        "onboard_time": 1735892540,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27563,
+        "num": 252534,
+        "word": "徐海东说林高远还能再打15年",
+        "onboard_time": 1735891459,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48255,
+        "num": 249396,
+        "word": "警方回应上海男子5元出让地铁高峰座位",
+        "onboard_time": 1735888460,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151841,
+        "num": 249124,
+        "word": "上海地铁回应有人在闲鱼上卖座位",
+        "onboard_time": 1735890440,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247258,
+        "num": 247258,
+        "word": "控糖60天的面部变化",
+        "onboard_time": 1735881320,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 232222,
+        "num": 232222,
+        "word": "甄嬛传晚会直播8小时",
+        "onboard_time": 1735885160,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215514,
+        "num": 215514,
+        "word": "韩国公调处尝试抓捕尹锡悦",
+        "onboard_time": 1735867400,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28038,
+        "num": 210430,
+        "word": "药王谷是策划高手与破落商人的合谋",
+        "onboard_time": 1735891941,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 209169,
+        "num": 209169,
+        "word": "00后为了局部退休疯狂存钱",
+        "onboard_time": 1735874118,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208703,
+        "num": 208703,
+        "word": "贺峻霖推荐ChinaTravel来家乡成都",
+        "onboard_time": 1735888099,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202504,
+        "num": 202504,
+        "word": "专家称上四休三全面铺开不现实",
+        "onboard_time": 1735886359,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196122,
+        "num": 196122,
+        "word": "福彩双色球开出5.28亿巨奖",
+        "onboard_time": 1735890559,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183833,
+        "num": 183833,
+        "word": "A股",
+        "onboard_time": 1735887260,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 181257,
+        "num": 181257,
+        "word": "孙颖莎代言",
+        "onboard_time": 1735892660,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173489,
+        "num": 173489,
+        "word": "柯南不是英雄救美是并肩同行",
+        "onboard_time": 1735892359,
+        "rank": 36,
+        "category": "动漫,电影"
+      },
+      {
+        "raw_hot": 150240,
+        "num": 172885,
+        "word": "装了热水的保温杯千万别晃",
+        "onboard_time": 1735884799,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172767,
+        "num": 172767,
+        "word": "易烊千玺穿过一棵树变了个人",
+        "onboard_time": 1735889541,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162489,
+        "num": 162489,
+        "word": "刘强东曾收村民500元76个茶叶蛋",
+        "onboard_time": 1735882221,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 161831,
+        "num": 161831,
+        "word": "中国集数最多的十三部电视剧",
+        "onboard_time": 1735891880,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158420,
+        "num": 158420,
+        "word": "马柏全问粉丝CP名",
+        "onboard_time": 1735892060,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153484,
+        "num": 153484,
+        "word": "工作人员回应十二生肖图有猫无蛇",
+        "onboard_time": 1735887560,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152261,
+        "num": 152261,
+        "word": "韩国公调处停止执行尹锡悦逮捕令",
+        "onboard_time": 1735879521,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150177,
+        "num": 150177,
+        "word": "河南疾控提醒1月份重点关注",
+        "onboard_time": 1735890141,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148754,
+        "num": 148754,
+        "word": "黄奕换风格了",
+        "onboard_time": 1735891100,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147426,
+        "num": 147426,
+        "word": "归棹 宗族观念",
+        "onboard_time": 1735888580,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146902,
+        "num": 146902,
+        "word": "女生回应不顾家人反对嫁给脑瘫老公",
+        "onboard_time": 1735887618,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145904,
+        "num": 145904,
+        "word": "李行亮麦琳 双向拯救文学",
+        "onboard_time": 1735885100,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138415,
+        "num": 138415,
+        "word": "潜水员戴夫手游",
+        "onboard_time": 1735890440,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#希望中美两国青少年增进相互了解#"
+    }
+  }
+}
