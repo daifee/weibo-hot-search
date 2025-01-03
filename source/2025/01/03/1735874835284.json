@@ -1,0 +1,410 @@
+{
+  "runTime": 1735874835284,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1731317,
+        "num": 1731317,
+        "word": "蛇钞",
+        "onboard_time": 1735870699,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1010875,
+        "num": 1010875,
+        "word": "上4休3的好处已经显现出来了",
+        "onboard_time": 1735816100,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 75985,
+        "num": 610654,
+        "word": "这就是咱中国人的独家浪漫",
+        "onboard_time": 1735824141,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1326146,
+        "num": 604685,
+        "word": "小米SU7侧翻起火十余路人抬车救人",
+        "onboard_time": 1735869680,
+        "rank": 3,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 576390,
+        "num": 576390,
+        "word": "刘诗诗醉梦开机图",
+        "onboard_time": 1735873700,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 487081,
+        "num": 487081,
+        "word": "银川地震瞬间一母亲死死护住宝宝",
+        "onboard_time": 1735871239,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403402,
+        "num": 403402,
+        "word": "白月梵星",
+        "onboard_time": 1735869259,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 398940,
+        "num": 398940,
+        "word": "广西车厘子10元2盒是真的",
+        "onboard_time": 1735863561,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 398012,
+        "num": 398012,
+        "word": "韩国公调处尝试抓捕尹锡悦",
+        "onboard_time": 1735867400,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 360782,
+        "num": 360782,
+        "word": "上海宝山一装修建筑局部坍塌",
+        "onboard_time": 1735872918,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 2979441,
+        "num": 360107,
+        "word": "田亮回应网友质疑女儿下巴后缩严重",
+        "onboard_time": 1735873398,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 363456,
+        "num": 353048,
+        "word": "虞书欣妮妮塑",
+        "onboard_time": 1735871299,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343941,
+        "num": 343941,
+        "word": "韩总统官邸你推我挤一片混乱",
+        "onboard_time": 1735871479,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 326998,
+        "num": 326998,
+        "word": "美主播说中国六代机不是很隐形",
+        "onboard_time": 1735866080,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99890,
+        "num": 320464,
+        "word": "特朗普或加强涉华AI设备管制",
+        "onboard_time": 1735873700,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 319913,
+        "num": 319913,
+        "word": "刘亦菲说千万不要神化任何人",
+        "onboard_time": 1735872799,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 259780,
+        "num": 259780,
+        "word": "抓捕尹锡悦人员同警卫发生冲突",
+        "onboard_time": 1735866860,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 244192,
+        "num": 244192,
+        "word": "现在拨打的电话",
+        "onboard_time": 1735869979,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235381,
+        "num": 235381,
+        "word": "大奉打更人热度",
+        "onboard_time": 1735863860,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296537,
+        "num": 235043,
+        "word": "韩国空难179具遗体仅5具完好无损",
+        "onboard_time": 1735863800,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 227486,
+        "num": 227486,
+        "word": "00后为了局部退休疯狂存钱",
+        "onboard_time": 1735874118,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225059,
+        "num": 225059,
+        "word": "2025四大预爆艺人",
+        "onboard_time": 1735868118,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194856,
+        "num": 194856,
+        "word": "教育局通报高中向8旬老人泼冷水",
+        "onboard_time": 1735870939,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192176,
+        "num": 192176,
+        "word": "13薪和年终奖是有区别的",
+        "onboard_time": 1735866440,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112279,
+        "num": 192050,
+        "word": "全红婵感谢泳联认可",
+        "onboard_time": 1735872918,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176614,
+        "num": 191060,
+        "word": "韩国版不能说的秘密预告",
+        "onboard_time": 1735872378,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166055,
+        "num": 190177,
+        "word": "醉梦开机",
+        "onboard_time": 1735873398,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134808,
+        "num": 188996,
+        "word": "何炅拥抱谢娜零点照片",
+        "onboard_time": 1735834039,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133981,
+        "num": 188070,
+        "word": "papi酱 可能杨子这就是专业吧",
+        "onboard_time": 1735859655,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61750,
+        "num": 187189,
+        "word": "尹锡悦官邸罕见航拍画面曝光",
+        "onboard_time": 1735874720,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 186977,
+        "num": 186977,
+        "word": "田亮女儿进行下巴后缩矫正",
+        "onboard_time": 1735874540,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183456,
+        "num": 183456,
+        "word": "安徽省考公告",
+        "onboard_time": 1735873578,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 176560,
+        "num": 176560,
+        "word": "丫丫站得笔直晒太阳",
+        "onboard_time": 1735869559,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172076,
+        "num": 172076,
+        "word": "终于知道焯水该用热水还是凉水了",
+        "onboard_time": 1735873519,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163538,
+        "num": 163538,
+        "word": "终于知道为啥被别人拍的照片那么丑",
+        "onboard_time": 1735872078,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 144017,
+        "num": 144017,
+        "word": "123岁老人林蛇母家中去世",
+        "onboard_time": 1735825641,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142790,
+        "num": 142790,
+        "word": "张雪峰公司实行上4休3",
+        "onboard_time": 1735874299,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136957,
+        "num": 136957,
+        "word": "男子认亲成功16年后发现亲爹是假的",
+        "onboard_time": 1735844712,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136537,
+        "num": 136537,
+        "word": "馋嘴警犬自己给自己加了个鸡腿",
+        "onboard_time": 1735873998,
+        "rank": 38,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 135071,
+        "num": 135071,
+        "word": "银川未来几日还可能有较强地震发生",
+        "onboard_time": 1735866259,
+        "rank": 39,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 133231,
+        "num": 133231,
+        "word": "年前金价下跌年轻人再掀淘金热",
+        "onboard_time": 1735829661,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 132242,
+        "num": 132242,
+        "word": "一路前行2全阵容官宣",
+        "onboard_time": 1735872619,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130933,
+        "num": 130933,
+        "word": "永宁县应急局称超2000人在救援排查",
+        "onboard_time": 1735833558,
+        "rank": 42,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 27764,
+        "num": 127513,
+        "word": "沉浸式拆毛绒杯盲盒",
+        "onboard_time": 1735873519,
+        "rank": 43,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 125335,
+        "num": 125335,
+        "word": "衣着打扮很影响对自己的感知",
+        "onboard_time": 1735861997,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122421,
+        "num": 122421,
+        "word": "农历乙巳蛇年有384天",
+        "onboard_time": 1735866801,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111709,
+        "num": 111709,
+        "word": "逮捕尹锡悦这一早上发生了什么",
+        "onboard_time": 1735871178,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109910,
+        "num": 109910,
+        "word": "贺峻霖录一路繁花硬撑最后累昏了",
+        "onboard_time": 1735863920,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108714,
+        "num": 108714,
+        "word": "留几手问葛夕能再要个孩子吗",
+        "onboard_time": 1735827501,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108143,
+        "num": 108143,
+        "word": "女子拒绝复合被泼汽油男方获刑12年",
+        "onboard_time": 1735874118,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#亿万个你我汇聚成中国#"
+    }
+  }
+}
