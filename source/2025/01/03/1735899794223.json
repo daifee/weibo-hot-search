@@ -1,0 +1,410 @@
+{
+  "runTime": 1735899794223,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1475823,
+        "num": 1475823,
+        "word": "王一博方辟谣",
+        "onboard_time": 1735896682,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 708651,
+        "num": 708651,
+        "word": "美方正考虑禁止中国无人机进入美国",
+        "onboard_time": 1735893919,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14398,
+        "num": 681872,
+        "word": "一图读懂中国经济高质量发展成绩单",
+        "onboard_time": 1735899440,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 656648,
+        "num": 656648,
+        "word": "是片酬低才有钱做特效吗",
+        "onboard_time": 1735893919,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 636061,
+        "num": 636061,
+        "word": "尹锡悦为啥这么难抓",
+        "onboard_time": 1735896619,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 545072,
+        "num": 545072,
+        "word": "八省联考数学",
+        "onboard_time": 1735896501,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 416361,
+        "num": 416361,
+        "word": "宋雨琦首个内娱红毯",
+        "onboard_time": 1735893440,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 385837,
+        "num": 385837,
+        "word": "迪丽热巴突然出现拍了拍大家",
+        "onboard_time": 1735898301,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34840,
+        "num": 334365,
+        "word": "24小时看奋进中国",
+        "onboard_time": 1735899260,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 312653,
+        "num": 312653,
+        "word": "洛杉矶旅游局向樊振东发来邀请",
+        "onboard_time": 1735898121,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1568621,
+        "num": 312115,
+        "word": "李小冉 都说了让你说话注意点",
+        "onboard_time": 1735895179,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 586129,
+        "num": 311621,
+        "word": "俄乌士兵近身肉搏画面",
+        "onboard_time": 1735895420,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 460001,
+        "num": 311223,
+        "word": "田亮女儿进行下巴后缩矫正",
+        "onboard_time": 1735874540,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376332,
+        "num": 309934,
+        "word": "杨紫白鹿新剧定档同一天",
+        "onboard_time": 1735896980,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309896,
+        "num": 309896,
+        "word": "胖东来规定员工结婚不许收付彩礼",
+        "onboard_time": 1735898480,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336037,
+        "num": 309640,
+        "word": "白月梵星定档",
+        "onboard_time": 1735895241,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1014702,
+        "num": 309608,
+        "word": "被家暴16次女子直播带货",
+        "onboard_time": 1735892540,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309296,
+        "num": 309296,
+        "word": "防漏姨妈内裤居然里面加一层塑料膜",
+        "onboard_time": 1735884740,
+        "rank": 17,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 274225,
+        "num": 274225,
+        "word": "国色芳华",
+        "onboard_time": 1735895781,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264158,
+        "num": 264158,
+        "word": "YG新男团预告",
+        "onboard_time": 1735894279,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 961183,
+        "num": 261804,
+        "word": "胖东来公布员工结婚执行标准",
+        "onboard_time": 1735891459,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 558972,
+        "num": 260406,
+        "word": "5斤整装车厘子复秤少半斤",
+        "onboard_time": 1735896081,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254864,
+        "num": 254864,
+        "word": "张一山瘦了好多",
+        "onboard_time": 1735883180,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95959,
+        "num": 244527,
+        "word": "微博之夜官宣顺序按微博名称首字母",
+        "onboard_time": 1735899680,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142009,
+        "num": 243640,
+        "word": "奥运冠军王曼昱时尚杂志首封",
+        "onboard_time": 1735898601,
+        "rank": 24,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 242774,
+        "num": 242774,
+        "word": "德国电价跌至0以下",
+        "onboard_time": 1735884260,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 226549,
+        "num": 226549,
+        "word": "孙颖莎周边",
+        "onboard_time": 1735890859,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203805,
+        "num": 203805,
+        "word": "李宇春说超级女声不是一个人的故事",
+        "onboard_time": 1735899020,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184653,
+        "num": 184653,
+        "word": "王一博工作室发文否认恋情",
+        "onboard_time": 1735898480,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12768,
+        "num": 181877,
+        "word": "缺乏优质影片是票房下降的原因吗",
+        "onboard_time": 1735899740,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198109,
+        "num": 180769,
+        "word": "华晨宇把耳后纹身放在了封面上",
+        "onboard_time": 1735899020,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10609,
+        "num": 179628,
+        "word": "为了把时间具象化古人有多拼",
+        "onboard_time": 1735823962,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179575,
+        "num": 179575,
+        "word": "连侯佩岑都失去表情管理了",
+        "onboard_time": 1735895600,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179349,
+        "num": 179349,
+        "word": "孔雪儿 麻辣女教师",
+        "onboard_time": 1735897701,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 169419,
+        "num": 169419,
+        "word": "考公人真的很害怕过年",
+        "onboard_time": 1735891699,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168234,
+        "num": 168234,
+        "word": "广东女子错买断肠草煲汤致中毒身亡",
+        "onboard_time": 1735892240,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163963,
+        "num": 163963,
+        "word": "星光大赏出发路透",
+        "onboard_time": 1735894101,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 156961,
+        "num": 156961,
+        "word": "金价涨超1%",
+        "onboard_time": 1735898420,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155873,
+        "num": 155873,
+        "word": "小鹿参加完喜单头发白了大半",
+        "onboard_time": 1735896619,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152816,
+        "num": 152816,
+        "word": "大奉打更人15集杀疯了",
+        "onboard_time": 1735899619,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151006,
+        "num": 151006,
+        "word": "国际乒联将举办球员论坛",
+        "onboard_time": 1735898719,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146793,
+        "num": 146793,
+        "word": "北京经侦蓝天之下超燃上线",
+        "onboard_time": 1735898121,
+        "rank": 41,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 145719,
+        "num": 145719,
+        "word": "建议周三设为永久节假日",
+        "onboard_time": 1735898420,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144466,
+        "num": 144466,
+        "word": "清华女硕士回应失业转行学厨",
+        "onboard_time": 1735896260,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141631,
+        "num": 141631,
+        "word": "韩国公调处尝试抓捕尹锡悦",
+        "onboard_time": 1735867400,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137417,
+        "num": 137417,
+        "word": "圣吗哪乳业回应博主奶茶测评事件",
+        "onboard_time": 1735898121,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135691,
+        "num": 135691,
+        "word": "抢到蛇钞直接赚一倍",
+        "onboard_time": 1735899740,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 133002,
+        "num": 133002,
+        "word": "一路繁花",
+        "onboard_time": 1735899320,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132965,
+        "num": 132965,
+        "word": "丁禹兮直播见",
+        "onboard_time": 1735897101,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131183,
+        "num": 131183,
+        "word": "夸老公夸出了使用说明书",
+        "onboard_time": 1735899619,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平新年贺词里的中国与世界#"
+    }
+  }
+}
