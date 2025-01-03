@@ -1,0 +1,410 @@
+{
+  "runTime": 1735881681620,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1338433,
+        "num": 1338433,
+        "word": "蛇钞",
+        "onboard_time": 1735870699,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 945242,
+        "num": 945242,
+        "word": "00后为了局部退休疯狂存钱",
+        "onboard_time": 1735874118,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32918,
+        "num": 698615,
+        "word": "这就是咱中国人的独家浪漫",
+        "onboard_time": 1735824141,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 676556,
+        "num": 676556,
+        "word": "女生清华毕业5年后去蓝翔全职学厨",
+        "onboard_time": 1735876461,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 664692,
+        "num": 664692,
+        "word": "尹锡悦逮捕令执行现场",
+        "onboard_time": 1735875560,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 465072,
+        "num": 465072,
+        "word": "八省联考语文",
+        "onboard_time": 1735880060,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 441593,
+        "num": 441593,
+        "word": "对600万人说慢一点没关系",
+        "onboard_time": 1735876881,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 426731,
+        "num": 426731,
+        "word": "张雪峰公司实行上4休3",
+        "onboard_time": 1735874299,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 421315,
+        "num": 421315,
+        "word": "再见爱人牛了一整季",
+        "onboard_time": 1735877543,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95303,
+        "num": 420331,
+        "word": "MCN老板说网红成功率比考清北低",
+        "onboard_time": 1735880660,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1897541,
+        "num": 420290,
+        "word": "田亮女儿进行下巴后缩矫正",
+        "onboard_time": 1735874540,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 932198,
+        "num": 420228,
+        "word": "田亮回应网友质疑女儿下巴后缩严重",
+        "onboard_time": 1735873398,
+        "rank": 11,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 420165,
+        "num": 420165,
+        "word": "微博之夜第二波阵容",
+        "onboard_time": 1735878682,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 416798,
+        "num": 416798,
+        "word": "偏我来时不逢丁",
+        "onboard_time": 1735880121,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105340,
+        "num": 389899,
+        "word": "男子利用小程序Bug逃匿28万加油费",
+        "onboard_time": 1735875380,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370474,
+        "num": 370474,
+        "word": "买手机平板智能手表手环能省钱了",
+        "onboard_time": 1735874899,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 358257,
+        "num": 358257,
+        "word": "韩国公调处尝试抓捕尹锡悦",
+        "onboard_time": 1735867400,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 280168,
+        "num": 355995,
+        "word": "刘亦菲 灵蛇女王",
+        "onboard_time": 1735879820,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 261875,
+        "num": 348296,
+        "word": "张杰上海巡演官宣",
+        "onboard_time": 1735879641,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22267,
+        "num": 343060,
+        "word": "口头请病假被按旷工开除",
+        "onboard_time": 1735881380,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 433590,
+        "num": 339888,
+        "word": "小米SU7侧翻起火十余路人抬车救人",
+        "onboard_time": 1735869680,
+        "rank": 20,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 337787,
+        "num": 337787,
+        "word": "上4休3的好处已经显现出来了",
+        "onboard_time": 1735816100,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 330173,
+        "num": 330173,
+        "word": "韩国公调处停止执行尹锡悦逮捕令",
+        "onboard_time": 1735879521,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 315031,
+        "num": 315031,
+        "word": "凯迪拉克 樊振东",
+        "onboard_time": 1735876040,
+        "rank": 23,
+        "category": "体育,汽车"
+      },
+      {
+        "raw_hot": 255393,
+        "num": 255393,
+        "word": "王鹤棣两次跨年状态的区别",
+        "onboard_time": 1735875080,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211973,
+        "num": 255292,
+        "word": "刘诗诗醉梦开机图",
+        "onboard_time": 1735873700,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255194,
+        "num": 255194,
+        "word": "王曼昱好帅",
+        "onboard_time": 1735875440,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50861,
+        "num": 253771,
+        "word": "专家称老百姓消费少跟收入分配有关",
+        "onboard_time": 1735881200,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102304,
+        "num": 253741,
+        "word": "尹子维 病娇赛道",
+        "onboard_time": 1735880660,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156965,
+        "num": 253728,
+        "word": "巴特勒申请交易",
+        "onboard_time": 1735880301,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253721,
+        "num": 253721,
+        "word": "三花不愧是猫届美女",
+        "onboard_time": 1735877480,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 238948,
+        "num": 238948,
+        "word": "将实施手机等数码产品购新补贴",
+        "onboard_time": 1735878562,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 220145,
+        "num": 220145,
+        "word": "女子拒绝复合被泼汽油男方获刑12年",
+        "onboard_time": 1735874118,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205567,
+        "num": 205567,
+        "word": "黄景瑜回应拍恋爱戏就变夹",
+        "onboard_time": 1735878501,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205548,
+        "num": 205548,
+        "word": "控糖60天的面部变化",
+        "onboard_time": 1735881320,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137839,
+        "num": 204117,
+        "word": "原神流浪者",
+        "onboard_time": 1735879042,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203838,
+        "num": 203838,
+        "word": "上海258元一份的蛋炒饭",
+        "onboard_time": 1735880601,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 202324,
+        "num": 202324,
+        "word": "下巴后缩",
+        "onboard_time": 1735880960,
+        "rank": 37,
+        "category": "艺人,健康医疗"
+      },
+      {
+        "raw_hot": 191534,
+        "num": 191534,
+        "word": "健美运动员被关押9个月后瘦成人干",
+        "onboard_time": 1735878921,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190855,
+        "num": 190855,
+        "word": "颜安助理",
+        "onboard_time": 1735879160,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167703,
+        "num": 167703,
+        "word": "小米集团涨超5%创历史新高",
+        "onboard_time": 1735880241,
+        "rank": 40,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 166442,
+        "num": 166442,
+        "word": "终于知道焯水该用热水还是凉水了",
+        "onboard_time": 1735873519,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 166145,
+        "num": 166145,
+        "word": "龙钞",
+        "onboard_time": 1735878982,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 160220,
+        "num": 160220,
+        "word": "微博之夜丁禹兮的赛博搭子",
+        "onboard_time": 1735881021,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160059,
+        "num": 160059,
+        "word": "快乐再出发",
+        "onboard_time": 1735881498,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153063,
+        "num": 153063,
+        "word": "银川地震瞬间一母亲死死护住宝宝",
+        "onboard_time": 1735871239,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150909,
+        "num": 150909,
+        "word": "广西车厘子10元2盒是真的",
+        "onboard_time": 1735863561,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 147944,
+        "num": 147944,
+        "word": "杨采钰又拿了樊胜美剧本",
+        "onboard_time": 1735878142,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139171,
+        "num": 139171,
+        "word": "胡先煦开工照",
+        "onboard_time": 1735879820,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138324,
+        "num": 138324,
+        "word": "2025春节档",
+        "onboard_time": 1735877961,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在新年贺词中反复提及的关键词#"
+    }
+  }
+}

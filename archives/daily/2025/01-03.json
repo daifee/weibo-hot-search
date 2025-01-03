@@ -1,6 +1,6 @@
 {
   "startTime": 1735835273269,
-  "endTime": 1735879265798,
+  "endTime": 1735881681620,
   "band_list": [
     {
       "raw_hot": 2979441,
@@ -113,6 +113,22 @@
       "onboard_time": 1735863561,
       "rank": 3,
       "category": "美食"
+    },
+    {
+      "raw_hot": 676556,
+      "num": 676556,
+      "word": "女生清华毕业5年后去蓝翔全职学厨",
+      "onboard_time": 1735876461,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 664692,
+      "num": 664692,
+      "word": "尹锡悦逮捕令执行现场",
+      "onboard_time": 1735875560,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 600762,
@@ -235,20 +251,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 476623,
-      "num": 436960,
-      "word": "尹锡悦逮捕令执行现场",
-      "onboard_time": 1735875560,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 475127,
       "num": 475127,
       "word": "对600万人说慢一点没关系",
       "onboard_time": 1735876881,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 465072,
+      "num": 465072,
+      "word": "八省联考语文",
+      "onboard_time": 1735880060,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 442488,
@@ -273,6 +289,22 @@
       "onboard_time": 1735830321,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 420165,
+      "num": 420165,
+      "word": "微博之夜第二波阵容",
+      "onboard_time": 1735878682,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 416798,
+      "num": 416798,
+      "word": "偏我来时不逢丁",
+      "onboard_time": 1735880121,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 414732,
@@ -379,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 330173,
+      "num": 330173,
+      "word": "韩国公调处停止执行尹锡悦逮捕令",
+      "onboard_time": 1735879521,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 329910,
       "num": 329910,
       "word": "95后脑瘫小伙回应因理发健身走红",
@@ -451,20 +491,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 276814,
-      "num": 389638,
-      "word": "微博之夜第二波阵容",
-      "onboard_time": 1735878682,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 276665,
-      "num": 467706,
-      "word": "女生清华毕业5年后去蓝翔全职学厨",
-      "onboard_time": 1735876461,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 280168,
+      "num": 355995,
+      "word": "刘亦菲 灵蛇女王",
+      "onboard_time": 1735879820,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 268390,
@@ -481,6 +513,14 @@
       "onboard_time": 1735875560,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 261875,
+      "num": 348296,
+      "word": "张杰上海巡演官宣",
+      "onboard_time": 1735879641,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 257550,
@@ -521,6 +561,14 @@
       "onboard_time": 1735869559,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 238948,
+      "num": 383159,
+      "word": "将实施手机等数码产品购新补贴",
+      "onboard_time": 1735878562,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 235190,
@@ -587,6 +635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220145,
+      "num": 220145,
+      "word": "女子拒绝复合被泼汽油男方获刑12年",
+      "onboard_time": 1735874118,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218862,
       "num": 230910,
       "word": "脑瘫很难在孕产检中被直接发现",
@@ -619,12 +675,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206259,
-      "num": 206259,
-      "word": "女子拒绝复合被泼汽油男方获刑12年",
-      "onboard_time": 1735874118,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 205548,
+      "num": 205548,
+      "word": "控糖60天的面部变化",
+      "onboard_time": 1735881320,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 203838,
+      "num": 203838,
+      "word": "上海258元一份的蛋炒饭",
+      "onboard_time": 1735880601,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 202615,
@@ -635,12 +699,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 202139,
-      "num": 383159,
-      "word": "将实施手机等数码产品购新补贴",
-      "onboard_time": 1735878562,
-      "rank": 18,
-      "category": "国内时政"
+      "raw_hot": 202324,
+      "num": 202324,
+      "word": "下巴后缩",
+      "onboard_time": 1735880960,
+      "rank": 37,
+      "category": "艺人,健康医疗"
     },
     {
       "raw_hot": 199615,
@@ -723,12 +787,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191534,
+      "num": 191534,
+      "word": "健美运动员被关押9个月后瘦成人干",
+      "onboard_time": 1735878921,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191396,
       "num": 191396,
       "word": "大奉男妲己翻车现场",
       "onboard_time": 1735828281,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190855,
+      "num": 190855,
+      "word": "颜安助理",
+      "onboard_time": 1735879160,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 189553,
@@ -745,14 +825,6 @@
       "onboard_time": 1735867578,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 184101,
-      "num": 184101,
-      "word": "健美运动员被关押9个月后瘦成人干",
-      "onboard_time": 1735878921,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 183468,
@@ -843,12 +915,20 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 167394,
-      "num": 167394,
-      "word": "颜安助理",
-      "onboard_time": 1735879160,
-      "rank": 45,
-      "category": "艺人"
+      "raw_hot": 167703,
+      "num": 167703,
+      "word": "小米集团涨超5%创历史新高",
+      "onboard_time": 1735880241,
+      "rank": 40,
+      "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 166145,
+      "num": 166145,
+      "word": "龙钞",
+      "onboard_time": 1735878982,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 164463,
@@ -883,12 +963,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 161416,
-      "num": 161416,
-      "word": "龙钞",
-      "onboard_time": 1735878982,
-      "rank": 48,
-      "category": "财经"
+      "raw_hot": 160220,
+      "num": 160220,
+      "word": "微博之夜丁禹兮的赛博搭子",
+      "onboard_time": 1735881021,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 160059,
+      "num": 160059,
+      "word": "快乐再出发",
+      "onboard_time": 1735881498,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 158262,
@@ -897,6 +985,14 @@
       "onboard_time": 1735818620,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156965,
+      "num": 253728,
+      "word": "巴特勒申请交易",
+      "onboard_time": 1735880301,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 155117,
@@ -980,7 +1076,7 @@
     },
     {
       "raw_hot": 145137,
-      "num": 145137,
+      "num": 389899,
       "word": "男子利用小程序Bug逃匿28万加油费",
       "onboard_time": 1735875380,
       "rank": 45,
@@ -1011,12 +1107,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 139171,
+      "num": 139171,
+      "word": "胡先煦开工照",
+      "onboard_time": 1735879820,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138866,
       "num": 138866,
       "word": "檀健次说话竟然可以这么夹",
       "onboard_time": 1735867041,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 138324,
+      "num": 384530,
+      "word": "2025春节档",
+      "onboard_time": 1735877961,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 137616,
@@ -1195,14 +1307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107331,
-      "num": 384530,
-      "word": "2025春节档",
-      "onboard_time": 1735877961,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 106785,
       "num": 106785,
       "word": "网传极越开始返聘员工",
@@ -1233,6 +1337,14 @@
       "onboard_time": 1735826961,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 102304,
+      "num": 253741,
+      "word": "尹子维 病娇赛道",
+      "onboard_time": 1735880660,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 102251,
@@ -1280,6 +1392,14 @@
       "word": "银川一日发生两次4级以上地震",
       "onboard_time": 1735834758,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95303,
+      "num": 420331,
+      "word": "MCN老板说网红成功率比考清北低",
+      "onboard_time": 1735880660,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1401,6 +1521,14 @@
       "onboard_time": 1735849451,
       "rank": 37,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 50861,
+      "num": 253771,
+      "word": "专家称老百姓消费少跟收入分配有关",
+      "onboard_time": 1735881200,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50710,
@@ -1537,6 +1665,14 @@
       "onboard_time": 1735873219,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22267,
+      "num": 343060,
+      "word": "口头请病假被按旷工开除",
+      "onboard_time": 1735881380,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22085,

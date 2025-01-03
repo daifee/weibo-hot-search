@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735879265798,
+  "endTime": 1735881681620,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -987,6 +987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 676556,
+      "num": 676556,
+      "word": "女生清华毕业5年后去蓝翔全职学厨",
+      "onboard_time": 1735876461,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 674708,
       "num": 674708,
       "word": "地震局称银川进入地震窗口期",
@@ -1009,6 +1017,14 @@
       "onboard_time": 1735691477,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 664692,
+      "num": 664692,
+      "word": "尹锡悦逮捕令执行现场",
+      "onboard_time": 1735875560,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 664109,
@@ -1507,14 +1523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 476623,
-      "num": 436960,
-      "word": "尹锡悦逮捕令执行现场",
-      "onboard_time": 1735875560,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 475731,
       "num": 475731,
       "word": "易烊千玺面试戏演哭剧组所有人",
@@ -1561,6 +1569,14 @@
       "onboard_time": 1735691898,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 465072,
+      "num": 465072,
+      "word": "八省联考语文",
+      "onboard_time": 1735880060,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 463717,
@@ -1739,6 +1755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 420165,
+      "num": 420165,
+      "word": "微博之夜第二波阵容",
+      "onboard_time": 1735878682,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 417350,
       "num": 417350,
       "word": "国色芳华大剧排面",
@@ -1753,6 +1777,14 @@
       "onboard_time": 1735659505,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 416798,
+      "num": 416798,
+      "word": "偏我来时不逢丁",
+      "onboard_time": 1735880121,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 416416,
@@ -2259,6 +2291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 330173,
+      "num": 330173,
+      "word": "韩国公调处停止执行尹锡悦逮捕令",
+      "onboard_time": 1735879521,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 330131,
       "num": 330131,
       "word": "林诗栋点赞樊振东分享霉霉歌词的微博",
@@ -2361,46 +2401,6 @@
       "onboard_time": 1735788262,
       "rank": 42,
       "category": "数码"
-    },
-    {
-      "raw_hot": 316756,
-      "num": 459541,
-      "word": "王楚钦说林诗栋是国乒绝对主力",
-      "onboard_time": 1735747101,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 316243,
-      "num": 316243,
-      "word": "乒超MVP",
-      "onboard_time": 1735741041,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 312365,
-      "num": 312365,
-      "word": "NINEPERCENT真快给吴宣仪集齐了",
-      "onboard_time": 1735705520,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 311472,
-      "num": 311472,
-      "word": "股市",
-      "onboard_time": 1735800140,
-      "rank": 44,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 311401,
-      "num": 311401,
-      "word": "三花不愧是猫届美女",
-      "onboard_time": 1735877480,
-      "rank": 31,
-      "category": "幽默"
     }
   ],
   "hotgov_list": [
