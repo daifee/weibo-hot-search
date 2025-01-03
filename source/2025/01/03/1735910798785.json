@@ -1,0 +1,410 @@
+{
+  "runTime": 1735910798785,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1245466,
+        "num": 1245466,
+        "word": "电竞文男主有脸了",
+        "onboard_time": 1735900819,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 899545,
+        "num": 899545,
+        "word": "R1SE合体",
+        "onboard_time": 1735907359,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33237,
+        "num": 753691,
+        "word": "一组目标清单布局你的2025",
+        "onboard_time": 1735909220,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 703818,
+        "num": 703818,
+        "word": "国际乒联发声",
+        "onboard_time": 1735905320,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 540352,
+        "num": 540352,
+        "word": "101注共5.31亿巨奖出自同一站点",
+        "onboard_time": 1735905979,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1569976,
+        "num": 522721,
+        "word": "胖东来员工不许靠父母积蓄买房买车",
+        "onboard_time": 1735904900,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 895007,
+        "num": 489429,
+        "word": "李小冉 都说了让你说话注意点",
+        "onboard_time": 1735895179,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 418039,
+        "num": 418039,
+        "word": "四大预爆艺人微博之夜来了仨",
+        "onboard_time": 1735900761,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 48684,
+        "num": 414751,
+        "word": "越来越多外国人旅行目的地首选中国",
+        "onboard_time": 1735909700,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414304,
+        "num": 414304,
+        "word": "微博之夜阵容你最期待谁",
+        "onboard_time": 1735908979,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 331315,
+        "num": 331315,
+        "word": "防漏姨妈内裤居然里面加一层塑料膜",
+        "onboard_time": 1735884740,
+        "rank": 10,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 301602,
+        "num": 301602,
+        "word": "金星伴月",
+        "onboard_time": 1735900879,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301162,
+        "num": 301162,
+        "word": "田亮女儿进行下巴后缩矫正",
+        "onboard_time": 1735874540,
+        "rank": 12,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 300573,
+        "num": 300573,
+        "word": "周深一年发了近200条生日快乐",
+        "onboard_time": 1735907599,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28123,
+        "num": 291198,
+        "word": "对话小小的我电影人物原型",
+        "onboard_time": 1735910180,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 288443,
+        "num": 288443,
+        "word": "目前流感病毒99%以上为甲流",
+        "onboard_time": 1735904299,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 272938,
+        "num": 272938,
+        "word": "国乒冬训23天",
+        "onboard_time": 1735909399,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271630,
+        "num": 271630,
+        "word": "八省联考",
+        "onboard_time": 1735900879,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 59970,
+        "num": 269965,
+        "word": "朱锐斌镜头下的敖瑞鹏",
+        "onboard_time": 1735910359,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90867,
+        "num": 267070,
+        "word": "银川地震亲历者称更多是心理折磨",
+        "onboard_time": 1735910240,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 933597,
+        "num": 265106,
+        "word": "胖东来员工结婚无力购置房车可先租房",
+        "onboard_time": 1735902920,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397640,
+        "num": 260991,
+        "word": "瘦了50斤的面部折叠度",
+        "onboard_time": 1735903698,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 309985,
+        "num": 257706,
+        "word": "王一博方辟谣",
+        "onboard_time": 1735896682,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63615,
+        "num": 257513,
+        "word": "微博之夜官宣按微博名称首字母排序",
+        "onboard_time": 1735908140,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254911,
+        "num": 254911,
+        "word": "国航 美珍香",
+        "onboard_time": 1735909819,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250476,
+        "num": 250476,
+        "word": "这回终于有人接住白鹿了",
+        "onboard_time": 1735900040,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241553,
+        "num": 241553,
+        "word": "陈乔恩吐槽餐厅奇葩规定",
+        "onboard_time": 1735902019,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51784,
+        "num": 235034,
+        "word": "檀健次的规划是进组",
+        "onboard_time": 1735910300,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231319,
+        "num": 231319,
+        "word": "潘展乐被美国泳坛杂志评为世界第一",
+        "onboard_time": 1735907240,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23902,
+        "num": 231121,
+        "word": "一汽大众ID有权益是真给啊",
+        "onboard_time": 1735909279,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1108296,
+        "num": 230184,
+        "word": "2024年顶流格局",
+        "onboard_time": 1735907359,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40968,
+        "num": 229291,
+        "word": "领克900首发亮相",
+        "onboard_time": 1735909819,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 284532,
+        "num": 227953,
+        "word": "原来这就是不胖和好瘦的区别",
+        "onboard_time": 1735910601,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 260440,
+        "num": 226949,
+        "word": "孙颖莎 肯德基",
+        "onboard_time": 1735900819,
+        "rank": 33,
+        "category": "体育,美食"
+      },
+      {
+        "raw_hot": 226413,
+        "num": 226413,
+        "word": "杨紫白鹿新剧定档同一天",
+        "onboard_time": 1735896980,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223636,
+        "num": 223636,
+        "word": "老人在自家熏腊肉被罚200元",
+        "onboard_time": 1735906460,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223431,
+        "num": 223431,
+        "word": "张艺兴直播",
+        "onboard_time": 1735908979,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207998,
+        "num": 207998,
+        "word": "九重紫年度爆款剧集",
+        "onboard_time": 1735906820,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194037,
+        "num": 194037,
+        "word": "华晨宇把耳后纹身放在了封面上",
+        "onboard_time": 1735899020,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 178200,
+        "num": 178200,
+        "word": "胖东来规定员工结婚不许收付彩礼",
+        "onboard_time": 1735898480,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175904,
+        "num": 175904,
+        "word": "王暖暖回应被家暴16次女子直播带货",
+        "onboard_time": 1735906460,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169713,
+        "num": 169713,
+        "word": "世界之外直播",
+        "onboard_time": 1735907479,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165857,
+        "num": 165857,
+        "word": "微博之夜年度推荐",
+        "onboard_time": 1735900399,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165275,
+        "num": 165275,
+        "word": "宋雨琦让张真源看看路透",
+        "onboard_time": 1735906579,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163698,
+        "num": 163698,
+        "word": "以为是人吃的结果他喂猪了",
+        "onboard_time": 1735908080,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159572,
+        "num": 159572,
+        "word": "有币商银行门口2倍价格收蛇钞",
+        "onboard_time": 1735909941,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 158688,
+        "num": 158688,
+        "word": "永夜星河获奖",
+        "onboard_time": 1735901778,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147729,
+        "num": 147729,
+        "word": "福宝逐步适应新家环境",
+        "onboard_time": 1735903279,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143780,
+        "num": 143780,
+        "word": "张一山瘦了好多",
+        "onboard_time": 1735883180,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138478,
+        "num": 138478,
+        "word": "年轻人已经开始预制新年朋友圈了",
+        "onboard_time": 1735908859,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席赞美奋斗追梦人#"
+    }
+  }
+}
