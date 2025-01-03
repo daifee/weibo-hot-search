@@ -1,6 +1,6 @@
 {
   "startTime": 1735835273269,
-  "endTime": 1735892907379,
+  "endTime": 1735893694630,
   "band_list": [
     {
       "raw_hot": 2979441,
@@ -17,6 +17,14 @@
       "onboard_time": 1735874540,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1979803,
+      "num": 1979803,
+      "word": "胖东来公布员工结婚执行标准",
+      "onboard_time": 1735891459,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1862422,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1431979,
-      "num": 488574,
+      "num": 496069,
       "word": "鱿鱼游戏吴京",
       "onboard_time": 1735890917,
       "rank": 3,
@@ -65,14 +73,6 @@
       "onboard_time": 1735884740,
       "rank": 11,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 1180862,
-      "num": 1188937,
-      "word": "胖东来公布员工结婚执行标准",
-      "onboard_time": 1735891459,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1126166,
@@ -105,6 +105,14 @@
       "onboard_time": 1735831580,
       "rank": 4,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 835917,
+      "num": 297564,
+      "word": "被家暴16次女子直播带货",
+      "onboard_time": 1735892540,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 818752,
@@ -259,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 509789,
+      "num": 509789,
+      "word": "陈楚生曾多次拒绝参加快男的原因",
+      "onboard_time": 1735889299,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 506652,
       "num": 506652,
       "word": "大奉打更人热度",
@@ -361,14 +377,6 @@
       "onboard_time": 1735886239,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 445761,
-      "num": 445761,
-      "word": "陈楚生曾多次拒绝参加快男的原因",
-      "onboard_time": 1735889299,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 442488,
@@ -595,6 +603,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 316129,
+      "num": 279414,
+      "word": "王楚钦和许昕儿子合照",
+      "onboard_time": 1735892929,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 313307,
       "num": 313307,
       "word": "广东一老人买药材煲汤中毒身亡",
@@ -619,18 +635,18 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 307414,
-      "num": 238778,
-      "word": "13薪和年终奖是有区别的",
-      "onboard_time": 1735866440,
+      "raw_hot": 307849,
+      "num": 256686,
+      "word": "考公人真的很害怕过年",
+      "onboard_time": 1735891699,
       "rank": 20,
       "category": "情感"
     },
     {
-      "raw_hot": 299157,
-      "num": 256686,
-      "word": "考公人真的很害怕过年",
-      "onboard_time": 1735891699,
+      "raw_hot": 307414,
+      "num": 238778,
+      "word": "13薪和年终奖是有区别的",
+      "onboard_time": 1735866440,
       "rank": 20,
       "category": "情感"
     },
@@ -689,14 +705,6 @@
       "onboard_time": 1735875560,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 262188,
-      "num": 254256,
-      "word": "被家暴16次女子直播带货",
-      "onboard_time": 1735892540,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 261875,
@@ -912,6 +920,14 @@
       "word": "全红婵当选2024最佳女子跳水运动员",
       "onboard_time": 1735865120,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 211252,
+      "num": 181257,
+      "word": "孙颖莎代言",
+      "onboard_time": 1735892660,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -1163,6 +1179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 184569,
+      "num": 259229,
+      "word": "宋雨琦首个内娱红毯",
+      "onboard_time": 1735893440,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 183468,
       "num": 183468,
       "word": "原来端着碗吃饭能让脸变好看",
@@ -1177,14 +1201,6 @@
       "onboard_time": 1735873578,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 181257,
-      "num": 181257,
-      "word": "孙颖莎代言",
-      "onboard_time": 1735892660,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 180326,
@@ -1257,6 +1273,14 @@
       "onboard_time": 1735880241,
       "rank": 40,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 169438,
+      "num": 169438,
+      "word": "广东女子错买断肠草煲汤致中毒身亡",
+      "onboard_time": 1735892240,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168676,
@@ -1459,6 +1483,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 147960,
+      "num": 297778,
+      "word": "重温嫦娥四号登月影像依然激动",
+      "onboard_time": 1735893022,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 147476,
       "num": 389899,
       "word": "男子利用小程序Bug逃匿28万加油费",
@@ -1571,12 +1603,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136677,
+      "num": 136677,
+      "word": "李宏伟杀回来不怕冻鱼了",
+      "onboard_time": 1735893260,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135637,
       "num": 215264,
       "word": "丁禹兮跨年晚会幕后花絮",
       "onboard_time": 1735885941,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135451,
+      "num": 135451,
+      "word": "林高远教王逢陈打乒乓球",
+      "onboard_time": 1735893561,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 133979,
+      "num": 264068,
+      "word": "云南一学校多名学生出现呕吐腹泻",
+      "onboard_time": 1735891639,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132731,
@@ -1601,6 +1657,14 @@
       "onboard_time": 1735866259,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 128964,
+      "num": 128964,
+      "word": "听人聊天能月入三万吗",
+      "onboard_time": 1735891822,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128356,
@@ -1633,6 +1697,14 @@
       "onboard_time": 1735867879,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125168,
+      "num": 125168,
+      "word": "华晨宇来了也得等8小时",
+      "onboard_time": 1735893561,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 124040,
@@ -2011,14 +2083,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 64231,
-      "num": 264068,
-      "word": "云南一学校多名学生出现呕吐腹泻",
-      "onboard_time": 1735891639,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64204,
       "num": 324252,
       "word": "民航局回应近期外航安全事故",
@@ -2073,6 +2137,14 @@
       "onboard_time": 1735854670,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54378,
+      "num": 259717,
+      "word": "原来这些剧已经是20年前了",
+      "onboard_time": 1735892840,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 51270,
@@ -2331,14 +2403,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 25370,
-      "num": 259717,
-      "word": "原来这些剧已经是20年前了",
-      "onboard_time": 1735892840,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 23502,
       "num": 23502,
       "word": "中国顶尖舞者推广大使王一博",
@@ -2425,6 +2489,14 @@
       "onboard_time": 1735857073,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 10348,
+      "num": 177941,
+      "word": "林高远说最近单打状态不是很好",
+      "onboard_time": 1735893561,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 8524,
