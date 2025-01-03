@@ -1,6 +1,6 @@
 {
   "startTime": 1735835273269,
-  "endTime": 1735885863270,
+  "endTime": 1735886644821,
   "band_list": [
     {
       "raw_hot": 2979441,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1247426,
+      "num": 409589,
+      "word": "防漏姨妈内裤居然里面加一层塑料膜",
+      "onboard_time": 1735884740,
+      "rank": 11,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 1126166,
       "num": 1180186,
       "word": "偏我来时不逢丁",
@@ -67,14 +75,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1044221,
-      "num": 409589,
-      "word": "防漏姨妈内裤居然里面加一层塑料膜",
-      "onboard_time": 1735884740,
-      "rank": 11,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 951115,
       "num": 951115,
       "word": "宁夏地震局",
@@ -89,6 +89,14 @@
       "onboard_time": 1735844712,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 797669,
+      "num": 403887,
+      "word": "张一山瘦了好多",
+      "onboard_time": 1735883180,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 789257,
@@ -123,12 +131,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 740887,
-      "num": 403887,
-      "word": "张一山瘦了好多",
-      "onboard_time": 1735883180,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 710441,
+      "num": 388883,
+      "word": "德国电价跌至0以下",
+      "onboard_time": 1735884260,
+      "rank": 15,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 705846,
@@ -307,14 +315,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 471462,
-      "num": 388883,
-      "word": "德国电价跌至0以下",
-      "onboard_time": 1735884260,
-      "rank": 15,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 442488,
       "num": 442488,
       "word": "现在拨打的电话",
@@ -353,6 +353,14 @@
       "onboard_time": 1735879521,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 420730,
+      "num": 420730,
+      "word": "甄嬛传晚会直播8小时",
+      "onboard_time": 1735885160,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 420165,
@@ -539,6 +547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 297513,
+      "num": 333215,
+      "word": "内娱明星的工作量统一按G算",
+      "onboard_time": 1735883059,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 297123,
       "num": 346402,
       "word": "韩国公调处出发执行尹锡悦逮捕令",
@@ -571,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 277561,
+      "num": 277561,
+      "word": "张继科回怼被指蹭国乒热度",
+      "onboard_time": 1735885579,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 268390,
       "num": 268390,
       "word": "谁家电视剧第一集就亲啊",
@@ -601,6 +625,14 @@
       "onboard_time": 1735870939,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254928,
+      "num": 254928,
+      "word": "上海258元一份的蛋炒饭",
+      "onboard_time": 1735880601,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 249999,
@@ -657,14 +689,6 @@
       "onboard_time": 1735876278,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 234829,
-      "num": 333215,
-      "word": "内娱明星的工作量统一按G算",
-      "onboard_time": 1735883059,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 233805,
@@ -739,12 +763,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 216547,
-      "num": 216547,
-      "word": "上海258元一份的蛋炒饭",
-      "onboard_time": 1735880601,
-      "rank": 36,
-      "category": "美食"
+      "raw_hot": 217214,
+      "num": 424374,
+      "word": "装了热水的保温杯千万别晃",
+      "onboard_time": 1735884799,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 215795,
@@ -769,14 +793,6 @@
       "onboard_time": 1735865120,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 207659,
-      "num": 239081,
-      "word": "甄嬛传晚会直播8小时",
-      "onboard_time": 1735885160,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 202615,
@@ -817,6 +833,14 @@
       "onboard_time": 1735878260,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 197984,
+      "num": 280394,
+      "word": "邓紫棋 当两个星系相撞",
+      "onboard_time": 1735886058,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 197322,
@@ -931,6 +955,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190075,
+      "num": 211558,
+      "word": "华晨宇六专预告",
+      "onboard_time": 1735886119,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 190040,
+      "num": 214305,
+      "word": "李行亮麦琳 双向拯救文学",
+      "onboard_time": 1735885100,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189621,
       "num": 189621,
       "word": "快乐再出发",
@@ -945,14 +985,6 @@
       "onboard_time": 1735877241,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 188923,
-      "num": 424374,
-      "word": "装了热水的保温杯千万别晃",
-      "onboard_time": 1735884799,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 184968,
@@ -1019,14 +1051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173037,
-      "num": 173037,
-      "word": "李行亮麦琳 双向拯救文学",
-      "onboard_time": 1735885100,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 170873,
       "num": 325413,
       "word": "中学招聘教师有硕博学历无可厚非",
@@ -1051,6 +1075,14 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 169316,
+      "num": 169316,
+      "word": "新年美甲",
+      "onboard_time": 1735884141,
+      "rank": 36,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 168676,
       "num": 301703,
       "word": "王曼昱让我亲",
@@ -1067,14 +1099,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 167409,
-      "num": 167409,
-      "word": "新年美甲",
-      "onboard_time": 1735884141,
-      "rank": 36,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 165032,
       "num": 322937,
       "word": "2025跨年最佳舞台TOP3",
@@ -1089,14 +1113,6 @@
       "onboard_time": 1735822219,
       "rank": 32,
       "category": "美食"
-    },
-    {
-      "raw_hot": 164104,
-      "num": 164104,
-      "word": "张继科回怼被指蹭国乒热度",
-      "onboard_time": 1735885579,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 163570,
@@ -1121,6 +1137,14 @@
       "onboard_time": 1735878142,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 161819,
+      "num": 161819,
+      "word": "上海有偿占座男子已被警方行拘",
+      "onboard_time": 1735886239,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160220,
@@ -1243,6 +1267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144597,
+      "num": 144597,
+      "word": "德普22岁儿子近照",
+      "onboard_time": 1735885639,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141589,
       "num": 141589,
       "word": "肖战蝉联第6年世首帅",
@@ -1307,6 +1339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135637,
+      "num": 215264,
+      "word": "丁禹兮跨年晚会幕后花絮",
+      "onboard_time": 1735885941,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132731,
       "num": 132731,
       "word": "29省份上线医保定点药店比价小程序",
@@ -1331,8 +1371,16 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 128277,
+      "num": 220304,
+      "word": "王鹤棣读弹幕被按了音量键",
+      "onboard_time": 1735884380,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126870,
-      "num": 126870,
+      "num": 246165,
       "word": "库里三分8中8",
       "onboard_time": 1735883420,
       "rank": 45,
@@ -1353,14 +1401,6 @@
       "onboard_time": 1735853112,
       "rank": 9,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 123937,
-      "num": 123937,
-      "word": "德普22岁儿子近照",
-      "onboard_time": 1735885639,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 121899,
@@ -1515,14 +1555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104984,
-      "num": 220304,
-      "word": "王鹤棣读弹幕被按了音量键",
-      "onboard_time": 1735884380,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 104706,
       "num": 104706,
       "word": "火星情报局导演给赵露思发声",
@@ -1603,6 +1635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 92704,
+      "num": 281460,
+      "word": "微博之夜张真源的赛博搭子",
+      "onboard_time": 1735885340,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 86644,
       "num": 259015,
       "word": "专家称老百姓消费少跟收入分配有关",
@@ -1631,6 +1671,14 @@
       "num": 217598,
       "word": "证监会辟谣释放全部利空传言",
       "onboard_time": 1735884679,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 79709,
+      "num": 214674,
+      "word": "A股调整什么原因",
+      "onboard_time": 1735885999,
       "rank": 29,
       "category": "财经"
     },
@@ -1795,14 +1843,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 43338,
-      "num": 281460,
-      "word": "微博之夜张真源的赛博搭子",
-      "onboard_time": 1735885340,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 42756,
       "num": 123993,
       "word": "广东过年吃饭相当于讲吉祥话",
@@ -1860,7 +1900,7 @@
     },
     {
       "raw_hot": 34582,
-      "num": 202063,
+      "num": 239236,
       "word": "微博之夜刘浩存的赛博搭子",
       "onboard_time": 1735882580,
       "rank": 37,
@@ -1915,12 +1955,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 29352,
+      "num": 238402,
+      "word": "打开2025年的中国时刻",
+      "onboard_time": 1735885879,
+      "rank": 25,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 28676,
       "num": 137674,
       "word": "沉浸式拆毛绒杯盲盒",
       "onboard_time": 1735873519,
       "rank": 43,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 27892,
+      "num": 405099,
+      "word": "中国航天一日五试",
+      "onboard_time": 1735885879,
+      "rank": 9,
+      "category": "军事"
     },
     {
       "raw_hot": 26247,
@@ -2011,6 +2067,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 8524,
+      "num": 517724,
+      "word": "2025就是要充满passion",
+      "onboard_time": 1735886419,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 6554,
       "num": 59307,
       "word": "王昱珩说企鹅不都在南极",
@@ -2025,6 +2089,9 @@
     },
     {
       "word": "#亿万个你我汇聚成中国#"
+    },
+    {
+      "word": "#习近平新年贺词里的大国工程#"
     }
   ]
 }
