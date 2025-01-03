@@ -1,6 +1,6 @@
 {
   "startTime": 1735835273269,
-  "endTime": 1735903131930,
+  "endTime": 1735904146177,
   "band_list": [
     {
       "raw_hot": 2979441,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1568621,
-      "num": 418872,
+      "num": 438684,
       "word": "李小冉 都说了让你说话注意点",
       "onboard_time": 1735895179,
       "rank": 15,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1247426,
-      "num": 409589,
+      "num": 423432,
       "word": "防漏姨妈内裤居然里面加一层塑料膜",
       "onboard_time": 1735884740,
       "rank": 11,
@@ -145,6 +145,14 @@
       "onboard_time": 1735892929,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 872661,
+      "num": 1139625,
+      "word": "电竞文男主有脸了",
+      "onboard_time": 1735900819,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 818752,
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 560735,
-      "num": 398087,
+      "num": 410237,
       "word": "祝绪丹杨仕泽一起去澳门",
       "onboard_time": 1735899980,
       "rank": 13,
@@ -355,6 +363,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 532792,
+      "num": 532792,
+      "word": "永夜星河获奖",
+      "onboard_time": 1735901778,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 531762,
       "num": 531762,
       "word": "留几手问葛夕能再要个孩子吗",
@@ -379,12 +395,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 512447,
-      "num": 512447,
-      "word": "永夜星河获奖",
-      "onboard_time": 1735901778,
-      "rank": 3,
-      "category": "剧集"
+      "raw_hot": 513116,
+      "num": 469442,
+      "word": "四大预爆艺人微博之夜来了仨",
+      "onboard_time": 1735900761,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 509789,
@@ -475,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 476158,
+      "num": 476158,
+      "word": "八省联考",
+      "onboard_time": 1735900879,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 475127,
       "num": 475127,
       "word": "对600万人说慢一点没关系",
@@ -491,12 +515,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 474061,
+      "num": 278359,
+      "word": "孙颖莎 肯德基",
+      "onboard_time": 1735900819,
+      "rank": 26,
+      "category": "体育,美食"
+    },
+    {
       "raw_hot": 453532,
       "num": 453532,
       "word": "上海有偿占座男子已被警方行拘",
       "onboard_time": 1735886239,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 450790,
+      "num": 450790,
+      "word": "这回终于有人接住白鹿了",
+      "onboard_time": 1735900040,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 442488,
@@ -539,6 +579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 426189,
+      "num": 426189,
+      "word": "金星伴月",
+      "onboard_time": 1735900879,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 420165,
       "num": 420165,
       "word": "微博之夜第二波阵容",
@@ -561,14 +609,6 @@
       "onboard_time": 1735829240,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 402761,
-      "num": 382453,
-      "word": "这回终于有人接住白鹿了",
-      "onboard_time": 1735900040,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 392146,
@@ -595,12 +635,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 384019,
-      "num": 384019,
-      "word": "电竞文男主有脸了",
-      "onboard_time": 1735900819,
-      "rank": 5,
-      "category": "电竞"
+      "raw_hot": 380410,
+      "num": 380410,
+      "word": "抢到蛇钞直接赚一倍",
+      "onboard_time": 1735899740,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 379252,
+      "num": 419864,
+      "word": "胖东来规定员工结婚不许收付彩礼",
+      "onboard_time": 1735898480,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 379067,
@@ -683,14 +731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 355901,
-      "num": 419864,
-      "word": "胖东来规定员工结婚不许收付彩礼",
-      "onboard_time": 1735898480,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 355119,
       "num": 355119,
       "word": "年前金价下跌年轻人再掀淘金热",
@@ -739,14 +779,6 @@
       "category": "艺人,健康医疗"
     },
     {
-      "raw_hot": 334164,
-      "num": 294242,
-      "word": "金星伴月",
-      "onboard_time": 1735900879,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 331652,
       "num": 321237,
       "word": "森碟下巴后缩严重",
@@ -761,6 +793,14 @@
       "onboard_time": 1735861097,
       "rank": 14,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 327269,
+      "num": 207198,
+      "word": "瘦了50斤的面部折叠度",
+      "onboard_time": 1735903698,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 324194,
@@ -803,6 +843,14 @@
       "category": "海外新闻,网红"
     },
     {
+      "raw_hot": 311689,
+      "num": 441098,
+      "word": "胖东来员工结婚无力购置房车可先租房",
+      "onboard_time": 1735902920,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 311401,
       "num": 311401,
       "word": "三花不愧是猫届美女",
@@ -827,6 +875,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 305786,
+      "num": 305786,
+      "word": "刘亦菲刘诗诗同登芭莎开年刊",
+      "onboard_time": 1735900640,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 303891,
+      "num": 303891,
+      "word": "华晨宇把耳后纹身放在了封面上",
+      "onboard_time": 1735899020,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 297513,
       "num": 333215,
       "word": "内娱明星的工作量统一按G算",
@@ -841,14 +905,6 @@
       "onboard_time": 1735859416,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 297047,
-      "num": 297047,
-      "word": "刘亦菲刘诗诗同登芭莎开年刊",
-      "onboard_time": 1735900640,
-      "rank": 25,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 296228,
@@ -883,30 +939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 290093,
-      "num": 290093,
-      "word": "抢到蛇钞直接赚一倍",
-      "onboard_time": 1735899740,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 289979,
-      "num": 290302,
-      "word": "八省联考",
-      "onboard_time": 1735900879,
-      "rank": 24,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 278359,
-      "num": 278359,
-      "word": "孙颖莎 肯德基",
-      "onboard_time": 1735900819,
-      "rank": 26,
-      "category": "体育,美食"
-    },
-    {
       "raw_hot": 268390,
       "num": 268390,
       "word": "谁家电视剧第一集就亲啊",
@@ -929,14 +961,6 @@
       "onboard_time": 1735879641,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 258530,
-      "num": 258530,
-      "word": "华晨宇把耳后纹身放在了封面上",
-      "onboard_time": 1735899020,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 257550,
@@ -1081,14 +1105,6 @@
       "onboard_time": 1735902141,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 230154,
-      "num": 230154,
-      "word": "四大预爆艺人微博之夜来了仨",
-      "onboard_time": 1735900761,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 229400,
@@ -1363,6 +1379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 193483,
+      "num": 193483,
+      "word": "严浩翔蝴蝶结比心",
+      "onboard_time": 1735903099,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193233,
       "num": 193233,
       "word": "逮捕尹锡悦这一早上发生了什么",
@@ -1619,6 +1643,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 171991,
+      "num": 348030,
+      "word": "丁禹兮首次参加微博之夜",
+      "onboard_time": 1735903579,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 171660,
+      "num": 229093,
+      "word": "WTT完全支持国际乒联工作组",
+      "onboard_time": 1735902381,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170873,
       "num": 325413,
       "word": "中学招聘教师有硕博学历无可厚非",
@@ -1697,6 +1737,14 @@
       "onboard_time": 1735872078,
       "rank": 41,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 163236,
+      "num": 163236,
+      "word": "福宝逐步适应新家环境",
+      "onboard_time": 1735903279,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162160,
@@ -1873,6 +1921,22 @@
       "onboard_time": 1735890141,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149575,
+      "num": 149575,
+      "word": "地震瞬间这个回头太帅了",
+      "onboard_time": 1735903460,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149380,
+      "num": 149380,
+      "word": "丁禹兮时装开年刊双封",
+      "onboard_time": 1735903940,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 149319,
@@ -2107,14 +2171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135473,
-      "num": 229093,
-      "word": "WTT完全支持国际乒联工作组",
-      "onboard_time": 1735902381,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 135451,
       "num": 135451,
       "word": "林高远教王逢陈打乒乓球",
@@ -2123,20 +2179,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134648,
+      "num": 134648,
+      "word": "网球王子 帅的好夸张",
+      "onboard_time": 1735903820,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 133979,
       "num": 264068,
       "word": "云南一学校多名学生出现呕吐腹泻",
       "onboard_time": 1735891639,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 133965,
-      "num": 133965,
-      "word": "严浩翔蝴蝶结比心",
-      "onboard_time": 1735903099,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 133002,
@@ -2177,14 +2233,6 @@
       "onboard_time": 1735901900,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 131184,
-      "num": 296456,
-      "word": "胖东来员工结婚无力购置房车可先租房",
-      "onboard_time": 1735902920,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 130734,
@@ -2780,7 +2828,7 @@
     },
     {
       "raw_hot": 45500,
-      "num": 423890,
+      "num": 446030,
       "word": "24小时看奋进中国",
       "onboard_time": 1735899260,
       "rank": 8,
@@ -3129,6 +3177,14 @@
       "onboard_time": 1735846151,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 11978,
+      "num": 304369,
+      "word": "王曼昱谈如何面对压力和低谷",
+      "onboard_time": 1735903220,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 11865,

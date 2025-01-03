@@ -1,0 +1,410 @@
+{
+  "runTime": 1735904146177,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 872661,
+        "num": 1139625,
+        "word": "电竞文男主有脸了",
+        "onboard_time": 1735900819,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 593720,
+        "num": 593720,
+        "word": "杨紫白鹿新剧定档同一天",
+        "onboard_time": 1735896980,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43271,
+        "num": 541165,
+        "word": "一图读懂中国经济高质量发展成绩单",
+        "onboard_time": 1735899440,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 532792,
+        "num": 532792,
+        "word": "永夜星河获奖",
+        "onboard_time": 1735901778,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 500615,
+        "num": 500615,
+        "word": "洛杉矶旅游局向樊振东发来邀请",
+        "onboard_time": 1735898121,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 476158,
+        "num": 476158,
+        "word": "八省联考",
+        "onboard_time": 1735900879,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 513116,
+        "num": 469442,
+        "word": "四大预爆艺人微博之夜来了仨",
+        "onboard_time": 1735900761,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 450790,
+        "num": 450790,
+        "word": "这回终于有人接住白鹿了",
+        "onboard_time": 1735900040,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43547,
+        "num": 446030,
+        "word": "24小时看奋进中国",
+        "onboard_time": 1735899260,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 311689,
+        "num": 441098,
+        "word": "胖东来员工结婚无力购置房车可先租房",
+        "onboard_time": 1735902920,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 940003,
+        "num": 438684,
+        "word": "李小冉 都说了让你说话注意点",
+        "onboard_time": 1735895179,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 573349,
+        "num": 435963,
+        "word": "迪丽热巴突然出现拍了拍大家",
+        "onboard_time": 1735898301,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 455830,
+        "num": 426768,
+        "word": "田亮女儿进行下巴后缩矫正",
+        "onboard_time": 1735874540,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426189,
+        "num": 426189,
+        "word": "金星伴月",
+        "onboard_time": 1735900879,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 423432,
+        "num": 423432,
+        "word": "防漏姨妈内裤居然里面加一层塑料膜",
+        "onboard_time": 1735884740,
+        "rank": 14,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 410237,
+        "num": 410237,
+        "word": "祝绪丹杨仕泽一起去澳门",
+        "onboard_time": 1735899980,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380410,
+        "num": 380410,
+        "word": "抢到蛇钞直接赚一倍",
+        "onboard_time": 1735899740,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 379252,
+        "num": 379252,
+        "word": "胖东来规定员工结婚不许收付彩礼",
+        "onboard_time": 1735898480,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 375970,
+        "num": 375970,
+        "word": "美方正考虑禁止中国无人机进入美国",
+        "onboard_time": 1735893919,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 171991,
+        "num": 348030,
+        "word": "丁禹兮首次参加微博之夜",
+        "onboard_time": 1735903579,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 946239,
+        "num": 346897,
+        "word": "王一博方辟谣",
+        "onboard_time": 1735896682,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 495798,
+        "num": 341319,
+        "word": "胖东来公布员工结婚执行标准",
+        "onboard_time": 1735891459,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330546,
+        "num": 330546,
+        "word": "俄乌士兵近身肉搏画面",
+        "onboard_time": 1735895420,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 305786,
+        "num": 305786,
+        "word": "刘亦菲刘诗诗同登芭莎开年刊",
+        "onboard_time": 1735900640,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 11978,
+        "num": 304369,
+        "word": "王曼昱谈如何面对压力和低谷",
+        "onboard_time": 1735903220,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303891,
+        "num": 303891,
+        "word": "华晨宇把耳后纹身放在了封面上",
+        "onboard_time": 1735899020,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279796,
+        "num": 279796,
+        "word": "微博之夜官宣顺序按微博名称首字母",
+        "onboard_time": 1735899680,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 248343,
+        "num": 248343,
+        "word": "5斤整装车厘子复秤少半斤",
+        "onboard_time": 1735896081,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229920,
+        "num": 229920,
+        "word": "八省联考数学",
+        "onboard_time": 1735896501,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 220201,
+        "num": 220201,
+        "word": "王一博成毅檀健次跨年舞台TOP3",
+        "onboard_time": 1735902141,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 474061,
+        "num": 212903,
+        "word": "孙颖莎 肯德基",
+        "onboard_time": 1735900819,
+        "rank": 30,
+        "category": "体育,美食"
+      },
+      {
+        "raw_hot": 327269,
+        "num": 207198,
+        "word": "瘦了50斤的面部折叠度",
+        "onboard_time": 1735903698,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196602,
+        "num": 196602,
+        "word": "张一山瘦了好多",
+        "onboard_time": 1735883180,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193483,
+        "num": 193483,
+        "word": "严浩翔蝴蝶结比心",
+        "onboard_time": 1735903099,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178374,
+        "num": 178374,
+        "word": "孙颖莎周边",
+        "onboard_time": 1735890859,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177803,
+        "num": 177803,
+        "word": "陈乔恩吐槽餐厅奇葩规定",
+        "onboard_time": 1735902019,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174088,
+        "num": 174088,
+        "word": "建议周三设为永久节假日",
+        "onboard_time": 1735898420,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 171660,
+        "num": 171660,
+        "word": "WTT完全支持国际乒联工作组",
+        "onboard_time": 1735902381,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164518,
+        "num": 164518,
+        "word": "微博之夜 内娱一年一度鹊桥相会",
+        "onboard_time": 1735900580,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163236,
+        "num": 163236,
+        "word": "福宝逐步适应新家环境",
+        "onboard_time": 1735903279,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154479,
+        "num": 154479,
+        "word": "清华女硕士回应失业转行学厨",
+        "onboard_time": 1735896260,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153461,
+        "num": 153461,
+        "word": "宋雨琦首个内娱红毯",
+        "onboard_time": 1735893440,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 151557,
+        "num": 151557,
+        "word": "广东女子错买断肠草煲汤致中毒身亡",
+        "onboard_time": 1735892240,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149575,
+        "num": 149575,
+        "word": "地震瞬间这个回头太帅了",
+        "onboard_time": 1735903460,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149380,
+        "num": 149380,
+        "word": "丁禹兮时装开年刊双封",
+        "onboard_time": 1735903940,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 134648,
+        "num": 134648,
+        "word": "网球王子 帅的好夸张",
+        "onboard_time": 1735903820,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 133779,
+        "num": 133779,
+        "word": "WTT不能做饭难吃还不许点外卖",
+        "onboard_time": 1735901541,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133493,
+        "num": 133493,
+        "word": "孔雪儿 麻辣女教师",
+        "onboard_time": 1735897701,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 132803,
+        "num": 132803,
+        "word": "YG新男团预告",
+        "onboard_time": 1735894279,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131015,
+        "num": 131015,
+        "word": "长大后的童年报复性补偿行为",
+        "onboard_time": 1735901900,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#24小时看奋进中国#"
+    }
+  }
+}
