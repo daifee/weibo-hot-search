@@ -1,6 +1,6 @@
 {
   "startTime": 1735921654212,
-  "endTime": 1735942845535,
+  "endTime": 1735943900482,
   "band_list": [
     {
       "raw_hot": 1489080,
@@ -227,6 +227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 171558,
+      "num": 171913,
+      "word": "韩国空难机长遇难前最后动作被拍下",
+      "onboard_time": 1735935671,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 171077,
       "num": 157553,
       "word": "为什么现在秋衣秋裤要这样设计",
@@ -257,14 +265,6 @@
       "onboard_time": 1735905979,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 142713,
-      "num": 171913,
-      "word": "韩国空难机长遇难前最后动作被拍下",
-      "onboard_time": 1735935671,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 139928,
@@ -531,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28198,
+      "num": 73596,
+      "word": "蛇钞年后溢价预计会收窄",
+      "onboard_time": 1735942032,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 27953,
       "num": 68036,
       "word": "广州福彩回应一站点中101注一等奖",
@@ -635,28 +643,20 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 13061,
+      "num": 91453,
+      "word": "胖东来员工收付彩礼将被取消福利",
+      "onboard_time": 1735942751,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10320,
       "num": 20451,
       "word": "2025高燃大场面上新",
       "onboard_time": 1735938310,
       "rank": 27,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 9572,
-      "num": 73596,
-      "word": "蛇钞年后溢价预计会收窄",
-      "onboard_time": 1735942032,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 8722,
-      "num": 19484,
-      "word": "胖东来员工收付彩礼将被取消福利",
-      "onboard_time": 1735942751,
-      "rank": 35,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
