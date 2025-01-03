@@ -1,6 +1,6 @@
 {
   "startTime": 1735921654212,
-  "endTime": 1735936599258,
+  "endTime": 1735939215571,
   "band_list": [
     {
       "raw_hot": 1489080,
@@ -331,6 +331,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 102544,
+      "num": 124757,
+      "word": "韩国空难机长遇难前最后动作被拍下",
+      "onboard_time": 1735935671,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 101612,
       "num": 101612,
       "word": "G2官宣NiKo离队",
@@ -539,14 +547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24023,
-      "num": 46179,
-      "word": "韩国空难机长遇难前最后动作被拍下",
-      "onboard_time": 1735935671,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 23791,
       "num": 48222,
       "word": "地震瞬间他一把背起行动不便同学",
@@ -619,12 +619,28 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 11796,
+      "raw_hot": 14001,
       "num": 16637,
       "word": "严格规范涉企行政检查",
       "onboard_time": 1735935611,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10878,
+      "num": 20949,
+      "word": "王海大队飞行员讲述空中拼刺刀经历",
+      "onboard_time": 1735939031,
+      "rank": 24,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 10320,
+      "num": 20451,
+      "word": "2025高燃大场面上新",
+      "onboard_time": 1735938310,
+      "rank": 27,
+      "category": "正能量"
     }
   ],
   "hotgov_list": [
