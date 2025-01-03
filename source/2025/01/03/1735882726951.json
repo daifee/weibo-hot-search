@@ -1,0 +1,410 @@
+{
+  "runTime": 1735882726951,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1229760,
+        "num": 1229760,
+        "word": "蛇钞",
+        "onboard_time": 1735870699,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 822529,
+        "num": 822529,
+        "word": "00后为了局部退休疯狂存钱",
+        "onboard_time": 1735874118,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30493,
+        "num": 648748,
+        "word": "这就是咱中国人的独家浪漫",
+        "onboard_time": 1735824141,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 641973,
+        "num": 641973,
+        "word": "偏我来时不逢丁",
+        "onboard_time": 1735880121,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 580346,
+        "num": 580346,
+        "word": "八省联考语文",
+        "onboard_time": 1735880060,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 550193,
+        "num": 550193,
+        "word": "尹锡悦逮捕令执行现场",
+        "onboard_time": 1735875560,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 538219,
+        "num": 538219,
+        "word": "女生清华毕业5年后去蓝翔全职学厨",
+        "onboard_time": 1735876461,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404076,
+        "num": 404076,
+        "word": "对600万人说慢一点没关系",
+        "onboard_time": 1735876881,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 381639,
+        "num": 381639,
+        "word": "韩国公调处停止执行尹锡悦逮捕令",
+        "onboard_time": 1735879521,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 66115,
+        "num": 361856,
+        "word": "尹锡悦律师团进入总统官邸",
+        "onboard_time": 1735880301,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1666869,
+        "num": 361641,
+        "word": "田亮女儿进行下巴后缩矫正",
+        "onboard_time": 1735874540,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 800829,
+        "num": 360881,
+        "word": "田亮回应网友质疑女儿下巴后缩严重",
+        "onboard_time": 1735873398,
+        "rank": 11,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 346658,
+        "num": 346658,
+        "word": "微博之夜第二波阵容",
+        "onboard_time": 1735878682,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 343229,
+        "num": 343229,
+        "word": "刘亦菲 灵蛇女王",
+        "onboard_time": 1735879820,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 42731,
+        "num": 325645,
+        "word": "蛇钞最高溢价150%",
+        "onboard_time": 1735882460,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 323953,
+        "num": 323953,
+        "word": "再见爱人牛了一整季",
+        "onboard_time": 1735877543,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323308,
+        "num": 323308,
+        "word": "张雪峰公司实行上4休3",
+        "onboard_time": 1735874299,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40109,
+        "num": 323148,
+        "word": "口头请病假被按旷工开除",
+        "onboard_time": 1735881380,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165032,
+        "num": 322937,
+        "word": "2025跨年最佳舞台TOP3",
+        "onboard_time": 1735881859,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38841,
+        "num": 322619,
+        "word": "蛇币蛇钞兑换首日有人转手就卖",
+        "onboard_time": 1735882401,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 379791,
+        "num": 322441,
+        "word": "小米SU7侧翻起火十余路人抬车救人",
+        "onboard_time": 1735869680,
+        "rank": 20,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 322378,
+        "num": 322378,
+        "word": "MCN老板说网红成功率比考清北低",
+        "onboard_time": 1735880660,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313163,
+        "num": 313163,
+        "word": "买手机平板智能手表手环能省钱了",
+        "onboard_time": 1735874899,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 44504,
+        "num": 276786,
+        "word": "田亮我相信我的小棉袄会越来越漂亮",
+        "onboard_time": 1735882639,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274912,
+        "num": 274912,
+        "word": "上海队为樊振东做奥运保障工作",
+        "onboard_time": 1735882038,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213606,
+        "num": 270927,
+        "word": "王鹤棣两次跨年状态的区别",
+        "onboard_time": 1735875080,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270698,
+        "num": 270698,
+        "word": "控糖60天的面部变化",
+        "onboard_time": 1735881320,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 44133,
+        "num": 266591,
+        "word": "清华92%毕业生在国内工作",
+        "onboard_time": 1735881859,
+        "rank": 27,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 108205,
+        "num": 260627,
+        "word": "张彬彬孙珍妮桃花芭莎大片",
+        "onboard_time": 1735881920,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86644,
+        "num": 259015,
+        "word": "专家称老百姓消费少跟收入分配有关",
+        "onboard_time": 1735881200,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147476,
+        "num": 249772,
+        "word": "男子利用小程序Bug逃匿28万加油费",
+        "onboard_time": 1735875380,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247901,
+        "num": 247901,
+        "word": "韩国公调处尝试抓捕尹锡悦",
+        "onboard_time": 1735867400,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 234124,
+        "num": 234124,
+        "word": "上4休3的好处已经显现出来了",
+        "onboard_time": 1735816100,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231876,
+        "num": 231876,
+        "word": "将实施手机等数码产品购新补贴",
+        "onboard_time": 1735878562,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 227689,
+        "num": 227689,
+        "word": "凯迪拉克 樊振东",
+        "onboard_time": 1735876040,
+        "rank": 34,
+        "category": "体育,汽车"
+      },
+      {
+        "raw_hot": 220841,
+        "num": 220841,
+        "word": "三花不愧是猫届美女",
+        "onboard_time": 1735877480,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206046,
+        "num": 206046,
+        "word": "上海258元一份的蛋炒饭",
+        "onboard_time": 1735880601,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 34582,
+        "num": 202063,
+        "word": "微博之夜刘浩存的赛博搭子",
+        "onboard_time": 1735882580,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201738,
+        "num": 201738,
+        "word": "龙钞",
+        "onboard_time": 1735878982,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 200415,
+        "num": 200415,
+        "word": "女子拒绝复合被泼汽油男方获刑12年",
+        "onboard_time": 1735874118,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191590,
+        "num": 191590,
+        "word": "黄景瑜回应拍恋爱戏就变夹",
+        "onboard_time": 1735878501,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189621,
+        "num": 189621,
+        "word": "快乐再出发",
+        "onboard_time": 1735881498,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187192,
+        "num": 187192,
+        "word": "广东一老人买药材煲汤中毒身亡",
+        "onboard_time": 1735882221,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174893,
+        "num": 174893,
+        "word": "健美运动员被关押9个月后瘦成人干",
+        "onboard_time": 1735878921,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174575,
+        "num": 174575,
+        "word": "张杰上海巡演官宣",
+        "onboard_time": 1735879641,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 92749,
+        "num": 170045,
+        "word": "误杀3 佟丽娅MVP结算画面",
+        "onboard_time": 1735882519,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170026,
+        "num": 170026,
+        "word": "刘强东曾收村民500元76个茶叶蛋",
+        "onboard_time": 1735882221,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 169652,
+        "num": 169652,
+        "word": "小米集团涨超5%创历史新高",
+        "onboard_time": 1735880241,
+        "rank": 47,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 165938,
+        "num": 165938,
+        "word": "王曼昱好帅",
+        "onboard_time": 1735875440,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164520,
+        "num": 164520,
+        "word": "颜安助理",
+        "onboard_time": 1735879160,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#亿万个你我汇聚成中国#"
+    }
+  }
+}

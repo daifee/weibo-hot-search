@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735881681620,
+  "endTime": 1735882726951,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -1083,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 641973,
+      "num": 641973,
+      "word": "偏我来时不逢丁",
+      "onboard_time": 1735880121,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 640378,
       "num": 535527,
       "word": "第一次见长发穿裙子的孙颖莎",
@@ -1257,6 +1265,14 @@
       "onboard_time": 1735824801,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 580346,
+      "num": 580346,
+      "word": "八省联考语文",
+      "onboard_time": 1735880060,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 576390,
@@ -1571,14 +1587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 465072,
-      "num": 465072,
-      "word": "八省联考语文",
-      "onboard_time": 1735880060,
-      "rank": 5,
-      "category": "教育"
-    },
-    {
       "raw_hot": 463717,
       "num": 463717,
       "word": "什么是抑郁症躯体化",
@@ -1779,14 +1787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 416798,
-      "num": 416798,
-      "word": "偏我来时不逢丁",
-      "onboard_time": 1735880121,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 416416,
       "num": 508812,
       "word": "江苏一中学招13名教师8名为博士",
@@ -1953,6 +1953,14 @@
       "onboard_time": 1735673714,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 381639,
+      "num": 381639,
+      "word": "韩国公调处停止执行尹锡悦逮捕令",
+      "onboard_time": 1735879521,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 379175,
@@ -2179,6 +2187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 343229,
+      "num": 355995,
+      "word": "刘亦菲 灵蛇女王",
+      "onboard_time": 1735879820,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 342790,
       "num": 342790,
       "word": "樊振东分享霉霉的Mean",
@@ -2291,14 +2307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 330173,
-      "num": 330173,
-      "word": "韩国公调处停止执行尹锡悦逮捕令",
-      "onboard_time": 1735879521,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 330131,
       "num": 330131,
       "word": "林诗栋点赞樊振东分享霉霉歌词的微博",
@@ -2355,6 +2363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 322378,
+      "num": 420331,
+      "word": "MCN老板说网红成功率比考清北低",
+      "onboard_time": 1735880660,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 321893,
       "num": 321893,
       "word": "拖米",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1735737562,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 318310,
-      "num": 448227,
-      "word": "元旦上4休3体验感如何",
-      "onboard_time": 1735786941,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 317471,
-      "num": 343581,
-      "word": "史上最薄iPhone渲染图来了",
-      "onboard_time": 1735788262,
-      "rank": 42,
-      "category": "数码"
     }
   ],
   "hotgov_list": [

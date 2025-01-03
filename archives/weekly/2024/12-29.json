@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735881681620,
+  "endTime": 1735882726951,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -2499,6 +2499,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 641973,
+      "num": 641973,
+      "word": "偏我来时不逢丁",
+      "onboard_time": 1735880121,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 641213,
       "num": 641213,
       "word": "提档",
@@ -2785,6 +2793,14 @@
       "onboard_time": 1735824801,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 580346,
+      "num": 580346,
+      "word": "八省联考语文",
+      "onboard_time": 1735880060,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 579544,
@@ -3579,14 +3595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 465072,
-      "num": 465072,
-      "word": "八省联考语文",
-      "onboard_time": 1735880060,
-      "rank": 5,
-      "category": "教育"
-    },
-    {
       "raw_hot": 463943,
       "num": 463943,
       "word": "徐明浩 不要买小卡",
@@ -4107,14 +4115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 416798,
-      "num": 416798,
-      "word": "偏我来时不逢丁",
-      "onboard_time": 1735880121,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 416479,
       "num": 416479,
       "word": "行程图",
@@ -4489,6 +4489,14 @@
       "onboard_time": 1735538960,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 381639,
+      "num": 381639,
+      "word": "韩国公调处停止执行尹锡悦逮捕令",
+      "onboard_time": 1735879521,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 379453,
@@ -4987,6 +4995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 343229,
+      "num": 355995,
+      "word": "刘亦菲 灵蛇女王",
+      "onboard_time": 1735879820,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 342790,
       "num": 342790,
       "word": "樊振东分享霉霉的Mean",
@@ -5187,14 +5203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 330173,
-      "num": 330173,
-      "word": "韩国公调处停止执行尹锡悦逮捕令",
-      "onboard_time": 1735879521,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 330131,
       "num": 330131,
       "word": "林诗栋点赞樊振东分享霉霉歌词的微博",
@@ -5345,6 +5353,14 @@
       "onboard_time": 1735477642,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 322378,
+      "num": 420331,
+      "word": "MCN老板说网红成功率比考清北低",
+      "onboard_time": 1735880660,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 321893,
@@ -6107,14 +6123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 280168,
-      "num": 355995,
-      "word": "刘亦菲 灵蛇女王",
-      "onboard_time": 1735879820,
-      "rank": 17,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 279322,
       "num": 279322,
       "word": "TF家族2025跨年节目单",
@@ -6187,6 +6195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 274912,
+      "num": 274912,
+      "word": "上海队为樊振东做奥运保障工作",
+      "onboard_time": 1735882038,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 274692,
       "num": 363046,
       "word": "上海大屏为樊振东新的一年打call",
@@ -6249,6 +6265,14 @@
       "onboard_time": 1735742843,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 270698,
+      "num": 270698,
+      "word": "控糖60天的面部变化",
+      "onboard_time": 1735881320,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 270403,
@@ -8275,6 +8299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206046,
+      "num": 206046,
+      "word": "上海258元一份的蛋炒饭",
+      "onboard_time": 1735880601,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 205904,
       "num": 205904,
       "word": "李昀锐你真的没喝醉吗",
@@ -8329,14 +8361,6 @@
       "onboard_time": 1735701861,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 205548,
-      "num": 205548,
-      "word": "控糖60天的面部变化",
-      "onboard_time": 1735881320,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 205428,
@@ -8465,14 +8489,6 @@
       "onboard_time": 1735640542,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 203838,
-      "num": 203838,
-      "word": "上海258元一份的蛋炒饭",
-      "onboard_time": 1735880601,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 203692,
@@ -8633,6 +8649,14 @@
       "onboard_time": 1735774217,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201738,
+      "num": 201738,
+      "word": "龙钞",
+      "onboard_time": 1735878982,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 201546,
@@ -9651,6 +9675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189621,
+      "num": 189621,
+      "word": "快乐再出发",
+      "onboard_time": 1735881498,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189553,
       "num": 189553,
       "word": "大奉打更人热度破27000",
@@ -9809,6 +9841,14 @@
       "onboard_time": 1735637960,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 187192,
+      "num": 187192,
+      "word": "广东一老人买药材煲汤中毒身亡",
+      "onboard_time": 1735882221,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187164,
@@ -10899,6 +10939,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170026,
+      "num": 170026,
+      "word": "刘强东曾收村民500元76个茶叶蛋",
+      "onboard_time": 1735882221,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 169652,
+      "num": 169652,
+      "word": "小米集团涨超5%创历史新高",
+      "onboard_time": 1735880241,
+      "rank": 40,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 169609,
       "num": 169609,
       "word": "李一桐 不要叫我的名字",
@@ -11075,14 +11131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 167703,
-      "num": 167703,
-      "word": "小米集团涨超5%创历史新高",
-      "onboard_time": 1735880241,
-      "rank": 40,
-      "category": "财经,互联网"
-    },
-    {
       "raw_hot": 167475,
       "num": 167475,
       "word": "韩国客机生还者因机尾脱落幸存",
@@ -11177,14 +11225,6 @@
       "onboard_time": 1735609577,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 166145,
-      "num": 166145,
-      "word": "龙钞",
-      "onboard_time": 1735878982,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 166132,
@@ -11305,6 +11345,14 @@
       "onboard_time": 1735790903,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165032,
+      "num": 322937,
+      "word": "2025跨年最佳舞台TOP3",
+      "onboard_time": 1735881859,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 165015,
@@ -11697,14 +11745,6 @@
       "onboard_time": 1735881021,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 160059,
-      "num": 160059,
-      "word": "快乐再出发",
-      "onboard_time": 1735881498,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 159852,
@@ -12523,6 +12563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147476,
+      "num": 389899,
+      "word": "男子利用小程序Bug逃匿28万加油费",
+      "onboard_time": 1735875380,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147408,
       "num": 147408,
       "word": "湘潭大学三万学生一起跨年",
@@ -12681,14 +12729,6 @@
       "onboard_time": 1735444640,
       "rank": 28,
       "category": "网红"
-    },
-    {
-      "raw_hot": 145137,
-      "num": 389899,
-      "word": "男子利用小程序Bug逃匿28万加油费",
-      "onboard_time": 1735875380,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 145018,
@@ -14995,6 +15035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108205,
+      "num": 260627,
+      "word": "张彬彬孙珍妮桃花芭莎大片",
+      "onboard_time": 1735881920,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108100,
       "num": 219995,
       "word": "媒体评国乒运动员退出世界排名",
@@ -15523,14 +15571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95303,
-      "num": 420331,
-      "word": "MCN老板说网红成功率比考清北低",
-      "onboard_time": 1735880660,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95175,
       "num": 396573,
       "word": "2025元旦档电影票房破亿",
@@ -15585,6 +15625,14 @@
       "onboard_time": 1735831041,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92749,
+      "num": 170045,
+      "word": "误杀3 佟丽娅MVP结算画面",
+      "onboard_time": 1735882519,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 92714,
@@ -15760,6 +15808,14 @@
       "word": "女子为牟利将烟花爆竹搬进居民楼",
       "onboard_time": 1735812979,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86644,
+      "num": 259015,
+      "word": "专家称老百姓消费少跟收入分配有关",
+      "onboard_time": 1735881200,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -16419,6 +16475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66115,
+      "num": 361856,
+      "word": "尹锡悦律师团进入总统官邸",
+      "onboard_time": 1735880301,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 66025,
       "num": 358148,
       "word": "乒超总决赛今日赛程",
@@ -17059,14 +17123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 50861,
-      "num": 253771,
-      "word": "专家称老百姓消费少跟收入分配有关",
-      "onboard_time": 1735881200,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 50710,
       "num": 80066,
       "word": "宁夏启动四级地震应急响应",
@@ -17395,6 +17451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44504,
+      "num": 276786,
+      "word": "田亮我相信我的小棉袄会越来越漂亮",
+      "onboard_time": 1735882639,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44335,
       "num": 451778,
       "word": "广州近千户家庭地址被冒用注册公司",
@@ -17409,6 +17473,14 @@
       "onboard_time": 1735810340,
       "rank": 27,
       "category": "体育,教育"
+    },
+    {
+      "raw_hot": 44133,
+      "num": 266591,
+      "word": "清华92%毕业生在国内工作",
+      "onboard_time": 1735881859,
+      "rank": 27,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 44060,
@@ -17497,6 +17569,14 @@
       "onboard_time": 1735858754,
       "rank": 20,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 42731,
+      "num": 325645,
+      "word": "蛇钞最高溢价150%",
+      "onboard_time": 1735882460,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 42652,
@@ -17627,6 +17707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 40109,
+      "num": 343060,
+      "word": "口头请病假被按旷工开除",
+      "onboard_time": 1735881380,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40048,
       "num": 313825,
       "word": "元气满满奔赴下一程",
@@ -17721,6 +17809,14 @@
       "onboard_time": 1735480402,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 38841,
+      "num": 322619,
+      "word": "蛇币蛇钞兑换首日有人转手就卖",
+      "onboard_time": 1735882401,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 38776,
@@ -18009,6 +18105,14 @@
       "onboard_time": 1735461559,
       "rank": 2,
       "category": "电影"
+    },
+    {
+      "raw_hot": 34582,
+      "num": 202063,
+      "word": "微博之夜刘浩存的赛博搭子",
+      "onboard_time": 1735882580,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 34527,
@@ -19153,14 +19257,6 @@
       "onboard_time": 1735647507,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 22267,
-      "num": 343060,
-      "word": "口头请病假被按旷工开除",
-      "onboard_time": 1735881380,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22251,
