@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735869542381,
+  "endTime": 1735872798372,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -203,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1770763,
+      "num": 1770763,
+      "word": "小米SU7侧翻起火十余路人抬车救人",
+      "onboard_time": 1735869680,
+      "rank": 0,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 1723920,
       "num": 1546854,
       "word": "虞书欣丁禹兮你俩在说什么",
@@ -369,6 +377,14 @@
       "onboard_time": 1735808780,
       "rank": 12,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1200615,
+      "num": 1200615,
+      "word": "蛇钞",
+      "onboard_time": 1735870699,
+      "rank": 1,
+      "category": "财经"
     },
     {
       "raw_hot": 1159548,
@@ -1187,6 +1203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 579884,
+      "num": 579884,
+      "word": "白月梵星",
+      "onboard_time": 1735869259,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 574205,
       "num": 574205,
       "word": "张继科关注王曼昱",
@@ -1505,6 +1529,14 @@
       "onboard_time": 1735793243,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 442488,
+      "num": 442488,
+      "word": "现在拨打的电话",
+      "onboard_time": 1735869979,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 440233,
@@ -1995,6 +2027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 341503,
+      "num": 341503,
+      "word": "虞书欣妮妮塑",
+      "onboard_time": 1735871299,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 341025,
       "num": 271254,
       "word": "00后男生耐得住寂寞一天做上百条女裤",
@@ -2009,6 +2049,14 @@
       "onboard_time": 1735654770,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 340677,
+      "num": 399643,
+      "word": "银川地震瞬间一母亲死死护住宝宝",
+      "onboard_time": 1735871239,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 339631,
@@ -2236,7 +2284,7 @@
     },
     {
       "raw_hot": 307414,
-      "num": 225541,
+      "num": 238778,
       "word": "13薪和年终奖是有区别的",
       "onboard_time": 1735866440,
       "rank": 20,
@@ -2353,54 +2401,6 @@
       "onboard_time": 1735789401,
       "rank": 23,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 290935,
-      "num": 290935,
-      "word": "孙颖莎绕场感谢球迷",
-      "onboard_time": 1735719800,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 290450,
-      "num": 290450,
-      "word": "樊振东MLB中国区冠军荣耀大使",
-      "onboard_time": 1735786160,
-      "rank": 7,
-      "category": "体育,时尚"
-    },
-    {
-      "raw_hot": 287546,
-      "num": 287546,
-      "word": "小S晒了全家福",
-      "onboard_time": 1735794562,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 287322,
-      "num": 287322,
-      "word": "抑郁症",
-      "onboard_time": 1735729883,
-      "rank": 28,
-      "category": "艺人,健康医疗"
-    },
-    {
-      "raw_hot": 286376,
-      "num": 547187,
-      "word": "美国车辆冲撞行人事件致10人死亡",
-      "onboard_time": 1735735462,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 284141,
-      "num": 284141,
-      "word": "丈夫称烧伤妈妈皮肤不可能回到以前",
-      "onboard_time": 1735747879,
-      "rank": 23,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
