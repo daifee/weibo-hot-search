@@ -1,0 +1,410 @@
+{
+  "runTime": 1735936599258,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 97085,
+        "num": 97085,
+        "word": "医生称森碟下巴后缩或影响口腔功能",
+        "onboard_time": 1735916900,
+        "rank": 0,
+        "category": "艺人,健康医疗"
+      },
+      {
+        "raw_hot": 58805,
+        "num": 58805,
+        "word": "银川地震有人夜晚一家人轮流守夜",
+        "onboard_time": 1735919358,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13519,
+        "num": 57387,
+        "word": "原来2025是完美平方年",
+        "onboard_time": 1735912399,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174904,
+        "num": 55634,
+        "word": "骗子开始先给你转钱了",
+        "onboard_time": 1735922776,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114625,
+        "num": 52951,
+        "word": "疑似韩国遇难机长最后画面",
+        "onboard_time": 1735918099,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 88249,
+        "num": 51209,
+        "word": "星光大赏",
+        "onboard_time": 1735919421,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61738,
+        "num": 50584,
+        "word": "短剧顶流演员日薪飙至30000元",
+        "onboard_time": 1735918639,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48974,
+        "num": 48974,
+        "word": "医生解读森碟下巴后缩",
+        "onboard_time": 1735915221,
+        "rank": 7,
+        "category": "艺人,健康医疗"
+      },
+      {
+        "raw_hot": 47930,
+        "num": 47930,
+        "word": "樊振东陈梦缺席一项WTT赛事将被罚5000美元",
+        "onboard_time": 1735917800,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24023,
+        "num": 46179,
+        "word": "韩国空难机长遇难前最后动作被拍下",
+        "onboard_time": 1735935671,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 46152,
+        "num": 46152,
+        "word": "福彩5亿巨奖中奖者已兑奖",
+        "onboard_time": 1735912579,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45419,
+        "num": 45419,
+        "word": "徐志胜睡八个小时算失眠",
+        "onboard_time": 1735911500,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37746,
+        "num": 37746,
+        "word": "韩国一商业楼起火多人被困",
+        "onboard_time": 1735932191,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 36880,
+        "num": 36880,
+        "word": "现在拨打的电话",
+        "onboard_time": 1735918220,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34530,
+        "num": 34530,
+        "word": "孙乐言 星光大赏主持",
+        "onboard_time": 1735916000,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33894,
+        "num": 33894,
+        "word": "王鹤棣将落单王润泽拉入跨年拥抱",
+        "onboard_time": 1735917740,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31685,
+        "num": 31685,
+        "word": "银川地震亲历者称更多是心理折磨",
+        "onboard_time": 1735910240,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30156,
+        "num": 30156,
+        "word": "蛇币蛇钞异常火爆不乏大学生群体的推动",
+        "onboard_time": 1735933392,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28081,
+        "num": 28081,
+        "word": "地震瞬间21名幼师疏散200名孩子",
+        "onboard_time": 1735928833,
+        "rank": 18,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 21778,
+        "num": 21778,
+        "word": "韩客机失事现场发现波音737手册残页",
+        "onboard_time": 1735914741,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 33669,
+        "num": 21768,
+        "word": "陈都灵看起来好难受",
+        "onboard_time": 1735913300,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49530,
+        "num": 21729,
+        "word": "张小斐被曝违章交警称已依法处置",
+        "onboard_time": 1735922715,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32143,
+        "num": 21694,
+        "word": "杨紫 小女子不才也会点英语",
+        "onboard_time": 1735911198,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29869,
+        "num": 21625,
+        "word": "瘦了50斤的面部折叠度",
+        "onboard_time": 1735903698,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26260,
+        "num": 21594,
+        "word": "R1SE合体",
+        "onboard_time": 1735907359,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24131,
+        "num": 21552,
+        "word": "为什么现在秋衣秋裤要这样设计",
+        "onboard_time": 1735914141,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22829,
+        "num": 21514,
+        "word": "原来这就是不胖和好瘦的区别",
+        "onboard_time": 1735910601,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21499,
+        "num": 21499,
+        "word": "地震时16岁男孩背起同学往外冲",
+        "onboard_time": 1735922597,
+        "rank": 27,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 21426,
+        "num": 21426,
+        "word": "胖东来员工不许靠父母积蓄买房买车",
+        "onboard_time": 1735904900,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21339,
+        "num": 21339,
+        "word": "同事想离职突然得知被裁",
+        "onboard_time": 1735912100,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20620,
+        "num": 20620,
+        "word": "大奉打更人还原原著",
+        "onboard_time": 1735920918,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19485,
+        "num": 19485,
+        "word": "李昀锐一张嘴我的胃口打开了",
+        "onboard_time": 1735915461,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19449,
+        "num": 19449,
+        "word": "国航 美珍香",
+        "onboard_time": 1735909819,
+        "rank": 32,
+        "category": "艺人,舆论监督"
+      },
+      {
+        "raw_hot": 19198,
+        "num": 19198,
+        "word": "电竞文男主有脸了",
+        "onboard_time": 1735900819,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18775,
+        "num": 18775,
+        "word": "微博之夜年度推荐",
+        "onboard_time": 1735900399,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18489,
+        "num": 18489,
+        "word": "在禁天价彩礼上胖东来带了个好头",
+        "onboard_time": 1735926672,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17702,
+        "num": 17702,
+        "word": "101注共5.31亿巨奖出自同一站点",
+        "onboard_time": 1735905979,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17657,
+        "num": 17657,
+        "word": "七颗猩猩回应背刺打工人",
+        "onboard_time": 1735912399,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 17520,
+        "num": 17520,
+        "word": "以前都不叫抑郁症",
+        "onboard_time": 1735916241,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17233,
+        "num": 17233,
+        "word": "恋与深空",
+        "onboard_time": 1735929013,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17029,
+        "num": 17029,
+        "word": "目前流感病毒99%以上为甲流",
+        "onboard_time": 1735904299,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 16851,
+        "num": 16851,
+        "word": "月鳞绮纪",
+        "onboard_time": 1735918220,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16685,
+        "num": 16685,
+        "word": "周深一年发了近200条生日快乐",
+        "onboard_time": 1735907599,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15774,
+        "num": 15774,
+        "word": "G2官宣NiKo离队",
+        "onboard_time": 1735919119,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 15482,
+        "num": 15482,
+        "word": "广州福彩回应一站点中101注一等奖",
+        "onboard_time": 1735930992,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15194,
+        "num": 15194,
+        "word": "福彩5亿巨奖中奖者纳税过亿",
+        "onboard_time": 1735912941,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15143,
+        "num": 15143,
+        "word": "赵丽颖到达澳门",
+        "onboard_time": 1735914020,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15111,
+        "num": 15111,
+        "word": "李小冉 姐谁认识你",
+        "onboard_time": 1735924874,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14994,
+        "num": 14994,
+        "word": "华晨宇把耳后纹身放在了封面上",
+        "onboard_time": 1735899020,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 14418,
+        "num": 14994,
+        "word": "一次次被中国军人的气势震撼",
+        "onboard_time": 1735934591,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席赞美奋斗追梦人#"
+    }
+  }
+}
