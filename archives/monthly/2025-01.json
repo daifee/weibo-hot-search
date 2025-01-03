@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735900838518,
+  "endTime": 1735903131930,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -1267,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 611470,
+      "num": 1097835,
+      "word": "杨紫白鹿新剧定档同一天",
+      "onboard_time": 1735896980,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 610835,
       "num": 610835,
       "word": "王楚钦vs林诗栋",
@@ -1411,20 +1419,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 566523,
-      "num": 566523,
-      "word": "杨紫白鹿新剧定档同一天",
-      "onboard_time": 1735896980,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 565573,
       "num": 565573,
       "word": "韩国公调处尝试抓捕尹锡悦",
       "onboard_time": 1735867400,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 560735,
+      "num": 398087,
+      "word": "祝绪丹杨仕泽一起去澳门",
+      "onboard_time": 1735899980,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 559533,
@@ -1531,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 521394,
+      "num": 521394,
+      "word": "洛杉矶旅游局向樊振东发来邀请",
+      "onboard_time": 1735898121,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 516758,
       "num": 473417,
       "word": "黄圣依说杨子这出戏是拿奖级别",
@@ -1553,6 +1569,14 @@
       "onboard_time": 1735804100,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 512447,
+      "num": 512447,
+      "word": "永夜星河获奖",
+      "onboard_time": 1735901778,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 511850,
@@ -2059,6 +2083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 402761,
+      "num": 382453,
+      "word": "这回终于有人接住白鹿了",
+      "onboard_time": 1735900040,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 402722,
       "num": 402722,
       "word": "孙颖莎3比2王曼昱",
@@ -2075,28 +2107,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 400749,
-      "num": 400749,
-      "word": "洛杉矶旅游局向樊振东发来邀请",
-      "onboard_time": 1735898121,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 400256,
       "num": 400256,
       "word": "做腊肉引发火灾上千斤全部报废",
       "onboard_time": 1735814779,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 398087,
-      "num": 398087,
-      "word": "祝绪丹杨仕泽一起去澳门",
-      "onboard_time": 1735899980,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 397838,
@@ -2185,6 +2201,14 @@
       "onboard_time": 1735710499,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 384019,
+      "num": 384019,
+      "word": "电竞文男主有脸了",
+      "onboard_time": 1735900819,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 382409,
@@ -2579,6 +2603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 334164,
+      "num": 294242,
+      "word": "金星伴月",
+      "onboard_time": 1735900879,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 331652,
       "num": 321237,
       "word": "森碟下巴后缩严重",
@@ -2641,6 +2673,14 @@
       "onboard_time": 1735724239,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 324194,
+      "num": 324194,
+      "word": "微博之夜官宣顺序按微博名称首字母",
+      "onboard_time": 1735899680,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 323263,
@@ -2891,6 +2931,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 297047,
+      "num": 297047,
+      "word": "刘亦菲刘诗诗同登芭莎开年刊",
+      "onboard_time": 1735900640,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 294834,
       "num": 274225,
       "word": "国色芳华",
@@ -2937,6 +2985,22 @@
       "onboard_time": 1735786160,
       "rank": 7,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 290093,
+      "num": 290093,
+      "word": "抢到蛇钞直接赚一倍",
+      "onboard_time": 1735899740,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 289979,
+      "num": 290302,
+      "word": "八省联考",
+      "onboard_time": 1735900879,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 287546,
@@ -3009,6 +3073,14 @@
       "onboard_time": 1735823420,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 278359,
+      "num": 278359,
+      "word": "孙颖莎 肯德基",
+      "onboard_time": 1735900819,
+      "rank": 26,
+      "category": "体育,美食"
     },
     {
       "raw_hot": 277666,
@@ -3139,14 +3211,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 260729,
-      "num": 260729,
-      "word": "微博之夜官宣顺序按微博名称首字母",
-      "onboard_time": 1735899680,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 260667,
       "num": 260667,
       "word": "雷军晒健身房照片",
@@ -3169,6 +3233,14 @@
       "onboard_time": 1735662986,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 258530,
+      "num": 258530,
+      "word": "华晨宇把耳后纹身放在了封面上",
+      "onboard_time": 1735899020,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 258361,
@@ -3499,14 +3571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 234928,
-      "num": 232070,
-      "word": "华晨宇把耳后纹身放在了封面上",
-      "onboard_time": 1735899020,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 233805,
       "num": 233805,
       "word": "终于知道焯水该用热水还是凉水了",
@@ -3547,6 +3611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230936,
+      "num": 230936,
+      "word": "王一博成毅檀健次跨年舞台TOP3",
+      "onboard_time": 1735902141,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230697,
       "num": 230697,
       "word": "东部战区发布MV中国人",
@@ -3563,6 +3635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230154,
+      "num": 230154,
+      "word": "四大预爆艺人微博之夜来了仨",
+      "onboard_time": 1735900761,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 229400,
       "num": 229400,
       "word": "原神流浪者",
@@ -3571,20 +3651,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 228624,
+      "num": 228624,
+      "word": "陈乔恩吐槽餐厅奇葩规定",
+      "onboard_time": 1735902019,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227518,
       "num": 324214,
       "word": "目击者称美冲撞行人司机下车后扫射人群",
       "onboard_time": 1735747340,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 226899,
-      "num": 226899,
-      "word": "刘亦菲刘诗诗同登芭莎开年刊",
-      "onboard_time": 1735900640,
-      "rank": 25,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 226248,
@@ -3649,6 +3729,14 @@
       "onboard_time": 1735793543,
       "rank": 24,
       "category": "体育,美妆"
+    },
+    {
+      "raw_hot": 223488,
+      "num": 223488,
+      "word": "建议周三设为永久节假日",
+      "onboard_time": 1735898420,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 223238,
@@ -3851,14 +3939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213216,
-      "num": 213216,
-      "word": "这回终于有人接住白鹿了",
-      "onboard_time": 1735900040,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 212851,
       "num": 212851,
       "word": "TF家族新年音乐会特权码",
@@ -3897,14 +3977,6 @@
       "onboard_time": 1735796242,
       "rank": 23,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 212074,
-      "num": 212074,
-      "word": "建议周三设为永久节假日",
-      "onboard_time": 1735898420,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 212050,
@@ -4787,6 +4859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186998,
+      "num": 186998,
+      "word": "单纯的人黑化后有多吓人",
+      "onboard_time": 1735902200,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186938,
       "num": 189991,
       "word": "易烊千玺小小的我社会意义具象化",
@@ -5163,12 +5243,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 173523,
+      "num": 173523,
+      "word": "微博之夜 内娱一年一度鹊桥相会",
+      "onboard_time": 1735900580,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 173489,
       "num": 173489,
       "word": "柯南不是英雄救美是并肩同行",
       "onboard_time": 1735892359,
       "rank": 36,
       "category": "动漫,电影"
+    },
+    {
+      "raw_hot": 173489,
+      "num": 173489,
+      "word": "WTT不能做饭难吃还不许点外卖",
+      "onboard_time": 1735901541,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 173474,
@@ -5449,14 +5545,6 @@
       "onboard_time": 1735780938,
       "rank": 46,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 167394,
-      "num": 167394,
-      "word": "抢到蛇钞直接赚一倍",
-      "onboard_time": 1735899740,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 167372,
@@ -5763,6 +5851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 159627,
+      "num": 221939,
+      "word": "清华女硕士回应失业转行学厨",
+      "onboard_time": 1735896260,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158770,
       "num": 158770,
       "word": "美国冲撞人群司机下车向人群开枪",
@@ -6027,14 +6123,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 151891,
-      "num": 221939,
-      "word": "清华女硕士回应失业转行学厨",
-      "onboard_time": 1735896260,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 151841,
       "num": 249124,
       "word": "上海地铁回应有人在闲鱼上卖座位",
@@ -6073,14 +6161,6 @@
       "onboard_time": 1735661005,
       "rank": 45,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 150597,
-      "num": 150597,
-      "word": "微博之夜 内娱一年一度鹊桥相会",
-      "onboard_time": 1735900580,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 150560,
@@ -6811,6 +6891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135473,
+      "num": 229093,
+      "word": "WTT完全支持国际乒联工作组",
+      "onboard_time": 1735902381,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135451,
       "num": 135451,
       "word": "林高远教王逢陈打乒乓球",
@@ -6865,6 +6953,14 @@
       "onboard_time": 1735891639,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133965,
+      "num": 133965,
+      "word": "严浩翔蝴蝶结比心",
+      "onboard_time": 1735903099,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 133699,
@@ -6979,12 +7075,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131430,
+      "num": 131430,
+      "word": "长大后的童年报复性补偿行为",
+      "onboard_time": 1735901900,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 131229,
       "num": 390652,
       "word": "新年第1个拥抱",
       "onboard_time": 1735694120,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131184,
+      "num": 296456,
+      "word": "胖东来员工结婚无力购置房车可先租房",
+      "onboard_time": 1735902920,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130991,
@@ -7361,14 +7473,6 @@
       "onboard_time": 1735703001,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120724,
-      "num": 120724,
-      "word": "四大预爆艺人微博之夜来了仨",
-      "onboard_time": 1735900761,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 120567,
@@ -8691,6 +8795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57901,
+      "num": 681872,
+      "word": "一图读懂中国经济高质量发展成绩单",
+      "onboard_time": 1735899440,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 57759,
       "num": 217112,
       "word": "微博之夜周深的赛博搭子",
@@ -8777,14 +8889,6 @@
       "onboard_time": 1735806560,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 51658,
-      "num": 681872,
-      "word": "一图读懂中国经济高质量发展成绩单",
-      "onboard_time": 1735899440,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 51277,
@@ -8961,6 +9065,14 @@
       "onboard_time": 1735665201,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45500,
+      "num": 423890,
+      "word": "24小时看奋进中国",
+      "onboard_time": 1735899260,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 45356,
@@ -9147,14 +9259,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 37797,
-      "num": 423890,
-      "word": "24小时看奋进中国",
-      "onboard_time": 1735899260,
-      "rank": 8,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 37736,
       "num": 166213,
       "word": "让所有人感叹的两爬动物",
@@ -9201,6 +9305,14 @@
       "onboard_time": 1735827561,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 36661,
+      "num": 295037,
+      "word": "乐华对造谣者集中取证",
+      "onboard_time": 1735902979,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 36512,
@@ -10051,6 +10163,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 14183,
+      "num": 291561,
+      "word": "2025NBA全明星投票",
+      "onboard_time": 1735894821,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 13801,
+      "num": 175772,
+      "word": "年度明星品牌代言影响力",
+      "onboard_time": 1735900341,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 13655,
       "num": 178729,
       "word": "这么豪华绝美的大餐只是鱼和土豆",
@@ -10297,14 +10425,6 @@
       "onboard_time": 1735678571,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 7361,
-      "num": 155965,
-      "word": "年度明星品牌代言影响力",
-      "onboard_time": 1735900341,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 7181,

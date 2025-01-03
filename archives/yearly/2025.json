@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735900838518,
+  "endTime": 1735903131930,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -1267,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 611470,
+      "num": 1097835,
+      "word": "杨紫白鹿新剧定档同一天",
+      "onboard_time": 1735896980,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 610835,
       "num": 610835,
       "word": "王楚钦vs林诗栋",
@@ -1411,20 +1419,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 566523,
-      "num": 566523,
-      "word": "杨紫白鹿新剧定档同一天",
-      "onboard_time": 1735896980,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 565573,
       "num": 565573,
       "word": "韩国公调处尝试抓捕尹锡悦",
       "onboard_time": 1735867400,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 560735,
+      "num": 398087,
+      "word": "祝绪丹杨仕泽一起去澳门",
+      "onboard_time": 1735899980,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 559533,
@@ -1531,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 521394,
+      "num": 521394,
+      "word": "洛杉矶旅游局向樊振东发来邀请",
+      "onboard_time": 1735898121,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 516758,
       "num": 473417,
       "word": "黄圣依说杨子这出戏是拿奖级别",
@@ -1553,6 +1569,14 @@
       "onboard_time": 1735804100,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 512447,
+      "num": 512447,
+      "word": "永夜星河获奖",
+      "onboard_time": 1735901778,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 511850,
@@ -2059,6 +2083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 402761,
+      "num": 382453,
+      "word": "这回终于有人接住白鹿了",
+      "onboard_time": 1735900040,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 402722,
       "num": 402722,
       "word": "孙颖莎3比2王曼昱",
@@ -2075,28 +2107,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 400749,
-      "num": 400749,
-      "word": "洛杉矶旅游局向樊振东发来邀请",
-      "onboard_time": 1735898121,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 400256,
       "num": 400256,
       "word": "做腊肉引发火灾上千斤全部报废",
       "onboard_time": 1735814779,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 398087,
-      "num": 398087,
-      "word": "祝绪丹杨仕泽一起去澳门",
-      "onboard_time": 1735899980,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 397838,
@@ -2185,6 +2201,14 @@
       "onboard_time": 1735710499,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 384019,
+      "num": 384019,
+      "word": "电竞文男主有脸了",
+      "onboard_time": 1735900819,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 382409,
@@ -2377,30 +2401,6 @@
       "onboard_time": 1735796001,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 357194,
-      "num": 334621,
-      "word": "连侯佩岑都失去表情管理了",
-      "onboard_time": 1735895600,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 356401,
-      "num": 271301,
-      "word": "赵本山还是太超前了",
-      "onboard_time": 1735743262,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 355901,
-      "num": 419864,
-      "word": "胖东来规定员工结婚不许收付彩礼",
-      "onboard_time": 1735898480,
-      "rank": 14,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
