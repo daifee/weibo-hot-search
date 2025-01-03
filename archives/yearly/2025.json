@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735921654212,
+  "endTime": 1735922601975,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -1299,6 +1299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 652695,
+      "num": 240986,
+      "word": "星光大赏",
+      "onboard_time": 1735919421,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 650437,
       "num": 1090516,
       "word": "陈哲远发了5万红包",
@@ -1881,14 +1889,6 @@
       "onboard_time": 1735743981,
       "rank": 11,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 500361,
-      "num": 240986,
-      "word": "星光大赏",
-      "onboard_time": 1735919421,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 499501,
