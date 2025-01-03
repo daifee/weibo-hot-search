@@ -1,0 +1,410 @@
+{
+  "runTime": 1735868557328,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1296894,
+        "num": 1296894,
+        "word": "上4休3的好处已经显现出来了",
+        "onboard_time": 1735816100,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 726671,
+        "num": 726671,
+        "word": "韩国空难179具遗体仅5具完好无损",
+        "onboard_time": 1735863800,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 103880,
+        "num": 715638,
+        "word": "这就是咱中国人的独家浪漫",
+        "onboard_time": 1735824141,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 705846,
+        "num": 705846,
+        "word": "广西车厘子10元2盒是真的",
+        "onboard_time": 1735863561,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 503506,
+        "num": 503506,
+        "word": "何炅拥抱谢娜零点照片",
+        "onboard_time": 1735834039,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501125,
+        "num": 501125,
+        "word": "大奉打更人热度",
+        "onboard_time": 1735863860,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 455356,
+        "num": 455356,
+        "word": "韩国公调处尝试抓捕尹锡悦",
+        "onboard_time": 1735867400,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 411894,
+        "num": 411894,
+        "word": "123岁老人林蛇母家中去世",
+        "onboard_time": 1735825641,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369882,
+        "num": 369882,
+        "word": "车厘子届爱马仕价格接近腰斩",
+        "onboard_time": 1735861637,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 317443,
+        "num": 368956,
+        "word": "抓捕尹锡悦人员同警卫发生冲突",
+        "onboard_time": 1735866860,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 467669,
+        "num": 368914,
+        "word": "男子认亲成功16年后发现亲爹是假的",
+        "onboard_time": 1735844712,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439497,
+        "num": 368871,
+        "word": "美主播说中国六代机不是很隐形",
+        "onboard_time": 1735866080,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 368799,
+        "num": 368799,
+        "word": "留几手问葛夕能再要个孩子吗",
+        "onboard_time": 1735827501,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352646,
+        "num": 352646,
+        "word": "年前金价下跌年轻人再掀淘金热",
+        "onboard_time": 1735829661,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 329910,
+        "num": 329910,
+        "word": "95后脑瘫小伙回应因理发健身走红",
+        "onboard_time": 1735861097,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 255960,
+        "num": 255960,
+        "word": "宁夏地震局",
+        "onboard_time": 1735831580,
+        "rank": 15,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 249999,
+        "num": 249999,
+        "word": "贺峻霖录一路繁花硬撑最后累昏了",
+        "onboard_time": 1735863920,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231288,
+        "num": 231288,
+        "word": "中学录用13人无一师范毕业的冷思考",
+        "onboard_time": 1735830441,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171146,
+        "num": 230910,
+        "word": "脑瘫很难在孕产检中被直接发现",
+        "onboard_time": 1735832300,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151556,
+        "num": 228891,
+        "word": "rapper参加恋综",
+        "onboard_time": 1735864642,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251040,
+        "num": 225541,
+        "word": "13薪和年终奖是有区别的",
+        "onboard_time": 1735866440,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233758,
+        "num": 222473,
+        "word": "衣着打扮很影响对自己的感知",
+        "onboard_time": 1735861997,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221778,
+        "num": 221778,
+        "word": "银川地震",
+        "onboard_time": 1735807941,
+        "rank": 22,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 215248,
+        "num": 215248,
+        "word": "超市丢千万元托盘让全员每人赔500",
+        "onboard_time": 1735830321,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213452,
+        "num": 213452,
+        "word": "papi酱 可能杨子这就是专业吧",
+        "onboard_time": 1735859655,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196515,
+        "num": 196515,
+        "word": "韩国调查机关人员同总统警卫部门对峙",
+        "onboard_time": 1735861097,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 192719,
+        "num": 192719,
+        "word": "全红婵当选2024最佳女子跳水运动员",
+        "onboard_time": 1735865120,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184968,
+        "num": 184968,
+        "word": "韩国总统官邸附近部署超2800名警力",
+        "onboard_time": 1735867578,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 183191,
+        "num": 183191,
+        "word": "银川未来几日还可能有较强地震发生",
+        "onboard_time": 1735866259,
+        "rank": 28,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 141752,
+        "num": 180688,
+        "word": "葛夕坚持孩子跟自己姓",
+        "onboard_time": 1735832898,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180326,
+        "num": 180326,
+        "word": "学校回应两男子向熟睡老人泼冷水",
+        "onboard_time": 1735866020,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157332,
+        "num": 157332,
+        "word": "村民称刘强东发钱不是应该的",
+        "onboard_time": 1735821261,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 155659,
+        "num": 155659,
+        "word": "滑翔伞坠落致教练和一女大学生身亡",
+        "onboard_time": 1735829240,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149169,
+        "num": 149169,
+        "word": "农历乙巳蛇年有384天",
+        "onboard_time": 1735866801,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141083,
+        "num": 141083,
+        "word": "多努力一点梦想就会离你更近一些",
+        "onboard_time": 1735865541,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 138866,
+        "num": 138866,
+        "word": "檀健次说话竟然可以这么夹",
+        "onboard_time": 1735867041,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137740,
+        "num": 137740,
+        "word": "医院宣传语称堕胎斩断男方祖宗血脉",
+        "onboard_time": 1735827442,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137616,
+        "num": 137616,
+        "word": "朋友圈实况图改手动播放了",
+        "onboard_time": 1735862839,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 137348,
+        "num": 137348,
+        "word": "微博之夜全员人脸识别",
+        "onboard_time": 1735830381,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133948,
+        "num": 133948,
+        "word": "2025四大预爆艺人",
+        "onboard_time": 1735868118,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132731,
+        "num": 132731,
+        "word": "29省份上线医保定点药店比价小程序",
+        "onboard_time": 1735868118,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129758,
+        "num": 129758,
+        "word": "黑山新年首日发生恶性大规模枪击案",
+        "onboard_time": 1735866259,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 125710,
+        "num": 125710,
+        "word": "NBA全明星第一轮投票结果",
+        "onboard_time": 1735867879,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123728,
+        "num": 123728,
+        "word": "抓捕人员仍未进入尹锡悦所在建筑",
+        "onboard_time": 1735867518,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122833,
+        "num": 122833,
+        "word": "樊振东大雪压青松青松挺且直",
+        "onboard_time": 1735826361,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122057,
+        "num": 122057,
+        "word": "再见爱人最终选择",
+        "onboard_time": 1735823659,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119588,
+        "num": 119588,
+        "word": "肖战蝉联第6年世首帅",
+        "onboard_time": 1735847592,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118511,
+        "num": 118511,
+        "word": "Doinb回归赛场",
+        "onboard_time": 1735865299,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115300,
+        "num": 115300,
+        "word": "16个新种蜘蛛以周杰伦歌命名",
+        "onboard_time": 1735857433,
+        "rank": 48,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 114916,
+        "num": 114916,
+        "word": "苹果6.96亿和解siri偷听集体诉讼",
+        "onboard_time": 1735863200,
+        "rank": 49,
+        "category": "数码,互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在新年贺词中反复提及的关键词#"
+    }
+  }
+}
