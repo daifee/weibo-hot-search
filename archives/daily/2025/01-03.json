@@ -1,10 +1,10 @@
 {
   "startTime": 1735835273269,
-  "endTime": 1735868557328,
+  "endTime": 1735869542381,
   "band_list": [
     {
-      "raw_hot": 1296894,
-      "num": 1296894,
+      "raw_hot": 1384245,
+      "num": 1384245,
       "word": "上4休3的好处已经显现出来了",
       "onboard_time": 1735816100,
       "rank": 3,
@@ -43,12 +43,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 726671,
+      "raw_hot": 762160,
       "num": 726671,
       "word": "韩国空难179具遗体仅5具完好无损",
       "onboard_time": 1735863800,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 747138,
+      "num": 747138,
+      "word": "美主播说中国六代机不是很隐形",
+      "onboard_time": 1735866080,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 705846,
@@ -67,12 +75,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 565573,
+      "num": 565573,
+      "word": "韩国公调处尝试抓捕尹锡悦",
+      "onboard_time": 1735867400,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 531762,
       "num": 531762,
       "word": "留几手问葛夕能再要个孩子吗",
       "onboard_time": 1735827501,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 506652,
+      "num": 506652,
+      "word": "大奉打更人热度",
+      "onboard_time": 1735863860,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 505876,
@@ -91,14 +115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 501125,
-      "num": 501125,
-      "word": "大奉打更人热度",
-      "onboard_time": 1735863860,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 493069,
       "num": 403378,
       "word": "银川地震",
@@ -115,19 +131,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 455356,
-      "num": 455356,
-      "word": "韩国公调处尝试抓捕尹锡悦",
-      "onboard_time": 1735867400,
-      "rank": 6,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 439497,
-      "num": 368871,
-      "word": "美主播说中国六代机不是很隐形",
-      "onboard_time": 1735866080,
-      "rank": 11,
+      "raw_hot": 432791,
+      "num": 432791,
+      "word": "抓捕尹锡悦人员同警卫发生冲突",
+      "onboard_time": 1735866860,
+      "rank": 9,
       "category": "国际时政"
     },
     {
@@ -179,8 +187,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 352646,
-      "num": 352646,
+      "raw_hot": 355119,
+      "num": 355119,
       "word": "年前金价下跌年轻人再掀淘金热",
       "onboard_time": 1735829661,
       "rank": 20,
@@ -211,20 +219,20 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 317443,
-      "num": 368956,
-      "word": "抓捕尹锡悦人员同警卫发生冲突",
-      "onboard_time": 1735866860,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 311950,
       "num": 311950,
       "word": "外国网红猫女去世",
       "onboard_time": 1735810700,
       "rank": 15,
       "category": "海外新闻,网红"
+    },
+    {
+      "raw_hot": 307414,
+      "num": 225541,
+      "word": "13薪和年终奖是有区别的",
+      "onboard_time": 1735866440,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 297123,
@@ -257,14 +265,6 @@
       "onboard_time": 1735817059,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 251040,
-      "num": 225541,
-      "word": "13薪和年终奖是有区别的",
-      "onboard_time": 1735866440,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 249999,
@@ -331,12 +331,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212731,
+      "num": 212731,
+      "word": "全红婵当选2024最佳女子跳水运动员",
+      "onboard_time": 1735865120,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202615,
       "num": 202615,
       "word": "赵露思抑郁症",
       "onboard_time": 1735851671,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197322,
+      "num": 228891,
+      "word": "rapper参加恋综",
+      "onboard_time": 1735864642,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 196515,
@@ -355,14 +371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192719,
-      "num": 192719,
-      "word": "全红婵当选2024最佳女子跳水运动员",
-      "onboard_time": 1735865120,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 191714,
       "num": 191714,
       "word": "教育局回应学校工作人员向老人泼水",
@@ -379,20 +387,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 184968,
-      "num": 184968,
-      "word": "韩国总统官邸附近部署超2800名警力",
-      "onboard_time": 1735867578,
-      "rank": 27,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 183191,
-      "num": 183191,
+      "raw_hot": 185090,
+      "num": 185090,
       "word": "银川未来几日还可能有较强地震发生",
       "onboard_time": 1735866259,
       "rank": 28,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 184968,
+      "num": 253196,
+      "word": "韩国总统官邸附近部署超2800名警力",
+      "onboard_time": 1735867578,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 180326,
@@ -427,6 +435,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 162840,
+      "num": 162840,
+      "word": "2025四大预爆艺人",
+      "onboard_time": 1735868118,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158262,
       "num": 158262,
       "word": "小怡同学 庞博文",
@@ -457,14 +473,6 @@
       "onboard_time": 1735829961,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 151556,
-      "num": 228891,
-      "word": "rapper参加恋综",
-      "onboard_time": 1735864642,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 149319,
@@ -531,14 +539,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 133948,
-      "num": 133948,
-      "word": "2025四大预爆艺人",
-      "onboard_time": 1735868118,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 132731,
       "num": 132731,
       "word": "29省份上线医保定点药店比价小程序",
@@ -587,6 +587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 120695,
+      "num": 120695,
+      "word": "白月梵星",
+      "onboard_time": 1735869259,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118511,
       "num": 118511,
       "word": "Doinb回归赛场",
@@ -619,12 +627,28 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 113172,
+      "num": 113172,
+      "word": "宁夏地震局称公众不必过于恐慌",
+      "onboard_time": 1735862359,
+      "rank": 40,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 110837,
       "num": 110837,
       "word": "胡彦斌吧唧",
       "onboard_time": 1735826121,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109797,
+      "num": 715638,
+      "word": "这就是咱中国人的独家浪漫",
+      "onboard_time": 1735824141,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108291,
@@ -643,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106785,
+      "num": 106785,
+      "word": "网传极越开始返聘员工",
+      "onboard_time": 1735869319,
+      "rank": 43,
+      "category": "汽车,民生新闻"
+    },
+    {
       "raw_hot": 105009,
       "num": 105009,
       "word": "19岁少女网贷9万买笑气",
@@ -657,14 +689,6 @@
       "onboard_time": 1735830981,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 103880,
-      "num": 715638,
-      "word": "这就是咱中国人的独家浪漫",
-      "onboard_time": 1735824141,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102585,
