@@ -1,6 +1,6 @@
 {
   "startTime": 1735835273269,
-  "endTime": 1735914035188,
+  "endTime": 1735915131600,
   "band_list": [
     {
       "raw_hot": 2979441,
@@ -83,6 +83,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1552604,
+      "num": 1441674,
+      "word": "杨紫 小女子不才也会点英语",
+      "onboard_time": 1735911198,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1522027,
       "num": 885838,
       "word": "胖东来员工结婚无力购置房车可先租房",
@@ -97,14 +105,6 @@
       "onboard_time": 1735896682,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1441674,
-      "num": 1441674,
-      "word": "杨紫 小女子不才也会点英语",
-      "onboard_time": 1735911198,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 1431979,
@@ -129,6 +129,14 @@
       "onboard_time": 1735874118,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1255528,
+      "num": 446934,
+      "word": "陈都灵看起来好难受",
+      "onboard_time": 1735913300,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1247426,
@@ -273,6 +281,14 @@
       "onboard_time": 1735898301,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 733511,
+      "num": 500671,
+      "word": "七颗猩猩回应背刺打工人",
+      "onboard_time": 1735912399,
+      "rank": 6,
+      "category": "网红"
     },
     {
       "raw_hot": 708651,
@@ -563,14 +579,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 500671,
-      "num": 500671,
-      "word": "七颗猩猩回应背刺打工人",
-      "onboard_time": 1735912399,
-      "rank": 6,
-      "category": "网红"
-    },
-    {
       "raw_hot": 499501,
       "num": 499501,
       "word": "王曼昱好帅",
@@ -667,14 +675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 446934,
-      "num": 446934,
-      "word": "陈都灵看起来好难受",
-      "onboard_time": 1735913300,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 442488,
       "num": 442488,
       "word": "现在拨打的电话",
@@ -697,6 +697,14 @@
       "onboard_time": 1735866860,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 432047,
+      "num": 432047,
+      "word": "福彩5亿巨奖中奖者已兑奖",
+      "onboard_time": 1735912579,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 428969,
@@ -867,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 355718,
+      "num": 321490,
+      "word": "原来这就是不胖和好瘦的区别",
+      "onboard_time": 1735910601,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 355119,
       "num": 355119,
       "word": "年前金价下跌年轻人再掀淘金热",
@@ -955,20 +971,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 321490,
-      "num": 321490,
-      "word": "原来这就是不胖和好瘦的区别",
-      "onboard_time": 1735910601,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 319913,
       "num": 344797,
       "word": "刘亦菲说千万不要神化任何人",
       "onboard_time": 1735872799,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 316628,
+      "num": 210101,
+      "word": "赵丽颖到达澳门",
+      "onboard_time": 1735914020,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 313307,
@@ -1067,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 294352,
+      "num": 207755,
+      "word": "为什么现在秋衣秋裤要这样设计",
+      "onboard_time": 1735914141,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 294012,
       "num": 294012,
       "word": "感觉王鹤棣下一秒就要哭了",
@@ -1097,14 +1121,6 @@
       "onboard_time": 1735904299,
       "rank": 14,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 281954,
-      "num": 281954,
-      "word": "福彩5亿巨奖中奖者已兑奖",
-      "onboard_time": 1735912579,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 278251,
@@ -1152,6 +1168,14 @@
       "word": "教育局通报高中向8旬老人泼冷水",
       "onboard_time": 1735870939,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 256021,
+      "num": 256021,
+      "word": "官方回应罚款已退并批评相关人员",
+      "onboard_time": 1735912160,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -1225,14 +1249,6 @@
       "onboard_time": 1735878562,
       "rank": 18,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 235826,
-      "num": 235826,
-      "word": "官方回应罚款已退并批评相关人员",
-      "onboard_time": 1735912160,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 235190,
@@ -1515,6 +1531,14 @@
       "category": "艺人,健康医疗"
     },
     {
+      "raw_hot": 201997,
+      "num": 201997,
+      "word": "张馨予养的蜥蜴会wink",
+      "onboard_time": 1735913419,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201738,
       "num": 201738,
       "word": "龙钞",
@@ -1771,6 +1795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188430,
+      "num": 188430,
+      "word": "久违了R1SE团队",
+      "onboard_time": 1735914320,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187812,
       "num": 187812,
       "word": "LOL手游班德尔峡谷来咯",
@@ -1816,14 +1848,6 @@
       "word": "王一博工作室发文否认恋情",
       "onboard_time": 1735898480,
       "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 183711,
-      "num": 183711,
-      "word": "张馨予养的蜥蜴会wink",
-      "onboard_time": 1735913419,
-      "rank": 41,
       "category": "艺人"
     },
     {
@@ -1891,6 +1915,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 178373,
+      "num": 178373,
+      "word": "低糖低脂或成今年过年主流",
+      "onboard_time": 1735914501,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 177688,
       "num": 177688,
       "word": "误杀3 正面佛头反面魔头",
@@ -1907,12 +1939,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 177221,
+      "num": 177221,
+      "word": "韩客机失事现场发现波音737手册残页",
+      "onboard_time": 1735914741,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 175804,
       "num": 175804,
       "word": "抓捕人员仍未进入尹锡悦所在建筑",
       "onboard_time": 1735867518,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 174036,
+      "num": 342099,
+      "word": "超市被员工偷倒闭当事人发声",
+      "onboard_time": 1735912879,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173489,
@@ -1945,6 +1993,14 @@
       "onboard_time": 1735894101,
       "rank": 39,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 172188,
+      "num": 172188,
+      "word": "极强多巴胺整顿仙侠白衣风",
+      "onboard_time": 1735913961,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 171660,
@@ -2025,6 +2081,14 @@
       "onboard_time": 1735881859,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164764,
+      "num": 289892,
+      "word": "逮捕尹锡悦难在哪",
+      "onboard_time": 1735912100,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 164463,
@@ -2153,14 +2217,6 @@
       "onboard_time": 1735896619,
       "rank": 19,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 155798,
-      "num": 289892,
-      "word": "逮捕尹锡悦难在哪",
-      "onboard_time": 1735912100,
-      "rank": 20,
-      "category": "国际时政"
     },
     {
       "raw_hot": 155716,
@@ -2387,14 +2443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 142545,
-      "num": 142545,
-      "word": "极强多巴胺整顿仙侠白衣风",
-      "onboard_time": 1735913961,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142049,
       "num": 142049,
       "word": "福彩中心回应双色球5亿巨奖",
@@ -2513,6 +2561,14 @@
       "onboard_time": 1735898121,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137388,
+      "num": 210118,
+      "word": "WTT认识到球员的重要角色",
+      "onboard_time": 1735914501,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 136786,
@@ -2721,6 +2777,14 @@
       "onboard_time": 1735875499,
       "rank": 49,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 120300,
+      "num": 968975,
+      "word": "原来2025是完美平方年",
+      "onboard_time": 1735912399,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118511,
@@ -3011,14 +3075,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 80654,
-      "num": 968975,
-      "word": "原来2025是完美平方年",
-      "onboard_time": 1735912399,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78288,
       "num": 78288,
       "word": "理发师晓华爆改外国人",
@@ -3048,14 +3104,6 @@
       "word": "95后脑瘫小伙因自己理发健身走红",
       "onboard_time": 1735851138,
       "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 73486,
-      "num": 342099,
-      "word": "超市被员工偷倒闭当事人发声",
-      "onboard_time": 1735912879,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -3113,6 +3161,14 @@
       "onboard_time": 1735877302,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62746,
+      "num": 456397,
+      "word": "中国高铁如何做到世界最快",
+      "onboard_time": 1735911438,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 61750,
@@ -3193,14 +3249,6 @@
       "onboard_time": 1735910180,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 53533,
-      "num": 456397,
-      "word": "中国高铁如何做到世界最快",
-      "onboard_time": 1735911438,
-      "rank": 9,
-      "category": "正能量"
     },
     {
       "raw_hot": 51270,
@@ -3491,6 +3539,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 28774,
+      "num": 218155,
+      "word": "郝蕾说给老登电影打低分很悲哀",
+      "onboard_time": 1735914621,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28676,
       "num": 137674,
       "word": "沉浸式拆毛绒杯盲盒",
@@ -3593,6 +3649,14 @@
       "onboard_time": 1735845552,
       "rank": 46,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 20917,
+      "num": 216025,
+      "word": "王一博方打假恋情传闻",
+      "onboard_time": 1735914441,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 20479,

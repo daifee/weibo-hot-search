@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735914035188,
+  "endTime": 1735915131600,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -331,6 +331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1552604,
+      "num": 1441674,
+      "word": "杨紫 小女子不才也会点英语",
+      "onboard_time": 1735911198,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1538021,
       "num": 1061062,
       "word": "假唱",
@@ -377,14 +385,6 @@
       "onboard_time": 1735709360,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1441674,
-      "num": 1441674,
-      "word": "杨紫 小女子不才也会点英语",
-      "onboard_time": 1735911198,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 1431979,
@@ -473,6 +473,14 @@
       "onboard_time": 1735874118,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1255528,
+      "num": 446934,
+      "word": "陈都灵看起来好难受",
+      "onboard_time": 1735913300,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1247426,
@@ -1081,6 +1089,14 @@
       "onboard_time": 1735898301,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 733511,
+      "num": 500671,
+      "word": "七颗猩猩回应背刺打工人",
+      "onboard_time": 1735912399,
+      "rank": 6,
+      "category": "网红"
     },
     {
       "raw_hot": 728069,
@@ -1803,14 +1819,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 500671,
-      "num": 500671,
-      "word": "七颗猩猩回应背刺打工人",
-      "onboard_time": 1735912399,
-      "rank": 6,
-      "category": "网红"
-    },
-    {
       "raw_hot": 499501,
       "num": 499501,
       "word": "王曼昱好帅",
@@ -2011,14 +2019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 446934,
-      "num": 446934,
-      "word": "陈都灵看起来好难受",
-      "onboard_time": 1735913300,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 446361,
       "num": 446361,
       "word": "宁夏近期存在发生4到5级地震的可能",
@@ -2105,6 +2105,14 @@
       "onboard_time": 1735698379,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 432047,
+      "num": 432047,
+      "word": "福彩5亿巨奖中奖者已兑奖",
+      "onboard_time": 1735912579,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 431540,
@@ -2603,6 +2611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 355718,
+      "num": 321490,
+      "word": "原来这就是不胖和好瘦的区别",
+      "onboard_time": 1735910601,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 355023,
       "num": 264922,
       "word": "A股新变化",
@@ -2883,14 +2899,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 321490,
-      "num": 321490,
-      "word": "原来这就是不胖和好瘦的区别",
-      "onboard_time": 1735910601,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 320004,
       "num": 320004,
       "word": "花1万8去俄罗斯玩了一周",
@@ -2937,6 +2945,14 @@
       "onboard_time": 1735747101,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 316628,
+      "num": 210101,
+      "word": "赵丽颖到达澳门",
+      "onboard_time": 1735914020,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 316243,
@@ -3147,6 +3163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 294352,
+      "num": 207755,
+      "word": "为什么现在秋衣秋裤要这样设计",
+      "onboard_time": 1735914141,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 293210,
       "num": 293210,
       "word": "陈丽君越剧春晚路透",
@@ -3241,14 +3265,6 @@
       "onboard_time": 1735776979,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 281954,
-      "num": 281954,
-      "word": "福彩5亿巨奖中奖者已兑奖",
-      "onboard_time": 1735912579,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 281177,
@@ -3480,6 +3496,14 @@
       "word": "教育局通报高中向8旬老人泼冷水",
       "onboard_time": 1735870939,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 256021,
+      "num": 256021,
+      "word": "官方回应罚款已退并批评相关人员",
+      "onboard_time": 1735912160,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -3753,14 +3777,6 @@
       "onboard_time": 1735785019,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 235826,
-      "num": 235826,
-      "word": "官方回应罚款已退并批评相关人员",
-      "onboard_time": 1735912160,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 235273,
@@ -4531,6 +4547,14 @@
       "category": "艺人,健康医疗"
     },
     {
+      "raw_hot": 201997,
+      "num": 201997,
+      "word": "张馨予养的蜥蜴会wink",
+      "onboard_time": 1735913419,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201840,
       "num": 201840,
       "word": "新华社解读马龙樊振东陈梦退出世排",
@@ -5107,6 +5131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188430,
+      "num": 188430,
+      "word": "久违了R1SE团队",
+      "onboard_time": 1735914320,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188364,
       "num": 417273,
       "word": "东北三省文旅卷疯了",
@@ -5267,14 +5299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183711,
-      "num": 183711,
-      "word": "张馨予养的蜥蜴会wink",
-      "onboard_time": 1735913419,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 183509,
       "num": 183509,
       "word": "迪丽热巴嘻嘻迪版在逃公主",
@@ -5411,6 +5435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178373,
+      "num": 178373,
+      "word": "低糖低脂或成今年过年主流",
+      "onboard_time": 1735914501,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 178367,
       "num": 320792,
       "word": "王鹤棣 天选许七安",
@@ -5457,6 +5489,14 @@
       "onboard_time": 1735739541,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177221,
+      "num": 177221,
+      "word": "韩客机失事现场发现波音737手册残页",
+      "onboard_time": 1735914741,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 177171,
@@ -5545,6 +5585,14 @@
       "onboard_time": 1735727122,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174036,
+      "num": 342099,
+      "word": "超市被员工偷倒闭当事人发声",
+      "onboard_time": 1735912879,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173898,
@@ -5673,6 +5721,14 @@
       "onboard_time": 1735734262,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172188,
+      "num": 172188,
+      "word": "极强多巴胺整顿仙侠白衣风",
+      "onboard_time": 1735913961,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 171660,
@@ -6035,6 +6091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164764,
+      "num": 289892,
+      "word": "逮捕尹锡悦难在哪",
+      "onboard_time": 1735912100,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 164717,
       "num": 164717,
       "word": "KPL",
@@ -6353,14 +6417,6 @@
       "onboard_time": 1735896619,
       "rank": 19,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 155798,
-      "num": 289892,
-      "word": "逮捕尹锡悦难在哪",
-      "onboard_time": 1735912100,
-      "rank": 20,
-      "category": "国际时政"
     },
     {
       "raw_hot": 155716,
@@ -6923,14 +6979,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 142545,
-      "num": 142545,
-      "word": "极强多巴胺整顿仙侠白衣风",
-      "onboard_time": 1735913961,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142184,
       "num": 264442,
       "word": "微博之夜五个环节",
@@ -7225,6 +7273,14 @@
       "onboard_time": 1735898121,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137388,
+      "num": 210118,
+      "word": "WTT认识到球员的重要角色",
+      "onboard_time": 1735914501,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 137145,
@@ -7929,6 +7985,14 @@
       "onboard_time": 1735718779,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120300,
+      "num": 968975,
+      "word": "原来2025是完美平方年",
+      "onboard_time": 1735912399,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120140,
@@ -8859,14 +8923,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 80654,
-      "num": 968975,
-      "word": "原来2025是完美平方年",
-      "onboard_time": 1735912399,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79984,
       "num": 211254,
       "word": "警方通报男子用加特林烟花射向气球海",
@@ -8920,14 +8976,6 @@
       "word": "95后脑瘫小伙因自己理发健身走红",
       "onboard_time": 1735851138,
       "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 73486,
-      "num": 342099,
-      "word": "超市被员工偷倒闭当事人发声",
-      "onboard_time": 1735912879,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -9129,6 +9177,14 @@
       "onboard_time": 1735636342,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62746,
+      "num": 456397,
+      "word": "中国高铁如何做到世界最快",
+      "onboard_time": 1735911438,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 62462,
@@ -9353,14 +9409,6 @@
       "onboard_time": 1735910180,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 53533,
-      "num": 456397,
-      "word": "中国高铁如何做到世界最快",
-      "onboard_time": 1735911438,
-      "rank": 9,
-      "category": "正能量"
     },
     {
       "raw_hot": 52740,
@@ -10187,6 +10235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28774,
+      "num": 218155,
+      "word": "郝蕾说给老登电影打低分很悲哀",
+      "onboard_time": 1735914621,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28748,
       "num": 28748,
       "word": "2025幸福快乐",
@@ -10497,6 +10553,14 @@
       "onboard_time": 1735687274,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20917,
+      "num": 216025,
+      "word": "王一博方打假恋情传闻",
+      "onboard_time": 1735914441,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 20811,
