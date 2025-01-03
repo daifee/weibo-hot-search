@@ -1,6 +1,6 @@
 {
   "startTime": 1735921654212,
-  "endTime": 1735946492132,
+  "endTime": 1735947329477,
   "band_list": [
     {
       "raw_hot": 1489080,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 836664,
-      "num": 763179,
+      "num": 877680,
       "word": "医生称森碟下巴后缩或影响口腔功能",
       "onboard_time": 1735916900,
       "rank": 5,
@@ -67,20 +67,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 501260,
+      "num": 268336,
+      "word": "韩国空难机长遇难前最后动作被拍下",
+      "onboard_time": 1735935671,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 491942,
       "num": 491942,
       "word": "福彩5亿巨奖中奖者已兑奖",
       "onboard_time": 1735912579,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 415690,
-      "num": 215697,
-      "word": "韩国空难机长遇难前最后动作被拍下",
-      "onboard_time": 1735935671,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 412971,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 269431,
-      "num": 220587,
+      "num": 234285,
       "word": "徐志胜睡八个小时算失眠",
       "onboard_time": 1735911500,
       "rank": 15,
@@ -217,6 +217,14 @@
       "onboard_time": 1735912399,
       "rank": 25,
       "category": "网红"
+    },
+    {
+      "raw_hot": 188352,
+      "num": 188352,
+      "word": "胖东来员工收付彩礼将被取消福利",
+      "onboard_time": 1735942751,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185422,
@@ -315,20 +323,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 117708,
-      "num": 117708,
-      "word": "胖东来员工收付彩礼将被取消福利",
-      "onboard_time": 1735942751,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115825,
       "num": 115825,
       "word": "赵丽颖到达澳门",
       "onboard_time": 1735914020,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114856,
+      "num": 199230,
+      "word": "警方通报小轿车撞向货车致1死2伤",
+      "onboard_time": 1735946175,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 110096,
@@ -491,20 +499,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 46116,
-      "num": 165133,
-      "word": "警方通报小轿车撞向货车致1死2伤",
-      "onboard_time": 1735946175,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 42280,
       "num": 59121,
       "word": "韩国一商业楼起火多人被困",
       "onboard_time": 1735932191,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 42112,
+      "num": 42112,
+      "word": "周深一年发了近200条生日快乐",
+      "onboard_time": 1735907599,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 38723,
@@ -515,12 +523,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 37096,
-      "num": 37096,
-      "word": "周深一年发了近200条生日快乐",
-      "onboard_time": 1735907599,
-      "rank": 48,
-      "category": "演出"
+      "raw_hot": 37208,
+      "num": 42089,
+      "word": "上海男乒主教练谈引入樊振东",
+      "onboard_time": 1735927694,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 34023,
@@ -531,19 +539,35 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 33781,
+      "num": 37184,
+      "word": "小柯基发现主人在拍它时笑容萌化了",
+      "onboard_time": 1735946054,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 33341,
+      "num": 37170,
+      "word": "在禁天价彩礼上胖东来带了个好头",
+      "onboard_time": 1735926672,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31808,
+      "num": 37139,
+      "word": "白鹿祝大家不要烦心",
+      "onboard_time": 1735946834,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30156,
       "num": 30156,
       "word": "蛇币蛇钞异常火爆不乏大学生群体的推动",
       "onboard_time": 1735933392,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29622,
-      "num": 36517,
-      "word": "在禁天价彩礼上胖东来带了个好头",
-      "onboard_time": 1735926672,
-      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -555,15 +579,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 28713,
-      "num": 73596,
-      "word": "蛇钞年后溢价预计会收窄",
-      "onboard_time": 1735942032,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 27953,
+      "raw_hot": 28956,
       "num": 68036,
       "word": "广州福彩回应一站点中101注一等奖",
       "onboard_time": 1735930992,
@@ -571,12 +587,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27491,
-      "num": 42089,
-      "word": "上海男乒主教练谈引入樊振东",
-      "onboard_time": 1735927694,
-      "rank": 28,
-      "category": "体育"
+      "raw_hot": 28713,
+      "num": 73596,
+      "word": "蛇钞年后溢价预计会收窄",
+      "onboard_time": 1735942032,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 25644,
