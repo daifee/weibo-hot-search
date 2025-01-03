@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735915131600,
+  "endTime": 1735917798115,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -787,6 +787,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1628910,
+      "num": 1628910,
+      "word": "医生解读森碟下巴后缩",
+      "onboard_time": 1735915221,
+      "rank": 0,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 1626736,
       "num": 1626736,
       "word": "孙颖莎钱天一擦边球争议",
@@ -1507,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1008774,
+      "num": 703765,
+      "word": "孙乐言 星光大赏主持",
+      "onboard_time": 1735916000,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 998655,
       "num": 998655,
       "word": "遇龙",
@@ -1929,6 +1945,14 @@
       "onboard_time": 1735698200,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 832603,
+      "num": 832603,
+      "word": "官方回应罚款已退并批评相关人员",
+      "onboard_time": 1735912160,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 822120,
@@ -2691,6 +2715,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 642467,
+      "num": 642467,
+      "word": "福彩5亿巨奖中奖者已兑奖",
+      "onboard_time": 1735912579,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 641213,
       "num": 641213,
       "word": "提档",
@@ -3377,6 +3409,14 @@
       "onboard_time": 1735829240,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 530716,
+      "num": 530716,
+      "word": "韩客机失事现场发现波音737手册残页",
+      "onboard_time": 1735914741,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 529888,
@@ -4305,14 +4345,6 @@
       "onboard_time": 1735698379,
       "rank": 16,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 432047,
-      "num": 432047,
-      "word": "福彩5亿巨奖中奖者已兑奖",
-      "onboard_time": 1735912579,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 431933,
@@ -5267,6 +5299,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 358277,
+      "num": 358277,
+      "word": "李昀锐一张嘴我的胃口打开了",
+      "onboard_time": 1735915461,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 357754,
       "num": 357754,
       "word": "毛不易 雪琴我那么握因为我是独唱",
@@ -5321,6 +5361,14 @@
       "onboard_time": 1735910601,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 355081,
+      "num": 268621,
+      "word": "徐志胜睡八个小时算失眠",
+      "onboard_time": 1735911500,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 355023,
@@ -6739,6 +6787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279221,
+      "num": 279221,
+      "word": "福彩5亿巨奖中奖者纳税过亿",
+      "onboard_time": 1735912941,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 278873,
       "num": 278873,
       "word": "官方通报鄂尔多斯虚标羊绒含量事件",
@@ -6952,14 +7008,6 @@
       "word": "李晨姑姑消消乐",
       "onboard_time": 1735789942,
       "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 268621,
-      "num": 268621,
-      "word": "徐志胜睡八个小时算失眠",
-      "onboard_time": 1735911500,
-      "rank": 26,
       "category": "综艺"
     },
     {
@@ -7281,14 +7329,6 @@
       "onboard_time": 1735522999,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 256021,
-      "num": 256021,
-      "word": "官方回应罚款已退并批评相关人员",
-      "onboard_time": 1735912160,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 255993,
@@ -8889,6 +8929,14 @@
       "onboard_time": 1735726401,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 209036,
+      "num": 382829,
+      "word": "医生称森碟下巴后缩或影响口腔功能",
+      "onboard_time": 1735916900,
+      "rank": 9,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 209026,
@@ -10875,14 +10923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186714,
-      "num": 186714,
-      "word": "福彩5亿巨奖中奖者纳税过亿",
-      "onboard_time": 1735912941,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 186496,
       "num": 263072,
       "word": "紧急迫降的含金量在持续上升",
@@ -11435,14 +11475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177221,
-      "num": 177221,
-      "word": "韩客机失事现场发现波音737手册残页",
-      "onboard_time": 1735914741,
-      "rank": 37,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 177171,
       "num": 177171,
       "word": "小李子出演鱿鱼游戏3",
@@ -11745,6 +11777,14 @@
       "onboard_time": 1735442600,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 173068,
+      "num": 160271,
+      "word": "多国球员对WTT世界排名不满",
+      "onboard_time": 1735916241,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 172942,
@@ -12755,6 +12795,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 161622,
+      "num": 159339,
+      "word": "2024届清华毕业生就业数据",
+      "onboard_time": 1735915521,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 161583,
       "num": 161583,
       "word": "今天缅怀糖丸爷爷顾方舟",
@@ -12833,6 +12881,14 @@
       "onboard_time": 1735909160,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 160943,
+      "num": 160943,
+      "word": "流星雨",
+      "onboard_time": 1735915942,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160822,
@@ -13617,6 +13673,14 @@
       "onboard_time": 1735541059,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149282,
+      "num": 149282,
+      "word": "鹭卓时隔20天回后陡门啦",
+      "onboard_time": 1735917140,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 149195,
@@ -14931,6 +14995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 134790,
+      "num": 134790,
+      "word": "以前都不叫抑郁症",
+      "onboard_time": 1735916241,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134766,
       "num": 134766,
       "word": "鸣潮",
@@ -15851,6 +15923,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120545,
+      "num": 120545,
+      "word": "小伙飞机上丢行李国航称无法联系机组",
+      "onboard_time": 1735916959,
+      "rank": 47,
+      "category": "艺人,舆论监督"
+    },
+    {
       "raw_hot": 120532,
       "num": 120532,
       "word": "白鹿 不能cue的梗提前说",
@@ -15929,6 +16009,14 @@
       "onboard_time": 1735735041,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119719,
+      "num": 119719,
+      "word": "福宝的丰容玩具里装满了笋笋",
+      "onboard_time": 1735917021,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119345,
@@ -16065,6 +16153,14 @@
       "onboard_time": 1735468639,
       "rank": 49,
       "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 117541,
+      "num": 117541,
+      "word": "王鹤棣将落单王润泽拉入跨年拥抱",
+      "onboard_time": 1735917740,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 117340,
@@ -16329,6 +16425,14 @@
       "onboard_time": 1735726942,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 112303,
+      "num": 159919,
+      "word": "WTT官方声明",
+      "onboard_time": 1735917439,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 112222,
@@ -17803,6 +17907,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 73019,
+      "num": 456397,
+      "word": "中国高铁如何做到世界最快",
+      "onboard_time": 1735911438,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 72853,
       "num": 253678,
       "word": "有俄罗斯商品馆货架标签已注明产地",
@@ -18225,14 +18337,6 @@
       "onboard_time": 1735403659,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 62746,
-      "num": 456397,
-      "word": "中国高铁如何做到世界最快",
-      "onboard_time": 1735911438,
-      "rank": 9,
-      "category": "正能量"
     },
     {
       "raw_hot": 62462,
@@ -19497,6 +19601,14 @@
       "onboard_time": 1735798762,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 38908,
+      "num": 123440,
+      "word": "七颗猩猩说我不是老板",
+      "onboard_time": 1735916300,
+      "rank": 44,
+      "category": "网红"
     },
     {
       "raw_hot": 38850,
@@ -21313,6 +21425,14 @@
       "onboard_time": 1735595952,
       "rank": 14,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 19993,
+      "num": 361273,
+      "word": "易烊千玺演出了刘春和的生命力",
+      "onboard_time": 1735916541,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 19910,
