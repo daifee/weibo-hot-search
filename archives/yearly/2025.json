@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735893694630,
+  "endTime": 1735896193842,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -209,6 +209,14 @@
       "onboard_time": 1735869680,
       "rank": 0,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 1830161,
+      "num": 328456,
+      "word": "被家暴16次女子直播带货",
+      "onboard_time": 1735892540,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1820460,
@@ -723,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 886438,
+      "num": 443050,
+      "word": "王楚钦和许昕儿子合照",
+      "onboard_time": 1735892929,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 883945,
       "num": 669248,
       "word": "理发师晓华爆改外国人",
@@ -777,14 +793,6 @@
       "onboard_time": 1735668077,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 835917,
-      "num": 297564,
-      "word": "被家暴16次女子直播带货",
-      "onboard_time": 1735892540,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 832820,
@@ -1129,6 +1137,14 @@
       "onboard_time": 1735793543,
       "rank": 3,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 648170,
+      "num": 648170,
+      "word": "是片酬低才有钱做特效吗",
+      "onboard_time": 1735893919,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 645882,
@@ -1771,6 +1787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 435881,
+      "num": 435881,
+      "word": "美方正考虑禁止中国无人机进入美国",
+      "onboard_time": 1735893919,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 435344,
       "num": 379617,
       "word": "留学生穿睡衣帮爸爸谈跨国生意",
@@ -2033,6 +2057,14 @@
       "onboard_time": 1735696999,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 386387,
+      "num": 320263,
+      "word": "YG新男团预告",
+      "onboard_time": 1735894279,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 386314,
@@ -2369,38 +2401,6 @@
       "onboard_time": 1735737021,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 339456,
-      "num": 339456,
-      "word": "张峻豪前缀",
-      "onboard_time": 1735743561,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 336498,
-      "num": 336498,
-      "word": "程潇 老娘要摆ending",
-      "onboard_time": 1735690459,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 335918,
-      "num": 335918,
-      "word": "温以凡也暗恋了桑延九年",
-      "onboard_time": 1735814361,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 335709,
-      "num": 335709,
-      "word": "家人为被拐儿子补齐21个生日蛋糕",
-      "onboard_time": 1735719740,
-      "rank": 14,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

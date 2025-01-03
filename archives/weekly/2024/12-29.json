@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735893694630,
+  "endTime": 1735896193842,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -561,6 +561,14 @@
       "onboard_time": 1735469539,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1830161,
+      "num": 328456,
+      "word": "被家暴16次女子直播带货",
+      "onboard_time": 1735892540,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1820460,
@@ -1715,6 +1723,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 886438,
+      "num": 443050,
+      "word": "王楚钦和许昕儿子合照",
+      "onboard_time": 1735892929,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 883945,
       "num": 669248,
       "word": "理发师晓华爆改外国人",
@@ -1809,14 +1825,6 @@
       "onboard_time": 1735668077,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 835917,
-      "num": 297564,
-      "word": "被家暴16次女子直播带货",
-      "onboard_time": 1735892540,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 833649,
@@ -2513,6 +2521,14 @@
       "onboard_time": 1735793543,
       "rank": 3,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 648170,
+      "num": 648170,
+      "word": "是片酬低才有钱做特效吗",
+      "onboard_time": 1735893919,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 648026,
@@ -3939,6 +3955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 435881,
+      "num": 435881,
+      "word": "美方正考虑禁止中国无人机进入美国",
+      "onboard_time": 1735893919,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 435344,
       "num": 379617,
       "word": "留学生穿睡衣帮爸爸谈跨国生意",
@@ -4561,6 +4585,14 @@
       "onboard_time": 1735614499,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 386387,
+      "num": 320263,
+      "word": "YG新男团预告",
+      "onboard_time": 1735894279,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 386314,
@@ -5307,6 +5339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 332733,
+      "num": 332733,
+      "word": "宋雨琦首个内娱红毯",
+      "onboard_time": 1735893440,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 332459,
       "num": 332459,
       "word": "难哄跨年吃的是国宴",
@@ -5611,6 +5651,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 317147,
+      "num": 317147,
+      "word": "李小冉 都说了让你说话注意点",
+      "onboard_time": 1735895179,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 316756,
       "num": 459541,
       "word": "王楚钦说林诗栋是国乒绝对主力",
@@ -5624,14 +5672,6 @@
       "word": "乒超MVP",
       "onboard_time": 1735741041,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 316129,
-      "num": 279414,
-      "word": "王楚钦和许昕儿子合照",
-      "onboard_time": 1735892929,
-      "rank": 16,
       "category": "体育"
     },
     {
@@ -5772,7 +5812,7 @@
     },
     {
       "raw_hot": 307849,
-      "num": 256686,
+      "num": 274315,
       "word": "考公人真的很害怕过年",
       "onboard_time": 1735891699,
       "rank": 20,
@@ -5897,6 +5937,14 @@
       "onboard_time": 1735791262,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 301566,
+      "num": 301566,
+      "word": "白月梵星定档",
+      "onboard_time": 1735895241,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 301278,
@@ -6595,6 +6643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264487,
+      "num": 264487,
+      "word": "连侯佩岑都失去表情管理了",
+      "onboard_time": 1735895600,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264210,
       "num": 264210,
       "word": "SEVENTEEN上海签售",
@@ -6921,6 +6977,14 @@
       "onboard_time": 1735791985,
       "rank": 28,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 253004,
+      "num": 253004,
+      "word": "俄乌士兵近身肉搏画面",
+      "onboard_time": 1735895420,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 252377,
@@ -8244,7 +8308,7 @@
     },
     {
       "raw_hot": 211252,
-      "num": 181257,
+      "num": 201349,
       "word": "孙颖莎代言",
       "onboard_time": 1735892660,
       "rank": 35,
@@ -8899,6 +8963,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 201701,
+      "num": 201701,
+      "word": "不良人",
+      "onboard_time": 1735895781,
+      "rank": 31,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 201546,
       "num": 266760,
       "word": "研究生是非要期末考吗",
@@ -9289,6 +9361,14 @@
       "onboard_time": 1735614437,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196619,
+      "num": 196619,
+      "word": "广东女子错买断肠草煲汤致中毒身亡",
+      "onboard_time": 1735892240,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196568,
@@ -10131,6 +10211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187812,
+      "num": 187812,
+      "word": "LOL手游班德尔峡谷来咯",
+      "onboard_time": 1735894821,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187568,
       "num": 187568,
       "word": "TizzyT跨年压轴连唱15首",
@@ -10305,14 +10393,6 @@
       "onboard_time": 1735399461,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 184569,
-      "num": 259229,
-      "word": "宋雨琦首个内娱红毯",
-      "onboard_time": 1735893440,
-      "rank": 17,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 184170,
@@ -10707,6 +10787,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 177688,
+      "num": 177688,
+      "word": "误杀3 正面佛头反面魔头",
+      "onboard_time": 1735895000,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 177606,
       "num": 177606,
       "word": "钟睒睒称不恨任何人",
@@ -11003,6 +11091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173301,
+      "num": 173301,
+      "word": "星光大赏出发路透",
+      "onboard_time": 1735894101,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 173183,
       "num": 173183,
       "word": "肖战郭靖坐姿",
@@ -11289,14 +11385,6 @@
       "onboard_time": 1735733842,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 169438,
-      "num": 169438,
-      "word": "广东女子错买断肠草煲汤致中毒身亡",
-      "onboard_time": 1735892240,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 169434,
@@ -12011,6 +12099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161274,
+      "num": 274639,
+      "word": "外交部回应美国考虑限制中国无人机",
+      "onboard_time": 1735894821,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 161094,
       "num": 168368,
       "word": "最强县级市市委书记调整",
@@ -12291,6 +12387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156388,
+      "num": 156388,
+      "word": "偶像梦幻祭",
+      "onboard_time": 1735893980,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 156140,
       "num": 156140,
       "word": "问界被无人车撞车主形容像碰瓷",
@@ -12329,6 +12433,14 @@
       "onboard_time": 1735431257,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155716,
+      "num": 171372,
+      "word": "赵今麦 赶来观看李斯丹妮MV第101遍",
+      "onboard_time": 1735894760,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 155665,
@@ -12569,6 +12681,14 @@
       "onboard_time": 1735717699,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 152398,
+      "num": 152398,
+      "word": "胖东来",
+      "onboard_time": 1735895960,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152312,
@@ -13289,6 +13409,14 @@
       "onboard_time": 1735467979,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 143171,
+      "num": 143171,
+      "word": "大奉打更人渐入佳境",
+      "onboard_time": 1735895661,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 143091,
@@ -14275,6 +14403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 130039,
+      "num": 140551,
+      "word": "华晨宇来了也得等8小时",
+      "onboard_time": 1735893561,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129966,
       "num": 640241,
       "word": "点外卖监视女友行踪违法吗",
@@ -14356,7 +14492,7 @@
     },
     {
       "raw_hot": 128964,
-      "num": 128964,
+      "num": 275041,
       "word": "听人聊天能月入三万吗",
       "onboard_time": 1735891822,
       "rank": 45,
@@ -14569,14 +14705,6 @@
       "onboard_time": 1735709839,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 125168,
-      "num": 125168,
-      "word": "华晨宇来了也得等8小时",
-      "onboard_time": 1735893561,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 124843,
@@ -15259,6 +15387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114310,
+      "num": 214072,
+      "word": "OOTD",
+      "onboard_time": 1735896141,
+      "rank": 27,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 114209,
       "num": 309875,
       "word": "一潜水者被所乘游艇挂机螺旋绞中死亡",
@@ -15593,6 +15729,14 @@
       "onboard_time": 1735609698,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 106381,
+      "num": 205646,
+      "word": "全红婵载誉归来仍才17岁",
+      "onboard_time": 1735895360,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 106061,
@@ -17019,6 +17163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66304,
+      "num": 452035,
+      "word": "处置网络水军账号和商家店铺239万个",
+      "onboard_time": 1735895059,
+      "rank": 2,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 66115,
       "num": 361856,
       "word": "尹锡悦律师团进入总统官邸",
@@ -17209,6 +17361,14 @@
       "onboard_time": 1735874720,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 61700,
+      "num": 206301,
+      "word": "银川地震诱因是地磁暴吗",
+      "onboard_time": 1735895661,
+      "rank": 29,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 61685,
@@ -18035,6 +18195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44404,
+      "num": 210859,
+      "word": "男子被拐31年后回家专门剪掉白发",
+      "onboard_time": 1735895179,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44335,
       "num": 451778,
       "word": "广州近千户家庭地址被冒用注册公司",
@@ -18249,6 +18417,14 @@
       "onboard_time": 1735618641,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41618,
+      "num": 332538,
+      "word": "5斤整装车厘子复秤少半斤",
+      "onboard_time": 1735896081,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40918,
@@ -18561,6 +18737,14 @@
       "onboard_time": 1735542258,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 36512,
+      "num": 276207,
+      "word": "罗云熙确认出席微博之夜",
+      "onboard_time": 1735893381,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 36510,
@@ -18953,6 +19137,14 @@
       "onboard_time": 1735770853,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31995,
+      "num": 190232,
+      "word": "范丞丞官宣微博之夜",
+      "onboard_time": 1735894879,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 31580,
@@ -20065,6 +20257,14 @@
       "onboard_time": 1735536740,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20622,
+      "num": 218944,
+      "word": "芭莎开年刊表达的女性态度",
+      "onboard_time": 1735896081,
+      "rank": 26,
+      "category": "时尚"
     },
     {
       "raw_hot": 20599,
