@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735878407607,
+  "endTime": 1735879265798,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 2979441,
-      "num": 377745,
+      "num": 454377,
       "word": "田亮回应网友质疑女儿下巴后缩严重",
       "onboard_time": 1735873398,
       "rank": 10,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 2324326,
-      "num": 366843,
+      "num": 460508,
       "word": "田亮女儿进行下巴后缩矫正",
       "onboard_time": 1735874540,
       "rank": 30,
@@ -819,6 +819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 786867,
+      "num": 786867,
+      "word": "张雪峰公司实行上4休3",
+      "onboard_time": 1735874299,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 785389,
       "num": 767760,
       "word": "2025待爆",
@@ -1123,14 +1131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 619415,
-      "num": 619415,
-      "word": "张雪峰公司实行上4休3",
-      "onboard_time": 1735874299,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 616301,
       "num": 466032,
       "word": "黄冠亨 叶舒华",
@@ -1403,12 +1403,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 504340,
+      "num": 504340,
+      "word": "买手机平板智能手表手环能省钱了",
+      "onboard_time": 1735874899,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 503506,
       "num": 503506,
       "word": "何炅拥抱谢娜零点照片",
       "onboard_time": 1735834039,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 502932,
+      "num": 502932,
+      "word": "再见爱人牛了一整季",
+      "onboard_time": 1735877543,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 502857,
@@ -1433,6 +1449,14 @@
       "onboard_time": 1735743981,
       "rank": 11,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 499501,
+      "num": 499501,
+      "word": "王曼昱好帅",
+      "onboard_time": 1735875440,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 499122,
@@ -1460,7 +1484,7 @@
     },
     {
       "raw_hot": 493434,
-      "num": 322385,
+      "num": 435414,
       "word": "凯迪拉克 樊振东",
       "onboard_time": 1735876040,
       "rank": 15,
@@ -1483,11 +1507,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 476623,
+      "num": 436960,
+      "word": "尹锡悦逮捕令执行现场",
+      "onboard_time": 1735875560,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 475731,
       "num": 475731,
       "word": "易烊千玺面试戏演哭剧组所有人",
       "onboard_time": 1735719499,
       "rank": 17,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 475127,
+      "num": 475127,
+      "word": "对600万人说慢一点没关系",
+      "onboard_time": 1735876881,
+      "rank": 7,
       "category": "电影"
     },
     {
@@ -1497,14 +1537,6 @@
       "onboard_time": 1735702399,
       "rank": 49,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 472225,
-      "num": 472225,
-      "word": "王曼昱好帅",
-      "onboard_time": 1735875440,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 469784,
@@ -1569,14 +1601,6 @@
       "onboard_time": 1735659686,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 446446,
-      "num": 446446,
-      "word": "买手机平板智能手表手环能省钱了",
-      "onboard_time": 1735874899,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 446361,
@@ -1697,14 +1721,6 @@
       "onboard_time": 1735705221,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 423343,
-      "num": 423343,
-      "word": "对600万人说慢一点没关系",
-      "onboard_time": 1735876881,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 421369,
@@ -1844,7 +1860,7 @@
     },
     {
       "raw_hot": 390896,
-      "num": 346788,
+      "num": 385039,
       "word": "王鹤棣两次跨年状态的区别",
       "onboard_time": 1735875080,
       "rank": 13,
@@ -2283,14 +2299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 325723,
-      "num": 325723,
-      "word": "尹锡悦逮捕令执行现场",
-      "onboard_time": 1735875560,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 324813,
       "num": 324813,
       "word": "骗骗喜欢你 烂人错过",
@@ -2387,20 +2395,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 310025,
-      "num": 310025,
-      "word": "银河酷娱前老板回应",
-      "onboard_time": 1735745241,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 308995,
-      "num": 308995,
-      "word": "雷军辟谣只招聘35岁以下员工",
-      "onboard_time": 1735689197,
-      "rank": 17,
-      "category": "互联网"
+      "raw_hot": 311401,
+      "num": 311401,
+      "word": "三花不愧是猫届美女",
+      "onboard_time": 1735877480,
+      "rank": 31,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
