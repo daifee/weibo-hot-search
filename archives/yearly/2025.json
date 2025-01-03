@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735896193842,
+  "endTime": 1735897006852,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 1830161,
-      "num": 328456,
+      "num": 348140,
       "word": "被家暴16次女子直播带货",
       "onboard_time": 1735892540,
       "rank": 22,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 1431979,
-      "num": 496069,
+      "num": 860590,
       "word": "鱿鱼游戏吴京",
       "onboard_time": 1735890917,
       "rank": 3,
@@ -707,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 918107,
+      "num": 918107,
+      "word": "是片酬低才有钱做特效吗",
+      "onboard_time": 1735893919,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 915869,
       "num": 865770,
       "word": "虞书欣跨年甜辣风舞台",
@@ -732,7 +740,7 @@
     },
     {
       "raw_hot": 886438,
-      "num": 443050,
+      "num": 843302,
       "word": "王楚钦和许昕儿子合照",
       "onboard_time": 1735892929,
       "rank": 16,
@@ -1003,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 710669,
+      "num": 375527,
+      "word": "李小冉 都说了让你说话注意点",
+      "onboard_time": 1735895179,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 705846,
       "num": 705846,
       "word": "广西车厘子10元2盒是真的",
@@ -1137,14 +1153,6 @@
       "onboard_time": 1735793543,
       "rank": 3,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 648170,
-      "num": 648170,
-      "word": "是片酬低才有钱做特效吗",
-      "onboard_time": 1735893919,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 645882,
@@ -1369,6 +1377,14 @@
       "onboard_time": 1735867400,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 559533,
+      "num": 389245,
+      "word": "白月梵星定档",
+      "onboard_time": 1735895241,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 556242,
@@ -1907,6 +1923,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 419208,
+      "num": 341783,
+      "word": "宋雨琦首个内娱红毯",
+      "onboard_time": 1735893440,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 417350,
       "num": 417350,
       "word": "国色芳华大剧排面",
@@ -1945,6 +1969,14 @@
       "onboard_time": 1735792104,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 409933,
+      "num": 339608,
+      "word": "俄乌士兵近身肉搏画面",
+      "onboard_time": 1735895420,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 409124,
@@ -2060,7 +2092,7 @@
     },
     {
       "raw_hot": 386387,
-      "num": 320263,
+      "num": 335258,
       "word": "YG新男团预告",
       "onboard_time": 1735894279,
       "rank": 13,
@@ -2283,6 +2315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 357194,
+      "num": 334621,
+      "word": "连侯佩岑都失去表情管理了",
+      "onboard_time": 1735895600,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 356401,
       "num": 271301,
       "word": "赵本山还是太超前了",
@@ -2361,46 +2401,6 @@
       "onboard_time": 1735879820,
       "rank": 17,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 342790,
-      "num": 342790,
-      "word": "樊振东分享霉霉的Mean",
-      "onboard_time": 1735691239,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 341769,
-      "num": 341769,
-      "word": "口呼吸",
-      "onboard_time": 1735888220,
-      "rank": 18,
-      "category": "艺人,健康医疗"
-    },
-    {
-      "raw_hot": 341025,
-      "num": 271254,
-      "word": "00后男生耐得住寂寞一天做上百条女裤",
-      "onboard_time": 1735742241,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 340821,
-      "num": 208933,
-      "word": "宋茜绝美endingpose",
-      "onboard_time": 1735654770,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 339631,
-      "num": 339631,
-      "word": "猎罪图鉴",
-      "onboard_time": 1735737021,
-      "rank": 27,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
