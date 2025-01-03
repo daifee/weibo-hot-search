@@ -1,6 +1,6 @@
 {
   "startTime": 1735835273269,
-  "endTime": 1735875738555,
+  "endTime": 1735878407607,
   "band_list": [
     {
       "raw_hot": 2979441,
@@ -9,6 +9,14 @@
       "onboard_time": 1735873398,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2324326,
+      "num": 366843,
+      "word": "田亮女儿进行下巴后缩矫正",
+      "onboard_time": 1735874540,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 1862422,
@@ -35,20 +43,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1261142,
+      "num": 1261142,
+      "word": "00后为了局部退休疯狂存钱",
+      "onboard_time": 1735874118,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1058621,
       "num": 229981,
       "word": "于正刚和赵露思聊了一小时",
       "onboard_time": 1735814900,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 981657,
-      "num": 188151,
-      "word": "田亮女儿进行下巴后缩矫正",
-      "onboard_time": 1735874540,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 951115,
@@ -99,11 +107,11 @@
       "category": "美食"
     },
     {
-      "raw_hot": 608350,
-      "num": 608350,
-      "word": "00后为了局部退休疯狂存钱",
-      "onboard_time": 1735874118,
-      "rank": 20,
+      "raw_hot": 619415,
+      "num": 619415,
+      "word": "张雪峰公司实行上4休3",
+      "onboard_time": 1735874299,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -179,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 493434,
+      "num": 322385,
+      "word": "凯迪拉克 樊振东",
+      "onboard_time": 1735876040,
+      "rank": 15,
+      "category": "体育,汽车"
+    },
+    {
       "raw_hot": 493069,
       "num": 403378,
       "word": "银川地震",
@@ -193,6 +209,22 @@
       "onboard_time": 1735823659,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 472225,
+      "num": 472225,
+      "word": "王曼昱好帅",
+      "onboard_time": 1735875440,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 446446,
+      "num": 446446,
+      "word": "买手机平板智能手表手环能省钱了",
+      "onboard_time": 1735874899,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 442488,
@@ -219,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 423343,
+      "num": 423343,
+      "word": "对600万人说慢一点没关系",
+      "onboard_time": 1735876881,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 414732,
       "num": 439528,
       "word": "滑翔伞坠落致教练和一女大学生身亡",
@@ -233,6 +273,14 @@
       "onboard_time": 1735821261,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 390896,
+      "num": 346788,
+      "word": "王鹤棣两次跨年状态的区别",
+      "onboard_time": 1735875080,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 377742,
@@ -299,14 +347,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 346788,
-      "num": 346788,
-      "word": "王鹤棣两次跨年状态的区别",
-      "onboard_time": 1735875080,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 344066,
       "num": 344066,
       "word": "中学录用13人无一师范毕业的冷思考",
@@ -315,12 +355,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 331652,
+      "num": 321237,
+      "word": "森碟下巴后缩严重",
+      "onboard_time": 1735877421,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 329910,
       "num": 329910,
       "word": "95后脑瘫小伙回应因理发健身走红",
       "onboard_time": 1735861097,
       "rank": 14,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 325723,
+      "num": 325723,
+      "word": "尹锡悦逮捕令执行现场",
+      "onboard_time": 1735875560,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 319913,
@@ -345,14 +401,6 @@
       "onboard_time": 1735866440,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 298160,
-      "num": 298160,
-      "word": "张雪峰公司实行上4休3",
-      "onboard_time": 1735874299,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 297123,
@@ -387,12 +435,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 285790,
-      "num": 377748,
-      "word": "买手机平板智能手表手环能省钱了",
-      "onboard_time": 1735874899,
-      "rank": 9,
-      "category": "财经"
+      "raw_hot": 277479,
+      "num": 311588,
+      "word": "再见爱人牛了一整季",
+      "onboard_time": 1735877543,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 276665,
+      "num": 276665,
+      "word": "女生清华毕业5年后去蓝翔全职学厨",
+      "onboard_time": 1735876461,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 268390,
@@ -401,6 +457,14 @@
       "onboard_time": 1735817059,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 267455,
+      "num": 296064,
+      "word": "蒋奇明李雪琴新片演情侣",
+      "onboard_time": 1735875560,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 257550,
@@ -419,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249616,
+      "num": 249616,
+      "word": "三花不愧是猫届美女",
+      "onboard_time": 1735877480,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 246765,
       "num": 246765,
       "word": "银川未来几日还可能有较强地震发生",
@@ -433,6 +505,14 @@
       "onboard_time": 1735869559,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 235037,
+      "num": 287105,
+      "word": "世上最痛苦的是人活着钱没了",
+      "onboard_time": 1735876278,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 233758,
@@ -457,6 +537,14 @@
       "onboard_time": 1735826361,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226204,
+      "num": 279216,
+      "word": "再见爱人",
+      "onboard_time": 1735876701,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 220445,
@@ -531,14 +619,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 195758,
-      "num": 195758,
-      "word": "蒋奇明李雪琴新片演情侣",
-      "onboard_time": 1735875560,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 195011,
       "num": 195011,
       "word": "第五人格重做先知虚妄",
@@ -571,6 +651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 193055,
+      "num": 219953,
+      "word": "误杀3 一直游到海水变红",
+      "onboard_time": 1735877059,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 191714,
       "num": 191714,
       "word": "教育局回应学校工作人员向老人泼水",
@@ -587,12 +675,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186991,
-      "num": 186991,
-      "word": "王曼昱好帅",
-      "onboard_time": 1735875440,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 191219,
+      "num": 191219,
+      "word": "杨采钰又拿了樊胜美剧本",
+      "onboard_time": 1735878142,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 189553,
+      "num": 276769,
+      "word": "杨紫整活中",
+      "onboard_time": 1735877241,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 184968,
@@ -604,7 +700,7 @@
     },
     {
       "raw_hot": 183456,
-      "num": 183456,
+      "num": 192963,
       "word": "安徽省考公告",
       "onboard_time": 1735873578,
       "rank": 31,
@@ -625,6 +721,14 @@
       "onboard_time": 1735832960,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177606,
+      "num": 177606,
+      "word": "钟睒睒称不恨任何人",
+      "onboard_time": 1735877722,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 175804,
@@ -651,6 +755,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168676,
+      "num": 301703,
+      "word": "王曼昱让我亲",
+      "onboard_time": 1735876701,
+      "rank": 24,
+      "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 168181,
+      "num": 168181,
+      "word": "馋嘴警犬自己给自己加了个鸡腿",
+      "onboard_time": 1735873998,
+      "rank": 38,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 164657,
+      "num": 164657,
+      "word": "鞠婧祎 人鱼公主",
+      "onboard_time": 1735878260,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 164463,
       "num": 164463,
       "word": "霸王茶姬毛绒杯",
@@ -667,12 +795,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 162550,
-      "num": 162550,
-      "word": "馋嘴警犬自己给自己加了个鸡腿",
-      "onboard_time": 1735873998,
-      "rank": 38,
-      "category": "正能量"
+      "raw_hot": 158323,
+      "num": 325413,
+      "word": "中学招聘教师有硕博学历无可厚非",
+      "onboard_time": 1735877241,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158262,
@@ -681,6 +809,14 @@
       "onboard_time": 1735818620,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155117,
+      "num": 155117,
+      "word": "儿子离家3年无音讯老父亲后悔道歉",
+      "onboard_time": 1735875440,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154912,
@@ -713,6 +849,14 @@
       "onboard_time": 1735829481,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149287,
+      "num": 149287,
+      "word": "微博之夜集卡",
+      "onboard_time": 1735878142,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 149169,
@@ -753,6 +897,22 @@
       "onboard_time": 1735826541,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145137,
+      "num": 145137,
+      "word": "男子利用小程序Bug逃匿28万加油费",
+      "onboard_time": 1735875380,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144704,
+      "num": 144704,
+      "word": "国乒开启海南冬训",
+      "onboard_time": 1735876821,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 141589,
@@ -803,28 +963,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 134367,
-      "num": 134367,
-      "word": "儿子离家3年无音讯老父亲后悔道歉",
-      "onboard_time": 1735875440,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132731,
       "num": 132731,
       "word": "29省份上线医保定点药店比价小程序",
       "onboard_time": 1735868118,
       "rank": 40,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 130410,
-      "num": 130410,
-      "word": "男子利用小程序Bug逃匿28万加油费",
-      "onboard_time": 1735875380,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129758,
@@ -841,14 +985,6 @@
       "onboard_time": 1735812681,
       "rank": 42,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 127532,
-      "num": 127532,
-      "word": "尹锡悦逮捕令执行现场",
-      "onboard_time": 1735875560,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 125710,
@@ -1171,6 +1307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54086,
+      "num": 324252,
+      "word": "民航局回应近期外航安全事故",
+      "onboard_time": 1735877302,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51270,
       "num": 51270,
       "word": "银川又震440名消防员已集结完毕",
@@ -1235,6 +1379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33857,
+      "num": 318587,
+      "word": "烟花窜进洗衣店衣物被烧出黑洞",
+      "onboard_time": 1735877601,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33035,
       "num": 63631,
       "word": "美汽车撞人事件细节披露",
@@ -1251,12 +1403,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 31733,
+      "num": 317289,
+      "word": "林一官宣加盟2024微博之夜",
+      "onboard_time": 1735876342,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 30793,
       "num": 139162,
       "word": "汤都好喝的鲜虾豆腐煲",
       "onboard_time": 1735875440,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 30219,
+      "num": 137302,
+      "word": "尹锡悦支持者阻挠逮捕",
+      "onboard_time": 1735876342,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 29732,
@@ -1321,6 +1489,22 @@
       "onboard_time": 1735837275,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17019,
+      "num": 319888,
+      "word": "2025春节档",
+      "onboard_time": 1735877961,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 13655,
+      "num": 178729,
+      "word": "这么豪华绝美的大餐只是鱼和土豆",
+      "onboard_time": 1735875260,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 13596,
