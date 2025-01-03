@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735874835284,
+  "endTime": 1735875738555,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 2979441,
-      "num": 360107,
+      "num": 377745,
       "word": "田亮回应网友质疑女儿下巴后缩严重",
       "onboard_time": 1735873398,
       "rank": 10,
@@ -553,6 +553,14 @@
       "onboard_time": 1735795942,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 981657,
+      "num": 188151,
+      "word": "田亮女儿进行下巴后缩矫正",
+      "onboard_time": 1735874540,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 966952,
@@ -1121,6 +1129,14 @@
       "onboard_time": 1735729702,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 608350,
+      "num": 608350,
+      "word": "00后为了局部退休疯狂存钱",
+      "onboard_time": 1735874118,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 606520,
@@ -1851,6 +1867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 377742,
+      "num": 377742,
+      "word": "上海宝山一装修建筑局部坍塌",
+      "onboard_time": 1735872918,
+      "rank": 26,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 375927,
       "num": 375927,
       "word": "台下艺人看华晨宇舞台的反应",
@@ -1971,14 +1995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 360782,
-      "num": 360782,
-      "word": "上海宝山一装修建筑局部坍塌",
-      "onboard_time": 1735872918,
-      "rank": 26,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 359981,
       "num": 505211,
       "word": "女子在外打工家里住十几个陌生人",
@@ -2057,6 +2073,14 @@
       "onboard_time": 1735871479,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 346788,
+      "num": 346788,
+      "word": "王鹤棣两次跨年状态的区别",
+      "onboard_time": 1735875080,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 344066,
@@ -2377,30 +2401,6 @@
       "onboard_time": 1735695319,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 302117,
-      "num": 317504,
-      "word": "春晚彩排",
-      "onboard_time": 1735791262,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 301278,
-      "num": 301278,
-      "word": "深圳大学vs山东鲁能",
-      "onboard_time": 1735706660,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 300997,
-      "num": 300997,
-      "word": "孙铭阳孙颖莎合照",
-      "onboard_time": 1735808900,
-      "rank": 33,
-      "category": "体育"
     }
   ],
   "hotgov_list": [

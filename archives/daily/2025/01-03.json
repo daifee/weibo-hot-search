@@ -1,10 +1,10 @@
 {
   "startTime": 1735835273269,
-  "endTime": 1735874835284,
+  "endTime": 1735875738555,
   "band_list": [
     {
       "raw_hot": 2979441,
-      "num": 360107,
+      "num": 377745,
       "word": "田亮回应网友质疑女儿下巴后缩严重",
       "onboard_time": 1735873398,
       "rank": 10,
@@ -41,6 +41,14 @@
       "onboard_time": 1735814900,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 981657,
+      "num": 188151,
+      "word": "田亮女儿进行下巴后缩矫正",
+      "onboard_time": 1735874540,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 951115,
@@ -89,6 +97,14 @@
       "onboard_time": 1735863561,
       "rank": 3,
       "category": "美食"
+    },
+    {
+      "raw_hot": 608350,
+      "num": 608350,
+      "word": "00后为了局部退休疯狂存钱",
+      "onboard_time": 1735874118,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 600762,
@@ -219,6 +235,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 377742,
+      "num": 377742,
+      "word": "上海宝山一装修建筑局部坍塌",
+      "onboard_time": 1735872918,
+      "rank": 26,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 369882,
       "num": 369882,
       "word": "车厘子届爱马仕价格接近腰斩",
@@ -251,14 +275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 360782,
-      "num": 360782,
-      "word": "上海宝山一装修建筑局部坍塌",
-      "onboard_time": 1735872918,
-      "rank": 26,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 355119,
       "num": 355119,
       "word": "年前金价下跌年轻人再掀淘金热",
@@ -281,6 +297,14 @@
       "onboard_time": 1735871479,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 346788,
+      "num": 346788,
+      "word": "王鹤棣两次跨年状态的区别",
+      "onboard_time": 1735875080,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 344066,
@@ -323,6 +347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 298160,
+      "num": 298160,
+      "word": "张雪峰公司实行上4休3",
+      "onboard_time": 1735874299,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 297123,
       "num": 346402,
       "word": "韩国公调处出发执行尹锡悦逮捕令",
@@ -353,6 +385,14 @@
       "onboard_time": 1735868118,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 285790,
+      "num": 377748,
+      "word": "买手机平板智能手表手环能省钱了",
+      "onboard_time": 1735874899,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 268390,
@@ -411,14 +451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 227486,
-      "num": 227486,
-      "word": "00后为了局部退休疯狂存钱",
-      "onboard_time": 1735874118,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 227261,
       "num": 227261,
       "word": "樊振东大雪压青松青松挺且直",
@@ -433,6 +465,14 @@
       "onboard_time": 1735832898,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 219716,
+      "num": 219716,
+      "word": "终于知道焯水该用热水还是凉水了",
+      "onboard_time": 1735873519,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 218862,
@@ -491,6 +531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 195758,
+      "num": 195758,
+      "word": "蒋奇明李雪琴新片演情侣",
+      "onboard_time": 1735875560,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 195011,
       "num": 195011,
       "word": "第五人格重做先知虚妄",
@@ -539,12 +587,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186977,
-      "num": 186977,
-      "word": "田亮女儿进行下巴后缩矫正",
-      "onboard_time": 1735874540,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 186991,
+      "num": 186991,
+      "word": "王曼昱好帅",
+      "onboard_time": 1735875440,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 184968,
@@ -587,12 +635,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 172076,
-      "num": 172076,
-      "word": "终于知道焯水该用热水还是凉水了",
-      "onboard_time": 1735873519,
-      "rank": 33,
-      "category": "健康医疗"
+      "raw_hot": 173315,
+      "num": 192710,
+      "word": "醉梦开机",
+      "onboard_time": 1735873398,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 170574,
@@ -601,14 +649,6 @@
       "onboard_time": 1735837755,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 166055,
-      "num": 190177,
-      "word": "醉梦开机",
-      "onboard_time": 1735873398,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 164463,
@@ -625,6 +665,14 @@
       "onboard_time": 1735872078,
       "rank": 41,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 162550,
+      "num": 162550,
+      "word": "馋嘴警犬自己给自己加了个鸡腿",
+      "onboard_time": 1735873998,
+      "rank": 38,
+      "category": "正能量"
     },
     {
       "raw_hot": 158262,
@@ -691,19 +739,19 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 148375,
+      "num": 320464,
+      "word": "特朗普或加强涉华AI设备管制",
+      "onboard_time": 1735873700,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 145347,
       "num": 145347,
       "word": "向前女友泼汽油男子被判12年",
       "onboard_time": 1735826541,
       "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 142790,
-      "num": 142790,
-      "word": "张雪峰公司实行上4休3",
-      "onboard_time": 1735874299,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -747,12 +795,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 136537,
-      "num": 136537,
-      "word": "馋嘴警犬自己给自己加了个鸡腿",
-      "onboard_time": 1735873998,
-      "rank": 38,
-      "category": "正能量"
+      "raw_hot": 136786,
+      "num": 343271,
+      "word": "林高远告别乒超总决赛",
+      "onboard_time": 1735872499,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 134367,
+      "num": 134367,
+      "word": "儿子离家3年无音讯老父亲后悔道歉",
+      "onboard_time": 1735875440,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132731,
@@ -761,6 +817,14 @@
       "onboard_time": 1735868118,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 130410,
+      "num": 130410,
+      "word": "男子利用小程序Bug逃匿28万加油费",
+      "onboard_time": 1735875380,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129758,
@@ -777,6 +841,14 @@
       "onboard_time": 1735812681,
       "rank": 42,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 127532,
+      "num": 127532,
+      "word": "尹锡悦逮捕令执行现场",
+      "onboard_time": 1735875560,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 125710,
@@ -796,11 +868,27 @@
     },
     {
       "raw_hot": 121899,
-      "num": 121899,
+      "num": 211979,
       "word": "库里全明星首轮投票未进前十",
       "onboard_time": 1735872258,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121501,
+      "num": 121501,
+      "word": "韩国调查人员同总统警卫发生肢体冲突",
+      "onboard_time": 1735874840,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 121359,
+      "num": 121359,
+      "word": "王曼昱时尚先生fine开年封面",
+      "onboard_time": 1735875499,
+      "rank": 49,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 118511,
@@ -947,14 +1035,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 99890,
-      "num": 320464,
-      "word": "特朗普或加强涉华AI设备管制",
-      "onboard_time": 1735873700,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 97573,
       "num": 188706,
       "word": "许昕回应采访为樊振东解围",
@@ -993,6 +1073,14 @@
       "onboard_time": 1735834758,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85983,
+      "num": 288812,
+      "word": "于正说不憋着才是王道",
+      "onboard_time": 1735874899,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 85869,
@@ -1052,7 +1140,7 @@
     },
     {
       "raw_hot": 61750,
-      "num": 187189,
+      "num": 189318,
       "word": "尹锡悦官邸罕见航拍画面曝光",
       "onboard_time": 1735874720,
       "rank": 29,
@@ -1123,14 +1211,6 @@
       "category": "民生新闻,情感"
     },
     {
-      "raw_hot": 46429,
-      "num": 343271,
-      "word": "林高远告别乒超总决赛",
-      "onboard_time": 1735872499,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 42756,
       "num": 123993,
       "word": "广东过年吃饭相当于讲吉祥话",
@@ -1145,6 +1225,14 @@
       "onboard_time": 1735857552,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 34383,
+      "num": 284711,
+      "word": "向老人泼水中学负责人已被约谈",
+      "onboard_time": 1735875560,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33035,
@@ -1163,6 +1251,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 30793,
+      "num": 139162,
+      "word": "汤都好喝的鲜虾豆腐煲",
+      "onboard_time": 1735875440,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 29732,
       "num": 89402,
       "word": "银川辟谣一小区因地震有房屋倒塌",
@@ -1171,8 +1267,8 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 27764,
-      "num": 127513,
+      "raw_hot": 28676,
+      "num": 137674,
       "word": "沉浸式拆毛绒杯盲盒",
       "onboard_time": 1735873519,
       "rank": 43,
