@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735924762704,
+  "endTime": 1735925815027,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -1243,6 +1243,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 1187916,
+      "num": 304686,
+      "word": "骗子开始先给你转钱了",
+      "onboard_time": 1735922776,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1168597,
       "num": 1168597,
       "word": "贾玲C位",
@@ -1376,14 +1384,6 @@
       "word": "医院宣传语称堕胎斩断男方祖宗血脉",
       "onboard_time": 1735827442,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1113378,
-      "num": 280217,
-      "word": "骗子开始先给你转钱了",
-      "onboard_time": 1735922776,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -2684,7 +2684,7 @@
     },
     {
       "raw_hot": 652695,
-      "num": 277174,
+      "num": 292994,
       "word": "星光大赏",
       "onboard_time": 1735919421,
       "rank": 11,
@@ -5907,6 +5907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 325057,
+      "num": 325057,
+      "word": "银川地震有人夜晚一家人轮流守夜",
+      "onboard_time": 1735919358,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 324813,
       "num": 324813,
       "word": "骗骗喜欢你 烂人错过",
@@ -6963,14 +6971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 272095,
-      "num": 272095,
-      "word": "银川地震有人夜晚一家人轮流守夜",
-      "onboard_time": 1735919358,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 271369,
       "num": 271369,
       "word": "张彬彬与孙珍妮合跳troublemaker",
@@ -7619,6 +7619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247793,
+      "num": 95246,
+      "word": "张小斐被曝违章交警称已依法处置",
+      "onboard_time": 1735922715,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247230,
       "num": 263341,
       "word": "纳豆结婚",
@@ -7993,14 +8001,6 @@
       "onboard_time": 1735552160,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 236793,
-      "num": 95246,
-      "word": "张小斐被曝违章交警称已依法处置",
-      "onboard_time": 1735922715,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 236728,
@@ -9587,6 +9587,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 201594,
+      "num": 331870,
+      "word": "银川地震亲历者称更多是心理折磨",
+      "onboard_time": 1735910240,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201546,
       "num": 266760,
       "word": "研究生是非要期末考吗",
@@ -10977,14 +10985,6 @@
       "onboard_time": 1735640841,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 186823,
-      "num": 331870,
-      "word": "银川地震亲历者称更多是心理折磨",
-      "onboard_time": 1735910240,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 186725,
@@ -17643,6 +17643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85784,
+      "num": 93879,
+      "word": "地震时16岁男孩背起同学往外冲",
+      "onboard_time": 1735922597,
+      "rank": 24,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 85774,
       "num": 325596,
       "word": "千朵桃花两集三场床咚",
@@ -18113,14 +18121,6 @@
       "onboard_time": 1735449921,
       "rank": 37,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 70444,
-      "num": 93879,
-      "word": "地震时16岁男孩背起同学往外冲",
-      "onboard_time": 1735922597,
-      "rank": 24,
-      "category": "正能量"
     },
     {
       "raw_hot": 70408,
@@ -18873,6 +18873,14 @@
       "onboard_time": 1735910180,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 53803,
+      "num": 53803,
+      "word": "李小冉 姐谁认识你",
+      "onboard_time": 1735924874,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 53584,
@@ -20225,6 +20233,14 @@
       "onboard_time": 1735542379,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33494,
+      "num": 236674,
+      "word": "2025第一场流星雨不排除爆发可能",
+      "onboard_time": 1735924935,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33447,
@@ -21833,6 +21849,14 @@
       "onboard_time": 1735716560,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16558,
+      "num": 85780,
+      "word": "梁靖崑王楚钦拥抱两连发",
+      "onboard_time": 1735924935,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 16540,

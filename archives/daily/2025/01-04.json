@@ -1,6 +1,6 @@
 {
   "startTime": 1735921654212,
-  "endTime": 1735924762704,
+  "endTime": 1735925815027,
   "band_list": [
     {
       "raw_hot": 1489080,
@@ -11,8 +11,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1113378,
-      "num": 280217,
+      "raw_hot": 1187916,
+      "num": 304686,
       "word": "骗子开始先给你转钱了",
       "onboard_time": 1735922776,
       "rank": 3,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 652695,
-      "num": 277174,
+      "num": 292994,
       "word": "星光大赏",
       "onboard_time": 1735919421,
       "rank": 11,
@@ -91,6 +91,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 325057,
+      "num": 325057,
+      "word": "银川地震有人夜晚一家人轮流守夜",
+      "onboard_time": 1735919358,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 316545,
       "num": 143525,
       "word": "国航 美珍香",
@@ -107,14 +115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 272095,
-      "num": 272095,
-      "word": "银川地震有人夜晚一家人轮流守夜",
-      "onboard_time": 1735919358,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 269431,
       "num": 220587,
       "word": "徐志胜睡八个小时算失眠",
@@ -123,7 +123,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 236793,
+      "raw_hot": 247793,
       "num": 95246,
       "word": "张小斐被曝违章交警称已依法处置",
       "onboard_time": 1735922715,
@@ -177,6 +177,14 @@
       "onboard_time": 1735915461,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201594,
+      "num": 201594,
+      "word": "银川地震亲历者称更多是心理折磨",
+      "onboard_time": 1735910240,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 197952,
@@ -248,14 +256,6 @@
       "word": "101注共5.31亿巨奖出自同一站点",
       "onboard_time": 1735905979,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 141429,
-      "num": 141429,
-      "word": "银川地震亲历者称更多是心理折磨",
-      "onboard_time": 1735910240,
-      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -395,6 +395,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 85784,
+      "num": 93879,
+      "word": "地震时16岁男孩背起同学往外冲",
+      "onboard_time": 1735922597,
+      "rank": 24,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 84480,
       "num": 84480,
       "word": "WTT官方声明",
@@ -409,14 +417,6 @@
       "onboard_time": 1735912399,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 70444,
-      "num": 93879,
-      "word": "地震时16岁男孩背起同学往外冲",
-      "onboard_time": 1735922597,
-      "rank": 24,
-      "category": "正能量"
     },
     {
       "raw_hot": 61539,
@@ -443,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 53803,
+      "num": 53803,
+      "word": "李小冉 姐谁认识你",
+      "onboard_time": 1735924874,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 44994,
       "num": 52471,
       "word": "目前流感病毒99%以上为甲流",
@@ -467,12 +475,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 33494,
+      "num": 236674,
+      "word": "2025第一场流星雨不排除爆发可能",
+      "onboard_time": 1735924935,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23470,
       "num": 141842,
       "word": "2025LOL赛事井喷",
       "onboard_time": 1735922057,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 16558,
+      "num": 85780,
+      "word": "梁靖崑王楚钦拥抱两连发",
+      "onboard_time": 1735924935,
+      "rank": 24,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
