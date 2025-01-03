@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735918652860,
+  "endTime": 1735921654212,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -361,6 +361,14 @@
       "onboard_time": 1735902920,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1489080,
+      "num": 1071865,
+      "word": "疑似韩国遇难机长最后画面",
+      "onboard_time": 1735918099,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1475823,
@@ -897,6 +905,14 @@
       "onboard_time": 1735668077,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 836664,
+      "num": 382829,
+      "word": "医生称森碟下巴后缩或影响口腔功能",
+      "onboard_time": 1735916900,
+      "rank": 9,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 832820,
@@ -1715,6 +1731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 517757,
+      "num": 264559,
+      "word": "王鹤棣将落单王润泽拉入跨年拥抱",
+      "onboard_time": 1735917740,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 517423,
       "num": 517423,
       "word": "金星伴月",
@@ -1857,6 +1881,14 @@
       "onboard_time": 1735743981,
       "rank": 11,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 500361,
+      "num": 240986,
+      "word": "星光大赏",
+      "onboard_time": 1735919421,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 499501,
@@ -2369,38 +2401,6 @@
       "onboard_time": 1735667418,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 389785,
-      "num": 247671,
-      "word": "金星到底有多恐怖",
-      "onboard_time": 1735773675,
-      "rank": 21,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 388917,
-      "num": 295683,
-      "word": "香港全款150万13平米的家",
-      "onboard_time": 1735696999,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 386387,
-      "num": 335258,
-      "word": "YG新男团预告",
-      "onboard_time": 1735894279,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 386314,
-      "num": 386314,
-      "word": "上海男子5元卖早高峰地铁座位",
-      "onboard_time": 1735785082,
-      "rank": 8,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
