@@ -1,6 +1,6 @@
 {
   "startTime": 1735835273269,
-  "endTime": 1735911481588,
+  "endTime": 1735914035188,
   "band_list": [
     {
       "raw_hot": 2979441,
@@ -24,6 +24,14 @@
       "word": "胖东来公布员工结婚执行标准",
       "onboard_time": 1735891459,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1964992,
+      "num": 1964992,
+      "word": "国航 美珍香",
+      "onboard_time": 1735909819,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -89,6 +97,14 @@
       "onboard_time": 1735896682,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1441674,
+      "num": 1441674,
+      "word": "杨紫 小女子不才也会点英语",
+      "onboard_time": 1735911198,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 1431979,
@@ -185,6 +201,14 @@
       "onboard_time": 1735892929,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 819027,
+      "num": 450685,
+      "word": "同事想离职突然得知被裁",
+      "onboard_time": 1735912100,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 818752,
@@ -339,6 +363,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 586153,
+      "num": 586153,
+      "word": "美珍香",
+      "onboard_time": 1735912219,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 586129,
       "num": 486524,
       "word": "俄乌士兵近身肉搏画面",
@@ -417,14 +449,6 @@
       "onboard_time": 1735896501,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 542454,
-      "num": 542454,
-      "word": "国航 美珍香",
-      "onboard_time": 1735909819,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 537806,
@@ -539,6 +563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 500671,
+      "num": 500671,
+      "word": "七颗猩猩回应背刺打工人",
+      "onboard_time": 1735912399,
+      "rank": 6,
+      "category": "网红"
+    },
+    {
       "raw_hot": 499501,
       "num": 499501,
       "word": "王曼昱好帅",
@@ -569,6 +601,14 @@
       "onboard_time": 1735823659,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 478460,
+      "num": 454646,
+      "word": "周深一年发了近200条生日快乐",
+      "onboard_time": 1735907599,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 476158,
@@ -611,14 +651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 454646,
-      "num": 454646,
-      "word": "周深一年发了近200条生日快乐",
-      "onboard_time": 1735907599,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
       "raw_hot": 453532,
       "num": 453532,
       "word": "上海有偿占座男子已被警方行拘",
@@ -633,6 +665,14 @@
       "onboard_time": 1735900040,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 446934,
+      "num": 446934,
+      "word": "陈都灵看起来好难受",
+      "onboard_time": 1735913300,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 442488,
@@ -995,14 +1035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 298653,
-      "num": 293406,
-      "word": "杨紫 小女子不才也会点英语",
-      "onboard_time": 1735911198,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 297513,
       "num": 333215,
       "word": "内娱明星的工作量统一按G算",
@@ -1043,6 +1075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 293210,
+      "num": 293210,
+      "word": "陈丽君越剧春晚路透",
+      "onboard_time": 1735911198,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 290966,
       "num": 290966,
       "word": "2025四大预爆艺人",
@@ -1059,12 +1099,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 281954,
+      "num": 281954,
+      "word": "福彩5亿巨奖中奖者已兑奖",
+      "onboard_time": 1735912579,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 278251,
       "num": 278251,
       "word": "九重紫年度爆款剧集",
       "onboard_time": 1735906820,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 268621,
+      "num": 268621,
+      "word": "徐志胜睡八个小时算失眠",
+      "onboard_time": 1735911500,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 268390,
@@ -1171,6 +1227,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 235826,
+      "num": 235826,
+      "word": "官方回应罚款已退并批评相关人员",
+      "onboard_time": 1735912160,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 235190,
       "num": 279216,
       "word": "再见爱人",
@@ -1257,6 +1321,14 @@
       "onboard_time": 1735826361,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226947,
+      "num": 354661,
+      "word": "女子称商务车借给剧组同行后被抵押",
+      "onboard_time": 1735911020,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 225743,
@@ -1715,6 +1787,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186823,
+      "num": 331870,
+      "word": "银川地震亲历者称更多是心理折磨",
+      "onboard_time": 1735910240,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186714,
+      "num": 186714,
+      "word": "福彩5亿巨奖中奖者纳税过亿",
+      "onboard_time": 1735912941,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184968,
       "num": 253196,
       "word": "韩国总统官邸附近部署超2800名警力",
@@ -1728,6 +1816,14 @@
       "word": "王一博工作室发文否认恋情",
       "onboard_time": 1735898480,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 183711,
+      "num": 183711,
+      "word": "张馨予养的蜥蜴会wink",
+      "onboard_time": 1735913419,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -1809,14 +1905,6 @@
       "onboard_time": 1735877722,
       "rank": 40,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 176188,
-      "num": 331870,
-      "word": "银川地震亲历者称更多是心理折磨",
-      "onboard_time": 1735910240,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 175804,
@@ -1995,14 +2083,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 160910,
-      "num": 160910,
-      "word": "陈丽君越剧春晚路透",
-      "onboard_time": 1735911198,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 160220,
       "num": 160220,
       "word": "微博之夜丁禹兮的赛博搭子",
@@ -2073,6 +2153,14 @@
       "onboard_time": 1735896619,
       "rank": 19,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 155798,
+      "num": 289892,
+      "word": "逮捕尹锡悦难在哪",
+      "onboard_time": 1735912100,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 155716,
@@ -2251,6 +2339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147214,
+      "num": 147214,
+      "word": "外国迷弟应援樊振东",
+      "onboard_time": 1735913781,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146902,
       "num": 146902,
       "word": "女生回应不顾家人反对嫁给脑瘫老公",
@@ -2289,6 +2385,22 @@
       "onboard_time": 1735885639,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142545,
+      "num": 142545,
+      "word": "极强多巴胺整顿仙侠白衣风",
+      "onboard_time": 1735913961,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142049,
+      "num": 142049,
+      "word": "福彩中心回应双色球5亿巨奖",
+      "onboard_time": 1735911742,
+      "rank": 48,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 141728,
@@ -2337,6 +2449,14 @@
       "onboard_time": 1735865541,
       "rank": 34,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 139672,
+      "num": 139672,
+      "word": "小小的我",
+      "onboard_time": 1735913961,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 139303,
@@ -2489,6 +2609,14 @@
       "onboard_time": 1735891822,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130563,
+      "num": 283099,
+      "word": "WTT支持工作组审查现有法规",
+      "onboard_time": 1735912642,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 130039,
@@ -2883,6 +3011,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 80654,
+      "num": 968975,
+      "word": "原来2025是完美平方年",
+      "onboard_time": 1735912399,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78288,
       "num": 78288,
       "word": "理发师晓华爆改外国人",
@@ -2912,6 +3048,14 @@
       "word": "95后脑瘫小伙因自己理发健身走红",
       "onboard_time": 1735851138,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73486,
+      "num": 342099,
+      "word": "超市被员工偷倒闭当事人发声",
+      "onboard_time": 1735912879,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -3051,6 +3195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 53533,
+      "num": 456397,
+      "word": "中国高铁如何做到世界最快",
+      "onboard_time": 1735911438,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 51270,
       "num": 51270,
       "word": "银川又震440名消防员已集结完毕",
@@ -3155,6 +3307,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 42535,
+      "num": 340229,
+      "word": "领克900首发亮相",
+      "onboard_time": 1735909819,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 42529,
       "num": 317289,
       "word": "林一官宣加盟2024微博之夜",
@@ -3163,20 +3323,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 40968,
-      "num": 340229,
-      "word": "领克900首发亮相",
-      "onboard_time": 1735909819,
-      "rank": 31,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 40109,
       "num": 343060,
       "word": "口头请病假被按旷工开除",
       "onboard_time": 1735881380,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39429,
+      "num": 186760,
+      "word": "今天穿什么",
+      "onboard_time": 1735912820,
+      "rank": 39,
+      "category": "时尚"
     },
     {
       "raw_hot": 38841,
@@ -3371,12 +3531,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 27477,
+      "num": 242887,
+      "word": "空间越大责任越大",
+      "onboard_time": 1735913481,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 26247,
       "num": 26702,
       "word": "美国汽车撞人已致15死细节披露",
       "onboard_time": 1735851020,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 26022,
+      "num": 291562,
+      "word": "张一山翻白眼",
+      "onboard_time": 1735908260,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 24544,
@@ -3419,28 +3595,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 21949,
-      "num": 354661,
-      "word": "女子称商务车借给剧组同行后被抵押",
-      "onboard_time": 1735911020,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20479,
       "num": 61079,
       "word": "银川市民讲述4.8级地震瞬间",
       "onboard_time": 1735848612,
       "rank": 9,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 19646,
-      "num": 456397,
-      "word": "中国高铁如何做到世界最快",
-      "onboard_time": 1735911438,
-      "rank": 9,
-      "category": "正能量"
     },
     {
       "raw_hot": 17060,
@@ -3584,6 +3744,9 @@
     },
     {
       "word": "#习主席赞美奋斗追梦人#"
+    },
+    {
+      "word": "#习近平新年贺词里的三个数字#"
     }
   ]
 }
