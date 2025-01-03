@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735910798785,
+  "endTime": 1735911481588,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -267,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1666195,
+      "num": 1028926,
+      "word": "胖东来员工不许靠父母积蓄买房买车",
+      "onboard_time": 1735904900,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1630212,
       "num": 1630212,
       "word": "苹果官网突然降价",
@@ -289,14 +297,6 @@
       "onboard_time": 1735725682,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1569976,
-      "num": 1028926,
-      "word": "胖东来员工不许靠父母积蓄买房买车",
-      "onboard_time": 1735904900,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1568621,
@@ -1307,6 +1307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 620665,
+      "num": 620665,
+      "word": "101注共5.31亿巨奖出自同一站点",
+      "onboard_time": 1735905979,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 616301,
       "num": 466032,
       "word": "黄冠亨 叶舒华",
@@ -1571,16 +1579,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 540352,
-      "num": 540352,
-      "word": "101注共5.31亿巨奖出自同一站点",
-      "onboard_time": 1735905979,
-      "rank": 39,
+      "raw_hot": 542454,
+      "num": 542454,
+      "word": "国航 美珍香",
+      "onboard_time": 1735909819,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
       "raw_hot": 537806,
-      "num": 297536,
+      "num": 323002,
       "word": "瘦了50斤的面部折叠度",
       "onboard_time": 1735903698,
       "rank": 31,
@@ -1929,6 +1937,14 @@
       "onboard_time": 1735902019,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 454646,
+      "num": 454646,
+      "word": "周深一年发了近200条生日快乐",
+      "onboard_time": 1735907599,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 453532,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1735729583,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 375611,
-      "num": 375611,
-      "word": "网购车厘子一整盒仅6颗大小达标",
-      "onboard_time": 1735703540,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 374871,
-      "num": 333276,
-      "word": "孙颖莎周边",
-      "onboard_time": 1735890859,
-      "rank": 13,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
