@@ -1,7 +1,15 @@
 {
   "startTime": 1735921654212,
-  "endTime": 1735959019827,
+  "endTime": 1735959608136,
   "band_list": [
+    {
+      "raw_hot": 1571919,
+      "num": 737944,
+      "word": "黄子韬送车大结局",
+      "onboard_time": 1735957578,
+      "rank": 3,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1489080,
       "num": 1071865,
@@ -9,14 +17,6 @@
       "onboard_time": 1735918099,
       "rank": 1,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1326623,
-      "num": 737944,
-      "word": "黄子韬送车大结局",
-      "onboard_time": 1735957578,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1187916,
@@ -43,20 +43,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 976904,
+      "num": 313801,
+      "word": "火箭少女成团解散都没今天人齐",
+      "onboard_time": 1735957397,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 965114,
+      "num": 313242,
+      "word": "保时捷销冠24年再卖出170台",
+      "onboard_time": 1735958537,
+      "rank": 11,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 938605,
       "num": 1150176,
       "word": "医生称森碟下巴后缩或影响口腔功能",
       "onboard_time": 1735916900,
       "rank": 5,
       "category": "艺人,健康医疗"
-    },
-    {
-      "raw_hot": 935764,
-      "num": 293077,
-      "word": "火箭少女成团解散都没今天人齐",
-      "onboard_time": 1735957397,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 858739,
@@ -67,7 +75,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 726977,
+      "raw_hot": 800882,
+      "num": 800882,
+      "word": "星光大赏节目单",
+      "onboard_time": 1735958117,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 747624,
       "num": 726977,
       "word": "网传星光大赏红毯出场顺序",
       "onboard_time": 1735956858,
@@ -171,28 +187,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 418787,
-      "num": 290148,
-      "word": "保时捷销冠24年再卖出170台",
-      "onboard_time": 1735958537,
-      "rank": 11,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 412971,
       "num": 266414,
       "word": "现在拨打的电话",
       "onboard_time": 1735918220,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 403740,
-      "num": 403740,
-      "word": "星光大赏节目单",
-      "onboard_time": 1735958117,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 392009,
@@ -273,6 +273,14 @@
       "onboard_time": 1735922715,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 272217,
+      "num": 272217,
+      "word": "客服回应生理期内裤被指有塑料膜",
+      "onboard_time": 1735957877,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 268024,
@@ -387,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195625,
+      "num": 195625,
+      "word": "八省联考历史",
+      "onboard_time": 1735959258,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 193028,
       "num": 157811,
       "word": "七颗猩猩回应背刺打工人",
@@ -396,11 +412,19 @@
     },
     {
       "raw_hot": 192091,
-      "num": 162810,
+      "num": 182298,
       "word": "WTT世界排名越高违规罚款越多",
       "onboard_time": 1735958537,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189311,
+      "num": 216814,
+      "word": "电影小小的我这条小鱼在乎MV",
+      "onboard_time": 1735958658,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 185422,
@@ -427,6 +451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 171753,
+      "num": 171753,
+      "word": "八省联考物理",
+      "onboard_time": 1735959318,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 171077,
       "num": 165499,
       "word": "为什么现在秋衣秋裤要这样设计",
@@ -435,20 +467,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167716,
+      "num": 167716,
+      "word": "网传星光大赏红毯赵丽颖压轴",
+      "onboard_time": 1735958598,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165955,
       "num": 165955,
       "word": "防漏姨妈内裤居然里面加一层塑料膜",
       "onboard_time": 1735884740,
       "rank": 18,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 163936,
-      "num": 163936,
-      "word": "客服回应生理期内裤被指有塑料膜",
-      "onboard_time": 1735957877,
-      "rank": 29,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 161106,
@@ -531,20 +563,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 126552,
+      "num": 126552,
+      "word": "王一博纯白运动风",
+      "onboard_time": 1735959437,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 126120,
       "num": 126120,
       "word": "曝孟子义李昀锐都参加湖南卫视小年夜",
       "onboard_time": 1735954517,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 125732,
-      "num": 216814,
-      "word": "电影小小的我这条小鱼在乎MV",
-      "onboard_time": 1735958658,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 122393,
@@ -619,12 +651,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111348,
-      "num": 111348,
-      "word": "网传星光大赏红毯赵丽颖压轴",
-      "onboard_time": 1735958598,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 115047,
+      "num": 115047,
+      "word": "中方敦促以色列停止将医院变战场",
+      "onboard_time": 1735953976,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 110096,
@@ -651,12 +683,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 105564,
-      "num": 105564,
-      "word": "中方敦促以色列停止将医院变战场",
-      "onboard_time": 1735953976,
-      "rank": 49,
-      "category": "国内时政"
+      "raw_hot": 105043,
+      "num": 105043,
+      "word": "男子为给妻儿做饭9个月乘地铁933次",
+      "onboard_time": 1735959499,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104015,
@@ -699,12 +731,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99130,
+      "num": 99130,
+      "word": "Shanji为Doinb接机",
+      "onboard_time": 1735959318,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 98419,
       "num": 98419,
       "word": "微博之夜年度推荐",
       "onboard_time": 1735900399,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 97528,
+      "num": 97528,
+      "word": "上海新增一座火车站",
+      "onboard_time": 1735956258,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96608,
@@ -803,6 +851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74570,
+      "num": 315163,
+      "word": "良心对赌换房过年靠谱吗",
+      "onboard_time": 1735958897,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72567,
       "num": 214732,
       "word": "父亲回应17岁网红抗癌6年后离世",
@@ -856,14 +912,6 @@
       "word": "2025第一场流星雨不排除爆发可能",
       "onboard_time": 1735924935,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 52147,
-      "num": 197070,
-      "word": "良心对赌换房过年靠谱吗",
-      "onboard_time": 1735958897,
-      "rank": 24,
       "category": "民生新闻"
     },
     {

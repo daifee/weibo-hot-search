@@ -1,0 +1,410 @@
+{
+  "runTime": 1735959608136,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 908910,
+        "num": 1145425,
+        "word": "年轻人开始流行换房过年",
+        "onboard_time": 1735953197,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 800882,
+        "num": 800882,
+        "word": "星光大赏节目单",
+        "onboard_time": 1735958117,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65614,
+        "num": 708166,
+        "word": "原来2025是完美平方年",
+        "onboard_time": 1735912399,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1571919,
+        "num": 693506,
+        "word": "黄子韬送车大结局",
+        "onboard_time": 1735957578,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 678229,
+        "num": 678229,
+        "word": "骗子开始先给你转钱了",
+        "onboard_time": 1735922776,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 622652,
+        "num": 622652,
+        "word": "17岁网红抗癌6年后离世",
+        "onboard_time": 1735951997,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 747624,
+        "num": 582533,
+        "word": "网传星光大赏红毯出场顺序",
+        "onboard_time": 1735956858,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 738809,
+        "num": 520764,
+        "word": "医生称森碟下巴后缩或影响口腔功能",
+        "onboard_time": 1735916900,
+        "rank": 7,
+        "category": "艺人,健康医疗"
+      },
+      {
+        "raw_hot": 324837,
+        "num": 324837,
+        "word": "地震瞬间老师冲进厕所救娃裤子都没提",
+        "onboard_time": 1735953257,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74570,
+        "num": 315163,
+        "word": "良心对赌换房过年靠谱吗",
+        "onboard_time": 1735958897,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 976904,
+        "num": 313801,
+        "word": "火箭少女成团解散都没今天人齐",
+        "onboard_time": 1735957397,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 965114,
+        "num": 313242,
+        "word": "保时捷销冠24年再卖出170台",
+        "onboard_time": 1735958537,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 310430,
+        "num": 310430,
+        "word": "白鹿是不虐的不演吗",
+        "onboard_time": 1735948576,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286501,
+        "num": 286501,
+        "word": "疑似韩国遇难机长最后画面",
+        "onboard_time": 1735918099,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 272217,
+        "num": 272217,
+        "word": "客服回应生理期内裤被指有塑料膜",
+        "onboard_time": 1735957877,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 250996,
+        "num": 250996,
+        "word": "医院护理员遇地震一把抱起婴儿",
+        "onboard_time": 1735956858,
+        "rank": 15,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 229967,
+        "num": 229967,
+        "word": "星光大赏",
+        "onboard_time": 1735919421,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223394,
+        "num": 223394,
+        "word": "孙乐言 星光大赏主持",
+        "onboard_time": 1735916000,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189311,
+        "num": 207031,
+        "word": "电影小小的我这条小鱼在乎MV",
+        "onboard_time": 1735958658,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195625,
+        "num": 195625,
+        "word": "八省联考历史",
+        "onboard_time": 1735959258,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 380773,
+        "num": 194290,
+        "word": "印度男子用舌头截停57次电风扇叶片",
+        "onboard_time": 1735953197,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 230594,
+        "num": 192705,
+        "word": "福彩5亿巨奖中奖者已兑奖",
+        "onboard_time": 1735912579,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217039,
+        "num": 192154,
+        "word": "徐志胜睡八个小时算失眠",
+        "onboard_time": 1735911500,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190878,
+        "num": 190878,
+        "word": "你好星期六全员刑侦力上线",
+        "onboard_time": 1735958537,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182298,
+        "num": 182298,
+        "word": "WTT世界排名越高违规罚款越多",
+        "onboard_time": 1735958537,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171753,
+        "num": 171753,
+        "word": "八省联考物理",
+        "onboard_time": 1735959318,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 167716,
+        "num": 167716,
+        "word": "网传星光大赏红毯赵丽颖压轴",
+        "onboard_time": 1735958598,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167461,
+        "num": 167461,
+        "word": "动物园小老虎被迫营业按下爪印挂历",
+        "onboard_time": 1735953257,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158660,
+        "num": 158660,
+        "word": "江苏大学已报案",
+        "onboard_time": 1735953197,
+        "rank": 28,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 154790,
+        "num": 154790,
+        "word": "R1SE在星光大赏给夏之光过生日",
+        "onboard_time": 1735947614,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150356,
+        "num": 150356,
+        "word": "韩国人来张家界感叹这才是大国风景",
+        "onboard_time": 1735956917,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 149554,
+        "num": 149554,
+        "word": "银川地震",
+        "onboard_time": 1735953257,
+        "rank": 31,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 147184,
+        "num": 147184,
+        "word": "火箭少女101同框合照",
+        "onboard_time": 1735947855,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143796,
+        "num": 143796,
+        "word": "樊振东陈梦缺席一项WTT赛事将被罚5000美元",
+        "onboard_time": 1735917800,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143741,
+        "num": 143741,
+        "word": "胖东来员工收付彩礼将被取消福利",
+        "onboard_time": 1735942751,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131480,
+        "num": 131480,
+        "word": "杨紫 小女子不才也会点英语",
+        "onboard_time": 1735911198,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126552,
+        "num": 126552,
+        "word": "王一博纯白运动风",
+        "onboard_time": 1735959437,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120741,
+        "num": 120741,
+        "word": "刘浩存王安宇澳门拍物料",
+        "onboard_time": 1735953856,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120113,
+        "num": 120113,
+        "word": "林一海外人气",
+        "onboard_time": 1735954818,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119449,
+        "num": 119449,
+        "word": "曝孟子义李昀锐都参加湖南卫视小年夜",
+        "onboard_time": 1735954517,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116931,
+        "num": 116931,
+        "word": "为什么现在秋衣秋裤要这样设计",
+        "onboard_time": 1735914141,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115047,
+        "num": 115047,
+        "word": "中方敦促以色列停止将医院变战场",
+        "onboard_time": 1735953976,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114123,
+        "num": 114123,
+        "word": "同事想离职突然得知被裁",
+        "onboard_time": 1735912100,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110853,
+        "num": 110853,
+        "word": "陈都灵看起来好难受",
+        "onboard_time": 1735913300,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110445,
+        "num": 110445,
+        "word": "这就是中国气质",
+        "onboard_time": 1735956858,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105632,
+        "num": 105632,
+        "word": "微博之夜",
+        "onboard_time": 1735951757,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105043,
+        "num": 105043,
+        "word": "男子为给妻儿做饭9个月乘地铁933次",
+        "onboard_time": 1735959499,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99130,
+        "num": 99130,
+        "word": "Shanji为Doinb接机",
+        "onboard_time": 1735959318,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 97528,
+        "num": 97528,
+        "word": "上海新增一座火车站",
+        "onboard_time": 1735956258,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94655,
+        "num": 94655,
+        "word": "孙颖莎谈进入国家队10年",
+        "onboard_time": 1735957098,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席赞美奋斗追梦人#"
+    }
+  }
+}
