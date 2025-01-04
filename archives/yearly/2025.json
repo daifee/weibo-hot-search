@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735955799380,
+  "endTime": 1735959019827,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -451,6 +451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1326623,
+      "num": 737944,
+      "word": "黄子韬送车大结局",
+      "onboard_time": 1735957578,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1310666,
       "num": 1310666,
       "word": "高瀚宇加盟鹿晗工作室",
@@ -524,7 +532,7 @@
     },
     {
       "raw_hot": 1187916,
-      "num": 606275,
+      "num": 737257,
       "word": "骗子开始先给你转钱了",
       "onboard_time": 1735922776,
       "rank": 3,
@@ -715,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 985867,
+      "num": 1157738,
+      "word": "年轻人开始流行换房过年",
+      "onboard_time": 1735953197,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 981982,
       "num": 335727,
       "word": "芒果影视台 真干不了退圈不就行",
@@ -777,6 +793,14 @@
       "onboard_time": 1735916900,
       "rank": 9,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 935764,
+      "num": 293077,
+      "word": "火箭少女成团解散都没今天人齐",
+      "onboard_time": 1735957397,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 931934,
@@ -900,7 +924,7 @@
     },
     {
       "raw_hot": 858739,
-      "num": 604397,
+      "num": 732220,
       "word": "17岁网红抗癌6年后离世",
       "onboard_time": 1735951997,
       "rank": 4,
@@ -1169,6 +1193,14 @@
       "onboard_time": 1735822219,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 726977,
+      "num": 726977,
+      "word": "网传星光大赏红毯出场顺序",
+      "onboard_time": 1735956858,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 719009,
@@ -1971,6 +2003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 485117,
+      "num": 212820,
+      "word": "印度男子用舌头截停57次电风扇叶片",
+      "onboard_time": 1735953197,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 481989,
       "num": 481989,
       "word": "国色芳华白月梵星 对打",
@@ -2081,14 +2121,6 @@
       "onboard_time": 1735797861,
       "rank": 18,
       "category": "运动健身,艺人"
-    },
-    {
-      "raw_hot": 463450,
-      "num": 198813,
-      "word": "印度男子用舌头截停57次电风扇叶片",
-      "onboard_time": 1735953197,
-      "rank": 20,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 463033,
@@ -2323,6 +2355,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 418787,
+      "num": 290148,
+      "word": "保时捷销冠24年再卖出170台",
+      "onboard_time": 1735958537,
+      "rank": 11,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 417350,
       "num": 417350,
       "word": "国色芳华大剧排面",
@@ -2361,46 +2401,6 @@
       "onboard_time": 1735908979,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 411522,
-      "num": 453528,
-      "word": "微博之夜猜阵容",
-      "onboard_time": 1735792104,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 409124,
-      "num": 409124,
-      "word": "银河酷娱",
-      "onboard_time": 1735729462,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 407669,
-      "num": 460741,
-      "word": "中学录用13人无一师范毕业的冷思考",
-      "onboard_time": 1735830441,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 406189,
-      "num": 533971,
-      "word": "王楚钦2025第1天夺冠",
-      "onboard_time": 1735738042,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 402772,
-      "num": 402772,
-      "word": "王安宇Vlog",
-      "onboard_time": 1735827020,
-      "rank": 42,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
