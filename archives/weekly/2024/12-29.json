@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735994409881,
+  "endTime": 1735995333480,
   "band_list": [
     {
       "raw_hot": 20690209,
@@ -601,6 +601,14 @@
       "onboard_time": 1735796001,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1910547,
+      "num": 500173,
+      "word": "李兰迪发言切张新成镜头",
+      "onboard_time": 1735993350,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1908560,
@@ -1323,14 +1331,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 1263830,
-      "num": 500173,
-      "word": "李兰迪发言切张新成镜头",
-      "onboard_time": 1735993350,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1262083,
       "num": 1216422,
       "word": "韩国坠机遇难者最后发出的消息",
@@ -1979,12 +1979,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 957027,
+      "num": 466881,
+      "word": "赵丽颖第二套",
+      "onboard_time": 1735994191,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 955891,
       "num": 887726,
       "word": "感觉王鹤棣下一秒就要哭了",
       "onboard_time": 1735818620,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 955414,
+      "num": 480151,
+      "word": "和颂",
+      "onboard_time": 1735991244,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 954364,
@@ -2203,6 +2219,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 881683,
+      "num": 417508,
+      "word": "虞书欣丁禹兮没坐一起",
+      "onboard_time": 1735995029,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 879247,
       "num": 879247,
       "word": "鞠婧祎 行走的CD",
@@ -2337,14 +2361,6 @@
       "onboard_time": 1735912160,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 830598,
-      "num": 480151,
-      "word": "和颂",
-      "onboard_time": 1735991244,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 822120,
@@ -4609,14 +4625,6 @@
       "onboard_time": 1735635143,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 466881,
-      "num": 466881,
-      "word": "赵丽颖第二套",
-      "onboard_time": 1735994191,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 463943,
@@ -7003,6 +7011,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 308000,
+      "num": 308000,
+      "word": "吴宣仪杨超越亲了",
+      "onboard_time": 1735994909,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 307939,
       "num": 307939,
       "word": "迪丽热巴三连更",
@@ -7105,6 +7121,14 @@
       "onboard_time": 1735692020,
       "rank": 21,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 304253,
+      "num": 304253,
+      "word": "燃耀",
+      "onboard_time": 1735991967,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 304090,
@@ -8579,6 +8603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249760,
+      "num": 446596,
+      "word": "雷军回复网友",
+      "onboard_time": 1735992810,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 249737,
       "num": 379548,
       "word": "黄景瑜回应拍恋爱戏就变夹",
@@ -9035,6 +9067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 238219,
+      "num": 270739,
+      "word": "3.5万买一户建女子朋友称是捡漏",
+      "onboard_time": 1735990887,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 238002,
       "num": 351435,
       "word": "法国多名乒乓球运动员就WTT声明发声",
@@ -9065,14 +9105,6 @@
       "onboard_time": 1735552160,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 237108,
-      "num": 237108,
-      "word": "燃耀",
-      "onboard_time": 1735991967,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 236830,
@@ -9129,6 +9161,14 @@
       "onboard_time": 1735448361,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 234522,
+      "num": 234522,
+      "word": "徐志胜你小子",
+      "onboard_time": 1735994968,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 233805,
@@ -9329,6 +9369,14 @@
       "onboard_time": 1735485800,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 228829,
+      "num": 228829,
+      "word": "李昀锐说我一点没垫",
+      "onboard_time": 1735993830,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 228400,
@@ -9801,14 +9849,6 @@
       "onboard_time": 1735449801,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 216255,
-      "num": 270739,
-      "word": "3.5万买一户建女子朋友称是捡漏",
-      "onboard_time": 1735990887,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 216109,
@@ -11211,14 +11251,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 197803,
-      "num": 446596,
-      "word": "雷军回复网友",
-      "onboard_time": 1735992810,
-      "rank": 16,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 197724,
       "num": 214266,
       "word": "张远央视晚会观众大合唱嘉宾",
@@ -11571,14 +11603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 193736,
-      "num": 193736,
-      "word": "李昀锐说我一点没垫",
-      "onboard_time": 1735993830,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 193734,
       "num": 843700,
       "word": "2025新年签",
@@ -11888,6 +11912,14 @@
       "word": "张若昀说魏晨下海了",
       "onboard_time": 1735719920,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 191251,
+      "num": 191251,
+      "word": "张真源秋裤塞袜子",
+      "onboard_time": 1735994669,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -14427,6 +14459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 162959,
+      "num": 162959,
+      "word": "CP粉过大年",
+      "onboard_time": 1735995150,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162884,
       "num": 282900,
       "word": "刘涛送小提琴给蓝盈莹",
@@ -15467,6 +15507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149389,
+      "num": 391598,
+      "word": "百余人参与逮捕尹锡悦失败",
+      "onboard_time": 1735995089,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 149384,
       "num": 149384,
       "word": "虞书欣跨年后台",
@@ -15721,6 +15769,14 @@
       "onboard_time": 1735987103,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147489,
+      "num": 147489,
+      "word": "潘展乐给教练庆生",
+      "onboard_time": 1735995269,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 147476,
@@ -16987,6 +17043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134377,
+      "num": 446465,
+      "word": "合格车被车检黄牛整出5个故障",
+      "onboard_time": 1735994070,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134059,
       "num": 134059,
       "word": "朱一龙冬日幕语轻启",
@@ -17908,7 +17972,7 @@
     },
     {
       "raw_hot": 121102,
-      "num": 121102,
+      "num": 148225,
       "word": "韩国游客上海排队3小时吃羊肉串",
       "onboard_time": 1735991665,
       "rank": 48,
@@ -18579,14 +18643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 110359,
-      "num": 446465,
-      "word": "合格车被车检黄牛整出5个故障",
-      "onboard_time": 1735994070,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 110161,
       "num": 110161,
       "word": "2025年春运首日火车票今起开售",
@@ -18905,6 +18961,14 @@
       "onboard_time": 1735550900,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103738,
+      "num": 436407,
+      "word": "2025第一个节气",
+      "onboard_time": 1735993470,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103720,
@@ -19752,14 +19816,6 @@
       "word": "运输成本下降致车厘子价格暴跌",
       "onboard_time": 1735650567,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 84547,
-      "num": 436407,
-      "word": "2025第一个节气",
-      "onboard_time": 1735993470,
-      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -21931,6 +21987,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 40483,
+      "num": 446090,
+      "word": "女生打车拒绝司机绕路被丢高速路边",
+      "onboard_time": 1735994309,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40454,
       "num": 214981,
       "word": "于正说以后别家的艺人不敢捧了",
@@ -22400,6 +22464,14 @@
       "word": "请假羞耻成了打工人的隐形枷锁",
       "onboard_time": 1735622960,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35149,
+      "num": 305924,
+      "word": "官方回应幼儿园在厕所洗幼儿餐具属实",
+      "onboard_time": 1735994550,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -23441,14 +23513,6 @@
       "onboard_time": 1735851020,
       "rank": 24,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 26192,
-      "num": 446090,
-      "word": "女生打车拒绝司机绕路被丢高速路边",
-      "onboard_time": 1735994309,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26022,

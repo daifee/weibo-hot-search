@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735994409881,
+  "endTime": 1735995333480,
   "band_list": [
     {
       "raw_hot": 20690209,
@@ -273,6 +273,14 @@
       "onboard_time": 1735796001,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1910547,
+      "num": 500173,
+      "word": "李兰迪发言切张新成镜头",
+      "onboard_time": 1735993350,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1908560,
@@ -657,14 +665,6 @@
       "onboard_time": 1735958537,
       "rank": 11,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 1263830,
-      "num": 500173,
-      "word": "李兰迪发言切张新成镜头",
-      "onboard_time": 1735993350,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 1261142,
@@ -1067,12 +1067,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 957027,
+      "num": 466881,
+      "word": "赵丽颖第二套",
+      "onboard_time": 1735994191,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 955891,
       "num": 887726,
       "word": "感觉王鹤棣下一秒就要哭了",
       "onboard_time": 1735818620,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 955414,
+      "num": 480151,
+      "word": "和颂",
+      "onboard_time": 1735991244,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 954364,
@@ -1211,6 +1227,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 881683,
+      "num": 417508,
+      "word": "虞书欣丁禹兮没坐一起",
+      "onboard_time": 1735995029,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 879247,
       "num": 879247,
       "word": "鞠婧祎 行走的CD",
@@ -1297,14 +1321,6 @@
       "onboard_time": 1735912160,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 830598,
-      "num": 480151,
-      "word": "和颂",
-      "onboard_time": 1735991244,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 822120,
@@ -2384,22 +2400,6 @@
       "word": "再见爱人牛了一整季",
       "onboard_time": 1735877543,
       "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 502857,
-      "num": 502857,
-      "word": "银川地震瞬间一母亲死死护住宝宝",
-      "onboard_time": 1735871239,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 502657,
-      "num": 425467,
-      "word": "虞书欣丁禹兮林一把日子过好",
-      "onboard_time": 1735702221,
-      "rank": 18,
       "category": "综艺"
     }
   ],

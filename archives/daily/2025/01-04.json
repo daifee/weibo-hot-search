@@ -1,6 +1,6 @@
 {
   "startTime": 1735921654212,
-  "endTime": 1735994409881,
+  "endTime": 1735995333480,
   "band_list": [
     {
       "raw_hot": 20690209,
@@ -72,6 +72,14 @@
       "word": "星光大赏红毯",
       "onboard_time": 1735967359,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1910547,
+      "num": 500173,
+      "word": "李兰迪发言切张新成镜头",
+      "onboard_time": 1735993350,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -185,14 +193,6 @@
       "onboard_time": 1735958537,
       "rank": 11,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 1263830,
-      "num": 500173,
-      "word": "李兰迪发言切张新成镜头",
-      "onboard_time": 1735993350,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 1255753,
@@ -339,6 +339,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 957027,
+      "num": 466881,
+      "word": "赵丽颖第二套",
+      "onboard_time": 1735994191,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 955414,
+      "num": 480151,
+      "word": "和颂",
+      "onboard_time": 1735991244,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 954364,
       "num": 373316,
       "word": "星光大赏后台",
@@ -368,6 +384,14 @@
       "word": "竹林四侠 成双成对",
       "onboard_time": 1735978522,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 881683,
+      "num": 417508,
+      "word": "虞书欣丁禹兮没坐一起",
+      "onboard_time": 1735995029,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -401,14 +425,6 @@
       "onboard_time": 1735981343,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 830598,
-      "num": 480151,
-      "word": "和颂",
-      "onboard_time": 1735991244,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 791469,
@@ -675,14 +691,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 466881,
-      "num": 466881,
-      "word": "赵丽颖第二套",
-      "onboard_time": 1735994191,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 454547,
       "num": 454547,
       "word": "孟子义李昀锐星光大赏封面",
@@ -907,6 +915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 308000,
+      "num": 308000,
+      "word": "吴宣仪杨超越亲了",
+      "onboard_time": 1735994909,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 307939,
       "num": 307939,
       "word": "迪丽热巴三连更",
@@ -929,6 +945,14 @@
       "onboard_time": 1735965198,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 304253,
+      "num": 304253,
+      "word": "燃耀",
+      "onboard_time": 1735991967,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 303343,
@@ -1179,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249760,
+      "num": 446596,
+      "word": "雷军回复网友",
+      "onboard_time": 1735992810,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 248296,
       "num": 422471,
       "word": "央视曝光猫贷套路",
@@ -1227,12 +1259,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 237108,
-      "num": 237108,
-      "word": "燃耀",
-      "onboard_time": 1735991967,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 238219,
+      "num": 270739,
+      "word": "3.5万买一户建女子朋友称是捡漏",
+      "onboard_time": 1735990887,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 236830,
@@ -1248,6 +1280,22 @@
       "word": "宋佳气场全开",
       "onboard_time": 1735976601,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 234522,
+      "num": 234522,
+      "word": "徐志胜你小子",
+      "onboard_time": 1735994968,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 228829,
+      "num": 228829,
+      "word": "李昀锐说我一点没垫",
+      "onboard_time": 1735993830,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -1305,14 +1353,6 @@
       "onboard_time": 1735989442,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 216255,
-      "num": 270739,
-      "word": "3.5万买一户建女子朋友称是捡漏",
-      "onboard_time": 1735990887,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 215741,
@@ -1523,14 +1563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197803,
-      "num": 446596,
-      "word": "雷军回复网友",
-      "onboard_time": 1735992810,
-      "rank": 16,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 197625,
       "num": 242839,
       "word": "单人喜剧 零帧起疯",
@@ -1603,14 +1635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 193736,
-      "num": 193736,
-      "word": "李昀锐说我一点没垫",
-      "onboard_time": 1735993830,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 193601,
       "num": 187737,
       "word": "杨超越舞台小羊准备中",
@@ -1641,6 +1665,14 @@
       "onboard_time": 1735958537,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191251,
+      "num": 191251,
+      "word": "张真源秋裤塞袜子",
+      "onboard_time": 1735994669,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 190544,
@@ -1923,6 +1955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162959,
+      "num": 162959,
+      "word": "CP粉过大年",
+      "onboard_time": 1735995150,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162794,
       "num": 162794,
       "word": "孟美岐 昨晚的风是薄荷味儿的",
@@ -2019,6 +2059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149389,
+      "num": 391598,
+      "word": "百余人参与逮捕尹锡悦失败",
+      "onboard_time": 1735995089,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 147751,
       "num": 147751,
       "word": "一觉醒来中国队又夺冠了",
@@ -2033,6 +2081,14 @@
       "onboard_time": 1735987103,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147489,
+      "num": 147489,
+      "word": "潘展乐给教练庆生",
+      "onboard_time": 1735995269,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 147059,
@@ -2155,6 +2211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134377,
+      "num": 446465,
+      "word": "合格车被车检黄牛整出5个故障",
+      "onboard_time": 1735994070,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131290,
       "num": 305514,
       "word": "或许这才是真正的樊振东",
@@ -2244,7 +2308,7 @@
     },
     {
       "raw_hot": 121102,
-      "num": 121102,
+      "num": 148225,
       "word": "韩国游客上海排队3小时吃羊肉串",
       "onboard_time": 1735991665,
       "rank": 48,
@@ -2315,14 +2379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110359,
-      "num": 446465,
-      "word": "合格车被车检黄牛整出5个故障",
-      "onboard_time": 1735994070,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 110096,
       "num": 110096,
       "word": "胖东来员工不许靠父母积蓄买房买车",
@@ -2377,6 +2433,14 @@
       "onboard_time": 1735952237,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103738,
+      "num": 436407,
+      "word": "2025第一个节气",
+      "onboard_time": 1735993470,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103460,
@@ -2569,14 +2633,6 @@
       "onboard_time": 1735985721,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 84547,
-      "num": 436407,
-      "word": "2025第一个节气",
-      "onboard_time": 1735993470,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84480,
@@ -2843,6 +2899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 40483,
+      "num": 446090,
+      "word": "女生打车拒绝司机绕路被丢高速路边",
+      "onboard_time": 1735994309,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39278,
       "num": 270025,
       "word": "控制价相差1分钱千万项目流标",
@@ -2881,6 +2945,14 @@
       "onboard_time": 1735927694,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35149,
+      "num": 305924,
+      "word": "官方回应幼儿园在厕所洗幼儿餐具属实",
+      "onboard_time": 1735994550,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34162,
@@ -3001,14 +3073,6 @@
       "onboard_time": 1735964539,
       "rank": 8,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 26192,
-      "num": 446090,
-      "word": "女生打车拒绝司机绕路被丢高速路边",
-      "onboard_time": 1735994309,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25644,

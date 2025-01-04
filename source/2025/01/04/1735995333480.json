@@ -1,0 +1,410 @@
+{
+  "runTime": 1735995333480,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 18096914,
+        "num": 18096914,
+        "word": "李明德评论",
+        "onboard_time": 1735990643,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 480352,
+        "num": 480352,
+        "word": "韩国人在上海消费能力好强",
+        "onboard_time": 1735984043,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34512,
+        "num": 478307,
+        "word": "新年第一个周日恰逢小寒节气",
+        "onboard_time": 1735987583,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251868,
+        "num": 470968,
+        "word": "排队1小时兑蛇钞蛇币到手就转卖",
+        "onboard_time": 1735987042,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 225721,
+        "num": 463034,
+        "word": "已婚已育后我决定过年谁家也不回",
+        "onboard_time": 1735980982,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12496084,
+        "num": 459771,
+        "word": "马天宇 李明德",
+        "onboard_time": 1735991665,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1910547,
+        "num": 454790,
+        "word": "李兰迪发言切张新成镜头",
+        "onboard_time": 1735993350,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1191033,
+        "num": 443424,
+        "word": "星光大赏内场",
+        "onboard_time": 1735989203,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217878,
+        "num": 441299,
+        "word": "巴勒斯坦代表泪洒联合国",
+        "onboard_time": 1735986683,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 173508,
+        "num": 433605,
+        "word": "智利车厘子大丰收致价格回落",
+        "onboard_time": 1735979421,
+        "rank": 9,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 957027,
+        "num": 429880,
+        "word": "赵丽颖第二套",
+        "onboard_time": 1735994191,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 955414,
+        "num": 417832,
+        "word": "和颂",
+        "onboard_time": 1735991244,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 881683,
+        "num": 417508,
+        "word": "虞书欣丁禹兮没坐一起",
+        "onboard_time": 1735995029,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134377,
+        "num": 407043,
+        "word": "合格车被车检黄牛整出5个故障",
+        "onboard_time": 1735994070,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 498279,
+        "num": 403497,
+        "word": "棣欣引力",
+        "onboard_time": 1735986321,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103738,
+        "num": 395742,
+        "word": "2025第一个节气",
+        "onboard_time": 1735993470,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 392371,
+        "num": 392371,
+        "word": "一欣一义",
+        "onboard_time": 1735987224,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249760,
+        "num": 392043,
+        "word": "雷军回复网友",
+        "onboard_time": 1735992810,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 149389,
+        "num": 391598,
+        "word": "百余人参与逮捕尹锡悦失败",
+        "onboard_time": 1735995089,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 40483,
+        "num": 391073,
+        "word": "女生打车拒绝司机绕路被丢高速路边",
+        "onboard_time": 1735994309,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1351701,
+        "num": 390739,
+        "word": "虞书欣丁禹兮手挽手",
+        "onboard_time": 1735978403,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1306606,
+        "num": 390386,
+        "word": "孟子义李昀锐跟结婚似的",
+        "onboard_time": 1735977021,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 725241,
+        "num": 389855,
+        "word": "顶级富二代都开始下海拍狗血短剧了",
+        "onboard_time": 1735985302,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389657,
+        "num": 389657,
+        "word": "垫底辣孩章昊合拍视频",
+        "onboard_time": 1735992510,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 371199,
+        "num": 371199,
+        "word": "只有成毅像来了单身派对",
+        "onboard_time": 1735989203,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351585,
+        "num": 351585,
+        "word": "星光大赏座位",
+        "onboard_time": 1735984823,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348761,
+        "num": 348761,
+        "word": "今夕赫夕",
+        "onboard_time": 1735990103,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308823,
+        "num": 308823,
+        "word": "张萌礼服",
+        "onboard_time": 1735981042,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308000,
+        "num": 308000,
+        "word": "吴宣仪杨超越亲了",
+        "onboard_time": 1735994909,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35149,
+        "num": 305924,
+        "word": "官方回应幼儿园在厕所洗幼儿餐具属实",
+        "onboard_time": 1735994550,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304253,
+        "num": 304253,
+        "word": "燃耀",
+        "onboard_time": 1735991967,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251380,
+        "num": 251380,
+        "word": "李兰迪 血气充盈的美",
+        "onboard_time": 1735979362,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129947,
+        "num": 249883,
+        "word": "特朗普不满宣誓就职时美国降半旗",
+        "onboard_time": 1735972519,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 249700,
+        "num": 249700,
+        "word": "三亚偶遇黄圣依一家",
+        "onboard_time": 1735992810,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242005,
+        "num": 242005,
+        "word": "唐嫣高定",
+        "onboard_time": 1735981343,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238219,
+        "num": 238219,
+        "word": "3.5万买一户建女子朋友称是捡漏",
+        "onboard_time": 1735990887,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234522,
+        "num": 234522,
+        "word": "徐志胜你小子",
+        "onboard_time": 1735994968,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233855,
+        "num": 233855,
+        "word": "昀牵孟绕就这么甜得旁若无人",
+        "onboard_time": 1735989682,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228829,
+        "num": 228829,
+        "word": "李昀锐说我一点没垫",
+        "onboard_time": 1735993830,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226965,
+        "num": 226965,
+        "word": "星光大赏 民政局",
+        "onboard_time": 1735978942,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217979,
+        "num": 217979,
+        "word": "锦月如歌",
+        "onboard_time": 1735992329,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205570,
+        "num": 205570,
+        "word": "宋佳钟楚曦亲了",
+        "onboard_time": 1735980442,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201240,
+        "num": 201240,
+        "word": "唐嫣没走第二次单人红毯",
+        "onboard_time": 1735987583,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191251,
+        "num": 191251,
+        "word": "张真源秋裤塞袜子",
+        "onboard_time": 1735994669,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178225,
+        "num": 178225,
+        "word": "夏之光可不可以把周震南放肩上",
+        "onboard_time": 1735991606,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162959,
+        "num": 162959,
+        "word": "CP粉过大年",
+        "onboard_time": 1735995150,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152882,
+        "num": 152882,
+        "word": "星光大赏节目单",
+        "onboard_time": 1735993410,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109741,
+        "num": 148225,
+        "word": "韩国游客上海排队3小时吃羊肉串",
+        "onboard_time": 1735991665,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147489,
+        "num": 147489,
+        "word": "潘展乐给教练庆生",
+        "onboard_time": 1735995269,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117847,
+        "num": 146586,
+        "word": "虎鲸妈妈顶幼鲸尸体游了17天",
+        "onboard_time": 1735970480,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#沿着习主席考察足迹再次触摸文化印迹#"
+    }
+  }
+}
