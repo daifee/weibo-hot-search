@@ -1,0 +1,410 @@
+{
+  "runTime": 1736015306536,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8073341,
+        "num": 8073341,
+        "word": "马天宇回应",
+        "onboard_time": 1736007874,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 538595,
+        "num": 538595,
+        "word": "林高远父亲去世",
+        "onboard_time": 1736005415,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36646,
+        "num": 531012,
+        "word": "今年春运购票2个关键时间点",
+        "onboard_time": 1735997189,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7960881,
+        "num": 506970,
+        "word": "李明德直播回击",
+        "onboard_time": 1736008895,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171664,
+        "num": 505101,
+        "word": "网传机车圈博主波哥车祸身亡",
+        "onboard_time": 1736007335,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168677,
+        "num": 490066,
+        "word": "醉酒男子走向熟睡女孩父亲立即制服",
+        "onboard_time": 1736010091,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 821047,
+        "num": 459267,
+        "word": "三人行剧组回应",
+        "onboard_time": 1736000553,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122889,
+        "num": 449664,
+        "word": "女孩凌晨店内熟睡突遭陌生男子闯入",
+        "onboard_time": 1736003495,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6340286,
+        "num": 440424,
+        "word": "马天宇 李明德",
+        "onboard_time": 1735991665,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31147,
+        "num": 410640,
+        "word": "幼儿园在厕所清洗幼儿餐具",
+        "onboard_time": 1736014278,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 725744,
+        "num": 396314,
+        "word": "丁禹兮接虞书欣下台",
+        "onboard_time": 1736001995,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 718333,
+        "num": 384524,
+        "word": "三人行",
+        "onboard_time": 1736011465,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 377102,
+        "num": 377102,
+        "word": "张新成问孟子义李昀锐你们要不要",
+        "onboard_time": 1736007994,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264159,
+        "num": 264159,
+        "word": "孟子义李昀锐 他说她可爱",
+        "onboard_time": 1736003856,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103701,
+        "num": 263803,
+        "word": "驻洛杉矶总领馆发布提醒",
+        "onboard_time": 1736010568,
+        "rank": 14,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 71568,
+        "num": 262493,
+        "word": "江苏一地最新公布新生儿爆款名字",
+        "onboard_time": 1735995810,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52470,
+        "num": 260538,
+        "word": "这段视频Passion值拉满了",
+        "onboard_time": 1735986263,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51359,
+        "num": 258993,
+        "word": "有棵树公关部介入内裤塑料膜事件",
+        "onboard_time": 1735994730,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 49538,
+        "num": 257412,
+        "word": "雷军回复网友",
+        "onboard_time": 1735992810,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 44263,
+        "num": 256554,
+        "word": "林高远发文称会直面自己的起伏",
+        "onboard_time": 1736003856,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255904,
+        "num": 255904,
+        "word": "王锵上线了",
+        "onboard_time": 1735995328,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246674,
+        "num": 246674,
+        "word": "鸣龙少年",
+        "onboard_time": 1736007934,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238736,
+        "num": 238736,
+        "word": "周深 想嗑又不敢太明显",
+        "onboard_time": 1736005776,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210439,
+        "num": 210439,
+        "word": "和颂",
+        "onboard_time": 1735991244,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95801,
+        "num": 199396,
+        "word": "机车博主波哥车祸身亡",
+        "onboard_time": 1736014457,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198939,
+        "num": 198939,
+        "word": "祝绪丹哭了",
+        "onboard_time": 1736004515,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195102,
+        "num": 195102,
+        "word": "王星越演我嗑虞书欣丁禹兮",
+        "onboard_time": 1736005295,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180145,
+        "num": 180145,
+        "word": "禹宙中欣",
+        "onboard_time": 1736003495,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38998,
+        "num": 174477,
+        "word": "排队1小时兑蛇钞蛇币到手就转卖",
+        "onboard_time": 1735987042,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 35324,
+        "num": 173605,
+        "word": "韩国人在上海消费能力好强",
+        "onboard_time": 1735984043,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173215,
+        "num": 173215,
+        "word": "孟子义李昀锐跟结婚似的",
+        "onboard_time": 1735977021,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169806,
+        "num": 169806,
+        "word": "棣欣引力",
+        "onboard_time": 1735986321,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162919,
+        "num": 162919,
+        "word": "星光大赏这谁啊",
+        "onboard_time": 1735999949,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33136,
+        "num": 141492,
+        "word": "大使馆提醒在韩中国公民远离政治活动",
+        "onboard_time": 1735996528,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31977,
+        "num": 133045,
+        "word": "百余人参与逮捕尹锡悦失败",
+        "onboard_time": 1735995089,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131153,
+        "num": 131153,
+        "word": "孙乐言好大气",
+        "onboard_time": 1736008654,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117797,
+        "num": 117797,
+        "word": "张康乐晒与马柏全合照",
+        "onboard_time": 1735997668,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113629,
+        "num": 113629,
+        "word": "丁禹兮对王鹤棣讲冷笑话",
+        "onboard_time": 1736012602,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31235,
+        "num": 110770,
+        "word": "原来在韩国点外卖这么麻烦",
+        "onboard_time": 1735998268,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30640,
+        "num": 108867,
+        "word": "你有舍不得删掉的短信吗",
+        "onboard_time": 1736002175,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108682,
+        "num": 108682,
+        "word": "INTO1敢不敢合体",
+        "onboard_time": 1736009312,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106582,
+        "num": 106582,
+        "word": "星光大赏导播 顺手的事",
+        "onboard_time": 1736001934,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87296,
+        "num": 106572,
+        "word": "没认出李紫婷",
+        "onboard_time": 1736006255,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78990,
+        "num": 106532,
+        "word": "张新成李兰迪镜头",
+        "onboard_time": 1736002954,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58815,
+        "num": 106488,
+        "word": "火箭少女101合体舞台",
+        "onboard_time": 1736001934,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30063,
+        "num": 106422,
+        "word": "近期去韩国旅游要增强保护意识",
+        "onboard_time": 1735998630,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26519,
+        "num": 106398,
+        "word": "媒体称樊振东是当下的体育顶流",
+        "onboard_time": 1735997968,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26519,
+        "num": 106365,
+        "word": "1月14日售除夕当天火车票",
+        "onboard_time": 1736007874,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25923,
+        "num": 106306,
+        "word": "KPL",
+        "onboard_time": 1736002535,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25784,
+        "num": 106253,
+        "word": "樊振东与姆巴佩击掌",
+        "onboard_time": 1735999169,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#沿着习主席考察足迹再次触摸文化印迹#"
+    }
+  }
+}
