@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736011092399,
+  "endTime": 1736012122535,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -81,6 +81,14 @@
       "onboard_time": 1736005776,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1173212,
+      "num": 658312,
+      "word": "三人行",
+      "onboard_time": 1736011465,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 991255,
@@ -187,20 +195,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 452799,
+      "num": 452799,
+      "word": "鸣龙少年",
+      "onboard_time": 1736007934,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 443745,
       "num": 294776,
       "word": "李昀锐嘻嘻不嘻嘻",
       "onboard_time": 1736007335,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 432118,
-      "num": 432118,
-      "word": "鸣龙少年",
-      "onboard_time": 1736007934,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 388034,
@@ -315,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172258,
+      "num": 1704270,
+      "word": "醉酒男子走向熟睡女孩父亲立即制服",
+      "onboard_time": 1736010091,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158805,
       "num": 3688720,
       "word": "这段视频Passion值拉满了",
@@ -355,14 +371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98368,
-      "num": 1704270,
-      "word": "醉酒男子走向熟睡女孩父亲立即制服",
-      "onboard_time": 1736010091,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 97487,
       "num": 416882,
       "word": "已婚已育后我决定过年谁家也不回",
@@ -372,7 +380,7 @@
     },
     {
       "raw_hot": 85709,
-      "num": 496964,
+      "num": 530256,
       "word": "雷军回复网友",
       "onboard_time": 1735992810,
       "rank": 27,
@@ -475,20 +483,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33370,
+      "raw_hot": 48889,
+      "num": 1334459,
+      "word": "驻洛杉矶总领馆发布提醒",
+      "onboard_time": 1736010568,
+      "rank": 49,
+      "category": "国际时政,国内时政"
+    },
+    {
+      "raw_hot": 34031,
       "num": 219108,
       "word": "KPL",
       "onboard_time": 1736002535,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 32254,
-      "num": 219103,
-      "word": "驻洛杉矶总领馆发布提醒",
-      "onboard_time": 1736010568,
-      "rank": 49,
-      "category": "国际时政,国内时政"
     }
   ],
   "hotgov_list": [

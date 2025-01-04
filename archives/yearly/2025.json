@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736011092399,
+  "endTime": 1736012122535,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -833,6 +833,14 @@
       "onboard_time": 1735922776,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1173212,
+      "num": 658312,
+      "word": "三人行",
+      "onboard_time": 1736011465,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 1162455,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735903698,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 532792,
-      "num": 532792,
-      "word": "永夜星河获奖",
-      "onboard_time": 1735901778,
-      "rank": 3,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
