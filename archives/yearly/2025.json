@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736032868071,
+  "endTime": 1736033736545,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1635,6 +1635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 766880,
+      "num": 84811,
+      "word": "王嘉尔",
+      "onboard_time": 1736033357,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 765910,
       "num": 765910,
       "word": "杨幂跨年打鼓舞台",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735963638,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 537806,
-      "num": 323002,
-      "word": "瘦了50斤的面部折叠度",
-      "onboard_time": 1735903698,
-      "rank": 31,
-      "category": "情感"
     }
   ],
   "hotgov_list": [
