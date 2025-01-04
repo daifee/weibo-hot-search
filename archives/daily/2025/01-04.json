@@ -1,6 +1,6 @@
 {
   "startTime": 1735921654212,
-  "endTime": 1735972153695,
+  "endTime": 1735972958082,
   "band_list": [
     {
       "raw_hot": 2056686,
@@ -8,6 +8,14 @@
       "word": "星光大赏红毯",
       "onboard_time": 1735967359,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1973763,
+      "num": 1973763,
+      "word": "星光大赏主持人好吵",
+      "onboard_time": 1735971019,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -83,14 +91,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1108110,
-      "num": 531713,
-      "word": "星光大赏主持人好吵",
-      "onboard_time": 1735971019,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1101527,
       "num": 520088,
       "word": "火箭少女成团解散都没今天人齐",
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1063103,
-      "num": 219613,
+      "num": 221683,
       "word": "鹿晗 肯德基",
       "onboard_time": 1735970058,
       "rank": 31,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 936727,
-      "num": 477937,
+      "num": 546923,
       "word": "金靖产后首现身",
       "onboard_time": 1735969941,
       "rank": 6,
@@ -179,12 +179,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 791469,
+      "num": 791469,
+      "word": "清华澄清80%毕业生出国不归传言",
+      "onboard_time": 1735969459,
+      "rank": 5,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 785474,
       "num": 439739,
       "word": "景甜 孔雀公主",
       "onboard_time": 1735967120,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 762937,
+      "num": 280354,
+      "word": "上淇抢主持人话筒",
+      "onboard_time": 1735972100,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 747624,
@@ -235,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 549632,
+      "num": 549632,
+      "word": "虎鲸妈妈顶幼鲸尸体游了17天",
+      "onboard_time": 1735970480,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 539237,
       "num": 418885,
       "word": "孟子义淡紫色长裙",
@@ -265,14 +289,6 @@
       "onboard_time": 1735917740,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 514095,
-      "num": 514095,
-      "word": "清华澄清80%毕业生出国不归传言",
-      "onboard_time": 1735969459,
-      "rank": 5,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 501260,
@@ -307,6 +323,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 480695,
+      "num": 273603,
+      "word": "迪丽热巴衣服不是起球是姐姐的时尚",
+      "onboard_time": 1735971801,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 477283,
       "num": 477283,
       "word": "白鹿是不虐的不演吗",
@@ -336,14 +360,6 @@
       "word": "JJ智利车厘子1斤约30元",
       "onboard_time": 1735960518,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 437954,
-      "num": 274685,
-      "word": "虎鲸妈妈顶幼鲸尸体游了17天",
-      "onboard_time": 1735970480,
-      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -523,12 +539,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281546,
+      "num": 281546,
+      "word": "香港网红伦敦豪宅被盗损失上亿",
+      "onboard_time": 1735970778,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 281471,
       "num": 333702,
       "word": "最强大脑12嘉宾阵容官宣",
       "onboard_time": 1735961417,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 274373,
+      "num": 274373,
+      "word": "特朗普不满宣誓就职时美国降半旗",
+      "onboard_time": 1735972519,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 271909,
@@ -539,20 +571,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 268173,
+      "num": 268173,
+      "word": "孟子义李昀锐星光大赏封面",
+      "onboard_time": 1735971859,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 268024,
       "num": 296893,
       "word": "微博之夜",
       "onboard_time": 1735951757,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 265242,
-      "num": 216507,
-      "word": "香港网红伦敦豪宅被盗损失上亿",
-      "onboard_time": 1735970778,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 255030,
@@ -619,12 +651,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 222089,
-      "num": 222089,
-      "word": "迪丽热巴衣服不是起球是姐姐的时尚",
-      "onboard_time": 1735971801,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 221732,
+      "num": 221732,
+      "word": "赵今麦闪钻挂脖裙",
+      "onboard_time": 1735971620,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 218088,
@@ -675,11 +707,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208002,
-      "num": 208002,
-      "word": "孟子义李昀锐星光大赏封面",
-      "onboard_time": 1735971859,
-      "rank": 37,
+      "raw_hot": 207792,
+      "num": 207792,
+      "word": "杨超越好帅",
+      "onboard_time": 1735972641,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -713,14 +745,6 @@
       "onboard_time": 1735915461,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 201982,
-      "num": 201982,
-      "word": "赵今麦闪钻挂脖裙",
-      "onboard_time": 1735971620,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 201594,
@@ -851,6 +875,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 187064,
+      "num": 187064,
+      "word": "时代少年团官宣新年音乐会",
+      "onboard_time": 1735972341,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 186396,
       "num": 186396,
       "word": "白鹿一袭红衣梦回时宜",
@@ -865,6 +897,14 @@
       "onboard_time": 1735968019,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186050,
+      "num": 186050,
+      "word": "李昀锐 追星星的人",
+      "onboard_time": 1735972700,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 186005,
@@ -987,6 +1027,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 162794,
+      "num": 162794,
+      "word": "孟美岐 昨晚的风是薄荷味儿的",
+      "onboard_time": 1735969220,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161840,
       "num": 161840,
       "word": "代号鸢",
@@ -1043,14 +1091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 153914,
-      "num": 153914,
-      "word": "孟美岐 昨晚的风是薄荷味儿的",
-      "onboard_time": 1735969220,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 150545,
       "num": 150545,
       "word": "00后女孩反复摔下车后学会了骑车飞",
@@ -1075,12 +1115,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144075,
-      "num": 153297,
-      "word": "上淇抢主持人话筒",
-      "onboard_time": 1735972100,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 147024,
+      "num": 147024,
+      "word": "新兰有一种不顾观众死活的浪漫",
+      "onboard_time": 1735972760,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 144019,
+      "num": 273316,
+      "word": "王濛说尔滨这个冬天连冰都是暖的",
+      "onboard_time": 1735972341,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 142865,
@@ -1105,6 +1153,14 @@
       "onboard_time": 1735961540,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140138,
+      "num": 140138,
+      "word": "原来萨摩耶有黑色的",
+      "onboard_time": 1735972641,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 139938,
@@ -1152,6 +1208,14 @@
       "word": "或许这才是真正的樊振东",
       "onboard_time": 1735960638,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 129833,
+      "num": 129833,
+      "word": "湖人战胜老鹰",
+      "onboard_time": 1735972341,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -1505,6 +1569,14 @@
       "onboard_time": 1735970719,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 75105,
+      "num": 274254,
+      "word": "王鹤棣官宣微博之夜",
+      "onboard_time": 1735972760,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 73872,
