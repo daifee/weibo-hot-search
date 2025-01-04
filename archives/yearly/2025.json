@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735987153172,
+  "endTime": 1735989460444,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -267,6 +267,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 1850628,
+      "num": 1850628,
+      "word": "顶级富二代都开始下海拍狗血短剧了",
+      "onboard_time": 1735985302,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1834605,
       "num": 1834605,
       "word": "昀牵孟绕",
@@ -401,14 +409,6 @@
       "onboard_time": 1735895179,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1568465,
-      "num": 1568465,
-      "word": "顶级富二代都开始下海拍狗血短剧了",
-      "onboard_time": 1735985302,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1565917,
@@ -600,6 +600,14 @@
       "word": "王鹤棣你是真饿了",
       "onboard_time": 1735701559,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1278630,
+      "num": 301693,
+      "word": "一欣一义",
+      "onboard_time": 1735987224,
+      "rank": 10,
       "category": "综艺"
     },
     {
@@ -1363,6 +1371,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 791376,
+      "num": 297920,
+      "word": "星光大赏内场",
+      "onboard_time": 1735989203,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 786867,
       "num": 786867,
       "word": "张雪峰公司实行上4休3",
@@ -1987,6 +2003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 572291,
+      "num": 572291,
+      "word": "韩国人在上海消费能力好强",
+      "onboard_time": 1735984043,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 569085,
       "num": 314277,
       "word": "傅菁后背痣好大方的美",
@@ -2275,6 +2299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 506081,
+      "num": 201230,
+      "word": "虞书欣裙子就是要叉着腰才好看",
+      "onboard_time": 1735986922,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 505876,
       "num": 505876,
       "word": "永宁县应急局称超2000人在救援排查",
@@ -2369,38 +2401,6 @@
       "onboard_time": 1735736002,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 494036,
-      "num": 494036,
-      "word": "成都Wolves对战MRC",
-      "onboard_time": 1735724360,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 493434,
-      "num": 435414,
-      "word": "凯迪拉克 樊振东",
-      "onboard_time": 1735876040,
-      "rank": 15,
-      "category": "体育,汽车"
-    },
-    {
-      "raw_hot": 490208,
-      "num": 490208,
-      "word": "八省联考历史",
-      "onboard_time": 1735959258,
-      "rank": 19,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 489079,
-      "num": 431733,
-      "word": "星光大赏三对大热cp",
-      "onboard_time": 1735981822,
-      "rank": 27,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
@@ -2454,6 +2454,9 @@
     },
     {
       "word": "#沿着习主席考察足迹再次触摸文化印迹#"
+    },
+    {
+      "word": "#这就是中国气质#"
     }
   ]
 }
