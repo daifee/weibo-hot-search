@@ -1,6 +1,6 @@
 {
   "startTime": 1735921654212,
-  "endTime": 1735975201208,
+  "endTime": 1735976134010,
   "band_list": [
     {
       "raw_hot": 2124345,
@@ -25,6 +25,14 @@
       "onboard_time": 1735957578,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1834605,
+      "num": 1834605,
+      "word": "昀牵孟绕",
+      "onboard_time": 1735973780,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 1489080,
@@ -75,14 +83,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1223292,
-      "num": 582937,
-      "word": "昀牵孟绕",
-      "onboard_time": 1735973780,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1187916,
       "num": 737257,
       "word": "骗子开始先给你转钱了",
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1160038,
-      "num": 574410,
+      "num": 901043,
       "word": "上淇抢主持人话筒",
       "onboard_time": 1735972100,
       "rank": 49,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 1078096,
-      "num": 1078096,
+      "num": 1264002,
       "word": "韩国空难3岁遇难者最后视频曝光",
       "onboard_time": 1735966459,
       "rank": 4,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 1063103,
-      "num": 278830,
+      "num": 344235,
       "word": "鹿晗 肯德基",
       "onboard_time": 1735970058,
       "rank": 31,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 862910,
-      "num": 556873,
+      "num": 777428,
       "word": "杨超越好帅",
       "onboard_time": 1735972641,
       "rank": 34,
@@ -251,20 +251,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 689895,
+      "num": 1295011,
+      "word": "虎鲸妈妈顶幼鲸尸体游了17天",
+      "onboard_time": 1735970480,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 652695,
       "num": 389173,
       "word": "星光大赏",
       "onboard_time": 1735919421,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 642379,
-      "num": 642379,
-      "word": "虎鲸妈妈顶幼鲸尸体游了17天",
-      "onboard_time": 1735970480,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 636538,
@@ -289,6 +289,14 @@
       "onboard_time": 1735968921,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 539770,
+      "num": 513958,
+      "word": "李沁红血顶奢高定待遇",
+      "onboard_time": 1735974741,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 539237,
@@ -321,6 +329,14 @@
       "onboard_time": 1735917740,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 516725,
+      "num": 516725,
+      "word": "吴敬平晒与樊振东聊天记录",
+      "onboard_time": 1735974500,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 501260,
@@ -403,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 422818,
+      "num": 519688,
+      "word": "开出租车被认错意外找到双胞胎兄弟",
+      "onboard_time": 1735973720,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 412971,
       "num": 266414,
       "word": "现在拨打的电话",
@@ -416,6 +440,14 @@
       "word": "张予曦 在逃千金",
       "onboard_time": 1735967659,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 401673,
+      "num": 401673,
+      "word": "童瑶穿了1985年的古董高定",
+      "onboard_time": 1735974921,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -443,12 +475,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 367894,
+      "num": 367894,
+      "word": "敖瑞鹏19年就在练习接白鹿了",
+      "onboard_time": 1735974141,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 356598,
       "num": 356598,
       "word": "江西抚州一女生夜跑遭40岁大叔搭讪",
       "onboard_time": 1735973180,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 354284,
+      "num": 339125,
+      "word": "张凌赫 190男模",
+      "onboard_time": 1735975161,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 350084,
@@ -489,14 +537,6 @@
       "onboard_time": 1735909819,
       "rank": 31,
       "category": "艺人,舆论监督"
-    },
-    {
-      "raw_hot": 315746,
-      "num": 315746,
-      "word": "敖瑞鹏19年就在练习接白鹿了",
-      "onboard_time": 1735974141,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 315631,
@@ -571,14 +611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 287437,
-      "num": 519688,
-      "word": "开出租车被认错意外找到双胞胎兄弟",
-      "onboard_time": 1735973720,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 287411,
       "num": 292740,
       "word": "原神",
@@ -619,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 276372,
+      "num": 214878,
+      "word": "傅菁后背痣好大方的美",
+      "onboard_time": 1735975341,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271909,
       "num": 433381,
       "word": "广西柳州被曝换表后燃气费跑太快",
@@ -635,11 +675,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 267087,
-      "num": 267087,
-      "word": "李沁红血顶奢高定待遇",
-      "onboard_time": 1735974741,
-      "rank": 31,
+      "raw_hot": 261454,
+      "num": 241897,
+      "word": "吴昕真的粉墨登场了",
+      "onboard_time": 1735974201,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -649,6 +689,14 @@
       "onboard_time": 1735968439,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 254119,
+      "num": 484734,
+      "word": "于正也喜欢李昀锐",
+      "onboard_time": 1735974621,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 251655,
@@ -691,14 +739,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 241897,
-      "num": 241897,
-      "word": "吴昕真的粉墨登场了",
-      "onboard_time": 1735974201,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 236830,
       "num": 236830,
       "word": "年度反腐大片",
@@ -721,14 +761,6 @@
       "onboard_time": 1735971620,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 219537,
-      "num": 219537,
-      "word": "吴敬平晒与樊振东聊天记录",
-      "onboard_time": 1735974500,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 218088,
@@ -760,6 +792,14 @@
       "word": "R1SE合体",
       "onboard_time": 1735907359,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 210988,
+      "num": 199481,
+      "word": "傅宣",
+      "onboard_time": 1735975521,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -795,16 +835,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206428,
-      "num": 206428,
-      "word": "童瑶穿了1985年的古董高定",
-      "onboard_time": 1735974921,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 206252,
-      "num": 206252,
+      "num": 390075,
       "word": "吴敬平 奥运会年和小胖的交流",
       "onboard_time": 1735974201,
       "rank": 37,
@@ -827,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203077,
+      "num": 198751,
+      "word": "杨超越夏之光同款双开门",
+      "onboard_time": 1735974801,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201594,
       "num": 201594,
       "word": "银川地震亲历者称更多是心理折磨",
@@ -841,6 +881,14 @@
       "onboard_time": 1735967179,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200378,
+      "num": 557882,
+      "word": "特朗普即将开启第二任期",
+      "onboard_time": 1735974141,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 200290,
@@ -883,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197340,
+      "num": 197340,
+      "word": "澳门偶遇叶祖新",
+      "onboard_time": 1735974980,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196835,
       "num": 324902,
       "word": "江苏大学已报案",
@@ -905,14 +961,6 @@
       "onboard_time": 1735918220,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 195159,
-      "num": 195159,
-      "word": "澳门偶遇叶祖新",
-      "onboard_time": 1735974980,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 194925,
@@ -955,14 +1003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189445,
-      "num": 189445,
-      "word": "杨超越夏之光同款双开门",
-      "onboard_time": 1735974801,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 189311,
       "num": 216814,
       "word": "电影小小的我这条小鱼在乎MV",
@@ -977,14 +1017,6 @@
       "onboard_time": 1735964659,
       "rank": 47,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 187097,
-      "num": 484734,
-      "word": "于正也喜欢李昀锐",
-      "onboard_time": 1735974621,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 187064,
@@ -1067,20 +1099,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181790,
+      "num": 462549,
+      "word": "年货总买砂糖橘的敢买车厘子了",
+      "onboard_time": 1735973421,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 180053,
       "num": 180053,
       "word": "张雨绮 太阳女神",
       "onboard_time": 1735973302,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 179310,
-      "num": 179310,
-      "word": "年货总买砂糖橘的敢买车厘子了",
-      "onboard_time": 1735973421,
-      "rank": 44,
-      "category": "美食"
     },
     {
       "raw_hot": 177630,
@@ -1155,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167340,
+      "num": 167340,
+      "word": "美宣",
+      "onboard_time": 1735975940,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165955,
       "num": 165955,
       "word": "防漏姨妈内裤居然里面加一层塑料膜",
@@ -1169,6 +1209,14 @@
       "onboard_time": 1735969220,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162240,
+      "num": 491043,
+      "word": "网约车司机加乘客微信被封号30天",
+      "onboard_time": 1735974382,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161840,
@@ -1227,11 +1275,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 154957,
-      "num": 154957,
-      "word": "张凌赫 190男模",
-      "onboard_time": 1735975161,
-      "rank": 49,
+      "raw_hot": 153609,
+      "num": 153609,
+      "word": "葛夕你怎么预判了麦琳",
+      "onboard_time": 1735975640,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -1299,14 +1347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140511,
-      "num": 557882,
-      "word": "特朗普即将开启第二任期",
-      "onboard_time": 1735974141,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 140138,
       "num": 140138,
       "word": "原来萨摩耶有黑色的",
@@ -1337,6 +1377,14 @@
       "onboard_time": 1735965378,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138782,
+      "num": 138782,
+      "word": "YSKM谈LPL前五上单",
+      "onboard_time": 1735975881,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 138537,
@@ -1475,14 +1523,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 116496,
-      "num": 491043,
-      "word": "网约车司机加乘客微信被封号30天",
-      "onboard_time": 1735974382,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115825,
       "num": 115825,
       "word": "赵丽颖到达澳门",
@@ -1513,6 +1553,14 @@
       "onboard_time": 1735957098,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108565,
+      "num": 197999,
+      "word": "2025春运",
+      "onboard_time": 1735974382,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107570,
@@ -1644,7 +1692,7 @@
     },
     {
       "raw_hot": 95268,
-      "num": 1321860,
+      "num": 1368449,
       "word": "文化中国行盘点2024文化印迹",
       "onboard_time": 1735958477,
       "rank": 49,
@@ -1817,6 +1865,14 @@
       "onboard_time": 1735928833,
       "rank": 24,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 56937,
+      "num": 428193,
+      "word": "白鹿 超有魔性的笑声",
+      "onboard_time": 1735974019,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 54932,

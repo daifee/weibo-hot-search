@@ -1,0 +1,410 @@
+{
+  "runTime": 1735976134010,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1834605,
+        "num": 1834605,
+        "word": "昀牵孟绕",
+        "onboard_time": 1735973780,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1378808,
+        "num": 1378808,
+        "word": "特朗普不满宣誓就职时美国降半旗",
+        "onboard_time": 1735972519,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21653,
+        "num": 1368449,
+        "word": "文化中国行盘点2024文化印迹",
+        "onboard_time": 1735958477,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1758885,
+        "num": 1309943,
+        "word": "星光大赏主持人好吵",
+        "onboard_time": 1735971019,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 689895,
+        "num": 1295011,
+        "word": "虎鲸妈妈顶幼鲸尸体游了17天",
+        "onboard_time": 1735970480,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 540083,
+        "num": 1264002,
+        "word": "韩国空难3岁遇难者最后视频曝光",
+        "onboard_time": 1735966459,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1240410,
+        "num": 1240410,
+        "word": "星光大赏红毯",
+        "onboard_time": 1735967359,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 901043,
+        "num": 901043,
+        "word": "上淇抢主持人话筒",
+        "onboard_time": 1735972100,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 777428,
+        "num": 777428,
+        "word": "杨超越好帅",
+        "onboard_time": 1735972641,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 516725,
+        "num": 516725,
+        "word": "吴敬平晒与樊振东聊天记录",
+        "onboard_time": 1735974500,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 744976,
+        "num": 516238,
+        "word": "迪丽热巴衣服不是起球是姐姐的时尚",
+        "onboard_time": 1735971801,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 680529,
+        "num": 515320,
+        "word": "24岁小伙吃外卖后睡觉突然去世",
+        "onboard_time": 1735967359,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 560223,
+        "num": 514969,
+        "word": "黄子韬送车大结局",
+        "onboard_time": 1735957578,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 539770,
+        "num": 513958,
+        "word": "李沁红血顶奢高定待遇",
+        "onboard_time": 1735974741,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 513640,
+        "num": 513640,
+        "word": "清华澄清80%毕业生出国不归传言",
+        "onboard_time": 1735969459,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 181790,
+        "num": 462549,
+        "word": "年货总买砂糖橘的敢买车厘子了",
+        "onboard_time": 1735973421,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 526398,
+        "num": 455854,
+        "word": "金靖产后首现身",
+        "onboard_time": 1735969941,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442018,
+        "num": 442018,
+        "word": "社保局人员受贿2575万打赏主播860万",
+        "onboard_time": 1735968921,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56937,
+        "num": 428193,
+        "word": "白鹿 超有魔性的笑声",
+        "onboard_time": 1735974019,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162240,
+        "num": 425077,
+        "word": "网约车司机加乘客微信被封号30天",
+        "onboard_time": 1735974382,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 447284,
+        "num": 424663,
+        "word": "赵丽颖海报C位",
+        "onboard_time": 1735967539,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 422818,
+        "num": 422818,
+        "word": "开出租车被认错意外找到双胞胎兄弟",
+        "onboard_time": 1735973720,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 406657,
+        "num": 406657,
+        "word": "景甜 孔雀公主",
+        "onboard_time": 1735967120,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401673,
+        "num": 401673,
+        "word": "童瑶穿了1985年的古董高定",
+        "onboard_time": 1735974921,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190010,
+        "num": 390075,
+        "word": "吴敬平 奥运会年和小胖的交流",
+        "onboard_time": 1735974201,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 387505,
+        "num": 387505,
+        "word": "火箭少女成团解散都没今天人齐",
+        "onboard_time": 1735957397,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382997,
+        "num": 382997,
+        "word": "孟子义李昀锐星光大赏封面",
+        "onboard_time": 1735971859,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371106,
+        "num": 371106,
+        "word": "香港网红伦敦豪宅被盗损失上亿",
+        "onboard_time": 1735970778,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 367894,
+        "num": 367894,
+        "word": "敖瑞鹏19年就在练习接白鹿了",
+        "onboard_time": 1735974141,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349720,
+        "num": 349720,
+        "word": "江西抚州一女生夜跑遭40岁大叔搭讪",
+        "onboard_time": 1735973180,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 730279,
+        "num": 344235,
+        "word": "鹿晗 肯德基",
+        "onboard_time": 1735970058,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354284,
+        "num": 339125,
+        "word": "张凌赫 190男模",
+        "onboard_time": 1735975161,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332806,
+        "num": 332806,
+        "word": "金靖早上收到了虞书欣的消息",
+        "onboard_time": 1735974019,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285543,
+        "num": 285543,
+        "word": "星光大赏",
+        "onboard_time": 1735919421,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216922,
+        "num": 216922,
+        "word": "男子9个月坐933次地铁获赠一辆车",
+        "onboard_time": 1735965020,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276372,
+        "num": 214878,
+        "word": "傅菁后背痣好大方的美",
+        "onboard_time": 1735975341,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261454,
+        "num": 214853,
+        "word": "吴昕真的粉墨登场了",
+        "onboard_time": 1735974201,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254119,
+        "num": 212092,
+        "word": "于正也喜欢李昀锐",
+        "onboard_time": 1735974621,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200378,
+        "num": 200378,
+        "word": "特朗普即将开启第二任期",
+        "onboard_time": 1735974141,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156222,
+        "num": 200356,
+        "word": "环保女性开始抛弃卫生巾",
+        "onboard_time": 1735960937,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 210988,
+        "num": 199481,
+        "word": "傅宣",
+        "onboard_time": 1735975521,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203077,
+        "num": 198751,
+        "word": "杨超越夏之光同款双开门",
+        "onboard_time": 1735974801,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108565,
+        "num": 197999,
+        "word": "2025春运",
+        "onboard_time": 1735974382,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197340,
+        "num": 197340,
+        "word": "澳门偶遇叶祖新",
+        "onboard_time": 1735974980,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167340,
+        "num": 167340,
+        "word": "美宣",
+        "onboard_time": 1735975940,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154032,
+        "num": 154032,
+        "word": "赵今麦闪钻挂脖裙",
+        "onboard_time": 1735971620,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153609,
+        "num": 153609,
+        "word": "葛夕你怎么预判了麦琳",
+        "onboard_time": 1735975640,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151396,
+        "num": 151396,
+        "word": "张雨绮 太阳女神",
+        "onboard_time": 1735973302,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139695,
+        "num": 139695,
+        "word": "保时捷销冠24年再卖出170台",
+        "onboard_time": 1735958537,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 138782,
+        "num": 138782,
+        "word": "YSKM谈LPL前五上单",
+        "onboard_time": 1735975881,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平新年贺词里镌刻的中国#"
+    }
+  }
+}
