@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736008848323,
+  "endTime": 1736011092399,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -17,6 +17,14 @@
       "onboard_time": 1735990643,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 18851987,
+      "num": 18851987,
+      "word": "李明德直播回击",
+      "onboard_time": 1736008895,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 18725300,
@@ -1339,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 874291,
+      "num": 874291,
+      "word": "张新成问孟子义李昀锐你们要不要",
+      "onboard_time": 1736007994,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 869666,
       "num": 1139146,
       "word": "孙颖莎vs王曼昱",
@@ -1721,14 +1737,6 @@
       "onboard_time": 1735822219,
       "rank": 35,
       "category": "美食"
-    },
-    {
-      "raw_hot": 726444,
-      "num": 726444,
-      "word": "张新成问孟子义李昀锐你们要不要",
-      "onboard_time": 1736007994,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 719009,
@@ -2924,7 +2932,7 @@
     },
     {
       "raw_hot": 443745,
-      "num": 248650,
+      "num": 294776,
       "word": "李昀锐嘻嘻不嘻嘻",
       "onboard_time": 1736007335,
       "rank": 43,
@@ -3009,6 +3017,14 @@
       "onboard_time": 1735866860,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 432118,
+      "num": 432118,
+      "word": "鸣龙少年",
+      "onboard_time": 1736007934,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 432070,
@@ -4571,6 +4587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 284261,
+      "num": 284261,
+      "word": "孙乐言好大气",
+      "onboard_time": 1736008654,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284141,
       "num": 284141,
       "word": "丈夫称烧伤妈妈皮肤不可能回到以前",
@@ -4745,6 +4769,14 @@
       "onboard_time": 1735742843,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 270898,
+      "num": 2005468,
+      "word": "网传机车圈博主波哥车祸身亡",
+      "onboard_time": 1736007335,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 270403,
@@ -5041,14 +5073,6 @@
       "onboard_time": 1735983202,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 250024,
-      "num": 250024,
-      "word": "鸣龙少年",
-      "onboard_time": 1736007934,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 249999,
@@ -5721,6 +5745,14 @@
       "onboard_time": 1735718899,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219131,
+      "num": 219131,
+      "word": "INTO1敢不敢合体",
+      "onboard_time": 1736009312,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 218862,
@@ -6435,6 +6467,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 200238,
+      "num": 219122,
+      "word": "丁禹兮领奖",
+      "onboard_time": 1736010509,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200181,
       "num": 200181,
       "word": "腾讯视频年度爆款剧集",
@@ -6529,14 +6569,6 @@
       "onboard_time": 1735985482,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198016,
-      "num": 198016,
-      "word": "孙乐言好大气",
-      "onboard_time": 1736008654,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 197984,
@@ -7609,6 +7641,14 @@
       "onboard_time": 1735785082,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176728,
+      "num": 219121,
+      "word": "孙怡的身上有好多花",
+      "onboard_time": 1736010211,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 176501,
@@ -10427,14 +10467,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 124368,
-      "num": 948141,
-      "word": "网传机车圈博主波哥车祸身亡",
-      "onboard_time": 1736007335,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124040,
       "num": 124040,
       "word": "辽宁一大货车起火爆炸多车被引燃",
@@ -11352,6 +11384,14 @@
       "word": "茅台原董事长丁雄军被查",
       "onboard_time": 1735815140,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98368,
+      "num": 1704270,
+      "word": "醉酒男子走向熟睡女孩父亲立即制服",
+      "onboard_time": 1736010091,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -12555,6 +12595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51457,
+      "num": 3907361,
+      "word": "1月14日售除夕当天火车票",
+      "onboard_time": 1736007874,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51277,
       "num": 580670,
       "word": "新年贺词里的你我",
@@ -13179,14 +13227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35139,
-      "num": 3907361,
-      "word": "1月14日售除夕当天火车票",
-      "onboard_time": 1736007874,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34892,
       "num": 54828,
       "word": "王楚钦拥抱梁靖崑",
@@ -13425,6 +13465,14 @@
       "onboard_time": 1735669936,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 32254,
+      "num": 219103,
+      "word": "驻洛杉矶总领馆发布提醒",
+      "onboard_time": 1736010568,
+      "rank": 49,
+      "category": "国际时政,国内时政"
     },
     {
       "raw_hot": 32068,

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736008848323,
+  "endTime": 1736011092399,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -17,6 +17,14 @@
       "onboard_time": 1735990643,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 18851987,
+      "num": 18851987,
+      "word": "李明德直播回击",
+      "onboard_time": 1736008895,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 18725300,
@@ -1339,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 874291,
+      "num": 874291,
+      "word": "张新成问孟子义李昀锐你们要不要",
+      "onboard_time": 1736007994,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 869666,
       "num": 1139146,
       "word": "孙颖莎vs王曼昱",
@@ -1721,14 +1737,6 @@
       "onboard_time": 1735822219,
       "rank": 35,
       "category": "美食"
-    },
-    {
-      "raw_hot": 726444,
-      "num": 726444,
-      "word": "张新成问孟子义李昀锐你们要不要",
-      "onboard_time": 1736007994,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 719009,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735901778,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 531846,
-      "num": 735033,
-      "word": "滑翔伞坠落致教练和一女大学生身亡",
-      "onboard_time": 1735829240,
-      "rank": 11,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
