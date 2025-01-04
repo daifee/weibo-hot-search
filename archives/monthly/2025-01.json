@@ -1,13 +1,21 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736004931233,
+  "endTime": 1736007937087,
   "band_list": [
     {
-      "raw_hot": 20690209,
-      "num": 20690209,
+      "raw_hot": 21251893,
+      "num": 21251893,
       "word": "李明德评论",
       "onboard_time": 1735990643,
       "rank": 0,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 18725300,
+      "num": 5216881,
+      "word": "马天宇 李明德",
+      "onboard_time": 1735991665,
+      "rank": 5,
       "category": "作品衍生"
     },
     {
@@ -17,14 +25,6 @@
       "onboard_time": 1735726580,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 13470474,
-      "num": 5216881,
-      "word": "马天宇 李明德",
-      "onboard_time": 1735991665,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 10681189,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 8711179,
-      "num": 4061213,
+      "num": 4536520,
       "word": "丁禹兮接虞书欣下台",
       "onboard_time": 1736001995,
       "rank": 7,
@@ -83,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 6585357,
+      "num": 6585357,
+      "word": "林高远父亲去世",
+      "onboard_time": 1736005415,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 4269334,
       "num": 4269334,
       "word": "孟子义李昀锐跟结婚似的",
@@ -103,6 +111,14 @@
       "num": 2602586,
       "word": "于正刚和赵露思聊了一小时",
       "onboard_time": 1735814900,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3605696,
+      "num": 3605696,
+      "word": "马天宇回应",
+      "onboard_time": 1736007874,
       "rank": 10,
       "category": "艺人"
     },
@@ -241,6 +257,14 @@
       "onboard_time": 1735802482,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2098189,
+      "num": 2098189,
+      "word": "祝绪丹哭了",
+      "onboard_time": 1736004515,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 2077247,
@@ -640,6 +664,14 @@
       "word": "张萌礼服",
       "onboard_time": 1735981042,
       "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1335219,
+      "num": 1335219,
+      "word": "周深 想嗑又不敢太明显",
+      "onboard_time": 1736005776,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -1156,7 +1188,7 @@
     },
     {
       "raw_hot": 955414,
-      "num": 488181,
+      "num": 492368,
       "word": "和颂",
       "onboard_time": 1735991244,
       "rank": 11,
@@ -1337,6 +1369,14 @@
       "onboard_time": 1735962199,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 864780,
+      "num": 864780,
+      "word": "王星越演我嗑虞书欣丁禹兮",
+      "onboard_time": 1736005295,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 862910,
@@ -1947,14 +1987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 626378,
-      "num": 626378,
-      "word": "祝绪丹哭了",
-      "onboard_time": 1736004515,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 625119,
       "num": 534985,
       "word": "谁家电视剧第一集就亲啊",
@@ -2016,6 +2048,14 @@
       "word": "孟子义没跑调",
       "onboard_time": 1735654770,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 606493,
+      "num": 606493,
+      "word": "星光大赏导播 顺手的事",
+      "onboard_time": 1736001934,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -2491,6 +2531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 507319,
+      "num": 5245498,
+      "word": "女孩凌晨店内熟睡突遭陌生男子闯入",
+      "onboard_time": 1736003495,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 507092,
       "num": 305310,
       "word": "女子捡漏30万黄金女儿怕诈骗急哭",
@@ -2795,6 +2843,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 460531,
+      "num": 460531,
+      "word": "虞书欣丁禹兮对唱",
+      "onboard_time": 1736006433,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 457296,
       "num": 457296,
       "word": "陈乔恩吐槽餐厅奇葩规定",
@@ -2843,14 +2899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 447031,
-      "num": 447031,
-      "word": "星光大赏导播 顺手的事",
-      "onboard_time": 1736001934,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 446361,
       "num": 446361,
       "word": "宁夏近期存在发生4到5级地震的可能",
@@ -2865,6 +2913,14 @@
       "onboard_time": 1735773735,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 443745,
+      "num": 248650,
+      "word": "李昀锐嘻嘻不嘻嘻",
+      "onboard_time": 1736007335,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 442986,
@@ -3281,6 +3337,14 @@
       "onboard_time": 1735696999,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 388034,
+      "num": 388034,
+      "word": "没认出李紫婷",
+      "onboard_time": 1736006255,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 387035,
@@ -3980,7 +4044,7 @@
     },
     {
       "raw_hot": 320218,
-      "num": 928994,
+      "num": 960203,
       "word": "有棵树公关部介入内裤塑料膜事件",
       "onboard_time": 1735994730,
       "rank": 16,
@@ -5172,7 +5236,7 @@
     },
     {
       "raw_hot": 241934,
-      "num": 380738,
+      "num": 984139,
       "word": "林高远发文称会直面自己的起伏",
       "onboard_time": 1736003856,
       "rank": 38,
@@ -5577,6 +5641,14 @@
       "onboard_time": 1735971620,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 221092,
+      "num": 221092,
+      "word": "成毅上台 尖叫声",
+      "onboard_time": 1736002112,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 220514,
@@ -8491,6 +8563,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 158805,
+      "num": 3688720,
+      "word": "这段视频Passion值拉满了",
+      "onboard_time": 1735986263,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158770,
       "num": 158770,
       "word": "美国冲撞人群司机下车向人群开枪",
@@ -8755,6 +8835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152584,
+      "num": 3114410,
+      "word": "你有舍不得删掉的短信吗",
+      "onboard_time": 1736002175,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152524,
       "num": 152524,
       "word": "2024全年电影票房425.02亿元",
@@ -8800,14 +8888,6 @@
       "word": "上海地铁回应有人在闲鱼上卖座位",
       "onboard_time": 1735890440,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 151673,
-      "num": 877456,
-      "word": "女孩凌晨店内熟睡突遭陌生男子闯入",
-      "onboard_time": 1736003495,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -9857,14 +9937,6 @@
       "onboard_time": 1736000430,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 134486,
-      "num": 478780,
-      "word": "这段视频Passion值拉满了",
-      "onboard_time": 1735986263,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133979,
@@ -11083,14 +11155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105448,
-      "num": 3114410,
-      "word": "你有舍不得删掉的短信吗",
-      "onboard_time": 1736002175,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 104899,
       "num": 104899,
       "word": "不知道的还以为马年要来了",
@@ -11611,6 +11675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85407,
+      "num": 5424348,
+      "word": "今年春运购票2个关键时间点",
+      "onboard_time": 1735997189,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85296,
       "num": 85296,
       "word": "2024年的你也辛苦了",
@@ -11675,6 +11747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82425,
+      "num": 280383,
+      "word": "近期去韩国旅游要增强保护意识",
+      "onboard_time": 1735998630,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 82173,
       "num": 333285,
       "word": "欧阳娜娜当小姨了",
@@ -11696,6 +11776,14 @@
       "word": "WTT退赛罚款是否算霸王条款",
       "onboard_time": 1735750336,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 81478,
+      "num": 593156,
+      "word": "17岁的樊振东是什么水平",
+      "onboard_time": 1736003315,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -11955,12 +12043,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 70106,
-      "num": 5424348,
-      "word": "今年春运购票2个关键时间点",
-      "onboard_time": 1735997189,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 70216,
+      "num": 221903,
+      "word": "美食时间",
+      "onboard_time": 1736006614,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 69652,
@@ -12113,14 +12201,6 @@
       "onboard_time": 1735984464,
       "rank": 14,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 63322,
-      "num": 593156,
-      "word": "17岁的樊振东是什么水平",
-      "onboard_time": 1736003315,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 63182,
@@ -12433,6 +12513,14 @@
       "onboard_time": 1735806560,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 51765,
+      "num": 492511,
+      "word": "网传机车圈博主波哥车祸身亡",
+      "onboard_time": 1736007335,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51277,
@@ -12872,6 +12960,14 @@
       "word": "控制价相差1分钱千万项目流标",
       "onboard_time": 1735992449,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39256,
+      "num": 1145085,
+      "word": "2025继续Passion",
+      "onboard_time": 1736007034,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -13529,6 +13625,14 @@
       "onboard_time": 1735942032,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 28677,
+      "num": 492872,
+      "word": "1月14日售除夕当天火车票",
+      "onboard_time": 1736007874,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28676,
