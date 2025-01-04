@@ -1,6 +1,6 @@
 {
   "startTime": 1735921654212,
-  "endTime": 1736001439041,
+  "endTime": 1736004081078,
   "band_list": [
     {
       "raw_hot": 20690209,
@@ -19,20 +19,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 9010178,
+      "num": 5161800,
+      "word": "三人行剧组回应",
+      "onboard_time": 1736000553,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 8499909,
+      "num": 2299766,
+      "word": "丁禹兮接虞书欣下台",
+      "onboard_time": 1736001995,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 7722142,
       "num": 7722142,
       "word": "赵丽颖压轴",
       "onboard_time": 1735982781,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 5161800,
-      "num": 5161800,
-      "word": "三人行剧组回应",
-      "onboard_time": 1736000553,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 4269334,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 1765458,
-      "num": 390023,
+      "num": 527145,
       "word": "禹宙中欣",
       "onboard_time": 1735978162,
       "rank": 10,
@@ -387,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 970494,
+      "num": 970494,
+      "word": "孟子义李昀锐 他说她可爱",
+      "onboard_time": 1736003856,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 957319,
       "num": 957319,
       "word": "星光大赏导播吃豆角子了",
@@ -627,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 590363,
+      "num": 590363,
+      "word": "火箭少女101合体舞台",
+      "onboard_time": 1736001934,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 581349,
       "num": 581349,
       "word": "如此可爱的我们",
@@ -851,6 +875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 420103,
+      "num": 420103,
+      "word": "星光大赏导播 顺手的事",
+      "onboard_time": 1736001934,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 412971,
       "num": 266414,
       "word": "现在拨打的电话",
@@ -971,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 366117,
+      "num": 366117,
+      "word": "李雪琴演我嗑昀牵孟绕",
+      "onboard_time": 1736002595,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 362246,
       "num": 693337,
       "word": "智利车厘子大丰收致价格回落",
@@ -1016,6 +1056,14 @@
       "word": "星光大赏切镜头",
       "onboard_time": 1735995929,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 351882,
+      "num": 351882,
+      "word": "李昀锐领奖",
+      "onboard_time": 1736003735,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -1163,7 +1211,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 295898,
+      "raw_hot": 298241,
       "num": 5341852,
       "word": "江苏一地最新公布新生儿爆款名字",
       "onboard_time": 1735995810,
@@ -1281,6 +1329,14 @@
       "onboard_time": 1735978823,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 277984,
+      "num": 248274,
+      "word": "张新成李兰迪镜头",
+      "onboard_time": 1736002954,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 276842,
@@ -2067,6 +2123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175635,
+      "num": 2088173,
+      "word": "樊振东与姆巴佩击掌",
+      "onboard_time": 1735999169,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174503,
       "num": 391598,
       "word": "百余人参与逮捕尹锡悦失败",
@@ -2081,6 +2145,14 @@
       "onboard_time": 1735964479,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 173036,
+      "num": 598583,
+      "word": "原来在韩国点外卖这么麻烦",
+      "onboard_time": 1735998268,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 171953,
@@ -2179,6 +2251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164659,
+      "num": 698813,
+      "word": "KPL",
+      "onboard_time": 1736002535,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 163769,
       "num": 163769,
       "word": "刘浩存内场镜头",
@@ -2193,14 +2273,6 @@
       "onboard_time": 1735969220,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 162459,
-      "num": 272018,
-      "word": "原来在韩国点外卖这么麻烦",
-      "onboard_time": 1735998268,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 162240,
@@ -2475,12 +2547,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 131426,
-      "num": 878412,
-      "word": "樊振东与姆巴佩击掌",
-      "onboard_time": 1735999169,
-      "rank": 29,
+      "raw_hot": 133637,
+      "num": 339498,
+      "word": "林高远发文称会直面自己的起伏",
+      "onboard_time": 1736003856,
+      "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131730,
+      "num": 339152,
+      "word": "狼队战胜KSG",
+      "onboard_time": 1736002535,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 131290,
@@ -2643,6 +2723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110621,
+      "num": 956088,
+      "word": "21年前出租车女司机载客遇害案告破",
+      "onboard_time": 1735999712,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110096,
       "num": 110096,
       "word": "胖东来员工不许靠父母积蓄买房买车",
@@ -2691,6 +2779,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105448,
+      "num": 240736,
+      "word": "你有舍不得删掉的短信吗",
+      "onboard_time": 1736002175,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104570,
+      "num": 410119,
+      "word": "女孩凌晨店内熟睡突遭陌生男子闯入",
+      "onboard_time": 1736003495,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104015,
       "num": 104015,
       "word": "八省联考",
@@ -2721,14 +2825,6 @@
       "onboard_time": 1735954457,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102397,
-      "num": 956088,
-      "word": "21年前出租车女司机载客遇害案告破",
-      "onboard_time": 1735999712,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101612,
@@ -3043,6 +3139,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71793,
+      "num": 1222401,
+      "word": "社区让熏腊肉老人听话是错上加错",
+      "onboard_time": 1735990703,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70106,
+      "num": 5424348,
+      "word": "今年春运购票2个关键时间点",
+      "onboard_time": 1735997189,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69652,
       "num": 378753,
       "word": "全国各地进入年度消费旺季",
@@ -3067,20 +3179,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65185,
-      "num": 5424348,
-      "word": "今年春运购票2个关键时间点",
-      "onboard_time": 1735997189,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 63477,
       "num": 341091,
       "word": "职业打假收徒贴宣称月入10万",
       "onboard_time": 1735984464,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 63322,
+      "num": 593156,
+      "word": "17岁的樊振东是什么水平",
+      "onboard_time": 1736003315,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 62267,
@@ -3243,6 +3355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 38541,
+      "num": 749090,
+      "word": "如何看待换燃气表后跑得飞快",
+      "onboard_time": 1736003615,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 38416,
       "num": 263526,
       "word": "李沁官宣加盟2024微博之夜",
@@ -3403,6 +3523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 28124,
+      "num": 660509,
+      "word": "家里出现裂缝村民质疑挖掘机",
+      "onboard_time": 1736003133,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27467,
       "num": 475985,
       "word": "啥叫CR450",
@@ -3505,6 +3633,14 @@
       "onboard_time": 1735939031,
       "rank": 24,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 14695,
+      "num": 675634,
+      "word": "曾舜晞官宣微博之夜",
+      "onboard_time": 1736003315,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 14418,

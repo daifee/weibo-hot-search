@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736001439041,
+  "endTime": 1736004081078,
   "band_list": [
     {
       "raw_hot": 20690209,
@@ -51,6 +51,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 9010178,
+      "num": 5161800,
+      "word": "三人行剧组回应",
+      "onboard_time": 1736000553,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 8499909,
+      "num": 2299766,
+      "word": "丁禹兮接虞书欣下台",
+      "onboard_time": 1736001995,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 8395718,
       "num": 2716623,
       "word": "王一博 安全扣没扣好",
@@ -65,14 +81,6 @@
       "onboard_time": 1735982781,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 5161800,
-      "num": 5161800,
-      "word": "三人行剧组回应",
-      "onboard_time": 1736000553,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 4269334,
@@ -1091,6 +1099,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 970494,
+      "num": 970494,
+      "word": "孟子义李昀锐 他说她可爱",
+      "onboard_time": 1736003856,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 966952,
       "num": 966952,
       "word": "湖南卫视收视率",
@@ -2075,6 +2091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 590363,
+      "num": 590363,
+      "word": "火箭少女101合体舞台",
+      "onboard_time": 1736001934,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 590278,
       "num": 590278,
       "word": "周涛董卿合照",
@@ -2376,30 +2400,6 @@
       "word": "金星伴月",
       "onboard_time": 1735900879,
       "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 516758,
-      "num": 473417,
-      "word": "黄圣依说杨子这出戏是拿奖级别",
-      "onboard_time": 1735803081,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 515621,
-      "num": 515621,
-      "word": "磊麦",
-      "onboard_time": 1735998750,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 514994,
-      "num": 310601,
-      "word": "大学生跨年夜卖出5个气球都没回本",
-      "onboard_time": 1735699221,
-      "rank": 21,
       "category": "民生新闻"
     }
   ],
