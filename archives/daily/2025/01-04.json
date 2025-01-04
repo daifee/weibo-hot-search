@@ -1,6 +1,6 @@
 {
   "startTime": 1735921654212,
-  "endTime": 1735986126122,
+  "endTime": 1735987153172,
   "band_list": [
     {
       "raw_hot": 7722142,
@@ -83,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1568465,
+      "num": 1568465,
+      "word": "顶级富二代都开始下海拍狗血短剧了",
+      "onboard_time": 1735985302,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1489080,
       "num": 1071865,
       "word": "疑似韩国遇难机长最后画面",
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 1339239,
-      "num": 649786,
+      "num": 943881,
       "word": "张萌礼服",
       "onboard_time": 1735981042,
       "rank": 8,
@@ -152,6 +160,14 @@
       "word": "王鹤棣田曦薇拦腰抱",
       "onboard_time": 1735978221,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1216298,
+      "num": 365832,
+      "word": "星光大赏座位",
+      "onboard_time": 1735984823,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -299,14 +315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 932976,
-      "num": 343653,
-      "word": "星光大赏座位",
-      "onboard_time": 1735984823,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 886200,
       "num": 336578,
       "word": "竹林四侠 成双成对",
@@ -387,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 739954,
+      "num": 352551,
+      "word": "复婚元年",
+      "onboard_time": 1735984342,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 713805,
       "num": 1295011,
       "word": "虎鲸妈妈顶幼鲸尸体游了17天",
@@ -400,14 +416,6 @@
       "word": "孙乐言 星光大赏主持",
       "onboard_time": 1735916000,
       "rank": 6,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 665904,
-      "num": 335802,
-      "word": "复婚元年",
-      "onboard_time": 1735984342,
-      "rank": 17,
       "category": "综艺"
     },
     {
@@ -443,14 +451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 610370,
-      "num": 610370,
-      "word": "顶级富二代都开始下海拍狗血短剧了",
-      "onboard_time": 1735985302,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 599483,
       "num": 570354,
       "word": "社保局人员受贿2575万打赏主播860万",
@@ -479,6 +479,14 @@
       "num": 418885,
       "word": "孟子义淡紫色长裙",
       "onboard_time": 1735963638,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 523911,
+      "num": 321773,
+      "word": "棣欣引力",
+      "onboard_time": 1735986321,
       "rank": 20,
       "category": "综艺"
     },
@@ -513,6 +521,14 @@
       "onboard_time": 1735917740,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 508064,
+      "num": 300096,
+      "word": "赵丽颖额头一绺",
+      "onboard_time": 1735985841,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 501260,
@@ -643,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 393969,
+      "num": 565043,
+      "word": "已婚已育后我决定过年谁家也不回",
+      "onboard_time": 1735980982,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 393445,
       "num": 502093,
       "word": "香港网红伦敦豪宅被盗损失上亿",
@@ -707,14 +731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 349862,
-      "num": 565043,
-      "word": "已婚已育后我决定过年谁家也不回",
-      "onboard_time": 1735980982,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 327861,
       "num": 327861,
       "word": "WTT祝樊振东未来之路更加辉煌",
@@ -739,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 322959,
+      "num": 322959,
+      "word": "韩国人在上海消费能力好强",
+      "onboard_time": 1735984043,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 316545,
       "num": 153703,
       "word": "国航 美珍香",
@@ -760,14 +784,6 @@
       "word": "J35虎鲸再次被发现背幼崽尸体",
       "onboard_time": 1735977021,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 312364,
-      "num": 312364,
-      "word": "韩国人在上海消费能力好强",
-      "onboard_time": 1735984043,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -803,20 +819,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 300124,
+      "num": 329201,
+      "word": "双胞胎分开30年不同地方竟同时感冒",
+      "onboard_time": 1735983323,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 300025,
+      "num": 300025,
+      "word": "刘浩存王安宇cp",
+      "onboard_time": 1735985542,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 294781,
       "num": 294781,
       "word": "星光大赏赵丽颖压轴",
       "onboard_time": 1735955357,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 294664,
-      "num": 329201,
-      "word": "双胞胎分开30年不同地方竟同时感冒",
-      "onboard_time": 1735983323,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 294472,
@@ -833,6 +857,14 @@
       "onboard_time": 1735961898,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 292489,
+      "num": 151046,
+      "word": "虞书欣裙子就是要叉着腰才好看",
+      "onboard_time": 1735986922,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 291641,
@@ -964,19 +996,11 @@
     },
     {
       "raw_hot": 259792,
-      "num": 259792,
+      "num": 300124,
       "word": "斯洛伐克考虑报复乌克兰",
       "onboard_time": 1735984043,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 255285,
-      "num": 255285,
-      "word": "赵丽颖额头一绺",
-      "onboard_time": 1735985841,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 255030,
@@ -1100,7 +1124,7 @@
     },
     {
       "raw_hot": 215741,
-      "num": 193503,
+      "num": 210851,
       "word": "王安宇王玉雯现场扭一段",
       "onboard_time": 1735980680,
       "rank": 44,
@@ -1204,7 +1228,7 @@
     },
     {
       "raw_hot": 203684,
-      "num": 203684,
+      "num": 300108,
       "word": "樊振东说一次成功很难但更难的是再次",
       "onboard_time": 1735985122,
       "rank": 40,
@@ -1331,14 +1355,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 196595,
-      "num": 196595,
-      "word": "刘浩存王安宇cp",
-      "onboard_time": 1735985542,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 196154,
       "num": 196154,
       "word": "反腐为了人民",
@@ -1403,6 +1419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190544,
+      "num": 300047,
+      "word": "樊振东是追星届的天花板吧",
+      "onboard_time": 1735986022,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189311,
       "num": 216814,
       "word": "电影小小的我这条小鱼在乎MV",
@@ -1424,6 +1448,14 @@
       "word": "吴敬平鼓励樊振东活出自己",
       "onboard_time": 1735981942,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 187379,
+      "num": 187379,
+      "word": "樊振东说美凌格信念永存",
+      "onboard_time": 1735986082,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -1547,28 +1579,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 175286,
-      "num": 175286,
-      "word": "樊振东是追星届的天花板吧",
-      "onboard_time": 1735986022,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 173569,
       "num": 385618,
       "word": "俄方称德日入常永远没戏",
       "onboard_time": 1735964479,
       "rank": 46,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 173358,
-      "num": 173358,
-      "word": "樊振东说美凌格信念永存",
-      "onboard_time": 1735986082,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 171953,
@@ -1659,6 +1675,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 161096,
+      "num": 161096,
+      "word": "巴勒斯坦代表泪洒联合国",
+      "onboard_time": 1735986683,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 159618,
       "num": 201896,
       "word": "Poppy说BLG已经是世界冠军了",
@@ -1707,6 +1731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151778,
+      "num": 151778,
+      "word": "陈震遭领克索赔500万",
+      "onboard_time": 1735983202,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 150545,
       "num": 150545,
       "word": "00后女孩反复摔下车后学会了骑车飞",
@@ -1721,6 +1753,14 @@
       "onboard_time": 1735960937,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147520,
+      "num": 147520,
+      "word": "你好星期六",
+      "onboard_time": 1735987103,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 147059,
@@ -1937,14 +1977,6 @@
       "onboard_time": 1735954637,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120822,
-      "num": 120822,
-      "word": "陈震遭领克索赔500万",
-      "onboard_time": 1735983202,
-      "rank": 48,
-      "category": "汽车"
     },
     {
       "raw_hot": 119876,
@@ -2299,6 +2331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76951,
+      "num": 331628,
+      "word": "麻醉师缺口大导致无痛分娩难",
+      "onboard_time": 1735985003,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75105,
       "num": 274254,
       "word": "王鹤棣官宣微博之夜",
@@ -2328,6 +2368,14 @@
       "word": "父亲回应17岁网红抗癌6年后离世",
       "onboard_time": 1735958117,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72063,
+      "num": 376401,
+      "word": "这段视频Passion值拉满了",
+      "onboard_time": 1735986263,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -2419,11 +2467,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 46459,
-      "num": 331628,
-      "word": "麻醉师缺口大导致无痛分娩难",
-      "onboard_time": 1735985003,
-      "rank": 19,
+      "raw_hot": 44067,
+      "num": 1165459,
+      "word": "山河大片里藏着一个动物世界",
+      "onboard_time": 1735985782,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -2689,14 +2737,6 @@
       "onboard_time": 1735982543,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 11314,
-      "num": 580510,
-      "word": "山河大片里藏着一个动物世界",
-      "onboard_time": 1735985782,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10320,
