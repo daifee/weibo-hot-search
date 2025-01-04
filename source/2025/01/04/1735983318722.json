@@ -1,0 +1,410 @@
+{
+  "runTime": 1735983318722,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4394263,
+        "num": 4394263,
+        "word": "赵丽颖压轴",
+        "onboard_time": 1735982781,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 698003,
+        "num": 698003,
+        "word": "虎鲸妈妈顶幼鲸尸体游了17天",
+        "onboard_time": 1735970480,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44643,
+        "num": 586830,
+        "word": "2025新年加油壁纸",
+        "onboard_time": 1735964117,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2459382,
+        "num": 563755,
+        "word": "孟子义李昀锐跟结婚似的",
+        "onboard_time": 1735977021,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 518160,
+        "num": 518160,
+        "word": "韩国新生儿人数9年来首次正增长",
+        "onboard_time": 1735980442,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 641424,
+        "num": 458598,
+        "word": "吴敬平晒与樊振东聊天记录",
+        "onboard_time": 1735974500,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1676140,
+        "num": 418497,
+        "word": "虞书欣丁禹兮手挽手",
+        "onboard_time": 1735978403,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1669689,
+        "num": 413223,
+        "word": "宋佳钟楚曦亲了",
+        "onboard_time": 1735980442,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362246,
+        "num": 362246,
+        "word": "智利车厘子大丰收致价格回落",
+        "onboard_time": 1735979421,
+        "rank": 8,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 81066,
+        "num": 358582,
+        "word": "埃塞俄比亚7天6次5级以上地震",
+        "onboard_time": 1735983022,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1454635,
+        "num": 338564,
+        "word": "星光大赏 民政局",
+        "onboard_time": 1735978942,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1339239,
+        "num": 331391,
+        "word": "张萌礼服",
+        "onboard_time": 1735981042,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1287904,
+        "num": 316941,
+        "word": "丁禹兮王鹤棣同框",
+        "onboard_time": 1735982602,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1158118,
+        "num": 305690,
+        "word": "张凌赫回应给金靖把出喜脉",
+        "onboard_time": 1735979182,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83840,
+        "num": 293228,
+        "word": "生理期内裤含塑料膜不能搪塞了事",
+        "onboard_time": 1735982002,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285086,
+        "num": 285086,
+        "word": "已婚已育后我决定过年谁家也不回",
+        "onboard_time": 1735980982,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 736499,
+        "num": 278983,
+        "word": "特朗普不满宣誓就职时美国降半旗",
+        "onboard_time": 1735972519,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 265029,
+        "num": 265029,
+        "word": "社保局人员受贿2575万打赏主播860万",
+        "onboard_time": 1735968921,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38416,
+        "num": 263526,
+        "word": "李沁官宣加盟2024微博之夜",
+        "onboard_time": 1735982663,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101594,
+        "num": 260976,
+        "word": "有中国留学人员返美时无法入境",
+        "onboard_time": 1735981882,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1058434,
+        "num": 257760,
+        "word": "豹豹猫猫我出生了",
+        "onboard_time": 1735978522,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 954364,
+        "num": 252530,
+        "word": "星光大赏后台",
+        "onboard_time": 1735982182,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 942850,
+        "num": 249706,
+        "word": "王鹤棣田曦薇拦腰抱",
+        "onboard_time": 1735978221,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248171,
+        "num": 248171,
+        "word": "清华澄清80%毕业生出国不归传言",
+        "onboard_time": 1735969459,
+        "rank": 23,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 12426,
+        "num": 245343,
+        "word": "雅思的胜利之约",
+        "onboard_time": 1735982543,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 842586,
+        "num": 243560,
+        "word": "唐嫣高定",
+        "onboard_time": 1735981343,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 759954,
+        "num": 237105,
+        "word": "管乐",
+        "onboard_time": 1735978282,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 696070,
+        "num": 235037,
+        "word": "星光大赏红毯",
+        "onboard_time": 1735967359,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 681002,
+        "num": 227969,
+        "word": "李兰迪 血气充盈的美",
+        "onboard_time": 1735979362,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28898,
+        "num": 224743,
+        "word": "教授谈副区长搭档主播拍视频卖房",
+        "onboard_time": 1735983143,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 573840,
+        "num": 222985,
+        "word": "傅宣 再见爱人2025",
+        "onboard_time": 1735982122,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 489079,
+        "num": 216566,
+        "word": "星光大赏三对大热cp",
+        "onboard_time": 1735981822,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344458,
+        "num": 214284,
+        "word": "星光大赏主持人好吵",
+        "onboard_time": 1735971019,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210999,
+        "num": 210999,
+        "word": "网传日本地铁站有序实为北京西二旗",
+        "onboard_time": 1735981582,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108231,
+        "num": 206106,
+        "word": "埃塞一火山喷发如大地漏气",
+        "onboard_time": 1735980743,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 305264,
+        "num": 206004,
+        "word": "杜海涛吴昕主持星光大赏",
+        "onboard_time": 1735982303,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286687,
+        "num": 206001,
+        "word": "金靖产后首现身",
+        "onboard_time": 1735969941,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205872,
+        "num": 205872,
+        "word": "女童一天昏倒6次竟与不爱喝水有关",
+        "onboard_time": 1735978823,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202838,
+        "num": 202838,
+        "word": "J35虎鲸再次被发现背幼崽尸体",
+        "onboard_time": 1735977021,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191540,
+        "num": 191540,
+        "word": "江西抚州一女生夜跑遭40岁大叔搭讪",
+        "onboard_time": 1735973180,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281413,
+        "num": 191338,
+        "word": "李现挑染",
+        "onboard_time": 1735982841,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276842,
+        "num": 189113,
+        "word": "林更新深V",
+        "onboard_time": 1735982602,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263686,
+        "num": 187312,
+        "word": "禹宙中欣",
+        "onboard_time": 1735978162,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250126,
+        "num": 186617,
+        "word": "陈都灵裙子上开了数不清的花儿",
+        "onboard_time": 1735983202,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185017,
+        "num": 185017,
+        "word": "开出租车被认错意外找到双胞胎兄弟",
+        "onboard_time": 1735973720,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131431,
+        "num": 131431,
+        "word": "吴敬平鼓励樊振东活出自己",
+        "onboard_time": 1735981942,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122263,
+        "num": 122263,
+        "word": "樊振东点赞莫德里奇",
+        "onboard_time": 1735977562,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120956,
+        "num": 120956,
+        "word": "逆水寒",
+        "onboard_time": 1735980680,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120822,
+        "num": 120822,
+        "word": "陈震遭领克索赔500万",
+        "onboard_time": 1735983202,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 116184,
+        "num": 116184,
+        "word": "年货总买砂糖橘的敢买车厘子了",
+        "onboard_time": 1735973421,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平新年贺词里镌刻的中国#"
+    }
+  }
+}

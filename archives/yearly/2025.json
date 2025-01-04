@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735982484195,
+  "endTime": 1735983318722,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -40,6 +40,14 @@
       "word": "王一博 安全扣没扣好",
       "onboard_time": 1735659686,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 4394263,
+      "num": 4394263,
+      "word": "赵丽颖压轴",
+      "onboard_time": 1735982781,
+      "rank": 0,
       "category": "综艺"
     },
     {
@@ -539,6 +547,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1339239,
+      "num": 649786,
+      "word": "张萌礼服",
+      "onboard_time": 1735981042,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1328407,
       "num": 733955,
       "word": "摇粒绒就是穷人的貂",
@@ -560,6 +576,14 @@
       "word": "李昀锐有点紧张",
       "onboard_time": 1735657828,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1287904,
+      "num": 316941,
+      "word": "丁禹兮王鹤棣同框",
+      "onboard_time": 1735982602,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -609,14 +633,6 @@
       "onboard_time": 1735913300,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1249678,
-      "num": 649786,
-      "word": "张萌礼服",
-      "onboard_time": 1735981042,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 1247426,
@@ -689,6 +705,14 @@
       "onboard_time": 1735642642,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1158118,
+      "num": 620933,
+      "word": "张凌赫回应给金靖把出喜脉",
+      "onboard_time": 1735979182,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 1150809,
@@ -785,14 +809,6 @@
       "onboard_time": 1735957397,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1099813,
-      "num": 620933,
-      "word": "张凌赫回应给金靖把出喜脉",
-      "onboard_time": 1735979182,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 1086217,
@@ -995,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 954364,
+      "num": 373316,
+      "word": "星光大赏后台",
+      "onboard_time": 1735982182,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 951115,
       "num": 951115,
       "word": "宁夏地震局",
@@ -1185,6 +1209,14 @@
       "onboard_time": 1735780459,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 842586,
+      "num": 485908,
+      "word": "唐嫣高定",
+      "onboard_time": 1735981343,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 832820,
@@ -1923,6 +1955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 573840,
+      "num": 366695,
+      "word": "傅宣 再见爱人2025",
+      "onboard_time": 1735982122,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 569085,
       "num": 314277,
       "word": "傅菁后背痣好大方的美",
@@ -2105,6 +2145,14 @@
       "onboard_time": 1735959499,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 518160,
+      "num": 642022,
+      "word": "韩国新生儿人数9年来首次正增长",
+      "onboard_time": 1735980442,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 517757,
@@ -2315,11 +2363,11 @@
       "category": "教育"
     },
     {
-      "raw_hot": 485908,
-      "num": 485908,
-      "word": "唐嫣高定",
-      "onboard_time": 1735981343,
-      "rank": 25,
+      "raw_hot": 489079,
+      "num": 431733,
+      "word": "星光大赏三对大热cp",
+      "onboard_time": 1735981822,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -2353,54 +2401,6 @@
       "onboard_time": 1735907599,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 477283,
-      "num": 477283,
-      "word": "白鹿是不虐的不演吗",
-      "onboard_time": 1735948576,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 476158,
-      "num": 476158,
-      "word": "八省联考",
-      "onboard_time": 1735900879,
-      "rank": 24,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 475731,
-      "num": 475731,
-      "word": "易烊千玺面试戏演哭剧组所有人",
-      "onboard_time": 1735719499,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 475127,
-      "num": 475127,
-      "word": "对600万人说慢一点没关系",
-      "onboard_time": 1735876881,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 474212,
-      "num": 474212,
-      "word": "甄嬛传晚会直播8小时",
-      "onboard_time": 1735885160,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 474155,
-      "num": 393114,
-      "word": "警方通报小轿车撞向货车致1死2伤",
-      "onboard_time": 1735946175,
-      "rank": 9,
-      "category": "辟谣/通报"
     }
   ],
   "hotgov_list": [
