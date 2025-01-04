@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736016099723,
+  "endTime": 1736018275718,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -499,20 +499,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 62756,
+      "num": 102615,
+      "word": "赵丽颖拍张碧晨",
+      "onboard_time": 1736015896,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 53081,
       "num": 219126,
       "word": "媒体称樊振东是当下的体育顶流",
       "onboard_time": 1735997968,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 52988,
-      "num": 102615,
-      "word": "赵丽颖拍张碧晨",
-      "onboard_time": 1736015896,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 51457,
@@ -523,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37627,
+      "num": 320528,
+      "word": "车厘子价格还会降吗",
+      "onboard_time": 1736015537,
+      "rank": 9,
+      "category": "财经,美食"
+    },
+    {
       "raw_hot": 34031,
       "num": 219108,
       "word": "KPL",
@@ -531,12 +539,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 13518,
-      "num": 320528,
-      "word": "车厘子价格还会降吗",
-      "onboard_time": 1736015537,
-      "rank": 9,
-      "category": "财经,美食"
+      "raw_hot": 29709,
+      "num": 158765,
+      "word": "全麻后他加了一次最狠的班",
+      "onboard_time": 1736016736,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10315,
+      "num": 120393,
+      "word": "2025新年贺词做成了手机屏保",
+      "onboard_time": 1736016855,
+      "rank": 24,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
