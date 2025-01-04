@@ -1,0 +1,410 @@
+{
+  "runTime": 1735994409881,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 20690209,
+        "num": 20690209,
+        "word": "李明德评论",
+        "onboard_time": 1735990643,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 522370,
+        "num": 522370,
+        "word": "韩国人在上海消费能力好强",
+        "onboard_time": 1735984043,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36899,
+        "num": 520673,
+        "word": "新年第一个周日恰逢小寒节气",
+        "onboard_time": 1735987583,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286795,
+        "num": 515604,
+        "word": "排队1小时兑蛇钞蛇币到手就转卖",
+        "onboard_time": 1735987042,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 251418,
+        "num": 512766,
+        "word": "已婚已育后我决定过年谁家也不回",
+        "onboard_time": 1735980982,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13277351,
+        "num": 506704,
+        "word": "马天宇 李明德",
+        "onboard_time": 1735991665,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1367448,
+        "num": 503563,
+        "word": "星光大赏内场",
+        "onboard_time": 1735989203,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1263830,
+        "num": 500173,
+        "word": "李兰迪发言切张新成镜头",
+        "onboard_time": 1735993350,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241970,
+        "num": 495321,
+        "word": "巴勒斯坦代表泪洒联合国",
+        "onboard_time": 1735986683,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174872,
+        "num": 491759,
+        "word": "智利车厘子大丰收致价格回落",
+        "onboard_time": 1735979421,
+        "rank": 9,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 859923,
+        "num": 485634,
+        "word": "顶级富二代都开始下海拍狗血短剧了",
+        "onboard_time": 1735985302,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 830598,
+        "num": 480151,
+        "word": "和颂",
+        "onboard_time": 1735991244,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479569,
+        "num": 479569,
+        "word": "一欣一义",
+        "onboard_time": 1735987224,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 466881,
+        "num": 466881,
+        "word": "赵丽颖第二套",
+        "onboard_time": 1735994191,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59510,
+        "num": 448522,
+        "word": "团队倡议将脑瘫更名五慢症",
+        "onboard_time": 1735992869,
+        "rank": 14,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 446672,
+        "num": 446672,
+        "word": "星光大赏座位",
+        "onboard_time": 1735984823,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197803,
+        "num": 446596,
+        "word": "雷军回复网友",
+        "onboard_time": 1735992810,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 110359,
+        "num": 446465,
+        "word": "合格车被车检黄牛整出5个故障",
+        "onboard_time": 1735994070,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76593,
+        "num": 446190,
+        "word": "金靖状态好好",
+        "onboard_time": 1735989024,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26192,
+        "num": 446090,
+        "word": "女生打车拒绝司机绕路被丢高速路边",
+        "onboard_time": 1735994309,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1569437,
+        "num": 445799,
+        "word": "虞书欣丁禹兮手挽手",
+        "onboard_time": 1735978403,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160332,
+        "num": 445599,
+        "word": "特朗普不满宣誓就职时美国降半旗",
+        "onboard_time": 1735972519,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1208900,
+        "num": 445564,
+        "word": "孟子义李昀锐跟结婚似的",
+        "onboard_time": 1735977021,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445380,
+        "num": 445380,
+        "word": "棣欣引力",
+        "onboard_time": 1735986321,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 660696,
+        "num": 441151,
+        "word": "赵丽颖压轴",
+        "onboard_time": 1735982781,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84547,
+        "num": 436407,
+        "word": "2025第一个节气",
+        "onboard_time": 1735993470,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435929,
+        "num": 435929,
+        "word": "只有成毅像来了单身派对",
+        "onboard_time": 1735989203,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403233,
+        "num": 403233,
+        "word": "谢谢你啊丁禹兮儿",
+        "onboard_time": 1735990404,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 402431,
+        "num": 402431,
+        "word": "垫底辣孩章昊合拍视频",
+        "onboard_time": 1735992510,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 387035,
+        "num": 387035,
+        "word": "今夕赫夕",
+        "onboard_time": 1735990103,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349717,
+        "num": 349717,
+        "word": "张萌礼服",
+        "onboard_time": 1735981042,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289366,
+        "num": 289366,
+        "word": "星光大赏 民政局",
+        "onboard_time": 1735978942,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216255,
+        "num": 270739,
+        "word": "3.5万买一户建女子朋友称是捡漏",
+        "onboard_time": 1735990887,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39278,
+        "num": 270025,
+        "word": "控制价相差1分钱千万项目流标",
+        "onboard_time": 1735992449,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269314,
+        "num": 269314,
+        "word": "三亚偶遇黄圣依一家",
+        "onboard_time": 1735992810,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255982,
+        "num": 255982,
+        "word": "唐嫣没走第二次单人红毯",
+        "onboard_time": 1735987583,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253922,
+        "num": 253922,
+        "word": "昀牵孟绕就这么甜得旁若无人",
+        "onboard_time": 1735989682,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237108,
+        "num": 237108,
+        "word": "燃耀",
+        "onboard_time": 1735991967,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228400,
+        "num": 228400,
+        "word": "锦月如歌",
+        "onboard_time": 1735992329,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175915,
+        "num": 220144,
+        "word": "34岁来英国留学的阶级跨越",
+        "onboard_time": 1735988303,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 251399,
+        "num": 219980,
+        "word": "唐嫣高定",
+        "onboard_time": 1735981343,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219762,
+        "num": 219762,
+        "word": "李兰迪 血气充盈的美",
+        "onboard_time": 1735979362,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199933,
+        "num": 199933,
+        "word": "宋佳钟楚曦亲了",
+        "onboard_time": 1735980442,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193736,
+        "num": 193736,
+        "word": "李昀锐说我一点没垫",
+        "onboard_time": 1735993830,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192599,
+        "num": 192599,
+        "word": "成毅内场绿色灯海",
+        "onboard_time": 1735994191,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184830,
+        "num": 184830,
+        "word": "夏之光可不可以把周震南放肩上",
+        "onboard_time": 1735991606,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128830,
+        "num": 128830,
+        "word": "虎鲸妈妈顶幼鲸尸体游了17天",
+        "onboard_time": 1735970480,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176779,
+        "num": 128563,
+        "word": "星光大赏直播",
+        "onboard_time": 1735990223,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121102,
+        "num": 121102,
+        "word": "韩国游客上海排队3小时吃羊肉串",
+        "onboard_time": 1735991665,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114733,
+        "num": 114733,
+        "word": "皇马力挺樊振东的每一个重要时刻",
+        "onboard_time": 1735987703,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#沿着习主席考察足迹再次触摸文化印迹#"
+    }
+  }
+}

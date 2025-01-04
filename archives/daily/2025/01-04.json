@@ -1,7 +1,23 @@
 {
   "startTime": 1735921654212,
-  "endTime": 1735990544055,
+  "endTime": 1735994409881,
   "band_list": [
+    {
+      "raw_hot": 20690209,
+      "num": 20690209,
+      "word": "李明德评论",
+      "onboard_time": 1735990643,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 13277351,
+      "num": 506704,
+      "word": "马天宇 李明德",
+      "onboard_time": 1735991665,
+      "rank": 5,
+      "category": "作品衍生"
+    },
     {
       "raw_hot": 7722142,
       "num": 7722142,
@@ -36,7 +52,7 @@
     },
     {
       "raw_hot": 2211590,
-      "num": 297920,
+      "num": 503563,
       "word": "星光大赏内场",
       "onboard_time": 1735989203,
       "rank": 12,
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 1278630,
-      "num": 301693,
+      "num": 479569,
       "word": "一欣一义",
       "onboard_time": 1735987224,
       "rank": 10,
@@ -169,6 +185,14 @@
       "onboard_time": 1735958537,
       "rank": 11,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 1263830,
+      "num": 500173,
+      "word": "李兰迪发言切张新成镜头",
+      "onboard_time": 1735993350,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1255753,
@@ -188,7 +212,7 @@
     },
     {
       "raw_hot": 1216298,
-      "num": 365832,
+      "num": 446672,
       "word": "星光大赏座位",
       "onboard_time": 1735984823,
       "rank": 12,
@@ -379,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 830598,
+      "num": 480151,
+      "word": "和颂",
+      "onboard_time": 1735991244,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 791469,
       "num": 791469,
       "word": "清华澄清80%毕业生出国不归传言",
@@ -444,7 +476,7 @@
     },
     {
       "raw_hot": 658596,
-      "num": 321773,
+      "num": 445380,
       "word": "棣欣引力",
       "onboard_time": 1735986321,
       "rank": 20,
@@ -572,7 +604,7 @@
     },
     {
       "raw_hot": 504453,
-      "num": 247962,
+      "num": 255982,
       "word": "唐嫣没走第二次单人红毯",
       "onboard_time": 1735987583,
       "rank": 25,
@@ -643,6 +675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 466881,
+      "num": 466881,
+      "word": "赵丽颖第二套",
+      "onboard_time": 1735994191,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 454547,
       "num": 454547,
       "word": "孟子义李昀锐星光大赏封面",
@@ -657,6 +697,14 @@
       "onboard_time": 1735960518,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 435929,
+      "num": 435929,
+      "word": "只有成毅像来了单身派对",
+      "onboard_time": 1735989203,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 426281,
@@ -689,6 +737,22 @@
       "onboard_time": 1735967659,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 403233,
+      "num": 403233,
+      "word": "谢谢你啊丁禹兮儿",
+      "onboard_time": 1735990404,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 402431,
+      "num": 402431,
+      "word": "垫底辣孩章昊合拍视频",
+      "onboard_time": 1735992510,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 401673,
@@ -731,19 +795,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 387035,
+      "num": 387035,
+      "word": "今夕赫夕",
+      "onboard_time": 1735990103,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 367894,
       "num": 367894,
       "word": "敖瑞鹏19年就在练习接白鹿了",
       "onboard_time": 1735974141,
       "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 362569,
-      "num": 205351,
-      "word": "谢谢你啊丁禹兮儿",
-      "onboard_time": 1735990404,
-      "rank": 30,
       "category": "综艺"
     },
     {
@@ -784,14 +848,6 @@
       "word": "张若昀工作室自己人又出力了",
       "onboard_time": 1735968019,
       "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 345213,
-      "num": 204402,
-      "word": "只有成毅像来了单身派对",
-      "onboard_time": 1735989203,
-      "rank": 35,
       "category": "综艺"
     },
     {
@@ -876,7 +932,7 @@
     },
     {
       "raw_hot": 303343,
-      "num": 303343,
+      "num": 515604,
       "word": "排队1小时兑蛇钞蛇币到手就转卖",
       "onboard_time": 1735987042,
       "rank": 17,
@@ -1035,6 +1091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 269314,
+      "num": 269314,
+      "word": "三亚偶遇黄圣依一家",
+      "onboard_time": 1735992810,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268477,
       "num": 268477,
       "word": "李昀锐帮孟子义整理裙摆",
@@ -1091,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253922,
+      "num": 253922,
+      "word": "昀牵孟绕就这么甜得旁若无人",
+      "onboard_time": 1735989682,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251655,
       "num": 294008,
       "word": "王玉雯星光大赏出图",
@@ -1116,7 +1188,7 @@
     },
     {
       "raw_hot": 247196,
-      "num": 302734,
+      "num": 495321,
       "word": "巴勒斯坦代表泪洒联合国",
       "onboard_time": 1735986683,
       "rank": 43,
@@ -1155,6 +1227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 237108,
+      "num": 237108,
+      "word": "燃耀",
+      "onboard_time": 1735991967,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236830,
       "num": 236830,
       "word": "年度反腐大片",
@@ -1171,20 +1251,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 230742,
-      "num": 200113,
-      "word": "昀牵孟绕就这么甜得旁若无人",
-      "onboard_time": 1735989682,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 225351,
-      "num": 197366,
-      "word": "今夕赫夕",
-      "onboard_time": 1735990103,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 228400,
+      "num": 228400,
+      "word": "锦月如歌",
+      "onboard_time": 1735992329,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 224543,
@@ -1233,6 +1305,14 @@
       "onboard_time": 1735989442,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216255,
+      "num": 270739,
+      "word": "3.5万买一户建女子朋友称是捡漏",
+      "onboard_time": 1735990887,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 215741,
@@ -1443,6 +1523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197803,
+      "num": 446596,
+      "word": "雷军回复网友",
+      "onboard_time": 1735992810,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 197625,
       "num": 242839,
       "word": "单人喜剧 零帧起疯",
@@ -1515,6 +1603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193736,
+      "num": 193736,
+      "word": "李昀锐说我一点没垫",
+      "onboard_time": 1735993830,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193601,
       "num": 187737,
       "word": "杨超越舞台小羊准备中",
@@ -1529,6 +1625,14 @@
       "onboard_time": 1735912399,
       "rank": 25,
       "category": "网红"
+    },
+    {
+      "raw_hot": 192599,
+      "num": 192599,
+      "word": "成毅内场绿色灯海",
+      "onboard_time": 1735994191,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 192091,
@@ -1633,6 +1737,14 @@
       "onboard_time": 1735971260,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184830,
+      "num": 184830,
+      "word": "夏之光可不可以把周震南放肩上",
+      "onboard_time": 1735991606,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 184436,
@@ -2131,6 +2243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121102,
+      "num": 121102,
+      "word": "韩国游客上海排队3小时吃羊肉串",
+      "onboard_time": 1735991665,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120960,
       "num": 120960,
       "word": "问界起诉广州问界M7事故鉴定公司",
@@ -2193,6 +2313,14 @@
       "onboard_time": 1735976481,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110359,
+      "num": 446465,
+      "word": "合格车被车检黄牛整出5个故障",
+      "onboard_time": 1735994070,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110096,
@@ -2443,6 +2571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 84547,
+      "num": 436407,
+      "word": "2025第一个节气",
+      "onboard_time": 1735993470,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84480,
       "num": 84480,
       "word": "WTT官方声明",
@@ -2505,6 +2641,14 @@
       "onboard_time": 1735985003,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76593,
+      "num": 446190,
+      "word": "金靖状态好好",
+      "onboard_time": 1735989024,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 75105,
@@ -2603,6 +2747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59510,
+      "num": 448522,
+      "word": "团队倡议将脑瘫更名五慢症",
+      "onboard_time": 1735992869,
+      "rank": 14,
+      "category": "民生新闻,电影"
+    },
+    {
       "raw_hot": 59166,
       "num": 140599,
       "word": "柯基警犬瞄来瞄去偷感好重",
@@ -2689,6 +2841,14 @@
       "onboard_time": 1735907599,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 39278,
+      "num": 270025,
+      "word": "控制价相差1分钱千万项目流标",
+      "onboard_time": 1735992449,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38723,
@@ -2843,6 +3003,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 26192,
+      "num": 446090,
+      "word": "女生打车拒绝司机绕路被丢高速路边",
+      "onboard_time": 1735994309,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25644,
       "num": 31605,
       "word": "双色球",
@@ -2905,14 +3073,6 @@
       "onboard_time": 1735932911,
       "rank": 48,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 16714,
-      "num": 243508,
-      "word": "金靖状态好好",
-      "onboard_time": 1735989024,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 16558,

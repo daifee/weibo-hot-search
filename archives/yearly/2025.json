@@ -1,7 +1,15 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735990544055,
+  "endTime": 1735994409881,
   "band_list": [
+    {
+      "raw_hot": 20690209,
+      "num": 20690209,
+      "word": "李明德评论",
+      "onboard_time": 1735990643,
+      "rank": 0,
+      "category": "作品衍生"
+    },
     {
       "raw_hot": 16189782,
       "num": 16189782,
@@ -9,6 +17,14 @@
       "onboard_time": 1735726580,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13277351,
+      "num": 506704,
+      "word": "马天宇 李明德",
+      "onboard_time": 1735991665,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 10681189,
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 2211590,
-      "num": 297920,
+      "num": 503563,
       "word": "星光大赏内场",
       "onboard_time": 1735989203,
       "rank": 12,
@@ -620,7 +636,7 @@
     },
     {
       "raw_hot": 1278630,
-      "num": 301693,
+      "num": 479569,
       "word": "一欣一义",
       "onboard_time": 1735987224,
       "rank": 10,
@@ -641,6 +657,14 @@
       "onboard_time": 1735958537,
       "rank": 11,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 1263830,
+      "num": 500173,
+      "word": "李兰迪发言切张新成镜头",
+      "onboard_time": 1735993350,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1261142,
@@ -700,7 +724,7 @@
     },
     {
       "raw_hot": 1216298,
-      "num": 365832,
+      "num": 446672,
       "word": "星光大赏座位",
       "onboard_time": 1735984823,
       "rank": 12,
@@ -1273,6 +1297,14 @@
       "onboard_time": 1735912160,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 830598,
+      "num": 480151,
+      "word": "和颂",
+      "onboard_time": 1735991244,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 822120,
@@ -2324,7 +2356,7 @@
     },
     {
       "raw_hot": 504453,
-      "num": 247962,
+      "num": 255982,
       "word": "唐嫣没走第二次单人红毯",
       "onboard_time": 1735987583,
       "rank": 25,
@@ -2369,38 +2401,6 @@
       "onboard_time": 1735702221,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 501344,
-      "num": 501344,
-      "word": "世界之外直播",
-      "onboard_time": 1735907479,
-      "rank": 9,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 501260,
-      "num": 268336,
-      "word": "韩国空难机长遇难前最后动作被拍下",
-      "onboard_time": 1735935671,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 500919,
-      "num": 500919,
-      "word": "阳光型抑郁症到底是什么",
-      "onboard_time": 1735743981,
-      "rank": 11,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 499501,
-      "num": 499501,
-      "word": "王曼昱好帅",
-      "onboard_time": 1735875440,
-      "rank": 31,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
