@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736018275718,
+  "endTime": 1736019350441,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -523,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43327,
+      "num": 158765,
+      "word": "全麻后他加了一次最狠的班",
+      "onboard_time": 1736016736,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37627,
       "num": 320528,
       "word": "车厘子价格还会降吗",
@@ -539,19 +547,19 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 29709,
-      "num": 158765,
-      "word": "全麻后他加了一次最狠的班",
-      "onboard_time": 1736016736,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10315,
+      "raw_hot": 11670,
       "num": 120393,
       "word": "2025新年贺词做成了手机屏保",
       "onboard_time": 1736016855,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9321,
+      "num": 139296,
+      "word": "年度反腐大片反腐为了人民",
+      "onboard_time": 1736019134,
+      "rank": 14,
       "category": "民生新闻"
     }
   ],
