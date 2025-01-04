@@ -1,6 +1,6 @@
 {
   "startTime": 1735921654212,
-  "endTime": 1735969080734,
+  "endTime": 1735972153695,
   "band_list": [
     {
       "raw_hot": 2056686,
@@ -83,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1108110,
+      "num": 531713,
+      "word": "星光大赏主持人好吵",
+      "onboard_time": 1735971019,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1101527,
       "num": 520088,
       "word": "火箭少女成团解散都没今天人齐",
@@ -105,6 +113,14 @@
       "onboard_time": 1735966459,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1063103,
+      "num": 219613,
+      "word": "鹿晗 肯德基",
+      "onboard_time": 1735970058,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 1060817,
@@ -137,6 +153,14 @@
       "onboard_time": 1735916900,
       "rank": 5,
       "category": "艺人,健康医疗"
+    },
+    {
+      "raw_hot": 936727,
+      "num": 477937,
+      "word": "金靖产后首现身",
+      "onboard_time": 1735969941,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 865531,
@@ -203,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 599483,
+      "num": 310747,
+      "word": "社保局人员受贿2575万打赏主播860万",
+      "onboard_time": 1735968921,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 539237,
       "num": 418885,
       "word": "孟子义淡紫色长裙",
@@ -233,6 +265,14 @@
       "onboard_time": 1735917740,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 514095,
+      "num": 514095,
+      "word": "清华澄清80%毕业生出国不归传言",
+      "onboard_time": 1735969459,
+      "rank": 5,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 501260,
@@ -296,6 +336,14 @@
       "word": "JJ智利车厘子1斤约30元",
       "onboard_time": 1735960518,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 437954,
+      "num": 274685,
+      "word": "虎鲸妈妈顶幼鲸尸体游了17天",
+      "onboard_time": 1735970480,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -459,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 284947,
+      "num": 284947,
+      "word": "叠纸心意",
+      "onboard_time": 1735970178,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 283673,
       "num": 198466,
       "word": "张小斐被曝违章交警称已依法处置",
@@ -491,6 +547,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 265242,
+      "num": 216507,
+      "word": "香港网红伦敦豪宅被盗损失上亿",
+      "onboard_time": 1735970778,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 255030,
+      "num": 270278,
+      "word": "R1SE真好",
+      "onboard_time": 1735968439,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 251655,
       "num": 294008,
       "word": "王玉雯星光大赏出图",
@@ -507,20 +579,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 244353,
+      "num": 244353,
+      "word": "星光大赏名单",
+      "onboard_time": 1735970359,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244150,
       "num": 244150,
       "word": "WTT感谢陈梦",
       "onboard_time": 1735966759,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 242878,
-      "num": 270278,
-      "word": "R1SE真好",
-      "onboard_time": 1735968439,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 242606,
@@ -547,12 +619,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 222089,
+      "num": 222089,
+      "word": "迪丽热巴衣服不是起球是姐姐的时尚",
+      "onboard_time": 1735971801,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218088,
       "num": 218088,
       "word": "动物园小老虎被迫营业按下爪印挂历",
       "onboard_time": 1735953257,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213752,
+      "num": 213752,
+      "word": "傅菁绿裙",
+      "onboard_time": 1735970719,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 212720,
@@ -587,12 +675,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208002,
+      "num": 208002,
+      "word": "孟子义李昀锐星光大赏封面",
+      "onboard_time": 1735971859,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207403,
       "num": 291959,
       "word": "小伙飞机上丢行李国航称无法联系机组",
       "onboard_time": 1735916959,
       "rank": 21,
       "category": "艺人,舆论监督"
+    },
+    {
+      "raw_hot": 206797,
+      "num": 206797,
+      "word": "丁禹兮灯影绮丽",
+      "onboard_time": 1735971320,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 203785,
@@ -609,6 +713,14 @@
       "onboard_time": 1735915461,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201982,
+      "num": 201982,
+      "word": "赵今麦闪钻挂脖裙",
+      "onboard_time": 1735971620,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 201594,
@@ -633,6 +745,14 @@
       "onboard_time": 1735962199,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 199252,
+      "num": 199252,
+      "word": "李昀锐星光大赏灰西装造型",
+      "onboard_time": 1735969039,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 198892,
@@ -660,7 +780,7 @@
     },
     {
       "raw_hot": 196835,
-      "num": 196835,
+      "num": 324902,
       "word": "江苏大学已报案",
       "onboard_time": 1735953197,
       "rank": 23,
@@ -747,12 +867,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186005,
+      "num": 186005,
+      "word": "火箭少女101合体",
+      "onboard_time": 1735969639,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185422,
       "num": 157778,
       "word": "瘦了50斤的面部折叠度",
       "onboard_time": 1735903698,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 185022,
+      "num": 185022,
+      "word": "周深新歌是白月梵星OST",
+      "onboard_time": 1735971260,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 182885,
@@ -851,14 +987,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 163463,
-      "num": 163463,
-      "word": "社保局人员受贿2575万打赏主播860万",
-      "onboard_time": 1735968921,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161840,
       "num": 161840,
       "word": "代号鸢",
@@ -915,6 +1043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153914,
+      "num": 153914,
+      "word": "孟美岐 昨晚的风是薄荷味儿的",
+      "onboard_time": 1735969220,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150545,
       "num": 150545,
       "word": "00后女孩反复摔下车后学会了骑车飞",
@@ -937,6 +1073,14 @@
       "onboard_time": 1735963759,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144075,
+      "num": 153297,
+      "word": "上淇抢主持人话筒",
+      "onboard_time": 1735972100,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 142865,
@@ -977,14 +1121,6 @@
       "onboard_time": 1735916241,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 139830,
-      "num": 139830,
-      "word": "李昀锐星光大赏灰西装造型",
-      "onboard_time": 1735969039,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 139289,
@@ -1203,6 +1339,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 100764,
+      "num": 220119,
+      "word": "男子买假证冒充铁路工作人员乘车",
+      "onboard_time": 1735970240,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100683,
       "num": 100683,
       "word": "王一博方辟谣",
@@ -1355,12 +1499,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77890,
+      "num": 283873,
+      "word": "驻站定档",
+      "onboard_time": 1735970719,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 73872,
       "num": 326313,
       "word": "罗云熙微博之夜官宣",
       "onboard_time": 1735968139,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 73069,
+      "num": 199996,
+      "word": "小心0元购后猫财两空",
+      "onboard_time": 1735969339,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72567,
@@ -1507,6 +1667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30323,
+      "num": 285226,
+      "word": "陈哲远古希腊送礼的神",
+      "onboard_time": 1735969099,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30156,
       "num": 30156,
       "word": "蛇币蛇钞异常火爆不乏大学生群体的推动",
@@ -1579,6 +1747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 21509,
+      "num": 208437,
+      "word": "威尼修斯报复染红",
+      "onboard_time": 1735969580,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20613,
       "num": 22949,
       "word": "许七安天地一刀斩",
@@ -1633,6 +1809,14 @@
       "onboard_time": 1735938310,
       "rank": 27,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 9091,
+      "num": 260304,
+      "word": "郑钦文将参加澳网开赛倒计时仪式",
+      "onboard_time": 1735972039,
+      "rank": 24,
+      "category": "体育"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1735972153695,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1877407,
+        "num": 1877407,
+        "word": "星光大赏红毯",
+        "onboard_time": 1735967359,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 628032,
+        "num": 628032,
+        "word": "男子9个月坐933次地铁获赠一辆车",
+        "onboard_time": 1735965020,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22010,
+        "num": 533807,
+        "word": "文化中国行盘点2024文化印迹",
+        "onboard_time": 1735958477,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1108110,
+        "num": 531713,
+        "word": "星光大赏主持人好吵",
+        "onboard_time": 1735971019,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 964996,
+        "num": 530398,
+        "word": "韩国空难3岁遇难者最后视频曝光",
+        "onboard_time": 1735966459,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 514095,
+        "num": 514095,
+        "word": "清华澄清80%毕业生出国不归传言",
+        "onboard_time": 1735969459,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 936727,
+        "num": 477937,
+        "word": "金靖产后首现身",
+        "onboard_time": 1735969941,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 928686,
+        "num": 448724,
+        "word": "黄子韬送车大结局",
+        "onboard_time": 1735957578,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330103,
+        "num": 330103,
+        "word": "保时捷销冠24年再卖出170台",
+        "onboard_time": 1735958537,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 75328,
+        "num": 324902,
+        "word": "江苏大学已报案",
+        "onboard_time": 1735953197,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1226252,
+        "num": 321972,
+        "word": "24岁小伙吃外卖后睡觉突然去世",
+        "onboard_time": 1735967359,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 708689,
+        "num": 312362,
+        "word": "赵丽颖海报C位",
+        "onboard_time": 1735967539,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 599483,
+        "num": 310747,
+        "word": "社保局人员受贿2575万打赏主播860万",
+        "onboard_time": 1735968921,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 586625,
+        "num": 300109,
+        "word": "景甜 孔雀公主",
+        "onboard_time": 1735967120,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 576737,
+        "num": 296352,
+        "word": "火箭少女成团解散都没今天人齐",
+        "onboard_time": 1735957397,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30323,
+        "num": 285226,
+        "word": "陈哲远古希腊送礼的神",
+        "onboard_time": 1735969099,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284947,
+        "num": 284947,
+        "word": "叠纸心意",
+        "onboard_time": 1735970178,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 77890,
+        "num": 283873,
+        "word": "驻站定档",
+        "onboard_time": 1735970719,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 442897,
+        "num": 279874,
+        "word": "星光大赏出图",
+        "onboard_time": 1735965559,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37766,
+        "num": 277770,
+        "word": "Doinb抵达深圳",
+        "onboard_time": 1735959918,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 437954,
+        "num": 274685,
+        "word": "虎鲸妈妈顶幼鲸尸体游了17天",
+        "onboard_time": 1735970480,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403537,
+        "num": 270828,
+        "word": "张予曦 在逃千金",
+        "onboard_time": 1735967659,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396982,
+        "num": 266033,
+        "word": "环保女性开始抛弃卫生巾",
+        "onboard_time": 1735960937,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 328773,
+        "num": 262858,
+        "word": "张若昀工作室自己人又出力了",
+        "onboard_time": 1735968019,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9091,
+        "num": 260304,
+        "word": "郑钦文将参加澳网开赛倒计时仪式",
+        "onboard_time": 1735972039,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257587,
+        "num": 257587,
+        "word": "星光大赏",
+        "onboard_time": 1735919421,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255030,
+        "num": 255030,
+        "word": "R1SE真好",
+        "onboard_time": 1735968439,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 252178,
+        "num": 252178,
+        "word": "星光大赏节目单",
+        "onboard_time": 1735958117,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244353,
+        "num": 244353,
+        "word": "星光大赏名单",
+        "onboard_time": 1735970359,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222089,
+        "num": 222089,
+        "word": "迪丽热巴衣服不是起球是姐姐的时尚",
+        "onboard_time": 1735971801,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100764,
+        "num": 220119,
+        "word": "男子买假证冒充铁路工作人员乘车",
+        "onboard_time": 1735970240,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1063103,
+        "num": 219613,
+        "word": "鹿晗 肯德基",
+        "onboard_time": 1735970058,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265242,
+        "num": 216507,
+        "word": "香港网红伦敦豪宅被盗损失上亿",
+        "onboard_time": 1735970778,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150083,
+        "num": 215025,
+        "word": "骗子开始先给你转钱了",
+        "onboard_time": 1735922776,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213752,
+        "num": 213752,
+        "word": "傅菁绿裙",
+        "onboard_time": 1735970719,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214379,
+        "num": 211314,
+        "word": "客服回应生理期内裤被指有塑料膜",
+        "onboard_time": 1735957877,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 21509,
+        "num": 208437,
+        "word": "威尼修斯报复染红",
+        "onboard_time": 1735969580,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208002,
+        "num": 208002,
+        "word": "孟子义李昀锐星光大赏封面",
+        "onboard_time": 1735971859,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206797,
+        "num": 206797,
+        "word": "丁禹兮灯影绮丽",
+        "onboard_time": 1735971320,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202605,
+        "num": 202605,
+        "word": "WTT祝樊振东未来之路更加辉煌",
+        "onboard_time": 1735966879,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201982,
+        "num": 201982,
+        "word": "赵今麦闪钻挂脖裙",
+        "onboard_time": 1735971620,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 73069,
+        "num": 199996,
+        "word": "小心0元购后猫财两空",
+        "onboard_time": 1735969339,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199252,
+        "num": 199252,
+        "word": "李昀锐星光大赏灰西装造型",
+        "onboard_time": 1735969039,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195199,
+        "num": 195199,
+        "word": "医生称森碟下巴后缩或影响口腔功能",
+        "onboard_time": 1735916900,
+        "rank": 43,
+        "category": "艺人,健康医疗"
+      },
+      {
+        "raw_hot": 186005,
+        "num": 186005,
+        "word": "火箭少女101合体",
+        "onboard_time": 1735969639,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185022,
+        "num": 185022,
+        "word": "周深新歌是白月梵星OST",
+        "onboard_time": 1735971260,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170540,
+        "num": 170540,
+        "word": "年轻人开始流行将黄金贴在手机上",
+        "onboard_time": 1735962199,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155095,
+        "num": 155095,
+        "word": "网传星光大赏红毯出场顺序",
+        "onboard_time": 1735956858,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153914,
+        "num": 153914,
+        "word": "孟美岐 昨晚的风是薄荷味儿的",
+        "onboard_time": 1735969220,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144075,
+        "num": 153297,
+        "word": "上淇抢主持人话筒",
+        "onboard_time": 1735972100,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#新征程上每一个人都是主角#"
+    }
+  }
+}

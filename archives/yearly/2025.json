@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735969080734,
+  "endTime": 1735972153695,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -683,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1108110,
+      "num": 531713,
+      "word": "星光大赏主持人好吵",
+      "onboard_time": 1735971019,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1101527,
       "num": 520088,
       "word": "火箭少女成团解散都没今天人齐",
@@ -705,6 +713,14 @@
       "onboard_time": 1735966459,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1063103,
+      "num": 219613,
+      "word": "鹿晗 肯德基",
+      "onboard_time": 1735970058,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 1060817,
@@ -881,6 +897,14 @@
       "onboard_time": 1735916900,
       "rank": 9,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 936727,
+      "num": 477937,
+      "word": "金靖产后首现身",
+      "onboard_time": 1735969941,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 931934,
@@ -1651,6 +1675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 599483,
+      "num": 310747,
+      "word": "社保局人员受贿2575万打赏主播860万",
+      "onboard_time": 1735968921,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 597582,
       "num": 505851,
       "word": "李炜回应",
@@ -1937,6 +1969,14 @@
       "onboard_time": 1735699221,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 514095,
+      "num": 514095,
+      "word": "清华澄清80%毕业生出国不归传言",
+      "onboard_time": 1735969459,
+      "rank": 5,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 513973,
@@ -2355,52 +2395,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 436378,
-      "num": 436378,
-      "word": "李行亮 哄是一种扬汤止沸的行为",
-      "onboard_time": 1735883359,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 435344,
-      "num": 379617,
-      "word": "留学生穿睡衣帮爸爸谈跨国生意",
-      "onboard_time": 1735785082,
-      "rank": 23,
+      "raw_hot": 437954,
+      "num": 274685,
+      "word": "虎鲸妈妈顶幼鲸尸体游了17天",
+      "onboard_time": 1735970480,
+      "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 434391,
-      "num": 417856,
-      "word": "胡彦斌吧唧",
-      "onboard_time": 1735826121,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 434386,
-      "num": 434386,
-      "word": "苏有朋黄晓明 还珠格格",
-      "onboard_time": 1735663824,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 432791,
-      "num": 432791,
-      "word": "抓捕尹锡悦人员同警卫发生冲突",
-      "onboard_time": 1735866860,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 432070,
-      "num": 318224,
-      "word": "韩国空难179名遇难者身份全部确认",
-      "onboard_time": 1735698379,
-      "rank": 16,
-      "category": "海外新闻"
     }
   ],
   "hotgov_list": [
