@@ -1,7 +1,23 @@
 {
   "startTime": 1735921654212,
-  "endTime": 1735976134010,
+  "endTime": 1735979203913,
   "band_list": [
+    {
+      "raw_hot": 4269334,
+      "num": 4269334,
+      "word": "孟子义李昀锐跟结婚似的",
+      "onboard_time": 1735977021,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2567485,
+      "num": 409508,
+      "word": "虞书欣丁禹兮手挽手",
+      "onboard_time": 1735978403,
+      "rank": 3,
+      "category": "综艺"
+    },
     {
       "raw_hot": 2124345,
       "num": 2124345,
@@ -33,6 +49,14 @@
       "onboard_time": 1735973780,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1765458,
+      "num": 354117,
+      "word": "禹宙中欣",
+      "onboard_time": 1735978162,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1489080,
@@ -155,6 +179,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 993215,
+      "num": 516725,
+      "word": "吴敬平晒与樊振东聊天记录",
+      "onboard_time": 1735974500,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 985867,
       "num": 1157738,
       "word": "年轻人开始流行换房过年",
@@ -184,6 +216,14 @@
       "word": "金靖产后首现身",
       "onboard_time": 1735969941,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 929962,
+      "num": 348605,
+      "word": "王鹤棣田曦薇拦腰抱",
+      "onboard_time": 1735978221,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -259,6 +299,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 671479,
+      "num": 333603,
+      "word": "竹林四侠 成双成对",
+      "onboard_time": 1735978522,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 656972,
+      "num": 513958,
+      "word": "李沁红血顶奢高定待遇",
+      "onboard_time": 1735974741,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 652695,
       "num": 389173,
       "word": "星光大赏",
@@ -283,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 599719,
+      "num": 314340,
+      "word": "豹豹猫猫我出生了",
+      "onboard_time": 1735978522,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 599483,
       "num": 504673,
       "word": "社保局人员受贿2575万打赏主播860万",
@@ -291,11 +355,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 539770,
-      "num": 513958,
-      "word": "李沁红血顶奢高定待遇",
-      "onboard_time": 1735974741,
-      "rank": 31,
+      "raw_hot": 569085,
+      "num": 314277,
+      "word": "傅菁后背痣好大方的美",
+      "onboard_time": 1735975341,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -305,6 +369,14 @@
       "onboard_time": 1735963638,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 531509,
+      "num": 313926,
+      "word": "管乐",
+      "onboard_time": 1735978282,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 522175,
@@ -329,14 +401,6 @@
       "onboard_time": 1735917740,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 516725,
-      "num": 516725,
-      "word": "吴敬平晒与樊振东聊天记录",
-      "onboard_time": 1735974500,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 501260,
@@ -475,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 374864,
+      "num": 313117,
+      "word": "星光大赏 民政局",
+      "onboard_time": 1735978942,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 367894,
       "num": 367894,
       "word": "敖瑞鹏19年就在练习接白鹿了",
@@ -545,6 +617,14 @@
       "onboard_time": 1735963578,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 312629,
+      "num": 360369,
+      "word": "J35虎鲸再次被发现背幼崽尸体",
+      "onboard_time": 1735977021,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 307939,
@@ -651,12 +731,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 276372,
-      "num": 214878,
-      "word": "傅菁后背痣好大方的美",
-      "onboard_time": 1735975341,
+      "raw_hot": 280589,
+      "num": 280589,
+      "word": "任敏好可爱",
+      "onboard_time": 1735977861,
       "rank": 35,
-      "category": "综艺"
+      "category": "艺人"
     },
     {
       "raw_hot": 271909,
@@ -673,6 +753,14 @@
       "onboard_time": 1735951757,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 263138,
+      "num": 462549,
+      "word": "年货总买砂糖橘的敢买车厘子了",
+      "onboard_time": 1735973421,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 261454,
@@ -747,12 +835,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 235844,
+      "num": 163622,
+      "word": "宋佳气场全开",
+      "onboard_time": 1735976601,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 226067,
+      "num": 162510,
+      "word": "张凌赫回应给金靖把出喜脉",
+      "onboard_time": 1735979182,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224543,
       "num": 224543,
       "word": "韩客机失事现场发现波音737手册残页",
       "onboard_time": 1735914741,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 221978,
+      "num": 159158,
+      "word": "罗云熙时隔9年再参加微博之夜",
+      "onboard_time": 1735976180,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 221732,
@@ -1099,14 +1211,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 181790,
-      "num": 462549,
-      "word": "年货总买砂糖橘的敢买车厘子了",
-      "onboard_time": 1735973421,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 180053,
       "num": 180053,
       "word": "张雨绮 太阳女神",
@@ -1161,6 +1265,14 @@
       "onboard_time": 1735963878,
       "rank": 9,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 171942,
+      "num": 171942,
+      "word": "WTT",
+      "onboard_time": 1735977922,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 171077,
@@ -1323,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143073,
+      "num": 313774,
+      "word": "樊振东点赞莫德里奇",
+      "onboard_time": 1735977562,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142865,
       "num": 142865,
       "word": "101注共5.31亿巨奖出自同一站点",
@@ -1409,6 +1529,14 @@
       "onboard_time": 1735960638,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130335,
+      "num": 151465,
+      "word": "陈震称已收到领克律师函",
+      "onboard_time": 1735977320,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 129833,
@@ -1537,6 +1665,14 @@
       "onboard_time": 1735953976,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 111690,
+      "num": 151300,
+      "word": "詹姆斯这是40岁",
+      "onboard_time": 1735976481,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 110096,
@@ -1715,6 +1851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93305,
+      "num": 314656,
+      "word": "女童一天昏倒6次竟与不爱喝水有关",
+      "onboard_time": 1735978823,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91742,
       "num": 91742,
       "word": "跟着杨紫李现赚money才是要紧事",
@@ -1883,6 +2027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45534,
+      "num": 314588,
+      "word": "登陆少年微博之夜公式照",
+      "onboard_time": 1735978641,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 42280,
       "num": 59121,
       "word": "韩国一商业楼起火多人被困",
@@ -2025,6 +2177,14 @@
       "onboard_time": 1735922057,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 22807,
+      "num": 332146,
+      "word": "年轻人换房过年漏洞很大",
+      "onboard_time": 1735978942,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21973,
