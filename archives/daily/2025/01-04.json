@@ -1,6 +1,6 @@
 {
   "startTime": 1735921654212,
-  "endTime": 1735989460444,
+  "endTime": 1735990544055,
   "band_list": [
     {
       "raw_hot": 7722142,
@@ -24,6 +24,22 @@
       "word": "虞书欣丁禹兮手挽手",
       "onboard_time": 1735978403,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2996452,
+      "num": 2996452,
+      "word": "三人行 李明德",
+      "onboard_time": 1735988782,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 2211590,
+      "num": 297920,
+      "word": "星光大赏内场",
+      "onboard_time": 1735989203,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -371,14 +387,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 791376,
-      "num": 297920,
-      "word": "星光大赏内场",
-      "onboard_time": 1735989203,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 785474,
       "num": 480964,
       "word": "景甜 孔雀公主",
@@ -483,20 +491,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 579891,
+      "num": 579891,
+      "word": "韩国人在上海消费能力好强",
+      "onboard_time": 1735984043,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 573840,
       "num": 366695,
       "word": "傅宣 再见爱人2025",
       "onboard_time": 1735982122,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 572291,
-      "num": 572291,
-      "word": "韩国人在上海消费能力好强",
-      "onboard_time": 1735984043,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 569085,
@@ -556,10 +564,18 @@
     },
     {
       "raw_hot": 506081,
-      "num": 201230,
+      "num": 209490,
       "word": "虞书欣裙子就是要叉着腰才好看",
       "onboard_time": 1735986922,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 504453,
+      "num": 247962,
+      "word": "唐嫣没走第二次单人红毯",
+      "onboard_time": 1735987583,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -595,14 +611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 487958,
-      "num": 201576,
-      "word": "唐嫣没走第二次单人红毯",
-      "onboard_time": 1735987583,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 485117,
       "num": 319665,
       "word": "印度男子用舌头截停57次电风扇叶片",
@@ -633,14 +641,6 @@
       "onboard_time": 1735963458,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 470602,
-      "num": 201103,
-      "word": "三人行 李明德",
-      "onboard_time": 1735988782,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 454547,
@@ -739,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 362569,
+      "num": 205351,
+      "word": "谢谢你啊丁禹兮儿",
+      "onboard_time": 1735990404,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 362246,
       "num": 693337,
       "word": "智利车厘子大丰收致价格回落",
@@ -779,8 +787,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 345213,
+      "num": 204402,
+      "word": "只有成毅像来了单身派对",
+      "onboard_time": 1735989203,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 335118,
-      "num": 200289,
+      "num": 201849,
       "word": "李嘉琦把650穿在身上走红毯",
       "onboard_time": 1735988122,
       "rank": 32,
@@ -859,6 +875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 303343,
+      "num": 303343,
+      "word": "排队1小时兑蛇钞蛇币到手就转卖",
+      "onboard_time": 1735987042,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 303037,
       "num": 329201,
       "word": "双胞胎分开30年不同地方竟同时感冒",
@@ -905,6 +929,14 @@
       "onboard_time": 1735961898,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 291841,
+      "num": 202625,
+      "word": "星光大赏直播",
+      "onboard_time": 1735990223,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 291641,
@@ -1083,6 +1115,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 247196,
+      "num": 302734,
+      "word": "巴勒斯坦代表泪洒联合国",
+      "onboard_time": 1735986683,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 244353,
       "num": 244353,
       "word": "星光大赏名单",
@@ -1131,12 +1171,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230742,
+      "num": 200113,
+      "word": "昀牵孟绕就这么甜得旁若无人",
+      "onboard_time": 1735989682,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 225351,
+      "num": 197366,
+      "word": "今夕赫夕",
+      "onboard_time": 1735990103,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224543,
       "num": 224543,
       "word": "韩客机失事现场发现波音737手册残页",
       "onboard_time": 1735914741,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 223230,
+      "num": 223230,
+      "word": "34岁来英国留学的阶级跨越",
+      "onboard_time": 1735988303,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 221978,
@@ -1161,6 +1225,14 @@
       "onboard_time": 1735953257,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216948,
+      "num": 193400,
+      "word": "王鹤棣要去打NBA",
+      "onboard_time": 1735989442,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 215741,
@@ -1203,14 +1275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211132,
-      "num": 211132,
-      "word": "排队1小时兑蛇钞蛇币到手就转卖",
-      "onboard_time": 1735987042,
-      "rank": 17,
-      "category": "财经"
-    },
-    {
       "raw_hot": 210988,
       "num": 199481,
       "word": "傅宣",
@@ -1232,14 +1296,6 @@
       "word": "你好星期六全员刑侦力上线",
       "onboard_time": 1735958537,
       "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 207627,
-      "num": 199747,
-      "word": "只有成毅像来了单身派对",
-      "onboard_time": 1735989203,
-      "rank": 35,
       "category": "综艺"
     },
     {
@@ -1579,6 +1635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184436,
+      "num": 146535,
+      "word": "王鹤棣李昀锐后台拥抱",
+      "onboard_time": 1735987464,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182885,
       "num": 343578,
       "word": "上海春考",
@@ -1609,6 +1673,14 @@
       "onboard_time": 1735973302,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179249,
+      "num": 279119,
+      "word": "网红赛道挤满下海的富二代",
+      "onboard_time": 1735989503,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177630,
@@ -1691,6 +1763,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 168728,
+      "num": 168728,
+      "word": "孟子义因为窦昭选了紫色礼服",
+      "onboard_time": 1735989922,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167716,
       "num": 167716,
       "word": "网传星光大赏红毯赵丽颖压轴",
@@ -1713,6 +1793,14 @@
       "onboard_time": 1735884740,
       "rank": 18,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 165211,
+      "num": 165211,
+      "word": "陈震遭领克索赔500万",
+      "onboard_time": 1735983202,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 164805,
@@ -1747,14 +1835,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 161235,
-      "num": 302734,
-      "word": "巴勒斯坦代表泪洒联合国",
-      "onboard_time": 1735986683,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 161106,
       "num": 161106,
       "word": "韩国人来张家界感叹这才是大国风景",
@@ -1777,14 +1857,6 @@
       "onboard_time": 1735900819,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 158782,
-      "num": 158782,
-      "word": "34岁来英国留学的阶级跨越",
-      "onboard_time": 1735988303,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 156419,
@@ -1812,19 +1884,11 @@
     },
     {
       "raw_hot": 154844,
-      "num": 154844,
+      "num": 199321,
       "word": "张博恒说放低姿态继续攀登",
       "onboard_time": 1735988843,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153656,
-      "num": 153656,
-      "word": "陈震遭领克索赔500万",
-      "onboard_time": 1735983202,
-      "rank": 48,
-      "category": "汽车"
     },
     {
       "raw_hot": 153609,
@@ -2419,6 +2483,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 78909,
+      "num": 205845,
+      "word": "中国女排超级联赛",
+      "onboard_time": 1735990404,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77890,
       "num": 283873,
       "word": "驻站定档",
@@ -2595,6 +2667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42885,
+      "num": 1288528,
+      "word": "新年第一个周日恰逢小寒节气",
+      "onboard_time": 1735987583,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42280,
       "num": 59121,
       "word": "韩国一商业楼起火多人被困",
@@ -2619,6 +2699,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 38617,
+      "num": 208126,
+      "word": "KSG对战狼队",
+      "onboard_time": 1735990103,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 38416,
       "num": 263526,
       "word": "李沁官宣加盟2024微博之夜",
@@ -2633,14 +2721,6 @@
       "onboard_time": 1735927694,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 35409,
-      "num": 1288528,
-      "word": "新年第一个周日恰逢小寒节气",
-      "onboard_time": 1735987583,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34162,
@@ -2827,6 +2907,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 16714,
+      "num": 243508,
+      "word": "金靖状态好好",
+      "onboard_time": 1735989024,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 16558,
       "num": 85780,
       "word": "梁靖崑王楚钦拥抱两连发",
@@ -2865,14 +2953,6 @@
       "onboard_time": 1735982543,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 10927,
-      "num": 171424,
-      "word": "金靖状态好好",
-      "onboard_time": 1735989024,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 10320,

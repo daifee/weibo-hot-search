@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735989460444,
+  "endTime": 1735990544055,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -91,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2996452,
+      "num": 2996452,
+      "word": "三人行 李明德",
+      "onboard_time": 1735988782,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2979441,
       "num": 454377,
       "word": "田亮回应网友质疑女儿下巴后缩严重",
@@ -161,6 +169,14 @@
       "onboard_time": 1735810700,
       "rank": 3,
       "category": "海外新闻,网红"
+    },
+    {
+      "raw_hot": 2211590,
+      "num": 297920,
+      "word": "星光大赏内场",
+      "onboard_time": 1735989203,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 2183435,
@@ -1371,14 +1387,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 791376,
-      "num": 297920,
-      "word": "星光大赏内场",
-      "onboard_time": 1735989203,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 786867,
       "num": 786867,
       "word": "张雪峰公司实行上4休3",
@@ -1979,6 +1987,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 579891,
+      "num": 579891,
+      "word": "韩国人在上海消费能力好强",
+      "onboard_time": 1735984043,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 576390,
       "num": 576390,
       "word": "刘诗诗醉梦开机图",
@@ -2001,14 +2017,6 @@
       "onboard_time": 1735982122,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 572291,
-      "num": 572291,
-      "word": "韩国人在上海消费能力好强",
-      "onboard_time": 1735984043,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 569085,
@@ -2300,7 +2308,7 @@
     },
     {
       "raw_hot": 506081,
-      "num": 201230,
+      "num": 209490,
       "word": "虞书欣裙子就是要叉着腰才好看",
       "onboard_time": 1735986922,
       "rank": 46,
@@ -2313,6 +2321,14 @@
       "onboard_time": 1735833558,
       "rank": 6,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 504453,
+      "num": 247962,
+      "word": "唐嫣没走第二次单人红毯",
+      "onboard_time": 1735987583,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 504340,
@@ -2384,22 +2400,6 @@
       "word": "王曼昱好帅",
       "onboard_time": 1735875440,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 499122,
-      "num": 195232,
-      "word": "赵露思全国后援会发长文",
-      "onboard_time": 1735687934,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 498910,
-      "num": 498910,
-      "word": "王楚钦3比2林诗栋",
-      "onboard_time": 1735736002,
-      "rank": 14,
       "category": "体育"
     }
   ],
