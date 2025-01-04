@@ -1,0 +1,410 @@
+{
+  "runTime": 1735979999768,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3767391,
+        "num": 3767391,
+        "word": "孟子义李昀锐跟结婚似的",
+        "onboard_time": 1735977021,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 617507,
+        "num": 617507,
+        "word": "虎鲸妈妈顶幼鲸尸体游了17天",
+        "onboard_time": 1735970480,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33359,
+        "num": 473685,
+        "word": "2025新年加油壁纸",
+        "onboard_time": 1735964117,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3594619,
+        "num": 453619,
+        "word": "虞书欣丁禹兮手挽手",
+        "onboard_time": 1735978403,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372733,
+        "num": 372733,
+        "word": "开出租车被认错意外找到双胞胎兄弟",
+        "onboard_time": 1735973720,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1045322,
+        "num": 370634,
+        "word": "吴敬平晒与樊振东聊天记录",
+        "onboard_time": 1735974500,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1224866,
+        "num": 365681,
+        "word": "王鹤棣田曦薇拦腰抱",
+        "onboard_time": 1735978221,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 995434,
+        "num": 363142,
+        "word": "特朗普不满宣誓就职时美国降半旗",
+        "onboard_time": 1735972519,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 965536,
+        "num": 355095,
+        "word": "豹豹猫猫我出生了",
+        "onboard_time": 1735978522,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119300,
+        "num": 354038,
+        "word": "智利车厘子大丰收致价格回落",
+        "onboard_time": 1735979421,
+        "rank": 9,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 1216966,
+        "num": 347007,
+        "word": "禹宙中欣",
+        "onboard_time": 1735978162,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 901053,
+        "num": 344257,
+        "word": "昀牵孟绕",
+        "onboard_time": 1735973780,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 888821,
+        "num": 337267,
+        "word": "星光大赏红毯",
+        "onboard_time": 1735967359,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 886200,
+        "num": 336578,
+        "word": "竹林四侠 成双成对",
+        "onboard_time": 1735978522,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43617,
+        "num": 329563,
+        "word": "年轻人换房过年漏洞很大",
+        "onboard_time": 1735978942,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 872967,
+        "num": 324288,
+        "word": "管乐",
+        "onboard_time": 1735978282,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390778,
+        "num": 320353,
+        "word": "社保局人员受贿2575万打赏主播860万",
+        "onboard_time": 1735968921,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318629,
+        "num": 318629,
+        "word": "清华澄清80%毕业生出国不归传言",
+        "onboard_time": 1735969459,
+        "rank": 17,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 305769,
+        "num": 305769,
+        "word": "J35虎鲸再次被发现背幼崽尸体",
+        "onboard_time": 1735977021,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226669,
+        "num": 304524,
+        "word": "女童一天昏倒6次竟与不爱喝水有关",
+        "onboard_time": 1735978823,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 834495,
+        "num": 303830,
+        "word": "星光大赏 民政局",
+        "onboard_time": 1735978942,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 734401,
+        "num": 302186,
+        "word": "星光大赏主持人好吵",
+        "onboard_time": 1735971019,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 458448,
+        "num": 300938,
+        "word": "李沁红血顶奢高定待遇",
+        "onboard_time": 1735974741,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127859,
+        "num": 298743,
+        "word": "陈震称已收到领克律师函",
+        "onboard_time": 1735977320,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 457934,
+        "num": 296938,
+        "word": "傅菁后背痣好大方的美",
+        "onboard_time": 1735975341,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 447349,
+        "num": 295244,
+        "word": "张凌赫回应给金靖把出喜脉",
+        "onboard_time": 1735979182,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378605,
+        "num": 293482,
+        "word": "黄子韬送车大结局",
+        "onboard_time": 1735957578,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345107,
+        "num": 291526,
+        "word": "杨超越好帅",
+        "onboard_time": 1735972641,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319423,
+        "num": 290994,
+        "word": "24岁小伙吃外卖后睡觉突然去世",
+        "onboard_time": 1735967359,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30202,
+        "num": 288302,
+        "word": "刘宇宁确认参加微博之夜",
+        "onboard_time": 1735979961,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28127,
+        "num": 287451,
+        "word": "王星越微博之夜官宣",
+        "onboard_time": 1735979842,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 341254,
+        "num": 285871,
+        "word": "鹿晗 肯德基",
+        "onboard_time": 1735970058,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340780,
+        "num": 284421,
+        "word": "李兰迪 血气充盈的美",
+        "onboard_time": 1735979362,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321628,
+        "num": 282450,
+        "word": "迪丽热巴衣服不是起球是姐姐的时尚",
+        "onboard_time": 1735971801,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251854,
+        "num": 280392,
+        "word": "江西抚州一女生夜跑遭40岁大叔搭讪",
+        "onboard_time": 1735973180,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306887,
+        "num": 278642,
+        "word": "童瑶穿了1985年的古董高定",
+        "onboard_time": 1735974921,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95889,
+        "num": 277802,
+        "word": "登陆少年微博之夜公式照",
+        "onboard_time": 1735978641,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 276910,
+        "num": 276910,
+        "word": "上淇抢主持人话筒",
+        "onboard_time": 1735972100,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274060,
+        "num": 274060,
+        "word": "金靖产后首现身",
+        "onboard_time": 1735969941,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268477,
+        "num": 268477,
+        "word": "李昀锐帮孟子义整理裙摆",
+        "onboard_time": 1735979421,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248264,
+        "num": 248264,
+        "word": "赵丽颖海报C位",
+        "onboard_time": 1735967539,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240798,
+        "num": 240798,
+        "word": "任敏好可爱",
+        "onboard_time": 1735977861,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236398,
+        "num": 236398,
+        "word": "金靖早上收到了虞书欣的消息",
+        "onboard_time": 1735974019,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236188,
+        "num": 236188,
+        "word": "景甜 孔雀公主",
+        "onboard_time": 1735967120,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206856,
+        "num": 206856,
+        "word": "年货总买砂糖橘的敢买车厘子了",
+        "onboard_time": 1735973421,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 158219,
+        "num": 158219,
+        "word": "WTT",
+        "onboard_time": 1735977922,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143188,
+        "num": 143188,
+        "word": "男子9个月坐933次地铁获赠一辆车",
+        "onboard_time": 1735965020,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133894,
+        "num": 133894,
+        "word": "香港网红伦敦豪宅被盗损失上亿",
+        "onboard_time": 1735970778,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128146,
+        "num": 133823,
+        "word": "樊振东点赞莫德里奇",
+        "onboard_time": 1735977562,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105527,
+        "num": 133736,
+        "word": "詹姆斯这是40岁",
+        "onboard_time": 1735976481,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#新征程上每一个人都是主角#"
+    }
+  }
+}

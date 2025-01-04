@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735979203913,
+  "endTime": 1735979999768,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -211,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3594619,
+      "num": 453619,
+      "word": "虞书欣丁禹兮手挽手",
+      "onboard_time": 1735978403,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3563685,
       "num": 3563685,
       "word": "幸存韩国乘务员回忆空难",
@@ -313,14 +321,6 @@
       "onboard_time": 1735693338,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2567485,
-      "num": 409508,
-      "word": "虞书欣丁禹兮手挽手",
-      "onboard_time": 1735978403,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 2490745,
@@ -1291,6 +1291,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1224866,
+      "num": 365681,
+      "word": "王鹤棣田曦薇拦腰抱",
+      "onboard_time": 1735978221,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1222562,
       "num": 1222562,
       "word": "赵露思生病",
@@ -1651,6 +1659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1045322,
+      "num": 516725,
+      "word": "吴敬平晒与樊振东聊天记录",
+      "onboard_time": 1735974500,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1040720,
       "num": 422676,
       "word": "2025年不愧是蛇年太冷血了",
@@ -1731,14 +1747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 993215,
-      "num": 516725,
-      "word": "吴敬平晒与樊振东聊天记录",
-      "onboard_time": 1735974500,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 991350,
       "num": 297270,
       "word": "轧戏",
@@ -1809,6 +1817,14 @@
       "onboard_time": 1735690579,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 965536,
+      "num": 355095,
+      "word": "豹豹猫猫我出生了",
+      "onboard_time": 1735978522,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 962730,
@@ -1921,14 +1937,6 @@
       "onboard_time": 1735704621,
       "rank": 22,
       "category": "美妆,体育"
-    },
-    {
-      "raw_hot": 929962,
-      "num": 348605,
-      "word": "王鹤棣田曦薇拦腰抱",
-      "onboard_time": 1735978221,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 927066,
@@ -2051,6 +2059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 886200,
+      "num": 336578,
+      "word": "竹林四侠 成双成对",
+      "onboard_time": 1735978522,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 883945,
       "num": 669248,
       "word": "理发师晓华爆改外国人",
@@ -2073,6 +2089,14 @@
       "onboard_time": 1735538841,
       "rank": 15,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 872967,
+      "num": 324288,
+      "word": "管乐",
+      "onboard_time": 1735978282,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 869666,
@@ -2161,6 +2185,14 @@
       "onboard_time": 1735780459,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 834495,
+      "num": 313117,
+      "word": "星光大赏 民政局",
+      "onboard_time": 1735978942,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 833649,
@@ -2827,14 +2859,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 671479,
-      "num": 333603,
-      "word": "竹林四侠 成双成对",
-      "onboard_time": 1735978522,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 669496,
       "num": 601179,
       "word": "终于懂得昼川老师的被光所诱惑",
@@ -3249,14 +3273,6 @@
       "onboard_time": 1735745661,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 599719,
-      "num": 314340,
-      "word": "豹豹猫猫我出生了",
-      "onboard_time": 1735978522,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 599483,
@@ -3745,14 +3761,6 @@
       "onboard_time": 1735829240,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 531509,
-      "num": 313926,
-      "word": "管乐",
-      "onboard_time": 1735978282,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 529888,
@@ -4568,6 +4576,14 @@
       "word": "张小斐 人美就算了唱歌还好听",
       "onboard_time": 1735659686,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 447349,
+      "num": 295244,
+      "word": "张凌赫回应给金靖把出喜脉",
+      "onboard_time": 1735979182,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -5523,14 +5539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 374864,
-      "num": 313117,
-      "word": "星光大赏 民政局",
-      "onboard_time": 1735978942,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 374750,
       "num": 566841,
       "word": "清华法学院教授谈邯郸初中生被杀案",
@@ -6081,6 +6089,14 @@
       "onboard_time": 1735742241,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 340780,
+      "num": 284421,
+      "word": "李兰迪 血气充盈的美",
+      "onboard_time": 1735979362,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 340526,
@@ -7667,6 +7683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 268477,
+      "num": 268477,
+      "word": "李昀锐帮孟子义整理裙摆",
+      "onboard_time": 1735979421,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 268085,
       "num": 343125,
       "word": "韩国空难遇难者群像",
@@ -8955,6 +8979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 226669,
+      "num": 314656,
+      "word": "女童一天昏倒6次竟与不爱喝水有关",
+      "onboard_time": 1735978823,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 226248,
       "num": 402878,
       "word": "男子境外失联多日曾要求家人勿报警",
@@ -8969,14 +9001,6 @@
       "onboard_time": 1735734202,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 226067,
-      "num": 162510,
-      "word": "张凌赫回应给金靖把出喜脉",
-      "onboard_time": 1735979182,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 226037,
@@ -16668,7 +16692,7 @@
     },
     {
       "raw_hot": 130335,
-      "num": 151465,
+      "num": 298743,
       "word": "陈震称已收到领克律师函",
       "onboard_time": 1735977320,
       "rank": 47,
@@ -17425,6 +17449,14 @@
       "onboard_time": 1735637181,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119300,
+      "num": 354038,
+      "word": "智利车厘子大丰收致价格回落",
+      "onboard_time": 1735979421,
+      "rank": 9,
+      "category": "财经,美食"
     },
     {
       "raw_hot": 119248,
@@ -18659,6 +18691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95889,
+      "num": 314588,
+      "word": "登陆少年微博之夜公式照",
+      "onboard_time": 1735978641,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 95537,
       "num": 95537,
       "word": "银川一日发生两次4级以上地震",
@@ -18745,14 +18785,6 @@
       "onboard_time": 1735534522,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 93305,
-      "num": 314656,
-      "word": "女童一天昏倒6次竟与不爱喝水有关",
-      "onboard_time": 1735978823,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92898,
@@ -20827,14 +20859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 45534,
-      "num": 314588,
-      "word": "登陆少年微博之夜公式照",
-      "onboard_time": 1735978641,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 45500,
       "num": 504916,
       "word": "24小时看奋进中国",
@@ -20945,6 +20969,14 @@
       "onboard_time": 1735821320,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 43617,
+      "num": 332146,
+      "word": "年轻人换房过年漏洞很大",
+      "onboard_time": 1735978942,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43562,
@@ -21300,7 +21332,7 @@
     },
     {
       "raw_hot": 38744,
-      "num": 467642,
+      "num": 473685,
       "word": "2025新年加油壁纸",
       "onboard_time": 1735964117,
       "rank": 11,
@@ -22099,6 +22131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 30202,
+      "num": 288302,
+      "word": "刘宇宁确认参加微博之夜",
+      "onboard_time": 1735979961,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 30156,
       "num": 30156,
       "word": "蛇币蛇钞异常火爆不乏大学生群体的推动",
@@ -22321,6 +22361,14 @@
       "onboard_time": 1735548799,
       "rank": 22,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 28127,
+      "num": 287451,
+      "word": "王星越微博之夜官宣",
+      "onboard_time": 1735979842,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 28093,
@@ -22921,14 +22969,6 @@
       "onboard_time": 1735563921,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 22807,
-      "num": 332146,
-      "word": "年轻人换房过年漏洞很大",
-      "onboard_time": 1735978942,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22629,

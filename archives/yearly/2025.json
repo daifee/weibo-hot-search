@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735979203913,
+  "endTime": 1735979999768,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3594619,
+      "num": 453619,
+      "word": "虞书欣丁禹兮手挽手",
+      "onboard_time": 1735978403,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3315107,
       "num": 3315107,
       "word": "种地吧直播",
@@ -105,14 +113,6 @@
       "onboard_time": 1735693338,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2567485,
-      "num": 409508,
-      "word": "虞书欣丁禹兮手挽手",
-      "onboard_time": 1735978403,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 2409556,
@@ -619,6 +619,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1224866,
+      "num": 365681,
+      "word": "王鹤棣田曦薇拦腰抱",
+      "onboard_time": 1735978221,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1187916,
       "num": 737257,
       "word": "骗子开始先给你转钱了",
@@ -787,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1045322,
+      "num": 516725,
+      "word": "吴敬平晒与樊振东聊天记录",
+      "onboard_time": 1735974500,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1040720,
       "num": 422676,
       "word": "2025年不愧是蛇年太冷血了",
@@ -841,14 +857,6 @@
       "onboard_time": 1735907359,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 993215,
-      "num": 516725,
-      "word": "吴敬平晒与樊振东聊天记录",
-      "onboard_time": 1735974500,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 991350,
@@ -915,6 +923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 965536,
+      "num": 355095,
+      "word": "豹豹猫猫我出生了",
+      "onboard_time": 1735978522,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 962730,
       "num": 962730,
       "word": "醒醒 现在是千禧年",
@@ -969,14 +985,6 @@
       "onboard_time": 1735704621,
       "rank": 22,
       "category": "美妆,体育"
-    },
-    {
-      "raw_hot": 929962,
-      "num": 348605,
-      "word": "王鹤棣田曦薇拦腰抱",
-      "onboard_time": 1735978221,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 927066,
@@ -1059,6 +1067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 886200,
+      "num": 336578,
+      "word": "竹林四侠 成双成对",
+      "onboard_time": 1735978522,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 883945,
       "num": 669248,
       "word": "理发师晓华爆改外国人",
@@ -1073,6 +1089,14 @@
       "onboard_time": 1735660407,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 872967,
+      "num": 324288,
+      "word": "管乐",
+      "onboard_time": 1735978282,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 869666,
@@ -1129,6 +1153,14 @@
       "onboard_time": 1735780459,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 834495,
+      "num": 313117,
+      "word": "星光大赏 民政局",
+      "onboard_time": 1735978942,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 832820,
@@ -1515,14 +1547,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 671479,
-      "num": 333603,
-      "word": "竹林四侠 成双成对",
-      "onboard_time": 1735978522,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 664692,
       "num": 664692,
       "word": "尹锡悦逮捕令执行现场",
@@ -1779,14 +1803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 599719,
-      "num": 314340,
-      "word": "豹豹猫猫我出生了",
-      "onboard_time": 1735978522,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 599483,
       "num": 504673,
       "word": "社保局人员受贿2575万打赏主播860万",
@@ -2017,14 +2033,6 @@
       "onboard_time": 1735829240,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 531509,
-      "num": 313926,
-      "word": "管乐",
-      "onboard_time": 1735978282,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 524759,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735706600,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 463717,
-      "num": 463717,
-      "word": "什么是抑郁症躯体化",
-      "onboard_time": 1735797861,
-      "rank": 18,
-      "category": "运动健身,艺人"
     }
   ],
   "hotgov_list": [
