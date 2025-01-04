@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735979999768,
+  "endTime": 1735982484195,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 3594619,
-      "num": 453619,
+      "num": 671468,
       "word": "虞书欣丁禹兮手挽手",
       "onboard_time": 1735978403,
       "rank": 3,
@@ -299,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1790804,
+      "num": 1790804,
+      "word": "星光大赏 民政局",
+      "onboard_time": 1735978942,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1765458,
       "num": 581215,
       "word": "禹宙中欣",
@@ -337,6 +345,14 @@
       "onboard_time": 1735825641,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1679135,
+      "num": 658746,
+      "word": "宋佳钟楚曦亲了",
+      "onboard_time": 1735980442,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1666195,
@@ -595,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1249678,
+      "num": 649786,
+      "word": "张萌礼服",
+      "onboard_time": 1735981042,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1247426,
       "num": 423432,
       "word": "防漏姨妈内裤居然里面加一层塑料膜",
@@ -620,7 +644,7 @@
     },
     {
       "raw_hot": 1224866,
-      "num": 365681,
+      "num": 531868,
       "word": "王鹤棣田曦薇拦腰抱",
       "onboard_time": 1735978221,
       "rank": 11,
@@ -633,6 +657,14 @@
       "onboard_time": 1735922776,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1162455,
+      "num": 625839,
+      "word": "豹豹猫猫我出生了",
+      "onboard_time": 1735978522,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 1160038,
@@ -755,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1099813,
+      "num": 620933,
+      "word": "张凌赫回应给金靖把出喜脉",
+      "onboard_time": 1735979182,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1086217,
       "num": 1086217,
       "word": "新年红包",
@@ -796,7 +836,7 @@
     },
     {
       "raw_hot": 1045322,
-      "num": 516725,
+      "num": 675528,
       "word": "吴敬平晒与樊振东聊天记录",
       "onboard_time": 1735974500,
       "rank": 33,
@@ -867,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 988199,
+      "num": 609703,
+      "word": "管乐",
+      "onboard_time": 1735978282,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 987481,
       "num": 902877,
       "word": "疑似李行亮没下车",
@@ -921,14 +969,6 @@
       "onboard_time": 1735690579,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 965536,
-      "num": 355095,
-      "word": "豹豹猫猫我出生了",
-      "onboard_time": 1735978522,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 962730,
@@ -1091,14 +1131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 872967,
-      "num": 324288,
-      "word": "管乐",
-      "onboard_time": 1735978282,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 869666,
       "num": 1139146,
       "word": "孙颖莎vs王曼昱",
@@ -1153,14 +1185,6 @@
       "onboard_time": 1735780459,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 834495,
-      "num": 313117,
-      "word": "星光大赏 民政局",
-      "onboard_time": 1735978942,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 832820,
@@ -1387,6 +1411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 744576,
+      "num": 499176,
+      "word": "李兰迪 血气充盈的美",
+      "onboard_time": 1735979362,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 744481,
       "num": 744481,
       "word": "跨年文案",
@@ -1443,6 +1475,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 713805,
+      "num": 1295011,
+      "word": "虎鲸妈妈顶幼鲸尸体游了17天",
+      "onboard_time": 1735970480,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 712620,
       "num": 712620,
       "word": "许昕再一次维护樊振东",
@@ -1473,14 +1513,6 @@
       "onboard_time": 1735778359,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 689895,
-      "num": 1295011,
-      "word": "虎鲸妈妈顶幼鲸尸体游了17天",
-      "onboard_time": 1735970480,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 687973,
@@ -1804,7 +1836,7 @@
     },
     {
       "raw_hot": 599483,
-      "num": 504673,
+      "num": 570354,
       "word": "社保局人员受贿2575万打赏主播860万",
       "onboard_time": 1735968921,
       "rank": 40,
@@ -2283,6 +2315,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 485908,
+      "num": 485908,
+      "word": "唐嫣高定",
+      "onboard_time": 1735981343,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 485651,
       "num": 1061341,
       "word": "跨年烟花",
@@ -2361,46 +2401,6 @@
       "onboard_time": 1735946175,
       "rank": 9,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 474061,
-      "num": 278359,
-      "word": "孙颖莎 肯德基",
-      "onboard_time": 1735900819,
-      "rank": 26,
-      "category": "体育,美食"
-    },
-    {
-      "raw_hot": 472267,
-      "num": 472267,
-      "word": "德国人凌晨4点排长队抢购中国烟花",
-      "onboard_time": 1735702399,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 472214,
-      "num": 416058,
-      "word": "代露娃 蝴蝶少女具象化了",
-      "onboard_time": 1735963458,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 469784,
-      "num": 469784,
-      "word": "B站2024百大UP主",
-      "onboard_time": 1735739784,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 467394,
-      "num": 467394,
-      "word": "沈小婷到期不续约",
-      "onboard_time": 1735706600,
-      "rank": 6,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1735982484195,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1790804,
+        "num": 1790804,
+        "word": "星光大赏 民政局",
+        "onboard_time": 1735978942,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 713805,
+        "num": 713805,
+        "word": "虎鲸妈妈顶幼鲸尸体游了17天",
+        "onboard_time": 1735970480,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48736,
+        "num": 708421,
+        "word": "2025新年加油壁纸",
+        "onboard_time": 1735964117,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2775196,
+        "num": 695067,
+        "word": "孟子义李昀锐跟结婚似的",
+        "onboard_time": 1735977021,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348183,
+        "num": 693337,
+        "word": "智利车厘子大丰收致价格回落",
+        "onboard_time": 1735979421,
+        "rank": 4,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 716835,
+        "num": 675528,
+        "word": "吴敬平晒与樊振东聊天记录",
+        "onboard_time": 1735974500,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2247971,
+        "num": 671468,
+        "word": "虞书欣丁禹兮手挽手",
+        "onboard_time": 1735978403,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1679135,
+        "num": 658746,
+        "word": "宋佳钟楚曦亲了",
+        "onboard_time": 1735980442,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1249678,
+        "num": 649786,
+        "word": "张萌礼服",
+        "onboard_time": 1735981042,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331447,
+        "num": 642022,
+        "word": "韩国新生儿人数9年来首次正增长",
+        "onboard_time": 1735980442,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1162455,
+        "num": 625839,
+        "word": "豹豹猫猫我出生了",
+        "onboard_time": 1735978522,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1099813,
+        "num": 620933,
+        "word": "张凌赫回应给金靖把出喜脉",
+        "onboard_time": 1735979182,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 988199,
+        "num": 609703,
+        "word": "管乐",
+        "onboard_time": 1735978282,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272529,
+        "num": 596996,
+        "word": "清华澄清80%毕业生出国不归传言",
+        "onboard_time": 1735969459,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 44913,
+        "num": 589821,
+        "word": "生理期内裤含塑料膜不能搪塞了事",
+        "onboard_time": 1735982002,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 782550,
+        "num": 584988,
+        "word": "特朗普不满宣誓就职时美国降半旗",
+        "onboard_time": 1735972519,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 316967,
+        "num": 570354,
+        "word": "社保局人员受贿2575万打赏主播860万",
+        "onboard_time": 1735968921,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251272,
+        "num": 565043,
+        "word": "已婚已育后我决定过年谁家也不回",
+        "onboard_time": 1735980982,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25664,
+        "num": 545897,
+        "word": "刘宇宁确认参加微博之夜",
+        "onboard_time": 1735979961,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 45193,
+        "num": 542740,
+        "word": "有中国留学人员返美时无法入境",
+        "onboard_time": 1735981882,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 946360,
+        "num": 531868,
+        "word": "王鹤棣田曦薇拦腰抱",
+        "onboard_time": 1735978221,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 910258,
+        "num": 515763,
+        "word": "星光大赏红毯",
+        "onboard_time": 1735967359,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235173,
+        "num": 505904,
+        "word": "开出租车被认错意外找到双胞胎兄弟",
+        "onboard_time": 1735973720,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 744576,
+        "num": 499176,
+        "word": "李兰迪 血气充盈的美",
+        "onboard_time": 1735979362,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14140,
+        "num": 491921,
+        "word": "文班亚马21岁生日",
+        "onboard_time": 1735975100,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 485908,
+        "num": 485908,
+        "word": "唐嫣高定",
+        "onboard_time": 1735981343,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 440054,
+        "num": 440054,
+        "word": "星光大赏主持人好吵",
+        "onboard_time": 1735971019,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 431733,
+        "num": 431733,
+        "word": "星光大赏三对大热cp",
+        "onboard_time": 1735981822,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390023,
+        "num": 390023,
+        "word": "禹宙中欣",
+        "onboard_time": 1735978162,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279042,
+        "num": 373389,
+        "word": "女童一天昏倒6次竟与不爱喝水有关",
+        "onboard_time": 1735978823,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373316,
+        "num": 373316,
+        "word": "星光大赏后台",
+        "onboard_time": 1735982182,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366695,
+        "num": 366695,
+        "word": "傅宣 再见爱人2025",
+        "onboard_time": 1735982122,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340312,
+        "num": 340312,
+        "word": "金靖产后首现身",
+        "onboard_time": 1735969941,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319214,
+        "num": 319214,
+        "word": "竹林四侠 成双成对",
+        "onboard_time": 1735978522,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279395,
+        "num": 279395,
+        "word": "昀牵孟绕",
+        "onboard_time": 1735973780,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274729,
+        "num": 274729,
+        "word": "星光大赏",
+        "onboard_time": 1735919421,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212476,
+        "num": 212476,
+        "word": "J35虎鲸再次被发现背幼崽尸体",
+        "onboard_time": 1735977021,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196730,
+        "num": 196730,
+        "word": "逆水寒",
+        "onboard_time": 1735980680,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194451,
+        "num": 194451,
+        "word": "江西抚州一女生夜跑遭40岁大叔搭讪",
+        "onboard_time": 1735973180,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187885,
+        "num": 187885,
+        "word": "吴敬平鼓励樊振东活出自己",
+        "onboard_time": 1735981942,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246407,
+        "num": 187339,
+        "word": "鹿晗 肯德基",
+        "onboard_time": 1735970058,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245907,
+        "num": 175994,
+        "word": "杜海涛吴昕主持星光大赏",
+        "onboard_time": 1735982303,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 355447,
+        "num": 172449,
+        "word": "唐嫣星光大赏穿高定",
+        "onboard_time": 1735981282,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220271,
+        "num": 165622,
+        "word": "黄子韬送车大结局",
+        "onboard_time": 1735957578,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215741,
+        "num": 161534,
+        "word": "王安宇王玉雯现场扭一段",
+        "onboard_time": 1735980680,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157913,
+        "num": 157913,
+        "word": "网传日本地铁站有序实为北京西二旗",
+        "onboard_time": 1735981582,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213999,
+        "num": 150098,
+        "word": "杜海涛近期状态",
+        "onboard_time": 1735980323,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136337,
+        "num": 136337,
+        "word": "樊振东的价值正越来越被认可",
+        "onboard_time": 1735980082,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124029,
+        "num": 135875,
+        "word": "年货总买砂糖橘的敢买车厘子了",
+        "onboard_time": 1735973421,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 122281,
+        "num": 135538,
+        "word": "男子9个月坐933次地铁获赠一辆车",
+        "onboard_time": 1735965020,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平新年贺词里镌刻的中国#"
+    }
+  }
+}
