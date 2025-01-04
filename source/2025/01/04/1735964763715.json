@@ -1,0 +1,410 @@
+{
+  "runTime": 1735964763715,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1051899,
+        "num": 1168303,
+        "word": "保时捷销冠24年再卖出170台",
+        "onboard_time": 1735958537,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1233286,
+        "num": 1132715,
+        "word": "客服回应生理期内裤被指有塑料膜",
+        "onboard_time": 1735957877,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 23902,
+        "num": 1095156,
+        "word": "文化中国行盘点2024文化印迹",
+        "onboard_time": 1735958477,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1453635,
+        "num": 1093668,
+        "word": "黄子韬送车大结局",
+        "onboard_time": 1735957578,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1060817,
+        "num": 1060817,
+        "word": "环保女性开始抛弃卫生巾",
+        "onboard_time": 1735960937,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 918840,
+        "num": 918840,
+        "word": "星光大赏节目单",
+        "onboard_time": 1735958117,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 865531,
+        "num": 865531,
+        "word": "年轻人开始流行将黄金贴在手机上",
+        "onboard_time": 1735962199,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 478410,
+        "num": 478410,
+        "word": "男子为给妻儿做饭9个月乘地铁933次",
+        "onboard_time": 1735959499,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20879,
+        "num": 475985,
+        "word": "啥叫CR450",
+        "onboard_time": 1735964539,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 126719,
+        "num": 471978,
+        "word": "央行称择机降准降息",
+        "onboard_time": 1735963878,
+        "rank": 9,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 889962,
+        "num": 468571,
+        "word": "火箭少女成团解散都没今天人齐",
+        "onboard_time": 1735957397,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38744,
+        "num": 467642,
+        "word": "2025新年加油壁纸",
+        "onboard_time": 1735964117,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 464632,
+        "num": 464632,
+        "word": "八省联考历史",
+        "onboard_time": 1735959258,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 441456,
+        "num": 441456,
+        "word": "JJ智利车厘子1斤约30元",
+        "onboard_time": 1735960518,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64441,
+        "num": 433381,
+        "word": "广西柳州被曝换表后燃气费跑太快",
+        "onboard_time": 1735964117,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 429424,
+        "num": 429424,
+        "word": "骗子开始先给你转钱了",
+        "onboard_time": 1735922776,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414452,
+        "num": 414452,
+        "word": "医生称森碟下巴后缩或影响口腔功能",
+        "onboard_time": 1735916900,
+        "rank": 16,
+        "category": "艺人,健康医疗"
+      },
+      {
+        "raw_hot": 366609,
+        "num": 366609,
+        "word": "网传星光大赏红毯出场顺序",
+        "onboard_time": 1735956858,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58384,
+        "num": 349464,
+        "word": "Doinb抵达深圳",
+        "onboard_time": 1735959918,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 67027,
+        "num": 344930,
+        "word": "官方回应酒馆挂牌喝酒人才培训基地",
+        "onboard_time": 1735963098,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342930,
+        "num": 342930,
+        "word": "孟子义淡紫色长裙",
+        "onboard_time": 1735963638,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320620,
+        "num": 320620,
+        "word": "17岁网红抗癌6年后离世",
+        "onboard_time": 1735951997,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319196,
+        "num": 319196,
+        "word": "代露娃 蝴蝶少女具象化了",
+        "onboard_time": 1735963458,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 307939,
+        "num": 307939,
+        "word": "迪丽热巴三连更",
+        "onboard_time": 1735962799,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91529,
+        "num": 305514,
+        "word": "或许这才是真正的樊振东",
+        "onboard_time": 1735960638,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281471,
+        "num": 304161,
+        "word": "最强大脑12嘉宾阵容官宣",
+        "onboard_time": 1735961417,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241206,
+        "num": 297768,
+        "word": "星光大赏",
+        "onboard_time": 1735919421,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205528,
+        "num": 294083,
+        "word": "微博之夜",
+        "onboard_time": 1735951757,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 293997,
+        "num": 293997,
+        "word": "2025年第一部轻喜剧来了",
+        "onboard_time": 1735961898,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138537,
+        "num": 292252,
+        "word": "电影小小的我感谢易烊千玺提供MV照片素材",
+        "onboard_time": 1735963458,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 292221,
+        "num": 292221,
+        "word": "印度男子用舌头截停57次电风扇叶片",
+        "onboard_time": 1735953197,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 285298,
+        "num": 285298,
+        "word": "疑似韩国遇难机长最后画面",
+        "onboard_time": 1735918099,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 236599,
+        "num": 236599,
+        "word": "年轻人开始流行换房过年",
+        "onboard_time": 1735953197,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233742,
+        "num": 233742,
+        "word": "苹果蛇年手机壳售价398元",
+        "onboard_time": 1735963578,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 213199,
+        "num": 213199,
+        "word": "年度反腐大片",
+        "onboard_time": 1735961540,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200290,
+        "num": 200290,
+        "word": "塞尔维亚部署中国造防空系统",
+        "onboard_time": 1735962199,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 196154,
+        "num": 196154,
+        "word": "反腐为了人民",
+        "onboard_time": 1735963038,
+        "rank": 36,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 182885,
+        "num": 182885,
+        "word": "上海春考",
+        "onboard_time": 1735963339,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 176157,
+        "num": 176157,
+        "word": "樊振东职业生涯主要成绩",
+        "onboard_time": 1735961839,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160026,
+        "num": 160026,
+        "word": "苹果推出AirPods4蛇年特别款",
+        "onboard_time": 1735960456,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 152952,
+        "num": 152952,
+        "word": "八省联考物理",
+        "onboard_time": 1735959318,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 148468,
+        "num": 148468,
+        "word": "Poppy说BLG已经是世界冠军了",
+        "onboard_time": 1735959617,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141763,
+        "num": 141763,
+        "word": "王楚钦孙颖莎参加冬训备战",
+        "onboard_time": 1735963759,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139823,
+        "num": 139823,
+        "word": "白鹿是不虐的不演吗",
+        "onboard_time": 1735948576,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139459,
+        "num": 139459,
+        "word": "00后女孩反复摔下车后学会了骑车飞",
+        "onboard_time": 1735962199,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136107,
+        "num": 136107,
+        "word": "张真源2025发2024末拍的照片",
+        "onboard_time": 1735962799,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131228,
+        "num": 131228,
+        "word": "俄方称德日入常永远没戏",
+        "onboard_time": 1735964479,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124531,
+        "num": 124531,
+        "word": "冬天的漠河成了电车的巴音布鲁克",
+        "onboard_time": 1735964659,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 139823,
+        "num": 124391,
+        "word": "白鹿一袭红衣梦回时宜",
+        "onboard_time": 1735964418,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122960,
+        "num": 122960,
+        "word": "顾客趁金店促销提前买三金",
+        "onboard_time": 1735961718,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平新年贺词里的三个数字#"
+    }
+  }
+}

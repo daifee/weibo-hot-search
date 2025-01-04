@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735961991171,
+  "endTime": 1735964763715,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 1894905,
-      "num": 1042581,
+      "num": 1093668,
       "word": "黄子韬送车大结局",
       "onboard_time": 1735957578,
       "rank": 3,
@@ -659,6 +659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1060817,
+      "num": 1060817,
+      "word": "环保女性开始抛弃卫生巾",
+      "onboard_time": 1735960937,
+      "rank": 25,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1045391,
       "num": 636415,
       "word": "黄多多近照",
@@ -945,6 +953,14 @@
       "onboard_time": 1735713558,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 865531,
+      "num": 865531,
+      "word": "年轻人开始流行将黄金贴在手机上",
+      "onboard_time": 1735962199,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 858739,
@@ -2235,14 +2251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 443169,
-      "num": 443169,
-      "word": "环保女性开始抛弃卫生巾",
-      "onboard_time": 1735960937,
-      "rank": 25,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 442986,
       "num": 453571,
       "word": "再见爱人",
@@ -2257,6 +2265,14 @@
       "onboard_time": 1735869979,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 441456,
+      "num": 441456,
+      "word": "JJ智利车厘子1斤约30元",
+      "onboard_time": 1735960518,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 440233,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1735712419,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 420165,
-      "num": 420165,
-      "word": "微博之夜第二波阵容",
-      "onboard_time": 1735878682,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 419208,
-      "num": 416361,
-      "word": "宋雨琦首个内娱红毯",
-      "onboard_time": 1735893440,
-      "rank": 17,
-      "category": "作品衍生,时尚"
     }
   ],
   "hotgov_list": [
