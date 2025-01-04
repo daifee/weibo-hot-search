@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735959608136,
+  "endTime": 1735961151015,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1864345,
+      "num": 1042581,
+      "word": "黄子韬送车大结局",
+      "onboard_time": 1735957578,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1862422,
       "num": 1862422,
       "word": "小米SU7侧翻起火十余路人抬车救人",
@@ -313,14 +321,6 @@
       "onboard_time": 1735725682,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1571919,
-      "num": 737944,
-      "word": "黄子韬送车大结局",
-      "onboard_time": 1735957578,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1568621,
@@ -507,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1251077,
+      "num": 1251077,
+      "word": "保时捷销冠24年再卖出170台",
+      "onboard_time": 1735958537,
+      "rank": 11,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1247426,
       "num": 423432,
       "word": "防漏姨妈内裤居然里面加一层塑料膜",
@@ -529,6 +537,14 @@
       "onboard_time": 1735808780,
       "rank": 12,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1232459,
+      "num": 1232459,
+      "word": "客服回应生理期内裤被指有塑料膜",
+      "onboard_time": 1735957877,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1187916,
@@ -624,6 +640,14 @@
       "word": "2024年顶流格局",
       "onboard_time": 1735907359,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1101527,
+      "num": 497930,
+      "word": "火箭少女成团解散都没今天人齐",
+      "onboard_time": 1735957397,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -739,14 +763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 976904,
-      "num": 313801,
-      "word": "火箭少女成团解散都没今天人齐",
-      "onboard_time": 1735957397,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 975177,
       "num": 1156028,
       "word": "德国电价跌至0以下",
@@ -755,20 +771,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 974842,
+      "num": 974842,
+      "word": "星光大赏节目单",
+      "onboard_time": 1735958117,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 966952,
       "num": 966952,
       "word": "湖南卫视收视率",
       "onboard_time": 1735690579,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 965114,
-      "num": 313242,
-      "word": "保时捷销冠24年再卖出170台",
-      "onboard_time": 1735958537,
-      "rank": 11,
-      "category": "汽车"
     },
     {
       "raw_hot": 962730,
@@ -1048,14 +1064,6 @@
       "word": "中文版APT 难听",
       "onboard_time": 1735648826,
       "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 800882,
-      "num": 800882,
-      "word": "星光大赏节目单",
-      "onboard_time": 1735958117,
-      "rank": 7,
       "category": "综艺"
     },
     {
@@ -2011,6 +2019,14 @@
       "category": "体育,汽车"
     },
     {
+      "raw_hot": 490208,
+      "num": 490208,
+      "word": "八省联考历史",
+      "onboard_time": 1735959258,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 485651,
       "num": 1061341,
       "word": "跨年烟花",
@@ -2020,7 +2036,7 @@
     },
     {
       "raw_hot": 485117,
-      "num": 212820,
+      "num": 220426,
       "word": "印度男子用舌头截停57次电风扇叶片",
       "onboard_time": 1735953197,
       "rank": 20,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1735659505,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 416416,
-      "num": 508812,
-      "word": "江苏一中学招13名教师8名为博士",
-      "onboard_time": 1735697240,
-      "rank": 46,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 414546,
-      "num": 414546,
-      "word": "茅台",
-      "onboard_time": 1735810099,
-      "rank": 37,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735959608136,
+  "endTime": 1735961151015,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -547,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1864345,
+      "num": 1042581,
+      "word": "黄子韬送车大结局",
+      "onboard_time": 1735957578,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1862422,
       "num": 1862422,
       "word": "小米SU7侧翻起火十余路人抬车救人",
@@ -841,14 +849,6 @@
       "onboard_time": 1735725682,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1571919,
-      "num": 737944,
-      "word": "黄子韬送车大结局",
-      "onboard_time": 1735957578,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1568621,
@@ -1179,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1251077,
+      "num": 1251077,
+      "word": "保时捷销冠24年再卖出170台",
+      "onboard_time": 1735958537,
+      "rank": 11,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1247426,
       "num": 423432,
       "word": "防漏姨妈内裤居然里面加一层塑料膜",
@@ -1193,6 +1201,14 @@
       "onboard_time": 1735808780,
       "rank": 12,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1232459,
+      "num": 1232459,
+      "word": "客服回应生理期内裤被指有塑料膜",
+      "onboard_time": 1735957877,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1225080,
@@ -1400,6 +1416,14 @@
       "word": "2024年顶流格局",
       "onboard_time": 1735907359,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1101527,
+      "num": 497930,
+      "word": "火箭少女成团解散都没今天人齐",
+      "onboard_time": 1735957397,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -1627,20 +1651,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 976904,
-      "num": 313801,
-      "word": "火箭少女成团解散都没今天人齐",
-      "onboard_time": 1735957397,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 975177,
       "num": 1156028,
       "word": "德国电价跌至0以下",
       "onboard_time": 1735884260,
       "rank": 15,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 974842,
+      "num": 974842,
+      "word": "星光大赏节目单",
+      "onboard_time": 1735958117,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 971887,
@@ -1657,14 +1681,6 @@
       "onboard_time": 1735690579,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 965114,
-      "num": 313242,
-      "word": "保时捷销冠24年再卖出170台",
-      "onboard_time": 1735958537,
-      "rank": 11,
-      "category": "汽车"
     },
     {
       "raw_hot": 962730,
@@ -2129,14 +2145,6 @@
       "onboard_time": 1735735281,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 800882,
-      "num": 800882,
-      "word": "星光大赏节目单",
-      "onboard_time": 1735958117,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 800840,
@@ -3899,6 +3907,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 490208,
+      "num": 490208,
+      "word": "八省联考历史",
+      "onboard_time": 1735959258,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 489731,
       "num": 489731,
       "word": "朴成焄ins秒删",
@@ -3940,7 +3956,7 @@
     },
     {
       "raw_hot": 485117,
-      "num": 212820,
+      "num": 220426,
       "word": "印度男子用舌头截停57次电风扇叶片",
       "onboard_time": 1735953197,
       "rank": 20,
@@ -4736,6 +4752,14 @@
       "word": "缅北明家都干了哪些恶事",
       "onboard_time": 1735540159,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 415204,
+      "num": 499329,
+      "word": "男子为给妻儿做饭9个月乘地铁933次",
+      "onboard_time": 1735959499,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -6723,6 +6747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 291641,
+      "num": 291641,
+      "word": "八省联考物理",
+      "onboard_time": 1735959318,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 291056,
       "num": 291056,
       "word": "路特斯正式更名为莲花跑车",
@@ -7105,14 +7137,6 @@
       "onboard_time": 1735529000,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 272217,
-      "num": 272217,
-      "word": "客服回应生理期内裤被指有塑料膜",
-      "onboard_time": 1735957877,
-      "rank": 29,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 272150,
@@ -7953,6 +7977,14 @@
       "onboard_time": 1735446680,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242318,
+      "num": 242318,
+      "word": "苹果推出AirPods4蛇年特别款",
+      "onboard_time": 1735960456,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 242252,
@@ -10243,14 +10275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 195625,
-      "num": 195625,
-      "word": "八省联考历史",
-      "onboard_time": 1735959258,
-      "rank": 19,
-      "category": "教育"
-    },
-    {
       "raw_hot": 195381,
       "num": 195381,
       "word": "林高远男双MVP",
@@ -11763,6 +11787,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 177563,
+      "num": 177563,
+      "word": "环保女性开始抛弃卫生巾",
+      "onboard_time": 1735960937,
+      "rank": 25,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 177499,
       "num": 177499,
       "word": "和2024好好道个别",
@@ -11945,6 +11977,14 @@
       "onboard_time": 1735477280,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 174332,
+      "num": 174332,
+      "word": "JJ智利车厘子1斤约30元",
+      "onboard_time": 1735960518,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174292,
@@ -12185,14 +12225,6 @@
       "onboard_time": 1735543880,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 171753,
-      "num": 171753,
-      "word": "八省联考物理",
-      "onboard_time": 1735959318,
-      "rank": 25,
-      "category": "教育"
     },
     {
       "raw_hot": 171670,
@@ -13851,6 +13883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152003,
+      "num": 152003,
+      "word": "Poppy说BLG已经是世界冠军了",
+      "onboard_time": 1735959617,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 151841,
       "num": 249124,
       "word": "上海地铁回应有人在闲鱼上卖座位",
@@ -14216,6 +14256,14 @@
       "word": "阿鲁纳转发数十条WTT声明下评论",
       "onboard_time": 1735436179,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 147751,
+      "num": 147751,
+      "word": "一觉醒来中国队又夺冠了",
+      "onboard_time": 1735960937,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -16388,7 +16436,7 @@
     },
     {
       "raw_hot": 120300,
-      "num": 968975,
+      "num": 1055422,
       "word": "原来2025是完美平方年",
       "onboard_time": 1735912399,
       "rank": 2,
@@ -16480,6 +16528,14 @@
       "word": "2025春运购票日历",
       "onboard_time": 1735533982,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118675,
+      "num": 315163,
+      "word": "良心对赌换房过年靠谱吗",
+      "onboard_time": 1735958897,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -16585,6 +16641,14 @@
       "onboard_time": 1735392441,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117204,
+      "num": 117204,
+      "word": "或许这才是真正的樊振东",
+      "onboard_time": 1735960638,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 117116,
@@ -17193,14 +17257,6 @@
       "onboard_time": 1735601536,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105043,
-      "num": 105043,
-      "word": "男子为给妻儿做饭9个月乘地铁933次",
-      "onboard_time": 1735959499,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104899,
@@ -17947,6 +18003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87314,
+      "num": 181639,
+      "word": "孙颖莎说巴黎奥运会有遗憾但很开心",
+      "onboard_time": 1735961058,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87260,
       "num": 87260,
       "word": "王楚钦林诗栋水平非常接近",
@@ -18219,6 +18283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 80061,
+      "num": 229574,
+      "word": "Doinb抵达深圳",
+      "onboard_time": 1735959918,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 80059,
       "num": 390830,
       "word": "南部战区位黄岩岛周边战备警巡",
@@ -18377,14 +18449,6 @@
       "onboard_time": 1735564640,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 74570,
-      "num": 315163,
-      "word": "良心对赌换房过年靠谱吗",
-      "onboard_time": 1735958897,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 74553,
@@ -20217,6 +20281,14 @@
       "onboard_time": 1735489219,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38474,
+      "num": 225042,
+      "word": "地震时幼儿园30秒内转移全部孩子",
+      "onboard_time": 1735960398,
+      "rank": 19,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 38267,
