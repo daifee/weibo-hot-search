@@ -1,9 +1,9 @@
 {
   "startTime": 1735921654212,
-  "endTime": 1735961151015,
+  "endTime": 1735961991171,
   "band_list": [
     {
-      "raw_hot": 1864345,
+      "raw_hot": 1894905,
       "num": 1042581,
       "word": "黄子韬送车大结局",
       "onboard_time": 1735957578,
@@ -19,20 +19,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1251077,
-      "num": 1251077,
-      "word": "保时捷销冠24年再卖出170台",
-      "onboard_time": 1735958537,
-      "rank": 11,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 1232459,
-      "num": 1232459,
+      "raw_hot": 1395529,
+      "num": 1254529,
       "word": "客服回应生理期内裤被指有塑料膜",
       "onboard_time": 1735957877,
       "rank": 29,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1266563,
+      "num": 1266563,
+      "word": "保时捷销冠24年再卖出170台",
+      "onboard_time": 1735958537,
+      "rank": 11,
+      "category": "汽车"
     },
     {
       "raw_hot": 1187916,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1101527,
-      "num": 497930,
+      "num": 520088,
       "word": "火箭少女成团解散都没今天人齐",
       "onboard_time": 1735957397,
       "rank": 10,
@@ -67,8 +67,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 974842,
-      "num": 974842,
+      "raw_hot": 975769,
+      "num": 975769,
       "word": "星光大赏节目单",
       "onboard_time": 1735958117,
       "rank": 7,
@@ -139,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 518959,
+      "num": 518959,
+      "word": "男子为给妻儿做饭9个月乘地铁933次",
+      "onboard_time": 1735959499,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 517757,
       "num": 264559,
       "word": "王鹤棣将落单王润泽拉入跨年拥抱",
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 485117,
-      "num": 220426,
+      "num": 319665,
       "word": "印度男子用舌头截停57次电风扇叶片",
       "onboard_time": 1735953197,
       "rank": 20,
@@ -195,20 +203,20 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 443169,
+      "num": 443169,
+      "word": "环保女性开始抛弃卫生巾",
+      "onboard_time": 1735960937,
+      "rank": 25,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 426281,
       "num": 386415,
       "word": "火箭少女101同框合照",
       "onboard_time": 1735947855,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 415204,
-      "num": 499329,
-      "word": "男子为给妻儿做饭9个月乘地铁933次",
-      "onboard_time": 1735959499,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 412971,
@@ -315,8 +323,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 242318,
-      "num": 242318,
+      "raw_hot": 242606,
+      "num": 242606,
       "word": "苹果推出AirPods4蛇年特别款",
       "onboard_time": 1735960456,
       "rank": 15,
@@ -337,6 +345,14 @@
       "onboard_time": 1735953257,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213199,
+      "num": 333702,
+      "word": "最强大脑12嘉宾阵容官宣",
+      "onboard_time": 1735961417,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 212720,
@@ -475,14 +491,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 177563,
-      "num": 177563,
-      "word": "环保女性开始抛弃卫生巾",
-      "onboard_time": 1735960937,
-      "rank": 25,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 174332,
       "num": 174332,
       "word": "JJ智利车厘子1斤约30元",
@@ -497,6 +505,14 @@
       "onboard_time": 1735914141,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 169027,
+      "num": 322645,
+      "word": "地震时幼儿园30秒内转移全部孩子",
+      "onboard_time": 1735960398,
+      "rank": 19,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 167716,
@@ -521,6 +537,14 @@
       "onboard_time": 1735956917,
       "rank": 31,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 159618,
+      "num": 201896,
+      "word": "Poppy说BLG已经是世界冠军了",
+      "onboard_time": 1735959617,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 158899,
@@ -555,14 +579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 152003,
-      "num": 152003,
-      "word": "Poppy说BLG已经是世界冠军了",
-      "onboard_time": 1735959617,
-      "rank": 28,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 147751,
       "num": 147751,
       "word": "一觉醒来中国队又夺冠了",
@@ -587,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141643,
+      "num": 141643,
+      "word": "张康乐 船终于停泊在熟悉的港湾",
+      "onboard_time": 1735961540,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139938,
       "num": 139938,
       "word": "张艺兴直播中提到和EXO成员合体",
@@ -601,6 +625,14 @@
       "onboard_time": 1735916241,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131290,
+      "num": 131290,
+      "word": "或许这才是真正的樊振东",
+      "onboard_time": 1735960638,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 127426,
@@ -667,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120032,
+      "num": 120032,
+      "word": "樊振东职业生涯主要成绩",
+      "onboard_time": 1735961839,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119876,
       "num": 119876,
       "word": "白鹿剧组的假期都留给了跑男",
@@ -697,14 +737,6 @@
       "onboard_time": 1735915521,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 117204,
-      "num": 117204,
-      "word": "或许这才是真正的樊振东",
-      "onboard_time": 1735960638,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 115825,
@@ -747,6 +779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 104783,
+      "num": 104783,
+      "word": "2025年第一部轻喜剧来了",
+      "onboard_time": 1735961898,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104015,
       "num": 104015,
       "word": "八省联考",
@@ -777,6 +817,14 @@
       "onboard_time": 1735919119,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 101555,
+      "num": 101555,
+      "word": "余华说这个世界上的人总是要上班的",
+      "onboard_time": 1735961598,
+      "rank": 44,
+      "category": "读书作家"
     },
     {
       "raw_hot": 100683,
@@ -859,6 +907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94623,
+      "num": 94623,
+      "word": "宋威龙小王子照进现实",
+      "onboard_time": 1735961778,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94314,
       "num": 94314,
       "word": "陈丽君越剧春晚路透",
@@ -907,20 +963,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83155,
+      "num": 326210,
+      "word": "Doinb抵达深圳",
+      "onboard_time": 1735959918,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 83148,
       "num": 83148,
       "word": "男子盗窃水箱铜制浮力球牟利10万余元",
       "onboard_time": 1735955296,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 80061,
-      "num": 229574,
-      "word": "Doinb抵达深圳",
-      "onboard_time": 1735959918,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 72567,
@@ -1003,20 +1059,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 38474,
-      "num": 225042,
-      "word": "地震时幼儿园30秒内转移全部孩子",
-      "onboard_time": 1735960398,
-      "rank": 19,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 37208,
       "num": 42089,
       "word": "上海男乒主教练谈引入樊振东",
       "onboard_time": 1735927694,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35160,
+      "num": 520150,
+      "word": "顾客趁金店促销提前买三金",
+      "onboard_time": 1735961718,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 34023,

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735961151015,
+  "endTime": 1735961991171,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -211,7 +211,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1864345,
+      "raw_hot": 1894905,
       "num": 1042581,
       "word": "黄子韬送车大结局",
       "onboard_time": 1735957578,
@@ -419,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1395529,
+      "num": 1254529,
+      "word": "客服回应生理期内裤被指有塑料膜",
+      "onboard_time": 1735957877,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1391559,
       "num": 606565,
       "word": "弹性退休办法来了",
@@ -491,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1266563,
+      "num": 1266563,
+      "word": "保时捷销冠24年再卖出170台",
+      "onboard_time": 1735958537,
+      "rank": 11,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1261142,
       "num": 1261142,
       "word": "00后为了局部退休疯狂存钱",
@@ -505,14 +521,6 @@
       "onboard_time": 1735913300,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1251077,
-      "num": 1251077,
-      "word": "保时捷销冠24年再卖出170台",
-      "onboard_time": 1735958537,
-      "rank": 11,
-      "category": "汽车"
     },
     {
       "raw_hot": 1247426,
@@ -537,14 +545,6 @@
       "onboard_time": 1735808780,
       "rank": 12,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1232459,
-      "num": 1232459,
-      "word": "客服回应生理期内裤被指有塑料膜",
-      "onboard_time": 1735957877,
-      "rank": 29,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 1187916,
@@ -644,7 +644,7 @@
     },
     {
       "raw_hot": 1101527,
-      "num": 497930,
+      "num": 520088,
       "word": "火箭少女成团解散都没今天人齐",
       "onboard_time": 1735957397,
       "rank": 10,
@@ -763,20 +763,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 975769,
+      "num": 975769,
+      "word": "星光大赏节目单",
+      "onboard_time": 1735958117,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 975177,
       "num": 1156028,
       "word": "德国电价跌至0以下",
       "onboard_time": 1735884260,
       "rank": 15,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 974842,
-      "num": 974842,
-      "word": "星光大赏节目单",
-      "onboard_time": 1735958117,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 966952,
@@ -1819,6 +1819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 518959,
+      "num": 518959,
+      "word": "男子为给妻儿做饭9个月乘地铁933次",
+      "onboard_time": 1735959499,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 517757,
       "num": 264559,
       "word": "王鹤棣将落单王润泽拉入跨年拥抱",
@@ -2036,7 +2044,7 @@
     },
     {
       "raw_hot": 485117,
-      "num": 220426,
+      "num": 319665,
       "word": "印度男子用舌头截停57次电风扇叶片",
       "onboard_time": 1735953197,
       "rank": 20,
@@ -2227,6 +2235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 443169,
+      "num": 443169,
+      "word": "环保女性开始抛弃卫生巾",
+      "onboard_time": 1735960937,
+      "rank": 25,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 442986,
       "num": 453571,
       "word": "再见爱人",
@@ -2409,14 +2425,6 @@
       "onboard_time": 1735697240,
       "rank": 46,
       "category": "教育"
-    },
-    {
-      "raw_hot": 415204,
-      "num": 499329,
-      "word": "男子为给妻儿做饭9个月乘地铁933次",
-      "onboard_time": 1735959499,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 414546,
@@ -3979,8 +3987,8 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 242318,
-      "num": 242318,
+      "raw_hot": 242606,
+      "num": 242606,
       "word": "苹果推出AirPods4蛇年特别款",
       "onboard_time": 1735960456,
       "rank": 15,
@@ -4496,6 +4504,14 @@
       "word": "papi酱 可能杨子这就是专业吧",
       "onboard_time": 1735859655,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 213199,
+      "num": 333702,
+      "word": "最强大脑12嘉宾阵容官宣",
+      "onboard_time": 1735961417,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -5851,14 +5867,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 177563,
-      "num": 177563,
-      "word": "环保女性开始抛弃卫生巾",
-      "onboard_time": 1735960937,
-      "rank": 25,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 177491,
       "num": 177491,
       "word": "山东魏桥队夺冠",
@@ -6257,6 +6265,14 @@
       "onboard_time": 1735668977,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169027,
+      "num": 322645,
+      "word": "地震时幼儿园30秒内转移全部孩子",
+      "onboard_time": 1735960398,
+      "rank": 19,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 168972,
@@ -6699,6 +6715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159618,
+      "num": 201896,
+      "word": "Poppy说BLG已经是世界冠军了",
+      "onboard_time": 1735959617,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 159572,
       "num": 159572,
       "word": "有币商银行门口2倍价格收蛇钞",
@@ -6993,14 +7017,6 @@
       "onboard_time": 1735899619,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 152003,
-      "num": 152003,
-      "word": "Poppy说BLG已经是世界冠军了",
-      "onboard_time": 1735959617,
-      "rank": 28,
-      "category": "电竞"
     },
     {
       "raw_hot": 151841,
@@ -7505,6 +7521,14 @@
       "onboard_time": 1735888279,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 141643,
+      "num": 141643,
+      "word": "张康乐 船终于停泊在熟悉的港湾",
+      "onboard_time": 1735961540,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 141589,
@@ -8051,6 +8075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131290,
+      "num": 131290,
+      "word": "或许这才是真正的樊振东",
+      "onboard_time": 1735960638,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131229,
       "num": 390652,
       "word": "新年第1个拥抱",
@@ -8547,6 +8579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120032,
+      "num": 120032,
+      "word": "樊振东职业生涯主要成绩",
+      "onboard_time": 1735961839,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119942,
       "num": 119942,
       "word": "周深又双叒叕在大湾区唱歌了",
@@ -8657,14 +8697,6 @@
       "onboard_time": 1735694839,
       "rank": 25,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 117204,
-      "num": 117204,
-      "word": "或许这才是真正的樊振东",
-      "onboard_time": 1735960638,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 117116,
@@ -9067,6 +9099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104783,
+      "num": 104783,
+      "word": "2025年第一部轻喜剧来了",
+      "onboard_time": 1735961898,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104438,
       "num": 104438,
       "word": "抱一抱过去的自己",
@@ -9145,6 +9185,14 @@
       "onboard_time": 1735919119,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 101555,
+      "num": 101555,
+      "word": "余华说这个世界上的人总是要上班的",
+      "onboard_time": 1735961598,
+      "rank": 44,
+      "category": "读书作家"
     },
     {
       "raw_hot": 100272,
@@ -9313,6 +9361,14 @@
       "onboard_time": 1735805422,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94623,
+      "num": 94623,
+      "word": "宋威龙小王子照进现实",
+      "onboard_time": 1735961778,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 94364,
@@ -9547,6 +9603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83155,
+      "num": 326210,
+      "word": "Doinb抵达深圳",
+      "onboard_time": 1735959918,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 83148,
       "num": 83148,
       "word": "男子盗窃水箱铜制浮力球牟利10万余元",
@@ -9601,14 +9665,6 @@
       "onboard_time": 1735885879,
       "rank": 9,
       "category": "军事"
-    },
-    {
-      "raw_hot": 80061,
-      "num": 229574,
-      "word": "Doinb抵达深圳",
-      "onboard_time": 1735959918,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 79984,
@@ -10563,14 +10619,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 38474,
-      "num": 225042,
-      "word": "地震时幼儿园30秒内转移全部孩子",
-      "onboard_time": 1735960398,
-      "rank": 19,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 38033,
       "num": 361273,
       "word": "易烊千玺演出了刘春和的生命力",
@@ -10697,6 +10745,14 @@
       "onboard_time": 1735774096,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35160,
+      "num": 520150,
+      "word": "顾客趁金店促销提前买三金",
+      "onboard_time": 1735961718,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 34892,
