@@ -1,0 +1,410 @@
+{
+  "runTime": 1736004931233,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 20623752,
+        "num": 20623752,
+        "word": "李明德评论",
+        "onboard_time": 1735990643,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 322405,
+        "num": 5264710,
+        "word": "韩国人在上海消费能力好强",
+        "onboard_time": 1735984043,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68535,
+        "num": 4999099,
+        "word": "今年春运购票2个关键时间点",
+        "onboard_time": 1735997189,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274700,
+        "num": 4736044,
+        "word": "江苏一地最新公布新生儿爆款名字",
+        "onboard_time": 1735995810,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182769,
+        "num": 4387953,
+        "word": "排队1小时兑蛇钞蛇币到手就转卖",
+        "onboard_time": 1735987042,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 13470474,
+        "num": 4345779,
+        "word": "马天宇 李明德",
+        "onboard_time": 1735991665,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 8711179,
+        "num": 4061213,
+        "word": "丁禹兮接虞书欣下台",
+        "onboard_time": 1736001995,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9123207,
+        "num": 3674223,
+        "word": "三人行剧组回应",
+        "onboard_time": 1736000553,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178192,
+        "num": 3484630,
+        "word": "樊振东与姆巴佩击掌",
+        "onboard_time": 1735999169,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92510,
+        "num": 3114410,
+        "word": "你有舍不得删掉的短信吗",
+        "onboard_time": 1736002175,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2931671,
+        "num": 2931671,
+        "word": "孟子义李昀锐 他说她可爱",
+        "onboard_time": 1736003856,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1107696,
+        "num": 1107696,
+        "word": "星光大赏这谁啊",
+        "onboard_time": 1735999949,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1007253,
+        "num": 1007253,
+        "word": "马天宇微博在线",
+        "onboard_time": 1735996289,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 912728,
+        "num": 912728,
+        "word": "禹宙中欣",
+        "onboard_time": 1736003495,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53254,
+        "num": 906829,
+        "word": "如何看待换燃气表后跑得飞快",
+        "onboard_time": 1736003615,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 169492,
+        "num": 889417,
+        "word": "有棵树公关部介入内裤塑料膜事件",
+        "onboard_time": 1735994730,
+        "rank": 15,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 151673,
+        "num": 877456,
+        "word": "女孩凌晨店内熟睡突遭陌生男子闯入",
+        "onboard_time": 1736003495,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139219,
+        "num": 860975,
+        "word": "已婚已育后我决定过年谁家也不回",
+        "onboard_time": 1735980982,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31568,
+        "num": 860051,
+        "word": "家里出现裂缝村民质疑挖掘机",
+        "onboard_time": 1736003133,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32887,
+        "num": 844536,
+        "word": "律师谈胖东来公布员工结婚标准",
+        "onboard_time": 1736004576,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 834219,
+        "num": 834219,
+        "word": "孟子义李昀锐跟结婚似的",
+        "onboard_time": 1735977021,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 626378,
+        "num": 626378,
+        "word": "祝绪丹哭了",
+        "onboard_time": 1736004515,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 610415,
+        "num": 610415,
+        "word": "星光大赏获奖名单",
+        "onboard_time": 1735997429,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138524,
+        "num": 595735,
+        "word": "大使馆提醒在韩中国公民远离政治活动",
+        "onboard_time": 1735996528,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133259,
+        "num": 591329,
+        "word": "原来在韩国点外卖这么麻烦",
+        "onboard_time": 1735998268,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 590679,
+        "num": 590679,
+        "word": "李昀锐领奖",
+        "onboard_time": 1736003735,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 564991,
+        "num": 564991,
+        "word": "张康乐晒与马柏全合照",
+        "onboard_time": 1735997668,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497452,
+        "num": 497452,
+        "word": "王锵上线了",
+        "onboard_time": 1735995328,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468516,
+        "num": 468516,
+        "word": "火箭少女101合体舞台",
+        "onboard_time": 1736001934,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 447031,
+        "num": 447031,
+        "word": "星光大赏导播 顺手的事",
+        "onboard_time": 1736001934,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415200,
+        "num": 415200,
+        "word": "R1SE舞台",
+        "onboard_time": 1736000010,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401560,
+        "num": 401560,
+        "word": "棣欣引力",
+        "onboard_time": 1735986321,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397024,
+        "num": 397024,
+        "word": "和颂",
+        "onboard_time": 1735991244,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241934,
+        "num": 380738,
+        "word": "林高远发文称会直面自己的起伏",
+        "onboard_time": 1736003856,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116545,
+        "num": 379661,
+        "word": "雷军回复网友",
+        "onboard_time": 1735992810,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 379606,
+        "num": 379606,
+        "word": "李雪琴演我嗑昀牵孟绕",
+        "onboard_time": 1736002595,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302917,
+        "num": 302917,
+        "word": "李兰迪发言切张新成镜头",
+        "onboard_time": 1735993350,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300566,
+        "num": 300566,
+        "word": "磊麦",
+        "onboard_time": 1735998750,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110659,
+        "num": 286973,
+        "word": "KPL",
+        "onboard_time": 1736002535,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102287,
+        "num": 283709,
+        "word": "21年前出租车女司机载客遇害案告破",
+        "onboard_time": 1735999712,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283404,
+        "num": 283404,
+        "word": "田曦薇内场怼脸镜头",
+        "onboard_time": 1735997908,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277557,
+        "num": 277557,
+        "word": "张新成李兰迪镜头",
+        "onboard_time": 1736002954,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274710,
+        "num": 274710,
+        "word": "如此可爱的我们",
+        "onboard_time": 1735996769,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267723,
+        "num": 267723,
+        "word": "楼丝整活",
+        "onboard_time": 1735998928,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250243,
+        "num": 250243,
+        "word": "祝绪丹没接住虞书欣卖萌",
+        "onboard_time": 1736002175,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31027,
+        "num": 248661,
+        "word": "吴敬平教练曾这样评价17岁的樊振东",
+        "onboard_time": 1735999891,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93358,
+        "num": 232879,
+        "word": "狼队战胜KSG",
+        "onboard_time": 1736002535,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91373,
+        "num": 226871,
+        "word": "江西抚州一女生夜跑遭40岁大叔搭讪",
+        "onboard_time": 1735973180,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89529,
+        "num": 209102,
+        "word": "媒体称樊振东是当下的体育顶流",
+        "onboard_time": 1735997968,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85992,
+        "num": 206246,
+        "word": "这段视频Passion值拉满了",
+        "onboard_time": 1735986263,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#解码中华文化基因#"
+    }
+  }
+}

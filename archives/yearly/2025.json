@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736004081078,
+  "endTime": 1736004931233,
   "band_list": [
     {
       "raw_hot": 20690209,
@@ -19,7 +19,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 13277351,
+      "raw_hot": 13470474,
       "num": 5216881,
       "word": "马天宇 李明德",
       "onboard_time": 1735991665,
@@ -51,7 +51,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 9010178,
+      "raw_hot": 9123207,
       "num": 5161800,
       "word": "三人行剧组回应",
       "onboard_time": 1736000553,
@@ -59,8 +59,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 8499909,
-      "num": 2299766,
+      "raw_hot": 8711179,
+      "num": 4061213,
       "word": "丁禹兮接虞书欣下台",
       "onboard_time": 1736001995,
       "rank": 7,
@@ -145,6 +145,14 @@
       "onboard_time": 1735790842,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2931671,
+      "num": 2931671,
+      "word": "孟子义李昀锐 他说她可爱",
+      "onboard_time": 1736003856,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 2763810,
@@ -388,7 +396,7 @@
     },
     {
       "raw_hot": 1765458,
-      "num": 581215,
+      "num": 912728,
       "word": "禹宙中欣",
       "onboard_time": 1735668077,
       "rank": 11,
@@ -1097,14 +1105,6 @@
       "onboard_time": 1735884260,
       "rank": 15,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 970494,
-      "num": 970494,
-      "word": "孟子义李昀锐 他说她可爱",
-      "onboard_time": 1736003856,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 966952,
@@ -1947,6 +1947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 626378,
+      "num": 626378,
+      "word": "祝绪丹哭了",
+      "onboard_time": 1736004515,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 625119,
       "num": 534985,
       "word": "谁家电视剧第一集就亲啊",
@@ -2089,6 +2097,14 @@
       "onboard_time": 1735731560,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 590679,
+      "num": 590679,
+      "word": "李昀锐领奖",
+      "onboard_time": 1736003735,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 590363,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1735980442,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 517757,
-      "num": 264559,
-      "word": "王鹤棣将落单王润泽拉入跨年拥抱",
-      "onboard_time": 1735917740,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 517423,
-      "num": 517423,
-      "word": "金星伴月",
-      "onboard_time": 1735900879,
-      "rank": 20,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -2457,6 +2457,9 @@
     },
     {
       "word": "#这就是中国气质#"
+    },
+    {
+      "word": "#解码中华文化基因#"
     }
   ]
 }
