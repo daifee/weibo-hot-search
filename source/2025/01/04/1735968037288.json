@@ -1,0 +1,410 @@
+{
+  "runTime": 1735968037288,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1471307,
+        "num": 1471307,
+        "word": "男子9个月坐933次地铁获赠一辆车",
+        "onboard_time": 1735965020,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1126975,
+        "num": 1126975,
+        "word": "星光大赏出图",
+        "onboard_time": 1735965559,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23992,
+        "num": 939785,
+        "word": "文化中国行盘点2024文化印迹",
+        "onboard_time": 1735958477,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1677017,
+        "num": 926479,
+        "word": "黄子韬送车大结局",
+        "onboard_time": 1735957578,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 869125,
+        "num": 869125,
+        "word": "韩国空难3岁遇难者最后视频曝光",
+        "onboard_time": 1735966459,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 699885,
+        "num": 699885,
+        "word": "客服回应生理期内裤被指有塑料膜",
+        "onboard_time": 1735957877,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 966655,
+        "num": 699393,
+        "word": "星光大赏红毯",
+        "onboard_time": 1735967359,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 761824,
+        "num": 698245,
+        "word": "星光大赏节目单",
+        "onboard_time": 1735958117,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 696486,
+        "num": 696486,
+        "word": "保时捷销冠24年再卖出170台",
+        "onboard_time": 1735958537,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 452596,
+        "num": 452596,
+        "word": "年轻人开始流行将黄金贴在手机上",
+        "onboard_time": 1735962199,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1036075,
+        "num": 451400,
+        "word": "环保女性开始抛弃卫生巾",
+        "onboard_time": 1735960937,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 705773,
+        "num": 438491,
+        "word": "火箭少女成团解散都没今天人齐",
+        "onboard_time": 1735957397,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 623993,
+        "num": 436877,
+        "word": "赵丽颖海报C位",
+        "onboard_time": 1735967539,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320733,
+        "num": 427896,
+        "word": "骗子开始先给你转钱了",
+        "onboard_time": 1735922776,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248296,
+        "num": 422471,
+        "word": "央视曝光猫贷套路",
+        "onboard_time": 1735966397,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 457193,
+        "num": 410751,
+        "word": "24岁小伙吃外卖后睡觉突然去世",
+        "onboard_time": 1735967359,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410211,
+        "num": 410211,
+        "word": "医生称森碟下巴后缩或影响口腔功能",
+        "onboard_time": 1735916900,
+        "rank": 16,
+        "category": "艺人,健康医疗"
+      },
+      {
+        "raw_hot": 401801,
+        "num": 401801,
+        "word": "孟子义淡紫色长裙",
+        "onboard_time": 1735963638,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49969,
+        "num": 396090,
+        "word": "Doinb抵达深圳",
+        "onboard_time": 1735959918,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142046,
+        "num": 385618,
+        "word": "俄方称德日入常永远没戏",
+        "onboard_time": 1735964479,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 69652,
+        "num": 378753,
+        "word": "全国各地进入年度消费旺季",
+        "onboard_time": 1735966099,
+        "rank": 20,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 467939,
+        "num": 374688,
+        "word": "17岁网红抗癌6年后离世",
+        "onboard_time": 1735951997,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 368232,
+        "num": 368232,
+        "word": "代露娃 蝴蝶少女具象化了",
+        "onboard_time": 1735963458,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 367200,
+        "num": 367200,
+        "word": "景甜 孔雀公主",
+        "onboard_time": 1735967120,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132710,
+        "num": 343578,
+        "word": "上海春考",
+        "onboard_time": 1735963339,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 342343,
+        "num": 342343,
+        "word": "星光大赏",
+        "onboard_time": 1735919421,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304539,
+        "num": 304539,
+        "word": "爸爸在女儿一声声喜欢你中哭惨了",
+        "onboard_time": 1735965198,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251655,
+        "num": 294008,
+        "word": "王玉雯星光大赏出图",
+        "onboard_time": 1735966158,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291143,
+        "num": 291143,
+        "word": "苹果蛇年手机壳售价398元",
+        "onboard_time": 1735963578,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 220484,
+        "num": 290357,
+        "word": "JJ智利车厘子1斤约30元",
+        "onboard_time": 1735960518,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290172,
+        "num": 290172,
+        "word": "WTT祝樊振东未来之路更加辉煌",
+        "onboard_time": 1735966879,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285595,
+        "num": 285595,
+        "word": "临安公主掉马",
+        "onboard_time": 1735966640,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167195,
+        "num": 276781,
+        "word": "男子为给妻儿做饭9个月乘地铁933次",
+        "onboard_time": 1735959499,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270017,
+        "num": 270017,
+        "word": "广西柳州被曝换表后燃气费跑太快",
+        "onboard_time": 1735964117,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246386,
+        "num": 246386,
+        "word": "网传星光大赏红毯出场顺序",
+        "onboard_time": 1735956858,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244150,
+        "num": 244150,
+        "word": "WTT感谢陈梦",
+        "onboard_time": 1735966759,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214318,
+        "num": 214318,
+        "word": "迪丽热巴三连更",
+        "onboard_time": 1735962799,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212724,
+        "num": 212724,
+        "word": "张予曦 在逃千金",
+        "onboard_time": 1735967659,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200758,
+        "num": 200758,
+        "word": "王鹤棣问心哭戏破碎感",
+        "onboard_time": 1735967179,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194217,
+        "num": 194217,
+        "word": "驻站拍出了人贩子3分钟拐卖",
+        "onboard_time": 1735966819,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193822,
+        "num": 193822,
+        "word": "微博之夜",
+        "onboard_time": 1735951757,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179516,
+        "num": 179516,
+        "word": "印度男子用舌头截停57次电风扇叶片",
+        "onboard_time": 1735953197,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 171174,
+        "num": 171174,
+        "word": "张真源三个大帅哥是谁",
+        "onboard_time": 1735967659,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158469,
+        "num": 158469,
+        "word": "成毅腾讯星光大赏造型",
+        "onboard_time": 1735967838,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155006,
+        "num": 155006,
+        "word": "年度反腐大片",
+        "onboard_time": 1735961540,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147059,
+        "num": 147059,
+        "word": "王楚钦孙颖莎参加冬训备战",
+        "onboard_time": 1735963759,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146926,
+        "num": 146926,
+        "word": "八省联考历史",
+        "onboard_time": 1735959258,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 137978,
+        "num": 137978,
+        "word": "塞尔维亚部署中国造防空系统",
+        "onboard_time": 1735962199,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137649,
+        "num": 137649,
+        "word": "杨超越舞台小羊准备中",
+        "onboard_time": 1735965140,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135859,
+        "num": 135859,
+        "word": "流感挤爆三甲医院",
+        "onboard_time": 1735965378,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平新年贺词里镌刻的中国#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735965585320,
+  "endTime": 1735968037288,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -395,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1471307,
+      "num": 1471307,
+      "word": "男子9个月坐933次地铁获赠一辆车",
+      "onboard_time": 1735965020,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1460989,
       "num": 488648,
       "word": "徐以若 于正",
@@ -611,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1126975,
+      "num": 1126975,
+      "word": "星光大赏出图",
+      "onboard_time": 1735965559,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1126166,
       "num": 1180186,
       "word": "偏我来时不逢丁",
@@ -795,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 966655,
+      "num": 699393,
+      "word": "星光大赏红毯",
+      "onboard_time": 1735967359,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 962730,
       "num": 962730,
       "word": "醒醒 现在是千禧年",
@@ -945,6 +969,14 @@
       "onboard_time": 1735703422,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 869125,
+      "num": 869125,
+      "word": "韩国空难3岁遇难者最后视频曝光",
+      "onboard_time": 1735966459,
+      "rank": 4,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 869026,
@@ -1481,6 +1513,14 @@
       "onboard_time": 1735817059,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 623993,
+      "num": 436877,
+      "word": "赵丽颖海报C位",
+      "onboard_time": 1735967539,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 620993,
@@ -2219,6 +2259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 457193,
+      "num": 410751,
+      "word": "24岁小伙吃外卖后睡觉突然去世",
+      "onboard_time": 1735967359,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 453532,
       "num": 453532,
       "word": "上海有偿占座男子已被警方行拘",
@@ -2761,6 +2809,14 @@
       "onboard_time": 1735835358,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 367200,
+      "num": 367200,
+      "word": "景甜 孔雀公主",
+      "onboard_time": 1735967120,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 366981,
@@ -3331,6 +3387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 304539,
+      "num": 304539,
+      "word": "爸爸在女儿一声声喜欢你中哭惨了",
+      "onboard_time": 1735965198,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 304298,
       "num": 304298,
       "word": "雷军紧张到一动不动",
@@ -3547,6 +3611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 290172,
+      "num": 290172,
+      "word": "WTT祝樊振东未来之路更加辉煌",
+      "onboard_time": 1735966879,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 288443,
       "num": 378414,
       "word": "目前流感病毒99%以上为甲流",
@@ -3585,6 +3657,14 @@
       "onboard_time": 1735735462,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 285595,
+      "num": 285595,
+      "word": "临安公主掉马",
+      "onboard_time": 1735966640,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 284141,
@@ -3915,6 +3995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 251655,
+      "num": 294008,
+      "word": "王玉雯星光大赏出图",
+      "onboard_time": 1735966158,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251316,
       "num": 251316,
       "word": "樊振东 东方卫视跨年晚会",
@@ -3977,6 +4065,14 @@
       "onboard_time": 1735800562,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248296,
+      "num": 422471,
+      "word": "央视曝光猫贷套路",
+      "onboard_time": 1735966397,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 246844,
@@ -4043,6 +4139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 244150,
+      "num": 244150,
+      "word": "WTT感谢陈梦",
+      "onboard_time": 1735966759,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 243663,
       "num": 243663,
       "word": "李行亮麦琳 双向拯救文学",
@@ -4065,14 +4169,6 @@
       "onboard_time": 1735960456,
       "rank": 15,
       "category": "数码"
-    },
-    {
-      "raw_hot": 242456,
-      "num": 242456,
-      "word": "男子9个月坐933次地铁获赠一辆车",
-      "onboard_time": 1735965020,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 242252,
@@ -4611,6 +4707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212724,
+      "num": 212724,
+      "word": "张予曦 在逃千金",
+      "onboard_time": 1735967659,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212720,
       "num": 212720,
       "word": "短剧顶流演员日薪飙至30000元",
@@ -5035,6 +5139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200758,
+      "num": 200758,
+      "word": "王鹤棣问心哭戏破碎感",
+      "onboard_time": 1735967179,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200708,
       "num": 200708,
       "word": "十个勤天蛇年春晚彩排路透",
@@ -5337,6 +5449,14 @@
       "onboard_time": 1735741581,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 194217,
+      "num": 194217,
+      "word": "驻站拍出了人贩子3分钟拐卖",
+      "onboard_time": 1735966819,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 193884,
@@ -5844,7 +5964,7 @@
     },
     {
       "raw_hot": 182885,
-      "num": 182885,
+      "num": 343578,
       "word": "上海春考",
       "onboard_time": 1735963339,
       "rank": 37,
@@ -6115,14 +6235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174063,
-      "num": 174063,
-      "word": "爸爸在女儿一声声喜欢你中哭惨了",
-      "onboard_time": 1735965198,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 174036,
       "num": 342099,
       "word": "超市被员工偷倒闭当事人发声",
@@ -6321,6 +6433,14 @@
       "onboard_time": 1735806921,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 171174,
+      "num": 171174,
+      "word": "张真源三个大帅哥是谁",
+      "onboard_time": 1735967659,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 171150,
@@ -6907,6 +7027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158469,
+      "num": 158469,
+      "word": "成毅腾讯星光大赏造型",
+      "onboard_time": 1735967838,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158420,
       "num": 158420,
       "word": "马柏全问粉丝CP名",
@@ -7467,6 +7595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147059,
+      "num": 257570,
+      "word": "王楚钦孙颖莎参加冬训备战",
+      "onboard_time": 1735963759,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146911,
       "num": 146911,
       "word": "ELLE80周年时髦词典",
@@ -7508,7 +7644,7 @@
     },
     {
       "raw_hot": 146505,
-      "num": 146505,
+      "num": 385618,
       "word": "俄方称德日入常永远没戏",
       "onboard_time": 1735964479,
       "rank": 46,
@@ -7545,14 +7681,6 @@
       "onboard_time": 1735795942,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 144600,
-      "num": 257570,
-      "word": "王楚钦孙颖莎参加冬训备战",
-      "onboard_time": 1735963759,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 144597,
@@ -8035,14 +8163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136302,
-      "num": 136302,
-      "word": "星光大赏出图",
-      "onboard_time": 1735965559,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 136107,
       "num": 136107,
       "word": "张真源2025发2024末拍的照片",
@@ -8081,6 +8201,14 @@
       "onboard_time": 1735727062,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135859,
+      "num": 135859,
+      "word": "流感挤爆三甲医院",
+      "onboard_time": 1735965378,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135637,
@@ -8385,14 +8513,6 @@
       "onboard_time": 1735776859,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 129004,
-      "num": 129004,
-      "word": "流感挤爆三甲医院",
-      "onboard_time": 1735965378,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128918,
@@ -9812,7 +9932,7 @@
     },
     {
       "raw_hot": 83155,
-      "num": 367782,
+      "num": 396090,
       "word": "Doinb抵达深圳",
       "onboard_time": 1735959918,
       "rank": 18,
@@ -10017,6 +10137,14 @@
       "onboard_time": 1735673533,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 69652,
+      "num": 378753,
+      "word": "全国各地进入年度消费旺季",
+      "onboard_time": 1735966099,
+      "rank": 20,
+      "category": "正能量"
     },
     {
       "raw_hot": 68085,

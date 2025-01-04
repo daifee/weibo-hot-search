@@ -1,6 +1,6 @@
 {
   "startTime": 1735921654212,
-  "endTime": 1735965585320,
+  "endTime": 1735968037288,
   "band_list": [
     {
       "raw_hot": 1894905,
@@ -17,6 +17,14 @@
       "onboard_time": 1735918099,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1471307,
+      "num": 1471307,
+      "word": "男子9个月坐933次地铁获赠一辆车",
+      "onboard_time": 1735965020,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1395529,
@@ -41,6 +49,14 @@
       "onboard_time": 1735922776,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1126975,
+      "num": 1126975,
+      "word": "星光大赏出图",
+      "onboard_time": 1735965559,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 1101527,
@@ -83,12 +99,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 966655,
+      "num": 699393,
+      "word": "星光大赏红毯",
+      "onboard_time": 1735967359,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 938605,
       "num": 1150176,
       "word": "医生称森碟下巴后缩或影响口腔功能",
       "onboard_time": 1735916900,
       "rank": 5,
       "category": "艺人,健康医疗"
+    },
+    {
+      "raw_hot": 869125,
+      "num": 869125,
+      "word": "韩国空难3岁遇难者最后视频曝光",
+      "onboard_time": 1735966459,
+      "rank": 4,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 865531,
@@ -137,6 +169,14 @@
       "onboard_time": 1735953257,
       "rank": 17,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 623993,
+      "num": 436877,
+      "word": "赵丽颖海报C位",
+      "onboard_time": 1735967539,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 611775,
@@ -235,6 +275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 457193,
+      "num": 410751,
+      "word": "24岁小伙吃外卖后睡觉突然去世",
+      "onboard_time": 1735967359,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 441456,
       "num": 441456,
       "word": "JJ智利车厘子1斤约30元",
@@ -265,6 +313,14 @@
       "onboard_time": 1735911198,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 367200,
+      "num": 367200,
+      "word": "景甜 孔雀公主",
+      "onboard_time": 1735967120,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 325294,
@@ -305,6 +361,14 @@
       "onboard_time": 1735962799,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 304539,
+      "num": 304539,
+      "word": "爸爸在女儿一声声喜欢你中哭惨了",
+      "onboard_time": 1735965198,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 302282,
@@ -355,12 +419,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 290172,
+      "num": 290172,
+      "word": "WTT祝樊振东未来之路更加辉煌",
+      "onboard_time": 1735966879,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 287411,
       "num": 292740,
       "word": "原神",
       "onboard_time": 1735953257,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 285595,
+      "num": 285595,
+      "word": "临安公主掉马",
+      "onboard_time": 1735966640,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 283673,
@@ -395,20 +475,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 251655,
+      "num": 294008,
+      "word": "王玉雯星光大赏出图",
+      "onboard_time": 1735966158,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 248296,
+      "num": 422471,
+      "word": "央视曝光猫贷套路",
+      "onboard_time": 1735966397,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 244150,
+      "num": 244150,
+      "word": "WTT感谢陈梦",
+      "onboard_time": 1735966759,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 242606,
       "num": 242606,
       "word": "苹果推出AirPods4蛇年特别款",
       "onboard_time": 1735960456,
       "rank": 15,
       "category": "数码"
-    },
-    {
-      "raw_hot": 242456,
-      "num": 242456,
-      "word": "男子9个月坐933次地铁获赠一辆车",
-      "onboard_time": 1735965020,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 236830,
@@ -433,6 +529,14 @@
       "onboard_time": 1735953257,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212724,
+      "num": 212724,
+      "word": "张予曦 在逃千金",
+      "onboard_time": 1735967659,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 212720,
@@ -499,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200758,
+      "num": 200758,
+      "word": "王鹤棣问心哭戏破碎感",
+      "onboard_time": 1735967179,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200290,
       "num": 200290,
       "word": "塞尔维亚部署中国造防空系统",
@@ -552,6 +664,14 @@
       "word": "月鳞绮纪",
       "onboard_time": 1735918220,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 194217,
+      "num": 194217,
+      "word": "驻站拍出了人贩子3分钟拐卖",
+      "onboard_time": 1735966819,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -612,7 +732,7 @@
     },
     {
       "raw_hot": 182885,
-      "num": 182885,
+      "num": 343578,
       "word": "上海春考",
       "onboard_time": 1735963339,
       "rank": 37,
@@ -643,20 +763,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174063,
-      "num": 174063,
-      "word": "爸爸在女儿一声声喜欢你中哭惨了",
-      "onboard_time": 1735965198,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 171953,
       "num": 471978,
       "word": "央行称择机降准降息",
       "onboard_time": 1735963878,
       "rank": 9,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 171174,
+      "num": 171174,
+      "word": "张真源三个大帅哥是谁",
+      "onboard_time": 1735967659,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 171077,
@@ -715,6 +835,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 158469,
+      "num": 158469,
+      "word": "成毅腾讯星光大赏造型",
+      "onboard_time": 1735967838,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156419,
       "num": 156419,
       "word": "林一海外人气",
@@ -755,20 +883,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146505,
-      "num": 146505,
-      "word": "俄方称德日入常永远没戏",
-      "onboard_time": 1735964479,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 144600,
+      "raw_hot": 147059,
       "num": 257570,
       "word": "王楚钦孙颖莎参加冬训备战",
       "onboard_time": 1735963759,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146505,
+      "num": 385618,
+      "word": "俄方称德日入常永远没戏",
+      "onboard_time": 1735964479,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 142865,
@@ -819,14 +947,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 136302,
-      "num": 136302,
-      "word": "星光大赏出图",
-      "onboard_time": 1735965559,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 136107,
       "num": 136107,
       "word": "张真源2025发2024末拍的照片",
@@ -835,20 +955,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135859,
+      "num": 135859,
+      "word": "流感挤爆三甲医院",
+      "onboard_time": 1735965378,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131290,
       "num": 305514,
       "word": "或许这才是真正的樊振东",
       "onboard_time": 1735960638,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129004,
-      "num": 129004,
-      "word": "流感挤爆三甲医院",
-      "onboard_time": 1735965378,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127426,
@@ -1172,7 +1292,7 @@
     },
     {
       "raw_hot": 83155,
-      "num": 367782,
+      "num": 396090,
       "word": "Doinb抵达深圳",
       "onboard_time": 1735959918,
       "rank": 18,
@@ -1193,6 +1313,14 @@
       "onboard_time": 1735958117,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69652,
+      "num": 378753,
+      "word": "全国各地进入年度消费旺季",
+      "onboard_time": 1735966099,
+      "rank": 20,
+      "category": "正能量"
     },
     {
       "raw_hot": 67027,
