@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735947329477,
+  "endTime": 1735954829193,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -779,6 +779,14 @@
       "category": "美妆,体育"
     },
     {
+      "raw_hot": 931088,
+      "num": 1148974,
+      "word": "医生称森碟下巴后缩或影响口腔功能",
+      "onboard_time": 1735916900,
+      "rank": 9,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 927066,
       "num": 927066,
       "word": "A股",
@@ -913,14 +921,6 @@
       "onboard_time": 1735668077,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 836664,
-      "num": 877680,
-      "word": "医生称森碟下巴后缩或影响口腔功能",
-      "onboard_time": 1735916900,
-      "rank": 9,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 832820,
@@ -1065,6 +1065,14 @@
       "onboard_time": 1735696519,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 778717,
+      "num": 293610,
+      "word": "17岁网红抗癌6年后离世",
+      "onboard_time": 1735951997,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 778709,
@@ -1739,6 +1747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 522175,
+      "num": 303221,
+      "word": "徐志胜睡八个小时算失眠",
+      "onboard_time": 1735911500,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 521394,
       "num": 521394,
       "word": "洛杉矶旅游局向樊振东发来邀请",
@@ -2003,6 +2019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 474155,
+      "num": 292256,
+      "word": "警方通报小轿车撞向货车致1死2伤",
+      "onboard_time": 1735946175,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 474061,
       "num": 278359,
       "word": "孙颖莎 肯德基",
@@ -2139,6 +2163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 440732,
+      "num": 291583,
+      "word": "白鹿是不虐的不演吗",
+      "onboard_time": 1735948576,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 440233,
       "num": 440233,
       "word": "东部战区发布重磅MV献礼新年",
@@ -2235,6 +2267,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 426281,
+      "num": 291442,
+      "word": "火箭少女101同框合照",
+      "onboard_time": 1735947855,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 424980,
       "num": 424980,
       "word": "刘亦菲连体皮衣",
@@ -2321,6 +2361,14 @@
       "onboard_time": 1735792104,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 410120,
+      "num": 198813,
+      "word": "印度男子用舌头截停57次电风扇叶片",
+      "onboard_time": 1735953197,
+      "rank": 20,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 409124,
@@ -2705,14 +2753,6 @@
       "onboard_time": 1735910601,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 355081,
-      "num": 303221,
-      "word": "徐志胜睡八个小时算失眠",
-      "onboard_time": 1735911500,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 355023,
@@ -3267,6 +3307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 294472,
+      "num": 294472,
+      "word": "胖东来员工收付彩礼将被取消福利",
+      "onboard_time": 1735942751,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 294352,
       "num": 247611,
       "word": "为什么现在秋衣秋裤要这样设计",
@@ -3323,6 +3371,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 290195,
+      "num": 290195,
+      "word": "樊振东陈梦缺席一项WTT赛事将被罚5000美元",
+      "onboard_time": 1735917800,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 288443,
       "num": 378414,
       "word": "目前流感病毒99%以上为甲流",
@@ -3337,6 +3393,14 @@
       "onboard_time": 1735794562,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 287411,
+      "num": 292740,
+      "word": "原神",
+      "onboard_time": 1735669037,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 287322,
@@ -3387,6 +3451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279262,
+      "num": 198466,
+      "word": "张小斐被曝违章交警称已依法处置",
+      "onboard_time": 1735922715,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279221,
       "num": 279221,
       "word": "福彩5亿巨奖中奖者纳税过亿",
@@ -3433,14 +3505,6 @@
       "onboard_time": 1735826961,
       "rank": 36,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 276226,
-      "num": 276226,
-      "word": "樊振东陈梦缺席一项WTT赛事将被罚5000美元",
-      "onboard_time": 1735917800,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 276003,
@@ -3723,14 +3787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 247793,
-      "num": 95246,
-      "word": "张小斐被曝违章交警称已依法处置",
-      "onboard_time": 1735922715,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 246844,
       "num": 307031,
       "word": "国内生产总值预计超130万亿元",
@@ -3913,6 +3969,14 @@
       "onboard_time": 1735876278,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 234957,
+      "num": 197767,
+      "word": "微博之夜",
+      "onboard_time": 1735951757,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 233805,
@@ -4476,7 +4540,7 @@
     },
     {
       "raw_hot": 207403,
-      "num": 158668,
+      "num": 291959,
       "word": "小伙飞机上丢行李国航称无法联系机组",
       "onboard_time": 1735916959,
       "rank": 47,
@@ -4835,6 +4899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198892,
+      "num": 198892,
+      "word": "地震时16岁男孩背起同学往外冲",
+      "onboard_time": 1735922597,
+      "rank": 24,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 198629,
       "num": 198629,
       "word": "新年音乐会 特权码",
@@ -4905,6 +4977,14 @@
       "onboard_time": 1735722800,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196835,
+      "num": 196835,
+      "word": "江苏大学已报案",
+      "onboard_time": 1735953197,
+      "rank": 23,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 196568,
@@ -5107,6 +5187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192131,
+      "num": 192131,
+      "word": "地震瞬间老师冲进厕所救娃裤子都没提",
+      "onboard_time": 1735953257,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191865,
       "num": 191865,
       "word": "元旦宝宝来报到了",
@@ -5299,14 +5387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 188352,
-      "num": 188352,
-      "word": "胖东来员工收付彩礼将被取消福利",
-      "onboard_time": 1735942751,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 188129,
       "num": 188129,
       "word": "IVL",
@@ -5473,6 +5553,14 @@
       "onboard_time": 1735908080,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182841,
+      "num": 182841,
+      "word": "R1SE在星光大赏给夏之光过生日",
+      "onboard_time": 1735947614,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 182553,
@@ -5673,6 +5761,14 @@
       "onboard_time": 1735666820,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175849,
+      "num": 175849,
+      "word": "年轻人开始流行换房过年",
+      "onboard_time": 1735953197,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175805,
@@ -6041,14 +6137,6 @@
       "onboard_time": 1735876701,
       "rank": 24,
       "category": "体育,时尚"
-    },
-    {
-      "raw_hot": 168484,
-      "num": 168484,
-      "word": "原神",
-      "onboard_time": 1735669037,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 168281,
@@ -6595,6 +6683,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 155446,
+      "num": 155446,
+      "word": "巴特勒被热火禁赛7场",
+      "onboard_time": 1735953197,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155370,
       "num": 155370,
       "word": "虞书欣林一2025首cha",
@@ -7027,6 +7123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146655,
+      "num": 146655,
+      "word": "刘浩存王安宇澳门拍物料",
+      "onboard_time": 1735953856,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146620,
       "num": 146620,
       "word": "重返未来刺客信条联动",
@@ -7161,6 +7265,14 @@
       "onboard_time": 1735743862,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 142547,
+      "num": 142547,
+      "word": "白司彦假死",
+      "onboard_time": 1735951456,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 142184,
@@ -7329,6 +7441,14 @@
       "onboard_time": 1735743501,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139938,
+      "num": 139938,
+      "word": "张艺兴直播中提到和EXO成员合体",
+      "onboard_time": 1735953558,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 139921,
@@ -7505,6 +7625,14 @@
       "onboard_time": 1735893260,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136667,
+      "num": 136667,
+      "word": "动物园小老虎被迫营业按下爪印挂历",
+      "onboard_time": 1735953257,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136493,
@@ -8211,6 +8339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119876,
+      "num": 119876,
+      "word": "白鹿剧组的假期都留给了跑男",
+      "onboard_time": 1735953257,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119774,
       "num": 119774,
       "word": "群星耀东方",
@@ -8355,6 +8491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116107,
+      "num": 116107,
+      "word": "曝孟子义李昀锐都参加湖南卫视小年夜",
+      "onboard_time": 1735954517,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115856,
       "num": 115856,
       "word": "名侦探的假期",
@@ -8409,14 +8553,6 @@
       "onboard_time": 1735863200,
       "rank": 49,
       "category": "数码,互联网"
-    },
-    {
-      "raw_hot": 114856,
-      "num": 199230,
-      "word": "警方通报小轿车撞向货车致1死2伤",
-      "onboard_time": 1735946175,
-      "rank": 9,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 114637,
@@ -8707,14 +8843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 103925,
-      "num": 103925,
-      "word": "地震时16岁男孩背起同学往外冲",
-      "onboard_time": 1735922597,
-      "rank": 24,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 103720,
       "num": 502497,
       "word": "抑郁是种情绪抑郁症是种疾病",
@@ -8729,6 +8857,14 @@
       "onboard_time": 1735712899,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103460,
+      "num": 103460,
+      "word": "丁俊晖5比4特鲁姆普",
+      "onboard_time": 1735954457,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 103292,
@@ -8851,6 +8987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 96328,
+      "num": 96328,
+      "word": "李小冉 姐谁认识你",
+      "onboard_time": 1735924874,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96319,
       "num": 96319,
       "word": "尚雯婕怎么闯进这个赛道了",
@@ -8873,6 +9017,14 @@
       "onboard_time": 1735806200,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95419,
+      "num": 95419,
+      "word": "单位员工用国家秘密送人情",
+      "onboard_time": 1735952777,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95339,
@@ -8955,6 +9107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91742,
+      "num": 91742,
+      "word": "跟着杨紫李现赚money才是要紧事",
+      "onboard_time": 1735954276,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91486,
       "num": 257513,
       "word": "微博之夜官宣按微博名称首字母排序",
@@ -9009,6 +9169,14 @@
       "onboard_time": 1735724119,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 87398,
+      "num": 87398,
+      "word": "问界起诉广州问界M7事故鉴定公司",
+      "onboard_time": 1735954637,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87260,
@@ -9081,6 +9249,14 @@
       "onboard_time": 1735641262,
       "rank": 31,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 84221,
+      "num": 84221,
+      "word": "中方敦促以色列停止将医院变战场",
+      "onboard_time": 1735953976,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 84135,
@@ -9681,14 +9857,6 @@
       "onboard_time": 1735910180,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 53803,
-      "num": 53803,
-      "word": "李小冉 姐谁认识你",
-      "onboard_time": 1735924874,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 52740,

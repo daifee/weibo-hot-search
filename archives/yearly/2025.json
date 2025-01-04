@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735947329477,
+  "endTime": 1735954829193,
   "band_list": [
     {
       "raw_hot": 16189782,
@@ -779,6 +779,14 @@
       "category": "美妆,体育"
     },
     {
+      "raw_hot": 931088,
+      "num": 1148974,
+      "word": "医生称森碟下巴后缩或影响口腔功能",
+      "onboard_time": 1735916900,
+      "rank": 9,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 927066,
       "num": 927066,
       "word": "A股",
@@ -913,14 +921,6 @@
       "onboard_time": 1735668077,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 836664,
-      "num": 877680,
-      "word": "医生称森碟下巴后缩或影响口腔功能",
-      "onboard_time": 1735916900,
-      "rank": 9,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 832820,
@@ -1065,6 +1065,14 @@
       "onboard_time": 1735696519,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 778717,
+      "num": 293610,
+      "word": "17岁网红抗癌6年后离世",
+      "onboard_time": 1735951997,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 778709,
@@ -1739,6 +1747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 522175,
+      "num": 303221,
+      "word": "徐志胜睡八个小时算失眠",
+      "onboard_time": 1735911500,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 521394,
       "num": 521394,
       "word": "洛杉矶旅游局向樊振东发来邀请",
@@ -2003,6 +2019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 474155,
+      "num": 292256,
+      "word": "警方通报小轿车撞向货车致1死2伤",
+      "onboard_time": 1735946175,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 474061,
       "num": 278359,
       "word": "孙颖莎 肯德基",
@@ -2139,6 +2163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 440732,
+      "num": 291583,
+      "word": "白鹿是不虐的不演吗",
+      "onboard_time": 1735948576,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 440233,
       "num": 440233,
       "word": "东部战区发布重磅MV献礼新年",
@@ -2235,6 +2267,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 426281,
+      "num": 291442,
+      "word": "火箭少女101同框合照",
+      "onboard_time": 1735947855,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 424980,
       "num": 424980,
       "word": "刘亦菲连体皮衣",
@@ -2323,6 +2363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 410120,
+      "num": 198813,
+      "word": "印度男子用舌头截停57次电风扇叶片",
+      "onboard_time": 1735953197,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 409124,
       "num": 409124,
       "word": "银河酷娱",
@@ -2352,54 +2400,6 @@
       "word": "王安宇Vlog",
       "onboard_time": 1735827020,
       "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 402722,
-      "num": 402722,
-      "word": "孙颖莎3比2王曼昱",
-      "onboard_time": 1735706360,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 401225,
-      "num": 299242,
-      "word": "樊振东登上国防军事频道",
-      "onboard_time": 1735711099,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 400256,
-      "num": 400256,
-      "word": "做腊肉引发火灾上千斤全部报废",
-      "onboard_time": 1735814779,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 397838,
-      "num": 397209,
-      "word": "鹿晗高瀚宇眉钉大片",
-      "onboard_time": 1735791143,
-      "rank": 15,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 394603,
-      "num": 394603,
-      "word": "王力宏 复出",
-      "onboard_time": 1735663643,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 392656,
-      "num": 428822,
-      "word": "Kpop艺人TikTok年涨幅",
-      "onboard_time": 1735808780,
-      "rank": 17,
       "category": "艺人"
     }
   ],

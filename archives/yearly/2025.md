@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/04 07:35:29
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/04 09:40:29
 </p>
 </blockquote>
 <p>
@@ -597,6 +597,12 @@ R1SE合体（热度：994873）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%A7%B0%E6%A3%AE%E7%A2%9F%E4%B8%8B%E5%B7%B4%E5%90%8E%E7%BC%A9%E6%88%96%E5%BD%B1%E5%93%8D%E5%8F%A3%E8%85%94%E5%8A%9F%E8%83%BD%23" target="weibo">
+医生称森碟下巴后缩或影响口腔功能（热度：931088）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%23" target="weibo">
 A股（热度：927066）
 </a>
@@ -695,12 +701,6 @@ A股（热度：927066）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%B9%E5%AE%99%E4%B8%AD%E6%AC%A3%23" target="weibo">
 禹宙中欣（热度：843360）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%A7%B0%E6%A3%AE%E7%A2%9F%E4%B8%8B%E5%B7%B4%E5%90%8E%E7%BC%A9%E6%88%96%E5%BD%B1%E5%93%8D%E5%8F%A3%E8%85%94%E5%8A%9F%E8%83%BD%23" target="weibo">
-医生称森碟下巴后缩或影响口腔功能（热度：836664）
 </a>
 </li>
 
@@ -809,6 +809,12 @@ A股（热度：927066）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E5%9C%A8%E5%88%98%E5%BE%B7%E5%8D%8E%E6%BC%94%E5%94%B1%E4%BC%9A%E8%B7%A8%E5%B9%B4%23" target="weibo">
 贾玲在刘德华演唱会跨年（热度：780894）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2317%E5%B2%81%E7%BD%91%E7%BA%A2%E6%8A%97%E7%99%8C6%E5%B9%B4%E5%90%8E%E7%A6%BB%E4%B8%96%23" target="weibo">
+17岁网红抗癌6年后离世（热度：778717）
 </a>
 </li>
 
@@ -1317,6 +1323,12 @@ Angelababy沙漠神女（热度：605044）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%BF%97%E8%83%9C%E7%9D%A1%E5%85%AB%E4%B8%AA%E5%B0%8F%E6%97%B6%E7%AE%97%E5%A4%B1%E7%9C%A0%23" target="weibo">
+徐志胜睡八个小时算失眠（热度：522175）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B4%9B%E6%9D%89%E7%9F%B6%E6%97%85%E6%B8%B8%E5%B1%80%E5%90%91%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8F%91%E6%9D%A5%E9%82%80%E8%AF%B7%23" target="weibo">
 洛杉矶旅游局向樊振东发来邀请（热度：521394）
 </a>
@@ -1515,6 +1527,12 @@ Angelababy沙漠神女（热度：605044）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B0%8F%E8%BD%BF%E8%BD%A6%E6%92%9E%E5%90%91%E8%B4%A7%E8%BD%A6%E8%87%B41%E6%AD%BB2%E4%BC%A4%23" target="weibo">
+警方通报小轿车撞向货车致1死2伤（热度：474155）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%20%E8%82%AF%E5%BE%B7%E5%9F%BA%23" target="weibo">
 孙颖莎 肯德基（热度：474061）
 </a>
@@ -1617,6 +1635,12 @@ B站2024百大UP主（热度：469784）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%98%AF%E4%B8%8D%E8%99%90%E7%9A%84%E4%B8%8D%E6%BC%94%E5%90%97%23" target="weibo">
+白鹿是不虐的不演吗（热度：440732）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%8F%91%E5%B8%83%E9%87%8D%E7%A3%85MV%E7%8C%AE%E7%A4%BC%E6%96%B0%E5%B9%B4%23" target="weibo">
 东部战区发布重磅MV献礼新年（热度：440233）
 </a>
@@ -1689,6 +1713,12 @@ B站2024百大UP主（热度：469784）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%81%AB%E7%AE%AD%E5%B0%91%E5%A5%B3101%E5%90%8C%E6%A1%86%E5%90%88%E7%85%A7%23" target="weibo">
+火箭少女101同框合照（热度：426281）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E8%BF%9E%E4%BD%93%E7%9A%AE%E8%A1%A3%23" target="weibo">
 刘亦菲连体皮衣（热度：424980）
 </a>
@@ -1755,6 +1785,12 @@ B站2024百大UP主（热度：469784）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%90%E7%94%A8%E8%88%8C%E5%A4%B4%E6%88%AA%E5%81%9C57%E6%AC%A1%E7%94%B5%E9%A3%8E%E6%89%87%E5%8F%B6%E7%89%87%23" target="weibo">
+印度男子用舌头截停57次电风扇叶片（热度：410120）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E6%B2%B3%E9%85%B7%E5%A8%B1%23" target="weibo">
 银河酷娱（热度：409124）
 </a>
@@ -1775,42 +1811,6 @@ B站2024百大UP主（热度：469784）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87Vlog%23" target="weibo">
 王安宇Vlog（热度：402772）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E3%E6%AF%942%E7%8E%8B%E6%9B%BC%E6%98%B1%23" target="weibo">
-孙颖莎3比2王曼昱（热度：402722）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%99%BB%E4%B8%8A%E5%9B%BD%E9%98%B2%E5%86%9B%E4%BA%8B%E9%A2%91%E9%81%93%23" target="weibo">
-樊振东登上国防军事频道（热度：401225）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%81%9A%E8%85%8A%E8%82%89%E5%BC%95%E5%8F%91%E7%81%AB%E7%81%BE%E4%B8%8A%E5%8D%83%E6%96%A4%E5%85%A8%E9%83%A8%E6%8A%A5%E5%BA%9F%23" target="weibo">
-做腊肉引发火灾上千斤全部报废（热度：400256）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E9%AB%98%E7%80%9A%E5%AE%87%E7%9C%89%E9%92%89%E5%A4%A7%E7%89%87%23" target="weibo">
-鹿晗高瀚宇眉钉大片（热度：397838）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%20%E5%A4%8D%E5%87%BA%23" target="weibo">
-王力宏 复出（热度：394603）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Kpop%E8%89%BA%E4%BA%BATikTok%E5%B9%B4%E6%B6%A8%E5%B9%85%23" target="weibo">
-Kpop艺人TikTok年涨幅（热度：392656）
 </a>
 </li>
 
