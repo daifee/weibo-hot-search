@@ -1,0 +1,410 @@
+{
+  "runTime": 1735997075778,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 16011566,
+        "num": 16011566,
+        "word": "李明德评论",
+        "onboard_time": 1735990643,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 504336,
+        "num": 504336,
+        "word": "韩国人在上海消费能力好强",
+        "onboard_time": 1735984043,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46691,
+        "num": 501983,
+        "word": "2025年一批重大工程加速推进",
+        "onboard_time": 1735995450,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 355800,
+        "num": 499542,
+        "word": "雷军回复网友",
+        "onboard_time": 1735992810,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 284207,
+        "num": 495932,
+        "word": "排队1小时兑蛇钞蛇币到手就转卖",
+        "onboard_time": 1735987042,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 10426017,
+        "num": 491595,
+        "word": "马天宇 李明德",
+        "onboard_time": 1735991665,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1740020,
+        "num": 485978,
+        "word": "王锵上线了",
+        "onboard_time": 1735995328,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1376174,
+        "num": 481200,
+        "word": "李兰迪发言切张新成镜头",
+        "onboard_time": 1735993350,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62883,
+        "num": 478780,
+        "word": "这段视频Passion值拉满了",
+        "onboard_time": 1735986263,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256943,
+        "num": 473823,
+        "word": "已婚已育后我决定过年谁家也不回",
+        "onboard_time": 1735980982,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1285851,
+        "num": 470022,
+        "word": "虞书欣丁禹兮没坐一起",
+        "onboard_time": 1735995029,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1081121,
+        "num": 465929,
+        "word": "吴宣仪杨超越亲了",
+        "onboard_time": 1735994909,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 829694,
+        "num": 461451,
+        "word": "赵丽颖第二套",
+        "onboard_time": 1735994191,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 802772,
+        "num": 455856,
+        "word": "和颂",
+        "onboard_time": 1735991244,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74360,
+        "num": 455446,
+        "word": "家长称困境儿童该交80保费却被收400",
+        "onboard_time": 1735995328,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 350017,
+        "num": 448976,
+        "word": "马天宇微博在线",
+        "onboard_time": 1735996289,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233347,
+        "num": 446572,
+        "word": "有棵树公关部介入内裤塑料膜事件",
+        "onboard_time": 1735994730,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 194146,
+        "num": 442012,
+        "word": "智利车厘子大丰收致价格回落",
+        "onboard_time": 1735979421,
+        "rank": 17,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 183232,
+        "num": 436588,
+        "word": "巴勒斯坦代表泪洒联合国",
+        "onboard_time": 1735986683,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23187,
+        "num": 433143,
+        "word": "家长有必要帮孩子保管压岁钱吗",
+        "onboard_time": 1735996468,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 716701,
+        "num": 430846,
+        "word": "星光大赏内场",
+        "onboard_time": 1735989203,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1158761,
+        "num": 423391,
+        "word": "孟子义李昀锐跟结婚似的",
+        "onboard_time": 1735977021,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1038788,
+        "num": 419895,
+        "word": "虞书欣丁禹兮手挽手",
+        "onboard_time": 1735978403,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 639234,
+        "num": 415641,
+        "word": "顶级富二代都开始下海拍狗血短剧了",
+        "onboard_time": 1735985302,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75261,
+        "num": 414021,
+        "word": "潘展乐给教练庆生",
+        "onboard_time": 1735995269,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 633445,
+        "num": 409606,
+        "word": "成毅和赵丽颖打招呼",
+        "onboard_time": 1735995569,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406651,
+        "num": 406651,
+        "word": "CP粉过大年",
+        "onboard_time": 1735995150,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367846,
+        "num": 367846,
+        "word": "棣欣引力",
+        "onboard_time": 1735986321,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359499,
+        "num": 359499,
+        "word": "徐志胜你小子",
+        "onboard_time": 1735994968,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321415,
+        "num": 321415,
+        "word": "垫底辣孩章昊合拍视频",
+        "onboard_time": 1735992510,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 319603,
+        "num": 319603,
+        "word": "燃耀",
+        "onboard_time": 1735991967,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295280,
+        "num": 295280,
+        "word": "星光大赏切镜头",
+        "onboard_time": 1735995929,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275571,
+        "num": 275571,
+        "word": "今夕赫夕",
+        "onboard_time": 1735990103,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131190,
+        "num": 246738,
+        "word": "三亚偶遇黄圣依一家",
+        "onboard_time": 1735992810,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236916,
+        "num": 236916,
+        "word": "唐嫣高定",
+        "onboard_time": 1735981343,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228961,
+        "num": 228961,
+        "word": "3.5万买一户建女子朋友称是捡漏",
+        "onboard_time": 1735990887,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226177,
+        "num": 226177,
+        "word": "张萌礼服",
+        "onboard_time": 1735981042,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223474,
+        "num": 223474,
+        "word": "如此可爱的我们",
+        "onboard_time": 1735996769,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213103,
+        "num": 213103,
+        "word": "一欣一义",
+        "onboard_time": 1735987224,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175548,
+        "num": 210916,
+        "word": "江苏一地最新公布新生儿爆款名字",
+        "onboard_time": 1735995810,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210432,
+        "num": 210432,
+        "word": "李兰迪 血气充盈的美",
+        "onboard_time": 1735979362,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191730,
+        "num": 191730,
+        "word": "宋佳钟楚曦亲了",
+        "onboard_time": 1735980442,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189487,
+        "num": 189487,
+        "word": "星光大赏座位",
+        "onboard_time": 1735984823,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174503,
+        "num": 174503,
+        "word": "百余人参与逮捕尹锡悦失败",
+        "onboard_time": 1735995089,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 188012,
+        "num": 174086,
+        "word": "成毅星光大赏台下特写镜头",
+        "onboard_time": 1735996409,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170487,
+        "num": 170487,
+        "word": "王鹤棣星河入梦剧透不了一点",
+        "onboard_time": 1735996649,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166862,
+        "num": 166862,
+        "word": "赵丽颖内场好甜",
+        "onboard_time": 1735997008,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139071,
+        "num": 139071,
+        "word": "合格车被车检黄牛整出5个故障",
+        "onboard_time": 1735994070,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132295,
+        "num": 132295,
+        "word": "大使馆提醒在韩中国公民远离政治活动",
+        "onboard_time": 1735996528,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112742,
+        "num": 132164,
+        "word": "皇马力挺樊振东的每一个重要时刻",
+        "onboard_time": 1735987703,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#这就是中国气质#"
+    }
+  }
+}

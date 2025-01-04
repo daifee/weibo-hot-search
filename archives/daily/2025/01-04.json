@@ -1,6 +1,6 @@
 {
   "startTime": 1735921654212,
-  "endTime": 1735995333480,
+  "endTime": 1735997075778,
   "band_list": [
     {
       "raw_hot": 20690209,
@@ -123,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1740020,
+      "num": 485978,
+      "word": "王锵上线了",
+      "onboard_time": 1735995328,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1679135,
       "num": 658746,
       "word": "宋佳钟楚曦亲了",
@@ -175,6 +183,14 @@
       "num": 574604,
       "word": "丁禹兮王鹤棣同框",
       "onboard_time": 1735982602,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1285851,
+      "num": 470022,
+      "word": "虞书欣丁禹兮没坐一起",
+      "onboard_time": 1735995029,
       "rank": 12,
       "category": "综艺"
     },
@@ -283,6 +299,14 @@
       "category": "艺人,健康医疗"
     },
     {
+      "raw_hot": 1081121,
+      "num": 465929,
+      "word": "吴宣仪杨超越亲了",
+      "onboard_time": 1735994909,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1078096,
       "num": 1264002,
       "word": "韩国空难3岁遇难者最后视频曝光",
@@ -384,14 +408,6 @@
       "word": "竹林四侠 成双成对",
       "onboard_time": 1735978522,
       "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 881683,
-      "num": 417508,
-      "word": "虞书欣丁禹兮没坐一起",
-      "onboard_time": 1735995029,
-      "rank": 12,
       "category": "综艺"
     },
     {
@@ -521,6 +537,14 @@
       "onboard_time": 1735953257,
       "rank": 17,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 633445,
+      "num": 409606,
+      "word": "成毅和赵丽颖打招呼",
+      "onboard_time": 1735995569,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 611775,
@@ -747,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 406651,
+      "num": 406651,
+      "word": "CP粉过大年",
+      "onboard_time": 1735995150,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 403233,
       "num": 403233,
       "word": "谢谢你啊丁禹兮儿",
@@ -827,12 +859,28 @@
       "category": "财经,美食"
     },
     {
+      "raw_hot": 359499,
+      "num": 359499,
+      "word": "徐志胜你小子",
+      "onboard_time": 1735994968,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 356598,
       "num": 356598,
       "word": "江西抚州一女生夜跑遭40岁大叔搭讪",
       "onboard_time": 1735973180,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 355800,
+      "num": 499542,
+      "word": "雷军回复网友",
+      "onboard_time": 1735992810,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 355447,
@@ -857,6 +905,14 @@
       "onboard_time": 1735968019,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 350017,
+      "num": 448976,
+      "word": "马天宇微博在线",
+      "onboard_time": 1735996289,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 335118,
@@ -891,6 +947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 319603,
+      "num": 319603,
+      "word": "燃耀",
+      "onboard_time": 1735991967,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 316545,
       "num": 153703,
       "word": "国航 美珍香",
@@ -915,14 +979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 308000,
-      "num": 308000,
-      "word": "吴宣仪杨超越亲了",
-      "onboard_time": 1735994909,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 307939,
       "num": 307939,
       "word": "迪丽热巴三连更",
@@ -945,14 +1001,6 @@
       "onboard_time": 1735965198,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 304253,
-      "num": 304253,
-      "word": "燃耀",
-      "onboard_time": 1735991967,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 303343,
@@ -984,6 +1032,14 @@
       "word": "刘浩存王安宇cp",
       "onboard_time": 1735985542,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 295280,
+      "num": 295280,
+      "word": "星光大赏切镜头",
+      "onboard_time": 1735995929,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -1203,14 +1259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 249760,
-      "num": 446596,
-      "word": "雷军回复网友",
-      "onboard_time": 1735992810,
-      "rank": 16,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 248296,
       "num": 422471,
       "word": "央视曝光猫贷套路",
@@ -1283,12 +1331,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 234522,
-      "num": 234522,
-      "word": "徐志胜你小子",
-      "onboard_time": 1735994968,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 233347,
+      "num": 446572,
+      "word": "有棵树公关部介入内裤塑料膜事件",
+      "onboard_time": 1735994730,
+      "rank": 16,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 228829,
@@ -1313,6 +1361,14 @@
       "onboard_time": 1735914741,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 223474,
+      "num": 223474,
+      "word": "如此可爱的我们",
+      "onboard_time": 1735996769,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 223230,
@@ -1699,6 +1755,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 188012,
+      "num": 174086,
+      "word": "成毅星光大赏台下特写镜头",
+      "onboard_time": 1735996409,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187885,
       "num": 187885,
       "word": "吴敬平鼓励樊振东活出自己",
@@ -1859,6 +1923,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175548,
+      "num": 210916,
+      "word": "江苏一地最新公布新生儿爆款名字",
+      "onboard_time": 1735995810,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174503,
+      "num": 391598,
+      "word": "百余人参与逮捕尹锡悦失败",
+      "onboard_time": 1735995089,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 173569,
       "num": 385618,
       "word": "俄方称德日入常永远没戏",
@@ -1899,6 +1979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 170487,
+      "num": 170487,
+      "word": "王鹤棣星河入梦剧透不了一点",
+      "onboard_time": 1735996649,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169027,
       "num": 322645,
       "word": "地震时幼儿园30秒内转移全部孩子",
@@ -1931,6 +2019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166862,
+      "num": 166862,
+      "word": "赵丽颖内场好甜",
+      "onboard_time": 1735997008,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165955,
       "num": 165955,
       "word": "防漏姨妈内裤居然里面加一层塑料膜",
@@ -1953,14 +2049,6 @@
       "onboard_time": 1735987703,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 162959,
-      "num": 162959,
-      "word": "CP粉过大年",
-      "onboard_time": 1735995150,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 162794,
@@ -2059,14 +2147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149389,
-      "num": 391598,
-      "word": "百余人参与逮捕尹锡悦失败",
-      "onboard_time": 1735995089,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 147751,
       "num": 147751,
       "word": "一觉醒来中国队又夺冠了",
@@ -2084,7 +2164,7 @@
     },
     {
       "raw_hot": 147489,
-      "num": 147489,
+      "num": 414021,
       "word": "潘展乐给教练庆生",
       "onboard_time": 1735995269,
       "rank": 48,
@@ -2179,6 +2259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139071,
+      "num": 446465,
+      "word": "合格车被车检黄牛整出5个故障",
+      "onboard_time": 1735994070,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138782,
       "num": 138782,
       "word": "YSKM谈LPL前五上单",
@@ -2211,12 +2299,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 134377,
-      "num": 446465,
-      "word": "合格车被车检黄牛整出5个故障",
-      "onboard_time": 1735994070,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 132295,
+      "num": 132295,
+      "word": "大使馆提醒在韩中国公民远离政治活动",
+      "onboard_time": 1735996528,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 131290,
@@ -2715,6 +2803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 74360,
+      "num": 455446,
+      "word": "家长称困境儿童该交80保费却被收400",
+      "onboard_time": 1735995328,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 73872,
       "num": 326313,
       "word": "罗云熙微博之夜官宣",
@@ -2748,7 +2844,7 @@
     },
     {
       "raw_hot": 72063,
-      "num": 376401,
+      "num": 478780,
       "word": "这段视频Passion值拉满了",
       "onboard_time": 1735986263,
       "rank": 8,
@@ -2849,6 +2945,14 @@
       "onboard_time": 1735924935,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46691,
+      "num": 501983,
+      "word": "2025年一批重大工程加速推进",
+      "onboard_time": 1735995450,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 44321,
@@ -3097,6 +3201,14 @@
       "onboard_time": 1735922057,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 23187,
+      "num": 433143,
+      "word": "家长有必要帮孩子保管压岁钱吗",
+      "onboard_time": 1735996468,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21973,

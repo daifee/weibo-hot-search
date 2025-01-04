@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1735995333480,
+  "endTime": 1735997075778,
   "band_list": [
     {
       "raw_hot": 20690209,
@@ -371,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1740020,
+      "num": 485978,
+      "word": "王锵上线了",
+      "onboard_time": 1735995328,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1731317,
       "num": 1731317,
       "word": "蛇钞",
@@ -635,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1285851,
+      "num": 470022,
+      "word": "虞书欣丁禹兮没坐一起",
+      "onboard_time": 1735995029,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1279595,
       "num": 498781,
       "word": "王鹤棣你是真饿了",
@@ -881,6 +897,14 @@
       "onboard_time": 1735664063,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1081121,
+      "num": 465929,
+      "word": "吴宣仪杨超越亲了",
+      "onboard_time": 1735994909,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 1078096,
@@ -1225,14 +1249,6 @@
       "onboard_time": 1735816639,
       "rank": 34,
       "category": "网红"
-    },
-    {
-      "raw_hot": 881683,
-      "num": 417508,
-      "word": "虞书欣丁禹兮没坐一起",
-      "onboard_time": 1735995029,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 879247,
@@ -1827,6 +1843,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 633445,
+      "num": 409606,
+      "word": "成毅和赵丽颖打招呼",
+      "onboard_time": 1735995569,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 626897,
       "num": 395861,
       "word": "徐以若",
@@ -2376,30 +2400,6 @@
       "word": "唐嫣没走第二次单人红毯",
       "onboard_time": 1735987583,
       "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 504340,
-      "num": 504340,
-      "word": "买手机平板智能手表手环能省钱了",
-      "onboard_time": 1735874899,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 503506,
-      "num": 503506,
-      "word": "何炅拥抱谢娜零点照片",
-      "onboard_time": 1735834039,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 502932,
-      "num": 502932,
-      "word": "再见爱人牛了一整季",
-      "onboard_time": 1735877543,
-      "rank": 23,
       "category": "综艺"
     }
   ],
