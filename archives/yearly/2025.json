@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736073512399,
+  "endTime": 1736075832183,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -315,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2154438,
+      "num": 637792,
+      "word": "李明德称挣不到钱可以从自身找问题",
+      "onboard_time": 1736072185,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2124345,
       "num": 2124345,
       "word": "星光大赏主持人好吵",
@@ -521,6 +529,14 @@
       "onboard_time": 1735665381,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1718987,
+      "num": 635185,
+      "word": "李明德说我不装了我摊牌了",
+      "onboard_time": 1736072426,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 1703411,
@@ -881,6 +897,14 @@
       "onboard_time": 1735958537,
       "rank": 11,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 1263783,
+      "num": 1263783,
+      "word": "甲流",
+      "onboard_time": 1736071764,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1261142,
@@ -2377,30 +2401,6 @@
       "onboard_time": 1735869259,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 600749,
-      "num": 600749,
-      "word": "丁克的李健抱着他绝育的猫",
-      "onboard_time": 1735745661,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 599483,
-      "num": 570354,
-      "word": "社保局人员受贿2575万打赏主播860万",
-      "onboard_time": 1735968921,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 597582,
-      "num": 505851,
-      "word": "李炜回应",
-      "onboard_time": 1735745121,
-      "rank": 18,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

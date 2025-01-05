@@ -1,0 +1,410 @@
+{
+  "runTime": 1736075832183,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2887042,
+        "num": 2887042,
+        "word": "虞书欣 顺手的事",
+        "onboard_time": 1736072185,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1263783,
+        "num": 1263783,
+        "word": "甲流",
+        "onboard_time": 1736071764,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 28392,
+        "num": 498160,
+        "word": "古画里的隆冬之美",
+        "onboard_time": 1736064509,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 402446,
+        "num": 402446,
+        "word": "王楚钦点赞周启豪",
+        "onboard_time": 1736071226,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 397592,
+        "num": 397592,
+        "word": "全国流感病毒阳性率快速上升",
+        "onboard_time": 1736052631,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 519935,
+        "num": 394178,
+        "word": "张碧晨赵丽颖林更新合照",
+        "onboard_time": 1736069007,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 499741,
+        "num": 390314,
+        "word": "唐嫣你不欠汪小姐一个奖",
+        "onboard_time": 1736072546,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386184,
+        "num": 386184,
+        "word": "女孩初中切除左肺抗癌10年后离世",
+        "onboard_time": 1736073386,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381944,
+        "num": 381944,
+        "word": "23岁中职老师一天5节课的生活",
+        "onboard_time": 1736069845,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 349979,
+        "num": 349979,
+        "word": "在沪韩国人的规律",
+        "onboard_time": 1736071346,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348862,
+        "num": 348862,
+        "word": "穿羽绒服主持人赞莎莎不可限量",
+        "onboard_time": 1736070505,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285630,
+        "num": 348677,
+        "word": "赵丽颖看虞书欣丁禹兮",
+        "onboard_time": 1736070085,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228604,
+        "num": 348486,
+        "word": "为什么总感觉周末过得那么快",
+        "onboard_time": 1736065347,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210295,
+        "num": 348052,
+        "word": "闵塔鲨方就赵丽颖高定道歉",
+        "onboard_time": 1736059288,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203951,
+        "num": 347581,
+        "word": "值乘27年他让老乡慢火车上卖菜忙",
+        "onboard_time": 1736072845,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 186258,
+        "num": 347372,
+        "word": "女子收到50万元转账险成电诈帮凶",
+        "onboard_time": 1736067745,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249781,
+        "num": 347028,
+        "word": "丁禹兮你错过一个梗会怎样",
+        "onboard_time": 1736074047,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184380,
+        "num": 346859,
+        "word": "王者荣耀",
+        "onboard_time": 1736073027,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180912,
+        "num": 346343,
+        "word": "裴擒虎小胖FMVP皮肤",
+        "onboard_time": 1736075667,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 32890,
+        "num": 346124,
+        "word": "孟子义尼龙杂志销量",
+        "onboard_time": 1736075428,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 8103349,
+        "num": 345824,
+        "word": "李明德晒聊天记录",
+        "onboard_time": 1736063366,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1718987,
+        "num": 345458,
+        "word": "李明德说我不装了我摊牌了",
+        "onboard_time": 1736072426,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3367794,
+        "num": 345285,
+        "word": "三人行导演回应",
+        "onboard_time": 1736053351,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 621955,
+        "num": 344873,
+        "word": "古剑奇谭",
+        "onboard_time": 1736063488,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52766,
+        "num": 344492,
+        "word": "萨巴伦卡2025赛季首冠",
+        "onboard_time": 1736070865,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 344314,
+        "num": 344314,
+        "word": "王嘉尔 共鸣",
+        "onboard_time": 1736033777,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2154438,
+        "num": 343846,
+        "word": "李明德称挣不到钱可以从自身找问题",
+        "onboard_time": 1736072185,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335137,
+        "num": 335137,
+        "word": "孙珍妮 偏我来时都是春",
+        "onboard_time": 1736072306,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320571,
+        "num": 320571,
+        "word": "25岁女子体检正常半个月后确诊胃癌",
+        "onboard_time": 1736075667,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163500,
+        "num": 320516,
+        "word": "央视曝95起加油站案逃税7.9亿元",
+        "onboard_time": 1736063125,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159294,
+        "num": 320010,
+        "word": "姜尘录音",
+        "onboard_time": 1736042491,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157654,
+        "num": 319307,
+        "word": "李昀锐生图",
+        "onboard_time": 1736065047,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150880,
+        "num": 318921,
+        "word": "张家口一冬泳者被困冰层下",
+        "onboard_time": 1736067625,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144751,
+        "num": 318478,
+        "word": "众星现身央视春晚首次联排",
+        "onboard_time": 1736073088,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135015,
+        "num": 318389,
+        "word": "周杰伦迪拜演唱会上座率",
+        "onboard_time": 1736055508,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132472,
+        "num": 317570,
+        "word": "30岁博士生杜梅病逝遗书让人泪目",
+        "onboard_time": 1736075787,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123339,
+        "num": 317173,
+        "word": "奶奶你追的爱豆任豪回舞台啦",
+        "onboard_time": 1736075246,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113638,
+        "num": 316837,
+        "word": "周深快把张若昀唱哭了",
+        "onboard_time": 1736064089,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111072,
+        "num": 316501,
+        "word": "来上海的韩国人多到能总结规律了",
+        "onboard_time": 1736070505,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 110264,
+        "num": 315830,
+        "word": "19岁女生被丢高速后司机账号被封禁",
+        "onboard_time": 1736059288,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109336,
+        "num": 315748,
+        "word": "华晨宇全场买单",
+        "onboard_time": 1736063787,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104576,
+        "num": 315046,
+        "word": "绿皮火车解锁春晚等着你新皮肤",
+        "onboard_time": 1736074467,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102882,
+        "num": 314672,
+        "word": "网传王鹤棣孟子义主演烛月潮生",
+        "onboard_time": 1736065347,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100015,
+        "num": 314227,
+        "word": "马斯克评论俄乌士兵激烈肉搏",
+        "onboard_time": 1736061565,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99032,
+        "num": 313717,
+        "word": "低于这个价格可能买不到真羽绒",
+        "onboard_time": 1736046211,
+        "rank": 44,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 95720,
+        "num": 313241,
+        "word": "射雕英雄传 家永远是你的桃花岛",
+        "onboard_time": 1736066605,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95671,
+        "num": 313154,
+        "word": "穿羽绒服主持人再发声感谢孙颖莎",
+        "onboard_time": 1736072906,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94602,
+        "num": 312559,
+        "word": "任嘉伦 没有技巧就是硬帅",
+        "onboard_time": 1736073685,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88126,
+        "num": 312268,
+        "word": "赶女生在高速下车司机已被封号",
+        "onboard_time": 1736069305,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84632,
+        "num": 311790,
+        "word": "感觉成毅头上永远有个加载符号",
+        "onboard_time": 1736064026,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的2024外交足迹#"
+    }
+  }
+}
