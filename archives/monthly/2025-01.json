@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736033736545,
+  "endTime": 1736041747029,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -192,6 +192,14 @@
       "word": "赵露思走不动想去捶打腿",
       "onboard_time": 1735693338,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2469931,
+      "num": 2469931,
+      "word": "王嘉尔 共鸣",
+      "onboard_time": 1736033777,
+      "rank": 0,
       "category": "艺人"
     },
     {
@@ -499,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1625544,
+      "num": 826760,
+      "word": "徐梦洁打开微博天塌了",
+      "onboard_time": 1736039430,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1616886,
       "num": 1616886,
       "word": "星光大赏这谁啊",
@@ -616,6 +632,14 @@
       "word": "鱿鱼游戏吴京",
       "onboard_time": 1735890917,
       "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1429823,
+      "num": 750780,
+      "word": "古剑奇谭到底要塌多少次",
+      "onboard_time": 1736039368,
+      "rank": 6,
       "category": "剧集"
     },
     {
@@ -1347,6 +1371,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 880817,
+      "num": 880817,
+      "word": "16岁弟弟为救跳河姐姐不幸溺亡",
+      "onboard_time": 1736035462,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 879247,
       "num": 879247,
       "word": "鞠婧祎 行走的CD",
@@ -1801,6 +1833,14 @@
       "onboard_time": 1735778359,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 688489,
+      "num": 688489,
+      "word": "谈宋惹了全世界也要轻轻举起黄橙子",
+      "onboard_time": 1736035824,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 687973,
@@ -3193,6 +3233,14 @@
       "onboard_time": 1735908979,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 413296,
+      "num": 269122,
+      "word": "丁禹兮又争又抢",
+      "onboard_time": 1736035160,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 411522,
@@ -5235,6 +5283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 244037,
+      "num": 780670,
+      "word": "机车博主波哥车祸身亡",
+      "onboard_time": 1736014457,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 243663,
       "num": 243663,
       "word": "李行亮麦琳 双向拯救文学",
@@ -5249,6 +5305,14 @@
       "onboard_time": 1735665441,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 242806,
+      "num": 242806,
+      "word": "田曦薇领奖像走秀",
+      "onboard_time": 1736037083,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 242606,
@@ -5379,6 +5443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235372,
+      "num": 229392,
+      "word": "张碧晨 见到爱人了风都是甜的",
+      "onboard_time": 1736040331,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235273,
       "num": 235273,
       "word": "周也翟潇闻吻戏路透",
@@ -5483,12 +5555,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229666,
+      "num": 229666,
+      "word": "9个表现是身体释放的缺觉信号",
+      "onboard_time": 1736027231,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 229400,
       "num": 229400,
       "word": "原神流浪者",
       "onboard_time": 1735879042,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 229041,
+      "num": 229041,
+      "word": "就这个赵丽颖爽",
+      "onboard_time": 1736036545,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 228829,
@@ -5531,6 +5619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 226480,
+      "num": 1704270,
+      "word": "醉酒男子走向熟睡女孩父亲立即制服",
+      "onboard_time": 1736010091,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 226248,
       "num": 402878,
       "word": "男子境外失联多日曾要求家人勿报警",
@@ -5560,6 +5656,14 @@
       "word": "王一博我在湖南跨晚最佳舞台",
       "onboard_time": 1735908619,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 225412,
+      "num": 211319,
+      "word": "周柯宇举着迪丽热巴走红毯",
+      "onboard_time": 1736038046,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -5915,6 +6019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213412,
+      "num": 269159,
+      "word": "后天就是腊八节",
+      "onboard_time": 1736036484,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212851,
       "num": 212851,
       "word": "TF家族新年音乐会特权码",
@@ -5961,6 +6073,14 @@
       "onboard_time": 1735796242,
       "rank": 23,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 212165,
+      "num": 212165,
+      "word": "阿姨拍照让蒋欣让一让",
+      "onboard_time": 1736033476,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 212050,
@@ -6507,6 +6627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200103,
+      "num": 200103,
+      "word": "汪峰又发新歌了",
+      "onboard_time": 1736039249,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 199990,
       "num": 199990,
       "word": "李昀锐好像新郎官",
@@ -7003,14 +7131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190970,
-      "num": 1704270,
-      "word": "醉酒男子走向熟睡女孩父亲立即制服",
-      "onboard_time": 1736010091,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 190932,
       "num": 472137,
       "word": "银川4.8级地震原因",
@@ -7131,11 +7251,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 189264,
-      "num": 199396,
-      "word": "机车博主波哥车祸身亡",
-      "onboard_time": 1736014457,
-      "rank": 24,
+      "raw_hot": 189126,
+      "num": 689653,
+      "word": "为啥说小寒胜大寒",
+      "onboard_time": 1736041112,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -7217,6 +7337,14 @@
       "onboard_time": 1735794443,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187484,
+      "num": 187484,
+      "word": "李现苦笑",
+      "onboard_time": 1736033418,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 187379,
@@ -8475,6 +8603,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 163284,
+      "num": 163284,
+      "word": "虞书欣祝绪丹贴贴",
+      "onboard_time": 1736034498,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162975,
       "num": 304265,
       "word": "孙颖莎幼儿园时期的毕业照",
@@ -8897,6 +9033,14 @@
       "onboard_time": 1735975640,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153555,
+      "num": 269140,
+      "word": "女子偷偷用公共餐具喂狗",
+      "onboard_time": 1736040271,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153542,
@@ -9379,6 +9523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 144654,
+      "num": 115237,
+      "word": "李昀锐连续两年星光大赏坐到最后",
+      "onboard_time": 1736036844,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144597,
       "num": 144597,
       "word": "德普22岁儿子近照",
@@ -9441,6 +9593,14 @@
       "onboard_time": 1735795222,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143487,
+      "num": 269121,
+      "word": "骨骼缺陷男子扮成黄油小熊卖糖葫芦",
+      "onboard_time": 1736039430,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143425,
@@ -9843,6 +10003,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 137527,
+      "num": 410640,
+      "word": "幼儿园在厕所清洗幼儿餐具",
+      "onboard_time": 1736014278,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 137417,
       "num": 137417,
       "word": "圣吗哪乳业回应博主奶茶测评事件",
@@ -10187,14 +10355,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 131203,
-      "num": 84763,
-      "word": "9个表现是身体释放的缺觉信号",
-      "onboard_time": 1736027231,
-      "rank": 24,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 130991,
       "num": 130991,
       "word": "电影误杀3",
@@ -10353,6 +10513,14 @@
       "onboard_time": 1735717880,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127594,
+      "num": 269088,
+      "word": "小寒不寒有个暖开场",
+      "onboard_time": 1736037866,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127459,
@@ -10705,6 +10873,14 @@
       "onboard_time": 1735912399,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120287,
+      "num": 120287,
+      "word": "韩国国产白菜辣椒或将消失",
+      "onboard_time": 1736041715,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 120140,
@@ -11155,12 +11331,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109216,
+      "num": 109216,
+      "word": "WTT支持国际乒联成立专组决定",
+      "onboard_time": 1736040873,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108997,
       "num": 254976,
       "word": "两艘万吨大驱新年度起航开训",
       "onboard_time": 1735819761,
       "rank": 23,
       "category": "军事"
+    },
+    {
+      "raw_hot": 108987,
+      "num": 100503,
+      "word": "赵丽颖手握权杖",
+      "onboard_time": 1736035160,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 108920,
@@ -11235,12 +11427,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106249,
+      "num": 106249,
+      "word": "小寒",
+      "onboard_time": 1736039490,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106249,
+      "num": 99578,
+      "word": "张若昀马思纯给我也听听",
+      "onboard_time": 1736039911,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106025,
       "num": 227453,
       "word": "今天发条微博迎接2025",
       "onboard_time": 1735663765,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106015,
+      "num": 106015,
+      "word": "许昕回复节哀",
+      "onboard_time": 1736041532,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 105997,
@@ -11281,6 +11497,14 @@
       "onboard_time": 1735711580,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104856,
+      "num": 104856,
+      "word": "美媒称中国战斗机影响F35销量",
+      "onboard_time": 1736040993,
+      "rank": 42,
+      "category": "军事"
     },
     {
       "raw_hot": 104438,
@@ -11369,14 +11593,6 @@
       "onboard_time": 1735832839,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 102073,
-      "num": 410640,
-      "word": "幼儿园在厕所清洗幼儿餐具",
-      "onboard_time": 1736014278,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 101612,
@@ -11579,6 +11795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 94953,
+      "num": 94953,
+      "word": "消散对白",
+      "onboard_time": 1736038106,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94946,
       "num": 253538,
       "word": "这个冬天你买过车厘子吗",
@@ -11603,6 +11827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94812,
+      "num": 94812,
+      "word": "林高远称会扛起家的责任",
+      "onboard_time": 1736040511,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94623,
       "num": 94623,
       "word": "宋威龙小王子照进现实",
@@ -11624,6 +11856,14 @@
       "word": "蒯曼覃予萱vs陈幸同钱天一",
       "onboard_time": 1735701379,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 93007,
+      "num": 93007,
+      "word": "林高远曾陪治疗中的父亲一起剃头",
+      "onboard_time": 1736033418,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -11697,6 +11937,22 @@
       "onboard_time": 1735809859,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90473,
+      "num": 90473,
+      "word": "非遗总数世界第一是什么体验",
+      "onboard_time": 1736039309,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90074,
+      "num": 90074,
+      "word": "餐厅回应女子偷偷用公共餐具喂狗",
+      "onboard_time": 1736040091,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88699,
@@ -11891,14 +12147,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 82352,
-      "num": 82352,
-      "word": "李现苦笑",
-      "onboard_time": 1736033418,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 82173,
       "num": 333285,
       "word": "欧阳娜娜当小姨了",
@@ -12041,14 +12289,6 @@
       "onboard_time": 1735989024,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 76195,
-      "num": 72504,
-      "word": "阿姨拍照让蒋欣让一让",
-      "onboard_time": 1736033476,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 75606,
@@ -12257,14 +12497,6 @@
       "onboard_time": 1735716679,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 67263,
-      "num": 71195,
-      "word": "林高远曾陪治疗中的父亲一起剃头",
-      "onboard_time": 1736033418,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 67027,
