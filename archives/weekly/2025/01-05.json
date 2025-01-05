@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736087799357,
+  "endTime": 1736090449896,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 2126402,
-      "num": 289504,
+      "num": 295486,
       "word": "廖慧佳晒聊天记录",
       "onboard_time": 1736076265,
       "rank": 21,
@@ -185,6 +185,14 @@
       "onboard_time": 1736039430,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1692193,
+      "num": 302556,
+      "word": "至此已成艺术",
+      "onboard_time": 1736085449,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 1597104,
@@ -339,6 +347,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 912677,
+      "num": 912677,
+      "word": "贪官把个人收款码贴在办事大厅",
+      "onboard_time": 1736084310,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 908197,
       "num": 908197,
       "word": "星光大赏这谁啊",
@@ -395,6 +411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 811832,
+      "num": 811832,
+      "word": "大奉打更人热度",
+      "onboard_time": 1736088148,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 801179,
       "num": 165948,
       "word": "李明德 檀健次",
@@ -411,11 +435,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 770980,
-      "num": 284920,
-      "word": "至此已成艺术",
-      "onboard_time": 1736085449,
-      "rank": 22,
+      "raw_hot": 798641,
+      "num": 450899,
+      "word": "禁娱一解除就来泡泡的爱豆",
+      "onboard_time": 1736084670,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 797281,
+      "num": 797281,
+      "word": "秦霄贤姐姐直播",
+      "onboard_time": 1736089769,
+      "rank": 4,
       "category": "艺人"
     },
     {
@@ -424,14 +456,6 @@
       "word": "王嘉尔",
       "onboard_time": 1736033357,
       "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 752002,
-      "num": 390265,
-      "word": "禁娱一解除就来泡泡的爱豆",
-      "onboard_time": 1736084670,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -449,14 +473,6 @@
       "onboard_time": 1736052631,
       "rank": 14,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 707154,
-      "num": 707154,
-      "word": "贪官把个人收款码贴在办事大厅",
-      "onboard_time": 1736084310,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 700343,
@@ -489,6 +505,14 @@
       "onboard_time": 1736035824,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 690337,
+      "num": 444819,
+      "word": "国际乒联调查组被疑是自查",
+      "onboard_time": 1736085511,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 674390,
@@ -603,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 525149,
+      "num": 289935,
+      "word": "赵丽颖 我点头只是被自己美到了",
+      "onboard_time": 1736088929,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 518491,
       "num": 661282,
       "word": "橙光崩了",
@@ -625,6 +657,14 @@
       "onboard_time": 1735977021,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 499854,
+      "num": 499854,
+      "word": "甲流通常全身症状比较明显",
+      "onboard_time": 1736088029,
+      "rank": 5,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 499741,
@@ -675,12 +715,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 477987,
+      "raw_hot": 482604,
       "num": 354838,
       "word": "猫在洗衣机里洗了2分钟才被发现",
       "onboard_time": 1736083290,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 471997,
+      "num": 436754,
+      "word": "祝绪丹急得站起来嗑",
+      "onboard_time": 1736086299,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 460531,
@@ -721,6 +769,14 @@
       "onboard_time": 1736007335,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 430801,
+      "num": 430801,
+      "word": "香港全款400万15平米的家",
+      "onboard_time": 1736087609,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 425762,
@@ -771,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 408000,
+      "num": 408000,
+      "word": "李现来到了谢之遥的有风小院",
+      "onboard_time": 1736084370,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 404661,
       "num": 404661,
       "word": "女孩初中切除左肺抗癌10年后离世",
@@ -819,14 +883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 387550,
-      "num": 387550,
-      "word": "国际乒联调查组被疑是自查",
-      "onboard_time": 1736085511,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 375984,
       "num": 2672265,
       "word": "韩国国产白菜辣椒或将消失",
@@ -841,14 +897,6 @@
       "onboard_time": 1736085630,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 371062,
-      "num": 371062,
-      "word": "李现来到了谢之遥的有风小院",
-      "onboard_time": 1736084370,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 370044,
@@ -881,6 +929,14 @@
       "onboard_time": 1736046751,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 361376,
+      "num": 361376,
+      "word": "ive预告",
+      "onboard_time": 1736088389,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 358121,
@@ -1131,12 +1187,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 277832,
+      "num": 277832,
+      "word": "12岁失踪30天男孩曾在监控下呼救",
+      "onboard_time": 1736090429,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 275746,
       "num": 275746,
       "word": "秦志戬前往林高远家中探望",
       "onboard_time": 1736082088,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 274397,
+      "num": 274397,
+      "word": "无畏契约",
+      "onboard_time": 1736088510,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 272190,
@@ -1243,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249842,
+      "num": 249842,
+      "word": "夏之光晒和代露娃合照",
+      "onboard_time": 1736089769,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247674,
       "num": 646202,
       "word": "周杰伦迪拜演唱会上座率",
@@ -1273,6 +1353,14 @@
       "onboard_time": 1736057189,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241905,
+      "num": 241905,
+      "word": "白桃星座",
+      "onboard_time": 1736089529,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 240690,
@@ -1323,6 +1411,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 230490,
+      "num": 230490,
+      "word": "永夜星河售后",
+      "onboard_time": 1736089589,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229666,
       "num": 989084,
       "word": "9个表现是身体释放的缺觉信号",
@@ -1345,6 +1441,14 @@
       "onboard_time": 1736010091,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225836,
+      "num": 225836,
+      "word": "檀健次终于跳上晚安大小姐了",
+      "onboard_time": 1736087249,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 225412,
@@ -1475,14 +1579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205681,
-      "num": 205681,
-      "word": "祝绪丹急得站起来嗑",
-      "onboard_time": 1736086299,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 203951,
       "num": 347581,
       "word": "值乘27年他让老乡慢火车上卖菜忙",
@@ -1555,14 +1651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 197594,
-      "num": 197594,
-      "word": "檀健次终于跳上晚安大小姐了",
-      "onboard_time": 1736087249,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197239,
       "num": 346859,
       "word": "王者荣耀",
@@ -1593,6 +1681,14 @@
       "onboard_time": 1736061565,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 194155,
+      "num": 390810,
+      "word": "多地流感神药需求暴涨",
+      "onboard_time": 1736085991,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194072,
@@ -1731,6 +1827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168185,
+      "num": 455009,
+      "word": "央视起底虹膜写真暗藏风险",
+      "onboard_time": 1736089469,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 167812,
       "num": 167812,
       "word": "陶喆获2024百大UP主",
@@ -1819,6 +1923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156099,
+      "num": 156099,
+      "word": "孟子义 在综艺上一演戏就有负担",
+      "onboard_time": 1736090069,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154854,
       "num": 647822,
       "word": "经济学家建议补贴初婚初育",
@@ -1876,7 +1988,7 @@
     },
     {
       "raw_hot": 151260,
-      "num": 151260,
+      "num": 859017,
       "word": "近期流感高发如何做好防护",
       "onboard_time": 1736077347,
       "rank": 47,
@@ -1947,20 +2059,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141924,
-      "num": 390810,
-      "word": "多地流感神药需求暴涨",
-      "onboard_time": 1736085991,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 141868,
-      "num": 141868,
-      "word": "香港全款400万15平米的家",
-      "onboard_time": 1736087609,
-      "rank": 47,
-      "category": "情感"
+      "raw_hot": 139723,
+      "num": 139723,
+      "word": "seventeen获金唱片专辑部门大赏",
+      "onboard_time": 1736088989,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 137527,
@@ -2001,6 +2105,14 @@
       "onboard_time": 1736046150,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133198,
+      "num": 133198,
+      "word": "业内人士称樊振东炙手可热",
+      "onboard_time": 1736088449,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 131088,
@@ -2507,6 +2619,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 71829,
+      "num": 290476,
+      "word": "九尾打卡张远演唱会",
+      "onboard_time": 1736089950,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 71280,
       "num": 245384,
       "word": "21年前出租车女司机载客遇害案告破",
@@ -2729,6 +2849,14 @@
       "onboard_time": 1736064447,
       "rank": 2,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 42943,
+      "num": 416658,
+      "word": "公寓烟道被堵油烟全往一家钻",
+      "onboard_time": 1736089649,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42272,
