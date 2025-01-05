@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736055444592,
+  "endTime": 1736058576833,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -35,8 +35,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 10769451,
-      "num": 10769451,
+      "raw_hot": 11462703,
+      "num": 11462703,
       "word": "三人行导演回应",
       "onboard_time": 1736053351,
       "rank": 3,
@@ -123,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1597104,
+      "num": 239114,
+      "word": "微博删下",
+      "onboard_time": 1736056169,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1552163,
       "num": 4604495,
       "word": "明德元年",
@@ -163,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1202584,
+      "num": 4829696,
+      "word": "姜尘录音",
+      "onboard_time": 1736042491,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1173212,
       "num": 4245691,
       "word": "三人行",
@@ -187,14 +203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1002046,
-      "num": 4829696,
-      "word": "姜尘录音",
-      "onboard_time": 1736042491,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 991255,
       "num": 991255,
       "word": "马天宇微博在线",
@@ -216,6 +224,14 @@
       "word": "星光大赏这谁啊",
       "onboard_time": 1735999949,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 881974,
+      "num": 621349,
+      "word": "虞书欣星光大赏出图",
+      "onboard_time": 1736057249,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -275,6 +291,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 661108,
+      "num": 2763450,
+      "word": "谷雨 蒋奇明",
+      "onboard_time": 1736054848,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 628232,
+      "num": 4077017,
+      "word": "全国流感病毒阳性率快速上升",
+      "onboard_time": 1736052631,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 626433,
       "num": 626433,
       "word": "禹宙中欣",
@@ -299,12 +331,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 598642,
+      "num": 598642,
+      "word": "互撕撕不出观众心中的男一号",
+      "onboard_time": 1736056894,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 554927,
       "num": 554927,
       "word": "王锵上线了",
       "onboard_time": 1735995328,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 526354,
+      "num": 2771686,
+      "word": "网友用樊振东身份证号发红包后致歉",
+      "onboard_time": 1736051129,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 523147,
+      "num": 523147,
+      "word": "古相思曲",
+      "onboard_time": 1736057069,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 518143,
@@ -459,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 321828,
+      "num": 321828,
+      "word": "丁禹兮现身蛇年春晚联排",
+      "onboard_time": 1736055508,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 316721,
       "num": 2760345,
       "word": "虞书欣祝绪丹贴贴",
@@ -467,20 +531,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 313947,
-      "num": 2771686,
-      "word": "网友用樊振东身份证号发红包后致歉",
-      "onboard_time": 1736051129,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 311870,
       "num": 311870,
       "word": "星光大赏获奖名单",
       "onboard_time": 1735997429,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 303421,
+      "num": 627003,
+      "word": "清华北大不是谁的揽客招牌",
+      "onboard_time": 1736057249,
+      "rank": 5,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 284261,
@@ -495,6 +559,14 @@
       "num": 5252758,
       "word": "韩国人被红烧肉羊肉串和火锅硬控",
       "onboard_time": 1736049749,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 279212,
+      "num": 2699090,
+      "word": "农村宅基地废弃面积760万公顷",
+      "onboard_time": 1736053589,
       "rank": 9,
       "category": "民生新闻"
     },
@@ -547,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 253818,
+      "num": 4182080,
+      "word": "以色列遭导弹袭击",
+      "onboard_time": 1736054549,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 253704,
       "num": 5024700,
       "word": "专家称宅基地进入市场价值达1.3万亿",
@@ -563,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252065,
+      "num": 2700372,
+      "word": "后天就是腊八节",
+      "onboard_time": 1736036484,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 251865,
       "num": 251865,
       "word": "李雪琴演我嗑昀牵孟绕",
@@ -571,12 +659,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251448,
+      "num": 251448,
+      "word": "孟子义说要去录歌周一围笑了",
+      "onboard_time": 1736058088,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 247674,
+      "num": 239137,
+      "word": "周杰伦迪拜演唱会上座率",
+      "onboard_time": 1736055508,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 244037,
       "num": 985761,
       "word": "机车博主波哥车祸身亡",
       "onboard_time": 1736014457,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 239433,
+      "num": 239433,
+      "word": "李相夷用婆娑步震惊范闲",
+      "onboard_time": 1736057189,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 239084,
+      "num": 2754062,
+      "word": "大奉打更人17集20分03秒",
+      "onboard_time": 1736054128,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 237635,
@@ -593,22 +713,6 @@
       "onboard_time": 1736049211,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 234488,
-      "num": 4077017,
-      "word": "全国流感病毒阳性率快速上升",
-      "onboard_time": 1736052631,
-      "rank": 14,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 230484,
-      "num": 2763450,
-      "word": "谷雨 蒋奇明",
-      "onboard_time": 1736054848,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 229666,
@@ -643,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222561,
+      "num": 305304,
+      "word": "白敬亭官宣2024微博之夜",
+      "onboard_time": 1736053409,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 221092,
       "num": 221092,
       "word": "成毅上台 尖叫声",
@@ -659,14 +771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213412,
-      "num": 2700372,
-      "word": "后天就是腊八节",
-      "onboard_time": 1736036484,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 211747,
       "num": 1226389,
       "word": "林高远发文称会直面自己的起伏",
@@ -680,6 +784,14 @@
       "word": "白鹿参加春晚联排路透",
       "onboard_time": 1736049389,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 203733,
+      "num": 203733,
+      "word": "谁懂唐嫣挥手微笑这一下",
+      "onboard_time": 1736056710,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -715,6 +827,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196202,
+      "num": 196202,
+      "word": "白鹿说白月梵星有五个副本",
+      "onboard_time": 1736057848,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 194072,
+      "num": 2718764,
+      "word": "李昀锐 紧急撤回笑容",
+      "onboard_time": 1736052030,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 188640,
+      "num": 188640,
+      "word": "没人告诉我吴宇恒是bking",
+      "onboard_time": 1736055869,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187484,
       "num": 187484,
       "word": "李现苦笑",
@@ -737,6 +873,14 @@
       "onboard_time": 1736010211,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175469,
+      "num": 175469,
+      "word": "嘀嗒发布19岁女孩被扔高速情况说明",
+      "onboard_time": 1736057549,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173512,
@@ -787,14 +931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 158577,
-      "num": 2754062,
-      "word": "大奉打更人17集20分03秒",
-      "onboard_time": 1736054128,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 157571,
       "num": 986561,
       "word": "WTT支持国际乒联成立专组决定",
@@ -809,6 +945,14 @@
       "onboard_time": 1735994730,
       "rank": 17,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 154356,
+      "num": 4696719,
+      "word": "官方回应西安网红冰瀑系野景区",
+      "onboard_time": 1736054549,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152584,
@@ -827,15 +971,15 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145299,
-      "num": 2718764,
-      "word": "李昀锐 紧急撤回笑容",
-      "onboard_time": 1736052030,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 148025,
+      "num": 148025,
+      "word": "尼龙孟子义2025开年刊",
+      "onboard_time": 1736057968,
+      "rank": 45,
+      "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 139841,
+      "raw_hot": 144065,
       "num": 2678947,
       "word": "甲流7日病程用药图",
       "onboard_time": 1736048969,
@@ -859,7 +1003,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130018,
+      "raw_hot": 132434,
       "num": 2691682,
       "word": "小寒一过年味越来越浓了",
       "onboard_time": 1736043872,
@@ -1067,14 +1211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 90045,
-      "num": 2699090,
-      "word": "农村宅基地废弃面积760万公顷",
-      "onboard_time": 1736053589,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85709,
       "num": 530256,
       "word": "雷军回复网友",
@@ -1155,6 +1291,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 69807,
+      "num": 607560,
+      "word": "收音机空调不正常过不了车检是谣言",
+      "onboard_time": 1736057069,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 69055,
       "num": 220571,
       "word": "百余人参与逮捕尹锡悦失败",
@@ -1169,14 +1313,6 @@
       "onboard_time": 1735998268,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 63830,
-      "num": 305304,
-      "word": "白敬亭官宣2024微博之夜",
-      "onboard_time": 1736053409,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 63322,
@@ -1243,12 +1379,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 49557,
-      "num": 4182080,
-      "word": "以色列遭导弹袭击",
-      "onboard_time": 1736054549,
-      "rank": 14,
-      "category": "国际时政"
+      "raw_hot": 50740,
+      "num": 363324,
+      "word": "被家暴16次女子总结2024",
+      "onboard_time": 1736058268,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47365,
@@ -1289,6 +1425,14 @@
       "onboard_time": 1736052700,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 40220,
+      "num": 4463161,
+      "word": "于适把新年剪纸玩出花",
+      "onboard_time": 1736054249,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 37627,
@@ -1361,22 +1505,6 @@
       "onboard_time": 1736024412,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26994,
-      "num": 4463161,
-      "word": "于适把新年剪纸玩出花",
-      "onboard_time": 1736054249,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 25941,
-      "num": 4696719,
-      "word": "官方回应西安网红冰瀑系野景区",
-      "onboard_time": 1736054549,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21464,
