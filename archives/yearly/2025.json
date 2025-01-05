@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736048611863,
+  "endTime": 1736051144968,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 18725300,
-      "num": 11411056,
+      "num": 12145205,
       "word": "马天宇 李明德",
       "onboard_time": 1735991665,
       "rank": 5,
@@ -105,6 +105,14 @@
       "onboard_time": 1736005415,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 4846940,
+      "num": 1237235,
+      "word": "廖慧佳发长文指责李明德",
+      "onboard_time": 1736048910,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 4269334,
@@ -587,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1533322,
+      "num": 1157786,
+      "word": "孙琳 娱乐圈最勇的人出现了",
+      "onboard_time": 1736048189,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1522027,
       "num": 885838,
       "word": "胖东来员工结婚无力购置房车可先租房",
@@ -651,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1442075,
+      "num": 1014638,
+      "word": "明德元年",
+      "onboard_time": 1736047111,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1431979,
       "num": 860590,
       "word": "鱿鱼游戏吴京",
@@ -713,6 +737,14 @@
       "onboard_time": 1735981042,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1336088,
+      "num": 3879100,
+      "word": "低于这个价格可能买不到真羽绒",
+      "onboard_time": 1736046211,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1335219,
@@ -1105,6 +1137,14 @@
       "onboard_time": 1735916000,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1008575,
+      "num": 1008575,
+      "word": "于正谈年轻时被不公平对待",
+      "onboard_time": 1736046811,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 1002171,
@@ -2235,6 +2275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 593741,
+      "num": 593741,
+      "word": "蛇年央视春晚首次联排",
+      "onboard_time": 1736048249,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 592770,
       "num": 592770,
       "word": "戚薇你根本没喝中药",
@@ -2352,54 +2400,6 @@
       "word": "傅菁后背痣好大方的美",
       "onboard_time": 1735975341,
       "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 566784,
-      "num": 523330,
-      "word": "小怡同学 庞博文",
-      "onboard_time": 1735818620,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 565573,
-      "num": 565573,
-      "word": "韩国公调处尝试抓捕尹锡悦",
-      "onboard_time": 1735867400,
-      "rank": 6,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 560735,
-      "num": 410237,
-      "word": "祝绪丹杨仕泽一起去澳门",
-      "onboard_time": 1735899980,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 559533,
-      "num": 389245,
-      "word": "白月梵星定档",
-      "onboard_time": 1735895241,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 558972,
-      "num": 349620,
-      "word": "5斤整装车厘子复秤少半斤",
-      "onboard_time": 1735896081,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 556242,
-      "num": 556242,
-      "word": "杨幂情商",
-      "onboard_time": 1735721479,
-      "rank": 3,
       "category": "综艺"
     }
   ],

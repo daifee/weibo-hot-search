@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736048611863,
+  "endTime": 1736051144968,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 18725300,
-      "num": 11411056,
+      "num": 12145205,
       "word": "马天宇 李明德",
       "onboard_time": 1735991665,
       "rank": 5,
@@ -57,6 +57,14 @@
       "onboard_time": 1736000553,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 4846940,
+      "num": 1237235,
+      "word": "廖慧佳发长文指责李明德",
+      "onboard_time": 1736048910,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 3716611,
@@ -107,12 +115,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1533322,
+      "num": 1157786,
+      "word": "孙琳 娱乐圈最勇的人出现了",
+      "onboard_time": 1736048189,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1488536,
       "num": 1488536,
       "word": "古剑奇谭到底要塌多少次",
       "onboard_time": 1736039368,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1442075,
+      "num": 1014638,
+      "word": "明德元年",
+      "onboard_time": 1736047111,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1336088,
+      "num": 3879100,
+      "word": "低于这个价格可能买不到真羽绒",
+      "onboard_time": 1736046211,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1335219,
@@ -129,6 +161,14 @@
       "onboard_time": 1736011465,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1008575,
+      "num": 1008575,
+      "word": "于正谈年轻时被不公平对待",
+      "onboard_time": 1736046811,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 1002171,
@@ -235,19 +275,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 593741,
+      "num": 593741,
+      "word": "蛇年央视春晚首次联排",
+      "onboard_time": 1736048249,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 554927,
       "num": 554927,
       "word": "王锵上线了",
       "onboard_time": 1735995328,
       "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 532734,
-      "num": 532734,
-      "word": "于正谈年轻时被不公平对待",
-      "onboard_time": 1736046811,
-      "rank": 23,
       "category": "艺人"
     },
     {
@@ -265,14 +305,6 @@
       "onboard_time": 1735977021,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 498577,
-      "num": 3879100,
-      "word": "低于这个价格可能买不到真羽绒",
-      "onboard_time": 1736046211,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 497983,
@@ -355,6 +387,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 370745,
+      "num": 370745,
+      "word": "唐嫣发言",
+      "onboard_time": 1736047830,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 367579,
+      "num": 1284905,
+      "word": "梅西没去领拜登授予的总统自由勋章",
+      "onboard_time": 1736047230,
+      "rank": 17,
+      "category": "国际时政,体育"
+    },
+    {
       "raw_hot": 349057,
       "num": 1097778,
       "word": "果然爱老婆会发达",
@@ -372,19 +420,27 @@
     },
     {
       "raw_hot": 345768,
-      "num": 990355,
+      "num": 1069088,
       "word": "为啥说小寒胜大寒",
       "onboard_time": 1736041112,
       "rank": 9,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 317042,
-      "num": 290850,
-      "word": "明德元年",
-      "onboard_time": 1736047111,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 342995,
+      "num": 1132624,
+      "word": "台球女助教被客人开球砸到手指骨折",
+      "onboard_time": 1736046751,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 330157,
+      "num": 330157,
+      "word": "娱乐圈没有女明星可怎么办",
+      "onboard_time": 1736047410,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 311870,
@@ -395,19 +451,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301407,
+      "num": 987411,
+      "word": "虞书欣祝绪丹贴贴",
+      "onboard_time": 1736034498,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284261,
       "num": 284261,
       "word": "孙乐言好大气",
       "onboard_time": 1736008654,
       "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 276539,
-      "num": 987411,
-      "word": "虞书欣祝绪丹贴贴",
-      "onboard_time": 1736034498,
-      "rank": 32,
       "category": "综艺"
     },
     {
@@ -457,14 +513,6 @@
       "onboard_time": 1736041532,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 255594,
-      "num": 445959,
-      "word": "梅西没去领拜登授予的总统自由勋章",
-      "onboard_time": 1736047230,
-      "rank": 17,
-      "category": "国际时政,体育"
     },
     {
       "raw_hot": 252594,
@@ -539,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220948,
+      "num": 300141,
+      "word": "成毅在哪摔跤就在哪社交",
+      "onboard_time": 1736049211,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219131,
       "num": 219131,
       "word": "INTO1敢不敢合体",
@@ -563,12 +619,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 210380,
-      "num": 292876,
-      "word": "台球女助教被客人开球砸到手指骨折",
-      "onboard_time": 1736046751,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 207691,
+      "num": 299977,
+      "word": "白鹿参加春晚联排路透",
+      "onboard_time": 1736049389,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 200238,
@@ -595,14 +651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187410,
-      "num": 187410,
-      "word": "蛇年央视春晚首次联排",
-      "onboard_time": 1736048249,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 177398,
       "num": 4018074,
       "word": "韩国人在上海消费能力好强",
@@ -619,12 +667,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 174042,
-      "num": 174042,
-      "word": "唐嫣发言",
-      "onboard_time": 1736047830,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 173512,
+      "num": 493070,
+      "word": "用中式美学打开2025第一个节气",
+      "onboard_time": 1736049091,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168845,
+      "num": 296692,
+      "word": "张若昀把人生的真心给了范闲",
+      "onboard_time": 1736050229,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 167631,
+      "num": 1074793,
+      "word": "韩国人被红烧肉羊肉串和火锅硬控",
+      "onboard_time": 1736049749,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166892,
@@ -633,14 +697,6 @@
       "onboard_time": 1736040993,
       "rank": 42,
       "category": "军事"
-    },
-    {
-      "raw_hot": 163323,
-      "num": 163323,
-      "word": "娱乐圈没有女明星可怎么办",
-      "onboard_time": 1736047410,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 162169,
@@ -763,14 +819,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 116531,
-      "num": 116531,
-      "word": "孙琳 娱乐圈最勇的人出现了",
-      "onboard_time": 1736048189,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 115719,
       "num": 909650,
       "word": "排队1小时兑蛇钞蛇币到手就转卖",
@@ -819,12 +867,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104113,
+      "num": 295736,
+      "word": "国色芳华OST试听",
+      "onboard_time": 1736050890,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103701,
       "num": 1334459,
       "word": "驻洛杉矶总领馆发布提醒",
       "onboard_time": 1736010568,
       "rank": 49,
       "category": "国际时政,国内时政"
+    },
+    {
+      "raw_hot": 103538,
+      "num": 295306,
+      "word": "星光大赏",
+      "onboard_time": 1736036545,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 101346,
@@ -843,14 +907,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 96850,
-      "num": 96850,
-      "word": "星光大赏",
-      "onboard_time": 1736036545,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 96025,
       "num": 988871,
       "word": "林高远称会扛起家的责任",
@@ -865,6 +921,14 @@
       "onboard_time": 1736038106,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 94366,
+      "num": 293864,
+      "word": "甲流7日病程用药图",
+      "onboard_time": 1736048969,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 93007,
