@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736080805600,
+  "endTime": 1736081702703,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -121,6 +121,14 @@
       "onboard_time": 1736005415,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 5968252,
+      "num": 192519,
+      "word": "李明德直播",
+      "onboard_time": 1736081009,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 5865317,
@@ -1243,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1004763,
+      "num": 1004763,
+      "word": "国考",
+      "onboard_time": 1736078126,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1002171,
       "num": 1002171,
       "word": "李明德涨粉",
@@ -1419,6 +1435,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 942900,
+      "num": 473139,
+      "word": "30岁博士生杜梅病逝遗书让人泪目",
+      "onboard_time": 1736075787,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 938605,
       "num": 1150176,
       "word": "医生称森碟下巴后缩或影响口腔功能",
@@ -1512,14 +1536,6 @@
       "word": "超市因员工集体盗窃亏损200万倒闭",
       "onboard_time": 1735750698,
       "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 894748,
-      "num": 473139,
-      "word": "30岁博士生杜梅病逝遗书让人泪目",
-      "onboard_time": 1736075787,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -2171,14 +2187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 660653,
-      "num": 660653,
-      "word": "国考",
-      "onboard_time": 1736078126,
-      "rank": 1,
-      "category": "教育"
-    },
-    {
       "raw_hot": 657885,
       "num": 547152,
       "word": "十个勤天 春晚",
@@ -2315,6 +2323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 621932,
+      "num": 621932,
+      "word": "韩国客机失事前疑撞上鸟群画面曝光",
+      "onboard_time": 1736079868,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 620993,
       "num": 620993,
       "word": "女员工伪造怀孕B超单逃避服刑",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1735654770,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 606493,
-      "num": 606493,
-      "word": "星光大赏导播 顺手的事",
-      "onboard_time": 1736001934,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 605343,
-      "num": 605343,
-      "word": "四大预爆艺人微博之夜来了仨",
-      "onboard_time": 1735900761,
-      "rank": 49,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1736081702703,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1103711,
+        "num": 1176593,
+        "word": "甲流",
+        "onboard_time": 1736071764,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1004763,
+        "num": 1004763,
+        "word": "国考",
+        "onboard_time": 1736078126,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 43290,
+        "num": 760909,
+        "word": "小寒节气冬日氛围更浓了",
+        "onboard_time": 1736064447,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 621932,
+        "num": 621932,
+        "word": "韩国客机失事前疑撞上鸟群画面曝光",
+        "onboard_time": 1736079868,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 405139,
+        "num": 405139,
+        "word": "孙珍妮 偏我来时都是春",
+        "onboard_time": 1736072306,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1117012,
+        "num": 395371,
+        "word": "虞书欣 顺手的事",
+        "onboard_time": 1736072185,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 942900,
+        "num": 368907,
+        "word": "30岁博士生杜梅病逝遗书让人泪目",
+        "onboard_time": 1736075787,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341228,
+        "num": 341228,
+        "word": "贵女",
+        "onboard_time": 1736079328,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290914,
+        "num": 290914,
+        "word": "宋威龙好像单独开了滤镜",
+        "onboard_time": 1736076686,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240732,
+        "num": 267197,
+        "word": "全国流感病毒阳性率快速上升",
+        "onboard_time": 1736052631,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 250888,
+        "num": 250888,
+        "word": "小猫皮草传到了国外",
+        "onboard_time": 1736080888,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242460,
+        "num": 242460,
+        "word": "唐嫣你不欠汪小姐一个奖",
+        "onboard_time": 1736072546,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237297,
+        "num": 237297,
+        "word": "26岁抗癌博主小黄同学离世",
+        "onboard_time": 1736075906,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 232858,
+        "num": 232858,
+        "word": "文俊辉舞台",
+        "onboard_time": 1736079146,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 213263,
+        "num": 213263,
+        "word": "赵今麦 我家有女初长成",
+        "onboard_time": 1736080949,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202588,
+        "num": 202588,
+        "word": "乒乓世界",
+        "onboard_time": 1736076207,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201355,
+        "num": 201355,
+        "word": "王皓说林高远是男队不可或缺的一员",
+        "onboard_time": 1736078937,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197344,
+        "num": 197344,
+        "word": "中式烧烤刷屏韩国社交媒体",
+        "onboard_time": 1736078968,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 193111,
+        "num": 193111,
+        "word": "女孩初中切除左肺抗癌10年后离世",
+        "onboard_time": 1736073386,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145003,
+        "num": 193043,
+        "word": "目前流感病毒99%以上是甲流",
+        "onboard_time": 1736081487,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8251054,
+        "num": 192757,
+        "word": "李明德晒聊天记录",
+        "onboard_time": 1736063366,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201781,
+        "num": 192568,
+        "word": "丁禹兮你错过一个梗会怎样",
+        "onboard_time": 1736074047,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 5968252,
+        "num": 192519,
+        "word": "李明德直播",
+        "onboard_time": 1736081009,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 568235,
+        "num": 192274,
+        "word": "25岁女子体检正常半个月后确诊胃癌",
+        "onboard_time": 1736075667,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 33450,
+        "num": 192132,
+        "word": "打工人花式去班味儿",
+        "onboard_time": 1736079868,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64336,
+        "num": 191971,
+        "word": "乒协和队伍一直都是林高远的坚强后盾",
+        "onboard_time": 1736079146,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2856661,
+        "num": 191827,
+        "word": "三人行导演回应",
+        "onboard_time": 1736053351,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2298148,
+        "num": 191660,
+        "word": "李明德老先生们我尽力了",
+        "onboard_time": 1736077046,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1559335,
+        "num": 191392,
+        "word": "廖慧佳晒聊天记录",
+        "onboard_time": 1736076265,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358121,
+        "num": 191226,
+        "word": "跑男全员爆哭",
+        "onboard_time": 1736077106,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300975,
+        "num": 191071,
+        "word": "赵丽颖更新朋友圈",
+        "onboard_time": 1736077406,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270288,
+        "num": 190940,
+        "word": "愚昧的小女孩",
+        "onboard_time": 1736076265,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208328,
+        "num": 190677,
+        "word": "宋雨琦金唱片最佳solo艺人",
+        "onboard_time": 1736080768,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 205762,
+        "num": 190455,
+        "word": "古剑奇谭",
+        "onboard_time": 1736063488,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65453,
+        "num": 190238,
+        "word": "接所有考试全部通过",
+        "onboard_time": 1736081550,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 284253,
+        "num": 190099,
+        "word": "张碧晨赵丽颖林更新合照",
+        "onboard_time": 1736069007,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190036,
+        "num": 190036,
+        "word": "整栋楼都醒了就妹妹没醒",
+        "onboard_time": 1736078968,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159945,
+        "num": 185256,
+        "word": "被困冰层下冬泳者已被打捞上岸",
+        "onboard_time": 1736078937,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181761,
+        "num": 181761,
+        "word": "aespa宁宁减肥前后对比",
+        "onboard_time": 1736081309,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168502,
+        "num": 168502,
+        "word": "王昶坐上了裁判椅",
+        "onboard_time": 1736076027,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179267,
+        "num": 163244,
+        "word": "只有我注意旁边那个男的的口红了吗",
+        "onboard_time": 1736081428,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156280,
+        "num": 156280,
+        "word": "丁禹兮 陪伴虞书欣每一个第一次",
+        "onboard_time": 1736077527,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145538,
+        "num": 145538,
+        "word": "黄景瑜daddy是一种感觉",
+        "onboard_time": 1736081368,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143185,
+        "num": 143185,
+        "word": "医生说6种病是衰老正常现象",
+        "onboard_time": 1736080409,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138329,
+        "num": 138329,
+        "word": "猎罪图鉴3宣传词出来了",
+        "onboard_time": 1736081550,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134485,
+        "num": 134485,
+        "word": "成为了被孙颖莎的善意关照的女孩",
+        "onboard_time": 1736078667,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130449,
+        "num": 130449,
+        "word": "林一硬控男粉",
+        "onboard_time": 1736080708,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125656,
+        "num": 125656,
+        "word": "王楚钦点赞周启豪",
+        "onboard_time": 1736071226,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119738,
+        "num": 119738,
+        "word": "林高远坚持完成比赛才匆匆回家陪伴父亲",
+        "onboard_time": 1736076448,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117456,
+        "num": 117456,
+        "word": "反腐为了人民第一集",
+        "onboard_time": 1736080888,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的2024外交足迹#"
+    }
+  }
+}

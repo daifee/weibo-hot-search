@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736080805600,
+  "endTime": 1736081702703,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -121,6 +121,14 @@
       "onboard_time": 1736005415,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 5968252,
+      "num": 192519,
+      "word": "李明德直播",
+      "onboard_time": 1736081009,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 5865317,
@@ -1243,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1004763,
+      "num": 1004763,
+      "word": "国考",
+      "onboard_time": 1736078126,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1002171,
       "num": 1002171,
       "word": "李明德涨粉",
@@ -1419,6 +1435,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 942900,
+      "num": 473139,
+      "word": "30岁博士生杜梅病逝遗书让人泪目",
+      "onboard_time": 1736075787,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 938605,
       "num": 1150176,
       "word": "医生称森碟下巴后缩或影响口腔功能",
@@ -1512,14 +1536,6 @@
       "word": "超市因员工集体盗窃亏损200万倒闭",
       "onboard_time": 1735750698,
       "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 894748,
-      "num": 473139,
-      "word": "30岁博士生杜梅病逝遗书让人泪目",
-      "onboard_time": 1736075787,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -2171,14 +2187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 660653,
-      "num": 660653,
-      "word": "国考",
-      "onboard_time": 1736078126,
-      "rank": 1,
-      "category": "教育"
-    },
-    {
       "raw_hot": 657885,
       "num": 547152,
       "word": "十个勤天 春晚",
@@ -2313,6 +2321,14 @@
       "onboard_time": 1735817059,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 621932,
+      "num": 621932,
+      "word": "韩国客机失事前疑撞上鸟群画面曝光",
+      "onboard_time": 1736079868,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 620993,
@@ -4179,6 +4195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 358121,
+      "num": 207090,
+      "word": "跑男全员爆哭",
+      "onboard_time": 1736077106,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 357754,
       "num": 357754,
       "word": "毛不易 雪琴我那么握因为我是独唱",
@@ -4411,6 +4435,14 @@
       "category": "艺人,健康医疗"
     },
     {
+      "raw_hot": 341228,
+      "num": 341228,
+      "word": "贵女",
+      "onboard_time": 1736079328,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 341025,
       "num": 271254,
       "word": "00后男生耐得住寂寞一天做上百条女裤",
@@ -4624,14 +4656,6 @@
       "word": "王鹤棣转场太可以了",
       "onboard_time": 1735659146,
       "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 323193,
-      "num": 207090,
-      "word": "跑男全员爆哭",
-      "onboard_time": 1736077106,
-      "rank": 28,
       "category": "综艺"
     },
     {
@@ -5179,6 +5203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 290914,
+      "num": 290914,
+      "word": "宋威龙好像单独开了滤镜",
+      "onboard_time": 1736076686,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 290450,
       "num": 290450,
       "word": "樊振东MLB中国区冠军荣耀大使",
@@ -5361,14 +5393,6 @@
       "onboard_time": 1736036484,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 279981,
-      "num": 279981,
-      "word": "宋威龙好像单独开了滤镜",
-      "onboard_time": 1736076686,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 279221,
@@ -5819,6 +5843,14 @@
       "category": "体育,综艺"
     },
     {
+      "raw_hot": 250888,
+      "num": 250888,
+      "word": "小猫皮草传到了国外",
+      "onboard_time": 1736080888,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 250425,
       "num": 221528,
       "word": "小孩 你欺负到蛋糕店千金了",
@@ -6097,14 +6129,6 @@
       "onboard_time": 1735791262,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 241378,
-      "num": 241378,
-      "word": "贵女",
-      "onboard_time": 1736079328,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 240883,
@@ -6811,6 +6835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213263,
+      "num": 213263,
+      "word": "赵今麦 我家有女初长成",
+      "onboard_time": 1736080949,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213258,
       "num": 213258,
       "word": "没人告诉我吴宇恒是bking",
@@ -7001,6 +7033,14 @@
       "onboard_time": 1735666100,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208328,
+      "num": 195430,
+      "word": "宋雨琦金唱片最佳solo艺人",
+      "onboard_time": 1736080768,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 207691,
@@ -7627,6 +7667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197344,
+      "num": 257487,
+      "word": "中式烧烤刷屏韩国社交媒体",
+      "onboard_time": 1736078968,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 197340,
       "num": 197340,
       "word": "澳门偶遇叶祖新",
@@ -7731,28 +7779,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 195430,
-      "num": 195430,
-      "word": "宋雨琦金唱片最佳solo艺人",
-      "onboard_time": 1736080768,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 195381,
       "num": 195381,
       "word": "林高远男双MVP",
       "onboard_time": 1735740263,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 195364,
-      "num": 241819,
-      "word": "韩国客机失事前疑撞上鸟群画面曝光",
-      "onboard_time": 1736079868,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 195355,
@@ -8129,6 +8161,14 @@
       "onboard_time": 1735886119,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 190036,
+      "num": 190036,
+      "word": "整栋楼都醒了就妹妹没醒",
+      "onboard_time": 1736078968,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 189626,
@@ -8523,6 +8563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181761,
+      "num": 181761,
+      "word": "aespa宁宁减肥前后对比",
+      "onboard_time": 1736081309,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181588,
       "num": 494847,
       "word": "麦子阿姨说60多了想为自己活一把",
@@ -8625,6 +8673,14 @@
       "onboard_time": 1735897701,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 179267,
+      "num": 163244,
+      "word": "只有我注意旁边那个男的的口红了吗",
+      "onboard_time": 1736081428,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 179264,
@@ -8745,14 +8801,6 @@
       "onboard_time": 1735785082,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176907,
-      "num": 176907,
-      "word": "整栋楼都醒了就妹妹没醒",
-      "onboard_time": 1736078968,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 176728,
@@ -9636,7 +9684,7 @@
     },
     {
       "raw_hot": 162174,
-      "num": 162174,
+      "num": 185256,
       "word": "被困冰层下冬泳者已被打捞上岸",
       "onboard_time": 1736078937,
       "rank": 35,
@@ -9945,6 +9993,14 @@
       "onboard_time": 1735893980,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 156280,
+      "num": 156280,
+      "word": "丁禹兮 陪伴虞书欣每一个第一次",
+      "onboard_time": 1736077527,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 156006,
@@ -10595,12 +10651,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145538,
+      "num": 145538,
+      "word": "黄景瑜daddy是一种感觉",
+      "onboard_time": 1736081368,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145018,
       "num": 145018,
       "word": "绘旅人怪谈游荡之森",
       "onboard_time": 1735795942,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 145003,
+      "num": 193043,
+      "word": "目前流感病毒99%以上是甲流",
+      "onboard_time": 1736081487,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144751,
@@ -10681,6 +10753,14 @@
       "onboard_time": 1735829661,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143185,
+      "num": 143185,
+      "word": "医生说6种病是衰老正常现象",
+      "onboard_time": 1736080409,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 143091,
@@ -11041,6 +11121,14 @@
       "onboard_time": 1735890440,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 138329,
+      "num": 138329,
+      "word": "猎罪图鉴3宣传词出来了",
+      "onboard_time": 1736081550,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 138324,
@@ -11515,6 +11603,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 130449,
+      "num": 130449,
+      "word": "林一硬控男粉",
+      "onboard_time": 1736080708,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130335,
       "num": 298743,
       "word": "陈震称已收到领克律师函",
@@ -11593,14 +11689,6 @@
       "onboard_time": 1735799420,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 128441,
-      "num": 257487,
-      "word": "中式烧烤刷屏韩国社交媒体",
-      "onboard_time": 1736078968,
-      "rank": 9,
-      "category": "美食"
     },
     {
       "raw_hot": 128307,
@@ -12211,6 +12299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117456,
+      "num": 117456,
+      "word": "反腐为了人民第一集",
+      "onboard_time": 1736080888,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 117186,
       "num": 136138,
       "word": "平台回应女生拒绝绕路被扔高速路边",
@@ -12393,14 +12489,6 @@
       "onboard_time": 1735805300,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 113942,
-      "num": 113942,
-      "word": "医生说6种病是衰老正常现象",
-      "onboard_time": 1736080409,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 113904,
@@ -12745,14 +12833,6 @@
       "onboard_time": 1736076448,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 105170,
-      "num": 105170,
-      "word": "林一硬控男粉",
-      "onboard_time": 1736080708,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 105052,
@@ -13963,6 +14043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65453,
+      "num": 190238,
+      "word": "接所有考试全部通过",
+      "onboard_time": 1736081550,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 65279,
       "num": 281125,
       "word": "证监会回应保险公司赎回公募等传闻",
@@ -14707,6 +14795,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 43290,
+      "num": 760909,
+      "word": "小寒节气冬日氛围更浓了",
+      "onboard_time": 1736064447,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 43133,
       "num": 366253,
       "word": "国旗护卫队升旗后高唱祖国不会忘记",
@@ -14945,14 +15041,6 @@
       "onboard_time": 1735982663,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 38166,
-      "num": 474980,
-      "word": "小寒节气冬日氛围更浓了",
-      "onboard_time": 1736064447,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 38033,
@@ -15275,6 +15363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 33450,
+      "num": 219064,
+      "word": "打工人花式去班味儿",
+      "onboard_time": 1736079868,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33447,
       "num": 314748,
       "word": "打工人的幸福时刻belike",
@@ -15335,14 +15431,6 @@
       "num": 844536,
       "word": "律师谈胖东来公布员工结婚标准",
       "onboard_time": 1736004576,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32875,
-      "num": 219064,
-      "word": "打工人花式去班味儿",
-      "onboard_time": 1736079868,
       "rank": 19,
       "category": "民生新闻"
     },
