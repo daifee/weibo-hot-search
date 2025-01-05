@@ -1,0 +1,410 @@
+{
+  "runTime": 1736046418663,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10658847,
+        "num": 10658847,
+        "word": "马天宇 李明德",
+        "onboard_time": 1735991665,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 440568,
+        "num": 4987338,
+        "word": "林高远父亲去世",
+        "onboard_time": 1736005415,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47934,
+        "num": 4247810,
+        "word": "用古画画风打开小寒节气",
+        "onboard_time": 1736045970,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3716611,
+        "num": 3716611,
+        "word": "李明德 张颂文",
+        "onboard_time": 1736042491,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 532376,
+        "num": 2326861,
+        "word": "女子偷偷用公共餐具喂狗",
+        "onboard_time": 1736040271,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 375984,
+        "num": 1565882,
+        "word": "韩国国产白菜辣椒或将消失",
+        "onboard_time": 1736041715,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1326759,
+        "num": 1326759,
+        "word": "姜尘晒录音提张颂文名字",
+        "onboard_time": 1736042491,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1210342,
+        "num": 1210342,
+        "word": "古剑奇谭到底要塌多少次",
+        "onboard_time": 1736039368,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 334343,
+        "num": 1097778,
+        "word": "果然爱老婆会发达",
+        "onboard_time": 1736042013,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52619,
+        "num": 1011914,
+        "word": "低于这个价格可能买不到真羽绒",
+        "onboard_time": 1736046211,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1002171,
+        "num": 1002171,
+        "word": "李明德涨粉",
+        "onboard_time": 1736043096,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 990915,
+        "num": 990915,
+        "word": "张颂文",
+        "onboard_time": 1736042491,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 761970,
+        "num": 990851,
+        "word": "徐梦洁打开微博天塌了",
+        "onboard_time": 1736039430,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 595389,
+        "num": 990724,
+        "word": "丁禹兮接虞书欣下台",
+        "onboard_time": 1736001995,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68342,
+        "num": 990473,
+        "word": "网红景点冰柱掉落女游客滑倒受伤",
+        "onboard_time": 1736046150,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327840,
+        "num": 990355,
+        "word": "为啥说小寒胜大寒",
+        "onboard_time": 1736041112,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267744,
+        "num": 990207,
+        "word": "第一次这么清晰看到小鸟喝露水",
+        "onboard_time": 1736043512,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 236372,
+        "num": 990094,
+        "word": "许昕回复节哀",
+        "onboard_time": 1736041532,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171933,
+        "num": 989800,
+        "word": "骨骼缺陷男子扮成黄油小熊卖糖葫芦",
+        "onboard_time": 1736039430,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20728,
+        "num": 989670,
+        "word": "最后的告别导演曾是电影学院保安",
+        "onboard_time": 1736046150,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 9661848,
+        "num": 989480,
+        "word": "马天宇回应",
+        "onboard_time": 1736007874,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7020216,
+        "num": 989453,
+        "word": "李明德评论",
+        "onboard_time": 1735990643,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 3330871,
+        "num": 989195,
+        "word": "王嘉尔 共鸣",
+        "onboard_time": 1736033777,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172990,
+        "num": 989084,
+        "word": "9个表现是身体释放的缺觉信号",
+        "onboard_time": 1736027231,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 93950,
+        "num": 988871,
+        "word": "林高远称会扛起家的责任",
+        "onboard_time": 1736040511,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 497151,
+        "num": 988803,
+        "word": "纯欲逃犯牛小莉",
+        "onboard_time": 1736042673,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491083,
+        "num": 988520,
+        "word": "汪峰又发新歌了",
+        "onboard_time": 1736039249,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 408802,
+        "num": 988467,
+        "word": "三人行剧组回应",
+        "onboard_time": 1736000553,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308407,
+        "num": 988240,
+        "word": "张碧晨 见到爱人了风都是甜的",
+        "onboard_time": 1736040331,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41184,
+        "num": 988080,
+        "word": "山西垣曲一道路立杆被指摄像头密集",
+        "onboard_time": 1736045850,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342065,
+        "num": 987935,
+        "word": "三人行",
+        "onboard_time": 1736011465,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280975,
+        "num": 987742,
+        "word": "丁禹兮又争又抢",
+        "onboard_time": 1736035160,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277167,
+        "num": 987698,
+        "word": "孟子义李昀锐 他说她可爱",
+        "onboard_time": 1736003856,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208773,
+        "num": 987411,
+        "word": "虞书欣祝绪丹贴贴",
+        "onboard_time": 1736034498,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196705,
+        "num": 987351,
+        "word": "田曦薇领奖像走秀",
+        "onboard_time": 1736037083,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177529,
+        "num": 987200,
+        "word": "周柯宇举着迪丽热巴走红毯",
+        "onboard_time": 1736038046,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61094,
+        "num": 987067,
+        "word": "刘梦婷滑雪世界杯夺冠",
+        "onboard_time": 1736044832,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156518,
+        "num": 986841,
+        "word": "美媒称中国战斗机影响F35销量",
+        "onboard_time": 1736040993,
+        "rank": 37,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 148016,
+        "num": 986712,
+        "word": "就这个赵丽颖爽",
+        "onboard_time": 1736036545,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128144,
+        "num": 986561,
+        "word": "WTT支持国际乒联成立专组决定",
+        "onboard_time": 1736040873,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145555,
+        "num": 986368,
+        "word": "阿姨拍照让蒋欣让一让",
+        "onboard_time": 1736033476,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137844,
+        "num": 986139,
+        "word": "张若昀马思纯给我也听听",
+        "onboard_time": 1736039911,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127244,
+        "num": 985977,
+        "word": "李昀锐连续两年星光大赏坐到最后",
+        "onboard_time": 1736036844,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82222,
+        "num": 985840,
+        "word": "特朗普或将大幅调整美国军购",
+        "onboard_time": 1736045191,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121756,
+        "num": 985761,
+        "word": "机车博主波哥车祸身亡",
+        "onboard_time": 1736014457,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114252,
+        "num": 985584,
+        "word": "八省联考化学",
+        "onboard_time": 1736045249,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 79619,
+        "num": 985457,
+        "word": "今年春运购票2个关键时间点",
+        "onboard_time": 1735997189,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115937,
+        "num": 985231,
+        "word": "张新成问孟子义李昀锐你们要不要",
+        "onboard_time": 1736007994,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112520,
+        "num": 985064,
+        "word": "后天就是腊八节",
+        "onboard_time": 1736036484,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109844,
+        "num": 984955,
+        "word": "小寒一过年味越来越浓了",
+        "onboard_time": 1736043872,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的2024外交足迹#"
+    }
+  }
+}
