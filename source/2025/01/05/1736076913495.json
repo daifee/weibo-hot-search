@@ -1,0 +1,410 @@
+{
+  "runTime": 1736076913495,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2517310,
+        "num": 2517310,
+        "word": "虞书欣 顺手的事",
+        "onboard_time": 1736072185,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1390982,
+        "num": 1390982,
+        "word": "甲流",
+        "onboard_time": 1736071764,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 30016,
+        "num": 690712,
+        "word": "古画里的隆冬之美",
+        "onboard_time": 1736064509,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 450436,
+        "num": 450436,
+        "word": "孙珍妮 偏我来时都是春",
+        "onboard_time": 1736072306,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 404661,
+        "num": 404661,
+        "word": "女孩初中切除左肺抗癌10年后离世",
+        "onboard_time": 1736073386,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352136,
+        "num": 352136,
+        "word": "全国流感病毒阳性率快速上升",
+        "onboard_time": 1736052631,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 559788,
+        "num": 348861,
+        "word": "张碧晨赵丽颖林更新合照",
+        "onboard_time": 1736069007,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411521,
+        "num": 343610,
+        "word": "唐嫣你不欠汪小姐一个奖",
+        "onboard_time": 1736072546,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324320,
+        "num": 324320,
+        "word": "王楚钦点赞周启豪",
+        "onboard_time": 1736071226,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30229,
+        "num": 297212,
+        "word": "老人沉迷直播间假古董背上高额贷款",
+        "onboard_time": 1736076565,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 294674,
+        "num": 294674,
+        "word": "30岁博士生杜梅病逝遗书让人泪目",
+        "onboard_time": 1736075787,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286542,
+        "num": 286542,
+        "word": "23岁中职老师一天5节课的生活",
+        "onboard_time": 1736069845,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 284428,
+        "num": 284428,
+        "word": "丁禹兮你错过一个梗会怎样",
+        "onboard_time": 1736074047,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281327,
+        "num": 281327,
+        "word": "在沪韩国人的规律",
+        "onboard_time": 1736071346,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14974,
+        "num": 280631,
+        "word": "年轻人成黄金首饰主流消费群体",
+        "onboard_time": 1736076506,
+        "rank": 14,
+        "category": ""
+      },
+      {
+        "raw_hot": 280551,
+        "num": 280551,
+        "word": "穿羽绒服主持人赞莎莎不可限量",
+        "onboard_time": 1736070505,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209970,
+        "num": 209970,
+        "word": "26岁抗癌博主小黄同学离世",
+        "onboard_time": 1736075906,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 246982,
+        "num": 207194,
+        "word": "赵丽颖看虞书欣丁禹兮",
+        "onboard_time": 1736070085,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202756,
+        "num": 202756,
+        "word": "为什么总感觉周末过得那么快",
+        "onboard_time": 1736065347,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19379,
+        "num": 202221,
+        "word": "摩友回应机车博主李波车祸离世",
+        "onboard_time": 1736076506,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8137848,
+        "num": 201746,
+        "word": "李明德晒聊天记录",
+        "onboard_time": 1736063366,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2126402,
+        "num": 200776,
+        "word": "廖慧佳晒聊天记录",
+        "onboard_time": 1736076265,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3105284,
+        "num": 199946,
+        "word": "三人行导演回应",
+        "onboard_time": 1736053351,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2097990,
+        "num": 199096,
+        "word": "李明德说我不装了我摊牌了",
+        "onboard_time": 1736072426,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 692804,
+        "num": 199009,
+        "word": "25岁女子体检正常半个月后确诊胃癌",
+        "onboard_time": 1736075667,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 395127,
+        "num": 197910,
+        "word": "古剑奇谭",
+        "onboard_time": 1736063488,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197529,
+        "num": 197529,
+        "word": "乒乓世界",
+        "onboard_time": 1736076207,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313832,
+        "num": 196718,
+        "word": "愚昧的小女孩",
+        "onboard_time": 1736076265,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311322,
+        "num": 196413,
+        "word": "王嘉尔 共鸣",
+        "onboard_time": 1736033777,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183630,
+        "num": 183630,
+        "word": "裴擒虎小胖FMVP皮肤",
+        "onboard_time": 1736075667,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 203034,
+        "num": 182899,
+        "word": "林高远坚持完成比赛才匆匆回家陪伴父亲",
+        "onboard_time": 1736076448,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180453,
+        "num": 180453,
+        "word": "女子收到50万元转账险成电诈帮凶",
+        "onboard_time": 1736067745,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176439,
+        "num": 176439,
+        "word": "闵塔鲨方就赵丽颖高定道歉",
+        "onboard_time": 1736059288,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147312,
+        "num": 147312,
+        "word": "张家口一冬泳者被困冰层下",
+        "onboard_time": 1736067625,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135752,
+        "num": 135752,
+        "word": "值乘27年他让老乡慢火车上卖菜忙",
+        "onboard_time": 1736072845,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 135577,
+        "num": 135577,
+        "word": "姜尘录音",
+        "onboard_time": 1736042491,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134530,
+        "num": 134530,
+        "word": "周杰伦迪拜演唱会上座率",
+        "onboard_time": 1736055508,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129170,
+        "num": 129170,
+        "word": "众星现身央视春晚首次联排",
+        "onboard_time": 1736073088,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1524708,
+        "num": 129092,
+        "word": "李明德称挣不到钱可以从自身找问题",
+        "onboard_time": 1736072185,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127954,
+        "num": 127954,
+        "word": "央视曝95起加油站案逃税7.9亿元",
+        "onboard_time": 1736063125,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123173,
+        "num": 123173,
+        "word": "宋威龙好像单独开了滤镜",
+        "onboard_time": 1736076686,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122545,
+        "num": 122545,
+        "word": "李昀锐生图",
+        "onboard_time": 1736065047,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115209,
+        "num": 115209,
+        "word": "周深快把张若昀唱哭了",
+        "onboard_time": 1736064089,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115043,
+        "num": 115043,
+        "word": "感觉成毅头上永远有个加载符号",
+        "onboard_time": 1736064026,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100426,
+        "num": 111681,
+        "word": "孟子义尼龙杂志销量",
+        "onboard_time": 1736075428,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 111481,
+        "num": 111481,
+        "word": "19岁女生被丢高速后司机账号被封禁",
+        "onboard_time": 1736059288,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105365,
+        "num": 105365,
+        "word": "逆水寒手游",
+        "onboard_time": 1736076448,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102097,
+        "num": 102097,
+        "word": "奶奶你追的爱豆任豪回舞台啦",
+        "onboard_time": 1736075246,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101224,
+        "num": 101224,
+        "word": "王者荣耀",
+        "onboard_time": 1736073027,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97515,
+        "num": 97515,
+        "word": "王昶坐上了裁判椅",
+        "onboard_time": 1736076027,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的2024外交足迹#"
+    }
+  }
+}
