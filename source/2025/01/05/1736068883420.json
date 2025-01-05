@@ -1,0 +1,410 @@
+{
+  "runTime": 1736068883420,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 687025,
+        "num": 1109924,
+        "word": "闵塔鲨方就赵丽颖高定道歉",
+        "onboard_time": 1736059288,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 526036,
+        "num": 526036,
+        "word": "全国流感病毒阳性率快速上升",
+        "onboard_time": 1736052631,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 25409,
+        "num": 525418,
+        "word": "古画里的隆冬之美",
+        "onboard_time": 1736064509,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 632873,
+        "num": 525222,
+        "word": "古剑奇谭",
+        "onboard_time": 1736063488,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 378619,
+        "num": 524528,
+        "word": "央视曝95起加油站案逃税7.9亿元",
+        "onboard_time": 1736063125,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344569,
+        "num": 523342,
+        "word": "橙光崩了",
+        "onboard_time": 1736066006,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 547415,
+        "num": 522378,
+        "word": "张碧晨夹在虞书欣丁禹兮中间",
+        "onboard_time": 1736063488,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370044,
+        "num": 521700,
+        "word": "网传王鹤棣孟子义主演烛月潮生",
+        "onboard_time": 1736065347,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327476,
+        "num": 520955,
+        "word": "低于这个价格可能买不到真羽绒",
+        "onboard_time": 1736046211,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 212406,
+        "num": 520601,
+        "word": "女子收到50万元转账险成电诈帮凶",
+        "onboard_time": 1736067745,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325870,
+        "num": 519835,
+        "word": "李昀锐生图",
+        "onboard_time": 1736065047,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 316661,
+        "num": 518887,
+        "word": "19岁女生被丢高速后司机账号被封禁",
+        "onboard_time": 1736059288,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311410,
+        "num": 518004,
+        "word": "华晨宇全场买单",
+        "onboard_time": 1736063787,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 249184,
+        "num": 517355,
+        "word": "李现分界现",
+        "onboard_time": 1736062825,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29016,
+        "num": 516638,
+        "word": "养好自己就是进步",
+        "onboard_time": 1736067625,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 244605,
+        "num": 515622,
+        "word": "为什么总感觉周末过得那么快",
+        "onboard_time": 1736065347,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218668,
+        "num": 515224,
+        "word": "丁禹兮接虞书欣下台",
+        "onboard_time": 1736001995,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177808,
+        "num": 514381,
+        "word": "马斯克评论俄乌士兵激烈肉搏",
+        "onboard_time": 1736061565,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 177369,
+        "num": 513442,
+        "word": "嘀嗒发布19岁女孩被扔高速情况说明",
+        "onboard_time": 1736057549,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158861,
+        "num": 513321,
+        "word": "经济学家建议提升农村养老金",
+        "onboard_time": 1736061565,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 9751302,
+        "num": 512506,
+        "word": "李明德晒聊天记录",
+        "onboard_time": 1736063366,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 624112,
+        "num": 511342,
+        "word": "王嘉尔 共鸣",
+        "onboard_time": 1736033777,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7345475,
+        "num": 510897,
+        "word": "三人行导演回应",
+        "onboard_time": 1736053351,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157403,
+        "num": 509840,
+        "word": "网友用樊振东身份证号发红包后致歉",
+        "onboard_time": 1736051129,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2114188,
+        "num": 509455,
+        "word": "李明德解释为什么暴力损害酒店财物",
+        "onboard_time": 1736063187,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373981,
+        "num": 508713,
+        "word": "姜尘录音",
+        "onboard_time": 1736042491,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197457,
+        "num": 507935,
+        "word": "射雕英雄传 家永远是你的桃花岛",
+        "onboard_time": 1736066605,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169607,
+        "num": 506964,
+        "word": "周杰伦迪拜演唱会上座率",
+        "onboard_time": 1736055508,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 42562,
+        "num": 506601,
+        "word": "希望期末周的老师belike",
+        "onboard_time": 1736068286,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 20810,
+        "num": 505595,
+        "word": "冬天吉林也太像童话了",
+        "onboard_time": 1736067146,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159692,
+        "num": 505024,
+        "word": "孟子义退场和李昀锐打招呼",
+        "onboard_time": 1736063668,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131690,
+        "num": 503958,
+        "word": "李相夷用婆娑步震惊范闲",
+        "onboard_time": 1736057189,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442721,
+        "num": 503490,
+        "word": "林更新赵丽颖张碧晨同框",
+        "onboard_time": 1736062107,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120887,
+        "num": 502561,
+        "word": "蛇年春晚等着你",
+        "onboard_time": 1736065768,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115223,
+        "num": 501508,
+        "word": "周深快把张若昀唱哭了",
+        "onboard_time": 1736064089,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114885,
+        "num": 500956,
+        "word": "经济学家建议补贴初婚初育",
+        "onboard_time": 1736066906,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109251,
+        "num": 500161,
+        "word": "甲流7日病程用药图",
+        "onboard_time": 1736048969,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 107706,
+        "num": 499425,
+        "word": "感觉成毅头上永远有个加载符号",
+        "onboard_time": 1736064026,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106563,
+        "num": 499091,
+        "word": "被家暴16次女子总结2024",
+        "onboard_time": 1736058268,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102997,
+        "num": 497677,
+        "word": "张家口一冬泳者被困冰层下",
+        "onboard_time": 1736067625,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96092,
+        "num": 496988,
+        "word": "蛇年央视春晚首次联排",
+        "onboard_time": 1736048249,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95306,
+        "num": 496874,
+        "word": "不喜欢麻烦别人是缺爱的表现",
+        "onboard_time": 1736067805,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94055,
+        "num": 495665,
+        "word": "90后开始在刀郎演唱会门口接爸妈了",
+        "onboard_time": 1736068286,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 90423,
+        "num": 494847,
+        "word": "麦子阿姨说60多了想为自己活一把",
+        "onboard_time": 1736062765,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87315,
+        "num": 494097,
+        "word": "农村宅基地废弃面积760万公顷",
+        "onboard_time": 1736053589,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85153,
+        "num": 493734,
+        "word": "用中式美学打开2025第一个节气",
+        "onboard_time": 1736049091,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84511,
+        "num": 492924,
+        "word": "张远 抽象是会传染的",
+        "onboard_time": 1736068524,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 78810,
+        "num": 492252,
+        "word": "为啥说小寒胜大寒",
+        "onboard_time": 1736041112,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78416,
+        "num": 491511,
+        "word": "公安局摄影师为拍儿童证件照学动画片",
+        "onboard_time": 1736066186,
+        "rank": 48,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 71562,
+        "num": 490453,
+        "word": "专家称宅基地进入市场价值达1.3万亿",
+        "onboard_time": 1736051129,
+        "rank": 49,
+        "category": "民生新闻,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的2024外交足迹#"
+    }
+  }
+}
