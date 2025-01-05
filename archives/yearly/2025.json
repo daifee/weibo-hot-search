@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736051144968,
+  "endTime": 1736051984911,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -587,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1552163,
+      "num": 1024405,
+      "word": "明德元年",
+      "onboard_time": 1736047111,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1538021,
       "num": 1061062,
       "word": "假唱",
@@ -665,14 +673,6 @@
       "onboard_time": 1735709360,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1442075,
-      "num": 1014638,
-      "word": "明德元年",
-      "onboard_time": 1736047111,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 1431979,
@@ -1971,6 +1971,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 669677,
+      "num": 669677,
+      "word": "蛇年央视春晚首次联排",
+      "onboard_time": 1736048249,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 664692,
       "num": 664692,
       "word": "尹锡悦逮捕令执行现场",
@@ -2273,14 +2281,6 @@
       "onboard_time": 1735745121,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 593741,
-      "num": 593741,
-      "word": "蛇年央视春晚首次联排",
-      "onboard_time": 1736048249,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 592770,
