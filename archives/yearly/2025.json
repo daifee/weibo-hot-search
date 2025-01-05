@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736062531637,
+  "endTime": 1736065558822,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -49,6 +49,14 @@
       "onboard_time": 1736053351,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 11170639,
+      "num": 192310,
+      "word": "李明德晒聊天记录",
+      "onboard_time": 1736063366,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 10681189,
@@ -113,6 +121,14 @@
       "onboard_time": 1736005415,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 5865317,
+      "num": 188447,
+      "word": "李明德解释为什么暴力损害酒店财物",
+      "onboard_time": 1736063187,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 4846940,
@@ -1684,7 +1700,7 @@
     },
     {
       "raw_hot": 799268,
-      "num": 687803,
+      "num": 1125158,
       "word": "闵塔鲨方就赵丽颖高定道歉",
       "onboard_time": 1736059288,
       "rank": 40,
@@ -2235,6 +2251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 614210,
+      "num": 540433,
+      "word": "张碧晨夹在虞书欣丁禹兮中间",
+      "onboard_time": 1736063488,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 611470,
       "num": 1097835,
       "word": "杨紫白鹿新剧定档同一天",
@@ -2377,30 +2401,6 @@
       "onboard_time": 1736001934,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 590278,
-      "num": 590278,
-      "word": "周涛董卿合照",
-      "onboard_time": 1735797561,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 587212,
-      "num": 587212,
-      "word": "工资计算方式有变化",
-      "onboard_time": 1735824801,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 586153,
-      "num": 586153,
-      "word": "美珍香",
-      "onboard_time": 1735912219,
-      "rank": 5,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

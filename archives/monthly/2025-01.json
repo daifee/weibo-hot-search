@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736062531637,
+  "endTime": 1736065558822,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -49,6 +49,14 @@
       "onboard_time": 1736053351,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 11170639,
+      "num": 192310,
+      "word": "李明德晒聊天记录",
+      "onboard_time": 1736063366,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 10681189,
@@ -113,6 +121,14 @@
       "onboard_time": 1736005415,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 5865317,
+      "num": 188447,
+      "word": "李明德解释为什么暴力损害酒店财物",
+      "onboard_time": 1736063187,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 4846940,
@@ -1684,7 +1700,7 @@
     },
     {
       "raw_hot": 799268,
-      "num": 687803,
+      "num": 1125158,
       "word": "闵塔鲨方就赵丽颖高定道歉",
       "onboard_time": 1736059288,
       "rank": 40,
@@ -2233,6 +2249,14 @@
       "onboard_time": 1735782858,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 614210,
+      "num": 540433,
+      "word": "张碧晨夹在虞书欣丁禹兮中间",
+      "onboard_time": 1736063488,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 611470,
@@ -2915,6 +2939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 494219,
+      "num": 349050,
+      "word": "林更新赵丽颖张碧晨同框",
+      "onboard_time": 1736062107,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 494036,
       "num": 494036,
       "word": "成都Wolves对战MRC",
@@ -3363,6 +3395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 420356,
+      "num": 420356,
+      "word": "央视曝95起加油站案逃税7.9亿元",
+      "onboard_time": 1736063125,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 420165,
       "num": 420165,
       "word": "微博之夜第二波阵容",
@@ -3561,6 +3601,14 @@
       "onboard_time": 1735663643,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 394385,
+      "num": 478495,
+      "word": "19岁女生被丢高速后司机账号被封禁",
+      "onboard_time": 1736059288,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 394279,
@@ -3833,6 +3881,14 @@
       "onboard_time": 1735861637,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 369662,
+      "num": 369662,
+      "word": "华晨宇全场买单",
+      "onboard_time": 1736063787,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 368134,
@@ -4507,14 +4563,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 313827,
-      "num": 478495,
-      "word": "19岁女生被丢高速后司机账号被封禁",
-      "onboard_time": 1736059288,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 313307,
       "num": 313307,
       "word": "广东一老人买药材煲汤中毒身亡",
@@ -4883,6 +4931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 291991,
+      "num": 291991,
+      "word": "古剑奇谭",
+      "onboard_time": 1736063488,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 291841,
       "num": 202625,
       "word": "星光大赏直播",
@@ -4969,6 +5025,14 @@
       "onboard_time": 1735729883,
       "rank": 28,
       "category": "艺人,健康医疗"
+    },
+    {
+      "raw_hot": 287106,
+      "num": 287106,
+      "word": "李现分界现",
+      "onboard_time": 1736062825,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 286376,
@@ -5281,6 +5345,14 @@
       "onboard_time": 1735875560,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 265994,
+      "num": 185391,
+      "word": "网传王鹤棣孟子义主演烛月潮生",
+      "onboard_time": 1736065347,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 265897,
@@ -5899,14 +5971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 234782,
-      "num": 234782,
-      "word": "林更新赵丽颖张碧晨同框",
-      "onboard_time": 1736062107,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 233805,
       "num": 233805,
       "word": "终于知道焯水该用热水还是凉水了",
@@ -6273,6 +6337,14 @@
       "onboard_time": 1735826001,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220489,
+      "num": 220489,
+      "word": "马斯克评论俄乌士兵激烈肉搏",
+      "onboard_time": 1736061565,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 220449,
@@ -7139,6 +7211,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 199604,
+      "num": 184960,
+      "word": "周深快把张若昀唱哭了",
+      "onboard_time": 1736064089,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199266,
       "num": 199266,
       "word": "微博之夜 内娱一年一度鹊桥相会",
@@ -7425,6 +7505,14 @@
       "onboard_time": 1735888580,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194707,
+      "num": 322637,
+      "word": "经济学家建议提升农村养老金",
+      "onboard_time": 1736061565,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 194425,
@@ -8115,6 +8203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181588,
+      "num": 181588,
+      "word": "麦子阿姨说60多了想为自己活一把",
+      "onboard_time": 1736062765,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181555,
       "num": 181555,
       "word": "微博之夜年度推荐",
@@ -8225,6 +8321,14 @@
       "onboard_time": 1735719859,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178444,
+      "num": 178444,
+      "word": "李昀锐生图",
+      "onboard_time": 1736065047,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 178373,
@@ -8416,14 +8520,6 @@
       "word": "百余人参与逮捕尹锡悦失败",
       "onboard_time": 1735995089,
       "rank": 18,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 174250,
-      "num": 174250,
-      "word": "马斯克评论俄乌士兵激烈肉搏",
-      "onboard_time": 1736061565,
-      "rank": 39,
       "category": "国际时政"
     },
     {
@@ -9153,14 +9249,6 @@
       "onboard_time": 1735872078,
       "rank": 41,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 163410,
-      "num": 322637,
-      "word": "经济学家建议提升农村养老金",
-      "onboard_time": 1736061565,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 163339,
@@ -10083,6 +10171,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 146677,
+      "num": 2678947,
+      "word": "甲流7日病程用药图",
+      "onboard_time": 1736048969,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 146672,
       "num": 146672,
       "word": "大奉打更人渐入佳境",
@@ -10169,14 +10265,6 @@
       "onboard_time": 1735741103,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144065,
-      "num": 2678947,
-      "word": "甲流7日病程用药图",
-      "onboard_time": 1736048969,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 144019,
@@ -12123,6 +12211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105756,
+      "num": 105756,
+      "word": "感觉成毅头上永远有个加载符号",
+      "onboard_time": 1736064026,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105631,
       "num": 105631,
       "word": "檀健次告别猎罪图鉴2",
@@ -12145,6 +12241,14 @@
       "onboard_time": 1735997550,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105052,
+      "num": 105052,
+      "word": "李政宰回应郑雨盛私生活争议",
+      "onboard_time": 1736064026,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 104899,
@@ -12657,6 +12761,14 @@
       "onboard_time": 1735724119,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 87932,
+      "num": 87932,
+      "word": "为什么总感觉周末过得那么快",
+      "onboard_time": 1736065347,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 87314,
@@ -13307,6 +13419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62928,
+      "num": 194563,
+      "word": "跑男打歌剧宣两不误",
+      "onboard_time": 1736064567,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 62462,
       "num": 144047,
       "word": "尹锡悦逮捕令或于今天执行",
@@ -13425,6 +13545,14 @@
       "onboard_time": 1736022493,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 59575,
+      "num": 278819,
+      "word": "乌鲁木齐冰雪大庙会致歉并宣布整改",
+      "onboard_time": 1736064267,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59510,
@@ -13593,6 +13721,14 @@
       "onboard_time": 1735716560,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54105,
+      "num": 278828,
+      "word": "男子买55份保险后要求退一赔三",
+      "onboard_time": 1736064328,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53953,
@@ -14081,6 +14217,14 @@
       "onboard_time": 1736054249,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 41086,
+      "num": 189323,
+      "word": "陈梦现身厦门马拉松现场",
+      "onboard_time": 1736065166,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 40918,
@@ -15075,6 +15219,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 25037,
+      "num": 193308,
+      "word": "张朝阳新年第一个关心我吃饭的人",
+      "onboard_time": 1736062584,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 24599,
       "num": 401325,
       "word": "够蛋定的人在路上都能蹭到财气",
@@ -15169,6 +15321,14 @@
       "onboard_time": 1735792525,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 22193,
+      "num": 549766,
+      "word": "古画里的隆冬之美",
+      "onboard_time": 1736064509,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 22085,
