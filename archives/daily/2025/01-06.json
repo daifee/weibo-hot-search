@@ -1,6 +1,6 @@
 {
   "startTime": 1736094308497,
-  "endTime": 1736095281317,
+  "endTime": 1736097490546,
   "band_list": [
     {
       "raw_hot": 2133118,
@@ -131,6 +131,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 397387,
+      "num": 297364,
+      "word": "JYP新男团公开",
+      "onboard_time": 1736093544,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 394323,
+      "num": 394323,
+      "word": "警方通报19岁女生被司机扔高速",
+      "onboard_time": 1736095759,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 359962,
       "num": 199918,
       "word": "猫在洗衣机里洗了2分钟才被发现",
@@ -163,14 +179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 297364,
-      "num": 297364,
-      "word": "JYP新男团公开",
-      "onboard_time": 1736093544,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 259959,
       "num": 259959,
       "word": "王俊凯玩无畏契约",
@@ -193,6 +201,14 @@
       "onboard_time": 1736086299,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 235905,
+      "num": 196676,
+      "word": "93年女孩成市值407亿公司董事长",
+      "onboard_time": 1736095700,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 229276,
@@ -299,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121459,
+      "num": 183463,
+      "word": "danking直播",
+      "onboard_time": 1736094262,
+      "rank": 29,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 115062,
       "num": 115062,
       "word": "国考",
@@ -371,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87397,
+      "num": 338091,
+      "word": "每加一箱油被偷走1.5升",
+      "onboard_time": 1736094742,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86810,
       "num": 86810,
       "word": "反腐为了人民第一集",
@@ -395,6 +427,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 72143,
+      "num": 72143,
+      "word": "大奉打更人女主戏份",
+      "onboard_time": 1736096538,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 71508,
       "num": 71508,
       "word": "这3种人请深交一辈子",
@@ -411,14 +451,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 63485,
-      "num": 338091,
-      "word": "每加一箱油被偷走1.5升",
-      "onboard_time": 1736094742,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 61414,
       "num": 597741,
       "word": "近期流感高发如何做好防护",
@@ -427,12 +459,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 56975,
-      "num": 183463,
-      "word": "danking直播",
-      "onboard_time": 1736094262,
-      "rank": 29,
-      "category": "艺人,电竞"
+      "raw_hot": 55262,
+      "num": 55262,
+      "word": "陈奕迅在演唱会推荐小小的我",
+      "onboard_time": 1736096658,
+      "rank": 46,
+      "category": "演出,电影"
+    },
+    {
+      "raw_hot": 25391,
+      "num": 200836,
+      "word": "涉事公司员工回应消费券当工资",
+      "onboard_time": 1736097137,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 20190,

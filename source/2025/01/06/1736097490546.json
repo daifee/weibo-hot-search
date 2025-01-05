@@ -1,0 +1,410 @@
+{
+  "runTime": 1736097490546,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1719481,
+        "num": 1719481,
+        "word": "Ok 咱们线上",
+        "onboard_time": 1736090548,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 542897,
+        "num": 542897,
+        "word": "女子怀孕7个月体重94斤",
+        "onboard_time": 1736090728,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39897,
+        "num": 399499,
+        "word": "近期流感高发如何做好防护",
+        "onboard_time": 1736077347,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 623686,
+        "num": 398821,
+        "word": "秦霄贤姐姐直播",
+        "onboard_time": 1736089769,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394323,
+        "num": 394323,
+        "word": "警方通报19岁女生被司机扔高速",
+        "onboard_time": 1736095759,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263303,
+        "num": 263303,
+        "word": "12岁失踪30天男孩曾在监控下呼救",
+        "onboard_time": 1736090429,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397387,
+        "num": 248037,
+        "word": "JYP新男团公开",
+        "onboard_time": 1736093544,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365120,
+        "num": 226020,
+        "word": "赵丽颖看虞书欣眼神",
+        "onboard_time": 1736091566,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202104,
+        "num": 202104,
+        "word": "从校园餐里1毛钱1毛钱贪了23万",
+        "onboard_time": 1736083231,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25391,
+        "num": 200836,
+        "word": "涉事公司员工回应消费券当工资",
+        "onboard_time": 1736097137,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 313352,
+        "num": 200074,
+        "word": "李昀锐嘟嘟嘴",
+        "onboard_time": 1736091506,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294355,
+        "num": 198526,
+        "word": "陈奕迅看了小小的我",
+        "onboard_time": 1736092584,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 235905,
+        "num": 196676,
+        "word": "93年女孩成市值407亿公司董事长",
+        "onboard_time": 1736095700,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196149,
+        "num": 196149,
+        "word": "平台或对女大学生被丢高速路承担连带责任",
+        "onboard_time": 1736092105,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194954,
+        "num": 194954,
+        "word": "香港全款400万15平米的家",
+        "onboard_time": 1736087609,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194784,
+        "num": 194784,
+        "word": "大奉打更人热度",
+        "onboard_time": 1736088148,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154568,
+        "num": 154568,
+        "word": "禁娱一解除就来泡泡的爱豆",
+        "onboard_time": 1736084670,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144510,
+        "num": 144510,
+        "word": "国际乒联调查组被疑是自查",
+        "onboard_time": 1736085511,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138760,
+        "num": 138760,
+        "word": "贪官把个人收款码贴在办事大厅",
+        "onboard_time": 1736084310,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124068,
+        "num": 124068,
+        "word": "目前流感病毒99%以上是甲流",
+        "onboard_time": 1736081487,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1300128,
+        "num": 124005,
+        "word": "三人行导演回应",
+        "onboard_time": 1736053351,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 489567,
+        "num": 123897,
+        "word": "廖慧佳晒聊天记录",
+        "onboard_time": 1736076265,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220704,
+        "num": 123822,
+        "word": "赵丽颖 我点头只是被自己美到了",
+        "onboard_time": 1736088929,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198084,
+        "num": 123705,
+        "word": "猫在洗衣机里洗了2分钟才被发现",
+        "onboard_time": 1736083290,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177376,
+        "num": 123588,
+        "word": "虞书欣 顺手的事",
+        "onboard_time": 1736072185,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136936,
+        "num": 123439,
+        "word": "25岁女子体检正常半个月后确诊胃癌",
+        "onboard_time": 1736075667,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 123365,
+        "num": 123365,
+        "word": "夏之光晒和代露娃合照",
+        "onboard_time": 1736089769,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121459,
+        "num": 121459,
+        "word": "danking直播",
+        "onboard_time": 1736094262,
+        "rank": 27,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 110462,
+        "num": 110462,
+        "word": "王俊凯玩无畏契约",
+        "onboard_time": 1736086409,
+        "rank": 28,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 127453,
+        "num": 110462,
+        "word": "祝绪丹丁禹兮 最好的慕家姐弟",
+        "onboard_time": 1736082329,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110151,
+        "num": 110151,
+        "word": "至此已成艺术",
+        "onboard_time": 1736085449,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108014,
+        "num": 108014,
+        "word": "孟子义肘击李昀锐",
+        "onboard_time": 1736091806,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95610,
+        "num": 95610,
+        "word": "永夜星河售后",
+        "onboard_time": 1736089589,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87397,
+        "num": 87397,
+        "word": "每加一箱油被偷走1.5升",
+        "onboard_time": 1736094742,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89244,
+        "num": 87011,
+        "word": "祝绪丹急得站起来嗑",
+        "onboard_time": 1736086299,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85774,
+        "num": 85774,
+        "word": "甲流通常全身症状比较明显",
+        "onboard_time": 1736088029,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 76844,
+        "num": 76844,
+        "word": "猎罪图鉴3宣传词出来了",
+        "onboard_time": 1736081550,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76612,
+        "num": 76612,
+        "word": "李现来到了谢之遥的有风小院",
+        "onboard_time": 1736084370,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74936,
+        "num": 74936,
+        "word": "aespa宁宁减肥前后对比",
+        "onboard_time": 1736081309,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72143,
+        "num": 72143,
+        "word": "大奉打更人女主戏份",
+        "onboard_time": 1736096538,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71431,
+        "num": 71431,
+        "word": "3个动作有效缓解气血不足",
+        "onboard_time": 1736094683,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 63616,
+        "num": 63616,
+        "word": "30岁博士生杜梅病逝遗书让人泪目",
+        "onboard_time": 1736075787,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58337,
+        "num": 58337,
+        "word": "吉林一公司发消费券代替工资",
+        "onboard_time": 1736082209,
+        "rank": 42,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 57402,
+        "num": 57402,
+        "word": "ive预告",
+        "onboard_time": 1736088389,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56935,
+        "num": 56935,
+        "word": "孟子义 在综艺上一演戏就有负担",
+        "onboard_time": 1736090069,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56189,
+        "num": 56189,
+        "word": "国考",
+        "onboard_time": 1736078126,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 55262,
+        "num": 55262,
+        "word": "陈奕迅在演唱会推荐小小的我",
+        "onboard_time": 1736096658,
+        "rank": 46,
+        "category": "演出,电影"
+      },
+      {
+        "raw_hot": 54739,
+        "num": 54739,
+        "word": "张彬彬新剧道心不稳",
+        "onboard_time": 1736093724,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46686,
+        "num": 54732,
+        "word": "无畏契约",
+        "onboard_time": 1736088510,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 46555,
+        "num": 54731,
+        "word": "白桃星座",
+        "onboard_time": 1736089529,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民日报五论新年贺词#"
+    }
+  }
+}

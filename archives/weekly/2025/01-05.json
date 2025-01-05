@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736095281317,
+  "endTime": 1736097490546,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -907,11 +907,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 397387,
+      "num": 297364,
+      "word": "JYP新男团公开",
+      "onboard_time": 1736093544,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 394385,
       "num": 654223,
       "word": "19岁女生被丢高速后司机账号被封禁",
       "onboard_time": 1736059288,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 394323,
+      "num": 394323,
+      "word": "警方通报19岁女生被司机扔高速",
+      "onboard_time": 1736095759,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -1161,14 +1177,6 @@
       "onboard_time": 1736065347,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 297364,
-      "num": 297364,
-      "word": "JYP新男团公开",
-      "onboard_time": 1736093544,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 296774,
@@ -1457,6 +1465,14 @@
       "onboard_time": 1736033476,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 235905,
+      "num": 196676,
+      "word": "93年女孩成市值407亿公司董事长",
+      "onboard_time": 1736095700,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 234937,
@@ -2291,6 +2307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121459,
+      "num": 183463,
+      "word": "danking直播",
+      "onboard_time": 1736094262,
+      "rank": 29,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 120887,
       "num": 502561,
       "word": "蛇年春晚等着你",
@@ -2619,6 +2643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87397,
+      "num": 338091,
+      "word": "每加一箱油被偷走1.5升",
+      "onboard_time": 1736094742,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86656,
       "num": 290476,
       "word": "九尾打卡张远演唱会",
@@ -2739,6 +2771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 72143,
+      "num": 72143,
+      "word": "大奉打更人女主戏份",
+      "onboard_time": 1736096538,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 71508,
       "num": 71508,
       "word": "这3种人请深交一辈子",
@@ -2811,14 +2851,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 63485,
-      "num": 338091,
-      "word": "每加一箱油被偷走1.5升",
-      "onboard_time": 1736094742,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 63322,
       "num": 220489,
       "word": "狼队战胜KSG",
@@ -2875,20 +2907,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 56975,
-      "num": 183463,
-      "word": "danking直播",
-      "onboard_time": 1736094262,
-      "rank": 29,
-      "category": "艺人,电竞"
-    },
-    {
       "raw_hot": 56337,
       "num": 120839,
       "word": "联合杯美国夺冠",
       "onboard_time": 1736081908,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55262,
+      "num": 55262,
+      "word": "陈奕迅在演唱会推荐小小的我",
+      "onboard_time": 1736096658,
+      "rank": 46,
+      "category": "演出,电影"
     },
     {
       "raw_hot": 54795,
@@ -3153,6 +3185,14 @@
       "onboard_time": 1736024412,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25391,
+      "num": 200836,
+      "word": "涉事公司员工回应消费券当工资",
+      "onboard_time": 1736097137,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 25037,
