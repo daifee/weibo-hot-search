@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736041747029,
+  "endTime": 1736043049467,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 18725300,
-      "num": 4682708,
+      "num": 6904587,
       "word": "马天宇 李明德",
       "onboard_time": 1735991665,
       "rank": 5,
@@ -59,8 +59,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 2469931,
-      "num": 2469931,
+      "raw_hot": 2974377,
+      "num": 2974377,
       "word": "王嘉尔 共鸣",
       "onboard_time": 1736033777,
       "rank": 0,
@@ -83,16 +83,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1625544,
-      "num": 826760,
+      "raw_hot": 1766452,
+      "num": 1766452,
       "word": "徐梦洁打开微博天塌了",
       "onboard_time": 1736039430,
       "rank": 3,
       "category": "综艺"
     },
     {
-      "raw_hot": 1429823,
-      "num": 750780,
+      "raw_hot": 1488536,
+      "num": 1488536,
       "word": "古剑奇谭到底要塌多少次",
       "onboard_time": 1736039368,
       "rank": 6,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 880817,
-      "num": 880817,
+      "num": 1767570,
       "word": "16岁弟弟为救跳河姐姐不幸溺亡",
       "onboard_time": 1736035462,
       "rank": 1,
@@ -163,8 +163,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 688489,
-      "num": 688489,
+      "raw_hot": 691380,
+      "num": 691380,
       "word": "谈宋惹了全世界也要轻轻举起黄橙子",
       "onboard_time": 1736035824,
       "rank": 10,
@@ -193,6 +193,14 @@
       "onboard_time": 1736001934,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 562241,
+      "num": 562241,
+      "word": "李明德 张颂文",
+      "onboard_time": 1736042491,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 554927,
@@ -260,11 +268,19 @@
     },
     {
       "raw_hot": 413296,
-      "num": 269122,
+      "num": 364589,
       "word": "丁禹兮又争又抢",
       "onboard_time": 1736035160,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 393830,
+      "num": 2155176,
+      "word": "女子偷偷用公共餐具喂狗",
+      "onboard_time": 1736040271,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 388034,
@@ -273,6 +289,22 @@
       "onboard_time": 1736006255,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 374197,
+      "num": 374197,
+      "word": "姜尘晒录音提张颂文名字",
+      "onboard_time": 1736042491,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 326271,
+      "num": 326271,
+      "word": "汪峰又发新歌了",
+      "onboard_time": 1736039249,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 311870,
@@ -289,6 +321,22 @@
       "onboard_time": 1736008654,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 283722,
+      "num": 283722,
+      "word": "张碧晨 见到爱人了风都是甜的",
+      "onboard_time": 1736040331,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 279193,
+      "num": 899157,
+      "word": "为啥说小寒胜大寒",
+      "onboard_time": 1736041112,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 271154,
@@ -323,6 +371,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257397,
+      "num": 384009,
+      "word": "许昕回复节哀",
+      "onboard_time": 1736041532,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 252594,
+      "num": 252594,
+      "word": "田曦薇领奖像走秀",
+      "onboard_time": 1736037083,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251865,
       "num": 251865,
       "word": "李雪琴演我嗑昀牵孟绕",
@@ -339,24 +403,24 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 242806,
-      "num": 242806,
-      "word": "田曦薇领奖像走秀",
-      "onboard_time": 1736037083,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 241705,
+      "num": 241705,
+      "word": "张颂文",
+      "onboard_time": 1736042491,
+      "rank": 30,
+      "category": "艺人"
     },
     {
-      "raw_hot": 235372,
-      "num": 229392,
-      "word": "张碧晨 见到爱人了风都是甜的",
-      "onboard_time": 1736040331,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 237635,
+      "num": 237635,
+      "word": "阿姨拍照让蒋欣让一让",
+      "onboard_time": 1736033476,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 229666,
-      "num": 229666,
+      "num": 347884,
       "word": "9个表现是身体释放的缺觉信号",
       "onboard_time": 1736027231,
       "rank": 24,
@@ -403,20 +467,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215969,
+      "num": 369396,
+      "word": "果然爱老婆会发达",
+      "onboard_time": 1736042013,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213412,
-      "num": 269159,
+      "num": 369359,
       "word": "后天就是腊八节",
       "onboard_time": 1736036484,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 212165,
-      "num": 212165,
-      "word": "阿姨拍照让蒋欣让一让",
-      "onboard_time": 1736033476,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 211747,
@@ -427,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203124,
+      "num": 203124,
+      "word": "韩国国产白菜辣椒或将消失",
+      "onboard_time": 1736041715,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 200238,
       "num": 219122,
       "word": "丁禹兮领奖",
@@ -435,20 +507,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200103,
-      "num": 200103,
-      "word": "汪峰又发新歌了",
-      "onboard_time": 1736039249,
-      "rank": 30,
-      "category": "音乐"
+      "raw_hot": 197739,
+      "num": 353799,
+      "word": "骨骼缺陷男子扮成黄油小熊卖糖葫芦",
+      "onboard_time": 1736039430,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 189126,
-      "num": 689653,
-      "word": "为啥说小寒胜大寒",
-      "onboard_time": 1736041112,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 196591,
+      "num": 196591,
+      "word": "虞书欣祝绪丹贴贴",
+      "onboard_time": 1736034498,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 187484,
@@ -475,11 +547,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163284,
-      "num": 163284,
-      "word": "虞书欣祝绪丹贴贴",
-      "onboard_time": 1736034498,
-      "rank": 32,
+      "raw_hot": 171505,
+      "num": 171505,
+      "word": "纯欲逃犯牛小莉",
+      "onboard_time": 1736042673,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 162169,
+      "num": 162169,
+      "word": "李昀锐连续两年星光大赏坐到最后",
+      "onboard_time": 1736036844,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -491,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157571,
+      "num": 197430,
+      "word": "WTT支持国际乒联成立专组决定",
+      "onboard_time": 1736040873,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154378,
       "num": 1170534,
       "word": "有棵树公关部介入内裤塑料膜事件",
@@ -499,35 +587,11 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 153555,
-      "num": 269140,
-      "word": "女子偷偷用公共餐具喂狗",
-      "onboard_time": 1736040271,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 152584,
       "num": 945560,
       "word": "你有舍不得删掉的短信吗",
       "onboard_time": 1736002175,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 144654,
-      "num": 115237,
-      "word": "李昀锐连续两年星光大赏坐到最后",
-      "onboard_time": 1736036844,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 143487,
-      "num": 269121,
-      "word": "骨骼缺陷男子扮成黄油小熊卖糖葫芦",
-      "onboard_time": 1736039430,
-      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -539,6 +603,22 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 134700,
+      "num": 175699,
+      "word": "美媒称中国战斗机影响F35销量",
+      "onboard_time": 1736040993,
+      "rank": 42,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 129783,
+      "num": 158661,
+      "word": "为什么吃汤圆在南方人眼里很重要",
+      "onboard_time": 1736042371,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 127594,
       "num": 269088,
       "word": "小寒不寒有个暖开场",
@@ -547,16 +627,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120287,
-      "num": 120287,
-      "word": "韩国国产白菜辣椒或将消失",
-      "onboard_time": 1736041715,
-      "rank": 34,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 117186,
-      "num": 117186,
+      "num": 136138,
       "word": "平台回应女生拒绝绕路被扔高速路边",
       "onboard_time": 1736029692,
       "rank": 9,
@@ -579,14 +651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109216,
-      "num": 109216,
-      "word": "WTT支持国际乒联成立专组决定",
-      "onboard_time": 1736040873,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 108987,
       "num": 100503,
       "word": "赵丽颖手握权杖",
@@ -596,7 +660,7 @@
     },
     {
       "raw_hot": 106249,
-      "num": 106249,
+      "num": 141930,
       "word": "小寒",
       "onboard_time": 1736039490,
       "rank": 37,
@@ -609,22 +673,6 @@
       "onboard_time": 1736039911,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106015,
-      "num": 106015,
-      "word": "许昕回复节哀",
-      "onboard_time": 1736041532,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 104856,
-      "num": 104856,
-      "word": "美媒称中国战斗机影响F35销量",
-      "onboard_time": 1736040993,
-      "rank": 42,
-      "category": "军事"
     },
     {
       "raw_hot": 104806,
@@ -651,20 +699,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 96025,
+      "num": 145903,
+      "word": "林高远称会扛起家的责任",
+      "onboard_time": 1736040511,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94953,
       "num": 94953,
       "word": "消散对白",
       "onboard_time": 1736038106,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 94812,
-      "num": 94812,
-      "word": "林高远称会扛起家的责任",
-      "onboard_time": 1736040511,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 93007,
@@ -676,7 +724,7 @@
     },
     {
       "raw_hot": 90473,
-      "num": 90473,
+      "num": 753642,
       "word": "非遗总数世界第一是什么体验",
       "onboard_time": 1736039309,
       "rank": 48,
