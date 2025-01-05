@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736081702703,
+  "endTime": 1736083423325,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 7207550,
+      "num": 285141,
+      "word": "李明德直播",
+      "onboard_time": 1736081009,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 6746897,
       "num": 5085706,
       "word": "丁禹兮接虞书欣下台",
@@ -73,14 +81,6 @@
       "onboard_time": 1736000553,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 5968252,
-      "num": 192519,
-      "word": "李明德直播",
-      "onboard_time": 1736081009,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 5865317,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 2126402,
-      "num": 213578,
+      "num": 284693,
       "word": "廖慧佳晒聊天记录",
       "onboard_time": 1736076265,
       "rank": 21,
@@ -308,11 +308,27 @@
     },
     {
       "raw_hot": 942900,
-      "num": 473139,
+      "num": 704506,
       "word": "30岁博士生杜梅病逝遗书让人泪目",
       "onboard_time": 1736075787,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 936217,
+      "num": 1149794,
+      "word": "祝绪丹丁禹兮 最好的慕家姐弟",
+      "onboard_time": 1736082329,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 924324,
+      "num": 793494,
+      "word": "韩国客机失事前疑撞上鸟群画面曝光",
+      "onboard_time": 1736079868,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 908197,
@@ -353,6 +369,22 @@
       "onboard_time": 1736005295,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 822927,
+      "num": 822927,
+      "word": "小猫皮草传到了国外",
+      "onboard_time": 1736080888,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 801179,
+      "num": 165948,
+      "word": "李明德 檀健次",
+      "onboard_time": 1736083051,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 799268,
@@ -451,12 +483,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 621932,
-      "num": 621932,
-      "word": "韩国客机失事前疑撞上鸟群画面曝光",
-      "onboard_time": 1736079868,
-      "rank": 14,
-      "category": "海外新闻"
+      "raw_hot": 623921,
+      "num": 623921,
+      "word": "aespa宁宁减肥前后对比",
+      "onboard_time": 1736081309,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 614210,
@@ -571,6 +603,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 489881,
+      "num": 489881,
+      "word": "贵女",
+      "onboard_time": 1736079328,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 460531,
       "num": 460531,
       "word": "虞书欣丁禹兮对唱",
@@ -668,7 +708,7 @@
     },
     {
       "raw_hot": 398421,
-      "num": 208477,
+      "num": 282127,
       "word": "赵丽颖更新朋友圈",
       "onboard_time": 1736077406,
       "rank": 27,
@@ -697,6 +737,14 @@
       "onboard_time": 1736006255,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 379534,
+      "num": 379534,
+      "word": "从校园餐里1毛钱1毛钱贪了23万",
+      "onboard_time": 1736083231,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 375984,
@@ -740,11 +788,19 @@
     },
     {
       "raw_hot": 358121,
-      "num": 207090,
+      "num": 265240,
       "word": "跑男全员爆哭",
       "onboard_time": 1736077106,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 354838,
+      "num": 354838,
+      "word": "猫在洗衣机里洗了2分钟才被发现",
+      "onboard_time": 1736083290,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 351959,
@@ -779,6 +835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 346288,
+      "num": 346288,
+      "word": "赵今麦 我家有女初长成",
+      "onboard_time": 1736080949,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 346084,
       "num": 655897,
       "word": "李昀锐生图",
@@ -803,11 +867,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 341228,
-      "num": 341228,
-      "word": "贵女",
-      "onboard_time": 1736079328,
-      "rank": 15,
+      "raw_hot": 340177,
+      "num": 340177,
+      "word": "猎罪图鉴3宣传词出来了",
+      "onboard_time": 1736081550,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -824,6 +888,14 @@
       "word": "嘀嗒发布19岁女孩被扔高速情况说明",
       "onboard_time": 1736057549,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 327310,
+      "num": 327310,
+      "word": "目前流感病毒99%以上是甲流",
+      "onboard_time": 1736081487,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -931,6 +1003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 287174,
+      "num": 541964,
+      "word": "反腐为了人民第一集",
+      "onboard_time": 1736080888,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 287106,
       "num": 639907,
       "word": "李现分界现",
@@ -963,6 +1043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 281485,
+      "num": 281485,
+      "word": "黄景瑜daddy是一种感觉",
+      "onboard_time": 1736081368,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 280225,
       "num": 2700372,
       "word": "后天就是腊八节",
@@ -993,6 +1081,14 @@
       "onboard_time": 1736007335,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 269031,
+      "num": 269031,
+      "word": "丁禹兮 陪伴虞书欣每一个第一次",
+      "onboard_time": 1736077527,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 258787,
@@ -1067,14 +1163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 250888,
-      "num": 250888,
-      "word": "小猫皮草传到了国外",
-      "onboard_time": 1736080888,
-      "rank": 10,
-      "category": "情感"
-    },
-    {
       "raw_hot": 247674,
       "num": 646202,
       "word": "周杰伦迪拜演唱会上座率",
@@ -1139,12 +1227,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 236146,
+      "num": 236146,
+      "word": "古剑奇谭含塌量还在上升",
+      "onboard_time": 1736082630,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 234937,
       "num": 300141,
       "word": "成毅在哪摔跤就在哪社交",
       "onboard_time": 1736049211,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232843,
+      "num": 286420,
+      "word": "中式烧烤刷屏韩国社交媒体",
+      "onboard_time": 1736078968,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 229666,
@@ -1219,20 +1323,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217152,
+      "num": 340227,
+      "word": "吉林一公司发消费券代替工资",
+      "onboard_time": 1736082209,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 217035,
       "num": 646892,
       "word": "张家口一冬泳者被困冰层下",
       "onboard_time": 1736067625,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 213263,
-      "num": 213263,
-      "word": "赵今麦 我家有女初长成",
-      "onboard_time": 1736080949,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 213258,
@@ -1323,6 +1427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201617,
+      "num": 201617,
+      "word": "秦志戬前往林高远家中探望",
+      "onboard_time": 1736082088,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200238,
       "num": 219122,
       "word": "丁禹兮领奖",
@@ -1355,20 +1467,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 197344,
-      "num": 257487,
-      "word": "中式烧烤刷屏韩国社交媒体",
-      "onboard_time": 1736078968,
-      "rank": 9,
-      "category": "美食"
-    },
-    {
       "raw_hot": 197239,
       "num": 346859,
       "word": "王者荣耀",
       "onboard_time": 1736073027,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 196919,
+      "num": 196919,
+      "word": "整栋楼都醒了就妹妹没醒",
+      "onboard_time": 1736078968,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 196295,
@@ -1403,14 +1515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190036,
-      "num": 190036,
-      "word": "整栋楼都醒了就妹妹没醒",
-      "onboard_time": 1736078968,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 187484,
       "num": 187484,
       "word": "李现苦笑",
@@ -1435,14 +1539,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 181761,
-      "num": 181761,
-      "word": "aespa宁宁减肥前后对比",
-      "onboard_time": 1736081309,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 181588,
       "num": 494847,
       "word": "麦子阿姨说60多了想为自己活一把",
@@ -1460,7 +1556,7 @@
     },
     {
       "raw_hot": 179267,
-      "num": 163244,
+      "num": 167588,
       "word": "只有我注意旁边那个男的的口红了吗",
       "onboard_time": 1736081428,
       "rank": 40,
@@ -1489,6 +1585,14 @@
       "onboard_time": 1736049091,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171747,
+      "num": 171747,
+      "word": "医生说6种病是衰老正常现象",
+      "onboard_time": 1736080409,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 170240,
@@ -1571,14 +1675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 156280,
-      "num": 156280,
-      "word": "丁禹兮 陪伴虞书欣每一个第一次",
-      "onboard_time": 1736077527,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 154854,
       "num": 647822,
       "word": "经济学家建议补贴初婚初育",
@@ -1659,22 +1755,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 145538,
-      "num": 145538,
-      "word": "黄景瑜daddy是一种感觉",
-      "onboard_time": 1736081368,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 145003,
-      "num": 193043,
-      "word": "目前流感病毒99%以上是甲流",
-      "onboard_time": 1736081487,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 144751,
       "num": 318478,
       "word": "众星现身央视春晚首次联排",
@@ -1683,28 +1763,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143185,
-      "num": 143185,
-      "word": "医生说6种病是衰老正常现象",
-      "onboard_time": 1736080409,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 139786,
-      "num": 139786,
+      "raw_hot": 144602,
+      "num": 144602,
       "word": "成为了被孙颖莎的善意关照的女孩",
       "onboard_time": 1736078667,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 138329,
-      "num": 138329,
-      "word": "猎罪图鉴3宣传词出来了",
-      "onboard_time": 1736081550,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 137527,
@@ -1736,6 +1800,14 @@
       "word": "网红景点冰柱掉落女游客滑倒受伤",
       "onboard_time": 1736046150,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133929,
+      "num": 133929,
+      "word": "近期流感高发如何做好防护",
+      "onboard_time": 1736077347,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -1835,6 +1907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120682,
+      "num": 120682,
+      "word": "余宇涵翻跳NoDoubt",
+      "onboard_time": 1736083352,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119504,
       "num": 643871,
       "word": "不喜欢麻烦别人是缺爱的表现",
@@ -1865,14 +1945,6 @@
       "onboard_time": 1736044232,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117456,
-      "num": 117456,
-      "word": "反腐为了人民第一集",
-      "onboard_time": 1736080888,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 117186,
@@ -2284,7 +2356,7 @@
     },
     {
       "raw_hot": 65453,
-      "num": 190238,
+      "num": 282552,
       "word": "接所有考试全部通过",
       "onboard_time": 1736081550,
       "rank": 34,
@@ -2329,6 +2401,22 @@
       "onboard_time": 1736022493,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 56337,
+      "num": 120839,
+      "word": "联合杯美国夺冠",
+      "onboard_time": 1736081908,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 54795,
+      "num": 236218,
+      "word": "DRG终结AG小局连胜",
+      "onboard_time": 1736082630,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 53506,
@@ -2571,6 +2659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26071,
+      "num": 825916,
+      "word": "中国空间站周记又上新了",
+      "onboard_time": 1736082209,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25037,
       "num": 193308,
       "word": "张朝阳新年第一个关心我吃饭的人",
@@ -2655,6 +2751,9 @@
     },
     {
       "word": "#习近平的2024外交足迹#"
+    },
+    {
+      "word": "#人民日报五论新年贺词#"
     }
   ]
 }
