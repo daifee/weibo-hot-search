@@ -1,0 +1,410 @@
+{
+  "runTime": 1736062531637,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9627442,
+        "num": 9627442,
+        "word": "三人行导演回应",
+        "onboard_time": 1736053351,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 695897,
+        "num": 695897,
+        "word": "低于这个价格可能买不到真羽绒",
+        "onboard_time": 1736046211,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 69133,
+        "num": 418408,
+        "word": "非遗总数世界第一是什么体验",
+        "onboard_time": 1736039309,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 413971,
+        "num": 413971,
+        "word": "全国流感病毒阳性率快速上升",
+        "onboard_time": 1736052631,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 324794,
+        "num": 324794,
+        "word": "清华北大不是谁的揽客招牌",
+        "onboard_time": 1736057249,
+        "rank": 4,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 1478423,
+        "num": 324714,
+        "word": "孙琳 娱乐圈最勇的人出现了",
+        "onboard_time": 1736048189,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1449618,
+        "num": 324352,
+        "word": "姜尘录音",
+        "onboard_time": 1736042491,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 745986,
+        "num": 324043,
+        "word": "闵塔鲨方就赵丽颖高定道歉",
+        "onboard_time": 1736059288,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 323727,
+        "num": 323727,
+        "word": "嘀嗒发布19岁女孩被扔高速情况说明",
+        "onboard_time": 1736057549,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163410,
+        "num": 322637,
+        "word": "经济学家建议提升农村养老金",
+        "onboard_time": 1736061565,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 734971,
+        "num": 320419,
+        "word": "被家暴16次女子总结2024",
+        "onboard_time": 1736058268,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 486040,
+        "num": 319515,
+        "word": "虞书欣星光大赏出图",
+        "onboard_time": 1736057249,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 410803,
+        "num": 316981,
+        "word": "古相思曲",
+        "onboard_time": 1736057069,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 366445,
+        "num": 315752,
+        "word": "互撕撕不出观众心中的男一号",
+        "onboard_time": 1736056894,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313827,
+        "num": 313827,
+        "word": "19岁女生被丢高速后司机账号被封禁",
+        "onboard_time": 1736059288,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301581,
+        "num": 301581,
+        "word": "三人行群演爆料",
+        "onboard_time": 1736060606,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297292,
+        "num": 297292,
+        "word": "谷雨 蒋奇明",
+        "onboard_time": 1736054848,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281802,
+        "num": 281802,
+        "word": "上海一餐厅爆火晚10点后满眼韩国人",
+        "onboard_time": 1736060006,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 238741,
+        "num": 238741,
+        "word": "后天就是腊八节",
+        "onboard_time": 1736036484,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186303,
+        "num": 238720,
+        "word": "光遇",
+        "onboard_time": 1736060905,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2977238,
+        "num": 238204,
+        "word": "马天宇 李明德",
+        "onboard_time": 1735991665,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 306561,
+        "num": 237965,
+        "word": "网友用樊振东身份证号发红包后致歉",
+        "onboard_time": 1736051129,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175679,
+        "num": 237619,
+        "word": "为啥说小寒胜大寒",
+        "onboard_time": 1736041112,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167596,
+        "num": 237480,
+        "word": "十个勤天官宣微博之夜",
+        "onboard_time": 1736061265,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34777,
+        "num": 237158,
+        "word": "勇士战胜灰熊",
+        "onboard_time": 1736061866,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2410204,
+        "num": 236940,
+        "word": "马天宇回应",
+        "onboard_time": 1736007874,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1887634,
+        "num": 236740,
+        "word": "李明德直播回击",
+        "onboard_time": 1736008895,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142167,
+        "num": 236200,
+        "word": "农村宅基地废弃面积760万公顷",
+        "onboard_time": 1736053589,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 845562,
+        "num": 236053,
+        "word": "王嘉尔 共鸣",
+        "onboard_time": 1736033777,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42272,
+        "num": 235821,
+        "word": "刘雅瑟官宣微博之夜",
+        "onboard_time": 1736062468,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113904,
+        "num": 235432,
+        "word": "团建打工人挤爆汤泉馆",
+        "onboard_time": 1736060546,
+        "rank": 30,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 296185,
+        "num": 235296,
+        "word": "王宝强说这把变聪明了",
+        "onboard_time": 1736061385,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291542,
+        "num": 234842,
+        "word": "丁禹兮接虞书欣下台",
+        "onboard_time": 1736001995,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234782,
+        "num": 234782,
+        "word": "林更新赵丽颖张碧晨同框",
+        "onboard_time": 1736062107,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210995,
+        "num": 210995,
+        "word": "杨紫新剧为和离当众曝光夫君外遇",
+        "onboard_time": 1736061866,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204482,
+        "num": 204482,
+        "word": "千朵桃花床塌了那一下",
+        "onboard_time": 1736061085,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196409,
+        "num": 196409,
+        "word": "蛇年央视春晚首次联排",
+        "onboard_time": 1736048249,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212642,
+        "num": 193897,
+        "word": "丁禹兮听张若昀发言眼泛泪光",
+        "onboard_time": 1736060606,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186102,
+        "num": 186102,
+        "word": "周杰伦迪拜演唱会上座率",
+        "onboard_time": 1736055508,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 174250,
+        "num": 174250,
+        "word": "马斯克评论俄乌士兵激烈肉搏",
+        "onboard_time": 1736061565,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 170518,
+        "num": 170518,
+        "word": "孟子义说要去录歌周一围笑了",
+        "onboard_time": 1736058088,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169259,
+        "num": 169259,
+        "word": "三人行工作人员发声",
+        "onboard_time": 1736058628,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196295,
+        "num": 169253,
+        "word": "张若昀哽咽发言",
+        "onboard_time": 1736060726,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164287,
+        "num": 164287,
+        "word": "于正谈年轻时被不公平对待",
+        "onboard_time": 1736046811,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152714,
+        "num": 152714,
+        "word": "明德元年",
+        "onboard_time": 1736047111,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125243,
+        "num": 125243,
+        "word": "专家称宅基地进入市场价值达1.3万亿",
+        "onboard_time": 1736051129,
+        "rank": 45,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 124470,
+        "num": 124470,
+        "word": "以色列遭导弹袭击",
+        "onboard_time": 1736054549,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120834,
+        "num": 120834,
+        "word": "小寒一过年味越来越浓了",
+        "onboard_time": 1736043872,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114725,
+        "num": 114725,
+        "word": "梅西没去领拜登授予的总统自由勋章",
+        "onboard_time": 1736047230,
+        "rank": 48,
+        "category": "国际时政,体育"
+      },
+      {
+        "raw_hot": 111371,
+        "num": 111371,
+        "word": "用中式美学打开2025第一个节气",
+        "onboard_time": 1736049091,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的2024外交足迹#"
+    }
+  }
+}
