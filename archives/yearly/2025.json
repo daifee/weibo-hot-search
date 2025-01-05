@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736068883420,
+  "endTime": 1736069726304,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1267,6 +1267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 982950,
+      "num": 1157272,
+      "word": "古剑奇谭",
+      "onboard_time": 1736063488,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 981982,
       "num": 335727,
       "word": "芒果影视台 真干不了退圈不就行",
@@ -2193,14 +2201,6 @@
       "onboard_time": 1735995569,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 632873,
-      "num": 525222,
-      "word": "古剑奇谭",
-      "onboard_time": 1736063488,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 628232,

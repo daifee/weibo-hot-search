@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736068883420,
+  "endTime": 1736069726304,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -235,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 982950,
+      "num": 1157272,
+      "word": "古剑奇谭",
+      "onboard_time": 1736063488,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 908197,
       "num": 908197,
       "word": "星光大赏这谁啊",
@@ -339,14 +347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 632873,
-      "num": 525222,
-      "word": "古剑奇谭",
-      "onboard_time": 1736063488,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 628232,
       "num": 4077017,
       "word": "全国流感病毒阳性率快速上升",
@@ -411,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 518491,
+      "num": 523342,
+      "word": "橙光崩了",
+      "onboard_time": 1736066006,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 518143,
       "num": 5245498,
       "word": "女孩凌晨店内熟睡突遭陌生男子闯入",
@@ -457,6 +465,14 @@
       "onboard_time": 1736039249,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 491387,
+      "num": 491387,
+      "word": "张碧晨赵丽颖林更新合照",
+      "onboard_time": 1736069007,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 460531,
@@ -595,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 346084,
+      "num": 519835,
+      "word": "李昀锐生图",
+      "onboard_time": 1736065047,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 345772,
       "num": 2742049,
       "word": "张碧晨 见到爱人了风都是甜的",
@@ -611,14 +635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 344569,
-      "num": 523342,
-      "word": "橙光崩了",
-      "onboard_time": 1736066006,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 330157,
       "num": 2706757,
       "word": "娱乐圈没有女明星可怎么办",
@@ -633,14 +649,6 @@
       "onboard_time": 1736057549,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 325870,
-      "num": 519835,
-      "word": "李昀锐生图",
-      "onboard_time": 1736065047,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 321828,
@@ -771,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 264232,
+      "num": 515622,
+      "word": "为什么总感觉周末过得那么快",
+      "onboard_time": 1736065347,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 258787,
       "num": 5126842,
       "word": "江苏一地最新公布新生儿爆款名字",
@@ -835,14 +851,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 244605,
-      "num": 515622,
-      "word": "为什么总感觉周末过得那么快",
-      "onboard_time": 1736065347,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 244037,
       "num": 985761,
       "word": "机车博主波哥车祸身亡",
@@ -857,6 +865,14 @@
       "onboard_time": 1736057189,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 240690,
+      "num": 507935,
+      "word": "射雕英雄传 家永远是你的桃花岛",
+      "onboard_time": 1736066605,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 239084,
@@ -955,20 +971,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218661,
+      "num": 520601,
+      "word": "女子收到50万元转账险成电诈帮凶",
+      "onboard_time": 1736067745,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213258,
       "num": 213258,
       "word": "没人告诉我吴宇恒是bking",
       "onboard_time": 1736055869,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 212406,
-      "num": 520601,
-      "word": "女子收到50万元转账险成电诈帮凶",
-      "onboard_time": 1736067745,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 211747,
@@ -1059,14 +1075,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 197457,
-      "num": 507935,
-      "word": "射雕英雄传 家永远是你的桃花岛",
-      "onboard_time": 1736066605,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 196295,
       "num": 170208,
       "word": "张若昀哽咽发言",
@@ -1147,6 +1155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170240,
+      "num": 505024,
+      "word": "孟子义退场和李昀锐打招呼",
+      "onboard_time": 1736063668,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168845,
       "num": 296692,
       "word": "张若昀把人生的真心给了范闲",
@@ -1176,14 +1192,6 @@
       "word": "李昀锐连续两年星光大赏坐到最后",
       "onboard_time": 1736036844,
       "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 159692,
-      "num": 505024,
-      "word": "孟子义退场和李昀锐打招呼",
-      "onboard_time": 1736063668,
-      "rank": 34,
       "category": "综艺"
     },
     {
@@ -1267,6 +1275,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 140400,
+      "num": 497677,
+      "word": "张家口一冬泳者被困冰层下",
+      "onboard_time": 1736067625,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137527,
       "num": 410640,
       "word": "幼儿园在厕所清洗幼儿餐具",
@@ -1289,6 +1305,14 @@
       "onboard_time": 1736046150,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131088,
+      "num": 483640,
+      "word": "嘀嗒出行回应女生坐顺风车被甩高速",
+      "onboard_time": 1736068885,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 129783,
@@ -1329,6 +1353,14 @@
       "onboard_time": 1736048310,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120606,
+      "num": 462334,
+      "word": "赶女生在高速下车司机已被封号",
+      "onboard_time": 1736069305,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117862,
@@ -1379,6 +1411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114289,
+      "num": 499425,
+      "word": "感觉成毅头上永远有个加载符号",
+      "onboard_time": 1736064026,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113904,
       "num": 458584,
       "word": "团建打工人挤爆汤泉馆",
@@ -1409,14 +1449,6 @@
       "onboard_time": 1736035160,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 107706,
-      "num": 499425,
-      "word": "感觉成毅头上永远有个加载符号",
-      "onboard_time": 1736064026,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 106249,
@@ -1459,6 +1491,14 @@
       "category": "国际时政,国内时政"
     },
     {
+      "raw_hot": 103688,
+      "num": 496874,
+      "word": "不喜欢麻烦别人是缺爱的表现",
+      "onboard_time": 1736067805,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 103538,
       "num": 2692103,
       "word": "星光大赏",
@@ -1467,20 +1507,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102997,
-      "num": 497677,
-      "word": "张家口一冬泳者被困冰层下",
-      "onboard_time": 1736067625,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101346,
       "num": 101346,
       "word": "九重紫",
       "onboard_time": 1736047769,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100567,
+      "num": 492924,
+      "word": "张远 抽象是会传染的",
+      "onboard_time": 1736068524,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 98278,
@@ -1507,14 +1547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95306,
-      "num": 496874,
-      "word": "不喜欢麻烦别人是缺爱的表现",
-      "onboard_time": 1736067805,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 94953,
       "num": 94953,
       "word": "消散对白",
@@ -1523,7 +1555,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 94055,
+      "raw_hot": 94434,
       "num": 495665,
       "word": "90后开始在刀郎演唱会门口接爸妈了",
       "onboard_time": 1736068286,
@@ -1595,14 +1627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 84511,
-      "num": 492924,
-      "word": "张远 抽象是会传染的",
-      "onboard_time": 1736068524,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
       "raw_hot": 82425,
       "num": 360575,
       "word": "近期去韩国旅游要增强保护意识",
@@ -1641,6 +1665,14 @@
       "onboard_time": 1736063846,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 73853,
+      "num": 447574,
+      "word": "柯南迷宫的十字路口票房破亿",
+      "onboard_time": 1736069665,
+      "rank": 49,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 73620,
@@ -1739,6 +1771,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 57076,
+      "num": 506601,
+      "word": "希望期末周的老师belike",
+      "onboard_time": 1736068286,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 53506,
       "num": 158765,
       "word": "全麻后他加了一次最狠的班",
@@ -1811,14 +1851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 42562,
-      "num": 506601,
-      "word": "希望期末周的老师belike",
-      "onboard_time": 1736068286,
-      "rank": 28,
-      "category": "教育"
-    },
-    {
       "raw_hot": 42272,
       "num": 235821,
       "word": "刘雅瑟官宣微博之夜",
@@ -1851,6 +1883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39666,
+      "num": 516638,
+      "word": "养好自己就是进步",
+      "onboard_time": 1736067625,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 37627,
       "num": 320528,
       "word": "车厘子价格还会降吗",
@@ -1873,6 +1913,14 @@
       "onboard_time": 1736061866,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34278,
+      "num": 482016,
+      "word": "潘粤明官宣2024微博之夜",
+      "onboard_time": 1736069425,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 34031,
@@ -1915,14 +1963,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 29016,
-      "num": 516638,
-      "word": "养好自己就是进步",
-      "onboard_time": 1736067625,
-      "rank": 14,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 28421,
       "num": 83209,
       "word": "布莱顿vs阿森纳",
@@ -1955,6 +1995,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 23113,
+      "num": 505595,
+      "word": "冬天吉林也太像童话了",
+      "onboard_time": 1736067146,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21464,
       "num": 60175,
       "word": "小寒来啦",
@@ -1969,14 +2017,6 @@
       "onboard_time": 1736053290,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 20810,
-      "num": 505595,
-      "word": "冬天吉林也太像童话了",
-      "onboard_time": 1736067146,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17204,

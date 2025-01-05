@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/05 17:21:23
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/05 17:35:26
 </p>
 </blockquote>
 <p>
@@ -963,6 +963,12 @@ R1SE合体（热度：994873）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E5%89%91%E5%A5%87%E8%B0%AD%23" target="weibo">
+古剑奇谭（热度：982950）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%9E%9C%E5%BD%B1%E8%A7%86%E5%8F%B0%20%E7%9C%9F%E5%B9%B2%E4%B8%8D%E4%BA%86%E9%80%80%E5%9C%88%E4%B8%8D%E5%B0%B1%E8%A1%8C%23" target="weibo">
 芒果影视台 真干不了退圈不就行（热度：981982）
 </a>
@@ -1655,12 +1661,6 @@ R1SE舞台（热度：868936）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%92%8C%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%89%93%E6%8B%9B%E5%91%BC%23" target="weibo">
 成毅和赵丽颖打招呼（热度：633445）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E5%89%91%E5%A5%87%E8%B0%AD%23" target="weibo">
-古剑奇谭（热度：632873）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1736069726304,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 982950,
+        "num": 1157272,
+        "word": "古剑奇谭",
+        "onboard_time": 1736063488,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 543644,
+        "num": 543644,
+        "word": "全国流感病毒阳性率快速上升",
+        "onboard_time": 1736052631,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 28483,
+        "num": 528516,
+        "word": "古画里的隆冬之美",
+        "onboard_time": 1736064509,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 652320,
+        "num": 527969,
+        "word": "闵塔鲨方就赵丽颖高定道歉",
+        "onboard_time": 1736059288,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 518491,
+        "num": 518491,
+        "word": "橙光崩了",
+        "onboard_time": 1736066006,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 336416,
+        "num": 509161,
+        "word": "央视曝95起加油站案逃税7.9亿元",
+        "onboard_time": 1736063125,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 502785,
+        "num": 502785,
+        "word": "张碧晨夹在虞书欣丁禹兮中间",
+        "onboard_time": 1736063488,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316175,
+        "num": 500686,
+        "word": "低于这个价格可能买不到真羽绒",
+        "onboard_time": 1736046211,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 265827,
+        "num": 497568,
+        "word": "19岁女生被丢高速后司机账号被封禁",
+        "onboard_time": 1736059288,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264232,
+        "num": 494429,
+        "word": "为什么总感觉周末过得那么快",
+        "onboard_time": 1736065347,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 352476,
+        "num": 492600,
+        "word": "网传王鹤棣孟子义主演烛月潮生",
+        "onboard_time": 1736065347,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 491387,
+        "num": 491387,
+        "word": "张碧晨赵丽颖林更新合照",
+        "onboard_time": 1736069007,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346084,
+        "num": 490616,
+        "word": "李昀锐生图",
+        "onboard_time": 1736065047,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 274454,
+        "num": 490064,
+        "word": "华晨宇全场买单",
+        "onboard_time": 1736063787,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 39666,
+        "num": 487910,
+        "word": "养好自己就是进步",
+        "onboard_time": 1736067625,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 218661,
+        "num": 487200,
+        "word": "女子收到50万元转账险成电诈帮凶",
+        "onboard_time": 1736067745,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173491,
+        "num": 486256,
+        "word": "马斯克评论俄乌士兵激烈肉搏",
+        "onboard_time": 1736061565,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162665,
+        "num": 484513,
+        "word": "嘀嗒发布19岁女孩被扔高速情况说明",
+        "onboard_time": 1736057549,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131088,
+        "num": 483640,
+        "word": "嘀嗒出行回应女生坐顺风车被甩高速",
+        "onboard_time": 1736068885,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 34278,
+        "num": 482016,
+        "word": "潘粤明官宣2024微博之夜",
+        "onboard_time": 1736069425,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 9497037,
+        "num": 481943,
+        "word": "李明德晒聊天记录",
+        "onboard_time": 1736063366,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 576258,
+        "num": 479884,
+        "word": "王嘉尔 共鸣",
+        "onboard_time": 1736033777,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7738592,
+        "num": 479308,
+        "word": "三人行导演回应",
+        "onboard_time": 1736053351,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125747,
+        "num": 478150,
+        "word": "经济学家建议提升农村养老金",
+        "onboard_time": 1736061565,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 2063830,
+        "num": 477316,
+        "word": "马天宇回应",
+        "onboard_time": 1736007874,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338229,
+        "num": 475597,
+        "word": "姜尘录音",
+        "onboard_time": 1736042491,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240690,
+        "num": 473853,
+        "word": "射雕英雄传 家永远是你的桃花岛",
+        "onboard_time": 1736066605,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225387,
+        "num": 473665,
+        "word": "丁禹兮接虞书欣下台",
+        "onboard_time": 1736001995,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180540,
+        "num": 472153,
+        "word": "周杰伦迪拜演唱会上座率",
+        "onboard_time": 1736055508,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23113,
+        "num": 471167,
+        "word": "冬天吉林也太像童话了",
+        "onboard_time": 1736067146,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157954,
+        "num": 469992,
+        "word": "网友用樊振东身份证号发红包后致歉",
+        "onboard_time": 1736051129,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186438,
+        "num": 468661,
+        "word": "李现分界现",
+        "onboard_time": 1736062825,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170240,
+        "num": 467471,
+        "word": "孟子义退场和李昀锐打招呼",
+        "onboard_time": 1736063668,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144203,
+        "num": 466311,
+        "word": "李相夷用婆娑步震惊范闲",
+        "onboard_time": 1736057189,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140400,
+        "num": 465139,
+        "word": "张家口一冬泳者被困冰层下",
+        "onboard_time": 1736067625,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128541,
+        "num": 463413,
+        "word": "周深快把张若昀唱哭了",
+        "onboard_time": 1736064089,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120606,
+        "num": 462334,
+        "word": "赶女生在高速下车司机已被封号",
+        "onboard_time": 1736069305,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114289,
+        "num": 461087,
+        "word": "感觉成毅头上永远有个加载符号",
+        "onboard_time": 1736064026,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109476,
+        "num": 460454,
+        "word": "甲流7日病程用药图",
+        "onboard_time": 1736048969,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 106604,
+        "num": 459739,
+        "word": "蛇年春晚等着你",
+        "onboard_time": 1736065768,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103688,
+        "num": 458072,
+        "word": "不喜欢麻烦别人是缺爱的表现",
+        "onboard_time": 1736067805,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 57076,
+        "num": 456864,
+        "word": "希望期末周的老师belike",
+        "onboard_time": 1736068286,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100567,
+        "num": 455160,
+        "word": "张远 抽象是会传染的",
+        "onboard_time": 1736068524,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99251,
+        "num": 454805,
+        "word": "经济学家建议补贴初婚初育",
+        "onboard_time": 1736066906,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96838,
+        "num": 452951,
+        "word": "蛇年央视春晚首次联排",
+        "onboard_time": 1736048249,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94434,
+        "num": 452670,
+        "word": "90后开始在刀郎演唱会门口接爸妈了",
+        "onboard_time": 1736068286,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 88251,
+        "num": 451366,
+        "word": "公安局摄影师为拍儿童证件照学动画片",
+        "onboard_time": 1736066186,
+        "rank": 46,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 88080,
+        "num": 450021,
+        "word": "被家暴16次女子总结2024",
+        "onboard_time": 1736058268,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76532,
+        "num": 448902,
+        "word": "为啥说小寒胜大寒",
+        "onboard_time": 1736041112,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73853,
+        "num": 447574,
+        "word": "柯南迷宫的十字路口票房破亿",
+        "onboard_time": 1736069665,
+        "rank": 49,
+        "category": "电影,动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的2024外交足迹#"
+    }
+  }
+}
