@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736109337402,
+  "endTime": 1736111984329,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -3107,6 +3107,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 39294,
+      "num": 36928,
+      "word": "顺风车司机将女子高速赶下车被行拘",
+      "onboard_time": 1736108651,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37627,
       "num": 320528,
       "word": "车厘子价格还会降吗",
@@ -3299,19 +3307,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 20448,
+      "num": 20448,
+      "word": "俄乌士兵肉搏视频曝光",
+      "onboard_time": 1736108291,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 20190,
       "num": 433290,
       "word": "纪检监察机关瞄准民生大事深挖贪腐",
       "onboard_time": 1736089230,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20149,
-      "num": 20149,
-      "word": "顺风车司机将女子高速赶下车被行拘",
-      "onboard_time": 1736108651,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -3353,14 +3361,6 @@
       "onboard_time": 1736076506,
       "rank": 14,
       "category": ""
-    },
-    {
-      "raw_hot": 14716,
-      "num": 17551,
-      "word": "俄乌士兵肉搏视频曝光",
-      "onboard_time": 1736108291,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 13176,
