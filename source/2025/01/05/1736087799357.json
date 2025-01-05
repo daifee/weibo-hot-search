@@ -1,0 +1,410 @@
+{
+  "runTime": 1736087799357,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1332026,
+        "num": 1332026,
+        "word": "从校园餐里1毛钱1毛钱贪了23万",
+        "onboard_time": 1736083231,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 923236,
+        "num": 923236,
+        "word": "祝绪丹丁禹兮 最好的慕家姐弟",
+        "onboard_time": 1736082329,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44719,
+        "num": 900423,
+        "word": "中国空间站周记又上新了",
+        "onboard_time": 1736082209,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 898753,
+        "num": 898753,
+        "word": "王俊凯玩无畏契约",
+        "onboard_time": 1736086409,
+        "rank": 3,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 707154,
+        "num": 707154,
+        "word": "贪官把个人收款码贴在办事大厅",
+        "onboard_time": 1736084310,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 696318,
+        "num": 696318,
+        "word": "目前流感病毒99%以上是甲流",
+        "onboard_time": 1736081487,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 538011,
+        "num": 538011,
+        "word": "小猫皮草传到了国外",
+        "onboard_time": 1736080888,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 523481,
+        "num": 523481,
+        "word": "吉林一公司发消费券代替工资",
+        "onboard_time": 1736082209,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 404778,
+        "num": 404778,
+        "word": "韩国客机失事前疑撞上鸟群画面曝光",
+        "onboard_time": 1736079868,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 141924,
+        "num": 390810,
+        "word": "多地流感神药需求暴涨",
+        "onboard_time": 1736085991,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 752002,
+        "num": 390265,
+        "word": "禁娱一解除就来泡泡的爱豆",
+        "onboard_time": 1736084670,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415218,
+        "num": 388997,
+        "word": "30岁博士生杜梅病逝遗书让人泪目",
+        "onboard_time": 1736075787,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387550,
+        "num": 387550,
+        "word": "国际乒联调查组被疑是自查",
+        "onboard_time": 1736085511,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 375811,
+        "num": 375811,
+        "word": "TOP登陆少年",
+        "onboard_time": 1736085630,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1004244,
+        "num": 373564,
+        "word": "虞书欣 顺手的事",
+        "onboard_time": 1736072185,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371062,
+        "num": 371062,
+        "word": "李现来到了谢之遥的有风小院",
+        "onboard_time": 1736084370,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303798,
+        "num": 303798,
+        "word": "aespa宁宁减肥前后对比",
+        "onboard_time": 1736081309,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277710,
+        "num": 277710,
+        "word": "猎罪图鉴3宣传词出来了",
+        "onboard_time": 1736081550,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274497,
+        "num": 274497,
+        "word": "赵今麦 我家有女初长成",
+        "onboard_time": 1736080949,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11377,
+        "num": 274252,
+        "word": "董事长内幕交易获利20万被罚150万",
+        "onboard_time": 1736087549,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3931862,
+        "num": 273928,
+        "word": "三人行导演回应",
+        "onboard_time": 1736053351,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 829018,
+        "num": 273307,
+        "word": "廖慧佳晒聊天记录",
+        "onboard_time": 1736076265,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 770980,
+        "num": 272879,
+        "word": "至此已成艺术",
+        "onboard_time": 1736085449,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448282,
+        "num": 272414,
+        "word": "猫在洗衣机里洗了2分钟才被发现",
+        "onboard_time": 1736083290,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57726,
+        "num": 271991,
+        "word": "我一定会过的",
+        "onboard_time": 1736085811,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 169533,
+        "num": 271838,
+        "word": "小猫咪一爪子挠坏乌军无人机",
+        "onboard_time": 1736085870,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 382460,
+        "num": 271353,
+        "word": "25岁女子体检正常半个月后确诊胃癌",
+        "onboard_time": 1736075667,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 271084,
+        "num": 271084,
+        "word": "丁禹兮 陪伴虞书欣每一个第一次",
+        "onboard_time": 1736077527,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230268,
+        "num": 230268,
+        "word": "秦志戬前往林高远家中探望",
+        "onboard_time": 1736082088,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224506,
+        "num": 224506,
+        "word": "赵丽颖更新朋友圈",
+        "onboard_time": 1736077406,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221826,
+        "num": 221826,
+        "word": "反腐为了人民第一集",
+        "onboard_time": 1736080888,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 210770,
+        "num": 210770,
+        "word": "国考",
+        "onboard_time": 1736078126,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 208518,
+        "num": 208518,
+        "word": "黄景瑜daddy是一种感觉",
+        "onboard_time": 1736081368,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205681,
+        "num": 205681,
+        "word": "祝绪丹急得站起来嗑",
+        "onboard_time": 1736086299,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197594,
+        "num": 197594,
+        "word": "檀健次终于跳上晚安大小姐了",
+        "onboard_time": 1736087249,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182454,
+        "num": 182454,
+        "word": "整栋楼都醒了就妹妹没醒",
+        "onboard_time": 1736078968,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175058,
+        "num": 175058,
+        "word": "不建议随便答应外国人的露营邀请",
+        "onboard_time": 1736086589,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168012,
+        "num": 168012,
+        "word": "医生说6种病是衰老正常现象",
+        "onboard_time": 1736080409,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 167812,
+        "num": 167812,
+        "word": "陶喆获2024百大UP主",
+        "onboard_time": 1736086409,
+        "rank": 38,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 165925,
+        "num": 165925,
+        "word": "孙珍妮 偏我来时都是春",
+        "onboard_time": 1736072306,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150300,
+        "num": 164208,
+        "word": "他们从学生餐费里收了70多万回扣",
+        "onboard_time": 1736086109,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163993,
+        "num": 163993,
+        "word": "贪官每次收钱都退回一两捆",
+        "onboard_time": 1736085210,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161914,
+        "num": 161914,
+        "word": "大奉打更人 剧情瘸腿",
+        "onboard_time": 1736083410,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158972,
+        "num": 158972,
+        "word": "跑男全员爆哭",
+        "onboard_time": 1736077106,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154237,
+        "num": 154237,
+        "word": "R1SE你们回来行不行",
+        "onboard_time": 1736084310,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154158,
+        "num": 154158,
+        "word": "日卦中天声明",
+        "onboard_time": 1736086230,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146537,
+        "num": 146537,
+        "word": "甲流",
+        "onboard_time": 1736071764,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 141868,
+        "num": 141868,
+        "word": "香港全款400万15平米的家",
+        "onboard_time": 1736087609,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135556,
+        "num": 135556,
+        "word": "家有甲流患者尽量单间居住",
+        "onboard_time": 1736080828,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125420,
+        "num": 125420,
+        "word": "单依纯嘉宾是毛不易",
+        "onboard_time": 1736084612,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民日报五论新年贺词#"
+    }
+  }
+}
