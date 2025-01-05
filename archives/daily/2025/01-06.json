@@ -1,6 +1,6 @@
 {
   "startTime": 1736094308497,
-  "endTime": 1736119257218,
+  "endTime": 1736120145438,
   "band_list": [
     {
       "raw_hot": 2133118,
@@ -35,8 +35,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 632834,
-      "num": 632834,
+      "raw_hot": 635110,
+      "num": 635110,
       "word": "警方通报19岁女生被司机扔高速",
       "onboard_time": 1736095759,
       "rank": 4,
@@ -65,6 +65,14 @@
       "onboard_time": 1736085449,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 537039,
+      "num": 537039,
+      "word": "93年女孩成市值407亿公司董事长",
+      "onboard_time": 1736095700,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 498708,
@@ -131,14 +139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 423142,
-      "num": 423142,
-      "word": "93年女孩成市值407亿公司董事长",
-      "onboard_time": 1736095700,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 411160,
       "num": 384690,
       "word": "陈奕迅看了小小的我",
@@ -152,6 +152,14 @@
       "word": "JYP新男团公开",
       "onboard_time": 1736093544,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 393236,
+      "num": 206700,
+      "word": "吴克群在广西狂买水果",
+      "onboard_time": 1736112731,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -171,12 +179,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 307021,
-      "num": 172745,
-      "word": "吴克群在广西狂买水果",
-      "onboard_time": 1736112731,
-      "rank": 46,
-      "category": "艺人"
+      "raw_hot": 321573,
+      "num": 321573,
+      "word": "贪官把个人收款码贴在办事大厅",
+      "onboard_time": 1736084310,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 300260,
@@ -185,14 +193,6 @@
       "onboard_time": 1736084670,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 299705,
-      "num": 299705,
-      "word": "贪官把个人收款码贴在办事大厅",
-      "onboard_time": 1736084310,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 259959,
@@ -235,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205212,
+      "num": 205212,
+      "word": "张彬彬 孙珍妮是全世界最好的紫啧",
+      "onboard_time": 1736118196,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204756,
       "num": 182882,
       "word": "祝绪丹丁禹兮 最好的慕家姐弟",
@@ -251,12 +259,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188253,
+      "num": 338091,
+      "word": "每加一箱油被偷走1.5升",
+      "onboard_time": 1736094742,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178908,
       "num": 178908,
       "word": "永夜星河售后",
       "onboard_time": 1736089589,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173563,
+      "num": 173563,
+      "word": "秦霄贤姐姐回应辛雨锡",
+      "onboard_time": 1736119577,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 170524,
@@ -267,22 +291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168930,
-      "num": 338091,
-      "word": "每加一箱油被偷走1.5升",
-      "onboard_time": 1736094742,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 168459,
-      "num": 168459,
-      "word": "张彬彬 孙珍妮是全世界最好的紫啧",
-      "onboard_time": 1736118196,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 167403,
       "num": 167403,
       "word": "孟子义 在综艺上一演戏就有负担",
@@ -291,8 +299,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160545,
-      "num": 160545,
+      "raw_hot": 166025,
+      "num": 166025,
       "word": "顺风车司机将女子高速赶下车被行拘",
       "onboard_time": 1736108651,
       "rank": 31,
@@ -305,6 +313,14 @@
       "onboard_time": 1736093724,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138268,
+      "num": 174228,
+      "word": "河南12岁男孩落水失联后遗体已找到",
+      "onboard_time": 1736118497,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136049,
@@ -323,11 +339,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132421,
+      "raw_hot": 133652,
       "num": 132421,
       "word": "30岁博士生杜梅病逝遗书让人泪目",
       "onboard_time": 1736075787,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133651,
+      "num": 206981,
+      "word": "央视著名主持人海霞谈反腐",
+      "onboard_time": 1736118196,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -353,6 +377,14 @@
       "onboard_time": 1736094262,
       "rank": 29,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 118709,
+      "num": 118709,
+      "word": "男孩嘴唇开裂奶奶给整了个偏方",
+      "onboard_time": 1736113692,
+      "rank": 35,
+      "category": "科学科普"
     },
     {
       "raw_hot": 115062,
@@ -393,14 +425,6 @@
       "onboard_time": 1736089469,
       "rank": 44,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 99709,
-      "num": 99709,
-      "word": "男孩嘴唇开裂奶奶给整了个偏方",
-      "onboard_time": 1736113692,
-      "rank": 35,
-      "category": "科学科普"
     },
     {
       "raw_hot": 91760,
@@ -451,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78898,
+      "num": 200836,
+      "word": "涉事公司员工回应消费券当工资",
+      "onboard_time": 1736097137,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 78155,
       "num": 78155,
       "word": "英超双红会",
@@ -465,6 +497,14 @@
       "onboard_time": 1736094683,
       "rank": 45,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 72588,
+      "num": 72588,
+      "word": "霸王茶姬称冰勃朗不是植脂末",
+      "onboard_time": 1736119940,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 72143,
@@ -483,28 +523,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 69168,
+      "num": 69168,
+      "word": "美国在俄乌冲突升级前暗中武装乌克兰",
+      "onboard_time": 1736119940,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 68793,
       "num": 68793,
       "word": "AG全胜晋级挑杯决赛",
       "onboard_time": 1736091267,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 67517,
-      "num": 64650,
-      "word": "央视著名主持人海霞谈反腐",
-      "onboard_time": 1736118196,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 64828,
-      "num": 200836,
-      "word": "涉事公司员工回应消费券当工资",
-      "onboard_time": 1736097137,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 61414,
@@ -515,6 +547,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57480,
+      "num": 57480,
+      "word": "微博之夜宋亚轩的赛博搭子",
+      "onboard_time": 1736119940,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 56106,
+      "num": 119109,
+      "word": "Faker和Chovy同队",
+      "onboard_time": 1736119219,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 55262,
       "num": 55262,
       "word": "陈奕迅在演唱会推荐小小的我",
@@ -523,7 +571,23 @@
       "category": "演出,电影"
     },
     {
-      "raw_hot": 45012,
+      "raw_hot": 49594,
+      "num": 62486,
+      "word": "去过挪威的人嘴真严",
+      "onboard_time": 1736104572,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 49082,
+      "num": 62481,
+      "word": "俄乌士兵肉搏视频曝光",
+      "onboard_time": 1736108291,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 46221,
       "num": 62519,
       "word": "人民群众痛恨什么就要坚决防范什么",
       "onboard_time": 1736099954,
@@ -539,14 +603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 41740,
-      "num": 62507,
-      "word": "Faker和Chovy同队",
-      "onboard_time": 1736119219,
-      "rank": 40,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 39444,
       "num": 43128,
       "word": "一到冬天就想吃的美食",
@@ -555,36 +611,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 37884,
-      "num": 62486,
-      "word": "去过挪威的人嘴真严",
-      "onboard_time": 1736104572,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 36545,
-      "num": 62481,
-      "word": "俄乌士兵肉搏视频曝光",
-      "onboard_time": 1736108291,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 31672,
       "num": 40424,
       "word": "鸣潮2.0版本",
       "onboard_time": 1736100315,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 27927,
-      "num": 174228,
-      "word": "河南12岁男孩落水失联后遗体已找到",
-      "onboard_time": 1736118497,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27816,

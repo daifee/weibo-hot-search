@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736119257218,
+  "endTime": 1736120145438,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -2419,20 +2419,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 635110,
+      "num": 635110,
+      "word": "警方通报19岁女生被司机扔高速",
+      "onboard_time": 1736095759,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 633445,
       "num": 409606,
       "word": "成毅和赵丽颖打招呼",
       "onboard_time": 1735995569,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 632834,
-      "num": 632834,
-      "word": "警方通报19岁女生被司机扔高速",
-      "onboard_time": 1736095759,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 626897,
@@ -2905,6 +2905,14 @@
       "onboard_time": 1735903698,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 537039,
+      "num": 537039,
+      "word": "93年女孩成市值407亿公司董事长",
+      "onboard_time": 1736095700,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 532792,
@@ -3723,14 +3731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 423142,
-      "num": 423142,
-      "word": "93年女孩成市值407亿公司董事长",
-      "onboard_time": 1736095700,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 422818,
       "num": 519688,
       "word": "开出租车被认错意外找到双胞胎兄弟",
@@ -4049,6 +4049,14 @@
       "onboard_time": 1735970778,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 393236,
+      "num": 206700,
+      "word": "吴克群在广西狂买水果",
+      "onboard_time": 1736112731,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 392656,
@@ -5161,14 +5169,6 @@
       "onboard_time": 1735866440,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 307021,
-      "num": 172745,
-      "word": "吴克群在广西狂买水果",
-      "onboard_time": 1736112731,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 305974,
@@ -7523,6 +7523,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 205212,
+      "num": 205212,
+      "word": "张彬彬 孙珍妮是全世界最好的紫啧",
+      "onboard_time": 1736118196,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205175,
       "num": 205175,
       "word": "喻言出场好辣",
@@ -8619,6 +8627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188253,
+      "num": 338091,
+      "word": "每加一箱油被偷走1.5升",
+      "onboard_time": 1736094742,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188129,
       "num": 188129,
       "word": "IVL",
@@ -9355,6 +9371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 173563,
+      "num": 173563,
+      "word": "秦霄贤姐姐回应辛雨锡",
+      "onboard_time": 1736119577,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173512,
       "num": 2681210,
       "word": "用中式美学打开2025第一个节气",
@@ -9699,14 +9723,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 168930,
-      "num": 338091,
-      "word": "每加一箱油被偷走1.5升",
-      "onboard_time": 1736094742,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 168845,
       "num": 296692,
       "word": "张若昀把人生的真心给了范闲",
@@ -9737,14 +9753,6 @@
       "onboard_time": 1735876701,
       "rank": 24,
       "category": "体育,时尚"
-    },
-    {
-      "raw_hot": 168459,
-      "num": 168459,
-      "word": "张彬彬 孙珍妮是全世界最好的紫啧",
-      "onboard_time": 1736118196,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 168281,
@@ -9889,6 +9897,14 @@
       "onboard_time": 1735781059,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 166025,
+      "num": 166025,
+      "word": "顺风车司机将女子高速赶下车被行拘",
+      "onboard_time": 1736108651,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165806,
@@ -10264,14 +10280,6 @@
       "word": "流星雨",
       "onboard_time": 1735915942,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 160545,
-      "num": 160545,
-      "word": "顺风车司机将女子高速赶下车被行拘",
-      "onboard_time": 1736108651,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -11611,6 +11619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 138268,
+      "num": 174228,
+      "word": "河南12岁男孩落水失联后遗体已找到",
+      "onboard_time": 1736118497,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137984,
       "num": 323568,
       "word": "偏头疼为啥一跳一跳",
@@ -11897,6 +11913,14 @@
       "onboard_time": 1735725320,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 133651,
+      "num": 206981,
+      "word": "央视著名主持人海霞谈反腐",
+      "onboard_time": 1736118196,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133517,
@@ -12739,6 +12763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118709,
+      "num": 118709,
+      "word": "男孩嘴唇开裂奶奶给整了个偏方",
+      "onboard_time": 1736113692,
+      "rank": 35,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 118675,
       "num": 315163,
       "word": "良心对赌换房过年靠谱吗",
@@ -13531,14 +13563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99709,
-      "num": 99709,
-      "word": "男孩嘴唇开裂奶奶给整了个偏方",
-      "onboard_time": 1736113692,
-      "rank": 35,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 99217,
       "num": 99217,
       "word": "守望先锋",
@@ -14227,6 +14251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78898,
+      "num": 200836,
+      "word": "涉事公司员工回应消费券当工资",
+      "onboard_time": 1736097137,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 78771,
       "num": 347853,
       "word": "自驾博主苏敏回应离婚进展",
@@ -14403,6 +14435,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 72588,
+      "num": 72588,
+      "word": "霸王茶姬称冰勃朗不是植脂末",
+      "onboard_time": 1736119940,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 72567,
       "num": 214732,
       "word": "父亲回应17岁网红抗癌6年后离世",
@@ -14523,6 +14563,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 69168,
+      "num": 69168,
+      "word": "美国在俄乌冲突升级前暗中武装乌克兰",
+      "onboard_time": 1736119940,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 68793,
       "num": 340124,
       "word": "AG全胜晋级挑杯决赛",
@@ -14561,14 +14609,6 @@
       "onboard_time": 1735716679,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 67517,
-      "num": 64650,
-      "word": "央视著名主持人海霞谈反腐",
-      "onboard_time": 1736118196,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 67494,
@@ -14665,14 +14705,6 @@
       "onboard_time": 1735644560,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 64828,
-      "num": 200836,
-      "word": "涉事公司员工回应消费券当工资",
-      "onboard_time": 1736097137,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 64204,
@@ -14995,6 +15027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56106,
+      "num": 119109,
+      "word": "Faker和Chovy同队",
+      "onboard_time": 1736119219,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 55262,
       "num": 55262,
       "word": "陈奕迅在演唱会推荐小小的我",
@@ -15219,12 +15259,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49594,
+      "num": 62486,
+      "word": "去过挪威的人嘴真严",
+      "onboard_time": 1736104572,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 49169,
       "num": 188559,
       "word": "嬴政传说限定皮肤",
       "onboard_time": 1735717219,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 49082,
+      "num": 62481,
+      "word": "俄乌士兵肉搏视频曝光",
+      "onboard_time": 1736108291,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 49061,
@@ -15347,6 +15403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46221,
+      "num": 62519,
+      "word": "人民群众痛恨什么就要坚决防范什么",
+      "onboard_time": 1736099954,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 45500,
       "num": 504916,
       "word": "24小时看奋进中国",
@@ -15369,14 +15433,6 @@
       "onboard_time": 1736031434,
       "rank": 38,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 45012,
-      "num": 62519,
-      "word": "人民群众痛恨什么就要坚决防范什么",
-      "onboard_time": 1736099954,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 44720,
@@ -15587,14 +15643,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 41740,
-      "num": 62507,
-      "word": "Faker和Chovy同队",
-      "onboard_time": 1736119219,
-      "rank": 40,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 41675,
       "num": 4463161,
       "word": "于适把新年剪纸玩出花",
@@ -15747,14 +15795,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 37884,
-      "num": 62486,
-      "word": "去过挪威的人嘴真严",
-      "onboard_time": 1736104572,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 37736,
       "num": 166213,
       "word": "让所有人感叹的两爬动物",
@@ -15825,14 +15865,6 @@
       "onboard_time": 1735902979,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 36545,
-      "num": 62481,
-      "word": "俄乌士兵肉搏视频曝光",
-      "onboard_time": 1736108291,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 36512,
@@ -16529,14 +16561,6 @@
       "onboard_time": 1735717099,
       "rank": 19,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 27927,
-      "num": 174228,
-      "word": "河南12岁男孩落水失联后遗体已找到",
-      "onboard_time": 1736118497,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27858,
