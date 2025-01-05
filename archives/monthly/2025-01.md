@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/06 01:18:10
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/06 01:35:04
 </p>
 </blockquote>
 <p>
@@ -1833,6 +1833,12 @@ R1SE舞台（热度：868936）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A519%E5%B2%81%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%8F%B8%E6%9C%BA%E6%89%94%E9%AB%98%E9%80%9F%23" target="weibo">
+警方通报19岁女生被司机扔高速（热度：632834）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E4%BB%A5%E8%8B%A5%23" target="weibo">
 徐以若（热度：626897）
 </a>
@@ -3017,12 +3023,6 @@ JYP新男团公开（热度：397387）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2319%E5%B2%81%E5%A5%B3%E7%94%9F%E8%A2%AB%E4%B8%A2%E9%AB%98%E9%80%9F%E5%90%8E%E5%8F%B8%E6%9C%BA%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81%E7%A6%81%23" target="weibo">
 19岁女生被丢高速后司机账号被封禁（热度：394385）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A519%E5%B2%81%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%8F%B8%E6%9C%BA%E6%89%94%E9%AB%98%E9%80%9F%23" target="weibo">
-警方通报19岁女生被司机扔高速（热度：394323）
 </a>
 </li>
 
@@ -4911,14 +4911,14 @@ BLACKPINK5月完整体回归（热度：237500）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E5%BA%A6%E5%8F%8D%E8%85%90%E5%A4%A7%E7%89%87%23" target="weibo">
-年度反腐大片（热度：236830）
+<a href="https://s.weibo.com/weibo?q=%2393%E5%B9%B4%E5%A5%B3%E5%AD%A9%E6%88%90%E5%B8%82%E5%80%BC407%E4%BA%BF%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B%E9%95%BF%23" target="weibo">
+93年女孩成市值407亿公司董事长（热度：237099）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2393%E5%B9%B4%E5%A5%B3%E5%AD%A9%E6%88%90%E5%B8%82%E5%80%BC407%E4%BA%BF%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B%E9%95%BF%23" target="weibo">
-93年女孩成市值407亿公司董事长（热度：235905）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E5%BA%A6%E5%8F%8D%E8%85%90%E5%A4%A7%E7%89%87%23" target="weibo">
+年度反腐大片（热度：236830）
 </a>
 </li>
 
