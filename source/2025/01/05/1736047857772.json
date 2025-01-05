@@ -1,0 +1,410 @@
+{
+  "runTime": 1736047857772,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11411056,
+        "num": 11411056,
+        "word": "马天宇 李明德",
+        "onboard_time": 1735991665,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 427187,
+        "num": 4313336,
+        "word": "林高远父亲去世",
+        "onboard_time": 1736005415,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69042,
+        "num": 2578910,
+        "word": "非遗总数世界第一是什么体验",
+        "onboard_time": 1736039309,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2167137,
+        "num": 2167137,
+        "word": "姜尘晒录音提张颂文名字",
+        "onboard_time": 1736042491,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475252,
+        "num": 475252,
+        "word": "女子偷偷用公共餐具喂狗",
+        "onboard_time": 1736040271,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377278,
+        "num": 377278,
+        "word": "低于这个价格可能买不到真羽绒",
+        "onboard_time": 1736046211,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 726580,
+        "num": 368059,
+        "word": "丁禹兮接虞书欣下台",
+        "onboard_time": 1736001995,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411666,
+        "num": 366849,
+        "word": "汪峰又发新歌了",
+        "onboard_time": 1736039249,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 353221,
+        "num": 353221,
+        "word": "韩国国产白菜辣椒或将消失",
+        "onboard_time": 1736041715,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 345155,
+        "num": 345155,
+        "word": "果然爱老婆会发达",
+        "onboard_time": 1736042013,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372093,
+        "num": 340317,
+        "word": "三人行剧组回应",
+        "onboard_time": 1736000553,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317950,
+        "num": 317950,
+        "word": "张碧晨 见到爱人了风都是甜的",
+        "onboard_time": 1736040331,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327489,
+        "num": 317111,
+        "word": "三人行",
+        "onboard_time": 1736011465,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313937,
+        "num": 313937,
+        "word": "为啥说小寒胜大寒",
+        "onboard_time": 1736041112,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134101,
+        "num": 310605,
+        "word": "网红景点冰柱掉落女游客滑倒受伤",
+        "onboard_time": 1736046150,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211586,
+        "num": 306679,
+        "word": "第一次这么清晰看到小鸟喝露水",
+        "onboard_time": 1736043512,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208865,
+        "num": 298141,
+        "word": "许昕回复节哀",
+        "onboard_time": 1736041532,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181358,
+        "num": 295509,
+        "word": "梅西没去领拜登授予的总统自由勋章",
+        "onboard_time": 1736047230,
+        "rank": 17,
+        "category": "国际时政,体育"
+      },
+      {
+        "raw_hot": 150721,
+        "num": 289746,
+        "word": "台球女助教被客人开球砸到手指骨折",
+        "onboard_time": 1736046751,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29452,
+        "num": 283328,
+        "word": "最后的告别导演曾是电影学院保安",
+        "onboard_time": 1736046150,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 9321905,
+        "num": 277569,
+        "word": "马天宇回应",
+        "onboard_time": 1736007874,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2731782,
+        "num": 270945,
+        "word": "王嘉尔 共鸣",
+        "onboard_time": 1736033777,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148550,
+        "num": 264025,
+        "word": "骨骼缺陷男子扮成黄油小熊卖糖葫芦",
+        "onboard_time": 1736039430,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263149,
+        "num": 263149,
+        "word": "于正谈年轻时被不公平对待",
+        "onboard_time": 1736046811,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26388,
+        "num": 259881,
+        "word": "罗斯之夜",
+        "onboard_time": 1736040572,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257628,
+        "num": 257628,
+        "word": "孟子义李昀锐 他说她可爱",
+        "onboard_time": 1736003856,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247046,
+        "num": 247046,
+        "word": "丁禹兮又争又抢",
+        "onboard_time": 1736035160,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243732,
+        "num": 243732,
+        "word": "虞书欣祝绪丹贴贴",
+        "onboard_time": 1736034498,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197711,
+        "num": 197711,
+        "word": "明德元年",
+        "onboard_time": 1736047111,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182345,
+        "num": 182345,
+        "word": "田曦薇领奖像走秀",
+        "onboard_time": 1736037083,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170307,
+        "num": 170307,
+        "word": "周柯宇举着迪丽热巴走红毯",
+        "onboard_time": 1736038046,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153112,
+        "num": 153112,
+        "word": "李昀锐连续两年星光大赏坐到最后",
+        "onboard_time": 1736036844,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 771392,
+        "num": 149966,
+        "word": "徐梦洁打开微博天塌了",
+        "onboard_time": 1736039430,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143828,
+        "num": 143828,
+        "word": "美媒称中国战斗机影响F35销量",
+        "onboard_time": 1736040993,
+        "rank": 33,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 52138,
+        "num": 141434,
+        "word": "公牛退役罗斯球衣",
+        "onboard_time": 1736039490,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141361,
+        "num": 141361,
+        "word": "9个表现是身体释放的缺觉信号",
+        "onboard_time": 1736027231,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134583,
+        "num": 134583,
+        "word": "就这个赵丽颖爽",
+        "onboard_time": 1736036545,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123581,
+        "num": 123581,
+        "word": "后天就是腊八节",
+        "onboard_time": 1736036484,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119248,
+        "num": 119248,
+        "word": "娱乐圈没有女明星可怎么办",
+        "onboard_time": 1736047410,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112067,
+        "num": 112067,
+        "word": "阿姨拍照让蒋欣让一让",
+        "onboard_time": 1736033476,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109016,
+        "num": 109016,
+        "word": "特朗普或将大幅调整美国军购",
+        "onboard_time": 1736045191,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106885,
+        "num": 106885,
+        "word": "WTT支持国际乒联成立专组决定",
+        "onboard_time": 1736040873,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106511,
+        "num": 106511,
+        "word": "机车博主波哥车祸身亡",
+        "onboard_time": 1736014457,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96850,
+        "num": 96850,
+        "word": "星光大赏",
+        "onboard_time": 1736036545,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96173,
+        "num": 96173,
+        "word": "女孩凌晨店内熟睡突遭陌生男子闯入",
+        "onboard_time": 1736003495,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94520,
+        "num": 94520,
+        "word": "九重紫",
+        "onboard_time": 1736047769,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92210,
+        "num": 92210,
+        "word": "唐嫣发言",
+        "onboard_time": 1736047830,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92121,
+        "num": 92121,
+        "word": "张若昀马思纯给我也听听",
+        "onboard_time": 1736039911,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 3706495,
+        "num": 91436,
+        "word": "李明德 张颂文",
+        "onboard_time": 1736042491,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90696,
+        "num": 90696,
+        "word": "用古画画风打开小寒节气",
+        "onboard_time": 1736045970,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的2024外交足迹#"
+    }
+  }
+}

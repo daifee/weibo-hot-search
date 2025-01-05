@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736046418663,
+  "endTime": 1736047857772,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 18725300,
-      "num": 11365591,
+      "num": 11411056,
       "word": "马天宇 李明德",
       "onboard_time": 1735991665,
       "rank": 5,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2167137,
+      "num": 2167137,
+      "word": "姜尘晒录音提张颂文名字",
+      "onboard_time": 1736042491,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2098189,
       "num": 2098189,
       "word": "祝绪丹哭了",
@@ -105,14 +113,6 @@
       "onboard_time": 1736039368,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1381872,
-      "num": 1381872,
-      "word": "姜尘晒录音提张颂文名字",
-      "onboard_time": 1736042491,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 1335219,
@@ -331,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 377278,
+      "num": 1011914,
+      "word": "低于这个价格可能买不到真羽绒",
+      "onboard_time": 1736046211,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 375984,
       "num": 1565882,
       "word": "韩国国产白菜辣椒或将消失",
@@ -403,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 263149,
+      "num": 263149,
+      "word": "于正谈年轻时被不公平对待",
+      "onboard_time": 1736046811,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 258787,
       "num": 5126842,
       "word": "江苏一地最新公布新生儿爆款名字",
@@ -449,6 +465,14 @@
       "onboard_time": 1736014457,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 243732,
+      "num": 987411,
+      "word": "虞书欣祝绪丹贴贴",
+      "onboard_time": 1736034498,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 237635,
@@ -523,14 +547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 210114,
-      "num": 987411,
-      "word": "虞书欣祝绪丹贴贴",
-      "onboard_time": 1736034498,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 200238,
       "num": 219122,
       "word": "丁禹兮领奖",
@@ -547,12 +563,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197711,
+      "num": 197711,
+      "word": "明德元年",
+      "onboard_time": 1736047111,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187484,
       "num": 187484,
       "word": "李现苦笑",
       "onboard_time": 1736033418,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181358,
+      "num": 295509,
+      "word": "梅西没去领拜登授予的总统自由勋章",
+      "onboard_time": 1736047230,
+      "rank": 17,
+      "category": "国际时政,体育"
     },
     {
       "raw_hot": 177398,
@@ -619,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150721,
+      "num": 289746,
+      "word": "台球女助教被客人开球砸到手指骨折",
+      "onboard_time": 1736046751,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148495,
       "num": 986139,
       "word": "张若昀马思纯给我也听听",
@@ -633,6 +673,14 @@
       "onboard_time": 1736014278,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 134101,
+      "num": 990473,
+      "word": "网红景点冰柱掉落女游客滑倒受伤",
+      "onboard_time": 1736046150,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130018,
@@ -657,6 +705,14 @@
       "onboard_time": 1736037866,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119248,
+      "num": 119248,
+      "word": "娱乐圈没有女明星可怎么办",
+      "onboard_time": 1736047410,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 117862,
@@ -699,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109016,
+      "num": 985840,
+      "word": "特朗普或将大幅调整美国军购",
+      "onboard_time": 1736045191,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 108987,
       "num": 100503,
       "word": "赵丽颖手握权杖",
@@ -739,6 +803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 96850,
+      "num": 96850,
+      "word": "星光大赏",
+      "onboard_time": 1736036545,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96025,
       "num": 988871,
       "word": "林高远称会扛起家的责任",
@@ -755,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94520,
+      "num": 94520,
+      "word": "九重紫",
+      "onboard_time": 1736047769,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93007,
       "num": 93007,
       "word": "林高远曾陪治疗中的父亲一起剃头",
@@ -763,8 +843,24 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92210,
+      "num": 92210,
+      "word": "唐嫣发言",
+      "onboard_time": 1736047830,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 90696,
+      "num": 4247810,
+      "word": "用古画画风打开小寒节气",
+      "onboard_time": 1736045970,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 90473,
-      "num": 753642,
+      "num": 2578910,
       "word": "非遗总数世界第一是什么体验",
       "onboard_time": 1736039309,
       "rank": 48,
@@ -801,14 +897,6 @@
       "onboard_time": 1735998630,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 82222,
-      "num": 985840,
-      "word": "特朗普或将大幅调整美国军购",
-      "onboard_time": 1736045191,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 81478,
@@ -875,14 +963,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 68342,
-      "num": 990473,
-      "word": "网红景点冰柱掉落女游客滑倒受伤",
-      "onboard_time": 1736046150,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 63322,
       "num": 220489,
       "word": "狼队战胜KSG",
@@ -923,12 +1003,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 52619,
-      "num": 1011914,
-      "word": "低于这个价格可能买不到真羽绒",
-      "onboard_time": 1736046211,
-      "rank": 9,
-      "category": "舆论监督"
+      "raw_hot": 52138,
+      "num": 141434,
+      "word": "公牛退役罗斯球衣",
+      "onboard_time": 1736039490,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 51457,
@@ -945,14 +1025,6 @@
       "onboard_time": 1736033418,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 47934,
-      "num": 4247810,
-      "word": "用古画画风打开小寒节气",
-      "onboard_time": 1736045970,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 47365,
@@ -1019,6 +1091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29452,
+      "num": 989670,
+      "word": "最后的告别导演曾是电影学院保安",
+      "onboard_time": 1736046150,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 28421,
       "num": 83209,
       "word": "布莱顿vs阿森纳",
@@ -1043,20 +1123,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26388,
+      "num": 259881,
+      "word": "罗斯之夜",
+      "onboard_time": 1736040572,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 21464,
       "num": 60175,
       "word": "小寒来啦",
       "onboard_time": 1736020152,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20728,
-      "num": 989670,
-      "word": "最后的告别导演曾是电影学院保安",
-      "onboard_time": 1736046150,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 17204,
