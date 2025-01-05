@@ -1,6 +1,6 @@
 {
   "startTime": 1736094308497,
-  "endTime": 1736105728862,
+  "endTime": 1736108545270,
   "band_list": [
     {
       "raw_hot": 2133118,
@@ -515,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27577,
+      "num": 34590,
+      "word": "去过挪威的人嘴真严",
+      "onboard_time": 1736104572,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 25815,
       "num": 40419,
       "word": "AG南京见",
@@ -547,12 +555,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19577,
-      "num": 34590,
-      "word": "去过挪威的人嘴真严",
-      "onboard_time": 1736104572,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 16347,
+      "num": 18301,
+      "word": "中国潜艇兵用上了专用护肤霜",
+      "onboard_time": 1736106732,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15389,
@@ -563,19 +571,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13176,
+      "num": 37376,
+      "word": "考拉宝宝已出袋感觉良好",
+      "onboard_time": 1736105532,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10631,
       "num": 92287,
       "word": "贪官为挪用资金开出假票3000多张",
       "onboard_time": 1736101934,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8952,
-      "num": 37376,
-      "word": "考拉宝宝已出袋感觉良好",
-      "onboard_time": 1736105532,
-      "rank": 19,
       "category": "民生新闻"
     }
   ],
