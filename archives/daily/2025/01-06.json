@@ -1,6 +1,6 @@
 {
   "startTime": 1736094308497,
-  "endTime": 1736111984329,
+  "endTime": 1736112926076,
   "band_list": [
     {
       "raw_hot": 2133118,
@@ -475,6 +475,14 @@
       "category": "演出,电影"
     },
     {
+      "raw_hot": 54554,
+      "num": 54554,
+      "word": "顺风车司机将女子高速赶下车被行拘",
+      "onboard_time": 1736108651,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48232,
       "num": 200836,
       "word": "涉事公司员工回应消费券当工资",
@@ -497,14 +505,6 @@
       "onboard_time": 1736098275,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 39294,
-      "num": 36928,
-      "word": "顺风车司机将女子高速赶下车被行拘",
-      "onboard_time": 1736108651,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31672,
@@ -555,8 +555,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20448,
-      "num": 20448,
+      "raw_hot": 20944,
+      "num": 20944,
       "word": "俄乌士兵肉搏视频曝光",
       "onboard_time": 1736108291,
       "rank": 44,
@@ -572,7 +572,7 @@
     },
     {
       "raw_hot": 16347,
-      "num": 18301,
+      "num": 20796,
       "word": "中国潜艇兵用上了专用护肤霜",
       "onboard_time": 1736106732,
       "rank": 40,
@@ -593,6 +593,22 @@
       "onboard_time": 1736105532,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13078,
+      "num": 20748,
+      "word": "吴克群在广西狂买水果",
+      "onboard_time": 1736112731,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 12481,
+      "num": 20722,
+      "word": "张远白巡回演唱会",
+      "onboard_time": 1736102893,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 10631,
