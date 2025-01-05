@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736084118734,
+  "endTime": 1736086725711,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 2126402,
-      "num": 284693,
+      "num": 289504,
       "word": "廖慧佳晒聊天记录",
       "onboard_time": 1736076265,
       "rank": 21,
@@ -273,6 +273,14 @@
       "onboard_time": 1736011465,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1098410,
+      "num": 1098410,
+      "word": "从校园餐里1毛钱1毛钱贪了23万",
+      "onboard_time": 1736083231,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1008575,
@@ -475,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 643816,
+      "num": 643816,
+      "word": "目前流感病毒99%以上是甲流",
+      "onboard_time": 1736081487,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 626433,
       "num": 626433,
       "word": "禹宙中欣",
@@ -491,20 +507,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 622260,
+      "num": 622260,
+      "word": "贪官把个人收款码贴在办事大厅",
+      "onboard_time": 1736084310,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 614210,
       "num": 540433,
       "word": "张碧晨夹在虞书欣丁禹兮中间",
       "onboard_time": 1736063488,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 613187,
-      "num": 937562,
-      "word": "从校园餐里1毛钱1毛钱贪了23万",
-      "onboard_time": 1736083231,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 606533,
@@ -531,12 +547,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 557894,
+      "num": 383339,
+      "word": "禁娱一解除就来泡泡的爱豆",
+      "onboard_time": 1736084670,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 554927,
       "num": 554927,
       "word": "王锵上线了",
       "onboard_time": 1735995328,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 553288,
+      "num": 553288,
+      "word": "吉林一公司发消费券代替工资",
+      "onboard_time": 1736082209,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 542739,
+      "num": 238202,
+      "word": "古剑奇谭含塌量还在上升",
+      "onboard_time": 1736082630,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 538016,
+      "num": 380122,
+      "word": "王俊凯玩无畏契约",
+      "onboard_time": 1736086409,
+      "rank": 12,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 526354,
@@ -635,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 457981,
+      "num": 284920,
+      "word": "至此已成艺术",
+      "onboard_time": 1736085449,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 455084,
       "num": 635716,
       "word": "孙珍妮 偏我来时都是春",
@@ -683,14 +739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 421573,
-      "num": 236146,
-      "word": "古剑奇谭含塌量还在上升",
-      "onboard_time": 1736082630,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 420356,
       "num": 655576,
       "word": "央视曝95起加油站案逃税7.9亿元",
@@ -723,14 +771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 406601,
-      "num": 406601,
-      "word": "目前流感病毒99%以上是甲流",
-      "onboard_time": 1736081487,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 404661,
       "num": 404661,
       "word": "女孩初中切除左肺抗癌10年后离世",
@@ -761,6 +801,14 @@
       "onboard_time": 1736047830,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 388127,
+      "num": 388127,
+      "word": "赵今麦 我家有女初长成",
+      "onboard_time": 1736080949,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 388034,
@@ -809,14 +857,6 @@
       "onboard_time": 1736046751,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 362303,
-      "num": 362303,
-      "word": "赵今麦 我家有女初长成",
-      "onboard_time": 1736080949,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 358121,
@@ -905,6 +945,14 @@
       "onboard_time": 1736057549,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 326171,
+      "num": 326171,
+      "word": "李现来到了谢之遥的有风小院",
+      "onboard_time": 1736084370,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 321828,
@@ -1003,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 292568,
+      "num": 292568,
+      "word": "TOP登陆少年",
+      "onboard_time": 1736085630,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 290914,
       "num": 290914,
       "word": "宋威龙好像单独开了滤镜",
@@ -1067,6 +1123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 275746,
+      "num": 275746,
+      "word": "秦志戬前往林高远家中探望",
+      "onboard_time": 1736082088,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 272190,
       "num": 990207,
       "word": "第一次这么清晰看到小鸟喝露水",
@@ -1097,22 +1161,6 @@
       "onboard_time": 1736077527,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 260556,
-      "num": 260556,
-      "word": "秦志戬前往林高远家中探望",
-      "onboard_time": 1736082088,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 260382,
-      "num": 340227,
-      "word": "吉林一公司发消费券代替工资",
-      "onboard_time": 1736082209,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 258787,
@@ -1249,6 +1297,14 @@
       "onboard_time": 1736033476,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 235657,
+      "num": 235657,
+      "word": "国际乒联调查组被疑是自查",
+      "onboard_time": 1736085511,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 234937,
@@ -1475,6 +1531,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 197769,
+      "num": 386378,
+      "word": "贪官每次收钱都退回一两捆",
+      "onboard_time": 1736085210,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197739,
       "num": 989800,
       "word": "骨骼缺陷男子扮成黄油小熊卖糖葫芦",
@@ -1579,6 +1643,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 179023,
+      "num": 179023,
+      "word": "山西男篮vs新疆男篮",
+      "onboard_time": 1736085751,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177398,
       "num": 4018074,
       "word": "韩国人在上海消费能力好强",
@@ -1593,6 +1665,14 @@
       "onboard_time": 1736010211,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173826,
+      "num": 173826,
+      "word": "上海流感病毒活动强度明显增强",
+      "onboard_time": 1736084970,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 173512,
@@ -1633,6 +1713,14 @@
       "onboard_time": 1736040993,
       "rank": 42,
       "category": "军事"
+    },
+    {
+      "raw_hot": 163691,
+      "num": 163691,
+      "word": "日卦中天声明",
+      "onboard_time": 1736086230,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 162174,
@@ -1755,6 +1843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148349,
+      "num": 148349,
+      "word": "单依纯嘉宾是毛不易",
+      "onboard_time": 1736084612,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148025,
       "num": 148025,
       "word": "尼龙孟子义2025开年刊",
@@ -1779,6 +1875,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 145735,
+      "num": 145735,
+      "word": "R1SE你们回来行不行",
+      "onboard_time": 1736084310,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144751,
       "num": 318478,
       "word": "众星现身央视春晚首次联排",
@@ -1793,6 +1897,22 @@
       "onboard_time": 1736078667,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141537,
+      "num": 141537,
+      "word": "不建议随便答应外国人的露营邀请",
+      "onboard_time": 1736086589,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 140686,
+      "num": 140686,
+      "word": "陶喆获2024百大UP主",
+      "onboard_time": 1736086409,
+      "rank": 47,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 137527,
@@ -1825,6 +1945,14 @@
       "onboard_time": 1736046150,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132665,
+      "num": 132665,
+      "word": "祝绪丹急得站起来嗑",
+      "onboard_time": 1736086299,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 131088,
@@ -1985,6 +2113,14 @@
       "onboard_time": 1736045249,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 116981,
+      "num": 371170,
+      "word": "小猫咪一爪子挠坏乌军无人机",
+      "onboard_time": 1736085870,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 115719,
@@ -2419,6 +2555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60009,
+      "num": 280649,
+      "word": "伦纳德复出",
+      "onboard_time": 1736086170,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59808,
       "num": 82475,
       "word": "知情人回应生理期内裤被指有塑料膜",
@@ -2515,6 +2659,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 44720,
+      "num": 826220,
+      "word": "中国空间站周记又上新了",
+      "onboard_time": 1736082209,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 44111,
       "num": 988080,
       "word": "山西垣曲一道路立杆被指摄像头密集",
@@ -2553,14 +2705,6 @@
       "onboard_time": 1736054249,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 41186,
-      "num": 826220,
-      "word": "中国空间站周记又上新了",
-      "onboard_time": 1736082209,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 41086,

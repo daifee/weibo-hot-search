@@ -1,0 +1,410 @@
+{
+  "runTime": 1736086725711,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1152405,
+        "num": 1184384,
+        "word": "祝绪丹丁禹兮 最好的慕家姐弟",
+        "onboard_time": 1736082329,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1098410,
+        "num": 1098410,
+        "word": "从校园餐里1毛钱1毛钱贪了23万",
+        "onboard_time": 1736083231,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44720,
+        "num": 717110,
+        "word": "中国空间站周记又上新了",
+        "onboard_time": 1736082209,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 643816,
+        "num": 643816,
+        "word": "目前流感病毒99%以上是甲流",
+        "onboard_time": 1736081487,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 622260,
+        "num": 622260,
+        "word": "贪官把个人收款码贴在办事大厅",
+        "onboard_time": 1736084310,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 642135,
+        "num": 588302,
+        "word": "小猫皮草传到了国外",
+        "onboard_time": 1736080888,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 553288,
+        "num": 553288,
+        "word": "吉林一公司发消费券代替工资",
+        "onboard_time": 1736082209,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 528399,
+        "num": 528399,
+        "word": "韩国客机失事前疑撞上鸟群画面曝光",
+        "onboard_time": 1736079868,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 388127,
+        "num": 388127,
+        "word": "赵今麦 我家有女初长成",
+        "onboard_time": 1736080949,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197769,
+        "num": 386378,
+        "word": "贪官每次收钱都退回一两捆",
+        "onboard_time": 1736085210,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 793661,
+        "num": 383968,
+        "word": "虞书欣 顺手的事",
+        "onboard_time": 1736072185,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 557894,
+        "num": 383339,
+        "word": "禁娱一解除就来泡泡的爱豆",
+        "onboard_time": 1736084670,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 538016,
+        "num": 380122,
+        "word": "王俊凯玩无畏契约",
+        "onboard_time": 1736086409,
+        "rank": 12,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 379591,
+        "num": 379591,
+        "word": "aespa宁宁减肥前后对比",
+        "onboard_time": 1736081309,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116981,
+        "num": 371170,
+        "word": "小猫咪一爪子挠坏乌军无人机",
+        "onboard_time": 1736085870,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 366791,
+        "num": 366791,
+        "word": "30岁博士生杜梅病逝遗书让人泪目",
+        "onboard_time": 1736075787,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326171,
+        "num": 326171,
+        "word": "李现来到了谢之遥的有风小院",
+        "onboard_time": 1736084370,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310080,
+        "num": 310080,
+        "word": "猎罪图鉴3宣传词出来了",
+        "onboard_time": 1736081550,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299368,
+        "num": 299368,
+        "word": "国考",
+        "onboard_time": 1736078126,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 292568,
+        "num": 292568,
+        "word": "TOP登陆少年",
+        "onboard_time": 1736085630,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 3439405,
+        "num": 290606,
+        "word": "三人行导演回应",
+        "onboard_time": 1736053351,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 865025,
+        "num": 289504,
+        "word": "廖慧佳晒聊天记录",
+        "onboard_time": 1736076265,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457981,
+        "num": 284920,
+        "word": "至此已成艺术",
+        "onboard_time": 1736085449,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456104,
+        "num": 283358,
+        "word": "猫在洗衣机里洗了2分钟才被发现",
+        "onboard_time": 1736083290,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60009,
+        "num": 280649,
+        "word": "伦纳德复出",
+        "onboard_time": 1736086170,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 398191,
+        "num": 275863,
+        "word": "25岁女子体检正常半个月后确诊胃癌",
+        "onboard_time": 1736075667,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 275746,
+        "num": 275746,
+        "word": "秦志戬前往林高远家中探望",
+        "onboard_time": 1736082088,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261929,
+        "num": 261929,
+        "word": "反腐为了人民第一集",
+        "onboard_time": 1736080888,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 261326,
+        "num": 261326,
+        "word": "丁禹兮 陪伴虞书欣每一个第一次",
+        "onboard_time": 1736077527,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240054,
+        "num": 240054,
+        "word": "赵丽颖更新朋友圈",
+        "onboard_time": 1736077406,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 542739,
+        "num": 238202,
+        "word": "古剑奇谭含塌量还在上升",
+        "onboard_time": 1736082630,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235657,
+        "num": 235657,
+        "word": "国际乒联调查组被疑是自查",
+        "onboard_time": 1736085511,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229687,
+        "num": 229687,
+        "word": "黄景瑜daddy是一种感觉",
+        "onboard_time": 1736081368,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185280,
+        "num": 185280,
+        "word": "甲流",
+        "onboard_time": 1736071764,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 179023,
+        "num": 179023,
+        "word": "山西男篮vs新疆男篮",
+        "onboard_time": 1736085751,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178112,
+        "num": 178112,
+        "word": "医生说6种病是衰老正常现象",
+        "onboard_time": 1736080409,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 174427,
+        "num": 174427,
+        "word": "整栋楼都醒了就妹妹没醒",
+        "onboard_time": 1736078968,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173826,
+        "num": 173826,
+        "word": "上海流感病毒活动强度明显增强",
+        "onboard_time": 1736084970,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 172797,
+        "num": 172797,
+        "word": "贵女",
+        "onboard_time": 1736079328,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165811,
+        "num": 165811,
+        "word": "跑男全员爆哭",
+        "onboard_time": 1736077106,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163691,
+        "num": 163691,
+        "word": "日卦中天声明",
+        "onboard_time": 1736086230,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161669,
+        "num": 161669,
+        "word": "孙珍妮 偏我来时都是春",
+        "onboard_time": 1736072306,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155578,
+        "num": 155578,
+        "word": "宋威龙好像单独开了滤镜",
+        "onboard_time": 1736076686,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150494,
+        "num": 150494,
+        "word": "大奉打更人 剧情瘸腿",
+        "onboard_time": 1736083410,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148349,
+        "num": 148349,
+        "word": "单依纯嘉宾是毛不易",
+        "onboard_time": 1736084612,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145735,
+        "num": 145735,
+        "word": "R1SE你们回来行不行",
+        "onboard_time": 1736084310,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141537,
+        "num": 141537,
+        "word": "不建议随便答应外国人的露营邀请",
+        "onboard_time": 1736086589,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140686,
+        "num": 140686,
+        "word": "陶喆获2024百大UP主",
+        "onboard_time": 1736086409,
+        "rank": 47,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 135191,
+        "num": 135191,
+        "word": "中式烧烤刷屏韩国社交媒体",
+        "onboard_time": 1736078968,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 132665,
+        "num": 132665,
+        "word": "祝绪丹急得站起来嗑",
+        "onboard_time": 1736086299,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的2024外交足迹#"
+    }
+  }
+}
