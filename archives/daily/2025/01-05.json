@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736059363927,
+  "endTime": 1736061577439,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1590589,
+      "num": 4829696,
+      "word": "姜尘录音",
+      "onboard_time": 1736042491,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1552163,
       "num": 4604495,
       "word": "明德元年",
@@ -169,14 +177,6 @@
       "onboard_time": 1736005776,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1202584,
-      "num": 4829696,
-      "word": "姜尘录音",
-      "onboard_time": 1736042491,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 1173212,
@@ -259,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 799268,
+      "num": 687803,
+      "word": "闵塔鲨方就赵丽颖高定道歉",
+      "onboard_time": 1736059288,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 766880,
       "num": 84811,
       "word": "王嘉尔",
@@ -297,6 +305,14 @@
       "onboard_time": 1736048249,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 664141,
+      "num": 728160,
+      "word": "被家暴16次女子总结2024",
+      "onboard_time": 1736058268,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 661108,
@@ -435,20 +451,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 416509,
+      "num": 789591,
+      "word": "清华北大不是谁的揽客招牌",
+      "onboard_time": 1736057249,
+      "rank": 5,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 413296,
       "num": 987742,
       "word": "丁禹兮又争又抢",
       "onboard_time": 1736035160,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 399432,
-      "num": 789591,
-      "word": "清华北大不是谁的揽客招牌",
-      "onboard_time": 1736057249,
-      "rank": 5,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 394279,
@@ -465,14 +481,6 @@
       "onboard_time": 1736006255,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 376365,
-      "num": 728160,
-      "word": "被家暴16次女子总结2024",
-      "onboard_time": 1736058268,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 375984,
@@ -539,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 329200,
+      "num": 708113,
+      "word": "嘀嗒发布19岁女孩被扔高速情况说明",
+      "onboard_time": 1736057549,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 321828,
       "num": 321828,
       "word": "丁禹兮现身蛇年春晚联排",
@@ -563,6 +579,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 310198,
+      "num": 664701,
+      "word": "上海一餐厅爆火晚10点后满眼韩国人",
+      "onboard_time": 1736060006,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 303875,
+      "num": 220723,
+      "word": "丁禹兮听张若昀发言眼泛泪光",
+      "onboard_time": 1736060606,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 296774,
       "num": 296774,
       "word": "孟子义说要去录歌周一围笑了",
@@ -576,6 +608,14 @@
       "word": "农村宅基地废弃面积760万公顷",
       "onboard_time": 1736053589,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 291994,
+      "num": 478495,
+      "word": "19岁女生被丢高速后司机账号被封禁",
+      "onboard_time": 1736059288,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -689,14 +729,6 @@
       "onboard_time": 1736055508,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 247602,
-      "num": 708113,
-      "word": "嘀嗒发布19岁女孩被扔高速情况说明",
-      "onboard_time": 1736057549,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 244037,
@@ -835,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206926,
+      "num": 206926,
+      "word": "千朵桃花床塌了那一下",
+      "onboard_time": 1736061085,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203733,
       "num": 203733,
       "word": "谁懂唐嫣挥手微笑这一下",
@@ -875,6 +915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196179,
+      "num": 196179,
+      "word": "林更新官宣微博之夜",
+      "onboard_time": 1736060066,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 194072,
       "num": 2718764,
       "word": "李昀锐 紧急撤回笑容",
@@ -889,14 +937,6 @@
       "onboard_time": 1736033418,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 178420,
-      "num": 178420,
-      "word": "闵塔鲨方就赵丽颖高定道歉",
-      "onboard_time": 1736059288,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 177398,
@@ -921,6 +961,22 @@
       "onboard_time": 1736049091,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173474,
+      "num": 173474,
+      "word": "王宝强说这把变聪明了",
+      "onboard_time": 1736061385,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 170208,
+      "num": 170208,
+      "word": "张若昀哽咽发言",
+      "onboard_time": 1736060726,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 168845,
@@ -969,6 +1025,14 @@
       "onboard_time": 1736040873,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157183,
+      "num": 157183,
+      "word": "陈都灵努力社交辛云来默默喝水",
+      "onboard_time": 1736060126,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 154378,
@@ -1043,6 +1107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132244,
+      "num": 357936,
+      "word": "光遇",
+      "onboard_time": 1736060905,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129783,
       "num": 158661,
       "word": "为什么吃汤圆在南方人眼里很重要",
@@ -1057,6 +1129,14 @@
       "onboard_time": 1736037866,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126830,
+      "num": 126830,
+      "word": "网络文学作家知秋去世年仅44岁",
+      "onboard_time": 1736059526,
+      "rank": 48,
+      "category": "读书作家"
     },
     {
       "raw_hot": 120703,
@@ -1195,14 +1275,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 97278,
-      "num": 97278,
-      "word": "19岁女生被丢高速后司机账号被封禁",
-      "onboard_time": 1736059288,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96025,
       "num": 988871,
       "word": "林高远称会扛起家的责任",
@@ -1299,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78615,
+      "num": 404669,
+      "word": "十个勤天官宣微博之夜",
+      "onboard_time": 1736061265,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 73620,
       "num": 1145085,
       "word": "2025继续Passion",
@@ -1313,6 +1393,14 @@
       "onboard_time": 1735996528,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 73373,
+      "num": 458584,
+      "word": "团建打工人挤爆汤泉馆",
+      "onboard_time": 1736060546,
+      "rank": 14,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 71280,

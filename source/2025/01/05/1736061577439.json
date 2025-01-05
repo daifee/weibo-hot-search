@@ -1,0 +1,410 @@
+{
+  "runTime": 1736061577439,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9966205,
+        "num": 9966205,
+        "word": "三人行导演回应",
+        "onboard_time": 1736053351,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 732029,
+        "num": 732029,
+        "word": "低于这个价格可能买不到真羽绒",
+        "onboard_time": 1736046211,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 74987,
+        "num": 725866,
+        "word": "非遗总数世界第一是什么体验",
+        "onboard_time": 1736039309,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 461667,
+        "num": 717041,
+        "word": "全国流感病毒阳性率快速上升",
+        "onboard_time": 1736052631,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 416509,
+        "num": 712128,
+        "word": "清华北大不是谁的揽客招牌",
+        "onboard_time": 1736057249,
+        "rank": 4,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 1590589,
+        "num": 700914,
+        "word": "姜尘录音",
+        "onboard_time": 1736042491,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1175965,
+        "num": 690528,
+        "word": "孙琳 娱乐圈最勇的人出现了",
+        "onboard_time": 1736048189,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 799268,
+        "num": 687803,
+        "word": "闵塔鲨方就赵丽颖高定道歉",
+        "onboard_time": 1736059288,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 329200,
+        "num": 674480,
+        "word": "嘀嗒发布19岁女孩被扔高速情况说明",
+        "onboard_time": 1736057549,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310198,
+        "num": 664701,
+        "word": "上海一餐厅爆火晚10点后满眼韩国人",
+        "onboard_time": 1736060006,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 664141,
+        "num": 664141,
+        "word": "被家暴16次女子总结2024",
+        "onboard_time": 1736058268,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 539844,
+        "num": 539844,
+        "word": "虞书欣星光大赏出图",
+        "onboard_time": 1736057249,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291994,
+        "num": 478495,
+        "word": "19岁女生被丢高速后司机账号被封禁",
+        "onboard_time": 1736059288,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 469484,
+        "num": 469484,
+        "word": "互撕撕不出观众心中的男一号",
+        "onboard_time": 1736056894,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73373,
+        "num": 458584,
+        "word": "团建打工人挤爆汤泉馆",
+        "onboard_time": 1736060546,
+        "rank": 14,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 456144,
+        "num": 456144,
+        "word": "古相思曲",
+        "onboard_time": 1736057069,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247610,
+        "num": 442367,
+        "word": "后天就是腊八节",
+        "onboard_time": 1736036484,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191563,
+        "num": 427899,
+        "word": "为啥说小寒胜大寒",
+        "onboard_time": 1736041112,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161221,
+        "num": 418285,
+        "word": "农村宅基地废弃面积760万公顷",
+        "onboard_time": 1736053589,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78615,
+        "num": 404669,
+        "word": "十个勤天官宣微博之夜",
+        "onboard_time": 1736061265,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 3102470,
+        "num": 391910,
+        "word": "马天宇 李明德",
+        "onboard_time": 1735991665,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 926754,
+        "num": 376040,
+        "word": "王嘉尔 共鸣",
+        "onboard_time": 1736033777,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370199,
+        "num": 370199,
+        "word": "网友用樊振东身份证号发红包后致歉",
+        "onboard_time": 1736051129,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158842,
+        "num": 366933,
+        "word": "以色列遭导弹袭击",
+        "onboard_time": 1736054549,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132244,
+        "num": 357936,
+        "word": "光遇",
+        "onboard_time": 1736060905,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2467977,
+        "num": 350839,
+        "word": "马天宇回应",
+        "onboard_time": 1736007874,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1891347,
+        "num": 342829,
+        "word": "李明德直播回击",
+        "onboard_time": 1736008895,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388521,
+        "num": 335395,
+        "word": "谷雨 蒋奇明",
+        "onboard_time": 1736054848,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335373,
+        "num": 335373,
+        "word": "丁禹兮接虞书欣下台",
+        "onboard_time": 1736001995,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78377,
+        "num": 269693,
+        "word": "特朗普或将大幅调整美国军购",
+        "onboard_time": 1736045191,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 268278,
+        "num": 268278,
+        "word": "三人行工作人员发声",
+        "onboard_time": 1736058628,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228283,
+        "num": 228283,
+        "word": "明德元年",
+        "onboard_time": 1736047111,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221073,
+        "num": 221073,
+        "word": "孟子义说要去录歌周一围笑了",
+        "onboard_time": 1736058088,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303875,
+        "num": 220723,
+        "word": "丁禹兮听张若昀发言眼泛泪光",
+        "onboard_time": 1736060606,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207038,
+        "num": 207038,
+        "word": "蛇年央视春晚首次联排",
+        "onboard_time": 1736048249,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206926,
+        "num": 206926,
+        "word": "千朵桃花床塌了那一下",
+        "onboard_time": 1736061085,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196179,
+        "num": 196179,
+        "word": "林更新官宣微博之夜",
+        "onboard_time": 1736060066,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195469,
+        "num": 195469,
+        "word": "周杰伦迪拜演唱会上座率",
+        "onboard_time": 1736055508,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183550,
+        "num": 183550,
+        "word": "于正谈年轻时被不公平对待",
+        "onboard_time": 1736046811,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179616,
+        "num": 179616,
+        "word": "傅菁又带着抖肩杀回来了",
+        "onboard_time": 1736058628,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173474,
+        "num": 173474,
+        "word": "王宝强说这把变聪明了",
+        "onboard_time": 1736061385,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170208,
+        "num": 170208,
+        "word": "张若昀哽咽发言",
+        "onboard_time": 1736060726,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167644,
+        "num": 167644,
+        "word": "李相夷用婆娑步震惊范闲",
+        "onboard_time": 1736057189,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157183,
+        "num": 157183,
+        "word": "陈都灵努力社交辛云来默默喝水",
+        "onboard_time": 1736060126,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151180,
+        "num": 151180,
+        "word": "大奉打更人17集20分03秒",
+        "onboard_time": 1736054128,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149668,
+        "num": 149668,
+        "word": "白鹿说白月梵星有五个副本",
+        "onboard_time": 1736057848,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141411,
+        "num": 141411,
+        "word": "专家称宅基地进入市场价值达1.3万亿",
+        "onboard_time": 1736051129,
+        "rank": 46,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 129112,
+        "num": 129112,
+        "word": "小寒一过年味越来越浓了",
+        "onboard_time": 1736043872,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126830,
+        "num": 126830,
+        "word": "网络文学作家知秋去世年仅44岁",
+        "onboard_time": 1736059526,
+        "rank": 48,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 123670,
+        "num": 123670,
+        "word": "梅西没去领拜登授予的总统自由勋章",
+        "onboard_time": 1736047230,
+        "rank": 49,
+        "category": "国际时政,体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的2024外交足迹#"
+    }
+  }
+}
