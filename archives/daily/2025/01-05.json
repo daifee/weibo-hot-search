@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736058576833,
+  "endTime": 1736059363927,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -227,8 +227,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 881974,
-      "num": 621349,
+      "raw_hot": 886676,
+      "num": 787884,
       "word": "虞书欣星光大赏出图",
       "onboard_time": 1736057249,
       "rank": 6,
@@ -264,6 +264,14 @@
       "word": "王嘉尔",
       "onboard_time": 1736033357,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 700343,
+      "num": 700343,
+      "word": "互撕撕不出观众心中的男一号",
+      "onboard_time": 1736056894,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -331,12 +339,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 598642,
-      "num": 598642,
-      "word": "互撕撕不出观众心中的男一号",
-      "onboard_time": 1736056894,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 567262,
+      "num": 567262,
+      "word": "古相思曲",
+      "onboard_time": 1736057069,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 554927,
@@ -353,14 +361,6 @@
       "onboard_time": 1736051129,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 523147,
-      "num": 523147,
-      "word": "古相思曲",
-      "onboard_time": 1736057069,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 518143,
@@ -443,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 399432,
+      "num": 789591,
+      "word": "清华北大不是谁的揽客招牌",
+      "onboard_time": 1736057249,
+      "rank": 5,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 394279,
       "num": 2732933,
       "word": "唐嫣发言",
@@ -457,6 +465,14 @@
       "onboard_time": 1736006255,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 376365,
+      "num": 728160,
+      "word": "被家暴16次女子总结2024",
+      "onboard_time": 1736058268,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 375984,
@@ -481,6 +497,14 @@
       "onboard_time": 1736046751,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 351959,
+      "num": 351959,
+      "word": "三人行工作人员发声",
+      "onboard_time": 1736058628,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 349057,
@@ -539,12 +563,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 303421,
-      "num": 627003,
-      "word": "清华北大不是谁的揽客招牌",
-      "onboard_time": 1736057249,
-      "rank": 5,
-      "category": "议题讨论"
+      "raw_hot": 296774,
+      "num": 296774,
+      "word": "孟子义说要去录歌周一围笑了",
+      "onboard_time": 1736058088,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 294439,
+      "num": 2699090,
+      "word": "农村宅基地废弃面积760万公顷",
+      "onboard_time": 1736053589,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 284261,
@@ -563,11 +595,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 279212,
-      "num": 2699090,
-      "word": "农村宅基地废弃面积760万公顷",
-      "onboard_time": 1736053589,
-      "rank": 9,
+      "raw_hot": 280225,
+      "num": 2700372,
+      "word": "后天就是腊八节",
+      "onboard_time": 1736036484,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -643,27 +675,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 252065,
-      "num": 2700372,
-      "word": "后天就是腊八节",
-      "onboard_time": 1736036484,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 251865,
       "num": 251865,
       "word": "李雪琴演我嗑昀牵孟绕",
       "onboard_time": 1736002595,
       "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 251448,
-      "num": 251448,
-      "word": "孟子义说要去录歌周一围笑了",
-      "onboard_time": 1736058088,
-      "rank": 28,
       "category": "综艺"
     },
     {
@@ -675,6 +691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 247602,
+      "num": 708113,
+      "word": "嘀嗒发布19岁女孩被扔高速情况说明",
+      "onboard_time": 1736057549,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 244037,
       "num": 985761,
       "word": "机车博主波哥车祸身亡",
@@ -683,8 +707,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 239433,
-      "num": 239433,
+      "raw_hot": 243135,
+      "num": 315623,
       "word": "李相夷用婆娑步震惊范闲",
       "onboard_time": 1736057189,
       "rank": 29,
@@ -755,6 +779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 221983,
+      "num": 221983,
+      "word": "白鹿说白月梵星有五个副本",
+      "onboard_time": 1736057848,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221092,
       "num": 221092,
       "word": "成毅上台 尖叫声",
@@ -771,12 +803,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213258,
+      "num": 213258,
+      "word": "没人告诉我吴宇恒是bking",
+      "onboard_time": 1736055869,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211747,
       "num": 1226389,
       "word": "林高远发文称会直面自己的起伏",
       "onboard_time": 1736003856,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208702,
+      "num": 208702,
+      "word": "傅菁又带着抖肩杀回来了",
+      "onboard_time": 1736058628,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 207691,
@@ -827,27 +875,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 196202,
-      "num": 196202,
-      "word": "白鹿说白月梵星有五个副本",
-      "onboard_time": 1736057848,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 194072,
       "num": 2718764,
       "word": "李昀锐 紧急撤回笑容",
       "onboard_time": 1736052030,
       "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 188640,
-      "num": 188640,
-      "word": "没人告诉我吴宇恒是bking",
-      "onboard_time": 1736055869,
-      "rank": 41,
       "category": "综艺"
     },
     {
@@ -857,6 +889,14 @@
       "onboard_time": 1736033418,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178420,
+      "num": 178420,
+      "word": "闵塔鲨方就赵丽颖高定道歉",
+      "onboard_time": 1736059288,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 177398,
@@ -873,14 +913,6 @@
       "onboard_time": 1736010211,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 175469,
-      "num": 175469,
-      "word": "嘀嗒发布19岁女孩被扔高速情况说明",
-      "onboard_time": 1736057549,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 173512,
@@ -995,19 +1027,19 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 136710,
+      "num": 2691682,
+      "word": "小寒一过年味越来越浓了",
+      "onboard_time": 1736043872,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134101,
       "num": 990473,
       "word": "网红景点冰柱掉落女游客滑倒受伤",
       "onboard_time": 1736046150,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 132434,
-      "num": 2691682,
-      "word": "小寒一过年味越来越浓了",
-      "onboard_time": 1736043872,
-      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -1161,6 +1193,14 @@
       "onboard_time": 1735980982,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 97278,
+      "num": 97278,
+      "word": "19岁女生被丢高速后司机账号被封禁",
+      "onboard_time": 1736059288,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96025,
@@ -1379,14 +1419,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 50740,
-      "num": 363324,
-      "word": "被家暴16次女子总结2024",
-      "onboard_time": 1736058268,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47365,
       "num": 67574,
       "word": "赵丽颖张凌赫同框",
@@ -1427,7 +1459,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 40220,
+      "raw_hot": 41675,
       "num": 4463161,
       "word": "于适把新年剪纸玩出花",
       "onboard_time": 1736054249,
