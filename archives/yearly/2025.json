@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736051984911,
+  "endTime": 1736054446444,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -81,6 +81,14 @@
       "onboard_time": 1736001995,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 8559729,
+      "num": 2971606,
+      "word": "三人行导演回应",
+      "onboard_time": 1736053351,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 8395718,
@@ -604,7 +612,7 @@
     },
     {
       "raw_hot": 1533322,
-      "num": 1157786,
+      "num": 1303659,
       "word": "孙琳 娱乐圈最勇的人出现了",
       "onboard_time": 1736048189,
       "rank": 39,
@@ -740,7 +748,7 @@
     },
     {
       "raw_hot": 1336088,
-      "num": 3879100,
+      "num": 4126371,
       "word": "低于这个价格可能买不到真羽绒",
       "onboard_time": 1736046211,
       "rank": 9,
@@ -1152,6 +1160,14 @@
       "word": "李明德涨粉",
       "onboard_time": 1736043096,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1002046,
+      "num": 1002046,
+      "word": "姜尘录音",
+      "onboard_time": 1736042491,
+      "rank": 7,
       "category": "艺人"
     },
     {
@@ -2385,22 +2401,6 @@
       "onboard_time": 1735739721,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 573840,
-      "num": 366695,
-      "word": "傅宣 再见爱人2025",
-      "onboard_time": 1735982122,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 569085,
-      "num": 314277,
-      "word": "傅菁后背痣好大方的美",
-      "onboard_time": 1735975341,
-      "rank": 35,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

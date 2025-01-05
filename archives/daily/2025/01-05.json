@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736051984911,
+  "endTime": 1736054446444,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -33,6 +33,14 @@
       "onboard_time": 1735991665,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 8559729,
+      "num": 2971606,
+      "word": "三人行导演回应",
+      "onboard_time": 1736053351,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 6746897,
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 1533322,
-      "num": 1157786,
+      "num": 1303659,
       "word": "孙琳 娱乐圈最勇的人出现了",
       "onboard_time": 1736048189,
       "rank": 39,
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 1336088,
-      "num": 3879100,
+      "num": 4126371,
       "word": "低于这个价格可能买不到真羽绒",
       "onboard_time": 1736046211,
       "rank": 9,
@@ -176,6 +184,14 @@
       "word": "李明德涨粉",
       "onboard_time": 1736043096,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1002046,
+      "num": 1002046,
+      "word": "姜尘录音",
+      "onboard_time": 1736042491,
+      "rank": 7,
       "category": "艺人"
     },
     {
@@ -404,7 +420,7 @@
     },
     {
       "raw_hot": 363555,
-      "num": 1151522,
+      "num": 1838153,
       "word": "台球女助教被客人开球砸到手指骨折",
       "onboard_time": 1736046751,
       "rank": 18,
@@ -475,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 283901,
+      "num": 2300692,
+      "word": "韩国人被红烧肉羊肉串和火锅硬控",
+      "onboard_time": 1736049749,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 272190,
       "num": 990207,
       "word": "第一次这么清晰看到小鸟喝露水",
@@ -496,14 +520,6 @@
       "word": "网传机车圈博主波哥车祸身亡",
       "onboard_time": 1736007335,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 264042,
-      "num": 1074793,
-      "word": "韩国人被红烧肉羊肉串和火锅硬控",
-      "onboard_time": 1736049749,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -531,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 253704,
+      "num": 958452,
+      "word": "专家称宅基地进入市场价值达1.3万亿",
+      "onboard_time": 1736051129,
+      "rank": 17,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 252594,
       "num": 987351,
       "word": "田曦薇领奖像走秀",
@@ -545,14 +569,6 @@
       "onboard_time": 1736002595,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 251748,
-      "num": 547460,
-      "word": "专家称宅基地进入市场价值达1.3万亿",
-      "onboard_time": 1736051129,
-      "rank": 17,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 244037,
@@ -577,6 +593,14 @@
       "onboard_time": 1736049211,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234488,
+      "num": 360476,
+      "word": "全国流感病毒阳性率快速上升",
+      "onboard_time": 1736052631,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 229666,
@@ -657,6 +681,14 @@
       "onboard_time": 1736010509,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199039,
+      "num": 340423,
+      "word": "八省联考地理",
+      "onboard_time": 1736053290,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 197739,
@@ -819,6 +851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126798,
+      "num": 199097,
+      "word": "李昀锐 紧急撤回笑容",
+      "onboard_time": 1736052030,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120703,
       "num": 120703,
       "word": "赵丽颖张碧晨没喝中药",
@@ -891,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105533,
+      "num": 199049,
+      "word": "孟子义杂志",
+      "onboard_time": 1736053470,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 104806,
       "num": 614905,
       "word": "樊振东与姆巴佩击掌",
@@ -915,12 +963,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102492,
+      "num": 199433,
+      "word": "大奉打更人17集20分03秒",
+      "onboard_time": 1736054128,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101346,
       "num": 101346,
       "word": "九重紫",
       "onboard_time": 1736047769,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98278,
+      "num": 199025,
+      "word": "冬天景色满足一切对童话的想象",
+      "onboard_time": 1736054068,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97487,
@@ -964,7 +1028,7 @@
     },
     {
       "raw_hot": 90473,
-      "num": 3052367,
+      "num": 3521110,
       "word": "非遗总数世界第一是什么体验",
       "onboard_time": 1736039309,
       "rank": 48,
@@ -1017,6 +1081,14 @@
       "onboard_time": 1736003315,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80620,
+      "num": 958117,
+      "word": "农村宅基地废弃面积760万公顷",
+      "onboard_time": 1736053589,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80257,
@@ -1073,6 +1145,14 @@
       "onboard_time": 1735998268,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 63830,
+      "num": 305304,
+      "word": "白敬亭官宣2024微博之夜",
+      "onboard_time": 1736053409,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 63322,
@@ -1169,6 +1249,14 @@
       "onboard_time": 1736045850,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42135,
+      "num": 199213,
+      "word": "降准降息目的是什么",
+      "onboard_time": 1736052700,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 37627,
@@ -1273,6 +1361,14 @@
       "onboard_time": 1736020333,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6046,
+      "num": 199034,
+      "word": "于适把新年剪纸玩出花",
+      "onboard_time": 1736054249,
+      "rank": 41,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
