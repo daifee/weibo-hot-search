@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736083423325,
+  "endTime": 1736084118734,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -35,6 +35,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 11923856,
+      "num": 285141,
+      "word": "李明德直播",
+      "onboard_time": 1736081009,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 11462703,
       "num": 11462703,
       "word": "三人行导演回应",
@@ -48,14 +56,6 @@
       "word": "李明德晒聊天记录",
       "onboard_time": 1736063366,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 7207550,
-      "num": 285141,
-      "word": "李明德直播",
-      "onboard_time": 1736081009,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -243,6 +243,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1381958,
+      "num": 1381958,
+      "word": "祝绪丹丁禹兮 最好的慕家姐弟",
+      "onboard_time": 1736082329,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1336088,
       "num": 5435205,
       "word": "低于这个价格可能买不到真羽绒",
@@ -313,14 +321,6 @@
       "onboard_time": 1736075787,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 936217,
-      "num": 1149794,
-      "word": "祝绪丹丁禹兮 最好的慕家姐弟",
-      "onboard_time": 1736082329,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 924324,
@@ -499,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 613187,
+      "num": 937562,
+      "word": "从校园餐里1毛钱1毛钱贪了23万",
+      "onboard_time": 1736083231,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 606533,
       "num": 2714883,
       "word": "女子偷偷用公共餐具喂狗",
@@ -611,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 477987,
+      "num": 354838,
+      "word": "猫在洗衣机里洗了2分钟才被发现",
+      "onboard_time": 1736083290,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 460531,
       "num": 460531,
       "word": "虞书欣丁禹兮对唱",
@@ -667,6 +683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 421573,
+      "num": 236146,
+      "word": "古剑奇谭含塌量还在上升",
+      "onboard_time": 1736082630,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 420356,
       "num": 655576,
       "word": "央视曝95起加油站案逃税7.9亿元",
@@ -697,6 +721,14 @@
       "onboard_time": 1736035160,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 406601,
+      "num": 406601,
+      "word": "目前流感病毒99%以上是甲流",
+      "onboard_time": 1736081487,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 404661,
@@ -739,14 +771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 379534,
-      "num": 379534,
-      "word": "从校园餐里1毛钱1毛钱贪了23万",
-      "onboard_time": 1736083231,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 375984,
       "num": 2672265,
       "word": "韩国国产白菜辣椒或将消失",
@@ -787,20 +811,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 362303,
+      "num": 362303,
+      "word": "赵今麦 我家有女初长成",
+      "onboard_time": 1736080949,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 358121,
       "num": 265240,
       "word": "跑男全员爆哭",
       "onboard_time": 1736077106,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 354838,
-      "num": 354838,
-      "word": "猫在洗衣机里洗了2分钟才被发现",
-      "onboard_time": 1736083290,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 351959,
@@ -835,14 +859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 346288,
-      "num": 346288,
-      "word": "赵今麦 我家有女初长成",
-      "onboard_time": 1736080949,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 346084,
       "num": 655897,
       "word": "李昀锐生图",
@@ -867,8 +883,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 340177,
-      "num": 340177,
+      "raw_hot": 341776,
+      "num": 341776,
       "word": "猎罪图鉴3宣传词出来了",
       "onboard_time": 1736081550,
       "rank": 44,
@@ -888,14 +904,6 @@
       "word": "嘀嗒发布19岁女孩被扔高速情况说明",
       "onboard_time": 1736057549,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 327310,
-      "num": 327310,
-      "word": "目前流感病毒99%以上是甲流",
-      "onboard_time": 1736081487,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -945,6 +953,14 @@
       "onboard_time": 1736060606,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 301728,
+      "num": 541964,
+      "word": "反腐为了人民第一集",
+      "onboard_time": 1736080888,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 301581,
@@ -1001,14 +1017,6 @@
       "onboard_time": 1736067745,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 287174,
-      "num": 541964,
-      "word": "反腐为了人民第一集",
-      "onboard_time": 1736080888,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 287106,
@@ -1089,6 +1097,22 @@
       "onboard_time": 1736077527,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 260556,
+      "num": 260556,
+      "word": "秦志戬前往林高远家中探望",
+      "onboard_time": 1736082088,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 260382,
+      "num": 340227,
+      "word": "吉林一公司发消费券代替工资",
+      "onboard_time": 1736082209,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 258787,
@@ -1227,14 +1251,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 236146,
-      "num": 236146,
-      "word": "古剑奇谭含塌量还在上升",
-      "onboard_time": 1736082630,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 234937,
       "num": 300141,
       "word": "成毅在哪摔跤就在哪社交",
@@ -1323,14 +1339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 217152,
-      "num": 340227,
-      "word": "吉林一公司发消费券代替工资",
-      "onboard_time": 1736082209,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 217035,
       "num": 646892,
       "word": "张家口一冬泳者被困冰层下",
@@ -1363,12 +1371,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208826,
+      "num": 208826,
+      "word": "张峻豪发小时候照片",
+      "onboard_time": 1736083410,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208702,
       "num": 208702,
       "word": "傅菁又带着抖肩杀回来了",
       "onboard_time": 1736058628,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208625,
+      "num": 208625,
+      "word": "整栋楼都醒了就妹妹没醒",
+      "onboard_time": 1736078968,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 208328,
@@ -1427,14 +1451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201617,
-      "num": 201617,
-      "word": "秦志戬前往林高远家中探望",
-      "onboard_time": 1736082088,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 200238,
       "num": 219122,
       "word": "丁禹兮领奖",
@@ -1473,14 +1489,6 @@
       "onboard_time": 1736073027,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 196919,
-      "num": 196919,
-      "word": "整栋楼都醒了就妹妹没醒",
-      "onboard_time": 1736078968,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 196295,
@@ -1563,6 +1571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 179262,
+      "num": 179262,
+      "word": "医生说6种病是衰老正常现象",
+      "onboard_time": 1736080409,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 177398,
       "num": 4018074,
       "word": "韩国人在上海消费能力好强",
@@ -1585,14 +1601,6 @@
       "onboard_time": 1736049091,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 171747,
-      "num": 171747,
-      "word": "医生说6种病是衰老正常现象",
-      "onboard_time": 1736080409,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 170240,
@@ -1723,6 +1731,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151816,
+      "num": 151816,
+      "word": "大奉打更人 剧情瘸腿",
+      "onboard_time": 1736083410,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 151260,
+      "num": 151260,
+      "word": "近期流感高发如何做好防护",
+      "onboard_time": 1736077347,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148495,
       "num": 986139,
       "word": "张若昀马思纯给我也听听",
@@ -1803,14 +1827,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133929,
-      "num": 133929,
-      "word": "近期流感高发如何做好防护",
-      "onboard_time": 1736077347,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 131088,
       "num": 637450,
       "word": "嘀嗒出行回应女生坐顺风车被甩高速",
@@ -1835,12 +1851,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 128148,
+      "num": 128148,
+      "word": "小小的我 观众是电影的最后一环",
+      "onboard_time": 1736083891,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 128079,
       "num": 128079,
       "word": "大奉追妻成功",
       "onboard_time": 1736079388,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127773,
+      "num": 127773,
+      "word": "余宇涵翻跳NoDoubt",
+      "onboard_time": 1736083352,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 127594,
@@ -1905,14 +1937,6 @@
       "onboard_time": 1736048310,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 120682,
-      "num": 120682,
-      "word": "余宇涵翻跳NoDoubt",
-      "onboard_time": 1736083352,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 119504,
@@ -2531,6 +2555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41186,
+      "num": 826220,
+      "word": "中国空间站周记又上新了",
+      "onboard_time": 1736082209,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 41086,
       "num": 342794,
       "word": "陈梦现身厦门马拉松现场",
@@ -2657,14 +2689,6 @@
       "onboard_time": 1736024412,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26071,
-      "num": 825916,
-      "word": "中国空间站周记又上新了",
-      "onboard_time": 1736082209,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 25037,

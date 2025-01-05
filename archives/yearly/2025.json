@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736083423325,
+  "endTime": 1736084118734,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -40,6 +40,14 @@
       "word": "赵露思发长文回应",
       "onboard_time": 1735726580,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 11923856,
+      "num": 285141,
+      "word": "李明德直播",
+      "onboard_time": 1736081009,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -113,14 +121,6 @@
       "onboard_time": 1735982781,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 7207550,
-      "num": 285141,
-      "word": "李明德直播",
-      "onboard_time": 1736081009,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 6585357,
@@ -819,6 +819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1381958,
+      "num": 1381958,
+      "word": "祝绪丹丁禹兮 最好的慕家姐弟",
+      "onboard_time": 1736082329,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1358503,
       "num": 1358503,
       "word": "马龙王鹤棣打乒乓球",
@@ -1457,14 +1465,6 @@
       "onboard_time": 1735969941,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 936217,
-      "num": 1149794,
-      "word": "祝绪丹丁禹兮 最好的慕家姐弟",
-      "onboard_time": 1736082329,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 931934,
@@ -2395,12 +2395,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 611470,
-      "num": 1097835,
-      "word": "杨紫白鹿新剧定档同一天",
-      "onboard_time": 1735896980,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 613187,
+      "num": 937562,
+      "word": "从校园餐里1毛钱1毛钱贪了23万",
+      "onboard_time": 1736083231,
+      "rank": 11,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
