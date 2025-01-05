@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736104608033,
+  "endTime": 1736105728862,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -3267,6 +3267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22266,
+      "num": 62447,
+      "word": "收到了95后轰6K飞行员的晚安短信",
+      "onboard_time": 1736104333,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21464,
       "num": 60175,
       "word": "小寒来啦",
@@ -3291,20 +3299,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19577,
+      "num": 34590,
+      "word": "去过挪威的人嘴真严",
+      "onboard_time": 1736104572,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 19379,
       "num": 202221,
       "word": "摩友回应机车博主李波车祸离世",
       "onboard_time": 1736076506,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17532,
-      "num": 34590,
-      "word": "去过挪威的人嘴真严",
-      "onboard_time": 1736104572,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 17204,
@@ -3363,11 +3371,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 9514,
-      "num": 62447,
-      "word": "收到了95后轰6K飞行员的晚安短信",
-      "onboard_time": 1736104333,
-      "rank": 9,
+      "raw_hot": 8952,
+      "num": 37376,
+      "word": "考拉宝宝已出袋感觉良好",
+      "onboard_time": 1736105532,
+      "rank": 19,
       "category": "民生新闻"
     }
   ],
