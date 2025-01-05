@@ -1,6 +1,6 @@
 {
   "startTime": 1736094308497,
-  "endTime": 1736108545270,
+  "endTime": 1736109337402,
   "band_list": [
     {
       "raw_hot": 2133118,
@@ -507,20 +507,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 28065,
+      "num": 34590,
+      "word": "去过挪威的人嘴真严",
+      "onboard_time": 1736104572,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 27816,
       "num": 101836,
       "word": "专家解读为何冰下自救这么难",
       "onboard_time": 1736098337,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27577,
-      "num": 34590,
-      "word": "去过挪威的人嘴真严",
-      "onboard_time": 1736104572,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 25815,
@@ -555,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20149,
+      "num": 20149,
+      "word": "顺风车司机将女子高速赶下车被行拘",
+      "onboard_time": 1736108651,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16347,
       "num": 18301,
       "word": "中国潜艇兵用上了专用护肤霜",
@@ -569,6 +577,14 @@
       "onboard_time": 1736100735,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14716,
+      "num": 17551,
+      "word": "俄乌士兵肉搏视频曝光",
+      "onboard_time": 1736108291,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 13176,
