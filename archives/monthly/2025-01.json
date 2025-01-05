@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736076913495,
+  "endTime": 1736080805600,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -235,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2799293,
+      "num": 217177,
+      "word": "李明德老先生们我尽力了",
+      "onboard_time": 1736077046,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2763810,
       "num": 2763810,
       "word": "银河酷娱致歉",
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 2126402,
-      "num": 200776,
+      "num": 213578,
       "word": "廖慧佳晒聊天记录",
       "onboard_time": 1736076265,
       "rank": 21,
@@ -747,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1459657,
+      "num": 1459657,
+      "word": "甲流",
+      "onboard_time": 1736071764,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1454388,
       "num": 1454388,
       "word": "跨年最佳节目",
@@ -785,14 +801,6 @@
       "onboard_time": 1735715780,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1390982,
-      "num": 1390982,
-      "word": "甲流",
-      "onboard_time": 1736071764,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1384245,
@@ -1507,6 +1515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 894748,
+      "num": 473139,
+      "word": "30岁博士生杜梅病逝遗书让人泪目",
+      "onboard_time": 1736075787,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 886676,
       "num": 787884,
       "word": "虞书欣星光大赏出图",
@@ -2153,6 +2169,14 @@
       "onboard_time": 1736054848,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 660653,
+      "num": 660653,
+      "word": "国考",
+      "onboard_time": 1736078126,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 657885,
@@ -3227,6 +3251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 455084,
+      "num": 635716,
+      "word": "孙珍妮 偏我来时都是春",
+      "onboard_time": 1736072306,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 454547,
       "num": 454547,
       "word": "孟子义李昀锐星光大赏封面",
@@ -3264,14 +3296,6 @@
       "word": "这回终于有人接住白鹿了",
       "onboard_time": 1735900040,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 450436,
-      "num": 635716,
-      "word": "孙珍妮 偏我来时都是春",
-      "onboard_time": 1736072306,
-      "rank": 47,
       "category": "剧集"
     },
     {
@@ -3705,6 +3729,14 @@
       "onboard_time": 1735974019,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 398421,
+      "num": 208477,
+      "word": "赵丽颖更新朋友圈",
+      "onboard_time": 1736077406,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 397838,
@@ -4595,6 +4627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 323193,
+      "num": 207090,
+      "word": "跑男全员爆哭",
+      "onboard_time": 1736077106,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 322378,
       "num": 420331,
       "word": "MCN老板说网红成功率比考清北低",
@@ -4716,7 +4756,7 @@
     },
     {
       "raw_hot": 313832,
-      "num": 196718,
+      "num": 206255,
       "word": "愚昧的小女孩",
       "onboard_time": 1736076265,
       "rank": 27,
@@ -5051,14 +5091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 294674,
-      "num": 317570,
-      "word": "30岁博士生杜梅病逝遗书让人泪目",
-      "onboard_time": 1736075787,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 294472,
       "num": 294472,
       "word": "胖东来员工收付彩礼将被取消福利",
@@ -5329,6 +5361,14 @@
       "onboard_time": 1736036484,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 279981,
+      "num": 279981,
+      "word": "宋威龙好像单独开了滤镜",
+      "onboard_time": 1736076686,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 279221,
@@ -5651,6 +5691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 255994,
+      "num": 255994,
+      "word": "文俊辉舞台",
+      "onboard_time": 1736079146,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
       "raw_hot": 255370,
       "num": 255370,
       "word": "檀健次全开麦唱跳好稳",
@@ -5720,6 +5768,14 @@
       "word": "樊振东称毫无保留地和大家沟通",
       "onboard_time": 1735659986,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 253344,
+      "num": 253344,
+      "word": "王皓说林高远是男队不可或缺的一员",
+      "onboard_time": 1736078937,
+      "rank": 12,
       "category": "体育"
     },
     {
@@ -5865,6 +5921,14 @@
       "onboard_time": 1735645882,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 246789,
+      "num": 246789,
+      "word": "乒乓世界",
+      "onboard_time": 1736076207,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 246765,
@@ -6035,6 +6099,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 241378,
+      "num": 241378,
+      "word": "贵女",
+      "onboard_time": 1736079328,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 240883,
       "num": 240883,
       "word": "A股振幅加大原因",
@@ -6089,6 +6161,14 @@
       "onboard_time": 1735990887,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 238212,
+      "num": 238212,
+      "word": "26岁抗癌博主小黄同学离世",
+      "onboard_time": 1736075906,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 237635,
@@ -6843,14 +6923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209970,
-      "num": 209970,
-      "word": "26岁抗癌博主小黄同学离世",
-      "onboard_time": 1736075906,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
       "raw_hot": 209388,
       "num": 209388,
       "word": "马龙太帅了",
@@ -7547,14 +7619,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 197529,
-      "num": 197529,
-      "word": "乒乓世界",
-      "onboard_time": 1736076207,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 197434,
       "num": 197434,
       "word": "王一博我在舞台播放破亿",
@@ -7667,12 +7731,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 195430,
+      "num": 195430,
+      "word": "宋雨琦金唱片最佳solo艺人",
+      "onboard_time": 1736080768,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 195381,
       "num": 195381,
       "word": "林高远男双MVP",
       "onboard_time": 1735740263,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195364,
+      "num": 241819,
+      "word": "韩国客机失事前疑撞上鸟群画面曝光",
+      "onboard_time": 1736079868,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 195355,
@@ -8491,6 +8571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181077,
+      "num": 181077,
+      "word": "王昶坐上了裁判椅",
+      "onboard_time": 1736076027,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181033,
       "num": 181033,
       "word": "HYBE今年将推出两组新女团",
@@ -8657,6 +8745,14 @@
       "onboard_time": 1735785082,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176907,
+      "num": 176907,
+      "word": "整栋楼都醒了就妹妹没醒",
+      "onboard_time": 1736078968,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 176728,
@@ -9539,6 +9635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162174,
+      "num": 162174,
+      "word": "被困冰层下冬泳者已被打捞上岸",
+      "onboard_time": 1736078937,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162169,
       "num": 985977,
       "word": "李昀锐连续两年星光大赏坐到最后",
@@ -9955,6 +10059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 153969,
+      "num": 153969,
+      "word": "丁禹兮给宋佳举相机",
+      "onboard_time": 1736078007,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153889,
       "num": 153889,
       "word": "黄龄刘忻声音里带水印",
@@ -10017,6 +10129,14 @@
       "onboard_time": 1735717699,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 152519,
+      "num": 152519,
+      "word": "你好星期六开年咖是杨紫李现",
+      "onboard_time": 1736079928,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 152398,
@@ -10811,6 +10931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139786,
+      "num": 139786,
+      "word": "成为了被孙颖莎的善意关照的女孩",
+      "onboard_time": 1736078667,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139672,
       "num": 139672,
       "word": "小小的我",
@@ -11121,6 +11249,14 @@
       "onboard_time": 1735808419,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 134932,
+      "num": 134932,
+      "word": "90岁工程院院士王正国逝世",
+      "onboard_time": 1736077886,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 134766,
@@ -11459,6 +11595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128441,
+      "num": 257487,
+      "word": "中式烧烤刷屏韩国社交媒体",
+      "onboard_time": 1736078968,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 128307,
       "num": 128307,
       "word": "外媒不解黑神话获得杰出剧情奖",
@@ -11481,6 +11625,14 @@
       "onboard_time": 1735814120,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128079,
+      "num": 128079,
+      "word": "大奉追妻成功",
+      "onboard_time": 1736079388,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 127897,
@@ -11697,14 +11849,6 @@
       "onboard_time": 1736075246,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 123173,
-      "num": 123173,
-      "word": "宋威龙好像单独开了滤镜",
-      "onboard_time": 1736076686,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 122967,
@@ -12035,6 +12179,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 118020,
+      "num": 346124,
+      "word": "孟子义尼龙杂志销量",
+      "onboard_time": 1736075428,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 117973,
       "num": 117973,
       "word": "487说对不起",
@@ -12241,6 +12393,14 @@
       "onboard_time": 1735805300,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113942,
+      "num": 113942,
+      "word": "医生说6种病是衰老正常现象",
+      "onboard_time": 1736080409,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 113904,
@@ -12587,6 +12747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 105170,
+      "num": 105170,
+      "word": "林一硬控男粉",
+      "onboard_time": 1736080708,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105052,
       "num": 341767,
       "word": "李政宰回应郑雨盛私生活争议",
@@ -12747,14 +12915,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 100426,
-      "num": 346124,
-      "word": "孟子义尼龙杂志销量",
-      "onboard_time": 1736075428,
-      "rank": 19,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 100272,
       "num": 278241,
       "word": "孙颖莎送祝福笑得好开心",
@@ -12833,14 +12993,6 @@
       "onboard_time": 1735956258,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 97515,
-      "num": 97515,
-      "word": "王昶坐上了裁判椅",
-      "onboard_time": 1736076027,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 97416,
@@ -13737,6 +13889,14 @@
       "onboard_time": 1735716679,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 67494,
+      "num": 213316,
+      "word": "乒协和队伍一直都是林高远的坚强后盾",
+      "onboard_time": 1736079146,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 67027,
@@ -14787,6 +14947,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 38166,
+      "num": 474980,
+      "word": "小寒节气冬日氛围更浓了",
+      "onboard_time": 1736064447,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 38033,
       "num": 361273,
       "word": "易烊千玺演出了刘春和的生命力",
@@ -15167,6 +15335,14 @@
       "num": 844536,
       "word": "律师谈胖东来公布员工结婚标准",
       "onboard_time": 1736004576,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32875,
+      "num": 219064,
+      "word": "打工人花式去班味儿",
+      "onboard_time": 1736079868,
       "rank": 19,
       "category": "民生新闻"
     },

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736076913495,
+  "endTime": 1736080805600,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -235,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2799293,
+      "num": 217177,
+      "word": "李明德老先生们我尽力了",
+      "onboard_time": 1736077046,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2763810,
       "num": 2763810,
       "word": "银河酷娱致歉",
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 2126402,
-      "num": 200776,
+      "num": 213578,
       "word": "廖慧佳晒聊天记录",
       "onboard_time": 1736076265,
       "rank": 21,
@@ -747,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1459657,
+      "num": 1459657,
+      "word": "甲流",
+      "onboard_time": 1736071764,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1454388,
       "num": 1454388,
       "word": "跨年最佳节目",
@@ -785,14 +801,6 @@
       "onboard_time": 1735715780,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1390982,
-      "num": 1390982,
-      "word": "甲流",
-      "onboard_time": 1736071764,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1384245,
@@ -1507,6 +1515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 894748,
+      "num": 473139,
+      "word": "30岁博士生杜梅病逝遗书让人泪目",
+      "onboard_time": 1736075787,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 886676,
       "num": 787884,
       "word": "虞书欣星光大赏出图",
@@ -2155,6 +2171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 660653,
+      "num": 660653,
+      "word": "国考",
+      "onboard_time": 1736078126,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 657885,
       "num": 547152,
       "word": "十个勤天 春晚",
@@ -2377,30 +2401,6 @@
       "onboard_time": 1735900761,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 605044,
-      "num": 495592,
-      "word": "Angelababy沙漠神女",
-      "onboard_time": 1735742121,
-      "rank": 11,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 604314,
-      "num": 426854,
-      "word": "王鸥这拍摄团队在内娱属于TOP级别",
-      "onboard_time": 1735813218,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 603770,
-      "num": 488344,
-      "word": "欧阳妮妮生子",
-      "onboard_time": 1735793783,
-      "rank": 10,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

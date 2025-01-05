@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736076913495,
+  "endTime": 1736080805600,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -115,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2799293,
+      "num": 217177,
+      "word": "李明德老先生们我尽力了",
+      "onboard_time": 1736077046,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2334084,
       "num": 2334084,
       "word": "姜尘晒录音提张颂文名字",
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 2126402,
-      "num": 200776,
+      "num": 213578,
       "word": "廖慧佳晒聊天记录",
       "onboard_time": 1736076265,
       "rank": 21,
@@ -219,8 +227,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1390982,
-      "num": 1390982,
+      "raw_hot": 1459657,
+      "num": 1459657,
       "word": "甲流",
       "onboard_time": 1736071764,
       "rank": 23,
@@ -289,6 +297,14 @@
       "onboard_time": 1735999949,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 894748,
+      "num": 473139,
+      "word": "30岁博士生杜梅病逝遗书让人泪目",
+      "onboard_time": 1736075787,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 886676,
@@ -409,6 +425,14 @@
       "onboard_time": 1736054848,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 660653,
+      "num": 660653,
+      "word": "国考",
+      "onboard_time": 1736078126,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 626433,
@@ -539,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 455084,
+      "num": 635716,
+      "word": "孙珍妮 偏我来时都是春",
+      "onboard_time": 1736072306,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 453404,
       "num": 453404,
       "word": "张康乐晒与马柏全合照",
@@ -552,14 +584,6 @@
       "word": "鸣龙少年",
       "onboard_time": 1736007934,
       "rank": 37,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 450436,
-      "num": 635716,
-      "word": "孙珍妮 偏我来时都是春",
-      "onboard_time": 1736072306,
-      "rank": 47,
       "category": "剧集"
     },
     {
@@ -625,6 +649,14 @@
       "onboard_time": 1736073386,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 398421,
+      "num": 208477,
+      "word": "赵丽颖更新朋友圈",
+      "onboard_time": 1736077406,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 394385,
@@ -763,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 323193,
+      "num": 207090,
+      "word": "跑男全员爆哭",
+      "onboard_time": 1736077106,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 321828,
       "num": 321828,
       "word": "丁禹兮现身蛇年春晚联排",
@@ -780,7 +820,7 @@
     },
     {
       "raw_hot": 313832,
-      "num": 196718,
+      "num": 206255,
       "word": "愚昧的小女孩",
       "onboard_time": 1736076265,
       "rank": 27,
@@ -843,14 +883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 294674,
-      "num": 317570,
-      "word": "30岁博士生杜梅病逝遗书让人泪目",
-      "onboard_time": 1736075787,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 294439,
       "num": 2699090,
       "word": "农村宅基地废弃面积760万公顷",
@@ -907,6 +939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 279981,
+      "num": 279981,
+      "word": "宋威龙好像单独开了滤镜",
+      "onboard_time": 1736076686,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 272190,
       "num": 990207,
       "word": "第一次这么清晰看到小鸟喝露水",
@@ -955,6 +995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 255994,
+      "num": 255994,
+      "word": "文俊辉舞台",
+      "onboard_time": 1736079146,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
       "raw_hot": 253818,
       "num": 4182080,
       "word": "以色列遭导弹袭击",
@@ -969,6 +1017,14 @@
       "onboard_time": 1736051129,
       "rank": 17,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 253344,
+      "num": 253344,
+      "word": "王皓说林高远是男队不可或缺的一员",
+      "onboard_time": 1736078937,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 252594,
@@ -995,6 +1051,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 246789,
+      "num": 246789,
+      "word": "乒乓世界",
+      "onboard_time": 1736076207,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 244037,
       "num": 985761,
       "word": "机车博主波哥车祸身亡",
@@ -1011,6 +1075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241378,
+      "num": 241378,
+      "word": "贵女",
+      "onboard_time": 1736079328,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 240690,
       "num": 654895,
       "word": "射雕英雄传 家永远是你的桃花岛",
@@ -1025,6 +1097,14 @@
       "onboard_time": 1736054128,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 238212,
+      "num": 238212,
+      "word": "26岁抗癌博主小黄同学离世",
+      "onboard_time": 1736075906,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 237635,
@@ -1147,14 +1227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 209970,
-      "num": 209970,
-      "word": "26岁抗癌博主小黄同学离世",
-      "onboard_time": 1736075906,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
       "raw_hot": 208702,
       "num": 208702,
       "word": "傅菁又带着抖肩杀回来了",
@@ -1243,14 +1315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 197529,
-      "num": 197529,
-      "word": "乒乓世界",
-      "onboard_time": 1736076207,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 197239,
       "num": 346859,
       "word": "王者荣耀",
@@ -1273,6 +1337,22 @@
       "onboard_time": 1736060066,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 195430,
+      "num": 195430,
+      "word": "宋雨琦金唱片最佳solo艺人",
+      "onboard_time": 1736080768,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 195364,
+      "num": 241819,
+      "word": "韩国客机失事前疑撞上鸟群画面曝光",
+      "onboard_time": 1736079868,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 194707,
@@ -1323,12 +1403,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 181077,
+      "num": 181077,
+      "word": "王昶坐上了裁判椅",
+      "onboard_time": 1736076027,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177398,
       "num": 4018074,
       "word": "韩国人在上海消费能力好强",
       "onboard_time": 1735984043,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176907,
+      "num": 176907,
+      "word": "整栋楼都醒了就妹妹没醒",
+      "onboard_time": 1736078968,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 176728,
@@ -1377,6 +1473,14 @@
       "onboard_time": 1736040993,
       "rank": 42,
       "category": "军事"
+    },
+    {
+      "raw_hot": 162174,
+      "num": 162174,
+      "word": "被困冰层下冬泳者已被打捞上岸",
+      "onboard_time": 1736078937,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162169,
@@ -1443,12 +1547,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153969,
+      "num": 153969,
+      "word": "丁禹兮给宋佳举相机",
+      "onboard_time": 1736078007,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152584,
       "num": 945560,
       "word": "你有舍不得删掉的短信吗",
       "onboard_time": 1736002175,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152519,
+      "num": 152519,
+      "word": "你好星期六开年咖是杨紫李现",
+      "onboard_time": 1736079928,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 148495,
@@ -1491,6 +1611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139786,
+      "num": 139786,
+      "word": "成为了被孙颖莎的善意关照的女孩",
+      "onboard_time": 1736078667,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137527,
       "num": 410640,
       "word": "幼儿园在厕所清洗幼儿餐具",
@@ -1505,6 +1633,14 @@
       "onboard_time": 1736043872,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134932,
+      "num": 134932,
+      "word": "90岁工程院院士王正国逝世",
+      "onboard_time": 1736077886,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 134101,
@@ -1529,6 +1665,22 @@
       "onboard_time": 1736042371,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 128441,
+      "num": 257487,
+      "word": "中式烧烤刷屏韩国社交媒体",
+      "onboard_time": 1736078968,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 128079,
+      "num": 128079,
+      "word": "大奉追妻成功",
+      "onboard_time": 1736079388,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 127594,
@@ -1571,14 +1723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 123173,
-      "num": 123173,
-      "word": "宋威龙好像单独开了滤镜",
-      "onboard_time": 1736076686,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 121642,
       "num": 644875,
       "word": "赶女生在高速下车司机已被封号",
@@ -1617,6 +1761,14 @@
       "onboard_time": 1736071466,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118020,
+      "num": 346124,
+      "word": "孟子义尼龙杂志销量",
+      "onboard_time": 1736075428,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 117862,
@@ -1665,6 +1817,14 @@
       "onboard_time": 1736054788,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 113942,
+      "num": 113942,
+      "word": "医生说6种病是衰老正常现象",
+      "onboard_time": 1736080409,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 113904,
@@ -1731,6 +1891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 105170,
+      "num": 105170,
+      "word": "林一硬控男粉",
+      "onboard_time": 1736080708,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105052,
       "num": 341767,
       "word": "李政宰回应郑雨盛私生活争议",
@@ -1787,28 +1955,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 100426,
-      "num": 346124,
-      "word": "孟子义尼龙杂志销量",
-      "onboard_time": 1736075428,
-      "rank": 19,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 98278,
       "num": 2710292,
       "word": "冬天景色满足一切对童话的想象",
       "onboard_time": 1736054068,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 97515,
-      "num": 97515,
-      "word": "王昶坐上了裁判椅",
-      "onboard_time": 1736076027,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 97487,
@@ -2043,6 +2195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 67494,
+      "num": 213316,
+      "word": "乒协和队伍一直都是林高远的坚强后盾",
+      "onboard_time": 1736079146,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63322,
       "num": 220489,
       "word": "狼队战胜KSG",
@@ -2203,6 +2363,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 38166,
+      "num": 474980,
+      "word": "小寒节气冬日氛围更浓了",
+      "onboard_time": 1736064447,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 37627,
       "num": 320528,
       "word": "车厘子价格还会降吗",
@@ -2241,6 +2409,14 @@
       "onboard_time": 1736002535,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 32875,
+      "num": 219064,
+      "word": "打工人花式去班味儿",
+      "onboard_time": 1736079868,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32367,
