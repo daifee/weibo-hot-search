@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736090449896,
+  "endTime": 1736091312929,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 2126402,
-      "num": 295486,
+      "num": 322335,
       "word": "廖慧佳晒聊天记录",
       "onboard_time": 1736076265,
       "rank": 21,
@@ -393,6 +393,14 @@
       "onboard_time": 1735967359,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2026892,
+      "num": 815513,
+      "word": "秦霄贤姐姐直播",
+      "onboard_time": 1736089769,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1979803,
@@ -572,7 +580,7 @@
     },
     {
       "raw_hot": 1692193,
-      "num": 302556,
+      "num": 323288,
       "word": "至此已成艺术",
       "onboard_time": 1736085449,
       "rank": 22,
@@ -1763,6 +1771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 820543,
+      "num": 820543,
+      "word": "大奉打更人热度",
+      "onboard_time": 1735863860,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 819760,
       "num": 819760,
       "word": "韩失事客机残骸在调查过程中起火",
@@ -1795,12 +1811,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 811832,
-      "num": 811832,
-      "word": "大奉打更人热度",
-      "onboard_time": 1735863860,
-      "rank": 5,
-      "category": "剧集"
+      "raw_hot": 815399,
+      "num": 815399,
+      "word": "女子怀孕7个月体重94斤",
+      "onboard_time": 1736090728,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 809997,
@@ -1872,14 +1888,6 @@
       "word": "张一山瘦了好多",
       "onboard_time": 1735883180,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 797281,
-      "num": 797281,
-      "word": "秦霄贤姐姐直播",
-      "onboard_time": 1736089769,
-      "rank": 4,
       "category": "艺人"
     },
     {
@@ -2081,6 +2089,14 @@
       "onboard_time": 1735822219,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 727466,
+      "num": 727466,
+      "word": "香港全款400万15平米的家",
+      "onboard_time": 1736087609,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 719060,
@@ -2643,6 +2659,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 585158,
+      "num": 317826,
+      "word": "赵丽颖 我点头只是被自己美到了",
+      "onboard_time": 1736088929,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 584701,
       "num": 584701,
       "word": "韩客机失事现场发现波音737手册残页",
@@ -2875,20 +2899,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 530858,
+      "num": 530858,
+      "word": "甲流通常全身症状比较明显",
+      "onboard_time": 1736088029,
+      "rank": 5,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 526354,
       "num": 2771686,
       "word": "网友用樊振东身份证号发红包后致歉",
       "onboard_time": 1736051129,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 525149,
-      "num": 289935,
-      "word": "赵丽颖 我点头只是被自己美到了",
-      "onboard_time": 1736088929,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 524759,
@@ -3136,14 +3160,6 @@
       "word": "阳光型抑郁症到底是什么",
       "onboard_time": 1735743981,
       "rank": 11,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 499854,
-      "num": 499854,
-      "word": "甲流通常全身症状比较明显",
-      "onboard_time": 1736088029,
-      "rank": 5,
       "category": "健康医疗"
     },
     {
@@ -3601,14 +3617,6 @@
       "onboard_time": 1735802060,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 430801,
-      "num": 430801,
-      "word": "香港全款400万15平米的家",
-      "onboard_time": 1736087609,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 428969,
@@ -4097,6 +4105,14 @@
       "onboard_time": 1735673714,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 380845,
+      "num": 380845,
+      "word": "12岁失踪30天男孩曾在监控下呼救",
+      "onboard_time": 1736090429,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 380410,
@@ -4633,6 +4649,14 @@
       "onboard_time": 1735888220,
       "rank": 18,
       "category": "艺人,健康医疗"
+    },
+    {
+      "raw_hot": 341711,
+      "num": 341711,
+      "word": "夏之光晒和代露娃合照",
+      "onboard_time": 1736089769,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 341025,
@@ -5651,14 +5675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 277832,
-      "num": 277832,
-      "word": "12岁失踪30天男孩曾在监控下呼救",
-      "onboard_time": 1736090429,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 277666,
       "num": 202737,
       "word": "跨年晚会",
@@ -6115,14 +6131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 249842,
-      "num": 249842,
-      "word": "夏之光晒和代露娃合照",
-      "onboard_time": 1736089769,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 249737,
       "num": 379548,
       "word": "黄景瑜回应拍恋爱戏就变夹",
@@ -6233,6 +6241,14 @@
       "onboard_time": 1735707979,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 244449,
+      "num": 244449,
+      "word": "永夜星河售后",
+      "onboard_time": 1736089589,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 244353,
@@ -6592,14 +6608,6 @@
       "word": "跨晚男明星微指",
       "onboard_time": 1735792043,
       "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 230490,
-      "num": 230490,
-      "word": "永夜星河售后",
-      "onboard_time": 1736089589,
-      "rank": 34,
       "category": "综艺"
     },
     {
@@ -7019,6 +7027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216670,
+      "num": 216670,
+      "word": "Ok 咱们线上",
+      "onboard_time": 1736090548,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216658,
       "num": 216658,
       "word": "专家谈中学招13名教师10清北0师范",
@@ -7153,6 +7169,14 @@
       "onboard_time": 1735789462,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 212271,
+      "num": 212271,
+      "word": "孟子义 在综艺上一演戏就有负担",
+      "onboard_time": 1736090069,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 212202,
@@ -7441,6 +7465,14 @@
       "onboard_time": 1735697481,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205004,
+      "num": 455009,
+      "word": "央视起底虹膜写真暗藏风险",
+      "onboard_time": 1736089469,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 204930,
@@ -9539,6 +9571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 169503,
+      "num": 169503,
+      "word": "ENHYPEN Dance Break",
+      "onboard_time": 1736090488,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 169450,
       "num": 169450,
       "word": "唐探1900预告的预告",
@@ -9633,14 +9673,6 @@
       "onboard_time": 1735808600,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 168185,
-      "num": 455009,
-      "word": "央视起底虹膜写真暗藏风险",
-      "onboard_time": 1736089469,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 168181,
@@ -10337,14 +10369,6 @@
       "onboard_time": 1735893980,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 156099,
-      "num": 156099,
-      "word": "孟子义 在综艺上一演戏就有负担",
-      "onboard_time": 1736090069,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 156006,
@@ -13819,6 +13843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86656,
+      "num": 290476,
+      "word": "九尾打卡张远演唱会",
+      "onboard_time": 1736089950,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 86644,
       "num": 259015,
       "word": "专家称老百姓消费少跟收入分配有关",
@@ -14251,14 +14283,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 71829,
-      "num": 290476,
-      "word": "九尾打卡张远演唱会",
-      "onboard_time": 1736089950,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 71793,
       "num": 1222401,
       "word": "社区让熏腊肉老人听话是错上加错",
@@ -14433,6 +14457,14 @@
       "onboard_time": 1736081550,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 65415,
+      "num": 340124,
+      "word": "AG全胜晋级挑杯决赛",
+      "onboard_time": 1736091267,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 65279,
@@ -14843,6 +14875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53314,
+      "num": 416658,
+      "word": "公寓烟道被堵油烟全往一家钻",
+      "onboard_time": 1736089649,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53254,
       "num": 906829,
       "word": "如何看待换燃气表后跑得飞快",
@@ -15241,14 +15281,6 @@
       "onboard_time": 1735746260,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 42943,
-      "num": 416658,
-      "word": "公寓烟道被堵油烟全往一家钻",
-      "onboard_time": 1736089649,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 42885,

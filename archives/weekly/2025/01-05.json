@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736090449896,
+  "endTime": 1736091312929,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 2126402,
-      "num": 295486,
+      "num": 322335,
       "word": "廖慧佳晒聊天记录",
       "onboard_time": 1736076265,
       "rank": 21,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2026892,
+      "num": 815513,
+      "word": "秦霄贤姐姐直播",
+      "onboard_time": 1736089769,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1869638,
       "num": 2740164,
       "word": "孟子义李昀锐 他说她可爱",
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 1692193,
-      "num": 302556,
+      "num": 323288,
       "word": "至此已成艺术",
       "onboard_time": 1736085449,
       "rank": 22,
@@ -411,12 +419,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 811832,
-      "num": 811832,
+      "raw_hot": 820543,
+      "num": 820543,
       "word": "大奉打更人热度",
       "onboard_time": 1736088148,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 815399,
+      "num": 815399,
+      "word": "女子怀孕7个月体重94斤",
+      "onboard_time": 1736090728,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 801179,
@@ -443,14 +459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 797281,
-      "num": 797281,
-      "word": "秦霄贤姐姐直播",
-      "onboard_time": 1736089769,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 766880,
       "num": 84811,
       "word": "王嘉尔",
@@ -465,6 +473,14 @@
       "onboard_time": 1736058268,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 727466,
+      "num": 727466,
+      "word": "香港全款400万15平米的家",
+      "onboard_time": 1736087609,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 719060,
@@ -587,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 585158,
+      "num": 317826,
+      "word": "赵丽颖 我点头只是被自己美到了",
+      "onboard_time": 1736088929,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 567262,
       "num": 567262,
       "word": "古相思曲",
@@ -619,20 +643,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 530858,
+      "num": 530858,
+      "word": "甲流通常全身症状比较明显",
+      "onboard_time": 1736088029,
+      "rank": 5,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 526354,
       "num": 2771686,
       "word": "网友用樊振东身份证号发红包后致歉",
       "onboard_time": 1736051129,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 525149,
-      "num": 289935,
-      "word": "赵丽颖 我点头只是被自己美到了",
-      "onboard_time": 1736088929,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 518491,
@@ -657,14 +681,6 @@
       "onboard_time": 1735977021,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 499854,
-      "num": 499854,
-      "word": "甲流通常全身症状比较明显",
-      "onboard_time": 1736088029,
-      "rank": 5,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 499741,
@@ -771,14 +787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 430801,
-      "num": 430801,
-      "word": "香港全款400万15平米的家",
-      "onboard_time": 1736087609,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 425762,
       "num": 658769,
       "word": "赵丽颖看虞书欣丁禹兮",
@@ -881,6 +889,14 @@
       "onboard_time": 1736006255,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 380845,
+      "num": 380845,
+      "word": "12岁失踪30天男孩曾在监控下呼救",
+      "onboard_time": 1736090429,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 375984,
@@ -1009,6 +1025,14 @@
       "onboard_time": 1736081550,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 341711,
+      "num": 341711,
+      "word": "夏之光晒和代露娃合照",
+      "onboard_time": 1736089769,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 330157,
@@ -1187,14 +1211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 277832,
-      "num": 277832,
-      "word": "12岁失踪30天男孩曾在监控下呼救",
-      "onboard_time": 1736090429,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 275746,
       "num": 275746,
       "word": "秦志戬前往林高远家中探望",
@@ -1315,14 +1331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 249842,
-      "num": 249842,
-      "word": "夏之光晒和代露娃合照",
-      "onboard_time": 1736089769,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 247674,
       "num": 646202,
       "word": "周杰伦迪拜演唱会上座率",
@@ -1337,6 +1345,14 @@
       "onboard_time": 1736076207,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 244449,
+      "num": 244449,
+      "word": "永夜星河售后",
+      "onboard_time": 1736089589,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 244037,
@@ -1409,14 +1425,6 @@
       "onboard_time": 1736078968,
       "rank": 9,
       "category": "美食"
-    },
-    {
-      "raw_hot": 230490,
-      "num": 230490,
-      "word": "永夜星河售后",
-      "onboard_time": 1736089589,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 229666,
@@ -1507,11 +1515,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216670,
+      "num": 216670,
+      "word": "Ok 咱们线上",
+      "onboard_time": 1736090548,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213258,
       "num": 213258,
       "word": "没人告诉我吴宇恒是bking",
       "onboard_time": 1736055869,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 212271,
+      "num": 212271,
+      "word": "孟子义 在综艺上一演戏就有负担",
+      "onboard_time": 1736090069,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -1577,6 +1601,14 @@
       "onboard_time": 1736061085,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205004,
+      "num": 455009,
+      "word": "央视起底虹膜写真暗藏风险",
+      "onboard_time": 1736089469,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 203951,
@@ -1819,20 +1851,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 169503,
+      "num": 169503,
+      "word": "ENHYPEN Dance Break",
+      "onboard_time": 1736090488,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 168845,
       "num": 296692,
       "word": "张若昀把人生的真心给了范闲",
       "onboard_time": 1736050229,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168185,
-      "num": 455009,
-      "word": "央视起底虹膜写真暗藏风险",
-      "onboard_time": 1736089469,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 167812,
@@ -1921,14 +1953,6 @@
       "onboard_time": 1736060126,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 156099,
-      "num": 156099,
-      "word": "孟子义 在综艺上一演戏就有负担",
-      "onboard_time": 1736090069,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 154854,
@@ -2523,6 +2547,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 86656,
+      "num": 290476,
+      "word": "九尾打卡张远演唱会",
+      "onboard_time": 1736089950,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 85709,
       "num": 530256,
       "word": "雷军回复网友",
@@ -2619,14 +2651,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 71829,
-      "num": 290476,
-      "word": "九尾打卡张远演唱会",
-      "onboard_time": 1736089950,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 71280,
       "num": 245384,
       "word": "21年前出租车女司机载客遇害案告破",
@@ -2681,6 +2705,14 @@
       "onboard_time": 1736081550,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 65415,
+      "num": 340124,
+      "word": "AG全胜晋级挑杯决赛",
+      "onboard_time": 1736091267,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 63322,
@@ -2760,6 +2792,14 @@
       "word": "全麻后他加了一次最狠的班",
       "onboard_time": 1736016736,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53314,
+      "num": 416658,
+      "word": "公寓烟道被堵油烟全往一家钻",
+      "onboard_time": 1736089649,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -2849,14 +2889,6 @@
       "onboard_time": 1736064447,
       "rank": 2,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 42943,
-      "num": 416658,
-      "word": "公寓烟道被堵油烟全往一家钻",
-      "onboard_time": 1736089649,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 42272,

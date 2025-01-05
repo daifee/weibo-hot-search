@@ -1,0 +1,410 @@
+{
+  "runTime": 1736091312929,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1131781,
+        "num": 1181085,
+        "word": "从校园餐里1毛钱1毛钱贪了23万",
+        "onboard_time": 1736083231,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 820543,
+        "num": 820543,
+        "word": "大奉打更人热度",
+        "onboard_time": 1736088148,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87308,
+        "num": 815556,
+        "word": "近期流感高发如何做好防护",
+        "onboard_time": 1736077347,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2026892,
+        "num": 815513,
+        "word": "秦霄贤姐姐直播",
+        "onboard_time": 1736089769,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 815399,
+        "num": 815399,
+        "word": "女子怀孕7个月体重94斤",
+        "onboard_time": 1736090728,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 786068,
+        "num": 786068,
+        "word": "贪官把个人收款码贴在办事大厅",
+        "onboard_time": 1736084310,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 727466,
+        "num": 727466,
+        "word": "香港全款400万15平米的家",
+        "onboard_time": 1736087609,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 599456,
+        "num": 599456,
+        "word": "王俊凯玩无畏契约",
+        "onboard_time": 1736086409,
+        "rank": 7,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 535866,
+        "num": 535866,
+        "word": "祝绪丹丁禹兮 最好的慕家姐弟",
+        "onboard_time": 1736082329,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 530858,
+        "num": 530858,
+        "word": "甲流通常全身症状比较明显",
+        "onboard_time": 1736088029,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 380845,
+        "num": 380845,
+        "word": "12岁失踪30天男孩曾在监控下呼救",
+        "onboard_time": 1736090429,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 684782,
+        "num": 380581,
+        "word": "禁娱一解除就来泡泡的爱豆",
+        "onboard_time": 1736084670,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 597829,
+        "num": 376792,
+        "word": "国际乒联调查组被疑是自查",
+        "onboard_time": 1736085511,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 437771,
+        "num": 376139,
+        "word": "祝绪丹急得站起来嗑",
+        "onboard_time": 1736086299,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53314,
+        "num": 373023,
+        "word": "公寓烟道被堵油烟全往一家钻",
+        "onboard_time": 1736089649,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205004,
+        "num": 371279,
+        "word": "央视起底虹膜写真暗藏风险",
+        "onboard_time": 1736089469,
+        "rank": 15,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 369372,
+        "num": 369372,
+        "word": "李现来到了谢之遥的有风小院",
+        "onboard_time": 1736084370,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343015,
+        "num": 343015,
+        "word": "小猫皮草传到了国外",
+        "onboard_time": 1736080888,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 341711,
+        "num": 341711,
+        "word": "夏之光晒和代露娃合照",
+        "onboard_time": 1736089769,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65415,
+        "num": 340124,
+        "word": "AG全胜晋级挑杯决赛",
+        "onboard_time": 1736091267,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 2772957,
+        "num": 336384,
+        "word": "三人行导演回应",
+        "onboard_time": 1736053351,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1395534,
+        "num": 331840,
+        "word": "虞书欣 顺手的事",
+        "onboard_time": 1736072185,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1306203,
+        "num": 323288,
+        "word": "至此已成艺术",
+        "onboard_time": 1736085449,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 787493,
+        "num": 322335,
+        "word": "廖慧佳晒聊天记录",
+        "onboard_time": 1736076265,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 585158,
+        "num": 317826,
+        "word": "赵丽颖 我点头只是被自己美到了",
+        "onboard_time": 1736088929,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313604,
+        "num": 313604,
+        "word": "目前流感病毒99%以上是甲流",
+        "onboard_time": 1736081487,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 423914,
+        "num": 313193,
+        "word": "猫在洗衣机里洗了2分钟才被发现",
+        "onboard_time": 1736083290,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344850,
+        "num": 309150,
+        "word": "25岁女子体检正常半个月后确诊胃癌",
+        "onboard_time": 1736075667,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 303194,
+        "num": 303194,
+        "word": "ive预告",
+        "onboard_time": 1736088389,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244449,
+        "num": 244449,
+        "word": "永夜星河售后",
+        "onboard_time": 1736089589,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271822,
+        "num": 242557,
+        "word": "30岁博士生杜梅病逝遗书让人泪目",
+        "onboard_time": 1736075787,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238033,
+        "num": 238033,
+        "word": "吉林一公司发消费券代替工资",
+        "onboard_time": 1736082209,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 237072,
+        "num": 237072,
+        "word": "白桃星座",
+        "onboard_time": 1736089529,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216670,
+        "num": 216670,
+        "word": "Ok 咱们线上",
+        "onboard_time": 1736090548,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212271,
+        "num": 212271,
+        "word": "孟子义 在综艺上一演戏就有负担",
+        "onboard_time": 1736090069,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205616,
+        "num": 205616,
+        "word": "TOP登陆少年",
+        "onboard_time": 1736085630,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 199494,
+        "num": 199494,
+        "word": "aespa宁宁减肥前后对比",
+        "onboard_time": 1736081309,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194995,
+        "num": 194995,
+        "word": "丁禹兮 陪伴虞书欣每一个第一次",
+        "onboard_time": 1736077527,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192908,
+        "num": 192908,
+        "word": "无畏契约",
+        "onboard_time": 1736088510,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189908,
+        "num": 189908,
+        "word": "赵丽颖更新朋友圈",
+        "onboard_time": 1736077406,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86656,
+        "num": 178392,
+        "word": "九尾打卡张远演唱会",
+        "onboard_time": 1736089950,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175318,
+        "num": 175318,
+        "word": "国考",
+        "onboard_time": 1736078126,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 169503,
+        "num": 169503,
+        "word": "ENHYPEN Dance Break",
+        "onboard_time": 1736090488,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168506,
+        "num": 168506,
+        "word": "檀健次终于跳上晚安大小姐了",
+        "onboard_time": 1736087249,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165126,
+        "num": 165126,
+        "word": "猎罪图鉴3宣传词出来了",
+        "onboard_time": 1736081550,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142950,
+        "num": 142950,
+        "word": "多地流感神药需求暴涨",
+        "onboard_time": 1736085991,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132733,
+        "num": 132733,
+        "word": "医生说6种病是衰老正常现象",
+        "onboard_time": 1736080409,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 130296,
+        "num": 130296,
+        "word": "反腐为了人民第一集",
+        "onboard_time": 1736080888,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 128346,
+        "num": 128346,
+        "word": "小猫咪一爪子挠坏乌军无人机",
+        "onboard_time": 1736085870,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121685,
+        "num": 121685,
+        "word": "业内人士称樊振东炙手可热",
+        "onboard_time": 1736088449,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民日报五论新年贺词#"
+    }
+  }
+}
