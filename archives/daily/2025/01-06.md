@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/06 00:25:08 ~ 2025/01/06 02:27:58
+本榜单时间：2025/01/06 00:25:08 ~ 2025/01/06 02:40:59
 </p>
 </blockquote>
 <p>
@@ -388,7 +388,7 @@ AG全胜晋级挑杯决赛（热度：68793）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A3%E6%BD%AE2.0%E7%89%88%E6%9C%AC%23" target="weibo">
-鸣潮2.0版本（热度：30335）
+鸣潮2.0版本（热度：31672）
 </a>
 </li>
 
@@ -413,6 +413,12 @@ AG南京见（热度：25815）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E9%95%BF%E6%BB%A1%E6%9D%A5%E6%97%85%E6%B8%B8%E7%9A%84%E9%9F%A9%E5%9B%BD%E4%BA%BA%23" target="weibo">
 上海长满来旅游的韩国人（热度：15389）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%AA%E5%AE%98%E4%B8%BA%E6%8C%AA%E7%94%A8%E8%B5%84%E9%87%91%E5%BC%80%E5%87%BA%E5%81%87%E7%A5%A83000%E5%A4%9A%E5%BC%A0%23" target="weibo">
+贪官为挪用资金开出假票3000多张（热度：10631）
 </a>
 </li>
 
