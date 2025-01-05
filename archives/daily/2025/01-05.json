@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736072499249,
+  "endTime": 1736073512399,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3027813,
+      "num": 3027813,
+      "word": "虞书欣 顺手的事",
+      "onboard_time": 1736072185,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2334084,
       "num": 2334084,
       "word": "姜尘晒录音提张颂文名字",
@@ -208,14 +216,6 @@
       "word": "三人行",
       "onboard_time": 1736011465,
       "rank": 12,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1062642,
-      "num": 1170022,
-      "word": "虞书欣 顺手的事",
-      "onboard_time": 1736072185,
-      "rank": 0,
       "category": "剧集"
     },
     {
@@ -419,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 531213,
+      "num": 649841,
+      "word": "甲流",
+      "onboard_time": 1736071764,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 526354,
       "num": 2771686,
       "word": "网友用樊振东身份证号发红包后致歉",
@@ -523,12 +531,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 421764,
+      "num": 660673,
+      "word": "王楚钦点赞周启豪",
+      "onboard_time": 1736071226,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 420356,
       "num": 655576,
       "word": "央视曝95起加油站案逃税7.9亿元",
       "onboard_time": 1736063125,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 418713,
+      "num": 657642,
+      "word": "23岁中职老师一天5节课的生活",
+      "onboard_time": 1736069845,
+      "rank": 10,
+      "category": "教育"
     },
     {
       "raw_hot": 416509,
@@ -569,14 +593,6 @@
       "onboard_time": 1736006255,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 385788,
-      "num": 657642,
-      "word": "23岁中职老师一天5节课的生活",
-      "onboard_time": 1736069845,
-      "rank": 10,
-      "category": "教育"
     },
     {
       "raw_hot": 375984,
@@ -699,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 310818,
+      "num": 310818,
+      "word": "唐嫣你不欠汪小姐一个奖",
+      "onboard_time": 1736072546,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 310198,
       "num": 664701,
       "word": "上海一餐厅爆火晚10点后满眼韩国人",
@@ -721,6 +745,14 @@
       "onboard_time": 1736060606,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 300259,
+      "num": 659628,
+      "word": "为什么总感觉周末过得那么快",
+      "onboard_time": 1736065347,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 296774,
@@ -747,12 +779,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 292280,
-      "num": 660673,
-      "word": "王楚钦点赞周启豪",
-      "onboard_time": 1736071226,
-      "rank": 5,
-      "category": "体育"
+      "raw_hot": 287707,
+      "num": 657154,
+      "word": "女子收到50万元转账险成电诈帮凶",
+      "onboard_time": 1736067745,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 287106,
@@ -787,14 +819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 276666,
-      "num": 657154,
-      "word": "女子收到50万元转账险成电诈帮凶",
-      "onboard_time": 1736067745,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 272190,
       "num": 990207,
       "word": "第一次这么清晰看到小鸟喝露水",
@@ -819,12 +843,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 267501,
-      "num": 659628,
-      "word": "为什么总感觉周末过得那么快",
-      "onboard_time": 1736065347,
+      "raw_hot": 266360,
+      "num": 635185,
+      "word": "李明德说我不装了我摊牌了",
+      "onboard_time": 1736072426,
       "rank": 48,
-      "category": "情感"
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 262661,
+      "num": 658125,
+      "word": "在沪韩国人的规律",
+      "onboard_time": 1736071346,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 258787,
@@ -921,14 +953,6 @@
       "onboard_time": 1736054128,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 238544,
-      "num": 649841,
-      "word": "甲流",
-      "onboard_time": 1736071764,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 237635,
@@ -1123,12 +1147,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 198391,
+      "num": 642028,
+      "word": "穿羽绒服主持人赞莎莎不可限量",
+      "onboard_time": 1736070505,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197739,
       "num": 989800,
       "word": "骨骼缺陷男子扮成黄油小熊卖糖葫芦",
       "onboard_time": 1736039430,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197239,
+      "num": 197239,
+      "word": "王者荣耀",
+      "onboard_time": 1736073027,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 196295,
@@ -1283,20 +1323,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155093,
-      "num": 658125,
-      "word": "在沪韩国人的规律",
-      "onboard_time": 1736071346,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 154854,
       "num": 647822,
       "word": "经济学家建议补贴初婚初育",
       "onboard_time": 1736066906,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154843,
+      "num": 635716,
+      "word": "孙珍妮 偏我来时都是春",
+      "onboard_time": 1736072306,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 154378,
@@ -1419,6 +1459,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 124557,
+      "num": 124557,
+      "word": "误杀3 枪响之后没有答案",
+      "onboard_time": 1736072246,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 121642,
       "num": 644875,
       "word": "赶女生在高速下车司机已被封号",
@@ -1441,6 +1489,14 @@
       "onboard_time": 1736048310,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120226,
+      "num": 120226,
+      "word": "值乘27年他让老乡慢火车上卖菜忙",
+      "onboard_time": 1736072845,
+      "rank": 37,
+      "category": "正能量"
     },
     {
       "raw_hot": 119504,
@@ -1499,14 +1555,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 114731,
-      "num": 642028,
-      "word": "穿羽绒服主持人赞莎莎不可限量",
-      "onboard_time": 1736070505,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 114289,
       "num": 499425,
       "word": "感觉成毅头上永远有个加载符号",
@@ -1528,6 +1576,14 @@
       "word": "丁禹兮对王鹤棣讲冷笑话",
       "onboard_time": 1736012602,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 112260,
+      "num": 112260,
+      "word": "众星现身央视春晚首次联排",
+      "onboard_time": 1736073088,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -1617,6 +1673,14 @@
       "onboard_time": 1736068524,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 99794,
+      "num": 99794,
+      "word": "女孩初中切除左肺抗癌10年后离世",
+      "onboard_time": 1736073386,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98278,
@@ -1731,28 +1795,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 83189,
-      "num": 635716,
-      "word": "孙珍妮 偏我来时都是春",
-      "onboard_time": 1736072306,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 82425,
       "num": 360575,
       "word": "近期去韩国旅游要增强保护意识",
       "onboard_time": 1735998630,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 82113,
-      "num": 635185,
-      "word": "李明德说我不装了我摊牌了",
-      "onboard_time": 1736072426,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 81478,

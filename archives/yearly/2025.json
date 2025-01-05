@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736072499249,
+  "endTime": 1736073512399,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -193,6 +193,14 @@
       "onboard_time": 1735662029,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3027813,
+      "num": 3027813,
+      "word": "虞书欣 顺手的事",
+      "onboard_time": 1736072185,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 2996452,
@@ -1129,14 +1137,6 @@
       "onboard_time": 1735970058,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1062642,
-      "num": 1170022,
-      "word": "虞书欣 顺手的事",
-      "onboard_time": 1736072185,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 1060817,
