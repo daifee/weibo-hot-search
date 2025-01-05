@@ -1,0 +1,410 @@
+{
+  "runTime": 1736045879069,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11365591,
+        "num": 11365591,
+        "word": "马天宇 李明德",
+        "onboard_time": 1735991665,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 495389,
+        "num": 4148825,
+        "word": "林高远父亲去世",
+        "onboard_time": 1736005415,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41254,
+        "num": 3777218,
+        "word": "今年春运购票2个关键时间点",
+        "onboard_time": 1735997189,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3599906,
+        "num": 3599906,
+        "word": "李明德 张颂文",
+        "onboard_time": 1736042491,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 606533,
+        "num": 1405135,
+        "word": "女子偷偷用公共餐具喂狗",
+        "onboard_time": 1736040271,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362370,
+        "num": 1387528,
+        "word": "韩国国产白菜辣椒或将消失",
+        "onboard_time": 1736041715,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1381872,
+        "num": 1381872,
+        "word": "姜尘晒录音提张颂文名字",
+        "onboard_time": 1736042491,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1281730,
+        "num": 1281730,
+        "word": "古剑奇谭到底要塌多少次",
+        "onboard_time": 1736039368,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55523,
+        "num": 1057658,
+        "word": "刘梦婷滑雪世界杯夺冠",
+        "onboard_time": 1736044832,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166892,
+        "num": 1017480,
+        "word": "美媒称中国战斗机影响F35销量",
+        "onboard_time": 1736040993,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 988734,
+        "num": 988734,
+        "word": "李明德涨粉",
+        "onboard_time": 1736043096,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 826713,
+        "num": 826713,
+        "word": "张颂文",
+        "onboard_time": 1736042491,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 804268,
+        "num": 804268,
+        "word": "徐梦洁打开微博天塌了",
+        "onboard_time": 1736039430,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 555381,
+        "num": 555381,
+        "word": "丁禹兮接虞书欣下台",
+        "onboard_time": 1736001995,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349057,
+        "num": 549702,
+        "word": "果然爱老婆会发达",
+        "onboard_time": 1736042013,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324399,
+        "num": 547099,
+        "word": "为啥说小寒胜大寒",
+        "onboard_time": 1736041112,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272190,
+        "num": 539454,
+        "word": "第一次这么清晰看到小鸟喝露水",
+        "onboard_time": 1736043512,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 234237,
+        "num": 532398,
+        "word": "许昕回复节哀",
+        "onboard_time": 1736041532,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191583,
+        "num": 526306,
+        "word": "骨骼缺陷男子扮成黄油小熊卖糖葫芦",
+        "onboard_time": 1736039430,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136154,
+        "num": 517434,
+        "word": "机车博主波哥车祸身亡",
+        "onboard_time": 1736014457,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9995128,
+        "num": 507641,
+        "word": "马天宇回应",
+        "onboard_time": 1736007874,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7469254,
+        "num": 507240,
+        "word": "李明德评论",
+        "onboard_time": 1735990643,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2934733,
+        "num": 494816,
+        "word": "王嘉尔 共鸣",
+        "onboard_time": 1736033777,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 493629,
+        "num": 493629,
+        "word": "汪峰又发新歌了",
+        "onboard_time": 1736039249,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 87161,
+        "num": 459854,
+        "word": "林高远称会扛起家的责任",
+        "onboard_time": 1736040511,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 434714,
+        "num": 434714,
+        "word": "三人行剧组回应",
+        "onboard_time": 1736000553,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 432149,
+        "num": 432149,
+        "word": "纯欲逃犯牛小莉",
+        "onboard_time": 1736042673,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343167,
+        "num": 343167,
+        "word": "张碧晨 见到爱人了风都是甜的",
+        "onboard_time": 1736040331,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326727,
+        "num": 326727,
+        "word": "三人行",
+        "onboard_time": 1736011465,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44111,
+        "num": 304201,
+        "word": "山西垣曲一道路立杆被指摄像头密集",
+        "onboard_time": 1736045850,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300763,
+        "num": 300763,
+        "word": "丁禹兮又争又抢",
+        "onboard_time": 1736035160,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276764,
+        "num": 276764,
+        "word": "孟子义李昀锐 他说她可爱",
+        "onboard_time": 1736003856,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210114,
+        "num": 210114,
+        "word": "虞书欣祝绪丹贴贴",
+        "onboard_time": 1736034498,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206514,
+        "num": 206514,
+        "word": "田曦薇领奖像走秀",
+        "onboard_time": 1736037083,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191303,
+        "num": 191303,
+        "word": "9个表现是身体释放的缺觉信号",
+        "onboard_time": 1736027231,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 173495,
+        "num": 173495,
+        "word": "阿姨拍照让蒋欣让一让",
+        "onboard_time": 1736033476,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171163,
+        "num": 171163,
+        "word": "周柯宇举着迪丽热巴走红毯",
+        "onboard_time": 1736038046,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148495,
+        "num": 148495,
+        "word": "张若昀马思纯给我也听听",
+        "onboard_time": 1736039911,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149950,
+        "num": 145328,
+        "word": "就这个赵丽颖爽",
+        "onboard_time": 1736036545,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133476,
+        "num": 133476,
+        "word": "WTT支持国际乒联成立专组决定",
+        "onboard_time": 1736040873,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143042,
+        "num": 131914,
+        "word": "张新成问孟子义李昀锐你们要不要",
+        "onboard_time": 1736007994,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130018,
+        "num": 130018,
+        "word": "小寒一过年味越来越浓了",
+        "onboard_time": 1736043872,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128014,
+        "num": 128014,
+        "word": "醉酒男子走向熟睡女孩父亲立即制服",
+        "onboard_time": 1736010091,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126975,
+        "num": 126975,
+        "word": "后天就是腊八节",
+        "onboard_time": 1736036484,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120718,
+        "num": 120718,
+        "word": "女孩凌晨店内熟睡突遭陌生男子闯入",
+        "onboard_time": 1736003495,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123050,
+        "num": 119811,
+        "word": "李昀锐连续两年星光大赏坐到最后",
+        "onboard_time": 1736036844,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117862,
+        "num": 117862,
+        "word": "老祖宗审美的含金量还在上升",
+        "onboard_time": 1736044232,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117010,
+        "num": 117010,
+        "word": "八省联考化学",
+        "onboard_time": 1736045249,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 95553,
+        "num": 95553,
+        "word": "周深 想嗑又不敢太明显",
+        "onboard_time": 1736005776,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95351,
+        "num": 95351,
+        "word": "李现苦笑",
+        "onboard_time": 1736033418,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#解码中华文化基因#"
+    }
+  }
+}

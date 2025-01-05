@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736043049467,
+  "endTime": 1736045879069,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 18725300,
-      "num": 6904587,
+      "num": 11365591,
       "word": "马天宇 李明德",
       "onboard_time": 1735991665,
       "rank": 5,
@@ -128,6 +128,14 @@
       "word": "于正刚和赵露思聊了一小时",
       "onboard_time": 1735814900,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3599906,
+      "num": 3599906,
+      "word": "李明德 张颂文",
+      "onboard_time": 1736042491,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -675,6 +683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1381872,
+      "num": 1381872,
+      "word": "姜尘晒录音提张颂文名字",
+      "onboard_time": 1736042491,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1358503,
       "num": 1358503,
       "word": "马龙王鹤棣打乒乓球",
@@ -1123,6 +1139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 988734,
+      "num": 988734,
+      "word": "李明德涨粉",
+      "onboard_time": 1736043096,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 988199,
       "num": 609703,
       "word": "管乐",
@@ -1499,6 +1523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 826713,
+      "num": 826713,
+      "word": "张颂文",
+      "onboard_time": 1735778299,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 822120,
       "num": 822120,
       "word": "老妻少夫26年丈夫为妻子留白发扮老",
@@ -1537,14 +1569,6 @@
       "onboard_time": 1735712359,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 816428,
-      "num": 460903,
-      "word": "张颂文",
-      "onboard_time": 1735778299,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 809997,
@@ -2107,6 +2131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 606533,
+      "num": 2155176,
+      "word": "女子偷偷用公共餐具喂狗",
+      "onboard_time": 1736040271,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 606520,
       "num": 332470,
       "word": "微博之夜赵丽颖的赛博搭子",
@@ -2339,14 +2371,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 562241,
-      "num": 562241,
-      "word": "李明德 张颂文",
-      "onboard_time": 1736042491,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 560735,
       "num": 410237,
       "word": "祝绪丹杨仕泽一起去澳门",
@@ -2377,30 +2401,6 @@
       "onboard_time": 1735721479,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 554958,
-      "num": 319599,
-      "word": "张继科回怼被指蹭国乒热度",
-      "onboard_time": 1735885579,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 554168,
-      "num": 498727,
-      "word": "杨幂 梗当然要当本人面玩",
-      "onboard_time": 1735742603,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 551681,
-      "num": 551681,
-      "word": "刘强东曾收村民500元76个茶叶蛋",
-      "onboard_time": 1735882221,
-      "rank": 46,
-      "category": "互联网"
     }
   ],
   "hotgov_list": [
