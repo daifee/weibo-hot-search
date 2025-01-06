@@ -1,0 +1,410 @@
+{
+  "runTime": 1736170820519,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1887519,
+        "num": 1887519,
+        "word": "杨紫 没有这么欺负人的",
+        "onboard_time": 1736167822,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 831134,
+        "num": 831134,
+        "word": "货车撞上出殡队伍致20死整改报告发布",
+        "onboard_time": 1736168063,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46487,
+        "num": 739132,
+        "word": "腊八节祝你万事粥全",
+        "onboard_time": 1736167403,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 690583,
+        "num": 690583,
+        "word": "伊能静曾故意灌醉恩利",
+        "onboard_time": 1736164896,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 603667,
+        "num": 603667,
+        "word": "广州队宣布解散",
+        "onboard_time": 1736169564,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 424625,
+        "num": 424625,
+        "word": "A50",
+        "onboard_time": 1736164223,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 683432,
+        "num": 418426,
+        "word": "韦雪直播掉美颜",
+        "onboard_time": 1736151567,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 467021,
+        "num": 413013,
+        "word": "谢霆锋和Lucas一起滑雪",
+        "onboard_time": 1736161523,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400333,
+        "num": 400333,
+        "word": "16岁女生戏龄13年生动演绎眼波流转",
+        "onboard_time": 1736164463,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377794,
+        "num": 377794,
+        "word": "为什么感染甲流这么疼啊",
+        "onboard_time": 1736167343,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 544540,
+        "num": 376917,
+        "word": "曝虞书欣将离开华策",
+        "onboard_time": 1736163384,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367924,
+        "num": 367924,
+        "word": "中国驻泰国使馆回应演员星星失联",
+        "onboard_time": 1736166262,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345655,
+        "num": 345655,
+        "word": "鞠婧祎时装1小时销售额突破433w",
+        "onboard_time": 1736164223,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 306543,
+        "num": 306543,
+        "word": "男子给女友转账100万分手后起诉对方",
+        "onboard_time": 1736153906,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51003,
+        "num": 271168,
+        "word": "交警回应健走团过桥占用机动车道",
+        "onboard_time": 1736170164,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 451381,
+        "num": 267046,
+        "word": "虞书欣星光大赏当天全平台断层登顶",
+        "onboard_time": 1736168325,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248279,
+        "num": 248279,
+        "word": "抖音副总裁回应用户将钱读成米",
+        "onboard_time": 1736142803,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 214249,
+        "num": 214249,
+        "word": "鸡窝头女士收拾漂亮去上班",
+        "onboard_time": 1736134642,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46638,
+        "num": 208866,
+        "word": "许七安 到底谁才是穿越来的",
+        "onboard_time": 1736169924,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52780,
+        "num": 208154,
+        "word": "亲历者讲述赴泰拍短剧被骗逃脱经历",
+        "onboard_time": 1736169323,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299594,
+        "num": 207904,
+        "word": "宋亚轩 当你见到了亚轩",
+        "onboard_time": 1736165963,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207585,
+        "num": 207585,
+        "word": "俄媒称中国人平均智商全球第一",
+        "onboard_time": 1736163503,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196896,
+        "num": 196896,
+        "word": "今年微博之夜导播还敢这么切吗",
+        "onboard_time": 1736162664,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169842,
+        "num": 185132,
+        "word": "贪官正事不干天天打牌成公开秘密",
+        "onboard_time": 1736169023,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69118,
+        "num": 178395,
+        "word": "孙颖莎说巴黎周期让自己成长不少",
+        "onboard_time": 1736167043,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160681,
+        "num": 177061,
+        "word": "泰国律师称招募演员需和移民局备案",
+        "onboard_time": 1736168843,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176772,
+        "num": 176772,
+        "word": "李现再现韩商言经典手势",
+        "onboard_time": 1736155944,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171052,
+        "num": 171052,
+        "word": "招募星星者曾多次借钱不还",
+        "onboard_time": 1736167943,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168654,
+        "num": 168654,
+        "word": "19岁大学生突发疾病脑死亡",
+        "onboard_time": 1736153365,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168524,
+        "num": 168524,
+        "word": "杨紫一边养生一边熬夜",
+        "onboard_time": 1736166683,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158779,
+        "num": 158779,
+        "word": "女子吃5斤车厘子后发高烧",
+        "onboard_time": 1736146643,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154076,
+        "num": 154076,
+        "word": "李政宰与女友加勒比海度假",
+        "onboard_time": 1736164583,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145678,
+        "num": 145678,
+        "word": "老板给贪官租别墅吃喝玩乐一条龙",
+        "onboard_time": 1736169084,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106357,
+        "num": 142080,
+        "word": "二十届中央纪委四次全会召开",
+        "onboard_time": 1736162483,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141863,
+        "num": 141863,
+        "word": "田曦薇星光大赏被anti",
+        "onboard_time": 1736146822,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140882,
+        "num": 140882,
+        "word": "迪丽热巴送的新疆新年小猫",
+        "onboard_time": 1736160323,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134636,
+        "num": 134636,
+        "word": "微博之夜阵容你最期待谁",
+        "onboard_time": 1736168843,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127731,
+        "num": 127731,
+        "word": "回流人员曾称去了妙瓦底真的会死",
+        "onboard_time": 1736159184,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119138,
+        "num": 119138,
+        "word": "易烊千玺锐评自己演技",
+        "onboard_time": 1736163624,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116121,
+        "num": 116121,
+        "word": "年度反腐大片",
+        "onboard_time": 1736169983,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114414,
+        "num": 114414,
+        "word": "福宝溜达着去外圈散步玩耍",
+        "onboard_time": 1736168843,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107362,
+        "num": 107362,
+        "word": "欧阳妮妮产后晒全家福",
+        "onboard_time": 1736168903,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106345,
+        "num": 106345,
+        "word": "电影东极岛杀青",
+        "onboard_time": 1736167343,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104290,
+        "num": 104290,
+        "word": "白鹿回应网友押宝白月梵星是爆剧",
+        "onboard_time": 1736161223,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104183,
+        "num": 104183,
+        "word": "王一博与浪花",
+        "onboard_time": 1736168003,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103140,
+        "num": 103140,
+        "word": "佟年和佟日来了佟月呢",
+        "onboard_time": 1736165002,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96906,
+        "num": 96906,
+        "word": "鹭卓旋耕机信手拈来",
+        "onboard_time": 1736169382,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91971,
+        "num": 91971,
+        "word": "吴泽林教檀健次跳舞手脚打结",
+        "onboard_time": 1736169143,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82744,
+        "num": 91437,
+        "word": "离岸人民币日内涨超200点",
+        "onboard_time": 1736168243,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 81875,
+        "num": 91065,
+        "word": "澳网总奖金近亿澳元",
+        "onboard_time": 1736170583,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持用改革精神和严的标准管党治党#"
+    }
+  }
+}
