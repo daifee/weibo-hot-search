@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736152169744,
+  "endTime": 1736152969140,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -537,6 +537,14 @@
       "onboard_time": 1735957578,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1894040,
+      "num": 445292,
+      "word": "韦雪直播掉美颜",
+      "onboard_time": 1736151567,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 1862422,
@@ -1907,14 +1915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 823068,
-      "num": 383368,
-      "word": "韦雪直播掉美颜",
-      "onboard_time": 1736151567,
-      "rank": 10,
-      "category": "网红"
-    },
-    {
       "raw_hot": 822927,
       "num": 822927,
       "word": "小猫皮草传到了国外",
@@ -3164,7 +3164,7 @@
     },
     {
       "raw_hot": 536355,
-      "num": 340332,
+      "num": 340334,
       "word": "演员星星曾出演玫瑰的故事",
       "onboard_time": 1736148328,
       "rank": 12,
@@ -3329,6 +3329,14 @@
       "onboard_time": 1735723640,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 509970,
+      "num": 509970,
+      "word": "外交部新任发言人郭嘉昆亮相",
+      "onboard_time": 1736149906,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 509789,
@@ -4049,14 +4057,6 @@
       "onboard_time": 1735705221,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 423270,
-      "num": 423270,
-      "word": "外交部新任发言人郭嘉昆亮相",
-      "onboard_time": 1736149906,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 422818,
@@ -5867,6 +5867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 296611,
+      "num": 339672,
+      "word": "缅甸妙瓦底系网络诈骗的大本营",
+      "onboard_time": 1736150249,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 296185,
       "num": 341802,
       "word": "王宝强说这把变聪明了",
@@ -6595,6 +6603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256563,
+      "num": 329800,
+      "word": "工藤静香官宣微博之夜",
+      "onboard_time": 1736148688,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 255994,
       "num": 255994,
       "word": "文俊辉舞台",
@@ -6785,14 +6801,6 @@
       "onboard_time": 1735805118,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 249082,
-      "num": 329800,
-      "word": "工藤静香官宣微博之夜",
-      "onboard_time": 1736148688,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 248482,
@@ -7057,14 +7065,6 @@
       "onboard_time": 1736128700,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 241261,
-      "num": 339672,
-      "word": "缅甸妙瓦底系网络诈骗的大本营",
-      "onboard_time": 1736150249,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 240883,
@@ -7915,6 +7915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213147,
+      "num": 242914,
+      "word": "减肥不吃晚餐不会痩",
+      "onboard_time": 1736145142,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 212851,
       "num": 212851,
       "word": "TF家族新年音乐会特权码",
@@ -8153,6 +8161,14 @@
       "onboard_time": 1736080768,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 207958,
+      "num": 207958,
+      "word": "徐克版射雕是浪漫主义还是现实主义",
+      "onboard_time": 1736147723,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 207691,
@@ -8699,14 +8715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199692,
-      "num": 242914,
-      "word": "减肥不吃晚餐不会痩",
-      "onboard_time": 1736145142,
-      "rank": 34,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 199615,
       "num": 199615,
       "word": "鞠婧祎 人鱼公主",
@@ -8721,6 +8729,22 @@
       "onboard_time": 1736064089,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199583,
+      "num": 332121,
+      "word": "国家反诈中心曾提醒请勿前往妙瓦底",
+      "onboard_time": 1736150787,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199503,
+      "num": 164852,
+      "word": "终于又等到全戏骨阵容的国产剧",
+      "onboard_time": 1736152587,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 199266,
@@ -9708,7 +9732,7 @@
     },
     {
       "raw_hot": 184370,
-      "num": 184370,
+      "num": 243215,
       "word": "颜安直播",
       "onboard_time": 1735823120,
       "rank": 49,
@@ -10081,14 +10105,6 @@
       "onboard_time": 1736146941,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 176733,
-      "num": 196169,
-      "word": "徐克版射雕是浪漫主义还是现实主义",
-      "onboard_time": 1736147723,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 176728,
@@ -10843,6 +10859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166295,
+      "num": 336289,
+      "word": "6岁男童上学时独自离园2次未被发现",
+      "onboard_time": 1736148508,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166132,
       "num": 166132,
       "word": "德国居民排队14小时买1600欧烟花",
@@ -11323,14 +11347,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 158652,
-      "num": 336289,
-      "word": "6岁男童上学时独自离园2次未被发现",
-      "onboard_time": 1736148508,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 158533,
       "num": 158533,
       "word": "鞠婧祎 我现在要再看看我的舞台",
@@ -11377,6 +11393,14 @@
       "onboard_time": 1736122821,
       "rank": 35,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 157885,
+      "num": 157885,
+      "word": "宋亚轩 宋大葱",
+      "onboard_time": 1736151328,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 157810,
@@ -11595,14 +11619,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 154267,
-      "num": 154267,
-      "word": "宋亚轩 宋大葱",
-      "onboard_time": 1736151328,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 154237,
       "num": 154237,
       "word": "R1SE你们回来行不行",
@@ -11755,6 +11771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151456,
+      "num": 134823,
+      "word": "Wendy不出演SMTOWN",
+      "onboard_time": 1736152707,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 151360,
       "num": 151360,
       "word": "王勉 这是我能参观的吗",
@@ -11857,6 +11881,14 @@
       "onboard_time": 1736130502,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149564,
+      "num": 112645,
+      "word": "换孙珍妮桃花头像crush来了",
+      "onboard_time": 1736152647,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 149384,
@@ -12001,14 +12033,6 @@
       "onboard_time": 1736141243,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 148179,
-      "num": 332121,
-      "word": "国家反诈中心曾提醒请勿前往妙瓦底",
-      "onboard_time": 1736150787,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 148025,
@@ -12859,6 +12883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136383,
+      "num": 231620,
+      "word": "苹果AI要求预留7GB空间",
+      "onboard_time": 1736147905,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 136337,
       "num": 136337,
       "word": "樊振东的价值正越来越被认可",
@@ -13169,14 +13201,6 @@
       "onboard_time": 1735695260,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132196,
-      "num": 231620,
-      "word": "苹果AI要求预留7GB空间",
-      "onboard_time": 1736147905,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 131730,
@@ -13907,12 +13931,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120344,
+      "num": 109789,
+      "word": "boynextdoor新歌大事太妙",
+      "onboard_time": 1736152406,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 120300,
       "num": 1055422,
       "word": "原来2025是完美平方年",
       "onboard_time": 1735912399,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120267,
+      "num": 153447,
+      "word": "应对流感找准这个穴位",
+      "onboard_time": 1736149049,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 120140,
@@ -14483,14 +14523,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 109914,
-      "num": 153447,
-      "word": "应对流感找准这个穴位",
-      "onboard_time": 1736149049,
-      "rank": 43,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 109797,
       "num": 1276106,
       "word": "这就是咱中国人的独家浪漫",
@@ -14512,6 +14544,14 @@
       "word": "火箭又给克莱充电了",
       "onboard_time": 1735786701,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109647,
+      "num": 146646,
+      "word": "韦世豪 广州队",
+      "onboard_time": 1736151328,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -15040,14 +15080,6 @@
       "word": "穿羽绒服主持人再发声感谢孙颖莎",
       "onboard_time": 1736072906,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 95579,
-      "num": 146646,
-      "word": "韦世豪 广州队",
-      "onboard_time": 1736151328,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -15603,6 +15635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81241,
+      "num": 396065,
+      "word": "看电影你是i人还是e人",
+      "onboard_time": 1736150848,
+      "rank": 9,
+      "category": "电影,幽默"
+    },
+    {
       "raw_hot": 81212,
       "num": 81212,
       "word": "林诗栋说印象最深刻是输给樊振东王楚钦",
@@ -16001,14 +16041,6 @@
       "onboard_time": 1735966099,
       "rank": 20,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 69577,
-      "num": 396065,
-      "word": "看电影你是i人还是e人",
-      "onboard_time": 1736150848,
-      "rank": 9,
-      "category": "电影,幽默"
     },
     {
       "raw_hot": 69192,
@@ -16521,6 +16553,14 @@
       "onboard_time": 1736119219,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 55639,
+      "num": 248718,
+      "word": "官方回应公司用消费券抵工资",
+      "onboard_time": 1736152167,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55262,

@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736152169744,
+  "endTime": 1736152969140,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -249,6 +249,14 @@
       "onboard_time": 1736089769,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1894040,
+      "num": 445292,
+      "word": "韦雪直播掉美颜",
+      "onboard_time": 1736151567,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 1869638,
@@ -561,14 +569,6 @@
       "onboard_time": 1736144722,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 823068,
-      "num": 383368,
-      "word": "韦雪直播掉美颜",
-      "onboard_time": 1736151567,
-      "rank": 10,
-      "category": "网红"
     },
     {
       "raw_hot": 822927,
@@ -924,7 +924,7 @@
     },
     {
       "raw_hot": 536355,
-      "num": 340332,
+      "num": 340334,
       "word": "演员星星曾出演玫瑰的故事",
       "onboard_time": 1736148328,
       "rank": 12,
@@ -969,6 +969,14 @@
       "onboard_time": 1736003495,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 509970,
+      "num": 509970,
+      "word": "外交部新任发言人郭嘉昆亮相",
+      "onboard_time": 1736149906,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 502472,
@@ -1169,14 +1177,6 @@
       "onboard_time": 1736070085,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 423270,
-      "num": 423270,
-      "word": "外交部新任发言人郭嘉昆亮相",
-      "onboard_time": 1736149906,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 421764,
@@ -1683,6 +1683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 296611,
+      "num": 339672,
+      "word": "缅甸妙瓦底系网络诈骗的大本营",
+      "onboard_time": 1736150249,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 296185,
       "num": 341802,
       "word": "王宝强说这把变聪明了",
@@ -1915,6 +1923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256563,
+      "num": 329800,
+      "word": "工藤静香官宣微博之夜",
+      "onboard_time": 1736148688,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 255994,
       "num": 255994,
       "word": "文俊辉舞台",
@@ -1969,14 +1985,6 @@
       "onboard_time": 1736002595,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 249082,
-      "num": 329800,
-      "word": "工藤静香官宣微博之夜",
-      "onboard_time": 1736148688,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 247674,
@@ -2049,14 +2057,6 @@
       "onboard_time": 1736128700,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 241261,
-      "num": 339672,
-      "word": "缅甸妙瓦底系网络诈骗的大本营",
-      "onboard_time": 1736150249,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 240690,
@@ -2323,6 +2323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213147,
+      "num": 242914,
+      "word": "减肥不吃晚餐不会痩",
+      "onboard_time": 1736145142,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 212271,
       "num": 212271,
       "word": "孟子义 在综艺上一演戏就有负担",
@@ -2401,6 +2409,14 @@
       "onboard_time": 1736080768,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 207958,
+      "num": 207958,
+      "word": "徐克版射雕是浪漫主义还是现实主义",
+      "onboard_time": 1736147723,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 207691,
@@ -2515,20 +2531,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199692,
-      "num": 242914,
-      "word": "减肥不吃晚餐不会痩",
-      "onboard_time": 1736145142,
-      "rank": 34,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 199604,
       "num": 638450,
       "word": "周深快把张若昀唱哭了",
       "onboard_time": 1736064089,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199583,
+      "num": 332121,
+      "word": "国家反诈中心曾提醒请勿前往妙瓦底",
+      "onboard_time": 1736150787,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199503,
+      "num": 164852,
+      "word": "终于又等到全戏骨阵容的国产剧",
+      "onboard_time": 1736152587,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 199039,
@@ -2684,7 +2708,7 @@
     },
     {
       "raw_hot": 184370,
-      "num": 184370,
+      "num": 243215,
       "word": "颜安直播",
       "onboard_time": 1736151807,
       "rank": 33,
@@ -2769,14 +2793,6 @@
       "onboard_time": 1736146941,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 176733,
-      "num": 196169,
-      "word": "徐克版射雕是浪漫主义还是现实主义",
-      "onboard_time": 1736147723,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 176728,
@@ -2955,6 +2971,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 166295,
+      "num": 336289,
+      "word": "6岁男童上学时独自离园2次未被发现",
+      "onboard_time": 1736148508,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163691,
       "num": 163691,
       "word": "日卦中天声明",
@@ -3043,14 +3067,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 158652,
-      "num": 336289,
-      "word": "6岁男童上学时独自离园2次未被发现",
-      "onboard_time": 1736148508,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 158143,
       "num": 158143,
       "word": "这只老虎怎么猫里猫气的",
@@ -3065,6 +3081,14 @@
       "onboard_time": 1736122821,
       "rank": 35,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 157885,
+      "num": 157885,
+      "word": "宋亚轩 宋大葱",
+      "onboard_time": 1736151328,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 157571,
@@ -3113,14 +3137,6 @@
       "onboard_time": 1736054549,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 154267,
-      "num": 154267,
-      "word": "宋亚轩 宋大葱",
-      "onboard_time": 1736151328,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 154237,
@@ -3179,6 +3195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151456,
+      "num": 134823,
+      "word": "Wendy不出演SMTOWN",
+      "onboard_time": 1736152707,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 151260,
       "num": 1227781,
       "word": "近期流感高发如何做好防护",
@@ -3203,6 +3227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149564,
+      "num": 112645,
+      "word": "换孙珍妮桃花头像crush来了",
+      "onboard_time": 1736152647,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148495,
       "num": 986139,
       "word": "张若昀马思纯给我也听听",
@@ -3225,14 +3257,6 @@
       "onboard_time": 1736141243,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 148179,
-      "num": 332121,
-      "word": "国家反诈中心曾提醒请勿前往妙瓦底",
-      "onboard_time": 1736150787,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 148025,
@@ -3371,6 +3395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136383,
+      "num": 231620,
+      "word": "苹果AI要求预留7GB空间",
+      "onboard_time": 1736147905,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 135556,
       "num": 135556,
       "word": "家有甲流患者尽量单间居住",
@@ -3441,14 +3473,6 @@
       "onboard_time": 1736088449,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132196,
-      "num": 231620,
-      "word": "苹果AI要求预留7GB空间",
-      "onboard_time": 1736147905,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 131088,
@@ -3643,6 +3667,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120344,
+      "num": 109789,
+      "word": "boynextdoor新歌大事太妙",
+      "onboard_time": 1736152406,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 120267,
+      "num": 153447,
+      "word": "应对流感找准这个穴位",
+      "onboard_time": 1736149049,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 119504,
       "num": 643871,
       "word": "不喜欢麻烦别人是缺爱的表现",
@@ -3819,12 +3859,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109914,
-      "num": 153447,
-      "word": "应对流感找准这个穴位",
-      "onboard_time": 1736149049,
-      "rank": 43,
-      "category": "健康医疗"
+      "raw_hot": 109647,
+      "num": 146646,
+      "word": "韦世豪 广州队",
+      "onboard_time": 1736151328,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 109016,
@@ -4008,14 +4048,6 @@
       "word": "穿羽绒服主持人再发声感谢孙颖莎",
       "onboard_time": 1736072906,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 95579,
-      "num": 146646,
-      "word": "韦世豪 广州队",
-      "onboard_time": 1736151328,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -4211,6 +4243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81241,
+      "num": 396065,
+      "word": "看电影你是i人还是e人",
+      "onboard_time": 1736150848,
+      "rank": 9,
+      "category": "电影,幽默"
+    },
+    {
       "raw_hot": 80711,
       "num": 634451,
       "word": "我国又添大国重器",
@@ -4361,14 +4401,6 @@
       "onboard_time": 1736057069,
       "rank": 9,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 69577,
-      "num": 396065,
-      "word": "看电影你是i人还是e人",
-      "onboard_time": 1736150848,
-      "rank": 9,
-      "category": "电影,幽默"
     },
     {
       "raw_hot": 69192,
@@ -4537,6 +4569,14 @@
       "onboard_time": 1736119219,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 55639,
+      "num": 248718,
+      "word": "官方回应公司用消费券抵工资",
+      "onboard_time": 1736152167,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55262,
