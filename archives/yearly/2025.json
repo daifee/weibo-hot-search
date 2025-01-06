@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736138510075,
+  "endTime": 1736140950272,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -2355,6 +2355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 677730,
+      "num": 677730,
+      "word": "韩国小狗与遇难家人告别全程安静",
+      "onboard_time": 1736138488,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 676556,
       "num": 676556,
       "word": "女生清华毕业5年后去蓝翔全职学厨",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736048249,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 664692,
-      "num": 664692,
-      "word": "尹锡悦逮捕令执行现场",
-      "onboard_time": 1735875560,
-      "rank": 47,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [

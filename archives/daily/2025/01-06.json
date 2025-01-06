@@ -1,6 +1,6 @@
 {
   "startTime": 1736094308497,
-  "endTime": 1736138510075,
+  "endTime": 1736140950272,
   "band_list": [
     {
       "raw_hot": 4267121,
@@ -155,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 677730,
+      "num": 677730,
+      "word": "韩国小狗与遇难家人告别全程安静",
+      "onboard_time": 1736138488,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 661042,
       "num": 661042,
       "word": "唐探1900演员阵容",
@@ -216,6 +224,14 @@
       "word": "至此已成艺术",
       "onboard_time": 1736085449,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 532389,
+      "num": 335358,
+      "word": "妙瓦底",
+      "onboard_time": 1736138067,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -291,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 442454,
+      "num": 334564,
+      "word": "国色芳华直播",
+      "onboard_time": 1736138127,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 438845,
       "num": 198195,
       "word": "虞书欣 顺手的事",
@@ -363,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 379273,
+      "num": 382232,
+      "word": "2025年第1天救了2条人命",
+      "onboard_time": 1736134642,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 362130,
       "num": 351403,
       "word": "时代少年团 海俪恩",
@@ -385,14 +417,6 @@
       "onboard_time": 1736124862,
       "rank": 11,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 356312,
-      "num": 382232,
-      "word": "2025年第1天救了2条人命",
-      "onboard_time": 1736134642,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 348131,
@@ -436,7 +460,7 @@
     },
     {
       "raw_hot": 314733,
-      "num": 290357,
+      "num": 296189,
       "word": "辛雨锡喊话秦霄贤姐姐",
       "onboard_time": 1736134823,
       "rank": 31,
@@ -473,6 +497,14 @@
       "onboard_time": 1736094742,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 289469,
+      "num": 289469,
+      "word": "柳演锡回应和蔡秀彬恋爱可能性",
+      "onboard_time": 1736140405,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 284239,
@@ -528,6 +560,14 @@
       "word": "陈建斌再现甄嬛传名场面",
       "onboard_time": 1736125221,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 252879,
+      "num": 211223,
+      "word": "迪丽热巴黑粉被判赔并道歉",
+      "onboard_time": 1736139806,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -595,6 +635,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 226233,
+      "num": 333381,
+      "word": "鱼 我妈都没你了解我",
+      "onboard_time": 1736138728,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 224012,
       "num": 250407,
       "word": "杨紫魏哲鸣新剧包办婚姻受害者",
@@ -636,7 +684,7 @@
     },
     {
       "raw_hot": 216869,
-      "num": 276508,
+      "num": 320597,
       "word": "鸡窝头女士穿熟悉的黑棉袄上班了",
       "onboard_time": 1736137587,
       "rank": 38,
@@ -675,12 +723,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 211499,
-      "num": 211499,
-      "word": "妙瓦底",
-      "onboard_time": 1736138067,
+      "raw_hot": 210699,
+      "num": 210699,
+      "word": "田曦薇公主崩溃哭戏",
+      "onboard_time": 1736139387,
       "rank": 31,
-      "category": "艺人"
+      "category": "剧集"
     },
     {
       "raw_hot": 207328,
@@ -723,12 +771,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 200014,
-      "num": 200014,
-      "word": "国色芳华直播",
-      "onboard_time": 1736138127,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 199967,
+      "num": 211370,
+      "word": "白鹿头像换成了白烁",
+      "onboard_time": 1736140525,
+      "rank": 29,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 198074,
@@ -809,6 +857,14 @@
       "onboard_time": 1736089589,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174659,
+      "num": 174659,
+      "word": "国色芳华",
+      "onboard_time": 1736138846,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 170524,
@@ -947,6 +1003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147958,
+      "num": 147958,
+      "word": "王鹤棣田曦薇表白戏",
+      "onboard_time": 1736139626,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141369,
       "num": 141369,
       "word": "张彬彬新剧道心不稳",
@@ -968,6 +1032,14 @@
       "word": "河南12岁男孩落水失联后遗体已找到",
       "onboard_time": 1736118497,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137488,
+      "num": 167236,
+      "word": "提前回村过年的年轻人放不下续命咖啡",
+      "onboard_time": 1736140584,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -1075,6 +1147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125785,
+      "num": 336148,
+      "word": "余华英案正在死刑复核中",
+      "onboard_time": 1736139865,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125528,
       "num": 382946,
       "word": "想花40万装修500平的家安装要50万",
@@ -1155,12 +1235,20 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 109493,
-      "num": 109493,
-      "word": "韩国小狗与遇难家人告别全程安静",
-      "onboard_time": 1736138488,
-      "rank": 48,
-      "category": "海外新闻"
+      "raw_hot": 106255,
+      "num": 331642,
+      "word": "医药股集体大涨",
+      "onboard_time": 1736139687,
+      "rank": 19,
+      "category": "财经,健康医疗"
+    },
+    {
+      "raw_hot": 105891,
+      "num": 116009,
+      "word": "甲流概念股多股涨停",
+      "onboard_time": 1736139926,
+      "rank": 46,
+      "category": "财经,健康医疗"
     },
     {
       "raw_hot": 105586,
@@ -1185,6 +1273,14 @@
       "onboard_time": 1736089469,
       "rank": 44,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 93864,
+      "num": 115309,
+      "word": "青海摇是年轻人自己的广场舞",
+      "onboard_time": 1736140464,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92375,
@@ -1257,6 +1353,14 @@
       "onboard_time": 1736097557,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82072,
+      "num": 333854,
+      "word": "张信哲差点错过情歌王子",
+      "onboard_time": 1736139806,
+      "rank": 14,
+      "category": "演出,综艺"
     },
     {
       "raw_hot": 78898,
@@ -1363,6 +1467,14 @@
       "category": "演出,电影"
     },
     {
+      "raw_hot": 54348,
+      "num": 1028294,
+      "word": "古人把剪纸技术用到了瓷器上",
+      "onboard_time": 1736137404,
+      "rank": 2,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 49594,
       "num": 62486,
       "word": "去过挪威的人嘴真严",
@@ -1377,6 +1489,14 @@
       "onboard_time": 1736108291,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 46399,
+      "num": 332137,
+      "word": "剧本都不敢写陈挑战的人生",
+      "onboard_time": 1736139086,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 44269,
@@ -1419,12 +1539,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 38198,
-      "num": 1028294,
-      "word": "古人把剪纸技术用到了瓷器上",
-      "onboard_time": 1736137404,
-      "rank": 2,
-      "category": "科学科普"
+      "raw_hot": 35717,
+      "num": 195376,
+      "word": "汪苏泷官宣微博之夜",
+      "onboard_time": 1736139270,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 31672,
@@ -1433,6 +1553,14 @@
       "onboard_time": 1736100315,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 29435,
+      "num": 316411,
+      "word": "梁王组合备战最新画面",
+      "onboard_time": 1736140106,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 27816,

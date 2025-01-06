@@ -1,0 +1,410 @@
+{
+  "runTime": 1736140950272,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3308813,
+        "num": 3308813,
+        "word": "徐大久称演员星星已进入园区",
+        "onboard_time": 1736136505,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1148450,
+        "num": 1148450,
+        "word": "鸡窝头女士收拾漂亮去上班",
+        "onboard_time": 1736134642,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54348,
+        "num": 824293,
+        "word": "古人把剪纸技术用到了瓷器上",
+        "onboard_time": 1736137404,
+        "rank": 2,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 677730,
+        "num": 677730,
+        "word": "韩国小狗与遇难家人告别全程安静",
+        "onboard_time": 1736138488,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 379273,
+        "num": 379273,
+        "word": "2025年第1天救了2条人命",
+        "onboard_time": 1736134642,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1547248,
+        "num": 364822,
+        "word": "多位明星转发演员星星失联消息",
+        "onboard_time": 1736134101,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 802569,
+        "num": 356329,
+        "word": "驻清迈总领馆回应演员星星失联",
+        "onboard_time": 1736134701,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 602293,
+        "num": 351510,
+        "word": "演员徐大久称刚从人贩子手中逃出来",
+        "onboard_time": 1736134943,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336228,
+        "num": 336228,
+        "word": "男子向大熊猫兰香砸整瓶可乐",
+        "onboard_time": 1736131761,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125785,
+        "num": 336148,
+        "word": "余华英案正在死刑复核中",
+        "onboard_time": 1736139865,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 532389,
+        "num": 335358,
+        "word": "妙瓦底",
+        "onboard_time": 1736138067,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455905,
+        "num": 334924,
+        "word": "现在拨打的电话 烂尾",
+        "onboard_time": 1736135964,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 442454,
+        "num": 334564,
+        "word": "国色芳华直播",
+        "onboard_time": 1736138127,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285071,
+        "num": 334121,
+        "word": "哪吒汽车",
+        "onboard_time": 1736129001,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 82072,
+        "num": 333854,
+        "word": "张信哲差点错过情歌王子",
+        "onboard_time": 1736139806,
+        "rank": 14,
+        "category": "演出,综艺"
+      },
+      {
+        "raw_hot": 226233,
+        "num": 333381,
+        "word": "鱼 我妈都没你了解我",
+        "onboard_time": 1736138728,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222811,
+        "num": 332754,
+        "word": "假父回应错认儿子16年是看男子可怜",
+        "onboard_time": 1736131161,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203549,
+        "num": 332262,
+        "word": "马龙不认同自己是历史最伟大球员",
+        "onboard_time": 1736132780,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46399,
+        "num": 332137,
+        "word": "剧本都不敢写陈挑战的人生",
+        "onboard_time": 1736139086,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 106255,
+        "num": 331642,
+        "word": "医药股集体大涨",
+        "onboard_time": 1736139687,
+        "rank": 19,
+        "category": "财经,健康医疗"
+      },
+      {
+        "raw_hot": 347242,
+        "num": 331232,
+        "word": "建议买草莓一定不要买盆装的",
+        "onboard_time": 1736121320,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 330913,
+        "num": 330913,
+        "word": "孟子义李昀锐星光大赏聚餐照",
+        "onboard_time": 1736135364,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186314,
+        "num": 320597,
+        "word": "鸡窝头女士穿熟悉的黑棉袄上班了",
+        "onboard_time": 1736137587,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29435,
+        "num": 316411,
+        "word": "梁王组合备战最新画面",
+        "onboard_time": 1736140106,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315403,
+        "num": 315403,
+        "word": "单依纯 没有碳水怎么活啊",
+        "onboard_time": 1736133021,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296189,
+        "num": 296189,
+        "word": "辛雨锡喊话秦霄贤姐姐",
+        "onboard_time": 1736134823,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289469,
+        "num": 289469,
+        "word": "柳演锡回应和蔡秀彬恋爱可能性",
+        "onboard_time": 1736140405,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259923,
+        "num": 259923,
+        "word": "时代少年团 海俪恩",
+        "onboard_time": 1736134464,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 213547,
+        "num": 213547,
+        "word": "女子怀孕7个月体重94斤",
+        "onboard_time": 1736090728,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199967,
+        "num": 211370,
+        "word": "白鹿头像换成了白烁",
+        "onboard_time": 1736140525,
+        "rank": 29,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 252879,
+        "num": 211223,
+        "word": "迪丽热巴黑粉被判赔并道歉",
+        "onboard_time": 1736139806,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210699,
+        "num": 210699,
+        "word": "田曦薇公主崩溃哭戏",
+        "onboard_time": 1736139387,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210291,
+        "num": 210291,
+        "word": "鞠婧祎 美人鱼",
+        "onboard_time": 1736136925,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 158828,
+        "num": 196419,
+        "word": "孙颖莎 半亩花田",
+        "onboard_time": 1736132180,
+        "rank": 33,
+        "category": "体育,美妆"
+      },
+      {
+        "raw_hot": 144019,
+        "num": 195784,
+        "word": "会计比对顾总钱总朋友圈保住400万",
+        "onboard_time": 1736131939,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35717,
+        "num": 195376,
+        "word": "汪苏泷官宣微博之夜",
+        "onboard_time": 1736139270,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195345,
+        "num": 195345,
+        "word": "颜十六疑诱骗多名演员前往泰国",
+        "onboard_time": 1736129120,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174659,
+        "num": 174659,
+        "word": "国色芳华",
+        "onboard_time": 1736138846,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137488,
+        "num": 167236,
+        "word": "提前回村过年的年轻人放不下续命咖啡",
+        "onboard_time": 1736140584,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135311,
+        "num": 167166,
+        "word": "93年女孩成市值407亿公司董事长",
+        "onboard_time": 1736095700,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167163,
+        "num": 167163,
+        "word": "杨紫魏哲鸣新剧包办婚姻受害者",
+        "onboard_time": 1736136444,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149623,
+        "num": 149623,
+        "word": "井胧 至此有0个人走出披4",
+        "onboard_time": 1736137827,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147958,
+        "num": 147958,
+        "word": "王鹤棣田曦薇表白戏",
+        "onboard_time": 1736139626,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119239,
+        "num": 119239,
+        "word": "感染甲流5天内用药有效",
+        "onboard_time": 1736129961,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117876,
+        "num": 117876,
+        "word": "太原人一打就是50斤热的老陈醋",
+        "onboard_time": 1736124440,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116418,
+        "num": 116418,
+        "word": "韩在野党称总统警卫处接到发射实弹命令",
+        "onboard_time": 1736136866,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105891,
+        "num": 116009,
+        "word": "甲流概念股多股涨停",
+        "onboard_time": 1736139926,
+        "rank": 46,
+        "category": "财经,健康医疗"
+      },
+      {
+        "raw_hot": 93864,
+        "num": 115309,
+        "word": "青海摇是年轻人自己的广场舞",
+        "onboard_time": 1736140464,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93424,
+        "num": 114666,
+        "word": "A股牛走了吗",
+        "onboard_time": 1736129301,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 88646,
+        "num": 114121,
+        "word": "WTT冠军赛版权费高达300多万美元",
+        "onboard_time": 1736137888,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#勇于自我革命#"
+    }
+  }
+}
