@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736198462689,
+  "endTime": 1736199340239,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -6547,20 +6547,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 18141,
+      "num": 18141,
+      "word": "贪官开会长篇大论散会吃喝玩乐",
+      "onboard_time": 1736193192,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17849,
       "num": 164490,
       "word": "小泉眼如何变成万里长江",
       "onboard_time": 1736133861,
       "rank": 39,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 17811,
-      "num": 17811,
-      "word": "贪官开会长篇大论散会吃喝玩乐",
-      "onboard_time": 1736193192,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17766,
@@ -6651,6 +6651,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 13722,
+      "num": 38929,
+      "word": "向兰香扔瓶子游客已被警方控制",
+      "onboard_time": 1736198060,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13632,
       "num": 242306,
       "word": "384金球奖影帝",
@@ -6665,6 +6673,14 @@
       "onboard_time": 1736105532,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12220,
+      "num": 15308,
+      "word": "拜登阻止日本制铁收购美国钢铁",
+      "onboard_time": 1736198831,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 11895,
@@ -6723,11 +6739,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 9276,
-      "num": 38929,
-      "word": "向兰香扔瓶子游客已被警方控制",
-      "onboard_time": 1736198060,
-      "rank": 9,
+      "raw_hot": 8704,
+      "num": 21187,
+      "word": "贵州高院驳回余华英从轻处罚的请求",
+      "onboard_time": 1736199251,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
