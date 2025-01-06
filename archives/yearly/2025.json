@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736128013540,
+  "endTime": 1736129299104,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -155,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 4267121,
+      "num": 4267121,
+      "word": "演员星星在泰缅边境失联",
+      "onboard_time": 1736121019,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3905242,
       "num": 483256,
       "word": "赵露思最新康复状态",
@@ -176,14 +184,6 @@
       "word": "李明德 张颂文",
       "onboard_time": 1736042491,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 3646885,
-      "num": 3646885,
-      "word": "演员星星在泰缅边境失联",
-      "onboard_time": 1736121019,
-      "rank": 0,
       "category": "艺人"
     },
     {
@@ -305,6 +305,14 @@
       "onboard_time": 1735874540,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2277571,
+      "num": 457316,
+      "word": "龚俊为演员星星发声",
+      "onboard_time": 1736128222,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 2256630,
@@ -2019,6 +2027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 755901,
+      "num": 522007,
+      "word": "秦霄贤姐姐回应辛雨锡",
+      "onboard_time": 1736119577,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 751451,
       "num": 536641,
       "word": "迪丽热巴衣服不是起球是姐姐的时尚",
@@ -2081,14 +2097,6 @@
       "onboard_time": 1735662445,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 735927,
-      "num": 522007,
-      "word": "秦霄贤姐姐回应辛雨锡",
-      "onboard_time": 1736119577,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 734971,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735793543,
       "rank": 3,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 645882,
-      "num": 645882,
-      "word": "自驾阿姨苏敏称已转给男方16万",
-      "onboard_time": 1735791686,
-      "rank": 37,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

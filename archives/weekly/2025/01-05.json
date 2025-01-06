@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736128013540,
+  "endTime": 1736129299104,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -99,19 +99,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4267121,
+      "num": 4267121,
+      "word": "演员星星在泰缅边境失联",
+      "onboard_time": 1736121019,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3716611,
       "num": 3716611,
       "word": "李明德 张颂文",
       "onboard_time": 1736042491,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 3646885,
-      "num": 3646885,
-      "word": "演员星星在泰缅边境失联",
-      "onboard_time": 1736121019,
-      "rank": 0,
       "category": "艺人"
     },
     {
@@ -144,6 +144,14 @@
       "word": "姜尘晒录音提张颂文名字",
       "onboard_time": 1736042491,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2277571,
+      "num": 457316,
+      "word": "龚俊为演员星星发声",
+      "onboard_time": 1736128222,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -491,7 +499,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 735927,
+      "raw_hot": 755901,
       "num": 522007,
       "word": "秦霄贤姐姐回应辛雨锡",
       "onboard_time": 1736119577,
@@ -715,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 523550,
+      "num": 523550,
+      "word": "有药店玛巴洛沙韦涨价至300元一盒",
+      "onboard_time": 1736126242,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 518491,
       "num": 661282,
       "word": "橙光崩了",
@@ -876,7 +892,7 @@
     },
     {
       "raw_hot": 422623,
-      "num": 217388,
+      "num": 235974,
       "word": "建议买草莓一定不要买盆装的",
       "onboard_time": 1736121320,
       "rank": 21,
@@ -995,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 390634,
+      "num": 390634,
+      "word": "田曦薇 摇曳生姿红玫瑰",
+      "onboard_time": 1736123182,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 388127,
       "num": 388127,
       "word": "赵今麦 我家有女初长成",
@@ -1073,6 +1097,14 @@
       "onboard_time": 1736077106,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 358108,
+      "num": 358108,
+      "word": "Oner道歉",
+      "onboard_time": 1736124862,
+      "rank": 11,
+      "category": "电竞"
     },
     {
       "raw_hot": 351959,
@@ -1171,28 +1203,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 325262,
-      "num": 325262,
-      "word": "田曦薇 摇曳生姿红玫瑰",
-      "onboard_time": 1736123182,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 321828,
       "num": 321828,
       "word": "丁禹兮现身蛇年春晚联排",
       "onboard_time": 1736055508,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 317221,
-      "num": 317221,
-      "word": "Oner道歉",
-      "onboard_time": 1736124862,
-      "rank": 11,
-      "category": "电竞"
     },
     {
       "raw_hot": 316721,
@@ -1225,6 +1241,14 @@
       "onboard_time": 1736060006,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 306938,
+      "num": 306938,
+      "word": "太原人一打就是50斤热的老陈醋",
+      "onboard_time": 1736124440,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 303875,
@@ -1411,12 +1435,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 264624,
-      "num": 264624,
-      "word": "有药店玛巴洛沙韦涨价至300元一盒",
-      "onboard_time": 1736126242,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 269853,
+      "num": 269853,
+      "word": "秦霄贤姐姐晒聊天记录",
+      "onboard_time": 1736123843,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 268829,
+      "num": 268829,
+      "word": "A股",
+      "onboard_time": 1736128280,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 258787,
@@ -1452,7 +1484,7 @@
     },
     {
       "raw_hot": 254015,
-      "num": 214346,
+      "num": 215892,
       "word": "陈建斌再现甄嬛传名场面",
       "onboard_time": 1736125221,
       "rank": 27,
@@ -1497,6 +1529,14 @@
       "onboard_time": 1736002595,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248994,
+      "num": 248994,
+      "word": "杨紫魏哲鸣国色芳华有感情戏",
+      "onboard_time": 1736127621,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 247674,
@@ -1547,6 +1587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 241597,
+      "num": 241597,
+      "word": "IVE预告里的安宥真张元英",
+      "onboard_time": 1736128700,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 240690,
       "num": 654895,
       "word": "射雕英雄传 家永远是你的桃花岛",
@@ -1561,6 +1609,14 @@
       "onboard_time": 1736054128,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 239000,
+      "num": 239000,
+      "word": "90岁网红奶奶去世",
+      "onboard_time": 1736123001,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 238212,
@@ -1667,14 +1723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 221514,
-      "num": 221514,
-      "word": "太原人一打就是50斤热的老陈醋",
-      "onboard_time": 1736124440,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 221092,
       "num": 221092,
       "word": "成毅上台 尖叫声",
@@ -1689,6 +1737,14 @@
       "onboard_time": 1736061565,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 219459,
+      "num": 219459,
+      "word": "哪吒汽车",
+      "onboard_time": 1736129001,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 219131,
@@ -1835,14 +1891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 203269,
-      "num": 203269,
-      "word": "秦霄贤姐姐晒聊天记录",
-      "onboard_time": 1736123843,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 203034,
       "num": 182899,
       "word": "林高远坚持完成比赛才匆匆回家陪伴父亲",
@@ -1931,6 +1979,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 194533,
+      "num": 194533,
+      "word": "男孩嘴唇开裂奶奶给整了个偏方",
+      "onboard_time": 1736113692,
+      "rank": 35,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 194155,
       "num": 390810,
       "word": "多地流感神药需求暴涨",
@@ -1955,14 +2011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 186469,
-      "num": 186469,
-      "word": "男孩嘴唇开裂奶奶给整了个偏方",
-      "onboard_time": 1736113692,
-      "rank": 35,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 186303,
       "num": 357936,
       "word": "光遇",
@@ -1977,14 +2025,6 @@
       "onboard_time": 1736120178,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 183758,
-      "num": 183758,
-      "word": "90岁网红奶奶去世",
-      "onboard_time": 1736123001,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 183630,
@@ -2195,8 +2235,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158143,
+      "num": 158143,
+      "word": "这只老虎怎么猫里猫气的",
+      "onboard_time": 1736128341,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157959,
-      "num": 157959,
+      "num": 368074,
       "word": "人类虹膜生物信息是此生唯一",
       "onboard_time": 1736122821,
       "rank": 35,
@@ -2435,20 +2483,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133475,
+      "num": 133475,
+      "word": "陕西蒲城通报一职校学生坠楼",
+      "onboard_time": 1736128160,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133198,
       "num": 133198,
       "word": "业内人士称樊振东炙手可热",
       "onboard_time": 1736088449,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131140,
-      "num": 131140,
-      "word": "杨紫魏哲鸣国色芳华有感情戏",
-      "onboard_time": 1736127621,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 131088,
@@ -2481,6 +2529,14 @@
       "onboard_time": 1736126421,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 128395,
+      "num": 231528,
+      "word": "河南省考公告",
+      "onboard_time": 1736125401,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 128148,
@@ -2523,6 +2579,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 126446,
+      "num": 126446,
+      "word": "哪吒汽车官网出现异常",
+      "onboard_time": 1736127800,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 126160,
       "num": 645421,
       "word": "希望期末周的老师belike",
@@ -2547,14 +2611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122302,
-      "num": 122302,
-      "word": "河南省考公告",
-      "onboard_time": 1736125401,
-      "rank": 41,
-      "category": "教育"
-    },
-    {
       "raw_hot": 121642,
       "num": 644875,
       "word": "赶女生在高速下车司机已被封号",
@@ -2569,6 +2625,14 @@
       "onboard_time": 1736094262,
       "rank": 29,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 121426,
+      "num": 121426,
+      "word": "颜十六",
+      "onboard_time": 1736129120,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 120887,
@@ -2635,6 +2699,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 116590,
+      "num": 116590,
+      "word": "陕西坠亡学生事发前与同学争执",
+      "onboard_time": 1736128882,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115719,
       "num": 909650,
       "word": "排队1小时兑蛇钞蛇币到手就转卖",
@@ -2689,14 +2761,6 @@
       "onboard_time": 1736127201,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 109757,
-      "num": 109757,
-      "word": "哪吒汽车官网出现异常",
-      "onboard_time": 1736127800,
-      "rank": 45,
-      "category": "汽车"
     },
     {
       "raw_hot": 109016,
@@ -2793,6 +2857,14 @@
       "onboard_time": 1736036545,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103478,
+      "num": 103478,
+      "word": "江苏流感病例数或将持续上升",
+      "onboard_time": 1736128522,
+      "rank": 49,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 101346,
