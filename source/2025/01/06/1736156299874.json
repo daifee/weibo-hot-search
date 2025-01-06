@@ -1,0 +1,410 @@
+{
+  "runTime": 1736156299874,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9720049,
+        "num": 9720049,
+        "word": "鹿晗道歉",
+        "onboard_time": 1736148990,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 667375,
+        "num": 667375,
+        "word": "鸡窝头女士收拾漂亮去上班",
+        "onboard_time": 1736134642,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5844,
+        "num": 584018,
+        "word": "文旅场景的多种打开方式",
+        "onboard_time": 1736156245,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 576785,
+        "num": 576785,
+        "word": "19岁大学生突发疾病脑死亡",
+        "onboard_time": 1736153365,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 571384,
+        "num": 571384,
+        "word": "男子给女友转账100万分手后起诉对方",
+        "onboard_time": 1736153906,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2978317,
+        "num": 567332,
+        "word": "鹿晗社交平台被禁止关注",
+        "onboard_time": 1736147422,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1762939,
+        "num": 563752,
+        "word": "韦雪直播掉美颜",
+        "onboard_time": 1736151567,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 646126,
+        "num": 557287,
+        "word": "田曦薇星光大赏被anti",
+        "onboard_time": 1736146822,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 365972,
+        "num": 554120,
+        "word": "外交部新任发言人郭嘉昆亮相",
+        "onboard_time": 1736149906,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 222923,
+        "num": 546967,
+        "word": "国家反诈中心曾提醒请勿前往妙瓦底",
+        "onboard_time": 1736150787,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27389,
+        "num": 542614,
+        "word": "打卡中华文化种子库",
+        "onboard_time": 1736136143,
+        "rank": 10,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 629359,
+        "num": 538740,
+        "word": "虞书欣 走你",
+        "onboard_time": 1736154267,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 591535,
+        "num": 532249,
+        "word": "抖音副总裁回应用户将钱读成米",
+        "onboard_time": 1736142803,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 529078,
+        "num": 529078,
+        "word": "妙瓦底",
+        "onboard_time": 1736138067,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109547,
+        "num": 465720,
+        "word": "妙瓦底到底是什么地方",
+        "onboard_time": 1736155226,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 456675,
+        "num": 456675,
+        "word": "缅甸妙瓦底系网络诈骗的大本营",
+        "onboard_time": 1736150249,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336465,
+        "num": 336465,
+        "word": "杨紫25年首套高定造型",
+        "onboard_time": 1736148567,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321068,
+        "num": 321068,
+        "word": "kimi崩了",
+        "onboard_time": 1736153006,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 283854,
+        "num": 283854,
+        "word": "演员星星女友已落地曼谷",
+        "onboard_time": 1736153186,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71249,
+        "num": 265774,
+        "word": "汪苏泷去年微博之夜的发言做到了",
+        "onboard_time": 1736156004,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 364658,
+        "num": 262131,
+        "word": "女子吃5斤车厘子后发高烧",
+        "onboard_time": 1736146643,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251515,
+        "num": 251515,
+        "word": "杨紫美我一大跳",
+        "onboard_time": 1736154445,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245189,
+        "num": 245189,
+        "word": "12306崩了",
+        "onboard_time": 1736148207,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 221533,
+        "num": 221533,
+        "word": "演员星星曾出演玫瑰的故事",
+        "onboard_time": 1736148328,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215619,
+        "num": 215619,
+        "word": "WTT发文感谢樊振东",
+        "onboard_time": 1736153006,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211420,
+        "num": 211420,
+        "word": "张艺兴刘诗诗林允儿新年大片",
+        "onboard_time": 1736155707,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 202744,
+        "num": 202744,
+        "word": "李现再现韩商言经典手势",
+        "onboard_time": 1736155944,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191170,
+        "num": 191170,
+        "word": "太好了是长发秦岚",
+        "onboard_time": 1736147543,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188227,
+        "num": 188227,
+        "word": "演员范虎怒斥徐大久提供假消息",
+        "onboard_time": 1736149950,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185461,
+        "num": 185461,
+        "word": "迪丽热巴 青壮年艺术家",
+        "onboard_time": 1736148688,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171823,
+        "num": 171823,
+        "word": "高三班主任给全班煮了个泡面塔",
+        "onboard_time": 1736144362,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 161297,
+        "num": 161297,
+        "word": "演员王星是否在妙瓦底有待核实",
+        "onboard_time": 1736136505,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154353,
+        "num": 154353,
+        "word": "驻缅甸大使馆回应演员星星失联",
+        "onboard_time": 1736144722,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147489,
+        "num": 147489,
+        "word": "徐克版射雕是浪漫主义还是现实主义",
+        "onboard_time": 1736147723,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137882,
+        "num": 137882,
+        "word": "孙颖莎打上天的神仙球入选十佳球",
+        "onboard_time": 1736155585,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101638,
+        "num": 136960,
+        "word": "老人因套餐流量清零起诉移动败诉",
+        "onboard_time": 1736154205,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143280,
+        "num": 136914,
+        "word": "芒果新综艺理解撒贝宁成为撒贝宁",
+        "onboard_time": 1736153667,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136599,
+        "num": 136599,
+        "word": "减肥不吃晚餐不会痩",
+        "onboard_time": 1736145142,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131437,
+        "num": 131437,
+        "word": "成毅 要签名包给的",
+        "onboard_time": 1736150848,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124532,
+        "num": 129032,
+        "word": "男子意外触碰氢氟酸手指烂出黑洞",
+        "onboard_time": 1736150669,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128938,
+        "num": 128938,
+        "word": "李现 现男友变现老公了",
+        "onboard_time": 1736147122,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113251,
+        "num": 127071,
+        "word": "大奉打更人特效",
+        "onboard_time": 1736154804,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125871,
+        "num": 125871,
+        "word": "工藤静香官宣微博之夜",
+        "onboard_time": 1736148688,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118747,
+        "num": 118747,
+        "word": "宋亚轩 宋大葱",
+        "onboard_time": 1736151328,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114859,
+        "num": 114859,
+        "word": "韩国小狗与遇难家人告别全程安静",
+        "onboard_time": 1736138488,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 114720,
+        "num": 114720,
+        "word": "小伙闯入太白山失联9天后独自走出",
+        "onboard_time": 1736153965,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111084,
+        "num": 111084,
+        "word": "终于又等到全戏骨阵容的国产剧",
+        "onboard_time": 1736152587,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108147,
+        "num": 108147,
+        "word": "苹果AI要求预留7GB空间",
+        "onboard_time": 1736147905,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 105466,
+        "num": 105466,
+        "word": "无人机操控员人才缺口达百万",
+        "onboard_time": 1736155344,
+        "rank": 48,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 101205,
+        "num": 101205,
+        "word": "河北邯郸3.0级地震",
+        "onboard_time": 1736145562,
+        "rank": 49,
+        "category": "突发/灾害"
+      }
+    ],
+    "hotgov": {
+      "word": "#以零容忍态度反腐惩恶#"
+    }
+  }
+}
