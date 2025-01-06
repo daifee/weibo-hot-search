@@ -1,6 +1,6 @@
 {
   "startTime": 1736094308497,
-  "endTime": 1736145150867,
+  "endTime": 1736145922001,
   "band_list": [
     {
       "raw_hot": 4267121,
@@ -23,6 +23,14 @@
       "num": 702354,
       "word": "多位明星转发演员星星失联消息",
       "onboard_time": 1736134101,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2483975,
+      "num": 2483975,
+      "word": "朋友说已联系到星星",
+      "onboard_time": 1736145021,
       "rank": 5,
       "category": "艺人"
     },
@@ -68,19 +76,11 @@
     },
     {
       "raw_hot": 1662707,
-      "num": 266575,
+      "num": 286532,
       "word": "抖音副总裁回应用户将钱读成米",
       "onboard_time": 1736142803,
       "rank": 10,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1605755,
-      "num": 375506,
-      "word": "朋友说已联系到星星",
-      "onboard_time": 1736145021,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 1378692,
@@ -129,6 +129,14 @@
       "onboard_time": 1736129001,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 826950,
+      "num": 333971,
+      "word": "驻缅甸大使馆回应演员星星失联",
+      "onboard_time": 1736144722,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 778578,
@@ -395,14 +403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 397014,
-      "num": 333971,
-      "word": "驻缅甸大使馆回应演员星星失联",
-      "onboard_time": 1736144722,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 393414,
       "num": 393414,
       "word": "余华英案正在死刑复核中",
@@ -547,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 290490,
+      "num": 280896,
+      "word": "李现看杨紫变魔术反应",
+      "onboard_time": 1736144123,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 289469,
       "num": 289469,
       "word": "柳演锡回应和蔡秀彬恋爱可能性",
@@ -569,6 +577,22 @@
       "onboard_time": 1736132780,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 275306,
+      "num": 275306,
+      "word": "蔡文静自曝试戏新喜剧之王几轮落空",
+      "onboard_time": 1736143942,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 275280,
+      "num": 211188,
+      "word": "高三班主任给全班煮了个泡面塔",
+      "onboard_time": 1736144362,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 275084,
@@ -673,14 +697,6 @@
       "onboard_time": 1736119940,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 229380,
-      "num": 229380,
-      "word": "蔡文静自曝试戏新喜剧之王几轮落空",
-      "onboard_time": 1736143942,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 229276,
@@ -811,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204528,
+      "num": 169357,
+      "word": "两个恋爱脑和一个大馋丫头",
+      "onboard_time": 1736144422,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 203941,
       "num": 203941,
       "word": "肖战射雕预告",
@@ -835,14 +859,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 199627,
-      "num": 225083,
-      "word": "李现看杨紫变魔术反应",
-      "onboard_time": 1736144123,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 198074,
       "num": 198074,
       "word": "井胧 至此有0个人走出披4",
@@ -851,12 +867,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197188,
-      "num": 197188,
-      "word": "高三班主任给全班煮了个泡面塔",
-      "onboard_time": 1736144362,
-      "rank": 28,
-      "category": "教育"
+      "raw_hot": 196564,
+      "num": 222274,
+      "word": "这座小城每天早上被剪刀声叫醒",
+      "onboard_time": 1736144843,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 194533,
@@ -971,14 +987,6 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 169357,
-      "num": 169357,
-      "word": "两个恋爱脑和一个大馋丫头",
-      "onboard_time": 1736144422,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 168410,
       "num": 315714,
       "word": "会计比对顾总钱总朋友圈保住400万",
@@ -1025,6 +1033,22 @@
       "onboard_time": 1736122222,
       "rank": 34,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 163647,
+      "num": 221945,
+      "word": "56岁儿子把82岁妈妈重新养了一遍",
+      "onboard_time": 1736141423,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163321,
+      "num": 220698,
+      "word": "河北邯郸3.0级地震",
+      "onboard_time": 1736145562,
+      "rank": 17,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 162845,
@@ -1131,14 +1155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142296,
-      "num": 209537,
-      "word": "56岁儿子把82岁妈妈重新养了一遍",
-      "onboard_time": 1736141423,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141369,
       "num": 141369,
       "word": "张彬彬新剧道心不稳",
@@ -1233,14 +1249,6 @@
       "onboard_time": 1736118196,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 133005,
-      "num": 222274,
-      "word": "这座小城每天早上被剪刀声叫醒",
-      "onboard_time": 1736144843,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 129759,
@@ -1371,6 +1379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 113035,
+      "num": 113035,
+      "word": "中老年人开始卷百大了",
+      "onboard_time": 1736145740,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110983,
       "num": 153441,
       "word": "新说唱2025海选还是太全面了",
@@ -1379,12 +1395,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110619,
+      "num": 218839,
+      "word": "唐嫣方告黑",
+      "onboard_time": 1736145682,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109585,
       "num": 109585,
       "word": "吉林一公司发消费券代替工资",
       "onboard_time": 1736082209,
       "rank": 42,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 108145,
+      "num": 167036,
+      "word": "魏哲鸣国色芳华一觉醒来前夫哥",
+      "onboard_time": 1736145441,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 106878,
+      "num": 228235,
+      "word": "帮你治失眠的医生自己也半夜睡不着",
+      "onboard_time": 1736143821,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 106861,
+      "num": 106860,
+      "word": "广州队未获准入",
+      "onboard_time": 1736145682,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 105891,
@@ -1403,20 +1451,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 104861,
+      "num": 104861,
+      "word": "Irene出发上海",
+      "onboard_time": 1736145800,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103684,
       "num": 103684,
       "word": "aespa宁宁减肥前后对比",
       "onboard_time": 1736081309,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 103679,
-      "num": 228235,
-      "word": "帮你治失眠的医生自己也半夜睡不着",
-      "onboard_time": 1736143821,
-      "rank": 14,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 101626,
@@ -1531,6 +1579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79792,
+      "num": 213297,
+      "word": "2025LPL第一赛段赛程",
+      "onboard_time": 1736145740,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 78898,
       "num": 200836,
       "word": "涉事公司员工回应消费券当工资",
@@ -1603,6 +1659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62207,
+      "num": 205673,
+      "word": "马龙说如能力达标会义不容辞出战",
+      "onboard_time": 1736144663,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61414,
       "num": 1227781,
       "word": "近期流感高发如何做好防护",
@@ -1667,14 +1731,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 48472,
-      "num": 205673,
-      "word": "马龙说如能力达标会义不容辞出战",
-      "onboard_time": 1736144663,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 47203,
       "num": 241281,
       "word": "汪苏泷官宣微博之夜",
@@ -1737,6 +1793,14 @@
       "onboard_time": 1736100315,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 30661,
+      "num": 290037,
+      "word": "多地消防通道被堵塞",
+      "onboard_time": 1736145441,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29435,
@@ -1809,6 +1873,14 @@
       "onboard_time": 1736141303,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16428,
+      "num": 218310,
+      "word": "环卫工翻4吨垃圾找回小伙23万彩礼",
+      "onboard_time": 1736145383,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16347,

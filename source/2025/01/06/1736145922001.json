@@ -1,0 +1,410 @@
+{
+  "runTime": 1736145922001,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2483975,
+        "num": 2483975,
+        "word": "朋友说已联系到星星",
+        "onboard_time": 1736145021,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 958519,
+        "num": 958519,
+        "word": "鸡窝头女士收拾漂亮去上班",
+        "onboard_time": 1736134642,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40498,
+        "num": 479268,
+        "word": "古人把剪纸技术用到了瓷器上",
+        "onboard_time": 1736137404,
+        "rank": 2,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 432303,
+        "num": 432303,
+        "word": "韩国小狗与遇难家人告别全程安静",
+        "onboard_time": 1736138488,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 353297,
+        "num": 353297,
+        "word": "余华英案正在死刑复核中",
+        "onboard_time": 1736139865,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1830041,
+        "num": 348150,
+        "word": "徐大久称演员星星已进入园区",
+        "onboard_time": 1736136505,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 826950,
+        "num": 326733,
+        "word": "驻缅甸大使馆回应演员星星失联",
+        "onboard_time": 1736144722,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440143,
+        "num": 307215,
+        "word": "知道白月梵星为什么中午播了",
+        "onboard_time": 1736142923,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30661,
+        "num": 290037,
+        "word": "多地消防通道被堵塞",
+        "onboard_time": 1736145441,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287696,
+        "num": 287696,
+        "word": "2025年第1天救了2条人命",
+        "onboard_time": 1736134642,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1511801,
+        "num": 286532,
+        "word": "抖音副总裁回应用户将钱读成米",
+        "onboard_time": 1736142803,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 357617,
+        "num": 284271,
+        "word": "妙瓦底",
+        "onboard_time": 1736138067,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290490,
+        "num": 280896,
+        "word": "李现看杨紫变魔术反应",
+        "onboard_time": 1736144123,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275306,
+        "num": 275306,
+        "word": "蔡文静自曝试戏新喜剧之王几轮落空",
+        "onboard_time": 1736143942,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264886,
+        "num": 264886,
+        "word": "柳演锡回应和蔡秀彬恋爱可能性",
+        "onboard_time": 1736140405,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222066,
+        "num": 222066,
+        "word": "男子向大熊猫兰香砸整瓶可乐",
+        "onboard_time": 1736131761,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163647,
+        "num": 221945,
+        "word": "56岁儿子把82岁妈妈重新养了一遍",
+        "onboard_time": 1736141423,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163321,
+        "num": 220698,
+        "word": "河北邯郸3.0级地震",
+        "onboard_time": 1736145562,
+        "rank": 17,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 110619,
+        "num": 218839,
+        "word": "唐嫣方告黑",
+        "onboard_time": 1736145682,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16428,
+        "num": 218310,
+        "word": "环卫工翻4吨垃圾找回小伙23万彩礼",
+        "onboard_time": 1736145383,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278698,
+        "num": 216116,
+        "word": "女子怀孕7个月体重94斤",
+        "onboard_time": 1736090728,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162962,
+        "num": 215292,
+        "word": "鸡窝头女士穿熟悉的黑棉袄上班了",
+        "onboard_time": 1736137587,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156045,
+        "num": 214484,
+        "word": "鱼 我妈都没你了解我",
+        "onboard_time": 1736138728,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79792,
+        "num": 213297,
+        "word": "2025LPL第一赛段赛程",
+        "onboard_time": 1736145740,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 275280,
+        "num": 211188,
+        "word": "高三班主任给全班煮了个泡面塔",
+        "onboard_time": 1736144362,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 210861,
+        "num": 210861,
+        "word": "建议买草莓一定不要买盆装的",
+        "onboard_time": 1736121320,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196564,
+        "num": 196564,
+        "word": "这座小城每天早上被剪刀声叫醒",
+        "onboard_time": 1736144843,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170889,
+        "num": 170889,
+        "word": "国色芳华直播",
+        "onboard_time": 1736138127,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168724,
+        "num": 168724,
+        "word": "迪丽热巴黑粉被判赔并道歉",
+        "onboard_time": 1736139806,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108145,
+        "num": 167036,
+        "word": "魏哲鸣国色芳华一觉醒来前夫哥",
+        "onboard_time": 1736145441,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204528,
+        "num": 167023,
+        "word": "两个恋爱脑和一个大馋丫头",
+        "onboard_time": 1736144422,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166613,
+        "num": 166613,
+        "word": "辛雨锡喊话秦霄贤姐姐",
+        "onboard_time": 1736134823,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158637,
+        "num": 158637,
+        "word": "肖战射雕预告",
+        "onboard_time": 1736143942,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152902,
+        "num": 152902,
+        "word": "哪吒汽车",
+        "onboard_time": 1736129001,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 138802,
+        "num": 138802,
+        "word": "孟子义李昀锐星光大赏聚餐照",
+        "onboard_time": 1736135364,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135956,
+        "num": 135956,
+        "word": "武则天妲己瑶无双皮肤优化",
+        "onboard_time": 1736141243,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133066,
+        "num": 133066,
+        "word": "现在拨打的电话 烂尾",
+        "onboard_time": 1736135964,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122767,
+        "num": 122767,
+        "word": "田曦薇哭戏",
+        "onboard_time": 1736141184,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114231,
+        "num": 114231,
+        "word": "时代少年团 海俪恩",
+        "onboard_time": 1736134464,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 113035,
+        "num": 113035,
+        "word": "中老年人开始卷百大了",
+        "onboard_time": 1736145740,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106878,
+        "num": 106878,
+        "word": "帮你治失眠的医生自己也半夜睡不着",
+        "onboard_time": 1736143821,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 98954,
+        "num": 106862,
+        "word": "玄彬孙艺珍夫妇捐3亿韩元",
+        "onboard_time": 1736142742,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62207,
+        "num": 106861,
+        "word": "马龙说如能力达标会义不容辞出战",
+        "onboard_time": 1736144663,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112840,
+        "num": 106861,
+        "word": "白鹿头像换成了白烁",
+        "onboard_time": 1736140525,
+        "rank": 43,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 106861,
+        "num": 106860,
+        "word": "广州队未获准入",
+        "onboard_time": 1736145682,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104861,
+        "num": 104861,
+        "word": "Irene出发上海",
+        "onboard_time": 1736145800,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101031,
+        "num": 101031,
+        "word": "演员徐大久称刚从人贩子手中逃出来",
+        "onboard_time": 1736134943,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100783,
+        "num": 100783,
+        "word": "单依纯 没有碳水怎么活啊",
+        "onboard_time": 1736133021,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89556,
+        "num": 96969,
+        "word": "太原人一打就是50斤热的老陈醋",
+        "onboard_time": 1736124440,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81533,
+        "num": 96443,
+        "word": "假父回应错认儿子16年是看男子可怜",
+        "onboard_time": 1736131161,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#勇于自我革命#"
+    }
+  }
+}

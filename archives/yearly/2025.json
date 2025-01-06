@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736145150867,
+  "endTime": 1736145922001,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -288,6 +288,14 @@
       "word": "赵露思走不动想去捶打腿",
       "onboard_time": 1735693338,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2483975,
+      "num": 2483975,
+      "word": "朋友说已联系到星星",
+      "onboard_time": 1736145021,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -660,7 +668,7 @@
     },
     {
       "raw_hot": 1662707,
-      "num": 266575,
+      "num": 286532,
       "word": "抖音副总裁回应用户将钱读成米",
       "onboard_time": 1736142803,
       "rank": 10,
@@ -689,14 +697,6 @@
       "onboard_time": 1735999949,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1605755,
-      "num": 375506,
-      "word": "朋友说已联系到星星",
-      "onboard_time": 1736145021,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 1597104,
@@ -1867,6 +1867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 826950,
+      "num": 333971,
+      "word": "驻缅甸大使馆回应演员星星失联",
+      "onboard_time": 1736144722,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 822927,
       "num": 822927,
       "word": "小猫皮草传到了国外",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735876461,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 674708,
-      "num": 674708,
-      "word": "地震局称银川进入地震窗口期",
-      "onboard_time": 1735807941,
-      "rank": 5,
-      "category": "突发/灾害"
     }
   ],
   "hotgov_list": [
