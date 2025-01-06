@@ -1,0 +1,410 @@
+{
+  "runTime": 1736202076877,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 255193,
+        "num": 381108,
+        "word": "2岁娃长隆酒店高烧保安拒交外卖药",
+        "onboard_time": 1736175144,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120806,
+        "num": 120806,
+        "word": "杨紫 没有这么欺负人的",
+        "onboard_time": 1736167822,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22245,
+        "num": 93320,
+        "word": "我国在青藏高原取得找矿重大突破",
+        "onboard_time": 1736167224,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88876,
+        "num": 88876,
+        "word": "拜登阻止日本制铁收购美国钢铁",
+        "onboard_time": 1736198831,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86394,
+        "num": 86394,
+        "word": "失联9天走出太白山男子恐面临截肢",
+        "onboard_time": 1736173344,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86355,
+        "num": 86355,
+        "word": "中国驻泰国使馆回应演员星星失联",
+        "onboard_time": 1736166262,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81426,
+        "num": 81426,
+        "word": "甲流后发烧一查变成病毒性肺炎",
+        "onboard_time": 1736175683,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67971,
+        "num": 67971,
+        "word": "一次收几十元微信红包最后贪了47万",
+        "onboard_time": 1736171844,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66617,
+        "num": 66617,
+        "word": "田曦薇给张晓晨发了8个弹",
+        "onboard_time": 1736179341,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 7588,
+        "num": 62406,
+        "word": "电影小小的我带火取景地咖啡馆",
+        "onboard_time": 1736201652,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 59912,
+        "num": 59912,
+        "word": "药店人员称有医生在线下单流感神药",
+        "onboard_time": 1736186773,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58550,
+        "num": 58550,
+        "word": "失联演员王星好友称警方已经立案",
+        "onboard_time": 1736181197,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53910,
+        "num": 53910,
+        "word": "反腐为了人民",
+        "onboard_time": 1736181498,
+        "rank": 12,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 50453,
+        "num": 50453,
+        "word": "辛雨锡回应秦霄贤姐姐聊天记录",
+        "onboard_time": 1736186653,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45023,
+        "num": 45023,
+        "word": "货车撞上出殡队伍致20死整改报告发布",
+        "onboard_time": 1736168063,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38350,
+        "num": 38350,
+        "word": "刘耀文卸妆素颜自拍",
+        "onboard_time": 1736180598,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36822,
+        "num": 36822,
+        "word": "男子甲流后患病毒性肺炎四肢末端花斑",
+        "onboard_time": 1736172804,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 36815,
+        "num": 36815,
+        "word": "鞠婧祎时装1小时销售额突破433w",
+        "onboard_time": 1736164223,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 34289,
+        "num": 34289,
+        "word": "广州队宣布解散",
+        "onboard_time": 1736169564,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32229,
+        "num": 32229,
+        "word": "甲流",
+        "onboard_time": 1736171484,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 33921,
+        "num": 32225,
+        "word": "韦雪直播掉美颜",
+        "onboard_time": 1736151567,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 32181,
+        "num": 32181,
+        "word": "25岁理发师双手和脸不像一个人的",
+        "onboard_time": 1736191991,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31962,
+        "num": 31962,
+        "word": "缴过社保也能算应届毕业生",
+        "onboard_time": 1736182816,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30926,
+        "num": 30926,
+        "word": "肖战与人物的五年之约",
+        "onboard_time": 1736174244,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29966,
+        "num": 29966,
+        "word": "A50",
+        "onboard_time": 1736164223,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 28530,
+        "num": 28530,
+        "word": "为什么感染甲流这么疼啊",
+        "onboard_time": 1736167343,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 27645,
+        "num": 27645,
+        "word": "16岁女生戏龄13年生动演绎眼波流转",
+        "onboard_time": 1736164463,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27135,
+        "num": 27135,
+        "word": "微博之夜阵容",
+        "onboard_time": 1736171484,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27053,
+        "num": 27053,
+        "word": "回流人员曾称去了妙瓦底真的会死",
+        "onboard_time": 1736159184,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24984,
+        "num": 27045,
+        "word": "汉武帝最后一位丞相墓疑被发现",
+        "onboard_time": 1736171725,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24771,
+        "num": 27045,
+        "word": "向大熊猫兰香扔可乐男子被行政处罚",
+        "onboard_time": 1736189412,
+        "rank": 30,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 23458,
+        "num": 27036,
+        "word": "星星被曝赴泰国前曾想咨询当地朋友",
+        "onboard_time": 1736172683,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23145,
+        "num": 27020,
+        "word": "李玟姐姐发布声明",
+        "onboard_time": 1736175205,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22348,
+        "num": 27020,
+        "word": "贵州高院驳回余华英从轻处罚的请求",
+        "onboard_time": 1736199251,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21031,
+        "num": 27004,
+        "word": "抖音副总裁回应用户将钱读成米",
+        "onboard_time": 1736142803,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 20960,
+        "num": 26999,
+        "word": "谢霆锋和Lucas一起滑雪",
+        "onboard_time": 1736161523,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20678,
+        "num": 26991,
+        "word": "男子给女友转账100万分手后起诉对方",
+        "onboard_time": 1736153906,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20668,
+        "num": 26983,
+        "word": "宋亚轩 当你见到了亚轩",
+        "onboard_time": 1736165963,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20590,
+        "num": 26975,
+        "word": "文化中国行腊八节",
+        "onboard_time": 1736183056,
+        "rank": 38,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 19826,
+        "num": 26964,
+        "word": "番茄为什么姓番",
+        "onboard_time": 1736178321,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 19510,
+        "num": 26960,
+        "word": "缅甸妙瓦底系网络诈骗的大本营",
+        "onboard_time": 1736150249,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18922,
+        "num": 26948,
+        "word": "锦月如歌",
+        "onboard_time": 1736179102,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18499,
+        "num": 26938,
+        "word": "贪官开会长篇大论散会吃喝玩乐",
+        "onboard_time": 1736193192,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18085,
+        "num": 26932,
+        "word": "目前流感病毒阳性病例99%为甲流",
+        "onboard_time": 1736176224,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 16842,
+        "num": 26924,
+        "word": "反腐败一步不停歇半步不退让",
+        "onboard_time": 1736178202,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16746,
+        "num": 26916,
+        "word": "伊能静曾故意灌醉恩利",
+        "onboard_time": 1736164896,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 16423,
+        "num": 26908,
+        "word": "贪官深信当上一把手是靠骗子运作",
+        "onboard_time": 1736191511,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16056,
+        "num": 26900,
+        "word": "微博之夜嘉宾阵容线索卡",
+        "onboard_time": 1736179401,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15862,
+        "num": 26894,
+        "word": "华助中心曾成功救助妙瓦底逃跑男子",
+        "onboard_time": 1736184434,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15533,
+        "num": 26881,
+        "word": "向兰香扔瓶子游客已被警方控制",
+        "onboard_time": 1736198060,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届中央纪委四次全会召开#"
+    }
+  }
+}
