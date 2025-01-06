@@ -1,6 +1,6 @@
 {
   "startTime": 1736180901032,
-  "endTime": 1736205714279,
+  "endTime": 1736206519734,
   "band_list": [
     {
       "raw_hot": 1161063,
@@ -11,8 +11,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1083725,
-      "num": 1083725,
+      "raw_hot": 1146036,
+      "num": 1146036,
       "word": "2岁娃长隆酒店高烧保安拒交外卖药",
       "onboard_time": 1736175144,
       "rank": 1,
@@ -41,6 +41,14 @@
       "onboard_time": 1736175205,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 345347,
+      "num": 345347,
+      "word": "失联9天走出太白山男子恐面临截肢",
+      "onboard_time": 1736173344,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 340935,
@@ -75,20 +83,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 300884,
-      "num": 300884,
-      "word": "失联9天走出太白山男子恐面临截肢",
-      "onboard_time": 1736173344,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 286633,
       "num": 286633,
       "word": "鱿鱼游戏2为何跌落神坛",
       "onboard_time": 1736174305,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 267305,
+      "num": 267305,
+      "word": "腊八节",
+      "onboard_time": 1736205256,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 237541,
@@ -107,20 +115,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 223498,
+      "num": 223498,
+      "word": "药店人员称有医生在线下单流感神药",
+      "onboard_time": 1736186773,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218440,
+      "num": 218440,
+      "word": "过了腊八就是年",
+      "onboard_time": 1736203514,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214208,
+      "num": 214208,
+      "word": "拜登阻止日本制铁收购美国钢铁",
+      "onboard_time": 1736198831,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 212334,
       "num": 188378,
       "word": "锦月如歌",
       "onboard_time": 1736179102,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 209533,
-      "num": 209533,
-      "word": "过了腊八就是年",
-      "onboard_time": 1736203514,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 209100,
@@ -139,14 +163,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 208002,
-      "num": 208002,
-      "word": "腊八节",
-      "onboard_time": 1736205256,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 207746,
       "num": 207746,
       "word": "广州队宣布解散",
@@ -155,12 +171,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202983,
-      "num": 202983,
-      "word": "药店人员称有医生在线下单流感神药",
-      "onboard_time": 1736186773,
-      "rank": 8,
-      "category": "民生新闻"
+      "raw_hot": 199890,
+      "num": 221452,
+      "word": "魏哲鸣 你是正室",
+      "onboard_time": 1736205437,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 188404,
@@ -171,12 +187,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 185434,
-      "num": 185434,
-      "word": "拜登阻止日本制铁收购美国钢铁",
-      "onboard_time": 1736198831,
-      "rank": 49,
-      "category": "国际时政"
+      "raw_hot": 166690,
+      "num": 166690,
+      "word": "肖战谈自己五年间的变化",
+      "onboard_time": 1736205616,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 165447,
@@ -195,19 +211,35 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163872,
+      "num": 163872,
+      "word": "宋佳想要成毅的微信",
+      "onboard_time": 1736205497,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 161347,
+      "num": 183388,
+      "word": "失联演员王星好友称警方已经立案",
+      "onboard_time": 1736181197,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 155958,
+      "num": 155958,
+      "word": "过了腊八就快过年了",
+      "onboard_time": 1736205975,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155888,
       "num": 155888,
       "word": "辛雨锡回应秦霄贤姐姐聊天记录",
       "onboard_time": 1736186653,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 150123,
-      "num": 183388,
-      "word": "失联演员王星好友称警方已经立案",
-      "onboard_time": 1736181197,
-      "rank": 33,
       "category": "艺人"
     },
     {
@@ -225,6 +257,14 @@
       "onboard_time": 1736167343,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 148199,
+      "num": 220032,
+      "word": "美国会确认特朗普当选总统",
+      "onboard_time": 1736205918,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 143994,
@@ -267,6 +307,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 107784,
+      "num": 188336,
+      "word": "鞠婧祎时装1小时销售额突破433w",
+      "onboard_time": 1736164223,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 107252,
       "num": 188364,
       "word": "MINNIEsolo预告",
@@ -291,28 +339,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 101251,
-      "num": 188336,
-      "word": "鞠婧祎时装1小时销售额突破433w",
-      "onboard_time": 1736164223,
-      "rank": 38,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 100786,
       "num": 188356,
       "word": "曝虞书欣将离开华策",
       "onboard_time": 1736163384,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 100562,
-      "num": 100562,
-      "word": "魏哲鸣 你是正室",
-      "onboard_time": 1736205437,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 98396,
@@ -331,14 +363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 95477,
-      "num": 95477,
-      "word": "肖战谈自己五年间的变化",
-      "onboard_time": 1736205616,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 94797,
       "num": 188354,
       "word": "回流人员曾称去了妙瓦底真的会死",
@@ -347,12 +371,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 93232,
-      "num": 93232,
-      "word": "宋佳想要成毅的微信",
-      "onboard_time": 1736205497,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 94614,
+      "num": 94614,
+      "word": "中国足球64支冠军队45支解散",
+      "onboard_time": 1736205437,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 92389,
+      "num": 92389,
+      "word": "韩国人最喜欢的中剧排行",
+      "onboard_time": 1736205558,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 91908,
@@ -361,6 +393,14 @@
       "onboard_time": 1736165963,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90198,
+      "num": 90198,
+      "word": "25岁理发师双手和脸不像一个人的",
+      "onboard_time": 1736191991,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89836,
@@ -377,14 +417,6 @@
       "onboard_time": 1736181498,
       "rank": 29,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 88873,
-      "num": 88873,
-      "word": "25岁理发师双手和脸不像一个人的",
-      "onboard_time": 1736191991,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87435,
@@ -451,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72319,
+      "num": 332987,
+      "word": "我国在青藏高原取得找矿重大突破",
+      "onboard_time": 1736167224,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69100,
       "num": 109449,
       "word": "文化中国行腊八节",
@@ -467,12 +507,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68470,
-      "num": 332987,
-      "word": "我国在青藏高原取得找矿重大突破",
-      "onboard_time": 1736167224,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 67811,
+      "num": 67811,
+      "word": "陈哲远给白鹿白月梵星包场",
+      "onboard_time": 1736205497,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 66974,
@@ -481,6 +521,14 @@
       "onboard_time": 1736178502,
       "rank": 47,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 64737,
+      "num": 64737,
+      "word": "黄子韬炮轰演员星星失联事件招聘组",
+      "onboard_time": 1736206037,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 63360,
@@ -499,23 +547,7 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 60215,
-      "num": 60215,
-      "word": "中国足球64支冠军队45支解散",
-      "onboard_time": 1736205437,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 58670,
-      "num": 58670,
-      "word": "陈哲远给白鹿白月梵星包场",
-      "onboard_time": 1736205497,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 56243,
+      "raw_hot": 59262,
       "num": 108320,
       "word": "甲流",
       "onboard_time": 1736171484,
@@ -523,7 +555,7 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 54375,
+      "raw_hot": 58998,
       "num": 151022,
       "word": "失联9天走出太白山男子已转院西安",
       "onboard_time": 1736204534,
@@ -531,12 +563,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 48020,
-      "num": 48020,
+      "raw_hot": 50221,
+      "num": 50221,
       "word": "青藏高原新发现2000万吨铜矿资源量",
       "onboard_time": 1736202913,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47519,
+      "num": 47519,
+      "word": "向大熊猫兰香扔可乐男子被行政处罚",
+      "onboard_time": 1736189412,
+      "rank": 33,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 46238,
@@ -545,14 +585,6 @@
       "onboard_time": 1736184434,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46153,
-      "num": 46153,
-      "word": "向大熊猫兰香扔可乐男子被行政处罚",
-      "onboard_time": 1736189412,
-      "rank": 33,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 44627,
@@ -577,14 +609,6 @@
       "onboard_time": 1736191511,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39404,
-      "num": 44764,
-      "word": "韩国人最喜欢的中剧排行",
-      "onboard_time": 1736205558,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 35171,

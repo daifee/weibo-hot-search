@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736205714279,
+  "endTime": 1736206519734,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -467,20 +467,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1146036,
+      "num": 1146036,
+      "word": "2岁娃长隆酒店高烧保安拒交外卖药",
+      "onboard_time": 1736175144,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1110752,
       "num": 376917,
       "word": "曝虞书欣将离开华策",
       "onboard_time": 1736163384,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1083725,
-      "num": 1083725,
-      "word": "2岁娃长隆酒店高烧保安拒交外卖药",
-      "onboard_time": 1736175144,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1056057,
@@ -2243,6 +2243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267305,
+      "num": 267305,
+      "word": "腊八节",
+      "onboard_time": 1736205256,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 265204,
       "num": 265204,
       "word": "杨紫美我一大跳",
@@ -2603,6 +2611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223498,
+      "num": 223498,
+      "word": "药店人员称有医生在线下单流感神药",
+      "onboard_time": 1736186773,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222561,
       "num": 305304,
       "word": "白敬亭官宣2024微博之夜",
@@ -2683,6 +2699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 218440,
+      "num": 218440,
+      "word": "过了腊八就是年",
+      "onboard_time": 1736203514,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218224,
       "num": 218224,
       "word": "金球奖",
@@ -2737,6 +2761,14 @@
       "onboard_time": 1736162483,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 214208,
+      "num": 214208,
+      "word": "拜登阻止日本制铁收购美国钢铁",
+      "onboard_time": 1736198831,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 213965,
@@ -2851,14 +2883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 209533,
-      "num": 209533,
-      "word": "过了腊八就是年",
-      "onboard_time": 1736203514,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 208826,
       "num": 208826,
       "word": "张峻豪发小时候照片",
@@ -2889,14 +2913,6 @@
       "onboard_time": 1736080768,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 208002,
-      "num": 208002,
-      "word": "腊八节",
-      "onboard_time": 1736205256,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 207958,
@@ -2995,14 +3011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202983,
-      "num": 202983,
-      "word": "药店人员称有医生在线下单流感神药",
-      "onboard_time": 1736186773,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 202951,
       "num": 202951,
       "word": "哈尔滨的仪式感已经是nextlevel",
@@ -3057,6 +3065,14 @@
       "onboard_time": 1736010509,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199890,
+      "num": 221452,
+      "word": "魏哲鸣 你是正室",
+      "onboard_time": 1736205437,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 199604,
@@ -3241,14 +3257,6 @@
       "onboard_time": 1736151567,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 185434,
-      "num": 185434,
-      "word": "拜登阻止日本制铁收购美国钢铁",
-      "onboard_time": 1736198831,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 184370,
@@ -3555,6 +3563,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 166690,
+      "num": 166690,
+      "word": "肖战谈自己五年间的变化",
+      "onboard_time": 1736205616,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 166295,
       "num": 336289,
       "word": "6岁男童上学时独自离园2次未被发现",
@@ -3584,6 +3600,14 @@
       "word": "芒果新综艺理解撒贝宁成为撒贝宁",
       "onboard_time": 1736153667,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 163872,
+      "num": 163872,
+      "word": "宋佳想要成毅的微信",
+      "onboard_time": 1736205497,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -3657,6 +3681,14 @@
       "onboard_time": 1736155585,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161347,
+      "num": 183388,
+      "word": "失联演员王星好友称警方已经立案",
+      "onboard_time": 1736181197,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 160681,
@@ -3777,6 +3809,14 @@
       "onboard_time": 1736169143,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155958,
+      "num": 155958,
+      "word": "过了腊八就快过年了",
+      "onboard_time": 1736205975,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155888,
@@ -3947,14 +3987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 150123,
-      "num": 183388,
-      "word": "失联演员王星好友称警方已经立案",
-      "onboard_time": 1736181197,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 149645,
       "num": 149645,
       "word": "高原官兵的巡逻路要爬1377级天梯",
@@ -3993,6 +4025,14 @@
       "onboard_time": 1736141243,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148199,
+      "num": 220032,
+      "word": "美国会确认特朗普当选总统",
+      "onboard_time": 1736205918,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 148095,
@@ -5147,14 +5187,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 100562,
-      "num": 100562,
-      "word": "魏哲鸣 你是正室",
-      "onboard_time": 1736205437,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 100475,
       "num": 100475,
       "word": "BOYNEXTDOOR空降",
@@ -5251,14 +5283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95477,
-      "num": 95477,
-      "word": "肖战谈自己五年间的变化",
-      "onboard_time": 1736205616,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 95154,
       "num": 110864,
       "word": "挑杯BO9决赛预言家",
@@ -5273,6 +5297,14 @@
       "onboard_time": 1736038106,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 94614,
+      "num": 94614,
+      "word": "中国足球64支冠军队45支解散",
+      "onboard_time": 1736205437,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 94602,
@@ -5307,20 +5339,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 93232,
-      "num": 93232,
-      "word": "宋佳想要成毅的微信",
-      "onboard_time": 1736205497,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 93007,
       "num": 93007,
       "word": "林高远曾陪治疗中的父亲一起剃头",
       "onboard_time": 1736033418,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92389,
+      "num": 92389,
+      "word": "韩国人最喜欢的中剧排行",
+      "onboard_time": 1736205558,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 90696,
@@ -5335,6 +5367,14 @@
       "num": 5346889,
       "word": "非遗总数世界第一是什么体验",
       "onboard_time": 1736039309,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90198,
+      "num": 90198,
+      "word": "25岁理发师双手和脸不像一个人的",
+      "onboard_time": 1736191991,
       "rank": 48,
       "category": "民生新闻"
     },
@@ -5385,14 +5425,6 @@
       "onboard_time": 1736181498,
       "rank": 29,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 88873,
-      "num": 88873,
-      "word": "25岁理发师双手和脸不像一个人的",
-      "onboard_time": 1736191991,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88143,
@@ -5643,6 +5675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72319,
+      "num": 332987,
+      "word": "我国在青藏高原取得找矿重大突破",
+      "onboard_time": 1736167224,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71872,
       "num": 218191,
       "word": "沧州雄狮足球俱乐部已成被执行人",
@@ -5739,20 +5779,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 68470,
-      "num": 332987,
-      "word": "我国在青藏高原取得找矿重大突破",
-      "onboard_time": 1736167224,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 68364,
       "num": 192349,
       "word": "黛米摩尔金球奖影后",
       "onboard_time": 1736136025,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 67811,
+      "num": 67811,
+      "word": "陈哲远给白鹿白月梵星包场",
+      "onboard_time": 1736205497,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 67494,
@@ -5785,6 +5825,14 @@
       "onboard_time": 1736167643,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 64737,
+      "num": 64737,
+      "word": "黄子韬炮轰演员星星失联事件招聘组",
+      "onboard_time": 1736206037,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 64072,
@@ -5851,14 +5899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 60215,
-      "num": 60215,
-      "word": "中国足球64支冠军队45支解散",
-      "onboard_time": 1736205437,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 60009,
       "num": 280649,
       "word": "伦纳德复出",
@@ -5875,12 +5915,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 58670,
-      "num": 58670,
-      "word": "陈哲远给白鹿白月梵星包场",
-      "onboard_time": 1736205497,
-      "rank": 33,
-      "category": "剧集"
+      "raw_hot": 58998,
+      "num": 151022,
+      "word": "失联9天走出太白山男子已转院西安",
+      "onboard_time": 1736204534,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57731,
@@ -5971,14 +6011,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 54375,
-      "num": 151022,
-      "word": "失联9天走出太白山男子已转院西安",
-      "onboard_time": 1736204534,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 53506,
       "num": 158765,
       "word": "全麻后他加了一次最狠的班",
@@ -6051,6 +6083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50221,
+      "num": 50221,
+      "word": "青藏高原新发现2000万吨铜矿资源量",
+      "onboard_time": 1736202913,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49594,
       "num": 62486,
       "word": "去过挪威的人嘴真严",
@@ -6075,12 +6115,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 48020,
-      "num": 48020,
-      "word": "青藏高原新发现2000万吨铜矿资源量",
-      "onboard_time": 1736202913,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 47519,
+      "num": 47519,
+      "word": "向大熊猫兰香扔可乐男子被行政处罚",
+      "onboard_time": 1736189412,
+      "rank": 33,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 47365,
@@ -6121,14 +6161,6 @@
       "onboard_time": 1736184434,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46153,
-      "num": 46153,
-      "word": "向大熊猫兰香扔可乐男子被行政处罚",
-      "onboard_time": 1736189412,
-      "rank": 33,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 45015,
@@ -6265,14 +6297,6 @@
       "onboard_time": 1736098275,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 39404,
-      "num": 44764,
-      "word": "韩国人最喜欢的中剧排行",
-      "onboard_time": 1736205558,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 38513,
