@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736145922001,
+  "endTime": 1736148152202,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -97,6 +97,14 @@
       "onboard_time": 1736000553,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 8758730,
+      "num": 8758730,
+      "word": "鹿晗社交平台被禁止关注",
+      "onboard_time": 1736147422,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 8711179,
@@ -611,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1743248,
+      "num": 495676,
+      "word": "星星女友呼吁不要听信谣言",
+      "onboard_time": 1736145021,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1731317,
       "num": 1731317,
       "word": "蛇钞",
@@ -668,7 +684,7 @@
     },
     {
       "raw_hot": 1662707,
-      "num": 286532,
+      "num": 325878,
       "word": "抖音副总裁回应用户将钱读成米",
       "onboard_time": 1736142803,
       "rank": 10,
@@ -1697,6 +1713,14 @@
       "onboard_time": 1736086409,
       "rank": 12,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 888813,
+      "num": 395596,
+      "word": "田曦薇星光大赏被anti",
+      "onboard_time": 1736146822,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 886676,
@@ -3483,6 +3507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 488107,
+      "num": 306915,
+      "word": "蔡文静自曝试戏新喜剧之王几轮落空",
+      "onboard_time": 1736143942,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 485651,
       "num": 1061341,
       "word": "跨年烟花",
@@ -4115,6 +4147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 408793,
+      "num": 408793,
+      "word": "环卫工翻4吨垃圾找回小伙23万彩礼",
+      "onboard_time": 1736145383,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 408000,
       "num": 408000,
       "word": "李现来到了谢之遥的有风小院",
@@ -4201,6 +4241,14 @@
       "onboard_time": 1735711099,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 401037,
+      "num": 401037,
+      "word": "河北邯郸3.0级地震",
+      "onboard_time": 1736145562,
+      "rank": 17,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 400256,
@@ -5235,6 +5283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 324625,
+      "num": 192825,
+      "word": "太好了是长发秦岚",
+      "onboard_time": 1736147543,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 324541,
       "num": 333381,
       "word": "鱼 我妈都没你了解我",
@@ -6011,6 +6067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283506,
+      "num": 283506,
+      "word": "李现 现男友变现老公了",
+      "onboard_time": 1736147122,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 283053,
       "num": 283053,
       "word": "以为GAI原名叫周震南",
@@ -6169,14 +6233,6 @@
       "onboard_time": 1736082088,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 275306,
-      "num": 275306,
-      "word": "蔡文静自曝试戏新喜剧之王几轮落空",
-      "onboard_time": 1736143942,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 275280,
@@ -8148,7 +8204,7 @@
     },
     {
       "raw_hot": 204528,
-      "num": 169357,
+      "num": 196369,
       "word": "两个恋爱脑和一个大馋丫头",
       "onboard_time": 1736144422,
       "rank": 31,
@@ -8769,6 +8825,14 @@
       "onboard_time": 1735890559,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196051,
+      "num": 196051,
+      "word": "李荣浩杨丞琳一起参加微博之夜",
+      "onboard_time": 1736147422,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 195589,
@@ -9867,6 +9931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177119,
+      "num": 177119,
+      "word": "魏哲鸣说刘畅又强制爱又窝囊",
+      "onboard_time": 1736146941,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176728,
       "num": 219121,
       "word": "孙怡的身上有好多花",
@@ -9985,6 +10057,14 @@
       "onboard_time": 1735727122,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174067,
+      "num": 174067,
+      "word": "女子吃5斤车厘子后发高烧",
+      "onboard_time": 1736146643,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174036,
@@ -10161,6 +10241,14 @@
       "onboard_time": 1735734262,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172262,
+      "num": 172262,
+      "word": "广州队未获准入",
+      "onboard_time": 1736145682,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 172188,
@@ -10819,14 +10907,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 163321,
-      "num": 220698,
-      "word": "河北邯郸3.0级地震",
-      "onboard_time": 1736145562,
-      "rank": 17,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 162975,
       "num": 304265,
       "word": "孙颖莎幼儿园时期的毕业照",
@@ -11352,6 +11432,14 @@
       "word": "R1SE你们回来行不行",
       "onboard_time": 1736084310,
       "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 154200,
+      "num": 154200,
+      "word": "丁禹兮晋江式少年音",
+      "onboard_time": 1736146342,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -12531,6 +12619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137004,
+      "num": 137004,
+      "word": "减肥不吃晚餐不会痩",
+      "onboard_time": 1736145142,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 136786,
       "num": 343271,
       "word": "林高远告别乒超总决赛",
@@ -13643,6 +13739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119885,
+      "num": 119885,
+      "word": "群演曾被骗到缅北交62万赎回",
+      "onboard_time": 1736147785,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119876,
       "num": 119876,
       "word": "白鹿剧组的假期都留给了跑男",
@@ -13777,6 +13881,14 @@
       "onboard_time": 1736044232,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117726,
+      "num": 117726,
+      "word": "抖音提示变体代号或导致限流",
+      "onboard_time": 1736147181,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 117186,
@@ -14035,6 +14147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113288,
+      "num": 218839,
+      "word": "唐嫣方告黑",
+      "onboard_time": 1736145682,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113172,
       "num": 113172,
       "word": "宁夏地震局称公众不必过于恐慌",
@@ -14065,6 +14185,14 @@
       "onboard_time": 1735724119,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 111965,
+      "num": 111965,
+      "word": "果然没人能拒绝好运的诱惑",
+      "onboard_time": 1736147362,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 111690,
@@ -14137,14 +14265,6 @@
       "onboard_time": 1735999712,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 110619,
-      "num": 218839,
-      "word": "唐嫣方告黑",
-      "onboard_time": 1736145682,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 110543,
@@ -14297,14 +14417,6 @@
       "onboard_time": 1736143821,
       "rank": 14,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 106861,
-      "num": 106860,
-      "word": "广州队未获准入",
-      "onboard_time": 1736145682,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 106785,
@@ -14547,6 +14659,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 101359,
+      "num": 101359,
+      "word": "苹果AI要求预留7GB空间",
+      "onboard_time": 1736147905,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 101346,
       "num": 101346,
       "word": "九重紫",
@@ -14625,6 +14745,14 @@
       "onboard_time": 1736054068,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98244,
+      "num": 101308,
+      "word": "李泽言生日PV",
+      "onboard_time": 1736147844,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 97725,
@@ -15051,6 +15179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86777,
+      "num": 290917,
+      "word": "泰国律所称上月也有演员被骗",
+      "onboard_time": 1736146643,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86656,
       "num": 290476,
       "word": "九尾打卡张远演唱会",
@@ -15201,6 +15337,14 @@
       "onboard_time": 1735955296,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82886,
+      "num": 185495,
+      "word": "涵艺爆料LPL第一赛段赛程",
+      "onboard_time": 1736146941,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 82425,
@@ -17331,6 +17475,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 32750,
+      "num": 330872,
+      "word": "贵州高院用四个极描述余华英罪行",
+      "onboard_time": 1736147422,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32745,
       "num": 32745,
       "word": "银川本次地震系中级浅表地震",
@@ -17851,6 +18003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25841,
+      "num": 196169,
+      "word": "徐克版射雕是浪漫主义还是现实主义",
+      "onboard_time": 1736147723,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 25815,
       "num": 40419,
       "word": "AG南京见",
@@ -17921,6 +18081,14 @@
       "onboard_time": 1735765511,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 24095,
+      "num": 299305,
+      "word": "名校毕业生入职中小学是不是噱头",
+      "onboard_time": 1736147602,
+      "rank": 13,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 24053,
@@ -18345,14 +18513,6 @@
       "onboard_time": 1735924935,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 16428,
-      "num": 218310,
-      "word": "环卫工翻4吨垃圾找回小伙23万彩礼",
-      "onboard_time": 1736145383,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16347,
