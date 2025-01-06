@@ -1,0 +1,410 @@
+{
+  "runTime": 1736177035534,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1170243,
+        "num": 1187239,
+        "word": "杨紫 没有这么欺负人的",
+        "onboard_time": 1736167822,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 965507,
+        "num": 965507,
+        "word": "一次收几十元微信红包最后贪了47万",
+        "onboard_time": 1736171844,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37089,
+        "num": 833825,
+        "word": "腊八节祝你万事粥全",
+        "onboard_time": 1736167403,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 992169,
+        "num": 832342,
+        "word": "微博之夜阵容",
+        "onboard_time": 1736171484,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 829276,
+        "num": 829276,
+        "word": "2岁娃长隆酒店高烧保安拒交外卖药",
+        "onboard_time": 1736175144,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 591235,
+        "num": 591235,
+        "word": "失联9天走出太白山男子恐面临截肢",
+        "onboard_time": 1736173344,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 511321,
+        "num": 511321,
+        "word": "韦雪直播掉美颜",
+        "onboard_time": 1736151567,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 485224,
+        "num": 485224,
+        "word": "鱿鱼游戏2为何跌落神坛",
+        "onboard_time": 1736174305,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 454901,
+        "num": 454901,
+        "word": "男子甲流后患病毒性肺炎四肢末端花斑",
+        "onboard_time": 1736172804,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 395663,
+        "num": 395663,
+        "word": "货车撞上出殡队伍致20死整改报告发布",
+        "onboard_time": 1736168063,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 462468,
+        "num": 386292,
+        "word": "中国驻泰国使馆回应演员星星失联",
+        "onboard_time": 1736166262,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373146,
+        "num": 373146,
+        "word": "广州队宣布解散",
+        "onboard_time": 1736169564,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 324792,
+        "num": 324792,
+        "word": "李玟姐姐发布声明",
+        "onboard_time": 1736175205,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314694,
+        "num": 314694,
+        "word": "IVE回归安宥真张元英预告",
+        "onboard_time": 1736174965,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 48168,
+        "num": 287998,
+        "word": "南方多地将抢先迎来2025年初雪",
+        "onboard_time": 1736175984,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393002,
+        "num": 287425,
+        "word": "星星被曝赴泰国前曾想咨询当地朋友",
+        "onboard_time": 1736172683,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285606,
+        "num": 285606,
+        "word": "为什么感染甲流这么疼啊",
+        "onboard_time": 1736167343,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 207852,
+        "num": 281633,
+        "word": "16岁女生戏龄13年生动演绎眼波流转",
+        "onboard_time": 1736164463,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188468,
+        "num": 279346,
+        "word": "抖音副总裁回应用户将钱读成米",
+        "onboard_time": 1736142803,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 154165,
+        "num": 273171,
+        "word": "贪官正事不干天天打牌成公开秘密",
+        "onboard_time": 1736169023,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296380,
+        "num": 272431,
+        "word": "李沁骨相美人",
+        "onboard_time": 1736174845,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268861,
+        "num": 268861,
+        "word": "马丽 央妈严选的含金量",
+        "onboard_time": 1736174007,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 265858,
+        "num": 265858,
+        "word": "谢霆锋和Lucas一起滑雪",
+        "onboard_time": 1736161523,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262275,
+        "num": 262275,
+        "word": "伊能静曾故意灌醉恩利",
+        "onboard_time": 1736164896,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 152454,
+        "num": 240243,
+        "word": "汉武帝最后一位丞相墓疑被发现",
+        "onboard_time": 1736171725,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226113,
+        "num": 226113,
+        "word": "肖战与人物的五年之约",
+        "onboard_time": 1736174244,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 215546,
+        "num": 215546,
+        "word": "网友偶遇张康乐马柏全逛街",
+        "onboard_time": 1736172683,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142249,
+        "num": 215072,
+        "word": "杭州四季青年底清仓羽绒服破发",
+        "onboard_time": 1736174064,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134179,
+        "num": 214953,
+        "word": "甲流",
+        "onboard_time": 1736171484,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 98527,
+        "num": 214902,
+        "word": "霸榜热搜的九重紫能让孟姐变回孟子义吗",
+        "onboard_time": 1736175864,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214886,
+        "num": 214886,
+        "word": "虞书欣星光大赏当天全平台断层登顶",
+        "onboard_time": 1736168325,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202937,
+        "num": 202937,
+        "word": "于正说春节档看肖战射雕",
+        "onboard_time": 1736172804,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162726,
+        "num": 162726,
+        "word": "王鹤棣 请杨千幻给个正面感谢机会",
+        "onboard_time": 1736172865,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28640,
+        "num": 158991,
+        "word": "澳网总奖金近亿澳元",
+        "onboard_time": 1736170583,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130354,
+        "num": 157219,
+        "word": "男子给女友转账100万分手后起诉对方",
+        "onboard_time": 1736153906,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169317,
+        "num": 157130,
+        "word": "曝虞书欣将离开华策",
+        "onboard_time": 1736163384,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156968,
+        "num": 156968,
+        "word": "王安宇 澳门来信",
+        "onboard_time": 1736175805,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156733,
+        "num": 156733,
+        "word": "鞠婧祎时装1小时销售额突破433w",
+        "onboard_time": 1736164223,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 125971,
+        "num": 155305,
+        "word": "A50",
+        "onboard_time": 1736164223,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 109416,
+        "num": 154606,
+        "word": "老板给贪官租别墅吃喝玩乐一条龙",
+        "onboard_time": 1736169084,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 571522,
+        "num": 154571,
+        "word": "醉酒女乘客疯狂撕咬出租车司机",
+        "onboard_time": 1736172383,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153957,
+        "num": 153957,
+        "word": "刘聪演唱会取消",
+        "onboard_time": 1736175623,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150102,
+        "num": 150102,
+        "word": "宋亚轩 当你见到了亚轩",
+        "onboard_time": 1736165963,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114546,
+        "num": 114546,
+        "word": "成毅被风吹得东倒西歪",
+        "onboard_time": 1736176703,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114038,
+        "num": 114038,
+        "word": "今年微博之夜导播还敢这么切吗",
+        "onboard_time": 1736162664,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109396,
+        "num": 109396,
+        "word": "甲流后发烧一查变成病毒性肺炎",
+        "onboard_time": 1736175683,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107794,
+        "num": 107794,
+        "word": "阴阳师",
+        "onboard_time": 1736174366,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106762,
+        "num": 106762,
+        "word": "目前流感病毒阳性病例99%为甲流",
+        "onboard_time": 1736176224,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 99897,
+        "num": 99897,
+        "word": "回流人员曾称去了妙瓦底真的会死",
+        "onboard_time": 1736159184,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98704,
+        "num": 98704,
+        "word": "球迷告别广州队",
+        "onboard_time": 1736176883,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届中央纪委四次全会召开#"
+    }
+  }
+}
