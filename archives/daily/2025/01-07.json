@@ -1,6 +1,6 @@
 {
   "startTime": 1736180901032,
-  "endTime": 1736202076877,
+  "endTime": 1736203146753,
   "band_list": [
     {
       "raw_hot": 1161063,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124395,
+      "num": 124395,
+      "word": "拜登阻止日本制铁收购美国钢铁",
+      "onboard_time": 1736198831,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 117125,
       "num": 188396,
       "word": "抖音副总裁回应用户将钱读成米",
@@ -307,19 +315,19 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 88876,
-      "num": 88876,
-      "word": "拜登阻止日本制铁收购美国钢铁",
-      "onboard_time": 1736198831,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 87435,
       "num": 188350,
       "word": "杭州四季青年底清仓羽绒服破发",
       "onboard_time": 1736174064,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84532,
+      "num": 84532,
+      "word": "药店人员称有医生在线下单流感神药",
+      "onboard_time": 1736186773,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -364,19 +372,11 @@
     },
     {
       "raw_hot": 75661,
-      "num": 61564,
+      "num": 70388,
       "word": "辛雨锡回应秦霄贤姐姐聊天记录",
       "onboard_time": 1736186653,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 73194,
-      "num": 73194,
-      "word": "药店人员称有医生在线下单流感神药",
-      "onboard_time": 1736186773,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 72795,
@@ -427,6 +427,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 51847,
+      "num": 51847,
+      "word": "25岁理发师双手和脸不像一个人的",
+      "onboard_time": 1736191991,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46238,
       "num": 106628,
       "word": "华助中心曾成功救助妙瓦底逃跑男子",
@@ -443,10 +451,10 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 43403,
-      "num": 38919,
-      "word": "25岁理发师双手和脸不像一个人的",
-      "onboard_time": 1736191991,
+      "raw_hot": 41168,
+      "num": 108307,
+      "word": "缴过社保也能算应届毕业生",
+      "onboard_time": 1736182816,
       "rank": 48,
       "category": "民生新闻"
     },
@@ -475,14 +483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 34779,
-      "num": 108307,
-      "word": "缴过社保也能算应届毕业生",
-      "onboard_time": 1736182816,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30067,
       "num": 61059,
       "word": "宥元",
@@ -507,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27187,
+      "num": 29397,
+      "word": "向大熊猫兰香扔可乐男子被行政处罚",
+      "onboard_time": 1736189412,
+      "rank": 33,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 27108,
       "num": 292338,
       "word": "民警被查前车托在门口排队送钱",
@@ -515,12 +523,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24771,
-      "num": 27045,
-      "word": "向大熊猫兰香扔可乐男子被行政处罚",
-      "onboard_time": 1736189412,
-      "rank": 33,
-      "category": "辟谣/通报"
+      "raw_hot": 23699,
+      "num": 29387,
+      "word": "贵州高院驳回余华英从轻处罚的请求",
+      "onboard_time": 1736199251,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22995,
+      "num": 29382,
+      "word": "贪官开会长篇大论散会吃喝玩乐",
+      "onboard_time": 1736193192,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22900,
@@ -547,20 +563,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 22348,
-      "num": 27020,
-      "word": "贵州高院驳回余华英从轻处罚的请求",
-      "onboard_time": 1736199251,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20578,
       "num": 24441,
       "word": "虞书欣星光大赏全平台登顶",
       "onboard_time": 1736190312,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 19404,
+      "num": 51712,
+      "word": "贪官深信当上一把手是靠骗子运作",
+      "onboard_time": 1736191511,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18926,
@@ -571,7 +587,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 18654,
+      "raw_hot": 18845,
       "num": 61903,
       "word": "反腐败一步不停歇半步不退让",
       "onboard_time": 1736178202,
@@ -579,19 +595,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 18499,
-      "num": 26938,
-      "word": "贪官开会长篇大论散会吃喝玩乐",
-      "onboard_time": 1736193192,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16423,
-      "num": 51712,
-      "word": "贪官深信当上一把手是靠骗子运作",
-      "onboard_time": 1736191511,
-      "rank": 9,
+      "raw_hot": 16836,
+      "num": 29369,
+      "word": "青藏高原新发现2000万吨铜矿资源量",
+      "onboard_time": 1736202913,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -601,6 +609,14 @@
       "onboard_time": 1736198060,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15451,
+      "num": 62406,
+      "word": "电影小小的我带火取景地咖啡馆",
+      "onboard_time": 1736201652,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 15416,
@@ -641,14 +657,6 @@
       "onboard_time": 1736194091,
       "rank": 39,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 7588,
-      "num": 62406,
-      "word": "电影小小的我带火取景地咖啡馆",
-      "onboard_time": 1736201652,
-      "rank": 9,
-      "category": "电影"
     }
   ],
   "hotgov_list": [
