@@ -1,6 +1,6 @@
 {
   "startTime": 1736094308497,
-  "endTime": 1736156299874,
+  "endTime": 1736159105132,
   "band_list": [
     {
       "raw_hot": 16645237,
@@ -171,6 +171,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 832626,
+      "num": 1133220,
+      "word": "李现再现韩商言经典手势",
+      "onboard_time": 1736155944,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 826950,
       "num": 333971,
       "word": "驻缅甸大使馆回应演员星星失联",
@@ -185,6 +193,14 @@
       "onboard_time": 1736134464,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 774728,
+      "num": 571384,
+      "word": "男子给女友转账100万分手后起诉对方",
+      "onboard_time": 1736153906,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 773720,
@@ -329,14 +345,6 @@
       "onboard_time": 1736148207,
       "rank": 38,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 571384,
-      "num": 571384,
-      "word": "男子给女友转账100万分手后起诉对方",
-      "onboard_time": 1736153906,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 558820,
@@ -531,6 +539,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 402483,
+      "num": 283854,
+      "word": "演员星星女友已落地曼谷",
+      "onboard_time": 1736153186,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 398367,
       "num": 398367,
       "word": "感染了甲流该怎么办",
@@ -587,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 363341,
+      "num": 363341,
+      "word": "kimi崩了",
+      "onboard_time": 1736153006,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 362130,
       "num": 351403,
       "word": "时代少年团 海俪恩",
@@ -619,12 +643,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 355880,
-      "num": 355880,
-      "word": "kimi崩了",
-      "onboard_time": 1736153006,
-      "rank": 16,
-      "category": "互联网"
+      "raw_hot": 349373,
+      "num": 220675,
+      "word": "李现说杨紫两页纸台词一条过",
+      "onboard_time": 1736157505,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 348131,
@@ -673,6 +697,14 @@
       "onboard_time": 1736138728,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 323485,
+      "num": 220011,
+      "word": "颜十六账号因违规已被封禁",
+      "onboard_time": 1736157083,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 316242,
@@ -752,14 +784,6 @@
       "word": "颜十六疑诱骗多名演员前往泰国",
       "onboard_time": 1736129120,
       "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 283854,
-      "num": 283854,
-      "word": "演员星星女友已落地曼谷",
-      "onboard_time": 1736153186,
-      "rank": 31,
       "category": "艺人"
     },
     {
@@ -947,6 +971,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 219632,
+      "num": 219632,
+      "word": "张新成背丁禹兮路透",
+      "onboard_time": 1736158163,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219582,
       "num": 284612,
       "word": "陕西一社保局职工受贿2575万",
@@ -1105,14 +1137,6 @@
       "onboard_time": 1736143942,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 202744,
-      "num": 202744,
-      "word": "李现再现韩商言经典手势",
-      "onboard_time": 1736155944,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 202370,
@@ -1459,12 +1483,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154245,
+      "num": 154245,
+      "word": "孙颖莎打上天的神仙球入选十佳球",
+      "onboard_time": 1736155585,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154200,
       "num": 154200,
       "word": "丁禹兮晋江式少年音",
       "onboard_time": 1736146342,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153096,
+      "num": 153096,
+      "word": "肖战版郭靖眼神戏",
+      "onboard_time": 1736158343,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 152854,
@@ -1539,6 +1579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142182,
+      "num": 222066,
+      "word": "男子求朋友还钱给父亲治病急到撞墙",
+      "onboard_time": 1736157024,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141369,
       "num": 141369,
       "word": "张彬彬新剧道心不稳",
@@ -1569,14 +1617,6 @@
       "onboard_time": 1736118497,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 137882,
-      "num": 137882,
-      "word": "孙颖莎打上天的神仙球入选十佳球",
-      "onboard_time": 1736155585,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 137488,
@@ -1707,6 +1747,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125751,
+      "num": 521671,
+      "word": "关于甲流这些知识你要了解",
+      "onboard_time": 1736156484,
+      "rank": 2,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 125652,
+      "num": 125652,
+      "word": "WTT除了赚钱送祝褔更应解答疑惑",
+      "onboard_time": 1736157623,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125528,
       "num": 382946,
       "word": "想花40万装修500平的家安装要50万",
@@ -1755,6 +1811,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 122198,
+      "num": 509692,
+      "word": "老人因套餐流量清零起诉移动败诉",
+      "onboard_time": 1736154205,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121506,
       "num": 173614,
       "word": "WTT年度十佳球",
@@ -1779,6 +1843,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 120971,
+      "num": 120971,
+      "word": "易烊千玺狠起来连自己都骂",
+      "onboard_time": 1736158884,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 120344,
       "num": 109789,
       "word": "boynextdoor新歌大事太妙",
@@ -1793,6 +1865,14 @@
       "onboard_time": 1736149049,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 118372,
+      "num": 265774,
+      "word": "汪苏泷去年微博之夜的发言做到了",
+      "onboard_time": 1736156004,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 117726,
@@ -1827,6 +1907,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 115720,
+      "num": 115720,
+      "word": "无人机操控员人才缺口达百万",
+      "onboard_time": 1736155344,
+      "rank": 47,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 115449,
       "num": 337669,
       "word": "楼团家族粉开年就吃上好的了",
@@ -1857,6 +1945,14 @@
       "onboard_time": 1736153965,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114175,
+      "num": 114175,
+      "word": "易烊千玺让过去在新年闪闪发光",
+      "onboard_time": 1736158764,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 113622,
@@ -1955,14 +2051,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 105466,
-      "num": 105466,
-      "word": "无人机操控员人才缺口达百万",
-      "onboard_time": 1736155344,
-      "rank": 47,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 104861,
       "num": 104861,
       "word": "Irene出发上海",
@@ -1979,20 +2067,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 101638,
-      "num": 509692,
-      "word": "老人因套餐流量清零起诉移动败诉",
-      "onboard_time": 1736154205,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101626,
       "num": 101626,
       "word": "央视起底虹膜写真暗藏风险",
       "onboard_time": 1736089469,
       "rank": 44,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 98345,
+      "num": 119592,
+      "word": "林诗栋入选世界乒联年度十佳球",
+      "onboard_time": 1736157623,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 97313,
@@ -2179,6 +2267,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 73423,
+      "num": 260962,
+      "word": "一个大厂年轻人被预制菜包裹",
+      "onboard_time": 1736158583,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71508,
       "num": 71508,
       "word": "这3种人请深交一辈子",
@@ -2195,12 +2291,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 71249,
-      "num": 265774,
-      "word": "汪苏泷去年微博之夜的发言做到了",
-      "onboard_time": 1736156004,
-      "rank": 19,
-      "category": "作品衍生"
+      "raw_hot": 70034,
+      "num": 210874,
+      "word": "沧州雄狮未获准入",
+      "onboard_time": 1736158884,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 69192,
@@ -2209,6 +2305,14 @@
       "onboard_time": 1736133743,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 68927,
+      "num": 344494,
+      "word": "警方回应山西垣曲一道路摄像头密集",
+      "onboard_time": 1736158224,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68793,
@@ -2387,6 +2491,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 31694,
+      "num": 119869,
+      "word": "雅官宣微博之夜",
+      "onboard_time": 1736157564,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 31672,
       "num": 40424,
       "word": "鸣潮2.0版本",
@@ -2427,6 +2539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26025,
+      "num": 221729,
+      "word": "2025江苏卫视春晚官宣",
+      "onboard_time": 1736157024,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 25815,
       "num": 40419,
       "word": "AG南京见",
@@ -2457,6 +2577,14 @@
       "onboard_time": 1736089230,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19213,
+      "num": 221187,
+      "word": "张碧晨微博之夜官宣",
+      "onboard_time": 1736158343,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 18471,

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736156299874,
+  "endTime": 1736159105132,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1899,6 +1899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 832626,
+      "num": 1133220,
+      "word": "李现再现韩商言经典手势",
+      "onboard_time": 1736155944,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 832603,
       "num": 832603,
       "word": "官方回应罚款已退并批评相关人员",
@@ -2113,6 +2121,14 @@
       "onboard_time": 1736134464,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 774728,
+      "num": 571384,
+      "word": "男子给女友转账100万分手后起诉对方",
+      "onboard_time": 1736153906,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 773720,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1736075667,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 691380,
-      "num": 691380,
-      "word": "谈宋惹了全世界也要轻轻举起黄橙子",
-      "onboard_time": 1736035824,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 690337,
-      "num": 444819,
-      "word": "国际乒联调查组被疑是自查",
-      "onboard_time": 1736085511,
-      "rank": 31,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
