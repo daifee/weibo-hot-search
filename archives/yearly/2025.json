@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736159105132,
+  "endTime": 1736160125540,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1891,19 +1891,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 842528,
+      "num": 1134804,
+      "word": "李现再现韩商言经典手势",
+      "onboard_time": 1736155944,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 832820,
       "num": 393444,
       "word": "电视剧轧戏",
       "onboard_time": 1735698200,
       "rank": 13,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 832626,
-      "num": 1133220,
-      "word": "李现再现韩商言经典手势",
-      "onboard_time": 1736155944,
-      "rank": 26,
       "category": "剧集"
     },
     {

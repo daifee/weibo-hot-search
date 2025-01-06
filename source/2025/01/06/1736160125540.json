@@ -1,0 +1,410 @@
+{
+  "runTime": 1736160125540,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 842528,
+        "num": 1134804,
+        "word": "李现再现韩商言经典手势",
+        "onboard_time": 1736155944,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 542057,
+        "num": 542057,
+        "word": "鸡窝头女士收拾漂亮去上班",
+        "onboard_time": 1736134642,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124439,
+        "num": 417334,
+        "word": "关于甲流这些知识你要了解",
+        "onboard_time": 1736156484,
+        "rank": 2,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 628286,
+        "num": 416886,
+        "word": "男子给女友转账100万分手后起诉对方",
+        "onboard_time": 1736153906,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414992,
+        "num": 414992,
+        "word": "19岁大学生突发疾病脑死亡",
+        "onboard_time": 1736153365,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8640697,
+        "num": 404051,
+        "word": "鹿晗道歉",
+        "onboard_time": 1736148990,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388900,
+        "num": 388900,
+        "word": "妙瓦底",
+        "onboard_time": 1736138067,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290422,
+        "num": 290422,
+        "word": "kimi崩了",
+        "onboard_time": 1736153006,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 591752,
+        "num": 290412,
+        "word": "田曦薇星光大赏被anti",
+        "onboard_time": 1736146822,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 229993,
+        "num": 229993,
+        "word": "代号鸢",
+        "onboard_time": 1736159483,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2204087,
+        "num": 229575,
+        "word": "鹿晗社交平台被禁止关注",
+        "onboard_time": 1736147422,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1313954,
+        "num": 228978,
+        "word": "韦雪直播掉美颜",
+        "onboard_time": 1736151567,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 323249,
+        "num": 228127,
+        "word": "演员星星泰国试戏失联已超60小时",
+        "onboard_time": 1736159184,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103428,
+        "num": 227066,
+        "word": "一个大厂年轻人被预制菜包裹",
+        "onboard_time": 1736158583,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60986,
+        "num": 226524,
+        "word": "消费券抵工资公司负责人被约谈",
+        "onboard_time": 1736159602,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430940,
+        "num": 225618,
+        "word": "虞书欣 走你",
+        "onboard_time": 1736154267,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405060,
+        "num": 224768,
+        "word": "抖音副总裁回应用户将钱读成米",
+        "onboard_time": 1736142803,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 369189,
+        "num": 223744,
+        "word": "演员星星女友已落地曼谷",
+        "onboard_time": 1736153186,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322729,
+        "num": 222653,
+        "word": "李现说杨紫两页纸台词一条过",
+        "onboard_time": 1736157505,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17766,
+        "num": 222258,
+        "word": "男子辟谣假父认儿为养老",
+        "onboard_time": 1736159843,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339565,
+        "num": 221210,
+        "word": "女子吃5斤车厘子后发高烧",
+        "onboard_time": 1736146643,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116911,
+        "num": 220497,
+        "word": "警方回应山西垣曲一道路摄像头密集",
+        "onboard_time": 1736158224,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269344,
+        "num": 219445,
+        "word": "颜十六账号因违规已被封禁",
+        "onboard_time": 1736157083,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9029,
+        "num": 218292,
+        "word": "袁娅维微博之夜官宣",
+        "onboard_time": 1736160024,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 71872,
+        "num": 218191,
+        "word": "沧州雄狮足球俱乐部已成被执行人",
+        "onboard_time": 1736160024,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196416,
+        "num": 216551,
+        "word": "男子求朋友还钱给父亲治病急到撞墙",
+        "onboard_time": 1736157024,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216548,
+        "num": 216548,
+        "word": "原神",
+        "onboard_time": 1736159602,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194028,
+        "num": 194028,
+        "word": "缅甸妙瓦底系网络诈骗的大本营",
+        "onboard_time": 1736150249,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32643,
+        "num": 192274,
+        "word": "张碧晨微博之夜官宣",
+        "onboard_time": 1736158343,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191870,
+        "num": 191870,
+        "word": "易烊千玺狠起来连自己都骂",
+        "onboard_time": 1736158884,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183499,
+        "num": 183499,
+        "word": "张新成背丁禹兮路透",
+        "onboard_time": 1736158163,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179092,
+        "num": 179092,
+        "word": "杨紫25年首套高定造型",
+        "onboard_time": 1736148567,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173324,
+        "num": 173324,
+        "word": "驻缅甸大使馆回应演员星星失联",
+        "onboard_time": 1736144722,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167966,
+        "num": 167966,
+        "word": "春节档徐克肖战版射雕自带期待值",
+        "onboard_time": 1736159483,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165952,
+        "num": 165952,
+        "word": "外交部新任发言人郭嘉昆亮相",
+        "onboard_time": 1736149906,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 66332,
+        "num": 164669,
+        "word": "沧州雄狮未获准入",
+        "onboard_time": 1736158884,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164599,
+        "num": 164599,
+        "word": "张艺兴刘诗诗林允儿新年大片",
+        "onboard_time": 1736155707,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 161796,
+        "num": 161796,
+        "word": "孙颖莎打上天的神仙球入选十佳球",
+        "onboard_time": 1736155585,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161047,
+        "num": 161047,
+        "word": "国家反诈中心曾提醒请勿前往妙瓦底",
+        "onboard_time": 1736150787,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153388,
+        "num": 153388,
+        "word": "回流人员曾称去了妙瓦底真的会死",
+        "onboard_time": 1736159184,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153334,
+        "num": 153334,
+        "word": "太好了是长发秦岚",
+        "onboard_time": 1736147543,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146949,
+        "num": 146949,
+        "word": "演员王星是否在妙瓦底有待核实",
+        "onboard_time": 1736136505,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146230,
+        "num": 146230,
+        "word": "高三班主任给全班煮了个泡面塔",
+        "onboard_time": 1736144362,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140637,
+        "num": 140637,
+        "word": "大奉打更人",
+        "onboard_time": 1736159364,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134756,
+        "num": 134756,
+        "word": "演员范虎怒斥徐大久提供假消息",
+        "onboard_time": 1736149950,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130661,
+        "num": 130661,
+        "word": "周润发 唐探1900",
+        "onboard_time": 1736158704,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129684,
+        "num": 129684,
+        "word": "老人因套餐流量清零起诉移动败诉",
+        "onboard_time": 1736154205,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122435,
+        "num": 122435,
+        "word": "迪丽热巴 青壮年艺术家",
+        "onboard_time": 1736148688,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120905,
+        "num": 120905,
+        "word": "WTT发文感谢樊振东",
+        "onboard_time": 1736153006,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120534,
+        "num": 120534,
+        "word": "汪苏泷去年微博之夜的发言做到了",
+        "onboard_time": 1736156004,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#以零容忍态度反腐惩恶#"
+    }
+  }
+}
