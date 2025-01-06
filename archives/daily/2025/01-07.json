@@ -1,6 +1,6 @@
 {
   "startTime": 1736180901032,
-  "endTime": 1736195811410,
+  "endTime": 1736198462689,
   "band_list": [
     {
       "raw_hot": 1161063,
@@ -435,8 +435,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 43109,
-      "num": 37254,
+      "raw_hot": 43403,
+      "num": 38919,
       "word": "25岁理发师双手和脸不像一个人的",
       "onboard_time": 1736191991,
       "rank": 48,
@@ -563,8 +563,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 16553,
-      "num": 16553,
+      "raw_hot": 17811,
+      "num": 17811,
       "word": "贪官开会长篇大论散会吃喝玩乐",
       "onboard_time": 1736193192,
       "rank": 36,
@@ -595,12 +595,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 11895,
+      "num": 14482,
+      "word": "工程院院士王正国逝世",
+      "onboard_time": 1736196850,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10997,
       "num": 37151,
       "word": "深入推进风腐同查同治",
       "onboard_time": 1736190791,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 9276,
+      "num": 38929,
+      "word": "向兰香扔瓶子游客已被警方控制",
+      "onboard_time": 1736198060,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7657,
