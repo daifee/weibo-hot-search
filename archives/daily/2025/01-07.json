@@ -1,6 +1,6 @@
 {
   "startTime": 1736180901032,
-  "endTime": 1736191085392,
+  "endTime": 1736192150662,
   "band_list": [
     {
       "raw_hot": 1161063,
@@ -523,16 +523,16 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 20597,
-      "num": 22423,
+      "raw_hot": 22518,
+      "num": 24472,
       "word": "向大熊猫兰香扔可乐男子被行政处罚",
       "onboard_time": 1736189412,
       "rank": 33,
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 20493,
-      "num": 20493,
+      "raw_hot": 20578,
+      "num": 24441,
       "word": "虞书欣星光大赏全平台登顶",
       "onboard_time": 1736190312,
       "rank": 38,
@@ -563,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 15203,
+      "num": 24382,
+      "word": "25岁理发师双手和脸不像一个人的",
+      "onboard_time": 1736191991,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14298,
       "num": 65545,
       "word": "始终保持反腐败永远在路上的坚韧执着",
@@ -577,6 +585,14 @@
       "onboard_time": 1736190791,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10718,
+      "num": 51712,
+      "word": "贪官深信当上一把手是靠骗子运作",
+      "onboard_time": 1736191511,
+      "rank": 9,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
