@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736132802616,
+  "endTime": 1736134263886,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -136,6 +136,14 @@
       "word": "李明德老先生们我尽力了",
       "onboard_time": 1736077046,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2398720,
+      "num": 536532,
+      "word": "多位明星转发演员星星失联消息",
+      "onboard_time": 1736134101,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -339,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1056057,
+      "num": 530872,
+      "word": "颜十六",
+      "onboard_time": 1736129120,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1008575,
       "num": 3584109,
       "word": "于正谈年轻时被不公平对待",
@@ -360,14 +376,6 @@
       "word": "李明德涨粉",
       "onboard_time": 1736043096,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 998360,
-      "num": 530872,
-      "word": "颜十六",
-      "onboard_time": 1736129120,
-      "rank": 46,
       "category": "艺人"
     },
     {
@@ -451,20 +459,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 872790,
+      "num": 872790,
+      "word": "哪吒汽车",
+      "onboard_time": 1736129001,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 864780,
       "num": 864780,
       "word": "王星越演我嗑虞书欣丁禹兮",
       "onboard_time": 1736005295,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 843704,
-      "num": 843704,
-      "word": "哪吒汽车",
-      "onboard_time": 1736129001,
-      "rank": 27,
-      "category": "汽车"
     },
     {
       "raw_hot": 822927,
@@ -528,6 +536,14 @@
       "word": "被家暴16次女子总结2024",
       "onboard_time": 1736058268,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 730888,
+      "num": 1410025,
+      "word": "假父回应错认儿子16年是看男子可怜",
+      "onboard_time": 1736131161,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -707,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 562429,
+      "num": 515203,
+      "word": "唐探1900演员阵容",
+      "onboard_time": 1736132180,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 554927,
       "num": 554927,
       "word": "王锵上线了",
@@ -723,20 +747,28 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 549658,
-      "num": 1033240,
-      "word": "假父回应错认儿子16年是看男子可怜",
-      "onboard_time": 1736131161,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 542739,
       "num": 238202,
       "word": "古剑奇谭含塌量还在上升",
       "onboard_time": 1736082630,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 540134,
+      "num": 540134,
+      "word": "男子向大熊猫兰香砸整瓶可乐",
+      "onboard_time": 1736131761,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 536989,
+      "num": 478865,
+      "word": "GMM",
+      "onboard_time": 1736132662,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 530858,
@@ -908,7 +940,7 @@
     },
     {
       "raw_hot": 433946,
-      "num": 235974,
+      "num": 284727,
       "word": "建议买草莓一定不要买盆装的",
       "onboard_time": 1736121320,
       "rank": 21,
@@ -1171,6 +1203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 348131,
+      "num": 348131,
+      "word": "美国队长4定档",
+      "onboard_time": 1736132780,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 347539,
       "num": 347539,
       "word": "杨紫国色芳华大婚造型",
@@ -1257,6 +1297,22 @@
       "onboard_time": 1736034498,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 316242,
+      "num": 316242,
+      "word": "孙颖莎 半亩花田",
+      "onboard_time": 1736132180,
+      "rank": 49,
+      "category": "体育,美妆"
+    },
+    {
+      "raw_hot": 314803,
+      "num": 269049,
+      "word": "单依纯 没有碳水怎么活啊",
+      "onboard_time": 1736133021,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 313832,
@@ -1491,6 +1547,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 263363,
+      "num": 511994,
+      "word": "多地消费者遭遇加油站作弊",
+      "onboard_time": 1736131462,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 258787,
       "num": 5126842,
       "word": "江苏一地最新公布新生儿爆款名字",
@@ -1635,6 +1699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 240171,
+      "num": 240171,
+      "word": "马龙不认同自己是历史最伟大球员",
+      "onboard_time": 1736132780,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239084,
       "num": 2754062,
       "word": "大奉打更人17集20分03秒",
@@ -1683,36 +1755,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 232652,
-      "num": 232652,
-      "word": "美国队长4定档",
-      "onboard_time": 1736132780,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 232123,
-      "num": 232123,
-      "word": "男子向大熊猫兰香砸整瓶可乐",
-      "onboard_time": 1736131761,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 231894,
       "num": 231894,
       "word": "美国在俄乌冲突升级前暗中武装乌克兰",
       "onboard_time": 1736119940,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 230725,
-      "num": 230725,
-      "word": "孙颖莎 半亩花田",
-      "onboard_time": 1736132180,
-      "rank": 49,
-      "category": "体育,美妆"
     },
     {
       "raw_hot": 229666,
@@ -1811,6 +1859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218224,
+      "num": 218224,
+      "word": "金球奖",
+      "onboard_time": 1736132062,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 217857,
       "num": 217857,
       "word": "顺风车司机将女子高速赶下车被行拘",
@@ -1857,14 +1913,6 @@
       "onboard_time": 1736003856,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 211306,
-      "num": 211306,
-      "word": "唐探1900演员阵容",
-      "onboard_time": 1736132180,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 210995,
@@ -1939,6 +1987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205096,
+      "num": 205096,
+      "word": "舒淇 雅诗兰黛",
+      "onboard_time": 1736133261,
+      "rank": 32,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 205004,
       "num": 455009,
       "word": "央视起底虹膜写真暗藏风险",
@@ -1985,6 +2041,14 @@
       "onboard_time": 1736054549,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201531,
+      "num": 201531,
+      "word": "陕西蒲城通报一职校学生坠楼",
+      "onboard_time": 1736128160,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200238,
@@ -2083,16 +2147,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192743,
-      "num": 192743,
-      "word": "金球奖",
-      "onboard_time": 1736132062,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 187588,
-      "num": 187588,
+      "num": 210338,
       "word": "玛巴洛沙韦和奥司他韦有啥区别",
       "onboard_time": 1736131761,
       "rank": 33,
@@ -2105,6 +2161,14 @@
       "onboard_time": 1736033418,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186309,
+      "num": 186309,
+      "word": "首个非遗春节你们玩这么花",
+      "onboard_time": 1736133681,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 186303,
@@ -2121,14 +2185,6 @@
       "onboard_time": 1736120178,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 183968,
-      "num": 183968,
-      "word": "陕西蒲城通报一职校学生坠楼",
-      "onboard_time": 1736128160,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 183630,
@@ -2219,14 +2275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 170761,
-      "num": 511994,
-      "word": "多地消费者遭遇加油站作弊",
-      "onboard_time": 1736131462,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 170240,
       "num": 505024,
       "word": "孟子义退场和李昀锐打招呼",
@@ -2257,6 +2305,14 @@
       "onboard_time": 1736050229,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168410,
+      "num": 168410,
+      "word": "会计比对顾总钱总朋友圈保住400万",
+      "onboard_time": 1736131939,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167894,
@@ -2331,6 +2387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160246,
+      "num": 160246,
+      "word": "A股牛走了吗",
+      "onboard_time": 1736129301,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 159043,
       "num": 295736,
       "word": "国色芳华OST试听",
@@ -2371,20 +2435,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157436,
+      "num": 512691,
+      "word": "江苏流感病例数或将持续上升",
+      "onboard_time": 1736128522,
+      "rank": 49,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 157183,
       "num": 157183,
       "word": "陈都灵努力社交辛云来默默喝水",
       "onboard_time": 1736060126,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 157052,
-      "num": 157052,
-      "word": "会计比对顾总钱总朋友圈保住400万",
-      "onboard_time": 1736131939,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 154854,
@@ -2473,14 +2537,6 @@
       "onboard_time": 1736130502,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 149525,
-      "num": 149525,
-      "word": "A股牛走了吗",
-      "onboard_time": 1736129301,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 148495,
@@ -2603,6 +2659,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 135432,
+      "num": 135432,
+      "word": "陕西坠亡学生事发前与同学争执",
+      "onboard_time": 1736128882,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135339,
       "num": 135339,
       "word": "人民群众痛恨什么就要坚决防范什么",
@@ -2657,14 +2721,6 @@
       "onboard_time": 1736068885,
       "rank": 18,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 130616,
-      "num": 130616,
-      "word": "陕西坠亡学生事发前与同学争执",
-      "onboard_time": 1736128882,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 130449,
@@ -3019,14 +3075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103478,
-      "num": 103478,
-      "word": "江苏流感病例数或将持续上升",
-      "onboard_time": 1736128522,
-      "rank": 49,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 101346,
       "num": 101346,
       "word": "九重紫",
@@ -3035,28 +3083,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 101105,
-      "num": 207635,
-      "word": "马龙不认同自己是历史最伟大球员",
-      "onboard_time": 1736132780,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 100567,
       "num": 492924,
       "word": "张远 抽象是会传染的",
       "onboard_time": 1736068524,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 99707,
-      "num": 213983,
-      "word": "GMM",
-      "onboard_time": 1736132662,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 98278,
@@ -3241,6 +3273,14 @@
       "onboard_time": 1736003315,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81068,
+      "num": 349299,
+      "word": "虹膜写真图可破解虹膜门锁",
+      "onboard_time": 1736133021,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 80711,
@@ -3763,6 +3803,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 30230,
+      "num": 288829,
+      "word": "小小的我也可看成是女性主义的探索",
+      "onboard_time": 1736133743,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 30229,
       "num": 297212,
       "word": "老人沉迷直播间假古董背上高额贷款",
@@ -3881,6 +3929,14 @@
       "onboard_time": 1736076506,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17849,
+      "num": 164490,
+      "word": "小泉眼如何变成万里长江",
+      "onboard_time": 1736133861,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 17204,

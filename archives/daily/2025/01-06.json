@@ -1,6 +1,6 @@
 {
   "startTime": 1736094308497,
-  "endTime": 1736132802616,
+  "endTime": 1736134263886,
   "band_list": [
     {
       "raw_hot": 4267121,
@@ -8,6 +8,14 @@
       "word": "演员星星在泰缅边境失联",
       "onboard_time": 1736121019,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2398720,
+      "num": 536532,
+      "word": "多位明星转发演员星星失联消息",
+      "onboard_time": 1736134101,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -59,7 +67,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 998360,
+      "raw_hot": 1056057,
       "num": 530872,
       "word": "颜十六",
       "onboard_time": 1736129120,
@@ -67,8 +75,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 843704,
-      "num": 843704,
+      "raw_hot": 872790,
+      "num": 872790,
       "word": "哪吒汽车",
       "onboard_time": 1736129001,
       "rank": 27,
@@ -81,6 +89,14 @@
       "onboard_time": 1736119577,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 730888,
+      "num": 1410025,
+      "word": "假父回应错认儿子16年是看男子可怜",
+      "onboard_time": 1736131161,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 702186,
@@ -123,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 562429,
+      "num": 515203,
+      "word": "唐探1900演员阵容",
+      "onboard_time": 1736132180,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 558820,
       "num": 203321,
       "word": "至此已成艺术",
@@ -131,12 +155,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 549658,
-      "num": 1033240,
-      "word": "假父回应错认儿子16年是看男子可怜",
-      "onboard_time": 1736131161,
-      "rank": 15,
+      "raw_hot": 540134,
+      "num": 540134,
+      "word": "男子向大熊猫兰香砸整瓶可乐",
+      "onboard_time": 1736131761,
+      "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 536989,
+      "num": 478865,
+      "word": "GMM",
+      "onboard_time": 1736132662,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 523550,
@@ -212,7 +244,7 @@
     },
     {
       "raw_hot": 433946,
-      "num": 235974,
+      "num": 284727,
       "word": "建议买草莓一定不要买盆装的",
       "onboard_time": 1736121320,
       "rank": 21,
@@ -283,6 +315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 348131,
+      "num": 348131,
+      "word": "美国队长4定档",
+      "onboard_time": 1736132780,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 347539,
       "num": 347539,
       "word": "杨紫国色芳华大婚造型",
@@ -305,6 +345,22 @@
       "onboard_time": 1736127621,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 316242,
+      "num": 316242,
+      "word": "孙颖莎 半亩花田",
+      "onboard_time": 1736132180,
+      "rank": 49,
+      "category": "体育,美妆"
+    },
+    {
+      "raw_hot": 314803,
+      "num": 269049,
+      "word": "单依纯 没有碳水怎么活啊",
+      "onboard_time": 1736133021,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 306938,
@@ -355,6 +411,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 263363,
+      "num": 511994,
+      "word": "多地消费者遭遇加油站作弊",
+      "onboard_time": 1736131462,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 259959,
       "num": 259959,
       "word": "王俊凯玩无畏契约",
@@ -387,6 +451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 240171,
+      "num": 240171,
+      "word": "马龙不认同自己是历史最伟大球员",
+      "onboard_time": 1736132780,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239000,
       "num": 239000,
       "word": "90岁网红奶奶去世",
@@ -403,36 +475,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 232652,
-      "num": 232652,
-      "word": "美国队长4定档",
-      "onboard_time": 1736132780,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 232123,
-      "num": 232123,
-      "word": "男子向大熊猫兰香砸整瓶可乐",
-      "onboard_time": 1736131761,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 231894,
       "num": 231894,
       "word": "美国在俄乌冲突升级前暗中武装乌克兰",
       "onboard_time": 1736119940,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 230725,
-      "num": 230725,
-      "word": "孙颖莎 半亩花田",
-      "onboard_time": 1736132180,
-      "rank": 49,
-      "category": "体育,美妆"
     },
     {
       "raw_hot": 229276,
@@ -459,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218224,
+      "num": 218224,
+      "word": "金球奖",
+      "onboard_time": 1736132062,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 217857,
       "num": 217857,
       "word": "顺风车司机将女子高速赶下车被行拘",
@@ -473,14 +529,6 @@
       "onboard_time": 1736120479,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 211306,
-      "num": 211306,
-      "word": "唐探1900演员阵容",
-      "onboard_time": 1736132180,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 207328,
@@ -507,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205096,
+      "num": 205096,
+      "word": "舒淇 雅诗兰黛",
+      "onboard_time": 1736133261,
+      "rank": 32,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 204756,
       "num": 182882,
       "word": "祝绪丹丁禹兮 最好的慕家姐弟",
@@ -523,20 +579,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201531,
+      "num": 201531,
+      "word": "陕西蒲城通报一职校学生坠楼",
+      "onboard_time": 1736128160,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194533,
       "num": 194533,
       "word": "男孩嘴唇开裂奶奶给整了个偏方",
       "onboard_time": 1736113692,
       "rank": 35,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 192743,
-      "num": 192743,
-      "word": "金球奖",
-      "onboard_time": 1736132062,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 189915,
@@ -548,11 +604,19 @@
     },
     {
       "raw_hot": 187588,
-      "num": 187588,
+      "num": 210338,
       "word": "玛巴洛沙韦和奥司他韦有啥区别",
       "onboard_time": 1736131761,
       "rank": 33,
       "category": "健康医疗,运动健身"
+    },
+    {
+      "raw_hot": 186309,
+      "num": 186309,
+      "word": "首个非遗春节你们玩这么花",
+      "onboard_time": 1736133681,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 184086,
@@ -563,14 +627,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 183968,
-      "num": 183968,
-      "word": "陕西蒲城通报一职校学生坠楼",
-      "onboard_time": 1736128160,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 178908,
       "num": 178908,
       "word": "永夜星河售后",
@@ -579,20 +635,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 170761,
-      "num": 511994,
-      "word": "多地消费者遭遇加油站作弊",
-      "onboard_time": 1736131462,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 170524,
       "num": 170524,
       "word": "李现来到了谢之遥的有风小院",
       "onboard_time": 1736084370,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168410,
+      "num": 168410,
+      "word": "会计比对顾总钱总朋友圈保住400万",
+      "onboard_time": 1736131939,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167894,
@@ -619,6 +675,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 160246,
+      "num": 160246,
+      "word": "A股牛走了吗",
+      "onboard_time": 1736129301,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 158143,
       "num": 158143,
       "word": "这只老虎怎么猫里猫气的",
@@ -635,12 +699,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 157052,
-      "num": 157052,
-      "word": "会计比对顾总钱总朋友圈保住400万",
-      "onboard_time": 1736131939,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 157436,
+      "num": 512691,
+      "word": "江苏流感病例数或将持续上升",
+      "onboard_time": 1736128522,
+      "rank": 49,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 152854,
@@ -657,14 +721,6 @@
       "onboard_time": 1736130502,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 149525,
-      "num": 149525,
-      "word": "A股牛走了吗",
-      "onboard_time": 1736129301,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 141369,
@@ -707,6 +763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 135432,
+      "num": 135432,
+      "word": "陕西坠亡学生事发前与同学争执",
+      "onboard_time": 1736128882,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135339,
       "num": 135339,
       "word": "人民群众痛恨什么就要坚决防范什么",
@@ -736,14 +800,6 @@
       "word": "央视著名主持人海霞谈反腐",
       "onboard_time": 1736118196,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 130616,
-      "num": 130616,
-      "word": "陕西坠亡学生事发前与同学争执",
-      "onboard_time": 1736128882,
-      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -859,36 +915,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 103478,
-      "num": 103478,
-      "word": "江苏流感病例数或将持续上升",
-      "onboard_time": 1736128522,
-      "rank": 49,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 101626,
       "num": 101626,
       "word": "央视起底虹膜写真暗藏风险",
       "onboard_time": 1736089469,
       "rank": 44,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 101105,
-      "num": 207635,
-      "word": "马龙不认同自己是历史最伟大球员",
-      "onboard_time": 1736132780,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 99707,
-      "num": 213983,
-      "word": "GMM",
-      "onboard_time": 1736132662,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 92375,
@@ -961,6 +993,14 @@
       "onboard_time": 1736097557,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81068,
+      "num": 349299,
+      "word": "虹膜写真图可破解虹膜门锁",
+      "onboard_time": 1736133021,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 78898,
@@ -1091,6 +1131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 30230,
+      "num": 288829,
+      "word": "小小的我也可看成是女性主义的探索",
+      "onboard_time": 1736133743,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 27816,
       "num": 101836,
       "word": "专家解读为何冰下自救这么难",
@@ -1129,6 +1177,14 @@
       "onboard_time": 1736089230,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17849,
+      "num": 164490,
+      "word": "小泉眼如何变成万里长江",
+      "onboard_time": 1736133861,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 16347,
