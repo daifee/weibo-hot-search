@@ -1,6 +1,6 @@
 {
   "startTime": 1736180901032,
-  "endTime": 1736194958291,
+  "endTime": 1736195811410,
   "band_list": [
     {
       "raw_hot": 1161063,
@@ -435,20 +435,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43109,
+      "num": 37254,
+      "word": "25岁理发师双手和脸不像一个人的",
+      "onboard_time": 1736191991,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38600,
       "num": 109449,
       "word": "文化中国行腊八节",
       "onboard_time": 1736183056,
       "rank": 19,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 37254,
-      "num": 37254,
-      "word": "25岁理发师双手和脸不像一个人的",
-      "onboard_time": 1736191991,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37129,
@@ -563,8 +563,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 15627,
-      "num": 15627,
+      "raw_hot": 16553,
+      "num": 16553,
       "word": "贪官开会长篇大论散会吃喝玩乐",
       "onboard_time": 1736193192,
       "rank": 36,
