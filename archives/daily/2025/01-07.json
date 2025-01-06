@@ -1,6 +1,6 @@
 {
   "startTime": 1736180901032,
-  "endTime": 1736192150662,
+  "endTime": 1736194958291,
   "band_list": [
     {
       "raw_hot": 1161063,
@@ -443,6 +443,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 37254,
+      "num": 37254,
+      "word": "25岁理发师双手和脸不像一个人的",
+      "onboard_time": 1736191991,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37129,
       "num": 108320,
       "word": "甲流",
@@ -555,6 +563,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 15627,
+      "num": 15627,
+      "word": "贪官开会长篇大论散会吃喝玩乐",
+      "onboard_time": 1736193192,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15517,
+      "num": 51712,
+      "word": "贪官深信当上一把手是靠骗子运作",
+      "onboard_time": 1736191511,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15416,
       "num": 61664,
       "word": "杨紫李现谈二搭感受",
@@ -563,15 +587,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 15203,
-      "num": 24382,
-      "word": "25岁理发师双手和脸不像一个人的",
-      "onboard_time": 1736191991,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14298,
+      "raw_hot": 14538,
       "num": 65545,
       "word": "始终保持反腐败永远在路上的坚韧执着",
       "onboard_time": 1736186235,
@@ -587,12 +603,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 10718,
-      "num": 51712,
-      "word": "贪官深信当上一把手是靠骗子运作",
-      "onboard_time": 1736191511,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 7657,
+      "num": 15288,
+      "word": "4个暴汗动作甩掉小肚腩",
+      "onboard_time": 1736194091,
+      "rank": 39,
+      "category": "运动健身"
     }
   ],
   "hotgov_list": [
