@@ -1,0 +1,410 @@
+{
+  "runTime": 1736152169744,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 16088904,
+        "num": 16088904,
+        "word": "鹿晗道歉",
+        "onboard_time": 1736148990,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 853005,
+        "num": 853005,
+        "word": "鸡窝头女士收拾漂亮去上班",
+        "onboard_time": 1736134642,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32372,
+        "num": 640552,
+        "word": "打卡中华文化种子库",
+        "onboard_time": 1736136143,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 571496,
+        "num": 571496,
+        "word": "12306崩了",
+        "onboard_time": 1736148207,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 423270,
+        "num": 423270,
+        "word": "外交部新任发言人郭嘉昆亮相",
+        "onboard_time": 1736149906,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 10669021,
+        "num": 419970,
+        "word": "鹿晗社交平台被禁止关注",
+        "onboard_time": 1736147422,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 957080,
+        "num": 410055,
+        "word": "田曦薇星光大赏被anti",
+        "onboard_time": 1736146822,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 273369,
+        "num": 403740,
+        "word": "河北邯郸3.0级地震",
+        "onboard_time": 1736145562,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 270905,
+        "num": 401531,
+        "word": "韩国小狗与遇难家人告别全程安静",
+        "onboard_time": 1736138488,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 69577,
+        "num": 396065,
+        "word": "看电影你是i人还是e人",
+        "onboard_time": 1736150848,
+        "rank": 9,
+        "category": "电影,幽默"
+      },
+      {
+        "raw_hot": 823068,
+        "num": 383368,
+        "word": "韦雪直播掉美颜",
+        "onboard_time": 1736151567,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 521324,
+        "num": 378895,
+        "word": "抖音副总裁回应用户将钱读成米",
+        "onboard_time": 1736142803,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 466734,
+        "num": 370510,
+        "word": "演员王星是否在妙瓦底有待核实",
+        "onboard_time": 1736136505,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369737,
+        "num": 369737,
+        "word": "太好了是长发秦岚",
+        "onboard_time": 1736147543,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340332,
+        "num": 340332,
+        "word": "演员星星曾出演玫瑰的故事",
+        "onboard_time": 1736148328,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241261,
+        "num": 339672,
+        "word": "缅甸妙瓦底系网络诈骗的大本营",
+        "onboard_time": 1736150249,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240823,
+        "num": 336991,
+        "word": "李现 现男友变现老公了",
+        "onboard_time": 1736147122,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158652,
+        "num": 336289,
+        "word": "6岁男童上学时独自离园2次未被发现",
+        "onboard_time": 1736148508,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149066,
+        "num": 333700,
+        "word": "环卫工翻4吨垃圾找回小伙23万彩礼",
+        "onboard_time": 1736145383,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148179,
+        "num": 332121,
+        "word": "国家反诈中心曾提醒请勿前往妙瓦底",
+        "onboard_time": 1736150787,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 639245,
+        "num": 330702,
+        "word": "女子吃5斤车厘子后发高烧",
+        "onboard_time": 1736146643,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249082,
+        "num": 329800,
+        "word": "工藤静香官宣微博之夜",
+        "onboard_time": 1736148688,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 328141,
+        "num": 328141,
+        "word": "迪丽热巴 青壮年艺术家",
+        "onboard_time": 1736148688,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 313781,
+        "num": 313781,
+        "word": "杨紫25年首套高定造型",
+        "onboard_time": 1736148567,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243299,
+        "num": 243299,
+        "word": "演员范虎怒斥徐大久提供假消息",
+        "onboard_time": 1736149950,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207904,
+        "num": 243014,
+        "word": "高三班主任给全班煮了个泡面塔",
+        "onboard_time": 1736144362,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 199692,
+        "num": 242914,
+        "word": "减肥不吃晚餐不会痩",
+        "onboard_time": 1736145142,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115449,
+        "num": 242911,
+        "word": "楼团家族粉开年就吃上好的了",
+        "onboard_time": 1736151567,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 242909,
+        "num": 242909,
+        "word": "杨紫的台词不看文字都能听清",
+        "onboard_time": 1736150729,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132196,
+        "num": 231620,
+        "word": "苹果AI要求预留7GB空间",
+        "onboard_time": 1736147905,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 229558,
+        "num": 229558,
+        "word": "驻缅甸大使馆回应演员星星失联",
+        "onboard_time": 1736144722,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200586,
+        "num": 200586,
+        "word": "成毅 要签名包给的",
+        "onboard_time": 1736150848,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185465,
+        "num": 185465,
+        "word": "黄子韬为失联演员星星发声",
+        "onboard_time": 1736151567,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184370,
+        "num": 184370,
+        "word": "颜安直播",
+        "onboard_time": 1736151807,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131598,
+        "num": 176819,
+        "word": "两个恋爱脑和一个大馋丫头",
+        "onboard_time": 1736144422,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79050,
+        "num": 176743,
+        "word": "驻站人贩子剃头拐卖孩子",
+        "onboard_time": 1736149770,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176733,
+        "num": 176733,
+        "word": "徐克版射雕是浪漫主义还是现实主义",
+        "onboard_time": 1736147723,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126419,
+        "num": 174512,
+        "word": "建议买草莓一定不要买盆装的",
+        "onboard_time": 1736121320,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121506,
+        "num": 173614,
+        "word": "WTT年度十佳球",
+        "onboard_time": 1736147663,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117526,
+        "num": 173095,
+        "word": "沧州雄狮宣布解散",
+        "onboard_time": 1736149591,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172963,
+        "num": 172963,
+        "word": "管乐遗憾只见过魏哲鸣两三次",
+        "onboard_time": 1736149530,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155071,
+        "num": 155071,
+        "word": "知道白月梵星为什么中午播了",
+        "onboard_time": 1736142923,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154267,
+        "num": 154267,
+        "word": "宋亚轩 宋大葱",
+        "onboard_time": 1736151328,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109914,
+        "num": 153447,
+        "word": "应对流感找准这个穴位",
+        "onboard_time": 1736149049,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 97313,
+        "num": 152125,
+        "word": "流感神药一药难求记者线下实探",
+        "onboard_time": 1736150009,
+        "rank": 44,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 107006,
+        "num": 150355,
+        "word": "妙瓦底",
+        "onboard_time": 1736138067,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105409,
+        "num": 148381,
+        "word": "广州队未获准入",
+        "onboard_time": 1736145682,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96865,
+        "num": 147026,
+        "word": "鸡窝头女士穿熟悉的黑棉袄上班了",
+        "onboard_time": 1736137587,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95579,
+        "num": 146646,
+        "word": "韦世豪 广州队",
+        "onboard_time": 1736151328,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87640,
+        "num": 144669,
+        "word": "2025年第1天救了2条人命",
+        "onboard_time": 1736134642,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#以零容忍态度反腐惩恶#"
+    }
+  }
+}

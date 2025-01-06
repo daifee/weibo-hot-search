@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736148939282,
+  "endTime": 1736152169744,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -39,6 +39,14 @@
       "num": 16645237,
       "word": "鹿晗社交平台被禁止关注",
       "onboard_time": 1736147422,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 16088904,
+      "num": 16088904,
+      "word": "鹿晗道歉",
+      "onboard_time": 1736148990,
       "rank": 0,
       "category": "艺人"
     },
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 1662707,
-      "num": 325878,
+      "num": 378895,
       "word": "抖音副总裁回应用户将钱读成米",
       "onboard_time": 1736142803,
       "rank": 10,
@@ -444,7 +452,7 @@
     },
     {
       "raw_hot": 992926,
-      "num": 395596,
+      "num": 410055,
       "word": "田曦薇星光大赏被anti",
       "onboard_time": 1736146822,
       "rank": 6,
@@ -553,6 +561,14 @@
       "onboard_time": 1736144722,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 823068,
+      "num": 383368,
+      "word": "韦雪直播掉美颜",
+      "onboard_time": 1736151567,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 822927,
@@ -771,6 +787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 639245,
+      "num": 330702,
+      "word": "女子吃5斤车厘子后发高烧",
+      "onboard_time": 1736146643,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 636317,
       "num": 636317,
       "word": "单依纯 没有碳水怎么活啊",
@@ -859,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 571496,
+      "num": 571496,
+      "word": "12306崩了",
+      "onboard_time": 1736148207,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 567262,
       "num": 567262,
       "word": "古相思曲",
@@ -892,7 +924,7 @@
     },
     {
       "raw_hot": 536355,
-      "num": 283955,
+      "num": 340332,
       "word": "演员星星曾出演玫瑰的故事",
       "onboard_time": 1736148328,
       "rank": 12,
@@ -980,7 +1012,7 @@
     },
     {
       "raw_hot": 493971,
-      "num": 257992,
+      "num": 369737,
       "word": "太好了是长发秦岚",
       "onboard_time": 1736147543,
       "rank": 21,
@@ -1139,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 423270,
+      "num": 423270,
+      "word": "外交部新任发言人郭嘉昆亮相",
+      "onboard_time": 1736149906,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 421764,
       "num": 660673,
       "word": "王楚钦点赞周启豪",
@@ -1244,7 +1284,7 @@
     },
     {
       "raw_hot": 397093,
-      "num": 283506,
+      "num": 336991,
       "word": "李现 现男友变现老公了",
       "onboard_time": 1736147122,
       "rank": 15,
@@ -1467,14 +1507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 343235,
-      "num": 177445,
-      "word": "女子吃5斤车厘子后发高烧",
-      "onboard_time": 1736146643,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 341776,
       "num": 341776,
       "word": "猎罪图鉴3宣传词出来了",
@@ -1505,6 +1537,14 @@
       "onboard_time": 1736057549,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 328141,
+      "num": 328141,
+      "word": "迪丽热巴 青壮年艺术家",
+      "onboard_time": 1736148688,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 327460,
@@ -1561,6 +1601,14 @@
       "onboard_time": 1736076265,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 313781,
+      "num": 313781,
+      "word": "杨紫25年首套高定造型",
+      "onboard_time": 1736148567,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 311870,
@@ -1764,7 +1812,7 @@
     },
     {
       "raw_hot": 275280,
-      "num": 211188,
+      "num": 243014,
       "word": "高三班主任给全班煮了个泡面塔",
       "onboard_time": 1736144362,
       "rank": 28,
@@ -1923,6 +1971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249082,
+      "num": 329800,
+      "word": "工藤静香官宣微博之夜",
+      "onboard_time": 1736148688,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 247674,
       "num": 646202,
       "word": "周杰伦迪拜演唱会上座率",
@@ -1955,12 +2011,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 243299,
+      "num": 243299,
+      "word": "演员范虎怒斥徐大久提供假消息",
+      "onboard_time": 1736149950,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243135,
       "num": 642775,
       "word": "李相夷用婆娑步震惊范闲",
       "onboard_time": 1736057189,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 242909,
+      "num": 242909,
+      "word": "杨紫的台词不看文字都能听清",
+      "onboard_time": 1736150729,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 241905,
@@ -1977,6 +2049,14 @@
       "onboard_time": 1736128700,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 241261,
+      "num": 339672,
+      "word": "缅甸妙瓦底系网络诈骗的大本营",
+      "onboard_time": 1736150249,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 240690,
@@ -2419,12 +2499,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200586,
+      "num": 200586,
+      "word": "成毅 要签名包给的",
+      "onboard_time": 1736150848,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200238,
       "num": 219122,
       "word": "丁禹兮领奖",
       "onboard_time": 1736010509,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199692,
+      "num": 242914,
+      "word": "减肥不吃晚餐不会痩",
+      "onboard_time": 1736145142,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 199604,
@@ -2496,14 +2592,6 @@
       "word": "林更新官宣微博之夜",
       "onboard_time": 1736060066,
       "rank": 36,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 195132,
-      "num": 177406,
-      "word": "迪丽热巴 青壮年艺术家",
-      "onboard_time": 1736148688,
-      "rank": 27,
       "category": "作品衍生"
     },
     {
@@ -2587,6 +2675,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 185465,
+      "num": 185465,
+      "word": "黄子韬为失联演员星星发声",
+      "onboard_time": 1736151567,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 184370,
+      "num": 184370,
+      "word": "颜安直播",
+      "onboard_time": 1736151807,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184086,
       "num": 184086,
       "word": "尹锡悦逮捕令今天到期",
@@ -2667,6 +2771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176733,
+      "num": 196169,
+      "word": "徐克版射雕是浪漫主义还是现实主义",
+      "onboard_time": 1736147723,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 176728,
       "num": 219121,
       "word": "孙怡的身上有好多花",
@@ -2713,6 +2825,14 @@
       "onboard_time": 1736049091,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172963,
+      "num": 172963,
+      "word": "管乐遗憾只见过魏哲鸣两三次",
+      "onboard_time": 1736149530,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 172262,
@@ -2835,14 +2955,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 166300,
-      "num": 166300,
-      "word": "减肥不吃晚餐不会痩",
-      "onboard_time": 1736145142,
-      "rank": 34,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 163691,
       "num": 163691,
       "word": "日卦中天声明",
@@ -2907,14 +3019,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 160167,
-      "num": 147226,
-      "word": "杨紫25年首套高定造型",
-      "onboard_time": 1736148567,
-      "rank": 40,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 159214,
       "num": 159214,
       "word": "群演曾被骗到缅北交62万赎回",
@@ -2939,12 +3043,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 158771,
-      "num": 158771,
-      "word": "12306崩了",
-      "onboard_time": 1736148207,
-      "rank": 38,
-      "category": "互联网"
+      "raw_hot": 158652,
+      "num": 336289,
+      "word": "6岁男童上学时独自离园2次未被发现",
+      "onboard_time": 1736148508,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158143,
@@ -3009,6 +3113,14 @@
       "onboard_time": 1736054549,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154267,
+      "num": 154267,
+      "word": "宋亚轩 宋大葱",
+      "onboard_time": 1736151328,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 154237,
@@ -3113,6 +3225,14 @@
       "onboard_time": 1736141243,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148179,
+      "num": 332121,
+      "word": "国家反诈中心曾提醒请勿前往妙瓦底",
+      "onboard_time": 1736150787,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148025,
@@ -3323,6 +3443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132196,
+      "num": 231620,
+      "word": "苹果AI要求预留7GB空间",
+      "onboard_time": 1736147905,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 131088,
       "num": 637450,
       "word": "嘀嗒出行回应女生坐顺风车被甩高速",
@@ -3475,6 +3603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121506,
+      "num": 173614,
+      "word": "WTT年度十佳球",
+      "onboard_time": 1736147663,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121459,
       "num": 183463,
       "word": "danking直播",
@@ -3499,28 +3635,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120772,
-      "num": 120772,
-      "word": "苹果AI要求预留7GB空间",
-      "onboard_time": 1736147905,
-      "rank": 48,
-      "category": "数码"
-    },
-    {
       "raw_hot": 120703,
       "num": 120703,
       "word": "赵丽颖张碧晨没喝中药",
       "onboard_time": 1736048310,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 120160,
-      "num": 120160,
-      "word": "WTT年度十佳球",
-      "onboard_time": 1736147663,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 119504,
@@ -3537,14 +3657,6 @@
       "onboard_time": 1736071466,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118549,
-      "num": 118549,
-      "word": "工藤静香官宣微博之夜",
-      "onboard_time": 1736148688,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 118020,
@@ -3569,6 +3681,14 @@
       "onboard_time": 1736147181,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 117526,
+      "num": 173095,
+      "word": "沧州雄狮宣布解散",
+      "onboard_time": 1736149591,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 117186,
@@ -3609,6 +3729,14 @@
       "onboard_time": 1735987042,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 115449,
+      "num": 242911,
+      "word": "楼团家族粉开年就吃上好的了",
+      "onboard_time": 1736151567,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 115199,
@@ -3689,6 +3817,14 @@
       "onboard_time": 1736141843,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109914,
+      "num": 153447,
+      "word": "应对流感找准这个穴位",
+      "onboard_time": 1736149049,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 109016,
@@ -3851,6 +3987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 97313,
+      "num": 152125,
+      "word": "流感神药一药难求记者线下实探",
+      "onboard_time": 1736150009,
+      "rank": 44,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 96025,
       "num": 988871,
       "word": "林高远称会扛起家的责任",
@@ -3864,6 +4008,14 @@
       "word": "穿羽绒服主持人再发声感谢孙颖莎",
       "onboard_time": 1736072906,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 95579,
+      "num": 146646,
+      "word": "韦世豪 广州队",
+      "onboard_time": 1736151328,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -4099,6 +4251,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 79050,
+      "num": 176743,
+      "word": "驻站人贩子剃头拐卖孩子",
+      "onboard_time": 1736149770,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 78898,
       "num": 200836,
       "word": "涉事公司员工回应消费券当工资",
@@ -4203,6 +4363,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 69577,
+      "num": 396065,
+      "word": "看电影你是i人还是e人",
+      "onboard_time": 1736150848,
+      "rank": 9,
+      "category": "电影,幽默"
+    },
+    {
       "raw_hot": 69192,
       "num": 288829,
       "word": "小小的我也可看成是女性主义的探索",
@@ -4257,14 +4425,6 @@
       "onboard_time": 1736081550,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 64982,
-      "num": 196169,
-      "word": "徐克版射雕是浪漫主义还是现实主义",
-      "onboard_time": 1736147723,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 64072,
@@ -4604,7 +4764,7 @@
     },
     {
       "raw_hot": 38513,
-      "num": 586495,
+      "num": 640552,
       "word": "打卡中华文化种子库",
       "onboard_time": 1736136143,
       "rank": 25,

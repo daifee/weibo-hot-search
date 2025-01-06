@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736148939282,
+  "endTime": 1736152169744,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -47,6 +47,14 @@
       "num": 16189782,
       "word": "赵露思发长文回应",
       "onboard_time": 1735726580,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 16088904,
+      "num": 16088904,
+      "word": "鹿晗道歉",
+      "onboard_time": 1736148990,
       "rank": 0,
       "category": "艺人"
     },
@@ -684,7 +692,7 @@
     },
     {
       "raw_hot": 1662707,
-      "num": 325878,
+      "num": 378895,
       "word": "抖音副总裁回应用户将钱读成米",
       "onboard_time": 1736142803,
       "rank": 10,
@@ -1444,7 +1452,7 @@
     },
     {
       "raw_hot": 992926,
-      "num": 395596,
+      "num": 410055,
       "word": "田曦薇星光大赏被anti",
       "onboard_time": 1736146822,
       "rank": 6,
@@ -1897,6 +1905,14 @@
       "onboard_time": 1736144722,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 823068,
+      "num": 383368,
+      "word": "韦雪直播掉美颜",
+      "onboard_time": 1736151567,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 822927,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1736085511,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 687973,
-      "num": 687973,
-      "word": "鹿晗的阿贝贝",
-      "onboard_time": 1735709898,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 687034,
-      "num": 687034,
-      "word": "湖南一女游客玩滑翔伞疑掉进水帘洞",
-      "onboard_time": 1735805118,
-      "rank": 16,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
