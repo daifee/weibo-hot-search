@@ -1,6 +1,6 @@
 {
   "startTime": 1736094308497,
-  "endTime": 1736170820519,
+  "endTime": 1736173269794,
   "band_list": [
     {
       "raw_hot": 16645237,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 2055389,
-      "num": 563752,
+      "num": 597103,
       "word": "韦雪直播掉美颜",
       "onboard_time": 1736151567,
       "rank": 10,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1189593,
+      "num": 772722,
+      "word": "微博之夜阵容",
+      "onboard_time": 1736171484,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1110752,
       "num": 376917,
       "word": "曝虞书欣将离开华策",
@@ -185,6 +193,14 @@
       "onboard_time": 1736129120,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 995945,
+      "num": 995945,
+      "word": "货车撞上出殡队伍致20死整改报告发布",
+      "onboard_time": 1736168063,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 992926,
@@ -209,14 +225,6 @@
       "onboard_time": 1736155944,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 831134,
-      "num": 831134,
-      "word": "货车撞上出殡队伍致20死整改报告发布",
-      "onboard_time": 1736168063,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 826950,
@@ -273,6 +281,14 @@
       "onboard_time": 1736131161,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 730566,
+      "num": 730566,
+      "word": "广州队宣布解散",
+      "onboard_time": 1736169564,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 714364,
@@ -332,7 +348,7 @@
     },
     {
       "raw_hot": 632522,
-      "num": 413013,
+      "num": 446176,
       "word": "谢霆锋和Lucas一起滑雪",
       "onboard_time": 1736161523,
       "rank": 7,
@@ -347,20 +363,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 619352,
+      "num": 619352,
+      "word": "一次收几十元微信红包最后贪了47万",
+      "onboard_time": 1736171844,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 607138,
       "num": 607138,
       "word": "感染甲流5天内用药有效",
       "onboard_time": 1736129961,
       "rank": 4,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 603667,
-      "num": 603667,
-      "word": "广州队宣布解散",
-      "onboard_time": 1736169564,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 600346,
@@ -393,6 +409,14 @@
       "onboard_time": 1736091566,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 580729,
+      "num": 580729,
+      "word": "为什么感染甲流这么疼啊",
+      "onboard_time": 1736167343,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 572477,
@@ -451,6 +475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 499774,
+      "num": 499774,
+      "word": "虞书欣星光大赏当天全平台断层登顶",
+      "onboard_time": 1736168325,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 498708,
       "num": 547053,
       "word": "从校园餐里1毛钱1毛钱贪了23万",
@@ -489,6 +521,14 @@
       "onboard_time": 1736143942,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 484007,
+      "num": 444079,
+      "word": "中国驻泰国使馆回应演员星星失联",
+      "onboard_time": 1736166262,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 471380,
@@ -539,19 +579,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 451381,
-      "num": 267046,
-      "word": "虞书欣星光大赏当天全平台断层登顶",
-      "onboard_time": 1736168325,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 449756,
       "num": 449756,
       "word": "12岁失踪30天男孩曾在监控下呼救",
       "onboard_time": 1736090429,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 448201,
+      "num": 448201,
+      "word": "贪官正事不干天天打牌成公开秘密",
+      "onboard_time": 1736169023,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -569,14 +609,6 @@
       "onboard_time": 1736164463,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 440626,
-      "num": 367924,
-      "word": "中国驻泰国使馆回应演员星星失联",
-      "onboard_time": 1736166262,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 438845,
@@ -707,14 +739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 377794,
-      "num": 377794,
-      "word": "为什么感染甲流这么疼啊",
-      "onboard_time": 1736167343,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 363341,
       "num": 363341,
       "word": "kimi崩了",
@@ -788,7 +812,7 @@
     },
     {
       "raw_hot": 341497,
-      "num": 216175,
+      "num": 217717,
       "word": "宋亚轩 当你见到了亚轩",
       "onboard_time": 1736165963,
       "rank": 20,
@@ -881,6 +905,14 @@
       "onboard_time": 1736084670,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 298009,
+      "num": 298009,
+      "word": "甲流",
+      "onboard_time": 1736124440,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 297010,
@@ -1291,6 +1323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211083,
+      "num": 211083,
+      "word": "杨紫问魏哲鸣你的角色很守男德吗",
+      "onboard_time": 1736172623,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210699,
       "num": 210699,
       "word": "田曦薇公主崩溃哭戏",
@@ -1355,6 +1395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202951,
+      "num": 202951,
+      "word": "哈尔滨的仪式感已经是nextlevel",
+      "onboard_time": 1736172744,
+      "rank": 25,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 202370,
       "num": 202370,
       "word": "火箭战胜湖人",
@@ -1409,6 +1457,14 @@
       "onboard_time": 1736157024,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194798,
+      "num": 194798,
+      "word": "网友偶遇张康乐马柏全逛街",
+      "onboard_time": 1736172683,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 194533,
@@ -1515,6 +1571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175159,
+      "num": 233061,
+      "word": "许七安 到底谁才是穿越来的",
+      "onboard_time": 1736169924,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174986,
       "num": 227826,
       "word": "青海摇是年轻人自己的广场舞",
@@ -1585,14 +1649,6 @@
       "onboard_time": 1736128522,
       "rank": 49,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 169842,
-      "num": 185132,
-      "word": "贪官正事不干天天打牌成公开秘密",
-      "onboard_time": 1736169023,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 169671,
@@ -1675,6 +1731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164855,
+      "num": 164855,
+      "word": "于正说春节档看肖战射雕",
+      "onboard_time": 1736172804,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 163647,
       "num": 221945,
       "word": "56岁儿子把82岁妈妈重新养了一遍",
@@ -1699,6 +1763,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 161975,
+      "num": 295856,
+      "word": "老板给贪官租别墅吃喝玩乐一条龙",
+      "onboard_time": 1736169084,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161796,
       "num": 161796,
       "word": "孙颖莎打上天的神仙球入选十佳球",
@@ -1721,6 +1793,14 @@
       "onboard_time": 1736129301,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 159480,
+      "num": 159480,
+      "word": "王鹤棣 请杨千幻给个正面感谢机会",
+      "onboard_time": 1736172865,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 159214,
@@ -1843,6 +1923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151740,
+      "num": 151740,
+      "word": "汉武帝最后一位丞相墓疑被发现",
+      "onboard_time": 1736171725,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151456,
       "num": 134823,
       "word": "Wendy不出演SMTOWN",
@@ -1899,20 +1987,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145678,
-      "num": 145678,
-      "word": "老板给贪官租别墅吃喝玩乐一条龙",
-      "onboard_time": 1736169084,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 143897,
       "num": 143897,
       "word": "恋与制作人",
       "onboard_time": 1736143042,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 143294,
+      "num": 312752,
+      "word": "四川一救护车在田里摘柑橘引质疑",
+      "onboard_time": 1736172383,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142572,
@@ -1961,6 +2049,14 @@
       "onboard_time": 1736147844,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 139169,
+      "num": 139169,
+      "word": "男子甲流后患病毒性肺炎四肢末端花斑",
+      "onboard_time": 1736172804,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 138268,
@@ -2099,6 +2195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 130898,
+      "num": 130898,
+      "word": "广州队8次中超冠军2次亚冠封王",
+      "onboard_time": 1736172744,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130661,
       "num": 130661,
       "word": "周润发 唐探1900",
@@ -2155,6 +2259,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 127781,
+      "num": 127781,
+      "word": "醉酒女乘客疯狂撕咬出租车司机",
+      "onboard_time": 1736172383,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126446,
       "num": 126446,
       "word": "哪吒汽车官网出现异常",
@@ -2193,6 +2305,14 @@
       "onboard_time": 1736139687,
       "rank": 19,
       "category": "财经,健康医疗"
+    },
+    {
+      "raw_hot": 125260,
+      "num": 125260,
+      "word": "迪丽热巴维权案新进展",
+      "onboard_time": 1736168783,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 124532,
@@ -2305,6 +2425,14 @@
       "onboard_time": 1736163743,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117897,
+      "num": 117897,
+      "word": "杨幂独一无二的优雅",
+      "onboard_time": 1736173043,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 117726,
@@ -2619,6 +2747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 100475,
+      "num": 100475,
+      "word": "BOYNEXTDOOR空降",
+      "onboard_time": 1736172088,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 98345,
       "num": 119592,
       "word": "林诗栋入选世界乒联年度十佳球",
@@ -2681,14 +2817,6 @@
       "onboard_time": 1736143461,
       "rank": 26,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 92375,
-      "num": 92375,
-      "word": "甲流",
-      "onboard_time": 1736124440,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 91760,
@@ -3036,7 +3164,7 @@
     },
     {
       "raw_hot": 49288,
-      "num": 739132,
+      "num": 776992,
       "word": "腊八节祝你万事粥全",
       "onboard_time": 1736167403,
       "rank": 2,
@@ -3057,14 +3185,6 @@
       "onboard_time": 1736139270,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 46638,
-      "num": 233061,
-      "word": "许七安 到底谁才是穿越来的",
-      "onboard_time": 1736169924,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 46399,
@@ -3131,6 +3251,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 37302,
+      "num": 206904,
+      "word": "TTG风君正式断开链接",
+      "onboard_time": 1736171543,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 37195,
       "num": 299305,
       "word": "名校毕业生入职中小学是不是噱头",
@@ -3185,6 +3313,14 @@
       "onboard_time": 1736145441,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30580,
+      "num": 279668,
+      "word": "星星被曝赴泰国前曾想咨询当地朋友",
+      "onboard_time": 1736172683,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 30044,
