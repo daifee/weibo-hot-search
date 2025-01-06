@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736163337863,
+  "endTime": 1736167430988,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -387,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1333304,
+      "num": 1269291,
+      "word": "演员星星泰国试戏失联已超60小时",
+      "onboard_time": 1736159184,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1332026,
       "num": 1332026,
       "word": "从校园餐里1毛钱1毛钱贪了23万",
@@ -403,12 +411,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1269291,
-      "num": 1269291,
-      "word": "演员星星泰国试戏失联已超60小时",
-      "onboard_time": 1736159184,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 1241779,
+      "num": 1241779,
+      "word": "伊能静曾故意灌醉恩利",
+      "onboard_time": 1736164896,
+      "rank": 0,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1241672,
@@ -433,6 +441,14 @@
       "onboard_time": 1736011465,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1110752,
+      "num": 315384,
+      "word": "曝虞书欣将离开华策",
+      "onboard_time": 1736163384,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1056057,
@@ -835,6 +851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 632522,
+      "num": 407740,
+      "word": "谢霆锋和Lucas一起滑雪",
+      "onboard_time": 1736161523,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 629359,
       "num": 538740,
       "word": "虞书欣 走你",
@@ -915,14 +939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 586679,
-      "num": 316137,
-      "word": "谢霆锋和Lucas一起滑雪",
-      "onboard_time": 1736161523,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 585158,
       "num": 317826,
       "word": "赵丽颖 我点头只是被自己美到了",
@@ -969,6 +985,14 @@
       "onboard_time": 1736082630,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 541213,
+      "num": 541213,
+      "word": "A50",
+      "onboard_time": 1736164223,
+      "rank": 1,
+      "category": "财经"
     },
     {
       "raw_hot": 536355,
@@ -1195,6 +1219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 445146,
+      "num": 410388,
+      "word": "小米销售被曝带客户试驾撞倒电动车",
+      "onboard_time": 1736162003,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 443745,
       "num": 294776,
       "word": "李昀锐嘻嘻不嘻嘻",
@@ -1305,6 +1337,14 @@
       "onboard_time": 1736145562,
       "rank": 17,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 405572,
+      "num": 305821,
+      "word": "鞠婧祎时装1小时销售额突破433w",
+      "onboard_time": 1736164223,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 404661,
@@ -1611,6 +1651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 335932,
+      "num": 335932,
+      "word": "16岁女生戏龄13年生动演绎眼波流转",
+      "onboard_time": 1736164463,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 332600,
       "num": 311358,
       "word": "演员王星家属发声",
@@ -1915,6 +1963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 276979,
+      "num": 276979,
+      "word": "今年微博之夜导播还敢这么切吗",
+      "onboard_time": 1736162664,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 276414,
       "num": 276414,
       "word": "WTT发文感谢樊振东",
@@ -2027,6 +2083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 258282,
+      "num": 318002,
+      "word": "多地延长应届毕业生资格时限",
+      "onboard_time": 1736161103,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 257478,
       "num": 257478,
       "word": "张新成李兰迪镜头",
@@ -2121,6 +2185,14 @@
       "onboard_time": 1736076207,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 244970,
+      "num": 171209,
+      "word": "宋亚轩 当你见到了亚轩",
+      "onboard_time": 1736165963,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 244449,
@@ -2475,28 +2547,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 213789,
-      "num": 318338,
-      "word": "小米销售被曝带客户试驾撞倒电动车",
-      "onboard_time": 1736162003,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 213258,
       "num": 213258,
       "word": "没人告诉我吴宇恒是bking",
       "onboard_time": 1736055869,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 213163,
-      "num": 318002,
-      "word": "多地延长应届毕业生资格时限",
-      "onboard_time": 1736161103,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 213147,
@@ -2835,6 +2891,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193219,
+      "num": 169241,
+      "word": "电影东极岛杀青",
+      "onboard_time": 1736167343,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 193095,
+      "num": 168825,
+      "word": "李政宰与女友加勒比海度假",
+      "onboard_time": 1736164583,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191675,
       "num": 191675,
       "word": "郭京飞闯进黄景瑜赛道",
@@ -2881,6 +2953,14 @@
       "onboard_time": 1736060905,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 185985,
+      "num": 185985,
+      "word": "二十届中央纪委四次全会召开",
+      "onboard_time": 1736162483,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 185465,
@@ -3041,6 +3121,22 @@
       "onboard_time": 1736145682,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171517,
+      "num": 171517,
+      "word": "俄媒称中国人平均智商全球第一",
+      "onboard_time": 1736163503,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170765,
+      "num": 521671,
+      "word": "关于甲流这些知识你要了解",
+      "onboard_time": 1736156484,
+      "rank": 2,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 170240,
@@ -3283,6 +3379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158305,
+      "num": 158305,
+      "word": "杨紫出场的一瞬间",
+      "onboard_time": 1736165604,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158143,
       "num": 158143,
       "word": "这只老虎怎么猫里猫气的",
@@ -3337,6 +3441,14 @@
       "onboard_time": 1736060126,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156877,
+      "num": 147372,
+      "word": "杨紫一边养生一边熬夜",
+      "onboard_time": 1736166683,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 155305,
@@ -3443,6 +3555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151879,
+      "num": 151879,
+      "word": "这些带番的水果漂洋过海而来",
+      "onboard_time": 1736166744,
+      "rank": 32,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 151456,
       "num": 134823,
       "word": "Wendy不出演SMTOWN",
@@ -3507,6 +3627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 148095,
+      "num": 147309,
+      "word": "易烊千玺锐评自己演技",
+      "onboard_time": 1736163624,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 148025,
       "num": 148025,
       "word": "尼龙孟子义2025开年刊",
@@ -3531,20 +3659,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 146969,
+      "num": 146969,
+      "word": "佟年和佟日来了佟月呢",
+      "onboard_time": 1736165002,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146677,
       "num": 2678947,
       "word": "甲流7日病程用药图",
       "onboard_time": 1736048969,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 144828,
-      "num": 144828,
-      "word": "今年微博之夜导播还敢这么切吗",
-      "onboard_time": 1736162664,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 144751,
@@ -3891,20 +4019,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 125751,
-      "num": 521671,
-      "word": "关于甲流这些知识你要了解",
-      "onboard_time": 1736156484,
-      "rank": 2,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 125652,
       "num": 125652,
       "word": "WTT除了赚钱送祝褔更应解答疑惑",
       "onboard_time": 1736157623,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125637,
+      "num": 331266,
+      "word": "中国驻泰国使馆回应演员星星失联",
+      "onboard_time": 1736166262,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 125528,
@@ -4067,12 +4195,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119459,
+      "num": 119459,
+      "word": "华晨宇 欢迎收看男明星perper与华晨宇的vlog",
+      "onboard_time": 1736166382,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 119339,
       "num": 643577,
       "word": "两男孩骑车横穿马路险被撞",
       "onboard_time": 1736071466,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118979,
+      "num": 169822,
+      "word": "郑钦文澳网5号种子",
+      "onboard_time": 1736163743,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 118020,
@@ -4267,6 +4411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 112438,
+      "num": 112438,
+      "word": "孙珍妮 破碎感",
+      "onboard_time": 1736165423,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111965,
       "num": 111965,
       "word": "果然没人能拒绝好运的诱惑",
@@ -4281,6 +4433,14 @@
       "onboard_time": 1736141843,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109889,
+      "num": 109889,
+      "word": "坏了他也有行猫记录仪",
+      "onboard_time": 1736165903,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 109647,
@@ -4427,14 +4587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 104148,
-      "num": 104148,
-      "word": "二十届中央纪委四次全会召开",
-      "onboard_time": 1736162483,
-      "rank": 48,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 103701,
       "num": 1334459,
       "word": "驻洛杉矶总领馆发布提醒",
@@ -4467,6 +4619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100879,
+      "num": 100879,
+      "word": "王一博米白色西装",
+      "onboard_time": 1736165724,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 100567,
       "num": 492924,
       "word": "张远 抽象是会传染的",
@@ -4475,11 +4635,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98499,
+      "num": 98499,
+      "word": "为什么感染甲流这么疼啊",
+      "onboard_time": 1736167343,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 98345,
       "num": 119592,
       "word": "林诗栋入选世界乒联年度十佳球",
       "onboard_time": 1736157623,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 98285,
+      "num": 98285,
+      "word": "辽宁男篮vs广厦男篮",
+      "onboard_time": 1736167283,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -4505,6 +4681,14 @@
       "onboard_time": 1736150009,
       "rank": 44,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 96470,
+      "num": 96470,
+      "word": "孙颖莎说巴黎周期让自己成长不少",
+      "onboard_time": 1736167043,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 96025,
@@ -4545,6 +4729,14 @@
       "onboard_time": 1736073685,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94452,
+      "num": 94452,
+      "word": "鞠婧祎出水芙蓉",
+      "onboard_time": 1736166623,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 94434,
@@ -5091,6 +5283,14 @@
       "category": "演出,电影"
     },
     {
+      "raw_hot": 54966,
+      "num": 170296,
+      "word": "100多份DNA样本揭开24年前命案",
+      "onboard_time": 1736165542,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54795,
       "num": 236218,
       "word": "DRG终结AG小局连胜",
@@ -5603,6 +5803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19523,
+      "num": 120578,
+      "word": "比奶茶还好喝的红豆花生酪",
+      "onboard_time": 1736166802,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 19379,
       "num": 202221,
       "word": "摩友回应机车博主李波车祸离世",
@@ -5731,6 +5939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 5991,
+      "num": 416684,
+      "word": "腊八节祝你万事粥全",
+      "onboard_time": 1736167403,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 5844,
       "num": 584018,
       "word": "文旅场景的多种打开方式",
@@ -5760,6 +5976,9 @@
     },
     {
       "word": "#勇于自我革命#"
+    },
+    {
+      "word": "#二十届中央纪委四次全会召开#"
     }
   ]
 }
