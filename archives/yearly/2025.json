@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736162351390,
+  "endTime": 1736163337863,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1065,6 +1065,14 @@
       "onboard_time": 1735785019,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1269291,
+      "num": 1269291,
+      "word": "演员星星泰国试戏失联已超60小时",
+      "onboard_time": 1736159184,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1266563,
@@ -2377,14 +2385,6 @@
       "onboard_time": 1735778359,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 700672,
-      "num": 471853,
-      "word": "演员星星泰国试戏失联已超60小时",
-      "onboard_time": 1736159184,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 700343,
