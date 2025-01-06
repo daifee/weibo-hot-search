@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736168374190,
+  "endTime": 1736170133543,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -553,6 +553,14 @@
       "onboard_time": 1735869680,
       "rank": 0,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 1851563,
+      "num": 1851563,
+      "word": "杨紫 没有这么欺负人的",
+      "onboard_time": 1736167822,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 1850628,
@@ -2347,6 +2355,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 715142,
+      "num": 715142,
+      "word": "货车撞上出殡队伍致20死整改报告发布",
+      "onboard_time": 1736168063,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 714364,
       "num": 714364,
       "word": "韩国小狗与遇难家人告别全程安静",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1735863561,
       "rank": 3,
       "category": "美食"
-    },
-    {
-      "raw_hot": 702186,
-      "num": 1716908,
-      "word": "93年女孩成市值407亿公司董事长",
-      "onboard_time": 1736095700,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 701829,
-      "num": 701829,
-      "word": "美特朗普国际酒店门前汽车爆炸1死7伤",
-      "onboard_time": 1735778359,
-      "rank": 3,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [

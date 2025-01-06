@@ -1,6 +1,6 @@
 {
   "startTime": 1736094308497,
-  "endTime": 1736168374190,
+  "endTime": 1736170133543,
   "band_list": [
     {
       "raw_hot": 16645237,
@@ -89,6 +89,14 @@
       "onboard_time": 1736134642,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1851563,
+      "num": 1851563,
+      "word": "杨紫 没有这么欺负人的",
+      "onboard_time": 1736167822,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 1789398,
@@ -256,6 +264,14 @@
       "word": "假父回应错认儿子16年是看男子可怜",
       "onboard_time": 1736131161,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 715142,
+      "num": 715142,
+      "word": "货车撞上出殡队伍致20死整改报告发布",
+      "onboard_time": 1736168063,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -531,6 +547,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 442980,
+      "num": 442980,
+      "word": "16岁女生戏龄13年生动演绎眼波流转",
+      "onboard_time": 1736164463,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 440626,
+      "num": 331266,
+      "word": "中国驻泰国使馆回应演员星星失联",
+      "onboard_time": 1736166262,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 438845,
       "num": 198195,
       "word": "虞书欣 顺手的事",
@@ -563,12 +595,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 428068,
-      "num": 355256,
-      "word": "杨紫 没有这么欺负人的",
-      "onboard_time": 1736167822,
-      "rank": 7,
-      "category": "剧集"
+      "raw_hot": 414800,
+      "num": 249215,
+      "word": "虞书欣星光大赏当天全平台断层登顶",
+      "onboard_time": 1736168325,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 414491,
@@ -577,14 +609,6 @@
       "onboard_time": 1736164223,
       "rank": 11,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 412406,
-      "num": 412406,
-      "word": "16岁女生戏龄13年生动演绎眼波流转",
-      "onboard_time": 1736164463,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 411160,
@@ -609,14 +633,6 @@
       "onboard_time": 1736145562,
       "rank": 17,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 404509,
-      "num": 331266,
-      "word": "中国驻泰国使馆回应演员星星失联",
-      "onboard_time": 1736166262,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 402483,
@@ -756,7 +772,7 @@
     },
     {
       "raw_hot": 341497,
-      "num": 189788,
+      "num": 216175,
       "word": "宋亚轩 当你见到了亚轩",
       "onboard_time": 1736165963,
       "rank": 20,
@@ -931,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 271856,
+      "num": 271856,
+      "word": "为什么感染甲流这么疼啊",
+      "onboard_time": 1736167343,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 269853,
       "num": 269853,
       "word": "秦霄贤姐姐晒聊天记录",
@@ -1035,6 +1059,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 239782,
+      "num": 239782,
+      "word": "广州队宣布解散",
+      "onboard_time": 1736169564,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239000,
       "num": 239000,
       "word": "90岁网红奶奶去世",
@@ -1049,14 +1081,6 @@
       "onboard_time": 1736136925,
       "rank": 33,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 236881,
-      "num": 187958,
-      "word": "虞书欣星光大赏当天全平台断层登顶",
-      "onboard_time": 1736168325,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 236180,
@@ -1089,6 +1113,14 @@
       "onboard_time": 1736159483,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 229534,
+      "num": 229534,
+      "word": "俄媒称中国人平均智商全球第一",
+      "onboard_time": 1736163503,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 229276,
@@ -1315,6 +1347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 203169,
+      "num": 209231,
+      "word": "招募星星者曾多次借钱不还",
+      "onboard_time": 1736167943,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202370,
       "num": 202370,
       "word": "火箭战胜湖人",
@@ -1513,14 +1553,6 @@
       "onboard_time": 1736145682,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 171517,
-      "num": 191303,
-      "word": "俄媒称中国人平均智商全球第一",
-      "onboard_time": 1736163503,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 170765,
@@ -1731,6 +1763,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 157218,
+      "num": 157218,
+      "word": "贪官正事不干天天打牌成公开秘密",
+      "onboard_time": 1736169023,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156364,
+      "num": 156364,
+      "word": "吴泽林教檀健次跳舞手脚打结",
+      "onboard_time": 1736169143,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155378,
       "num": 155378,
       "word": "这些带番的水果漂洋过海而来",
@@ -1843,6 +1891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143958,
+      "num": 143958,
+      "word": "老板给贪官租别墅吃喝玩乐一条龙",
+      "onboard_time": 1736169084,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143897,
       "num": 143897,
       "word": "恋与制作人",
@@ -1915,14 +1971,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 137384,
-      "num": 137384,
-      "word": "为什么感染甲流这么疼啊",
-      "onboard_time": 1736167343,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 136776,
       "num": 136776,
       "word": "金球奖红毯",
@@ -1956,7 +2004,7 @@
     },
     {
       "raw_hot": 135636,
-      "num": 135636,
+      "num": 194981,
       "word": "崩坏星穹铁道",
       "onboard_time": 1736167702,
       "rank": 34,
@@ -2067,20 +2115,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129451,
+      "num": 129451,
+      "word": "鹭卓旋耕机信手拈来",
+      "onboard_time": 1736169382,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129241,
       "num": 129241,
       "word": "ive预告",
       "onboard_time": 1736088389,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 129157,
-      "num": 206930,
-      "word": "货车撞上出殡队伍致20死整改报告发布",
-      "onboard_time": 1736168063,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128395,
@@ -2339,6 +2387,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 113814,
+      "num": 113814,
+      "word": "年度反腐大片",
+      "onboard_time": 1736169983,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113717,
+      "num": 113717,
+      "word": "福宝溜达着去外圈散步玩耍",
+      "onboard_time": 1736168843,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113622,
       "num": 113622,
       "word": "严浩翔新歌",
@@ -2491,6 +2555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103434,
+      "num": 103434,
+      "word": "离岸人民币日内涨超200点",
+      "onboard_time": 1736168243,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 103428,
       "num": 260962,
       "word": "一个大厂年轻人被预制菜包裹",
@@ -2547,14 +2619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97339,
-      "num": 97339,
-      "word": "离岸人民币日内涨超200点",
-      "onboard_time": 1736168243,
-      "rank": 47,
-      "category": "财经"
-    },
-    {
       "raw_hot": 97313,
       "num": 152125,
       "word": "流感神药一药难求记者线下实探",
@@ -2587,6 +2651,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 93909,
+      "num": 93909,
+      "word": "欧阳妮妮产后晒全家福",
+      "onboard_time": 1736168903,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93589,
       "num": 204136,
       "word": "杨紫国色芳华直播look",
@@ -2617,6 +2689,14 @@
       "onboard_time": 1736088510,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 90702,
+      "num": 270531,
+      "word": "泰国律师称招募演员需和移民局备案",
+      "onboard_time": 1736168843,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 90289,
@@ -2665,6 +2745,14 @@
       "onboard_time": 1736121560,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 85026,
+      "num": 168488,
+      "word": "微博之夜阵容你最期待谁",
+      "onboard_time": 1736168843,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 83815,
@@ -2753,14 +2841,6 @@
       "onboard_time": 1736094683,
       "rank": 45,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 74727,
-      "num": 209231,
-      "word": "招募星星者曾多次借钱不还",
-      "onboard_time": 1736167943,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 72576,
@@ -2931,6 +3011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 49288,
+      "num": 522449,
+      "word": "腊八节祝你万事粥全",
+      "onboard_time": 1736167403,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49082,
       "num": 62481,
       "word": "俄乌士兵肉搏视频曝光",
@@ -2955,14 +3043,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 45979,
-      "num": 424213,
-      "word": "腊八节祝你万事粥全",
-      "onboard_time": 1736167403,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 44425,
       "num": 268502,
       "word": "曝iG首战NIP",
@@ -2985,6 +3065,14 @@
       "onboard_time": 1736118196,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 42773,
+      "num": 217259,
+      "word": "亲历者讲述赴泰拍短剧被骗逃脱经历",
+      "onboard_time": 1736169323,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41806,
@@ -3113,6 +3201,14 @@
       "onboard_time": 1736095460,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 25472,
+      "num": 233061,
+      "word": "许七安 到底谁才是穿越来的",
+      "onboard_time": 1736169924,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 24327,
