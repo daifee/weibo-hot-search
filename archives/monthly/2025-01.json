@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736132253313,
+  "endTime": 1736132802616,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1347,6 +1347,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 998360,
+      "num": 530872,
+      "word": "颜十六",
+      "onboard_time": 1736129120,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 996724,
       "num": 996724,
       "word": "何炅看王一博舞台哭了",
@@ -1683,14 +1691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 876260,
-      "num": 530872,
-      "word": "颜十六",
-      "onboard_time": 1736129120,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 874291,
       "num": 985231,
       "word": "张新成问孟子义李昀锐你们要不要",
@@ -1771,6 +1771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 843704,
+      "num": 843704,
+      "word": "哪吒汽车",
+      "onboard_time": 1736129001,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 843634,
       "num": 843634,
       "word": "赵露思看余华的我胆小如鼠",
@@ -1841,14 +1849,6 @@
       "onboard_time": 1735912100,
       "rank": 10,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 818844,
-      "num": 818844,
-      "word": "哪吒汽车",
-      "onboard_time": 1736129001,
-      "rank": 27,
-      "category": "汽车"
     },
     {
       "raw_hot": 818752,
@@ -2905,6 +2905,14 @@
       "onboard_time": 1735882221,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 549658,
+      "num": 1033240,
+      "word": "假父回应错认儿子16年是看男子可怜",
+      "onboard_time": 1736131161,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 548239,
@@ -5803,14 +5811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 281261,
-      "num": 281261,
-      "word": "假父回应错认儿子16年是看男子可怜",
-      "onboard_time": 1736131161,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 281177,
       "num": 263546,
       "word": "气血不足的人试试这3个动作",
@@ -6803,6 +6803,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 232652,
+      "num": 232652,
+      "word": "美国队长4定档",
+      "onboard_time": 1736132780,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 232612,
       "num": 230679,
       "word": "A股调整什么原因",
@@ -6817,6 +6825,14 @@
       "onboard_time": 1735996528,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 232123,
+      "num": 232123,
+      "word": "男子向大熊猫兰香砸整瓶可乐",
+      "onboard_time": 1736131761,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 231894,
@@ -6849,6 +6865,14 @@
       "onboard_time": 1735902141,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 230725,
+      "num": 230725,
+      "word": "孙颖莎 半亩花田",
+      "onboard_time": 1736132180,
+      "rank": 49,
+      "category": "体育,美妆"
     },
     {
       "raw_hot": 230697,
@@ -7219,6 +7243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 219582,
+      "num": 284612,
+      "word": "陕西一社保局职工受贿2575万",
+      "onboard_time": 1736130921,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 219131,
       "num": 219131,
       "word": "INTO1敢不敢合体",
@@ -7483,6 +7515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211306,
+      "num": 211306,
+      "word": "唐探1900演员阵容",
+      "onboard_time": 1736132180,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 211252,
       "num": 201349,
       "word": "孙颖莎代言",
@@ -7657,6 +7697,14 @@
       "onboard_time": 1735971320,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206601,
+      "num": 206601,
+      "word": "浙江首考",
+      "onboard_time": 1736131280,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 206355,
@@ -7929,6 +7977,14 @@
       "onboard_time": 1735827020,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202370,
+      "num": 202370,
+      "word": "火箭战胜湖人",
+      "onboard_time": 1736132121,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 202324,
@@ -8595,6 +8651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192743,
+      "num": 192743,
+      "word": "金球奖",
+      "onboard_time": 1736132062,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 192732,
       "num": 192732,
       "word": "制片人刘宁拒绝古偶换乘恋爱",
@@ -8875,12 +8939,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 187579,
-      "num": 187579,
-      "word": "金球奖",
-      "onboard_time": 1736132062,
-      "rank": 28,
-      "category": "电影"
+      "raw_hot": 187588,
+      "num": 187588,
+      "word": "玛巴洛沙韦和奥司他韦有啥区别",
+      "onboard_time": 1736131761,
+      "rank": 33,
+      "category": "健康医疗,运动健身"
     },
     {
       "raw_hot": 187568,
@@ -9091,6 +9155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183968,
+      "num": 183968,
+      "word": "陕西蒲城通报一职校学生坠楼",
+      "onboard_time": 1736128160,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183916,
       "num": 149296,
       "word": "孙颖莎3比2逆转王曼昱",
@@ -9275,14 +9347,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 179361,
-      "num": 179361,
-      "word": "陕西蒲城通报一职校学生坠楼",
-      "onboard_time": 1736128160,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 179349,
       "num": 179349,
       "word": "孔雪儿 麻辣女教师",
@@ -9337,14 +9401,6 @@
       "onboard_time": 1736085751,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 178816,
-      "num": 178816,
-      "word": "男子向大熊猫兰香砸整瓶可乐",
-      "onboard_time": 1736131761,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 178373,
@@ -9545,14 +9601,6 @@
       "onboard_time": 1735995089,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 174348,
-      "num": 174348,
-      "word": "玛巴洛沙韦和奥司他韦有啥区别",
-      "onboard_time": 1736131761,
-      "rank": 33,
-      "category": "健康医疗,运动健身"
     },
     {
       "raw_hot": 174139,
@@ -9827,6 +9875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170761,
+      "num": 511994,
+      "word": "多地消费者遭遇加油站作弊",
+      "onboard_time": 1736131462,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 170574,
       "num": 288580,
       "word": "被前男友泼汽油女子植皮12次",
@@ -9881,14 +9937,6 @@
       "onboard_time": 1736063668,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 169662,
-      "num": 169662,
-      "word": "浙江首考",
-      "onboard_time": 1736131280,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 169652,
@@ -10689,6 +10737,14 @@
       "onboard_time": 1735822760,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157052,
+      "num": 157052,
+      "word": "会计比对顾总钱总朋友圈保住400万",
+      "onboard_time": 1736131939,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157050,
@@ -11507,14 +11563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143668,
-      "num": 284612,
-      "word": "陕西一社保局职工受贿2575万",
-      "onboard_time": 1736130921,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 143621,
       "num": 194390,
       "word": "家属称老人信养生馆治癌拒就医去世",
@@ -11721,6 +11769,14 @@
       "onboard_time": 1735799420,
       "rank": 14,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 140816,
+      "num": 207261,
+      "word": "马龙将第五次代表北京参赛",
+      "onboard_time": 1736131521,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 140798,
@@ -12259,14 +12315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133146,
-      "num": 205062,
-      "word": "马龙将第五次代表北京参赛",
-      "onboard_time": 1736131521,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 133103,
       "num": 133103,
       "word": "苔花是送给8500万人的新年烟花",
@@ -12499,6 +12547,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 129759,
+      "num": 129759,
+      "word": "以零容忍态度反腐惩恶",
+      "onboard_time": 1736132241,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 129758,
       "num": 129758,
       "word": "黑山新年首日发生恶性大规模枪击案",
@@ -12595,14 +12651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127925,
-      "num": 127925,
-      "word": "唐探1900演员阵容",
-      "onboard_time": 1736132180,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 127897,
       "num": 127897,
       "word": "山东鲁能九夺乒超女团冠军",
@@ -12617,14 +12665,6 @@
       "onboard_time": 1736083352,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 127714,
-      "num": 127714,
-      "word": "火箭战胜湖人",
-      "onboard_time": 1736132121,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 127594,
@@ -12745,14 +12785,6 @@
       "onboard_time": 1735801761,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125965,
-      "num": 125965,
-      "word": "会计比对顾总钱总朋友圈保住400万",
-      "onboard_time": 1736131939,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125915,
@@ -13001,14 +13033,6 @@
       "onboard_time": 1735823120,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 121153,
-      "num": 121153,
-      "word": "孙颖莎 半亩花田",
-      "onboard_time": 1736132180,
-      "rank": 49,
-      "category": "体育,美妆"
     },
     {
       "raw_hot": 121102,
@@ -13947,6 +13971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101105,
+      "num": 207635,
+      "word": "马龙不认同自己是历史最伟大球员",
+      "onboard_time": 1736132780,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100764,
       "num": 220119,
       "word": "男子买假证冒充铁路工作人员乘车",
@@ -13971,20 +14003,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100266,
-      "num": 511994,
-      "word": "多地消费者遭遇加油站作弊",
-      "onboard_time": 1736131462,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 99758,
       "num": 263686,
       "word": "梁靖崑山东队夺冠功臣",
       "onboard_time": 1735742483,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99707,
+      "num": 213983,
+      "word": "GMM",
+      "onboard_time": 1736132662,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 99217,
@@ -15387,6 +15419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 57731,
+      "num": 208190,
+      "word": "尹锡悦支持者反对者对峙升级",
+      "onboard_time": 1736131399,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 57726,
       "num": 271991,
       "word": "我一定会过的",
@@ -15921,14 +15961,6 @@
       "onboard_time": 1735978942,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43591,
-      "num": 182805,
-      "word": "尹锡悦支持者反对者对峙升级",
-      "onboard_time": 1736131399,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 43530,

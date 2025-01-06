@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736132253313,
+  "endTime": 1736132802616,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -363,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 998360,
+      "num": 530872,
+      "word": "颜十六",
+      "onboard_time": 1736129120,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 991255,
       "num": 991255,
       "word": "马天宇微博在线",
@@ -435,14 +443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 876260,
-      "num": 530872,
-      "word": "颜十六",
-      "onboard_time": 1736129120,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 874291,
       "num": 985231,
       "word": "张新成问孟子义李昀锐你们要不要",
@@ -459,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 843704,
+      "num": 843704,
+      "word": "哪吒汽车",
+      "onboard_time": 1736129001,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 822927,
       "num": 822927,
       "word": "小猫皮草传到了国外",
@@ -473,14 +481,6 @@
       "onboard_time": 1736088148,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 818844,
-      "num": 818844,
-      "word": "哪吒汽车",
-      "onboard_time": 1736129001,
-      "rank": 27,
-      "category": "汽车"
     },
     {
       "raw_hot": 801179,
@@ -721,6 +721,14 @@
       "onboard_time": 1736082209,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 549658,
+      "num": 1033240,
+      "word": "假父回应错认儿子16年是看男子可怜",
+      "onboard_time": 1736131161,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 542739,
@@ -1411,14 +1419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 281261,
-      "num": 281261,
-      "word": "假父回应错认儿子16年是看男子可怜",
-      "onboard_time": 1736131161,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 280225,
       "num": 2700372,
       "word": "后天就是腊八节",
@@ -1683,12 +1683,36 @@
       "category": "美食"
     },
     {
+      "raw_hot": 232652,
+      "num": 232652,
+      "word": "美国队长4定档",
+      "onboard_time": 1736132780,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 232123,
+      "num": 232123,
+      "word": "男子向大熊猫兰香砸整瓶可乐",
+      "onboard_time": 1736131761,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 231894,
       "num": 231894,
       "word": "美国在俄乌冲突升级前暗中武装乌克兰",
       "onboard_time": 1736119940,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 230725,
+      "num": 230725,
+      "word": "孙颖莎 半亩花田",
+      "onboard_time": 1736132180,
+      "rank": 49,
+      "category": "体育,美妆"
     },
     {
       "raw_hot": 229666,
@@ -1771,6 +1795,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 219582,
+      "num": 284612,
+      "word": "陕西一社保局职工受贿2575万",
+      "onboard_time": 1736130921,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 219131,
       "num": 219131,
       "word": "INTO1敢不敢合体",
@@ -1825,6 +1857,14 @@
       "onboard_time": 1736003856,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211306,
+      "num": 211306,
+      "word": "唐探1900演员阵容",
+      "onboard_time": 1736132180,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 210995,
@@ -1883,6 +1923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206601,
+      "num": 206601,
+      "word": "浙江首考",
+      "onboard_time": 1736131280,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 205212,
       "num": 205212,
       "word": "张彬彬 孙珍妮是全世界最好的紫啧",
@@ -1920,6 +1968,14 @@
       "word": "林高远坚持完成比赛才匆匆回家陪伴父亲",
       "onboard_time": 1736076448,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 202370,
+      "num": 202370,
+      "word": "火箭战胜湖人",
+      "onboard_time": 1736132121,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -2027,12 +2083,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187579,
-      "num": 187579,
+      "raw_hot": 192743,
+      "num": 192743,
       "word": "金球奖",
       "onboard_time": 1736132062,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 187588,
+      "num": 187588,
+      "word": "玛巴洛沙韦和奥司他韦有啥区别",
+      "onboard_time": 1736131761,
+      "rank": 33,
+      "category": "健康医疗,运动健身"
     },
     {
       "raw_hot": 187484,
@@ -2059,6 +2123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 183968,
+      "num": 183968,
+      "word": "陕西蒲城通报一职校学生坠楼",
+      "onboard_time": 1736128160,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183630,
       "num": 346343,
       "word": "裴擒虎小胖FMVP皮肤",
@@ -2081,14 +2153,6 @@
       "onboard_time": 1736076027,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 179361,
-      "num": 179361,
-      "word": "陕西蒲城通报一职校学生坠楼",
-      "onboard_time": 1736128160,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 179267,
@@ -2115,14 +2179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178816,
-      "num": 178816,
-      "word": "男子向大熊猫兰香砸整瓶可乐",
-      "onboard_time": 1736131761,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 177398,
       "num": 4018074,
       "word": "韩国人在上海消费能力好强",
@@ -2147,14 +2203,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 174348,
-      "num": 174348,
-      "word": "玛巴洛沙韦和奥司他韦有啥区别",
-      "onboard_time": 1736131761,
-      "rank": 33,
-      "category": "健康医疗,运动健身"
-    },
-    {
       "raw_hot": 173826,
       "num": 173826,
       "word": "上海流感病毒活动强度明显增强",
@@ -2171,20 +2219,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170761,
+      "num": 511994,
+      "word": "多地消费者遭遇加油站作弊",
+      "onboard_time": 1736131462,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 170240,
       "num": 505024,
       "word": "孟子义退场和李昀锐打招呼",
       "onboard_time": 1736063668,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 169662,
-      "num": 169662,
-      "word": "浙江首考",
-      "onboard_time": 1736131280,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 169533,
@@ -2329,6 +2377,14 @@
       "onboard_time": 1736060126,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157052,
+      "num": 157052,
+      "word": "会计比对顾总钱总朋友圈保住400万",
+      "onboard_time": 1736131939,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154854,
@@ -2483,20 +2539,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143668,
-      "num": 284612,
-      "word": "陕西一社保局职工受贿2575万",
-      "onboard_time": 1736130921,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141369,
       "num": 141369,
       "word": "张彬彬新剧道心不稳",
       "onboard_time": 1736093724,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140816,
+      "num": 207261,
+      "word": "马龙将第五次代表北京参赛",
+      "onboard_time": 1736131521,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 139723,
@@ -2595,14 +2651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133146,
-      "num": 205062,
-      "word": "马龙将第五次代表北京参赛",
-      "onboard_time": 1736131521,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 131088,
       "num": 637450,
       "word": "嘀嗒出行回应女生坐顺风车被甩高速",
@@ -2635,6 +2683,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 129759,
+      "num": 129759,
+      "word": "以零容忍态度反腐惩恶",
+      "onboard_time": 1736132241,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 128395,
       "num": 231528,
       "word": "河南省考公告",
@@ -2659,28 +2715,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127925,
-      "num": 127925,
-      "word": "唐探1900演员阵容",
-      "onboard_time": 1736132180,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 127773,
       "num": 127773,
       "word": "余宇涵翻跳NoDoubt",
       "onboard_time": 1736083352,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 127714,
-      "num": 127714,
-      "word": "火箭战胜湖人",
-      "onboard_time": 1736132121,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 127594,
@@ -2713,14 +2753,6 @@
       "onboard_time": 1736068286,
       "rank": 28,
       "category": "教育"
-    },
-    {
-      "raw_hot": 125965,
-      "num": 125965,
-      "word": "会计比对顾总钱总朋友圈保住400万",
-      "onboard_time": 1736131939,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124557,
@@ -2769,14 +2801,6 @@
       "onboard_time": 1736094262,
       "rank": 29,
       "category": "艺人,电竞"
-    },
-    {
-      "raw_hot": 121153,
-      "num": 121153,
-      "word": "孙颖莎 半亩花田",
-      "onboard_time": 1736132180,
-      "rank": 49,
-      "category": "体育,美妆"
     },
     {
       "raw_hot": 120887,
@@ -3011,6 +3035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101105,
+      "num": 207635,
+      "word": "马龙不认同自己是历史最伟大球员",
+      "onboard_time": 1736132780,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100567,
       "num": 492924,
       "word": "张远 抽象是会传染的",
@@ -3019,12 +3051,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 100266,
-      "num": 511994,
-      "word": "多地消费者遭遇加油站作弊",
-      "onboard_time": 1736131462,
-      "rank": 9,
-      "category": "舆论监督"
+      "raw_hot": 99707,
+      "num": 213983,
+      "word": "GMM",
+      "onboard_time": 1736132662,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 98278,
@@ -3411,6 +3443,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 57731,
+      "num": 208190,
+      "word": "尹锡悦支持者反对者对峙升级",
+      "onboard_time": 1736131399,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 57726,
       "num": 271991,
       "word": "我一定会过的",
@@ -3569,14 +3609,6 @@
       "onboard_time": 1736045850,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43591,
-      "num": 182805,
-      "word": "尹锡悦支持者反对者对峙升级",
-      "onboard_time": 1736131399,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 43290,
