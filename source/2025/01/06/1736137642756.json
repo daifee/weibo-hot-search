@@ -1,0 +1,410 @@
+{
+  "runTime": 1736137642756,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2032800,
+        "num": 2032800,
+        "word": "鸡窝头女士收拾漂亮去上班",
+        "onboard_time": 1736134642,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1983211,
+        "num": 1983211,
+        "word": "徐大久称演员星星已进入园区",
+        "onboard_time": 1736136505,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10151,
+        "num": 624152,
+        "word": "古人把剪纸技术用到了瓷器上",
+        "onboard_time": 1736137404,
+        "rank": 2,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 502753,
+        "num": 502753,
+        "word": "男子向大熊猫兰香砸整瓶可乐",
+        "onboard_time": 1736131761,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 460566,
+        "num": 460566,
+        "word": "哪吒汽车",
+        "onboard_time": 1736129001,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 386806,
+        "num": 386806,
+        "word": "假父回应错认儿子16年是看男子可怜",
+        "onboard_time": 1736131161,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3281821,
+        "num": 386801,
+        "word": "多位明星转发演员星星失联消息",
+        "onboard_time": 1736134101,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1241672,
+        "num": 386082,
+        "word": "演员徐大久称刚从人贩子手中逃出来",
+        "onboard_time": 1736134943,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1211933,
+        "num": 385857,
+        "word": "驻清迈总领馆回应演员星星失联",
+        "onboard_time": 1736134701,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277828,
+        "num": 385075,
+        "word": "马龙不认同自己是历史最伟大球员",
+        "onboard_time": 1736132780,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 776505,
+        "num": 384826,
+        "word": "男星赴泰国拍戏失联女友发文求助",
+        "onboard_time": 1736134464,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 625209,
+        "num": 384336,
+        "word": "单依纯 没有碳水怎么活啊",
+        "onboard_time": 1736133021,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 470181,
+        "num": 383834,
+        "word": "孟子义李昀锐星光大赏聚餐照",
+        "onboard_time": 1736135364,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 409033,
+        "num": 383451,
+        "word": "现在拨打的电话 烂尾",
+        "onboard_time": 1736135964,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33833,
+        "num": 382946,
+        "word": "想花40万装修500平的家安装要50万",
+        "onboard_time": 1736137347,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266207,
+        "num": 382808,
+        "word": "孙颖莎 半亩花田",
+        "onboard_time": 1736132180,
+        "rank": 15,
+        "category": "体育,美妆"
+      },
+      {
+        "raw_hot": 255936,
+        "num": 382232,
+        "word": "2025年第1天救了2条人命",
+        "onboard_time": 1736134642,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228941,
+        "num": 381570,
+        "word": "感染甲流5天内用药有效",
+        "onboard_time": 1736129961,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 220830,
+        "num": 381221,
+        "word": "93年女孩成市值407亿公司董事长",
+        "onboard_time": 1736095700,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177019,
+        "num": 380947,
+        "word": "浙江首考",
+        "onboard_time": 1736131280,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 380658,
+        "num": 380658,
+        "word": "建议买草莓一定不要买盆装的",
+        "onboard_time": 1736121320,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 351403,
+        "num": 351403,
+        "word": "时代少年团 海俪恩",
+        "onboard_time": 1736134464,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 346673,
+        "num": 346673,
+        "word": "GMM",
+        "onboard_time": 1736132662,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155226,
+        "num": 315714,
+        "word": "会计比对顾总钱总朋友圈保住400万",
+        "onboard_time": 1736131939,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64072,
+        "num": 295554,
+        "word": "马龙说2015年才觉得被大家认可",
+        "onboard_time": 1736136204,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38513,
+        "num": 293199,
+        "word": "打卡中华文化种子库",
+        "onboard_time": 1736136143,
+        "rank": 25,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 292953,
+        "num": 292953,
+        "word": "唐探1900演员阵容",
+        "onboard_time": 1736132180,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 290357,
+        "num": 290357,
+        "word": "辛雨锡喊话秦霄贤姐姐",
+        "onboard_time": 1736134823,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284239,
+        "num": 284239,
+        "word": "颜十六疑诱骗多名演员前往泰国",
+        "onboard_time": 1736129120,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206405,
+        "num": 250407,
+        "word": "杨紫魏哲鸣新剧包办婚姻受害者",
+        "onboard_time": 1736136444,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245075,
+        "num": 245075,
+        "word": "女子怀孕7个月体重94斤",
+        "onboard_time": 1736090728,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215961,
+        "num": 215961,
+        "word": "赵丽颖看虞书欣眼神",
+        "onboard_time": 1736091566,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212753,
+        "num": 212753,
+        "word": "美国队长4定档",
+        "onboard_time": 1736132780,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204124,
+        "num": 204124,
+        "word": "鞠婧祎 美人鱼",
+        "onboard_time": 1736136925,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 203365,
+        "num": 203365,
+        "word": "秦霄贤姐姐回应辛雨锡",
+        "onboard_time": 1736119577,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68364,
+        "num": 192349,
+        "word": "黛米摩尔金球奖影后",
+        "onboard_time": 1736136025,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191675,
+        "num": 191675,
+        "word": "郭京飞闯进黄景瑜赛道",
+        "onboard_time": 1736135964,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170183,
+        "num": 170183,
+        "word": "胡歌 环保人缝缝补补",
+        "onboard_time": 1736136807,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169845,
+        "num": 169845,
+        "word": "鸡窝头女士穿熟悉的黑棉袄上班了",
+        "onboard_time": 1736137587,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151279,
+        "num": 162886,
+        "word": "太原人一打就是50斤热的老陈醋",
+        "onboard_time": 1736124440,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170019,
+        "num": 162864,
+        "word": "舒淇 雅诗兰黛",
+        "onboard_time": 1736133261,
+        "rank": 40,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 162840,
+        "num": 162840,
+        "word": "华晨宇芭莎男士开年刊封面",
+        "onboard_time": 1736136925,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 155305,
+        "num": 155305,
+        "word": "演员邓友称曾遭遇相似泰国拍戏骗局",
+        "onboard_time": 1736134763,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152558,
+        "num": 152558,
+        "word": "金球奖",
+        "onboard_time": 1736132062,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148627,
+        "num": 148627,
+        "word": "赵丽颖 我点头只是被自己美到了",
+        "onboard_time": 1736088929,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140354,
+        "num": 140354,
+        "word": "警方通报19岁女生被司机扔高速",
+        "onboard_time": 1736095759,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137118,
+        "num": 137118,
+        "word": "从校园餐里1毛钱1毛钱贪了23万",
+        "onboard_time": 1736083231,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134579,
+        "num": 134579,
+        "word": "微博之夜王俊凯的赛博搭子",
+        "onboard_time": 1736137587,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133644,
+        "num": 133644,
+        "word": "金球奖获奖名单",
+        "onboard_time": 1736137587,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126063,
+        "num": 126063,
+        "word": "A股牛走了吗",
+        "onboard_time": 1736129301,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#以零容忍态度反腐惩恶#"
+    }
+  }
+}
