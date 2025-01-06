@@ -1,0 +1,410 @@
+{
+  "runTime": 1736148939282,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 16645237,
+        "num": 16645237,
+        "word": "鹿晗社交平台被禁止关注",
+        "onboard_time": 1736147422,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 782361,
+        "num": 782361,
+        "word": "鸡窝头女士收拾漂亮去上班",
+        "onboard_time": 1736134642,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17160,
+        "num": 586495,
+        "word": "打卡中华文化种子库",
+        "onboard_time": 1736136143,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1223671,
+        "num": 505541,
+        "word": "星星女友呼吁不要听信谣言",
+        "onboard_time": 1736145021,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406573,
+        "num": 406573,
+        "word": "河北邯郸3.0级地震",
+        "onboard_time": 1736145562,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 393173,
+        "num": 393173,
+        "word": "环卫工翻4吨垃圾找回小伙23万彩礼",
+        "onboard_time": 1736145383,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 992926,
+        "num": 375748,
+        "word": "田曦薇星光大赏被anti",
+        "onboard_time": 1736146822,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 680435,
+        "num": 372150,
+        "word": "演员王星是否在妙瓦底有待核实",
+        "onboard_time": 1736136505,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333343,
+        "num": 333343,
+        "word": "韩国小狗与遇难家人告别全程安静",
+        "onboard_time": 1736138488,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 57449,
+        "num": 332745,
+        "word": "贵州高院用四个极描述余华英罪行",
+        "onboard_time": 1736147422,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 849585,
+        "num": 302132,
+        "word": "抖音副总裁回应用户将钱读成米",
+        "onboard_time": 1736142803,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 561717,
+        "num": 289330,
+        "word": "驻缅甸大使馆回应演员星星失联",
+        "onboard_time": 1736144722,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 536355,
+        "num": 283955,
+        "word": "演员星星曾出演玫瑰的故事",
+        "onboard_time": 1736148328,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 493971,
+        "num": 257992,
+        "word": "太好了是长发秦岚",
+        "onboard_time": 1736147543,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37195,
+        "num": 242608,
+        "word": "名校毕业生入职中小学是不是噱头",
+        "onboard_time": 1736147602,
+        "rank": 14,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 397093,
+        "num": 222001,
+        "word": "李现 现男友变现老公了",
+        "onboard_time": 1736147122,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218527,
+        "num": 218527,
+        "word": "两个恋爱脑和一个大馋丫头",
+        "onboard_time": 1736144422,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177493,
+        "num": 177493,
+        "word": "2025年第1天救了2条人命",
+        "onboard_time": 1736134642,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162948,
+        "num": 177489,
+        "word": "广州队未获准入",
+        "onboard_time": 1736145682,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64982,
+        "num": 177479,
+        "word": "徐克版射雕是浪漫主义还是现实主义",
+        "onboard_time": 1736147723,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 403358,
+        "num": 177469,
+        "word": "蔡文静自曝试戏新喜剧之王几轮落空",
+        "onboard_time": 1736143942,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155663,
+        "num": 177463,
+        "word": "余华英案正在死刑复核中",
+        "onboard_time": 1736139865,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206353,
+        "num": 177451,
+        "word": "李荣浩杨丞琳一起参加微博之夜",
+        "onboard_time": 1736147422,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 343235,
+        "num": 177445,
+        "word": "女子吃5斤车厘子后发高烧",
+        "onboard_time": 1736146643,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276423,
+        "num": 177430,
+        "word": "知道白月梵星为什么中午播了",
+        "onboard_time": 1736142923,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230267,
+        "num": 177417,
+        "word": "高三班主任给全班煮了个泡面塔",
+        "onboard_time": 1736144362,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 211330,
+        "num": 177412,
+        "word": "鹿晗怎么了",
+        "onboard_time": 1736148749,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195132,
+        "num": 177406,
+        "word": "迪丽热巴 青壮年艺术家",
+        "onboard_time": 1736148688,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31520,
+        "num": 177389,
+        "word": "足协公布2025赛季准入名单",
+        "onboard_time": 1736146281,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29664,
+        "num": 177380,
+        "word": "马龙说如能力达标会义不容辞出战",
+        "onboard_time": 1736144663,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79391,
+        "num": 177374,
+        "word": "古人把剪纸技术用到了瓷器上",
+        "onboard_time": 1736137404,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 193531,
+        "num": 177360,
+        "word": "建议买草莓一定不要买盆装的",
+        "onboard_time": 1736121320,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114572,
+        "num": 177349,
+        "word": "魏哲鸣说刘畅又强制爱又窝囊",
+        "onboard_time": 1736146941,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73779,
+        "num": 177348,
+        "word": "玄彬孙艺珍夫妇捐3亿韩元",
+        "onboard_time": 1736142742,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177338,
+        "num": 177338,
+        "word": "妙瓦底",
+        "onboard_time": 1736138067,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170701,
+        "num": 170701,
+        "word": "李现看杨紫变魔术反应",
+        "onboard_time": 1736144123,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166300,
+        "num": 166300,
+        "word": "减肥不吃晚餐不会痩",
+        "onboard_time": 1736145142,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159214,
+        "num": 159214,
+        "word": "群演曾被骗到缅北交62万赎回",
+        "onboard_time": 1736147785,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158771,
+        "num": 158771,
+        "word": "12306崩了",
+        "onboard_time": 1736148207,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 151848,
+        "num": 151848,
+        "word": "丁禹兮晋江式少年音",
+        "onboard_time": 1736146342,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160167,
+        "num": 147226,
+        "word": "杨紫25年首套高定造型",
+        "onboard_time": 1736148567,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 139728,
+        "num": 139728,
+        "word": "李泽言生日PV",
+        "onboard_time": 1736147844,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129065,
+        "num": 129065,
+        "word": "柳演锡回应和蔡秀彬恋爱可能性",
+        "onboard_time": 1736140405,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125330,
+        "num": 125330,
+        "word": "女子怀孕7个月体重94斤",
+        "onboard_time": 1736090728,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125245,
+        "num": 125245,
+        "word": "辛雨锡喊话秦霄贤姐姐",
+        "onboard_time": 1736134823,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120772,
+        "num": 120772,
+        "word": "苹果AI要求预留7GB空间",
+        "onboard_time": 1736147905,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 117928,
+        "num": 120373,
+        "word": "鸡窝头女士穿熟悉的黑棉袄上班了",
+        "onboard_time": 1736137587,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120160,
+        "num": 120160,
+        "word": "WTT年度十佳球",
+        "onboard_time": 1736147663,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118862,
+        "num": 118862,
+        "word": "肖战射雕预告",
+        "onboard_time": 1736143942,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118549,
+        "num": 118549,
+        "word": "工藤静香官宣微博之夜",
+        "onboard_time": 1736148688,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#以零容忍态度反腐惩恶#"
+    }
+  }
+}

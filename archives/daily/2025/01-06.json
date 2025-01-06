@@ -1,10 +1,10 @@
 {
   "startTime": 1736094308497,
-  "endTime": 1736148152202,
+  "endTime": 1736148939282,
   "band_list": [
     {
-      "raw_hot": 8758730,
-      "num": 8758730,
+      "raw_hot": 16645237,
+      "num": 16645237,
       "word": "鹿晗社交平台被禁止关注",
       "onboard_time": 1736147422,
       "rank": 0,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1743248,
-      "num": 495676,
+      "num": 505541,
       "word": "星星女友呼吁不要听信谣言",
       "onboard_time": 1736145021,
       "rank": 3,
@@ -139,7 +139,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 888813,
+      "raw_hot": 992926,
       "num": 395596,
       "word": "田曦薇星光大赏被anti",
       "onboard_time": 1736146822,
@@ -219,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 680435,
+      "num": 372150,
+      "word": "演员王星是否在妙瓦底有待核实",
+      "onboard_time": 1736136505,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 661042,
       "num": 661042,
       "word": "唐探1900演员阵容",
@@ -283,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 536355,
+      "num": 283955,
+      "word": "演员星星曾出演玫瑰的故事",
+      "onboard_time": 1736148328,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 523550,
       "num": 523550,
       "word": "有药店玛巴洛沙韦涨价至300元一盒",
@@ -305,6 +321,14 @@
       "onboard_time": 1736087609,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 493971,
+      "num": 257992,
+      "word": "太好了是长发秦岚",
+      "onboard_time": 1736147543,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 489453,
@@ -427,8 +451,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 401037,
-      "num": 401037,
+      "raw_hot": 406573,
+      "num": 406573,
       "word": "河北邯郸3.0级地震",
       "onboard_time": 1736145562,
       "rank": 17,
@@ -449,6 +473,14 @@
       "onboard_time": 1736093544,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 397093,
+      "num": 283506,
+      "word": "李现 现男友变现老公了",
+      "onboard_time": 1736147122,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 393414,
@@ -523,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 343235,
+      "num": 177445,
+      "word": "女子吃5斤车厘子后发高烧",
+      "onboard_time": 1736146643,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 331592,
       "num": 331592,
       "word": "平台或对女大学生被丢高速路承担连带责任",
@@ -537,14 +577,6 @@
       "onboard_time": 1736127621,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 324625,
-      "num": 192825,
-      "word": "太好了是长发秦岚",
-      "onboard_time": 1736147543,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 324541,
@@ -625,14 +657,6 @@
       "onboard_time": 1736129120,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 283506,
-      "num": 283506,
-      "word": "李现 现男友变现老公了",
-      "onboard_time": 1736147122,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 277828,
@@ -787,6 +811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218527,
+      "num": 218527,
+      "word": "两个恋爱脑和一个大馋丫头",
+      "onboard_time": 1736144422,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 218224,
       "num": 218224,
       "word": "金球奖",
@@ -851,6 +883,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 211330,
+      "num": 177412,
+      "word": "鹿晗怎么了",
+      "onboard_time": 1736148749,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210699,
       "num": 210699,
       "word": "田曦薇公主崩溃哭戏",
@@ -867,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206353,
+      "num": 196051,
+      "word": "李荣浩杨丞琳一起参加微博之夜",
+      "onboard_time": 1736147422,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 205212,
       "num": 205212,
       "word": "张彬彬 孙珍妮是全世界最好的紫啧",
@@ -881,14 +929,6 @@
       "onboard_time": 1736082329,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 204528,
-      "num": 196369,
-      "word": "两个恋爱脑和一个大馋丫头",
-      "onboard_time": 1736144422,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 203941,
@@ -931,11 +971,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196051,
-      "num": 196051,
-      "word": "李荣浩杨丞琳一起参加微博之夜",
-      "onboard_time": 1736147422,
-      "rank": 19,
+      "raw_hot": 195132,
+      "num": 177406,
+      "word": "迪丽热巴 青壮年艺术家",
+      "onboard_time": 1736148688,
+      "rank": 27,
       "category": "作品衍生"
     },
     {
@@ -1012,7 +1052,7 @@
     },
     {
       "raw_hot": 177119,
-      "num": 177119,
+      "num": 177349,
       "word": "魏哲鸣说刘畅又强制爱又窝囊",
       "onboard_time": 1736146941,
       "rank": 29,
@@ -1035,16 +1075,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 174067,
-      "num": 174067,
-      "word": "女子吃5斤车厘子后发高烧",
-      "onboard_time": 1736146643,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 172262,
-      "num": 172262,
+      "num": 177489,
       "word": "广州队未获准入",
       "onboard_time": 1736145682,
       "rank": 44,
@@ -1123,6 +1155,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 166300,
+      "num": 166300,
+      "word": "减肥不吃晚餐不会痩",
+      "onboard_time": 1736145142,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 163647,
       "num": 221945,
       "word": "56岁儿子把82岁妈妈重新养了一遍",
@@ -1153,6 +1193,30 @@
       "onboard_time": 1736129301,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 160167,
+      "num": 147226,
+      "word": "杨紫25年首套高定造型",
+      "onboard_time": 1736148567,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 159214,
+      "num": 159214,
+      "word": "群演曾被骗到缅北交62万赎回",
+      "onboard_time": 1736147785,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 158771,
+      "num": 158771,
+      "word": "12306崩了",
+      "onboard_time": 1736148207,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 158143,
@@ -1259,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139728,
+      "num": 139728,
+      "word": "李泽言生日PV",
+      "onboard_time": 1736147844,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 138268,
       "num": 174228,
       "word": "河南12岁男孩落水失联后遗体已找到",
@@ -1273,14 +1345,6 @@
       "onboard_time": 1736140584,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 137004,
-      "num": 137004,
-      "word": "减肥不吃晚餐不会痩",
-      "onboard_time": 1736145142,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 136776,
@@ -1435,12 +1499,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 119885,
-      "num": 119885,
-      "word": "群演曾被骗到缅北交62万赎回",
-      "onboard_time": 1736147785,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 120772,
+      "num": 120772,
+      "word": "苹果AI要求预留7GB空间",
+      "onboard_time": 1736147905,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 120160,
+      "num": 120160,
+      "word": "WTT年度十佳球",
+      "onboard_time": 1736147663,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 118549,
+      "num": 118549,
+      "word": "工藤静香官宣微博之夜",
+      "onboard_time": 1736148688,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 117726,
@@ -1452,7 +1532,7 @@
     },
     {
       "raw_hot": 116747,
-      "num": 116747,
+      "num": 177348,
       "word": "玄彬孙艺珍夫妇捐3亿韩元",
       "onboard_time": 1736142742,
       "rank": 41,
@@ -1587,22 +1667,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 101359,
-      "num": 101359,
-      "word": "苹果AI要求预留7GB空间",
-      "onboard_time": 1736147905,
-      "rank": 48,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 98244,
-      "num": 101308,
-      "word": "李泽言生日PV",
-      "onboard_time": 1736147844,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 95154,
       "num": 110864,
       "word": "挑杯BO9决赛预言家",
@@ -1731,6 +1795,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 79391,
+      "num": 1028294,
+      "word": "古人把剪纸技术用到了瓷器上",
+      "onboard_time": 1736137404,
+      "rank": 2,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 78898,
       "num": 200836,
       "word": "涉事公司员工回应消费券当工资",
@@ -1795,6 +1867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 64982,
+      "num": 196169,
+      "word": "徐克版射雕是浪漫主义还是现实主义",
+      "onboard_time": 1736147723,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 64072,
       "num": 295554,
       "word": "马龙说2015年才觉得被大家认可",
@@ -1835,6 +1915,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 57449,
+      "num": 332745,
+      "word": "贵州高院用四个极描述余华英罪行",
+      "onboard_time": 1736147422,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56106,
       "num": 119109,
       "word": "Faker和Chovy同队",
@@ -1849,14 +1937,6 @@
       "onboard_time": 1736096658,
       "rank": 46,
       "category": "演出,电影"
-    },
-    {
-      "raw_hot": 54348,
-      "num": 1028294,
-      "word": "古人把剪纸技术用到了瓷器上",
-      "onboard_time": 1736137404,
-      "rank": 2,
-      "category": "科学科普"
     },
     {
       "raw_hot": 49594,
@@ -1924,19 +2004,19 @@
     },
     {
       "raw_hot": 38513,
-      "num": 293199,
+      "num": 586495,
       "word": "打卡中华文化种子库",
       "onboard_time": 1736136143,
       "rank": 25,
       "category": "正能量"
     },
     {
-      "raw_hot": 32750,
-      "num": 330872,
-      "word": "贵州高院用四个极描述余华英罪行",
-      "onboard_time": 1736147422,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 37195,
+      "num": 299305,
+      "word": "名校毕业生入职中小学是不是噱头",
+      "onboard_time": 1736147602,
+      "rank": 13,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 31672,
@@ -1945,6 +2025,14 @@
       "onboard_time": 1736100315,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 31520,
+      "num": 177389,
+      "word": "足协公布2025赛季准入名单",
+      "onboard_time": 1736146281,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 30661,
@@ -1971,14 +2059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25841,
-      "num": 196169,
-      "word": "徐克版射雕是浪漫主义还是现实主义",
-      "onboard_time": 1736147723,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 25815,
       "num": 40419,
       "word": "AG南京见",
@@ -1993,14 +2073,6 @@
       "onboard_time": 1736102653,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24095,
-      "num": 299305,
-      "word": "名校毕业生入职中小学是不是噱头",
-      "onboard_time": 1736147602,
-      "rank": 13,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 22266,

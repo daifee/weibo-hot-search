@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736148152202,
+  "endTime": 1736148939282,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -33,6 +33,14 @@
       "onboard_time": 1735991665,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 16645237,
+      "num": 16645237,
+      "word": "鹿晗社交平台被禁止关注",
+      "onboard_time": 1736147422,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 16189782,
@@ -97,14 +105,6 @@
       "onboard_time": 1736000553,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 8758730,
-      "num": 8758730,
-      "word": "鹿晗社交平台被禁止关注",
-      "onboard_time": 1736147422,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 8711179,
@@ -620,7 +620,7 @@
     },
     {
       "raw_hot": 1743248,
-      "num": 495676,
+      "num": 505541,
       "word": "星星女友呼吁不要听信谣言",
       "onboard_time": 1736145021,
       "rank": 3,
@@ -1443,6 +1443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 992926,
+      "num": 395596,
+      "word": "田曦薇星光大赏被anti",
+      "onboard_time": 1736146822,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 991350,
       "num": 297270,
       "word": "轧戏",
@@ -1713,14 +1721,6 @@
       "onboard_time": 1736086409,
       "rank": 12,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 888813,
-      "num": 395596,
-      "word": "田曦薇星光大赏被anti",
-      "onboard_time": 1736146822,
-      "rank": 6,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 886676,
