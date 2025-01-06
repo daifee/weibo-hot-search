@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736129299104,
+  "endTime": 1736132253313,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 2277571,
-      "num": 457316,
+      "num": 581816,
       "word": "龚俊为演员星星发声",
       "onboard_time": 1736128222,
       "rank": 5,
@@ -1683,6 +1683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 876260,
+      "num": 530872,
+      "word": "颜十六",
+      "onboard_time": 1736129120,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 874291,
       "num": 985231,
       "word": "张新成问孟子义李昀锐你们要不要",
@@ -1833,6 +1841,14 @@
       "onboard_time": 1735912100,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 818844,
+      "num": 818844,
+      "word": "哪吒汽车",
+      "onboard_time": 1736129001,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 818752,
@@ -2188,7 +2204,7 @@
     },
     {
       "raw_hot": 702186,
-      "num": 702186,
+      "num": 1716908,
       "word": "93年女孩成市值407亿公司董事长",
       "onboard_time": 1736095700,
       "rank": 12,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1735919421,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 650437,
-      "num": 1090516,
-      "word": "陈哲远发了5万红包",
-      "onboard_time": 1735701379,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 650410,
-      "num": 650410,
-      "word": "韩国9名家人遇难的小狗已被收养",
-      "onboard_time": 1735793543,
-      "rank": 3,
-      "category": "海外新闻"
     }
   ],
   "hotgov_list": [

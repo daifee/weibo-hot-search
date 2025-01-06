@@ -1,0 +1,410 @@
+{
+  "runTime": 1736132253313,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3381469,
+        "num": 3381469,
+        "word": "演员星星在泰缅边境失联",
+        "onboard_time": 1736121019,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450249,
+        "num": 1716908,
+        "word": "93年女孩成市值407亿公司董事长",
+        "onboard_time": 1736095700,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30246,
+        "num": 1227781,
+        "word": "近期流感高发如何做好防护",
+        "onboard_time": 1736077347,
+        "rank": 2,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 818844,
+        "num": 818844,
+        "word": "哪吒汽车",
+        "onboard_time": 1736129001,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 607138,
+        "num": 607138,
+        "word": "感染甲流5天内用药有效",
+        "onboard_time": 1736129961,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 343933,
+        "num": 590812,
+        "word": "警方通报19岁女生被司机扔高速",
+        "onboard_time": 1736095759,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2255821,
+        "num": 581816,
+        "word": "龚俊为演员星星发声",
+        "onboard_time": 1736128222,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310215,
+        "num": 547053,
+        "word": "从校园餐里1毛钱1毛钱贪了23万",
+        "onboard_time": 1736083231,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 876260,
+        "num": 530872,
+        "word": "颜十六",
+        "onboard_time": 1736129120,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100266,
+        "num": 511994,
+        "word": "多地消费者遭遇加油站作弊",
+        "onboard_time": 1736131462,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 504789,
+        "num": 504789,
+        "word": "秦霄贤姐姐回应辛雨锡",
+        "onboard_time": 1736119577,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383213,
+        "num": 383213,
+        "word": "有药店玛巴洛沙韦涨价至300元一盒",
+        "onboard_time": 1736126242,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 327460,
+        "num": 327460,
+        "word": "杨紫魏哲鸣国色芳华有感情戏",
+        "onboard_time": 1736127621,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293565,
+        "num": 293565,
+        "word": "赵丽颖看虞书欣眼神",
+        "onboard_time": 1736091566,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143668,
+        "num": 284612,
+        "word": "陕西一社保局职工受贿2575万",
+        "onboard_time": 1736130921,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281261,
+        "num": 281261,
+        "word": "假父回应错认儿子16年是看男子可怜",
+        "onboard_time": 1736131161,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255045,
+        "num": 255045,
+        "word": "田曦薇 摇曳生姿红玫瑰",
+        "onboard_time": 1736123182,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241860,
+        "num": 241860,
+        "word": "太原人一打就是50斤热的老陈醋",
+        "onboard_time": 1736124440,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215868,
+        "num": 215868,
+        "word": "IVE预告里的安宥真张元英",
+        "onboard_time": 1736128700,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207696,
+        "num": 207696,
+        "word": "Oner道歉",
+        "onboard_time": 1736124862,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 433946,
+        "num": 207237,
+        "word": "建议买草莓一定不要买盆装的",
+        "onboard_time": 1736121320,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 361475,
+        "num": 206805,
+        "word": "女子怀孕7个月体重94斤",
+        "onboard_time": 1736090728,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235259,
+        "num": 206409,
+        "word": "赵丽颖 我点头只是被自己美到了",
+        "onboard_time": 1736088929,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223703,
+        "num": 205861,
+        "word": "猫在洗衣机里洗了2分钟才被发现",
+        "onboard_time": 1736083290,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133146,
+        "num": 205062,
+        "word": "马龙将第五次代表北京参赛",
+        "onboard_time": 1736131521,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204866,
+        "num": 204866,
+        "word": "贪官把个人收款码贴在办事大厅",
+        "onboard_time": 1736084310,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203478,
+        "num": 203478,
+        "word": "感染了甲流该怎么办",
+        "onboard_time": 1736121860,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 198612,
+        "num": 198612,
+        "word": "秦霄贤姐姐晒聊天记录",
+        "onboard_time": 1736123843,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187579,
+        "num": 187579,
+        "word": "金球奖",
+        "onboard_time": 1736132062,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 43591,
+        "num": 182805,
+        "word": "尹锡悦支持者反对者对峙升级",
+        "onboard_time": 1736131399,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 179361,
+        "num": 179361,
+        "word": "陕西蒲城通报一职校学生坠楼",
+        "onboard_time": 1736128160,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178816,
+        "num": 178816,
+        "word": "男子向大熊猫兰香砸整瓶可乐",
+        "onboard_time": 1736131761,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177305,
+        "num": 177305,
+        "word": "90岁网红奶奶去世",
+        "onboard_time": 1736123001,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174348,
+        "num": 174348,
+        "word": "玛巴洛沙韦和奥司他韦有啥区别",
+        "onboard_time": 1736131761,
+        "rank": 33,
+        "category": "健康医疗,运动健身"
+      },
+      {
+        "raw_hot": 173052,
+        "num": 173052,
+        "word": "男孩嘴唇开裂奶奶给整了个偏方",
+        "onboard_time": 1736113692,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 169662,
+        "num": 169662,
+        "word": "浙江首考",
+        "onboard_time": 1736131280,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153436,
+        "num": 153436,
+        "word": "这只老虎怎么猫里猫气的",
+        "onboard_time": 1736128341,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152854,
+        "num": 152854,
+        "word": "哪吒汽车销售回应官网异常",
+        "onboard_time": 1736130981,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 149645,
+        "num": 149645,
+        "word": "高原官兵的巡逻路要爬1377级天梯",
+        "onboard_time": 1736130502,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149525,
+        "num": 149525,
+        "word": "A股牛走了吗",
+        "onboard_time": 1736129301,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 147014,
+        "num": 147014,
+        "word": "丁禹兮关注了张碧晨",
+        "onboard_time": 1736122101,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137500,
+        "num": 137500,
+        "word": "人类虹膜生物信息是此生唯一",
+        "onboard_time": 1736122821,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 136776,
+        "num": 136776,
+        "word": "金球奖红毯",
+        "onboard_time": 1736126421,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130616,
+        "num": 130616,
+        "word": "陕西坠亡学生事发前与同学争执",
+        "onboard_time": 1736128882,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127925,
+        "num": 127925,
+        "word": "唐探1900演员阵容",
+        "onboard_time": 1736132180,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127714,
+        "num": 127714,
+        "word": "火箭战胜湖人",
+        "onboard_time": 1736132121,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125965,
+        "num": 125965,
+        "word": "会计比对顾总钱总朋友圈保住400万",
+        "onboard_time": 1736131939,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123340,
+        "num": 123340,
+        "word": "马龙说今年将是最后一次全运会",
+        "onboard_time": 1736129481,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122670,
+        "num": 122670,
+        "word": "感染了甲流会有什么症状",
+        "onboard_time": 1736124921,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121153,
+        "num": 121153,
+        "word": "孙颖莎 半亩花田",
+        "onboard_time": 1736132180,
+        "rank": 49,
+        "category": "体育,美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的2024外交足迹#"
+    }
+  }
+}

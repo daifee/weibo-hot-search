@@ -1,6 +1,6 @@
 {
   "startTime": 1736094308497,
-  "endTime": 1736129299104,
+  "endTime": 1736132253313,
   "band_list": [
     {
       "raw_hot": 4267121,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2277571,
-      "num": 457316,
+      "num": 581816,
       "word": "龚俊为演员星星发声",
       "onboard_time": 1736128222,
       "rank": 5,
@@ -59,6 +59,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 876260,
+      "num": 530872,
+      "word": "颜十六",
+      "onboard_time": 1736129120,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 818844,
+      "num": 818844,
+      "word": "哪吒汽车",
+      "onboard_time": 1736129001,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 755901,
       "num": 522007,
       "word": "秦霄贤姐姐回应辛雨锡",
@@ -68,7 +84,7 @@
     },
     {
       "raw_hot": 702186,
-      "num": 702186,
+      "num": 1716908,
       "word": "93年女孩成市值407亿公司董事长",
       "onboard_time": 1736095700,
       "rank": 12,
@@ -81,6 +97,14 @@
       "onboard_time": 1736095759,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 607138,
+      "num": 607138,
+      "word": "感染甲流5天内用药有效",
+      "onboard_time": 1736129961,
+      "rank": 4,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 599012,
@@ -116,7 +140,7 @@
     },
     {
       "raw_hot": 498708,
-      "num": 498708,
+      "num": 547053,
       "word": "从校园餐里1毛钱1毛钱贪了23万",
       "onboard_time": 1736083231,
       "rank": 4,
@@ -179,20 +203,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 433946,
+      "num": 235974,
+      "word": "建议买草莓一定不要买盆装的",
+      "onboard_time": 1736121320,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 430125,
       "num": 430125,
       "word": "夏之光晒和代露娃合照",
       "onboard_time": 1736089769,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 422623,
-      "num": 235974,
-      "word": "建议买草莓一定不要买盆装的",
-      "onboard_time": 1736121320,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 411160,
@@ -267,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 327460,
+      "num": 327460,
+      "word": "杨紫魏哲鸣国色芳华有感情戏",
+      "onboard_time": 1736127621,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 306938,
       "num": 306938,
       "word": "太原人一打就是50斤热的老陈醋",
@@ -296,6 +328,14 @@
       "word": "每加一箱油被偷走1.5升",
       "onboard_time": 1736094742,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 281261,
+      "num": 281261,
+      "word": "假父回应错认儿子16年是看男子可怜",
+      "onboard_time": 1736131161,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -329,14 +369,6 @@
       "onboard_time": 1736125221,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 248994,
-      "num": 248994,
-      "word": "杨紫魏哲鸣国色芳华有感情戏",
-      "onboard_time": 1736127621,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 247864,
@@ -395,14 +427,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 219459,
-      "num": 219459,
-      "word": "哪吒汽车",
-      "onboard_time": 1736129001,
-      "rank": 27,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 217857,
       "num": 217857,
       "word": "顺风车司机将女子高速赶下车被行拘",
@@ -459,12 +483,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187579,
+      "num": 187579,
+      "word": "金球奖",
+      "onboard_time": 1736132062,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 184086,
       "num": 184086,
       "word": "尹锡悦逮捕令今天到期",
       "onboard_time": 1736120178,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 179361,
+      "num": 179361,
+      "word": "陕西蒲城通报一职校学生坠楼",
+      "onboard_time": 1736128160,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178908,
@@ -475,12 +515,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178816,
+      "num": 178816,
+      "word": "男子向大熊猫兰香砸整瓶可乐",
+      "onboard_time": 1736131761,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174348,
+      "num": 174348,
+      "word": "玛巴洛沙韦和奥司他韦有啥区别",
+      "onboard_time": 1736131761,
+      "rank": 33,
+      "category": "健康医疗,运动健身"
+    },
+    {
       "raw_hot": 170524,
       "num": 170524,
       "word": "李现来到了谢之遥的有风小院",
       "onboard_time": 1736084370,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169662,
+      "num": 169662,
+      "word": "浙江首考",
+      "onboard_time": 1736131280,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 167894,
@@ -523,6 +587,38 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 152854,
+      "num": 152854,
+      "word": "哪吒汽车销售回应官网异常",
+      "onboard_time": 1736130981,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 149645,
+      "num": 149645,
+      "word": "高原官兵的巡逻路要爬1377级天梯",
+      "onboard_time": 1736130502,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149525,
+      "num": 149525,
+      "word": "A股牛走了吗",
+      "onboard_time": 1736129301,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 143668,
+      "num": 284612,
+      "word": "陕西一社保局职工受贿2575万",
+      "onboard_time": 1736130921,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141369,
       "num": 141369,
       "word": "张彬彬新剧道心不稳",
@@ -537,6 +633,14 @@
       "onboard_time": 1736118497,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136776,
+      "num": 136776,
+      "word": "金球奖红毯",
+      "onboard_time": 1736126421,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 136049,
@@ -579,11 +683,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133475,
-      "num": 133475,
-      "word": "陕西蒲城通报一职校学生坠楼",
-      "onboard_time": 1736128160,
-      "rank": 42,
+      "raw_hot": 133146,
+      "num": 205062,
+      "word": "马龙将第五次代表北京参赛",
+      "onboard_time": 1736131521,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 130616,
+      "num": 130616,
+      "word": "陕西坠亡学生事发前与同学争执",
+      "onboard_time": 1736128882,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -595,20 +707,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 129008,
-      "num": 129008,
-      "word": "金球奖红毯",
-      "onboard_time": 1736126421,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 128395,
       "num": 231528,
       "word": "河南省考公告",
       "onboard_time": 1736125401,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 127925,
+      "num": 127925,
+      "word": "唐探1900演员阵容",
+      "onboard_time": 1736132180,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 127714,
+      "num": 127714,
+      "word": "火箭战胜湖人",
+      "onboard_time": 1736132121,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 126446,
@@ -627,6 +747,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125965,
+      "num": 125965,
+      "word": "会计比对顾总钱总朋友圈保住400万",
+      "onboard_time": 1736131939,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123340,
+      "num": 123340,
+      "word": "马龙说今年将是最后一次全运会",
+      "onboard_time": 1736129481,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 122670,
+      "num": 122670,
+      "word": "感染了甲流会有什么症状",
+      "onboard_time": 1736124921,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 121459,
       "num": 183463,
       "word": "danking直播",
@@ -635,20 +779,12 @@
       "category": "艺人,电竞"
     },
     {
-      "raw_hot": 121426,
-      "num": 121426,
-      "word": "颜十六",
-      "onboard_time": 1736129120,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 116590,
-      "num": 116590,
-      "word": "陕西坠亡学生事发前与同学争执",
-      "onboard_time": 1736128882,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 121153,
+      "num": 121153,
+      "word": "孙颖莎 半亩花田",
+      "onboard_time": 1736132180,
+      "rank": 49,
+      "category": "体育,美妆"
     },
     {
       "raw_hot": 115199,
@@ -712,6 +848,14 @@
       "word": "央视起底虹膜写真暗藏风险",
       "onboard_time": 1736089469,
       "rank": 44,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 100266,
+      "num": 511994,
+      "word": "多地消费者遭遇加油站作弊",
+      "onboard_time": 1736131462,
+      "rank": 9,
       "category": "舆论监督"
     },
     {
@@ -828,7 +972,7 @@
     },
     {
       "raw_hot": 61414,
-      "num": 597741,
+      "num": 1227781,
       "word": "近期流感高发如何做好防护",
       "onboard_time": 1736077347,
       "rank": 2,
@@ -872,6 +1016,14 @@
       "word": "俄乌士兵肉搏视频曝光",
       "onboard_time": 1736108291,
       "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 43591,
+      "num": 182805,
+      "word": "尹锡悦支持者反对者对峙升级",
+      "onboard_time": 1736131399,
+      "rank": 29,
       "category": "国际时政"
     },
     {
