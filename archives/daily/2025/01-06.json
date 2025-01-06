@@ -1,6 +1,6 @@
 {
   "startTime": 1736094308497,
-  "endTime": 1736140950272,
+  "endTime": 1736141954703,
   "band_list": [
     {
       "raw_hot": 4267121,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 754078,
+      "num": 336646,
+      "word": "妙瓦底",
+      "onboard_time": 1736138067,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 749244,
       "num": 1410025,
       "word": "假父回应错认儿子16年是看男子可怜",
@@ -147,20 +155,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 714364,
+      "num": 714364,
+      "word": "韩国小狗与遇难家人告别全程安静",
+      "onboard_time": 1736138488,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 702186,
       "num": 1716908,
       "word": "93年女孩成市值407亿公司董事长",
       "onboard_time": 1736095700,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 677730,
-      "num": 677730,
-      "word": "韩国小狗与遇难家人告别全程安静",
-      "onboard_time": 1736138488,
-      "rank": 48,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 661042,
@@ -227,14 +235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 532389,
-      "num": 335358,
-      "word": "妙瓦底",
-      "onboard_time": 1736138067,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 523550,
       "num": 523550,
       "word": "有药店玛巴洛沙韦涨价至300元一盒",
@@ -283,6 +283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 465933,
+      "num": 334564,
+      "word": "国色芳华直播",
+      "onboard_time": 1736138127,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 460800,
       "num": 383451,
       "word": "现在拨打的电话 烂尾",
@@ -305,14 +313,6 @@
       "onboard_time": 1736090429,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 442454,
-      "num": 334564,
-      "word": "国色芳华直播",
-      "onboard_time": 1736138127,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 438845,
@@ -451,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 324541,
+      "num": 333381,
+      "word": "鱼 我妈都没你了解我",
+      "onboard_time": 1736138728,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 316242,
       "num": 382808,
       "word": "孙颖莎 半亩花田",
@@ -523,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 275084,
+      "num": 238770,
+      "word": "迪丽热巴黑粉被判赔并道歉",
+      "onboard_time": 1736139806,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269853,
       "num": 269853,
       "word": "秦霄贤姐姐晒聊天记录",
@@ -560,14 +576,6 @@
       "word": "陈建斌再现甄嬛传名场面",
       "onboard_time": 1736125221,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 252879,
-      "num": 211223,
-      "word": "迪丽热巴黑粉被判赔并道歉",
-      "onboard_time": 1736139806,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -635,14 +643,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 226233,
-      "num": 333381,
-      "word": "鱼 我妈都没你了解我",
-      "onboard_time": 1736138728,
-      "rank": 15,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 224012,
       "num": 250407,
       "word": "杨紫魏哲鸣新剧包办婚姻受害者",
@@ -659,6 +659,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 220847,
+      "num": 336148,
+      "word": "余华英案正在死刑复核中",
+      "onboard_time": 1736139865,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 219582,
       "num": 284612,
       "word": "陕西一社保局职工受贿2575万",
@@ -673,6 +681,14 @@
       "onboard_time": 1736132062,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 218103,
+      "num": 218103,
+      "word": "白鹿头像换成了白烁",
+      "onboard_time": 1736140525,
+      "rank": 29,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 217857,
@@ -769,14 +785,6 @@
       "onboard_time": 1736128160,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 199967,
-      "num": 211370,
-      "word": "白鹿头像换成了白烁",
-      "onboard_time": 1736140525,
-      "rank": 29,
-      "category": "剧集,艺人"
     },
     {
       "raw_hot": 198074,
@@ -995,6 +1003,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 152407,
+      "num": 152407,
+      "word": "田曦薇哭戏",
+      "onboard_time": 1736141184,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149645,
       "num": 149645,
       "word": "高原官兵的巡逻路要爬1377级天梯",
@@ -1147,20 +1163,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125785,
-      "num": 336148,
-      "word": "余华英案正在死刑复核中",
-      "onboard_time": 1736139865,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125528,
       "num": 382946,
       "word": "想花40万装修500平的家安装要50万",
       "onboard_time": 1736137347,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125338,
+      "num": 331642,
+      "word": "医药股集体大涨",
+      "onboard_time": 1736139687,
+      "rank": 19,
+      "category": "财经,健康医疗"
     },
     {
       "raw_hot": 123340,
@@ -1179,6 +1195,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 122424,
+      "num": 152732,
+      "word": "武则天妲己瑶无双皮肤优化",
+      "onboard_time": 1736141243,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 121459,
       "num": 183463,
       "word": "danking直播",
@@ -1188,7 +1212,7 @@
     },
     {
       "raw_hot": 121439,
-      "num": 121439,
+      "num": 151860,
       "word": "韩在野党称总统警卫处接到发射实弹命令",
       "onboard_time": 1736136866,
       "rank": 44,
@@ -1227,20 +1251,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 110983,
+      "num": 153441,
+      "word": "新说唱2025海选还是太全面了",
+      "onboard_time": 1736141843,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109585,
       "num": 109585,
       "word": "吉林一公司发消费券代替工资",
       "onboard_time": 1736082209,
       "rank": 42,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 106255,
-      "num": 331642,
-      "word": "医药股集体大涨",
-      "onboard_time": 1736139687,
-      "rank": 19,
-      "category": "财经,健康医疗"
     },
     {
       "raw_hot": 105891,
@@ -1363,6 +1387,14 @@
       "category": "演出,综艺"
     },
     {
+      "raw_hot": 79941,
+      "num": 150153,
+      "word": "56岁儿子把82岁妈妈重新养了一遍",
+      "onboard_time": 1736141423,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78898,
       "num": 200836,
       "word": "涉事公司员工回应消费券当工资",
@@ -1387,12 +1419,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 73005,
+      "num": 150008,
+      "word": "杨妞花收到余华英死刑终审裁定书",
+      "onboard_time": 1736141902,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71508,
       "num": 71508,
       "word": "这3种人请深交一辈子",
       "onboard_time": 1736095161,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 71263,
+      "num": 149575,
+      "word": "冰雪辽宁舰亮相尔滨",
+      "onboard_time": 1736135664,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 69192,
@@ -1491,6 +1539,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 47203,
+      "num": 241281,
+      "word": "汪苏泷官宣微博之夜",
+      "onboard_time": 1736139270,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 46399,
       "num": 332137,
       "word": "剧本都不敢写陈挑战的人生",
@@ -1537,14 +1593,6 @@
       "onboard_time": 1736136143,
       "rank": 25,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 35717,
-      "num": 195376,
-      "word": "汪苏泷官宣微博之夜",
-      "onboard_time": 1736139270,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 31672,
@@ -1603,12 +1651,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18471,
+      "num": 233204,
+      "word": "马龙13岁时险些被省队淘汰",
+      "onboard_time": 1736138846,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 17849,
       "num": 164490,
       "word": "小泉眼如何变成万里长江",
       "onboard_time": 1736133861,
       "rank": 39,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 16669,
+      "num": 152896,
+      "word": "雷霆东方不败",
+      "onboard_time": 1736141303,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 16347,
@@ -1633,6 +1697,14 @@
       "onboard_time": 1736102893,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 13632,
+      "num": 242306,
+      "word": "384金球奖影帝",
+      "onboard_time": 1736141243,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 13176,
