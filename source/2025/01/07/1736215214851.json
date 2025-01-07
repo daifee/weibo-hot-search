@@ -1,0 +1,410 @@
+{
+  "runTime": 1736215214851,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1766920,
+        "num": 1766920,
+        "word": "西藏地震",
+        "onboard_time": 1736212460,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1192896,
+        "num": 1192896,
+        "word": "西藏日喀则6.8级地震",
+        "onboard_time": 1736213180,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126405,
+        "num": 928907,
+        "word": "我国在青藏高原取得找矿重大突破",
+        "onboard_time": 1736167224,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1763990,
+        "num": 924030,
+        "word": "演员王星女友更新最新情况",
+        "onboard_time": 1736207300,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 904245,
+        "num": 904245,
+        "word": "李心艾刘子瑞结婚",
+        "onboard_time": 1736214322,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 626277,
+        "num": 626277,
+        "word": "2岁娃长隆酒店高烧保安拒交外卖药",
+        "onboard_time": 1736175144,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 505414,
+        "num": 505414,
+        "word": "泰国影视圈人士发声",
+        "onboard_time": 1736211442,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435611,
+        "num": 435611,
+        "word": "多方回应入住酒店孩子高烧取外卖难",
+        "onboard_time": 1736207059,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 431921,
+        "num": 431921,
+        "word": "杨紫 没有这么欺负人的",
+        "onboard_time": 1736167822,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144079,
+        "num": 418001,
+        "word": "准备进入过年模式了",
+        "onboard_time": 1736207598,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 622609,
+        "num": 416100,
+        "word": "腾讯回应被列入美国防部名单",
+        "onboard_time": 1736209640,
+        "rank": 10,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 619316,
+        "num": 415400,
+        "word": "黄子韬炮轰演员星星失联事件招聘组",
+        "onboard_time": 1736206037,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413262,
+        "num": 413262,
+        "word": "赞达亚荷兰弟订婚",
+        "onboard_time": 1736209401,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359028,
+        "num": 359028,
+        "word": "市监局工作人员回应九点没人上班",
+        "onboard_time": 1736208679,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28962,
+        "num": 355455,
+        "word": "泰国文华律所谈王星失踪案进展",
+        "onboard_time": 1736215039,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355166,
+        "num": 355166,
+        "word": "一次收几十元微信红包最后贪了47万",
+        "onboard_time": 1736171844,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338100,
+        "num": 338100,
+        "word": "过了腊八就是年",
+        "onboard_time": 1736203514,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281322,
+        "num": 281322,
+        "word": "美国会确认特朗普当选总统",
+        "onboard_time": 1736205918,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 273121,
+        "num": 273121,
+        "word": "失联9天走出太白山男子恐面临截肢",
+        "onboard_time": 1736173344,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250497,
+        "num": 250497,
+        "word": "宋佳想要成毅的微信",
+        "onboard_time": 1736205497,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234927,
+        "num": 234927,
+        "word": "韩国人最喜欢的中剧排行",
+        "onboard_time": 1736205558,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218470,
+        "num": 218470,
+        "word": "腊八节",
+        "onboard_time": 1736205256,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195832,
+        "num": 195832,
+        "word": "天津市考成绩",
+        "onboard_time": 1736212460,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 190524,
+        "num": 190524,
+        "word": "美国总统拜登被提起诉讼",
+        "onboard_time": 1736207839,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 234579,
+        "num": 189351,
+        "word": "成毅喂牛",
+        "onboard_time": 1736213061,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186951,
+        "num": 186951,
+        "word": "甲流后发烧一查变成病毒性肺炎",
+        "onboard_time": 1736175683,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174818,
+        "num": 174818,
+        "word": "学医小伙靠两天食物山上存活9天",
+        "onboard_time": 1736210961,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172709,
+        "num": 172709,
+        "word": "教资面试成绩",
+        "onboard_time": 1736213721,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 164932,
+        "num": 164932,
+        "word": "汕头牛肉丸必须牛肉含量超9成",
+        "onboard_time": 1736213361,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 156207,
+        "num": 156207,
+        "word": "魏哲鸣 你是正室",
+        "onboard_time": 1736205437,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156171,
+        "num": 156171,
+        "word": "反腐为了人民",
+        "onboard_time": 1736181498,
+        "rank": 30,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 146625,
+        "num": 146625,
+        "word": "Minnie空降",
+        "onboard_time": 1736212340,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138433,
+        "num": 138433,
+        "word": "男子甲流后患病毒性肺炎四肢末端花斑",
+        "onboard_time": 1736172804,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 26252,
+        "num": 134413,
+        "word": "孙颖莎说真正做到在每一板中抠分",
+        "onboard_time": 1736211500,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130498,
+        "num": 130498,
+        "word": "中国驻泰国使馆回应演员星星失联",
+        "onboard_time": 1736166262,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116422,
+        "num": 116422,
+        "word": "官方通报女子吃包子称有甲醛索赔",
+        "onboard_time": 1736214259,
+        "rank": 35,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 115275,
+        "num": 115275,
+        "word": "日本知名企业历史上首次起诉美国总统",
+        "onboard_time": 1736208079,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113012,
+        "num": 113012,
+        "word": "微博之夜阵容",
+        "onboard_time": 1736171484,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112516,
+        "num": 112516,
+        "word": "陈梦打卡了福州爱心树",
+        "onboard_time": 1736214201,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111368,
+        "num": 111368,
+        "word": "金智秀韩剧新乌托邦",
+        "onboard_time": 1736215039,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108930,
+        "num": 108930,
+        "word": "哈里斯宣布特朗普当选后掏出纸巾",
+        "onboard_time": 1736214921,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106654,
+        "num": 106654,
+        "word": "庄智渊王歆茹退出WTT世排",
+        "onboard_time": 1736213299,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106142,
+        "num": 106142,
+        "word": "电影东极岛",
+        "onboard_time": 1736213660,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105533,
+        "num": 105533,
+        "word": "宋亚轩紫发深V",
+        "onboard_time": 1736210240,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102519,
+        "num": 102519,
+        "word": "实践二十五号卫星发射成功",
+        "onboard_time": 1736206998,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100403,
+        "num": 100403,
+        "word": "东北的早市才是碳水届扛把子",
+        "onboard_time": 1736214921,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 99293,
+        "num": 99293,
+        "word": "印尼成为金砖国家正式成员",
+        "onboard_time": 1736213000,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96434,
+        "num": 96434,
+        "word": "为什么感染甲流这么疼啊",
+        "onboard_time": 1736167343,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 93604,
+        "num": 93604,
+        "word": "货车撞上出殡队伍致20死整改报告发布",
+        "onboard_time": 1736168063,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90626,
+        "num": 90626,
+        "word": "肖战谈自己五年间的变化",
+        "onboard_time": 1736205616,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届中央纪委四次全会召开#"
+    }
+  }
+}
