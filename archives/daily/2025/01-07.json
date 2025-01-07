@@ -1,6 +1,6 @@
 {
   "startTime": 1736180901032,
-  "endTime": 1736219084786,
+  "endTime": 1736220533437,
   "band_list": [
     {
       "raw_hot": 2582877,
@@ -8,6 +8,14 @@
       "word": "西藏地震",
       "onboard_time": 1736212460,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2253709,
+      "num": 2253709,
+      "word": "台湾歌手撞人致死第2天仍参加演唱会",
+      "onboard_time": 1736217561,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -19,14 +27,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1673972,
-      "num": 380409,
-      "word": "台湾歌手撞人致死第2天仍参加演唱会",
-      "onboard_time": 1736217561,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1533594,
       "num": 1533594,
       "word": "西藏日喀则6.8级地震",
@@ -35,19 +35,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1422544,
+      "num": 1422544,
+      "word": "没有发现王星正式出境泰国记录",
+      "onboard_time": 1736217379,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1277866,
       "num": 904245,
       "word": "李心艾刘子瑞结婚",
       "onboard_time": 1736214322,
       "rank": 4,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1233220,
-      "num": 1233220,
-      "word": "没有发现王星正式出境泰国记录",
-      "onboard_time": 1736217379,
-      "rank": 0,
       "category": "艺人"
     },
     {
@@ -75,6 +75,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 769821,
+      "num": 614384,
+      "word": "虞书欣北京春晚表演在干嘛呀",
+      "onboard_time": 1736216780,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 751121,
       "num": 751121,
       "word": "黄子韬炮轰演员星星失联事件招聘组",
@@ -83,12 +91,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 718995,
-      "num": 411126,
-      "word": "虞书欣北京春晚表演在干嘛呀",
-      "onboard_time": 1736216780,
-      "rank": 3,
-      "category": "综艺"
+      "raw_hot": 643990,
+      "num": 643990,
+      "word": "把19岁女乘客扔高速顺风车司机错在哪",
+      "onboard_time": 1736216900,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 634878,
+      "num": 634878,
+      "word": "定日县地震已有人员遇难",
+      "onboard_time": 1736218641,
+      "rank": 4,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 622609,
@@ -123,6 +139,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 532557,
+      "num": 532557,
+      "word": "西藏地震房屋倒塌现场",
+      "onboard_time": 1736218940,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 512646,
       "num": 505414,
       "word": "泰国影视圈人士发声",
@@ -147,6 +171,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 451346,
+      "num": 451346,
+      "word": "夏以昼空降叠纸大楼",
+      "onboard_time": 1736216839,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 451227,
+      "num": 451227,
+      "word": "西藏地震周边5公里有7个村庄",
+      "onboard_time": 1736215879,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 439972,
       "num": 483272,
       "word": "一次收几十元微信红包最后贪了47万",
@@ -155,20 +195,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 430851,
-      "num": 430851,
-      "word": "把19岁女乘客扔高速顺风车司机错在哪",
+      "raw_hot": 401455,
+      "num": 401455,
+      "word": "哪吒2首支预告",
       "onboard_time": 1736216900,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 405909,
-      "num": 405909,
-      "word": "夏以昼空降叠纸大楼",
-      "onboard_time": 1736216839,
-      "rank": 7,
-      "category": "游戏"
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 386071,
@@ -179,28 +211,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 385985,
-      "num": 385985,
-      "word": "哪吒2首支预告",
-      "onboard_time": 1736216900,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 383175,
-      "num": 383175,
-      "word": "西藏地震周边5公里有7个村庄",
-      "onboard_time": 1736215879,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 375228,
       "num": 338828,
       "word": "李玟姐姐发布声明",
       "onboard_time": 1736175205,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 350685,
+      "num": 350685,
+      "word": "要建设全国就业公共服务平台",
+      "onboard_time": 1736218342,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 345347,
@@ -227,6 +251,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 331771,
+      "num": 331771,
+      "word": "四川拟取消应届生身份限制",
+      "onboard_time": 1736215879,
+      "rank": 33,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 328036,
       "num": 328036,
       "word": "美国会确认特朗普当选总统",
@@ -243,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317888,
+      "num": 323519,
+      "word": "金智秀韩剧新乌托邦",
+      "onboard_time": 1736215039,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 307636,
       "num": 307636,
       "word": "恋与深空",
@@ -251,28 +291,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 298408,
-      "num": 323519,
-      "word": "金智秀韩剧新乌托邦",
-      "onboard_time": 1736215039,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 291400,
       "num": 291400,
       "word": "美国总统拜登被提起诉讼",
       "onboard_time": 1736207839,
       "rank": 16,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 287991,
-      "num": 287991,
-      "word": "要建设全国就业公共服务平台",
-      "onboard_time": 1736218342,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 286633,
@@ -315,6 +339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 253764,
+      "num": 216253,
+      "word": "上海全款150万32平米的家",
+      "onboard_time": 1736220081,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 250793,
       "num": 250793,
       "word": "教资面试成绩",
@@ -337,6 +369,22 @@
       "onboard_time": 1736174965,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 236765,
+      "num": 236765,
+      "word": "中国船员疑抵泰国后失联被绑至缅甸",
+      "onboard_time": 1736216061,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 236146,
+      "num": 236146,
+      "word": "苏州寒山寺的腊八粥嘟嘟嘟了",
+      "onboard_time": 1736218940,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 234927,
@@ -363,12 +411,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 223877,
-      "num": 223877,
-      "word": "苏州寒山寺的腊八粥嘟嘟嘟了",
-      "onboard_time": 1736218940,
-      "rank": 27,
-      "category": "美食"
+      "raw_hot": 224481,
+      "num": 224481,
+      "word": "各地不得设户籍等障碍影响人才流动",
+      "onboard_time": 1736219961,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 223498,
@@ -387,12 +435,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 218564,
-      "num": 218564,
-      "word": "四川拟取消应届生身份限制",
-      "onboard_time": 1736215879,
-      "rank": 33,
-      "category": "民生新闻,教育"
+      "raw_hot": 215414,
+      "num": 215414,
+      "word": "杨毅谈樊振东陈梦退世排",
+      "onboard_time": 1736220081,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 214208,
@@ -459,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189765,
+      "num": 308588,
+      "word": "陈丽君入选中国妇女报社年度女性新闻人物",
+      "onboard_time": 1736218641,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188404,
       "num": 188404,
       "word": "货车撞上出殡队伍致20死整改报告发布",
@@ -467,12 +523,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 183176,
-      "num": 183176,
-      "word": "中国船员疑抵泰国后失联被绑至缅甸",
-      "onboard_time": 1736216061,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 183808,
+      "num": 183808,
+      "word": "腊八吃什么",
+      "onboard_time": 1736216299,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 181979,
@@ -491,8 +547,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 174692,
-      "num": 174692,
+      "raw_hot": 176744,
+      "num": 176744,
+      "word": "RTX5090",
+      "onboard_time": 1736220081,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 176661,
+      "num": 176661,
       "word": "西藏今早地震系周边5年最大地震",
       "onboard_time": 1736218882,
       "rank": 37,
@@ -507,20 +571,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 170468,
-      "num": 170468,
-      "word": "西藏地震房屋倒塌现场",
-      "onboard_time": 1736218940,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 170084,
-      "num": 414527,
-      "word": "定日县地震已有人员遇难",
-      "onboard_time": 1736218641,
-      "rank": 4,
-      "category": "突发/灾害"
+      "raw_hot": 170480,
+      "num": 170480,
+      "word": "于正云包场白月梵星",
+      "onboard_time": 1736219241,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 166690,
@@ -587,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150122,
+      "num": 150122,
+      "word": "王一博拥抱新的阳光和美好",
+      "onboard_time": 1736219542,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150053,
       "num": 188404,
       "word": "汉武帝最后一位丞相墓疑被发现",
@@ -601,6 +665,14 @@
       "onboard_time": 1736167343,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 144699,
+      "num": 144699,
+      "word": "英伟达RTX50",
+      "onboard_time": 1736220441,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 144079,
@@ -619,12 +691,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 143758,
+      "num": 220347,
+      "word": "西藏日喀则地震已有9人遇难",
+      "onboard_time": 1736220502,
+      "rank": 29,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 139145,
       "num": 188372,
       "word": "虞书欣星光大赏当天全平台断层登顶",
       "onboard_time": 1736168325,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138134,
+      "num": 138134,
+      "word": "黑执事 少爷长大了",
+      "onboard_time": 1736220323,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 137140,
+      "num": 137140,
+      "word": "商汤科技声明",
+      "onboard_time": 1736219781,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 134069,
@@ -636,7 +732,7 @@
     },
     {
       "raw_hot": 133292,
-      "num": 133292,
+      "num": 228444,
       "word": "庄智渊王歆茹退出WTT世排",
       "onboard_time": 1736213299,
       "rank": 32,
@@ -979,6 +1075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68361,
+      "num": 222633,
+      "word": "俄军控制乌最大锂矿床",
+      "onboard_time": 1736220021,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 67811,
       "num": 67811,
       "word": "陈哲远给白鹿白月梵星包场",
@@ -1067,14 +1171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41222,
-      "num": 308588,
-      "word": "陈丽君入选中国妇女报社年度女性新闻人物",
-      "onboard_time": 1736218641,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 39501,
       "num": 51712,
       "word": "贪官深信当上一把手是靠骗子运作",
@@ -1089,6 +1185,14 @@
       "onboard_time": 1736213122,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36365,
+      "num": 338949,
+      "word": "杨妞花说直播带货努力赚钱没有错",
+      "onboard_time": 1736219722,
+      "rank": 14,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 35171,
@@ -1169,6 +1273,14 @@
       "onboard_time": 1736188752,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 22201,
+      "num": 240066,
+      "word": "为领3毛红包上课却买上千保健品",
+      "onboard_time": 1736220200,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20578,
