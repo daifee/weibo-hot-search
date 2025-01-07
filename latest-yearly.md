@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/07 18:25:10
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/07 18:42:35
 </p>
 </blockquote>
 <p>
@@ -1979,6 +1979,12 @@ RTX5090（热度：827508）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E8%A5%BF%E8%97%8F%E5%AE%9A%E6%97%A5%E5%8E%BF6.8%E7%BA%A7%E5%9C%B0%E9%9C%87%E4%BD%9C%E5%87%BA%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA%23%23" target="weibo">
 #习近平对西藏定日县6.8级地震作出重要指示#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%8D%83%E6%96%B9%E7%99%BE%E8%AE%A1%E4%BF%9D%E9%9A%9C%E8%A5%BF%E8%97%8F%E7%81%BE%E5%8C%BA%E7%BE%A4%E4%BC%97%E5%9F%BA%E6%9C%AC%E7%94%9F%E6%B4%BB%23%23" target="weibo">
+#千方百计保障西藏灾区群众基本生活#
 </a>
 </li>
 
