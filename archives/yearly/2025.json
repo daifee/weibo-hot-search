@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736206519734,
+  "endTime": 1736214216121,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -297,6 +297,14 @@
       "onboard_time": 1735728622,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2582877,
+      "num": 2582877,
+      "word": "西藏地震",
+      "onboard_time": 1736212460,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2578366,
@@ -603,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1807004,
+      "num": 962240,
+      "word": "演员王星女友更新最新情况",
+      "onboard_time": 1736207300,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1793831,
       "num": 1793831,
       "word": "跨年收视率",
@@ -817,6 +833,14 @@
       "onboard_time": 1735655966,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1533594,
+      "num": 1533594,
+      "word": "西藏日喀则6.8级地震",
+      "onboard_time": 1736213180,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1533322,
@@ -2267,6 +2291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 751121,
+      "num": 751121,
+      "word": "黄子韬炮轰演员星星失联事件招聘组",
+      "onboard_time": 1736206037,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 749244,
       "num": 1410025,
       "word": "假父回应错认儿子16年是看男子可怜",
@@ -2369,38 +2401,6 @@
       "onboard_time": 1735822219,
       "rank": 35,
       "category": "美食"
-    },
-    {
-      "raw_hot": 727466,
-      "num": 727466,
-      "word": "香港全款400万15平米的家",
-      "onboard_time": 1736087609,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 719060,
-      "num": 4077017,
-      "word": "全国流感病毒阳性率快速上升",
-      "onboard_time": 1736052631,
-      "rank": 14,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 719009,
-      "num": 537320,
-      "word": "肖战倪妮隔窗对视",
-      "onboard_time": 1735790240,
-      "rank": 7,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 714364,
-      "num": 714364,
-      "word": "韩国小狗与遇难家人告别全程安静",
-      "onboard_time": 1736138488,
-      "rank": 48,
-      "category": "海外新闻"
     }
   ],
   "hotgov_list": [

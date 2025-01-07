@@ -1,7 +1,31 @@
 {
   "startTime": 1736180901032,
-  "endTime": 1736206519734,
+  "endTime": 1736214216121,
   "band_list": [
+    {
+      "raw_hot": 2582877,
+      "num": 2582877,
+      "word": "西藏地震",
+      "onboard_time": 1736212460,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1807004,
+      "num": 962240,
+      "word": "演员王星女友更新最新情况",
+      "onboard_time": 1736207300,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1533594,
+      "num": 1533594,
+      "word": "西藏日喀则6.8级地震",
+      "onboard_time": 1736213180,
+      "rank": 1,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1161063,
       "num": 1161063,
@@ -17,6 +41,22 @@
       "onboard_time": 1736175144,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 751121,
+      "num": 751121,
+      "word": "黄子韬炮轰演员星星失联事件招聘组",
+      "onboard_time": 1736206037,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 621715,
+      "num": 474299,
+      "word": "腾讯回应被列入美国防部名单",
+      "onboard_time": 1736209640,
+      "rank": 10,
+      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 601226,
@@ -35,6 +75,54 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 483908,
+      "num": 483908,
+      "word": "多方回应入住酒店孩子高烧取外卖难",
+      "onboard_time": 1736207059,
+      "rank": 6,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 483150,
+      "num": 483150,
+      "word": "市监局工作人员回应九点没人上班",
+      "onboard_time": 1736208679,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 465276,
+      "num": 465276,
+      "word": "赞达亚荷兰弟订婚",
+      "onboard_time": 1736209401,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 453625,
+      "num": 483196,
+      "word": "泰国影视圈人士发声",
+      "onboard_time": 1736211442,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 439972,
+      "num": 483272,
+      "word": "一次收几十元微信红包最后贪了47万",
+      "onboard_time": 1736171844,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 386071,
+      "num": 386071,
+      "word": "过了腊八就是年",
+      "onboard_time": 1736203514,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 375228,
       "num": 338828,
       "word": "李玟姐姐发布声明",
@@ -48,14 +136,6 @@
       "word": "失联9天走出太白山男子恐面临截肢",
       "onboard_time": 1736173344,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 340935,
-      "num": 340935,
-      "word": "一次收几十元微信红包最后贪了47万",
-      "onboard_time": 1736171844,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -75,6 +155,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 328036,
+      "num": 328036,
+      "word": "美国会确认特朗普当选总统",
+      "onboard_time": 1736205918,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 325497,
       "num": 292201,
       "word": "中国驻泰国使馆回应演员星星失联",
@@ -83,12 +171,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 291400,
+      "num": 291400,
+      "word": "美国总统拜登被提起诉讼",
+      "onboard_time": 1736207839,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 286633,
       "num": 286633,
       "word": "鱿鱼游戏2为何跌落神坛",
       "onboard_time": 1736174305,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 283986,
+      "num": 283986,
+      "word": "宋佳想要成毅的微信",
+      "onboard_time": 1736205497,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 267305,
@@ -123,12 +227,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 218440,
-      "num": 218440,
-      "word": "过了腊八就是年",
-      "onboard_time": 1736203514,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 222070,
+      "num": 222070,
+      "word": "韩国人最喜欢的中剧排行",
+      "onboard_time": 1736205558,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 214208,
@@ -155,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209021,
+      "num": 209021,
+      "word": "天津市考成绩",
+      "onboard_time": 1736212460,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 208368,
       "num": 208368,
       "word": "男子甲流后患病毒性肺炎四肢末端花斑",
@@ -171,11 +283,27 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199890,
-      "num": 221452,
+      "raw_hot": 206195,
+      "num": 242975,
       "word": "魏哲鸣 你是正室",
       "onboard_time": 1736205437,
       "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 205621,
+      "num": 205621,
+      "word": "学医小伙靠两天食物山上存活9天",
+      "onboard_time": 1736210961,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199562,
+      "num": 199562,
+      "word": "成毅喂牛",
+      "onboard_time": 1736213061,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -185,6 +313,22 @@
       "onboard_time": 1736168063,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181979,
+      "num": 183442,
+      "word": "反腐为了人民",
+      "onboard_time": 1736181498,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 171015,
+      "num": 171015,
+      "word": "Minnie空降",
+      "onboard_time": 1736212340,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 166690,
@@ -211,20 +355,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 163872,
-      "num": 163872,
-      "word": "宋佳想要成毅的微信",
-      "onboard_time": 1736205497,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 161347,
       "num": 183388,
       "word": "失联演员王星好友称警方已经立案",
       "onboard_time": 1736181197,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157895,
+      "num": 157895,
+      "word": "日本知名企业历史上首次起诉美国总统",
+      "onboard_time": 1736208079,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 155958,
@@ -259,20 +403,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 148199,
-      "num": 220032,
-      "word": "美国会确认特朗普当选总统",
-      "onboard_time": 1736205918,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 143994,
       "num": 188374,
       "word": "马丽 央妈严选的含金量",
       "onboard_time": 1736174007,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 143320,
+      "num": 143320,
+      "word": "教资面试成绩",
+      "onboard_time": 1736213721,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 139145,
@@ -283,12 +427,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133292,
+      "num": 133292,
+      "word": "庄智渊王歆茹退出WTT世排",
+      "onboard_time": 1736213299,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 132025,
+      "num": 132025,
+      "word": "准备进入过年模式了",
+      "onboard_time": 1736207598,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127633,
       "num": 188368,
       "word": "李沁骨相美人",
       "onboard_time": 1736174845,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121704,
+      "num": 121704,
+      "word": "汕头牛肉丸必须牛肉含量超9成",
+      "onboard_time": 1736213361,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 118473,
+      "num": 965230,
+      "word": "我国在青藏高原取得找矿重大突破",
+      "onboard_time": 1736167224,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117125,
@@ -305,6 +481,14 @@
       "onboard_time": 1736178321,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 107849,
+      "num": 109449,
+      "word": "文化中国行腊八节",
+      "onboard_time": 1736183056,
+      "rank": 19,
+      "category": "正能量"
     },
     {
       "raw_hot": 107784,
@@ -329,6 +513,30 @@
       "onboard_time": 1736164896,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 106705,
+      "num": 106705,
+      "word": "朝鲜成功试射新型导弹",
+      "onboard_time": 1736210481,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 106618,
+      "num": 106618,
+      "word": "实践二十五号卫星发射成功",
+      "onboard_time": 1736206998,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 104931,
+      "num": 104931,
+      "word": "宋亚轩紫发深V",
+      "onboard_time": 1736210240,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 104404,
@@ -363,6 +571,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97211,
+      "num": 97211,
+      "word": "印尼成为金砖国家正式成员",
+      "onboard_time": 1736213000,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 96785,
+      "num": 96785,
+      "word": "有艺术细菌的孩子是这样的",
+      "onboard_time": 1736209521,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 95014,
+      "num": 95014,
+      "word": "青藏高原新发现2000万吨铜矿资源量",
+      "onboard_time": 1736202913,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94797,
       "num": 188354,
       "word": "回流人员曾称去了妙瓦底真的会死",
@@ -379,12 +611,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 92389,
-      "num": 92389,
-      "word": "韩国人最喜欢的中剧排行",
-      "onboard_time": 1736205558,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 93456,
+      "num": 93456,
+      "word": "陈梦打卡了福州爱心树",
+      "onboard_time": 1736214201,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 91908,
@@ -392,6 +624,14 @@
       "word": "宋亚轩 当你见到了亚轩",
       "onboard_time": 1736165963,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 90272,
+      "num": 90272,
+      "word": "演员王星女友称泰国警方已备案",
+      "onboard_time": 1736208560,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -409,14 +649,6 @@
       "onboard_time": 1736179221,
       "rank": 40,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 89006,
-      "num": 183442,
-      "word": "反腐为了人民",
-      "onboard_time": 1736181498,
-      "rank": 29,
-      "category": "正能量"
     },
     {
       "raw_hot": 87435,
@@ -483,22 +715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 72319,
-      "num": 332987,
-      "word": "我国在青藏高原取得找矿重大突破",
-      "onboard_time": 1736167224,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69100,
-      "num": 109449,
-      "word": "文化中国行腊八节",
-      "onboard_time": 1736183056,
-      "rank": 19,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 68746,
       "num": 188312,
       "word": "缅甸妙瓦底系网络诈骗的大本营",
@@ -523,12 +739,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 64737,
-      "num": 64737,
-      "word": "黄子韬炮轰演员星星失联事件招聘组",
-      "onboard_time": 1736206037,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 64985,
+      "num": 106652,
+      "word": "死亡笔记 夜神月来了",
+      "onboard_time": 1736213721,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 63360,
@@ -560,14 +776,6 @@
       "word": "失联9天走出太白山男子已转院西安",
       "onboard_time": 1736204534,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 50221,
-      "num": 50221,
-      "word": "青藏高原新发现2000万吨铜矿资源量",
-      "onboard_time": 1736202913,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -609,6 +817,14 @@
       "onboard_time": 1736191511,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39155,
+      "num": 201615,
+      "word": "孙颖莎谈对2025的期待",
+      "onboard_time": 1736213122,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 35171,
