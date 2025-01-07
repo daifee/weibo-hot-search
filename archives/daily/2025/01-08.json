@@ -1,6 +1,6 @@
 {
   "startTime": 1736266474874,
-  "endTime": 1736289561058,
+  "endTime": 1736292065642,
   "band_list": [
     {
       "raw_hot": 3073531,
@@ -67,6 +67,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 572750,
+      "num": 572750,
+      "word": "浙江一家6口出游5人感染甲流",
+      "onboard_time": 1736266760,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 495479,
       "num": 495479,
       "word": "国色芳华热度",
@@ -131,12 +139,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 253886,
-      "num": 143896,
-      "word": "浙江一家6口出游5人感染甲流",
-      "onboard_time": 1736266760,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 291185,
+      "num": 291185,
+      "word": "19岁男生去世给4人留下生命礼物",
+      "onboard_time": 1736271434,
+      "rank": 29,
+      "category": "正能量"
     },
     {
       "raw_hot": 252488,
@@ -179,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208107,
+      "num": 208107,
+      "word": "微博之夜阵容官宣",
+      "onboard_time": 1736254345,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 204695,
       "num": 325589,
       "word": "白月梵星爱奇艺热度破7000",
@@ -209,14 +225,6 @@
       "onboard_time": 1736260826,
       "rank": 8,
       "category": "美食"
-    },
-    {
-      "raw_hot": 175654,
-      "num": 147812,
-      "word": "19岁男生去世给4人留下生命礼物",
-      "onboard_time": 1736271434,
-      "rank": 29,
-      "category": "正能量"
     },
     {
       "raw_hot": 166417,
@@ -267,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143138,
+      "num": 324760,
+      "word": "健身网红朴胜贤去世",
+      "onboard_time": 1736253323,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 142791,
       "num": 325017,
       "word": "李现蒋长扬痞帅",
@@ -299,14 +315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134580,
-      "num": 324760,
-      "word": "健身网红朴胜贤去世",
-      "onboard_time": 1736253323,
-      "rank": 40,
-      "category": "网红"
-    },
-    {
       "raw_hot": 132255,
       "num": 325216,
       "word": "甲流症状累及全身",
@@ -329,14 +337,6 @@
       "onboard_time": 1736260345,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 122357,
-      "num": 144477,
-      "word": "微博之夜阵容官宣",
-      "onboard_time": 1736254345,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 114925,
@@ -369,6 +369,14 @@
       "onboard_time": 1736262443,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100549,
+      "num": 100549,
+      "word": "愿西藏定日县平安",
+      "onboard_time": 1736240663,
+      "rank": 3,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 97998,
@@ -427,12 +435,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 83212,
-      "num": 83212,
-      "word": "愿西藏定日县平安",
-      "onboard_time": 1736240663,
-      "rank": 3,
-      "category": "突发/灾害"
+      "raw_hot": 82681,
+      "num": 82681,
+      "word": "国色芳华里到底有多少牡丹",
+      "onboard_time": 1736281030,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 81674,
@@ -441,6 +449,38 @@
       "onboard_time": 1736251042,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74759,
+      "num": 57414,
+      "word": "肖思远弟弟荣立三等功",
+      "onboard_time": 1736289794,
+      "rank": 30,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 72551,
+      "num": 72551,
+      "word": "这样煮水喝预防甲流",
+      "onboard_time": 1736291717,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 69784,
+      "num": 69784,
+      "word": "李现原声台词",
+      "onboard_time": 1736286613,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 65359,
+      "num": 65359,
+      "word": "地震时你背同学往外冲的模样真帅",
+      "onboard_time": 1736284750,
+      "rank": 49,
+      "category": "正能量"
     },
     {
       "raw_hot": 61864,
@@ -467,6 +507,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 60169,
+      "num": 60169,
+      "word": "白鹿你也没放过常华森",
+      "onboard_time": 1736290634,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59788,
       "num": 124680,
       "word": "陈哲远捐赠驰援西藏",
@@ -483,12 +531,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 54817,
-      "num": 54817,
+      "raw_hot": 58034,
+      "num": 58034,
       "word": "定日县地震全力搜救",
       "onboard_time": 1736234663,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55177,
+      "num": 130320,
+      "word": "贾玲以妈妈名义捐赠西藏灾区",
+      "onboard_time": 1736268677,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 51992,
@@ -515,12 +571,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 48366,
-      "num": 130320,
-      "word": "贾玲以妈妈名义捐赠西藏灾区",
-      "onboard_time": 1736268677,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 47408,
+      "num": 55170,
+      "word": "甲流有没有特效药",
+      "onboard_time": 1736281932,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 44640,
@@ -531,20 +587,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34278,
-      "num": 34278,
-      "word": "李现原声台词",
-      "onboard_time": 1736286613,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 40095,
+      "num": 76844,
+      "word": "贪官用妻子控制的34家公司受贿",
+      "onboard_time": 1736275033,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 32854,
-      "num": 43455,
-      "word": "国色芳华里到底有多少牡丹",
-      "onboard_time": 1736281030,
-      "rank": 9,
-      "category": "剧集"
+      "raw_hot": 39938,
+      "num": 76311,
+      "word": "红石驰援西藏地震",
+      "onboard_time": 1736263642,
+      "rank": 39,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 36104,
+      "num": 133583,
+      "word": "查询上千万条大数据揪出贪官",
+      "onboard_time": 1736271314,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32663,
@@ -563,22 +627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31544,
-      "num": 76311,
-      "word": "红石驰援西藏地震",
-      "onboard_time": 1736263642,
-      "rank": 39,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 30973,
-      "num": 133583,
-      "word": "查询上千万条大数据揪出贪官",
-      "onboard_time": 1736271314,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30555,
       "num": 76200,
       "word": "白鹿白月梵星招商",
@@ -587,12 +635,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 28249,
-      "num": 76844,
-      "word": "贪官用妻子控制的34家公司受贿",
-      "onboard_time": 1736275033,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 28613,
+      "num": 55119,
+      "word": "进击的巨人 鱿鱼游戏",
+      "onboard_time": 1736291536,
+      "rank": 49,
+      "category": "动漫,剧集"
     },
     {
       "raw_hot": 27313,
@@ -609,22 +657,6 @@
       "onboard_time": 1736270115,
       "rank": 9,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 26556,
-      "num": 33525,
-      "word": "地震时你背同学往外冲的模样真帅",
-      "onboard_time": 1736284750,
-      "rank": 49,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 26208,
-      "num": 33564,
-      "word": "甲流有没有特效药",
-      "onboard_time": 1736281932,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 24375,
