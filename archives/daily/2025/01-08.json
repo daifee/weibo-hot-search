@@ -1,6 +1,6 @@
 {
   "startTime": 1736266474874,
-  "endTime": 1736281440846,
+  "endTime": 1736282245168,
   "band_list": [
     {
       "raw_hot": 3073531,
@@ -651,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12938,
+      "num": 26434,
+      "word": "甲流有没有特效药",
+      "onboard_time": 1736281932,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 11344,
       "num": 145020,
       "word": "弟弟称王星今日将被送回泰国",
@@ -659,20 +667,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 10937,
+      "num": 43455,
+      "word": "国色芳华里到底有多少牡丹",
+      "onboard_time": 1736281030,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 10796,
       "num": 50928,
       "word": "辽宁大叔一个人一把锹造出一片林",
       "onboard_time": 1736277372,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 7053,
-      "num": 43455,
-      "word": "国色芳华里到底有多少牡丹",
-      "onboard_time": 1736281030,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 6750,
