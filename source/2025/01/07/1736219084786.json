@@ -1,0 +1,410 @@
+{
+  "runTime": 1736219084786,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1233220,
+        "num": 1233220,
+        "word": "没有发现王星正式出境泰国记录",
+        "onboard_time": 1736217379,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517459,
+        "num": 517459,
+        "word": "多方回应入住酒店孩子高烧取外卖难",
+        "onboard_time": 1736207059,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 67977,
+        "num": 465411,
+        "word": "我国在青藏高原取得找矿重大突破",
+        "onboard_time": 1736167224,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430851,
+        "num": 430851,
+        "word": "把19岁女乘客扔高速顺风车司机错在哪",
+        "onboard_time": 1736216900,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170084,
+        "num": 414527,
+        "word": "定日县地震已有人员遇难",
+        "onboard_time": 1736218641,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1088044,
+        "num": 411490,
+        "word": "李心艾刘子瑞结婚",
+        "onboard_time": 1736214322,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 718995,
+        "num": 411126,
+        "word": "虞书欣北京春晚表演在干嘛呀",
+        "onboard_time": 1736216780,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405909,
+        "num": 405909,
+        "word": "夏以昼空降叠纸大楼",
+        "onboard_time": 1736216839,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 385985,
+        "num": 385985,
+        "word": "哪吒2首支预告",
+        "onboard_time": 1736216900,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180743,
+        "num": 383934,
+        "word": "震中5公里内平均海拔约4259米",
+        "onboard_time": 1736218460,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383175,
+        "num": 383175,
+        "word": "西藏地震周边5公里有7个村庄",
+        "onboard_time": 1736215879,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1673972,
+        "num": 380409,
+        "word": "台湾歌手撞人致死第2天仍参加演唱会",
+        "onboard_time": 1736217561,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1360459,
+        "num": 366973,
+        "word": "西藏日喀则6.8级地震",
+        "onboard_time": 1736213180,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1243462,
+        "num": 361160,
+        "word": "演员王星女友更新最新情况",
+        "onboard_time": 1736207300,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94848,
+        "num": 353727,
+        "word": "西藏地震去珠峰大本营网友称车狂摇",
+        "onboard_time": 1736218162,
+        "rank": 14,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 945740,
+        "num": 349294,
+        "word": "西藏地震",
+        "onboard_time": 1736212460,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342070,
+        "num": 342070,
+        "word": "2岁娃长隆酒店高烧保安拒交外卖药",
+        "onboard_time": 1736175144,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270938,
+        "num": 323519,
+        "word": "金智秀韩剧新乌托邦",
+        "onboard_time": 1736215039,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318811,
+        "num": 318811,
+        "word": "一次收几十元微信红包最后贪了47万",
+        "onboard_time": 1736171844,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41222,
+        "num": 308588,
+        "word": "陈丽君入选中国妇女报社年度女性新闻人物",
+        "onboard_time": 1736218641,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307636,
+        "num": 307636,
+        "word": "恋与深空",
+        "onboard_time": 1736216661,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 287991,
+        "num": 287991,
+        "word": "要建设全国就业公共服务平台",
+        "onboard_time": 1736218342,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 274979,
+        "num": 274979,
+        "word": "夏以昼回来了",
+        "onboard_time": 1736217981,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 256327,
+        "num": 256327,
+        "word": "微博之夜目前阵容",
+        "onboard_time": 1736217440,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 85358,
+        "num": 255690,
+        "word": "孙颖莎继续世排第1",
+        "onboard_time": 1736216600,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255161,
+        "num": 255161,
+        "word": "赞达亚荷兰弟订婚",
+        "onboard_time": 1736209401,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241579,
+        "num": 241579,
+        "word": "汕头牛肉丸必须牛肉含量超9成",
+        "onboard_time": 1736213361,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 223877,
+        "num": 223877,
+        "word": "苏州寒山寺的腊八粥嘟嘟嘟了",
+        "onboard_time": 1736218940,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 222455,
+        "num": 222455,
+        "word": "杨紫 没有这么欺负人的",
+        "onboard_time": 1736167822,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252745,
+        "num": 222220,
+        "word": "腾讯回应被列入美国防部名单",
+        "onboard_time": 1736209640,
+        "rank": 29,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 218529,
+        "num": 218529,
+        "word": "教资面试成绩",
+        "onboard_time": 1736213721,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 206142,
+        "num": 206142,
+        "word": "四川拟取消应届生身份限制",
+        "onboard_time": 1736215879,
+        "rank": 31,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 195050,
+        "num": 195050,
+        "word": "韩国人最喜欢的中剧排行",
+        "onboard_time": 1736205558,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190755,
+        "num": 190755,
+        "word": "美国会确认特朗普当选总统",
+        "onboard_time": 1736205918,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 186561,
+        "num": 186561,
+        "word": "成毅喂牛",
+        "onboard_time": 1736213061,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184941,
+        "num": 184941,
+        "word": "12356热线后有一群人为你撑伞",
+        "onboard_time": 1736216661,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183176,
+        "num": 183176,
+        "word": "中国船员疑抵泰国后失联被绑至缅甸",
+        "onboard_time": 1736216061,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174692,
+        "num": 174692,
+        "word": "西藏今早地震系周边5年最大地震",
+        "onboard_time": 1736218882,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170468,
+        "num": 170468,
+        "word": "西藏地震房屋倒塌现场",
+        "onboard_time": 1736218940,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152237,
+        "num": 152237,
+        "word": "失联9天走出太白山男子恐面临截肢",
+        "onboard_time": 1736173344,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144079,
+        "num": 144079,
+        "word": "甲流后发烧一查变成病毒性肺炎",
+        "onboard_time": 1736175683,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141901,
+        "num": 141901,
+        "word": "腊八节",
+        "onboard_time": 1736205256,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139003,
+        "num": 139003,
+        "word": "天津市考成绩",
+        "onboard_time": 1736212460,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136351,
+        "num": 136351,
+        "word": "过了腊八就是年",
+        "onboard_time": 1736203514,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134069,
+        "num": 134069,
+        "word": "白月梵星是callback的神",
+        "onboard_time": 1736218882,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129282,
+        "num": 129282,
+        "word": "哪吒2",
+        "onboard_time": 1736216720,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129050,
+        "num": 129050,
+        "word": "张康乐 套马的汉子",
+        "onboard_time": 1736218761,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125355,
+        "num": 125355,
+        "word": "反腐为了人民",
+        "onboard_time": 1736181498,
+        "rank": 47,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 125232,
+        "num": 125232,
+        "word": "市监局工作人员回应九点没人上班",
+        "onboard_time": 1736208679,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118018,
+        "num": 118018,
+        "word": "TWS应援棒",
+        "onboard_time": 1736219061,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持用改革精神和严的标准管党治党#"
+    }
+  }
+}
