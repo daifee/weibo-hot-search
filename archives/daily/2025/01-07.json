@@ -1,6 +1,6 @@
 {
   "startTime": 1736180901032,
-  "endTime": 1736242685305,
+  "endTime": 1736245510607,
   "band_list": [
     {
       "raw_hot": 11656509,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1670209,
+      "num": 302209,
+      "word": "4名中国演员侥幸逃脱泰国试戏骗局",
+      "onboard_time": 1736242523,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1634437,
       "num": 1634437,
       "word": "西藏定日县地震已致53人遇难",
@@ -115,20 +123,20 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 1517923,
+      "num": 1517923,
+      "word": "被骗到缅东小伙跳河逃生棉裤都没脱",
+      "onboard_time": 1736240722,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1422544,
       "num": 1422544,
       "word": "没有发现王星正式出境泰国记录",
       "onboard_time": 1736217379,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1349767,
-      "num": 1349767,
-      "word": "被骗到缅东小伙跳河逃生棉裤都没脱",
-      "onboard_time": 1736240722,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1339091,
@@ -265,6 +273,14 @@
       "onboard_time": 1736216900,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 693614,
+      "num": 299789,
+      "word": "朴世荣怀孕",
+      "onboard_time": 1736242822,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 677010,
@@ -611,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 374224,
+      "num": 374224,
+      "word": "国色芳华 恶婆婆上新了",
+      "onboard_time": 1736239883,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 364267,
       "num": 308232,
       "word": "孟子义代表作改九重紫",
@@ -648,6 +672,14 @@
       "word": "甲流后发烧一查变成病毒性肺炎",
       "onboard_time": 1736175683,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 340484,
+      "num": 292863,
+      "word": "男子整本彩票匀出2张对方中了40万",
+      "onboard_time": 1736242342,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -715,6 +747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 304569,
+      "num": 304569,
+      "word": "直击西藏救援现场",
+      "onboard_time": 1736242342,
+      "rank": 39,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 302314,
       "num": 302314,
       "word": "陈数蒋欣两剧共享1个林栋哲",
@@ -737,6 +777,14 @@
       "onboard_time": 1736223444,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 294791,
+      "num": 294791,
+      "word": "女子入住月子中心4天老板跑了",
+      "onboard_time": 1736241323,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 291400,
@@ -851,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 262147,
+      "num": 303859,
+      "word": "微博之夜第六波阵容",
+      "onboard_time": 1736242403,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 259084,
       "num": 259084,
       "word": "中国船员疑抵泰国后失联被绑至缅甸",
@@ -875,6 +931,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 255276,
+      "num": 200194,
+      "word": "苹果客服建议所有用户更新系统",
+      "onboard_time": 1736243542,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 252379,
       "num": 677812,
       "word": "西藏日喀则地震发布会",
@@ -897,14 +961,6 @@
       "onboard_time": 1736213721,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 250383,
-      "num": 367892,
-      "word": "国色芳华 恶婆婆上新了",
-      "onboard_time": 1736239883,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 249102,
@@ -1011,12 +1067,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 227822,
+      "num": 301131,
+      "word": "西藏定日县地震这些问题一起关注",
+      "onboard_time": 1736242342,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 226525,
       "num": 188394,
       "word": "微博之夜嘉宾阵容线索卡",
       "onboard_time": 1736179401,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 224134,
+      "num": 224134,
+      "word": "肖战海报C位",
+      "onboard_time": 1736242762,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 224101,
@@ -1091,14 +1163,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 213826,
-      "num": 213826,
-      "word": "女子入住月子中心4天老板跑了",
-      "onboard_time": 1736241323,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 212558,
       "num": 212558,
       "word": "李现给自己嗑返祖了",
@@ -1121,14 +1185,6 @@
       "onboard_time": 1736240663,
       "rank": 13,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 209423,
-      "num": 209423,
-      "word": "男子整本彩票匀出2张对方中了40万",
-      "onboard_time": 1736242342,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 209100,
@@ -1235,14 +1291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 201598,
-      "num": 271888,
-      "word": "微博之夜第六波阵容",
-      "onboard_time": 1736242403,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 197897,
       "num": 197897,
       "word": "A股集体反弹",
@@ -1257,6 +1305,22 @@
       "onboard_time": 1736218641,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195448,
+      "num": 195448,
+      "word": "国色芳华",
+      "onboard_time": 1736225184,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 194240,
+      "num": 194240,
+      "word": "白月梵星",
+      "onboard_time": 1736244984,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 193604,
@@ -1355,36 +1419,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 180411,
-      "num": 162729,
-      "word": "直击西藏救援现场",
-      "onboard_time": 1736242342,
-      "rank": 39,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 180307,
-      "num": 180307,
-      "word": "国色芳华",
-      "onboard_time": 1736225184,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 177765,
       "num": 177765,
       "word": "诽谤林俊杰网友公开道歉",
       "onboard_time": 1736228482,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 177569,
-      "num": 301131,
-      "word": "西藏定日县地震这些问题一起关注",
-      "onboard_time": 1736242342,
-      "rank": 9,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 176767,
@@ -1539,6 +1579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 163539,
+      "num": 208223,
+      "word": "常州一月子中心被曝集体跑路",
+      "onboard_time": 1736243422,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161469,
       "num": 431513,
       "word": "西藏6.8级地震成都昆明收到预警",
@@ -1569,6 +1617,30 @@
       "onboard_time": 1736223024,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 160804,
+      "num": 160804,
+      "word": "敖瑞鹏白月梵星热度破6000红包",
+      "onboard_time": 1736243783,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 159482,
+      "num": 159482,
+      "word": "李雪琴 我的孩子只要快乐就行",
+      "onboard_time": 1736239762,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 158302,
+      "num": 158302,
+      "word": "郭敬明被冻结500万股权",
+      "onboard_time": 1736244384,
+      "rank": 40,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 157896,
@@ -1659,6 +1731,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 147759,
+      "num": 147759,
+      "word": "李昀锐说未来有可能出专辑",
+      "onboard_time": 1736244441,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145850,
       "num": 145850,
       "word": "2025开年首对豹豹猫猫",
@@ -1731,6 +1811,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 134084,
+      "num": 1008568,
+      "word": "三部门紧急调拨2.2万件中央救灾物资",
+      "onboard_time": 1736240544,
+      "rank": 2,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 134069,
       "num": 134069,
       "word": "白月梵星是callback的神",
@@ -1771,6 +1859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130830,
+      "num": 130830,
+      "word": "黑神话影神图实体书农历年后发售",
+      "onboard_time": 1736243063,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 130128,
       "num": 130128,
       "word": "女子推理社",
@@ -1793,6 +1889,22 @@
       "onboard_time": 1736174845,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127011,
+      "num": 127011,
+      "word": "时代少年团我得意的笑路透",
+      "onboard_time": 1736243665,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 126817,
+      "num": 234786,
+      "word": "秦彻 深渊主宰",
+      "onboard_time": 1736244864,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 126405,
@@ -1883,12 +1995,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 115263,
-      "num": 1008568,
-      "word": "三部门紧急调拨2.2万件中央救灾物资",
-      "onboard_time": 1736240544,
-      "rank": 2,
-      "category": "突发/灾害"
+      "raw_hot": 110545,
+      "num": 297073,
+      "word": "多明星捐赠驰援西藏",
+      "onboard_time": 1736245463,
+      "rank": 16,
+      "category": "突发/灾害,艺人"
     },
     {
       "raw_hot": 107849,
@@ -2083,6 +2195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90788,
+      "num": 211907,
+      "word": "演员星星的现实版孤注一掷将终结",
+      "onboard_time": 1736243842,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90272,
       "num": 90272,
       "word": "演员王星女友称泰国警方已备案",
@@ -2105,6 +2225,14 @@
       "onboard_time": 1736179221,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 88834,
+      "num": 298176,
+      "word": "赵丽颖获影视榜样年度人气女演员",
+      "onboard_time": 1736245342,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 87435,
@@ -2145,6 +2273,14 @@
       "onboard_time": 1736172804,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 79857,
+      "num": 295877,
+      "word": "时代少年团北京春晚录制路透",
+      "onboard_time": 1736244441,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 78410,
@@ -2200,6 +2336,14 @@
       "word": "男子给女友转账100万分手后起诉对方",
       "onboard_time": 1736153906,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72079,
+      "num": 299020,
+      "word": "花35万申请英国大学发现材料伪造",
+      "onboard_time": 1736244622,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -2267,12 +2411,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 62917,
+      "num": 194248,
+      "word": "邵子恒微博之夜官宣",
+      "onboard_time": 1736244441,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 61385,
       "num": 188305,
       "word": "目前流感病毒阳性病例99%为甲流",
       "onboard_time": 1736176224,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 61077,
+      "num": 206778,
+      "word": "验车民警办公室外车托排队送钱",
+      "onboard_time": 1736245342,
+      "rank": 30,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 60481,
@@ -2411,6 +2571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40603,
+      "num": 217299,
+      "word": "大学老师分享初恋经历",
+      "onboard_time": 1736244503,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 39501,
       "num": 51712,
       "word": "贪官深信当上一把手是靠骗子运作",
@@ -2457,14 +2625,6 @@
       "onboard_time": 1736172744,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 34901,
-      "num": 264523,
-      "word": "4名中国演员侥幸逃脱泰国试戏骗局",
-      "onboard_time": 1736242523,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 30568,

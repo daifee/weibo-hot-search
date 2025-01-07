@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736242685305,
+  "endTime": 1736245510607,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -803,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1670209,
+      "num": 302209,
+      "word": "4名中国演员侥幸逃脱泰国试戏骗局",
+      "onboard_time": 1736242523,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1666195,
       "num": 1028926,
       "word": "胖东来员工不许靠父母积蓄买房买车",
@@ -944,6 +952,14 @@
       "word": "胖东来员工结婚无力购置房车可先租房",
       "onboard_time": 1735902920,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1517923,
+      "num": 1517923,
+      "word": "被骗到缅东小伙跳河逃生棉裤都没脱",
+      "onboard_time": 1736240722,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -1097,14 +1113,6 @@
       "onboard_time": 1735811780,
       "rank": 0,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1349767,
-      "num": 1349767,
-      "word": "被骗到缅东小伙跳河逃生棉裤都没脱",
-      "onboard_time": 1736240722,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1339239,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735696519,
       "rank": 13,
       "category": "演出"
-    },
-    {
-      "raw_hot": 778709,
-      "num": 778709,
-      "word": "王力宏状态",
-      "onboard_time": 1735657707,
-      "rank": 15,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
