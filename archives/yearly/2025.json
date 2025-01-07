@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736235330111,
+  "endTime": 1736238522151,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -571,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1930199,
+      "num": 1930199,
+      "word": "第一批解放军已抵达西藏震中",
+      "onboard_time": 1736229564,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1911188,
       "num": 1911188,
       "word": "医生解读赵露思病情",
@@ -675,14 +683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1799324,
-      "num": 1799324,
-      "word": "第一批解放军已抵达西藏震中",
-      "onboard_time": 1736229564,
-      "rank": 17,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 1793831,
       "num": 1793831,
       "word": "跨年收视率",
@@ -745,6 +745,14 @@
       "onboard_time": 1735665381,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1711336,
+      "num": 1533594,
+      "word": "西藏日喀则6.8级地震",
+      "onboard_time": 1736213180,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1703411,
@@ -851,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1571832,
+      "num": 1571832,
+      "word": "星星疑被剃去头发腿上有红斑",
+      "onboard_time": 1736237304,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1571680,
       "num": 1157272,
       "word": "古剑奇谭",
@@ -905,14 +921,6 @@
       "onboard_time": 1735655966,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1533594,
-      "num": 1533594,
-      "word": "西藏日喀则6.8级地震",
-      "onboard_time": 1736213180,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1533322,
@@ -1827,6 +1835,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 944114,
+      "num": 944114,
+      "word": "四川地震",
+      "onboard_time": 1736236762,
+      "rank": 5,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 942900,
       "num": 704506,
       "word": "30岁博士生杜梅病逝遗书让人泪目",
@@ -2089,6 +2105,14 @@
       "onboard_time": 1735997429,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 846049,
+      "num": 1137402,
+      "word": "西藏定日县地震已致95人遇难",
+      "onboard_time": 1736237362,
+      "rank": 4,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 844503,
@@ -2377,30 +2401,6 @@
       "onboard_time": 1736134464,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 774728,
-      "num": 571384,
-      "word": "男子给女友转账100万分手后起诉对方",
-      "onboard_time": 1736153906,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 773720,
-      "num": 661994,
-      "word": "GMM",
-      "onboard_time": 1736132662,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 769821,
-      "num": 651851,
-      "word": "虞书欣北京春晚表演在干嘛呀",
-      "onboard_time": 1736216780,
-      "rank": 3,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
