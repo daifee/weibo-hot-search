@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736228311017,
+  "endTime": 1736231528138,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 2438337,
-      "num": 483222,
+      "num": 633967,
       "word": "赵樱子自曝被男顶流追求过",
       "onboard_time": 1736225243,
       "rank": 10,
@@ -1219,6 +1219,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 1244750,
+      "num": 1244750,
+      "word": "马柏全 休学",
+      "onboard_time": 1736228961,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1241779,
       "num": 1241779,
       "word": "伊能静曾故意灌醉恩利",
@@ -1473,6 +1481,14 @@
       "onboard_time": 1735664063,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1082011,
+      "num": 1082011,
+      "word": "刘强东给自己小学老师每人发10万现金",
+      "onboard_time": 1736228662,
+      "rank": 4,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 1081121,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1735863800,
       "rank": 1,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 758693,
-      "num": 758693,
-      "word": "擦边球",
-      "onboard_time": 1735716379,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 755901,
-      "num": 522007,
-      "word": "秦霄贤姐姐回应辛雨锡",
-      "onboard_time": 1736119577,
-      "rank": 14,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
