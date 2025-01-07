@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736231528138,
+  "endTime": 1736232301285,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -795,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1599623,
+      "num": 1599623,
+      "word": "王星弟弟已与其通视频电话",
+      "onboard_time": 1736230884,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1597104,
       "num": 239114,
       "word": "微博删下",
@@ -1171,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1276953,
+      "num": 1276953,
+      "word": "马柏全 休学",
+      "onboard_time": 1736228961,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1274107,
       "num": 1020426,
       "word": "15岁女孩以买方身份入院产子卖6万8",
@@ -1217,14 +1233,6 @@
       "onboard_time": 1735884740,
       "rank": 11,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 1244750,
-      "num": 1244750,
-      "word": "马柏全 休学",
-      "onboard_time": 1736228961,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1241779,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735660942,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 762160,
-      "num": 726671,
-      "word": "韩国空难179具遗体仅5具完好无损",
-      "onboard_time": 1735863800,
-      "rank": 1,
-      "category": "海外新闻"
     }
   ],
   "hotgov_list": [

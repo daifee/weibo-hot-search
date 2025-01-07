@@ -1,0 +1,410 @@
+{
+  "runTime": 1736232301285,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1599623,
+        "num": 1599623,
+        "word": "王星弟弟已与其通视频电话",
+        "onboard_time": 1736230884,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1332778,
+        "num": 1332778,
+        "word": "西藏定日县地震已致53人遇难",
+        "onboard_time": 1736220502,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 65800,
+        "num": 1283471,
+        "word": "腊八吃什么",
+        "onboard_time": 1736216299,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1592704,
+        "num": 1281110,
+        "word": "泰媒称演员王星在缅甸被找到",
+        "onboard_time": 1736222123,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1276953,
+        "num": 1276953,
+        "word": "马柏全 休学",
+        "onboard_time": 1736228961,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1028477,
+        "num": 1028477,
+        "word": "刘强东给自己小学老师每人发10万现金",
+        "onboard_time": 1736228662,
+        "rank": 5,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 645767,
+        "num": 645767,
+        "word": "西藏日喀则地震现场画面",
+        "onboard_time": 1736225904,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 621106,
+        "num": 621106,
+        "word": "白鹿一口气发了30张库存",
+        "onboard_time": 1736228063,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 621196,
+        "num": 611986,
+        "word": "第一批解放军已抵达西藏震中",
+        "onboard_time": 1736229564,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 596559,
+        "num": 596559,
+        "word": "这才是研究生三年努力的规划",
+        "onboard_time": 1736226983,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1046889,
+        "num": 576819,
+        "word": "赵樱子自曝被男顶流追求过",
+        "onboard_time": 1736225243,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1006909,
+        "num": 548482,
+        "word": "西藏日喀则6.8级地震",
+        "onboard_time": 1736213180,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 616610,
+        "num": 524548,
+        "word": "毁掉一个家庭只需要三分钟",
+        "onboard_time": 1736226145,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 603709,
+        "num": 502065,
+        "word": "演员星星近照",
+        "onboard_time": 1736231182,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484793,
+        "num": 484793,
+        "word": "台湾歌手撞人致死第2天仍参加演唱会",
+        "onboard_time": 1736217561,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 592820,
+        "num": 453020,
+        "word": "微博之夜 内娱提前过年",
+        "onboard_time": 1736228543,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 419386,
+        "num": 419386,
+        "word": "广东25年前宾馆床底藏女尸案告破",
+        "onboard_time": 1736225184,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314635,
+        "num": 314635,
+        "word": "泰警方称王星在缅甸灰产控制区",
+        "onboard_time": 1736230524,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181113,
+        "num": 314129,
+        "word": "敖丙开门 是爹地",
+        "onboard_time": 1736231842,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30361,
+        "num": 312625,
+        "word": "二次元一定要在2025活着",
+        "onboard_time": 1736231782,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 131130,
+        "num": 311790,
+        "word": "原定投资150亿元项目如今种上小麦",
+        "onboard_time": 1736230462,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 415842,
+        "num": 310206,
+        "word": "泰国方与妙瓦底方核实星星行踪",
+        "onboard_time": 1736229023,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364267,
+        "num": 308232,
+        "word": "孟子义代表作改九重紫",
+        "onboard_time": 1736230581,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308126,
+        "num": 308126,
+        "word": "古偶首次出现童养赘婿",
+        "onboard_time": 1736230581,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53180,
+        "num": 306390,
+        "word": "2025国际乒联第2周排名",
+        "onboard_time": 1736231663,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306377,
+        "num": 306377,
+        "word": "命真好头胎生了个月嫂",
+        "onboard_time": 1736225184,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 302314,
+        "num": 302314,
+        "word": "陈数蒋欣两剧共享1个林栋哲",
+        "onboard_time": 1736231302,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8939,
+        "num": 298642,
+        "word": "又是画美女的一天",
+        "onboard_time": 1736231902,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 297354,
+        "num": 297354,
+        "word": "白月梵星热度",
+        "onboard_time": 1736228244,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21203,
+        "num": 293005,
+        "word": "曾经夺冠最多的中国足球队落幕了",
+        "onboard_time": 1736231963,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291454,
+        "num": 291454,
+        "word": "杨紫 现哥又开始苦笑了",
+        "onboard_time": 1736225844,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255786,
+        "num": 255786,
+        "word": "雷军把内部大奖升级到千万",
+        "onboard_time": 1736229089,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 235954,
+        "num": 235954,
+        "word": "常华森好帅",
+        "onboard_time": 1736229802,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235032,
+        "num": 235032,
+        "word": "西藏日喀则地震现场救援视频",
+        "onboard_time": 1736230822,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226601,
+        "num": 226601,
+        "word": "哪吒2东海龙王超帅",
+        "onboard_time": 1736220861,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 218096,
+        "num": 218096,
+        "word": "西藏地震房屋倒塌现场",
+        "onboard_time": 1736218940,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212558,
+        "num": 212558,
+        "word": "李现给自己嗑返祖了",
+        "onboard_time": 1736230761,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208406,
+        "num": 208406,
+        "word": "白鹿新剧遭竹马背刺",
+        "onboard_time": 1736232022,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202550,
+        "num": 202550,
+        "word": "西藏1小时内连发十余次地震",
+        "onboard_time": 1736226983,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197763,
+        "num": 197763,
+        "word": "男生地震中背同学跑被奖励公派留学",
+        "onboard_time": 1736222783,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193604,
+        "num": 193604,
+        "word": "敖猴",
+        "onboard_time": 1736231842,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193374,
+        "num": 193374,
+        "word": "杨紫李现走了真花路",
+        "onboard_time": 1736231482,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188184,
+        "num": 188184,
+        "word": "直击西藏定日县地震",
+        "onboard_time": 1736231063,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184507,
+        "num": 184507,
+        "word": "孟子义没觉得自己升咖",
+        "onboard_time": 1736228543,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180730,
+        "num": 180730,
+        "word": "没人说代露娃演恶女这么带感啊",
+        "onboard_time": 1736229203,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174431,
+        "num": 174431,
+        "word": "RTX5090",
+        "onboard_time": 1736220081,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 170936,
+        "num": 170936,
+        "word": "苏州寒山寺的腊八粥嘟嘟嘟了",
+        "onboard_time": 1736218940,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 164290,
+        "num": 164290,
+        "word": "微博之夜集卡",
+        "onboard_time": 1736225127,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163670,
+        "num": 163670,
+        "word": "西藏6.8级地震660名消防员已集结",
+        "onboard_time": 1736227883,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150673,
+        "num": 150673,
+        "word": "诽谤林俊杰网友公开道歉",
+        "onboard_time": 1736228482,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#反腐败一步不停歇半步不退让#"
+    }
+  }
+}
