@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/08 00:54:03
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/08 01:19:51
 </p>
 </blockquote>
 <p>
@@ -4281,6 +4281,12 @@ YG新男团预告（热度：386387）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BA%E8%BF%98%E7%99%BE%E4%B8%87%E5%80%BA%E5%8A%A1%E6%9D%80%E5%A6%BB%E9%AA%97%E4%BF%9D%23" target="weibo">
+男子为还百万债务杀妻骗保（热度：377177）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%8F%B0%E8%AF%8D%23" target="weibo">
 白鹿台词（热度：376662）
 </a>
@@ -5063,12 +5069,6 @@ NAME晒虞书欣吴宣仪新年合照（热度：319077）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B2%E4%B8%8A%E6%9C%80%E8%96%84iPhone%E6%B8%B2%E6%9F%93%E5%9B%BE%E6%9D%A5%E4%BA%86%23" target="weibo">
 史上最薄iPhone渲染图来了（热度：317471）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BA%E8%BF%98%E7%99%BE%E4%B8%87%E5%80%BA%E5%8A%A1%E6%9D%80%E5%A6%BB%E9%AA%97%E4%BF%9D%23" target="weibo">
-男子为还百万债务杀妻骗保（热度：317367）
 </a>
 </li>
 
