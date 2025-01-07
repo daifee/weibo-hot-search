@@ -1,0 +1,410 @@
+{
+  "runTime": 1736228311017,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1634437,
+        "num": 1634437,
+        "word": "西藏定日县地震已致53人遇难",
+        "onboard_time": 1736220502,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1546206,
+        "num": 1546206,
+        "word": "泰媒称演员王星在缅甸被找到",
+        "onboard_time": 1736222123,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73913,
+        "num": 1048024,
+        "word": "腊八吃什么",
+        "onboard_time": 1736216299,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1015318,
+        "num": 1015318,
+        "word": "台湾歌手撞人致死第2天仍参加演唱会",
+        "onboard_time": 1736217561,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 579431,
+        "num": 579431,
+        "word": "白月梵星开播",
+        "onboard_time": 1736222783,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 555170,
+        "num": 555170,
+        "word": "男生地震中背同学跑被奖励公派留学",
+        "onboard_time": 1736222783,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 481655,
+        "num": 481655,
+        "word": "哪吒2东海龙王超帅",
+        "onboard_time": 1736220861,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 467761,
+        "num": 467761,
+        "word": "西藏日喀则地震现场画面",
+        "onboard_time": 1736225904,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 457917,
+        "num": 457917,
+        "word": "毁掉一个家庭只需要三分钟",
+        "onboard_time": 1736226145,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 811748,
+        "num": 457350,
+        "word": "泰国警方证实失联演员星星已找到",
+        "onboard_time": 1736225725,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2115420,
+        "num": 452746,
+        "word": "赵樱子自曝被男顶流追求过",
+        "onboard_time": 1736225243,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1027021,
+        "num": 448039,
+        "word": "西藏日喀则6.8级地震",
+        "onboard_time": 1736213180,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 442642,
+        "num": 442642,
+        "word": "广东25年前宾馆床底藏女尸案告破",
+        "onboard_time": 1736225184,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438266,
+        "num": 438266,
+        "word": "西藏地震房屋倒塌现场",
+        "onboard_time": 1736218940,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340191,
+        "num": 340191,
+        "word": "国色芳华播出排面",
+        "onboard_time": 1736222543,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 373667,
+        "num": 331638,
+        "word": "1500余人前往西藏震中搜救",
+        "onboard_time": 1736223684,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281407,
+        "num": 281407,
+        "word": "42岁抗癌网红雨虹去世",
+        "onboard_time": 1736220622,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70406,
+        "num": 280955,
+        "word": "地笼",
+        "onboard_time": 1736227763,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 71384,
+        "num": 280574,
+        "word": "时代少年团官宣微博之夜",
+        "onboard_time": 1736225306,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 82889,
+        "num": 280160,
+        "word": "肥娟小吃老板主打一个听劝",
+        "onboard_time": 1736226625,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1194318,
+        "num": 279738,
+        "word": "泰国警方称已知晓星星位置",
+        "onboard_time": 1736221581,
+        "rank": 20,
+        "category": "国际时政,艺人"
+      },
+      {
+        "raw_hot": 461057,
+        "num": 278983,
+        "word": "命真好头胎生了个月嫂",
+        "onboard_time": 1736225184,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 309662,
+        "num": 278672,
+        "word": "杨紫 现哥又开始苦笑了",
+        "onboard_time": 1736225844,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285287,
+        "num": 277689,
+        "word": "李昀锐和小狗拍封面",
+        "onboard_time": 1736223803,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 277655,
+        "num": 277655,
+        "word": "RTX5090",
+        "onboard_time": 1736220081,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 248673,
+        "num": 248673,
+        "word": "西藏1小时内连发十余次地震",
+        "onboard_time": 1736226983,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242012,
+        "num": 242012,
+        "word": "西藏日喀则6.8级地震救援情况",
+        "onboard_time": 1736220861,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235427,
+        "num": 235427,
+        "word": "WTT权力过大滋生恶法",
+        "onboard_time": 1736225725,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224418,
+        "num": 224418,
+        "word": "北京网友称收到西藏地震预警",
+        "onboard_time": 1736226023,
+        "rank": 28,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 187954,
+        "num": 214821,
+        "word": "白鹿大家都会来看的吧",
+        "onboard_time": 1736227104,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208816,
+        "num": 208816,
+        "word": "把19岁女乘客扔高速顺风车司机错在哪",
+        "onboard_time": 1736216900,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178465,
+        "num": 178465,
+        "word": "GMM声明",
+        "onboard_time": 1736225005,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170229,
+        "num": 170229,
+        "word": "杨紫代言云包场国色芳华",
+        "onboard_time": 1736225365,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167655,
+        "num": 167655,
+        "word": "西藏6.8级地震660名消防员已集结",
+        "onboard_time": 1736227883,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166462,
+        "num": 166462,
+        "word": "白鹿一口气发了30张库存",
+        "onboard_time": 1736228063,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159142,
+        "num": 159142,
+        "word": "虞书欣北京春晚表演在干嘛呀",
+        "onboard_time": 1736216780,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156707,
+        "num": 156707,
+        "word": "上海全款150万32平米的家",
+        "onboard_time": 1736220081,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155139,
+        "num": 155139,
+        "word": "易烊千玺说接小小的我是闭眼冲",
+        "onboard_time": 1736222423,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153864,
+        "num": 153864,
+        "word": "广州队欠恒大集团几十亿巨债",
+        "onboard_time": 1736224345,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149423,
+        "num": 149423,
+        "word": "苏州寒山寺的腊八粥嘟嘟嘟了",
+        "onboard_time": 1736218940,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 145377,
+        "num": 145377,
+        "word": "国色芳华",
+        "onboard_time": 1736225184,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137263,
+        "num": 137263,
+        "word": "RTX5070对标4090",
+        "onboard_time": 1736222242,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 135796,
+        "num": 135796,
+        "word": "云包场",
+        "onboard_time": 1736225545,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116523,
+        "num": 134984,
+        "word": "这才是研究生三年努力的规划",
+        "onboard_time": 1736226983,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 134739,
+        "num": 134739,
+        "word": "苹果iOS18.2.1正式版发布",
+        "onboard_time": 1736222303,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 134636,
+        "num": 134636,
+        "word": "警惕骗局别再有下一个消失的星星",
+        "onboard_time": 1736226145,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442516,
+        "num": 132870,
+        "word": "没有发现王星正式出境泰国记录",
+        "onboard_time": 1736217379,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130402,
+        "num": 130402,
+        "word": "白月梵星热度",
+        "onboard_time": 1736228244,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130128,
+        "num": 130128,
+        "word": "女子推理社",
+        "onboard_time": 1736228001,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124666,
+        "num": 124666,
+        "word": "微博之夜集卡",
+        "onboard_time": 1736225127,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#反腐败一步不停歇半步不退让#"
+    }
+  }
+}

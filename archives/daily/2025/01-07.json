@@ -1,6 +1,6 @@
 {
   "startTime": 1736180901032,
-  "endTime": 1736227286955,
+  "endTime": 1736228311017,
   "band_list": [
     {
       "raw_hot": 2582877,
@@ -49,6 +49,14 @@
       "onboard_time": 1736207300,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1634437,
+      "num": 1634437,
+      "word": "西藏定日县地震已致53人遇难",
+      "onboard_time": 1736220502,
+      "rank": 4,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1533594,
@@ -107,14 +115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1010085,
-      "num": 1010085,
-      "word": "西藏定日县地震已致53人遇难",
-      "onboard_time": 1736220502,
-      "rank": 4,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 1002962,
       "num": 212441,
       "word": "哈里斯宣布特朗普当选后掏出纸巾",
@@ -153,6 +153,14 @@
       "onboard_time": 1736222783,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 811748,
+      "num": 466597,
+      "word": "泰国警方证实失联演员星星已找到",
+      "onboard_time": 1736225725,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 769821,
@@ -203,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 555170,
+      "num": 555170,
+      "word": "男生地震中背同学跑被奖励公派留学",
+      "onboard_time": 1736222783,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 547221,
       "num": 547221,
       "word": "多方回应入住酒店孩子高烧取外卖难",
@@ -243,14 +259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 486996,
-      "num": 486996,
-      "word": "男生地震中背同学跑被奖励公派留学",
-      "onboard_time": 1736222783,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 483150,
       "num": 483150,
       "word": "市监局工作人员回应九点没人上班",
@@ -259,12 +267,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 466597,
-      "num": 466597,
-      "word": "泰国警方证实失联演员星星已找到",
-      "onboard_time": 1736225725,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 467761,
+      "num": 467761,
+      "word": "西藏日喀则地震现场画面",
+      "onboard_time": 1736225904,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 465276,
@@ -273,6 +281,14 @@
       "onboard_time": 1736209401,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 457917,
+      "num": 457917,
+      "word": "毁掉一个家庭只需要三分钟",
+      "onboard_time": 1736226145,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 451346,
@@ -299,19 +315,19 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 442642,
+      "num": 442642,
+      "word": "广东25年前宾馆床底藏女尸案告破",
+      "onboard_time": 1736225184,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 439972,
       "num": 483272,
       "word": "一次收几十元微信红包最后贪了47万",
       "onboard_time": 1736171844,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 434063,
-      "num": 434063,
-      "word": "广东25年前宾馆床底藏女尸案告破",
-      "onboard_time": 1736225184,
-      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -363,14 +379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 363907,
-      "num": 363907,
-      "word": "西藏日喀则地震现场画面",
-      "onboard_time": 1736225904,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 363726,
       "num": 363726,
       "word": "李昀锐和小狗拍封面",
@@ -401,14 +409,6 @@
       "onboard_time": 1736173344,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 345153,
-      "num": 345153,
-      "word": "毁掉一个家庭只需要三分钟",
-      "onboard_time": 1736226145,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 340805,
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 281293,
-      "num": 281293,
+      "num": 1048024,
       "word": "腊八吃什么",
       "onboard_time": 1736216299,
       "rank": 35,
@@ -595,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248673,
+      "num": 248673,
+      "word": "西藏1小时内连发十余次地震",
+      "onboard_time": 1736226983,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 241579,
       "num": 241579,
       "word": "汕头牛肉丸必须牛肉含量超9成",
@@ -609,6 +617,14 @@
       "onboard_time": 1736174965,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 235427,
+      "num": 235427,
+      "word": "WTT权力过大滋生恶法",
+      "onboard_time": 1736225725,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 234927,
@@ -779,22 +795,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 201022,
-      "num": 201022,
-      "word": "WTT权力过大滋生恶法",
-      "onboard_time": 1736225725,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 199794,
-      "num": 199794,
-      "word": "西藏1小时内连发十余次地震",
-      "onboard_time": 1736226983,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 195685,
       "num": 308588,
       "word": "陈丽君入选中国妇女报社年度女性新闻人物",
@@ -833,6 +833,14 @@
       "onboard_time": 1736224765,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 187954,
+      "num": 214821,
+      "word": "白鹿大家都会来看的吧",
+      "onboard_time": 1736227104,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 181979,
@@ -915,12 +923,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167655,
+      "num": 167655,
+      "word": "西藏6.8级地震660名消防员已集结",
+      "onboard_time": 1736227883,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166690,
       "num": 166690,
       "word": "肖战谈自己五年间的变化",
       "onboard_time": 1736205616,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 166462,
+      "num": 166462,
+      "word": "白鹿一口气发了30张库存",
+      "onboard_time": 1736228063,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 165503,
@@ -977,14 +1001,6 @@
       "onboard_time": 1736223024,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 159838,
-      "num": 157513,
-      "word": "白鹿大家都会来看的吧",
-      "onboard_time": 1736227104,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 157896,
@@ -1131,6 +1147,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130402,
+      "num": 130402,
+      "word": "白月梵星热度",
+      "onboard_time": 1736228244,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 130128,
+      "num": 130128,
+      "word": "女子推理社",
+      "onboard_time": 1736228001,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129050,
       "num": 129050,
       "word": "张康乐 套马的汉子",
@@ -1177,6 +1209,14 @@
       "onboard_time": 1736142803,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 116523,
+      "num": 347528,
+      "word": "这才是研究生三年努力的规划",
+      "onboard_time": 1736226983,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 116422,
@@ -1419,6 +1459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82889,
+      "num": 431991,
+      "word": "肥娟小吃老板主打一个听劝",
+      "onboard_time": 1736226625,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82017,
       "num": 188333,
       "word": "A50",
@@ -1481,6 +1529,22 @@
       "onboard_time": 1736153906,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71384,
+      "num": 280574,
+      "word": "时代少年团官宣微博之夜",
+      "onboard_time": 1736225306,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 70406,
+      "num": 280955,
+      "word": "地笼",
+      "onboard_time": 1736227763,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 68746,
@@ -1608,14 +1672,6 @@
       "word": "贪官深信当上一把手是靠骗子运作",
       "onboard_time": 1736191511,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39356,
-      "num": 431991,
-      "word": "肥娟小吃老板主打一个听劝",
-      "onboard_time": 1736226625,
-      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -1785,14 +1841,6 @@
       "onboard_time": 1736186235,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 12698,
-      "num": 347528,
-      "word": "这才是研究生三年努力的规划",
-      "onboard_time": 1736226983,
-      "rank": 28,
-      "category": "教育"
     },
     {
       "raw_hot": 11895,
