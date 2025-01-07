@@ -1,6 +1,6 @@
 {
   "startTime": 1736180901032,
-  "endTime": 1736221398024,
+  "endTime": 1736223951282,
   "band_list": [
     {
       "raw_hot": 2582877,
@@ -17,6 +17,14 @@
       "onboard_time": 1736217561,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1890075,
+      "num": 1890075,
+      "word": "泰媒称演员王星在缅甸被找到",
+      "onboard_time": 1736222123,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1807004,
@@ -41,6 +49,22 @@
       "onboard_time": 1736217379,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1361273,
+      "num": 1361273,
+      "word": "西藏6.8级地震已致36人遇难",
+      "onboard_time": 1736220502,
+      "rank": 3,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 1339091,
+      "num": 890517,
+      "word": "西藏地震房屋倒塌现场",
+      "onboard_time": 1736218940,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1277866,
@@ -83,12 +107,28 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 783263,
-      "num": 783263,
-      "word": "西藏地震房屋倒塌现场",
-      "onboard_time": 1736218940,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 899785,
+      "num": 899785,
+      "word": "泰国警方称已知晓星星位置",
+      "onboard_time": 1736221581,
+      "rank": 4,
+      "category": "国际时政,艺人"
+    },
+    {
+      "raw_hot": 827508,
+      "num": 827508,
+      "word": "RTX5090",
+      "onboard_time": 1736220081,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 799236,
+      "num": 799236,
+      "word": "哪吒2东海龙王超帅",
+      "onboard_time": 1736220861,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 769821,
@@ -139,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 560209,
+      "num": 560209,
+      "word": "白月梵星开播",
+      "onboard_time": 1736222783,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 547221,
       "num": 547221,
       "word": "多方回应入住酒店孩子高烧取外卖难",
@@ -169,6 +217,14 @@
       "onboard_time": 1736208679,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 474941,
+      "num": 474941,
+      "word": "国色芳华播出排面",
+      "onboard_time": 1736222543,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 465276,
@@ -203,19 +259,19 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 442370,
-      "num": 442370,
-      "word": "RTX5090",
-      "onboard_time": 1736220081,
-      "rank": 37,
-      "category": "数码"
-    },
-    {
       "raw_hot": 439972,
       "num": 483272,
       "word": "一次收几十元微信红包最后贪了47万",
       "onboard_time": 1736171844,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 418147,
+      "num": 418147,
+      "word": "西藏日喀则6.8级地震救援情况",
+      "onboard_time": 1736220861,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -249,6 +305,14 @@
       "onboard_time": 1736218342,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 345552,
+      "num": 345552,
+      "word": "42岁抗癌网红雨虹去世",
+      "onboard_time": 1736220622,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 345347,
@@ -305,6 +369,30 @@
       "onboard_time": 1736216661,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 299889,
+      "num": 247374,
+      "word": "RTX5070对标4090",
+      "onboard_time": 1736222242,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 297564,
+      "num": 297564,
+      "word": "光遇复刻",
+      "onboard_time": 1736223444,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 295629,
+      "num": 295629,
+      "word": "男生地震中背同学跑被奖励公派留学",
+      "onboard_time": 1736222783,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 291400,
@@ -371,12 +459,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 267932,
+      "num": 267932,
+      "word": "腊八吃什么",
+      "onboard_time": 1736216299,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 267305,
       "num": 267305,
       "word": "腊八节",
       "onboard_time": 1736205256,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 263545,
+      "num": 263545,
+      "word": "杨毅谈樊振东陈梦退世排",
+      "onboard_time": 1736220081,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 259084,
@@ -419,14 +523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 234594,
-      "num": 234594,
-      "word": "杨毅谈樊振东陈梦退世排",
-      "onboard_time": 1736220081,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 234579,
       "num": 238541,
       "word": "成毅喂牛",
@@ -451,6 +547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 224101,
+      "num": 224101,
+      "word": "坏了阿如那开始演懂法角色了",
+      "onboard_time": 1736222783,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223498,
       "num": 223498,
       "word": "药店人员称有医生在线下单流感神药",
@@ -467,12 +571,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 218163,
-      "num": 218163,
-      "word": "西藏日喀则6.8级地震救援情况",
-      "onboard_time": 1736220861,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 218986,
+      "num": 218986,
+      "word": "易烊千玺说接小小的我是闭眼冲",
+      "onboard_time": 1736222423,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 216610,
+      "num": 481413,
+      "word": "费翔剧透封神第二部",
+      "onboard_time": 1736222242,
+      "rank": 14,
+      "category": "电影,艺人"
     },
     {
       "raw_hot": 214208,
@@ -489,14 +601,6 @@
       "onboard_time": 1736179102,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 209582,
-      "num": 236823,
-      "word": "哪吒2东海龙王超帅",
-      "onboard_time": 1736220861,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 209100,
@@ -547,12 +651,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 201499,
-      "num": 201499,
-      "word": "42岁抗癌网红雨虹去世",
-      "onboard_time": 1736220622,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 202928,
+      "num": 202928,
+      "word": "苹果iOS18.2.1正式版发布",
+      "onboard_time": 1736222303,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 195685,
@@ -563,12 +667,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193728,
-      "num": 193728,
-      "word": "腊八吃什么",
-      "onboard_time": 1736216299,
-      "rank": 35,
-      "category": "美食"
+      "raw_hot": 193392,
+      "num": 193392,
+      "word": "黑执事 少爷长大了",
+      "onboard_time": 1736220323,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 191687,
+      "num": 191687,
+      "word": "金泰妍演唱会官宣",
+      "onboard_time": 1736222723,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 188404,
@@ -585,6 +697,14 @@
       "onboard_time": 1736181498,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 181757,
+      "num": 181757,
+      "word": "李昀锐和小狗拍封面",
+      "onboard_time": 1736223803,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 180743,
@@ -644,11 +764,19 @@
     },
     {
       "raw_hot": 163614,
-      "num": 163614,
+      "num": 247983,
       "word": "刘浩存白衬衫好A",
       "onboard_time": 1736220921,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 161469,
+      "num": 431513,
+      "word": "西藏6.8级地震成都昆明收到预警",
+      "onboard_time": 1736220921,
+      "rank": 14,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 161347,
@@ -657,6 +785,14 @@
       "onboard_time": 1736181197,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160831,
+      "num": 349795,
+      "word": "金晨回应见证孙阳大火",
+      "onboard_time": 1736223024,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 157895,
@@ -715,20 +851,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 146705,
+      "num": 146705,
+      "word": "白月梵星箭破苍天版预告",
+      "onboard_time": 1736223566,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145850,
       "num": 145850,
       "word": "2025开年首对豹豹猫猫",
       "onboard_time": 1736221222,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144137,
-      "num": 144137,
-      "word": "黑执事 少爷长大了",
-      "onboard_time": 1736220323,
-      "rank": 46,
-      "category": "动漫"
     },
     {
       "raw_hot": 144079,
@@ -763,20 +899,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137460,
+      "num": 184010,
+      "word": "白鹿 平等爱我遇到的每个角色",
+      "onboard_time": 1736221281,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137140,
       "num": 137140,
       "word": "商汤科技声明",
       "onboard_time": 1736219781,
       "rank": 47,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 135720,
-      "num": 134440,
-      "word": "白鹿 平等爱我遇到的每个角色",
-      "onboard_time": 1736221281,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 134069,
@@ -809,6 +945,14 @@
       "onboard_time": 1736218761,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128311,
+      "num": 660790,
+      "word": "1500余人前往西藏震中搜救",
+      "onboard_time": 1736223684,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127633,
@@ -1091,6 +1235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 78410,
+      "num": 1578732,
+      "word": "公安网安部门打击加油机作弊犯罪",
+      "onboard_time": 1736221642,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77420,
       "num": 108307,
       "word": "缴过社保也能算应届毕业生",
@@ -1131,6 +1283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71831,
+      "num": 346243,
+      "word": "酒店窗外发现无人机女子质疑被偷拍",
+      "onboard_time": 1736222723,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68746,
       "num": 188312,
       "word": "缅甸妙瓦底系网络诈骗的大本营",
@@ -1153,14 +1313,6 @@
       "onboard_time": 1736178502,
       "rank": 47,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 66682,
-      "num": 431513,
-      "word": "西藏6.8级地震成都昆明收到预警",
-      "onboard_time": 1736220921,
-      "rank": 14,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 65258,

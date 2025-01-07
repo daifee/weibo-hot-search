@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736221398024,
+  "endTime": 1736223951282,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -275,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1890075,
+      "num": 1890075,
+      "word": "泰媒称演员王星在缅甸被找到",
+      "onboard_time": 1736222123,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1887519,
       "num": 1887519,
       "word": "杨紫 没有这么欺负人的",
@@ -425,6 +433,22 @@
       "onboard_time": 1736171484,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1361273,
+      "num": 1361273,
+      "word": "西藏6.8级地震已致36人遇难",
+      "onboard_time": 1736220502,
+      "rank": 3,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 1339091,
+      "num": 890517,
+      "word": "西藏地震房屋倒塌现场",
+      "onboard_time": 1736218940,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1336088,
@@ -643,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 899785,
+      "num": 899785,
+      "word": "泰国警方称已知晓星星位置",
+      "onboard_time": 1736221581,
+      "rank": 4,
+      "category": "国际时政,艺人"
+    },
+    {
       "raw_hot": 898753,
       "num": 898753,
       "word": "王俊凯玩无畏契约",
@@ -699,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 827508,
+      "num": 827508,
+      "word": "RTX5090",
+      "onboard_time": 1736220081,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 826950,
       "num": 333971,
       "word": "驻缅甸大使馆回应演员星星失联",
@@ -739,20 +779,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 799236,
+      "num": 799236,
+      "word": "哪吒2东海龙王超帅",
+      "onboard_time": 1736220861,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 798641,
       "num": 450899,
       "word": "禁娱一解除就来泡泡的爱豆",
       "onboard_time": 1736084670,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 783263,
-      "num": 783263,
-      "word": "西藏地震房屋倒塌现场",
-      "onboard_time": 1736218940,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 778578,
@@ -1155,6 +1195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 560209,
+      "num": 560209,
+      "word": "白月梵星开播",
+      "onboard_time": 1736222783,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 554927,
       "num": 554927,
       "word": "王锵上线了",
@@ -1379,6 +1427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 474941,
+      "num": 474941,
+      "word": "国色芳华播出排面",
+      "onboard_time": 1736222543,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 471997,
       "num": 436754,
       "word": "祝绪丹急得站起来嗑",
@@ -1539,14 +1595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 442370,
-      "num": 442370,
-      "word": "RTX5090",
-      "onboard_time": 1736220081,
-      "rank": 37,
-      "category": "数码"
-    },
-    {
       "raw_hot": 434706,
       "num": 392752,
       "word": "李昀锐嘟嘟嘴",
@@ -1609,6 +1657,14 @@
       "onboard_time": 1736069845,
       "rank": 10,
       "category": "教育"
+    },
+    {
+      "raw_hot": 418147,
+      "num": 418147,
+      "word": "西藏日喀则6.8级地震救援情况",
+      "onboard_time": 1736220861,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 416509,
@@ -1987,6 +2043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 345552,
+      "num": 345552,
+      "word": "42岁抗癌网红雨虹去世",
+      "onboard_time": 1736220622,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 341776,
       "num": 341776,
       "word": "猎罪图鉴3宣传词出来了",
@@ -2211,6 +2275,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 299889,
+      "num": 247374,
+      "word": "RTX5070对标4090",
+      "onboard_time": 1736222242,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 297564,
+      "num": 297564,
+      "word": "光遇复刻",
+      "onboard_time": 1736223444,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 297010,
       "num": 297010,
       "word": "丁禹兮关注了张碧晨",
@@ -2241,6 +2321,14 @@
       "onboard_time": 1736061385,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 295629,
+      "num": 295629,
+      "word": "男生地震中背同学跑被奖励公派留学",
+      "onboard_time": 1736222783,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 294439,
@@ -2523,6 +2611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267932,
+      "num": 267932,
+      "word": "腊八吃什么",
+      "onboard_time": 1736216299,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 267305,
       "num": 267305,
       "word": "腊八节",
@@ -2537,6 +2633,14 @@
       "onboard_time": 1736154445,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 263545,
+      "num": 263545,
+      "word": "杨毅谈樊振东陈梦退世排",
+      "onboard_time": 1736220081,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 263363,
@@ -2811,14 +2915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 234594,
-      "num": 234594,
-      "word": "杨毅谈樊振东陈梦退世排",
-      "onboard_time": 1736220081,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 234579,
       "num": 238541,
       "word": "成毅喂牛",
@@ -2939,6 +3035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224101,
+      "num": 224101,
+      "word": "坏了阿如那开始演懂法角色了",
+      "onboard_time": 1736222783,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224012,
       "num": 250407,
       "word": "杨紫魏哲鸣新剧包办婚姻受害者",
@@ -3035,6 +3139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218986,
+      "num": 218986,
+      "word": "易烊千玺说接小小的我是闭眼冲",
+      "onboard_time": 1736222423,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 218527,
       "num": 218527,
       "word": "两个恋爱脑和一个大馋丫头",
@@ -3049,14 +3161,6 @@
       "onboard_time": 1736132062,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 218163,
-      "num": 218163,
-      "word": "西藏日喀则6.8级地震救援情况",
-      "onboard_time": 1736220861,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 218103,
@@ -3089,6 +3193,14 @@
       "onboard_time": 1736137587,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216610,
+      "num": 481413,
+      "word": "费翔剧透封神第二部",
+      "onboard_time": 1736222242,
+      "rank": 14,
+      "category": "电影,艺人"
     },
     {
       "raw_hot": 216548,
@@ -3225,14 +3337,6 @@
       "onboard_time": 1736139387,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 209582,
-      "num": 236823,
-      "word": "哪吒2东海龙王超帅",
-      "onboard_time": 1736220861,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 209021,
@@ -3395,6 +3499,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 202928,
+      "num": 202928,
+      "word": "苹果iOS18.2.1正式版发布",
+      "onboard_time": 1736222303,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 202915,
       "num": 295856,
       "word": "老板给贪官租别墅吃喝玩乐一条龙",
@@ -3424,14 +3536,6 @@
       "word": "陕西蒲城通报一职校学生坠楼",
       "onboard_time": 1736128160,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 201499,
-      "num": 201499,
-      "word": "42岁抗癌网红雨虹去世",
-      "onboard_time": 1736220622,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -3579,12 +3683,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193728,
-      "num": 193728,
-      "word": "腊八吃什么",
-      "onboard_time": 1736216299,
-      "rank": 35,
-      "category": "美食"
+      "raw_hot": 193392,
+      "num": 193392,
+      "word": "黑执事 少爷长大了",
+      "onboard_time": 1736220323,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 193095,
@@ -3593,6 +3697,14 @@
       "onboard_time": 1736164583,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191687,
+      "num": 191687,
+      "word": "金泰妍演唱会官宣",
+      "onboard_time": 1736222723,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 191675,
@@ -3681,6 +3793,14 @@
       "onboard_time": 1736181498,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 181757,
+      "num": 181757,
+      "word": "李昀锐和小狗拍封面",
+      "onboard_time": 1736223803,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 181622,
@@ -4052,7 +4172,7 @@
     },
     {
       "raw_hot": 163614,
-      "num": 163614,
+      "num": 247983,
       "word": "刘浩存白衬衫好A",
       "onboard_time": 1736220921,
       "rank": 40,
@@ -4115,12 +4235,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161469,
+      "num": 431513,
+      "word": "西藏6.8级地震成都昆明收到预警",
+      "onboard_time": 1736220921,
+      "rank": 14,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 161347,
       "num": 183388,
       "word": "失联演员王星好友称警方已经立案",
       "onboard_time": 1736181197,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160831,
+      "num": 349795,
+      "word": "金晨回应见证孙阳大火",
+      "onboard_time": 1736223024,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 160681,
@@ -4531,6 +4667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146705,
+      "num": 146705,
+      "word": "白月梵星箭破苍天版预告",
+      "onboard_time": 1736223566,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146677,
       "num": 2678947,
       "word": "甲流7日病程用药图",
@@ -4561,14 +4705,6 @@
       "onboard_time": 1736078667,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144137,
-      "num": 144137,
-      "word": "黑执事 少爷长大了",
-      "onboard_time": 1736220323,
-      "rank": 46,
-      "category": "动漫"
     },
     {
       "raw_hot": 144079,
@@ -4683,6 +4819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137460,
+      "num": 184010,
+      "word": "白鹿 平等爱我遇到的每个角色",
+      "onboard_time": 1736221281,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137173,
       "num": 199420,
       "word": "成毅被风吹得东倒西歪",
@@ -4729,14 +4873,6 @@
       "onboard_time": 1736147905,
       "rank": 48,
       "category": "数码"
-    },
-    {
-      "raw_hot": 135720,
-      "num": 134440,
-      "word": "白鹿 平等爱我遇到的每个角色",
-      "onboard_time": 1736221281,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 135636,
@@ -4969,6 +5105,14 @@
       "onboard_time": 1736125401,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 128311,
+      "num": 660790,
+      "word": "1500余人前往西藏震中搜救",
+      "onboard_time": 1736223684,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128148,
@@ -6243,6 +6387,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 78410,
+      "num": 1578732,
+      "word": "公安网安部门打击加油机作弊犯罪",
+      "onboard_time": 1736221642,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78155,
       "num": 78155,
       "word": "英超双红会",
@@ -6329,6 +6481,14 @@
       "onboard_time": 1736160024,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71831,
+      "num": 346243,
+      "word": "酒店窗外发现无人机女子质疑被偷拍",
+      "onboard_time": 1736222723,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71508,
@@ -6441,14 +6601,6 @@
       "onboard_time": 1736178502,
       "rank": 47,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 66682,
-      "num": 431513,
-      "word": "西藏6.8级地震成都昆明收到预警",
-      "onboard_time": 1736220921,
-      "rank": 14,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 65453,

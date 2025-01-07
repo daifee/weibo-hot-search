@@ -1,0 +1,410 @@
+{
+  "runTime": 1736223951282,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1890075,
+        "num": 1890075,
+        "word": "泰媒称演员王星在缅甸被找到",
+        "onboard_time": 1736222123,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2237956,
+        "num": 1805620,
+        "word": "台湾歌手撞人致死第2天仍参加演唱会",
+        "onboard_time": 1736217561,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78410,
+        "num": 1578732,
+        "word": "公安网安部门打击加油机作弊犯罪",
+        "onboard_time": 1736221642,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1361273,
+        "num": 1361273,
+        "word": "西藏6.8级地震已致36人遇难",
+        "onboard_time": 1736220502,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 899785,
+        "num": 899785,
+        "word": "泰国警方称已知晓星星位置",
+        "onboard_time": 1736221581,
+        "rank": 4,
+        "category": "国际时政,艺人"
+      },
+      {
+        "raw_hot": 1390478,
+        "num": 894451,
+        "word": "没有发现王星正式出境泰国记录",
+        "onboard_time": 1736217379,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1339091,
+        "num": 890517,
+        "word": "西藏地震房屋倒塌现场",
+        "onboard_time": 1736218940,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 827508,
+        "num": 827508,
+        "word": "RTX5090",
+        "onboard_time": 1736220081,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 799236,
+        "num": 799236,
+        "word": "哪吒2东海龙王超帅",
+        "onboard_time": 1736220861,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128311,
+        "num": 660790,
+        "word": "1500余人前往西藏震中搜救",
+        "onboard_time": 1736223684,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1490826,
+        "num": 660173,
+        "word": "西藏日喀则6.8级地震",
+        "onboard_time": 1736213180,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 633449,
+        "num": 633449,
+        "word": "李心艾刘子瑞结婚",
+        "onboard_time": 1736214322,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 596528,
+        "num": 596528,
+        "word": "把19岁女乘客扔高速顺风车司机错在哪",
+        "onboard_time": 1736216900,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 560209,
+        "num": 560209,
+        "word": "白月梵星开播",
+        "onboard_time": 1736222783,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216610,
+        "num": 481413,
+        "word": "费翔剧透封神第二部",
+        "onboard_time": 1736222242,
+        "rank": 14,
+        "category": "电影,艺人"
+      },
+      {
+        "raw_hot": 474941,
+        "num": 474941,
+        "word": "国色芳华播出排面",
+        "onboard_time": 1736222543,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 418147,
+        "num": 418147,
+        "word": "西藏日喀则6.8级地震救援情况",
+        "onboard_time": 1736220861,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357194,
+        "num": 357194,
+        "word": "四川拟取消应届生身份限制",
+        "onboard_time": 1736215879,
+        "rank": 17,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 160831,
+        "num": 349795,
+        "word": "金晨回应见证孙阳大火",
+        "onboard_time": 1736223024,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 71831,
+        "num": 346243,
+        "word": "酒店窗外发现无人机女子质疑被偷拍",
+        "onboard_time": 1736222723,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410038,
+        "num": 346165,
+        "word": "虞书欣北京春晚表演在干嘛呀",
+        "onboard_time": 1736216780,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345552,
+        "num": 345552,
+        "word": "42岁抗癌网红雨虹去世",
+        "onboard_time": 1736220622,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336949,
+        "num": 336949,
+        "word": "上海全款150万32平米的家",
+        "onboard_time": 1736220081,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 297564,
+        "num": 297564,
+        "word": "光遇复刻",
+        "onboard_time": 1736223444,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 295629,
+        "num": 295629,
+        "word": "男生地震中背同学跑被奖励公派留学",
+        "onboard_time": 1736222783,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267932,
+        "num": 267932,
+        "word": "腊八吃什么",
+        "onboard_time": 1736216299,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 263545,
+        "num": 263545,
+        "word": "杨毅谈樊振东陈梦退世排",
+        "onboard_time": 1736220081,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256788,
+        "num": 256788,
+        "word": "苏州寒山寺的腊八粥嘟嘟嘟了",
+        "onboard_time": 1736218940,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 252400,
+        "num": 252400,
+        "word": "微博之夜目前阵容",
+        "onboard_time": 1736217440,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146260,
+        "num": 247983,
+        "word": "刘浩存白衬衫好A",
+        "onboard_time": 1736220921,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 299889,
+        "num": 247374,
+        "word": "RTX5070对标4090",
+        "onboard_time": 1736222242,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 246687,
+        "num": 246687,
+        "word": "多方回应入住酒店孩子高烧取外卖难",
+        "onboard_time": 1736207059,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 224101,
+        "num": 224101,
+        "word": "坏了阿如那开始演懂法角色了",
+        "onboard_time": 1736222783,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218986,
+        "num": 218986,
+        "word": "易烊千玺说接小小的我是闭眼冲",
+        "onboard_time": 1736222423,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 208505,
+        "num": 208505,
+        "word": "西藏地震周边5公里有7个村庄",
+        "onboard_time": 1736215879,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202928,
+        "num": 202928,
+        "word": "苹果iOS18.2.1正式版发布",
+        "onboard_time": 1736222303,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 200746,
+        "num": 200746,
+        "word": "赞达亚荷兰弟订婚",
+        "onboard_time": 1736209401,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193392,
+        "num": 193392,
+        "word": "黑执事 少爷长大了",
+        "onboard_time": 1736220323,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 193276,
+        "num": 193276,
+        "word": "要建设全国就业公共服务平台",
+        "onboard_time": 1736218342,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 192726,
+        "num": 192726,
+        "word": "夏以昼空降叠纸大楼",
+        "onboard_time": 1736216839,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191687,
+        "num": 191687,
+        "word": "金泰妍演唱会官宣",
+        "onboard_time": 1736222723,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137460,
+        "num": 184010,
+        "word": "白鹿 平等爱我遇到的每个角色",
+        "onboard_time": 1736221281,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181757,
+        "num": 181757,
+        "word": "李昀锐和小狗拍封面",
+        "onboard_time": 1736223803,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177982,
+        "num": 177982,
+        "word": "哪吒2首支预告",
+        "onboard_time": 1736216900,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161469,
+        "num": 161469,
+        "word": "西藏6.8级地震成都昆明收到预警",
+        "onboard_time": 1736220921,
+        "rank": 44,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 158828,
+        "num": 158828,
+        "word": "金智秀韩剧新乌托邦",
+        "onboard_time": 1736215039,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152375,
+        "num": 152375,
+        "word": "各地不得设户籍等障碍影响人才流动",
+        "onboard_time": 1736219961,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148426,
+        "num": 148426,
+        "word": "西藏今早地震系周边5年最大地震",
+        "onboard_time": 1736218882,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146705,
+        "num": 146705,
+        "word": "白月梵星箭破苍天版预告",
+        "onboard_time": 1736223566,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144972,
+        "num": 144972,
+        "word": "中国船员疑抵泰国后失联被绑至缅甸",
+        "onboard_time": 1736216061,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届中央纪委四次全会召开#"
+    }
+  }
+}
