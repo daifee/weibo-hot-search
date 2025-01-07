@@ -1,0 +1,410 @@
+{
+  "runTime": 1736241864783,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2828414,
+        "num": 2828414,
+        "word": "西藏定日县地震已致95人遇难",
+        "onboard_time": 1736237362,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 909733,
+        "num": 909733,
+        "word": "第一批解放军已抵达西藏震中",
+        "onboard_time": 1736229564,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 97431,
+        "num": 589995,
+        "word": "三部门紧急调拨2.2万件中央救灾物资",
+        "onboard_time": 1736240544,
+        "rank": 2,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 4022283,
+        "num": 586040,
+        "word": "星星疑被剃去头发腿上有红斑",
+        "onboard_time": 1736237304,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580639,
+        "num": 580639,
+        "word": "被骗到缅东小伙跳河逃生棉裤都没脱",
+        "onboard_time": 1736240722,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 848077,
+        "num": 575740,
+        "word": "泰警方称星星被缅甸边防部队拘留",
+        "onboard_time": 1736233044,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 560619,
+        "num": 560619,
+        "word": "终于有仙侠剧不把凡人当NPC了",
+        "onboard_time": 1736236821,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 670524,
+        "num": 510328,
+        "word": "演员星星乘车离境泰国视频公布",
+        "onboard_time": 1736234543,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418674,
+        "num": 418674,
+        "word": "车管所辅警通过十几元的红包收了47万多元",
+        "onboard_time": 1736235924,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382907,
+        "num": 382907,
+        "word": "四川地震",
+        "onboard_time": 1736236762,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 945624,
+        "num": 381635,
+        "word": "西藏日喀则6.8级地震",
+        "onboard_time": 1736213180,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 471727,
+        "num": 379606,
+        "word": "外交部回应演员星星失联",
+        "onboard_time": 1736237183,
+        "rank": 11,
+        "category": "艺人,国内时政"
+      },
+      {
+        "raw_hot": 441478,
+        "num": 378781,
+        "word": "苏炳添提车",
+        "onboard_time": 1736235743,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209700,
+        "num": 377440,
+        "word": "愿西藏定日县平安",
+        "onboard_time": 1736240663,
+        "rank": 13,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 158340,
+        "num": 375238,
+        "word": "北大教授谈演员王星失联事件",
+        "onboard_time": 1736240903,
+        "rank": 14,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 429453,
+        "num": 374043,
+        "word": "西藏日喀则地震现场画面",
+        "onboard_time": 1736225904,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 421324,
+        "num": 372279,
+        "word": "肖战捐赠驰援西藏",
+        "onboard_time": 1736237063,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384763,
+        "num": 368924,
+        "word": "采访我的丁克舅舅现在过得怎么样",
+        "onboard_time": 1736237425,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237024,
+        "num": 367892,
+        "word": "国色芳华 恶婆婆上新了",
+        "onboard_time": 1736239883,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 6635,
+        "num": 366422,
+        "word": "不同手机型号地震预警设置方法",
+        "onboard_time": 1736241743,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365238,
+        "num": 365238,
+        "word": "赵樱子自曝被男顶流追求过",
+        "onboard_time": 1736225243,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268177,
+        "num": 268177,
+        "word": "死猪被绑上石头丢进村民饮用水井",
+        "onboard_time": 1736234543,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267537,
+        "num": 267537,
+        "word": "刘强东给自己小学老师每人发10万现金",
+        "onboard_time": 1736228662,
+        "rank": 22,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 252379,
+        "num": 252379,
+        "word": "西藏日喀则地震发布会",
+        "onboard_time": 1736238623,
+        "rank": 23,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 19495,
+        "num": 236978,
+        "word": "孙颖莎展望2025",
+        "onboard_time": 1736239584,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221942,
+        "num": 221942,
+        "word": "何炅是不是有谢娜的使用说明书",
+        "onboard_time": 1736236894,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116918,
+        "num": 215313,
+        "word": "女友称王星失联事件或将迎来转机",
+        "onboard_time": 1736240423,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213328,
+        "num": 213328,
+        "word": "西藏日喀则地震现场救援视频",
+        "onboard_time": 1736230822,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201853,
+        "num": 201853,
+        "word": "杨紫剧粉",
+        "onboard_time": 1736240124,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191753,
+        "num": 191753,
+        "word": "白月梵星你要毁了一代妖王吗",
+        "onboard_time": 1736238562,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 394628,
+        "num": 189353,
+        "word": "泰国总理确认找到王星",
+        "onboard_time": 1736239402,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184049,
+        "num": 184049,
+        "word": "腊八吃什么",
+        "onboard_time": 1736216299,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180107,
+        "num": 180107,
+        "word": "iPhone16系列或出最便宜版本",
+        "onboard_time": 1736237963,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 173196,
+        "num": 173196,
+        "word": "燕云十六声",
+        "onboard_time": 1736237604,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169659,
+        "num": 169659,
+        "word": "西藏地震有市民直接被摇醒",
+        "onboard_time": 1736239344,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168971,
+        "num": 168971,
+        "word": "国家地震应急响应升至二级",
+        "onboard_time": 1736239523,
+        "rank": 35,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 160547,
+        "num": 160547,
+        "word": "孟子义代表作改九重紫",
+        "onboard_time": 1736230581,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156110,
+        "num": 156110,
+        "word": "毁掉一个家庭只需要三分钟",
+        "onboard_time": 1736226145,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155238,
+        "num": 155238,
+        "word": "敖瑞鹏 主人级别",
+        "onboard_time": 1736241383,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151590,
+        "num": 151590,
+        "word": "运20飞往西藏日喀则地震灾区",
+        "onboard_time": 1736236762,
+        "rank": 39,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 151311,
+        "num": 151311,
+        "word": "孙颖莎说混双从没有会输的闪念",
+        "onboard_time": 1736234125,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147225,
+        "num": 147225,
+        "word": "女子入住月子中心4天老板跑了",
+        "onboard_time": 1736241323,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143772,
+        "num": 143772,
+        "word": "马柏全 休学",
+        "onboard_time": 1736228961,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143449,
+        "num": 143449,
+        "word": "我们与西藏日喀则在一起",
+        "onboard_time": 1736235023,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140864,
+        "num": 140864,
+        "word": "李现说杨紫是国色芳华团宠",
+        "onboard_time": 1736236464,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135968,
+        "num": 135968,
+        "word": "弟弟说王星看着精神不太好",
+        "onboard_time": 1736236643,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134949,
+        "num": 134949,
+        "word": "台湾歌手撞人致死第2天仍参加演唱会",
+        "onboard_time": 1736217561,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130527,
+        "num": 130527,
+        "word": "敖丙开门 是爹地",
+        "onboard_time": 1736231842,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128610,
+        "num": 128610,
+        "word": "WINTER初雪Cover",
+        "onboard_time": 1736239104,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124485,
+        "num": 124485,
+        "word": "西藏发布会现场为遇难者默哀",
+        "onboard_time": 1736238743,
+        "rank": 49,
+        "category": "突发/灾害"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对西藏定日县6.8级地震作出重要指示#"
+    }
+  }
+}
