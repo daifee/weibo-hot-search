@@ -1,0 +1,410 @@
+{
+  "runTime": 1736256574251,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9884168,
+        "num": 9884168,
+        "word": "王星成功获救",
+        "onboard_time": 1736252905,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 849919,
+        "num": 849919,
+        "word": "98年民警抓患艾滋嫌犯受伤流血",
+        "onboard_time": 1736246782,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79903,
+        "num": 646278,
+        "word": "三部门紧急调拨2.2万件中央救灾物资",
+        "onboard_time": 1736240544,
+        "rank": 2,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 881227,
+        "num": 639398,
+        "word": "国色芳华开播",
+        "onboard_time": 1736249662,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 616286,
+        "num": 616286,
+        "word": "北京下雪",
+        "onboard_time": 1736251762,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 589770,
+        "num": 589770,
+        "word": "西藏定日县地震已致95人遇难",
+        "onboard_time": 1736237362,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 782868,
+        "num": 487361,
+        "word": "国色芳华热度",
+        "onboard_time": 1736253384,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 655100,
+        "num": 484707,
+        "word": "4名中国演员侥幸逃脱泰国试戏骗局",
+        "onboard_time": 1736242523,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357589,
+        "num": 357589,
+        "word": "中广联演员委员会发布重要提示",
+        "onboard_time": 1736251042,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95641,
+        "num": 355762,
+        "word": "专家称日喀则发生更大地震可能性不大",
+        "onboard_time": 1736256025,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3336094,
+        "num": 354841,
+        "word": "王星采访",
+        "onboard_time": 1736255365,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1007716,
+        "num": 352047,
+        "word": "当年明月",
+        "onboard_time": 1736253985,
+        "rank": 11,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 376662,
+        "num": 349579,
+        "word": "白鹿台词",
+        "onboard_time": 1736252544,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348187,
+        "num": 348187,
+        "word": "直击西藏救援现场",
+        "onboard_time": 1736242342,
+        "rank": 13,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 330386,
+        "num": 330386,
+        "word": "多明星捐赠驰援西藏",
+        "onboard_time": 1736245463,
+        "rank": 14,
+        "category": "突发/灾害,艺人"
+      },
+      {
+        "raw_hot": 1574845,
+        "num": 312529,
+        "word": "王星由警方护送比OK手势",
+        "onboard_time": 1736252905,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284511,
+        "num": 284511,
+        "word": "被骗到缅东小伙跳河逃生棉裤都没脱",
+        "onboard_time": 1736240722,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199070,
+        "num": 283674,
+        "word": "官方通报上午9点办事大厅空岗",
+        "onboard_time": 1736249242,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 46589,
+        "num": 282357,
+        "word": "雄狮少年导演称会坚守传统文化",
+        "onboard_time": 1736255065,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44953,
+        "num": 281969,
+        "word": "常华森直播",
+        "onboard_time": 1736255605,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342994,
+        "num": 280322,
+        "word": "国色芳华好有质感",
+        "onboard_time": 1736253684,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335695,
+        "num": 279357,
+        "word": "杜淳老婆增肥成功",
+        "onboard_time": 1736254585,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291143,
+        "num": 278077,
+        "word": "健身网红朴胜贤去世",
+        "onboard_time": 1736253323,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 169790,
+        "num": 276740,
+        "word": "苹果客服建议所有用户更新系统",
+        "onboard_time": 1736243542,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 144869,
+        "num": 274941,
+        "word": "常州一月子中心被曝集体跑路",
+        "onboard_time": 1736243422,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274917,
+        "num": 274917,
+        "word": "曝五条人买衣服表演后退货",
+        "onboard_time": 1736247683,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218089,
+        "num": 218089,
+        "word": "微博之夜阵容官宣",
+        "onboard_time": 1736254345,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207150,
+        "num": 207150,
+        "word": "代露娃 放开了美吧",
+        "onboard_time": 1736253205,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201140,
+        "num": 201140,
+        "word": "什么剧第一集结婚第二集离婚",
+        "onboard_time": 1736252183,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193847,
+        "num": 193847,
+        "word": "国色芳华广告",
+        "onboard_time": 1736254825,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192054,
+        "num": 192054,
+        "word": "赵丽颖法国巴黎巨幅地广",
+        "onboard_time": 1736252844,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174581,
+        "num": 174581,
+        "word": "国色芳华",
+        "onboard_time": 1736225184,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143797,
+        "num": 158644,
+        "word": "西藏日喀则地震现场画面",
+        "onboard_time": 1736225904,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156337,
+        "num": 156337,
+        "word": "国色芳华开播20分钟猫眼热度登顶",
+        "onboard_time": 1736256325,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137959,
+        "num": 155234,
+        "word": "甲流症状累及全身",
+        "onboard_time": 1736252544,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155083,
+        "num": 155083,
+        "word": "魏哲鸣新剧高冷哥爆改直球追妻",
+        "onboard_time": 1736256263,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138201,
+        "num": 138201,
+        "word": "常华森新剧馒头血脉觉醒",
+        "onboard_time": 1736255545,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134924,
+        "num": 134924,
+        "word": "第一批解放军已抵达西藏震中",
+        "onboard_time": 1736229564,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131295,
+        "num": 131295,
+        "word": "恋与深空秦彻抽卡爆率低",
+        "onboard_time": 1736247325,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129627,
+        "num": 129627,
+        "word": "男子整本彩票匀出2张对方中了40万",
+        "onboard_time": 1736242342,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129226,
+        "num": 129226,
+        "word": "白月梵星",
+        "onboard_time": 1736244984,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129069,
+        "num": 129069,
+        "word": "李昀锐回应跻身95流量生赛道",
+        "onboard_time": 1736251222,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127172,
+        "num": 127172,
+        "word": "赵樱子自曝被男顶流追求过",
+        "onboard_time": 1736225243,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116226,
+        "num": 116226,
+        "word": "西藏定日县地震这些问题一起关注",
+        "onboard_time": 1736242342,
+        "rank": 43,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 113213,
+        "num": 113213,
+        "word": "西藏地震",
+        "onboard_time": 1736212460,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111381,
+        "num": 111381,
+        "word": "贝克汉姆二儿子带女友度假",
+        "onboard_time": 1736251582,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107307,
+        "num": 107307,
+        "word": "孙颖莎称自己未完全沉淀下来",
+        "onboard_time": 1736255545,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106640,
+        "num": 106640,
+        "word": "女子入住月子中心4天老板跑了",
+        "onboard_time": 1736241323,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100853,
+        "num": 106630,
+        "word": "外卖小哥撞上路障哭着打电话给妈妈",
+        "onboard_time": 1736255665,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77210,
+        "num": 106575,
+        "word": "天灾无情但敌不过众志成城",
+        "onboard_time": 1736255426,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#千方百计保障西藏灾区群众基本生活#"
+    }
+  }
+}

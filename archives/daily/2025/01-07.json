@@ -1,6 +1,6 @@
 {
   "startTime": 1736180901032,
-  "endTime": 1736254761107,
+  "endTime": 1736256574251,
   "band_list": [
     {
       "raw_hot": 11656509,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 9690627,
-      "num": 9690627,
+      "raw_hot": 9884168,
+      "num": 9884168,
       "word": "王星成功获救",
       "onboard_time": 1736252905,
       "rank": 0,
@@ -32,6 +32,14 @@
       "word": "星星疑被剃去头发腿上有红斑",
       "onboard_time": 1736237304,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3336094,
+      "num": 354841,
+      "word": "王星采访",
+      "onboard_time": 1736255365,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -251,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1007716,
+      "num": 352047,
+      "word": "当年明月",
+      "onboard_time": 1736253985,
+      "rank": 12,
+      "category": "读书作家,作品衍生"
+    },
+    {
       "raw_hot": 1002962,
       "num": 212441,
       "word": "哈里斯宣布特朗普当选后掏出纸巾",
@@ -313,6 +329,14 @@
       "onboard_time": 1736225725,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 782868,
+      "num": 487361,
+      "word": "国色芳华热度",
+      "onboard_time": 1736253384,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 769821,
@@ -411,14 +435,6 @@
       "category": "国际时政,互联网"
     },
     {
-      "raw_hot": 605524,
-      "num": 332058,
-      "word": "国色芳华热度",
-      "onboard_time": 1736253384,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 601226,
       "num": 601226,
       "word": "杨紫 没有这么欺负人的",
@@ -457,14 +473,6 @@
       "onboard_time": 1736179341,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 575458,
-      "num": 330433,
-      "word": "当年明月",
-      "onboard_time": 1736253985,
-      "rank": 12,
-      "category": "读书作家,作品衍生"
     },
     {
       "raw_hot": 561486,
@@ -763,6 +771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 376662,
+      "num": 349579,
+      "word": "白鹿台词",
+      "onboard_time": 1736252544,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 375943,
       "num": 375943,
       "word": "杨紫 现哥又开始苦笑了",
@@ -819,6 +835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 342994,
+      "num": 280322,
+      "word": "国色芳华好有质感",
+      "onboard_time": 1736253684,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 340805,
       "num": 340805,
       "word": "甲流后发烧一查变成病毒性肺炎",
@@ -835,12 +859,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 337483,
-      "num": 238985,
-      "word": "白鹿台词",
-      "onboard_time": 1736252544,
-      "rank": 21,
-      "category": "剧集"
+      "raw_hot": 335695,
+      "num": 279357,
+      "word": "杜淳老婆增肥成功",
+      "onboard_time": 1736254585,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 333512,
@@ -955,6 +979,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 291143,
+      "num": 278077,
+      "word": "健身网红朴胜贤去世",
+      "onboard_time": 1736253323,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 286633,
       "num": 286633,
       "word": "鱿鱼游戏2为何跌落神坛",
@@ -1057,14 +1089,6 @@
       "onboard_time": 1736205256,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 264707,
-      "num": 191986,
-      "word": "健身网红朴胜贤去世",
-      "onboard_time": 1736253323,
-      "rank": 30,
-      "category": "网红"
     },
     {
       "raw_hot": 263545,
@@ -1171,14 +1195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 247510,
-      "num": 208307,
-      "word": "国色芳华好有质感",
-      "onboard_time": 1736253684,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 246317,
       "num": 246317,
       "word": "李现笑的牙都要感冒了",
@@ -1228,7 +1244,7 @@
     },
     {
       "raw_hot": 234588,
-      "num": 196983,
+      "num": 207150,
       "word": "代露娃 放开了美吧",
       "onboard_time": 1736253205,
       "rank": 31,
@@ -1353,6 +1369,14 @@
       "onboard_time": 1736231063,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218089,
+      "num": 218089,
+      "word": "微博之夜阵容官宣",
+      "onboard_time": 1736254345,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 217373,
@@ -1577,6 +1601,14 @@
       "onboard_time": 1736218641,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193847,
+      "num": 193847,
+      "word": "国色芳华广告",
+      "onboard_time": 1736254825,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 193604,
@@ -1987,6 +2019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156337,
+      "num": 156337,
+      "word": "国色芳华开播20分钟猫眼热度登顶",
+      "onboard_time": 1736256325,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156267,
       "num": 156267,
       "word": "哪吒2",
@@ -2024,6 +2064,14 @@
       "word": "代露娃 萌系甜妹爆改暗黑妖君",
       "onboard_time": 1736252665,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 155083,
+      "num": 155083,
+      "word": "魏哲鸣新剧高冷哥爆改直球追妻",
+      "onboard_time": 1736256263,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -2107,14 +2155,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 143057,
-      "num": 143057,
-      "word": "杜淳老婆增肥成功",
-      "onboard_time": 1736254585,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 140864,
       "num": 140864,
       "word": "李现说杨紫是国色芳华团宠",
@@ -2161,6 +2201,22 @@
       "onboard_time": 1736168325,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138201,
+      "num": 138201,
+      "word": "常华森新剧馒头血脉觉醒",
+      "onboard_time": 1736255545,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 137959,
+      "num": 155234,
+      "word": "甲流症状累及全身",
+      "onboard_time": 1736252544,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 137140,
@@ -2411,6 +2467,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 107307,
+      "num": 107307,
+      "word": "孙颖莎称自己未完全沉淀下来",
+      "onboard_time": 1736255545,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107252,
       "num": 188364,
       "word": "MINNIEsolo预告",
@@ -2483,6 +2547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100853,
+      "num": 106630,
+      "word": "外卖小哥撞上路障哭着打电话给妈妈",
+      "onboard_time": 1736255665,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100786,
       "num": 188356,
       "word": "曝虞书欣将离开华策",
@@ -2537,6 +2609,14 @@
       "onboard_time": 1736209521,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 95641,
+      "num": 355762,
+      "word": "专家称日喀则发生更大地震可能性不大",
+      "onboard_time": 1736256025,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95349,
@@ -2627,14 +2707,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 88282,
-      "num": 129765,
-      "word": "甲流症状累及全身",
-      "onboard_time": 1736252544,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 87435,
       "num": 188350,
       "word": "杭州四季青年底清仓羽绒服破发",
@@ -2713,6 +2785,14 @@
       "onboard_time": 1736182816,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77210,
+      "num": 106575,
+      "word": "天灾无情但敌不过众志成城",
+      "onboard_time": 1736255426,
+      "rank": 49,
+      "category": "正能量"
     },
     {
       "raw_hot": 76207,
@@ -2851,14 +2931,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 59649,
-      "num": 210890,
-      "word": "微博之夜阵容官宣",
-      "onboard_time": 1736254345,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 59262,
       "num": 108320,
       "word": "甲流",
@@ -2971,6 +3043,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 46589,
+      "num": 282357,
+      "word": "雄狮少年导演称会坚守传统文化",
+      "onboard_time": 1736255065,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 46238,
       "num": 106628,
       "word": "华助中心曾成功救助妙瓦底逃跑男子",
@@ -2993,6 +3073,14 @@
       "onboard_time": 1736233943,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44953,
+      "num": 281969,
+      "word": "常华森直播",
+      "onboard_time": 1736255605,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 44627,

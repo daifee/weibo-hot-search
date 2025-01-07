@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736254761107,
+  "endTime": 1736256574251,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -115,8 +115,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 9690627,
-      "num": 9690627,
+      "raw_hot": 9884168,
+      "num": 9884168,
       "word": "王星成功获救",
       "onboard_time": 1736252905,
       "rank": 0,
@@ -249,6 +249,14 @@
       "onboard_time": 1735978403,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3336094,
+      "num": 354841,
+      "word": "王星采访",
+      "onboard_time": 1736255365,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 3330871,
@@ -1707,6 +1715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1007716,
+      "num": 352047,
+      "word": "当年明月",
+      "onboard_time": 1736253985,
+      "rank": 12,
+      "category": "读书作家,作品衍生"
+    },
+    {
       "raw_hot": 1004763,
       "num": 1004763,
       "word": "国考",
@@ -2456,6 +2472,14 @@
       "word": "2025待爆",
       "onboard_time": 1735821560,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 782868,
+      "num": 487361,
+      "word": "国色芳华热度",
+      "onboard_time": 1736253384,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -3283,14 +3307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 605524,
-      "num": 332058,
-      "word": "国色芳华热度",
-      "onboard_time": 1736253384,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 605343,
       "num": 605343,
       "word": "四大预爆艺人微博之夜来了仨",
@@ -3537,14 +3553,6 @@
       "onboard_time": 1735873700,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 575458,
-      "num": 330433,
-      "word": "当年明月",
-      "onboard_time": 1736253985,
-      "rank": 12,
-      "category": "读书作家,作品衍生"
     },
     {
       "raw_hot": 574205,
@@ -5595,6 +5603,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 376662,
+      "num": 349579,
+      "word": "白鹿台词",
+      "onboard_time": 1736252544,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 375984,
       "num": 2672265,
       "word": "韩国国产白菜辣椒或将消失",
@@ -6155,6 +6171,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 342994,
+      "num": 280322,
+      "word": "国色芳华好有质感",
+      "onboard_time": 1736253684,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 342790,
       "num": 342790,
       "word": "樊振东分享霉霉的Mean",
@@ -6235,14 +6259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 337483,
-      "num": 238985,
-      "word": "白鹿台词",
-      "onboard_time": 1736252544,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 336498,
       "num": 336498,
       "word": "程潇 老娘要摆ending",
@@ -6265,6 +6281,14 @@
       "onboard_time": 1735719740,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 335695,
+      "num": 279357,
+      "word": "杜淳老婆增肥成功",
+      "onboard_time": 1736254585,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 335497,
@@ -7163,6 +7187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 291143,
+      "num": 278077,
+      "word": "健身网红朴胜贤去世",
+      "onboard_time": 1736253323,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 291056,
       "num": 291056,
       "word": "路特斯正式更名为莲花跑车",
@@ -7811,14 +7843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 264707,
-      "num": 191986,
-      "word": "健身网红朴胜贤去世",
-      "onboard_time": 1736253323,
-      "rank": 30,
-      "category": "网红"
-    },
-    {
       "raw_hot": 263825,
       "num": 725705,
       "word": "2025第1条微博",
@@ -8283,14 +8307,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 247510,
-      "num": 208307,
-      "word": "国色芳华好有质感",
-      "onboard_time": 1736253684,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 247196,
       "num": 495321,
       "word": "巴勒斯坦代表泪洒联合国",
@@ -8716,7 +8732,7 @@
     },
     {
       "raw_hot": 234588,
-      "num": 196983,
+      "num": 207150,
       "word": "代露娃 放开了美吧",
       "onboard_time": 1736253205,
       "rank": 31,
@@ -9401,6 +9417,14 @@
       "onboard_time": 1736140525,
       "rank": 29,
       "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 218089,
+      "num": 218089,
+      "word": "微博之夜阵容官宣",
+      "onboard_time": 1736254345,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 218088,
@@ -11025,6 +11049,14 @@
       "onboard_time": 1735786221,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193847,
+      "num": 193847,
+      "word": "国色芳华广告",
+      "onboard_time": 1736254825,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 193734,
@@ -13891,6 +13923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156337,
+      "num": 156337,
+      "word": "国色芳华开播20分钟猫眼热度登顶",
+      "onboard_time": 1736256325,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156267,
       "num": 156267,
       "word": "哪吒2",
@@ -14001,6 +14041,14 @@
       "onboard_time": 1735875440,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155083,
+      "num": 155083,
+      "word": "魏哲鸣新剧高冷哥爆改直球追妻",
+      "onboard_time": 1736256263,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 155020,
@@ -14931,14 +14979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143057,
-      "num": 143057,
-      "word": "杜淳老婆增肥成功",
-      "onboard_time": 1736254585,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 142805,
       "num": 151553,
       "word": "孙艺洲被哄成胚胎了",
@@ -15387,11 +15427,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138201,
+      "num": 138201,
+      "word": "常华森新剧馒头血脉觉醒",
+      "onboard_time": 1736255545,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137984,
       "num": 323568,
       "word": "偏头疼为啥一跳一跳",
       "onboard_time": 1735824381,
       "rank": 48,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 137959,
+      "num": 155234,
+      "word": "甲流症状累及全身",
+      "onboard_time": 1736252544,
+      "rank": 47,
       "category": "健康医疗"
     },
     {
@@ -17763,6 +17819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107307,
+      "num": 107307,
+      "word": "孙颖莎称自己未完全沉淀下来",
+      "onboard_time": 1736255545,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107252,
       "num": 188364,
       "word": "MINNIEsolo预告",
@@ -18131,6 +18195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 100853,
+      "num": 106630,
+      "word": "外卖小哥撞上路障哭着打电话给妈妈",
+      "onboard_time": 1736255665,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100764,
       "num": 220119,
       "word": "男子买假证冒充铁路工作人员乘车",
@@ -18385,6 +18457,14 @@
       "onboard_time": 1736072906,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95641,
+      "num": 355762,
+      "word": "专家称日喀则发生更大地震可能性不大",
+      "onboard_time": 1736256025,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95537,
@@ -18745,14 +18825,6 @@
       "onboard_time": 1735888460,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 88282,
-      "num": 129765,
-      "word": "甲流症状累及全身",
-      "onboard_time": 1736252544,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 88209,
@@ -19241,6 +19313,14 @@
       "onboard_time": 1736182816,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77210,
+      "num": 106575,
+      "word": "天灾无情但敌不过众志成城",
+      "onboard_time": 1736255426,
+      "rank": 49,
+      "category": "正能量"
     },
     {
       "raw_hot": 76951,
@@ -19987,14 +20067,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 59649,
-      "num": 210890,
-      "word": "微博之夜阵容官宣",
-      "onboard_time": 1736254345,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 59510,
       "num": 448522,
       "word": "团队倡议将脑瘫更名五慢症",
@@ -20675,6 +20747,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 46589,
+      "num": 282357,
+      "word": "雄狮少年导演称会坚守传统文化",
+      "onboard_time": 1736255065,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 46399,
       "num": 332137,
       "word": "剧本都不敢写陈挑战的人生",
@@ -20737,6 +20817,14 @@
       "onboard_time": 1736031434,
       "rank": 38,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 44953,
+      "num": 281969,
+      "word": "常华森直播",
+      "onboard_time": 1736255605,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 44720,
