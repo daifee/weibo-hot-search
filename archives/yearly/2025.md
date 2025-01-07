@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/07 11:28:53
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/07 11:43:18
 </p>
 </blockquote>
 <p>
@@ -261,6 +261,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%AD%8C%E6%89%8B%E6%92%9E%E4%BA%BA%E8%87%B4%E6%AD%BB%E7%AC%AC2%E5%A4%A9%E4%BB%8D%E5%8F%82%E5%8A%A0%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+台湾歌手撞人致死第2天仍参加演唱会（热度：2362209）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B3%BB%E8%B1%AA%E6%AD%A3%E5%BC%8F%E5%87%BA%E9%81%93%23" target="weibo">
 张峻豪正式出道（热度：2358182）
 </a>
@@ -287,12 +293,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%98%A6%E6%88%90%E8%96%84%E8%96%84%E4%B8%80%E7%89%87%E4%BA%86%23" target="weibo">
 樊振东瘦成薄薄一片了（热度：2256630）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%AD%8C%E6%89%8B%E6%92%9E%E4%BA%BA%E8%87%B4%E6%AD%BB%E7%AC%AC2%E5%A4%A9%E4%BB%8D%E5%8F%82%E5%8A%A0%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
-台湾歌手撞人致死第2天仍参加演唱会（热度：2253709）
 </a>
 </li>
 
@@ -1377,6 +1377,12 @@ A股（热度：927066）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9A%E6%97%A5%E5%8E%BF%E5%9C%B0%E9%9C%87%E5%B7%B2%E6%9C%89%E4%BA%BA%E5%91%98%E9%81%87%E9%9A%BE%23" target="weibo">
+定日县地震已有人员遇难（热度：917335）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%B7%A8%E5%B9%B4%E7%94%9C%E8%BE%A3%E9%A3%8E%E8%88%9E%E5%8F%B0%23" target="weibo">
 虞书欣跨年甜辣风舞台（热度：915869）
 </a>
@@ -1677,6 +1683,12 @@ R1SE舞台（热度：868936）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%97%8F%E5%9C%B0%E9%9C%87%E6%88%BF%E5%B1%8B%E5%80%92%E5%A1%8C%E7%8E%B0%E5%9C%BA%23" target="weibo">
+西藏地震房屋倒塌现场（热度：783263）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E5%9C%A8%E5%88%98%E5%BE%B7%E5%8D%8E%E6%BC%94%E5%94%B1%E4%BC%9A%E8%B7%A8%E5%B9%B4%23" target="weibo">
 贾玲在刘德华演唱会跨年（热度：780894）
 </a>
@@ -1799,18 +1811,6 @@ GMM（热度：773720）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%8D%E5%A9%9A%E5%85%83%E5%B9%B4%23" target="weibo">
 复婚元年（热度：739954）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E5%A9%9A%E5%90%8E%E9%A6%96%E6%AC%A1%E5%90%8C%E5%8F%B0%23" target="weibo">
-黄子韬徐艺洋婚后首次同台（热度：738710）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E8%B0%A2%E5%A8%9C%E7%BB%99%E6%88%91%E5%94%B1%E5%93%AD%E4%BA%86%23" target="weibo">
-何炅谢娜给我唱哭了（热度：736629）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1736180901032,
-  "endTime": 1736220533437,
+  "endTime": 1736221398024,
   "band_list": [
     {
       "raw_hot": 2582877,
@@ -11,8 +11,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2253709,
-      "num": 2253709,
+      "raw_hot": 2362209,
+      "num": 2362209,
       "word": "台湾歌手撞人致死第2天仍参加演唱会",
       "onboard_time": 1736217561,
       "rank": 12,
@@ -75,8 +75,24 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 917335,
+      "num": 917335,
+      "word": "定日县地震已有人员遇难",
+      "onboard_time": 1736218641,
+      "rank": 4,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 783263,
+      "num": 783263,
+      "word": "西藏地震房屋倒塌现场",
+      "onboard_time": 1736218940,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 769821,
-      "num": 614384,
+      "num": 651851,
       "word": "虞书欣北京春晚表演在干嘛呀",
       "onboard_time": 1736216780,
       "rank": 3,
@@ -91,20 +107,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 643990,
-      "num": 643990,
+      "raw_hot": 699255,
+      "num": 699255,
       "word": "把19岁女乘客扔高速顺风车司机错在哪",
       "onboard_time": 1736216900,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 634878,
-      "num": 634878,
-      "word": "定日县地震已有人员遇难",
-      "onboard_time": 1736218641,
-      "rank": 4,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 622609,
@@ -139,20 +147,20 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 532557,
-      "num": 532557,
-      "word": "西藏地震房屋倒塌现场",
-      "onboard_time": 1736218940,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 512646,
       "num": 505414,
       "word": "泰国影视圈人士发声",
       "onboard_time": 1736211442,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 512575,
+      "num": 361511,
+      "word": "上海全款150万32平米的家",
+      "onboard_time": 1736220081,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 483150,
@@ -187,6 +195,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 448843,
+      "num": 448843,
+      "word": "四川拟取消应届生身份限制",
+      "onboard_time": 1736215879,
+      "rank": 33,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 442370,
+      "num": 442370,
+      "word": "RTX5090",
+      "onboard_time": 1736220081,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 439972,
       "num": 483272,
       "word": "一次收几十元微信红包最后贪了47万",
@@ -219,8 +243,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 350685,
-      "num": 350685,
+      "raw_hot": 359160,
+      "num": 359160,
       "word": "要建设全国就业公共服务平台",
       "onboard_time": 1736218342,
       "rank": 26,
@@ -251,14 +275,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 331771,
-      "num": 331771,
-      "word": "四川拟取消应届生身份限制",
-      "onboard_time": 1736215879,
-      "rank": 33,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 328036,
       "num": 328036,
       "word": "美国会确认特朗普当选总统",
@@ -276,7 +292,7 @@
     },
     {
       "raw_hot": 317888,
-      "num": 323519,
+      "num": 370014,
       "word": "金智秀韩剧新乌托邦",
       "onboard_time": 1736215039,
       "rank": 39,
@@ -315,12 +331,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278305,
+      "num": 307913,
+      "word": "微博之夜目前阵容",
+      "onboard_time": 1736217440,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 274979,
       "num": 274979,
       "word": "夏以昼回来了",
       "onboard_time": 1736217981,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 274317,
+      "num": 274317,
+      "word": "英伟达RTX50",
+      "onboard_time": 1736220441,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 270799,
+      "num": 270799,
+      "word": "各地不得设户籍等障碍影响人才流动",
+      "onboard_time": 1736219961,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 270132,
+      "num": 270132,
+      "word": "苏州寒山寺的腊八粥嘟嘟嘟了",
+      "onboard_time": 1736218940,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 267305,
@@ -331,20 +379,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 256327,
-      "num": 307913,
-      "word": "微博之夜目前阵容",
-      "onboard_time": 1736217440,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 253764,
-      "num": 216253,
-      "word": "上海全款150万32平米的家",
-      "onboard_time": 1736220081,
-      "rank": 31,
-      "category": "情感"
+      "raw_hot": 259084,
+      "num": 259084,
+      "word": "中国船员疑抵泰国后失联被绑至缅甸",
+      "onboard_time": 1736216061,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 250793,
@@ -371,28 +411,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 236765,
-      "num": 236765,
-      "word": "中国船员疑抵泰国后失联被绑至缅甸",
-      "onboard_time": 1736216061,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 236146,
-      "num": 236146,
-      "word": "苏州寒山寺的腊八粥嘟嘟嘟了",
-      "onboard_time": 1736218940,
-      "rank": 27,
-      "category": "美食"
-    },
-    {
       "raw_hot": 234927,
       "num": 236650,
       "word": "韩国人最喜欢的中剧排行",
       "onboard_time": 1736205558,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 234594,
+      "num": 234594,
+      "word": "杨毅谈樊振东陈梦退世排",
+      "onboard_time": 1736220081,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 234579,
@@ -403,20 +435,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228837,
+      "num": 857723,
+      "word": "西藏日喀则地震已有9人遇难",
+      "onboard_time": 1736220502,
+      "rank": 29,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 226525,
       "num": 188394,
       "word": "微博之夜嘉宾阵容线索卡",
       "onboard_time": 1736179401,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 224481,
-      "num": 224481,
-      "word": "各地不得设户籍等障碍影响人才流动",
-      "onboard_time": 1736219961,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 223498,
@@ -435,12 +467,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 215414,
-      "num": 215414,
-      "word": "杨毅谈樊振东陈梦退世排",
-      "onboard_time": 1736220081,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 218163,
+      "num": 218163,
+      "word": "西藏日喀则6.8级地震救援情况",
+      "onboard_time": 1736220861,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 214208,
@@ -457,6 +489,14 @@
       "onboard_time": 1736179102,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209582,
+      "num": 236823,
+      "word": "哪吒2东海龙王超帅",
+      "onboard_time": 1736220861,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 209100,
@@ -507,12 +547,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189765,
+      "raw_hot": 201499,
+      "num": 201499,
+      "word": "42岁抗癌网红雨虹去世",
+      "onboard_time": 1736220622,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195685,
       "num": 308588,
       "word": "陈丽君入选中国妇女报社年度女性新闻人物",
       "onboard_time": 1736218641,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193728,
+      "num": 193728,
+      "word": "腊八吃什么",
+      "onboard_time": 1736216299,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 188404,
@@ -521,14 +577,6 @@
       "onboard_time": 1736168063,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 183808,
-      "num": 183808,
-      "word": "腊八吃什么",
-      "onboard_time": 1736216299,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 181979,
@@ -545,14 +593,6 @@
       "onboard_time": 1736218460,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 176744,
-      "num": 176744,
-      "word": "RTX5090",
-      "onboard_time": 1736220081,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 176661,
@@ -601,6 +641,14 @@
       "onboard_time": 1736172683,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163614,
+      "num": 163614,
+      "word": "刘浩存白衬衫好A",
+      "onboard_time": 1736220921,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 161347,
@@ -667,12 +715,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 144699,
-      "num": 144699,
-      "word": "英伟达RTX50",
-      "onboard_time": 1736220441,
+      "raw_hot": 145850,
+      "num": 145850,
+      "word": "2025开年首对豹豹猫猫",
+      "onboard_time": 1736221222,
       "rank": 43,
-      "category": "财经"
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 144137,
+      "num": 144137,
+      "word": "黑执事 少爷长大了",
+      "onboard_time": 1736220323,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 144079,
@@ -691,14 +747,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 143758,
-      "num": 220347,
-      "word": "西藏日喀则地震已有9人遇难",
-      "onboard_time": 1736220502,
-      "rank": 29,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 139145,
       "num": 188372,
       "word": "虞书欣星光大赏当天全平台断层登顶",
@@ -707,12 +755,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 138134,
-      "num": 138134,
-      "word": "黑执事 少爷长大了",
-      "onboard_time": 1736220323,
+      "raw_hot": 138931,
+      "num": 138931,
+      "word": "国色芳华开播直播",
+      "onboard_time": 1736221163,
       "rank": 46,
-      "category": "动漫"
+      "category": "剧集"
     },
     {
       "raw_hot": 137140,
@@ -721,6 +769,14 @@
       "onboard_time": 1736219781,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 135720,
+      "num": 134440,
+      "word": "白鹿 平等爱我遇到的每个角色",
+      "onboard_time": 1736221281,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 134069,
@@ -764,7 +820,7 @@
     },
     {
       "raw_hot": 126405,
-      "num": 965230,
+      "num": 1106171,
       "word": "我国在青藏高原取得找矿重大突破",
       "onboard_time": 1736167224,
       "rank": 2,
@@ -873,6 +929,14 @@
       "onboard_time": 1736210240,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 104744,
+      "num": 234714,
+      "word": "俄军控制乌最大锂矿床",
+      "onboard_time": 1736220021,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 104404,
@@ -1075,14 +1139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68361,
-      "num": 222633,
-      "word": "俄军控制乌最大锂矿床",
-      "onboard_time": 1736220021,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 67811,
       "num": 67811,
       "word": "陈哲远给白鹿白月梵星包场",
@@ -1097,6 +1153,22 @@
       "onboard_time": 1736178502,
       "rank": 47,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 66682,
+      "num": 431513,
+      "word": "西藏6.8级地震成都昆明收到预警",
+      "onboard_time": 1736220921,
+      "rank": 14,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 65258,
+      "num": 436672,
+      "word": "杨妞花说直播带货努力赚钱没有错",
+      "onboard_time": 1736219722,
+      "rank": 14,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 64985,
@@ -1187,12 +1259,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 36365,
-      "num": 338949,
-      "word": "杨妞花说直播带货努力赚钱没有错",
-      "onboard_time": 1736219722,
-      "rank": 14,
-      "category": "艺人,民生新闻"
+      "raw_hot": 38865,
+      "num": 365987,
+      "word": "为领3毛红包上课却买上千保健品",
+      "onboard_time": 1736220200,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35171,
@@ -1275,14 +1347,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 22201,
-      "num": 240066,
-      "word": "为领3毛红包上课却买上千保健品",
-      "onboard_time": 1736220200,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20578,
       "num": 24441,
       "word": "虞书欣星光大赏全平台登顶",
@@ -1305,6 +1369,14 @@
       "onboard_time": 1736178202,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 17960,
+      "num": 270897,
+      "word": "孙颖莎说还没回看奥运女单决赛视频",
+      "onboard_time": 1736220801,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 15533,
