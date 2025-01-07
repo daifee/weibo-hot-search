@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736248740006,
+  "endTime": 1736249743256,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -641,6 +641,14 @@
       "onboard_time": 1735957578,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1890063,
+      "num": 1890063,
+      "word": "98年民警抓患艾滋嫌犯受伤流血",
+      "onboard_time": 1736246782,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1887519,
@@ -1523,14 +1531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1113668,
-      "num": 1113668,
-      "word": "98年民警抓患艾滋嫌犯受伤流血",
-      "onboard_time": 1736246782,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1110752,
       "num": 376917,
       "word": "曝虞书欣将离开华策",
@@ -1544,6 +1544,14 @@
       "word": "2024年顶流格局",
       "onboard_time": 1735907359,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1107994,
+      "num": 452544,
+      "word": "泰国移民局已接到王星",
+      "onboard_time": 1736246362,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -1640,14 +1648,6 @@
       "word": "赵露思 救救我",
       "onboard_time": 1735633520,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1014036,
-      "num": 452544,
-      "word": "泰国移民局已接到王星",
-      "onboard_time": 1736246362,
-      "rank": 48,
       "category": "艺人"
     },
     {
@@ -2601,6 +2601,14 @@
       "onboard_time": 1735665381,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 737438,
+      "num": 440515,
+      "word": "星星腿上的是胎记",
+      "onboard_time": 1736248763,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 736629,
@@ -4251,6 +4259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 482233,
+      "num": 434359,
+      "word": "曝五条人买衣服表演后退货",
+      "onboard_time": 1736247683,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 481989,
       "num": 481989,
       "word": "国色芳华白月梵星 对打",
@@ -4265,6 +4281,14 @@
       "onboard_time": 1736241323,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 479036,
+      "num": 479036,
+      "word": "国色芳华云包场",
+      "onboard_time": 1736245882,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 478460,
@@ -4369,14 +4393,6 @@
       "onboard_time": 1736237183,
       "rank": 9,
       "category": "艺人,国内时政"
-    },
-    {
-      "raw_hot": 470368,
-      "num": 470368,
-      "word": "国色芳华云包场",
-      "onboard_time": 1736245882,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 470181,
@@ -4537,6 +4553,14 @@
       "onboard_time": 1736007934,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 451808,
+      "num": 451808,
+      "word": "苹果客服建议所有用户更新系统",
+      "onboard_time": 1736243542,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 451346,
@@ -4891,14 +4915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 420220,
-      "num": 420220,
-      "word": "苹果客服建议所有用户更新系统",
-      "onboard_time": 1736243542,
-      "rank": 31,
-      "category": "数码"
-    },
-    {
       "raw_hot": 420165,
       "num": 420165,
       "word": "微博之夜第二波阵容",
@@ -5033,14 +5049,6 @@
       "onboard_time": 1736092584,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 410962,
-      "num": 410962,
-      "word": "曝五条人买衣服表演后退货",
-      "onboard_time": 1736247683,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 409984,
@@ -5315,6 +5323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 392745,
+      "num": 381708,
+      "word": "直击西藏救援现场",
+      "onboard_time": 1736242342,
+      "rank": 39,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 392656,
       "num": 428822,
       "word": "Kpop艺人TikTok年涨幅",
@@ -5457,14 +5473,6 @@
       "onboard_time": 1735673714,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 381708,
-      "num": 381708,
-      "word": "直击西藏救援现场",
-      "onboard_time": 1736242342,
-      "rank": 39,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 380410,
@@ -10219,6 +10227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202546,
+      "num": 412391,
+      "word": "时代少年团多次婉拒搞抽象炸团",
+      "onboard_time": 1736246964,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 202504,
       "num": 202504,
       "word": "专家称上四休三全面铺开不现实",
@@ -11241,14 +11257,6 @@
       "onboard_time": 1735828402,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 189405,
-      "num": 412391,
-      "word": "时代少年团多次婉拒搞抽象炸团",
-      "onboard_time": 1736246964,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 189311,
@@ -13363,6 +13371,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 161040,
+      "num": 161040,
+      "word": "承欢记上星",
+      "onboard_time": 1736248283,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161009,
       "num": 161009,
       "word": "汪苏泷小段",
@@ -13441,6 +13457,14 @@
       "onboard_time": 1735881021,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 159691,
+      "num": 159691,
+      "word": "王一博盼西藏平安",
+      "onboard_time": 1736249363,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 159627,
@@ -13625,6 +13649,14 @@
       "onboard_time": 1736162003,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 157378,
+      "num": 450644,
+      "word": "花70万上港大刚上了1年被清退",
+      "onboard_time": 1736248943,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157372,
@@ -14395,6 +14427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147767,
+      "num": 147767,
+      "word": "国色芳华开播",
+      "onboard_time": 1736249662,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147759,
       "num": 147759,
       "word": "李昀锐说未来有可能出专辑",
@@ -14779,20 +14819,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142475,
-      "num": 142475,
-      "word": "承欢记上星",
-      "onboard_time": 1736248283,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142249,
       "num": 215072,
       "word": "杭州四季青年底清仓羽绒服破发",
       "onboard_time": 1736174064,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142197,
+      "num": 142197,
+      "word": "官方通报上午9点办事大厅空岗",
+      "onboard_time": 1736249242,
+      "rank": 45,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 142184,
@@ -14951,6 +14991,14 @@
       "num": 207261,
       "word": "马龙将第五次代表北京参赛",
       "onboard_time": 1736131521,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 140812,
+      "num": 258641,
+      "word": "孙颖莎说这不会是她最后一届奥运",
+      "onboard_time": 1736248883,
       "rank": 24,
       "category": "体育"
     },
@@ -16361,6 +16409,14 @@
       "onboard_time": 1736161643,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 123914,
+      "num": 123914,
+      "word": "刘强东老家通知村民开车拉年货",
+      "onboard_time": 1736248822,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123648,
@@ -17961,6 +18017,14 @@
       "onboard_time": 1736213000,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 99239,
+      "num": 217996,
+      "word": "十个勤天中气十足",
+      "onboard_time": 1736249544,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 99217,
@@ -20291,6 +20355,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 48440,
+      "num": 260748,
+      "word": "黄磊夫妇捐赠驰援西藏",
+      "onboard_time": 1736248763,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 48000,
       "num": 48000,
       "word": "2025好运连连",
@@ -21041,6 +21113,14 @@
       "onboard_time": 1735730903,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 36269,
+      "num": 314977,
+      "word": "私营医院被指用体检卡抵工资",
+      "onboard_time": 1736249604,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36256,
@@ -22827,6 +22907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13109,
+      "num": 391653,
+      "word": "谭卓说我于行业总像个局外人",
+      "onboard_time": 1736247862,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 13095,
       "num": 15687,
       "word": "陶喆唱的满头大汗",
@@ -23025,14 +23113,6 @@
       "onboard_time": 1735724119,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 10359,
-      "num": 391653,
-      "word": "谭卓说我于行业总像个局外人",
-      "onboard_time": 1736247862,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 10348,

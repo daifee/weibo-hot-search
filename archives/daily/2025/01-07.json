@@ -1,6 +1,6 @@
 {
   "startTime": 1736180901032,
-  "endTime": 1736248740006,
+  "endTime": 1736249743256,
   "band_list": [
     {
       "raw_hot": 11656509,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1890063,
+      "num": 1890063,
+      "word": "98年民警抓患艾滋嫌犯受伤流血",
+      "onboard_time": 1736246782,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1807004,
       "num": 962240,
       "word": "演员王星女友更新最新情况",
@@ -195,12 +203,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1113668,
-      "num": 1113668,
-      "word": "98年民警抓患艾滋嫌犯受伤流血",
-      "onboard_time": 1736246782,
-      "rank": 3,
-      "category": "民生新闻"
+      "raw_hot": 1107994,
+      "num": 452544,
+      "word": "泰国移民局已接到王星",
+      "onboard_time": 1736246362,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 1082011,
@@ -209,14 +217,6 @@
       "onboard_time": 1736228662,
       "rank": 4,
       "category": "互联网,民生新闻"
-    },
-    {
-      "raw_hot": 1014036,
-      "num": 452544,
-      "word": "泰国移民局已接到王星",
-      "onboard_time": 1736246362,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 1002962,
@@ -296,6 +296,14 @@
       "word": "黄子韬炮轰演员星星失联事件招聘组",
       "onboard_time": 1736206037,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 737438,
+      "num": 440515,
+      "word": "星星腿上的是胎记",
+      "onboard_time": 1736248763,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -499,12 +507,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 482233,
+      "num": 434359,
+      "word": "曝五条人买衣服表演后退货",
+      "onboard_time": 1736247683,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 479091,
       "num": 360911,
       "word": "女子入住月子中心4天老板跑了",
       "onboard_time": 1736241323,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 479036,
+      "num": 479036,
+      "word": "国色芳华云包场",
+      "onboard_time": 1736245882,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 475654,
@@ -523,14 +547,6 @@
       "category": "艺人,国内时政"
     },
     {
-      "raw_hot": 470368,
-      "num": 470368,
-      "word": "国色芳华云包场",
-      "onboard_time": 1736245882,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 465276,
       "num": 465276,
       "word": "赞达亚荷兰弟订婚",
@@ -545,6 +561,14 @@
       "onboard_time": 1736236643,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 451808,
+      "num": 451808,
+      "word": "苹果客服建议所有用户更新系统",
+      "onboard_time": 1736243542,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 451346,
@@ -603,14 +627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 420220,
-      "num": 420220,
-      "word": "苹果客服建议所有用户更新系统",
-      "onboard_time": 1736243542,
-      "rank": 31,
-      "category": "数码"
-    },
-    {
       "raw_hot": 419631,
       "num": 419631,
       "word": "西藏日喀则6.8级地震救援情况",
@@ -640,14 +656,6 @@
       "word": "泰国方与妙瓦底方核实星星行踪",
       "onboard_time": 1736229023,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 410962,
-      "num": 410962,
-      "word": "曝五条人买衣服表演后退货",
-      "onboard_time": 1736247683,
-      "rank": 18,
       "category": "艺人"
     },
     {
@@ -683,20 +691,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 392745,
+      "num": 381708,
+      "word": "直击西藏救援现场",
+      "onboard_time": 1736242342,
+      "rank": 39,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 386071,
       "num": 386071,
       "word": "过了腊八就是年",
       "onboard_time": 1736203514,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 381708,
-      "num": 381708,
-      "word": "直击西藏救援现场",
-      "onboard_time": 1736242342,
-      "rank": 39,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 375943,
@@ -1403,6 +1411,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 202546,
+      "num": 412391,
+      "word": "时代少年团多次婉拒搞抽象炸团",
+      "onboard_time": 1736246964,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 201853,
       "num": 201853,
       "word": "杨紫剧粉",
@@ -1464,14 +1480,6 @@
       "word": "微博之夜集卡",
       "onboard_time": 1736225127,
       "rank": 19,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 189405,
-      "num": 412391,
-      "word": "时代少年团多次婉拒搞抽象炸团",
-      "onboard_time": 1736246964,
-      "rank": 17,
       "category": "作品衍生"
     },
     {
@@ -1755,6 +1763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161040,
+      "num": 161040,
+      "word": "承欢记上星",
+      "onboard_time": 1736248283,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160840,
       "num": 160840,
       "word": "香格里拉地震",
@@ -1779,6 +1795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159691,
+      "num": 159691,
+      "word": "王一博盼西藏平安",
+      "onboard_time": 1736249363,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159482,
       "num": 159482,
       "word": "李雪琴 我的孩子只要快乐就行",
@@ -1801,6 +1825,14 @@
       "onboard_time": 1736208079,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 157378,
+      "num": 450644,
+      "word": "花70万上港大刚上了1年被清退",
+      "onboard_time": 1736248943,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156267,
@@ -1875,6 +1907,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 147767,
+      "num": 147767,
+      "word": "国色芳华开播",
+      "onboard_time": 1736249662,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147759,
       "num": 147759,
       "word": "李昀锐说未来有可能出专辑",
@@ -1915,12 +1955,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 142475,
-      "num": 142475,
-      "word": "承欢记上星",
-      "onboard_time": 1736248283,
-      "rank": 48,
-      "category": "剧集"
+      "raw_hot": 142197,
+      "num": 142197,
+      "word": "官方通报上午9点办事大厅空岗",
+      "onboard_time": 1736249242,
+      "rank": 45,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 140864,
@@ -1929,6 +1969,14 @@
       "onboard_time": 1736236464,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140812,
+      "num": 258641,
+      "word": "孙颖莎说这不会是她最后一届奥运",
+      "onboard_time": 1736248883,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 140608,
@@ -2097,6 +2145,14 @@
       "onboard_time": 1736238743,
       "rank": 4,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 123914,
+      "num": 123914,
+      "word": "刘强东老家通知村民开车拉年货",
+      "onboard_time": 1736248822,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120571,
@@ -2273,6 +2329,14 @@
       "onboard_time": 1736213000,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 99239,
+      "num": 217996,
+      "word": "十个勤天中气十足",
+      "onboard_time": 1736249544,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 98396,
@@ -2683,6 +2747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48440,
+      "num": 260748,
+      "word": "黄磊夫妇捐赠驰援西藏",
+      "onboard_time": 1736248763,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47519,
       "num": 47519,
       "word": "向大熊猫兰香扔可乐男子被行政处罚",
@@ -2777,6 +2849,14 @@
       "onboard_time": 1736224224,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 36269,
+      "num": 314977,
+      "word": "私营医院被指用体检卡抵工资",
+      "onboard_time": 1736249604,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35670,
@@ -2995,6 +3075,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 13109,
+      "num": 391653,
+      "word": "谭卓说我于行业总像个局外人",
+      "onboard_time": 1736247862,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 11895,
       "num": 14482,
       "word": "工程院院士王正国逝世",
@@ -3009,14 +3097,6 @@
       "onboard_time": 1736190791,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 10359,
-      "num": 391653,
-      "word": "谭卓说我于行业总像个局外人",
-      "onboard_time": 1736247862,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 8939,

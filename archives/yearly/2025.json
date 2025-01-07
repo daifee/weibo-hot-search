@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736248740006,
+  "endTime": 1736249743256,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -641,6 +641,14 @@
       "onboard_time": 1735957578,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1890063,
+      "num": 1890063,
+      "word": "98年民警抓患艾滋嫌犯受伤流血",
+      "onboard_time": 1736246782,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1887519,
@@ -1523,14 +1531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1113668,
-      "num": 1113668,
-      "word": "98年民警抓患艾滋嫌犯受伤流血",
-      "onboard_time": 1736246782,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1110752,
       "num": 376917,
       "word": "曝虞书欣将离开华策",
@@ -1544,6 +1544,14 @@
       "word": "2024年顶流格局",
       "onboard_time": 1735907359,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1107994,
+      "num": 452544,
+      "word": "泰国移民局已接到王星",
+      "onboard_time": 1736246362,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -1640,14 +1648,6 @@
       "word": "赵露思 救救我",
       "onboard_time": 1735633520,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1014036,
-      "num": 452544,
-      "word": "泰国移民局已接到王星",
-      "onboard_time": 1736246362,
-      "rank": 48,
       "category": "艺人"
     },
     {
