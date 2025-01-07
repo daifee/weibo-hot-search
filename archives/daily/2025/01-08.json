@@ -1,6 +1,6 @@
 {
   "startTime": 1736266474874,
-  "endTime": 1736270391520,
+  "endTime": 1736271485287,
   "band_list": [
     {
       "raw_hot": 3073531,
@@ -155,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216366,
+      "num": 149024,
+      "word": "演员从2米多高跷摔下众人飞奔护头",
+      "onboard_time": 1736265982,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215657,
       "num": 325869,
       "word": "林允儿李惠利合照",
@@ -203,14 +211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156866,
-      "num": 149024,
-      "word": "演员从2米多高跷摔下众人飞奔护头",
-      "onboard_time": 1736265982,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 154709,
       "num": 325166,
       "word": "国色芳华实时热度",
@@ -257,6 +257,14 @@
       "onboard_time": 1736262623,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139694,
+      "num": 133735,
+      "word": "白敬亭捐款100万驰援西藏",
+      "onboard_time": 1736271314,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 139068,
@@ -491,20 +499,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26895,
+      "num": 151615,
+      "word": "要尽最大努力保障人民群众生命财产安全",
+      "onboard_time": 1736270115,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 23264,
       "num": 325683,
       "word": "多哈球星挑战赛国乒赛程",
       "onboard_time": 1736261663,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 17036,
-      "num": 151615,
-      "word": "要尽最大努力保障人民群众生命财产安全",
-      "onboard_time": 1736270115,
-      "rank": 9,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 16491,
@@ -523,10 +531,34 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 12580,
+      "num": 133583,
+      "word": "查询上千万条大数据揪出贪官",
+      "onboard_time": 1736271314,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12206,
+      "num": 133621,
+      "word": "19岁男生去世给4人留下生命礼物",
+      "onboard_time": 1736271434,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 11344,
       "num": 145020,
       "word": "弟弟称王星今日将被送回泰国",
       "onboard_time": 1736265023,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 6750,
+      "num": 133678,
+      "word": "张大大捐款驰援西藏",
+      "onboard_time": 1736270954,
       "rank": 19,
       "category": "艺人"
     }
