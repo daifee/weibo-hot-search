@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736215214851,
+  "endTime": 1736218478745,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1107,6 +1107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1277866,
+      "num": 904245,
+      "word": "李心艾刘子瑞结婚",
+      "onboard_time": 1736214322,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1274107,
       "num": 1020426,
       "word": "15岁女孩以买方身份入院产子卖6万8",
@@ -1507,6 +1515,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1002962,
+      "num": 212441,
+      "word": "哈里斯宣布特朗普当选后掏出纸巾",
+      "onboard_time": 1736214921,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1002171,
       "num": 1002171,
       "word": "李明德涨粉",
@@ -1819,14 +1835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 904245,
-      "num": 904245,
-      "word": "李心艾刘子瑞结婚",
-      "onboard_time": 1736214322,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 898753,
       "num": 898753,
       "word": "王俊凯玩无畏契约",
@@ -1881,6 +1889,14 @@
       "onboard_time": 1735660407,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 879180,
+      "num": 1140668,
+      "word": "没有发现王星正式出境泰国记录",
+      "onboard_time": 1736217379,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 874291,
@@ -2073,6 +2089,14 @@
       "onboard_time": 1735712359,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 813602,
+      "num": 309864,
+      "word": "台湾歌手撞人致死第2天仍参加演唱会",
+      "onboard_time": 1736217561,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 809997,
@@ -2377,30 +2401,6 @@
       "onboard_time": 1736058268,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 733892,
-      "num": 471681,
-      "word": "迪丽热巴突然出现拍了拍大家",
-      "onboard_time": 1735898301,
-      "rank": 7,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 733511,
-      "num": 500671,
-      "word": "七颗猩猩回应背刺打工人",
-      "onboard_time": 1735912399,
-      "rank": 6,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 730566,
-      "num": 730566,
-      "word": "广州队宣布解散",
-      "onboard_time": 1736169564,
-      "rank": 16,
-      "category": "体育"
     }
   ],
   "hotgov_list": [

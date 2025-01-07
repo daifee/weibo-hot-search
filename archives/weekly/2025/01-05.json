@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736215214851,
+  "endTime": 1736218478745,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -451,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1277866,
+      "num": 904245,
+      "word": "李心艾刘子瑞结婚",
+      "onboard_time": 1736214322,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1241779,
       "num": 1241779,
       "word": "伊能静曾故意灌醉恩利",
@@ -531,6 +539,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1002962,
+      "num": 212441,
+      "word": "哈里斯宣布特朗普当选后掏出纸巾",
+      "onboard_time": 1736214921,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1002171,
       "num": 1002171,
       "word": "李明德涨粉",
@@ -603,14 +619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 904245,
-      "num": 904245,
-      "word": "李心艾刘子瑞结婚",
-      "onboard_time": 1736214322,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 898753,
       "num": 898753,
       "word": "王俊凯玩无畏契约",
@@ -633,6 +641,14 @@
       "onboard_time": 1736035462,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 879180,
+      "num": 1140668,
+      "word": "没有发现王星正式出境泰国记录",
+      "onboard_time": 1736217379,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 874291,
@@ -689,6 +705,14 @@
       "onboard_time": 1736088148,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 813602,
+      "num": 309864,
+      "word": "台湾歌手撞人致死第2天仍参加演唱会",
+      "onboard_time": 1736217561,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 801179,
@@ -979,6 +1003,14 @@
       "category": "国际时政,互联网"
     },
     {
+      "raw_hot": 618828,
+      "num": 350919,
+      "word": "虞书欣北京春晚表演在干嘛呀",
+      "onboard_time": 1736216780,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 614210,
       "num": 540433,
       "word": "张碧晨夹在虞书欣丁禹兮中间",
@@ -1115,6 +1147,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 547221,
+      "num": 547221,
+      "word": "多方回应入住酒店孩子高烧取外卖难",
+      "onboard_time": 1736207059,
+      "rank": 6,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 542739,
       "num": 238202,
       "word": "古剑奇谭含塌量还在上升",
@@ -1179,20 +1219,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 512646,
+      "num": 505414,
+      "word": "泰国影视圈人士发声",
+      "onboard_time": 1736211442,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 509970,
       "num": 554120,
       "word": "外交部新任发言人郭嘉昆亮相",
       "onboard_time": 1736149906,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 505414,
-      "num": 505414,
-      "word": "泰国影视圈人士发声",
-      "onboard_time": 1736211442,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 502472,
@@ -1289,14 +1329,6 @@
       "onboard_time": 1736166262,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 483908,
-      "num": 483908,
-      "word": "多方回应入住酒店孩子高烧取外卖难",
-      "onboard_time": 1736207059,
-      "rank": 6,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 483150,
@@ -1875,6 +1907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 341935,
+      "num": 341935,
+      "word": "哪吒2首支预告",
+      "onboard_time": 1736216900,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 341776,
       "num": 341776,
       "word": "猎罪图鉴3宣传词出来了",
@@ -1897,6 +1937,14 @@
       "onboard_time": 1736175683,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 332949,
+      "num": 332949,
+      "word": "夏以昼空降叠纸大楼",
+      "onboard_time": 1736216839,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 332600,
@@ -2035,12 +2083,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 310872,
+      "num": 310872,
+      "word": "把19岁女乘客扔高速顺风车司机错在哪",
+      "onboard_time": 1736216900,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 310198,
       "num": 664701,
       "word": "上海一餐厅爆火晚10点后满眼韩国人",
       "onboard_time": 1736060006,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 307726,
+      "num": 307726,
+      "word": "西藏地震周边5公里有7个村庄",
+      "onboard_time": 1736215879,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 306938,
@@ -2081,6 +2145,14 @@
       "onboard_time": 1736065347,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 298408,
+      "num": 308753,
+      "word": "金智秀韩剧新乌托邦",
+      "onboard_time": 1736215039,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 297010,
@@ -2153,6 +2225,14 @@
       "onboard_time": 1736144123,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 289475,
+      "num": 289475,
+      "word": "恋与深空",
+      "onboard_time": 1736216661,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 289469,
@@ -2475,6 +2555,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250793,
+      "num": 250793,
+      "word": "教资面试成绩",
+      "onboard_time": 1736213721,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 248356,
+      "num": 248356,
+      "word": "要建设全国就业公共服务平台",
+      "onboard_time": 1736218342,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 247674,
       "num": 646202,
       "word": "周杰伦迪拜演唱会上座率",
@@ -2612,7 +2708,7 @@
     },
     {
       "raw_hot": 234927,
-      "num": 234927,
+      "num": 236650,
       "word": "韩国人最喜欢的中剧排行",
       "onboard_time": 1736205558,
       "rank": 49,
@@ -2620,7 +2716,7 @@
     },
     {
       "raw_hot": 234579,
-      "num": 199562,
+      "num": 238541,
       "word": "成毅喂牛",
       "onboard_time": 1736213061,
       "rank": 25,
@@ -2747,6 +2843,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 223309,
+      "num": 223309,
+      "word": "12356热线后有一群人为你撑伞",
+      "onboard_time": 1736216661,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 222922,
+      "num": 222922,
+      "word": "汕头牛肉丸必须牛肉含量超9成",
+      "onboard_time": 1736213361,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 222561,
       "num": 305304,
       "word": "白敬亭官宣2024微博之夜",
@@ -2817,6 +2929,14 @@
       "onboard_time": 1736009312,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218564,
+      "num": 218564,
+      "word": "四川拟取消应届生身份限制",
+      "onboard_time": 1736215879,
+      "rank": 33,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 218527,
@@ -3171,6 +3291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202830,
+      "num": 202830,
+      "word": "夏以昼回来了",
+      "onboard_time": 1736217981,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202370,
       "num": 202370,
       "word": "火箭战胜湖人",
@@ -3289,6 +3417,14 @@
       "onboard_time": 1736060726,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196274,
+      "num": 307913,
+      "word": "微博之夜目前阵容",
+      "onboard_time": 1736217440,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 196179,
@@ -3547,6 +3683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173327,
+      "num": 173327,
+      "word": "中国船员疑抵泰国后失联被绑至缅甸",
+      "onboard_time": 1736216061,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172963,
       "num": 172963,
       "word": "管乐遗憾只见过魏哲鸣两三次",
@@ -3561,14 +3705,6 @@
       "onboard_time": 1736166683,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 172709,
-      "num": 172709,
-      "word": "教资面试成绩",
-      "onboard_time": 1736213721,
-      "rank": 31,
-      "category": "教育"
     },
     {
       "raw_hot": 172262,
@@ -3761,14 +3897,6 @@
       "onboard_time": 1736153667,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 164932,
-      "num": 164932,
-      "word": "汕头牛肉丸必须牛肉含量超9成",
-      "onboard_time": 1736213361,
-      "rank": 34,
-      "category": "美食"
     },
     {
       "raw_hot": 163691,
@@ -3977,6 +4105,14 @@
       "onboard_time": 1736169143,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156267,
+      "num": 156267,
+      "word": "哪吒2",
+      "onboard_time": 1736216720,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 155958,
@@ -4539,6 +4675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132517,
+      "num": 175186,
+      "word": "陈梦打卡了福州爱心树",
+      "onboard_time": 1736214201,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131088,
       "num": 637450,
       "word": "嘀嗒出行回应女生坐顺风车被甩高速",
@@ -4947,6 +5091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116452,
+      "num": 235576,
+      "word": "震中5公里内平均海拔约4259米",
+      "onboard_time": 1736218460,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116422,
       "num": 116422,
       "word": "官方通报女子吃包子称有甲醛索赔",
@@ -4969,6 +5121,14 @@
       "onboard_time": 1736169983,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115948,
+      "num": 115948,
+      "word": "教资笔试报名开始",
+      "onboard_time": 1736217922,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 115720,
@@ -5099,14 +5259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 112516,
-      "num": 112516,
-      "word": "陈梦打卡了福州爱心树",
-      "onboard_time": 1736214201,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 112514,
       "num": 112514,
       "word": "时光代理人",
@@ -5129,14 +5281,6 @@
       "onboard_time": 1736147362,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 111368,
-      "num": 111368,
-      "word": "金智秀韩剧新乌托邦",
-      "onboard_time": 1736215039,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 110983,
@@ -5185,14 +5329,6 @@
       "onboard_time": 1736035160,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108930,
-      "num": 108930,
-      "word": "哈里斯宣布特朗普当选后掏出纸巾",
-      "onboard_time": 1736214921,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 108145,
@@ -5560,6 +5696,14 @@
       "word": "穿羽绒服主持人再发声感谢孙颖莎",
       "onboard_time": 1736072906,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 95349,
+      "num": 251604,
+      "word": "孙颖莎继续世排第1",
+      "onboard_time": 1736216600,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -5945,6 +6089,14 @@
       "onboard_time": 1735996528,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 72928,
+      "num": 309202,
+      "word": "西藏地震去珠峰大本营网友称车狂摇",
+      "onboard_time": 1736218162,
+      "rank": 14,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 72576,
