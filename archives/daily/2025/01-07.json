@@ -1,6 +1,6 @@
 {
   "startTime": 1736180901032,
-  "endTime": 1736241864783,
+  "endTime": 1736242685305,
   "band_list": [
     {
       "raw_hot": 11656509,
@@ -121,6 +121,14 @@
       "onboard_time": 1736217379,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1349767,
+      "num": 1349767,
+      "word": "被骗到缅东小伙跳河逃生棉裤都没脱",
+      "onboard_time": 1736240722,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1339091,
@@ -339,14 +347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 580639,
-      "num": 580639,
-      "word": "被骗到缅东小伙跳河逃生棉裤都没脱",
-      "onboard_time": 1736240722,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 560619,
       "num": 690867,
       "word": "终于有仙侠剧不把凡人当NPC了",
@@ -563,8 +563,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 399259,
+      "num": 368924,
+      "word": "采访我的丁克舅舅现在过得怎么样",
+      "onboard_time": 1736237425,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 394628,
-      "num": 189353,
+      "num": 228002,
       "word": "泰国总理确认找到王星",
       "onboard_time": 1736239402,
       "rank": 30,
@@ -585,14 +593,6 @@
       "onboard_time": 1736203514,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 384763,
-      "num": 368924,
-      "word": "采访我的丁克舅舅现在过得怎么样",
-      "onboard_time": 1736237425,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 375943,
@@ -795,6 +795,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 273310,
+      "num": 375238,
+      "word": "北大教授谈演员王星失联事件",
+      "onboard_time": 1736240903,
+      "rank": 14,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 273036,
       "num": 273036,
       "word": "常华森好帅",
@@ -891,6 +899,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 250383,
+      "num": 367892,
+      "word": "国色芳华 恶婆婆上新了",
+      "onboard_time": 1736239883,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249102,
       "num": 249102,
       "word": "GMM声明",
@@ -945,14 +961,6 @@
       "onboard_time": 1736174965,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 237024,
-      "num": 367892,
-      "word": "国色芳华 恶婆婆上新了",
-      "onboard_time": 1736239883,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 235427,
@@ -1083,6 +1091,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 213826,
+      "num": 213826,
+      "word": "女子入住月子中心4天老板跑了",
+      "onboard_time": 1736241323,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212558,
       "num": 212558,
       "word": "李现给自己嗑返祖了",
@@ -1105,6 +1121,14 @@
       "onboard_time": 1736240663,
       "rank": 13,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 209423,
+      "num": 209423,
+      "word": "男子整本彩票匀出2张对方中了40万",
+      "onboard_time": 1736242342,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 209100,
@@ -1188,7 +1212,7 @@
     },
     {
       "raw_hot": 203462,
-      "num": 203462,
+      "num": 255750,
       "word": "逆水寒",
       "onboard_time": 1736238025,
       "rank": 33,
@@ -1209,6 +1233,14 @@
       "onboard_time": 1736240124,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201598,
+      "num": 271888,
+      "word": "微博之夜第六波阵容",
+      "onboard_time": 1736242403,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 197897,
@@ -1323,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180411,
+      "num": 162729,
+      "word": "直击西藏救援现场",
+      "onboard_time": 1736242342,
+      "rank": 39,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 180307,
       "num": 180307,
       "word": "国色芳华",
@@ -1337,6 +1377,14 @@
       "onboard_time": 1736228482,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177569,
+      "num": 301131,
+      "word": "西藏定日县地震这些问题一起关注",
+      "onboard_time": 1736242342,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 176767,
@@ -1369,6 +1417,14 @@
       "onboard_time": 1736221281,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173259,
+      "num": 161450,
+      "word": "加油日喀则",
+      "onboard_time": 1736242342,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173203,
@@ -1417,6 +1473,14 @@
       "onboard_time": 1736239344,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169535,
+      "num": 203725,
+      "word": "敖瑞鹏 主人级别",
+      "onboard_time": 1736241383,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 168971,
@@ -1507,14 +1571,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 158340,
-      "num": 375238,
-      "word": "北大教授谈演员王星失联事件",
-      "onboard_time": 1736240903,
-      "rank": 14,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 157896,
       "num": 157896,
       "word": "中国地震局开展定日县地震应急处置工作",
@@ -1563,14 +1619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 155238,
-      "num": 155238,
-      "word": "敖瑞鹏 主人级别",
-      "onboard_time": 1736241383,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 153742,
       "num": 153742,
       "word": "云包场",
@@ -1595,20 +1643,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149537,
+      "num": 149537,
+      "word": "祁煜 跑酷练习",
+      "onboard_time": 1736242342,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148391,
       "num": 188399,
       "word": "为什么感染甲流这么疼啊",
       "onboard_time": 1736167343,
       "rank": 18,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 147225,
-      "num": 147225,
-      "word": "女子入住月子中心4天老板跑了",
-      "onboard_time": 1736241323,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 145850,
@@ -1835,6 +1883,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 115263,
+      "num": 1008568,
+      "word": "三部门紧急调拨2.2万件中央救灾物资",
+      "onboard_time": 1736240544,
+      "rank": 2,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 107849,
       "num": 109449,
       "word": "文化中国行腊八节",
@@ -1953,14 +2009,6 @@
       "onboard_time": 1736174244,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 97431,
-      "num": 589995,
-      "word": "三部门紧急调拨2.2万件中央救灾物资",
-      "onboard_time": 1736240544,
-      "rank": 2,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 97306,
@@ -2291,6 +2339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51473,
+      "num": 261074,
+      "word": "湖南卫视开飞机喊你看国色芳华",
+      "onboard_time": 1736242403,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 50489,
       "num": 429119,
       "word": "哈尔滨亚冬会开闭幕式主创团队发布",
@@ -2403,6 +2459,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34901,
+      "num": 264523,
+      "word": "4名中国演员侥幸逃脱泰国试戏骗局",
+      "onboard_time": 1736242523,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 30568,
+      "num": 614372,
+      "word": "泰方称已找到失联的中国演员",
+      "onboard_time": 1736242403,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30361,
       "num": 312625,
       "word": "二次元一定要在2025活着",
@@ -2440,6 +2512,14 @@
       "word": "民警被查前车托在门口排队送钱",
       "onboard_time": 1736174845,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27030,
+      "num": 366422,
+      "word": "不同手机型号地震预警设置方法",
+      "onboard_time": 1736241743,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2625,14 +2705,6 @@
       "onboard_time": 1736235023,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 6635,
-      "num": 366422,
-      "word": "不同手机型号地震预警设置方法",
-      "onboard_time": 1736241743,
-      "rank": 19,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

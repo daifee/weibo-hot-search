@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736241864783,
+  "endTime": 1736242685305,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1097,6 +1097,14 @@
       "onboard_time": 1735811780,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1349767,
+      "num": 1349767,
+      "word": "被骗到缅东小伙跳河逃生棉裤都没脱",
+      "onboard_time": 1736240722,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1339239,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735657707,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 778578,
-      "num": 685791,
-      "word": "男星赴泰国拍戏失联女友发文求助",
-      "onboard_time": 1736134464,
-      "rank": 8,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
