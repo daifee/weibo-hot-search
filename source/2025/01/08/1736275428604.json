@@ -1,0 +1,410 @@
+{
+  "runTime": 1736275428604,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 192623,
+        "num": 192623,
+        "word": "西藏定日县地震已致126人遇难",
+        "onboard_time": 1736259264,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158493,
+        "num": 158493,
+        "word": "男子为还百万债务杀妻骗保",
+        "onboard_time": 1736264483,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29401,
+        "num": 127771,
+        "word": "加油日喀则",
+        "onboard_time": 1736242342,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108184,
+        "num": 108184,
+        "word": "丁禹兮 善良战胜了i人的社恐",
+        "onboard_time": 1736256926,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135410,
+        "num": 106604,
+        "word": "西藏地震后第一个夜晚",
+        "onboard_time": 1736263583,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 103262,
+        "num": 103262,
+        "word": "19岁男生去世给4人留下生命礼物",
+        "onboard_time": 1736271434,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 91389,
+        "num": 91389,
+        "word": "国色芳华开播",
+        "onboard_time": 1736249662,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86202,
+        "num": 86202,
+        "word": "98年民警抓患艾滋嫌犯受伤流血",
+        "onboard_time": 1736246782,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66165,
+        "num": 86075,
+        "word": "恋与深空秦彻抽卡爆率低",
+        "onboard_time": 1736247325,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 56181,
+        "num": 85100,
+        "word": "演员从2米多高跷摔下众人飞奔护头",
+        "onboard_time": 1736265982,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 517111,
+        "num": 84372,
+        "word": "王星成功获救",
+        "onboard_time": 1736252905,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152153,
+        "num": 83523,
+        "word": "当年明月",
+        "onboard_time": 1736253985,
+        "rank": 11,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 217179,
+        "num": 83137,
+        "word": "王星采访",
+        "onboard_time": 1736255365,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112906,
+        "num": 82069,
+        "word": "白敬亭捐款100万驰援西藏",
+        "onboard_time": 1736271314,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128300,
+        "num": 81578,
+        "word": "泰总理称男星失踪案极大影响旅游业",
+        "onboard_time": 1736262443,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66123,
+        "num": 80642,
+        "word": "专家称日喀则发生更大地震可能性不大",
+        "onboard_time": 1736256025,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54823,
+        "num": 80275,
+        "word": "芳芳你美",
+        "onboard_time": 1736262324,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51843,
+        "num": 79655,
+        "word": "韩红基金会捐赠名单",
+        "onboard_time": 1736258245,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50505,
+        "num": 78565,
+        "word": "微博之夜阵容官宣",
+        "onboard_time": 1736254345,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 48860,
+        "num": 78046,
+        "word": "西藏地震",
+        "onboard_time": 1736212460,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77528,
+        "num": 77528,
+        "word": "国色芳华 知否味",
+        "onboard_time": 1736261486,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45233,
+        "num": 77454,
+        "word": "贾玲以妈妈名义捐赠西藏灾区",
+        "onboard_time": 1736268677,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37268,
+        "num": 77377,
+        "word": "国色芳华热度",
+        "onboard_time": 1736253384,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35954,
+        "num": 77321,
+        "word": "北京下雪",
+        "onboard_time": 1736251762,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12939,
+        "num": 77281,
+        "word": "定日县地震首张遥感影像图公布",
+        "onboard_time": 1736274373,
+        "rank": 24,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 35135,
+        "num": 77198,
+        "word": "孙颖莎说奥运女单决赛陈梦做得更好",
+        "onboard_time": 1736257165,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35031,
+        "num": 77084,
+        "word": "央行继续买金",
+        "onboard_time": 1736268138,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 34471,
+        "num": 77057,
+        "word": "多明星捐赠驰援西藏",
+        "onboard_time": 1736245463,
+        "rank": 27,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 34359,
+        "num": 76959,
+        "word": "贪官在家中设计夹层藏钱",
+        "onboard_time": 1736260044,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11604,
+        "num": 76844,
+        "word": "贪官用妻子控制的34家公司受贿",
+        "onboard_time": 1736275033,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33416,
+        "num": 76782,
+        "word": "健身网红朴胜贤去世",
+        "onboard_time": 1736253323,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 33357,
+        "num": 76736,
+        "word": "西藏震区夜晚气温或达零下十几度",
+        "onboard_time": 1736263943,
+        "rank": 31,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 33076,
+        "num": 76600,
+        "word": "陈都灵说鞠婧祎美丽敬业",
+        "onboard_time": 1736262024,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32959,
+        "num": 76595,
+        "word": "IVE概念预告照",
+        "onboard_time": 1736266641,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31708,
+        "num": 76461,
+        "word": "浙江一家6口出游5人感染甲流",
+        "onboard_time": 1736266760,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30973,
+        "num": 76390,
+        "word": "查询上千万条大数据揪出贪官",
+        "onboard_time": 1736271314,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30558,
+        "num": 76369,
+        "word": "国色芳华导演审美",
+        "onboard_time": 1736258845,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30377,
+        "num": 76220,
+        "word": "红石驰援西藏地震",
+        "onboard_time": 1736263642,
+        "rank": 37,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 28422,
+        "num": 76154,
+        "word": "王鹤棣在评论区开party",
+        "onboard_time": 1736261125,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29284,
+        "num": 76136,
+        "word": "王一博捐赠驰援西藏",
+        "onboard_time": 1736260345,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28228,
+        "num": 76052,
+        "word": "世界上最不该敷衍的人就是自己",
+        "onboard_time": 1736270177,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29192,
+        "num": 75960,
+        "word": "定日县地震已致126人遇难188人受伤",
+        "onboard_time": 1736265023,
+        "rank": 41,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 27943,
+        "num": 75882,
+        "word": "白鹿白月梵星招商",
+        "onboard_time": 1736272453,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27313,
+        "num": 75775,
+        "word": "微博之夜年度推荐",
+        "onboard_time": 1736274193,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 24542,
+        "num": 75683,
+        "word": "白鹿台词",
+        "onboard_time": 1736252544,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23928,
+        "num": 75633,
+        "word": "微博年度喜爱剧集",
+        "onboard_time": 1736274672,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23026,
+        "num": 75536,
+        "word": "李现眼神戏",
+        "onboard_time": 1736267058,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23293,
+        "num": 75460,
+        "word": "好多人给白鹿新剧包场",
+        "onboard_time": 1736267539,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22726,
+        "num": 75399,
+        "word": "国色芳华",
+        "onboard_time": 1736225184,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22764,
+        "num": 75360,
+        "word": "白月梵星爱奇艺热度破7000",
+        "onboard_time": 1736261184,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对定日县6.8级地震作出重要指示#"
+    }
+  }
+}
