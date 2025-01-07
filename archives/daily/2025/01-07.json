@@ -1,6 +1,6 @@
 {
   "startTime": 1736180901032,
-  "endTime": 1736223951282,
+  "endTime": 1736224802584,
   "band_list": [
     {
       "raw_hot": 2582877,
@@ -17,6 +17,14 @@
       "onboard_time": 1736217561,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2355443,
+      "num": 1361273,
+      "word": "西藏6.8级地震已致36人遇难",
+      "onboard_time": 1736220502,
+      "rank": 3,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1890075,
@@ -51,16 +59,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1361273,
-      "num": 1361273,
-      "word": "西藏6.8级地震已致36人遇难",
-      "onboard_time": 1736220502,
-      "rank": 3,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 1339091,
-      "num": 890517,
+      "num": 962361,
       "word": "西藏地震房屋倒塌现场",
       "onboard_time": 1736218940,
       "rank": 38,
@@ -99,20 +99,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 947641,
+      "num": 947641,
+      "word": "泰国警方称已知晓星星位置",
+      "onboard_time": 1736221581,
+      "rank": 4,
+      "category": "国际时政,艺人"
+    },
+    {
       "raw_hot": 917335,
       "num": 917335,
       "word": "定日县地震已有人员遇难",
       "onboard_time": 1736218641,
       "rank": 4,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 899785,
-      "num": 899785,
-      "word": "泰国警方称已知晓星星位置",
-      "onboard_time": 1736221581,
-      "rank": 4,
-      "category": "国际时政,艺人"
     },
     {
       "raw_hot": 827508,
@@ -123,12 +123,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 799236,
-      "num": 799236,
+      "raw_hot": 827156,
+      "num": 827156,
       "word": "哪吒2东海龙王超帅",
       "onboard_time": 1736220861,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 820404,
+      "num": 820404,
+      "word": "白月梵星开播",
+      "onboard_time": 1736222783,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 769821,
@@ -179,14 +187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 560209,
-      "num": 560209,
-      "word": "白月梵星开播",
-      "onboard_time": 1736222783,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 547221,
       "num": 547221,
       "word": "多方回应入住酒店孩子高烧取外卖难",
@@ -211,20 +211,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 506979,
+      "num": 506979,
+      "word": "国色芳华播出排面",
+      "onboard_time": 1736222543,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 483150,
       "num": 483150,
       "word": "市监局工作人员回应九点没人上班",
       "onboard_time": 1736208679,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 474941,
-      "num": 474941,
-      "word": "国色芳华播出排面",
-      "onboard_time": 1736222543,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 465276,
@@ -267,11 +267,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 418147,
-      "num": 418147,
+      "raw_hot": 419631,
+      "num": 419631,
       "word": "西藏日喀则6.8级地震救援情况",
       "onboard_time": 1736220861,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 406881,
+      "num": 406881,
+      "word": "42岁抗癌网红雨虹去世",
+      "onboard_time": 1736220622,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -307,11 +315,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 345552,
-      "num": 345552,
-      "word": "42岁抗癌网红雨虹去世",
-      "onboard_time": 1736220622,
-      "rank": 33,
+      "raw_hot": 357416,
+      "num": 357416,
+      "word": "男生地震中背同学跑被奖励公派留学",
+      "onboard_time": 1736222783,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -387,14 +395,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 295629,
-      "num": 295629,
-      "word": "男生地震中背同学跑被奖励公派留学",
-      "onboard_time": 1736222783,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 291400,
       "num": 291400,
       "word": "美国总统拜登被提起诉讼",
@@ -417,6 +417,14 @@
       "onboard_time": 1736205497,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 281293,
+      "num": 281293,
+      "word": "腊八吃什么",
+      "onboard_time": 1736216299,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 278305,
@@ -443,6 +451,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 273853,
+      "num": 273853,
+      "word": "李昀锐和小狗拍封面",
+      "onboard_time": 1736223803,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 273349,
+      "num": 660790,
+      "word": "1500余人前往西藏震中搜救",
+      "onboard_time": 1736223684,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 270799,
       "num": 270799,
       "word": "各地不得设户籍等障碍影响人才流动",
@@ -456,14 +480,6 @@
       "word": "苏州寒山寺的腊八粥嘟嘟嘟了",
       "onboard_time": 1736218940,
       "rank": 27,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 267932,
-      "num": 267932,
-      "word": "腊八吃什么",
-      "onboard_time": 1736216299,
-      "rank": 35,
       "category": "美食"
     },
     {
@@ -643,12 +659,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205681,
+      "num": 205681,
+      "word": "黑执事 少爷长大了",
+      "onboard_time": 1736220323,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 205621,
       "num": 205621,
       "word": "学医小伙靠两天食物山上存活9天",
       "onboard_time": 1736210961,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 204039,
+      "num": 204039,
+      "word": "肖战人物限时预售",
+      "onboard_time": 1736224045,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 202928,
@@ -667,20 +699,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193392,
-      "num": 193392,
-      "word": "黑执事 少爷长大了",
-      "onboard_time": 1736220323,
-      "rank": 46,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 191687,
       "num": 191687,
       "word": "金泰妍演唱会官宣",
       "onboard_time": 1736222723,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 188669,
+      "num": 205780,
+      "word": "王星越包场支持白鹿新剧",
+      "onboard_time": 1736224104,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 188404,
@@ -691,20 +723,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187988,
+      "num": 187988,
+      "word": "哪吒2一闪而过的男人是谁",
+      "onboard_time": 1736224765,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 181979,
       "num": 183442,
       "word": "反腐为了人民",
       "onboard_time": 1736181498,
       "rank": 29,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 181757,
-      "num": 181757,
-      "word": "李昀锐和小狗拍封面",
-      "onboard_time": 1736223803,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 180743,
@@ -721,6 +753,30 @@
       "onboard_time": 1736218882,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173676,
+      "num": 184010,
+      "word": "白鹿 平等爱我遇到的每个角色",
+      "onboard_time": 1736221281,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 171898,
+      "num": 171898,
+      "word": "广州队欠恒大集团几十亿巨债",
+      "onboard_time": 1736224345,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 171071,
+      "num": 171071,
+      "word": "第五人格",
+      "onboard_time": 1736224104,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 171015,
@@ -745,6 +801,14 @@
       "onboard_time": 1736205616,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 165503,
+      "num": 165503,
+      "word": "白月梵星箭破苍天版预告",
+      "onboard_time": 1736223566,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 165447,
@@ -827,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155401,
+      "num": 155401,
+      "word": "国色芳华开播直播",
+      "onboard_time": 1736221163,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150122,
       "num": 150122,
       "word": "王一博拥抱新的阳光和美好",
@@ -849,14 +921,6 @@
       "onboard_time": 1736167343,
       "rank": 18,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 146705,
-      "num": 146705,
-      "word": "白月梵星箭破苍天版预告",
-      "onboard_time": 1736223566,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 145850,
@@ -889,22 +953,6 @@
       "onboard_time": 1736168325,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 138931,
-      "num": 138931,
-      "word": "国色芳华开播直播",
-      "onboard_time": 1736221163,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 137460,
-      "num": 184010,
-      "word": "白鹿 平等爱我遇到的每个角色",
-      "onboard_time": 1736221281,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 137140,
@@ -945,14 +993,6 @@
       "onboard_time": 1736218761,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128311,
-      "num": 660790,
-      "word": "1500余人前往西藏震中搜救",
-      "onboard_time": 1736223684,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127633,
@@ -1187,6 +1227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91520,
+      "num": 346243,
+      "word": "酒店窗外发现无人机女子质疑被偷拍",
+      "onboard_time": 1736222723,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90272,
       "num": 90272,
       "word": "演员王星女友称泰国警方已备案",
@@ -1280,14 +1328,6 @@
       "word": "男子给女友转账100万分手后起诉对方",
       "onboard_time": 1736153906,
       "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 71831,
-      "num": 346243,
-      "word": "酒店窗外发现无人机女子质疑被偷拍",
-      "onboard_time": 1736222723,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1417,6 +1457,14 @@
       "onboard_time": 1736220200,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38641,
+      "num": 281375,
+      "word": "龙爹露脸了",
+      "onboard_time": 1736224224,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 35171,
