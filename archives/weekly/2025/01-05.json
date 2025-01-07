@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736253829505,
+  "endTime": 1736254761107,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 9690627,
+      "num": 9690627,
+      "word": "王星成功获救",
+      "onboard_time": 1736252905,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 6746897,
       "num": 5085706,
       "word": "丁禹兮接虞书欣下台",
@@ -105,14 +113,6 @@
       "onboard_time": 1736000553,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 5924568,
-      "num": 5924568,
-      "word": "王星成功获救",
-      "onboard_time": 1736252905,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 5865317,
@@ -1355,6 +1355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 605524,
+      "num": 332058,
+      "word": "国色芳华热度",
+      "onboard_time": 1736253384,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 600603,
       "num": 447711,
       "word": "鹿晗捐赠驰援灾区",
@@ -1433,6 +1441,14 @@
       "onboard_time": 1736167343,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 575458,
+      "num": 330433,
+      "word": "当年明月",
+      "onboard_time": 1736253985,
+      "rank": 12,
+      "category": "读书作家,作品衍生"
     },
     {
       "raw_hot": 572477,
@@ -2563,6 +2579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 337483,
+      "num": 238985,
+      "word": "白鹿台词",
+      "onboard_time": 1736252544,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 332600,
       "num": 311358,
       "word": "演员王星家属发声",
@@ -2776,14 +2800,6 @@
       "word": "陈数蒋欣两剧共享1个林栋哲",
       "onboard_time": 1736231302,
       "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 302063,
-      "num": 238985,
-      "word": "白鹿台词",
-      "onboard_time": 1736252544,
-      "rank": 21,
       "category": "剧集"
     },
     {
@@ -3099,6 +3115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272265,
+      "num": 454287,
+      "word": "官方通报上午9点办事大厅空岗",
+      "onboard_time": 1736249242,
+      "rank": 45,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 272190,
       "num": 990207,
       "word": "第一次这么清晰看到小鸟喝露水",
@@ -3193,6 +3217,14 @@
       "onboard_time": 1736154445,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 264707,
+      "num": 191986,
+      "word": "健身网红朴胜贤去世",
+      "onboard_time": 1736253323,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 263545,
@@ -3379,14 +3411,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 250391,
-      "num": 454287,
-      "word": "官方通报上午9点办事大厅空岗",
-      "onboard_time": 1736249242,
-      "rank": 45,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 249102,
       "num": 249102,
       "word": "GMM声明",
@@ -3417,6 +3441,14 @@
       "onboard_time": 1736055508,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 247510,
+      "num": 208307,
+      "word": "国色芳华好有质感",
+      "onboard_time": 1736253684,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 246789,
@@ -3539,14 +3571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 238876,
-      "num": 238876,
-      "word": "国色芳华热度",
-      "onboard_time": 1736253384,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 238212,
       "num": 238212,
       "word": "26岁抗癌博主小黄同学离世",
@@ -3592,6 +3616,14 @@
       "word": "韩国人最喜欢的中剧排行",
       "onboard_time": 1736205558,
       "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 234588,
+      "num": 196983,
+      "word": "代露娃 放开了美吧",
+      "onboard_time": 1736253205,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -3819,6 +3851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 220923,
+      "num": 218042,
+      "word": "国色芳华",
+      "onboard_time": 1736138846,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220853,
       "num": 220853,
       "word": "我们与西藏日喀则在一起",
@@ -3857,14 +3897,6 @@
       "onboard_time": 1736009312,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 219007,
-      "num": 218042,
-      "word": "国色芳华",
-      "onboard_time": 1736138846,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 218986,
@@ -4411,6 +4443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200035,
+      "num": 194453,
+      "word": "大奉打更人",
+      "onboard_time": 1736159364,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199604,
       "num": 638450,
       "word": "周深快把张若昀唱哭了",
@@ -4433,6 +4473,14 @@
       "onboard_time": 1736053290,
       "rank": 16,
       "category": "教育"
+    },
+    {
+      "raw_hot": 198657,
+      "num": 191063,
+      "word": "阿如那老师又来演混混了",
+      "onboard_time": 1736253564,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 198074,
@@ -4787,14 +4835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 179827,
-      "num": 179827,
-      "word": "健身网红朴胜贤去世",
-      "onboard_time": 1736253323,
-      "rank": 30,
-      "category": "网红"
-    },
-    {
       "raw_hot": 179267,
       "num": 167588,
       "word": "只有我注意旁边那个男的的口红了吗",
@@ -5001,14 +5041,6 @@
       "onboard_time": 1736156484,
       "rank": 2,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 170700,
-      "num": 170700,
-      "word": "代露娃 放开了美吧",
-      "onboard_time": 1736253205,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 170480,
@@ -5323,14 +5355,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 161356,
-      "num": 161356,
-      "word": "国色芳华好有质感",
-      "onboard_time": 1736253684,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 161347,
       "num": 183388,
       "word": "失联演员王星好友称警方已经立案",
@@ -5377,14 +5401,6 @@
       "onboard_time": 1736168843,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 160430,
-      "num": 160430,
-      "word": "阿如那老师又来演混混了",
-      "onboard_time": 1736253564,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 160246,
@@ -5915,6 +5931,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 143057,
+      "num": 143057,
+      "word": "杜淳老婆增肥成功",
+      "onboard_time": 1736254585,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142572,
       "num": 176240,
       "word": "杨砚也该上桌了",
@@ -5969,14 +5993,6 @@
       "onboard_time": 1736248883,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140637,
-      "num": 140637,
-      "word": "大奉打更人",
-      "onboard_time": 1736159364,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 140608,
@@ -7595,6 +7611,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 88282,
+      "num": 129765,
+      "word": "甲流症状累及全身",
+      "onboard_time": 1736252544,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 88143,
       "num": 88143,
       "word": "单依纯毛不易合唱平凡的一天",
@@ -7771,6 +7795,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 79188,
+      "num": 129631,
+      "word": "奶茶腊八粥",
+      "onboard_time": 1736254705,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 79050,
       "num": 176743,
       "word": "驻站人贩子剃头拐卖孩子",
@@ -7841,6 +7873,14 @@
       "onboard_time": 1736064267,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74509,
+      "num": 333576,
+      "word": "陈丽君谈新龙门客栈的沉浸感",
+      "onboard_time": 1736254045,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 74498,
@@ -8153,6 +8193,14 @@
       "onboard_time": 1736022493,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 59649,
+      "num": 210890,
+      "word": "微博之夜阵容官宣",
+      "onboard_time": 1736254345,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 58998,

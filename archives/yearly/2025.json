@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736253829505,
+  "endTime": 1736254761107,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 9690627,
+      "num": 9690627,
+      "word": "王星成功获救",
+      "onboard_time": 1736252905,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 9123207,
       "num": 5161800,
       "word": "三人行剧组回应",
@@ -153,14 +161,6 @@
       "onboard_time": 1736005415,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 5924568,
-      "num": 5924568,
-      "word": "王星成功获救",
-      "onboard_time": 1736252905,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 5865317,
