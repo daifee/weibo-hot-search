@@ -1,6 +1,6 @@
 {
   "startTime": 1736266474874,
-  "endTime": 1736292065642,
+  "endTime": 1736292944545,
   "band_list": [
     {
       "raw_hot": 3073531,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 747812,
+      "num": 747812,
+      "word": "浙江一家6口出游5人感染甲流",
+      "onboard_time": 1736266760,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 708107,
       "num": 325846,
       "word": "王鹤棣在评论区开party",
@@ -65,14 +73,6 @@
       "onboard_time": 1736263583,
       "rank": 16,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 572750,
-      "num": 572750,
-      "word": "浙江一家6口出游5人感染甲流",
-      "onboard_time": 1736266760,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 495479,
@@ -97,6 +97,14 @@
       "onboard_time": 1736261486,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 398225,
+      "num": 398225,
+      "word": "19岁男生去世给4人留下生命礼物",
+      "onboard_time": 1736271434,
+      "rank": 29,
+      "category": "正能量"
     },
     {
       "raw_hot": 395722,
@@ -139,12 +147,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 291185,
-      "num": 291185,
-      "word": "19岁男生去世给4人留下生命礼物",
-      "onboard_time": 1736271434,
-      "rank": 29,
-      "category": "正能量"
+      "raw_hot": 260258,
+      "num": 260258,
+      "word": "微博之夜阵容官宣",
+      "onboard_time": 1736254345,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 252488,
@@ -187,12 +195,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208107,
-      "num": 208107,
-      "word": "微博之夜阵容官宣",
-      "onboard_time": 1736254345,
-      "rank": 41,
-      "category": "作品衍生"
+      "raw_hot": 212237,
+      "num": 325466,
+      "word": "丁禹兮 善良战胜了i人的社恐",
+      "onboard_time": 1736256926,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 204695,
@@ -211,12 +219,12 @@
       "category": "电影,动漫"
     },
     {
-      "raw_hot": 189581,
-      "num": 325466,
-      "word": "丁禹兮 善良战胜了i人的社恐",
-      "onboard_time": 1736256926,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 187049,
+      "num": 324760,
+      "word": "健身网红朴胜贤去世",
+      "onboard_time": 1736253323,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 185557,
@@ -259,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149926,
+      "num": 229180,
+      "word": "国色芳华里到底有多少牡丹",
+      "onboard_time": 1736281030,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149308,
       "num": 149308,
       "word": "IVE概念预告照",
@@ -273,14 +289,6 @@
       "onboard_time": 1736262024,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143138,
-      "num": 324760,
-      "word": "健身网红朴胜贤去世",
-      "onboard_time": 1736253323,
-      "rank": 40,
-      "category": "网红"
     },
     {
       "raw_hot": 142791,
@@ -323,6 +331,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 129035,
+      "num": 129035,
+      "word": "这样煮水喝预防甲流",
+      "onboard_time": 1736291717,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 128915,
       "num": 324381,
       "word": "西藏震区夜晚气温或达零下十几度",
@@ -347,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113374,
+      "num": 67511,
+      "word": "肖思远弟弟荣立三等功",
+      "onboard_time": 1736289794,
+      "rank": 30,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 108056,
       "num": 324650,
       "word": "国色芳华",
@@ -361,6 +385,14 @@
       "onboard_time": 1736267058,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104883,
+      "num": 104883,
+      "word": "翟欣欣涉嫌敲诈勒索案即将开庭",
+      "onboard_time": 1736292557,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104870,
@@ -384,6 +416,14 @@
       "word": "李现古装原声台词",
       "onboard_time": 1736267119,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 91596,
+      "num": 91596,
+      "word": "白鹿你也没放过常华森",
+      "onboard_time": 1736290634,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -435,14 +475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 82681,
-      "num": 82681,
-      "word": "国色芳华里到底有多少牡丹",
-      "onboard_time": 1736281030,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 81674,
       "num": 324250,
       "word": "中广联演员委员会发布重要提示",
@@ -451,20 +483,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74759,
-      "num": 57414,
-      "word": "肖思远弟弟荣立三等功",
-      "onboard_time": 1736289794,
-      "rank": 30,
+      "raw_hot": 74575,
+      "num": 74575,
+      "word": "地震时你背同学往外冲的模样真帅",
+      "onboard_time": 1736284750,
+      "rank": 49,
       "category": "正能量"
     },
     {
-      "raw_hot": 72551,
-      "num": 72551,
-      "word": "这样煮水喝预防甲流",
-      "onboard_time": 1736291717,
-      "rank": 23,
-      "category": "健康医疗"
+      "raw_hot": 71964,
+      "num": 143040,
+      "word": "央行继续买金",
+      "onboard_time": 1736268138,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 69784,
@@ -475,12 +507,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 65359,
-      "num": 65359,
-      "word": "地震时你背同学往外冲的模样真帅",
-      "onboard_time": 1736284750,
-      "rank": 49,
-      "category": "正能量"
+      "raw_hot": 62784,
+      "num": 130320,
+      "word": "贾玲以妈妈名义捐赠西藏灾区",
+      "onboard_time": 1736268677,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 61864,
@@ -491,28 +523,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 60774,
-      "num": 143040,
-      "word": "央行继续买金",
-      "onboard_time": 1736268138,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 60410,
       "num": 325255,
       "word": "鞠婧祎时装开售24小时销售额765万",
       "onboard_time": 1736264961,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 60169,
-      "num": 60169,
-      "word": "白鹿你也没放过常华森",
-      "onboard_time": 1736290634,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 59788,
@@ -532,19 +548,27 @@
     },
     {
       "raw_hot": 58034,
-      "num": 58034,
+      "num": 62780,
       "word": "定日县地震全力搜救",
       "onboard_time": 1736234663,
       "rank": 15,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 55177,
-      "num": 130320,
-      "word": "贾玲以妈妈名义捐赠西藏灾区",
-      "onboard_time": 1736268677,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 52667,
+      "num": 76844,
+      "word": "贪官用妻子控制的34家公司受贿",
+      "onboard_time": 1736275033,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52038,
+      "num": 62771,
+      "word": "我们与西藏日喀则在一起",
+      "onboard_time": 1736235023,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51992,
@@ -563,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49478,
+      "num": 62763,
+      "word": "甲流有没有特效药",
+      "onboard_time": 1736281932,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 48426,
       "num": 142562,
       "word": "白鹿台词",
@@ -571,12 +603,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 47408,
-      "num": 55170,
-      "word": "甲流有没有特效药",
-      "onboard_time": 1736281932,
-      "rank": 49,
-      "category": "健康医疗"
+      "raw_hot": 46441,
+      "num": 76311,
+      "word": "红石驰援西藏地震",
+      "onboard_time": 1736263642,
+      "rank": 39,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 44640,
@@ -587,28 +619,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40095,
-      "num": 76844,
-      "word": "贪官用妻子控制的34家公司受贿",
-      "onboard_time": 1736275033,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39938,
-      "num": 76311,
-      "word": "红石驰援西藏地震",
-      "onboard_time": 1736263642,
-      "rank": 39,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 36104,
+      "raw_hot": 41815,
       "num": 133583,
       "word": "查询上千万条大数据揪出贪官",
       "onboard_time": 1736271314,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34483,
+      "num": 62733,
+      "word": "进击的巨人 鱿鱼游戏",
+      "onboard_time": 1736291536,
+      "rank": 49,
+      "category": "动漫,剧集"
     },
     {
       "raw_hot": 32663,
@@ -627,20 +651,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31345,
+      "num": 62729,
+      "word": "如何判断得的是甲流还是普通感冒",
+      "onboard_time": 1736292917,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 30555,
       "num": 76200,
       "word": "白鹿白月梵星招商",
       "onboard_time": 1736272453,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 28613,
-      "num": 55119,
-      "word": "进击的巨人 鱿鱼游戏",
-      "onboard_time": 1736291536,
-      "rank": 49,
-      "category": "动漫,剧集"
     },
     {
       "raw_hot": 27313,
