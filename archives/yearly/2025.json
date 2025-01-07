@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736234502111,
+  "endTime": 1736235330111,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 11656509,
+      "num": 11656509,
+      "word": "王星弟弟已与其通视频电话",
+      "onboard_time": 1736230884,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 11462703,
       "num": 11462703,
       "word": "三人行导演回应",
@@ -80,14 +88,6 @@
       "word": "李明德晒聊天记录",
       "onboard_time": 1736063366,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 10804094,
-      "num": 10804094,
-      "word": "王星弟弟已与其通视频电话",
-      "onboard_time": 1736230884,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -339,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2458918,
+      "num": 437926,
+      "word": "泰警方称星星被缅甸边防部队拘留",
+      "onboard_time": 1736233044,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2438337,
       "num": 633967,
       "word": "赵樱子自曝被男顶流追求过",
@@ -489,14 +497,6 @@
       "onboard_time": 1735649307,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2063478,
-      "num": 437926,
-      "word": "泰警方称星星被缅甸边防部队拘留",
-      "onboard_time": 1736233044,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 2056686,
@@ -673,6 +673,14 @@
       "onboard_time": 1736207300,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1799324,
+      "num": 1799324,
+      "word": "第一批解放军已抵达西藏震中",
+      "onboard_time": 1736229564,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1793831,
@@ -889,14 +897,6 @@
       "onboard_time": 1736047111,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1548780,
-      "num": 1548780,
-      "word": "第一批解放军已抵达西藏震中",
-      "onboard_time": 1736229564,
-      "rank": 17,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1538021,
