@@ -1,0 +1,410 @@
+{
+  "runTime": 1736248740006,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1599709,
+        "num": 1599709,
+        "word": "4名中国演员侥幸逃脱泰国试戏骗局",
+        "onboard_time": 1736242523,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1321493,
+        "num": 1321493,
+        "word": "西藏定日县地震已致95人遇难",
+        "onboard_time": 1736237362,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 82966,
+        "num": 1212820,
+        "word": "三部门紧急调拨2.2万件中央救灾物资",
+        "onboard_time": 1736240544,
+        "rank": 2,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1113668,
+        "num": 1113668,
+        "word": "98年民警抓患艾滋嫌犯受伤流血",
+        "onboard_time": 1736246782,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 989114,
+        "num": 989114,
+        "word": "被骗到缅东小伙跳河逃生棉裤都没脱",
+        "onboard_time": 1736240722,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 826652,
+        "num": 826652,
+        "word": "多明星捐赠驰援西藏",
+        "onboard_time": 1736245463,
+        "rank": 5,
+        "category": "突发/灾害,艺人"
+      },
+      {
+        "raw_hot": 644132,
+        "num": 644132,
+        "word": "常州一月子中心被曝集体跑路",
+        "onboard_time": 1736243422,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 506750,
+        "num": 506750,
+        "word": "第一批解放军已抵达西藏震中",
+        "onboard_time": 1736229564,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 470368,
+        "num": 470368,
+        "word": "国色芳华云包场",
+        "onboard_time": 1736245882,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81425,
+        "num": 465641,
+        "word": "运20飞往西藏日喀则地震灾区",
+        "onboard_time": 1736236762,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1089097,
+        "num": 463129,
+        "word": "西藏日喀则6.8级地震",
+        "onboard_time": 1736213180,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1014036,
+        "num": 452544,
+        "word": "泰国移民局已接到王星",
+        "onboard_time": 1736246362,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 600603,
+        "num": 447711,
+        "word": "鹿晗捐赠驰援灾区",
+        "onboard_time": 1736247145,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443466,
+        "num": 443466,
+        "word": "朴世荣怀孕",
+        "onboard_time": 1736242822,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120571,
+        "num": 425285,
+        "word": "沉迷薅羊毛后发现自己才是被薅的",
+        "onboard_time": 1736247862,
+        "rank": 14,
+        "category": "互联网,幽默"
+      },
+      {
+        "raw_hot": 420220,
+        "num": 420220,
+        "word": "苹果客服建议所有用户更新系统",
+        "onboard_time": 1736243542,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 582775,
+        "num": 416158,
+        "word": "泰警方称星星被缅甸边防部队拘留",
+        "onboard_time": 1736233044,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189405,
+        "num": 412391,
+        "word": "时代少年团多次婉拒搞抽象炸团",
+        "onboard_time": 1736246964,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 410962,
+        "num": 410962,
+        "word": "曝五条人买衣服表演后退货",
+        "onboard_time": 1736247683,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10359,
+        "num": 391653,
+        "word": "谭卓说我于行业总像个局外人",
+        "onboard_time": 1736247862,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 381708,
+        "num": 381708,
+        "word": "直击西藏救援现场",
+        "onboard_time": 1736242342,
+        "rank": 20,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 360911,
+        "num": 360911,
+        "word": "女子入住月子中心4天老板跑了",
+        "onboard_time": 1736241323,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301377,
+        "num": 301377,
+        "word": "西藏日喀则地震现场画面",
+        "onboard_time": 1736225904,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296687,
+        "num": 296687,
+        "word": "恋与深空秦彻抽卡爆率低",
+        "onboard_time": 1736247325,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 20224,
+        "num": 262831,
+        "word": "祁煜 跑酷练习",
+        "onboard_time": 1736242342,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 257663,
+        "num": 257663,
+        "word": "花35万申请英国大学发现材料伪造",
+        "onboard_time": 1736244622,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217373,
+        "num": 233495,
+        "word": "王星越 白发仙君",
+        "onboard_time": 1736247383,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213578,
+        "num": 233420,
+        "word": "肖战海报C位",
+        "onboard_time": 1736242762,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 233393,
+        "num": 233393,
+        "word": "郭敬明被冻结500万股权",
+        "onboard_time": 1736244384,
+        "rank": 28,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 42939,
+        "num": 223248,
+        "word": "2025广东省考计划招录17419人",
+        "onboard_time": 1736247983,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 218044,
+        "num": 218044,
+        "word": "赵樱子自曝被男顶流追求过",
+        "onboard_time": 1736225243,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63417,
+        "num": 217905,
+        "word": "邵子恒微博之夜官宣",
+        "onboard_time": 1736244441,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217903,
+        "num": 217903,
+        "word": "男子整本彩票匀出2张对方中了40万",
+        "onboard_time": 1736242342,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211250,
+        "num": 211250,
+        "word": "国色芳华",
+        "onboard_time": 1736225184,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209120,
+        "num": 209120,
+        "word": "采访我的丁克舅舅现在过得怎么样",
+        "onboard_time": 1736237425,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196624,
+        "num": 196624,
+        "word": "国色芳华 恶婆婆上新了",
+        "onboard_time": 1736239883,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182605,
+        "num": 182605,
+        "word": "赵丽颖获影视榜样年度人气女演员",
+        "onboard_time": 1736245342,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170583,
+        "num": 170583,
+        "word": "白月梵星",
+        "onboard_time": 1736244984,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165986,
+        "num": 165986,
+        "word": "车管所辅警通过十几元的红包收了47万多元",
+        "onboard_time": 1736235924,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164326,
+        "num": 164326,
+        "word": "刘强东给自己小学老师每人发10万现金",
+        "onboard_time": 1736228662,
+        "rank": 39,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 163467,
+        "num": 163467,
+        "word": "西藏日喀则地震现场救援视频",
+        "onboard_time": 1736230822,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162374,
+        "num": 162374,
+        "word": "谢娜杨迪你俩也是没放过何炅",
+        "onboard_time": 1736246723,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161450,
+        "num": 161450,
+        "word": "终于有仙侠剧不把凡人当NPC了",
+        "onboard_time": 1736236821,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155918,
+        "num": 155918,
+        "word": "田曦薇陈意涵新剧杀我别用友情刀",
+        "onboard_time": 1736245763,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149839,
+        "num": 149839,
+        "word": "死猪被绑上石头丢进村民饮用水井",
+        "onboard_time": 1736234543,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51779,
+        "num": 145559,
+        "word": "ITTF称陈梦重新定义女子乒乓球",
+        "onboard_time": 1736244323,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191902,
+        "num": 144849,
+        "word": "杨紫魏哲鸣 他看她笑他宠溺",
+        "onboard_time": 1736248223,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2154478,
+        "num": 144782,
+        "word": "演员星星被推迟送回泰国",
+        "onboard_time": 1736247622,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142475,
+        "num": 142475,
+        "word": "承欢记上星",
+        "onboard_time": 1736248283,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139580,
+        "num": 139580,
+        "word": "西藏定日县地震这些问题一起关注",
+        "onboard_time": 1736242342,
+        "rank": 49,
+        "category": "突发/灾害"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对西藏定日县6.8级地震作出重要指示#"
+    }
+  }
+}
