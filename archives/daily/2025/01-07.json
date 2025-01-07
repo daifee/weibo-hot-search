@@ -1,6 +1,6 @@
 {
   "startTime": 1736180901032,
-  "endTime": 1736238522151,
+  "endTime": 1736239335338,
   "band_list": [
     {
       "raw_hot": 11656509,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3521846,
+      "num": 1571832,
+      "word": "星星疑被剃去头发腿上有红斑",
+      "onboard_time": 1736237304,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2582877,
       "num": 2582877,
       "word": "西藏地震",
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 2458918,
-      "num": 437926,
+      "num": 1161952,
       "word": "泰警方称星星被缅甸边防部队拘留",
       "onboard_time": 1736233044,
       "rank": 6,
@@ -99,12 +107,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 1571832,
-      "num": 1571832,
-      "word": "星星疑被剃去头发腿上有红斑",
-      "onboard_time": 1736237304,
-      "rank": 3,
-      "category": "艺人"
+      "raw_hot": 1456976,
+      "num": 1456976,
+      "word": "西藏定日县地震已致95人遇难",
+      "onboard_time": 1736237362,
+      "rank": 4,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1422544,
@@ -195,14 +203,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 846049,
-      "num": 1137402,
-      "word": "西藏定日县地震已致95人遇难",
-      "onboard_time": 1736237362,
-      "rank": 4,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 827508,
       "num": 827508,
       "word": "RTX5090",
@@ -257,6 +257,14 @@
       "onboard_time": 1736216900,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 677010,
+      "num": 677010,
+      "word": "演员星星乘车离境泰国视频公布",
+      "onboard_time": 1736234543,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 665815,
@@ -347,6 +355,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 530790,
+      "num": 530790,
+      "word": "肖战捐赠驰援西藏",
+      "onboard_time": 1736237063,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 517631,
       "num": 423285,
       "word": "命真好头胎生了个月嫂",
@@ -395,20 +411,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 497977,
-      "num": 329159,
-      "word": "演员星星乘车离境泰国视频公布",
-      "onboard_time": 1736234543,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 483150,
       "num": 483150,
       "word": "市监局工作人员回应九点没人上班",
       "onboard_time": 1736208679,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 475654,
+      "num": 475654,
+      "word": "苏炳添提车",
+      "onboard_time": 1736235743,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 467634,
+      "num": 467634,
+      "word": "外交部回应演员星星失联",
+      "onboard_time": 1736237183,
+      "rank": 9,
+      "category": "艺人,国内时政"
     },
     {
       "raw_hot": 465276,
@@ -420,7 +444,7 @@
     },
     {
       "raw_hot": 453268,
-      "num": 281864,
+      "num": 303142,
       "word": "弟弟说王星看着精神不太好",
       "onboard_time": 1736236643,
       "rank": 16,
@@ -451,6 +475,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 446806,
+      "num": 446806,
+      "word": "死猪被绑上石头丢进村民饮用水井",
+      "onboard_time": 1736234543,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 439972,
       "num": 483272,
       "word": "一次收几十元微信红包最后贪了47万",
@@ -473,22 +505,6 @@
       "onboard_time": 1736220622,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 430944,
-      "num": 280883,
-      "word": "死猪被绑上石头丢进村民饮用水井",
-      "onboard_time": 1736234543,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 427465,
-      "num": 427465,
-      "word": "肖战捐赠驰援西藏",
-      "onboard_time": 1736237063,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 419631,
@@ -524,7 +540,7 @@
     },
     {
       "raw_hot": 393977,
-      "num": 280080,
+      "num": 348876,
       "word": "何炅是不是有谢娜的使用说明书",
       "onboard_time": 1736236894,
       "rank": 19,
@@ -537,6 +553,14 @@
       "onboard_time": 1736203514,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 383504,
+      "num": 690867,
+      "word": "终于有仙侠剧不把凡人当NPC了",
+      "onboard_time": 1736236821,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 375943,
@@ -553,14 +577,6 @@
       "onboard_time": 1736175205,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 368001,
-      "num": 278745,
-      "word": "终于有仙侠剧不把凡人当NPC了",
-      "onboard_time": 1736236821,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 364267,
@@ -585,14 +601,6 @@
       "onboard_time": 1736218342,
       "rank": 26,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 347091,
-      "num": 277961,
-      "word": "苏炳添提车",
-      "onboard_time": 1736235743,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 345347,
@@ -643,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 325488,
+      "num": 325488,
+      "word": "采访我的丁克舅舅现在过得怎么样",
+      "onboard_time": 1736237425,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 318350,
       "num": 318350,
       "word": "北京网友称收到西藏地震预警",
@@ -657,6 +673,14 @@
       "onboard_time": 1736215039,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 314329,
+      "num": 314329,
+      "word": "车管所辅警通过十几元的红包收了47万多元",
+      "onboard_time": 1736235924,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 308126,
@@ -691,14 +715,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 298569,
-      "num": 285176,
-      "word": "车管所辅警通过十几元的红包收了47万多元",
-      "onboard_time": 1736235924,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 297564,
       "num": 297564,
       "word": "光遇复刻",
@@ -713,14 +729,6 @@
       "onboard_time": 1736207839,
       "rank": 16,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 287063,
-      "num": 287063,
-      "word": "外交部回应演员星星失联",
-      "onboard_time": 1736237183,
-      "rank": 9,
-      "category": "艺人,国内时政"
     },
     {
       "raw_hot": 286633,
@@ -809,6 +817,14 @@
       "onboard_time": 1736220081,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 263443,
+      "num": 263443,
+      "word": "白月梵星你要毁了一代妖王吗",
+      "onboard_time": 1736238562,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 259084,
@@ -907,14 +923,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 235519,
-      "num": 227447,
-      "word": "采访我的丁克舅舅现在过得怎么样",
-      "onboard_time": 1736237425,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 235427,
       "num": 235427,
       "word": "WTT权力过大滋生恶法",
@@ -992,6 +1000,14 @@
       "word": "12356热线后有一群人为你撑伞",
       "onboard_time": 1736216661,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220853,
+      "num": 220853,
+      "word": "我们与西藏日喀则在一起",
+      "onboard_time": 1736235023,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1147,12 +1163,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 199168,
-      "num": 199168,
-      "word": "我们与西藏日喀则在一起",
-      "onboard_time": 1736235023,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 200853,
+      "num": 677812,
+      "word": "西藏日喀则地震发布会",
+      "onboard_time": 1736238623,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 197897,
@@ -1243,6 +1259,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 181820,
+      "num": 181820,
+      "word": "iPhone16系列或出最便宜版本",
+      "onboard_time": 1736237963,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 180743,
       "num": 383934,
       "word": "震中5公里内平均海拔约4259米",
@@ -1275,12 +1299,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176767,
+      "num": 176767,
+      "word": "燕云十六声",
+      "onboard_time": 1736237604,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 176661,
       "num": 176661,
       "word": "西藏今早地震系周边5年最大地震",
       "onboard_time": 1736218882,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176167,
+      "num": 176167,
+      "word": "WINTER初雪Cover",
+      "onboard_time": 1736239104,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 173676,
@@ -1331,6 +1371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167505,
+      "num": 167505,
+      "word": "印度人因有牛肉打砸英国餐厅被打跑",
+      "onboard_time": 1736236821,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 166690,
       "num": 166690,
       "word": "肖战谈自己五年间的变化",
@@ -1371,14 +1419,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 162150,
-      "num": 162150,
-      "word": "燕云十六声",
-      "onboard_time": 1736237604,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 161469,
       "num": 431513,
       "word": "西藏6.8级地震成都昆明收到预警",
@@ -1393,6 +1433,14 @@
       "onboard_time": 1736181197,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160840,
+      "num": 160840,
+      "word": "香格里拉地震",
+      "onboard_time": 1736238443,
+      "rank": 47,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 160831,
@@ -1425,14 +1473,6 @@
       "onboard_time": 1736216720,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 155968,
-      "num": 155968,
-      "word": "iPhone16系列或出最便宜版本",
-      "onboard_time": 1736237963,
-      "rank": 43,
-      "category": "数码"
     },
     {
       "raw_hot": 155958,
@@ -1521,14 +1561,6 @@
       "onboard_time": 1736234125,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 141343,
-      "num": 141343,
-      "word": "香格里拉地震",
-      "onboard_time": 1736238443,
-      "rank": 47,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 140608,
@@ -1699,6 +1731,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 112975,
+      "num": 1290411,
+      "word": "西藏发布会现场为遇难者默哀",
+      "onboard_time": 1736238743,
+      "rank": 4,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 107849,
       "num": 109449,
       "word": "文化中国行腊八节",
@@ -1779,6 +1819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102187,
+      "num": 495471,
+      "word": "演员星星泰缅边境失联时间线",
+      "onboard_time": 1736237725,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100786,
       "num": 188356,
       "word": "曝虞书欣将离开华策",
@@ -1793,14 +1841,6 @@
       "onboard_time": 1736214921,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 99711,
-      "num": 283491,
-      "word": "演员星星泰缅边境失联时间线",
-      "onboard_time": 1736237725,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 99293,
@@ -1921,6 +1961,14 @@
       "onboard_time": 1736174064,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83921,
+      "num": 451101,
+      "word": "网剧冬至今日收官",
+      "onboard_time": 1736238384,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 82889,
@@ -2219,14 +2267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 39005,
-      "num": 268269,
-      "word": "网剧冬至今日收官",
-      "onboard_time": 1736238384,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 38865,
       "num": 365987,
       "word": "为领3毛红包上课却买上千保健品",
@@ -2387,6 +2427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17596,
+      "num": 284756,
+      "word": "A股",
+      "onboard_time": 1736128280,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 15533,
       "num": 38929,
       "word": "向兰香扔瓶子游客已被警方控制",
@@ -2409,14 +2457,6 @@
       "onboard_time": 1736187554,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 14730,
-      "num": 284756,
-      "word": "A股",
-      "onboard_time": 1736128280,
-      "rank": 13,
-      "category": "财经"
     },
     {
       "raw_hot": 14538,
