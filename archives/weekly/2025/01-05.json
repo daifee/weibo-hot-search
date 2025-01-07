@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736249743256,
+  "endTime": 1736253829505,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -107,6 +107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 5924568,
+      "num": 5924568,
+      "word": "王星成功获救",
+      "onboard_time": 1736252905,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 5865317,
       "num": 509455,
       "word": "李明德解释为什么暴力损害酒店财物",
@@ -209,6 +217,14 @@
       "onboard_time": 1736212460,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2564312,
+      "num": 453287,
+      "word": "王星由警方护送比OK手势",
+      "onboard_time": 1736252905,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2483975,
@@ -603,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1273664,
+      "num": 1273664,
+      "word": "国色芳华开播",
+      "onboard_time": 1736249662,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1241779,
       "num": 1241779,
       "word": "伊能静曾故意灌醉恩利",
@@ -681,6 +705,14 @@
       "onboard_time": 1736228662,
       "rank": 4,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 1073311,
+      "num": 1073311,
+      "word": "北京下雪",
+      "onboard_time": 1736251762,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1056057,
@@ -1435,6 +1467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 561486,
+      "num": 561486,
+      "word": "曝五条人买衣服表演后退货",
+      "onboard_time": 1736247683,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 560619,
       "num": 690867,
       "word": "终于有仙侠剧不把凡人当NPC了",
@@ -1715,14 +1755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 482233,
-      "num": 434359,
-      "word": "曝五条人买衣服表演后退货",
-      "onboard_time": 1736247683,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 479091,
       "num": 360911,
       "word": "女子入住月子中心4天老板跑了",
@@ -1899,6 +1931,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 448441,
+      "num": 448441,
+      "word": "中广联演员委员会发布重要提示",
+      "onboard_time": 1736251042,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 448201,
       "num": 448201,
       "word": "贪官正事不干天天打牌成公开秘密",
@@ -2001,6 +2041,14 @@
       "onboard_time": 1736175205,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 420551,
+      "num": 420551,
+      "word": "直击西藏救援现场",
+      "onboard_time": 1736242342,
+      "rank": 39,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 420356,
@@ -2217,14 +2265,6 @@
       "onboard_time": 1736112731,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 392745,
-      "num": 381708,
-      "word": "直击西藏救援现场",
-      "onboard_time": 1736242342,
-      "rank": 39,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 390634,
@@ -2587,6 +2627,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 327600,
+      "num": 327600,
+      "word": "什么剧第一集结婚第二集离婚",
+      "onboard_time": 1736252183,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 327460,
       "num": 327460,
       "word": "杨紫魏哲鸣国色芳华有感情戏",
@@ -2728,6 +2776,14 @@
       "word": "陈数蒋欣两剧共享1个林栋哲",
       "onboard_time": 1736231302,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 302063,
+      "num": 238985,
+      "word": "白鹿台词",
+      "onboard_time": 1736252544,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -3323,6 +3379,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 250391,
+      "num": 454287,
+      "word": "官方通报上午9点办事大厅空岗",
+      "onboard_time": 1736249242,
+      "rank": 45,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 249102,
       "num": 249102,
       "word": "GMM声明",
@@ -3473,6 +3537,14 @@
       "onboard_time": 1736123001,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 238876,
+      "num": 238876,
+      "word": "国色芳华热度",
+      "onboard_time": 1736253384,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 238212,
@@ -3787,6 +3859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219007,
+      "num": 218042,
+      "word": "国色芳华",
+      "onboard_time": 1736138846,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218986,
       "num": 218986,
       "word": "易烊千玺说接小小的我是闭眼冲",
@@ -3833,14 +3913,6 @@
       "onboard_time": 1736140525,
       "rank": 29,
       "category": "剧集,艺人"
-    },
-    {
-      "raw_hot": 217947,
-      "num": 217947,
-      "word": "国色芳华",
-      "onboard_time": 1736138846,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 217857,
@@ -3897,6 +3969,14 @@
       "onboard_time": 1736162483,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 215294,
+      "num": 215294,
+      "word": "赵丽颖法国巴黎巨幅地广",
+      "onboard_time": 1736252844,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 215098,
@@ -4177,6 +4257,14 @@
       "onboard_time": 1736089469,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 204772,
+      "num": 204772,
+      "word": "贝克汉姆二儿子带女友度假",
+      "onboard_time": 1736251582,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 204039,
@@ -4555,6 +4643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187753,
+      "num": 187753,
+      "word": "黄景瑜发长文告别冬至",
+      "onboard_time": 1736252484,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187588,
       "num": 210338,
       "word": "玛巴洛沙韦和奥司他韦有啥区别",
@@ -4689,6 +4785,14 @@
       "onboard_time": 1736233344,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179827,
+      "num": 179827,
+      "word": "健身网红朴胜贤去世",
+      "onboard_time": 1736253323,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 179267,
@@ -4899,6 +5003,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 170700,
+      "num": 170700,
+      "word": "代露娃 放开了美吧",
+      "onboard_time": 1736253205,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170480,
       "num": 170480,
       "word": "于正云包场白月梵星",
@@ -4984,6 +5096,14 @@
       "word": "张若昀把人生的真心给了范闲",
       "onboard_time": 1736050229,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 168488,
+      "num": 168488,
+      "word": "李昀锐回应跻身95流量生赛道",
+      "onboard_time": 1736251222,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -5203,6 +5323,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 161356,
+      "num": 161356,
+      "word": "国色芳华好有质感",
+      "onboard_time": 1736253684,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161347,
       "num": 183388,
       "word": "失联演员王星好友称警方已经立案",
@@ -5249,6 +5377,14 @@
       "onboard_time": 1736168843,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160430,
+      "num": 160430,
+      "word": "阿如那老师又来演混混了",
+      "onboard_time": 1736253564,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 160246,
@@ -5449,6 +5585,14 @@
       "onboard_time": 1736134763,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155254,
+      "num": 155254,
+      "word": "代露娃 萌系甜妹爆改暗黑妖君",
+      "onboard_time": 1736252665,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 154854,
@@ -5683,14 +5827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147767,
-      "num": 147767,
-      "word": "国色芳华开播",
-      "onboard_time": 1736249662,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 147759,
       "num": 147759,
       "word": "李昀锐说未来有可能出专辑",
@@ -5795,14 +5931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 142197,
-      "num": 142197,
-      "word": "官方通报上午9点办事大厅空岗",
-      "onboard_time": 1736249242,
-      "rank": 45,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 141717,
       "num": 141717,
       "word": "原神梦见月瑞希",
@@ -5859,6 +5987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140315,
+      "num": 140315,
+      "word": "华策影视云包场",
+      "onboard_time": 1736252784,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139728,
       "num": 139728,
       "word": "李泽言生日PV",
@@ -5873,6 +6009,14 @@
       "onboard_time": 1736088989,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 139516,
+      "num": 134476,
+      "word": "白鹿这段梦回时宜了",
+      "onboard_time": 1736251702,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 138268,
@@ -6044,7 +6188,7 @@
     },
     {
       "raw_hot": 134084,
-      "num": 1212820,
+      "num": 1377361,
       "word": "三部门紧急调拨2.2万件中央救灾物资",
       "onboard_time": 1736240544,
       "rank": 2,
@@ -6231,6 +6375,14 @@
       "num": 129050,
       "word": "张康乐 套马的汉子",
       "onboard_time": 1736218761,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 128996,
+      "num": 128996,
+      "word": "敖瑞鹏白月梵星妆造",
+      "onboard_time": 1736253444,
       "rank": 46,
       "category": "剧集"
     },
@@ -8667,6 +8819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30816,
+      "num": 239189,
+      "word": "张若昀微博之夜官宣海报",
+      "onboard_time": 1736253144,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 30736,
       "num": 690712,
       "word": "古画里的隆冬之美",
@@ -8881,6 +9041,14 @@
       "onboard_time": 1736188752,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 22819,
+      "num": 129119,
+      "word": "众星捐赠驰援西藏",
+      "onboard_time": 1736250802,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 22266,

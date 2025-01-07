@@ -1,0 +1,410 @@
+{
+  "runTime": 1736253829505,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5924568,
+        "num": 5924568,
+        "word": "王星成功获救",
+        "onboard_time": 1736252905,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1510468,
+        "num": 1510468,
+        "word": "98年民警抓患艾滋嫌犯受伤流血",
+        "onboard_time": 1736246782,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103415,
+        "num": 1377361,
+        "word": "三部门紧急调拨2.2万件中央救灾物资",
+        "onboard_time": 1736240544,
+        "rank": 2,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1273664,
+        "num": 1273664,
+        "word": "国色芳华开播",
+        "onboard_time": 1736249662,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1073311,
+        "num": 1073311,
+        "word": "北京下雪",
+        "onboard_time": 1736251762,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 776445,
+        "num": 776445,
+        "word": "西藏定日县地震已致95人遇难",
+        "onboard_time": 1736237362,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 992607,
+        "num": 702801,
+        "word": "4名中国演员侥幸逃脱泰国试戏骗局",
+        "onboard_time": 1736242523,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 561486,
+        "num": 561486,
+        "word": "曝五条人买衣服表演后退货",
+        "onboard_time": 1736247683,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 500953,
+        "num": 500953,
+        "word": "被骗到缅东小伙跳河逃生棉裤都没脱",
+        "onboard_time": 1736240722,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250391,
+        "num": 454287,
+        "word": "官方通报上午9点办事大厅空岗",
+        "onboard_time": 1736249242,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 2564312,
+        "num": 453287,
+        "word": "王星由警方护送比OK手势",
+        "onboard_time": 1736252905,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448441,
+        "num": 448441,
+        "word": "中广联演员委员会发布重要提示",
+        "onboard_time": 1736251042,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 420551,
+        "num": 420551,
+        "word": "直击西藏救援现场",
+        "onboard_time": 1736242342,
+        "rank": 12,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 330332,
+        "num": 330332,
+        "word": "多明星捐赠驰援西藏",
+        "onboard_time": 1736245463,
+        "rank": 13,
+        "category": "突发/灾害,艺人"
+      },
+      {
+        "raw_hot": 327600,
+        "num": 327600,
+        "word": "什么剧第一集结婚第二集离婚",
+        "onboard_time": 1736252183,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 833773,
+        "num": 304050,
+        "word": "泰国移民局已接到王星",
+        "onboard_time": 1736246362,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269189,
+        "num": 269189,
+        "word": "常州一月子中心被曝集体跑路",
+        "onboard_time": 1736243422,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252832,
+        "num": 252832,
+        "word": "苹果客服建议所有用户更新系统",
+        "onboard_time": 1736243542,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 239891,
+        "num": 239891,
+        "word": "西藏日喀则地震现场画面",
+        "onboard_time": 1736225904,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30816,
+        "num": 239189,
+        "word": "张若昀微博之夜官宣海报",
+        "onboard_time": 1736253144,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 302789,
+        "num": 239084,
+        "word": "国色芳华云包场",
+        "onboard_time": 1736245882,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302063,
+        "num": 238985,
+        "word": "白鹿台词",
+        "onboard_time": 1736252544,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238876,
+        "num": 238876,
+        "word": "国色芳华热度",
+        "onboard_time": 1736253384,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218594,
+        "num": 218594,
+        "word": "第一批解放军已抵达西藏震中",
+        "onboard_time": 1736229564,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 219007,
+        "num": 218042,
+        "word": "国色芳华",
+        "onboard_time": 1736225184,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215294,
+        "num": 215294,
+        "word": "赵丽颖法国巴黎巨幅地广",
+        "onboard_time": 1736252844,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204772,
+        "num": 204772,
+        "word": "贝克汉姆二儿子带女友度假",
+        "onboard_time": 1736251582,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187753,
+        "num": 187753,
+        "word": "黄景瑜发长文告别冬至",
+        "onboard_time": 1736252484,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187526,
+        "num": 187526,
+        "word": "朴世荣怀孕",
+        "onboard_time": 1736242822,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148055,
+        "num": 180235,
+        "word": "花70万上港大刚上了1年被清退",
+        "onboard_time": 1736248943,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179827,
+        "num": 179827,
+        "word": "健身网红朴胜贤去世",
+        "onboard_time": 1736253323,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 170700,
+        "num": 170700,
+        "word": "代露娃 放开了美吧",
+        "onboard_time": 1736253205,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168488,
+        "num": 168488,
+        "word": "李昀锐回应跻身95流量生赛道",
+        "onboard_time": 1736251222,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136383,
+        "num": 164771,
+        "word": "男子整本彩票匀出2张对方中了40万",
+        "onboard_time": 1736242342,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134202,
+        "num": 164272,
+        "word": "恋与深空秦彻抽卡爆率低",
+        "onboard_time": 1736247325,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163988,
+        "num": 163988,
+        "word": "赵樱子自曝被男顶流追求过",
+        "onboard_time": 1736225243,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161356,
+        "num": 161356,
+        "word": "国色芳华好有质感",
+        "onboard_time": 1736253684,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160430,
+        "num": 160430,
+        "word": "阿如那老师又来演混混了",
+        "onboard_time": 1736253564,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124301,
+        "num": 155383,
+        "word": "孙颖莎说这不会是她最后一届奥运",
+        "onboard_time": 1736248883,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118327,
+        "num": 155292,
+        "word": "郭敬明被冻结500万股权",
+        "onboard_time": 1736244384,
+        "rank": 39,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 155254,
+        "num": 155254,
+        "word": "代露娃 萌系甜妹爆改暗黑妖君",
+        "onboard_time": 1736252665,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140315,
+        "num": 140315,
+        "word": "华策影视云包场",
+        "onboard_time": 1736252784,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149606,
+        "num": 138639,
+        "word": "白月梵星",
+        "onboard_time": 1736244984,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136681,
+        "num": 136681,
+        "word": "肖战海报C位",
+        "onboard_time": 1736242762,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139516,
+        "num": 134476,
+        "word": "白鹿这段梦回时宜了",
+        "onboard_time": 1736251702,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22819,
+        "num": 129119,
+        "word": "众星捐赠驰援西藏",
+        "onboard_time": 1736250802,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128996,
+        "num": 128996,
+        "word": "敖瑞鹏白月梵星妆造",
+        "onboard_time": 1736253444,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128989,
+        "num": 128989,
+        "word": "大奉打更人",
+        "onboard_time": 1736253804,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116909,
+        "num": 116909,
+        "word": "西藏日喀则地震现场救援视频",
+        "onboard_time": 1736230822,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109731,
+        "num": 109731,
+        "word": "西藏地震",
+        "onboard_time": 1736212460,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对西藏定日县6.8级地震作出重要指示#"
+    }
+  }
+}
