@@ -1,6 +1,6 @@
 {
   "startTime": 1736180901032,
-  "endTime": 1736262532500,
+  "endTime": 1736263738929,
   "band_list": [
     {
       "raw_hot": 11656509,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1719937,
+      "num": 371493,
+      "word": "泰总理称男星失踪案极大影响旅游业",
+      "onboard_time": 1736262443,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1711336,
       "num": 1533594,
       "word": "西藏日喀则6.8级地震",
@@ -227,6 +235,14 @@
       "category": "国际时政,艺人"
     },
     {
+      "raw_hot": 1173665,
+      "num": 534422,
+      "word": "国色芳华 知否味",
+      "onboard_time": 1736261486,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1161063,
       "num": 1161063,
       "word": "微博之夜阵容",
@@ -283,20 +299,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 971208,
+      "num": 314647,
+      "word": "王星女友前往湄索与其见面",
+      "onboard_time": 1736261125,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 944114,
       "num": 944114,
       "word": "四川地震",
       "onboard_time": 1736236762,
       "rank": 5,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 927580,
-      "num": 314647,
-      "word": "王星女友前往湄索与其见面",
-      "onboard_time": 1736261125,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 917335,
@@ -435,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 661745,
+      "num": 661745,
+      "word": "王鹤棣在评论区开party",
+      "onboard_time": 1736261125,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 644132,
       "num": 644132,
       "word": "常州一月子中心被曝集体跑路",
@@ -457,14 +481,6 @@
       "onboard_time": 1736209640,
       "rank": 10,
       "category": "国际时政,互联网"
-    },
-    {
-      "raw_hot": 616983,
-      "num": 314491,
-      "word": "泰总理称男星失踪案极大影响旅游业",
-      "onboard_time": 1736262443,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 601226,
@@ -545,14 +561,6 @@
       "onboard_time": 1736258845,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 534422,
-      "num": 534422,
-      "word": "国色芳华 知否味",
-      "onboard_time": 1736261486,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 530790,
@@ -819,14 +827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 392103,
-      "num": 299109,
-      "word": "王鹤棣在评论区开party",
-      "onboard_time": 1736261125,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 386071,
       "num": 386071,
       "word": "过了腊八就是年",
@@ -899,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 346567,
+      "num": 346567,
+      "word": "迪丽热巴捐款驰援西藏",
+      "onboard_time": 1736261546,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 345347,
       "num": 345347,
       "word": "失联9天走出太白山男子恐面临截肢",
@@ -929,6 +937,14 @@
       "onboard_time": 1736242342,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 339465,
+      "num": 239881,
+      "word": "芳芳你美",
+      "onboard_time": 1736262324,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 335695,
@@ -977,6 +993,14 @@
       "onboard_time": 1736166262,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 324255,
+      "num": 439859,
+      "word": "贪官在家中设计夹层藏钱",
+      "onboard_time": 1736260044,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 318350,
@@ -1195,14 +1219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 266276,
-      "num": 221326,
-      "word": "芳芳你美",
-      "onboard_time": 1736262324,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 263545,
       "num": 263545,
       "word": "杨毅谈樊振东陈梦退世排",
@@ -1217,14 +1233,6 @@
       "onboard_time": 1736238562,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 261923,
-      "num": 261923,
-      "word": "贪官在家中设计夹层藏钱",
-      "onboard_time": 1736260044,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 259084,
@@ -1417,6 +1425,14 @@
       "onboard_time": 1736225365,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 229039,
+      "num": 229039,
+      "word": "林允儿李惠利合照",
+      "onboard_time": 1736263642,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 228837,
@@ -1707,14 +1723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203717,
-      "num": 299331,
-      "word": "迪丽热巴捐款驰援西藏",
-      "onboard_time": 1736261546,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 203462,
       "num": 255750,
       "word": "逆水寒",
@@ -1777,6 +1785,14 @@
       "onboard_time": 1736218641,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195179,
+      "num": 195179,
+      "word": "李现蒋长扬痞帅",
+      "onboard_time": 1736262623,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 193847,
@@ -1979,6 +1995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173150,
+      "num": 173150,
+      "word": "陈都灵说鞠婧祎美丽敬业",
+      "onboard_time": 1736262024,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172895,
       "num": 172895,
       "word": "田曦薇陈意涵新剧杀我别用友情刀",
@@ -2067,14 +2091,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 167406,
-      "num": 167406,
-      "word": "陈都灵说鞠婧祎美丽敬业",
-      "onboard_time": 1736262024,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 166690,
       "num": 166690,
       "word": "肖战谈自己五年间的变化",
@@ -2107,20 +2123,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164253,
+      "num": 164253,
+      "word": "马柏全张康乐采访",
+      "onboard_time": 1736262443,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163614,
       "num": 247983,
       "word": "刘浩存白衬衫好A",
       "onboard_time": 1736220921,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 163096,
-      "num": 163096,
-      "word": "马柏全张康乐采访",
-      "onboard_time": 1736262443,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 162374,
@@ -2268,7 +2284,7 @@
     },
     {
       "raw_hot": 154139,
-      "num": 154139,
+      "num": 173828,
       "word": "檀健次捐赠驰援西藏",
       "onboard_time": 1736260764,
       "rank": 41,
@@ -2425,6 +2441,14 @@
       "onboard_time": 1736219781,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 137135,
+      "num": 313340,
+      "word": "孙志刚新型腐败被抓过程曝光",
+      "onboard_time": 1736261486,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134428,
@@ -2588,7 +2612,7 @@
     },
     {
       "raw_hot": 123223,
-      "num": 147700,
+      "num": 235877,
       "word": "周启豪因伤退赛",
       "onboard_time": 1736261065,
       "rank": 46,
@@ -2603,12 +2627,12 @@
       "category": "互联网,幽默"
     },
     {
-      "raw_hot": 120132,
-      "num": 313340,
-      "word": "孙志刚新型腐败被抓过程曝光",
-      "onboard_time": 1736261486,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 120427,
+      "num": 140330,
+      "word": "红石驰援西藏地震",
+      "onboard_time": 1736263642,
+      "rank": 46,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 118018,
@@ -2665,6 +2689,14 @@
       "onboard_time": 1736178321,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 111293,
+      "num": 140324,
+      "word": "白鹿妆造",
+      "onboard_time": 1736258545,
+      "rank": 48,
+      "category": "剧集,美妆"
     },
     {
       "raw_hot": 107849,
@@ -2737,6 +2769,22 @@
       "onboard_time": 1736210240,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 105245,
+      "num": 140318,
+      "word": "西藏地震后第一个夜晚",
+      "onboard_time": 1736263583,
+      "rank": 49,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 105046,
+      "num": 535305,
+      "word": "韩方首次确认失事客机遭遇鸟击",
+      "onboard_time": 1736262443,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 104744,
@@ -3443,14 +3491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26540,
-      "num": 535305,
-      "word": "韩方首次确认失事客机遭遇鸟击",
-      "onboard_time": 1736262443,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 26252,
       "num": 134413,
       "word": "孙颖莎说真正做到在每一板中抠分",
@@ -3685,6 +3725,9 @@
     },
     {
       "word": "#习近平对定日县6.8级地震作出重要指示#"
+    },
+    {
+      "word": "#习近平最新反腐部署#"
     }
   ]
 }
