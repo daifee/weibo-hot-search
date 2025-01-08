@@ -1,6 +1,6 @@
 {
   "startTime": 1736266474874,
-  "endTime": 1736300581311,
+  "endTime": 1736301570832,
   "band_list": [
     {
       "raw_hot": 3084192,
@@ -35,6 +35,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1633549,
+      "num": 204274,
+      "word": "女游客在泰国给大象洗澡被刺死",
+      "onboard_time": 1736300240,
+      "rank": 11,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1537363,
       "num": 203763,
       "word": "雅典娜",
@@ -57,14 +65,6 @@
       "onboard_time": 1736255365,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1123498,
-      "num": 204274,
-      "word": "女游客在泰国给大象洗澡被刺死",
-      "onboard_time": 1736300240,
-      "rank": 11,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 956058,
@@ -227,8 +227,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 291996,
-      "num": 291996,
+      "raw_hot": 315814,
+      "num": 200338,
+      "word": "三甲医院院长收了2亿多回扣",
+      "onboard_time": 1736297663,
+      "rank": 20,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 297876,
+      "num": 297876,
       "word": "翟欣欣涉嫌敲诈勒索案即将开庭",
       "onboard_time": 1736292557,
       "rank": 21,
@@ -241,14 +249,6 @@
       "onboard_time": 1736295922,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 279813,
-      "num": 200338,
-      "word": "三甲医院院长收了2亿多回扣",
-      "onboard_time": 1736297663,
-      "rank": 20,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 260258,
@@ -363,8 +363,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 169085,
-      "num": 169085,
+      "raw_hot": 170853,
+      "num": 170853,
       "word": "地震时你背同学往外冲的模样真帅",
       "onboard_time": 1736284750,
       "rank": 49,
@@ -483,6 +483,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 131277,
+      "num": 131277,
+      "word": "丁禹兮16年就给粉丝发了红包",
+      "onboard_time": 1736299880,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128915,
       "num": 324381,
       "word": "西藏震区夜晚气温或达零下十几度",
@@ -513,14 +521,6 @@
       "onboard_time": 1736292977,
       "rank": 31,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 118760,
-      "num": 118760,
-      "word": "丁禹兮16年就给粉丝发了红包",
-      "onboard_time": 1736299880,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 115950,
@@ -651,6 +651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 84739,
+      "num": 100528,
+      "word": "我到底在期待蒋长扬什么",
+      "onboard_time": 1736300600,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 84424,
       "num": 324472,
       "word": "孙志刚新型腐败被抓过程曝光",
@@ -667,12 +675,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 82080,
+      "num": 100395,
+      "word": "守望相助日喀则",
+      "onboard_time": 1736277013,
+      "rank": 19,
+      "category": "民生新闻,游戏"
+    },
+    {
       "raw_hot": 81674,
       "num": 324250,
       "word": "中广联演员委员会发布重要提示",
       "onboard_time": 1736251042,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81191,
+      "num": 100373,
+      "word": "守望先锋",
+      "onboard_time": 1736299042,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 80632,
@@ -683,20 +707,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 78696,
-      "num": 78696,
-      "word": "守望先锋",
-      "onboard_time": 1736299042,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 77043,
-      "num": 77043,
-      "word": "守望相助日喀则",
-      "onboard_time": 1736277013,
-      "rank": 19,
-      "category": "民生新闻,游戏"
+      "raw_hot": 78132,
+      "num": 100329,
+      "word": "小厨娘",
+      "onboard_time": 1736301440,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 76828,
@@ -707,6 +723,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 75985,
+      "num": 138998,
+      "word": "英雄联盟2025赛季影片",
+      "onboard_time": 1736299761,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 75054,
       "num": 75054,
       "word": "肠胃其实是情绪器官",
@@ -715,12 +739,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 74415,
-      "num": 74415,
-      "word": "英雄联盟2025赛季影片",
-      "onboard_time": 1736299761,
-      "rank": 48,
-      "category": "电竞"
+      "raw_hot": 72472,
+      "num": 100291,
+      "word": "罗云熙川渝春晚录制",
+      "onboard_time": 1736300720,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 69784,
@@ -761,6 +785,14 @@
       "onboard_time": 1736266522,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 59193,
+      "num": 119243,
+      "word": "你觉得人生是旷野还是轨道",
+      "onboard_time": 1736301020,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 58982,

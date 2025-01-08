@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/08 09:43:01
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/08 09:59:30
 </p>
 </blockquote>
 <p>
@@ -687,6 +687,12 @@ Ok 咱们线上（热度：2051932）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%B3%B0%E5%9B%BD%E7%BB%99%E5%A4%A7%E8%B1%A1%E6%B4%97%E6%BE%A1%E8%A2%AB%E5%88%BA%E6%AD%BB%23" target="weibo">
+女游客在泰国给大象洗澡被刺死（热度：1633549）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%AE%98%E7%BD%91%E7%AA%81%E7%84%B6%E9%99%8D%E4%BB%B7%23" target="weibo">
 苹果官网突然降价（热度：1630212）
 </a>
@@ -1199,12 +1205,6 @@ Ok 咱们线上（热度：2051932）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%8F%E6%88%91%E6%9D%A5%E6%97%B6%E4%B8%8D%E9%80%A2%E4%B8%81%23" target="weibo">
 偏我来时不逢丁（热度：1126166）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%B3%B0%E5%9B%BD%E7%BB%99%E5%A4%A7%E8%B1%A1%E6%B4%97%E6%BE%A1%E8%A2%AB%E5%88%BA%E6%AD%BB%23" target="weibo">
-女游客在泰国给大象洗澡被刺死（热度：1123498）
 </a>
 </li>
 

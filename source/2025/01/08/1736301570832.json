@@ -1,0 +1,410 @@
+{
+  "runTime": 1736301570832,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 753382,
+        "num": 1120541,
+        "word": "西藏定日县地震已致126人遇难",
+        "onboard_time": 1736259264,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 947671,
+        "num": 947671,
+        "word": "央视完整还原男子大连推妻坠海案",
+        "onboard_time": 1736293340,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37783,
+        "num": 547889,
+        "word": "加油日喀则",
+        "onboard_time": 1736242342,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 446439,
+        "num": 446439,
+        "word": "白鹿扛剧能力",
+        "onboard_time": 1736293820,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 412330,
+        "num": 412330,
+        "word": "19岁男生去世给4人留下生命礼物",
+        "onboard_time": 1736271434,
+        "rank": 4,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 375518,
+        "num": 375518,
+        "word": "西藏地震后第一个夜晚",
+        "onboard_time": 1736263583,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 297876,
+        "num": 297876,
+        "word": "翟欣欣涉嫌敲诈勒索案即将开庭",
+        "onboard_time": 1736292557,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280398,
+        "num": 280398,
+        "word": "我国人造太阳进度再刷新",
+        "onboard_time": 1736294661,
+        "rank": 7,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 271247,
+        "num": 271247,
+        "word": "浙江一家6口出游5人感染甲流",
+        "onboard_time": 1736266760,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183586,
+        "num": 183586,
+        "word": "国色芳华里到底有多少牡丹",
+        "onboard_time": 1736281030,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2895008,
+        "num": 182270,
+        "word": "王星称被关在有50个中国人的建筑里",
+        "onboard_time": 1736295803,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1633549,
+        "num": 181459,
+        "word": "女游客在泰国给大象洗澡被刺死",
+        "onboard_time": 1736300240,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1260292,
+        "num": 180097,
+        "word": "雅典娜",
+        "onboard_time": 1736299520,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 650482,
+        "num": 177868,
+        "word": "石悦",
+        "onboard_time": 1736295680,
+        "rank": 13,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 538321,
+        "num": 175773,
+        "word": "怀9胞胎女子减胎后或一胎不保",
+        "onboard_time": 1736293820,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1870494,
+        "num": 174537,
+        "word": "王星目前还不能离开泰国",
+        "onboard_time": 1736296521,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272313,
+        "num": 173384,
+        "word": "星星女友恳请大家减少近期肖像传播",
+        "onboard_time": 1736295922,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267505,
+        "num": 171004,
+        "word": "男子推妻坠海致死后跟民警演戏",
+        "onboard_time": 1736292977,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170853,
+        "num": 170853,
+        "word": "地震时你背同学往外冲的模样真帅",
+        "onboard_time": 1736284750,
+        "rank": 18,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 148064,
+        "num": 148064,
+        "word": "丁禹兮 善良战胜了i人的社恐",
+        "onboard_time": 1736256926,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315814,
+        "num": 146430,
+        "word": "三甲医院院长收了2亿多回扣",
+        "onboard_time": 1736297663,
+        "rank": 20,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 244405,
+        "num": 145461,
+        "word": "国色芳华 知否味",
+        "onboard_time": 1736261486,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168025,
+        "num": 144710,
+        "word": "王鹤棣捐款驰援西藏",
+        "onboard_time": 1736295500,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142367,
+        "num": 142367,
+        "word": "猫 人家被你绊倒啦",
+        "onboard_time": 1736294661,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75985,
+        "num": 138998,
+        "word": "英雄联盟2025赛季影片",
+        "onboard_time": 1736299761,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137955,
+        "num": 137955,
+        "word": "这样煮水喝预防甲流",
+        "onboard_time": 1736291717,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131277,
+        "num": 131277,
+        "word": "丁禹兮16年就给粉丝发了红包",
+        "onboard_time": 1736299880,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121899,
+        "num": 121899,
+        "word": "微博之夜阵容官宣",
+        "onboard_time": 1736254345,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103065,
+        "num": 120068,
+        "word": "韩红基金会捐赠名单",
+        "onboard_time": 1736258245,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59193,
+        "num": 119243,
+        "word": "你觉得人生是旷野还是轨道",
+        "onboard_time": 1736301020,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 118533,
+        "num": 118533,
+        "word": "一人一句为日喀则定日县加油",
+        "onboard_time": 1736292977,
+        "rank": 30,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 110646,
+        "num": 110646,
+        "word": "男子为还百万债务杀妻骗保",
+        "onboard_time": 1736264483,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112663,
+        "num": 110274,
+        "word": "定日县震中周边5年29次3级以上地震",
+        "onboard_time": 1736297962,
+        "rank": 32,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 107001,
+        "num": 107001,
+        "word": "北京下雪又是大力出奇迹",
+        "onboard_time": 1736293879,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104505,
+        "num": 104505,
+        "word": "震区这句金珠玛米亚古都很暖心",
+        "onboard_time": 1736295861,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 101820,
+        "num": 101820,
+        "word": "英伟达大跌6.22%",
+        "onboard_time": 1736293516,
+        "rank": 35,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 101168,
+        "num": 101168,
+        "word": "西藏地震",
+        "onboard_time": 1736212460,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100823,
+        "num": 100823,
+        "word": "98年民警抓患艾滋嫌犯受伤流血",
+        "onboard_time": 1736246782,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84739,
+        "num": 100528,
+        "word": "我到底在期待蒋长扬什么",
+        "onboard_time": 1736300600,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100440,
+        "num": 100440,
+        "word": "贪官用多个家人当受贿收款员",
+        "onboard_time": 1736298382,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96246,
+        "num": 100434,
+        "word": "国色芳华开播",
+        "onboard_time": 1736249662,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87208,
+        "num": 100414,
+        "word": "王一博报名金像奖",
+        "onboard_time": 1736295080,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 84649,
+        "num": 100403,
+        "word": "肖思远弟弟荣立三等功",
+        "onboard_time": 1736289794,
+        "rank": 42,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 82080,
+        "num": 100395,
+        "word": "守望相助日喀则",
+        "onboard_time": 1736277013,
+        "rank": 43,
+        "category": "民生新闻,游戏"
+      },
+      {
+        "raw_hot": 81191,
+        "num": 100373,
+        "word": "守望先锋",
+        "onboard_time": 1736299042,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 79138,
+        "num": 100360,
+        "word": "芳芳你美",
+        "onboard_time": 1736262324,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78261,
+        "num": 100344,
+        "word": "贪官在家中设计夹层藏钱",
+        "onboard_time": 1736260044,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78132,
+        "num": 100329,
+        "word": "小厨娘",
+        "onboard_time": 1736301440,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 72590,
+        "num": 100313,
+        "word": "央行继续买金",
+        "onboard_time": 1736268138,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 72472,
+        "num": 100291,
+        "word": "罗云熙川渝春晚录制",
+        "onboard_time": 1736300720,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平最新反腐部署#"
+    }
+  }
+}
