@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/09 07:21:09
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/09 07:35:44
 </p>
 </blockquote>
 <p>
@@ -5367,6 +5367,12 @@ A股新变化（热度：355023）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%93%E6%8D%95%E6%82%A3%E8%89%BE%E6%BB%8B%E5%AB%8C%E7%8A%AF%E6%B5%81%E8%A1%80%E6%B0%91%E8%AD%A6HIV%E6%A3%80%E6%B5%8B%E9%98%B4%E6%80%A7%23" target="weibo">
+抓捕患艾滋嫌犯流血民警HIV检测阴性（热度：346628）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%E7%94%9F%E5%9B%BE%23" target="weibo">
 李昀锐生图（热度：346084）
 </a>
@@ -6005,12 +6011,6 @@ NINEPERCENT真快给吴宣仪集齐了（热度：312365）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%9B%9E%E5%BA%94%E6%B7%B1%E5%A4%A7%E5%B9%BC%E5%84%BF%E5%9B%AD%E7%A7%B0%E5%8F%B7%23" target="weibo">
 孙颖莎回应深大幼儿园称号（热度：305493）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B5%B7%E6%B6%9B%E5%90%B4%E6%98%95%E4%B8%BB%E6%8C%81%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F%23" target="weibo">
-杜海涛吴昕主持星光大赏（热度：305264）
 </a>
 </li>
 
