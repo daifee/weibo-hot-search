@@ -1,6 +1,6 @@
 {
   "startTime": 1736353721044,
-  "endTime": 1736375935441,
+  "endTime": 1736378469679,
   "band_list": [
     {
       "raw_hot": 1868815,
@@ -115,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 311214,
+      "num": 142696,
+      "word": "绑架星星的老板为广东籍",
+      "onboard_time": 1736338221,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 305739,
       "num": 305739,
       "word": "微博之夜最后一波阵容",
@@ -152,6 +160,22 @@
       "word": "经纪人揭秘泰国进组拍戏骗局",
       "onboard_time": 1736349384,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233189,
+      "num": 233189,
+      "word": "得了甲流可以自愈吗",
+      "onboard_time": 1736353879,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 224819,
+      "num": 88121,
+      "word": "将女友装行礼箱带进宿舍张兴亮被禁赛",
+      "onboard_time": 1736360473,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -251,6 +275,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 139813,
+      "num": 139813,
+      "word": "抓捕患艾滋嫌犯流血民警HIV检测阴性",
+      "onboard_time": 1736373431,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139285,
+      "num": 139285,
+      "word": "月子中心跑路新手宝妈手足无措",
+      "onboard_time": 1736371031,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138705,
       "num": 138705,
       "word": "刘亦菲安妮海瑟薇又同框了",
@@ -259,36 +299,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 138481,
-      "num": 95858,
-      "word": "绑架星星的老板为广东籍",
-      "onboard_time": 1736338221,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 137489,
       "num": 137489,
       "word": "张康乐的富士",
       "onboard_time": 1736351782,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 130203,
-      "num": 130203,
-      "word": "得了甲流可以自愈吗",
-      "onboard_time": 1736353879,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 128054,
-      "num": 56164,
-      "word": "将女友装行礼箱带进宿舍张兴亮被禁赛",
-      "onboard_time": 1736360473,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124482,
@@ -371,12 +387,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 84817,
-      "num": 84817,
-      "word": "月子中心跑路新手宝妈手足无措",
-      "onboard_time": 1736371031,
-      "rank": 24,
+      "raw_hot": 85953,
+      "num": 85953,
+      "word": "贪官心甘情愿被保姆式围猎",
+      "onboard_time": 1736369831,
+      "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84996,
+      "num": 63712,
+      "word": "CBA球员张兴亮被禁赛",
+      "onboard_time": 1736364551,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 84765,
@@ -409,6 +433,14 @@
       "onboard_time": 1736346143,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 80171,
+      "num": 80171,
+      "word": "刘亦菲宝格丽晚宴怼脸生图",
+      "onboard_time": 1736373431,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 79954,
@@ -451,12 +483,28 @@
       "category": "美食"
     },
     {
-      "raw_hot": 69360,
-      "num": 69360,
-      "word": "贪官心甘情愿被保姆式围猎",
-      "onboard_time": 1736369831,
-      "rank": 16,
-      "category": "民生新闻"
+      "raw_hot": 73482,
+      "num": 90270,
+      "word": "加州野火多位好莱坞明星豪宅被烧",
+      "onboard_time": 1736359153,
+      "rank": 9,
+      "category": "海外新闻,艺人"
+    },
+    {
+      "raw_hot": 73323,
+      "num": 73323,
+      "word": "法国外长警告特朗普",
+      "onboard_time": 1736362753,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 67125,
+      "num": 85984,
+      "word": "泰国表示已采取措施保证旅客安全",
+      "onboard_time": 1736377035,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 64597,
@@ -467,36 +515,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 55857,
-      "num": 55857,
-      "word": "抓捕患艾滋嫌犯流血民警HIV检测阴性",
-      "onboard_time": 1736373431,
-      "rank": 30,
+      "raw_hot": 64221,
+      "num": 64221,
+      "word": "2025以旧换新补贴范围更广力度更大",
+      "onboard_time": 1736375834,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 51994,
-      "num": 44725,
-      "word": "CBA球员张兴亮被禁赛",
-      "onboard_time": 1736364551,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 58698,
+      "num": 58698,
+      "word": "王一博画布勾勒世界",
+      "onboard_time": 1736377995,
+      "rank": 36,
+      "category": "艺人"
     },
     {
-      "raw_hot": 50789,
-      "num": 90270,
-      "word": "加州野火多位好莱坞明星豪宅被烧",
-      "onboard_time": 1736359153,
+      "raw_hot": 47133,
+      "num": 56864,
+      "word": "专家发今天阳光明媚竟是欢迎围猎暗号",
+      "onboard_time": 1736362692,
       "rank": 9,
-      "category": "海外新闻,艺人"
-    },
-    {
-      "raw_hot": 44319,
-      "num": 44319,
-      "word": "法国外长警告特朗普",
-      "onboard_time": 1736362753,
-      "rank": 33,
-      "category": "国际时政"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40945,
@@ -507,20 +547,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 39316,
+      "num": 50995,
+      "word": "张兴亮被禁赛",
+      "onboard_time": 1736338641,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38242,
       "num": 184333,
       "word": "姚晨官宣2024微博之夜",
       "onboard_time": 1736352979,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 38239,
-      "num": 45860,
-      "word": "刘亦菲宝格丽晚宴怼脸生图",
-      "onboard_time": 1736373431,
-      "rank": 29,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 37995,
@@ -537,14 +577,6 @@
       "onboard_time": 1736359873,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 35301,
-      "num": 56864,
-      "word": "专家发今天阳光明媚竟是欢迎围猎暗号",
-      "onboard_time": 1736362692,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30471,
@@ -648,14 +680,6 @@
       "word": "参加以旧换新有哪些实打实的好处",
       "onboard_time": 1736368631,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8614,
-      "num": 48637,
-      "word": "2025以旧换新补贴范围更广力度更大",
-      "onboard_time": 1736375834,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
