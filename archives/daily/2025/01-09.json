@@ -1,6 +1,6 @@
 {
   "startTime": 1736353721044,
-  "endTime": 1736361838101,
+  "endTime": 1736363881265,
   "band_list": [
     {
       "raw_hot": 1868815,
@@ -435,6 +435,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 65737,
+      "num": 39816,
+      "word": "将女友装行礼箱带进宿舍张兴亮被禁赛",
+      "onboard_time": 1736360473,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64597,
       "num": 722187,
       "word": "西藏震区已由紧急救援转为安置阶段",
@@ -443,15 +451,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 57289,
-      "num": 39816,
-      "word": "将女友装行礼箱带进宿舍张兴亮被禁赛",
-      "onboard_time": 1736360473,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43762,
+      "raw_hot": 50789,
       "num": 90270,
       "word": "加州野火多位好莱坞明星豪宅被烧",
       "onboard_time": 1736359153,
@@ -491,6 +491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 30471,
+      "num": 44192,
+      "word": "孙述涛为捞取政绩给GDP狂注水",
+      "onboard_time": 1736359033,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30178,
       "num": 30178,
       "word": "林俊杰 期待与大家共创FINALLAP最独特的回忆",
@@ -507,12 +515,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14261,
-      "num": 44192,
-      "word": "孙述涛为捞取政绩给GDP狂注水",
-      "onboard_time": 1736359033,
-      "rank": 19,
+      "raw_hot": 28371,
+      "num": 28371,
+      "word": "法国外长警告特朗普",
+      "onboard_time": 1736362753,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 28040,
+      "num": 56864,
+      "word": "专家发今天阳光明媚竟是欢迎围猎暗号",
+      "onboard_time": 1736362692,
+      "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25280,
+      "num": 25280,
+      "word": "孟子义娇俏黑天鹅",
+      "onboard_time": 1736362753,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 6903,
