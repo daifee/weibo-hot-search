@@ -1,0 +1,410 @@
+{
+  "runTime": 1736349858194,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1185412,
+        "num": 1189665,
+        "word": "刘畅 人设",
+        "onboard_time": 1736343143,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1155442,
+        "num": 1155442,
+        "word": "是谁在骗中国人去缅北",
+        "onboard_time": 1736341042,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 98266,
+        "num": 695075,
+        "word": "西藏震区已由紧急救援转为安置阶段",
+        "onboard_time": 1736342003,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 685529,
+        "num": 685529,
+        "word": "辛雨锡起诉秦霄贤姐姐",
+        "onboard_time": 1736344764,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 671690,
+        "num": 671690,
+        "word": "南京胖哥妻子怀孕了",
+        "onboard_time": 1736341523,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 564343,
+        "num": 564343,
+        "word": "医院回应女厕所安装透明落地窗",
+        "onboard_time": 1736343262,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 680812,
+        "num": 557178,
+        "word": "宝格丽大合照",
+        "onboard_time": 1736345363,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 620123,
+        "num": 551395,
+        "word": "微博之夜最后一波阵容",
+        "onboard_time": 1736345423,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 518086,
+        "num": 518086,
+        "word": "江苏确诊一例罕见传染病",
+        "onboard_time": 1736318060,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65110,
+        "num": 494250,
+        "word": "西藏震区提醒不要自行前往救灾",
+        "onboard_time": 1736348604,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2609757,
+        "num": 493914,
+        "word": "王星到园区第一天就挨了打",
+        "onboard_time": 1736340143,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 563994,
+        "num": 493836,
+        "word": "李昀锐销冠的决心",
+        "onboard_time": 1736348963,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 492244,
+        "num": 492244,
+        "word": "刘畅家暴",
+        "onboard_time": 1736349083,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 484667,
+        "num": 484667,
+        "word": "妙瓦底电诈园区的背后",
+        "onboard_time": 1736346624,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 453216,
+        "num": 453216,
+        "word": "西藏捐款",
+        "onboard_time": 1736344524,
+        "rank": 14,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 2463207,
+        "num": 445794,
+        "word": "王星称在缅甸吃不饱没时间如厕",
+        "onboard_time": 1736349323,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431709,
+        "num": 431709,
+        "word": "地震被压废墟下戴帽小孩是AI生成",
+        "onboard_time": 1736336541,
+        "rank": 16,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 46817,
+        "num": 428254,
+        "word": "别忘了隐秘角落里更多的电诈受害者",
+        "onboard_time": 1736348662,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55734,
+        "num": 427788,
+        "word": "经纪人揭秘泰国进组拍戏骗局",
+        "onboard_time": 1736349384,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35070,
+        "num": 427769,
+        "word": "太原试点新规对物业不满意就换",
+        "onboard_time": 1736348846,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 427750,
+        "num": 427750,
+        "word": "王一博肖战都去微博之夜",
+        "onboard_time": 1736349684,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 379453,
+        "num": 379453,
+        "word": "工资8000一年攒下72000",
+        "onboard_time": 1736319141,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 329186,
+        "num": 329186,
+        "word": "芒果认证国色芳华是爆剧",
+        "onboard_time": 1736342183,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8916,
+        "num": 304144,
+        "word": "十个勤天微博年度喜爱演出第一",
+        "onboard_time": 1736349743,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 85188,
+        "num": 297811,
+        "word": "许昕捐赠驰援西藏",
+        "onboard_time": 1736346204,
+        "rank": 24,
+        "category": "体育,突发/灾害"
+      },
+      {
+        "raw_hot": 294087,
+        "num": 294087,
+        "word": "男子被绑至缅甸称拉5人才能出去",
+        "onboard_time": 1736345724,
+        "rank": 25,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 304320,
+        "num": 286383,
+        "word": "孟子义宝格丽晚宴造型",
+        "onboard_time": 1736345363,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 266846,
+        "num": 266846,
+        "word": "刘亦菲安妮海瑟薇又同框了",
+        "onboard_time": 1736343262,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 255530,
+        "num": 255530,
+        "word": "敖瑞鹏上桌了",
+        "onboard_time": 1736347163,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252772,
+        "num": 252772,
+        "word": "两只狗发疯咬人致十余人被咬",
+        "onboard_time": 1736342123,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176314,
+        "num": 226335,
+        "word": "王一博方确认参加微博之夜",
+        "onboard_time": 1736348425,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 377659,
+        "num": 224383,
+        "word": "昀牵孟绕",
+        "onboard_time": 1736338701,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 528348,
+        "num": 222256,
+        "word": "刘亦菲青蛇白蛇",
+        "onboard_time": 1736338462,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 217408,
+        "num": 217408,
+        "word": "赛场发光体 王楚钦",
+        "onboard_time": 1736347463,
+        "rank": 33,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 207018,
+        "num": 207018,
+        "word": "可持续5年的猫贷谁在买单",
+        "onboard_time": 1736347583,
+        "rank": 34,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 191638,
+        "num": 191638,
+        "word": "曾资助刘强东5毛钱上大学老人发声",
+        "onboard_time": 1736320220,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185043,
+        "num": 185043,
+        "word": "男子给15万彩礼1个月后被分手",
+        "onboard_time": 1736340863,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173640,
+        "num": 173640,
+        "word": "星星预计1至2天可返回中国",
+        "onboard_time": 1736318782,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172411,
+        "num": 172411,
+        "word": "杨洋黑粉P遗照终审败诉",
+        "onboard_time": 1736343985,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170885,
+        "num": 170885,
+        "word": "魏哲鸣 人生角色",
+        "onboard_time": 1736349623,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161637,
+        "num": 161637,
+        "word": "国色芳华会是下一个爆剧吗",
+        "onboard_time": 1736330841,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168673,
+        "num": 158590,
+        "word": "花鸟使",
+        "onboard_time": 1736348363,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98372,
+        "num": 156611,
+        "word": "特朗普希望半年内结束俄乌冲突",
+        "onboard_time": 1736347763,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155220,
+        "num": 155220,
+        "word": "秦彻爆率",
+        "onboard_time": 1736346143,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153435,
+        "num": 153435,
+        "word": "Jennie最新滑雪照",
+        "onboard_time": 1736343563,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137024,
+        "num": 137024,
+        "word": "和张康乐马柏全视频通话了",
+        "onboard_time": 1736349265,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126635,
+        "num": 126635,
+        "word": "湘大宿舍投毒案背后的寝室关系",
+        "onboard_time": 1736342663,
+        "rank": 46,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 126082,
+        "num": 126082,
+        "word": "张若昀魏晨 已婚男人的自觉",
+        "onboard_time": 1736321783,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123498,
+        "num": 123498,
+        "word": "西藏定日县地震已致126人遇难",
+        "onboard_time": 1736259264,
+        "rank": 48,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 113369,
+        "num": 113369,
+        "word": "CBA",
+        "onboard_time": 1736347103,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届中央纪委四次全会公报#"
+    }
+  }
+}

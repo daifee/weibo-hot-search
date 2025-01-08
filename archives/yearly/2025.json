@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736347181674,
+  "endTime": 1736349858194,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -441,6 +441,14 @@
       "onboard_time": 1736337861,
       "rank": 3,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 2463207,
+      "num": 445794,
+      "word": "王星称在缅甸吃不饱没时间如厕",
+      "onboard_time": 1736349323,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 2458918,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736218641,
       "rank": 4,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 915869,
-      "num": 865770,
-      "word": "虞书欣跨年甜辣风舞台",
-      "onboard_time": 1735649907,
-      "rank": 9,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
