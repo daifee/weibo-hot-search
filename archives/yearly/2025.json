@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736332801795,
+  "endTime": 1736335151674,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1123,6 +1123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1528051,
+      "num": 1064757,
+      "word": "被骗缅北小伙称被发现报警基本九死一生",
+      "onboard_time": 1736318421,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1522027,
       "num": 885838,
       "word": "胖东来员工结婚无力购置房车可先租房",
@@ -1376,6 +1384,14 @@
       "word": "演员星星",
       "onboard_time": 1736120838,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1317549,
+      "num": 471522,
+      "word": "知情人否认电诈园区收200万放走王星",
+      "onboard_time": 1736332042,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -1841,14 +1857,6 @@
       "onboard_time": 1736253985,
       "rank": 12,
       "category": "读书作家,作品衍生"
-    },
-    {
-      "raw_hot": 1064757,
-      "num": 1064757,
-      "word": "被骗缅北小伙称被发现报警基本九死一生",
-      "onboard_time": 1736318421,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1063103,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736035462,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 879247,
-      "num": 879247,
-      "word": "鞠婧祎 行走的CD",
-      "onboard_time": 1735660407,
-      "rank": 12,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

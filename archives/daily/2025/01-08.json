@@ -1,6 +1,6 @@
 {
   "startTime": 1736266474874,
-  "endTime": 1736332801795,
+  "endTime": 1736335151674,
   "band_list": [
     {
       "raw_hot": 4591252,
@@ -139,6 +139,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1528051,
+      "num": 1064757,
+      "word": "被骗缅北小伙称被发现报警基本九死一生",
+      "onboard_time": 1736318421,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1377075,
       "num": 1217880,
       "word": "手机价格不超6000元可获补贴",
@@ -161,6 +169,14 @@
       "onboard_time": 1736306421,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1317549,
+      "num": 471522,
+      "word": "知情人否认电诈园区收200万放走王星",
+      "onboard_time": 1736332042,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 1240920,
@@ -209,14 +225,6 @@
       "onboard_time": 1736306900,
       "rank": 24,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 1064757,
-      "num": 1064757,
-      "word": "被骗缅北小伙称被发现报警基本九死一生",
-      "onboard_time": 1736318421,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1062841,
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 768630,
-      "num": 768630,
+      "num": 1103693,
       "word": "国色芳华会是下一个爆剧吗",
       "onboard_time": 1736330841,
       "rank": 9,
@@ -539,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 490136,
+      "num": 480986,
+      "word": "白月梵星播放量超1000万",
+      "onboard_time": 1736331382,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 485226,
       "num": 485226,
       "word": "去年买过的产品今年再买还能享受补贴",
@@ -561,6 +577,14 @@
       "onboard_time": 1736293820,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 453198,
+      "num": 524619,
+      "word": "重庆一区委书记号召干部带头消费",
+      "onboard_time": 1736328742,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 451988,
@@ -723,14 +747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 345215,
-      "num": 471522,
-      "word": "知情人否认电诈园区收200万放走王星",
-      "onboard_time": 1736332042,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 343076,
       "num": 351511,
       "word": "震后第一个清晨受灾群众吃上热呼早餐",
@@ -809,6 +825,14 @@
       "onboard_time": 1736319321,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 303578,
+      "num": 253897,
+      "word": "女子凌晨突发失语用敲击声求助120",
+      "onboard_time": 1736332941,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 303309,
@@ -923,6 +947,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 263534,
+      "num": 253735,
+      "word": "肖战西西里岛大片",
+      "onboard_time": 1736334321,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 262587,
       "num": 834833,
       "word": "日喀则我们在一起",
@@ -979,20 +1011,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 247621,
-      "num": 480986,
-      "word": "白月梵星播放量超1000万",
-      "onboard_time": 1736331382,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 246963,
       "num": 246963,
       "word": "胖东来员工平均月收入超9000元",
       "onboard_time": 1736324361,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 244631,
+      "num": 244631,
+      "word": "高考状元离开应试教育的20年",
+      "onboard_time": 1736330601,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 243918,
@@ -1067,14 +1099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 221298,
-      "num": 524619,
-      "word": "重庆一区委书记号召干部带头消费",
-      "onboard_time": 1736328742,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 216366,
       "num": 149024,
       "word": "演员从2米多高跷摔下众人飞奔护头",
@@ -1099,6 +1123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215310,
+      "num": 215310,
+      "word": "无畏契约",
+      "onboard_time": 1736333722,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 213364,
       "num": 334453,
       "word": "王一博用演技赋予角色生命力",
@@ -1121,6 +1153,14 @@
       "onboard_time": 1736312662,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211164,
+      "num": 211164,
+      "word": "大奉打更人片尾居然没这个人",
+      "onboard_time": 1736331021,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 208616,
@@ -1291,14 +1331,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 192216,
-      "num": 192216,
-      "word": "大奉打更人片尾居然没这个人",
-      "onboard_time": 1736331021,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 192011,
       "num": 305439,
       "word": "杨幂捐赠驰援灾区",
@@ -1321,6 +1353,14 @@
       "onboard_time": 1736306540,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190017,
+      "num": 190017,
+      "word": "安宥真张元英出演youquiz",
+      "onboard_time": 1736334621,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 189644,
@@ -1371,6 +1411,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 186251,
+      "num": 186251,
+      "word": "TF家族2025新年音乐会热爱",
+      "onboard_time": 1736334561,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 185557,
       "num": 366355,
       "word": "八宝粥怎么成了减脂餐平替",
@@ -1417,6 +1465,14 @@
       "onboard_time": 1736309063,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 180384,
+      "num": 244716,
+      "word": "孙颖莎16岁空降世排第十仅用21天",
+      "onboard_time": 1736333360,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 179838,
@@ -1497,6 +1553,14 @@
       "onboard_time": 1736284750,
       "rank": 49,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 170682,
+      "num": 170682,
+      "word": "看5集白月梵星半包纸没了",
+      "onboard_time": 1736334680,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 168349,
@@ -1587,12 +1651,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156039,
+      "num": 244657,
+      "word": "国色芳华顾问从事牡丹培育40年",
+      "onboard_time": 1736333302,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154709,
       "num": 325166,
       "word": "国色芳华实时热度",
       "onboard_time": 1736261305,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154332,
+      "num": 154332,
+      "word": "王楚钦为西藏灾区捐赠",
+      "onboard_time": 1736333602,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 153289,
@@ -1617,6 +1697,14 @@
       "onboard_time": 1736313804,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151379,
+      "num": 364770,
+      "word": "二十届中央纪委四次全会公报",
+      "onboard_time": 1736334262,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 150320,
@@ -1713,14 +1801,6 @@
       "onboard_time": 1736308882,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 144990,
-      "num": 144990,
-      "word": "高考状元离开应试教育的20年",
-      "onboard_time": 1736330601,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 143834,
@@ -1905,6 +1985,14 @@
       "onboard_time": 1736324001,
       "rank": 9,
       "category": "民生新闻,电影"
+    },
+    {
+      "raw_hot": 118575,
+      "num": 118575,
+      "word": "白月梵星爱奇艺热度破8000",
+      "onboard_time": 1736335100,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 118278,
@@ -2539,6 +2627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 46957,
+      "num": 213421,
+      "word": "演员于和伟有新身份",
+      "onboard_time": 1736334802,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 46862,
       "num": 218943,
       "word": "梁王组合挺进16强",
@@ -2672,6 +2768,14 @@
       "word": "微博年度喜爱音乐Top3",
       "onboard_time": 1736318421,
       "rank": 19,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 29290,
+      "num": 260860,
+      "word": "华晨宇微博年度喜爱演出",
+      "onboard_time": 1736331861,
+      "rank": 18,
       "category": "作品衍生"
     },
     {
