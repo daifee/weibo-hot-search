@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736349858194,
+  "endTime": 1736350718461,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -379,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2738765,
+      "num": 445794,
+      "word": "王星称在缅甸吃不饱没时间如厕",
+      "onboard_time": 1736349323,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2651426,
       "num": 2651426,
       "word": "警方捣毁绑架王星案涉案公司",
@@ -441,14 +449,6 @@
       "onboard_time": 1736337861,
       "rank": 3,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 2463207,
-      "num": 445794,
-      "word": "王星称在缅甸吃不饱没时间如厕",
-      "onboard_time": 1736349323,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 2458918,
@@ -1411,6 +1411,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1338520,
+      "num": 1338520,
+      "word": "刘畅家暴",
+      "onboard_time": 1736349083,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1337618,
+      "num": 1337618,
+      "word": "是谁在骗中国人去缅北",
+      "onboard_time": 1736341042,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1336088,
       "num": 5435205,
       "word": "低于这个价格可能买不到真羽绒",
@@ -1673,14 +1689,6 @@
       "onboard_time": 1736134701,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1202338,
-      "num": 1202338,
-      "word": "是谁在骗中国人去缅北",
-      "onboard_time": 1736341042,
-      "rank": 29,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 1196710,
@@ -2043,6 +2051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1008681,
+      "num": 1008681,
+      "word": "王一博肖战都去微博之夜",
+      "onboard_time": 1736349684,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1008575,
       "num": 3584109,
       "word": "于正谈年轻时被不公平对待",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1735819702,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 918107,
-      "num": 918107,
-      "word": "是片酬低才有钱做特效吗",
-      "onboard_time": 1735893919,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 917335,
-      "num": 917335,
-      "word": "定日县地震已有人员遇难",
-      "onboard_time": 1736218641,
-      "rank": 4,
-      "category": "突发/灾害"
     }
   ],
   "hotgov_list": [
