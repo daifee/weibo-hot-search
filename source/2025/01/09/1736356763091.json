@@ -1,0 +1,410 @@
+{
+  "runTime": 1736356763091,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1192254,
+        "num": 1192254,
+        "word": "被颜十六骗去泰国的灯光师还没回来",
+        "onboard_time": 1736352382,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 598710,
+        "num": 598710,
+        "word": "174名家属填写缅甸被困人员信息文档",
+        "onboard_time": 1736351719,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41862,
+        "num": 462021,
+        "word": "西藏震区已由紧急救援转为安置阶段",
+        "onboard_time": 1736342003,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403603,
+        "num": 403603,
+        "word": "是谁在骗中国人去缅北",
+        "onboard_time": 1736341042,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 361909,
+        "num": 361909,
+        "word": "男子被拐至缅甸给妻子发暗号求助",
+        "onboard_time": 1736351600,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332698,
+        "num": 332698,
+        "word": "男子去泰国代购赚钱被绑到缅甸",
+        "onboard_time": 1736354237,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332512,
+        "num": 332512,
+        "word": "情侣洗完澡双双中毒房东称晕堂",
+        "onboard_time": 1736350223,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254834,
+        "num": 254834,
+        "word": "国色芳华刘畅家暴",
+        "onboard_time": 1736349083,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215713,
+        "num": 215713,
+        "word": "女子弟弟被绑到缅甸对方要10万元赎金",
+        "onboard_time": 1736351122,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63706,
+        "num": 215075,
+        "word": "特朗普计划就职后见普京",
+        "onboard_time": 1736350762,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 942348,
+        "num": 215053,
+        "word": "王星称在缅甸吃不饱没时间如厕",
+        "onboard_time": 1736349323,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 588204,
+        "num": 214995,
+        "word": "律师称收到刘强东红包的乡亲需缴税",
+        "onboard_time": 1736350821,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 214921,
+        "num": 214921,
+        "word": "妙瓦底电诈园区的背后",
+        "onboard_time": 1736346624,
+        "rank": 12,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 207315,
+        "num": 207315,
+        "word": "李昀锐销冠的决心",
+        "onboard_time": 1736348963,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 169475,
+        "num": 169475,
+        "word": "宝格丽大合照",
+        "onboard_time": 1736345363,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 712318,
+        "num": 168346,
+        "word": "王星到园区第一天就挨了打",
+        "onboard_time": 1736340143,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159028,
+        "num": 159028,
+        "word": "辛雨锡起诉秦霄贤姐姐",
+        "onboard_time": 1736344764,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154033,
+        "num": 154033,
+        "word": "桐心薇泯",
+        "onboard_time": 1736352741,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127982,
+        "num": 127982,
+        "word": "男子在家洗手竟被电出个窟窿",
+        "onboard_time": 1736349863,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119252,
+        "num": 119252,
+        "word": "南京胖哥妻子怀孕了",
+        "onboard_time": 1736341523,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139963,
+        "num": 117316,
+        "word": "超两千玩家投诉恋与深空爆率欺诈",
+        "onboard_time": 1736353819,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124562,
+        "num": 114581,
+        "word": "微博之夜最后一波阵容",
+        "onboard_time": 1736345423,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111824,
+        "num": 111824,
+        "word": "王楚钦赛场发光体",
+        "onboard_time": 1736355496,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111687,
+        "num": 111687,
+        "word": "地震被压废墟下戴帽小孩是AI生成",
+        "onboard_time": 1736336541,
+        "rank": 23,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 111187,
+        "num": 111187,
+        "word": "工资8000一年攒下72000",
+        "onboard_time": 1736319141,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105820,
+        "num": 105820,
+        "word": "张康乐的富士",
+        "onboard_time": 1736351782,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95858,
+        "num": 95858,
+        "word": "绑架星星的老板为广东籍",
+        "onboard_time": 1736338221,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94854,
+        "num": 94854,
+        "word": "孟子义李昀锐七字真言",
+        "onboard_time": 1736349922,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 87908,
+        "num": 87908,
+        "word": "经纪人揭秘泰国进组拍戏骗局",
+        "onboard_time": 1736349384,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85711,
+        "num": 85711,
+        "word": "魏哲鸣 人生角色",
+        "onboard_time": 1736349623,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117984,
+        "num": 84523,
+        "word": "刘亦菲青蛇白蛇",
+        "onboard_time": 1736338462,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 72721,
+        "num": 72721,
+        "word": "江苏确诊一例罕见传染病",
+        "onboard_time": 1736318060,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76593,
+        "num": 71332,
+        "word": "孟子义宝格丽晚宴造型",
+        "onboard_time": 1736345363,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 69109,
+        "num": 69109,
+        "word": "敖瑞鹏上桌了",
+        "onboard_time": 1736347163,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67691,
+        "num": 67691,
+        "word": "西藏定日县地震已致126人遇难",
+        "onboard_time": 1736259264,
+        "rank": 34,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 84383,
+        "num": 67419,
+        "word": "刘亦菲安妮海瑟薇又同框了",
+        "onboard_time": 1736343262,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 66941,
+        "num": 66941,
+        "word": "昀牵孟绕",
+        "onboard_time": 1736338701,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63229,
+        "num": 63229,
+        "word": "全球资本市场大跳水",
+        "onboard_time": 1736350643,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 61434,
+        "num": 61434,
+        "word": "医院回应女厕所安装透明落地窗",
+        "onboard_time": 1736343262,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58754,
+        "num": 58754,
+        "word": "得了甲流可以自愈吗",
+        "onboard_time": 1736353879,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 57169,
+        "num": 57169,
+        "word": "秦彻爆率",
+        "onboard_time": 1736346143,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 55733,
+        "num": 55733,
+        "word": "中国要建一个面向全球的大市场",
+        "onboard_time": 1736355617,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 55046,
+        "num": 55046,
+        "word": "杨洋黑粉P遗照终审败诉",
+        "onboard_time": 1736343985,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53680,
+        "num": 53680,
+        "word": "星星预计1至2天可返回中国",
+        "onboard_time": 1736318782,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53112,
+        "num": 53112,
+        "word": "国色芳华预告",
+        "onboard_time": 1736350402,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53009,
+        "num": 53009,
+        "word": "西藏捐款",
+        "onboard_time": 1736344524,
+        "rank": 45,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 52846,
+        "num": 52846,
+        "word": "芒果认证国色芳华是爆剧",
+        "onboard_time": 1736342183,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51849,
+        "num": 51849,
+        "word": "蜜雪冰城捐款1000万驰援西藏",
+        "onboard_time": 1736356335,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 51795,
+        "num": 51795,
+        "word": "刘畅 人设",
+        "onboard_time": 1736343143,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48183,
+        "num": 50961,
+        "word": "国色芳华会是下一个爆剧吗",
+        "onboard_time": 1736330841,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届中央纪委四次全会公报#"
+    }
+  }
+}
