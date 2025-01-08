@@ -1,6 +1,6 @@
 {
   "startTime": 1736353721044,
-  "endTime": 1736361061046,
+  "endTime": 1736361838101,
   "band_list": [
     {
       "raw_hot": 1868815,
@@ -443,12 +443,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 50851,
+      "raw_hot": 57289,
       "num": 39816,
       "word": "将女友装行礼箱带进宿舍张兴亮被禁赛",
       "onboard_time": 1736360473,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43762,
+      "num": 90270,
+      "word": "加州野火多位好莱坞明星豪宅被烧",
+      "onboard_time": 1736359153,
+      "rank": 9,
+      "category": "海外新闻,艺人"
     },
     {
       "raw_hot": 40945,
@@ -475,8 +483,8 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 33789,
-      "num": 33789,
+      "raw_hot": 35890,
+      "num": 35890,
       "word": "绝区零盖世小鸡联动",
       "onboard_time": 1736359873,
       "rank": 42,
@@ -499,12 +507,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19417,
-      "num": 90270,
-      "word": "加州野火多位好莱坞明星豪宅被烧",
-      "onboard_time": 1736359153,
-      "rank": 9,
-      "category": "海外新闻,艺人"
+      "raw_hot": 14261,
+      "num": 44192,
+      "word": "孙述涛为捞取政绩给GDP狂注水",
+      "onboard_time": 1736359033,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 6903,
