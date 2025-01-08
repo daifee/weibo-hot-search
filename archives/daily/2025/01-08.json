@@ -1,10 +1,10 @@
 {
   "startTime": 1736266474874,
-  "endTime": 1736301570832,
+  "endTime": 1736304743878,
   "band_list": [
     {
       "raw_hot": 3084192,
-      "num": 204714,
+      "num": 499208,
       "word": "王星称被关在有50个中国人的建筑里",
       "onboard_time": 1736295803,
       "rank": 10,
@@ -19,12 +19,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2376681,
+      "num": 1018240,
+      "word": "员工年会中608万彩票公司要求退还",
+      "onboard_time": 1736301860,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2106610,
-      "num": 202233,
+      "num": 400917,
       "word": "王星目前还不能离开泰国",
       "onboard_time": 1736296521,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1948787,
+      "num": 588770,
+      "word": "12306崩了",
+      "onboard_time": 1736301981,
+      "rank": 5,
+      "category": "互联网"
     },
     {
       "raw_hot": 1768799,
@@ -36,7 +52,7 @@
     },
     {
       "raw_hot": 1633549,
-      "num": 204274,
+      "num": 468970,
       "word": "女游客在泰国给大象洗澡被刺死",
       "onboard_time": 1736300240,
       "rank": 11,
@@ -44,7 +60,7 @@
     },
     {
       "raw_hot": 1537363,
-      "num": 203763,
+      "num": 449072,
       "word": "雅典娜",
       "onboard_time": 1736299520,
       "rank": 12,
@@ -72,6 +88,14 @@
       "word": "央视完整还原男子大连推妻坠海案",
       "onboard_time": 1736293340,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 885841,
+      "num": 885841,
+      "word": "泻立停被全面禁售",
+      "onboard_time": 1736302821,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -116,7 +140,7 @@
     },
     {
       "raw_hot": 629217,
-      "num": 202840,
+      "num": 321123,
       "word": "怀9胞胎女子减胎后或一胎不保",
       "onboard_time": 1736293820,
       "rank": 14,
@@ -131,6 +155,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 589977,
+      "num": 589977,
+      "word": "本次流感将在1月中旬达到高峰",
+      "onboard_time": 1736302041,
+      "rank": 4,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 495479,
       "num": 495479,
       "word": "国色芳华热度",
@@ -140,11 +172,19 @@
     },
     {
       "raw_hot": 476125,
-      "num": 476125,
+      "num": 555415,
       "word": "白鹿扛剧能力",
       "onboard_time": 1736293820,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 448265,
+      "num": 448265,
+      "word": "银川地震",
+      "onboard_time": 1736302520,
+      "rank": 13,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 431559,
@@ -161,6 +201,14 @@
       "onboard_time": 1736271434,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 417430,
+      "num": 417430,
+      "word": "为西藏捐款的明星",
+      "onboard_time": 1736302879,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 404292,
@@ -228,11 +276,19 @@
     },
     {
       "raw_hot": 315814,
-      "num": 200338,
+      "num": 201082,
       "word": "三甲医院院长收了2亿多回扣",
       "onboard_time": 1736297663,
       "rank": 20,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 310860,
+      "num": 310860,
+      "word": "贪了2亿元的三甲院长赃款藏屋子夹层",
+      "onboard_time": 1736302340,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 297876,
@@ -243,12 +299,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 289035,
+      "num": 526020,
+      "word": "刘畅人设",
+      "onboard_time": 1736304440,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 286668,
       "num": 197842,
       "word": "星星女友恳请大家减少近期肖像传播",
       "onboard_time": 1736295922,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 265117,
+      "num": 512454,
+      "word": "甲流和普通感冒的最大区别",
+      "onboard_time": 1736302581,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 260258,
@@ -259,11 +331,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 259031,
+      "num": 259031,
+      "word": "给中国空间站寄点土特产",
+      "onboard_time": 1736304621,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 252488,
       "num": 325990,
       "word": "专家称日喀则发生更大地震可能性不大",
       "onboard_time": 1736256025,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245940,
+      "num": 245940,
+      "word": "湘潭大学投毒案最新进展",
+      "onboard_time": 1736302280,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -308,7 +396,7 @@
     },
     {
       "raw_hot": 205024,
-      "num": 229180,
+      "num": 260225,
       "word": "国色芳华里到底有多少牡丹",
       "onboard_time": 1736281030,
       "rank": 9,
@@ -321,6 +409,14 @@
       "onboard_time": 1736261184,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201103,
+      "num": 201103,
+      "word": "年终奖都用来买年货的年轻人",
+      "onboard_time": 1736304621,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200770,
@@ -355,12 +451,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 182882,
+      "num": 182882,
+      "word": "小厨娘",
+      "onboard_time": 1736301440,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
       "raw_hot": 176525,
       "num": 176525,
       "word": "猫 人家被你绊倒啦",
       "onboard_time": 1736294661,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 175929,
+      "num": 175929,
+      "word": "特鲁多称加拿大绝不可能并入美国",
+      "onboard_time": 1736304621,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 170853,
@@ -377,6 +489,14 @@
       "onboard_time": 1736258845,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160949,
+      "num": 191005,
+      "word": "王一博用演技赋予角色生命力",
+      "onboard_time": 1736302220,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 154709,
@@ -451,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139331,
+      "num": 139331,
+      "word": "丁禹兮16年就给粉丝发了红包",
+      "onboard_time": 1736299880,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139068,
       "num": 325439,
       "word": "韩方首次确认失事客机遭遇鸟击",
@@ -483,12 +611,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 131277,
-      "num": 131277,
-      "word": "丁禹兮16年就给粉丝发了红包",
-      "onboard_time": 1736299880,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 130881,
+      "num": 130881,
+      "word": "女子称在三亚冲浪时遭教练猥亵",
+      "onboard_time": 1736302759,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128915,
@@ -507,20 +635,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128151,
+      "num": 128151,
+      "word": "一人一句为日喀则定日县加油",
+      "onboard_time": 1736292977,
+      "rank": 31,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 125391,
       "num": 125391,
       "word": "北京下雪又是大力出奇迹",
       "onboard_time": 1736293879,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125376,
-      "num": 120893,
-      "word": "一人一句为日喀则定日县加油",
-      "onboard_time": 1736292977,
-      "rank": 31,
-      "category": "正能量"
     },
     {
       "raw_hot": 115950,
@@ -555,12 +683,36 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 112886,
+      "num": 112886,
+      "word": "地震背同学撤离的男生获嘉奖",
+      "onboard_time": 1736302340,
+      "rank": 40,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 108673,
+      "num": 108673,
+      "word": "40岁詹姆斯还有多少油",
+      "onboard_time": 1736302160,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108056,
       "num": 324650,
       "word": "国色芳华",
       "onboard_time": 1736225184,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106494,
+      "num": 106494,
+      "word": "大爷拿走女子电动车挡风被当新衣",
+      "onboard_time": 1736304680,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106369,
@@ -585,6 +737,22 @@
       "onboard_time": 1736295080,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 101572,
+      "num": 101572,
+      "word": "刘宇宁捐款50万元驰援西藏",
+      "onboard_time": 1736302581,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100828,
+      "num": 100828,
+      "word": "中国海警舰艇编队1月8日在我钓鱼岛领海巡航",
+      "onboard_time": 1736304621,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 100549,
@@ -612,7 +780,7 @@
     },
     {
       "raw_hot": 91037,
-      "num": 713270,
+      "num": 911023,
       "word": "加油日喀则",
       "onboard_time": 1736242342,
       "rank": 2,
@@ -625,6 +793,14 @@
       "onboard_time": 1736245463,
       "rank": 38,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 87098,
+      "num": 201165,
+      "word": "哈尔滨亚冬会30天倒计时",
+      "onboard_time": 1736303602,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 86523,
@@ -705,14 +881,6 @@
       "onboard_time": 1736268138,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 78132,
-      "num": 100329,
-      "word": "小厨娘",
-      "onboard_time": 1736301440,
-      "rank": 47,
-      "category": "网红"
     },
     {
       "raw_hot": 76828,
@@ -809,6 +977,22 @@
       "onboard_time": 1736234663,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57906,
+      "num": 187749,
+      "word": "尹烨谈年轻人躺平",
+      "onboard_time": 1736303841,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 54337,
+      "num": 188764,
+      "word": "有棵树回应生理裤疑加塑料膜",
+      "onboard_time": 1736304382,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 52667,

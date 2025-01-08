@@ -1,0 +1,410 @@
+{
+  "runTime": 1736304743878,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 657684,
+        "num": 1105229,
+        "word": "西藏定日县地震已致126人遇难",
+        "onboard_time": 1736259264,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 2376681,
+        "num": 1018240,
+        "word": "员工年会中608万彩票公司要求退还",
+        "onboard_time": 1736301860,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32374,
+        "num": 911023,
+        "word": "加油日喀则",
+        "onboard_time": 1736242342,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 885841,
+        "num": 885841,
+        "word": "泻立停被全面禁售",
+        "onboard_time": 1736302821,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 589977,
+        "num": 589977,
+        "word": "本次流感将在1月中旬达到高峰",
+        "onboard_time": 1736302041,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1948787,
+        "num": 588770,
+        "word": "12306崩了",
+        "onboard_time": 1736301981,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 562431,
+        "num": 562431,
+        "word": "央视完整还原男子大连推妻坠海案",
+        "onboard_time": 1736293340,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328327,
+        "num": 555415,
+        "word": "白鹿扛剧能力",
+        "onboard_time": 1736293820,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289035,
+        "num": 526020,
+        "word": "刘畅人设",
+        "onboard_time": 1736304440,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265117,
+        "num": 512454,
+        "word": "甲流和普通感冒的最大区别",
+        "onboard_time": 1736302581,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 2188165,
+        "num": 499208,
+        "word": "王星称被关在有50个中国人的建筑里",
+        "onboard_time": 1736295803,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 985073,
+        "num": 468970,
+        "word": "女游客在泰国给大象洗澡被刺死",
+        "onboard_time": 1736300240,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 724630,
+        "num": 449072,
+        "word": "雅典娜",
+        "onboard_time": 1736299520,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 448265,
+        "num": 448265,
+        "word": "银川地震",
+        "onboard_time": 1736302520,
+        "rank": 13,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 417430,
+        "num": 417430,
+        "word": "为西藏捐款的明星",
+        "onboard_time": 1736302879,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1416122,
+        "num": 400917,
+        "word": "王星目前还不能离开泰国",
+        "onboard_time": 1736296521,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321123,
+        "num": 321123,
+        "word": "怀9胞胎女子减胎后或一胎不保",
+        "onboard_time": 1736293820,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310860,
+        "num": 310860,
+        "word": "贪了2亿元的三甲院长赃款藏屋子夹层",
+        "onboard_time": 1736302340,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305084,
+        "num": 305084,
+        "word": "19岁男生去世给4人留下生命礼物",
+        "onboard_time": 1736271434,
+        "rank": 18,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 188338,
+        "num": 260225,
+        "word": "国色芳华里到底有多少牡丹",
+        "onboard_time": 1736281030,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259031,
+        "num": 259031,
+        "word": "给中国空间站寄点土特产",
+        "onboard_time": 1736304621,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 245940,
+        "num": 245940,
+        "word": "湘潭大学投毒案最新进展",
+        "onboard_time": 1736302280,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211763,
+        "num": 211763,
+        "word": "国色芳华 知否味",
+        "onboard_time": 1736261486,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202199,
+        "num": 202199,
+        "word": "西藏地震后第一个夜晚",
+        "onboard_time": 1736263583,
+        "rank": 23,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 87098,
+        "num": 201165,
+        "word": "哈尔滨亚冬会30天倒计时",
+        "onboard_time": 1736303602,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201103,
+        "num": 201103,
+        "word": "年终奖都用来买年货的年轻人",
+        "onboard_time": 1736304621,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201082,
+        "num": 201082,
+        "word": "三甲医院院长收了2亿多回扣",
+        "onboard_time": 1736297663,
+        "rank": 26,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 160949,
+        "num": 191005,
+        "word": "王一博用演技赋予角色生命力",
+        "onboard_time": 1736302220,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54337,
+        "num": 188764,
+        "word": "有棵树回应生理裤疑加塑料膜",
+        "onboard_time": 1736304382,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 57906,
+        "num": 187749,
+        "word": "尹烨谈年轻人躺平",
+        "onboard_time": 1736303841,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 187135,
+        "num": 187135,
+        "word": "星星女友恳请大家减少近期肖像传播",
+        "onboard_time": 1736295922,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182882,
+        "num": 182882,
+        "word": "小厨娘",
+        "onboard_time": 1736301440,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 175929,
+        "num": 175929,
+        "word": "特鲁多称加拿大绝不可能并入美国",
+        "onboard_time": 1736304621,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155168,
+        "num": 155168,
+        "word": "男子推妻坠海致死后跟民警演戏",
+        "onboard_time": 1736292977,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140921,
+        "num": 140921,
+        "word": "定日县震中周边5年29次3级以上地震",
+        "onboard_time": 1736297962,
+        "rank": 34,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 139331,
+        "num": 139331,
+        "word": "丁禹兮16年就给粉丝发了红包",
+        "onboard_time": 1736299880,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130881,
+        "num": 130881,
+        "word": "女子称在三亚冲浪时遭教练猥亵",
+        "onboard_time": 1736302759,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128151,
+        "num": 128151,
+        "word": "一人一句为日喀则定日县加油",
+        "onboard_time": 1736292977,
+        "rank": 37,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 120374,
+        "num": 120374,
+        "word": "浙江一家6口出游5人感染甲流",
+        "onboard_time": 1736266760,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115192,
+        "num": 115192,
+        "word": "地震时你背同学往外冲的模样真帅",
+        "onboard_time": 1736284750,
+        "rank": 39,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 112886,
+        "num": 112886,
+        "word": "地震背同学撤离的男生获嘉奖",
+        "onboard_time": 1736302340,
+        "rank": 40,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 111862,
+        "num": 111862,
+        "word": "我国人造太阳进度再刷新",
+        "onboard_time": 1736294661,
+        "rank": 41,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 111014,
+        "num": 111014,
+        "word": "西藏地震",
+        "onboard_time": 1736212460,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108673,
+        "num": 108673,
+        "word": "40岁詹姆斯还有多少油",
+        "onboard_time": 1736302160,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106494,
+        "num": 106494,
+        "word": "大爷拿走女子电动车挡风被当新衣",
+        "onboard_time": 1736304680,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106021,
+        "num": 106021,
+        "word": "王鹤棣捐款驰援西藏",
+        "onboard_time": 1736295500,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105644,
+        "num": 105644,
+        "word": "国色芳华开播",
+        "onboard_time": 1736249662,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101572,
+        "num": 101572,
+        "word": "刘宇宁捐款50万元驰援西藏",
+        "onboard_time": 1736302581,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103277,
+        "num": 101267,
+        "word": "猫 人家被你绊倒啦",
+        "onboard_time": 1736294661,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100828,
+        "num": 100828,
+        "word": "中国海警舰艇编队1月8日在我钓鱼岛领海巡航",
+        "onboard_time": 1736304621,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平最新反腐部署#"
+    }
+  }
+}
