@@ -1,6 +1,6 @@
 {
   "startTime": 1736353721044,
-  "endTime": 1736367851345,
+  "endTime": 1736368658887,
   "band_list": [
     {
       "raw_hot": 1868815,
@@ -555,23 +555,23 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 17783,
-      "num": 18936,
-      "word": "青海玛多县5.5级地震",
-      "onboard_time": 1736323583,
-      "rank": 42,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 17531,
-      "num": 18935,
+      "raw_hot": 17958,
+      "num": 19596,
       "word": "祈福日喀则愿平安",
       "onboard_time": 1736358613,
       "rank": 44,
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 14276,
+      "raw_hot": 17783,
+      "num": 19480,
+      "word": "青海玛多县5.5级地震",
+      "onboard_time": 1736323583,
+      "rank": 42,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 14623,
       "num": 26260,
       "word": "周总理笑容总是那么温暖",
       "onboard_time": 1736366231,
@@ -579,8 +579,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 11123,
-      "num": 28714,
+      "raw_hot": 12798,
+      "num": 37066,
       "word": "无人机带机器人上天除冰",
       "onboard_time": 1736366950,
       "rank": 19,
@@ -601,6 +601,14 @@
       "onboard_time": 1736359093,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 9701,
+      "num": 21412,
+      "word": "参加以旧换新有哪些实打实的好处",
+      "onboard_time": 1736368631,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 6903,
