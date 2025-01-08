@@ -1,0 +1,410 @@
+{
+  "runTime": 1736311238178,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 662654,
+        "num": 1106024,
+        "word": "西藏定日县地震已致126人遇难",
+        "onboard_time": 1736259264,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1321698,
+        "num": 1102735,
+        "word": "国补",
+        "onboard_time": 1736306421,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 46219,
+        "num": 1096502,
+        "word": "2024年我国快递业务量突破1700亿件",
+        "onboard_time": 1736306602,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1275613,
+        "num": 1096192,
+        "word": "手机购新补贴方案来了",
+        "onboard_time": 1736305463,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1095549,
+        "num": 1095549,
+        "word": "特朗普再提吞并加拿大",
+        "onboard_time": 1736307922,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 895314,
+        "num": 895314,
+        "word": "国色芳华白月梵星首播数据",
+        "onboard_time": 1736306062,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 712081,
+        "num": 712081,
+        "word": "景区回应贪睡出名的鱼真死了",
+        "onboard_time": 1736309241,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 657969,
+        "num": 657969,
+        "word": "特朗普不排除武力控制巴拿马运河格陵兰岛",
+        "onboard_time": 1736305221,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 559403,
+        "num": 559403,
+        "word": "30年前杀人案告破被害人女儿更焦虑",
+        "onboard_time": 1736307442,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397185,
+        "num": 557980,
+        "word": "怎么舒淇还长这样啊",
+        "onboard_time": 1736307022,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 796363,
+        "num": 556806,
+        "word": "12306崩了",
+        "onboard_time": 1736301981,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 780198,
+        "num": 555189,
+        "word": "王星将进入泰国国家转介机制",
+        "onboard_time": 1736306481,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39307,
+        "num": 553717,
+        "word": "泻立停仍有电商平台在售",
+        "onboard_time": 1736311164,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142791,
+        "num": 552513,
+        "word": "特朗普回应特鲁多辞任自由党领袖",
+        "onboard_time": 1736310623,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 50895,
+        "num": 551976,
+        "word": "你的2024年度好片是哪个",
+        "onboard_time": 1736309602,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 550680,
+        "num": 550680,
+        "word": "泻立停被全面禁售",
+        "onboard_time": 1736302821,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 777859,
+        "num": 528635,
+        "word": "王星称被强迫练习打字",
+        "onboard_time": 1736310022,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 765626,
+        "num": 516085,
+        "word": "女游客在泰国给大象洗澡被刺死",
+        "onboard_time": 1736300240,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 286640,
+        "num": 497295,
+        "word": "李昀锐冰湖重生兜帽斗篷路透",
+        "onboard_time": 1736305941,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42272,
+        "num": 464119,
+        "word": "小区业主投诉被平摊20万漏抄水费",
+        "onboard_time": 1736311102,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 766657,
+        "num": 439921,
+        "word": "王星成功获救",
+        "onboard_time": 1736252905,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423847,
+        "num": 423847,
+        "word": "手机价格不超6000元可获补贴",
+        "onboard_time": 1736310923,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 232609,
+        "num": 328045,
+        "word": "杨紫李现国色芳华韩国海报",
+        "onboard_time": 1736309901,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326263,
+        "num": 326263,
+        "word": "丹麦改国徽宣示格陵兰岛主权",
+        "onboard_time": 1736308643,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 167392,
+        "num": 302677,
+        "word": "祁煜 你可以反复向我确认",
+        "onboard_time": 1736309362,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 291515,
+        "num": 291515,
+        "word": "特鲁多称加拿大绝不可能并入美国",
+        "onboard_time": 1736304621,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 220870,
+        "num": 282592,
+        "word": "白鹿扛剧能力",
+        "onboard_time": 1736293820,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189953,
+        "num": 282589,
+        "word": "刘畅人设",
+        "onboard_time": 1736304440,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282587,
+        "num": 282587,
+        "word": "湘潭大学投毒案一审开庭",
+        "onboard_time": 1736305100,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123805,
+        "num": 281672,
+        "word": "好有赘德的敖猴",
+        "onboard_time": 1736310323,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281449,
+        "num": 281449,
+        "word": "难哄",
+        "onboard_time": 1736310442,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250101,
+        "num": 250101,
+        "word": "以旧换新补贴家电产品增至12类",
+        "onboard_time": 1736306001,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 240080,
+        "num": 240080,
+        "word": "地图全景还原西藏定日县6.8级地震",
+        "onboard_time": 1736310923,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233597,
+        "num": 233597,
+        "word": "广州猎德村有人分到4万元分红",
+        "onboard_time": 1736308463,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223015,
+        "num": 223015,
+        "word": "贪了2亿元的三甲院长赃款藏屋子夹层",
+        "onboard_time": 1736302340,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221065,
+        "num": 221065,
+        "word": "大爷拿走女子电动车挡风被当新衣",
+        "onboard_time": 1736304680,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204871,
+        "num": 204871,
+        "word": "本次流感将在1月中旬达到高峰",
+        "onboard_time": 1736302041,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 195383,
+        "num": 195383,
+        "word": "养猫后发现自己会是很糟糕的父母",
+        "onboard_time": 1736306540,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186962,
+        "num": 186962,
+        "word": "王曼昱时尚先生fine开年封面",
+        "onboard_time": 1736310623,
+        "rank": 38,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 181522,
+        "num": 181522,
+        "word": "甲流和普通感冒的最大区别",
+        "onboard_time": 1736302581,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 166115,
+        "num": 166115,
+        "word": "央视完整还原男子大连推妻坠海案",
+        "onboard_time": 1736293340,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161772,
+        "num": 161772,
+        "word": "日喀则我们在一起",
+        "onboard_time": 1736304860,
+        "rank": 41,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 156934,
+        "num": 156934,
+        "word": "又有4类家电纳入国补",
+        "onboard_time": 1736309063,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155539,
+        "num": 155539,
+        "word": "西藏地震",
+        "onboard_time": 1736212460,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154640,
+        "num": 154640,
+        "word": "100张照片缅怀周恩来",
+        "onboard_time": 1736305463,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 149820,
+        "num": 149820,
+        "word": "白月梵星",
+        "onboard_time": 1736310923,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144359,
+        "num": 144359,
+        "word": "一人一句为日喀则定日县加油",
+        "onboard_time": 1736292977,
+        "rank": 46,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 144283,
+        "num": 144283,
+        "word": "少年歌行血染天启篇开播",
+        "onboard_time": 1736307562,
+        "rank": 47,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 143804,
+        "num": 143804,
+        "word": "张继科说乒乓球打法20年没创新",
+        "onboard_time": 1736310862,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139841,
+        "num": 139841,
+        "word": "第一次收到帝王蟹蛋糕",
+        "onboard_time": 1736308463,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#要尽最大努力保障人民群众生命财产安全#"
+    }
+  }
+}
