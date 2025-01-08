@@ -1,6 +1,6 @@
 {
   "startTime": 1736266474874,
-  "endTime": 1736317886906,
+  "endTime": 1736318655848,
   "band_list": [
     {
       "raw_hot": 4591252,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1377075,
-      "num": 1194541,
+      "num": 1217880,
       "word": "手机价格不超6000元可获补贴",
       "onboard_time": 1736310923,
       "rank": 21,
@@ -267,20 +267,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 680183,
+      "num": 680183,
+      "word": "北外严正声明",
+      "onboard_time": 1736315241,
+      "rank": 4,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 641691,
+      "num": 641691,
+      "word": "难怪这么自然原来白鹿是真睡着了",
+      "onboard_time": 1736314881,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 629217,
       "num": 321123,
       "word": "怀9胞胎女子减胎后或一胎不保",
       "onboard_time": 1736293820,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 628374,
-      "num": 628374,
-      "word": "难怪这么自然原来白鹿是真睡着了",
-      "onboard_time": 1736314881,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 597697,
@@ -291,20 +299,20 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 592653,
-      "num": 592653,
-      "word": "北外严正声明",
-      "onboard_time": 1736315241,
-      "rank": 4,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 589977,
       "num": 589977,
       "word": "本次流感将在1月中旬达到高峰",
       "onboard_time": 1736302041,
       "rank": 4,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 579888,
+      "num": 579888,
+      "word": "江苏确诊一例罕见传染病",
+      "onboard_time": 1736318060,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 568530,
@@ -363,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 451988,
+      "num": 306458,
+      "word": "女生发现自己指甲跟课本病例图片一样",
+      "onboard_time": 1736315121,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 431559,
       "num": 372476,
       "word": "迪丽热巴捐款驰援西藏",
@@ -385,14 +401,6 @@
       "onboard_time": 1736302581,
       "rank": 9,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 421329,
-      "num": 263586,
-      "word": "女生发现自己指甲跟课本病例图片一样",
-      "onboard_time": 1736315121,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 418950,
@@ -523,12 +531,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 322983,
+      "num": 351511,
+      "word": "震后第一个清晨受灾群众吃上热呼早餐",
+      "onboard_time": 1736318001,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 317955,
       "num": 427429,
       "word": "大爷拿走女子电动车挡风被当新衣",
       "onboard_time": 1736304680,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 317381,
+      "num": 317381,
+      "word": "金玟庭回复黑评",
+      "onboard_time": 1736318483,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 315814,
@@ -627,20 +651,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 253134,
+      "num": 253134,
+      "word": "甲流",
+      "onboard_time": 1736316082,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 252488,
       "num": 325990,
       "word": "专家称日喀则发生更大地震可能性不大",
       "onboard_time": 1736256025,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 247013,
-      "num": 247013,
-      "word": "甲流",
-      "onboard_time": 1736316082,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 243918,
@@ -715,6 +739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 215908,
+      "num": 224990,
+      "word": "于正称白鹿单扛白月梵星",
+      "onboard_time": 1736317941,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215657,
       "num": 325869,
       "word": "林允儿李惠利合照",
@@ -769,6 +801,14 @@
       "onboard_time": 1736295500,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199330,
+      "num": 363396,
+      "word": "得了流感输液会不会好得更快",
+      "onboard_time": 1736316140,
+      "rank": 9,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 199060,
@@ -883,6 +923,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 182837,
+      "num": 259354,
+      "word": "女子182元买1斤多螃蟹绳重占8两",
+      "onboard_time": 1736313203,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181216,
       "num": 173129,
       "word": "郑钦文为西藏灾区捐款100万",
@@ -995,6 +1043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158481,
+      "num": 158481,
+      "word": "中国首个男性HPV疫苗获批上市",
+      "onboard_time": 1736318241,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 154709,
       "num": 325166,
       "word": "国色芳华实时热度",
@@ -1027,28 +1083,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150637,
-      "num": 259354,
-      "word": "女子182元买1斤多螃蟹绳重占8两",
-      "onboard_time": 1736313203,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 150320,
       "num": 326067,
       "word": "恋与深空秦彻抽卡爆率低",
       "onboard_time": 1736247325,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 150189,
-      "num": 363396,
-      "word": "得了流感输液会不会好得更快",
-      "onboard_time": 1736316140,
-      "rank": 9,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 150072,
@@ -1195,6 +1235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140396,
+      "num": 140396,
+      "word": "北外通报某教师深夜跟踪女同事",
+      "onboard_time": 1736317280,
+      "rank": 47,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 139841,
       "num": 139841,
       "word": "第一次收到帝王蟹蛋糕",
@@ -1224,6 +1272,14 @@
       "word": "贪官用多个家人当受贿收款员",
       "onboard_time": 1736298382,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136157,
+      "num": 266057,
+      "word": "网恋惹男友生气被要13140恋爱罚金",
+      "onboard_time": 1736316321,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1363,12 +1419,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 110080,
-      "num": 110080,
-      "word": "北外通报某教师深夜跟踪女同事",
-      "onboard_time": 1736317280,
-      "rank": 47,
-      "category": "辟谣/通报"
+      "raw_hot": 111546,
+      "num": 111546,
+      "word": "特朗普发地图将加拿大标为美国",
+      "onboard_time": 1736318241,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 106399,
@@ -1417,6 +1473,14 @@
       "onboard_time": 1736304981,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101742,
+      "num": 298029,
+      "word": "檀健次方确认出席微博之夜",
+      "onboard_time": 1736317220,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 101572,
@@ -1497,14 +1561,6 @@
       "onboard_time": 1736265023,
       "rank": 39,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 85310,
-      "num": 266057,
-      "word": "网恋惹男友生气被要13140恋爱罚金",
-      "onboard_time": 1736316321,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 85295,
@@ -1699,6 +1755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58034,
+      "num": 201131,
+      "word": "郑钦文vs斯维托丽娜",
+      "onboard_time": 1736317761,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57906,
       "num": 191458,
       "word": "尹烨谈年轻人躺平",
@@ -1713,14 +1777,6 @@
       "onboard_time": 1736314702,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 54969,
-      "num": 298029,
-      "word": "檀健次方确认出席微博之夜",
-      "onboard_time": 1736317220,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 52667,
@@ -1827,6 +1883,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 45000,
+      "num": 206934,
+      "word": "黄景瑜愿大家都能遇到一个推不走的爱人",
+      "onboard_time": 1736318001,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 44640,
       "num": 324317,
       "word": "贪官把兄弟和妻儿培植成收款员",
@@ -1841,6 +1905,14 @@
       "onboard_time": 1736313982,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42299,
+      "num": 142665,
+      "word": "周深回应三专何时来",
+      "onboard_time": 1736318483,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 41815,
@@ -1875,6 +1947,14 @@
       "category": "动漫,剧集"
     },
     {
+      "raw_hot": 34200,
+      "num": 337840,
+      "word": "被骗缅北小伙称被发现报警基本九死一生",
+      "onboard_time": 1736318421,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32313,
       "num": 76414,
       "word": "关注定日县地震救灾",
@@ -1897,6 +1977,14 @@
       "onboard_time": 1736272453,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 30455,
+      "num": 306506,
+      "word": "微博年度喜爱音乐Top3",
+      "onboard_time": 1736318421,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 27313,
@@ -2009,14 +2097,6 @@
       "onboard_time": 1736270954,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 5405,
-      "num": 164908,
-      "word": "郑钦文vs斯维托丽娜",
-      "onboard_time": 1736317761,
-      "rank": 29,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
