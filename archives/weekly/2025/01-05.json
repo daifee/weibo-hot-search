@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736307676410,
+  "endTime": 1736310401521,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -436,7 +436,7 @@
     },
     {
       "raw_hot": 1857607,
-      "num": 1084996,
+      "num": 1095879,
       "word": "手机购新补贴方案来了",
       "onboard_time": 1736305463,
       "rank": 1,
@@ -516,7 +516,7 @@
     },
     {
       "raw_hot": 1633549,
-      "num": 492918,
+      "num": 526328,
       "word": "女游客在泰国给大象洗澡被刺死",
       "onboard_time": 1736300240,
       "rank": 11,
@@ -675,6 +675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1326077,
+      "num": 1016215,
+      "word": "国补",
+      "onboard_time": 1736306421,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1323200,
       "num": 216911,
       "word": "演员星星",
@@ -724,7 +732,7 @@
     },
     {
       "raw_hot": 1239593,
-      "num": 428213,
+      "num": 499509,
       "word": "王星将进入泰国国家转介机制",
       "onboard_time": 1736306481,
       "rank": 10,
@@ -793,6 +801,14 @@
       "onboard_time": 1736246362,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1085045,
+      "num": 222052,
+      "word": "明朝那些事儿",
+      "onboard_time": 1736306900,
+      "rank": 24,
+      "category": "读书作家"
     },
     {
       "raw_hot": 1082011,
@@ -865,6 +881,14 @@
       "onboard_time": 1736168063,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 992975,
+      "num": 992975,
+      "word": "国色芳华白月梵星首播数据",
+      "onboard_time": 1736306062,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 992926,
@@ -1011,12 +1035,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 869959,
+      "num": 869959,
+      "word": "特朗普不排除武力控制巴拿马运河格陵兰岛",
+      "onboard_time": 1736305221,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 864780,
       "num": 864780,
       "word": "王星越演我嗑虞书欣丁禹兮",
       "onboard_time": 1736005295,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 851592,
+      "num": 851592,
+      "word": "特朗普再提吞并加拿大",
+      "onboard_time": 1736307922,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 842528,
@@ -1227,20 +1267,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 744172,
+      "num": 173356,
+      "word": "鸣龙少年主演集体倒油",
+      "onboard_time": 1736308583,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 737438,
       "num": 440515,
       "word": "星星腿上的是胎记",
       "onboard_time": 1736248763,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 734999,
-      "num": 734999,
-      "word": "国色芳华白月梵星首播数据",
-      "onboard_time": 1736306062,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 734971,
@@ -1689,6 +1729,14 @@
       "onboard_time": 1736057069,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 564383,
+      "num": 419623,
+      "word": "王星称被强迫练习打字",
+      "onboard_time": 1736310022,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 561486,
@@ -2235,6 +2283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 439820,
+      "num": 439820,
+      "word": "景区回应贪睡出名的鱼真死了",
+      "onboard_time": 1736309241,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 439355,
       "num": 319159,
       "word": "敖丙开门 是爹地",
@@ -2459,20 +2515,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 401474,
+      "num": 594582,
+      "word": "怎么舒淇还长这样啊",
+      "onboard_time": 1736307022,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 401455,
       "num": 401455,
       "word": "哪吒2首支预告",
       "onboard_time": 1736216900,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 401439,
-      "num": 401439,
-      "word": "特朗普不排除武力控制巴拿马运河格陵兰岛",
-      "onboard_time": 1736305221,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 399259,
@@ -2681,14 +2737,6 @@
       "onboard_time": 1736047230,
       "rank": 17,
       "category": "国际时政,体育"
-    },
-    {
-      "raw_hot": 367165,
-      "num": 367165,
-      "word": "国补",
-      "onboard_time": 1736306421,
-      "rank": 40,
-      "category": "财经"
     },
     {
       "raw_hot": 364267,
@@ -2979,6 +3027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 328908,
+      "num": 328908,
+      "word": "丹麦改国徽宣示格陵兰岛主权",
+      "onboard_time": 1736308643,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 328580,
       "num": 328580,
       "word": "白月梵星热度",
@@ -3177,6 +3233,14 @@
       "onboard_time": 1736060606,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 303309,
+      "num": 469958,
+      "word": "李昀锐冰湖重生兜帽斗篷路透",
+      "onboard_time": 1736305941,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 302314,
@@ -3489,6 +3553,14 @@
       "onboard_time": 1736217981,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 274719,
+      "num": 583067,
+      "word": "特鲁多称加拿大绝不可能并入美国",
+      "onboard_time": 1736304621,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 274397,
@@ -3849,14 +3921,6 @@
       "onboard_time": 1736037083,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 252384,
-      "num": 367585,
-      "word": "李昀锐冰湖重生兜帽斗篷路透",
-      "onboard_time": 1736305941,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 252379,
@@ -4323,20 +4387,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 222052,
-      "num": 222052,
-      "word": "明朝那些事儿",
-      "onboard_time": 1736306900,
-      "rank": 24,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 221983,
       "num": 221983,
       "word": "白鹿说白月梵星有五个副本",
       "onboard_time": 1736057848,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221241,
+      "num": 401867,
+      "word": "30年前杀人案告破被害人女儿更焦虑",
+      "onboard_time": 1736307442,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 221092,
@@ -5043,19 +5107,19 @@
       "category": "教育"
     },
     {
-      "raw_hot": 198976,
-      "num": 198976,
-      "word": "特鲁多称加拿大绝不可能并入美国",
-      "onboard_time": 1736304621,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 198657,
       "num": 191063,
       "word": "阿如那老师又来演混混了",
       "onboard_time": 1736253564,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 198377,
+      "num": 246146,
+      "word": "杨紫李现国色芳华韩国海报",
+      "onboard_time": 1736309901,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -5115,6 +5179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196496,
+      "num": 196496,
+      "word": "养猫后发现自己会是很糟糕的父母",
+      "onboard_time": 1736306540,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 196416,
       "num": 222066,
       "word": "男子求朋友还钱给父亲治病急到撞墙",
@@ -5137,14 +5209,6 @@
       "onboard_time": 1736060066,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 195701,
-      "num": 195701,
-      "word": "养猫后发现自己会是很糟糕的父母",
-      "onboard_time": 1736306540,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 195685,
@@ -5225,6 +5289,14 @@
       "onboard_time": 1736307022,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 192305,
+      "num": 192305,
+      "word": "广州猎德村有人分到4万元分红",
+      "onboard_time": 1736308463,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192011,
@@ -5395,14 +5467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 184234,
-      "num": 184234,
-      "word": "怎么舒淇还长这样啊",
-      "onboard_time": 1736307022,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 184086,
       "num": 184086,
       "word": "尹锡悦逮捕令今天到期",
@@ -5467,6 +5531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 181216,
+      "num": 173129,
+      "word": "郑钦文为西藏灾区捐款100万",
+      "onboard_time": 1736307200,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181077,
       "num": 181077,
       "word": "王昶坐上了裁判椅",
@@ -5489,6 +5561,14 @@
       "onboard_time": 1736233344,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180519,
+      "num": 180519,
+      "word": "又有4类家电纳入国补",
+      "onboard_time": 1736309063,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 179267,
@@ -5603,6 +5683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174019,
+      "num": 174019,
+      "word": "一人一句为日喀则定日县加油",
+      "onboard_time": 1736292977,
+      "rank": 31,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 173826,
       "num": 173826,
       "word": "上海流感病毒活动强度明显增强",
@@ -5649,14 +5737,6 @@
       "onboard_time": 1736262024,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 173129,
-      "num": 173129,
-      "word": "郑钦文为西藏灾区捐款100万",
-      "onboard_time": 1736307200,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 172963,
@@ -6483,6 +6563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151021,
+      "num": 249137,
+      "word": "祁煜 你可以反复向我确认",
+      "onboard_time": 1736309362,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 150300,
       "num": 164208,
       "word": "他们从学生餐费里收了70多万回扣",
@@ -6651,12 +6739,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 146444,
+      "num": 146444,
+      "word": "国色芳华剧组驰援西藏",
+      "onboard_time": 1736307982,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145850,
       "num": 145850,
       "word": "2025开年首对豹豹猫猫",
       "onboard_time": 1736221222,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145051,
+      "num": 145051,
+      "word": "李昀锐谈从男配到男主的压力",
+      "onboard_time": 1736308882,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 144751,
@@ -6691,12 +6795,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 143660,
+      "num": 143660,
+      "word": "景区鱼以贪睡出名导致真死没发现",
+      "onboard_time": 1736308463,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143521,
       "num": 143521,
       "word": "你知道今天为什么要喝腊八粥吗",
       "onboard_time": 1736234125,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 142959,
+      "num": 142959,
+      "word": "何惟芳 狠狠拿捏",
+      "onboard_time": 1736309664,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 142572,
@@ -7225,14 +7345,6 @@
       "onboard_time": 1736125401,
       "rank": 41,
       "category": "教育"
-    },
-    {
-      "raw_hot": 128151,
-      "num": 128151,
-      "word": "一人一句为日喀则定日县加油",
-      "onboard_time": 1736292977,
-      "rank": 31,
-      "category": "正能量"
     },
     {
       "raw_hot": 128148,
@@ -8091,6 +8203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 105547,
+      "num": 235722,
+      "word": "好有赘德的敖猴",
+      "onboard_time": 1736310323,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105533,
       "num": 199049,
       "word": "孟子义杂志",
@@ -8604,7 +8724,7 @@
     },
     {
       "raw_hot": 87758,
-      "num": 935234,
+      "num": 1034837,
       "word": "2024年我国快递业务量突破1700亿件",
       "onboard_time": 1736306602,
       "rank": 2,
@@ -8713,6 +8833,14 @@
       "onboard_time": 1736097557,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 83763,
+      "num": 167089,
+      "word": "檀健次探见传世手绘匠心",
+      "onboard_time": 1736310142,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 82889,
@@ -10337,6 +10465,14 @@
       "onboard_time": 1736231002,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25157,
+      "num": 488694,
+      "word": "你的2024年度好片是哪个",
+      "onboard_time": 1736309602,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 25037,
