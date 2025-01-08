@@ -1,0 +1,410 @@
+{
+  "runTime": 1736307676410,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 854104,
+        "num": 1136656,
+        "word": "西藏定日县地震已致126人遇难",
+        "onboard_time": 1736259264,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1857607,
+        "num": 1016560,
+        "word": "手机购新补贴方案来了",
+        "onboard_time": 1736305463,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 87758,
+        "num": 816323,
+        "word": "2024年我国快递业务量突破1700亿件",
+        "onboard_time": 1736306602,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 734999,
+        "num": 734999,
+        "word": "国色芳华白月梵星首播数据",
+        "onboard_time": 1736306062,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 695823,
+        "num": 695823,
+        "word": "泻立停被全面禁售",
+        "onboard_time": 1736302821,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 601680,
+        "num": 601680,
+        "word": "贪了2亿元的三甲院长赃款藏屋子夹层",
+        "onboard_time": 1736302340,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 568530,
+        "num": 568530,
+        "word": "湘潭大学投毒案一审开庭",
+        "onboard_time": 1736305100,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 488095,
+        "num": 488095,
+        "word": "本次流感将在1月中旬达到高峰",
+        "onboard_time": 1736302041,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 473951,
+        "num": 473951,
+        "word": "刘畅人设",
+        "onboard_time": 1736304440,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 401439,
+        "num": 401439,
+        "word": "特朗普不排除武力控制巴拿马运河格陵兰岛",
+        "onboard_time": 1736305221,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1239593,
+        "num": 400838,
+        "word": "王星将进入泰国国家转介机制",
+        "onboard_time": 1736306481,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1147658,
+        "num": 399333,
+        "word": "12306崩了",
+        "onboard_time": 1736301981,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 793648,
+        "num": 396495,
+        "word": "王星成功获救",
+        "onboard_time": 1736252905,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 767514,
+        "num": 394786,
+        "word": "为西藏捐款的明星",
+        "onboard_time": 1736302879,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 724532,
+        "num": 392717,
+        "word": "女游客在泰国给大象洗澡被刺死",
+        "onboard_time": 1736300240,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 558458,
+        "num": 391943,
+        "word": "雅典娜",
+        "onboard_time": 1736299520,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 390442,
+        "num": 390442,
+        "word": "央视完整还原男子大连推妻坠海案",
+        "onboard_time": 1736293340,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372709,
+        "num": 372709,
+        "word": "甲流和普通感冒的最大区别",
+        "onboard_time": 1736302581,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 252384,
+        "num": 367585,
+        "word": "李昀锐冰湖重生兜帽斗篷路透",
+        "onboard_time": 1736305941,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244450,
+        "num": 367232,
+        "word": "白鹿扛剧能力",
+        "onboard_time": 1736293820,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 367165,
+        "num": 367165,
+        "word": "国补",
+        "onboard_time": 1736306421,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 284905,
+        "num": 284905,
+        "word": "大爷拿走女子电动车挡风被当新衣",
+        "onboard_time": 1736304680,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271969,
+        "num": 271969,
+        "word": "以旧换新补贴家电产品增至12类",
+        "onboard_time": 1736306001,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 262587,
+        "num": 262587,
+        "word": "日喀则我们在一起",
+        "onboard_time": 1736304860,
+        "rank": 23,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 222052,
+        "num": 222052,
+        "word": "明朝那些事儿",
+        "onboard_time": 1736306900,
+        "rank": 24,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 198976,
+        "num": 198976,
+        "word": "特鲁多称加拿大绝不可能并入美国",
+        "onboard_time": 1736304621,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 192977,
+        "num": 198904,
+        "word": "易烊千玺送的新年苔花真的开了",
+        "onboard_time": 1736307022,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192443,
+        "num": 198589,
+        "word": "王一博用演技赋予角色生命力",
+        "onboard_time": 1736302220,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186599,
+        "num": 198241,
+        "word": "国色芳华里到底有多少牡丹",
+        "onboard_time": 1736281030,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50101,
+        "num": 197947,
+        "word": "大爷为褪鸡毛点燃液化气罐",
+        "onboard_time": 1736305881,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197865,
+        "num": 197865,
+        "word": "100张照片缅怀周恩来",
+        "onboard_time": 1736305463,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 195701,
+        "num": 195701,
+        "word": "养猫后发现自己会是很糟糕的父母",
+        "onboard_time": 1736306540,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178931,
+        "num": 189486,
+        "word": "杨幂捐赠驰援灾区",
+        "onboard_time": 1736305040,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188551,
+        "num": 188551,
+        "word": "少年歌行血染天启篇开播",
+        "onboard_time": 1736307562,
+        "rank": 33,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 184234,
+        "num": 184234,
+        "word": "怎么舒淇还长这样啊",
+        "onboard_time": 1736307022,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 68651,
+        "num": 184230,
+        "word": "海拔4300米子弟兵为震区群众做早餐",
+        "onboard_time": 1736305640,
+        "rank": 35,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 51108,
+        "num": 184227,
+        "word": "汪苏泷捐赠驰援西藏",
+        "onboard_time": 1736306301,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184513,
+        "num": 184227,
+        "word": "年终奖都用来买年货的年轻人",
+        "onboard_time": 1736304621,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184225,
+        "num": 184225,
+        "word": "湘潭大学投毒案最新进展",
+        "onboard_time": 1736302280,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174997,
+        "num": 174997,
+        "word": "怀9胞胎女子减胎后或一胎不保",
+        "onboard_time": 1736293820,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173129,
+        "num": 173129,
+        "word": "郑钦文为西藏灾区捐款100万",
+        "onboard_time": 1736307200,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165334,
+        "num": 165334,
+        "word": "打工人的年终奖也要提前支配了",
+        "onboard_time": 1736306540,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141323,
+        "num": 141323,
+        "word": "小厨娘",
+        "onboard_time": 1736301440,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 136908,
+        "num": 136908,
+        "word": "西藏地震",
+        "onboard_time": 1736212460,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133070,
+        "num": 133070,
+        "word": "男子推妻坠海致死后跟民警演戏",
+        "onboard_time": 1736292977,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132831,
+        "num": 132831,
+        "word": "三甲医院院长收了2亿多回扣",
+        "onboard_time": 1736297663,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 123138,
+        "num": 123138,
+        "word": "国色芳华 知否味",
+        "onboard_time": 1736261486,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119858,
+        "num": 119858,
+        "word": "给中国空间站寄点土特产",
+        "onboard_time": 1736304621,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 119215,
+        "num": 119215,
+        "word": "云合",
+        "onboard_time": 1736306660,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109527,
+        "num": 109527,
+        "word": "19岁男生去世给4人留下生命礼物",
+        "onboard_time": 1736271434,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#要尽最大努力保障人民群众生命财产安全#"
+    }
+  }
+}
