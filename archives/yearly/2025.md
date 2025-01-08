@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/08 13:39:01
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/08 14:31:26
 </p>
 </blockquote>
 <p>
@@ -143,6 +143,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BB%96%E6%85%A7%E4%BD%B3%E5%8F%91%E9%95%BF%E6%96%87%E6%8C%87%E8%B4%A3%E6%9D%8E%E6%98%8E%E5%BE%B7%23" target="weibo">
 廖慧佳发长文指责李明德（热度：4846940）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E7%8E%8B%E6%98%9F%E5%9C%A8%E9%A3%9E%E6%9C%BA%E4%B8%8A%E8%87%AA%E8%BF%B0%E5%89%83%E5%A4%B4%E8%BF%87%E7%A8%8B%23" target="weibo">
+演员王星在飞机上自述剃头过程（热度：4591252）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ R1SE舞台（热度：868936）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%23" target="weibo">
 星光大赏获奖名单（热度：852242）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%20%E6%88%91%E7%8E%B0%E5%9C%A8%E6%9C%89%E7%82%B9%E6%83%8A%E5%BC%93%E4%B9%8B%E9%B8%9F%E4%BA%86%23" target="weibo">
-何炅 我现在有点惊弓之鸟了（热度：844503）
 </a>
 </li>
 

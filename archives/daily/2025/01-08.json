@@ -1,7 +1,15 @@
 {
   "startTime": 1736266474874,
-  "endTime": 1736314741807,
+  "endTime": 1736317886906,
   "band_list": [
+    {
+      "raw_hot": 4591252,
+      "num": 362907,
+      "word": "演员王星在飞机上自述剃头过程",
+      "onboard_time": 1736315062,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 3084192,
       "num": 500664,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 1377075,
-      "num": 1000841,
+      "num": 1194541,
       "word": "手机价格不超6000元可获补贴",
       "onboard_time": 1736310923,
       "rank": 21,
@@ -267,12 +275,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 628374,
+      "num": 628374,
+      "word": "难怪这么自然原来白鹿是真睡着了",
+      "onboard_time": 1736314881,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 597697,
       "num": 442437,
       "word": "西藏地震后第一个夜晚",
       "onboard_time": 1736263583,
       "rank": 16,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 592653,
+      "num": 592653,
+      "word": "北外严正声明",
+      "onboard_time": 1736315241,
+      "rank": 4,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 589977,
@@ -347,12 +371,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 430751,
+      "num": 1026513,
+      "word": "西藏地震407名被困人员获救",
+      "onboard_time": 1736311763,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 424166,
       "num": 512454,
       "word": "甲流和普通感冒的最大区别",
       "onboard_time": 1736302581,
       "rank": 9,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 421329,
+      "num": 263586,
+      "word": "女生发现自己指甲跟课本病例图片一样",
+      "onboard_time": 1736315121,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 418950,
@@ -411,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 376524,
+      "num": 376524,
+      "word": "韩商言快从李现身上下来",
+      "onboard_time": 1736315062,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 374773,
       "num": 374773,
       "word": "贪官在家中设计夹层藏钱",
@@ -443,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 334093,
+      "num": 351078,
+      "word": "杨蓉 不愿意做很多工作大侦探除外",
+      "onboard_time": 1736312542,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 332293,
       "num": 332293,
       "word": "我国人造太阳进度再刷新",
@@ -465,14 +521,6 @@
       "onboard_time": 1736308643,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 324581,
-      "num": 317180,
-      "word": "杨蓉 不愿意做很多工作大侦探除外",
-      "onboard_time": 1736312542,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 317955,
@@ -587,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 247013,
+      "num": 247013,
+      "word": "甲流",
+      "onboard_time": 1736316082,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 243918,
       "num": 370084,
       "word": "孙颖莎说奥运女单决赛陈梦做得更好",
@@ -633,6 +689,14 @@
       "onboard_time": 1736309901,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 229845,
+      "num": 229845,
+      "word": "京考出成绩",
+      "onboard_time": 1736315902,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 228565,
@@ -729,6 +793,14 @@
       "onboard_time": 1736305463,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 197541,
+      "num": 324650,
+      "word": "国色芳华",
+      "onboard_time": 1736225184,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 196496,
@@ -899,20 +971,28 @@
       "category": "教育"
     },
     {
-      "raw_hot": 165709,
-      "num": 1026513,
-      "word": "西藏地震407名被困人员获救",
-      "onboard_time": 1736311763,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 162358,
       "num": 325349,
       "word": "西藏地震",
       "onboard_time": 1736212460,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161218,
+      "num": 161218,
+      "word": "国色芳华播放量破1000万",
+      "onboard_time": 1736314761,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 160416,
+      "num": 160416,
+      "word": "何惟芳刘畅拦腰抱好嗑",
+      "onboard_time": 1736315422,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 154709,
@@ -931,6 +1011,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 152444,
+      "num": 165311,
+      "word": "阿如那圆梦偶像剧了",
+      "onboard_time": 1736316622,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151948,
       "num": 151948,
       "word": "侯明昊卢昱晓入青云杀青应援",
@@ -939,12 +1027,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150637,
+      "num": 259354,
+      "word": "女子182元买1斤多螃蟹绳重占8两",
+      "onboard_time": 1736313203,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150320,
       "num": 326067,
       "word": "恋与深空秦彻抽卡爆率低",
       "onboard_time": 1736247325,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 150189,
+      "num": 363396,
+      "word": "得了流感输液会不会好得更快",
+      "onboard_time": 1736316140,
+      "rank": 9,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 150072,
@@ -963,12 +1067,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149456,
+      "num": 149456,
+      "word": "个人买手机平板智能手表可获补贴",
+      "onboard_time": 1736316441,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 149308,
       "num": 149308,
       "word": "IVE概念预告照",
       "onboard_time": 1736266641,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 148699,
+      "num": 148699,
+      "word": "马龙最想对阵刘国梁",
+      "onboard_time": 1736316680,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 148629,
@@ -1107,12 +1227,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133196,
+      "num": 133196,
+      "word": "梁伟铿王昶场边观赛",
+      "onboard_time": 1736316622,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132255,
       "num": 325216,
       "word": "甲流症状累及全身",
       "onboard_time": 1736252544,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 130034,
+      "num": 130034,
+      "word": "滤镜",
+      "onboard_time": 1736316921,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 128915,
@@ -1153,6 +1289,14 @@
       "onboard_time": 1736306660,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117049,
+      "num": 117049,
+      "word": "长春冰面现近60米巨龙出水",
+      "onboard_time": 1736316921,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115950,
@@ -1219,20 +1363,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 110785,
-      "num": 259354,
-      "word": "女子182元买1斤多螃蟹绳重占8两",
-      "onboard_time": 1736313203,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 108056,
-      "num": 324650,
-      "word": "国色芳华",
-      "onboard_time": 1736225184,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 110080,
+      "num": 110080,
+      "word": "北外通报某教师深夜跟踪女同事",
+      "onboard_time": 1736317280,
+      "rank": 47,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 106399,
@@ -1361,6 +1497,14 @@
       "onboard_time": 1736265023,
       "rank": 39,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 85310,
+      "num": 266057,
+      "word": "网恋惹男友生气被要13140恋爱罚金",
+      "onboard_time": 1736316321,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85295,
@@ -1569,6 +1713,14 @@
       "onboard_time": 1736314702,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 54969,
+      "num": 298029,
+      "word": "檀健次方确认出席微博之夜",
+      "onboard_time": 1736317220,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 52667,
@@ -1857,6 +2009,14 @@
       "onboard_time": 1736270954,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 5405,
+      "num": 164908,
+      "word": "郑钦文vs斯维托丽娜",
+      "onboard_time": 1736317761,
+      "rank": 29,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
