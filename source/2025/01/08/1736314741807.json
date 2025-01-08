@@ -1,0 +1,410 @@
+{
+  "runTime": 1736314741807,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 165709,
+        "num": 1026513,
+        "word": "西藏地震407名被困人员获救",
+        "onboard_time": 1736311763,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1377075,
+        "num": 943171,
+        "word": "手机价格不超6000元可获补贴",
+        "onboard_time": 1736310923,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 36915,
+        "num": 762679,
+        "word": "2024年我国快递业务量突破1700亿件",
+        "onboard_time": 1736306602,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1157387,
+        "num": 762084,
+        "word": "景区回应贪睡出名的鱼真死了",
+        "onboard_time": 1736309241,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 760967,
+        "num": 760967,
+        "word": "特朗普再提吞并加拿大",
+        "onboard_time": 1736307922,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 685645,
+        "num": 685645,
+        "word": "国补",
+        "onboard_time": 1736306421,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 519931,
+        "num": 519931,
+        "word": "手机购新补贴方案来了",
+        "onboard_time": 1736305463,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 497317,
+        "num": 497317,
+        "word": "国色芳华白月梵星首播数据",
+        "onboard_time": 1736306062,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 390631,
+        "num": 495145,
+        "word": "檀健次喊话大家该看滤镜了",
+        "onboard_time": 1736311343,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224057,
+        "num": 487535,
+        "word": "地图全景还原西藏定日县6.8级地震",
+        "onboard_time": 1736310923,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1670158,
+        "num": 479097,
+        "word": "泰警方称将调查王星是否涉犯罪",
+        "onboard_time": 1736311821,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 895438,
+        "num": 469678,
+        "word": "女子离婚受阻用毒鼠强毒死丈夫",
+        "onboard_time": 1736313145,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 462421,
+        "num": 462421,
+        "word": "西藏定日县地震已致126人遇难",
+        "onboard_time": 1736259264,
+        "rank": 12,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 583308,
+        "num": 460279,
+        "word": "女游客在泰国给大象洗澡被刺死",
+        "onboard_time": 1736300240,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 555067,
+        "num": 458251,
+        "word": "王星成功获救",
+        "onboard_time": 1736252905,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443959,
+        "num": 443959,
+        "word": "难哄",
+        "onboard_time": 1736310442,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301010,
+        "num": 301010,
+        "word": "叠纸未对玩家诉求做出回应",
+        "onboard_time": 1736314521,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 270595,
+        "num": 270595,
+        "word": "30年前杀人案告破被害人女儿更焦虑",
+        "onboard_time": 1736307442,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243776,
+        "num": 243776,
+        "word": "丹麦改国徽宣示格陵兰岛主权",
+        "onboard_time": 1736308643,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 220759,
+        "num": 220759,
+        "word": "怎么舒淇还长这样啊",
+        "onboard_time": 1736307022,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 349049,
+        "num": 220675,
+        "word": "最强大脑捅到状元窝了",
+        "onboard_time": 1736312603,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324581,
+        "num": 220373,
+        "word": "杨蓉 不愿意做很多工作大侦探除外",
+        "onboard_time": 1736312542,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323132,
+        "num": 220276,
+        "word": "张继科说乒乓球打法20年没创新",
+        "onboard_time": 1736310862,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172171,
+        "num": 220101,
+        "word": "陈数素颜出演新剧",
+        "onboard_time": 1736313442,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195187,
+        "num": 219744,
+        "word": "国乒前世界第一说不关心世排",
+        "onboard_time": 1736314220,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110785,
+        "num": 219484,
+        "word": "女子182元买1斤多螃蟹绳重占8两",
+        "onboard_time": 1736313203,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56379,
+        "num": 219289,
+        "word": "敖瑞鹏隔着网线好像又被训了",
+        "onboard_time": 1736314702,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17169,
+        "num": 219137,
+        "word": "武警官兵为灾区群众搭建帐篷",
+        "onboard_time": 1736314042,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46862,
+        "num": 218943,
+        "word": "梁王组合挺进16强",
+        "onboard_time": 1736313982,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43168,
+        "num": 218708,
+        "word": "梁王组合2比0金基正金沙朗",
+        "onboard_time": 1736313982,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168150,
+        "num": 218563,
+        "word": "白鹿扛剧能力",
+        "onboard_time": 1736293820,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96431,
+        "num": 218401,
+        "word": "郭京飞认领疯国国王",
+        "onboard_time": 1736313622,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218204,
+        "num": 218204,
+        "word": "泻立停被全面禁售",
+        "onboard_time": 1736302821,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215680,
+        "num": 215680,
+        "word": "A股大权重集体上行",
+        "onboard_time": 1736311523,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 173197,
+        "num": 173197,
+        "word": "刘宇宁有自己的武艺拿蛋糕",
+        "onboard_time": 1736314283,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 485068,
+        "num": 172672,
+        "word": "王星称被强迫练习打字",
+        "onboard_time": 1736310022,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203629,
+        "num": 171595,
+        "word": "12306崩了",
+        "onboard_time": 1736301981,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 67009,
+        "num": 170660,
+        "word": "白月梵星异地恋全靠神奇海螺",
+        "onboard_time": 1736312362,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170506,
+        "num": 170506,
+        "word": "特朗普不排除武力控制巴拿马运河格陵兰岛",
+        "onboard_time": 1736305221,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 168348,
+        "num": 168348,
+        "word": "肖战一定要知道自己不想要什么",
+        "onboard_time": 1736312484,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167577,
+        "num": 167577,
+        "word": "广州猎德村有人分到4万元分红",
+        "onboard_time": 1736308463,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155427,
+        "num": 155427,
+        "word": "朱雨玲说乒乓球格局全变了",
+        "onboard_time": 1736312662,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104099,
+        "num": 153735,
+        "word": "房子被鉴定为危房3年了还没拆",
+        "onboard_time": 1736312782,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153351,
+        "num": 153351,
+        "word": "以旧换新补贴家电产品增至12类",
+        "onboard_time": 1736306001,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 151948,
+        "num": 151948,
+        "word": "侯明昊卢昱晓入青云杀青应援",
+        "onboard_time": 1736313804,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141828,
+        "num": 141828,
+        "word": "西藏地震",
+        "onboard_time": 1736212460,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140988,
+        "num": 140988,
+        "word": "养猫后发现自己会是很糟糕的父母",
+        "onboard_time": 1736306540,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140694,
+        "num": 140694,
+        "word": "横店群演春节涨薪10小时160元",
+        "onboard_time": 1736312063,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137825,
+        "num": 137825,
+        "word": "本次流感将在1月中旬达到高峰",
+        "onboard_time": 1736302041,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137219,
+        "num": 137219,
+        "word": "甲流和普通感冒的最大区别",
+        "onboard_time": 1736302581,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#要尽最大努力保障人民群众生命财产安全#"
+    }
+  }
+}
