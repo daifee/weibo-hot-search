@@ -1,0 +1,410 @@
+{
+  "runTime": 1736321727808,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2274632,
+        "num": 2274632,
+        "word": "江苏确诊一例罕见传染病",
+        "onboard_time": 1736318060,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1064757,
+        "num": 1064757,
+        "word": "被骗缅北小伙称被发现报警基本九死一生",
+        "onboard_time": 1736318421,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26920,
+        "num": 871512,
+        "word": "2024年我国快递业务量突破1700亿件",
+        "onboard_time": 1736306602,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 687536,
+        "num": 687536,
+        "word": "手机价格不超6000元可获补贴",
+        "onboard_time": 1736310923,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 626643,
+        "num": 626643,
+        "word": "于正称白鹿单扛白月梵星",
+        "onboard_time": 1736317941,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 474619,
+        "num": 474619,
+        "word": "景区回应贪睡出名的鱼真死了",
+        "onboard_time": 1736309241,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 400660,
+        "num": 400660,
+        "word": "张雅钦自我检讨长胖了",
+        "onboard_time": 1736319141,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 394787,
+        "num": 394787,
+        "word": "特朗普发地图将加拿大标为美国",
+        "onboard_time": 1736318241,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 375347,
+        "num": 375347,
+        "word": "手机购新补贴方案来了",
+        "onboard_time": 1736305463,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 437586,
+        "num": 373956,
+        "word": "难怪这么自然原来白鹿是真睡着了",
+        "onboard_time": 1736314881,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 3015361,
+        "num": 368300,
+        "word": "演员王星在飞机上自述剃头过程",
+        "onboard_time": 1736315062,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 802535,
+        "num": 365098,
+        "word": "星星预计1至2天可返回中国",
+        "onboard_time": 1736318782,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 564114,
+        "num": 361048,
+        "word": "曾资助刘强东5毛钱上大学老人发声",
+        "onboard_time": 1736320220,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448698,
+        "num": 357372,
+        "word": "女子离婚受阻用毒鼠强毒死丈夫",
+        "onboard_time": 1736313145,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354487,
+        "num": 354487,
+        "word": "西藏定日县地震已致126人遇难",
+        "onboard_time": 1736259264,
+        "rank": 14,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 2818257,
+        "num": 351776,
+        "word": "王星说被迫接受了两三天诈骗培训",
+        "onboard_time": 1736319203,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343076,
+        "num": 343076,
+        "word": "震后第一个清晨受灾群众吃上热呼早餐",
+        "onboard_time": 1736318001,
+        "rank": 16,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 325723,
+        "num": 325723,
+        "word": "北外严正声明",
+        "onboard_time": 1736315241,
+        "rank": 17,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 128766,
+        "num": 324149,
+        "word": "2025亚冬会",
+        "onboard_time": 1736321421,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206082,
+        "num": 322468,
+        "word": "19岁女大学生深夜失踪8天未归",
+        "onboard_time": 1736320043,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 825058,
+        "num": 317994,
+        "word": "工资8000一年攒下72000",
+        "onboard_time": 1736319141,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 518045,
+        "num": 317016,
+        "word": "舅妈灵堂不下跪被外甥打断6根肋骨",
+        "onboard_time": 1736320702,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314835,
+        "num": 314835,
+        "word": "金玟庭回复黑评",
+        "onboard_time": 1736318483,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301726,
+        "num": 301726,
+        "word": "永夜星河真的把粉丝养的很好",
+        "onboard_time": 1736319920,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113367,
+        "num": 294975,
+        "word": "黎深 脸红的蘑菇",
+        "onboard_time": 1736319203,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 292346,
+        "num": 292346,
+        "word": "夏以昼兄妹关系解除",
+        "onboard_time": 1736319203,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 286685,
+        "num": 286685,
+        "word": "王者荣耀",
+        "onboard_time": 1736319561,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194285,
+        "num": 271236,
+        "word": "国色芳华片尾好多人啊",
+        "onboard_time": 1736318961,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187004,
+        "num": 270693,
+        "word": "韩商言快从李现身上下来",
+        "onboard_time": 1736315062,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 38675,
+        "num": 270675,
+        "word": "郑钦文亮相澳网慈善赛",
+        "onboard_time": 1736320043,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270675,
+        "num": 270674,
+        "word": "Faker疑似恋爱",
+        "onboard_time": 1736319141,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 269388,
+        "num": 269388,
+        "word": "minji脸被涂黑",
+        "onboard_time": 1736319321,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266325,
+        "num": 266325,
+        "word": "女生发现自己指甲跟课本病例图片一样",
+        "onboard_time": 1736315121,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263391,
+        "num": 263391,
+        "word": "特朗普再提吞并加拿大",
+        "onboard_time": 1736307922,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 198144,
+        "num": 198144,
+        "word": "北外通报某教师深夜跟踪女同事",
+        "onboard_time": 1736317280,
+        "rank": 34,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 195523,
+        "num": 195523,
+        "word": "田曦薇微醺吻戏这60秒",
+        "onboard_time": 1736319321,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195518,
+        "num": 195518,
+        "word": "伊能静吐槽芬兰航空",
+        "onboard_time": 1736320463,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194218,
+        "num": 194218,
+        "word": "这么恐怖的天赋居然才两岁半",
+        "onboard_time": 1736319863,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178943,
+        "num": 178943,
+        "word": "谁懂李现歪嘴笑的含金量",
+        "onboard_time": 1736320582,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172239,
+        "num": 172239,
+        "word": "甲流",
+        "onboard_time": 1736316082,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 168160,
+        "num": 168160,
+        "word": "西藏地震407名被困人员获救",
+        "onboard_time": 1736311763,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164318,
+        "num": 164318,
+        "word": "女游客在泰国给大象洗澡被刺死",
+        "onboard_time": 1736300240,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 160509,
+        "num": 160509,
+        "word": "杨蓉 不愿意做很多工作大侦探除外",
+        "onboard_time": 1736312542,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150671,
+        "num": 150671,
+        "word": "国补",
+        "onboard_time": 1736306421,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 85084,
+        "num": 145842,
+        "word": "微博之夜到底有谁在啊",
+        "onboard_time": 1736320220,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143288,
+        "num": 143288,
+        "word": "国色芳华",
+        "onboard_time": 1736316082,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139697,
+        "num": 139697,
+        "word": "本次流感将在1月中旬达到高峰",
+        "onboard_time": 1736302041,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132624,
+        "num": 132624,
+        "word": "西藏地震",
+        "onboard_time": 1736212460,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131667,
+        "num": 131667,
+        "word": "雅典娜",
+        "onboard_time": 1736299520,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 119837,
+        "num": 119837,
+        "word": "以旧换新补贴家电产品增至12类",
+        "onboard_time": 1736306001,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#要尽最大努力保障人民群众生命财产安全#"
+    }
+  }
+}
