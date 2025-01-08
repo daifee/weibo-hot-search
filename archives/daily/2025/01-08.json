@@ -1,6 +1,6 @@
 {
   "startTime": 1736266474874,
-  "endTime": 1736305289542,
+  "endTime": 1736306811650,
   "band_list": [
     {
       "raw_hot": 3084192,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3073531,
-      "num": 361917,
+      "num": 425931,
       "word": "王星成功获救",
       "onboard_time": 1736252905,
       "rank": 10,
@@ -67,6 +67,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1198315,
+      "num": 1084996,
+      "word": "手机购新补贴方案来了",
+      "onboard_time": 1736305463,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1177534,
       "num": 1177534,
       "word": "西藏定日县地震已致126人遇难",
@@ -80,6 +88,14 @@
       "word": "王星采访",
       "onboard_time": 1736255365,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1163037,
+      "num": 428213,
+      "word": "王星将进入泰国国家转介机制",
+      "onboard_time": 1736306481,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -123,7 +139,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 773626,
+      "raw_hot": 781056,
       "num": 490743,
       "word": "为西藏捐款的明星",
       "onboard_time": 1736302879,
@@ -145,6 +161,14 @@
       "onboard_time": 1736261125,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 688873,
+      "num": 688873,
+      "word": "贪了2亿元的三甲院长赃款藏屋子夹层",
+      "onboard_time": 1736302340,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 629217,
@@ -171,6 +195,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 510919,
+      "num": 526020,
+      "word": "刘畅人设",
+      "onboard_time": 1736304440,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 495479,
       "num": 495479,
       "word": "国色芳华热度",
@@ -195,14 +227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 435096,
-      "num": 526020,
-      "word": "刘畅人设",
-      "onboard_time": 1736304440,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 431559,
       "num": 372476,
       "word": "迪丽热巴捐款驰援西藏",
@@ -211,12 +235,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 421481,
-      "num": 509951,
-      "word": "贪了2亿元的三甲院长赃款藏屋子夹层",
-      "onboard_time": 1736302340,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 424166,
+      "num": 512454,
+      "word": "甲流和普通感冒的最大区别",
+      "onboard_time": 1736302581,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 418950,
@@ -267,20 +291,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 353413,
+      "num": 428629,
+      "word": "国色芳华白月梵星首播数据",
+      "onboard_time": 1736306062,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 346052,
       "num": 346052,
       "word": "国色芳华开播",
       "onboard_time": 1736249662,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 335239,
-      "num": 512454,
-      "word": "甲流和普通感冒的最大区别",
-      "onboard_time": 1736302581,
-      "rank": 9,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 332293,
@@ -299,12 +323,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 317955,
+      "num": 427429,
+      "word": "大爷拿走女子电动车挡风被当新衣",
+      "onboard_time": 1736304680,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 315814,
       "num": 201082,
       "word": "三甲医院院长收了2亿多回扣",
       "onboard_time": 1736297663,
       "rank": 20,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 300650,
+      "num": 300650,
+      "word": "特朗普不排除武力控制巴拿马运河格陵兰岛",
+      "onboard_time": 1736305221,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 297876,
@@ -363,11 +403,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243646,
+      "num": 243646,
+      "word": "李昀锐冰湖重生兜帽斗篷路透",
+      "onboard_time": 1736305941,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238040,
       "num": 325685,
       "word": "芳芳你美",
       "onboard_time": 1736262324,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 231484,
+      "num": 231484,
+      "word": "以旧换新补贴家电产品增至12类",
+      "onboard_time": 1736306001,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 228565,
+      "num": 316945,
+      "word": "国色芳华里到底有多少牡丹",
+      "onboard_time": 1736281030,
+      "rank": 9,
       "category": "剧集"
     },
     {
@@ -387,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213364,
+      "num": 334453,
+      "word": "王一博用演技赋予角色生命力",
+      "onboard_time": 1736302220,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212237,
       "num": 325466,
       "word": "丁禹兮 善良战胜了i人的社恐",
@@ -403,20 +475,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 205024,
-      "num": 316945,
-      "word": "国色芳华里到底有多少牡丹",
-      "onboard_time": 1736281030,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 204695,
       "num": 325589,
       "word": "白月梵星爱奇艺热度破7000",
       "onboard_time": 1736261184,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202104,
+      "num": 424802,
+      "word": "湘潭大学投毒案一审开庭",
+      "onboard_time": 1736305100,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200770,
@@ -433,6 +505,30 @@
       "onboard_time": 1736265322,
       "rank": 26,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 193500,
+      "num": 193500,
+      "word": "100张照片缅怀周恩来",
+      "onboard_time": 1736305463,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 192011,
+      "num": 305439,
+      "word": "杨幂捐赠驰援灾区",
+      "onboard_time": 1736305040,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 190565,
+      "num": 190565,
+      "word": "打工人的年终奖也要提前支配了",
+      "onboard_time": 1736306540,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 187821,
@@ -467,6 +563,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 176839,
+      "num": 834833,
+      "word": "日喀则我们在一起",
+      "onboard_time": 1736304860,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 176525,
       "num": 176525,
       "word": "猫 人家被你绊倒啦",
@@ -475,12 +579,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 175244,
-      "num": 175244,
-      "word": "大爷拿走女子电动车挡风被当新衣",
-      "onboard_time": 1736304680,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 175485,
+      "num": 175485,
+      "word": "养猫后发现自己会是很糟糕的父母",
+      "onboard_time": 1736306540,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 171094,
+      "num": 171094,
+      "word": "国补",
+      "onboard_time": 1736306421,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 170853,
@@ -499,12 +611,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165852,
-      "num": 334453,
-      "word": "王一博用演技赋予角色生命力",
-      "onboard_time": 1736302220,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 162358,
+      "num": 325349,
+      "word": "西藏地震",
+      "onboard_time": 1736212460,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154709,
@@ -584,14 +696,6 @@
       "word": "女子称在三亚冲浪时遭教练猥亵",
       "onboard_time": 1736302759,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140518,
-      "num": 325349,
-      "word": "西藏地震",
-      "onboard_time": 1736212460,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -745,14 +849,6 @@
       "onboard_time": 1736262443,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 103629,
-      "num": 103629,
-      "word": "特朗普不排除武力控制巴拿马运河格陵兰岛",
-      "onboard_time": 1736305221,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 102533,
@@ -955,22 +1051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 64294,
-      "num": 834833,
-      "word": "日喀则我们在一起",
-      "onboard_time": 1736304860,
-      "rank": 2,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 63537,
-      "num": 291559,
-      "word": "湘潭大学投毒案一审开庭",
-      "onboard_time": 1736305100,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62784,
       "num": 130320,
       "word": "贾玲以妈妈名义捐赠西藏灾区",
@@ -1028,11 +1108,19 @@
     },
     {
       "raw_hot": 57906,
-      "num": 187749,
+      "num": 191458,
       "word": "尹烨谈年轻人躺平",
       "onboard_time": 1736303841,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 54565,
+      "num": 426668,
+      "word": "海拔4300米子弟兵为震区群众做早餐",
+      "onboard_time": 1736305640,
+      "rank": 14,
+      "category": "正能量"
     },
     {
       "raw_hot": 52667,
@@ -1057,14 +1145,6 @@
       "onboard_time": 1736270177,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 51290,
-      "num": 305439,
-      "word": "杨幂捐赠驰援灾区",
-      "onboard_time": 1736305040,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 51043,
@@ -1123,6 +1203,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40297,
+      "num": 236902,
+      "word": "大爷为褪鸡毛点燃液化气罐",
+      "onboard_time": 1736305881,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34957,
+      "num": 235436,
+      "word": "感冒要不要吃消炎药",
+      "onboard_time": 1736305701,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 34483,
       "num": 62733,
       "word": "进击的巨人 鱿鱼游戏",
@@ -1169,6 +1265,14 @@
       "onboard_time": 1736270115,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 26261,
+      "num": 424251,
+      "word": "汪苏泷捐赠驰援西藏",
+      "onboard_time": 1736306301,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 24375,
@@ -1249,6 +1353,14 @@
       "onboard_time": 1736277372,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7811,
+      "num": 935234,
+      "word": "2024年我国快递业务量突破1700亿件",
+      "onboard_time": 1736306602,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 6750,
