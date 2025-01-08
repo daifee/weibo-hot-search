@@ -1,6 +1,6 @@
 {
   "startTime": 1736266474874,
-  "endTime": 1736336150620,
+  "endTime": 1736340204757,
   "band_list": [
     {
       "raw_hot": 4591252,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2651426,
+      "num": 2651426,
+      "word": "警方捣毁绑架王星案涉案公司",
+      "onboard_time": 1736336601,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2523138,
       "num": 2523138,
       "word": "王星终于与女友见面了",
@@ -57,6 +65,14 @@
       "onboard_time": 1736301860,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2317814,
+      "num": 846304,
+      "word": "宝格丽晚宴",
+      "onboard_time": 1736337861,
+      "rank": 3,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 2274632,
@@ -107,6 +123,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1787284,
+      "num": 402442,
+      "word": "刘亦菲青蛇白蛇",
+      "onboard_time": 1736338462,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1768799,
       "num": 354833,
       "word": "泰总理称男星失踪案极大影响旅游业",
@@ -121,6 +145,14 @@
       "onboard_time": 1736323583,
       "rank": 1,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 1678296,
+      "num": 312856,
+      "word": "王星到园区第一天就挨了打",
+      "onboard_time": 1736340143,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1633549,
@@ -177,6 +209,14 @@
       "onboard_time": 1736332042,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1276830,
+      "num": 1276830,
+      "word": "地震被压废墟下戴帽小孩是AI生成",
+      "onboard_time": 1736336541,
+      "rank": 1,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1240920,
@@ -307,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 825741,
+      "num": 1110680,
+      "word": "国色芳华会是下一个爆剧吗",
+      "onboard_time": 1736330841,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 818308,
       "num": 203227,
       "word": "石悦",
@@ -331,20 +379,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 779191,
+      "num": 312158,
+      "word": "孟子义李昀锐活动同框",
+      "onboard_time": 1736338762,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 777859,
       "num": 528635,
       "word": "王星称被强迫练习打字",
       "onboard_time": 1736310022,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 768630,
-      "num": 1110680,
-      "word": "国色芳华会是下一个爆剧吗",
-      "onboard_time": 1736330841,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 767937,
@@ -513,6 +561,14 @@
       "onboard_time": 1736307442,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 547671,
+      "num": 311275,
+      "word": "昀牵孟绕",
+      "onboard_time": 1736338701,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 517837,
@@ -684,7 +740,7 @@
     },
     {
       "raw_hot": 378241,
-      "num": 253897,
+      "num": 258696,
       "word": "女子凌晨突发失语用敲击声求助120",
       "onboard_time": 1736332941,
       "rank": 21,
@@ -737,6 +793,14 @@
       "onboard_time": 1736318483,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 347629,
+      "num": 310335,
+      "word": "王楚钦为西藏灾区捐赠",
+      "onboard_time": 1736333602,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 347087,
@@ -819,12 +883,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 316465,
+      "num": 259054,
+      "word": "丁禹兮米妮坐肩公仔",
+      "onboard_time": 1736336601,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 315814,
       "num": 201082,
       "word": "三甲医院院长收了2亿多回扣",
       "onboard_time": 1736297663,
       "rank": 20,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 313751,
+      "num": 313751,
+      "word": "央视曝光主播认干亲骗局",
+      "onboard_time": 1736337560,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 310110,
+      "num": 310110,
+      "word": "高考状元离开应试教育的20年",
+      "onboard_time": 1736330601,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 304999,
@@ -963,6 +1051,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 260729,
+      "num": 260729,
+      "word": "刘诗雯好冷静",
+      "onboard_time": 1736336240,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 260258,
       "num": 260258,
       "word": "微博之夜阵容官宣",
@@ -977,6 +1073,14 @@
       "onboard_time": 1736311523,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 257922,
+      "num": 257922,
+      "word": "绑架星星的老板为广东籍",
+      "onboard_time": 1736338221,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 253134,
@@ -1017,14 +1121,6 @@
       "onboard_time": 1736324361,
       "rank": 32,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 244631,
-      "num": 277611,
-      "word": "高考状元离开应试教育的20年",
-      "onboard_time": 1736330601,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 243918,
@@ -1099,6 +1195,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225672,
+      "num": 225672,
+      "word": "高校喊话刘美含吃知识点",
+      "onboard_time": 1736339242,
+      "rank": 27,
+      "category": "剧集,教育"
+    },
+    {
+      "raw_hot": 220165,
+      "num": 220165,
+      "word": "李昀锐宝格丽上班路透",
+      "onboard_time": 1736337920,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 216366,
       "num": 149024,
       "word": "演员从2米多高跷摔下众人飞奔护头",
@@ -1129,6 +1241,14 @@
       "onboard_time": 1736333722,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 214601,
+      "num": 214601,
+      "word": "王源 QQ音乐代言人",
+      "onboard_time": 1736338041,
+      "rank": 29,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 213454,
@@ -1179,6 +1299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 208372,
+      "num": 259260,
+      "word": "虞书欣丁禹兮都去微博之夜",
+      "onboard_time": 1736339121,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 208087,
       "num": 208087,
       "word": "年终奖都用来买年货的年轻人",
@@ -1201,14 +1329,6 @@
       "onboard_time": 1736325322,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 205392,
-      "num": 205392,
-      "word": "王楚钦为西藏灾区捐赠",
-      "onboard_time": 1736333602,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 204695,
@@ -1241,6 +1361,14 @@
       "onboard_time": 1736295500,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200068,
+      "num": 200068,
+      "word": "大奉23集上分",
+      "onboard_time": 1736339423,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 199330,
@@ -1539,6 +1667,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 176568,
+      "num": 176568,
+      "word": "高叶 一次全醺换来终身内向",
+      "onboard_time": 1736336060,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176525,
       "num": 176525,
       "word": "猫 人家被你绊倒啦",
@@ -1553,6 +1689,14 @@
       "onboard_time": 1736326583,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174388,
+      "num": 313696,
+      "word": "加拿大执政党发布标明美加国界线地图",
+      "onboard_time": 1736338401,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 174019,
@@ -1699,14 +1843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 153638,
-      "num": 153638,
-      "word": "高叶 一次全醺换来终身内向",
-      "onboard_time": 1736336060,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 153289,
       "num": 143655,
       "word": "定日县震中周边5年29次3级以上地震",
@@ -1721,6 +1857,14 @@
       "onboard_time": 1736316622,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152255,
+      "num": 152255,
+      "word": "红白囍广播剧",
+      "onboard_time": 1736338942,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 151948,
@@ -1915,6 +2059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139520,
+      "num": 139520,
+      "word": "中超联赛",
+      "onboard_time": 1736339660,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139068,
       "num": 325439,
       "word": "韩方首次确认失事客机遭遇鸟击",
@@ -1969,6 +2121,14 @@
       "onboard_time": 1736335520,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 128972,
+      "num": 167760,
+      "word": "广州猎德有人分到近20万元分红",
+      "onboard_time": 1736338162,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128915,
@@ -2488,6 +2648,14 @@
       "word": "无畏官宣微博之夜",
       "onboard_time": 1736330480,
       "rank": 37,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 63094,
+      "num": 258775,
+      "word": "花海国风大片",
+      "onboard_time": 1736338820,
+      "rank": 24,
       "category": "电竞"
     },
     {

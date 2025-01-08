@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736336150620,
+  "endTime": 1736340204757,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -371,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2651426,
+      "num": 2651426,
+      "word": "警方捣毁绑架王星案涉案公司",
+      "onboard_time": 1736336601,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2582877,
       "num": 2582877,
       "word": "西藏地震",
@@ -489,6 +497,14 @@
       "onboard_time": 1735874540,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2317814,
+      "num": 846304,
+      "word": "宝格丽晚宴",
+      "onboard_time": 1736337861,
+      "rank": 3,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 2277571,
@@ -851,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1787284,
+      "num": 402442,
+      "word": "刘亦菲青蛇白蛇",
+      "onboard_time": 1736338462,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1779477,
       "num": 1344113,
       "word": "王锵上线了",
@@ -953,6 +977,14 @@
       "onboard_time": 1735980442,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1678296,
+      "num": 312856,
+      "word": "王星到园区第一天就挨了打",
+      "onboard_time": 1736340143,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1670209,
@@ -1457,6 +1489,14 @@
       "onboard_time": 1736228961,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1276830,
+      "num": 1276830,
+      "word": "地震被压废墟下戴帽小孩是AI生成",
+      "onboard_time": 1736336541,
+      "rank": 1,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1274107,
@@ -2361,46 +2401,6 @@
       "onboard_time": 1736057249,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 886438,
-      "num": 843302,
-      "word": "王楚钦和许昕儿子合照",
-      "onboard_time": 1735892929,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 886200,
-      "num": 336578,
-      "word": "竹林四侠 成双成对",
-      "onboard_time": 1735978522,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 885841,
-      "num": 885841,
-      "word": "泻立停被全面禁售",
-      "onboard_time": 1736302821,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 883945,
-      "num": 669248,
-      "word": "理发师晓华爆改外国人",
-      "onboard_time": 1735816639,
-      "rank": 34,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 880817,
-      "num": 1767570,
-      "word": "16岁弟弟为救跳河姐姐不幸溺亡",
-      "onboard_time": 1736035462,
-      "rank": 1,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

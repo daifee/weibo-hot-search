@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736336150620,
+  "endTime": 1736340204757,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -371,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2651426,
+      "num": 2651426,
+      "word": "警方捣毁绑架王星案涉案公司",
+      "onboard_time": 1736336601,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2582877,
       "num": 2582877,
       "word": "西藏地震",
@@ -489,6 +497,14 @@
       "onboard_time": 1735874540,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2317814,
+      "num": 846304,
+      "word": "宝格丽晚宴",
+      "onboard_time": 1736337861,
+      "rank": 3,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 2277571,
@@ -851,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1787284,
+      "num": 402442,
+      "word": "刘亦菲青蛇白蛇",
+      "onboard_time": 1736338462,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1779477,
       "num": 1344113,
       "word": "王锵上线了",
@@ -953,6 +977,14 @@
       "onboard_time": 1735980442,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1678296,
+      "num": 312856,
+      "word": "王星到园区第一天就挨了打",
+      "onboard_time": 1736340143,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1670209,
@@ -1457,6 +1489,14 @@
       "onboard_time": 1736228961,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1276830,
+      "num": 1276830,
+      "word": "地震被压废墟下戴帽小孩是AI生成",
+      "onboard_time": 1736336541,
+      "rank": 1,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1274107,
@@ -2587,6 +2627,14 @@
       "category": "突发/灾害,艺人"
     },
     {
+      "raw_hot": 825741,
+      "num": 1110680,
+      "word": "国色芳华会是下一个爆剧吗",
+      "onboard_time": 1736330841,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 822927,
       "num": 822927,
       "word": "小猫皮草传到了国外",
@@ -2819,6 +2867,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 779191,
+      "num": 312158,
+      "word": "孟子义李昀锐活动同框",
+      "onboard_time": 1736338762,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 778709,
       "num": 778709,
       "word": "王力宏状态",
@@ -2865,14 +2921,6 @@
       "onboard_time": 1736216780,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 768630,
-      "num": 1110680,
-      "word": "国色芳华会是下一个爆剧吗",
-      "onboard_time": 1736330841,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 768582,
@@ -6236,7 +6284,7 @@
     },
     {
       "raw_hot": 378241,
-      "num": 253897,
+      "num": 258696,
       "word": "女子凌晨突发失语用敲击声求助120",
       "onboard_time": 1736332941,
       "rank": 21,
@@ -6809,6 +6857,14 @@
       "onboard_time": 1736132780,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 347629,
+      "num": 310335,
+      "word": "王楚钦为西藏灾区捐赠",
+      "onboard_time": 1736333602,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 347539,
@@ -7443,6 +7499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 316465,
+      "num": 259054,
+      "word": "丁禹兮米妮坐肩公仔",
+      "onboard_time": 1736336601,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 316243,
       "num": 316243,
       "word": "乒超MVP",
@@ -7499,6 +7563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 313751,
+      "num": 313751,
+      "word": "央视曝光主播认干亲骗局",
+      "onboard_time": 1736337560,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 313307,
       "num": 313307,
       "word": "广东一老人买药材煲汤中毒身亡",
@@ -7553,6 +7625,14 @@
       "onboard_time": 1736060006,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 310110,
+      "num": 310110,
+      "word": "高考状元离开应试教育的20年",
+      "onboard_time": 1736330601,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 310025,
@@ -8867,6 +8947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260729,
+      "num": 260729,
+      "word": "刘诗雯好冷静",
+      "onboard_time": 1736336240,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 260667,
       "num": 260667,
       "word": "雷军晒健身房照片",
@@ -8953,6 +9041,14 @@
       "onboard_time": 1735648587,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 257922,
+      "num": 257922,
+      "word": "绑架星星的老板为广东籍",
+      "onboard_time": 1736338221,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 257814,
@@ -9385,14 +9481,6 @@
       "onboard_time": 1735707979,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 244631,
-      "num": 277611,
-      "word": "高考状元离开应试教育的20年",
-      "onboard_time": 1736330601,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 244449,
@@ -10131,6 +10219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225672,
+      "num": 225672,
+      "word": "高校喊话刘美含吃知识点",
+      "onboard_time": 1736339242,
+      "rank": 27,
+      "category": "剧集,教育"
+    },
+    {
       "raw_hot": 225412,
       "num": 987200,
       "word": "周柯宇举着迪丽热巴走红毯",
@@ -10411,6 +10507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 220165,
+      "num": 220165,
+      "word": "李昀锐宝格丽上班路透",
+      "onboard_time": 1736337920,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 220145,
       "num": 220145,
       "word": "女子拒绝复合被泼汽油男方获刑12年",
@@ -10689,6 +10793,14 @@
       "onboard_time": 1735804579,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214601,
+      "num": 214601,
+      "word": "王源 QQ音乐代言人",
+      "onboard_time": 1736338041,
+      "rank": 29,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 214208,
@@ -11099,6 +11211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208372,
+      "num": 259260,
+      "word": "虞书欣丁禹兮都去微博之夜",
+      "onboard_time": 1736339121,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 208328,
       "num": 195430,
       "word": "宋雨琦金唱片最佳solo艺人",
@@ -11281,14 +11401,6 @@
       "onboard_time": 1736210961,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 205392,
-      "num": 205392,
-      "word": "王楚钦为西藏灾区捐赠",
-      "onboard_time": 1736333602,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 205296,
@@ -11825,6 +11937,14 @@
       "onboard_time": 1735737382,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200068,
+      "num": 200068,
+      "word": "大奉23集上分",
+      "onboard_time": 1736339423,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 200035,
@@ -13691,6 +13811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176568,
+      "num": 176568,
+      "word": "高叶 一次全醺换来终身内向",
+      "onboard_time": 1736336060,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176525,
       "num": 176525,
       "word": "猫 人家被你绊倒啦",
@@ -13824,6 +13952,14 @@
       "word": "百余人参与逮捕尹锡悦失败",
       "onboard_time": 1735995089,
       "rank": 18,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 174388,
+      "num": 313696,
+      "word": "加拿大执政党发布标明美加国界线地图",
+      "onboard_time": 1736338401,
+      "rank": 9,
       "category": "国际时政"
     },
     {
@@ -15811,14 +15947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 153638,
-      "num": 153638,
-      "word": "高叶 一次全醺换来终身内向",
-      "onboard_time": 1736336060,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 153609,
       "num": 153609,
       "word": "葛夕你怎么预判了麦琳",
@@ -15953,6 +16081,14 @@
       "onboard_time": 1735727301,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152255,
+      "num": 152255,
+      "word": "红白囍广播剧",
+      "onboard_time": 1736338942,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 152203,
@@ -17147,6 +17283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139520,
+      "num": 139520,
+      "word": "中超联赛",
+      "onboard_time": 1736339660,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139516,
       "num": 134476,
       "word": "白鹿这段梦回时宜了",
@@ -18137,6 +18281,14 @@
       "onboard_time": 1736253444,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128972,
+      "num": 167760,
+      "word": "广州猎德有人分到近20万元分红",
+      "onboard_time": 1736338162,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128918,
@@ -22209,6 +22361,14 @@
       "onboard_time": 1735636342,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63094,
+      "num": 258775,
+      "word": "花海国风大片",
+      "onboard_time": 1736338820,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 62928,
