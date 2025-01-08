@@ -1,0 +1,410 @@
+{
+  "runTime": 1736331859943,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1042402,
+        "num": 1166784,
+        "word": "张若昀魏晨 已婚男人的自觉",
+        "onboard_time": 1736321783,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 689263,
+        "num": 689263,
+        "word": "被骗缅北小伙称被发现报警基本九死一生",
+        "onboard_time": 1736318421,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20703,
+        "num": 681215,
+        "word": "守望相助日喀则",
+        "onboard_time": 1736277013,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 680203,
+        "num": 680203,
+        "word": "抓捕患艾滋嫌犯流血民警hiv检测阴性",
+        "onboard_time": 1736324783,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 678957,
+        "num": 678957,
+        "word": "孙颖莎捐赠驰援西藏",
+        "onboard_time": 1736330421,
+        "rank": 4,
+        "category": "体育,突发/灾害"
+      },
+      {
+        "raw_hot": 659881,
+        "num": 659881,
+        "word": "樊振东那一夜谁人不识君",
+        "onboard_time": 1736328021,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 652237,
+        "num": 652237,
+        "word": "湘潭大学宿舍投毒案嫌疑人家属发声",
+        "onboard_time": 1736327483,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 611502,
+        "num": 611502,
+        "word": "青海玛多县5.5级地震",
+        "onboard_time": 1736323583,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 94740,
+        "num": 610806,
+        "word": "定日县停止接收救灾捐赠",
+        "onboard_time": 1736331801,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 300883,
+        "num": 609596,
+        "word": "国色芳华会是下一个爆剧吗",
+        "onboard_time": 1736330841,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1922528,
+        "num": 606691,
+        "word": "马媒称绑架王星的幕后老板被抓",
+        "onboard_time": 1736326824,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1761506,
+        "num": 605058,
+        "word": "王星终于与女友见面了",
+        "onboard_time": 1736322984,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1120222,
+        "num": 603372,
+        "word": "演员王星在飞机上自述剃头过程",
+        "onboard_time": 1736315062,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478761,
+        "num": 602146,
+        "word": "江苏确诊一例罕见传染病",
+        "onboard_time": 1736318060,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39114,
+        "num": 599288,
+        "word": "被偷装摄像头民宿老板坚持不改店名",
+        "onboard_time": 1736331021,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 598879,
+        "num": 598879,
+        "word": "曾资助刘强东5毛钱上大学老人发声",
+        "onboard_time": 1736320220,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 508769,
+        "num": 508769,
+        "word": "张艺兴官宣加盟2025山东春晚",
+        "onboard_time": 1736327422,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 986485,
+        "num": 504033,
+        "word": "王星说被迫接受了两三天诈骗培训",
+        "onboard_time": 1736319203,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95024,
+        "num": 497024,
+        "word": "陈牧驰微博之夜官宣",
+        "onboard_time": 1736330661,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100255,
+        "num": 488280,
+        "word": "孩子出生两天发现月子中心跑路了",
+        "onboard_time": 1736330123,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 667601,
+        "num": 487327,
+        "word": "工资8000一年攒下72000",
+        "onboard_time": 1736319141,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 480648,
+        "num": 480648,
+        "word": "牙牙张程 分手",
+        "onboard_time": 1736326342,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 415701,
+        "num": 415701,
+        "word": "种地吧直播",
+        "onboard_time": 1736331323,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351116,
+        "num": 351116,
+        "word": "舅妈灵堂不下跪被外甥打断6根肋骨",
+        "onboard_time": 1736320702,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327027,
+        "num": 327027,
+        "word": "特朗普发地图将加拿大标为美国",
+        "onboard_time": 1736318241,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 277983,
+        "num": 277983,
+        "word": "我愿为了这套房子爬七楼",
+        "onboard_time": 1736327602,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 266577,
+        "num": 266577,
+        "word": "星星预计1至2天可返回中国",
+        "onboard_time": 1736318782,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252440,
+        "num": 265959,
+        "word": "伊能静所乘航班共丢失13件行李",
+        "onboard_time": 1736324062,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265549,
+        "num": 265549,
+        "word": "西藏定日县地震已致126人遇难",
+        "onboard_time": 1736259264,
+        "rank": 28,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 171303,
+        "num": 252139,
+        "word": "李现回应川西自驾游原因",
+        "onboard_time": 1736329761,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243861,
+        "num": 243861,
+        "word": "于东来晒胖东来2024年营收",
+        "onboard_time": 1736326163,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 225489,
+        "num": 225489,
+        "word": "手机购新补贴方案来了",
+        "onboard_time": 1736305463,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 210880,
+        "num": 210880,
+        "word": "震后第一个清晨受灾群众吃上热呼早餐",
+        "onboard_time": 1736318001,
+        "rank": 32,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 205945,
+        "num": 205945,
+        "word": "大奉打更人正被翻译成13种语言",
+        "onboard_time": 1736325622,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188155,
+        "num": 188155,
+        "word": "重庆一区委书记号召干部带头消费",
+        "onboard_time": 1736328742,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179841,
+        "num": 179841,
+        "word": "难怪这么自然原来白鹿是真睡着了",
+        "onboard_time": 1736314881,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177982,
+        "num": 177982,
+        "word": "去年买过的产品今年再买还能享受补贴",
+        "onboard_time": 1736323042,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65594,
+        "num": 177186,
+        "word": "无畏官宣微博之夜",
+        "onboard_time": 1736330480,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176613,
+        "num": 176613,
+        "word": "女子离婚受阻用毒鼠强毒死丈夫",
+        "onboard_time": 1736313145,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167312,
+        "num": 167312,
+        "word": "白月梵星播放量超1000万",
+        "onboard_time": 1736331382,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166373,
+        "num": 166373,
+        "word": "胖东来员工平均月收入超9000元",
+        "onboard_time": 1736324361,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 164368,
+        "num": 164368,
+        "word": "甄姬雪境奇遇皮肤",
+        "onboard_time": 1736327902,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158111,
+        "num": 158111,
+        "word": "自称羽协男子在免费球馆驱赶学生",
+        "onboard_time": 1736328622,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157997,
+        "num": 157997,
+        "word": "大奉打更人片尾居然没这个人",
+        "onboard_time": 1736331021,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154091,
+        "num": 154091,
+        "word": "黄景瑜我都拿着你们别蹲着",
+        "onboard_time": 1736328441,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151972,
+        "num": 151972,
+        "word": "国色芳华",
+        "onboard_time": 1736316082,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149793,
+        "num": 149793,
+        "word": "向鹏蒯曼0比3赵大成申裕斌",
+        "onboard_time": 1736327602,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142901,
+        "num": 142901,
+        "word": "手机价格不超6000元可获补贴",
+        "onboard_time": 1736310923,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 135984,
+        "num": 135984,
+        "word": "虞书欣去微博之夜",
+        "onboard_time": 1736324722,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128395,
+        "num": 128395,
+        "word": "买手机国家补贴不限国产进口",
+        "onboard_time": 1736322321,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对反腐败斗争提出明确要求#"
+    }
+  }
+}
