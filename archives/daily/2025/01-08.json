@@ -1,10 +1,10 @@
 {
   "startTime": 1736266474874,
-  "endTime": 1736304743878,
+  "endTime": 1736305289542,
   "band_list": [
     {
       "raw_hot": 3084192,
-      "num": 499208,
+      "num": 500664,
       "word": "王星称被关在有50个中国人的建筑里",
       "onboard_time": 1736295803,
       "rank": 10,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2376681,
-      "num": 1018240,
+      "num": 1034841,
       "word": "员工年会中608万彩票公司要求退还",
       "onboard_time": 1736301860,
       "rank": 1,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1633549,
-      "num": 468970,
+      "num": 492918,
       "word": "女游客在泰国给大象洗澡被刺死",
       "onboard_time": 1736300240,
       "rank": 11,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 773626,
+      "num": 490743,
+      "word": "为西藏捐款的明星",
+      "onboard_time": 1736302879,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 747812,
       "num": 747812,
       "word": "浙江一家6口出游5人感染甲流",
@@ -171,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 484469,
+      "num": 484469,
+      "word": "银川地震",
+      "onboard_time": 1736302520,
+      "rank": 13,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 476125,
       "num": 555415,
       "word": "白鹿扛剧能力",
@@ -179,12 +195,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 448265,
-      "num": 448265,
-      "word": "银川地震",
-      "onboard_time": 1736302520,
-      "rank": 13,
-      "category": "突发/灾害"
+      "raw_hot": 435096,
+      "num": 526020,
+      "word": "刘畅人设",
+      "onboard_time": 1736304440,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 431559,
@@ -195,20 +211,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 421481,
+      "num": 509951,
+      "word": "贪了2亿元的三甲院长赃款藏屋子夹层",
+      "onboard_time": 1736302340,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 418950,
       "num": 418950,
       "word": "19岁男生去世给4人留下生命礼物",
       "onboard_time": 1736271434,
       "rank": 29,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 417430,
-      "num": 417430,
-      "word": "为西藏捐款的明星",
-      "onboard_time": 1736302879,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 404292,
@@ -259,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 335239,
+      "num": 512454,
+      "word": "甲流和普通感冒的最大区别",
+      "onboard_time": 1736302581,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 332293,
       "num": 332293,
       "word": "我国人造太阳进度再刷新",
@@ -283,28 +307,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 310860,
-      "num": 310860,
-      "word": "贪了2亿元的三甲院长赃款藏屋子夹层",
-      "onboard_time": 1736302340,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 297876,
       "num": 297876,
       "word": "翟欣欣涉嫌敲诈勒索案即将开庭",
       "onboard_time": 1736292557,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 289035,
-      "num": 526020,
-      "word": "刘畅人设",
-      "onboard_time": 1736304440,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 286668,
@@ -315,12 +323,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 265117,
-      "num": 512454,
-      "word": "甲流和普通感冒的最大区别",
-      "onboard_time": 1736302581,
-      "rank": 9,
-      "category": "健康医疗"
+      "raw_hot": 271941,
+      "num": 271941,
+      "word": "湘潭大学投毒案最新进展",
+      "onboard_time": 1736302280,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 263702,
+      "num": 263702,
+      "word": "给中国空间站寄点土特产",
+      "onboard_time": 1736304621,
+      "rank": 20,
+      "category": "国内时政"
     },
     {
       "raw_hot": 260258,
@@ -331,27 +347,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 259031,
-      "num": 259031,
-      "word": "给中国空间站寄点土特产",
-      "onboard_time": 1736304621,
-      "rank": 20,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 252488,
       "num": 325990,
       "word": "专家称日喀则发生更大地震可能性不大",
       "onboard_time": 1736256025,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 245940,
-      "num": 245940,
-      "word": "湘潭大学投毒案最新进展",
-      "onboard_time": 1736302280,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -395,8 +395,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208087,
+      "num": 208087,
+      "word": "年终奖都用来买年货的年轻人",
+      "onboard_time": 1736304621,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205024,
-      "num": 260225,
+      "num": 316945,
       "word": "国色芳华里到底有多少牡丹",
       "onboard_time": 1736281030,
       "rank": 9,
@@ -409,14 +417,6 @@
       "onboard_time": 1736261184,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 201103,
-      "num": 201103,
-      "word": "年终奖都用来买年货的年轻人",
-      "onboard_time": 1736304621,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 200770,
@@ -435,6 +435,22 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 187821,
+      "num": 187821,
+      "word": "特鲁多称加拿大绝不可能并入美国",
+      "onboard_time": 1736304621,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 187294,
+      "num": 187294,
+      "word": "小厨娘",
+      "onboard_time": 1736301440,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
       "raw_hot": 187049,
       "num": 324760,
       "word": "健身网红朴胜贤去世",
@@ -451,14 +467,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 182882,
-      "num": 182882,
-      "word": "小厨娘",
-      "onboard_time": 1736301440,
-      "rank": 47,
-      "category": "网红"
-    },
-    {
       "raw_hot": 176525,
       "num": 176525,
       "word": "猫 人家被你绊倒啦",
@@ -467,12 +475,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 175929,
-      "num": 175929,
-      "word": "特鲁多称加拿大绝不可能并入美国",
-      "onboard_time": 1736304621,
-      "rank": 32,
-      "category": "国际时政"
+      "raw_hot": 175244,
+      "num": 175244,
+      "word": "大爷拿走女子电动车挡风被当新衣",
+      "onboard_time": 1736304680,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170853,
@@ -491,8 +499,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160949,
-      "num": 191005,
+      "raw_hot": 165852,
+      "num": 334453,
       "word": "王一博用演技赋予角色生命力",
       "onboard_time": 1736302220,
       "rank": 27,
@@ -539,6 +547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 148629,
+      "num": 148629,
+      "word": "丁禹兮16年就给粉丝发了红包",
+      "onboard_time": 1736299880,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147897,
       "num": 324963,
       "word": "陈都灵说鞠婧祎美丽敬业",
@@ -563,19 +579,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141237,
+      "num": 141237,
+      "word": "女子称在三亚冲浪时遭教练猥亵",
+      "onboard_time": 1736302759,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140518,
+      "num": 325349,
+      "word": "西藏地震",
+      "onboard_time": 1736212460,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139694,
       "num": 133735,
       "word": "白敬亭捐款100万驰援西藏",
       "onboard_time": 1736271314,
       "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 139331,
-      "num": 139331,
-      "word": "丁禹兮16年就给粉丝发了红包",
-      "onboard_time": 1736299880,
-      "rank": 32,
       "category": "艺人"
     },
     {
@@ -595,28 +619,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 135298,
-      "num": 325349,
-      "word": "西藏地震",
-      "onboard_time": 1736212460,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132255,
       "num": 325216,
       "word": "甲流症状累及全身",
       "onboard_time": 1736252544,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 130881,
-      "num": 130881,
-      "word": "女子称在三亚冲浪时遭教练猥亵",
-      "onboard_time": 1736302759,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128915,
@@ -659,6 +667,22 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 115735,
+      "num": 115735,
+      "word": "40岁詹姆斯还有多少油",
+      "onboard_time": 1736302160,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 115540,
+      "num": 911023,
+      "word": "加油日喀则",
+      "onboard_time": 1736242342,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114925,
       "num": 324916,
       "word": "北京下雪",
@@ -691,14 +715,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 108673,
-      "num": 108673,
-      "word": "40岁詹姆斯还有多少油",
-      "onboard_time": 1736302160,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 108056,
       "num": 324650,
       "word": "国色芳华",
@@ -707,11 +723,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 106494,
-      "num": 106494,
-      "word": "大爷拿走女子电动车挡风被当新衣",
-      "onboard_time": 1736304680,
-      "rank": 44,
+      "raw_hot": 106399,
+      "num": 102554,
+      "word": "西藏与尼泊尔同日地震是同一起",
+      "onboard_time": 1736305160,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -731,12 +747,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103629,
+      "num": 103629,
+      "word": "特朗普不排除武力控制巴拿马运河格陵兰岛",
+      "onboard_time": 1736305221,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 102533,
       "num": 102533,
       "word": "王一博报名金像奖",
       "onboard_time": 1736295080,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 102338,
+      "num": 102338,
+      "word": "韩红基金会驰援西藏地震灾区",
+      "onboard_time": 1736304981,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 101572,
@@ -777,14 +809,6 @@
       "onboard_time": 1736290634,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 91037,
-      "num": 911023,
-      "word": "加油日喀则",
-      "onboard_time": 1736242342,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87753,
@@ -883,6 +907,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 80244,
+      "num": 188764,
+      "word": "有棵树回应生理裤疑加塑料膜",
+      "onboard_time": 1736304382,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 76828,
       "num": 76828,
       "word": "韩国老丈人用帝王蟹做大餐",
@@ -921,6 +953,22 @@
       "onboard_time": 1736286613,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 64294,
+      "num": 834833,
+      "word": "日喀则我们在一起",
+      "onboard_time": 1736304860,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 63537,
+      "num": 291559,
+      "word": "湘潭大学投毒案一审开庭",
+      "onboard_time": 1736305100,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62784,
@@ -987,14 +1035,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 54337,
-      "num": 188764,
-      "word": "有棵树回应生理裤疑加塑料膜",
-      "onboard_time": 1736304382,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
       "raw_hot": 52667,
       "num": 76844,
       "word": "贪官用妻子控制的34家公司受贿",
@@ -1019,6 +1059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 51290,
+      "num": 305439,
+      "word": "杨幂捐赠驰援灾区",
+      "onboard_time": 1736305040,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51043,
       "num": 325956,
       "word": "五条人造型师发文道歉",
@@ -1041,6 +1089,14 @@
       "onboard_time": 1736252544,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 48132,
+      "num": 180474,
+      "word": "尹烨评价周鸿祎黑红也是红",
+      "onboard_time": 1736305040,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 46441,
@@ -1209,6 +1265,9 @@
     },
     {
       "word": "#习近平最新反腐部署#"
+    },
+    {
+      "word": "#要尽最大努力保障人民群众生命财产安全#"
     }
   ]
 }
