@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736318655848,
+  "endTime": 1736320869100,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -339,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2840520,
+      "num": 334733,
+      "word": "王星说被迫接受了两三天诈骗培训",
+      "onboard_time": 1736319203,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2828414,
       "num": 2828414,
       "word": "西藏定日县地震已致95人遇难",
@@ -505,6 +513,14 @@
       "onboard_time": 1735782440,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2177166,
+      "num": 2177166,
+      "word": "江苏确诊一例罕见传染病",
+      "onboard_time": 1736318060,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2154478,
@@ -1835,6 +1851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1023528,
+      "num": 1023528,
+      "word": "被骗缅北小伙称被发现报警基本九死一生",
+      "onboard_time": 1736318421,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1017412,
       "num": 639794,
       "word": "赵露思 救救我",
@@ -1953,6 +1977,14 @@
       "onboard_time": 1735778299,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 990085,
+      "num": 324313,
+      "word": "工资8000一年攒下72000",
+      "onboard_time": 1736319141,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 988199,
@@ -2137,6 +2169,14 @@
       "onboard_time": 1735704621,
       "rank": 22,
       "category": "美妆,体育"
+    },
+    {
+      "raw_hot": 929336,
+      "num": 340391,
+      "word": "星星预计1至2天可返回中国",
+      "onboard_time": 1736318782,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 927066,
@@ -2360,46 +2400,6 @@
       "word": "R1SE舞台",
       "onboard_time": 1736000010,
       "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 865531,
-      "num": 865531,
-      "word": "年轻人开始流行将黄金贴在手机上",
-      "onboard_time": 1735962199,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 864780,
-      "num": 864780,
-      "word": "王星越演我嗑虞书欣丁禹兮",
-      "onboard_time": 1736005295,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 862910,
-      "num": 777428,
-      "word": "杨超越好帅",
-      "onboard_time": 1735972641,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 858739,
-      "num": 732220,
-      "word": "17岁网红抗癌6年后离世",
-      "onboard_time": 1735951997,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 852242,
-      "num": 852242,
-      "word": "星光大赏获奖名单",
-      "onboard_time": 1735997429,
-      "rank": 34,
       "category": "综艺"
     }
   ],

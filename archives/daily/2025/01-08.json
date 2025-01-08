@@ -1,6 +1,6 @@
 {
   "startTime": 1736266474874,
-  "endTime": 1736318655848,
+  "endTime": 1736320869100,
   "band_list": [
     {
       "raw_hot": 4591252,
@@ -27,11 +27,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2840520,
+      "num": 334733,
+      "word": "王星说被迫接受了两三天诈骗培训",
+      "onboard_time": 1736319203,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2376681,
       "num": 1034841,
       "word": "员工年会中608万彩票公司要求退还",
       "onboard_time": 1736301860,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2177166,
+      "num": 2177166,
+      "word": "江苏确诊一例罕见传染病",
+      "onboard_time": 1736318060,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -155,6 +171,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 1023528,
+      "num": 1023528,
+      "word": "被骗缅北小伙称被发现报警基本九死一生",
+      "onboard_time": 1736318421,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 992975,
       "num": 992975,
       "word": "国色芳华白月梵星首播数据",
@@ -163,11 +187,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 990085,
+      "num": 324313,
+      "word": "工资8000一年攒下72000",
+      "onboard_time": 1736319141,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 956058,
       "num": 956058,
       "word": "央视完整还原男子大连推妻坠海案",
       "onboard_time": 1736293340,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 929336,
+      "num": 340391,
+      "word": "星星预计1至2天可返回中国",
+      "onboard_time": 1736318782,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -307,12 +347,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 579888,
-      "num": 579888,
-      "word": "江苏确诊一例罕见传染病",
-      "onboard_time": 1736318060,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 583681,
+      "num": 583681,
+      "word": "于正称白鹿单扛白月梵星",
+      "onboard_time": 1736317941,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 568530,
@@ -372,7 +412,7 @@
     },
     {
       "raw_hot": 451988,
-      "num": 306458,
+      "num": 319392,
       "word": "女生发现自己指甲跟课本病例图片一样",
       "onboard_time": 1736315121,
       "rank": 20,
@@ -483,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 348375,
+      "num": 338094,
+      "word": "金玟庭回复黑评",
+      "onboard_time": 1736318483,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 347087,
       "num": 347087,
       "word": "张继科说乒乓球打法20年没创新",
@@ -496,6 +544,14 @@
       "word": "国色芳华开播",
       "onboard_time": 1736249662,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 345718,
+      "num": 345718,
+      "word": "张雅钦自我检讨长胖了",
+      "onboard_time": 1736319141,
+      "rank": 7,
       "category": "剧集"
     },
     {
@@ -531,12 +587,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 322983,
+      "raw_hot": 328256,
       "num": 351511,
       "word": "震后第一个清晨受灾群众吃上热呼早餐",
       "onboard_time": 1736318001,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 318945,
+      "num": 318945,
+      "word": "Faker疑似恋爱",
+      "onboard_time": 1736319141,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 317955,
@@ -547,20 +611,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 317381,
-      "num": 317381,
-      "word": "金玟庭回复黑评",
-      "onboard_time": 1736318483,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 315814,
       "num": 201082,
       "word": "三甲医院院长收了2亿多回扣",
       "onboard_time": 1736297663,
       "rank": 20,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 304999,
+      "num": 304999,
+      "word": "minji脸被涂黑",
+      "onboard_time": 1736319321,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 303309,
@@ -576,6 +640,22 @@
       "word": "叠纸未对玩家诉求做出回应",
       "onboard_time": 1736314521,
       "rank": 16,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 300796,
+      "num": 300796,
+      "word": "夏以昼兄妹关系解除",
+      "onboard_time": 1736319203,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 298489,
+      "num": 298489,
+      "word": "王者荣耀",
+      "onboard_time": 1736319561,
+      "rank": 31,
       "category": "游戏"
     },
     {
@@ -601,6 +681,14 @@
       "onboard_time": 1736295922,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 279112,
+      "num": 279112,
+      "word": "永夜星河真的把粉丝养的很好",
+      "onboard_time": 1736319920,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 271969,
@@ -643,6 +731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 259954,
+      "num": 259954,
+      "word": "曾资助刘强东5毛钱上大学老人发声",
+      "onboard_time": 1736320220,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 259185,
       "num": 259185,
       "word": "A股大权重集体上行",
@@ -665,6 +761,14 @@
       "onboard_time": 1736256025,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 252030,
+      "num": 252030,
+      "word": "田曦薇微醺吻戏这60秒",
+      "onboard_time": 1736319321,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 243918,
@@ -731,6 +835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225815,
+      "num": 343906,
+      "word": "特朗普发地图将加拿大标为美国",
+      "onboard_time": 1736318241,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 216366,
       "num": 149024,
       "word": "演员从2米多高跷摔下众人飞奔护头",
@@ -739,20 +851,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 215908,
-      "num": 224990,
-      "word": "于正称白鹿单扛白月梵星",
-      "onboard_time": 1736317941,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 215657,
       "num": 325869,
       "word": "林允儿李惠利合照",
       "onboard_time": 1736263642,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215409,
+      "num": 303237,
+      "word": "国色芳华片尾好多人啊",
+      "onboard_time": 1736318961,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 213364,
@@ -779,6 +891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208616,
+      "num": 208616,
+      "word": "这么恐怖的天赋居然才两岁半",
+      "onboard_time": 1736319863,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 208087,
       "num": 208087,
       "word": "年终奖都用来买年货的年轻人",
@@ -793,6 +913,14 @@
       "onboard_time": 1736261184,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203412,
+      "num": 203412,
+      "word": "北外通报某教师深夜跟踪女同事",
+      "onboard_time": 1736317280,
+      "rank": 47,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 200770,
@@ -939,6 +1067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181125,
+      "num": 181125,
+      "word": "舅妈灵堂不下跪被外甥打断6根肋骨",
+      "onboard_time": 1736320702,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180519,
       "num": 180519,
       "word": "又有4类家电纳入国补",
@@ -1027,6 +1163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161975,
+      "num": 161975,
+      "word": "谁懂李现歪嘴笑的含金量",
+      "onboard_time": 1736320582,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161218,
       "num": 161218,
       "word": "国色芳华播放量破1000万",
@@ -1081,6 +1225,14 @@
       "onboard_time": 1736313804,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151432,
+      "num": 151432,
+      "word": "伊能静吐槽芬兰航空",
+      "onboard_time": 1736320463,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 150320,
@@ -1235,14 +1387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 140396,
-      "num": 140396,
-      "word": "北外通报某教师深夜跟踪女同事",
-      "onboard_time": 1736317280,
-      "rank": 47,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 139841,
       "num": 139841,
       "word": "第一次收到帝王蟹蛋糕",
@@ -1371,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115658,
+      "num": 325642,
+      "word": "19岁女大学生深夜失踪8天未归",
+      "onboard_time": 1736320043,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115540,
       "num": 911023,
       "word": "加油日喀则",
@@ -1417,14 +1569,6 @@
       "onboard_time": 1736302340,
       "rank": 40,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 111546,
-      "num": 111546,
-      "word": "特朗普发地图将加拿大标为美国",
-      "onboard_time": 1736318241,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 106399,
@@ -1699,6 +1843,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 67440,
+      "num": 302249,
+      "word": "郑钦文亮相澳网慈善赛",
+      "onboard_time": 1736320043,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62784,
       "num": 130320,
       "word": "贾玲以妈妈名义捐赠西藏灾区",
@@ -1779,6 +1931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 56157,
+      "num": 301348,
+      "word": "我的反诈经验分享",
+      "onboard_time": 1736319983,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52667,
       "num": 76844,
       "word": "贪官用妻子控制的34家公司受贿",
@@ -1841,6 +2001,14 @@
       "onboard_time": 1736281932,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 48593,
+      "num": 327279,
+      "word": "微博之夜到底有谁在啊",
+      "onboard_time": 1736320220,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 48426,
@@ -1945,14 +2113,6 @@
       "onboard_time": 1736291536,
       "rank": 49,
       "category": "动漫,剧集"
-    },
-    {
-      "raw_hot": 34200,
-      "num": 337840,
-      "word": "被骗缅北小伙称被发现报警基本九死一生",
-      "onboard_time": 1736318421,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32313,

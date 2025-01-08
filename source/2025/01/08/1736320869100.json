@@ -1,0 +1,410 @@
+{
+  "runTime": 1736320869100,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2177166,
+        "num": 2177166,
+        "word": "江苏确诊一例罕见传染病",
+        "onboard_time": 1736318060,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1023528,
+        "num": 1023528,
+        "word": "被骗缅北小伙称被发现报警基本九死一生",
+        "onboard_time": 1736318421,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28518,
+        "num": 717292,
+        "word": "2024年我国快递业务量突破1700亿件",
+        "onboard_time": 1736306602,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 682492,
+        "num": 682492,
+        "word": "手机价格不超6000元可获补贴",
+        "onboard_time": 1736310923,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 583681,
+        "num": 583681,
+        "word": "于正称白鹿单扛白月梵星",
+        "onboard_time": 1736317941,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 493789,
+        "num": 493789,
+        "word": "景区回应贪睡出名的鱼真死了",
+        "onboard_time": 1736309241,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 379166,
+        "num": 379166,
+        "word": "北外严正声明",
+        "onboard_time": 1736315241,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 345718,
+        "num": 345718,
+        "word": "张雅钦自我检讨长胖了",
+        "onboard_time": 1736319141,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 468726,
+        "num": 345414,
+        "word": "难怪这么自然原来白鹿是真睡着了",
+        "onboard_time": 1736314881,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225815,
+        "num": 343906,
+        "word": "特朗普发地图将加拿大标为美国",
+        "onboard_time": 1736318241,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 3431540,
+        "num": 342363,
+        "word": "演员王星在飞机上自述剃头过程",
+        "onboard_time": 1736315062,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 929336,
+        "num": 340391,
+        "word": "星星预计1至2天可返回中国",
+        "onboard_time": 1736318782,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 447303,
+        "num": 338147,
+        "word": "女子离婚受阻用毒鼠强毒死丈夫",
+        "onboard_time": 1736313145,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348375,
+        "num": 338094,
+        "word": "金玟庭回复黑评",
+        "onboard_time": 1736318483,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336611,
+        "num": 336611,
+        "word": "特朗普再提吞并加拿大",
+        "onboard_time": 1736307922,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 2840520,
+        "num": 334733,
+        "word": "王星说被迫接受了两三天诈骗培训",
+        "onboard_time": 1736319203,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331519,
+        "num": 331519,
+        "word": "手机购新补贴方案来了",
+        "onboard_time": 1736305463,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 328256,
+        "num": 328256,
+        "word": "震后第一个清晨受灾群众吃上热呼早餐",
+        "onboard_time": 1736318001,
+        "rank": 17,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 48593,
+        "num": 327279,
+        "word": "微博之夜到底有谁在啊",
+        "onboard_time": 1736320220,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115658,
+        "num": 325642,
+        "word": "19岁女大学生深夜失踪8天未归",
+        "onboard_time": 1736320043,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 990085,
+        "num": 324313,
+        "word": "工资8000一年攒下72000",
+        "onboard_time": 1736319141,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 303624,
+        "num": 322173,
+        "word": "西藏定日县地震已致126人遇难",
+        "onboard_time": 1736259264,
+        "rank": 21,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 338025,
+        "num": 319392,
+        "word": "女生发现自己指甲跟课本病例图片一样",
+        "onboard_time": 1736315121,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318945,
+        "num": 318945,
+        "word": "Faker疑似恋爱",
+        "onboard_time": 1736319141,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115231,
+        "num": 310903,
+        "word": "张继科说乒乓球打法20年没创新",
+        "onboard_time": 1736310862,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304999,
+        "num": 304999,
+        "word": "minji脸被涂黑",
+        "onboard_time": 1736319321,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250985,
+        "num": 304290,
+        "word": "韩商言快从李现身上下来",
+        "onboard_time": 1736315062,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 215409,
+        "num": 303237,
+        "word": "国色芳华片尾好多人啊",
+        "onboard_time": 1736318961,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67440,
+        "num": 302249,
+        "word": "郑钦文亮相澳网慈善赛",
+        "onboard_time": 1736320043,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56157,
+        "num": 301348,
+        "word": "我的反诈经验分享",
+        "onboard_time": 1736319983,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300796,
+        "num": 300796,
+        "word": "夏以昼兄妹关系解除",
+        "onboard_time": 1736319203,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 298489,
+        "num": 298489,
+        "word": "王者荣耀",
+        "onboard_time": 1736319561,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 279112,
+        "num": 279112,
+        "word": "永夜星河真的把粉丝养的很好",
+        "onboard_time": 1736319920,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259954,
+        "num": 259954,
+        "word": "曾资助刘强东5毛钱上大学老人发声",
+        "onboard_time": 1736320220,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252030,
+        "num": 252030,
+        "word": "田曦薇微醺吻戏这60秒",
+        "onboard_time": 1736319321,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249666,
+        "num": 249666,
+        "word": "甲流",
+        "onboard_time": 1736316082,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 208616,
+        "num": 208616,
+        "word": "这么恐怖的天赋居然才两岁半",
+        "onboard_time": 1736319863,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203412,
+        "num": 203412,
+        "word": "北外通报某教师深夜跟踪女同事",
+        "onboard_time": 1736317280,
+        "rank": 37,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 192053,
+        "num": 192053,
+        "word": "西藏地震407名被困人员获救",
+        "onboard_time": 1736311763,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189588,
+        "num": 189588,
+        "word": "女游客在泰国给大象洗澡被刺死",
+        "onboard_time": 1736300240,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 181125,
+        "num": 181125,
+        "word": "舅妈灵堂不下跪被外甥打断6根肋骨",
+        "onboard_time": 1736320702,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179740,
+        "num": 179740,
+        "word": "国补",
+        "onboard_time": 1736306421,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 173614,
+        "num": 173614,
+        "word": "杨蓉 不愿意做很多工作大侦探除外",
+        "onboard_time": 1736312542,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161975,
+        "num": 161975,
+        "word": "谁懂李现歪嘴笑的含金量",
+        "onboard_time": 1736320582,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160309,
+        "num": 160309,
+        "word": "本次流感将在1月中旬达到高峰",
+        "onboard_time": 1736302041,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 158305,
+        "num": 158305,
+        "word": "雅典娜",
+        "onboard_time": 1736299520,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 151432,
+        "num": 151432,
+        "word": "伊能静吐槽芬兰航空",
+        "onboard_time": 1736320463,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143919,
+        "num": 143919,
+        "word": "国色芳华",
+        "onboard_time": 1736316082,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134080,
+        "num": 134080,
+        "word": "西藏地震",
+        "onboard_time": 1736212460,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134017,
+        "num": 134017,
+        "word": "丹麦改国徽宣示格陵兰岛主权",
+        "onboard_time": 1736308643,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#要尽最大努力保障人民群众生命财产安全#"
+    }
+  }
+}
