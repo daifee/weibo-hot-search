@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736325755940,
+  "endTime": 1736328238339,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -971,6 +971,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1655424,
+      "num": 997173,
+      "word": "马媒称绑架王星的幕后老板被抓",
+      "onboard_time": 1736326824,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1634437,
       "num": 1634437,
       "word": "西藏定日县地震已致53人遇难",
@@ -1851,6 +1859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1062841,
+      "num": 1062841,
+      "word": "抓捕患艾滋嫌犯流血民警hiv检测阴性",
+      "onboard_time": 1736324783,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1060817,
       "num": 1060817,
       "word": "环保女性开始抛弃卫生巾",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1735660407,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 874291,
-      "num": 985231,
-      "word": "张新成问孟子义李昀锐你们要不要",
-      "onboard_time": 1736007994,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 872790,
-      "num": 872790,
-      "word": "哪吒汽车",
-      "onboard_time": 1736129001,
-      "rank": 27,
-      "category": "汽车"
     }
   ],
   "hotgov_list": [
