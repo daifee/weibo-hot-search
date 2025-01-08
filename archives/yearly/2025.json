@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736328238339,
+  "endTime": 1736329057991,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -408,6 +408,14 @@
       "word": "朋友说已联系到星星",
       "onboard_time": 1736145021,
       "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2483969,
+      "num": 997173,
+      "word": "马媒称绑架王星的幕后老板被抓",
+      "onboard_time": 1736326824,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -969,14 +977,6 @@
       "onboard_time": 1736142803,
       "rank": 10,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1655424,
-      "num": 997173,
-      "word": "马媒称绑架王星的幕后老板被抓",
-      "onboard_time": 1736326824,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1634437,

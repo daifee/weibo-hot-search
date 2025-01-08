@@ -1,6 +1,6 @@
 {
   "startTime": 1736266474874,
-  "endTime": 1736328238339,
+  "endTime": 1736329057991,
   "band_list": [
     {
       "raw_hot": 4591252,
@@ -40,6 +40,14 @@
       "word": "王星终于与女友见面了",
       "onboard_time": 1736322984,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2483969,
+      "num": 997173,
+      "word": "马媒称绑架王星的幕后老板被抓",
+      "onboard_time": 1736326824,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -113,14 +121,6 @@
       "onboard_time": 1736323583,
       "rank": 1,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 1655424,
-      "num": 997173,
-      "word": "马媒称绑架王星的幕后老板被抓",
-      "onboard_time": 1736326824,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1633549,
@@ -355,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 726473,
+      "num": 416991,
+      "word": "牙牙张程 分手",
+      "onboard_time": 1736326342,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 708107,
       "num": 325846,
       "word": "王鹤棣在评论区开party",
@@ -427,14 +435,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 591370,
-      "num": 416991,
-      "word": "牙牙张程 分手",
-      "onboard_time": 1736326342,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
       "raw_hot": 589977,
       "num": 589977,
       "word": "本次流感将在1月中旬达到高峰",
@@ -465,6 +465,14 @@
       "onboard_time": 1736307442,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 517837,
+      "num": 379997,
+      "word": "张艺兴官宣加盟2025山东春晚",
+      "onboard_time": 1736327422,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 510919,
@@ -603,6 +611,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 385311,
+      "num": 388293,
+      "word": "湘潭大学宿舍投毒案嫌疑人家属发声",
+      "onboard_time": 1736327483,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 378502,
       "num": 351642,
       "word": "韩红基金会捐赠名单",
@@ -633,6 +649,14 @@
       "onboard_time": 1736260044,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 351139,
+      "num": 462195,
+      "word": "大奉打更人正被翻译成13种语言",
+      "onboard_time": 1736325622,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 349049,
@@ -739,28 +763,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 308882,
-      "num": 462195,
-      "word": "大奉打更人正被翻译成13种语言",
-      "onboard_time": 1736325622,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 304999,
       "num": 304999,
       "word": "minji脸被涂黑",
       "onboard_time": 1736319321,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 303762,
-      "num": 303762,
-      "word": "张艺兴官宣加盟2025山东春晚",
-      "onboard_time": 1736327422,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 303309,
@@ -793,6 +801,14 @@
       "onboard_time": 1736319203,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 300755,
+      "num": 337996,
+      "word": "樊振东那一夜谁人不识君",
+      "onboard_time": 1736328021,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 298489,
@@ -833,6 +849,14 @@
       "onboard_time": 1736295922,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 282651,
+      "num": 282651,
+      "word": "向鹏蒯曼0比3赵大成申裕斌",
+      "onboard_time": 1736327602,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 271969,
@@ -947,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234716,
+      "num": 234716,
+      "word": "我愿为了这套房子爬七楼",
+      "onboard_time": 1736327602,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 234167,
       "num": 234167,
       "word": "肖战一定要知道自己不想要什么",
@@ -971,14 +1003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 232336,
-      "num": 232336,
-      "word": "向鹏蒯曼0比3赵大成申裕斌",
-      "onboard_time": 1736327602,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 229845,
       "num": 229845,
       "word": "京考出成绩",
@@ -993,14 +1017,6 @@
       "onboard_time": 1736281030,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 221870,
-      "num": 221870,
-      "word": "我愿为了这套房子爬七楼",
-      "onboard_time": 1736327602,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 216366,
@@ -1195,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193240,
+      "num": 193240,
+      "word": "BSS回归",
+      "onboard_time": 1736328263,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 192977,
       "num": 198904,
       "word": "易烊千玺送的新年苔花真的开了",
@@ -1227,12 +1251,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189644,
+      "num": 189644,
+      "word": "迪丽热巴第十幕获微博年度喜爱音乐",
+      "onboard_time": 1736328322,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 188551,
       "num": 188551,
       "word": "少年歌行血染天启篇开播",
       "onboard_time": 1736307562,
       "rank": 33,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 188353,
+      "num": 188353,
+      "word": "黄景瑜我都拿着你们别蹲着",
+      "onboard_time": 1736328441,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 187294,
@@ -1275,14 +1315,6 @@
       "category": "互联网,突发/灾害"
     },
     {
-      "raw_hot": 185392,
-      "num": 185392,
-      "word": "樊振东那一夜谁人不识君",
-      "onboard_time": 1736328021,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 183045,
       "num": 183045,
       "word": "权志龙VOGUE二月刊",
@@ -1315,6 +1347,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 179838,
+      "num": 179838,
+      "word": "甄姬雪境奇遇皮肤",
+      "onboard_time": 1736327902,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 178943,
       "num": 178943,
       "word": "谁懂李现歪嘴笑的含金量",
@@ -1329,6 +1369,14 @@
       "onboard_time": 1736321722,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 176543,
+      "num": 176543,
+      "word": "于东来晒胖东来2024年营收",
+      "onboard_time": 1736326163,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 176525,
@@ -1379,14 +1427,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 169565,
-      "num": 169565,
-      "word": "于东来晒胖东来2024年营收",
-      "onboard_time": 1736326163,
-      "rank": 45,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 168349,
       "num": 168349,
       "word": "王者挑杯签名英雄公布",
@@ -1433,14 +1473,6 @@
       "onboard_time": 1736309542,
       "rank": 41,
       "category": "教育"
-    },
-    {
-      "raw_hot": 164316,
-      "num": 164316,
-      "word": "甄姬雪境奇遇皮肤",
-      "onboard_time": 1736327902,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 162358,
@@ -1963,6 +1995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96175,
+      "num": 294569,
+      "word": "一边心疼老师 一边做着让老师心塞的事",
+      "onboard_time": 1736327962,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 91596,
       "num": 91596,
       "word": "白鹿你也没放过常华森",
@@ -2115,6 +2155,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 76117,
+      "num": 421399,
+      "word": "蛇年春节档电影主打一个东方神话",
+      "onboard_time": 1736327361,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 75985,
       "num": 138998,
       "word": "英雄联盟2025赛季影片",
@@ -2137,14 +2185,6 @@
       "onboard_time": 1736300720,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 70954,
-      "num": 294569,
-      "word": "一边心疼老师 一边做着让老师心塞的事",
-      "onboard_time": 1736327962,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 69784,
@@ -2259,14 +2299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 54451,
-      "num": 421399,
-      "word": "蛇年春节档电影主打一个东方神话",
-      "onboard_time": 1736327361,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 52667,
       "num": 76844,
       "word": "贪官用妻子控制的34家公司受贿",
@@ -2329,14 +2361,6 @@
       "onboard_time": 1736281932,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 48459,
-      "num": 388293,
-      "word": "湘潭大学宿舍投毒案嫌疑人家属发声",
-      "onboard_time": 1736327483,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 48426,
@@ -2467,6 +2491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31669,
+      "num": 400379,
+      "word": "自称羽协男子在免费球馆驱赶学生",
+      "onboard_time": 1736328622,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31345,
       "num": 62729,
       "word": "如何判断得的是甲流还是普通感冒",
@@ -2563,7 +2595,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19152,
+      "raw_hot": 19313,
       "num": 294991,
       "word": "美冲撞人群司机曾打算诱杀家人",
       "onboard_time": 1736328083,
@@ -2633,6 +2665,14 @@
       "onboard_time": 1736277372,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10716,
+      "num": 188789,
+      "word": "带着微博去旅行",
+      "onboard_time": 1736328562,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 6750,
