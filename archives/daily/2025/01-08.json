@@ -1,6 +1,6 @@
 {
   "startTime": 1736266474874,
-  "endTime": 1736342907665,
+  "endTime": 1736343560790,
   "band_list": [
     {
       "raw_hot": 4591252,
@@ -131,6 +131,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1802079,
+      "num": 319231,
+      "word": "王星女友对200万赎金不知情",
+      "onboard_time": 1736342663,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1787284,
       "num": 1140840,
       "word": "刘亦菲青蛇白蛇",
@@ -155,12 +163,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 1736531,
-      "num": 319231,
-      "word": "王星女友对200万赎金不知情",
-      "onboard_time": 1736342663,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 1720147,
+      "num": 1720147,
+      "word": "南京胖哥妻子怀孕了",
+      "onboard_time": 1736341523,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1633549,
@@ -241,14 +249,6 @@
       "onboard_time": 1736306481,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1210977,
-      "num": 1210977,
-      "word": "南京胖哥妻子怀孕了",
-      "onboard_time": 1736341523,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1177534,
@@ -499,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 653751,
+      "num": 405518,
+      "word": "赵本山女儿球球为儿子庆祝一周岁",
+      "onboard_time": 1736341762,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 641691,
       "num": 641691,
       "word": "难怪这么自然原来白鹿是真睡着了",
@@ -539,14 +547,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 616213,
-      "num": 405518,
-      "word": "赵本山女儿球球为儿子庆祝一周岁",
-      "onboard_time": 1736341762,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 597697,
       "num": 442437,
       "word": "西藏地震后第一个夜晚",
@@ -563,20 +563,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 579422,
+      "num": 579422,
+      "word": "昀牵孟绕",
+      "onboard_time": 1736338701,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 568530,
       "num": 568530,
       "word": "湘潭大学投毒案一审开庭",
       "onboard_time": 1736305100,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 560978,
-      "num": 560978,
-      "word": "昀牵孟绕",
-      "onboard_time": 1736338701,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 560484,
@@ -715,20 +715,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 413062,
+      "num": 413062,
+      "word": "男子给15万彩礼1个月后被分手",
+      "onboard_time": 1736340863,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 404292,
       "num": 325779,
       "word": "国色芳华 知否味",
       "onboard_time": 1736261486,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 404265,
-      "num": 404265,
-      "word": "男子给15万彩礼1个月后被分手",
-      "onboard_time": 1736340863,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 401474,
@@ -787,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 378041,
+      "num": 359701,
+      "word": "绑架星星的老板为广东籍",
+      "onboard_time": 1736338221,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 377177,
       "num": 377177,
       "word": "男子为还百万债务杀妻骗保",
@@ -801,6 +809,14 @@
       "onboard_time": 1736315062,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 376010,
+      "num": 376010,
+      "word": "是谁在骗中国人去缅北",
+      "onboard_time": 1736341042,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 374773,
@@ -856,6 +872,14 @@
       "word": "国色芳华开播",
       "onboard_time": 1736249662,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 344582,
+      "num": 230560,
+      "word": "芒果认证国色芳华是爆剧",
+      "onboard_time": 1736342183,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -953,14 +977,6 @@
       "onboard_time": 1736330601,
       "rank": 42,
       "category": "教育"
-    },
-    {
-      "raw_hot": 308936,
-      "num": 272173,
-      "word": "绑架星星的老板为广东籍",
-      "onboard_time": 1736338221,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 304999,
@@ -1067,6 +1083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 273285,
+      "num": 220771,
+      "word": "刘畅 渣男",
+      "onboard_time": 1736343143,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 271969,
       "num": 271969,
       "word": "以旧换新补贴家电产品增至12类",
@@ -1081,14 +1105,6 @@
       "onboard_time": 1736302280,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 270670,
-      "num": 270670,
-      "word": "是谁在骗中国人去缅北",
-      "onboard_time": 1736341042,
-      "rank": 29,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 266667,
@@ -1251,14 +1267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 230371,
-      "num": 230371,
-      "word": "芒果认证国色芳华是爆剧",
-      "onboard_time": 1736342183,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 229845,
       "num": 229845,
       "word": "京考出成绩",
@@ -1329,6 +1337,14 @@
       "onboard_time": 1736225184,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213679,
+      "num": 213679,
+      "word": "两只狗发疯咬人致十余人被咬",
+      "onboard_time": 1736342123,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 213454,
@@ -1419,6 +1435,22 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 202872,
+      "num": 273424,
+      "word": "敖瑞鹏直播",
+      "onboard_time": 1736340982,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 202713,
+      "num": 202713,
+      "word": "刘亦菲安妮海瑟薇又同框了",
+      "onboard_time": 1736343262,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 201982,
       "num": 364770,
       "word": "二十届中央纪委四次全会公报",
@@ -1457,6 +1489,14 @@
       "onboard_time": 1736265322,
       "rank": 26,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 198269,
+      "num": 408214,
+      "word": "反腐为了人民第三集",
+      "onboard_time": 1736342064,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198193,
@@ -1529,14 +1569,6 @@
       "onboard_time": 1736322443,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 193755,
-      "num": 408214,
-      "word": "反腐为了人民第三集",
-      "onboard_time": 1736342064,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 193577,
@@ -1675,14 +1707,6 @@
       "category": "互联网,突发/灾害"
     },
     {
-      "raw_hot": 183243,
-      "num": 273424,
-      "word": "敖瑞鹏直播",
-      "onboard_time": 1736340982,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 183045,
       "num": 183045,
       "word": "权志龙VOGUE二月刊",
@@ -1811,14 +1835,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 168630,
-      "num": 168630,
-      "word": "两只狗发疯咬人致十余人被咬",
-      "onboard_time": 1736342123,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 168349,
       "num": 168349,
       "word": "王者挑杯签名英雄公布",
@@ -1913,6 +1929,14 @@
       "onboard_time": 1736328622,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158074,
+      "num": 158074,
+      "word": "小小的我票房破6亿",
+      "onboard_time": 1736343203,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 156039,
@@ -2080,6 +2104,14 @@
       "word": "景区鱼以贪睡出名导致真死没发现",
       "onboard_time": 1736308463,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143343,
+      "num": 214023,
+      "word": "医院回应女厕所安装透明落地窗",
+      "onboard_time": 1736343262,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -2387,6 +2419,22 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 108005,
+      "num": 319296,
+      "word": "美国加州因山火进入紧急状态",
+      "onboard_time": 1736341703,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 106599,
+      "num": 270686,
+      "word": "张兴亮被禁赛",
+      "onboard_time": 1736338641,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106399,
       "num": 102554,
       "word": "西藏与尼泊尔同日地震是同一起",
@@ -2507,14 +2555,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 95196,
-      "num": 319296,
-      "word": "美国加州因山火进入紧急状态",
-      "onboard_time": 1736341703,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 95024,
       "num": 497024,
       "word": "陈牧驰微博之夜官宣",
@@ -2523,20 +2563,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 94759,
-      "num": 270686,
-      "word": "张兴亮被禁赛",
-      "onboard_time": 1736338641,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 94740,
       "num": 610806,
       "word": "定日县停止接收救灾捐赠",
       "onboard_time": 1736331801,
       "rank": 8,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 93071,
+      "num": 273816,
+      "word": "湘大宿舍投毒案背后的寝室关系",
+      "onboard_time": 1736342663,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 91596,
@@ -2635,6 +2675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84131,
+      "num": 1317069,
+      "word": "西藏震区已由紧急救援转为安置阶段",
+      "onboard_time": 1736342003,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83763,
       "num": 167089,
       "word": "檀健次探见传世手绘匠心",
@@ -2713,6 +2761,14 @@
       "onboard_time": 1736299761,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 75191,
+      "num": 364769,
+      "word": "孙述涛造假威海GDP细节曝光",
+      "onboard_time": 1736343262,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75054,
@@ -2875,14 +2931,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 57116,
-      "num": 1234772,
-      "word": "西藏震区已由紧急救援转为安置阶段",
-      "onboard_time": 1736342003,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56379,
       "num": 219289,
       "word": "敖瑞鹏隔着网线好像又被训了",
@@ -2921,14 +2969,6 @@
       "onboard_time": 1736270177,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 51495,
-      "num": 273816,
-      "word": "湘大宿舍投毒案背后的寝室关系",
-      "onboard_time": 1736342663,
-      "rank": 18,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 51108,
@@ -3209,6 +3249,14 @@
       "onboard_time": 1736261663,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22221,
+      "num": 243058,
+      "word": "微博之夜历年造型回顾",
+      "onboard_time": 1736336661,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 20677,
