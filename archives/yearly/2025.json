@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736350718461,
+  "endTime": 1736353721044,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -953,6 +953,14 @@
       "onboard_time": 1736323583,
       "rank": 1,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 1753374,
+      "num": 323974,
+      "word": "律师称收到刘强东红包的乡亲需缴税",
+      "onboard_time": 1736350821,
+      "rank": 11,
+      "category": "互联网"
     },
     {
       "raw_hot": 1743248,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735737801,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 918165,
-      "num": 918165,
-      "word": "父子相认17年结果生父变养父",
-      "onboard_time": 1735819702,
-      "rank": 1,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
