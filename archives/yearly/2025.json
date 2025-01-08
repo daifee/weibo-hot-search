@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736341137441,
+  "endTime": 1736342907665,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 4153442,
-      "num": 312856,
+      "num": 406552,
       "word": "王星到园区第一天就挨了打",
       "onboard_time": 1736340143,
       "rank": 10,
@@ -876,7 +876,7 @@
     },
     {
       "raw_hot": 1787284,
-      "num": 402442,
+      "num": 1140840,
       "word": "刘亦菲青蛇白蛇",
       "onboard_time": 1736338462,
       "rank": 6,
@@ -928,6 +928,14 @@
       "word": "星星女友呼吁不要听信谣言",
       "onboard_time": 1736145021,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1736531,
+      "num": 319231,
+      "word": "王星女友对200万赎金不知情",
+      "onboard_time": 1736342663,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -1633,6 +1641,14 @@
       "onboard_time": 1736134701,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1210977,
+      "num": 1210977,
+      "word": "南京胖哥妻子怀孕了",
+      "onboard_time": 1736341523,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1196710,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1736086409,
       "rank": 12,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 895438,
-      "num": 469678,
-      "word": "女子离婚受阻用毒鼠强毒死丈夫",
-      "onboard_time": 1736313145,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 886676,
-      "num": 787884,
-      "word": "虞书欣星光大赏出图",
-      "onboard_time": 1736057249,
-      "rank": 6,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
