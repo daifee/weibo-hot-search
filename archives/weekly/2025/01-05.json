@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736292944545,
+  "endTime": 1736300581311,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3084192,
+      "num": 204714,
+      "word": "王星称被关在有50个中国人的建筑里",
+      "onboard_time": 1736295803,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3027813,
       "num": 3027813,
       "word": "虞书欣 顺手的事",
@@ -312,6 +320,14 @@
       "word": "廖慧佳晒聊天记录",
       "onboard_time": 1736076265,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2106610,
+      "num": 202233,
+      "word": "王星目前还不能离开泰国",
+      "onboard_time": 1736296521,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -505,6 +521,14 @@
       "onboard_time": 1736047111,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1537363,
+      "num": 203763,
+      "word": "雅典娜",
+      "onboard_time": 1736299520,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 1533322,
@@ -715,6 +739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1123498,
+      "num": 204274,
+      "word": "女游客在泰国给大象洗澡被刺死",
+      "onboard_time": 1736300240,
+      "rank": 11,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1110752,
       "num": 376917,
       "word": "曝虞书欣将离开华策",
@@ -833,6 +865,14 @@
       "onboard_time": 1736261125,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 956058,
+      "num": 956058,
+      "word": "央视完整还原男子大连推妻坠海案",
+      "onboard_time": 1736293340,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 944114,
@@ -1001,6 +1041,14 @@
       "onboard_time": 1736222783,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 818308,
+      "num": 203227,
+      "word": "石悦",
+      "onboard_time": 1736295680,
+      "rank": 13,
+      "category": "读书作家,作品衍生"
     },
     {
       "raw_hot": 818146,
@@ -1387,6 +1435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 629217,
+      "num": 202840,
+      "word": "怀9胞胎女子减胎后或一胎不保",
+      "onboard_time": 1736293820,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 626433,
       "num": 626433,
       "word": "禹宙中欣",
@@ -1468,7 +1524,7 @@
     },
     {
       "raw_hot": 597697,
-      "num": 326078,
+      "num": 442437,
       "word": "西藏地震后第一个夜晚",
       "onboard_time": 1736263583,
       "rank": 49,
@@ -1875,6 +1931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 476125,
+      "num": 476125,
+      "word": "白鹿扛剧能力",
+      "onboard_time": 1736293820,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 475654,
       "num": 475654,
       "word": "苏炳添提车",
@@ -2187,6 +2251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 418950,
+      "num": 418950,
+      "word": "19岁男生去世给4人留下生命礼物",
+      "onboard_time": 1736271434,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 418713,
       "num": 657642,
       "word": "23岁中职老师一天5节课的生活",
@@ -2321,14 +2393,6 @@
       "onboard_time": 1736121860,
       "rank": 8,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 398225,
-      "num": 398225,
-      "word": "19岁男生去世给4人留下生命礼物",
-      "onboard_time": 1736271434,
-      "rank": 29,
-      "category": "正能量"
     },
     {
       "raw_hot": 397387,
@@ -2755,6 +2819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 332293,
+      "num": 332293,
+      "word": "我国人造太阳进度再刷新",
+      "onboard_time": 1736294661,
+      "rank": 6,
+      "category": "民生新闻,国内时政"
+    },
+    {
       "raw_hot": 332124,
       "num": 328787,
       "word": "IVE回归安宥真张元英预告",
@@ -2777,6 +2849,14 @@
       "onboard_time": 1736047410,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 329578,
+      "num": 201789,
+      "word": "男子推妻坠海致死后跟民警演戏",
+      "onboard_time": 1736292977,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 329200,
@@ -3075,6 +3155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 291996,
+      "num": 291996,
+      "word": "翟欣欣涉嫌敲诈勒索案即将开庭",
+      "onboard_time": 1736292557,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 291400,
       "num": 291400,
       "word": "美国总统拜登被提起诉讼",
@@ -3137,6 +3225,14 @@
       "onboard_time": 1736062825,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 286668,
+      "num": 197842,
+      "word": "星星女友恳请大家减少近期肖像传播",
+      "onboard_time": 1736295922,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 284428,
@@ -3209,6 +3305,14 @@
       "onboard_time": 1736036484,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 279813,
+      "num": 200338,
+      "word": "三甲医院院长收了2亿多回扣",
+      "onboard_time": 1736297663,
+      "rank": 20,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 278305,
@@ -4531,6 +4635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205024,
+      "num": 229180,
+      "word": "国色芳华里到底有多少牡丹",
+      "onboard_time": 1736281030,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205004,
       "num": 455009,
       "word": "央视起底虹膜写真暗藏风险",
@@ -4681,6 +4793,14 @@
       "onboard_time": 1736128160,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200770,
+      "num": 200770,
+      "word": "王鹤棣捐款驰援西藏",
+      "onboard_time": 1736295500,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 200586,
@@ -5187,6 +5307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176525,
+      "num": 176525,
+      "word": "猫 人家被你绊倒啦",
+      "onboard_time": 1736294661,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 176167,
       "num": 176167,
       "word": "WINTER初雪Cover",
@@ -5401,6 +5529,14 @@
       "onboard_time": 1736090488,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 169085,
+      "num": 169085,
+      "word": "地震时你背同学往外冲的模样真帅",
+      "onboard_time": 1736284750,
+      "rank": 49,
+      "category": "正能量"
     },
     {
       "raw_hot": 168971,
@@ -6011,6 +6147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153289,
+      "num": 143655,
+      "word": "定日县震中周边5年29次3级以上地震",
+      "onboard_time": 1736297962,
+      "rank": 26,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 153096,
       "num": 153096,
       "word": "肖战版郭靖眼神戏",
@@ -6097,14 +6241,6 @@
       "onboard_time": 1736263763,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 149926,
-      "num": 229180,
-      "word": "国色芳华里到底有多少牡丹",
-      "onboard_time": 1736281030,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 149645,
@@ -6201,6 +6337,14 @@
       "onboard_time": 1736244441,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147693,
+      "num": 147693,
+      "word": "这样煮水喝预防甲流",
+      "onboard_time": 1736291717,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 147605,
@@ -6393,6 +6537,14 @@
       "onboard_time": 1736262443,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 138478,
+      "num": 138478,
+      "word": "贪官用多个家人当受贿收款员",
+      "onboard_time": 1736298382,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138268,
@@ -6771,14 +6923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129035,
-      "num": 129035,
-      "word": "这样煮水喝预防甲流",
-      "onboard_time": 1736291717,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 128996,
       "num": 128996,
       "word": "敖瑞鹏白月梵星妆造",
@@ -6905,6 +7049,22 @@
       "onboard_time": 1736137347,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125391,
+      "num": 125391,
+      "word": "北京下雪又是大力出奇迹",
+      "onboard_time": 1736293879,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125376,
+      "num": 120893,
+      "word": "一人一句为日喀则定日县加油",
+      "onboard_time": 1736292977,
+      "rank": 31,
+      "category": "正能量"
     },
     {
       "raw_hot": 125338,
@@ -7131,6 +7291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118760,
+      "num": 118760,
+      "word": "丁禹兮16年就给粉丝发了红包",
+      "onboard_time": 1736299880,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118020,
       "num": 346124,
       "word": "孟子义尼龙杂志销量",
@@ -7243,6 +7411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115950,
+      "num": 115950,
+      "word": "英伟达大跌6.22%",
+      "onboard_time": 1736293516,
+      "rank": 33,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 115948,
       "num": 115948,
       "word": "教资笔试报名开始",
@@ -7331,6 +7507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114270,
+      "num": 114270,
+      "word": "震区这句金珠玛米亚古都很暖心",
+      "onboard_time": 1736295861,
+      "rank": 34,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 114175,
       "num": 114175,
       "word": "易烊千玺让过去在新年闪闪发光",
@@ -7364,7 +7548,7 @@
     },
     {
       "raw_hot": 113374,
-      "num": 67511,
+      "num": 102223,
       "word": "肖思远弟弟荣立三等功",
       "onboard_time": 1736289794,
       "rank": 30,
@@ -7635,14 +7819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 104883,
-      "num": 104883,
-      "word": "翟欣欣涉嫌敲诈勒索案即将开庭",
-      "onboard_time": 1736292557,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 104861,
       "num": 104861,
       "word": "Irene出发上海",
@@ -7713,6 +7889,14 @@
       "onboard_time": 1736158583,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102533,
+      "num": 102533,
+      "word": "王一博报名金像奖",
+      "onboard_time": 1736295080,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 102262,
@@ -8203,6 +8387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 82336,
+      "num": 82336,
+      "word": "多个品牌发布RTX50系游戏本",
+      "onboard_time": 1736300419,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 82072,
       "num": 333854,
       "word": "张信哲差点错过情歌王子",
@@ -8241,6 +8433,14 @@
       "onboard_time": 1736072126,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 80632,
+      "num": 143040,
+      "word": "央行继续买金",
+      "onboard_time": 1736268138,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 80257,
@@ -8307,6 +8507,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 78696,
+      "num": 78696,
+      "word": "守望先锋",
+      "onboard_time": 1736299042,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 78410,
       "num": 1578732,
       "word": "公安网安部门打击加油机作弊犯罪",
@@ -8347,12 +8555,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 77043,
+      "num": 77043,
+      "word": "守望相助日喀则",
+      "onboard_time": 1736277013,
+      "rank": 19,
+      "category": "民生新闻,游戏"
+    },
+    {
       "raw_hot": 76935,
       "num": 76935,
       "word": "3个动作有效缓解气血不足",
       "onboard_time": 1736094683,
       "rank": 45,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 76828,
+      "num": 76828,
+      "word": "韩国老丈人用帝王蟹做大餐",
+      "onboard_time": 1736294058,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 75907,
@@ -8371,12 +8595,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74575,
-      "num": 74575,
-      "word": "地震时你背同学往外冲的模样真帅",
-      "onboard_time": 1736284750,
-      "rank": 49,
-      "category": "正能量"
+      "raw_hot": 75054,
+      "num": 75054,
+      "word": "肠胃其实是情绪器官",
+      "onboard_time": 1736300240,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 74509,
@@ -8392,6 +8616,14 @@
       "word": "狼队小胖 准备出山",
       "onboard_time": 1736063846,
       "rank": 29,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 74415,
+      "num": 74415,
+      "word": "英雄联盟2025赛季影片",
+      "onboard_time": 1736299761,
+      "rank": 48,
       "category": "电竞"
     },
     {
@@ -8425,14 +8657,6 @@
       "onboard_time": 1736162963,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 71964,
-      "num": 143040,
-      "word": "央行继续买金",
-      "onboard_time": 1736268138,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 71872,
@@ -9433,14 +9657,6 @@
       "onboard_time": 1736079868,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32663,
-      "num": 52533,
-      "word": "守望相助日喀则",
-      "onboard_time": 1736277013,
-      "rank": 19,
-      "category": "民生新闻,游戏"
     },
     {
       "raw_hot": 32643,

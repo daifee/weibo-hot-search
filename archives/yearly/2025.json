@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736292944545,
+  "endTime": 1736300581311,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -283,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3084192,
+      "num": 204714,
+      "word": "王星称被关在有50个中国人的建筑里",
+      "onboard_time": 1736295803,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3027813,
       "num": 3027813,
       "word": "虞书欣 顺手的事",
@@ -513,6 +521,14 @@
       "onboard_time": 1735971019,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2106610,
+      "num": 202233,
+      "word": "王星目前还不能离开泰国",
+      "onboard_time": 1736296521,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 2103658,
@@ -985,6 +1001,14 @@
       "onboard_time": 1735655966,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1537363,
+      "num": 203763,
+      "word": "雅典娜",
+      "onboard_time": 1736299520,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 1533322,
@@ -1563,6 +1587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1123498,
+      "num": 204274,
+      "word": "女游客在泰国给大象洗澡被刺死",
+      "onboard_time": 1736300240,
+      "rank": 11,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1117851,
       "num": 482029,
       "word": "赵丽颖海报C位",
@@ -1929,6 +1961,14 @@
       "onboard_time": 1735994191,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 956058,
+      "num": 956058,
+      "word": "央视完整还原男子大连推妻坠海案",
+      "onboard_time": 1736293340,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 955891,
@@ -2361,46 +2401,6 @@
       "onboard_time": 1735796421,
       "rank": 6,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 819027,
-      "num": 450685,
-      "word": "同事想离职突然得知被裁",
-      "onboard_time": 1735912100,
-      "rank": 10,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 818752,
-      "num": 815164,
-      "word": "男子认亲成功16年后发现亲爹是假的",
-      "onboard_time": 1735844712,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 818146,
-      "num": 493700,
-      "word": "林允儿去年停止活动的原因",
-      "onboard_time": 1736263883,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 818078,
-      "num": 818078,
-      "word": "覃予萱vs王曼昱",
-      "onboard_time": 1735712359,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 811748,
-      "num": 466597,
-      "word": "泰国警方证实失联演员星星已找到",
-      "onboard_time": 1736225725,
-      "rank": 12,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
