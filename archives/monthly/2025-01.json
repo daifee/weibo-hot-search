@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736372165080,
+  "endTime": 1736374873434,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -21163,6 +21163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97857,
+      "num": 43604,
+      "word": "将女友装行礼箱带进宿舍张兴亮被禁赛",
+      "onboard_time": 1736360473,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97725,
       "num": 287518,
       "word": "马龙当之无愧的GOAT",
@@ -21713,6 +21721,14 @@
       "onboard_time": 1736306602,
       "rank": 2,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 87559,
+      "num": 87559,
+      "word": "得了甲流可以自愈吗",
+      "onboard_time": 1736353879,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 87314,
@@ -22371,6 +22387,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 75530,
+      "num": 75530,
+      "word": "月子中心跑路新手宝妈手足无措",
+      "onboard_time": 1736371031,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75495,
       "num": 342258,
       "word": "乌鲁木齐冰雪大庙会致歉并宣布整改",
@@ -22569,14 +22593,6 @@
       "onboard_time": 1735885340,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 72053,
-      "num": 72053,
-      "word": "得了甲流可以自愈吗",
-      "onboard_time": 1736353879,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 71872,
@@ -22891,14 +22907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65737,
-      "num": 39816,
-      "word": "将女友装行礼箱带进宿舍张兴亮被禁赛",
-      "onboard_time": 1736360473,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 65594,
       "num": 177186,
       "word": "无畏官宣微博之夜",
@@ -23057,6 +23065,14 @@
       "onboard_time": 1735793303,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 62296,
+      "num": 62296,
+      "word": "贪官心甘情愿被保姆式围猎",
+      "onboard_time": 1736369831,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62210,
@@ -24491,6 +24507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41336,
+      "num": 35679,
+      "word": "CBA球员张兴亮被禁赛",
+      "onboard_time": 1736364551,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41086,
       "num": 342794,
       "word": "陈梦现身厦门马拉松现场",
@@ -24803,6 +24827,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 37164,
+      "num": 37164,
+      "word": "法国外长警告特朗普",
+      "onboard_time": 1736362753,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 37048,
       "num": 190901,
       "word": "让我熬夜追完的宝藏小说",
@@ -24833,14 +24865,6 @@
       "onboard_time": 1735902979,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 36602,
-      "num": 36602,
-      "word": "贪官心甘情愿被保姆式围猎",
-      "onboard_time": 1736369831,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36512,
@@ -24936,14 +24960,6 @@
       "word": "马龙乒坛绝对统治力",
       "onboard_time": 1736226864,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 35365,
-      "num": 28929,
-      "word": "CBA球员张兴亮被禁赛",
-      "onboard_time": 1736364551,
-      "rank": 32,
       "category": "体育"
     },
     {
@@ -25587,14 +25603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 29512,
-      "num": 48111,
-      "word": "月子中心跑路新手宝妈手足无措",
-      "onboard_time": 1736371031,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29479,
       "num": 1608607,
       "word": "足迹2024",
@@ -25673,14 +25681,6 @@
       "onboard_time": 1735808660,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28784,
-      "num": 28371,
-      "word": "法国外长警告特朗普",
-      "onboard_time": 1736362753,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 28774,
@@ -26001,6 +26001,22 @@
       "onboard_time": 1736062584,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 25034,
+      "num": 35717,
+      "word": "抓捕患艾滋嫌犯流血民警HIV检测阴性",
+      "onboard_time": 1736373431,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24769,
+      "num": 35754,
+      "word": "刘亦菲宝格丽晚宴怼脸生图",
+      "onboard_time": 1736373431,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 24599,
@@ -26492,7 +26508,7 @@
     },
     {
       "raw_hot": 18094,
-      "num": 19596,
+      "num": 28352,
       "word": "祈福日喀则愿平安",
       "onboard_time": 1736358613,
       "rank": 44,
@@ -27297,6 +27313,14 @@
       "onboard_time": 1736231902,
       "rank": 27,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 8891,
+      "num": 43666,
+      "word": "围猎者如何对贪官大献殷勤",
+      "onboard_time": 1736374633,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8808,
