@@ -1,0 +1,410 @@
+{
+  "runTime": 1736341137441,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2479162,
+        "num": 2479162,
+        "word": "宝格丽晚宴",
+        "onboard_time": 1736337861,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1523505,
+        "num": 1523505,
+        "word": "地震被压废墟下戴帽小孩是AI生成",
+        "onboard_time": 1736336541,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 25648,
+        "num": 1041783,
+        "word": "守望相助日喀则",
+        "onboard_time": 1736277013,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1942614,
+        "num": 939618,
+        "word": "警方捣毁绑架王星案涉案公司",
+        "onboard_time": 1736336601,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 632809,
+        "num": 632809,
+        "word": "江苏确诊一例罕见传染病",
+        "onboard_time": 1736318060,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341883,
+        "num": 341883,
+        "word": "抓捕患艾滋嫌犯流血民警hiv检测阴性",
+        "onboard_time": 1736324783,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1370985,
+        "num": 331262,
+        "word": "刘亦菲青蛇白蛇",
+        "onboard_time": 1736338462,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 704585,
+        "num": 328958,
+        "word": "国色芳华会是下一个爆剧吗",
+        "onboard_time": 1736330841,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308756,
+        "num": 308756,
+        "word": "青海玛多县5.5级地震",
+        "onboard_time": 1736323583,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 68738,
+        "num": 308367,
+        "word": "加拿大执政党发布地图回击特朗普",
+        "onboard_time": 1736340442,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 4153442,
+        "num": 307063,
+        "word": "王星到园区第一天就挨了打",
+        "onboard_time": 1736340143,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 556035,
+        "num": 306495,
+        "word": "昀牵孟绕",
+        "onboard_time": 1736338701,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 329648,
+        "num": 305420,
+        "word": "虞书欣丁禹兮都去微博之夜",
+        "onboard_time": 1736339121,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 323105,
+        "num": 304415,
+        "word": "曾资助刘强东5毛钱上大学老人发声",
+        "onboard_time": 1736320220,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24691,
+        "num": 303314,
+        "word": "男子给15万彩礼1个月后被分手",
+        "onboard_time": 1736340863,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302427,
+        "num": 302427,
+        "word": "央视曝光主播认干亲骗局",
+        "onboard_time": 1736337560,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272154,
+        "num": 272154,
+        "word": "高考状元离开应试教育的20年",
+        "onboard_time": 1736330601,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 272026,
+        "num": 272026,
+        "word": "王楚钦为西藏灾区捐赠",
+        "onboard_time": 1736333602,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266667,
+        "num": 266667,
+        "word": "刘诗雯好冷静",
+        "onboard_time": 1736336240,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40996,
+        "num": 265718,
+        "word": "蒋敦豪微博年度喜爱演出",
+        "onboard_time": 1736337920,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 598439,
+        "num": 262382,
+        "word": "张若昀魏晨 已婚男人的自觉",
+        "onboard_time": 1736321783,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 516121,
+        "num": 261823,
+        "word": "工资8000一年攒下72000",
+        "onboard_time": 1736319141,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 276724,
+        "num": 259617,
+        "word": "女子凌晨突发失语用敲击声求助120",
+        "onboard_time": 1736332941,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 713134,
+        "num": 256031,
+        "word": "孟子义李昀锐活动同框",
+        "onboard_time": 1736338762,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255721,
+        "num": 255721,
+        "word": "绑架星星的老板为广东籍",
+        "onboard_time": 1736338221,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248319,
+        "num": 248319,
+        "word": "加拿大执政党发布标明美加国界线地图",
+        "onboard_time": 1736338401,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 241131,
+        "num": 241131,
+        "word": "高校喊话刘美含吃知识点",
+        "onboard_time": 1736339242,
+        "rank": 26,
+        "category": "剧集,教育"
+      },
+      {
+        "raw_hot": 231828,
+        "num": 231828,
+        "word": "星星预计1至2天可返回中国",
+        "onboard_time": 1736318782,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77711,
+        "num": 222802,
+        "word": "中超联赛",
+        "onboard_time": 1736339660,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11385,
+        "num": 219908,
+        "word": "是谁在骗中国人去缅北",
+        "onboard_time": 1736341042,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 27412,
+        "num": 218509,
+        "word": "花海国风大片",
+        "onboard_time": 1736338820,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 218093,
+        "num": 218093,
+        "word": "丁禹兮米妮坐肩公仔",
+        "onboard_time": 1736336601,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214217,
+        "num": 214217,
+        "word": "国色芳华",
+        "onboard_time": 1736316082,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204295,
+        "num": 204295,
+        "word": "张艺兴官宣加盟2025山东春晚",
+        "onboard_time": 1736327422,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201342,
+        "num": 201342,
+        "word": "白月梵星播放量超1000万",
+        "onboard_time": 1736331382,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199145,
+        "num": 199145,
+        "word": "王源 QQ音乐代言人",
+        "onboard_time": 1736338041,
+        "rank": 35,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 186686,
+        "num": 186686,
+        "word": "震后第一个清晨受灾群众吃上热呼早餐",
+        "onboard_time": 1736318001,
+        "rank": 36,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 177522,
+        "num": 177522,
+        "word": "西藏定日县地震已致126人遇难",
+        "onboard_time": 1736259264,
+        "rank": 37,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 165256,
+        "num": 165256,
+        "word": "高叶 一次全醺换来终身内向",
+        "onboard_time": 1736336060,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162983,
+        "num": 162983,
+        "word": "我愿为了这套房子爬七楼",
+        "onboard_time": 1736327602,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155850,
+        "num": 155850,
+        "word": "敖瑞鹏直播",
+        "onboard_time": 1736340982,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151724,
+        "num": 151724,
+        "word": "李昀锐宝格丽上班路透",
+        "onboard_time": 1736337920,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 142914,
+        "num": 142914,
+        "word": "茯苓 师尊",
+        "onboard_time": 1736340563,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140413,
+        "num": 140413,
+        "word": "上海明天或迎初雪",
+        "onboard_time": 1736332582,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137890,
+        "num": 137890,
+        "word": "肖战西西里岛大片",
+        "onboard_time": 1736334321,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 133076,
+        "num": 133076,
+        "word": "夏之光红发黑西装",
+        "onboard_time": 1736340323,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132693,
+        "num": 132693,
+        "word": "特朗普发地图将加拿大标为美国",
+        "onboard_time": 1736318241,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124735,
+        "num": 124735,
+        "word": "特朗普考虑宣布国家经济紧急状态",
+        "onboard_time": 1736340261,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124097,
+        "num": 124097,
+        "word": "舅妈灵堂不下跪被外甥打断6根肋骨",
+        "onboard_time": 1736320702,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121953,
+        "num": 121953,
+        "word": "西藏地震",
+        "onboard_time": 1736212460,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对反腐败斗争提出明确要求#"
+    }
+  }
+}

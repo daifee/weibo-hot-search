@@ -1,12 +1,20 @@
 {
   "startTime": 1736266474874,
-  "endTime": 1736340204757,
+  "endTime": 1736341137441,
   "band_list": [
     {
       "raw_hot": 4591252,
       "num": 603372,
       "word": "演员王星在飞机上自述剃头过程",
       "onboard_time": 1736315062,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4153442,
+      "num": 312856,
+      "word": "王星到园区第一天就挨了打",
+      "onboard_time": 1736340143,
       "rank": 10,
       "category": "艺人"
     },
@@ -59,20 +67,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2479162,
+      "num": 2479162,
+      "word": "宝格丽晚宴",
+      "onboard_time": 1736337861,
+      "rank": 3,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 2376681,
       "num": 1034841,
       "word": "员工年会中608万彩票公司要求退还",
       "onboard_time": 1736301860,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2317814,
-      "num": 846304,
-      "word": "宝格丽晚宴",
-      "onboard_time": 1736337861,
-      "rank": 3,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 2274632,
@@ -147,14 +155,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 1678296,
-      "num": 312856,
-      "word": "王星到园区第一天就挨了打",
-      "onboard_time": 1736340143,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1633549,
       "num": 690060,
       "word": "女游客在泰国给大象洗澡被刺死",
@@ -177,6 +177,14 @@
       "onboard_time": 1736318421,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1523505,
+      "num": 1523505,
+      "word": "地震被压废墟下戴帽小孩是AI生成",
+      "onboard_time": 1736336541,
+      "rank": 1,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1377075,
@@ -209,14 +217,6 @@
       "onboard_time": 1736332042,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1276830,
-      "num": 1276830,
-      "word": "地震被压废墟下戴帽小孩是AI生成",
-      "onboard_time": 1736336541,
-      "rank": 1,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 1240920,
@@ -563,7 +563,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 547671,
+      "raw_hot": 556035,
       "num": 311275,
       "word": "昀牵孟绕",
       "onboard_time": 1736338701,
@@ -740,7 +740,7 @@
     },
     {
       "raw_hot": 378241,
-      "num": 258696,
+      "num": 259617,
       "word": "女子凌晨突发失语用敲击声求助120",
       "onboard_time": 1736332941,
       "rank": 21,
@@ -849,6 +849,14 @@
       "onboard_time": 1736322321,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 329648,
+      "num": 305420,
+      "word": "虞书欣丁禹兮都去微博之夜",
+      "onboard_time": 1736339121,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 329578,
@@ -1027,6 +1035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 266667,
+      "num": 266667,
+      "word": "刘诗雯好冷静",
+      "onboard_time": 1736336240,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263702,
       "num": 263702,
       "word": "给中国空间站寄点土特产",
@@ -1049,14 +1065,6 @@
       "onboard_time": 1736304860,
       "rank": 2,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 260729,
-      "num": 260729,
-      "word": "刘诗雯好冷静",
-      "onboard_time": 1736336240,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 260258,
@@ -1107,6 +1115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248319,
+      "num": 313696,
+      "word": "加拿大执政党发布标明美加国界线地图",
+      "onboard_time": 1736338401,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 247965,
       "num": 247965,
       "word": "刘强东老师回应收到10万红包",
@@ -1137,6 +1153,14 @@
       "onboard_time": 1736326163,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 241131,
+      "num": 241131,
+      "word": "高校喊话刘美含吃知识点",
+      "onboard_time": 1736339242,
+      "rank": 27,
+      "category": "剧集,教育"
     },
     {
       "raw_hot": 240080,
@@ -1195,14 +1219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 225672,
-      "num": 225672,
-      "word": "高校喊话刘美含吃知识点",
-      "onboard_time": 1736339242,
-      "rank": 27,
-      "category": "剧集,教育"
-    },
-    {
       "raw_hot": 220165,
       "num": 220165,
       "word": "李昀锐宝格丽上班路透",
@@ -1251,6 +1267,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 214217,
+      "num": 324650,
+      "word": "国色芳华",
+      "onboard_time": 1736225184,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213454,
       "num": 244716,
       "word": "孙颖莎16岁空降世排第十仅用21天",
@@ -1297,14 +1321,6 @@
       "onboard_time": 1736319863,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 208372,
-      "num": 259260,
-      "word": "虞书欣丁禹兮都去微博之夜",
-      "onboard_time": 1736339121,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 208087,
@@ -1401,14 +1417,6 @@
       "onboard_time": 1736305463,
       "rank": 33,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 197541,
-      "num": 324650,
-      "word": "国色芳华",
-      "onboard_time": 1736225184,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 196496,
@@ -1691,14 +1699,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 174388,
-      "num": 313696,
-      "word": "加拿大执政党发布标明美加国界线地图",
-      "onboard_time": 1736338401,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 174019,
       "num": 174019,
       "word": "一人一句为日喀则定日县加油",
@@ -1833,6 +1833,14 @@
       "onboard_time": 1736333302,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155850,
+      "num": 155850,
+      "word": "敖瑞鹏直播",
+      "onboard_time": 1736340982,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 154709,
@@ -1995,6 +2003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142914,
+      "num": 142914,
+      "word": "茯苓 师尊",
+      "onboard_time": 1736340563,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142888,
       "num": 142888,
       "word": "畅畅你坏 但你好帅",
@@ -2060,7 +2076,7 @@
     },
     {
       "raw_hot": 139520,
-      "num": 139520,
+      "num": 222802,
       "word": "中超联赛",
       "onboard_time": 1736339660,
       "rank": 42,
@@ -2097,6 +2113,14 @@
       "onboard_time": 1736316622,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133076,
+      "num": 133076,
+      "word": "夏之光红发黑西装",
+      "onboard_time": 1736340323,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 132255,
@@ -2161,6 +2185,14 @@
       "onboard_time": 1736293879,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124735,
+      "num": 124735,
+      "word": "特朗普考虑宣布国家经济紧急状态",
+      "onboard_time": 1736340261,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 123805,
@@ -2619,6 +2651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68738,
+      "num": 308367,
+      "word": "加拿大执政党发布地图回击特朗普",
+      "onboard_time": 1736340442,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 68651,
       "num": 426668,
       "word": "海拔4300米子弟兵为震区群众做早餐",
@@ -2915,6 +2955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40996,
+      "num": 265718,
+      "word": "蒋敦豪微博年度喜爱演出",
+      "onboard_time": 1736337920,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 39307,
       "num": 553717,
       "word": "泻立停仍有电商平台在售",
@@ -3009,6 +3057,14 @@
       "onboard_time": 1736270115,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 24691,
+      "num": 303314,
+      "word": "男子给15万彩礼1个月后被分手",
+      "onboard_time": 1736340863,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24375,
@@ -3121,6 +3177,14 @@
       "onboard_time": 1736272394,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11385,
+      "num": 219908,
+      "word": "是谁在骗中国人去缅北",
+      "onboard_time": 1736341042,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 11344,

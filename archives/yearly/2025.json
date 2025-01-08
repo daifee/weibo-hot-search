@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736340204757,
+  "endTime": 1736341137441,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -208,6 +208,14 @@
       "word": "演员星星在泰缅边境失联",
       "onboard_time": 1736121019,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4153442,
+      "num": 312856,
+      "word": "王星到园区第一天就挨了打",
+      "onboard_time": 1736340143,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -427,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2479162,
+      "num": 2479162,
+      "word": "宝格丽晚宴",
+      "onboard_time": 1736337861,
+      "rank": 3,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 2458918,
       "num": 1161952,
       "word": "泰警方称星星被缅甸边防部队拘留",
@@ -497,14 +513,6 @@
       "onboard_time": 1735874540,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2317814,
-      "num": 846304,
-      "word": "宝格丽晚宴",
-      "onboard_time": 1736337861,
-      "rank": 3,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 2277571,
@@ -979,14 +987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1678296,
-      "num": 312856,
-      "word": "王星到园区第一天就挨了打",
-      "onboard_time": 1736340143,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1670209,
       "num": 1599709,
       "word": "4名中国演员侥幸逃脱泰国试戏骗局",
@@ -1161,6 +1161,14 @@
       "onboard_time": 1736318421,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1523505,
+      "num": 1523505,
+      "word": "地震被压废墟下戴帽小孩是AI生成",
+      "onboard_time": 1736336541,
+      "rank": 1,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1522027,
@@ -1489,14 +1497,6 @@
       "onboard_time": 1736228961,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1276830,
-      "num": 1276830,
-      "word": "地震被压废墟下戴帽小孩是AI生成",
-      "onboard_time": 1736336541,
-      "rank": 1,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 1274107,
