@@ -1,6 +1,6 @@
 {
   "startTime": 1736353721044,
-  "endTime": 1736374873434,
+  "endTime": 1736375935441,
   "band_list": [
     {
       "raw_hot": 1868815,
@@ -259,6 +259,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 138481,
+      "num": 95858,
+      "word": "绑架星星的老板为广东籍",
+      "onboard_time": 1736338221,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137489,
       "num": 137489,
       "word": "张康乐的富士",
@@ -267,12 +275,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132595,
-      "num": 95858,
-      "word": "绑架星星的老板为广东籍",
-      "onboard_time": 1736338221,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 130203,
+      "num": 130203,
+      "word": "得了甲流可以自愈吗",
+      "onboard_time": 1736353879,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 128054,
+      "num": 56164,
+      "word": "将女友装行礼箱带进宿舍张兴亮被禁赛",
+      "onboard_time": 1736360473,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124482,
@@ -347,14 +363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 97857,
-      "num": 43604,
-      "word": "将女友装行礼箱带进宿舍张兴亮被禁赛",
-      "onboard_time": 1736360473,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 92973,
       "num": 92973,
       "word": "国色芳华会是下一个爆剧吗",
@@ -363,12 +371,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 87559,
-      "num": 87559,
-      "word": "得了甲流可以自愈吗",
-      "onboard_time": 1736353879,
-      "rank": 46,
-      "category": "健康医疗"
+      "raw_hot": 84817,
+      "num": 84817,
+      "word": "月子中心跑路新手宝妈手足无措",
+      "onboard_time": 1736371031,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84765,
@@ -435,20 +443,20 @@
       "category": "体育,作品衍生"
     },
     {
-      "raw_hot": 75530,
-      "num": 75530,
-      "word": "月子中心跑路新手宝妈手足无措",
-      "onboard_time": 1736371031,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73966,
       "num": 69045,
       "word": "蜜雪冰城捐款1000万驰援西藏",
       "onboard_time": 1736356335,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 69360,
+      "num": 69360,
+      "word": "贪官心甘情愿被保姆式围猎",
+      "onboard_time": 1736369831,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64597,
@@ -459,12 +467,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 62296,
-      "num": 62296,
-      "word": "贪官心甘情愿被保姆式围猎",
-      "onboard_time": 1736369831,
-      "rank": 16,
+      "raw_hot": 55857,
+      "num": 55857,
+      "word": "抓捕患艾滋嫌犯流血民警HIV检测阴性",
+      "onboard_time": 1736373431,
+      "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51994,
+      "num": 44725,
+      "word": "CBA球员张兴亮被禁赛",
+      "onboard_time": 1736364551,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 50789,
@@ -475,12 +491,12 @@
       "category": "海外新闻,艺人"
     },
     {
-      "raw_hot": 41336,
-      "num": 35679,
-      "word": "CBA球员张兴亮被禁赛",
-      "onboard_time": 1736364551,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 44319,
+      "num": 44319,
+      "word": "法国外长警告特朗普",
+      "onboard_time": 1736362753,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 40945,
@@ -499,20 +515,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 38239,
+      "num": 45860,
+      "word": "刘亦菲宝格丽晚宴怼脸生图",
+      "onboard_time": 1736373431,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 37995,
       "num": 64167,
       "word": "调度员轻声安慰失语患者我一直在",
       "onboard_time": 1736357835,
       "rank": 29,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 37164,
-      "num": 37164,
-      "word": "法国外长警告特朗普",
-      "onboard_time": 1736362753,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 35890,
@@ -563,22 +579,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 25034,
-      "num": 35717,
-      "word": "抓捕患艾滋嫌犯流血民警HIV检测阴性",
-      "onboard_time": 1736373431,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24769,
-      "num": 35754,
-      "word": "刘亦菲宝格丽晚宴怼脸生图",
-      "onboard_time": 1736373431,
-      "rank": 29,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 24382,
       "num": 24382,
       "word": "青海玛多县5.5级地震",
@@ -619,6 +619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12287,
+      "num": 56225,
+      "word": "围猎者如何对贪官大献殷勤",
+      "onboard_time": 1736374633,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11020,
       "num": 33172,
       "word": "国新办介绍2025春运安排",
@@ -643,11 +651,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 8891,
-      "num": 43666,
-      "word": "围猎者如何对贪官大献殷勤",
-      "onboard_time": 1736374633,
-      "rank": 19,
+      "raw_hot": 8614,
+      "num": 48637,
+      "word": "2025以旧换新补贴范围更广力度更大",
+      "onboard_time": 1736375834,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
