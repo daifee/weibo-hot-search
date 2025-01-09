@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/09 11:40:41
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/09 11:50:46
 </p>
 </blockquote>
 <p>
@@ -573,6 +573,12 @@ Ok 咱们线上（热度：2051932）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%B4%A0%E9%A2%9C%E8%89%BA%E8%80%83%E8%A2%AB%E6%93%A6%E5%A6%865%E6%AC%A1%23" target="weibo">
+女生素颜艺考被擦妆5次（热度：1920219）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E8%AD%A6%E6%96%B9%E7%A7%B0%E5%B0%86%E8%B0%83%E6%9F%A5%E7%8E%8B%E6%98%9F%E6%98%AF%E5%90%A6%E6%B6%89%E7%8A%AF%E7%BD%AA%23" target="weibo">
 泰警方称将调查王星是否涉犯罪（热度：1913114）
 </a>
@@ -629,12 +635,6 @@ Ok 咱们线上（热度：2051932）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%87%AA%E8%BF%B0%E8%87%AA%E5%B7%B1%E6%A0%B9%E6%9C%AC%E9%80%83%E4%B8%8D%E5%87%BA%E5%A4%A7%E6%A5%BC%23" target="weibo">
 王星自述自己根本逃不出大楼（热度：1878063）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%B4%A0%E9%A2%9C%E8%89%BA%E8%80%83%E8%A2%AB%E6%93%A6%E5%A6%865%E6%AC%A1%23" target="weibo">
-女生素颜艺考被擦妆5次（热度：1868299）
 </a>
 </li>
 
