@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736404244628,
+  "endTime": 1736405035806,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -843,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1868618,
+      "num": 1868618,
+      "word": "希尔顿等名人豪宅已被烧成平地",
+      "onboard_time": 1736400862,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1862422,
       "num": 1862422,
       "word": "小米SU7侧翻起火十余路人抬车救人",
@@ -1131,20 +1139,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1615409,
+      "num": 1615409,
+      "word": "麦琳说自己是父母捡来的",
+      "onboard_time": 1736401162,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1597104,
       "num": 239114,
       "word": "微博删下",
       "onboard_time": 1736056169,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1590774,
-      "num": 971598,
-      "word": "麦琳说自己是父母捡来的",
-      "onboard_time": 1736401162,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1590589,
@@ -1473,14 +1481,6 @@
       "onboard_time": 1736349083,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1337667,
-      "num": 1337667,
-      "word": "希尔顿等名人豪宅已被烧成平地",
-      "onboard_time": 1736400862,
-      "rank": 25,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1337618,
