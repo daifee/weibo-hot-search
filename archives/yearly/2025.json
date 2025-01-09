@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736401070860,
+  "endTime": 1736404244628,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1139,6 +1139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1590774,
+      "num": 971598,
+      "word": "麦琳说自己是父母捡来的",
+      "onboard_time": 1736401162,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1590589,
       "num": 4829696,
       "word": "姜尘录音",
@@ -1465,6 +1473,14 @@
       "onboard_time": 1736349083,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1337667,
+      "num": 1337667,
+      "word": "希尔顿等名人豪宅已被烧成平地",
+      "onboard_time": 1736400862,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1337618,
@@ -2131,6 +2147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1021208,
+      "num": 784480,
+      "word": "留几手跟胡彦斌说你叫我爽儿就行",
+      "onboard_time": 1736401821,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1017412,
       "num": 639794,
       "word": "赵露思 救救我",
@@ -2348,7 +2372,7 @@
     },
     {
       "raw_hot": 970503,
-      "num": 731107,
+      "num": 768398,
       "word": "李一桐 脏了我的手",
       "onboard_time": 1736398222,
       "rank": 12,
@@ -2377,30 +2401,6 @@
       "onboard_time": 1735733721,
       "rank": 4,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 957319,
-      "num": 957319,
-      "word": "星光大赏导播吃豆角子了",
-      "onboard_time": 1735998449,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 957027,
-      "num": 466881,
-      "word": "赵丽颖第二套",
-      "onboard_time": 1735994191,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 956058,
-      "num": 956058,
-      "word": "央视完整还原男子大连推妻坠海案",
-      "onboard_time": 1736293340,
-      "rank": 1,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

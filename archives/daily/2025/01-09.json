@@ -1,6 +1,6 @@
 {
   "startTime": 1736353721044,
-  "endTime": 1736401070860,
+  "endTime": 1736404244628,
   "band_list": [
     {
       "raw_hot": 2735310,
@@ -51,12 +51,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1590774,
+      "num": 971598,
+      "word": "麦琳说自己是父母捡来的",
+      "onboard_time": 1736401162,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1411538,
       "num": 819173,
       "word": "葛夕没下车",
       "onboard_time": 1736397143,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1337667,
+      "num": 1337667,
+      "word": "希尔顿等名人豪宅已被烧成平地",
+      "onboard_time": 1736400862,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1328816,
@@ -123,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1021208,
+      "num": 784480,
+      "word": "留几手跟胡彦斌说你叫我爽儿就行",
+      "onboard_time": 1736401821,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1016748,
       "num": 1016748,
       "word": "将女友装行李箱带进宿舍张兴亮被禁赛",
@@ -140,7 +164,7 @@
     },
     {
       "raw_hot": 970503,
-      "num": 731107,
+      "num": 768398,
       "word": "李一桐 脏了我的手",
       "onboard_time": 1736398222,
       "rank": 12,
@@ -204,7 +228,7 @@
     },
     {
       "raw_hot": 760819,
-      "num": 494083,
+      "num": 562181,
       "word": "刘亦菲夸孟子义好美",
       "onboard_time": 1736399603,
       "rank": 18,
@@ -256,6 +280,14 @@
       "word": "南京胖哥宣布妻子再次怀孕",
       "onboard_time": 1736391681,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 617791,
+      "num": 617791,
+      "word": "我国发现猴痘病毒Ib亚分支聚集性疫情",
+      "onboard_time": 1736399302,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -339,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 448092,
+      "num": 448092,
+      "word": "黄圣依看完日记觉得不下车是对的",
+      "onboard_time": 1736401522,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 443946,
       "num": 443946,
       "word": "湖南科技大学刘俊杰",
@@ -371,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 385907,
+      "num": 385907,
+      "word": "我国发现一起猴痘病毒疫情",
+      "onboard_time": 1736400680,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 384871,
       "num": 384871,
       "word": "妙瓦底电诈园区的背后",
@@ -379,19 +427,27 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 373750,
+      "num": 373750,
+      "word": "杨紫何惟芳的头饰越来越少了",
+      "onboard_time": 1736402541,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 362661,
+      "num": 200488,
+      "word": "杨子要回归谁的家庭",
+      "onboard_time": 1736403320,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 352333,
       "num": 363788,
       "word": "一场跨国骗局何以5天告破",
       "onboard_time": 1736392461,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 352035,
-      "num": 352035,
-      "word": "我国发现猴痘病毒Ib亚分支聚集性疫情",
-      "onboard_time": 1736399302,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -491,6 +547,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 273995,
+      "num": 273995,
+      "word": "王楚钦马龙樊振东都去微博之夜",
+      "onboard_time": 1736400021,
+      "rank": 40,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 273270,
       "num": 821863,
       "word": "17岁双胞胎学泡茶被质疑获父母支持",
@@ -504,6 +568,14 @@
       "word": "辛雨锡起诉秦霄贤姐姐",
       "onboard_time": 1736344764,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 267789,
+      "num": 267789,
+      "word": "王星泰国获救最该感谢谁",
+      "onboard_time": 1736401101,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -523,20 +595,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 246045,
+      "num": 246045,
+      "word": "国色芳华 让家暴从家事走向公事",
+      "onboard_time": 1736401580,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 243874,
       "num": 243874,
       "word": "经纪人揭秘泰国进组拍戏骗局",
       "onboard_time": 1736349384,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 241500,
-      "num": 241500,
-      "word": "希尔顿等名人豪宅已被烧成平地",
-      "onboard_time": 1736400862,
-      "rank": 25,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 233189,
@@ -561,14 +633,6 @@
       "onboard_time": 1736400202,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 228231,
-      "num": 228231,
-      "word": "王楚钦马龙樊振东都去微博之夜",
-      "onboard_time": 1736400021,
-      "rank": 40,
-      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 224819,
@@ -683,6 +747,30 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 193599,
+      "num": 193599,
+      "word": "白月梵星 想出用剑搂腰的真是天才",
+      "onboard_time": 1736402361,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 193447,
+      "num": 193447,
+      "word": "林高远新加坡大满贯退赛",
+      "onboard_time": 1736402241,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 192300,
+      "num": 192300,
+      "word": "湖南科大赴缅甸失联学生母亲发声",
+      "onboard_time": 1736403380,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192085,
       "num": 192085,
       "word": "澳网郑钦文萨巴伦卡同区",
@@ -723,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186535,
+      "num": 186535,
+      "word": "异人之下2有王也踏青",
+      "onboard_time": 1736403200,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186463,
       "num": 186463,
       "word": "江苏确诊一例罕见传染病",
@@ -737,6 +833,14 @@
       "onboard_time": 1736396963,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183632,
+      "num": 183632,
+      "word": "寒假未成年仅15小时游戏时间",
+      "onboard_time": 1736403081,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 182804,
@@ -811,12 +915,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 160773,
-      "num": 160773,
-      "word": "我国发现一起猴痘病毒疫情",
-      "onboard_time": 1736400680,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 161066,
+      "num": 212777,
+      "word": "幸福到万家3年后幸福到驻站",
+      "onboard_time": 1736403261,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 158427,
@@ -875,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149352,
+      "num": 222848,
+      "word": "WTT新加坡大满贯2025",
+      "onboard_time": 1736403860,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147065,
       "num": 147065,
       "word": "白月梵星打戏",
@@ -907,6 +1019,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 143540,
+      "num": 489001,
+      "word": "疲惫的青年护士们正在逃离三甲医院",
+      "onboard_time": 1736400382,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143348,
+      "num": 143348,
+      "word": "时尚芭莎亚冬会特刊",
+      "onboard_time": 1736404040,
+      "rank": 43,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 142861,
       "num": 142861,
       "word": "樊振东曾说希望自己职业生涯很长",
@@ -921,6 +1049,14 @@
       "onboard_time": 1736398522,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140733,
+      "num": 140733,
+      "word": "腾讯你是会排版的",
+      "onboard_time": 1736401882,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 140636,
@@ -953,6 +1089,22 @@
       "onboard_time": 1736343262,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 138281,
+      "num": 213546,
+      "word": "当大学生开始送礼给长辈一点震撼",
+      "onboard_time": 1736403979,
+      "rank": 27,
+      "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 137535,
+      "num": 137535,
+      "word": "电信诈骗洗钱手段又升级了",
+      "onboard_time": 1736404221,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137489,
@@ -993,6 +1145,14 @@
       "onboard_time": 1736393420,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131396,
+      "num": 131396,
+      "word": "张雅钦拍的李现",
+      "onboard_time": 1736403920,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 126213,
@@ -1089,6 +1249,14 @@
       "onboard_time": 1736391200,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 117689,
+      "num": 379715,
+      "word": "汤唯官宣微博之夜",
+      "onboard_time": 1736401821,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 115996,
@@ -1209,14 +1377,6 @@
       "onboard_time": 1736399003,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 96204,
-      "num": 489001,
-      "word": "疲惫的青年护士们正在逃离三甲医院",
-      "onboard_time": 1736400382,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95973,
@@ -1435,6 +1595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 56101,
+      "num": 430600,
+      "word": "蛇钞豹子号最高涨价10倍",
+      "onboard_time": 1736403500,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54888,
       "num": 228232,
       "word": "王俊凯年度闪耀时刻",
@@ -1555,12 +1723,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 30168,
+      "num": 682631,
+      "word": "为啥有些老人沉迷购买保健品",
+      "onboard_time": 1736403500,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 29111,
       "num": 29111,
       "word": "为西藏加油",
       "onboard_time": 1736360113,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27531,
+      "num": 212515,
+      "word": "中国学生秒懂的瞬间",
+      "onboard_time": 1736403441,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 27190,
@@ -1601,6 +1785,14 @@
       "onboard_time": 1736392461,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19415,
+      "num": 375014,
+      "word": "为啥顺风车出事走保险这么难",
+      "onboard_time": 1736403741,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 18786,

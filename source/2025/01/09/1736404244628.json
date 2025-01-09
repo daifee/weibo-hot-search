@@ -1,0 +1,410 @@
+{
+  "runTime": 1736404244628,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1665719,
+        "num": 1665719,
+        "word": "黄圣依没下车",
+        "onboard_time": 1736396663,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1337667,
+        "num": 1337667,
+        "word": "希尔顿等名人豪宅已被烧成平地",
+        "onboard_time": 1736400862,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 62753,
+        "num": 994390,
+        "word": "三九来了冷冷冷冷模式开启",
+        "onboard_time": 1736391140,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1590774,
+        "num": 971598,
+        "word": "麦琳说自己是父母捡来的",
+        "onboard_time": 1736401162,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 885048,
+        "num": 885048,
+        "word": "韩国人顺产头",
+        "onboard_time": 1736395401,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 789148,
+        "num": 789148,
+        "word": "女生素颜艺考被擦妆5次",
+        "onboard_time": 1736391740,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1021208,
+        "num": 784480,
+        "word": "留几手跟胡彦斌说你叫我爽儿就行",
+        "onboard_time": 1736401821,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 768398,
+        "num": 768398,
+        "word": "李一桐 脏了我的手",
+        "onboard_time": 1736398222,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 732365,
+        "num": 732365,
+        "word": "美国洛杉矶山火完全失控",
+        "onboard_time": 1736391681,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 30168,
+        "num": 682631,
+        "word": "为啥有些老人沉迷购买保健品",
+        "onboard_time": 1736403500,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 647383,
+        "num": 647383,
+        "word": "麦琳李行亮都下车了",
+        "onboard_time": 1736397023,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 617791,
+        "num": 617791,
+        "word": "我国发现猴痘病毒Ib亚分支聚集性疫情",
+        "onboard_time": 1736399302,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 562181,
+        "num": 562181,
+        "word": "刘亦菲夸孟子义好美",
+        "onboard_time": 1736399603,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448092,
+        "num": 448092,
+        "word": "黄圣依看完日记觉得不下车是对的",
+        "onboard_time": 1736401522,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56101,
+        "num": 430600,
+        "word": "蛇钞豹子号最高涨价10倍",
+        "onboard_time": 1736403500,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422221,
+        "num": 422221,
+        "word": "全国174位星星被困缅甸联合求救文档",
+        "onboard_time": 1736383102,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 417768,
+        "num": 417768,
+        "word": "泰警方称将确保中国人不被贩至他国",
+        "onboard_time": 1736394381,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385907,
+        "num": 385907,
+        "word": "我国发现一起猴痘病毒疫情",
+        "onboard_time": 1736400680,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117689,
+        "num": 379715,
+        "word": "汤唯官宣微博之夜",
+        "onboard_time": 1736401821,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19415,
+        "num": 375014,
+        "word": "为啥顺风车出事走保险这么难",
+        "onboard_time": 1736403741,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 373750,
+        "num": 373750,
+        "word": "杨紫何惟芳的头饰越来越少了",
+        "onboard_time": 1736402541,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273995,
+        "num": 273995,
+        "word": "王楚钦马龙樊振东都去微博之夜",
+        "onboard_time": 1736400021,
+        "rank": 21,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 267789,
+        "num": 267789,
+        "word": "王星泰国获救最该感谢谁",
+        "onboard_time": 1736401101,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246045,
+        "num": 246045,
+        "word": "国色芳华 让家暴从家事走向公事",
+        "onboard_time": 1736401580,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149352,
+        "num": 222848,
+        "word": "WTT新加坡大满贯2025",
+        "onboard_time": 1736403860,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299860,
+        "num": 222382,
+        "word": "杨紫微博之夜官宣",
+        "onboard_time": 1736399061,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220825,
+        "num": 220825,
+        "word": "微博之夜最终轮",
+        "onboard_time": 1736383102,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138281,
+        "num": 213546,
+        "word": "当大学生开始送礼给长辈一点震撼",
+        "onboard_time": 1736403979,
+        "rank": 27,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 161066,
+        "num": 212777,
+        "word": "幸福到万家3年后幸福到驻站",
+        "onboard_time": 1736403261,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27531,
+        "num": 212515,
+        "word": "中国学生秒懂的瞬间",
+        "onboard_time": 1736403441,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 212254,
+        "num": 212254,
+        "word": "夏志远醉酒直播骂老婆",
+        "onboard_time": 1736395101,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355059,
+        "num": 205464,
+        "word": "葛夕没下车",
+        "onboard_time": 1736397143,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362661,
+        "num": 200488,
+        "word": "杨子要回归谁的家庭",
+        "onboard_time": 1736403320,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194029,
+        "num": 194029,
+        "word": "刘亦菲被挤到的表情",
+        "onboard_time": 1736392161,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193599,
+        "num": 193599,
+        "word": "白月梵星 想出用剑搂腰的真是天才",
+        "onboard_time": 1736402361,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193447,
+        "num": 193447,
+        "word": "林高远新加坡大满贯退赛",
+        "onboard_time": 1736402241,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192300,
+        "num": 192300,
+        "word": "湖南科大赴缅甸失联学生母亲发声",
+        "onboard_time": 1736403380,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189885,
+        "num": 189885,
+        "word": "赵樱子自曝曾对成毅因戏生情",
+        "onboard_time": 1736383278,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186535,
+        "num": 186535,
+        "word": "异人之下2有王也踏青",
+        "onboard_time": 1736403200,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183632,
+        "num": 183632,
+        "word": "寒假未成年仅15小时游戏时间",
+        "onboard_time": 1736403081,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163987,
+        "num": 163987,
+        "word": "樊振东的腿抓地像跑车一样",
+        "onboard_time": 1736400202,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144819,
+        "num": 144819,
+        "word": "B站拿下春晚转播权",
+        "onboard_time": 1736392042,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 143540,
+        "num": 143540,
+        "word": "疲惫的青年护士们正在逃离三甲医院",
+        "onboard_time": 1736400382,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143348,
+        "num": 143348,
+        "word": "时尚芭莎亚冬会特刊",
+        "onboard_time": 1736404040,
+        "rank": 43,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 140733,
+        "num": 140733,
+        "word": "腾讯你是会排版的",
+        "onboard_time": 1736401882,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 137579,
+        "num": 137579,
+        "word": "赵丽颖向阳生长大片",
+        "onboard_time": 1736400382,
+        "rank": 45,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 137535,
+        "num": 137535,
+        "word": "电信诈骗洗钱手段又升级了",
+        "onboard_time": 1736404221,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131396,
+        "num": 131396,
+        "word": "张雅钦拍的李现",
+        "onboard_time": 1736403920,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133484,
+        "num": 131350,
+        "word": "泰缅边境失联模特经历与王星相似",
+        "onboard_time": 1736397443,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129990,
+        "num": 129990,
+        "word": "人民警察版璀璨冒险人",
+        "onboard_time": 1736400802,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届中央纪委四次全会公报来了#"
+    }
+  }
+}
