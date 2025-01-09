@@ -1,6 +1,6 @@
 {
   "startTime": 1736353721044,
-  "endTime": 1736427591577,
+  "endTime": 1736429310595,
   "band_list": [
     {
       "raw_hot": 2735310,
@@ -83,6 +83,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 1495962,
+      "num": 1495962,
+      "word": "微博之夜名场面又要来了",
+      "onboard_time": 1736423003,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1411538,
       "num": 819173,
       "word": "葛夕没下车",
@@ -129,14 +137,6 @@
       "onboard_time": 1736396602,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1202981,
-      "num": 1202981,
-      "word": "微博之夜名场面又要来了",
-      "onboard_time": 1736423003,
-      "rank": 1,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1192254,
@@ -219,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1002375,
+      "num": 1002375,
+      "word": "买股代露娃",
+      "onboard_time": 1736425701,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 984429,
       "num": 984429,
       "word": "再见爱人",
@@ -233,14 +241,6 @@
       "onboard_time": 1736398222,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 967609,
-      "num": 967609,
-      "word": "买股代露娃",
-      "onboard_time": 1736425701,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 948025,
@@ -299,6 +299,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 810586,
+      "num": 645427,
+      "word": "微博之夜好多cp啊",
+      "onboard_time": 1736425943,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 805244,
       "num": 805244,
       "word": "张雪峰霸气谈女儿就业",
@@ -337,6 +345,14 @@
       "onboard_time": 1736399603,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 759631,
+      "num": 759631,
+      "word": "深圳一区期末试卷太难延时20分钟",
+      "onboard_time": 1736425883,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 732208,
@@ -379,6 +395,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 692574,
+      "num": 645224,
+      "word": "石原里美老公近照",
+      "onboard_time": 1736426842,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 686522,
       "num": 572269,
       "word": "肖战微博之夜官宣",
@@ -419,6 +443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 646311,
+      "num": 646311,
+      "word": "美国洛杉矶山火最新消息",
+      "onboard_time": 1736421562,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 643543,
       "num": 643543,
       "word": "月子中心跑路宝妈哭求月嫂留下",
@@ -432,6 +464,14 @@
       "word": "南京胖哥宣布妻子再次怀孕",
       "onboard_time": 1736391681,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 638374,
+      "num": 638374,
+      "word": "疯狂小杨哥及三只羊被起诉",
+      "onboard_time": 1736425401,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -459,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 593233,
+      "num": 593233,
+      "word": "微博之夜重磅阵容官宣",
+      "onboard_time": 1736427142,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 586227,
       "num": 586227,
       "word": "水果含糖量和热量排行榜",
@@ -467,28 +515,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 577807,
-      "num": 522737,
-      "word": "微博之夜好多cp啊",
-      "onboard_time": 1736425943,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 570464,
       "num": 570464,
       "word": "豆得儿泳装照",
       "onboard_time": 1736411062,
       "rank": 28,
       "category": "网红"
-    },
-    {
-      "raw_hot": 565610,
-      "num": 565610,
-      "word": "美国洛杉矶山火最新消息",
-      "onboard_time": 1736421562,
-      "rank": 44,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 564561,
@@ -555,14 +587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 471337,
-      "num": 457124,
-      "word": "石原里美老公近照",
-      "onboard_time": 1736426842,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 462719,
       "num": 462719,
       "word": "一大批电车车主失去维修自由",
@@ -619,14 +643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 450868,
-      "num": 477434,
-      "word": "疯狂小杨哥及三只羊被起诉",
-      "onboard_time": 1736425401,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 449696,
       "num": 449696,
       "word": "孟子义李昀锐或将合体录制桃花坞",
@@ -665,14 +681,6 @@
       "onboard_time": 1736422883,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 398241,
-      "num": 398241,
-      "word": "微博之夜重磅阵容官宣",
-      "onboard_time": 1736427142,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 394509,
@@ -732,7 +740,7 @@
     },
     {
       "raw_hot": 371629,
-      "num": 237330,
+      "num": 324352,
       "word": "肖战承认会入睡困难",
       "onboard_time": 1736426542,
       "rank": 28,
@@ -761,14 +769,6 @@
       "onboard_time": 1736404761,
       "rank": 47,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 357618,
-      "num": 357618,
-      "word": "深圳一区期末试卷太难延时20分钟",
-      "onboard_time": 1736425883,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 352333,
@@ -843,6 +843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 322171,
+      "num": 322171,
+      "word": "芒果剧宣",
+      "onboard_time": 1736427444,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 307579,
       "num": 332568,
       "word": "李现几个镜头就让风流倜傥有了实感",
@@ -905,6 +913,14 @@
       "onboard_time": 1736418861,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 290026,
+      "num": 290026,
+      "word": "从太空看洛杉矶山火",
+      "onboard_time": 1736427083,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 289664,
@@ -1009,6 +1025,14 @@
       "onboard_time": 1736401101,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261375,
+      "num": 240927,
+      "word": "国色芳华虐女主",
+      "onboard_time": 1736427501,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 259697,
@@ -1140,11 +1164,19 @@
     },
     {
       "raw_hot": 229903,
-      "num": 221520,
+      "num": 228608,
       "word": "辛雨锡直播",
       "onboard_time": 1736425822,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228415,
+      "num": 228415,
+      "word": "2026预制梗",
+      "onboard_time": 1736426303,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 227225,
@@ -1219,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214060,
+      "num": 214060,
+      "word": "上海套内39平米的四口之家",
+      "onboard_time": 1736427024,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 213258,
       "num": 213258,
       "word": "李栋旭玄彬街头聊天",
@@ -1264,6 +1304,14 @@
       "word": "敖瑞鹏好帅",
       "onboard_time": 1736425522,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 205861,
+      "num": 205861,
+      "word": "王鹤棣演我不想接电话",
+      "onboard_time": 1736428163,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -1587,14 +1635,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 176032,
-      "num": 176032,
-      "word": "从太空看洛杉矶山火",
-      "onboard_time": 1736427083,
-      "rank": 40,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 174786,
       "num": 174786,
       "word": "哪吒封神和唐探能撑起这个春节吗",
@@ -1611,28 +1651,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173012,
+      "num": 255460,
+      "word": "白月梵星妆造",
+      "onboard_time": 1736427322,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 172608,
+      "num": 172608,
+      "word": "胡冰卿时隔7年杀回古装赛道",
+      "onboard_time": 1736429123,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172576,
       "num": 172576,
       "word": "孟子义李昀锐七字真言",
       "onboard_time": 1736349922,
       "rank": 23,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 171104,
-      "num": 171104,
-      "word": "2026预制梗",
-      "onboard_time": 1736426303,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 170713,
-      "num": 170713,
-      "word": "芒果剧宣",
-      "onboard_time": 1736427444,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 169303,
@@ -1649,14 +1689,6 @@
       "onboard_time": 1736384361,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168820,
-      "num": 168820,
-      "word": "国色芳华虐女主",
-      "onboard_time": 1736427501,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 168739,
@@ -1691,6 +1723,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 167212,
+      "num": 167212,
+      "word": "深圳这场期末考试难倒娃也难倒爹妈",
+      "onboard_time": 1736428582,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166738,
       "num": 191112,
       "word": "无限暖暖爆料",
@@ -1705,6 +1745,14 @@
       "onboard_time": 1736399482,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165262,
+      "num": 165262,
+      "word": "王一博寻护者斩获多项殊荣",
+      "onboard_time": 1736428823,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 164901,
@@ -1792,6 +1840,14 @@
       "word": "宿舍投毒案嫌疑人投毒目标系另一宿友",
       "onboard_time": 1736424502,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155036,
+      "num": 611256,
+      "word": "宠物猫到达收货地后滞留中转站死亡",
+      "onboard_time": 1736428043,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -2153,6 +2209,14 @@
       "onboard_time": 1736411062,
       "rank": 14,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 128792,
+      "num": 419710,
+      "word": "杨紫也闯进了人妻赛道",
+      "onboard_time": 1736428221,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 126213,
@@ -2787,6 +2851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58818,
+      "num": 324544,
+      "word": "两男子自称和机器人扳手腕当场骨折",
+      "onboard_time": 1736427803,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58787,
       "num": 58787,
       "word": "专家发今天阳光明媚竟是欢迎围猎暗号",
@@ -2833,6 +2905,14 @@
       "onboard_time": 1736396362,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 53451,
+      "num": 447028,
+      "word": "迪奥全球品牌大使郑钦文",
+      "onboard_time": 1736427983,
+      "rank": 13,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 53013,
@@ -2931,6 +3011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 39334,
+      "num": 1002713,
+      "word": "一图速览90亿人次春运如何保障",
+      "onboard_time": 1736414000,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39316,
       "num": 50995,
       "word": "张兴亮被禁赛",
@@ -2952,14 +3040,6 @@
       "word": "律师解读猫贷合同为何被法律保护",
       "onboard_time": 1736396423,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38496,
-      "num": 136659,
-      "word": "一图速览90亿人次春运如何保障",
-      "onboard_time": 1736414000,
-      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -3115,14 +3195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 25940,
-      "num": 255460,
-      "word": "白月梵星妆造",
-      "onboard_time": 1736427322,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 25620,
       "num": 182992,
       "word": "住酒店会被感染HPV吗",
@@ -3145,6 +3217,14 @@
       "onboard_time": 1736398642,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24744,
+      "num": 327479,
+      "word": "陈哲远在看恐怖片剧本",
+      "onboard_time": 1736422521,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 24382,
@@ -3219,20 +3299,20 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 16693,
+      "num": 180254,
+      "word": "容祖儿现场安排李宇春周笔畅合作",
+      "onboard_time": 1736425401,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 15257,
       "num": 132899,
       "word": "男性是否会长期携带高危HPV",
       "onboard_time": 1736417540,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 15056,
-      "num": 180254,
-      "word": "容祖儿现场安排李宇春周笔畅合作",
-      "onboard_time": 1736425401,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 14623,
@@ -3297,6 +3377,14 @@
       "onboard_time": 1736368631,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7917,
+      "num": 228458,
+      "word": "ARTnews年度盛典",
+      "onboard_time": 1736429183,
+      "rank": 29,
+      "category": "时尚"
     },
     {
       "raw_hot": 6903,
