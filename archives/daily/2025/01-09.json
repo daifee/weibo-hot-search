@@ -1,6 +1,6 @@
 {
   "startTime": 1736353721044,
-  "endTime": 1736414633430,
+  "endTime": 1736415460972,
   "band_list": [
     {
       "raw_hot": 2735310,
@@ -291,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 723901,
+      "num": 583846,
+      "word": "中国驻清迈总领馆回应模特杨泽琪失联",
+      "onboard_time": 1736410043,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 723010,
       "num": 723010,
       "word": "夏志远醉酒直播骂老婆",
@@ -305,14 +313,6 @@
       "onboard_time": 1736341042,
       "rank": 3,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 715433,
-      "num": 583846,
-      "word": "中国驻清迈总领馆回应模特杨泽琪失联",
-      "onboard_time": 1736410043,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 686522,
@@ -475,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 450861,
+      "num": 450861,
+      "word": "唐嫣 蒂芙尼",
+      "onboard_time": 1736413761,
+      "rank": 22,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 449696,
       "num": 449696,
       "word": "孟子义李昀锐或将合体录制桃花坞",
@@ -545,6 +553,14 @@
       "onboard_time": 1736402541,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 368924,
+      "num": 368924,
+      "word": "美保险公司取消多地居民房屋保险",
+      "onboard_time": 1736413042,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 367146,
@@ -659,6 +675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 293050,
+      "num": 576802,
+      "word": "肖战与人物的五年之约",
+      "onboard_time": 1736413581,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 289664,
       "num": 289664,
       "word": "云合",
@@ -747,6 +771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 254311,
+      "num": 254311,
+      "word": "一大批电车车主失去维修自由",
+      "onboard_time": 1736413881,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 251385,
       "num": 251385,
       "word": "电信诈骗洗钱手段又升级了",
@@ -761,14 +793,6 @@
       "onboard_time": 1736338462,
       "rank": 34,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 247092,
-      "num": 247092,
-      "word": "唐嫣 蒂芙尼",
-      "onboard_time": 1736413761,
-      "rank": 22,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 246045,
@@ -787,12 +811,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 233563,
-      "num": 576802,
-      "word": "肖战与人物的五年之约",
-      "onboard_time": 1736413581,
-      "rank": 9,
-      "category": "艺人"
+      "raw_hot": 233983,
+      "num": 228504,
+      "word": "留几手没看到葛夕留的东西",
+      "onboard_time": 1736412261,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 233189,
@@ -833,14 +857,6 @@
       "onboard_time": 1736405481,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 228504,
-      "num": 228504,
-      "word": "留几手没看到葛夕留的东西",
-      "onboard_time": 1736412261,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 227225,
@@ -923,20 +939,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 212105,
-      "num": 212105,
-      "word": "一大批电车车主失去维修自由",
-      "onboard_time": 1736413881,
-      "rank": 24,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 212071,
       "num": 212071,
       "word": "光与夜之恋",
       "onboard_time": 1736396843,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 212040,
+      "num": 182112,
+      "word": "黑神话悟空 春晚",
+      "onboard_time": 1736414843,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 208464,
@@ -995,6 +1011,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 202794,
+      "num": 202794,
+      "word": "马斯克转发美国加州大火前后对比画面",
+      "onboard_time": 1736413581,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 199572,
       "num": 199572,
       "word": "马龙樊振东王楚钦参加微博之夜",
@@ -1009,14 +1033,6 @@
       "onboard_time": 1736336541,
       "rank": 17,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 196756,
-      "num": 286908,
-      "word": "美保险公司取消多地居民房屋保险",
-      "onboard_time": 1736413042,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 194800,
@@ -1155,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184461,
+      "num": 184461,
+      "word": "全球三分之二的iPad出自川渝",
+      "onboard_time": 1736411961,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183632,
       "num": 322209,
       "word": "寒假未成年仅15小时游戏时间",
@@ -1169,6 +1193,14 @@
       "onboard_time": 1736400802,
       "rank": 40,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 181605,
+      "num": 181605,
+      "word": "冰糖王八 震我一撼",
+      "onboard_time": 1736413340,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 180789,
@@ -1193,6 +1225,14 @@
       "onboard_time": 1736349922,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 169303,
+      "num": 179981,
+      "word": "奶油草莓",
+      "onboard_time": 1736411540,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 168972,
@@ -1220,7 +1260,7 @@
     },
     {
       "raw_hot": 166738,
-      "num": 166738,
+      "num": 191112,
       "word": "无限暖暖爆料",
       "onboard_time": 1736411002,
       "rank": 43,
@@ -1249,22 +1289,6 @@
       "onboard_time": 1736396302,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 162958,
-      "num": 162958,
-      "word": "马斯克转发美国加州大火前后对比画面",
-      "onboard_time": 1736413581,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 162347,
-      "num": 175895,
-      "word": "全球三分之二的iPad出自川渝",
-      "onboard_time": 1736411961,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 161066,
@@ -1361,14 +1385,6 @@
       "onboard_time": 1736407340,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 148015,
-      "num": 148015,
-      "word": "冰糖王八 震我一撼",
-      "onboard_time": 1736413340,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 147805,
@@ -1483,14 +1499,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 139814,
-      "num": 179981,
-      "word": "奶油草莓",
-      "onboard_time": 1736411540,
-      "rank": 39,
-      "category": "美食"
-    },
-    {
       "raw_hot": 139285,
       "num": 139285,
       "word": "月子中心跑路新手宝妈手足无措",
@@ -1529,6 +1537,14 @@
       "onboard_time": 1736413462,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136534,
+      "num": 136534,
+      "word": "成都太古里偶遇刘宪华",
+      "onboard_time": 1736415261,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 136282,
@@ -1617,6 +1633,22 @@
       "onboard_time": 1736383102,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125111,
+      "num": 125111,
+      "word": "戏龄超十年演员谈王星失联事件",
+      "onboard_time": 1736410461,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 125099,
+      "num": 454439,
+      "word": "肖战说童年是自己的滋养",
+      "onboard_time": 1736415139,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 124482,
@@ -1851,6 +1883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104689,
+      "num": 118579,
+      "word": "泰国警方正在调查模特杨泽琪失联案",
+      "onboard_time": 1736414843,
+      "rank": 49,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 102983,
       "num": 228235,
       "word": "成毅误入反差赛道",
@@ -2051,6 +2091,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 73133,
+      "num": 183990,
+      "word": "这些体检异常应及时就医",
+      "onboard_time": 1736414780,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 71139,
       "num": 192106,
       "word": "燕云十六声回应五谷不分",
@@ -2073,6 +2121,14 @@
       "onboard_time": 1736410100,
       "rank": 27,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 68073,
+      "num": 629012,
+      "word": "得了甲流如何用药",
+      "onboard_time": 1736414421,
+      "rank": 2,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 67782,
@@ -2195,6 +2251,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 45519,
+      "num": 513137,
+      "word": "亲历美国加州山火的中国人发声",
+      "onboard_time": 1736413642,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 44174,
+      "num": 183419,
+      "word": "石宇奇大马赛晋级8强",
+      "onboard_time": 1736414959,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 42369,
+      "num": 245001,
+      "word": "微博之夜官宣马丽",
+      "onboard_time": 1736415021,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 42025,
       "num": 375014,
       "word": "为啥顺风车出事走保险这么难",
@@ -2209,14 +2289,6 @@
       "onboard_time": 1736357294,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 39510,
-      "num": 513137,
-      "word": "亲历美国加州山火的中国人发声",
-      "onboard_time": 1736413642,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 39316,
@@ -2316,7 +2388,7 @@
     },
     {
       "raw_hot": 29221,
-      "num": 155930,
+      "num": 169729,
       "word": "周笔畅模仿那英已nextlevel",
       "onboard_time": 1736411842,
       "rank": 44,
@@ -2363,6 +2435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25620,
+      "num": 182992,
+      "word": "住酒店会被感染HPV吗",
+      "onboard_time": 1736413940,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 25280,
       "num": 25280,
       "word": "孟子义娇俏黑天鹅",
@@ -2385,14 +2465,6 @@
       "onboard_time": 1736323583,
       "rank": 42,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 23054,
-      "num": 175225,
-      "word": "住酒店会被感染HPV吗",
-      "onboard_time": 1736413940,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 22994,
@@ -2443,14 +2515,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 17690,
-      "num": 629012,
-      "word": "得了甲流如何用药",
-      "onboard_time": 1736414421,
-      "rank": 2,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 14623,
       "num": 26260,
       "word": "周总理笑容总是那么温暖",
@@ -2473,6 +2537,14 @@
       "onboard_time": 1736374633,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11167,
+      "num": 154935,
+      "word": "西藏军区在地震救援第一线",
+      "onboard_time": 1736415202,
+      "rank": 39,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 11020,
@@ -2516,6 +2588,9 @@
     },
     {
       "word": "#解码中华文化基因#"
+    },
+    {
+      "word": "#中纪委全会公报#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1736415460972,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1994129,
+        "num": 1994129,
+        "word": "金扫帚提名名单",
+        "onboard_time": 1736410701,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 785554,
+        "num": 785554,
+        "word": "希尔顿等名人豪宅已被烧成平地",
+        "onboard_time": 1736400862,
+        "rank": 1,
+        "category": "海外新闻,艺人"
+      },
+      {
+        "raw_hot": 68073,
+        "num": 569645,
+        "word": "得了甲流如何用药",
+        "onboard_time": 1736414421,
+        "rank": 2,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 558412,
+        "num": 558412,
+        "word": "水果含糖量和热量排行榜",
+        "onboard_time": 1736410043,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 538724,
+        "num": 538724,
+        "word": "拜登听取加州火情后宣布当上曾祖父",
+        "onboard_time": 1736408720,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1299878,
+        "num": 526354,
+        "word": "杨子 我又不是找不着更好的",
+        "onboard_time": 1736408481,
+        "rank": 5,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 723901,
+        "num": 521881,
+        "word": "中国驻清迈总领馆回应模特杨泽琪失联",
+        "onboard_time": 1736410043,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510941,
+        "num": 510941,
+        "word": "美国洛杉矶山火完全失控",
+        "onboard_time": 1736391681,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 474488,
+        "num": 474488,
+        "word": "韩国人顺产头",
+        "onboard_time": 1736395401,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125099,
+        "num": 454439,
+        "word": "肖战说童年是自己的滋养",
+        "onboard_time": 1736415139,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 634831,
+        "num": 454011,
+        "word": "43岁宋慧乔自曝年龄焦虑",
+        "onboard_time": 1736408662,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 509527,
+        "num": 453146,
+        "word": "21岁中国女孩与网友赴泰国后失联",
+        "onboard_time": 1736411420,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450861,
+        "num": 450861,
+        "word": "唐嫣 蒂芙尼",
+        "onboard_time": 1736413761,
+        "rank": 12,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 373549,
+        "num": 373549,
+        "word": "麦琳说自己是父母捡来的",
+        "onboard_time": 1736401162,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 626088,
+        "num": 372767,
+        "word": "肖战微博之夜官宣",
+        "onboard_time": 1736412621,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 368924,
+        "num": 368924,
+        "word": "美保险公司取消多地居民房屋保险",
+        "onboard_time": 1736413042,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 339186,
+        "num": 339186,
+        "word": "女生素颜艺考被擦妆5次",
+        "onboard_time": 1736391740,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 277066,
+        "num": 277066,
+        "word": "会计桌上不能动的东西",
+        "onboard_time": 1736410223,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 254311,
+        "num": 254311,
+        "word": "一大批电车车主失去维修自由",
+        "onboard_time": 1736413881,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 42369,
+        "num": 245001,
+        "word": "微博之夜官宣马丽",
+        "onboard_time": 1736415021,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 365396,
+        "num": 237572,
+        "word": "赵丽颖官宣加盟微博之夜",
+        "onboard_time": 1736409741,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 348973,
+        "num": 218615,
+        "word": "豆得儿泳装照",
+        "onboard_time": 1736411062,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 293050,
+        "num": 205312,
+        "word": "肖战与人物的五年之约",
+        "onboard_time": 1736413581,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202794,
+        "num": 202794,
+        "word": "马斯克转发美国加州大火前后对比画面",
+        "onboard_time": 1736413581,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42923,
+        "num": 191112,
+        "word": "无限暖暖爆料",
+        "onboard_time": 1736411002,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184461,
+        "num": 184461,
+        "word": "全球三分之二的iPad出自川渝",
+        "onboard_time": 1736411961,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45519,
+        "num": 184116,
+        "word": "亲历美国加州山火的中国人发声",
+        "onboard_time": 1736413642,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 73133,
+        "num": 183990,
+        "word": "这些体检异常应及时就医",
+        "onboard_time": 1736414780,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 44174,
+        "num": 183419,
+        "word": "石宇奇大马赛晋级8强",
+        "onboard_time": 1736414959,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25620,
+        "num": 182992,
+        "word": "住酒店会被感染HPV吗",
+        "onboard_time": 1736413940,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 233983,
+        "num": 182715,
+        "word": "留几手没看到葛夕留的东西",
+        "onboard_time": 1736412261,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212040,
+        "num": 182112,
+        "word": "黑神话悟空 春晚",
+        "onboard_time": 1736414843,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199576,
+        "num": 181802,
+        "word": "杨紫白鹿新剧云合",
+        "onboard_time": 1736408901,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181605,
+        "num": 181605,
+        "word": "冰糖王八 震我一撼",
+        "onboard_time": 1736413340,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173641,
+        "num": 173641,
+        "word": "宫脇咲良个人针织品牌",
+        "onboard_time": 1736412922,
+        "rank": 34,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 170703,
+        "num": 170703,
+        "word": "黄圣依没下车",
+        "onboard_time": 1736396663,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19992,
+        "num": 169729,
+        "word": "周笔畅模仿那英已nextlevel",
+        "onboard_time": 1736411842,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169303,
+        "num": 169303,
+        "word": "奶油草莓",
+        "onboard_time": 1736411540,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 168594,
+        "num": 168594,
+        "word": "湖南科大赴缅甸失联学生母亲发声",
+        "onboard_time": 1736403380,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11167,
+        "num": 154935,
+        "word": "西藏军区在地震救援第一线",
+        "onboard_time": 1736415202,
+        "rank": 39,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 152817,
+        "num": 152817,
+        "word": "美国加州山火肆虐夜空被火光染红",
+        "onboard_time": 1736407759,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 149949,
+        "num": 149949,
+        "word": "敖瑞鹏叫白鹿宝贝儿",
+        "onboard_time": 1736409561,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144635,
+        "num": 144635,
+        "word": "樊振东是首位超级金满贯得主",
+        "onboard_time": 1736406681,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136534,
+        "num": 136534,
+        "word": "成都太古里偶遇刘宪华",
+        "onboard_time": 1736415261,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135877,
+        "num": 135877,
+        "word": "电信诈骗洗钱手段又升级了",
+        "onboard_time": 1736404221,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130905,
+        "num": 130905,
+        "word": "杨紫何惟芳的头饰越来越少了",
+        "onboard_time": 1736402541,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125111,
+        "num": 125111,
+        "word": "戏龄超十年演员谈王星失联事件",
+        "onboard_time": 1736410461,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123078,
+        "num": 123078,
+        "word": "Doinb谈加入NIP原因",
+        "onboard_time": 1736414060,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121904,
+        "num": 121904,
+        "word": "人民警察版璀璨冒险人",
+        "onboard_time": 1736400802,
+        "rank": 48,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 104689,
+        "num": 118579,
+        "word": "泰国警方正在调查模特杨泽琪失联案",
+        "onboard_time": 1736414843,
+        "rank": 49,
+        "category": "舆论监督"
+      }
+    ],
+    "hotgov": {
+      "word": "#中纪委全会公报#"
+    }
+  }
+}
