@@ -1,0 +1,410 @@
+{
+  "runTime": 1736426651478,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1263635,
+        "num": 1263635,
+        "word": "女子甲流4天洗完澡手脚不能动",
+        "onboard_time": 1736424082,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1113033,
+        "num": 1113033,
+        "word": "微博之夜名场面又要来了",
+        "onboard_time": 1736423003,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 62237,
+        "num": 952487,
+        "word": "那些你不知道的北京地儿",
+        "onboard_time": 1736414242,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 824830,
+        "num": 824830,
+        "word": "受害人没有删聊天记录成了关键证据",
+        "onboard_time": 1736417540,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 779825,
+        "num": 779825,
+        "word": "向佐换发型了",
+        "onboard_time": 1736423542,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 616749,
+        "num": 616749,
+        "word": "我国老年人感染艾滋病占比持续上升",
+        "onboard_time": 1736421802,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 599775,
+        "num": 599775,
+        "word": "美国滞留太空宇航员再发声",
+        "onboard_time": 1736418445,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 565610,
+        "num": 565610,
+        "word": "美国洛杉矶山火最新消息",
+        "onboard_time": 1736421562,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 490114,
+        "num": 490114,
+        "word": "肖战说童年是自己的滋养",
+        "onboard_time": 1736415139,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245329,
+        "num": 467819,
+        "word": "好莱坞在洛杉矶大火中受创",
+        "onboard_time": 1736424082,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 459990,
+        "num": 459990,
+        "word": "美国洛杉矶山火完全失控",
+        "onboard_time": 1736391681,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 441824,
+        "num": 441824,
+        "word": "买股代露娃",
+        "onboard_time": 1736425701,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 421275,
+        "num": 421275,
+        "word": "国色芳华",
+        "onboard_time": 1736422883,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9621,
+        "num": 416955,
+        "word": "刘畅撒胶追妻",
+        "onboard_time": 1736422521,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34144,
+        "num": 415559,
+        "word": "楼盘捆绑销售购房先要花70万买车位",
+        "onboard_time": 1736424922,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414208,
+        "num": 414208,
+        "word": "疯狂小杨哥及三只羊被起诉",
+        "onboard_time": 1736425401,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376535,
+        "num": 376535,
+        "word": "薛小婉任权订婚",
+        "onboard_time": 1736420841,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 300826,
+        "num": 300826,
+        "word": "洛杉矶至少1100栋建筑被烧",
+        "onboard_time": 1736420901,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 294465,
+        "num": 294465,
+        "word": "黑神话悟空 春晚",
+        "onboard_time": 1736414843,
+        "rank": 18,
+        "category": "游戏,综艺"
+      },
+      {
+        "raw_hot": 112806,
+        "num": 290681,
+        "word": "微博之夜好多cp啊",
+        "onboard_time": 1736425943,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 332586,
+        "num": 289989,
+        "word": "许七安下线",
+        "onboard_time": 1736415739,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300198,
+        "num": 289541,
+        "word": "金扫帚提名名单",
+        "onboard_time": 1736410701,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 288439,
+        "num": 288439,
+        "word": "希尔顿等名人豪宅已被烧成平地",
+        "onboard_time": 1736400862,
+        "rank": 22,
+        "category": "海外新闻,艺人"
+      },
+      {
+        "raw_hot": 263196,
+        "num": 263196,
+        "word": "郑钦文 迪奥",
+        "onboard_time": 1736425522,
+        "rank": 23,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 259697,
+        "num": 259697,
+        "word": "芒果精",
+        "onboard_time": 1736425222,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239904,
+        "num": 239904,
+        "word": "宋慧乔首次回应外界传闻",
+        "onboard_time": 1736420841,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251160,
+        "num": 239870,
+        "word": "杨紫 小葡萄长成了真牡丹",
+        "onboard_time": 1736420181,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238089,
+        "num": 238089,
+        "word": "被小欢喜林磊儿当兵惊到",
+        "onboard_time": 1736421981,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228297,
+        "num": 228297,
+        "word": "肖战承认会入睡困难",
+        "onboard_time": 1736426542,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221808,
+        "num": 221808,
+        "word": "深圳一区期末试卷太难延时20分钟",
+        "onboard_time": 1736425883,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221520,
+        "num": 221520,
+        "word": "辛雨锡直播",
+        "onboard_time": 1736425822,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206205,
+        "num": 206205,
+        "word": "敖瑞鹏好帅",
+        "onboard_time": 1736425522,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204355,
+        "num": 204355,
+        "word": "女生素颜艺考被擦妆5次",
+        "onboard_time": 1736391740,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 197887,
+        "num": 197887,
+        "word": "田曦薇演技",
+        "onboard_time": 1736419880,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186426,
+        "num": 186426,
+        "word": "女生打到放满柠檬的网约车",
+        "onboard_time": 1736418742,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176189,
+        "num": 176189,
+        "word": "余宇涵第一次外务vlog",
+        "onboard_time": 1736426363,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 174612,
+        "num": 174612,
+        "word": "李现回应苦笑上热搜",
+        "onboard_time": 1736424527,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163530,
+        "num": 163530,
+        "word": "哪吒封神和唐探能撑起这个春节吗",
+        "onboard_time": 1736424263,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15056,
+        "num": 158627,
+        "word": "容祖儿现场安排李宇春周笔畅合作",
+        "onboard_time": 1736425401,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155586,
+        "num": 155586,
+        "word": "宿舍投毒案嫌疑人投毒目标系另一宿友",
+        "onboard_time": 1736424502,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150978,
+        "num": 150978,
+        "word": "谁懂华晨宇唱情歌的杀伤力",
+        "onboard_time": 1736426062,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150474,
+        "num": 150474,
+        "word": "一人之下6确定为半年番",
+        "onboard_time": 1736425943,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 149785,
+        "num": 149785,
+        "word": "43岁宋慧乔自曝年龄焦虑",
+        "onboard_time": 1736408662,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146861,
+        "num": 146861,
+        "word": "用辣椒喷雾强迫女子转账并发生关系",
+        "onboard_time": 1736420181,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143871,
+        "num": 143871,
+        "word": "水果含糖量和热量排行榜",
+        "onboard_time": 1736410043,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 139219,
+        "num": 139219,
+        "word": "美国加州山火肆虐夜空被火光染红",
+        "onboard_time": 1736407759,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 135880,
+        "num": 135880,
+        "word": "猫不想吃你做的饭很明显",
+        "onboard_time": 1736426542,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135002,
+        "num": 135002,
+        "word": "卫星影像对比加州山火前后",
+        "onboard_time": 1736423483,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 133346,
+        "num": 133346,
+        "word": "直击美国加州山火现场",
+        "onboard_time": 1736426483,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 126734,
+        "num": 133167,
+        "word": "这不是游戏这是真实英雄的日常",
+        "onboard_time": 1736421201,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#解码中华文化基因#"
+    }
+  }
+}
