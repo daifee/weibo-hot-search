@@ -1,0 +1,410 @@
+{
+  "runTime": 1736411300807,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1609470,
+        "num": 1609470,
+        "word": "杨子 我又不是找不着更好的",
+        "onboard_time": 1736408481,
+        "rank": 0,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 950998,
+        "num": 950998,
+        "word": "希尔顿等名人豪宅已被烧成平地",
+        "onboard_time": 1736400862,
+        "rank": 1,
+        "category": "海外新闻,艺人"
+      },
+      {
+        "raw_hot": 50390,
+        "num": 948390,
+        "word": "日喀则守望相助的9个瞬间",
+        "onboard_time": 1736391140,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 948025,
+        "num": 948025,
+        "word": "43岁宋慧乔自曝年龄焦虑",
+        "onboard_time": 1736408662,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 820925,
+        "num": 820925,
+        "word": "成都警方通报19岁女大学生失联",
+        "onboard_time": 1736404341,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 662343,
+        "num": 662343,
+        "word": "美国洛杉矶山火完全失控",
+        "onboard_time": 1736391681,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 902473,
+        "num": 645261,
+        "word": "麦琳说自己是父母捡来的",
+        "onboard_time": 1736401162,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 622739,
+        "num": 622739,
+        "word": "韩国人顺产头",
+        "onboard_time": 1736395401,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 525903,
+        "num": 525903,
+        "word": "拜登听取加州火情后宣布当上曾祖父",
+        "onboard_time": 1736408720,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 504665,
+        "num": 504665,
+        "word": "杨子要回归谁的家庭",
+        "onboard_time": 1736403320,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 498743,
+        "num": 498743,
+        "word": "赵丽颖官宣加盟微博之夜",
+        "onboard_time": 1736409741,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 481166,
+        "num": 481166,
+        "word": "女生素颜艺考被擦妆5次",
+        "onboard_time": 1736391740,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 105034,
+        "num": 461705,
+        "word": "团伙自制司美格鲁肽卖了200万",
+        "onboard_time": 1736410402,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26417,
+        "num": 459169,
+        "word": "赵丽颖的全棉舒适生活",
+        "onboard_time": 1736406800,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84814,
+        "num": 459148,
+        "word": "再见爱人观察室嘉宾集体发文",
+        "onboard_time": 1736411062,
+        "rank": 14,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 459148,
+        "num": 459147,
+        "word": "湖南科大赴缅甸失联学生母亲发声",
+        "onboard_time": 1736403380,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292727,
+        "num": 292727,
+        "word": "央视记者洛杉矶火场报道像在战区",
+        "onboard_time": 1736404761,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 53785,
+        "num": 288309,
+        "word": "月子中心跑路有产妇只能吃外卖",
+        "onboard_time": 1736411241,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43026,
+        "num": 281468,
+        "word": "李宇春官宣微博之夜",
+        "onboard_time": 1736410642,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 10923,
+        "num": 279421,
+        "word": "揭秘王家卫为什么拍繁花那么慢",
+        "onboard_time": 1736411002,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 458443,
+        "num": 269994,
+        "word": "金扫帚提名名单",
+        "onboard_time": 1736410701,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 409517,
+        "num": 264920,
+        "word": "黄圣依没下车",
+        "onboard_time": 1736396663,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261430,
+        "num": 261430,
+        "word": "樊振东是首位超级金满贯得主",
+        "onboard_time": 1736406681,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 382756,
+        "num": 261416,
+        "word": "杨紫白鹿新剧云合",
+        "onboard_time": 1736408901,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158462,
+        "num": 256862,
+        "word": "NIP官宣Doinb加入",
+        "onboard_time": 1736407460,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 343291,
+        "num": 254464,
+        "word": "中国驻清迈总领馆回应模特杨泽琪失联",
+        "onboard_time": 1736410043,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217582,
+        "num": 251608,
+        "word": "公诉机关建议湘潭大学投毒者死刑",
+        "onboard_time": 1736408300,
+        "rank": 26,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 51735,
+        "num": 251337,
+        "word": "世界反兴奋剂机构取消美国执委会资格",
+        "onboard_time": 1736410100,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 292277,
+        "num": 248884,
+        "word": "豆得儿泳装照",
+        "onboard_time": 1736411062,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 67782,
+        "num": 246511,
+        "word": "韦思佳首进大满贯正赛",
+        "onboard_time": 1736410882,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244134,
+        "num": 244134,
+        "word": "黄圣依看完日记觉得不下车是对的",
+        "onboard_time": 1736401522,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225742,
+        "num": 225742,
+        "word": "敖瑞鹏叫白鹿宝贝儿",
+        "onboard_time": 1736409561,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240174,
+        "num": 221546,
+        "word": "留几手跟胡彦斌说你叫我爽儿就行",
+        "onboard_time": 1736401821,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216336,
+        "num": 216336,
+        "word": "孙乐言奥斯卡太甜啦",
+        "onboard_time": 1736407701,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213258,
+        "num": 213258,
+        "word": "李栋旭玄彬街头聊天",
+        "onboard_time": 1736409501,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198798,
+        "num": 198798,
+        "word": "会计桌上不能动的东西",
+        "onboard_time": 1736410223,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198219,
+        "num": 198219,
+        "word": "美国加州山火肆虐夜空被火光染红",
+        "onboard_time": 1736407759,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 192637,
+        "num": 192637,
+        "word": "水果含糖量和热量排行榜",
+        "onboard_time": 1736410043,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 25535,
+        "num": 188803,
+        "word": "周笔畅是那英语录十级学者",
+        "onboard_time": 1736410761,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188280,
+        "num": 188280,
+        "word": "张艺兴染色体家族歌舞台",
+        "onboard_time": 1736410282,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183642,
+        "num": 183642,
+        "word": "刘亦菲夸孟子义好美",
+        "onboard_time": 1736399603,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175255,
+        "num": 175255,
+        "word": "我国发现一起猴痘病毒疫情",
+        "onboard_time": 1736400680,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172607,
+        "num": 172607,
+        "word": "电信诈骗洗钱手段又升级了",
+        "onboard_time": 1736404221,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135343,
+        "num": 135343,
+        "word": "无限暖暖爆料",
+        "onboard_time": 1736411002,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130551,
+        "num": 130551,
+        "word": "好莱坞",
+        "onboard_time": 1736411120,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119724,
+        "num": 119724,
+        "word": "中国新能源车有自己的冬奥会",
+        "onboard_time": 1736410822,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 117207,
+        "num": 117207,
+        "word": "第5个人民警察节",
+        "onboard_time": 1736401643,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113355,
+        "num": 113355,
+        "word": "我国发现猴痘病毒Ib亚分支聚集性疫情",
+        "onboard_time": 1736399302,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110768,
+        "num": 110768,
+        "word": "原神队长",
+        "onboard_time": 1736406260,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109574,
+        "num": 109574,
+        "word": "王楚钦马龙樊振东都去微博之夜",
+        "onboard_time": 1736400021,
+        "rank": 49,
+        "category": "体育,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届中央纪委四次全会公报来了#"
+    }
+  }
+}

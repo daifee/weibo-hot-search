@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736408131482,
+  "endTime": 1736411300807,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1145,6 +1145,14 @@
       "onboard_time": 1736401162,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1609470,
+      "num": 1609470,
+      "word": "杨子 我又不是找不着更好的",
+      "onboard_time": 1736408481,
+      "rank": 0,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 1597104,
@@ -2392,14 +2400,6 @@
       "word": "李一桐 脏了我的手",
       "onboard_time": 1736398222,
       "rank": 12,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 966952,
-      "num": 966952,
-      "word": "湖南卫视收视率",
-      "onboard_time": 1735690579,
-      "rank": 1,
       "category": "综艺"
     }
   ],

@@ -1,6 +1,6 @@
 {
   "startTime": 1736353721044,
-  "endTime": 1736408131482,
+  "endTime": 1736411300807,
   "band_list": [
     {
       "raw_hot": 2735310,
@@ -65,6 +65,14 @@
       "onboard_time": 1736401162,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1609470,
+      "num": 1609470,
+      "word": "杨子 我又不是找不着更好的",
+      "onboard_time": 1736408481,
+      "rank": 0,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 1411538,
@@ -185,6 +193,14 @@
       "onboard_time": 1736398222,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 948025,
+      "num": 948025,
+      "word": "43岁宋慧乔自曝年龄焦虑",
+      "onboard_time": 1736408662,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 906235,
@@ -347,6 +363,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 525903,
+      "num": 525903,
+      "word": "拜登听取加州火情后宣布当上曾祖父",
+      "onboard_time": 1736408720,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 498743,
+      "num": 498743,
+      "word": "赵丽颖官宣加盟微博之夜",
+      "onboard_time": 1736409741,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 498385,
       "num": 360755,
       "word": "当年明月",
@@ -369,6 +401,14 @@
       "onboard_time": 1736351600,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 458443,
+      "num": 269994,
+      "word": "金扫帚提名名单",
+      "onboard_time": 1736410701,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 453545,
@@ -451,6 +491,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 382756,
+      "num": 261416,
+      "word": "杨紫白鹿新剧云合",
+      "onboard_time": 1736408901,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 376337,
       "num": 373750,
       "word": "杨紫何惟芳的头饰越来越少了",
@@ -497,6 +545,14 @@
       "onboard_time": 1736373431,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 343291,
+      "num": 254464,
+      "word": "中国驻清迈总领馆回应模特杨泽琪失联",
+      "onboard_time": 1736410043,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 342318,
@@ -569,6 +625,14 @@
       "onboard_time": 1736383942,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 292277,
+      "num": 248884,
+      "word": "豆得儿泳装照",
+      "onboard_time": 1736411062,
+      "rank": 28,
+      "category": "网红"
     },
     {
       "raw_hot": 284478,
@@ -723,6 +787,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 225742,
+      "num": 225742,
+      "word": "敖瑞鹏叫白鹿宝贝儿",
+      "onboard_time": 1736409561,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224819,
       "num": 119150,
       "word": "将女友装行礼箱带进宿舍张兴亮被禁赛",
@@ -755,12 +827,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217582,
+      "num": 251608,
+      "word": "公诉机关建议湘潭大学投毒者死刑",
+      "onboard_time": 1736408300,
+      "rank": 26,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 215713,
       "num": 215713,
       "word": "女子弟弟被绑到缅甸对方要10万元赎金",
       "onboard_time": 1736351122,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213258,
+      "num": 213258,
+      "word": "李栋旭玄彬街头聊天",
+      "onboard_time": 1736409501,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 212814,
@@ -780,7 +868,7 @@
     },
     {
       "raw_hot": 208464,
-      "num": 208464,
+      "num": 256862,
       "word": "NIP官宣Doinb加入",
       "onboard_time": 1736407460,
       "rank": 35,
@@ -843,6 +931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198798,
+      "num": 198798,
+      "word": "会计桌上不能动的东西",
+      "onboard_time": 1736410223,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 197217,
       "num": 197217,
       "word": "地震被压废墟下戴帽小孩是AI生成",
@@ -873,6 +969,14 @@
       "onboard_time": 1736402241,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192637,
+      "num": 192637,
+      "word": "水果含糖量和热量排行榜",
+      "onboard_time": 1736410043,
+      "rank": 37,
+      "category": "科学科普"
     },
     {
       "raw_hot": 192085,
@@ -913,6 +1017,14 @@
       "onboard_time": 1736403979,
       "rank": 27,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 188280,
+      "num": 188280,
+      "word": "张艺兴染色体家族歌舞台",
+      "onboard_time": 1736410282,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 187848,
@@ -1299,6 +1411,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 135343,
+      "num": 135343,
+      "word": "无限暖暖爆料",
+      "onboard_time": 1736411002,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 134632,
       "num": 134632,
       "word": "上海排查47家俄罗斯商品馆",
@@ -1329,6 +1449,14 @@
       "onboard_time": 1736404640,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 130551,
+      "num": 130551,
+      "word": "好莱坞",
+      "onboard_time": 1736411120,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126213,
@@ -1419,6 +1547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119724,
+      "num": 119724,
+      "word": "中国新能源车有自己的冬奥会",
+      "onboard_time": 1736410822,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 119506,
       "num": 119506,
       "word": "国色芳华预告",
@@ -1449,6 +1585,14 @@
       "onboard_time": 1736401821,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 117207,
+      "num": 117207,
+      "word": "第5个人民警察节",
+      "onboard_time": 1736401643,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115996,
@@ -1507,6 +1651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110768,
+      "num": 110768,
+      "word": "原神队长",
+      "onboard_time": 1736406260,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 109429,
       "num": 109429,
       "word": "西藏定日县地震已致126人遇难",
@@ -1544,6 +1696,14 @@
       "word": "涉企检查须做到5个严禁8个不得",
       "onboard_time": 1736388021,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105034,
+      "num": 461705,
+      "word": "团伙自制司美格鲁肽卖了200万",
+      "onboard_time": 1736410402,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -1625,6 +1785,14 @@
       "onboard_time": 1736364551,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84814,
+      "num": 459148,
+      "word": "再见爱人观察室嘉宾集体发文",
+      "onboard_time": 1736411062,
+      "rank": 14,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 84765,
@@ -1763,6 +1931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67782,
+      "num": 246511,
+      "word": "韦思佳首进大满贯正赛",
+      "onboard_time": 1736410882,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67165,
       "num": 442135,
       "word": "国色芳华满屏有风老演员",
@@ -1835,12 +2011,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 53785,
+      "num": 288309,
+      "word": "月子中心跑路有产妇只能吃外卖",
+      "onboard_time": 1736411241,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53013,
       "num": 57076,
       "word": "恋与深空黎深",
       "onboard_time": 1736379257,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 51735,
+      "num": 251337,
+      "word": "世界反兴奋剂机构取消美国执委会资格",
+      "onboard_time": 1736410100,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 51580,
@@ -1851,7 +2043,7 @@
       "category": "剧集,游戏"
     },
     {
-      "raw_hot": 50192,
+      "raw_hot": 50390,
       "num": 1272399,
       "word": "日喀则守望相助的9个瞬间",
       "onboard_time": 1736391140,
@@ -1865,6 +2057,14 @@
       "onboard_time": 1736398823,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 43026,
+      "num": 281468,
+      "word": "李宇春官宣微博之夜",
+      "onboard_time": 1736410642,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 42025,
@@ -1996,11 +2196,19 @@
     },
     {
       "raw_hot": 27107,
-      "num": 457673,
+      "num": 459169,
       "word": "赵丽颖的全棉舒适生活",
       "onboard_time": 1736406800,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25535,
+      "num": 188803,
+      "word": "周笔畅是那英语录十级学者",
+      "onboard_time": 1736410761,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 25280,
@@ -2105,6 +2313,14 @@
       "onboard_time": 1736359093,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 10923,
+      "num": 279421,
+      "word": "揭秘王家卫为什么拍繁花那么慢",
+      "onboard_time": 1736411002,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 9701,
