@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/05 00:25:37 ~ 2025/01/10 03:35:54
+本榜单时间：2025/01/05 00:25:37 ~ 2025/01/10 04:24:28
 </p>
 </blockquote>
 <p>
@@ -7875,6 +7875,12 @@ IVE概念预告照（热度：149308）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%8D%8E%E4%BA%BA%E4%BB%A5%E4%B8%BA%E8%AF%AF%E5%85%A5%E6%9C%AB%E6%97%A5%23" target="weibo">
+洛杉矶华人以为误入末日（热度：141621）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E7%8E%9F%E5%BA%AD%E7%9B%B4%E6%92%AD%23" target="weibo">
 金玟庭直播（热度：141556）
 </a>
@@ -11691,12 +11697,6 @@ KPL（热度：34031）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%8D%8E%E4%BA%BA%E4%BB%A5%E4%B8%BA%E8%AF%AF%E5%85%A5%E6%9C%AB%E6%97%A5%23" target="weibo">
-洛杉矶华人以为误入末日（热度：32107）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%96%AF%E4%B9%8B%E5%A4%9C%23" target="weibo">
 罗斯之夜（热度：32066）
 </a>
@@ -11843,6 +11843,12 @@ KPL（热度：34031）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%8E%A5%E7%A7%8DHPV%E7%96%AB%E8%8B%97%E5%BE%88%E6%9C%89%E5%BF%85%E8%A6%81%23" target="weibo">
 男生接种HPV疫苗很有必要（热度：29339）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E5%B7%9E%E9%87%8E%E7%81%AB%E8%87%B4%E8%87%B3%E5%B0%911100%E6%A0%8B%E6%88%BF%E5%B1%8B%E6%8D%9F%E6%AF%81%23" target="weibo">
+加州野火致至少1100栋房屋损毁（热度：29334）
 </a>
 </li>
 
@@ -12003,6 +12009,12 @@ AG南京见（热度：25815）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%BC%80%E4%B8%9A%E7%9A%84%E4%BF%84%E7%BD%97%E6%96%AF%E5%95%86%E5%93%81%E9%A6%86%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5%23" target="weibo">
+疯狂开业的俄罗斯商品馆被立案调查（热度：24519）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%9A%E6%97%A5%E5%8E%BF%E5%9C%B0%E9%9C%87%E9%A6%96%E5%BC%A0%E9%81%A5%E6%84%9F%E5%BD%B1%E5%83%8F%E5%9B%BE%E5%85%AC%E5%B8%83%23" target="weibo">
 定日县地震首张遥感影像图公布（热度：24375）
 </a>
@@ -12143,6 +12155,12 @@ AG南京见（热度：25815）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%94%B7%E7%94%9F%E9%9C%80%E8%A6%81%E6%89%93HPV%E7%96%AB%E8%8B%97%23" target="weibo">
 为什么男生需要打HPV疫苗（热度：20433）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%B7%9E%E5%B1%B1%E7%81%AB%E6%B6%88%E9%98%B2%E6%A0%93%E7%BC%BA%E6%B0%B4%E7%81%AD%E7%81%AB%E7%8E%87%E4%B8%BA0%25%23" target="weibo">
+美国加州山火消防栓缺水灭火率为0%（热度：20389）
 </a>
 </li>
 
