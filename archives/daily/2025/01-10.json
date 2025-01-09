@@ -1,6 +1,6 @@
 {
   "startTime": 1736440116531,
-  "endTime": 1736450303114,
+  "endTime": 1736451354898,
   "band_list": [
     {
       "raw_hot": 851405,
@@ -483,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 32107,
+      "num": 53340,
+      "word": "洛杉矶华人以为误入末日",
+      "onboard_time": 1736448793,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 32053,
       "num": 51288,
       "word": "怎样才能跨越迷茫",
@@ -491,20 +499,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 31282,
+      "num": 64920,
+      "word": "墨总统回应特朗普墨西哥湾改名提议",
+      "onboard_time": 1736449752,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 26602,
       "num": 26602,
       "word": "IMAX哪吒之魔童闹海",
       "onboard_time": 1736448733,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 24228,
-      "num": 26536,
-      "word": "洛杉矶华人以为误入末日",
-      "onboard_time": 1736448793,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 21839,
@@ -523,6 +531,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 19782,
+      "num": 24471,
+      "word": "杨紫方确认参加2024微博之夜",
+      "onboard_time": 1736447772,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 16336,
       "num": 73307,
       "word": "王源期待美好时刻",
@@ -537,14 +553,6 @@
       "onboard_time": 1736440757,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 15581,
-      "num": 64920,
-      "word": "墨总统回应特朗普墨西哥湾改名提议",
-      "onboard_time": 1736449752,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 11327,
