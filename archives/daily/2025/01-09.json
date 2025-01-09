@@ -1,6 +1,6 @@
 {
   "startTime": 1736353721044,
-  "endTime": 1736418246520,
+  "endTime": 1736419297889,
   "band_list": [
     {
       "raw_hot": 2735310,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1263505,
+      "num": 1263505,
+      "word": "黑神话悟空 春晚",
+      "onboard_time": 1736414843,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1208841,
       "num": 877957,
       "word": "再见爱人4大结局",
@@ -203,14 +211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 954873,
-      "num": 1152779,
-      "word": "黑神话悟空 春晚",
-      "onboard_time": 1736414843,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 948025,
       "num": 948025,
       "word": "43岁宋慧乔自曝年龄焦虑",
@@ -291,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 745667,
+      "num": 745667,
+      "word": "许七安下线",
+      "onboard_time": 1736415739,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 732208,
       "num": 732208,
       "word": "情侣洗完澡双双中毒房东称晕堂",
@@ -323,6 +331,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 699102,
+      "num": 699102,
+      "word": "受害人没有删聊天记录成了关键证据",
+      "onboard_time": 1736417540,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 686522,
       "num": 572269,
       "word": "肖战微博之夜官宣",
@@ -345,14 +361,6 @@
       "onboard_time": 1736392699,
       "rank": 18,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 664026,
-      "num": 664026,
-      "word": "许七安下线",
-      "onboard_time": 1736415739,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 662372,
@@ -435,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 541733,
+      "num": 355301,
+      "word": "被困缅甸求救文档创建者发声",
+      "onboard_time": 1736416401,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 519777,
       "num": 519777,
       "word": "21岁中国女孩与网友赴泰国后失联",
@@ -451,6 +467,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 491992,
+      "num": 491992,
+      "word": "肖战说童年是自己的滋养",
+      "onboard_time": 1736415139,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 486946,
       "num": 486946,
       "word": "杨紫微博之夜官宣",
@@ -459,12 +483,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 486107,
-      "num": 486107,
-      "word": "肖战说童年是自己的滋养",
-      "onboard_time": 1736415139,
-      "rank": 9,
-      "category": "艺人"
+      "raw_hot": 462719,
+      "num": 462719,
+      "word": "一大批电车车主失去维修自由",
+      "onboard_time": 1736413881,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 460606,
@@ -515,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 448440,
+      "num": 448440,
+      "word": "马斯克转发美国加州大火前后对比画面",
+      "onboard_time": 1736413581,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 443946,
       "num": 443946,
       "word": "湖南科技大学刘俊杰",
@@ -529,22 +561,6 @@
       "onboard_time": 1736400680,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 419641,
-      "num": 419641,
-      "word": "一大批电车车主失去维修自由",
-      "onboard_time": 1736413881,
-      "rank": 24,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 405931,
-      "num": 405931,
-      "word": "马斯克转发美国加州大火前后对比画面",
-      "onboard_time": 1736413581,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 394509,
@@ -617,14 +633,6 @@
       "onboard_time": 1736404761,
       "rank": 47,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 355301,
-      "num": 355301,
-      "word": "被困缅甸求救文档创建者发声",
-      "onboard_time": 1736416401,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 352333,
@@ -705,14 +713,6 @@
       "onboard_time": 1736345423,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 305718,
-      "num": 415442,
-      "word": "受害人没有删聊天记录成了关键证据",
-      "onboard_time": 1736417540,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 304503,
@@ -864,6 +864,14 @@
       "word": "经纪人揭秘泰国进组拍戏骗局",
       "onboard_time": 1736349384,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 237709,
+      "num": 166147,
+      "word": "女生打到放满柠檬的网约车",
+      "onboard_time": 1736418742,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -1075,6 +1083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197873,
+      "num": 197873,
+      "word": "杨紫魏哲鸣新剧纯恨cp情头",
+      "onboard_time": 1736418742,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197217,
       "num": 197217,
       "word": "地震被压废墟下戴帽小孩是AI生成",
@@ -1129,6 +1145,14 @@
       "onboard_time": 1736406202,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191214,
+      "num": 191214,
+      "word": "这些体检异常应及时就医",
+      "onboard_time": 1736414780,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 189848,
@@ -1228,7 +1252,7 @@
     },
     {
       "raw_hot": 184461,
-      "num": 184461,
+      "num": 442916,
       "word": "全球三分之二的iPad出自川渝",
       "onboard_time": 1736411961,
       "rank": 48,
@@ -1267,6 +1291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179841,
+      "num": 179841,
+      "word": "国色芳华 她在仰视我却觉得被俯视了",
+      "onboard_time": 1736418861,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179350,
       "num": 179350,
       "word": "宫脇咲良个人针织品牌",
@@ -1281,14 +1313,6 @@
       "onboard_time": 1736349922,
       "rank": 23,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 171961,
-      "num": 183990,
-      "word": "这些体检异常应及时就医",
-      "onboard_time": 1736414780,
-      "rank": 27,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 169303,
@@ -1339,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165847,
+      "num": 165847,
+      "word": "白月梵星编剧",
+      "onboard_time": 1736416521,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164728,
       "num": 164728,
       "word": "敖瑞鹏上桌了",
@@ -1369,6 +1401,14 @@
       "onboard_time": 1736403860,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158464,
+      "num": 158464,
+      "word": "美国滞留太空宇航员再发声",
+      "onboard_time": 1736418445,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 158427,
@@ -1491,14 +1531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144977,
-      "num": 144977,
-      "word": "白月梵星编剧",
-      "onboard_time": 1736416521,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 144883,
       "num": 244878,
       "word": "墨总统讽刺性回应特朗普提议",
@@ -1555,6 +1587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140668,
+      "num": 140668,
+      "word": "成都太古里偶遇刘宪华",
+      "onboard_time": 1736415261,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140636,
       "num": 140636,
       "word": "魏哲鸣 人生角色",
@@ -1569,14 +1609,6 @@
       "onboard_time": 1736353819,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 139640,
-      "num": 139640,
-      "word": "成都太古里偶遇刘宪华",
-      "onboard_time": 1736415261,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 139285,
@@ -1715,6 +1747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 125850,
+      "num": 125850,
+      "word": "陈星旭张真源互为反义词",
+      "onboard_time": 1736419101,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125500,
       "num": 183918,
       "word": "何惟芳李幼贞 就这个双强爽",
@@ -1753,6 +1793,14 @@
       "onboard_time": 1736415981,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 122635,
+      "num": 122635,
+      "word": "湖南卫视开车喊你看国色芳华",
+      "onboard_time": 1736418143,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 122276,
@@ -1875,6 +1923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115046,
+      "num": 115046,
+      "word": "华晨宇 唇环",
+      "onboard_time": 1736419161,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114446,
       "num": 114446,
       "word": "健身教练带娃四个月变潦草小狗",
@@ -1937,14 +1993,6 @@
       "onboard_time": 1736406260,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 110234,
-      "num": 110234,
-      "word": "湖南卫视开车喊你看国色芳华",
-      "onboard_time": 1736418143,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 110172,
@@ -2211,12 +2259,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 71542,
+      "num": 388211,
+      "word": "梅大高速下跪拦车的老人拒引流带货",
+      "onboard_time": 1736417300,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71139,
       "num": 192106,
       "word": "燕云十六声回应五谷不分",
       "onboard_time": 1736394922,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 70513,
+      "num": 706414,
+      "word": "那些你不知道的北京地儿",
+      "onboard_time": 1736414242,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69596,
@@ -2347,14 +2411,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 50277,
-      "num": 605458,
-      "word": "那些你不知道的北京地儿",
-      "onboard_time": 1736414242,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 46344,
       "num": 247642,
       "word": "susu福福",
@@ -2363,20 +2419,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 45775,
-      "num": 388211,
-      "word": "梅大高速下跪拦车的老人拒引流带货",
-      "onboard_time": 1736417300,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 45519,
       "num": 513137,
       "word": "亲历美国加州山火的中国人发声",
       "onboard_time": 1736413642,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 44342,
+      "num": 166203,
+      "word": "王源微博之夜安全倡议书",
+      "onboard_time": 1736418861,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 44174,
@@ -2409,6 +2465,14 @@
       "onboard_time": 1736357294,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 39440,
+      "num": 192217,
+      "word": "雅思官宣微博之夜",
+      "onboard_time": 1736419161,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 39316,
@@ -2603,6 +2667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22872,
+      "num": 131743,
+      "word": "容祖儿古巨基是最佳损友吧",
+      "onboard_time": 1736418680,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 21599,
       "num": 332509,
       "word": "梁伟铿王昶vs徐承宰金元浩",
@@ -2643,6 +2715,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 15257,
+      "num": 132899,
+      "word": "男性是否会长期携带高危HPV",
+      "onboard_time": 1736417540,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 14623,
       "num": 26260,
       "word": "周总理笑容总是那么温暖",
@@ -2665,14 +2745,6 @@
       "onboard_time": 1736374633,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11400,
-      "num": 132899,
-      "word": "男性是否会长期携带高危HPV",
-      "onboard_time": 1736417540,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 11167,

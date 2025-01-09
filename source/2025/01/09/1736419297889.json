@@ -1,0 +1,410 @@
+{
+  "runTime": 1736419297889,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1263505,
+        "num": 1263505,
+        "word": "黑神话悟空 春晚",
+        "onboard_time": 1736414843,
+        "rank": 0,
+        "category": "游戏,综艺"
+      },
+      {
+        "raw_hot": 745667,
+        "num": 745667,
+        "word": "许七安下线",
+        "onboard_time": 1736415739,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70513,
+        "num": 706414,
+        "word": "那些你不知道的北京地儿",
+        "onboard_time": 1736414242,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 699102,
+        "num": 699102,
+        "word": "受害人没有删聊天记录成了关键证据",
+        "onboard_time": 1736417540,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 535237,
+        "num": 535237,
+        "word": "希尔顿等名人豪宅已被烧成平地",
+        "onboard_time": 1736400862,
+        "rank": 4,
+        "category": "海外新闻,艺人"
+      },
+      {
+        "raw_hot": 516871,
+        "num": 516871,
+        "word": "美国洛杉矶山火完全失控",
+        "onboard_time": 1736391681,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 491992,
+        "num": 491992,
+        "word": "肖战说童年是自己的滋养",
+        "onboard_time": 1736415139,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462719,
+        "num": 462719,
+        "word": "一大批电车车主失去维修自由",
+        "onboard_time": 1736413881,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 448440,
+        "num": 448440,
+        "word": "马斯克转发美国加州大火前后对比画面",
+        "onboard_time": 1736413581,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156181,
+        "num": 442916,
+        "word": "全球三分之二的iPad出自川渝",
+        "onboard_time": 1736411961,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1123131,
+        "num": 440087,
+        "word": "金扫帚提名名单",
+        "onboard_time": 1736410701,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 502842,
+        "num": 430176,
+        "word": "43岁宋慧乔自曝年龄焦虑",
+        "onboard_time": 1736408662,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471741,
+        "num": 421845,
+        "word": "肖战微博之夜官宣",
+        "onboard_time": 1736412621,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 417654,
+        "num": 417654,
+        "word": "唐嫣 蒂芙尼",
+        "onboard_time": 1736413761,
+        "rank": 13,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 352764,
+        "num": 352764,
+        "word": "麦琳说自己是父母捡来的",
+        "onboard_time": 1736401162,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324775,
+        "num": 324775,
+        "word": "拜登听取加州火情后宣布当上曾祖父",
+        "onboard_time": 1736408720,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 321693,
+        "num": 321693,
+        "word": "女生素颜艺考被擦妆5次",
+        "onboard_time": 1736391740,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 253931,
+        "num": 253931,
+        "word": "水果含糖量和热量排行榜",
+        "onboard_time": 1736410043,
+        "rank": 17,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 236143,
+        "num": 236143,
+        "word": "韩国人顺产头",
+        "onboard_time": 1736395401,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228797,
+        "num": 228797,
+        "word": "大奉打更人豆瓣开分5.4",
+        "onboard_time": 1736415680,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212045,
+        "num": 212045,
+        "word": "湘潭大学投毒案受害者是秋水仙碱中毒",
+        "onboard_time": 1736416281,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205662,
+        "num": 205662,
+        "word": "美国加州山火肆虐夜空被火光染红",
+        "onboard_time": 1736407759,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 197873,
+        "num": 197873,
+        "word": "杨紫魏哲鸣新剧纯恨cp情头",
+        "onboard_time": 1736418742,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 541733,
+        "num": 194817,
+        "word": "被困缅甸求救文档创建者发声",
+        "onboard_time": 1736416401,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39440,
+        "num": 192217,
+        "word": "雅思官宣微博之夜",
+        "onboard_time": 1736419161,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191214,
+        "num": 191214,
+        "word": "这些体检异常应及时就医",
+        "onboard_time": 1736414780,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 182127,
+        "num": 182127,
+        "word": "会计桌上不能动的东西",
+        "onboard_time": 1736410223,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179841,
+        "num": 179841,
+        "word": "国色芳华 她在仰视我却觉得被俯视了",
+        "onboard_time": 1736418861,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169263,
+        "num": 169263,
+        "word": "孟子义田嘉瑞围观全醺版高叶",
+        "onboard_time": 1736416100,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71542,
+        "num": 166658,
+        "word": "梅大高速下跪拦车的老人拒引流带货",
+        "onboard_time": 1736417300,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44342,
+        "num": 166203,
+        "word": "王源微博之夜安全倡议书",
+        "onboard_time": 1736418861,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 237709,
+        "num": 166147,
+        "word": "女生打到放满柠檬的网约车",
+        "onboard_time": 1736418742,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165847,
+        "num": 165847,
+        "word": "白月梵星编剧",
+        "onboard_time": 1736416521,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158464,
+        "num": 158464,
+        "word": "美国滞留太空宇航员再发声",
+        "onboard_time": 1736418445,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 140668,
+        "num": 140668,
+        "word": "成都太古里偶遇刘宪华",
+        "onboard_time": 1736415261,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135366,
+        "num": 135366,
+        "word": "樊振东是首位超级金满贯得主",
+        "onboard_time": 1736406681,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133613,
+        "num": 133613,
+        "word": "白月梵星",
+        "onboard_time": 1736415860,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15257,
+        "num": 132509,
+        "word": "男性是否会长期携带高危HPV",
+        "onboard_time": 1736417540,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 22872,
+        "num": 131743,
+        "word": "容祖儿古巨基是最佳损友吧",
+        "onboard_time": 1736418680,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131448,
+        "num": 131448,
+        "word": "王勉 我也没有很体面",
+        "onboard_time": 1736417601,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127622,
+        "num": 127622,
+        "word": "宫脇咲良个人针织品牌",
+        "onboard_time": 1736412922,
+        "rank": 40,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 126337,
+        "num": 126337,
+        "word": "赵丽颖官宣加盟微博之夜",
+        "onboard_time": 1736409741,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125850,
+        "num": 125850,
+        "word": "陈星旭张真源互为反义词",
+        "onboard_time": 1736419101,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124475,
+        "num": 124475,
+        "word": "李一桐 脏了我的手",
+        "onboard_time": 1736398222,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122815,
+        "num": 122815,
+        "word": "冰糖王八 震我一撼",
+        "onboard_time": 1736413340,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122635,
+        "num": 122635,
+        "word": "湖南卫视开车喊你看国色芳华",
+        "onboard_time": 1736418143,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115490,
+        "num": 115490,
+        "word": "男子多次抢劫失足女性获刑十三年",
+        "onboard_time": 1736416462,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122438,
+        "num": 115432,
+        "word": "杨紫何惟芳的头饰越来越少了",
+        "onboard_time": 1736402541,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115046,
+        "num": 115046,
+        "word": "华晨宇 唇环",
+        "onboard_time": 1736419161,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114499,
+        "num": 114499,
+        "word": "人民警察版璀璨冒险人",
+        "onboard_time": 1736400802,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#中纪委全会公报#"
+    }
+  }
+}
