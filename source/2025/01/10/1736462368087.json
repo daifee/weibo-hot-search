@@ -1,0 +1,410 @@
+{
+  "runTime": 1736462368087,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 428831,
+        "num": 502015,
+        "word": "洛杉矶华人以为误入末日",
+        "onboard_time": 1736448793,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 261908,
+        "num": 261908,
+        "word": "特朗普要求加州州长就山火失控辞职",
+        "onboard_time": 1736437882,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14714,
+        "num": 257565,
+        "word": "一粒种子从空间站留学归来",
+        "onboard_time": 1736433083,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253359,
+        "num": 253359,
+        "word": "2人幼儿园时假扮夫妻20年后真结婚了",
+        "onboard_time": 1736440937,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158136,
+        "num": 158136,
+        "word": "18岁小伙嚼槟榔8年脸方成电视机",
+        "onboard_time": 1736437882,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130580,
+        "num": 130580,
+        "word": "湘潭大学宿舍投毒案公诉机关建议死刑",
+        "onboard_time": 1736457491,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122203,
+        "num": 122203,
+        "word": "中国高铁车厢里全是老外",
+        "onboard_time": 1736456291,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114254,
+        "num": 114254,
+        "word": "拜登之子2万美元月租豪宅烧成碎石",
+        "onboard_time": 1736437221,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 104070,
+        "num": 112395,
+        "word": "肖战微博之夜人脸识别",
+        "onboard_time": 1736440278,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 72599,
+        "num": 112169,
+        "word": "刘宇宁读信哽咽了",
+        "onboard_time": 1736438241,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112072,
+        "num": 112072,
+        "word": "说了20分钟对方不上当骗子气到大叫",
+        "onboard_time": 1736437580,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104433,
+        "num": 104433,
+        "word": "美国洛杉矶山火最新消息",
+        "onboard_time": 1736421562,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 82544,
+        "num": 82544,
+        "word": "从太空看洛杉矶山火",
+        "onboard_time": 1736427083,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 71622,
+        "num": 71622,
+        "word": "疯狂小杨哥及三只羊被起诉",
+        "onboard_time": 1736425401,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40569,
+        "num": 70740,
+        "word": "南京大屠杀幸存者艾义英奶奶走了",
+        "onboard_time": 1736458211,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 70685,
+        "num": 70685,
+        "word": "蝙蝠侠在车里看着豪宅被烧光",
+        "onboard_time": 1736433923,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69985,
+        "num": 69985,
+        "word": "疯狂开业的俄罗斯商品馆被立案调查",
+        "onboard_time": 1736451552,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66879,
+        "num": 66879,
+        "word": "国色芳华收视率",
+        "onboard_time": 1736430444,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66287,
+        "num": 66287,
+        "word": "李昀锐一分钟800个小动作",
+        "onboard_time": 1736436381,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55634,
+        "num": 60458,
+        "word": "国色芳华虐女主",
+        "onboard_time": 1736427501,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60184,
+        "num": 60184,
+        "word": "美国滞留太空宇航员再发声",
+        "onboard_time": 1736418445,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 54648,
+        "num": 54648,
+        "word": "跑腿小哥送酸奶察觉异常挽回4.8万",
+        "onboard_time": 1736435123,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52414,
+        "num": 52414,
+        "word": "微博之夜名场面又要来了",
+        "onboard_time": 1736423003,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 52094,
+        "num": 52094,
+        "word": "俄罗斯姑娘打假上海俄罗斯商品馆",
+        "onboard_time": 1736455091,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48223,
+        "num": 48223,
+        "word": "买股代露娃",
+        "onboard_time": 1736425701,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45543,
+        "num": 45543,
+        "word": "受害人没有删聊天记录成了关键证据",
+        "onboard_time": 1736417540,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42241,
+        "num": 42241,
+        "word": "我国老年人感染艾滋病占比持续上升",
+        "onboard_time": 1736421802,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 42099,
+        "num": 42099,
+        "word": "中央政治局常委会召开会议",
+        "onboard_time": 1736437580,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 36157,
+        "num": 39873,
+        "word": "宋慧乔不是能靠脸的年纪",
+        "onboard_time": 1736447952,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15627,
+        "num": 39796,
+        "word": "特朗普发新地图将美加格陵兰岛标记统一颜色",
+        "onboard_time": 1736462293,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39781,
+        "num": 39781,
+        "word": "洛杉矶",
+        "onboard_time": 1736427142,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 36142,
+        "num": 36142,
+        "word": "女子一句话让骗子彻底破防",
+        "onboard_time": 1736431643,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35494,
+        "num": 35494,
+        "word": "深圳一区期末试卷太难延时20分钟",
+        "onboard_time": 1736425883,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35263,
+        "num": 35263,
+        "word": "湘潭大学宿舍投毒案细节公开",
+        "onboard_time": 1736458692,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33329,
+        "num": 33329,
+        "word": "被国色芳华看落日这一幕戳中了",
+        "onboard_time": 1736439079,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33032,
+        "num": 33032,
+        "word": "苏翊鸣回应世界杯比赛排名垫底",
+        "onboard_time": 1736433442,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31783,
+        "num": 31783,
+        "word": "西藏地震灾区收到了奶茶可乐",
+        "onboard_time": 1736433862,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30952,
+        "num": 30952,
+        "word": "国色芳华 昼夜转场",
+        "onboard_time": 1736430503,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30851,
+        "num": 30851,
+        "word": "墨总统提出将北美洲改名为墨西哥美洲",
+        "onboard_time": 1736446153,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29141,
+        "num": 29141,
+        "word": "胡冰卿时隔7年杀回古装赛道",
+        "onboard_time": 1736429123,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28200,
+        "num": 28200,
+        "word": "石原里美老公近照",
+        "onboard_time": 1736426842,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27929,
+        "num": 27929,
+        "word": "好莱坞在洛杉矶大火中受创",
+        "onboard_time": 1736424082,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 27774,
+        "num": 27774,
+        "word": "国色芳华",
+        "onboard_time": 1736422883,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27324,
+        "num": 27324,
+        "word": "美国加州山火消防栓缺水灭火率为0%",
+        "onboard_time": 1736451011,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 26907,
+        "num": 26907,
+        "word": "感染甲流后不能硬扛",
+        "onboard_time": 1736433204,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 26870,
+        "num": 26870,
+        "word": "旅行社称已有近三成游客退泰国团",
+        "onboard_time": 1736435243,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25257,
+        "num": 26870,
+        "word": "芒果剧宣",
+        "onboard_time": 1736427444,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18941,
+        "num": 26869,
+        "word": "加州野火致至少1100栋房屋损毁",
+        "onboard_time": 1736452631,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 18818,
+        "num": 26868,
+        "word": "美国加州马利布市发布撤离警报",
+        "onboard_time": 1736441656,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 17562,
+        "num": 26868,
+        "word": "这不是游戏这是真实英雄的日常",
+        "onboard_time": 1736421201,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央政治局常委会召开会议#"
+    }
+  }
+}
