@@ -1,0 +1,410 @@
+{
+  "runTime": 1736388616267,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1100169,
+        "num": 1176027,
+        "word": "模特杨泽琪在泰缅边境失联",
+        "onboard_time": 1736379557,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1016748,
+        "num": 1016748,
+        "word": "将女友装行李箱带进宿舍张兴亮被禁赛",
+        "onboard_time": 1736360473,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50487,
+        "num": 941928,
+        "word": "西藏震区已由紧急救援转为安置阶段",
+        "onboard_time": 1736342003,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 933462,
+        "num": 933462,
+        "word": "全国174位星星被困缅甸联合求救文档",
+        "onboard_time": 1736383102,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 869090,
+        "num": 869090,
+        "word": "泰国颁布紧急法令打击网络诈骗",
+        "onboard_time": 1736383041,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 805244,
+        "num": 805244,
+        "word": "张雪峰霸气谈女儿就业",
+        "onboard_time": 1736384001,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 555618,
+        "num": 555618,
+        "word": "王者荣耀甄姬",
+        "onboard_time": 1736383041,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 420660,
+        "num": 420660,
+        "word": "王暖暖称前夫曾想卖她至缅北园区",
+        "onboard_time": 1736381480,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364789,
+        "num": 364789,
+        "word": "62岁老戏骨吴连生突然去世",
+        "onboard_time": 1736384121,
+        "rank": 8,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 79924,
+        "num": 363925,
+        "word": "美国加州南部山火已致多人死亡",
+        "onboard_time": 1736388199,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1878063,
+        "num": 361860,
+        "word": "王星自述自己根本逃不出大楼",
+        "onboard_time": 1736384242,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 783109,
+        "num": 359735,
+        "word": "赵樱子说刘学义暗恋过她",
+        "onboard_time": 1736383522,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 524390,
+        "num": 357677,
+        "word": "律师称收到刘强东红包的乡亲需缴税",
+        "onboard_time": 1736350821,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 356082,
+        "num": 356082,
+        "word": "中国AI人才缺口将达到400万",
+        "onboard_time": 1736383880,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348348,
+        "num": 348348,
+        "word": "被颜十六骗去泰国的灯光师还没回来",
+        "onboard_time": 1736352382,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 771789,
+        "num": 334461,
+        "word": "赵樱子自曝曾对成毅因戏生情",
+        "onboard_time": 1736383278,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 672333,
+        "num": 328575,
+        "word": "王星到园区第一天就挨了打",
+        "onboard_time": 1736340143,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311031,
+        "num": 311031,
+        "word": "情侣洗完澡双双中毒房东称晕堂",
+        "onboard_time": 1736350223,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295028,
+        "num": 295028,
+        "word": "国色芳华白月梵星首日云合",
+        "onboard_time": 1736384001,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274844,
+        "num": 274844,
+        "word": "微博之夜最终轮",
+        "onboard_time": 1736383102,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 330662,
+        "num": 265866,
+        "word": "湖南科技大学刘俊杰",
+        "onboard_time": 1736384721,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300898,
+        "num": 259987,
+        "word": "小猫突然出现按下辞职报告发送键",
+        "onboard_time": 1736383942,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252451,
+        "num": 252451,
+        "word": "于正说白鹿的剧都是单扛",
+        "onboard_time": 1736385141,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241335,
+        "num": 241335,
+        "word": "当年明月",
+        "onboard_time": 1736387181,
+        "rank": 23,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 220345,
+        "num": 220345,
+        "word": "得了甲流可以自愈吗",
+        "onboard_time": 1736353879,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 212814,
+        "num": 212814,
+        "word": "张雪峰说女儿去哪过亿存款就存哪",
+        "onboard_time": 1736385682,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199572,
+        "num": 199572,
+        "word": "马龙樊振东王楚钦参加微博之夜",
+        "onboard_time": 1736379076,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187213,
+        "num": 187213,
+        "word": "2025双鱼座人生大逆转",
+        "onboard_time": 1736384599,
+        "rank": 27,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 125500,
+        "num": 169508,
+        "word": "何惟芳李幼贞 就这个双强爽",
+        "onboard_time": 1736383102,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120206,
+        "num": 167007,
+        "word": "经纪人称骗子选角眼光很专业",
+        "onboard_time": 1736384361,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164805,
+        "num": 164805,
+        "word": "男子在家洗手竟被电出个窟窿",
+        "onboard_time": 1736349863,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147599,
+        "num": 147599,
+        "word": "妙瓦底电诈园区的背后",
+        "onboard_time": 1736346624,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 145557,
+        "num": 145557,
+        "word": "宋承宪现在还会叫宋慧乔恩熙",
+        "onboard_time": 1736379738,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140520,
+        "num": 140520,
+        "word": "星星女友说终于冲破阴霾拨云见日",
+        "onboard_time": 1736387420,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126213,
+        "num": 126213,
+        "word": "燕云十六声",
+        "onboard_time": 1736383580,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119611,
+        "num": 119611,
+        "word": "174名家属填写缅甸被困人员信息文档",
+        "onboard_time": 1736351719,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118289,
+        "num": 118289,
+        "word": "加州野火多位好莱坞明星豪宅被烧",
+        "onboard_time": 1736359153,
+        "rank": 36,
+        "category": "海外新闻,艺人"
+      },
+      {
+        "raw_hot": 114446,
+        "num": 114446,
+        "word": "健身教练带娃四个月变潦草小狗",
+        "onboard_time": 1736384482,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111857,
+        "num": 111857,
+        "word": "120调度员凭敲击声成功救助患者",
+        "onboard_time": 1736387181,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109429,
+        "num": 109429,
+        "word": "西藏定日县地震已致126人遇难",
+        "onboard_time": 1736259264,
+        "rank": 39,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 99310,
+        "num": 99310,
+        "word": "陈星旭让孟子义李昀锐两个人拍",
+        "onboard_time": 1736387121,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 98777,
+        "num": 98777,
+        "word": "南京胖哥妻子怀孕了",
+        "onboard_time": 1736341523,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93377,
+        "num": 93377,
+        "word": "特朗普为什么觊觎格陵兰岛",
+        "onboard_time": 1736385502,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91772,
+        "num": 91772,
+        "word": "刘亦菲青蛇白蛇",
+        "onboard_time": 1736338462,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 75805,
+        "num": 88039,
+        "word": "涉企检查须做到5个严禁8个不得",
+        "onboard_time": 1736388021,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95186,
+        "num": 87916,
+        "word": "孟子义听到顶流孟姐的反应",
+        "onboard_time": 1736381540,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 87286,
+        "num": 87286,
+        "word": "GOT7预告照",
+        "onboard_time": 1736388079,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 85654,
+        "num": 85654,
+        "word": "数九寒天健康日历",
+        "onboard_time": 1736386040,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83188,
+        "num": 83188,
+        "word": "陈星旭我在这儿不合适吧",
+        "onboard_time": 1736381058,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 74895,
+        "num": 74895,
+        "word": "2025天秤座鸿运当头",
+        "onboard_time": 1736388560,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届中央纪委四次全会公报#"
+    }
+  }
+}
