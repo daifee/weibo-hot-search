@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736454268363,
+  "endTime": 1736455074190,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -17979,6 +17979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156758,
+      "num": 156758,
+      "word": "洛杉矶华人以为误入末日",
+      "onboard_time": 1736448793,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 156419,
       "num": 156419,
       "word": "林一海外人气",
@@ -19521,14 +19529,6 @@
       "onboard_time": 1735961540,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 141621,
-      "num": 141621,
-      "word": "洛杉矶华人以为误入末日",
-      "onboard_time": 1736448793,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 141589,
@@ -28835,6 +28835,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 28201,
+      "num": 52422,
+      "word": "美国加州山火消防栓缺水灭火率为0%",
+      "onboard_time": 1736451011,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 28127,
       "num": 287451,
       "word": "王星越微博之夜官宣",
@@ -28977,6 +28985,14 @@
       "onboard_time": 1735804400,
       "rank": 15,
       "category": "数码"
+    },
+    {
+      "raw_hot": 27221,
+      "num": 27221,
+      "word": "疯狂开业的俄罗斯商品馆被立案调查",
+      "onboard_time": 1736451552,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27190,
@@ -29177,14 +29193,6 @@
       "onboard_time": 1735899740,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 24519,
-      "num": 24519,
-      "word": "疯狂开业的俄罗斯商品馆被立案调查",
-      "onboard_time": 1736451552,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24375,
@@ -29553,14 +29561,6 @@
       "onboard_time": 1736421075,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 20389,
-      "num": 52422,
-      "word": "美国加州山火消防栓缺水灭火率为0%",
-      "onboard_time": 1736451011,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 20375,
@@ -30305,6 +30305,14 @@
       "onboard_time": 1735756632,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 12462,
+      "num": 24034,
+      "word": "肖战斯文儒雅少年郎",
+      "onboard_time": 1736455031,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 12426,

@@ -1,6 +1,6 @@
 {
   "startTime": 1736440116531,
-  "endTime": 1736454268363,
+  "endTime": 1736455074190,
   "band_list": [
     {
       "raw_hot": 851405,
@@ -195,6 +195,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 156758,
+      "num": 156758,
+      "word": "洛杉矶华人以为误入末日",
+      "onboard_time": 1736448793,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 155663,
       "num": 155663,
       "word": "虞书欣复古look",
@@ -233,14 +241,6 @@
       "onboard_time": 1736434821,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 141621,
-      "num": 141621,
-      "word": "洛杉矶华人以为误入末日",
-      "onboard_time": 1736448793,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 141556,
@@ -515,20 +515,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 28201,
+      "num": 52422,
+      "word": "美国加州山火消防栓缺水灭火率为0%",
+      "onboard_time": 1736451011,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 27221,
+      "num": 27221,
+      "word": "疯狂开业的俄罗斯商品馆被立案调查",
+      "onboard_time": 1736451552,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26602,
       "num": 26602,
       "word": "IMAX哪吒之魔童闹海",
       "onboard_time": 1736448733,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 24519,
-      "num": 24519,
-      "word": "疯狂开业的俄罗斯商品馆被立案调查",
-      "onboard_time": 1736451552,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21839,
@@ -545,14 +553,6 @@
       "onboard_time": 1736449211,
       "rank": 43,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 20389,
-      "num": 52422,
-      "word": "美国加州山火消防栓缺水灭火率为0%",
-      "onboard_time": 1736451011,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 19782,
@@ -577,6 +577,14 @@
       "onboard_time": 1736440757,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12462,
+      "num": 24034,
+      "word": "肖战斯文儒雅少年郎",
+      "onboard_time": 1736455031,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 11327,

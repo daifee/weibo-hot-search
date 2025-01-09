@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736454268363,
+  "endTime": 1736455074190,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -9699,6 +9699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156758,
+      "num": 156758,
+      "word": "洛杉矶华人以为误入末日",
+      "onboard_time": 1736448793,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 156364,
       "num": 156364,
       "word": "吴泽林教檀健次跳舞手脚打结",
@@ -10481,14 +10489,6 @@
       "onboard_time": 1736404700,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 141621,
-      "num": 141621,
-      "word": "洛杉矶华人以为误入末日",
-      "onboard_time": 1736448793,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 141556,
@@ -15827,6 +15827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28201,
+      "num": 52422,
+      "word": "美国加州山火消防栓缺水灭火率为0%",
+      "onboard_time": 1736451011,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 27816,
       "num": 101836,
       "word": "专家解读为何冰下自救这么难",
@@ -15865,6 +15873,14 @@
       "onboard_time": 1736274193,
       "rank": 48,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 27221,
+      "num": 27221,
+      "word": "疯狂开业的俄罗斯商品馆被立案调查",
+      "onboard_time": 1736451552,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27190,
@@ -15993,14 +16009,6 @@
       "onboard_time": 1736422521,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 24519,
-      "num": 24519,
-      "word": "疯狂开业的俄罗斯商品馆被立案调查",
-      "onboard_time": 1736451552,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24375,
@@ -16193,14 +16201,6 @@
       "onboard_time": 1736421075,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 20389,
-      "num": 52422,
-      "word": "美国加州山火消防栓缺水灭火率为0%",
-      "onboard_time": 1736451011,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 20253,
@@ -16585,6 +16585,14 @@
       "onboard_time": 1736262146,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 12462,
+      "num": 24034,
+      "word": "肖战斯文儒雅少年郎",
+      "onboard_time": 1736455031,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 12287,
