@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736411300807,
+  "endTime": 1736412099311,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -2091,6 +2091,14 @@
       "category": "读书作家,作品衍生"
     },
     {
+      "raw_hot": 1064931,
+      "num": 735371,
+      "word": "金扫帚提名名单",
+      "onboard_time": 1736410701,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1063103,
       "num": 344235,
       "word": "鹿晗 肯德基",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736261125,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 970503,
-      "num": 768398,
-      "word": "李一桐 脏了我的手",
-      "onboard_time": 1736398222,
-      "rank": 12,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

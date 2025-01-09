@@ -1,0 +1,410 @@
+{
+  "runTime": 1736412099311,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1587870,
+        "num": 1587870,
+        "word": "杨子 我又不是找不着更好的",
+        "onboard_time": 1736408481,
+        "rank": 0,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 869858,
+        "num": 869858,
+        "word": "希尔顿等名人豪宅已被烧成平地",
+        "onboard_time": 1736400862,
+        "rank": 1,
+        "category": "海外新闻,艺人"
+      },
+      {
+        "raw_hot": 36454,
+        "num": 749797,
+        "word": "日喀则守望相助的9个瞬间",
+        "onboard_time": 1736391140,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1064931,
+        "num": 735371,
+        "word": "金扫帚提名名单",
+        "onboard_time": 1736410701,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 685530,
+        "num": 685530,
+        "word": "拜登听取加州火情后宣布当上曾祖父",
+        "onboard_time": 1736408720,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 727422,
+        "num": 673276,
+        "word": "成都警方通报19岁女大学生失联",
+        "onboard_time": 1736404341,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 880692,
+        "num": 661200,
+        "word": "43岁宋慧乔自曝年龄焦虑",
+        "onboard_time": 1736408662,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 639000,
+        "num": 639000,
+        "word": "美国洛杉矶山火完全失控",
+        "onboard_time": 1736391681,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 563380,
+        "num": 563380,
+        "word": "韩国人顺产头",
+        "onboard_time": 1736395401,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 368491,
+        "num": 550099,
+        "word": "中国驻清迈总领馆回应模特杨泽琪失联",
+        "onboard_time": 1736410043,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 743977,
+        "num": 523897,
+        "word": "麦琳说自己是父母捡来的",
+        "onboard_time": 1736401162,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 662372,
+        "num": 515331,
+        "word": "赵丽颖官宣加盟微博之夜",
+        "onboard_time": 1736409741,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102851,
+        "num": 486339,
+        "word": "团伙自制司美格鲁肽卖了200万",
+        "onboard_time": 1736410402,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24310,
+        "num": 474314,
+        "word": "赵丽颖的全棉舒适生活",
+        "onboard_time": 1736406800,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120213,
+        "num": 450726,
+        "word": "再见爱人观察室嘉宾集体发文",
+        "onboard_time": 1736411062,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 437180,
+        "num": 437180,
+        "word": "女生素颜艺考被擦妆5次",
+        "onboard_time": 1736391740,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 334027,
+        "num": 433272,
+        "word": "湖南科大赴缅甸失联学生母亲发声",
+        "onboard_time": 1736403380,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87325,
+        "num": 410594,
+        "word": "月子中心跑路有产妇只能吃外卖",
+        "onboard_time": 1736411241,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75953,
+        "num": 400882,
+        "word": "21岁中国女孩与网友赴泰国后失联",
+        "onboard_time": 1736411420,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22994,
+        "num": 384507,
+        "word": "揭秘王家卫为什么拍繁花那么慢",
+        "onboard_time": 1736411002,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 375600,
+        "num": 375600,
+        "word": "豆得儿泳装照",
+        "onboard_time": 1736411062,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 86066,
+        "num": 370238,
+        "word": "泰警方称已找到接走王星的司机",
+        "onboard_time": 1736406681,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366930,
+        "num": 366930,
+        "word": "杨紫白鹿新剧云合",
+        "onboard_time": 1736408901,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343776,
+        "num": 343776,
+        "word": "杨子要回归谁的家庭",
+        "onboard_time": 1736403320,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151569,
+        "num": 315789,
+        "word": "NIP官宣Doinb加入",
+        "onboard_time": 1736407460,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 303196,
+        "num": 303196,
+        "word": "黄圣依没下车",
+        "onboard_time": 1736396663,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58722,
+        "num": 289811,
+        "word": "李宇春官宣微博之夜",
+        "onboard_time": 1736410642,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 289664,
+        "num": 289664,
+        "word": "云合",
+        "onboard_time": 1736411182,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267937,
+        "num": 267937,
+        "word": "樊振东是首位超级金满贯得主",
+        "onboard_time": 1736406681,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47140,
+        "num": 249872,
+        "word": "韦思佳首进大满贯正赛",
+        "onboard_time": 1736410882,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248702,
+        "num": 248702,
+        "word": "会计桌上不能动的东西",
+        "onboard_time": 1736410223,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239892,
+        "num": 239892,
+        "word": "水果含糖量和热量排行榜",
+        "onboard_time": 1736410043,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 220162,
+        "num": 220162,
+        "word": "央视记者洛杉矶火场报道像在战区",
+        "onboard_time": 1736404761,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 216800,
+        "num": 216800,
+        "word": "黄圣依看完日记觉得不下车是对的",
+        "onboard_time": 1736401522,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198049,
+        "num": 198049,
+        "word": "敖瑞鹏叫白鹿宝贝儿",
+        "onboard_time": 1736409561,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183427,
+        "num": 183427,
+        "word": "李栋旭玄彬街头聊天",
+        "onboard_time": 1736409501,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181492,
+        "num": 181492,
+        "word": "美国加州山火肆虐夜空被火光染红",
+        "onboard_time": 1736407759,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 26713,
+        "num": 181043,
+        "word": "周笔畅是那英语录十级学者",
+        "onboard_time": 1736410761,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180602,
+        "num": 180602,
+        "word": "孙乐言奥斯卡太甜啦",
+        "onboard_time": 1736407701,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86075,
+        "num": 179981,
+        "word": "奶油草莓",
+        "onboard_time": 1736411540,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 179745,
+        "num": 179745,
+        "word": "留几手跟胡彦斌说你叫我爽儿就行",
+        "onboard_time": 1736401821,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166738,
+        "num": 166738,
+        "word": "无限暖暖爆料",
+        "onboard_time": 1736411002,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163045,
+        "num": 163045,
+        "word": "公诉机关建议湘潭大学投毒者死刑",
+        "onboard_time": 1736408300,
+        "rank": 42,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 68512,
+        "num": 157296,
+        "word": "世界反兴奋剂机构取消美国执委会资格",
+        "onboard_time": 1736410100,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 29221,
+        "num": 155930,
+        "word": "周笔畅模仿那英已nextlevel",
+        "onboard_time": 1736411842,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155592,
+        "num": 155592,
+        "word": "电信诈骗洗钱手段又升级了",
+        "onboard_time": 1736404221,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152590,
+        "num": 152590,
+        "word": "好莱坞",
+        "onboard_time": 1736411120,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135013,
+        "num": 135013,
+        "word": "我国发现一起猴痘病毒疫情",
+        "onboard_time": 1736400680,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122527,
+        "num": 122527,
+        "word": "全球三分之二的iPad出自川渝",
+        "onboard_time": 1736411961,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118629,
+        "num": 118629,
+        "word": "人民警察版璀璨冒险人",
+        "onboard_time": 1736400802,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届中央纪委四次全会公报来了#"
+    }
+  }
+}
