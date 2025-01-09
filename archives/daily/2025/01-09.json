@@ -1,6 +1,6 @@
 {
   "startTime": 1736353721044,
-  "endTime": 1736400081792,
+  "endTime": 1736401070860,
   "band_list": [
     {
       "raw_hot": 2735310,
@@ -43,7 +43,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1672515,
+      "raw_hot": 1701466,
       "num": 954739,
       "word": "麦琳李行亮都下车了",
       "onboard_time": 1736397023,
@@ -139,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 970503,
+      "num": 731107,
+      "word": "李一桐 脏了我的手",
+      "onboard_time": 1736398222,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 906235,
       "num": 925275,
       "word": "国色芳华刘畅家暴",
@@ -192,6 +200,14 @@
       "word": "赵樱子自曝曾对成毅因戏生情",
       "onboard_time": 1736383278,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 760819,
+      "num": 494083,
+      "word": "刘亦菲夸孟子义好美",
+      "onboard_time": 1736399603,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -251,14 +267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 568021,
-      "num": 568021,
-      "word": "李一桐 脏了我的手",
-      "onboard_time": 1736398222,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 555618,
       "num": 555618,
       "word": "王者荣耀甄姬",
@@ -281,6 +289,14 @@
       "onboard_time": 1736387181,
       "rank": 23,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 486946,
+      "num": 486946,
+      "word": "杨紫微博之夜官宣",
+      "onboard_time": 1736399061,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 460606,
@@ -331,14 +347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 403423,
-      "num": 339655,
-      "word": "刘亦菲夸孟子义好美",
-      "onboard_time": 1736399603,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 394509,
       "num": 439583,
       "word": "62岁老戏骨吴连生突然去世",
@@ -371,19 +379,19 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 358159,
-      "num": 358159,
-      "word": "杨紫微博之夜官宣",
-      "onboard_time": 1736399061,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 352333,
       "num": 363788,
       "word": "一场跨国骗局何以5天告破",
       "onboard_time": 1736392461,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 352035,
+      "num": 352035,
+      "word": "我国发现猴痘病毒Ib亚分支聚集性疫情",
+      "onboard_time": 1736399302,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -523,12 +531,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 241500,
+      "num": 241500,
+      "word": "希尔顿等名人豪宅已被烧成平地",
+      "onboard_time": 1736400862,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 233189,
       "num": 233189,
       "word": "得了甲流可以自愈吗",
       "onboard_time": 1736353879,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 232776,
+      "num": 232776,
+      "word": "赵丽颖向阳生长大片",
+      "onboard_time": 1736400382,
+      "rank": 26,
+      "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 232375,
+      "num": 251783,
+      "word": "樊振东的腿抓地像跑车一样",
+      "onboard_time": 1736400202,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 228231,
+      "num": 228231,
+      "word": "王楚钦马龙樊振东都去微博之夜",
+      "onboard_time": 1736400021,
+      "rank": 40,
+      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 224819,
@@ -547,8 +587,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 220213,
-      "num": 220213,
+      "raw_hot": 221680,
+      "num": 221680,
       "word": "泰缅边境失联模特经历与王星相似",
       "onboard_time": 1736397443,
       "rank": 47,
@@ -609,6 +649,14 @@
       "onboard_time": 1736392220,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 203047,
+      "num": 203047,
+      "word": "chiikawa官方入驻微博",
+      "onboard_time": 1736400021,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 199572,
@@ -691,19 +739,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182804,
+      "num": 182804,
+      "word": "人民警察版璀璨冒险人",
+      "onboard_time": 1736400802,
+      "rank": 40,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 180789,
       "num": 180789,
       "word": "王暖暖建议去泰国玩不要去偏远地区",
       "onboard_time": 1736393300,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 173157,
-      "num": 173157,
-      "word": "我国发现猴痘病毒Ib亚分支聚集性疫情",
-      "onboard_time": 1736399302,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -713,14 +761,6 @@
       "onboard_time": 1736349922,
       "rank": 23,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 170970,
-      "num": 170970,
-      "word": "王楚钦马龙樊振东都去微博之夜",
-      "onboard_time": 1736400021,
-      "rank": 40,
-      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 168972,
@@ -771,6 +811,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160773,
+      "num": 160773,
+      "word": "我国发现一起猴痘病毒疫情",
+      "onboard_time": 1736400680,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158427,
+      "num": 158427,
+      "word": "作者被疯狂催婚后做出的游戏",
+      "onboard_time": 1736400202,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156138,
       "num": 156138,
       "word": "王俊凯谈饰演潜艇兵",
@@ -819,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147065,
+      "num": 147065,
+      "word": "白月梵星打戏",
+      "onboard_time": 1736400862,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145557,
       "num": 145557,
       "word": "宋承宪现在还会叫宋慧乔恩熙",
@@ -833,6 +897,22 @@
       "onboard_time": 1736343262,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144883,
+      "num": 244878,
+      "word": "墨总统讽刺性回应特朗普提议",
+      "onboard_time": 1736398465,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 142861,
+      "num": 142861,
+      "word": "樊振东曾说希望自己职业生涯很长",
+      "onboard_time": 1736401043,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 141339,
@@ -881,14 +961,6 @@
       "onboard_time": 1736351782,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136892,
-      "num": 136892,
-      "word": "chiikawa官方入驻微博",
-      "onboard_time": 1736400021,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 136282,
@@ -985,6 +1057,14 @@
       "onboard_time": 1736388560,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120286,
+      "num": 618679,
+      "word": "创意反诈视频能救一个是一个",
+      "onboard_time": 1736399542,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119506,
@@ -1107,12 +1187,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103412,
-      "num": 244878,
-      "word": "墨总统讽刺性回应特朗普提议",
-      "onboard_time": 1736398465,
+      "raw_hot": 102983,
+      "num": 228235,
+      "word": "成毅误入反差赛道",
+      "onboard_time": 1736400742,
       "rank": 29,
-      "category": "国际时政"
+      "category": "剧集"
     },
     {
       "raw_hot": 102947,
@@ -1121,6 +1201,22 @@
       "onboard_time": 1736342183,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97796,
+      "num": 361714,
+      "word": "男性HPV感染率达90%",
+      "onboard_time": 1736399003,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 96204,
+      "num": 489001,
+      "word": "疲惫的青年护士们正在逃离三甲医院",
+      "onboard_time": 1736400382,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95973,
@@ -1153,14 +1249,6 @@
       "onboard_time": 1736377035,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 87537,
-      "num": 618679,
-      "word": "创意反诈视频能救一个是一个",
-      "onboard_time": 1736399542,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87286,
@@ -1291,14 +1379,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 72098,
-      "num": 247914,
-      "word": "男性HPV感染率达90%",
-      "onboard_time": 1736399003,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 71139,
       "num": 192106,
       "word": "燕云十六声回应五谷不分",
@@ -1323,6 +1403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62450,
+      "num": 228242,
+      "word": "颜十六名下大洋此案影视公司被吊销",
+      "onboard_time": 1736400983,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58787,
       "num": 58787,
       "word": "专家发今天阳光明媚竟是欢迎围猎暗号",
@@ -1345,6 +1433,14 @@
       "onboard_time": 1736396543,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 54888,
+      "num": 228232,
+      "word": "王俊凯年度闪耀时刻",
+      "onboard_time": 1736400441,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 54010,
@@ -1425,6 +1521,14 @@
       "onboard_time": 1736357835,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 36022,
+      "num": 487286,
+      "word": "泰总理称要防范泰国成犯罪中转站",
+      "onboard_time": 1736400921,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 35890,
