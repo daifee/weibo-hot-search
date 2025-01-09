@@ -1,6 +1,6 @@
 {
   "startTime": 1736440116531,
-  "endTime": 1736441044960,
+  "endTime": 1736443173990,
   "band_list": [
     {
       "raw_hot": 851405,
@@ -35,8 +35,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 541147,
-      "num": 541147,
+      "raw_hot": 565747,
+      "num": 565747,
       "word": "特朗普要求加州州长就山火失控辞职",
       "onboard_time": 1736437882,
       "rank": 9,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 242300,
+      "num": 242300,
+      "word": "肖战微博之夜人脸识别",
+      "onboard_time": 1736440278,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 241001,
       "num": 177206,
       "word": "微博之夜好多cp啊",
@@ -137,6 +145,14 @@
       "onboard_time": 1736427083,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 210034,
+      "num": 210034,
+      "word": "2人幼儿园时假扮夫妻20年后真结婚了",
+      "onboard_time": 1736440937,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 209868,
@@ -195,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153294,
+      "num": 335254,
+      "word": "女子一句话让骗子彻底破防",
+      "onboard_time": 1736431643,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147156,
       "num": 702789,
       "word": "感染甲流后不能硬扛",
@@ -249,22 +273,6 @@
       "onboard_time": 1736422883,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 130453,
-      "num": 335254,
-      "word": "女子一句话让骗子彻底破防",
-      "onboard_time": 1736431643,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127130,
-      "num": 177487,
-      "word": "肖战微博之夜人脸识别",
-      "onboard_time": 1736440278,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 118493,
@@ -328,14 +336,6 @@
       "word": "西藏地震灾区收到了奶茶可乐",
       "onboard_time": 1736433862,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92854,
-      "num": 92854,
-      "word": "2人幼儿园时假扮夫妻20年后真结婚了",
-      "onboard_time": 1736440937,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -411,6 +411,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 63917,
+      "num": 63917,
+      "word": "田曦薇和张雅钦是大学同学",
+      "onboard_time": 1736441118,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 56070,
+      "num": 114244,
+      "word": "微博之夜最终波阵容",
+      "onboard_time": 1736441837,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 51088,
       "num": 160330,
       "word": "孙颖莎拍摄间歇都想练球",
@@ -419,7 +435,23 @@
       "category": "体育"
     },
     {
-      "raw_hot": 15485,
+      "raw_hot": 39385,
+      "num": 54501,
+      "word": "美国加州马利布市发布撤离警报",
+      "onboard_time": 1736441656,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 24558,
+      "num": 86439,
+      "word": "说了20分钟对方不上当骗子气到大叫",
+      "onboard_time": 1736437580,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15784,
       "num": 135067,
       "word": "郑钦文德约搭档好欢乐",
       "onboard_time": 1736440757,

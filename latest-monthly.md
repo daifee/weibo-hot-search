@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/10 00:44:04
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/10 01:19:33
 </p>
 </blockquote>
 <p>
@@ -3609,6 +3609,12 @@ A50（热度：572477）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%BF%E5%B0%B1%E5%B1%B1%E7%81%AB%E5%A4%B1%E6%8E%A7%E8%BE%9E%E8%81%8C%23" target="weibo">
+特朗普要求加州州长就山火失控辞职（热度：565747）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%85%AC%E8%B0%83%E5%A4%84%E5%B0%9D%E8%AF%95%E6%8A%93%E6%8D%95%E5%B0%B9%E9%94%A1%E6%82%A6%23" target="weibo">
 韩国公调处尝试抓捕尹锡悦（热度：565573）
 </a>
@@ -3773,12 +3779,6 @@ A50（热度：572477）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%9B%B0%E7%BC%85%E7%94%B8%E6%B1%82%E6%95%91%E6%96%87%E6%A1%A3%E5%88%9B%E5%BB%BA%E8%80%85%E5%8F%91%E5%A3%B0%23" target="weibo">
 被困缅甸求救文档创建者发声（热度：541733）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%BF%E5%B0%B1%E5%B1%B1%E7%81%AB%E5%A4%B1%E6%8E%A7%E8%BE%9E%E8%81%8C%23" target="weibo">
-特朗普要求加州州长就山火失控辞职（热度：541147）
 </a>
 </li>
 
