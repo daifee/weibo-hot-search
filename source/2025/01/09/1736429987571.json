@@ -1,0 +1,410 @@
+{
+  "runTime": 1736429987571,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1509073,
+        "num": 1509073,
+        "word": "微博之夜名场面又要来了",
+        "onboard_time": 1736423003,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1198368,
+        "num": 1198368,
+        "word": "女子甲流4天洗完澡手脚不能动",
+        "onboard_time": 1736424082,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46273,
+        "num": 1087829,
+        "word": "一图速览90亿人次春运如何保障",
+        "onboard_time": 1736414000,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1040314,
+        "num": 1040314,
+        "word": "买股代露娃",
+        "onboard_time": 1736425701,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 909077,
+        "num": 909077,
+        "word": "深圳一区期末试卷太难延时20分钟",
+        "onboard_time": 1736425883,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 686960,
+        "num": 686960,
+        "word": "疯狂小杨哥及三只羊被起诉",
+        "onboard_time": 1736425401,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 888705,
+        "num": 685769,
+        "word": "微博之夜好多cp啊",
+        "onboard_time": 1736425943,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 680789,
+        "num": 680789,
+        "word": "石原里美老公近照",
+        "onboard_time": 1736426842,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 678516,
+        "num": 678516,
+        "word": "美国洛杉矶山火最新消息",
+        "onboard_time": 1736421562,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 451188,
+        "num": 451188,
+        "word": "受害人没有删聊天记录成了关键证据",
+        "onboard_time": 1736417540,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 575400,
+        "num": 439519,
+        "word": "微博之夜重磅阵容官宣",
+        "onboard_time": 1736427142,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 37471,
+        "num": 391702,
+        "word": "迪奥全球品牌大使郑钦文",
+        "onboard_time": 1736427983,
+        "rank": 11,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 457196,
+        "num": 390992,
+        "word": "向佐换发型了",
+        "onboard_time": 1736423542,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386564,
+        "num": 386564,
+        "word": "我国老年人感染艾滋病占比持续上升",
+        "onboard_time": 1736421802,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 176603,
+        "num": 354195,
+        "word": "杨紫也闯进了人妻赛道",
+        "onboard_time": 1736428221,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330297,
+        "num": 330297,
+        "word": "美国滞留太空宇航员再发声",
+        "onboard_time": 1736418445,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 300372,
+        "num": 300372,
+        "word": "郑钦文 迪奥",
+        "onboard_time": 1736425522,
+        "rank": 16,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 290257,
+        "num": 290257,
+        "word": "从太空看洛杉矶山火",
+        "onboard_time": 1736427083,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 212554,
+        "num": 290133,
+        "word": "深圳这场期末考试难倒娃也难倒爹妈",
+        "onboard_time": 1736428582,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126401,
+        "num": 287860,
+        "word": "王俊凯周周正正的野孩子",
+        "onboard_time": 1736429724,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 334594,
+        "num": 286095,
+        "word": "肖战承认会入睡困难",
+        "onboard_time": 1736426542,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298952,
+        "num": 282438,
+        "word": "国色芳华虐女主",
+        "onboard_time": 1736427501,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282278,
+        "num": 282278,
+        "word": "宠物猫到达收货地后滞留中转站死亡",
+        "onboard_time": 1736428043,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266446,
+        "num": 266446,
+        "word": "胡冰卿时隔7年杀回古装赛道",
+        "onboard_time": 1736429123,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258389,
+        "num": 258389,
+        "word": "国色芳华",
+        "onboard_time": 1736422883,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279322,
+        "num": 257399,
+        "word": "肖战说童年是自己的滋养",
+        "onboard_time": 1736415139,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251796,
+        "num": 251796,
+        "word": "2026预制梗",
+        "onboard_time": 1736426303,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251645,
+        "num": 251645,
+        "word": "芒果剧宣",
+        "onboard_time": 1736427444,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221104,
+        "num": 221104,
+        "word": "好莱坞在洛杉矶大火中受创",
+        "onboard_time": 1736424082,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 47944,
+        "num": 220605,
+        "word": "ARTnews年度盛典",
+        "onboard_time": 1736429183,
+        "rank": 29,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 220325,
+        "num": 220325,
+        "word": "上海套内39平米的四口之家",
+        "onboard_time": 1736427024,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207325,
+        "num": 207325,
+        "word": "辛雨锡直播",
+        "onboard_time": 1736425822,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204069,
+        "num": 204069,
+        "word": "美国洛杉矶山火完全失控",
+        "onboard_time": 1736391681,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 203274,
+        "num": 203274,
+        "word": "鞠婧祎流光薄纱花仙裙",
+        "onboard_time": 1736429484,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198325,
+        "num": 198325,
+        "word": "大奉葬礼办到一半人活了",
+        "onboard_time": 1736429062,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194398,
+        "num": 194398,
+        "word": "希尔顿等名人豪宅已被烧成平地",
+        "onboard_time": 1736400862,
+        "rank": 35,
+        "category": "海外新闻,艺人"
+      },
+      {
+        "raw_hot": 193225,
+        "num": 193225,
+        "word": "白月梵星妆造",
+        "onboard_time": 1736427322,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184849,
+        "num": 184849,
+        "word": "金扫帚提名名单",
+        "onboard_time": 1736410701,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176446,
+        "num": 176446,
+        "word": "王鹤棣演我不想接电话",
+        "onboard_time": 1736428163,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175670,
+        "num": 175670,
+        "word": "王一博寻护者斩获多项殊荣",
+        "onboard_time": 1736428823,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31256,
+        "num": 174030,
+        "word": "情侣同居要检查HPV吗",
+        "onboard_time": 1736429662,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 173838,
+        "num": 173838,
+        "word": "敖瑞鹏好帅",
+        "onboard_time": 1736425522,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168314,
+        "num": 168314,
+        "word": "芒果精",
+        "onboard_time": 1736425222,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166897,
+        "num": 166897,
+        "word": "女生素颜艺考被擦妆5次",
+        "onboard_time": 1736391740,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 148808,
+        "num": 148808,
+        "word": "女生打到放满柠檬的网约车",
+        "onboard_time": 1736418742,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148702,
+        "num": 148702,
+        "word": "许七安下线",
+        "onboard_time": 1736415739,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143623,
+        "num": 143623,
+        "word": "一人之下6确定为半年番",
+        "onboard_time": 1736425943,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 127899,
+        "num": 127899,
+        "word": "黑神话悟空 春晚",
+        "onboard_time": 1736414843,
+        "rank": 47,
+        "category": "游戏,综艺"
+      },
+      {
+        "raw_hot": 125445,
+        "num": 125445,
+        "word": "网购宠物猫取消订单5天后卖家发货",
+        "onboard_time": 1736429963,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123156,
+        "num": 123156,
+        "word": "西藏救援物资堆得像小山",
+        "onboard_time": 1736429963,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中纪委全会公报#"
+    }
+  }
+}

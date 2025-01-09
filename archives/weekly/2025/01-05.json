@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736429310595,
+  "endTime": 1736429987571,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -811,8 +811,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1495962,
-      "num": 1495962,
+      "raw_hot": 1509073,
+      "num": 1509073,
       "word": "微博之夜名场面又要来了",
       "onboard_time": 1736423003,
       "rank": 1,
@@ -1251,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1040314,
+      "num": 1040314,
+      "word": "买股代露娃",
+      "onboard_time": 1736425701,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1031623,
       "num": 720315,
       "word": "微博之夜最后一波阵容",
@@ -1305,14 +1313,6 @@
       "onboard_time": 1736214921,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1002375,
-      "num": 1002375,
-      "word": "买股代露娃",
-      "onboard_time": 1736425701,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 1002171,
@@ -1459,6 +1459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 909077,
+      "num": 909077,
+      "word": "深圳一区期末试卷太难延时20分钟",
+      "onboard_time": 1736425883,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 908197,
       "num": 908197,
       "word": "星光大赏这谁啊",
@@ -1497,6 +1505,14 @@
       "onboard_time": 1736313145,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 888705,
+      "num": 685769,
+      "word": "微博之夜好多cp啊",
+      "onboard_time": 1736425943,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 888040,
@@ -1707,14 +1723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 810586,
-      "num": 645427,
-      "word": "微博之夜好多cp啊",
-      "onboard_time": 1736425943,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 805244,
       "num": 805244,
       "word": "张雪峰霸气谈女儿就业",
@@ -1873,14 +1881,6 @@
       "onboard_time": 1736399603,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 759631,
-      "num": 759631,
-      "word": "深圳一区期末试卷太难延时20分钟",
-      "onboard_time": 1736425883,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 755901,
@@ -2076,7 +2076,7 @@
     },
     {
       "raw_hot": 692574,
-      "num": 645224,
+      "num": 680789,
       "word": "石原里美老公近照",
       "onboard_time": 1736426842,
       "rank": 12,
@@ -2112,6 +2112,14 @@
       "word": "贪了2亿元的三甲院长赃款藏屋子夹层",
       "onboard_time": 1736302340,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 686960,
+      "num": 686960,
+      "word": "疯狂小杨哥及三只羊被起诉",
+      "onboard_time": 1736425401,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -2169,6 +2177,14 @@
       "onboard_time": 1736420841,
       "rank": 7,
       "category": "网红"
+    },
+    {
+      "raw_hot": 678516,
+      "num": 678516,
+      "word": "美国洛杉矶山火最新消息",
+      "onboard_time": 1736421562,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 677010,
@@ -2275,14 +2291,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 646311,
-      "num": 646311,
-      "word": "美国洛杉矶山火最新消息",
-      "onboard_time": 1736421562,
-      "rank": 44,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 644132,
       "num": 644132,
       "word": "常州一月子中心被曝集体跑路",
@@ -2337,14 +2345,6 @@
       "onboard_time": 1736331323,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 638374,
-      "num": 638374,
-      "word": "疯狂小杨哥及三只羊被起诉",
-      "onboard_time": 1736425401,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 636317,
@@ -4835,6 +4835,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 298952,
+      "num": 282438,
+      "word": "国色芳华虐女主",
+      "onboard_time": 1736427501,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 298489,
       "num": 346859,
       "word": "王者荣耀",
@@ -5003,8 +5011,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 290026,
-      "num": 290026,
+      "raw_hot": 290257,
+      "num": 290257,
       "word": "从太空看洛杉矶山火",
       "onboard_time": 1736427083,
       "rank": 40,
@@ -5145,6 +5153,14 @@
       "onboard_time": 1736327602,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 282278,
+      "num": 611256,
+      "word": "宠物猫到达收货地后滞留中转站死亡",
+      "onboard_time": 1736428043,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 281545,
@@ -5459,6 +5475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 266446,
+      "num": 266446,
+      "word": "胡冰卿时隔7年杀回古装赛道",
+      "onboard_time": 1736429123,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 265204,
       "num": 265204,
       "word": "杨紫美我一大跳",
@@ -5521,14 +5545,6 @@
       "onboard_time": 1736304860,
       "rank": 2,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 261375,
-      "num": 240927,
-      "word": "国色芳华虐女主",
-      "onboard_time": 1736427501,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 260258,
@@ -5737,6 +5753,14 @@
       "onboard_time": 1736002595,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 251796,
+      "num": 251796,
+      "word": "2026预制梗",
+      "onboard_time": 1736426303,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 251404,
@@ -6259,14 +6283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 228415,
-      "num": 228415,
-      "word": "2026预制梗",
-      "onboard_time": 1736426303,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 227822,
       "num": 301131,
       "word": "西藏定日县地震这些问题一起关注",
@@ -6441,6 +6457,14 @@
       "onboard_time": 1736061565,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 220325,
+      "num": 220325,
+      "word": "上海套内39平米的四口之家",
+      "onboard_time": 1736427024,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 220165,
@@ -6675,14 +6699,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 214060,
-      "num": 214060,
-      "word": "上海套内39平米的四口之家",
-      "onboard_time": 1736427024,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 213965,
       "num": 213965,
       "word": "舒淇 雅诗兰黛",
@@ -6761,6 +6777,14 @@
       "onboard_time": 1736230761,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212554,
+      "num": 290133,
+      "word": "深圳这场期末考试难倒娃也难倒爹妈",
+      "onboard_time": 1736428582,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 212334,
@@ -7195,6 +7219,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 203274,
+      "num": 203274,
+      "word": "鞠婧祎流光薄纱花仙裙",
+      "onboard_time": 1736429484,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203169,
       "num": 209231,
       "word": "招募星星者曾多次借钱不还",
@@ -7408,6 +7440,14 @@
       "word": "阿如那老师又来演混混了",
       "onboard_time": 1736253564,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 198325,
+      "num": 198325,
+      "word": "大奉葬礼办到一半人活了",
+      "onboard_time": 1736429062,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -7665,6 +7705,14 @@
       "onboard_time": 1736328263,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 193225,
+      "num": 255460,
+      "word": "白月梵星妆造",
+      "onboard_time": 1736427322,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 193110,
@@ -8371,6 +8419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176603,
+      "num": 419710,
+      "word": "杨紫也闯进了人妻赛道",
+      "onboard_time": 1736428221,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176568,
       "num": 176568,
       "word": "高叶 一次全醺换来终身内向",
@@ -8401,6 +8457,14 @@
       "onboard_time": 1736239104,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 175670,
+      "num": 175670,
+      "word": "王一博寻护者斩获多项殊荣",
+      "onboard_time": 1736428823,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 175416,
@@ -8523,14 +8587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 173012,
-      "num": 255460,
-      "word": "白月梵星妆造",
-      "onboard_time": 1736427322,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 172963,
       "num": 172963,
       "word": "管乐遗憾只见过魏哲鸣两三次",
@@ -8552,14 +8608,6 @@
       "word": "杨紫一边养生一边熬夜",
       "onboard_time": 1736166683,
       "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 172608,
-      "num": 172608,
-      "word": "胡冰卿时隔7年杀回古装赛道",
-      "onboard_time": 1736429123,
-      "rank": 41,
       "category": "剧集"
     },
     {
@@ -8843,14 +8891,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 167212,
-      "num": 167212,
-      "word": "深圳这场期末考试难倒娃也难倒爹妈",
-      "onboard_time": 1736428582,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 167207,
       "num": 201155,
       "word": "WTT冠军赛版权费高达300多万美元",
@@ -8953,14 +8993,6 @@
       "onboard_time": 1736153667,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165262,
-      "num": 165262,
-      "word": "王一博寻护者斩获多项殊荣",
-      "onboard_time": 1736428823,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 164901,
@@ -9481,14 +9513,6 @@
       "onboard_time": 1736256263,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 155036,
-      "num": 611256,
-      "word": "宠物猫到达收货地后滞留中转站死亡",
-      "onboard_time": 1736428043,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 154904,
@@ -10931,14 +10955,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 128792,
-      "num": 419710,
-      "word": "杨紫也闯进了人妻赛道",
-      "onboard_time": 1736428221,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 128766,
       "num": 324149,
       "word": "2025亚冬会",
@@ -11019,6 +11035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126401,
+      "num": 287860,
+      "word": "王俊凯周周正正的野孩子",
+      "onboard_time": 1736429724,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 126160,
       "num": 645421,
       "word": "希望期末周的老师belike",
@@ -11073,6 +11097,14 @@
       "onboard_time": 1736383102,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125445,
+      "num": 125445,
+      "word": "网购宠物猫取消订单5天后卖家发货",
+      "onboard_time": 1736429963,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125391,
@@ -11217,6 +11249,14 @@
       "onboard_time": 1736261065,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123156,
+      "num": 123156,
+      "word": "西藏救援物资堆得像小山",
+      "onboard_time": 1736429963,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123018,
@@ -14355,6 +14395,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 47944,
+      "num": 228458,
+      "word": "ARTnews年度盛典",
+      "onboard_time": 1736429183,
+      "rank": 29,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 47620,
       "num": 218627,
       "word": "檀健次微博之夜安全倡议",
@@ -14433,6 +14481,14 @@
       "onboard_time": 1736398823,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 46273,
+      "num": 1087829,
+      "word": "一图速览90亿人次春运如何保障",
+      "onboard_time": 1736414000,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46238,
@@ -14763,14 +14819,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 39334,
-      "num": 1002713,
-      "word": "一图速览90亿人次春运如何保障",
-      "onboard_time": 1736414000,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39307,
       "num": 553717,
       "word": "泻立停仍有电商平台在售",
@@ -15072,6 +15120,14 @@
       "word": "如何判断得的是甲流还是普通感冒",
       "onboard_time": 1736292917,
       "rank": 49,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 31256,
+      "num": 174030,
+      "word": "情侣同居要检查HPV吗",
+      "onboard_time": 1736429662,
+      "rank": 40,
       "category": "健康医疗"
     },
     {
@@ -16089,14 +16145,6 @@
       "onboard_time": 1736227043,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 7917,
-      "num": 228458,
-      "word": "ARTnews年度盛典",
-      "onboard_time": 1736429183,
-      "rank": 29,
-      "category": "时尚"
     },
     {
       "raw_hot": 7657,
