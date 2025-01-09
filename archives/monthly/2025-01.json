@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736462368087,
+  "endTime": 1736464932347,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -2137,6 +2137,14 @@
       "onboard_time": 1736253985,
       "rank": 12,
       "category": "读书作家,作品衍生"
+    },
+    {
+      "raw_hot": 1067765,
+      "num": 1067765,
+      "word": "洛杉矶华人以为误入末日",
+      "onboard_time": 1736448793,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1063103,
@@ -5003,6 +5011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 542930,
+      "num": 542930,
+      "word": "2人幼儿园时假扮夫妻20年后真结婚了",
+      "onboard_time": 1736440937,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 542739,
       "num": 238202,
       "word": "古剑奇谭含塌量还在上升",
@@ -6369,14 +6385,6 @@
       "onboard_time": 1735830321,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 428831,
-      "num": 502015,
-      "word": "洛杉矶华人以为误入末日",
-      "onboard_time": 1736448793,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 428675,
@@ -8979,14 +8987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 301575,
-      "num": 301575,
-      "word": "2人幼儿园时假扮夫妻20年后真结婚了",
-      "onboard_time": 1736440937,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 301278,
       "num": 301278,
       "word": "深圳大学vs山东鲁能",
@@ -10265,6 +10265,14 @@
       "onboard_time": 1735818260,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 261495,
+      "num": 261495,
+      "word": "说了20分钟对方不上当骗子气到大叫",
+      "onboard_time": 1736437580,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 261454,
@@ -15267,6 +15275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185389,
+      "num": 185389,
+      "word": "疯狂开业的俄罗斯商品馆被立案调查",
+      "onboard_time": 1736451552,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185022,
       "num": 185022,
       "word": "周深新歌是白月梵星OST",
@@ -16129,6 +16145,14 @@
       "onboard_time": 1736292977,
       "rank": 31,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 173904,
+      "num": 173904,
+      "word": "辛雨锡向郭德纲道歉",
+      "onboard_time": 1736464877,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 173898,
@@ -17921,6 +17945,14 @@
       "onboard_time": 1735741581,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157204,
+      "num": 157204,
+      "word": "中国高铁车厢里全是老外",
+      "onboard_time": 1736456291,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157183,
@@ -21683,14 +21715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122203,
-      "num": 122203,
-      "word": "中国高铁车厢里全是老外",
-      "onboard_time": 1736456291,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 122183,
       "num": 192733,
       "word": "A股2025年第一个交易日",
@@ -22729,14 +22753,6 @@
       "onboard_time": 1735724119,
       "rank": 19,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 112072,
-      "num": 112072,
-      "word": "说了20分钟对方不上当骗子气到大叫",
-      "onboard_time": 1736437580,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111965,
@@ -23979,6 +23995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94984,
+      "num": 94984,
+      "word": "湘潭大学投毒案死者系误食麦片",
+      "onboard_time": 1736464756,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94953,
       "num": 94953,
       "word": "消散对白",
@@ -24185,6 +24209,14 @@
       "onboard_time": 1736243122,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 91079,
+      "num": 91079,
+      "word": "俄罗斯姑娘打假上海俄罗斯商品馆",
+      "onboard_time": 1736455091,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90801,
@@ -24587,20 +24619,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84585,
+      "num": 84585,
+      "word": "宋慧乔不是能靠脸的年纪",
+      "onboard_time": 1736447952,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84135,
       "num": 139055,
       "word": "诺言告别eStar",
       "onboard_time": 1735747281,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 84110,
-      "num": 84110,
-      "word": "宋慧乔不是能靠脸的年纪",
-      "onboard_time": 1736447952,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 84065,
@@ -25315,6 +25347,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 72388,
+      "num": 72388,
+      "word": "特朗普发新地图将美加格陵兰岛标记统一颜色",
+      "onboard_time": 1736462293,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 72250,
       "num": 317959,
       "word": "骗骗喜欢你这段把人笑喷了",
@@ -25449,14 +25489,6 @@
       "onboard_time": 1736158884,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 69985,
-      "num": 83743,
-      "word": "疯狂开业的俄罗斯商品馆被立案调查",
-      "onboard_time": 1736451552,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 69807,
@@ -26163,6 +26195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58486,
+      "num": 70740,
+      "word": "南京大屠杀幸存者艾义英奶奶走了",
+      "onboard_time": 1736458211,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 58475,
       "num": 242367,
       "word": "国内雪场已经满足不了高级玩家",
@@ -26249,6 +26289,14 @@
       "onboard_time": 1736085811,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 57590,
+      "num": 57590,
+      "word": "白鹿857857",
+      "onboard_time": 1736464816,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 57449,
@@ -26587,14 +26635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 52094,
-      "num": 52094,
-      "word": "俄罗斯姑娘打假上海俄罗斯商品馆",
-      "onboard_time": 1736455091,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 51992,
       "num": 142804,
       "word": "世界上最不该敷衍的人就是自己",
@@ -26793,6 +26833,22 @@
       "onboard_time": 1735916361,
       "rank": 34,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 50124,
+      "num": 50124,
+      "word": "王一博微博之夜人脸识别",
+      "onboard_time": 1736464816,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 50112,
+      "num": 50112,
+      "word": "一个需穿防护服的行业却乱象丛生",
+      "onboard_time": 1736464756,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50101,
@@ -27521,14 +27577,6 @@
       "onboard_time": 1735683853,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 40691,
-      "num": 70740,
-      "word": "南京大屠杀幸存者艾义英奶奶走了",
-      "onboard_time": 1736458211,
-      "rank": 21,
-      "category": "国内时政"
     },
     {
       "raw_hot": 40603,
@@ -29083,6 +29131,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 26828,
+      "num": 91228,
+      "word": "关注西藏定日县地震",
+      "onboard_time": 1736463494,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26713,
       "num": 188803,
       "word": "周笔畅是那英语录十级学者",
@@ -29193,6 +29249,14 @@
       "onboard_time": 1736362753,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 25251,
+      "num": 138164,
+      "word": "抗震救灾工作处在关键阶段",
+      "onboard_time": 1736464756,
+      "rank": 18,
+      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 25037,
@@ -29441,6 +29505,14 @@
       "onboard_time": 1736448071,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 21797,
+      "num": 454282,
+      "word": "一粒种子从空间站留学归来",
+      "onboard_time": 1736433083,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21649,
@@ -30059,14 +30131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 15627,
-      "num": 39796,
-      "word": "特朗普发新地图将美加格陵兰岛标记统一颜色",
-      "onboard_time": 1736462293,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 15569,
       "num": 48873,
       "word": "王海大队飞行员讲述空中拼刺刀经历",
@@ -30145,14 +30209,6 @@
       "onboard_time": 1735762931,
       "rank": 49,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 14714,
-      "num": 257565,
-      "word": "一粒种子从空间站留学归来",
-      "onboard_time": 1736433083,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14695,
@@ -30537,6 +30593,14 @@
       "onboard_time": 1736020333,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11059,
+      "num": 138052,
+      "word": "肖战2024微博之夜安全倡议书",
+      "onboard_time": 1736464756,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 11020,

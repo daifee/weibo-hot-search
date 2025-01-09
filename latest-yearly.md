@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/10 06:39:28
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/10 07:22:12
 </p>
 </blockquote>
 <p>
@@ -1617,6 +1617,12 @@ Ok 咱们线上（热度：2051932）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%8D%8E%E4%BA%BA%E4%BB%A5%E4%B8%BA%E8%AF%AF%E5%85%A5%E6%9C%AB%E6%97%A5%23" target="weibo">
+洛杉矶华人以为误入末日（热度：1067765）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%20%E8%82%AF%E5%BE%B7%E5%9F%BA%23" target="weibo">
 鹿晗 肯德基（热度：1063103）
 </a>
@@ -1805,12 +1811,6 @@ R1SE合体（热度：994873）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E6%9D%8E%E8%A1%8C%E4%BA%AE%E6%B2%A1%E4%B8%8B%E8%BD%A6%23" target="weibo">
 疑似李行亮没下车（热度：987481）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E8%BF%9E%E7%BB%AD20%E5%B9%B4%E9%9B%B6%E7%82%B9%E5%8E%8B%E8%BD%B4%23" target="weibo">
-李宇春连续20年零点压轴（热度：986055）
 </a>
 </li>
 
