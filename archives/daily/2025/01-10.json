@@ -1,10 +1,10 @@
 {
   "startTime": 1736440116531,
-  "endTime": 1736464932347,
+  "endTime": 1736465742865,
   "band_list": [
     {
-      "raw_hot": 1067765,
-      "num": 1067765,
+      "raw_hot": 1199299,
+      "num": 1199299,
       "word": "洛杉矶华人以为误入末日",
       "onboard_time": 1736448793,
       "rank": 40,
@@ -25,6 +25,14 @@
       "onboard_time": 1736437221,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 768726,
+      "num": 768726,
+      "word": "2人幼儿园时假扮夫妻20年后真结婚了",
+      "onboard_time": 1736440937,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 746732,
@@ -49,14 +57,6 @@
       "onboard_time": 1736437882,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 542930,
-      "num": 542930,
-      "word": "2人幼儿园时假扮夫妻20年后真结婚了",
-      "onboard_time": 1736440937,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 505874,
@@ -89,6 +89,14 @@
       "onboard_time": 1736429123,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 416664,
+      "num": 238635,
+      "word": "辛雨锡向郭德纲道歉",
+      "onboard_time": 1736464877,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 326535,
@@ -131,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 297870,
+      "num": 297870,
+      "word": "说了20分钟对方不上当骗子气到大叫",
+      "onboard_time": 1736437580,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 264612,
       "num": 264612,
       "word": "疯狂小杨哥及三只羊被起诉",
@@ -139,12 +155,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 261495,
-      "num": 261495,
-      "word": "说了20分钟对方不上当骗子气到大叫",
-      "onboard_time": 1736437580,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 254847,
+      "num": 254847,
+      "word": "从太空看洛杉矶山火",
+      "onboard_time": 1736427083,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 242300,
@@ -163,12 +179,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 220448,
-      "num": 220448,
-      "word": "从太空看洛杉矶山火",
-      "onboard_time": 1736427083,
-      "rank": 16,
-      "category": "海外新闻"
+      "raw_hot": 231481,
+      "num": 231481,
+      "word": "疯狂开业的俄罗斯商品馆被立案调查",
+      "onboard_time": 1736451552,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 209868,
@@ -176,14 +192,6 @@
       "word": "深圳一区期末试卷太难延时20分钟",
       "onboard_time": 1736425883,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 185389,
-      "num": 185389,
-      "word": "疯狂开业的俄罗斯商品馆被立案调查",
-      "onboard_time": 1736451552,
-      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -203,14 +211,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 173904,
-      "num": 173904,
-      "word": "辛雨锡向郭德纲道歉",
-      "onboard_time": 1736464877,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 171463,
       "num": 171463,
       "word": "纯元CP",
@@ -219,20 +219,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168409,
+      "num": 168409,
+      "word": "中国高铁车厢里全是老外",
+      "onboard_time": 1736456291,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167772,
+      "num": 167772,
+      "word": "湘潭大学投毒案死者系误食麦片",
+      "onboard_time": 1736464756,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166253,
       "num": 166253,
       "word": "这不是游戏这是真实英雄的日常",
       "onboard_time": 1736421201,
       "rank": 23,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 157204,
-      "num": 157204,
-      "word": "中国高铁车厢里全是老外",
-      "onboard_time": 1736456291,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155663,
@@ -323,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119256,
+      "num": 119256,
+      "word": "俄罗斯姑娘打假上海俄罗斯商品馆",
+      "onboard_time": 1736455091,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118493,
       "num": 118493,
       "word": "美国滞留太空宇航员再发声",
@@ -379,19 +395,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105261,
+      "num": 105261,
+      "word": "白鹿857857",
+      "onboard_time": 1736464816,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103396,
       "num": 103396,
       "word": "西藏地震灾区收到了奶茶可乐",
       "onboard_time": 1736433862,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94984,
-      "num": 94984,
-      "word": "湘潭大学投毒案死者系误食麦片",
-      "onboard_time": 1736464756,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -419,14 +435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 91079,
-      "num": 91079,
-      "word": "俄罗斯姑娘打假上海俄罗斯商品馆",
-      "onboard_time": 1736455091,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90508,
       "num": 90508,
       "word": "任嘉伦直播连线",
@@ -435,12 +443,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88741,
+      "num": 88741,
+      "word": "特朗普发新地图将美加格陵兰岛标记统一颜色",
+      "onboard_time": 1736462293,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 88211,
       "num": 88211,
       "word": "芒果剧宣",
       "onboard_time": 1736427444,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87284,
+      "num": 87284,
+      "word": "宋慧乔不是能靠脸的年纪",
+      "onboard_time": 1736447952,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 87261,
@@ -459,28 +483,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85681,
+      "num": 85681,
+      "word": "苏翊鸣回应世界杯比赛排名垫底",
+      "onboard_time": 1736433442,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85152,
       "num": 85152,
       "word": "加州山火或造成570亿美元经济损失",
       "onboard_time": 1736435362,
       "rank": 47,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 84585,
-      "num": 84585,
-      "word": "宋慧乔不是能靠脸的年纪",
-      "onboard_time": 1736447952,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 82263,
-      "num": 85152,
-      "word": "苏翊鸣回应世界杯比赛排名垫底",
-      "onboard_time": 1736433442,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 77416,
@@ -491,12 +507,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 72388,
-      "num": 72388,
-      "word": "特朗普发新地图将美加格陵兰岛标记统一颜色",
-      "onboard_time": 1736462293,
-      "rank": 29,
-      "category": "国际时政"
+      "raw_hot": 67960,
+      "num": 67960,
+      "word": "王一博微博之夜人脸识别",
+      "onboard_time": 1736464816,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 66406,
@@ -515,7 +531,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 58486,
+      "raw_hot": 59102,
       "num": 70740,
       "word": "南京大屠杀幸存者艾义英奶奶走了",
       "onboard_time": 1736458211,
@@ -523,12 +539,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 57590,
-      "num": 57590,
-      "word": "白鹿857857",
-      "onboard_time": 1736464816,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 56500,
+      "num": 56500,
+      "word": "一个需穿防护服的行业却乱象丛生",
+      "onboard_time": 1736464756,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51088,
@@ -539,20 +555,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 50124,
-      "num": 50124,
-      "word": "王一博微博之夜人脸识别",
-      "onboard_time": 1736464816,
-      "rank": 47,
-      "category": "作品衍生"
+      "raw_hot": 49857,
+      "num": 49857,
+      "word": "那些高开炸走的小说",
+      "onboard_time": 1736464636,
+      "rank": 48,
+      "category": "读书作家"
     },
     {
-      "raw_hot": 50112,
-      "num": 50112,
-      "word": "一个需穿防护服的行业却乱象丛生",
-      "onboard_time": 1736464756,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 49584,
+      "num": 193260,
+      "word": "加州州长回应特朗普涉山火问题指责",
+      "onboard_time": 1736465476,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 39385,
@@ -619,6 +635,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 29015,
+      "num": 138164,
+      "word": "抗震救灾工作处在关键阶段",
+      "onboard_time": 1736464756,
+      "rank": 18,
+      "category": "国内时政,民生新闻"
+    },
+    {
       "raw_hot": 26828,
       "num": 91228,
       "word": "关注西藏定日县地震",
@@ -635,12 +659,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 25251,
-      "num": 138164,
-      "word": "抗震救灾工作处在关键阶段",
-      "onboard_time": 1736464756,
-      "rank": 18,
-      "category": "国内时政,民生新闻"
+      "raw_hot": 26246,
+      "num": 454282,
+      "word": "一粒种子从空间站留学归来",
+      "onboard_time": 1736433083,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21839,
@@ -649,14 +673,6 @@
       "onboard_time": 1736448071,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 21797,
-      "num": 454282,
-      "word": "一粒种子从空间站留学归来",
-      "onboard_time": 1736433083,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21302,
@@ -673,6 +689,14 @@
       "onboard_time": 1736447772,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 16816,
+      "num": 167819,
+      "word": "肖战2024微博之夜安全倡议书",
+      "onboard_time": 1736464756,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 16815,
@@ -713,14 +737,6 @@
       "onboard_time": 1736446633,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 11059,
-      "num": 138052,
-      "word": "肖战2024微博之夜安全倡议书",
-      "onboard_time": 1736464756,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 9383,
