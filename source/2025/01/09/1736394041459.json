@@ -1,0 +1,410 @@
+{
+  "runTime": 1736394041459,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1868299,
+        "num": 1868299,
+        "word": "女生素颜艺考被擦妆5次",
+        "onboard_time": 1736391740,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 979069,
+        "num": 979069,
+        "word": "全国174位星星被困缅甸联合求救文档",
+        "onboard_time": 1736383102,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77812,
+        "num": 711776,
+        "word": "三九来了冷冷冷冷模式开启",
+        "onboard_time": 1736391140,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 631741,
+        "num": 631741,
+        "word": "月子中心跑路宝妈哭求月嫂留下",
+        "onboard_time": 1736391140,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 601117,
+        "num": 601117,
+        "word": "B站拿下春晚转播权",
+        "onboard_time": 1736392042,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 524304,
+        "num": 524304,
+        "word": "将女友装行李箱带进宿舍张兴亮被禁赛",
+        "onboard_time": 1736360473,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 458199,
+        "num": 458199,
+        "word": "美国洛杉矶山火完全失控",
+        "onboard_time": 1736391681,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 398780,
+        "num": 398780,
+        "word": "湖南科技大学刘俊杰",
+        "onboard_time": 1736384721,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322313,
+        "num": 396137,
+        "word": "微博之夜最终轮",
+        "onboard_time": 1736383102,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 296366,
+        "num": 388796,
+        "word": "于正说白鹿的剧都是单扛",
+        "onboard_time": 1736385141,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1087682,
+        "num": 386578,
+        "word": "刘亦菲被挤到的表情",
+        "onboard_time": 1736392161,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238372,
+        "num": 381406,
+        "word": "南京胖哥宣布妻子再次怀孕",
+        "onboard_time": 1736391681,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 681127,
+        "num": 374904,
+        "word": "王星到园区第一天就挨了打",
+        "onboard_time": 1736340143,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484723,
+        "num": 369425,
+        "word": "赵樱子说刘学义暗恋过她",
+        "onboard_time": 1736383522,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247557,
+        "num": 363788,
+        "word": "一场跨国骗局何以5天告破",
+        "onboard_time": 1736392461,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360755,
+        "num": 360755,
+        "word": "当年明月",
+        "onboard_time": 1736387181,
+        "rank": 15,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 260961,
+        "num": 329959,
+        "word": "李现几个镜头就让风流倜傥有了实感",
+        "onboard_time": 1736392340,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212623,
+        "num": 325877,
+        "word": "异人之下",
+        "onboard_time": 1736393182,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325137,
+        "num": 325137,
+        "word": "上海通报俄罗斯商品馆检查情况",
+        "onboard_time": 1736392699,
+        "rank": 18,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 82683,
+        "num": 323731,
+        "word": "澳网单打正赛抽签",
+        "onboard_time": 1736393000,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 659406,
+        "num": 323560,
+        "word": "王星称在缅甸吃不饱没时间如厕",
+        "onboard_time": 1736349323,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456097,
+        "num": 323460,
+        "word": "赵樱子自曝曾对成毅因戏生情",
+        "onboard_time": 1736383278,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323145,
+        "num": 323145,
+        "word": "张雪峰霸气谈女儿就业",
+        "onboard_time": 1736384001,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 171377,
+        "num": 322402,
+        "word": "62岁老戏骨吴连生突然去世",
+        "onboard_time": 1736384121,
+        "rank": 23,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 30222,
+        "num": 322343,
+        "word": "西施雪镜奇遇皮肤",
+        "onboard_time": 1736393601,
+        "rank": 24,
+        "category": "剧集,游戏"
+      },
+      {
+        "raw_hot": 322339,
+        "num": 322339,
+        "word": "星星女友说终于冲破阴霾拨云见日",
+        "onboard_time": 1736387420,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273092,
+        "num": 273092,
+        "word": "泰国颁布紧急法令打击网络诈骗",
+        "onboard_time": 1736383041,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135175,
+        "num": 269037,
+        "word": "国色芳华首日云合数据",
+        "onboard_time": 1736392760,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132664,
+        "num": 266472,
+        "word": "王力宏巡回演唱会官宣南昌站",
+        "onboard_time": 1736393720,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35058,
+        "num": 265575,
+        "word": "你一般哪一天回家过年",
+        "onboard_time": 1736393119,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265482,
+        "num": 265482,
+        "word": "刘强东同村人领到红包并不需要交税",
+        "onboard_time": 1736391799,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 224077,
+        "num": 224077,
+        "word": "小猫突然出现按下辞职报告发送键",
+        "onboard_time": 1736383942,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214486,
+        "num": 214486,
+        "word": "王者荣耀甄姬",
+        "onboard_time": 1736383041,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 205505,
+        "num": 205505,
+        "word": "甄姬冰雪奇缘特效",
+        "onboard_time": 1736392220,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178492,
+        "num": 178492,
+        "word": "174名家属填写缅甸被困人员信息文档",
+        "onboard_time": 1736351719,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157081,
+        "num": 157081,
+        "word": "00后P人在路边办派对",
+        "onboard_time": 1736393662,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155594,
+        "num": 155594,
+        "word": "中国AI人才缺口将达到400万",
+        "onboard_time": 1736383880,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142619,
+        "num": 142619,
+        "word": "加州南部火灾已致至少5人死亡",
+        "onboard_time": 1736393119,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 138480,
+        "num": 138480,
+        "word": "被颜十六骗去泰国的灯光师还没回来",
+        "onboard_time": 1736352382,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136595,
+        "num": 136595,
+        "word": "2025双鱼座人生大逆转",
+        "onboard_time": 1736384599,
+        "rank": 39,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 133604,
+        "num": 133604,
+        "word": "家属讲述模特杨泽琪失联细节",
+        "onboard_time": 1736393420,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129391,
+        "num": 129391,
+        "word": "美国加州南部山火已致多人死亡",
+        "onboard_time": 1736388199,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 128429,
+        "num": 128429,
+        "word": "王暖暖建议去泰国玩不要去偏远地区",
+        "onboard_time": 1736393300,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126547,
+        "num": 126547,
+        "word": "马龙樊振东王楚钦参加微博之夜",
+        "onboard_time": 1736379076,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124119,
+        "num": 124119,
+        "word": "上海排查47家俄罗斯商品馆",
+        "onboard_time": 1736393840,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122106,
+        "num": 122106,
+        "word": "布林肯批特朗普涉格陵兰岛言论不切实际",
+        "onboard_time": 1736389100,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121357,
+        "num": 121357,
+        "word": "经纪人称骗子选角眼光很专业",
+        "onboard_time": 1736384361,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118438,
+        "num": 118438,
+        "word": "情侣洗完澡双双中毒房东称晕堂",
+        "onboard_time": 1736350223,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117956,
+        "num": 117956,
+        "word": "国色芳华白月梵星首日云合",
+        "onboard_time": 1736384001,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 6804,
+        "num": 117824,
+        "word": "什么是真正的舒适",
+        "onboard_time": 1736393961,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届中央纪委四次全会公报来了#"
+    }
+  }
+}

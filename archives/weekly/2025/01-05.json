@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736393185621,
+  "endTime": 1736394041459,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -547,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1868299,
+      "num": 1868299,
+      "word": "女生素颜艺考被擦妆5次",
+      "onboard_time": 1736391740,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1857607,
       "num": 1096192,
       "word": "手机购新补贴方案来了",
@@ -617,14 +625,6 @@
       "onboard_time": 1736145021,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1730095,
-      "num": 1730095,
-      "word": "女生素颜艺考被擦妆5次",
-      "onboard_time": 1736391740,
-      "rank": 0,
-      "category": "教育"
     },
     {
       "raw_hot": 1720147,
@@ -1059,6 +1059,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1087682,
+      "num": 386578,
+      "word": "刘亦菲被挤到的表情",
+      "onboard_time": 1736392161,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1085045,
       "num": 222052,
       "word": "明朝那些事儿",
@@ -1337,14 +1345,6 @@
       "onboard_time": 1736302821,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 885623,
-      "num": 332678,
-      "word": "刘亦菲被挤到的表情",
-      "onboard_time": 1736392161,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 880817,
@@ -2035,6 +2035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 631741,
+      "num": 631741,
+      "word": "月子中心跑路宝妈哭求月嫂留下",
+      "onboard_time": 1736391140,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 629359,
       "num": 538740,
       "word": "虞书欣 走你",
@@ -2091,14 +2099,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 614851,
-      "num": 614851,
-      "word": "月子中心跑路宝妈哭求月嫂留下",
-      "onboard_time": 1736391140,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 614210,
       "num": 540433,
       "word": "张碧晨夹在虞书欣丁禹兮中间",
@@ -2137,6 +2137,14 @@
       "onboard_time": 1736343262,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 601117,
+      "num": 601117,
+      "word": "B站拿下春晚转播权",
+      "onboard_time": 1736392042,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 600603,
@@ -2777,6 +2785,14 @@
       "onboard_time": 1736172683,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 458199,
+      "num": 458199,
+      "word": "美国洛杉矶山火完全失控",
+      "onboard_time": 1736391681,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 455084,
@@ -3828,7 +3844,7 @@
     },
     {
       "raw_hot": 332722,
-      "num": 332722,
+      "num": 388796,
       "word": "于正说白鹿的剧都是单扛",
       "onboard_time": 1736385141,
       "rank": 22,
@@ -3849,14 +3865,6 @@
       "onboard_time": 1736160503,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 332378,
-      "num": 332378,
-      "word": "B站拿下春晚转播权",
-      "onboard_time": 1736392042,
-      "rank": 24,
-      "category": "互联网"
     },
     {
       "raw_hot": 332293,
@@ -3971,12 +3979,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 325137,
+      "num": 332501,
+      "word": "上海通报俄罗斯商品馆检查情况",
+      "onboard_time": 1736392699,
+      "rank": 18,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 324541,
       "num": 333381,
       "word": "鱼 我妈都没你了解我",
       "onboard_time": 1736138728,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 322313,
+      "num": 396137,
+      "word": "微博之夜最终轮",
+      "onboard_time": 1736383102,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 321828,
@@ -4115,14 +4139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 311580,
-      "num": 332701,
-      "word": "美国洛杉矶山火完全失控",
-      "onboard_time": 1736391681,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 310198,
       "num": 664701,
       "word": "上海一餐厅爆火晚10点后满眼韩国人",
@@ -4177,14 +4193,6 @@
       "onboard_time": 1736060606,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 303843,
-      "num": 332721,
-      "word": "微博之夜最终轮",
-      "onboard_time": 1736383102,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 303309,
@@ -4843,6 +4851,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 260961,
+      "num": 332568,
+      "word": "李现几个镜头就让风流倜傥有了实感",
+      "onboard_time": 1736392340,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 260258,
       "num": 260258,
       "word": "微博之夜阵容官宣",
@@ -5099,6 +5115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 247557,
+      "num": 363788,
+      "word": "一场跨国骗局何以5天告破",
+      "onboard_time": 1736392461,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 246963,
       "num": 246963,
       "word": "胖东来员工平均月收入超9000元",
@@ -5255,6 +5279,14 @@
       "num": 239000,
       "word": "90岁网红奶奶去世",
       "onboard_time": 1736123001,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 238372,
+      "num": 381406,
+      "word": "南京胖哥宣布妻子再次怀孕",
+      "onboard_time": 1736391681,
       "rank": 33,
       "category": "民生新闻"
     },
@@ -5907,6 +5939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212623,
+      "num": 325877,
+      "word": "异人之下",
+      "onboard_time": 1736393182,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212558,
       "num": 212558,
       "word": "李现给自己嗑返祖了",
@@ -6011,28 +6051,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 209535,
-      "num": 209535,
-      "word": "南京胖哥宣布妻子再次怀孕",
-      "onboard_time": 1736391681,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 209021,
       "num": 209021,
       "word": "天津市考成绩",
       "onboard_time": 1736212460,
       "rank": 22,
       "category": "教育"
-    },
-    {
-      "raw_hot": 209014,
-      "num": 332568,
-      "word": "李现几个镜头就让风流倜傥有了实感",
-      "onboard_time": 1736392340,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 208826,
@@ -6209,6 +6233,14 @@
       "onboard_time": 1736210961,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205505,
+      "num": 205505,
+      "word": "甄姬冰雪奇缘特效",
+      "onboard_time": 1736392220,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 205212,
@@ -7523,14 +7555,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 169474,
-      "num": 169474,
-      "word": "甄姬冰雪奇缘特效",
-      "onboard_time": 1736392220,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 168972,
       "num": 262266,
       "word": "经纪人称骗子选角眼光很专业",
@@ -8081,6 +8105,14 @@
       "onboard_time": 1736060126,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157081,
+      "num": 157081,
+      "word": "00后P人在路边办派对",
+      "onboard_time": 1736393662,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 156968,
@@ -8675,6 +8707,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 142619,
+      "num": 142619,
+      "word": "加州南部火灾已致至少5人死亡",
+      "onboard_time": 1736393119,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 142572,
       "num": 176240,
       "word": "杨砚也该上桌了",
@@ -9027,6 +9067,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 135175,
+      "num": 272297,
+      "word": "国色芳华首日云合数据",
+      "onboard_time": 1736392760,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134932,
       "num": 134932,
       "word": "90岁工程院院士王正国逝世",
@@ -9107,6 +9155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133604,
+      "num": 133604,
+      "word": "家属讲述模特杨泽琪失联细节",
+      "onboard_time": 1736393420,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133292,
       "num": 228444,
       "word": "庄智渊王歆茹退出WTT世排",
@@ -9155,6 +9211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 132664,
+      "num": 266472,
+      "word": "王力宏巡回演唱会官宣南昌站",
+      "onboard_time": 1736393720,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 132597,
       "num": 132597,
       "word": "陈都灵黑散发红袍造型",
@@ -9185,14 +9249,6 @@
       "onboard_time": 1736068885,
       "rank": 18,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 131044,
-      "num": 272297,
-      "word": "国色芳华首日云合数据",
-      "onboard_time": 1736392760,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 130898,
@@ -9345,6 +9401,14 @@
       "onboard_time": 1736321421,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128429,
+      "num": 128429,
+      "word": "王暖暖建议去泰国玩不要去偏远地区",
+      "onboard_time": 1736393300,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128395,
@@ -9523,6 +9587,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 124119,
+      "num": 124119,
+      "word": "上海排查47家俄罗斯商品馆",
+      "onboard_time": 1736393840,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124020,
       "num": 124020,
       "word": "瞒着家里人假装上班是什么体验",
@@ -9609,6 +9681,14 @@
       "onboard_time": 1736124921,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 122106,
+      "num": 122106,
+      "word": "布林肯批特朗普涉格陵兰岛言论不切实际",
+      "onboard_time": 1736389100,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 121642,
@@ -9969,14 +10049,6 @@
       "onboard_time": 1735987042,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 115564,
-      "num": 115564,
-      "word": "加州南部火灾已致至少5人死亡",
-      "onboard_time": 1736393119,
-      "rank": 45,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 115452,
@@ -10939,14 +11011,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 91055,
-      "num": 332501,
-      "word": "上海通报俄罗斯商品馆检查情况",
-      "onboard_time": 1736392699,
-      "rank": 18,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 90696,
       "num": 4247810,
       "word": "用古画画风打开小寒节气",
@@ -11057,14 +11121,6 @@
       "onboard_time": 1736388079,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 87241,
-      "num": 332591,
-      "word": "一场跨国骗局何以5天告破",
-      "onboard_time": 1736392461,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87190,
@@ -11443,6 +11499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77812,
+      "num": 711776,
+      "word": "三九来了冷冷冷冷模式开启",
+      "onboard_time": 1736391140,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77420,
       "num": 108307,
       "word": "缴过社保也能算应届毕业生",
@@ -11473,14 +11537,6 @@
       "onboard_time": 1736294058,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 76807,
-      "num": 76807,
-      "word": "布林肯批特朗普涉格陵兰岛言论不切实际",
-      "onboard_time": 1736389100,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 76322,
@@ -11673,14 +11729,6 @@
       "onboard_time": 1736227763,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 70327,
-      "num": 657169,
-      "word": "三九来了冷冷冷冷模式开启",
-      "onboard_time": 1736391140,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 70216,
@@ -12923,6 +12971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35058,
+      "num": 265575,
+      "word": "你一般哪一天回家过年",
+      "onboard_time": 1736393119,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 34957,
       "num": 235436,
       "word": "感冒要不要吃消炎药",
@@ -13123,6 +13179,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 30222,
+      "num": 322343,
+      "word": "西施雪镜奇遇皮肤",
+      "onboard_time": 1736393601,
+      "rank": 24,
+      "category": "剧集,游戏"
+    },
+    {
       "raw_hot": 30178,
       "num": 30178,
       "word": "林俊杰 期待与大家共创FINALLAP最独特的回忆",
@@ -13217,14 +13281,6 @@
       "onboard_time": 1736024412,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 27443,
-      "num": 111263,
-      "word": "你一般哪一天回家过年",
-      "onboard_time": 1736393119,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 27313,
@@ -13937,6 +13993,14 @@
       "onboard_time": 1736360533,
       "rank": 39,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 6804,
+      "num": 117824,
+      "word": "什么是真正的舒适",
+      "onboard_time": 1736393961,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 6750,

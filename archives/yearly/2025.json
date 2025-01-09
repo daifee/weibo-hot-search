@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736393185621,
+  "endTime": 1736394041459,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -827,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1868299,
+      "num": 1868299,
+      "word": "女生素颜艺考被擦妆5次",
+      "onboard_time": 1736391740,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1862422,
       "num": 1862422,
       "word": "小米SU7侧翻起火十余路人抬车救人",
@@ -985,14 +993,6 @@
       "onboard_time": 1735870699,
       "rank": 1,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1730095,
-      "num": 1730095,
-      "word": "女生素颜艺考被擦妆5次",
-      "onboard_time": 1736391740,
-      "rank": 0,
-      "category": "教育"
     },
     {
       "raw_hot": 1723920,
@@ -1947,6 +1947,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1087682,
+      "num": 386578,
+      "word": "刘亦菲被挤到的表情",
+      "onboard_time": 1736392161,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1086217,
       "num": 1086217,
       "word": "新年红包",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735969941,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 931934,
-      "num": 1149109,
-      "word": "半亩花田 孙颖莎",
-      "onboard_time": 1735704621,
-      "rank": 22,
-      "category": "美妆,体育"
     }
   ],
   "hotgov_list": [
