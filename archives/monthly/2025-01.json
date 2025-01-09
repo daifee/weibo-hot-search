@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736396812775,
+  "endTime": 1736397654050,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -723,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1950493,
+      "num": 1950493,
+      "word": "女生素颜艺考被擦妆5次",
+      "onboard_time": 1736391740,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1948787,
       "num": 588770,
       "word": "12306崩了",
@@ -745,14 +753,6 @@
       "onboard_time": 1736229564,
       "rank": 17,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1920219,
-      "num": 1920219,
-      "word": "女生素颜艺考被擦妆5次",
-      "onboard_time": 1736391740,
-      "rank": 0,
-      "category": "教育"
     },
     {
       "raw_hot": 1913114,
@@ -1329,6 +1329,14 @@
       "onboard_time": 1736217379,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1399499,
+      "num": 1399499,
+      "word": "黄圣依没下车",
+      "onboard_time": 1736396663,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 1396034,
@@ -1948,7 +1956,7 @@
     },
     {
       "raw_hot": 1087682,
-      "num": 613065,
+      "num": 821490,
       "word": "刘亦菲被挤到的表情",
       "onboard_time": 1736392161,
       "rank": 10,
@@ -2024,6 +2032,14 @@
       "word": "抓捕患艾滋嫌犯流血民警hiv检测阴性",
       "onboard_time": 1736324783,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1062035,
+      "num": 1062035,
+      "word": "泰警方称将确保中国人不被贩至他国",
+      "onboard_time": 1736394381,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -2259,6 +2275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 984429,
+      "num": 984429,
+      "word": "再见爱人",
+      "onboard_time": 1735793243,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 981982,
       "num": 335727,
       "word": "芒果影视台 真干不了退圈不就行",
@@ -2369,6 +2393,14 @@
       "onboard_time": 1735831580,
       "rank": 31,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 948378,
+      "num": 877957,
+      "word": "再见爱人4大结局",
+      "onboard_time": 1736396602,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 944114,
@@ -2545,6 +2577,14 @@
       "onboard_time": 1736313145,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 888040,
+      "num": 888040,
+      "word": "美国洛杉矶山火完全失控",
+      "onboard_time": 1736391681,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 886676,
@@ -2771,14 +2811,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 828405,
-      "num": 828405,
-      "word": "美国洛杉矶山火完全失控",
-      "onboard_time": 1736391681,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 827508,
       "num": 827508,
       "word": "RTX5090",
@@ -2809,6 +2841,14 @@
       "onboard_time": 1736245463,
       "rank": 16,
       "category": "突发/灾害,艺人"
+    },
+    {
+      "raw_hot": 825759,
+      "num": 825759,
+      "word": "B站拿下春晚转播权",
+      "onboard_time": 1736392042,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 825741,
@@ -2873,6 +2913,14 @@
       "onboard_time": 1735844712,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 818458,
+      "num": 818458,
+      "word": "韩国人顺产头",
+      "onboard_time": 1736395401,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 818308,
@@ -3116,7 +3164,7 @@
     },
     {
       "raw_hot": 771789,
-      "num": 357280,
+      "num": 383644,
       "word": "赵樱子自曝曾对成毅因戏生情",
       "onboard_time": 1736383278,
       "rank": 15,
@@ -3315,14 +3363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 734434,
-      "num": 734434,
-      "word": "B站拿下春晚转播权",
-      "onboard_time": 1736392042,
-      "rank": 24,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 733892,
       "num": 471681,
       "word": "迪丽热巴突然出现拍了拍大家",
@@ -3379,12 +3419,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 720890,
-      "num": 720890,
-      "word": "泰警方称将确保中国人不被贩至他国",
-      "onboard_time": 1736394381,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 723010,
+      "num": 723010,
+      "word": "夏志远醉酒直播骂老婆",
+      "onboard_time": 1736395101,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 719060,
@@ -4011,14 +4051,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 620948,
-      "num": 620948,
-      "word": "再见爱人",
-      "onboard_time": 1735793243,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 620665,
       "num": 620665,
       "word": "101注共5.31亿巨奖出自同一站点",
@@ -4057,14 +4089,6 @@
       "onboard_time": 1735729702,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 609623,
-      "num": 609623,
-      "word": "夏志远醉酒直播骂老婆",
-      "onboard_time": 1736395101,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 607138,
@@ -4457,6 +4481,14 @@
       "onboard_time": 1735867400,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 563188,
+      "num": 563188,
+      "word": "麦琳李行亮都下车了",
+      "onboard_time": 1736397023,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 561486,
@@ -5427,14 +5459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 465336,
-      "num": 465336,
-      "word": "韩国人顺产头",
-      "onboard_time": 1736395401,
-      "rank": 14,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 465276,
       "num": 465276,
       "word": "赞达亚荷兰弟订婚",
@@ -5651,6 +5675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 449696,
+      "num": 449696,
+      "word": "孟子义李昀锐或将合体录制桃花坞",
+      "onboard_time": 1736394980,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 448843,
       "num": 448843,
       "word": "四川拟取消应届生身份限制",
@@ -5681,14 +5713,6 @@
       "onboard_time": 1736169023,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 447512,
-      "num": 447512,
-      "word": "孟子义李昀锐或将合体录制桃花坞",
-      "onboard_time": 1736394980,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 446806,
@@ -6353,6 +6377,14 @@
       "onboard_time": 1735814779,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 400249,
+      "num": 400249,
+      "word": "葛夕没下车",
+      "onboard_time": 1736397143,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 399958,
@@ -9211,6 +9243,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 273270,
+      "num": 821863,
+      "word": "17岁双胞胎学泡茶被质疑获父母支持",
+      "onboard_time": 1736394801,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 273036,
       "num": 273036,
       "word": "常华森好帅",
@@ -9697,14 +9737,6 @@
       "onboard_time": 1736229089,
       "rank": 32,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 255599,
-      "num": 255599,
-      "word": "再见爱人4大结局",
-      "onboard_time": 1736396602,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 255530,
@@ -10315,14 +10347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 240318,
-      "num": 240318,
-      "word": "黄圣依没下车",
-      "onboard_time": 1736396663,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 240080,
       "num": 487535,
       "word": "地图全景还原西藏定日县6.8级地震",
@@ -10625,14 +10649,6 @@
       "onboard_time": 1735902141,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 230869,
-      "num": 424533,
-      "word": "17岁双胞胎学泡茶被质疑获父母支持",
-      "onboard_time": 1736394801,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 230697,
@@ -11617,6 +11633,14 @@
       "onboard_time": 1735796242,
       "rank": 23,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 212071,
+      "num": 212071,
+      "word": "光与夜之恋",
+      "onboard_time": 1735670895,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 212050,
@@ -13387,6 +13411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192085,
+      "num": 192085,
+      "word": "澳网郑钦文萨巴伦卡同区",
+      "onboard_time": 1736395821,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192011,
       "num": 305439,
       "word": "杨幂捐赠驰援灾区",
@@ -13705,14 +13737,6 @@
       "onboard_time": 1736307562,
       "rank": 33,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 188517,
-      "num": 188517,
-      "word": "澳网郑钦文萨巴伦卡同区",
-      "onboard_time": 1736395821,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 188430,
@@ -17267,6 +17291,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 148870,
+      "num": 148870,
+      "word": "泰缅边境失联模特经历与王星相似",
+      "onboard_time": 1736397443,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148847,
       "num": 148847,
       "word": "国色芳华预约量破500万",
@@ -17577,6 +17609,14 @@
       "onboard_time": 1736307982,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146238,
+      "num": 146238,
+      "word": "一上车以为自己出国了",
+      "onboard_time": 1736397624,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146117,
@@ -20860,7 +20900,7 @@
     },
     {
       "raw_hot": 111319,
-      "num": 111319,
+      "num": 387121,
       "word": "NBA榜一大哥之战",
       "onboard_time": 1736391981,
       "rank": 46,
@@ -21892,7 +21932,7 @@
     },
     {
       "raw_hot": 95973,
-      "num": 858756,
+      "num": 1197130,
       "word": "三九来了冷冷冷冷模式开启",
       "onboard_time": 1736391140,
       "rank": 2,
@@ -21945,14 +21985,6 @@
       "onboard_time": 1736216600,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 95339,
-      "num": 95339,
-      "word": "光与夜之恋",
-      "onboard_time": 1735670895,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 95268,
@@ -23323,6 +23355,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 71139,
+      "num": 192106,
+      "word": "燕云十六声回应五谷不分",
+      "onboard_time": 1736394922,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 70829,
       "num": 226057,
       "word": "今天致敬日夜坚守的戍边战士",
@@ -24107,6 +24147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57116,
+      "num": 488437,
+      "word": "蛟龙行动首支制作特辑",
+      "onboard_time": 1736396543,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 57056,
       "num": 93713,
       "word": "地震瞬间21名幼师疏散200名孩子",
@@ -24297,6 +24345,14 @@
       "onboard_time": 1735716560,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54010,
+      "num": 256605,
+      "word": "春节档电影驰援西藏",
+      "onboard_time": 1736396362,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 53953,
@@ -25203,14 +25259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 41395,
-      "num": 431986,
-      "word": "蛟龙行动首支制作特辑",
-      "onboard_time": 1736396543,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 41086,
       "num": 342794,
       "word": "陈梦现身厦门马拉松现场",
@@ -25409,6 +25457,14 @@
       "onboard_time": 1736393119,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 38708,
+      "num": 480163,
+      "word": "律师解读猫贷合同为何被法律保护",
+      "onboard_time": 1736396423,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38641,
@@ -25617,14 +25673,6 @@
       "onboard_time": 1735795703,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 36238,
-      "num": 240336,
-      "word": "春节档电影驰援西藏",
-      "onboard_time": 1736396362,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 35969,
@@ -26571,8 +26619,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 27124,
-      "num": 426976,
+      "raw_hot": 27190,
+      "num": 477489,
       "word": "什么是真正的舒适",
       "onboard_time": 1736393961,
       "rank": 49,
@@ -26920,14 +26968,6 @@
       "word": "京津冀联动跨年",
       "onboard_time": 1735684513,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21619,
-      "num": 435767,
-      "word": "律师解读猫贷合同为何被法律保护",
-      "onboard_time": 1736396423,
-      "rank": 17,
       "category": "民生新闻"
     },
     {

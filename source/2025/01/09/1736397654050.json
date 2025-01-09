@@ -1,0 +1,410 @@
+{
+  "runTime": 1736397654050,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1950493,
+        "num": 1950493,
+        "word": "女生素颜艺考被擦妆5次",
+        "onboard_time": 1736391740,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1399499,
+        "num": 1399499,
+        "word": "黄圣依没下车",
+        "onboard_time": 1736396663,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83321,
+        "num": 1197130,
+        "word": "三九来了冷冷冷冷模式开启",
+        "onboard_time": 1736391140,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1062035,
+        "num": 1062035,
+        "word": "泰警方称将确保中国人不被贩至他国",
+        "onboard_time": 1736394381,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 984429,
+        "num": 984429,
+        "word": "再见爱人",
+        "onboard_time": 1736394622,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 888040,
+        "num": 888040,
+        "word": "美国洛杉矶山火完全失控",
+        "onboard_time": 1736391681,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 948378,
+        "num": 877957,
+        "word": "再见爱人4大结局",
+        "onboard_time": 1736396602,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 865337,
+        "num": 865337,
+        "word": "全国174位星星被困缅甸联合求救文档",
+        "onboard_time": 1736383102,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 825759,
+        "num": 825759,
+        "word": "B站拿下春晚转播权",
+        "onboard_time": 1736392042,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 273270,
+        "num": 821863,
+        "word": "17岁双胞胎学泡茶被质疑获父母支持",
+        "onboard_time": 1736394801,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 890074,
+        "num": 821490,
+        "word": "刘亦菲被挤到的表情",
+        "onboard_time": 1736392161,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 818458,
+        "num": 818458,
+        "word": "韩国人顺产头",
+        "onboard_time": 1736395401,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 723010,
+        "num": 723010,
+        "word": "夏志远醉酒直播骂老婆",
+        "onboard_time": 1736395101,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 575615,
+        "num": 575615,
+        "word": "上海通报俄罗斯商品馆检查情况",
+        "onboard_time": 1736392699,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 563188,
+        "num": 563188,
+        "word": "麦琳李行亮都下车了",
+        "onboard_time": 1736397023,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 540729,
+        "num": 540729,
+        "word": "南京胖哥宣布妻子再次怀孕",
+        "onboard_time": 1736391681,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 520120,
+        "num": 520120,
+        "word": "王星到园区第一天就挨了打",
+        "onboard_time": 1736340143,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57116,
+        "num": 488437,
+        "word": "蛟龙行动首支制作特辑",
+        "onboard_time": 1736396543,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38708,
+        "num": 480163,
+        "word": "律师解读猫贷合同为何被法律保护",
+        "onboard_time": 1736396423,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27190,
+        "num": 477489,
+        "word": "什么是真正的舒适",
+        "onboard_time": 1736393961,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 475738,
+        "num": 475738,
+        "word": "异人之下",
+        "onboard_time": 1736393182,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 465891,
+        "num": 465891,
+        "word": "月子中心跑路宝妈哭求月嫂留下",
+        "onboard_time": 1736391140,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 449696,
+        "num": 449696,
+        "word": "孟子义李昀锐或将合体录制桃花坞",
+        "onboard_time": 1736394980,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400249,
+        "num": 400249,
+        "word": "葛夕没下车",
+        "onboard_time": 1736397143,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79252,
+        "num": 387121,
+        "word": "NBA榜一大哥之战",
+        "onboard_time": 1736391981,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 386070,
+        "num": 386070,
+        "word": "微博之夜最终轮",
+        "onboard_time": 1736383102,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 383644,
+        "num": 383644,
+        "word": "赵樱子自曝曾对成毅因戏生情",
+        "onboard_time": 1736383278,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363371,
+        "num": 363371,
+        "word": "王星称在缅甸吃不饱没时间如厕",
+        "onboard_time": 1736349323,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355782,
+        "num": 355782,
+        "word": "将女友装行李箱带进宿舍张兴亮被禁赛",
+        "onboard_time": 1736360473,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54010,
+        "num": 256605,
+        "word": "春节档电影驰援西藏",
+        "onboard_time": 1736396362,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 256117,
+        "num": 256117,
+        "word": "刘强东同村人领到红包并不需要交税",
+        "onboard_time": 1736391799,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 363517,
+        "num": 240686,
+        "word": "赵樱子说刘学义暗恋过她",
+        "onboard_time": 1736383522,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220875,
+        "num": 220875,
+        "word": "锦囊妙录定档",
+        "onboard_time": 1736394741,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219010,
+        "num": 219010,
+        "word": "小猫突然出现按下辞职报告发送键",
+        "onboard_time": 1736383942,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218100,
+        "num": 218100,
+        "word": "174名家属填写缅甸被困人员信息文档",
+        "onboard_time": 1736351719,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212071,
+        "num": 212071,
+        "word": "光与夜之恋",
+        "onboard_time": 1736396843,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 211939,
+        "num": 211939,
+        "word": "当年明月",
+        "onboard_time": 1736387181,
+        "rank": 36,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 198556,
+        "num": 198556,
+        "word": "无限暖暖",
+        "onboard_time": 1736395583,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194505,
+        "num": 194505,
+        "word": "湖南科技大学刘俊杰",
+        "onboard_time": 1736384721,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71139,
+        "num": 192106,
+        "word": "燕云十六声回应五谷不分",
+        "onboard_time": 1736394922,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192085,
+        "num": 192085,
+        "word": "澳网郑钦文萨巴伦卡同区",
+        "onboard_time": 1736395821,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184744,
+        "num": 184744,
+        "word": "白月梵星",
+        "onboard_time": 1736396963,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180646,
+        "num": 180646,
+        "word": "李现几个镜头就让风流倜傥有了实感",
+        "onboard_time": 1736392340,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177837,
+        "num": 177837,
+        "word": "王暖暖建议去泰国玩不要去偏远地区",
+        "onboard_time": 1736393300,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171412,
+        "num": 171412,
+        "word": "王者荣耀甄姬",
+        "onboard_time": 1736383041,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 156498,
+        "num": 156498,
+        "word": "一场跨国骗局何以5天告破",
+        "onboard_time": 1736392461,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153730,
+        "num": 153730,
+        "word": "泰国颁布紧急法令打击网络诈骗",
+        "onboard_time": 1736383041,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148870,
+        "num": 148870,
+        "word": "泰缅边境失联模特经历与王星相似",
+        "onboard_time": 1736397443,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146238,
+        "num": 146238,
+        "word": "一上车以为自己出国了",
+        "onboard_time": 1736397624,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145849,
+        "num": 145849,
+        "word": "2025欢欢喜喜过非遗年",
+        "onboard_time": 1736396423,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届中央纪委四次全会公报来了#"
+    }
+  }
+}

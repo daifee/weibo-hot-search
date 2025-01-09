@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736396812775,
+  "endTime": 1736397654050,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -723,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1950493,
+      "num": 1950493,
+      "word": "女生素颜艺考被擦妆5次",
+      "onboard_time": 1736391740,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1948787,
       "num": 588770,
       "word": "12306崩了",
@@ -745,14 +753,6 @@
       "onboard_time": 1736229564,
       "rank": 17,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1920219,
-      "num": 1920219,
-      "word": "女生素颜艺考被擦妆5次",
-      "onboard_time": 1736391740,
-      "rank": 0,
-      "category": "教育"
     },
     {
       "raw_hot": 1913114,
@@ -1329,6 +1329,14 @@
       "onboard_time": 1736217379,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1399499,
+      "num": 1399499,
+      "word": "黄圣依没下车",
+      "onboard_time": 1736396663,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 1396034,
@@ -1948,7 +1956,7 @@
     },
     {
       "raw_hot": 1087682,
-      "num": 613065,
+      "num": 821490,
       "word": "刘亦菲被挤到的表情",
       "onboard_time": 1736392161,
       "rank": 10,
@@ -2024,6 +2032,14 @@
       "word": "抓捕患艾滋嫌犯流血民警hiv检测阴性",
       "onboard_time": 1736324783,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1062035,
+      "num": 1062035,
+      "word": "泰警方称将确保中国人不被贩至他国",
+      "onboard_time": 1736394381,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -2259,6 +2275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 984429,
+      "num": 984429,
+      "word": "再见爱人",
+      "onboard_time": 1735793243,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 981982,
       "num": 335727,
       "word": "芒果影视台 真干不了退圈不就行",
@@ -2371,35 +2395,11 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 944114,
-      "num": 944114,
-      "word": "四川地震",
-      "onboard_time": 1736236762,
-      "rank": 5,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 942900,
-      "num": 704506,
-      "word": "30岁博士生杜梅病逝遗书让人泪目",
-      "onboard_time": 1736075787,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 938605,
-      "num": 1150176,
-      "word": "医生称森碟下巴后缩或影响口腔功能",
-      "onboard_time": 1735916900,
-      "rank": 9,
-      "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 936727,
-      "num": 546923,
-      "word": "金靖产后首现身",
-      "onboard_time": 1735969941,
-      "rank": 6,
+      "raw_hot": 948378,
+      "num": 877957,
+      "word": "再见爱人4大结局",
+      "onboard_time": 1736396602,
+      "rank": 27,
       "category": "综艺"
     }
   ],
