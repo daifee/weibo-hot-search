@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/10 00:28:36
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/10 00:44:04
 </p>
 </blockquote>
 <p>
@@ -2199,6 +2199,12 @@ R1SE舞台（热度：868936）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2318%E5%B2%81%E5%B0%8F%E4%BC%99%E5%9A%BC%E6%A7%9F%E6%A6%948%E5%B9%B4%E8%84%B8%E6%96%B9%E6%88%90%E7%94%B5%E8%A7%86%E6%9C%BA%23" target="weibo">
+18岁小伙嚼槟榔8年脸方成电视机（热度：851405）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%20%E6%88%91%E7%8E%B0%E5%9C%A8%E6%9C%89%E7%82%B9%E6%83%8A%E5%BC%93%E4%B9%8B%E9%B8%9F%E4%BA%86%23" target="weibo">
 何炅 我现在有点惊弓之鸟了（热度：844503）
 </a>
@@ -2801,12 +2807,6 @@ GMM（热度：773720）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%BD%E9%99%85%E9%85%92%E5%BA%97%E9%97%A8%E5%89%8D%E6%B1%BD%E8%BD%A6%E7%88%86%E7%82%B81%E6%AD%BB7%E4%BC%A4%23" target="weibo">
 美特朗普国际酒店门前汽车爆炸1死7伤（热度：701829）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2318%E5%B2%81%E5%B0%8F%E4%BC%99%E5%9A%BC%E6%A7%9F%E6%A6%948%E5%B9%B4%E8%84%B8%E6%96%B9%E6%88%90%E7%94%B5%E8%A7%86%E6%9C%BA%23" target="weibo">
-18岁小伙嚼槟榔8年脸方成电视机（热度：700682）
 </a>
 </li>
 
@@ -3773,6 +3773,12 @@ A50（热度：572477）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%9B%B0%E7%BC%85%E7%94%B8%E6%B1%82%E6%95%91%E6%96%87%E6%A1%A3%E5%88%9B%E5%BB%BA%E8%80%85%E5%8F%91%E5%A3%B0%23" target="weibo">
 被困缅甸求救文档创建者发声（热度：541733）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%BF%E5%B0%B1%E5%B1%B1%E7%81%AB%E5%A4%B1%E6%8E%A7%E8%BE%9E%E8%81%8C%23" target="weibo">
+特朗普要求加州州长就山火失控辞职（热度：541147）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ A股新变化（热度：355023）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E7%94%B7%E7%94%9F%E8%80%90%E5%BE%97%E4%BD%8F%E5%AF%82%E5%AF%9E%E4%B8%80%E5%A4%A9%E5%81%9A%E4%B8%8A%E7%99%BE%E6%9D%A1%E5%A5%B3%E8%A3%A4%23" target="weibo">
 00后男生耐得住寂寞一天做上百条女裤（热度：341025）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%8C%9C%E7%BB%9D%E7%BE%8Eendingpose%23" target="weibo">
-宋茜绝美endingpose（热度：340821）
 </a>
 </li>
 

@@ -1,7 +1,15 @@
 {
   "startTime": 1736440116531,
-  "endTime": 1736440116531,
+  "endTime": 1736441044960,
   "band_list": [
+    {
+      "raw_hot": 851405,
+      "num": 851405,
+      "word": "18岁小伙嚼槟榔8年脸方成电视机",
+      "onboard_time": 1736437882,
+      "rank": 3,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 807157,
       "num": 916801,
@@ -27,12 +35,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 700682,
-      "num": 700682,
-      "word": "18岁小伙嚼槟榔8年脸方成电视机",
+      "raw_hot": 541147,
+      "num": 541147,
+      "word": "特朗普要求加州州长就山火失控辞职",
       "onboard_time": 1736437882,
-      "rank": 3,
-      "category": "民生新闻"
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 505874,
@@ -67,6 +75,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 326535,
+      "num": 326535,
+      "word": "李昀锐一分钟800个小动作",
+      "onboard_time": 1736436381,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 317090,
       "num": 317090,
       "word": "买股代露娃",
@@ -99,28 +115,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 295724,
-      "num": 336181,
-      "word": "特朗普要求加州州长就山火失控辞职",
-      "onboard_time": 1736437882,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 264612,
       "num": 264612,
       "word": "疯狂小杨哥及三只羊被起诉",
       "onboard_time": 1736425401,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 244969,
-      "num": 244969,
-      "word": "李昀锐一分钟800个小动作",
-      "onboard_time": 1736436381,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 241001,
@@ -252,11 +252,19 @@
     },
     {
       "raw_hot": 130453,
-      "num": 130453,
+      "num": 335254,
       "word": "女子一句话让骗子彻底破防",
       "onboard_time": 1736431643,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127130,
+      "num": 177487,
+      "word": "肖战微博之夜人脸识别",
+      "onboard_time": 1736440278,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 118493,
@@ -320,6 +328,14 @@
       "word": "西藏地震灾区收到了奶茶可乐",
       "onboard_time": 1736433862,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92854,
+      "num": 92854,
+      "word": "2人幼儿园时假扮夫妻20年后真结婚了",
+      "onboard_time": 1736440937,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -387,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66406,
+      "num": 177260,
+      "word": "微博之夜cp之夜",
+      "onboard_time": 1736439559,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 51088,
       "num": 160330,
       "word": "孙颖莎拍摄间歇都想练球",
@@ -395,12 +419,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 31719,
-      "num": 177260,
-      "word": "微博之夜cp之夜",
-      "onboard_time": 1736439559,
-      "rank": 19,
-      "category": "作品衍生"
+      "raw_hot": 15485,
+      "num": 135067,
+      "word": "郑钦文德约搭档好欢乐",
+      "onboard_time": 1736440757,
+      "rank": 24,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
