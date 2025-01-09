@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736433583778,
+  "endTime": 1736436250002,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -2531,6 +2531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 598602,
+      "num": 598602,
+      "word": "特朗普再发美版新地图",
+      "onboard_time": 1736430203,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 597697,
       "num": 442437,
       "word": "西藏地震后第一个夜晚",
@@ -2747,6 +2755,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 544544,
+      "num": 536051,
+      "word": "胡冰卿时隔7年杀回古装赛道",
+      "onboard_time": 1736429123,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 544177,
       "num": 613075,
       "word": "异人之下",
@@ -2833,14 +2849,6 @@
       "onboard_time": 1736411420,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 518493,
-      "num": 531981,
-      "word": "特朗普再发美版新地图",
-      "onboard_time": 1736430203,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 518491,
@@ -3097,14 +3105,6 @@
       "onboard_time": 1736166262,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 483469,
-      "num": 313874,
-      "word": "胡冰卿时隔7年杀回古装赛道",
-      "onboard_time": 1736429123,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 483150,
@@ -3723,6 +3723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 403897,
+      "num": 403897,
+      "word": "国色芳华 昼夜转场",
+      "onboard_time": 1736430503,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 402483,
       "num": 283854,
       "word": "演员星星女友已落地曼谷",
@@ -3848,6 +3856,14 @@
       "word": "吴克群在广西狂买水果",
       "onboard_time": 1736112731,
       "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 391829,
+      "num": 391829,
+      "word": "蝙蝠侠在车里看着豪宅被烧光",
+      "onboard_time": 1736433923,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -4001,14 +4017,6 @@
       "onboard_time": 1736085630,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 375730,
-      "num": 311661,
-      "word": "国色芳华 昼夜转场",
-      "onboard_time": 1736430503,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 374773,
@@ -4348,7 +4356,7 @@
     },
     {
       "raw_hot": 341752,
-      "num": 266033,
+      "num": 276530,
       "word": "杨紫搭李现的含金量还在上升",
       "onboard_time": 1736431523,
       "rank": 29,
@@ -4649,6 +4657,14 @@
       "onboard_time": 1736343985,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 316591,
+      "num": 316591,
+      "word": "Jennie2025首封",
+      "onboard_time": 1736435061,
+      "rank": 20,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 316465,
@@ -6019,6 +6035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 241867,
+      "num": 241867,
+      "word": "刘亦菲还原了中国古典文学中的美人",
+      "onboard_time": 1736434821,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241597,
       "num": 241597,
       "word": "IVE预告里的安宥真张元英",
@@ -6121,6 +6145,14 @@
       "onboard_time": 1736225725,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 235113,
+      "num": 235113,
+      "word": "女子一句话让骗子彻底破防",
+      "onboard_time": 1736431643,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 234937,
@@ -6417,6 +6449,14 @@
       "onboard_time": 1736038046,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 225272,
+      "num": 225272,
+      "word": "白月梵星白鹿没白录",
+      "onboard_time": 1736435423,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 225099,
@@ -6859,6 +6899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212505,
+      "num": 813247,
+      "word": "感染甲流后不能硬扛",
+      "onboard_time": 1736433204,
+      "rank": 2,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 212334,
       "num": 188378,
       "word": "锦月如歌",
@@ -6897,14 +6945,6 @@
       "onboard_time": 1736131280,
       "rank": 35,
       "category": "教育"
-    },
-    {
-      "raw_hot": 211797,
-      "num": 211797,
-      "word": "女子一句话让骗子彻底破防",
-      "onboard_time": 1736431643,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 211747,
@@ -7731,6 +7771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193940,
+      "num": 193940,
+      "word": "王楚钦微博之夜官宣",
+      "onboard_time": 1736433323,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 193888,
       "num": 257895,
       "word": "女子求回购1克拉钻戒给娃治病被拒",
@@ -7865,6 +7913,14 @@
       "onboard_time": 1736305040,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191925,
+      "num": 536196,
+      "word": "西藏救援物资堆得像小山",
+      "onboard_time": 1736429963,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191902,
@@ -8419,6 +8475,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 180256,
+      "num": 384192,
+      "word": "业主拒缴公摊水电费竟遭物业拆水表",
+      "onboard_time": 1736433024,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179838,
       "num": 179838,
       "word": "甄姬雪境奇遇皮肤",
@@ -8577,6 +8641,14 @@
       "onboard_time": 1736239104,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 175934,
+      "num": 175934,
+      "word": "人民警察在平安就在",
+      "onboard_time": 1736434821,
+      "rank": 35,
+      "category": "正能量"
     },
     {
       "raw_hot": 175670,
@@ -8755,6 +8827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171817,
+      "num": 171817,
+      "word": "刘畅追妻",
+      "onboard_time": 1736434523,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171071,
       "num": 171071,
       "word": "第五人格",
@@ -8817,14 +8897,6 @@
       "onboard_time": 1736128522,
       "rank": 49,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 169798,
-      "num": 169798,
-      "word": "王楚钦微博之夜官宣",
-      "onboard_time": 1736433323,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 169671,
@@ -8936,6 +9008,14 @@
       "word": "会计比对顾总钱总朋友圈保住400万",
       "onboard_time": 1736131939,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168387,
+      "num": 396091,
+      "word": "跑腿小哥送酸奶察觉异常挽回4.8万",
+      "onboard_time": 1736435123,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -9385,6 +9465,14 @@
       "onboard_time": 1736147785,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159131,
+      "num": 159131,
+      "word": "西藏地震灾区收到了奶茶可乐",
+      "onboard_time": 1736433862,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159043,
@@ -9955,6 +10043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148787,
+      "num": 148787,
+      "word": "员工未培训上岗误触辐射源面临截肢",
+      "onboard_time": 1736433564,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148699,
       "num": 148699,
       "word": "马龙最想对阵刘国梁",
@@ -10419,6 +10515,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 139816,
+      "num": 139816,
+      "word": "苏翊鸣回应世界杯比赛排名垫底",
+      "onboard_time": 1736433442,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139728,
       "num": 139728,
       "word": "李泽言生日PV",
@@ -10465,14 +10569,6 @@
       "onboard_time": 1736371031,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 139101,
-      "num": 139101,
-      "word": "苏翊鸣回应世界杯比赛排名垫底",
-      "onboard_time": 1736433442,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 139068,
@@ -11323,6 +11419,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 124152,
+      "num": 124152,
+      "word": "旅行社称已有近三成游客退泰国团",
+      "onboard_time": 1736435243,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124020,
       "num": 124020,
       "word": "瞒着家里人假装上班是什么体验",
@@ -11401,14 +11505,6 @@
       "onboard_time": 1736261065,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123156,
-      "num": 123156,
-      "word": "西藏救援物资堆得像小山",
-      "onboard_time": 1736429963,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123018,
@@ -13283,14 +13379,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 81107,
-      "num": 813247,
-      "word": "感染甲流后不能硬扛",
-      "onboard_time": 1736433204,
-      "rank": 2,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 80711,
       "num": 634451,
       "word": "我国又添大国重器",
@@ -14755,12 +14843,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44605,
+      "num": 319397,
+      "word": "微博之夜全员人脸识别",
+      "onboard_time": 1736429484,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 44425,
       "num": 268502,
       "word": "曝iG首战NIP",
       "onboard_time": 1736149830,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 44402,
+      "num": 317767,
+      "word": "加州山火或造成570亿美元经济损失",
+      "onboard_time": 1736435362,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 44342,
@@ -14833,6 +14937,14 @@
       "onboard_time": 1736346324,
       "rank": 29,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 42788,
+      "num": 393158,
+      "word": "郑钦文顶奢代言",
+      "onboard_time": 1736434044,
+      "rank": 15,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 42511,
@@ -15041,14 +15153,6 @@
       "onboard_time": 1736136143,
       "rank": 25,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 38280,
-      "num": 384192,
-      "word": "业主拒缴公摊水电费竟遭物业拆水表",
-      "onboard_time": 1736433024,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 38242,

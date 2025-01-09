@@ -1,6 +1,6 @@
 {
   "startTime": 1736353721044,
-  "endTime": 1736433583778,
+  "endTime": 1736436250002,
   "band_list": [
     {
       "raw_hot": 2735310,
@@ -507,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 598602,
+      "num": 598602,
+      "word": "特朗普再发美版新地图",
+      "onboard_time": 1736430203,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 593233,
       "num": 593233,
       "word": "微博之夜重磅阵容官宣",
@@ -547,6 +555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 544544,
+      "num": 536051,
+      "word": "胡冰卿时隔7年杀回古装赛道",
+      "onboard_time": 1736429123,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 544177,
       "num": 613075,
       "word": "异人之下",
@@ -569,14 +585,6 @@
       "onboard_time": 1736411420,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 518493,
-      "num": 531981,
-      "word": "特朗普再发美版新地图",
-      "onboard_time": 1736430203,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 498385,
@@ -609,14 +617,6 @@
       "onboard_time": 1736399061,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 483469,
-      "num": 313874,
-      "word": "胡冰卿时隔7年杀回古装赛道",
-      "onboard_time": 1736429123,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 480661,
@@ -723,12 +723,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 403897,
+      "num": 403897,
+      "word": "国色芳华 昼夜转场",
+      "onboard_time": 1736430503,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 394509,
       "num": 439583,
       "word": "62岁老戏骨吴连生突然去世",
       "onboard_time": 1736384121,
       "rank": 8,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 391829,
+      "num": 391829,
+      "word": "蝙蝠侠在车里看着豪宅被烧光",
+      "onboard_time": 1736433923,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 387362,
@@ -776,14 +792,6 @@
       "word": "杨紫何惟芳的头饰越来越少了",
       "onboard_time": 1736402541,
       "rank": 20,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 375730,
-      "num": 311661,
-      "word": "国色芳华 昼夜转场",
-      "onboard_time": 1736430503,
-      "rank": 21,
       "category": "剧集"
     },
     {
@@ -844,7 +852,7 @@
     },
     {
       "raw_hot": 341752,
-      "num": 266033,
+      "num": 276530,
       "word": "杨紫搭李现的含金量还在上升",
       "onboard_time": 1736431523,
       "rank": 29,
@@ -897,6 +905,14 @@
       "onboard_time": 1736427444,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 316591,
+      "num": 316591,
+      "word": "Jennie2025首封",
+      "onboard_time": 1736435061,
+      "rank": 20,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 307579,
@@ -1187,6 +1203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 241867,
+      "num": 241867,
+      "word": "刘亦菲还原了中国古典文学中的美人",
+      "onboard_time": 1736434821,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238089,
       "num": 238089,
       "word": "被小欢喜林磊儿当兵惊到",
@@ -1201,6 +1225,14 @@
       "onboard_time": 1736421201,
       "rank": 32,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 235113,
+      "num": 235113,
+      "word": "女子一句话让骗子彻底破防",
+      "onboard_time": 1736431643,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 233983,
@@ -1280,6 +1312,14 @@
       "word": "敖瑞鹏叫白鹿宝贝儿",
       "onboard_time": 1736409561,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 225272,
+      "num": 225272,
+      "word": "白月梵星白鹿没白录",
+      "onboard_time": 1736435423,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -1371,20 +1411,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212505,
+      "num": 813247,
+      "word": "感染甲流后不能硬扛",
+      "onboard_time": 1736433204,
+      "rank": 2,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 212071,
       "num": 212071,
       "word": "光与夜之恋",
       "onboard_time": 1736396843,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 211797,
-      "num": 211797,
-      "word": "女子一句话让骗子彻底破防",
-      "onboard_time": 1736431643,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 208464,
@@ -1523,6 +1563,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 193940,
+      "num": 193940,
+      "word": "王楚钦微博之夜官宣",
+      "onboard_time": 1736433323,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 193599,
       "num": 193599,
       "word": "白月梵星 想出用剑搂腰的真是天才",
@@ -1577,6 +1625,14 @@
       "onboard_time": 1736395821,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191925,
+      "num": 536196,
+      "word": "西藏救援物资堆得像小山",
+      "onboard_time": 1736429963,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191762,
@@ -1787,6 +1843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180256,
+      "num": 384192,
+      "word": "业主拒缴公摊水电费竟遭物业拆水表",
+      "onboard_time": 1736433024,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179350,
       "num": 179350,
       "word": "宫脇咲良个人针织品牌",
@@ -1809,6 +1873,14 @@
       "onboard_time": 1736428221,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175934,
+      "num": 175934,
+      "word": "人民警察在平安就在",
+      "onboard_time": 1736434821,
+      "rank": 35,
+      "category": "正能量"
     },
     {
       "raw_hot": 175670,
@@ -1843,12 +1915,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 169798,
-      "num": 169798,
-      "word": "王楚钦微博之夜官宣",
-      "onboard_time": 1736433323,
-      "rank": 40,
-      "category": "作品衍生"
+      "raw_hot": 171817,
+      "num": 171817,
+      "word": "刘畅追妻",
+      "onboard_time": 1736434523,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 169303,
@@ -1881,6 +1953,14 @@
       "onboard_time": 1736425943,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 168387,
+      "num": 396091,
+      "word": "跑腿小哥送酸奶察觉异常挽回4.8万",
+      "onboard_time": 1736435123,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168191,
@@ -1961,6 +2041,14 @@
       "onboard_time": 1736403261,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159131,
+      "num": 159131,
+      "word": "西藏地震灾区收到了奶茶可乐",
+      "onboard_time": 1736433862,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159018,
@@ -2065,6 +2153,14 @@
       "onboard_time": 1736407340,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148787,
+      "num": 148787,
+      "word": "员工未培训上岗误触辐射源面临截肢",
+      "onboard_time": 1736433564,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147807,
@@ -2203,20 +2299,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 139816,
+      "num": 139816,
+      "word": "苏翊鸣回应世界杯比赛排名垫底",
+      "onboard_time": 1736433442,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139285,
       "num": 139285,
       "word": "月子中心跑路新手宝妈手足无措",
       "onboard_time": 1736371031,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 139101,
-      "num": 139101,
-      "word": "苏翊鸣回应世界杯比赛排名垫底",
-      "onboard_time": 1736433442,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 138705,
@@ -2451,6 +2547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124152,
+      "num": 124152,
+      "word": "旅行社称已有近三成游客退泰国团",
+      "onboard_time": 1736435243,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123897,
       "num": 255753,
       "word": "白鹿炸毛小狐狸造型",
@@ -2465,14 +2569,6 @@
       "onboard_time": 1736415981,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 123156,
-      "num": 123156,
-      "word": "西藏救援物资堆得像小山",
-      "onboard_time": 1736429963,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122635,
@@ -2899,14 +2995,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 81107,
-      "num": 813247,
-      "word": "感染甲流后不能硬扛",
-      "onboard_time": 1736433204,
-      "rank": 2,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 79954,
       "num": 79954,
       "word": "杨洋黑粉P遗照终审败诉",
@@ -3187,6 +3275,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 44605,
+      "num": 319397,
+      "word": "微博之夜全员人脸识别",
+      "onboard_time": 1736429484,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 44402,
+      "num": 317767,
+      "word": "加州山火或造成570亿美元经济损失",
+      "onboard_time": 1736435362,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 44342,
       "num": 166203,
       "word": "王源微博之夜安全倡议书",
@@ -3201,6 +3305,14 @@
       "onboard_time": 1736414959,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42788,
+      "num": 393158,
+      "word": "郑钦文顶奢代言",
+      "onboard_time": 1736434044,
+      "rank": 15,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 42369,
@@ -3256,14 +3368,6 @@
       "word": "律师解读猫贷合同为何被法律保护",
       "onboard_time": 1736396423,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38280,
-      "num": 384192,
-      "word": "业主拒缴公摊水电费竟遭物业拆水表",
-      "onboard_time": 1736433024,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
