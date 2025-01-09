@@ -1,0 +1,410 @@
+{
+  "runTime": 1736432504179,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1406939,
+        "num": 1406939,
+        "word": "微博之夜名场面又要来了",
+        "onboard_time": 1736423003,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1153592,
+        "num": 1153592,
+        "word": "女子甲流4天洗完澡手脚不能动",
+        "onboard_time": 1736424082,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45130,
+        "num": 785014,
+        "word": "一图速览90亿人次春运如何保障",
+        "onboard_time": 1736414000,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1222553,
+        "num": 771571,
+        "word": "国色芳华收视率",
+        "onboard_time": 1736430444,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 678458,
+        "num": 678458,
+        "word": "疯狂小杨哥及三只羊被起诉",
+        "onboard_time": 1736425401,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 670274,
+        "num": 670274,
+        "word": "美国洛杉矶山火最新消息",
+        "onboard_time": 1736421562,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 873044,
+        "num": 667588,
+        "word": "微博之夜好多cp啊",
+        "onboard_time": 1736425943,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 813329,
+        "num": 662436,
+        "word": "买股代露娃",
+        "onboard_time": 1736425701,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 654852,
+        "num": 654852,
+        "word": "深圳一区期末试卷太难延时20分钟",
+        "onboard_time": 1736425883,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249496,
+        "num": 531981,
+        "word": "特朗普再发美版新地图",
+        "onboard_time": 1736430203,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 500188,
+        "num": 500188,
+        "word": "石原里美老公近照",
+        "onboard_time": 1736426842,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 492373,
+        "num": 492373,
+        "word": "从太空看洛杉矶山火",
+        "onboard_time": 1736427083,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 480661,
+        "num": 480661,
+        "word": "肖战承认会入睡困难",
+        "onboard_time": 1736426542,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70916,
+        "num": 442512,
+        "word": "迪奥全球品牌大使郑钦文",
+        "onboard_time": 1736427983,
+        "rank": 13,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 61890,
+        "num": 432254,
+        "word": "美国加州山火每分钟吞噬5个足球场",
+        "onboard_time": 1736431702,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 432002,
+        "num": 432002,
+        "word": "微博之夜重磅阵容官宣",
+        "onboard_time": 1736427142,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 381974,
+        "num": 381974,
+        "word": "我国老年人感染艾滋病占比持续上升",
+        "onboard_time": 1736421802,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 363724,
+        "num": 363724,
+        "word": "受害人没有删聊天记录成了关键证据",
+        "onboard_time": 1736417540,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346976,
+        "num": 346976,
+        "word": "美国滞留太空宇航员再发声",
+        "onboard_time": 1736418445,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 223521,
+        "num": 314695,
+        "word": "中居正广承认性侵",
+        "onboard_time": 1736430323,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 482198,
+        "num": 313874,
+        "word": "胡冰卿时隔7年杀回古装赛道",
+        "onboard_time": 1736429123,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 375730,
+        "num": 311661,
+        "word": "国色芳华 昼夜转场",
+        "onboard_time": 1736430503,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296887,
+        "num": 296887,
+        "word": "上海套内39平米的四口之家",
+        "onboard_time": 1736427024,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 287070,
+        "num": 287070,
+        "word": "好莱坞在洛杉矶大火中受创",
+        "onboard_time": 1736424082,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 273044,
+        "num": 273044,
+        "word": "2025中国乒乓球队大赛服",
+        "onboard_time": 1736430203,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267386,
+        "num": 267386,
+        "word": "国色芳华虐女主",
+        "onboard_time": 1736427501,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264679,
+        "num": 264679,
+        "word": "向佐换发型了",
+        "onboard_time": 1736423542,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66004,
+        "num": 255420,
+        "word": "情侣同居要检查HPV吗",
+        "onboard_time": 1736429662,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 181988,
+        "num": 250342,
+        "word": "刘宇宁直播",
+        "onboard_time": 1736431163,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248753,
+        "num": 248753,
+        "word": "杨紫搭李现的含金量还在上升",
+        "onboard_time": 1736431523,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234494,
+        "num": 234494,
+        "word": "Tor分手",
+        "onboard_time": 1736430263,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232381,
+        "num": 232381,
+        "word": "国色芳华",
+        "onboard_time": 1736422883,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220742,
+        "num": 220742,
+        "word": "鞠婧祎流光薄纱花仙裙",
+        "onboard_time": 1736429484,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212616,
+        "num": 212616,
+        "word": "芒果剧宣",
+        "onboard_time": 1736427444,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205242,
+        "num": 205242,
+        "word": "肖战说童年是自己的滋养",
+        "onboard_time": 1736415139,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202722,
+        "num": 202722,
+        "word": "2026预制梗",
+        "onboard_time": 1736426303,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193428,
+        "num": 193428,
+        "word": "微博之夜体育嘉宾阵容",
+        "onboard_time": 1736431942,
+        "rank": 36,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 191065,
+        "num": 191065,
+        "word": "辛雨锡直播",
+        "onboard_time": 1736425822,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190689,
+        "num": 190689,
+        "word": "美国洛杉矶山火完全失控",
+        "onboard_time": 1736391681,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 178745,
+        "num": 178745,
+        "word": "阿Sa回应阿娇变胖",
+        "onboard_time": 1736429843,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174489,
+        "num": 174489,
+        "word": "女生素颜艺考被擦妆5次",
+        "onboard_time": 1736391740,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 171404,
+        "num": 171404,
+        "word": "深圳这场期末考试难倒娃也难倒爹妈",
+        "onboard_time": 1736428582,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167708,
+        "num": 167708,
+        "word": "宠物猫到达收货地后滞留中转站死亡",
+        "onboard_time": 1736428043,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166360,
+        "num": 166360,
+        "word": "派伟俊周杰伦新歌MV",
+        "onboard_time": 1736431583,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158565,
+        "num": 158565,
+        "word": "杨紫也闯进了人妻赛道",
+        "onboard_time": 1736428221,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156713,
+        "num": 156713,
+        "word": "女子一句话让骗子彻底破防",
+        "onboard_time": 1736431643,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151104,
+        "num": 151104,
+        "word": "敖瑞鹏 2025年爱上的第一个男人",
+        "onboard_time": 1736432003,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150208,
+        "num": 150208,
+        "word": "离了祝绪丹谁还把我当小孩",
+        "onboard_time": 1736432363,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148980,
+        "num": 148980,
+        "word": "金扫帚提名名单",
+        "onboard_time": 1736410701,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144642,
+        "num": 144642,
+        "word": "郑钦文 迪奥",
+        "onboard_time": 1736425522,
+        "rank": 49,
+        "category": "体育,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央政治局常委会召开会议#"
+    }
+  }
+}

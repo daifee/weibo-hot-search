@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736429987571,
+  "endTime": 1736432504179,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1779,6 +1779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1222553,
+      "num": 771571,
+      "word": "国色芳华收视率",
+      "onboard_time": 1736430444,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1216298,
       "num": 446672,
       "word": "星光大赏座位",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735661967,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 985867,
-      "num": 1157738,
-      "word": "年轻人开始流行换房过年",
-      "onboard_time": 1735953197,
-      "rank": 26,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

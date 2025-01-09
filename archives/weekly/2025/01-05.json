@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736429987571,
+  "endTime": 1736432504179,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1049,6 +1049,14 @@
       "onboard_time": 1736306481,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1222553,
+      "num": 771571,
+      "word": "国色芳华收视率",
+      "onboard_time": 1736430444,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1211933,
@@ -2995,6 +3003,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 492373,
+      "num": 492373,
+      "word": "从太空看洛杉矶山火",
+      "onboard_time": 1736427083,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 491992,
       "num": 491992,
       "word": "肖战说童年是自己的滋养",
@@ -3089,6 +3105,22 @@
       "onboard_time": 1736083290,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 482198,
+      "num": 313874,
+      "word": "胡冰卿时隔7年杀回古装赛道",
+      "onboard_time": 1736429123,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 480661,
+      "num": 480661,
+      "word": "肖战承认会入睡困难",
+      "onboard_time": 1736426542,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 479091,
@@ -3963,6 +3995,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 375730,
+      "num": 311661,
+      "word": "国色芳华 昼夜转场",
+      "onboard_time": 1736430503,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 374773,
       "num": 439859,
       "word": "贪官在家中设计夹层藏钱",
@@ -3977,14 +4017,6 @@
       "onboard_time": 1736239883,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 371629,
-      "num": 324352,
-      "word": "肖战承认会入睡困难",
-      "onboard_time": 1736426542,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 370044,
@@ -4883,6 +4915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 296887,
+      "num": 296887,
+      "word": "上海套内39平米的四口之家",
+      "onboard_time": 1736427024,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 296774,
       "num": 296774,
       "word": "孟子义说要去录歌周一围笑了",
@@ -5011,14 +5051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 290257,
-      "num": 290257,
-      "word": "从太空看洛杉矶山火",
-      "onboard_time": 1736427083,
-      "rank": 40,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 289664,
       "num": 289664,
       "word": "云合",
@@ -5059,6 +5091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287070,
+      "num": 467819,
+      "word": "好莱坞在洛杉矶大火中受创",
+      "onboard_time": 1736424082,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 286870,
       "num": 286870,
       "word": "大奉打更人豆瓣开分5.4",
@@ -5073,14 +5113,6 @@
       "onboard_time": 1736295922,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 286424,
-      "num": 467819,
-      "word": "好莱坞在洛杉矶大火中受创",
-      "onboard_time": 1736424082,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 284478,
@@ -5315,6 +5347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 273044,
+      "num": 273044,
+      "word": "2025中国乒乓球队大赛服",
+      "onboard_time": 1736430203,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 273036,
       "num": 273036,
       "word": "常华森好帅",
@@ -5473,14 +5513,6 @@
       "onboard_time": 1736336240,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 266446,
-      "num": 266446,
-      "word": "胡冰卿时隔7年杀回古装赛道",
-      "onboard_time": 1736429123,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 265204,
@@ -5787,12 +5819,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 249496,
+      "num": 531981,
+      "word": "特朗普再发美版新地图",
+      "onboard_time": 1736430203,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 249102,
       "num": 249102,
       "word": "GMM声明",
       "onboard_time": 1736225005,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248753,
+      "num": 248753,
+      "word": "杨紫搭李现的含金量还在上升",
+      "onboard_time": 1736431523,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 248673,
@@ -6081,6 +6129,14 @@
       "onboard_time": 1736213061,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 234494,
+      "num": 234494,
+      "word": "Tor分手",
+      "onboard_time": 1736430263,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 234285,
@@ -6379,6 +6435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223521,
+      "num": 314695,
+      "word": "中居正广承认性侵",
+      "onboard_time": 1736430323,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223498,
       "num": 223498,
       "word": "药店人员称有医生在线下单流感神药",
@@ -6451,20 +6515,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220742,
+      "num": 220742,
+      "word": "鞠婧祎流光薄纱花仙裙",
+      "onboard_time": 1736429484,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220489,
       "num": 652506,
       "word": "马斯克评论俄乌士兵激烈肉搏",
       "onboard_time": 1736061565,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 220325,
-      "num": 220325,
-      "word": "上海套内39平米的四口之家",
-      "onboard_time": 1736427024,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 220165,
@@ -7219,14 +7283,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 203274,
-      "num": 203274,
-      "word": "鞠婧祎流光薄纱花仙裙",
-      "onboard_time": 1736429484,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 203169,
       "num": 209231,
       "word": "招募星星者曾多次借钱不还",
@@ -7697,6 +7753,14 @@
       "onboard_time": 1736402241,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193428,
+      "num": 193428,
+      "word": "微博之夜体育嘉宾阵容",
+      "onboard_time": 1736431942,
+      "rank": 36,
+      "category": "作品衍生,体育"
     },
     {
       "raw_hot": 193240,
@@ -8195,6 +8259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181988,
+      "num": 250342,
+      "word": "刘宇宁直播",
+      "onboard_time": 1736431163,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181979,
       "num": 183442,
       "word": "反腐为了人民",
@@ -8361,6 +8433,14 @@
       "onboard_time": 1736420541,
       "rank": 34,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 178745,
+      "num": 178745,
+      "word": "阿Sa回应阿娇变胖",
+      "onboard_time": 1736429843,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 177765,
@@ -8939,6 +9019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166360,
+      "num": 166360,
+      "word": "派伟俊周杰伦新歌MV",
+      "onboard_time": 1736431583,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 166295,
       "num": 336289,
       "word": "6岁男童上学时独自离园2次未被发现",
@@ -9411,6 +9499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156713,
+      "num": 156713,
+      "word": "女子一句话让骗子彻底破防",
+      "onboard_time": 1736431643,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156364,
       "num": 156364,
       "word": "吴泽林教檀健次跳舞手脚打结",
@@ -9731,6 +9827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151104,
+      "num": 151104,
+      "word": "敖瑞鹏 2025年爱上的第一个男人",
+      "onboard_time": 1736432003,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150978,
       "num": 150978,
       "word": "谁懂华晨宇唱情歌的杀伤力",
@@ -9745,6 +9849,14 @@
       "onboard_time": 1736086109,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150208,
+      "num": 150208,
+      "word": "离了祝绪丹谁还把我当小孩",
+      "onboard_time": 1736432363,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 150122,
@@ -13507,6 +13619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 70916,
+      "num": 447028,
+      "word": "迪奥全球品牌大使郑钦文",
+      "onboard_time": 1736427983,
+      "rank": 13,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 70406,
       "num": 280955,
       "word": "地笼",
@@ -13683,6 +13803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 66004,
+      "num": 255420,
+      "word": "情侣同居要检查HPV吗",
+      "onboard_time": 1736429662,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 65594,
       "num": 177186,
       "word": "无畏官宣微博之夜",
@@ -13809,6 +13937,14 @@
       "onboard_time": 1736144663,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61890,
+      "num": 432254,
+      "word": "美国加州山火每分钟吞噬5个足球场",
+      "onboard_time": 1736431702,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 61494,
@@ -14145,14 +14281,6 @@
       "onboard_time": 1736016736,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 53451,
-      "num": 447028,
-      "word": "迪奥全球品牌大使郑钦文",
-      "onboard_time": 1736427983,
-      "rank": 13,
-      "category": "体育,时尚"
     },
     {
       "raw_hot": 53314,
@@ -15120,14 +15248,6 @@
       "word": "如何判断得的是甲流还是普通感冒",
       "onboard_time": 1736292917,
       "rank": 49,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 31256,
-      "num": 174030,
-      "word": "情侣同居要检查HPV吗",
-      "onboard_time": 1736429662,
-      "rank": 40,
       "category": "健康医疗"
     },
     {
@@ -16247,6 +16367,9 @@
     },
     {
       "word": "#中纪委全会公报#"
+    },
+    {
+      "word": "#中央政治局常委会召开会议#"
     }
   ]
 }

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/09 21:39:47
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/09 22:21:44
 </p>
 </blockquote>
 <p>
@@ -1347,6 +1347,12 @@ Ok 咱们线上（热度：2051932）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E6%94%B6%E8%A7%86%E7%8E%87%23" target="weibo">
+国色芳华收视率（热度：1222553）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F%E5%BA%A7%E4%BD%8D%23" target="weibo">
 星光大赏座位（热度：1216298）
 </a>
@@ -1805,12 +1811,6 @@ R1SE合体（热度：994873）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E8%BF%9E%E7%BB%AD20%E5%B9%B4%E9%9B%B6%E7%82%B9%E5%8E%8B%E8%BD%B4%23" target="weibo">
 李宇春连续20年零点压轴（热度：986055）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%B5%81%E8%A1%8C%E6%8D%A2%E6%88%BF%E8%BF%87%E5%B9%B4%23" target="weibo">
-年轻人开始流行换房过年（热度：985867）
 </a>
 </li>
 
