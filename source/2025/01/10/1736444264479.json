@@ -1,0 +1,410 @@
+{
+  "runTime": 1736444264479,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 556978,
+        "num": 556978,
+        "word": "18岁小伙嚼槟榔8年脸方成电视机",
+        "onboard_time": 1736437882,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 445090,
+        "num": 445090,
+        "word": "特朗普要求加州州长就山火失控辞职",
+        "onboard_time": 1736437882,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 63921,
+        "num": 326817,
+        "word": "感染甲流后不能硬扛",
+        "onboard_time": 1736433204,
+        "rank": 2,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 301575,
+        "num": 301575,
+        "word": "2人幼儿园时假扮夫妻20年后真结婚了",
+        "onboard_time": 1736440937,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211676,
+        "num": 211676,
+        "word": "胡冰卿时隔7年杀回古装赛道",
+        "onboard_time": 1736429123,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196055,
+        "num": 196055,
+        "word": "李昀锐一分钟800个小动作",
+        "onboard_time": 1736436381,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192436,
+        "num": 192436,
+        "word": "肖战微博之夜人脸识别",
+        "onboard_time": 1736440278,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190277,
+        "num": 190277,
+        "word": "拜登之子2万美元月租豪宅烧成碎石",
+        "onboard_time": 1736437221,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 174192,
+        "num": 174192,
+        "word": "国色芳华收视率",
+        "onboard_time": 1736430444,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170313,
+        "num": 170313,
+        "word": "美国洛杉矶山火最新消息",
+        "onboard_time": 1736421562,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 164953,
+        "num": 164953,
+        "word": "微博之夜名场面又要来了",
+        "onboard_time": 1736423003,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134284,
+        "num": 134284,
+        "word": "从太空看洛杉矶山火",
+        "onboard_time": 1736427083,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 123053,
+        "num": 123053,
+        "word": "疯狂小杨哥及三只羊被起诉",
+        "onboard_time": 1736425401,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121814,
+        "num": 121814,
+        "word": "受害人没有删聊天记录成了关键证据",
+        "onboard_time": 1736417540,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109304,
+        "num": 109304,
+        "word": "女子一句话让骗子彻底破防",
+        "onboard_time": 1736431643,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53705,
+        "num": 109292,
+        "word": "说了20分钟对方不上当骗子气到大叫",
+        "onboard_time": 1736437580,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109281,
+        "num": 109281,
+        "word": "好莱坞在洛杉矶大火中受创",
+        "onboard_time": 1736424082,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 107205,
+        "num": 107205,
+        "word": "跑腿小哥送酸奶察觉异常挽回4.8万",
+        "onboard_time": 1736435123,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104972,
+        "num": 104972,
+        "word": "买股代露娃",
+        "onboard_time": 1736425701,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104695,
+        "num": 104695,
+        "word": "蝙蝠侠在车里看着豪宅被烧光",
+        "onboard_time": 1736433923,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87582,
+        "num": 87582,
+        "word": "深圳一区期末试卷太难延时20分钟",
+        "onboard_time": 1736425883,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87261,
+        "num": 87261,
+        "word": "微博之夜最终波阵容",
+        "onboard_time": 1736441837,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 79002,
+        "num": 79002,
+        "word": "这不是游戏这是真实英雄的日常",
+        "onboard_time": 1736421201,
+        "rank": 22,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 75344,
+        "num": 75344,
+        "word": "微博之夜好多cp啊",
+        "onboard_time": 1736425943,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 73315,
+        "num": 73315,
+        "word": "我国老年人感染艾滋病占比持续上升",
+        "onboard_time": 1736421802,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 16336,
+        "num": 73307,
+        "word": "王源期待美好时刻",
+        "onboard_time": 1736442136,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 73298,
+        "num": 73298,
+        "word": "美国滞留太空宇航员再发声",
+        "onboard_time": 1736418445,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 71212,
+        "num": 71212,
+        "word": "洛杉矶",
+        "onboard_time": 1736427142,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 9383,
+        "num": 69210,
+        "word": "汪顺游泳队常青树",
+        "onboard_time": 1736437280,
+        "rank": 28,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 50272,
+        "num": 69056,
+        "word": "西藏地震灾区收到了奶茶可乐",
+        "onboard_time": 1736433862,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69043,
+        "num": 69043,
+        "word": "国色芳华 昼夜转场",
+        "onboard_time": 1736430503,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68328,
+        "num": 68328,
+        "word": "Jennie2025首封",
+        "onboard_time": 1736435061,
+        "rank": 31,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 65685,
+        "num": 65685,
+        "word": "国色芳华",
+        "onboard_time": 1736422883,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61459,
+        "num": 61459,
+        "word": "田曦薇和张雅钦是大学同学",
+        "onboard_time": 1736441118,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59842,
+        "num": 59842,
+        "word": "人民警察在平安就在",
+        "onboard_time": 1736434821,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 59424,
+        "num": 59424,
+        "word": "旅行社称已有近三成游客退泰国团",
+        "onboard_time": 1736435243,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57511,
+        "num": 57511,
+        "word": "国色芳华虐女主",
+        "onboard_time": 1736427501,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56779,
+        "num": 56779,
+        "word": "虞书欣复古look",
+        "onboard_time": 1736439918,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56589,
+        "num": 56589,
+        "word": "纯元CP",
+        "onboard_time": 1736436262,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55728,
+        "num": 55728,
+        "word": "被国色芳华看落日这一幕戳中了",
+        "onboard_time": 1736439079,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54614,
+        "num": 54614,
+        "word": "刘宇宁读信哽咽了",
+        "onboard_time": 1736438241,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53345,
+        "num": 53345,
+        "word": "芒果剧宣",
+        "onboard_time": 1736427444,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51526,
+        "num": 51526,
+        "word": "石原里美老公近照",
+        "onboard_time": 1736426842,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51297,
+        "num": 51297,
+        "word": "金玟庭直播",
+        "onboard_time": 1736437162,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48758,
+        "num": 51297,
+        "word": "中央政治局常委会召开会议",
+        "onboard_time": 1736437580,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 46632,
+        "num": 51293,
+        "word": "刘亦菲还原了中国古典文学中的美人",
+        "onboard_time": 1736434821,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45283,
+        "num": 51293,
+        "word": "肖战承认会入睡困难",
+        "onboard_time": 1736426542,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34482,
+        "num": 51291,
+        "word": "苏翊鸣回应世界杯比赛排名垫底",
+        "onboard_time": 1736433442,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32053,
+        "num": 51288,
+        "word": "怎样才能跨越迷茫",
+        "onboard_time": 1736443934,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31799,
+        "num": 51286,
+        "word": "2025中国乒乓球队大赛服",
+        "onboard_time": 1736430203,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央政治局常委会召开会议#"
+    }
+  }
+}
