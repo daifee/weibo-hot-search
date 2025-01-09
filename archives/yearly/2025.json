@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736397654050,
+  "endTime": 1736400081792,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -385,6 +385,14 @@
       "onboard_time": 1736349323,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2735310,
+      "num": 2735310,
+      "word": "黄圣依没下车",
+      "onboard_time": 1736396663,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 2651426,
@@ -1051,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1672515,
+      "num": 954739,
+      "word": "麦琳李行亮都下车了",
+      "onboard_time": 1736397023,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1670209,
       "num": 1599709,
       "word": "4名中国演员侥幸逃脱泰国试戏骗局",
@@ -1331,11 +1347,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1399499,
-      "num": 1399499,
-      "word": "黄圣依没下车",
-      "onboard_time": 1736396663,
-      "rank": 30,
+      "raw_hot": 1411538,
+      "num": 819173,
+      "word": "葛夕没下车",
+      "onboard_time": 1736397143,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -1489,6 +1505,14 @@
       "onboard_time": 1736083231,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1328816,
+      "num": 935294,
+      "word": "韩国人顺产头",
+      "onboard_time": 1736395401,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 1328407,
@@ -1721,6 +1745,14 @@
       "onboard_time": 1736134701,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1208841,
+      "num": 877957,
+      "word": "再见爱人4大结局",
+      "onboard_time": 1736396602,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 1196710,
@@ -2369,38 +2401,6 @@
       "onboard_time": 1735818620,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 955414,
-      "num": 497983,
-      "word": "和颂",
-      "onboard_time": 1735991244,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 954364,
-      "num": 373316,
-      "word": "星光大赏后台",
-      "onboard_time": 1735982182,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 951115,
-      "num": 951115,
-      "word": "宁夏地震局",
-      "onboard_time": 1735831580,
-      "rank": 31,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 948378,
-      "num": 877957,
-      "word": "再见爱人4大结局",
-      "onboard_time": 1736396602,
-      "rank": 27,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

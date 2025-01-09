@@ -1,7 +1,15 @@
 {
   "startTime": 1736353721044,
-  "endTime": 1736397654050,
+  "endTime": 1736400081792,
   "band_list": [
+    {
+      "raw_hot": 2735310,
+      "num": 2735310,
+      "word": "黄圣依没下车",
+      "onboard_time": 1736396663,
+      "rank": 30,
+      "category": "综艺"
+    },
     {
       "raw_hot": 1950493,
       "num": 1950493,
@@ -35,12 +43,28 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1399499,
-      "num": 1399499,
-      "word": "黄圣依没下车",
-      "onboard_time": 1736396663,
-      "rank": 30,
+      "raw_hot": 1672515,
+      "num": 954739,
+      "word": "麦琳李行亮都下车了",
+      "onboard_time": 1736397023,
+      "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1411538,
+      "num": 819173,
+      "word": "葛夕没下车",
+      "onboard_time": 1736397143,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1328816,
+      "num": 935294,
+      "word": "韩国人顺产头",
+      "onboard_time": 1736395401,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 1264879,
@@ -49,6 +73,14 @@
       "onboard_time": 1736340143,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1208841,
+      "num": 877957,
+      "word": "再见爱人4大结局",
+      "onboard_time": 1736396602,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 1192254,
@@ -107,14 +139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 948378,
-      "num": 877957,
-      "word": "再见爱人4大结局",
-      "onboard_time": 1736396602,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 906235,
       "num": 925275,
       "word": "国色芳华刘畅家暴",
@@ -155,14 +179,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 818458,
-      "num": 818458,
-      "word": "韩国人顺产头",
-      "onboard_time": 1736395401,
-      "rank": 14,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 805244,
       "num": 805244,
       "word": "张雪峰霸气谈女儿就业",
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 771789,
-      "num": 383644,
+      "num": 489838,
       "word": "赵樱子自曝曾对成毅因戏生情",
       "onboard_time": 1736383278,
       "rank": 15,
@@ -235,11 +251,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 563188,
-      "num": 563188,
-      "word": "麦琳李行亮都下车了",
-      "onboard_time": 1736397023,
-      "rank": 14,
+      "raw_hot": 568021,
+      "num": 568021,
+      "word": "李一桐 脏了我的手",
+      "onboard_time": 1736398222,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -315,12 +331,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 400249,
-      "num": 400249,
-      "word": "葛夕没下车",
-      "onboard_time": 1736397143,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 403423,
+      "num": 339655,
+      "word": "刘亦菲夸孟子义好美",
+      "onboard_time": 1736399603,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 394509,
@@ -353,6 +369,14 @@
       "onboard_time": 1736346624,
       "rank": 7,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 358159,
+      "num": 358159,
+      "word": "杨紫微博之夜官宣",
+      "onboard_time": 1736399061,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 352333,
@@ -523,6 +547,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 220213,
+      "num": 220213,
+      "word": "泰缅边境失联模特经历与王星相似",
+      "onboard_time": 1736397443,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219918,
+      "num": 219918,
+      "word": "肖战人物封面一小时销量",
+      "onboard_time": 1736398762,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215713,
       "num": 215713,
       "word": "女子弟弟被绑到缅甸对方要10万元赎金",
@@ -548,7 +588,7 @@
     },
     {
       "raw_hot": 206662,
-      "num": 206662,
+      "num": 251839,
       "word": "无限暖暖",
       "onboard_time": 1736395583,
       "rank": 37,
@@ -611,6 +651,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 187580,
+      "num": 187580,
+      "word": "一上车以为自己出国了",
+      "onboard_time": 1736397624,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187213,
       "num": 187213,
       "word": "2025双鱼座人生大逆转",
@@ -651,12 +699,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173157,
+      "num": 173157,
+      "word": "我国发现猴痘病毒Ib亚分支聚集性疫情",
+      "onboard_time": 1736399302,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172576,
       "num": 172576,
       "word": "孟子义李昀锐七字真言",
       "onboard_time": 1736349922,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 170970,
+      "num": 170970,
+      "word": "王楚钦马龙樊振东都去微博之夜",
+      "onboard_time": 1736400021,
+      "rank": 40,
+      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 168972,
@@ -683,6 +747,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 165882,
+      "num": 165882,
+      "word": "汪苏泷徐志胜李雪琴辽视春晚团建",
+      "onboard_time": 1736399482,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164728,
       "num": 164728,
       "word": "敖瑞鹏上桌了",
@@ -697,6 +769,14 @@
       "onboard_time": 1736396302,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156138,
+      "num": 156138,
+      "word": "王俊凯谈饰演潜艇兵",
+      "onboard_time": 1736399720,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 155960,
@@ -739,22 +819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148870,
-      "num": 148870,
-      "word": "泰缅边境失联模特经历与王星相似",
-      "onboard_time": 1736397443,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 146238,
-      "num": 146238,
-      "word": "一上车以为自己出国了",
-      "onboard_time": 1736397624,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 145557,
       "num": 145557,
       "word": "宋承宪现在还会叫宋慧乔恩熙",
@@ -769,6 +833,14 @@
       "onboard_time": 1736343262,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141339,
+      "num": 141339,
+      "word": "WTT从未公布过年度财务情况",
+      "onboard_time": 1736398522,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 140636,
@@ -809,6 +881,14 @@
       "onboard_time": 1736351782,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136892,
+      "num": 136892,
+      "word": "chiikawa官方入驻微博",
+      "onboard_time": 1736400021,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 136282,
@@ -1027,6 +1107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103412,
+      "num": 244878,
+      "word": "墨总统讽刺性回应特朗普提议",
+      "onboard_time": 1736398465,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 102947,
       "num": 102947,
       "word": "芒果认证国色芳华是爆剧",
@@ -1065,6 +1153,14 @@
       "onboard_time": 1736377035,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87537,
+      "num": 618679,
+      "word": "创意反诈视频能救一个是一个",
+      "onboard_time": 1736399542,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87286,
@@ -1195,6 +1291,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 72098,
+      "num": 247914,
+      "word": "男性HPV感染率达90%",
+      "onboard_time": 1736399003,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 71139,
       "num": 192106,
       "word": "燕云十六声回应五谷不分",
@@ -1265,6 +1369,14 @@
       "onboard_time": 1736393601,
       "rank": 24,
       "category": "剧集,游戏"
+    },
+    {
+      "raw_hot": 46344,
+      "num": 247642,
+      "word": "susu福福",
+      "onboard_time": 1736398823,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 40945,
@@ -1361,6 +1473,14 @@
       "onboard_time": 1736362753,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 25013,
+      "num": 220026,
+      "word": "王鹤棣许七安不过下一秒即将破功",
+      "onboard_time": 1736398642,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 24382,

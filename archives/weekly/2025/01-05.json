@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736397654050,
+  "endTime": 1736400081792,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -257,6 +257,14 @@
       "onboard_time": 1736349323,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2735310,
+      "num": 2735310,
+      "word": "黄圣依没下车",
+      "onboard_time": 1736396663,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 2651426,
@@ -651,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1672515,
+      "num": 954739,
+      "word": "麦琳李行亮都下车了",
+      "onboard_time": 1736397023,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1670209,
       "num": 1599709,
       "word": "4名中国演员侥幸逃脱泰国试戏骗局",
@@ -787,11 +803,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1399499,
-      "num": 1399499,
-      "word": "黄圣依没下车",
-      "onboard_time": 1736396663,
-      "rank": 30,
+      "raw_hot": 1411538,
+      "num": 819173,
+      "word": "葛夕没下车",
+      "onboard_time": 1736397143,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -891,6 +907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1328816,
+      "num": 935294,
+      "word": "韩国人顺产头",
+      "onboard_time": 1736395401,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1326077,
       "num": 1102735,
       "word": "国补",
@@ -977,6 +1001,14 @@
       "onboard_time": 1736134701,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1208841,
+      "num": 877957,
+      "word": "再见爱人4大结局",
+      "onboard_time": 1736396602,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 1196710,
@@ -1267,14 +1299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 948378,
-      "num": 877957,
-      "word": "再见爱人4大结局",
-      "onboard_time": 1736396602,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 944114,
       "num": 944114,
       "word": "四川地震",
@@ -1539,14 +1563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 818458,
-      "num": 818458,
-      "word": "韩国人顺产头",
-      "onboard_time": 1736395401,
-      "rank": 14,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 818308,
       "num": 203227,
       "word": "石悦",
@@ -1668,7 +1684,7 @@
     },
     {
       "raw_hot": 771789,
-      "num": 383644,
+      "num": 489838,
       "word": "赵樱子自曝曾对成毅因戏生情",
       "onboard_time": 1736383278,
       "rank": 15,
@@ -2355,20 +2371,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 568021,
+      "num": 568021,
+      "word": "李一桐 脏了我的手",
+      "onboard_time": 1736398222,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 567262,
       "num": 567262,
       "word": "古相思曲",
       "onboard_time": 1736057069,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 563188,
-      "num": 563188,
-      "word": "麦琳李行亮都下车了",
-      "onboard_time": 1736397023,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 561486,
@@ -3315,6 +3331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 403423,
+      "num": 339655,
+      "word": "刘亦菲夸孟子义好美",
+      "onboard_time": 1736399603,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 402483,
       "num": 283854,
       "word": "演员星星女友已落地曼谷",
@@ -3345,14 +3369,6 @@
       "onboard_time": 1736319141,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 400249,
-      "num": 400249,
-      "word": "葛夕没下车",
-      "onboard_time": 1736397143,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 399259,
@@ -3697,6 +3713,14 @@
       "onboard_time": 1736218342,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 358159,
+      "num": 358159,
+      "word": "杨紫微博之夜官宣",
+      "onboard_time": 1736399061,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 358121,
@@ -5763,12 +5787,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 220213,
+      "num": 220213,
+      "word": "泰缅边境失联模特经历与王星相似",
+      "onboard_time": 1736397443,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220165,
       "num": 220165,
       "word": "李昀锐宝格丽上班路透",
       "onboard_time": 1736337920,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 219918,
+      "num": 219918,
+      "word": "肖战人物封面一小时销量",
+      "onboard_time": 1736398762,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 219632,
@@ -6260,7 +6300,7 @@
     },
     {
       "raw_hot": 206662,
-      "num": 206662,
+      "num": 251839,
       "word": "无限暖暖",
       "onboard_time": 1736395583,
       "rank": 37,
@@ -7067,6 +7107,14 @@
       "category": "健康医疗,运动健身"
     },
     {
+      "raw_hot": 187580,
+      "num": 187580,
+      "word": "一上车以为自己出国了",
+      "onboard_time": 1736397624,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187484,
       "num": 187484,
       "word": "李现苦笑",
@@ -7531,6 +7579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173157,
+      "num": 173157,
+      "word": "我国发现猴痘病毒Ib亚分支聚集性疫情",
+      "onboard_time": 1736399302,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173150,
       "num": 324963,
       "word": "陈都灵说鞠婧祎美丽敬业",
@@ -7601,6 +7657,14 @@
       "onboard_time": 1736212340,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 170970,
+      "num": 170970,
+      "word": "王楚钦马龙樊振东都去微博之夜",
+      "onboard_time": 1736400021,
+      "rank": 40,
+      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 170853,
@@ -7881,6 +7945,14 @@
       "onboard_time": 1736322142,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165882,
+      "num": 165882,
+      "word": "汪苏泷徐志胜李雪琴辽视春晚团建",
+      "onboard_time": 1736399482,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 165503,
@@ -8299,6 +8371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156138,
+      "num": 156138,
+      "word": "王俊凯谈饰演潜艇兵",
+      "onboard_time": 1736399720,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 156039,
       "num": 244657,
       "word": "国色芳华顾问从事牡丹培育40年",
@@ -8643,14 +8723,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 148870,
-      "num": 148870,
-      "word": "泰缅边境失联模特经历与王星相似",
-      "onboard_time": 1736397443,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 148699,
       "num": 148699,
       "word": "马龙最想对阵刘国梁",
@@ -8769,14 +8841,6 @@
       "onboard_time": 1736307982,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146238,
-      "num": 146238,
-      "word": "一上车以为自己出国了",
-      "onboard_time": 1736397624,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 145935,
@@ -8953,6 +9017,14 @@
       "onboard_time": 1736093724,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141339,
+      "num": 141339,
+      "word": "WTT从未公布过年度财务情况",
+      "onboard_time": 1736398522,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 141237,
@@ -9161,6 +9233,14 @@
       "onboard_time": 1736349265,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136892,
+      "num": 136892,
+      "word": "chiikawa官方入驻微博",
+      "onboard_time": 1736400021,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 136776,
@@ -10787,6 +10867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103412,
+      "num": 244878,
+      "word": "墨总统讽刺性回应特朗普提议",
+      "onboard_time": 1736398465,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 102533,
       "num": 102533,
       "word": "王一博报名金像奖",
@@ -11297,6 +11385,14 @@
       "onboard_time": 1736306602,
       "rank": 2,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 87537,
+      "num": 618679,
+      "word": "创意反诈视频能救一个是一个",
+      "onboard_time": 1736399542,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87286,
@@ -11857,6 +11953,14 @@
       "onboard_time": 1736300720,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 72098,
+      "num": 247914,
+      "word": "男性HPV感染率达90%",
+      "onboard_time": 1736399003,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 71872,
@@ -12787,6 +12891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46344,
+      "num": 247642,
+      "word": "susu福福",
+      "onboard_time": 1736398823,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 46238,
       "num": 106628,
       "word": "华助中心曾成功救助妙瓦底逃跑男子",
@@ -13577,6 +13689,14 @@
       "onboard_time": 1736062584,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 25013,
+      "num": 220026,
+      "word": "王鹤棣许七安不过下一秒即将破功",
+      "onboard_time": 1736398642,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 24375,
