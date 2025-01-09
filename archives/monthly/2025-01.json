@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736426651478,
+  "endTime": 1736427591577,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1611,6 +1611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1282702,
+      "num": 1282702,
+      "word": "女子甲流4天洗完澡手脚不能动",
+      "onboard_time": 1736424082,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1279595,
       "num": 498781,
       "word": "王鹤棣你是真饿了",
@@ -1665,14 +1673,6 @@
       "onboard_time": 1735958537,
       "rank": 11,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 1263635,
-      "num": 1263635,
-      "word": "女子甲流4天洗完澡手脚不能动",
-      "onboard_time": 1736424082,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1263505,
@@ -1801,6 +1801,14 @@
       "onboard_time": 1736396602,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1202981,
+      "num": 1202981,
+      "word": "微博之夜名场面又要来了",
+      "onboard_time": 1736423003,
+      "rank": 1,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1196710,
@@ -2009,14 +2017,6 @@
       "onboard_time": 1735827442,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1113033,
-      "num": 1113033,
-      "word": "微博之夜名场面又要来了",
-      "onboard_time": 1736423003,
-      "rank": 1,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1110752,
@@ -2441,6 +2441,14 @@
       "onboard_time": 1736398222,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 967609,
+      "num": 967609,
+      "word": "买股代露娃",
+      "onboard_time": 1736425701,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 966952,
@@ -4627,6 +4635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 577807,
+      "num": 522737,
+      "word": "微博之夜好多cp啊",
+      "onboard_time": 1736425943,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 576390,
       "num": 576390,
       "word": "刘诗诗醉梦开机图",
@@ -5699,6 +5715,14 @@
       "category": "艺人,国内时政"
     },
     {
+      "raw_hot": 471337,
+      "num": 457124,
+      "word": "石原里美老公近照",
+      "onboard_time": 1736426842,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 470181,
       "num": 383834,
       "word": "孟子义李昀锐星光大赏聚餐照",
@@ -5899,6 +5923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 452921,
+      "num": 452921,
+      "word": "郑钦文 迪奥",
+      "onboard_time": 1736425522,
+      "rank": 23,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 452799,
       "num": 452799,
       "word": "鸣龙少年",
@@ -5944,6 +5976,14 @@
       "word": "西藏地震周边5公里有7个村庄",
       "onboard_time": 1736215879,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 450868,
+      "num": 477434,
+      "word": "疯狂小杨哥及三只羊被起诉",
+      "onboard_time": 1736425401,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -6080,14 +6120,6 @@
       "word": "现在拨打的电话",
       "onboard_time": 1735869979,
       "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 441824,
-      "num": 441824,
-      "word": "买股代露娃",
-      "onboard_time": 1736425701,
-      "rank": 11,
       "category": "剧集"
     },
     {
@@ -6507,14 +6539,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 414208,
-      "num": 414208,
-      "word": "疯狂小杨哥及三只羊被起诉",
-      "onboard_time": 1736425401,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 413445,
       "num": 320795,
       "word": "孟子义宝格丽晚宴造型",
@@ -6737,6 +6761,14 @@
       "onboard_time": 1736121860,
       "rank": 8,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 398241,
+      "num": 398241,
+      "word": "微博之夜重磅阵容官宣",
+      "onboard_time": 1736427142,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 397838,
@@ -7227,6 +7259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 371629,
+      "num": 237330,
+      "word": "肖战承认会入睡困难",
+      "onboard_time": 1736426542,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 371483,
       "num": 640595,
       "word": "王楚钦回应战胜樊振东",
@@ -7505,6 +7545,14 @@
       "onboard_time": 1735796001,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 357618,
+      "num": 357618,
+      "word": "深圳一区期末试卷太难延时20分钟",
+      "onboard_time": 1736425883,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 357194,
@@ -9291,6 +9339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286424,
+      "num": 467819,
+      "word": "好莱坞在洛杉矶大火中受创",
+      "onboard_time": 1736424082,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 286376,
       "num": 547187,
       "word": "美国车辆冲撞行人事件致10人死亡",
@@ -10003,14 +10059,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 263196,
-      "num": 263196,
-      "word": "郑钦文 迪奥",
-      "onboard_time": 1736425522,
-      "rank": 23,
-      "category": "体育,时尚"
-    },
-    {
       "raw_hot": 263138,
       "num": 462549,
       "word": "年货总买砂糖橘的敢买车厘子了",
@@ -10609,14 +10657,6 @@
       "onboard_time": 1736401580,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 245329,
-      "num": 467819,
-      "word": "好莱坞在洛杉矶大火中受创",
-      "onboard_time": 1736424082,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 245315,
@@ -11259,6 +11299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 229903,
+      "num": 221520,
+      "word": "辛雨锡直播",
+      "onboard_time": 1736425822,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229845,
       "num": 229845,
       "word": "京考出成绩",
@@ -11345,14 +11393,6 @@
       "onboard_time": 1735992329,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 228297,
-      "num": 228297,
-      "word": "肖战承认会入睡困难",
-      "onboard_time": 1736426542,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 227822,
@@ -11667,14 +11707,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 221808,
-      "num": 221808,
-      "word": "深圳一区期末试卷太难延时20分钟",
-      "onboard_time": 1736425883,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 221776,
       "num": 221776,
       "word": "大湾区音乐会舞台好梦幻",
@@ -11697,14 +11729,6 @@
       "onboard_time": 1736397443,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 221520,
-      "num": 221520,
-      "word": "辛雨锡直播",
-      "onboard_time": 1736425822,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 221092,
@@ -12667,6 +12691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206278,
+      "num": 206278,
+      "word": "敖瑞鹏好帅",
+      "onboard_time": 1736425522,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206252,
       "num": 390075,
       "word": "吴敬平 奥运会年和小胖的交流",
@@ -12681,14 +12713,6 @@
       "onboard_time": 1735823360,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 206205,
-      "num": 206205,
-      "word": "敖瑞鹏好帅",
-      "onboard_time": 1736425522,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 206195,
@@ -13393,6 +13417,14 @@
       "onboard_time": 1735790962,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199685,
+      "num": 199685,
+      "word": "洛杉矶",
+      "onboard_time": 1736427142,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 199615,
@@ -14739,6 +14771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186795,
+      "num": 186795,
+      "word": "在古装剧里看见最美鸡毛掸子了",
+      "onboard_time": 1736426782,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186725,
       "num": 186725,
       "word": "孙颖莎连胜三局逆转",
@@ -14849,6 +14889,14 @@
       "onboard_time": 1735691118,
       "rank": 34,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 185645,
+      "num": 185645,
+      "word": "余宇涵第一次外务vlog",
+      "onboard_time": 1736426363,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 185560,
@@ -15539,14 +15587,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 176189,
-      "num": 176189,
-      "word": "余宇涵第一次外务vlog",
-      "onboard_time": 1736426363,
-      "rank": 35,
-      "category": "演出"
-    },
-    {
       "raw_hot": 176167,
       "num": 176167,
       "word": "WINTER初雪Cover",
@@ -15577,6 +15617,14 @@
       "onboard_time": 1735961839,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176032,
+      "num": 176032,
+      "word": "从太空看洛杉矶山火",
+      "onboard_time": 1736427083,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 175805,
@@ -15641,6 +15689,14 @@
       "onboard_time": 1735747939,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174786,
+      "num": 174786,
+      "word": "哪吒封神和唐探能撑起这个春节吗",
+      "onboard_time": 1736424263,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 174665,
@@ -16035,6 +16091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171104,
+      "num": 171104,
+      "word": "2026预制梗",
+      "onboard_time": 1736426303,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171071,
       "num": 171071,
       "word": "第五人格",
@@ -16073,6 +16137,14 @@
       "onboard_time": 1736156484,
       "rank": 2,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 170713,
+      "num": 170713,
+      "word": "芒果剧宣",
+      "onboard_time": 1736427444,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 170574,
@@ -16291,6 +16363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168820,
+      "num": 168820,
+      "word": "国色芳华虐女主",
+      "onboard_time": 1736427501,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168739,
       "num": 168739,
       "word": "00后P人在路边办派对",
@@ -16329,6 +16409,14 @@
       "onboard_time": 1736348363,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168535,
+      "num": 168535,
+      "word": "一人之下6确定为半年番",
+      "onboard_time": 1736425943,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 168488,
@@ -16889,14 +16977,6 @@
       "onboard_time": 1735872078,
       "rank": 41,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 163530,
-      "num": 163530,
-      "word": "哪吒封神和唐探能撑起这个春节吗",
-      "onboard_time": 1736424263,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 163339,
@@ -17628,7 +17708,7 @@
     },
     {
       "raw_hot": 155586,
-      "num": 155586,
+      "num": 163395,
       "word": "宿舍投毒案嫌疑人投毒目标系另一宿友",
       "onboard_time": 1736424502,
       "rank": 39,
@@ -18105,14 +18185,6 @@
       "onboard_time": 1735962199,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 150474,
-      "num": 150474,
-      "word": "一人之下6确定为半年番",
-      "onboard_time": 1736425943,
-      "rank": 41,
-      "category": "动漫"
     },
     {
       "raw_hot": 150300,
@@ -22131,14 +22203,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 112806,
-      "num": 290681,
-      "word": "微博之夜好多cp啊",
-      "onboard_time": 1736425943,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 112514,
       "num": 112514,
       "word": "时光代理人",
@@ -22161,6 +22225,14 @@
       "onboard_time": 1736165423,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112336,
+      "num": 226780,
+      "word": "樊振东从青奥到奥运",
+      "onboard_time": 1736426723,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 112290,
@@ -24612,7 +24684,7 @@
     },
     {
       "raw_hot": 73593,
-      "num": 952487,
+      "num": 1062200,
       "word": "那些你不知道的北京地儿",
       "onboard_time": 1736414242,
       "rank": 2,
@@ -26932,7 +27004,7 @@
     },
     {
       "raw_hot": 39440,
-      "num": 192217,
+      "num": 207439,
       "word": "雅思官宣微博之夜",
       "onboard_time": 1736419161,
       "rank": 24,
@@ -27955,6 +28027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29507,
+      "num": 187034,
+      "word": "往届微博之夜上的神仙同框",
+      "onboard_time": 1736427083,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 29479,
       "num": 1608607,
       "word": "足迹2024",
@@ -28345,6 +28425,14 @@
       "onboard_time": 1735908260,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25940,
+      "num": 255460,
+      "word": "白月梵星妆造",
+      "onboard_time": 1736427322,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 25815,
@@ -29260,7 +29348,7 @@
     },
     {
       "raw_hot": 15056,
-      "num": 158627,
+      "num": 180254,
       "word": "容祖儿现场安排李宇春周笔畅合作",
       "onboard_time": 1736425401,
       "rank": 38,
@@ -29739,6 +29827,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 10277,
+      "num": 416955,
+      "word": "刘畅撒胶追妻",
+      "onboard_time": 1736422521,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 10273,
       "num": 48661,
       "word": "2025第1天遇见星空浪漫",
@@ -29761,14 +29857,6 @@
       "onboard_time": 1736368631,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9621,
-      "num": 416955,
-      "word": "刘畅撒胶追妻",
-      "onboard_time": 1736422521,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 9511,
