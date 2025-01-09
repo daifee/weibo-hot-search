@@ -1,6 +1,6 @@
 {
   "startTime": 1736440116531,
-  "endTime": 1736447486670,
+  "endTime": 1736448283276,
   "band_list": [
     {
       "raw_hot": 851405,
@@ -443,20 +443,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48060,
+      "num": 67938,
+      "word": "墨总统提出将北美洲改名为墨西哥美洲",
+      "onboard_time": 1736446153,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 39385,
       "num": 54501,
       "word": "美国加州马利布市发布撤离警报",
       "onboard_time": 1736441656,
       "rank": 49,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 38324,
-      "num": 41082,
-      "word": "墨总统提出将北美洲改名为墨西哥美洲",
-      "onboard_time": 1736446153,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 37767,
@@ -473,6 +473,22 @@
       "onboard_time": 1736443934,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 21839,
+      "num": 39208,
+      "word": "华晨宇专辑封面",
+      "onboard_time": 1736448071,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 21441,
+      "num": 39207,
+      "word": "宋慧乔不是能靠脸的年纪",
+      "onboard_time": 1736447952,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 16336,
@@ -505,6 +521,14 @@
       "onboard_time": 1736437280,
       "rank": 28,
       "category": "作品衍生,体育"
+    },
+    {
+      "raw_hot": 7206,
+      "num": 136141,
+      "word": "一粒种子从空间站留学归来",
+      "onboard_time": 1736433083,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 5109,
