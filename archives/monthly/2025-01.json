@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736419297889,
+  "endTime": 1736421538381,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1995,6 +1995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1110826,
+      "num": 1177732,
+      "word": "受害人没有删聊天记录成了关键证据",
+      "onboard_time": 1736417540,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1110752,
       "num": 376917,
       "word": "曝虞书欣将离开华策",
@@ -3187,6 +3195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 784825,
+      "num": 784825,
+      "word": "许七安下线",
+      "onboard_time": 1736415739,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 782868,
       "num": 605104,
       "word": "国色芳华热度",
@@ -3409,14 +3425,6 @@
       "onboard_time": 1735866080,
       "rank": 11,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 745667,
-      "num": 745667,
-      "word": "许七安下线",
-      "onboard_time": 1736415739,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 744576,
@@ -3647,14 +3655,6 @@
       "num": 699255,
       "word": "把19岁女乘客扔高速顺风车司机错在哪",
       "onboard_time": 1736216900,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 699102,
-      "num": 699102,
-      "word": "受害人没有删聊天记录成了关键证据",
-      "onboard_time": 1736417540,
       "rank": 9,
       "category": "民生新闻"
     },
@@ -4577,6 +4577,14 @@
       "onboard_time": 1735984043,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 579269,
+      "num": 579269,
+      "word": "美国滞留太空宇航员再发声",
+      "onboard_time": 1736418445,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 576390,
@@ -6017,6 +6025,14 @@
       "onboard_time": 1736164463,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 442714,
+      "num": 442714,
+      "word": "薛小婉任权订婚",
+      "onboard_time": 1736420841,
+      "rank": 7,
+      "category": "网红"
     },
     {
       "raw_hot": 442488,
@@ -8707,6 +8723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301657,
+      "num": 301657,
+      "word": "田曦薇演技",
+      "onboard_time": 1736419880,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 301581,
       "num": 301581,
       "word": "三人行群演爆料",
@@ -9161,6 +9185,14 @@
       "onboard_time": 1736062825,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 286870,
+      "num": 286870,
+      "word": "大奉打更人豆瓣开分5.4",
+      "onboard_time": 1736415680,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 286668,
@@ -9819,6 +9851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 264047,
+      "num": 211280,
+      "word": "国色芳华 她在仰视我却觉得被俯视了",
+      "onboard_time": 1736418861,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 263825,
       "num": 725705,
       "word": "2025第1条微博",
@@ -9881,6 +9921,14 @@
       "onboard_time": 1735973421,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 263133,
+      "num": 210681,
+      "word": "女生打到放满柠檬的网约车",
+      "onboard_time": 1736418742,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 262587,
@@ -10779,14 +10827,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 237709,
-      "num": 166147,
-      "word": "女生打到放满柠檬的网约车",
-      "onboard_time": 1736418742,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 237635,
       "num": 986368,
       "word": "阿姨拍照让蒋欣让一让",
@@ -10817,6 +10857,14 @@
       "onboard_time": 1735961540,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 236655,
+      "num": 209284,
+      "word": "杨紫 小葡萄长成了真牡丹",
+      "onboard_time": 1736420181,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 235844,
@@ -11035,20 +11083,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 231358,
-      "num": 269486,
-      "word": "大奉打更人豆瓣开分5.4",
-      "onboard_time": 1736415680,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 231319,
       "num": 231319,
       "word": "潘展乐被美国泳坛杂志评为世界第一",
       "onboard_time": 1735907240,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231279,
+      "num": 207995,
+      "word": "白月梵星编剧",
+      "onboard_time": 1736416521,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 230936,
@@ -11809,6 +11857,14 @@
       "onboard_time": 1736137587,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216676,
+      "num": 207718,
+      "word": "白鹿 二小姐专业户",
+      "onboard_time": 1736420361,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 216658,
@@ -13923,6 +13979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192286,
+      "num": 442916,
+      "word": "全球三分之二的iPad出自川渝",
+      "onboard_time": 1736411961,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192091,
       "num": 182298,
       "word": "WTT世界排名越高违规罚款越多",
@@ -14097,6 +14161,14 @@
       "onboard_time": 1735788742,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190679,
+      "num": 190679,
+      "word": "用辣椒喷雾强迫女子转账并发生关系",
+      "onboard_time": 1736420181,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190590,
@@ -14329,6 +14401,14 @@
       "onboard_time": 1736328441,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188311,
+      "num": 188311,
+      "word": "这不是游戏这是真实英雄的日常",
+      "onboard_time": 1736421201,
+      "rank": 32,
+      "category": "正能量"
     },
     {
       "raw_hot": 188280,
@@ -14691,14 +14771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 184461,
-      "num": 442916,
-      "word": "全球三分之二的iPad出自川渝",
-      "onboard_time": 1736411961,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 184436,
       "num": 146535,
       "word": "王鹤棣李昀锐后台拥抱",
@@ -15027,14 +15099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179841,
-      "num": 179841,
-      "word": "国色芳华 她在仰视我却觉得被俯视了",
-      "onboard_time": 1736418861,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 179838,
       "num": 179838,
       "word": "甄姬雪境奇遇皮肤",
@@ -15129,6 +15193,14 @@
       "onboard_time": 1736320582,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178803,
+      "num": 178803,
+      "word": "张康乐马柏全 费加罗",
+      "onboard_time": 1736420541,
+      "rank": 34,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 178373,
@@ -16371,14 +16443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165847,
-      "num": 165847,
-      "word": "白月梵星编剧",
-      "onboard_time": 1736416521,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 165806,
       "num": 165806,
       "word": "感觉上海外滩有一亿个人在跨年",
@@ -17049,14 +17113,6 @@
       "onboard_time": 1736318241,
       "rank": 33,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 158464,
-      "num": 158464,
-      "word": "美国滞留太空宇航员再发声",
-      "onboard_time": 1736418445,
-      "rank": 33,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 158427,
@@ -17835,6 +17891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150516,
+      "num": 150516,
+      "word": "怎么看空姐养猪两月赚20万元",
+      "onboard_time": 1736421075,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150300,
       "num": 164208,
       "word": "他们从学生餐费里收了70多万回扣",
@@ -18145,6 +18209,14 @@
       "onboard_time": 1735664243,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147807,
+      "num": 147807,
+      "word": "成都太古里偶遇刘宪华",
+      "onboard_time": 1736415261,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 147805,
@@ -18875,6 +18947,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 140898,
+      "num": 208944,
+      "word": "樊振东曾说就算自己没拿冠军也很棒",
+      "onboard_time": 1736419880,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140864,
       "num": 140864,
       "word": "李现说杨紫是国色芳华团宠",
@@ -18921,14 +19001,6 @@
       "onboard_time": 1735692259,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140668,
-      "num": 140668,
-      "word": "成都太古里偶遇刘宪华",
-      "onboard_time": 1736415261,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 140608,
@@ -19227,12 +19299,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 137680,
+      "num": 137680,
+      "word": "白月梵星异城副本",
+      "onboard_time": 1736421381,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 137676,
+      "num": 137676,
+      "word": "华晨宇 唇环",
+      "onboard_time": 1736419161,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137674,
       "num": 137674,
       "word": "原来滑雪从不考验装备",
       "onboard_time": 1735801761,
       "rank": 46,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 137618,
+      "num": 137618,
+      "word": "郑钦文德约互问金牌",
+      "onboard_time": 1736419521,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 137616,
@@ -19347,6 +19443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136902,
+      "num": 136902,
+      "word": "梵樾护妻",
+      "onboard_time": 1736421442,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136786,
       "num": 343271,
       "word": "林高远告别乒超总决赛",
@@ -19457,6 +19561,14 @@
       "onboard_time": 1735706721,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136029,
+      "num": 136029,
+      "word": "陈星旭张真源互为反义词",
+      "onboard_time": 1736419101,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 135925,
@@ -20475,20 +20587,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 125850,
-      "num": 125850,
-      "word": "陈星旭张真源互为反义词",
-      "onboard_time": 1736419101,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 125759,
       "num": 125759,
       "word": "孙颖莎新年第1天绝地逆转",
       "onboard_time": 1735715239,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125714,
+      "num": 125714,
+      "word": "白鹿 你是一只小狐狸",
+      "onboard_time": 1736421442,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 125710,
@@ -21579,14 +21691,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 115046,
-      "num": 115046,
-      "word": "华晨宇 唇环",
-      "onboard_time": 1736419161,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 115043,
       "num": 499425,
       "word": "感觉成毅头上永远有个加载符号",
@@ -21809,6 +21913,14 @@
       "onboard_time": 1736162181,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 112497,
+      "num": 112497,
+      "word": "用李现转场打开大美湖南",
+      "onboard_time": 1736420720,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 112438,
@@ -22417,6 +22529,14 @@
       "onboard_time": 1736220021,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 104698,
+      "num": 212182,
+      "word": "宋慧乔首次回应外界传闻",
+      "onboard_time": 1736420841,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 104689,
@@ -24259,6 +24379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73593,
+      "num": 819306,
+      "word": "那些你不知道的北京地儿",
+      "onboard_time": 1736414242,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73262,
       "num": 201711,
       "word": "相信樊振东未来不止于此",
@@ -24433,14 +24561,6 @@
       "onboard_time": 1735696822,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 70513,
-      "num": 706414,
-      "word": "那些你不知道的北京地儿",
-      "onboard_time": 1736414242,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 70408,
@@ -26027,6 +26147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45802,
+      "num": 136095,
+      "word": "劝爸妈去体检有多难",
+      "onboard_time": 1736420001,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 45519,
       "num": 513137,
       "word": "亲历美国加州山火的中国人发声",
@@ -26433,6 +26561,14 @@
       "onboard_time": 1736054249,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 41501,
+      "num": 291215,
+      "word": "洛杉矶至少1100栋建筑被烧",
+      "onboard_time": 1736420901,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 41086,
@@ -27113,6 +27249,14 @@
       "onboard_time": 1735792824,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 33672,
+      "num": 148922,
+      "word": "容祖儿古巨基是最佳损友吧",
+      "onboard_time": 1736418680,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 33450,
@@ -28179,14 +28323,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 22872,
-      "num": 131743,
-      "word": "容祖儿古巨基是最佳损友吧",
-      "onboard_time": 1736418680,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 22857,
       "num": 41104,
       "word": "朗朗官宣微博之夜",
@@ -28441,6 +28577,14 @@
       "onboard_time": 1736327182,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19668,
+      "num": 211595,
+      "word": "美国加州新年6天发生35起山火",
+      "onboard_time": 1736421075,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 19523,
@@ -29361,6 +29505,14 @@
       "onboard_time": 1736177423,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 9437,
+      "num": 194220,
+      "word": "为什么男生需要打HPV疫苗",
+      "onboard_time": 1736421075,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 9431,

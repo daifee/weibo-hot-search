@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736419297889,
+  "endTime": 1736421538381,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1995,6 +1995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1110826,
+      "num": 1177732,
+      "word": "受害人没有删聊天记录成了关键证据",
+      "onboard_time": 1736417540,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1110752,
       "num": 376917,
       "word": "曝虞书欣将离开华策",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735958117,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 975177,
-      "num": 1156028,
-      "word": "德国电价跌至0以下",
-      "onboard_time": 1735884260,
-      "rank": 15,
-      "category": "海外新闻"
     }
   ],
   "hotgov_list": [

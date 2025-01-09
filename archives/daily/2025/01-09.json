@@ -1,6 +1,6 @@
 {
   "startTime": 1736353721044,
-  "endTime": 1736419297889,
+  "endTime": 1736421538381,
   "band_list": [
     {
       "raw_hot": 2735310,
@@ -155,6 +155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1110826,
+      "num": 1177732,
+      "word": "受害人没有删聊天记录成了关键证据",
+      "onboard_time": 1736417540,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1100169,
       "num": 1176027,
       "word": "模特杨泽琪在泰缅边境失联",
@@ -275,6 +283,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 784825,
+      "num": 784825,
+      "word": "许七安下线",
+      "onboard_time": 1736415739,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 771789,
       "num": 489838,
       "word": "赵樱子自曝曾对成毅因戏生情",
@@ -289,14 +305,6 @@
       "onboard_time": 1736399603,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 745667,
-      "num": 745667,
-      "word": "许七安下线",
-      "onboard_time": 1736415739,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 732208,
@@ -329,14 +337,6 @@
       "onboard_time": 1736341042,
       "rank": 3,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 699102,
-      "num": 699102,
-      "word": "受害人没有删聊天记录成了关键证据",
-      "onboard_time": 1736417540,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 686522,
@@ -409,6 +409,14 @@
       "onboard_time": 1736410043,
       "rank": 37,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 579269,
+      "num": 579269,
+      "word": "美国滞留太空宇航员再发声",
+      "onboard_time": 1736418445,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 570464,
@@ -553,6 +561,14 @@
       "onboard_time": 1736384721,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 442714,
+      "num": 442714,
+      "word": "薛小婉任权订婚",
+      "onboard_time": 1736420841,
+      "rank": 7,
+      "category": "网红"
     },
     {
       "raw_hot": 427797,
@@ -723,6 +739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 301657,
+      "num": 301657,
+      "word": "田曦薇演技",
+      "onboard_time": 1736419880,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 300898,
       "num": 291166,
       "word": "小猫突然出现按下辞职报告发送键",
@@ -744,6 +768,14 @@
       "word": "云合",
       "onboard_time": 1736411182,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 286870,
+      "num": 286870,
+      "word": "大奉打更人豆瓣开分5.4",
+      "onboard_time": 1736415680,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -819,6 +851,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264047,
+      "num": 211280,
+      "word": "国色芳华 她在仰视我却觉得被俯视了",
+      "onboard_time": 1736418861,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 263133,
+      "num": 210681,
+      "word": "女生打到放满柠檬的网约车",
+      "onboard_time": 1736418742,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 256039,
       "num": 256039,
       "word": "孙乐言奥斯卡太甜啦",
@@ -867,12 +915,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 237709,
-      "num": 166147,
-      "word": "女生打到放满柠檬的网约车",
-      "onboard_time": 1736418742,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 236655,
+      "num": 209284,
+      "word": "杨紫 小葡萄长成了真牡丹",
+      "onboard_time": 1736420181,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 233983,
@@ -907,11 +955,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 231358,
-      "num": 269486,
-      "word": "大奉打更人豆瓣开分5.4",
-      "onboard_time": 1736415680,
-      "rank": 22,
+      "raw_hot": 231279,
+      "num": 207995,
+      "word": "白月梵星编剧",
+      "onboard_time": 1736416521,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -985,6 +1033,14 @@
       "onboard_time": 1736408300,
       "rank": 26,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 216676,
+      "num": 207718,
+      "word": "白鹿 二小姐专业户",
+      "onboard_time": 1736420361,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 215713,
@@ -1123,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192286,
+      "num": 442916,
+      "word": "全球三分之二的iPad出自川渝",
+      "onboard_time": 1736411961,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192085,
       "num": 192085,
       "word": "澳网郑钦文萨巴伦卡同区",
@@ -1155,6 +1219,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 190679,
+      "num": 190679,
+      "word": "用辣椒喷雾强迫女子转账并发生关系",
+      "onboard_time": 1736420181,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189848,
       "num": 436012,
       "word": "美国加州南部山火已致多人死亡",
@@ -1177,6 +1249,14 @@
       "onboard_time": 1736416100,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188311,
+      "num": 188311,
+      "word": "这不是游戏这是真实英雄的日常",
+      "onboard_time": 1736421201,
+      "rank": 32,
+      "category": "正能量"
     },
     {
       "raw_hot": 188280,
@@ -1251,14 +1331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 184461,
-      "num": 442916,
-      "word": "全球三分之二的iPad出自川渝",
-      "onboard_time": 1736411961,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 183632,
       "num": 322209,
       "word": "寒假未成年仅15小时游戏时间",
@@ -1291,19 +1363,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179841,
-      "num": 179841,
-      "word": "国色芳华 她在仰视我却觉得被俯视了",
-      "onboard_time": 1736418861,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 179350,
       "num": 179350,
       "word": "宫脇咲良个人针织品牌",
       "onboard_time": 1736412922,
       "rank": 27,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 178803,
+      "num": 178803,
+      "word": "张康乐马柏全 费加罗",
+      "onboard_time": 1736420541,
+      "rank": 34,
       "category": "艺人,时尚"
     },
     {
@@ -1363,14 +1435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165847,
-      "num": 165847,
-      "word": "白月梵星编剧",
-      "onboard_time": 1736416521,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 164728,
       "num": 164728,
       "word": "敖瑞鹏上桌了",
@@ -1401,14 +1465,6 @@
       "onboard_time": 1736403860,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158464,
-      "num": 158464,
-      "word": "美国滞留太空宇航员再发声",
-      "onboard_time": 1736418445,
-      "rank": 33,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 158427,
@@ -1483,12 +1539,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150516,
+      "num": 150516,
+      "word": "怎么看空姐养猪两月赚20万元",
+      "onboard_time": 1736421075,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148911,
       "num": 148911,
       "word": "女性要多成功才能被看见",
       "onboard_time": 1736407340,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147807,
+      "num": 147807,
+      "word": "成都太古里偶遇刘宪华",
+      "onboard_time": 1736415261,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 147805,
@@ -1587,12 +1659,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140668,
-      "num": 140668,
-      "word": "成都太古里偶遇刘宪华",
-      "onboard_time": 1736415261,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 140898,
+      "num": 208944,
+      "word": "樊振东曾说就算自己没拿冠军也很棒",
+      "onboard_time": 1736419880,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 140636,
@@ -1627,6 +1699,30 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 137680,
+      "num": 137680,
+      "word": "白月梵星异城副本",
+      "onboard_time": 1736421381,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 137676,
+      "num": 137676,
+      "word": "华晨宇 唇环",
+      "onboard_time": 1736419161,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 137618,
+      "num": 137618,
+      "word": "郑钦文德约互问金牌",
+      "onboard_time": 1736419521,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137489,
       "num": 137489,
       "word": "张康乐的富士",
@@ -1643,6 +1739,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 136902,
+      "num": 136902,
+      "word": "梵樾护妻",
+      "onboard_time": 1736421442,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136550,
       "num": 136550,
       "word": "00后女孩与网友去泰国后失联",
@@ -1657,6 +1761,14 @@
       "onboard_time": 1736394862,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 136029,
+      "num": 136029,
+      "word": "陈星旭张真源互为反义词",
+      "onboard_time": 1736419101,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 135648,
@@ -1747,12 +1859,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 125850,
-      "num": 125850,
-      "word": "陈星旭张真源互为反义词",
-      "onboard_time": 1736419101,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 125714,
+      "num": 125714,
+      "word": "白鹿 你是一只小狐狸",
+      "onboard_time": 1736421442,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 125500,
@@ -1923,20 +2035,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 115046,
-      "num": 115046,
-      "word": "华晨宇 唇环",
-      "onboard_time": 1736419161,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 114446,
       "num": 114446,
       "word": "健身教练带娃四个月变潦草小狗",
       "onboard_time": 1736384482,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112497,
+      "num": 112497,
+      "word": "用李现转场打开大美湖南",
+      "onboard_time": 1736420720,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 112290,
@@ -2049,6 +2161,14 @@
       "onboard_time": 1736410402,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104698,
+      "num": 212182,
+      "word": "宋慧乔首次回应外界传闻",
+      "onboard_time": 1736420841,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 104689,
@@ -2259,6 +2379,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 73593,
+      "num": 819306,
+      "word": "那些你不知道的北京地儿",
+      "onboard_time": 1736414242,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71542,
       "num": 388211,
       "word": "梅大高速下跪拦车的老人拒引流带货",
@@ -2273,14 +2401,6 @@
       "onboard_time": 1736394922,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 70513,
-      "num": 706414,
-      "word": "那些你不知道的北京地儿",
-      "onboard_time": 1736414242,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 69596,
@@ -2419,6 +2539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 45802,
+      "num": 136095,
+      "word": "劝爸妈去体检有多难",
+      "onboard_time": 1736420001,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 45519,
       "num": 513137,
       "word": "亲历美国加州山火的中国人发声",
@@ -2457,6 +2585,14 @@
       "onboard_time": 1736403741,
       "rank": 19,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 41501,
+      "num": 291215,
+      "word": "洛杉矶至少1100栋建筑被烧",
+      "onboard_time": 1736420901,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 40945,
@@ -2545,6 +2681,14 @@
       "onboard_time": 1736407520,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33672,
+      "num": 148922,
+      "word": "容祖儿古巨基是最佳损友吧",
+      "onboard_time": 1736418680,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 30471,
@@ -2667,14 +2811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 22872,
-      "num": 131743,
-      "word": "容祖儿古巨基是最佳损友吧",
-      "onboard_time": 1736418680,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 21599,
       "num": 332509,
       "word": "梁伟铿王昶vs徐承宰金元浩",
@@ -2689,6 +2825,14 @@
       "onboard_time": 1736407879,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 19668,
+      "num": 211595,
+      "word": "美国加州新年6天发生35起山火",
+      "onboard_time": 1736421075,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 18981,
@@ -2777,6 +2921,14 @@
       "onboard_time": 1736368631,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9437,
+      "num": 194220,
+      "word": "为什么男生需要打HPV疫苗",
+      "onboard_time": 1736421075,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 6903,
