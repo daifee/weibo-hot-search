@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736432504179,
+  "endTime": 1736433583778,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1235,6 +1235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1550915,
+      "num": 1550915,
+      "word": "国色芳华收视率",
+      "onboard_time": 1736430444,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1538021,
       "num": 1061062,
       "word": "假唱",
@@ -1777,14 +1785,6 @@
       "onboard_time": 1735978221,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1222553,
-      "num": 771571,
-      "word": "国色芳华收视率",
-      "onboard_time": 1736430444,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1216298,

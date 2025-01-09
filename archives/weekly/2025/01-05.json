@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736432504179,
+  "endTime": 1736433583778,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -763,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1550915,
+      "num": 1550915,
+      "word": "国色芳华收视率",
+      "onboard_time": 1736430444,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1537363,
       "num": 449072,
       "word": "雅典娜",
@@ -1049,14 +1057,6 @@
       "onboard_time": 1736306481,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1222553,
-      "num": 771571,
-      "word": "国色芳华收视率",
-      "onboard_time": 1736430444,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1211933,
@@ -1891,6 +1891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 758996,
+      "num": 758996,
+      "word": "疯狂小杨哥及三只羊被起诉",
+      "onboard_time": 1736425401,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 755901,
       "num": 522007,
       "word": "秦霄贤姐姐回应辛雨锡",
@@ -2120,14 +2128,6 @@
       "word": "贪了2亿元的三甲院长赃款藏屋子夹层",
       "onboard_time": 1736302340,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 686960,
-      "num": 686960,
-      "word": "疯狂小杨哥及三只羊被起诉",
-      "onboard_time": 1736425401,
-      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -2835,6 +2835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 518493,
+      "num": 531981,
+      "word": "特朗普再发美版新地图",
+      "onboard_time": 1736430203,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 518491,
       "num": 661282,
       "word": "橙光崩了",
@@ -3091,6 +3099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 483469,
+      "num": 313874,
+      "word": "胡冰卿时隔7年杀回古装赛道",
+      "onboard_time": 1736429123,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 483150,
       "num": 483150,
       "word": "市监局工作人员回应九点没人上班",
@@ -3105,14 +3121,6 @@
       "onboard_time": 1736083290,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 482198,
-      "num": 313874,
-      "word": "胡冰卿时隔7年杀回古装赛道",
-      "onboard_time": 1736429123,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 480661,
@@ -4339,6 +4347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 341752,
+      "num": 266033,
+      "word": "杨紫搭李现的含金量还在上升",
+      "onboard_time": 1736431523,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 341497,
       "num": 217717,
       "word": "宋亚轩 当你见到了亚轩",
@@ -5515,6 +5531,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 266050,
+      "num": 314695,
+      "word": "中居正广承认性侵",
+      "onboard_time": 1736430323,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 266026,
+      "num": 266025,
+      "word": "Tor分手",
+      "onboard_time": 1736430263,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265204,
       "num": 265204,
       "word": "杨紫美我一大跳",
@@ -5819,28 +5851,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 249496,
-      "num": 531981,
-      "word": "特朗普再发美版新地图",
-      "onboard_time": 1736430203,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 249102,
       "num": 249102,
       "word": "GMM声明",
       "onboard_time": 1736225005,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 248753,
-      "num": 248753,
-      "word": "杨紫搭李现的含金量还在上升",
-      "onboard_time": 1736431523,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 248673,
@@ -5913,6 +5929,14 @@
       "onboard_time": 1736401580,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 244863,
+      "num": 432254,
+      "word": "美国加州山火每分钟吞噬5个足球场",
+      "onboard_time": 1736431702,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 244449,
@@ -6129,14 +6153,6 @@
       "onboard_time": 1736213061,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 234494,
-      "num": 234494,
-      "word": "Tor分手",
-      "onboard_time": 1736430263,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 234285,
@@ -6433,14 +6449,6 @@
       "onboard_time": 1736136444,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 223521,
-      "num": 314695,
-      "word": "中居正广承认性侵",
-      "onboard_time": 1736430323,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 223498,
@@ -6889,6 +6897,14 @@
       "onboard_time": 1736131280,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 211797,
+      "num": 211797,
+      "word": "女子一句话让骗子彻底破防",
+      "onboard_time": 1736431643,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 211747,
@@ -7387,6 +7403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201542,
+      "num": 201542,
+      "word": "离了祝绪丹谁还把我当小孩",
+      "onboard_time": 1736432363,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201531,
       "num": 201531,
       "word": "陕西蒲城通报一职校学生坠楼",
@@ -7659,6 +7683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194833,
+      "num": 194833,
+      "word": "敖瑞鹏 2025年爱上的第一个男人",
+      "onboard_time": 1736432003,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194800,
       "num": 194800,
       "word": "2025欢欢喜喜过非遗年",
@@ -7801,6 +7833,14 @@
       "onboard_time": 1736307022,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 192838,
+      "num": 192838,
+      "word": "肖战顺顺利利健健康康身份验证通过",
+      "onboard_time": 1736432962,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 192286,
@@ -8081,6 +8121,14 @@
       "onboard_time": 1736301440,
       "rank": 47,
       "category": "网红"
+    },
+    {
+      "raw_hot": 187233,
+      "num": 187233,
+      "word": "阿Sa回应阿娇变胖",
+      "onboard_time": 1736429843,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 187213,
@@ -8435,14 +8483,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 178745,
-      "num": 178745,
-      "word": "阿Sa回应阿娇变胖",
-      "onboard_time": 1736429843,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 177765,
       "num": 177765,
       "word": "诽谤林俊杰网友公开道歉",
@@ -8777,6 +8817,14 @@
       "onboard_time": 1736128522,
       "rank": 49,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 169798,
+      "num": 169798,
+      "word": "王楚钦微博之夜官宣",
+      "onboard_time": 1736433323,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 169671,
@@ -9499,14 +9547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 156713,
-      "num": 156713,
-      "word": "女子一句话让骗子彻底破防",
-      "onboard_time": 1736431643,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156364,
       "num": 156364,
       "word": "吴泽林教檀健次跳舞手脚打结",
@@ -9827,14 +9867,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 151104,
-      "num": 151104,
-      "word": "敖瑞鹏 2025年爱上的第一个男人",
-      "onboard_time": 1736432003,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 150978,
       "num": 150978,
       "word": "谁懂华晨宇唱情歌的杀伤力",
@@ -9849,14 +9881,6 @@
       "onboard_time": 1736086109,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 150208,
-      "num": 150208,
-      "word": "离了祝绪丹谁还把我当小孩",
-      "onboard_time": 1736432363,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 150122,
@@ -10371,6 +10395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140289,
+      "num": 140289,
+      "word": "大奉打更人好起来了",
+      "onboard_time": 1736433503,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139963,
       "num": 126804,
       "word": "超两千玩家投诉恋与深空爆率欺诈",
@@ -10433,6 +10465,14 @@
       "onboard_time": 1736371031,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139101,
+      "num": 139101,
+      "word": "苏翊鸣回应世界杯比赛排名垫底",
+      "onboard_time": 1736433442,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 139068,
@@ -13147,6 +13187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83276,
+      "num": 255420,
+      "word": "情侣同居要检查HPV吗",
+      "onboard_time": 1736429662,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 83188,
       "num": 83188,
       "word": "陈星旭我在这儿不合适吧",
@@ -13233,6 +13281,14 @@
       "onboard_time": 1736299042,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 81107,
+      "num": 813247,
+      "word": "感染甲流后不能硬扛",
+      "onboard_time": 1736433204,
+      "rank": 2,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 80711,
@@ -13329,6 +13385,14 @@
       "onboard_time": 1736149770,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 78980,
+      "num": 447028,
+      "word": "迪奥全球品牌大使郑钦文",
+      "onboard_time": 1736427983,
+      "rank": 13,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 78898,
@@ -13619,14 +13683,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 70916,
-      "num": 447028,
-      "word": "迪奥全球品牌大使郑钦文",
-      "onboard_time": 1736427983,
-      "rank": 13,
-      "category": "体育,时尚"
-    },
-    {
       "raw_hot": 70406,
       "num": 280955,
       "word": "地笼",
@@ -13803,14 +13859,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 66004,
-      "num": 255420,
-      "word": "情侣同居要检查HPV吗",
-      "onboard_time": 1736429662,
-      "rank": 40,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 65594,
       "num": 177186,
       "word": "无畏官宣微博之夜",
@@ -13937,14 +13985,6 @@
       "onboard_time": 1736144663,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 61890,
-      "num": 432254,
-      "word": "美国加州山火每分钟吞噬5个足球场",
-      "onboard_time": 1736431702,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 61494,
@@ -14459,6 +14499,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 50189,
+      "num": 1087829,
+      "word": "一图速览90亿人次春运如何保障",
+      "onboard_time": 1736414000,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50101,
       "num": 236902,
       "word": "大爷为褪鸡毛点燃液化气罐",
@@ -14609,14 +14657,6 @@
       "onboard_time": 1736398823,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 46273,
-      "num": 1087829,
-      "word": "一图速览90亿人次春运如何保障",
-      "onboard_time": 1736414000,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 46238,
@@ -15003,6 +15043,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 38280,
+      "num": 384192,
+      "word": "业主拒缴公摊水电费竟遭物业拆水表",
+      "onboard_time": 1736433024,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38242,
       "num": 184333,
       "word": "姚晨官宣2024微博之夜",
@@ -15121,6 +15169,14 @@
       "onboard_time": 1736061866,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34704,
+      "num": 224658,
+      "word": "洛杉矶华人称当地停电断网污染严重",
+      "onboard_time": 1736432962,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 34483,
