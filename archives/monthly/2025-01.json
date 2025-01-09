@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736412099311,
+  "endTime": 1736414633430,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -601,6 +601,14 @@
       "onboard_time": 1736321783,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2136319,
+      "num": 2136319,
+      "word": "金扫帚提名名单",
+      "onboard_time": 1736410701,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 2126402,
@@ -2091,14 +2099,6 @@
       "category": "读书作家,作品衍生"
     },
     {
-      "raw_hot": 1064931,
-      "num": 735371,
-      "word": "金扫帚提名名单",
-      "onboard_time": 1736410701,
-      "rank": 20,
-      "category": "电影"
-    },
-    {
       "raw_hot": 1063103,
       "num": 344235,
       "word": "鹿晗 肯德基",
@@ -3547,6 +3547,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 715433,
+      "num": 583846,
+      "word": "中国驻清迈总领馆回应模特杨泽琪失联",
+      "onboard_time": 1736410043,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 714364,
       "num": 714364,
       "word": "韩国小狗与遇难家人告别全程安静",
@@ -3697,6 +3705,14 @@
       "onboard_time": 1735805118,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 686522,
+      "num": 572269,
+      "word": "肖战微博之夜官宣",
+      "onboard_time": 1736412621,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 686504,
@@ -4467,6 +4483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 586227,
+      "num": 586227,
+      "word": "水果含糖量和热量排行榜",
+      "onboard_time": 1736410043,
+      "rank": 37,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 586153,
       "num": 586153,
       "word": "美珍香",
@@ -4569,6 +4593,14 @@
       "onboard_time": 1736172383,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 570464,
+      "num": 570464,
+      "word": "豆得儿泳装照",
+      "onboard_time": 1736411062,
+      "rank": 28,
+      "category": "网红"
     },
     {
       "raw_hot": 569085,
@@ -4921,6 +4953,14 @@
       "onboard_time": 1735898121,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 519777,
+      "num": 519777,
+      "word": "21岁中国女孩与网友赴泰国后失联",
+      "onboard_time": 1736411420,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 518959,
@@ -6987,14 +7027,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 375600,
-      "num": 375600,
-      "word": "豆得儿泳装照",
-      "onboard_time": 1736411062,
-      "rank": 28,
-      "category": "网红"
-    },
-    {
       "raw_hot": 374871,
       "num": 333276,
       "word": "孙颖莎周边",
@@ -7073,14 +7105,6 @@
       "onboard_time": 1736063787,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 368491,
-      "num": 550099,
-      "word": "中国驻清迈总领馆回应模特杨泽琪失联",
-      "onboard_time": 1736410043,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 368134,
@@ -9131,6 +9155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 284093,
+      "num": 284093,
+      "word": "会计桌上不能动的东西",
+      "onboard_time": 1736410223,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 283986,
       "num": 283986,
       "word": "宋佳想要成毅的微信",
@@ -10211,14 +10243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 248702,
-      "num": 248702,
-      "word": "会计桌上不能动的东西",
-      "onboard_time": 1736410223,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 248673,
       "num": 248673,
       "word": "西藏1小时内连发十余次地震",
@@ -10289,6 +10313,14 @@
       "onboard_time": 1735986683,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 247092,
+      "num": 247092,
+      "word": "唐嫣 蒂芙尼",
+      "onboard_time": 1736413761,
+      "rank": 22,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 246963,
@@ -10611,14 +10643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 239892,
-      "num": 239892,
-      "word": "水果含糖量和热量排行榜",
-      "onboard_time": 1736410043,
-      "rank": 37,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 239210,
       "num": 455289,
       "word": "易烊千玺拍过马路没人发现在拍电影",
@@ -10817,6 +10841,14 @@
       "onboard_time": 1736308463,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233563,
+      "num": 576802,
+      "word": "肖战与人物的五年之约",
+      "onboard_time": 1736174244,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 233393,
@@ -11051,6 +11083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228504,
+      "num": 228504,
+      "word": "留几手没看到葛夕留的东西",
+      "onboard_time": 1736412261,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228400,
       "num": 228400,
       "word": "锦月如歌",
@@ -11129,14 +11169,6 @@
       "onboard_time": 1735830142,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 226113,
-      "num": 226113,
-      "word": "肖战与人物的五年之约",
-      "onboard_time": 1736174244,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 226105,
@@ -11977,6 +12009,14 @@
       "onboard_time": 1735796242,
       "rank": 23,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 212105,
+      "num": 212105,
+      "word": "一大批电车车主失去维修自由",
+      "onboard_time": 1736413881,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 212071,
@@ -13329,6 +13369,14 @@
       "onboard_time": 1735953197,
       "rank": 23,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 196756,
+      "num": 286908,
+      "word": "美保险公司取消多地居民房屋保险",
+      "onboard_time": 1736413042,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 196568,
@@ -14881,6 +14929,14 @@
       "onboard_time": 1735812920,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 179350,
+      "num": 179350,
+      "word": "宫脇咲良个人针织品牌",
+      "onboard_time": 1736412922,
+      "rank": 27,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 179349,
@@ -16475,6 +16531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162958,
+      "num": 162958,
+      "word": "马斯克转发美国加州大火前后对比画面",
+      "onboard_time": 1736413581,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 162845,
       "num": 349299,
       "word": "虹膜写真图可破解虹膜门锁",
@@ -16529,6 +16593,14 @@
       "onboard_time": 1736246723,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162347,
+      "num": 175895,
+      "word": "全球三分之二的iPad出自川渝",
+      "onboard_time": 1736411961,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162240,
@@ -17923,6 +17995,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 148015,
+      "num": 148015,
+      "word": "冰糖王八 震我一撼",
+      "onboard_time": 1736413340,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147960,
       "num": 297778,
       "word": "重温嫦娥四号登月影像依然激动",
@@ -18819,6 +18899,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 139814,
+      "num": 179981,
+      "word": "奶油草莓",
+      "onboard_time": 1736411540,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 139728,
       "num": 139728,
       "word": "李泽言生日PV",
@@ -19083,6 +19171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137283,
+      "num": 137283,
+      "word": "Doinb谈加入NIP原因",
+      "onboard_time": 1736414060,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 137173,
       "num": 199420,
       "word": "成毅被风吹得东倒西歪",
@@ -19177,6 +19273,14 @@
       "onboard_time": 1735893260,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136550,
+      "num": 136550,
+      "word": "00后女孩与网友去泰国后失联",
+      "onboard_time": 1736413462,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136493,
@@ -19779,6 +19883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 130581,
+      "num": 410594,
+      "word": "月子中心跑路有产妇只能吃外卖",
+      "onboard_time": 1736411241,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130563,
       "num": 283099,
       "word": "WTT支持工作组审查现有法规",
@@ -19905,6 +20017,14 @@
       "onboard_time": 1735776859,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 129524,
+      "num": 459148,
+      "word": "再见爱人观察室嘉宾集体发文",
+      "onboard_time": 1736411062,
+      "rank": 14,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 129451,
@@ -20491,14 +20611,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 122527,
-      "num": 122527,
-      "word": "全球三分之二的iPad出自川渝",
-      "onboard_time": 1736411961,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 122517,
       "num": 122517,
       "word": "檀健次多鉴一次云访谈",
@@ -20521,6 +20633,14 @@
       "onboard_time": 1735956858,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 122276,
+      "num": 122276,
+      "word": "沈梦辰晒国色芳华hi6合照",
+      "onboard_time": 1736414481,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 122183,
@@ -20769,14 +20889,6 @@
       "onboard_time": 1736149049,
       "rank": 43,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 120213,
-      "num": 459148,
-      "word": "再见爱人观察室嘉宾集体发文",
-      "onboard_time": 1736411062,
-      "rank": 14,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 120140,
@@ -23091,14 +23203,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 87325,
-      "num": 410594,
-      "word": "月子中心跑路有产妇只能吃外卖",
-      "onboard_time": 1736411241,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87314,
       "num": 319753,
       "word": "孙颖莎说巴黎奥运会有遗憾但很开心",
@@ -23201,14 +23305,6 @@
       "onboard_time": 1735686735,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86075,
-      "num": 179981,
-      "word": "奶油草莓",
-      "onboard_time": 1736411540,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 86066,
@@ -23825,14 +23921,6 @@
       "onboard_time": 1736299761,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 75953,
-      "num": 400882,
-      "word": "21岁中国女孩与网友赴泰国后失联",
-      "onboard_time": 1736411420,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75907,
@@ -26203,6 +26291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39510,
+      "num": 513137,
+      "word": "亲历美国加州山火的中国人发声",
+      "onboard_time": 1736413642,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 39501,
       "num": 51712,
       "word": "贪官深信当上一把手是靠骗子运作",
@@ -26321,6 +26417,14 @@
       "onboard_time": 1736136143,
       "rank": 25,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 38496,
+      "num": 136659,
+      "word": "一图速览90亿人次春运如何保障",
+      "onboard_time": 1736414000,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38416,
@@ -27779,6 +27883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23054,
+      "num": 175225,
+      "word": "住酒店会被感染HPV吗",
+      "onboard_time": 1736413940,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 22994,
       "num": 384507,
       "word": "揭秘王家卫为什么拍繁花那么慢",
@@ -28225,6 +28337,14 @@
       "onboard_time": 1735686914,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 17690,
+      "num": 629012,
+      "word": "得了甲流如何用药",
+      "onboard_time": 1736414421,
+      "rank": 2,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 17421,

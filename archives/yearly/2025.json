@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736412099311,
+  "endTime": 1736414633430,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -601,6 +601,14 @@
       "onboard_time": 1736321783,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2136319,
+      "num": 2136319,
+      "word": "金扫帚提名名单",
+      "onboard_time": 1736410701,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 2126402,
@@ -2089,14 +2097,6 @@
       "onboard_time": 1736253985,
       "rank": 12,
       "category": "读书作家,作品衍生"
-    },
-    {
-      "raw_hot": 1064931,
-      "num": 735371,
-      "word": "金扫帚提名名单",
-      "onboard_time": 1736410701,
-      "rank": 20,
-      "category": "电影"
     },
     {
       "raw_hot": 1063103,
