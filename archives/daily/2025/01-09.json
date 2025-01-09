@@ -1,6 +1,6 @@
 {
   "startTime": 1736353721044,
-  "endTime": 1736415460972,
+  "endTime": 1736418246520,
   "band_list": [
     {
       "raw_hot": 2735310,
@@ -203,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 954873,
+      "num": 1152779,
+      "word": "黑神话悟空 春晚",
+      "onboard_time": 1736414843,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 948025,
       "num": 948025,
       "word": "43岁宋慧乔自曝年龄焦虑",
@@ -339,6 +347,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 664026,
+      "num": 664026,
+      "word": "许七安下线",
+      "onboard_time": 1736415739,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 662372,
       "num": 515331,
       "word": "赵丽颖官宣加盟微博之夜",
@@ -443,12 +459,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 486107,
+      "num": 486107,
+      "word": "肖战说童年是自己的滋养",
+      "onboard_time": 1736415139,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 460606,
       "num": 460606,
       "word": "男子被拐至缅甸给妻子发暗号求助",
       "onboard_time": 1736351600,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 454856,
+      "num": 450861,
+      "word": "唐嫣 蒂芙尼",
+      "onboard_time": 1736413761,
+      "rank": 22,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 453545,
@@ -475,14 +507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 450861,
-      "num": 450861,
-      "word": "唐嫣 蒂芙尼",
-      "onboard_time": 1736413761,
-      "rank": 22,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 449696,
       "num": 449696,
       "word": "孟子义李昀锐或将合体录制桃花坞",
@@ -505,6 +529,22 @@
       "onboard_time": 1736400680,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 419641,
+      "num": 419641,
+      "word": "一大批电车车主失去维修自由",
+      "onboard_time": 1736413881,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 405931,
+      "num": 405931,
+      "word": "马斯克转发美国加州大火前后对比画面",
+      "onboard_time": 1736413581,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 394509,
@@ -577,6 +617,14 @@
       "onboard_time": 1736404761,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 355301,
+      "num": 355301,
+      "word": "被困缅甸求救文档创建者发声",
+      "onboard_time": 1736416401,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 352333,
@@ -657,6 +705,14 @@
       "onboard_time": 1736345423,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 305718,
+      "num": 415442,
+      "word": "受害人没有删聊天记录成了关键证据",
+      "onboard_time": 1736417540,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 304503,
@@ -747,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267892,
+      "num": 267892,
+      "word": "湘潭大学投毒案受害者是秋水仙碱中毒",
+      "onboard_time": 1736416281,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 267789,
       "num": 267789,
       "word": "王星泰国获救最该感谢谁",
@@ -769,14 +833,6 @@
       "onboard_time": 1736341523,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 254311,
-      "num": 254311,
-      "word": "一大批电车车主失去维修自由",
-      "onboard_time": 1736413881,
-      "rank": 24,
-      "category": "汽车"
     },
     {
       "raw_hot": 251385,
@@ -841,6 +897,14 @@
       "onboard_time": 1736400202,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231358,
+      "num": 269486,
+      "word": "大奉打更人豆瓣开分5.4",
+      "onboard_time": 1736415680,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 230617,
@@ -947,14 +1011,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 212040,
-      "num": 182112,
-      "word": "黑神话悟空 春晚",
-      "onboard_time": 1736414843,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 208464,
       "num": 315789,
       "word": "NIP官宣Doinb加入",
@@ -1009,14 +1065,6 @@
       "onboard_time": 1736400021,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 202794,
-      "num": 202794,
-      "word": "马斯克转发美国加州大火前后对比画面",
-      "onboard_time": 1736413581,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 199572,
@@ -1097,6 +1145,14 @@
       "onboard_time": 1736403979,
       "rank": 27,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 188606,
+      "num": 188606,
+      "word": "孟子义田嘉瑞围观全醺版高叶",
+      "onboard_time": 1736416100,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 188280,
@@ -1225,6 +1281,14 @@
       "onboard_time": 1736349922,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 171961,
+      "num": 183990,
+      "word": "这些体检异常应及时就医",
+      "onboard_time": 1736414780,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 169303,
@@ -1427,6 +1491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144977,
+      "num": 144977,
+      "word": "白月梵星编剧",
+      "onboard_time": 1736416521,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144883,
       "num": 244878,
       "word": "墨总统讽刺性回应特朗普提议",
@@ -1499,6 +1571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 139640,
+      "num": 139640,
+      "word": "成都太古里偶遇刘宪华",
+      "onboard_time": 1736415261,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139285,
       "num": 139285,
       "word": "月子中心跑路新手宝妈手足无措",
@@ -1537,14 +1617,6 @@
       "onboard_time": 1736413462,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 136534,
-      "num": 136534,
-      "word": "成都太古里偶遇刘宪华",
-      "onboard_time": 1736415261,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 136282,
@@ -1595,6 +1667,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 133113,
+      "num": 133113,
+      "word": "王勉 我也没有很体面",
+      "onboard_time": 1736417601,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 132142,
+      "num": 320860,
+      "word": "男子多次抢劫失足女性获刑十三年",
+      "onboard_time": 1736416462,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130581,
       "num": 410594,
       "word": "月子中心跑路有产妇只能吃外卖",
@@ -1643,14 +1731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125099,
-      "num": 454439,
-      "word": "肖战说童年是自己的滋养",
-      "onboard_time": 1736415139,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 124482,
       "num": 124482,
       "word": "昀牵孟绕",
@@ -1665,6 +1745,14 @@
       "onboard_time": 1736388800,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123606,
+      "num": 123606,
+      "word": "杨仕泽发歌让祝绪丹有了些胜负欲",
+      "onboard_time": 1736415981,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 122276,
@@ -1713,6 +1801,14 @@
       "onboard_time": 1736399542,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120058,
+      "num": 629012,
+      "word": "得了甲流如何用药",
+      "onboard_time": 1736414421,
+      "rank": 2,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 119782,
@@ -1787,6 +1883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 112290,
+      "num": 112290,
+      "word": "好莱坞明星回应千万美元豪宅被烧毁",
+      "onboard_time": 1736416401,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 112125,
       "num": 112125,
       "word": "全球资本市场大跳水",
@@ -1832,6 +1936,22 @@
       "word": "原神队长",
       "onboard_time": 1736406260,
       "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 110234,
+      "num": 110234,
+      "word": "湖南卫视开车喊你看国色芳华",
+      "onboard_time": 1736418143,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 110172,
+      "num": 110172,
+      "word": "明日方舟 将千万生灵熬成回忆",
+      "onboard_time": 1736417300,
+      "rank": 47,
       "category": "游戏"
     },
     {
@@ -2091,14 +2211,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 73133,
-      "num": 183990,
-      "word": "这些体检异常应及时就医",
-      "onboard_time": 1736414780,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 71139,
       "num": 192106,
       "word": "燕云十六声回应五谷不分",
@@ -2121,14 +2233,6 @@
       "onboard_time": 1736410100,
       "rank": 27,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 68073,
-      "num": 629012,
-      "word": "得了甲流如何用药",
-      "onboard_time": 1736414421,
-      "rank": 2,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 67782,
@@ -2243,12 +2347,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 50277,
+      "num": 605458,
+      "word": "那些你不知道的北京地儿",
+      "onboard_time": 1736414242,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46344,
       "num": 247642,
       "word": "susu福福",
       "onboard_time": 1736398823,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 45775,
+      "num": 388211,
+      "word": "梅大高速下跪拦车的老人拒引流带货",
+      "onboard_time": 1736417300,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45519,
@@ -2377,6 +2497,14 @@
       "onboard_time": 1736360593,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 29588,
+      "num": 320909,
+      "word": "王一博邀你共同见证年度闪耀时刻",
+      "onboard_time": 1736417540,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 29339,
@@ -2537,6 +2665,14 @@
       "onboard_time": 1736374633,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11400,
+      "num": 132899,
+      "word": "男性是否会长期携带高危HPV",
+      "onboard_time": 1736417540,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 11167,
