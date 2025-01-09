@@ -1,0 +1,410 @@
+{
+  "runTime": 1736422539314,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1146840,
+        "num": 1183494,
+        "word": "受害人没有删聊天记录成了关键证据",
+        "onboard_time": 1736417540,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 778779,
+        "num": 778779,
+        "word": "黑神话悟空 春晚",
+        "onboard_time": 1736414843,
+        "rank": 1,
+        "category": "游戏,综艺"
+      },
+      {
+        "raw_hot": 67452,
+        "num": 733106,
+        "word": "那些你不知道的北京地儿",
+        "onboard_time": 1736414242,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 725729,
+        "num": 725729,
+        "word": "美国滞留太空宇航员再发声",
+        "onboard_time": 1736418445,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 671899,
+        "num": 671899,
+        "word": "许七安下线",
+        "onboard_time": 1736415739,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 505001,
+        "num": 505001,
+        "word": "美国洛杉矶山火完全失控",
+        "onboard_time": 1736391681,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 459357,
+        "num": 459357,
+        "word": "希尔顿等名人豪宅已被烧成平地",
+        "onboard_time": 1736400862,
+        "rank": 6,
+        "category": "海外新闻,艺人"
+      },
+      {
+        "raw_hot": 438701,
+        "num": 438701,
+        "word": "肖战微博之夜官宣",
+        "onboard_time": 1736412621,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 378969,
+        "num": 378969,
+        "word": "田曦薇演技",
+        "onboard_time": 1736419880,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351039,
+        "num": 351039,
+        "word": "女生素颜艺考被擦妆5次",
+        "onboard_time": 1736391740,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 678746,
+        "num": 349674,
+        "word": "薛小婉任权订婚",
+        "onboard_time": 1736420841,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 647510,
+        "num": 349310,
+        "word": "金扫帚提名名单",
+        "onboard_time": 1736410701,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 423026,
+        "num": 348915,
+        "word": "肖战说童年是自己的滋养",
+        "onboard_time": 1736415139,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347331,
+        "num": 347331,
+        "word": "43岁宋慧乔自曝年龄焦虑",
+        "onboard_time": 1736408662,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112225,
+        "num": 333080,
+        "word": "洛杉矶至少1100栋建筑被烧",
+        "onboard_time": 1736420901,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 328843,
+        "num": 328843,
+        "word": "宋慧乔首次回应外界传闻",
+        "onboard_time": 1736420841,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125992,
+        "num": 305326,
+        "word": "大奉打更人",
+        "onboard_time": 1736422343,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72856,
+        "num": 296510,
+        "word": "王一博诚恳呼吁",
+        "onboard_time": 1736419640,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 291126,
+        "num": 291126,
+        "word": "国色芳华 她在仰视我却觉得被俯视了",
+        "onboard_time": 1736418861,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37478,
+        "num": 285899,
+        "word": "美国加州新年6天发生35起山火",
+        "onboard_time": 1736421075,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 294273,
+        "num": 285192,
+        "word": "杨紫 小葡萄长成了真牡丹",
+        "onboard_time": 1736420181,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284104,
+        "num": 284104,
+        "word": "女生打到放满柠檬的网约车",
+        "onboard_time": 1736418742,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242482,
+        "num": 242482,
+        "word": "麦琳说自己是父母捡来的",
+        "onboard_time": 1736401162,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236461,
+        "num": 236461,
+        "word": "这不是游戏这是真实英雄的日常",
+        "onboard_time": 1736421201,
+        "rank": 23,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 213460,
+        "num": 213460,
+        "word": "大奉打更人豆瓣开分5.4",
+        "onboard_time": 1736415680,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211298,
+        "num": 211298,
+        "word": "我国老年人感染艾滋病占比持续上升",
+        "onboard_time": 1736421802,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 206296,
+        "num": 206296,
+        "word": "唐嫣 蒂芙尼",
+        "onboard_time": 1736413761,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 199684,
+        "num": 199684,
+        "word": "白鹿 二小姐专业户",
+        "onboard_time": 1736420361,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115363,
+        "num": 198614,
+        "word": "郑钦文德约互问金牌",
+        "onboard_time": 1736419521,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20433,
+        "num": 198245,
+        "word": "为什么男生需要打HPV疫苗",
+        "onboard_time": 1736421075,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 123982,
+        "num": 198091,
+        "word": "樊振东曾说就算自己没拿冠军也很棒",
+        "onboard_time": 1736419880,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198020,
+        "num": 198020,
+        "word": "白月梵星编剧",
+        "onboard_time": 1736416521,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190795,
+        "num": 190795,
+        "word": "被小欢喜林磊儿当兵惊到",
+        "onboard_time": 1736421981,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182940,
+        "num": 182940,
+        "word": "用辣椒喷雾强迫女子转账并发生关系",
+        "onboard_time": 1736420181,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182744,
+        "num": 182744,
+        "word": "怎么看空姐养猪两月赚20万元",
+        "onboard_time": 1736421075,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181730,
+        "num": 181730,
+        "word": "白鹿 你是一只小狐狸",
+        "onboard_time": 1736421442,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176096,
+        "num": 176096,
+        "word": "杨紫魏哲鸣新剧纯恨cp情头",
+        "onboard_time": 1736418742,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32379,
+        "num": 171740,
+        "word": "容祖儿古巨基是最佳损友吧",
+        "onboard_time": 1736418680,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19943,
+        "num": 168198,
+        "word": "容祖儿专克古巨基",
+        "onboard_time": 1736421742,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168191,
+        "num": 168191,
+        "word": "白烁茯苓姻缘线藏在血管里",
+        "onboard_time": 1736422161,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164901,
+        "num": 164901,
+        "word": "梵樾护妻",
+        "onboard_time": 1736421442,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164814,
+        "num": 164814,
+        "word": "张艺兴朱迅十年前合照",
+        "onboard_time": 1736422461,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164076,
+        "num": 164076,
+        "word": "水果含糖量和热量排行榜",
+        "onboard_time": 1736410043,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 157786,
+        "num": 157786,
+        "word": "拜登听取加州火情后宣布当上曾祖父",
+        "onboard_time": 1736408720,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 145905,
+        "num": 145905,
+        "word": "美国洛杉矶山火最新消息",
+        "onboard_time": 1736421562,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 145577,
+        "num": 145577,
+        "word": "会计桌上不能动的东西",
+        "onboard_time": 1736410223,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143542,
+        "num": 143542,
+        "word": "全球三分之二的iPad出自川渝",
+        "onboard_time": 1736411961,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139692,
+        "num": 139692,
+        "word": "韩国人顺产头",
+        "onboard_time": 1736395401,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119047,
+        "num": 119047,
+        "word": "美国加州山火肆虐夜空被火光染红",
+        "onboard_time": 1736407759,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 108222,
+        "num": 119035,
+        "word": "糖小幽祝福Doinb",
+        "onboard_time": 1736422042,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#解码中华文化基因#"
+    }
+  }
+}
