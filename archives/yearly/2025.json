@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736501873061,
+  "endTime": 1736504667411,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -273,6 +273,14 @@
       "onboard_time": 1735978403,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3449640,
+      "num": 406977,
+      "word": "陈奕迅泰国演唱会取消",
+      "onboard_time": 1736502681,
+      "rank": 10,
+      "category": "演出"
     },
     {
       "raw_hot": 3376657,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735633520,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1016748,
-      "num": 1016748,
-      "word": "将女友装行李箱带进宿舍张兴亮被禁赛",
-      "onboard_time": 1736360473,
-      "rank": 1,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
