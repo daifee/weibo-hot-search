@@ -1,0 +1,410 @@
+{
+  "runTime": 1736501873061,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1824010,
+        "num": 1824010,
+        "word": "留几手长文",
+        "onboard_time": 1736494280,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1376770,
+        "num": 1376770,
+        "word": "女生确诊渐冻症一年容貌巨变",
+        "onboard_time": 1736496921,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34567,
+        "num": 1133494,
+        "word": "文化中国行看中国山水有多绝",
+        "onboard_time": 1736499560,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1075242,
+        "num": 1075242,
+        "word": "麦琳 婚姻的清创手术太痛了",
+        "onboard_time": 1736498541,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 655753,
+        "num": 655753,
+        "word": "鲁GT8586你真帅",
+        "onboard_time": 1736490439,
+        "rank": 4,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 582962,
+        "num": 582962,
+        "word": "加州州长给总统打了5个电话都没打通",
+        "onboard_time": 1736488100,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 855295,
+        "num": 573227,
+        "word": "黄圣依发文没有一句提杨子",
+        "onboard_time": 1736495480,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 723387,
+        "num": 560264,
+        "word": "黄子韬已为粉丝试驾",
+        "onboard_time": 1736496260,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 525485,
+        "num": 525485,
+        "word": "地铁口被指像棺材4人被处理",
+        "onboard_time": 1736477358,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 442436,
+        "num": 442436,
+        "word": "李全强涉嫌严重违纪违法",
+        "onboard_time": 1736499979,
+        "rank": 9,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 645905,
+        "num": 427043,
+        "word": "葛夕 我现在要继续出发啦",
+        "onboard_time": 1736496621,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 600440,
+        "num": 422417,
+        "word": "鬼鬼 我没有结婚",
+        "onboard_time": 1736484203,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 503267,
+        "num": 417710,
+        "word": "杨子说自己重生了",
+        "onboard_time": 1736496080,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 408718,
+        "num": 408718,
+        "word": "教育局回应4年级数学期末试卷太难",
+        "onboard_time": 1736490200,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 375389,
+        "num": 375389,
+        "word": "特斯拉",
+        "onboard_time": 1736498181,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 369258,
+        "num": 369258,
+        "word": "游客花1万在日本吃中餐遭差别对待",
+        "onboard_time": 1736495060,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 103593,
+        "num": 359863,
+        "word": "黄圣依称选择不下车的时候内心并不恐惧",
+        "onboard_time": 1736501720,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403858,
+        "num": 353203,
+        "word": "王子说鬼鬼的孩子不是他的",
+        "onboard_time": 1736491939,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131014,
+        "num": 340328,
+        "word": "误杀3 拐卖人口正在发生",
+        "onboard_time": 1736500699,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33334,
+        "num": 322589,
+        "word": "陈数将表演形容为上战场",
+        "onboard_time": 1736501061,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315270,
+        "num": 315270,
+        "word": "孙颖莎获五四奖章",
+        "onboard_time": 1736495539,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284218,
+        "num": 284218,
+        "word": "麦琳好友再发声",
+        "onboard_time": 1736501302,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279630,
+        "num": 279630,
+        "word": "李行亮 我们不过是偶尔吵吵架",
+        "onboard_time": 1736499440,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236453,
+        "num": 236453,
+        "word": "洛杉矶大火",
+        "onboard_time": 1736481620,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25674,
+        "num": 235726,
+        "word": "盛李豪被授予全国五一劳动奖章",
+        "onboard_time": 1736495601,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247563,
+        "num": 235688,
+        "word": "国色芳华每集广告数高达13个",
+        "onboard_time": 1736500460,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274054,
+        "num": 234616,
+        "word": "孟子义心疼被欺负的粉丝",
+        "onboard_time": 1736499141,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139939,
+        "num": 233490,
+        "word": "宋慧乔说以前不懂得爱自己",
+        "onboard_time": 1736500161,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18109,
+        "num": 232956,
+        "word": "守护甜心 掌握萌感的神",
+        "onboard_time": 1736501480,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 20988,
+        "num": 232168,
+        "word": "日本列车撞人致2死警方发现中国护照",
+        "onboard_time": 1736501539,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 267600,
+        "num": 231952,
+        "word": "杨幂短发贴头皮",
+        "onboard_time": 1736494521,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 247749,
+        "num": 231085,
+        "word": "孟子义 什么是梦女",
+        "onboard_time": 1736499740,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230477,
+        "num": 230477,
+        "word": "沈马 春晚",
+        "onboard_time": 1736489960,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220050,
+        "num": 220050,
+        "word": "警方证明吉林垫付3600元医药费大爷清白",
+        "onboard_time": 1736498481,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217877,
+        "num": 217877,
+        "word": "葛夕 结局大家也看见了",
+        "onboard_time": 1736500941,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210364,
+        "num": 210364,
+        "word": "吉林文旅局称系自媒体流露重庆游客",
+        "onboard_time": 1736493619,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204264,
+        "num": 204264,
+        "word": "黑神话销售额90亿",
+        "onboard_time": 1736498661,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170570,
+        "num": 170570,
+        "word": "华晨宇电话",
+        "onboard_time": 1736495660,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 16037,
+        "num": 163553,
+        "word": "HPV疫苗不只女性专属",
+        "onboard_time": 1736500340,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 93600,
+        "num": 162776,
+        "word": "干锅菜花",
+        "onboard_time": 1736501539,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 162754,
+        "num": 162754,
+        "word": "渐冻症",
+        "onboard_time": 1736500699,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157471,
+        "num": 157471,
+        "word": "游客丈夫回应大爷帮垫医药费被拉黑",
+        "onboard_time": 1736497640,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150338,
+        "num": 150338,
+        "word": "警察节",
+        "onboard_time": 1736468661,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148043,
+        "num": 148043,
+        "word": "留几手 葛夕",
+        "onboard_time": 1736486420,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143570,
+        "num": 143570,
+        "word": "云合",
+        "onboard_time": 1736497821,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144691,
+        "num": 143486,
+        "word": "小米YU7和焕新ModelY你更看好谁",
+        "onboard_time": 1736501120,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 142872,
+        "num": 142872,
+        "word": "老祖宗顶级审美的含金量还在上升",
+        "onboard_time": 1736500580,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124867,
+        "num": 124867,
+        "word": "留几手 葛夕从头到尾都在揭我的短",
+        "onboard_time": 1736498841,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124855,
+        "num": 124855,
+        "word": "2025年财政政策将非常积极",
+        "onboard_time": 1736497160,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 120885,
+        "num": 120885,
+        "word": "在洛杉矶山火中痛失豪宅的美国名流",
+        "onboard_time": 1736497640,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致信中国法学会第九次全国会员代表大会#"
+    }
+  }
+}
