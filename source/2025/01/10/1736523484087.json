@@ -1,0 +1,410 @@
+{
+  "runTime": 1736523484087,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1921454,
+        "num": 1921454,
+        "word": "中国驻泰大使馆通报王星回国",
+        "onboard_time": 1736522242,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1205693,
+        "num": 1205693,
+        "word": "山西临汾地震",
+        "onboard_time": 1736513302,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 24905,
+        "num": 823099,
+        "word": "热血忠诚守护万家灯火",
+        "onboard_time": 1736515104,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1427899,
+        "num": 725468,
+        "word": "微博之夜节目单",
+        "onboard_time": 1736519842,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 604208,
+        "num": 604208,
+        "word": "父亲跨省找到儿子生前影像哽咽不止",
+        "onboard_time": 1736517443,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 460738,
+        "num": 460738,
+        "word": "顾时夜 夏以昼",
+        "onboard_time": 1736521403,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 932889,
+        "num": 446912,
+        "word": "郭敬明删博了",
+        "onboard_time": 1736516663,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 782404,
+        "num": 437990,
+        "word": "陈奕迅泰国演唱会取消",
+        "onboard_time": 1736502681,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 395455,
+        "num": 395455,
+        "word": "公安部将坚决摧毁境外诈骗窝点",
+        "onboard_time": 1736507660,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95503,
+        "num": 395031,
+        "word": "特朗普被法院无条件释放",
+        "onboard_time": 1736522903,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1231427,
+        "num": 389263,
+        "word": "海恩贤圭 分手",
+        "onboard_time": 1736512521,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 679163,
+        "num": 385284,
+        "word": "迪丽热巴陈飞宇桃花吻路透",
+        "onboard_time": 1736521342,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 651657,
+        "num": 381762,
+        "word": "贤圭 新女友",
+        "onboard_time": 1736518763,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 560780,
+        "num": 377458,
+        "word": "留几手回应离婚",
+        "onboard_time": 1736511260,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 434950,
+        "num": 374509,
+        "word": "女生确诊渐冻症一年容貌巨变",
+        "onboard_time": 1736496921,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 486302,
+        "num": 368900,
+        "word": "麦琳好友晒聊天记录",
+        "onboard_time": 1736519363,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368664,
+        "num": 368664,
+        "word": "历届微博之夜KingQueen名单",
+        "onboard_time": 1736520023,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 320435,
+        "num": 320435,
+        "word": "韩国人在上海见识真正的继承者们",
+        "onboard_time": 1736502199,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 309874,
+        "num": 309874,
+        "word": "加州山火被曝灭火率为0",
+        "onboard_time": 1736505680,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 303843,
+        "num": 303843,
+        "word": "宁夏地震",
+        "onboard_time": 1736519783,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 366470,
+        "num": 302184,
+        "word": "79岁大爷丧偶十多年感染艾滋病",
+        "onboard_time": 1736522121,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350288,
+        "num": 296402,
+        "word": "孟子义李昀锐唱昭昭墨墨",
+        "onboard_time": 1736520744,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 338465,
+        "num": 295445,
+        "word": "黄圣依发文没有一句提杨子",
+        "onboard_time": 1736495480,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330444,
+        "num": 288879,
+        "word": "28岁未婚花8千元请男保姆的生活",
+        "onboard_time": 1736521642,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 322062,
+        "num": 285122,
+        "word": "黄圣依一清醒事业就吻上来了",
+        "onboard_time": 1736517623,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307080,
+        "num": 280894,
+        "word": "大奉打更人热度",
+        "onboard_time": 1736521822,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279075,
+        "num": 279075,
+        "word": "医生提醒抠疤痕习惯暗藏风险",
+        "onboard_time": 1736519542,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 277905,
+        "num": 277905,
+        "word": "工资8千1年攒7万多男子被指啃老",
+        "onboard_time": 1736503700,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244218,
+        "num": 244218,
+        "word": "长生花",
+        "onboard_time": 1736522602,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22725,
+        "num": 236810,
+        "word": "湖北教培机构无证无照超范围经营",
+        "onboard_time": 1736522242,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 232916,
+        "num": 232916,
+        "word": "夏以昼 哥哥回来了",
+        "onboard_time": 1736508799,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222778,
+        "num": 222778,
+        "word": "aespa跳初智齿",
+        "onboard_time": 1736518643,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 218626,
+        "num": 218626,
+        "word": "四大家族犯罪集团案件已经陆续进入诉讼环节",
+        "onboard_time": 1736519003,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206789,
+        "num": 206789,
+        "word": "桃黑黑异地登录",
+        "onboard_time": 1736522542,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 202896,
+        "num": 202896,
+        "word": "李现演技",
+        "onboard_time": 1736523022,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199286,
+        "num": 199286,
+        "word": "外交部驳斥中国出现不明病毒论调",
+        "onboard_time": 1736519723,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 197079,
+        "num": 197079,
+        "word": "丁禹兮张碧晨合作",
+        "onboard_time": 1736522242,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187930,
+        "num": 187930,
+        "word": "鬼鬼 我没有结婚",
+        "onboard_time": 1736484203,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187254,
+        "num": 187254,
+        "word": "敖瑞鹏 内娱百里玄策",
+        "onboard_time": 1736518343,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178977,
+        "num": 178977,
+        "word": "泰州一女子取下全部头皮救父亲",
+        "onboard_time": 1736513361,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175841,
+        "num": 175841,
+        "word": "祖龙起诉叠纸",
+        "onboard_time": 1736522062,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170937,
+        "num": 170937,
+        "word": "雷军  Model Y也不错",
+        "onboard_time": 1736508378,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 168803,
+        "num": 168803,
+        "word": "国色芳华",
+        "onboard_time": 1736510481,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269843,
+        "num": 168740,
+        "word": "黄子韬送车官方售价10.98万起",
+        "onboard_time": 1736514984,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168508,
+        "num": 168508,
+        "word": "封神片尾万人名单含金量还在上升",
+        "onboard_time": 1736519363,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167366,
+        "num": 167366,
+        "word": "杨子感谢了所有人除了黄圣依",
+        "onboard_time": 1736506640,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162115,
+        "num": 162115,
+        "word": "肥娟直播间5分钟收9万嘉年华",
+        "onboard_time": 1736519542,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155299,
+        "num": 155299,
+        "word": "刘强东母亲夸赞章泽天买的新衣",
+        "onboard_time": 1736514021,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 153764,
+        "num": 153764,
+        "word": "八旬老人几十年前烫伤疤痕竟癌变",
+        "onboard_time": 1736523260,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141422,
+        "num": 141422,
+        "word": "张艺兴吸氧",
+        "onboard_time": 1736508080,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#履行好打击犯罪保护人民的职责#"
+    }
+  }
+}

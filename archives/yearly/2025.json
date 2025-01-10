@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736522586501,
+  "endTime": 1736523484087,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -841,6 +841,14 @@
       "onboard_time": 1736229564,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1921454,
+      "num": 1921454,
+      "word": "中国驻泰大使馆通报王星回国",
+      "onboard_time": 1736522242,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1913114,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736129120,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1048044,
-      "num": 1048044,
-      "word": "鲁GT8586你真帅",
-      "onboard_time": 1736490439,
-      "rank": 39,
-      "category": "正能量"
     }
   ],
   "hotgov_list": [
