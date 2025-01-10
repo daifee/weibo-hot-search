@@ -1,6 +1,6 @@
 {
   "startTime": 1736440116531,
-  "endTime": 1736498536924,
+  "endTime": 1736501059948,
   "band_list": [
     {
       "raw_hot": 4127605,
@@ -139,6 +139,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 1040987,
+      "num": 1040987,
+      "word": "麦琳 婚姻的清创手术太痛了",
+      "onboard_time": 1736498541,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1018316,
       "num": 1018316,
       "word": "教育局回应4年级数学期末试卷太难",
@@ -192,6 +200,14 @@
       "word": "留几手不想看葛夕的日记",
       "onboard_time": 1736465777,
       "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 779477,
+      "num": 522247,
+      "word": "葛夕 我现在要继续出发啦",
+      "onboard_time": 1736496621,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -249,14 +265,6 @@
       "onboard_time": 1736491939,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 646239,
-      "num": 522247,
-      "word": "葛夕 我现在要继续出发啦",
-      "onboard_time": 1736496621,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 641323,
@@ -411,6 +419,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 435829,
+      "num": 435829,
+      "word": "李全强涉嫌严重违纪违法",
+      "onboard_time": 1736499979,
+      "rank": 9,
+      "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 434924,
+      "num": 434924,
+      "word": "游客花1万在日本吃中餐遭差别对待",
+      "onboard_time": 1736495060,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 431248,
       "num": 431248,
       "word": "12306又崩了",
@@ -441,6 +465,14 @@
       "onboard_time": 1736437580,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 407770,
+      "num": 407770,
+      "word": "孙颖莎获五四奖章",
+      "onboard_time": 1736495539,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 406170,
@@ -603,14 +635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 300976,
-      "num": 300976,
-      "word": "游客花1万在日本吃中餐遭差别对待",
-      "onboard_time": 1736495060,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
       "raw_hot": 299818,
       "num": 299818,
       "word": "加州山火致130只宠物流离失所",
@@ -635,12 +659,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 294215,
-      "num": 299354,
-      "word": "孙颖莎获五四奖章",
-      "onboard_time": 1736495539,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 285645,
+      "num": 215005,
+      "word": "李行亮 我们不过是偶尔吵吵架",
+      "onboard_time": 1736499440,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 283194,
@@ -657,6 +681,14 @@
       "onboard_time": 1736478559,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 269970,
+      "num": 213952,
+      "word": "孟子义 什么是梦女",
+      "onboard_time": 1736499740,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 269109,
@@ -681,6 +713,14 @@
       "onboard_time": 1736425401,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 260771,
+      "num": 260771,
+      "word": "特斯拉",
+      "onboard_time": 1736498181,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 259574,
@@ -747,12 +787,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 246254,
+      "num": 202250,
+      "word": "孟子义心疼被欺负的粉丝",
+      "onboard_time": 1736499141,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244566,
       "num": 244566,
       "word": "肥娟小吃老板想藏配方却被网友嫌弃",
       "onboard_time": 1736492120,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 243515,
+      "num": 201721,
+      "word": "黑神话销售额90亿",
+      "onboard_time": 1736498661,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 242300,
@@ -867,14 +923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208256,
-      "num": 208256,
-      "word": "特斯拉",
-      "onboard_time": 1736498181,
-      "rank": 38,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 207990,
       "num": 207990,
       "word": "张杰我们还要在一起很多年",
@@ -889,6 +937,14 @@
       "onboard_time": 1736477659,
       "rank": 22,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 197950,
+      "num": 197950,
+      "word": "国色芳华每集广告数高达13个",
+      "onboard_time": 1736500460,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 197771,
@@ -947,6 +1003,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 191797,
+      "num": 191797,
+      "word": "警方证明吉林垫付3600元医药费大爷清白",
+      "onboard_time": 1736498481,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191250,
       "num": 216737,
       "word": "国色芳华云合第二",
@@ -995,6 +1059,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 187823,
+      "num": 187823,
+      "word": "留几手 葛夕从头到尾都在揭我的短",
+      "onboard_time": 1736498841,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187134,
       "num": 187134,
       "word": "了不起的曹萱萱定档",
@@ -1033,6 +1105,14 @@
       "onboard_time": 1736424082,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 182783,
+      "num": 182783,
+      "word": "再见爱人",
+      "onboard_time": 1736499979,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 182010,
@@ -1137,6 +1217,14 @@
       "onboard_time": 1736480000,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174082,
+      "num": 174082,
+      "word": "葛夕 结局大家也看见了",
+      "onboard_time": 1736500941,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 171827,
@@ -1251,6 +1339,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 163649,
+      "num": 163649,
+      "word": "渐冻症",
+      "onboard_time": 1736500699,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 162931,
       "num": 162931,
       "word": "李昀锐超经意的一瞥",
@@ -1260,7 +1356,7 @@
     },
     {
       "raw_hot": 162343,
-      "num": 162343,
+      "num": 212158,
       "word": "eStar官宣花楼离队",
       "onboard_time": 1736492599,
       "rank": 37,
@@ -1403,6 +1499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 149659,
+      "num": 149659,
+      "word": "云合",
+      "onboard_time": 1736497821,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147156,
       "num": 702789,
       "word": "感染甲流后不能硬扛",
@@ -1419,12 +1523,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145250,
-      "num": 145250,
-      "word": "警方证明吉林垫付3600元医药费大爷清白",
-      "onboard_time": 1736498481,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 144141,
+      "num": 206513,
+      "word": "宋慧乔说以前不懂得爱自己",
+      "onboard_time": 1736500161,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 142974,
+      "num": 423846,
+      "word": "在洛杉矶山火中痛失豪宅的美国名流",
+      "onboard_time": 1736497640,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 142803,
@@ -1475,6 +1587,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139365,
+      "num": 139365,
+      "word": "老祖宗顶级审美的含金量还在上升",
+      "onboard_time": 1736500580,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139092,
+      "num": 141067,
+      "word": "麦琳很抱歉通过这样的方式让大家认识我",
+      "onboard_time": 1736500519,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139067,
       "num": 139067,
       "word": "人民警察在平安就在",
@@ -1513,6 +1641,14 @@
       "onboard_time": 1736438241,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136216,
+      "num": 136216,
+      "word": "亚洲电影大奖",
+      "onboard_time": 1736500519,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 136141,
@@ -1907,14 +2043,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 85944,
-      "num": 423846,
-      "word": "在洛杉矶山火中痛失豪宅的美国名流",
-      "onboard_time": 1736497640,
-      "rank": 18,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 85715,
       "num": 438633,
       "word": "时代少年团微博之夜号",
@@ -2019,12 +2147,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 59052,
+      "num": 211584,
+      "word": "再见爱人嘉宾集体发文",
+      "onboard_time": 1736499200,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 58487,
       "num": 194541,
       "word": "男子买真酒退假酒非法获利435万",
       "onboard_time": 1736489179,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58030,
+      "num": 220655,
+      "word": "误杀3 拐卖人口正在发生",
+      "onboard_time": 1736500699,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 56500,
@@ -2067,6 +2211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51006,
+      "num": 205434,
+      "word": "拜登承认加州山火中消防栓缺水",
+      "onboard_time": 1736499501,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 49857,
       "num": 49857,
       "word": "那些高开炸走的小说",
@@ -2089,6 +2241,14 @@
       "onboard_time": 1736465476,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 48733,
+      "num": 136115,
+      "word": "钱天一3比0阿库拉",
+      "onboard_time": 1736499501,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 47873,
@@ -2129,6 +2289,14 @@
       "onboard_time": 1736484262,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 40082,
+      "num": 1230310,
+      "word": "文化中国行看中国山水有多绝",
+      "onboard_time": 1736499560,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39855,
@@ -2443,6 +2611,14 @@
       "category": "作品衍生,体育"
     },
     {
+      "raw_hot": 8733,
+      "num": 174377,
+      "word": "HPV疫苗不只女性专属",
+      "onboard_time": 1736500340,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 5550,
       "num": 1375319,
       "word": "西藏地震48小时全记录",
@@ -2465,6 +2641,9 @@
     },
     {
       "word": "#总书记对人民警察队伍的殷殷嘱托#"
+    },
+    {
+      "word": "#习近平回信勉励国家京剧院青年艺术工作者#"
     }
   ]
 }
