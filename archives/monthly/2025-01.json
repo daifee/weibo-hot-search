@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736544074521,
+  "endTime": 1736544943491,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -28099,6 +28099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71512,
+      "num": 46035,
+      "word": "留几手说葛夕从头到尾都在揭短",
+      "onboard_time": 1736536092,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 71508,
       "num": 71508,
       "word": "这3种人请深交一辈子",
@@ -29059,14 +29067,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 57900,
-      "num": 41228,
-      "word": "留几手说葛夕从头到尾都在揭短",
-      "onboard_time": 1736536092,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 57759,
       "num": 217112,
       "word": "微博之夜周深的赛博搭子",
@@ -29497,6 +29497,14 @@
       "onboard_time": 1736518224,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 51662,
+      "num": 44107,
+      "word": "4种水果不甜但含糖量很高",
+      "onboard_time": 1736532434,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 51580,
@@ -30185,14 +30193,6 @@
       "onboard_time": 1736045850,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44107,
-      "num": 44107,
-      "word": "4种水果不甜但含糖量很高",
-      "onboard_time": 1736532434,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 44067,
@@ -33633,6 +33633,14 @@
       "onboard_time": 1736141243,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 13632,
+      "num": 46045,
+      "word": "爸爸抱着女儿转着转着长大了",
+      "onboard_time": 1736544131,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13596,

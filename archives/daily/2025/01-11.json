@@ -1,6 +1,6 @@
 {
   "startTime": 1736526528002,
-  "endTime": 1736544074521,
+  "endTime": 1736544943491,
   "band_list": [
     {
       "raw_hot": 947995,
@@ -451,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 71512,
+      "num": 46035,
+      "word": "留几手说葛夕从头到尾都在揭短",
+      "onboard_time": 1736536092,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 65561,
       "num": 65561,
       "word": "太空视角看洛杉矶山火有多严重",
@@ -475,14 +483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 57900,
-      "num": 41228,
-      "word": "留几手说葛夕从头到尾都在揭短",
-      "onboard_time": 1736536092,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 57045,
       "num": 57045,
       "word": "张艺兴吸氧",
@@ -491,7 +491,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 44107,
+      "raw_hot": 51662,
       "num": 44107,
       "word": "4种水果不甜但含糖量很高",
       "onboard_time": 1736532434,
@@ -617,6 +617,14 @@
       "onboard_time": 1736540291,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 13632,
+      "num": 46045,
+      "word": "爸爸抱着女儿转着转着长大了",
+      "onboard_time": 1736544131,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13102,
