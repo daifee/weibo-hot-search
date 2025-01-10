@@ -1,6 +1,6 @@
 {
   "startTime": 1736440116531,
-  "endTime": 1736519987121,
+  "endTime": 1736522586501,
   "band_list": [
     {
       "raw_hot": 9076991,
@@ -83,6 +83,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1703411,
+      "num": 1703411,
+      "word": "微博之夜节目单",
+      "onboard_time": 1736519842,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1689347,
       "num": 1689347,
       "word": "女生确诊渐冻症一年容貌巨变",
@@ -153,6 +161,14 @@
       "onboard_time": 1736482041,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1273723,
+      "num": 1273723,
+      "word": "驻泰国大使馆通报王星回国",
+      "onboard_time": 1736522242,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1268872,
@@ -355,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 750575,
+      "num": 353147,
+      "word": "贤圭 新女友",
+      "onboard_time": 1736518763,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 746732,
       "num": 490105,
       "word": "女子甲流4天洗完澡手脚不能动",
@@ -403,20 +427,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 680522,
-      "num": 353147,
-      "word": "贤圭 新女友",
-      "onboard_time": 1736518763,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 672207,
       "num": 604274,
       "word": "杨子说自己重生了",
       "onboard_time": 1736496080,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 665761,
+      "num": 665761,
+      "word": "父亲跨省找到儿子生前影像哽咽不止",
+      "onboard_time": 1736517443,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 663609,
@@ -497,6 +521,14 @@
       "onboard_time": 1736505019,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 596383,
+      "num": 336133,
+      "word": "迪丽热巴陈飞宇桃花吻路透",
+      "onboard_time": 1736521342,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 578083,
@@ -707,20 +739,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 425986,
-      "num": 425986,
-      "word": "父亲跨省找到儿子生前影像哽咽不止",
-      "onboard_time": 1736517443,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 425186,
       "num": 425186,
       "word": "说了20分钟对方不上当骗子气到大叫",
       "onboard_time": 1736437580,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 415481,
+      "num": 336613,
+      "word": "麦琳好友晒聊天记录",
+      "onboard_time": 1736519363,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 411253,
@@ -843,6 +875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 363081,
+      "num": 260887,
+      "word": "历届微博之夜KingQueen名单",
+      "onboard_time": 1736520023,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 358999,
       "num": 273814,
       "word": "内娱出租屋文学",
@@ -867,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 348363,
+      "num": 331103,
+      "word": "孟子义李昀锐唱昭昭墨墨",
+      "onboard_time": 1736520744,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 345533,
       "num": 328580,
       "word": "李行亮 我们不过是偶尔吵吵架",
@@ -883,6 +931,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 337955,
+      "num": 337955,
+      "word": "宁夏地震",
+      "onboard_time": 1736519783,
+      "rank": 35,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 335425,
       "num": 306810,
       "word": "丁程鑫 LV",
@@ -897,6 +953,14 @@
       "onboard_time": 1736475618,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 330233,
+      "num": 330233,
+      "word": "顾时夜 夏以昼",
+      "onboard_time": 1736521403,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 326535,
@@ -984,6 +1048,14 @@
       "word": "受害人没有删聊天记录成了关键证据",
       "onboard_time": 1736417540,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 303294,
+      "num": 260510,
+      "word": "79岁大爷丧偶十多年感染艾滋病",
+      "onboard_time": 1736522121,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -1155,6 +1227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 260335,
+      "num": 260335,
+      "word": "医生提醒抠疤痕习惯暗藏风险",
+      "onboard_time": 1736519542,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 259574,
       "num": 511378,
       "word": "美国大火超4000座建筑受损",
@@ -1243,11 +1323,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 245555,
+      "num": 245555,
+      "word": "28岁未婚花8千元请男保姆的生活",
+      "onboard_time": 1736521642,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 244566,
       "num": 244566,
       "word": "肥娟小吃老板想藏配方却被网友嫌弃",
       "onboard_time": 1736492120,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 243596,
+      "num": 355769,
+      "word": "四大家族犯罪集团案件已经陆续进入诉讼环节",
+      "onboard_time": 1736519003,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1281,6 +1377,14 @@
       "onboard_time": 1736425943,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 240638,
+      "num": 240638,
+      "word": "大奉打更人热度",
+      "onboard_time": 1736521822,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 239470,
@@ -1419,14 +1523,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 215223,
-      "num": 307907,
-      "word": "微博之夜节目单",
-      "onboard_time": 1736519842,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 213800,
       "num": 213800,
       "word": "用杨紫转场打开大美湖南",
@@ -1539,20 +1635,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201608,
-      "num": 201608,
-      "word": "宁夏地震",
-      "onboard_time": 1736519783,
-      "rank": 35,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 201240,
       "num": 201240,
       "word": "月鳞绮纪路透",
       "onboard_time": 1736503640,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199602,
+      "num": 199602,
+      "word": "外交部驳斥中国出现不明病毒论调",
+      "onboard_time": 1736519723,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 198787,
@@ -1875,12 +1971,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 173421,
-      "num": 355769,
-      "word": "四大家族犯罪集团案件已经陆续进入诉讼环节",
-      "onboard_time": 1736519003,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 174352,
+      "num": 341789,
+      "word": "封神片尾万人名单含金量还在上升",
+      "onboard_time": 1736519363,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 172849,
@@ -1888,6 +1984,14 @@
       "word": "恋与深空3.0直播",
       "onboard_time": 1736508740,
       "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 171917,
+      "num": 171917,
+      "word": "祖龙起诉叠纸",
+      "onboard_time": 1736522062,
+      "rank": 43,
       "category": "游戏"
     },
     {
@@ -1971,6 +2075,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 167123,
+      "num": 167123,
+      "word": "白月梵星帅哥101",
+      "onboard_time": 1736522001,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166699,
       "num": 166699,
       "word": "再见爱人4离婚率",
@@ -2017,14 +2129,6 @@
       "onboard_time": 1736497640,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 163778,
-      "num": 163778,
-      "word": "医生提醒抠疤痕习惯暗藏风险",
-      "onboard_time": 1736519542,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 163731,
@@ -2315,6 +2419,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146530,
+      "num": 146530,
+      "word": "桃黑黑异地登录",
+      "onboard_time": 1736522542,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 145950,
+      "num": 145950,
+      "word": "丁禹兮张碧晨合作",
+      "onboard_time": 1736522242,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 144691,
       "num": 143486,
       "word": "小米YU7和焕新ModelY你更看好谁",
@@ -2537,14 +2657,6 @@
       "onboard_time": 1736457491,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129301,
-      "num": 170837,
-      "word": "外交部驳斥中国出现不明病毒论调",
-      "onboard_time": 1736519723,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 128617,
@@ -2923,14 +3035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 86248,
-      "num": 341789,
-      "word": "封神片尾万人名单含金量还在上升",
-      "onboard_time": 1736519363,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 85715,
       "num": 438633,
       "word": "时代少年团微博之夜号",
@@ -3065,6 +3169,14 @@
       "onboard_time": 1736511802,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 59754,
+      "num": 354146,
+      "word": "父亲从沪来闽只为寻觅儿子生前影像",
+      "onboard_time": 1736522182,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59710,
@@ -3420,7 +3532,7 @@
     },
     {
       "raw_hot": 31107,
-      "num": 916375,
+      "num": 1470562,
       "word": "热血忠诚守护万家灯火",
       "onboard_time": 1736515104,
       "rank": 2,
@@ -3441,14 +3553,6 @@
       "onboard_time": 1736477418,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 30062,
-      "num": 336613,
-      "word": "麦琳好友晒聊天记录",
-      "onboard_time": 1736519363,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 29741,
@@ -3609,6 +3713,14 @@
       "onboard_time": 1736479702,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 21582,
+      "num": 250102,
+      "word": "湖北教培机构无证无照超范围经营",
+      "onboard_time": 1736522242,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 21302,
