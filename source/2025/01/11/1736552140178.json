@@ -1,0 +1,410 @@
+{
+  "runTime": 1736552140178,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 595313,
+        "num": 897767,
+        "word": "黄子韬直播间960万人参与抽奖",
+        "onboard_time": 1736526439,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412623,
+        "num": 412623,
+        "word": "夏以昼",
+        "onboard_time": 1736528235,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17734,
+        "num": 369667,
+        "word": "热血忠诚守护万家灯火",
+        "onboard_time": 1736515104,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328491,
+        "num": 328491,
+        "word": "留几手说葛夕从头到尾都在揭短",
+        "onboard_time": 1736536092,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268744,
+        "num": 268744,
+        "word": "36岁女子做育儿嫂4年买车房存款30万",
+        "onboard_time": 1736528957,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212295,
+        "num": 212295,
+        "word": "特朗普被法院无条件释放",
+        "onboard_time": 1736522903,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 245814,
+        "num": 210778,
+        "word": "麦琳好友晒聊天记录",
+        "onboard_time": 1736519363,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217121,
+        "num": 208905,
+        "word": "微博之夜节目单",
+        "onboard_time": 1736519842,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 199359,
+        "num": 199359,
+        "word": "洛杉矶山火将街区烧成灰烬",
+        "onboard_time": 1736534292,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 21234,
+        "num": 187884,
+        "word": "西藏小朋友追着给救援人员送水",
+        "onboard_time": 1736551094,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183126,
+        "num": 183126,
+        "word": "李现演技",
+        "onboard_time": 1736523022,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176064,
+        "num": 176064,
+        "word": "父亲跨省找到儿子生前影像哽咽不止",
+        "onboard_time": 1736517443,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161636,
+        "num": 161636,
+        "word": "AI生成地震小孩被埋警惕虚假信息余震",
+        "onboard_time": 1736548814,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146976,
+        "num": 146976,
+        "word": "海恩贤圭 分手",
+        "onboard_time": 1736512521,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146371,
+        "num": 146371,
+        "word": "迪丽热巴直播",
+        "onboard_time": 1736526258,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146114,
+        "num": 146114,
+        "word": "女生确诊渐冻症一年容貌巨变",
+        "onboard_time": 1736496921,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141854,
+        "num": 141854,
+        "word": "31人获得杜甫草堂终身免票资格",
+        "onboard_time": 1736546291,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139593,
+        "num": 139593,
+        "word": "黄圣依从一开始就在审视自己婚姻",
+        "onboard_time": 1736545871,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104996,
+        "num": 104996,
+        "word": "楚考烈王墓被发现",
+        "onboard_time": 1736526918,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104090,
+        "num": 104090,
+        "word": "公安部回应境外电信诈骗问题",
+        "onboard_time": 1736548693,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221808,
+        "num": 102037,
+        "word": "79岁大爷丧偶十多年感染艾滋病",
+        "onboard_time": 1736522121,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189616,
+        "num": 101839,
+        "word": "4种水果不甜但含糖量很高",
+        "onboard_time": 1736532434,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 121819,
+        "num": 100868,
+        "word": "黄圣依一清醒事业就吻上来了",
+        "onboard_time": 1736517623,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98799,
+        "num": 98799,
+        "word": "山西临汾地震",
+        "onboard_time": 1736513302,
+        "rank": 23,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 96421,
+        "num": 96421,
+        "word": "28岁未婚花8千元请男保姆的生活",
+        "onboard_time": 1736521642,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91394,
+        "num": 91394,
+        "word": "泰州一女子取下全部头皮救父亲",
+        "onboard_time": 1736513361,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88996,
+        "num": 88996,
+        "word": "洛杉矶日落大道被烧成废墟",
+        "onboard_time": 1736505981,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 88259,
+        "num": 88259,
+        "word": "韩国人在上海见识真正的继承者们",
+        "onboard_time": 1736502199,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86380,
+        "num": 86380,
+        "word": "贤圭 新女友",
+        "onboard_time": 1736518763,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79019,
+        "num": 79019,
+        "word": "北京到底有谁在啊",
+        "onboard_time": 1736549953,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 371825,
+        "num": 78764,
+        "word": "男子酒店全裸服务员闯入送水果",
+        "onboard_time": 1736552055,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77515,
+        "num": 77515,
+        "word": "郭敬明删博了",
+        "onboard_time": 1736516663,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76977,
+        "num": 76977,
+        "word": "工资8千1年攒7万多男子被指啃老",
+        "onboard_time": 1736503700,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72336,
+        "num": 72336,
+        "word": "加州山火被曝灭火率为0",
+        "onboard_time": 1736505680,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 60936,
+        "num": 60936,
+        "word": "9种颜色偏好能看出性格",
+        "onboard_time": 1736528058,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 58064,
+        "num": 58064,
+        "word": "太空视角看洛杉矶山火有多严重",
+        "onboard_time": 1736531894,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 57729,
+        "num": 57729,
+        "word": "公安部将坚决摧毁境外诈骗窝点",
+        "onboard_time": 1736507660,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57316,
+        "num": 57316,
+        "word": "黄圣依发文没有一句提杨子",
+        "onboard_time": 1736495480,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56717,
+        "num": 56717,
+        "word": "李昀锐孟子义微博之夜将合唱",
+        "onboard_time": 1736525061,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 55192,
+        "num": 55192,
+        "word": "从前爬悬崖的孩子如今坐缆车上学",
+        "onboard_time": 1736547492,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53435,
+        "num": 53435,
+        "word": "丁禹兮微博之夜唱消散对白",
+        "onboard_time": 1736527698,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 52738,
+        "num": 52738,
+        "word": "陈奕迅泰国演唱会取消",
+        "onboard_time": 1736502681,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 50620,
+        "num": 50620,
+        "word": "今天中国人民警察节",
+        "onboard_time": 1736520083,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50123,
+        "num": 50123,
+        "word": "迪丽热巴陈飞宇桃花吻路透",
+        "onboard_time": 1736521342,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47788,
+        "num": 47788,
+        "word": "当地华人称山火整整烧了两天了",
+        "onboard_time": 1736527337,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 47205,
+        "num": 47205,
+        "word": "杨子感谢了所有人除了黄圣依",
+        "onboard_time": 1736506640,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47161,
+        "num": 47161,
+        "word": "爸爸抱着女儿转着转着长大了",
+        "onboard_time": 1736544131,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45635,
+        "num": 45635,
+        "word": "王楚钦孙颖莎王曼昱冬训备战新赛季",
+        "onboard_time": 1736534773,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44360,
+        "num": 44360,
+        "word": "射雕英雄传为什么有蓬勃生命力",
+        "onboard_time": 1736552116,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41084,
+        "num": 41084,
+        "word": "特朗普罪名成立但不予惩罚",
+        "onboard_time": 1736552055,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对人民警察队伍的嘱托#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1736526528002,
-  "endTime": 1736551274884,
+  "endTime": 1736552140178,
   "band_list": [
     {
       "raw_hot": 947995,
@@ -35,6 +35,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 595313,
+      "num": 897767,
+      "word": "黄子韬直播间960万人参与抽奖",
+      "onboard_time": 1736526439,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 594846,
       "num": 594846,
       "word": "特朗普被法院无条件释放",
@@ -56,14 +64,6 @@
       "word": "迪丽热巴直播",
       "onboard_time": 1736526258,
       "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 523115,
-      "num": 778142,
-      "word": "黄子韬直播间960万人参与抽奖",
-      "onboard_time": 1736526439,
-      "rank": 47,
       "category": "艺人"
     },
     {
@@ -99,8 +99,8 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 402757,
-      "num": 402757,
+      "raw_hot": 412623,
+      "num": 412623,
       "word": "夏以昼",
       "onboard_time": 1736528235,
       "rank": 8,
@@ -113,6 +113,14 @@
       "onboard_time": 1736521403,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 371825,
+      "num": 78764,
+      "word": "男子酒店全裸服务员闯入送水果",
+      "onboard_time": 1736552055,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 367041,
@@ -137,6 +145,14 @@
       "onboard_time": 1736526918,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 328491,
+      "num": 328491,
+      "word": "留几手说葛夕从头到尾都在揭短",
+      "onboard_time": 1736536092,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 325858,
@@ -179,6 +195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 268744,
+      "num": 268744,
+      "word": "36岁女子做育儿嫂4年买车房存款30万",
+      "onboard_time": 1736528957,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 265658,
       "num": 265658,
       "word": "父亲跨省找到儿子生前影像哽咽不止",
@@ -211,22 +235,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 231445,
-      "num": 231445,
-      "word": "留几手说葛夕从头到尾都在揭短",
-      "onboard_time": 1736536092,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 225308,
-      "num": 232523,
-      "word": "36岁女子做育儿嫂4年买车房存款30万",
-      "onboard_time": 1736528957,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 220034,
       "num": 220034,
       "word": "孟子义李昀锐唱昭昭墨墨",
@@ -251,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199359,
+      "num": 199359,
+      "word": "洛杉矶山火将街区烧成灰烬",
+      "onboard_time": 1736534292,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 193434,
       "num": 193434,
       "word": "大奉打更人热度",
@@ -273,6 +289,14 @@
       "onboard_time": 1736525419,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189616,
+      "num": 101839,
+      "word": "4种水果不甜但含糖量很高",
+      "onboard_time": 1736532434,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 185987,
@@ -323,28 +347,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 153217,
-      "num": 81589,
-      "word": "4种水果不甜但含糖量很高",
-      "onboard_time": 1736532434,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
       "raw_hot": 150089,
       "num": 150089,
       "word": "夏以昼 哥哥回来了",
       "onboard_time": 1736508799,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 149563,
-      "num": 149563,
-      "word": "洛杉矶山火将街区烧成灰烬",
-      "onboard_time": 1736534292,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 144224,
@@ -355,12 +363,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141854,
+      "num": 141854,
+      "word": "31人获得杜甫草堂终身免票资格",
+      "onboard_time": 1736546291,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140400,
       "num": 140400,
       "word": "鞠婧祎新造型蓝色妖姬",
       "onboard_time": 1736525660,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 139593,
+      "num": 139593,
+      "word": "黄圣依从一开始就在审视自己婚姻",
+      "onboard_time": 1736545871,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 137538,
@@ -385,14 +409,6 @@
       "onboard_time": 1736503700,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124147,
-      "num": 124147,
-      "word": "黄圣依从一开始就在审视自己婚姻",
-      "onboard_time": 1736545871,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 122817,
@@ -435,6 +451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 104090,
+      "num": 104090,
+      "word": "公安部回应境外电信诈骗问题",
+      "onboard_time": 1736548693,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104077,
       "num": 104077,
       "word": "国色芳华",
@@ -467,20 +491,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 86091,
-      "num": 86091,
-      "word": "31人获得杜甫草堂终身免票资格",
-      "onboard_time": 1736546291,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 84128,
       "num": 84128,
       "word": "和滋养你的人在一起",
       "onboard_time": 1736524820,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 79019,
+      "num": 79019,
+      "word": "北京到底有谁在啊",
+      "onboard_time": 1736549953,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 76889,
@@ -515,14 +539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 58584,
-      "num": 66371,
-      "word": "公安部回应境外电信诈骗问题",
-      "onboard_time": 1736548693,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 57045,
       "num": 57045,
       "word": "张艺兴吸氧",
@@ -531,7 +547,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 54323,
+      "raw_hot": 55192,
       "num": 70204,
       "word": "从前爬悬崖的孩子如今坐缆车上学",
       "onboard_time": 1736547492,
@@ -539,36 +555,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 45536,
-      "num": 45536,
-      "word": "王楚钦孙颖莎王曼昱冬训备战新赛季",
-      "onboard_time": 1736534773,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 50620,
+      "num": 50620,
+      "word": "今天中国人民警察节",
+      "onboard_time": 1736520083,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 44046,
-      "num": 46045,
+      "raw_hot": 47161,
+      "num": 47161,
       "word": "爸爸抱着女儿转着转着长大了",
       "onboard_time": 1736544131,
       "rank": 9,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43818,
-      "num": 43818,
-      "word": "北京到底有谁在啊",
-      "onboard_time": 1736549953,
-      "rank": 42,
-      "category": "作品衍生"
+      "raw_hot": 45635,
+      "num": 45635,
+      "word": "王楚钦孙颖莎王曼昱冬训备战新赛季",
+      "onboard_time": 1736534773,
+      "rank": 39,
+      "category": "体育"
     },
     {
-      "raw_hot": 41716,
-      "num": 41716,
-      "word": "今天中国人民警察节",
-      "onboard_time": 1736520083,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 44360,
+      "num": 44360,
+      "word": "射雕英雄传为什么有蓬勃生命力",
+      "onboard_time": 1736552116,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 41712,
@@ -577,6 +593,14 @@
       "onboard_time": 1736533093,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 41084,
+      "num": 41084,
+      "word": "特朗普罪名成立但不予惩罚",
+      "onboard_time": 1736552055,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 36581,
@@ -651,6 +675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21234,
+      "num": 187884,
+      "word": "西藏小朋友追着给救援人员送水",
+      "onboard_time": 1736551094,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19551,
       "num": 89325,
       "word": "登陆少年微博之夜危险的爱",
@@ -703,14 +735,6 @@
       "num": 28822,
       "word": "唐朝小姐姐穿搭被陶俑定格",
       "onboard_time": 1736543891,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8253,
-      "num": 86026,
-      "word": "西藏小朋友追着给救援人员送水",
-      "onboard_time": 1736551094,
       "rank": 19,
       "category": "民生新闻"
     },
