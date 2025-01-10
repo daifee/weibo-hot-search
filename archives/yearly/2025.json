@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736477804486,
+  "endTime": 1736478332634,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1001,6 +1001,14 @@
       "onboard_time": 1736323583,
       "rank": 1,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 1758785,
+      "num": 1137791,
+      "word": "鬼鬼当妈",
+      "onboard_time": 1736477600,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 1753374,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736146822,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 991350,
-      "num": 297270,
-      "word": "轧戏",
-      "onboard_time": 1735698200,
-      "rank": 11,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
