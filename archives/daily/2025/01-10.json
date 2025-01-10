@@ -1,6 +1,6 @@
 {
   "startTime": 1736440116531,
-  "endTime": 1736490713187,
+  "endTime": 1736491489307,
   "band_list": [
     {
       "raw_hot": 4127605,
@@ -35,8 +35,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1955590,
-      "num": 1955590,
+      "raw_hot": 1958173,
+      "num": 1958173,
       "word": "加州州长给总统打了5个电话都没打通",
       "onboard_time": 1736488100,
       "rank": 0,
@@ -219,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 570177,
+      "num": 570177,
+      "word": "沈马 春晚",
+      "onboard_time": 1736489960,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 565747,
       "num": 565747,
       "word": "特朗普要求加州州长就山火失控辞职",
@@ -387,6 +395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 358999,
+      "num": 273814,
+      "word": "内娱出租屋文学",
+      "onboard_time": 1736488100,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 350853,
       "num": 350853,
       "word": "宋雨琦央视春晚第二次联排",
@@ -409,14 +425,6 @@
       "onboard_time": 1736475618,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 331026,
-      "num": 261607,
-      "word": "内娱出租屋文学",
-      "onboard_time": 1736488100,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 326535,
@@ -491,11 +499,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 280617,
+      "num": 280617,
+      "word": "鲁GT8586你真帅",
+      "onboard_time": 1736490439,
+      "rank": 39,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 276371,
       "num": 377670,
       "word": "别再人工催熟小孩哥小孩姐",
       "onboard_time": 1736478559,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 272527,
+      "num": 272527,
+      "word": "教育局回应4年级数学期末试卷太难",
+      "onboard_time": 1736490200,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -547,8 +571,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 242946,
-      "num": 242946,
+      "raw_hot": 249625,
+      "num": 249625,
       "word": "王俊凯寸头海军制服造型",
       "onboard_time": 1736490260,
       "rank": 25,
@@ -587,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 228076,
+      "num": 228076,
+      "word": "A股",
+      "onboard_time": 1736490679,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 224142,
       "num": 224142,
       "word": "网红小孩愿意自己被这样拍吗",
@@ -601,14 +633,6 @@
       "onboard_time": 1736477899,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 222661,
-      "num": 222661,
-      "word": "沈马 春晚",
-      "onboard_time": 1736489960,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 221592,
@@ -667,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196236,
+      "num": 202429,
+      "word": "陶昕然至今珍藏甄嬛传的剧本通告",
+      "onboard_time": 1736490082,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196142,
       "num": 196142,
       "word": "樊振东获中国青年五四奖章",
@@ -715,6 +747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190170,
+      "num": 190170,
+      "word": "tbz 大年初三",
+      "onboard_time": 1736490379,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 189155,
       "num": 204731,
       "word": "丁禹兮蛇年央视春晚第二次联排",
@@ -729,6 +769,14 @@
       "onboard_time": 1736485161,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186741,
+      "num": 186741,
+      "word": "专家称存钱不如存肌肉",
+      "onboard_time": 1736488339,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 185859,
@@ -811,6 +859,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 176853,
+      "num": 328801,
+      "word": "庆祝第五个中国人民警察节",
+      "onboard_time": 1736490799,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 176717,
       "num": 176717,
       "word": "我国老年人感染艾滋病占比持续上升",
@@ -851,14 +907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 173952,
-      "num": 173952,
-      "word": "tbz 大年初三",
-      "onboard_time": 1736490379,
-      "rank": 35,
-      "category": "演出"
-    },
-    {
       "raw_hot": 171827,
       "num": 171827,
       "word": "王楚钦孙颖莎领衔国乒冬训",
@@ -891,14 +939,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 168190,
-      "num": 168190,
-      "word": "鲁GT8586你真帅",
-      "onboard_time": 1736490439,
-      "rank": 39,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 167772,
       "num": 167772,
       "word": "湘潭大学投毒案死者系误食麦片",
@@ -921,14 +961,6 @@
       "onboard_time": 1736421201,
       "rank": 23,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 165868,
-      "num": 165868,
-      "word": "教育局回应4年级数学期末试卷太难",
-      "onboard_time": 1736490200,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 165577,
@@ -969,6 +1001,14 @@
       "onboard_time": 1736483662,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 161181,
+      "num": 200236,
+      "word": "于正回应白鹿新剧被黑",
+      "onboard_time": 1736490260,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 159462,
@@ -1051,14 +1091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143827,
-      "num": 202429,
-      "word": "陶昕然至今珍藏甄嬛传的剧本通告",
-      "onboard_time": 1736490082,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142803,
       "num": 142803,
       "word": "听潮阁尹妹",
@@ -1083,28 +1115,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 142180,
-      "num": 142180,
-      "word": "专家称存钱不如存肌肉",
-      "onboard_time": 1736488339,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 141556,
       "num": 141556,
       "word": "金玟庭直播",
       "onboard_time": 1736437162,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 139725,
-      "num": 139725,
-      "word": "A股",
-      "onboard_time": 1736490679,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 139436,
@@ -1171,6 +1187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133149,
+      "num": 133149,
+      "word": "芳名远扬 美人晕倒我偷笑",
+      "onboard_time": 1736491039,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130580,
       "num": 130580,
       "word": "湘潭大学宿舍投毒案公诉机关建议死刑",
@@ -1203,12 +1227,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 126523,
+      "num": 126523,
+      "word": "西藏定日地震救援",
+      "onboard_time": 1736490200,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126118,
       "num": 126118,
       "word": "美国加州山火为何这么猛",
       "onboard_time": 1736468420,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125340,
+      "num": 125340,
+      "word": "这夜熬得相当于调休了",
+      "onboard_time": 1736491460,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 124342,
@@ -1225,6 +1265,14 @@
       "onboard_time": 1736482642,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122140,
+      "num": 341041,
+      "word": "民警江中追击犯人把船开到树上",
+      "onboard_time": 1736489360,
+      "rank": 14,
+      "category": "正能量"
     },
     {
       "raw_hot": 121963,
@@ -1249,6 +1297,14 @@
       "onboard_time": 1736418445,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 117892,
+      "num": 274340,
+      "word": "官方回应大爷为游客垫医药费被拉黑",
+      "onboard_time": 1736490139,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117888,
@@ -1507,14 +1563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 60144,
-      "num": 265045,
-      "word": "官方回应大爷为游客垫医药费被拉黑",
-      "onboard_time": 1736490139,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 59102,
       "num": 70740,
       "word": "南京大屠杀幸存者艾义英奶奶走了",
@@ -1571,6 +1619,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 49640,
+      "num": 175323,
+      "word": "室友感染HPV要换宿舍吗",
+      "onboard_time": 1736488939,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 49584,
       "num": 193260,
       "word": "加州州长回应特朗普涉山火问题指责",
@@ -1585,14 +1641,6 @@
       "onboard_time": 1736472499,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 46105,
-      "num": 341041,
-      "word": "民警江中追击犯人把船开到树上",
-      "onboard_time": 1736489360,
-      "rank": 14,
-      "category": "正能量"
     },
     {
       "raw_hot": 45322,
@@ -1667,20 +1715,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 31921,
+      "num": 340767,
+      "word": "洛杉矶山火亲历者发声",
+      "onboard_time": 1736491100,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 31897,
       "num": 52422,
       "word": "美国加州山火消防栓缺水灭火率为0%",
       "onboard_time": 1736451011,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 31893,
-      "num": 168921,
-      "word": "室友感染HPV要换宿舍吗",
-      "onboard_time": 1736488939,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 31745,
@@ -1697,6 +1745,14 @@
       "onboard_time": 1736449752,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 30906,
+      "num": 259382,
+      "word": "无畏新年的五味零食",
+      "onboard_time": 1736488939,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 30178,
@@ -1747,6 +1803,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 27258,
+      "num": 329879,
+      "word": "美警方称山火就像原子弹落了下来",
+      "onboard_time": 1736491158,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 26828,
       "num": 91228,
       "word": "关注西藏定日县地震",
@@ -1761,14 +1825,6 @@
       "onboard_time": 1736448733,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 25836,
-      "num": 254447,
-      "word": "无畏新年的五味零食",
-      "onboard_time": 1736488939,
-      "rank": 23,
-      "category": "电竞"
     },
     {
       "raw_hot": 22474,

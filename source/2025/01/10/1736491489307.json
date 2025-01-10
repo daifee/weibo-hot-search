@@ -1,0 +1,410 @@
+{
+  "runTime": 1736491489307,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1958173,
+        "num": 1958173,
+        "word": "加州州长给总统打了5个电话都没打通",
+        "onboard_time": 1736488100,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1123789,
+        "num": 1123789,
+        "word": "留几手 葛夕",
+        "onboard_time": 1736486420,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31894,
+        "num": 1027036,
+        "word": "用心用情守望互助我们定能渡过难关",
+        "onboard_time": 1736477119,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 951666,
+        "num": 951666,
+        "word": "地铁口被指像棺材4人被处理",
+        "onboard_time": 1736477358,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 878069,
+        "num": 878069,
+        "word": "重庆文旅",
+        "onboard_time": 1736487140,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 618377,
+        "num": 618377,
+        "word": "中国香港女孩揭露韩国邪教恶行",
+        "onboard_time": 1736482820,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 570177,
+        "num": 570177,
+        "word": "沈马 春晚",
+        "onboard_time": 1736489960,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 451907,
+        "num": 451907,
+        "word": "于正看国色芳华了",
+        "onboard_time": 1736486360,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 391779,
+        "num": 391779,
+        "word": "洛杉矶大火",
+        "onboard_time": 1736481620,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 31921,
+        "num": 340767,
+        "word": "洛杉矶山火亲历者发声",
+        "onboard_time": 1736491100,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1703634,
+        "num": 338371,
+        "word": "鬼鬼 我没有结婚",
+        "onboard_time": 1736484203,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334240,
+        "num": 334240,
+        "word": "央视蛇年春晚第二次联排",
+        "onboard_time": 1736482041,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332957,
+        "num": 332957,
+        "word": "东风信 孟子义丁禹兮",
+        "onboard_time": 1736484203,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27258,
+        "num": 329879,
+        "word": "美警方称山火就像原子弹落了下来",
+        "onboard_time": 1736491158,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 176853,
+        "num": 328801,
+        "word": "庆祝第五个中国人民警察节",
+        "onboard_time": 1736490799,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 328145,
+        "num": 328145,
+        "word": "公交司机晕倒4个少年救了全车人",
+        "onboard_time": 1736475618,
+        "rank": 15,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 310019,
+        "num": 310019,
+        "word": "宋雨琦央视春晚第二次联排",
+        "onboard_time": 1736487261,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303139,
+        "num": 303139,
+        "word": "洛杉矶富人区被山火席卷",
+        "onboard_time": 1736483962,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 280617,
+        "num": 280617,
+        "word": "鲁GT8586你真帅",
+        "onboard_time": 1736490439,
+        "rank": 18,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 117892,
+        "num": 274340,
+        "word": "官方回应大爷为游客垫医药费被拉黑",
+        "onboard_time": 1736490139,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430616,
+        "num": 274071,
+        "word": "麦琳回门宴瘦了好多",
+        "onboard_time": 1736472738,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358999,
+        "num": 273814,
+        "word": "内娱出租屋文学",
+        "onboard_time": 1736488100,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272527,
+        "num": 272527,
+        "word": "教育局回应4年级数学期末试卷太难",
+        "onboard_time": 1736490200,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30906,
+        "num": 259382,
+        "word": "无畏新年的五味零食",
+        "onboard_time": 1736488939,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 249625,
+        "num": 249625,
+        "word": "王俊凯寸头海军制服造型",
+        "onboard_time": 1736490260,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 245183,
+        "num": 245183,
+        "word": "行政审批服务中心没人上班消息不实",
+        "onboard_time": 1736483542,
+        "rank": 25,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 228076,
+        "num": 228076,
+        "word": "A股",
+        "onboard_time": 1736490679,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 218668,
+        "num": 218668,
+        "word": "警察节",
+        "onboard_time": 1736468661,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206045,
+        "num": 206045,
+        "word": "蒋欣素颜彩排",
+        "onboard_time": 1736484262,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161181,
+        "num": 200236,
+        "word": "于正回应白鹿新剧被黑",
+        "onboard_time": 1736490260,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196236,
+        "num": 196236,
+        "word": "陶昕然至今珍藏甄嬛传的剧本通告",
+        "onboard_time": 1736490082,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192289,
+        "num": 192289,
+        "word": "男子狱中苦读24年获博士学位",
+        "onboard_time": 1736477119,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190170,
+        "num": 190170,
+        "word": "tbz 大年初三",
+        "onboard_time": 1736490379,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186741,
+        "num": 186741,
+        "word": "专家称存钱不如存肌肉",
+        "onboard_time": 1736488339,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 183144,
+        "num": 183144,
+        "word": "夏弃疾拍的张彬彬孙珍妮",
+        "onboard_time": 1736487021,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49640,
+        "num": 175323,
+        "word": "室友感染HPV要换宿舍吗",
+        "onboard_time": 1736488939,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168814,
+        "num": 168814,
+        "word": "果郡王说最想亲眼见到两个孩子",
+        "onboard_time": 1736485522,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161382,
+        "num": 161382,
+        "word": "选李现演蒋长扬的人简直是天才",
+        "onboard_time": 1736485642,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153009,
+        "num": 153009,
+        "word": "老外版你以为是1楼其实站在18楼",
+        "onboard_time": 1736486900,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 150434,
+        "num": 150434,
+        "word": "北京卫视置顶肖战",
+        "onboard_time": 1736488760,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149150,
+        "num": 149150,
+        "word": "特斯拉Model Y",
+        "onboard_time": 1736472619,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 147365,
+        "num": 147365,
+        "word": "助理否认罗志祥周扬青日本同游",
+        "onboard_time": 1736486840,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137624,
+        "num": 137624,
+        "word": "洛杉矶华人以为误入末日",
+        "onboard_time": 1736448793,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 133149,
+        "num": 133149,
+        "word": "芳名远扬 美人晕倒我偷笑",
+        "onboard_time": 1736491039,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132589,
+        "num": 132589,
+        "word": "再见爱人4李行亮新歌营业",
+        "onboard_time": 1736488459,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126523,
+        "num": 126523,
+        "word": "西藏定日地震救援",
+        "onboard_time": 1736490200,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122140,
+        "num": 125372,
+        "word": "民警江中追击犯人把船开到树上",
+        "onboard_time": 1736489360,
+        "rank": 46,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 125340,
+        "num": 125340,
+        "word": "这夜熬得相当于调休了",
+        "onboard_time": 1736491460,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124814,
+        "num": 124814,
+        "word": "确认被爱后面相都变了",
+        "onboard_time": 1736479220,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122611,
+        "num": 122611,
+        "word": "SM员工说不要相信艺人说的话",
+        "onboard_time": 1736482220,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央政治局常委会召开会议#"
+    }
+  }
+}

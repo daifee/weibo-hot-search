@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736490713187,
+  "endTime": 1736491489307,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -771,8 +771,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1955590,
-      "num": 1955590,
+      "raw_hot": 1958173,
+      "num": 1958173,
       "word": "加州州长给总统打了5个电话都没打通",
       "onboard_time": 1736488100,
       "rank": 0,
@@ -4947,6 +4947,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 570177,
+      "num": 570177,
+      "word": "沈马 春晚",
+      "onboard_time": 1736489960,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 569085,
       "num": 314277,
       "word": "傅菁后背痣好大方的美",
@@ -7915,6 +7923,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 358999,
+      "num": 273814,
+      "word": "内娱出租屋文学",
+      "onboard_time": 1736488100,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 358749,
       "num": 545300,
       "word": "央视记者洛杉矶火场报道像在战区",
@@ -8537,14 +8553,6 @@
       "onboard_time": 1736092105,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 331026,
-      "num": 261607,
-      "word": "内娱出租屋文学",
-      "onboard_time": 1736488100,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 330592,
@@ -10035,6 +10043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 280617,
+      "num": 280617,
+      "word": "鲁GT8586你真帅",
+      "onboard_time": 1736490439,
+      "rank": 39,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 280589,
       "num": 280589,
       "word": "任敏好可爱",
@@ -10289,6 +10305,14 @@
       "onboard_time": 1736229802,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 272527,
+      "num": 272527,
+      "word": "教育局回应4年级数学期末试卷太难",
+      "onboard_time": 1736490200,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 272265,
@@ -11091,6 +11115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 249625,
+      "num": 249625,
+      "word": "王俊凯寸头海军制服造型",
+      "onboard_time": 1736490260,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 249609,
       "num": 310417,
       "word": "误杀3 肖央你耍我",
@@ -11377,14 +11409,6 @@
       "onboard_time": 1736057189,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 242946,
-      "num": 242946,
-      "word": "王俊凯寸头海军制服造型",
-      "onboard_time": 1736490260,
-      "rank": 25,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 242909,
@@ -12337,14 +12361,6 @@
       "onboard_time": 1735701260,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 222661,
-      "num": 222661,
-      "word": "沈马 春晚",
-      "onboard_time": 1736489960,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 222561,
@@ -14523,6 +14539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196236,
+      "num": 202429,
+      "word": "陶昕然至今珍藏甄嬛传的剧本通告",
+      "onboard_time": 1736490082,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196179,
       "num": 196179,
       "word": "林更新官宣微博之夜",
@@ -15291,6 +15315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 190170,
+      "num": 190170,
+      "word": "tbz 大年初三",
+      "onboard_time": 1736490379,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 190124,
       "num": 206531,
       "word": "张彬彬8g网速",
@@ -15681,6 +15713,14 @@
       "onboard_time": 1736426782,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186741,
+      "num": 186741,
+      "word": "专家称存钱不如存肌肉",
+      "onboard_time": 1736488339,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 186725,
@@ -16523,6 +16563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176853,
+      "num": 328801,
+      "word": "庆祝第五个中国人民警察节",
+      "onboard_time": 1736490799,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 176767,
       "num": 176767,
       "word": "燕云十六声",
@@ -16793,14 +16841,6 @@
       "onboard_time": 1736292977,
       "rank": 31,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 173952,
-      "num": 173952,
-      "word": "tbz 大年初三",
-      "onboard_time": 1736490379,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 173898,
@@ -17515,14 +17555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 168190,
-      "num": 168190,
-      "word": "鲁GT8586你真帅",
-      "onboard_time": 1736490439,
-      "rank": 39,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 168181,
       "num": 168181,
       "word": "馋嘴警犬自己给自己加了个鸡腿",
@@ -17793,14 +17825,6 @@
       "onboard_time": 1736399482,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165868,
-      "num": 165868,
-      "word": "教育局回应4年级数学期末试卷太难",
-      "onboard_time": 1736490200,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 165806,
@@ -18320,6 +18344,14 @@
       "word": "国色芳华播放量破1000万",
       "onboard_time": 1736314761,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 161181,
+      "num": 200236,
+      "word": "于正回应白鹿新剧被黑",
+      "onboard_time": 1736490260,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -20107,14 +20139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143827,
-      "num": 202429,
-      "word": "陶昕然至今珍藏甄嬛传的剧本通告",
-      "onboard_time": 1736490082,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 143660,
       "num": 143660,
       "word": "景区鱼以贪睡出名导致真死没发现",
@@ -20289,14 +20313,6 @@
       "onboard_time": 1735814659,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 142180,
-      "num": 142180,
-      "word": "专家称存钱不如存肌肉",
-      "onboard_time": 1736488339,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 142096,
@@ -21475,6 +21491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133149,
+      "num": 133149,
+      "word": "芳名远扬 美人晕倒我偷笑",
+      "onboard_time": 1736491039,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133113,
       "num": 133113,
       "word": "王勉 我也没有很体面",
@@ -22139,6 +22163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 126523,
+      "num": 126523,
+      "word": "西藏定日地震救援",
+      "onboard_time": 1736490200,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126446,
       "num": 126446,
       "word": "哪吒汽车官网出现异常",
@@ -22289,6 +22321,14 @@
       "onboard_time": 1736293879,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125340,
+      "num": 125340,
+      "word": "这夜熬得相当于调休了",
+      "onboard_time": 1736491460,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 125338,
@@ -22593,6 +22633,14 @@
       "onboard_time": 1735785501,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 122140,
+      "num": 341041,
+      "word": "民警江中追击犯人把船开到树上",
+      "onboard_time": 1736489360,
+      "rank": 14,
+      "category": "正能量"
     },
     {
       "raw_hot": 122106,
@@ -23081,6 +23129,14 @@
       "onboard_time": 1735694839,
       "rank": 25,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 117892,
+      "num": 274340,
+      "word": "官方回应大爷为游客垫医药费被拉黑",
+      "onboard_time": 1736490139,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117862,
@@ -27035,14 +27091,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 60144,
-      "num": 265045,
-      "word": "官方回应大爷为游客垫医药费被拉黑",
-      "onboard_time": 1736490139,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60009,
       "num": 280649,
       "word": "伦纳德复出",
@@ -27867,6 +27915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49640,
+      "num": 175323,
+      "word": "室友感染HPV要换宿舍吗",
+      "onboard_time": 1736488939,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 49594,
       "num": 62486,
       "word": "去过挪威的人嘴真严",
@@ -28137,14 +28193,6 @@
       "onboard_time": 1736184434,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46105,
-      "num": 341041,
-      "word": "民警江中追击犯人把船开到树上",
-      "onboard_time": 1736489360,
-      "rank": 14,
-      "category": "正能量"
     },
     {
       "raw_hot": 45802,
@@ -29507,20 +29555,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 31921,
+      "num": 340767,
+      "word": "洛杉矶山火亲历者发声",
+      "onboard_time": 1736491100,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 31897,
       "num": 52422,
       "word": "美国加州山火消防栓缺水灭火率为0%",
       "onboard_time": 1736451011,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 31893,
-      "num": 168921,
-      "word": "室友感染HPV要换宿舍吗",
-      "onboard_time": 1736488939,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 31808,
@@ -29633,6 +29681,14 @@
       "onboard_time": 1735802240,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30906,
+      "num": 259382,
+      "word": "无畏新年的五味零食",
+      "onboard_time": 1736488939,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 30816,
@@ -30187,6 +30243,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 27258,
+      "num": 329879,
+      "word": "美警方称山火就像原子弹落了下来",
+      "onboard_time": 1736491158,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 27190,
       "num": 477489,
       "word": "什么是真正的舒适",
@@ -30297,14 +30361,6 @@
       "onboard_time": 1735908260,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 25836,
-      "num": 254447,
-      "word": "无畏新年的五味零食",
-      "onboard_time": 1736488939,
-      "rank": 23,
-      "category": "电竞"
     },
     {
       "raw_hot": 25815,
