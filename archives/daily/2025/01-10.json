@@ -1,6 +1,6 @@
 {
   "startTime": 1736440116531,
-  "endTime": 1736480609710,
+  "endTime": 1736483209024,
   "band_list": [
     {
       "raw_hot": 4127605,
@@ -19,7 +19,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2127735,
+      "raw_hot": 2217907,
       "num": 2127735,
       "word": "地铁口被指像棺材4人被处理",
       "onboard_time": 1736477358,
@@ -115,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 635646,
+      "num": 426202,
+      "word": "鬼鬼结婚了吗",
+      "onboard_time": 1736480541,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 627197,
       "num": 627197,
       "word": "茅台冰淇淋闭店停产三折清仓",
@@ -123,12 +131,36 @@
       "category": "美食,民生新闻"
     },
     {
+      "raw_hot": 625976,
+      "num": 625976,
+      "word": "公交司机晕倒4个少年救了全车人",
+      "onboard_time": 1736475618,
+      "rank": 20,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 596096,
+      "num": 302119,
+      "word": "女婴掉粪坑父母不救案细节披露",
+      "onboard_time": 1736480301,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 565747,
       "num": 565747,
       "word": "特朗普要求加州州长就山火失控辞职",
       "onboard_time": 1736437882,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 546556,
+      "num": 546556,
+      "word": "央视蛇年春晚第二次联排",
+      "onboard_time": 1736482041,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 531031,
@@ -187,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 439938,
+      "num": 439938,
+      "word": "洛杉矶大火",
+      "onboard_time": 1736481620,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 431248,
       "num": 431248,
       "word": "12306又崩了",
@@ -219,12 +259,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 380027,
+      "num": 380027,
+      "word": "封神第二部从零建造西岐城",
+      "onboard_time": 1736479401,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 377324,
+      "num": 377324,
+      "word": "王子恭喜鬼鬼",
+      "onboard_time": 1736482220,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 375622,
       "num": 249386,
       "word": "确认被爱后面相都变了",
       "onboard_time": 1736479220,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 372205,
+      "num": 372205,
+      "word": "SM员工说不要相信艺人说的话",
+      "onboard_time": 1736482220,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 365029,
@@ -235,12 +299,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 339028,
-      "num": 339028,
-      "word": "公交司机晕倒4个少年救了全车人",
-      "onboard_time": 1736475618,
-      "rank": 20,
-      "category": "正能量"
+      "raw_hot": 358276,
+      "num": 358276,
+      "word": "中国香港女孩揭露韩国邪教恶行",
+      "onboard_time": 1736482820,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 333884,
@@ -267,14 +331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 317801,
-      "num": 317801,
-      "word": "封神第二部从零建造西岐城",
-      "onboard_time": 1736479401,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 317090,
       "num": 317090,
       "word": "买股代露娃",
@@ -299,12 +355,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 299818,
+      "num": 299818,
+      "word": "加州山火致130只宠物流离失所",
+      "onboard_time": 1736481201,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 297889,
       "num": 297889,
       "word": "蝙蝠侠在车里看着豪宅被烧光",
       "onboard_time": 1736433923,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 295563,
+      "num": 427449,
+      "word": "警察节",
+      "onboard_time": 1736468661,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 264612,
@@ -347,12 +419,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 241192,
-      "num": 241192,
-      "word": "女婴掉粪坑父母不救案细节披露",
-      "onboard_time": 1736480301,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 241268,
+      "num": 241268,
+      "word": "王鹤棣帮库里全明星拉票",
+      "onboard_time": 1736481561,
+      "rank": 23,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 241001,
@@ -363,12 +435,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 232882,
+      "num": 184221,
+      "word": "小猫被电后撤回了撒娇",
+      "onboard_time": 1736482341,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 231481,
       "num": 231481,
       "word": "疯狂开业的俄罗斯商品馆被立案调查",
       "onboard_time": 1736451552,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 223720,
+      "num": 253048,
+      "word": "入青云",
+      "onboard_time": 1736477899,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 217311,
@@ -435,20 +523,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189096,
-      "num": 253048,
-      "word": "入青云",
-      "onboard_time": 1736477899,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 185859,
       "num": 279002,
       "word": "张真源不语只一味地合照",
       "onboard_time": 1736469620,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184048,
+      "num": 184048,
+      "word": "一路繁花",
+      "onboard_time": 1736482220,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 182895,
@@ -499,6 +587,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 175921,
+      "num": 175921,
+      "word": "张小斐和妈妈重返旧时光",
+      "onboard_time": 1736480901,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175747,
       "num": 175747,
       "word": "河南女孩当选年度女性新闻人物",
@@ -539,6 +635,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 164105,
+      "num": 164105,
+      "word": "男子因同名房产遭乌龙法拍",
+      "onboard_time": 1736478921,
+      "rank": 48,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 163731,
       "num": 163731,
       "word": "17种身体异常一般不用治疗",
@@ -571,11 +675,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158980,
+      "num": 377670,
+      "word": "别再人工催熟小孩哥小孩姐",
+      "onboard_time": 1736478559,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158027,
       "num": 158027,
       "word": "警犬幺幺零1岁了",
       "onboard_time": 1736467157,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156794,
+      "num": 156794,
+      "word": "地铁口被吐槽像棺材4人被处理",
+      "onboard_time": 1736481740,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -585,6 +705,14 @@
       "onboard_time": 1736439918,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155575,
+      "num": 179777,
+      "word": "国色芳华云合第二",
+      "onboard_time": 1736479160,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 155494,
@@ -603,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148740,
+      "num": 148740,
+      "word": "刘国梁冬训发言",
+      "onboard_time": 1736481801,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147156,
       "num": 702789,
       "word": "感染甲流后不能硬扛",
@@ -617,14 +753,6 @@
       "onboard_time": 1736447952,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 146257,
-      "num": 146257,
-      "word": "国色芳华云合第二",
-      "onboard_time": 1736479160,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 142803,
@@ -651,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140333,
+      "num": 140333,
+      "word": "樊振东任何体育比赛都看",
+      "onboard_time": 1736480000,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139436,
       "num": 139436,
       "word": "被国色芳华看落日这一幕戳中了",
@@ -665,14 +801,6 @@
       "onboard_time": 1736434821,
       "rank": 30,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 137548,
-      "num": 137548,
-      "word": "鬼鬼结婚了吗",
-      "onboard_time": 1736480541,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 136224,
@@ -723,12 +851,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 126895,
-      "num": 126895,
-      "word": "别再人工催熟小孩哥小孩姐",
-      "onboard_time": 1736478559,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 127042,
+      "num": 190926,
+      "word": "华晨宇分享图片",
+      "onboard_time": 1736482883,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 126118,
@@ -739,12 +867,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125385,
-      "num": 125385,
-      "word": "男子因同名房产遭乌龙法拍",
-      "onboard_time": 1736478921,
-      "rank": 48,
-      "category": "舆论监督"
+      "raw_hot": 124136,
+      "num": 124136,
+      "word": "12306回应4天3崩",
+      "onboard_time": 1736483181,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 121197,
@@ -809,14 +937,6 @@
       "onboard_time": 1736437580,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 113710,
-      "num": 113710,
-      "word": "樊振东任何体育比赛都看",
-      "onboard_time": 1736480000,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 112661,
@@ -1131,6 +1251,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 30957,
+      "num": 157575,
+      "word": "年夜饭哪道菜必不可少",
+      "onboard_time": 1736480301,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 30178,
       "num": 178306,
       "word": "周深和记者对暗号主打已读乱回",
@@ -1155,14 +1283,6 @@
       "category": "国内时政,民生新闻"
     },
     {
-      "raw_hot": 28236,
-      "num": 126733,
-      "word": "年夜饭哪道菜必不可少",
-      "onboard_time": 1736480301,
-      "rank": 41,
-      "category": "美食"
-    },
-    {
       "raw_hot": 28001,
       "num": 193329,
       "word": "不同病原体的发烧有啥不同",
@@ -1185,6 +1305,14 @@
       "onboard_time": 1736448733,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 23112,
+      "num": 184373,
+      "word": "多能多面黄景瑜",
+      "onboard_time": 1736482220,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 21839,
@@ -1217,6 +1345,14 @@
       "onboard_time": 1736447772,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 17209,
+      "num": 157099,
+      "word": "接种HPV疫苗安全吗",
+      "onboard_time": 1736481801,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16816,

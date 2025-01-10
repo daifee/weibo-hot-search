@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736480609710,
+  "endTime": 1736483209024,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -403,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2217907,
+      "num": 2127735,
+      "word": "地铁口被指像棺材4人被处理",
+      "onboard_time": 1736477358,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2154478,
       "num": 144782,
       "word": "演员星星被推迟送回泰国",
@@ -433,14 +441,6 @@
       "onboard_time": 1736410701,
       "rank": 20,
       "category": "电影"
-    },
-    {
-      "raw_hot": 2127735,
-      "num": 2127735,
-      "word": "地铁口被指像棺材4人被处理",
-      "onboard_time": 1736477358,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 2126402,
@@ -2459,6 +2459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 635646,
+      "num": 426202,
+      "word": "鬼鬼结婚了吗",
+      "onboard_time": 1736480541,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 635110,
       "num": 635110,
       "word": "警方通报19岁女生被司机扔高速",
@@ -2513,6 +2521,14 @@
       "onboard_time": 1736003495,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 625976,
+      "num": 625976,
+      "word": "公交司机晕倒4个少年救了全车人",
+      "onboard_time": 1736475618,
+      "rank": 20,
+      "category": "正能量"
     },
     {
       "raw_hot": 623921,
@@ -2649,6 +2665,14 @@
       "onboard_time": 1736263583,
       "rank": 49,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 596096,
+      "num": 302119,
+      "word": "女婴掉粪坑父母不救案细节披露",
+      "onboard_time": 1736480301,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 593233,
@@ -2865,6 +2889,14 @@
       "onboard_time": 1736207059,
       "rank": 6,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 546556,
+      "num": 546556,
+      "word": "央视蛇年春晚第二次联排",
+      "onboard_time": 1736482041,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 544544,
@@ -3611,6 +3643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 439938,
+      "num": 439938,
+      "word": "洛杉矶大火",
+      "onboard_time": 1736481620,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 439355,
       "num": 319159,
       "word": "敖丙开门 是爹地",
@@ -4115,6 +4155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 380027,
+      "num": 380027,
+      "word": "封神第二部从零建造西岐城",
+      "onboard_time": 1736479401,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 379273,
       "num": 382232,
       "word": "2025年第1天救了2条人命",
@@ -4137,6 +4185,14 @@
       "onboard_time": 1736332941,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 377324,
+      "num": 377324,
+      "word": "王子恭喜鬼鬼",
+      "onboard_time": 1736482220,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 377177,
@@ -4217,6 +4273,14 @@
       "onboard_time": 1736239883,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 372205,
+      "num": 372205,
+      "word": "SM员工说不要相信艺人说的话",
+      "onboard_time": 1736482220,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 370044,
@@ -4353,6 +4417,14 @@
       "onboard_time": 1736404761,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 358276,
+      "num": 358276,
+      "word": "中国香港女孩揭露韩国邪教恶行",
+      "onboard_time": 1736482820,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 358121,
@@ -4585,14 +4657,6 @@
       "onboard_time": 1736262324,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 339028,
-      "num": 339028,
-      "word": "公交司机晕倒4个少年救了全车人",
-      "onboard_time": 1736475618,
-      "rank": 20,
-      "category": "正能量"
     },
     {
       "raw_hot": 338911,
@@ -4859,14 +4923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 317801,
-      "num": 317801,
-      "word": "封神第二部从零建造西岐城",
-      "onboard_time": 1736479401,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 316967,
       "num": 276979,
       "word": "今年微博之夜导播还敢这么切吗",
@@ -5123,6 +5179,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 299818,
+      "num": 299818,
+      "word": "加州山火致130只宠物流离失所",
+      "onboard_time": 1736481201,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 299005,
       "num": 299005,
       "word": "男子被绑至缅甸称拉5人才能出去",
@@ -5217,6 +5281,14 @@
       "onboard_time": 1736061385,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 295563,
+      "num": 427449,
+      "word": "警察节",
+      "onboard_time": 1736468661,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 294439,
@@ -6315,12 +6387,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 241192,
-      "num": 241192,
-      "word": "女婴掉粪坑父母不救案细节披露",
-      "onboard_time": 1736480301,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 241268,
+      "num": 241268,
+      "word": "王鹤棣帮库里全明星拉票",
+      "onboard_time": 1736481561,
+      "rank": 23,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 241131,
@@ -6513,6 +6585,14 @@
       "onboard_time": 1736234125,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232882,
+      "num": 184221,
+      "word": "小猫被电后撤回了撒娇",
+      "onboard_time": 1736482341,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 232843,
@@ -6768,6 +6848,14 @@
       "word": "杨紫魏哲鸣新剧包办婚姻受害者",
       "onboard_time": 1736136444,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 223720,
+      "num": 253048,
+      "word": "入青云",
+      "onboard_time": 1736477899,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -8395,14 +8483,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 189096,
-      "num": 253048,
-      "word": "入青云",
-      "onboard_time": 1736477899,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 188791,
       "num": 213546,
       "word": "当大学生开始送礼给长辈一点震撼",
@@ -8665,6 +8745,14 @@
       "onboard_time": 1736120178,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 184048,
+      "num": 184048,
+      "word": "一路繁花",
+      "onboard_time": 1736482220,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 183632,
@@ -9049,6 +9137,14 @@
       "onboard_time": 1736434821,
       "rank": 35,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 175921,
+      "num": 175921,
+      "word": "张小斐和妈妈重返旧时光",
+      "onboard_time": 1736480901,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 175747,
@@ -9651,6 +9747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164105,
+      "num": 164105,
+      "word": "男子因同名房产遭乌龙法拍",
+      "onboard_time": 1736478921,
+      "rank": 48,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 163815,
       "num": 273816,
       "word": "湘大宿舍投毒案背后的寝室关系",
@@ -9923,6 +10027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158980,
+      "num": 377670,
+      "word": "别再人工催熟小孩哥小孩姐",
+      "onboard_time": 1736478559,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158805,
       "num": 3688720,
       "word": "这段视频Passion值拉满了",
@@ -10075,6 +10187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156794,
+      "num": 156794,
+      "word": "地铁口被吐槽像棺材4人被处理",
+      "onboard_time": 1736481740,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156364,
       "num": 156364,
       "word": "吴泽林教檀健次跳舞手脚打结",
@@ -10145,6 +10265,14 @@
       "onboard_time": 1736424502,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155575,
+      "num": 179777,
+      "word": "国色芳华云合第二",
+      "onboard_time": 1736479160,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 155401,
@@ -10507,6 +10635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148740,
+      "num": 148740,
+      "word": "刘国梁冬训发言",
+      "onboard_time": 1736481801,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148699,
       "num": 148699,
       "word": "马龙最想对阵刘国梁",
@@ -10656,14 +10792,6 @@
       "word": "国色芳华剧组驰援西藏",
       "onboard_time": 1736307982,
       "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 146257,
-      "num": 146257,
-      "word": "国色芳华云合第二",
-      "onboard_time": 1736479160,
-      "rank": 42,
       "category": "剧集"
     },
     {
@@ -10971,6 +11099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140333,
+      "num": 140333,
+      "word": "樊振东任何体育比赛都看",
+      "onboard_time": 1736480000,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140315,
       "num": 140315,
       "word": "华策影视云包场",
@@ -11121,14 +11257,6 @@
       "onboard_time": 1736342423,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 137548,
-      "num": 137548,
-      "word": "鬼鬼结婚了吗",
-      "onboard_time": 1736480541,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 137527,
@@ -11787,20 +11915,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 127042,
+      "num": 190926,
+      "word": "华晨宇分享图片",
+      "onboard_time": 1736482883,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127011,
       "num": 127011,
       "word": "时代少年团我得意的笑路透",
       "onboard_time": 1736243665,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126895,
-      "num": 126895,
-      "word": "别再人工催熟小孩哥小孩姐",
-      "onboard_time": 1736478559,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126830,
@@ -11915,14 +12043,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125385,
-      "num": 125385,
-      "word": "男子因同名房产遭乌龙法拍",
-      "onboard_time": 1736478921,
-      "rank": 48,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 125338,
       "num": 331642,
       "word": "医药股集体大涨",
@@ -11985,6 +12105,14 @@
       "onboard_time": 1736435243,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124136,
+      "num": 124136,
+      "word": "12306回应4天3崩",
+      "onboard_time": 1736483181,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 124020,
@@ -12633,14 +12761,6 @@
       "onboard_time": 1736437580,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 113710,
-      "num": 113710,
-      "word": "樊振东任何体育比赛都看",
-      "onboard_time": 1736480000,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 113629,
@@ -16267,6 +16387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 30957,
+      "num": 157575,
+      "word": "年夜饭哪道菜必不可少",
+      "onboard_time": 1736480301,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 30816,
       "num": 239189,
       "word": "张若昀微博之夜官宣海报",
@@ -16465,14 +16593,6 @@
       "onboard_time": 1736019674,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 28236,
-      "num": 126733,
-      "word": "年夜饭哪道菜必不可少",
-      "onboard_time": 1736480301,
-      "rank": 41,
-      "category": "美食"
     },
     {
       "raw_hot": 28001,
@@ -16713,6 +16833,14 @@
       "onboard_time": 1736067146,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23112,
+      "num": 184373,
+      "word": "多能多面黄景瑜",
+      "onboard_time": 1736482220,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 22994,
@@ -17008,6 +17136,14 @@
       "word": "男子辟谣假父认儿为养老",
       "onboard_time": 1736159843,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17209,
+      "num": 157099,
+      "word": "接种HPV疫苗安全吗",
+      "onboard_time": 1736481801,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
