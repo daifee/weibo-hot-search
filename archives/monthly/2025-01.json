@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736465742865,
+  "endTime": 1736473494299,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1179,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1586156,
+      "num": 1586156,
+      "word": "洛杉矶华人以为误入末日",
+      "onboard_time": 1736448793,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1575211,
       "num": 1575211,
       "word": "黄雅琼宣布退出国家队",
@@ -1217,6 +1225,14 @@
       "onboard_time": 1735900819,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1557523,
+      "num": 1557523,
+      "word": "麦琳回门宴瘦了好多",
+      "onboard_time": 1736472738,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1552604,
@@ -1819,14 +1835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1199299,
-      "num": 1199299,
-      "word": "洛杉矶华人以为误入末日",
-      "onboard_time": 1736448793,
-      "rank": 40,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 1196710,
       "num": 1196710,
       "word": "泰国警方称已知晓星星位置",
@@ -2241,6 +2249,14 @@
       "onboard_time": 1736401821,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1019071,
+      "num": 1019071,
+      "word": "特斯拉Model Y",
+      "onboard_time": 1736472619,
+      "rank": 3,
+      "category": "汽车"
     },
     {
       "raw_hot": 1017412,
@@ -3145,6 +3161,14 @@
       "onboard_time": 1736437221,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 807097,
+      "num": 807097,
+      "word": "留几手不想看葛夕的日记",
+      "onboard_time": 1736465777,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 805244,
@@ -4275,6 +4299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 627197,
+      "num": 627197,
+      "word": "茅台冰淇淋闭店停产三折清仓",
+      "onboard_time": 1736466919,
+      "rank": 5,
+      "category": "美食,民生新闻"
+    },
+    {
       "raw_hot": 626897,
       "num": 395861,
       "word": "徐以若",
@@ -5083,6 +5115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 531031,
+      "num": 531031,
+      "word": "广州花地湾地铁站外形引争议4人被处罚",
+      "onboard_time": 1736467521,
+      "rank": 7,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 530858,
       "num": 530858,
       "word": "甲流通常全身症状比较明显",
@@ -5353,6 +5393,14 @@
       "onboard_time": 1735985841,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 507846,
+      "num": 507846,
+      "word": "白鹿857857",
+      "onboard_time": 1736464816,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 507092,
@@ -6371,6 +6419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 430003,
+      "num": 238635,
+      "word": "辛雨锡向郭德纲道歉",
+      "onboard_time": 1736464877,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 429836,
       "num": 429836,
       "word": "丁禹兮 善良战胜了i人的社恐",
@@ -6433,6 +6489,14 @@
       "onboard_time": 1736070085,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 425186,
+      "num": 425186,
+      "word": "说了20分钟对方不上当骗子气到大叫",
+      "onboard_time": 1736437580,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 424980,
@@ -6585,14 +6649,6 @@
       "onboard_time": 1736223684,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 416664,
-      "num": 238635,
-      "word": "辛雨锡向郭德纲道歉",
-      "onboard_time": 1736464877,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 416509,
@@ -7185,6 +7241,14 @@
       "onboard_time": 1735899740,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 380320,
+      "num": 380320,
+      "word": "前FPX辅助爆料冰岛事件",
+      "onboard_time": 1736467580,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 379606,
@@ -8443,6 +8507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 322285,
+      "num": 322285,
+      "word": "疑似SM新女团成员公开",
+      "onboard_time": 1736468120,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 322171,
       "num": 322171,
       "word": "芒果剧宣",
@@ -9112,14 +9184,6 @@
       "word": "翟欣欣涉嫌敲诈勒索案即将开庭",
       "onboard_time": 1736292557,
       "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 297870,
-      "num": 297870,
-      "word": "说了20分钟对方不上当骗子气到大叫",
-      "onboard_time": 1736437580,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -10385,6 +10449,14 @@
       "onboard_time": 1735648587,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 257863,
+      "num": 257863,
+      "word": "五万公摊电费未公布明细业主拒缴费",
+      "onboard_time": 1736465958,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 257814,
@@ -12251,6 +12323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217311,
+      "num": 217311,
+      "word": "猫 就知道在那拍拍拍",
+      "onboard_time": 1736467460,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 217214,
       "num": 424374,
       "word": "装了热水的保温杯千万别晃",
@@ -14067,6 +14147,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 196142,
+      "num": 196142,
+      "word": "樊振东获中国青年五四奖章",
+      "onboard_time": 1736472378,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196122,
       "num": 196122,
       "word": "福彩双色球开出5.28亿巨奖",
@@ -14097,6 +14185,14 @@
       "onboard_time": 1736320463,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195399,
+      "num": 195399,
+      "word": "美国洛杉矶山火18万人强制撤离",
+      "onboard_time": 1736470820,
+      "rank": 24,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 195381,
@@ -14673,6 +14769,14 @@
       "onboard_time": 1735704621,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191004,
+      "num": 191004,
+      "word": "俄罗斯姑娘打假上海俄罗斯商品馆",
+      "onboard_time": 1736455091,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190932,
@@ -15641,6 +15745,14 @@
       "onboard_time": 1736218460,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180723,
+      "num": 180723,
+      "word": "张真源不语只一味地合照",
+      "onboard_time": 1736469620,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 180598,
@@ -16915,6 +17027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167727,
+      "num": 167727,
+      "word": "西藏地震灾区收到了奶茶可乐",
+      "onboard_time": 1736433862,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167716,
       "num": 167716,
       "word": "网传星光大赏红毯赵丽颖压轴",
@@ -17009,14 +17129,6 @@
       "onboard_time": 1735822460,
       "rank": 41,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 166845,
-      "num": 166845,
-      "word": "西藏地震灾区收到了奶茶可乐",
-      "onboard_time": 1736433862,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 166782,
@@ -17353,6 +17465,14 @@
       "onboard_time": 1736000310,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163731,
+      "num": 163731,
+      "word": "17种身体异常一般不用治疗",
+      "onboard_time": 1736469261,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 163691,
@@ -17873,6 +17993,14 @@
       "onboard_time": 1736343203,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 158027,
+      "num": 158027,
+      "word": "警犬幺幺零1岁了",
+      "onboard_time": 1736467157,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157959,
@@ -20243,6 +20371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136663,
+      "num": 136663,
+      "word": "卡特葬礼上美国前总统上演修罗场",
+      "onboard_time": 1736472979,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 136550,
       "num": 136550,
       "word": "00后女孩与网友去泰国后失联",
@@ -20353,6 +20489,14 @@
       "onboard_time": 1735727062,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135745,
+      "num": 135745,
+      "word": "宋慧乔不是能靠脸的年纪",
+      "onboard_time": 1736447952,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 135648,
@@ -20569,6 +20713,14 @@
       "onboard_time": 1735697421,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133657,
+      "num": 133657,
+      "word": "周红斌已主动投案",
+      "onboard_time": 1736467040,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133653,
@@ -21347,6 +21499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126118,
+      "num": 126118,
+      "word": "美国加州山火为何这么猛",
+      "onboard_time": 1736468420,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126089,
       "num": 151034,
       "word": "孙颖莎说东京懵懂巴黎成熟",
@@ -21819,6 +21979,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 121197,
+      "num": 121197,
+      "word": "杨紫李现新剧云合翻3倍",
+      "onboard_time": 1736468060,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121153,
       "num": 121153,
       "word": "特朗普为什么觊觎格陵兰岛",
@@ -22072,14 +22240,6 @@
       "word": "两男孩骑车横穿马路险被撞",
       "onboard_time": 1736071466,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119256,
-      "num": 119256,
-      "word": "俄罗斯姑娘打假上海俄罗斯商品馆",
-      "onboard_time": 1736455091,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -22481,6 +22641,14 @@
       "onboard_time": 1735857433,
       "rank": 48,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 115288,
+      "num": 103144,
+      "word": "杨紫李现国色芳华大婚预告",
+      "onboard_time": 1736466137,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 115199,
@@ -23323,14 +23491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105261,
-      "num": 105261,
-      "word": "白鹿857857",
-      "onboard_time": 1736464816,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 105052,
       "num": 341767,
       "word": "李政宰回应郑雨盛私生活争议",
@@ -23459,6 +23619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103493,
+      "num": 103493,
+      "word": "平安的密码叫110",
+      "onboard_time": 1736468779,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103460,
       "num": 103460,
       "word": "丁俊晖5比4特鲁姆普",
@@ -23481,6 +23649,14 @@
       "onboard_time": 1736158583,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103388,
+      "num": 103388,
+      "word": "29名运动员获全国五一劳动奖章",
+      "onboard_time": 1736471780,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 103292,
@@ -23545,6 +23721,22 @@
       "onboard_time": 1735832839,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 102220,
+      "num": 102220,
+      "word": "他们在安全感便在",
+      "onboard_time": 1736472558,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102218,
+      "num": 511378,
+      "word": "美国大火超4000座建筑受损",
+      "onboard_time": 1736471060,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 102187,
@@ -23675,6 +23867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100105,
+      "num": 100105,
+      "word": "肖战确认参加北京卫视春晚",
+      "onboard_time": 1736466198,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99758,
       "num": 263686,
       "word": "梁靖崑山东队夺冠功臣",
@@ -23713,6 +23913,14 @@
       "onboard_time": 1735959318,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 98989,
+      "num": 98989,
+      "word": "出现哪些症状需要怀疑是甲流",
+      "onboard_time": 1736470760,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 98889,
@@ -24409,14 +24617,6 @@
       "onboard_time": 1736388079,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 87284,
-      "num": 87284,
-      "word": "宋慧乔不是能靠脸的年纪",
-      "onboard_time": 1736447952,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 87267,
@@ -26427,6 +26627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 55765,
+      "num": 1144848,
+      "word": "一粒种子从空间站留学归来",
+      "onboard_time": 1736433083,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55639,
       "num": 248718,
       "word": "官方回应公司用消费券抵工资",
@@ -27899,6 +28107,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 37332,
+      "num": 241150,
+      "word": "微博之夜盛典直播",
+      "onboard_time": 1736473278,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 37302,
       "num": 206904,
       "word": "TTG风君正式断开链接",
@@ -29201,14 +29417,6 @@
       "onboard_time": 1735851020,
       "rank": 24,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 26246,
-      "num": 454282,
-      "word": "一粒种子从空间站留学归来",
-      "onboard_time": 1736433083,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26025,

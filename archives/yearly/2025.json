@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736465742865,
+  "endTime": 1736473494299,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1179,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1586156,
+      "num": 1586156,
+      "word": "洛杉矶华人以为误入末日",
+      "onboard_time": 1736448793,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1575211,
       "num": 1575211,
       "word": "黄雅琼宣布退出国家队",
@@ -1217,6 +1225,14 @@
       "onboard_time": 1735900819,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1557523,
+      "num": 1557523,
+      "word": "麦琳回门宴瘦了好多",
+      "onboard_time": 1736472738,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1552604,
@@ -1819,14 +1835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1199299,
-      "num": 1199299,
-      "word": "洛杉矶华人以为误入末日",
-      "onboard_time": 1736448793,
-      "rank": 40,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 1196710,
       "num": 1196710,
       "word": "泰国警方称已知晓星星位置",
@@ -2243,6 +2251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1019071,
+      "num": 1019071,
+      "word": "特斯拉Model Y",
+      "onboard_time": 1736472619,
+      "rank": 3,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1017412,
       "num": 639794,
       "word": "赵露思 救救我",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1736319141,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 988199,
-      "num": 609703,
-      "word": "管乐",
-      "onboard_time": 1735978282,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 987481,
-      "num": 902877,
-      "word": "疑似李行亮没下车",
-      "onboard_time": 1735818683,
-      "rank": 6,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
