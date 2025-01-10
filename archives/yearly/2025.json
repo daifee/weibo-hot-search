@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736474625946,
+  "endTime": 1736477804486,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1041,6 +1041,14 @@
       "onboard_time": 1736341523,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1717774,
+      "num": 1717774,
+      "word": "雷军 小米YU7",
+      "onboard_time": 1736475198,
+      "rank": 1,
+      "category": "汽车"
     },
     {
       "raw_hot": 1711336,
@@ -2123,6 +2131,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 1082335,
+      "num": 1082335,
+      "word": "间谍在浙江拍照没想到一路被监控",
+      "onboard_time": 1736474239,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1082011,
       "num": 1082011,
       "word": "刘强东给自己小学老师每人发10万现金",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1735698200,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 990915,
-      "num": 990915,
-      "word": "张颂文",
-      "onboard_time": 1735778299,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 990085,
-      "num": 487327,
-      "word": "工资8000一年攒下72000",
-      "onboard_time": 1736319141,
-      "rank": 20,
-      "category": "幽默"
     }
   ],
   "hotgov_list": [
