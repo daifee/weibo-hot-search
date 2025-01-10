@@ -1,6 +1,6 @@
 {
   "startTime": 1736526528002,
-  "endTime": 1736544943491,
+  "endTime": 1736547688109,
   "band_list": [
     {
       "raw_hot": 947995,
@@ -395,6 +395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 104553,
+      "num": 104553,
+      "word": "留几手说葛夕从头到尾都在揭短",
+      "onboard_time": 1736536092,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104077,
       "num": 104077,
       "word": "国色芳华",
@@ -451,12 +459,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 71512,
-      "num": 46035,
-      "word": "留几手说葛夕从头到尾都在揭短",
-      "onboard_time": 1736536092,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 68951,
+      "num": 44107,
+      "word": "4种水果不甜但含糖量很高",
+      "onboard_time": 1736532434,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 65561,
@@ -475,6 +483,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 61765,
+      "num": 31740,
+      "word": "黄圣依从一开始就在审视自己婚姻",
+      "onboard_time": 1736545871,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 61684,
       "num": 219953,
       "word": "金色盾牌守护万家灯火",
@@ -491,20 +507,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 51662,
-      "num": 44107,
-      "word": "4种水果不甜但含糖量很高",
-      "onboard_time": 1736532434,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
       "raw_hot": 41712,
       "num": 119832,
       "word": "洛杉矶已有超16万亩土地被烧毁",
       "onboard_time": 1736533093,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 35661,
+      "num": 35661,
+      "word": "31人获得杜甫草堂终身免票资格",
+      "onboard_time": 1736546291,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33964,
@@ -529,6 +545,14 @@
       "onboard_time": 1736541492,
       "rank": 18,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 28347,
+      "num": 46045,
+      "word": "爸爸抱着女儿转着转着长大了",
+      "onboard_time": 1736544131,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27554,
@@ -619,14 +643,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 13632,
-      "num": 46045,
-      "word": "爸爸抱着女儿转着转着长大了",
-      "onboard_time": 1736544131,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 13102,
       "num": 28796,
       "word": "抗震救灾不容AI虚假信息造谣添乱",
@@ -647,6 +663,14 @@
       "num": 28822,
       "word": "唐朝小姐姐穿搭被陶俑定格",
       "onboard_time": 1736543891,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8466,
+      "num": 38650,
+      "word": "从前爬悬崖的孩子如今坐缆车上学",
+      "onboard_time": 1736547492,
       "rank": 19,
       "category": "民生新闻"
     },
