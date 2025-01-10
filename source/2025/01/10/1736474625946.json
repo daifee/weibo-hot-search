@@ -1,0 +1,410 @@
+{
+  "runTime": 1736474625946,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2218677,
+        "num": 2218677,
+        "word": "麦琳回门宴瘦了好多",
+        "onboard_time": 1736472738,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1483524,
+        "num": 1483524,
+        "word": "特斯拉Model Y",
+        "onboard_time": 1736472619,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 54674,
+        "num": 1284708,
+        "word": "一粒种子从空间站留学归来",
+        "onboard_time": 1736433083,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1172403,
+        "num": 1172403,
+        "word": "洛杉矶华人以为误入末日",
+        "onboard_time": 1736448793,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 533259,
+        "num": 533259,
+        "word": "留几手不想看葛夕的日记",
+        "onboard_time": 1736465777,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 463393,
+        "num": 463393,
+        "word": "茅台冰淇淋闭店停产三折清仓",
+        "onboard_time": 1736466919,
+        "rank": 5,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 457863,
+        "num": 457863,
+        "word": "白鹿857857",
+        "onboard_time": 1736464816,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 455159,
+        "num": 455159,
+        "word": "2人幼儿园时假扮夫妻20年后真结婚了",
+        "onboard_time": 1736440937,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404296,
+        "num": 404296,
+        "word": "18岁小伙嚼槟榔8年脸方成电视机",
+        "onboard_time": 1736437882,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185842,
+        "num": 402118,
+        "word": "美国大火超4000座建筑受损",
+        "onboard_time": 1736471060,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 401625,
+        "num": 401625,
+        "word": "美国洛杉矶山火最新消息",
+        "onboard_time": 1736421562,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 392628,
+        "num": 392628,
+        "word": "跑腿小哥送酸奶察觉异常挽回4.8万",
+        "onboard_time": 1736435123,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385642,
+        "num": 385642,
+        "word": "广州花地湾地铁站外形引争议4人被处罚",
+        "onboard_time": 1736467521,
+        "rank": 12,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 364088,
+        "num": 364088,
+        "word": "说了20分钟对方不上当骗子气到大叫",
+        "onboard_time": 1736437580,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283477,
+        "num": 283477,
+        "word": "前FPX辅助爆料冰岛事件",
+        "onboard_time": 1736467580,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 264236,
+        "num": 264236,
+        "word": "卡特葬礼上美国前总统上演修罗场",
+        "onboard_time": 1736472979,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 235815,
+        "num": 235815,
+        "word": "五万公摊电费未公布明细业主拒缴费",
+        "onboard_time": 1736465958,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213220,
+        "num": 228037,
+        "word": "李昀锐一分钟800个小动作",
+        "onboard_time": 1736436381,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204968,
+        "num": 227849,
+        "word": "蝙蝠侠在车里看着豪宅被烧光",
+        "onboard_time": 1736433923,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196658,
+        "num": 227818,
+        "word": "疑似SM新女团成员公开",
+        "onboard_time": 1736468120,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227814,
+        "num": 227814,
+        "word": "拜登之子2万美元月租豪宅烧成碎石",
+        "onboard_time": 1736437221,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 221363,
+        "num": 221363,
+        "word": "间谍在浙江拍照没想到一路被监控",
+        "onboard_time": 1736474239,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199292,
+        "num": 199292,
+        "word": "从太空看洛杉矶山火",
+        "onboard_time": 1736427083,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 177996,
+        "num": 177996,
+        "word": "西藏地震灾区收到了奶茶可乐",
+        "onboard_time": 1736433862,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177129,
+        "num": 177129,
+        "word": "微博之夜盛典直播",
+        "onboard_time": 1736473278,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177885,
+        "num": 176172,
+        "word": "特斯拉焕新ModelY26.35万",
+        "onboard_time": 1736473878,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 170468,
+        "num": 170468,
+        "word": "国债",
+        "onboard_time": 1736474179,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 170459,
+        "num": 170459,
+        "word": "张真源不语只一味地合照",
+        "onboard_time": 1736469620,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166763,
+        "num": 166763,
+        "word": "樊振东获中国青年五四奖章",
+        "onboard_time": 1736472378,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165128,
+        "num": 165128,
+        "word": "国色芳华收视率",
+        "onboard_time": 1736430444,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 367586,
+        "num": 164758,
+        "word": "辛雨锡向郭德纲道歉",
+        "onboard_time": 1736464877,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163351,
+        "num": 163351,
+        "word": "猫 就知道在那拍拍拍",
+        "onboard_time": 1736467460,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159762,
+        "num": 159762,
+        "word": "17种身体异常一般不用治疗",
+        "onboard_time": 1736469261,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 156499,
+        "num": 156499,
+        "word": "美国洛杉矶山火18万人强制撤离",
+        "onboard_time": 1736470820,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 150702,
+        "num": 150702,
+        "word": "俄罗斯姑娘打假上海俄罗斯商品馆",
+        "onboard_time": 1736455091,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146755,
+        "num": 146755,
+        "word": "宋慧乔不是能靠脸的年纪",
+        "onboard_time": 1736447952,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116887,
+        "num": 116887,
+        "word": "中国高铁车厢里全是老外",
+        "onboard_time": 1736456291,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116268,
+        "num": 116268,
+        "word": "警犬幺幺零1岁了",
+        "onboard_time": 1736467157,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109534,
+        "num": 109534,
+        "word": "杨紫李现国色芳华大婚预告",
+        "onboard_time": 1736466137,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105433,
+        "num": 105433,
+        "word": "美国加州山火为何这么猛",
+        "onboard_time": 1736468420,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104331,
+        "num": 104331,
+        "word": "疯狂开业的俄罗斯商品馆被立案调查",
+        "onboard_time": 1736451552,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103612,
+        "num": 103612,
+        "word": "平安的密码叫110",
+        "onboard_time": 1736468779,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98213,
+        "num": 98213,
+        "word": "女子一句话让骗子彻底破防",
+        "onboard_time": 1736431643,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99133,
+        "num": 96890,
+        "word": "杨紫李现新剧云合翻3倍",
+        "onboard_time": 1736468060,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91777,
+        "num": 91777,
+        "word": "疯狂小杨哥及三只羊被起诉",
+        "onboard_time": 1736425401,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89447,
+        "num": 89447,
+        "word": "出现哪些症状需要怀疑是甲流",
+        "onboard_time": 1736470760,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 86155,
+        "num": 86155,
+        "word": "胡冰卿时隔7年杀回古装赛道",
+        "onboard_time": 1736429123,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85574,
+        "num": 85574,
+        "word": "好莱坞在洛杉矶大火中受创",
+        "onboard_time": 1736424082,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 85183,
+        "num": 85183,
+        "word": "肖战确认参加北京卫视春晚",
+        "onboard_time": 1736466198,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83418,
+        "num": 83418,
+        "word": "买股代露娃",
+        "onboard_time": 1736425701,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央政治局常委会召开会议#"
+    }
+  }
+}
