@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736515665687,
+  "endTime": 1736516260929,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -131,8 +131,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 8755821,
-      "num": 8755821,
+      "raw_hot": 9076991,
+      "num": 9076991,
       "word": "山西临汾地震",
       "onboard_time": 1736513302,
       "rank": 0,
@@ -2195,6 +2195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1109218,
+      "num": 1109218,
+      "word": "留几手回应离婚",
+      "onboard_time": 1736511260,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1108296,
       "num": 426955,
       "word": "2024年顶流格局",
@@ -2233,14 +2241,6 @@
       "onboard_time": 1736379557,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1097491,
-      "num": 1097491,
-      "word": "留几手回应离婚",
-      "onboard_time": 1736511260,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 1095549,
