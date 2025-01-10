@@ -1,0 +1,410 @@
+{
+  "runTime": 1736529588451,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 702233,
+        "num": 702233,
+        "word": "麦琳好友晒聊天记录",
+        "onboard_time": 1736519363,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 517069,
+        "num": 517069,
+        "word": "桃黑黑异地登录",
+        "onboard_time": 1736522542,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 16152,
+        "num": 401520,
+        "word": "热血忠诚守护万家灯火",
+        "onboard_time": 1736515104,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 554336,
+        "num": 382612,
+        "word": "迪丽热巴直播",
+        "onboard_time": 1736526258,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350081,
+        "num": 350081,
+        "word": "楚考烈王墓被发现",
+        "onboard_time": 1736526918,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346363,
+        "num": 346363,
+        "word": "特朗普被法院无条件释放",
+        "onboard_time": 1736522903,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 476379,
+        "num": 337377,
+        "word": "微博之夜节目单",
+        "onboard_time": 1736519842,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 316303,
+        "num": 316303,
+        "word": "李现演技",
+        "onboard_time": 1736523022,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252193,
+        "num": 252193,
+        "word": "夏以昼",
+        "onboard_time": 1736528235,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122817,
+        "num": 244191,
+        "word": "当地华人称山火整整烧了两天了",
+        "onboard_time": 1736527337,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 432517,
+        "num": 244027,
+        "word": "海恩贤圭 分手",
+        "onboard_time": 1736512521,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 272706,
+        "num": 243804,
+        "word": "郭敬明删博了",
+        "onboard_time": 1736516663,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243570,
+        "num": 243570,
+        "word": "贤圭 新女友",
+        "onboard_time": 1736518763,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241188,
+        "num": 241188,
+        "word": "顾时夜 夏以昼",
+        "onboard_time": 1736521403,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 230897,
+        "num": 230897,
+        "word": "陈奕迅泰国演唱会取消",
+        "onboard_time": 1736502681,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 220086,
+        "num": 220086,
+        "word": "女生确诊渐冻症一年容貌巨变",
+        "onboard_time": 1736496921,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192689,
+        "num": 192689,
+        "word": "丁禹兮微博之夜唱消散对白",
+        "onboard_time": 1736527698,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189987,
+        "num": 189987,
+        "word": "山西临汾地震",
+        "onboard_time": 1736513302,
+        "rank": 17,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 183983,
+        "num": 183983,
+        "word": "加州山火被曝灭火率为0",
+        "onboard_time": 1736505680,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 191665,
+        "num": 181115,
+        "word": "留几手回应离婚",
+        "onboard_time": 1736511260,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 422221,
+        "num": 181035,
+        "word": "黄子韬直播间960万人参与抽奖",
+        "onboard_time": 1736526439,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186639,
+        "num": 175804,
+        "word": "79岁大爷丧偶十多年感染艾滋病",
+        "onboard_time": 1736522121,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169175,
+        "num": 169175,
+        "word": "黄圣依一清醒事业就吻上来了",
+        "onboard_time": 1736517623,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133153,
+        "num": 133153,
+        "word": "28岁未婚花8千元请男保姆的生活",
+        "onboard_time": 1736521642,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125644,
+        "num": 129723,
+        "word": "历届微博之夜KingQueen名单",
+        "onboard_time": 1736520023,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129686,
+        "num": 129686,
+        "word": "韩国人在上海见识真正的继承者们",
+        "onboard_time": 1736502199,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128081,
+        "num": 128081,
+        "word": "黄圣依发文没有一句提杨子",
+        "onboard_time": 1736495480,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126910,
+        "num": 126910,
+        "word": "公安部将坚决摧毁境外诈骗窝点",
+        "onboard_time": 1736507660,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105912,
+        "num": 105912,
+        "word": "李昀锐孟子义微博之夜将合唱",
+        "onboard_time": 1736525061,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105087,
+        "num": 105087,
+        "word": "36岁女子做育儿嫂4年买车房存款30万",
+        "onboard_time": 1736528957,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103093,
+        "num": 103093,
+        "word": "长生花",
+        "onboard_time": 1736522602,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101809,
+        "num": 101809,
+        "word": "父亲跨省找到儿子生前影像哽咽不止",
+        "onboard_time": 1736517443,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100551,
+        "num": 100551,
+        "word": "杨子感谢了所有人除了黄圣依",
+        "onboard_time": 1736506640,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98243,
+        "num": 98243,
+        "word": "大奉打更人热度",
+        "onboard_time": 1736521822,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97076,
+        "num": 97076,
+        "word": "9种颜色偏好能看出性格",
+        "onboard_time": 1736528058,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 94608,
+        "num": 94608,
+        "word": "雷军  Model Y也不错",
+        "onboard_time": 1736508378,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 94485,
+        "num": 94485,
+        "word": "迪丽热巴陈飞宇桃花吻路透",
+        "onboard_time": 1736521342,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93288,
+        "num": 93288,
+        "word": "泰州一女子取下全部头皮救父亲",
+        "onboard_time": 1736513361,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93269,
+        "num": 93269,
+        "word": "夏以昼 哥哥回来了",
+        "onboard_time": 1736508799,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 90034,
+        "num": 90034,
+        "word": "鬼鬼 我没有结婚",
+        "onboard_time": 1736484203,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80121,
+        "num": 80121,
+        "word": "鞠婧祎新造型蓝色妖姬",
+        "onboard_time": 1736525660,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 79285,
+        "num": 79285,
+        "word": "微博之夜时代峰峻三代都有节目",
+        "onboard_time": 1736524461,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 78172,
+        "num": 78172,
+        "word": "祖龙起诉叠纸",
+        "onboard_time": 1736522062,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 77002,
+        "num": 77002,
+        "word": "医生提醒抠疤痕习惯暗藏风险",
+        "onboard_time": 1736519542,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 76889,
+        "num": 76889,
+        "word": "于正 白月梵星大爆要去庆功了",
+        "onboard_time": 1736502019,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72943,
+        "num": 72943,
+        "word": "洛杉矶日落大道被烧成废墟",
+        "onboard_time": 1736505981,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 72078,
+        "num": 72078,
+        "word": "工资8千1年攒7万多男子被指啃老",
+        "onboard_time": 1736503700,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71053,
+        "num": 71053,
+        "word": "BAE173公司申报艺人失踪",
+        "onboard_time": 1736525419,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69778,
+        "num": 69778,
+        "word": "肥娟直播间5分钟收9万嘉年华",
+        "onboard_time": 1736519542,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63647,
+        "num": 63647,
+        "word": "外交部驳斥中国出现不明病毒论调",
+        "onboard_time": 1736519723,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#履行好打击犯罪保护人民的职责#"
+    }
+  }
+}
