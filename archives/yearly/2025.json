@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736513939546,
+  "endTime": 1736515665687,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -131,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 8755821,
+      "num": 8755821,
+      "word": "山西临汾地震",
+      "onboard_time": 1736513302,
+      "rank": 0,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 8711179,
       "num": 5085706,
       "word": "丁禹兮接虞书欣下台",
@@ -185,14 +193,6 @@
       "onboard_time": 1736315062,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 4529599,
-      "num": 4529599,
-      "word": "山西临汾地震",
-      "onboard_time": 1736513302,
-      "rank": 0,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 4517004,
@@ -2235,6 +2235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1097491,
+      "num": 1097491,
+      "word": "留几手回应离婚",
+      "onboard_time": 1736511260,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1095549,
       "num": 1095549,
       "word": "特朗普再提吞并加拿大",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735974500,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1040720,
-      "num": 422676,
-      "word": "2025年不愧是蛇年太冷血了",
-      "onboard_time": 1735807461,
-      "rank": 11,
-      "category": "情感"
     }
   ],
   "hotgov_list": [
