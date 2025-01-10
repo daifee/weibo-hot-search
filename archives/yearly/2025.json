@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736487544515,
+  "endTime": 1736490713187,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -769,6 +769,14 @@
       "onboard_time": 1735667060,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1955590,
+      "num": 1955590,
+      "word": "加州州长给总统打了5个电话都没打通",
+      "onboard_time": 1736488100,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1950493,
@@ -1667,6 +1675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1299158,
+      "num": 1299158,
+      "word": "留几手 葛夕",
+      "onboard_time": 1736486420,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1297048,
       "num": 1297048,
       "word": "央视蛇年春晚第二次联排",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1736043096,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 998543,
-      "num": 336674,
-      "word": "消防通报万达广场门口氢气球爆燃",
-      "onboard_time": 1735709120,
-      "rank": 34,
-      "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 996724,
-      "num": 996724,
-      "word": "何炅看王一博舞台哭了",
-      "onboard_time": 1735663047,
-      "rank": 12,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

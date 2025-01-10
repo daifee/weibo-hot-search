@@ -1,6 +1,6 @@
 {
   "startTime": 1736440116531,
-  "endTime": 1736487544515,
+  "endTime": 1736490713187,
   "band_list": [
     {
       "raw_hot": 4127605,
@@ -35,6 +35,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1955590,
+      "num": 1955590,
+      "word": "加州州长给总统打了5个电话都没打通",
+      "onboard_time": 1736488100,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1717774,
       "num": 1717774,
       "word": "雷军 小米YU7",
@@ -59,6 +67,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1299158,
+      "num": 1299158,
+      "word": "留几手 葛夕",
+      "onboard_time": 1736486420,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1297048,
       "num": 1297048,
       "word": "央视蛇年春晚第二次联排",
@@ -81,6 +97,14 @@
       "onboard_time": 1736474239,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 994085,
+      "num": 994085,
+      "word": "重庆文旅",
+      "onboard_time": 1736487140,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 907877,
@@ -147,14 +171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 704400,
-      "num": 704400,
-      "word": "留几手 葛夕",
-      "onboard_time": 1736486420,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 663609,
       "num": 663609,
       "word": "蒋欣素颜彩排",
@@ -217,6 +233,14 @@
       "onboard_time": 1736481620,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 538930,
+      "num": 538930,
+      "word": "于正看国色芳华了",
+      "onboard_time": 1736486360,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 531031,
@@ -315,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 403373,
+      "num": 403373,
+      "word": "洛杉矶富人区被山火席卷",
+      "onboard_time": 1736483962,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 382660,
       "num": 529717,
       "word": "警察节",
@@ -339,14 +371,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 376740,
-      "num": 376740,
-      "word": "于正看国色芳华了",
-      "onboard_time": 1736486360,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 375622,
       "num": 249386,
       "word": "确认被爱后面相都变了",
@@ -363,12 +387,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 342810,
-      "num": 376643,
-      "word": "洛杉矶富人区被山火席卷",
-      "onboard_time": 1736483962,
-      "rank": 14,
-      "category": "海外新闻"
+      "raw_hot": 350853,
+      "num": 350853,
+      "word": "宋雨琦央视春晚第二次联排",
+      "onboard_time": 1736487261,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 338778,
@@ -385,6 +409,14 @@
       "onboard_time": 1736475618,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 331026,
+      "num": 261607,
+      "word": "内娱出租屋文学",
+      "onboard_time": 1736488100,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 326535,
@@ -459,14 +491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 285743,
-      "num": 285743,
-      "word": "宋雨琦央视春晚第二次联排",
-      "onboard_time": 1736487261,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 276371,
       "num": 377670,
       "word": "别再人工催熟小孩哥小孩姐",
@@ -523,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242946,
+      "num": 242946,
+      "word": "王俊凯寸头海军制服造型",
+      "onboard_time": 1736490260,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 242300,
       "num": 242300,
       "word": "肖战微博之夜人脸识别",
@@ -568,6 +600,22 @@
       "word": "入青云",
       "onboard_time": 1736477899,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 222661,
+      "num": 222661,
+      "word": "沈马 春晚",
+      "onboard_time": 1736489960,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 221592,
+      "num": 221592,
+      "word": "夏弃疾拍的张彬彬孙珍妮",
+      "onboard_time": 1736487021,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -619,14 +667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 196612,
-      "num": 196612,
-      "word": "重庆文旅",
-      "onboard_time": 1736487140,
-      "rank": 32,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 196142,
       "num": 196142,
       "word": "樊振东获中国青年五四奖章",
@@ -641,6 +681,14 @@
       "onboard_time": 1736470820,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 194259,
+      "num": 194259,
+      "word": "老外版你以为是1楼其实站在18楼",
+      "onboard_time": 1736486900,
+      "rank": 40,
+      "category": "旅游"
     },
     {
       "raw_hot": 193949,
@@ -731,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179167,
+      "num": 179167,
+      "word": "再见爱人4李行亮新歌营业",
+      "onboard_time": 1736488459,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177996,
       "num": 177996,
       "word": "西藏地震灾区收到了奶茶可乐",
@@ -795,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173952,
+      "num": 173952,
+      "word": "tbz 大年初三",
+      "onboard_time": 1736490379,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 171827,
       "num": 171827,
       "word": "王楚钦孙颖莎领衔国乒冬训",
@@ -811,12 +875,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171110,
+      "num": 171110,
+      "word": "齐司礼ppv",
+      "onboard_time": 1736488580,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 168409,
       "num": 168409,
       "word": "中国高铁车厢里全是老外",
       "onboard_time": 1736456291,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168190,
+      "num": 168190,
+      "word": "鲁GT8586你真帅",
+      "onboard_time": 1736490439,
+      "rank": 39,
+      "category": "正能量"
     },
     {
       "raw_hot": 167772,
@@ -827,12 +907,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167599,
+      "num": 167599,
+      "word": "北京卫视置顶肖战",
+      "onboard_time": 1736488760,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 166253,
       "num": 166253,
       "word": "这不是游戏这是真实英雄的日常",
       "onboard_time": 1736421201,
       "rank": 23,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 165868,
+      "num": 165868,
+      "word": "教育局回应4年级数学期末试卷太难",
+      "onboard_time": 1736490200,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165577,
@@ -873,14 +969,6 @@
       "onboard_time": 1736483662,
       "rank": 42,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 160800,
-      "num": 213815,
-      "word": "夏弃疾拍的张彬彬孙珍妮",
-      "onboard_time": 1736487021,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 159462,
@@ -947,14 +1035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148045,
-      "num": 148045,
-      "word": "老外版你以为是1楼其实站在18楼",
-      "onboard_time": 1736486900,
-      "rank": 40,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 147156,
       "num": 702789,
       "word": "感染甲流后不能硬扛",
@@ -969,6 +1049,14 @@
       "onboard_time": 1736447952,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143827,
+      "num": 202429,
+      "word": "陶昕然至今珍藏甄嬛传的剧本通告",
+      "onboard_time": 1736490082,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 142803,
@@ -995,12 +1083,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142180,
+      "num": 142180,
+      "word": "专家称存钱不如存肌肉",
+      "onboard_time": 1736488339,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 141556,
       "num": 141556,
       "word": "金玟庭直播",
       "onboard_time": 1736437162,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139725,
+      "num": 139725,
+      "word": "A股",
+      "onboard_time": 1736490679,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 139436,
@@ -1025,6 +1129,14 @@
       "onboard_time": 1736486780,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 136897,
+      "num": 136897,
+      "word": "郑钦文回应和萨巴伦卡同区",
+      "onboard_time": 1736489539,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 136224,
@@ -1211,6 +1323,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 107575,
+      "num": 359914,
+      "word": "当地辟谣服务中心下午四点没人上班",
+      "onboard_time": 1736489420,
+      "rank": 12,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 103612,
       "num": 103612,
       "word": "平安的密码叫110",
@@ -1387,12 +1507,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60144,
+      "num": 265045,
+      "word": "官方回应大爷为游客垫医药费被拉黑",
+      "onboard_time": 1736490139,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59102,
       "num": 70740,
       "word": "南京大屠杀幸存者艾义英奶奶走了",
       "onboard_time": 1736458211,
       "rank": 21,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 58487,
+      "num": 194541,
+      "word": "男子买真酒退假酒非法获利435万",
+      "onboard_time": 1736489179,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56500,
@@ -1449,6 +1585,14 @@
       "onboard_time": 1736472499,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46105,
+      "num": 341041,
+      "word": "民警江中追击犯人把船开到树上",
+      "onboard_time": 1736489360,
+      "rank": 14,
+      "category": "正能量"
     },
     {
       "raw_hot": 45322,
@@ -1531,6 +1675,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 31893,
+      "num": 168921,
+      "word": "室友感染HPV要换宿舍吗",
+      "onboard_time": 1736488939,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 31745,
       "num": 198877,
       "word": "2025NBA全明星投票",
@@ -1571,6 +1723,14 @@
       "category": "国内时政,民生新闻"
     },
     {
+      "raw_hot": 28454,
+      "num": 267917,
+      "word": "网友称女儿被酒店枕头里的缝衣针扎伤",
+      "onboard_time": 1736490620,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28007,
       "num": 202691,
       "word": "多名嫌犯在加州山火疏散区实施抢劫被捕",
@@ -1601,6 +1761,14 @@
       "onboard_time": 1736448733,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 25836,
+      "num": 254447,
+      "word": "无畏新年的五味零食",
+      "onboard_time": 1736488939,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 22474,

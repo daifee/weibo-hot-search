@@ -1,0 +1,410 @@
+{
+  "runTime": 1736490713187,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1955590,
+        "num": 1955590,
+        "word": "加州州长给总统打了5个电话都没打通",
+        "onboard_time": 1736488100,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1299158,
+        "num": 1299158,
+        "word": "留几手 葛夕",
+        "onboard_time": 1736486420,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36717,
+        "num": 1163450,
+        "word": "用心用情守望互助我们定能渡过难关",
+        "onboard_time": 1736477119,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1059103,
+        "num": 1059103,
+        "word": "地铁口被指像棺材4人被处理",
+        "onboard_time": 1736477358,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 994085,
+        "num": 994085,
+        "word": "重庆文旅",
+        "onboard_time": 1736487140,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 717351,
+        "num": 717351,
+        "word": "中国香港女孩揭露韩国邪教恶行",
+        "onboard_time": 1736482820,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 538930,
+        "num": 538930,
+        "word": "于正看国色芳华了",
+        "onboard_time": 1736486360,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 413285,
+        "num": 413285,
+        "word": "洛杉矶大火",
+        "onboard_time": 1736481620,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 403373,
+        "num": 403373,
+        "word": "洛杉矶富人区被山火席卷",
+        "onboard_time": 1736483962,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 395509,
+        "num": 395509,
+        "word": "东风信 孟子义丁禹兮",
+        "onboard_time": 1736484203,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1953530,
+        "num": 394676,
+        "word": "鬼鬼 我没有结婚",
+        "onboard_time": 1736484203,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393526,
+        "num": 393526,
+        "word": "央视蛇年春晚第二次联排",
+        "onboard_time": 1736482041,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107575,
+        "num": 359914,
+        "word": "当地辟谣服务中心下午四点没人上班",
+        "onboard_time": 1736489420,
+        "rank": 12,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 350853,
+        "num": 350853,
+        "word": "宋雨琦央视春晚第二次联排",
+        "onboard_time": 1736487261,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46105,
+        "num": 341041,
+        "word": "民警江中追击犯人把船开到树上",
+        "onboard_time": 1736489360,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 331613,
+        "num": 331613,
+        "word": "行政审批服务中心没人上班消息不实",
+        "onboard_time": 1736483542,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 292704,
+        "num": 292704,
+        "word": "公交司机晕倒4个少年救了全车人",
+        "onboard_time": 1736475618,
+        "rank": 16,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 268944,
+        "num": 268944,
+        "word": "蒋欣素颜彩排",
+        "onboard_time": 1736484262,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28454,
+        "num": 267917,
+        "word": "网友称女儿被酒店枕头里的缝衣针扎伤",
+        "onboard_time": 1736490620,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60144,
+        "num": 265045,
+        "word": "官方回应大爷为游客垫医药费被拉黑",
+        "onboard_time": 1736490139,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 467314,
+        "num": 263152,
+        "word": "麦琳回门宴瘦了好多",
+        "onboard_time": 1736472738,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331026,
+        "num": 261607,
+        "word": "内娱出租屋文学",
+        "onboard_time": 1736488100,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260801,
+        "num": 260801,
+        "word": "警察节",
+        "onboard_time": 1736468661,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25836,
+        "num": 254447,
+        "word": "无畏新年的五味零食",
+        "onboard_time": 1736488939,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 248410,
+        "num": 248410,
+        "word": "男子狱中苦读24年获博士学位",
+        "onboard_time": 1736477119,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242946,
+        "num": 242946,
+        "word": "王俊凯寸头海军制服造型",
+        "onboard_time": 1736490260,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 222661,
+        "num": 222661,
+        "word": "沈马 春晚",
+        "onboard_time": 1736489960,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221592,
+        "num": 221592,
+        "word": "夏弃疾拍的张彬彬孙珍妮",
+        "onboard_time": 1736487021,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143827,
+        "num": 202429,
+        "word": "陶昕然至今珍藏甄嬛传的剧本通告",
+        "onboard_time": 1736490082,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58487,
+        "num": 194541,
+        "word": "男子买真酒退假酒非法获利435万",
+        "onboard_time": 1736489179,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194259,
+        "num": 194259,
+        "word": "老外版你以为是1楼其实站在18楼",
+        "onboard_time": 1736486900,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 193313,
+        "num": 193313,
+        "word": "选李现演蒋长扬的人简直是天才",
+        "onboard_time": 1736485642,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182536,
+        "num": 182536,
+        "word": "助理否认罗志祥周扬青日本同游",
+        "onboard_time": 1736486840,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180106,
+        "num": 180106,
+        "word": "果郡王说最想亲眼见到两个孩子",
+        "onboard_time": 1736485522,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179167,
+        "num": 179167,
+        "word": "再见爱人4李行亮新歌营业",
+        "onboard_time": 1736488459,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173952,
+        "num": 173952,
+        "word": "tbz 大年初三",
+        "onboard_time": 1736490379,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171110,
+        "num": 171110,
+        "word": "齐司礼ppv",
+        "onboard_time": 1736488580,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 31893,
+        "num": 168921,
+        "word": "室友感染HPV要换宿舍吗",
+        "onboard_time": 1736488939,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168520,
+        "num": 168520,
+        "word": "特斯拉Model Y",
+        "onboard_time": 1736472619,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 168190,
+        "num": 168190,
+        "word": "鲁GT8586你真帅",
+        "onboard_time": 1736490439,
+        "rank": 39,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 167599,
+        "num": 167599,
+        "word": "北京卫视置顶肖战",
+        "onboard_time": 1736488760,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165868,
+        "num": 165868,
+        "word": "教育局回应4年级数学期末试卷太难",
+        "onboard_time": 1736490200,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158635,
+        "num": 158635,
+        "word": "间谍在浙江拍照没想到一路被监控",
+        "onboard_time": 1736474239,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147565,
+        "num": 147565,
+        "word": "确认被爱后面相都变了",
+        "onboard_time": 1736479220,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146397,
+        "num": 146397,
+        "word": "SM员工说不要相信艺人说的话",
+        "onboard_time": 1736482220,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142180,
+        "num": 142180,
+        "word": "专家称存钱不如存肌肉",
+        "onboard_time": 1736488339,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139725,
+        "num": 139725,
+        "word": "A股",
+        "onboard_time": 1736490679,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 137112,
+        "num": 137112,
+        "word": "洛杉矶华人以为误入末日",
+        "onboard_time": 1736448793,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 136897,
+        "num": 136897,
+        "word": "郑钦文回应和萨巴伦卡同区",
+        "onboard_time": 1736489539,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136501,
+        "num": 136501,
+        "word": "网红小孩愿意自己被这样拍吗",
+        "onboard_time": 1736484562,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央政治局常委会召开会议#"
+    }
+  }
+}
