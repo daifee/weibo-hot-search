@@ -1,6 +1,6 @@
 {
   "startTime": 1736440116531,
-  "endTime": 1736494522933,
+  "endTime": 1736497720792,
   "band_list": [
     {
       "raw_hot": 4127605,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 3376657,
-      "num": 530708,
+      "num": 623944,
       "word": "鬼鬼 我没有结婚",
       "onboard_time": 1736484203,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2408539,
+      "num": 2408539,
+      "word": "留几手长文",
+      "onboard_time": 1736494280,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 2218677,
@@ -57,6 +65,14 @@
       "onboard_time": 1736448793,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1562767,
+      "num": 953828,
+      "word": "黄圣依发文没有一句提杨子",
+      "onboard_time": 1736495480,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1483524,
@@ -104,6 +120,14 @@
       "word": "间谍在浙江拍照没想到一路被监控",
       "onboard_time": 1736474239,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1064792,
+      "num": 1064792,
+      "word": "女生确诊渐冻症一年容貌巨变",
+      "onboard_time": 1736496921,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -195,12 +219,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 676004,
+      "num": 665959,
+      "word": "黄子韬已为粉丝试驾",
+      "onboard_time": 1736496260,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 663609,
       "num": 663609,
       "word": "蒋欣素颜彩排",
       "onboard_time": 1736484262,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 659133,
+      "num": 463252,
+      "word": "王子说鬼鬼的孩子不是他的",
+      "onboard_time": 1736491939,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 641323,
@@ -251,6 +291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 604274,
+      "num": 604274,
+      "word": "杨子说自己重生了",
+      "onboard_time": 1736496080,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 578083,
       "num": 578083,
       "word": "拜登疑在卡特葬礼上睡着",
@@ -273,6 +321,14 @@
       "onboard_time": 1736481620,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 553802,
+      "num": 553802,
+      "word": "杨幂短发贴头皮",
+      "onboard_time": 1736494521,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 538930,
@@ -403,12 +459,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 386475,
-      "num": 386475,
-      "word": "王子说鬼鬼的孩子不是他的",
-      "onboard_time": 1736491939,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 387734,
+      "num": 387734,
+      "word": "葛夕 我现在要继续出发啦",
+      "onboard_time": 1736496621,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 382660,
@@ -435,20 +491,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 379992,
+      "num": 379992,
+      "word": "浙江省考成绩",
+      "onboard_time": 1736493799,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 375622,
       "num": 249386,
       "word": "确认被爱后面相都变了",
       "onboard_time": 1736479220,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 373055,
-      "num": 373055,
-      "word": "浙江省考成绩",
-      "onboard_time": 1736493799,
-      "rank": 16,
-      "category": "教育"
     },
     {
       "raw_hot": 365029,
@@ -523,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 316530,
+      "num": 316530,
+      "word": "华晨宇电话",
+      "onboard_time": 1736495660,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 314650,
       "num": 314650,
       "word": "Jennie2025首封",
@@ -563,12 +627,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 294215,
+      "num": 294215,
+      "word": "孙颖莎获五四奖章",
+      "onboard_time": 1736495539,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283194,
       "num": 244971,
       "word": "专家称存钱不如存肌肉",
       "onboard_time": 1736488339,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 278231,
+      "num": 278231,
+      "word": "游客花1万在日本吃中餐遭差别对待",
+      "onboard_time": 1736495060,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 276371,
@@ -585,6 +665,14 @@
       "onboard_time": 1736482341,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 267218,
+      "num": 267218,
+      "word": "吉林文旅局称系自媒体流露重庆游客",
+      "onboard_time": 1736493619,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 264612,
@@ -625,6 +713,14 @@
       "onboard_time": 1736427083,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 252275,
+      "num": 252275,
+      "word": "谢谢一路狂飙的鲁GT8586",
+      "onboard_time": 1736497101,
+      "rank": 34,
+      "category": "正能量"
     },
     {
       "raw_hot": 251841,
@@ -867,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188588,
+      "num": 188588,
+      "word": "多车企应战特斯拉",
+      "onboard_time": 1736495539,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 187884,
       "num": 187884,
       "word": "华晨宇六专",
@@ -987,6 +1091,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 176653,
+      "num": 176653,
+      "word": "公安部新闻发布会",
+      "onboard_time": 1736496740,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175921,
       "num": 175921,
       "word": "张小斐和妈妈重返旧时光",
@@ -1091,6 +1203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 165639,
+      "num": 165639,
+      "word": "李宇春一首歌致敬人民警察",
+      "onboard_time": 1736495359,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165577,
       "num": 165577,
       "word": "男子因同名房产遭乌龙法拍",
@@ -1187,14 +1307,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 156945,
-      "num": 156945,
-      "word": "留几手长文",
-      "onboard_time": 1736494280,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 156931,
       "num": 156931,
       "word": "12306回应4天3崩",
@@ -1249,6 +1361,14 @@
       "onboard_time": 1736431643,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152805,
+      "num": 152805,
+      "word": "IVE女神降临",
+      "onboard_time": 1736496560,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 147156,
@@ -1331,14 +1451,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 138284,
-      "num": 138284,
-      "word": "吉林文旅局称系自媒体流露重庆游客",
-      "onboard_time": 1736493619,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137662,
       "num": 137662,
       "word": "林孝埈时尚芭莎亚冬会封面大片",
@@ -1377,6 +1489,14 @@
       "onboard_time": 1736490139,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134218,
+      "num": 134218,
+      "word": "鸿蒙原生版微信正式上架",
+      "onboard_time": 1736496200,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 133768,
@@ -1424,6 +1544,14 @@
       "word": "湘潭大学宿舍投毒案公诉机关建议死刑",
       "onboard_time": 1736457491,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128808,
+      "num": 128808,
+      "word": "游客丈夫回应大爷帮垫医药费被拉黑",
+      "onboard_time": 1736497640,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -1603,6 +1731,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 106055,
+      "num": 304887,
+      "word": "发烧后多喝水是喝什么水",
+      "onboard_time": 1736496680,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 103612,
       "num": 103612,
       "word": "平安的密码叫110",
@@ -1755,12 +1891,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77605,
+      "num": 325382,
+      "word": "王楚钦孙颖莎亮相冬训馆",
+      "onboard_time": 1736491880,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77416,
       "num": 85145,
       "word": "2025中国乒乓球队大赛服",
       "onboard_time": 1736430203,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72688,
+      "num": 624701,
+      "word": "央视新闻曝有机构交钱直接发健康证",
+      "onboard_time": 1736496621,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 72485,
@@ -1843,6 +1995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51457,
+      "num": 423846,
+      "word": "在洛杉矶山火中痛失豪宅的美国名流",
+      "onboard_time": 1736497640,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 51088,
       "num": 160330,
       "word": "孙颖莎拍摄间歇都想练球",
@@ -1881,6 +2041,22 @@
       "onboard_time": 1736472499,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 47527,
+      "num": 304827,
+      "word": "日本将重启夫妻分姓讨论",
+      "onboard_time": 1736497521,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 45670,
+      "num": 438633,
+      "word": "时代少年团微博之夜号",
+      "onboard_time": 1736496981,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 45322,
@@ -1923,6 +2099,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 38131,
+      "num": 411488,
+      "word": "淘宝送礼",
+      "onboard_time": 1736494458,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 37767,
       "num": 41082,
       "word": "敖瑞鹏金丝猴",
@@ -1947,12 +2131,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34228,
+      "num": 443951,
+      "word": "闫妮央视春晚第二次联排",
+      "onboard_time": 1736495359,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 33318,
+      "num": 170728,
+      "word": "致敬守护人民的真心英雄",
+      "onboard_time": 1736494818,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 32912,
       "num": 161439,
       "word": "年夜饭哪道菜必不可少",
       "onboard_time": 1736480301,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 32693,
+      "num": 304808,
+      "word": "蔡文静上演年度人气眼技",
+      "onboard_time": 1736496320,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 32053,
@@ -2185,19 +2393,14 @@
       "onboard_time": 1736446513,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 5039,
-      "num": 120668,
-      "word": "淘宝送礼",
-      "onboard_time": 1736494458,
-      "rank": 48,
-      "category": "互联网"
     }
   ],
   "hotgov_list": [
     {
       "word": "#中央政治局常委会召开会议#"
+    },
+    {
+      "word": "#总书记对人民警察队伍的殷殷嘱托#"
     }
   ]
 }

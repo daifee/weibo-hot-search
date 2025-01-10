@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736494522933,
+  "endTime": 1736497720792,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 3376657,
-      "num": 530708,
+      "num": 623944,
       "word": "鬼鬼 我没有结婚",
       "onboard_time": 1736484203,
       "rank": 10,
@@ -496,6 +496,14 @@
       "word": "王源跨年晚会音准",
       "onboard_time": 1735653450,
       "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2408539,
+      "num": 2408539,
+      "word": "留几手长文",
+      "onboard_time": 1736494280,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -1264,6 +1272,14 @@
       "word": "杨幂别打鼓了 打我",
       "onboard_time": 1735660942,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1562767,
+      "num": 953828,
+      "word": "黄圣依发文没有一句提杨子",
+      "onboard_time": 1736495480,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -2243,6 +2259,14 @@
       "category": "读书作家,作品衍生"
     },
     {
+      "raw_hot": 1064792,
+      "num": 1064792,
+      "word": "女生确诊渐冻症一年容貌巨变",
+      "onboard_time": 1736496921,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1063103,
       "num": 344235,
       "word": "鹿晗 肯德基",
@@ -2377,30 +2401,6 @@
       "onboard_time": 1735708399,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1008774,
-      "num": 728708,
-      "word": "孙乐言 星光大赏主持",
-      "onboard_time": 1735916000,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1008681,
-      "num": 1008681,
-      "word": "王一博肖战都去微博之夜",
-      "onboard_time": 1736349684,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1008575,
-      "num": 3584109,
-      "word": "于正谈年轻时被不公平对待",
-      "onboard_time": 1736046811,
-      "rank": 23,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
