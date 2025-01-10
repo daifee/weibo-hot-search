@@ -1,6 +1,6 @@
 {
   "startTime": 1736440116531,
-  "endTime": 1736507956757,
+  "endTime": 1736508942250,
   "band_list": [
     {
       "raw_hot": 4127605,
@@ -203,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 880497,
+      "num": 880497,
+      "word": "微博之夜好多人啊",
+      "onboard_time": 1736503940,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 876104,
       "num": 876104,
       "word": "男子狱中苦读24年获博士学位",
@@ -219,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 827111,
+      "num": 827111,
+      "word": "加州山火被曝灭火率为0",
+      "onboard_time": 1736505680,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 807157,
       "num": 916801,
       "word": "拜登之子2万美元月租豪宅烧成碎石",
@@ -233,14 +249,6 @@
       "onboard_time": 1736465777,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 786210,
-      "num": 786210,
-      "word": "微博之夜好多人啊",
-      "onboard_time": 1736503940,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 779477,
@@ -372,7 +380,7 @@
     },
     {
       "raw_hot": 610880,
-      "num": 342599,
+      "num": 400754,
       "word": "虞书欣2024微博涨粉量第一",
       "onboard_time": 1736505019,
       "rank": 17,
@@ -468,7 +476,7 @@
     },
     {
       "raw_hot": 482147,
-      "num": 380041,
+      "num": 398548,
       "word": "陈奕迅称观众朋友的安全至上",
       "onboard_time": 1736503820,
       "rank": 30,
@@ -547,20 +555,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 411253,
+      "num": 398153,
+      "word": "翔霖",
+      "onboard_time": 1736507660,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 410173,
+      "num": 410173,
+      "word": "公安部将坚决摧毁境外诈骗窝点",
+      "onboard_time": 1736507660,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 407770,
       "num": 407770,
       "word": "孙颖莎获五四奖章",
       "onboard_time": 1736495539,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 407564,
-      "num": 407564,
-      "word": "加州山火被曝灭火率为0",
-      "onboard_time": 1736505680,
-      "rank": 28,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 406170,
@@ -577,6 +593,14 @@
       "onboard_time": 1736483962,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 397386,
+      "num": 397386,
+      "word": "贺峻霖高会",
+      "onboard_time": 1736507719,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 392411,
@@ -763,6 +787,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 302097,
+      "num": 332264,
+      "word": "杨子感谢了所有人除了黄圣依",
+      "onboard_time": 1736506640,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 301359,
+      "num": 301359,
+      "word": "张艺兴吸氧",
+      "onboard_time": 1736508080,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 299818,
       "num": 299818,
       "word": "加州山火致130只宠物流离失所",
@@ -859,14 +899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 264629,
-      "num": 332264,
-      "word": "杨子感谢了所有人除了黄圣依",
-      "onboard_time": 1736506640,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 264612,
       "num": 264612,
       "word": "疯狂小杨哥及三只羊被起诉",
@@ -945,14 +977,6 @@
       "onboard_time": 1736490260,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 244854,
-      "num": 244854,
-      "word": "翔霖",
-      "onboard_time": 1736507660,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 244566,
@@ -1115,12 +1139,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208551,
-      "num": 357894,
-      "word": "公安部将坚决摧毁境外诈骗窝点",
-      "onboard_time": 1736507660,
-      "rank": 13,
-      "category": "民生新闻"
+      "raw_hot": 208661,
+      "num": 324660,
+      "word": "祖龙起诉叠纸不正当竞争",
+      "onboard_time": 1736507001,
+      "rank": 28,
+      "category": "游戏,财经"
     },
     {
       "raw_hot": 207990,
@@ -1153,6 +1177,14 @@
       "onboard_time": 1736499501,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 201657,
+      "num": 201657,
+      "word": "黄子韬送车",
+      "onboard_time": 1736508680,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 201240,
@@ -1195,6 +1227,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 195078,
+      "num": 195078,
+      "word": "雷军  Model Y也不错",
+      "onboard_time": 1736508378,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 194259,
       "num": 194259,
       "word": "老外版你以为是1楼其实站在18楼",
@@ -1219,14 +1259,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 192763,
-      "num": 192763,
-      "word": "贺峻霖高会",
-      "onboard_time": 1736507719,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 191250,
       "num": 216737,
       "word": "国色芳华云合第二",
@@ -1249,6 +1281,14 @@
       "onboard_time": 1736490379,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 190097,
+      "num": 190097,
+      "word": "夏以昼 哥哥回来了",
+      "onboard_time": 1736508799,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 189155,
@@ -1443,6 +1483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172849,
+      "num": 172849,
+      "word": "恋与深空3.0直播",
+      "onboard_time": 1736508740,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 171827,
       "num": 171827,
       "word": "王楚钦孙颖莎领衔国乒冬训",
@@ -1491,6 +1539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167782,
+      "num": 323758,
+      "word": "加州富人区火灾抓捕一名纵火嫌疑人",
+      "onboard_time": 1736507240,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 167772,
       "num": 167772,
       "word": "湘潭大学投毒案死者系误食麦片",
@@ -1513,6 +1569,14 @@
       "onboard_time": 1736494039,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 166699,
+      "num": 166699,
+      "word": "再见爱人4离婚率",
+      "onboard_time": 1736508618,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 166253,
@@ -1609,6 +1673,14 @@
       "onboard_time": 1736490260,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160313,
+      "num": 160313,
+      "word": "雷军曾说纯电车除特斯拉都亏钱",
+      "onboard_time": 1736508799,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 160218,
@@ -2075,6 +2147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123120,
+      "num": 400348,
+      "word": "女子贴暖宝宝7小时致二度烧伤",
+      "onboard_time": 1736507240,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123035,
       "num": 624701,
       "word": "央视新闻曝有机构交钱直接发健康证",
@@ -2147,14 +2227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117432,
-      "num": 324660,
-      "word": "祖龙起诉叠纸不正当竞争",
-      "onboard_time": 1736507001,
-      "rank": 28,
-      "category": "游戏,财经"
-    },
-    {
       "raw_hot": 116242,
       "num": 116242,
       "word": "刘畅追妻",
@@ -2185,14 +2257,6 @@
       "onboard_time": 1736437580,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 113381,
-      "num": 323758,
-      "word": "加州富人区火灾抓捕一名纵火嫌疑人",
-      "onboard_time": 1736507240,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 112661,
@@ -2459,6 +2523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 66122,
+      "num": 402858,
+      "word": "汪苏泷蛇年央视春晚联排",
+      "onboard_time": 1736507778,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 63917,
       "num": 63917,
       "word": "田曦薇和张雅钦是大学同学",
@@ -2531,14 +2603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 52770,
-      "num": 344176,
-      "word": "女子贴暖宝宝7小时致二度烧伤",
-      "onboard_time": 1736507240,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 52746,
       "num": 365863,
       "word": "郑钦文打响澳网揭幕战",
@@ -2587,6 +2651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47963,
+      "num": 201682,
+      "word": "LV村上隆",
+      "onboard_time": 1736508201,
+      "rank": 35,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 47873,
       "num": 197994,
       "word": "C罗2025年首球",
@@ -2617,14 +2689,6 @@
       "onboard_time": 1736494458,
       "rank": 48,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 41043,
-      "num": 351682,
-      "word": "汪苏泷蛇年央视春晚联排",
-      "onboard_time": 1736507778,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 40517,
@@ -2779,6 +2843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31718,
+      "num": 346394,
+      "word": "任嘉伦出发微博之夜",
+      "onboard_time": 1736502681,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 31282,
       "num": 64920,
       "word": "墨总统回应特朗普墨西哥湾改名提议",
@@ -2811,12 +2883,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29741,
+      "num": 204214,
+      "word": "感染HPV不等于不检点",
+      "onboard_time": 1736505620,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29334,
       "num": 29334,
       "word": "加州野火致至少1100栋房屋损毁",
       "onboard_time": 1736452631,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 29024,
+      "num": 401941,
+      "word": "闫桉再出魅惑神图",
+      "onboard_time": 1736507719,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 29015,
@@ -2883,14 +2971,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 25786,
-      "num": 346394,
-      "word": "任嘉伦出发微博之夜",
-      "onboard_time": 1736502681,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 25674,
       "num": 235726,
       "word": "盛李豪被授予全国五一劳动奖章",
@@ -2905,14 +2985,6 @@
       "onboard_time": 1736506459,
       "rank": 14,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 22816,
-      "num": 204214,
-      "word": "感染HPV不等于不检点",
-      "onboard_time": 1736505620,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22474,
@@ -2931,6 +3003,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 22128,
+      "num": 204015,
+      "word": "俐乐王昀楷红毯同框",
+      "onboard_time": 1736502559,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 21839,
       "num": 39208,
       "word": "华晨宇专辑封面",
@@ -2945,22 +3025,6 @@
       "onboard_time": 1736479702,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 21811,
-      "num": 204015,
-      "word": "俐乐王昀楷红毯同框",
-      "onboard_time": 1736502559,
-      "rank": 41,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 21512,
-      "num": 204063,
-      "word": "闫桉再出魅惑神图",
-      "onboard_time": 1736507719,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 21302,
@@ -3057,6 +3121,14 @@
       "onboard_time": 1736455031,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 11590,
+      "num": 405073,
+      "word": "未完全合规的医美产品已使用几十万只",
+      "onboard_time": 1736508618,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 11327,
