@@ -1,6 +1,6 @@
 {
   "startTime": 1736526528002,
-  "endTime": 1736547688109,
+  "endTime": 1736548769696,
   "band_list": [
     {
       "raw_hot": 947995,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 422221,
-      "num": 181035,
+      "num": 478245,
       "word": "黄子韬直播间960万人参与抽奖",
       "onboard_time": 1736526439,
       "rank": 47,
@@ -371,6 +371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 117331,
+      "num": 117331,
+      "word": "留几手说葛夕从头到尾都在揭短",
+      "onboard_time": 1736536092,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116736,
       "num": 116736,
       "word": "华晨宇 稍等睡过了洗个澡",
@@ -393,14 +401,6 @@
       "onboard_time": 1736522242,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 104553,
-      "num": 104553,
-      "word": "留几手说葛夕从头到尾都在揭短",
-      "onboard_time": 1736536092,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 104077,
@@ -435,6 +435,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 93251,
+      "num": 97302,
+      "word": "洛杉矶山火将街区烧成灰烬",
+      "onboard_time": 1736534292,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 84128,
       "num": 84128,
       "word": "和滋养你的人在一起",
@@ -443,12 +451,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 81821,
-      "num": 97302,
-      "word": "洛杉矶山火将街区烧成灰烬",
-      "onboard_time": 1736534292,
-      "rank": 9,
-      "category": "海外新闻"
+      "raw_hot": 83291,
+      "num": 53397,
+      "word": "4种水果不甜但含糖量很高",
+      "onboard_time": 1736532434,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 79392,
+      "num": 70306,
+      "word": "黄圣依从一开始就在审视自己婚姻",
+      "onboard_time": 1736545871,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 76889,
@@ -457,14 +473,6 @@
       "onboard_time": 1736502019,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 68951,
-      "num": 44107,
-      "word": "4种水果不甜但含糖量很高",
-      "onboard_time": 1736532434,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 65561,
@@ -483,14 +491,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 61765,
-      "num": 31740,
-      "word": "黄圣依从一开始就在审视自己婚姻",
-      "onboard_time": 1736545871,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 61684,
       "num": 219953,
       "word": "金色盾牌守护万家灯火",
@@ -507,6 +507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 56448,
+      "num": 56448,
+      "word": "31人获得杜甫草堂终身免票资格",
+      "onboard_time": 1736546291,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41712,
       "num": 119832,
       "word": "洛杉矶已有超16万亩土地被烧毁",
@@ -515,12 +523,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 35661,
-      "num": 35661,
-      "word": "31人获得杜甫草堂终身免票资格",
-      "onboard_time": 1736546291,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 34791,
+      "num": 34791,
+      "word": "王楚钦孙颖莎王曼昱冬训备战新赛季",
+      "onboard_time": 1736534773,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 33964,
@@ -531,12 +539,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 32624,
-      "num": 32624,
-      "word": "王楚钦孙颖莎王曼昱冬训备战新赛季",
-      "onboard_time": 1736534773,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 33584,
+      "num": 46045,
+      "word": "爸爸抱着女儿转着转着长大了",
+      "onboard_time": 1736544131,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28826,
@@ -547,11 +555,11 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 28347,
-      "num": 46045,
-      "word": "爸爸抱着女儿转着转着长大了",
-      "onboard_time": 1736544131,
-      "rank": 9,
+      "raw_hot": 28540,
+      "num": 28540,
+      "word": "今天中国人民警察节",
+      "onboard_time": 1736520083,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -571,6 +579,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 24673,
+      "num": 70204,
+      "word": "从前爬悬崖的孩子如今坐缆车上学",
+      "onboard_time": 1736547492,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24444,
+      "num": 24444,
+      "word": "陈熠3比0钱天一",
+      "onboard_time": 1736548632,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23397,
       "num": 23397,
       "word": "华晨宇新专直播",
@@ -587,20 +611,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 22157,
+      "raw_hot": 22399,
       "num": 42141,
       "word": "棺材地铁口被拆说明城市设计需倾听",
       "onboard_time": 1736537232,
       "rank": 24,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 21949,
-      "num": 21949,
-      "word": "今天中国人民警察节",
-      "onboard_time": 1736520083,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21885,
@@ -667,11 +683,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 8466,
-      "num": 38650,
-      "word": "从前爬悬崖的孩子如今坐缆车上学",
-      "onboard_time": 1736547492,
-      "rank": 19,
+      "raw_hot": 8351,
+      "num": 37903,
+      "word": "公安部回应境外电信诈骗问题",
+      "onboard_time": 1736548693,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
