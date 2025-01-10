@@ -1,6 +1,6 @@
 {
   "startTime": 1736440116531,
-  "endTime": 1736504667411,
+  "endTime": 1736505710092,
   "band_list": [
     {
       "raw_hot": 4127605,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3449640,
-      "num": 406977,
+      "num": 437879,
       "word": "陈奕迅泰国演唱会取消",
       "onboard_time": 1736502681,
       "rank": 10,
@@ -171,8 +171,8 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 974480,
-      "num": 974480,
+      "raw_hot": 977243,
+      "num": 977243,
       "word": "麦琳好友再发声",
       "onboard_time": 1736501302,
       "rank": 21,
@@ -185,6 +185,14 @@
       "onboard_time": 1736483542,
       "rank": 37,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 898292,
+      "num": 898292,
+      "word": "刘晓庆录节目疑似中毒",
+      "onboard_time": 1736504420,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 876104,
@@ -200,6 +208,14 @@
       "word": "18岁小伙嚼槟榔8年脸方成电视机",
       "onboard_time": 1736437882,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 815748,
+      "num": 815748,
+      "word": "工资8千1年攒7万多男子被指啃老",
+      "onboard_time": 1736503700,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -251,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 707432,
+      "num": 707432,
+      "word": "于正 白月梵星大爆要去庆功了",
+      "onboard_time": 1736502019,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 704939,
       "num": 704939,
       "word": "国色芳华收视率",
@@ -281,14 +305,6 @@
       "onboard_time": 1736491939,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 651654,
-      "num": 405478,
-      "word": "于正 白月梵星大爆要去庆功了",
-      "onboard_time": 1736502019,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 641323,
@@ -337,6 +353,14 @@
       "onboard_time": 1736484203,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 582084,
+      "num": 582084,
+      "word": "韩国人在上海见识真正的继承者们",
+      "onboard_time": 1736502199,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 578083,
@@ -491,14 +515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 421963,
-      "num": 308941,
-      "word": "刘晓庆录节目疑似中毒",
-      "onboard_time": 1736504420,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 407770,
       "num": 407770,
       "word": "孙颖莎获五四奖章",
@@ -523,20 +539,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 402844,
-      "num": 402844,
-      "word": "韩国人在上海见识真正的继承者们",
-      "onboard_time": 1736502199,
-      "rank": 15,
-      "category": "情感"
-    },
-    {
       "raw_hot": 392411,
       "num": 392411,
       "word": "A股",
       "onboard_time": 1736490679,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 388241,
+      "num": 388241,
+      "word": "微博之夜好多人啊",
+      "onboard_time": 1736503940,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 382660,
@@ -553,6 +569,14 @@
       "onboard_time": 1736467580,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 380041,
+      "num": 380041,
+      "word": "陈奕迅称观众朋友的安全至上",
+      "onboard_time": 1736503820,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 380027,
@@ -667,6 +691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 320382,
+      "num": 403369,
+      "word": "国色芳华每集广告数高达13个",
+      "onboard_time": 1736500460,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 317090,
       "num": 317090,
       "word": "买股代露娃",
@@ -699,28 +731,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 305179,
-      "num": 305179,
-      "word": "陈奕迅称观众朋友的安全至上",
-      "onboard_time": 1736503820,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 299818,
       "num": 299818,
       "word": "加州山火致130只宠物流离失所",
       "onboard_time": 1736481201,
       "rank": 22,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 298064,
-      "num": 298064,
-      "word": "工资8千1年攒7万多男子被指啃老",
-      "onboard_time": 1736503700,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 297889,
@@ -771,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 273494,
+      "num": 310400,
+      "word": "麦琳躲进衣柜哭",
+      "onboard_time": 1736503700,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 269970,
       "num": 231085,
       "word": "孟子义 什么是梦女",
@@ -785,14 +809,6 @@
       "onboard_time": 1736482341,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 267573,
-      "num": 403369,
-      "word": "国色芳华每集广告数高达13个",
-      "onboard_time": 1736500460,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 267218,
@@ -865,6 +881,14 @@
       "onboard_time": 1736492779,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 250198,
+      "num": 407573,
+      "word": "黄圣依称选择不下车的时候内心并不恐惧",
+      "onboard_time": 1736501720,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 249625,
@@ -995,6 +1019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 212868,
+      "num": 212868,
+      "word": "虞书欣2024微博涨粉量第一",
+      "onboard_time": 1736505019,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210915,
       "num": 232168,
       "word": "日本列车撞人致2死警方发现中国护照",
@@ -1043,6 +1075,22 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 203001,
+      "num": 203001,
+      "word": "春晚联排",
+      "onboard_time": 1736505140,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 201701,
+      "num": 205434,
+      "word": "拜登承认加州山火中消防栓缺水",
+      "onboard_time": 1736499501,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 201240,
       "num": 201240,
       "word": "月鳞绮纪路透",
@@ -1081,6 +1129,14 @@
       "onboard_time": 1736470820,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 195389,
+      "num": 195389,
+      "word": "张雅钦 人生妆造",
+      "onboard_time": 1736505500,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 194259,
@@ -1187,14 +1243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 184265,
-      "num": 407573,
-      "word": "黄圣依称选择不下车的时候内心并不恐惧",
-      "onboard_time": 1736501720,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 184048,
       "num": 184048,
       "word": "一路繁花",
@@ -1225,14 +1273,6 @@
       "onboard_time": 1736499979,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 182318,
-      "num": 205434,
-      "word": "拜登承认加州山火中消防栓缺水",
-      "onboard_time": 1736499501,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 182010,
@@ -1315,14 +1355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 176106,
-      "num": 309793,
-      "word": "微博之夜好多人啊",
-      "onboard_time": 1736503940,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 175921,
       "num": 175921,
       "word": "张小斐和妈妈重返旧时光",
@@ -1355,20 +1387,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171603,
-      "num": 310400,
-      "word": "麦琳躲进衣柜哭",
-      "onboard_time": 1736503700,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 171463,
       "num": 171463,
       "word": "纯元CP",
       "onboard_time": 1736436262,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171207,
+      "num": 171207,
+      "word": "肖战徐克微博之夜开屏",
+      "onboard_time": 1736505439,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 171110,
@@ -1648,6 +1680,14 @@
       "word": "感染甲流后不能硬扛",
       "onboard_time": 1736433204,
       "rank": 2,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 147034,
+      "num": 147034,
+      "word": "女性HPV疫苗卖不动企业瞄准男性市场",
+      "onboard_time": 1736504960,
+      "rank": 45,
       "category": "健康医疗"
     },
     {
@@ -2027,6 +2067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116750,
+      "num": 208459,
+      "word": "加州山火被曝灭火率为0",
+      "onboard_time": 1736505680,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 116242,
       "num": 116242,
       "word": "刘畅追妻",
@@ -2187,6 +2235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90194,
+      "num": 209436,
+      "word": "陈朵是谁",
+      "onboard_time": 1736505019,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88741,
       "num": 88741,
       "word": "特朗普发新地图将美加格陵兰岛标记统一颜色",
@@ -2265,6 +2321,14 @@
       "onboard_time": 1736430203,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75802,
+      "num": 208701,
+      "word": "他们用善意击碎了冰冷算计",
+      "onboard_time": 1736505500,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73622,
@@ -2595,6 +2659,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 31217,
+      "num": 305436,
+      "word": "王阳健康新攻略",
+      "onboard_time": 1736503520,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 30906,
       "num": 259382,
       "word": "无畏新年的五味零食",
@@ -2691,14 +2763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23782,
-      "num": 305436,
-      "word": "王阳健康新攻略",
-      "onboard_time": 1736503520,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 22474,
       "num": 166432,
       "word": "接种HPV疫苗安全吗",
@@ -2761,6 +2825,14 @@
       "onboard_time": 1736501480,
       "rank": 28,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 17050,
+      "num": 126411,
+      "word": "感染HPV不等于不检点",
+      "onboard_time": 1736505620,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16846,
@@ -2827,6 +2899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 11493,
+      "num": 170839,
+      "word": "沈腾送礼是真的有一套",
+      "onboard_time": 1736504420,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 11327,
       "num": 49005,
       "word": "黄友政石洵瑶晋级决赛",
@@ -2841,14 +2921,6 @@
       "onboard_time": 1736437280,
       "rank": 28,
       "category": "作品衍生,体育"
-    },
-    {
-      "raw_hot": 6239,
-      "num": 170839,
-      "word": "沈腾送礼是真的有一套",
-      "onboard_time": 1736504420,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 5550,
