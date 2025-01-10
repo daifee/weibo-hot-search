@@ -1,6 +1,6 @@
 {
   "startTime": 1736526528002,
-  "endTime": 1736533840293,
+  "endTime": 1736534641190,
   "band_list": [
     {
       "raw_hot": 947995,
@@ -475,12 +475,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 41712,
+      "num": 119832,
+      "word": "洛杉矶已有超16万亩土地被烧毁",
+      "onboard_time": 1736533093,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 33964,
       "num": 33964,
       "word": "登陆少年微博之夜舞台",
       "onboard_time": 1736531114,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 32843,
+      "num": 32843,
+      "word": "4种水果不甜但含糖量很高",
+      "onboard_time": 1736532434,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 22428,
@@ -515,10 +531,10 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17834,
-      "num": 119832,
-      "word": "洛杉矶已有超16万亩土地被烧毁",
-      "onboard_time": 1736533093,
+      "raw_hot": 18522,
+      "num": 97302,
+      "word": "洛杉矶山火将街区烧成灰烬",
+      "onboard_time": 1736534292,
       "rank": 9,
       "category": "海外新闻"
     }
