@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736512998612,
+  "endTime": 1736513939546,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -185,6 +185,14 @@
       "onboard_time": 1736315062,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 4529599,
+      "num": 4529599,
+      "word": "山西临汾地震",
+      "onboard_time": 1736513302,
+      "rank": 0,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 4517004,
@@ -393,6 +401,14 @@
       "onboard_time": 1736077046,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2782279,
+      "num": 679040,
+      "word": "海恩贤圭 分手",
+      "onboard_time": 1736512521,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2763810,
@@ -1579,6 +1595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1360736,
+      "num": 1360736,
+      "word": "张艺兴吸氧",
+      "onboard_time": 1736508080,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1358503,
       "num": 1358503,
       "word": "马龙王鹤棣打乒乓球",
@@ -1593,14 +1617,6 @@
       "onboard_time": 1735811780,
       "rank": 0,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1346503,
-      "num": 1346503,
-      "word": "张艺兴吸氧",
-      "onboard_time": 1736508080,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 1339239,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1735807461,
       "rank": 11,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1040314,
-      "num": 1040314,
-      "word": "买股代露娃",
-      "onboard_time": 1736425701,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1031623,
-      "num": 720315,
-      "word": "微博之夜最后一波阵容",
-      "onboard_time": 1736345423,
-      "rank": 17,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
