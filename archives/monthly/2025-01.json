@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736541479311,
+  "endTime": 1736544074521,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -29059,6 +29059,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 57900,
+      "num": 41228,
+      "word": "留几手说葛夕从头到尾都在揭短",
+      "onboard_time": 1736536092,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 57759,
       "num": 217112,
       "word": "微博之夜周深的赛博搭子",
@@ -31275,14 +31283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33362,
-      "num": 33362,
-      "word": "留几手说葛夕从头到尾都在揭短",
-      "onboard_time": 1736536092,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 33341,
       "num": 37170,
       "word": "在禁天价彩礼上胖东来带了个好头",
@@ -31977,6 +31977,14 @@
       "onboard_time": 1735983143,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28826,
+      "num": 28826,
+      "word": "为鲁GT8586司机点赞",
+      "onboard_time": 1736541492,
+      "rank": 18,
+      "category": "正能量"
     },
     {
       "raw_hot": 28790,
@@ -33315,20 +33323,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 16685,
+      "num": 54106,
+      "word": "洛杉矶野火为何难灭",
+      "onboard_time": 1736540291,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 16669,
       "num": 152896,
       "word": "雷霆东方不败",
       "onboard_time": 1736141303,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 16653,
-      "num": 54106,
-      "word": "洛杉矶野火为何难灭",
-      "onboard_time": 1736540291,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 16590,
@@ -33699,6 +33707,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 13102,
+      "num": 28796,
+      "word": "抗震救灾不容AI虚假信息造谣添乱",
+      "onboard_time": 1736542690,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 13095,
       "num": 15687,
       "word": "陶喆唱的满头大汗",
@@ -34065,6 +34081,14 @@
       "onboard_time": 1736437280,
       "rank": 28,
       "category": "作品衍生,体育"
+    },
+    {
+      "raw_hot": 9186,
+      "num": 28822,
+      "word": "唐朝小姐姐穿搭被陶俑定格",
+      "onboard_time": 1736543891,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9091,
