@@ -1,0 +1,410 @@
+{
+  "runTime": 1736480609710,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2127735,
+        "num": 2127735,
+        "word": "地铁口被指像棺材4人被处理",
+        "onboard_time": 1736477358,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1448537,
+        "num": 1448537,
+        "word": "雷军 小米YU7",
+        "onboard_time": 1736475198,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 41522,
+        "num": 1014129,
+        "word": "用心用情守望互助我们定能渡过难关",
+        "onboard_time": 1736477119,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 4127605,
+        "num": 946483,
+        "word": "鬼鬼当妈",
+        "onboard_time": 1736477600,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 876104,
+        "num": 876104,
+        "word": "男子狱中苦读24年获博士学位",
+        "onboard_time": 1736477119,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1353602,
+        "num": 813717,
+        "word": "麦琳回门宴瘦了好多",
+        "onboard_time": 1736472738,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 655750,
+        "num": 655750,
+        "word": "间谍在浙江拍照没想到一路被监控",
+        "onboard_time": 1736474239,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 472266,
+        "num": 472266,
+        "word": "特斯拉Model Y",
+        "onboard_time": 1736472619,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 430721,
+        "num": 430721,
+        "word": "洛杉矶华人以为误入末日",
+        "onboard_time": 1736448793,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 365029,
+        "num": 365029,
+        "word": "刘宇宁要去微博之夜领直播King奖杯",
+        "onboard_time": 1736478619,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 354939,
+        "num": 354939,
+        "word": "卡特葬礼上美国前总统上演修罗场",
+        "onboard_time": 1736472979,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 339028,
+        "num": 339028,
+        "word": "公交司机晕倒4个少年救了全车人",
+        "onboard_time": 1736475618,
+        "rank": 11,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 317801,
+        "num": 317801,
+        "word": "封神第二部从零建造西岐城",
+        "onboard_time": 1736479401,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 295369,
+        "num": 295369,
+        "word": "美国山火可能遭遇魔鬼风",
+        "onboard_time": 1736475618,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 257639,
+        "num": 257639,
+        "word": "2人幼儿园时假扮夫妻20年后真结婚了",
+        "onboard_time": 1736440937,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91133,
+        "num": 257135,
+        "word": "6天35起加州山火为何这么多",
+        "onboard_time": 1736478740,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 256816,
+        "num": 256816,
+        "word": "茅台冰淇淋闭店停产三折清仓",
+        "onboard_time": 1736466919,
+        "rank": 16,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 228861,
+        "num": 255133,
+        "word": "白鹿857857",
+        "onboard_time": 1736464816,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181796,
+        "num": 253048,
+        "word": "入青云",
+        "onboard_time": 1736477899,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128617,
+        "num": 252486,
+        "word": "美纪录片曝光韩流造星工厂内幕",
+        "onboard_time": 1736479039,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 375622,
+        "num": 249386,
+        "word": "确认被爱后面相都变了",
+        "onboard_time": 1736479220,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248284,
+        "num": 248284,
+        "word": "12306又崩了",
+        "onboard_time": 1736475738,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 241192,
+        "num": 241192,
+        "word": "女婴掉粪坑父母不救案细节披露",
+        "onboard_time": 1736480301,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193949,
+        "num": 193949,
+        "word": "远离胃部反酸烧心从3方面做起",
+        "onboard_time": 1736477779,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 179150,
+        "num": 179150,
+        "word": "留几手不想看葛夕的日记",
+        "onboard_time": 1736465777,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167216,
+        "num": 177899,
+        "word": "李昀锐一分钟800个小动作",
+        "onboard_time": 1736436381,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176696,
+        "num": 176696,
+        "word": "美国洛杉矶山火已致7人死亡",
+        "onboard_time": 1736476818,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 21812,
+        "num": 176664,
+        "word": "黄子弘凡过年也要表演才艺",
+        "onboard_time": 1736479702,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81766,
+        "num": 176418,
+        "word": "公司回应地铁口设计像棺材",
+        "onboard_time": 1736480541,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28001,
+        "num": 176378,
+        "word": "不同病原体的发烧有啥不同",
+        "onboard_time": 1736479519,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 176990,
+        "num": 176200,
+        "word": "辛雨锡向郭德纲道歉",
+        "onboard_time": 1736464877,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176077,
+        "num": 176077,
+        "word": "18岁小伙嚼槟榔8年脸方成电视机",
+        "onboard_time": 1736437882,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165114,
+        "num": 165114,
+        "word": "美国洛杉矶山火最新消息",
+        "onboard_time": 1736421562,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 162931,
+        "num": 162931,
+        "word": "李昀锐超经意的一瞥",
+        "onboard_time": 1736478982,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159462,
+        "num": 159462,
+        "word": "王楚钦说冬训练得踏实专注",
+        "onboard_time": 1736478982,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158690,
+        "num": 158690,
+        "word": "国债",
+        "onboard_time": 1736474179,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 146257,
+        "num": 146257,
+        "word": "国色芳华云合第二",
+        "onboard_time": 1736479160,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141400,
+        "num": 141400,
+        "word": "特斯拉焕新ModelY26.35万",
+        "onboard_time": 1736473878,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 137548,
+        "num": 137548,
+        "word": "鬼鬼结婚了吗",
+        "onboard_time": 1736480541,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135271,
+        "num": 135271,
+        "word": "张真源不语只一味地合照",
+        "onboard_time": 1736469620,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128088,
+        "num": 128088,
+        "word": "杨紫何惟芳V榜再创新高",
+        "onboard_time": 1736478320,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28236,
+        "num": 126733,
+        "word": "年夜饭哪道菜必不可少",
+        "onboard_time": 1736480301,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 125433,
+        "num": 125433,
+        "word": "说了20分钟对方不上当骗子气到大叫",
+        "onboard_time": 1736437580,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125385,
+        "num": 125385,
+        "word": "男子因同名房产遭乌龙法拍",
+        "onboard_time": 1736478921,
+        "rank": 43,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 117753,
+        "num": 117753,
+        "word": "别再人工催熟小孩哥小孩姐",
+        "onboard_time": 1736478559,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113710,
+        "num": 113710,
+        "word": "樊振东任何体育比赛都看",
+        "onboard_time": 1736480000,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113490,
+        "num": 113490,
+        "word": "王鹤棣和库里的全明星约定",
+        "onboard_time": 1736477659,
+        "rank": 46,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 111763,
+        "num": 111763,
+        "word": "月刊少女野崎君 cp发糖了",
+        "onboard_time": 1736478800,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 111072,
+        "num": 111072,
+        "word": "央行暂停在公开市场买入国债",
+        "onboard_time": 1736477179,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110404,
+        "num": 110404,
+        "word": "前FPX辅助爆料冰岛事件",
+        "onboard_time": 1736467580,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央政治局常委会召开会议#"
+    }
+  }
+}

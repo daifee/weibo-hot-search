@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736479760602,
+  "endTime": 1736480609710,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4127605,
+      "num": 3873452,
+      "word": "鬼鬼当妈",
+      "onboard_time": 1736477600,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 4022283,
       "num": 1571832,
       "word": "星星疑被剃去头发腿上有红斑",
@@ -232,14 +240,6 @@
       "word": "赵露思最新康复状态",
       "onboard_time": 1735689496,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 3873452,
-      "num": 3873452,
-      "word": "鬼鬼当妈",
-      "onboard_time": 1736477600,
-      "rank": 7,
       "category": "艺人"
     },
     {
@@ -625,6 +625,14 @@
       "onboard_time": 1736410701,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 2127735,
+      "num": 2127735,
+      "word": "地铁口被指像棺材4人被处理",
+      "onboard_time": 1736477358,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2126402,
@@ -1041,14 +1049,6 @@
       "onboard_time": 1735665381,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1722702,
-      "num": 1722702,
-      "word": "地铁口被指像棺材4人被处理",
-      "onboard_time": 1736477358,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1720147,

@@ -1,9 +1,9 @@
 {
   "startTime": 1736440116531,
-  "endTime": 1736479760602,
+  "endTime": 1736480609710,
   "band_list": [
     {
-      "raw_hot": 3873452,
+      "raw_hot": 4127605,
       "num": 3873452,
       "word": "鬼鬼当妈",
       "onboard_time": 1736477600,
@@ -19,8 +19,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1722702,
-      "num": 1722702,
+      "raw_hot": 2127735,
+      "num": 2127735,
       "word": "地铁口被指像棺材4人被处理",
       "onboard_time": 1736477358,
       "rank": 31,
@@ -59,19 +59,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 876104,
+      "num": 876104,
+      "word": "男子狱中苦读24年获博士学位",
+      "onboard_time": 1736477119,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 851405,
       "num": 851405,
       "word": "18岁小伙嚼槟榔8年脸方成电视机",
       "onboard_time": 1736437882,
       "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 831729,
-      "num": 831729,
-      "word": "男子狱中苦读24年获博士学位",
-      "onboard_time": 1736477119,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -219,6 +219,30 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 375622,
+      "num": 249386,
+      "word": "确认被爱后面相都变了",
+      "onboard_time": 1736479220,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 365029,
+      "num": 365029,
+      "word": "刘宇宁要去微博之夜领直播King奖杯",
+      "onboard_time": 1736478619,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 339028,
+      "num": 339028,
+      "word": "公交司机晕倒4个少年救了全车人",
+      "onboard_time": 1736475618,
+      "rank": 20,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 333884,
       "num": 449342,
       "word": "美国山火可能遭遇魔鬼风",
@@ -241,6 +265,14 @@
       "onboard_time": 1736468120,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 317801,
+      "num": 317801,
+      "word": "封神第二部从零建造西岐城",
+      "onboard_time": 1736479401,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 317090,
@@ -307,14 +339,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 253719,
-      "num": 253719,
-      "word": "刘宇宁要去微博之夜领直播King奖杯",
-      "onboard_time": 1736478619,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 242300,
       "num": 242300,
       "word": "肖战微博之夜人脸识别",
@@ -323,20 +347,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 241192,
+      "num": 241192,
+      "word": "女婴掉粪坑父母不救案细节披露",
+      "onboard_time": 1736480301,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 241001,
       "num": 177206,
       "word": "微博之夜好多cp啊",
       "onboard_time": 1736425943,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 239625,
-      "num": 239625,
-      "word": "公交司机晕倒4个少年救了全车人",
-      "onboard_time": 1736475618,
-      "rank": 20,
-      "category": "正能量"
     },
     {
       "raw_hot": 231481,
@@ -395,8 +419,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 192241,
-      "num": 192241,
+      "raw_hot": 193949,
+      "num": 193949,
       "word": "远离胃部反酸烧心从3方面做起",
       "onboard_time": 1736477779,
       "rank": 49,
@@ -412,7 +436,7 @@
     },
     {
       "raw_hot": 189096,
-      "num": 231634,
+      "num": 253048,
       "word": "入青云",
       "onboard_time": 1736477899,
       "rank": 35,
@@ -435,14 +459,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 181767,
-      "num": 196392,
-      "word": "封神第二部从零建造西岐城",
-      "onboard_time": 1736479401,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 177996,
       "num": 177996,
       "word": "西藏地震灾区收到了奶茶可乐",
@@ -459,14 +475,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 177467,
-      "num": 177467,
-      "word": "确认被爱后面相都变了",
-      "onboard_time": 1736479220,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 177129,
       "num": 241150,
       "word": "微博之夜盛典直播",
@@ -481,6 +489,14 @@
       "onboard_time": 1736421802,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 176696,
+      "num": 429291,
+      "word": "美国洛杉矶山火已致7人死亡",
+      "onboard_time": 1736476818,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 175747,
@@ -531,6 +547,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 162931,
+      "num": 162931,
+      "word": "李昀锐超经意的一瞥",
+      "onboard_time": 1736478982,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162299,
       "num": 162299,
       "word": "杨紫何惟芳V榜再创新高",
@@ -539,12 +563,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 159974,
-      "num": 429291,
-      "word": "美国洛杉矶山火已致7人死亡",
-      "onboard_time": 1736476818,
-      "rank": 41,
-      "category": "海外新闻"
+      "raw_hot": 159462,
+      "num": 159462,
+      "word": "王楚钦说冬训练得踏实专注",
+      "onboard_time": 1736478982,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 158027,
@@ -595,12 +619,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143161,
-      "num": 143161,
-      "word": "王楚钦说冬训练得踏实专注",
-      "onboard_time": 1736478982,
-      "rank": 36,
-      "category": "体育"
+      "raw_hot": 146257,
+      "num": 146257,
+      "word": "国色芳华云合第二",
+      "onboard_time": 1736479160,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 142803,
@@ -643,20 +667,20 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 137548,
+      "num": 137548,
+      "word": "鬼鬼结婚了吗",
+      "onboard_time": 1736480541,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136224,
       "num": 136224,
       "word": "刘宇宁读信哽咽了",
       "onboard_time": 1736438241,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135326,
-      "num": 135326,
-      "word": "李昀锐超经意的一瞥",
-      "onboard_time": 1736478982,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 133768,
@@ -683,12 +707,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130499,
-      "num": 130499,
-      "word": "国色芳华云合第二",
-      "onboard_time": 1736479160,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 128617,
+      "num": 252486,
+      "word": "美纪录片曝光韩流造星工厂内幕",
+      "onboard_time": 1736479039,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 127255,
@@ -713,6 +737,14 @@
       "onboard_time": 1736468420,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125385,
+      "num": 125385,
+      "word": "男子因同名房产遭乌龙法拍",
+      "onboard_time": 1736478921,
+      "rank": 48,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 121197,
@@ -779,6 +811,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 113710,
+      "num": 113710,
+      "word": "樊振东任何体育比赛都看",
+      "onboard_time": 1736480000,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112661,
       "num": 112661,
       "word": "石原里美老公近照",
@@ -787,12 +827,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 110339,
-      "num": 110339,
-      "word": "男子因同名房产遭乌龙法拍",
-      "onboard_time": 1736478921,
-      "rank": 48,
-      "category": "舆论监督"
+      "raw_hot": 111763,
+      "num": 111763,
+      "word": "月刊少女野崎君 cp发糖了",
+      "onboard_time": 1736478800,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 103612,
@@ -859,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91133,
+      "num": 390694,
+      "word": "6天35起加州山火为何这么多",
+      "onboard_time": 1736478740,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 90508,
       "num": 90508,
       "word": "任嘉伦直播连线",
@@ -923,6 +971,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 81766,
+      "num": 176418,
+      "word": "公司回应地铁口设计像棺材",
+      "onboard_time": 1736480541,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77416,
       "num": 85145,
       "word": "2025中国乒乓球队大赛服",
@@ -953,22 +1009,6 @@
       "onboard_time": 1736441118,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 61985,
-      "num": 230220,
-      "word": "美纪录片曝光韩流造星工厂内幕",
-      "onboard_time": 1736479039,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 61412,
-      "num": 390694,
-      "word": "6天35起加州山火为何这么多",
-      "onboard_time": 1736478740,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 59102,
@@ -1115,6 +1155,22 @@
       "category": "国内时政,民生新闻"
     },
     {
+      "raw_hot": 28236,
+      "num": 126733,
+      "word": "年夜饭哪道菜必不可少",
+      "onboard_time": 1736480301,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 28001,
+      "num": 193329,
+      "word": "不同病原体的发烧有啥不同",
+      "onboard_time": 1736479519,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 26828,
       "num": 91228,
       "word": "关注西藏定日县地震",
@@ -1139,20 +1195,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 21812,
+      "num": 193827,
+      "word": "黄子弘凡过年也要表演才艺",
+      "onboard_time": 1736479702,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 21302,
       "num": 26524,
       "word": "张康乐马柏全费加罗封面预告",
       "onboard_time": 1736449211,
       "rank": 43,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 20564,
-      "num": 193827,
-      "word": "黄子弘凡过年也要表演才艺",
-      "onboard_time": 1736479702,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 19782,
@@ -1201,14 +1257,6 @@
       "onboard_time": 1736455031,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 11691,
-      "num": 193329,
-      "word": "不同病原体的发烧有啥不同",
-      "onboard_time": 1736479519,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 11327,
