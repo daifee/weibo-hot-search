@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736508942250,
+  "endTime": 1736512998612,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 3449640,
-      "num": 437879,
+      "num": 882590,
       "word": "陈奕迅泰国演唱会取消",
       "onboard_time": 1736502681,
       "rank": 10,
@@ -1595,6 +1595,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1346503,
+      "num": 1346503,
+      "word": "张艺兴吸氧",
+      "onboard_time": 1736508080,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1339239,
       "num": 943881,
       "word": "张萌礼服",
@@ -2163,6 +2171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1109406,
+      "num": 1109406,
+      "word": "夏以昼 哥哥回来了",
+      "onboard_time": 1736508799,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1108296,
       "num": 426955,
       "word": "2024年顶流格局",
@@ -2483,6 +2499,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 996924,
+      "num": 996924,
+      "word": "日喀则地震后第3天",
+      "onboard_time": 1736512521,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 996724,
       "num": 996724,
       "word": "何炅看王一博舞台哭了",
@@ -2529,6 +2553,14 @@
       "onboard_time": 1736146822,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 992419,
+      "num": 992419,
+      "word": "定日县地震已累计救出被困群众407名",
+      "onboard_time": 1736512521,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 991350,
@@ -2747,6 +2779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 939633,
+      "num": 939633,
+      "word": "微博之夜好多人啊",
+      "onboard_time": 1736503940,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 938605,
       "num": 1150176,
       "word": "医生称森碟下巴后缩或影响口腔功能",
@@ -2761,6 +2801,14 @@
       "onboard_time": 1735969941,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 935058,
+      "num": 935058,
+      "word": "公安部将坚决摧毁境外诈骗窝点",
+      "onboard_time": 1736507660,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 931934,
@@ -2817,6 +2865,14 @@
       "onboard_time": 1735737801,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 918286,
+      "num": 918286,
+      "word": "日喀则6.8级地震已过48小时",
+      "onboard_time": 1736512521,
+      "rank": 8,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 918165,
@@ -3003,14 +3059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 880497,
-      "num": 880497,
-      "word": "微博之夜好多人啊",
-      "onboard_time": 1736503940,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 879247,
       "num": 879247,
       "word": "鞠婧祎 行走的CD",
@@ -3081,6 +3129,14 @@
       "onboard_time": 1736000010,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 867601,
+      "num": 867601,
+      "word": "雷军  Model Y也不错",
+      "onboard_time": 1736508378,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 865531,
@@ -3777,6 +3833,14 @@
       "onboard_time": 1736308583,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 743733,
+      "num": 743733,
+      "word": "留几手回应离婚",
+      "onboard_time": 1736511260,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 740294,
@@ -5419,6 +5483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 538526,
+      "num": 538526,
+      "word": "海恩贤圭 分手",
+      "onboard_time": 1736512521,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 537806,
       "num": 323002,
       "word": "瘦了50斤的面部折叠度",
@@ -5449,6 +5521,14 @@
       "onboard_time": 1735829240,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 531710,
+      "num": 531710,
+      "word": "国色芳华",
+      "onboard_time": 1735668858,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 531031,
@@ -6611,6 +6691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 443960,
+      "num": 443960,
+      "word": "贺峻霖高会",
+      "onboard_time": 1736507719,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 443946,
       "num": 443946,
       "word": "湖南科技大学刘俊杰",
@@ -6939,14 +7027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 421275,
-      "num": 421275,
-      "word": "国色芳华",
-      "onboard_time": 1735668858,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 420910,
       "num": 420910,
       "word": "李玟姐姐发布声明",
@@ -7145,14 +7225,6 @@
       "onboard_time": 1736092584,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 410173,
-      "num": 410173,
-      "word": "公安部将坚决摧毁境外诈骗窝点",
-      "onboard_time": 1736507660,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 409984,
@@ -7392,14 +7464,6 @@
       "word": "JYP新男团公开",
       "onboard_time": 1736093544,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 397386,
-      "num": 397386,
-      "word": "贺峻霖高会",
-      "onboard_time": 1736507719,
-      "rank": 44,
       "category": "艺人"
     },
     {
@@ -7833,6 +7897,14 @@
       "onboard_time": 1736041715,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 375955,
+      "num": 375955,
+      "word": "宝骏汽车员工回应黄子韬直播抽车",
+      "onboard_time": 1736510121,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 375943,
@@ -9155,6 +9227,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 318841,
+      "num": 318841,
+      "word": "郑钦文赛场闹乌龙引全场爆笑",
+      "onboard_time": 1736510239,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 318820,
       "num": 318820,
       "word": "易烊千玺狠起来连自己都骂",
@@ -9579,6 +9659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 302813,
+      "num": 332264,
+      "word": "杨子感谢了所有人除了黄圣依",
+      "onboard_time": 1736506640,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 302760,
       "num": 302760,
       "word": "福宝逐步适应新家环境",
@@ -9619,14 +9707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 302097,
-      "num": 332264,
-      "word": "杨子感谢了所有人除了黄圣依",
-      "onboard_time": 1736506640,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 301728,
       "num": 541964,
       "word": "反腐为了人民第一集",
@@ -9649,14 +9729,6 @@
       "onboard_time": 1736060606,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 301359,
-      "num": 301359,
-      "word": "张艺兴吸氧",
-      "onboard_time": 1736508080,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 301278,
@@ -10603,6 +10675,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 273691,
+      "num": 273691,
+      "word": "夏以昼抵达梦境边缘",
+      "onboard_time": 1736512280,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 273579,
       "num": 273579,
       "word": "成毅捐款50万驰援西藏",
@@ -10929,6 +11009,14 @@
       "onboard_time": 1736154445,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 264588,
+      "num": 264588,
+      "word": "恋与深空兑换码",
+      "onboard_time": 1736512642,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 263825,
@@ -11827,6 +11915,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 242322,
+      "num": 891856,
+      "word": "日喀则地震救援的温暖瞬间",
+      "onboard_time": 1736512461,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 242300,
       "num": 242300,
       "word": "肖战微博之夜人脸识别",
@@ -11961,6 +12057,14 @@
       "onboard_time": 1736310923,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 239908,
+      "num": 239908,
+      "word": "大奉打更人陈小纭出场",
+      "onboard_time": 1736510000,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 239210,
@@ -12329,6 +12433,14 @@
       "onboard_time": 1736451552,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 231456,
+      "num": 231456,
+      "word": "洛杉矶日落大道被烧成废墟",
+      "onboard_time": 1736505981,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 231319,
@@ -13427,6 +13539,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 213131,
+      "num": 213131,
+      "word": "洛阳人一碗汤里也有满满古风",
+      "onboard_time": 1736509821,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212851,
       "num": 212851,
       "word": "TF家族新年音乐会特权码",
@@ -13976,6 +14096,14 @@
       "word": "Jennie最新滑雪照",
       "onboard_time": 1736343563,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 205976,
+      "num": 205976,
+      "word": "华晨宇 稍等睡过了洗个澡",
+      "onboard_time": 1736510299,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -14795,6 +14923,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 198787,
+      "num": 198787,
+      "word": "罗云熙原来看一半的世界是这个视角",
+      "onboard_time": 1736511741,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198657,
       "num": 191063,
       "word": "阿如那老师又来演混混了",
@@ -14841,6 +14977,14 @@
       "onboard_time": 1736342064,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198244,
+      "num": 198244,
+      "word": "张艺兴将出席SMTOWN",
+      "onboard_time": 1736509041,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 198193,
@@ -15145,14 +15289,6 @@
       "onboard_time": 1736262623,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 195078,
-      "num": 195078,
-      "word": "雷军  Model Y也不错",
-      "onboard_time": 1736508378,
-      "rank": 41,
-      "category": "汽车"
     },
     {
       "raw_hot": 195031,
@@ -15835,20 +15971,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 190164,
+      "num": 190164,
+      "word": "绝区零",
+      "onboard_time": 1736511981,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190124,
       "num": 206531,
       "word": "张彬彬8g网速",
       "onboard_time": 1735807222,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 190097,
-      "num": 190097,
-      "word": "夏以昼 哥哥回来了",
-      "onboard_time": 1736508799,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 190075,
@@ -18771,6 +18907,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 163053,
+      "num": 163053,
+      "word": "央行暂停买入国债意味什么",
+      "onboard_time": 1736512762,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 162975,
       "num": 304265,
       "word": "孙颖莎幼儿园时期的毕业照",
@@ -19496,6 +19640,14 @@
       "word": "2025正式开始",
       "onboard_time": 1735663706,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156890,
+      "num": 156890,
+      "word": "救援民警在震区继续开展救援善后工作",
+      "onboard_time": 1736512881,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -26259,6 +26411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 88202,
+      "num": 458244,
+      "word": "LV村上隆",
+      "onboard_time": 1736508201,
+      "rank": 35,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 88143,
       "num": 88143,
       "word": "单依纯毛不易合唱平凡的一天",
@@ -26448,6 +26608,14 @@
       "word": "数九寒天健康日历",
       "onboard_time": 1736386040,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85600,
+      "num": 307860,
+      "word": "一街道组织登记爱家月子中心人员退款",
+      "onboard_time": 1736511079,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -27305,6 +27473,14 @@
       "onboard_time": 1735885340,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71950,
+      "num": 531961,
+      "word": "王安宇现身央视春晚第二次联排",
+      "onboard_time": 1736511501,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 71872,
@@ -28987,14 +29163,6 @@
       "category": "民生新闻,情感"
     },
     {
-      "raw_hot": 47963,
-      "num": 201682,
-      "word": "LV村上隆",
-      "onboard_time": 1736508201,
-      "rank": 35,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 47944,
       "num": 228458,
       "word": "ARTnews年度盛典",
@@ -29409,6 +29577,14 @@
       "onboard_time": 1736493260,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 43334,
+      "num": 543235,
+      "word": "商家清库存福袋里7成是滞销品",
+      "onboard_time": 1736511802,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 43290,
@@ -29969,6 +30145,14 @@
       "onboard_time": 1736421075,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 37395,
+      "num": 490642,
+      "word": "订了酒店临出发却被告知涨价",
+      "onboard_time": 1736511802,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 37373,
@@ -32161,6 +32345,14 @@
       "onboard_time": 1735695620,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 18110,
+      "num": 478006,
+      "word": "王一博微博之夜安全倡议",
+      "onboard_time": 1736511802,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 18109,
