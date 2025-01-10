@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736478332634,
+  "endTime": 1736479760602,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -232,6 +232,14 @@
       "word": "赵露思最新康复状态",
       "onboard_time": 1735689496,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3873452,
+      "num": 3873452,
+      "word": "鬼鬼当妈",
+      "onboard_time": 1736477600,
+      "rank": 7,
       "category": "艺人"
     },
     {
@@ -1003,14 +1011,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 1758785,
-      "num": 1137791,
-      "word": "鬼鬼当妈",
-      "onboard_time": 1736477600,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1753374,
       "num": 430928,
       "word": "律师称收到刘强东红包的乡亲需缴税",
@@ -1041,6 +1041,14 @@
       "onboard_time": 1735665381,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1722702,
+      "num": 1722702,
+      "word": "地铁口被指像棺材4人被处理",
+      "onboard_time": 1736477358,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1720147,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736306062,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 992926,
-      "num": 557287,
-      "word": "田曦薇星光大赏被anti",
-      "onboard_time": 1736146822,
-      "rank": 6,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [

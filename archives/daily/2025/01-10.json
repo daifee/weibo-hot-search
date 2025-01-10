@@ -1,7 +1,15 @@
 {
   "startTime": 1736440116531,
-  "endTime": 1736478332634,
+  "endTime": 1736479760602,
   "band_list": [
+    {
+      "raw_hot": 3873452,
+      "num": 3873452,
+      "word": "鬼鬼当妈",
+      "onboard_time": 1736477600,
+      "rank": 7,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2218677,
       "num": 2218677,
@@ -11,12 +19,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1758785,
-      "num": 1137791,
-      "word": "鬼鬼当妈",
-      "onboard_time": 1736477600,
-      "rank": 7,
-      "category": "艺人"
+      "raw_hot": 1722702,
+      "num": 1722702,
+      "word": "地铁口被指像棺材4人被处理",
+      "onboard_time": 1736477358,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1717774,
@@ -56,6 +64,14 @@
       "word": "18岁小伙嚼槟榔8年脸方成电视机",
       "onboard_time": 1736437882,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 831729,
+      "num": 831729,
+      "word": "男子狱中苦读24年获博士学位",
+      "onboard_time": 1736477119,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -195,14 +211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 419732,
-      "num": 419732,
-      "word": "男子狱中苦读24年获博士学位",
-      "onboard_time": 1736477119,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 380320,
       "num": 380320,
       "word": "前FPX辅助爆料冰岛事件",
@@ -211,12 +219,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 369385,
-      "num": 369385,
-      "word": "地铁口被指像棺材4人被处理",
-      "onboard_time": 1736477358,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 333884,
+      "num": 449342,
+      "word": "美国山火可能遭遇魔鬼风",
+      "onboard_time": 1736475618,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 326535,
@@ -267,14 +275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 284792,
-      "num": 449342,
-      "word": "美国山火可能遭遇魔鬼风",
-      "onboard_time": 1736475618,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 264612,
       "num": 264612,
       "word": "疯狂小杨哥及三只羊被起诉",
@@ -305,6 +305,14 @@
       "onboard_time": 1736427083,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 253719,
+      "num": 253719,
+      "word": "刘宇宁要去微博之夜领直播King奖杯",
+      "onboard_time": 1736478619,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 242300,
@@ -363,6 +371,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 197771,
+      "num": 197771,
+      "word": "国债",
+      "onboard_time": 1736474179,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 196142,
       "num": 196142,
       "word": "樊振东获中国青年五四奖章",
@@ -379,12 +395,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 194162,
-      "num": 194162,
-      "word": "国债",
-      "onboard_time": 1736474179,
-      "rank": 26,
-      "category": "财经"
+      "raw_hot": 192241,
+      "num": 192241,
+      "word": "远离胃部反酸烧心从3方面做起",
+      "onboard_time": 1736477779,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 191004,
@@ -393,6 +409,14 @@
       "onboard_time": 1736455091,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189096,
+      "num": 231634,
+      "word": "入青云",
+      "onboard_time": 1736477899,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 185859,
@@ -411,6 +435,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 181767,
+      "num": 196392,
+      "word": "封神第二部从零建造西岐城",
+      "onboard_time": 1736479401,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 177996,
       "num": 177996,
       "word": "西藏地震灾区收到了奶茶可乐",
@@ -425,6 +457,14 @@
       "onboard_time": 1736473878,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 177467,
+      "num": 177467,
+      "word": "确认被爱后面相都变了",
+      "onboard_time": 1736479220,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 177129,
@@ -491,6 +531,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 162299,
+      "num": 162299,
+      "word": "杨紫何惟芳V榜再创新高",
+      "onboard_time": 1736478320,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 159974,
+      "num": 429291,
+      "word": "美国洛杉矶山火已致7人死亡",
+      "onboard_time": 1736476818,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 158027,
       "num": 158027,
       "word": "警犬幺幺零1岁了",
@@ -537,6 +593,14 @@
       "onboard_time": 1736447952,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143161,
+      "num": 143161,
+      "word": "王楚钦说冬训练得踏实专注",
+      "onboard_time": 1736478982,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 142803,
@@ -587,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135326,
+      "num": 135326,
+      "word": "李昀锐超经意的一瞥",
+      "onboard_time": 1736478982,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133768,
       "num": 133768,
       "word": "国色芳华",
@@ -611,12 +683,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 128654,
-      "num": 128654,
-      "word": "入青云",
-      "onboard_time": 1736477899,
-      "rank": 35,
+      "raw_hot": 130499,
+      "num": 130499,
+      "word": "国色芳华云合第二",
+      "onboard_time": 1736479160,
+      "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127255,
+      "num": 127255,
+      "word": "央行暂停在公开市场买入国债",
+      "onboard_time": 1736477179,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 126895,
+      "num": 126895,
+      "word": "别再人工催熟小孩哥小孩姐",
+      "onboard_time": 1736478559,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126118,
@@ -625,14 +713,6 @@
       "onboard_time": 1736468420,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 121897,
-      "num": 121897,
-      "word": "远离胃部反酸烧心从3方面做起",
-      "onboard_time": 1736477779,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 121197,
@@ -707,12 +787,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107989,
-      "num": 429291,
-      "word": "美国洛杉矶山火已致7人死亡",
-      "onboard_time": 1736476818,
-      "rank": 41,
-      "category": "海外新闻"
+      "raw_hot": 110339,
+      "num": 110339,
+      "word": "男子因同名房产遭乌龙法拍",
+      "onboard_time": 1736478921,
+      "rank": 48,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 103612,
@@ -875,6 +955,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61985,
+      "num": 230220,
+      "word": "美纪录片曝光韩流造星工厂内幕",
+      "onboard_time": 1736479039,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 61412,
+      "num": 390694,
+      "word": "6天35起加州山火为何这么多",
+      "onboard_time": 1736478740,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 59102,
       "num": 70740,
       "word": "南京大屠杀幸存者艾义英奶奶走了",
@@ -931,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45322,
+      "num": 1651002,
+      "word": "用心用情守望互助我们定能渡过难关",
+      "onboard_time": 1736477119,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 39385,
       "num": 54501,
       "word": "美国加州马利布市发布撤离警报",
@@ -971,6 +1075,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 31745,
+      "num": 198877,
+      "word": "2025NBA全明星投票",
+      "onboard_time": 1736478858,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31282,
       "num": 64920,
       "word": "墨总统回应特朗普墨西哥湾改名提议",
@@ -985,14 +1097,6 @@
       "onboard_time": 1736477418,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 29547,
-      "num": 1138611,
-      "word": "用心用情守望互助我们定能渡过难关",
-      "onboard_time": 1736477119,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 29334,
@@ -1043,6 +1147,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 20564,
+      "num": 193827,
+      "word": "黄子弘凡过年也要表演才艺",
+      "onboard_time": 1736479702,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 19782,
       "num": 24471,
       "word": "杨紫方确认参加2024微博之夜",
@@ -1089,6 +1201,14 @@
       "onboard_time": 1736455031,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 11691,
+      "num": 193329,
+      "word": "不同病原体的发烧有啥不同",
+      "onboard_time": 1736479519,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 11327,
