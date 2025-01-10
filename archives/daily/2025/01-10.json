@@ -1,6 +1,6 @@
 {
   "startTime": 1736440116531,
-  "endTime": 1736493700210,
+  "endTime": 1736494522933,
   "band_list": [
     {
       "raw_hot": 4127605,
@@ -107,16 +107,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1035389,
-      "num": 1035389,
+      "raw_hot": 1048044,
+      "num": 1048044,
       "word": "鲁GT8586你真帅",
       "onboard_time": 1736490439,
       "rank": 39,
       "category": "正能量"
     },
     {
-      "raw_hot": 1003025,
-      "num": 1003025,
+      "raw_hot": 1018316,
+      "num": 1018316,
       "word": "教育局回应4年级数学期末试卷太难",
       "onboard_time": 1736490200,
       "rank": 41,
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 631179,
+      "num": 631179,
+      "word": "孙茜 我们碎玉轩终于齐了",
+      "onboard_time": 1736492240,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 630059,
       "num": 630059,
       "word": "公交司机晕倒4个少年救了全车人",
@@ -243,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 578083,
+      "num": 578083,
+      "word": "拜登疑在卡特葬礼上睡着",
+      "onboard_time": 1736492000,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 565747,
       "num": 565747,
       "word": "特朗普要求加州州长就山火失控辞职",
@@ -265,14 +281,6 @@
       "onboard_time": 1736486360,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 532214,
-      "num": 532214,
-      "word": "孙茜 我们碎玉轩终于齐了",
-      "onboard_time": 1736492240,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 531031,
@@ -371,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 406170,
+      "num": 406170,
+      "word": "祝绪丹画了微博之夜礼服",
+      "onboard_time": 1736493020,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 403373,
       "num": 403373,
       "word": "洛杉矶富人区被山火席卷",
@@ -385,6 +401,14 @@
       "onboard_time": 1736490679,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 386475,
+      "num": 386475,
+      "word": "王子说鬼鬼的孩子不是他的",
+      "onboard_time": 1736491939,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 382660,
@@ -417,6 +441,14 @@
       "onboard_time": 1736479220,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 373055,
+      "num": 373055,
+      "word": "浙江省考成绩",
+      "onboard_time": 1736493799,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 365029,
@@ -523,14 +555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 297888,
-      "num": 297888,
-      "word": "拜登疑在卡特葬礼上睡着",
-      "onboard_time": 1736492000,
-      "rank": 16,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 297111,
       "num": 311613,
       "word": "网剧夺娶定档",
@@ -587,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 256298,
+      "num": 256298,
+      "word": "娜然 短发撕漫女",
+      "onboard_time": 1736492779,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254847,
       "num": 254847,
       "word": "从太空看洛杉矶山火",
@@ -595,20 +627,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 253997,
-      "num": 253997,
-      "word": "王子说鬼鬼的孩子不是他的",
-      "onboard_time": 1736491939,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 251841,
       "num": 251841,
       "word": "选李现演蒋长扬的人简直是天才",
       "onboard_time": 1736485642,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 251654,
+      "num": 251654,
+      "word": "逆水寒",
+      "onboard_time": 1736492779,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 249625,
@@ -691,12 +723,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 219965,
-      "num": 219965,
-      "word": "逆水寒",
-      "onboard_time": 1736492779,
-      "rank": 28,
-      "category": "游戏"
+      "raw_hot": 220687,
+      "num": 220687,
+      "word": "4年级试卷太难学校称卷子特别怪",
+      "onboard_time": 1736493981,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 217311,
@@ -731,20 +763,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207990,
+      "num": 207990,
+      "word": "张杰我们还要在一起很多年",
+      "onboard_time": 1736493799,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 203155,
       "num": 203155,
       "word": "王鹤棣和库里的全明星约定",
       "onboard_time": 1736477659,
       "rank": 22,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 200680,
-      "num": 200680,
-      "word": "娜然 短发撕漫女",
-      "onboard_time": 1736492779,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 197771,
@@ -769,14 +801,6 @@
       "onboard_time": 1736472378,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 195580,
-      "num": 250220,
-      "word": "祝绪丹画了微博之夜礼服",
-      "onboard_time": 1736493020,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 195399,
@@ -1043,6 +1067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 167456,
+      "num": 167456,
+      "word": "逆水寒手游",
+      "onboard_time": 1736494039,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 166253,
       "num": 166253,
       "word": "这不是游戏这是真实英雄的日常",
@@ -1115,6 +1147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159981,
+      "num": 159981,
+      "word": "王俊凯 别催在听了",
+      "onboard_time": 1736493681,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 159462,
       "num": 159462,
       "word": "王楚钦说冬训练得踏实专注",
@@ -1145,6 +1185,14 @@
       "onboard_time": 1736493200,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 156945,
+      "num": 156945,
+      "word": "留几手长文",
+      "onboard_time": 1736494280,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 156931,
@@ -1283,6 +1331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 138284,
+      "num": 138284,
+      "word": "吉林文旅局称系自媒体流露重庆游客",
+      "onboard_time": 1736493619,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137662,
       "num": 137662,
       "word": "林孝埈时尚芭莎亚冬会封面大片",
@@ -1355,6 +1411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 131391,
+      "num": 131391,
+      "word": "分手后你还会给前任写情书吗",
+      "onboard_time": 1736494039,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130580,
       "num": 130580,
       "word": "湘潭大学宿舍投毒案公诉机关建议死刑",
@@ -1419,14 +1483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123649,
-      "num": 123649,
-      "word": "吉林文旅局称系自媒体流露重庆游客",
-      "onboard_time": 1736493619,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 122140,
       "num": 341041,
       "word": "民警江中追击犯人把船开到树上",
@@ -1451,12 +1507,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 120056,
-      "num": 120056,
-      "word": "王俊凯 别催在听了",
-      "onboard_time": 1736493681,
-      "rank": 49,
-      "category": "电影"
+      "raw_hot": 119770,
+      "num": 121350,
+      "word": "王鹤棣预言自己是女儿奴",
+      "onboard_time": 1736494458,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 118493,
@@ -1585,6 +1641,14 @@
       "onboard_time": 1736470760,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 95639,
+      "num": 257845,
+      "word": "多地将人工客服列为急需人才",
+      "onboard_time": 1736493918,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93744,
@@ -1731,6 +1795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59710,
+      "num": 392405,
+      "word": "消防栓无水美国消防员提包灭火",
+      "onboard_time": 1736493681,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 59102,
       "num": 70740,
       "word": "南京大屠杀幸存者艾义英奶奶走了",
@@ -1819,6 +1891,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 43410,
+      "num": 1061040,
+      "word": "非遗贺新春",
+      "onboard_time": 1736493260,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 40517,
       "num": 220195,
       "word": "HPV预防从小重视",
@@ -1865,14 +1945,6 @@
       "onboard_time": 1736458692,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34184,
-      "num": 338048,
-      "word": "消防栓无水美国消防员提包灭火",
-      "onboard_time": 1736493681,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 32912,
@@ -2051,14 +2123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 19284,
-      "num": 1061040,
-      "word": "非遗贺新春",
-      "onboard_time": 1736493260,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 16816,
       "num": 167819,
       "word": "肖战2024微博之夜安全倡议书",
@@ -2121,6 +2185,14 @@
       "onboard_time": 1736446513,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 5039,
+      "num": 120668,
+      "word": "淘宝送礼",
+      "onboard_time": 1736494458,
+      "rank": 48,
+      "category": "互联网"
     }
   ],
   "hotgov_list": [

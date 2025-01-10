@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736493700210,
+  "endTime": 1736494522933,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -2283,6 +2283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1048044,
+      "num": 1048044,
+      "word": "鲁GT8586你真帅",
+      "onboard_time": 1736490439,
+      "rank": 39,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 1045977,
       "num": 1045977,
       "word": "辛雨锡起诉秦霄贤姐姐",
@@ -2323,14 +2331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1035389,
-      "num": 1035389,
-      "word": "鲁GT8586你真帅",
-      "onboard_time": 1736490439,
-      "rank": 39,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 1031623,
       "num": 720315,
       "word": "微博之夜最后一波阵容",
@@ -2345,6 +2345,14 @@
       "onboard_time": 1736401821,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1018316,
+      "num": 1018316,
+      "word": "教育局回应4年级数学期末试卷太难",
+      "onboard_time": 1736490200,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1017412,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736046811,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1004763,
-      "num": 1004763,
-      "word": "国考",
-      "onboard_time": 1736078126,
-      "rank": 1,
-      "category": "教育"
     }
   ],
   "hotgov_list": [
