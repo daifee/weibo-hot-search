@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736518871302,
+  "endTime": 1736519987121,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1523,6 +1523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1405808,
+      "num": 1405808,
+      "word": "郭敬明删博了",
+      "onboard_time": 1736516663,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1396034,
       "num": 1396034,
       "word": "特朗普不满宣誓就职时美国降半旗",
@@ -2417,14 +2425,6 @@
       "onboard_time": 1736425701,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1037942,
-      "num": 1037942,
-      "word": "郭敬明删博了",
-      "onboard_time": 1736516663,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1031623,
@@ -4068,7 +4068,7 @@
     },
     {
       "raw_hot": 704040,
-      "num": 276987,
+      "num": 330906,
       "word": "黄圣依一清醒事业就吻上来了",
       "onboard_time": 1736517623,
       "rank": 20,
@@ -4241,6 +4241,14 @@
       "onboard_time": 1736345363,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 680522,
+      "num": 353147,
+      "word": "贤圭 新女友",
+      "onboard_time": 1736518763,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 680435,
@@ -6715,19 +6723,19 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 445369,
+      "num": 324336,
+      "word": "黄子韬送车官方售价10.98万起",
+      "onboard_time": 1736514984,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 445225,
       "num": 445225,
       "word": "绑架星星的老板为广东籍",
       "onboard_time": 1736338221,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 445149,
-      "num": 276663,
-      "word": "黄子韬送车官方售价10.98万起",
-      "onboard_time": 1736514984,
-      "rank": 37,
       "category": "艺人"
     },
     {
@@ -7033,6 +7041,14 @@
       "onboard_time": 1735947855,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 425986,
+      "num": 425986,
+      "word": "父亲跨省找到儿子生前影像哽咽不止",
+      "onboard_time": 1736517443,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 425762,
@@ -8401,6 +8417,14 @@
       "onboard_time": 1735743262,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 356313,
+      "num": 356313,
+      "word": "aespa跳初智齿",
+      "onboard_time": 1736518643,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 355718,
@@ -10235,14 +10259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 290482,
-      "num": 290482,
-      "word": "父亲跨省找到儿子生前影像哽咽不止",
-      "onboard_time": 1736517443,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 290450,
       "num": 290450,
       "word": "樊振东MLB中国区冠军荣耀大使",
@@ -10617,14 +10633,6 @@
       "onboard_time": 1736088510,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 278360,
-      "num": 278360,
-      "word": "aespa跳初智齿",
-      "onboard_time": 1736518643,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 278305,
@@ -12619,6 +12627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230744,
+      "num": 230744,
+      "word": "敖瑞鹏 内娱百里玄策",
+      "onboard_time": 1736518343,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 230697,
       "num": 230697,
       "word": "东部战区发布MV中国人",
@@ -13571,6 +13587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215223,
+      "num": 307907,
+      "word": "微博之夜节目单",
+      "onboard_time": 1736519842,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 215194,
       "num": 215194,
       "word": "国色芳华定档",
@@ -14259,6 +14283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206089,
+      "num": 206089,
+      "word": "肥娟直播间5分钟收9万嘉年华",
+      "onboard_time": 1736519542,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 206082,
       "num": 325642,
       "word": "19岁女大学生深夜失踪8天未归",
@@ -14801,6 +14833,14 @@
       "onboard_time": 1736508680,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201608,
+      "num": 201608,
+      "word": "宁夏地震",
+      "onboard_time": 1736519783,
+      "rank": 35,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 201594,
@@ -16963,6 +17003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182319,
+      "num": 182319,
+      "word": "王鹤棣兜帽人生镜头",
+      "onboard_time": 1736519123,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182159,
       "num": 200736,
       "word": "山东鲁能队夺冠",
@@ -17819,6 +17867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173421,
+      "num": 355769,
+      "word": "四大家族犯罪集团案件已经陆续进入诉讼环节",
+      "onboard_time": 1736519003,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173413,
       "num": 173413,
       "word": "薛之谦刘维黄子弘凡跳troublemaker",
@@ -18355,14 +18411,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 168899,
-      "num": 168899,
-      "word": "敖瑞鹏 内娱百里玄策",
-      "onboard_time": 1736518343,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 168845,
       "num": 296692,
       "word": "张若昀把人生的真心给了范闲",
@@ -18649,14 +18697,6 @@
       "onboard_time": 1735822460,
       "rank": 41,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 166844,
-      "num": 166844,
-      "word": "贤圭 新女友",
-      "onboard_time": 1736518763,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 166782,
@@ -19025,6 +19065,14 @@
       "onboard_time": 1736342663,
       "rank": 18,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 163778,
+      "num": 163778,
+      "word": "医生提醒抠疤痕习惯暗藏风险",
+      "onboard_time": 1736519542,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 163769,
@@ -23163,6 +23211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129301,
+      "num": 170837,
+      "word": "外交部驳斥中国出现不明病毒论调",
+      "onboard_time": 1736519723,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 129152,
       "num": 129152,
       "word": "A股探底回升放量1663亿",
@@ -26827,6 +26883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86248,
+      "num": 341789,
+      "word": "封神片尾万人名单含金量还在上升",
+      "onboard_time": 1736519363,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 86066,
       "num": 370238,
       "word": "泰警方称已找到接走王星的司机",
@@ -29123,6 +29187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51835,
+      "num": 245690,
+      "word": "拒绝HPV焦虑",
+      "onboard_time": 1736517983,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 51779,
       "num": 145559,
       "word": "ITTF称陈梦重新定义女子乒乓球",
@@ -31212,7 +31284,7 @@
     },
     {
       "raw_hot": 31107,
-      "num": 895513,
+      "num": 916375,
       "word": "热血忠诚守护万家灯火",
       "onboard_time": 1736515104,
       "rank": 2,
@@ -31409,6 +31481,14 @@
       "onboard_time": 1736185455,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 30062,
+      "num": 336613,
+      "word": "麦琳好友晒聊天记录",
+      "onboard_time": 1736519363,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 30044,
@@ -32299,14 +32379,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21841,
-      "num": 245690,
-      "word": "拒绝HPV焦虑",
-      "onboard_time": 1736517983,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 21839,
       "num": 39208,
       "word": "华晨宇专辑封面",
@@ -32435,6 +32507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 20913,
+      "num": 247132,
+      "word": "胡祥雨5年让730个家庭团圆",
+      "onboard_time": 1736518105,
+      "rank": 28,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 20811,
       "num": 155856,
       "word": "王俊凯幸运buff",
@@ -32505,14 +32585,6 @@
       "onboard_time": 1736279770,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20253,
-      "num": 247132,
-      "word": "胡祥雨5年让730个家庭团圆",
-      "onboard_time": 1736518105,
-      "rank": 28,
-      "category": "正能量"
     },
     {
       "raw_hot": 20194,

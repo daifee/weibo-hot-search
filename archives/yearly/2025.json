@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736518871302,
+  "endTime": 1736519987121,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1523,6 +1523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1405808,
+      "num": 1405808,
+      "word": "郭敬明删博了",
+      "onboard_time": 1736516663,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1396034,
       "num": 1396034,
       "word": "特朗普不满宣誓就职时美国降半旗",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735824260,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1045322,
-      "num": 675528,
-      "word": "吴敬平晒与樊振东聊天记录",
-      "onboard_time": 1735974500,
-      "rank": 33,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
