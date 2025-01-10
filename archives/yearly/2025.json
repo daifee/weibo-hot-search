@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736483209024,
+  "endTime": 1736484047393,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1659,6 +1659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1297048,
+      "num": 1297048,
+      "word": "央视蛇年春晚第二次联排",
+      "onboard_time": 1736482041,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1287904,
       "num": 574604,
       "word": "丁禹兮王鹤棣同框",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735907359,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 992975,
-      "num": 992975,
-      "word": "国色芳华白月梵星首播数据",
-      "onboard_time": 1736306062,
-      "rank": 9,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [

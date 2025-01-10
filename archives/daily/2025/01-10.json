@@ -1,6 +1,6 @@
 {
   "startTime": 1736440116531,
-  "endTime": 1736483209024,
+  "endTime": 1736484047393,
   "band_list": [
     {
       "raw_hot": 4127605,
@@ -51,6 +51,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1297048,
+      "num": 1297048,
+      "word": "央视蛇年春晚第二次联排",
+      "onboard_time": 1736482041,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1082335,
       "num": 1082335,
       "word": "间谍在浙江拍照没想到一路被监控",
@@ -91,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 793977,
+      "num": 793977,
+      "word": "中国香港女孩揭露韩国邪教恶行",
+      "onboard_time": 1736482820,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 768726,
       "num": 768726,
       "word": "2人幼儿园时假扮夫妻20年后真结婚了",
@@ -115,12 +131,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 641323,
+      "num": 302119,
+      "word": "女婴掉粪坑父母不救案细节披露",
+      "onboard_time": 1736480301,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 635646,
-      "num": 426202,
+      "num": 527865,
       "word": "鬼鬼结婚了吗",
       "onboard_time": 1736480541,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 630059,
+      "num": 630059,
+      "word": "公交司机晕倒4个少年救了全车人",
+      "onboard_time": 1736475618,
+      "rank": 20,
+      "category": "正能量"
     },
     {
       "raw_hot": 627197,
@@ -131,22 +163,6 @@
       "category": "美食,民生新闻"
     },
     {
-      "raw_hot": 625976,
-      "num": 625976,
-      "word": "公交司机晕倒4个少年救了全车人",
-      "onboard_time": 1736475618,
-      "rank": 20,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 596096,
-      "num": 302119,
-      "word": "女婴掉粪坑父母不救案细节披露",
-      "onboard_time": 1736480301,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 565747,
       "num": 565747,
       "word": "特朗普要求加州州长就山火失控辞职",
@@ -155,20 +171,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 546556,
-      "num": 546556,
-      "word": "央视蛇年春晚第二次联排",
-      "onboard_time": 1736482041,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 531031,
       "num": 531031,
       "word": "广州花地湾地铁站外形引争议4人被处罚",
       "onboard_time": 1736467521,
       "rank": 7,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 526246,
+      "num": 526246,
+      "word": "洛杉矶大火",
+      "onboard_time": 1736481620,
+      "rank": 8,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 520639,
@@ -203,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 492319,
+      "num": 530869,
+      "word": "SM员工说不要相信艺人说的话",
+      "onboard_time": 1736482220,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 466636,
       "num": 466636,
       "word": "微博之夜名场面又要来了",
@@ -217,14 +241,6 @@
       "onboard_time": 1736429123,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 439938,
-      "num": 439938,
-      "word": "洛杉矶大火",
-      "onboard_time": 1736481620,
-      "rank": 8,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 431248,
@@ -243,11 +259,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 427015,
+      "num": 427015,
+      "word": "王子恭喜鬼鬼",
+      "onboard_time": 1736482220,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 425186,
       "num": 425186,
       "word": "说了20分钟对方不上当骗子气到大叫",
       "onboard_time": 1736437580,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 382660,
+      "num": 529717,
+      "word": "警察节",
+      "onboard_time": 1736468661,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -267,14 +299,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 377324,
-      "num": 377324,
-      "word": "王子恭喜鬼鬼",
-      "onboard_time": 1736482220,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 375622,
       "num": 249386,
       "word": "确认被爱后面相都变了",
@@ -283,28 +307,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 372205,
-      "num": 372205,
-      "word": "SM员工说不要相信艺人说的话",
-      "onboard_time": 1736482220,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 365029,
       "num": 365029,
       "word": "刘宇宁要去微博之夜领直播King奖杯",
       "onboard_time": 1736478619,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 358276,
-      "num": 358276,
-      "word": "中国香港女孩揭露韩国邪教恶行",
-      "onboard_time": 1736482820,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 333884,
@@ -371,12 +379,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 295563,
-      "num": 427449,
-      "word": "警察节",
-      "onboard_time": 1736468661,
-      "rank": 9,
+      "raw_hot": 297111,
+      "num": 311613,
+      "word": "网剧夺娶定档",
+      "onboard_time": 1736483721,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 276371,
+      "num": 377670,
+      "word": "别再人工催熟小孩哥小孩姐",
+      "onboard_time": 1736478559,
+      "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 269109,
+      "num": 269109,
+      "word": "小猫被电后撤回了撒娇",
+      "onboard_time": 1736482341,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 264612,
@@ -433,14 +457,6 @@
       "onboard_time": 1736425943,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 232882,
-      "num": 184221,
-      "word": "小猫被电后撤回了撒娇",
-      "onboard_time": 1736482341,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 231481,
@@ -515,12 +531,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 191250,
+      "num": 216737,
+      "word": "国色芳华云合第二",
+      "onboard_time": 1736479160,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191004,
       "num": 191004,
       "word": "俄罗斯姑娘打假上海俄罗斯商品馆",
       "onboard_time": 1736455091,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189155,
+      "num": 204731,
+      "word": "丁禹兮蛇年央视春晚第二次联排",
+      "onboard_time": 1736483781,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 186368,
+      "num": 290662,
+      "word": "微博之夜大热cp",
+      "onboard_time": 1736483421,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 185859,
@@ -545,6 +585,22 @@
       "onboard_time": 1736424082,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 182010,
+      "num": 190926,
+      "word": "华晨宇分享图片",
+      "onboard_time": 1736482883,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 179311,
+      "num": 179311,
+      "word": "刘国梁冬训发言",
+      "onboard_time": 1736481801,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 177996,
@@ -603,12 +659,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 174417,
+      "num": 174417,
+      "word": "樊振东任何体育比赛都看",
+      "onboard_time": 1736480000,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171463,
       "num": 171463,
       "word": "纯元CP",
       "onboard_time": 1736436262,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169346,
+      "num": 169346,
+      "word": "行政审批服务中心没人上班消息不实",
+      "onboard_time": 1736483542,
+      "rank": 37,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 168409,
@@ -635,8 +707,8 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 164105,
-      "num": 164105,
+      "raw_hot": 165577,
+      "num": 165577,
       "word": "男子因同名房产遭乌龙法拍",
       "onboard_time": 1736478921,
       "rank": 48,
@@ -667,6 +739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161806,
+      "num": 161806,
+      "word": "穿越时空的少女羽生结弦严选",
+      "onboard_time": 1736483662,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 159462,
       "num": 159462,
       "word": "王楚钦说冬训练得踏实专注",
@@ -675,20 +755,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158980,
-      "num": 377670,
-      "word": "别再人工催熟小孩哥小孩姐",
-      "onboard_time": 1736478559,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 158027,
       "num": 158027,
       "word": "警犬幺幺零1岁了",
       "onboard_time": 1736467157,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156931,
+      "num": 156931,
+      "word": "12306回应4天3崩",
+      "onboard_time": 1736483181,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 156794,
@@ -707,14 +787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155575,
-      "num": 179777,
-      "word": "国色芳华云合第二",
-      "onboard_time": 1736479160,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 155494,
       "num": 155494,
       "word": "国色芳华 昼夜转场",
@@ -729,14 +801,6 @@
       "onboard_time": 1736431643,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 148740,
-      "num": 148740,
-      "word": "刘国梁冬训发言",
-      "onboard_time": 1736481801,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 147156,
@@ -777,14 +841,6 @@
       "onboard_time": 1736437162,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140333,
-      "num": 140333,
-      "word": "樊振东任何体育比赛都看",
-      "onboard_time": 1736480000,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 139436,
@@ -851,28 +907,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 127042,
-      "num": 190926,
-      "word": "华晨宇分享图片",
-      "onboard_time": 1736482883,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 126118,
       "num": 126118,
       "word": "美国加州山火为何这么猛",
       "onboard_time": 1736468420,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124136,
-      "num": 124136,
-      "word": "12306回应4天3崩",
-      "onboard_time": 1736483181,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 121197,
@@ -1171,6 +1211,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 49673,
+      "num": 376643,
+      "word": "洛杉矶富人区被山火席卷",
+      "onboard_time": 1736483962,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 49584,
       "num": 193260,
       "word": "加州州长回应特朗普涉山火问题指责",
@@ -1211,12 +1259,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 36131,
+      "num": 184373,
+      "word": "多能多面黄景瑜",
+      "onboard_time": 1736482220,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35263,
       "num": 35263,
       "word": "湘潭大学宿舍投毒案细节公开",
       "onboard_time": 1736458692,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32912,
+      "num": 161439,
+      "word": "年夜饭哪道菜必不可少",
+      "onboard_time": 1736480301,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 32053,
@@ -1251,14 +1315,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 30957,
-      "num": 157575,
-      "word": "年夜饭哪道菜必不可少",
-      "onboard_time": 1736480301,
-      "rank": 41,
-      "category": "美食"
-    },
-    {
       "raw_hot": 30178,
       "num": 178306,
       "word": "周深和记者对暗号主打已读乱回",
@@ -1281,6 +1337,14 @@
       "onboard_time": 1736464756,
       "rank": 18,
       "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 28007,
+      "num": 202691,
+      "word": "多名嫌犯在加州山火疏散区实施抢劫被捕",
+      "onboard_time": 1736483662,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 28001,
@@ -1307,12 +1371,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 23112,
-      "num": 184373,
-      "word": "多能多面黄景瑜",
-      "onboard_time": 1736482220,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 22474,
+      "num": 166432,
+      "word": "接种HPV疫苗安全吗",
+      "onboard_time": 1736481801,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21839,
@@ -1345,14 +1409,6 @@
       "onboard_time": 1736447772,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 17209,
-      "num": 157099,
-      "word": "接种HPV疫苗安全吗",
-      "onboard_time": 1736481801,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16816,
@@ -1409,6 +1465,14 @@
       "onboard_time": 1736437280,
       "rank": 28,
       "category": "作品衍生,体育"
+    },
+    {
+      "raw_hot": 5814,
+      "num": 161281,
+      "word": "男性感染HPV有什么后果",
+      "onboard_time": 1736483662,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 5109,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1736484047393,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1297048,
+        "num": 1297048,
+        "word": "央视蛇年春晚第二次联排",
+        "onboard_time": 1736482041,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2037774,
+        "num": 1211788,
+        "word": "地铁口被指像棺材4人被处理",
+        "onboard_time": 1736477358,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40913,
+        "num": 892817,
+        "word": "用心用情守望互助我们定能渡过难关",
+        "onboard_time": 1736477119,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 793977,
+        "num": 793977,
+        "word": "中国香港女孩揭露韩国邪教恶行",
+        "onboard_time": 1736482820,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 676150,
+        "num": 676150,
+        "word": "男子狱中苦读24年获博士学位",
+        "onboard_time": 1736477119,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 630059,
+        "num": 630059,
+        "word": "公交司机晕倒4个少年救了全车人",
+        "onboard_time": 1736475618,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 533814,
+        "num": 533814,
+        "word": "间谍在浙江拍照没想到一路被监控",
+        "onboard_time": 1736474239,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1520463,
+        "num": 533682,
+        "word": "雷军 小米YU7",
+        "onboard_time": 1736475198,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 492319,
+        "num": 530869,
+        "word": "SM员工说不要相信艺人说的话",
+        "onboard_time": 1736482220,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382660,
+        "num": 529717,
+        "word": "警察节",
+        "onboard_time": 1736468661,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 605784,
+        "num": 527865,
+        "word": "鬼鬼结婚了吗",
+        "onboard_time": 1736480541,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 526246,
+        "num": 526246,
+        "word": "洛杉矶大火",
+        "onboard_time": 1736481620,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 427015,
+        "num": 427015,
+        "word": "王子恭喜鬼鬼",
+        "onboard_time": 1736482220,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386504,
+        "num": 386504,
+        "word": "洛杉矶华人以为误入末日",
+        "onboard_time": 1736448793,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 49673,
+        "num": 376643,
+        "word": "洛杉矶富人区被山火席卷",
+        "onboard_time": 1736483962,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 369410,
+        "num": 369410,
+        "word": "特斯拉Model Y",
+        "onboard_time": 1736472619,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 297111,
+        "num": 311613,
+        "word": "网剧夺娶定档",
+        "onboard_time": 1736483721,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290551,
+        "num": 308592,
+        "word": "封神第二部从零建造西岐城",
+        "onboard_time": 1736479401,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 307536,
+        "num": 307536,
+        "word": "卡特葬礼上美国前总统上演修罗场",
+        "onboard_time": 1736472979,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 186368,
+        "num": 290662,
+        "word": "微博之夜大热cp",
+        "onboard_time": 1736483421,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1326867,
+        "num": 288587,
+        "word": "麦琳回门宴瘦了好多",
+        "onboard_time": 1736472738,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 641323,
+        "num": 287008,
+        "word": "女婴掉粪坑父母不救案细节披露",
+        "onboard_time": 1736480301,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276371,
+        "num": 276371,
+        "word": "别再人工催熟小孩哥小孩姐",
+        "onboard_time": 1736478559,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269109,
+        "num": 269109,
+        "word": "小猫被电后撤回了撒娇",
+        "onboard_time": 1736482341,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243918,
+        "num": 243918,
+        "word": "加州山火致130只宠物流离失所",
+        "onboard_time": 1736481201,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 189831,
+        "num": 218273,
+        "word": "刘宇宁要去微博之夜领直播King奖杯",
+        "onboard_time": 1736478619,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191250,
+        "num": 216737,
+        "word": "国色芳华云合第二",
+        "onboard_time": 1736479160,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215475,
+        "num": 215475,
+        "word": "确认被爱后面相都变了",
+        "onboard_time": 1736479220,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189155,
+        "num": 204731,
+        "word": "丁禹兮蛇年央视春晚第二次联排",
+        "onboard_time": 1736483781,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28007,
+        "num": 202691,
+        "word": "多名嫌犯在加州山火疏散区实施抢劫被捕",
+        "onboard_time": 1736483662,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 202467,
+        "num": 202467,
+        "word": "王鹤棣帮库里全明星拉票",
+        "onboard_time": 1736481561,
+        "rank": 30,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 182010,
+        "num": 182010,
+        "word": "华晨宇分享图片",
+        "onboard_time": 1736482883,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181720,
+        "num": 181720,
+        "word": "入青云",
+        "onboard_time": 1736477899,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180925,
+        "num": 180925,
+        "word": "白鹿857857",
+        "onboard_time": 1736464816,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36131,
+        "num": 179489,
+        "word": "多能多面黄景瑜",
+        "onboard_time": 1736482220,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179311,
+        "num": 179311,
+        "word": "刘国梁冬训发言",
+        "onboard_time": 1736481801,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174417,
+        "num": 174417,
+        "word": "樊振东任何体育比赛都看",
+        "onboard_time": 1736480000,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169346,
+        "num": 169346,
+        "word": "行政审批服务中心没人上班消息不实",
+        "onboard_time": 1736483542,
+        "rank": 37,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 22474,
+        "num": 166432,
+        "word": "接种HPV疫苗安全吗",
+        "onboard_time": 1736481801,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2971242,
+        "num": 166381,
+        "word": "鬼鬼当妈",
+        "onboard_time": 1736477600,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165987,
+        "num": 165987,
+        "word": "美国山火可能遭遇魔鬼风",
+        "onboard_time": 1736475618,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 165577,
+        "num": 165577,
+        "word": "男子因同名房产遭乌龙法拍",
+        "onboard_time": 1736478921,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 161806,
+        "num": 161806,
+        "word": "穿越时空的少女羽生结弦严选",
+        "onboard_time": 1736483662,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 32912,
+        "num": 161439,
+        "word": "年夜饭哪道菜必不可少",
+        "onboard_time": 1736480301,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 5814,
+        "num": 161281,
+        "word": "男性感染HPV有什么后果",
+        "onboard_time": 1736483662,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 161124,
+        "num": 161124,
+        "word": "茅台冰淇淋闭店停产三折清仓",
+        "onboard_time": 1736466919,
+        "rank": 45,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 156931,
+        "num": 156931,
+        "word": "12306回应4天3崩",
+        "onboard_time": 1736483181,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 155011,
+        "num": 155011,
+        "word": "2人幼儿园时假扮夫妻20年后真结婚了",
+        "onboard_time": 1736440937,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154160,
+        "num": 154160,
+        "word": "特斯拉焕新ModelY26.35万",
+        "onboard_time": 1736473878,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 147621,
+        "num": 147621,
+        "word": "李昀锐超经意的一瞥",
+        "onboard_time": 1736478982,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央政治局常委会召开会议#"
+    }
+  }
+}
