@@ -1,6 +1,6 @@
 {
   "startTime": 1736440116531,
-  "endTime": 1736516260929,
+  "endTime": 1736518871302,
   "band_list": [
     {
       "raw_hot": 9076991,
@@ -203,6 +203,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 1037942,
+      "num": 1037942,
+      "word": "郭敬明删博了",
+      "onboard_time": 1736516663,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1018316,
       "num": 1018316,
       "word": "教育局回应4年级数学期末试卷太难",
@@ -377,6 +385,14 @@
       "onboard_time": 1736430444,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 704040,
+      "num": 276987,
+      "word": "黄圣依一清醒事业就吻上来了",
+      "onboard_time": 1736517623,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 688503,
@@ -579,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 487765,
+      "num": 439945,
+      "word": "泰州一女子取下全部头皮救父亲",
+      "onboard_time": 1736513361,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 482147,
       "num": 398548,
       "word": "陈奕迅称观众朋友的安全至上",
@@ -611,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 445149,
+      "num": 276663,
+      "word": "黄子韬送车官方售价10.98万起",
+      "onboard_time": 1736514984,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 444563,
       "num": 444563,
       "word": "春晚联排",
@@ -633,14 +665,6 @@
       "onboard_time": 1736499979,
       "rank": 9,
       "category": "民生新闻,体育"
-    },
-    {
-      "raw_hot": 439945,
-      "num": 439945,
-      "word": "泰州一女子取下全部头皮救父亲",
-      "onboard_time": 1736513361,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 434924,
@@ -979,6 +1003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 290482,
+      "num": 290482,
+      "word": "父亲跨省找到儿子生前影像哽咽不止",
+      "onboard_time": 1736517443,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 283427,
       "num": 283427,
       "word": "夏以昼抵达梦境边缘",
@@ -1003,20 +1035,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 278360,
+      "num": 278360,
+      "word": "aespa跳初智齿",
+      "onboard_time": 1736518643,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 276938,
       "num": 276938,
       "word": "微博之夜6个直播流",
       "onboard_time": 1736502799,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 276663,
-      "num": 276663,
-      "word": "黄子韬送车官方售价10.98万起",
-      "onboard_time": 1736514984,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 276371,
@@ -1033,6 +1065,14 @@
       "onboard_time": 1736515523,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274076,
+      "num": 274076,
+      "word": "断食减肥时身体的变化",
+      "onboard_time": 1736513782,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 274054,
@@ -1065,6 +1105,14 @@
       "onboard_time": 1736503700,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 271882,
+      "num": 271882,
+      "word": "国色芳华 哈气",
+      "onboard_time": 1736517325,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 269970,
@@ -1105,14 +1153,6 @@
       "onboard_time": 1736471060,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 258593,
-      "num": 258593,
-      "word": "断食减肥时身体的变化",
-      "onboard_time": 1736513782,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 257863,
@@ -1241,6 +1281,14 @@
       "onboard_time": 1736501539,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 237282,
+      "num": 237282,
+      "word": "央行暂停买入国债意味什么",
+      "onboard_time": 1736512762,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 232270,
@@ -1409,6 +1457,14 @@
       "onboard_time": 1736514984,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206483,
+      "num": 206483,
+      "word": "非农",
+      "onboard_time": 1736517983,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 204160,
@@ -1659,6 +1715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181001,
+      "num": 181001,
+      "word": "丁禹兮现代装",
+      "onboard_time": 1736517024,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179311,
       "num": 179311,
       "word": "刘国梁冬训发言",
@@ -1803,6 +1867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168899,
+      "num": 168899,
+      "word": "敖瑞鹏 内娱百里玄策",
+      "onboard_time": 1736518343,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168409,
       "num": 168409,
       "word": "中国高铁车厢里全是老外",
@@ -1841,6 +1913,14 @@
       "onboard_time": 1736494039,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 166844,
+      "num": 166844,
+      "word": "贤圭 新女友",
+      "onboard_time": 1736518763,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 166699,
@@ -1905,14 +1985,6 @@
       "onboard_time": 1736500699,
       "rank": 40,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 163053,
-      "num": 163053,
-      "word": "央行暂停买入国债意味什么",
-      "onboard_time": 1736512762,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 162931,
@@ -2019,6 +2091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157723,
+      "num": 157723,
+      "word": "王一珩被爸妈当面撒狗粮",
+      "onboard_time": 1736517202,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157375,
       "num": 157375,
       "word": "谁说这刺猬幼稚这刺猬可太帅了",
@@ -2036,7 +2116,7 @@
     },
     {
       "raw_hot": 156890,
-      "num": 156890,
+      "num": 300301,
       "word": "救援民警在震区继续开展救援善后工作",
       "onboard_time": 1736512881,
       "rank": 48,
@@ -2123,6 +2203,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 150376,
+      "num": 150376,
+      "word": "这就是中国人的一方有难八方支援",
+      "onboard_time": 1736516243,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149659,
       "num": 149659,
       "word": "云合",
@@ -2137,6 +2225,14 @@
       "onboard_time": 1736514203,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 147610,
+      "num": 147610,
+      "word": "李现还等什么呢转场",
+      "onboard_time": 1736516544,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 147156,
@@ -2971,6 +3067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51749,
+      "num": 277965,
+      "word": "期待微博之夜交换礼物",
+      "onboard_time": 1736518224,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 51088,
       "num": 160330,
       "word": "孙颖莎拍摄间歇都想练球",
@@ -3347,6 +3451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 25860,
+      "num": 274290,
+      "word": "2024国游销量榜",
+      "onboard_time": 1736517684,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 25674,
       "num": 235726,
       "word": "盛李豪被授予全国五一劳动奖章",
@@ -3395,6 +3507,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 21841,
+      "num": 245690,
+      "word": "拒绝HPV焦虑",
+      "onboard_time": 1736517983,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 21839,
       "num": 39208,
       "word": "华晨宇专辑封面",
@@ -3425,6 +3545,14 @@
       "onboard_time": 1736503999,
       "rank": 27,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 20253,
+      "num": 247132,
+      "word": "胡祥雨5年让730个家庭团圆",
+      "onboard_time": 1736518105,
+      "rank": 28,
+      "category": "正能量"
     },
     {
       "raw_hot": 19782,
@@ -3578,6 +3706,9 @@
     },
     {
       "word": "#履行好打击犯罪保护人民的职责#"
+    },
+    {
+      "word": "#总书记对人民警察队伍的嘱托#"
     }
   ]
 }
