@@ -1,0 +1,411 @@
+{
+  "startTime": 1736526528002,
+  "endTime": 1736526528002,
+  "band_list": [
+    {
+      "raw_hot": 947995,
+      "num": 947995,
+      "word": "麦琳好友晒聊天记录",
+      "onboard_time": 1736519363,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 805551,
+      "num": 616608,
+      "word": "微博之夜节目单",
+      "onboard_time": 1736519842,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 749623,
+      "num": 320147,
+      "word": "海恩贤圭 分手",
+      "onboard_time": 1736512521,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 671710,
+      "num": 671710,
+      "word": "桃黑黑异地登录",
+      "onboard_time": 1736522542,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 594846,
+      "num": 594846,
+      "word": "特朗普被法院无条件释放",
+      "onboard_time": 1736522903,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 580050,
+      "num": 580050,
+      "word": "李现演技",
+      "onboard_time": 1736523022,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 492092,
+      "num": 492092,
+      "word": "郭敬明删博了",
+      "onboard_time": 1736516663,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 430732,
+      "num": 311880,
+      "word": "陈奕迅泰国演唱会取消",
+      "onboard_time": 1736502681,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 418604,
+      "num": 309523,
+      "word": "贤圭 新女友",
+      "onboard_time": 1736518763,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 416477,
+      "num": 583466,
+      "word": "山西临汾地震",
+      "onboard_time": 1736513302,
+      "rank": 5,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 392129,
+      "num": 392129,
+      "word": "顾时夜 夏以昼",
+      "onboard_time": 1736521403,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 367041,
+      "num": 304503,
+      "word": "迪丽热巴陈飞宇桃花吻路透",
+      "onboard_time": 1736521342,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 362703,
+      "num": 298949,
+      "word": "留几手回应离婚",
+      "onboard_time": 1736511260,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 325858,
+      "num": 219903,
+      "word": "79岁大爷丧偶十多年感染艾滋病",
+      "onboard_time": 1736522121,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 320362,
+      "num": 320362,
+      "word": "加州山火被曝灭火率为0",
+      "onboard_time": 1736505680,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 300328,
+      "num": 300328,
+      "word": "女生确诊渐冻症一年容貌巨变",
+      "onboard_time": 1736496921,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 288362,
+      "num": 219763,
+      "word": "28岁未婚花8千元请男保姆的生活",
+      "onboard_time": 1736521642,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 279808,
+      "num": 219665,
+      "word": "历届微博之夜KingQueen名单",
+      "onboard_time": 1736520023,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 273336,
+      "num": 219485,
+      "word": "迪丽热巴直播",
+      "onboard_time": 1736526258,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 265658,
+      "num": 265658,
+      "word": "父亲跨省找到儿子生前影像哽咽不止",
+      "onboard_time": 1736517443,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 255807,
+      "num": 219356,
+      "word": "黄圣依一清醒事业就吻上来了",
+      "onboard_time": 1736517623,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 255132,
+      "num": 255132,
+      "word": "公安部将坚决摧毁境外诈骗窝点",
+      "onboard_time": 1736507660,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 237341,
+      "num": 237341,
+      "word": "外交部驳斥中国出现不明病毒论调",
+      "onboard_time": 1736519723,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 220034,
+      "num": 220034,
+      "word": "孟子义李昀锐唱昭昭墨墨",
+      "onboard_time": 1736520744,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 219356,
+      "num": 219355,
+      "word": "长生花",
+      "onboard_time": 1736522602,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 208841,
+      "num": 208841,
+      "word": "黄圣依发文没有一句提杨子",
+      "onboard_time": 1736495480,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 193434,
+      "num": 193434,
+      "word": "大奉打更人热度",
+      "onboard_time": 1736521822,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 190075,
+      "num": 190075,
+      "word": "BAE173公司申报艺人失踪",
+      "onboard_time": 1736525419,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 185987,
+      "num": 185987,
+      "word": "祖龙起诉叠纸",
+      "onboard_time": 1736522062,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 180169,
+      "num": 180169,
+      "word": "韩国人在上海见识真正的继承者们",
+      "onboard_time": 1736502199,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 162841,
+      "num": 162841,
+      "word": "医生提醒抠疤痕习惯暗藏风险",
+      "onboard_time": 1736519542,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 150089,
+      "num": 150089,
+      "word": "夏以昼 哥哥回来了",
+      "onboard_time": 1736508799,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 144224,
+      "num": 144224,
+      "word": "杨子感谢了所有人除了黄圣依",
+      "onboard_time": 1736506640,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 143525,
+      "num": 143525,
+      "word": "李昀锐孟子义微博之夜将合唱",
+      "onboard_time": 1736525061,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 140400,
+      "num": 140400,
+      "word": "鞠婧祎新造型蓝色妖姬",
+      "onboard_time": 1736525660,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 137538,
+      "num": 137538,
+      "word": "泰州一女子取下全部头皮救父亲",
+      "onboard_time": 1736513361,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132714,
+      "num": 132714,
+      "word": "微博之夜时代峰峻三代都有节目",
+      "onboard_time": 1736524461,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 132478,
+      "num": 132478,
+      "word": "鬼鬼 我没有结婚",
+      "onboard_time": 1736484203,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 129649,
+      "num": 129649,
+      "word": "工资8千1年攒7万多男子被指啃老",
+      "onboard_time": 1736503700,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120473,
+      "num": 120473,
+      "word": "aespa跳初智齿",
+      "onboard_time": 1736518643,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 116736,
+      "num": 116736,
+      "word": "华晨宇 稍等睡过了洗个澡",
+      "onboard_time": 1736510299,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 116365,
+      "num": 116365,
+      "word": "雷军  Model Y也不错",
+      "onboard_time": 1736508378,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 104566,
+      "num": 104566,
+      "word": "丁禹兮张碧晨合作",
+      "onboard_time": 1736522242,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 104077,
+      "num": 104077,
+      "word": "国色芳华",
+      "onboard_time": 1736510481,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 101564,
+      "num": 101564,
+      "word": "黄子韬直播间960万人参与抽奖",
+      "onboard_time": 1736526439,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100363,
+      "num": 100363,
+      "word": "肥娟直播间5分钟收9万嘉年华",
+      "onboard_time": 1736519542,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95225,
+      "num": 95225,
+      "word": "洛杉矶日落大道被烧成废墟",
+      "onboard_time": 1736505981,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 61684,
+      "num": 219953,
+      "word": "金色盾牌守护万家灯火",
+      "onboard_time": 1736521522,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21885,
+      "num": 219616,
+      "word": "父亲从沪来闽只为寻觅儿子生前影像",
+      "onboard_time": 1736522182,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18709,
+      "num": 630581,
+      "word": "热血忠诚守护万家灯火",
+      "onboard_time": 1736515104,
+      "rank": 2,
+      "category": "民生新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#履行好打击犯罪保护人民的职责#"
+    }
+  ]
+}
