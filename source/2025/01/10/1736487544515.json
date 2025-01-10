@@ -1,0 +1,410 @@
+{
+  "runTime": 1736487544515,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1251282,
+        "num": 1251282,
+        "word": "中国香港女孩揭露韩国邪教恶行",
+        "onboard_time": 1736482820,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1420000,
+        "num": 1183278,
+        "word": "地铁口被指像棺材4人被处理",
+        "onboard_time": 1736477358,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36106,
+        "num": 995333,
+        "word": "用心用情守望互助我们定能渡过难关",
+        "onboard_time": 1736477119,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 907877,
+        "num": 907877,
+        "word": "行政审批服务中心没人上班消息不实",
+        "onboard_time": 1736483542,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 711261,
+        "num": 711261,
+        "word": "央视蛇年春晚第二次联排",
+        "onboard_time": 1736482041,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 704400,
+        "num": 704400,
+        "word": "留几手 葛夕",
+        "onboard_time": 1736486420,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 611840,
+        "num": 611840,
+        "word": "东风信 孟子义丁禹兮",
+        "onboard_time": 1736484203,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 556438,
+        "num": 556438,
+        "word": "蒋欣素颜彩排",
+        "onboard_time": 1736484262,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 555578,
+        "num": 555578,
+        "word": "洛杉矶大火",
+        "onboard_time": 1736481620,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 121963,
+        "num": 460901,
+        "word": "洛杉矶一商业街山火前后对比触目惊心",
+        "onboard_time": 1736486360,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 3102529,
+        "num": 447092,
+        "word": "鬼鬼 我没有结婚",
+        "onboard_time": 1736484203,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396886,
+        "num": 396886,
+        "word": "男子狱中苦读24年获博士学位",
+        "onboard_time": 1736477119,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377249,
+        "num": 377249,
+        "word": "公交司机晕倒4个少年救了全车人",
+        "onboard_time": 1736475618,
+        "rank": 12,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 376740,
+        "num": 376740,
+        "word": "于正看国色芳华了",
+        "onboard_time": 1736486360,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353635,
+        "num": 353635,
+        "word": "间谍在浙江拍照没想到一路被监控",
+        "onboard_time": 1736474239,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346113,
+        "num": 346113,
+        "word": "SM员工说不要相信艺人说的话",
+        "onboard_time": 1736482220,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342810,
+        "num": 342810,
+        "word": "洛杉矶富人区被山火席卷",
+        "onboard_time": 1736483962,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 325632,
+        "num": 325632,
+        "word": "警察节",
+        "onboard_time": 1736468661,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314987,
+        "num": 314987,
+        "word": "微博之夜大热cp",
+        "onboard_time": 1736483421,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128049,
+        "num": 289811,
+        "word": "蝙蝠侠亲眼目睹豪宅被烧毁一脸错愕",
+        "onboard_time": 1736486241,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 772666,
+        "num": 287863,
+        "word": "麦琳回门宴瘦了好多",
+        "onboard_time": 1736472738,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398713,
+        "num": 287106,
+        "word": "女婴掉粪坑父母不救案细节披露",
+        "onboard_time": 1736480301,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285743,
+        "num": 285743,
+        "word": "宋雨琦央视春晚第二次联排",
+        "onboard_time": 1736487261,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310301,
+        "num": 280820,
+        "word": "果郡王说最想亲眼见到两个孩子",
+        "onboard_time": 1736485522,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265362,
+        "num": 265362,
+        "word": "特斯拉Model Y",
+        "onboard_time": 1736472619,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 251841,
+        "num": 251841,
+        "word": "选李现演蒋长扬的人简直是天才",
+        "onboard_time": 1736485642,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223748,
+        "num": 223748,
+        "word": "网红小孩愿意自己被这样拍吗",
+        "onboard_time": 1736484562,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 23949,
+        "num": 220195,
+        "word": "HPV预防从小重视",
+        "onboard_time": 1736484262,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 217203,
+        "num": 217203,
+        "word": "小猫被电后撤回了撒娇",
+        "onboard_time": 1736482341,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160800,
+        "num": 213815,
+        "word": "夏弃疾拍的张彬彬孙珍妮",
+        "onboard_time": 1736487021,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213473,
+        "num": 213473,
+        "word": "洛杉矶华人以为误入末日",
+        "onboard_time": 1736448793,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 197155,
+        "num": 197155,
+        "word": "张兴亮女友被装行李箱为摆拍",
+        "onboard_time": 1736485821,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196612,
+        "num": 196612,
+        "word": "重庆文旅",
+        "onboard_time": 1736487140,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 196322,
+        "num": 196322,
+        "word": "网剧夺娶定档",
+        "onboard_time": 1736483721,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185363,
+        "num": 185363,
+        "word": "助理否认罗志祥周扬青日本同游",
+        "onboard_time": 1736486840,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181968,
+        "num": 181968,
+        "word": "确认被爱后面相都变了",
+        "onboard_time": 1736479220,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164246,
+        "num": 164246,
+        "word": "王楚钦孙颖莎领衔国乒冬训",
+        "onboard_time": 1736485282,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159380,
+        "num": 159380,
+        "word": "卡特葬礼上美国前总统上演修罗场",
+        "onboard_time": 1736472979,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 159069,
+        "num": 159069,
+        "word": "贺峻霖接到一路繁花通告也很懵",
+        "onboard_time": 1736487321,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159054,
+        "num": 159054,
+        "word": "丁禹兮南部档案背双肩包路透",
+        "onboard_time": 1736485282,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148045,
+        "num": 148045,
+        "word": "老外版你以为是1楼其实站在18楼",
+        "onboard_time": 1736486900,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 145364,
+        "num": 145364,
+        "word": "12306回应4天3崩",
+        "onboard_time": 1736483181,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 144293,
+        "num": 144293,
+        "word": "刘国梁冬训发言",
+        "onboard_time": 1736481801,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142497,
+        "num": 142497,
+        "word": "了不起的曹萱萱定档",
+        "onboard_time": 1736485161,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142246,
+        "num": 142246,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1736487441,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139004,
+        "num": 139004,
+        "word": "橘子娱乐 张康乐马柏全采访",
+        "onboard_time": 1736486780,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127888,
+        "num": 127888,
+        "word": "鬼鬼结婚了吗",
+        "onboard_time": 1736480541,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119223,
+        "num": 119223,
+        "word": "库里授权王鹤棣晚安手势",
+        "onboard_time": 1736482642,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117822,
+        "num": 117822,
+        "word": "黄子弘凡现身央视春晚联排",
+        "onboard_time": 1736487380,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22135,
+        "num": 113974,
+        "word": "男性感染HPV有什么后果",
+        "onboard_time": 1736483662,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央政治局常委会召开会议#"
+    }
+  }
+}

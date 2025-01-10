@@ -1,6 +1,6 @@
 {
   "startTime": 1736440116531,
-  "endTime": 1736486498540,
+  "endTime": 1736487544515,
   "band_list": [
     {
       "raw_hot": 4127605,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3376657,
-      "num": 437140,
+      "num": 447092,
       "word": "鬼鬼 我没有结婚",
       "onboard_time": 1736484203,
       "rank": 10,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 907877,
+      "num": 907877,
+      "word": "行政审批服务中心没人上班消息不实",
+      "onboard_time": 1736483542,
+      "rank": 37,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 876104,
       "num": 876104,
       "word": "男子狱中苦读24年获博士学位",
@@ -139,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 704400,
+      "num": 704400,
+      "word": "留几手 葛夕",
+      "onboard_time": 1736486420,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 663609,
       "num": 663609,
       "word": "蒋欣素颜彩排",
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 618977,
-      "num": 515116,
+      "num": 611840,
       "word": "东风信 孟子义丁禹兮",
       "onboard_time": 1736484203,
       "rank": 6,
@@ -195,8 +211,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 543107,
-      "num": 543107,
+      "raw_hot": 555578,
+      "num": 555578,
       "word": "洛杉矶大火",
       "onboard_time": 1736481620,
       "rank": 8,
@@ -299,14 +315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 394001,
-      "num": 394001,
-      "word": "行政审批服务中心没人上班消息不实",
-      "onboard_time": 1736483542,
-      "rank": 37,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 382660,
       "num": 529717,
       "word": "警察节",
@@ -331,6 +339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 376740,
+      "num": 376740,
+      "word": "于正看国色芳华了",
+      "onboard_time": 1736486360,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 375622,
       "num": 249386,
       "word": "确认被爱后面相都变了",
@@ -345,6 +361,14 @@
       "onboard_time": 1736478619,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 342810,
+      "num": 376643,
+      "word": "洛杉矶富人区被山火席卷",
+      "onboard_time": 1736483962,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 338778,
@@ -385,14 +409,6 @@
       "onboard_time": 1736485522,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 317569,
-      "num": 376643,
-      "word": "洛杉矶富人区被山火席卷",
-      "onboard_time": 1736483962,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 317090,
@@ -443,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 285743,
+      "num": 285743,
+      "word": "宋雨琦央视春晚第二次联排",
+      "onboard_time": 1736487261,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 276371,
       "num": 377670,
       "word": "别再人工催熟小孩哥小孩姐",
@@ -489,6 +513,14 @@
       "onboard_time": 1736427083,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 251841,
+      "num": 251841,
+      "word": "选李现演蒋长扬的人简直是天才",
+      "onboard_time": 1736485642,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 242300,
@@ -579,6 +611,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 197155,
+      "num": 197155,
+      "word": "张兴亮女友被装行李箱为摆拍",
+      "onboard_time": 1736485821,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 196612,
+      "num": 196612,
+      "word": "重庆文旅",
+      "onboard_time": 1736487140,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 196142,
       "num": 196142,
       "word": "樊振东获中国青年五四奖章",
@@ -601,14 +649,6 @@
       "onboard_time": 1736477779,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 191601,
-      "num": 210828,
-      "word": "选李现演蒋长扬的人简直是天才",
-      "onboard_time": 1736485642,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 191250,
@@ -648,6 +688,14 @@
       "word": "张真源不语只一味地合照",
       "onboard_time": 1736469620,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 185363,
+      "num": 185363,
+      "word": "助理否认罗志祥周扬青日本同游",
+      "onboard_time": 1736486840,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -795,14 +843,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 164368,
-      "num": 164368,
-      "word": "张兴亮女友被装行李箱为摆拍",
-      "onboard_time": 1736485821,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 163731,
       "num": 163731,
       "word": "17种身体异常一般不用治疗",
@@ -835,12 +875,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 160800,
+      "num": 213815,
+      "word": "夏弃疾拍的张彬彬孙珍妮",
+      "onboard_time": 1736487021,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159462,
       "num": 159462,
       "word": "王楚钦说冬训练得踏实专注",
       "onboard_time": 1736478982,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159069,
+      "num": 159069,
+      "word": "贺峻霖接到一路繁花通告也很懵",
+      "onboard_time": 1736487321,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 158027,
@@ -891,6 +947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148045,
+      "num": 148045,
+      "word": "老外版你以为是1楼其实站在18楼",
+      "onboard_time": 1736486900,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 147156,
       "num": 702789,
       "word": "感染甲流后不能硬扛",
@@ -923,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142246,
+      "num": 142246,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1736487441,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 141556,
       "num": 141556,
       "word": "金玟庭直播",
@@ -945,6 +1017,14 @@
       "onboard_time": 1736434821,
       "rank": 30,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 139004,
+      "num": 139004,
+      "word": "橘子娱乐 张康乐马柏全采访",
+      "onboard_time": 1736486780,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 136224,
@@ -987,20 +1067,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129118,
-      "num": 129118,
-      "word": "于正看国色芳华了",
-      "onboard_time": 1736486360,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 128617,
       "num": 252486,
       "word": "美纪录片曝光韩流造星工厂内幕",
       "onboard_time": 1736479039,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 128049,
+      "num": 289811,
+      "word": "蝙蝠侠亲眼目睹豪宅被烧毁一脸错愕",
+      "onboard_time": 1736486241,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 127255,
@@ -1019,14 +1099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125682,
-      "num": 125682,
-      "word": "留几手 葛夕",
-      "onboard_time": 1736486420,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 124342,
       "num": 124342,
       "word": "李昊 摇滚乐队主唱即视感",
@@ -1041,6 +1113,14 @@
       "onboard_time": 1736482642,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121963,
+      "num": 460901,
+      "word": "洛杉矶一商业街山火前后对比触目惊心",
+      "onboard_time": 1736486360,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 121197,
@@ -1065,6 +1145,14 @@
       "onboard_time": 1736431523,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117822,
+      "num": 117822,
+      "word": "黄子弘凡现身央视春晚联排",
+      "onboard_time": 1736487380,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 117767,
@@ -1372,7 +1460,7 @@
     },
     {
       "raw_hot": 40517,
-      "num": 210358,
+      "num": 220195,
       "word": "HPV预防从小重视",
       "onboard_time": 1736484262,
       "rank": 29,
@@ -1439,14 +1527,6 @@
       "num": 52422,
       "word": "美国加州山火消防栓缺水灭火率为0%",
       "onboard_time": 1736451011,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 31895,
-      "num": 437641,
-      "word": "洛杉矶一商业街山火前后对比触目惊心",
-      "onboard_time": 1736486360,
       "rank": 9,
       "category": "海外新闻"
     },
@@ -1531,6 +1611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22135,
+      "num": 161281,
+      "word": "男性感染HPV有什么后果",
+      "onboard_time": 1736483662,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 21839,
       "num": 39208,
       "word": "华晨宇专辑封面",
@@ -1577,14 +1665,6 @@
       "onboard_time": 1736455632,
       "rank": 49,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 16778,
-      "num": 161281,
-      "word": "男性感染HPV有什么后果",
-      "onboard_time": 1736483662,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 16336,
