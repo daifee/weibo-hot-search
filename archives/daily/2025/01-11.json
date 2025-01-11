@@ -1,7 +1,31 @@
 {
   "startTime": 1736526528002,
-  "endTime": 1736552140178,
+  "endTime": 1736559774217,
   "band_list": [
+    {
+      "raw_hot": 1454805,
+      "num": 1454805,
+      "word": "老友记已故主演住宅火中奇迹幸存",
+      "onboard_time": 1736557579,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1140474,
+      "num": 1140474,
+      "word": "美国名媛山火后回家发现只剩门框",
+      "onboard_time": 1736553256,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1079746,
+      "num": 669289,
+      "word": "迪丽热巴陈飞宇婚服吻戏路透",
+      "onboard_time": 1736555839,
+      "rank": 5,
+      "category": "剧集"
+    },
     {
       "raw_hot": 947995,
       "num": 947995,
@@ -27,12 +51,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 696086,
+      "num": 696086,
+      "word": "微博之夜出图凌晨就开始了",
+      "onboard_time": 1736552898,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 683647,
+      "num": 683647,
+      "word": "酒店回应男子全裸遭服务员闯入",
+      "onboard_time": 1736554098,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 671710,
       "num": 671710,
       "word": "桃黑黑异地登录",
       "onboard_time": 1736522542,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 651984,
+      "num": 651984,
+      "word": "杨紫演技",
+      "onboard_time": 1736552236,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 595313,
@@ -75,6 +123,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 472087,
+      "num": 472087,
+      "word": "特朗普罪名成立但不予惩罚",
+      "onboard_time": 1736552055,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 466627,
+      "num": 466627,
+      "word": "国乒男单无缘WTT多哈站八强",
+      "onboard_time": 1736553556,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 430732,
       "num": 346845,
       "word": "陈奕迅泰国演唱会取消",
@@ -115,8 +179,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 371825,
-      "num": 78764,
+      "raw_hot": 378934,
+      "num": 224968,
       "word": "男子酒店全裸服务员闯入送水果",
       "onboard_time": 1736552055,
       "rank": 30,
@@ -139,6 +203,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 359339,
+      "num": 359339,
+      "word": "林昀儒硕士论文分析樊振东",
+      "onboard_time": 1736558959,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 350122,
+      "num": 224133,
+      "word": "4种水果不甜但含糖量很高",
+      "onboard_time": 1736532434,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 350081,
       "num": 350081,
       "word": "楚考烈王墓被发现",
@@ -147,8 +227,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 328491,
-      "num": 328491,
+      "raw_hot": 336076,
+      "num": 336076,
       "word": "留几手说葛夕从头到尾都在揭短",
       "onboard_time": 1736536092,
       "rank": 44,
@@ -156,7 +236,7 @@
     },
     {
       "raw_hot": 325858,
-      "num": 219903,
+      "num": 221339,
       "word": "79岁大爷丧偶十多年感染艾滋病",
       "onboard_time": 1736522121,
       "rank": 21,
@@ -171,12 +251,36 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 317531,
+      "num": 317531,
+      "word": "36岁女子做育儿嫂4年买车房存款30万",
+      "onboard_time": 1736528957,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 315982,
+      "num": 315982,
+      "word": "鸡腿诺",
+      "onboard_time": 1736552716,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 300328,
       "num": 300328,
       "word": "女生确诊渐冻症一年容貌巨变",
       "onboard_time": 1736496921,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 293239,
+      "num": 221393,
+      "word": "花饽饽凭什么统一了全国人的审美",
+      "onboard_time": 1736558058,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 288362,
@@ -195,12 +299,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 268744,
-      "num": 268744,
-      "word": "36岁女子做育儿嫂4年买车房存款30万",
-      "onboard_time": 1736528957,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 273820,
+      "num": 221331,
+      "word": "黄圣依一清醒事业就吻上来了",
+      "onboard_time": 1736517623,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 265658,
@@ -211,14 +315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 255807,
-      "num": 219356,
-      "word": "黄圣依一清醒事业就吻上来了",
-      "onboard_time": 1736517623,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 255132,
       "num": 255132,
       "word": "公安部将坚决摧毁境外诈骗窝点",
@@ -227,12 +323,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 243599,
+      "num": 243599,
+      "word": "特朗普说这是耻辱我要上诉",
+      "onboard_time": 1736558658,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 240642,
+      "num": 221313,
+      "word": "李昀锐给孟子义整理裙子",
+      "onboard_time": 1736559019,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 237341,
       "num": 237341,
       "word": "外交部驳斥中国出现不明病毒论调",
       "onboard_time": 1736519723,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 233423,
+      "num": 233423,
+      "word": "洛杉矶山火将街区烧成灰烬",
+      "onboard_time": 1736534292,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 221397,
+      "num": 221397,
+      "word": "教育局回应学生签放弃中考承诺书",
+      "onboard_time": 1736553256,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 220034,
@@ -251,6 +379,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218312,
+      "num": 218312,
+      "word": "当地教育局介入核查放弃中考承诺书",
+      "onboard_time": 1736557699,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 210258,
+      "num": 210258,
+      "word": "谁跳only one",
+      "onboard_time": 1736554398,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 208841,
       "num": 208841,
       "word": "黄圣依发文没有一句提杨子",
@@ -259,12 +403,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199359,
-      "num": 199359,
-      "word": "洛杉矶山火将街区烧成灰烬",
-      "onboard_time": 1736534292,
+      "raw_hot": 204348,
+      "num": 469110,
+      "word": "餐馆老板带15只羊100只鸡去震区做饭",
+      "onboard_time": 1736556440,
       "rank": 9,
-      "category": "海外新闻"
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198795,
+      "num": 198795,
+      "word": "12306 难抢",
+      "onboard_time": 1736558839,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193434,
@@ -291,12 +443,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 189616,
-      "num": 101839,
-      "word": "4种水果不甜但含糖量很高",
-      "onboard_time": 1736532434,
-      "rank": 49,
-      "category": "美食"
+      "raw_hot": 189388,
+      "num": 189388,
+      "word": "今天歼20成功首飞14周年",
+      "onboard_time": 1736553256,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 188748,
+      "num": 188748,
+      "word": "程鑫凯 鸡腿诺",
+      "onboard_time": 1736554517,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 185987,
@@ -323,6 +483,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164257,
+      "num": 164257,
+      "word": "雷军让想买SUV的朋友等等YU7",
+      "onboard_time": 1736553857,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 164255,
+      "num": 164255,
+      "word": "老师以为大学也七天无理由退货",
+      "onboard_time": 1736554699,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 162841,
       "num": 162841,
       "word": "医生提醒抠疤痕习惯暗藏风险",
@@ -347,12 +523,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 152127,
+      "num": 152127,
+      "word": "白鹿哭戏",
+      "onboard_time": 1736556859,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150089,
       "num": 150089,
       "word": "夏以昼 哥哥回来了",
       "onboard_time": 1736508799,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 146513,
+      "num": 146513,
+      "word": "赵丽颖到达北京",
+      "onboard_time": 1736555719,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 144224,
@@ -411,12 +603,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125645,
+      "num": 125645,
+      "word": "孙颖莎王楚钦春节将迎蛇年首赛",
+      "onboard_time": 1736557279,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122817,
       "num": 244191,
       "word": "当地华人称山火整整烧了两天了",
       "onboard_time": 1736527337,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 120556,
+      "num": 120556,
+      "word": "李晨送宋雨琦的礼物是郑恺结的账",
+      "onboard_time": 1736553738,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 120473,
@@ -441,6 +649,14 @@
       "onboard_time": 1736508378,
       "rank": 44,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 111745,
+      "num": 111745,
+      "word": "2024年V榜破九角色",
+      "onboard_time": 1736559559,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 104566,
@@ -539,12 +755,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58449,
+      "num": 219729,
+      "word": "蒋长扬再现韩商言手势",
+      "onboard_time": 1736558778,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 57045,
       "num": 57045,
       "word": "张艺兴吸氧",
       "onboard_time": 1736508080,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 55912,
+      "num": 191811,
+      "word": "贺峻霖新综艺拍立得",
+      "onboard_time": 1736558898,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 55192,
@@ -563,20 +795,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48754,
+      "num": 221359,
+      "word": "王楚钦孙颖莎王曼昱冬训备战新赛季",
+      "onboard_time": 1736534773,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47161,
       "num": 47161,
       "word": "爸爸抱着女儿转着转着长大了",
       "onboard_time": 1736544131,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45635,
-      "num": 45635,
-      "word": "王楚钦孙颖莎王曼昱冬训备战新赛季",
-      "onboard_time": 1736534773,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 44360,
@@ -587,20 +819,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 43089,
+      "num": 225498,
+      "word": "微博之夜明星造型预告",
+      "onboard_time": 1736559199,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 41712,
       "num": 119832,
       "word": "洛杉矶已有超16万亩土地被烧毁",
       "onboard_time": 1736533093,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 41084,
-      "num": 41084,
-      "word": "特朗普罪名成立但不予惩罚",
-      "onboard_time": 1736552055,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 36581,
@@ -651,6 +883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 22518,
+      "num": 778135,
+      "word": "热血忠诚守护万家灯火",
+      "onboard_time": 1736515104,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22428,
       "num": 44368,
       "word": "原神5.3版本",
@@ -691,14 +931,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 18709,
-      "num": 663320,
-      "word": "热血忠诚守护万家灯火",
-      "onboard_time": 1736515104,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 17214,
       "num": 82210,
       "word": "为何这些奇奇怪怪的建筑层出不穷",
@@ -729,6 +961,14 @@
       "onboard_time": 1736536151,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9502,
+      "num": 188865,
+      "word": "男朋友的爱太拿得出手了",
+      "onboard_time": 1736559439,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 9186,
