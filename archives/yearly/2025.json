@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736563980541,
+  "endTime": 1736564568432,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -2355,6 +2355,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 1081137,
+      "num": 1172982,
+      "word": "男子聚会被两同事抱摔离世",
+      "onboard_time": 1736562379,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1081121,
       "num": 577563,
       "word": "吴宣仪杨超越亲了",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736253985,
       "rank": 12,
       "category": "读书作家,作品衍生"
-    },
-    {
-      "raw_hot": 1063103,
-      "num": 344235,
-      "word": "鹿晗 肯德基",
-      "onboard_time": 1735970058,
-      "rank": 31,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
