@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736572839503,
+  "endTime": 1736573871329,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -513,6 +513,14 @@
       "onboard_time": 1736337861,
       "rank": 3,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 2473183,
+      "num": 2473183,
+      "word": "微博之夜红毯",
+      "onboard_time": 1736573540,
+      "rank": 0,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2458918,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735994909,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1078096,
-      "num": 1264002,
-      "word": "韩国空难3岁遇难者最后视频曝光",
-      "onboard_time": 1735966459,
-      "rank": 4,
-      "category": "海外新闻"
     }
   ],
   "hotgov_list": [

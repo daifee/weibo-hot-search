@@ -1,6 +1,6 @@
 {
   "startTime": 1736526528002,
-  "endTime": 1736572839503,
+  "endTime": 1736573871329,
   "band_list": [
     {
       "raw_hot": 4871233,
@@ -9,6 +9,14 @@
       "onboard_time": 1736560758,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2473183,
+      "num": 2473183,
+      "word": "微博之夜红毯",
+      "onboard_time": 1736573540,
+      "rank": 0,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2163783,
@@ -67,8 +75,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 982221,
-      "num": 982221,
+      "raw_hot": 1065714,
+      "num": 1065714,
       "word": "国色芳华连狗都没敷衍我们",
       "onboard_time": 1736570121,
       "rank": 31,
@@ -227,6 +235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 555181,
+      "num": 240305,
+      "word": "刘晓庆是真饿了",
+      "onboard_time": 1736571681,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 554336,
       "num": 408473,
       "word": "迪丽热巴直播",
@@ -241,6 +257,14 @@
       "onboard_time": 1736568799,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 510174,
+      "num": 510174,
+      "word": "当地人称火再不灭洛杉矶都要烧没了",
+      "onboard_time": 1736570360,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 507856,
@@ -323,14 +347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 416817,
-      "num": 508661,
-      "word": "当地人称火再不灭洛杉矶都要烧没了",
-      "onboard_time": 1736570360,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 416477,
       "num": 583466,
       "word": "山西临汾地震",
@@ -355,6 +371,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 395585,
+      "num": 395585,
+      "word": "孟子义李昀锐昭昭墨墨舞台剧透",
+      "onboard_time": 1736569160,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 392129,
       "num": 392129,
       "word": "顾时夜 夏以昼",
@@ -371,20 +395,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 390434,
+      "num": 390434,
+      "word": "周洁琼油画少女",
+      "onboard_time": 1736571979,
+      "rank": 17,
+      "category": "作品衍生,综艺"
+    },
+    {
       "raw_hot": 388127,
       "num": 261389,
       "word": "韦雪前夫谈离婚原因",
       "onboard_time": 1736565320,
       "rank": 25,
       "category": "网红"
-    },
-    {
-      "raw_hot": 387540,
-      "num": 387540,
-      "word": "孟子义李昀锐昭昭墨墨舞台剧透",
-      "onboard_time": 1736569160,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 378934,
@@ -411,12 +435,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 363058,
+      "num": 363058,
+      "word": "丁禹兮第一次参加微博之夜就有舞台",
+      "onboard_time": 1736570660,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 362703,
       "num": 313922,
       "word": "留几手回应离婚",
       "onboard_time": 1736511260,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 357500,
+      "num": 210598,
+      "word": "刘浩存工作室",
+      "onboard_time": 1736572939,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 353776,
@@ -459,20 +499,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 326479,
-      "num": 240305,
-      "word": "刘晓庆是真饿了",
-      "onboard_time": 1736571681,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 325858,
       "num": 222829,
       "word": "79岁大爷丧偶十多年感染艾滋病",
       "onboard_time": 1736522121,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 322288,
+      "num": 206124,
+      "word": "丁禹兮驾照还没捂热车已经选好了",
+      "onboard_time": 1736572701,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 320362,
@@ -505,6 +545,14 @@
       "onboard_time": 1736565139,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 305312,
+      "num": 305312,
+      "word": "深圳家长花85分钟才做完小学卷子",
+      "onboard_time": 1736571922,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 303041,
@@ -547,6 +595,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 290371,
+      "num": 224845,
+      "word": "鹤俐昀端",
+      "onboard_time": 1736572760,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 288362,
       "num": 219763,
       "word": "28岁未婚花8千元请男保姆的生活",
@@ -579,27 +635,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 273552,
-      "num": 273552,
-      "word": "周洁琼油画少女",
-      "onboard_time": 1736571979,
-      "rank": 17,
-      "category": "作品衍生,综艺"
-    },
-    {
       "raw_hot": 272067,
       "num": 272067,
       "word": "微博之夜明星造型预告",
       "onboard_time": 1736559199,
       "rank": 19,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 267060,
-      "num": 267060,
-      "word": "丁禹兮第一次参加微博之夜就有舞台",
-      "onboard_time": 1736570660,
-      "rank": 18,
       "category": "作品衍生"
     },
     {
@@ -683,14 +723,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 224845,
-      "num": 224845,
-      "word": "鹤俐昀端",
-      "onboard_time": 1736572760,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 221397,
       "num": 221397,
       "word": "教育局回应学生签放弃中考承诺书",
@@ -721,6 +753,14 @@
       "onboard_time": 1736557699,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216417,
+      "num": 460602,
+      "word": "14岁女孩连续8年背闺蜜上学",
+      "onboard_time": 1736568320,
+      "rank": 36,
+      "category": "正能量"
     },
     {
       "raw_hot": 214179,
@@ -795,6 +835,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 190735,
+      "num": 190735,
+      "word": "陆沉小尖牙",
+      "onboard_time": 1736571860,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190075,
       "num": 190075,
       "word": "BAE173公司申报艺人失踪",
@@ -835,14 +883,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 187357,
-      "num": 187357,
-      "word": "陆沉小尖牙",
-      "onboard_time": 1736571860,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 186229,
       "num": 186229,
       "word": "微博之夜你好事做尽",
@@ -875,14 +915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 182140,
-      "num": 182140,
-      "word": "14岁女孩连续8年背闺蜜上学",
-      "onboard_time": 1736568320,
-      "rank": 36,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 180169,
       "num": 180169,
       "word": "韩国人在上海见识真正的继承者们",
@@ -897,6 +929,22 @@
       "onboard_time": 1736566759,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177196,
+      "num": 173475,
+      "word": "张新成微博之夜造型",
+      "onboard_time": 1736572879,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 175072,
+      "num": 175072,
+      "word": "夏以昼飞鸟回还日",
+      "onboard_time": 1736571860,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 172625,
@@ -915,20 +963,20 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 168011,
-      "num": 168011,
-      "word": "夏以昼飞鸟回还日",
-      "onboard_time": 1736571860,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 167300,
       "num": 234935,
       "word": "白鹿复古花伶",
       "onboard_time": 1736569220,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 165039,
+      "num": 133464,
+      "word": "大奉亲个嘴都翻车",
+      "onboard_time": 1736572639,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 164257,
@@ -953,6 +1001,14 @@
       "onboard_time": 1736519542,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 162430,
+      "num": 243991,
+      "word": "延时镜头呈现加州山火末日景象",
+      "onboard_time": 1736570301,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 162119,
@@ -1019,14 +1075,6 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 148642,
-      "num": 243991,
-      "word": "延时镜头呈现加州山火末日景象",
-      "onboard_time": 1736570301,
-      "rank": 18,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 146513,
       "num": 146513,
       "word": "赵丽颖到达北京",
@@ -1075,14 +1123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133464,
-      "num": 133464,
-      "word": "大奉亲个嘴都翻车",
-      "onboard_time": 1736572639,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 133313,
       "num": 133313,
       "word": "光与夜之恋",
@@ -1123,6 +1163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128498,
+      "num": 128498,
+      "word": "洛杉矶山火已致11人死亡",
+      "onboard_time": 1736566400,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 122817,
       "num": 244191,
       "word": "当地华人称山火整整烧了两天了",
@@ -1155,20 +1203,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116392,
+      "num": 116392,
+      "word": "美59岁演员大火中差点跳海逃生",
+      "onboard_time": 1736571440,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 116365,
       "num": 116365,
       "word": "雷军  Model Y也不错",
       "onboard_time": 1736508378,
       "rank": 44,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 115663,
-      "num": 115663,
-      "word": "美59岁演员大火中差点跳海逃生",
-      "onboard_time": 1736571440,
-      "rank": 45,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 113413,
@@ -1203,12 +1251,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 108258,
-      "num": 113341,
-      "word": "丁禹兮驾照还没捂热车已经选好了",
-      "onboard_time": 1736572701,
-      "rank": 46,
-      "category": "艺人"
+      "raw_hot": 106587,
+      "num": 242360,
+      "word": "避免考试题目太绕也是一种减负",
+      "onboard_time": 1736572041,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105615,
@@ -1243,14 +1291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102455,
-      "num": 297226,
-      "word": "深圳家长花85分钟才做完小学卷子",
-      "onboard_time": 1736571922,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 100363,
       "num": 100363,
       "word": "肥娟直播间5分钟收9万嘉年华",
@@ -1281,6 +1321,14 @@
       "onboard_time": 1736558778,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87386,
+      "num": 87386,
+      "word": "敞篷车主回应上海遛车走红",
+      "onboard_time": 1736573781,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84128,
@@ -1443,6 +1491,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 38711,
+      "num": 1313059,
+      "word": "一条视频科普流感高发期知识",
+      "onboard_time": 1736572639,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 36581,
       "num": 41660,
       "word": "陈熠3比0钱天一",
@@ -1464,14 +1520,6 @@
       "word": "热血忠诚守护万家灯火",
       "onboard_time": 1736515104,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32089,
-      "num": 242360,
-      "word": "避免考试题目太绕也是一种减负",
-      "onboard_time": 1736572041,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1587,14 +1635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11373,
-      "num": 1018520,
-      "word": "一条视频科普流感高发期知识",
-      "onboard_time": 1736572639,
-      "rank": 2,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 9186,
       "num": 28822,
       "word": "唐朝小姐姐穿搭被陶俑定格",
@@ -1620,6 +1660,9 @@
     },
     {
       "word": "#让京剧艺术持续焕发时代光彩#"
+    },
+    {
+      "word": "#总书记对人民警察队伍的殷殷嘱托#"
     }
   ]
 }

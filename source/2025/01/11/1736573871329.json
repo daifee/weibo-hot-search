@@ -1,0 +1,410 @@
+{
+  "runTime": 1736573871329,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2473183,
+        "num": 2473183,
+        "word": "微博之夜红毯",
+        "onboard_time": 1736573540,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1378796,
+        "num": 1378796,
+        "word": "蓝盈莹给麦琳评论",
+        "onboard_time": 1736565497,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38711,
+        "num": 1313059,
+        "word": "一条视频科普流感高发期知识",
+        "onboard_time": 1736572639,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1272268,
+        "num": 1272268,
+        "word": "微博之夜首批出图",
+        "onboard_time": 1736567360,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1065714,
+        "num": 1065714,
+        "word": "国色芳华连狗都没敷衍我们",
+        "onboard_time": 1736570121,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 626041,
+        "num": 626041,
+        "word": "动画还原2名中国女子在日被列车撞死",
+        "onboard_time": 1736569460,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 644302,
+        "num": 602814,
+        "word": "赵本山曼谷演出官宣延期",
+        "onboard_time": 1736569280,
+        "rank": 6,
+        "category": "演出,艺人"
+      },
+      {
+        "raw_hot": 510174,
+        "num": 510174,
+        "word": "当地人称火再不灭洛杉矶都要烧没了",
+        "onboard_time": 1736570360,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 502783,
+        "num": 502783,
+        "word": "李沁蛇系美人",
+        "onboard_time": 1736570961,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216417,
+        "num": 460602,
+        "word": "14岁女孩连续8年背闺蜜上学",
+        "onboard_time": 1736568320,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 453897,
+        "num": 453897,
+        "word": "林允微博之夜撞衫开花蜡烛",
+        "onboard_time": 1736564360,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 423835,
+        "num": 423835,
+        "word": "男子聚会被两同事抱摔离世",
+        "onboard_time": 1736562379,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 411250,
+        "num": 411250,
+        "word": "曾黎7米长非遗剪纸裙",
+        "onboard_time": 1736568799,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 395585,
+        "num": 395585,
+        "word": "孟子义李昀锐昭昭墨墨舞台剧透",
+        "onboard_time": 1736569160,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 390434,
+        "num": 390434,
+        "word": "周洁琼油画少女",
+        "onboard_time": 1736571979,
+        "rank": 14,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 363058,
+        "num": 363058,
+        "word": "丁禹兮第一次参加微博之夜就有舞台",
+        "onboard_time": 1736570660,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 305312,
+        "num": 305312,
+        "word": "深圳家长花85分钟才做完小学卷子",
+        "onboard_time": 1736571922,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251255,
+        "num": 251255,
+        "word": "民警被刺4刀牺牲前画面看得心痛",
+        "onboard_time": 1736563879,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224960,
+        "num": 224960,
+        "word": "加州800名消防员由囚犯充当",
+        "onboard_time": 1736563099,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 161232,
+        "num": 219605,
+        "word": "白鹿复古花伶",
+        "onboard_time": 1736569220,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 555181,
+        "num": 214150,
+        "word": "刘晓庆是真饿了",
+        "onboard_time": 1736571681,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357500,
+        "num": 210598,
+        "word": "刘浩存工作室",
+        "onboard_time": 1736572939,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 322288,
+        "num": 206124,
+        "word": "丁禹兮驾照还没捂热车已经选好了",
+        "onboard_time": 1736572701,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202700,
+        "num": 202700,
+        "word": "甲流不给请假撂倒公司一大片",
+        "onboard_time": 1736565200,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1483649,
+        "num": 200984,
+        "word": "张雪峰一个口误公司春节放假23天",
+        "onboard_time": 1736566819,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290371,
+        "num": 200882,
+        "word": "鹤俐昀端",
+        "onboard_time": 1736572760,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198942,
+        "num": 198942,
+        "word": "男子酒店全裸服务员闯入送水果",
+        "onboard_time": 1736552055,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190735,
+        "num": 190735,
+        "word": "陆沉小尖牙",
+        "onboard_time": 1736571860,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175072,
+        "num": 175072,
+        "word": "夏以昼飞鸟回还日",
+        "onboard_time": 1736571860,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174979,
+        "num": 174979,
+        "word": "男子花170万买路虎开5公里趴窝",
+        "onboard_time": 1736568138,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199863,
+        "num": 174115,
+        "word": "时代少年团微博之夜的交换礼物",
+        "onboard_time": 1736568920,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191706,
+        "num": 173821,
+        "word": "韦雪前夫谈离婚原因",
+        "onboard_time": 1736565320,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 177196,
+        "num": 173475,
+        "word": "张新成微博之夜造型",
+        "onboard_time": 1736572879,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172419,
+        "num": 172419,
+        "word": "王鹤棣田曦薇红温吻戏差点亲上",
+        "onboard_time": 1736568020,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162430,
+        "num": 162430,
+        "word": "延时镜头呈现加州山火末日景象",
+        "onboard_time": 1736570301,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 171556,
+        "num": 145903,
+        "word": "微博之夜只差易烊千玺就三代同堂了",
+        "onboard_time": 1736561779,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128498,
+        "num": 128498,
+        "word": "洛杉矶山火已致11人死亡",
+        "onboard_time": 1736566400,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 124880,
+        "num": 124880,
+        "word": "陈梦回老家合照被安排站C位",
+        "onboard_time": 1736566162,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116392,
+        "num": 116392,
+        "word": "美59岁演员大火中差点跳海逃生",
+        "onboard_time": 1736571440,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 106587,
+        "num": 106587,
+        "word": "避免考试题目太绕也是一种减负",
+        "onboard_time": 1736572041,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165039,
+        "num": 105188,
+        "word": "大奉亲个嘴都翻车",
+        "onboard_time": 1736572639,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163488,
+        "num": 103664,
+        "word": "微博之夜 6个机位",
+        "onboard_time": 1736566580,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147971,
+        "num": 102189,
+        "word": "微博之夜你好事做尽",
+        "onboard_time": 1736570840,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139250,
+        "num": 101383,
+        "word": "辛芷蕾出图",
+        "onboard_time": 1736567240,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100667,
+        "num": 100667,
+        "word": "四川省考成绩",
+        "onboard_time": 1736563160,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 97651,
+        "num": 97651,
+        "word": "今天歼20成功首飞14周年",
+        "onboard_time": 1736553256,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 94574,
+        "num": 94574,
+        "word": "拜登让哈里斯开火言论引不满",
+        "onboard_time": 1736565139,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91460,
+        "num": 91460,
+        "word": "79岁大爷丧偶十多年感染艾滋病",
+        "onboard_time": 1736522121,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90413,
+        "num": 90413,
+        "word": "宁夏多地或出现蛇形云",
+        "onboard_time": 1736562498,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87386,
+        "num": 87386,
+        "word": "敞篷车主回应上海遛车走红",
+        "onboard_time": 1736573781,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对人民警察队伍的殷殷嘱托#"
+    }
+  }
+}
