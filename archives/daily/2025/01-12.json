@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736637636152,
+  "endTime": 1736638543300,
   "band_list": [
     {
       "raw_hot": 3012112,
@@ -347,20 +347,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146740,
+      "num": 146740,
+      "word": "张杰马来西亚演唱会",
+      "onboard_time": 1736611763,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 145100,
       "num": 320432,
       "word": "女子100元买的裤子褪色双腿被染紫",
       "onboard_time": 1736615717,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 136608,
-      "num": 136608,
-      "word": "张杰马来西亚演唱会",
-      "onboard_time": 1736611763,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 126465,
@@ -371,11 +371,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 126196,
+      "num": 126196,
+      "word": "李昀锐第一次来",
+      "onboard_time": 1736637794,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 120891,
       "num": 349786,
       "word": "三轮车撞上380万宾利走代位追偿",
       "onboard_time": 1736592028,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108632,
+      "num": 168610,
+      "word": "央视曝光化解债务骗局",
+      "onboard_time": 1736631371,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -459,12 +475,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 78509,
-      "num": 141944,
-      "word": "央视曝光化解债务骗局",
-      "onboard_time": 1736631371,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 78284,
+      "num": 78284,
+      "word": "张萌发了昀牵孟绕捧脸杀",
+      "onboard_time": 1736637854,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 75740,
@@ -473,6 +489,14 @@
       "onboard_time": 1736607152,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61887,
+      "num": 61887,
+      "word": "银川地震",
+      "onboard_time": 1736638274,
+      "rank": 34,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 59773,
@@ -505,6 +529,14 @@
       "onboard_time": 1736602827,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 51263,
+      "num": 51263,
+      "word": "深圳小学生亲述做完出圈数学试卷",
+      "onboard_time": 1736637735,
+      "rank": 37,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 51015,
@@ -547,6 +579,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 44351,
+      "num": 44351,
+      "word": "杨紫熊大熊二光头强合影",
+      "onboard_time": 1736636714,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 41992,
       "num": 136280,
       "word": "洛杉矶山火已有约万栋建筑被烧",
@@ -555,20 +595,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 40813,
+      "num": 40813,
+      "word": "官方通报滨州超百亩地被挖坑取土",
+      "onboard_time": 1736635214,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40740,
+      "num": 40740,
+      "word": "檀健次虞书欣微博年度号召力演员",
+      "onboard_time": 1736635272,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 38987,
       "num": 136275,
       "word": "南京今晚要下雪了",
       "onboard_time": 1736599166,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36034,
-      "num": 36034,
-      "word": "檀健次虞书欣微博年度号召力演员",
-      "onboard_time": 1736635272,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 34658,
@@ -587,20 +635,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 30104,
-      "num": 34685,
-      "word": "官方通报滨州超百亩地被挖坑取土",
-      "onboard_time": 1736635214,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29102,
-      "num": 34679,
-      "word": "杨紫熊大熊二光头强合影",
-      "onboard_time": 1736636714,
-      "rank": 46,
-      "category": "作品衍生"
+      "raw_hot": 31509,
+      "num": 40695,
+      "word": "加州山火卫星图对比触目惊心",
+      "onboard_time": 1736637794,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 27387,
