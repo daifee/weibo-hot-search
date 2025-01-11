@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736612741456,
+  "endTime": 1736613639382,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1499,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1615883,
+      "num": 1615883,
+      "word": "老来得King",
+      "onboard_time": 1736611344,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1615409,
       "num": 1615409,
       "word": "麦琳说自己是父母捡来的",
@@ -1545,6 +1553,14 @@
       "onboard_time": 1735725682,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1571690,
+      "num": 1571690,
+      "word": "肖战梅开二度",
+      "onboard_time": 1736611943,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1571680,
@@ -1683,6 +1699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1520474,
+      "num": 246977,
+      "word": "徐克示意肖战控场",
+      "onboard_time": 1736609964,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1517923,
       "num": 1517923,
       "word": "被骗到缅东小伙跳河逃生棉裤都没脱",
@@ -1785,14 +1809,6 @@
       "onboard_time": 1735890917,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1427996,
-      "num": 1142416,
-      "word": "肖战梅开二度",
-      "onboard_time": 1736611943,
-      "rank": 6,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1422544,
@@ -2033,6 +2049,14 @@
       "onboard_time": 1735700480,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1308586,
+      "num": 1308586,
+      "word": "白鹿晒微博之夜后台一些合照",
+      "onboard_time": 1736610924,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1299836,
@@ -2377,30 +2401,6 @@
       "onboard_time": 1736403380,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1183197,
-      "num": 1183197,
-      "word": "成都警方通报19岁女大学生失联",
-      "onboard_time": 1736404341,
-      "rank": 27,
-      "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 1173665,
-      "num": 534422,
-      "word": "国色芳华 知否味",
-      "onboard_time": 1736261486,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1173212,
-      "num": 4245691,
-      "word": "三人行",
-      "onboard_time": 1736011465,
-      "rank": 12,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
