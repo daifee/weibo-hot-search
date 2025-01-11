@@ -1,0 +1,410 @@
+{
+  "runTime": 1736599208903,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7033291,
+        "num": 7033291,
+        "word": "杨紫李现 纯元CP结婚",
+        "onboard_time": 1736586864,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 5805366,
+        "num": 5805366,
+        "word": "微博之夜内场",
+        "onboard_time": 1736590047,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100762,
+        "num": 4570569,
+        "word": "铁路春运售票迎高峰",
+        "onboard_time": 1736591967,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3638223,
+        "num": 3638223,
+        "word": "沈腾偷吃饼干",
+        "onboard_time": 1736597067,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2428340,
+        "num": 2428340,
+        "word": "恭迎熹妃回宫",
+        "onboard_time": 1736598027,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 913485,
+        "num": 2351706,
+        "word": "王楚钦微博年度影响力体育人物",
+        "onboard_time": 1736596047,
+        "rank": 5,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 2346899,
+        "num": 2346899,
+        "word": "虞书欣又当站姐了",
+        "onboard_time": 1736596469,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1893436,
+        "num": 1893436,
+        "word": "孟子义李昀锐合唱",
+        "onboard_time": 1736596708,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1698328,
+        "num": 1698328,
+        "word": "我的紫在哪 我的昕在哪",
+        "onboard_time": 1736596588,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 67889,
+        "num": 1549760,
+        "word": "西藏13岁姑娘叮嘱武警姐姐休息",
+        "onboard_time": 1736598389,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1450687,
+        "num": 1450687,
+        "word": "肖战是谁的新郎",
+        "onboard_time": 1736589629,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1066390,
+        "num": 1066390,
+        "word": "赵丽颖左手拉哪吒右手拉敖丙",
+        "onboard_time": 1736598270,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1055088,
+        "num": 1055088,
+        "word": "王一博精心打扮了",
+        "onboard_time": 1736584467,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 863940,
+        "num": 863940,
+        "word": "马龙樊振东王楚钦同台领奖",
+        "onboard_time": 1736598330,
+        "rank": 13,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 587094,
+        "num": 587094,
+        "word": "樊振东微博年度最佳运动员",
+        "onboard_time": 1736596228,
+        "rank": 14,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 956063,
+        "num": 571840,
+        "word": "白鹿 怪不得我们四个总被黑",
+        "onboard_time": 1736598568,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 763603,
+        "num": 550772,
+        "word": "苦笑从李现转移到张若昀",
+        "onboard_time": 1736597727,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 418134,
+        "num": 418134,
+        "word": "王楚钦手控有福了",
+        "onboard_time": 1736597666,
+        "rank": 17,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 408492,
+        "num": 408492,
+        "word": "女生考研失败选择到北大当保安",
+        "onboard_time": 1736595869,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334048,
+        "num": 334048,
+        "word": "王楚钦发表获奖感言",
+        "onboard_time": 1736598146,
+        "rank": 19,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 827034,
+        "num": 328652,
+        "word": "王一博好干净的脸",
+        "onboard_time": 1736595567,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1147384,
+        "num": 327646,
+        "word": "昊磊复婚",
+        "onboard_time": 1736593888,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 669005,
+        "num": 327345,
+        "word": "微博之夜短片 宏大叙事家国情怀",
+        "onboard_time": 1736596469,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 303411,
+        "num": 303411,
+        "word": "李某涉嫌以危险方法危害公共安全罪",
+        "onboard_time": 1736591727,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286914,
+        "num": 286914,
+        "word": "狼队对战AG",
+        "onboard_time": 1736583203,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 618908,
+        "num": 285689,
+        "word": "丁禹兮张凌赫加微信",
+        "onboard_time": 1736594068,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 589628,
+        "num": 282270,
+        "word": "微博之夜座位图",
+        "onboard_time": 1736582603,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 589537,
+        "num": 279912,
+        "word": "虞书欣升咖好多",
+        "onboard_time": 1736592090,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 338467,
+        "num": 278274,
+        "word": "沈腾踢了一脚马丽的裙子",
+        "onboard_time": 1736592928,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 277233,
+        "num": 277233,
+        "word": "云南一警犬因上班没精神被通报批评",
+        "onboard_time": 1736590827,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159313,
+        "num": 277200,
+        "word": "韩国空难客机黑匣子撞墙前4分钟停录",
+        "onboard_time": 1736575522,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 147010,
+        "num": 277142,
+        "word": "三轮车撞上380万宾利走代位追偿",
+        "onboard_time": 1736592028,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144944,
+        "num": 277126,
+        "word": "微博之夜最强追星神器",
+        "onboard_time": 1736597606,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143703,
+        "num": 277061,
+        "word": "向地震中的每一位平凡英雄致敬",
+        "onboard_time": 1736595567,
+        "rank": 33,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 142769,
+        "num": 276988,
+        "word": "南京今晚要下雪了",
+        "onboard_time": 1736599166,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 583651,
+        "num": 276940,
+        "word": "张艺兴看EXO表演",
+        "onboard_time": 1736594909,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137914,
+        "num": 276910,
+        "word": "李某为寻刺激在人群中放烟花",
+        "onboard_time": 1736595508,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127095,
+        "num": 276851,
+        "word": "马蹄甘蔗煮水喝可预防甲流",
+        "onboard_time": 1736586205,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103230,
+        "num": 276823,
+        "word": "狼队决赛连追两分",
+        "onboard_time": 1736597727,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98798,
+        "num": 276757,
+        "word": "男子抽烟3娃被留高铁连扇自己耳光",
+        "onboard_time": 1736575401,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 568815,
+        "num": 276677,
+        "word": "孟子义再次选择李昀锐",
+        "onboard_time": 1736595508,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 484368,
+        "num": 276658,
+        "word": "微博之夜导播没少喝",
+        "onboard_time": 1736599048,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 482292,
+        "num": 276611,
+        "word": "王俊凯没走红毯",
+        "onboard_time": 1736592388,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 400243,
+        "num": 276549,
+        "word": "丁禹兮完成任务太迅速了",
+        "onboard_time": 1736598869,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 98347,
+        "num": 276469,
+        "word": "韩国女学生在日本一大学锤伤8人",
+        "onboard_time": 1736588369,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 83924,
+        "num": 276425,
+        "word": "老板回应肥娟小吃暂时闭店",
+        "onboard_time": 1736588369,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83026,
+        "num": 276417,
+        "word": "斗破苍穹",
+        "onboard_time": 1736594008,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 82012,
+        "num": 276349,
+        "word": "洛杉矶山火已有约万栋建筑被烧",
+        "onboard_time": 1736587407,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 78230,
+        "num": 276283,
+        "word": "云南多只警犬落实工作不到位被批评",
+        "onboard_time": 1736594126,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68015,
+        "num": 276229,
+        "word": "乒乓球奥运季军论文是研究奥运冠军",
+        "onboard_time": 1736588487,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#审计是党和国家监督体系的重要组成部分#"
+    }
+  }
+}
