@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736616920576,
+  "endTime": 1736620125894,
   "band_list": [
     {
       "raw_hot": 3012112,
@@ -171,6 +171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 446545,
+      "num": 446545,
+      "word": "唐艺昕 臣妾今夜心不慌",
+      "onboard_time": 1736614519,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 397041,
       "num": 1144269,
       "word": "震区辅警挖到儿女生前衣物跪地痛哭",
@@ -183,14 +191,6 @@
       "num": 392639,
       "word": "张若昀 你的昕在这里",
       "onboard_time": 1736610683,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 391558,
-      "num": 299237,
-      "word": "唐艺昕 臣妾今夜心不慌",
-      "onboard_time": 1736614519,
       "rank": 30,
       "category": "作品衍生"
     },
@@ -347,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145100,
+      "num": 305761,
+      "word": "女子100元买的裤子褪色双腿被染紫",
+      "onboard_time": 1736615717,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126465,
       "num": 136293,
       "word": "李现回应现男友",
@@ -451,12 +459,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75697,
-      "num": 305761,
-      "word": "女子100元买的裤子褪色双腿被染紫",
-      "onboard_time": 1736615717,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 58730,
+      "num": 50955,
+      "word": "甄嬛传",
+      "onboard_time": 1736618834,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 51719,
+      "num": 50940,
+      "word": "张杰马来西亚演唱会",
+      "onboard_time": 1736611763,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 51567,
@@ -465,6 +481,14 @@
       "onboard_time": 1736602827,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 51015,
+      "num": 136282,
+      "word": "王楚钦手写福字祝大家福星高照",
+      "onboard_time": 1736616797,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 49703,
@@ -483,12 +507,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43129,
-      "num": 136282,
-      "word": "王楚钦手写福字祝大家福星高照",
-      "onboard_time": 1736616797,
-      "rank": 46,
-      "category": "体育"
+      "raw_hot": 45305,
+      "num": 50993,
+      "word": "樊振东微博年度最佳运动员",
+      "onboard_time": 1736596228,
+      "rank": 37,
+      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 41992,
