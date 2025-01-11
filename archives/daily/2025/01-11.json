@@ -1,6 +1,6 @@
 {
   "startTime": 1736526528002,
-  "endTime": 1736559774217,
+  "endTime": 1736560754606,
   "band_list": [
     {
       "raw_hot": 1454805,
@@ -19,8 +19,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1079746,
-      "num": 669289,
+      "raw_hot": 1130810,
+      "num": 684186,
       "word": "迪丽热巴陈飞宇婚服吻戏路透",
       "onboard_time": 1736555839,
       "rank": 5,
@@ -59,12 +59,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 683647,
-      "num": 683647,
+      "raw_hot": 687464,
+      "num": 687464,
       "word": "酒店回应男子全裸遭服务员闯入",
       "onboard_time": 1736554098,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 687084,
+      "num": 687084,
+      "word": "林昀儒硕士论文分析樊振东",
+      "onboard_time": 1736558959,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 671710,
@@ -139,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 440641,
+      "num": 440641,
+      "word": "特朗普说这是耻辱我要上诉",
+      "onboard_time": 1736558658,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 430732,
       "num": 346845,
       "word": "陈奕迅泰国演唱会取消",
@@ -179,6 +195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 391711,
+      "num": 391711,
+      "word": "李昀锐给孟子义整理裙子",
+      "onboard_time": 1736559019,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 378934,
       "num": 224968,
       "word": "男子酒店全裸服务员闯入送水果",
@@ -201,14 +225,6 @@
       "onboard_time": 1736511260,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 359339,
-      "num": 359339,
-      "word": "林昀儒硕士论文分析樊振东",
-      "onboard_time": 1736558959,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 350122,
@@ -240,6 +256,14 @@
       "word": "79岁大爷丧偶十多年感染艾滋病",
       "onboard_time": 1736522121,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 322197,
+      "num": 322197,
+      "word": "12306 难抢",
+      "onboard_time": 1736558839,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -323,22 +347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 243599,
-      "num": 243599,
-      "word": "特朗普说这是耻辱我要上诉",
-      "onboard_time": 1736558658,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 240642,
-      "num": 221313,
-      "word": "李昀锐给孟子义整理裙子",
-      "onboard_time": 1736559019,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 237341,
       "num": 237341,
       "word": "外交部驳斥中国出现不明病毒论调",
@@ -403,19 +411,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 204348,
+      "raw_hot": 207881,
       "num": 469110,
       "word": "餐馆老板带15只羊100只鸡去震区做饭",
       "onboard_time": 1736556440,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198795,
-      "num": 198795,
-      "word": "12306 难抢",
-      "onboard_time": 1736558839,
-      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -467,6 +467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 182666,
+      "num": 225498,
+      "word": "微博之夜明星造型预告",
+      "onboard_time": 1736559199,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 180169,
       "num": 180169,
       "word": "韩国人在上海见识真正的继承者们",
@@ -481,6 +489,14 @@
       "onboard_time": 1736548814,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165053,
+      "num": 427830,
+      "word": "加州居民质问为什么消防栓没水",
+      "onboard_time": 1736559858,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 164257,
@@ -521,6 +537,14 @@
       "onboard_time": 1736524461,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 152714,
+      "num": 152714,
+      "word": "孙颖莎王楚钦春节将迎蛇年首赛",
+      "onboard_time": 1736557279,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152127,
@@ -595,19 +619,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132089,
+      "num": 132089,
+      "word": "黄子韬捐10辆车给浙江妇女儿童基金会",
+      "onboard_time": 1736560219,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129649,
       "num": 129649,
       "word": "工资8千1年攒7万多男子被指啃老",
       "onboard_time": 1736503700,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125645,
-      "num": 125645,
-      "word": "孙颖莎王楚钦春节将迎蛇年首赛",
-      "onboard_time": 1736557279,
-      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -651,8 +675,8 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 111745,
-      "num": 111745,
+      "raw_hot": 112282,
+      "num": 112282,
       "word": "2024年V榜破九角色",
       "onboard_time": 1736559559,
       "rank": 48,
@@ -707,6 +731,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 91245,
+      "num": 219729,
+      "word": "蒋长扬再现韩商言手势",
+      "onboard_time": 1736558778,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 84128,
       "num": 84128,
       "word": "和滋养你的人在一起",
@@ -729,6 +761,14 @@
       "onboard_time": 1736502019,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 68492,
+      "num": 202228,
+      "word": "男朋友的爱太拿得出手了",
+      "onboard_time": 1736559439,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 65561,
@@ -755,14 +795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 58449,
-      "num": 219729,
-      "word": "蒋长扬再现韩商言手势",
-      "onboard_time": 1736558778,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 57045,
       "num": 57045,
       "word": "张艺兴吸氧",
@@ -787,20 +819,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52760,
+      "num": 221359,
+      "word": "王楚钦孙颖莎王曼昱冬训备战新赛季",
+      "onboard_time": 1736534773,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50620,
       "num": 50620,
       "word": "今天中国人民警察节",
       "onboard_time": 1736520083,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 48754,
-      "num": 221359,
-      "word": "王楚钦孙颖莎王曼昱冬训备战新赛季",
-      "onboard_time": 1736534773,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 47161,
@@ -817,14 +849,6 @@
       "onboard_time": 1736552116,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 43089,
-      "num": 225498,
-      "word": "微博之夜明星造型预告",
-      "onboard_time": 1736559199,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 41712,
@@ -884,7 +908,7 @@
     },
     {
       "raw_hot": 22518,
-      "num": 778135,
+      "num": 796951,
       "word": "热血忠诚守护万家灯火",
       "onboard_time": 1736515104,
       "rank": 2,
@@ -961,14 +985,6 @@
       "onboard_time": 1736536151,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9502,
-      "num": 188865,
-      "word": "男朋友的爱太拿得出手了",
-      "onboard_time": 1736559439,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 9186,
