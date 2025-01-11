@@ -1,0 +1,410 @@
+{
+  "runTime": 1736580936579,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6052976,
+        "num": 6052976,
+        "word": "微博之夜红毯",
+        "onboard_time": 1736573540,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1693432,
+        "num": 1693432,
+        "word": "祝绪丹 玛丽猫",
+        "onboard_time": 1736579001,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 49523,
+        "num": 1265963,
+        "word": "一条视频科普流感高发期知识",
+        "onboard_time": 1736572639,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1009565,
+        "num": 1009565,
+        "word": "杨幂工作室",
+        "onboard_time": 1736578460,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1002673,
+        "num": 1002673,
+        "word": "韩国空难客机黑匣子撞墙前4分钟停录",
+        "onboard_time": 1736575522,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1828257,
+        "num": 974114,
+        "word": "李雪琴 从没在红毯这么好看过",
+        "onboard_time": 1736577739,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 814974,
+        "num": 814974,
+        "word": "张婧仪 海的女儿",
+        "onboard_time": 1736578282,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 762469,
+        "num": 762469,
+        "word": "微博之夜 交换礼物",
+        "onboard_time": 1736576902,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 272876,
+        "num": 272876,
+        "word": "黎深 有龙则灵",
+        "onboard_time": 1736580563,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126743,
+        "num": 270625,
+        "word": "敞篷车主回应上海遛车走红",
+        "onboard_time": 1736573781,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 654443,
+        "num": 267991,
+        "word": "王子奇给了王星越一下",
+        "onboard_time": 1736579602,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 640854,
+        "num": 266871,
+        "word": "林允耳环掉了",
+        "onboard_time": 1736579241,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 407355,
+        "num": 262302,
+        "word": "甄嬛传晚会",
+        "onboard_time": 1736579481,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344445,
+        "num": 261533,
+        "word": "微博之夜主持人手卡厚度",
+        "onboard_time": 1736577562,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 259568,
+        "num": 259568,
+        "word": "唯一关于兔子博物馆遭大火摧毁",
+        "onboard_time": 1736578581,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 307913,
+        "num": 259087,
+        "word": "白鹿复古花伶",
+        "onboard_time": 1736569220,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 257097,
+        "num": 257097,
+        "word": "动画还原2名中国女子在日被列车撞死",
+        "onboard_time": 1736569460,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141610,
+        "num": 256417,
+        "word": "美国洛杉矶山火为何不仅仅是天灾",
+        "onboard_time": 1736575101,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 44009,
+        "num": 254680,
+        "word": "刘宇紧身镂空上衣",
+        "onboard_time": 1736580503,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 58285,
+        "num": 254256,
+        "word": "曾黎微博之夜出发花絮",
+        "onboard_time": 1736578522,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1153321,
+        "num": 252848,
+        "word": "虞书欣黑莲花女王",
+        "onboard_time": 1736574381,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1063012,
+        "num": 250144,
+        "word": "卢昱晓 希腊女神",
+        "onboard_time": 1736575881,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 410673,
+        "num": 248694,
+        "word": "男子抽烟3娃被留高铁连扇自己耳光",
+        "onboard_time": 1736575401,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138381,
+        "num": 247285,
+        "word": "14岁女孩连续8年背闺蜜上学",
+        "onboard_time": 1736568320,
+        "rank": 23,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 128949,
+        "num": 246488,
+        "word": "加州800名消防员由囚犯充当",
+        "onboard_time": 1736563099,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 429677,
+        "num": 245572,
+        "word": "蓝盈莹给麦琳评论",
+        "onboard_time": 1736565497,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244407,
+        "num": 244407,
+        "word": "桐心薇泯",
+        "onboard_time": 1736579422,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227127,
+        "num": 227127,
+        "word": "国色芳华连狗都没敷衍我们",
+        "onboard_time": 1736570121,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125622,
+        "num": 226623,
+        "word": "深圳家长花85分钟才做完小学卷子",
+        "onboard_time": 1736571922,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125175,
+        "num": 226359,
+        "word": "博物馆文物被7岁小孩姐复制了",
+        "onboard_time": 1736578460,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226243,
+        "num": 226243,
+        "word": "林允微博之夜撞衫开花蜡烛",
+        "onboard_time": 1736564360,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212825,
+        "num": 212825,
+        "word": "曾黎裙子 乌江榨菜",
+        "onboard_time": 1736580382,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201864,
+        "num": 201864,
+        "word": "丞磊卢昱晓玩桌游",
+        "onboard_time": 1736578223,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124580,
+        "num": 197763,
+        "word": "甲流不给请假撂倒公司一大片",
+        "onboard_time": 1736565200,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196201,
+        "num": 196201,
+        "word": "工藤静香都来了",
+        "onboard_time": 1736580382,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196125,
+        "num": 196125,
+        "word": "百花迎春晚会录制",
+        "onboard_time": 1736580622,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182572,
+        "num": 182572,
+        "word": "夜色尚浅",
+        "onboard_time": 1736580323,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121788,
+        "num": 177616,
+        "word": "民警被刺4刀牺牲前画面看得心痛",
+        "onboard_time": 1736563879,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116575,
+        "num": 176009,
+        "word": "一个不回头一个不下楼",
+        "onboard_time": 1736579422,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115848,
+        "num": 175654,
+        "word": "男子聚会被两同事抱摔离世",
+        "onboard_time": 1736562379,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175614,
+        "num": 175614,
+        "word": "白敬亭微博之夜造型出图",
+        "onboard_time": 1736576902,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170620,
+        "num": 170620,
+        "word": "周洁琼油画少女",
+        "onboard_time": 1736571979,
+        "rank": 41,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 157415,
+        "num": 157415,
+        "word": "孟子义盘发vs披发",
+        "onboard_time": 1736580864,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156103,
+        "num": 156103,
+        "word": "李沁蛇系美人",
+        "onboard_time": 1736570961,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113636,
+        "num": 155875,
+        "word": "400元一碗的潮汕猪肚汤值吗",
+        "onboard_time": 1736578822,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 100054,
+        "num": 155542,
+        "word": "男子花170万买路虎开5公里趴窝",
+        "onboard_time": 1736568138,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91891,
+        "num": 155319,
+        "word": "男子酒店全裸服务员闯入送水果",
+        "onboard_time": 1736552055,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77557,
+        "num": 154924,
+        "word": "特朗普说这是耻辱我要上诉",
+        "onboard_time": 1736558658,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 71745,
+        "num": 154396,
+        "word": "努力羞耻症很严重怎么办",
+        "onboard_time": 1736580743,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70683,
+        "num": 154092,
+        "word": "花花无处安放的小jiojio",
+        "onboard_time": 1736574080,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让京剧艺术持续焕发时代光彩#"
+    }
+  }
+}
