@@ -1,6 +1,6 @@
 {
   "startTime": 1736526528002,
-  "endTime": 1736569566175,
+  "endTime": 1736570386905,
   "band_list": [
     {
       "raw_hot": 4871233,
@@ -11,8 +11,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2113695,
-      "num": 629202,
+      "raw_hot": 2163783,
+      "num": 658607,
       "word": "张雪峰一个口误公司春节放假23天",
       "onboard_time": 1736566819,
       "rank": 31,
@@ -89,6 +89,22 @@
       "onboard_time": 1736560938,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 723538,
+      "num": 723538,
+      "word": "赵本山曼谷演出取消",
+      "onboard_time": 1736569280,
+      "rank": 15,
+      "category": "演出,艺人"
+    },
+    {
+      "raw_hot": 715121,
+      "num": 715121,
+      "word": "微博之夜首批出图",
+      "onboard_time": 1736567360,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 712398,
@@ -195,20 +211,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 507427,
+      "num": 507427,
+      "word": "曾黎7米长非遗剪纸裙",
+      "onboard_time": 1736568799,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 492092,
       "num": 492092,
       "word": "郭敬明删博了",
       "onboard_time": 1736516663,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 477901,
-      "num": 477901,
-      "word": "微博之夜首批出图",
-      "onboard_time": 1736567360,
-      "rank": 6,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 472087,
@@ -355,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 353776,
+      "num": 353776,
+      "word": "王鹤棣田曦薇红温吻戏差点亲上",
+      "onboard_time": 1736568020,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 350122,
       "num": 224133,
       "word": "4种水果不甜但含糖量很高",
@@ -411,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 316523,
+      "num": 316523,
+      "word": "孟子义李昀锐昭昭墨墨舞台剧透",
+      "onboard_time": 1736569160,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 315982,
       "num": 315982,
       "word": "鸡腿诺",
@@ -441,14 +473,6 @@
       "onboard_time": 1736496921,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 297037,
-      "num": 297037,
-      "word": "王鹤棣田曦薇红温吻戏差点亲上",
-      "onboard_time": 1736568020,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 293239,
@@ -483,12 +507,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 280637,
-      "num": 280637,
-      "word": "赵本山曼谷演出取消",
-      "onboard_time": 1736569280,
-      "rank": 15,
-      "category": "演出,艺人"
+      "raw_hot": 281155,
+      "num": 281155,
+      "word": "动画还原2名中国女子在日被列车撞死",
+      "onboard_time": 1736569460,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 279808,
@@ -512,14 +536,6 @@
       "word": "微博之夜明星造型预告",
       "onboard_time": 1736559199,
       "rank": 19,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 271081,
-      "num": 271081,
-      "word": "曾黎7米长非遗剪纸裙",
-      "onboard_time": 1736568799,
-      "rank": 16,
       "category": "作品衍生"
     },
     {
@@ -563,6 +579,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 248080,
+      "num": 248080,
+      "word": "时代少年团微博之夜的交换礼物",
+      "onboard_time": 1736568920,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 242463,
+      "num": 297760,
+      "word": "洛杉矶山火已致10人死亡",
+      "onboard_time": 1736566400,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 237341,
       "num": 237341,
       "word": "外交部驳斥中国出现不明病毒论调",
@@ -592,14 +624,6 @@
       "word": "洛杉矶山火将街区烧成灰烬",
       "onboard_time": 1736534292,
       "rank": 9,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 225280,
-      "num": 297760,
-      "word": "洛杉矶山火已致10人死亡",
-      "onboard_time": 1736566400,
-      "rank": 33,
       "category": "海外新闻"
     },
     {
@@ -747,8 +771,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 182173,
-      "num": 182173,
+      "raw_hot": 183254,
+      "num": 183254,
       "word": "陈梦回老家合照被安排站C位",
       "onboard_time": 1736566162,
       "rank": 38,
@@ -771,22 +795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 178551,
-      "num": 178551,
-      "word": "时代少年团微博之夜的交换礼物",
-      "onboard_time": 1736568920,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 174666,
-      "num": 174666,
-      "word": "孟子义李昀锐昭昭墨墨舞台剧透",
-      "onboard_time": 1736569160,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 172625,
       "num": 172625,
       "word": "AI生成地震小孩被埋警惕虚假信息余震",
@@ -801,6 +809,22 @@
       "onboard_time": 1736563760,
       "rank": 42,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 167300,
+      "num": 234935,
+      "word": "白鹿复古花伶",
+      "onboard_time": 1736569220,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 164846,
+      "num": 164846,
+      "word": "国色芳华连狗都没敷衍我们",
+      "onboard_time": 1736570121,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 164257,
@@ -987,14 +1011,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122833,
-      "num": 122833,
-      "word": "动画还原2名中国女子在日被列车撞死",
-      "onboard_time": 1736569460,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 122817,
       "num": 244191,
       "word": "当地华人称山火整整烧了两天了",
@@ -1115,6 +1131,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 96492,
+      "num": 96492,
+      "word": "当地人称火再不灭洛杉矶都要烧没了",
+      "onboard_time": 1736570360,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 96161,
+      "num": 243991,
+      "word": "延时镜头呈现加州山火末日景象",
+      "onboard_time": 1736570301,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 95225,
       "num": 95225,
       "word": "洛杉矶日落大道被烧成废墟",
@@ -1155,6 +1187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70230,
+      "num": 242814,
+      "word": "你家有什么特别的年俗",
+      "onboard_time": 1736568500,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 66328,
       "num": 138954,
       "word": "打了HPV疫苗伴侣还需要打吗",
@@ -1169,14 +1209,6 @@
       "onboard_time": 1736531894,
       "rank": 26,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 62614,
-      "num": 197848,
-      "word": "你家有什么特别的年俗",
-      "onboard_time": 1736568500,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 62413,
