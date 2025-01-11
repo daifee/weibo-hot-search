@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/11 16:26:21
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/11 16:39:35
 </p>
 </blockquote>
 <p>
@@ -167,6 +167,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E7%8E%8B%E6%98%9F%E5%9C%A8%E9%A3%9E%E6%9C%BA%E4%B8%8A%E8%87%AA%E8%BF%B0%E5%89%83%E5%A4%B4%E8%BF%87%E7%A8%8B%23" target="weibo">
 演员王星在飞机上自述剃头过程（热度：4591252）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E5%BA%A7%E4%BD%8D%E5%9B%BE%23" target="weibo">
+微博之夜座位图（热度：4577904）
 </a>
 </li>
 
@@ -347,12 +353,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%9C%A3%E4%BE%9D%E6%B2%A1%E4%B8%8B%E8%BD%A6%23" target="weibo">
 黄圣依没下车（热度：2735310）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E5%BA%A7%E4%BD%8D%E5%9B%BE%23" target="weibo">
-微博之夜座位图（热度：2705513）
 </a>
 </li>
 
