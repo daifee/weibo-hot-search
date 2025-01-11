@@ -1,6 +1,6 @@
 {
   "startTime": 1736526528002,
-  "endTime": 1736590894471,
+  "endTime": 1736591919647,
   "band_list": [
     {
       "raw_hot": 11945070,
@@ -8,6 +8,14 @@
       "word": "杨紫李现 纯元CP结婚",
       "onboard_time": 1736586864,
       "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 8108051,
+      "num": 8108051,
+      "word": "肖战是谁的新郎",
+      "onboard_time": 1736589629,
+      "rank": 3,
       "category": "作品衍生"
     },
     {
@@ -19,6 +27,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 7207522,
+      "num": 7207522,
+      "word": "微博之夜内场",
+      "onboard_time": 1736590047,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 4871233,
       "num": 4871233,
       "word": "李某雪有严重精神障碍",
@@ -27,27 +43,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 4667339,
-      "num": 4667339,
-      "word": "微博之夜内场",
-      "onboard_time": 1736590047,
-      "rank": 1,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 4577904,
       "num": 4577904,
       "word": "微博之夜座位图",
       "onboard_time": 1736582603,
       "rank": 1,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 4351356,
-      "num": 4351356,
-      "word": "肖战是谁的新郎",
-      "onboard_time": 1736589629,
-      "rank": 3,
       "category": "作品衍生"
     },
     {
@@ -75,8 +75,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1952556,
-      "num": 1952556,
+      "raw_hot": 1990564,
+      "num": 1990564,
       "word": "李冰冰赵丽颖手牵手",
       "onboard_time": 1736589808,
       "rank": 6,
@@ -131,8 +131,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1508350,
-      "num": 1508350,
+      "raw_hot": 1545151,
+      "num": 1545151,
       "word": "关晓彤造型师",
       "onboard_time": 1736588429,
       "rank": 10,
@@ -267,6 +267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 859110,
+      "num": 859110,
+      "word": "肖战弯腰和惠英红打招呼",
+      "onboard_time": 1736589151,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 855492,
       "num": 855492,
       "word": "微博之夜 交换礼物",
@@ -305,14 +313,6 @@
       "onboard_time": 1736569280,
       "rank": 4,
       "category": "演出,艺人"
-    },
-    {
-      "raw_hot": 781307,
-      "num": 781307,
-      "word": "肖战弯腰和惠英红打招呼",
-      "onboard_time": 1736589151,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 778123,
@@ -483,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 614352,
+      "num": 612207,
+      "word": "我叫郑晓龙 在甄嬛传饰演导演",
+      "onboard_time": 1736586743,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 613070,
       "num": 613070,
       "word": "刘浩存工作室",
@@ -491,12 +499,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 612207,
-      "num": 612207,
-      "word": "我叫郑晓龙 在甄嬛传饰演导演",
-      "onboard_time": 1736586743,
-      "rank": 35,
-      "category": "剧集"
+      "raw_hot": 600311,
+      "num": 241084,
+      "word": "EXO唱了初雪",
+      "onboard_time": 1736590947,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 595313,
@@ -576,6 +584,14 @@
       "word": "曾黎7米长非遗剪纸裙",
       "onboard_time": 1736568799,
       "rank": 16,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 512146,
+      "num": 314239,
+      "word": "李宇春压轴",
+      "onboard_time": 1736590587,
+      "rank": 44,
       "category": "作品衍生"
     },
     {
@@ -1003,14 +1019,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 314239,
-      "num": 314239,
-      "word": "李宇春压轴",
-      "onboard_time": 1736590587,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 303807,
       "num": 303807,
       "word": "王一博微博之夜此刻",
@@ -1195,6 +1203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 254845,
+      "num": 613588,
+      "word": "云南一警犬因上班没精神被通报批评",
+      "onboard_time": 1736590827,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 254327,
       "num": 254327,
       "word": "薛之谦 人在尴尬的时候可以唱歌",
@@ -1241,6 +1257,14 @@
       "onboard_time": 1736577261,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241706,
+      "num": 459382,
+      "word": "狼队对战AG",
+      "onboard_time": 1736583203,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 240067,
@@ -1419,20 +1443,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 198960,
-      "num": 613588,
-      "word": "云南一警犬因上班没精神被通报批评",
-      "onboard_time": 1736590827,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 197263,
       "num": 134431,
       "word": "蔡明倪萍见面就是蛐蛐",
       "onboard_time": 1736574981,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196710,
+      "num": 241161,
+      "word": "李某涉嫌以危险方法危害公共安全罪",
+      "onboard_time": 1736591727,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196138,
@@ -1619,6 +1643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 177173,
+      "num": 744508,
+      "word": "央视曝光2.5折解债骗局",
+      "onboard_time": 1736586506,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 175072,
       "num": 175072,
       "word": "夏以昼飞鸟回还日",
@@ -1633,14 +1665,6 @@
       "onboard_time": 1736548814,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 170229,
-      "num": 744508,
-      "word": "央视曝光2.5折解债骗局",
-      "onboard_time": 1736586506,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 169592,
@@ -1755,6 +1779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 156416,
+      "num": 269556,
+      "word": "洛杉矶山火已有约万栋建筑被烧",
+      "onboard_time": 1736587407,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 156032,
       "num": 156032,
       "word": "微博之夜时代峰峻三代都有节目",
@@ -1795,6 +1827,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 147023,
+      "num": 348202,
+      "word": "狼队bp",
+      "onboard_time": 1736588069,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 146513,
       "num": 146513,
       "word": "赵丽颖到达北京",
@@ -1817,14 +1857,6 @@
       "onboard_time": 1736580743,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 143369,
-      "num": 459382,
-      "word": "狼队对战AG",
-      "onboard_time": 1736583203,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 141854,
@@ -1939,6 +1971,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 127549,
+      "num": 240763,
+      "word": "AG决赛三比零领先",
+      "onboard_time": 1736591127,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126743,
       "num": 270625,
       "word": "敞篷车主回应上海遛车走红",
@@ -2033,14 +2073,6 @@
       "onboard_time": 1736579302,
       "rank": 43,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 113872,
-      "num": 348202,
-      "word": "狼队bp",
-      "onboard_time": 1736588069,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 113420,
@@ -2251,20 +2283,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 80628,
-      "num": 269556,
-      "word": "洛杉矶山火已有约万栋建筑被烧",
-      "onboard_time": 1736587407,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 79869,
       "num": 268959,
       "word": "团伙宣称2.5折解债疯狂吸金超2亿",
       "onboard_time": 1736590827,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79145,
+      "num": 239166,
+      "word": "发育路扁鹊",
+      "onboard_time": 1736591609,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 79019,
@@ -2281,6 +2313,14 @@
       "onboard_time": 1736502019,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 75641,
+      "num": 239951,
+      "word": "淘小宝猫天天红毯演我走亲戚",
+      "onboard_time": 1736591247,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 72735,
@@ -2467,6 +2507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 39280,
+      "num": 1420756,
+      "word": "民警从3米高房顶跳下抓毒贩",
+      "onboard_time": 1736590827,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38666,
       "num": 1130533,
       "word": "2024年加州爆发3500起山火",
@@ -2513,6 +2561,14 @@
       "onboard_time": 1736587226,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 28205,
+      "num": 241599,
+      "word": "欧阳娜娜微博之夜以浪漫之名呼唤苍穹",
+      "onboard_time": 1736591247,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 27554,
@@ -2627,20 +2683,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 10014,
-      "num": 485436,
-      "word": "民警从3米高房顶跳下抓毒贩",
-      "onboard_time": 1736590827,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 9186,
       "num": 28822,
       "word": "唐朝小姐姐穿搭被陶俑定格",
       "onboard_time": 1736543891,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7347,
+      "num": 4797234,
+      "word": "1分钟见证歼20含金量不断上升",
+      "onboard_time": 1736591849,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 6016,
