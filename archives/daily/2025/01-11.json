@@ -1,6 +1,6 @@
 {
   "startTime": 1736526528002,
-  "endTime": 1736564568432,
+  "endTime": 1736566028155,
   "band_list": [
     {
       "raw_hot": 4871233,
@@ -19,6 +19,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1223178,
+      "num": 1223178,
+      "word": "男子聚会被两同事抱摔离世",
+      "onboard_time": 1736562379,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1140474,
       "num": 1140474,
       "word": "美国名媛山火后回家发现只剩门框",
@@ -33,14 +41,6 @@
       "onboard_time": 1736555839,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1081137,
-      "num": 1172982,
-      "word": "男子聚会被两同事抱摔离世",
-      "onboard_time": 1736562379,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 947995,
@@ -65,6 +65,14 @@
       "onboard_time": 1736512521,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 729821,
+      "num": 658936,
+      "word": "李某雪父亲已将其从医院接走",
+      "onboard_time": 1736560938,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 696086,
@@ -97,6 +105,22 @@
       "onboard_time": 1736522542,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 662456,
+      "num": 662456,
+      "word": "宁夏多地或出现蛇形云",
+      "onboard_time": 1736562498,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 658206,
+      "num": 658206,
+      "word": "民警被刺4刀牺牲前画面看得心痛",
+      "onboard_time": 1736563879,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 651984,
@@ -171,14 +195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 458571,
-      "num": 458571,
-      "word": "李某雪父亲已将其从医院接走",
-      "onboard_time": 1736560938,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 455755,
       "num": 455755,
       "word": "江西南昌再通报李某雪情况",
@@ -195,12 +211,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 432120,
-      "num": 432120,
-      "word": "宁夏多地或出现蛇形云",
-      "onboard_time": 1736562498,
-      "rank": 12,
-      "category": "民生新闻"
+      "raw_hot": 438845,
+      "num": 438845,
+      "word": "丁禹兮总要记得带眼镜的",
+      "onboard_time": 1736563400,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 430732,
@@ -251,8 +267,24 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 382552,
+      "num": 243879,
+      "word": "甲流不给请假撂倒公司一大片",
+      "onboard_time": 1736565200,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 379715,
+      "num": 379715,
+      "word": "林允微博之夜撞衫开花蜡烛",
+      "onboard_time": 1736564360,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 378934,
-      "num": 234004,
+      "num": 242182,
       "word": "男子酒店全裸服务员闯入送水果",
       "onboard_time": 1736552055,
       "rank": 30,
@@ -299,6 +331,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 327923,
+      "num": 327923,
+      "word": "蓝盈莹给麦琳评论",
+      "onboard_time": 1736565497,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 326229,
+      "num": 326229,
+      "word": "微博之夜只差易烊千玺就三代同堂了",
+      "onboard_time": 1736561779,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 325858,
       "num": 222829,
       "word": "79岁大爷丧偶十多年感染艾滋病",
@@ -315,6 +363,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 318087,
+      "num": 238366,
+      "word": "韦雪前夫谈离婚原因",
+      "onboard_time": 1736565320,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 317531,
       "num": 317531,
       "word": "36岁女子做育儿嫂4年买车房存款30万",
@@ -329,14 +385,6 @@
       "onboard_time": 1736552716,
       "rank": 14,
       "category": "网红"
-    },
-    {
-      "raw_hot": 300370,
-      "num": 300370,
-      "word": "丁禹兮总要记得带眼镜的",
-      "onboard_time": 1736563400,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 300328,
@@ -419,6 +467,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 254327,
+      "num": 254327,
+      "word": "薛之谦 人在尴尬的时候可以唱歌",
+      "onboard_time": 1736565200,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 247368,
+      "num": 361886,
+      "word": "加州800名消防员由囚犯充当",
+      "onboard_time": 1736563099,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 243568,
+      "num": 243568,
+      "word": "一个群演的13秒镜头",
+      "onboard_time": 1736564659,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 237341,
       "num": 237341,
       "word": "外交部驳斥中国出现不明病毒论调",
@@ -428,15 +500,15 @@
     },
     {
       "raw_hot": 235875,
-      "num": 233840,
+      "num": 241383,
       "word": "杨鸣更衣室大发雷霆",
       "onboard_time": 1736562739,
       "rank": 31,
       "category": "体育"
     },
     {
-      "raw_hot": 235043,
-      "num": 235043,
+      "raw_hot": 235765,
+      "num": 235765,
       "word": "王鹤棣出发参加微博之夜路透",
       "onboard_time": 1736562620,
       "rank": 16,
@@ -507,6 +579,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205126,
+      "num": 205126,
+      "word": "李昀锐微博之夜预告",
+      "onboard_time": 1736565439,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 199099,
+      "num": 244191,
+      "word": "时代少年准备的窗花",
+      "onboard_time": 1736565019,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 193434,
       "num": 193434,
       "word": "大奉打更人热度",
@@ -563,36 +651,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 174673,
-      "num": 209705,
-      "word": "加州800名消防员由囚犯充当",
-      "onboard_time": 1736563099,
-      "rank": 22,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 172625,
       "num": 172625,
       "word": "AI生成地震小孩被埋警惕虚假信息余震",
       "onboard_time": 1736548814,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 167957,
-      "num": 223986,
-      "word": "民警被刺4刀牺牲前画面看得心痛",
-      "onboard_time": 1736563879,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 166027,
-      "num": 233683,
-      "word": "微博之夜只差易烊千玺就三代同堂了",
-      "onboard_time": 1736561779,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 164257,
@@ -635,6 +699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 157296,
+      "num": 157296,
+      "word": "拜登让哈里斯开火言论引不满",
+      "onboard_time": 1736565139,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 156032,
       "num": 156032,
       "word": "微博之夜时代峰峻三代都有节目",
@@ -649,6 +721,14 @@
       "onboard_time": 1736557279,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152644,
+      "num": 152644,
+      "word": "辛芷蕾猫尾挂脖高定",
+      "onboard_time": 1736565680,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 152127,
@@ -707,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139343,
+      "num": 139343,
+      "word": "丁禹兮记得戴眼镜",
+      "onboard_time": 1736565859,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 137538,
       "num": 137538,
       "word": "泰州一女子取下全部头皮救父亲",
@@ -737,6 +825,14 @@
       "onboard_time": 1736560219,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131287,
+      "num": 131287,
+      "word": "白月梵星",
+      "onboard_time": 1736564300,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 129649,
@@ -779,14 +875,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 118004,
-      "num": 118004,
-      "word": "白月梵星",
-      "onboard_time": 1736564300,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 116736,
       "num": 116736,
       "word": "华晨宇 稍等睡过了洗个澡",
@@ -809,6 +897,14 @@
       "onboard_time": 1736559559,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108702,
+      "num": 108702,
+      "word": "照明无人机点亮震区救援安置现场",
+      "onboard_time": 1736565139,
+      "rank": 46,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 104566,
@@ -865,14 +961,6 @@
       "onboard_time": 1736558778,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 86852,
-      "num": 123624,
-      "word": "林允微博之夜撞衫开花蜡烛",
-      "onboard_time": 1736564360,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 84128,
@@ -971,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52597,
+      "num": 138954,
+      "word": "打了HPV疫苗伴侣还需要打吗",
+      "onboard_time": 1736562919,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 50620,
       "num": 50620,
       "word": "今天中国人民警察节",
@@ -1033,14 +1129,6 @@
       "onboard_time": 1736541492,
       "rank": 18,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 28591,
-      "num": 135633,
-      "word": "打了HPV疫苗伴侣还需要打吗",
-      "onboard_time": 1736562919,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 27558,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1736566028155,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1223178,
+        "num": 1223178,
+        "word": "男子聚会被两同事抱摔离世",
+        "onboard_time": 1736562379,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 662456,
+        "num": 662456,
+        "word": "宁夏多地或出现蛇形云",
+        "onboard_time": 1736562498,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22892,
+        "num": 659186,
+        "word": "热血忠诚守护万家灯火",
+        "onboard_time": 1736515104,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 729821,
+        "num": 658936,
+        "word": "李某雪父亲已将其从医院接走",
+        "onboard_time": 1736560938,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 658206,
+        "num": 658206,
+        "word": "民警被刺4刀牺牲前画面看得心痛",
+        "onboard_time": 1736563879,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4099245,
+        "num": 621070,
+        "word": "李某雪有严重精神障碍",
+        "onboard_time": 1736560758,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 566114,
+        "num": 566114,
+        "word": "美国名媛山火后回家发现只剩门框",
+        "onboard_time": 1736553256,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 438845,
+        "num": 438845,
+        "word": "丁禹兮总要记得带眼镜的",
+        "onboard_time": 1736563400,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 379715,
+        "num": 379715,
+        "word": "林允微博之夜撞衫开花蜡烛",
+        "onboard_time": 1736564360,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 247368,
+        "num": 361886,
+        "word": "加州800名消防员由囚犯充当",
+        "onboard_time": 1736563099,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 433489,
+        "num": 361842,
+        "word": "老友记已故主演住宅火中奇迹幸存",
+        "onboard_time": 1736557579,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 361008,
+        "num": 361008,
+        "word": "特朗普说这是耻辱我要上诉",
+        "onboard_time": 1736558658,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 343767,
+        "num": 343767,
+        "word": "微博之夜出图凌晨就开始了",
+        "onboard_time": 1736552898,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 336938,
+        "num": 336938,
+        "word": "江西南昌再通报李某雪情况",
+        "onboard_time": 1736560758,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327923,
+        "num": 327923,
+        "word": "蓝盈莹给麦琳评论",
+        "onboard_time": 1736565497,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326229,
+        "num": 326229,
+        "word": "微博之夜只差易烊千玺就三代同堂了",
+        "onboard_time": 1736561779,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 304105,
+        "num": 304105,
+        "word": "李昀锐给孟子义整理裙子",
+        "onboard_time": 1736559019,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 282620,
+        "num": 282620,
+        "word": "四川省考成绩",
+        "onboard_time": 1736563160,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 254327,
+        "num": 254327,
+        "word": "薛之谦 人在尴尬的时候可以唱歌",
+        "onboard_time": 1736565200,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199099,
+        "num": 244191,
+        "word": "时代少年准备的窗花",
+        "onboard_time": 1736565019,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 468605,
+        "num": 243982,
+        "word": "迪丽热巴陈飞宇婚服吻戏路透",
+        "onboard_time": 1736555839,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382552,
+        "num": 243879,
+        "word": "甲流不给请假撂倒公司一大片",
+        "onboard_time": 1736565200,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 243568,
+        "num": 243568,
+        "word": "一个群演的13秒镜头",
+        "onboard_time": 1736564659,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 339892,
+        "num": 242182,
+        "word": "男子酒店全裸服务员闯入送水果",
+        "onboard_time": 1736552055,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207288,
+        "num": 241383,
+        "word": "杨鸣更衣室大发雷霆",
+        "onboard_time": 1736562739,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318087,
+        "num": 238366,
+        "word": "韦雪前夫谈离婚原因",
+        "onboard_time": 1736565320,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 256335,
+        "num": 237040,
+        "word": "12306 难抢",
+        "onboard_time": 1736558839,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235765,
+        "num": 235765,
+        "word": "王鹤棣出发参加微博之夜路透",
+        "onboard_time": 1736562620,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 228986,
+        "num": 228986,
+        "word": "微博之夜节目单",
+        "onboard_time": 1736519842,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224748,
+        "num": 224748,
+        "word": "微博之夜明星造型预告",
+        "onboard_time": 1736559199,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205126,
+        "num": 205126,
+        "word": "李昀锐微博之夜预告",
+        "onboard_time": 1736565439,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192455,
+        "num": 192455,
+        "word": "79岁大爷丧偶十多年感染艾滋病",
+        "onboard_time": 1736522121,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169666,
+        "num": 169666,
+        "word": "麦琳好友晒聊天记录",
+        "onboard_time": 1736519363,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157296,
+        "num": 157296,
+        "word": "拜登让哈里斯开火言论引不满",
+        "onboard_time": 1736565139,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152644,
+        "num": 152644,
+        "word": "辛芷蕾猫尾挂脖高定",
+        "onboard_time": 1736565680,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146085,
+        "num": 146085,
+        "word": "酒店回应男子全裸遭服务员闯入",
+        "onboard_time": 1736554098,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144984,
+        "num": 144984,
+        "word": "海恩贤圭 分手",
+        "onboard_time": 1736512521,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139343,
+        "num": 139343,
+        "word": "丁禹兮记得戴眼镜",
+        "onboard_time": 1736565859,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 52597,
+        "num": 138954,
+        "word": "打了HPV疫苗伴侣还需要打吗",
+        "onboard_time": 1736562919,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138789,
+        "num": 138789,
+        "word": "加州居民质问为什么消防栓没水",
+        "onboard_time": 1736559858,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 131287,
+        "num": 131287,
+        "word": "白月梵星",
+        "onboard_time": 1736564300,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125736,
+        "num": 125736,
+        "word": "今天歼20成功首飞14周年",
+        "onboard_time": 1736553256,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124250,
+        "num": 124250,
+        "word": "鸡腿诺",
+        "onboard_time": 1736552716,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 122779,
+        "num": 122779,
+        "word": "毛球球",
+        "onboard_time": 1736563760,
+        "rank": 43,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 110991,
+        "num": 110991,
+        "word": "留几手说葛夕从头到尾都在揭短",
+        "onboard_time": 1736536092,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109193,
+        "num": 109193,
+        "word": "白鹿哭戏",
+        "onboard_time": 1736556859,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108702,
+        "num": 108702,
+        "word": "照明无人机点亮震区救援安置现场",
+        "onboard_time": 1736565139,
+        "rank": 46,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 107846,
+        "num": 107846,
+        "word": "国乒男单无缘WTT多哈站八强",
+        "onboard_time": 1736553556,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106410,
+        "num": 106410,
+        "word": "4种水果不甜但含糖量很高",
+        "onboard_time": 1736532434,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 103164,
+        "num": 103164,
+        "word": "孙颖莎王楚钦春节将迎蛇年首赛",
+        "onboard_time": 1736557279,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对人民警察队伍的嘱托#"
+    }
+  }
+}
