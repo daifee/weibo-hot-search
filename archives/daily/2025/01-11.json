@@ -1,6 +1,6 @@
 {
   "startTime": 1736526528002,
-  "endTime": 1736570386905,
+  "endTime": 1736572839503,
   "band_list": [
     {
       "raw_hot": 4871233,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2163783,
-      "num": 658607,
+      "num": 756368,
       "word": "张雪峰一个口误公司春节放假23天",
       "onboard_time": 1736566819,
       "rank": 31,
@@ -33,6 +33,14 @@
       "onboard_time": 1736557579,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1290805,
+      "num": 1290805,
+      "word": "微博之夜首批出图",
+      "onboard_time": 1736567360,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1223178,
@@ -59,6 +67,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 982221,
+      "num": 982221,
+      "word": "国色芳华连狗都没敷衍我们",
+      "onboard_time": 1736570121,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 947995,
       "num": 947995,
       "word": "麦琳好友晒聊天记录",
@@ -73,6 +89,14 @@
       "onboard_time": 1736519842,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 783045,
+      "num": 783045,
+      "word": "赵本山曼谷演出官宣延期",
+      "onboard_time": 1736569280,
+      "rank": 4,
+      "category": "演出,艺人"
     },
     {
       "raw_hot": 749623,
@@ -97,14 +121,6 @@
       "onboard_time": 1736569280,
       "rank": 15,
       "category": "演出,艺人"
-    },
-    {
-      "raw_hot": 715121,
-      "num": 715121,
-      "word": "微博之夜首批出图",
-      "onboard_time": 1736567360,
-      "rank": 6,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 712398,
@@ -171,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 636711,
+      "num": 636711,
+      "word": "动画还原2名中国女子在日被列车撞死",
+      "onboard_time": 1736569460,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 595313,
       "num": 897767,
       "word": "黄子韬直播间960万人参与抽奖",
@@ -211,11 +235,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 507427,
-      "num": 507427,
+      "raw_hot": 512951,
+      "num": 512951,
       "word": "曾黎7米长非遗剪纸裙",
       "onboard_time": 1736568799,
       "rank": 16,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 507856,
+      "num": 507856,
+      "word": "李沁蛇系美人",
+      "onboard_time": 1736570961,
+      "rank": 10,
       "category": "作品衍生"
     },
     {
@@ -291,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 416817,
+      "num": 508661,
+      "word": "当地人称火再不灭洛杉矶都要烧没了",
+      "onboard_time": 1736570360,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 416477,
       "num": 583466,
       "word": "山西临汾地震",
@@ -337,6 +377,14 @@
       "onboard_time": 1736565320,
       "rank": 25,
       "category": "网红"
+    },
+    {
+      "raw_hot": 387540,
+      "num": 387540,
+      "word": "孟子义李昀锐昭昭墨墨舞台剧透",
+      "onboard_time": 1736569160,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 378934,
@@ -411,6 +459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 326479,
+      "num": 240305,
+      "word": "刘晓庆是真饿了",
+      "onboard_time": 1736571681,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 325858,
       "num": 222829,
       "word": "79岁大爷丧偶十多年感染艾滋病",
@@ -435,14 +491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 316523,
-      "num": 316523,
-      "word": "孟子义李昀锐昭昭墨墨舞台剧透",
-      "onboard_time": 1736569160,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 315982,
       "num": 315982,
       "word": "鸡腿诺",
@@ -457,6 +505,14 @@
       "onboard_time": 1736565139,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 303041,
+      "num": 303041,
+      "word": "洛杉矶山火已致10人死亡",
+      "onboard_time": 1736566400,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 301177,
@@ -507,14 +563,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 281155,
-      "num": 281155,
-      "word": "动画还原2名中国女子在日被列车撞死",
-      "onboard_time": 1736569460,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 279808,
       "num": 224854,
       "word": "历届微博之夜KingQueen名单",
@@ -531,11 +579,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273552,
+      "num": 273552,
+      "word": "周洁琼油画少女",
+      "onboard_time": 1736571979,
+      "rank": 17,
+      "category": "作品衍生,综艺"
+    },
+    {
       "raw_hot": 272067,
       "num": 272067,
       "word": "微博之夜明星造型预告",
       "onboard_time": 1736559199,
       "rank": 19,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 267060,
+      "num": 267060,
+      "word": "丁禹兮第一次参加微博之夜就有舞台",
+      "onboard_time": 1736570660,
+      "rank": 18,
       "category": "作品衍生"
     },
     {
@@ -587,14 +651,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 242463,
-      "num": 297760,
-      "word": "洛杉矶山火已致10人死亡",
-      "onboard_time": 1736566400,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 237341,
       "num": 237341,
       "word": "外交部驳斥中国出现不明病毒论调",
@@ -625,6 +681,14 @@
       "onboard_time": 1736534292,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 224845,
+      "num": 224845,
+      "word": "鹤俐昀端",
+      "onboard_time": 1736572760,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 221397,
@@ -755,6 +819,38 @@
       "category": "网红"
     },
     {
+      "raw_hot": 188497,
+      "num": 188497,
+      "word": "无限暖暖",
+      "onboard_time": 1736571019,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 187539,
+      "num": 100987,
+      "word": "丁禹兮出发前",
+      "onboard_time": 1736571561,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187357,
+      "num": 187357,
+      "word": "陆沉小尖牙",
+      "onboard_time": 1736571860,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 186229,
+      "num": 186229,
+      "word": "微博之夜你好事做尽",
+      "onboard_time": 1736570840,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 185987,
       "num": 185987,
       "word": "祖龙起诉叠纸",
@@ -777,6 +873,14 @@
       "onboard_time": 1736566162,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182140,
+      "num": 182140,
+      "word": "14岁女孩连续8年背闺蜜上学",
+      "onboard_time": 1736568320,
+      "rank": 36,
+      "category": "正能量"
     },
     {
       "raw_hot": 180169,
@@ -811,20 +915,20 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 168011,
+      "num": 168011,
+      "word": "夏以昼飞鸟回还日",
+      "onboard_time": 1736571860,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 167300,
       "num": 234935,
       "word": "白鹿复古花伶",
       "onboard_time": 1736569220,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 164846,
-      "num": 164846,
-      "word": "国色芳华连狗都没敷衍我们",
-      "onboard_time": 1736570121,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 164257,
@@ -883,14 +987,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 155285,
-      "num": 155285,
-      "word": "14岁女孩连续8年背闺蜜上学",
-      "onboard_time": 1736568320,
-      "rank": 36,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 152714,
       "num": 152714,
       "word": "孙颖莎王楚钦春节将迎蛇年首赛",
@@ -921,6 +1017,14 @@
       "onboard_time": 1736566939,
       "rank": 37,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 148642,
+      "num": 243991,
+      "word": "延时镜头呈现加州山火末日景象",
+      "onboard_time": 1736570301,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 146513,
@@ -969,6 +1073,14 @@
       "onboard_time": 1736513361,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133464,
+      "num": 133464,
+      "word": "大奉亲个嘴都翻车",
+      "onboard_time": 1736572639,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 133313,
@@ -1051,6 +1163,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 115663,
+      "num": 115663,
+      "word": "美59岁演员大火中差点跳海逃生",
+      "onboard_time": 1736571440,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 113413,
       "num": 113413,
       "word": "希林娜依高需要一条围脖",
@@ -1081,6 +1201,14 @@
       "onboard_time": 1736565139,
       "rank": 46,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 108258,
+      "num": 113341,
+      "word": "丁禹兮驾照还没捂热车已经选好了",
+      "onboard_time": 1736572701,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 105615,
@@ -1115,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102455,
+      "num": 297226,
+      "word": "深圳家长花85分钟才做完小学卷子",
+      "onboard_time": 1736571922,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100363,
       "num": 100363,
       "word": "肥娟直播间5分钟收9万嘉年华",
@@ -1129,22 +1265,6 @@
       "onboard_time": 1736528058,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 96492,
-      "num": 96492,
-      "word": "当地人称火再不灭洛杉矶都要烧没了",
-      "onboard_time": 1736570360,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 96161,
-      "num": 243991,
-      "word": "延时镜头呈现加州山火末日景象",
-      "onboard_time": 1736570301,
-      "rank": 18,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 95225,
@@ -1339,20 +1459,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 33437,
+      "num": 796951,
+      "word": "热血忠诚守护万家灯火",
+      "onboard_time": 1736515104,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32089,
+      "num": 242360,
+      "word": "避免考试题目太绕也是一种减负",
+      "onboard_time": 1736572041,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28826,
       "num": 28826,
       "word": "为鲁GT8586司机点赞",
       "onboard_time": 1736541492,
       "rank": 18,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 27558,
-      "num": 796951,
-      "word": "热血忠诚守护万家灯火",
-      "onboard_time": 1736515104,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27554,
@@ -1459,6 +1587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11373,
+      "num": 1018520,
+      "word": "一条视频科普流感高发期知识",
+      "onboard_time": 1736572639,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 9186,
       "num": 28822,
       "word": "唐朝小姐姐穿搭被陶俑定格",
@@ -1481,6 +1617,9 @@
     },
     {
       "word": "#总书记对人民警察队伍的嘱托#"
+    },
+    {
+      "word": "#让京剧艺术持续焕发时代光彩#"
     }
   ]
 }
