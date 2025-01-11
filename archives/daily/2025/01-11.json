@@ -1,6 +1,6 @@
 {
   "startTime": 1736526528002,
-  "endTime": 1736566883341,
+  "endTime": 1736569566175,
   "band_list": [
     {
       "raw_hot": 4871233,
@@ -9,6 +9,22 @@
       "onboard_time": 1736560758,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2113695,
+      "num": 629202,
+      "word": "张雪峰一个口误公司春节放假23天",
+      "onboard_time": 1736566819,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1568832,
+      "num": 1568832,
+      "word": "蓝盈莹给麦琳评论",
+      "onboard_time": 1736565497,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 1454805,
@@ -25,14 +41,6 @@
       "onboard_time": 1736562379,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1148714,
-      "num": 1148714,
-      "word": "蓝盈莹给麦琳评论",
-      "onboard_time": 1736565497,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 1140474,
@@ -195,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 477901,
+      "num": 477901,
+      "word": "微博之夜首批出图",
+      "onboard_time": 1736567360,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 472087,
       "num": 472087,
       "word": "特朗普罪名成立但不予惩罚",
@@ -244,7 +260,7 @@
     },
     {
       "raw_hot": 427460,
-      "num": 243879,
+      "num": 261448,
       "word": "甲流不给请假撂倒公司一大片",
       "onboard_time": 1736565200,
       "rank": 21,
@@ -275,6 +291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 404742,
+      "num": 404742,
+      "word": "加州800名消防员由囚犯充当",
+      "onboard_time": 1736563099,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 392129,
       "num": 392129,
       "word": "顾时夜 夏以昼",
@@ -292,27 +316,27 @@
     },
     {
       "raw_hot": 388127,
-      "num": 238366,
+      "num": 261389,
       "word": "韦雪前夫谈离婚原因",
       "onboard_time": 1736565320,
       "rank": 25,
       "category": "网红"
     },
     {
-      "raw_hot": 386180,
-      "num": 386180,
-      "word": "加州800名消防员由囚犯充当",
-      "onboard_time": 1736563099,
-      "rank": 22,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 378934,
-      "num": 242182,
+      "num": 261120,
       "word": "男子酒店全裸服务员闯入送水果",
       "onboard_time": 1736552055,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 369747,
+      "num": 369747,
+      "word": "一个群演的13秒镜头",
+      "onboard_time": 1736564659,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 367041,
@@ -355,8 +379,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 326229,
-      "num": 326229,
+      "raw_hot": 329999,
+      "num": 329999,
       "word": "微博之夜只差易烊千玺就三代同堂了",
       "onboard_time": 1736561779,
       "rank": 33,
@@ -387,14 +411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 316761,
-      "num": 316761,
-      "word": "一个群演的13秒镜头",
-      "onboard_time": 1736564659,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 315982,
       "num": 315982,
       "word": "鸡腿诺",
@@ -403,12 +419,36 @@
       "category": "网红"
     },
     {
+      "raw_hot": 315921,
+      "num": 348668,
+      "word": "拜登让哈里斯开火言论引不满",
+      "onboard_time": 1736565139,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 301177,
+      "num": 301177,
+      "word": "辛芷蕾出图",
+      "onboard_time": 1736567240,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 300328,
       "num": 300328,
       "word": "女生确诊渐冻症一年容貌巨变",
       "onboard_time": 1736496921,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 297037,
+      "num": 297037,
+      "word": "王鹤棣田曦薇红温吻戏差点亲上",
+      "onboard_time": 1736568020,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 293239,
@@ -435,6 +475,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 281699,
+      "num": 271073,
+      "word": "辛芷蕾猫尾挂脖高定",
+      "onboard_time": 1736565680,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 280637,
+      "num": 280637,
+      "word": "赵本山曼谷演出取消",
+      "onboard_time": 1736569280,
+      "rank": 15,
+      "category": "演出,艺人"
+    },
+    {
       "raw_hot": 279808,
       "num": 224854,
       "word": "历届微博之夜KingQueen名单",
@@ -459,12 +515,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 271081,
+      "num": 271081,
+      "word": "曾黎7米长非遗剪纸裙",
+      "onboard_time": 1736568799,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 265658,
       "num": 265658,
       "word": "父亲跨省找到儿子生前影像哽咽不止",
       "onboard_time": 1736517443,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 261525,
+      "num": 261525,
+      "word": "微博之夜 6个机位",
+      "onboard_time": 1736566580,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 255305,
@@ -523,6 +595,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 225280,
+      "num": 297760,
+      "word": "洛杉矶山火已致10人死亡",
+      "onboard_time": 1736566400,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 221397,
       "num": 221397,
       "word": "教育局回应学生签放弃中考承诺书",
@@ -555,12 +635,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 217092,
-      "num": 175879,
-      "word": "张雪峰一个口误公司春节放假23天",
-      "onboard_time": 1736566819,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 214179,
+      "num": 214179,
+      "word": "穿越时空的少女 日漫纯爱天花板",
+      "onboard_time": 1736568740,
+      "rank": 23,
+      "category": "动漫"
     },
     {
       "raw_hot": 210258,
@@ -587,14 +667,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 207461,
-      "num": 207461,
-      "word": "拜登让哈里斯开火言论引不满",
-      "onboard_time": 1736565139,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 205126,
       "num": 205126,
       "word": "李昀锐微博之夜预告",
@@ -611,12 +683,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 198286,
-      "num": 198286,
-      "word": "辛芷蕾猫尾挂脖高定",
-      "onboard_time": 1736565680,
-      "rank": 34,
-      "category": "作品衍生"
+      "raw_hot": 194907,
+      "num": 194907,
+      "word": "男子花170万买路虎开5公里趴窝",
+      "onboard_time": 1736568138,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193434,
@@ -675,6 +747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 182173,
+      "num": 182173,
+      "word": "陈梦回老家合照被安排站C位",
+      "onboard_time": 1736566162,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180169,
       "num": 180169,
       "word": "韩国人在上海见识真正的继承者们",
@@ -683,12 +763,44 @@
       "category": "情感"
     },
     {
+      "raw_hot": 179169,
+      "num": 329997,
+      "word": "护士离世完成生命里最后一次救援",
+      "onboard_time": 1736566759,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178551,
+      "num": 178551,
+      "word": "时代少年团微博之夜的交换礼物",
+      "onboard_time": 1736568920,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 174666,
+      "num": 174666,
+      "word": "孟子义李昀锐昭昭墨墨舞台剧透",
+      "onboard_time": 1736569160,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 172625,
       "num": 172625,
       "word": "AI生成地震小孩被埋警惕虚假信息余震",
       "onboard_time": 1736548814,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169592,
+      "num": 169592,
+      "word": "毛球球",
+      "onboard_time": 1736563760,
+      "rank": 42,
+      "category": "读书作家"
     },
     {
       "raw_hot": 164257,
@@ -723,14 +835,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 161510,
-      "num": 161510,
-      "word": "陈梦回老家合照被安排站C位",
-      "onboard_time": 1736566162,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 157905,
       "num": 209374,
       "word": "男朋友的爱太拿得出手了",
@@ -753,6 +857,14 @@
       "onboard_time": 1736524461,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 155285,
+      "num": 155285,
+      "word": "14岁女孩连续8年背闺蜜上学",
+      "onboard_time": 1736568320,
+      "rank": 36,
+      "category": "正能量"
     },
     {
       "raw_hot": 152714,
@@ -779,12 +891,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 148235,
-      "num": 148235,
-      "word": "微博之夜 6个机位",
-      "onboard_time": 1736566580,
-      "rank": 40,
-      "category": "作品衍生"
+      "raw_hot": 149180,
+      "num": 149180,
+      "word": "周震南穿98年古董高定",
+      "onboard_time": 1736566939,
+      "rank": 37,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 146513,
@@ -875,12 +987,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 123408,
-      "num": 123408,
-      "word": "毛球球",
-      "onboard_time": 1736563760,
-      "rank": 42,
-      "category": "读书作家"
+      "raw_hot": 122833,
+      "num": 122833,
+      "word": "动画还原2名中国女子在日被列车撞死",
+      "onboard_time": 1736569460,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122817,
@@ -923,6 +1035,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 113413,
+      "num": 113413,
+      "word": "希林娜依高需要一条围脖",
+      "onboard_time": 1736566879,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 112282,
       "num": 112282,
       "word": "2024年V榜破九角色",
@@ -945,6 +1065,14 @@
       "onboard_time": 1736565139,
       "rank": 46,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 105615,
+      "num": 105615,
+      "word": "英伟达批拜登政府AI芯片出口限制计划",
+      "onboard_time": 1736568980,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 104566,
@@ -977,14 +1105,6 @@
       "onboard_time": 1736519542,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 97930,
-      "num": 174264,
-      "word": "洛杉矶山火已致10人死亡",
-      "onboard_time": 1736566400,
-      "rank": 33,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 97076,
@@ -1049,6 +1169,14 @@
       "onboard_time": 1736531894,
       "rank": 26,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 62614,
+      "num": 197848,
+      "word": "你家有什么特别的年俗",
+      "onboard_time": 1736568500,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 62413,
@@ -1296,14 +1424,6 @@
       "word": "震区板房电灯亮起时好暖",
       "onboard_time": 1736536151,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9703,
-      "num": 329997,
-      "word": "护士离世完成生命里最后一次救援",
-      "onboard_time": 1736566759,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
