@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736627738004,
+  "endTime": 1736630387967,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -36729,6 +36729,14 @@
       "onboard_time": 1735900341,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13780,
+      "num": 22024,
+      "word": "李昀锐双刀",
+      "onboard_time": 1736630050,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 13659,
