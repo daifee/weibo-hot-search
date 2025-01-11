@@ -1,6 +1,6 @@
 {
   "startTime": 1736526528002,
-  "endTime": 1736601838869,
+  "endTime": 1736602515708,
   "band_list": [
     {
       "raw_hot": 11945070,
@@ -371,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 924511,
+      "num": 924511,
+      "word": "惠英红发了马龙直拍",
+      "onboard_time": 1736599347,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 913485,
       "num": 2351706,
       "word": "王楚钦微博年度影响力体育人物",
@@ -427,14 +435,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 839222,
-      "num": 839222,
-      "word": "惠英红发了马龙直拍",
-      "onboard_time": 1736599347,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 827034,
       "num": 328652,
       "word": "王一博好干净的脸",
@@ -480,6 +480,14 @@
       "word": "罗云熙麦粒肿",
       "onboard_time": 1736599948,
       "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 772916,
+      "num": 267582,
+      "word": "肖战黄晓明十指相扣",
+      "onboard_time": 1736601928,
+      "rank": 25,
       "category": "作品衍生"
     },
     {
@@ -915,6 +923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 454833,
+      "num": 895078,
+      "word": "狼队对战AG",
+      "onboard_time": 1736583203,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 452482,
       "num": 452482,
       "word": "宋佳抽到了虞书欣的礼物",
@@ -1105,14 +1121,6 @@
       "onboard_time": 1736559019,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 391470,
-      "num": 895078,
-      "word": "狼队对战AG",
-      "onboard_time": 1736583203,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 390434,
@@ -1643,6 +1651,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 230430,
+      "num": 289897,
+      "word": "马龙微博年度体育人物",
+      "onboard_time": 1736600305,
+      "rank": 29,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 222054,
       "num": 535558,
       "word": "一诺无畏作客评论席",
@@ -1673,14 +1689,6 @@
       "onboard_time": 1736522602,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 219064,
-      "num": 289897,
-      "word": "马龙微博年度体育人物",
-      "onboard_time": 1736600305,
-      "rank": 29,
-      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 218312,
@@ -2235,6 +2243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141751,
+      "num": 455242,
+      "word": "AG连拿三冠",
+      "onboard_time": 1736601867,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141610,
       "num": 491347,
       "word": "美国洛杉矶山火为何不仅仅是天灾",
@@ -2371,6 +2387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126550,
+      "num": 989089,
+      "word": "倪妮张婧仪同框",
+      "onboard_time": 1736601029,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 122817,
       "num": 244191,
       "word": "当地华人称山火整整烧了两天了",
@@ -2467,6 +2491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 114847,
+      "num": 262375,
+      "word": "AG成王者电竞史首个BO9冠军",
+      "onboard_time": 1736602407,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 113420,
       "num": 139826,
       "word": "深圳南山数学题能难倒AI吗",
@@ -2491,6 +2523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111566,
+      "num": 262090,
+      "word": "KPL",
+      "onboard_time": 1736576661,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 110904,
       "num": 110904,
       "word": "刘宇异瞳蛇造型",
@@ -2499,11 +2539,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 109579,
-      "num": 138843,
-      "word": "KPL",
-      "onboard_time": 1736576661,
-      "rank": 43,
+      "raw_hot": 109475,
+      "num": 261923,
+      "word": "AG挑杯不败神话",
+      "onboard_time": 1736602468,
+      "rank": 44,
       "category": "电竞"
     },
     {
@@ -2705,14 +2745,6 @@
       "onboard_time": 1736576421,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 84427,
-      "num": 842907,
-      "word": "倪妮张婧仪同框",
-      "onboard_time": 1736601029,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 84128,
@@ -2964,7 +2996,7 @@
     },
     {
       "raw_hot": 48028,
-      "num": 785616,
+      "num": 985097,
       "word": "李宇春微博之夜路透",
       "onboard_time": 1736599227,
       "rank": 27,

@@ -1,6 +1,6 @@
 {
   "startTime": 1736007937087,
-  "endTime": 1736601838869,
+  "endTime": 1736602515708,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -2099,6 +2099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 924511,
+      "num": 924511,
+      "word": "惠英红发了马龙直拍",
+      "onboard_time": 1736599347,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 924324,
       "num": 793494,
       "word": "韩国客机失事前疑撞上鸟群画面曝光",
@@ -2377,14 +2385,6 @@
       "onboard_time": 1736155944,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 839222,
-      "num": 839222,
-      "word": "惠英红发了马龙直拍",
-      "onboard_time": 1736599347,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 837880,
@@ -2681,6 +2681,14 @@
       "onboard_time": 1736132662,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 772916,
+      "num": 267582,
+      "word": "肖战黄晓明十指相扣",
+      "onboard_time": 1736601928,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 771789,
@@ -4787,6 +4795,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 454833,
+      "num": 895078,
+      "word": "狼队对战AG",
+      "onboard_time": 1736583203,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 453545,
       "num": 332381,
       "word": "星星女友说终于冲破阴霾拨云见日",
@@ -5665,14 +5681,6 @@
       "onboard_time": 1736559019,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 391470,
-      "num": 895078,
-      "word": "狼队对战AG",
-      "onboard_time": 1736583203,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 390634,
@@ -9123,6 +9131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230430,
+      "num": 289897,
+      "word": "马龙微博年度体育人物",
+      "onboard_time": 1736600305,
+      "rank": 29,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 229993,
       "num": 229993,
       "word": "代号鸢",
@@ -9513,14 +9529,6 @@
       "onboard_time": 1736009312,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 219064,
-      "num": 289897,
-      "word": "马龙微博年度体育人物",
-      "onboard_time": 1736600305,
-      "rank": 29,
-      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 218986,
@@ -14651,6 +14659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141751,
+      "num": 455242,
+      "word": "AG连拿三冠",
+      "onboard_time": 1736601867,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141717,
       "num": 141717,
       "word": "原神梦见月瑞希",
@@ -15787,6 +15803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126550,
+      "num": 989089,
+      "word": "倪妮张婧仪同框",
+      "onboard_time": 1736601029,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 126446,
       "num": 126446,
       "word": "哪吒汽车官网出现异常",
@@ -16707,6 +16731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 114847,
+      "num": 262375,
+      "word": "AG成王者电竞史首个BO9冠军",
+      "onboard_time": 1736602407,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 114720,
       "num": 325244,
       "word": "小伙闯入太白山失联9天后独自走出",
@@ -16931,6 +16963,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 111566,
+      "num": 262090,
+      "word": "KPL",
+      "onboard_time": 1736002535,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 111319,
       "num": 387121,
       "word": "NBA榜一大哥之战",
@@ -17011,20 +17051,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 109579,
-      "num": 219108,
-      "word": "KPL",
-      "onboard_time": 1736002535,
-      "rank": 48,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 109547,
       "num": 465720,
       "word": "妙瓦底到底是什么地方",
       "onboard_time": 1736155226,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109475,
+      "num": 261923,
+      "word": "AG挑杯不败神话",
+      "onboard_time": 1736602468,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 109016,
@@ -18337,14 +18377,6 @@
       "onboard_time": 1736300600,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 84427,
-      "num": 842907,
-      "word": "倪妮张婧仪同框",
-      "onboard_time": 1736601029,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 84128,
@@ -20236,7 +20268,7 @@
     },
     {
       "raw_hot": 48028,
-      "num": 785616,
+      "num": 985097,
       "word": "李宇春微博之夜路透",
       "onboard_time": 1736599227,
       "rank": 27,
