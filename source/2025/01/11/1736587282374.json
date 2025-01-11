@@ -1,0 +1,410 @@
+{
+  "runTime": 1736587282374,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6292648,
+        "num": 6292648,
+        "word": "微博之夜红毯",
+        "onboard_time": 1736573540,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2974270,
+        "num": 2974270,
+        "word": "微博之夜座位图",
+        "onboard_time": 1736582603,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 41255,
+        "num": 2751461,
+        "word": "一条视频科普流感高发期知识",
+        "onboard_time": 1736572639,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 2570257,
+        "num": 2570257,
+        "word": "王一博精心打扮了",
+        "onboard_time": 1736584467,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2002120,
+        "num": 2002120,
+        "word": "王鹤棣田曦薇十指相扣",
+        "onboard_time": 1736584225,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 553718,
+        "num": 1732875,
+        "word": "韩国空难客机黑匣子撞墙前4分钟停录",
+        "onboard_time": 1736575522,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1593255,
+        "num": 1593255,
+        "word": "禹宙中欣",
+        "onboard_time": 1736584946,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1576667,
+        "num": 1576667,
+        "word": "昀牵孟绕",
+        "onboard_time": 1736582723,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 443457,
+        "num": 1559819,
+        "word": "12306 占座",
+        "onboard_time": 1736581463,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180669,
+        "num": 1546872,
+        "word": "黄雅琼红毯造型好美",
+        "onboard_time": 1736583024,
+        "rank": 9,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 1546280,
+        "num": 1546280,
+        "word": "杨紫李现 纯元CP结婚",
+        "onboard_time": 1736586864,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 929943,
+        "num": 929943,
+        "word": "祝绪丹 玛丽猫",
+        "onboard_time": 1736579001,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 669439,
+        "num": 669439,
+        "word": "李子柒穿了自己缝的螺钿披风",
+        "onboard_time": 1736582422,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 642706,
+        "num": 642706,
+        "word": "SM新男团",
+        "onboard_time": 1736585965,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 60353,
+        "num": 515512,
+        "word": "央视曝光2.5折解债骗局",
+        "onboard_time": 1736586506,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 69949,
+        "num": 496556,
+        "word": "中国女博士维也纳吹唢呐硬控全场",
+        "onboard_time": 1736584764,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 485716,
+        "num": 485716,
+        "word": "马龙任嘉伦在聊什么",
+        "onboard_time": 1736585365,
+        "rank": 16,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 248834,
+        "num": 485003,
+        "word": "唯一关于兔子博物馆遭大火摧毁",
+        "onboard_time": 1736578581,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 115704,
+        "num": 483927,
+        "word": "一诺水墨国风造型",
+        "onboard_time": 1736587045,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 39730,
+        "num": 481002,
+        "word": "井柏然微博之夜营业",
+        "onboard_time": 1736585666,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 712181,
+        "num": 479030,
+        "word": "虞书欣黑莲花女王",
+        "onboard_time": 1736574381,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 478804,
+        "num": 478804,
+        "word": "杨幂工作室",
+        "onboard_time": 1736578460,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 676282,
+        "num": 468299,
+        "word": "李雪琴 从没在红毯这么好看过",
+        "onboard_time": 1736577739,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240067,
+        "num": 461050,
+        "word": "洛杉矶大火摧毁兔子博物馆5万件珍品",
+        "onboard_time": 1736581824,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 455216,
+        "num": 455216,
+        "word": "孟子义盘发vs披发",
+        "onboard_time": 1736580864,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 447620,
+        "num": 447620,
+        "word": "倪夏莲抽到了杨紫的礼物",
+        "onboard_time": 1736582364,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 439616,
+        "num": 439616,
+        "word": "陈哲远一把扶住张婧仪",
+        "onboard_time": 1736581704,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 417120,
+        "num": 417120,
+        "word": "谁给宋雨琦选的衣服",
+        "onboard_time": 1736586926,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160933,
+        "num": 409003,
+        "word": "动画还原2名中国女子在日被列车撞死",
+        "onboard_time": 1736569460,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11805,
+        "num": 406483,
+        "word": "特朗普称水资源管理是火灾罪魁祸首",
+        "onboard_time": 1736587226,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 255166,
+        "num": 405642,
+        "word": "男子抽烟3娃被留高铁连扇自己耳光",
+        "onboard_time": 1736575401,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 405091,
+        "num": 405091,
+        "word": "于正不敢想请刘亦菲拍戏",
+        "onboard_time": 1736585125,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390546,
+        "num": 390546,
+        "word": "工藤静香都来了",
+        "onboard_time": 1736580382,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 387984,
+        "num": 387984,
+        "word": "甄嬛传晚会 会员还要收费",
+        "onboard_time": 1736581763,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139277,
+        "num": 372311,
+        "word": "努力羞耻症很严重怎么办",
+        "onboard_time": 1736580743,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 369295,
+        "num": 369295,
+        "word": "我叫郑晓龙 在甄嬛传饰演导演",
+        "onboard_time": 1736586743,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124097,
+        "num": 366357,
+        "word": "狼队对战AG",
+        "onboard_time": 1736583203,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117393,
+        "num": 363781,
+        "word": "韩国空难中最后的告别",
+        "onboard_time": 1736584043,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 111669,
+        "num": 355189,
+        "word": "我给拜登打了5个电话但没通",
+        "onboard_time": 1736580743,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107311,
+        "num": 351826,
+        "word": "村民称超百亩地被挖坑取土没法再种",
+        "onboard_time": 1736581885,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349351,
+        "num": 349351,
+        "word": "杨紫宋佳坐一起",
+        "onboard_time": 1736586085,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 309442,
+        "num": 309442,
+        "word": "小水你美",
+        "onboard_time": 1736583264,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 308833,
+        "num": 308833,
+        "word": "微博之夜 交换礼物",
+        "onboard_time": 1736576902,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 297016,
+        "num": 297016,
+        "word": "十个勤天抽到了惠英红送的红包",
+        "onboard_time": 1736584946,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 286500,
+        "num": 286500,
+        "word": "肖战微博之夜盛典出图",
+        "onboard_time": 1736587226,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105628,
+        "num": 285969,
+        "word": "美国洛杉矶山火为何不仅仅是天灾",
+        "onboard_time": 1736575101,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 98159,
+        "num": 285373,
+        "word": "马蹄甘蔗煮水喝可预防甲流",
+        "onboard_time": 1736586205,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 89450,
+        "num": 284310,
+        "word": "美59岁演员大火中差点跳海逃生",
+        "onboard_time": 1736571440,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 81955,
+        "num": 283624,
+        "word": "陈熠1比3木原美悠",
+        "onboard_time": 1736586205,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81539,
+        "num": 283119,
+        "word": "记者调查山东惠民超百亩地被挖坑取土",
+        "onboard_time": 1736583563,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对审计工作作出重要指示#"
+    }
+  }
+}
