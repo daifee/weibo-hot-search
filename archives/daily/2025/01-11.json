@@ -1,6 +1,6 @@
 {
   "startTime": 1736526528002,
-  "endTime": 1736580936579,
+  "endTime": 1736583981467,
   "band_list": [
     {
       "raw_hot": 7367204,
@@ -17,6 +17,14 @@
       "onboard_time": 1736560758,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2705513,
+      "num": 2705513,
+      "word": "微博之夜座位图",
+      "onboard_time": 1736582603,
+      "rank": 1,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2163783,
@@ -155,11 +163,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 859879,
+      "num": 859879,
+      "word": "孟子义盘发vs披发",
+      "onboard_time": 1736580864,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 855492,
       "num": 855492,
       "word": "微博之夜 交换礼物",
       "onboard_time": 1736576902,
       "rank": 37,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 853713,
+      "num": 853713,
+      "word": "陈哲远一把扶住张婧仪",
+      "onboard_time": 1736581704,
+      "rank": 6,
       "category": "作品衍生"
     },
     {
@@ -227,6 +251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 701789,
+      "num": 701789,
+      "word": "倪夏莲抽到了杨紫的礼物",
+      "onboard_time": 1736582364,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 696086,
       "num": 696086,
       "word": "微博之夜出图凌晨就开始了",
@@ -252,7 +284,7 @@
     },
     {
       "raw_hot": 681012,
-      "num": 266871,
+      "num": 333089,
       "word": "林允耳环掉了",
       "onboard_time": 1736579241,
       "rank": 10,
@@ -276,10 +308,18 @@
     },
     {
       "raw_hot": 654443,
-      "num": 267991,
+      "num": 392709,
       "word": "王子奇给了王星越一下",
       "onboard_time": 1736579602,
       "rank": 16,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 654304,
+      "num": 654304,
+      "word": "工藤静香都来了",
+      "onboard_time": 1736580382,
+      "rank": 34,
       "category": "作品衍生"
     },
     {
@@ -304,6 +344,14 @@
       "word": "刘浩存工作室",
       "onboard_time": 1736572939,
       "rank": 21,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 608191,
+      "num": 608191,
+      "word": "昀牵孟绕",
+      "onboard_time": 1736582723,
+      "rank": 11,
       "category": "作品衍生"
     },
     {
@@ -355,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 538471,
+      "num": 538471,
+      "word": "李子柒穿了自己缝的螺钿披风",
+      "onboard_time": 1736582422,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 512951,
       "num": 512951,
       "word": "曾黎7米长非遗剪纸裙",
@@ -379,12 +435,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 502275,
+      "num": 559034,
+      "word": "12306 占座",
+      "onboard_time": 1736581463,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 492092,
       "num": 492092,
       "word": "郭敬明删博了",
       "onboard_time": 1736516663,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 485678,
+      "num": 485678,
+      "word": "小水你美",
+      "onboard_time": 1736583264,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 472087,
@@ -452,7 +524,7 @@
     },
     {
       "raw_hot": 417668,
-      "num": 248694,
+      "num": 418811,
       "word": "男子抽烟3娃被留高铁连扇自己耳光",
       "onboard_time": 1736575401,
       "rank": 20,
@@ -579,6 +651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 352455,
+      "num": 352455,
+      "word": "王源礼物 送你去看日落",
+      "onboard_time": 1736583203,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 350122,
       "num": 224133,
       "word": "4种水果不甜但含糖量很高",
@@ -619,6 +699,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 329070,
+      "num": 329070,
+      "word": "十个勤天圈住了登陆少年",
+      "onboard_time": 1736583264,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 327033,
+      "num": 327033,
+      "word": "甄嬛传晚会 会员还要收费",
+      "onboard_time": 1736581763,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 325858,
       "num": 222829,
       "word": "79岁大爷丧偶十多年感染艾滋病",
@@ -633,6 +729,14 @@
       "onboard_time": 1736505680,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 319897,
+      "num": 319897,
+      "word": "白鹿复古花伶",
+      "onboard_time": 1736569220,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 317531,
@@ -667,12 +771,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 307913,
-      "num": 259087,
-      "word": "白鹿复古花伶",
-      "onboard_time": 1736569220,
-      "rank": 25,
-      "category": "作品衍生"
+      "raw_hot": 303807,
+      "num": 303807,
+      "word": "王一博微博之夜此刻",
+      "onboard_time": 1736581885,
+      "rank": 36,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 303041,
@@ -796,7 +900,7 @@
     },
     {
       "raw_hot": 259568,
-      "num": 259568,
+      "num": 413146,
       "word": "唯一关于兔子博物馆遭大火摧毁",
       "onboard_time": 1736578581,
       "rank": 17,
@@ -827,11 +931,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 252973,
+      "num": 252973,
+      "word": "背书包的小男孩丁禹兮",
+      "onboard_time": 1736583803,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 248080,
       "num": 248080,
       "word": "时代少年团微博之夜的交换礼物",
       "onboard_time": 1736568920,
       "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 245151,
+      "num": 245151,
+      "word": "夜色尚浅",
+      "onboard_time": 1736580323,
+      "rank": 36,
       "category": "作品衍生"
     },
     {
@@ -889,6 +1009,14 @@
       "onboard_time": 1736562620,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 233631,
+      "num": 233631,
+      "word": "于正回应白鹿到期不续传闻",
+      "onboard_time": 1736582244,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 233423,
@@ -1001,14 +1129,6 @@
       "onboard_time": 1736574981,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 196201,
-      "num": 196201,
-      "word": "工藤静香都来了",
-      "onboard_time": 1736580382,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 196138,
@@ -1155,20 +1275,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 182572,
-      "num": 182572,
-      "word": "夜色尚浅",
-      "onboard_time": 1736580323,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 180169,
       "num": 180169,
       "word": "韩国人在上海见识真正的继承者们",
       "onboard_time": 1736502199,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 180110,
+      "num": 329180,
+      "word": "黄雅琼红毯造型好美",
+      "onboard_time": 1736583024,
+      "rank": 29,
+      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 179169,
@@ -1283,12 +1403,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 157415,
-      "num": 157415,
-      "word": "孟子义盘发vs披发",
-      "onboard_time": 1736580864,
-      "rank": 42,
-      "category": "作品衍生"
+      "raw_hot": 156722,
+      "num": 323047,
+      "word": "村民称超百亩地被挖坑取土没法再种",
+      "onboard_time": 1736581885,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156045,
+      "num": 321332,
+      "word": "洛杉矶大火摧毁兔子博物馆5万件珍品",
+      "onboard_time": 1736581824,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 156032,
@@ -1379,12 +1507,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139383,
+      "num": 320115,
+      "word": "我给拜登打了5个电话但没通",
+      "onboard_time": 1736580743,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 137538,
       "num": 137538,
       "word": "泰州一女子取下全部头皮救父亲",
       "onboard_time": 1736513361,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136660,
+      "num": 255562,
+      "word": "努力羞耻症很严重怎么办",
+      "onboard_time": 1736580743,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 133313,
@@ -1513,6 +1657,14 @@
       "onboard_time": 1736508378,
       "rank": 44,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 115320,
+      "num": 233840,
+      "word": "加州大海边房屋一片灰烬",
+      "onboard_time": 1736579302,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 113420,
@@ -1707,12 +1859,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 71745,
-      "num": 154396,
-      "word": "努力羞耻症很严重怎么办",
-      "onboard_time": 1736580743,
-      "rank": 48,
-      "category": "情感"
+      "raw_hot": 74788,
+      "num": 617745,
+      "word": "记者调查山东惠民超百亩地被挖坑取土",
+      "onboard_time": 1736583563,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73066,
+      "num": 456723,
+      "word": "狼队对战AG",
+      "onboard_time": 1736583203,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 70230,
@@ -1804,7 +1964,7 @@
     },
     {
       "raw_hot": 54238,
-      "num": 1435634,
+      "num": 1777932,
       "word": "一条视频科普流感高发期知识",
       "onboard_time": 1736572639,
       "rank": 2,
@@ -1817,6 +1977,14 @@
       "onboard_time": 1736534773,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51946,
+      "num": 467389,
+      "word": "周震南微博之夜造型出图",
+      "onboard_time": 1736581282,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 50620,
@@ -1865,6 +2033,14 @@
       "onboard_time": 1736533093,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 39836,
+      "num": 533999,
+      "word": "游客喊话迪士尼加强控烟",
+      "onboard_time": 1736583084,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36581,
