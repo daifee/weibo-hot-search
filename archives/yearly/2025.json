@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736608885116,
+  "endTime": 1736609715914,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -2243,6 +2243,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1227434,
+      "num": 1227434,
+      "word": "徐克看肖战",
+      "onboard_time": 1736609546,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1224866,
       "num": 531868,
       "word": "王鹤棣田曦薇拦腰抱",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736171844,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1160038,
-      "num": 901043,
-      "word": "上淇抢主持人话筒",
-      "onboard_time": 1735972100,
-      "rank": 49,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
