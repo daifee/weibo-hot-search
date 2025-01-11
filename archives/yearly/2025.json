@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736560754606,
+  "endTime": 1736563980541,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -177,6 +177,14 @@
       "onboard_time": 1736063187,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 4871233,
+      "num": 4871233,
+      "word": "李某雪有严重精神障碍",
+      "onboard_time": 1736560758,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 4846940,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735970058,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1062841,
-      "num": 1062841,
-      "word": "抓捕患艾滋嫌犯流血民警hiv检测阴性",
-      "onboard_time": 1736324783,
-      "rank": 19,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

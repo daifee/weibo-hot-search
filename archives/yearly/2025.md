@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/11 09:59:14
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/11 10:53:00
 </p>
 </blockquote>
 <p>
@@ -143,6 +143,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%8E%E5%BE%B7%E8%A7%A3%E9%87%8A%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9A%B4%E5%8A%9B%E6%8D%9F%E5%AE%B3%E9%85%92%E5%BA%97%E8%B4%A2%E7%89%A9%23" target="weibo">
 李明德解释为什么暴力损害酒店财物（热度：5865317）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%9F%90%E9%9B%AA%E6%9C%89%E4%B8%A5%E9%87%8D%E7%B2%BE%E7%A5%9E%E9%9A%9C%E7%A2%8D%23" target="weibo">
+李某雪有严重精神障碍（热度：4871233）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ Ok 咱们线上（热度：2051932）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%20%E8%82%AF%E5%BE%B7%E5%9F%BA%23" target="weibo">
 鹿晗 肯德基（热度：1063103）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%93%E6%8D%95%E6%82%A3%E8%89%BE%E6%BB%8B%E5%AB%8C%E7%8A%AF%E6%B5%81%E8%A1%80%E6%B0%91%E8%AD%A6hiv%E6%A3%80%E6%B5%8B%E9%98%B4%E6%80%A7%23" target="weibo">
-抓捕患艾滋嫌犯流血民警hiv检测阴性（热度：1062841）
 </a>
 </li>
 
