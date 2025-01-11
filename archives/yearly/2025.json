@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736591919647,
+  "endTime": 1736594282475,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1379,6 +1379,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 1605842,
+      "num": 1605842,
+      "word": "虞书欣升咖好多",
+      "onboard_time": 1736592090,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1597104,
       "num": 239114,
       "word": "微博删下",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735807099,
       "rank": 34,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1116150,
-      "num": 1116150,
-      "word": "医院宣传语称堕胎斩断男方祖宗血脉",
-      "onboard_time": 1735827442,
-      "rank": 46,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
