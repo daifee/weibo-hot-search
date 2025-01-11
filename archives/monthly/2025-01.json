@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736630387967,
+  "endTime": 1736631320493,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -35417,6 +35417,14 @@
       "onboard_time": 1735851020,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 26138,
+      "num": 20469,
+      "word": "春节档",
+      "onboard_time": 1736631071,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 26025,
