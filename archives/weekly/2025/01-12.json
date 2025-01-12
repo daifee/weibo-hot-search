@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736671140975,
+  "endTime": 1736673673793,
   "band_list": [
     {
       "raw_hot": 3087284,
@@ -75,6 +75,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1420052,
+      "num": 1218406,
+      "word": "张凌赫回复丞磊粉丝",
+      "onboard_time": 1736670201,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1406006,
       "num": 1406006,
       "word": "腾讯2025第一部破30000剧集",
@@ -99,11 +107,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1242685,
+      "num": 1242685,
+      "word": "洛杉矶市长沉默沉默再沉默",
+      "onboard_time": 1736670679,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1198362,
-      "num": 433522,
+      "num": 512982,
       "word": "成都女大学生失联12天遗体被找到",
       "onboard_time": 1736666599,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1164939,
+      "num": 1164939,
+      "word": "被丈夫推下悬崖后为何离不了婚",
+      "onboard_time": 1736668519,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -187,6 +211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 899426,
+      "num": 899426,
+      "word": "李现不语只是默默按番",
+      "onboard_time": 1736669719,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 866002,
       "num": 866002,
       "word": "河北沧州3.4级地震",
@@ -220,7 +252,7 @@
     },
     {
       "raw_hot": 748336,
-      "num": 412302,
+      "num": 546656,
       "word": "沈腾人生照片",
       "onboard_time": 1736668160,
       "rank": 8,
@@ -284,7 +316,7 @@
     },
     {
       "raw_hot": 674261,
-      "num": 392949,
+      "num": 579206,
       "word": "孟子义 是你拿了他微博账号吗",
       "onboard_time": 1736668279,
       "rank": 12,
@@ -292,7 +324,7 @@
     },
     {
       "raw_hot": 667908,
-      "num": 445563,
+      "num": 472287,
       "word": "美国加州山火现火龙卷",
       "onboard_time": 1736656278,
       "rank": 34,
@@ -371,14 +403,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 582396,
-      "num": 582396,
-      "word": "被丈夫推下悬崖后为何离不了婚",
-      "onboard_time": 1736668519,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 580459,
       "num": 563140,
       "word": "辛雨锡发秦霄贤六宗罪",
@@ -401,6 +425,14 @@
       "onboard_time": 1736643859,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 555667,
+      "num": 555667,
+      "word": "香港元朗突发山火",
+      "onboard_time": 1736671400,
+      "rank": 8,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 552334,
@@ -440,14 +472,6 @@
       "word": "救救马丽",
       "onboard_time": 1736607572,
       "rank": 26,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 504424,
-      "num": 373366,
-      "word": "张凌赫回复丞磊粉丝",
-      "onboard_time": 1736670201,
-      "rank": 34,
       "category": "作品衍生"
     },
     {
@@ -507,16 +531,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 411127,
-      "num": 283297,
-      "word": "李现不语只是默默按番",
-      "onboard_time": 1736669719,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 408344,
-      "num": 274687,
+      "num": 367683,
       "word": "白月梵星",
       "onboard_time": 1736663959,
       "rank": 27,
@@ -601,6 +617,14 @@
       "onboard_time": 1736639656,
       "rank": 13,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 347521,
+      "num": 347521,
+      "word": "重庆观音桥锦鲤大量死亡",
+      "onboard_time": 1736672119,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 340667,
@@ -779,6 +803,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 289209,
+      "num": 283772,
+      "word": "白鹿关注了李昀锐",
+      "onboard_time": 1736673140,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 288190,
       "num": 288190,
       "word": "赵丽颖宠哪吒的心藏不住",
@@ -809,6 +841,14 @@
       "onboard_time": 1736658561,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 263885,
+      "num": 263885,
+      "word": "向太 最能干的就是最倒霉的",
+      "onboard_time": 1736672539,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 261998,
@@ -883,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223783,
+      "num": 317871,
+      "word": "王楚钦微博之夜发文",
+      "onboard_time": 1736669900,
+      "rank": 14,
+      "category": "作品衍生,体育"
+    },
+    {
       "raw_hot": 223480,
       "num": 223480,
       "word": "孟子义感谢张钧甯给九重紫打call",
@@ -923,12 +971,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215531,
+      "num": 215531,
+      "word": "花千骨当年没遇见谢雪臣",
+      "onboard_time": 1736672299,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214241,
       "num": 214241,
       "word": "4个月宝宝头发茂密仿佛开了特效",
       "onboard_time": 1736650879,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212698,
+      "num": 212698,
+      "word": "李现按照时团番位发窗花礼物",
+      "onboard_time": 1736673619,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 212568,
@@ -987,12 +1051,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 207230,
-      "num": 317871,
-      "word": "王楚钦微博之夜发文",
-      "onboard_time": 1736669900,
-      "rank": 14,
-      "category": "作品衍生,体育"
+      "raw_hot": 207083,
+      "num": 252247,
+      "word": "原著作者说大奉打更人命挺好的",
+      "onboard_time": 1736669600,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 206457,
@@ -1033,6 +1097,14 @@
       "onboard_time": 1736668700,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 198827,
+      "num": 182953,
+      "word": "SM新女团剧透",
+      "onboard_time": 1736672839,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 198692,
@@ -1171,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185653,
+      "num": 185653,
+      "word": "别再把肉泡水里解冻了",
+      "onboard_time": 1736668519,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 185175,
       "num": 185175,
       "word": "王俊凯默默提醒田华老师",
@@ -1203,6 +1283,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 182834,
+      "num": 182834,
+      "word": "周深晒与汤唯邓超合影",
+      "onboard_time": 1736670800,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 180170,
       "num": 180170,
       "word": "逆水寒",
@@ -1227,12 +1315,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 176367,
-      "num": 170406,
-      "word": "周深晒与汤唯邓超合影",
-      "onboard_time": 1736670800,
-      "rank": 38,
-      "category": "作品衍生"
+      "raw_hot": 174566,
+      "num": 174566,
+      "word": "敖瑞鹏不愧是极域腰王",
+      "onboard_time": 1736673199,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 174475,
@@ -1265,14 +1353,6 @@
       "onboard_time": 1736663720,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 171564,
-      "num": 171564,
-      "word": "别再把肉泡水里解冻了",
-      "onboard_time": 1736668519,
-      "rank": 42,
-      "category": "美食"
     },
     {
       "raw_hot": 170131,
@@ -1337,6 +1417,14 @@
       "onboard_time": 1736668820,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 163671,
+      "num": 163671,
+      "word": "周震南 微博之夜好多人啊",
+      "onboard_time": 1736671519,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 163483,
@@ -1435,6 +1523,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 154072,
+      "num": 154072,
+      "word": "佟丽娅 吴磊的礼物让心和耳朵变暖",
+      "onboard_time": 1736671760,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 153780,
+      "num": 153780,
+      "word": "一俄军士兵被普京授勋获赠战刀",
+      "onboard_time": 1736670800,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 153381,
       "num": 153381,
       "word": "木鬼 灵魂互换",
@@ -1457,6 +1561,14 @@
       "onboard_time": 1736670741,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150587,
+      "num": 132280,
+      "word": "SMTOWN",
+      "onboard_time": 1736671519,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 150240,
@@ -1539,6 +1651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144359,
+      "num": 131607,
+      "word": "敖瑞鹏又红温了",
+      "onboard_time": 1736673440,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143681,
       "num": 143681,
       "word": "新兰正式交往六年了",
@@ -1569,6 +1689,14 @@
       "onboard_time": 1736647820,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142295,
+      "num": 130785,
+      "word": "甄嬛传四大狂徒",
+      "onboard_time": 1736671879,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 141901,
@@ -1603,12 +1731,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133959,
+      "num": 133959,
+      "word": "美国政府救灾不力引民众质问",
+      "onboard_time": 1736672480,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 133516,
       "num": 218014,
       "word": "松花湖惊现5米大袋鼠",
       "onboard_time": 1736660298,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133079,
+      "num": 133079,
+      "word": "洛杉矶市长面对质问一言不发",
+      "onboard_time": 1736670620,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 132699,
@@ -1651,14 +1795,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 128896,
-      "num": 128896,
-      "word": "洛杉矶市长沉默沉默再沉默",
-      "onboard_time": 1736670679,
-      "rank": 45,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 128860,
       "num": 128860,
       "word": "异人之下之决战碧游村异人集结海报",
@@ -1667,12 +1803,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128803,
-      "num": 128803,
-      "word": "一俄军士兵被普京授勋获赠战刀",
-      "onboard_time": 1736670800,
+      "raw_hot": 128263,
+      "num": 128263,
+      "word": "杨紫国色芳华配音vlog",
+      "onboard_time": 1736672238,
       "rank": 46,
-      "category": "国际时政"
+      "category": "剧集"
     },
     {
       "raw_hot": 127944,
@@ -1867,20 +2003,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 112817,
-      "num": 112817,
-      "word": "洛杉矶市长面对质问一言不发",
-      "onboard_time": 1736670620,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 111233,
       "num": 111233,
       "word": "钎城暗纹西装造型好绝",
       "onboard_time": 1736665399,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 110685,
+      "num": 121557,
+      "word": "澳网王欣瑜止步首轮",
+      "onboard_time": 1736672539,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 108632,
@@ -2051,14 +2187,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 76563,
-      "num": 252247,
-      "word": "原著作者说大奉打更人命挺好的",
-      "onboard_time": 1736669600,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 75740,
       "num": 206346,
       "word": "中国姑娘在维也纳金色大厅吹唢呐",
@@ -2203,6 +2331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45478,
+      "num": 183456,
+      "word": "成本50卖5000水晶为何突然受热捧",
+      "onboard_time": 1736672839,
+      "rank": 29,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 45465,
       "num": 33346,
       "word": "沈马",
@@ -2260,7 +2396,7 @@
     },
     {
       "raw_hot": 40428,
-      "num": 859769,
+      "num": 1189149,
       "word": "古人用毛笔画6米水仙花海",
       "onboard_time": 1736658079,
       "rank": 2,

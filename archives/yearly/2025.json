@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736671140975,
+  "endTime": 1736673673793,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1851,6 +1851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1420052,
+      "num": 1218406,
+      "word": "张凌赫回复丞磊粉丝",
+      "onboard_time": 1736670201,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1411538,
       "num": 819173,
       "word": "葛夕没下车",
@@ -2283,6 +2291,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 1242685,
+      "num": 1242685,
+      "word": "洛杉矶市长沉默沉默再沉默",
+      "onboard_time": 1736670679,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1241779,
       "num": 1241779,
       "word": "伊能静曾故意灌醉恩利",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1735996289,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1211933,
-      "num": 678738,
-      "word": "驻清迈总领馆回应演员星星失联",
-      "onboard_time": 1736134701,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1208841,
-      "num": 877957,
-      "word": "再见爱人4大结局",
-      "onboard_time": 1736396602,
-      "rank": 27,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
