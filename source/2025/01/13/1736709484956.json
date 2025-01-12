@@ -1,0 +1,410 @@
+{
+  "runTime": 1736709484956,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 202005,
+        "num": 202005,
+        "word": "观音桥死亡锦鲤装满三十多个编织袋",
+        "onboard_time": 1736693900,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107433,
+        "num": 107433,
+        "word": "刘亦菲总台视后",
+        "onboard_time": 1736694741,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14185,
+        "num": 99402,
+        "word": "神十九乘组的新朋友已上线",
+        "onboard_time": 1736679619,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 99038,
+        "num": 99038,
+        "word": "大奉打更人口碑逆跌",
+        "onboard_time": 1736685740,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95463,
+        "num": 95463,
+        "word": "加州山火烧掉一个旧金山的面积",
+        "onboard_time": 1736696120,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 66620,
+        "num": 66620,
+        "word": "前童星住所遭大火烧毁窒息而死",
+        "onboard_time": 1736683340,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 68051,
+        "num": 65142,
+        "word": "邵子恒向关晓彤道歉了",
+        "onboard_time": 1736685979,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 63408,
+        "num": 63408,
+        "word": "广州最低温破0",
+        "onboard_time": 1736694320,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61976,
+        "num": 61976,
+        "word": "范丞丞按微博昵称首字母排序",
+        "onboard_time": 1736695222,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 50194,
+        "num": 50194,
+        "word": "王暖暖可能要到70岁才能离婚",
+        "onboard_time": 1736688562,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77771,
+        "num": 50104,
+        "word": "老人女厕趴地上偷窥女子录下全过程",
+        "onboard_time": 1736687301,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69020,
+        "num": 49986,
+        "word": "韩国核电站",
+        "onboard_time": 1736692401,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 53462,
+        "num": 49986,
+        "word": "杨紫回应李现",
+        "onboard_time": 1736692401,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49755,
+        "num": 49755,
+        "word": "加州山火对比重庆让美网友破防了",
+        "onboard_time": 1736682979,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8960,
+        "num": 43507,
+        "word": "流感检测阳性率上升趋势减缓",
+        "onboard_time": 1736708711,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42844,
+        "num": 42844,
+        "word": "洛阳给国色芳华的排面真中",
+        "onboard_time": 1736700436,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39296,
+        "num": 39296,
+        "word": "SM新女团 SMTOWN压轴",
+        "onboard_time": 1736690001,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 39164,
+        "num": 39164,
+        "word": "中国人取的名字里藏着无尽浪漫",
+        "onboard_time": 1736701814,
+        "rank": 17,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 38720,
+        "num": 38720,
+        "word": "警方通报120打三次不通两度打110",
+        "onboard_time": 1736680880,
+        "rank": 18,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 37081,
+        "num": 37081,
+        "word": "洛杉矶山火前后街景对比",
+        "onboard_time": 1736706972,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 86311,
+        "num": 36977,
+        "word": "朋友圈先私密24小时再公开",
+        "onboard_time": 1736694320,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83756,
+        "num": 36968,
+        "word": "黄子韬删除全部送车相关视频",
+        "onboard_time": 1736691023,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41022,
+        "num": 36862,
+        "word": "父亲卖早餐6岁女儿独自在家坠楼",
+        "onboard_time": 1736678598,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36701,
+        "num": 36701,
+        "word": "白鹿你被捕了",
+        "onboard_time": 1736698160,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35509,
+        "num": 35509,
+        "word": "阿森纳vs曼联",
+        "onboard_time": 1736697620,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35334,
+        "num": 35334,
+        "word": "敖瑞鹏红温了",
+        "onboard_time": 1736683639,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32803,
+        "num": 32803,
+        "word": "孕妇突然分娩陌生人的羽绒服立大功",
+        "onboard_time": 1736687359,
+        "rank": 26,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 32590,
+        "num": 32590,
+        "word": "一路繁花里最尴尬的3分钟",
+        "onboard_time": 1736690662,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32495,
+        "num": 32495,
+        "word": "黄晓明说大年初一去看郭伯伯",
+        "onboard_time": 1736701095,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 9052,
+        "num": 31450,
+        "word": "朋友圈卖的千元肉毒素成本1块5",
+        "onboard_time": 1736709431,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31399,
+        "num": 31399,
+        "word": "辛芷蕾倪妮高叶合照",
+        "onboard_time": 1736703074,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27295,
+        "num": 27295,
+        "word": "韩国一核电站核废液泄漏",
+        "onboard_time": 1736692942,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25851,
+        "num": 25851,
+        "word": "洛杉矶市长沉默沉默再沉默",
+        "onboard_time": 1736670679,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 24017,
+        "num": 24017,
+        "word": "洛杉矶为何学不了重庆救火",
+        "onboard_time": 1736684239,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 23942,
+        "num": 23942,
+        "word": "虞书欣微博之夜见",
+        "onboard_time": 1736708291,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23912,
+        "num": 23912,
+        "word": "国色芳华",
+        "onboard_time": 1736683581,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23373,
+        "num": 23373,
+        "word": "鸡腿诺说程鑫凯家暴",
+        "onboard_time": 1736707214,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22477,
+        "num": 22477,
+        "word": "魏大勋不语 只是一味地公关",
+        "onboard_time": 1736663599,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22452,
+        "num": 22452,
+        "word": "钟意大司命FMVP皮肤",
+        "onboard_time": 1736690722,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22442,
+        "num": 22442,
+        "word": "向太写信鼓励周芯竹",
+        "onboard_time": 1736694382,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21937,
+        "num": 21937,
+        "word": "嬛嬛四郎到现在没加上微信",
+        "onboard_time": 1736680218,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21065,
+        "num": 21065,
+        "word": "白鹿害羞了",
+        "onboard_time": 1736676738,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20998,
+        "num": 20998,
+        "word": "无人机撞停加州山火灭火飞机",
+        "onboard_time": 1736690061,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 20385,
+        "num": 20385,
+        "word": "导播切田曦薇 刘星分饼",
+        "onboard_time": 1736688980,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20262,
+        "num": 20262,
+        "word": "Jiwoo好美",
+        "onboard_time": 1736694860,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19772,
+        "num": 19772,
+        "word": "加沙人在帐篷里挖坑过冬",
+        "onboard_time": 1736702654,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19106,
+        "num": 19106,
+        "word": "大奉打更人",
+        "onboard_time": 1736705652,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19033,
+        "num": 19033,
+        "word": "下周两股冷空气无缝衔接登场",
+        "onboard_time": 1736700255,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18226,
+        "num": 18226,
+        "word": "20元克隆一个山寨网页",
+        "onboard_time": 1736698517,
+        "rank": 48,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 13238,
+        "num": 17979,
+        "word": "徐杰生涯首个三双",
+        "onboard_time": 1736697500,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#审计是党和国家监督体系的重要组成部分#"
+    }
+  }
+}
