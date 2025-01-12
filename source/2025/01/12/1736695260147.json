@@ -1,0 +1,410 @@
+{
+  "runTime": 1736695260147,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1663778,
+        "num": 1663778,
+        "word": "抽中黄子韬车女子回应是否有黑幕",
+        "onboard_time": 1736682139,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 991202,
+        "num": 991202,
+        "word": "韩国核电站",
+        "onboard_time": 1736692401,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 51836,
+        "num": 757685,
+        "word": "神十九乘组的新朋友已上线",
+        "onboard_time": 1736679619,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1017880,
+        "num": 749253,
+        "word": "大奉打更人口碑逆跌",
+        "onboard_time": 1736685740,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 738889,
+        "num": 738889,
+        "word": "王暖暖可能要到70岁才能离婚",
+        "onboard_time": 1736688562,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 480383,
+        "num": 480383,
+        "word": "前童星住所遭大火烧毁窒息而死",
+        "onboard_time": 1736683340,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 825738,
+        "num": 479411,
+        "word": "杨紫回应李现",
+        "onboard_time": 1736692401,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 717623,
+        "num": 475310,
+        "word": "邵子恒向关晓彤道歉了",
+        "onboard_time": 1736685979,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 470820,
+        "num": 470820,
+        "word": "加州山火对比重庆让美网友破防了",
+        "onboard_time": 1736682979,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419708,
+        "num": 419708,
+        "word": "韩国一核电站核废液泄漏",
+        "onboard_time": 1736692942,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 393545,
+        "num": 393545,
+        "word": "广州最低温破0",
+        "onboard_time": 1736694320,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 682468,
+        "num": 392515,
+        "word": "导播切田曦薇 刘星分饼",
+        "onboard_time": 1736688980,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 609329,
+        "num": 383823,
+        "word": "老人女厕趴地上偷窥女子录下全过程",
+        "onboard_time": 1736687301,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 539160,
+        "num": 373527,
+        "word": "刘亦菲总台视后",
+        "onboard_time": 1736694741,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 460305,
+        "num": 362380,
+        "word": "SM新女团 SMTOWN压轴",
+        "onboard_time": 1736690001,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 358825,
+        "num": 358825,
+        "word": "何惟芳人设",
+        "onboard_time": 1736689461,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328641,
+        "num": 328641,
+        "word": "洛杉矶市长沉默沉默再沉默",
+        "onboard_time": 1736670679,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 326448,
+        "num": 326448,
+        "word": "无人机撞停加州山火灭火飞机",
+        "onboard_time": 1736690061,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 272371,
+        "num": 272371,
+        "word": "花400元找微商打瘦肩针差点没命",
+        "onboard_time": 1736691922,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 124308,
+        "num": 272305,
+        "word": "央视曝光克隆网站黑幕",
+        "onboard_time": 1736694140,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1044490,
+        "num": 266064,
+        "word": "朋友圈先私密24小时再公开",
+        "onboard_time": 1736694320,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 838455,
+        "num": 260818,
+        "word": "黄子韬删除全部送车相关视频",
+        "onboard_time": 1736691023,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409169,
+        "num": 254867,
+        "word": "魏大勋不语 只是一味地公关",
+        "onboard_time": 1736663599,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 387260,
+        "num": 245743,
+        "word": "父亲卖早餐6岁女儿独自在家坠楼",
+        "onboard_time": 1736678598,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286701,
+        "num": 244451,
+        "word": "敖瑞鹏红温了",
+        "onboard_time": 1736683639,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276858,
+        "num": 237455,
+        "word": "孕妇突然分娩陌生人的羽绒服立大功",
+        "onboard_time": 1736687359,
+        "rank": 25,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 233524,
+        "num": 233524,
+        "word": "嬛嬛四郎到现在没加上微信",
+        "onboard_time": 1736680218,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155010,
+        "num": 223259,
+        "word": "庄达菲陈昊宇微博之夜双向奔赴",
+        "onboard_time": 1736694502,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216475,
+        "num": 216475,
+        "word": "中国电视剧年度盛典",
+        "onboard_time": 1736694082,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209018,
+        "num": 209018,
+        "word": "赵丽颖晒微博之夜奖杯照",
+        "onboard_time": 1736687239,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201992,
+        "num": 201992,
+        "word": "加州一个私人消防栓约10万美元",
+        "onboard_time": 1736690843,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117732,
+        "num": 193262,
+        "word": "闫妮关晓彤合拍精神状态绝美",
+        "onboard_time": 1736692942,
+        "rank": 31,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 187245,
+        "num": 187245,
+        "word": "一路繁花里最尴尬的3分钟",
+        "onboard_time": 1736690662,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181009,
+        "num": 181009,
+        "word": "Jiwoo好美",
+        "onboard_time": 1736694860,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172134,
+        "num": 172134,
+        "word": "钟意大司命FMVP皮肤",
+        "onboard_time": 1736690722,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171524,
+        "num": 171524,
+        "word": "导演张艺谋为肖战献上鲜花",
+        "onboard_time": 1736688321,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168477,
+        "num": 168477,
+        "word": "国色芳华",
+        "onboard_time": 1736683581,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147391,
+        "num": 147391,
+        "word": "警方已提取死亡锦鲤鱼体样本送检",
+        "onboard_time": 1736689281,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10876,
+        "num": 146601,
+        "word": "24年度人气星品花落谁家",
+        "onboard_time": 1736694502,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146340,
+        "num": 146340,
+        "word": "警方回应观音桥锦鲤大量死亡",
+        "onboard_time": 1736683158,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133813,
+        "num": 133813,
+        "word": "孙俪公开新年健康计划",
+        "onboard_time": 1736690902,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161121,
+        "num": 126783,
+        "word": "范丞丞按微博昵称首字母排序",
+        "onboard_time": 1736695222,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154830,
+        "num": 124784,
+        "word": "头一回见地下离婚",
+        "onboard_time": 1736679800,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136026,
+        "num": 124594,
+        "word": "一诺清融情侣标",
+        "onboard_time": 1736694320,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118737,
+        "num": 118737,
+        "word": "一诺蝉联KPL年度最佳选手",
+        "onboard_time": 1736694320,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116800,
+        "num": 116800,
+        "word": "LPL联赛取消赛后粉丝互动",
+        "onboard_time": 1736691441,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114648,
+        "num": 114648,
+        "word": "过年烫发一烫一个不吱声",
+        "onboard_time": 1736674098,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94103,
+        "num": 114592,
+        "word": "徐昕绝杀",
+        "onboard_time": 1736692401,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91086,
+        "num": 114291,
+        "word": "黄东萍受伤",
+        "onboard_time": 1736692821,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84568,
+        "num": 113949,
+        "word": "小米SU7获2024微博年度车型",
+        "onboard_time": 1736695222,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#这场反腐败战役我们要打到底#"
+    }
+  }
+}
