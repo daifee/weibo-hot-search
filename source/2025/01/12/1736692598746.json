@@ -1,0 +1,410 @@
+{
+  "runTime": 1736692598746,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1508921,
+        "num": 1508921,
+        "word": "抽中黄子韬车女子回应是否有黑幕",
+        "onboard_time": 1736682139,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1086573,
+        "num": 1086573,
+        "word": "王暖暖可能要到70岁才能离婚",
+        "onboard_time": 1736688562,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51937,
+        "num": 817288,
+        "word": "神十九乘组的新朋友已上线",
+        "onboard_time": 1736679619,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1458529,
+        "num": 708262,
+        "word": "大奉打更人口碑逆跌",
+        "onboard_time": 1736685740,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 583239,
+        "num": 583239,
+        "word": "前童星住所遭大火烧毁窒息而死",
+        "onboard_time": 1736683340,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 555536,
+        "num": 555536,
+        "word": "加州山火对比重庆让美网友破防了",
+        "onboard_time": 1736682979,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 983168,
+        "num": 554238,
+        "word": "邵子恒向关晓彤道歉了",
+        "onboard_time": 1736685979,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 810867,
+        "num": 550488,
+        "word": "导播切田曦薇 刘星分饼",
+        "onboard_time": 1736688980,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 622258,
+        "num": 548198,
+        "word": "SM新女团 SMTOWN压轴",
+        "onboard_time": 1736690001,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 81343,
+        "num": 547485,
+        "word": "花400元找微商打瘦肩针差点没命",
+        "onboard_time": 1736691922,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 952996,
+        "num": 544598,
+        "word": "老人女厕趴地上偷窥女子录下全过程",
+        "onboard_time": 1736687301,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 542483,
+        "num": 542483,
+        "word": "何惟芳人设",
+        "onboard_time": 1736689461,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 402020,
+        "num": 402020,
+        "word": "洛杉矶市长沉默沉默再沉默",
+        "onboard_time": 1736670679,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 407980,
+        "num": 382538,
+        "word": "敖瑞鹏红温了",
+        "onboard_time": 1736683639,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243105,
+        "num": 340945,
+        "word": "加州一个私人消防栓约10万美元",
+        "onboard_time": 1736690843,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 328808,
+        "num": 328808,
+        "word": "钟意大司命FMVP皮肤",
+        "onboard_time": 1736690722,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 313886,
+        "num": 313886,
+        "word": "无人机撞停加州山火灭火飞机",
+        "onboard_time": 1736690061,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 261978,
+        "num": 261978,
+        "word": "闫桉直播回应老年妆",
+        "onboard_time": 1736689881,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167188,
+        "num": 214813,
+        "word": "孙俪公开新年健康计划",
+        "onboard_time": 1736690902,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213820,
+        "num": 213820,
+        "word": "高三学生摔骨折母亲质疑洒水结冰",
+        "onboard_time": 1736685139,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 886205,
+        "num": 213326,
+        "word": "黄子韬删除全部送车相关视频",
+        "onboard_time": 1736691023,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 641834,
+        "num": 213195,
+        "word": "孕妇突然分娩陌生人的羽绒服立大功",
+        "onboard_time": 1736687359,
+        "rank": 21,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 199114,
+        "num": 212376,
+        "word": "警方回应观音桥锦鲤大量死亡",
+        "onboard_time": 1736683158,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 639769,
+        "num": 212082,
+        "word": "魏大勋不语 只是一味地公关",
+        "onboard_time": 1736663599,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 482241,
+        "num": 211612,
+        "word": "父亲卖早餐6岁女儿独自在家坠楼",
+        "onboard_time": 1736678598,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344942,
+        "num": 211212,
+        "word": "赵丽颖晒微博之夜奖杯照",
+        "onboard_time": 1736687239,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 283708,
+        "num": 210488,
+        "word": "嬛嬛四郎到现在没加上微信",
+        "onboard_time": 1736680218,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239300,
+        "num": 209730,
+        "word": "国色芳华",
+        "onboard_time": 1736683581,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51282,
+        "num": 209518,
+        "word": "央视记者采访震区少年强忍哽咽",
+        "onboard_time": 1736691262,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99419,
+        "num": 209125,
+        "word": "雅迪又双叒叕上春晚了",
+        "onboard_time": 1736689821,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208651,
+        "num": 208651,
+        "word": "警方已提取死亡锦鲤鱼体样本送检",
+        "onboard_time": 1736689281,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208098,
+        "num": 208098,
+        "word": "导演张艺谋为肖战献上鲜花",
+        "onboard_time": 1736688321,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129990,
+        "num": 205119,
+        "word": "闫桉突袭直播",
+        "onboard_time": 1736690843,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204577,
+        "num": 204577,
+        "word": "小林栋哲在驻站离家出走",
+        "onboard_time": 1736691682,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203053,
+        "num": 203053,
+        "word": "现成的花少7阵容",
+        "onboard_time": 1736677819,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202493,
+        "num": 202493,
+        "word": "头一回见地下离婚",
+        "onboard_time": 1736679800,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194886,
+        "num": 199884,
+        "word": "何惟芳 女字香",
+        "onboard_time": 1736692042,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198502,
+        "num": 198502,
+        "word": "LPL联赛取消赛后粉丝互动",
+        "onboard_time": 1736691441,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 196188,
+        "num": 196188,
+        "word": "杨紫回应李现",
+        "onboard_time": 1736692401,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194267,
+        "num": 194267,
+        "word": "白鹿害羞了",
+        "onboard_time": 1736676738,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 657421,
+        "num": 193637,
+        "word": "丁禹兮新手机强得飞起",
+        "onboard_time": 1736687481,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192723,
+        "num": 192723,
+        "word": "黄晓明叫肖战郭伯伯",
+        "onboard_time": 1736687842,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179110,
+        "num": 179110,
+        "word": "韩国核电站",
+        "onboard_time": 1736692401,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 178154,
+        "num": 178154,
+        "word": "何惟芳 死腿快跑",
+        "onboard_time": 1736689761,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174760,
+        "num": 174760,
+        "word": "过年烫发一烫一个不吱声",
+        "onboard_time": 1736674098,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148224,
+        "num": 148224,
+        "word": "车澈王以太万妮达一起搂席",
+        "onboard_time": 1736692281,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135094,
+        "num": 135094,
+        "word": "警方通报120打三次不通两度打110",
+        "onboard_time": 1736680880,
+        "rank": 46,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 122075,
+        "num": 135042,
+        "word": "徐昕绝杀",
+        "onboard_time": 1736692401,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106420,
+        "num": 134981,
+        "word": "郑钦文顺利拿下90万元奖金",
+        "onboard_time": 1736691563,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103839,
+        "num": 134857,
+        "word": "广东男篮vs北控男篮",
+        "onboard_time": 1736690361,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#审计是党和国家监督体系的重要组成部分#"
+    }
+  }
+}
