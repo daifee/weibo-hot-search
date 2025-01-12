@@ -1,0 +1,410 @@
+{
+  "runTime": 1736681732695,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1130524,
+        "num": 1180883,
+        "word": "洛杉矶市长沉默沉默再沉默",
+        "onboard_time": 1736670679,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1085364,
+        "num": 1085364,
+        "word": "中国女游客在日本被撞身亡最新进展",
+        "onboard_time": 1736679499,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53420,
+        "num": 1012049,
+        "word": "神十九乘组的新朋友已上线",
+        "onboard_time": 1736679619,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1011249,
+        "num": 1011249,
+        "word": "现成的花少7阵容",
+        "onboard_time": 1736677819,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 500712,
+        "num": 500712,
+        "word": "两缉毒警曾假扮情侣如今订婚了",
+        "onboard_time": 1736665519,
+        "rank": 4,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 509920,
+        "num": 476948,
+        "word": "重庆观音桥锦鲤大量死亡",
+        "onboard_time": 1736672119,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 451864,
+        "num": 451864,
+        "word": "蓝盈莹新剧不敢直视的样子好真实",
+        "onboard_time": 1736679079,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 428692,
+        "num": 428692,
+        "word": "头一回见地下离婚",
+        "onboard_time": 1736679800,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 368494,
+        "num": 368494,
+        "word": "被丈夫推下悬崖后为何离不了婚",
+        "onboard_time": 1736668519,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321589,
+        "num": 321589,
+        "word": "国考成绩什么时候出",
+        "onboard_time": 1736678298,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1316054,
+        "num": 321084,
+        "word": "黄子韬回应持续掉粉",
+        "onboard_time": 1736676920,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 589716,
+        "num": 320484,
+        "word": "魏大勋不语 只是一味地公关",
+        "onboard_time": 1736663599,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 529423,
+        "num": 320064,
+        "word": "白鹿害羞了",
+        "onboard_time": 1736676738,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319467,
+        "num": 319467,
+        "word": "重庆张先生你干的好事火到外地了",
+        "onboard_time": 1736673800,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404909,
+        "num": 318479,
+        "word": "李现不语只是默默按番",
+        "onboard_time": 1736669719,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 333844,
+        "num": 318254,
+        "word": "美国加州山火现火龙卷",
+        "onboard_time": 1736656278,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 305716,
+        "num": 305716,
+        "word": "嬛嬛四郎到现在没加上微信",
+        "onboard_time": 1736680218,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293657,
+        "num": 293657,
+        "word": "孙俪女儿是四嬛党",
+        "onboard_time": 1736674338,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149390,
+        "num": 293401,
+        "word": "司机雪天误入重庆山路热心大哥解围",
+        "onboard_time": 1736681479,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293303,
+        "num": 293303,
+        "word": "孟子义 是你拿了他微博账号吗",
+        "onboard_time": 1736668279,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 652460,
+        "num": 274886,
+        "word": "父亲卖早餐6岁女儿独自在家坠楼",
+        "onboard_time": 1736678598,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402748,
+        "num": 265643,
+        "word": "张凌赫回复丞磊粉丝",
+        "onboard_time": 1736670201,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 251293,
+        "num": 251293,
+        "word": "美国政府救灾不力引民众质问",
+        "onboard_time": 1736672480,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 243077,
+        "num": 243077,
+        "word": "王鹤棣发红包",
+        "onboard_time": 1736677579,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52284,
+        "num": 235088,
+        "word": "皇马vs巴萨",
+        "onboard_time": 1736675599,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101587,
+        "num": 228877,
+        "word": "新荣记国内店人均千元年夜饭已订满",
+        "onboard_time": 1736680458,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228292,
+        "num": 228292,
+        "word": "警方通报120打三次不通两度打110",
+        "onboard_time": 1736680880,
+        "rank": 26,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 164991,
+        "num": 164991,
+        "word": "金俊勉哭了",
+        "onboard_time": 1736679558,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 164273,
+        "num": 164273,
+        "word": "白鹿 死嘴快别笑了",
+        "onboard_time": 1736665220,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164272,
+        "num": 164272,
+        "word": "向太 最能干的就是最倒霉的",
+        "onboard_time": 1736672539,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206560,
+        "num": 160592,
+        "word": "刘强东老师将10万红包捐给贫困学生",
+        "onboard_time": 1736676920,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 187160,
+        "num": 160480,
+        "word": "红领巾老师道别",
+        "onboard_time": 1736681359,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 179214,
+        "num": 158487,
+        "word": "过年烫发一烫一个不吱声",
+        "onboard_time": 1736674098,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156002,
+        "num": 156002,
+        "word": "虞书欣林一互背对方生日",
+        "onboard_time": 1736679020,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150813,
+        "num": 150813,
+        "word": "重庆大哥帮山东货车司机开山路",
+        "onboard_time": 1736679259,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 136390,
+        "num": 136390,
+        "word": "洛杉矶消防局长与市长公开争吵",
+        "onboard_time": 1736681120,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 132663,
+        "num": 132663,
+        "word": "第一批回村的小狗已换新皮肤",
+        "onboard_time": 1736678658,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128942,
+        "num": 128942,
+        "word": "惠英红 我cp婚礼见证人",
+        "onboard_time": 1736665578,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33786,
+        "num": 124541,
+        "word": "男生打HPV疫苗是什么体验",
+        "onboard_time": 1736680099,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124005,
+        "num": 124005,
+        "word": "沈腾人生照片",
+        "onboard_time": 1736668160,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91921,
+        "num": 122157,
+        "word": "辛芷蕾回眸镜头氛围感",
+        "onboard_time": 1736677698,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121490,
+        "num": 121490,
+        "word": "洛杉矶市长面对质问一言不发",
+        "onboard_time": 1736670620,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 121464,
+        "num": 121464,
+        "word": "胡歌的射雕DNA动了",
+        "onboard_time": 1736676079,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119791,
+        "num": 119791,
+        "word": "张康乐得令杂志预告",
+        "onboard_time": 1736680639,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 118527,
+        "num": 118527,
+        "word": "王一博微博之夜g社生图",
+        "onboard_time": 1736676199,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116443,
+        "num": 116443,
+        "word": "袁娅维的狗见过的明星比我多",
+        "onboard_time": 1736681599,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116059,
+        "num": 116059,
+        "word": "汪苏泷微博之夜售后",
+        "onboard_time": 1736680818,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113079,
+        "num": 113079,
+        "word": "王者荣耀巅峰之夜",
+        "onboard_time": 1736678238,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107170,
+        "num": 107170,
+        "word": "LPL",
+        "onboard_time": 1736677579,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 21299,
+        "num": 106999,
+        "word": "水晶或成2025年的第一个财富密码",
+        "onboard_time": 1736681599,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#这场反腐败战役我们要打到底#"
+    }
+  }
+}

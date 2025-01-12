@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736680700085,
+  "endTime": 1736681732695,
   "band_list": [
     {
       "raw_hot": 3087284,
@@ -163,6 +163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1085364,
+      "num": 1085364,
+      "word": "中国女游客在日本被撞身亡最新进展",
+      "onboard_time": 1736679499,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1072078,
       "num": 1072078,
       "word": "恭迎熹妃回宫",
@@ -187,8 +195,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 969175,
-      "num": 969175,
+      "raw_hot": 1011249,
+      "num": 1011249,
       "word": "现成的花少7阵容",
       "onboard_time": 1736677819,
       "rank": 19,
@@ -555,6 +563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 451864,
+      "num": 451864,
+      "word": "蓝盈莹新剧不敢直视的样子好真实",
+      "onboard_time": 1736679079,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 446545,
       "num": 446545,
       "word": "唐艺昕 臣妾今夜心不慌",
@@ -568,6 +584,14 @@
       "word": "白鹿百指登顶",
       "onboard_time": 1736656820,
       "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 428692,
+      "num": 428692,
+      "word": "头一回见地下离婚",
+      "onboard_time": 1736679800,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -723,14 +747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 329625,
-      "num": 329625,
-      "word": "蓝盈莹新剧不敢直视的样子好真实",
-      "onboard_time": 1736679079,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 329341,
       "num": 329341,
       "word": "王一博精心打扮了",
@@ -753,6 +769,14 @@
       "onboard_time": 1736672539,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 321589,
+      "num": 321589,
+      "word": "国考成绩什么时候出",
+      "onboard_time": 1736678298,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 320801,
@@ -817,6 +841,14 @@
       "onboard_time": 1736657059,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 305716,
+      "num": 305716,
+      "word": "嬛嬛四郎到现在没加上微信",
+      "onboard_time": 1736680218,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 304617,
@@ -907,14 +939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 274134,
-      "num": 274134,
-      "word": "国考成绩什么时候出",
-      "onboard_time": 1736678298,
-      "rank": 22,
-      "category": "教育"
-    },
-    {
       "raw_hot": 270688,
       "num": 270688,
       "word": "恋与深空 夏以昼",
@@ -979,14 +1003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 238828,
-      "num": 238828,
-      "word": "头一回见地下离婚",
-      "onboard_time": 1736679800,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 235259,
       "num": 235259,
       "word": "加州山火逼近洛杉矶奥运会场馆",
@@ -1017,6 +1033,14 @@
       "onboard_time": 1736676079,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228292,
+      "num": 228292,
+      "word": "警方通报120打三次不通两度打110",
+      "onboard_time": 1736680880,
+      "rank": 26,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 228174,
@@ -1171,6 +1195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206560,
+      "num": 200084,
+      "word": "刘强东老师将10万红包捐给贫困学生",
+      "onboard_time": 1736676920,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 206457,
       "num": 206457,
       "word": "迪丽热巴内向拍照只比耶",
@@ -1235,28 +1267,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 200084,
-      "num": 200084,
-      "word": "刘强东老师将10万红包捐给贫困学生",
-      "onboard_time": 1736676920,
-      "rank": 32,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 199631,
       "num": 199631,
       "word": "金俊勉哭了",
       "onboard_time": 1736679558,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 199473,
-      "num": 300030,
-      "word": "中国女游客在日本被撞身亡最新进展",
-      "onboard_time": 1736679499,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 198827,
@@ -1411,20 +1427,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 188944,
-      "num": 188944,
-      "word": "嬛嬛四郎到现在没加上微信",
-      "onboard_time": 1736680218,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 187240,
       "num": 208732,
       "word": "成本50卖5000水晶为何突然受热捧",
       "onboard_time": 1736672839,
       "rank": 29,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 187160,
+      "num": 160480,
+      "word": "红领巾老师道别",
+      "onboard_time": 1736681359,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 186342,
@@ -1723,6 +1739,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 156002,
+      "num": 156002,
+      "word": "虞书欣林一互背对方生日",
+      "onboard_time": 1736679020,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154628,
       "num": 154628,
       "word": "年轻人问为什么要跟人交往",
@@ -1771,20 +1795,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 152360,
-      "num": 152360,
-      "word": "虞书欣林一互背对方生日",
-      "onboard_time": 1736679020,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 152241,
       "num": 152241,
       "word": "白鹿 小说中的战损女神有脸了",
       "onboard_time": 1736670741,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150813,
+      "num": 164965,
+      "word": "重庆大哥帮山东货车司机开山路",
+      "onboard_time": 1736679259,
+      "rank": 32,
+      "category": "正能量"
     },
     {
       "raw_hot": 150587,
@@ -1833,6 +1857,14 @@
       "onboard_time": 1736660659,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149390,
+      "num": 293401,
+      "word": "司机雪天误入重庆山路热心大哥解围",
+      "onboard_time": 1736681479,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148450,
@@ -1889,14 +1921,6 @@
       "onboard_time": 1736615717,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 144432,
-      "num": 164965,
-      "word": "重庆大哥帮山东货车司机开山路",
-      "onboard_time": 1736679259,
-      "rank": 32,
-      "category": "正能量"
     },
     {
       "raw_hot": 143681,
@@ -1979,6 +2003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136390,
+      "num": 136390,
+      "word": "洛杉矶消防局长与市长公开争吵",
+      "onboard_time": 1736681120,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 133516,
       "num": 218014,
       "word": "松花湖惊现5米大袋鼠",
@@ -2009,6 +2041,14 @@
       "onboard_time": 1736652858,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132663,
+      "num": 132663,
+      "word": "第一批回村的小狗已换新皮肤",
+      "onboard_time": 1736678658,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 132656,
@@ -2057,14 +2097,6 @@
       "onboard_time": 1736663420,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 129327,
-      "num": 129327,
-      "word": "第一批回村的小狗已换新皮肤",
-      "onboard_time": 1736678658,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 129041,
@@ -2219,6 +2251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119791,
+      "num": 119791,
+      "word": "张康乐得令杂志预告",
+      "onboard_time": 1736680639,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 119741,
       "num": 119741,
       "word": "冬季新能源车续航焦虑还存在吗",
@@ -2241,6 +2281,22 @@
       "onboard_time": 1736674521,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116443,
+      "num": 116443,
+      "word": "袁娅维的狗见过的明星比我多",
+      "onboard_time": 1736681599,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 116059,
+      "num": 116059,
+      "word": "汪苏泷微博之夜售后",
+      "onboard_time": 1736680818,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 115977,
@@ -2363,14 +2419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107504,
-      "num": 107504,
-      "word": "张康乐得令杂志预告",
-      "onboard_time": 1736680639,
-      "rank": 49,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 107089,
       "num": 246654,
       "word": "郑钦文耿直回应赛后握手",
@@ -2419,6 +2467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 101587,
+      "num": 287876,
+      "word": "新荣记国内店人均千元年夜饭已订满",
+      "onboard_time": 1736680458,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98160,
       "num": 334887,
       "word": "一诺照顾被挤在外圈的小俞",
@@ -2465,14 +2521,6 @@
       "onboard_time": 1736670138,
       "rank": 48,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 89176,
-      "num": 287876,
-      "word": "新荣记国内店人均千元年夜饭已订满",
-      "onboard_time": 1736680458,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88905,
@@ -2635,6 +2683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 53420,
+      "num": 1012049,
+      "word": "神十九乘组的新朋友已上线",
+      "onboard_time": 1736679619,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 53414,
       "num": 34569,
       "word": "虞书欣出图",
@@ -2648,6 +2704,14 @@
       "word": "郑钦文一下场就与团队复盘",
       "onboard_time": 1736665339,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 52284,
+      "num": 237028,
+      "word": "皇马vs巴萨",
+      "onboard_time": 1736675599,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -2665,14 +2729,6 @@
       "onboard_time": 1736637735,
       "rank": 37,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 51239,
-      "num": 237028,
-      "word": "皇马vs巴萨",
-      "onboard_time": 1736675599,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 51015,
@@ -2787,14 +2843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39654,
-      "num": 776281,
-      "word": "神十九乘组的新朋友已上线",
-      "onboard_time": 1736679619,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 38987,
       "num": 136275,
       "word": "南京今晚要下雪了",
@@ -2817,6 +2865,14 @@
       "onboard_time": 1736622072,
       "rank": 44,
       "category": "作品衍生,综艺"
+    },
+    {
+      "raw_hot": 33786,
+      "num": 134598,
+      "word": "男生打HPV疫苗是什么体验",
+      "onboard_time": 1736680099,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 32662,
@@ -2883,20 +2939,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 21299,
+      "num": 106999,
+      "word": "水晶或成2025年的第一个财富密码",
+      "onboard_time": 1736681599,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 16916,
       "num": 26175,
       "word": "微博之夜马龙樊振东王楚钦同框",
       "onboard_time": 1736620333,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 15996,
-      "num": 134598,
-      "word": "男生打HPV疫苗是什么体验",
-      "onboard_time": 1736680099,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 13780,
