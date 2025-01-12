@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736686490995,
+  "endTime": 1736688213178,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1211,6 +1211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1802566,
+      "num": 1802566,
+      "word": "大奉打更人口碑逆跌",
+      "onboard_time": 1736685740,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1802079,
       "num": 400939,
       "word": "王星女友对200万赎金不知情",
@@ -1867,6 +1875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1421428,
+      "num": 1421428,
+      "word": "前童星住所遭大火烧毁窒息而死",
+      "onboard_time": 1736683340,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1420052,
       "num": 1218406,
       "word": "张凌赫回复丞磊粉丝",
@@ -1921,14 +1937,6 @@
       "onboard_time": 1735715780,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1385736,
-      "num": 1385736,
-      "word": "前童星住所遭大火烧毁窒息而死",
-      "onboard_time": 1736683340,
-      "rank": 0,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1384245,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736562379,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1219329,
-      "num": 1219329,
-      "word": "赵丽颖汤唯拥抱",
-      "onboard_time": 1736588970,
-      "rank": 12,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
