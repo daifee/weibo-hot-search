@@ -1,6 +1,6 @@
 {
   "startTime": 1736699124375,
-  "endTime": 1736717718967,
+  "endTime": 1736720417426,
   "band_list": [
     {
       "raw_hot": 1069392,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 474750,
-      "num": 193738,
+      "num": 376175,
       "word": "黄子韬删除全部送车相关视频",
       "onboard_time": 1736691023,
       "rank": 21,
@@ -275,6 +275,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 114263,
+      "num": 114263,
+      "word": "黄晓明说大年初一去看郭伯伯",
+      "onboard_time": 1736701095,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 110795,
       "num": 110795,
       "word": "嬛嬛四郎到现在没加上微信",
@@ -411,6 +419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 79997,
+      "num": 79997,
+      "word": "警方通报120打三次不通两度打110",
+      "onboard_time": 1736680880,
+      "rank": 45,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 77727,
       "num": 173327,
       "word": "一诺的射手荣誉已经nextlevel了",
@@ -433,22 +449,6 @@
       "onboard_time": 1736689281,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75443,
-      "num": 75443,
-      "word": "黄晓明说大年初一去看郭伯伯",
-      "onboard_time": 1736701095,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 73446,
-      "num": 73446,
-      "word": "警方通报120打三次不通两度打110",
-      "onboard_time": 1736680880,
-      "rank": 45,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 66614,
@@ -539,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25221,
+      "num": 25221,
+      "word": "鸟嬛是真的",
+      "onboard_time": 1736714831,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 25153,
       "num": 25153,
       "word": "皇马vs巴萨",
@@ -555,6 +563,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 21703,
+      "num": 21703,
+      "word": "1807",
+      "onboard_time": 1736718972,
+      "rank": 33,
+      "category": "艺人,音乐"
+    },
+    {
+      "raw_hot": 21441,
+      "num": 21441,
+      "word": "黄子韬掉粉已超300万",
+      "onboard_time": 1736711051,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 21385,
       "num": 21385,
       "word": "张婧仪侧脸杀",
@@ -563,11 +587,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 19657,
-      "num": 19657,
-      "word": "黄子韬掉粉已超300万",
-      "onboard_time": 1736711051,
-      "rank": 33,
+      "raw_hot": 18684,
+      "num": 18684,
+      "word": "鞠婧祎短发白背心",
+      "onboard_time": 1736710871,
+      "rank": 40,
       "category": "艺人"
     },
     {
@@ -587,14 +611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 17666,
-      "num": 17666,
-      "word": "鸟嬛是真的",
-      "onboard_time": 1736714831,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 16768,
       "num": 43507,
       "word": "流感检测阳性率上升趋势减缓",
@@ -611,6 +627,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 16077,
+      "num": 17037,
+      "word": "中国女游客在日本被撞身亡家人求助",
+      "onboard_time": 1736720112,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15917,
       "num": 49826,
       "word": "朋友圈卖的千元肉毒素成本1块5",
@@ -625,14 +649,6 @@
       "onboard_time": 1736705052,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15121,
-      "num": 15121,
-      "word": "鞠婧祎短发白背心",
-      "onboard_time": 1736710871,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 15065,
