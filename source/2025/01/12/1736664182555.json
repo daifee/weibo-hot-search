@@ -1,0 +1,410 @@
+{
+  "runTime": 1736664182555,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2193972,
+        "num": 2193972,
+        "word": "黄子韬掉粉超百万",
+        "onboard_time": 1736657961,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 844895,
+        "num": 844895,
+        "word": "她凭咚咚咚咚咚咚声救回一命",
+        "onboard_time": 1736659040,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 32600,
+        "num": 622394,
+        "word": "古人用毛笔画6米水仙花海",
+        "onboard_time": 1736658079,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1050259,
+        "num": 576351,
+        "word": "费翔抽中了汤唯父亲的墨宝",
+        "onboard_time": 1736662040,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 505221,
+        "num": 505221,
+        "word": "爸妈头发不多但生了个真人版蒙奇奇",
+        "onboard_time": 1736662819,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 406130,
+        "num": 406130,
+        "word": "东京新荣记就提供阴阳菜单一事道歉",
+        "onboard_time": 1736654479,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 678458,
+        "num": 396713,
+        "word": "腾讯2025第一部破30000剧集",
+        "onboard_time": 1736653578,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 618903,
+        "num": 395463,
+        "word": "孟子义控诉和李昀锐毫无默契",
+        "onboard_time": 1736660780,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 373721,
+        "num": 373721,
+        "word": "警犬在战友床上尿尿连续4周被通报",
+        "onboard_time": 1736643619,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95291,
+        "num": 367206,
+        "word": "特朗普计划前往加州",
+        "onboard_time": 1736663779,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 516996,
+        "num": 350201,
+        "word": "高叶怎么穿着钢笔就上去了",
+        "onboard_time": 1736648238,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 445470,
+        "num": 332353,
+        "word": "美国加州山火现火龙卷",
+        "onboard_time": 1736656278,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 425442,
+        "num": 328157,
+        "word": "魏大勋不语 只是一味地公关",
+        "onboard_time": 1736663599,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 390894,
+        "num": 314311,
+        "word": "卢昱晓 自封昨晚全世界最快乐小孩奖",
+        "onboard_time": 1736663000,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 302316,
+        "num": 302316,
+        "word": "王宝强发言时的王一博",
+        "onboard_time": 1736645899,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 286532,
+        "num": 286532,
+        "word": "2名中国女游客在日本遭列车撞击身亡",
+        "onboard_time": 1736654418,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269836,
+        "num": 269836,
+        "word": "专家称深圳小学试卷步子迈太大",
+        "onboard_time": 1736658139,
+        "rank": 16,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 209451,
+        "num": 209451,
+        "word": "假肉毒素成本1.5元出厂20元卖价上千",
+        "onboard_time": 1736656581,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 191913,
+        "num": 208971,
+        "word": "一诺繁花拖尾西装",
+        "onboard_time": 1736663838,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 86666,
+        "num": 208524,
+        "word": "奥司他韦为何一到流感季就火",
+        "onboard_time": 1736661919,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 282182,
+        "num": 208412,
+        "word": "颖儿 今年的枫叶够红了吧",
+        "onboard_time": 1736660780,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 272573,
+        "num": 207890,
+        "word": "钟楚曦经济补偿曾舜晞",
+        "onboard_time": 1736640438,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 261030,
+        "num": 207453,
+        "word": "赵丽颖宠哪吒的心藏不住",
+        "onboard_time": 1736658139,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 252858,
+        "num": 206924,
+        "word": "陈小春 今天种地去找CFO",
+        "onboard_time": 1736662700,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34815,
+        "num": 206320,
+        "word": "莫兰特最后时刻醒了",
+        "onboard_time": 1736663899,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217823,
+        "num": 205749,
+        "word": "怪不得五阿哥和紫薇只能是兄妹",
+        "onboard_time": 1736655199,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212713,
+        "num": 205227,
+        "word": "白鹿百指登顶",
+        "onboard_time": 1736656820,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205111,
+        "num": 205111,
+        "word": "白月梵星",
+        "onboard_time": 1736663959,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192599,
+        "num": 192599,
+        "word": "于适陈牧驰同框",
+        "onboard_time": 1736663720,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158618,
+        "num": 188579,
+        "word": "eStar新年新花样",
+        "onboard_time": 1736663899,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188566,
+        "num": 188566,
+        "word": "9岁男孩喝奶奶偏方药后中毒进ICU",
+        "onboard_time": 1736664139,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183774,
+        "num": 183774,
+        "word": "传单被撕女服务员怒掐男孩脖子",
+        "onboard_time": 1736651780,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181168,
+        "num": 181168,
+        "word": "黄晓明又在拍肖战",
+        "onboard_time": 1736661499,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110601,
+        "num": 170260,
+        "word": "松花湖惊现5米大袋鼠",
+        "onboard_time": 1736660298,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165608,
+        "num": 165608,
+        "word": "白鹿白烁Queen never cry",
+        "onboard_time": 1736662398,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156165,
+        "num": 156165,
+        "word": "樊振东喊话来大湾区看十五运",
+        "onboard_time": 1736662579,
+        "rank": 35,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 149935,
+        "num": 149935,
+        "word": "孙茜还原槿汐姑姑的发型",
+        "onboard_time": 1736664019,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172281,
+        "num": 148499,
+        "word": "肖战徐克微博之夜合照",
+        "onboard_time": 1736663720,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147054,
+        "num": 147054,
+        "word": "河北沧州3.4级地震",
+        "onboard_time": 1736648479,
+        "rank": 38,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 145919,
+        "num": 145919,
+        "word": "小S为大女儿庆19岁生日",
+        "onboard_time": 1736660480,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142659,
+        "num": 142659,
+        "word": "李宇春 讨厌吃饭时看手机",
+        "onboard_time": 1736662938,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140420,
+        "num": 140420,
+        "word": "金世佳一句话让檀健次闭麦",
+        "onboard_time": 1736659339,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137997,
+        "num": 137997,
+        "word": "鸡腿诺 程鑫凯",
+        "onboard_time": 1736657300,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 133924,
+        "num": 133924,
+        "word": "蒋欣怎么忍住不笑场的",
+        "onboard_time": 1736664139,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130259,
+        "num": 130259,
+        "word": "刘畅软饭硬吃还要自我安慰",
+        "onboard_time": 1736663420,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121390,
+        "num": 130149,
+        "word": "年轻人问为什么要跟人交往",
+        "onboard_time": 1736655560,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130090,
+        "num": 130090,
+        "word": "赵丽颖微博Queen",
+        "onboard_time": 1736605829,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128187,
+        "num": 128187,
+        "word": "奚梦瑶用无人机给何猷君庆生",
+        "onboard_time": 1736660659,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112839,
+        "num": 112839,
+        "word": "美国运动员大火中失去10枚奥运奖牌",
+        "onboard_time": 1736649019,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 41442,
+        "num": 112363,
+        "word": "狼队教练发博道歉",
+        "onboard_time": 1736651659,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#以高质量审计监督护航经济社会高质量发展#"
+    }
+  }
+}
