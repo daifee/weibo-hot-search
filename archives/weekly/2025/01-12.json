@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736664182555,
+  "endTime": 1736666383184,
   "band_list": [
     {
       "raw_hot": 3087284,
@@ -91,6 +91,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1140985,
+      "num": 1182557,
+      "word": "魏大勋不语 只是一味地公关",
+      "onboard_time": 1736663599,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1132737,
       "num": 1132737,
       "word": "高叶怎么穿着钢笔就上去了",
@@ -163,12 +171,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 843930,
+      "num": 404823,
+      "word": "卢昱晓 自封昨晚全世界最快乐小孩奖",
+      "onboard_time": 1736663000,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 794612,
       "num": 794612,
       "word": "魏大勋返图马龙礼物球拍",
       "onboard_time": 1736650459,
       "rank": 28,
       "category": "作品衍生,体育"
+    },
+    {
+      "raw_hot": 790745,
+      "num": 324620,
+      "word": "白鹿 死嘴快别笑了",
+      "onboard_time": 1736665220,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 731179,
@@ -339,6 +363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 518113,
+      "num": 518113,
+      "word": "爸妈头发不多但生了个真人版蒙奇奇",
+      "onboard_time": 1736662819,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 509997,
       "num": 509997,
       "word": "救救马丽",
@@ -347,11 +379,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 505221,
-      "num": 505221,
-      "word": "爸妈头发不多但生了个真人版蒙奇奇",
-      "onboard_time": 1736662819,
-      "rank": 17,
+      "raw_hot": 502786,
+      "num": 502786,
+      "word": "9岁男孩喝奶奶偏方药后中毒进ICU",
+      "onboard_time": 1736664139,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -393,14 +425,6 @@
       "onboard_time": 1736653939,
       "rank": 17,
       "category": "作品衍生,体育"
-    },
-    {
-      "raw_hot": 425442,
-      "num": 328157,
-      "word": "魏大勋不语 只是一味地公关",
-      "onboard_time": 1736663599,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 414300,
@@ -451,14 +475,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 390894,
-      "num": 314311,
-      "word": "卢昱晓 自封昨晚全世界最快乐小孩奖",
-      "onboard_time": 1736663000,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 372368,
       "num": 372368,
       "word": "李沁集齐五福",
@@ -473,6 +489,14 @@
       "onboard_time": 1736612183,
       "rank": 29,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 353102,
+      "num": 190704,
+      "word": "惠英红 我cp婚礼见证人",
+      "onboard_time": 1736665578,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 351673,
@@ -505,6 +529,14 @@
       "onboard_time": 1736596588,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 331998,
+      "num": 206924,
+      "word": "陈小春 今天种地去找CFO",
+      "onboard_time": 1736662700,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 329341,
@@ -603,6 +635,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 295908,
+      "num": 295908,
+      "word": "两缉毒警曾假扮情侣如今订婚了",
+      "onboard_time": 1736665519,
+      "rank": 16,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 291208,
       "num": 291208,
       "word": "蔡少芬蒋欣 我们两个应该结婚",
@@ -617,6 +657,14 @@
       "onboard_time": 1736656581,
       "rank": 48,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 289636,
+      "num": 183677,
+      "word": "张艺兴金俊勉朴灿烈合影",
+      "onboard_time": 1736665161,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 288190,
@@ -665,14 +713,6 @@
       "onboard_time": 1736657659,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 252858,
-      "num": 206924,
-      "word": "陈小春 今天种地去找CFO",
-      "onboard_time": 1736662700,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 244311,
@@ -771,6 +811,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209847,
+      "num": 205111,
+      "word": "白月梵星",
+      "onboard_time": 1736663959,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 209332,
+      "num": 179661,
+      "word": "跑男 十年",
+      "onboard_time": 1736665640,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208307,
       "num": 208307,
       "word": "张萌发了昀牵孟绕捧脸杀",
@@ -827,20 +883,36 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 205111,
-      "num": 205111,
-      "word": "白月梵星",
-      "onboard_time": 1736663959,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 204367,
       "num": 204367,
       "word": "尔冬升给了焉栩嘉一脚",
       "onboard_time": 1736656160,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201488,
+      "num": 178987,
+      "word": "刘晓庆 我也是义务的",
+      "onboard_time": 1736665819,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 198692,
+      "num": 173517,
+      "word": "肖战微博之夜百指",
+      "onboard_time": 1736665819,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 198038,
+      "num": 172595,
+      "word": "李现收到时代少年团窗花",
+      "onboard_time": 1736666118,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 197657,
@@ -867,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195794,
+      "num": 171493,
+      "word": "张康乐给马柏全的备注",
+      "onboard_time": 1736665760,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195137,
       "num": 195137,
       "word": "金世佳一句话让檀健次闭麦",
@@ -881,6 +961,14 @@
       "onboard_time": 1736661499,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193973,
+      "num": 367206,
+      "word": "特朗普计划前往加州",
+      "onboard_time": 1736663779,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 192878,
@@ -931,14 +1019,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 188566,
-      "num": 188566,
-      "word": "9岁男孩喝奶奶偏方药后中毒进ICU",
-      "onboard_time": 1736664139,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 186342,
       "num": 169658,
       "word": "丁禹兮和哪吒敖丙合影",
@@ -987,6 +1067,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 180170,
+      "num": 180170,
+      "word": "逆水寒",
+      "onboard_time": 1736665098,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 179712,
       "num": 179712,
       "word": "孟子义李昀锐合唱",
@@ -1031,6 +1119,14 @@
       "num": 170073,
       "word": "杨紫摸哪吒的小脸蛋",
       "onboard_time": 1736659280,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 170042,
+      "num": 170042,
+      "word": "王源周深 内娱有自己的出糗搭子",
+      "onboard_time": 1736666180,
       "rank": 35,
       "category": "作品衍生"
     },
@@ -1107,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161365,
+      "num": 161365,
+      "word": "曾黎搂着宋佳的腰",
+      "onboard_time": 1736664739,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 158618,
       "num": 188579,
       "word": "eStar新年新花样",
@@ -1115,11 +1219,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 157745,
+      "num": 133924,
+      "word": "蒋欣怎么忍住不笑场的",
+      "onboard_time": 1736664139,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 157227,
       "num": 157227,
       "word": "虞书欣坚持热爱与执着",
       "onboard_time": 1736659100,
       "rank": 37,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 156400,
+      "num": 127426,
+      "word": "时代少年团从卧室巨星到我是巨星",
+      "onboard_time": 1736665278,
+      "rank": 41,
       "category": "作品衍生"
     },
     {
@@ -1137,6 +1257,14 @@
       "onboard_time": 1736655560,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154257,
+      "num": 154257,
+      "word": "尔滨把冰马俑安排上了",
+      "onboard_time": 1736664920,
+      "rank": 37,
+      "category": "正能量"
     },
     {
       "raw_hot": 154185,
@@ -1243,6 +1371,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 142872,
+      "num": 142872,
+      "word": "AG今年巅峰之夜长这样",
+      "onboard_time": 1736664920,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 142659,
       "num": 142659,
       "word": "李宇春 讨厌吃饭时看手机",
@@ -1257,6 +1393,14 @@
       "onboard_time": 1736647820,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142295,
+      "num": 124973,
+      "word": "白月梵星台词含金量",
+      "onboard_time": 1736666118,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 141901,
@@ -1283,14 +1427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133924,
-      "num": 133924,
-      "word": "蒋欣怎么忍住不笑场的",
-      "onboard_time": 1736664139,
-      "rank": 43,
-      "category": "演出"
-    },
-    {
       "raw_hot": 133516,
       "num": 218014,
       "word": "松花湖惊现5米大袋鼠",
@@ -1313,6 +1449,22 @@
       "onboard_time": 1736645540,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131823,
+      "num": 123351,
+      "word": "白月梵星播放量破2亿",
+      "onboard_time": 1736664858,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 130463,
+      "num": 130463,
+      "word": "使用过期口红更容易得唇炎",
+      "onboard_time": 1736666180,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 130259,
@@ -1345,6 +1497,14 @@
       "onboard_time": 1736636714,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 127761,
+      "num": 175768,
+      "word": "JDG五彩斑斓的黑西装",
+      "onboard_time": 1736664379,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 126915,
@@ -1403,6 +1563,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 122607,
+      "num": 122607,
+      "word": "星宇深V西装真不见外",
+      "onboard_time": 1736666058,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121313,
       "num": 577758,
       "word": "尹锡悦将不出席弹劾案首次正式辩论",
@@ -1433,6 +1601,14 @@
       "onboard_time": 1736661919,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 117897,
+      "num": 332913,
+      "word": "洛杉矶人为纵火案频发",
+      "onboard_time": 1736665220,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 115658,
@@ -1483,6 +1659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111233,
+      "num": 111233,
+      "word": "钎城暗纹西装造型好绝",
+      "onboard_time": 1736665399,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 108632,
       "num": 168610,
       "word": "央视曝光化解债务骗局",
@@ -1505,6 +1689,14 @@
       "onboard_time": 1736644760,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 106376,
+      "num": 176189,
+      "word": "郑钦文耿直回应赛后握手",
+      "onboard_time": 1736664440,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 103535,
@@ -1553,14 +1745,6 @@
       "onboard_time": 1736607930,
       "rank": 39,
       "category": "电竞,作品衍生"
-    },
-    {
-      "raw_hot": 95291,
-      "num": 367206,
-      "word": "特朗普计划前往加州",
-      "onboard_time": 1736663779,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 93742,
@@ -1681,6 +1865,14 @@
       "onboard_time": 1736623333,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 53128,
+      "num": 174774,
+      "word": "郑钦文一下场就与团队复盘",
+      "onboard_time": 1736665339,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 51567,
@@ -1833,6 +2025,14 @@
       "onboard_time": 1736608647,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27171,
+      "num": 305927,
+      "word": "美国演员被困火海险跳海逃",
+      "onboard_time": 1736666118,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 26138,

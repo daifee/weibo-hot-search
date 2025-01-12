@@ -1,0 +1,410 @@
+{
+  "runTime": 1736666383184,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1140985,
+        "num": 1182557,
+        "word": "魏大勋不语 只是一味地公关",
+        "onboard_time": 1736663599,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 655444,
+        "num": 655444,
+        "word": "她凭咚咚咚咚咚咚声救回一命",
+        "onboard_time": 1736659040,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 30622,
+        "num": 519559,
+        "word": "古人用毛笔画6米水仙花海",
+        "onboard_time": 1736658079,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 518113,
+        "num": 518113,
+        "word": "爸妈头发不多但生了个真人版蒙奇奇",
+        "onboard_time": 1736662819,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 502786,
+        "num": 502786,
+        "word": "9岁男孩喝奶奶偏方药后中毒进ICU",
+        "onboard_time": 1736664139,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1876370,
+        "num": 446104,
+        "word": "黄子韬掉粉超百万",
+        "onboard_time": 1736657961,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 952457,
+        "num": 433107,
+        "word": "费翔抽中了汤唯父亲的墨宝",
+        "onboard_time": 1736662040,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 843930,
+        "num": 404823,
+        "word": "卢昱晓 自封昨晚全世界最快乐小孩奖",
+        "onboard_time": 1736663000,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 335001,
+        "num": 335001,
+        "word": "警犬在战友床上尿尿连续4周被通报",
+        "onboard_time": 1736643619,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117897,
+        "num": 332913,
+        "word": "洛杉矶人为纵火案频发",
+        "onboard_time": 1736665220,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 790745,
+        "num": 324620,
+        "word": "白鹿 死嘴快别笑了",
+        "onboard_time": 1736665220,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 484013,
+        "num": 321719,
+        "word": "腾讯2025第一部破30000剧集",
+        "onboard_time": 1736653578,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 404614,
+        "num": 316980,
+        "word": "美国加州山火现火龙卷",
+        "onboard_time": 1736656278,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 380946,
+        "num": 308447,
+        "word": "高叶怎么穿着钢笔就上去了",
+        "onboard_time": 1736648238,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27171,
+        "num": 305927,
+        "word": "美国演员被困火海险跳海逃",
+        "onboard_time": 1736666118,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 376324,
+        "num": 300082,
+        "word": "孟子义控诉和李昀锐毫无默契",
+        "onboard_time": 1736660780,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 295908,
+        "num": 295908,
+        "word": "两缉毒警曾假扮情侣如今订婚了",
+        "onboard_time": 1736665519,
+        "rank": 16,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 294083,
+        "num": 294083,
+        "word": "东京新荣记就提供阴阳菜单一事道歉",
+        "onboard_time": 1736654479,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 225551,
+        "num": 225551,
+        "word": "2名中国女游客在日本遭列车撞击身亡",
+        "onboard_time": 1736654418,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193973,
+        "num": 193973,
+        "word": "特朗普计划前往加州",
+        "onboard_time": 1736663779,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 353102,
+        "num": 190704,
+        "word": "惠英红 我cp婚礼见证人",
+        "onboard_time": 1736665578,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 331998,
+        "num": 190356,
+        "word": "陈小春 今天种地去找CFO",
+        "onboard_time": 1736662700,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289636,
+        "num": 183677,
+        "word": "张艺兴金俊勉朴灿烈合影",
+        "onboard_time": 1736665161,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 209847,
+        "num": 181075,
+        "word": "白月梵星",
+        "onboard_time": 1736663959,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180170,
+        "num": 180170,
+        "word": "逆水寒",
+        "onboard_time": 1736665098,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209332,
+        "num": 179661,
+        "word": "跑男 十年",
+        "onboard_time": 1736665640,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201488,
+        "num": 178987,
+        "word": "刘晓庆 我也是义务的",
+        "onboard_time": 1736665819,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200965,
+        "num": 177169,
+        "word": "赵丽颖宠哪吒的心藏不住",
+        "onboard_time": 1736658139,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106376,
+        "num": 176189,
+        "word": "郑钦文耿直回应赛后握手",
+        "onboard_time": 1736664440,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127761,
+        "num": 175768,
+        "word": "JDG五彩斑斓的黑西装",
+        "onboard_time": 1736664379,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 53128,
+        "num": 174774,
+        "word": "郑钦文一下场就与团队复盘",
+        "onboard_time": 1736665339,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198692,
+        "num": 173517,
+        "word": "肖战微博之夜百指",
+        "onboard_time": 1736665819,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198038,
+        "num": 172595,
+        "word": "李现收到时代少年团窗花",
+        "onboard_time": 1736666118,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195794,
+        "num": 171493,
+        "word": "张康乐给马柏全的备注",
+        "onboard_time": 1736665760,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182872,
+        "num": 170611,
+        "word": "王宝强发言时的王一博",
+        "onboard_time": 1736645899,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170042,
+        "num": 170042,
+        "word": "王源周深 内娱有自己的出糗搭子",
+        "onboard_time": 1736666180,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161365,
+        "num": 161365,
+        "word": "曾黎搂着宋佳的腰",
+        "onboard_time": 1736664739,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154257,
+        "num": 154257,
+        "word": "尔滨把冰马俑安排上了",
+        "onboard_time": 1736664920,
+        "rank": 37,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 142872,
+        "num": 142872,
+        "word": "AG今年巅峰之夜长这样",
+        "onboard_time": 1736664920,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130463,
+        "num": 130463,
+        "word": "使用过期口红更容易得唇炎",
+        "onboard_time": 1736666180,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157745,
+        "num": 128712,
+        "word": "蒋欣怎么忍住不笑场的",
+        "onboard_time": 1736664139,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156400,
+        "num": 127426,
+        "word": "时代少年团从卧室巨星到我是巨星",
+        "onboard_time": 1736665278,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125216,
+        "num": 125216,
+        "word": "专家称深圳小学试卷步子迈太大",
+        "onboard_time": 1736658139,
+        "rank": 42,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 125084,
+        "num": 125084,
+        "word": "樊振东喊话来大湾区看十五运",
+        "onboard_time": 1736662579,
+        "rank": 43,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 142295,
+        "num": 124973,
+        "word": "白月梵星台词含金量",
+        "onboard_time": 1736666118,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133193,
+        "num": 124239,
+        "word": "黄晓明又在拍肖战",
+        "onboard_time": 1736661499,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131823,
+        "num": 123351,
+        "word": "白月梵星播放量破2亿",
+        "onboard_time": 1736664858,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133000,
+        "num": 122795,
+        "word": "颖儿 今年的枫叶够红了吧",
+        "onboard_time": 1736660780,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122607,
+        "num": 122607,
+        "word": "星宇深V西装真不见外",
+        "onboard_time": 1736666058,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111233,
+        "num": 111233,
+        "word": "钎城暗纹西装造型好绝",
+        "onboard_time": 1736665399,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#这场反腐败战役我们要打到底#"
+    }
+  }
+}
