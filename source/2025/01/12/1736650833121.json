@@ -1,0 +1,410 @@
+{
+  "runTime": 1736650833121,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1684429,
+        "num": 1684429,
+        "word": "警犬在战友床上尿尿连续4周被通报",
+        "onboard_time": 1736643619,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 950152,
+        "num": 950152,
+        "word": "美国运动员大火中失去10枚奥运奖牌",
+        "onboard_time": 1736649019,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 37621,
+        "num": 948564,
+        "word": "快查收2025第一份宇宙级浪漫",
+        "onboard_time": 1736609666,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 948452,
+        "num": 948452,
+        "word": "王宝强发言时的王一博",
+        "onboard_time": 1736645899,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 848040,
+        "num": 848040,
+        "word": "河北沧州3.4级地震",
+        "onboard_time": 1736648479,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1016969,
+        "num": 830011,
+        "word": "钟楚曦经济补偿曾舜晞",
+        "onboard_time": 1736640438,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 688104,
+        "num": 688104,
+        "word": "高叶怎么穿着钢笔就上去了",
+        "onboard_time": 1736648238,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 656492,
+        "num": 656492,
+        "word": "肖战为了这一刻复盘了一年",
+        "onboard_time": 1736648479,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 698739,
+        "num": 652536,
+        "word": "王宝强 上热搜可以但不能塌房",
+        "onboard_time": 1736605229,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 64322,
+        "num": 583187,
+        "word": "郑钦文2比0托多尼",
+        "onboard_time": 1736650280,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 563496,
+        "num": 563496,
+        "word": "魏大勋抽到马龙送的礼物",
+        "onboard_time": 1736646200,
+        "rank": 10,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 544875,
+        "num": 544875,
+        "word": "沈腾用前置扫码",
+        "onboard_time": 1736641578,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 472405,
+        "num": 472405,
+        "word": "赵丽颖微博Queen",
+        "onboard_time": 1736605829,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 441859,
+        "num": 441859,
+        "word": "白鹿晒微博之夜后台一些合照",
+        "onboard_time": 1736610924,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 400700,
+        "num": 400700,
+        "word": "丁禹兮站起来给老板鼓掌",
+        "onboard_time": 1736644639,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 379073,
+        "num": 379073,
+        "word": "相信美国消防的她回家时直接傻眼",
+        "onboard_time": 1736643859,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 345650,
+        "num": 345650,
+        "word": "老来得King",
+        "onboard_time": 1736611344,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 294180,
+        "num": 294180,
+        "word": "靠海的洛杉矶为何缺水灭火",
+        "onboard_time": 1736649138,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107285,
+        "num": 289272,
+        "word": "美国记者街头恭喜加拿大人遭怼",
+        "onboard_time": 1736642719,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 286646,
+        "num": 286646,
+        "word": "肖战梅开二度",
+        "onboard_time": 1736611943,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 273658,
+        "num": 273658,
+        "word": "樊振东 阿玛尼",
+        "onboard_time": 1736610924,
+        "rank": 20,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 255113,
+        "num": 255113,
+        "word": "檀健次绅士手扶虞书欣",
+        "onboard_time": 1736648599,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 250260,
+        "num": 250260,
+        "word": "孙俪 凤凰于飞",
+        "onboard_time": 1736647220,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246698,
+        "num": 246698,
+        "word": "日料店的进口鳗鱼来自江西瑞金",
+        "onboard_time": 1736645780,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 92796,
+        "num": 244646,
+        "word": "数学老师评小学期末考太难",
+        "onboard_time": 1736641278,
+        "rank": 24,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 244311,
+        "num": 244311,
+        "word": "郑钦文VS托多尼",
+        "onboard_time": 1736641217,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230508,
+        "num": 230508,
+        "word": "微博之夜四大美女",
+        "onboard_time": 1736603487,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227977,
+        "num": 227977,
+        "word": "王楚钦和马龙樊振东击掌道别",
+        "onboard_time": 1736639656,
+        "rank": 27,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 183225,
+        "num": 226094,
+        "word": "魏大勋返图马龙礼物球拍",
+        "onboard_time": 1736650459,
+        "rank": 28,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 225131,
+        "num": 225131,
+        "word": "沈腾微博King",
+        "onboard_time": 1736606010,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 223165,
+        "num": 223165,
+        "word": "陈建斌蒋勤勤 真纯元cp",
+        "onboard_time": 1736647400,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218725,
+        "num": 218725,
+        "word": "曾黎7米非遗剪纸裙设计者发声",
+        "onboard_time": 1736650160,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 210510,
+        "num": 210510,
+        "word": "昊磊复婚",
+        "onboard_time": 1736593888,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184715,
+        "num": 184715,
+        "word": "摔倒时是孩子爬起来就是老板",
+        "onboard_time": 1736638756,
+        "rank": 33,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 165588,
+        "num": 165588,
+        "word": "2025全年考试时间表",
+        "onboard_time": 1736646561,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 88905,
+        "num": 147553,
+        "word": "郑钦文挽救三个盘点",
+        "onboard_time": 1736649499,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185116,
+        "num": 147463,
+        "word": "虞书欣微博之夜获奖感言",
+        "onboard_time": 1736646139,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 166614,
+        "num": 147065,
+        "word": "一路繁花",
+        "onboard_time": 1736650400,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146586,
+        "num": 146586,
+        "word": "郑钦文破发",
+        "onboard_time": 1736646139,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142442,
+        "num": 142442,
+        "word": "警犬上班死气沉沉下班魅力四射",
+        "onboard_time": 1736647820,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151094,
+        "num": 142118,
+        "word": "王俊凯果然下班使人快乐",
+        "onboard_time": 1736640558,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148004,
+        "num": 139331,
+        "word": "唐艺昕 臣妾今夜心不慌",
+        "onboard_time": 1736614519,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147238,
+        "num": 135444,
+        "word": "丁禹兮和哪吒敖丙合影",
+        "onboard_time": 1736650638,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129941,
+        "num": 129941,
+        "word": "恭迎熹妃回宫",
+        "onboard_time": 1736598027,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122033,
+        "num": 122033,
+        "word": "黄雅琼问谁抽到了她的礼物",
+        "onboard_time": 1736610445,
+        "rank": 44,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 145124,
+        "num": 121548,
+        "word": "王俊凯默默提醒田华老师",
+        "onboard_time": 1736648000,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114145,
+        "num": 116982,
+        "word": "震区女孩与武警姐姐的双向奔赴好暖",
+        "onboard_time": 1736648899,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116655,
+        "num": 116655,
+        "word": "海军南昌舰入列5周年",
+        "onboard_time": 1736643380,
+        "rank": 47,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 109229,
+        "num": 109229,
+        "word": "女子100元买的裤子褪色双腿被染紫",
+        "onboard_time": 1736615717,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109093,
+        "num": 109093,
+        "word": "银川地震",
+        "onboard_time": 1736638274,
+        "rank": 49,
+        "category": "突发/灾害"
+      }
+    ],
+    "hotgov": {
+      "word": "#反腐路上一步不停歇半步不退让#"
+    }
+  }
+}

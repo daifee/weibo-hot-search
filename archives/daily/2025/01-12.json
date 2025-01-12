@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736647956223,
+  "endTime": 1736650833121,
   "band_list": [
     {
       "raw_hot": 3012112,
@@ -99,12 +99,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 888337,
-      "num": 888337,
+      "raw_hot": 950152,
+      "num": 950152,
+      "word": "美国运动员大火中失去10枚奥运奖牌",
+      "onboard_time": 1736649019,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 948452,
+      "num": 948452,
       "word": "王宝强发言时的王一博",
       "onboard_time": 1736645899,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 848040,
+      "num": 848040,
+      "word": "河北沧州3.4级地震",
+      "onboard_time": 1736648479,
+      "rank": 4,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 731179,
@@ -131,20 +147,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 698739,
+      "num": 652536,
+      "word": "王宝强 上热搜可以但不能塌房",
+      "onboard_time": 1736605229,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 688104,
+      "num": 688104,
+      "word": "高叶怎么穿着钢笔就上去了",
+      "onboard_time": 1736648238,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 656492,
+      "num": 656492,
+      "word": "肖战为了这一刻复盘了一年",
+      "onboard_time": 1736648479,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 653426,
       "num": 756942,
       "word": "黄雅琼问谁抽到了她的礼物",
       "onboard_time": 1736610445,
       "rank": 13,
       "category": "体育,作品衍生"
-    },
-    {
-      "raw_hot": 652780,
-      "num": 583400,
-      "word": "王宝强 上热搜可以但不能塌房",
-      "onboard_time": 1736605229,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 624902,
@@ -187,6 +219,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 563496,
+      "num": 563496,
+      "word": "魏大勋抽到马龙送的礼物",
+      "onboard_time": 1736646200,
+      "rank": 35,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 526013,
       "num": 526013,
       "word": "丁禹兮发言切虞书欣名牌",
@@ -224,6 +264,14 @@
       "word": "唐艺昕 臣妾今夜心不慌",
       "onboard_time": 1736614519,
       "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 400700,
+      "num": 400700,
+      "word": "丁禹兮站起来给老板鼓掌",
+      "onboard_time": 1736644639,
+      "rank": 24,
       "category": "作品衍生"
     },
     {
@@ -339,6 +387,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 294180,
+      "num": 294180,
+      "word": "靠海的洛杉矶为何缺水灭火",
+      "onboard_time": 1736649138,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 291208,
       "num": 291208,
       "word": "蔡少芬蒋欣 我们两个应该结婚",
@@ -363,20 +419,28 @@
       "category": "体育,作品衍生"
     },
     {
-      "raw_hot": 238853,
-      "num": 238853,
-      "word": "丁禹兮站起来给老板鼓掌",
-      "onboard_time": 1736644639,
-      "rank": 24,
+      "raw_hot": 255113,
+      "num": 255113,
+      "word": "檀健次绅士手扶虞书欣",
+      "onboard_time": 1736648599,
+      "rank": 21,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 229918,
-      "num": 229918,
-      "word": "魏大勋抽到马龙送的礼物",
-      "onboard_time": 1736646200,
-      "rank": 35,
-      "category": "体育,作品衍生"
+      "raw_hot": 250260,
+      "num": 250260,
+      "word": "孙俪 凤凰于飞",
+      "onboard_time": 1736647220,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 244311,
+      "num": 244311,
+      "word": "郑钦文VS托多尼",
+      "onboard_time": 1736641217,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 228174,
@@ -393,6 +457,22 @@
       "onboard_time": 1736646139,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 223165,
+      "num": 223165,
+      "word": "陈建斌蒋勤勤 真纯元cp",
+      "onboard_time": 1736647400,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 218725,
+      "num": 218725,
+      "word": "曾黎7米非遗剪纸裙设计者发声",
+      "onboard_time": 1736650160,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 211467,
@@ -435,14 +515,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 204994,
-      "num": 204994,
-      "word": "郑钦文VS托多尼",
-      "onboard_time": 1736641217,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 197295,
       "num": 197295,
       "word": "吴宣仪生日演唱会",
@@ -465,6 +537,22 @@
       "onboard_time": 1736607749,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185116,
+      "num": 147463,
+      "word": "虞书欣微博之夜获奖感言",
+      "onboard_time": 1736646139,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 183225,
+      "num": 226094,
+      "word": "魏大勋返图马龙礼物球拍",
+      "onboard_time": 1736650459,
+      "rank": 28,
+      "category": "作品衍生,体育"
     },
     {
       "raw_hot": 179712,
@@ -500,27 +588,27 @@
     },
     {
       "raw_hot": 167884,
-      "num": 167884,
+      "num": 289272,
       "word": "美国记者街头恭喜加拿大人遭怼",
       "onboard_time": 1736642719,
       "rank": 34,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 167454,
-      "num": 167454,
-      "word": "孙俪 凤凰于飞",
-      "onboard_time": 1736647220,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 166614,
+      "num": 147065,
+      "word": "一路繁花",
+      "onboard_time": 1736650400,
+      "rank": 37,
+      "category": "综艺"
     },
     {
-      "raw_hot": 157534,
-      "num": 143315,
-      "word": "陈建斌蒋勤勤 真纯元cp",
-      "onboard_time": 1736647400,
-      "rank": 35,
-      "category": "剧集"
+      "raw_hot": 165588,
+      "num": 165588,
+      "word": "2025全年考试时间表",
+      "onboard_time": 1736646561,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 152772,
@@ -531,11 +619,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 150463,
-      "num": 139852,
-      "word": "虞书欣微博之夜获奖感言",
-      "onboard_time": 1736646139,
-      "rank": 41,
+      "raw_hot": 147238,
+      "num": 135444,
+      "word": "丁禹兮和哪吒敖丙合影",
+      "onboard_time": 1736650638,
+      "rank": 42,
       "category": "作品衍生"
     },
     {
@@ -555,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145124,
+      "num": 121548,
+      "word": "王俊凯默默提醒田华老师",
+      "onboard_time": 1736648000,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145100,
       "num": 320432,
       "word": "女子100元买的裤子褪色双腿被染紫",
@@ -563,12 +659,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 132336,
-      "num": 132336,
-      "word": "2025全年考试时间表",
-      "onboard_time": 1736646561,
-      "rank": 48,
-      "category": "教育"
+      "raw_hot": 142442,
+      "num": 142442,
+      "word": "警犬上班死气沉沉下班魅力四射",
+      "onboard_time": 1736647820,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132052,
@@ -643,6 +739,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 114145,
+      "num": 116982,
+      "word": "震区女孩与武警姐姐的双向奔赴好暖",
+      "onboard_time": 1736648899,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113562,
       "num": 171746,
       "word": "钟楚曦给曾舜晞发红包道歉",
@@ -652,7 +756,7 @@
     },
     {
       "raw_hot": 111711,
-      "num": 111711,
+      "num": 244646,
       "word": "数学老师评小学期末考太难",
       "onboard_time": 1736641278,
       "rank": 48,
@@ -739,6 +843,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 88905,
+      "num": 147553,
+      "word": "郑钦文挽救三个盘点",
+      "onboard_time": 1736649499,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80403,
       "num": 207569,
       "word": "西藏13岁姑娘叮嘱武警姐姐休息",
@@ -769,6 +881,14 @@
       "onboard_time": 1736646200,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 64322,
+      "num": 583187,
+      "word": "郑钦文2比0托多尼",
+      "onboard_time": 1736650280,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 59773,
