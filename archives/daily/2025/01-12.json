@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736650833121,
+  "endTime": 1736651365811,
   "band_list": [
     {
       "raw_hot": 3012112,
@@ -115,8 +115,16 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 848040,
-      "num": 848040,
+      "raw_hot": 899899,
+      "num": 899899,
+      "word": "高叶怎么穿着钢笔就上去了",
+      "onboard_time": 1736648238,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 866002,
+      "num": 866002,
       "word": "河北沧州3.4级地震",
       "onboard_time": 1736648479,
       "rank": 4,
@@ -155,16 +163,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 688104,
-      "num": 688104,
-      "word": "高叶怎么穿着钢笔就上去了",
-      "onboard_time": 1736648238,
-      "rank": 6,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 656492,
-      "num": 656492,
+      "raw_hot": 688193,
+      "num": 688193,
       "word": "肖战为了这一刻复盘了一年",
       "onboard_time": 1736648479,
       "rank": 7,
@@ -184,6 +184,14 @@
       "word": "樊振东 阿玛尼",
       "onboard_time": 1736610924,
       "rank": 12,
+      "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 613135,
+      "num": 613135,
+      "word": "魏大勋抽到马龙送的礼物",
+      "onboard_time": 1736646200,
+      "rank": 35,
       "category": "体育,作品衍生"
     },
     {
@@ -217,14 +225,6 @@
       "onboard_time": 1736643859,
       "rank": 8,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 563496,
-      "num": 563496,
-      "word": "魏大勋抽到马龙送的礼物",
-      "onboard_time": 1736646200,
-      "rank": 35,
-      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 526013,
@@ -297,6 +297,14 @@
       "onboard_time": 1736611223,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 365937,
+      "num": 365937,
+      "word": "靠海的洛杉矶为何缺水灭火",
+      "onboard_time": 1736649138,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 361005,
@@ -387,14 +395,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 294180,
-      "num": 294180,
-      "word": "靠海的洛杉矶为何缺水灭火",
-      "onboard_time": 1736649138,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 291208,
       "num": 291208,
       "word": "蔡少芬蒋欣 我们两个应该结婚",
@@ -411,6 +411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 264967,
+      "num": 264967,
+      "word": "孙俪 凤凰于飞",
+      "onboard_time": 1736647220,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 261998,
       "num": 526034,
       "word": "王楚钦黑西装好帅",
@@ -425,14 +433,6 @@
       "onboard_time": 1736648599,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 250260,
-      "num": 250260,
-      "word": "孙俪 凤凰于飞",
-      "onboard_time": 1736647220,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 244311,
@@ -507,6 +507,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 206189,
+      "num": 226094,
+      "word": "魏大勋返图马龙礼物球拍",
+      "onboard_time": 1736650459,
+      "rank": 28,
+      "category": "作品衍生,体育"
+    },
+    {
       "raw_hot": 205431,
       "num": 205431,
       "word": "王俊凯果然下班使人快乐",
@@ -531,6 +539,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 189247,
+      "num": 189247,
+      "word": "程鑫凯家暴事件反转",
+      "onboard_time": 1736650940,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189174,
       "num": 526072,
       "word": "钟意FMVP皮肤",
@@ -539,20 +555,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 186431,
+      "num": 631150,
+      "word": "郑钦文2比0托多尼",
+      "onboard_time": 1736650280,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 186342,
+      "num": 169658,
+      "word": "丁禹兮和哪吒敖丙合影",
+      "onboard_time": 1736650638,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 185830,
+      "num": 147065,
+      "word": "一路繁花",
+      "onboard_time": 1736650400,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185116,
       "num": 147463,
       "word": "虞书欣微博之夜获奖感言",
       "onboard_time": 1736646139,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 183225,
-      "num": 226094,
-      "word": "魏大勋返图马龙礼物球拍",
-      "onboard_time": 1736650459,
-      "rank": 28,
-      "category": "作品衍生,体育"
     },
     {
       "raw_hot": 179712,
@@ -595,14 +627,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 166614,
-      "num": 147065,
-      "word": "一路繁花",
-      "onboard_time": 1736650400,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 165588,
       "num": 165588,
       "word": "2025全年考试时间表",
@@ -611,20 +635,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 157828,
+      "num": 130273,
+      "word": "王俊凯默默提醒田华老师",
+      "onboard_time": 1736648000,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152772,
       "num": 410605,
       "word": "云南一警犬因上班没精神被通报批评",
       "onboard_time": 1736590827,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 147238,
-      "num": 135444,
-      "word": "丁禹兮和哪吒敖丙合影",
-      "onboard_time": 1736650638,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 146740,
@@ -643,19 +667,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 145124,
-      "num": 121548,
-      "word": "王俊凯默默提醒田华老师",
-      "onboard_time": 1736648000,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 145100,
       "num": 320432,
       "word": "女子100元买的裤子褪色双腿被染紫",
       "onboard_time": 1736615717,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144584,
+      "num": 144584,
+      "word": "4个月宝宝头发茂密仿佛开了特效",
+      "onboard_time": 1736650879,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -707,6 +731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 122708,
+      "num": 244646,
+      "word": "数学老师评小学期末考太难",
+      "onboard_time": 1736641278,
+      "rank": 48,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 121191,
       "num": 121191,
       "word": "过年仪式感3件套",
@@ -721,6 +753,14 @@
       "onboard_time": 1736592028,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120664,
+      "num": 120664,
+      "word": "加州山火逼近洛杉矶奥运会场馆",
+      "onboard_time": 1736651239,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 115658,
@@ -753,14 +793,6 @@
       "onboard_time": 1736646739,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 111711,
-      "num": 244646,
-      "word": "数学老师评小学期末考太难",
-      "onboard_time": 1736641278,
-      "rank": 48,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 108632,
@@ -883,12 +915,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 64322,
-      "num": 583187,
-      "word": "郑钦文2比0托多尼",
-      "onboard_time": 1736650280,
+      "raw_hot": 60823,
+      "num": 616203,
+      "word": "象棋录音门调查结果公布",
+      "onboard_time": 1736651119,
       "rank": 9,
-      "category": "体育"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59773,
@@ -913,6 +945,14 @@
       "onboard_time": 1736623333,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 53128,
+      "num": 447666,
+      "word": "在蓝翔学厨清华女硕士回应争议",
+      "onboard_time": 1736650819,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51567,
@@ -945,6 +985,14 @@
       "onboard_time": 1736600907,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 48484,
+      "num": 210043,
+      "word": "严浩翔这是一条会动的微博",
+      "onboard_time": 1736649860,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 47313,
