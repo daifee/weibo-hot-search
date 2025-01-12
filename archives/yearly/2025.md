@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/12 09:50:48
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/12 10:12:36
 </p>
 </blockquote>
 <p>
@@ -843,6 +843,12 @@ Ok 咱们线上（热度：2051932）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E7%8A%AC%E5%9C%A8%E6%88%98%E5%8F%8B%E5%BA%8A%E4%B8%8A%E5%B0%BF%E5%B0%BF%E8%BF%9E%E7%BB%AD4%E5%91%A8%E8%A2%AB%E9%80%9A%E6%8A%A5%23" target="weibo">
+警犬在战友床上尿尿连续4周被通报（热度：1879239）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%87%AA%E8%BF%B0%E8%87%AA%E5%B7%B1%E6%A0%B9%E6%9C%AC%E9%80%83%E4%B8%8D%E5%87%BA%E5%A4%A7%E6%A5%BC%23" target="weibo">
 王星自述自己根本逃不出大楼（热度：1878063）
 </a>
@@ -1085,12 +1091,6 @@ Ok 咱们线上（热度：2051932）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%96%E9%9F%B3%E5%89%AF%E6%80%BB%E8%A3%81%E5%9B%9E%E5%BA%94%E7%94%A8%E6%88%B7%E5%B0%86%E9%92%B1%E8%AF%BB%E6%88%90%E7%B1%B3%23" target="weibo">
 抖音副总裁回应用户将钱读成米（热度：1662707）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E7%8A%AC%E5%9C%A8%E6%88%98%E5%8F%8B%E5%BA%8A%E4%B8%8A%E5%B0%BF%E5%B0%BF%E8%BF%9E%E7%BB%AD4%E5%91%A8%E8%A2%AB%E9%80%9A%E6%8A%A5%23" target="weibo">
-警犬在战友床上尿尿连续4周被通报（热度：1660316）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736646648055,
+  "endTime": 1736647956223,
   "band_list": [
     {
       "raw_hot": 3012112,
@@ -27,8 +27,8 @@
       "category": "体育,作品衍生"
     },
     {
-      "raw_hot": 1660316,
-      "num": 1660316,
+      "raw_hot": 1879239,
+      "num": 1879239,
       "word": "警犬在战友床上尿尿连续4周被通报",
       "onboard_time": 1736643619,
       "rank": 1,
@@ -99,6 +99,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 888337,
+      "num": 888337,
+      "word": "王宝强发言时的王一博",
+      "onboard_time": 1736645899,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 731179,
       "num": 731179,
       "word": "沈腾用前置扫码",
@@ -112,14 +120,6 @@
       "word": "杨紫李现 纯元CP结婚",
       "onboard_time": 1736586864,
       "rank": 11,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 716617,
-      "num": 716617,
-      "word": "王宝强发言时的王一博",
-      "onboard_time": 1736645899,
-      "rank": 5,
       "category": "作品衍生"
     },
     {
@@ -137,6 +137,14 @@
       "onboard_time": 1736610445,
       "rank": 13,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 652780,
+      "num": 583400,
+      "word": "王宝强 上热搜可以但不能塌房",
+      "onboard_time": 1736605229,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 624902,
@@ -163,20 +171,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 587276,
-      "num": 583400,
-      "word": "王宝强 上热搜可以但不能塌房",
-      "onboard_time": 1736605229,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 580229,
       "num": 527141,
       "word": "昊磊复婚",
       "onboard_time": 1736593888,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 576040,
+      "num": 576040,
+      "word": "相信美国消防的她回家时直接傻眼",
+      "onboard_time": 1736643859,
+      "rank": 8,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 526013,
@@ -193,14 +201,6 @@
       "onboard_time": 1736607572,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 494106,
-      "num": 494106,
-      "word": "相信美国消防的她回家时直接傻眼",
-      "onboard_time": 1736643859,
-      "rank": 8,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 475671,
@@ -307,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 319807,
+      "num": 319807,
+      "word": "日料店的进口鳗鱼来自江西瑞金",
+      "onboard_time": 1736645780,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 318387,
       "num": 318387,
       "word": "摔倒时是孩子爬起来就是老板",
@@ -355,12 +363,36 @@
       "category": "体育,作品衍生"
     },
     {
-      "raw_hot": 222346,
-      "num": 222346,
+      "raw_hot": 238853,
+      "num": 238853,
       "word": "丁禹兮站起来给老板鼓掌",
       "onboard_time": 1736644639,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 229918,
+      "num": 229918,
+      "word": "魏大勋抽到马龙送的礼物",
+      "onboard_time": 1736646200,
+      "rank": 35,
+      "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 228174,
+      "num": 228174,
+      "word": "沈腾一直在吃的到底是什么饼干",
+      "onboard_time": 1736647761,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 227102,
+      "num": 350829,
+      "word": "郑钦文破发",
+      "onboard_time": 1736646139,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 211467,
@@ -403,12 +435,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 202280,
-      "num": 202280,
-      "word": "日料店的进口鳗鱼来自江西瑞金",
-      "onboard_time": 1736645780,
-      "rank": 28,
-      "category": "美食"
+      "raw_hot": 204994,
+      "num": 204994,
+      "word": "郑钦文VS托多尼",
+      "onboard_time": 1736641217,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 197295,
@@ -443,14 +475,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 176458,
-      "num": 176458,
-      "word": "郑钦文VS托多尼",
-      "onboard_time": 1736641217,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 173334,
       "num": 206774,
       "word": "马龙 感谢支持国乒大家庭的朋友们",
@@ -483,12 +507,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 160456,
-      "num": 160456,
-      "word": "魏大勋抽到马龙送的礼物",
-      "onboard_time": 1736646200,
+      "raw_hot": 167454,
+      "num": 167454,
+      "word": "孙俪 凤凰于飞",
+      "onboard_time": 1736647220,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 157534,
+      "num": 143315,
+      "word": "陈建斌蒋勤勤 真纯元cp",
+      "onboard_time": 1736647400,
       "rank": 35,
-      "category": "体育,作品衍生"
+      "category": "剧集"
     },
     {
       "raw_hot": 152772,
@@ -499,12 +531,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150463,
+      "num": 139852,
+      "word": "虞书欣微博之夜获奖感言",
+      "onboard_time": 1736646139,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 146740,
       "num": 146740,
       "word": "张杰马来西亚演唱会",
       "onboard_time": 1736611763,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 145560,
+      "num": 491576,
+      "word": "冷空气周一上线",
+      "onboard_time": 1736641760,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145100,
@@ -515,19 +563,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 136751,
-      "num": 136751,
-      "word": "虞书欣微博之夜获奖感言",
-      "onboard_time": 1736646139,
-      "rank": 41,
-      "category": "作品衍生"
+      "raw_hot": 132336,
+      "num": 132336,
+      "word": "2025全年考试时间表",
+      "onboard_time": 1736646561,
+      "rank": 48,
+      "category": "教育"
     },
     {
-      "raw_hot": 136401,
-      "num": 136401,
-      "word": "冷空气周一上线",
-      "onboard_time": 1736641760,
-      "rank": 42,
+      "raw_hot": 132052,
+      "num": 470885,
+      "word": "警犬幺幺零曾让训导员很头疼",
+      "onboard_time": 1736645540,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -563,12 +611,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 121191,
+      "num": 121191,
+      "word": "过年仪式感3件套",
+      "onboard_time": 1736647459,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120891,
       "num": 349786,
       "word": "三轮车撞上380万宾利走代位追偿",
       "onboard_time": 1736592028,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115658,
+      "num": 115658,
+      "word": "王鹤棣微博之夜后台追大奉打更人",
+      "onboard_time": 1736647459,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 115468,
@@ -579,12 +643,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 110475,
-      "num": 110475,
-      "word": "2025全年考试时间表",
-      "onboard_time": 1736646561,
+      "raw_hot": 113562,
+      "num": 171746,
+      "word": "钟楚曦给曾舜晞发红包道歉",
+      "onboard_time": 1736646739,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 111711,
+      "num": 111711,
+      "word": "数学老师评小学期末考太难",
+      "onboard_time": 1736641278,
       "rank": 48,
-      "category": "教育"
+      "category": "议题讨论"
     },
     {
       "raw_hot": 108632,
@@ -633,14 +705,6 @@
       "onboard_time": 1736608587,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 98892,
-      "num": 470885,
-      "word": "警犬幺幺零曾让训导员很头疼",
-      "onboard_time": 1736645540,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98160,
@@ -721,14 +785,6 @@
       "onboard_time": 1736618834,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 57621,
-      "num": 350829,
-      "word": "郑钦文破发",
-      "onboard_time": 1736646139,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 53414,
