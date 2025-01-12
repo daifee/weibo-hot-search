@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736638543300,
+  "endTime": 1736646648055,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -923,6 +923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2008219,
+      "num": 2008219,
+      "word": "王楚钦 百达翡丽",
+      "onboard_time": 1736641159,
+      "rank": 0,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 2002120,
       "num": 2002120,
       "word": "王鹤棣田曦薇十指相扣",
@@ -1425,6 +1433,14 @@
       "onboard_time": 1736142803,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1660316,
+      "num": 1660316,
+      "word": "警犬在战友床上尿尿连续4周被通报",
+      "onboard_time": 1736643619,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1652837,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1736572701,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1187916,
-      "num": 737257,
-      "word": "骗子开始先给你转钱了",
-      "onboard_time": 1735922776,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1187822,
-      "num": 542708,
-      "word": "湖南科大赴缅甸失联学生母亲发声",
-      "onboard_time": 1736403380,
-      "rank": 36,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
