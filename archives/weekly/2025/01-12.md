@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/12 00:25:41 ~ 2025/01/13 04:22:43
+本榜单时间：2025/01/12 00:25:41 ~ 2025/01/13 04:35:48
 </p>
 </blockquote>
 <p>
@@ -2925,6 +2925,12 @@ aespaSMTOWN舞台（热度：25401）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BC%89%E6%AF%92%E8%AD%A6%E6%83%85%E4%BE%A3%E7%9A%84%E8%AE%A2%E5%A9%9A%E8%AA%93%E8%AF%8D%E7%9C%8B%E5%93%AD%E4%BA%86%23" target="weibo">
+缉毒警情侣的订婚誓词看哭了（热度：18412）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E9%A9%AC%E9%BE%99%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%90%8C%E6%A1%86%23" target="weibo">
 微博之夜马龙樊振东王楚钦同框（热度：16916）
 </a>
@@ -2956,7 +2962,7 @@ aespaSMTOWN舞台（热度：25401）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%B1%B1%E7%81%AB%E6%8C%81%E7%BB%AD%E8%82%86%E8%99%90%23" target="weibo">
-洛杉矶山火持续肆虐（热度：14940）
+洛杉矶山火持续肆虐（热度：15065）
 </a>
 </li>
 
@@ -2985,12 +2991,6 @@ aespaSMTOWN舞台（热度：25401）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BC%89%E6%AF%92%E8%AD%A6%E6%83%85%E4%BE%A3%E7%9A%84%E8%AE%A2%E5%A9%9A%E8%AA%93%E8%AF%8D%E7%9C%8B%E5%93%AD%E4%BA%86%23" target="weibo">
-缉毒警情侣的订婚誓词看哭了（热度：10414）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E7%AC%AC%E5%9B%9B%E6%AC%A1%E5%8F%82%E5%8A%A0%E6%BE%B3%E7%BD%91%E6%AF%94%E8%B5%9B%23" target="weibo">
 郑钦文第四次参加澳网比赛（热度：10362）
 </a>
@@ -3011,6 +3011,12 @@ KPL梦之队巅峰之夜合体返场（热度：10353）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E5%B9%B8%E5%AD%98%E8%80%85%E4%BC%8D%E7%A7%80%E8%8B%B1%E7%A6%BB%E4%B8%96%23" target="weibo">
 南京大屠杀幸存者伍秀英离世（热度：9453）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2390%E7%A7%92%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E9%80%9F%E5%BA%A6%23" target="weibo">
+90秒见证中国速度（热度：8732）
 </a>
 </li>
 

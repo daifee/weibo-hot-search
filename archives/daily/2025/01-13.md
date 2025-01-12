@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/13 00:25:24 ~ 2025/01/13 04:22:43
+本榜单时间：2025/01/13 00:25:24 ~ 2025/01/13 04:35:48
 </p>
 </blockquote>
 <p>
@@ -441,6 +441,12 @@ LPL联赛取消赛后粉丝互动（热度：90393）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BC%89%E6%AF%92%E8%AD%A6%E6%83%85%E4%BE%A3%E7%9A%84%E8%AE%A2%E5%A9%9A%E8%AA%93%E8%AF%8D%E7%9C%8B%E5%93%AD%E4%BA%86%23" target="weibo">
+缉毒警情侣的订婚誓词看哭了（热度：18412）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E9%A1%BA%E5%88%A9%E6%8B%BF%E4%B8%8B90%E4%B8%87%E5%85%83%E5%A5%96%E9%87%91%23" target="weibo">
 郑钦文顺利拿下90万元奖金（热度：17725）
 </a>
@@ -472,19 +478,13 @@ LPL联赛取消赛后粉丝互动（热度：90393）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%B1%B1%E7%81%AB%E6%8C%81%E7%BB%AD%E8%82%86%E8%99%90%23" target="weibo">
-洛杉矶山火持续肆虐（热度：14940）
+洛杉矶山火持续肆虐（热度：15065）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9A%94%E5%A4%A9%E5%A6%82%E6%8D%A2%E5%AD%A3%E7%9A%84%E9%99%8D%E6%B8%A9%E8%A6%81%E6%9D%A5%E4%BA%86%23" target="weibo">
 隔天如换季的降温要来了（热度：12858）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BC%89%E6%AF%92%E8%AD%A6%E6%83%85%E4%BE%A3%E7%9A%84%E8%AE%A2%E5%A9%9A%E8%AA%93%E8%AF%8D%E7%9C%8B%E5%93%AD%E4%BA%86%23" target="weibo">
-缉毒警情侣的订婚誓词看哭了（热度：10414）
 </a>
 </li>
 
@@ -497,6 +497,12 @@ KPL梦之队巅峰之夜合体返场（热度：10353）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232025%E6%98%A5%E8%BF%90%E5%8D%B3%E5%B0%86%E6%8B%89%E5%BC%80%E5%A4%A7%E5%B9%95%23" target="weibo">
 2025春运即将拉开大幕（热度：9788）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2390%E7%A7%92%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E9%80%9F%E5%BA%A6%23" target="weibo">
+90秒见证中国速度（热度：8732）
 </a>
 </li>
 
