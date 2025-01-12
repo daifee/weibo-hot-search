@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736674535691,
+  "endTime": 1736677297178,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1739,20 +1739,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1511084,
+      "num": 1511084,
+      "word": "洛杉矶市长沉默沉默再沉默",
+      "onboard_time": 1736670679,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1509073,
       "num": 1509073,
       "word": "微博之夜名场面又要来了",
       "onboard_time": 1736423003,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1506331,
-      "num": 1506331,
-      "word": "洛杉矶市长沉默沉默再沉默",
-      "onboard_time": 1736670679,
-      "rank": 45,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1489080,

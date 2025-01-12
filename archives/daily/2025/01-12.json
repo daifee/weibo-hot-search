@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736674535691,
+  "endTime": 1736677297178,
   "band_list": [
     {
       "raw_hot": 3087284,
@@ -67,8 +67,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1506331,
-      "num": 1506331,
+      "raw_hot": 1511084,
+      "num": 1511084,
       "word": "洛杉矶市长沉默沉默再沉默",
       "onboard_time": 1736670679,
       "rank": 45,
@@ -203,6 +203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 944103,
+      "num": 944103,
+      "word": "白鹿害羞了",
+      "onboard_time": 1736676738,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 899500,
       "num": 517019,
       "word": "白鹿 死嘴快别笑了",
@@ -275,12 +283,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 725043,
+      "num": 725043,
+      "word": "重庆观音桥锦鲤大量死亡",
+      "onboard_time": 1736672119,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 705892,
       "num": 705892,
       "word": "微博之夜 她拍的",
       "onboard_time": 1736604928,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 699356,
+      "num": 699356,
+      "word": "美国政府救灾不力引民众质问",
+      "onboard_time": 1736672480,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 698739,
@@ -345,6 +369,14 @@
       "onboard_time": 1736660780,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 647671,
+      "num": 647671,
+      "word": "香港元朗突发山火",
+      "onboard_time": 1736671400,
+      "rank": 8,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 647069,
@@ -427,28 +459,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 568857,
-      "num": 568857,
-      "word": "香港元朗突发山火",
-      "onboard_time": 1736671400,
-      "rank": 8,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 552334,
       "num": 552334,
       "word": "王楚钦好会穿",
       "onboard_time": 1736668458,
       "rank": 3,
       "category": "体育,作品衍生"
-    },
-    {
-      "raw_hot": 549347,
-      "num": 549347,
-      "word": "重庆观音桥锦鲤大量死亡",
-      "onboard_time": 1736672119,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 526013,
@@ -491,12 +507,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 496150,
+      "num": 496150,
+      "word": "孙俪女儿是四嬛党",
+      "onboard_time": 1736674338,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 475671,
       "num": 300205,
       "word": "赵丽颖说给微博贡献了微薄的热度",
       "onboard_time": 1736613322,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 474665,
+      "num": 474665,
+      "word": "黄子韬回应持续掉粉",
+      "onboard_time": 1736676920,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 453354,
@@ -875,6 +907,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 250863,
+      "num": 250863,
+      "word": "过年烫发一烫一个不吱声",
+      "onboard_time": 1736674098,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 245679,
       "num": 245679,
       "word": "王源周深 内娱有自己的出糗搭子",
@@ -915,6 +955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 228364,
+      "num": 199415,
+      "word": "胡歌的射雕DNA动了",
+      "onboard_time": 1736676079,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228174,
       "num": 228174,
       "word": "沈腾一直在吃的到底是什么饼干",
@@ -929,22 +977,6 @@
       "onboard_time": 1736646139,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 225407,
-      "num": 225407,
-      "word": "美国政府救灾不力引民众质问",
-      "onboard_time": 1736672480,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 225294,
-      "num": 225294,
-      "word": "孙俪女儿是四嬛党",
-      "onboard_time": 1736674338,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 223480,
@@ -1123,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203278,
+      "num": 203278,
+      "word": "百事可乐直播",
+      "onboard_time": 1736675660,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 201844,
       "num": 201844,
       "word": "祝绪丹杨仕泽 要是你在就好了",
@@ -1153,6 +1193,14 @@
       "onboard_time": 1736665819,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 198131,
+      "num": 198131,
+      "word": "AG走秀全员插兜",
+      "onboard_time": 1736676920,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 197657,
@@ -1217,6 +1265,14 @@
       "onboard_time": 1736663779,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 193732,
+      "num": 193732,
+      "word": "王一博微博之夜g社生图",
+      "onboard_time": 1736676199,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 192878,
@@ -1355,6 +1411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 178345,
+      "num": 208732,
+      "word": "成本50卖5000水晶为何突然受热捧",
+      "onboard_time": 1736672839,
+      "rank": 29,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 176612,
       "num": 176612,
       "word": "白月梵星台词含金量",
@@ -1417,6 +1481,14 @@
       "onboard_time": 1736596047,
       "rank": 48,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 168896,
+      "num": 168896,
+      "word": "刘强东老师将10万红包捐给贫困学生",
+      "onboard_time": 1736676920,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 168482,
@@ -1507,6 +1579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 161018,
+      "num": 198513,
+      "word": "洛杉矶市长面对质问一言不发",
+      "onboard_time": 1736670620,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 158618,
       "num": 188579,
       "word": "eStar新年新花样",
@@ -1547,6 +1627,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 155488,
+      "num": 155488,
+      "word": "敖瑞鹏看看腰",
+      "onboard_time": 1736674699,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154628,
       "num": 154628,
       "word": "年轻人问为什么要跟人交往",
@@ -1585,14 +1673,6 @@
       "onboard_time": 1736655499,
       "rank": 38,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 153302,
-      "num": 153302,
-      "word": "过年烫发一烫一个不吱声",
-      "onboard_time": 1736674098,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 152772,
@@ -1715,14 +1795,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 142723,
-      "num": 142723,
-      "word": "洛杉矶市长面对质问一言不发",
-      "onboard_time": 1736670620,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 142659,
       "num": 142659,
       "word": "李宇春 讨厌吃饭时看手机",
@@ -1745,6 +1817,14 @@
       "onboard_time": 1736671879,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141939,
+      "num": 141939,
+      "word": "林更新不语 只是一味地抓痒",
+      "onboard_time": 1736676079,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 141901,
@@ -1787,6 +1867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133041,
+      "num": 133041,
+      "word": "虞书欣饭撒考试",
+      "onboard_time": 1736674998,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132699,
       "num": 132699,
       "word": "成都春熙路小熊姐命张力好强",
@@ -1809,6 +1897,14 @@
       "onboard_time": 1736664858,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131352,
+      "num": 131352,
+      "word": "登陆少年百事可乐活动",
+      "onboard_time": 1736676679,
+      "rank": 40,
+      "category": "艺人,美食"
     },
     {
       "raw_hot": 130259,
@@ -1883,6 +1979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126897,
+      "num": 126897,
+      "word": "重庆张先生你干的好事火到外地了",
+      "onboard_time": 1736673800,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126465,
       "num": 136293,
       "word": "李现回应现男友",
@@ -1939,6 +2043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 121779,
+      "num": 121779,
+      "word": "张艺谋肖战马丽宋佳张若昀合照",
+      "onboard_time": 1736676560,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 121313,
       "num": 577758,
       "word": "尹锡悦将不出席弹劾案首次正式辩论",
@@ -1977,6 +2089,14 @@
       "onboard_time": 1736661919,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 117472,
+      "num": 117472,
+      "word": "TOP登陆少年重庆活动",
+      "onboard_time": 1736674521,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 115977,
@@ -2041,14 +2161,6 @@
       "onboard_time": 1736653698,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 111800,
-      "num": 208732,
-      "word": "成本50卖5000水晶为何突然受热捧",
-      "onboard_time": 1736672839,
-      "rank": 29,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 111233,
@@ -2251,6 +2363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 76751,
+      "num": 202694,
+      "word": "香港元朗山火已受控无人员受伤报告",
+      "onboard_time": 1736677039,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75740,
       "num": 206346,
       "word": "中国姑娘在维也纳金色大厅吹唢呐",
@@ -2368,6 +2488,14 @@
       "word": "AG挑战者杯夺冠",
       "onboard_time": 1736600907,
       "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 49238,
+      "num": 141918,
+      "word": "OMG对战WBG",
+      "onboard_time": 1736676018,
+      "rank": 37,
       "category": "电竞"
     },
     {
@@ -2539,7 +2667,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 20231,
+      "raw_hot": 21511,
       "num": 206082,
       "word": "郑钦文耿直文",
       "onboard_time": 1736673919,
