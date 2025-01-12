@@ -1,6 +1,6 @@
 {
   "startTime": 1736699124375,
-  "endTime": 1736721475254,
+  "endTime": 1736724041414,
   "band_list": [
     {
       "raw_hot": 1069392,
@@ -27,12 +27,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 893468,
+      "num": 893468,
+      "word": "黄子韬删除全部送车相关视频",
+      "onboard_time": 1736691023,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 831887,
       "num": 367135,
       "word": "范丞丞按微博昵称首字母排序",
       "onboard_time": 1736695222,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 776440,
+      "num": 776440,
+      "word": "观音桥死亡锦鲤装满三十多个编织袋",
+      "onboard_time": 1736693900,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 639423,
@@ -57,22 +73,6 @@
       "onboard_time": 1736694320,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 474750,
-      "num": 484937,
-      "word": "黄子韬删除全部送车相关视频",
-      "onboard_time": 1736691023,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 463184,
-      "num": 463184,
-      "word": "观音桥死亡锦鲤装满三十多个编织袋",
-      "onboard_time": 1736693900,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 423801,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 345314,
+      "num": 261084,
+      "word": "黄晓明说大年初一去看郭伯伯",
+      "onboard_time": 1736701095,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 331322,
       "num": 331322,
       "word": "杨紫回应李现",
@@ -115,8 +123,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 300475,
-      "num": 300475,
+      "raw_hot": 304635,
+      "num": 304635,
       "word": "前童星住所遭大火烧毁窒息而死",
       "onboard_time": 1736683340,
       "rank": 13,
@@ -153,6 +161,14 @@
       "onboard_time": 1736690001,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 249640,
+      "num": 249640,
+      "word": "警方通报120打三次不通两度打110",
+      "onboard_time": 1736680880,
+      "rank": 45,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 247244,
@@ -211,12 +227,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170173,
-      "num": 170173,
-      "word": "黄晓明说大年初一去看郭伯伯",
-      "onboard_time": 1736701095,
-      "rank": 30,
-      "category": "电影"
+      "raw_hot": 160777,
+      "num": 160777,
+      "word": "敖瑞鹏男模",
+      "onboard_time": 1736723775,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 159559,
@@ -225,6 +241,14 @@
       "onboard_time": 1736687359,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 154468,
+      "num": 154468,
+      "word": "一路繁花里最尴尬的3分钟",
+      "onboard_time": 1736690662,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 148709,
@@ -251,20 +275,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126683,
+      "num": 126683,
+      "word": "皇马2比5巴萨",
+      "onboard_time": 1736723775,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 126345,
+      "num": 126345,
+      "word": "中国女游客在日本被撞身亡家人求助",
+      "onboard_time": 1736720112,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122224,
       "num": 122224,
       "word": "庄达菲陈昊宇微博之夜双向奔赴",
       "onboard_time": 1736694502,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 118372,
-      "num": 118372,
-      "word": "一路繁花里最尴尬的3分钟",
-      "onboard_time": 1736690662,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 117832,
@@ -283,12 +315,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 111901,
-      "num": 111901,
-      "word": "警方通报120打三次不通两度打110",
-      "onboard_time": 1736680880,
-      "rank": 45,
-      "category": "辟谣/通报"
+      "raw_hot": 111312,
+      "num": 111312,
+      "word": "国家德比",
+      "onboard_time": 1736712251,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 110795,
@@ -403,14 +435,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 86504,
-      "num": 86504,
-      "word": "国家德比",
-      "onboard_time": 1736712251,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 85620,
       "num": 85620,
       "word": "警方回应观音桥锦鲤大量死亡",
@@ -451,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70022,
+      "num": 70022,
+      "word": "1807",
+      "onboard_time": 1736718972,
+      "rank": 33,
+      "category": "艺人,音乐"
+    },
+    {
       "raw_hot": 66614,
       "num": 76013,
       "word": "雅思组合回应永不落幕",
@@ -467,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52412,
+      "num": 52412,
+      "word": "阿森纳4比6曼联",
+      "onboard_time": 1736712070,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51270,
       "num": 51270,
       "word": "辛芷蕾倪妮高叶合照",
@@ -475,20 +515,44 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 43933,
-      "num": 43933,
+      "raw_hot": 48848,
+      "num": 48848,
+      "word": "黄子韬掉粉已超300万",
+      "onboard_time": 1736711051,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 45776,
+      "num": 45776,
       "word": "加沙人在帐篷里挖坑过冬",
       "onboard_time": 1736702654,
       "rank": 29,
       "category": "国际时政"
     },
     {
-      "raw_hot": 38604,
-      "num": 38604,
-      "word": "中国女游客在日本被撞身亡家人求助",
-      "onboard_time": 1736720112,
-      "rank": 48,
+      "raw_hot": 40486,
+      "num": 40486,
+      "word": "男子打顺风车选错地点支付3600元",
+      "onboard_time": 1736723775,
+      "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40028,
+      "num": 40028,
+      "word": "鸟嬛是真的",
+      "onboard_time": 1736714831,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 37398,
+      "num": 37398,
+      "word": "国色芳华有效播放量破3亿",
+      "onboard_time": 1736723956,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 37081,
@@ -499,6 +563,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 36811,
+      "num": 36811,
+      "word": "鞠婧祎短发白背心",
+      "onboard_time": 1736710871,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36658,
       "num": 670266,
       "word": "神十九乘组的新朋友已上线",
@@ -507,28 +579,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 36320,
+      "num": 43507,
+      "word": "流感检测阳性率上升趋势减缓",
+      "onboard_time": 1736708711,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36236,
+      "num": 36236,
+      "word": "巴萨夺得西超杯冠军",
+      "onboard_time": 1736723715,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 35974,
+      "num": 35974,
+      "word": "马龙获奖短片看到热泪盈眶",
+      "onboard_time": 1736723295,
+      "rank": 47,
+      "category": "作品衍生,体育"
+    },
+    {
       "raw_hot": 33090,
       "num": 33090,
       "word": "大奉打更人",
       "onboard_time": 1736705652,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 32451,
-      "num": 32451,
-      "word": "阿森纳4比6曼联",
-      "onboard_time": 1736712070,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 31706,
-      "num": 31706,
-      "word": "1807",
-      "onboard_time": 1736718972,
-      "rank": 33,
-      "category": "艺人,音乐"
     },
     {
       "raw_hot": 28790,
@@ -547,14 +627,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 25828,
-      "num": 25828,
-      "word": "鸟嬛是真的",
-      "onboard_time": 1736714831,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 25241,
       "num": 25241,
       "word": "香港鸡公岭山火已被控制",
@@ -571,14 +643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 24008,
-      "num": 24008,
-      "word": "黄子韬掉粉已超300万",
-      "onboard_time": 1736711051,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 23942,
       "num": 23942,
       "word": "虞书欣微博之夜见",
@@ -593,22 +657,6 @@
       "onboard_time": 1736709851,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 21077,
-      "num": 21077,
-      "word": "鞠婧祎短发白背心",
-      "onboard_time": 1736710871,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 19365,
-      "num": 43507,
-      "word": "流感检测阳性率上升趋势减缓",
-      "onboard_time": 1736708711,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18412,
