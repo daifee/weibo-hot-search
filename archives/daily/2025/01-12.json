@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736673673793,
+  "endTime": 1736674535691,
   "band_list": [
     {
       "raw_hot": 3087284,
@@ -67,6 +67,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1506331,
+      "num": 1506331,
+      "word": "洛杉矶市长沉默沉默再沉默",
+      "onboard_time": 1736670679,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1447679,
       "num": 1447679,
       "word": "白鹿晒微博之夜后台一些合照",
@@ -105,14 +113,6 @@
       "onboard_time": 1736665578,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1242685,
-      "num": 1242685,
-      "word": "洛杉矶市长沉默沉默再沉默",
-      "onboard_time": 1736670679,
-      "rank": 45,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1198362,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 899500,
-      "num": 458705,
+      "num": 517019,
       "word": "白鹿 死嘴快别笑了",
       "onboard_time": 1736665220,
       "rank": 10,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 667908,
-      "num": 472287,
+      "num": 505796,
       "word": "美国加州山火现火龙卷",
       "onboard_time": 1736656278,
       "rank": 34,
@@ -427,8 +427,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 555667,
-      "num": 555667,
+      "raw_hot": 568857,
+      "num": 568857,
       "word": "香港元朗突发山火",
       "onboard_time": 1736671400,
       "rank": 8,
@@ -441,6 +441,14 @@
       "onboard_time": 1736668458,
       "rank": 3,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 549347,
+      "num": 549347,
+      "word": "重庆观音桥锦鲤大量死亡",
+      "onboard_time": 1736672119,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 526013,
@@ -532,7 +540,7 @@
     },
     {
       "raw_hot": 408344,
-      "num": 367683,
+      "num": 389401,
       "word": "白月梵星",
       "onboard_time": 1736663959,
       "rank": 27,
@@ -587,6 +595,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 390849,
+      "num": 390849,
+      "word": "白鹿关注了李昀锐",
+      "onboard_time": 1736673140,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 372368,
       "num": 372368,
       "word": "李沁集齐五福",
@@ -617,14 +633,6 @@
       "onboard_time": 1736639656,
       "rank": 13,
       "category": "体育,作品衍生"
-    },
-    {
-      "raw_hot": 347521,
-      "num": 347521,
-      "word": "重庆观音桥锦鲤大量死亡",
-      "onboard_time": 1736672119,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 340667,
@@ -673,6 +681,14 @@
       "onboard_time": 1736595869,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 322781,
+      "num": 263885,
+      "word": "向太 最能干的就是最倒霉的",
+      "onboard_time": 1736672539,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 320801,
@@ -803,14 +819,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 289209,
-      "num": 283772,
-      "word": "白鹿关注了李昀锐",
-      "onboard_time": 1736673140,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 288190,
       "num": 288190,
       "word": "赵丽颖宠哪吒的心藏不住",
@@ -841,14 +849,6 @@
       "onboard_time": 1736658561,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 263885,
-      "num": 263885,
-      "word": "向太 最能干的就是最倒霉的",
-      "onboard_time": 1736672539,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 261998,
@@ -899,6 +899,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 233893,
+      "num": 317871,
+      "word": "王楚钦微博之夜发文",
+      "onboard_time": 1736669900,
+      "rank": 14,
+      "category": "作品衍生,体育"
+    },
+    {
       "raw_hot": 229223,
       "num": 229223,
       "word": "李冰冰对侯明昊脸颊比心",
@@ -923,12 +931,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 223783,
-      "num": 317871,
-      "word": "王楚钦微博之夜发文",
-      "onboard_time": 1736669900,
-      "rank": 14,
-      "category": "作品衍生,体育"
+      "raw_hot": 225407,
+      "num": 225407,
+      "word": "美国政府救灾不力引民众质问",
+      "onboard_time": 1736672480,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 225294,
+      "num": 225294,
+      "word": "孙俪女儿是四嬛党",
+      "onboard_time": 1736674338,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 223480,
@@ -1027,6 +1043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 208250,
+      "num": 187454,
+      "word": "敖瑞鹏又红温了",
+      "onboard_time": 1736673440,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207927,
       "num": 526132,
       "word": "工作以后养的第一孩子就是自己",
@@ -1067,6 +1091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205799,
+      "num": 205799,
+      "word": "苏新皓在地铁上跳90sLove",
+      "onboard_time": 1736674098,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205732,
       "num": 199359,
       "word": "周芯竹 行走的弹幕",
@@ -1097,6 +1129,14 @@
       "onboard_time": 1736668700,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 201177,
+      "num": 207190,
+      "word": "敖瑞鹏不愧是极域腰王",
+      "onboard_time": 1736673199,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 198827,
@@ -1227,6 +1267,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 189053,
+      "num": 189053,
+      "word": "别再把肉泡水里解冻了",
+      "onboard_time": 1736668519,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 186342,
       "num": 169658,
       "word": "丁禹兮和哪吒敖丙合影",
@@ -1243,12 +1291,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 185653,
-      "num": 185653,
-      "word": "别再把肉泡水里解冻了",
-      "onboard_time": 1736668519,
-      "rank": 42,
-      "category": "美食"
+      "raw_hot": 185481,
+      "num": 185481,
+      "word": "邱天超短发",
+      "onboard_time": 1736673681,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 185175,
@@ -1312,14 +1360,6 @@
       "word": "白月梵星台词含金量",
       "onboard_time": 1736666118,
       "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 174566,
-      "num": 174566,
-      "word": "敖瑞鹏不愧是极域腰王",
-      "onboard_time": 1736673199,
-      "rank": 33,
       "category": "剧集"
     },
     {
@@ -1547,6 +1587,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 153302,
+      "num": 153302,
+      "word": "过年烫发一烫一个不吱声",
+      "onboard_time": 1736674098,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 152772,
       "num": 410605,
       "word": "云南一警犬因上班没精神被通报批评",
@@ -1564,7 +1612,7 @@
     },
     {
       "raw_hot": 150587,
-      "num": 132280,
+      "num": 140236,
       "word": "SMTOWN",
       "onboard_time": 1736671519,
       "rank": 40,
@@ -1651,14 +1699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144359,
-      "num": 131607,
-      "word": "敖瑞鹏又红温了",
-      "onboard_time": 1736673440,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 143681,
       "num": 143681,
       "word": "新兰正式交往六年了",
@@ -1673,6 +1713,14 @@
       "onboard_time": 1736664920,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 142723,
+      "num": 142723,
+      "word": "洛杉矶市长面对质问一言不发",
+      "onboard_time": 1736670620,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 142659,
@@ -1731,28 +1779,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133959,
-      "num": 133959,
-      "word": "美国政府救灾不力引民众质问",
-      "onboard_time": 1736672480,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 133516,
       "num": 218014,
       "word": "松花湖惊现5米大袋鼠",
       "onboard_time": 1736660298,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 133079,
-      "num": 133079,
-      "word": "洛杉矶市长面对质问一言不发",
-      "onboard_time": 1736670620,
-      "rank": 49,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 132699,
@@ -1801,6 +1833,14 @@
       "onboard_time": 1736660239,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128354,
+      "num": 128354,
+      "word": "杜甫草堂的腊梅开了",
+      "onboard_time": 1736674220,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 128263,
@@ -2003,6 +2043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111800,
+      "num": 208732,
+      "word": "成本50卖5000水晶为何突然受热捧",
+      "onboard_time": 1736672839,
+      "rank": 29,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 111233,
       "num": 111233,
       "word": "钎城暗纹西装造型好绝",
@@ -2187,6 +2235,22 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 79309,
+      "num": 210344,
+      "word": "2025LPL第一赛段",
+      "onboard_time": 1736674459,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 76866,
+      "num": 211219,
+      "word": "KPL解说天团集结",
+      "onboard_time": 1736674160,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 75740,
       "num": 206346,
       "word": "中国姑娘在维也纳金色大厅吹唢呐",
@@ -2331,14 +2395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 45478,
-      "num": 183456,
-      "word": "成本50卖5000水晶为何突然受热捧",
-      "onboard_time": 1736672839,
-      "rank": 29,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 45465,
       "num": 33346,
       "word": "沈马",
@@ -2481,6 +2537,14 @@
       "onboard_time": 1736627472,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 20231,
+      "num": 206082,
+      "word": "郑钦文耿直文",
+      "onboard_time": 1736673919,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 16916,
