@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736660263543,
+  "endTime": 1736663397263,
   "band_list": [
     {
       "raw_hot": 3087284,
@@ -147,6 +147,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 838047,
+      "num": 838047,
+      "word": "她凭咚咚咚咚咚咚声救回一命",
+      "onboard_time": 1736659040,
+      "rank": 46,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 794612,
       "num": 794612,
       "word": "魏大勋返图马龙礼物球拍",
@@ -227,12 +235,28 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 650847,
+      "num": 378269,
+      "word": "孟子义控诉和李昀锐毫无默契",
+      "onboard_time": 1736660780,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 647069,
       "num": 647069,
       "word": "传单被撕女服务员怒掐男孩脖子",
       "onboard_time": 1736651780,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 624921,
+      "num": 324534,
+      "word": "费翔抽中了汤唯父亲的墨宝",
+      "onboard_time": 1736662040,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 624902,
@@ -475,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 320801,
+      "num": 320801,
+      "word": "颖儿 今年的枫叶够红了吧",
+      "onboard_time": 1736660780,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 319807,
       "num": 319807,
       "word": "日料店的进口鳗鱼来自江西瑞金",
@@ -555,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 290970,
+      "num": 295027,
+      "word": "假肉毒素成本1.5元出厂20元卖价上千",
+      "onboard_time": 1736656581,
+      "rank": 48,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 288190,
       "num": 288190,
       "word": "赵丽颖宠哪吒的心藏不住",
@@ -611,12 +651,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 240885,
-      "num": 240885,
-      "word": "她凭咚咚咚咚咚咚声救回一命",
-      "onboard_time": 1736659040,
-      "rank": 46,
-      "category": "正能量"
+      "raw_hot": 236875,
+      "num": 236875,
+      "word": "爸妈头发不多但生了个真人版蒙奇奇",
+      "onboard_time": 1736662819,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 235259,
@@ -787,6 +827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 196992,
+      "num": 196992,
+      "word": "张康乐马柏全 费加罗",
+      "onboard_time": 1736662220,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195137,
       "num": 195137,
       "word": "金世佳一句话让檀健次闭麦",
@@ -795,12 +843,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194319,
+      "num": 194319,
+      "word": "黄晓明又在拍肖战",
+      "onboard_time": 1736661499,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 192878,
       "num": 192878,
       "word": "海军南昌舰入列5周年",
       "onboard_time": 1736643380,
       "rank": 30,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 191994,
+      "num": 191994,
+      "word": "白鹿白烁Queen never cry",
+      "onboard_time": 1736662398,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 189792,
@@ -817,6 +881,14 @@
       "onboard_time": 1736607749,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 189016,
+      "num": 189016,
+      "word": "陈小春 今天种地去找CFO",
+      "onboard_time": 1736662700,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 186342,
@@ -947,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163483,
+      "num": 163483,
+      "word": "小S为大女儿庆19岁生日",
+      "onboard_time": 1736660480,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163463,
       "num": 144029,
       "word": "苏新皓18岁生日照",
@@ -1011,6 +1091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151008,
+      "num": 151008,
+      "word": "卢昱晓 自封昨晚全世界最快乐小孩奖",
+      "onboard_time": 1736663000,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 150240,
       "num": 483973,
       "word": "美国加州山火已经造成至少16人死亡",
@@ -1025,6 +1113,22 @@
       "onboard_time": 1736658139,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 149800,
+      "num": 149800,
+      "word": "奚梦瑶用无人机给何猷君庆生",
+      "onboard_time": 1736660659,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 148347,
+      "num": 148347,
+      "word": "120调度员凭敲击声成功救人",
+      "onboard_time": 1736662098,
+      "rank": 39,
+      "category": "正能量"
     },
     {
       "raw_hot": 146740,
@@ -1067,6 +1171,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 143618,
+      "num": 143618,
+      "word": "樊振东喊话来大湾区看十五运",
+      "onboard_time": 1736662579,
+      "rank": 40,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 142442,
       "num": 142442,
       "word": "警犬上班死气沉沉下班魅力四射",
@@ -1083,11 +1195,11 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 137856,
-      "num": 295027,
-      "word": "假肉毒素成本1.5元出厂20元卖价上千",
-      "onboard_time": 1736656581,
-      "rank": 48,
+      "raw_hot": 139738,
+      "num": 139738,
+      "word": "央视揭问题肉毒素乱象",
+      "onboard_time": 1736662278,
+      "rank": 41,
       "category": "舆论监督"
     },
     {
@@ -1096,6 +1208,14 @@
       "word": "象棋录音门调查结果公布",
       "onboard_time": 1736651119,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133516,
+      "num": 218014,
+      "word": "松花湖惊现5米大袋鼠",
+      "onboard_time": 1736660298,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -1171,6 +1291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125859,
+      "num": 125859,
+      "word": "李宇春 讨厌吃饭时看手机",
+      "onboard_time": 1736662938,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125398,
       "num": 125398,
       "word": "外国留子打错车把司机急出顺口溜",
@@ -1217,6 +1345,14 @@
       "onboard_time": 1736592028,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118709,
+      "num": 197928,
+      "word": "奥司他韦为何一到流感季就火",
+      "onboard_time": 1736661919,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 115658,
@@ -1433,6 +1569,22 @@
       "onboard_time": 1736618834,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 58663,
+      "num": 326653,
+      "word": "AI时代该如何应对造假",
+      "onboard_time": 1736661799,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 54048,
+      "num": 201425,
+      "word": "夏以昼 骗人是小狗",
+      "onboard_time": 1736661139,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 53414,

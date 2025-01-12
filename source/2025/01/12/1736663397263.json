@@ -1,0 +1,410 @@
+{
+  "runTime": 1736663397263,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2455671,
+        "num": 2455671,
+        "word": "黄子韬掉粉超百万",
+        "onboard_time": 1736657961,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 838047,
+        "num": 838047,
+        "word": "她凭咚咚咚咚咚咚声救回一命",
+        "onboard_time": 1736659040,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 34474,
+        "num": 764146,
+        "word": "古人用毛笔画6米水仙花海",
+        "onboard_time": 1736658079,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 758665,
+        "num": 758665,
+        "word": "腾讯2025第一部破30000剧集",
+        "onboard_time": 1736653578,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 468203,
+        "num": 468203,
+        "word": "东京新荣记就提供阴阳菜单一事道歉",
+        "onboard_time": 1736654479,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 416777,
+        "num": 416777,
+        "word": "警犬在战友床上尿尿连续4周被通报",
+        "onboard_time": 1736643619,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 650847,
+        "num": 378269,
+        "word": "孟子义控诉和李昀锐毫无默契",
+        "onboard_time": 1736660780,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 601008,
+        "num": 366078,
+        "word": "高叶怎么穿着钢笔就上去了",
+        "onboard_time": 1736648238,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 326992,
+        "num": 326992,
+        "word": "2名中国女游客在日本遭列车撞击身亡",
+        "onboard_time": 1736654418,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58663,
+        "num": 326653,
+        "word": "AI时代该如何应对造假",
+        "onboard_time": 1736661799,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 624921,
+        "num": 324534,
+        "word": "费翔抽中了汤唯父亲的墨宝",
+        "onboard_time": 1736662040,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 455061,
+        "num": 323149,
+        "word": "美国加州山火现火龙卷",
+        "onboard_time": 1736656278,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 354921,
+        "num": 321184,
+        "word": "王宝强发言时的王一博",
+        "onboard_time": 1736645899,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 320801,
+        "num": 320801,
+        "word": "颖儿 今年的枫叶够红了吧",
+        "onboard_time": 1736660780,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 292092,
+        "num": 292092,
+        "word": "怪不得五阿哥和紫薇只能是兄妹",
+        "onboard_time": 1736655199,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290970,
+        "num": 290970,
+        "word": "假肉毒素成本1.5元出厂20元卖价上千",
+        "onboard_time": 1736656581,
+        "rank": 15,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 266731,
+        "num": 266731,
+        "word": "专家称深圳小学试卷步子迈太大",
+        "onboard_time": 1736658139,
+        "rank": 16,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 236875,
+        "num": 236875,
+        "word": "爸妈头发不多但生了个真人版蒙奇奇",
+        "onboard_time": 1736662819,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133516,
+        "num": 218014,
+        "word": "松花湖惊现5米大袋鼠",
+        "onboard_time": 1736660298,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212176,
+        "num": 212176,
+        "word": "传单被撕女服务员怒掐男孩脖子",
+        "onboard_time": 1736651780,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334638,
+        "num": 211647,
+        "word": "钟楚曦经济补偿曾舜晞",
+        "onboard_time": 1736640438,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 283872,
+        "num": 207413,
+        "word": "赵丽颖宠哪吒的心藏不住",
+        "onboard_time": 1736658139,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 277022,
+        "num": 204628,
+        "word": "白鹿百指登顶",
+        "onboard_time": 1736656820,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54048,
+        "num": 201425,
+        "word": "夏以昼 骗人是小狗",
+        "onboard_time": 1736661139,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118709,
+        "num": 197928,
+        "word": "奥司他韦为何一到流感季就火",
+        "onboard_time": 1736661919,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196992,
+        "num": 196992,
+        "word": "张康乐马柏全 费加罗",
+        "onboard_time": 1736662220,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194319,
+        "num": 194319,
+        "word": "黄晓明又在拍肖战",
+        "onboard_time": 1736661499,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180987,
+        "num": 192975,
+        "word": "河北沧州3.4级地震",
+        "onboard_time": 1736648479,
+        "rank": 27,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 191994,
+        "num": 191994,
+        "word": "白鹿白烁Queen never cry",
+        "onboard_time": 1736662398,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189016,
+        "num": 189016,
+        "word": "陈小春 今天种地去找CFO",
+        "onboard_time": 1736662700,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169783,
+        "num": 169783,
+        "word": "金世佳一句话让檀健次闭麦",
+        "onboard_time": 1736659339,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165960,
+        "num": 165960,
+        "word": "疑似金正贤向徐贤道歉",
+        "onboard_time": 1736654899,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163483,
+        "num": 163483,
+        "word": "小S为大女儿庆19岁生日",
+        "onboard_time": 1736660480,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162750,
+        "num": 162750,
+        "word": "肖战为了这一刻复盘了一年",
+        "onboard_time": 1736648479,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157303,
+        "num": 157303,
+        "word": "辛雨锡发秦霄贤六宗罪",
+        "onboard_time": 1736653639,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155225,
+        "num": 155225,
+        "word": "鸡腿诺 程鑫凯",
+        "onboard_time": 1736657300,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 151008,
+        "num": 151008,
+        "word": "卢昱晓 自封昨晚全世界最快乐小孩奖",
+        "onboard_time": 1736663000,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150549,
+        "num": 150549,
+        "word": "年轻人问为什么要跟人交往",
+        "onboard_time": 1736655560,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149800,
+        "num": 149800,
+        "word": "奚梦瑶用无人机给何猷君庆生",
+        "onboard_time": 1736660659,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148347,
+        "num": 148347,
+        "word": "120调度员凭敲击声成功救人",
+        "onboard_time": 1736662098,
+        "rank": 39,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 143618,
+        "num": 143618,
+        "word": "樊振东喊话来大湾区看十五运",
+        "onboard_time": 1736662579,
+        "rank": 40,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 139738,
+        "num": 139738,
+        "word": "央视揭问题肉毒素乱象",
+        "onboard_time": 1736662278,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 132955,
+        "num": 132955,
+        "word": "赵丽颖微博Queen",
+        "onboard_time": 1736605829,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125859,
+        "num": 125859,
+        "word": "李宇春 讨厌吃饭时看手机",
+        "onboard_time": 1736662938,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75170,
+        "num": 125509,
+        "word": "如鸢",
+        "onboard_time": 1736657179,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125343,
+        "num": 125343,
+        "word": "杨紫摸哪吒的小脸蛋",
+        "onboard_time": 1736659280,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117969,
+        "num": 117969,
+        "word": "李冰冰对侯明昊脸颊比心",
+        "onboard_time": 1736659221,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115746,
+        "num": 115746,
+        "word": "美国运动员大火中失去10枚奥运奖牌",
+        "onboard_time": 1736649019,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 114148,
+        "num": 114148,
+        "word": "丁禹兮工藤静香同框聊天",
+        "onboard_time": 1736652498,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108251,
+        "num": 108251,
+        "word": "原生鸿蒙获创新突破影响力事件",
+        "onboard_time": 1736658139,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#这场反腐败战役我们要打到底#"
+    }
+  }
+}
