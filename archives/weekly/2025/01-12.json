@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736677297178,
+  "endTime": 1736678296733,
   "band_list": [
     {
       "raw_hot": 3087284,
@@ -73,6 +73,14 @@
       "onboard_time": 1736670679,
       "rank": 45,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1479162,
+      "num": 1479162,
+      "word": "黄子韬回应持续掉粉",
+      "onboard_time": 1736676920,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1447679,
@@ -195,20 +203,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 949266,
+      "num": 944103,
+      "word": "白鹿害羞了",
+      "onboard_time": 1736676738,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 948452,
       "num": 948452,
       "word": "王宝强发言时的王一博",
       "onboard_time": 1736645899,
       "rank": 5,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 944103,
-      "num": 944103,
-      "word": "白鹿害羞了",
-      "onboard_time": 1736676738,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 899500,
@@ -521,14 +529,6 @@
       "onboard_time": 1736613322,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 474665,
-      "num": 474665,
-      "word": "黄子韬回应持续掉粉",
-      "onboard_time": 1736676920,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 453354,
@@ -908,7 +908,7 @@
     },
     {
       "raw_hot": 250863,
-      "num": 250863,
+      "num": 328315,
       "word": "过年烫发一烫一个不吱声",
       "onboard_time": 1736674098,
       "rank": 41,
@@ -956,7 +956,7 @@
     },
     {
       "raw_hot": 228364,
-      "num": 199415,
+      "num": 211961,
       "word": "胡歌的射雕DNA动了",
       "onboard_time": 1736676079,
       "rank": 25,
@@ -1057,6 +1057,14 @@
       "onboard_time": 1736645060,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 210022,
+      "num": 326236,
+      "word": "现成的花少7阵容",
+      "onboard_time": 1736677819,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 209332,
@@ -1179,6 +1187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200040,
+      "num": 200040,
+      "word": "刘强东老师将10万红包捐给贫困学生",
+      "onboard_time": 1736676920,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 198827,
       "num": 182953,
       "word": "SM新女团剧透",
@@ -1224,6 +1240,14 @@
       "word": "张康乐马柏全 费加罗",
       "onboard_time": 1736662220,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 196622,
+      "num": 196622,
+      "word": "王鹤棣发红包",
+      "onboard_time": 1736677579,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -1331,6 +1355,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 187240,
+      "num": 208732,
+      "word": "成本50卖5000水晶为何突然受热捧",
+      "onboard_time": 1736672839,
+      "rank": 29,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 186342,
       "num": 169658,
       "word": "丁禹兮和哪吒敖丙合影",
@@ -1411,14 +1443,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 178345,
-      "num": 208732,
-      "word": "成本50卖5000水晶为何突然受热捧",
-      "onboard_time": 1736672839,
-      "rank": 29,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 176612,
       "num": 176612,
       "word": "白月梵星台词含金量",
@@ -1459,6 +1483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 171455,
+      "num": 171455,
+      "word": "LPL",
+      "onboard_time": 1736677579,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 170131,
       "num": 448016,
       "word": "男子对反诈民警说我的钱跟你无关",
@@ -1481,14 +1513,6 @@
       "onboard_time": 1736596047,
       "rank": 48,
       "category": "体育,作品衍生"
-    },
-    {
-      "raw_hot": 168896,
-      "num": 168896,
-      "word": "刘强东老师将10万红包捐给贫困学生",
-      "onboard_time": 1736676920,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 168482,
@@ -1587,6 +1611,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 159012,
+      "num": 159012,
+      "word": "敖瑞鹏看看腰",
+      "onboard_time": 1736674699,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158618,
       "num": 188579,
       "word": "eStar新年新花样",
@@ -1625,14 +1657,6 @@
       "onboard_time": 1736662579,
       "rank": 40,
       "category": "体育,作品衍生"
-    },
-    {
-      "raw_hot": 155488,
-      "num": 155488,
-      "word": "敖瑞鹏看看腰",
-      "onboard_time": 1736674699,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 154628,
@@ -1699,6 +1723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 150534,
+      "num": 150534,
+      "word": "华天崎给鞠婧祎化的酷感妆",
+      "onboard_time": 1736677639,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150240,
       "num": 483973,
       "word": "美国加州山火已经造成至少16人死亡",
@@ -1745,6 +1777,14 @@
       "onboard_time": 1736662098,
       "rank": 39,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 146946,
+      "num": 329567,
+      "word": "大马赛石宇奇男单冠军",
+      "onboard_time": 1736677698,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 146740,
@@ -1859,12 +1899,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135997,
+      "num": 176117,
+      "word": "重庆张先生你干的好事火到外地了",
+      "onboard_time": 1736673800,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133516,
       "num": 218014,
       "word": "松花湖惊现5米大袋鼠",
       "onboard_time": 1736660298,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133322,
+      "num": 133322,
+      "word": "钟楚曦成功追星汤唯",
+      "onboard_time": 1736677399,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 133041,
@@ -1881,6 +1937,14 @@
       "onboard_time": 1736652858,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132656,
+      "num": 132656,
+      "word": "Shotaro跳onlyone",
+      "onboard_time": 1736677998,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 132052,
@@ -1905,6 +1969,14 @@
       "onboard_time": 1736676679,
       "rank": 40,
       "category": "艺人,美食"
+    },
+    {
+      "raw_hot": 130817,
+      "num": 130817,
+      "word": "王者荣耀巅峰之夜",
+      "onboard_time": 1736678238,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 130259,
@@ -1977,14 +2049,6 @@
       "onboard_time": 1736652799,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126897,
-      "num": 126897,
-      "word": "重庆张先生你干的好事火到外地了",
-      "onboard_time": 1736673800,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126465,
@@ -2121,6 +2185,14 @@
       "onboard_time": 1736637794,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 114507,
+      "num": 114507,
+      "word": "萨巴伦卡澳网15连胜",
+      "onboard_time": 1736677998,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 114435,
@@ -2364,7 +2436,7 @@
     },
     {
       "raw_hot": 76751,
-      "num": 202694,
+      "num": 328550,
       "word": "香港元朗山火已受控无人员受伤报告",
       "onboard_time": 1736677039,
       "rank": 19,
@@ -2377,6 +2449,14 @@
       "onboard_time": 1736607152,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74983,
+      "num": 171465,
+      "word": "辛芷蕾回眸镜头氛围感",
+      "onboard_time": 1736677698,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 74762,

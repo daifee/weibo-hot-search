@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736677297178,
+  "endTime": 1736678296733,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1779,6 +1779,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1479162,
+      "num": 1479162,
+      "word": "黄子韬回应持续掉粉",
+      "onboard_time": 1736676920,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1475823,
       "num": 1475823,
       "word": "王一博方辟谣",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735984823,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1215435,
-      "num": 1215435,
-      "word": "马天宇微博在线",
-      "onboard_time": 1735996289,
-      "rank": 15,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

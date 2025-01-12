@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/12 18:21:37
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/12 18:38:16
 </p>
 </blockquote>
 <p>
@@ -1347,6 +1347,12 @@ AG挑战者杯夺冠（热度：1652837）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%9B%9E%E5%BA%94%E6%8C%81%E7%BB%AD%E6%8E%89%E7%B2%89%23" target="weibo">
+黄子韬回应持续掉粉（热度：1479162）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%96%B9%E8%BE%9F%E8%B0%A3%23" target="weibo">
 王一博方辟谣（热度：1475823）
 </a>
@@ -1805,12 +1811,6 @@ AG挑战者杯夺冠（热度：1652837）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F%E5%BA%A7%E4%BD%8D%23" target="weibo">
 星光大赏座位（热度：1216298）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E5%BE%AE%E5%8D%9A%E5%9C%A8%E7%BA%BF%23" target="weibo">
-马天宇微博在线（热度：1215435）
 </a>
 </li>
 
