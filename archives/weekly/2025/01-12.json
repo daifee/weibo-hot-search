@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736666383184,
+  "endTime": 1736667339696,
   "band_list": [
     {
       "raw_hot": 3087284,
@@ -83,19 +83,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1311830,
+      "num": 1311830,
+      "word": "魏大勋不语 只是一味地公关",
+      "onboard_time": 1736663599,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1142346,
       "num": 1142346,
       "word": "微博之夜大合照",
       "onboard_time": 1736609126,
       "rank": 7,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1140985,
-      "num": 1182557,
-      "word": "魏大勋不语 只是一味地公关",
-      "onboard_time": 1736663599,
-      "rank": 12,
       "category": "作品衍生"
     },
     {
@@ -155,6 +155,30 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 912444,
+      "num": 460699,
+      "word": "惠英红 我cp婚礼见证人",
+      "onboard_time": 1736665578,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 902452,
+      "num": 902452,
+      "word": "两缉毒警曾假扮情侣如今订婚了",
+      "onboard_time": 1736665519,
+      "rank": 16,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 899500,
+      "num": 458705,
+      "word": "白鹿 死嘴快别笑了",
+      "onboard_time": 1736665220,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 866002,
       "num": 866002,
       "word": "河北沧州3.4级地震",
@@ -185,14 +209,6 @@
       "onboard_time": 1736650459,
       "rank": 28,
       "category": "作品衍生,体育"
-    },
-    {
-      "raw_hot": 790745,
-      "num": 324620,
-      "word": "白鹿 死嘴快别笑了",
-      "onboard_time": 1736665220,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 731179,
@@ -491,14 +507,6 @@
       "category": "体育,作品衍生"
     },
     {
-      "raw_hot": 353102,
-      "num": 190704,
-      "word": "惠英红 我cp婚礼见证人",
-      "onboard_time": 1736665578,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 351673,
       "num": 351673,
       "word": "王楚钦和马龙樊振东击掌道别",
@@ -532,7 +540,7 @@
     },
     {
       "raw_hot": 331998,
-      "num": 206924,
+      "num": 247246,
       "word": "陈小春 今天种地去找CFO",
       "onboard_time": 1736662700,
       "rank": 29,
@@ -595,12 +603,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 311324,
+      "num": 332913,
+      "word": "洛杉矶人为纵火案频发",
+      "onboard_time": 1736665220,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 311031,
+      "num": 248792,
+      "word": "张艺兴金俊勉朴灿烈合影",
+      "onboard_time": 1736665161,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 308264,
       "num": 308264,
       "word": "第五人格",
       "onboard_time": 1736657059,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 306018,
+      "num": 306018,
+      "word": "成都女大学生失联12天遗体被找到",
+      "onboard_time": 1736666599,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 304617,
@@ -619,6 +651,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 299556,
+      "num": 247768,
+      "word": "李现收到时代少年团窗花",
+      "onboard_time": 1736666118,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 297278,
       "num": 367555,
       "word": "专家称深圳小学试卷步子迈太大",
@@ -635,14 +675,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 295908,
-      "num": 295908,
-      "word": "两缉毒警曾假扮情侣如今订婚了",
-      "onboard_time": 1736665519,
-      "rank": 16,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 291208,
       "num": 291208,
       "word": "蔡少芬蒋欣 我们两个应该结婚",
@@ -657,14 +689,6 @@
       "onboard_time": 1736656581,
       "rank": 48,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 289636,
-      "num": 183677,
-      "word": "张艺兴金俊勉朴灿烈合影",
-      "onboard_time": 1736665161,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 288190,
@@ -715,6 +739,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 246240,
+      "num": 246240,
+      "word": "李现公主抱杨紫",
+      "onboard_time": 1736666419,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 245679,
+      "num": 245679,
+      "word": "王源周深 内娱有自己的出糗搭子",
+      "onboard_time": 1736666180,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 244311,
       "num": 244311,
       "word": "郑钦文VS托多尼",
@@ -729,6 +769,14 @@
       "onboard_time": 1736651239,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 232533,
+      "num": 232533,
+      "word": "白月梵星",
+      "onboard_time": 1736663959,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 229223,
@@ -787,6 +835,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 217161,
+      "num": 217161,
+      "word": "刘晓庆 我也是义务的",
+      "onboard_time": 1736665819,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214241,
       "num": 214241,
       "word": "4个月宝宝头发茂密仿佛开了特效",
@@ -809,14 +865,6 @@
       "onboard_time": 1736645060,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 209847,
-      "num": 205111,
-      "word": "白月梵星",
-      "onboard_time": 1736663959,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 209332,
@@ -891,27 +939,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201488,
-      "num": 178987,
-      "word": "刘晓庆 我也是义务的",
-      "onboard_time": 1736665819,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 198692,
-      "num": 173517,
+      "num": 197981,
       "word": "肖战微博之夜百指",
       "onboard_time": 1736665819,
       "rank": 31,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 198038,
-      "num": 172595,
-      "word": "李现收到时代少年团窗花",
-      "onboard_time": 1736666118,
-      "rank": 32,
       "category": "作品衍生"
     },
     {
@@ -985,6 +1017,14 @@
       "onboard_time": 1736663720,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 192097,
+      "num": 218288,
+      "word": "使用过期口红更容易得唇炎",
+      "onboard_time": 1736666180,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 191994,
@@ -1083,6 +1123,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 176612,
+      "num": 176612,
+      "word": "白月梵星台词含金量",
+      "onboard_time": 1736666118,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 174475,
+      "num": 174475,
+      "word": "尔滨把冰马俑安排上了",
+      "onboard_time": 1736664920,
+      "rank": 37,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 173808,
       "num": 173808,
       "word": "守护甜心 亚梦黑化",
@@ -1119,14 +1175,6 @@
       "num": 170073,
       "word": "杨紫摸哪吒的小脸蛋",
       "onboard_time": 1736659280,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 170042,
-      "num": 170042,
-      "word": "王源周深 内娱有自己的出糗搭子",
-      "onboard_time": 1736666180,
       "rank": 35,
       "category": "作品衍生"
     },
@@ -1259,14 +1307,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 154257,
-      "num": 154257,
-      "word": "尔滨把冰马俑安排上了",
-      "onboard_time": 1736664920,
-      "rank": 37,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 154185,
       "num": 144540,
       "word": "徐克讲话前肖战示意粉丝先安静",
@@ -1321,6 +1361,14 @@
       "onboard_time": 1736660659,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148450,
+      "num": 106020,
+      "word": "惠英红 很开心能抽到李现的礼物",
+      "onboard_time": 1736666539,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 148347,
@@ -1395,14 +1443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 142295,
-      "num": 124973,
-      "word": "白月梵星台词含金量",
-      "onboard_time": 1736666118,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 141901,
       "num": 141901,
       "word": "夏以昼 交界",
@@ -1459,14 +1499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130463,
-      "num": 130463,
-      "word": "使用过期口红更容易得唇炎",
-      "onboard_time": 1736666180,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 130259,
       "num": 130259,
       "word": "刘畅软饭硬吃还要自我安慰",
@@ -1505,6 +1537,14 @@
       "onboard_time": 1736664379,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 127394,
+      "num": 104049,
+      "word": "国色芳华名场面callback",
+      "onboard_time": 1736667140,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 126915,
@@ -1595,20 +1635,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119741,
+      "num": 119741,
+      "word": "冬季新能源车续航焦虑还存在吗",
+      "onboard_time": 1736666659,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 118709,
       "num": 208524,
       "word": "奥司他韦为何一到流感季就火",
       "onboard_time": 1736661919,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 117897,
-      "num": 332913,
-      "word": "洛杉矶人为纵火案频发",
-      "onboard_time": 1736665220,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 115658,
@@ -1683,6 +1723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107089,
+      "num": 246654,
+      "word": "郑钦文耿直回应赛后握手",
+      "onboard_time": 1736664440,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106880,
       "num": 106880,
       "word": "闵塔鲨晒赵丽颖微博之夜造型",
@@ -1691,12 +1739,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 106376,
-      "num": 176189,
-      "word": "郑钦文耿直回应赛后握手",
-      "onboard_time": 1736664440,
-      "rank": 28,
-      "category": "体育"
+      "raw_hot": 104684,
+      "num": 104684,
+      "word": "尔滨的冰马俑有心了",
+      "onboard_time": 1736666659,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103535,
@@ -1721,6 +1769,14 @@
       "onboard_time": 1736608587,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 99816,
+      "num": 99816,
+      "word": "近期流感未超过上一年流行季水平",
+      "onboard_time": 1736667260,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 98160,
@@ -1825,6 +1881,14 @@
       "onboard_time": 1736653519,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64600,
+      "num": 357188,
+      "word": "美国演员被困火海险跳海逃",
+      "onboard_time": 1736666118,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 59773,
@@ -1947,6 +2011,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 42184,
+      "num": 396814,
+      "word": "中疾控专家说当前未出现新发传染病",
+      "onboard_time": 1736666897,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41992,
       "num": 136280,
       "word": "洛杉矶山火已有约万栋建筑被烧",
@@ -2025,14 +2097,6 @@
       "onboard_time": 1736608647,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27171,
-      "num": 305927,
-      "word": "美国演员被困火海险跳海逃",
-      "onboard_time": 1736666118,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 26138,

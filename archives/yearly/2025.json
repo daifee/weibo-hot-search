@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736666383184,
+  "endTime": 1736667339696,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -2083,6 +2083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1311830,
+      "num": 1311830,
+      "word": "魏大勋不语 只是一味地公关",
+      "onboard_time": 1736663599,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1310666,
       "num": 1310666,
       "word": "高瀚宇加盟鹿晗工作室",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736575522,
       "rank": 3,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1196710,
-      "num": 1196710,
-      "word": "泰国警方称已知晓星星位置",
-      "onboard_time": 1736221581,
-      "rank": 4,
-      "category": "国际时政,艺人"
     }
   ],
   "hotgov_list": [

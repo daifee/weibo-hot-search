@@ -1,0 +1,410 @@
+{
+  "runTime": 1736667339696,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1311830,
+        "num": 1311830,
+        "word": "魏大勋不语 只是一味地公关",
+        "onboard_time": 1736663599,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 902452,
+        "num": 902452,
+        "word": "两缉毒警曾假扮情侣如今订婚了",
+        "onboard_time": 1736665519,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 28655,
+        "num": 711839,
+        "word": "古人用毛笔画6米水仙花海",
+        "onboard_time": 1736658079,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 537361,
+        "num": 537361,
+        "word": "她凭咚咚咚咚咚咚声救回一命",
+        "onboard_time": 1736659040,
+        "rank": 3,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 473793,
+        "num": 473793,
+        "word": "爸妈头发不多但生了个真人版蒙奇奇",
+        "onboard_time": 1736662819,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1676297,
+        "num": 464918,
+        "word": "黄子韬掉粉超百万",
+        "onboard_time": 1736657961,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 912444,
+        "num": 460699,
+        "word": "惠英红 我cp婚礼见证人",
+        "onboard_time": 1736665578,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 899500,
+        "num": 458705,
+        "word": "白鹿 死嘴快别笑了",
+        "onboard_time": 1736665220,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 455647,
+        "num": 455647,
+        "word": "9岁男孩喝奶奶偏方药后中毒进ICU",
+        "onboard_time": 1736664139,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42184,
+        "num": 396814,
+        "word": "中疾控专家说当前未出现新发传染病",
+        "onboard_time": 1736666897,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 797888,
+        "num": 396295,
+        "word": "卢昱晓 自封昨晚全世界最快乐小孩奖",
+        "onboard_time": 1736663000,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 748422,
+        "num": 395634,
+        "word": "费翔抽中了汤唯父亲的墨宝",
+        "onboard_time": 1736662040,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 392947,
+        "num": 392947,
+        "word": "腾讯2025第一部破30000剧集",
+        "onboard_time": 1736653578,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358983,
+        "num": 358983,
+        "word": "美国加州山火现火龙卷",
+        "onboard_time": 1736656278,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 64600,
+        "num": 357188,
+        "word": "美国演员被困火海险跳海逃",
+        "onboard_time": 1736666118,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 356908,
+        "num": 356908,
+        "word": "高叶怎么穿着钢笔就上去了",
+        "onboard_time": 1736648238,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 311324,
+        "num": 311324,
+        "word": "洛杉矶人为纵火案频发",
+        "onboard_time": 1736665220,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 306018,
+        "num": 306018,
+        "word": "成都女大学生失联12天遗体被找到",
+        "onboard_time": 1736666599,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285797,
+        "num": 285797,
+        "word": "警犬在战友床上尿尿连续4周被通报",
+        "onboard_time": 1736643619,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249409,
+        "num": 249409,
+        "word": "东京新荣记就提供阴阳菜单一事道歉",
+        "onboard_time": 1736654479,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 311031,
+        "num": 248792,
+        "word": "张艺兴金俊勉朴灿烈合影",
+        "onboard_time": 1736665161,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 303125,
+        "num": 248320,
+        "word": "孟子义控诉和李昀锐毫无默契",
+        "onboard_time": 1736660780,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 299556,
+        "num": 247768,
+        "word": "李现收到时代少年团窗花",
+        "onboard_time": 1736666118,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 290924,
+        "num": 247246,
+        "word": "陈小春 今天种地去找CFO",
+        "onboard_time": 1736662700,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107089,
+        "num": 246654,
+        "word": "郑钦文耿直回应赛后握手",
+        "onboard_time": 1736664440,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246240,
+        "num": 246240,
+        "word": "李现公主抱杨紫",
+        "onboard_time": 1736666419,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245679,
+        "num": 245679,
+        "word": "王源周深 内娱有自己的出糗搭子",
+        "onboard_time": 1736666180,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 232533,
+        "num": 232533,
+        "word": "白月梵星",
+        "onboard_time": 1736663959,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220869,
+        "num": 220869,
+        "word": "2名中国女游客在日本遭列车撞击身亡",
+        "onboard_time": 1736654418,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192097,
+        "num": 218288,
+        "word": "使用过期口红更容易得唇炎",
+        "onboard_time": 1736666180,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 217161,
+        "num": 217161,
+        "word": "刘晓庆 我也是义务的",
+        "onboard_time": 1736665819,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197981,
+        "num": 197981,
+        "word": "肖战微博之夜百指",
+        "onboard_time": 1736665819,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176612,
+        "num": 176612,
+        "word": "白月梵星台词含金量",
+        "onboard_time": 1736666118,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174475,
+        "num": 174475,
+        "word": "尔滨把冰马俑安排上了",
+        "onboard_time": 1736664920,
+        "rank": 33,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 174325,
+        "num": 174325,
+        "word": "逆水寒",
+        "onboard_time": 1736665098,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166142,
+        "num": 166142,
+        "word": "跑男 十年",
+        "onboard_time": 1736665640,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167087,
+        "num": 165644,
+        "word": "黄晓明又在拍肖战",
+        "onboard_time": 1736661499,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153281,
+        "num": 153281,
+        "word": "特朗普计划前往加州",
+        "onboard_time": 1736663779,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119741,
+        "num": 119741,
+        "word": "冬季新能源车续航焦虑还存在吗",
+        "onboard_time": 1736666659,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 107832,
+        "num": 107832,
+        "word": "程鑫凯家暴事件反转",
+        "onboard_time": 1736650940,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165389,
+        "num": 106378,
+        "word": "赵丽颖宠哪吒的心藏不住",
+        "onboard_time": 1736658139,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149763,
+        "num": 106147,
+        "word": "王宝强发言时的王一博",
+        "onboard_time": 1736645899,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148450,
+        "num": 106020,
+        "word": "惠英红 很开心能抽到李现的礼物",
+        "onboard_time": 1736666539,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104684,
+        "num": 104684,
+        "word": "尔滨的冰马俑有心了",
+        "onboard_time": 1736666659,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147060,
+        "num": 104113,
+        "word": "蒋欣怎么忍住不笑场的",
+        "onboard_time": 1736664139,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134686,
+        "num": 104087,
+        "word": "鸡腿诺 程鑫凯",
+        "onboard_time": 1736657300,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 127394,
+        "num": 104049,
+        "word": "国色芳华名场面callback",
+        "onboard_time": 1736667140,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103255,
+        "num": 103255,
+        "word": "AG今年巅峰之夜长这样",
+        "onboard_time": 1736664920,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100718,
+        "num": 100718,
+        "word": "樊振东喊话来大湾区看十五运",
+        "onboard_time": 1736662579,
+        "rank": 48,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 99816,
+        "num": 99816,
+        "word": "近期流感未超过上一年流行季水平",
+        "onboard_time": 1736667260,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#以高质量审计监督护航经济社会高质量发展#"
+    }
+  }
+}
