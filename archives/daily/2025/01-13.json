@@ -1,6 +1,6 @@
 {
   "startTime": 1736699124375,
-  "endTime": 1736720417426,
+  "endTime": 1736721475254,
   "band_list": [
     {
       "raw_hot": 1069392,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 474750,
-      "num": 376175,
+      "num": 484937,
       "word": "黄子韬删除全部送车相关视频",
       "onboard_time": 1736691023,
       "rank": 21,
@@ -211,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170173,
+      "num": 170173,
+      "word": "黄晓明说大年初一去看郭伯伯",
+      "onboard_time": 1736701095,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 159559,
       "num": 136107,
       "word": "孕妇突然分娩陌生人的羽绒服立大功",
@@ -275,12 +283,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 114263,
-      "num": 114263,
-      "word": "黄晓明说大年初一去看郭伯伯",
-      "onboard_time": 1736701095,
-      "rank": 30,
-      "category": "电影"
+      "raw_hot": 111901,
+      "num": 111901,
+      "word": "警方通报120打三次不通两度打110",
+      "onboard_time": 1736680880,
+      "rank": 45,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 110795,
@@ -419,14 +427,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 79997,
-      "num": 79997,
-      "word": "警方通报120打三次不通两度打110",
-      "onboard_time": 1736680880,
-      "rank": 45,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 77727,
       "num": 173327,
       "word": "一诺的射手荣誉已经nextlevel了",
@@ -483,6 +483,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 38604,
+      "num": 38604,
+      "word": "中国女游客在日本被撞身亡家人求助",
+      "onboard_time": 1736720112,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37081,
       "num": 78921,
       "word": "洛杉矶山火前后街景对比",
@@ -507,6 +515,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 32451,
+      "num": 32451,
+      "word": "阿森纳4比6曼联",
+      "onboard_time": 1736712070,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 31706,
+      "num": 31706,
+      "word": "1807",
+      "onboard_time": 1736718972,
+      "rank": 33,
+      "category": "艺人,音乐"
+    },
+    {
       "raw_hot": 28790,
       "num": 28790,
       "word": "鸡腿诺说程鑫凯家暴",
@@ -523,12 +547,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 26674,
-      "num": 26674,
-      "word": "阿森纳4比6曼联",
-      "onboard_time": 1736712070,
-      "rank": 23,
-      "category": "体育"
+      "raw_hot": 25828,
+      "num": 25828,
+      "word": "鸟嬛是真的",
+      "onboard_time": 1736714831,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 25241,
@@ -539,20 +563,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25221,
-      "num": 25221,
-      "word": "鸟嬛是真的",
-      "onboard_time": 1736714831,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 25153,
       "num": 25153,
       "word": "皇马vs巴萨",
       "onboard_time": 1736675599,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24008,
+      "num": 24008,
+      "word": "黄子韬掉粉已超300万",
+      "onboard_time": 1736711051,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 23942,
@@ -563,22 +587,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 21703,
-      "num": 21703,
-      "word": "1807",
-      "onboard_time": 1736718972,
-      "rank": 33,
-      "category": "艺人,音乐"
-    },
-    {
-      "raw_hot": 21441,
-      "num": 21441,
-      "word": "黄子韬掉粉已超300万",
-      "onboard_time": 1736711051,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 21385,
       "num": 21385,
       "word": "张婧仪侧脸杀",
@@ -587,12 +595,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 18684,
-      "num": 18684,
+      "raw_hot": 21077,
+      "num": 21077,
       "word": "鞠婧祎短发白背心",
       "onboard_time": 1736710871,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19365,
+      "num": 43507,
+      "word": "流感检测阳性率上升趋势减缓",
+      "onboard_time": 1736708711,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18412,
@@ -611,28 +627,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 16768,
-      "num": 43507,
-      "word": "流感检测阳性率上升趋势减缓",
-      "onboard_time": 1736708711,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 16599,
       "num": 22977,
       "word": "集采药如何确保降价不降质",
       "onboard_time": 1736706613,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 16077,
-      "num": 17037,
-      "word": "中国女游客在日本被撞身亡家人求助",
-      "onboard_time": 1736720112,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15917,
