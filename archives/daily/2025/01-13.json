@@ -1,6 +1,6 @@
 {
   "startTime": 1736699124375,
-  "endTime": 1736706496343,
+  "endTime": 1736707276219,
   "band_list": [
     {
       "raw_hot": 1069392,
@@ -459,8 +459,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 51100,
-      "num": 48826,
+      "raw_hot": 51270,
+      "num": 51270,
       "word": "辛芷蕾倪妮高叶合照",
       "onboard_time": 1736703074,
       "rank": 46,
@@ -507,6 +507,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 16599,
+      "num": 22977,
+      "word": "集采药如何确保降价不降质",
+      "onboard_time": 1736706613,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 16550,
+      "num": 22859,
+      "word": "鸡腿诺说程鑫凯家暴",
+      "onboard_time": 1736707214,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 15620,
       "num": 41380,
       "word": "隔天如换季式降温",
@@ -531,6 +547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 10180,
+      "num": 78921,
+      "word": "洛杉矶山火前后街景对比",
+      "onboard_time": 1736706972,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 9788,
       "num": 61984,
       "word": "2025春运即将拉开大幕",
@@ -539,8 +563,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 6588,
-      "num": 49272,
+      "raw_hot": 7089,
+      "num": 50588,
       "word": "王楚钦谢谢大家祝福大家",
       "onboard_time": 1736706132,
       "rank": 24,
