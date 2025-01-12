@@ -1,0 +1,410 @@
+{
+  "runTime": 1736656812893,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1406006,
+        "num": 1406006,
+        "word": "腾讯2025第一部破30000剧集",
+        "onboard_time": 1736653578,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1099642,
+        "num": 1099642,
+        "word": "高叶怎么穿着钢笔就上去了",
+        "onboard_time": 1736648238,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 30141,
+        "num": 1098487,
+        "word": "快查收2025第一份宇宙级浪漫",
+        "onboard_time": 1736609666,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1097946,
+        "num": 1097946,
+        "word": "警犬在战友床上尿尿连续4周被通报",
+        "onboard_time": 1736643619,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 688551,
+        "num": 688551,
+        "word": "魏大勋返图马龙礼物球拍",
+        "onboard_time": 1736650459,
+        "rank": 4,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 682086,
+        "num": 682086,
+        "word": "怪不得五阿哥和紫薇只能是兄妹",
+        "onboard_time": 1736655199,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 635648,
+        "num": 635648,
+        "word": "传单被撕女服务员怒掐男孩脖子",
+        "onboard_time": 1736651780,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 615179,
+        "num": 615179,
+        "word": "钟楚曦经济补偿曾舜晞",
+        "onboard_time": 1736640438,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 609090,
+        "num": 609090,
+        "word": "王宝强发言时的王一博",
+        "onboard_time": 1736645899,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 547957,
+        "num": 547957,
+        "word": "河北沧州3.4级地震",
+        "onboard_time": 1736648479,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 580459,
+        "num": 535680,
+        "word": "辛雨锡发秦霄贤六宗罪",
+        "onboard_time": 1736653639,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460271,
+        "num": 460271,
+        "word": "程鑫凯家暴事件反转",
+        "onboard_time": 1736650940,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 415238,
+        "num": 457204,
+        "word": "东京新荣记就提供阴阳菜单一事道歉",
+        "onboard_time": 1736654479,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 121313,
+        "num": 456103,
+        "word": "尹锡悦将不出席弹劾案首次正式辩论",
+        "onboard_time": 1736654960,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140338,
+        "num": 456002,
+        "word": "美国加州山火已经造成至少16人死亡",
+        "onboard_time": 1736655379,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 455925,
+        "num": 455925,
+        "word": "丁禹兮工藤静香同框聊天",
+        "onboard_time": 1736652498,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 426622,
+        "num": 426622,
+        "word": "姚晨拍的马龙",
+        "onboard_time": 1736653939,
+        "rank": 16,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 406277,
+        "num": 406277,
+        "word": "肖战为了这一刻复盘了一年",
+        "onboard_time": 1736648479,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 395297,
+        "num": 395297,
+        "word": "疑似金正贤向徐贤道歉",
+        "onboard_time": 1736654899,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341756,
+        "num": 341756,
+        "word": "美国运动员大火中失去10枚奥运奖牌",
+        "onboard_time": 1736649019,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 279707,
+        "num": 279707,
+        "word": "张雅钦镜头下的杨紫",
+        "onboard_time": 1736651839,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 272055,
+        "num": 272055,
+        "word": "白鹿晒微博之夜后台一些合照",
+        "onboard_time": 1736610924,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 271235,
+        "num": 271235,
+        "word": "赵丽颖微博Queen",
+        "onboard_time": 1736605829,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 232227,
+        "num": 232227,
+        "word": "靠海的洛杉矶为何缺水灭火",
+        "onboard_time": 1736649138,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 48114,
+        "num": 223426,
+        "word": "郑钦文说我喜欢带着压力打球",
+        "onboard_time": 1736656039,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221072,
+        "num": 221072,
+        "word": "2名中国女游客在日本遭列车撞击身亡",
+        "onboard_time": 1736654418,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206457,
+        "num": 206457,
+        "word": "迪丽热巴内向拍照只比耶",
+        "onboard_time": 1736655980,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204669,
+        "num": 204669,
+        "word": "加州山火逼近洛杉矶奥运会场馆",
+        "onboard_time": 1736651239,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 204367,
+        "num": 204367,
+        "word": "尔冬升给了焉栩嘉一脚",
+        "onboard_time": 1736656160,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185024,
+        "num": 185024,
+        "word": "12306抢票",
+        "onboard_time": 1736654479,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 200043,
+        "num": 184552,
+        "word": "檀健次绅士手扶虞书欣",
+        "onboard_time": 1736648599,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 79900,
+        "num": 182588,
+        "word": "曾黎微博之夜红毯眸略",
+        "onboard_time": 1736656098,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191094,
+        "num": 182556,
+        "word": "倪萍蔡明 同为母亲所以想撑伞",
+        "onboard_time": 1736655019,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182523,
+        "num": 182523,
+        "word": "4个月宝宝头发茂密仿佛开了特效",
+        "onboard_time": 1736650879,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167629,
+        "num": 167629,
+        "word": "美国加州山火现火龙卷",
+        "onboard_time": 1736656278,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 186217,
+        "num": 165850,
+        "word": "微博之夜荣誉名单",
+        "onboard_time": 1736654839,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153381,
+        "num": 153381,
+        "word": "木鬼 灵魂互换",
+        "onboard_time": 1736655499,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 155517,
+        "num": 151893,
+        "word": "樊振东 阿玛尼",
+        "onboard_time": 1736610924,
+        "rank": 37,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 150111,
+        "num": 150111,
+        "word": "守护甜心 亚梦黑化",
+        "onboard_time": 1736654059,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 146210,
+        "num": 146210,
+        "word": "年轻人问为什么要跟人交往",
+        "onboard_time": 1736655560,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183993,
+        "num": 145994,
+        "word": "沈腾微博King",
+        "onboard_time": 1736606010,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169306,
+        "num": 145285,
+        "word": "沈腾一直在吃的到底是什么饼干",
+        "onboard_time": 1736647761,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162926,
+        "num": 144982,
+        "word": "摄像大哥一顿蛄蛹努力拍周深",
+        "onboard_time": 1736656459,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154185,
+        "num": 144540,
+        "word": "徐克讲话前肖战示意粉丝先安静",
+        "onboard_time": 1736653879,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153172,
+        "num": 144029,
+        "word": "苏新皓18岁生日照",
+        "onboard_time": 1736655379,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143681,
+        "num": 143681,
+        "word": "新兰正式交往六年了",
+        "onboard_time": 1736655320,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 130791,
+        "num": 130791,
+        "word": "夏以昼 交界",
+        "onboard_time": 1736655138,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 124771,
+        "num": 124771,
+        "word": "六代机试飞后美说不想跟中国军备竞赛",
+        "onboard_time": 1736655259,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 119869,
+        "num": 119869,
+        "word": "假肉毒素成本1.5元出厂20元卖价上千",
+        "onboard_time": 1736656581,
+        "rank": 48,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 112511,
+        "num": 112511,
+        "word": "郑钦文回应晋级澳网次轮",
+        "onboard_time": 1736652858,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#反腐路上一步不停歇半步不退让#"
+    }
+  }
+}

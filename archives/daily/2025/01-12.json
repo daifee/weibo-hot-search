@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736655973925,
+  "endTime": 1736656812893,
   "band_list": [
     {
       "raw_hot": 3012112,
@@ -67,8 +67,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1152397,
-      "num": 1152397,
+      "raw_hot": 1406006,
+      "num": 1406006,
       "word": "腾讯2025第一部破30000剧集",
       "onboard_time": 1736653578,
       "rank": 1,
@@ -187,6 +187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 682086,
+      "num": 682086,
+      "word": "怪不得五阿哥和紫薇只能是兄妹",
+      "onboard_time": 1736655199,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 679086,
       "num": 576406,
       "word": "程鑫凯家暴事件反转",
@@ -243,6 +251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 580459,
+      "num": 563140,
+      "word": "辛雨锡发秦霄贤六宗罪",
+      "onboard_time": 1736653639,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 580229,
       "num": 527141,
       "word": "昊磊复婚",
@@ -257,14 +273,6 @@
       "onboard_time": 1736643859,
       "rank": 8,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 563140,
-      "num": 563140,
-      "word": "辛雨锡发秦霄贤六宗罪",
-      "onboard_time": 1736653639,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 526013,
@@ -291,14 +299,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 506610,
-      "num": 506610,
-      "word": "怪不得五阿哥和紫薇只能是兄妹",
-      "onboard_time": 1736655199,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 475671,
       "num": 300205,
       "word": "赵丽颖说给微博贡献了微薄的热度",
@@ -321,6 +321,22 @@
       "onboard_time": 1736614519,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 426622,
+      "num": 426622,
+      "word": "姚晨拍的马龙",
+      "onboard_time": 1736653939,
+      "rank": 17,
+      "category": "作品衍生,体育"
+    },
+    {
+      "raw_hot": 415238,
+      "num": 457204,
+      "word": "东京新荣记就提供阴阳菜单一事道歉",
+      "onboard_time": 1736654479,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 414300,
@@ -347,20 +363,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 395297,
+      "num": 395297,
+      "word": "疑似金正贤向徐贤道歉",
+      "onboard_time": 1736654899,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 392639,
       "num": 392639,
       "word": "张若昀 你的昕在这里",
       "onboard_time": 1736610683,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 372493,
-      "num": 372493,
-      "word": "姚晨拍的马龙",
-      "onboard_time": 1736653939,
-      "rank": 17,
-      "category": "作品衍生,体育"
     },
     {
       "raw_hot": 372368,
@@ -457,22 +473,6 @@
       "onboard_time": 1736651839,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 313279,
-      "num": 313279,
-      "word": "疑似金正贤向徐贤道歉",
-      "onboard_time": 1736654899,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 307205,
-      "num": 307205,
-      "word": "东京新荣记就提供阴阳菜单一事道歉",
-      "onboard_time": 1736654479,
-      "rank": 21,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 304617,
@@ -635,12 +635,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 206457,
+      "num": 206457,
+      "word": "迪丽热巴内向拍照只比耶",
+      "onboard_time": 1736655980,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205431,
       "num": 205431,
       "word": "王俊凯果然下班使人快乐",
       "onboard_time": 1736640558,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 204367,
+      "num": 204367,
+      "word": "尔冬升给了焉栩嘉一脚",
+      "onboard_time": 1736656160,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 197657,
@@ -707,6 +723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 185024,
+      "num": 185024,
+      "word": "12306抢票",
+      "onboard_time": 1736654479,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 183696,
       "num": 183696,
       "word": "丁禹兮时装一月封面",
@@ -721,14 +745,6 @@
       "onboard_time": 1736596708,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 174507,
-      "num": 174507,
-      "word": "12306抢票",
-      "onboard_time": 1736654479,
-      "rank": 33,
-      "category": "互联网"
     },
     {
       "raw_hot": 173808,
@@ -771,6 +787,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 167629,
+      "num": 167629,
+      "word": "美国加州山火现火龙卷",
+      "onboard_time": 1736656278,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 165588,
       "num": 165588,
       "word": "2025全年考试时间表",
@@ -788,11 +812,35 @@
     },
     {
       "raw_hot": 163463,
-      "num": 127199,
+      "num": 144029,
       "word": "苏新皓18岁生日照",
       "onboard_time": 1736655379,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162926,
+      "num": 144982,
+      "word": "摄像大哥一顿蛄蛹努力拍周深",
+      "onboard_time": 1736656459,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 154185,
+      "num": 144540,
+      "word": "徐克讲话前肖战示意粉丝先安静",
+      "onboard_time": 1736653879,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 153381,
+      "num": 153381,
+      "word": "木鬼 灵魂互换",
+      "onboard_time": 1736655499,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 152772,
@@ -803,20 +851,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 151894,
-      "num": 126631,
-      "word": "徐克讲话前肖战示意粉丝先安静",
-      "onboard_time": 1736653879,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 146740,
       "num": 146740,
       "word": "张杰马来西亚演唱会",
       "onboard_time": 1736611763,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 146210,
+      "num": 146210,
+      "word": "年轻人问为什么要跟人交往",
+      "onboard_time": 1736655560,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 145643,
@@ -843,6 +891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143681,
+      "num": 143681,
+      "word": "新兰正式交往六年了",
+      "onboard_time": 1736655320,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 142442,
       "num": 142442,
       "word": "警犬上班死气沉沉下班魅力四射",
@@ -859,12 +915,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 138280,
-      "num": 138280,
-      "word": "木鬼 灵魂互换",
-      "onboard_time": 1736655499,
-      "rank": 38,
-      "category": "动漫"
+      "raw_hot": 140338,
+      "num": 483973,
+      "word": "美国加州山火已经造成至少16人死亡",
+      "onboard_time": 1736655379,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 136767,
@@ -907,14 +963,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 127488,
-      "num": 127488,
-      "word": "年轻人问为什么要跟人交往",
-      "onboard_time": 1736655560,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 126915,
       "num": 126915,
       "word": "郑钦文取得澳网开门红",
@@ -929,14 +977,6 @@
       "onboard_time": 1736613920,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 126197,
-      "num": 126197,
-      "word": "新兰正式交往六年了",
-      "onboard_time": 1736655320,
-      "rank": 44,
-      "category": "动漫"
     },
     {
       "raw_hot": 126196,
@@ -963,12 +1003,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124771,
+      "num": 124771,
+      "word": "六代机试飞后美说不想跟中国军备竞赛",
+      "onboard_time": 1736655259,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 122708,
       "num": 484679,
       "word": "数学老师评小学期末考太难",
       "onboard_time": 1736641278,
       "rank": 48,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 121313,
+      "num": 577758,
+      "word": "尹锡悦将不出席弹劾案首次正式辩论",
+      "onboard_time": 1736654960,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 121191,
@@ -985,6 +1041,14 @@
       "onboard_time": 1736592028,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119869,
+      "num": 119869,
+      "word": "假肉毒素成本1.5元出厂20元卖价上千",
+      "onboard_time": 1736656581,
+      "rank": 48,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 115658,
@@ -1131,6 +1195,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 79900,
+      "num": 182588,
+      "word": "曾黎微博之夜红毯眸略",
+      "onboard_time": 1736656098,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 79584,
       "num": 207188,
       "word": "向地震中的每一位平凡英雄致敬",
@@ -1195,14 +1267,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 51931,
-      "num": 483973,
-      "word": "美国加州山火已经造成至少16人死亡",
-      "onboard_time": 1736655379,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 51567,
       "num": 136301,
       "word": "钟意挑杯FMVP",
@@ -1227,14 +1291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 50964,
-      "num": 577758,
-      "word": "尹锡悦将不出席弹劾案首次正式辩论",
-      "onboard_time": 1736654960,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 49703,
       "num": 136283,
       "word": "AG挑战者杯夺冠",
@@ -1249,6 +1305,14 @@
       "onboard_time": 1736649860,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 48114,
+      "num": 223426,
+      "word": "郑钦文说我喜欢带着压力打球",
+      "onboard_time": 1736656039,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 47313,

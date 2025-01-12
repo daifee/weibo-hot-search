@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/12 00:25:41 ~ 2025/01/12 12:26:13
+本榜单时间：2025/01/12 00:25:41 ~ 2025/01/12 12:40:12
 </p>
 </blockquote>
 <p>
@@ -64,7 +64,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF2025%E7%AC%AC%E4%B8%80%E9%83%A8%E7%A0%B430000%E5%89%A7%E9%9B%86%23" target="weibo">
-腾讯2025第一部破30000剧集（热度：1152397）
+腾讯2025第一部破30000剧集（热度：1406006）
 </a>
 </li>
 
@@ -153,6 +153,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%80%AA%E4%B8%8D%E5%BE%97%E4%BA%94%E9%98%BF%E5%93%A5%E5%92%8C%E7%B4%AB%E8%96%87%E5%8F%AA%E8%83%BD%E6%98%AF%E5%85%84%E5%A6%B9%23" target="weibo">
+怪不得五阿哥和紫薇只能是兄妹（热度：682086）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A8%8B%E9%91%AB%E5%87%AF%E5%AE%B6%E6%9A%B4%E4%BA%8B%E4%BB%B6%E5%8F%8D%E8%BD%AC%23" target="weibo">
 程鑫凯家暴事件反转（热度：679086）
 </a>
@@ -195,6 +201,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E9%9B%A8%E9%94%A1%E5%8F%91%E7%A7%A6%E9%9C%84%E8%B4%A4%E5%85%AD%E5%AE%97%E7%BD%AA%23" target="weibo">
+辛雨锡发秦霄贤六宗罪（热度：580459）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%8A%E7%A3%8A%E5%A4%8D%E5%A9%9A%23" target="weibo">
 昊磊复婚（热度：580229）
 </a>
@@ -203,12 +215,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%B8%E4%BF%A1%E7%BE%8E%E5%9B%BD%E6%B6%88%E9%98%B2%E7%9A%84%E5%A5%B9%E5%9B%9E%E5%AE%B6%E6%97%B6%E7%9B%B4%E6%8E%A5%E5%82%BB%E7%9C%BC%23" target="weibo">
 相信美国消防的她回家时直接傻眼（热度：576040）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E9%9B%A8%E9%94%A1%E5%8F%91%E7%A7%A6%E9%9C%84%E8%B4%A4%E5%85%AD%E5%AE%97%E7%BD%AA%23" target="weibo">
-辛雨锡发秦霄贤六宗罪（热度：563140）
 </a>
 </li>
 
@@ -231,12 +237,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%80%AA%E4%B8%8D%E5%BE%97%E4%BA%94%E9%98%BF%E5%93%A5%E5%92%8C%E7%B4%AB%E8%96%87%E5%8F%AA%E8%83%BD%E6%98%AF%E5%85%84%E5%A6%B9%23" target="weibo">
-怪不得五阿哥和紫薇只能是兄妹（热度：506610）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%AF%B4%E7%BB%99%E5%BE%AE%E5%8D%9A%E8%B4%A1%E7%8C%AE%E4%BA%86%E5%BE%AE%E8%96%84%E7%9A%84%E7%83%AD%E5%BA%A6%23" target="weibo">
 赵丽颖说给微博贡献了微薄的热度（热度：475671）
 </a>
@@ -251,6 +251,18 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E8%89%BA%E6%98%95%20%E8%87%A3%E5%A6%BE%E4%BB%8A%E5%A4%9C%E5%BF%83%E4%B8%8D%E6%85%8C%23" target="weibo">
 唐艺昕 臣妾今夜心不慌（热度：446545）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%99%A8%E6%8B%8D%E7%9A%84%E9%A9%AC%E9%BE%99%23" target="weibo">
+姚晨拍的马龙（热度：426622）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E4%BA%AC%E6%96%B0%E8%8D%A3%E8%AE%B0%E5%B0%B1%E6%8F%90%E4%BE%9B%E9%98%B4%E9%98%B3%E8%8F%9C%E5%8D%95%E4%B8%80%E4%BA%8B%E9%81%93%E6%AD%89%23" target="weibo">
+东京新荣记就提供阴阳菜单一事道歉（热度：415238）
 </a>
 </li>
 
@@ -273,14 +285,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%20%E4%BD%A0%E7%9A%84%E6%98%95%E5%9C%A8%E8%BF%99%E9%87%8C%23" target="weibo">
-张若昀 你的昕在这里（热度：392639）
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E9%87%91%E6%AD%A3%E8%B4%A4%E5%90%91%E5%BE%90%E8%B4%A4%E9%81%93%E6%AD%89%23" target="weibo">
+疑似金正贤向徐贤道歉（热度：395297）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%99%A8%E6%8B%8D%E7%9A%84%E9%A9%AC%E9%BE%99%23" target="weibo">
-姚晨拍的马龙（热度：372493）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%20%E4%BD%A0%E7%9A%84%E6%98%95%E5%9C%A8%E8%BF%99%E9%87%8C%23" target="weibo">
+张若昀 你的昕在这里（热度：392639）
 </a>
 </li>
 
@@ -353,18 +365,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%85%E9%92%A6%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E6%9D%A8%E7%B4%AB%23" target="weibo">
 张雅钦镜头下的杨紫（热度：316888）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E9%87%91%E6%AD%A3%E8%B4%A4%E5%90%91%E5%BE%90%E8%B4%A4%E9%81%93%E6%AD%89%23" target="weibo">
-疑似金正贤向徐贤道歉（热度：313279）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E4%BA%AC%E6%96%B0%E8%8D%A3%E8%AE%B0%E5%B0%B1%E6%8F%90%E4%BE%9B%E9%98%B4%E9%98%B3%E8%8F%9C%E5%8D%95%E4%B8%80%E4%BA%8B%E9%81%93%E6%AD%89%23" target="weibo">
-东京新荣记就提供阴阳菜单一事道歉（热度：307205）
 </a>
 </li>
 
@@ -489,8 +489,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%86%85%E5%90%91%E6%8B%8D%E7%85%A7%E5%8F%AA%E6%AF%94%E8%80%B6%23" target="weibo">
+迪丽热巴内向拍照只比耶（热度：206457）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%9E%9C%E7%84%B6%E4%B8%8B%E7%8F%AD%E4%BD%BF%E4%BA%BA%E5%BF%AB%E4%B9%90%23" target="weibo">
 王俊凯果然下班使人快乐（热度：205431）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%94%E5%86%AC%E5%8D%87%E7%BB%99%E4%BA%86%E7%84%89%E6%A0%A9%E5%98%89%E4%B8%80%E8%84%9A%23" target="weibo">
+尔冬升给了焉栩嘉一脚（热度：204367）
 </a>
 </li>
 
@@ -543,6 +555,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2312306%E6%8A%A2%E7%A5%A8%23" target="weibo">
+12306抢票（热度：185024）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E6%97%B6%E8%A3%85%E4%B8%80%E6%9C%88%E5%B0%81%E9%9D%A2%23" target="weibo">
 丁禹兮时装一月封面（热度：183696）
 </a>
@@ -551,12 +569,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%9D%8E%E6%98%80%E9%94%90%E5%90%88%E5%94%B1%23" target="weibo">
 孟子义李昀锐合唱（热度：179712）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2312306%E6%8A%A2%E7%A5%A8%23" target="weibo">
-12306抢票（热度：174507）
 </a>
 </li>
 
@@ -591,6 +603,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%B7%9E%E5%B1%B1%E7%81%AB%E7%8E%B0%E7%81%AB%E9%BE%99%E5%8D%B7%23" target="weibo">
+美国加州山火现火龙卷（热度：167629）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232025%E5%85%A8%E5%B9%B4%E8%80%83%E8%AF%95%E6%97%B6%E9%97%B4%E8%A1%A8%23" target="weibo">
 2025全年考试时间表（热度：165588）
 </a>
@@ -609,20 +627,38 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%91%84%E5%83%8F%E5%A4%A7%E5%93%A5%E4%B8%80%E9%A1%BF%E8%9B%84%E8%9B%B9%E5%8A%AA%E5%8A%9B%E6%8B%8D%E5%91%A8%E6%B7%B1%23" target="weibo">
+摄像大哥一顿蛄蛹努力拍周深（热度：162926）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%85%8B%E8%AE%B2%E8%AF%9D%E5%89%8D%E8%82%96%E6%88%98%E7%A4%BA%E6%84%8F%E7%B2%89%E4%B8%9D%E5%85%88%E5%AE%89%E9%9D%99%23" target="weibo">
+徐克讲话前肖战示意粉丝先安静（热度：154185）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%A8%E9%AC%BC%20%E7%81%B5%E9%AD%82%E4%BA%92%E6%8D%A2%23" target="weibo">
+木鬼 灵魂互换（热度：153381）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E4%B8%80%E8%AD%A6%E7%8A%AC%E5%9B%A0%E4%B8%8A%E7%8F%AD%E6%B2%A1%E7%B2%BE%E7%A5%9E%E8%A2%AB%E9%80%9A%E6%8A%A5%E6%89%B9%E8%AF%84%23" target="weibo">
 云南一警犬因上班没精神被通报批评（热度：152772）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%85%8B%E8%AE%B2%E8%AF%9D%E5%89%8D%E8%82%96%E6%88%98%E7%A4%BA%E6%84%8F%E7%B2%89%E4%B8%9D%E5%85%88%E5%AE%89%E9%9D%99%23" target="weibo">
-徐克讲话前肖战示意粉丝先安静（热度：151894）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+张杰马来西亚演唱会（热度：146740）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
-张杰马来西亚演唱会（热度：146740）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%97%AE%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%B7%9F%E4%BA%BA%E4%BA%A4%E5%BE%80%23" target="weibo">
+年轻人问为什么要跟人交往（热度：146210）
 </a>
 </li>
 
@@ -645,6 +681,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%85%B0%E6%AD%A3%E5%BC%8F%E4%BA%A4%E5%BE%80%E5%85%AD%E5%B9%B4%E4%BA%86%23" target="weibo">
+新兰正式交往六年了（热度：143681）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E7%8A%AC%E4%B8%8A%E7%8F%AD%E6%AD%BB%E6%B0%94%E6%B2%89%E6%B2%89%E4%B8%8B%E7%8F%AD%E9%AD%85%E5%8A%9B%E5%9B%9B%E5%B0%84%23" target="weibo">
 警犬上班死气沉沉下班魅力四射（热度：142442）
 </a>
@@ -657,8 +699,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%A8%E9%AC%BC%20%E7%81%B5%E9%AD%82%E4%BA%92%E6%8D%A2%23" target="weibo">
-木鬼 灵魂互换（热度：138280）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%B7%9E%E5%B1%B1%E7%81%AB%E5%B7%B2%E7%BB%8F%E9%80%A0%E6%88%90%E8%87%B3%E5%B0%9116%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
+美国加州山火已经造成至少16人死亡（热度：140338）
 </a>
 </li>
 
@@ -693,12 +735,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%97%AE%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%B7%9F%E4%BA%BA%E4%BA%A4%E5%BE%80%23" target="weibo">
-年轻人问为什么要跟人交往（热度：127488）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E5%8F%96%E5%BE%97%E6%BE%B3%E7%BD%91%E5%BC%80%E9%97%A8%E7%BA%A2%23" target="weibo">
 郑钦文取得澳网开门红（热度：126915）
 </a>
@@ -707,12 +743,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E5%9B%9E%E5%BA%94%E7%8E%B0%E7%94%B7%E5%8F%8B%23" target="weibo">
 李现回应现男友（热度：126465）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%85%B0%E6%AD%A3%E5%BC%8F%E4%BA%A4%E5%BE%80%E5%85%AD%E5%B9%B4%E4%BA%86%23" target="weibo">
-新兰正式交往六年了（热度：126197）
 </a>
 </li>
 
@@ -735,8 +765,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%AD%E4%BB%A3%E6%9C%BA%E8%AF%95%E9%A3%9E%E5%90%8E%E7%BE%8E%E8%AF%B4%E4%B8%8D%E6%83%B3%E8%B7%9F%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%A4%87%E7%AB%9E%E8%B5%9B%23" target="weibo">
+六代机试飞后美说不想跟中国军备竞赛（热度：124771）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%B0%E5%AD%A6%E8%80%81%E5%B8%88%E8%AF%84%E5%B0%8F%E5%AD%A6%E6%9C%9F%E6%9C%AB%E8%80%83%E5%A4%AA%E9%9A%BE%23" target="weibo">
 数学老师评小学期末考太难（热度：122708）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%B9%E9%94%A1%E6%82%A6%E5%B0%86%E4%B8%8D%E5%87%BA%E5%B8%AD%E5%BC%B9%E5%8A%BE%E6%A1%88%E9%A6%96%E6%AC%A1%E6%AD%A3%E5%BC%8F%E8%BE%A9%E8%AE%BA%23" target="weibo">
+尹锡悦将不出席弹劾案首次正式辩论（热度：121313）
 </a>
 </li>
 
@@ -749,6 +791,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E8%BD%AE%E8%BD%A6%E6%92%9E%E4%B8%8A380%E4%B8%87%E5%AE%BE%E5%88%A9%E8%B5%B0%E4%BB%A3%E4%BD%8D%E8%BF%BD%E5%81%BF%23" target="weibo">
 三轮车撞上380万宾利走代位追偿（热度：120891）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E8%82%89%E6%AF%92%E7%B4%A0%E6%88%90%E6%9C%AC1.5%E5%85%83%E5%87%BA%E5%8E%8220%E5%85%83%E5%8D%96%E4%BB%B7%E4%B8%8A%E5%8D%83%23" target="weibo">
+假肉毒素成本1.5元出厂20元卖价上千（热度：119869）
 </a>
 </li>
 
@@ -861,6 +909,12 @@ aespa初智齿舞台（热度：93742）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E9%BB%8E%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E7%BA%A2%E6%AF%AF%E7%9C%B8%E7%95%A5%23" target="weibo">
+曾黎微博之夜红毯眸略（热度：79900）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%9C%B0%E9%9C%87%E4%B8%AD%E7%9A%84%E6%AF%8F%E4%B8%80%E4%BD%8D%E5%B9%B3%E5%87%A1%E8%8B%B1%E9%9B%84%E8%87%B4%E6%95%AC%23" target="weibo">
 向地震中的每一位平凡英雄致敬（热度：79584）
 </a>
@@ -909,12 +963,6 @@ aespa初智齿舞台（热度：93742）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%B7%9E%E5%B1%B1%E7%81%AB%E5%B7%B2%E7%BB%8F%E9%80%A0%E6%88%90%E8%87%B3%E5%B0%9116%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
-美国加州山火已经造成至少16人死亡（热度：51931）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%92%9F%E6%84%8F%E6%8C%91%E6%9D%AFFMVP%23" target="weibo">
 钟意挑杯FMVP（热度：51567）
 </a>
@@ -933,12 +981,6 @@ aespa初智齿舞台（热度：93742）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%B9%E9%94%A1%E6%82%A6%E5%B0%86%E4%B8%8D%E5%87%BA%E5%B8%AD%E5%BC%B9%E5%8A%BE%E6%A1%88%E9%A6%96%E6%AC%A1%E6%AD%A3%E5%BC%8F%E8%BE%A9%E8%AE%BA%23" target="weibo">
-尹锡悦将不出席弹劾案首次正式辩论（热度：50964）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23AG%E6%8C%91%E6%88%98%E8%80%85%E6%9D%AF%E5%A4%BA%E5%86%A0%23" target="weibo">
 AG挑战者杯夺冠（热度：49703）
 </a>
@@ -947,6 +989,12 @@ AG挑战者杯夺冠（热度：49703）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E8%BF%99%E6%98%AF%E4%B8%80%E6%9D%A1%E4%BC%9A%E5%8A%A8%E7%9A%84%E5%BE%AE%E5%8D%9A%23" target="weibo">
 严浩翔这是一条会动的微博（热度：48484）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E8%AF%B4%E6%88%91%E5%96%9C%E6%AC%A2%E5%B8%A6%E7%9D%80%E5%8E%8B%E5%8A%9B%E6%89%93%E7%90%83%23" target="weibo">
+郑钦文说我喜欢带着压力打球（热度：48114）
 </a>
 </li>
 

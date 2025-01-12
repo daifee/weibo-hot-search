@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/12 12:26:13
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/12 12:40:12
 </p>
 </blockquote>
 <p>
@@ -1401,6 +1401,12 @@ AG挑战者杯夺冠（热度：1652837）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF2025%E7%AC%AC%E4%B8%80%E9%83%A8%E7%A0%B430000%E5%89%A7%E9%9B%86%23" target="weibo">
+腾讯2025第一部破30000剧集（热度：1406006）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%95%AC%E6%98%8E%E5%88%A0%E5%8D%9A%E4%BA%86%23" target="weibo">
 郭敬明删博了（热度：1405808）
 </a>
@@ -1805,12 +1811,6 @@ AG挑战者杯夺冠（热度：1652837）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%A2%9C%E5%8D%81%E5%85%AD%E9%AA%97%E5%8E%BB%E6%B3%B0%E5%9B%BD%E7%9A%84%E7%81%AF%E5%85%89%E5%B8%88%E8%BF%98%E6%B2%A1%E5%9B%9E%E6%9D%A5%23" target="weibo">
 被颜十六骗去泰国的灯光师还没回来（热度：1192254）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E9%A9%BE%E7%85%A7%E8%BF%98%E6%B2%A1%E6%8D%82%E7%83%AD%E8%BD%A6%E5%B7%B2%E7%BB%8F%E9%80%89%E5%A5%BD%E4%BA%86%23" target="weibo">
-丁禹兮驾照还没捂热车已经选好了（热度：1191667）
 </a>
 </li>
 

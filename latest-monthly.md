@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/12 12:26:13
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/12 12:40:12
 </p>
 </blockquote>
 <p>
@@ -1401,6 +1401,12 @@ AG挑战者杯夺冠（热度：1652837）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF2025%E7%AC%AC%E4%B8%80%E9%83%A8%E7%A0%B430000%E5%89%A7%E9%9B%86%23" target="weibo">
+腾讯2025第一部破30000剧集（热度：1406006）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%95%AC%E6%98%8E%E5%88%A0%E5%8D%9A%E4%BA%86%23" target="weibo">
 郭敬明删博了（热度：1405808）
 </a>
@@ -1877,12 +1883,6 @@ AG挑战者杯夺冠（热度：1652837）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%9B%9E%E5%BA%94%E7%BB%99%E9%87%91%E9%9D%96%E6%8A%8A%E5%87%BA%E5%96%9C%E8%84%89%23" target="weibo">
 张凌赫回应给金靖把出喜脉（热度：1158118）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF2025%E7%AC%AC%E4%B8%80%E9%83%A8%E7%A0%B430000%E5%89%A7%E9%9B%86%23" target="weibo">
-腾讯2025第一部破30000剧集（热度：1152397）
 </a>
 </li>
 
@@ -3789,6 +3789,12 @@ GMM（热度：773720）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%80%AA%E4%B8%8D%E5%BE%97%E4%BA%94%E9%98%BF%E5%93%A5%E5%92%8C%E7%B4%AB%E8%96%87%E5%8F%AA%E8%83%BD%E6%98%AF%E5%85%84%E5%A6%B9%23" target="weibo">
+怪不得五阿哥和紫薇只能是兄妹（热度：682086）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E6%95%99%E5%B8%88%E4%B8%8D%E6%98%AF%E9%93%81%E9%A5%AD%E7%A2%97%E4%BD%A0%E8%BF%98%E4%BC%9A%E5%8D%B7%E6%95%99%E8%B5%84%E5%90%97%23" target="weibo">
 当教师不是铁饭碗你还会卷教资吗（热度：681455）
 </a>
@@ -4659,6 +4665,12 @@ EXO唱了初雪（热度：600311）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E9%9B%A8%E9%94%A1%E5%8F%91%E7%A7%A6%E9%9C%84%E8%B4%A4%E5%85%AD%E5%AE%97%E7%BD%AA%23" target="weibo">
+辛雨锡发秦霄贤六宗罪（热度：580459）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AB%E7%9C%81%E8%81%94%E8%80%83%E8%AF%AD%E6%96%87%23" target="weibo">
 八省联考语文（热度：580346）
 </a>
@@ -4781,12 +4793,6 @@ A50（热度：572477）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%9C%A3%E4%BE%9D%E7%9C%8B%E5%AE%8C%E6%97%A5%E8%AE%B0%E8%A7%89%E5%BE%97%E4%B8%8D%E4%B8%8B%E8%BD%A6%E6%98%AF%E5%AF%B9%E7%9A%84%23" target="weibo">
 黄圣依看完日记觉得不下车是对的（热度：564561）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E9%9B%A8%E9%94%A1%E5%8F%91%E7%A7%A6%E9%9C%84%E8%B4%A4%E5%85%AD%E5%AE%97%E7%BD%AA%23" target="weibo">
-辛雨锡发秦霄贤六宗罪（热度：563140）
 </a>
 </li>
 
@@ -5321,12 +5327,6 @@ A50（热度：572477）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E6%92%AD%E5%87%BA%E6%8E%92%E9%9D%A2%23" target="weibo">
 国色芳华播出排面（热度：506979）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%80%AA%E4%B8%8D%E5%BE%97%E4%BA%94%E9%98%BF%E5%93%A5%E5%92%8C%E7%B4%AB%E8%96%87%E5%8F%AA%E8%83%BD%E6%98%AF%E5%85%84%E5%A6%B9%23" target="weibo">
-怪不得五阿哥和紫薇只能是兄妹（热度：506610）
 </a>
 </li>
 
