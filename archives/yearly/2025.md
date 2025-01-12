@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/12 12:40:12
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/12 13:20:52
 </p>
 </blockquote>
 <p>
@@ -359,6 +359,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E5%BE%AE%E5%8D%9AKing%23" target="weibo">
 沈腾微博King（热度：2922751）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E6%8E%89%E7%B2%89%E8%B6%85%E7%99%BE%E4%B8%87%23" target="weibo">
+黄子韬掉粉超百万（热度：2903839）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ AG挑战者杯夺冠（热度：1652837）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E8%AD%A6%E6%96%B9%E7%A7%B0%E5%B7%B2%E7%9F%A5%E6%99%93%E6%98%9F%E6%98%9F%E4%BD%8D%E7%BD%AE%23" target="weibo">
 泰国警方称已知晓星星位置（热度：1196710）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%A2%9C%E5%8D%81%E5%85%AD%E9%AA%97%E5%8E%BB%E6%B3%B0%E5%9B%BD%E7%9A%84%E7%81%AF%E5%85%89%E5%B8%88%E8%BF%98%E6%B2%A1%E5%9B%9E%E6%9D%A5%23" target="weibo">
-被颜十六骗去泰国的灯光师还没回来（热度：1192254）
 </a>
 </li>
 
