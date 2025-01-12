@@ -1,0 +1,410 @@
+{
+  "runTime": 1736685590338,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1095830,
+        "num": 1175332,
+        "word": "前童星住所遭大火烧毁窒息而死",
+        "onboard_time": 1736683340,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1046527,
+        "num": 1046527,
+        "word": "洛杉矶市长沉默沉默再沉默",
+        "onboard_time": 1736670679,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 53078,
+        "num": 864882,
+        "word": "神十九乘组的新朋友已上线",
+        "onboard_time": 1736679619,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 813208,
+        "num": 813208,
+        "word": "头一回见地下离婚",
+        "onboard_time": 1736679800,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 732967,
+        "num": 732967,
+        "word": "警方通报120打三次不通两度打110",
+        "onboard_time": 1736680880,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 695928,
+        "num": 695928,
+        "word": "嬛嬛四郎到现在没加上微信",
+        "onboard_time": 1736680218,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 615331,
+        "num": 615331,
+        "word": "加州山火对比重庆让美网友破防了",
+        "onboard_time": 1736682979,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 599981,
+        "num": 599981,
+        "word": "国色芳华",
+        "onboard_time": 1736683581,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 507904,
+        "num": 507904,
+        "word": "中国女游客在日本被撞身亡最新进展",
+        "onboard_time": 1736679499,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 488955,
+        "num": 488955,
+        "word": "现成的花少7阵容",
+        "onboard_time": 1736677819,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 864272,
+        "num": 488940,
+        "word": "魏大勋不语 只是一味地公关",
+        "onboard_time": 1736663599,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 488870,
+        "num": 488870,
+        "word": "关晓彤邵子恒同框合照",
+        "onboard_time": 1736682979,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 396978,
+        "num": 396978,
+        "word": "红领巾老师道别",
+        "onboard_time": 1736681359,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 299764,
+        "num": 299764,
+        "word": "两缉毒警曾假扮情侣如今订婚了",
+        "onboard_time": 1736665519,
+        "rank": 13,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 284486,
+        "num": 284486,
+        "word": "蓝盈莹新剧不敢直视的样子好真实",
+        "onboard_time": 1736679079,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273794,
+        "num": 273794,
+        "word": "王鹤棣发红包",
+        "onboard_time": 1736677579,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248968,
+        "num": 248968,
+        "word": "国考成绩什么时候出",
+        "onboard_time": 1736678298,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 234181,
+        "num": 234181,
+        "word": "美国加州山火现火龙卷",
+        "onboard_time": 1736656278,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 27335,
+        "num": 233384,
+        "word": "高三学生摔骨折母亲质疑洒水结冰",
+        "onboard_time": 1736685139,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90154,
+        "num": 229390,
+        "word": "洛杉矶消防局长与市长公开争吵",
+        "onboard_time": 1736681120,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 528422,
+        "num": 229173,
+        "word": "父亲卖早餐6岁女儿独自在家坠楼",
+        "onboard_time": 1736678598,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 487365,
+        "num": 226445,
+        "word": "抽中黄子韬车女子回应是否有黑幕",
+        "onboard_time": 1736682139,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147956,
+        "num": 223399,
+        "word": "被重庆碰杯火锅局震憾住了",
+        "onboard_time": 1736681839,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 222040,
+        "num": 222040,
+        "word": "敖瑞鹏红温了",
+        "onboard_time": 1736683639,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307153,
+        "num": 221223,
+        "word": "重庆观音桥锦鲤大量死亡",
+        "onboard_time": 1736672119,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166734,
+        "num": 217316,
+        "word": "洛杉矶为何学不了重庆救火",
+        "onboard_time": 1736684239,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 337251,
+        "num": 216147,
+        "word": "白鹿害羞了",
+        "onboard_time": 1736676738,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242606,
+        "num": 212557,
+        "word": "张凌赫回复丞磊粉丝",
+        "onboard_time": 1736670201,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211495,
+        "num": 211495,
+        "word": "孟子义 是你拿了他微博账号吗",
+        "onboard_time": 1736668279,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205529,
+        "num": 205529,
+        "word": "李现不语只是默默按番",
+        "onboard_time": 1736669719,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 199218,
+        "num": 199218,
+        "word": "种地吧",
+        "onboard_time": 1736684599,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189891,
+        "num": 189891,
+        "word": "邓超不语 只一味当爱情保安",
+        "onboard_time": 1736684782,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185245,
+        "num": 185245,
+        "word": "时代少年团冰红茶直播",
+        "onboard_time": 1736684660,
+        "rank": 32,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 184441,
+        "num": 184441,
+        "word": "过年烫发一烫一个不吱声",
+        "onboard_time": 1736674098,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182634,
+        "num": 182634,
+        "word": "肖战第二套也帅的没边",
+        "onboard_time": 1736683639,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139517,
+        "num": 139517,
+        "word": "哪吒敖丙白敬亭合照",
+        "onboard_time": 1736684660,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132314,
+        "num": 132314,
+        "word": "美国政府救灾不力引民众质问",
+        "onboard_time": 1736672480,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130549,
+        "num": 130549,
+        "word": "茯星高昭",
+        "onboard_time": 1736684060,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 529423,
+        "num": 129752,
+        "word": "脖颈长疣是感染HPV了吗",
+        "onboard_time": 1736683760,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128770,
+        "num": 128770,
+        "word": "向太 最能干的就是最倒霉的",
+        "onboard_time": 1736672539,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127840,
+        "num": 127840,
+        "word": "重庆张先生你干的好事火到外地了",
+        "onboard_time": 1736673800,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121242,
+        "num": 121242,
+        "word": "售后回应三轮车逆行撞上380万宾利",
+        "onboard_time": 1736683400,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119452,
+        "num": 119452,
+        "word": "一诺问花海cat什么时候吃饭",
+        "onboard_time": 1736685560,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119311,
+        "num": 119311,
+        "word": "这才是本殿的吻",
+        "onboard_time": 1736683519,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117682,
+        "num": 117682,
+        "word": "李现内娱和平鸽的含金量还在上升",
+        "onboard_time": 1736682319,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113001,
+        "num": 113001,
+        "word": "刘强东老师将10万红包捐给贫困学生",
+        "onboard_time": 1736676920,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 110674,
+        "num": 110674,
+        "word": "成本50卖5000水晶为何突然受热捧",
+        "onboard_time": 1736672839,
+        "rank": 46,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 110286,
+        "num": 110286,
+        "word": "虞书欣林一互背对方生日",
+        "onboard_time": 1736679020,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107873,
+        "num": 107873,
+        "word": "第一批回村的小狗已换新皮肤",
+        "onboard_time": 1736678658,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67064,
+        "num": 105946,
+        "word": "李现登陆少年组合火锅局",
+        "onboard_time": 1736685500,
+        "rank": 49,
+        "category": "艺人,美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#审计是党和国家监督体系的重要组成部分#"
+    }
+  }
+}
