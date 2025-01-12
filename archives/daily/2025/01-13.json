@@ -1,6 +1,6 @@
 {
   "startTime": 1736699124375,
-  "endTime": 1736714148505,
+  "endTime": 1736716821241,
   "band_list": [
     {
       "raw_hot": 1069392,
@@ -563,8 +563,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 18685,
-      "num": 18685,
+      "raw_hot": 19657,
+      "num": 19657,
       "word": "黄子韬掉粉已超300万",
       "onboard_time": 1736711051,
       "rank": 33,
@@ -585,6 +585,14 @@
       "onboard_time": 1736691563,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17659,
+      "num": 17659,
+      "word": "鸟嬛是真的",
+      "onboard_time": 1736714831,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 16768,
@@ -617,6 +625,14 @@
       "onboard_time": 1736705052,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15121,
+      "num": 15121,
+      "word": "鞠婧祎短发白背心",
+      "onboard_time": 1736710871,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 15065,

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736714148505,
+  "endTime": 1736716821241,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -39307,6 +39307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19657,
+      "num": 19657,
+      "word": "黄子韬掉粉已超300万",
+      "onboard_time": 1736711051,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 19551,
       "num": 89325,
       "word": "登陆少年微博之夜危险的爱",
@@ -39401,14 +39409,6 @@
       "onboard_time": 1736178202,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 18685,
-      "num": 18685,
-      "word": "黄子韬掉粉已超300万",
-      "onboard_time": 1736711051,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 18471,
@@ -39513,6 +39513,14 @@
       "onboard_time": 1735686914,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 17659,
+      "num": 17659,
+      "word": "鸟嬛是真的",
+      "onboard_time": 1736714831,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 17421,
@@ -39881,6 +39889,14 @@
       "onboard_time": 1736417540,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 15121,
+      "num": 15121,
+      "word": "鞠婧祎短发白背心",
+      "onboard_time": 1736710871,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 15065,
