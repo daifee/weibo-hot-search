@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736685590338,
+  "endTime": 1736686490995,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1923,6 +1923,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1385736,
+      "num": 1385736,
+      "word": "前童星住所遭大火烧毁窒息而死",
+      "onboard_time": 1736683340,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1384245,
       "num": 1384245,
       "word": "上4休3的好处已经显现出来了",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736588970,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1216298,
-      "num": 446672,
-      "word": "星光大赏座位",
-      "onboard_time": 1735984823,
-      "rank": 12,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736685590338,
+  "endTime": 1736686490995,
   "band_list": [
     {
       "raw_hot": 3087284,
@@ -107,6 +107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1385736,
+      "num": 1385736,
+      "word": "前童星住所遭大火烧毁窒息而死",
+      "onboard_time": 1736683340,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1311830,
       "num": 1311830,
       "word": "魏大勋不语 只是一味地公关",
@@ -161,14 +169,6 @@
       "onboard_time": 1736640438,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1095830,
-      "num": 1175332,
-      "word": "前童星住所遭大火烧毁窒息而死",
-      "onboard_time": 1736683340,
-      "rank": 0,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1085364,
@@ -379,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 689452,
+      "num": 689452,
+      "word": "加州山火对比重庆让美网友破防了",
+      "onboard_time": 1736682979,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 688193,
       "num": 688193,
       "word": "肖战为了这一刻复盘了一年",
@@ -467,14 +475,6 @@
       "category": "体育,作品衍生"
     },
     {
-      "raw_hot": 615331,
-      "num": 615331,
-      "word": "加州山火对比重庆让美网友破防了",
-      "onboard_time": 1736682979,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 613135,
       "num": 613135,
       "word": "魏大勋抽到马龙送的礼物",
@@ -548,7 +548,7 @@
     },
     {
       "raw_hot": 529423,
-      "num": 129752,
+      "num": 162920,
       "word": "脖颈长疣是感染HPV了吗",
       "onboard_time": 1736683760,
       "rank": 38,
@@ -612,7 +612,7 @@
     },
     {
       "raw_hot": 487365,
-      "num": 226445,
+      "num": 257596,
       "word": "抽中黄子韬车女子回应是否有黑幕",
       "onboard_time": 1736682139,
       "rank": 21,
@@ -763,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365949,
+      "num": 365949,
+      "word": "大奉打更人口碑逆跌",
+      "onboard_time": 1736685740,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 365159,
       "num": 280552,
       "word": "李现公主抱杨紫",
@@ -785,6 +793,14 @@
       "onboard_time": 1736639656,
       "rank": 13,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 341446,
+      "num": 341446,
+      "word": "敖瑞鹏红温了",
+      "onboard_time": 1736683639,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 340667,
@@ -979,6 +995,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 288996,
+      "num": 288996,
+      "word": "高三学生摔骨折母亲质疑洒水结冰",
+      "onboard_time": 1736685139,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 288190,
       "num": 288190,
       "word": "赵丽颖宠哪吒的心藏不住",
@@ -1115,6 +1139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225326,
+      "num": 225326,
+      "word": "时代少年团冰红茶直播",
+      "onboard_time": 1736684660,
+      "rank": 32,
+      "category": "艺人,美食"
+    },
+    {
       "raw_hot": 223480,
       "num": 223480,
       "word": "孟子义感谢张钧甯给九重紫打call",
@@ -1128,14 +1160,6 @@
       "word": "陈建斌蒋勤勤 真纯元cp",
       "onboard_time": 1736647400,
       "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 222040,
-      "num": 222040,
-      "word": "敖瑞鹏红温了",
-      "onboard_time": 1736683639,
-      "rank": 23,
       "category": "剧集"
     },
     {
@@ -1201,6 +1225,14 @@
       "onboard_time": 1736645060,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211410,
+      "num": 211410,
+      "word": "种地吧",
+      "onboard_time": 1736684599,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 209332,
@@ -1315,6 +1347,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 203047,
+      "num": 203047,
+      "word": "邵子恒向关晓彤道歉了",
+      "onboard_time": 1736685979,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 201844,
       "num": 201844,
       "word": "祝绪丹杨仕泽 要是你在就好了",
@@ -1339,12 +1379,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 199218,
-      "num": 199218,
-      "word": "种地吧",
-      "onboard_time": 1736684599,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 199208,
+      "num": 199208,
+      "word": "一诺问花海cat什么时候吃饭",
+      "onboard_time": 1736685560,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 198827,
@@ -1539,14 +1579,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 185245,
-      "num": 185245,
-      "word": "时代少年团冰红茶直播",
-      "onboard_time": 1736684660,
-      "rank": 32,
-      "category": "艺人,美食"
-    },
-    {
       "raw_hot": 185175,
       "num": 185175,
       "word": "王俊凯默默提醒田华老师",
@@ -1611,6 +1643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 178087,
+      "num": 257553,
+      "word": "被重庆碰杯火锅局震憾住了",
+      "onboard_time": 1736681839,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 176612,
       "num": 176612,
       "word": "白月梵星台词含金量",
@@ -1641,6 +1681,14 @@
       "onboard_time": 1736606429,
       "rank": 48,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 172894,
+      "num": 172894,
+      "word": "林一生日会",
+      "onboard_time": 1736685979,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 172281,
@@ -1784,6 +1832,14 @@
       "word": "洛杉矶市长面对质问一言不发",
       "onboard_time": 1736670620,
       "rank": 49,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 159964,
+      "num": 498350,
+      "word": "洛杉矶消防局长与市长公开争吵",
+      "onboard_time": 1736681120,
+      "rank": 35,
       "category": "海外新闻"
     },
     {
@@ -1979,14 +2035,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 147956,
-      "num": 223399,
-      "word": "被重庆碰杯火锅局震憾住了",
-      "onboard_time": 1736681839,
-      "rank": 22,
-      "category": "美食"
-    },
-    {
       "raw_hot": 146946,
       "num": 329567,
       "word": "大马赛石宇奇男单冠军",
@@ -2091,6 +2139,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 139624,
+      "num": 139624,
+      "word": "苏新皓烟花秀生日应援",
+      "onboard_time": 1736686100,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139517,
       "num": 139517,
       "word": "哪吒敖丙白敬亭合照",
@@ -2113,14 +2169,6 @@
       "onboard_time": 1736651119,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 136390,
-      "num": 229390,
-      "word": "洛杉矶消防局长与市长公开争吵",
-      "onboard_time": 1736681120,
-      "rank": 35,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 133516,
@@ -2217,6 +2265,14 @@
       "onboard_time": 1736663420,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129472,
+      "num": 129472,
+      "word": "仙逆",
+      "onboard_time": 1736685680,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 129041,
@@ -2355,6 +2411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 121265,
+      "num": 121265,
+      "word": "甄嬛爱不停大合唱太好哭了",
+      "onboard_time": 1736686160,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121242,
       "num": 121242,
       "word": "售后回应三轮车逆行撞上380万宾利",
@@ -2393,14 +2457,6 @@
       "onboard_time": 1736666659,
       "rank": 38,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 119452,
-      "num": 119452,
-      "word": "一诺问花海cat什么时候吃饭",
-      "onboard_time": 1736685560,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 119311,
@@ -2473,6 +2529,14 @@
       "onboard_time": 1736637794,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 114782,
+      "num": 114782,
+      "word": "一诺暗夜玫瑰造型",
+      "onboard_time": 1736686399,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 114507,
@@ -2699,6 +2763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 82996,
+      "num": 216991,
+      "word": "李现登陆少年组合火锅局",
+      "onboard_time": 1736685500,
+      "rank": 49,
+      "category": "艺人,美食"
+    },
+    {
       "raw_hot": 80856,
       "num": 361266,
       "word": "曾黎微博之夜红毯眸略",
@@ -2763,6 +2835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75359,
+      "num": 472558,
+      "word": "WBG战胜OMG",
+      "onboard_time": 1736686399,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 74762,
       "num": 207804,
       "word": "张云雷演唱会唱京韵大鼓",
@@ -2785,14 +2865,6 @@
       "onboard_time": 1736679319,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 67064,
-      "num": 105946,
-      "word": "李现登陆少年组合火锅局",
-      "onboard_time": 1736685500,
-      "rank": 49,
-      "category": "艺人,美食"
     },
     {
       "raw_hot": 65184,
@@ -2835,20 +2907,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 55828,
+      "num": 1012049,
+      "word": "神十九乘组的新朋友已上线",
+      "onboard_time": 1736679619,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 54048,
       "num": 201425,
       "word": "夏以昼 骗人是小狗",
       "onboard_time": 1736661139,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 53420,
-      "num": 1012049,
-      "word": "神十九乘组的新朋友已上线",
-      "onboard_time": 1736679619,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 53414,
@@ -3048,14 +3120,6 @@
       "word": "武警姐姐与藏族小妹妹的约定",
       "onboard_time": 1736608647,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27335,
-      "num": 233384,
-      "word": "高三学生摔骨折母亲质疑洒水结冰",
-      "onboard_time": 1736685139,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
