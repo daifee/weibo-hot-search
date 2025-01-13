@@ -1,0 +1,410 @@
+{
+  "runTime": 1736763912820,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1651533,
+        "num": 1651533,
+        "word": "煮苹果水",
+        "onboard_time": 1736760200,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 997179,
+        "num": 997179,
+        "word": "公园观赏鱼大量死亡一男子被刑拘",
+        "onboard_time": 1736758099,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47992,
+        "num": 796321,
+        "word": "我国出口规模连续第8年保持增长",
+        "onboard_time": 1736756479,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 611116,
+        "num": 611116,
+        "word": "女子把丈夫同事9人每日午餐包圆了",
+        "onboard_time": 1736760020,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 480879,
+        "num": 480879,
+        "word": "三只羊旗下账号复播主播回怼弹幕",
+        "onboard_time": 1736762120,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 959415,
+        "num": 474381,
+        "word": "被74岁刘晓庆喊大爷",
+        "onboard_time": 1736756721,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413036,
+        "num": 413036,
+        "word": "贵人鸟正式更名金鹤农业",
+        "onboard_time": 1736752338,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300854,
+        "num": 300854,
+        "word": "虞书欣大方",
+        "onboard_time": 1736755998,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 253173,
+        "num": 253173,
+        "word": "微博之夜 凤梨酥",
+        "onboard_time": 1736760200,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 242033,
+        "num": 252199,
+        "word": "重庆警方通报公园观赏鱼大量死亡",
+        "onboard_time": 1736761400,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 533646,
+        "num": 250926,
+        "word": "杨紫 养老剧",
+        "onboard_time": 1736753899,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 4913394,
+        "num": 249645,
+        "word": "泰国喊话中国游客",
+        "onboard_time": 1736756359,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 433913,
+        "num": 247191,
+        "word": "李昀锐 舒肤佳变硫磺皂",
+        "onboard_time": 1736757021,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 427493,
+        "num": 245940,
+        "word": "小红书美国appstore下载榜第一",
+        "onboard_time": 1736759719,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 353258,
+        "num": 244804,
+        "word": "金智秀solo回归预告",
+        "onboard_time": 1736761460,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 233445,
+        "num": 243822,
+        "word": "庄达菲说肖战在剧组像班长",
+        "onboard_time": 1736759960,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 242466,
+        "num": 242466,
+        "word": "梅见发声明道歉",
+        "onboard_time": 1736759119,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 64409,
+        "num": 242200,
+        "word": "梅见客服回应广告语被指歧视女性",
+        "onboard_time": 1736763319,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220786,
+        "num": 241855,
+        "word": "邓超帮惠英红追星樊振东",
+        "onboard_time": 1736759119,
+        "rank": 18,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 117323,
+        "num": 241197,
+        "word": "路人在日本被火车撞或反遭铁路公司索赔",
+        "onboard_time": 1736763020,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 327331,
+        "num": 240767,
+        "word": "叔叔让侄子做亲子鉴定才能继承遗产",
+        "onboard_time": 1736757919,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240414,
+        "num": 240414,
+        "word": "这届年轻人开始整顿年味了",
+        "onboard_time": 1736756061,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53479,
+        "num": 239320,
+        "word": "成都女大学生失联后去世排除刑案",
+        "onboard_time": 1736760080,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68597,
+        "num": 238903,
+        "word": "海阳海上火箭首飞现场热闹似过年",
+        "onboard_time": 1736758519,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238495,
+        "num": 238495,
+        "word": "2万吨车厘子到中国还有2万吨快到了",
+        "onboard_time": 1736759421,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189893,
+        "num": 236917,
+        "word": "2025川渝春晚阵容",
+        "onboard_time": 1736763559,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184123,
+        "num": 235832,
+        "word": "庆奶吃亏在看着太年轻",
+        "onboard_time": 1736745022,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165856,
+        "num": 235049,
+        "word": "2万吨智利车厘子运抵中国",
+        "onboard_time": 1736740700,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55926,
+        "num": 231949,
+        "word": "嫌探店照片丑门店有权要求删除吗",
+        "onboard_time": 1736762719,
+        "rank": 28,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 30081,
+        "num": 231114,
+        "word": "夏以昼 曾几何时",
+        "onboard_time": 1736759119,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200539,
+        "num": 229259,
+        "word": "田曦薇 甜坦",
+        "onboard_time": 1736762059,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78818,
+        "num": 227754,
+        "word": "全红婵微博年度关注女运动员",
+        "onboard_time": 1736762659,
+        "rank": 31,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 226755,
+        "num": 226755,
+        "word": "梅见酒文案",
+        "onboard_time": 1736758821,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179782,
+        "num": 179782,
+        "word": "时代少年团用爆米花当饺子馅",
+        "onboard_time": 1736756119,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168875,
+        "num": 168875,
+        "word": "张新成说丁禹兮烂梗多",
+        "onboard_time": 1736763200,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 45446,
+        "num": 164352,
+        "word": "毕业的大学生还是小孩子吗",
+        "onboard_time": 1736762479,
+        "rank": 35,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 163751,
+        "num": 163751,
+        "word": "格陵兰岛估价125亿至770亿美元",
+        "onboard_time": 1736751798,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162026,
+        "num": 162026,
+        "word": "李现两只眼睛各演各的",
+        "onboard_time": 1736761220,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160491,
+        "num": 160491,
+        "word": "王楚钦像极了过年表演才艺",
+        "onboard_time": 1736762960,
+        "rank": 38,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 158466,
+        "num": 158466,
+        "word": "白月梵星",
+        "onboard_time": 1736763319,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142331,
+        "num": 142331,
+        "word": "陈梦孙颖莎微博年度关注女运动员",
+        "onboard_time": 1736757861,
+        "rank": 40,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 142247,
+        "num": 142247,
+        "word": "宋慧乔说几乎被王家卫绑了三年",
+        "onboard_time": 1736730318,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141659,
+        "num": 141659,
+        "word": "IVE回归先行曲MV",
+        "onboard_time": 1736762600,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136598,
+        "num": 136598,
+        "word": "ADOR禁止NewJeans活动",
+        "onboard_time": 1736760140,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133240,
+        "num": 133240,
+        "word": "金靖孕反吐了十个月",
+        "onboard_time": 1736747659,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133055,
+        "num": 133055,
+        "word": "智利超92%车厘子出口中国",
+        "onboard_time": 1736743161,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53955,
+        "num": 130378,
+        "word": "TT对战LNG",
+        "onboard_time": 1736762659,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128500,
+        "num": 128500,
+        "word": "敖瑞鹏 媚眼抛给瞎子看",
+        "onboard_time": 1736756658,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125832,
+        "num": 125832,
+        "word": "洛杉矶市长双手插兜笑着回应山火遭批",
+        "onboard_time": 1736756300,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 123150,
+        "num": 123150,
+        "word": "虞书欣主动加宋雨琦联系方式",
+        "onboard_time": 1736752338,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见格林纳达总理米切尔#"
+    }
+  }
+}

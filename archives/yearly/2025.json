@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736761137312,
+  "endTime": 1736763912820,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -227,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4913394,
+      "num": 4076214,
+      "word": "泰国喊话中国游客",
+      "onboard_time": 1736756359,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 4871233,
       "num": 4871233,
       "word": "李某雪有严重精神障碍",
@@ -297,14 +305,6 @@
       "onboard_time": 1736477600,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 4076214,
-      "num": 4076214,
-      "word": "泰国喊话中国游客",
-      "onboard_time": 1736756359,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 4022283,
@@ -1515,6 +1515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1651533,
+      "num": 1651533,
+      "word": "煮苹果水",
+      "onboard_time": 1736760200,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1650334,
       "num": 1650334,
       "word": "虞书欣升咖好多",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735967359,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1255528,
-      "num": 446934,
-      "word": "陈都灵看起来好难受",
-      "onboard_time": 1735913300,
-      "rank": 13,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

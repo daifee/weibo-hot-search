@@ -1,9 +1,9 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736761137312,
+  "endTime": 1736763912820,
   "band_list": [
     {
-      "raw_hot": 4076214,
+      "raw_hot": 4913394,
       "num": 4076214,
       "word": "泰国喊话中国游客",
       "onboard_time": 1736756359,
@@ -97,6 +97,14 @@
       "onboard_time": 1736682139,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1651533,
+      "num": 1651533,
+      "word": "煮苹果水",
+      "onboard_time": 1736760200,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 1615883,
@@ -899,6 +907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 611116,
+      "num": 611116,
+      "word": "女子把丈夫同事9人每日午餐包圆了",
+      "onboard_time": 1736760020,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 603744,
       "num": 603744,
       "word": "东京新荣记就提供阴阳菜单一事道歉",
@@ -1091,6 +1107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 480879,
+      "num": 480879,
+      "word": "三只羊旗下账号复播主播回怼弹幕",
+      "onboard_time": 1736762120,
+      "rank": 4,
+      "category": "网红"
+    },
+    {
       "raw_hot": 475671,
       "num": 300205,
       "word": "赵丽颖说给微博贡献了微薄的热度",
@@ -1193,6 +1217,14 @@
       "onboard_time": 1736738480,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 427493,
+      "num": 318810,
+      "word": "小红书美国appstore下载榜第一",
+      "onboard_time": 1736759719,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 426622,
@@ -1451,12 +1483,12 @@
       "category": "体育,作品衍生"
     },
     {
-      "raw_hot": 353060,
-      "num": 353060,
-      "word": "煮苹果水",
-      "onboard_time": 1736760200,
-      "rank": 49,
-      "category": "美食"
+      "raw_hot": 353258,
+      "num": 244804,
+      "word": "金智秀solo回归预告",
+      "onboard_time": 1736761460,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 352308,
@@ -1625,14 +1657,6 @@
       "onboard_time": 1736647220,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 318810,
-      "num": 318810,
-      "word": "小红书美国appstore下载榜第一",
-      "onboard_time": 1736759719,
-      "rank": 29,
-      "category": "互联网"
     },
     {
       "raw_hot": 318387,
@@ -1883,14 +1907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 270140,
-      "num": 270140,
-      "word": "女子把丈夫同事9人每日午餐包圆了",
-      "onboard_time": 1736760020,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 269393,
       "num": 281100,
       "word": "刘宇阎鹤祥 美感与偷感的具象化",
@@ -2067,6 +2083,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 242466,
+      "num": 242466,
+      "word": "梅见发声明道歉",
+      "onboard_time": 1736759119,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 242033,
+      "num": 252199,
+      "word": "重庆警方通报公园观赏鱼大量死亡",
+      "onboard_time": 1736761400,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 240192,
       "num": 240192,
       "word": "张凌赫默默询问工作人员金靖生了没",
@@ -2081,6 +2113,14 @@
       "onboard_time": 1736737819,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 238495,
+      "num": 294863,
+      "word": "2万吨车厘子到中国还有2万吨快到了",
+      "onboard_time": 1736759421,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 238448,
@@ -2209,6 +2249,14 @@
       "onboard_time": 1736646139,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226755,
+      "num": 226755,
+      "word": "梅见酒文案",
+      "onboard_time": 1736758821,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 225950,
@@ -2667,6 +2715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200539,
+      "num": 229259,
+      "word": "田曦薇 甜坦",
+      "onboard_time": 1736762059,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200522,
       "num": 200522,
       "word": "丁禹兮领悟之时",
@@ -3001,6 +3057,14 @@
       "onboard_time": 1736694502,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 189893,
+      "num": 236917,
+      "word": "2025川渝春晚阵容",
+      "onboard_time": 1736763559,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 189792,
@@ -3419,6 +3483,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 168875,
+      "num": 168875,
+      "word": "张新成说丁禹兮烂梗多",
+      "onboard_time": 1736763200,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 168482,
       "num": 168482,
       "word": "澳网",
@@ -3449,14 +3521,6 @@
       "onboard_time": 1736690902,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 167253,
-      "num": 167253,
-      "word": "梅见发声明道歉",
-      "onboard_time": 1736759119,
-      "rank": 36,
-      "category": "财经"
     },
     {
       "raw_hot": 166734,
@@ -3531,6 +3595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 162026,
+      "num": 162026,
+      "word": "李现两只眼睛各演各的",
+      "onboard_time": 1736761220,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161990,
       "num": 150124,
       "word": "张远大学曾因恋爱离家出走",
@@ -3569,6 +3641,14 @@
       "onboard_time": 1736749159,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160491,
+      "num": 160491,
+      "word": "王楚钦像极了过年表演才艺",
+      "onboard_time": 1736762960,
+      "rank": 38,
+      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 159964,
@@ -3649,14 +3729,6 @@
       "onboard_time": 1736659100,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 157081,
-      "num": 157081,
-      "word": "梅见酒文案",
-      "onboard_time": 1736758821,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 156479,
@@ -3987,14 +4059,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 144201,
-      "num": 294863,
-      "word": "2万吨车厘子到中国还有2万吨快到了",
-      "onboard_time": 1736759421,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 143974,
       "num": 143974,
       "word": "敖瑞鹏 看你就是没经验的",
@@ -4068,11 +4132,19 @@
     },
     {
       "raw_hot": 141834,
-      "num": 141834,
+      "num": 239320,
       "word": "成都女大学生失联后去世排除刑案",
       "onboard_time": 1736760080,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141659,
+      "num": 141659,
+      "word": "IVE回归先行曲MV",
+      "onboard_time": 1736762600,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 139738,
@@ -4137,6 +4209,14 @@
       "onboard_time": 1736757800,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 136598,
+      "num": 136598,
+      "word": "ADOR禁止NewJeans活动",
+      "onboard_time": 1736760140,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 136093,
@@ -4307,14 +4387,6 @@
       "category": "艺人,美食"
     },
     {
-      "raw_hot": 131072,
-      "num": 131072,
-      "word": "ADOR禁止NewJeans活动",
-      "onboard_time": 1736760140,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 130817,
       "num": 130817,
       "word": "王者荣耀巅峰之夜",
@@ -4452,7 +4524,7 @@
     },
     {
       "raw_hot": 126232,
-      "num": 126232,
+      "num": 238903,
       "word": "海阳海上火箭首飞现场热闹似过年",
       "onboard_time": 1736758519,
       "rank": 43,
@@ -4713,6 +4785,14 @@
       "onboard_time": 1736674521,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117323,
+      "num": 241197,
+      "word": "路人在日本被火车撞或反遭铁路公司索赔",
+      "onboard_time": 1736763020,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 117202,
@@ -5267,6 +5347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 78818,
+      "num": 227754,
+      "word": "全红婵微博年度关注女运动员",
+      "onboard_time": 1736762659,
+      "rank": 31,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 78042,
       "num": 78042,
       "word": "男子打顺风车选错地点支付3600元",
@@ -5419,6 +5507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64409,
+      "num": 242200,
+      "word": "梅见客服回应广告语被指歧视女性",
+      "onboard_time": 1736763319,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64349,
       "num": 240834,
       "word": "马龙的哪句话曾激励过你",
@@ -5491,6 +5587,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 55926,
+      "num": 231949,
+      "word": "嫌探店照片丑门店有权要求删除吗",
+      "onboard_time": 1736762719,
+      "rank": 28,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 55877,
       "num": 55877,
       "word": "加沙人在帐篷里挖坑过冬",
@@ -5529,6 +5633,14 @@
       "onboard_time": 1736661139,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 53955,
+      "num": 130378,
+      "word": "TT对战LNG",
+      "onboard_time": 1736762659,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 53882,
@@ -5689,6 +5801,14 @@
       "onboard_time": 1736622793,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 45446,
+      "num": 164352,
+      "word": "毕业的大学生还是小孩子吗",
+      "onboard_time": 1736762479,
+      "rank": 35,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 45305,
@@ -5889,6 +6009,14 @@
       "onboard_time": 1736746758,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 30081,
+      "num": 231114,
+      "word": "夏以昼 曾几何时",
+      "onboard_time": 1736759119,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 28790,
