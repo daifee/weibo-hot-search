@@ -1,6 +1,6 @@
 {
   "startTime": 1736699124375,
-  "endTime": 1736749975782,
+  "endTime": 1736750763606,
   "band_list": [
     {
       "raw_hot": 2404833,
@@ -203,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 623401,
+      "num": 542789,
+      "word": "四大85花视后",
+      "onboard_time": 1736748559,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 590504,
       "num": 1080363,
       "word": "奥司他韦吃多了会耐药吗",
@@ -275,20 +283,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 443116,
+      "num": 362042,
+      "word": "王鹤棣田曦薇密室紧紧牵手",
+      "onboard_time": 1736748499,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 440525,
       "num": 440525,
       "word": "加州山火烧掉一个旧金山的面积",
       "onboard_time": 1736696120,
       "rank": 4,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 433118,
-      "num": 433118,
-      "word": "四大85花视后",
-      "onboard_time": 1736748559,
-      "rank": 8,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 427539,
@@ -313,6 +321,14 @@
       "onboard_time": 1736685979,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 418996,
+      "num": 268163,
+      "word": "吴宣仪跳舞被热议",
+      "onboard_time": 1736747178,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 416758,
@@ -379,6 +395,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 369854,
+      "num": 265541,
+      "word": "难怪老外对水果披萨那么抗拒了",
+      "onboard_time": 1736748619,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 366832,
       "num": 366832,
       "word": "刘昊然澳网上早课",
@@ -427,28 +451,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 345527,
-      "num": 345527,
-      "word": "王鹤棣田曦薇密室紧紧牵手",
-      "onboard_time": 1736748499,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 345314,
       "num": 281353,
       "word": "黄晓明说大年初一去看郭伯伯",
       "onboard_time": 1736701095,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 338887,
-      "num": 268163,
-      "word": "吴宣仪跳舞被热议",
-      "onboard_time": 1736747178,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 338140,
@@ -497,14 +505,6 @@
       "onboard_time": 1736731998,
       "rank": 8,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 301596,
-      "num": 265541,
-      "word": "难怪老外对水果披萨那么抗拒了",
-      "onboard_time": 1736748619,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 298538,
@@ -595,12 +595,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 262723,
+      "num": 262723,
+      "word": "十个勤天直播",
+      "onboard_time": 1736748799,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262489,
       "num": 262489,
       "word": "关晓彤回应垂耳兔塑",
       "onboard_time": 1736744481,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 257395,
+      "num": 404980,
+      "word": "我国成功发射微厘空间01组卫星",
+      "onboard_time": 1736750059,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 254584,
@@ -649,14 +665,6 @@
       "onboard_time": 1736687359,
       "rank": 29,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 247659,
-      "num": 247659,
-      "word": "十个勤天直播",
-      "onboard_time": 1736748799,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 247244,
@@ -779,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217374,
+      "num": 217374,
+      "word": "泰国警方成立旅游安全行动中心",
+      "onboard_time": 1736749279,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 216206,
       "num": 216206,
       "word": "广州冻到结冰",
@@ -859,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204684,
+      "num": 204684,
+      "word": "井胧当弟弟的原因找到了",
+      "onboard_time": 1736749639,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204060,
       "num": 263740,
       "word": "美国民众质疑税金都干什么了",
@@ -905,6 +929,22 @@
       "onboard_time": 1736744661,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198007,
+      "num": 198007,
+      "word": "丁禹兮曾被鱼刺卡住过",
+      "onboard_time": 1736750599,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 197799,
+      "num": 197799,
+      "word": "蔡徐坤潮男出街",
+      "onboard_time": 1736750718,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 197689,
@@ -963,11 +1003,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189249,
+      "num": 262737,
+      "word": "金靖说可以演虞书欣妈妈",
+      "onboard_time": 1736749459,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 188850,
       "num": 188850,
       "word": "胖东来规定不允许不喜欢自己的工作",
       "onboard_time": 1736740639,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188629,
+      "num": 188629,
+      "word": "泰国警方称要重塑全球游客的信任",
+      "onboard_time": 1736749819,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -1116,7 +1172,7 @@
     },
     {
       "raw_hot": 172105,
-      "num": 249485,
+      "num": 256399,
       "word": "王曼昱说正在找回自己",
       "onboard_time": 1736748198,
       "rank": 24,
@@ -1147,14 +1203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160889,
-      "num": 160889,
-      "word": "泰国警方成立旅游安全行动中心",
-      "onboard_time": 1736749279,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 160836,
       "num": 226370,
       "word": "国色芳华爱人的眼睛是第八大洋",
@@ -1171,6 +1219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 159498,
+      "num": 159498,
+      "word": "宣璐饰演任盈盈",
+      "onboard_time": 1736750479,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 159136,
       "num": 159136,
       "word": "成本36块一锅做了10个菜",
@@ -1185,14 +1241,6 @@
       "onboard_time": 1736745320,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157770,
-      "num": 225692,
-      "word": "金靖说可以演虞书欣妈妈",
-      "onboard_time": 1736749459,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 157273,
@@ -1256,14 +1304,6 @@
       "word": "大逃脱5阵容",
       "onboard_time": 1736732478,
       "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 148893,
-      "num": 148893,
-      "word": "井胧当弟弟的原因找到了",
-      "onboard_time": 1736749639,
-      "rank": 42,
       "category": "综艺"
     },
     {
@@ -1371,14 +1411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135171,
-      "num": 135171,
-      "word": "泰国警方称要重塑全球游客的信任",
-      "onboard_time": 1736749819,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134675,
       "num": 134675,
       "word": "井胧给井迪紧急形象公关",
@@ -1393,6 +1425,14 @@
       "onboard_time": 1736732959,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 133881,
+      "num": 133881,
+      "word": "离岸人民币大涨近百点",
+      "onboard_time": 1736748259,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 133282,
@@ -1427,12 +1467,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 128060,
-      "num": 128060,
-      "word": "离岸人民币大涨近百点",
-      "onboard_time": 1736748259,
-      "rank": 49,
-      "category": "财经"
+      "raw_hot": 127706,
+      "num": 127706,
+      "word": "让刘晓庆吃饱",
+      "onboard_time": 1736750718,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 125110,
@@ -2027,6 +2067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 19997,
+      "num": 314258,
+      "word": "辞职自学法律她为狗狗维权八百多天",
+      "onboard_time": 1736750179,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19702,
       "num": 181878,
       "word": "大奉打更人进入腾讯爆款俱乐部",
@@ -2072,6 +2120,14 @@
       "word": "隔天如换季式降温",
       "onboard_time": 1736705052,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15566,
+      "num": 262733,
+      "word": "养老院门诊负责人诈骗医保基金被抓",
+      "onboard_time": 1736750418,
+      "rank": 19,
       "category": "民生新闻"
     },
     {

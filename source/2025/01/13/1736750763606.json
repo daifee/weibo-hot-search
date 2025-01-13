@@ -1,0 +1,410 @@
+{
+  "runTime": 1736750763606,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 828924,
+        "num": 1132627,
+        "word": "尹锡悦呼吁韩国政府支援加州山火",
+        "onboard_time": 1736744000,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 701456,
+        "num": 701456,
+        "word": "国色芳华剧方致歉",
+        "onboard_time": 1736741720,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33483,
+        "num": 648542,
+        "word": "西藏震后安置正在加紧进行",
+        "onboard_time": 1736736677,
+        "rank": 2,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 856578,
+        "num": 643951,
+        "word": "金靖孕反吐了十个月",
+        "onboard_time": 1736747659,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 617571,
+        "num": 617571,
+        "word": "2万吨智利车厘子运抵中国",
+        "onboard_time": 1736740700,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 592086,
+        "num": 592086,
+        "word": "智利超92%车厘子出口中国",
+        "onboard_time": 1736743161,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 662563,
+        "num": 543042,
+        "word": "孙茜含泪拥抱孙俪",
+        "onboard_time": 1736748080,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 623401,
+        "num": 542789,
+        "word": "四大85花视后",
+        "onboard_time": 1736748559,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 419084,
+        "num": 419084,
+        "word": "冲动订购19800元内衣隔天能退吗",
+        "onboard_time": 1736742380,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257395,
+        "num": 404980,
+        "word": "我国成功发射微厘空间01组卫星",
+        "onboard_time": 1736750059,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 547647,
+        "num": 390724,
+        "word": "庆奶吃亏在看着太年轻",
+        "onboard_time": 1736745022,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 505650,
+        "num": 385929,
+        "word": "12306一天拒绝异常登录3982万次",
+        "onboard_time": 1736738480,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443116,
+        "num": 362042,
+        "word": "王鹤棣田曦薇密室紧紧牵手",
+        "onboard_time": 1736748499,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354574,
+        "num": 354574,
+        "word": "司机不给消防车让道称以为谁喝多了",
+        "onboard_time": 1736742440,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19997,
+        "num": 314258,
+        "word": "辞职自学法律她为狗狗维权八百多天",
+        "onboard_time": 1736750179,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305815,
+        "num": 305815,
+        "word": "加州山火烧掉一个旧金山的面积",
+        "onboard_time": 1736696120,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 277386,
+        "num": 277386,
+        "word": "东部战区代表团将访问日本",
+        "onboard_time": 1736747299,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 262738,
+        "num": 262738,
+        "word": "王楚钦小说里的顶级大学生",
+        "onboard_time": 1736743222,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189249,
+        "num": 262737,
+        "word": "金靖说可以演虞书欣妈妈",
+        "onboard_time": 1736749459,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15566,
+        "num": 262733,
+        "word": "养老院门诊负责人诈骗医保基金被抓",
+        "onboard_time": 1736750418,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 606854,
+        "num": 262730,
+        "word": "宋慧乔说几乎被王家卫绑了三年",
+        "onboard_time": 1736730318,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 418996,
+        "num": 262728,
+        "word": "吴宣仪跳舞被热议",
+        "onboard_time": 1736747178,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369854,
+        "num": 262724,
+        "word": "难怪老外对水果披萨那么抗拒了",
+        "onboard_time": 1736748619,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 262723,
+        "num": 262723,
+        "word": "十个勤天直播",
+        "onboard_time": 1736748799,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142437,
+        "num": 256399,
+        "word": "王曼昱说正在找回自己",
+        "onboard_time": 1736748198,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254919,
+        "num": 254919,
+        "word": "我国成功发射一箭10星",
+        "onboard_time": 1736748799,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 245373,
+        "num": 245373,
+        "word": "朋友圈先私密24小时再公开",
+        "onboard_time": 1736694320,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217374,
+        "num": 217374,
+        "word": "泰国警方成立旅游安全行动中心",
+        "onboard_time": 1736749279,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 208430,
+        "num": 208430,
+        "word": "Angelababy窗台序曲大片",
+        "onboard_time": 1736748559,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 125953,
+        "num": 205181,
+        "word": "国色芳华爱人的眼睛是第八大洋",
+        "onboard_time": 1736749159,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204684,
+        "num": 204684,
+        "word": "井胧当弟弟的原因找到了",
+        "onboard_time": 1736749639,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198007,
+        "num": 198007,
+        "word": "丁禹兮曾被鱼刺卡住过",
+        "onboard_time": 1736750599,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197799,
+        "num": 197799,
+        "word": "蔡徐坤潮男出街",
+        "onboard_time": 1736750718,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 188946,
+        "num": 188946,
+        "word": "淄博职业学院升本",
+        "onboard_time": 1736747299,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 188629,
+        "num": 188629,
+        "word": "泰国警方称要重塑全球游客的信任",
+        "onboard_time": 1736749819,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185761,
+        "num": 185761,
+        "word": "女儿溺亡女子怪妹妹没看好索赔90万",
+        "onboard_time": 1736728459,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179573,
+        "num": 179573,
+        "word": "教育部拟同意设置14所本科高校",
+        "onboard_time": 1736740521,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 165905,
+        "num": 165905,
+        "word": "惠英红给刘诗诗宋佳和自己写剧本",
+        "onboard_time": 1736747839,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159498,
+        "num": 159498,
+        "word": "宣璐饰演任盈盈",
+        "onboard_time": 1736750479,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146639,
+        "num": 146639,
+        "word": "肖战打戏",
+        "onboard_time": 1736748379,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141583,
+        "num": 141583,
+        "word": "人大教授建议年轻人不要扎堆搞AI",
+        "onboard_time": 1736749279,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 139218,
+        "num": 139218,
+        "word": "北京将新增1所本科高校",
+        "onboard_time": 1736745022,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 138516,
+        "num": 138516,
+        "word": "李现说杨紫朋友圈最有趣",
+        "onboard_time": 1736742620,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135980,
+        "num": 135980,
+        "word": "女子肉毒素中毒用了半年开塞露",
+        "onboard_time": 1736734098,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133881,
+        "num": 133881,
+        "word": "离岸人民币大涨近百点",
+        "onboard_time": 1736748259,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 129564,
+        "num": 129564,
+        "word": "关晓彤回应垂耳兔塑",
+        "onboard_time": 1736744481,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127706,
+        "num": 127706,
+        "word": "让刘晓庆吃饱",
+        "onboard_time": 1736750718,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126974,
+        "num": 126974,
+        "word": "刘宇阎鹤祥 美感与偷感的具象化",
+        "onboard_time": 1736749219,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127095,
+        "num": 126974,
+        "word": "阴阳师蛇年新春版本",
+        "onboard_time": 1736749099,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126827,
+        "num": 126827,
+        "word": "成本36块一锅做了10个菜",
+        "onboard_time": 1736746160,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#要继续推动冰雪运动普及发展#"
+    }
+  }
+}
