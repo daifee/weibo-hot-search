@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736739177850,
+  "endTime": 1736739905273,
   "band_list": [
     {
       "raw_hot": 3087284,
@@ -139,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1366414,
+      "num": 1366414,
+      "word": "国色芳华妆造被指抄袭",
+      "onboard_time": 1736736978,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1340542,
       "num": 990884,
       "word": "女儿溺亡女子怪妹妹没看好索赔90万",
@@ -153,14 +161,6 @@
       "onboard_time": 1736663599,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1307497,
-      "num": 1307497,
-      "word": "国色芳华妆造被指抄袭",
-      "onboard_time": 1736736978,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 1285128,
@@ -315,6 +315,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 950190,
+      "num": 306532,
+      "word": "王楚钦是国乒首个00后世界冠军",
+      "onboard_time": 1736737338,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 950152,
       "num": 950152,
       "word": "美国运动员大火中失去10枚奥运奖牌",
@@ -409,14 +417,6 @@
       "onboard_time": 1736692401,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 816188,
-      "num": 306532,
-      "word": "王楚钦是国乒首个00后世界冠军",
-      "onboard_time": 1736737338,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 813208,
@@ -923,6 +923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 432898,
+      "num": 432898,
+      "word": "12306一天拒绝异常登录3982万次",
+      "onboard_time": 1736738480,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 426622,
       "num": 426622,
       "word": "姚晨拍的马龙",
@@ -969,6 +977,14 @@
       "onboard_time": 1736644639,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 400476,
+      "num": 340276,
+      "word": "鸡腿诺回应程鑫凯",
+      "onboard_time": 1736737819,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 399400,
@@ -1043,6 +1059,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 389525,
+      "num": 385967,
+      "word": "异人之下2定档",
+      "onboard_time": 1736737878,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 388808,
+      "num": 388808,
+      "word": "等国考成绩",
+      "onboard_time": 1736735478,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 385674,
       "num": 385674,
       "word": "警方回应观音桥锦鲤大量死亡",
@@ -1051,28 +1083,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 383070,
-      "num": 383070,
-      "word": "等国考成绩",
-      "onboard_time": 1736735478,
-      "rank": 24,
-      "category": "教育"
-    },
-    {
       "raw_hot": 382460,
       "num": 382460,
       "word": "重庆张先生你干的好事火到外地了",
       "onboard_time": 1736673800,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 376924,
-      "num": 376924,
-      "word": "异人之下2定档",
-      "onboard_time": 1736737878,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 373460,
@@ -1091,12 +1107,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 370044,
+      "num": 335202,
+      "word": "苏新皓方声明",
+      "onboard_time": 1736738480,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 365159,
       "num": 280552,
       "word": "李现公主抱杨紫",
       "onboard_time": 1736666419,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 361957,
+      "num": 332823,
+      "word": "封神2芭莎预告",
+      "onboard_time": 1736737638,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 361005,
@@ -1275,6 +1307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 312075,
+      "num": 312075,
+      "word": "丁禹兮怕有刺的鱼",
+      "onboard_time": 1736737338,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 311688,
       "num": 343366,
       "word": "洛杉矶山火死亡升至24人",
@@ -1291,28 +1331,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 310198,
-      "num": 310198,
-      "word": "丁禹兮怕有刺的鱼",
-      "onboard_time": 1736737338,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 308264,
       "num": 308264,
       "word": "第五人格",
       "onboard_time": 1736657059,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 305791,
-      "num": 305791,
-      "word": "鸡腿诺回应程鑫凯",
-      "onboard_time": 1736737819,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 304617,
@@ -1353,6 +1377,14 @@
       "onboard_time": 1736666118,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 298538,
+      "num": 298538,
+      "word": "千朵桃花清冷佛子有脸了",
+      "onboard_time": 1736738540,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 297278,
@@ -1403,28 +1435,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 284948,
-      "num": 284948,
-      "word": "千朵桃花清冷佛子有脸了",
-      "onboard_time": 1736738540,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 283616,
       "num": 283616,
       "word": "王俊凯终于来了",
       "onboard_time": 1736602529,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 280268,
-      "num": 280268,
-      "word": "封神2芭莎预告",
-      "onboard_time": 1736737638,
-      "rank": 39,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 278077,
@@ -1587,6 +1603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238448,
+      "num": 238448,
+      "word": "三十岁回村世界变得安静了",
+      "onboard_time": 1736738838,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 236697,
       "num": 194982,
       "word": "黄晓明叫肖战郭伯伯",
@@ -1601,6 +1625,14 @@
       "onboard_time": 1736651239,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 235125,
+      "num": 235125,
+      "word": "如何取消朋友圈点赞动态通知",
+      "onboard_time": 1736739438,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 234121,
@@ -1649,6 +1681,14 @@
       "onboard_time": 1736659221,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 228812,
+      "num": 302168,
+      "word": "为何进口药越来越难买",
+      "onboard_time": 1736737579,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 228364,
@@ -1715,6 +1755,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 221396,
+      "num": 238837,
+      "word": "肖战心向光明身在江湖",
+      "onboard_time": 1736739138,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 218725,
       "num": 218725,
       "word": "曾黎7米非遗剪纸裙设计者发声",
@@ -1769,14 +1817,6 @@
       "onboard_time": 1736650879,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 212787,
-      "num": 233942,
-      "word": "苏新皓方声明",
-      "onboard_time": 1736738480,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 212698,
@@ -2043,14 +2083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199732,
-      "num": 199732,
-      "word": "12306一天拒绝异常登录3982万次",
-      "onboard_time": 1736738480,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 199631,
       "num": 199631,
       "word": "金俊勉哭了",
@@ -2227,6 +2259,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 191771,
+      "num": 191771,
+      "word": "大奉打更人团综定档",
+      "onboard_time": 1736738658,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 191067,
+      "num": 191067,
+      "word": "国色芳华高开高走",
+      "onboard_time": 1736739020,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190962,
       "num": 190962,
       "word": "一诺再获KPL年度最受欢迎选手",
@@ -2249,6 +2297,14 @@
       "onboard_time": 1736694502,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 190096,
+      "num": 211291,
+      "word": "肖战给阿云嘎安利射雕英雄传",
+      "onboard_time": 1736739317,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 189792,
@@ -2275,11 +2331,11 @@
       "category": "美食"
     },
     {
-      "raw_hot": 188514,
-      "num": 188514,
-      "word": "大奉打更人团综定档",
-      "onboard_time": 1736738658,
-      "rank": 34,
+      "raw_hot": 188467,
+      "num": 188467,
+      "word": "永夜星河年度最值得被爱剧粉奖",
+      "onboard_time": 1736739258,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -2435,6 +2491,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 173909,
+      "num": 173909,
+      "word": "2025一大批大国重器来了",
+      "onboard_time": 1736739438,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 173808,
       "num": 173808,
       "word": "守护甜心 亚梦黑化",
@@ -2529,6 +2593,14 @@
       "onboard_time": 1736659280,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 170036,
+      "num": 170036,
+      "word": "宣璐领衔主演笑傲江湖",
+      "onboard_time": 1736739678,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 169391,
@@ -2667,6 +2739,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 159748,
+      "num": 261558,
+      "word": "美国民众质疑税金都干什么了",
+      "onboard_time": 1736738238,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 159012,
       "num": 159012,
       "word": "敖瑞鹏看看腰",
@@ -2700,7 +2780,7 @@
     },
     {
       "raw_hot": 156479,
-      "num": 156479,
+      "num": 240004,
       "word": "西藏定日6.8级地震遇难同胞悼念仪式",
       "onboard_time": 1736738358,
       "rank": 36,
@@ -2803,14 +2883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 152017,
-      "num": 152017,
-      "word": "国色芳华高开高走",
-      "onboard_time": 1736739020,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 150813,
       "num": 164965,
       "word": "重庆大哥帮山东货车司机开山路",
@@ -2841,14 +2913,6 @@
       "onboard_time": 1736732478,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 150307,
-      "num": 150307,
-      "word": "三十岁回村世界变得安静了",
-      "onboard_time": 1736738838,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 150240,
@@ -2897,6 +2961,14 @@
       "onboard_time": 1736666539,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 148365,
+      "num": 148365,
+      "word": "尹子维领衔主演笑傲江湖",
+      "onboard_time": 1736739739,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 148347,
@@ -2977,6 +3049,14 @@
       "onboard_time": 1736615717,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144650,
+      "num": 144650,
+      "word": "泽连斯基称乌可参与加州山火扑救",
+      "onboard_time": 1736739198,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 143681,
@@ -3299,14 +3379,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 127629,
-      "num": 302168,
-      "word": "为何进口药越来越难买",
-      "onboard_time": 1736737579,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 127394,
       "num": 104049,
       "word": "国色芳华名场面callback",
@@ -3505,14 +3577,6 @@
       "onboard_time": 1736661919,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 117860,
-      "num": 224446,
-      "word": "肖战心向光明身在江湖",
-      "onboard_time": 1736739138,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 117832,
@@ -3939,14 +4003,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 89087,
-      "num": 261558,
-      "word": "美国民众质疑税金都干什么了",
-      "onboard_time": 1736738238,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 88905,
       "num": 147553,
       "word": "郑钦文挽救三个盘点",
@@ -4155,6 +4211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64349,
+      "num": 240834,
+      "word": "马龙的哪句话曾激励过你",
+      "onboard_time": 1736739198,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61946,
       "num": 61946,
       "word": "阿森纳4比6曼联",
@@ -4201,6 +4265,14 @@
       "onboard_time": 1736679619,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 55122,
+      "num": 317891,
+      "word": "市监局称正在完善预制菜标准体系",
+      "onboard_time": 1736739438,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55077,
@@ -4435,6 +4507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37393,
+      "num": 243483,
+      "word": "有些留学中介为啥这么乱",
+      "onboard_time": 1736739499,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37081,
       "num": 78921,
       "word": "洛杉矶山火前后街景对比",
@@ -4625,6 +4705,14 @@
       "onboard_time": 1736706613,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 16283,
+      "num": 236663,
+      "word": "地板价药品质量有保障吗",
+      "onboard_time": 1736739558,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15917,

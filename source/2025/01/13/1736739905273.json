@@ -1,0 +1,410 @@
+{
+  "runTime": 1736739905273,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1366414,
+        "num": 1366414,
+        "word": "国色芳华妆造被指抄袭",
+        "onboard_time": 1736736978,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 432898,
+        "num": 432898,
+        "word": "12306一天拒绝异常登录3982万次",
+        "onboard_time": 1736738480,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33444,
+        "num": 402749,
+        "word": "西藏震后安置正在加紧进行",
+        "onboard_time": 1736736677,
+        "rank": 2,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 815719,
+        "num": 398582,
+        "word": "女儿溺亡女子怪妹妹没看好索赔90万",
+        "onboard_time": 1736728459,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 465633,
+        "num": 397010,
+        "word": "电影笑傲江湖定档春节档",
+        "onboard_time": 1736735179,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 388808,
+        "num": 388808,
+        "word": "等国考成绩",
+        "onboard_time": 1736735478,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 389525,
+        "num": 385967,
+        "word": "异人之下2定档",
+        "onboard_time": 1736737878,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382996,
+        "num": 382996,
+        "word": "加州山火烧掉一个旧金山的面积",
+        "onboard_time": 1736696120,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 373256,
+        "num": 373256,
+        "word": "宋佳晒虞书欣拍的她",
+        "onboard_time": 1736732778,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341598,
+        "num": 341598,
+        "word": "台积电4nm芯片量产",
+        "onboard_time": 1736733498,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 400476,
+        "num": 340276,
+        "word": "鸡腿诺回应程鑫凯",
+        "onboard_time": 1736737819,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 370044,
+        "num": 335202,
+        "word": "苏新皓方声明",
+        "onboard_time": 1736738480,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361957,
+        "num": 332823,
+        "word": "封神2芭莎预告",
+        "onboard_time": 1736737638,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 328306,
+        "num": 328306,
+        "word": "奥司他韦吃多了会耐药吗",
+        "onboard_time": 1736726417,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 55122,
+        "num": 317891,
+        "word": "市监局称正在完善预制菜标准体系",
+        "onboard_time": 1736739438,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 312075,
+        "num": 312075,
+        "word": "丁禹兮怕有刺的鱼",
+        "onboard_time": 1736737338,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298538,
+        "num": 298538,
+        "word": "千朵桃花清冷佛子有脸了",
+        "onboard_time": 1736738540,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243607,
+        "num": 243607,
+        "word": "西藏悼念定日6.8级地震遇难同胞",
+        "onboard_time": 1736732358,
+        "rank": 17,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 37393,
+        "num": 243483,
+        "word": "有些留学中介为啥这么乱",
+        "onboard_time": 1736739499,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159748,
+        "num": 242829,
+        "word": "美国民众质疑税金都干什么了",
+        "onboard_time": 1736738238,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1458991,
+        "num": 242077,
+        "word": "宋慧乔说几乎被王家卫绑了三年",
+        "onboard_time": 1736730318,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 950190,
+        "num": 242008,
+        "word": "王楚钦是国乒首个00后世界冠军",
+        "onboard_time": 1736737338,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 483702,
+        "num": 241114,
+        "word": "黄子韬称不要让他站高再跌下",
+        "onboard_time": 1736730019,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64349,
+        "num": 240834,
+        "word": "马龙的哪句话曾激励过你",
+        "onboard_time": 1736739198,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132909,
+        "num": 240004,
+        "word": "西藏定日6.8级地震遇难同胞悼念仪式",
+        "onboard_time": 1736738358,
+        "rank": 24,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 278376,
+        "num": 239647,
+        "word": "朋友圈先私密24小时再公开",
+        "onboard_time": 1736694320,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 274372,
+        "num": 239071,
+        "word": "女子肉毒素中毒用了半年开塞露",
+        "onboard_time": 1736734098,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221396,
+        "num": 238837,
+        "word": "肖战心向光明身在江湖",
+        "onboard_time": 1736739138,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 238448,
+        "num": 238448,
+        "word": "三十岁回村世界变得安静了",
+        "onboard_time": 1736738838,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16283,
+        "num": 236663,
+        "word": "地板价药品质量有保障吗",
+        "onboard_time": 1736739558,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235125,
+        "num": 235125,
+        "word": "如何取消朋友圈点赞动态通知",
+        "onboard_time": 1736739438,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228812,
+        "num": 228812,
+        "word": "为何进口药越来越难买",
+        "onboard_time": 1736737579,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 215644,
+        "num": 215644,
+        "word": "2025春节档影片你最期待哪部",
+        "onboard_time": 1736735179,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190096,
+        "num": 211291,
+        "word": "肖战给阿云嘎安利射雕英雄传",
+        "onboard_time": 1736739317,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207945,
+        "num": 207945,
+        "word": "胖东来不允许夫妻间家暴冷暴力",
+        "onboard_time": 1736734758,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206466,
+        "num": 206466,
+        "word": "解放军昼夜不停卸载震区救援物资",
+        "onboard_time": 1736735237,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202376,
+        "num": 202376,
+        "word": "甲流",
+        "onboard_time": 1736732239,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 192111,
+        "num": 192111,
+        "word": "西藏痛失儿女辅警曾想让儿子当公安",
+        "onboard_time": 1736736438,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191771,
+        "num": 191771,
+        "word": "大奉打更人团综定档",
+        "onboard_time": 1736738658,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191067,
+        "num": 191067,
+        "word": "国色芳华高开高走",
+        "onboard_time": 1736739020,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188467,
+        "num": 188467,
+        "word": "永夜星河年度最值得被爱剧粉奖",
+        "onboard_time": 1736739258,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182949,
+        "num": 182949,
+        "word": "一代宗师",
+        "onboard_time": 1736734518,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175105,
+        "num": 175105,
+        "word": "陈丽君贾宝玉的侧脸杀",
+        "onboard_time": 1736736139,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173909,
+        "num": 173909,
+        "word": "2025一大批大国重器来了",
+        "onboard_time": 1736739438,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170036,
+        "num": 170036,
+        "word": "宣璐领衔主演笑傲江湖",
+        "onboard_time": 1736739678,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150540,
+        "num": 150540,
+        "word": "Doinb遭遇网络攻击",
+        "onboard_time": 1736736558,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148365,
+        "num": 148365,
+        "word": "尹子维领衔主演笑傲江湖",
+        "onboard_time": 1736739739,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148152,
+        "num": 148152,
+        "word": "2025春运明天开始",
+        "onboard_time": 1736731219,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144650,
+        "num": 144650,
+        "word": "泽连斯基称乌可参与加州山火扑救",
+        "onboard_time": 1736739198,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143996,
+        "num": 143996,
+        "word": "周鸿祎1天涨粉超百万",
+        "onboard_time": 1736731339,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#要继续推动冰雪运动普及发展#"
+    }
+  }
+}
