@@ -1,6 +1,6 @@
 {
   "startTime": 1736785781963,
-  "endTime": 1736807791910,
+  "endTime": 1736810439210,
   "band_list": [
     {
       "raw_hot": 888159,
@@ -35,8 +35,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 455380,
-      "num": 470999,
+      "raw_hot": 597908,
+      "num": 790109,
       "word": "一路繁花8个人只吃了700块",
       "onboard_time": 1736786536,
       "rank": 40,
@@ -49,6 +49,14 @@
       "onboard_time": 1736777062,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 444771,
+      "num": 444771,
+      "word": "男子用杀虫剂毒死大量锦鲤被刑拘",
+      "onboard_time": 1736794991,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 439968,
@@ -171,11 +179,11 @@
       "category": "网红,美妆"
     },
     {
-      "raw_hot": 192792,
-      "num": 192792,
-      "word": "男子用杀虫剂毒死大量锦鲤被刑拘",
-      "onboard_time": 1736794991,
-      "rank": 9,
+      "raw_hot": 181777,
+      "num": 181777,
+      "word": "袜子里藏16万美元现金过海关被抓",
+      "onboard_time": 1736781559,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -195,6 +203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 165124,
+      "num": 165124,
+      "word": "洛杉矶山火蔓延居民紧急撤离",
+      "onboard_time": 1736800759,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 161724,
       "num": 161724,
       "word": "日本6.7级左右地震",
@@ -203,8 +219,16 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 150732,
-      "num": 150732,
+      "raw_hot": 160781,
+      "num": 160781,
+      "word": "目击者称观音桥死鱼装了30多袋",
+      "onboard_time": 1736802491,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156583,
+      "num": 156583,
       "word": "泰国孕妇坠崖案当事人王暖暖最新发声",
       "onboard_time": 1736793011,
       "rank": 34,
@@ -217,6 +241,14 @@
       "onboard_time": 1736783659,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145512,
+      "num": 145512,
+      "word": "李娜差点扔了法网冠军奖杯",
+      "onboard_time": 1736780301,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 144180,
@@ -259,14 +291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124003,
-      "num": 124003,
-      "word": "袜子里藏16万美元现金过海关被抓",
-      "onboard_time": 1736781559,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120291,
       "num": 120291,
       "word": "白鹿白烁角色热度周冠",
@@ -275,12 +299,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119431,
+      "num": 67429,
+      "word": "终于知道早读班主任为啥用书挡脸了",
+      "onboard_time": 1736810356,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116641,
+      "num": 116641,
+      "word": "律师谈王暖暖可能要到70岁才能离婚",
+      "onboard_time": 1736783119,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115092,
       "num": 115092,
       "word": "国色芳华最新收视率",
       "onboard_time": 1736780779,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112352,
+      "num": 112352,
+      "word": "新娘姐妹团5人中3个是世界冠军",
+      "onboard_time": 1736805732,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110828,
+      "num": 110828,
+      "word": "男子住酒店发现装修风格和医院一样",
+      "onboard_time": 1736768421,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109030,
@@ -307,28 +363,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 102808,
-      "num": 102808,
-      "word": "男子住酒店发现装修风格和医院一样",
-      "onboard_time": 1736768421,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 100281,
       "num": 100281,
       "word": "单依纯方律师声明",
       "onboard_time": 1736780180,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 99528,
-      "num": 99528,
-      "word": "李娜差点扔了法网冠军奖杯",
-      "onboard_time": 1736780301,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 95636,
@@ -347,14 +387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 93605,
-      "num": 93605,
-      "word": "律师谈王暖暖可能要到70岁才能离婚",
-      "onboard_time": 1736783119,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 93278,
       "num": 93278,
       "word": "加州山火逼近美国重要太空设施",
@@ -363,12 +395,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 90925,
-      "num": 90925,
-      "word": "洛杉矶山火蔓延居民紧急撤离",
-      "onboard_time": 1736800759,
-      "rank": 6,
-      "category": "海外新闻"
+      "raw_hot": 91371,
+      "num": 91371,
+      "word": "2025春运正式开启",
+      "onboard_time": 1736804891,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90321,
@@ -419,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82004,
+      "num": 82004,
+      "word": "当一群韩国人第一次来上海",
+      "onboard_time": 1736808793,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 80396,
       "num": 80396,
       "word": "白敬亭回应和宋亚轩聊天很干巴",
@@ -443,20 +483,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 76551,
-      "num": 76551,
-      "word": "目击者称观音桥死鱼装了30多袋",
-      "onboard_time": 1736802491,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 71776,
       "num": 71776,
       "word": "虞书欣这样的朋友",
       "onboard_time": 1736786655,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 71367,
+      "num": 67494,
+      "word": "贵人鸟改名卖粮了",
+      "onboard_time": 1736787496,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 67403,
+      "num": 67403,
+      "word": "计生局干部身中49刀21年后案件再审",
+      "onboard_time": 1736805791,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62787,
@@ -475,12 +523,20 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 53667,
-      "num": 53667,
-      "word": "贵人鸟改名卖粮了",
-      "onboard_time": 1736787496,
-      "rank": 49,
-      "category": "财经"
+      "raw_hot": 55894,
+      "num": 55894,
+      "word": "被通报的4只警犬其实非常厉害",
+      "onboard_time": 1736809634,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50290,
+      "num": 50290,
+      "word": "老人用新手机专门和骗子联系",
+      "onboard_time": 1736796491,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47185,
@@ -515,27 +571,27 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 38133,
-      "num": 59502,
-      "word": "计生局干部身中49刀21年后案件再审",
-      "onboard_time": 1736805791,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 42149,
+      "num": 67546,
+      "word": "伊朗准备好应对重大长期战争",
+      "onboard_time": 1736810356,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 38004,
-      "num": 46592,
-      "word": "老人用新手机专门和骗子联系",
-      "onboard_time": 1736796491,
+      "raw_hot": 39309,
+      "num": 39309,
+      "word": "丹麦称愿同特朗普讨论格陵兰诉求",
+      "onboard_time": 1736798892,
       "rank": 9,
-      "category": "民生新闻"
+      "category": "国际时政"
     },
     {
-      "raw_hot": 35405,
-      "num": 76604,
-      "word": "新娘姐妹团5人中3个是世界冠军",
-      "onboard_time": 1736805732,
-      "rank": 48,
+      "raw_hot": 37239,
+      "num": 120492,
+      "word": "00后女警首次骑马巡边",
+      "onboard_time": 1736809214,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -555,12 +611,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 31270,
-      "num": 36227,
-      "word": "丹麦称愿同特朗普讨论格陵兰诉求",
-      "onboard_time": 1736798892,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 32629,
+      "num": 360234,
+      "word": "我国外贸含新量还在不断上升",
+      "onboard_time": 1736773101,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 29011,
@@ -657,14 +713,6 @@
       "onboard_time": 1736783119,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 14944,
-      "num": 247146,
-      "word": "我国外贸含新量还在不断上升",
-      "onboard_time": 1736773101,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 12372,

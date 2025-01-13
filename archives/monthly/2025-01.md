@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/14 06:36:31
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/14 07:20:39
 </p>
 </blockquote>
 <p>
@@ -5139,6 +5139,12 @@ EXO唱了初雪（热度：600311）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B7%AF%E7%B9%81%E8%8A%B18%E4%B8%AA%E4%BA%BA%E5%8F%AA%E5%90%83%E4%BA%86700%E5%9D%97%23" target="weibo">
+一路繁花8个人只吃了700块（热度：597908）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%97%8F%E5%9C%B0%E9%9C%87%E5%90%8E%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%A4%9C%E6%99%9A%23" target="weibo">
 西藏地震后第一个夜晚（热度：597697）
 </a>
@@ -6005,12 +6011,6 @@ A50（热度：572477）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D4.9%E7%BA%A7%E5%B7%A6%E5%8F%B3%E5%9C%B0%E9%9C%87%23" target="weibo">
 银川4.9级左右地震（热度：509232）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E4%BD%95%E7%82%85%E6%98%AF%E4%B8%80%E8%BE%88%E5%AD%90%E7%9A%84%E5%A5%BD%E6%9C%8B%E5%8F%8B%23" target="weibo">
-谢娜何炅是一辈子的好朋友（热度：509195）
 </a>
 </li>
 
