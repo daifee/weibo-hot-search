@@ -1,6 +1,6 @@
 {
   "startTime": 1736699124375,
-  "endTime": 1736763912820,
+  "endTime": 1736764970053,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -27,20 +27,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1901452,
+      "num": 1651533,
+      "word": "煮苹果水",
+      "onboard_time": 1736760200,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1712484,
       "num": 1712484,
       "word": "贵人鸟正式更名金鹤农业",
       "onboard_time": 1736752338,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1651533,
-      "num": 1651533,
-      "word": "煮苹果水",
-      "onboard_time": 1736760200,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 1614743,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1088167,
-      "num": 1088167,
+      "num": 1152857,
       "word": "公园观赏鱼大量死亡一男子被刑拘",
       "onboard_time": 1736758099,
       "rank": 1,
@@ -267,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 713480,
+      "num": 713480,
+      "word": "女子把丈夫同事9人每日午餐包圆了",
+      "onboard_time": 1736760020,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 706357,
       "num": 706357,
       "word": "小巷人家3家代表1年后驻站重聚",
@@ -321,14 +329,6 @@
       "onboard_time": 1736751798,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 611116,
-      "num": 611116,
-      "word": "女子把丈夫同事9人每日午餐包圆了",
-      "onboard_time": 1736760020,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 590504,
@@ -387,6 +387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 488306,
+      "num": 488306,
+      "word": "梅见发声明道歉",
+      "onboard_time": 1736759119,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 484418,
       "num": 398668,
       "word": "李冰冰 有没有对我妹赵丽颖好一点",
@@ -417,6 +425,14 @@
       "onboard_time": 1736762120,
       "rank": 4,
       "category": "网红"
+    },
+    {
+      "raw_hot": 476787,
+      "num": 476787,
+      "word": "2万吨车厘子到中国还有2万吨快到了",
+      "onboard_time": 1736759421,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 475537,
@@ -468,7 +484,7 @@
     },
     {
       "raw_hot": 427493,
-      "num": 318810,
+      "num": 372141,
       "word": "小红书美国appstore下载榜第一",
       "onboard_time": 1736759719,
       "rank": 29,
@@ -555,6 +571,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 379516,
+      "num": 379516,
+      "word": "路人在日本被火车撞或反遭铁路公司索赔",
+      "onboard_time": 1736763020,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 375683,
       "num": 336361,
       "word": "老人女厕趴地上偷窥女子录下全过程",
@@ -577,6 +601,14 @@
       "onboard_time": 1736748619,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 369851,
+      "num": 369851,
+      "word": "金智秀solo回归预告",
+      "onboard_time": 1736761460,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 369100,
@@ -625,14 +657,6 @@
       "onboard_time": 1736683340,
       "rank": 13,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 353258,
-      "num": 244804,
-      "word": "金智秀solo回归预告",
-      "onboard_time": 1736761460,
-      "rank": 14,
-      "category": "音乐"
     },
     {
       "raw_hot": 352308,
@@ -723,6 +747,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 303218,
+      "num": 336729,
+      "word": "微博之夜 凤梨酥",
+      "onboard_time": 1736760200,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 298538,
       "num": 298538,
       "word": "千朵桃花清冷佛子有脸了",
@@ -787,20 +819,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 271486,
-      "num": 271486,
-      "word": "微博之夜 凤梨酥",
-      "onboard_time": 1736760200,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 270454,
       "num": 270454,
       "word": "胡冰卿新剧左脸写服右脸写不",
       "onboard_time": 1736697320,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 269740,
+      "num": 170615,
+      "word": "退出麦门入庆门",
+      "onboard_time": 1736764221,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 269393,
@@ -947,16 +979,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 242466,
-      "num": 242466,
-      "word": "梅见发声明道歉",
-      "onboard_time": 1736759119,
-      "rank": 36,
-      "category": "财经"
-    },
-    {
       "raw_hot": 242033,
-      "num": 252199,
+      "num": 378956,
       "word": "重庆警方通报公园观赏鱼大量死亡",
       "onboard_time": 1736761400,
       "rank": 9,
@@ -977,14 +1001,6 @@
       "onboard_time": 1736737819,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 238495,
-      "num": 294863,
-      "word": "2万吨车厘子到中国还有2万吨快到了",
-      "onboard_time": 1736759421,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 238448,
@@ -1107,6 +1123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217125,
+      "num": 229259,
+      "word": "田曦薇 甜坦",
+      "onboard_time": 1736762059,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217088,
       "num": 217088,
       "word": "樊振东拿完了青年赛事所有冠军",
@@ -1121,6 +1145,14 @@
       "onboard_time": 1736725576,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215656,
+      "num": 264209,
+      "word": "张新成说丁禹兮烂梗多",
+      "onboard_time": 1736763200,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 212581,
@@ -1225,14 +1257,6 @@
       "onboard_time": 1736738238,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 200539,
-      "num": 229259,
-      "word": "田曦薇 甜坦",
-      "onboard_time": 1736762059,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 200522,
@@ -1491,6 +1515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177396,
+      "num": 177396,
+      "word": "肖战在射雕剧组当卷王",
+      "onboard_time": 1736763979,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 176861,
       "num": 176861,
       "word": "北京将新增1所本科高校",
@@ -1579,12 +1611,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168875,
-      "num": 168875,
-      "word": "张新成说丁禹兮烂梗多",
-      "onboard_time": 1736763200,
-      "rank": 34,
-      "category": "作品衍生"
+      "raw_hot": 170266,
+      "num": 170266,
+      "word": "李现两只眼睛各演各的",
+      "onboard_time": 1736761220,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 167994,
@@ -1601,14 +1633,6 @@
       "onboard_time": 1736757560,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 162026,
-      "num": 162026,
-      "word": "李现两只眼睛各演各的",
-      "onboard_time": 1736761220,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 160907,
@@ -1868,7 +1892,7 @@
     },
     {
       "raw_hot": 136598,
-      "num": 136598,
+      "num": 138028,
       "word": "ADOR禁止NewJeans活动",
       "onboard_time": 1736760140,
       "rank": 48,
@@ -1939,6 +1963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132192,
+      "num": 132192,
+      "word": "SMTOWN演出服不变的理由",
+      "onboard_time": 1736764339,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 132085,
       "num": 427616,
       "word": "飞机加价选座不应成为行业惯例",
@@ -1961,6 +1993,22 @@
       "onboard_time": 1736753541,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130339,
+      "num": 130339,
+      "word": "宁嫔不语只是一味的贴合人物",
+      "onboard_time": 1736764759,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 129843,
+      "num": 242200,
+      "word": "梅见客服回应广告语被指歧视女性",
+      "onboard_time": 1736763319,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128650,
@@ -2067,6 +2115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119779,
+      "num": 172448,
+      "word": "商竣程澳网退赛",
+      "onboard_time": 1736764160,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119433,
       "num": 175836,
       "word": "恋与制作人",
@@ -2083,20 +2139,20 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 117323,
-      "num": 241197,
-      "word": "路人在日本被火车撞或反遭铁路公司索赔",
-      "onboard_time": 1736763020,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 117202,
       "num": 337073,
       "word": "20元克隆一个山寨网页",
       "onboard_time": 1736698517,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 115018,
+      "num": 115018,
+      "word": "相思令",
+      "onboard_time": 1736764639,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 113822,
@@ -2179,12 +2235,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 105838,
+      "num": 105838,
+      "word": "亚历山大NBA首个8000万年薪",
+      "onboard_time": 1736761339,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105544,
       "num": 105544,
       "word": "洛杉矶山火过火面积超过旧金山市区",
       "onboard_time": 1736733798,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 105026,
+      "num": 105026,
+      "word": "杨紫实况记录",
+      "onboard_time": 1736764939,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 104930,
@@ -2208,6 +2280,14 @@
       "word": "白鹿害羞了",
       "onboard_time": 1736676738,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 102542,
+      "num": 377106,
+      "word": "国色芳华还原大唐瑰丽",
+      "onboard_time": 1736764399,
+      "rank": 9,
       "category": "剧集"
     },
     {
@@ -2281,6 +2361,14 @@
       "onboard_time": 1736725156,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96244,
+      "num": 172040,
+      "word": "央行行长回应人民币近期贬值情况",
+      "onboard_time": 1736764820,
+      "rank": 29,
+      "category": "财经,国内时政"
     },
     {
       "raw_hot": 95477,
@@ -2481,14 +2569,6 @@
       "onboard_time": 1736751858,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 64409,
-      "num": 242200,
-      "word": "梅见客服回应广告语被指歧视女性",
-      "onboard_time": 1736763319,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 64349,
@@ -2809,6 +2889,14 @@
       "onboard_time": 1736708291,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 23311,
+      "num": 177417,
+      "word": "祁煜 小鱼宝宝",
+      "onboard_time": 1736764037,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 22238,

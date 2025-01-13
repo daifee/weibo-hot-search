@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736763912820,
+  "endTime": 1736764970053,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1107,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1901452,
+      "num": 1651533,
+      "word": "煮苹果水",
+      "onboard_time": 1736760200,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1895773,
       "num": 1895773,
       "word": "泰媒称演员王星在缅甸被找到",
@@ -1513,14 +1521,6 @@
       "onboard_time": 1736600907,
       "rank": 6,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1651533,
-      "num": 1651533,
-      "word": "煮苹果水",
-      "onboard_time": 1736760200,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 1650334,
@@ -2932,7 +2932,7 @@
     },
     {
       "raw_hot": 1088167,
-      "num": 1088167,
+      "num": 1152857,
       "word": "公园观赏鱼大量死亡一男子被刑拘",
       "onboard_time": 1736758099,
       "rank": 1,
@@ -5323,6 +5323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 713480,
+      "num": 713480,
+      "word": "女子把丈夫同事9人每日午餐包圆了",
+      "onboard_time": 1736760020,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 712620,
       "num": 712620,
       "word": "许昕再一次维护樊振东",
@@ -6465,14 +6473,6 @@
       "onboard_time": 1735896980,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 611116,
-      "num": 611116,
-      "word": "女子把丈夫同事9人每日午餐包圆了",
-      "onboard_time": 1736760020,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 610880,
@@ -8115,6 +8115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 488306,
+      "num": 488306,
+      "word": "梅见发声明道歉",
+      "onboard_time": 1736759119,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 488107,
       "num": 306915,
       "word": "蔡文静自曝试戏新喜剧之王几轮落空",
@@ -8297,6 +8305,14 @@
       "onboard_time": 1735948576,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 476787,
+      "num": 476787,
+      "word": "2万吨车厘子到中国还有2万吨快到了",
+      "onboard_time": 1736759421,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 476375,
@@ -9228,7 +9244,7 @@
     },
     {
       "raw_hot": 427493,
-      "num": 318810,
+      "num": 372141,
       "word": "小红书美国appstore下载榜第一",
       "onboard_time": 1736759719,
       "rank": 29,
@@ -10435,6 +10451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 379516,
+      "num": 379516,
+      "word": "路人在日本被火车撞或反遭铁路公司索赔",
+      "onboard_time": 1736763020,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 379273,
       "num": 382232,
       "word": "2025年第1天救了2条人命",
@@ -10697,6 +10721,14 @@
       "onboard_time": 1736748619,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 369851,
+      "num": 369851,
+      "word": "金智秀solo回归预告",
+      "onboard_time": 1736761460,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 369747,
@@ -11129,14 +11161,6 @@
       "onboard_time": 1736568020,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 353258,
-      "num": 244804,
-      "word": "金智秀solo回归预告",
-      "onboard_time": 1736761460,
-      "rank": 14,
-      "category": "音乐"
     },
     {
       "raw_hot": 353166,
@@ -12819,6 +12843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 303218,
+      "num": 336729,
+      "word": "微博之夜 凤梨酥",
+      "onboard_time": 1736760200,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 303041,
       "num": 303041,
       "word": "洛杉矶山火已致10人死亡",
@@ -14235,14 +14267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 271486,
-      "num": 271486,
-      "word": "微博之夜 凤梨酥",
-      "onboard_time": 1736760200,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 271199,
       "num": 271199,
       "word": "张峻豪余宇涵明天地球要爆炸",
@@ -14361,6 +14385,14 @@
       "onboard_time": 1735787180,
       "rank": 8,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 269740,
+      "num": 170615,
+      "word": "退出麦门入庆门",
+      "onboard_time": 1736764221,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 269510,
@@ -15707,14 +15739,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 242466,
-      "num": 242466,
-      "word": "梅见发声明道歉",
-      "onboard_time": 1736759119,
-      "rank": 36,
-      "category": "财经"
-    },
-    {
       "raw_hot": 242300,
       "num": 242300,
       "word": "肖战微博之夜人脸识别",
@@ -15764,7 +15788,7 @@
     },
     {
       "raw_hot": 242033,
-      "num": 252199,
+      "num": 378956,
       "word": "重庆警方通报公园观赏鱼大量死亡",
       "onboard_time": 1736761400,
       "rank": 9,
@@ -15952,14 +15976,6 @@
       "word": "网传日本地铁站有序实为北京西二旗",
       "onboard_time": 1735981582,
       "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 238495,
-      "num": 294863,
-      "word": "2万吨车厘子到中国还有2万吨快到了",
-      "onboard_time": 1736759421,
-      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -17499,6 +17515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217125,
+      "num": 229259,
+      "word": "田曦薇 甜坦",
+      "onboard_time": 1736762059,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217088,
       "num": 217088,
       "word": "樊振东拿完了青年赛事所有冠军",
@@ -17641,6 +17665,14 @@
       "onboard_time": 1736351122,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215656,
+      "num": 264209,
+      "word": "张新成说丁禹兮烂梗多",
+      "onboard_time": 1736763200,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 215531,
@@ -19400,14 +19432,6 @@
       "word": "月鳞绮纪",
       "onboard_time": 1735918220,
       "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 200539,
-      "num": 229259,
-      "word": "田曦薇 甜坦",
-      "onboard_time": 1736762059,
-      "rank": 30,
       "category": "剧集"
     },
     {
@@ -22603,6 +22627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177396,
+      "num": 177396,
+      "word": "肖战在射雕剧组当卷王",
+      "onboard_time": 1736763979,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 177271,
       "num": 177271,
       "word": "TF家族新年音乐会抢票",
@@ -23611,6 +23643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170266,
+      "num": 170266,
+      "word": "李现两只眼睛各演各的",
+      "onboard_time": 1736761220,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170240,
       "num": 505024,
       "word": "孟子义退场和李昀锐打招呼",
@@ -23785,14 +23825,6 @@
       "onboard_time": 1736239523,
       "rank": 35,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 168875,
-      "num": 168875,
-      "word": "张新成说丁禹兮烂梗多",
-      "onboard_time": 1736763200,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 168845,
@@ -24825,14 +24857,6 @@
       "onboard_time": 1736566162,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 162026,
-      "num": 162026,
-      "word": "李现两只眼睛各演各的",
-      "onboard_time": 1736761220,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 161990,
@@ -28668,7 +28692,7 @@
     },
     {
       "raw_hot": 136598,
-      "num": 136598,
+      "num": 138028,
       "word": "ADOR禁止NewJeans活动",
       "onboard_time": 1736760140,
       "rank": 48,
@@ -29395,6 +29419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132192,
+      "num": 132192,
+      "word": "SMTOWN演出服不变的理由",
+      "onboard_time": 1736764339,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 132142,
       "num": 320860,
       "word": "男子多次抢劫失足女性获刑十三年",
@@ -29683,6 +29715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130339,
+      "num": 130339,
+      "word": "宁嫔不语只是一味的贴合人物",
+      "onboard_time": 1736764759,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130335,
       "num": 298743,
       "word": "陈震称已收到领克律师函",
@@ -29745,6 +29785,14 @@
       "onboard_time": 1736245584,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 129843,
+      "num": 242200,
+      "word": "梅见客服回应广告语被指歧视女性",
+      "onboard_time": 1736763319,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129833,
@@ -31219,6 +31267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119779,
+      "num": 172448,
+      "word": "商竣程澳网退赛",
+      "onboard_time": 1736764160,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119774,
       "num": 119774,
       "word": "群星耀东方",
@@ -31513,14 +31569,6 @@
       "onboard_time": 1736674521,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 117323,
-      "num": 241197,
-      "word": "路人在日本被火车撞或反遭铁路公司索赔",
-      "onboard_time": 1736763020,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 117207,
@@ -31873,6 +31921,14 @@
       "onboard_time": 1736064026,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115018,
+      "num": 115018,
+      "word": "相思令",
+      "onboard_time": 1736764639,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 115016,
@@ -32899,6 +32955,14 @@
       "category": "财经,健康医疗"
     },
     {
+      "raw_hot": 105838,
+      "num": 105838,
+      "word": "亚历山大NBA首个8000万年薪",
+      "onboard_time": 1736761339,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105631,
       "num": 105631,
       "word": "檀健次告别猎罪图鉴2",
@@ -32985,6 +33049,14 @@
       "onboard_time": 1736410402,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105026,
+      "num": 105026,
+      "word": "杨紫实况记录",
+      "onboard_time": 1736764939,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 104930,
@@ -33233,6 +33305,14 @@
       "onboard_time": 1736603847,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102542,
+      "num": 377106,
+      "word": "国色芳华还原大唐瑰丽",
+      "onboard_time": 1736764399,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 102533,
@@ -33785,6 +33865,14 @@
       "onboard_time": 1735721660,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96244,
+      "num": 172040,
+      "word": "央行行长回应人民币近期贬值情况",
+      "onboard_time": 1736764820,
+      "rank": 29,
+      "category": "财经,国内时政"
     },
     {
       "raw_hot": 96175,
@@ -36305,14 +36393,6 @@
       "onboard_time": 1736751858,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 64409,
-      "num": 242200,
-      "word": "梅见客服回应广告语被指歧视女性",
-      "onboard_time": 1736763319,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 64349,
@@ -41081,6 +41161,14 @@
       "onboard_time": 1735873219,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23311,
+      "num": 177417,
+      "word": "祁煜 小鱼宝宝",
+      "onboard_time": 1736764037,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 23264,
