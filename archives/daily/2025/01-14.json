@@ -1,6 +1,6 @@
 {
   "startTime": 1736785781963,
-  "endTime": 1736788850191,
+  "endTime": 1736789900437,
   "band_list": [
     {
       "raw_hot": 888159,
@@ -35,6 +35,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 455380,
+      "num": 455380,
+      "word": "一路繁花8个人只吃了700块",
+      "onboard_time": 1736786536,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 453438,
       "num": 453438,
       "word": "金靖建议女孩一定要有正常的体重",
@@ -49,14 +57,6 @@
       "onboard_time": 1736783719,
       "rank": 5,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 421930,
-      "num": 136379,
-      "word": "一路繁花8个人只吃了700块",
-      "onboard_time": 1736786536,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 407487,
@@ -419,8 +419,16 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 49723,
-      "num": 49723,
+      "raw_hot": 62787,
+      "num": 62787,
+      "word": "一路繁花",
+      "onboard_time": 1736788874,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 60384,
+      "num": 104953,
       "word": "定日5.0级地震是目前最大余震",
       "onboard_time": 1736786716,
       "rank": 43,
@@ -459,6 +467,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 44172,
+      "num": 44172,
+      "word": "九尾蓝发",
+      "onboard_time": 1736777541,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 34505,
+      "num": 34505,
+      "word": "Zika好强",
+      "onboard_time": 1736786775,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 33778,
       "num": 172397,
       "word": "白敬亭和宋亚轩内心都很火热",
@@ -467,20 +491,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 14944,
-      "num": 246419,
-      "word": "我国外贸含新量还在不断上升",
-      "onboard_time": 1736773101,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 9632,
+      "raw_hot": 25645,
       "num": 104251,
       "word": "张新成说参演唐探有压力",
       "onboard_time": 1736780360,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 14944,
+      "num": 247146,
+      "word": "我国外贸含新量还在不断上升",
+      "onboard_time": 1736773101,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1736789900437,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 455380,
+        "num": 455380,
+        "word": "一路繁花8个人只吃了700块",
+        "onboard_time": 1736786536,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266761,
+        "num": 266761,
+        "word": "山姆回应蛋糕胚吃出白色异物",
+        "onboard_time": 1736780600,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14773,
+        "num": 247146,
+        "word": "我国外贸含新量还在不断上升",
+        "onboard_time": 1736773101,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 241222,
+        "num": 241222,
+        "word": "马化腾不希望微信送礼物功能被过度吹捧",
+        "onboard_time": 1736766199,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 183148,
+        "num": 183148,
+        "word": "BLACKPINK韩服造型",
+        "onboard_time": 1736781379,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179184,
+        "num": 179184,
+        "word": "日本地震",
+        "onboard_time": 1736772019,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 174739,
+        "num": 174739,
+        "word": "金靖建议女孩一定要有正常的体重",
+        "onboard_time": 1736777062,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173344,
+        "num": 173344,
+        "word": "丁禹兮微指破2亿",
+        "onboard_time": 1736783597,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105881,
+        "num": 105881,
+        "word": "蔡磊身体机能断崖式下降",
+        "onboard_time": 1736778741,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60384,
+        "num": 104953,
+        "word": "定日5.0级地震是目前最大余震",
+        "onboard_time": 1736786716,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253058,
+        "num": 104571,
+        "word": "妻子裸死前夫家中丈夫拒付丧葬费",
+        "onboard_time": 1736777062,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153539,
+        "num": 102696,
+        "word": "金鹤龙给热巴化的小蛇女妆",
+        "onboard_time": 1736783719,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146154,
+        "num": 102540,
+        "word": "蔡明评价李小冉",
+        "onboard_time": 1736774302,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122381,
+        "num": 100808,
+        "word": "微博之夜95生微指",
+        "onboard_time": 1736783898,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100411,
+        "num": 100411,
+        "word": "手机尾号0000000成交价70万",
+        "onboard_time": 1736769859,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99855,
+        "num": 99855,
+        "word": "2万吨车厘子到中国还有2万吨快到了",
+        "onboard_time": 1736759421,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81236,
+        "num": 81236,
+        "word": "复兴号停车场是什么未来场面",
+        "onboard_time": 1736783659,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78196,
+        "num": 78196,
+        "word": "西藏定日5.0级地震",
+        "onboard_time": 1736774901,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78002,
+        "num": 78002,
+        "word": "袜子里藏16万美元现金过海关被抓",
+        "onboard_time": 1736781559,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25645,
+        "num": 77289,
+        "word": "张新成说参演唐探有压力",
+        "onboard_time": 1736780360,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101506,
+        "num": 76362,
+        "word": "终于把车厘子和樱桃搞明白了",
+        "onboard_time": 1736771960,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 94060,
+        "num": 75769,
+        "word": "国色芳华三郎 李隆基",
+        "onboard_time": 1736781680,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85585,
+        "num": 74743,
+        "word": "小红书美国appstore下载榜第一",
+        "onboard_time": 1736759719,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 79547,
+        "num": 73743,
+        "word": "敖瑞鹏单手公主抱了白鹿",
+        "onboard_time": 1736770579,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72896,
+        "num": 72896,
+        "word": "金靖提前胖了10斤",
+        "onboard_time": 1736783538,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 70883,
+        "num": 70883,
+        "word": "日本6.7级左右地震",
+        "onboard_time": 1736773521,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 68433,
+        "num": 68433,
+        "word": "卢昱晓爸爸夸王星越台词好",
+        "onboard_time": 1736785936,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 68007,
+        "num": 68007,
+        "word": "杨幂风筝",
+        "onboard_time": 1736774180,
+        "rank": 27,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 72892,
+        "num": 67758,
+        "word": "白鹿白烁角色热度周冠",
+        "onboard_time": 1736785517,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66663,
+        "num": 66663,
+        "word": "给王鹤棣演爽了吧",
+        "onboard_time": 1736773400,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62787,
+        "num": 62787,
+        "word": "一路繁花",
+        "onboard_time": 1736788874,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61384,
+        "num": 61384,
+        "word": "虞书欣这样的朋友",
+        "onboard_time": 1736786655,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 59543,
+        "num": 59543,
+        "word": "你是否也收到过这句你在干嘛",
+        "onboard_time": 1736783838,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 57822,
+        "num": 57822,
+        "word": "肖战喊庄达菲庄庄",
+        "onboard_time": 1736772079,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 57116,
+        "num": 57116,
+        "word": "SM新男团",
+        "onboard_time": 1736781441,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 56280,
+        "num": 56280,
+        "word": "煮苹果水",
+        "onboard_time": 1736760200,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 54663,
+        "num": 54663,
+        "word": "张碧晨周深合照",
+        "onboard_time": 1736783358,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52605,
+        "num": 52605,
+        "word": "加州山火逼近美国重要太空设施",
+        "onboard_time": 1736771359,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 50447,
+        "num": 50447,
+        "word": "王暖暖离婚案已报至最高法",
+        "onboard_time": 1736769439,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49045,
+        "num": 49045,
+        "word": "男子住酒店发现装修风格和医院一样",
+        "onboard_time": 1736768421,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48304,
+        "num": 48304,
+        "word": "律师谈王暖暖可能要到70岁才能离婚",
+        "onboard_time": 1736783119,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44335,
+        "num": 44335,
+        "word": "国色芳华",
+        "onboard_time": 1736771960,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44172,
+        "num": 44172,
+        "word": "九尾蓝发",
+        "onboard_time": 1736777541,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 43757,
+        "num": 43757,
+        "word": "朱旺旺爆改",
+        "onboard_time": 1736774180,
+        "rank": 43,
+        "category": "网红,美妆"
+      },
+      {
+        "raw_hot": 43633,
+        "num": 43633,
+        "word": "白月梵星",
+        "onboard_time": 1736763319,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40457,
+        "num": 40457,
+        "word": "李娜差点扔了法网冠军奖杯",
+        "onboard_time": 1736780301,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39585,
+        "num": 39585,
+        "word": "妹妹花2小时给出月子姐姐洗头",
+        "onboard_time": 1736776761,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37200,
+        "num": 37200,
+        "word": "快递公司回应春节是否停运",
+        "onboard_time": 1736782638,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37079,
+        "num": 37079,
+        "word": "金珉奎更新ig",
+        "onboard_time": 1736780301,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34505,
+        "num": 34505,
+        "word": "Zika好强",
+        "onboard_time": 1736786775,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见格林纳达总理米切尔#"
+    }
+  }
+}
