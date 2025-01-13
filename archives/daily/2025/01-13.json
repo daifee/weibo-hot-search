@@ -1,6 +1,6 @@
 {
   "startTime": 1736699124375,
-  "endTime": 1736767183991,
+  "endTime": 1736768170260,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -163,20 +163,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 985426,
+      "num": 1157668,
+      "word": "退出麦门入庆门",
+      "onboard_time": 1736764221,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 983687,
       "num": 1157390,
       "word": "泰国警方称要重塑全球游客的信任",
       "onboard_time": 1736749819,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 969641,
-      "num": 969641,
-      "word": "退出麦门入庆门",
-      "onboard_time": 1736764221,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 957421,
@@ -299,12 +299,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 691183,
+      "num": 691183,
+      "word": "白敬亭回应和宋亚轩聊天很干巴",
+      "onboard_time": 1736765539,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 683778,
       "num": 683778,
       "word": "冲动订购19800元内衣隔天能退吗",
       "onboard_time": 1736742380,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 673285,
+      "num": 673285,
+      "word": "马化腾不希望微信送礼物功能被过度吹捧",
+      "onboard_time": 1736766199,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 646654,
@@ -473,14 +489,6 @@
       "onboard_time": 1736748499,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 442473,
-      "num": 442473,
-      "word": "白敬亭回应和宋亚轩聊天很干巴",
-      "onboard_time": 1736765539,
-      "rank": 6,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 440525,
@@ -707,8 +715,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 342662,
-      "num": 342662,
+      "raw_hot": 344321,
+      "num": 344321,
       "word": "张新成说丁禹兮烂梗多",
       "onboard_time": 1736763200,
       "rank": 34,
@@ -745,14 +753,6 @@
       "onboard_time": 1736692401,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 315203,
-      "num": 315203,
-      "word": "马化腾不希望微信送礼物功能被过度吹捧",
-      "onboard_time": 1736766199,
-      "rank": 16,
-      "category": "互联网"
     },
     {
       "raw_hot": 314508,
@@ -907,6 +907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 260577,
+      "num": 260577,
+      "word": "田曦薇 甜坦",
+      "onboard_time": 1736762059,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258426,
       "num": 258426,
       "word": "肖战2024微博之夜专访",
@@ -955,11 +963,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 252775,
-      "num": 252775,
-      "word": "田曦薇 甜坦",
-      "onboard_time": 1736762059,
-      "rank": 30,
+      "raw_hot": 252561,
+      "num": 252561,
+      "word": "白月梵星",
+      "onboard_time": 1736763319,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -977,6 +985,14 @@
       "onboard_time": 1736687359,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 247464,
+      "num": 368835,
+      "word": "生产销售有毒瘦身咖啡4人落网",
+      "onboard_time": 1736766380,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 247244,
@@ -1363,14 +1379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197865,
-      "num": 197865,
-      "word": "白月梵星",
-      "onboard_time": 1736763319,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 197799,
       "num": 197799,
       "word": "蔡徐坤潮男出街",
@@ -1515,6 +1523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182160,
+      "num": 182160,
+      "word": "大奉打更人破三万全员放饭",
+      "onboard_time": 1736766919,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181960,
       "num": 181960,
       "word": "苏新皓摄影师否认抄袭",
@@ -1529,6 +1545,14 @@
       "onboard_time": 1736739678,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 181262,
+      "num": 181262,
+      "word": "敖瑞鹏 我以前是学美术的",
+      "onboard_time": 1736767820,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 180573,
@@ -1556,7 +1580,7 @@
     },
     {
       "raw_hot": 177396,
-      "num": 177396,
+      "num": 181271,
       "word": "肖战在射雕剧组当卷王",
       "onboard_time": 1736763979,
       "rank": 25,
@@ -1787,6 +1811,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 154781,
+      "num": 154781,
+      "word": "刘晓庆把向太夸成双手托腮的少女",
+      "onboard_time": 1736766620,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 154626,
+      "num": 154626,
+      "word": "大奉打更人",
+      "onboard_time": 1736705652,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154370,
       "num": 154370,
       "word": "胡冰卿新剧再现戚百草旋风踢",
@@ -1809,14 +1849,6 @@
       "onboard_time": 1736746700,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 153326,
-      "num": 153326,
-      "word": "刘晓庆把向太夸成双手托腮的少女",
-      "onboard_time": 1736766620,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 152250,
@@ -1899,14 +1931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144786,
-      "num": 144786,
-      "word": "大奉打更人破三万全员放饭",
-      "onboard_time": 1736766919,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 144650,
       "num": 144650,
       "word": "泽连斯基称乌可参与加州山火扑救",
@@ -1921,6 +1945,14 @@
       "onboard_time": 1736751678,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143239,
+      "num": 181264,
+      "word": "救援队员救出被困废墟6天的狗",
+      "onboard_time": 1736767759,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142012,
@@ -2035,6 +2067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132605,
+      "num": 132605,
+      "word": "张元英新歌MV穿婚纱",
+      "onboard_time": 1736767519,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 132429,
       "num": 132429,
       "word": "熊猫幼崽一下就暴露了四肢不熟",
@@ -2089,6 +2129,14 @@
       "onboard_time": 1736724257,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127023,
+      "num": 125987,
+      "word": "牡丹才17岁",
+      "onboard_time": 1736765360,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 126232,
@@ -2164,7 +2212,7 @@
     },
     {
       "raw_hot": 121481,
-      "num": 117129,
+      "num": 119046,
       "word": "国色芳华 女生永远都不要回头看",
       "onboard_time": 1736766620,
       "rank": 40,
@@ -2299,14 +2347,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 108643,
-      "num": 108643,
-      "word": "牡丹才17岁",
-      "onboard_time": 1736765360,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 108214,
       "num": 96937,
       "word": "赵丽颖晒微博之夜奖杯照",
@@ -2337,6 +2377,14 @@
       "onboard_time": 1736733798,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 105401,
+      "num": 105401,
+      "word": "救援队员夸它是坚强狗",
+      "onboard_time": 1736767880,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105026,
@@ -2372,11 +2420,19 @@
     },
     {
       "raw_hot": 102773,
-      "num": 102773,
+      "num": 195256,
       "word": "人在奥运年樊振东专访",
       "onboard_time": 1736766980,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102427,
+      "num": 102427,
+      "word": "载33名中国游客游艇倾覆全部获救",
+      "onboard_time": 1736767219,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102027,
@@ -2393,6 +2449,14 @@
       "onboard_time": 1736690061,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 99662,
+      "num": 99662,
+      "word": "网约护士兴起有人月入近2万",
+      "onboard_time": 1736768059,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99422,
@@ -2683,14 +2747,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 62841,
-      "num": 351484,
-      "word": "生产销售有毒瘦身咖啡4人落网",
-      "onboard_time": 1736766380,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62434,
       "num": 243686,
       "word": "雷军学习冰雪路面漂移",
@@ -2923,14 +2979,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 33090,
-      "num": 33090,
-      "word": "大奉打更人",
-      "onboard_time": 1736705652,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 30506,
       "num": 188493,
       "word": "黄子弘凡说自己有点讨好型人格",
@@ -3097,6 +3145,14 @@
       "onboard_time": 1736702715,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11135,
+      "num": 181263,
+      "word": "郑晓龙称现在观众看剧更犀利",
+      "onboard_time": 1736768119,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 10353,

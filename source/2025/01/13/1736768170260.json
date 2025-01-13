@@ -1,0 +1,410 @@
+{
+  "runTime": 1736768170260,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 985426,
+        "num": 1157668,
+        "word": "退出麦门入庆门",
+        "onboard_time": 1736764221,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 974829,
+        "num": 974829,
+        "word": "公园观赏鱼大量死亡一男子被刑拘",
+        "onboard_time": 1736758099,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44146,
+        "num": 796029,
+        "word": "我国出口规模连续第8年保持增长",
+        "onboard_time": 1736756479,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 691183,
+        "num": 691183,
+        "word": "白敬亭回应和宋亚轩聊天很干巴",
+        "onboard_time": 1736765539,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 673285,
+        "num": 673285,
+        "word": "马化腾不希望微信送礼物功能被过度吹捧",
+        "onboard_time": 1736766199,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 547588,
+        "num": 547588,
+        "word": "女子把丈夫同事9人每日午餐包圆了",
+        "onboard_time": 1736760020,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 466458,
+        "num": 466458,
+        "word": "2万吨车厘子到中国还有2万吨快到了",
+        "onboard_time": 1736759421,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376792,
+        "num": 376792,
+        "word": "路人在日本被火车撞或反遭铁路公司索赔",
+        "onboard_time": 1736763020,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 184254,
+        "num": 371696,
+        "word": "重庆警方通报公园观赏鱼大量死亡",
+        "onboard_time": 1736761400,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 247464,
+        "num": 368835,
+        "word": "生产销售有毒瘦身咖啡4人落网",
+        "onboard_time": 1736766380,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1325391,
+        "num": 362071,
+        "word": "煮苹果水",
+        "onboard_time": 1736760200,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 404643,
+        "num": 356651,
+        "word": "杨紫 养老剧",
+        "onboard_time": 1736753899,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 354897,
+        "num": 354897,
+        "word": "李昀锐 舒肤佳变硫磺皂",
+        "onboard_time": 1736757021,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 344321,
+        "num": 344321,
+        "word": "张新成说丁禹兮烂梗多",
+        "onboard_time": 1736763200,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 329696,
+        "num": 329696,
+        "word": "三只羊旗下账号复播主播回怼弹幕",
+        "onboard_time": 1736762120,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 281300,
+        "num": 281300,
+        "word": "梅见发声明道歉",
+        "onboard_time": 1736759119,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 260577,
+        "num": 260577,
+        "word": "田曦薇 甜坦",
+        "onboard_time": 1736762059,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257774,
+        "num": 257774,
+        "word": "肖战2024微博之夜专访",
+        "onboard_time": 1736765778,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 252561,
+        "num": 252561,
+        "word": "白月梵星",
+        "onboard_time": 1736763319,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250967,
+        "num": 250967,
+        "word": "金智秀solo回归预告",
+        "onboard_time": 1736761460,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 252845,
+        "num": 246154,
+        "word": "小红书美国appstore下载榜第一",
+        "onboard_time": 1736759719,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 238313,
+        "num": 238313,
+        "word": "叔叔让侄子做亲子鉴定才能继承遗产",
+        "onboard_time": 1736757919,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230717,
+        "num": 230717,
+        "word": "贵人鸟正式更名金鹤农业",
+        "onboard_time": 1736752338,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217698,
+        "num": 217698,
+        "word": "微博之夜 凤梨酥",
+        "onboard_time": 1736760200,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91966,
+        "num": 195256,
+        "word": "人在奥运年樊振东专访",
+        "onboard_time": 1736766980,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191279,
+        "num": 191279,
+        "word": "虞书欣大方",
+        "onboard_time": 1736755998,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 182160,
+        "num": 182160,
+        "word": "大奉打更人破三万全员放饭",
+        "onboard_time": 1736766919,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121002,
+        "num": 181271,
+        "word": "肖战在射雕剧组当卷王",
+        "onboard_time": 1736763979,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143239,
+        "num": 181264,
+        "word": "救援队员救出被困废墟6天的狗",
+        "onboard_time": 1736767759,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11135,
+        "num": 181263,
+        "word": "郑晓龙称现在观众看剧更犀利",
+        "onboard_time": 1736768119,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181262,
+        "num": 181262,
+        "word": "敖瑞鹏 我以前是学美术的",
+        "onboard_time": 1736767820,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156424,
+        "num": 156424,
+        "word": "知否里的曼娘在锦囊妙录里好惨",
+        "onboard_time": 1736765118,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154781,
+        "num": 154781,
+        "word": "刘晓庆把向太夸成双手托腮的少女",
+        "onboard_time": 1736766620,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154626,
+        "num": 154626,
+        "word": "大奉打更人",
+        "onboard_time": 1736767759,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144900,
+        "num": 144900,
+        "word": "时代少年团用爆米花当饺子馅",
+        "onboard_time": 1736756119,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135820,
+        "num": 135820,
+        "word": "这届年轻人开始整顿年味了",
+        "onboard_time": 1736756061,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133799,
+        "num": 133799,
+        "word": "格陵兰岛估价125亿至770亿美元",
+        "onboard_time": 1736751798,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133759,
+        "num": 133759,
+        "word": "SMTOWN演出服不变的理由",
+        "onboard_time": 1736764339,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133386,
+        "num": 133386,
+        "word": "敖瑞鹏 媚眼抛给瞎子看",
+        "onboard_time": 1736756658,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132605,
+        "num": 132605,
+        "word": "张元英新歌MV穿婚纱",
+        "onboard_time": 1736767519,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129023,
+        "num": 129023,
+        "word": "国色芳华还原大唐瑰丽",
+        "onboard_time": 1736764399,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126058,
+        "num": 126058,
+        "word": "庆奶吃亏在看着太年轻",
+        "onboard_time": 1736745022,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127023,
+        "num": 125987,
+        "word": "牡丹才17岁",
+        "onboard_time": 1736765360,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123644,
+        "num": 123644,
+        "word": "邓超帮惠英红追星樊振东",
+        "onboard_time": 1736759119,
+        "rank": 43,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 119046,
+        "num": 119046,
+        "word": "国色芳华 女生永远都不要回头看",
+        "onboard_time": 1736766620,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118006,
+        "num": 118006,
+        "word": "王楚钦像极了过年表演才艺",
+        "onboard_time": 1736762960,
+        "rank": 45,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 105703,
+        "num": 105703,
+        "word": "陈梦孙颖莎微博年度关注女运动员",
+        "onboard_time": 1736757861,
+        "rank": 46,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 105401,
+        "num": 105401,
+        "word": "救援队员夸它是坚强狗",
+        "onboard_time": 1736767880,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102427,
+        "num": 102427,
+        "word": "载33名中国游客游艇倾覆全部获救",
+        "onboard_time": 1736767219,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99662,
+        "num": 99662,
+        "word": "网约护士兴起有人月入近2万",
+        "onboard_time": 1736768059,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见格林纳达总理米切尔#"
+    }
+  }
+}
