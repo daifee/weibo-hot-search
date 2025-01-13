@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736724943537,
+  "endTime": 1736732861477,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -689,6 +689,14 @@
       "onboard_time": 1736220502,
       "rank": 3,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 2347735,
+      "num": 2347735,
+      "word": "宋慧乔说几乎被王家卫绑了三年",
+      "onboard_time": 1736730318,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 2346899,
@@ -2019,6 +2027,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1340542,
+      "num": 357337,
+      "word": "女儿溺亡女子怪妹妹没看好索赔90万",
+      "onboard_time": 1736728459,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1339239,
       "num": 943881,
       "word": "张萌礼服",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1735808780,
       "rank": 12,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1227434,
-      "num": 1227434,
-      "word": "徐克看肖战",
-      "onboard_time": 1736609546,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1224866,
-      "num": 531868,
-      "word": "王鹤棣田曦薇拦腰抱",
-      "onboard_time": 1735978221,
-      "rank": 11,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

@@ -1,7 +1,23 @@
 {
   "startTime": 1736699124375,
-  "endTime": 1736724943537,
+  "endTime": 1736732861477,
   "band_list": [
+    {
+      "raw_hot": 2347735,
+      "num": 2347735,
+      "word": "宋慧乔说几乎被王家卫绑了三年",
+      "onboard_time": 1736730318,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1340542,
+      "num": 357337,
+      "word": "女儿溺亡女子怪妹妹没看好索赔90万",
+      "onboard_time": 1736728459,
+      "rank": 3,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1085937,
       "num": 1085937,
@@ -51,12 +67,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 787607,
+      "num": 354743,
+      "word": "苏新皓 抄袭",
+      "onboard_time": 1736730259,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 639423,
       "num": 353621,
       "word": "大奉打更人口碑逆跌",
       "onboard_time": 1736685740,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 590504,
+      "num": 590504,
+      "word": "奥司他韦吃多了会耐药吗",
+      "onboard_time": 1736726417,
+      "rank": 1,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 565728,
@@ -68,11 +100,19 @@
     },
     {
       "raw_hot": 565662,
-      "num": 194636,
+      "num": 208059,
       "word": "朋友圈先私密24小时再公开",
       "onboard_time": 1736694320,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 484418,
+      "num": 349622,
+      "word": "李冰冰 有没有对我妹赵丽颖好一点",
+      "onboard_time": 1736724737,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 423801,
@@ -81,6 +121,14 @@
       "onboard_time": 1736685979,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 416758,
+      "num": 347604,
+      "word": "三只羊旗下账号直播卖年货",
+      "onboard_time": 1736727679,
+      "rank": 7,
+      "category": "网红"
     },
     {
       "raw_hot": 399400,
@@ -115,6 +163,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 350723,
+      "num": 350723,
+      "word": "雷军解锁泼水成冰",
+      "onboard_time": 1736730318,
+      "rank": 5,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 348866,
       "num": 348866,
       "word": "王暖暖可能要到70岁才能离婚",
@@ -131,12 +187,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 339362,
+      "num": 339362,
+      "word": "黄子韬称不要让他站高再跌下",
+      "onboard_time": 1736730019,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 331322,
       "num": 331322,
       "word": "杨紫回应李现",
       "onboard_time": 1736692401,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 297128,
+      "num": 297128,
+      "word": "地震救人男孩说不想做冷漠的人",
+      "onboard_time": 1736727797,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 296681,
@@ -179,6 +251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 250222,
+      "num": 206558,
+      "word": "孕妇突然分娩陌生人的羽绒服立大功",
+      "onboard_time": 1736687359,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 247244,
       "num": 247244,
       "word": "韩国一核电站核废液泄漏",
@@ -203,12 +283,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229592,
+      "num": 229592,
+      "word": "周鸿祎1天涨粉超百万",
+      "onboard_time": 1736731339,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 218495,
       "num": 218495,
       "word": "皇马2比5巴萨",
       "onboard_time": 1736723775,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216206,
+      "num": 216206,
+      "word": "广州冻到结冰",
+      "onboard_time": 1736725576,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 212581,
@@ -219,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209796,
+      "num": 209796,
+      "word": "一路繁花里最尴尬的3分钟",
+      "onboard_time": 1736690662,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205476,
       "num": 198083,
       "word": "白鹿你被捕了",
@@ -227,12 +331,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197021,
+      "num": 197021,
+      "word": "当韩国人第一次去逛中国菜市场",
+      "onboard_time": 1736730318,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 193209,
       "num": 143480,
       "word": "导播切田曦薇 刘星分饼",
       "onboard_time": 1736688980,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 191786,
+      "num": 343366,
+      "word": "洛杉矶山火死亡升至24人",
+      "onboard_time": 1736731998,
+      "rank": 8,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 182983,
@@ -251,20 +371,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 174543,
-      "num": 174543,
-      "word": "一路繁花里最尴尬的3分钟",
-      "onboard_time": 1736690662,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 172679,
+      "num": 172679,
+      "word": "加州房屋被烧毁居民仍须继续还贷",
+      "onboard_time": 1736725576,
+      "rank": 26,
+      "category": "海外新闻"
     },
     {
-      "raw_hot": 159559,
-      "num": 136107,
-      "word": "孕妇突然分娩陌生人的羽绒服立大功",
-      "onboard_time": 1736687359,
-      "rank": 29,
-      "category": "正能量"
+      "raw_hot": 160907,
+      "num": 160907,
+      "word": "瑞思白",
+      "onboard_time": 1736729719,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 158900,
+      "num": 158900,
+      "word": "2025春运明天开始",
+      "onboard_time": 1736731219,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153800,
+      "num": 153800,
+      "word": "日本警方回应中国女游客遭列车撞亡",
+      "onboard_time": 1736727439,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148709,
@@ -283,6 +419,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 139960,
+      "num": 139960,
+      "word": "大逃脱5阵容",
+      "onboard_time": 1736732478,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136540,
       "num": 118434,
       "word": "中国电视剧年度盛典",
@@ -297,6 +441,30 @@
       "onboard_time": 1736724257,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125110,
+      "num": 125110,
+      "word": "宋佳总台视后",
+      "onboard_time": 1736724737,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 125067,
+      "num": 125067,
+      "word": "甲流",
+      "onboard_time": 1736732239,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 122359,
+      "num": 122359,
+      "word": "英雄联盟",
+      "onboard_time": 1736725516,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 122224,
@@ -347,12 +515,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 109056,
+      "num": 109056,
+      "word": "虞书欣微博之夜站姐vlog",
+      "onboard_time": 1736728099,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 108214,
       "num": 96937,
       "word": "赵丽颖晒微博之夜奖杯照",
       "onboard_time": 1736687239,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 106576,
+      "num": 106576,
+      "word": "向太写信鼓励周芯竹",
+      "onboard_time": 1736694382,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 104014,
+      "num": 104014,
+      "word": "猫 叽歪啥没看见在吵架吗",
+      "onboard_time": 1736726599,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 103804,
@@ -363,11 +555,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 103760,
-      "num": 97723,
-      "word": "向太写信鼓励周芯竹",
-      "onboard_time": 1736694382,
-      "rank": 38,
+      "raw_hot": 101083,
+      "num": 101083,
+      "word": "洛杉矶消防员没有消防车只能看火烧",
+      "onboard_time": 1736730619,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 100685,
+      "num": 100685,
+      "word": "宋佳晒虞书欣拍的她",
+      "onboard_time": 1736732778,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -401,6 +601,22 @@
       "onboard_time": 1736683581,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97955,
+      "num": 97955,
+      "word": "肖战删繁就简向心而行",
+      "onboard_time": 1736725156,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 93619,
+      "num": 93619,
+      "word": "天鹅妈妈抖翅膀掉出一只小天鹅",
+      "onboard_time": 1736726177,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 92119,
@@ -443,6 +659,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 88955,
+      "num": 155823,
+      "word": "杨紫管乐演姐妹",
+      "onboard_time": 1736732538,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85620,
       "num": 85620,
       "word": "警方回应观音桥锦鲤大量死亡",
@@ -473,6 +697,14 @@
       "onboard_time": 1736695880,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 76331,
+      "num": 339629,
+      "word": "西藏悼念定日6.8级地震遇难同胞",
+      "onboard_time": 1736732358,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 76212,
@@ -531,22 +763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 60965,
-      "num": 60965,
-      "word": "宋佳总台视后",
-      "onboard_time": 1736724737,
-      "rank": 37,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 58949,
-      "num": 58949,
-      "word": "李冰冰 有没有对我妹赵丽颖好一点",
-      "onboard_time": 1736724737,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 55877,
       "num": 55877,
       "word": "加沙人在帐篷里挖坑过冬",
@@ -587,6 +803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 45543,
+      "num": 198184,
+      "word": "一诺四获KPL年度最佳发育路",
+      "onboard_time": 1736732658,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 44585,
       "num": 44585,
       "word": "鸟嬛是真的",
@@ -601,6 +825,14 @@
       "onboard_time": 1736710871,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42227,
+      "num": 102301,
+      "word": "郑钦文顺利拿下90万元奖金",
+      "onboard_time": 1736691563,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 37081,
@@ -697,14 +929,6 @@
       "onboard_time": 1736712371,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17725,
-      "num": 25145,
-      "word": "郑钦文顺利拿下90万元奖金",
-      "onboard_time": 1736691563,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 16599,

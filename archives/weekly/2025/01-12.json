@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736724943537,
+  "endTime": 1736732861477,
   "band_list": [
     {
       "raw_hot": 3087284,
@@ -25,6 +25,14 @@
       "onboard_time": 1736609964,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2347735,
+      "num": 2347735,
+      "word": "宋慧乔说几乎被王家卫绑了三年",
+      "onboard_time": 1736730318,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 2075887,
@@ -129,6 +137,14 @@
       "onboard_time": 1736653578,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1340542,
+      "num": 357337,
+      "word": "女儿溺亡女子怪妹妹没看好索赔90万",
+      "onboard_time": 1736728459,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1311830,
@@ -419,6 +435,14 @@
       "category": "作品衍生,体育"
     },
     {
+      "raw_hot": 787607,
+      "num": 354743,
+      "word": "苏新皓 抄袭",
+      "onboard_time": 1736730259,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 781092,
       "num": 781092,
       "word": "高三学生摔骨折母亲质疑洒水结冰",
@@ -659,6 +683,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 590504,
+      "num": 590504,
+      "word": "奥司他韦吃多了会耐药吗",
+      "onboard_time": 1736726417,
+      "rank": 1,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 580459,
       "num": 563140,
       "word": "辛雨锡发秦霄贤六宗罪",
@@ -771,6 +803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 484418,
+      "num": 349622,
+      "word": "李冰冰 有没有对我妹赵丽颖好一点",
+      "onboard_time": 1736724737,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 475671,
       "num": 300205,
       "word": "赵丽颖说给微博贡献了微薄的热度",
@@ -833,6 +873,14 @@
       "onboard_time": 1736653939,
       "rank": 17,
       "category": "作品衍生,体育"
+    },
+    {
+      "raw_hot": 416758,
+      "num": 347604,
+      "word": "三只羊旗下账号直播卖年货",
+      "onboard_time": 1736727679,
+      "rank": 7,
+      "category": "网红"
     },
     {
       "raw_hot": 414300,
@@ -979,6 +1027,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 350723,
+      "num": 350723,
+      "word": "雷军解锁泼水成冰",
+      "onboard_time": 1736730318,
+      "rank": 5,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 345314,
       "num": 281353,
       "word": "黄晓明说大年初一去看郭伯伯",
@@ -993,6 +1049,14 @@
       "onboard_time": 1736596469,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 339362,
+      "num": 339362,
+      "word": "黄子韬称不要让他站高再跌下",
+      "onboard_time": 1736730019,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 337751,
@@ -1185,6 +1249,14 @@
       "onboard_time": 1736658139,
       "rank": 14,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 297128,
+      "num": 297128,
+      "word": "地震救人男孩说不想做冷漠的人",
+      "onboard_time": 1736727797,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 296906,
@@ -1387,6 +1459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 229592,
+      "num": 229592,
+      "word": "周鸿祎1天涨粉超百万",
+      "onboard_time": 1736731339,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 229223,
       "num": 229223,
       "word": "李冰冰对侯明昊脸颊比心",
@@ -1475,6 +1555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216206,
+      "num": 216206,
+      "word": "广州冻到结冰",
+      "onboard_time": 1736725576,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215531,
       "num": 215531,
       "word": "花千骨当年没遇见谢雪臣",
@@ -1528,6 +1616,14 @@
       "word": "种地吧",
       "onboard_time": 1736684599,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 209796,
+      "num": 209796,
+      "word": "一路繁花里最尴尬的3分钟",
+      "onboard_time": 1736690662,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -1795,6 +1891,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197021,
+      "num": 197021,
+      "word": "当韩国人第一次去逛中国菜市场",
+      "onboard_time": 1736730318,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 196992,
       "num": 196992,
       "word": "张康乐马柏全 费加罗",
@@ -1891,6 +1995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 191786,
+      "num": 343366,
+      "word": "洛杉矶山火死亡升至24人",
+      "onboard_time": 1736731998,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 190962,
       "num": 190962,
       "word": "一诺再获KPL年度最受欢迎选手",
@@ -1937,14 +2049,6 @@
       "onboard_time": 1736668519,
       "rank": 42,
       "category": "美食"
-    },
-    {
-      "raw_hot": 187245,
-      "num": 187245,
-      "word": "一路繁花里最尴尬的3分钟",
-      "onboard_time": 1736690662,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 187240,
@@ -2097,6 +2201,14 @@
       "onboard_time": 1736685979,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172679,
+      "num": 172679,
+      "word": "加州房屋被烧毁居民仍须继续还贷",
+      "onboard_time": 1736725576,
+      "rank": 26,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 172281,
@@ -2283,6 +2395,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 160907,
+      "num": 160907,
+      "word": "瑞思白",
+      "onboard_time": 1736729719,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159964,
       "num": 498350,
       "word": "洛杉矶消防局长与市长公开争吵",
@@ -2297,6 +2417,14 @@
       "onboard_time": 1736674699,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158900,
+      "num": 158900,
+      "word": "2025春运明天开始",
+      "onboard_time": 1736731219,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158618,
@@ -2377,6 +2505,14 @@
       "onboard_time": 1736671760,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 153800,
+      "num": 153800,
+      "word": "日本警方回应中国女游客遭列车撞亡",
+      "onboard_time": 1736727439,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153780,
@@ -2593,6 +2729,14 @@
       "onboard_time": 1736655138,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 139960,
+      "num": 139960,
+      "word": "大逃脱5阵容",
+      "onboard_time": 1736732478,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 139738,
@@ -2875,6 +3019,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125110,
+      "num": 125110,
+      "word": "宋佳总台视后",
+      "onboard_time": 1736724737,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 125067,
+      "num": 125067,
+      "word": "甲流",
+      "onboard_time": 1736732239,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 124771,
       "num": 124771,
       "word": "六代机试飞后美说不想跟中国军备竞赛",
@@ -2896,6 +3056,14 @@
       "word": "星宇深V西装真不见外",
       "onboard_time": 1736666058,
       "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 122359,
+      "num": 122359,
+      "word": "英雄联盟",
+      "onboard_time": 1736725516,
+      "rank": 37,
       "category": "电竞"
     },
     {
@@ -3171,6 +3339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 109056,
+      "num": 109056,
+      "word": "虞书欣微博之夜站姐vlog",
+      "onboard_time": 1736728099,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 108632,
       "num": 168610,
       "word": "央视曝光化解债务骗局",
@@ -3203,6 +3379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 106576,
+      "num": 106576,
+      "word": "向太写信鼓励周芯竹",
+      "onboard_time": 1736694382,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106420,
       "num": 134981,
       "word": "郑钦文顺利拿下90万元奖金",
@@ -3227,12 +3411,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 103760,
-      "num": 97723,
-      "word": "向太写信鼓励周芯竹",
-      "onboard_time": 1736694382,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 104014,
+      "num": 104014,
+      "word": "猫 叽歪啥没看见在吵架吗",
+      "onboard_time": 1736726599,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 103535,
@@ -3275,6 +3459,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101083,
+      "num": 101083,
+      "word": "洛杉矶消防员没有消防车只能看火烧",
+      "onboard_time": 1736730619,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 100685,
+      "num": 100685,
+      "word": "宋佳晒虞书欣拍的她",
+      "onboard_time": 1736732778,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99422,
       "num": 95373,
       "word": "sherlisa",
@@ -3289,6 +3489,14 @@
       "onboard_time": 1736603728,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 97955,
+      "num": 97955,
+      "word": "肖战删繁就简向心而行",
+      "onboard_time": 1736725156,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 97624,
@@ -3323,6 +3531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 93619,
+      "num": 93619,
+      "word": "天鹅妈妈抖翅膀掉出一只小天鹅",
+      "onboard_time": 1736726177,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 91589,
       "num": 91589,
       "word": "阿森纳vs曼联",
@@ -3353,6 +3569,14 @@
       "onboard_time": 1736670138,
       "rank": 48,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 88955,
+      "num": 155823,
+      "word": "杨紫管乐演姐妹",
+      "onboard_time": 1736732538,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 88905,
@@ -3459,6 +3683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76331,
+      "num": 339629,
+      "word": "西藏悼念定日6.8级地震遇难同胞",
+      "onboard_time": 1736732358,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 76212,
       "num": 184219,
       "word": "下周两股冷空气无缝衔接登场",
@@ -3563,28 +3795,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 60965,
-      "num": 60965,
-      "word": "宋佳总台视后",
-      "onboard_time": 1736724737,
-      "rank": 37,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 59773,
       "num": 57015,
       "word": "电影射雕英雄传侠之大者",
       "onboard_time": 1736620333,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 58949,
-      "num": 58949,
-      "word": "李冰冰 有没有对我妹赵丽颖好一点",
-      "onboard_time": 1736724737,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 58730,
@@ -3753,6 +3969,14 @@
       "onboard_time": 1736609666,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45543,
+      "num": 198184,
+      "word": "一诺四获KPL年度最佳发育路",
+      "onboard_time": 1736732658,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 45465,
