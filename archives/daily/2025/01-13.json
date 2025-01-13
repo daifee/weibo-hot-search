@@ -1,6 +1,6 @@
 {
   "startTime": 1736699124375,
-  "endTime": 1736753717541,
+  "endTime": 1736757035887,
   "band_list": [
     {
       "raw_hot": 2404833,
@@ -19,11 +19,35 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1712484,
+      "num": 1712484,
+      "word": "贵人鸟正式更名金鹤农业",
+      "onboard_time": 1736752338,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1614743,
       "num": 1614743,
       "word": "2万吨智利车厘子运抵中国",
       "onboard_time": 1736740700,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1586655,
+      "num": 1586655,
+      "word": "杨紫 养老剧",
+      "onboard_time": 1736753899,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1582830,
+      "num": 1582830,
+      "word": "男子私留哥哥毛发让侄子做亲子鉴定",
+      "onboard_time": 1736756061,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -147,6 +171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 792249,
+      "num": 792249,
+      "word": "成都警方再通报女大学生失联",
+      "onboard_time": 1736753659,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 787720,
       "num": 1126035,
       "word": "电影笑傲江湖定档春节档",
@@ -169,6 +201,14 @@
       "onboard_time": 1736730019,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 738043,
+      "num": 738043,
+      "word": "左眼悲伤 右眼震惊",
+      "onboard_time": 1736754979,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 731885,
@@ -227,12 +267,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 606830,
-      "num": 468643,
-      "word": "贵人鸟正式更名金鹤农业",
-      "onboard_time": 1736752338,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 606211,
+      "num": 606211,
+      "word": "小巷人家3家代表1年后驻站重聚",
+      "onboard_time": 1736756061,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 590504,
@@ -395,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 399365,
+      "num": 399365,
+      "word": "张凌赫默默询问工作人员金婧生了没",
+      "onboard_time": 1736754139,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 389682,
       "num": 389682,
       "word": "台积电4nm芯片量产",
@@ -417,6 +465,14 @@
       "onboard_time": 1736735478,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 381758,
+      "num": 381758,
+      "word": "这届年轻人开始整顿年味了",
+      "onboard_time": 1736756061,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 375683,
@@ -505,6 +561,14 @@
       "onboard_time": 1736732358,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 345548,
+      "num": 345548,
+      "word": "泰国喊话中国游客",
+      "onboard_time": 1736756359,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 345314,
@@ -651,6 +715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 265632,
+      "num": 265632,
+      "word": "加州山火烧向施瓦辛格和詹姆斯的家",
+      "onboard_time": 1736754499,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 262723,
       "num": 262723,
       "word": "十个勤天直播",
@@ -721,6 +793,14 @@
       "onboard_time": 1736687359,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 249719,
+      "num": 460957,
+      "word": "时代少年团用爆米花当饺子馅",
+      "onboard_time": 1736756119,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 247244,
@@ -811,6 +891,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 227662,
+      "num": 227662,
+      "word": "祝绪丹新剧垂耳兔造型",
+      "onboard_time": 1736756119,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227365,
       "num": 229369,
       "word": "泽连斯基准备派150名消防员到加州救火",
@@ -857,6 +945,14 @@
       "onboard_time": 1736723775,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217957,
+      "num": 217957,
+      "word": "让刘晓庆吃饱",
+      "onboard_time": 1736750718,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 217088,
@@ -907,12 +1003,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 208479,
-      "num": 208479,
-      "word": "让刘晓庆吃饱",
-      "onboard_time": 1736750718,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 209130,
+      "num": 209130,
+      "word": "肖战海军蓝西服",
+      "onboard_time": 1736756119,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 207369,
@@ -921,6 +1017,14 @@
       "onboard_time": 1736736558,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 206953,
+      "num": 206953,
+      "word": "专家称年轻人别太担心亏损",
+      "onboard_time": 1736751918,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 206817,
@@ -1003,12 +1107,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198917,
+      "num": 198917,
+      "word": "敖瑞鹏 媚眼抛给瞎子看",
+      "onboard_time": 1736756658,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198699,
       "num": 198699,
       "word": "张远 好的爱情是喜忧参半",
       "onboard_time": 1736744661,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198463,
+      "num": 168379,
+      "word": "虞书欣大方",
+      "onboard_time": 1736755998,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 198422,
+      "num": 335421,
+      "word": "孟子义的采访让金靖2024年最后一天感到了幸福",
+      "onboard_time": 1736755819,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 198231,
@@ -1057,14 +1185,6 @@
       "onboard_time": 1736751377,
       "rank": 32,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 194200,
-      "num": 194200,
-      "word": "专家称年轻人别太担心亏损",
-      "onboard_time": 1736751918,
-      "rank": 38,
-      "category": "财经"
     },
     {
       "raw_hot": 193209,
@@ -1324,7 +1444,7 @@
     },
     {
       "raw_hot": 158968,
-      "num": 158968,
+      "num": 278497,
       "word": "郑钦文澳网第二轮对手出炉",
       "onboard_time": 1736745320,
       "rank": 41,
@@ -1515,6 +1635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136093,
+      "num": 136093,
+      "word": "潇洒当爸爸了",
+      "onboard_time": 1736756600,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136072,
       "num": 155823,
       "word": "杨紫管乐演姐妹",
@@ -1571,6 +1699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131525,
+      "num": 381825,
+      "word": "A股成交额跌破万亿",
+      "onboard_time": 1736753478,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 130363,
       "num": 130363,
       "word": "谢娜杨迪疯狂蛐蛐向佐",
@@ -1611,11 +1747,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 123240,
-      "num": 123240,
-      "word": "成都警方再通报女大学生失联",
-      "onboard_time": 1736753659,
-      "rank": 49,
+      "raw_hot": 124314,
+      "num": 124314,
+      "word": "菜市场白色灯照得顾客脸紫红",
+      "onboard_time": 1736753780,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -1689,6 +1825,14 @@
       "onboard_time": 1736741300,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 112339,
+      "num": 112339,
+      "word": "周鸿祎谈刘强东给村民发福利",
+      "onboard_time": 1736756899,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 111312,
@@ -2043,6 +2187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56770,
+      "num": 235953,
+      "word": "洛杉矶市长双手插兜笑着回应山火遭批",
+      "onboard_time": 1736756300,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 55877,
       "num": 55877,
       "word": "加沙人在帐篷里挖坑过冬",
@@ -2081,14 +2233,6 @@
       "onboard_time": 1736724375,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 51565,
-      "num": 381825,
-      "word": "A股成交额跌破万亿",
-      "onboard_time": 1736753478,
-      "rank": 14,
-      "category": "财经"
     },
     {
       "raw_hot": 51270,
@@ -2195,6 +2339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 31827,
+      "num": 1584277,
+      "word": "我国出口规模连续第8年保持增长",
+      "onboard_time": 1736756479,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30506,
       "num": 188493,
       "word": "黄子弘凡说自己有点讨好型人格",
@@ -2219,6 +2371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 28209,
+      "num": 388221,
+      "word": "被74岁刘晓庆喊大爷",
+      "onboard_time": 1736756721,
+      "rank": 14,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 25241,
       "num": 25241,
       "word": "香港鸡公岭山火已被控制",
@@ -2241,6 +2401,14 @@
       "onboard_time": 1736708291,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 22238,
+      "num": 342000,
+      "word": "王伊瑶说李妙真就是我本人",
+      "onboard_time": 1736755879,
+      "rank": 17,
+      "category": "艺人,剧集"
     },
     {
       "raw_hot": 21385,
@@ -2323,6 +2491,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 15027,
+      "num": 327137,
+      "word": "这个春节金庸IP联动了",
+      "onboard_time": 1736756359,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 12858,
       "num": 177387,
       "word": "隔天如换季的降温要来了",
@@ -2372,6 +2548,9 @@
     },
     {
       "word": "#要继续推动冰雪运动普及发展#"
+    },
+    {
+      "word": "#习近平会见格林纳达总理米切尔#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1736757035887,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1712484,
+        "num": 1712484,
+        "word": "贵人鸟正式更名金鹤农业",
+        "onboard_time": 1736752338,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1586655,
+        "num": 1586655,
+        "word": "杨紫 养老剧",
+        "onboard_time": 1736753899,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31827,
+        "num": 1584277,
+        "word": "我国出口规模连续第8年保持增长",
+        "onboard_time": 1736756479,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1582830,
+        "num": 1582830,
+        "word": "男子私留哥哥毛发让侄子做亲子鉴定",
+        "onboard_time": 1736756061,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 792249,
+        "num": 792249,
+        "word": "成都警方再通报女大学生失联",
+        "onboard_time": 1736753659,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 738043,
+        "num": 738043,
+        "word": "左眼悲伤 右眼震惊",
+        "onboard_time": 1736754979,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 700403,
+        "num": 700403,
+        "word": "泰国警方称要重塑全球游客的信任",
+        "onboard_time": 1736749819,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 606211,
+        "num": 606211,
+        "word": "小巷人家3家代表1年后驻站重聚",
+        "onboard_time": 1736756061,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 532676,
+        "num": 532676,
+        "word": "格陵兰岛估价125亿至770亿美元",
+        "onboard_time": 1736751798,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 506396,
+        "num": 506396,
+        "word": "虞书欣主动加宋雨琦联系方式",
+        "onboard_time": 1736752338,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 249719,
+        "num": 460957,
+        "word": "时代少年团用爆米花当饺子馅",
+        "onboard_time": 1736756119,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 443676,
+        "num": 443676,
+        "word": "2万吨智利车厘子运抵中国",
+        "onboard_time": 1736740700,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401760,
+        "num": 401760,
+        "word": "国色芳华剧方致歉",
+        "onboard_time": 1736741720,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 399365,
+        "num": 399365,
+        "word": "张凌赫默默询问工作人员金婧生了没",
+        "onboard_time": 1736754139,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28209,
+        "num": 388221,
+        "word": "被74岁刘晓庆喊大爷",
+        "onboard_time": 1736756721,
+        "rank": 14,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 381758,
+        "num": 381758,
+        "word": "这届年轻人开始整顿年味了",
+        "onboard_time": 1736756061,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345548,
+        "num": 345548,
+        "word": "泰国喊话中国游客",
+        "onboard_time": 1736756359,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22238,
+        "num": 342000,
+        "word": "王伊瑶说李妙真就是我本人",
+        "onboard_time": 1736755879,
+        "rank": 17,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 198422,
+        "num": 335421,
+        "word": "孟子义的采访让金靖2024年最后一天感到了幸福",
+        "onboard_time": 1736755819,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15027,
+        "num": 327137,
+        "word": "这个春节金庸IP联动了",
+        "onboard_time": 1736756359,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 346021,
+        "num": 320686,
+        "word": "王楚钦戴100多万的表扣手",
+        "onboard_time": 1736752998,
+        "rank": 20,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 520588,
+        "num": 314605,
+        "word": "宋慧乔说几乎被王家卫绑了三年",
+        "onboard_time": 1736730318,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 312967,
+        "num": 312967,
+        "word": "智利超92%车厘子出口中国",
+        "onboard_time": 1736743161,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284520,
+        "num": 284520,
+        "word": "四大85花视后",
+        "onboard_time": 1736748559,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 52667,
+        "num": 278497,
+        "word": "郑钦文澳网第二轮对手出炉",
+        "onboard_time": 1736745320,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274792,
+        "num": 274792,
+        "word": "泰国警方成立旅游安全行动中心",
+        "onboard_time": 1736749279,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 273190,
+        "num": 273190,
+        "word": "尹锡悦呼吁韩国政府支援加州山火",
+        "onboard_time": 1736744000,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 270508,
+        "num": 270508,
+        "word": "庆奶吃亏在看着太年轻",
+        "onboard_time": 1736745022,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265632,
+        "num": 265632,
+        "word": "加州山火烧向施瓦辛格和詹姆斯的家",
+        "onboard_time": 1736754499,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 56770,
+        "num": 235953,
+        "word": "洛杉矶市长双手插兜笑着回应山火遭批",
+        "onboard_time": 1736756300,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 227662,
+        "num": 227662,
+        "word": "祝绪丹新剧垂耳兔造型",
+        "onboard_time": 1736756119,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217957,
+        "num": 217957,
+        "word": "让刘晓庆吃饱",
+        "onboard_time": 1736750718,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209130,
+        "num": 209130,
+        "word": "肖战海军蓝西服",
+        "onboard_time": 1736756119,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 208636,
+        "num": 208636,
+        "word": "孙茜含泪拥抱孙俪",
+        "onboard_time": 1736748080,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206953,
+        "num": 206953,
+        "word": "专家称年轻人别太担心亏损",
+        "onboard_time": 1736751918,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 208554,
+        "num": 206790,
+        "word": "金靖孕反吐了十个月",
+        "onboard_time": 1736747659,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205814,
+        "num": 205814,
+        "word": "吴宣仪跳舞被热议",
+        "onboard_time": 1736747178,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198917,
+        "num": 198917,
+        "word": "敖瑞鹏 媚眼抛给瞎子看",
+        "onboard_time": 1736756658,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178540,
+        "num": 178540,
+        "word": "朋友圈先私密24小时再公开",
+        "onboard_time": 1736694320,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174890,
+        "num": 174890,
+        "word": "12306一天拒绝异常登录3982万次",
+        "onboard_time": 1736738480,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198463,
+        "num": 168379,
+        "word": "虞书欣大方",
+        "onboard_time": 1736755998,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160298,
+        "num": 160298,
+        "word": "50岁快递员成为大体老师",
+        "onboard_time": 1736751377,
+        "rank": 41,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 152263,
+        "num": 152263,
+        "word": "我国成功发射一箭10星",
+        "onboard_time": 1736748799,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 149592,
+        "num": 149592,
+        "word": "司机不给消防车让道称以为谁喝多了",
+        "onboard_time": 1736742440,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143341,
+        "num": 143341,
+        "word": "难怪老外对水果披萨那么抗拒了",
+        "onboard_time": 1736748619,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136093,
+        "num": 136093,
+        "word": "潇洒当爸爸了",
+        "onboard_time": 1736756600,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131525,
+        "num": 131525,
+        "word": "A股成交额跌破万亿",
+        "onboard_time": 1736753478,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124314,
+        "num": 124314,
+        "word": "菜市场白色灯照得顾客脸紫红",
+        "onboard_time": 1736753780,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117672,
+        "num": 117672,
+        "word": "东部战区代表团将访问日本",
+        "onboard_time": 1736747299,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112339,
+        "num": 112339,
+        "word": "周鸿祎谈刘强东给村民发福利",
+        "onboard_time": 1736756899,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见格林纳达总理米切尔#"
+    }
+  }
+}
