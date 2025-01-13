@@ -1,0 +1,410 @@
+{
+  "runTime": 1736752963232,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 755397,
+        "num": 1120863,
+        "word": "国色芳华剧方致歉",
+        "onboard_time": 1736741720,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 751405,
+        "num": 751405,
+        "word": "尹锡悦呼吁韩国政府支援加州山火",
+        "onboard_time": 1736744000,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 35765,
+        "num": 646940,
+        "word": "西藏震后安置正在加紧进行",
+        "onboard_time": 1736736677,
+        "rank": 2,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 621354,
+        "num": 621354,
+        "word": "智利超92%车厘子出口中国",
+        "onboard_time": 1736743161,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 569246,
+        "num": 569246,
+        "word": "孙茜含泪拥抱孙俪",
+        "onboard_time": 1736748080,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 499058,
+        "num": 499058,
+        "word": "泰国警方称要重塑全球游客的信任",
+        "onboard_time": 1736749819,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 519960,
+        "num": 498285,
+        "word": "四大85花视后",
+        "onboard_time": 1736748559,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 494929,
+        "num": 494929,
+        "word": "金靖孕反吐了十个月",
+        "onboard_time": 1736747659,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 419386,
+        "num": 419386,
+        "word": "2万吨智利车厘子运抵中国",
+        "onboard_time": 1736740700,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307377,
+        "num": 410851,
+        "word": "泰国警方成立旅游安全行动中心",
+        "onboard_time": 1736749279,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 443682,
+        "num": 406780,
+        "word": "王鹤棣田曦薇密室紧紧牵手",
+        "onboard_time": 1736748499,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421167,
+        "num": 390862,
+        "word": "12306一天拒绝异常登录3982万次",
+        "onboard_time": 1736738480,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 425941,
+        "num": 385734,
+        "word": "金靖说可以演虞书欣妈妈",
+        "onboard_time": 1736749459,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 378664,
+        "num": 378664,
+        "word": "庆奶吃亏在看着太年轻",
+        "onboard_time": 1736745022,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319665,
+        "num": 351967,
+        "word": "格陵兰岛估价125亿至770亿美元",
+        "onboard_time": 1736751798,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 333418,
+        "num": 333418,
+        "word": "司机不给消防车让道称以为谁喝多了",
+        "onboard_time": 1736742440,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321245,
+        "num": 321245,
+        "word": "冲动订购19800元内衣隔天能退吗",
+        "onboard_time": 1736742380,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271249,
+        "num": 271249,
+        "word": "贵人鸟正式更名金鹤农业",
+        "onboard_time": 1736752338,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218194,
+        "num": 268893,
+        "word": "虞书欣主动加宋雨琦联系方式",
+        "onboard_time": 1736752338,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95477,
+        "num": 265560,
+        "word": "同名房产遭乌龙法拍出错环节被质疑",
+        "onboard_time": 1736751318,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 586469,
+        "num": 262958,
+        "word": "宋慧乔说几乎被王家卫绑了三年",
+        "onboard_time": 1736730318,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 317585,
+        "num": 256326,
+        "word": "吴宣仪跳舞被热议",
+        "onboard_time": 1736747178,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 255932,
+        "num": 255932,
+        "word": "东部战区代表团将访问日本",
+        "onboard_time": 1736747299,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 247875,
+        "num": 247875,
+        "word": "难怪老外对水果披萨那么抗拒了",
+        "onboard_time": 1736748619,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64852,
+        "num": 244996,
+        "word": "陈雨菲说要坚定热爱",
+        "onboard_time": 1736751858,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243529,
+        "num": 243529,
+        "word": "原来摄像大哥跟周深商量了要怎么拍",
+        "onboard_time": 1736751138,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217088,
+        "num": 217088,
+        "word": "樊振东拿完了青年赛事所有冠军",
+        "onboard_time": 1736751079,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209449,
+        "num": 209449,
+        "word": "宣璐饰演任盈盈",
+        "onboard_time": 1736750479,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 208921,
+        "num": 208921,
+        "word": "朋友圈先私密24小时再公开",
+        "onboard_time": 1736694320,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206046,
+        "num": 206046,
+        "word": "十个勤天直播",
+        "onboard_time": 1736748799,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199268,
+        "num": 199268,
+        "word": "加州山火烧掉一个旧金山的面积",
+        "onboard_time": 1736696120,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 196911,
+        "num": 196911,
+        "word": "让刘晓庆吃饱",
+        "onboard_time": 1736750718,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196260,
+        "num": 196260,
+        "word": "50岁快递员成为大体老师",
+        "onboard_time": 1736751377,
+        "rank": 32,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 190042,
+        "num": 190042,
+        "word": "Angelababy窗台序曲大片",
+        "onboard_time": 1736748559,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 183036,
+        "num": 183036,
+        "word": "我国成功发射一箭10星",
+        "onboard_time": 1736748799,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 171503,
+        "num": 171503,
+        "word": "淄博职业学院升本",
+        "onboard_time": 1736747299,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 168571,
+        "num": 168571,
+        "word": "女儿溺亡女子怪妹妹没看好索赔90万",
+        "onboard_time": 1736728459,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163469,
+        "num": 163469,
+        "word": "丁禹兮曾被鱼刺卡住过",
+        "onboard_time": 1736750599,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152525,
+        "num": 152525,
+        "word": "专家称年轻人别太担心亏损",
+        "onboard_time": 1736751918,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 150349,
+        "num": 150349,
+        "word": "王楚钦小说里的顶级大学生",
+        "onboard_time": 1736743222,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148649,
+        "num": 148649,
+        "word": "蔡徐坤潮男出街",
+        "onboard_time": 1736750718,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 147811,
+        "num": 147811,
+        "word": "时代少年团北京春晚包饺子",
+        "onboard_time": 1736752698,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143974,
+        "num": 143974,
+        "word": "敖瑞鹏 看你就是没经验的",
+        "onboard_time": 1736751678,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135472,
+        "num": 135472,
+        "word": "井胧当弟弟的原因找到了",
+        "onboard_time": 1736749639,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128650,
+        "num": 128650,
+        "word": "周鸿祎称刘强东有实力",
+        "onboard_time": 1736752759,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 124922,
+        "num": 124922,
+        "word": "看一眼刘晓庆鸡血打满",
+        "onboard_time": 1736752038,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121949,
+        "num": 121949,
+        "word": "我国成功发射微厘空间01组卫星",
+        "onboard_time": 1736750059,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121235,
+        "num": 121235,
+        "word": "离岸人民币大涨近百点",
+        "onboard_time": 1736748259,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113181,
+        "num": 113181,
+        "word": "眼镜GISELLE",
+        "onboard_time": 1736752639,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 100878,
+        "num": 100878,
+        "word": "奔跑吧按下的7次快门",
+        "onboard_time": 1736752939,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#要继续推动冰雪运动普及发展#"
+    }
+  }
+}

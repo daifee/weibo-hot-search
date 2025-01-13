@@ -1,6 +1,6 @@
 {
   "startTime": 1736699124375,
-  "endTime": 1736750763606,
+  "endTime": 1736752963232,
   "band_list": [
     {
       "raw_hot": 2404833,
@@ -251,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 499058,
+      "num": 499058,
+      "word": "泰国警方称要重塑全球游客的信任",
+      "onboard_time": 1736749819,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 484418,
       "num": 398668,
       "word": "李冰冰 有没有对我妹赵丽颖好一点",
@@ -283,8 +291,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 443116,
-      "num": 362042,
+      "raw_hot": 443682,
+      "num": 406780,
       "word": "王鹤棣田曦薇密室紧紧牵手",
       "onboard_time": 1736748499,
       "rank": 12,
@@ -305,6 +313,14 @@
       "onboard_time": 1736738480,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 425941,
+      "num": 385734,
+      "word": "金靖说可以演虞书欣妈妈",
+      "onboard_time": 1736749459,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 424878,
@@ -483,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 319665,
+      "num": 351967,
+      "word": "格陵兰岛估价125亿至770亿美元",
+      "onboard_time": 1736751798,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 314508,
       "num": 286410,
       "word": "如何取消朋友圈点赞动态通知",
@@ -504,6 +528,14 @@
       "word": "洛杉矶山火死亡升至24人",
       "onboard_time": 1736731998,
       "rank": 8,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 307377,
+      "num": 410851,
+      "word": "泰国警方成立旅游安全行动中心",
+      "onboard_time": 1736749279,
+      "rank": 38,
       "category": "海外新闻"
     },
     {
@@ -561,6 +593,14 @@
       "onboard_time": 1736748799,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 271249,
+      "num": 271249,
+      "word": "贵人鸟正式更名金鹤农业",
+      "onboard_time": 1736752338,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 270454,
@@ -683,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 243529,
+      "num": 243529,
+      "word": "原来摄像大哥跟周深商量了要怎么拍",
+      "onboard_time": 1736751138,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 243352,
       "num": 207497,
       "word": "Jiwoo好美",
@@ -787,12 +835,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 217374,
-      "num": 217374,
-      "word": "泰国警方成立旅游安全行动中心",
-      "onboard_time": 1736749279,
-      "rank": 38,
-      "category": "海外新闻"
+      "raw_hot": 218194,
+      "num": 268893,
+      "word": "虞书欣主动加宋雨琦联系方式",
+      "onboard_time": 1736752338,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 217088,
+      "num": 217088,
+      "word": "樊振东拿完了青年赛事所有冠军",
+      "onboard_time": 1736751079,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 216206,
@@ -825,6 +881,14 @@
       "onboard_time": 1736690662,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209449,
+      "num": 209449,
+      "word": "宣璐饰演任盈盈",
+      "onboard_time": 1736750479,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 209400,
@@ -955,12 +1019,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 196911,
+      "num": 196911,
+      "word": "让刘晓庆吃饱",
+      "onboard_time": 1736750718,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196591,
       "num": 196591,
       "word": "王曼昱杂志预告",
       "onboard_time": 1736742141,
       "rank": 37,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 196260,
+      "num": 196260,
+      "word": "50岁快递员成为大体老师",
+      "onboard_time": 1736751377,
+      "rank": 32,
+      "category": "正能量"
     },
     {
       "raw_hot": 193209,
@@ -1003,27 +1083,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189249,
-      "num": 262737,
-      "word": "金靖说可以演虞书欣妈妈",
-      "onboard_time": 1736749459,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 188850,
       "num": 188850,
       "word": "胖东来规定不允许不喜欢自己的工作",
       "onboard_time": 1736740639,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 188629,
-      "num": 188629,
-      "word": "泰国警方称要重塑全球游客的信任",
-      "onboard_time": 1736749819,
-      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -1219,14 +1283,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 159498,
-      "num": 159498,
-      "word": "宣璐饰演任盈盈",
-      "onboard_time": 1736750479,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 159136,
       "num": 159136,
       "word": "成本36块一锅做了10个菜",
@@ -1289,6 +1345,14 @@
       "onboard_time": 1736746700,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 152525,
+      "num": 152525,
+      "word": "专家称年轻人别太担心亏损",
+      "onboard_time": 1736751918,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 152250,
@@ -1355,6 +1419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147811,
+      "num": 147811,
+      "word": "时代少年团北京春晚包饺子",
+      "onboard_time": 1736752698,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145445,
       "num": 158185,
       "word": "洛杉矶市长沉默沉默再沉默",
@@ -1377,6 +1449,14 @@
       "onboard_time": 1736739198,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 143974,
+      "num": 143974,
+      "word": "敖瑞鹏 看你就是没经验的",
+      "onboard_time": 1736751678,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 142012,
@@ -1459,6 +1539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128650,
+      "num": 128650,
+      "word": "周鸿祎称刘强东有实力",
+      "onboard_time": 1736752759,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 128344,
       "num": 92416,
       "word": "日常见肖战",
@@ -1467,20 +1555,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127706,
-      "num": 127706,
-      "word": "让刘晓庆吃饱",
-      "onboard_time": 1736750718,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 125110,
       "num": 125110,
       "word": "宋佳总台视后",
       "onboard_time": 1736724737,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 124922,
+      "num": 124922,
+      "word": "看一眼刘晓庆鸡血打满",
+      "onboard_time": 1736752038,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 122359,
@@ -1537,6 +1625,14 @@
       "onboard_time": 1736730619,
       "rank": 45,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 113181,
+      "num": 113181,
+      "word": "眼镜GISELLE",
+      "onboard_time": 1736752639,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 112590,
@@ -1627,6 +1723,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 100878,
+      "num": 100878,
+      "word": "奔跑吧按下的7次快门",
+      "onboard_time": 1736752939,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99742,
       "num": 99742,
       "word": "无人机撞停加州山火灭火飞机",
@@ -1681,6 +1785,14 @@
       "onboard_time": 1736725156,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95477,
+      "num": 265560,
+      "word": "同名房产遭乌龙法拍出错环节被质疑",
+      "onboard_time": 1736751318,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93619,
@@ -1825,6 +1937,14 @@
       "onboard_time": 1736736677,
       "rank": 2,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 64852,
+      "num": 244996,
+      "word": "陈雨菲说要坚定热爱",
+      "onboard_time": 1736751858,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 64349,
