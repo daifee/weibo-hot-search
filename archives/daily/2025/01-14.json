@@ -1,6 +1,6 @@
 {
   "startTime": 1736785781963,
-  "endTime": 1736806803959,
+  "endTime": 1736807791910,
   "band_list": [
     {
       "raw_hot": 888159,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 455380,
-      "num": 455380,
+      "num": 470999,
       "word": "一路繁花8个人只吃了700块",
       "onboard_time": 1736786536,
       "rank": 40,
@@ -171,6 +171,14 @@
       "category": "网红,美妆"
     },
     {
+      "raw_hot": 192792,
+      "num": 192792,
+      "word": "男子用杀虫剂毒死大量锦鲤被刑拘",
+      "onboard_time": 1736794991,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172397,
       "num": 172397,
       "word": "快递公司回应春节是否停运",
@@ -195,6 +203,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 150732,
+      "num": 150732,
+      "word": "泰国孕妇坠崖案当事人王暖暖最新发声",
+      "onboard_time": 1736793011,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148556,
       "num": 329104,
       "word": "复兴号停车场是什么未来场面",
@@ -209,14 +225,6 @@
       "onboard_time": 1736772079,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 140324,
-      "num": 140324,
-      "word": "男子用杀虫剂毒死大量锦鲤被刑拘",
-      "onboard_time": 1736794991,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 139251,
@@ -265,14 +273,6 @@
       "onboard_time": 1736785517,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118447,
-      "num": 118447,
-      "word": "泰国孕妇坠崖案当事人王暖暖最新发声",
-      "onboard_time": 1736793011,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115092,
@@ -363,20 +363,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 90925,
+      "num": 90925,
+      "word": "洛杉矶山火蔓延居民紧急撤离",
+      "onboard_time": 1736800759,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 90321,
       "num": 90321,
       "word": "姜贞羽 浮香意思一下",
       "onboard_time": 1736781260,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 87481,
-      "num": 87481,
-      "word": "洛杉矶山火蔓延居民紧急撤离",
-      "onboard_time": 1736800759,
-      "rank": 6,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 86461,
@@ -443,6 +443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 76551,
+      "num": 76551,
+      "word": "目击者称观音桥死鱼装了30多袋",
+      "onboard_time": 1736802491,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71776,
       "num": 71776,
       "word": "虞书欣这样的朋友",
@@ -465,14 +473,6 @@
       "onboard_time": 1736799970,
       "rank": 9,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 59763,
-      "num": 59763,
-      "word": "目击者称观音桥死鱼装了30多袋",
-      "onboard_time": 1736802491,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 53667,
@@ -515,11 +515,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 38133,
+      "num": 59502,
+      "word": "计生局干部身中49刀21年后案件再审",
+      "onboard_time": 1736805791,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38004,
       "num": 46592,
       "word": "老人用新手机专门和骗子联系",
       "onboard_time": 1736796491,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35405,
+      "num": 76604,
+      "word": "新娘姐妹团5人中3个是世界冠军",
+      "onboard_time": 1736805732,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -561,14 +577,6 @@
       "onboard_time": 1736792172,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26122,
-      "num": 59502,
-      "word": "计生局干部身中49刀21年后案件再审",
-      "onboard_time": 1736805791,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25645,
@@ -641,14 +649,6 @@
       "onboard_time": 1736794151,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 19037,
-      "num": 19037,
-      "word": "新娘姐妹团5人中3个是世界冠军",
-      "onboard_time": 1736805732,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17570,
