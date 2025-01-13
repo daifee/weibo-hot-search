@@ -1,6 +1,6 @@
 {
   "startTime": 1736785781963,
-  "endTime": 1736804139268,
+  "endTime": 1736806803959,
   "band_list": [
     {
       "raw_hot": 888159,
@@ -211,6 +211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 140324,
+      "num": 140324,
+      "word": "男子用杀虫剂毒死大量锦鲤被刑拘",
+      "onboard_time": 1736794991,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139251,
       "num": 139251,
       "word": "小红书美国appstore下载榜第一",
@@ -259,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118447,
+      "num": 118447,
+      "word": "泰国孕妇坠崖案当事人王暖暖最新发声",
+      "onboard_time": 1736793011,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115092,
       "num": 115092,
       "word": "国色芳华最新收视率",
@@ -281,14 +297,6 @@
       "onboard_time": 1736774180,
       "rank": 36,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 106738,
-      "num": 106738,
-      "word": "泰国孕妇坠崖案当事人王暖暖最新发声",
-      "onboard_time": 1736793011,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104467,
@@ -339,14 +347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94254,
-      "num": 94254,
-      "word": "男子用杀虫剂毒死大量锦鲤被刑拘",
-      "onboard_time": 1736794991,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 93605,
       "num": 93605,
       "word": "律师谈王暖暖可能要到70岁才能离婚",
@@ -369,6 +369,14 @@
       "onboard_time": 1736781260,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87481,
+      "num": 87481,
+      "word": "洛杉矶山火蔓延居民紧急撤离",
+      "onboard_time": 1736800759,
+      "rank": 6,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 86461,
@@ -459,12 +467,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 56533,
-      "num": 56533,
-      "word": "洛杉矶山火蔓延居民紧急撤离",
-      "onboard_time": 1736800759,
-      "rank": 6,
-      "category": "海外新闻"
+      "raw_hot": 59763,
+      "num": 59763,
+      "word": "目击者称观音桥死鱼装了30多袋",
+      "onboard_time": 1736802491,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53667,
@@ -539,14 +547,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 30761,
-      "num": 38634,
-      "word": "目击者称观音桥死鱼装了30多袋",
-      "onboard_time": 1736802491,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29011,
       "num": 36383,
       "word": "西藏定日县地震七日祭",
@@ -561,6 +561,14 @@
       "onboard_time": 1736792172,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26122,
+      "num": 59502,
+      "word": "计生局干部身中49刀21年后案件再审",
+      "onboard_time": 1736805791,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25645,
@@ -611,8 +619,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19121,
-      "num": 19121,
+      "raw_hot": 19657,
+      "num": 19045,
+      "word": "肖战谈与郭靖的异同",
+      "onboard_time": 1736806093,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 19289,
+      "num": 19289,
       "word": "你好2025",
       "onboard_time": 1736790673,
       "rank": 48,
@@ -625,6 +641,14 @@
       "onboard_time": 1736794151,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 19037,
+      "num": 19037,
+      "word": "新娘姐妹团5人中3个是世界冠军",
+      "onboard_time": 1736805732,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17570,

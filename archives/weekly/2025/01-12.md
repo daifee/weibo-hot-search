@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/12 00:25:41 ~ 2025/01/14 05:35:39
+本榜单时间：2025/01/12 00:25:41 ~ 2025/01/14 06:20:03
 </p>
 </blockquote>
 <p>
@@ -3651,6 +3651,12 @@ IVE回归先行曲MV（热度：141659）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A8%E6%9D%80%E8%99%AB%E5%89%82%E6%AF%92%E6%AD%BB%E5%A4%A7%E9%87%8F%E9%94%A6%E9%B2%A4%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
+男子用杀虫剂毒死大量锦鲤被刑拘（热度：140324）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%8F%AD%E9%97%AE%E9%A2%98%E8%82%89%E6%AF%92%E7%B4%A0%E4%B9%B1%E8%B1%A1%23" target="weibo">
 央视揭问题肉毒素乱象（热度：139738）
 </a>
@@ -4191,6 +4197,12 @@ JDG五彩斑斓的黑西装（热度：127761）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%AD%95%E5%A6%87%E5%9D%A0%E5%B4%96%E6%A1%88%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%8E%8B%E6%9A%96%E6%9A%96%E6%9C%80%E6%96%B0%E5%8F%91%E5%A3%B0%23" target="weibo">
+泰国孕妇坠崖案当事人王暖暖最新发声（热度：118447）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%8F%96%E7%9A%84%E5%90%8D%E5%AD%97%E9%87%8C%E8%97%8F%E7%9D%80%E6%97%A0%E5%B0%BD%E6%B5%AA%E6%BC%AB%23" target="weibo">
 中国人取的名字里藏着无尽浪漫（热度：117832）
 </a>
@@ -4413,12 +4425,6 @@ TOP登陆少年重庆活动（热度：117472）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%AD%95%E5%A6%87%E5%9D%A0%E5%B4%96%E6%A1%88%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%8E%8B%E6%9A%96%E6%9A%96%E6%9C%80%E6%96%B0%E5%8F%91%E5%A3%B0%23" target="weibo">
-泰国孕妇坠崖案当事人王暖暖最新发声（热度：106738）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%83%E6%B0%94%E5%B0%91%E5%A5%B3%E7%BC%98%E7%BB%93%E7%A5%9E%20%E5%A5%88%E5%A5%88%E7%94%9F%E5%8F%91%E7%B0%AA%23" target="weibo">
 元气少女缘结神 奈奈生发簪（热度：106574）
 </a>
@@ -4593,12 +4599,6 @@ JackeyLove年度影响力电竞选手（热度：95920）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A8%E6%9D%80%E8%99%AB%E5%89%82%E6%AF%92%E6%AD%BB%E5%A4%A7%E9%87%8F%E9%94%A6%E9%B2%A4%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
-男子用杀虫剂毒死大量锦鲤被刑拘（热度：94254）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23aespa%E5%88%9D%E6%99%BA%E9%BD%BF%E8%88%9E%E5%8F%B0%23" target="weibo">
 aespa初智齿舞台（热度：93742）
 </a>
@@ -4661,6 +4661,12 @@ aespa初智齿舞台（热度：93742）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E6%8C%BD%E6%95%91%E4%B8%89%E4%B8%AA%E7%9B%98%E7%82%B9%23" target="weibo">
 郑钦文挽救三个盘点（热度：88905）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%B1%B1%E7%81%AB%E8%94%93%E5%BB%B6%E5%B1%85%E6%B0%91%E7%B4%A7%E6%80%A5%E6%92%A4%E7%A6%BB%23" target="weibo">
+洛杉矶山火蔓延居民紧急撤离（热度：87481）
 </a>
 </li>
 
@@ -4929,6 +4935,12 @@ WBG战胜OMG（热度：75359）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9B%AE%E5%87%BB%E8%80%85%E7%A7%B0%E8%A7%82%E9%9F%B3%E6%A1%A5%E6%AD%BB%E9%B1%BC%E8%A3%85%E4%BA%8630%E5%A4%9A%E8%A2%8B%23" target="weibo">
+目击者称观音桥死鱼装了30多袋（热度：59763）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%84%E5%AC%9B%E4%BC%A0%23" target="weibo">
 甄嬛传（热度：58730）
 </a>
@@ -4937,12 +4949,6 @@ WBG战胜OMG（热度：75359）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23AI%E6%97%B6%E4%BB%A3%E8%AF%A5%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E9%80%A0%E5%81%87%23" target="weibo">
 AI时代该如何应对造假（热度：58663）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%B1%B1%E7%81%AB%E8%94%93%E5%BB%B6%E5%B1%85%E6%B0%91%E7%B4%A7%E6%80%A5%E6%92%A4%E7%A6%BB%23" target="weibo">
-洛杉矶山火蔓延居民紧急撤离（热度：56533）
 </a>
 </li>
 
@@ -5307,12 +5313,6 @@ eStar新年游园会（热度：34126）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9B%AE%E5%87%BB%E8%80%85%E7%A7%B0%E8%A7%82%E9%9F%B3%E6%A1%A5%E6%AD%BB%E9%B1%BC%E8%A3%85%E4%BA%8630%E5%A4%9A%E8%A2%8B%23" target="weibo">
-目击者称观音桥死鱼装了30多袋（热度：30761）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E8%B0%88%E5%9C%A8%E6%BC%94%E6%88%8F%E5%92%8C%E7%BB%BC%E8%89%BA%E9%97%B4%E5%88%87%E6%8D%A2%E8%A7%92%E8%89%B2%23" target="weibo">
 范丞丞谈在演戏和综艺间切换角色（热度：30700）
 </a>
@@ -5363,6 +5363,12 @@ eStar新年游园会（热度：34126）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%82%E6%A1%A3%23" target="weibo">
 春节档（热度：26138）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%A1%E7%94%9F%E5%B1%80%E5%B9%B2%E9%83%A8%E8%BA%AB%E4%B8%AD49%E5%88%8021%E5%B9%B4%E5%90%8E%E6%A1%88%E4%BB%B6%E5%86%8D%E5%AE%A1%23" target="weibo">
+计生局干部身中49刀21年后案件再审（热度：26122）
 </a>
 </li>
 
@@ -5493,14 +5499,26 @@ aespaSMTOWN舞台（热度：25401）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%B0%88%E4%B8%8E%E9%83%AD%E9%9D%96%E7%9A%84%E5%BC%82%E5%90%8C%23" target="weibo">
+肖战谈与郭靖的异同（热度：19657）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD2025%23" target="weibo">
-你好2025（热度：19121）
+你好2025（热度：19289）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%9B%9E%E5%BA%94%E7%A0%B4%E7%A2%8E%E6%96%87%E5%AD%A6%E5%A5%B3%E4%B8%BB%23" target="weibo">
 张婧仪回应破碎文学女主（热度：19053）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%A8%98%E5%A7%90%E5%A6%B9%E5%9B%A25%E4%BA%BA%E4%B8%AD3%E4%B8%AA%E6%98%AF%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%23" target="weibo">
+新娘姐妹团5人中3个是世界冠军（热度：19037）
 </a>
 </li>
 
