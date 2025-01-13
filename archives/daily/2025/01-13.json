@@ -1,6 +1,6 @@
 {
   "startTime": 1736699124375,
-  "endTime": 1736737119906,
+  "endTime": 1736737661481,
   "band_list": [
     {
       "raw_hot": 2347735,
@@ -123,7 +123,15 @@
       "category": "情感"
     },
     {
-      "raw_hot": 516564,
+      "raw_hot": 537482,
+      "num": 410911,
+      "word": "国色芳华妆造被指抄袭",
+      "onboard_time": 1736736978,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 520384,
       "num": 472235,
       "word": "宋佳晒虞书欣拍的她",
       "onboard_time": 1736732778,
@@ -139,8 +147,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 473611,
-      "num": 473611,
+      "raw_hot": 484415,
+      "num": 484415,
       "word": "甲流",
       "onboard_time": 1736732239,
       "rank": 36,
@@ -243,20 +251,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 338140,
+      "num": 203597,
+      "word": "女子肉毒素中毒用了半年开塞露",
+      "onboard_time": 1736734098,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 331322,
       "num": 331322,
       "word": "杨紫回应李现",
       "onboard_time": 1736692401,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 324275,
-      "num": 182755,
-      "word": "女子肉毒素中毒用了半年开塞露",
-      "onboard_time": 1736734098,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 311688,
@@ -315,11 +323,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 267546,
+      "num": 267546,
+      "word": "剑网3",
+      "onboard_time": 1736735357,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 254584,
       "num": 254584,
       "word": "加州山火对比重庆让美网友破防了",
       "onboard_time": 1736682979,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 252975,
+      "num": 252975,
+      "word": "解放军昼夜不停卸载震区救援物资",
+      "onboard_time": 1736735237,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -363,12 +387,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 240081,
-      "num": 182059,
-      "word": "剑网3",
-      "onboard_time": 1736735357,
-      "rank": 27,
-      "category": "游戏"
+      "raw_hot": 234121,
+      "num": 234121,
+      "word": "一代宗师",
+      "onboard_time": 1736734518,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 222002,
@@ -377,6 +401,14 @@
       "onboard_time": 1736730318,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 221211,
+      "num": 221211,
+      "word": "等国考成绩",
+      "onboard_time": 1736735478,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 218495,
@@ -400,14 +432,6 @@
       "word": "父亲卖早餐6岁女儿独自在家坠楼",
       "onboard_time": 1736678598,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 211913,
-      "num": 211913,
-      "word": "解放军昼夜不停卸载震区救援物资",
-      "onboard_time": 1736735237,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -443,20 +467,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202801,
+      "num": 202801,
+      "word": "丁禹兮怕有刺的鱼",
+      "onboard_time": 1736737338,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 199987,
+      "num": 199987,
+      "word": "白鹿敖瑞鹏朱山尽大片",
+      "onboard_time": 1736737338,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193209,
       "num": 143480,
       "word": "导播切田曦薇 刘星分饼",
       "onboard_time": 1736688980,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 186962,
-      "num": 182589,
-      "word": "等国考成绩",
-      "onboard_time": 1736735478,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 186835,
@@ -467,12 +499,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 183483,
-      "num": 183483,
-      "word": "一代宗师",
-      "onboard_time": 1736734518,
-      "rank": 18,
-      "category": "电影"
+      "raw_hot": 183567,
+      "num": 183567,
+      "word": "Doinb遭遇网络攻击",
+      "onboard_time": 1736736558,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 182983,
@@ -489,14 +521,6 @@
       "onboard_time": 1736734159,
       "rank": 32,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 178956,
-      "num": 178956,
-      "word": "Doinb遭遇网络攻击",
-      "onboard_time": 1736736558,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 177812,
@@ -531,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153439,
+      "num": 153439,
+      "word": "陈丽君贾宝玉的侧脸杀",
+      "onboard_time": 1736736139,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 150472,
       "num": 150472,
       "word": "大逃脱5阵容",
@@ -547,12 +579,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 148309,
+      "num": 148309,
+      "word": "曝苹果最强芯片M4Ultra今年登场",
+      "onboard_time": 1736736379,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 147877,
       "num": 182414,
       "word": "丁禹兮 去做了你才会有50%的可能",
       "onboard_time": 1736735778,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146720,
+      "num": 146720,
+      "word": "封神2芭莎预告",
+      "onboard_time": 1736737638,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 146458,
+      "num": 146458,
+      "word": "2025春节档影片你最期待哪部",
+      "onboard_time": 1736735179,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 145445,
@@ -571,14 +627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144982,
-      "num": 144982,
-      "word": "国色芳华妆造被指抄袭",
-      "onboard_time": 1736736978,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 136540,
       "num": 118434,
       "word": "中国电视剧年度盛典",
@@ -595,8 +643,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132884,
-      "num": 132884,
+      "raw_hot": 134177,
+      "num": 134177,
       "word": "加州山火威胁好莱坞环球影城",
       "onboard_time": 1736732959,
       "rank": 36,
@@ -609,22 +657,6 @@
       "onboard_time": 1736732898,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 130782,
-      "num": 130782,
-      "word": "陈丽君贾宝玉的侧脸杀",
-      "onboard_time": 1736736139,
-      "rank": 38,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 129358,
-      "num": 129358,
-      "word": "曝苹果最强芯片M4Ultra今年登场",
-      "onboard_time": 1736736379,
-      "rank": 39,
-      "category": "数码"
     },
     {
       "raw_hot": 128344,
@@ -643,6 +675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 122547,
+      "num": 203097,
+      "word": "王楚钦是国乒首个00后世界冠军",
+      "onboard_time": 1736737338,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122359,
       "num": 122359,
       "word": "英雄联盟",
@@ -657,6 +697,14 @@
       "onboard_time": 1736694502,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 121390,
+      "num": 121390,
+      "word": "异人之下2",
+      "onboard_time": 1736737579,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 119433,
@@ -681,14 +729,6 @@
       "onboard_time": 1736698517,
       "rank": 9,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 115629,
-      "num": 115629,
-      "word": "2025春节档影片你最期待哪部",
-      "onboard_time": 1736735179,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 113310,
@@ -747,6 +787,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 104930,
+      "num": 104930,
+      "word": "于东来规定员工相互借钱标准",
+      "onboard_time": 1736737279,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104014,
       "num": 104014,
       "word": "猫 叽歪啥没看见在吵架吗",
@@ -761,6 +809,14 @@
       "onboard_time": 1736676738,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103461,
+      "num": 347413,
+      "word": "官方回应奥司他韦原研药和仿制药区别",
+      "onboard_time": 1736736739,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 99742,
@@ -780,7 +836,7 @@
     },
     {
       "raw_hot": 98572,
-      "num": 98572,
+      "num": 198255,
       "word": "肖战惊喜vlog",
       "onboard_time": 1736734458,
       "rank": 47,
@@ -947,6 +1003,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66093,
+      "num": 198416,
+      "word": "西藏痛失儿女辅警曾想让儿子当公安",
+      "onboard_time": 1736736438,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65525,
+      "num": 472447,
+      "word": "西藏震后安置正在加紧进行",
+      "onboard_time": 1736736677,
+      "rank": 2,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 61946,
       "num": 61946,
       "word": "阿森纳4比6曼联",
@@ -1003,6 +1075,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 45457,
+      "num": 253683,
+      "word": "为何进口药越来越难买",
+      "onboard_time": 1736737579,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 44585,
       "num": 44585,
       "word": "鸟嬛是真的",
@@ -1025,22 +1105,6 @@
       "onboard_time": 1736691563,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 40324,
-      "num": 472447,
-      "word": "西藏震后安置正在加紧进行",
-      "onboard_time": 1736736677,
-      "rank": 2,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 39334,
-      "num": 347413,
-      "word": "官方回应奥司他韦原研药和仿制药区别",
-      "onboard_time": 1736736739,
-      "rank": 9,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 37081,
@@ -1081,14 +1145,6 @@
       "onboard_time": 1736705652,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 31359,
-      "num": 181700,
-      "word": "西藏痛失儿女辅警曾想让儿子当公安",
-      "onboard_time": 1736736438,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28790,
