@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736743337602,
+  "endTime": 1736745786419,
   "band_list": [
     {
       "raw_hot": 3087284,
@@ -227,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1151725,
+      "num": 1151725,
+      "word": "国色芳华剧方致歉",
+      "onboard_time": 1736741720,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1142346,
       "num": 1142346,
       "word": "微博之夜大合照",
@@ -315,14 +323,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1037202,
-      "num": 1037202,
-      "word": "国色芳华剧方致歉",
-      "onboard_time": 1736741720,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1034832,
       "num": 1034832,
       "word": "微博之夜四大美女",
@@ -379,6 +379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 944564,
+      "num": 442408,
+      "word": "丁禹兮回复粉丝我怕有刺的鱼",
+      "onboard_time": 1736741238,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 899500,
       "num": 517019,
       "word": "白鹿 死嘴快别笑了",
@@ -409,14 +417,6 @@
       "onboard_time": 1736682979,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 848465,
-      "num": 442408,
-      "word": "丁禹兮回复粉丝我怕有刺的鱼",
-      "onboard_time": 1736741238,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 844895,
@@ -523,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 756677,
+      "num": 756677,
+      "word": "尹锡悦呼吁韩国政府支援加州山火",
+      "onboard_time": 1736744000,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 748336,
       "num": 546656,
       "word": "沈腾人生照片",
@@ -625,6 +633,14 @@
       "onboard_time": 1736648479,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 683778,
+      "num": 683778,
+      "word": "冲动订购19800元内衣隔天能退吗",
+      "onboard_time": 1736742380,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 682086,
@@ -787,6 +803,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 573277,
+      "num": 573277,
+      "word": "教育部拟同意设置14所本科高校",
+      "onboard_time": 1736740521,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 555730,
       "num": 555730,
       "word": "韩国一核电站核废液泄漏",
@@ -825,14 +849,6 @@
       "onboard_time": 1736599646,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 522281,
-      "num": 522281,
-      "word": "教育部拟同意设置14所本科高校",
-      "onboard_time": 1736740521,
-      "rank": 6,
-      "category": "教育"
     },
     {
       "raw_hot": 520384,
@@ -905,6 +921,14 @@
       "onboard_time": 1736732239,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 482596,
+      "num": 401791,
+      "word": "李现说杨紫朋友圈最有趣",
+      "onboard_time": 1736742620,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 475671,
@@ -993,6 +1017,14 @@
       "onboard_time": 1736653939,
       "rank": 17,
       "category": "作品衍生,体育"
+    },
+    {
+      "raw_hot": 424878,
+      "num": 424878,
+      "word": "司机不给消防车让道称以为谁喝多了",
+      "onboard_time": 1736742440,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 416758,
@@ -1155,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 366832,
+      "num": 366832,
+      "word": "刘昊然澳网上早课",
+      "onboard_time": 1736740639,
+      "rank": 15,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 365159,
       "num": 280552,
       "word": "李现公主抱杨紫",
@@ -1179,20 +1219,20 @@
       "category": "体育,作品衍生"
     },
     {
-      "raw_hot": 352851,
-      "num": 352851,
-      "word": "刘昊然澳网上早课",
-      "onboard_time": 1736740639,
-      "rank": 15,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 351673,
       "num": 351673,
       "word": "王楚钦和马龙樊振东击掌道别",
       "onboard_time": 1736639656,
       "rank": 13,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 351554,
+      "num": 351554,
+      "word": "庆奶吃亏在看着太年轻",
+      "onboard_time": 1736745022,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 347346,
@@ -1233,6 +1273,14 @@
       "onboard_time": 1736638274,
       "rank": 34,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 337218,
+      "num": 337218,
+      "word": "质疑国色芳华抄袭作者称不要上升演员",
+      "onboard_time": 1736740759,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 332231,
@@ -1281,14 +1329,6 @@
       "onboard_time": 1736690061,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 322817,
-      "num": 322817,
-      "word": "质疑国色芳华抄袭作者称不要上升演员",
-      "onboard_time": 1736740759,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 322781,
@@ -1395,14 +1435,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 310036,
-      "num": 331159,
-      "word": "冲动订购19800元内衣隔天能退吗",
-      "onboard_time": 1736742380,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 308264,
       "num": 308264,
       "word": "第五人格",
@@ -1505,6 +1537,14 @@
       "onboard_time": 1736658139,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 286466,
+      "num": 286466,
+      "word": "王楚钦小说里的顶级大学生",
+      "onboard_time": 1736743222,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 283616,
@@ -1755,6 +1795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 229767,
+      "num": 229767,
+      "word": "关晓彤回应垂耳兔塑",
+      "onboard_time": 1736744481,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 229223,
       "num": 229223,
       "word": "李冰冰对侯明昊脸颊比心",
@@ -1817,14 +1865,6 @@
       "onboard_time": 1736647400,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 223162,
-      "num": 274046,
-      "word": "李现说杨紫朋友圈最有趣",
-      "onboard_time": 1736742620,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 222002,
@@ -1897,6 +1937,14 @@
       "onboard_time": 1736672299,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214449,
+      "num": 214449,
+      "word": "智利超92%车厘子出口中国",
+      "onboard_time": 1736743161,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 214241,
@@ -2075,12 +2123,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 205845,
-      "num": 205845,
-      "word": "司机不给消防车让道称以为谁喝多了",
-      "onboard_time": 1736742440,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 206166,
+      "num": 184430,
+      "word": "陈雨菲宣布冲击洛杉矶奥运会",
+      "onboard_time": 1736745260,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 205799,
@@ -2249,6 +2297,14 @@
       "onboard_time": 1736672839,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198699,
+      "num": 198699,
+      "word": "张远 好的爱情是喜忧参半",
+      "onboard_time": 1736744661,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 198692,
@@ -2483,6 +2539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187409,
+      "num": 187409,
+      "word": "我家那小子",
+      "onboard_time": 1736745080,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187240,
       "num": 208732,
       "word": "成本50卖5000水晶为何突然受热捧",
@@ -2563,6 +2627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 183028,
+      "num": 180216,
+      "word": "胖东来规定不允许不喜欢自己的工作",
+      "onboard_time": 1736740639,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182983,
       "num": 182983,
       "word": "洛阳给国色芳华的排面真中",
@@ -2585,6 +2657,14 @@
       "onboard_time": 1736683639,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 181960,
+      "num": 181960,
+      "word": "苏新皓摄影师否认抄袭",
+      "onboard_time": 1736743940,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 181289,
@@ -2627,6 +2707,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 176861,
+      "num": 176861,
+      "word": "北京将新增1所本科高校",
+      "onboard_time": 1736745022,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 176612,
       "num": 176612,
       "word": "白月梵星台词含金量",
@@ -2651,6 +2739,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 174472,
+      "num": 174472,
+      "word": "一团伙非法倒垃圾1个多月获利25万",
+      "onboard_time": 1736743581,
+      "rank": 35,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 173909,
       "num": 173909,
       "word": "2025一大批大国重器来了",
@@ -2673,6 +2769,14 @@
       "onboard_time": 1736606429,
       "rank": 48,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 173333,
+      "num": 173333,
+      "word": "曹恩齐 死嘴快解释啊",
+      "onboard_time": 1736745739,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 172894,
@@ -2867,14 +2971,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 161996,
-      "num": 161996,
-      "word": "智利超92%车厘子出口中国",
-      "onboard_time": 1736743161,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161990,
       "num": 150124,
       "word": "张远大学曾因恋爱离家出走",
@@ -2923,6 +3019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158968,
+      "num": 158968,
+      "word": "郑钦文澳网第二轮对手出炉",
+      "onboard_time": 1736745320,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158618,
       "num": 188579,
       "word": "eStar新年新花样",
@@ -2947,12 +3051,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 157156,
+      "num": 157156,
+      "word": "谁把何惟芳的中药换成冰美式了",
+      "onboard_time": 1736745739,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156479,
       "num": 240004,
       "word": "西藏定日6.8级地震遇难同胞悼念仪式",
       "onboard_time": 1736738358,
       "rank": 36,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 156427,
+      "num": 156427,
+      "word": "刘涛 有人在背后蛐蛐你",
+      "onboard_time": 1736745680,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 156400,
@@ -2987,12 +3107,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 155269,
-      "num": 155269,
-      "word": "胖东来规定不允许不喜欢自己的工作",
-      "onboard_time": 1736740639,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 155028,
+      "num": 155028,
+      "word": "刘晓庆体力",
+      "onboard_time": 1736745559,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 154628,
@@ -3001,6 +3121,22 @@
       "onboard_time": 1736655560,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154543,
+      "num": 154543,
+      "word": "刘诗诗拍的雪景",
+      "onboard_time": 1736745680,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 154370,
+      "num": 154370,
+      "word": "胡冰卿新剧再现戚百草旋风踢",
+      "onboard_time": 1736745501,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 154185,
@@ -3161,6 +3297,14 @@
       "onboard_time": 1736736379,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 148250,
+      "num": 148250,
+      "word": "未定事件簿中式奇幻",
+      "onboard_time": 1736744481,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 148224,
@@ -4059,12 +4203,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103052,
+      "num": 229369,
+      "word": "泽连斯基准备派150名消防员到加州救火",
+      "onboard_time": 1736745022,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 102403,
       "num": 340250,
       "word": "李某涉嫌以危险方法危害公共安全罪",
       "onboard_time": 1736591727,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102027,
+      "num": 184606,
+      "word": "美国网友呼吁洛杉矶应向重庆学习",
+      "onboard_time": 1736744120,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 101707,
@@ -4331,14 +4491,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 74251,
-      "num": 270042,
-      "word": "王楚钦小说里的顶级大学生",
-      "onboard_time": 1736743222,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 70022,
       "num": 70022,
       "word": "1807",
@@ -4465,6 +4617,14 @@
       "onboard_time": 1736661799,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 58560,
+      "num": 220172,
+      "word": "王楚钦希望大家获得想要的自由",
+      "onboard_time": 1736745379,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 55877,
