@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736778155293,
+  "endTime": 1736779282982,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1683,6 +1683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1574790,
+      "num": 1427942,
+      "word": "金靖建议女孩一定要有正常的体重",
+      "onboard_time": 1736777062,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1571690,
       "num": 1571690,
       "word": "肖战梅开二度",
@@ -1915,6 +1923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1462567,
+      "num": 527642,
+      "word": "妻子裸死前夫家中丈夫拒付丧葬费",
+      "onboard_time": 1736777062,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1460989,
       "num": 488648,
       "word": "徐以若 于正",
@@ -1961,14 +1977,6 @@
       "onboard_time": 1735890917,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1427942,
-      "num": 1427942,
-      "word": "金靖建议女孩一定要有正常的体重",
-      "onboard_time": 1736777062,
-      "rank": 1,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1422544,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736249662,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1271175,
-      "num": 1271175,
-      "word": "丁禹兮张凌赫加微信",
-      "onboard_time": 1736594068,
-      "rank": 24,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [

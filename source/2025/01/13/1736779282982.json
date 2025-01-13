@@ -1,0 +1,410 @@
+{
+  "runTime": 1736779282982,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1414467,
+        "num": 1414467,
+        "word": "日本地震",
+        "onboard_time": 1736772019,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1056165,
+        "num": 1056165,
+        "word": "蔡明评价李小冉",
+        "onboard_time": 1736774302,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74508,
+        "num": 729442,
+        "word": "古人把花花玩出花",
+        "onboard_time": 1736773220,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1574790,
+        "num": 714965,
+        "word": "金靖建议女孩一定要有正常的体重",
+        "onboard_time": 1736777062,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 695846,
+        "num": 695846,
+        "word": "西藏定日5.0级地震",
+        "onboard_time": 1736774901,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 530391,
+        "num": 530391,
+        "word": "马化腾不希望微信送礼物功能被过度吹捧",
+        "onboard_time": 1736766199,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1122290,
+        "num": 530360,
+        "word": "朱旺旺爆改",
+        "onboard_time": 1736774180,
+        "rank": 6,
+        "category": "网红,美妆"
+      },
+      {
+        "raw_hot": 529911,
+        "num": 529911,
+        "word": "杨幂风筝",
+        "onboard_time": 1736774180,
+        "rank": 7,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 43670,
+        "num": 528932,
+        "word": "律师解读重庆大量锦鲤被毒死案",
+        "onboard_time": 1736778440,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45533,
+        "num": 528001,
+        "word": "西藏定日1分钟内发生两次余震",
+        "onboard_time": 1736779101,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1462567,
+        "num": 527642,
+        "word": "妻子裸死前夫家中丈夫拒付丧葬费",
+        "onboard_time": 1736777062,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 841260,
+        "num": 526700,
+        "word": "煮苹果水",
+        "onboard_time": 1736760200,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 525944,
+        "num": 525944,
+        "word": "手机尾号0000000成交价70万",
+        "onboard_time": 1736769859,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 497422,
+        "num": 497422,
+        "word": "2万吨车厘子到中国还有2万吨快到了",
+        "onboard_time": 1736759421,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94493,
+        "num": 470845,
+        "word": "马拉松报名费为何越来越贵",
+        "onboard_time": 1736778020,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 467281,
+        "num": 467281,
+        "word": "敖瑞鹏单手公主抱了白鹿",
+        "onboard_time": 1736770579,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 451656,
+        "num": 451656,
+        "word": "日本6.7级左右地震",
+        "onboard_time": 1736773521,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 401407,
+        "num": 401407,
+        "word": "肖战喊庄达菲庄庄",
+        "onboard_time": 1736772079,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 380873,
+        "num": 380873,
+        "word": "西藏定日多天后仍在余震",
+        "onboard_time": 1736777062,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276162,
+        "num": 276162,
+        "word": "王鹤棣田曦薇吻戏古装vs现偶",
+        "onboard_time": 1736772800,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 922148,
+        "num": 267274,
+        "word": "29岁孕妇狂炫火锅血里洗出1500毫升油",
+        "onboard_time": 1736773160,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342319,
+        "num": 263980,
+        "word": "终于把车厘子和樱桃搞明白了",
+        "onboard_time": 1736771960,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 256864,
+        "num": 256864,
+        "word": "BLACKPINK2025新年祝福视频",
+        "onboard_time": 1736777660,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32169,
+        "num": 250312,
+        "word": "宋雨琦回应cha虞书欣新歌上热搜",
+        "onboard_time": 1736779041,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 249383,
+        "num": 249383,
+        "word": "杨紫何惟芳垂耳兔造型",
+        "onboard_time": 1736775922,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249298,
+        "num": 249298,
+        "word": "北京流感已达高峰",
+        "onboard_time": 1736774421,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238153,
+        "num": 238153,
+        "word": "王暖暖离婚案已报至最高法",
+        "onboard_time": 1736769439,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235927,
+        "num": 235927,
+        "word": "为什么一摘眼镜就听不清",
+        "onboard_time": 1736775802,
+        "rank": 27,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 228937,
+        "num": 228937,
+        "word": "汤唯父亲回应费翔抽到自己的书法",
+        "onboard_time": 1736770760,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214596,
+        "num": 214596,
+        "word": "九尾蓝发",
+        "onboard_time": 1736777541,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 211368,
+        "num": 211368,
+        "word": "刘晓庆74岁的饭量",
+        "onboard_time": 1736775502,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209317,
+        "num": 209317,
+        "word": "小红书美国appstore下载榜第一",
+        "onboard_time": 1736759719,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 196068,
+        "num": 196068,
+        "word": "蔡磊身体机能断崖式下降",
+        "onboard_time": 1736778741,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26641,
+        "num": 193354,
+        "word": "白敬亭和宋亚轩内心都很火热",
+        "onboard_time": 1736778921,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192151,
+        "num": 192151,
+        "word": "白月梵星",
+        "onboard_time": 1736763319,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184033,
+        "num": 184033,
+        "word": "杨紫 养老剧",
+        "onboard_time": 1736753899,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190955,
+        "num": 183153,
+        "word": "白月梵星加更",
+        "onboard_time": 1736778260,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175634,
+        "num": 175634,
+        "word": "是谁给杭州套上了摇粒绒外套",
+        "onboard_time": 1736774722,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 824212,
+        "num": 175550,
+        "word": "西藏地震",
+        "onboard_time": 1736774661,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175106,
+        "num": 175106,
+        "word": "男子住酒店发现装修风格和医院一样",
+        "onboard_time": 1736768421,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170839,
+        "num": 170839,
+        "word": "国色芳华被侵权人讲述始末",
+        "onboard_time": 1736769679,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156887,
+        "num": 156887,
+        "word": "白敬亭回应和宋亚轩聊天很干巴",
+        "onboard_time": 1736765539,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151622,
+        "num": 151622,
+        "word": "公园观赏鱼大量死亡一男子被刑拘",
+        "onboard_time": 1736758099,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148800,
+        "num": 148800,
+        "word": "给王鹤棣演爽了吧",
+        "onboard_time": 1736773400,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148465,
+        "num": 148465,
+        "word": "女子把丈夫同事9人每日午餐包圆了",
+        "onboard_time": 1736760020,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148369,
+        "num": 148369,
+        "word": "李昀锐 舒肤佳变硫磺皂",
+        "onboard_time": 1736757021,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145525,
+        "num": 145525,
+        "word": "泰国警方称游客可用APP中文报警",
+        "onboard_time": 1736769738,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146422,
+        "num": 145341,
+        "word": "齐思钧收到了米卡的礼物",
+        "onboard_time": 1736777722,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141856,
+        "num": 141856,
+        "word": "律师解读西湖边放杨幂风筝谁担责",
+        "onboard_time": 1736770820,
+        "rank": 48,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 136032,
+        "num": 136032,
+        "word": "敖瑞鹏不语只是一味提鞋",
+        "onboard_time": 1736776101,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见格林纳达总理米切尔#"
+    }
+  }
+}
