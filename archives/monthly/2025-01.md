@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/13 23:39:42
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/14 00:29:41
 </p>
 </blockquote>
 <p>
@@ -3075,6 +3075,12 @@ A股（热度：927066）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E5%9B%9E%E5%BA%94%E8%9B%8B%E7%B3%95%E8%83%9A%E5%90%83%E5%87%BA%E7%99%BD%E8%89%B2%E5%BC%82%E7%89%A9%23" target="weibo">
+山姆回应蛋糕胚吃出白色异物（热度：888159）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%B1%B1%E7%81%AB%E5%AE%8C%E5%85%A8%E5%A4%B1%E6%8E%A7%23" target="weibo">
 美国洛杉矶山火完全失控（热度：888040）
 </a>
@@ -3347,6 +3353,12 @@ R1SE舞台（热度：868936）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%8C%89%E5%BE%AE%E5%8D%9A%E6%98%B5%E7%A7%B0%E9%A6%96%E5%AD%97%E6%AF%8D%E6%8E%92%E5%BA%8F%23" target="weibo">
 范丞丞按微博昵称首字母排序（热度：831887）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E5%9B%9E%E5%BA%94%E8%B5%B4%E6%B3%B0%E6%97%85%E6%B8%B8%E5%AE%89%E5%85%A8%E9%97%AE%E9%A2%98%23" target="weibo">
+泰国总理回应赴泰旅游安全问题（热度：827893）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ A50（热度：572477）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E4%BD%95%E7%82%85%E6%98%AF%E4%B8%80%E8%BE%88%E5%AD%90%E7%9A%84%E5%A5%BD%E6%9C%8B%E5%8F%8B%23" target="weibo">
 谢娜何炅是一辈子的好朋友（热度：509195）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E9%A2%9D%E5%A4%B4%E4%B8%80%E7%BB%BA%23" target="weibo">
-赵丽颖额头一绺（热度：508064）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E8%9B%87%E7%B3%BB%E7%BE%8E%E4%BA%BA%23" target="weibo">
-李沁蛇系美人（热度：507856）
 </a>
 </li>
 
