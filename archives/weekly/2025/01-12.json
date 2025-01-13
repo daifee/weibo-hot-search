@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736781927982,
+  "endTime": 1736782782833,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -283,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1269321,
+      "num": 1269321,
+      "word": "蔡磊身体机能断崖式下降",
+      "onboard_time": 1736778741,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1249875,
       "num": 1249875,
       "word": "惠英红 我cp婚礼见证人",
@@ -417,14 +425,6 @@
       "onboard_time": 1736692401,
       "rank": 42,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1061688,
-      "num": 1169870,
-      "word": "蔡磊身体机能断崖式下降",
-      "onboard_time": 1736778741,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1056877,
@@ -1867,12 +1867,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 328403,
+      "num": 328403,
+      "word": "山姆回应蛋糕胚吃出白色异物",
+      "onboard_time": 1736780600,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 326448,
       "num": 529311,
       "word": "无人机撞停加州山火灭火飞机",
       "onboard_time": 1736690061,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 322819,
+      "num": 322819,
+      "word": "BLACKPINK韩服造型",
+      "onboard_time": 1736781379,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 322781,
@@ -2747,6 +2763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216276,
+      "num": 216276,
+      "word": "国色芳华三郎 李隆基",
+      "onboard_time": 1736781680,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216206,
       "num": 216206,
       "word": "广州冻到结冰",
@@ -3075,6 +3099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 201618,
+      "num": 231714,
+      "word": "泰国总理回应赴泰旅游安全问题",
+      "onboard_time": 1736782040,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 201177,
       "num": 207190,
       "word": "敖瑞鹏不愧是极域腰王",
@@ -3217,6 +3249,14 @@
       "onboard_time": 1736752698,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 198163,
+      "num": 198163,
+      "word": "SM新男团",
+      "onboard_time": 1736781441,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 198131,
@@ -3499,14 +3539,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 189336,
-      "num": 189336,
-      "word": "山姆回应蛋糕胚吃出白色异物",
-      "onboard_time": 1736780600,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 189174,
       "num": 526072,
       "word": "钟意FMVP皮肤",
@@ -3635,14 +3667,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 184257,
-      "num": 184257,
-      "word": "BLACKPINK韩服造型",
-      "onboard_time": 1736781379,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 183696,
       "num": 183696,
       "word": "丁禹兮时装一月封面",
@@ -3721,14 +3745,6 @@
       "onboard_time": 1736665098,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 180090,
-      "num": 180090,
-      "word": "SM新男团",
-      "onboard_time": 1736781441,
-      "rank": 32,
-      "category": "演出"
     },
     {
       "raw_hot": 179712,
@@ -3980,7 +3996,7 @@
     },
     {
       "raw_hot": 168482,
-      "num": 168482,
+      "num": 232180,
       "word": "澳网",
       "onboard_time": 1736645838,
       "rank": 33,
@@ -4225,6 +4241,14 @@
       "onboard_time": 1736753300,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157809,
+      "num": 245673,
+      "word": "单依纯方律师声明",
+      "onboard_time": 1736780180,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 157745,
@@ -4579,6 +4603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146755,
+      "num": 146755,
+      "word": "袜子里藏16万美元现金过海关被抓",
+      "onboard_time": 1736781559,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146740,
       "num": 146740,
       "word": "张杰马来西亚演唱会",
@@ -4593,14 +4625,6 @@
       "onboard_time": 1736777722,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 146035,
-      "num": 146035,
-      "word": "国色芳华三郎 李隆基",
-      "onboard_time": 1736781680,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 145901,
@@ -4667,6 +4691,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 143441,
+      "num": 143441,
+      "word": "SK瘦了",
+      "onboard_time": 1736781859,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 143430,
       "num": 194879,
       "word": "加州山火逼近美国重要太空设施",
@@ -4689,6 +4721,14 @@
       "onboard_time": 1736662938,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142480,
+      "num": 142480,
+      "word": "姜贞羽 浮香意思一下",
+      "onboard_time": 1736781260,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 142442,
@@ -4897,22 +4937,6 @@
       "onboard_time": 1736687000,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135370,
-      "num": 184262,
-      "word": "单依纯方律师声明",
-      "onboard_time": 1736780180,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 134871,
-      "num": 134871,
-      "word": "袜子里藏16万美元现金过海关被抓",
-      "onboard_time": 1736781559,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134675,
@@ -5177,14 +5201,6 @@
       "onboard_time": 1736636714,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 127808,
-      "num": 127808,
-      "word": "SK瘦了",
-      "onboard_time": 1736781859,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 127761,
@@ -5689,6 +5705,14 @@
       "onboard_time": 1736768059,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111364,
+      "num": 111364,
+      "word": "国色芳华预告",
+      "onboard_time": 1736782159,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 111312,
@@ -6385,6 +6409,14 @@
       "onboard_time": 1736661799,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 57347,
+      "num": 359900,
+      "word": "快递公司回应春节是否停运",
+      "onboard_time": 1736782638,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55926,
@@ -7113,6 +7145,14 @@
       "onboard_time": 1736702715,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12136,
+      "num": 245732,
+      "word": "雄狮少年3还在策划中",
+      "onboard_time": 1736782759,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 11135,
