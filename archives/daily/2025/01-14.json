@@ -1,6 +1,6 @@
 {
   "startTime": 1736785781963,
-  "endTime": 1736810439210,
+  "endTime": 1736811331029,
   "band_list": [
     {
       "raw_hot": 888159,
@@ -19,6 +19,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 662943,
+      "num": 901140,
+      "word": "一路繁花8个人只吃了700块",
+      "onboard_time": 1736786536,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 622975,
       "num": 622975,
       "word": "蔡磊身体机能断崖式下降",
@@ -35,12 +43,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 597908,
-      "num": 790109,
-      "word": "一路繁花8个人只吃了700块",
-      "onboard_time": 1736786536,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 524766,
+      "num": 524766,
+      "word": "男子用杀虫剂毒死大量锦鲤被刑拘",
+      "onboard_time": 1736794991,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 453438,
@@ -49,14 +57,6 @@
       "onboard_time": 1736777062,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 444771,
-      "num": 444771,
-      "word": "男子用杀虫剂毒死大量锦鲤被刑拘",
-      "onboard_time": 1736794991,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 439968,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 241779,
+      "num": 241779,
+      "word": "袜子里藏16万美元现金过海关被抓",
+      "onboard_time": 1736781559,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237194,
       "num": 237194,
       "word": "2万吨车厘子到中国还有2万吨快到了",
@@ -163,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211721,
+      "num": 211721,
+      "word": "目击者称观音桥死鱼装了30多袋",
+      "onboard_time": 1736802491,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198037,
       "num": 198037,
       "word": "敖瑞鹏单手公主抱了白鹿",
@@ -179,12 +195,20 @@
       "category": "网红,美妆"
     },
     {
-      "raw_hot": 181777,
-      "num": 181777,
-      "word": "袜子里藏16万美元现金过海关被抓",
-      "onboard_time": 1736781559,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 194495,
+      "num": 194495,
+      "word": "李娜差点扔了法网冠军奖杯",
+      "onboard_time": 1736780301,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 179846,
+      "num": 179846,
+      "word": "洛杉矶山火蔓延居民紧急撤离",
+      "onboard_time": 1736800759,
+      "rank": 6,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 172397,
@@ -203,12 +227,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 165124,
-      "num": 165124,
-      "word": "洛杉矶山火蔓延居民紧急撤离",
-      "onboard_time": 1736800759,
-      "rank": 6,
-      "category": "海外新闻"
+      "raw_hot": 167428,
+      "num": 85421,
+      "word": "终于知道早读班主任为啥用书挡脸了",
+      "onboard_time": 1736810356,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161724,
@@ -217,14 +241,6 @@
       "onboard_time": 1736773521,
       "rank": 26,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 160781,
-      "num": 160781,
-      "word": "目击者称观音桥死鱼装了30多袋",
-      "onboard_time": 1736802491,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 156583,
@@ -243,12 +259,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 145512,
-      "num": 145512,
-      "word": "李娜差点扔了法网冠军奖杯",
-      "onboard_time": 1736780301,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 146656,
+      "num": 146656,
+      "word": "男子住酒店发现装修风格和医院一样",
+      "onboard_time": 1736768421,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144180,
@@ -265,6 +281,14 @@
       "onboard_time": 1736759719,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 135718,
+      "num": 110160,
+      "word": "什么水果上市就意味着快过年了",
+      "onboard_time": 1736810835,
+      "rank": 21,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 135535,
@@ -291,20 +315,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128384,
+      "num": 128384,
+      "word": "新娘姐妹团5人中3个是世界冠军",
+      "onboard_time": 1736805732,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122715,
+      "num": 195908,
+      "word": "2025春运正式开启",
+      "onboard_time": 1736804891,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120291,
       "num": 120291,
       "word": "白鹿白烁角色热度周冠",
       "onboard_time": 1736785517,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119431,
-      "num": 67429,
-      "word": "终于知道早读班主任为啥用书挡脸了",
-      "onboard_time": 1736810356,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116641,
@@ -323,20 +355,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 112352,
-      "num": 112352,
-      "word": "新娘姐妹团5人中3个是世界冠军",
-      "onboard_time": 1736805732,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 110828,
-      "num": 110828,
-      "word": "男子住酒店发现装修风格和医院一样",
-      "onboard_time": 1736768421,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 109743,
+      "num": 109743,
+      "word": "当一群韩国人第一次来上海",
+      "onboard_time": 1736808793,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 109030,
@@ -371,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98524,
+      "num": 147087,
+      "word": "伊朗准备好应对重大长期战争",
+      "onboard_time": 1736810356,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 95636,
       "num": 129950,
       "word": "SK瘦了",
@@ -395,12 +427,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 91371,
-      "num": 91371,
-      "word": "2025春运正式开启",
-      "onboard_time": 1736804891,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 90350,
+      "num": 84997,
+      "word": "特鲁索娃怀孕",
+      "onboard_time": 1736810895,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 90321,
@@ -451,20 +483,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 82004,
-      "num": 82004,
-      "word": "当一群韩国人第一次来上海",
-      "onboard_time": 1736808793,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 80396,
       "num": 80396,
       "word": "白敬亭回应和宋亚轩聊天很干巴",
       "onboard_time": 1736765539,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 80035,
+      "num": 80035,
+      "word": "贵人鸟改名卖粮了",
+      "onboard_time": 1736787496,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 78533,
@@ -491,12 +523,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 71367,
-      "num": 67494,
-      "word": "贵人鸟改名卖粮了",
-      "onboard_time": 1736787496,
-      "rank": 49,
-      "category": "财经"
+      "raw_hot": 68144,
+      "num": 68144,
+      "word": "刘晓庆的手机壳",
+      "onboard_time": 1736810476,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 67403,
@@ -504,6 +536,22 @@
       "word": "计生局干部身中49刀21年后案件再审",
       "onboard_time": 1736805791,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65868,
+      "num": 65868,
+      "word": "被通报的4只警犬其实非常厉害",
+      "onboard_time": 1736809634,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64196,
+      "num": 86191,
+      "word": "2025年春运开启",
+      "onboard_time": 1736811135,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -523,19 +571,27 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 55894,
-      "num": 55894,
-      "word": "被通报的4只警犬其实非常厉害",
-      "onboard_time": 1736809634,
-      "rank": 41,
-      "category": "民生新闻"
+      "raw_hot": 55818,
+      "num": 110317,
+      "word": "雅说非常感谢丁禹兮",
+      "onboard_time": 1736810476,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
-      "raw_hot": 50290,
-      "num": 50290,
+      "raw_hot": 55362,
+      "num": 55362,
       "word": "老人用新手机专门和骗子联系",
       "onboard_time": 1736796491,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48309,
+      "num": 48309,
+      "word": "进口药退出公立医院",
+      "onboard_time": 1736811196,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -571,20 +627,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 42149,
-      "num": 67546,
-      "word": "伊朗准备好应对重大长期战争",
-      "onboard_time": 1736810356,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 39309,
       "num": 39309,
       "word": "丹麦称愿同特朗普讨论格陵兰诉求",
       "onboard_time": 1736798892,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 38393,
+      "num": 436614,
+      "word": "我国外贸含新量还在不断上升",
+      "onboard_time": 1736773101,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 37239,
@@ -609,14 +665,6 @@
       "onboard_time": 1736778921,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 32629,
-      "num": 360234,
-      "word": "我国外贸含新量还在不断上升",
-      "onboard_time": 1736773101,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 29011,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/14 07:20:39
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/14 07:35:31
 </p>
 </blockquote>
 <p>
@@ -4545,6 +4545,12 @@ SM新女团 SMTOWN压轴（热度：743773）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B7%AF%E7%B9%81%E8%8A%B18%E4%B8%AA%E4%BA%BA%E5%8F%AA%E5%90%83%E4%BA%86700%E5%9D%97%23" target="weibo">
+一路繁花8个人只吃了700块（热度：662943）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%A4%8F%E5%A4%9A%E5%9C%B0%E6%88%96%E5%87%BA%E7%8E%B0%E8%9B%87%E5%BD%A2%E4%BA%91%23" target="weibo">
 宁夏多地或出现蛇形云（热度：662456）
 </a>
@@ -5135,12 +5141,6 @@ EXO唱了初雪（热度：600311）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E5%8F%91%E7%BE%8E%E7%89%88%E6%96%B0%E5%9C%B0%E5%9B%BE%23" target="weibo">
 特朗普再发美版新地图（热度：598602）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B7%AF%E7%B9%81%E8%8A%B18%E4%B8%AA%E4%BA%BA%E5%8F%AA%E5%90%83%E4%BA%86700%E5%9D%97%23" target="weibo">
-一路繁花8个人只吃了700块（热度：597908）
 </a>
 </li>
 
@@ -5775,6 +5775,12 @@ A50（热度：572477）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A8%E6%9D%80%E8%99%AB%E5%89%82%E6%AF%92%E6%AD%BB%E5%A4%A7%E9%87%8F%E9%94%A6%E9%B2%A4%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
+男子用杀虫剂毒死大量锦鲤被刑拘（热度：524766）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E9%98%9F%E4%B8%BA%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%81%9A%E5%A5%A5%E8%BF%90%E4%BF%9D%E9%9A%9C%E5%B7%A5%E4%BD%9C%23" target="weibo">
 上海队为樊振东做奥运保障工作（热度：524759）
 </a>
@@ -6005,12 +6011,6 @@ A50（热度：572477）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%93%84%23" target="weibo">
 难哄（热度：509744）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D4.9%E7%BA%A7%E5%B7%A6%E5%8F%B3%E5%9C%B0%E9%9C%87%23" target="weibo">
-银川4.9级左右地震（热度：509232）
 </a>
 </li>
 
