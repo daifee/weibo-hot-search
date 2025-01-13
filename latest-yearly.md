@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/13 21:00:47
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/13 21:28:33
 </p>
 </blockquote>
 <p>
@@ -461,6 +461,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E7%BB%88%E4%BA%8E%E4%B8%8E%E5%A5%B3%E5%8F%8B%E8%A7%81%E9%9D%A2%E4%BA%86%23" target="weibo">
 王星终于与女友见面了（热度：2523138）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%23" target="weibo">
+日本地震（热度：2489240）
 </a>
 </li>
 
@@ -1529,12 +1535,6 @@ AG挑战者杯夺冠（热度：1652837）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%B9%E6%80%A7%E9%80%80%E4%BC%91%E5%8A%9E%E6%B3%95%E6%9D%A5%E4%BA%86%23" target="weibo">
 弹性退休办法来了（热度：1391559）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%23" target="weibo">
-日本地震（热度：1387139）
 </a>
 </li>
 

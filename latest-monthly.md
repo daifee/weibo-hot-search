@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/13 21:00:47
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/13 21:28:33
 </p>
 </blockquote>
 <p>
@@ -461,6 +461,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E7%BB%88%E4%BA%8E%E4%B8%8E%E5%A5%B3%E5%8F%8B%E8%A7%81%E9%9D%A2%E4%BA%86%23" target="weibo">
 王星终于与女友见面了（热度：2523138）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%23" target="weibo">
+日本地震（热度：2489240）
 </a>
 </li>
 
@@ -1533,12 +1539,6 @@ AG挑战者杯夺冠（热度：1652837）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%23" target="weibo">
-日本地震（热度：1387139）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A4%E4%BC%913%E7%9A%84%E5%A5%BD%E5%A4%84%E5%B7%B2%E7%BB%8F%E6%98%BE%E7%8E%B0%E5%87%BA%E6%9D%A5%E4%BA%86%23" target="weibo">
 上4休3的好处已经显现出来了（热度：1384245）
 </a>
@@ -1821,6 +1821,12 @@ AG挑战者杯夺冠（热度：1652837）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E5%85%A8%E8%BA%AB%E8%B5%A4%E8%A3%B8%E6%AD%BB%E5%9C%A8%E5%89%8D%E5%A4%AB%E5%AE%B6%E4%B8%AD%23" target="weibo">
+妻子全身赤裸死在前夫家中（热度：1260450）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2324%E5%B2%81%E5%B0%8F%E4%BC%99%E5%90%83%E5%A4%96%E5%8D%96%E5%90%8E%E7%9D%A1%E8%A7%89%E7%AA%81%E7%84%B6%E5%8E%BB%E4%B8%96%23" target="weibo">
 24岁小伙吃外卖后睡觉突然去世（热度：1255753）
 </a>
@@ -2081,6 +2087,12 @@ AG挑战者杯夺冠（热度：1652837）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%90%8D%E5%AA%9B%E5%B1%B1%E7%81%AB%E5%90%8E%E5%9B%9E%E5%AE%B6%E5%8F%91%E7%8E%B0%E5%8F%AA%E5%89%A9%E9%97%A8%E6%A1%86%23" target="weibo">
 美国名媛山火后回家发现只剩门框（热度：1140474）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2329%E5%B2%81%E5%AD%95%E5%A6%87%E7%8B%82%E7%82%AB%E7%81%AB%E9%94%85%E8%A1%80%E9%87%8C%E6%B4%97%E5%87%BA1500%E6%AF%AB%E5%8D%87%E6%B2%B9%23" target="weibo">
+29岁孕妇狂炫火锅血里洗出1500毫升油（热度：1139091）
 </a>
 </li>
 
@@ -3843,6 +3855,12 @@ GMM（热度：773720）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9A%96%E6%9A%96%E7%A6%BB%E5%A9%9A%E6%A1%88%E5%B7%B2%E6%8A%A5%E8%87%B3%E6%9C%80%E9%AB%98%E6%B3%95%23" target="weibo">
+王暖暖离婚案已报至最高法（热度：746664）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%B0%E8%BF%AA%20%E8%A1%80%E6%B0%94%E5%85%85%E7%9B%88%E7%9A%84%E7%BE%8E%23" target="weibo">
 李兰迪 血气充盈的美（热度：744576）
 </a>
@@ -3963,12 +3981,6 @@ SM新女团 SMTOWN压轴（热度：743773）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E5%85%A8%E8%BA%AB%E8%B5%A4%E8%A3%B8%E6%AD%BB%E5%9C%A8%E5%89%8D%E5%A4%AB%E5%AE%B6%E4%B8%AD%23" target="weibo">
-妻子全身赤裸死在前夫家中（热度：729493）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E6%AF%9B%E7%BB%92%E6%9D%AF%23" target="weibo">
 霸王茶姬毛绒杯（热度：728069）
 </a>
@@ -4037,6 +4049,12 @@ SM新女团 SMTOWN压轴（热度：743773）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%87%E7%AA%81%E7%84%B6%E5%88%86%E5%A8%A9%E9%99%8C%E7%94%9F%E4%BA%BA%E7%9A%84%E7%BE%BD%E7%BB%92%E6%9C%8D%E7%AB%8B%E5%A4%A7%E5%8A%9F%23" target="weibo">
 孕妇突然分娩陌生人的羽绒服立大功（热度：718063）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E6%98%8E%E8%AF%84%E4%BB%B7%E6%9D%8E%E5%B0%8F%E5%86%89%23" target="weibo">
+蔡明评价李小冉（热度：714830）
 </a>
 </li>
 
@@ -5403,6 +5421,12 @@ A50（热度：572477）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%96%E7%91%9E%E9%B9%8F%E5%8D%95%E6%89%8B%E5%85%AC%E4%B8%BB%E6%8A%B1%E4%BA%86%E7%99%BD%E9%B9%BF%23" target="weibo">
+敖瑞鹏单手公主抱了白鹿（热度：560512）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99%E4%B8%A2%E4%BA%8613%E4%BB%B6%E8%A1%8C%E6%9D%8E%23" target="weibo">
 伊能静丢了13件行李（热度：560484）
 </a>
@@ -5519,12 +5543,6 @@ A50（热度：572477）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BC%BA%E4%B8%9C%E6%9B%BE%E6%94%B6%E6%9D%91%E6%B0%91500%E5%85%8376%E4%B8%AA%E8%8C%B6%E5%8F%B6%E8%9B%8B%23" target="weibo">
 刘强东曾收村民500元76个茶叶蛋（热度：551681）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9A%96%E6%9A%96%E7%A6%BB%E5%A9%9A%E6%A1%88%E5%B7%B2%E6%8A%A5%E8%87%B3%E6%9C%80%E9%AB%98%E6%B3%95%23" target="weibo">
-王暖暖离婚案已报至最高法（热度：548853）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ A50（热度：572477）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E6%B2%A1%E8%B5%B0%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%8D%95%E4%BA%BA%E7%BA%A2%E6%AF%AF%23" target="weibo">
 唐嫣没走第二次单人红毯（热度：504453）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%B0%E6%89%8B%E6%9C%BA%E5%B9%B3%E6%9D%BF%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8%E6%89%8B%E7%8E%AF%E8%83%BD%E7%9C%81%E9%92%B1%E4%BA%86%23" target="weibo">
-买手机平板智能手表手环能省钱了（热度：504340）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E6%8B%A5%E6%8A%B1%E8%B0%A2%E5%A8%9C%E9%9B%B6%E7%82%B9%E7%85%A7%E7%89%87%23" target="weibo">
-何炅拥抱谢娜零点照片（热度：503506）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%E7%89%9B%E4%BA%86%E4%B8%80%E6%95%B4%E5%AD%A3%23" target="weibo">
-再见爱人牛了一整季（热度：502932）
 </a>
 </li>
 

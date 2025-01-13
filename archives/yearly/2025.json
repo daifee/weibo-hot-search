@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736773247622,
+  "endTime": 1736774913894,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -601,6 +601,14 @@
       "onboard_time": 1736322984,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2489240,
+      "num": 2489240,
+      "word": "日本地震",
+      "onboard_time": 1736772019,
+      "rank": 24,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 2483975,
@@ -2025,14 +2033,6 @@
       "onboard_time": 1735715780,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1387139,
-      "num": 1387139,
-      "word": "日本地震",
-      "onboard_time": 1736772019,
-      "rank": 24,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1384245,
