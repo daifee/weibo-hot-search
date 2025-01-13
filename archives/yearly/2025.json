@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736737661481,
+  "endTime": 1736739177850,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -2163,6 +2163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1307497,
+      "num": 1307497,
+      "word": "国色芳华妆造被指抄袭",
+      "onboard_time": 1736736978,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1299836,
       "num": 1299836,
       "word": "李昀锐有点紧张",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735617620,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1234808,
-      "num": 597309,
-      "word": "韩国空难遇难机长哥哥的亲笔信",
-      "onboard_time": 1735808780,
-      "rank": 12,
-      "category": "海外新闻"
     }
   ],
   "hotgov_list": [

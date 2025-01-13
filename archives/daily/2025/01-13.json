@@ -1,6 +1,6 @@
 {
   "startTime": 1736699124375,
-  "endTime": 1736737661481,
+  "endTime": 1736739177850,
   "band_list": [
     {
       "raw_hot": 2347735,
@@ -17,6 +17,14 @@
       "onboard_time": 1736728459,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1307497,
+      "num": 1307497,
+      "word": "国色芳华妆造被指抄袭",
+      "onboard_time": 1736736978,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 1085937,
@@ -65,6 +73,14 @@
       "onboard_time": 1736695222,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 816188,
+      "num": 306532,
+      "word": "王楚钦是国乒首个00后世界冠军",
+      "onboard_time": 1736737338,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 787720,
@@ -116,19 +132,11 @@
     },
     {
       "raw_hot": 565662,
-      "num": 208059,
+      "num": 242420,
       "word": "朋友圈先私密24小时再公开",
       "onboard_time": 1736694320,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 537482,
-      "num": 410911,
-      "word": "国色芳华妆造被指抄袭",
-      "onboard_time": 1736736978,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 520384,
@@ -195,6 +203,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 389682,
+      "num": 389682,
+      "word": "台积电4nm芯片量产",
+      "onboard_time": 1736733498,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 383070,
+      "num": 383070,
+      "word": "等国考成绩",
+      "onboard_time": 1736735478,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 376924,
+      "num": 376924,
+      "word": "异人之下2定档",
+      "onboard_time": 1736737878,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 375683,
       "num": 336361,
       "word": "老人女厕趴地上偷窥女子录下全过程",
@@ -209,14 +241,6 @@
       "onboard_time": 1736730318,
       "rank": 5,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 372520,
-      "num": 372520,
-      "word": "台积电4nm芯片量产",
-      "onboard_time": 1736733498,
-      "rank": 39,
-      "category": "数码"
     },
     {
       "raw_hot": 358745,
@@ -252,7 +276,7 @@
     },
     {
       "raw_hot": 338140,
-      "num": 203597,
+      "num": 248026,
       "word": "女子肉毒素中毒用了半年开塞露",
       "onboard_time": 1736734098,
       "rank": 49,
@@ -275,6 +299,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 310198,
+      "num": 310198,
+      "word": "丁禹兮怕有刺的鱼",
+      "onboard_time": 1736737338,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 305791,
+      "num": 305791,
+      "word": "鸡腿诺回应程鑫凯",
+      "onboard_time": 1736737819,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 297128,
       "num": 297128,
       "word": "地震救人男孩说不想做冷漠的人",
@@ -289,6 +329,22 @@
       "onboard_time": 1736694140,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 284948,
+      "num": 284948,
+      "word": "千朵桃花清冷佛子有脸了",
+      "onboard_time": 1736738540,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 280268,
+      "num": 280268,
+      "word": "封神2芭莎预告",
+      "onboard_time": 1736737638,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 280215,
@@ -340,7 +396,7 @@
     },
     {
       "raw_hot": 252975,
-      "num": 252975,
+      "num": 307138,
       "word": "解放军昼夜不停卸载震区救援物资",
       "onboard_time": 1736735237,
       "rank": 14,
@@ -387,11 +443,35 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240050,
+      "num": 240050,
+      "word": "王楚钦希望可以能选择所有的事情",
+      "onboard_time": 1736737819,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234121,
       "num": 234121,
       "word": "一代宗师",
       "onboard_time": 1736734518,
       "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 233295,
+      "num": 233295,
+      "word": "西藏痛失儿女辅警曾想让儿子当公安",
+      "onboard_time": 1736736438,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225950,
+      "num": 225950,
+      "word": "2025春节档影片你最期待哪部",
+      "onboard_time": 1736735179,
+      "rank": 45,
       "category": "电影"
     },
     {
@@ -401,14 +481,6 @@
       "onboard_time": 1736730318,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 221211,
-      "num": 221211,
-      "word": "等国考成绩",
-      "onboard_time": 1736735478,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 218495,
@@ -425,6 +497,14 @@
       "onboard_time": 1736725576,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212787,
+      "num": 233942,
+      "word": "苏新皓方声明",
+      "onboard_time": 1736738480,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 212581,
@@ -467,14 +547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202801,
-      "num": 202801,
-      "word": "丁禹兮怕有刺的鱼",
-      "onboard_time": 1736737338,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 199987,
       "num": 199987,
       "word": "白鹿敖瑞鹏朱山尽大片",
@@ -483,12 +555,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199732,
+      "num": 199732,
+      "word": "12306一天拒绝异常登录3982万次",
+      "onboard_time": 1736738480,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197689,
+      "num": 197689,
+      "word": "陈丽君贾宝玉的侧脸杀",
+      "onboard_time": 1736736139,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 193209,
       "num": 143480,
       "word": "导播切田曦薇 刘星分饼",
       "onboard_time": 1736688980,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188514,
+      "num": 188514,
+      "word": "大奉打更人团综定档",
+      "onboard_time": 1736738658,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 186835,
@@ -547,6 +643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156479,
+      "num": 156479,
+      "word": "西藏定日6.8级地震遇难同胞悼念仪式",
+      "onboard_time": 1736738358,
+      "rank": 36,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 153800,
       "num": 153800,
       "word": "日本警方回应中国女游客遭列车撞亡",
@@ -555,12 +659,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 153439,
-      "num": 153439,
-      "word": "陈丽君贾宝玉的侧脸杀",
-      "onboard_time": 1736736139,
-      "rank": 38,
-      "category": "演出"
+      "raw_hot": 152017,
+      "num": 152017,
+      "word": "国色芳华高开高走",
+      "onboard_time": 1736739020,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 150472,
@@ -569,6 +673,14 @@
       "onboard_time": 1736732478,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150307,
+      "num": 150307,
+      "word": "三十岁回村世界变得安静了",
+      "onboard_time": 1736738838,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 148709,
@@ -595,22 +707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 146720,
-      "num": 146720,
-      "word": "封神2芭莎预告",
-      "onboard_time": 1736737638,
-      "rank": 39,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 146458,
-      "num": 146458,
-      "word": "2025春节档影片你最期待哪部",
-      "onboard_time": 1736735179,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 145445,
       "num": 158185,
       "word": "洛杉矶市长沉默沉默再沉默",
@@ -625,6 +721,14 @@
       "onboard_time": 1736694382,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142012,
+      "num": 347413,
+      "word": "官方回应奥司他韦原研药和仿制药区别",
+      "onboard_time": 1736736739,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 136540,
@@ -667,20 +771,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127629,
+      "num": 302168,
+      "word": "为何进口药越来越难买",
+      "onboard_time": 1736737579,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 125110,
       "num": 125110,
       "word": "宋佳总台视后",
       "onboard_time": 1736724737,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 122547,
-      "num": 203097,
-      "word": "王楚钦是国乒首个00后世界冠军",
-      "onboard_time": 1736737338,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 122359,
@@ -713,6 +817,14 @@
       "onboard_time": 1736725576,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 117860,
+      "num": 224446,
+      "word": "肖战心向光明身在江湖",
+      "onboard_time": 1736739138,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 117832,
@@ -809,14 +921,6 @@
       "onboard_time": 1736676738,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 103461,
-      "num": 347413,
-      "word": "官方回应奥司他韦原研药和仿制药区别",
-      "onboard_time": 1736736739,
-      "rank": 9,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 99742,
@@ -923,6 +1027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 89087,
+      "num": 261558,
+      "word": "美国民众质疑税金都干什么了",
+      "onboard_time": 1736738238,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 85620,
       "num": 85620,
       "word": "警方回应观音桥锦鲤大量死亡",
@@ -1003,14 +1115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 66093,
-      "num": 198416,
-      "word": "西藏痛失儿女辅警曾想让儿子当公安",
-      "onboard_time": 1736736438,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 65525,
       "num": 472447,
       "word": "西藏震后安置正在加紧进行",
@@ -1073,14 +1177,6 @@
       "onboard_time": 1736732658,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 45457,
-      "num": 253683,
-      "word": "为何进口药越来越难买",
-      "onboard_time": 1736737579,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 44585,

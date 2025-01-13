@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/13 11:07:41
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/13 11:32:57
 </p>
 </blockquote>
 <p>
@@ -1631,6 +1631,12 @@ AG挑战者杯夺冠（热度：1652837）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E7%80%9A%E5%AE%87%E5%8A%A0%E7%9B%9F%E9%B9%BF%E6%99%97%E5%B7%A5%E4%BD%9C%E5%AE%A4%23" target="weibo">
 高瀚宇加盟鹿晗工作室（热度：1310666）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E5%A6%86%E9%80%A0%E8%A2%AB%E6%8C%87%E6%8A%84%E8%A2%AD%23" target="weibo">
+国色芳华妆造被指抄袭（热度：1307497）
 </a>
 </li>
 
@@ -3269,6 +3275,12 @@ B站拿下春晚转播权（热度：825759）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A6%83%E4%BA%88%E8%90%B1vs%E7%8E%8B%E6%9B%BC%E6%98%B1%23" target="weibo">
 覃予萱vs王曼昱（热度：818078）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%98%AF%E5%9B%BD%E4%B9%92%E9%A6%96%E4%B8%AA00%E5%90%8E%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%23" target="weibo">
+王楚钦是国乒首个00后世界冠军（热度：816188）
 </a>
 </li>
 
@@ -5391,12 +5403,6 @@ A50（热度：572477）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E5%A6%86%E9%80%A0%E8%A2%AB%E6%8C%87%E6%8A%84%E8%A2%AD%23" target="weibo">
-国色芳华妆造被指抄袭（热度：537482）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E6%98%9F%E6%98%9F%E6%9B%BE%E5%87%BA%E6%BC%94%E7%8E%AB%E7%91%B0%E7%9A%84%E6%95%85%E4%BA%8B%23" target="weibo">
 演员星星曾出演玫瑰的故事（热度：536355）
 </a>
@@ -6005,12 +6011,6 @@ SM员工说不要相信艺人说的话（热度：492319）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%92%8B%E6%AC%A3%E6%AD%AA%E5%98%B4%E6%8B%8D%E5%AE%8C%E5%8D%8E%E5%A6%83%E5%90%8E%E6%94%B9%E4%B8%8D%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
 蒋欣歪嘴拍完华妃后改不回来了（热度：481065）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%89%BF%E8%AE%A4%E4%BC%9A%E5%85%A5%E7%9D%A1%E5%9B%B0%E9%9A%BE%23" target="weibo">
-肖战承认会入睡困难（热度：480661）
 </a>
 </li>
 
