@@ -1,6 +1,6 @@
 {
   "startTime": 1736699124375,
-  "endTime": 1736764970053,
+  "endTime": 1736767183991,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1088167,
-      "num": 1152857,
+      "num": 1166806,
       "word": "公园观赏鱼大量死亡一男子被刑拘",
       "onboard_time": 1736758099,
       "rank": 1,
@@ -169,6 +169,14 @@
       "onboard_time": 1736749819,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 969641,
+      "num": 969641,
+      "word": "退出麦门入庆门",
+      "onboard_time": 1736764221,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 957421,
@@ -387,6 +395,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 512877,
+      "num": 512877,
+      "word": "2万吨车厘子到中国还有2万吨快到了",
+      "onboard_time": 1736759421,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 502373,
+      "num": 502373,
+      "word": "路人在日本被火车撞或反遭铁路公司索赔",
+      "onboard_time": 1736763020,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 488306,
       "num": 488306,
       "word": "梅见发声明道歉",
@@ -427,14 +451,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 476787,
-      "num": 476787,
-      "word": "2万吨车厘子到中国还有2万吨快到了",
-      "onboard_time": 1736759421,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 475537,
       "num": 475537,
       "word": "这届年轻人开始整顿年味了",
@@ -457,6 +473,14 @@
       "onboard_time": 1736748499,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 442473,
+      "num": 442473,
+      "word": "白敬亭回应和宋亚轩聊天很干巴",
+      "onboard_time": 1736765539,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 440525,
@@ -571,14 +595,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 379516,
-      "num": 379516,
-      "word": "路人在日本被火车撞或反遭铁路公司索赔",
-      "onboard_time": 1736763020,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 375683,
       "num": 336361,
       "word": "老人女厕趴地上偷窥女子录下全过程",
@@ -691,6 +707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 342662,
+      "num": 342662,
+      "word": "张新成说丁禹兮烂梗多",
+      "onboard_time": 1736763200,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 338140,
       "num": 251614,
       "word": "女子肉毒素中毒用了半年开塞露",
@@ -721,6 +745,14 @@
       "onboard_time": 1736692401,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 315203,
+      "num": 315203,
+      "word": "马化腾不希望微信送礼物功能被过度吹捧",
+      "onboard_time": 1736766199,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 314508,
@@ -827,14 +859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 269740,
-      "num": 170615,
-      "word": "退出麦门入庆门",
-      "onboard_time": 1736764221,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 269393,
       "num": 281100,
       "word": "刘宇阎鹤祥 美感与偷感的具象化",
@@ -883,6 +907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 258426,
+      "num": 258426,
+      "word": "肖战2024微博之夜专访",
+      "onboard_time": 1736765778,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 257395,
       "num": 404980,
       "word": "我国成功发射微厘空间01组卫星",
@@ -921,6 +953,14 @@
       "onboard_time": 1736735237,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 252775,
+      "num": 252775,
+      "word": "田曦薇 甜坦",
+      "onboard_time": 1736762059,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 252388,
@@ -1123,14 +1163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 217125,
-      "num": 229259,
-      "word": "田曦薇 甜坦",
-      "onboard_time": 1736762059,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 217088,
       "num": 217088,
       "word": "樊振东拿完了青年赛事所有冠军",
@@ -1145,14 +1177,6 @@
       "onboard_time": 1736725576,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 215656,
-      "num": 264209,
-      "word": "张新成说丁禹兮烂梗多",
-      "onboard_time": 1736763200,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 212581,
@@ -1339,6 +1363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197865,
+      "num": 197865,
+      "word": "白月梵星",
+      "onboard_time": 1736763319,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197799,
       "num": 197799,
       "word": "蔡徐坤潮男出街",
@@ -1459,6 +1491,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 184510,
+      "num": 184510,
+      "word": "知否里的曼娘在锦囊妙录里好惨",
+      "onboard_time": 1736765118,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183567,
       "num": 183567,
       "word": "Doinb遭遇网络攻击",
@@ -1547,6 +1587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174940,
+      "num": 377106,
+      "word": "国色芳华还原大唐瑰丽",
+      "onboard_time": 1736764399,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174719,
       "num": 174719,
       "word": "人大教授建议年轻人不要扎堆搞AI",
@@ -1627,6 +1675,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166651,
+      "num": 166651,
+      "word": "汪苏泷 这就是四面台的意义",
+      "onboard_time": 1736765899,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 164726,
+      "num": 164726,
+      "word": "宁嫔不语只是一味的贴合人物",
+      "onboard_time": 1736764759,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164460,
       "num": 164460,
       "word": "肖战隽雅风",
@@ -1652,7 +1716,7 @@
     },
     {
       "raw_hot": 160491,
-      "num": 160491,
+      "num": 198482,
       "word": "王楚钦像极了过年表演才艺",
       "onboard_time": 1736762960,
       "rank": 38,
@@ -1683,14 +1747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158466,
-      "num": 158466,
-      "word": "白月梵星",
-      "onboard_time": 1736763319,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 157925,
       "num": 157925,
       "word": "白月梵星 失忆后我做了自己的小三",
@@ -1713,6 +1769,14 @@
       "onboard_time": 1736738358,
       "rank": 36,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 156244,
+      "num": 156244,
+      "word": "SMTOWN演出服不变的理由",
+      "onboard_time": 1736764339,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 155252,
@@ -1745,6 +1809,14 @@
       "onboard_time": 1736746700,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 153326,
+      "num": 153326,
+      "word": "刘晓庆把向太夸成双手托腮的少女",
+      "onboard_time": 1736766620,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 152250,
@@ -1825,6 +1897,14 @@
       "onboard_time": 1736694382,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144786,
+      "num": 144786,
+      "word": "大奉打更人破三万全员放饭",
+      "onboard_time": 1736766919,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 144650,
@@ -1963,14 +2043,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 132192,
-      "num": 132192,
-      "word": "SMTOWN演出服不变的理由",
-      "onboard_time": 1736764339,
-      "rank": 39,
-      "category": "演出"
-    },
-    {
       "raw_hot": 132085,
       "num": 427616,
       "word": "飞机加价选座不应成为行业惯例",
@@ -1993,14 +2065,6 @@
       "onboard_time": 1736753541,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 130339,
-      "num": 130339,
-      "word": "宁嫔不语只是一味的贴合人物",
-      "onboard_time": 1736764759,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 129843,
@@ -2097,6 +2161,14 @@
       "onboard_time": 1736694502,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 121481,
+      "num": 117129,
+      "word": "国色芳华 女生永远都不要回头看",
+      "onboard_time": 1736766620,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 121390,
@@ -2227,12 +2299,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 108643,
+      "num": 108643,
+      "word": "牡丹才17岁",
+      "onboard_time": 1736765360,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108214,
       "num": 96937,
       "word": "赵丽颖晒微博之夜奖杯照",
       "onboard_time": 1736687239,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 106574,
+      "num": 106574,
+      "word": "元气少女缘结神 奈奈生发簪",
+      "onboard_time": 1736766140,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 105838,
@@ -2283,12 +2371,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102542,
-      "num": 377106,
-      "word": "国色芳华还原大唐瑰丽",
-      "onboard_time": 1736764399,
-      "rank": 9,
-      "category": "剧集"
+      "raw_hot": 102773,
+      "num": 102773,
+      "word": "人在奥运年樊振东专访",
+      "onboard_time": 1736766980,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 102027,
@@ -2595,6 +2683,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 62841,
+      "num": 351484,
+      "word": "生产销售有毒瘦身咖啡4人落网",
+      "onboard_time": 1736766380,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62434,
       "num": 243686,
       "word": "雷军学习冰雪路面漂移",
@@ -2865,6 +2961,14 @@
       "onboard_time": 1736690722,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 27392,
+      "num": 170389,
+      "word": "剧方回应国色芳华妆造被指未授权",
+      "onboard_time": 1736766257,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 25241,

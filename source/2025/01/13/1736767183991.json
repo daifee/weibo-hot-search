@@ -1,0 +1,410 @@
+{
+  "runTime": 1736767183991,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1042542,
+        "num": 1166806,
+        "word": "公园观赏鱼大量死亡一男子被刑拘",
+        "onboard_time": 1736758099,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 969641,
+        "num": 969641,
+        "word": "退出麦门入庆门",
+        "onboard_time": 1736764221,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43904,
+        "num": 681221,
+        "word": "我国出口规模连续第8年保持增长",
+        "onboard_time": 1736756479,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 662413,
+        "num": 662413,
+        "word": "女子把丈夫同事9人每日午餐包圆了",
+        "onboard_time": 1736760020,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 512877,
+        "num": 512877,
+        "word": "2万吨车厘子到中国还有2万吨快到了",
+        "onboard_time": 1736759421,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 502373,
+        "num": 502373,
+        "word": "路人在日本被火车撞或反遭铁路公司索赔",
+        "onboard_time": 1736763020,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 442473,
+        "num": 442473,
+        "word": "白敬亭回应和宋亚轩聊天很干巴",
+        "onboard_time": 1736765539,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 399241,
+        "num": 399241,
+        "word": "三只羊旗下账号复播主播回怼弹幕",
+        "onboard_time": 1736762120,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 157825,
+        "num": 351910,
+        "word": "重庆警方通报公园观赏鱼大量死亡",
+        "onboard_time": 1736761400,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 62841,
+        "num": 351484,
+        "word": "生产销售有毒瘦身咖啡4人落网",
+        "onboard_time": 1736766380,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1431684,
+        "num": 351471,
+        "word": "煮苹果水",
+        "onboard_time": 1736760200,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 351320,
+        "num": 351320,
+        "word": "梅见发声明道歉",
+        "onboard_time": 1736759119,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 504977,
+        "num": 349870,
+        "word": "杨紫 养老剧",
+        "onboard_time": 1736753899,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370258,
+        "num": 349307,
+        "word": "李昀锐 舒肤佳变硫磺皂",
+        "onboard_time": 1736757021,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 342662,
+        "num": 342662,
+        "word": "张新成说丁禹兮烂梗多",
+        "onboard_time": 1736763200,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 317058,
+        "num": 317058,
+        "word": "金智秀solo回归预告",
+        "onboard_time": 1736761460,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 315203,
+        "num": 315203,
+        "word": "马化腾不希望微信送礼物功能被过度吹捧",
+        "onboard_time": 1736766199,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 297641,
+        "num": 297641,
+        "word": "微博之夜 凤梨酥",
+        "onboard_time": 1736760200,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 270064,
+        "num": 270064,
+        "word": "贵人鸟正式更名金鹤农业",
+        "onboard_time": 1736752338,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258426,
+        "num": 258426,
+        "word": "肖战2024微博之夜专访",
+        "onboard_time": 1736765778,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 284731,
+        "num": 257085,
+        "word": "小红书美国appstore下载榜第一",
+        "onboard_time": 1736759719,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 252775,
+        "num": 252775,
+        "word": "田曦薇 甜坦",
+        "onboard_time": 1736762059,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247869,
+        "num": 247869,
+        "word": "叔叔让侄子做亲子鉴定才能继承遗产",
+        "onboard_time": 1736757919,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212911,
+        "num": 212911,
+        "word": "虞书欣大方",
+        "onboard_time": 1736755998,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152622,
+        "num": 198482,
+        "word": "王楚钦像极了过年表演才艺",
+        "onboard_time": 1736762960,
+        "rank": 24,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 197865,
+        "num": 197865,
+        "word": "白月梵星",
+        "onboard_time": 1736763319,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184510,
+        "num": 184510,
+        "word": "知否里的曼娘在锦囊妙录里好惨",
+        "onboard_time": 1736765118,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131141,
+        "num": 175987,
+        "word": "格陵兰岛估价125亿至770亿美元",
+        "onboard_time": 1736751798,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174940,
+        "num": 174940,
+        "word": "国色芳华还原大唐瑰丽",
+        "onboard_time": 1736764399,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27392,
+        "num": 170389,
+        "word": "剧方回应国色芳华妆造被指未授权",
+        "onboard_time": 1736766257,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166651,
+        "num": 166651,
+        "word": "汪苏泷 这就是四面台的意义",
+        "onboard_time": 1736765899,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 164726,
+        "num": 164726,
+        "word": "宁嫔不语只是一味的贴合人物",
+        "onboard_time": 1736764759,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156244,
+        "num": 156244,
+        "word": "SMTOWN演出服不变的理由",
+        "onboard_time": 1736764339,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153326,
+        "num": 153326,
+        "word": "刘晓庆把向太夸成双手托腮的少女",
+        "onboard_time": 1736766620,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149532,
+        "num": 149532,
+        "word": "庆奶吃亏在看着太年轻",
+        "onboard_time": 1736745022,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144786,
+        "num": 144786,
+        "word": "大奉打更人破三万全员放饭",
+        "onboard_time": 1736766919,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137413,
+        "num": 137413,
+        "word": "这届年轻人开始整顿年味了",
+        "onboard_time": 1736756061,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135502,
+        "num": 135502,
+        "word": "时代少年团用爆米花当饺子馅",
+        "onboard_time": 1736756119,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133871,
+        "num": 133871,
+        "word": "邓超帮惠英红追星樊振东",
+        "onboard_time": 1736759119,
+        "rank": 38,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 117696,
+        "num": 117696,
+        "word": "2万吨智利车厘子运抵中国",
+        "onboard_time": 1736740700,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121481,
+        "num": 117129,
+        "word": "国色芳华 女生永远都不要回头看",
+        "onboard_time": 1736766620,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116350,
+        "num": 116350,
+        "word": "敖瑞鹏 媚眼抛给瞎子看",
+        "onboard_time": 1736756658,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114538,
+        "num": 114538,
+        "word": "宋慧乔说几乎被王家卫绑了三年",
+        "onboard_time": 1736730318,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108643,
+        "num": 108643,
+        "word": "牡丹才17岁",
+        "onboard_time": 1736765360,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106574,
+        "num": 106574,
+        "word": "元气少女缘结神 奈奈生发簪",
+        "onboard_time": 1736766140,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 102773,
+        "num": 102773,
+        "word": "人在奥运年樊振东专访",
+        "onboard_time": 1736766980,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101107,
+        "num": 101107,
+        "word": "陈梦孙颖莎微博年度关注女运动员",
+        "onboard_time": 1736757861,
+        "rank": 46,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 99649,
+        "num": 99649,
+        "word": "梅见客服回应广告语被指歧视女性",
+        "onboard_time": 1736763319,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97266,
+        "num": 97266,
+        "word": "智利超92%车厘子出口中国",
+        "onboard_time": 1736743161,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90908,
+        "num": 90908,
+        "word": "央行行长回应人民币近期贬值情况",
+        "onboard_time": 1736764820,
+        "rank": 49,
+        "category": "财经,国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见格林纳达总理米切尔#"
+    }
+  }
+}
