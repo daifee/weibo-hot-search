@@ -1,0 +1,410 @@
+{
+  "runTime": 1736804139268,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 131344,
+        "num": 177699,
+        "word": "一路繁花8个人只吃了700块",
+        "onboard_time": 1736786536,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90076,
+        "num": 90076,
+        "word": "男子用杀虫剂毒死大量锦鲤被刑拘",
+        "onboard_time": 1736794991,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11784,
+        "num": 78796,
+        "word": "我国外贸含新量还在不断上升",
+        "onboard_time": 1736773101,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 75607,
+        "num": 75607,
+        "word": "泰国孕妇坠崖案当事人王暖暖最新发声",
+        "onboard_time": 1736793011,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65226,
+        "num": 65226,
+        "word": "马化腾不希望微信送礼物功能被过度吹捧",
+        "onboard_time": 1736766199,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 60122,
+        "num": 60122,
+        "word": "成都失联女大学生符合溺水死亡特征",
+        "onboard_time": 1736799970,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 58974,
+        "num": 58974,
+        "word": "金靖建议女孩一定要有正常的体重",
+        "onboard_time": 1736777062,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 56533,
+        "num": 56533,
+        "word": "洛杉矶山火蔓延居民紧急撤离",
+        "onboard_time": 1736800759,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 47713,
+        "num": 47713,
+        "word": "蔡磊身体机能断崖式下降",
+        "onboard_time": 1736778741,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11827,
+        "num": 42834,
+        "word": "商务部回应美发布了人工智能出口管制措施",
+        "onboard_time": 1736802851,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 83646,
+        "num": 42753,
+        "word": "妻子裸死前夫家中丈夫拒付丧葬费",
+        "onboard_time": 1736777062,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42229,
+        "num": 42229,
+        "word": "袜子里藏16万美元现金过海关被抓",
+        "onboard_time": 1736781559,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39367,
+        "num": 39367,
+        "word": "日本地震",
+        "onboard_time": 1736772019,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 35519,
+        "num": 35519,
+        "word": "律师谈王暖暖可能要到70岁才能离婚",
+        "onboard_time": 1736783119,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31630,
+        "num": 31630,
+        "word": "丁禹兮微指破2亿",
+        "onboard_time": 1736783597,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31146,
+        "num": 31146,
+        "word": "贵人鸟改名卖粮了",
+        "onboard_time": 1736787496,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 30761,
+        "num": 30761,
+        "word": "目击者称观音桥死鱼装了30多袋",
+        "onboard_time": 1736802491,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29610,
+        "num": 29610,
+        "word": "国色芳华三郎 李隆基",
+        "onboard_time": 1736781680,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25191,
+        "num": 29405,
+        "word": "蔡明评价李小冉",
+        "onboard_time": 1736774302,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24034,
+        "num": 29324,
+        "word": "SM新男团",
+        "onboard_time": 1736781441,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 29322,
+        "num": 29322,
+        "word": "终于把车厘子和樱桃搞明白了",
+        "onboard_time": 1736771960,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 29124,
+        "num": 29124,
+        "word": "老人用新手机专门和骗子联系",
+        "onboard_time": 1736796491,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28906,
+        "num": 28906,
+        "word": "丹麦称愿同特朗普讨论格陵兰诉求",
+        "onboard_time": 1736798892,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28594,
+        "num": 28594,
+        "word": "日本6.7级左右地震",
+        "onboard_time": 1736773521,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 24315,
+        "num": 24315,
+        "word": "加州山火逼近美国重要太空设施",
+        "onboard_time": 1736771359,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22236,
+        "num": 22236,
+        "word": "金靖提前胖了10斤",
+        "onboard_time": 1736783538,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22150,
+        "num": 22150,
+        "word": "BLACKPINK韩服造型",
+        "onboard_time": 1736781379,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20948,
+        "num": 20948,
+        "word": "男子住酒店发现装修风格和医院一样",
+        "onboard_time": 1736768421,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20425,
+        "num": 20425,
+        "word": "复兴号停车场是什么未来场面",
+        "onboard_time": 1736783659,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20375,
+        "num": 20375,
+        "word": "朱旺旺爆改",
+        "onboard_time": 1736774180,
+        "rank": 29,
+        "category": "网红,美妆"
+      },
+      {
+        "raw_hot": 20132,
+        "num": 20132,
+        "word": "煮苹果水",
+        "onboard_time": 1736760200,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 19566,
+        "num": 19566,
+        "word": "2万吨车厘子到中国还有2万吨快到了",
+        "onboard_time": 1736759421,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19278,
+        "num": 19278,
+        "word": "手机尾号0000000成交价70万",
+        "onboard_time": 1736769859,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19187,
+        "num": 19187,
+        "word": "你是否也收到过这句你在干嘛",
+        "onboard_time": 1736783838,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19121,
+        "num": 19121,
+        "word": "你好2025",
+        "onboard_time": 1736790673,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 18723,
+        "num": 18723,
+        "word": "定日5.0级地震是目前最大余震",
+        "onboard_time": 1736786716,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18466,
+        "num": 18466,
+        "word": "妹妹花2小时给出月子姐姐洗头",
+        "onboard_time": 1736776761,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18449,
+        "num": 18449,
+        "word": "李娜差点扔了法网冠军奖杯",
+        "onboard_time": 1736780301,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17721,
+        "num": 17721,
+        "word": "王暖暖离婚案已报至最高法",
+        "onboard_time": 1736769439,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17639,
+        "num": 17639,
+        "word": "白鹿白烁角色热度周冠",
+        "onboard_time": 1736785517,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17533,
+        "num": 17533,
+        "word": "西藏定日5.0级地震",
+        "onboard_time": 1736774901,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17493,
+        "num": 17493,
+        "word": "微博之夜95生微指",
+        "onboard_time": 1736783898,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17319,
+        "num": 17319,
+        "word": "一路繁花",
+        "onboard_time": 1736788874,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16994,
+        "num": 16994,
+        "word": "金鹤龙给热巴化的小蛇女妆",
+        "onboard_time": 1736783719,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16691,
+        "num": 16691,
+        "word": "卢昱晓爸爸夸王星越台词好",
+        "onboard_time": 1736785936,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16490,
+        "num": 16490,
+        "word": "杨幂风筝",
+        "onboard_time": 1736774180,
+        "rank": 45,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 16451,
+        "num": 16451,
+        "word": "快递公司回应春节是否停运",
+        "onboard_time": 1736782638,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16040,
+        "num": 16040,
+        "word": "敖瑞鹏单手公主抱了白鹿",
+        "onboard_time": 1736770579,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15558,
+        "num": 15558,
+        "word": "假警察一听真警察接电话1秒挂了",
+        "onboard_time": 1736797692,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14583,
+        "num": 15558,
+        "word": "小红书美国appstore下载榜第一",
+        "onboard_time": 1736759719,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见格林纳达总理米切尔#"
+    }
+  }
+}
