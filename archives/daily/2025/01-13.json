@@ -1,6 +1,6 @@
 {
   "startTime": 1736699124375,
-  "endTime": 1736745786419,
+  "endTime": 1736746777029,
   "band_list": [
     {
       "raw_hot": 2404833,
@@ -100,11 +100,19 @@
     },
     {
       "raw_hot": 944564,
-      "num": 442408,
+      "num": 450091,
       "word": "丁禹兮回复粉丝我怕有刺的鱼",
       "onboard_time": 1736741238,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 858591,
+      "num": 858591,
+      "word": "尹锡悦呼吁韩国政府支援加州山火",
+      "onboard_time": 1736744000,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 839939,
@@ -147,20 +155,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 756677,
-      "num": 756677,
-      "word": "尹锡悦呼吁韩国政府支援加州山火",
-      "onboard_time": 1736744000,
-      "rank": 4,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 683778,
       "num": 683778,
       "word": "冲动订购19800元内衣隔天能退吗",
       "onboard_time": 1736742380,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 646654,
+      "num": 503283,
+      "word": "庆奶吃亏在看着太年轻",
+      "onboard_time": 1736745022,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 639423,
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 482596,
-      "num": 401791,
+      "num": 409112,
       "word": "李现说杨紫朋友圈最有趣",
       "onboard_time": 1736742620,
       "rank": 18,
@@ -363,12 +371,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 351554,
-      "num": 351554,
-      "word": "庆奶吃亏在看着太年轻",
-      "onboard_time": 1736745022,
-      "rank": 14,
-      "category": "综艺"
+      "raw_hot": 352308,
+      "num": 352308,
+      "word": "王楚钦小说里的顶级大学生",
+      "onboard_time": 1736743222,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 348866,
@@ -419,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 323656,
+      "num": 452351,
+      "word": "智利超92%车厘子出口中国",
+      "onboard_time": 1736743161,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 314508,
       "num": 286410,
       "word": "如何取消朋友圈点赞动态通知",
@@ -467,14 +483,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 286466,
-      "num": 286466,
-      "word": "王楚钦小说里的顶级大学生",
-      "onboard_time": 1736743222,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 280215,
       "num": 280215,
       "word": "警方通报120打三次不通两度打110",
@@ -515,6 +523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 262489,
+      "num": 262489,
+      "word": "关晓彤回应垂耳兔塑",
+      "onboard_time": 1736744481,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 254584,
       "num": 254584,
       "word": "加州山火对比重庆让美网友破防了",
@@ -528,6 +544,14 @@
       "word": "代露娃浓颜系美女",
       "onboard_time": 1736741600,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 253113,
+      "num": 223795,
+      "word": "谁把何惟芳的中药换成冰美式了",
+      "onboard_time": 1736745739,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -619,20 +643,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 229767,
-      "num": 229767,
-      "word": "关晓彤回应垂耳兔塑",
-      "onboard_time": 1736744481,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 228812,
       "num": 302168,
       "word": "为何进口药越来越难买",
       "onboard_time": 1736737579,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 227365,
+      "num": 229369,
+      "word": "泽连斯基准备派150名消防员到加州救火",
+      "onboard_time": 1736745022,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 225950,
@@ -672,14 +696,6 @@
       "word": "广州冻到结冰",
       "onboard_time": 1736725576,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 214449,
-      "num": 214449,
-      "word": "智利超92%车厘子出口中国",
-      "onboard_time": 1736743161,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -779,6 +795,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 199311,
+      "num": 199311,
+      "word": "刘涛 有人在背后蛐蛐你",
+      "onboard_time": 1736745680,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198699,
       "num": 198699,
       "word": "张远 好的爱情是喜忧参半",
@@ -811,6 +835,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 192049,
+      "num": 192049,
+      "word": "刘诗诗拍的雪景",
+      "onboard_time": 1736745680,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192045,
       "num": 192045,
       "word": "射雕靖蓉筝全员开打",
@@ -833,6 +865,14 @@
       "onboard_time": 1736739020,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188850,
+      "num": 188850,
+      "word": "胖东来规定不允许不喜欢自己的工作",
+      "onboard_time": 1736740639,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188467,
@@ -867,14 +907,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 183028,
-      "num": 180216,
-      "word": "胖东来规定不允许不喜欢自己的工作",
-      "onboard_time": 1736740639,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 182983,
       "num": 182983,
       "word": "洛阳给国色芳华的排面真中",
@@ -905,6 +937,14 @@
       "onboard_time": 1736734159,
       "rank": 32,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 178732,
+      "num": 178732,
+      "word": "刘晓庆体力",
+      "onboard_time": 1736745559,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 177812,
@@ -987,20 +1027,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159136,
+      "num": 159136,
+      "word": "成本36块一锅做了10个菜",
+      "onboard_time": 1736746160,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 158968,
       "num": 158968,
       "word": "郑钦文澳网第二轮对手出炉",
       "onboard_time": 1736745320,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157156,
-      "num": 157156,
-      "word": "谁把何惟芳的中药换成冰美式了",
-      "onboard_time": 1736745739,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 156479,
@@ -1011,28 +1051,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 156427,
-      "num": 156427,
-      "word": "刘涛 有人在背后蛐蛐你",
-      "onboard_time": 1736745680,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 155028,
-      "num": 155028,
-      "word": "刘晓庆体力",
-      "onboard_time": 1736745559,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 154543,
-      "num": 154543,
-      "word": "刘诗诗拍的雪景",
-      "onboard_time": 1736745680,
-      "rank": 47,
-      "category": "艺人"
+      "raw_hot": 155252,
+      "num": 155252,
+      "word": "东京食尸鬼 金木成王",
+      "onboard_time": 1736746039,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 154370,
@@ -1049,6 +1073,14 @@
       "onboard_time": 1736727439,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153454,
+      "num": 153454,
+      "word": "瑶音紧那罗CG",
+      "onboard_time": 1736746700,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 150472,
@@ -1089,6 +1121,14 @@
       "onboard_time": 1736744481,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148052,
+      "num": 148052,
+      "word": "电影封神第二部",
+      "onboard_time": 1736746098,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 147877,
@@ -1323,14 +1363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 103052,
-      "num": 229369,
-      "word": "泽连斯基准备派150名消防员到加州救火",
-      "onboard_time": 1736745022,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 102027,
       "num": 184606,
       "word": "美国网友呼吁洛杉矶应向重庆学习",
@@ -1451,6 +1483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80865,
+      "num": 220172,
+      "word": "王楚钦希望大家获得想要的自由",
+      "onboard_time": 1736745379,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80122,
       "num": 124984,
       "word": "一诺清融情侣标",
@@ -1563,14 +1603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 58560,
-      "num": 220172,
-      "word": "王楚钦希望大家获得想要的自由",
-      "onboard_time": 1736745379,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 55877,
       "num": 55877,
       "word": "加沙人在帐篷里挖坑过冬",
@@ -1643,6 +1675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42254,
+      "num": 188528,
+      "word": "目睹二十年娱乐圈的婚恋现状",
+      "onboard_time": 1736746098,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 42227,
       "num": 102301,
       "word": "郑钦文顺利拿下90万元奖金",
@@ -1705,6 +1745,14 @@
       "onboard_time": 1736705652,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 30506,
+      "num": 188493,
+      "word": "黄子弘凡说自己有点讨好型人格",
+      "onboard_time": 1736746758,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 28790,

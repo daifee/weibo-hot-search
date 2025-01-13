@@ -1,0 +1,410 @@
+{
+  "runTime": 1736746777029,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1344253,
+        "num": 1344253,
+        "word": "2万吨智利车厘子运抵中国",
+        "onboard_time": 1736740700,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1001833,
+        "num": 1001833,
+        "word": "国色芳华剧方致歉",
+        "onboard_time": 1736741720,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30026,
+        "num": 867669,
+        "word": "西藏震后安置正在加紧进行",
+        "onboard_time": 1736736677,
+        "rank": 2,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 858591,
+        "num": 858591,
+        "word": "尹锡悦呼吁韩国政府支援加州山火",
+        "onboard_time": 1736744000,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 615450,
+        "num": 615450,
+        "word": "冲动订购19800元内衣隔天能退吗",
+        "onboard_time": 1736742380,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1971566,
+        "num": 586200,
+        "word": "李小冉 挂脸",
+        "onboard_time": 1736741478,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 505844,
+        "num": 505844,
+        "word": "12306一天拒绝异常登录3982万次",
+        "onboard_time": 1736738480,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 646654,
+        "num": 503283,
+        "word": "庆奶吃亏在看着太年轻",
+        "onboard_time": 1736745022,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 473161,
+        "num": 473161,
+        "word": "女儿溺亡女子怪妹妹没看好索赔90万",
+        "onboard_time": 1736728459,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323656,
+        "num": 452351,
+        "word": "智利超92%车厘子出口中国",
+        "onboard_time": 1736743161,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 832711,
+        "num": 450091,
+        "word": "丁禹兮回复粉丝我怕有刺的鱼",
+        "onboard_time": 1736741238,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438489,
+        "num": 438489,
+        "word": "教育部拟同意设置14所本科高校",
+        "onboard_time": 1736740521,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 419044,
+        "num": 419044,
+        "word": "司机不给消防车让道称以为谁喝多了",
+        "onboard_time": 1736742440,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 409112,
+        "num": 409112,
+        "word": "李现说杨紫朋友圈最有趣",
+        "onboard_time": 1736742620,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 352308,
+        "num": 352308,
+        "word": "王楚钦小说里的顶级大学生",
+        "onboard_time": 1736743222,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 326099,
+        "num": 326099,
+        "word": "加州山火烧掉一个旧金山的面积",
+        "onboard_time": 1736696120,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 285025,
+        "num": 285025,
+        "word": "质疑国色芳华抄袭作者称不要上升演员",
+        "onboard_time": 1736740759,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283916,
+        "num": 283916,
+        "word": "刘昊然澳网上早课",
+        "onboard_time": 1736740639,
+        "rank": 17,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 262489,
+        "num": 262489,
+        "word": "关晓彤回应垂耳兔塑",
+        "onboard_time": 1736744481,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227365,
+        "num": 227365,
+        "word": "泽连斯基准备派150名消防员到加州救火",
+        "onboard_time": 1736745022,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 863621,
+        "num": 227271,
+        "word": "宋慧乔说几乎被王家卫绑了三年",
+        "onboard_time": 1736730318,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 398914,
+        "num": 223998,
+        "word": "朋友圈先私密24小时再公开",
+        "onboard_time": 1736694320,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 253113,
+        "num": 223795,
+        "word": "谁把何惟芳的中药换成冰美式了",
+        "onboard_time": 1736745739,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211053,
+        "num": 211053,
+        "word": "女子肉毒素中毒用了半年开塞露",
+        "onboard_time": 1736734098,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199311,
+        "num": 199311,
+        "word": "刘涛 有人在背后蛐蛐你",
+        "onboard_time": 1736745680,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199019,
+        "num": 199019,
+        "word": "王楚钦是国乒首个00后世界冠军",
+        "onboard_time": 1736737338,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192049,
+        "num": 192049,
+        "word": "刘诗诗拍的雪景",
+        "onboard_time": 1736745680,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188850,
+        "num": 188850,
+        "word": "胖东来规定不允许不喜欢自己的工作",
+        "onboard_time": 1736740639,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42254,
+        "num": 188528,
+        "word": "目睹二十年娱乐圈的婚恋现状",
+        "onboard_time": 1736746098,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30506,
+        "num": 188493,
+        "word": "黄子弘凡说自己有点讨好型人格",
+        "onboard_time": 1736746758,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188461,
+        "num": 188461,
+        "word": "如何取消朋友圈点赞动态通知",
+        "onboard_time": 1736739438,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181545,
+        "num": 181545,
+        "word": "我家那小子",
+        "onboard_time": 1736745080,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178732,
+        "num": 178732,
+        "word": "刘晓庆体力",
+        "onboard_time": 1736745559,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175005,
+        "num": 175005,
+        "word": "国色芳华妆造被指抄袭",
+        "onboard_time": 1736736978,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169624,
+        "num": 169624,
+        "word": "陈雨菲宣布冲击洛杉矶奥运会",
+        "onboard_time": 1736745260,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159136,
+        "num": 159136,
+        "word": "成本36块一锅做了10个菜",
+        "onboard_time": 1736746160,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 156448,
+        "num": 156448,
+        "word": "曹恩齐 死嘴快解释啊",
+        "onboard_time": 1736745739,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155252,
+        "num": 155252,
+        "word": "东京食尸鬼 金木成王",
+        "onboard_time": 1736746039,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 153454,
+        "num": 153454,
+        "word": "瑶音紧那罗CG",
+        "onboard_time": 1736746700,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153328,
+        "num": 153328,
+        "word": "国色芳华 手伸不进屏幕的无力感",
+        "onboard_time": 1736742560,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148052,
+        "num": 148052,
+        "word": "电影封神第二部",
+        "onboard_time": 1736746098,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138134,
+        "num": 138134,
+        "word": "鸡腿诺回应程鑫凯",
+        "onboard_time": 1736737819,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 136728,
+        "num": 136728,
+        "word": "宋佳晒虞书欣拍的她",
+        "onboard_time": 1736732778,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134246,
+        "num": 134246,
+        "word": "苏新皓摄影师否认抄袭",
+        "onboard_time": 1736743940,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19532,
+        "num": 134050,
+        "word": "雷军学习冰雪路面漂移",
+        "onboard_time": 1736742081,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 80865,
+        "num": 133996,
+        "word": "王楚钦希望大家获得想要的自由",
+        "onboard_time": 1736745379,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132303,
+        "num": 133967,
+        "word": "胡冰卿新剧再现戚百草旋风踢",
+        "onboard_time": 1736745501,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133966,
+        "num": 133966,
+        "word": "肖战给阿云嘎安利射雕英雄传",
+        "onboard_time": 1736739317,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132433,
+        "num": 132433,
+        "word": "代露娃浓颜系美女",
+        "onboard_time": 1736741600,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132348,
+        "num": 132348,
+        "word": "一团伙非法倒垃圾1个多月获利25万",
+        "onboard_time": 1736743581,
+        "rank": 49,
+        "category": "舆论监督"
+      }
+    ],
+    "hotgov": {
+      "word": "#要继续推动冰雪运动普及发展#"
+    }
+  }
+}
