@@ -1,7 +1,15 @@
 {
   "startTime": 1736699124375,
-  "endTime": 1736757833522,
+  "endTime": 1736760337285,
   "band_list": [
+    {
+      "raw_hot": 4027320,
+      "num": 4027320,
+      "word": "泰国喊话中国游客",
+      "onboard_time": 1736756359,
+      "rank": 16,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 2404833,
       "num": 2404833,
@@ -67,14 +75,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1364804,
-      "num": 1364804,
-      "word": "泰国喊话中国游客",
-      "onboard_time": 1736756359,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1340542,
       "num": 990884,
       "word": "女儿溺亡女子怪妹妹没看好索赔90万",
@@ -89,6 +89,14 @@
       "onboard_time": 1736741720,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1088167,
+      "num": 1088167,
+      "word": "公园观赏鱼大量死亡一男子被刑拘",
+      "onboard_time": 1736758099,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1085937,
@@ -113,6 +121,14 @@
       "onboard_time": 1736682139,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1056877,
+      "num": 1056877,
+      "word": "被74岁刘晓庆喊大爷",
+      "onboard_time": 1736756721,
+      "rank": 14,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 1054598,
@@ -185,6 +201,14 @@
       "onboard_time": 1736695222,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 815759,
+      "num": 590550,
+      "word": "李昀锐 舒肤佳变硫磺皂",
+      "onboard_time": 1736757021,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 792249,
@@ -315,6 +339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 556123,
+      "num": 393142,
+      "word": "虞书欣大方",
+      "onboard_time": 1736755998,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 520384,
       "num": 472235,
       "word": "宋佳晒虞书欣拍的她",
@@ -329,14 +361,6 @@
       "onboard_time": 1736752338,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 497634,
-      "num": 497634,
-      "word": "李昀锐 舒肤佳变硫磺皂",
-      "onboard_time": 1736757021,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 484418,
@@ -464,6 +488,14 @@
       "word": "中国女游客在日本被撞身亡家人求助",
       "onboard_time": 1736720112,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 394075,
+      "num": 394075,
+      "word": "叔叔让侄子做亲子鉴定才能继承遗产",
+      "onboard_time": 1736757919,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -643,14 +675,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 301601,
-      "num": 301601,
-      "word": "虞书欣大方",
-      "onboard_time": 1736755998,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 298538,
       "num": 298538,
       "word": "千朵桃花清冷佛子有脸了",
@@ -675,6 +699,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 293879,
+      "num": 293879,
+      "word": "陈梦孙颖莎微博年度关注女运动员",
+      "onboard_time": 1736757861,
+      "rank": 21,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 282073,
       "num": 282073,
       "word": "东部战区代表团将访问日本",
@@ -689,14 +721,6 @@
       "onboard_time": 1736680880,
       "rank": 45,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 278923,
-      "num": 406445,
-      "word": "被74岁刘晓庆喊大爷",
-      "onboard_time": 1736756721,
-      "rank": 14,
-      "category": "艺人,综艺"
     },
     {
       "raw_hot": 278077,
@@ -865,6 +889,14 @@
       "onboard_time": 1736694860,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 240192,
+      "num": 240192,
+      "word": "张凌赫默默询问工作人员金靖生了没",
+      "onboard_time": 1736754139,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 240050,
@@ -1131,6 +1163,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 199780,
+      "num": 199780,
+      "word": "邓超帮惠英红追星樊振东",
+      "onboard_time": 1736759119,
+      "rank": 28,
+      "category": "作品衍生,体育"
+    },
+    {
       "raw_hot": 199311,
       "num": 199311,
       "word": "刘涛 有人在背后蛐蛐你",
@@ -1251,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189855,
+      "num": 189855,
+      "word": "小红书美国appstore下载榜第一",
+      "onboard_time": 1736759719,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 188850,
       "num": 188850,
       "word": "胖东来规定不允许不喜欢自己的工作",
@@ -1331,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178410,
+      "num": 297047,
+      "word": "庄达菲说肖战在剧组像班长",
+      "onboard_time": 1736759960,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 177812,
       "num": 157459,
       "word": "敖瑞鹏红温了",
@@ -1385,6 +1441,14 @@
       "onboard_time": 1736739438,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 173530,
+      "num": 235953,
+      "word": "洛杉矶市长双手插兜笑着回应山火遭批",
+      "onboard_time": 1736756300,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 173333,
@@ -1483,6 +1547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158606,
+      "num": 158606,
+      "word": "女子把丈夫同事9人每日午餐包圆了",
+      "onboard_time": 1736760020,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157925,
       "num": 157925,
       "word": "白月梵星 失忆后我做了自己的小三",
@@ -1513,6 +1585,14 @@
       "onboard_time": 1736746039,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 154871,
+      "num": 154871,
+      "word": "梅见发声明道歉",
+      "onboard_time": 1736759119,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 154370,
@@ -1643,6 +1723,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 141834,
+      "num": 141834,
+      "word": "成都女大学生失联后去世排除刑案",
+      "onboard_time": 1736760080,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137791,
       "num": 137791,
       "word": "姿态爆料iG训练赛遭暴打",
@@ -1689,6 +1777,14 @@
       "onboard_time": 1736732538,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135861,
+      "num": 135861,
+      "word": "2万吨车厘子到中国还有2万吨快到了",
+      "onboard_time": 1736759421,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134675,
@@ -1771,6 +1867,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126232,
+      "num": 126232,
+      "word": "海阳海上火箭首飞现场热闹似过年",
+      "onboard_time": 1736758519,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125744,
+      "num": 125744,
+      "word": "成都19岁失联女大学生事件详情",
+      "onboard_time": 1736760080,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125110,
       "num": 125110,
       "word": "宋佳总台视后",
@@ -1779,12 +1891,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 125079,
+      "num": 125079,
+      "word": "重庆一公园大量锦鲤死亡系人为投毒",
+      "onboard_time": 1736758999,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124922,
       "num": 124922,
       "word": "看一眼刘晓庆鸡血打满",
       "onboard_time": 1736752038,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124468,
+      "num": 124468,
+      "word": "微博之夜 凤梨酥",
+      "onboard_time": 1736760200,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 124314,
@@ -1803,6 +1931,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122285,
+      "num": 122285,
+      "word": "ADOR禁止NewJeans活动",
+      "onboard_time": 1736760140,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122224,
       "num": 122224,
       "word": "庄达菲陈昊宇微博之夜双向奔赴",
@@ -1817,6 +1953,14 @@
       "onboard_time": 1736737579,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121003,
+      "num": 121003,
+      "word": "煮苹果水",
+      "onboard_time": 1736760200,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 119433,
@@ -1889,14 +2033,6 @@
       "onboard_time": 1736680218,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 109940,
-      "num": 235953,
-      "word": "洛杉矶市长双手插兜笑着回应山火遭批",
-      "onboard_time": 1736756300,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 109888,
@@ -2041,6 +2177,14 @@
       "onboard_time": 1736726177,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 93611,
+      "num": 229347,
+      "word": "米勒谈LOL新版本",
+      "onboard_time": 1736759178,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 92119,
@@ -2243,6 +2387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60646,
+      "num": 323260,
+      "word": "妇幼保健院后勤招播音主持应届生",
+      "onboard_time": 1736759600,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55877,
       "num": 55877,
       "word": "加沙人在帐篷里挖坑过冬",
@@ -2393,6 +2545,14 @@
       "onboard_time": 1736723715,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36216,
+      "num": 294559,
+      "word": "美政界围绕山火话题互相指责",
+      "onboard_time": 1736759660,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33090,

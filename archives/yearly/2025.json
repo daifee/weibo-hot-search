@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736757833522,
+  "endTime": 1736760337285,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -297,6 +297,14 @@
       "onboard_time": 1736477600,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 4027320,
+      "num": 4027320,
+      "word": "泰国喊话中国游客",
+      "onboard_time": 1736756359,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 4022283,
@@ -2049,14 +2057,6 @@
       "onboard_time": 1736736978,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1364804,
-      "num": 1364804,
-      "word": "泰国喊话中国游客",
-      "onboard_time": 1736756359,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1363408,

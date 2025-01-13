@@ -1,0 +1,410 @@
+{
+  "runTime": 1736760337285,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4027320,
+        "num": 4027320,
+        "word": "泰国喊话中国游客",
+        "onboard_time": 1736756359,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1088167,
+        "num": 1088167,
+        "word": "公园观赏鱼大量死亡一男子被刑拘",
+        "onboard_time": 1736758099,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49949,
+        "num": 1059844,
+        "word": "我国出口规模连续第8年保持增长",
+        "onboard_time": 1736756479,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1056877,
+        "num": 1056877,
+        "word": "被74岁刘晓庆喊大爷",
+        "onboard_time": 1736756721,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 867022,
+        "num": 867022,
+        "word": "杨紫 养老剧",
+        "onboard_time": 1736753899,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 712932,
+        "num": 712932,
+        "word": "贵人鸟正式更名金鹤农业",
+        "onboard_time": 1736752338,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 815759,
+        "num": 590550,
+        "word": "李昀锐 舒肤佳变硫磺皂",
+        "onboard_time": 1736757021,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 804750,
+        "num": 525260,
+        "word": "左眼悲伤 右眼震惊",
+        "onboard_time": 1736754979,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 428536,
+        "num": 428536,
+        "word": "成都警方再通报女大学生失联",
+        "onboard_time": 1736753659,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 394075,
+        "num": 394075,
+        "word": "叔叔让侄子做亲子鉴定才能继承遗产",
+        "onboard_time": 1736757919,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 596075,
+        "num": 393288,
+        "word": "男子私留哥哥毛发让侄子做亲子鉴定",
+        "onboard_time": 1736756061,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 556123,
+        "num": 393142,
+        "word": "虞书欣大方",
+        "onboard_time": 1736755998,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 390273,
+        "num": 390273,
+        "word": "这届年轻人开始整顿年味了",
+        "onboard_time": 1736756061,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340398,
+        "num": 340398,
+        "word": "格陵兰岛估价125亿至770亿美元",
+        "onboard_time": 1736751798,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 60646,
+        "num": 323260,
+        "word": "妇幼保健院后勤招播音主持应届生",
+        "onboard_time": 1736759600,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319212,
+        "num": 319212,
+        "word": "2万吨智利车厘子运抵中国",
+        "onboard_time": 1736740700,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303232,
+        "num": 303232,
+        "word": "时代少年团用爆米花当饺子馅",
+        "onboard_time": 1736756119,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301981,
+        "num": 301981,
+        "word": "小巷人家3家代表1年后驻站重聚",
+        "onboard_time": 1736756061,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178410,
+        "num": 297047,
+        "word": "庄达菲说肖战在剧组像班长",
+        "onboard_time": 1736759960,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 36216,
+        "num": 294559,
+        "word": "美政界围绕山火话题互相指责",
+        "onboard_time": 1736759660,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 327785,
+        "num": 294392,
+        "word": "宋慧乔说几乎被王家卫绑了三年",
+        "onboard_time": 1736730318,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 293879,
+        "num": 293879,
+        "word": "陈梦孙颖莎微博年度关注女运动员",
+        "onboard_time": 1736757861,
+        "rank": 21,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 277178,
+        "num": 277178,
+        "word": "庆奶吃亏在看着太年轻",
+        "onboard_time": 1736745022,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240192,
+        "num": 240192,
+        "word": "张凌赫默默询问工作人员金靖生了没",
+        "onboard_time": 1736754139,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 93611,
+        "num": 229347,
+        "word": "米勒谈LOL新版本",
+        "onboard_time": 1736759178,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 228299,
+        "num": 228299,
+        "word": "泰国警方称要重塑全球游客的信任",
+        "onboard_time": 1736749819,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205938,
+        "num": 205938,
+        "word": "虞书欣主动加宋雨琦联系方式",
+        "onboard_time": 1736752338,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204466,
+        "num": 204466,
+        "word": "智利超92%车厘子出口中国",
+        "onboard_time": 1736743161,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199780,
+        "num": 199780,
+        "word": "邓超帮惠英红追星樊振东",
+        "onboard_time": 1736759119,
+        "rank": 28,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 189855,
+        "num": 189855,
+        "word": "小红书美国appstore下载榜第一",
+        "onboard_time": 1736759719,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 186901,
+        "num": 186901,
+        "word": "50岁快递员成为大体老师",
+        "onboard_time": 1736751377,
+        "rank": 30,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 176956,
+        "num": 176956,
+        "word": "国色芳华剧方致歉",
+        "onboard_time": 1736741720,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173530,
+        "num": 173530,
+        "word": "洛杉矶市长双手插兜笑着回应山火遭批",
+        "onboard_time": 1736756300,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 166622,
+        "num": 166622,
+        "word": "金靖孕反吐了十个月",
+        "onboard_time": 1736747659,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 166264,
+        "num": 166264,
+        "word": "敖瑞鹏 媚眼抛给瞎子看",
+        "onboard_time": 1736756658,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158606,
+        "num": 158606,
+        "word": "女子把丈夫同事9人每日午餐包圆了",
+        "onboard_time": 1736760020,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154871,
+        "num": 154871,
+        "word": "梅见发声明道歉",
+        "onboard_time": 1736759119,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 152662,
+        "num": 152662,
+        "word": "吴宣仪跳舞被热议",
+        "onboard_time": 1736747178,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143584,
+        "num": 143584,
+        "word": "四大85花视后",
+        "onboard_time": 1736748559,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142955,
+        "num": 142955,
+        "word": "祝绪丹新剧垂耳兔造型",
+        "onboard_time": 1736756119,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141834,
+        "num": 141834,
+        "word": "成都女大学生失联后去世排除刑案",
+        "onboard_time": 1736760080,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135861,
+        "num": 135861,
+        "word": "2万吨车厘子到中国还有2万吨快到了",
+        "onboard_time": 1736759421,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134511,
+        "num": 134511,
+        "word": "朋友圈先私密24小时再公开",
+        "onboard_time": 1736694320,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126232,
+        "num": 126232,
+        "word": "海阳海上火箭首飞现场热闹似过年",
+        "onboard_time": 1736758519,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125744,
+        "num": 125744,
+        "word": "成都19岁失联女大学生事件详情",
+        "onboard_time": 1736760080,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125079,
+        "num": 125079,
+        "word": "重庆一公园大量锦鲤死亡系人为投毒",
+        "onboard_time": 1736758999,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124468,
+        "num": 124468,
+        "word": "微博之夜 凤梨酥",
+        "onboard_time": 1736760200,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122456,
+        "num": 122456,
+        "word": "泰国警方成立旅游安全行动中心",
+        "onboard_time": 1736749279,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 122285,
+        "num": 122285,
+        "word": "ADOR禁止NewJeans活动",
+        "onboard_time": 1736760140,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121003,
+        "num": 121003,
+        "word": "煮苹果水",
+        "onboard_time": 1736760200,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见格林纳达总理米切尔#"
+    }
+  }
+}
