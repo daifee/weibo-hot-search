@@ -1,6 +1,6 @@
 {
   "startTime": 1736699124375,
-  "endTime": 1736779282982,
+  "endTime": 1736781927982,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -99,7 +99,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1462567,
+      "raw_hot": 1486324,
       "num": 527642,
       "word": "妻子裸死前夫家中丈夫拒付丧葬费",
       "onboard_time": 1736777062,
@@ -193,6 +193,14 @@
       "onboard_time": 1736692401,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1061688,
+      "num": 1169870,
+      "word": "蔡磊身体机能断崖式下降",
+      "onboard_time": 1736778741,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1061634,
@@ -1108,7 +1116,7 @@
     },
     {
       "raw_hot": 266712,
-      "num": 266712,
+      "num": 419426,
       "word": "北京流感已达高峰",
       "onboard_time": 1736774421,
       "rank": 40,
@@ -1267,12 +1275,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 243411,
+      "num": 243411,
+      "word": "金珉奎更新ig",
+      "onboard_time": 1736780301,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243352,
       "num": 207497,
       "word": "Jiwoo好美",
       "onboard_time": 1736694860,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243183,
+      "num": 243183,
+      "word": "国色芳华最新收视率",
+      "onboard_time": 1736780779,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 242033,
@@ -1347,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228896,
+      "num": 228896,
+      "word": "九尾蓝发",
+      "onboard_time": 1736777541,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 228812,
       "num": 302168,
       "word": "为何进口药越来越难买",
@@ -1369,6 +1401,14 @@
       "onboard_time": 1736745022,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 227034,
+      "num": 227034,
+      "word": "李娜差点扔了法网冠军奖杯",
+      "onboard_time": 1736780301,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 226755,
@@ -1465,14 +1505,6 @@
       "onboard_time": 1736725576,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 214596,
-      "num": 214596,
-      "word": "九尾蓝发",
-      "onboard_time": 1736777541,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 212581,
@@ -1715,14 +1747,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 196068,
-      "num": 196068,
-      "word": "蔡磊身体机能断崖式下降",
-      "onboard_time": 1736778741,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 194840,
       "num": 194840,
       "word": "国色芳华",
@@ -1745,6 +1769,14 @@
       "onboard_time": 1736688980,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 192639,
+      "num": 192639,
+      "word": "邓佳鑫染了紫发",
+      "onboard_time": 1736781319,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 192538,
@@ -1803,6 +1835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189336,
+      "num": 189336,
+      "word": "山姆回应蛋糕胚吃出白色异物",
+      "onboard_time": 1736780600,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188850,
       "num": 188850,
       "word": "胖东来规定不允许不喜欢自己的工作",
@@ -1843,12 +1883,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 185110,
+      "num": 528001,
+      "word": "西藏定日1分钟内发生两次余震",
+      "onboard_time": 1736779101,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 184510,
       "num": 184510,
       "word": "知否里的曼娘在锦囊妙录里好惨",
       "onboard_time": 1736765118,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184257,
+      "num": 184257,
+      "word": "BLACKPINK韩服造型",
+      "onboard_time": 1736781379,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 183567,
@@ -1897,6 +1953,14 @@
       "onboard_time": 1736734159,
       "rank": 32,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 180090,
+      "num": 180090,
+      "word": "SM新男团",
+      "onboard_time": 1736781441,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 178732,
@@ -2033,6 +2097,14 @@
       "onboard_time": 1736752939,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167062,
+      "num": 167062,
+      "word": "妹妹花2小时给出月子姐姐洗头",
+      "onboard_time": 1736776761,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166651,
@@ -2299,6 +2371,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 146035,
+      "num": 146035,
+      "word": "国色芳华三郎 李隆基",
+      "onboard_time": 1736781680,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 145901,
+      "num": 145901,
+      "word": "杨千幻 一声待爆一生待爆",
+      "onboard_time": 1736781441,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145445,
       "num": 158185,
       "word": "洛杉矶市长沉默沉默再沉默",
@@ -2368,6 +2456,14 @@
       "word": "你的家乡有什么过年必吃菜",
       "onboard_time": 1736756061,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139343,
+      "num": 497138,
+      "word": "马拉松报名费为何越来越贵",
+      "onboard_time": 1736778020,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -2457,6 +2553,22 @@
       "onboard_time": 1736732538,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135370,
+      "num": 184262,
+      "word": "单依纯方律师声明",
+      "onboard_time": 1736780180,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 134871,
+      "num": 134871,
+      "word": "袜子里藏16万美元现金过海关被抓",
+      "onboard_time": 1736781559,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134675,
@@ -2569,6 +2681,14 @@
       "onboard_time": 1736777901,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127808,
+      "num": 127808,
+      "word": "SK瘦了",
+      "onboard_time": 1736781859,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 127023,
@@ -2979,14 +3099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94493,
-      "num": 497138,
-      "word": "马拉松报名费为何越来越贵",
-      "onboard_time": 1736778020,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 93619,
       "num": 93619,
       "word": "天鹅妈妈抖翅膀掉出一只小天鹅",
@@ -3339,14 +3451,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 45533,
-      "num": 528001,
-      "word": "西藏定日1分钟内发生两次余震",
-      "onboard_time": 1736779101,
-      "rank": 9,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 45446,
       "num": 164352,
       "word": "毕业的大学生还是小孩子吗",
@@ -3523,20 +3627,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 27787,
+      "num": 193354,
+      "word": "白敬亭和宋亚轩内心都很火热",
+      "onboard_time": 1736778921,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 27392,
       "num": 170389,
       "word": "剧方回应国色芳华妆造被指未授权",
       "onboard_time": 1736766257,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 26641,
-      "num": 193354,
-      "word": "白敬亭和宋亚轩内心都很火热",
-      "onboard_time": 1736778921,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 25910,
@@ -3599,6 +3703,14 @@
       "num": 21385,
       "word": "张婧仪侧脸杀",
       "onboard_time": 1736709851,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 20716,
+      "num": 160740,
+      "word": "张新成说参演唐探有压力",
+      "onboard_time": 1736780360,
       "rank": 34,
       "category": "作品衍生"
     },
