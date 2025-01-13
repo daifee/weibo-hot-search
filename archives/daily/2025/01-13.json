@@ -1,6 +1,6 @@
 {
   "startTime": 1736699124375,
-  "endTime": 1736732861477,
+  "endTime": 1736734159236,
   "band_list": [
     {
       "raw_hot": 2347735,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1340542,
-      "num": 357337,
+      "num": 990884,
       "word": "女儿溺亡女子怪妹妹没看好索赔90万",
       "onboard_time": 1736728459,
       "rank": 3,
@@ -75,6 +75,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 653339,
+      "num": 653339,
+      "word": "黄子韬称不要让他站高再跌下",
+      "onboard_time": 1736730019,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 639423,
       "num": 353621,
       "word": "大奉打更人口碑逆跌",
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 590504,
-      "num": 590504,
+      "num": 1080363,
       "word": "奥司他韦吃多了会耐药吗",
       "onboard_time": 1736726417,
       "rank": 1,
@@ -108,11 +116,19 @@
     },
     {
       "raw_hot": 484418,
-      "num": 349622,
+      "num": 398668,
       "word": "李冰冰 有没有对我妹赵丽颖好一点",
       "onboard_time": 1736724737,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 452828,
+      "num": 452828,
+      "word": "周鸿祎1天涨粉超百万",
+      "onboard_time": 1736731339,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 423801,
@@ -131,6 +147,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 411920,
+      "num": 411920,
+      "word": "加州山火烧掉一个旧金山的面积",
+      "onboard_time": 1736696120,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 399400,
       "num": 243597,
       "word": "中国女游客在日本被撞身亡家人求助",
@@ -147,12 +171,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 366591,
-      "num": 366591,
-      "word": "加州山火烧掉一个旧金山的面积",
-      "onboard_time": 1736696120,
-      "rank": 4,
-      "category": "海外新闻"
+      "raw_hot": 373460,
+      "num": 373460,
+      "word": "雷军解锁泼水成冰",
+      "onboard_time": 1736730318,
+      "rank": 5,
+      "category": "互联网"
     },
     {
       "raw_hot": 358745,
@@ -161,14 +185,6 @@
       "onboard_time": 1736683340,
       "rank": 13,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 350723,
-      "num": 350723,
-      "word": "雷军解锁泼水成冰",
-      "onboard_time": 1736730318,
-      "rank": 5,
-      "category": "互联网"
     },
     {
       "raw_hot": 348866,
@@ -187,20 +203,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 339362,
-      "num": 339362,
-      "word": "黄子韬称不要让他站高再跌下",
-      "onboard_time": 1736730019,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 331322,
       "num": 331322,
       "word": "杨紫回应李现",
       "onboard_time": 1736692401,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 311688,
+      "num": 343366,
+      "word": "洛杉矶山火死亡升至24人",
+      "onboard_time": 1736731998,
+      "rank": 8,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 297128,
@@ -283,12 +299,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 229592,
-      "num": 229592,
-      "word": "周鸿祎1天涨粉超百万",
-      "onboard_time": 1736731339,
-      "rank": 16,
-      "category": "互联网"
+      "raw_hot": 234600,
+      "num": 234600,
+      "word": "甲流",
+      "onboard_time": 1736732239,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 222002,
+      "num": 197021,
+      "word": "当韩国人第一次去逛中国菜市场",
+      "onboard_time": 1736730318,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 218495,
@@ -297,6 +321,14 @@
       "onboard_time": 1736723775,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217356,
+      "num": 217356,
+      "word": "宋佳晒虞书欣拍的她",
+      "onboard_time": 1736732778,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 216206,
@@ -323,20 +355,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209013,
+      "num": 379272,
+      "word": "2025春运明天开始",
+      "onboard_time": 1736731219,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205476,
       "num": 198083,
       "word": "白鹿你被捕了",
       "onboard_time": 1736698160,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 197021,
-      "num": 197021,
-      "word": "当韩国人第一次去逛中国菜市场",
-      "onboard_time": 1736730318,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 193209,
@@ -347,12 +379,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 191786,
-      "num": 343366,
-      "word": "洛杉矶山火死亡升至24人",
-      "onboard_time": 1736731998,
-      "rank": 8,
-      "category": "海外新闻"
+      "raw_hot": 186835,
+      "num": 186835,
+      "word": "A股",
+      "onboard_time": 1736733078,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 182983,
@@ -361,6 +393,14 @@
       "onboard_time": 1736700436,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181887,
+      "num": 181887,
+      "word": "郑钦文预测澳网冠军",
+      "onboard_time": 1736733198,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 177812,
@@ -387,20 +427,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 158900,
-      "num": 158900,
-      "word": "2025春运明天开始",
-      "onboard_time": 1736731219,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153800,
       "num": 153800,
       "word": "日本警方回应中国女游客遭列车撞亡",
       "onboard_time": 1736727439,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150472,
+      "num": 150472,
+      "word": "大逃脱5阵容",
+      "onboard_time": 1736732478,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 148709,
@@ -419,20 +459,36 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 139960,
-      "num": 139960,
-      "word": "大逃脱5阵容",
-      "onboard_time": 1736732478,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 136540,
       "num": 118434,
       "word": "中国电视剧年度盛典",
       "onboard_time": 1736694082,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136072,
+      "num": 155823,
+      "word": "杨紫管乐演姐妹",
+      "onboard_time": 1736732538,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 132429,
+      "num": 132429,
+      "word": "熊猫幼崽一下就暴露了四肢不熟",
+      "onboard_time": 1736732898,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128644,
+      "num": 128644,
+      "word": "加州山火威胁好莱坞环球影城",
+      "onboard_time": 1736732959,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 128344,
@@ -451,14 +507,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 125067,
-      "num": 125067,
-      "word": "甲流",
-      "onboard_time": 1736732239,
-      "rank": 36,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 122359,
       "num": 122359,
       "word": "英雄联盟",
@@ -475,6 +523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 119433,
+      "num": 175836,
+      "word": "恋与制作人",
+      "onboard_time": 1736725576,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 117832,
       "num": 117832,
       "word": "中国人取的名字里藏着无尽浪漫",
@@ -489,6 +545,30 @@
       "onboard_time": 1736698517,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 114197,
+      "num": 114197,
+      "word": "台积电4nm芯片量产",
+      "onboard_time": 1736733498,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 113310,
+      "num": 113310,
+      "word": "洛杉矶消防员没有消防车只能看火烧",
+      "onboard_time": 1736730619,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 112649,
+      "num": 717785,
+      "word": "西藏悼念定日6.8级地震遇难同胞",
+      "onboard_time": 1736732358,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 111312,
@@ -539,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105544,
+      "num": 105544,
+      "word": "洛杉矶山火过火面积超过旧金山市区",
+      "onboard_time": 1736733798,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 104014,
       "num": 104014,
       "word": "猫 叽歪啥没看见在吵架吗",
@@ -553,22 +641,6 @@
       "onboard_time": 1736676738,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 101083,
-      "num": 101083,
-      "word": "洛杉矶消防员没有消防车只能看火烧",
-      "onboard_time": 1736730619,
-      "rank": 45,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 100685,
-      "num": 100685,
-      "word": "宋佳晒虞书欣拍的她",
-      "onboard_time": 1736732778,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 99742,
@@ -651,20 +723,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90550,
+      "num": 90550,
+      "word": "女子肉毒素中毒用了半年开塞露",
+      "onboard_time": 1736734098,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90393,
       "num": 90393,
       "word": "LPL联赛取消赛后粉丝互动",
       "onboard_time": 1736691441,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 88955,
-      "num": 155823,
-      "word": "杨紫管乐演姐妹",
-      "onboard_time": 1736732538,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 85620,
@@ -697,14 +769,6 @@
       "onboard_time": 1736695880,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 76331,
-      "num": 339629,
-      "word": "西藏悼念定日6.8级地震遇难同胞",
-      "onboard_time": 1736732358,
-      "rank": 9,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 76212,
@@ -844,7 +908,7 @@
     },
     {
       "raw_hot": 36658,
-      "num": 670266,
+      "num": 998521,
       "word": "神十九乘组的新朋友已上线",
       "onboard_time": 1736679619,
       "rank": 2,
