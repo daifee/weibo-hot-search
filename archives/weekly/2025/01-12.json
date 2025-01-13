@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736768170260,
+  "endTime": 1736772302253,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -145,6 +145,14 @@
       "onboard_time": 1736611943,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1543679,
+      "num": 1543679,
+      "word": "手机尾号0000000成交价70万",
+      "onboard_time": 1736769859,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1520474,
@@ -387,6 +395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1020452,
+      "num": 1020452,
+      "word": "马化腾不希望微信送礼物功能被过度吹捧",
+      "onboard_time": 1736766199,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1011249,
       "num": 1011249,
       "word": "现成的花少7阵容",
@@ -545,6 +561,14 @@
       "onboard_time": 1736693900,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 836021,
+      "num": 836021,
+      "word": "白月梵星",
+      "onboard_time": 1736663959,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 831887,
@@ -819,14 +843,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 673285,
-      "num": 673285,
-      "word": "马化腾不希望微信送礼物功能被过度吹捧",
-      "onboard_time": 1736766199,
-      "rank": 16,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 667908,
       "num": 505796,
       "word": "美国加州山火现火龙卷",
@@ -857,6 +873,14 @@
       "onboard_time": 1736660780,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 649827,
+      "num": 649827,
+      "word": "男子住酒店发现装修风格和医院一样",
+      "onboard_time": 1736768421,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 647671,
@@ -963,6 +987,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 589608,
+      "num": 589608,
+      "word": "肖战喊庄达菲庄庄",
+      "onboard_time": 1736772079,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 580459,
       "num": 563140,
       "word": "辛雨锡发秦霄贤六宗罪",
@@ -995,6 +1027,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 568002,
+      "num": 568002,
+      "word": "泰国警方称游客可用APP中文报警",
+      "onboard_time": 1736769738,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 556123,
       "num": 393142,
       "word": "虞书欣大方",
@@ -1025,6 +1065,22 @@
       "onboard_time": 1736689461,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 537314,
+      "num": 537314,
+      "word": "汤唯父亲回应费翔抽到自己的书法",
+      "onboard_time": 1736770760,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 533062,
+      "num": 533062,
+      "word": "王暖暖离婚案已报至最高法",
+      "onboard_time": 1736769439,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 529423,
@@ -1323,14 +1379,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 408344,
-      "num": 389401,
-      "word": "白月梵星",
-      "onboard_time": 1736663959,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 400700,
       "num": 400700,
       "word": "丁禹兮站起来给老板鼓掌",
@@ -1393,6 +1441,14 @@
       "onboard_time": 1736610683,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 391707,
+      "num": 391707,
+      "word": "敖瑞鹏 我以前是学美术的",
+      "onboard_time": 1736767820,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 390883,
@@ -1505,6 +1561,14 @@
       "onboard_time": 1736740639,
       "rank": 15,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 366557,
+      "num": 320981,
+      "word": "终于把车厘子和樱桃搞明白了",
+      "onboard_time": 1736771960,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 365159,
@@ -1777,6 +1841,14 @@
       "onboard_time": 1736657059,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 308242,
+      "num": 308242,
+      "word": "敖瑞鹏单手公主抱了白鹿",
+      "onboard_time": 1736770579,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 304617,
@@ -2067,6 +2139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 255051,
+      "num": 255051,
+      "word": "日本地震",
+      "onboard_time": 1736772019,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 254260,
       "num": 254260,
       "word": "代露娃浓颜系美女",
@@ -2259,6 +2339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230157,
+      "num": 230157,
+      "word": "刘晓庆把向太夸成双手托腮的少女",
+      "onboard_time": 1736766620,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229223,
       "num": 229223,
       "word": "李冰冰对侯明昊脸颊比心",
@@ -2385,6 +2473,14 @@
       "onboard_time": 1736759119,
       "rank": 28,
       "category": "作品衍生,体育"
+    },
+    {
+      "raw_hot": 219125,
+      "num": 533742,
+      "word": "救援队员救出被困废墟6天的狗",
+      "onboard_time": 1736767759,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 218725,
@@ -2955,6 +3051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196673,
+      "num": 196673,
+      "word": "范世錡王鹤棣有点暧昧了",
+      "onboard_time": 1736771900,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196591,
       "num": 196591,
       "word": "王曼昱杂志预告",
@@ -3011,6 +3115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 194240,
+      "num": 194240,
+      "word": "买二手宝马里程表缩水一半",
+      "onboard_time": 1736769799,
+      "rank": 31,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 193973,
       "num": 367206,
       "word": "特朗普计划前往加州",
@@ -3041,6 +3153,14 @@
       "onboard_time": 1736663720,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 192538,
+      "num": 192538,
+      "word": "王鹤棣演完杨凌的一生",
+      "onboard_time": 1736769738,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 192049,
@@ -3129,6 +3249,22 @@
       "onboard_time": 1736658799,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 189766,
+      "num": 321166,
+      "word": "律师解读西湖边放杨幂风筝谁担责",
+      "onboard_time": 1736770820,
+      "rank": 18,
+      "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 189324,
+      "num": 189324,
+      "word": "樊振东上海瑞银活动",
+      "onboard_time": 1736772201,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 189174,
@@ -3313,14 +3449,6 @@
       "onboard_time": 1736739678,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 181262,
-      "num": 181262,
-      "word": "敖瑞鹏 我以前是学美术的",
-      "onboard_time": 1736767820,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 180573,
@@ -3803,6 +3931,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 157995,
+      "num": 157995,
+      "word": "黄曦彦演的令狐冲",
+      "onboard_time": 1736771659,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157925,
       "num": 157925,
       "word": "白月梵星 失忆后我做了自己的小三",
@@ -3891,14 +4027,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 154781,
-      "num": 154781,
-      "word": "刘晓庆把向太夸成双手托腮的少女",
-      "onboard_time": 1736766620,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 154628,
       "num": 154628,
       "word": "年轻人问为什么要跟人交往",
@@ -3971,6 +4099,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 153011,
+      "num": 401702,
+      "word": "国色芳华被侵权人讲述始末",
+      "onboard_time": 1736769679,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 152939,
+      "num": 152939,
+      "word": "载33名中国游客游艇倾覆全部获救",
+      "onboard_time": 1736767219,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152772,
       "num": 410605,
       "word": "云南一警犬因上班没精神被通报批评",
@@ -4025,6 +4169,14 @@
       "onboard_time": 1736732478,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150332,
+      "num": 150332,
+      "word": "张元英新歌MV穿婚纱",
+      "onboard_time": 1736767519,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 150240,
@@ -4201,14 +4353,6 @@
       "onboard_time": 1736655320,
       "rank": 44,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 143239,
-      "num": 181264,
-      "word": "救援队员救出被困废墟6天的狗",
-      "onboard_time": 1736767759,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142872,
@@ -4475,14 +4619,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 132605,
-      "num": 132605,
-      "word": "张元英新歌MV穿婚纱",
-      "onboard_time": 1736767519,
-      "rank": 39,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 132429,
       "num": 132429,
       "word": "熊猫幼崽一下就暴露了四肢不熟",
@@ -4531,6 +4667,14 @@
       "category": "艺人,美食"
     },
     {
+      "raw_hot": 130838,
+      "num": 130838,
+      "word": "孙珍妮太适合暗域魅女了",
+      "onboard_time": 1736769621,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130817,
       "num": 130817,
       "word": "王者荣耀巅峰之夜",
@@ -4577,6 +4721,14 @@
       "onboard_time": 1736763319,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129517,
+      "num": 129517,
+      "word": "张康乐马柏全费加罗PARK大片预告",
+      "onboard_time": 1736772259,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 129472,
@@ -4768,6 +4920,14 @@
       "word": "菜市场白色灯照得顾客脸紫红",
       "onboard_time": 1736753780,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123654,
+      "num": 123654,
+      "word": "妻子全身赤裸死在前夫家中",
+      "onboard_time": 1736772259,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -5123,6 +5283,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 112218,
+      "num": 112218,
+      "word": "网约护士兴起有人月入近2万",
+      "onboard_time": 1736768059,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111312,
       "num": 111312,
       "word": "国家德比",
@@ -5137,6 +5305,14 @@
       "onboard_time": 1736665399,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111170,
+      "num": 111170,
+      "word": "许七安背了那么多诗半篇终于用上了",
+      "onboard_time": 1736771421,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 110685,
@@ -5209,6 +5385,14 @@
       "onboard_time": 1736691563,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105845,
+      "num": 194854,
+      "word": "女子逛商场摔成九级残疾索赔15万",
+      "onboard_time": 1736771659,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105838,
@@ -5299,14 +5483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 102427,
-      "num": 102427,
-      "word": "载33名中国游客游艇倾覆全部获救",
-      "onboard_time": 1736767219,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102403,
       "num": 340250,
       "word": "李某涉嫌以危险方法危害公共安全罪",
@@ -5339,12 +5515,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 99662,
-      "num": 99662,
-      "word": "网约护士兴起有人月入近2万",
-      "onboard_time": 1736768059,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 100584,
+      "num": 194879,
+      "word": "加州山火逼近美国重要太空设施",
+      "onboard_time": 1736771359,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 99422,
@@ -5481,6 +5657,14 @@
       "onboard_time": 1736692821,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90777,
+      "num": 906978,
+      "word": "你的家乡有什么过年必吃菜",
+      "onboard_time": 1736756061,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90713,
@@ -6153,6 +6337,14 @@
       "onboard_time": 1736599166,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38622,
+      "num": 321014,
+      "word": "一诺早安合照",
+      "onboard_time": 1736771539,
+      "rank": 19,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 37393,

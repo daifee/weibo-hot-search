@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/13 19:36:10
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/13 20:45:02
 </p>
 </blockquote>
 <p>
@@ -1329,6 +1329,12 @@ AG挑战者杯夺冠（热度：1652837）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E5%B0%BE%E5%8F%B70000000%E6%88%90%E4%BA%A4%E4%BB%B770%E4%B8%87%23" target="weibo">
+手机尾号0000000成交价70万（热度：1543679）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E5%94%B1%23" target="weibo">
 假唱（热度：1538021）
 </a>
@@ -2439,6 +2445,12 @@ AG挑战者杯夺冠（热度：1652837）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%8C%96%E8%85%BE%E4%B8%8D%E5%B8%8C%E6%9C%9B%E5%BE%AE%E4%BF%A1%E9%80%81%E7%A4%BC%E7%89%A9%E5%8A%9F%E8%83%BD%E8%A2%AB%E8%BF%87%E5%BA%A6%E5%90%B9%E6%8D%A7%23" target="weibo">
+马化腾不希望微信送礼物功能被过度吹捧（热度：1020452）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%944%E5%B9%B4%E7%BA%A7%E6%95%B0%E5%AD%A6%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%E5%A4%AA%E9%9A%BE%23" target="weibo">
 教育局回应4年级数学期末试卷太难（热度：1018316）
 </a>
@@ -3257,6 +3269,12 @@ R1SE舞台（热度：868936）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B1%BF%E9%B1%BC%E6%B8%B8%E6%88%8F2%E9%81%AD%E8%B6%8A%E5%8D%97%E8%A7%82%E4%BC%97%E6%8A%B5%E5%88%B6%23" target="weibo">
 鱿鱼游戏2遭越南观众抵制（热度：836075）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%9C%88%E6%A2%B5%E6%98%9F%23" target="weibo">
+白月梵星（热度：836021）
 </a>
 </li>
 
@@ -4353,12 +4371,6 @@ SM新女团 SMTOWN压轴（热度：743773）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%8C%96%E8%85%BE%E4%B8%8D%E5%B8%8C%E6%9C%9B%E5%BE%AE%E4%BF%A1%E9%80%81%E7%A4%BC%E7%89%A9%E5%8A%9F%E8%83%BD%E8%A2%AB%E8%BF%87%E5%BA%A6%E5%90%B9%E6%8D%A7%23" target="weibo">
-马化腾不希望微信送礼物功能被过度吹捧（热度：673285）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%AD%90%E8%AF%B4%E8%87%AA%E5%B7%B1%E9%87%8D%E7%94%9F%E4%BA%86%23" target="weibo">
 杨子说自己重生了（热度：672207）
 </a>
@@ -4559,6 +4571,12 @@ SM新女团 SMTOWN压轴（热度：743773）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD9%E5%90%8D%E5%AE%B6%E4%BA%BA%E9%81%87%E9%9A%BE%E7%9A%84%E5%B0%8F%E7%8B%97%E5%B7%B2%E8%A2%AB%E6%94%B6%E5%85%BB%23" target="weibo">
 韩国9名家人遇难的小狗已被收养（热度：650410）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BD%8F%E9%85%92%E5%BA%97%E5%8F%91%E7%8E%B0%E8%A3%85%E4%BF%AE%E9%A3%8E%E6%A0%BC%E5%92%8C%E5%8C%BB%E9%99%A2%E4%B8%80%E6%A0%B7%23" target="weibo">
+男子住酒店发现装修风格和医院一样（热度：649827）
 </a>
 </li>
 
@@ -4977,12 +4995,6 @@ Angelababy沙漠神女（热度：605044）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%9C%88%E6%A2%B5%E6%98%9F%23" target="weibo">
-白月梵星（热度：600762）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E5%85%8B%E7%9A%84%E6%9D%8E%E5%81%A5%E6%8A%B1%E7%9D%80%E4%BB%96%E7%BB%9D%E8%82%B2%E7%9A%84%E7%8C%AB%23" target="weibo">
 丁克的李健抱着他绝育的猫（热度：600749）
 </a>
@@ -5123,6 +5135,12 @@ EXO唱了初雪（热度：600311）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%AC%E6%AC%A1%E6%B5%81%E6%84%9F%E5%B0%86%E5%9C%A81%E6%9C%88%E4%B8%AD%E6%97%AC%E8%BE%BE%E5%88%B0%E9%AB%98%E5%B3%B0%23" target="weibo">
 本次流感将在1月中旬达到高峰（热度：589977）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%96%8A%E5%BA%84%E8%BE%BE%E8%8F%B2%E5%BA%84%E5%BA%84%23" target="weibo">
+肖战喊庄达菲庄庄（热度：589608）
 </a>
 </li>
 
@@ -5303,6 +5321,12 @@ A50（热度：572477）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%98%E6%BD%AD%E5%A4%A7%E5%AD%A6%E6%8A%95%E6%AF%92%E6%A1%88%E4%B8%80%E5%AE%A1%E5%BC%80%E5%BA%AD%23" target="weibo">
 湘潭大学投毒案一审开庭（热度：568530）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E8%AD%A6%E6%96%B9%E7%A7%B0%E6%B8%B8%E5%AE%A2%E5%8F%AF%E7%94%A8APP%E4%B8%AD%E6%96%87%E6%8A%A5%E8%AD%A6%23" target="weibo">
+泰国警方称游客可用APP中文报警（热度：568002）
 </a>
 </li>
 
@@ -5595,8 +5619,20 @@ A50（热度：572477）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%A4%E5%94%AF%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%94%E8%B4%B9%E7%BF%94%E6%8A%BD%E5%88%B0%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B9%A6%E6%B3%95%23" target="weibo">
+汤唯父亲回应费翔抽到自己的书法（热度：537314）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E6%98%9F%E6%98%9F%E6%9B%BE%E5%87%BA%E6%BC%94%E7%8E%AB%E7%91%B0%E7%9A%84%E6%95%85%E4%BA%8B%23" target="weibo">
 演员星星曾出演玫瑰的故事（热度：536355）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9A%96%E6%9A%96%E7%A6%BB%E5%A9%9A%E6%A1%88%E5%B7%B2%E6%8A%A5%E8%87%B3%E6%9C%80%E9%AB%98%E6%B3%95%23" target="weibo">
+王暖暖离婚案已报至最高法（热度：533062）
 </a>
 </li>
 
@@ -5975,42 +6011,6 @@ A50（热度：572477）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%81%E7%A6%B9%E5%85%AE%E6%9E%97%E4%B8%80%E6%8A%8A%E6%97%A5%E5%AD%90%E8%BF%87%E5%A5%BD%23" target="weibo">
 虞书欣丁禹兮林一把日子过好（热度：502657）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B7%AF%E4%BA%BA%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A2%AB%E7%81%AB%E8%BD%A6%E6%92%9E%E6%88%96%E5%8F%8D%E9%81%AD%E9%93%81%E8%B7%AF%E5%85%AC%E5%8F%B8%E7%B4%A2%E8%B5%94%23" target="weibo">
-路人在日本被火车撞或反遭铁路公司索赔（热度：502373）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%B9%8B%E5%A4%96%E7%9B%B4%E6%92%AD%23" target="weibo">
-世界之外直播（热度：501344）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%A9%BA%E9%9A%BE%E6%9C%BA%E9%95%BF%E9%81%87%E9%9A%BE%E5%89%8D%E6%9C%80%E5%90%8E%E5%8A%A8%E4%BD%9C%E8%A2%AB%E6%8B%8D%E4%B8%8B%23" target="weibo">
-韩国空难机长遇难前最后动作被拍下（热度：501260）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%B3%E5%85%89%E5%9E%8B%E6%8A%91%E9%83%81%E7%97%87%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%23" target="weibo">
-阳光型抑郁症到底是什么（热度：500919）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%BB%9915%E4%B8%87%E5%BD%A9%E7%A4%BC1%E4%B8%AA%E6%9C%88%E5%90%8E%E8%A2%AB%E5%88%86%E6%89%8B%23" target="weibo">
-男子给15万彩礼1个月后被分手（热度：500808）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F%E5%BD%93%E5%A4%A9%E5%85%A8%E5%B9%B3%E5%8F%B0%E6%96%AD%E5%B1%82%E7%99%BB%E9%A1%B6%23" target="weibo">
-虞书欣星光大赏当天全平台断层登顶（热度：499774）
 </a>
 </li>
 
