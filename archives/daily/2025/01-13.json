@@ -1,6 +1,6 @@
 {
   "startTime": 1736699124375,
-  "endTime": 1736746777029,
+  "endTime": 1736749975782,
   "band_list": [
     {
       "raw_hot": 2404833,
@@ -91,6 +91,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1006152,
+      "num": 739614,
+      "word": "金靖孕反吐了十个月",
+      "onboard_time": 1736747659,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 957421,
+      "num": 1153187,
+      "word": "尹锡悦呼吁韩国政府支援加州山火",
+      "onboard_time": 1736744000,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 950190,
       "num": 311149,
       "word": "王楚钦是国乒首个00后世界冠军",
@@ -105,14 +121,6 @@
       "onboard_time": 1736741238,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 858591,
-      "num": 858591,
-      "word": "尹锡悦呼吁韩国政府支援加州山火",
-      "onboard_time": 1736744000,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 839939,
@@ -155,6 +163,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 731885,
+      "num": 731885,
+      "word": "智利超92%车厘子出口中国",
+      "onboard_time": 1736743161,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 702899,
+      "num": 702899,
+      "word": "孙茜含泪拥抱孙俪",
+      "onboard_time": 1736748080,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 683778,
       "num": 683778,
       "word": "冲动订购19800元内衣隔天能退吗",
@@ -164,7 +188,7 @@
     },
     {
       "raw_hot": 646654,
-      "num": 503283,
+      "num": 550123,
       "word": "庆奶吃亏在看着太年轻",
       "onboard_time": 1736745022,
       "rank": 14,
@@ -257,6 +281,14 @@
       "onboard_time": 1736696120,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 433118,
+      "num": 433118,
+      "word": "四大85花视后",
+      "onboard_time": 1736748559,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 427539,
@@ -395,12 +427,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 345527,
+      "num": 345527,
+      "word": "王鹤棣田曦薇密室紧紧牵手",
+      "onboard_time": 1736748499,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 345314,
       "num": 281353,
       "word": "黄晓明说大年初一去看郭伯伯",
       "onboard_time": 1736701095,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 338887,
+      "num": 268163,
+      "word": "吴宣仪跳舞被热议",
+      "onboard_time": 1736747178,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 338140,
@@ -427,14 +475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 323656,
-      "num": 452351,
-      "word": "智利超92%车厘子出口中国",
-      "onboard_time": 1736743161,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 314508,
       "num": 286410,
       "word": "如何取消朋友圈点赞动态通知",
@@ -457,6 +497,14 @@
       "onboard_time": 1736731998,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 301596,
+      "num": 265541,
+      "word": "难怪老外对水果披萨那么抗拒了",
+      "onboard_time": 1736748619,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 298538,
@@ -483,6 +531,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 282073,
+      "num": 282073,
+      "word": "东部战区代表团将访问日本",
+      "onboard_time": 1736747299,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 280215,
       "num": 280215,
       "word": "警方通报120打三次不通两度打110",
@@ -499,12 +555,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 276881,
+      "num": 415080,
+      "word": "我国成功发射一箭10星",
+      "onboard_time": 1736748799,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 270454,
       "num": 270454,
       "word": "胡冰卿新剧左脸写服右脸写不",
       "onboard_time": 1736697320,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 269393,
+      "num": 281100,
+      "word": "刘宇阎鹤祥 美感与偷感的具象化",
+      "onboard_time": 1736749219,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 268472,
@@ -577,6 +649,14 @@
       "onboard_time": 1736687359,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 247659,
+      "num": 247659,
+      "word": "十个勤天直播",
+      "onboard_time": 1736748799,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 247244,
@@ -667,6 +747,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 225643,
+      "num": 225643,
+      "word": "Angelababy窗台序曲大片",
+      "onboard_time": 1736748559,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 222002,
       "num": 197021,
       "word": "当韩国人第一次去逛中国菜市场",
@@ -737,6 +825,14 @@
       "onboard_time": 1736736558,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 206817,
+      "num": 206817,
+      "word": "淄博职业学院升本",
+      "onboard_time": 1736747299,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 206166,
@@ -963,12 +1059,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 176732,
+      "num": 248221,
+      "word": "惠英红给刘诗诗宋佳和自己写剧本",
+      "onboard_time": 1736747839,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 176502,
       "num": 176502,
       "word": "国色芳华 手伸不进屏幕的无力感",
       "onboard_time": 1736742560,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174719,
+      "num": 174719,
+      "word": "人大教授建议年轻人不要扎堆搞AI",
+      "onboard_time": 1736749279,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 174472,
@@ -1003,6 +1115,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 172105,
+      "num": 249485,
+      "word": "王曼昱说正在找回自己",
+      "onboard_time": 1736748198,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171219,
       "num": 171219,
       "word": "真正的朱熹画像原来是这样的",
@@ -1027,6 +1147,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160889,
+      "num": 160889,
+      "word": "泰国警方成立旅游安全行动中心",
+      "onboard_time": 1736749279,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 160836,
+      "num": 226370,
+      "word": "国色芳华爱人的眼睛是第八大洋",
+      "onboard_time": 1736749159,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 159860,
+      "num": 159860,
+      "word": "阴阳师蛇年新春版本",
+      "onboard_time": 1736749099,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 159136,
       "num": 159136,
       "word": "成本36块一锅做了10个菜",
@@ -1041,6 +1185,22 @@
       "onboard_time": 1736745320,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157770,
+      "num": 225692,
+      "word": "金靖说可以演虞书欣妈妈",
+      "onboard_time": 1736749459,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 157273,
+      "num": 157273,
+      "word": "肖战打戏",
+      "onboard_time": 1736748379,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 156479,
@@ -1083,11 +1243,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 152250,
+      "num": 152250,
+      "word": "一路繁花 走婚",
+      "onboard_time": 1736748139,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150472,
       "num": 150472,
       "word": "大逃脱5阵容",
       "onboard_time": 1736732478,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 148893,
+      "num": 148893,
+      "word": "井胧当弟弟的原因找到了",
+      "onboard_time": 1736749639,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -1171,6 +1347,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 137424,
+      "num": 137424,
+      "word": "泽连斯基称愿意帮助加州灭火",
+      "onboard_time": 1736746999,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 136540,
       "num": 118434,
       "word": "中国电视剧年度盛典",
@@ -1187,12 +1371,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135171,
+      "num": 135171,
+      "word": "泰国警方称要重塑全球游客的信任",
+      "onboard_time": 1736749819,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134675,
+      "num": 134675,
+      "word": "井胧给井迪紧急形象公关",
+      "onboard_time": 1736749279,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134177,
       "num": 134177,
       "word": "加州山火威胁好莱坞环球影城",
       "onboard_time": 1736732959,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 133282,
+      "num": 299857,
+      "word": "人民网评2025中国电影需直面挑战",
+      "onboard_time": 1736748559,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132429,
@@ -1217,6 +1425,14 @@
       "onboard_time": 1736724257,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128060,
+      "num": 128060,
+      "word": "离岸人民币大涨近百点",
+      "onboard_time": 1736748259,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 125110,
@@ -1577,6 +1793,14 @@
       "onboard_time": 1736739198,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63886,
+      "num": 277205,
+      "word": "加州山火威胁2028洛杉矶奥运场馆",
+      "onboard_time": 1736748559,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 62434,

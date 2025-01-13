@@ -1,0 +1,410 @@
+{
+  "runTime": 1736749975782,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 957421,
+        "num": 1153187,
+        "word": "尹锡悦呼吁韩国政府支援加州山火",
+        "onboard_time": 1736744000,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 755586,
+        "num": 755586,
+        "word": "2万吨智利车厘子运抵中国",
+        "onboard_time": 1736740700,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31605,
+        "num": 741355,
+        "word": "西藏震后安置正在加紧进行",
+        "onboard_time": 1736736677,
+        "rank": 2,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1006152,
+        "num": 739614,
+        "word": "金靖孕反吐了十个月",
+        "onboard_time": 1736747659,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 731885,
+        "num": 731885,
+        "word": "智利超92%车厘子出口中国",
+        "onboard_time": 1736743161,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 702899,
+        "num": 702899,
+        "word": "孙茜含泪拥抱孙俪",
+        "onboard_time": 1736748080,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 684854,
+        "num": 684854,
+        "word": "国色芳华剧方致歉",
+        "onboard_time": 1736741720,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 550123,
+        "num": 550123,
+        "word": "庆奶吃亏在看着太年轻",
+        "onboard_time": 1736745022,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 433118,
+        "num": 433118,
+        "word": "四大85花视后",
+        "onboard_time": 1736748559,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 276881,
+        "num": 415080,
+        "word": "我国成功发射一箭10星",
+        "onboard_time": 1736748799,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 471259,
+        "num": 411110,
+        "word": "12306一天拒绝异常登录3982万次",
+        "onboard_time": 1736738480,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403948,
+        "num": 403948,
+        "word": "冲动订购19800元内衣隔天能退吗",
+        "onboard_time": 1736742380,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345527,
+        "num": 345527,
+        "word": "王鹤棣田曦薇密室紧紧牵手",
+        "onboard_time": 1736748499,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338271,
+        "num": 338271,
+        "word": "司机不给消防车让道称以为谁喝多了",
+        "onboard_time": 1736742440,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133282,
+        "num": 299857,
+        "word": "人民网评2025中国电影需直面挑战",
+        "onboard_time": 1736748559,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283974,
+        "num": 283974,
+        "word": "王楚钦小说里的顶级大学生",
+        "onboard_time": 1736743222,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282073,
+        "num": 282073,
+        "word": "东部战区代表团将访问日本",
+        "onboard_time": 1736747299,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 269393,
+        "num": 281100,
+        "word": "刘宇阎鹤祥 美感与偷感的具象化",
+        "onboard_time": 1736749219,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280337,
+        "num": 280337,
+        "word": "加州山火烧掉一个旧金山的面积",
+        "onboard_time": 1736696120,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 63886,
+        "num": 277205,
+        "word": "加州山火威胁2028洛杉矶奥运场馆",
+        "onboard_time": 1736748559,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 597327,
+        "num": 274952,
+        "word": "宋慧乔说几乎被王家卫绑了三年",
+        "onboard_time": 1736730318,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 338887,
+        "num": 268163,
+        "word": "吴宣仪跳舞被热议",
+        "onboard_time": 1736747178,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301596,
+        "num": 265541,
+        "word": "难怪老外对水果披萨那么抗拒了",
+        "onboard_time": 1736748619,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 260773,
+        "num": 260773,
+        "word": "朋友圈先私密24小时再公开",
+        "onboard_time": 1736694320,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172105,
+        "num": 249485,
+        "word": "王曼昱说正在找回自己",
+        "onboard_time": 1736748198,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176732,
+        "num": 248221,
+        "word": "惠英红给刘诗诗宋佳和自己写剧本",
+        "onboard_time": 1736747839,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 247659,
+        "num": 247659,
+        "word": "十个勤天直播",
+        "onboard_time": 1736748799,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229880,
+        "num": 229880,
+        "word": "教育部拟同意设置14所本科高校",
+        "onboard_time": 1736740521,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 160836,
+        "num": 226370,
+        "word": "国色芳华爱人的眼睛是第八大洋",
+        "onboard_time": 1736749159,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157770,
+        "num": 225692,
+        "word": "金靖说可以演虞书欣妈妈",
+        "onboard_time": 1736749459,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 225643,
+        "num": 225643,
+        "word": "Angelababy窗台序曲大片",
+        "onboard_time": 1736748559,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 211036,
+        "num": 211036,
+        "word": "女儿溺亡女子怪妹妹没看好索赔90万",
+        "onboard_time": 1736728459,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206817,
+        "num": 206817,
+        "word": "淄博职业学院升本",
+        "onboard_time": 1736747299,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 183161,
+        "num": 183161,
+        "word": "李现说杨紫朋友圈最有趣",
+        "onboard_time": 1736742620,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174719,
+        "num": 174719,
+        "word": "人大教授建议年轻人不要扎堆搞AI",
+        "onboard_time": 1736749279,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 172132,
+        "num": 172132,
+        "word": "泽连斯基准备派150名消防员到加州救火",
+        "onboard_time": 1736745022,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166894,
+        "num": 166894,
+        "word": "北京将新增1所本科高校",
+        "onboard_time": 1736745022,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 165387,
+        "num": 165387,
+        "word": "关晓彤回应垂耳兔塑",
+        "onboard_time": 1736744481,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160889,
+        "num": 160889,
+        "word": "泰国警方成立旅游安全行动中心",
+        "onboard_time": 1736749279,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 159860,
+        "num": 159860,
+        "word": "阴阳师蛇年新春版本",
+        "onboard_time": 1736749099,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157273,
+        "num": 157273,
+        "word": "肖战打戏",
+        "onboard_time": 1736748379,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152250,
+        "num": 152250,
+        "word": "一路繁花 走婚",
+        "onboard_time": 1736748139,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148893,
+        "num": 148893,
+        "word": "井胧当弟弟的原因找到了",
+        "onboard_time": 1736749639,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148629,
+        "num": 148629,
+        "word": "陈雨菲宣布冲击洛杉矶奥运会",
+        "onboard_time": 1736745260,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148162,
+        "num": 148162,
+        "word": "成本36块一锅做了10个菜",
+        "onboard_time": 1736746160,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 138317,
+        "num": 138317,
+        "word": "女子肉毒素中毒用了半年开塞露",
+        "onboard_time": 1736734098,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137424,
+        "num": 137424,
+        "word": "泽连斯基称愿意帮助加州灭火",
+        "onboard_time": 1736746999,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135171,
+        "num": 135171,
+        "word": "泰国警方称要重塑全球游客的信任",
+        "onboard_time": 1736749819,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134675,
+        "num": 134675,
+        "word": "井胧给井迪紧急形象公关",
+        "onboard_time": 1736749279,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128060,
+        "num": 128060,
+        "word": "离岸人民币大涨近百点",
+        "onboard_time": 1736748259,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#要继续推动冰雪运动普及发展#"
+    }
+  }
+}

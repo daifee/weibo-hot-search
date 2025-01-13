@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736746777029,
+  "endTime": 1736749975782,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -3251,6 +3251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1006152,
+      "num": 739614,
+      "word": "金靖孕反吐了十个月",
+      "onboard_time": 1736747659,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1004763,
       "num": 1004763,
       "word": "国考",
@@ -3505,6 +3513,14 @@
       "onboard_time": 1735733721,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 957421,
+      "num": 1153187,
+      "word": "尹锡悦呼吁韩国政府支援加州山火",
+      "onboard_time": 1736744000,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 957319,
@@ -4105,14 +4121,6 @@
       "onboard_time": 1735951997,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 858591,
-      "num": 858591,
-      "word": "尹锡悦呼吁韩国政府支援加州山火",
-      "onboard_time": 1736744000,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 855492,
@@ -5067,6 +5075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 731885,
+      "num": 731885,
+      "word": "智利超92%车厘子出口中国",
+      "onboard_time": 1736743161,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 731179,
       "num": 731179,
       "word": "沈腾用前置扫码",
@@ -5265,6 +5281,14 @@
       "onboard_time": 1736517623,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 702899,
+      "num": 702899,
+      "word": "孙茜含泪拥抱孙俪",
+      "onboard_time": 1736748080,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 702186,
@@ -5924,7 +5948,7 @@
     },
     {
       "raw_hot": 646654,
-      "num": 503283,
+      "num": 550123,
       "word": "庆奶吃亏在看着太年轻",
       "onboard_time": 1736745022,
       "rank": 14,
@@ -8907,6 +8931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 433118,
+      "num": 433118,
+      "word": "四大85花视后",
+      "onboard_time": 1736748559,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 432803,
       "num": 432803,
       "word": "42岁抗癌网红雨虹去世",
@@ -11195,6 +11227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 345527,
+      "num": 345527,
+      "word": "王鹤棣田曦薇密室紧紧牵手",
+      "onboard_time": 1736748499,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 345314,
       "num": 281353,
       "word": "黄晓明说大年初一去看郭伯伯",
@@ -11353,6 +11393,14 @@
       "onboard_time": 1736339121,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 338887,
+      "num": 268163,
+      "word": "吴宣仪跳舞被热议",
+      "onboard_time": 1736747178,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 338778,
@@ -11817,14 +11865,6 @@
       "onboard_time": 1735899680,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 323656,
-      "num": 452351,
-      "word": "智利超92%车厘子出口中国",
-      "onboard_time": 1736743161,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 323263,
@@ -12659,6 +12699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301596,
+      "num": 265541,
+      "word": "难怪老外对水果披萨那么抗拒了",
+      "onboard_time": 1736748619,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 301581,
       "num": 301581,
       "word": "三人行群演爆料",
@@ -13467,6 +13515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 282073,
+      "num": 282073,
+      "word": "东部战区代表团将访问日本",
+      "onboard_time": 1736747299,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 281699,
       "num": 271073,
       "word": "辛芷蕾猫尾挂脖高定",
@@ -13673,6 +13729,14 @@
       "onboard_time": 1736502799,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 276881,
+      "num": 415080,
+      "word": "我国成功发射一箭10星",
+      "onboard_time": 1736748799,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 276842,
@@ -14073,6 +14137,14 @@
       "onboard_time": 1736260826,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 269393,
+      "num": 281100,
+      "word": "刘宇阎鹤祥 美感与偷感的具象化",
+      "onboard_time": 1736749219,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 269319,
@@ -15049,6 +15121,14 @@
       "onboard_time": 1736055508,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 247659,
+      "num": 247659,
+      "word": "十个勤天直播",
+      "onboard_time": 1736748799,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 247196,
@@ -16417,6 +16497,14 @@
       "onboard_time": 1736409561,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225643,
+      "num": 225643,
+      "word": "Angelababy窗台序曲大片",
+      "onboard_time": 1736748559,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 225412,
@@ -18033,6 +18121,14 @@
       "onboard_time": 1736061085,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206817,
+      "num": 206817,
+      "word": "淄博职业学院升本",
+      "onboard_time": 1736747299,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 206797,
@@ -22147,6 +22243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 176732,
+      "num": 248221,
+      "word": "惠英红给刘诗诗宋佳和自己写剧本",
+      "onboard_time": 1736747839,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 176728,
       "num": 219121,
       "word": "孙怡的身上有好多花",
@@ -22385,6 +22489,14 @@
       "onboard_time": 1736424263,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 174719,
+      "num": 174719,
+      "word": "人大教授建议年轻人不要扎堆搞AI",
+      "onboard_time": 1736749279,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 174665,
@@ -22801,6 +22913,14 @@
       "onboard_time": 1736313442,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172105,
+      "num": 249485,
+      "word": "王曼昱说正在找回自己",
+      "onboard_time": 1736748198,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 171953,
@@ -24435,12 +24555,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160889,
+      "num": 160889,
+      "word": "泰国警方成立旅游安全行动中心",
+      "onboard_time": 1736749279,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 160840,
       "num": 160840,
       "word": "香格里拉地震",
       "onboard_time": 1736238443,
       "rank": 47,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 160836,
+      "num": 226370,
+      "word": "国色芳华爱人的眼睛是第八大洋",
+      "onboard_time": 1736749159,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 160831,
@@ -24521,6 +24657,14 @@
       "onboard_time": 1736681120,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 159860,
+      "num": 159860,
+      "word": "阴阳师蛇年新春版本",
+      "onboard_time": 1736749099,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 159691,
@@ -24835,6 +24979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157770,
+      "num": 225692,
+      "word": "金靖说可以演虞书欣妈妈",
+      "onboard_time": 1736749459,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 157745,
       "num": 133924,
       "word": "蒋欣怎么忍住不笑场的",
@@ -24913,6 +25065,14 @@
       "onboard_time": 1735741581,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157273,
+      "num": 157273,
+      "word": "肖战打戏",
+      "onboard_time": 1736748379,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 157256,
@@ -25675,6 +25835,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 152250,
+      "num": 152250,
+      "word": "一路繁花 走婚",
+      "onboard_time": 1736748139,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152241,
       "num": 152241,
       "word": "白鹿 小说中的战损女神有脸了",
@@ -26097,6 +26265,14 @@
       "onboard_time": 1735900700,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 148893,
+      "num": 148893,
+      "word": "井胧当弟弟的原因找到了",
+      "onboard_time": 1736749639,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 148847,
@@ -27843,6 +28019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137424,
+      "num": 137424,
+      "word": "泽连斯基称愿意帮助加州灭火",
+      "onboard_time": 1736746999,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 137417,
       "num": 137417,
       "word": "圣吗哪乳业回应博主奶茶测评事件",
@@ -28227,6 +28411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135171,
+      "num": 135171,
+      "word": "泰国警方称要重塑全球游客的信任",
+      "onboard_time": 1736749819,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135090,
       "num": 274340,
       "word": "官方回应大爷为游客垫医药费被拉黑",
@@ -28273,6 +28465,14 @@
       "onboard_time": 1735739602,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134675,
+      "num": 134675,
+      "word": "井胧给井迪紧急形象公关",
+      "onboard_time": 1736749279,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 134648,
@@ -28481,6 +28681,14 @@
       "onboard_time": 1736213299,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133282,
+      "num": 299857,
+      "word": "人民网评2025中国电影需直面挑战",
+      "onboard_time": 1736748559,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133198,
@@ -29265,6 +29473,14 @@
       "onboard_time": 1736079388,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128060,
+      "num": 128060,
+      "word": "离岸人民币大涨近百点",
+      "onboard_time": 1736748259,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 128049,
@@ -35441,6 +35657,14 @@
       "onboard_time": 1736441118,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 63886,
+      "num": 277205,
+      "word": "加州山火威胁2028洛杉矶奥运场馆",
+      "onboard_time": 1736748559,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 63847,
