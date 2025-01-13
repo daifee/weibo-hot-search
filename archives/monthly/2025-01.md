@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/13 12:28:05
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/13 12:42:17
 </p>
 </blockquote>
 <p>
@@ -503,6 +503,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E9%9F%B3%E5%87%86%23" target="weibo">
 王源跨年晚会音准（热度：2409556）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E5%86%89%20%E6%8C%82%E8%84%B8%23" target="weibo">
+李小冉 挂脸（热度：2404833）
 </a>
 </li>
 
@@ -1191,6 +1197,12 @@ AG挑战者杯夺冠（热度：1652837）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232%E4%B8%87%E5%90%A8%E6%99%BA%E5%88%A9%E8%BD%A6%E5%8E%98%E5%AD%90%E8%BF%90%E6%8A%B5%E4%B8%AD%E5%9B%BD%23" target="weibo">
+2万吨智利车厘子运抵中国（热度：1614743）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%AD%90%20%E6%88%91%E5%8F%88%E4%B8%8D%E6%98%AF%E6%89%BE%E4%B8%8D%E7%9D%80%E6%9B%B4%E5%A5%BD%E7%9A%84%23" target="weibo">
 杨子 我又不是找不着更好的（热度：1609470）
 </a>
@@ -1445,12 +1457,6 @@ AG挑战者杯夺冠（热度：1652837）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%9B%9E%E5%A4%8D%E4%B8%9E%E7%A3%8A%E7%B2%89%E4%B8%9D%23" target="weibo">
 张凌赫回复丞磊粉丝（热度：1420052）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232%E4%B8%87%E5%90%A8%E6%99%BA%E5%88%A9%E8%BD%A6%E5%8E%98%E5%AD%90%E8%BF%90%E6%8A%B5%E4%B8%AD%E5%9B%BD%23" target="weibo">
-2万吨智利车厘子运抵中国（热度：1416064）
 </a>
 </li>
 
@@ -1787,12 +1793,6 @@ AG挑战者杯夺冠（热度：1652837）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%83%A0%E8%8B%B1%E7%BA%A2%20%E6%88%91cp%E5%A9%9A%E7%A4%BC%E8%A7%81%E8%AF%81%E4%BA%BA%23" target="weibo">
 惠英红 我cp婚礼见证人（热度：1249875）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E5%86%89%20%E6%8C%82%E8%84%B8%23" target="weibo">
-李小冉 挂脸（热度：1249815）
 </a>
 </li>
 
@@ -2369,6 +2369,12 @@ AG挑战者杯夺冠（热度：1652837）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%B0%E8%82%A1%E4%BB%A3%E9%9C%B2%E5%A8%83%23" target="weibo">
 买股代露娃（热度：1040314）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E5%89%A7%E6%96%B9%E8%87%B4%E6%AD%89%23" target="weibo">
+国色芳华剧方致歉（热度：1037202）
 </a>
 </li>
 
@@ -3113,6 +3119,12 @@ R1SE舞台（热度：868936）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E5%B7%9E%E5%B1%B1%E7%81%AB%E5%AF%B9%E6%AF%94%E9%87%8D%E5%BA%86%E8%AE%A9%E7%BE%8E%E7%BD%91%E5%8F%8B%E7%A0%B4%E9%98%B2%E4%BA%86%23" target="weibo">
 加州山火对比重庆让美网友破防了（热度：850734）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E5%9B%9E%E5%A4%8D%E7%B2%89%E4%B8%9D%E6%88%91%E6%80%95%E6%9C%89%E5%88%BA%E7%9A%84%E9%B1%BC%23" target="weibo">
+丁禹兮回复粉丝我怕有刺的鱼（热度：848465）
 </a>
 </li>
 
@@ -5499,6 +5511,12 @@ A50（热度：572477）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E6%8B%9F%E5%90%8C%E6%84%8F%E8%AE%BE%E7%BD%AE14%E6%89%80%E6%9C%AC%E7%A7%91%E9%AB%98%E6%A0%A1%23" target="weibo">
+教育部拟同意设置14所本科高校（热度：522281）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%BF%97%E8%83%9C%E7%9D%A1%E5%85%AB%E4%B8%AA%E5%B0%8F%E6%97%B6%E7%AE%97%E5%A4%B1%E7%9C%A0%23" target="weibo">
 徐志胜睡八个小时算失眠（热度：522175）
 </a>
@@ -5993,24 +6011,6 @@ SM员工说不要相信艺人说的话（热度：492319）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%86%B0%E5%86%B0%20%E6%9C%89%E6%B2%A1%E6%9C%89%E5%AF%B9%E6%88%91%E5%A6%B9%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%A5%BD%E4%B8%80%E7%82%B9%23" target="weibo">
 李冰冰 有没有对我妹赵丽颖好一点（热度：484418）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%BB%E6%B3%B0%E5%9B%BD%E4%BD%BF%E9%A6%86%E5%9B%9E%E5%BA%94%E6%BC%94%E5%91%98%E6%98%9F%E6%98%9F%E5%A4%B1%E8%81%94%23" target="weibo">
-中国驻泰国使馆回应演员星星失联（热度：484007）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B8%82%E7%9B%91%E5%B1%80%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%9B%9E%E5%BA%94%E4%B9%9D%E7%82%B9%E6%B2%A1%E4%BA%BA%E4%B8%8A%E7%8F%AD%23" target="weibo">
-市监局工作人员回应九点没人上班（热度：483150）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%E5%9C%A8%E6%B4%97%E8%A1%A3%E6%9C%BA%E9%87%8C%E6%B4%97%E4%BA%862%E5%88%86%E9%92%9F%E6%89%8D%E8%A2%AB%E5%8F%91%E7%8E%B0%23" target="weibo">
-猫在洗衣机里洗了2分钟才被发现（热度：482604）
 </a>
 </li>
 

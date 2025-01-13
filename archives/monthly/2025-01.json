@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736742485257,
+  "endTime": 1736743337602,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -656,6 +656,14 @@
       "word": "王源跨年晚会音准",
       "onboard_time": 1735653450,
       "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2404833,
+      "num": 2404833,
+      "word": "李小冉 挂脸",
+      "onboard_time": 1736741478,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -1571,6 +1579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1614743,
+      "num": 1614743,
+      "word": "2万吨智利车厘子运抵中国",
+      "onboard_time": 1736740700,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1609470,
       "num": 1609470,
       "word": "杨子 我又不是找不着更好的",
@@ -1913,14 +1929,6 @@
       "onboard_time": 1736670201,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1416064,
-      "num": 1416064,
-      "word": "2万吨智利车厘子运抵中国",
-      "onboard_time": 1736740700,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1411538,
@@ -2369,14 +2377,6 @@
       "onboard_time": 1736665578,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1249815,
-      "num": 1249815,
-      "word": "李小冉 挂脸",
-      "onboard_time": 1736741478,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1247426,
@@ -3143,6 +3143,14 @@
       "num": 1040314,
       "word": "买股代露娃",
       "onboard_time": 1736425701,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1037202,
+      "num": 1037202,
+      "word": "国色芳华剧方致歉",
+      "onboard_time": 1736741720,
       "rank": 11,
       "category": "剧集"
     },
@@ -4137,6 +4145,14 @@
       "onboard_time": 1736682979,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 848465,
+      "num": 442408,
+      "word": "丁禹兮回复粉丝我怕有刺的鱼",
+      "onboard_time": 1736741238,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 844895,
@@ -7315,6 +7331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 522281,
+      "num": 522281,
+      "word": "教育部拟同意设置14所本科高校",
+      "onboard_time": 1736740521,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 522175,
       "num": 492919,
       "word": "徐志胜睡八个小时算失眠",
@@ -8259,14 +8283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 462960,
-      "num": 462960,
-      "word": "教育部拟同意设置14所本科高校",
-      "onboard_time": 1736740521,
-      "rank": 6,
-      "category": "教育"
-    },
-    {
       "raw_hot": 462851,
       "num": 462851,
       "word": "村民称刘强东发钱不是应该的",
@@ -8745,14 +8761,6 @@
       "onboard_time": 1736499979,
       "rank": 9,
       "category": "民生新闻,体育"
-    },
-    {
-      "raw_hot": 442408,
-      "num": 442408,
-      "word": "丁禹兮回复粉丝我怕有刺的鱼",
-      "onboard_time": 1736741238,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 441456,
@@ -9457,14 +9465,6 @@
       "onboard_time": 1736493020,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 405717,
-      "num": 405717,
-      "word": "国色芳华剧方致歉",
-      "onboard_time": 1736741720,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 405091,
@@ -10843,6 +10843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 352851,
+      "num": 352851,
+      "word": "刘昊然澳网上早课",
+      "onboard_time": 1736740639,
+      "rank": 15,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 352456,
       "num": 352456,
       "word": "车厘子一降价就知道要过年了",
@@ -11308,7 +11316,7 @@
     },
     {
       "raw_hot": 338140,
-      "num": 248026,
+      "num": 251614,
       "word": "女子肉毒素中毒用了半年开塞露",
       "onboard_time": 1736734098,
       "rank": 49,
@@ -11755,14 +11763,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 323341,
-      "num": 323341,
-      "word": "刘昊然澳网上早课",
-      "onboard_time": 1736740639,
-      "rank": 15,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 323263,
       "num": 240191,
       "word": "王鹤棣转场太可以了",
@@ -12179,6 +12179,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 314508,
+      "num": 286410,
+      "word": "如何取消朋友圈点赞动态通知",
+      "onboard_time": 1736739438,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 313986,
       "num": 264548,
       "word": "白月梵星直播",
@@ -12289,6 +12297,14 @@
       "onboard_time": 1736330601,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 310036,
+      "num": 331159,
+      "word": "冲动订购19800元内衣隔天能退吗",
+      "onboard_time": 1736742380,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 310025,
@@ -13241,14 +13257,6 @@
       "onboard_time": 1736295922,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 286410,
-      "num": 286410,
-      "word": "如何取消朋友圈点赞动态通知",
-      "onboard_time": 1736739438,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 286376,
@@ -14601,6 +14609,14 @@
       "onboard_time": 1736565200,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 254260,
+      "num": 254260,
+      "word": "代露娃浓颜系美女",
+      "onboard_time": 1736741600,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 254119,
@@ -15971,14 +15987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 230939,
-      "num": 230939,
-      "word": "代露娃浓颜系美女",
-      "onboard_time": 1736741600,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 230936,
       "num": 230936,
       "word": "王一博成毅檀健次跨年舞台TOP3",
@@ -16521,6 +16529,14 @@
       "onboard_time": 1736647400,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223162,
+      "num": 274046,
+      "word": "李现说杨紫朋友圈最有趣",
+      "onboard_time": 1736742620,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 223116,
@@ -17643,6 +17659,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 209400,
+      "num": 209400,
+      "word": "杨幂透进心底",
+      "onboard_time": 1736742440,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 209388,
       "num": 209388,
       "word": "马龙太帅了",
@@ -18097,6 +18121,14 @@
       "onboard_time": 1736325322,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 205845,
+      "num": 205845,
+      "word": "司机不给消防车让道称以为谁喝多了",
+      "onboard_time": 1736742440,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205831,
@@ -18865,6 +18897,14 @@
       "onboard_time": 1735962199,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 200274,
+      "num": 200274,
+      "word": "徐克现场指导肖战招式",
+      "onboard_time": 1736742981,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 200238,
@@ -20073,6 +20113,14 @@
       "onboard_time": 1736395821,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192045,
+      "num": 192045,
+      "word": "射雕靖蓉筝全员开打",
+      "onboard_time": 1736742261,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 192011,
@@ -21539,6 +21587,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 181289,
+      "num": 181289,
+      "word": "宣璐领衔主演笑傲江湖",
+      "onboard_time": 1736739678,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 181216,
       "num": 173129,
       "word": "郑钦文为西藏灾区捐款100万",
@@ -21777,14 +21833,6 @@
       "onboard_time": 1736320582,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 178867,
-      "num": 178867,
-      "word": "射雕靖蓉筝全员开打",
-      "onboard_time": 1736742261,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 178373,
@@ -22033,6 +22081,14 @@
       "onboard_time": 1736294661,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 176502,
+      "num": 176502,
+      "word": "国色芳华 手伸不进屏幕的无力感",
+      "onboard_time": 1736742560,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 176501,
@@ -22523,14 +22579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 172705,
-      "num": 172705,
-      "word": "宣璐领衔主演笑傲江湖",
-      "onboard_time": 1736739678,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 172679,
       "num": 172679,
       "word": "加州房屋被烧毁居民仍须继续还贷",
@@ -22769,6 +22817,14 @@
       "onboard_time": 1736690902,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 170774,
+      "num": 170774,
+      "word": "SM新女团",
+      "onboard_time": 1736741660,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 170765,
@@ -23875,14 +23931,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 163291,
-      "num": 163291,
-      "word": "SM新女团",
-      "onboard_time": 1736741660,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 163287,
       "num": 163287,
       "word": "肖战五年变化",
@@ -24049,6 +24097,14 @@
       "onboard_time": 1736566162,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 161996,
+      "num": 161996,
+      "word": "智利超92%车厘子出口中国",
+      "onboard_time": 1736743161,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161990,
@@ -25491,14 +25547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151931,
-      "num": 151931,
-      "word": "司机不给消防车让道称以为谁喝多了",
-      "onboard_time": 1736742440,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 151841,
       "num": 249124,
       "word": "上海地铁回应有人在闲鱼上卖座位",
@@ -26641,14 +26689,6 @@
       "onboard_time": 1736234125,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 143521,
-      "num": 143521,
-      "word": "杨幂透进心底",
-      "onboard_time": 1736742440,
-      "rank": 49,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 143425,
@@ -28457,6 +28497,14 @@
       "onboard_time": 1736560219,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132085,
+      "num": 427616,
+      "word": "飞机加价选座不应成为行业惯例",
+      "onboard_time": 1736741720,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132052,
@@ -31139,6 +31187,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 112590,
+      "num": 324930,
+      "word": "加拿大派消防员帮美国灭火",
+      "onboard_time": 1736741300,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 112514,
       "num": 112514,
       "word": "时光代理人",
@@ -33003,14 +33059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 92094,
-      "num": 427616,
-      "word": "飞机加价选座不应成为行业惯例",
-      "onboard_time": 1736741720,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91917,
       "num": 91917,
       "word": "乒超",
@@ -33321,14 +33369,6 @@
       "onboard_time": 1735724119,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 87912,
-      "num": 324930,
-      "word": "加拿大派消防员帮美国灭火",
-      "onboard_time": 1736741300,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 87758,
@@ -34419,6 +34459,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 74251,
+      "num": 270042,
+      "word": "王楚钦小说里的顶级大学生",
+      "onboard_time": 1736743222,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74218,
       "num": 599288,
       "word": "被偷装摄像头民宿老板坚持不改店名",
@@ -35323,6 +35371,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 62394,
+      "num": 193003,
+      "word": "2025WTT中国大满贯时间确定",
+      "onboard_time": 1736734159,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62210,
       "num": 337817,
       "word": "银川地震亲历者发声",
@@ -35425,14 +35481,6 @@
       "onboard_time": 1736245342,
       "rank": 30,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 61044,
-      "num": 331159,
-      "word": "冲动订购19800元内衣隔天能退吗",
-      "onboard_time": 1736742380,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60960,
@@ -37569,6 +37617,14 @@
       "onboard_time": 1735773735,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 40205,
+      "num": 273425,
+      "word": "当95后大学生干起家政",
+      "onboard_time": 1736742680,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40109,

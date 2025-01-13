@@ -1,7 +1,15 @@
 {
   "startTime": 1736699124375,
-  "endTime": 1736742485257,
+  "endTime": 1736743337602,
   "band_list": [
+    {
+      "raw_hot": 2404833,
+      "num": 2404833,
+      "word": "李小冉 挂脸",
+      "onboard_time": 1736741478,
+      "rank": 3,
+      "category": "综艺"
+    },
     {
       "raw_hot": 2347735,
       "num": 2347735,
@@ -11,19 +19,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1614743,
+      "num": 1614743,
+      "word": "2万吨智利车厘子运抵中国",
+      "onboard_time": 1736740700,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1491508,
       "num": 1491508,
       "word": "12306一天拒绝异常登录3982万次",
       "onboard_time": 1736738480,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1416064,
-      "num": 1416064,
-      "word": "2万吨智利车厘子运抵中国",
-      "onboard_time": 1736740700,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -41,14 +49,6 @@
       "onboard_time": 1736728459,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1249815,
-      "num": 1249815,
-      "word": "李小冉 挂脸",
-      "onboard_time": 1736741478,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1085937,
@@ -83,12 +83,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1037202,
+      "num": 1037202,
+      "word": "国色芳华剧方致歉",
+      "onboard_time": 1736741720,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 950190,
       "num": 311149,
       "word": "王楚钦是国乒首个00后世界冠军",
       "onboard_time": 1736737338,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 848465,
+      "num": 442408,
+      "word": "丁禹兮回复粉丝我怕有刺的鱼",
+      "onboard_time": 1736741238,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 839939,
@@ -163,6 +179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 522281,
+      "num": 522281,
+      "word": "教育部拟同意设置14所本科高校",
+      "onboard_time": 1736740521,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 520384,
       "num": 472235,
       "word": "宋佳晒虞书欣拍的她",
@@ -187,28 +211,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 462960,
-      "num": 462960,
-      "word": "教育部拟同意设置14所本科高校",
-      "onboard_time": 1736740521,
-      "rank": 6,
-      "category": "教育"
-    },
-    {
       "raw_hot": 452828,
       "num": 452828,
       "word": "周鸿祎1天涨粉超百万",
       "onboard_time": 1736731339,
       "rank": 16,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 442408,
-      "num": 442408,
-      "word": "丁禹兮回复粉丝我怕有刺的鱼",
-      "onboard_time": 1736741238,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 440525,
@@ -241,14 +249,6 @@
       "onboard_time": 1736727679,
       "rank": 7,
       "category": "网红"
-    },
-    {
-      "raw_hot": 405717,
-      "num": 405717,
-      "word": "国色芳华剧方致歉",
-      "onboard_time": 1736741720,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 400476,
@@ -323,6 +323,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 352851,
+      "num": 352851,
+      "word": "刘昊然澳网上早课",
+      "onboard_time": 1736740639,
+      "rank": 15,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 348866,
       "num": 348866,
       "word": "王暖暖可能要到70岁才能离婚",
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 338140,
-      "num": 248026,
+      "num": 251614,
       "word": "女子肉毒素中毒用了半年开塞露",
       "onboard_time": 1736734098,
       "rank": 49,
@@ -363,20 +371,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 323341,
-      "num": 323341,
-      "word": "刘昊然澳网上早课",
-      "onboard_time": 1736740639,
-      "rank": 15,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 322817,
       "num": 322817,
       "word": "质疑国色芳华抄袭作者称不要上升演员",
       "onboard_time": 1736740759,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 314508,
+      "num": 286410,
+      "word": "如何取消朋友圈点赞动态通知",
+      "onboard_time": 1736739438,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 312075,
@@ -393,6 +401,14 @@
       "onboard_time": 1736731998,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 310036,
+      "num": 331159,
+      "word": "冲动订购19800元内衣隔天能退吗",
+      "onboard_time": 1736742380,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 298538,
@@ -417,14 +433,6 @@
       "onboard_time": 1736694140,
       "rank": 14,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 286410,
-      "num": 286410,
-      "word": "如何取消朋友圈点赞动态通知",
-      "onboard_time": 1736739438,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 280215,
@@ -473,6 +481,14 @@
       "onboard_time": 1736682979,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254260,
+      "num": 254260,
+      "word": "代露娃浓颜系美女",
+      "onboard_time": 1736741600,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 252975,
@@ -563,14 +579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 230939,
-      "num": 230939,
-      "word": "代露娃浓颜系美女",
-      "onboard_time": 1736741600,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 228812,
       "num": 302168,
       "word": "为何进口药越来越难买",
@@ -585,6 +593,14 @@
       "onboard_time": 1736735179,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 223162,
+      "num": 274046,
+      "word": "李现说杨紫朋友圈最有趣",
+      "onboard_time": 1736742620,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 222002,
@@ -643,12 +659,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209400,
+      "num": 209400,
+      "word": "杨幂透进心底",
+      "onboard_time": 1736742440,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 207369,
       "num": 207369,
       "word": "射雕新海报郭靖黄蓉2V6",
       "onboard_time": 1736736558,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 205845,
+      "num": 205845,
+      "word": "司机不给消防车让道称以为谁喝多了",
+      "onboard_time": 1736742440,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205540,
@@ -673,6 +705,14 @@
       "onboard_time": 1736738238,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 200274,
+      "num": 200274,
+      "word": "徐克现场指导肖战招式",
+      "onboard_time": 1736742981,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 199987,
@@ -713,6 +753,14 @@
       "onboard_time": 1736688980,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 192045,
+      "num": 192045,
+      "word": "射雕靖蓉筝全员开打",
+      "onboard_time": 1736742261,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 191771,
@@ -763,20 +811,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181289,
+      "num": 181289,
+      "word": "宣璐领衔主演笑傲江湖",
+      "onboard_time": 1736739678,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 180573,
       "num": 180573,
       "word": "西藏多地悼念地震126名遇难同胞",
       "onboard_time": 1736734159,
       "rank": 32,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 178867,
-      "num": 178867,
-      "word": "射雕靖蓉筝全员开打",
-      "onboard_time": 1736742261,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 177812,
@@ -787,20 +835,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176502,
+      "num": 176502,
+      "word": "国色芳华 手伸不进屏幕的无力感",
+      "onboard_time": 1736742560,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173909,
       "num": 173909,
       "word": "2025一大批大国重器来了",
       "onboard_time": 1736739438,
       "rank": 43,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 172705,
-      "num": 172705,
-      "word": "宣璐领衔主演笑傲江湖",
-      "onboard_time": 1736739678,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 172679,
@@ -819,12 +867,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163291,
-      "num": 163291,
+      "raw_hot": 170774,
+      "num": 170774,
       "word": "SM新女团",
       "onboard_time": 1736741660,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161996,
+      "num": 161996,
+      "word": "智利超92%车厘子出口中国",
+      "onboard_time": 1736743161,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160907,
@@ -856,14 +912,6 @@
       "word": "日本警方回应中国女游客遭列车撞亡",
       "onboard_time": 1736727439,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 151931,
-      "num": 151931,
-      "word": "司机不给消防车让道称以为谁喝多了",
-      "onboard_time": 1736742440,
-      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -931,14 +979,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 143521,
-      "num": 143521,
-      "word": "杨幂透进心底",
-      "onboard_time": 1736742440,
-      "rank": 49,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 142012,
       "num": 347413,
       "word": "官方回应奥司他韦原研药和仿制药区别",
@@ -976,6 +1016,14 @@
       "word": "熊猫幼崽一下就暴露了四肢不熟",
       "onboard_time": 1736732898,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132085,
+      "num": 427616,
+      "word": "飞机加价选座不应成为行业惯例",
+      "onboard_time": 1736741720,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1048,6 +1096,14 @@
       "word": "洛杉矶消防员没有消防车只能看火烧",
       "onboard_time": 1736730619,
       "rank": 45,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 112590,
+      "num": 324930,
+      "word": "加拿大派消防员帮美国灭火",
+      "onboard_time": 1736741300,
+      "rank": 14,
       "category": "海外新闻"
     },
     {
@@ -1195,14 +1251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 92094,
-      "num": 427616,
-      "word": "飞机加价选座不应成为行业惯例",
-      "onboard_time": 1736741720,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91589,
       "num": 91589,
       "word": "阿森纳vs曼联",
@@ -1233,14 +1281,6 @@
       "onboard_time": 1736691441,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 87912,
-      "num": 324930,
-      "word": "加拿大派消防员帮美国灭火",
-      "onboard_time": 1736741300,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 85620,
@@ -1289,6 +1329,14 @@
       "onboard_time": 1736689281,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74251,
+      "num": 270042,
+      "word": "王楚钦小说里的顶级大学生",
+      "onboard_time": 1736743222,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 70022,
@@ -1347,20 +1395,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 62394,
+      "num": 193003,
+      "word": "2025WTT中国大满贯时间确定",
+      "onboard_time": 1736734159,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61946,
       "num": 61946,
       "word": "阿森纳4比6曼联",
       "onboard_time": 1736712070,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 61044,
-      "num": 331159,
-      "word": "冲动订购19800元内衣隔天能退吗",
-      "onboard_time": 1736742380,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55877,
@@ -1441,6 +1489,14 @@
       "onboard_time": 1736691563,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40205,
+      "num": 273425,
+      "word": "当95后大学生干起家政",
+      "onboard_time": 1736742680,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37393,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1736743337602,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2404833,
+        "num": 2404833,
+        "word": "李小冉 挂脸",
+        "onboard_time": 1736741478,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1614743,
+        "num": 1614743,
+        "word": "2万吨智利车厘子运抵中国",
+        "onboard_time": 1736740700,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34446,
+        "num": 1289651,
+        "word": "西藏震后安置正在加紧进行",
+        "onboard_time": 1736736677,
+        "rank": 2,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1252592,
+        "num": 1252592,
+        "word": "12306一天拒绝异常登录3982万次",
+        "onboard_time": 1736738480,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1037202,
+        "num": 1037202,
+        "word": "国色芳华剧方致歉",
+        "onboard_time": 1736741720,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 734264,
+        "num": 734264,
+        "word": "女儿溺亡女子怪妹妹没看好索赔90万",
+        "onboard_time": 1736728459,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 927603,
+        "num": 668427,
+        "word": "国色芳华妆造被指抄袭",
+        "onboard_time": 1736736978,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 522281,
+        "num": 522281,
+        "word": "教育部拟同意设置14所本科高校",
+        "onboard_time": 1736740521,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 422019,
+        "num": 422019,
+        "word": "加州山火烧掉一个旧金山的面积",
+        "onboard_time": 1736696120,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 132085,
+        "num": 360644,
+        "word": "飞机加价选座不应成为行业惯例",
+        "onboard_time": 1736741720,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 848465,
+        "num": 360603,
+        "word": "丁禹兮回复粉丝我怕有刺的鱼",
+        "onboard_time": 1736741238,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359254,
+        "num": 359254,
+        "word": "苏新皓方声明",
+        "onboard_time": 1736738480,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352851,
+        "num": 352851,
+        "word": "刘昊然澳网上早课",
+        "onboard_time": 1736740639,
+        "rank": 12,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 310036,
+        "num": 310036,
+        "word": "冲动订购19800元内衣隔天能退吗",
+        "onboard_time": 1736742380,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304469,
+        "num": 304469,
+        "word": "质疑国色芳华抄袭作者称不要上升演员",
+        "onboard_time": 1736740759,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297002,
+        "num": 297002,
+        "word": "鸡腿诺回应程鑫凯",
+        "onboard_time": 1736737819,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 275414,
+        "num": 275414,
+        "word": "宋佳晒虞书欣拍的她",
+        "onboard_time": 1736732778,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226122,
+        "num": 274822,
+        "word": "台积电4nm芯片量产",
+        "onboard_time": 1736733498,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 223162,
+        "num": 274046,
+        "word": "李现说杨紫朋友圈最有趣",
+        "onboard_time": 1736742620,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 40205,
+        "num": 273425,
+        "word": "当95后大学生干起家政",
+        "onboard_time": 1736742680,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1365888,
+        "num": 273208,
+        "word": "宋慧乔说几乎被王家卫绑了三年",
+        "onboard_time": 1736730318,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 570716,
+        "num": 272413,
+        "word": "王楚钦是国乒首个00后世界冠军",
+        "onboard_time": 1736737338,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 422724,
+        "num": 271561,
+        "word": "朋友圈先私密24小时再公开",
+        "onboard_time": 1736694320,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 325859,
+        "num": 270416,
+        "word": "黄子韬称不要让他站高再跌下",
+        "onboard_time": 1736730019,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74251,
+        "num": 270042,
+        "word": "王楚钦小说里的顶级大学生",
+        "onboard_time": 1736743222,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 314508,
+        "num": 269363,
+        "word": "如何取消朋友圈点赞动态通知",
+        "onboard_time": 1736739438,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 268930,
+        "num": 268930,
+        "word": "异人之下2定档",
+        "onboard_time": 1736737878,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254260,
+        "num": 254260,
+        "word": "代露娃浓颜系美女",
+        "onboard_time": 1736741600,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251614,
+        "num": 251614,
+        "word": "女子肉毒素中毒用了半年开塞露",
+        "onboard_time": 1736734098,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250124,
+        "num": 250124,
+        "word": "封神2芭莎预告",
+        "onboard_time": 1736737638,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 217593,
+        "num": 217593,
+        "word": "肖战给阿云嘎安利射雕英雄传",
+        "onboard_time": 1736739317,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 213300,
+        "num": 213300,
+        "word": "电影笑傲江湖定档春节档",
+        "onboard_time": 1736735179,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209400,
+        "num": 209400,
+        "word": "杨幂透进心底",
+        "onboard_time": 1736742440,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 112590,
+        "num": 206610,
+        "word": "加拿大派消防员帮美国灭火",
+        "onboard_time": 1736741300,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 205845,
+        "num": 205845,
+        "word": "司机不给消防车让道称以为谁喝多了",
+        "onboard_time": 1736742440,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200274,
+        "num": 200274,
+        "word": "徐克现场指导肖战招式",
+        "onboard_time": 1736742981,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 62394,
+        "num": 193003,
+        "word": "2025WTT中国大满贯时间确定",
+        "onboard_time": 1736734159,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192045,
+        "num": 192045,
+        "word": "射雕靖蓉筝全员开打",
+        "onboard_time": 1736742261,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189481,
+        "num": 189481,
+        "word": "王曼昱杂志预告",
+        "onboard_time": 1736742141,
+        "rank": 38,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 185185,
+        "num": 185185,
+        "word": "摩根大通称中国股票大逆转就在1月底",
+        "onboard_time": 1736741600,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 181289,
+        "num": 181289,
+        "word": "宣璐领衔主演笑傲江湖",
+        "onboard_time": 1736739678,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 53492,
+        "num": 179901,
+        "word": "雷军学习冰雪路面漂移",
+        "onboard_time": 1736742081,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 179860,
+        "num": 179860,
+        "word": "陈丽君贾宝玉的侧脸杀",
+        "onboard_time": 1736736139,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176502,
+        "num": 176502,
+        "word": "国色芳华 手伸不进屏幕的无力感",
+        "onboard_time": 1736742560,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170774,
+        "num": 170774,
+        "word": "SM新女团",
+        "onboard_time": 1736741660,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169811,
+        "num": 169811,
+        "word": "2025春节档影片你最期待哪部",
+        "onboard_time": 1736735179,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166192,
+        "num": 166192,
+        "word": "真正的朱熹画像原来是这样的",
+        "onboard_time": 1736742261,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162284,
+        "num": 162284,
+        "word": "千朵桃花清冷佛子有脸了",
+        "onboard_time": 1736738540,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161996,
+        "num": 161996,
+        "word": "智利超92%车厘子出口中国",
+        "onboard_time": 1736743161,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161957,
+        "num": 161957,
+        "word": "美国民众质疑税金都干什么了",
+        "onboard_time": 1736738238,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#要继续推动冰雪运动普及发展#"
+    }
+  }
+}
