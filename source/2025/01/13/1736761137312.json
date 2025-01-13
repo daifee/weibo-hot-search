@@ -1,0 +1,410 @@
+{
+  "runTime": 1736761137312,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4076214,
+        "num": 4076214,
+        "word": "泰国喊话中国游客",
+        "onboard_time": 1736756359,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1073758,
+        "num": 1073758,
+        "word": "公园观赏鱼大量死亡一男子被刑拘",
+        "onboard_time": 1736758099,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48514,
+        "num": 1028587,
+        "word": "我国出口规模连续第8年保持增长",
+        "onboard_time": 1736756479,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1006534,
+        "num": 1006534,
+        "word": "被74岁刘晓庆喊大爷",
+        "onboard_time": 1736756721,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 707212,
+        "num": 707212,
+        "word": "杨紫 养老剧",
+        "onboard_time": 1736753899,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 568387,
+        "num": 568387,
+        "word": "贵人鸟正式更名金鹤农业",
+        "onboard_time": 1736752338,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 699075,
+        "num": 493254,
+        "word": "李昀锐 舒肤佳变硫磺皂",
+        "onboard_time": 1736757021,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 685188,
+        "num": 433783,
+        "word": "左眼悲伤 右眼震惊",
+        "onboard_time": 1736754979,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 938647,
+        "num": 407310,
+        "word": "叔叔让侄子做亲子鉴定才能继承遗产",
+        "onboard_time": 1736757919,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356015,
+        "num": 356015,
+        "word": "这届年轻人开始整顿年味了",
+        "onboard_time": 1736756061,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 454893,
+        "num": 355957,
+        "word": "虞书欣大方",
+        "onboard_time": 1736755998,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 355828,
+        "num": 355828,
+        "word": "成都警方再通报女大学生失联",
+        "onboard_time": 1736753659,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353060,
+        "num": 353060,
+        "word": "煮苹果水",
+        "onboard_time": 1736760200,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 84525,
+        "num": 343207,
+        "word": "妇幼保健院后勤招播音主持应届生",
+        "onboard_time": 1736759600,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39841,
+        "num": 339007,
+        "word": "大火过后加州人可能索赔无门",
+        "onboard_time": 1736760439,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 335759,
+        "num": 335759,
+        "word": "庄达菲说肖战在剧组像班长",
+        "onboard_time": 1736759960,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 318810,
+        "num": 318810,
+        "word": "小红书美国appstore下载榜第一",
+        "onboard_time": 1736759719,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 304875,
+        "num": 304875,
+        "word": "2万吨智利车厘子运抵中国",
+        "onboard_time": 1736740700,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144201,
+        "num": 294863,
+        "word": "2万吨车厘子到中国还有2万吨快到了",
+        "onboard_time": 1736759421,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43804,
+        "num": 291676,
+        "word": "美政界围绕山火话题互相指责",
+        "onboard_time": 1736759660,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 290336,
+        "num": 290336,
+        "word": "格陵兰岛估价125亿至770亿美元",
+        "onboard_time": 1736751798,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 279073,
+        "num": 279073,
+        "word": "时代少年团用爆米花当饺子馅",
+        "onboard_time": 1736756119,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220794,
+        "num": 273205,
+        "word": "邓超帮惠英红追星樊振东",
+        "onboard_time": 1736759119,
+        "rank": 22,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 271486,
+        "num": 271486,
+        "word": "微博之夜 凤梨酥",
+        "onboard_time": 1736760200,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34126,
+        "num": 270557,
+        "word": "eStar新年游园会",
+        "onboard_time": 1736760620,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 270140,
+        "num": 270140,
+        "word": "女子把丈夫同事9人每日午餐包圆了",
+        "onboard_time": 1736760020,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259590,
+        "num": 259590,
+        "word": "宋慧乔说几乎被王家卫绑了三年",
+        "onboard_time": 1736730318,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 243406,
+        "num": 243406,
+        "word": "陈梦孙颖莎微博年度关注女运动员",
+        "onboard_time": 1736757861,
+        "rank": 27,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 422310,
+        "num": 235681,
+        "word": "男子私留哥哥毛发让侄子做亲子鉴定",
+        "onboard_time": 1736756061,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52336,
+        "num": 229804,
+        "word": "德约科维奇vs巴萨瓦雷迪",
+        "onboard_time": 1736760680,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227547,
+        "num": 227547,
+        "word": "庆奶吃亏在看着太年轻",
+        "onboard_time": 1736745022,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191297,
+        "num": 191297,
+        "word": "小巷人家3家代表1年后驻站重聚",
+        "onboard_time": 1736756061,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186523,
+        "num": 186523,
+        "word": "洛杉矶市长双手插兜笑着回应山火遭批",
+        "onboard_time": 1736756300,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 182169,
+        "num": 182169,
+        "word": "张凌赫默默询问工作人员金靖生了没",
+        "onboard_time": 1736754139,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176667,
+        "num": 176667,
+        "word": "泰国警方称要重塑全球游客的信任",
+        "onboard_time": 1736749819,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92720,
+        "num": 169533,
+        "word": "考古的风还是吹到了敖瑞鹏",
+        "onboard_time": 1736759960,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168440,
+        "num": 168440,
+        "word": "智利超92%车厘子出口中国",
+        "onboard_time": 1736743161,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167253,
+        "num": 167253,
+        "word": "梅见发声明道歉",
+        "onboard_time": 1736759119,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 159628,
+        "num": 159628,
+        "word": "虞书欣主动加宋雨琦联系方式",
+        "onboard_time": 1736752338,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157551,
+        "num": 157551,
+        "word": "50岁快递员成为大体老师",
+        "onboard_time": 1736751377,
+        "rank": 39,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 157081,
+        "num": 157081,
+        "word": "梅见酒文案",
+        "onboard_time": 1736758821,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149742,
+        "num": 149742,
+        "word": "金靖孕反吐了十个月",
+        "onboard_time": 1736747659,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144506,
+        "num": 144506,
+        "word": "国色芳华剧方致歉",
+        "onboard_time": 1736741720,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135707,
+        "num": 135707,
+        "word": "敖瑞鹏 媚眼抛给瞎子看",
+        "onboard_time": 1736756658,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132140,
+        "num": 132140,
+        "word": "吴宣仪跳舞被热议",
+        "onboard_time": 1736747178,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131072,
+        "num": 131072,
+        "word": "ADOR禁止NewJeans活动",
+        "onboard_time": 1736760140,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124426,
+        "num": 124426,
+        "word": "国色芳华这部剧一定会被我盘包浆",
+        "onboard_time": 1736760980,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120824,
+        "num": 120824,
+        "word": "张新成爱豆妆造",
+        "onboard_time": 1736761038,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119347,
+        "num": 119347,
+        "word": "成都女大学生失联后去世排除刑案",
+        "onboard_time": 1736760080,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113822,
+        "num": 113822,
+        "word": "解放军给西藏受灾村民做火锅",
+        "onboard_time": 1736760859,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见格林纳达总理米切尔#"
+    }
+  }
+}

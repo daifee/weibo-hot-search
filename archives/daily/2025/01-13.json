@@ -1,10 +1,10 @@
 {
   "startTime": 1736699124375,
-  "endTime": 1736760337285,
+  "endTime": 1736761137312,
   "band_list": [
     {
-      "raw_hot": 4027320,
-      "num": 4027320,
+      "raw_hot": 4076214,
+      "num": 4076214,
       "word": "泰国喊话中国游客",
       "onboard_time": 1736756359,
       "rank": 16,
@@ -185,6 +185,14 @@
       "onboard_time": 1736741238,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 938647,
+      "num": 407310,
+      "word": "叔叔让侄子做亲子鉴定才能继承遗产",
+      "onboard_time": 1736757919,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 839939,
@@ -491,14 +499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 394075,
-      "num": 394075,
-      "word": "叔叔让侄子做亲子鉴定才能继承遗产",
-      "onboard_time": 1736757919,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 389682,
       "num": 389682,
       "word": "台积电4nm芯片量产",
@@ -595,6 +595,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 353060,
+      "num": 353060,
+      "word": "煮苹果水",
+      "onboard_time": 1736760200,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 352308,
       "num": 352308,
       "word": "王楚钦小说里的顶级大学生",
@@ -643,12 +651,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 335759,
+      "num": 335759,
+      "word": "庄达菲说肖战在剧组像班长",
+      "onboard_time": 1736759960,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 331322,
       "num": 331322,
       "word": "杨紫回应李现",
       "onboard_time": 1736692401,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 318810,
+      "num": 318810,
+      "word": "小红书美国appstore下载榜第一",
+      "onboard_time": 1736759719,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 314508,
@@ -739,12 +763,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 271486,
+      "num": 271486,
+      "word": "微博之夜 凤梨酥",
+      "onboard_time": 1736760200,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 270454,
       "num": 270454,
       "word": "胡冰卿新剧左脸写服右脸写不",
       "onboard_time": 1736697320,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 270140,
+      "num": 270140,
+      "word": "女子把丈夫同事9人每日午餐包圆了",
+      "onboard_time": 1736760020,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 269393,
@@ -995,6 +1035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 220794,
+      "num": 273205,
+      "word": "邓超帮惠英红追星樊振东",
+      "onboard_time": 1736759119,
+      "rank": 28,
+      "category": "作品衍生,体育"
+    },
+    {
       "raw_hot": 218495,
       "num": 218495,
       "word": "皇马2比5巴萨",
@@ -1163,14 +1211,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 199780,
-      "num": 199780,
-      "word": "邓超帮惠英红追星樊振东",
-      "onboard_time": 1736759119,
-      "rank": 28,
-      "category": "作品衍生,体育"
-    },
-    {
       "raw_hot": 199311,
       "num": 199311,
       "word": "刘涛 有人在背后蛐蛐你",
@@ -1291,14 +1331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189855,
-      "num": 189855,
-      "word": "小红书美国appstore下载榜第一",
-      "onboard_time": 1736759719,
-      "rank": 29,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 188850,
       "num": 188850,
       "word": "胖东来规定不允许不喜欢自己的工作",
@@ -1329,6 +1361,14 @@
       "onboard_time": 1736733078,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 186523,
+      "num": 235953,
+      "word": "洛杉矶市长双手插兜笑着回应山火遭批",
+      "onboard_time": 1736756300,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 183567,
@@ -1377,14 +1417,6 @@
       "onboard_time": 1736745559,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 178410,
-      "num": 297047,
-      "word": "庄达菲说肖战在剧组像班长",
-      "onboard_time": 1736759960,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 177812,
@@ -1443,14 +1475,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 173530,
-      "num": 235953,
-      "word": "洛杉矶市长双手插兜笑着回应山火遭批",
-      "onboard_time": 1736756300,
-      "rank": 29,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 173333,
       "num": 173333,
       "word": "曹恩齐 死嘴快解释啊",
@@ -1497,6 +1521,14 @@
       "onboard_time": 1736752939,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167253,
+      "num": 167253,
+      "word": "梅见发声明道歉",
+      "onboard_time": 1736759119,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 164460,
@@ -1547,14 +1579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158606,
-      "num": 158606,
-      "word": "女子把丈夫同事9人每日午餐包圆了",
-      "onboard_time": 1736760020,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157925,
       "num": 157925,
       "word": "白月梵星 失忆后我做了自己的小三",
@@ -1571,6 +1595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 157081,
+      "num": 157081,
+      "word": "梅见酒文案",
+      "onboard_time": 1736758821,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 156479,
       "num": 240004,
       "word": "西藏定日6.8级地震遇难同胞悼念仪式",
@@ -1585,14 +1617,6 @@
       "onboard_time": 1736746039,
       "rank": 37,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 154871,
-      "num": 154871,
-      "word": "梅见发声明道歉",
-      "onboard_time": 1736759119,
-      "rank": 36,
-      "category": "财经"
     },
     {
       "raw_hot": 154370,
@@ -1707,6 +1731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 144201,
+      "num": 294863,
+      "word": "2万吨车厘子到中国还有2万吨快到了",
+      "onboard_time": 1736759421,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143974,
       "num": 143974,
       "word": "敖瑞鹏 看你就是没经验的",
@@ -1779,14 +1811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135861,
-      "num": 135861,
-      "word": "2万吨车厘子到中国还有2万吨快到了",
-      "onboard_time": 1736759421,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134675,
       "num": 134675,
       "word": "井胧给井迪紧急形象公关",
@@ -1841,6 +1865,14 @@
       "onboard_time": 1736753478,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 131072,
+      "num": 131072,
+      "word": "ADOR禁止NewJeans活动",
+      "onboard_time": 1736760140,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 130363,
@@ -1907,12 +1939,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124468,
-      "num": 124468,
-      "word": "微博之夜 凤梨酥",
-      "onboard_time": 1736760200,
+      "raw_hot": 124426,
+      "num": 124426,
+      "word": "国色芳华这部剧一定会被我盘包浆",
+      "onboard_time": 1736760980,
       "rank": 46,
-      "category": "作品衍生"
+      "category": "剧集"
     },
     {
       "raw_hot": 124314,
@@ -1931,14 +1963,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 122285,
-      "num": 122285,
-      "word": "ADOR禁止NewJeans活动",
-      "onboard_time": 1736760140,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 122224,
       "num": 122224,
       "word": "庄达菲陈昊宇微博之夜双向奔赴",
@@ -1955,12 +1979,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121003,
-      "num": 121003,
-      "word": "煮苹果水",
-      "onboard_time": 1736760200,
-      "rank": 49,
-      "category": "美食"
+      "raw_hot": 120824,
+      "num": 120824,
+      "word": "张新成爱豆妆造",
+      "onboard_time": 1736761038,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 119433,
@@ -1985,6 +2009,14 @@
       "onboard_time": 1736698517,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 113822,
+      "num": 113822,
+      "word": "解放军给西藏受灾村民做火锅",
+      "onboard_time": 1736760859,
+      "rank": 49,
+      "category": "正能量"
     },
     {
       "raw_hot": 113392,
@@ -2187,6 +2219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 92720,
+      "num": 169533,
+      "word": "考古的风还是吹到了敖瑞鹏",
+      "onboard_time": 1736759960,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 92119,
       "num": 90650,
       "word": "苏bro",
@@ -2232,6 +2272,14 @@
       "word": "警方回应观音桥锦鲤大量死亡",
       "onboard_time": 1736683158,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84525,
+      "num": 343207,
+      "word": "妇幼保健院后勤招播音主持应届生",
+      "onboard_time": 1736759600,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -2387,14 +2435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 60646,
-      "num": 323260,
-      "word": "妇幼保健院后勤招播音主持应届生",
-      "onboard_time": 1736759600,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55877,
       "num": 55877,
       "word": "加沙人在帐篷里挖坑过冬",
@@ -2443,6 +2483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52336,
+      "num": 229804,
+      "word": "德约科维奇vs巴萨瓦雷迪",
+      "onboard_time": 1736760680,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51270,
       "num": 51270,
       "word": "辛芷蕾倪妮高叶合照",
@@ -2483,6 +2531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43804,
+      "num": 294559,
+      "word": "美政界围绕山火话题互相指责",
+      "onboard_time": 1736759660,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 42254,
       "num": 188528,
       "word": "目睹二十年娱乐圈的婚恋现状",
@@ -2505,6 +2561,14 @@
       "onboard_time": 1736742680,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39841,
+      "num": 339007,
+      "word": "大火过后加州人可能索赔无门",
+      "onboard_time": 1736760439,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 37393,
@@ -2547,12 +2611,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 36216,
-      "num": 294559,
-      "word": "美政界围绕山火话题互相指责",
-      "onboard_time": 1736759660,
-      "rank": 19,
-      "category": "国际时政"
+      "raw_hot": 34126,
+      "num": 270557,
+      "word": "eStar新年游园会",
+      "onboard_time": 1736760620,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 33090,
