@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736772302253,
+  "endTime": 1736773247622,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1675295,
+      "num": 1675295,
+      "word": "手机尾号0000000成交价70万",
+      "onboard_time": 1736769859,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1663778,
       "num": 1663778,
       "word": "抽中黄子韬车女子回应是否有黑幕",
@@ -145,14 +153,6 @@
       "onboard_time": 1736611943,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1543679,
-      "num": 1543679,
-      "word": "手机尾号0000000成交价70万",
-      "onboard_time": 1736769859,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1520474,
@@ -209,6 +209,14 @@
       "onboard_time": 1736653578,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1387139,
+      "num": 1387139,
+      "word": "日本地震",
+      "onboard_time": 1736772019,
+      "rank": 24,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1366414,
@@ -651,6 +659,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 782888,
+      "num": 782888,
+      "word": "汤唯父亲回应费翔抽到自己的书法",
+      "onboard_time": 1736770760,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 781092,
       "num": 781092,
       "word": "高三学生摔骨折母亲质疑洒水结冰",
@@ -665,6 +681,14 @@
       "onboard_time": 1736730019,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 760025,
+      "num": 760025,
+      "word": "肖战喊庄达菲庄庄",
+      "onboard_time": 1736772079,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 748336,
@@ -705,6 +729,14 @@
       "onboard_time": 1736641578,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 729493,
+      "num": 257915,
+      "word": "妻子全身赤裸死在前夫家中",
+      "onboard_time": 1736772259,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 725301,
@@ -987,14 +1019,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 589608,
-      "num": 589608,
-      "word": "肖战喊庄达菲庄庄",
-      "onboard_time": 1736772079,
-      "rank": 5,
-      "category": "电影"
-    },
-    {
       "raw_hot": 580459,
       "num": 563140,
       "word": "辛雨锡发秦霄贤六宗罪",
@@ -1059,28 +1083,20 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 548853,
+      "num": 548853,
+      "word": "王暖暖离婚案已报至最高法",
+      "onboard_time": 1736769439,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 542483,
       "num": 542483,
       "word": "何惟芳人设",
       "onboard_time": 1736689461,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 537314,
-      "num": 537314,
-      "word": "汤唯父亲回应费翔抽到自己的书法",
-      "onboard_time": 1736770760,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 533062,
-      "num": 533062,
-      "word": "王暖暖离婚案已报至最高法",
-      "onboard_time": 1736769439,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 529423,
@@ -1145,6 +1161,14 @@
       "onboard_time": 1736607572,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 505634,
+      "num": 320981,
+      "word": "终于把车厘子和樱桃搞明白了",
+      "onboard_time": 1736771960,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 502786,
@@ -1563,14 +1587,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 366557,
-      "num": 320981,
-      "word": "终于把车厘子和樱桃搞明白了",
-      "onboard_time": 1736771960,
-      "rank": 20,
-      "category": "美食"
-    },
-    {
       "raw_hot": 365159,
       "num": 280552,
       "word": "李现公主抱杨紫",
@@ -1611,12 +1627,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 352267,
+      "num": 352267,
+      "word": "敖瑞鹏单手公主抱了白鹿",
+      "onboard_time": 1736770579,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 351673,
       "num": 351673,
       "word": "王楚钦和马龙樊振东击掌道别",
       "onboard_time": 1736639656,
       "rank": 13,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 348528,
+      "num": 401702,
+      "word": "国色芳华被侵权人讲述始末",
+      "onboard_time": 1736769679,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 347346,
@@ -1841,14 +1873,6 @@
       "onboard_time": 1736657059,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 308242,
-      "num": 308242,
-      "word": "敖瑞鹏单手公主抱了白鹿",
-      "onboard_time": 1736770579,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 304617,
@@ -2115,6 +2139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 259025,
+      "num": 259025,
+      "word": "樊振东上海瑞银活动",
+      "onboard_time": 1736772201,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 258426,
       "num": 258426,
       "word": "肖战2024微博之夜专访",
@@ -2137,14 +2169,6 @@
       "onboard_time": 1736657659,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 255051,
-      "num": 255051,
-      "word": "日本地震",
-      "onboard_time": 1736772019,
-      "rank": 24,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 254260,
@@ -2555,6 +2579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 213460,
+      "num": 321166,
+      "word": "律师解读西湖边放杨幂风筝谁担责",
+      "onboard_time": 1736770820,
+      "rank": 18,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 212698,
       "num": 212698,
       "word": "李现按照时团番位发窗花礼物",
@@ -2707,6 +2739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207017,
+      "num": 207017,
+      "word": "王鹤棣田曦薇吻戏古装vs现偶",
+      "onboard_time": 1736772800,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206953,
       "num": 206953,
       "word": "专家称年轻人别太担心亏损",
@@ -2841,6 +2881,14 @@
       "onboard_time": 1736675660,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 202063,
+      "num": 202063,
+      "word": "张康乐马柏全费加罗PARK大片预告",
+      "onboard_time": 1736772259,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 201844,
@@ -3251,20 +3299,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 189766,
-      "num": 321166,
-      "word": "律师解读西湖边放杨幂风筝谁担责",
-      "onboard_time": 1736770820,
-      "rank": 18,
-      "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 189324,
-      "num": 189324,
-      "word": "樊振东上海瑞银活动",
-      "onboard_time": 1736772201,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 189519,
+      "num": 189519,
+      "word": "29岁孕妇狂炫火锅血里洗出1500毫升油",
+      "onboard_time": 1736773160,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189174,
@@ -4099,14 +4139,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 153011,
-      "num": 401702,
-      "word": "国色芳华被侵权人讲述始末",
-      "onboard_time": 1736769679,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 152939,
       "num": 152939,
       "word": "载33名中国游客游艇倾覆全部获救",
@@ -4283,6 +4315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147293,
+      "num": 147293,
+      "word": "小乌龟有可能加重滑雪损伤",
+      "onboard_time": 1736773160,
+      "rank": 39,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 146946,
       "num": 329567,
       "word": "大马赛石宇奇男单冠军",
@@ -4427,6 +4467,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 140933,
+      "num": 906978,
+      "word": "你的家乡有什么过年必吃菜",
+      "onboard_time": 1736756061,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140156,
+      "num": 194879,
+      "word": "加州山火逼近美国重要太空设施",
+      "onboard_time": 1736771359,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 139738,
       "num": 139738,
       "word": "央视揭问题肉毒素乱象",
@@ -4451,6 +4507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 139153,
+      "num": 202308,
+      "word": "女子逛商场摔成九级残疾索赔15万",
+      "onboard_time": 1736771659,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138353,
       "num": 357188,
       "word": "美国演员被困火海险跳海逃",
@@ -4465,6 +4529,14 @@
       "onboard_time": 1736753478,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 137708,
+      "num": 137708,
+      "word": "大奉31集好燃",
+      "onboard_time": 1736772620,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 137424,
@@ -4667,8 +4739,8 @@
       "category": "艺人,美食"
     },
     {
-      "raw_hot": 130838,
-      "num": 130838,
+      "raw_hot": 131174,
+      "num": 131174,
       "word": "孙珍妮太适合暗域魅女了",
       "onboard_time": 1736769621,
       "rank": 42,
@@ -4721,14 +4793,6 @@
       "onboard_time": 1736763319,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129517,
-      "num": 129517,
-      "word": "张康乐马柏全费加罗PARK大片预告",
-      "onboard_time": 1736772259,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 129472,
@@ -4920,14 +4984,6 @@
       "word": "菜市场白色灯照得顾客脸紫红",
       "onboard_time": 1736753780,
       "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 123654,
-      "num": 123654,
-      "word": "妻子全身赤裸死在前夫家中",
-      "onboard_time": 1736772259,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -5129,6 +5185,14 @@
       "onboard_time": 1736698517,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 117171,
+      "num": 117171,
+      "word": "一打开声生不息八卦就吻上来了",
+      "onboard_time": 1736773220,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 116443,
@@ -5387,14 +5451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105845,
-      "num": 194854,
-      "word": "女子逛商场摔成九级残疾索赔15万",
-      "onboard_time": 1736771659,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 105838,
       "num": 105838,
       "word": "亚历山大NBA首个8000万年薪",
@@ -5513,14 +5569,6 @@
       "onboard_time": 1736680458,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 100584,
-      "num": 194879,
-      "word": "加州山火逼近美国重要太空设施",
-      "onboard_time": 1736771359,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 99422,
@@ -5657,14 +5705,6 @@
       "onboard_time": 1736692821,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 90777,
-      "num": 906978,
-      "word": "你的家乡有什么过年必吃菜",
-      "onboard_time": 1736756061,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90713,
@@ -6419,6 +6459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 30700,
+      "num": 203866,
+      "word": "范丞丞谈在演戏和综艺间切换角色",
+      "onboard_time": 1736772739,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 30506,
       "num": 188493,
       "word": "黄子弘凡说自己有点讨好型人格",
@@ -6467,6 +6515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 25910,
+      "num": 202166,
+      "word": "庄达菲谈演黄蓉最难的部分",
+      "onboard_time": 1736773101,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 25401,
       "num": 27887,
       "word": "aespaSMTOWN舞台",
@@ -6512,6 +6568,14 @@
       "word": "虞书欣微博之夜见",
       "onboard_time": 1736708291,
       "rank": 34,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 23403,
+      "num": 137085,
+      "word": "张凌赫怕金靖产前焦虑",
+      "onboard_time": 1736773041,
+      "rank": 42,
       "category": "作品衍生"
     },
     {
@@ -6713,6 +6777,14 @@
       "onboard_time": 1736713570,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7234,
+      "num": 904745,
+      "word": "古人把花花玩出花",
+      "onboard_time": 1736773220,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 7089,

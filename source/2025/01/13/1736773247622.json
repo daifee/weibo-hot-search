@@ -1,0 +1,410 @@
+{
+  "runTime": 1736773247622,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1675295,
+        "num": 1675295,
+        "word": "手机尾号0000000成交价70万",
+        "onboard_time": 1736769859,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1387139,
+        "num": 1387139,
+        "word": "日本地震",
+        "onboard_time": 1736772019,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 7234,
+        "num": 904745,
+        "word": "古人把花花玩出花",
+        "onboard_time": 1736773220,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 815123,
+        "num": 815123,
+        "word": "马化腾不希望微信送礼物功能被过度吹捧",
+        "onboard_time": 1736766199,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 782888,
+        "num": 782888,
+        "word": "汤唯父亲回应费翔抽到自己的书法",
+        "onboard_time": 1736770760,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 760025,
+        "num": 760025,
+        "word": "肖战喊庄达菲庄庄",
+        "onboard_time": 1736772079,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 574755,
+        "num": 574755,
+        "word": "男子住酒店发现装修风格和医院一样",
+        "onboard_time": 1736768421,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 571688,
+        "num": 571688,
+        "word": "白月梵星",
+        "onboard_time": 1736763319,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 548853,
+        "num": 548853,
+        "word": "王暖暖离婚案已报至最高法",
+        "onboard_time": 1736769439,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 488162,
+        "num": 488162,
+        "word": "泰国警方称游客可用APP中文报警",
+        "onboard_time": 1736769738,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 750453,
+        "num": 448414,
+        "word": "煮苹果水",
+        "onboard_time": 1736760200,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 375199,
+        "num": 375199,
+        "word": "2万吨车厘子到中国还有2万吨快到了",
+        "onboard_time": 1736759421,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352267,
+        "num": 352267,
+        "word": "敖瑞鹏单手公主抱了白鹿",
+        "onboard_time": 1736770579,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348528,
+        "num": 348528,
+        "word": "国色芳华被侵权人讲述始末",
+        "onboard_time": 1736769679,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345215,
+        "num": 345215,
+        "word": "白敬亭回应和宋亚轩聊天很干巴",
+        "onboard_time": 1736765539,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 322658,
+        "num": 322658,
+        "word": "公园观赏鱼大量死亡一男子被刑拘",
+        "onboard_time": 1736758099,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140933,
+        "num": 320199,
+        "word": "你的家乡有什么过年必吃菜",
+        "onboard_time": 1736756061,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319866,
+        "num": 319866,
+        "word": "敖瑞鹏 我以前是学美术的",
+        "onboard_time": 1736767820,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266706,
+        "num": 266706,
+        "word": "杨紫 养老剧",
+        "onboard_time": 1736753899,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259025,
+        "num": 259025,
+        "word": "樊振东上海瑞银活动",
+        "onboard_time": 1736772201,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 729493,
+        "num": 257915,
+        "word": "妻子全身赤裸死在前夫家中",
+        "onboard_time": 1736772259,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 505634,
+        "num": 257575,
+        "word": "终于把车厘子和樱桃搞明白了",
+        "onboard_time": 1736771960,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 204825,
+        "num": 254559,
+        "word": "救援队员救出被困废墟6天的狗",
+        "onboard_time": 1736767759,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253578,
+        "num": 253578,
+        "word": "女子把丈夫同事9人每日午餐包圆了",
+        "onboard_time": 1736760020,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247795,
+        "num": 247795,
+        "word": "李昀锐 舒肤佳变硫磺皂",
+        "onboard_time": 1736757021,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213460,
+        "num": 213460,
+        "word": "律师解读西湖边放杨幂风筝谁担责",
+        "onboard_time": 1736770820,
+        "rank": 25,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 550650,
+        "num": 211820,
+        "word": "退出麦门入庆门",
+        "onboard_time": 1736764221,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207017,
+        "num": 207017,
+        "word": "王鹤棣田曦薇吻戏古装vs现偶",
+        "onboard_time": 1736772800,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30700,
+        "num": 203866,
+        "word": "范丞丞谈在演戏和综艺间切换角色",
+        "onboard_time": 1736772739,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139153,
+        "num": 202308,
+        "word": "女子逛商场摔成九级残疾索赔15万",
+        "onboard_time": 1736771659,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25910,
+        "num": 202166,
+        "word": "庄达菲谈演黄蓉最难的部分",
+        "onboard_time": 1736773101,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202063,
+        "num": 202063,
+        "word": "张康乐马柏全费加罗PARK大片预告",
+        "onboard_time": 1736772259,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189519,
+        "num": 189519,
+        "word": "29岁孕妇狂炫火锅血里洗出1500毫升油",
+        "onboard_time": 1736773160,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189373,
+        "num": 189373,
+        "word": "国色芳华",
+        "onboard_time": 1736771960,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175608,
+        "num": 175608,
+        "word": "小红书美国appstore下载榜第一",
+        "onboard_time": 1736759719,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 174705,
+        "num": 174705,
+        "word": "刘晓庆把向太夸成双手托腮的少女",
+        "onboard_time": 1736766620,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140156,
+        "num": 162232,
+        "word": "加州山火逼近美国重要太空设施",
+        "onboard_time": 1736771359,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160490,
+        "num": 160490,
+        "word": "叔叔让侄子做亲子鉴定才能继承遗产",
+        "onboard_time": 1736757919,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151012,
+        "num": 151012,
+        "word": "范世錡王鹤棣有点暧昧了",
+        "onboard_time": 1736771900,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147293,
+        "num": 147293,
+        "word": "小乌龟有可能加重滑雪损伤",
+        "onboard_time": 1736773160,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 145551,
+        "num": 145551,
+        "word": "金智秀solo回归预告",
+        "onboard_time": 1736761460,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137708,
+        "num": 137708,
+        "word": "大奉31集好燃",
+        "onboard_time": 1736772620,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23403,
+        "num": 137085,
+        "word": "张凌赫怕金靖产前焦虑",
+        "onboard_time": 1736773041,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136640,
+        "num": 136640,
+        "word": "张元英新歌MV穿婚纱",
+        "onboard_time": 1736767519,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 134725,
+        "num": 134725,
+        "word": "买二手宝马里程表缩水一半",
+        "onboard_time": 1736769799,
+        "rank": 44,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 132184,
+        "num": 132184,
+        "word": "载33名中国游客游艇倾覆全部获救",
+        "onboard_time": 1736767219,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131174,
+        "num": 131174,
+        "word": "孙珍妮太适合暗域魅女了",
+        "onboard_time": 1736769621,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124552,
+        "num": 124552,
+        "word": "贵人鸟正式更名金鹤农业",
+        "onboard_time": 1736752338,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117171,
+        "num": 117171,
+        "word": "一打开声生不息八卦就吻上来了",
+        "onboard_time": 1736773220,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117151,
+        "num": 117151,
+        "word": "黄曦彦演的令狐冲",
+        "onboard_time": 1736771659,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见格林纳达总理米切尔#"
+    }
+  }
+}
