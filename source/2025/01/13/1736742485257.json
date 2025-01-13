@@ -1,0 +1,410 @@
+{
+  "runTime": 1736742485257,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1491508,
+        "num": 1491508,
+        "word": "12306一天拒绝异常登录3982万次",
+        "onboard_time": 1736738480,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1416064,
+        "num": 1416064,
+        "word": "2万吨智利车厘子运抵中国",
+        "onboard_time": 1736740700,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39570,
+        "num": 1322792,
+        "word": "西藏震后安置正在加紧进行",
+        "onboard_time": 1736736677,
+        "rank": 2,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1249815,
+        "num": 1249815,
+        "word": "李小冉 挂脸",
+        "onboard_time": 1736741478,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1174543,
+        "num": 1174543,
+        "word": "国色芳华妆造被指抄袭",
+        "onboard_time": 1736736978,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 769100,
+        "num": 769100,
+        "word": "女儿溺亡女子怪妹妹没看好索赔90万",
+        "onboard_time": 1736728459,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 462960,
+        "num": 462960,
+        "word": "教育部拟同意设置14所本科高校",
+        "onboard_time": 1736740521,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 442408,
+        "num": 442408,
+        "word": "丁禹兮回复粉丝我怕有刺的鱼",
+        "onboard_time": 1736741238,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440525,
+        "num": 440525,
+        "word": "加州山火烧掉一个旧金山的面积",
+        "onboard_time": 1736696120,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 92094,
+        "num": 427616,
+        "word": "飞机加价选座不应成为行业惯例",
+        "onboard_time": 1736741720,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 427539,
+        "num": 427539,
+        "word": "苏新皓方声明",
+        "onboard_time": 1736738480,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405717,
+        "num": 405717,
+        "word": "国色芳华剧方致歉",
+        "onboard_time": 1736741720,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 350686,
+        "num": 350686,
+        "word": "鸡腿诺回应程鑫凯",
+        "onboard_time": 1736737819,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 61044,
+        "num": 331159,
+        "word": "冲动订购19800元内衣隔天能退吗",
+        "onboard_time": 1736742380,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87912,
+        "num": 324930,
+        "word": "加拿大派消防员帮美国灭火",
+        "onboard_time": 1736741300,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 323341,
+        "num": 323341,
+        "word": "刘昊然澳网上早课",
+        "onboard_time": 1736740639,
+        "rank": 15,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 322817,
+        "num": 322817,
+        "word": "质疑国色芳华抄袭作者称不要上升演员",
+        "onboard_time": 1736740759,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320573,
+        "num": 320573,
+        "word": "封神2芭莎预告",
+        "onboard_time": 1736737638,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 317772,
+        "num": 317772,
+        "word": "异人之下2定档",
+        "onboard_time": 1736737878,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248471,
+        "num": 317253,
+        "word": "台积电4nm芯片量产",
+        "onboard_time": 1736733498,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1418138,
+        "num": 312541,
+        "word": "宋慧乔说几乎被王家卫绑了三年",
+        "onboard_time": 1736730318,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 712002,
+        "num": 311149,
+        "word": "王楚钦是国乒首个00后世界冠军",
+        "onboard_time": 1736737338,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 414994,
+        "num": 307761,
+        "word": "黄子韬称不要让他站高再跌下",
+        "onboard_time": 1736730019,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305033,
+        "num": 305033,
+        "word": "宋佳晒虞书欣拍的她",
+        "onboard_time": 1736732778,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387785,
+        "num": 299260,
+        "word": "朋友圈先私密24小时再公开",
+        "onboard_time": 1736694320,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 286410,
+        "num": 286410,
+        "word": "如何取消朋友圈点赞动态通知",
+        "onboard_time": 1736739438,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 281721,
+        "num": 281721,
+        "word": "电影笑傲江湖定档春节档",
+        "onboard_time": 1736735179,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204060,
+        "num": 263740,
+        "word": "美国民众质疑税金都干什么了",
+        "onboard_time": 1736738238,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 252468,
+        "num": 252468,
+        "word": "丁禹兮怕有刺的鱼",
+        "onboard_time": 1736737338,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62434,
+        "num": 243686,
+        "word": "雷军学习冰雪路面漂移",
+        "onboard_time": 1736742081,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 241629,
+        "num": 241629,
+        "word": "女子肉毒素中毒用了半年开塞露",
+        "onboard_time": 1736734098,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239372,
+        "num": 239372,
+        "word": "千朵桃花清冷佛子有脸了",
+        "onboard_time": 1736738540,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236486,
+        "num": 236486,
+        "word": "肖战给阿云嘎安利射雕英雄传",
+        "onboard_time": 1736739317,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 230939,
+        "num": 230939,
+        "word": "代露娃浓颜系美女",
+        "onboard_time": 1736741600,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205540,
+        "num": 205540,
+        "word": "李现演的蒋长扬有多出圈",
+        "onboard_time": 1736741900,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199921,
+        "num": 199921,
+        "word": "摩根大通称中国股票大逆转就在1月底",
+        "onboard_time": 1736741600,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 196609,
+        "num": 196609,
+        "word": "等国考成绩",
+        "onboard_time": 1736735478,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 196591,
+        "num": 196591,
+        "word": "王曼昱杂志预告",
+        "onboard_time": 1736742141,
+        "rank": 37,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 180331,
+        "num": 180331,
+        "word": "三十岁回村世界变得安静了",
+        "onboard_time": 1736738838,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179538,
+        "num": 179538,
+        "word": "陈丽君贾宝玉的侧脸杀",
+        "onboard_time": 1736736139,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 178867,
+        "num": 178867,
+        "word": "射雕靖蓉筝全员开打",
+        "onboard_time": 1736742261,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175469,
+        "num": 175469,
+        "word": "2025春节档影片你最期待哪部",
+        "onboard_time": 1736735179,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172705,
+        "num": 172705,
+        "word": "宣璐领衔主演笑傲江湖",
+        "onboard_time": 1736739678,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171219,
+        "num": 171219,
+        "word": "真正的朱熹画像原来是这样的",
+        "onboard_time": 1736742261,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163291,
+        "num": 163291,
+        "word": "SM新女团",
+        "onboard_time": 1736741660,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157764,
+        "num": 157764,
+        "word": "西藏痛失儿女辅警曾想让儿子当公安",
+        "onboard_time": 1736736438,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155269,
+        "num": 155269,
+        "word": "胖东来规定不允许不喜欢自己的工作",
+        "onboard_time": 1736740639,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151931,
+        "num": 151931,
+        "word": "司机不给消防车让道称以为谁喝多了",
+        "onboard_time": 1736742440,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147423,
+        "num": 147423,
+        "word": "大奉打更人团综定档",
+        "onboard_time": 1736738658,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143521,
+        "num": 143521,
+        "word": "杨幂透进心底",
+        "onboard_time": 1736742440,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#要继续推动冰雪运动普及发展#"
+    }
+  }
+}
