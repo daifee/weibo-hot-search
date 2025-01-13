@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736757035887,
+  "endTime": 1736757833522,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -2051,6 +2051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1364804,
+      "num": 1364804,
+      "word": "泰国喊话中国游客",
+      "onboard_time": 1736756359,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1363408,
       "num": 1056334,
       "word": "景区回应贪睡出名的鱼真死了",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735913300,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1249875,
-      "num": 1249875,
-      "word": "惠英红 我cp婚礼见证人",
-      "onboard_time": 1736665578,
-      "rank": 20,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
