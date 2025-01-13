@@ -1,0 +1,410 @@
+{
+  "runTime": 1736737119906,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 787720,
+        "num": 1126035,
+        "word": "电影笑傲江湖定档春节档",
+        "onboard_time": 1736735179,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 473611,
+        "num": 473611,
+        "word": "甲流",
+        "onboard_time": 1736732239,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 40324,
+        "num": 472447,
+        "word": "西藏震后安置正在加紧进行",
+        "onboard_time": 1736736677,
+        "rank": 2,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 727063,
+        "num": 472350,
+        "word": "女儿溺亡女子怪妹妹没看好索赔90万",
+        "onboard_time": 1736728459,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 516564,
+        "num": 472235,
+        "word": "宋佳晒虞书欣拍的她",
+        "onboard_time": 1736732778,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 472081,
+        "num": 472081,
+        "word": "奥司他韦吃多了会耐药吗",
+        "onboard_time": 1736726417,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 372520,
+        "num": 372520,
+        "word": "台积电4nm芯片量产",
+        "onboard_time": 1736733498,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 356914,
+        "num": 356914,
+        "word": "周鸿祎1天涨粉超百万",
+        "onboard_time": 1736731339,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 347553,
+        "num": 347553,
+        "word": "加州山火烧掉一个旧金山的面积",
+        "onboard_time": 1736696120,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 39334,
+        "num": 347413,
+        "word": "官方回应奥司他韦原研药和仿制药区别",
+        "onboard_time": 1736736739,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 347346,
+        "num": 347346,
+        "word": "西藏悼念定日6.8级地震遇难同胞",
+        "onboard_time": 1736732358,
+        "rank": 10,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 278077,
+        "num": 278077,
+        "word": "胖东来不允许夫妻间家暴冷暴力",
+        "onboard_time": 1736734758,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268472,
+        "num": 268472,
+        "word": "2025春运明天开始",
+        "onboard_time": 1736731219,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212656,
+        "num": 212656,
+        "word": "刘亦菲总台视后",
+        "onboard_time": 1736694741,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211913,
+        "num": 211913,
+        "word": "解放军昼夜不停卸载震区救援物资",
+        "onboard_time": 1736735237,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211256,
+        "num": 211256,
+        "word": "郑钦文预测澳网冠军",
+        "onboard_time": 1736733198,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207369,
+        "num": 207369,
+        "word": "射雕新海报郭靖黄蓉2V6",
+        "onboard_time": 1736736558,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193784,
+        "num": 193784,
+        "word": "雷军解锁泼水成冰",
+        "onboard_time": 1736730318,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 183483,
+        "num": 183483,
+        "word": "一代宗师",
+        "onboard_time": 1736734518,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166882,
+        "num": 183425,
+        "word": "三只羊旗下账号直播卖年货",
+        "onboard_time": 1736727679,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1614051,
+        "num": 183181,
+        "word": "宋慧乔说几乎被王家卫绑了三年",
+        "onboard_time": 1736730318,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 777949,
+        "num": 183072,
+        "word": "黄子韬称不要让他站高再跌下",
+        "onboard_time": 1736730019,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329408,
+        "num": 182968,
+        "word": "朋友圈先私密24小时再公开",
+        "onboard_time": 1736694320,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 324275,
+        "num": 182755,
+        "word": "女子肉毒素中毒用了半年开塞露",
+        "onboard_time": 1736734098,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186962,
+        "num": 182589,
+        "word": "等国考成绩",
+        "onboard_time": 1736735478,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 147877,
+        "num": 182414,
+        "word": "丁禹兮 去做了你才会有50%的可能",
+        "onboard_time": 1736735778,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145438,
+        "num": 182322,
+        "word": "向太写信鼓励周芯竹",
+        "onboard_time": 1736694382,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240081,
+        "num": 182059,
+        "word": "剑网3",
+        "onboard_time": 1736735357,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19702,
+        "num": 181878,
+        "word": "大奉打更人进入腾讯爆款俱乐部",
+        "onboard_time": 1736736739,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31359,
+        "num": 181700,
+        "word": "西藏痛失儿女辅警曾想让儿子当公安",
+        "onboard_time": 1736736438,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181680,
+        "num": 181680,
+        "word": "孕妇突然分娩陌生人的羽绒服立大功",
+        "onboard_time": 1736687359,
+        "rank": 30,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 180881,
+        "num": 180881,
+        "word": "当韩国人第一次去逛中国菜市场",
+        "onboard_time": 1736730318,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180573,
+        "num": 180573,
+        "word": "西藏多地悼念地震126名遇难同胞",
+        "onboard_time": 1736734159,
+        "rank": 32,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 178956,
+        "num": 178956,
+        "word": "Doinb遭遇网络攻击",
+        "onboard_time": 1736736558,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151926,
+        "num": 151926,
+        "word": "洛杉矶山火死亡升至24人",
+        "onboard_time": 1736731998,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 144982,
+        "num": 144982,
+        "word": "国色芳华妆造被指抄袭",
+        "onboard_time": 1736736978,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140280,
+        "num": 140280,
+        "word": "大逃脱5阵容",
+        "onboard_time": 1736732478,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132884,
+        "num": 132884,
+        "word": "加州山火威胁好莱坞环球影城",
+        "onboard_time": 1736732959,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130782,
+        "num": 130782,
+        "word": "陈丽君贾宝玉的侧脸杀",
+        "onboard_time": 1736736139,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129358,
+        "num": 129358,
+        "word": "曝苹果最强芯片M4Ultra今年登场",
+        "onboard_time": 1736736379,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 126585,
+        "num": 126585,
+        "word": "大奉打更人口碑逆跌",
+        "onboard_time": 1736685740,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126337,
+        "num": 126337,
+        "word": "杨紫管乐演姐妹",
+        "onboard_time": 1736732538,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120930,
+        "num": 120930,
+        "word": "熊猫幼崽一下就暴露了四肢不熟",
+        "onboard_time": 1736732898,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120357,
+        "num": 120357,
+        "word": "一路繁花里最尴尬的3分钟",
+        "onboard_time": 1736690662,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116561,
+        "num": 116561,
+        "word": "地震救人男孩说不想做冷漠的人",
+        "onboard_time": 1736727797,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115629,
+        "num": 115629,
+        "word": "2025春节档影片你最期待哪部",
+        "onboard_time": 1736735179,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113225,
+        "num": 113225,
+        "word": "杨紫回应李现",
+        "onboard_time": 1736692401,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98572,
+        "num": 98572,
+        "word": "肖战惊喜vlog",
+        "onboard_time": 1736734458,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97977,
+        "num": 97977,
+        "word": "宋慧乔拍一代宗师曾想逃跑",
+        "onboard_time": 1736735537,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96175,
+        "num": 96175,
+        "word": "黄晓明说大年初一去看郭伯伯",
+        "onboard_time": 1736701095,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#要继续推动冰雪运动普及发展#"
+    }
+  }
+}

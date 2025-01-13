@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736734159236,
+  "endTime": 1736737119906,
   "band_list": [
     {
       "raw_hot": 3087284,
@@ -435,6 +435,14 @@
       "category": "作品衍生,体育"
     },
     {
+      "raw_hot": 787720,
+      "num": 1126035,
+      "word": "电影笑傲江湖定档春节档",
+      "onboard_time": 1736735179,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 787607,
       "num": 354743,
       "word": "苏新皓 抄袭",
@@ -449,6 +457,14 @@
       "onboard_time": 1736685139,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 777949,
+      "num": 653339,
+      "word": "黄子韬称不要让他站高再跌下",
+      "onboard_time": 1736730019,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 748336,
@@ -601,14 +617,6 @@
       "onboard_time": 1736610445,
       "rank": 13,
       "category": "体育,作品衍生"
-    },
-    {
-      "raw_hot": 653339,
-      "num": 653339,
-      "word": "黄子韬称不要让他站高再跌下",
-      "onboard_time": 1736730019,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 650847,
@@ -779,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 516564,
+      "num": 472235,
+      "word": "宋佳晒虞书欣拍的她",
+      "onboard_time": 1736732778,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 509997,
       "num": 509997,
       "word": "救救马丽",
@@ -825,6 +841,14 @@
       "onboard_time": 1736613322,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 473611,
+      "num": 473611,
+      "word": "甲流",
+      "onboard_time": 1736732239,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 462010,
@@ -1019,6 +1043,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 372520,
+      "num": 372520,
+      "word": "台积电4nm芯片量产",
+      "onboard_time": 1736733498,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 372368,
       "num": 372368,
       "word": "李沁集齐五福",
@@ -1049,6 +1081,14 @@
       "onboard_time": 1736639656,
       "rank": 13,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 347346,
+      "num": 717785,
+      "word": "西藏悼念定日6.8级地震遇难同胞",
+      "onboard_time": 1736732358,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 345314,
@@ -1121,6 +1161,14 @@
       "onboard_time": 1736690061,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 324275,
+      "num": 182755,
+      "word": "女子肉毒素中毒用了半年开塞露",
+      "onboard_time": 1736734098,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 322781,
@@ -1315,6 +1363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 278077,
+      "num": 278077,
+      "word": "胖东来不允许夫妻间家暴冷暴力",
+      "onboard_time": 1736734758,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 274710,
       "num": 631150,
       "word": "郑钦文2比0托多尼",
@@ -1353,6 +1409,14 @@
       "onboard_time": 1736697320,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 268472,
+      "num": 379272,
+      "word": "2025春运明天开始",
+      "onboard_time": 1736731219,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 268061,
@@ -1435,6 +1499,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 240081,
+      "num": 182059,
+      "word": "剑网3",
+      "onboard_time": 1736735357,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 236697,
       "num": 194982,
       "word": "黄晓明叫肖战郭伯伯",
@@ -1449,14 +1521,6 @@
       "onboard_time": 1736651239,
       "rank": 47,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 234600,
-      "num": 234600,
-      "word": "甲流",
-      "onboard_time": 1736732239,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 233993,
@@ -1563,14 +1627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 217356,
-      "num": 217356,
-      "word": "宋佳晒虞书欣拍的她",
-      "onboard_time": 1736732778,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 217161,
       "num": 217161,
       "word": "刘晓庆 我也是义务的",
@@ -1635,6 +1691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 211913,
+      "num": 211913,
+      "word": "解放军昼夜不停卸载震区救援物资",
+      "onboard_time": 1736735237,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 211467,
       "num": 211467,
       "word": "郑钦文第一个发球就是ACE",
@@ -1651,6 +1715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211256,
+      "num": 211256,
+      "word": "郑钦文预测澳网冠军",
+      "onboard_time": 1736733198,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209796,
       "num": 209796,
       "word": "一路繁花里最尴尬的3分钟",
@@ -1665,14 +1737,6 @@
       "onboard_time": 1736665640,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 209013,
-      "num": 379272,
-      "word": "2025春运明天开始",
-      "onboard_time": 1736731219,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 208651,
@@ -1721,6 +1785,14 @@
       "onboard_time": 1736608768,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 207369,
+      "num": 207369,
+      "word": "射雕新海报郭靖黄蓉2V6",
+      "onboard_time": 1736736558,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 207242,
@@ -2083,6 +2155,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 186962,
+      "num": 182589,
+      "word": "等国考成绩",
+      "onboard_time": 1736735478,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 186835,
       "num": 186835,
       "word": "A股",
@@ -2147,6 +2227,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 183483,
+      "num": 183483,
+      "word": "一代宗师",
+      "onboard_time": 1736734518,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 182983,
       "num": 182983,
       "word": "洛阳给国色芳华的排面真中",
@@ -2171,12 +2259,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 181887,
-      "num": 181887,
-      "word": "郑钦文预测澳网冠军",
-      "onboard_time": 1736733198,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 180573,
+      "num": 180573,
+      "word": "西藏多地悼念地震126名遇难同胞",
+      "onboard_time": 1736734159,
+      "rank": 32,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 180170,
@@ -2193,6 +2281,14 @@
       "onboard_time": 1736596708,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 178956,
+      "num": 178956,
+      "word": "Doinb遭遇网络攻击",
+      "onboard_time": 1736736558,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 178087,
@@ -2675,6 +2771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147877,
+      "num": 182414,
+      "word": "丁禹兮 去做了你才会有50%的可能",
+      "onboard_time": 1736735778,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146946,
       "num": 329567,
       "word": "大马赛石宇奇男单冠军",
@@ -2707,12 +2811,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145438,
+      "num": 182322,
+      "word": "向太写信鼓励周芯竹",
+      "onboard_time": 1736694382,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145100,
       "num": 320432,
       "word": "女子100元买的裤子褪色双腿被染紫",
       "onboard_time": 1736615717,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144982,
+      "num": 144982,
+      "word": "国色芳华妆造被指抄袭",
+      "onboard_time": 1736736978,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 143681,
@@ -2867,6 +2987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132884,
+      "num": 132884,
+      "word": "加州山火威胁好莱坞环球影城",
+      "onboard_time": 1736732959,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 132699,
       "num": 132699,
       "word": "成都春熙路小熊姐命张力好强",
@@ -2931,6 +3059,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 130782,
+      "num": 130782,
+      "word": "陈丽君贾宝玉的侧脸杀",
+      "onboard_time": 1736736139,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 130549,
       "num": 130549,
       "word": "茯星高昭",
@@ -2963,6 +3099,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 129358,
+      "num": 129358,
+      "word": "曝苹果最强芯片M4Ultra今年登场",
+      "onboard_time": 1736736379,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 129041,
       "num": 129041,
       "word": "丁禹兮和miyavi贴贴",
@@ -2977,14 +3121,6 @@
       "onboard_time": 1736660239,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128644,
-      "num": 128644,
-      "word": "加州山火威胁好莱坞环球影城",
-      "onboard_time": 1736732959,
-      "rank": 36,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 128354,
@@ -3291,6 +3427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 115629,
+      "num": 115629,
+      "word": "2025春节档影片你最期待哪部",
+      "onboard_time": 1736735179,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 115468,
       "num": 115468,
       "word": "加州山火卫星图对比触目惊心",
@@ -3331,14 +3475,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 114197,
-      "num": 114197,
-      "word": "台积电4nm芯片量产",
-      "onboard_time": 1736733498,
-      "rank": 39,
-      "category": "数码"
-    },
-    {
       "raw_hot": 114145,
       "num": 116982,
       "word": "震区女孩与武警姐姐的双向奔赴好暖",
@@ -3377,14 +3513,6 @@
       "onboard_time": 1736653698,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 112649,
-      "num": 717785,
-      "word": "西藏悼念定日6.8级地震遇难同胞",
-      "onboard_time": 1736732358,
-      "rank": 9,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 111312,
@@ -3457,14 +3585,6 @@
       "onboard_time": 1736644760,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 106576,
-      "num": 106576,
-      "word": "向太写信鼓励周芯竹",
-      "onboard_time": 1736694382,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 106420,
@@ -3555,12 +3675,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98572,
+      "num": 98572,
+      "word": "肖战惊喜vlog",
+      "onboard_time": 1736734458,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98160,
       "num": 334887,
       "word": "一诺照顾被挤在外圈的小俞",
       "onboard_time": 1736603728,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 97977,
+      "num": 97977,
+      "word": "宋慧乔拍一代宗师曾想逃跑",
+      "onboard_time": 1736735537,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 97955,
@@ -3641,14 +3777,6 @@
       "onboard_time": 1736670138,
       "rank": 48,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 90550,
-      "num": 90550,
-      "word": "女子肉毒素中毒用了半年开塞露",
-      "onboard_time": 1736734098,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88905,
@@ -4123,6 +4251,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40324,
+      "num": 472447,
+      "word": "西藏震后安置正在加紧进行",
+      "onboard_time": 1736736677,
+      "rank": 2,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 39334,
+      "num": 347413,
+      "word": "官方回应奥司他韦原研药和仿制药区别",
+      "onboard_time": 1736736739,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 38987,
       "num": 136275,
       "word": "南京今晚要下雪了",
@@ -4193,6 +4337,14 @@
       "onboard_time": 1736633292,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 31359,
+      "num": 181700,
+      "word": "西藏痛失儿女辅警曾想让儿子当公安",
+      "onboard_time": 1736736438,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28790,
@@ -4289,6 +4441,14 @@
       "onboard_time": 1736681599,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 19702,
+      "num": 181878,
+      "word": "大奉打更人进入腾讯爆款俱乐部",
+      "onboard_time": 1736736739,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 18412,
@@ -4431,6 +4591,9 @@
     },
     {
       "word": "#审计是党和国家监督体系的重要组成部分#"
+    },
+    {
+      "word": "#要继续推动冰雪运动普及发展#"
     }
   ]
 }
