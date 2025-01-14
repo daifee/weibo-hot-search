@@ -1,0 +1,410 @@
+{
+  "runTime": 1736825864647,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2220278,
+        "num": 2220278,
+        "word": "被车撞了6天后突然去世该谁担责",
+        "onboard_time": 1736822957,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1093583,
+        "num": 1093583,
+        "word": "王鹤棣演技",
+        "onboard_time": 1736816240,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8109,
+        "num": 885142,
+        "word": "应对春运相关部门举措上新",
+        "onboard_time": 1736805011,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 873742,
+        "num": 873742,
+        "word": "樊振东晒行李箱",
+        "onboard_time": 1736822297,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 805358,
+        "num": 805358,
+        "word": "李昀锐特邀友情出演",
+        "onboard_time": 1736823618,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1274433,
+        "num": 797247,
+        "word": "春秋航空回应赴泰国飞机票不能退",
+        "onboard_time": 1736819838,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1038161,
+        "num": 731403,
+        "word": "曝英伟达一半员工净资产破亿",
+        "onboard_time": 1736815280,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 33896,
+        "num": 635210,
+        "word": "我国外贸含新量还在不断上升",
+        "onboard_time": 1736773101,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 611304,
+        "num": 611304,
+        "word": "金晨 90后女演员单片票房TOP1",
+        "onboard_time": 1736824458,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 566047,
+        "num": 566047,
+        "word": "日本水族馆翻车鱼因没游客自闭",
+        "onboard_time": 1736819178,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 555016,
+        "num": 555016,
+        "word": "妻子裸死前夫家中丈夫拒付丧葬费",
+        "onboard_time": 1736777062,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 497628,
+        "num": 497628,
+        "word": "富士康被爆停派中国大陆员工",
+        "onboard_time": 1736824278,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 424275,
+        "num": 424275,
+        "word": "一路繁花8个人只吃了700块",
+        "onboard_time": 1736786536,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398373,
+        "num": 398373,
+        "word": "尹锡悦年薪将达2.626亿韩元",
+        "onboard_time": 1736819717,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 378373,
+        "num": 378373,
+        "word": "美国星巴克不再免费开放",
+        "onboard_time": 1736818457,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 374393,
+        "num": 374393,
+        "word": "王鹤棣拍这里时候才24岁",
+        "onboard_time": 1736824878,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370515,
+        "num": 370515,
+        "word": "特鲁索娃怀孕",
+        "onboard_time": 1736810895,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 346129,
+        "num": 346129,
+        "word": "山姆回应蛋糕胚吃出白色异物",
+        "onboard_time": 1736780600,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143754,
+        "num": 326210,
+        "word": "周深唱出丁达尔效应",
+        "onboard_time": 1736825238,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179754,
+        "num": 312015,
+        "word": "寒假来临中小学生成电诈重点目标",
+        "onboard_time": 1736824158,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 387613,
+        "num": 311905,
+        "word": "幸好韩国人只是说上海街头没有豪车",
+        "onboard_time": 1736824579,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310562,
+        "num": 310562,
+        "word": "川渝艺人组团回家过年",
+        "onboard_time": 1736822177,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296456,
+        "num": 296456,
+        "word": "不理解虚岁到底有什么意义",
+        "onboard_time": 1736822778,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259235,
+        "num": 259235,
+        "word": "Cat 一诺",
+        "onboard_time": 1736814979,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 40675,
+        "num": 252805,
+        "word": "Cat开直播回应",
+        "onboard_time": 1736818517,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 289531,
+        "num": 251675,
+        "word": "女子把男朋友的求婚戒指咬断了",
+        "onboard_time": 1736823498,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249416,
+        "num": 249416,
+        "word": "金靖建议女孩一定要有正常的体重",
+        "onboard_time": 1736777062,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 243700,
+        "num": 243700,
+        "word": "进口药退出公立医院",
+        "onboard_time": 1736811196,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191024,
+        "num": 232211,
+        "word": "肖战射雕逆行海报",
+        "onboard_time": 1736825478,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 37643,
+        "num": 227539,
+        "word": "美墨边境发现延伸至得克萨斯的地道",
+        "onboard_time": 1736825000,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 225534,
+        "num": 225534,
+        "word": "樊振东谈28岁的愿望",
+        "onboard_time": 1736824638,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195580,
+        "num": 195580,
+        "word": "买了3年万元重疾险患肺癌遭拒赔",
+        "onboard_time": 1736824038,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173642,
+        "num": 173642,
+        "word": "美两艘新航母将以克林顿和布什命名",
+        "onboard_time": 1736824338,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 172522,
+        "num": 172522,
+        "word": "樊振东说巴黎奥运会打的筋疲力尽",
+        "onboard_time": 1736818457,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172000,
+        "num": 172000,
+        "word": "什么水果上市就意味着快过年了",
+        "onboard_time": 1736810835,
+        "rank": 34,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 140432,
+        "num": 170463,
+        "word": "黄牛外挂软件抢票仅需1秒",
+        "onboard_time": 1736821638,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169955,
+        "num": 169955,
+        "word": "刘耀文告黑将开庭",
+        "onboard_time": 1736825659,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168022,
+        "num": 168022,
+        "word": "Cat称一诺已道歉",
+        "onboard_time": 1736818457,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157706,
+        "num": 157706,
+        "word": "杭州一上市公司实施4.5天工作制",
+        "onboard_time": 1736822117,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157287,
+        "num": 157287,
+        "word": "朴秀荣续约SM",
+        "onboard_time": 1736822899,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148292,
+        "num": 148292,
+        "word": "刘亦菲去中国电视剧年度盛典",
+        "onboard_time": 1736823558,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145921,
+        "num": 145921,
+        "word": "韩国首尔40多台车辆连环撞击",
+        "onboard_time": 1736811316,
+        "rank": 41,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 145103,
+        "num": 145103,
+        "word": "敖瑞鹏另一只手帮白鹿提鞋",
+        "onboard_time": 1736815220,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141803,
+        "num": 141803,
+        "word": "铁路春运首日实况直播",
+        "onboard_time": 1736820077,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136678,
+        "num": 136678,
+        "word": "登陆少年东方春晚首秀",
+        "onboard_time": 1736825000,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135878,
+        "num": 135878,
+        "word": "白银黄金直线跳水",
+        "onboard_time": 1736823979,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 129232,
+        "num": 129232,
+        "word": "星巴克推出新的顾客行为准则",
+        "onboard_time": 1736819178,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122354,
+        "num": 122354,
+        "word": "驻站6个考点成为考公素材",
+        "onboard_time": 1736824397,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120378,
+        "num": 120378,
+        "word": "2025春运开启",
+        "onboard_time": 1736817677,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119618,
+        "num": 119618,
+        "word": "二旬老人看90岁青春女生自律",
+        "onboard_time": 1736819538,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#惩治微腐败让老百姓可感可及#"
+    }
+  }
+}
