@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736858500272,
+  "endTime": 1736859403038,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -227,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1575694,
+      "num": 1575694,
+      "word": "为什么车厘子一个月到中国却不腐烂",
+      "onboard_time": 1736857099,
+      "rank": 1,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1574790,
       "num": 1427942,
       "word": "金靖建议女孩一定要有正常的体重",
@@ -337,14 +345,6 @@
       "onboard_time": 1736670201,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1406129,
-      "num": 1406129,
-      "word": "为什么车厘子一个月到中国却不腐烂",
-      "onboard_time": 1736857099,
-      "rank": 1,
-      "category": "美食"
     },
     {
       "raw_hot": 1406006,
@@ -1515,6 +1515,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 583682,
+      "num": 583682,
+      "word": "菏泽牡丹卖爆了",
+      "onboard_time": 1736855779,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 580459,
       "num": 563140,
       "word": "辛雨锡发秦霄贤六宗罪",
@@ -1609,14 +1617,6 @@
       "onboard_time": 1736831599,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 543781,
-      "num": 543781,
-      "word": "菏泽牡丹卖爆了",
-      "onboard_time": 1736855779,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 542483,
@@ -1721,6 +1721,14 @@
       "onboard_time": 1736607572,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 505935,
+      "num": 505935,
+      "word": "SM新女团成员Jiwoo",
+      "onboard_time": 1736857578,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 505634,
@@ -2147,6 +2155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 400550,
+      "num": 400550,
+      "word": "丁禹兮直播",
+      "onboard_time": 1736858359,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 400476,
       "num": 350686,
       "word": "鸡腿诺回应程鑫凯",
@@ -2201,6 +2217,14 @@
       "onboard_time": 1736829260,
       "rank": 14,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 393752,
+      "num": 393752,
+      "word": "家属称景德镇车祸死者父母重度抑郁",
+      "onboard_time": 1736851038,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 392639,
@@ -2267,14 +2291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 383540,
-      "num": 383540,
-      "word": "SM新女团成员Jiwoo",
-      "onboard_time": 1736857578,
-      "rank": 12,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 382851,
       "num": 420113,
       "word": "河南一男孩课堂上被同学狂扇耳光",
@@ -2313,14 +2329,6 @@
       "onboard_time": 1736837418,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 376981,
-      "num": 376981,
-      "word": "家属称景德镇车祸死者父母重度抑郁",
-      "onboard_time": 1736851038,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 373460,
@@ -2675,6 +2683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 320351,
+      "num": 320351,
+      "word": "国色芳华小姨上大分",
+      "onboard_time": 1736856198,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 319807,
       "num": 319807,
       "word": "日料店的进口鳗鱼来自江西瑞金",
@@ -2795,6 +2811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 305571,
+      "num": 305571,
+      "word": "消防栓有水我就救了一下",
+      "onboard_time": 1736851098,
+      "rank": 44,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 304617,
       "num": 304617,
       "word": "檀健次绅士手扶虞书欣",
@@ -2817,14 +2841,6 @@
       "onboard_time": 1736610025,
       "rank": 16,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 302358,
-      "num": 302358,
-      "word": "国色芳华小姨上大分",
-      "onboard_time": 1736856198,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 302353,
@@ -2897,14 +2913,6 @@
       "onboard_time": 1736830580,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 295132,
-      "num": 295132,
-      "word": "消防栓有水我就救了一下",
-      "onboard_time": 1736851098,
-      "rank": 44,
-      "category": "正能量"
     },
     {
       "raw_hot": 293879,
@@ -4499,6 +4507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195616,
+      "num": 195616,
+      "word": "刘强东因蔡磊为意外员工孩子托底",
+      "onboard_time": 1736854399,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195371,
       "num": 195371,
       "word": "临近春节的归意有多浓",
@@ -4761,6 +4777,14 @@
       "onboard_time": 1736740639,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188672,
+      "num": 188672,
+      "word": "没想到黄金竟然可以薄如蝉翼",
+      "onboard_time": 1736858779,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 188467,
@@ -5275,6 +5299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173315,
+      "num": 173315,
+      "word": "丁禹兮上一秒老公下一秒儿子",
+      "onboard_time": 1736854399,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173124,
       "num": 173124,
       "word": "杭州一上市公司实施4.5天工作制",
@@ -5465,14 +5497,6 @@
       "onboard_time": 1736596047,
       "rank": 48,
       "category": "体育,作品衍生"
-    },
-    {
-      "raw_hot": 168503,
-      "num": 168503,
-      "word": "丁禹兮上一秒老公下一秒儿子",
-      "onboard_time": 1736854399,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 168482,
@@ -6235,6 +6259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147639,
+      "num": 147639,
+      "word": "王俊凯挂面文学",
+      "onboard_time": 1736858659,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147404,
       "num": 245108,
       "word": "00花的野心都在眼睛里了",
@@ -6364,7 +6396,7 @@
     },
     {
       "raw_hot": 144481,
-      "num": 122060,
+      "num": 122434,
       "word": "赵丽颖黑粉被强执3.8万",
       "onboard_time": 1736855540,
       "rank": 38,
@@ -6475,6 +6507,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 141948,
+      "num": 141948,
+      "word": "鞠婧祎齐刘海马尾造型",
+      "onboard_time": 1736858659,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141939,
       "num": 141939,
       "word": "林更新不语 只是一味地抓痒",
@@ -6521,6 +6561,14 @@
       "onboard_time": 1736762600,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 141560,
+      "num": 141560,
+      "word": "虞书欣人生欣体验",
+      "onboard_time": 1736859199,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 141190,
@@ -6593,14 +6641,6 @@
       "onboard_time": 1736775321,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 138856,
-      "num": 138856,
-      "word": "刘强东因蔡磊为意外员工孩子托底",
-      "onboard_time": 1736854399,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 138353,
@@ -6833,14 +6873,6 @@
       "onboard_time": 1736652858,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 132681,
-      "num": 132681,
-      "word": "丁禹兮直播",
-      "onboard_time": 1736858359,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 132663,
@@ -7107,6 +7139,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 127489,
+      "num": 127489,
+      "word": "Bin称自己收入属第一梯队",
+      "onboard_time": 1736857640,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 127394,
       "num": 104049,
       "word": "国色芳华名场面callback",
@@ -7267,6 +7307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123478,
+      "num": 123478,
+      "word": "漫威女星老公家中轻生",
+      "onboard_time": 1736858479,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122708,
       "num": 484679,
       "word": "数学老师评小学期末考太难",
@@ -7401,14 +7449,6 @@
       "onboard_time": 1736592028,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120889,
-      "num": 120889,
-      "word": "Bin称自己收入属第一梯队",
-      "onboard_time": 1736857640,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 120824,
@@ -7563,6 +7603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 116283,
+      "num": 116283,
+      "word": "驻站",
+      "onboard_time": 1736858419,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116194,
       "num": 116194,
       "word": "何惟芳蒋长扬 我清楚地看见你",
@@ -7673,6 +7721,14 @@
       "onboard_time": 1736669359,
       "rank": 25,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 114185,
+      "num": 208020,
+      "word": "祝绪丹说竹林四侠约定了要大步向前走",
+      "onboard_time": 1736857339,
+      "rank": 22,
+      "category": "作品衍生,剧集"
     },
     {
       "raw_hot": 114145,
@@ -8091,14 +8147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102623,
-      "num": 102623,
-      "word": "驻站",
-      "onboard_time": 1736858419,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 102403,
       "num": 340250,
       "word": "李某涉嫌以危险方法危害公共安全罪",
@@ -8163,6 +8211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98654,
+      "num": 98654,
+      "word": "成为罪犯之前的她们",
+      "onboard_time": 1736859259,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98572,
       "num": 198255,
       "word": "肖战惊喜vlog",
@@ -8201,14 +8257,6 @@
       "onboard_time": 1736852117,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 98008,
-      "num": 98008,
-      "word": "漫威女星老公家中轻生",
-      "onboard_time": 1736858479,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 97977,
@@ -8304,6 +8352,14 @@
       "word": "米勒谈LOL新版本",
       "onboard_time": 1736759178,
       "rank": 24,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 93143,
+      "num": 199491,
+      "word": "一诺绝美舞担",
+      "onboard_time": 1736858958,
+      "rank": 23,
       "category": "电竞"
     },
     {
@@ -8947,6 +9003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 53966,
+      "num": 196451,
+      "word": "微博之夜红毯全程快闪",
+      "onboard_time": 1736859319,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 53955,
       "num": 130378,
       "word": "TT对战LNG",
@@ -9097,6 +9161,14 @@
       "onboard_time": 1736676018,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 49227,
+      "num": 444206,
+      "word": "业主称物业骗取签名阻止业主大会",
+      "onboard_time": 1736857821,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48851,
@@ -9291,6 +9363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40369,
+      "num": 175515,
+      "word": "日本司机回应两中国游客遭列车撞击",
+      "onboard_time": 1736858117,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 40205,
       "num": 273425,
       "word": "当95后大学生干起家政",
@@ -9451,6 +9531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 32633,
+      "num": 712213,
+      "word": "中国人造太阳再迎重大突破",
+      "onboard_time": 1736858659,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32169,
       "num": 250312,
       "word": "宋雨琦回应cha虞书欣新歌上热搜",
@@ -9491,14 +9579,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 30696,
-      "num": 444206,
-      "word": "业主称物业骗取签名阻止业主大会",
-      "onboard_time": 1736857821,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30506,
       "num": 188493,
       "word": "黄子弘凡说自己有点讨好型人格",
@@ -9521,14 +9601,6 @@
       "onboard_time": 1736828718,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 29594,
-      "num": 155171,
-      "word": "日本司机回应两中国游客遭列车撞击",
-      "onboard_time": 1736858117,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 29011,
@@ -9577,14 +9649,6 @@
       "onboard_time": 1736792172,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 27138,
-      "num": 208020,
-      "word": "祝绪丹说竹林四侠约定了要大步向前走",
-      "onboard_time": 1736857339,
-      "rank": 22,
-      "category": "作品衍生,剧集"
     },
     {
       "raw_hot": 26138,
@@ -9672,6 +9736,14 @@
       "word": "假警察一听真警察接电话1秒挂了",
       "onboard_time": 1736797692,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24099,
+      "num": 314818,
+      "word": "我的铁路风景",
+      "onboard_time": 1736859199,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -10091,6 +10163,9 @@
     },
     {
       "word": "#总书记要求把冰雪运动普及贯穿始终#"
+    },
+    {
+      "word": "#习近平向黎巴嫩新任总统致贺电#"
     }
   ]
 }
