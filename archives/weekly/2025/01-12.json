@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736896840004,
+  "endTime": 1736897720510,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -1051,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 773994,
+      "num": 918908,
+      "word": "婆婆谎称是死胎把孩子送人或涉拐骗",
+      "onboard_time": 1736868618,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 760025,
       "num": 760025,
       "word": "肖战喊庄达菲庄庄",
@@ -1113,14 +1121,6 @@
       "onboard_time": 1736828539,
       "rank": 31,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 733153,
-      "num": 811749,
-      "word": "婆婆谎称是死胎把孩子送人或涉拐骗",
-      "onboard_time": 1736868618,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 732967,
@@ -1489,6 +1489,14 @@
       "onboard_time": 1736748559,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 615487,
+      "num": 615487,
+      "word": "专家称小红书未必想要TikTok流量",
+      "onboard_time": 1736896634,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 613812,
@@ -2635,6 +2643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 343404,
+      "num": 343404,
+      "word": "繁花成员围攻刘晓庆",
+      "onboard_time": 1736896634,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 340667,
       "num": 340667,
       "word": "虞书欣又当站姐了",
@@ -3147,6 +3163,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 278532,
+      "num": 272209,
+      "word": "向佐自曝小学时因父母身份被霸凌",
+      "onboard_time": 1736892131,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278077,
       "num": 278077,
       "word": "胖东来不允许夫妻间家暴冷暴力",
@@ -3203,14 +3227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 276003,
-      "num": 276003,
-      "word": "专家称小红书未必想要TikTok流量",
-      "onboard_time": 1736896634,
-      "rank": 4,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 275657,
       "num": 275657,
       "word": "张杰感谢Lucy小姐唐嫣",
@@ -3257,14 +3273,6 @@
       "onboard_time": 1736691922,
       "rank": 9,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 272209,
-      "num": 272209,
-      "word": "向佐自曝小学时因父母身份被霸凌",
-      "onboard_time": 1736892131,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 270736,
@@ -3545,6 +3553,14 @@
       "onboard_time": 1736723775,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 246260,
+      "num": 246260,
+      "word": "小鹿称北京就是个该吃苦的城市",
+      "onboard_time": 1736885712,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 246239,
@@ -3931,14 +3947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 222160,
-      "num": 222160,
-      "word": "小鹿称北京就是个该吃苦的城市",
-      "onboard_time": 1736885712,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 222002,
       "num": 197021,
       "word": "当韩国人第一次去逛中国菜市场",
@@ -4273,6 +4281,14 @@
       "onboard_time": 1736654839,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207130,
+      "num": 207130,
+      "word": "蒋长扬要切大号了",
+      "onboard_time": 1736896576,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 207083,
@@ -6115,6 +6131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 159402,
+      "num": 159402,
+      "word": "鞠婧祎郭敬明片场对戏狂笑",
+      "onboard_time": 1736896696,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159136,
       "num": 159136,
       "word": "成本36块一锅做了10个菜",
@@ -7859,14 +7883,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 121683,
-      "num": 121683,
-      "word": "蒋长扬要切大号了",
-      "onboard_time": 1736896576,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 121481,
       "num": 119046,
       "word": "国色芳华 女生永远都不要回头看",
@@ -8651,6 +8667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103577,
+      "num": 103577,
+      "word": "韩警方及公调处千余人抓捕尹锡悦",
+      "onboard_time": 1736896515,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 103535,
       "num": 399688,
       "word": "老板回应肥娟小吃暂时闭店",
@@ -8745,6 +8769,14 @@
       "onboard_time": 1736855419,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99784,
+      "num": 99784,
+      "word": "官方回应上海能否接住霉霉演出",
+      "onboard_time": 1736895614,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 99422,
@@ -8963,14 +8995,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 92403,
-      "num": 92403,
-      "word": "繁花成员围攻刘晓庆",
-      "onboard_time": 1736896634,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 91589,
       "num": 91589,
       "word": "阿森纳vs曼联",
@@ -9027,6 +9051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88876,
+      "num": 88876,
+      "word": "杨紫给我萌没边儿了",
+      "onboard_time": 1736896576,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88391,
       "num": 271152,
       "word": "让学生签字放弃中考系老师个人行为",
@@ -9051,12 +9083,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85647,
+      "num": 85647,
+      "word": "将门毒后选角",
+      "onboard_time": 1736896936,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85463,
       "num": 104636,
       "word": "警方回应失联女大学生遗体被找到",
       "onboard_time": 1736668700,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85406,
+      "num": 85406,
+      "word": "牛莉51岁了",
+      "onboard_time": 1736897537,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 84568,
@@ -9139,14 +9187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 81388,
-      "num": 66620,
-      "word": "韩警方及公调处千余人抓捕尹锡悦",
-      "onboard_time": 1736896515,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 81269,
       "num": 152358,
       "word": "马龙樊振东王楚钦同框含金量拉满",
@@ -9227,6 +9267,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 78541,
+      "num": 78541,
+      "word": "王者荣耀",
+      "onboard_time": 1736896815,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 78533,
       "num": 69241,
       "word": "卢昱晓爸爸夸王星越台词好",
@@ -9257,6 +9305,14 @@
       "onboard_time": 1736786115,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 76946,
+      "num": 76946,
+      "word": "韩国警方进入总统官邸",
+      "onboard_time": 1736896815,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 76914,
@@ -9339,6 +9395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 74275,
+      "num": 74275,
+      "word": "再次逮捕尹锡悦",
+      "onboard_time": 1736897175,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 73999,
       "num": 73999,
       "word": "宋慧乔超短发造型",
@@ -9363,14 +9427,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 72611,
-      "num": 72611,
-      "word": "杨紫给我萌没边儿了",
-      "onboard_time": 1736896576,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 71776,
       "num": 71776,
       "word": "虞书欣这样的朋友",
@@ -9387,12 +9443,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 70212,
-      "num": 70212,
-      "word": "官方回应上海能否接住霉霉演出",
-      "onboard_time": 1736895614,
-      "rank": 28,
-      "category": "演出"
+      "raw_hot": 70477,
+      "num": 70477,
+      "word": "尹锡悦逮捕令第2次执行",
+      "onboard_time": 1736897115,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 70022,
@@ -9411,12 +9467,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69591,
+      "num": 69591,
+      "word": "拜登称中国永远不会超过美国",
+      "onboard_time": 1736897475,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 69074,
       "num": 69074,
       "word": "国色芳华有效播放量破3亿",
       "onboard_time": 1736723956,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 68984,
+      "num": 68984,
+      "word": "00后女生高铁上6小时织了顶帽子",
+      "onboard_time": 1736875213,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67959,
@@ -9449,6 +9521,14 @@
       "onboard_time": 1736698160,
       "rank": 49,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 66550,
+      "num": 66550,
+      "word": "原研药退出公立医院普通患者何去何从",
+      "onboard_time": 1736897475,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66190,
@@ -9515,14 +9595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 64020,
-      "num": 64020,
-      "word": "鞠婧祎郭敬明片场对戏狂笑",
-      "onboard_time": 1736896696,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 63886,
       "num": 277205,
       "word": "加州山火威胁2028洛杉矶奥运场馆",
@@ -9579,14 +9651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 61497,
-      "num": 61497,
-      "word": "韩国警方进入总统官邸",
-      "onboard_time": 1736896815,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 60122,
       "num": 60122,
       "word": "成都失联女大学生符合溺水死亡特征",
@@ -9609,6 +9673,14 @@
       "onboard_time": 1736620333,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 59260,
+      "num": 59260,
+      "word": "好莱坞资深女星命丧山火",
+      "onboard_time": 1736897055,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 58730,
@@ -9659,6 +9731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56140,
+      "num": 56140,
+      "word": "第1批回家的研究生高铁上做针线活",
+      "onboard_time": 1736887749,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55926,
       "num": 231949,
       "word": "嫌探店照片丑门店有权要求删除吗",
@@ -9689,14 +9769,6 @@
       "onboard_time": 1736810476,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 55707,
-      "num": 55707,
-      "word": "00后女生高铁上6小时织了顶帽子",
-      "onboard_time": 1736875213,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55362,
@@ -10027,27 +10099,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 43680,
-      "num": 43680,
-      "word": "王者荣耀",
-      "onboard_time": 1736896815,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 43670,
       "num": 528932,
       "word": "律师解读重庆大量锦鲤被毒死案",
       "onboard_time": 1736778440,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43235,
-      "num": 43235,
-      "word": "第1批回家的研究生高铁上做针线活",
-      "onboard_time": 1736887749,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -10491,6 +10547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 25389,
+      "num": 179928,
+      "word": "走近万家灯火感受活力满满的中国",
+      "onboard_time": 1736896395,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 25248,
       "num": 27862,
       "word": "消散对白",
@@ -10867,20 +10931,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 15048,
-      "num": 179928,
-      "word": "走近万家灯火感受活力满满的中国",
-      "onboard_time": 1736896395,
-      "rank": 9,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 14576,
       "num": 76359,
       "word": "对台军售这些美企被列入不可靠实体清单",
       "onboard_time": 1736878872,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14576,
+      "num": 99713,
+      "word": "eStar版年会不能停",
+      "onboard_time": 1736896634,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 13780,
@@ -10921,14 +10985,6 @@
       "onboard_time": 1736791754,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 12341,
-      "num": 81776,
-      "word": "eStar版年会不能停",
-      "onboard_time": 1736896634,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 12296,

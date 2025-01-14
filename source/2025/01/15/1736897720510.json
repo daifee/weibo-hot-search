@@ -1,0 +1,410 @@
+{
+  "runTime": 1736897720510,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 773994,
+        "num": 918908,
+        "word": "婆婆谎称是死胎把孩子送人或涉拐骗",
+        "onboard_time": 1736868618,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 615487,
+        "num": 615487,
+        "word": "专家称小红书未必想要TikTok流量",
+        "onboard_time": 1736896634,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 22864,
+        "num": 574469,
+        "word": "我的铁路风景",
+        "onboard_time": 1736859199,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 552697,
+        "num": 552697,
+        "word": "可是为什么我插针都插不入",
+        "onboard_time": 1736871436,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383761,
+        "num": 383761,
+        "word": "为什么车厘子一个月到中国却不腐烂",
+        "onboard_time": 1736857099,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 343404,
+        "num": 343404,
+        "word": "繁花成员围攻刘晓庆",
+        "onboard_time": 1736896634,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246260,
+        "num": 246260,
+        "word": "小鹿称北京就是个该吃苦的城市",
+        "onboard_time": 1736885712,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210263,
+        "num": 210263,
+        "word": "女子给网友寄2箱酸奶险损失12.5万",
+        "onboard_time": 1736853198,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278532,
+        "num": 210132,
+        "word": "向佐自曝小学时因父母身份被霸凌",
+        "onboard_time": 1736892131,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195713,
+        "num": 208417,
+        "word": "泰国普吉岛1名中国游客死亡",
+        "onboard_time": 1736870838,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 207130,
+        "num": 207130,
+        "word": "蒋长扬要切大号了",
+        "onboard_time": 1736896576,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198820,
+        "num": 198820,
+        "word": "何惟芳蒋长扬 先婚者犬也",
+        "onboard_time": 1736866999,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182182,
+        "num": 182182,
+        "word": "小孩玩火5辆车被烧成空壳",
+        "onboard_time": 1736865201,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168846,
+        "num": 168846,
+        "word": "山姆大代购赚的不止代购费",
+        "onboard_time": 1736835499,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159402,
+        "num": 159402,
+        "word": "鞠婧祎郭敬明片场对戏狂笑",
+        "onboard_time": 1736896696,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155588,
+        "num": 155588,
+        "word": "美国网友帮做完形填空5题错俩",
+        "onboard_time": 1736862080,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114651,
+        "num": 114651,
+        "word": "演唱会黄牛用一面手机墙抢票",
+        "onboard_time": 1736866460,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109948,
+        "num": 109948,
+        "word": "家属称景德镇车祸死者父母重度抑郁",
+        "onboard_time": 1736851038,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105904,
+        "num": 105904,
+        "word": "主持人大赛今年选新闻主播",
+        "onboard_time": 1736875393,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103969,
+        "num": 103969,
+        "word": "外交部再次回应中国游热潮",
+        "onboard_time": 1736874134,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25389,
+        "num": 103697,
+        "word": "走近万家灯火感受活力满满的中国",
+        "onboard_time": 1736896395,
+        "rank": 20,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 111927,
+        "num": 103681,
+        "word": "女星因老公去世删光社交动态",
+        "onboard_time": 1736864420,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103577,
+        "num": 103577,
+        "word": "韩警方及公调处千余人抓捕尹锡悦",
+        "onboard_time": 1736896515,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99784,
+        "num": 99784,
+        "word": "官方回应上海能否接住霉霉演出",
+        "onboard_time": 1736895614,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 14576,
+        "num": 99713,
+        "word": "eStar版年会不能停",
+        "onboard_time": 1736896634,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99693,
+        "num": 99693,
+        "word": "太好了是免费外教作业有救了",
+        "onboard_time": 1736865682,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 98394,
+        "num": 98394,
+        "word": "将门毒后",
+        "onboard_time": 1736851396,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92093,
+        "num": 92093,
+        "word": "儿童感染甲流为何应慎用镇咳药",
+        "onboard_time": 1736893092,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88876,
+        "num": 88876,
+        "word": "杨紫给我萌没边儿了",
+        "onboard_time": 1736896576,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85647,
+        "num": 85647,
+        "word": "将门毒后选角",
+        "onboard_time": 1736896936,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85406,
+        "num": 85406,
+        "word": "牛莉51岁了",
+        "onboard_time": 1736897537,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80939,
+        "num": 80939,
+        "word": "当街家暴被呵止男子已与妻子和解",
+        "onboard_time": 1736876533,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78541,
+        "num": 78541,
+        "word": "王者荣耀",
+        "onboard_time": 1736896815,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 76946,
+        "num": 76946,
+        "word": "韩国警方进入总统官邸",
+        "onboard_time": 1736896815,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74275,
+        "num": 74275,
+        "word": "再次逮捕尹锡悦",
+        "onboard_time": 1736897175,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 72804,
+        "num": 72804,
+        "word": "周深听到要他演戏时的表情",
+        "onboard_time": 1736868860,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71600,
+        "num": 71600,
+        "word": "国考分数线",
+        "onboard_time": 1736869218,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 70477,
+        "num": 70477,
+        "word": "尹锡悦逮捕令第2次执行",
+        "onboard_time": 1736897115,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 69591,
+        "num": 69591,
+        "word": "拜登称中国永远不会超过美国",
+        "onboard_time": 1736897475,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 69455,
+        "num": 69455,
+        "word": "刘强东因蔡磊为意外员工孩子托底",
+        "onboard_time": 1736854399,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68984,
+        "num": 68984,
+        "word": "00后女生高铁上6小时织了顶帽子",
+        "onboard_time": 1736875213,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67400,
+        "num": 67400,
+        "word": "7岁男孩被同学掌掴致失聪",
+        "onboard_time": 1736884212,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66550,
+        "num": 66550,
+        "word": "原研药退出公立医院普通患者何去何从",
+        "onboard_time": 1736897475,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66211,
+        "num": 66211,
+        "word": "黄牛团伙倒卖30000多张演唱会票",
+        "onboard_time": 1736862860,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64314,
+        "num": 64314,
+        "word": "消费者称终于舍得买4J车厘子",
+        "onboard_time": 1736867480,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62792,
+        "num": 62792,
+        "word": "李沁穿了应援色高定走红毯",
+        "onboard_time": 1736870358,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59260,
+        "num": 59260,
+        "word": "好莱坞资深女星命丧山火",
+        "onboard_time": 1736897055,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56140,
+        "num": 56140,
+        "word": "第1批回家的研究生高铁上做针线活",
+        "onboard_time": 1736887749,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53123,
+        "num": 53123,
+        "word": "国考成绩",
+        "onboard_time": 1736860218,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 51772,
+        "num": 51772,
+        "word": "宋慧乔超短发造型",
+        "onboard_time": 1736874434,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向黎巴嫩新任总统致贺电#"
+    }
+  }
+}
