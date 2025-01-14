@@ -1,6 +1,6 @@
 {
   "startTime": 1736785781963,
-  "endTime": 1736836991597,
+  "endTime": 1736839233622,
   "band_list": [
     {
       "raw_hot": 2220278,
@@ -19,6 +19,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1801979,
+      "num": 1801979,
+      "word": "山姆大代购赚的不止代购费",
+      "onboard_time": 1736835499,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1600190,
       "num": 1406314,
       "word": "黄子韬发文回应送车事件",
@@ -33,6 +41,14 @@
       "onboard_time": 1736815280,
       "rank": 0,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1581697,
+      "num": 616727,
+      "word": "李小冉评论区",
+      "onboard_time": 1736836819,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 1541716,
@@ -243,6 +259,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 629919,
+      "num": 362412,
+      "word": "小红书概念爆发",
+      "onboard_time": 1736834480,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
       "raw_hot": 622975,
       "num": 622975,
       "word": "蔡磊身体机能断崖式下降",
@@ -275,6 +299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 553908,
+      "num": 553908,
+      "word": "山西一男子疑出轨还当街家暴妻子",
+      "onboard_time": 1736837238,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 548253,
       "num": 577926,
       "word": "拜登告别",
@@ -297,6 +329,14 @@
       "onboard_time": 1736829560,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 491441,
+      "num": 491441,
+      "word": "花鸟使 小范大人",
+      "onboard_time": 1736836579,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 477380,
@@ -347,14 +387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 455861,
-      "num": 293576,
-      "word": "小红书概念爆发",
-      "onboard_time": 1736834480,
-      "rank": 20,
-      "category": "财经"
-    },
-    {
       "raw_hot": 446154,
       "num": 446154,
       "word": "尹锡悦年薪将达2.626亿韩元",
@@ -379,6 +411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 434947,
+      "num": 434947,
+      "word": "SM新男团 haru",
+      "onboard_time": 1736836819,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 407487,
       "num": 407487,
       "word": "蔡明评价李小冉",
@@ -401,6 +441,14 @@
       "onboard_time": 1736829260,
       "rank": 14,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 391247,
+      "num": 391247,
+      "word": "外籍游客在上海消费力有多猛",
+      "onboard_time": 1736836398,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 389911,
@@ -443,14 +491,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 361774,
-      "num": 361774,
-      "word": "山姆大代购赚的不止代购费",
-      "onboard_time": 1736835499,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 356629,
       "num": 322960,
       "word": "赵丽颖新蜡像",
@@ -473,6 +513,14 @@
       "onboard_time": 1736834238,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 336984,
+      "num": 365666,
+      "word": "周翊然包上恩吻戏",
+      "onboard_time": 1736837839,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 330082,
@@ -547,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 293094,
+      "num": 365094,
+      "word": "爱奇艺排播",
+      "onboard_time": 1736837418,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 291756,
       "num": 291756,
       "word": "向佐 每个人都当我是小丑",
@@ -579,12 +635,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 283752,
+      "num": 283752,
+      "word": "难哄橄榄树值得爱 对打",
+      "onboard_time": 1736837599,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 277171,
       "num": 277171,
       "word": "千朵桃花魔尊有离镜味儿",
       "onboard_time": 1736831418,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 276973,
+      "num": 548759,
+      "word": "吉林大爷救助游客反遭诬陷不实",
+      "onboard_time": 1736833279,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 276958,
+      "num": 230517,
+      "word": "过年灌肉肠都不敢这么灌",
+      "onboard_time": 1736836280,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 276562,
@@ -617,6 +697,14 @@
       "onboard_time": 1736813119,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 271202,
+      "num": 271202,
+      "word": "谢娜 死嘴快憋住啊",
+      "onboard_time": 1736838618,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 270736,
@@ -689,6 +777,14 @@
       "onboard_time": 1736827278,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232436,
+      "num": 232436,
+      "word": "客服回应李佳琦直播间车厘子翻车",
+      "onboard_time": 1736837898,
+      "rank": 28,
+      "category": "网红"
     },
     {
       "raw_hot": 231191,
@@ -795,14 +891,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 204167,
-      "num": 548759,
-      "word": "吉林大爷救助游客反遭诬陷不实",
-      "onboard_time": 1736833279,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 204131,
       "num": 204131,
       "word": "管乐说杨紫是牡丹本丹",
@@ -843,14 +931,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197978,
-      "num": 197978,
-      "word": "花鸟使 小范大人",
-      "onboard_time": 1736836579,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 195952,
       "num": 172313,
       "word": "朱旺旺爆改",
@@ -875,12 +955,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193093,
+      "num": 193093,
+      "word": "九尾梅花刺绣造型",
+      "onboard_time": 1736838798,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 192869,
       "num": 192869,
       "word": "日本地震留学生抱毕业论文电脑逃生",
       "onboard_time": 1736819598,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 192775,
+      "num": 192775,
+      "word": "樊振东说不想回看与张本的前两局",
+      "onboard_time": 1736838439,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 191024,
@@ -1139,14 +1235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158860,
-      "num": 158860,
-      "word": "外籍游客在上海消费力有多猛",
-      "onboard_time": 1736836398,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 158270,
       "num": 158270,
       "word": "ZB1上海之恋",
@@ -1161,14 +1249,6 @@
       "onboard_time": 1736823558,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 156879,
-      "num": 156879,
-      "word": "李小冉评论区",
-      "onboard_time": 1736836819,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 156583,
@@ -1201,14 +1281,6 @@
       "onboard_time": 1736834658,
       "rank": 40,
       "category": "教育"
-    },
-    {
-      "raw_hot": 151301,
-      "num": 151301,
-      "word": "SM新男团 haru",
-      "onboard_time": 1736836819,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 147404,
@@ -1275,12 +1347,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142812,
-      "num": 142812,
-      "word": "过年灌肉肠都不敢这么灌",
-      "onboard_time": 1736836280,
-      "rank": 39,
-      "category": "幽默"
+      "raw_hot": 141993,
+      "num": 141993,
+      "word": "段奕宏 听说这叫战损",
+      "onboard_time": 1736838919,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 141190,
@@ -1369,6 +1441,14 @@
       "onboard_time": 1736783358,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128640,
+      "num": 128640,
+      "word": "我妈爱看短剧的原因找到了",
+      "onboard_time": 1736838079,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 128384,
@@ -1587,6 +1667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 95307,
+      "num": 392831,
+      "word": "丹麦外长称乌克兰会救格陵兰岛",
+      "onboard_time": 1736838439,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 93278,
       "num": 93278,
       "word": "加州山火逼近美国重要太空设施",
@@ -1619,6 +1707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83985,
+      "num": 364143,
+      "word": "奔赴濮院KPL奇妙之旅",
+      "onboard_time": 1736838739,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 83552,
       "num": 83552,
       "word": "为何顺风车司乘矛盾频发",
@@ -1648,6 +1744,14 @@
       "word": "蛋糕吃出白色异物男童差点磕坏牙",
       "onboard_time": 1736784498,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82099,
+      "num": 484569,
+      "word": "代购是否损害办卡人利益山姆回应",
+      "onboard_time": 1736838498,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1963,6 +2067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 24396,
+      "num": 200490,
+      "word": "自驾阿姨苏敏出走第五年仍然相信爱情",
+      "onboard_time": 1736835499,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 24106,
       "num": 24106,
       "word": "假警察一听真警察接电话1秒挂了",
@@ -2049,6 +2161,14 @@
       "onboard_time": 1736783119,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 14076,
+      "num": 230670,
+      "word": "律师谈春秋航空不退机票合理吗",
+      "onboard_time": 1736839098,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12372,

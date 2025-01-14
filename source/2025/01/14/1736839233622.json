@@ -1,0 +1,410 @@
+{
+  "runTime": 1736839233622,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1801979,
+        "num": 1801979,
+        "word": "山姆大代购赚的不止代购费",
+        "onboard_time": 1736835499,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 775721,
+        "num": 775721,
+        "word": "向佐回应和郭碧婷感情",
+        "onboard_time": 1736832199,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28875,
+        "num": 666103,
+        "word": "打击网络黑客犯罪取得显著成效",
+        "onboard_time": 1736833219,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 619624,
+        "num": 619624,
+        "word": "重庆文旅通报大爷救助游客遭诬陷",
+        "onboard_time": 1736832919,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1581697,
+        "num": 616727,
+        "word": "李小冉评论区",
+        "onboard_time": 1736836819,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 605567,
+        "num": 605567,
+        "word": "100多枚巴黎奥运会奖牌被退回",
+        "onboard_time": 1736826199,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 553908,
+        "num": 553908,
+        "word": "山西一男子疑出轨还当街家暴妻子",
+        "onboard_time": 1736837238,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 504510,
+        "num": 504510,
+        "word": "被车撞了6天后突然去世该谁担责",
+        "onboard_time": 1736822957,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 491441,
+        "num": 491441,
+        "word": "花鸟使 小范大人",
+        "onboard_time": 1736836579,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82099,
+        "num": 484569,
+        "word": "代购是否损害办卡人利益山姆回应",
+        "onboard_time": 1736838498,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 872513,
+        "num": 483791,
+        "word": "黄金生育年龄",
+        "onboard_time": 1736833518,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 480487,
+        "num": 480487,
+        "word": "车厘子快比草莓便宜了",
+        "onboard_time": 1736828660,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 434947,
+        "num": 434947,
+        "word": "SM新男团 haru",
+        "onboard_time": 1736836819,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95307,
+        "num": 392831,
+        "word": "丹麦外长称乌克兰会救格陵兰岛",
+        "onboard_time": 1736838439,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 391247,
+        "num": 391247,
+        "word": "外籍游客在上海消费力有多猛",
+        "onboard_time": 1736836398,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 367032,
+        "num": 367032,
+        "word": "拜登告别",
+        "onboard_time": 1736831599,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 339715,
+        "num": 366949,
+        "word": "黄子韬掉粉已超400万",
+        "onboard_time": 1736828300,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336984,
+        "num": 365666,
+        "word": "周翊然包上恩吻戏",
+        "onboard_time": 1736837839,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293094,
+        "num": 365094,
+        "word": "爱奇艺排播",
+        "onboard_time": 1736837418,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83985,
+        "num": 364143,
+        "word": "奔赴濮院KPL奇妙之旅",
+        "onboard_time": 1736838739,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 357190,
+        "num": 363267,
+        "word": "我把编制看得太重把自己看太轻了",
+        "onboard_time": 1736829380,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 629919,
+        "num": 362412,
+        "word": "小红书概念爆发",
+        "onboard_time": 1736834480,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 361576,
+        "num": 361576,
+        "word": "在上海的韩国游客人手一斤大白兔",
+        "onboard_time": 1736830759,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 283752,
+        "num": 283752,
+        "word": "难哄橄榄树值得爱 对打",
+        "onboard_time": 1736837599,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276973,
+        "num": 276973,
+        "word": "吉林大爷救助游客反遭诬陷不实",
+        "onboard_time": 1736833279,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271202,
+        "num": 271202,
+        "word": "谢娜 死嘴快憋住啊",
+        "onboard_time": 1736838618,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263590,
+        "num": 263590,
+        "word": "曝英伟达一半员工净资产破亿",
+        "onboard_time": 1736815280,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 248820,
+        "num": 248820,
+        "word": "胡歌聊天真不把我们当外人",
+        "onboard_time": 1736832559,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232436,
+        "num": 232436,
+        "word": "客服回应李佳琦直播间车厘子翻车",
+        "onboard_time": 1736837898,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 14076,
+        "num": 230670,
+        "word": "律师谈春秋航空不退机票合理吗",
+        "onboard_time": 1736839098,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276958,
+        "num": 230517,
+        "word": "过年灌肉肠都不敢这么灌",
+        "onboard_time": 1736836280,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229877,
+        "num": 229877,
+        "word": "只有唐九洲困在原本的家庭",
+        "onboard_time": 1736832378,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206290,
+        "num": 206290,
+        "word": "张碧晨说赵丽颖特别爱拍但全糊了",
+        "onboard_time": 1736830819,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202261,
+        "num": 202261,
+        "word": "孟子义 来时路是荆棘更是动力",
+        "onboard_time": 1736835378,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24396,
+        "num": 200490,
+        "word": "自驾阿姨苏敏出走第五年仍然相信爱情",
+        "onboard_time": 1736835499,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 200466,
+        "num": 200466,
+        "word": "王一博张小斐或演周星驰电影",
+        "onboard_time": 1736834238,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193093,
+        "num": 193093,
+        "word": "九尾梅花刺绣造型",
+        "onboard_time": 1736838798,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192775,
+        "num": 192775,
+        "word": "樊振东说不想回看与张本的前两局",
+        "onboard_time": 1736838439,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187503,
+        "num": 187503,
+        "word": "王鹤棣拍这里时候才24岁",
+        "onboard_time": 1736824878,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176078,
+        "num": 176078,
+        "word": "63岁女子两年没过科目一想退款",
+        "onboard_time": 1736834658,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168266,
+        "num": 168266,
+        "word": "她的同学们根本不懂她有多强",
+        "onboard_time": 1736828718,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164576,
+        "num": 164576,
+        "word": "刘耀文告黑将开庭",
+        "onboard_time": 1736825659,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155374,
+        "num": 155374,
+        "word": "王曼昱回应捐赠驰援西藏",
+        "onboard_time": 1736835919,
+        "rank": 42,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 144938,
+        "num": 144938,
+        "word": "上个蛇年沈马组合首次亮相春晚",
+        "onboard_time": 1736835799,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141993,
+        "num": 141993,
+        "word": "段奕宏 听说这叫战损",
+        "onboard_time": 1736838919,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132467,
+        "num": 132467,
+        "word": "两中国游客遭列车撞击前监控曝光",
+        "onboard_time": 1736828539,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 129909,
+        "num": 129909,
+        "word": "幸好韩国人只是说上海街头没有豪车",
+        "onboard_time": 1736824579,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128640,
+        "num": 128640,
+        "word": "我妈爱看短剧的原因找到了",
+        "onboard_time": 1736838079,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122588,
+        "num": 122588,
+        "word": "宋慧乔拍蓝色生死恋曾连续三天没洗澡",
+        "onboard_time": 1736829560,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122018,
+        "num": 122018,
+        "word": "鞠婧祎不语只是一味圈粉",
+        "onboard_time": 1736833159,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记要求把冰雪运动普及贯穿始终#"
+    }
+  }
+}
