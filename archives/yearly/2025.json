@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736843289561,
+  "endTime": 1736844073775,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -913,6 +913,14 @@
       "onboard_time": 1736072426,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2086857,
+      "num": 2086857,
+      "word": "婆婆谎称儿媳生的死胎把孩子送人",
+      "onboard_time": 1736841379,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2077247,
@@ -2003,14 +2011,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1462792,
-      "num": 1462792,
-      "word": "婆婆谎称儿媳生的死胎把孩子送人",
-      "onboard_time": 1736841379,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1460989,
       "num": 488648,
       "word": "徐以若 于正",
@@ -2049,6 +2049,14 @@
       "onboard_time": 1736610924,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1436773,
+      "num": 1226187,
+      "word": "金希澈残疾等级",
+      "onboard_time": 1736841318,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1431979,
@@ -2392,14 +2400,6 @@
       "word": "留几手 葛夕",
       "onboard_time": 1736486420,
       "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1297048,
-      "num": 1297048,
-      "word": "央视蛇年春晚第二次联排",
-      "onboard_time": 1736482041,
-      "rank": 7,
       "category": "综艺"
     }
   ],

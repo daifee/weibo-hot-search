@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736843289561,
+  "endTime": 1736844073775,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -64,6 +64,14 @@
       "word": "被车撞了6天后突然去世该谁担责",
       "onboard_time": 1736822957,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2086857,
+      "num": 2086857,
+      "word": "婆婆谎称儿媳生的死胎把孩子送人",
+      "onboard_time": 1736841379,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -275,20 +283,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1462792,
-      "num": 1462792,
-      "word": "婆婆谎称儿媳生的死胎把孩子送人",
-      "onboard_time": 1736841379,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1447679,
       "num": 1447679,
       "word": "白鹿晒微博之夜后台一些合照",
       "onboard_time": 1736610924,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1436773,
+      "num": 1226187,
+      "word": "金希澈残疾等级",
+      "onboard_time": 1736841318,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1430319,
@@ -705,14 +713,6 @@
       "onboard_time": 1736645899,
       "rank": 5,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 946271,
-      "num": 946271,
-      "word": "金希澈残疾等级",
-      "onboard_time": 1736841318,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 944564,
@@ -1451,6 +1451,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 568395,
+      "num": 297508,
+      "word": "美国女孩戴手铐哭求警察别弄坏手镯",
+      "onboard_time": 1736841739,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 568002,
       "num": 568002,
       "word": "泰国警方称游客可用APP中文报警",
@@ -1963,6 +1971,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 405213,
+      "num": 430780,
+      "word": "儿子考第一回家过年爸爸大声追问",
+      "onboard_time": 1736841198,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 402497,
       "num": 547445,
       "word": "加沙孤儿说希望导弹击中我",
@@ -2049,14 +2065,6 @@
       "onboard_time": 1736610683,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 391775,
-      "num": 287886,
-      "word": "美国女孩戴手铐哭求警察别弄坏手镯",
-      "onboard_time": 1736841739,
-      "rank": 20,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 391707,
@@ -3467,6 +3475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222115,
+      "num": 222115,
+      "word": "常华森 骨相好皮薄馅不多",
+      "onboard_time": 1736842998,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222002,
       "num": 197021,
       "word": "当韩国人第一次去逛中国菜市场",
@@ -3595,6 +3611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214784,
+      "num": 214784,
+      "word": "鬼灭之刃无限城篇",
+      "onboard_time": 1736843118,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 214241,
       "num": 214241,
       "word": "4个月宝宝头发茂密仿佛开了特效",
@@ -3633,14 +3657,6 @@
       "onboard_time": 1736684782,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 212580,
-      "num": 430780,
-      "word": "儿子考第一回家过年爸爸大声追问",
-      "onboard_time": 1736841198,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 212568,
@@ -4692,7 +4708,7 @@
     },
     {
       "raw_hot": 182121,
-      "num": 182121,
+      "num": 248262,
       "word": "Bin回应S14决赛失利被喷",
       "onboard_time": 1736830640,
       "rank": 39,
@@ -5099,6 +5115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170502,
+      "num": 170502,
+      "word": "敖瑞鹏 极域妖王的警惕性就是高",
+      "onboard_time": 1736843180,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170266,
       "num": 170266,
       "word": "李现两只眼睛各演各的",
@@ -5193,6 +5217,14 @@
       "onboard_time": 1736765899,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 166411,
+      "num": 297823,
+      "word": "林一 内娱在逃男团成员",
+      "onboard_time": 1736842938,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 165588,
@@ -5337,14 +5369,6 @@
       "onboard_time": 1736762960,
       "rank": 38,
       "category": "体育,作品衍生"
-    },
-    {
-      "raw_hot": 160479,
-      "num": 160479,
-      "word": "常华森 骨相好皮薄馅不多",
-      "onboard_time": 1736842998,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 159964,
@@ -5609,6 +5633,14 @@
       "onboard_time": 1736670800,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 153631,
+      "num": 153631,
+      "word": "周深的回复是我的淡斑精华",
+      "onboard_time": 1736842880,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 153454,
@@ -6139,6 +6171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139184,
+      "num": 139184,
+      "word": "12306系统持续经受大流量访问考验",
+      "onboard_time": 1736843538,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139153,
       "num": 202308,
       "word": "女子逛商场摔成九级残疾索赔15万",
@@ -6411,14 +6451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131769,
-      "num": 131769,
-      "word": "鬼灭之刃无限城篇",
-      "onboard_time": 1736843118,
-      "rank": 39,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 131525,
       "num": 381825,
       "word": "A股成交额跌破万亿",
@@ -6521,6 +6553,14 @@
       "onboard_time": 1736685680,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 129463,
+      "num": 129463,
+      "word": "梗王杨幂上线",
+      "onboard_time": 1736843718,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 129041,
@@ -6867,14 +6907,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 120991,
-      "num": 120991,
-      "word": "敖瑞鹏 极域妖王的警惕性就是高",
-      "onboard_time": 1736843180,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 120891,
       "num": 349786,
       "word": "三轮车撞上380万宾利走代位追偿",
@@ -6947,6 +6979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119023,
+      "num": 119023,
+      "word": "肖战最喜欢旅行的地方是瑞士",
+      "onboard_time": 1736842758,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 118709,
       "num": 208524,
       "word": "奥司他韦为何一到流感季就火",
@@ -7001,14 +7041,6 @@
       "onboard_time": 1736698517,
       "rank": 9,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 116996,
-      "num": 116996,
-      "word": "周深的回复是我的淡斑精华",
-      "onboard_time": 1736842880,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 116641,
@@ -7091,20 +7123,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 114395,
+      "num": 114395,
+      "word": "12306买票卡顿的原因",
+      "onboard_time": 1736843240,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 114347,
       "num": 297268,
       "word": "康先生护你雪战到底",
       "onboard_time": 1736669359,
       "rank": 25,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 114259,
-      "num": 114259,
-      "word": "肖战最喜欢旅行的地方是瑞士",
-      "onboard_time": 1736842758,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 114145,
@@ -7179,20 +7211,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 113016,
-      "num": 113016,
-      "word": "12306买票卡顿的原因",
-      "onboard_time": 1736843240,
-      "rank": 48,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 112929,
       "num": 112929,
       "word": "西藏震区每家有WiFi有电视",
       "onboard_time": 1736836699,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112752,
+      "num": 112752,
+      "word": "向佐想拍黑悟空",
+      "onboard_time": 1736843420,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 112740,
@@ -7529,6 +7561,14 @@
       "onboard_time": 1736810356,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 98226,
+      "num": 113355,
+      "word": "春运无论东西南北都是回家的方向",
+      "onboard_time": 1736842157,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98160,
@@ -8059,14 +8099,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 63613,
-      "num": 289843,
-      "word": "林一 内娱在逃男团成员",
-      "onboard_time": 1736842938,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 63591,
       "num": 1406731,
       "word": "刻在DNA里的春节仪式感",
@@ -8587,6 +8619,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 37550,
+      "num": 412462,
+      "word": "医院回应医生抽烟做核磁共振",
+      "onboard_time": 1736843780,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37393,
       "num": 243483,
       "word": "有些留学中介为啥这么乱",
@@ -9051,12 +9091,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 17198,
+      "num": 372345,
+      "word": "父亲假扮女儿网恋诈骗22万",
+      "onboard_time": 1736843899,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16916,
       "num": 26175,
       "word": "微博之夜马龙樊振东王楚钦同框",
       "onboard_time": 1736620333,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16672,
+      "num": 301797,
+      "word": "A股市场超5300只个股上涨",
+      "onboard_time": 1736843958,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 16599,
