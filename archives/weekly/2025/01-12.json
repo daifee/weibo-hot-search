@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736859403038,
+  "endTime": 1736861138730,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -9,6 +9,14 @@
       "onboard_time": 1736756359,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3281445,
+      "num": 3281445,
+      "word": "国考成绩",
+      "onboard_time": 1736860218,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 3087284,
@@ -147,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1681965,
+      "num": 1681965,
+      "word": "为什么车厘子一个月到中国却不腐烂",
+      "onboard_time": 1736857099,
+      "rank": 1,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1681041,
       "num": 1479162,
       "word": "黄子韬回应持续掉粉",
@@ -225,14 +241,6 @@
       "onboard_time": 1736836819,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1575694,
-      "num": 1575694,
-      "word": "为什么车厘子一个月到中国却不腐烂",
-      "onboard_time": 1736857099,
-      "rank": 1,
-      "category": "美食"
     },
     {
       "raw_hot": 1574790,
@@ -1371,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 640405,
+      "num": 640405,
+      "word": "丁禹兮直播",
+      "onboard_time": 1736858359,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 639425,
       "num": 639425,
       "word": "武艺 上个节目家没了",
@@ -1499,6 +1515,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 595324,
+      "num": 595324,
+      "word": "菏泽牡丹卖爆了",
+      "onboard_time": 1736855779,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 590504,
       "num": 1080363,
       "word": "奥司他韦吃多了会耐药吗",
@@ -1513,14 +1537,6 @@
       "onboard_time": 1736846359,
       "rank": 19,
       "category": "网红"
-    },
-    {
-      "raw_hot": 583682,
-      "num": 583682,
-      "word": "菏泽牡丹卖爆了",
-      "onboard_time": 1736855779,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 580459,
@@ -1651,6 +1667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 524037,
+      "num": 402852,
+      "word": "TikTok难民称中国网友非常热情",
+      "onboard_time": 1736860460,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 523773,
       "num": 523773,
       "word": "外籍游客在上海消费力有多猛",
@@ -1715,20 +1739,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 510281,
+      "num": 510281,
+      "word": "SM新女团成员Jiwoo",
+      "onboard_time": 1736857578,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 509997,
       "num": 509997,
       "word": "救救马丽",
       "onboard_time": 1736607572,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 505935,
-      "num": 505935,
-      "word": "SM新女团成员Jiwoo",
-      "onboard_time": 1736857578,
-      "rank": 12,
-      "category": "音乐"
     },
     {
       "raw_hot": 505634,
@@ -1905,6 +1929,14 @@
       "onboard_time": 1736813598,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 465764,
+      "num": 402459,
+      "word": "家属称景德镇车祸死者父母重度抑郁",
+      "onboard_time": 1736851038,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 465401,
@@ -2155,14 +2187,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 400550,
-      "num": 400550,
-      "word": "丁禹兮直播",
-      "onboard_time": 1736858359,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 400476,
       "num": 350686,
       "word": "鸡腿诺回应程鑫凯",
@@ -2217,14 +2241,6 @@
       "onboard_time": 1736829260,
       "rank": 14,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 393752,
-      "num": 393752,
-      "word": "家属称景德镇车祸死者父母重度抑郁",
-      "onboard_time": 1736851038,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 392639,
@@ -2401,6 +2417,14 @@
       "onboard_time": 1736740639,
       "rank": 15,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 366829,
+      "num": 366829,
+      "word": "消防栓有水我就救了一下",
+      "onboard_time": 1736851098,
+      "rank": 44,
+      "category": "正能量"
     },
     {
       "raw_hot": 365159,
@@ -2809,14 +2833,6 @@
       "onboard_time": 1736843538,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 305571,
-      "num": 305571,
-      "word": "消防栓有水我就救了一下",
-      "onboard_time": 1736851098,
-      "rank": 44,
-      "category": "正能量"
     },
     {
       "raw_hot": 304617,
@@ -3313,6 +3329,14 @@
       "onboard_time": 1736674098,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 250639,
+      "num": 250639,
+      "word": "牛莉官宣离婚",
+      "onboard_time": 1736860040,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 249126,
@@ -4947,6 +4971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184304,
+      "num": 254141,
+      "word": "外交部回应韩国29吨核废水泄漏",
+      "onboard_time": 1736859860,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 183696,
       "num": 183696,
       "word": "丁禹兮时装一月封面",
@@ -5603,6 +5635,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 164971,
+      "num": 164971,
+      "word": "澳洲坚果怎么成了广西特产",
+      "onboard_time": 1736859980,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 164726,
       "num": 164726,
       "word": "宁嫔不语只是一味的贴合人物",
@@ -5617,6 +5657,14 @@
       "onboard_time": 1736757560,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 163804,
+      "num": 163804,
+      "word": "国考申论",
+      "onboard_time": 1736860881,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 163671,
@@ -6643,6 +6691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 138774,
+      "num": 372516,
+      "word": "杭州周杰伦演唱会带动消费13亿元",
+      "onboard_time": 1736860760,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 138353,
       "num": 357188,
       "word": "美国演员被困火海险跳海逃",
@@ -6897,6 +6953,14 @@
       "onboard_time": 1736732898,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132209,
+      "num": 132209,
+      "word": "樊振东谈如何平衡队友和对手关系",
+      "onboard_time": 1736860399,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 132085,
@@ -7211,6 +7275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 126015,
+      "num": 126015,
+      "word": "杨紫今晚继续见面呀",
+      "onboard_time": 1736859980,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125951,
       "num": 288041,
       "word": "郑钦文回应晋级澳网次轮",
@@ -7257,6 +7329,14 @@
       "onboard_time": 1736834658,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125189,
+      "num": 196451,
+      "word": "微博之夜红毯全程快闪",
+      "onboard_time": 1736859319,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 125110,
@@ -7369,6 +7449,14 @@
       "onboard_time": 1736676560,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 121776,
+      "num": 121776,
+      "word": "国色芳华为花农带来泼天流量",
+      "onboard_time": 1736860881,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 121481,
@@ -7763,6 +7851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 113548,
+      "num": 310086,
+      "word": "魏哲鸣直播",
+      "onboard_time": 1736860939,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113413,
       "num": 113413,
       "word": "笑晕了这是真在银行干过的",
@@ -7881,6 +7977,14 @@
       "onboard_time": 1736712251,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111304,
+      "num": 111304,
+      "word": "张康乐马柏全互相点评ootd",
+      "onboard_time": 1736860283,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 111233,
@@ -8515,6 +8619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81367,
+      "num": 1219773,
+      "word": "中国人造太阳再迎重大突破",
+      "onboard_time": 1736858659,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80865,
       "num": 220172,
       "word": "王楚钦希望大家获得想要的自由",
@@ -8753,6 +8865,14 @@
       "onboard_time": 1736697500,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66084,
+      "num": 402902,
+      "word": "反复啃指甲是种心理障碍",
+      "onboard_time": 1736860939,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65868,
@@ -9001,14 +9121,6 @@
       "onboard_time": 1736661139,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 53966,
-      "num": 196451,
-      "word": "微博之夜红毯全程快闪",
-      "onboard_time": 1736859319,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 53955,
@@ -9531,14 +9643,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 32633,
-      "num": 712213,
-      "word": "中国人造太阳再迎重大突破",
-      "onboard_time": 1736858659,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 32169,
       "num": 250312,
       "word": "宋雨琦回应cha虞书欣新歌上热搜",
@@ -9907,12 +10011,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18403,
+      "num": 240178,
+      "word": "王曦雨说期待下一场比赛",
+      "onboard_time": 1736860218,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 18293,
       "num": 247315,
       "word": "总揣度外国人的喜好我们就走不出去",
       "onboard_time": 1736774059,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 17936,
+      "num": 167305,
+      "word": "湖北首个民营通用机场陷破产疑云",
+      "onboard_time": 1736859799,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 17570,
@@ -10166,6 +10286,9 @@
     },
     {
       "word": "#习近平向黎巴嫩新任总统致贺电#"
+    },
+    {
+      "word": "#把群众冰雪运动热情保持下去#"
     }
   ]
 }

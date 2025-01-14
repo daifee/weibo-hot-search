@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736859403038,
+  "endTime": 1736861138730,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -409,6 +409,14 @@
       "onboard_time": 1736134101,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3281445,
+      "num": 3281445,
+      "word": "国考成绩",
+      "onboard_time": 1736860218,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 3087284,
@@ -1507,6 +1515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1681965,
+      "num": 1681965,
+      "word": "为什么车厘子一个月到中国却不腐烂",
+      "onboard_time": 1736857099,
+      "rank": 1,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1681041,
       "num": 1479162,
       "word": "黄子韬回应持续掉粉",
@@ -1745,14 +1761,6 @@
       "onboard_time": 1736836819,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1575694,
-      "num": 1575694,
-      "word": "为什么车厘子一个月到中国却不腐烂",
-      "onboard_time": 1736857099,
-      "rank": 1,
-      "category": "美食"
     },
     {
       "raw_hot": 1575211,
@@ -2392,14 +2400,6 @@
       "word": "王宝强 上热搜可以但不能塌房",
       "onboard_time": 1736605229,
       "rank": 11,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1311830,
-      "num": 1311830,
-      "word": "魏大勋不语 只是一味地公关",
-      "onboard_time": 1736663599,
-      "rank": 12,
       "category": "作品衍生"
     }
   ],
