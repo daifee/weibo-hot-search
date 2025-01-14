@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736854552002,
+  "endTime": 1736858500272,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -2123,6 +2123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1406129,
+      "num": 1406129,
+      "word": "为什么车厘子一个月到中国却不腐烂",
+      "onboard_time": 1736857099,
+      "rank": 1,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1406006,
       "num": 1406006,
       "word": "腾讯2025第一部破30000剧集",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736663599,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1310666,
-      "num": 1310666,
-      "word": "高瀚宇加盟鹿晗工作室",
-      "onboard_time": 1735700480,
-      "rank": 6,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

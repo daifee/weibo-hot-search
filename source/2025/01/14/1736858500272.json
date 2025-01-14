@@ -1,0 +1,410 @@
+{
+  "runTime": 1736858500272,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1422249,
+        "num": 1422249,
+        "word": "将门毒后",
+        "onboard_time": 1736851396,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1406129,
+        "num": 1406129,
+        "word": "为什么车厘子一个月到中国却不腐烂",
+        "onboard_time": 1736857099,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 42584,
+        "num": 931962,
+        "word": "120多项春节非遗项目集中亮相",
+        "onboard_time": 1736844558,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 788497,
+        "num": 788497,
+        "word": "女子给网友寄2箱酸奶险损失12.5万",
+        "onboard_time": 1736853198,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 611575,
+        "num": 611575,
+        "word": "1岁宝宝做胃镜取出一枚硬币",
+        "onboard_time": 1736854578,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 549084,
+        "num": 549084,
+        "word": "山姆大代购赚的不止代购费",
+        "onboard_time": 1736835499,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 543781,
+        "num": 543781,
+        "word": "菏泽牡丹卖爆了",
+        "onboard_time": 1736855779,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 451718,
+        "num": 451718,
+        "word": "霉霉今年有希望来上海办演唱会",
+        "onboard_time": 1736853138,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 405706,
+        "num": 447505,
+        "word": "金希澈残疾等级",
+        "onboard_time": 1736841318,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30696,
+        "num": 444206,
+        "word": "业主称物业骗取签名阻止业主大会",
+        "onboard_time": 1736857821,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443339,
+        "num": 443339,
+        "word": "李现否认是杨紫送的相机",
+        "onboard_time": 1736853079,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414261,
+        "num": 414261,
+        "word": "王鹤棣兑现承诺脱衣服了",
+        "onboard_time": 1736850558,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383540,
+        "num": 383540,
+        "word": "SM新女团成员Jiwoo",
+        "onboard_time": 1736857578,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 376981,
+        "num": 376981,
+        "word": "家属称景德镇车祸死者父母重度抑郁",
+        "onboard_time": 1736851038,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346764,
+        "num": 346764,
+        "word": "刘亦菲拖地挂脖高定",
+        "onboard_time": 1736852298,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 344906,
+        "num": 344906,
+        "word": "婆婆谎称儿媳生的死胎把孩子送人",
+        "onboard_time": 1736841379,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302358,
+        "num": 302358,
+        "word": "国色芳华小姨上大分",
+        "onboard_time": 1736856198,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295132,
+        "num": 295132,
+        "word": "消防栓有水我就救了一下",
+        "onboard_time": 1736851098,
+        "rank": 17,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 57165,
+        "num": 251885,
+        "word": "云南一商贩腌制毒腊肉售卖获刑",
+        "onboard_time": 1736857158,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247035,
+        "num": 247035,
+        "word": "特朗普就职典礼将安装48公里围栏",
+        "onboard_time": 1736856679,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 232114,
+        "num": 232114,
+        "word": "武艺 上个节目家没了",
+        "onboard_time": 1736846119,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214251,
+        "num": 214251,
+        "word": "美国女孩戴手铐哭求警察别弄坏手镯",
+        "onboard_time": 1736841739,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 27138,
+        "num": 208020,
+        "word": "祝绪丹说竹林四侠约定了要大步向前走",
+        "onboard_time": 1736857339,
+        "rank": 22,
+        "category": "作品衍生,剧集"
+      },
+      {
+        "raw_hot": 203580,
+        "num": 203580,
+        "word": "美国小伙狂炫中国美食胖了9斤",
+        "onboard_time": 1736846959,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12296,
+        "num": 188799,
+        "word": "樊振东说拿下胜利积累比天赋更重要",
+        "onboard_time": 1736857821,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181596,
+        "num": 181596,
+        "word": "白月梵星",
+        "onboard_time": 1736853860,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168503,
+        "num": 168503,
+        "word": "丁禹兮上一秒老公下一秒儿子",
+        "onboard_time": 1736854399,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163065,
+        "num": 163065,
+        "word": "蔡磊感谢刘强东千万资助",
+        "onboard_time": 1736849718,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 155271,
+        "num": 155271,
+        "word": "时代少年团秋日拍摄路透",
+        "onboard_time": 1736857578,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 29594,
+        "num": 155171,
+        "word": "日本司机回应两中国游客遭列车撞击",
+        "onboard_time": 1736858117,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 80246,
+        "num": 155165,
+        "word": "涿州回应学生被要求签字放弃中考",
+        "onboard_time": 1736856559,
+        "rank": 30,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 281722,
+        "num": 155165,
+        "word": "李佳琦直播间车厘子被指不新鲜",
+        "onboard_time": 1736846359,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 155165,
+        "num": 155164,
+        "word": "父亲假扮女儿网恋诈骗22万",
+        "onboard_time": 1736843899,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144600,
+        "num": 144600,
+        "word": "赵丽颖重温碧苍王飒爽英姿",
+        "onboard_time": 1736857099,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138856,
+        "num": 138856,
+        "word": "刘强东因蔡磊为意外员工孩子托底",
+        "onboard_time": 1736854399,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135254,
+        "num": 135254,
+        "word": "国色芳华播放量破10亿",
+        "onboard_time": 1736855659,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132681,
+        "num": 132681,
+        "word": "丁禹兮直播",
+        "onboard_time": 1736858359,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122442,
+        "num": 122442,
+        "word": "李昀锐诸葛玥骑马路透",
+        "onboard_time": 1736857457,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144481,
+        "num": 122060,
+        "word": "赵丽颖黑粉被强执3.8万",
+        "onboard_time": 1736855540,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120889,
+        "num": 120889,
+        "word": "Bin称自己收入属第一梯队",
+        "onboard_time": 1736857640,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120814,
+        "num": 120814,
+        "word": "小红书概念爆发",
+        "onboard_time": 1736834480,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 120218,
+        "num": 120218,
+        "word": "易烊千玺相遇总短促",
+        "onboard_time": 1736857280,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116285,
+        "num": 116285,
+        "word": "河南一男孩课堂上被同学狂扇耳光",
+        "onboard_time": 1736848217,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116194,
+        "num": 116194,
+        "word": "何惟芳蒋长扬 我清楚地看见你",
+        "onboard_time": 1736858117,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104505,
+        "num": 104505,
+        "word": "十个勤天现身央视春晚第三次联排",
+        "onboard_time": 1736847499,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102623,
+        "num": 102623,
+        "word": "驻站",
+        "onboard_time": 1736858419,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100097,
+        "num": 100097,
+        "word": "郭京飞赵今麦新剧联手除四恶",
+        "onboard_time": 1736855419,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100071,
+        "num": 100071,
+        "word": "被车撞了6天后突然去世该谁担责",
+        "onboard_time": 1736822957,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98008,
+        "num": 98008,
+        "word": "漫威女星老公家中轻生",
+        "onboard_time": 1736858479,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96686,
+        "num": 96686,
+        "word": "肖战郭靖执弓海报",
+        "onboard_time": 1736856798,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记要求把冰雪运动普及贯穿始终#"
+    }
+  }
+}
