@@ -1,6 +1,6 @@
 {
   "startTime": 1736872066671,
-  "endTime": 1736889673837,
+  "endTime": 1736890528585,
   "band_list": [
     {
       "raw_hot": 3396289,
@@ -475,20 +475,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 46779,
+      "num": 46779,
+      "word": "7岁男孩被同学掌掴致失聪",
+      "onboard_time": 1736884212,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44909,
       "num": 44909,
       "word": "武艺 上个节目家没了",
       "onboard_time": 1736846119,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 44374,
-      "num": 44374,
-      "word": "7岁男孩被同学掌掴致失聪",
-      "onboard_time": 1736884212,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 42601,
@@ -571,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21417,
+      "num": 33396,
+      "word": "拜登告别演说自夸令美国更强大",
+      "onboard_time": 1736888531,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 21052,
       "num": 570732,
       "word": "我的铁路风景",
@@ -587,28 +595,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 17695,
-      "num": 61907,
-      "word": "AG新春全员财神皮",
-      "onboard_time": 1736875454,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 15868,
-      "num": 15868,
+      "raw_hot": 17967,
+      "num": 17967,
       "word": "第1批回家的研究生高铁上做针线活",
       "onboard_time": 1736887749,
       "rank": 35,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15029,
-      "num": 33396,
-      "word": "拜登告别演说自夸令美国更强大",
-      "onboard_time": 1736888531,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 17695,
+      "num": 61907,
+      "word": "AG新春全员财神皮",
+      "onboard_time": 1736875454,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 14576,
@@ -619,7 +619,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 13240,
+      "raw_hot": 13596,
       "num": 14738,
       "word": "下一站幸福到家",
       "onboard_time": 1736883311,
@@ -640,6 +640,14 @@
       "word": "铁路人的春运仪式感",
       "onboard_time": 1736883730,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9440,
+      "num": 34095,
+      "word": "1月16日火星将迎冲日表演",
+      "onboard_time": 1736889731,
+      "rank": 9,
       "category": "民生新闻"
     }
   ],

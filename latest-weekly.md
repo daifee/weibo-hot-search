@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/12 00:25:41 ~ 2025/01/15 05:21:13
+本榜单时间：2025/01/12 00:25:41 ~ 2025/01/15 05:35:28
 </p>
 </blockquote>
 <p>
@@ -7413,6 +7413,12 @@ LGDNBW新中式适配度（热度：47835）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%237%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%90%8C%E5%AD%A6%E6%8E%8C%E6%8E%B4%E8%87%B4%E5%A4%B1%E8%81%AA%23" target="weibo">
+7岁男孩被同学掌掴致失聪（热度：46779）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%AF%BA%E5%9B%9B%E8%8E%B7KPL%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3%E5%8F%91%E8%82%B2%E8%B7%AF%23" target="weibo">
 一诺四获KPL年度最佳发育路（热度：45543）
 </a>
@@ -7439,12 +7445,6 @@ LGDNBW新中式适配度（热度：47835）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%9F%E5%AC%9B%E6%98%AF%E7%9C%9F%E7%9A%84%23" target="weibo">
 鸟嬛是真的（热度：44585）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%237%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%90%8C%E5%AD%A6%E6%8E%8C%E6%8E%B4%E8%87%B4%E5%A4%B1%E8%81%AA%23" target="weibo">
-7岁男孩被同学掌掴致失聪（热度：44374）
 </a>
 </li>
 
@@ -7905,6 +7905,12 @@ aespaSMTOWN舞台（热度：25401）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%91%8A%E5%88%AB%E6%BC%94%E8%AF%B4%E8%87%AA%E5%A4%B8%E4%BB%A4%E7%BE%8E%E5%9B%BD%E6%9B%B4%E5%BC%BA%E5%A4%A7%23" target="weibo">
+拜登告别演说自夸令美国更强大（热度：21417）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E4%BE%A7%E8%84%B8%E6%9D%80%23" target="weibo">
 张婧仪侧脸杀（热度：21385）
 </a>
@@ -8001,6 +8007,12 @@ aespaSMTOWN舞台（热度：25401）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC1%E6%89%B9%E5%9B%9E%E5%AE%B6%E7%9A%84%E7%A0%94%E7%A9%B6%E7%94%9F%E9%AB%98%E9%93%81%E4%B8%8A%E5%81%9A%E9%92%88%E7%BA%BF%E6%B4%BB%23" target="weibo">
+第1批回家的研究生高铁上做针线活（热度：17967）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8C%97%E9%A6%96%E4%B8%AA%E6%B0%91%E8%90%A5%E9%80%9A%E7%94%A8%E6%9C%BA%E5%9C%BA%E9%99%B7%E7%A0%B4%E4%BA%A7%E7%96%91%E4%BA%91%23" target="weibo">
 湖北首个民营通用机场陷破产疑云（热度：17936）
 </a>
@@ -8043,12 +8055,6 @@ AG新春全员财神皮（热度：17695）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC1%E6%89%B9%E5%9B%9E%E5%AE%B6%E7%9A%84%E7%A0%94%E7%A9%B6%E7%94%9F%E9%AB%98%E9%93%81%E4%B8%8A%E5%81%9A%E9%92%88%E7%BA%BF%E6%B4%BB%23" target="weibo">
-第1批回家的研究生高铁上做针线活（热度：15868）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E5%B7%9E%E5%90%84%E5%9C%B0124%E8%B5%B7%E5%A4%A7%E5%A4%A7%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%B1%B1%E7%81%AB%23" target="weibo">
 加州各地124起大大小小的山火（热度：15766）
 </a>
@@ -8073,12 +8079,6 @@ AG新春全员财神皮（热度：17695）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%91%8A%E5%88%AB%E6%BC%94%E8%AF%B4%E8%87%AA%E5%A4%B8%E4%BB%A4%E7%BE%8E%E5%9B%BD%E6%9B%B4%E5%BC%BA%E5%A4%A7%23" target="weibo">
-拜登告别演说自夸令美国更强大（热度：15029）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E5%8F%B0%E5%86%9B%E5%94%AE%E8%BF%99%E4%BA%9B%E7%BE%8E%E4%BC%81%E8%A2%AB%E5%88%97%E5%85%A5%E4%B8%8D%E5%8F%AF%E9%9D%A0%E5%AE%9E%E4%BD%93%E6%B8%85%E5%8D%95%23" target="weibo">
 对台军售这些美企被列入不可靠实体清单（热度：14576）
 </a>
@@ -8092,7 +8092,7 @@ AG新春全员财神皮（热度：17695）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8B%E4%B8%80%E7%AB%99%E5%B9%B8%E7%A6%8F%E5%88%B0%E5%AE%B6%23" target="weibo">
-下一站幸福到家（热度：13240）
+下一站幸福到家（热度：13596）
 </a>
 </li>
 
@@ -8189,6 +8189,12 @@ KPL梦之队巅峰之夜合体返场（热度：10353）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E5%B9%B8%E5%AD%98%E8%80%85%E4%BC%8D%E7%A7%80%E8%8B%B1%E7%A6%BB%E4%B8%96%23" target="weibo">
 南京大屠杀幸存者伍秀英离世（热度：9453）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%231%E6%9C%8816%E6%97%A5%E7%81%AB%E6%98%9F%E5%B0%86%E8%BF%8E%E5%86%B2%E6%97%A5%E8%A1%A8%E6%BC%94%23" target="weibo">
+1月16日火星将迎冲日表演（热度：9440）
 </a>
 </li>
 
