@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736868197663,
+  "endTime": 1736869041651,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -1715,6 +1715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 524407,
+      "num": 402555,
+      "word": "魏哲鸣回应和杨紫嗑瓜子cp",
+      "onboard_time": 1736866760,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 523773,
       "num": 523773,
       "word": "外籍游客在上海消费力有多猛",
@@ -2075,6 +2083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 441011,
+      "num": 441011,
+      "word": "小孩玩火5辆车被烧成空壳",
+      "onboard_time": 1736865201,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 440525,
       "num": 440525,
       "word": "加州山火烧掉一个旧金山的面积",
@@ -2203,28 +2219,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 407971,
-      "num": 407971,
-      "word": "小孩玩火5辆车被烧成空壳",
-      "onboard_time": 1736865201,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 406393,
       "num": 406393,
       "word": "常华森 骨相好皮薄馅不多",
       "onboard_time": 1736842998,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 402555,
-      "num": 402555,
-      "word": "魏哲鸣回应和杨紫嗑瓜子cp",
-      "onboard_time": 1736866760,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 402497,
@@ -2545,6 +2545,14 @@
       "onboard_time": 1736783597,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 353613,
+      "num": 353613,
+      "word": "何惟芳蒋长扬 先婚者犬也",
+      "onboard_time": 1736866999,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 352308,
@@ -3355,6 +3363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260162,
+      "num": 260162,
+      "word": "国考行测",
+      "onboard_time": 1736867720,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 259025,
       "num": 259025,
       "word": "樊振东上海瑞银活动",
@@ -3457,14 +3473,6 @@
       "onboard_time": 1736766380,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 247365,
-      "num": 247365,
-      "word": "何惟芳蒋长扬 先婚者犬也",
-      "onboard_time": 1736866999,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 247173,
@@ -4003,14 +4011,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 214515,
-      "num": 238962,
-      "word": "国考行测",
-      "onboard_time": 1736867720,
-      "rank": 24,
-      "category": "教育"
-    },
-    {
       "raw_hot": 214241,
       "num": 214241,
       "word": "4个月宝宝头发茂密仿佛开了特效",
@@ -4523,6 +4523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 198630,
+      "num": 198630,
+      "word": "白鹿敖瑞鹏送来了一个晚安",
+      "onboard_time": 1736867899,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198502,
       "num": 198502,
       "word": "LPL联赛取消赛后粉丝互动",
@@ -4545,6 +4553,14 @@
       "onboard_time": 1736755819,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 198266,
+      "num": 198266,
+      "word": "三人行",
+      "onboard_time": 1736868020,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 198231,
@@ -5243,6 +5259,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 181296,
+      "num": 181296,
+      "word": "太好了是免费外教作业有救了",
+      "onboard_time": 1736865682,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 181289,
       "num": 181289,
       "word": "宣璐领衔主演笑傲江湖",
@@ -5443,6 +5467,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 174288,
+      "num": 265506,
+      "word": "消费者称终于舍得买4J车厘子",
+      "onboard_time": 1736867480,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174157,
       "num": 174157,
       "word": "美两艘新航母将以克林顿和布什命名",
@@ -5609,6 +5641,14 @@
       "onboard_time": 1736689100,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171366,
+      "num": 171366,
+      "word": "花融",
+      "onboard_time": 1736868679,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 171219,
@@ -5795,14 +5835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166092,
-      "num": 166092,
-      "word": "消费者称终于舍得买4J车厘子",
-      "onboard_time": 1736867480,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 165588,
       "num": 165588,
       "word": "2025全年考试时间表",
@@ -5915,20 +5947,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 162843,
+      "num": 162843,
+      "word": "小红书",
+      "onboard_time": 1736868979,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 161990,
       "num": 150124,
       "word": "张远大学曾因恋爱离家出走",
       "onboard_time": 1736656820,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 161924,
-      "num": 161924,
-      "word": "白鹿敖瑞鹏送来了一个晚安",
-      "onboard_time": 1736867899,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 161365,
@@ -6249,6 +6281,14 @@
       "onboard_time": 1736653879,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 154106,
+      "num": 154106,
+      "word": "周深听到要他演戏时的表情",
+      "onboard_time": 1736868860,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 154072,
@@ -6745,14 +6785,6 @@
       "onboard_time": 1736771359,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 143400,
-      "num": 143400,
-      "word": "三人行",
-      "onboard_time": 1736868020,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 143163,
@@ -7369,14 +7401,6 @@
       "onboard_time": 1736763319,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129843,
-      "num": 129843,
-      "word": "太好了是免费外教作业有救了",
-      "onboard_time": 1736865682,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 129722,
@@ -8475,6 +8499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104601,
+      "num": 154712,
+      "word": "蒜香排骨",
+      "onboard_time": 1736868439,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 104467,
       "num": 128646,
       "word": "你是否也收到过这句你在干嘛",
@@ -8595,6 +8627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100481,
+      "num": 293173,
+      "word": "实探假装上班公司",
+      "onboard_time": 1736867061,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100097,
       "num": 100097,
       "word": "郭京飞赵今麦新剧联手除四恶",
@@ -8625,6 +8665,14 @@
       "onboard_time": 1736859259,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98601,
+      "num": 265832,
+      "word": "刘雨昕直播",
+      "onboard_time": 1736867839,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 98572,
@@ -8851,14 +8899,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 87872,
-      "num": 293173,
-      "word": "实探假装上班公司",
-      "onboard_time": 1736867061,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86461,
       "num": 104953,
       "word": "定日5.0级地震是目前最大余震",
@@ -8889,6 +8929,14 @@
       "onboard_time": 1736759600,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84355,
+      "num": 418183,
+      "word": "漂流36小时生还女孩仍向往大海",
+      "onboard_time": 1736867660,
+      "rank": 8,
+      "category": "正能量"
     },
     {
       "raw_hot": 84263,
@@ -8977,6 +9025,14 @@
       "onboard_time": 1736668580,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 80069,
+      "num": 258733,
+      "word": "医院回应5部电梯只有1部能用",
+      "onboard_time": 1736867120,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79584,
@@ -9105,14 +9161,6 @@
       "onboard_time": 1736753237,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 74238,
-      "num": 258122,
-      "word": "刘雨昕直播",
-      "onboard_time": 1736867839,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 72969,
@@ -9755,14 +9803,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 41645,
-      "num": 258733,
-      "word": "医院回应5部电梯只有1部能用",
-      "onboard_time": 1736867120,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41442,
       "num": 112363,
       "word": "狼队教练发博道歉",
@@ -9907,6 +9947,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 35047,
+      "num": 281827,
+      "word": "婆婆谎称是死胎把孩子送人或涉拐骗",
+      "onboard_time": 1736868618,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34815,
       "num": 206320,
       "word": "莫兰特最后时刻醒了",
@@ -9985,14 +10033,6 @@
       "onboard_time": 1736832138,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 31311,
-      "num": 411234,
-      "word": "漂流36小时生还女孩仍向往大海",
-      "onboard_time": 1736867660,
-      "rank": 8,
-      "category": "正能量"
     },
     {
       "raw_hot": 30813,
@@ -10265,6 +10305,14 @@
       "onboard_time": 1736681599,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 20928,
+      "num": 400447,
+      "word": "儿女有权为老人作出重大医事抉择吗",
+      "onboard_time": 1736868800,
+      "rank": 9,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 20341,

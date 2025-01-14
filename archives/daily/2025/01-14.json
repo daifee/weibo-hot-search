@@ -1,6 +1,6 @@
 {
   "startTime": 1736785781963,
-  "endTime": 1736868197663,
+  "endTime": 1736869041651,
   "band_list": [
     {
       "raw_hot": 3677184,
@@ -539,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 524407,
+      "num": 402555,
+      "word": "魏哲鸣回应和杨紫嗑瓜子cp",
+      "onboard_time": 1736866760,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 523773,
       "num": 523773,
       "word": "外籍游客在上海消费力有多猛",
@@ -675,6 +683,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 441011,
+      "num": 441011,
+      "word": "小孩玩火5辆车被烧成空壳",
+      "onboard_time": 1736865201,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 440410,
       "num": 444793,
       "word": "韩国首尔40多台车辆连环撞击",
@@ -715,14 +731,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 407971,
-      "num": 407971,
-      "word": "小孩玩火5辆车被烧成空壳",
-      "onboard_time": 1736865201,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 407487,
       "num": 407487,
       "word": "蔡明评价李小冉",
@@ -737,14 +745,6 @@
       "onboard_time": 1736842998,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 402555,
-      "num": 402555,
-      "word": "魏哲鸣回应和杨紫嗑瓜子cp",
-      "onboard_time": 1736866760,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 402497,
@@ -857,6 +857,14 @@
       "onboard_time": 1736783597,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 353613,
+      "num": 353613,
+      "word": "何惟芳蒋长扬 先婚者犬也",
+      "onboard_time": 1736866999,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 343824,
@@ -1139,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260162,
+      "num": 260162,
+      "word": "国考行测",
+      "onboard_time": 1736867720,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 253785,
       "num": 253785,
       "word": "曾黎把中国绣花鞋穿到了韩国",
@@ -1161,14 +1177,6 @@
       "onboard_time": 1736774901,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 247365,
-      "num": 247365,
-      "word": "何惟芳蒋长扬 先婚者犬也",
-      "onboard_time": 1736866999,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 247035,
@@ -1331,14 +1339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 214515,
-      "num": 238962,
-      "word": "国考行测",
-      "onboard_time": 1736867720,
-      "rank": 24,
-      "category": "教育"
-    },
-    {
       "raw_hot": 213475,
       "num": 329104,
       "word": "复兴号停车场是什么未来场面",
@@ -1419,12 +1419,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198630,
+      "num": 198630,
+      "word": "白鹿敖瑞鹏送来了一个晚安",
+      "onboard_time": 1736867899,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198494,
       "num": 198494,
       "word": "张杰演唱会大电影密钥延期",
       "onboard_time": 1736824218,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 198266,
+      "num": 198266,
+      "word": "三人行",
+      "onboard_time": 1736868020,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 198037,
@@ -1675,6 +1691,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 181296,
+      "num": 181296,
+      "word": "太好了是免费外教作业有救了",
+      "onboard_time": 1736865682,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 179846,
       "num": 179846,
       "word": "洛杉矶山火蔓延居民紧急撤离",
@@ -1753,6 +1777,14 @@
       "onboard_time": 1736848639,
       "rank": 17,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 174288,
+      "num": 265506,
+      "word": "消费者称终于舍得买4J车厘子",
+      "onboard_time": 1736867480,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174157,
@@ -1835,6 +1867,14 @@
       "category": "体育,民生新闻"
     },
     {
+      "raw_hot": 171366,
+      "num": 171366,
+      "word": "花融",
+      "onboard_time": 1736868679,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 171080,
       "num": 171080,
       "word": "除夕火车票今起可买",
@@ -1899,14 +1939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166092,
-      "num": 166092,
-      "word": "消费者称终于舍得买4J车厘子",
-      "onboard_time": 1736867480,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 165109,
       "num": 165109,
       "word": "比特币暴跌超21万人爆仓",
@@ -1947,12 +1979,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 161924,
-      "num": 161924,
-      "word": "白鹿敖瑞鹏送来了一个晚安",
-      "onboard_time": 1736867899,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 162843,
+      "num": 162843,
+      "word": "小红书",
+      "onboard_time": 1736868979,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 161724,
@@ -2049,6 +2081,14 @@
       "onboard_time": 1736838498,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154106,
+      "num": 154106,
+      "word": "周深听到要他演戏时的表情",
+      "onboard_time": 1736868860,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 153631,
@@ -2225,14 +2265,6 @@
       "onboard_time": 1736772079,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 143400,
-      "num": 143400,
-      "word": "三人行",
-      "onboard_time": 1736868020,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 143163,
@@ -2433,14 +2465,6 @@
       "onboard_time": 1736867660,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 129843,
-      "num": 129843,
-      "word": "太好了是免费外教作业有救了",
-      "onboard_time": 1736865682,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 129761,
@@ -2859,6 +2883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104601,
+      "num": 154712,
+      "word": "蒜香排骨",
+      "onboard_time": 1736868439,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 104467,
       "num": 128646,
       "word": "你是否也收到过这句你在干嘛",
@@ -2907,6 +2939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100481,
+      "num": 293173,
+      "word": "实探假装上班公司",
+      "onboard_time": 1736867061,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100281,
       "num": 100281,
       "word": "单依纯方律师声明",
@@ -2937,6 +2977,14 @@
       "onboard_time": 1736859259,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98601,
+      "num": 265832,
+      "word": "刘雨昕直播",
+      "onboard_time": 1736867839,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 98524,
@@ -3035,14 +3083,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 87872,
-      "num": 293173,
-      "word": "实探假装上班公司",
-      "onboard_time": 1736867061,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86461,
       "num": 104953,
       "word": "定日5.0级地震是目前最大余震",
@@ -3057,6 +3097,14 @@
       "onboard_time": 1736773400,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84355,
+      "num": 418183,
+      "word": "漂流36小时生还女孩仍向往大海",
+      "onboard_time": 1736867660,
+      "rank": 8,
+      "category": "正能量"
     },
     {
       "raw_hot": 83985,
@@ -3123,6 +3171,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 80069,
+      "num": 258733,
+      "word": "医院回应5部电梯只有1部能用",
+      "onboard_time": 1736867120,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78533,
       "num": 69241,
       "word": "卢昱晓爸爸夸王星越台词好",
@@ -3152,14 +3208,6 @@
       "word": "秦海璐龙须刘海",
       "onboard_time": 1736832079,
       "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 74238,
-      "num": 258122,
-      "word": "刘雨昕直播",
-      "onboard_time": 1736867839,
-      "rank": 19,
       "category": "艺人"
     },
     {
@@ -3395,14 +3443,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 41645,
-      "num": 258733,
-      "word": "医院回应5部电梯只有1部能用",
-      "onboard_time": 1736867120,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40369,
       "num": 175515,
       "word": "日本司机回应两中国游客遭列车撞击",
@@ -3451,6 +3491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 35047,
+      "num": 281827,
+      "word": "婆婆谎称是死胎把孩子送人或涉拐骗",
+      "onboard_time": 1736868618,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34505,
       "num": 34505,
       "word": "Zika好强",
@@ -3481,14 +3529,6 @@
       "onboard_time": 1736832138,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 31311,
-      "num": 411234,
-      "word": "漂流36小时生还女孩仍向往大海",
-      "onboard_time": 1736867660,
-      "rank": 8,
-      "category": "正能量"
     },
     {
       "raw_hot": 30813,
@@ -3601,6 +3641,14 @@
       "onboard_time": 1736832498,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 20928,
+      "num": 400447,
+      "word": "儿女有权为老人作出重大医事抉择吗",
+      "onboard_time": 1736868800,
+      "rank": 9,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 20341,
