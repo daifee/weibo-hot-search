@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736818706549,
+  "endTime": 1736819683066,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1592347,
+      "num": 1592347,
+      "word": "曝英伟达一半员工净资产破亿",
+      "onboard_time": 1736815280,
+      "rank": 0,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1586655,
       "num": 1586655,
       "word": "杨紫 养老剧",
@@ -177,14 +185,6 @@
       "onboard_time": 1736611943,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1524606,
-      "num": 1524606,
-      "word": "曝英伟达一半员工净资产破亿",
-      "onboard_time": 1736815280,
-      "rank": 0,
-      "category": "财经"
     },
     {
       "raw_hot": 1520474,
@@ -441,6 +441,14 @@
       "onboard_time": 1736692401,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1058579,
+      "num": 1058579,
+      "word": "王鹤棣演技",
+      "onboard_time": 1736816240,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1056877,
@@ -843,14 +851,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 730539,
-      "num": 730539,
-      "word": "王鹤棣演技",
-      "onboard_time": 1736816240,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 725301,
       "num": 725301,
       "word": "杨紫李现 纯元CP结婚",
@@ -897,6 +897,14 @@
       "onboard_time": 1736756061,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 706048,
+      "num": 442818,
+      "word": "被黄子韬选中的家庭主妇已看车",
+      "onboard_time": 1736818638,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 705892,
@@ -1419,6 +1427,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 477380,
+      "num": 477380,
+      "word": "Cat 一诺",
+      "onboard_time": 1736814979,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 475671,
       "num": 300205,
       "word": "赵丽颖说给微博贡献了微薄的热度",
@@ -1524,7 +1540,7 @@
     },
     {
       "raw_hot": 440410,
-      "num": 440410,
+      "num": 444793,
       "word": "韩国首尔40多台车辆连环撞击",
       "onboard_time": 1736811316,
       "rank": 12,
@@ -1553,14 +1569,6 @@
       "onboard_time": 1736754139,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 429929,
-      "num": 429929,
-      "word": "Cat 一诺",
-      "onboard_time": 1736814979,
-      "rank": 13,
-      "category": "电竞"
     },
     {
       "raw_hot": 427539,
@@ -2267,6 +2275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 283011,
+      "num": 283011,
+      "word": "美国星巴克不再免费开放",
+      "onboard_time": 1736818457,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 282073,
       "num": 282073,
       "word": "东部战区代表团将访问日本",
@@ -2603,6 +2619,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 241450,
+      "num": 241450,
+      "word": "樊振东说巴黎奥运会打的筋疲力尽",
+      "onboard_time": 1736818457,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 240192,
       "num": 240192,
       "word": "张凌赫默默询问工作人员金靖生了没",
@@ -2721,14 +2745,6 @@
       "onboard_time": 1736766620,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 229307,
-      "num": 229307,
-      "word": "被黄子韬选中的家庭主妇已看车",
-      "onboard_time": 1736818638,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 229223,
@@ -2947,6 +2963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216843,
+      "num": 216843,
+      "word": "日本水族馆翻车鱼因没游客自闭",
+      "onboard_time": 1736819178,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 216475,
       "num": 216475,
       "word": "中国电视剧年度盛典",
@@ -2976,6 +3000,14 @@
       "word": "4个月宝宝头发茂密仿佛开了特效",
       "onboard_time": 1736650879,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213475,
+      "num": 329104,
+      "word": "复兴号停车场是什么未来场面",
+      "onboard_time": 1736783659,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -3033,14 +3065,6 @@
       "onboard_time": 1736733198,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 210287,
-      "num": 329104,
-      "word": "复兴号停车场是什么未来场面",
-      "onboard_time": 1736783659,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 209796,
@@ -3609,6 +3633,14 @@
       "onboard_time": 1736676199,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193073,
+      "num": 214472,
+      "word": "Cat称一诺已道歉",
+      "onboard_time": 1736818457,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 192878,
@@ -4523,14 +4555,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 156625,
-      "num": 156625,
-      "word": "樊振东说巴黎奥运会打的筋疲力尽",
-      "onboard_time": 1736818457,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 156583,
       "num": 156583,
       "word": "泰国孕妇坠崖案当事人王暖暖最新发声",
@@ -4859,6 +4883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147541,
+      "num": 160320,
+      "word": "敖瑞鹏另一只手帮白鹿提鞋",
+      "onboard_time": 1736815220,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147293,
       "num": 147293,
       "word": "小乌龟有可能加重滑雪损伤",
@@ -4875,20 +4907,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146858,
+      "num": 146858,
+      "word": "王楚钦7367分继续霸榜世一",
+      "onboard_time": 1736819118,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146740,
       "num": 146740,
       "word": "张杰马来西亚演唱会",
       "onboard_time": 1736611763,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 146607,
-      "num": 146607,
-      "word": "美国星巴克不再免费开放",
-      "onboard_time": 1736818457,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 146422,
@@ -5257,14 +5289,6 @@
       "onboard_time": 1736748259,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 133827,
-      "num": 133827,
-      "word": "敖瑞鹏另一只手帮白鹿提鞋",
-      "onboard_time": 1736815220,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 133516,
@@ -5651,6 +5675,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 124504,
+      "num": 124504,
+      "word": "星巴克推出新的顾客行为准则",
+      "onboard_time": 1736819178,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124426,
       "num": 124426,
       "word": "国色芳华这部剧一定会被我盘包浆",
@@ -6035,12 +6067,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 112811,
-      "num": 112811,
-      "word": "Cat称一诺已道歉",
-      "onboard_time": 1736818457,
-      "rank": 42,
-      "category": "电竞"
+      "raw_hot": 112740,
+      "num": 112740,
+      "word": "美军改装多架大型运输机投入加州灭火",
+      "onboard_time": 1736816298,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 112590,
@@ -6081,14 +6113,6 @@
       "onboard_time": 1736712251,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 111282,
-      "num": 111282,
-      "word": "美军改装多架大型运输机投入加州灭火",
-      "onboard_time": 1736816298,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 111233,
@@ -6449,6 +6473,22 @@
       "onboard_time": 1736759178,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 93115,
+      "num": 93115,
+      "word": "日本地震留学生抱毕业论文电脑逃生",
+      "onboard_time": 1736819598,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 93095,
+      "num": 93095,
+      "word": "二旬老人看90岁青春女生自律",
+      "onboard_time": 1736819538,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 92720,
@@ -6956,7 +6996,7 @@
     },
     {
       "raw_hot": 54303,
-      "num": 842419,
+      "num": 843186,
       "word": "我国外贸含新量还在不断上升",
       "onboard_time": 1736773101,
       "rank": 2,
