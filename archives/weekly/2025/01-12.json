@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736833047698,
+  "endTime": 1736836184677,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -243,12 +243,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1459953,
+      "num": 423419,
+      "word": "黄金生育年龄",
+      "onboard_time": 1736833518,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1447679,
       "num": 1447679,
       "word": "白鹿晒微博之夜后台一些合照",
       "onboard_time": 1736610924,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1430319,
+      "num": 1430319,
+      "word": "向佐回应和郭碧婷感情",
+      "onboard_time": 1736832199,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 1421428,
@@ -683,6 +699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 907984,
+      "num": 297507,
+      "word": "王楚钦 路易威登",
+      "onboard_time": 1736835378,
+      "rank": 18,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 899500,
       "num": 517019,
       "word": "白鹿 死嘴快别笑了",
@@ -913,6 +937,14 @@
       "onboard_time": 1736769439,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 743823,
+      "num": 743823,
+      "word": "重庆文旅通报大爷救助游客遭诬陷",
+      "onboard_time": 1736832919,
+      "rank": 40,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 743773,
@@ -1155,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 657648,
+      "num": 657648,
+      "word": "在上海的韩国游客人手一斤大白兔",
+      "onboard_time": 1736830759,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 657421,
       "num": 196801,
       "word": "丁禹兮新手机强得飞起",
@@ -1299,14 +1339,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 596784,
-      "num": 596784,
-      "word": "向佐回应和郭碧婷感情",
-      "onboard_time": 1736832199,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 596185,
       "num": 596185,
       "word": "杨紫流苏旗袍",
@@ -1337,14 +1369,6 @@
       "onboard_time": 1736593888,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 576830,
-      "num": 576830,
-      "word": "在上海的韩国游客人手一斤大白兔",
-      "onboard_time": 1736830759,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 576040,
@@ -1603,6 +1627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 475426,
+      "num": 422726,
+      "word": "胡歌聊天真不把我们当外人",
+      "onboard_time": 1736832559,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 475346,
       "num": 475346,
       "word": "张碧晨说赵丽颖特别爱拍但全糊了",
@@ -1665,6 +1697,14 @@
       "onboard_time": 1736731339,
       "rank": 16,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 452207,
+      "num": 293576,
+      "word": "小红书概念爆发",
+      "onboard_time": 1736834480,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 451864,
@@ -1793,6 +1833,14 @@
       "onboard_time": 1736742440,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 424150,
+      "num": 577926,
+      "word": "拜登告别",
+      "onboard_time": 1736831599,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 418996,
@@ -2017,6 +2065,14 @@
       "onboard_time": 1736752998,
       "rank": 15,
       "category": "作品衍生,体育"
+    },
+    {
+      "raw_hot": 368970,
+      "num": 368970,
+      "word": "只有唐九洲困在原本的家庭",
+      "onboard_time": 1736832378,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 367884,
@@ -2427,6 +2483,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 300626,
+      "num": 300626,
+      "word": "王一博张小斐或演周星驰电影",
+      "onboard_time": 1736834238,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 300062,
       "num": 300062,
       "word": "999感冒灵这波暖到了我心趴上",
@@ -2593,14 +2657,6 @@
       "onboard_time": 1736748799,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 276672,
-      "num": 577926,
-      "word": "拜登告别",
-      "onboard_time": 1736831599,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 276562,
@@ -3531,6 +3587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 207354,
+      "num": 207354,
+      "word": "孟子义 来时路是荆棘更是动力",
+      "onboard_time": 1736835378,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207242,
       "num": 207242,
       "word": "微博之夜荣誉名单",
@@ -3929,14 +3993,6 @@
       "onboard_time": 1736774722,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 197492,
-      "num": 197492,
-      "word": "只有唐九洲困在原本的家庭",
-      "onboard_time": 1736832378,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 197295,
@@ -4427,6 +4483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181946,
+      "num": 453778,
+      "word": "2女子在日本遭列车撞击前监控曝光",
+      "onboard_time": 1736832618,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 181579,
       "num": 181579,
       "word": "10岁女孩俩小时被假明星骗5万元",
@@ -4537,6 +4601,14 @@
       "onboard_time": 1736747839,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 176661,
+      "num": 176661,
+      "word": "吉林大爷救助游客反遭诬陷不实",
+      "onboard_time": 1736833279,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176612,
@@ -4713,14 +4785,6 @@
       "onboard_time": 1736689100,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 171224,
-      "num": 171224,
-      "word": "胡歌聊天真不把我们当外人",
-      "onboard_time": 1736832559,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 171219,
@@ -4971,20 +5035,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 161282,
+      "num": 161282,
+      "word": "鞠婧祎不语只是一味圈粉",
+      "onboard_time": 1736833159,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161018,
       "num": 198513,
       "word": "洛杉矶市长面对质问一言不发",
       "onboard_time": 1736670620,
       "rank": 49,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 160940,
-      "num": 160940,
-      "word": "重庆文旅通报大爷救助游客遭诬陷",
-      "onboard_time": 1736832919,
-      "rank": 40,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 160907,
@@ -5067,6 +5131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158898,
+      "num": 158898,
+      "word": "蒯曼世界排名飙升26位",
+      "onboard_time": 1736834838,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158880,
       "num": 158880,
       "word": "给王鹤棣演爽了吧",
@@ -5081,6 +5153,14 @@
       "onboard_time": 1736663899,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 158270,
+      "num": 158270,
+      "word": "ZB1上海之恋",
+      "onboard_time": 1736834838,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 158074,
@@ -5195,6 +5275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155541,
+      "num": 155541,
+      "word": "上个蛇年沈马组合首次亮相春晚",
+      "onboard_time": 1736835799,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155252,
       "num": 155252,
       "word": "东京食尸鬼 金木成王",
@@ -5275,6 +5363,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 153327,
+      "num": 153327,
+      "word": "电视剧漂白",
+      "onboard_time": 1736834779,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152939,
       "num": 152939,
       "word": "载33名中国游客游艇倾覆全部获救",
@@ -5297,6 +5393,14 @@
       "onboard_time": 1736829140,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 152293,
+      "num": 152293,
+      "word": "广州市教育局回应寒假太短",
+      "onboard_time": 1736834658,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 152250,
@@ -5385,6 +5489,14 @@
       "onboard_time": 1736660659,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149673,
+      "num": 154185,
+      "word": "吴莫愁梁龙双向奔赴的病情",
+      "onboard_time": 1736835559,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 149390,
@@ -5513,6 +5625,14 @@
       "onboard_time": 1736777722,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 146292,
+      "num": 146292,
+      "word": "王曼昱回应捐赠驰援西藏",
+      "onboard_time": 1736835919,
+      "rank": 41,
+      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 145901,
@@ -5897,6 +6017,14 @@
       "onboard_time": 1736819538,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135202,
+      "num": 228805,
+      "word": "张帅晋级澳网第二轮",
+      "onboard_time": 1736835319,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 134675,
@@ -6321,6 +6449,14 @@
       "onboard_time": 1736655259,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 124765,
+      "num": 354476,
+      "word": "63岁女子两年没过科目一想退款",
+      "onboard_time": 1736834658,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124426,
@@ -7219,6 +7355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87116,
+      "num": 294096,
+      "word": "离个职竟要经过26道审批流程",
+      "onboard_time": 1736834658,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86461,
       "num": 104953,
       "word": "定日5.0级地震是目前最大余震",
@@ -7491,14 +7635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67037,
-      "num": 453778,
-      "word": "2女子在日本遭列车撞击前监控曝光",
-      "onboard_time": 1736832618,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 66614,
       "num": 76013,
       "word": "雅思组合回应永不落幕",
@@ -7625,6 +7761,14 @@
       "onboard_time": 1736799970,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 60108,
+      "num": 117778,
+      "word": "谷子经济凭什么拿捏年轻人",
+      "onboard_time": 1736834838,
+      "rank": 48,
+      "category": "财经,动漫"
     },
     {
       "raw_hot": 59773,
@@ -7801,6 +7945,14 @@
       "onboard_time": 1736602827,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 51392,
+      "num": 189989,
+      "word": "山姆大代购赚的不止代购费",
+      "onboard_time": 1736835499,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51282,
@@ -8099,6 +8251,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 37016,
+      "num": 187548,
+      "word": "异人之下之决战碧游村新浪扫楼",
+      "onboard_time": 1736836100,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 36320,
       "num": 43507,
       "word": "流感检测阳性率上升趋势减缓",
@@ -8177,6 +8337,14 @@
       "onboard_time": 1736779041,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 31598,
+      "num": 889237,
+      "word": "打击网络黑客犯罪取得显著成效",
+      "onboard_time": 1736833219,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 31507,
