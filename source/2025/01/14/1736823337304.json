@@ -1,0 +1,410 @@
+{
+  "runTime": 1736823337304,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1479550,
+        "num": 1479550,
+        "word": "王鹤棣演技",
+        "onboard_time": 1736816240,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1300392,
+        "num": 1300392,
+        "word": "春秋航空回应赴泰国飞机票不能退",
+        "onboard_time": 1736819838,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39594,
+        "num": 1151856,
+        "word": "我国外贸含新量还在不断上升",
+        "onboard_time": 1736773101,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1077472,
+        "num": 1077472,
+        "word": "日本水族馆翻车鱼因没游客自闭",
+        "onboard_time": 1736819178,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 719664,
+        "num": 719664,
+        "word": "美国星巴克不再免费开放",
+        "onboard_time": 1736818457,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1296621,
+        "num": 707913,
+        "word": "曝英伟达一半员工净资产破亿",
+        "onboard_time": 1736815280,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 589450,
+        "num": 589450,
+        "word": "杨紫流苏旗袍",
+        "onboard_time": 1736820557,
+        "rank": 6,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 556961,
+        "num": 556961,
+        "word": "一路繁花8个人只吃了700块",
+        "onboard_time": 1736786536,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 547330,
+        "num": 547330,
+        "word": "樊振东晒行李箱",
+        "onboard_time": 1736822297,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221548,
+        "num": 490856,
+        "word": "星巴克推出新的顾客行为准则",
+        "onboard_time": 1736819178,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 603721,
+        "num": 489103,
+        "word": "妻子裸死前夫家中丈夫拒付丧葬费",
+        "onboard_time": 1736777062,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 452364,
+        "num": 452364,
+        "word": "山姆回应蛋糕胚吃出白色异物",
+        "onboard_time": 1736780600,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 444018,
+        "num": 444018,
+        "word": "特鲁索娃怀孕",
+        "onboard_time": 1736810895,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 375777,
+        "num": 375777,
+        "word": "樊振东说巴黎奥运会打的筋疲力尽",
+        "onboard_time": 1736818457,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53529,
+        "num": 352068,
+        "word": "北京春运首趟列车凌晨启程",
+        "onboard_time": 1736822359,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350531,
+        "num": 350531,
+        "word": "金靖建议女孩一定要有正常的体重",
+        "onboard_time": 1736777062,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 311536,
+        "num": 311536,
+        "word": "Cat 一诺",
+        "onboard_time": 1736814979,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 240700,
+        "num": 310611,
+        "word": "朴秀荣续约SM",
+        "onboard_time": 1736822899,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221914,
+        "num": 307050,
+        "word": "敖瑞鹏另一只手帮白鹿提鞋",
+        "onboard_time": 1736815220,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119911,
+        "num": 303384,
+        "word": "王雅繁2比1邦达尔",
+        "onboard_time": 1736822837,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 398365,
+        "num": 300529,
+        "word": "进口药退出公立医院",
+        "onboard_time": 1736811196,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300282,
+        "num": 300282,
+        "word": "铁路春运首日实况直播",
+        "onboard_time": 1736820077,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274587,
+        "num": 274587,
+        "word": "尹锡悦年薪将达2.626亿韩元",
+        "onboard_time": 1736819717,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 227881,
+        "num": 227881,
+        "word": "什么水果上市就意味着快过年了",
+        "onboard_time": 1736810835,
+        "rank": 23,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 47689,
+        "num": 218901,
+        "word": "特鲁索娃曾说想生两或三个孩子",
+        "onboard_time": 1736823258,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215197,
+        "num": 215197,
+        "word": "韩国首尔40多台车辆连环撞击",
+        "onboard_time": 1736811316,
+        "rank": 25,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 198207,
+        "num": 198207,
+        "word": "川渝艺人组团回家过年",
+        "onboard_time": 1736822177,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193595,
+        "num": 193595,
+        "word": "被车撞了6天后突然去世该谁担责",
+        "onboard_time": 1736822957,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160677,
+        "num": 187002,
+        "word": "刘晓庆的手机壳",
+        "onboard_time": 1736810476,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155792,
+        "num": 186218,
+        "word": "许光汉去了柯佳嬿生日派对",
+        "onboard_time": 1736816000,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185740,
+        "num": 185740,
+        "word": "Cat称一诺已道歉",
+        "onboard_time": 1736818457,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188948,
+        "num": 185027,
+        "word": "不理解虚岁到底有什么意义",
+        "onboard_time": 1736822778,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182383,
+        "num": 182383,
+        "word": "黄牛外挂软件抢票仅需1秒",
+        "onboard_time": 1736821638,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174779,
+        "num": 174779,
+        "word": "日本地震留学生抱毕业论文电脑逃生",
+        "onboard_time": 1736819598,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 45976,
+        "num": 173392,
+        "word": "Moham怒喷OMG",
+        "onboard_time": 1736815759,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 173124,
+        "num": 173124,
+        "word": "杭州一上市公司实施4.5天工作制",
+        "onboard_time": 1736822117,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172638,
+        "num": 172638,
+        "word": "复兴号停车场是什么未来场面",
+        "onboard_time": 1736783659,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168017,
+        "num": 168017,
+        "word": "韩国两个被弹劾总统都涨工资了",
+        "onboard_time": 1736814319,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158557,
+        "num": 158557,
+        "word": "樊振东用巧克力球拍打球",
+        "onboard_time": 1736813598,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145967,
+        "num": 145967,
+        "word": "男子当街家暴被女生隔空制止",
+        "onboard_time": 1736813119,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143163,
+        "num": 143163,
+        "word": "白鹿敖瑞鹏二搭看看实力",
+        "onboard_time": 1736821038,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142613,
+        "num": 142613,
+        "word": "比特币暴跌超21万人爆仓",
+        "onboard_time": 1736821698,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139792,
+        "num": 139792,
+        "word": "徐克谈对肖战的看法",
+        "onboard_time": 1736814681,
+        "rank": 42,
+        "category": "电影,艺人"
+      },
+      {
+        "raw_hot": 135846,
+        "num": 135846,
+        "word": "二旬老人看90岁青春女生自律",
+        "onboard_time": 1736819538,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130272,
+        "num": 130272,
+        "word": "2025春运开启",
+        "onboard_time": 1736817677,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123694,
+        "num": 123694,
+        "word": "终于知道早读班主任为啥用书挡脸了",
+        "onboard_time": 1736810356,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122905,
+        "num": 122905,
+        "word": "王楚钦7367分继续霸榜世一",
+        "onboard_time": 1736819118,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121917,
+        "num": 121917,
+        "word": "老板开店一个月金毛来吃了半个月",
+        "onboard_time": 1736823319,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121445,
+        "num": 121445,
+        "word": "上班给人一种永远毕不了业的感觉",
+        "onboard_time": 1736821398,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121235,
+        "num": 121235,
+        "word": "东南西北中陆地航母震撼集结",
+        "onboard_time": 1736820136,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见格林纳达总理米切尔#"
+    }
+  }
+}
