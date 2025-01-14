@@ -1,10 +1,10 @@
 {
   "startTime": 1736872066671,
-  "endTime": 1736872066671,
+  "endTime": 1736872975869,
   "band_list": [
     {
-      "raw_hot": 3360656,
-      "num": 3360656,
+      "raw_hot": 3396289,
+      "num": 3396289,
       "word": "小红书",
       "onboard_time": 1736868979,
       "rank": 0,
@@ -19,8 +19,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 530987,
-      "num": 530987,
+      "raw_hot": 565641,
+      "num": 565641,
       "word": "婆婆谎称是死胎把孩子送人或涉拐骗",
       "onboard_time": 1736868618,
       "rank": 3,
@@ -59,6 +59,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 255996,
+      "num": 255996,
+      "word": "国考分数线",
+      "onboard_time": 1736869218,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
       "raw_hot": 251573,
       "num": 251573,
       "word": "何惟芳蒋长扬 先婚者犬也",
@@ -83,20 +91,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 232874,
-      "num": 232874,
-      "word": "国考分数线",
-      "onboard_time": 1736869218,
-      "rank": 12,
-      "category": "教育"
-    },
-    {
       "raw_hot": 231120,
       "num": 247599,
       "word": "小孩玩火5辆车被烧成空壳",
       "onboard_time": 1736865201,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216846,
+      "num": 216846,
+      "word": "泰国普吉岛1名中国游客死亡",
+      "onboard_time": 1736870838,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 214136,
@@ -107,20 +115,36 @@
       "category": "教育"
     },
     {
-      "raw_hot": 208642,
-      "num": 208642,
-      "word": "泰国普吉岛1名中国游客死亡",
-      "onboard_time": 1736870838,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 207875,
       "num": 207875,
       "word": "山姆大代购赚的不止代购费",
       "onboard_time": 1736835499,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196694,
+      "num": 196694,
+      "word": "花融",
+      "onboard_time": 1736868679,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 192531,
+      "num": 192531,
+      "word": "李沁穿了应援色高定走红毯",
+      "onboard_time": 1736870358,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 188120,
+      "num": 122189,
+      "word": "可是为什么我插针都插不入",
+      "onboard_time": 1736871436,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 185379,
@@ -139,20 +163,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179282,
-      "num": 179282,
-      "word": "花融",
-      "onboard_time": 1736868679,
-      "rank": 17,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 174160,
-      "num": 174160,
-      "word": "李沁穿了应援色高定走红毯",
-      "onboard_time": 1736870358,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 166378,
+      "num": 166378,
+      "word": "白鹿敖瑞鹏送来了一个晚安",
+      "onboard_time": 1736867899,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 162251,
@@ -177,14 +193,6 @@
       "onboard_time": 1736869938,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147312,
-      "num": 147312,
-      "word": "白鹿敖瑞鹏送来了一个晚安",
-      "onboard_time": 1736867899,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 144642,
@@ -227,14 +235,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 122189,
-      "num": 122189,
-      "word": "可是为什么我插针都插不入",
-      "onboard_time": 1736871436,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 117736,
       "num": 117736,
       "word": "女星因老公去世删光社交动态",
@@ -248,6 +248,14 @@
       "word": "女子给网友寄2箱酸奶险损失12.5万",
       "onboard_time": 1736853198,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101657,
+      "num": 163636,
+      "word": "演唱会黄牛用一面手机墙抢票",
+      "onboard_time": 1736866460,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -305,14 +313,6 @@
       "onboard_time": 1736858359,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 87730,
-      "num": 163636,
-      "word": "演唱会黄牛用一面手机墙抢票",
-      "onboard_time": 1736866460,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86834,
@@ -387,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 63106,
+      "num": 63106,
+      "word": "刘强东因蔡磊为意外员工孩子托底",
+      "onboard_time": 1736854399,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63011,
       "num": 63011,
       "word": "陈宥维谈做综艺节目MC",
@@ -395,11 +403,35 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57337,
+      "num": 114790,
+      "word": "钎城跳APT",
+      "onboard_time": 1736869518,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 29775,
+      "num": 102889,
+      "word": "再将7家美企列入不可靠实体清单",
+      "onboard_time": 1736872936,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21052,
       "num": 570732,
       "word": "我的铁路风景",
       "onboard_time": 1736859199,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12422,
+      "num": 87197,
+      "word": "被撞游客家属抵日收集现场证据",
+      "onboard_time": 1736872875,
+      "rank": 35,
       "category": "民生新闻"
     }
   ],
