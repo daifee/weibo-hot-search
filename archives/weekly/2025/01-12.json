@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736847386558,
+  "endTime": 1736850176160,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -779,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 888668,
+      "num": 888668,
+      "word": "父亲假扮女儿网恋诈骗22万",
+      "onboard_time": 1736843899,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 888159,
       "num": 915039,
       "word": "山姆回应蛋糕胚吃出白色异物",
@@ -971,14 +979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 762185,
-      "num": 762185,
-      "word": "父亲假扮女儿网恋诈骗22万",
-      "onboard_time": 1736843899,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 760025,
       "num": 760025,
       "word": "肖战喊庄达菲庄庄",
@@ -1025,6 +1025,14 @@
       "onboard_time": 1736828539,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 738768,
+      "num": 738768,
+      "word": "美国小伙狂炫中国美食胖了9斤",
+      "onboard_time": 1736846959,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 732967,
@@ -1315,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 639425,
+      "num": 639425,
+      "word": "武艺 上个节目家没了",
+      "onboard_time": 1736846119,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 635660,
       "num": 379397,
       "word": "李冰冰今年跟黄晓明捂嘴说话",
@@ -1489,6 +1505,14 @@
       "onboard_time": 1736837238,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 563695,
+      "num": 563695,
+      "word": "李佳琦直播间车厘子被指不新鲜",
+      "onboard_time": 1736846359,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 560512,
@@ -1905,6 +1929,14 @@
       "onboard_time": 1736656820,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 435184,
+      "num": 290897,
+      "word": "祝绪丹回应和丁禹兮合拍哭了",
+      "onboard_time": 1736847379,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 434947,
@@ -2715,14 +2747,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 296829,
-      "num": 235742,
-      "word": "武艺 上个节目家没了",
-      "onboard_time": 1736846119,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 296456,
       "num": 296456,
       "word": "不理解虚岁到底有什么意义",
@@ -3089,6 +3113,14 @@
       "onboard_time": 1736657659,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 256127,
+      "num": 256127,
+      "word": "网购正品卫生巾疑现不明爬虫",
+      "onboard_time": 1736847499,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 254260,
@@ -4267,6 +4299,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197117,
+      "num": 197117,
+      "word": "王鹤棣男模身材",
+      "onboard_time": 1736849418,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 197052,
+      "num": 197052,
+      "word": "十个勤天现身央视春晚第三次联排",
+      "onboard_time": 1736847499,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196992,
       "num": 196992,
       "word": "张康乐马柏全 费加罗",
@@ -4931,6 +4979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 176613,
+      "num": 176613,
+      "word": "央视剧晚盛典之路",
+      "onboard_time": 1736850138,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176612,
       "num": 176612,
       "word": "白月梵星台词含金量",
@@ -5387,20 +5443,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163436,
+      "num": 163436,
+      "word": "白鹿 今天加更喔",
+      "onboard_time": 1736848519,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162926,
       "num": 144982,
       "word": "摄像大哥一顿蛄蛹努力拍周深",
       "onboard_time": 1736656459,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 162073,
-      "num": 162073,
-      "word": "美国小伙狂炫中国美食胖了9斤",
-      "onboard_time": 1736846959,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 161990,
@@ -5603,6 +5659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 157178,
+      "num": 157178,
+      "word": "蔡磊感谢刘强东千万资助",
+      "onboard_time": 1736849718,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 156583,
       "num": 156583,
       "word": "泰国孕妇坠崖案当事人王暖暖最新发声",
@@ -5672,6 +5736,14 @@
       "word": "代购是否损害办卡人利益山姆回应",
       "onboard_time": 1736838498,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154761,
+      "num": 148969,
+      "word": "河南一男孩课堂上被同学狂扇耳光",
+      "onboard_time": 1736848217,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -5825,6 +5897,14 @@
       "onboard_time": 1736845997,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151352,
+      "num": 151352,
+      "word": "常华森 怕鬼但有礼貌",
+      "onboard_time": 1736849239,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 150813,
@@ -6435,6 +6515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134728,
+      "num": 178122,
+      "word": "祝绪丹设定的竹林四侠二搭",
+      "onboard_time": 1736848819,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 134675,
       "num": 134675,
       "word": "井胧给井迪紧急形象公关",
@@ -6457,6 +6545,14 @@
       "onboard_time": 1736732959,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 133932,
+      "num": 133932,
+      "word": "吉林市文旅回应救助事件被指有出入",
+      "onboard_time": 1736849538,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133881,
@@ -6753,14 +6849,6 @@
       "onboard_time": 1736811437,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127969,
-      "num": 308260,
-      "word": "李佳琦直播间车厘子被指不新鲜",
-      "onboard_time": 1736846359,
-      "rank": 19,
-      "category": "网红"
     },
     {
       "raw_hot": 127944,
@@ -7395,6 +7483,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 112415,
+      "num": 112415,
+      "word": "钎城新中式少年感",
+      "onboard_time": 1736849059,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112274,
       "num": 252805,
       "word": "Cat开直播回应",
@@ -7443,12 +7539,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111070,
+      "num": 111070,
+      "word": "没有一个老外学多音字是不崩溃的",
+      "onboard_time": 1736849659,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 110685,
       "num": 121557,
       "word": "澳网王欣瑜止步首轮",
       "onboard_time": 1736672539,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110128,
+      "num": 253528,
+      "word": "执法人员拿走商品未付钱涉事单位回应",
+      "onboard_time": 1736848639,
+      "rank": 17,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 110022,
@@ -7571,6 +7683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105288,
+      "num": 293466,
+      "word": "春晚暖心MV住在心里的人",
+      "onboard_time": 1736848578,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105026,
       "num": 105026,
       "word": "杨紫实况记录",
@@ -7604,7 +7724,7 @@
     },
     {
       "raw_hot": 104316,
-      "num": 210626,
+      "num": 250506,
       "word": "张新成问周深唱歌会破音吗",
       "onboard_time": 1736846959,
       "rank": 28,
@@ -7801,6 +7921,14 @@
       "onboard_time": 1736751318,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94414,
+      "num": 185915,
+      "word": "古偶剧的人气被杨紫救回来了",
+      "onboard_time": 1736849779,
+      "rank": 27,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 93742,
@@ -8139,6 +8267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 71924,
+      "num": 257164,
+      "word": "小鹿称女性幽默会消减性感",
+      "onboard_time": 1736849239,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71776,
       "num": 71776,
       "word": "虞书欣这样的朋友",
@@ -8417,6 +8553,14 @@
       "onboard_time": 1736711051,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 54706,
+      "num": 184823,
+      "word": "蛟龙行动从零打造核潜艇",
+      "onboard_time": 1736850138,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 54303,
@@ -8721,6 +8865,14 @@
       "onboard_time": 1736587407,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 41825,
+      "num": 182518,
+      "word": "KPL梦之队游船大赏",
+      "onboard_time": 1736850138,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 41442,
@@ -9203,6 +9355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19853,
+      "num": 251112,
+      "word": "加拿大准备从美购买更多商品",
+      "onboard_time": 1736849178,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19737,
       "num": 39446,
       "word": "王暖暖回应离婚案无法开庭原因",
@@ -9257,6 +9417,14 @@
       "onboard_time": 1736774059,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 17780,
+      "num": 181260,
+      "word": "秦彻 在你身上画小猫",
+      "onboard_time": 1736845758,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 17570,

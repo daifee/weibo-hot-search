@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/14 17:36:26
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/14 18:22:56
 </p>
 </blockquote>
 <p>
@@ -3207,6 +3207,12 @@ A股（热度：927066）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%81%87%E6%89%AE%E5%A5%B3%E5%84%BF%E7%BD%91%E6%81%8B%E8%AF%88%E9%AA%9722%E4%B8%87%23" target="weibo">
+父亲假扮女儿网恋诈骗22万（热度：888668）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E5%9B%9E%E5%BA%94%E8%9B%8B%E7%B3%95%E8%83%9A%E5%90%83%E5%87%BA%E7%99%BD%E8%89%B2%E5%BC%82%E7%89%A9%23" target="weibo">
 山姆回应蛋糕胚吃出白色异物（热度：888159）
 </a>
@@ -3963,12 +3969,6 @@ GMM（热度：773720）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%81%87%E6%89%AE%E5%A5%B3%E5%84%BF%E7%BD%91%E6%81%8B%E8%AF%88%E9%AA%9722%E4%B8%87%23" target="weibo">
-父亲假扮女儿网恋诈骗22万（热度：762185）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%A9%BA%E9%9A%BE179%E5%85%B7%E9%81%97%E4%BD%93%E4%BB%855%E5%85%B7%E5%AE%8C%E5%A5%BD%E6%97%A0%E6%8D%9F%23" target="weibo">
 韩国空难179具遗体仅5具完好无损（热度：762160）
 </a>
@@ -4115,6 +4115,12 @@ SM新女团 SMTOWN压轴（热度：743773）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%8D%E5%A9%9A%E5%85%83%E5%B9%B4%23" target="weibo">
 复婚元年（热度：739954）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B0%8F%E4%BC%99%E7%8B%82%E7%82%AB%E4%B8%AD%E5%9B%BD%E7%BE%8E%E9%A3%9F%E8%83%96%E4%BA%869%E6%96%A4%23" target="weibo">
+美国小伙狂炫中国美食胖了9斤（热度：738768）
 </a>
 </li>
 
@@ -4971,6 +4977,12 @@ SM新男团（热度：642706）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E8%89%BA%20%E4%B8%8A%E4%B8%AA%E8%8A%82%E7%9B%AE%E5%AE%B6%E6%B2%A1%E4%BA%86%23" target="weibo">
+武艺 上个节目家没了（热度：639425）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%835%E6%96%A4%E8%BD%A6%E5%8E%98%E5%AD%90%E5%90%8E%E5%8F%91%E9%AB%98%E7%83%A7%23" target="weibo">
 女子吃5斤车厘子后发高烧（热度：639245）
 </a>
@@ -5697,6 +5709,12 @@ A50（热度：572477）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E8%BD%A6%E5%8E%98%E5%AD%90%E8%A2%AB%E6%8C%87%E4%B8%8D%E6%96%B0%E9%B2%9C%23" target="weibo">
+李佳琦直播间车厘子被指不新鲜（热度：563695）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E4%BA%94%E6%9D%A1%E4%BA%BA%E4%B9%B0%E8%A1%A3%E6%9C%8D%E8%A1%A8%E6%BC%94%E5%90%8E%E9%80%80%E8%B4%A7%23" target="weibo">
 曝五条人买衣服表演后退货（热度：561486）
 </a>
@@ -5993,24 +6011,6 @@ A50（热度：572477）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E6%B5%81%E9%80%9A%E5%B8%B8%E5%85%A8%E8%BA%AB%E7%97%87%E7%8A%B6%E6%AF%94%E8%BE%83%E6%98%8E%E6%98%BE%23" target="weibo">
 甲流通常全身症状比较明显（热度：530858）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%8D%90%E8%B5%A0%E9%A9%B0%E6%8F%B4%E8%A5%BF%E8%97%8F%23" target="weibo">
-肖战捐赠驰援西藏（热度：530790）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%84%96%E9%A2%88%E9%95%BF%E7%96%A3%E6%98%AF%E6%84%9F%E6%9F%93HPV%E4%BA%86%E5%90%97%23" target="weibo">
-脖颈长疣是感染HPV了吗（热度：529423）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E7%94%A8%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%BA%AB%E4%BB%BD%E8%AF%81%E5%8F%B7%E5%8F%91%E7%BA%A2%E5%8C%85%E5%90%8E%E8%87%B4%E6%AD%89%23" target="weibo">
-网友用樊振东身份证号发红包后致歉（热度：526354）
 </a>
 </li>
 
