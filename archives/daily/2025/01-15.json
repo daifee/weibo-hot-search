@@ -1,6 +1,6 @@
 {
   "startTime": 1736872066671,
-  "endTime": 1736872975869,
+  "endTime": 1736875154933,
   "band_list": [
     {
       "raw_hot": 3396289,
@@ -33,6 +33,14 @@
       "onboard_time": 1736851396,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 370319,
+      "num": 140420,
+      "word": "可是为什么我插针都插不入",
+      "onboard_time": 1736871436,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 311189,
@@ -139,14 +147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188120,
-      "num": 122189,
-      "word": "可是为什么我插针都插不入",
-      "onboard_time": 1736871436,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 185379,
       "num": 163146,
       "word": "一觉醒来小红书被外国人占领了",
@@ -219,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131293,
+      "num": 140425,
+      "word": "外交部再次回应中国游热潮",
+      "onboard_time": 1736874134,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 129349,
       "num": 129349,
       "word": "家属称景德镇车祸死者父母重度抑郁",
@@ -289,6 +297,14 @@
       "onboard_time": 1736853138,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 93462,
+      "num": 93462,
+      "word": "被撞游客家属抵日收集现场证据",
+      "onboard_time": 1736872875,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91760,
@@ -371,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73999,
+      "num": 73999,
+      "word": "宋慧乔超短发造型",
+      "onboard_time": 1736874434,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70636,
       "num": 70636,
       "word": "多位博主实探中国游客在日被撞现场",
@@ -403,12 +427,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61479,
+      "num": 61479,
+      "word": "李昀锐冰湖重生高马尾骑马路透",
+      "onboard_time": 1736873595,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 57337,
       "num": 114790,
       "word": "钎城跳APT",
       "onboard_time": 1736869518,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 44909,
+      "num": 44909,
+      "word": "武艺 上个节目家没了",
+      "onboard_time": 1736846119,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 37892,
+      "num": 37892,
+      "word": "5种好心态助你远离内耗",
+      "onboard_time": 1736875094,
+      "rank": 49,
+      "category": "情感,母婴育儿"
     },
     {
       "raw_hot": 29775,
@@ -419,25 +467,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24117,
+      "num": 73389,
+      "word": "陈梦生日前一天解锁新身份",
+      "onboard_time": 1736861960,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 21052,
       "num": 570732,
       "word": "我的铁路风景",
       "onboard_time": 1736859199,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12422,
-      "num": 87197,
-      "word": "被撞游客家属抵日收集现场证据",
-      "onboard_time": 1736872875,
-      "rank": 35,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#习近平向黎巴嫩新任总统致贺电#"
+    },
+    {
+      "word": "#把群众冰雪运动热情保持下去#"
     }
   ]
 }
