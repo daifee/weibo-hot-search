@@ -1,6 +1,6 @@
 {
   "startTime": 1736872066671,
-  "endTime": 1736893246157,
+  "endTime": 1736894264135,
   "band_list": [
     {
       "raw_hot": 3396289,
@@ -331,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87302,
+      "num": 87302,
+      "word": "小鹿称北京就是个该吃苦的城市",
+      "onboard_time": 1736885712,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86834,
       "num": 86834,
       "word": "李现否认是杨紫送的相机",
@@ -345,6 +353,14 @@
       "onboard_time": 1736876533,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83175,
+      "num": 83175,
+      "word": "向佐自曝小学时因父母身份被霸凌",
+      "onboard_time": 1736892131,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 82929,
@@ -385,14 +401,6 @@
       "onboard_time": 1736870657,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 76370,
-      "num": 76370,
-      "word": "小鹿称北京就是个该吃苦的城市",
-      "onboard_time": 1736885712,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 75628,
@@ -475,8 +483,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 46779,
-      "num": 46779,
+      "raw_hot": 50421,
+      "num": 50421,
       "word": "7岁男孩被同学掌掴致失聪",
       "onboard_time": 1736884212,
       "rank": 17,
@@ -555,6 +563,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 24949,
+      "num": 49555,
+      "word": "国色芳华5步做出牡丹香粉",
+      "onboard_time": 1736892191,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 24117,
       "num": 73389,
       "word": "陈梦生日前一天解锁新身份",
@@ -563,11 +579,27 @@
       "category": "体育"
     },
     {
-      "raw_hot": 22271,
-      "num": 22271,
+      "raw_hot": 23629,
+      "num": 23629,
       "word": "第1批回家的研究生高铁上做针线活",
       "onboard_time": 1736887749,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23377,
+      "num": 23377,
+      "word": "儿童感染甲流为何应慎用镇咳药",
+      "onboard_time": 1736893092,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 22212,
+      "num": 38456,
+      "word": "努力就是卷吗",
+      "onboard_time": 1736881332,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -585,14 +617,6 @@
       "onboard_time": 1736888531,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 21626,
-      "num": 38456,
-      "word": "努力就是卷吗",
-      "onboard_time": 1736881332,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21052,
@@ -619,14 +643,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 15396,
-      "num": 18565,
-      "word": "儿童感染甲流为何应慎用镇咳药",
-      "onboard_time": 1736893092,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 14576,
       "num": 76359,
       "word": "对台军售这些美企被列入不可靠实体清单",
@@ -641,14 +657,6 @@
       "onboard_time": 1736883311,
       "rank": 47,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 12213,
-      "num": 49555,
-      "word": "国色芳华5步做出牡丹香粉",
-      "onboard_time": 1736892191,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 11716,
