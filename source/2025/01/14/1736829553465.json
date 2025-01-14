@@ -1,0 +1,410 @@
+{
+  "runTime": 1736829553465,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2007502,
+        "num": 2007502,
+        "word": "被车撞了6天后突然去世该谁担责",
+        "onboard_time": 1736822957,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1796175,
+        "num": 1796175,
+        "word": "100多枚巴黎奥运会奖牌被退回",
+        "onboard_time": 1736826199,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53374,
+        "num": 1250388,
+        "word": "刻在DNA里的春节仪式感",
+        "onboard_time": 1736826619,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1135847,
+        "num": 1135847,
+        "word": "富士康被爆停派中国大陆员工",
+        "onboard_time": 1736824278,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 876451,
+        "num": 876451,
+        "word": "金晨 90后女演员单片票房TOP1",
+        "onboard_time": 1736824458,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 879986,
+        "num": 818209,
+        "word": "曝英伟达一半员工净资产破亿",
+        "onboard_time": 1736815280,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 660499,
+        "num": 660499,
+        "word": "黄子韬掉粉已超400万",
+        "onboard_time": 1736828300,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 652597,
+        "num": 652597,
+        "word": "王鹤棣拍这里时候才24岁",
+        "onboard_time": 1736824878,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 532993,
+        "num": 532993,
+        "word": "刘耀文告黑将开庭",
+        "onboard_time": 1736825659,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477179,
+        "num": 477179,
+        "word": "特鲁索娃怀孕",
+        "onboard_time": 1736810895,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 496294,
+        "num": 473825,
+        "word": "李昀锐特邀友情出演",
+        "onboard_time": 1736823618,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 447335,
+        "num": 447335,
+        "word": "樊振东晒行李箱",
+        "onboard_time": 1736822297,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 426796,
+        "num": 426796,
+        "word": "日本水族馆翻车鱼因没游客自闭",
+        "onboard_time": 1736819178,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 286849,
+        "num": 406786,
+        "word": "买了3年万元重疾险患肺癌遭拒赔",
+        "onboard_time": 1736824038,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87079,
+        "num": 404086,
+        "word": "长治市妇幼保健院回应萝卜岗质疑",
+        "onboard_time": 1736829260,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 402497,
+        "num": 402497,
+        "word": "加沙孤儿说希望导弹击中我",
+        "onboard_time": 1736827220,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 331797,
+        "num": 331797,
+        "word": "一路繁花8个人只吃了700块",
+        "onboard_time": 1736786536,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330082,
+        "num": 330082,
+        "word": "白鹿敖瑞鹏把cp粉钓成翘嘴了",
+        "onboard_time": 1736826439,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314790,
+        "num": 314790,
+        "word": "赵丽颖新蜡像",
+        "onboard_time": 1736828660,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27868,
+        "num": 299829,
+        "word": "日本气象厅提醒民众一周内或再强震",
+        "onboard_time": 1736829198,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 465401,
+        "num": 298769,
+        "word": "幸好韩国人只是说上海街头没有豪车",
+        "onboard_time": 1736824579,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357925,
+        "num": 296622,
+        "word": "车厘子快比草莓便宜了",
+        "onboard_time": 1736828660,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 287574,
+        "num": 287574,
+        "word": "山姆回应蛋糕胚吃出白色异物",
+        "onboard_time": 1736780600,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275657,
+        "num": 275657,
+        "word": "张杰感谢Lucy小姐唐嫣",
+        "onboard_time": 1736828779,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 270691,
+        "num": 270691,
+        "word": "尹锡悦年薪将达2.626亿韩元",
+        "onboard_time": 1736819717,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 268481,
+        "num": 268481,
+        "word": "王鹤棣演技",
+        "onboard_time": 1736816240,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260923,
+        "num": 260923,
+        "word": "上海月租3500的房子",
+        "onboard_time": 1736825899,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 253308,
+        "num": 253308,
+        "word": "女子把男朋友的求婚戒指咬断了",
+        "onboard_time": 1736823498,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29847,
+        "num": 246954,
+        "word": "大奉打更人北美新加坡等多地收视领跑",
+        "onboard_time": 1736828718,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147404,
+        "num": 245108,
+        "word": "00花的野心都在眼睛里了",
+        "onboard_time": 1736829439,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 387500,
+        "num": 245009,
+        "word": "她的同学们根本不懂她有多强",
+        "onboard_time": 1736828718,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 244351,
+        "num": 244351,
+        "word": "两中国游客遭列车撞击前监控曝光",
+        "onboard_time": 1736828539,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 187710,
+        "num": 238519,
+        "word": "张杰感谢时团弟弟",
+        "onboard_time": 1736828060,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181470,
+        "num": 236835,
+        "word": "美国消防员一边灭火一边哄狗",
+        "onboard_time": 1736827700,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 236409,
+        "num": 236409,
+        "word": "妻子裸死前夫家中丈夫拒付丧葬费",
+        "onboard_time": 1736777062,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234065,
+        "num": 234065,
+        "word": "曹恩齐你要不喝点药调理一下吧",
+        "onboard_time": 1736827278,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232549,
+        "num": 232549,
+        "word": "不理解虚岁到底有什么意义",
+        "onboard_time": 1736822778,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224236,
+        "num": 224236,
+        "word": "严屹宽天涯四美20年后成喜人",
+        "onboard_time": 1736828779,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205609,
+        "num": 205609,
+        "word": "美国星巴克不再免费开放",
+        "onboard_time": 1736818457,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 195371,
+        "num": 195371,
+        "word": "临近春节的归意有多浓",
+        "onboard_time": 1736828660,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189747,
+        "num": 189747,
+        "word": "奇迹暖暖新PV",
+        "onboard_time": 1736828180,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183328,
+        "num": 183328,
+        "word": "我把编制看得太重把自己看太轻了",
+        "onboard_time": 1736829380,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177607,
+        "num": 177607,
+        "word": "寒假来临中小学生成电诈重点目标",
+        "onboard_time": 1736824158,
+        "rank": 42,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 168662,
+        "num": 168662,
+        "word": "芳芳醉酒 扬扬背回蒋府",
+        "onboard_time": 1736827040,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168660,
+        "num": 168660,
+        "word": "川渝艺人组团回家过年",
+        "onboard_time": 1736822177,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167232,
+        "num": 167232,
+        "word": "10岁女孩俩小时被假明星骗5万元",
+        "onboard_time": 1736827159,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165716,
+        "num": 165716,
+        "word": "Cat 一诺",
+        "onboard_time": 1736814979,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164087,
+        "num": 164087,
+        "word": "李现微指破2.8亿",
+        "onboard_time": 1736829260,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160038,
+        "num": 160038,
+        "word": "周深唱出丁达尔效应",
+        "onboard_time": 1736825238,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152360,
+        "num": 152360,
+        "word": "异人之下2五大细节升级",
+        "onboard_time": 1736829140,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记要求把冰雪运动普及贯穿始终#"
+    }
+  }
+}
