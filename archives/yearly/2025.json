@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736861138730,
+  "endTime": 1736861850413,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -347,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3677184,
+      "num": 3677184,
+      "word": "国考成绩",
+      "onboard_time": 1736860218,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 3638223,
       "num": 3638223,
       "word": "沈腾偷吃饼干",
@@ -409,14 +417,6 @@
       "onboard_time": 1736134101,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3281445,
-      "num": 3281445,
-      "word": "国考成绩",
-      "onboard_time": 1736860218,
-      "rank": 0,
-      "category": "教育"
     },
     {
       "raw_hot": 3087284,
