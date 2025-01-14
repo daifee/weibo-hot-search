@@ -1,6 +1,6 @@
 {
   "startTime": 1736785781963,
-  "endTime": 1736829553465,
+  "endTime": 1736832051132,
   "band_list": [
     {
       "raw_hot": 2220278,
@@ -11,8 +11,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1796175,
-      "num": 1796175,
+      "raw_hot": 1846470,
+      "num": 1846470,
       "word": "100多枚巴黎奥运会奖牌被退回",
       "onboard_time": 1736826199,
       "rank": 1,
@@ -57,6 +57,22 @@
       "onboard_time": 1736824278,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1190304,
+      "num": 1190304,
+      "word": "黄子韬掉粉已超400万",
+      "onboard_time": 1736828300,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1173804,
+      "num": 1173804,
+      "word": "车厘子快比草莓便宜了",
+      "onboard_time": 1736828660,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 1077472,
@@ -112,6 +128,14 @@
       "word": "美国星巴克不再免费开放",
       "onboard_time": 1736818457,
       "rank": 32,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 740079,
+      "num": 740079,
+      "word": "两中国游客遭列车撞击前监控曝光",
+      "onboard_time": 1736828539,
+      "rank": 31,
       "category": "海外新闻"
     },
     {
@@ -171,14 +195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 660499,
-      "num": 660499,
-      "word": "黄子韬掉粉已超400万",
-      "onboard_time": 1736828300,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 622975,
       "num": 622975,
       "word": "蔡磊身体机能断崖式下降",
@@ -219,12 +235,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 499276,
+      "num": 499276,
+      "word": "宋慧乔拍蓝色生死恋曾连续三天没洗澡",
+      "onboard_time": 1736829560,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 477380,
       "num": 477380,
       "word": "Cat 一诺",
       "onboard_time": 1736814979,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 468898,
+      "num": 468898,
+      "word": "她的同学们根本不懂她有多强",
+      "onboard_time": 1736828718,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 468545,
@@ -236,10 +268,18 @@
     },
     {
       "raw_hot": 465401,
-      "num": 311905,
+      "num": 321791,
       "word": "幸好韩国人只是说上海街头没有豪车",
       "onboard_time": 1736824579,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 463542,
+      "num": 463542,
+      "word": "我把编制看得太重把自己看太轻了",
+      "onboard_time": 1736829380,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -283,20 +323,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 393860,
+      "num": 404086,
+      "word": "长治市妇幼保健院回应萝卜岗质疑",
+      "onboard_time": 1736829260,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 389937,
+      "num": 389937,
+      "word": "张碧晨说赵丽颖特别爱拍但全糊了",
+      "onboard_time": 1736830819,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 389911,
       "num": 389911,
       "word": "日本地震",
       "onboard_time": 1736772019,
       "rank": 7,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 387500,
-      "num": 259689,
-      "word": "她的同学们根本不懂她有多强",
-      "onboard_time": 1736828718,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 381183,
@@ -323,12 +371,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 357925,
-      "num": 296622,
-      "word": "车厘子快比草莓便宜了",
+      "raw_hot": 356629,
+      "num": 322960,
+      "word": "赵丽颖新蜡像",
       "onboard_time": 1736828660,
-      "rank": 36,
-      "category": "美食"
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 355912,
@@ -355,20 +403,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 328856,
+      "num": 328856,
+      "word": "惠英红见到马龙激动哭了",
+      "onboard_time": 1736829981,
+      "rank": 17,
+      "category": "作品衍生,体育"
+    },
+    {
       "raw_hot": 320739,
       "num": 320739,
       "word": "袜子里藏16万美元现金过海关被抓",
       "onboard_time": 1736781559,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 314790,
-      "num": 314790,
-      "word": "赵丽颖新蜡像",
-      "onboard_time": 1736828660,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 312250,
@@ -427,6 +475,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 277171,
+      "num": 277171,
+      "word": "千朵桃花魔尊有离镜味儿",
+      "onboard_time": 1736831418,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 276562,
+      "num": 276562,
+      "word": "严屹宽天涯四美20年后成喜人",
+      "onboard_time": 1736828779,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 275657,
       "num": 275657,
       "word": "张杰感谢Lucy小姐唐嫣",
@@ -467,14 +531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 244351,
-      "num": 244351,
-      "word": "两中国游客遭列车撞击前监控曝光",
-      "onboard_time": 1736828539,
-      "rank": 31,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 240700,
       "num": 310611,
       "word": "朴秀荣续约SM",
@@ -491,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 237313,
+      "num": 237313,
+      "word": "向佐 每个人都当我是小丑",
+      "onboard_time": 1736831179,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237194,
       "num": 237194,
       "word": "2万吨车厘子到中国还有2万吨快到了",
@@ -505,6 +569,14 @@
       "onboard_time": 1736827278,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232270,
+      "num": 232270,
+      "word": "埃文凯尔被武汉美食硬控了",
+      "onboard_time": 1736831058,
+      "rank": 30,
+      "category": "正能量"
     },
     {
       "raw_hot": 231191,
@@ -555,20 +627,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 224236,
-      "num": 224236,
-      "word": "严屹宽天涯四美20年后成喜人",
-      "onboard_time": 1736828779,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 221548,
       "num": 490856,
       "word": "星巴克推出新的顾客行为准则",
       "onboard_time": 1736819178,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219687,
+      "num": 323792,
+      "word": "在上海的韩国游客人手一斤大白兔",
+      "onboard_time": 1736830759,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 216586,
@@ -619,12 +691,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 204131,
+      "num": 204131,
+      "word": "管乐说杨紫是牡丹本丹",
+      "onboard_time": 1736830700,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203624,
       "num": 214472,
       "word": "Cat称一诺已道歉",
       "onboard_time": 1736818457,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 203068,
+      "num": 203068,
+      "word": "拜登告别",
+      "onboard_time": 1736831599,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 202090,
@@ -723,20 +811,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 183328,
-      "num": 183328,
-      "word": "我把编制看得太重把自己看太轻了",
-      "onboard_time": 1736829380,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 182383,
       "num": 182383,
       "word": "黄牛外挂软件抢票仅需1秒",
       "onboard_time": 1736821638,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182121,
+      "num": 182121,
+      "word": "Bin回应S14决赛失利被喷",
+      "onboard_time": 1736830640,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 181579,
@@ -761,6 +849,22 @@
       "onboard_time": 1736800759,
       "rank": 6,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 178801,
+      "num": 178801,
+      "word": "张元英安宥真双人cha",
+      "onboard_time": 1736830280,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 177042,
+      "num": 177042,
+      "word": "李现微指破2.8亿",
+      "onboard_time": 1736829260,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 175154,
@@ -811,6 +915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171055,
+      "num": 171055,
+      "word": "A股迎普涨",
+      "onboard_time": 1736829681,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 170920,
       "num": 202069,
       "word": "许光汉去了柯佳嬿生日派对",
@@ -825,14 +937,6 @@
       "onboard_time": 1736821698,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 164087,
-      "num": 164087,
-      "word": "李现微指破2.8亿",
-      "onboard_time": 1736829260,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 161724,
@@ -1003,6 +1107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131450,
+      "num": 233585,
+      "word": "惠英红说张凌赫是宝贝十八号",
+      "onboard_time": 1736832018,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 131448,
       "num": 131448,
       "word": "老板开店一个月金毛来吃了半个月",
@@ -1091,6 +1203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115225,
+      "num": 529787,
+      "word": "2瓶过期啤酒罚款2万是否小错重罚",
+      "onboard_time": 1736830580,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115092,
       "num": 115092,
       "word": "国色芳华最新收视率",
@@ -1147,12 +1267,28 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 107189,
+      "num": 324462,
+      "word": "A股市场超5200只个股上涨",
+      "onboard_time": 1736831718,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 107115,
       "num": 107115,
       "word": "韩国44辆车追尾因道路结冰所致",
       "onboard_time": 1736818397,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 106402,
+      "num": 285783,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1736830219,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 104467,
@@ -1219,14 +1355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 87079,
-      "num": 404086,
-      "word": "长治市妇幼保健院回应萝卜岗质疑",
-      "onboard_time": 1736829260,
-      "rank": 14,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 86461,
       "num": 104953,
       "word": "定日5.0级地震是目前最大余震",
@@ -1289,6 +1417,14 @@
       "onboard_time": 1736786115,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 75679,
+      "num": 411444,
+      "word": "网红带货牛肉卷检疫标识鉴定为假",
+      "onboard_time": 1736830700,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72969,
