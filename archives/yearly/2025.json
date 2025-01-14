@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736869041651,
+  "endTime": 1736872066671,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -385,6 +385,14 @@
       "onboard_time": 1736484203,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3360656,
+      "num": 3360656,
+      "word": "小红书",
+      "onboard_time": 1736868979,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 3336094,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736332042,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1317002,
-      "num": 1317002,
-      "word": "车厘子快比草莓便宜了",
-      "onboard_time": 1736828660,
-      "rank": 36,
-      "category": "美食"
     }
   ],
   "hotgov_list": [
