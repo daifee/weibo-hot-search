@@ -1,0 +1,410 @@
+{
+  "runTime": 1736818706549,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1524606,
+        "num": 1524606,
+        "word": "曝英伟达一半员工净资产破亿",
+        "onboard_time": 1736815280,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1600190,
+        "num": 1406314,
+        "word": "黄子韬发文回应送车事件",
+        "onboard_time": 1736815280,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54303,
+        "num": 842419,
+        "word": "我国外贸含新量还在不断上升",
+        "onboard_time": 1736773101,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 730539,
+        "num": 730539,
+        "word": "王鹤棣演技",
+        "onboard_time": 1736816240,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 700152,
+        "num": 700152,
+        "word": "进口药退出公立医院",
+        "onboard_time": 1736811196,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 688712,
+        "num": 688712,
+        "word": "特鲁索娃怀孕",
+        "onboard_time": 1736810895,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 648085,
+        "num": 648085,
+        "word": "一路繁花8个人只吃了700块",
+        "onboard_time": 1736786536,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 598791,
+        "num": 598791,
+        "word": "韩国两个被弹劾总统都涨工资了",
+        "onboard_time": 1736814319,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 556732,
+        "num": 556732,
+        "word": "金靖建议女孩一定要有正常的体重",
+        "onboard_time": 1736777062,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227215,
+        "num": 489487,
+        "word": "2025春运开启",
+        "onboard_time": 1736817677,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 600693,
+        "num": 482074,
+        "word": "妻子裸死前夫家中丈夫拒付丧葬费",
+        "onboard_time": 1736777062,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 468545,
+        "num": 468545,
+        "word": "樊振东用巧克力球拍打球",
+        "onboard_time": 1736813598,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 440410,
+        "num": 440410,
+        "word": "韩国首尔40多台车辆连环撞击",
+        "onboard_time": 1736811316,
+        "rank": 12,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 429929,
+        "num": 429929,
+        "word": "Cat 一诺",
+        "onboard_time": 1736814979,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 347803,
+        "num": 347803,
+        "word": "山姆回应蛋糕胚吃出白色异物",
+        "onboard_time": 1736780600,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329015,
+        "num": 329015,
+        "word": "刘晓庆的手机壳",
+        "onboard_time": 1736810476,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320739,
+        "num": 320739,
+        "word": "袜子里藏16万美元现金过海关被抓",
+        "onboard_time": 1736781559,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287554,
+        "num": 287554,
+        "word": "白月梵星有效播放量破3亿",
+        "onboard_time": 1736812697,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262160,
+        "num": 262160,
+        "word": "男子用杀虫剂毒死大量锦鲤被刑拘",
+        "onboard_time": 1736794991,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229307,
+        "num": 229307,
+        "word": "被黄子韬选中的家庭主妇已看车",
+        "onboard_time": 1736818638,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273033,
+        "num": 224632,
+        "word": "男子当街家暴被女生隔空制止",
+        "onboard_time": 1736813119,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268112,
+        "num": 224490,
+        "word": "什么水果上市就意味着快过年了",
+        "onboard_time": 1736810835,
+        "rank": 21,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 240002,
+        "num": 223062,
+        "word": "终于知道早读班主任为啥用书挡脸了",
+        "onboard_time": 1736810356,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214205,
+        "num": 214205,
+        "word": "终于把车厘子和樱桃搞明白了",
+        "onboard_time": 1736771960,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 210287,
+        "num": 210287,
+        "word": "复兴号停车场是什么未来场面",
+        "onboard_time": 1736783659,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202090,
+        "num": 202090,
+        "word": "徐克谈对肖战的看法",
+        "onboard_time": 1736814681,
+        "rank": 25,
+        "category": "电影,艺人"
+      },
+      {
+        "raw_hot": 189518,
+        "num": 189518,
+        "word": "英伟达员工称一周工作7天加班至凌晨",
+        "onboard_time": 1736818457,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 185661,
+        "num": 185661,
+        "word": "2025春运正式开启",
+        "onboard_time": 1736804891,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178259,
+        "num": 178259,
+        "word": "国色芳华三郎 李隆基",
+        "onboard_time": 1736781680,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171080,
+        "num": 171080,
+        "word": "除夕火车票今起可买",
+        "onboard_time": 1736811857,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156625,
+        "num": 156625,
+        "word": "樊振东说巴黎奥运会打的筋疲力尽",
+        "onboard_time": 1736818457,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155668,
+        "num": 155668,
+        "word": "许光汉去了柯佳嬿生日派对",
+        "onboard_time": 1736816000,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146607,
+        "num": 146607,
+        "word": "美国星巴克不再免费开放",
+        "onboard_time": 1736818457,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 145378,
+        "num": 145378,
+        "word": "没买到票一定要点候补",
+        "onboard_time": 1736812458,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141247,
+        "num": 141247,
+        "word": "BLACKPINK韩服造型",
+        "onboard_time": 1736781379,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137598,
+        "num": 137598,
+        "word": "春运火车票发售关键时间点",
+        "onboard_time": 1736816660,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134510,
+        "num": 134510,
+        "word": "蔡明评价李小冉",
+        "onboard_time": 1736774302,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133827,
+        "num": 133827,
+        "word": "敖瑞鹏另一只手帮白鹿提鞋",
+        "onboard_time": 1736815220,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128252,
+        "num": 128252,
+        "word": "春节回家开始起跑姿势了",
+        "onboard_time": 1736811437,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127096,
+        "num": 127096,
+        "word": "蔡磊身体机能断崖式下降",
+        "onboard_time": 1736778741,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125819,
+        "num": 125819,
+        "word": "2025春运出行指南",
+        "onboard_time": 1736813420,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113778,
+        "num": 113778,
+        "word": "日本地震",
+        "onboard_time": 1736772019,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 112811,
+        "num": 112811,
+        "word": "Cat称一诺已道歉",
+        "onboard_time": 1736818457,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112274,
+        "num": 112274,
+        "word": "Cat开直播回应",
+        "onboard_time": 1736818517,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111743,
+        "num": 111743,
+        "word": "妹妹花2小时给出月子姐姐洗头",
+        "onboard_time": 1736776761,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111282,
+        "num": 111282,
+        "word": "美军改装多架大型运输机投入加州灭火",
+        "onboard_time": 1736816298,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107115,
+        "num": 107115,
+        "word": "韩国44辆车追尾因道路结冰所致",
+        "onboard_time": 1736818397,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 98608,
+        "num": 98608,
+        "word": "手机尾号0000000成交价70万",
+        "onboard_time": 1736769859,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96755,
+        "num": 96755,
+        "word": "洛杉矶山火蔓延居民紧急撤离",
+        "onboard_time": 1736800759,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 96474,
+        "num": 96474,
+        "word": "贵人鸟改名卖粮了",
+        "onboard_time": 1736787496,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见格林纳达总理米切尔#"
+    }
+  }
+}

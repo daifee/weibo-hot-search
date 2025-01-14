@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736811331029,
+  "endTime": 1736818706549,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1635,6 +1635,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 1600190,
+      "num": 1406314,
+      "word": "黄子韬发文回应送车事件",
+      "onboard_time": 1736815280,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1597104,
       "num": 239114,
       "word": "微博删下",
@@ -1817,6 +1825,14 @@
       "onboard_time": 1736318421,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1524606,
+      "num": 1524606,
+      "word": "曝英伟达一半员工净资产破亿",
+      "onboard_time": 1736815280,
+      "rank": 0,
+      "category": "财经"
     },
     {
       "raw_hot": 1523505,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1735785019,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1273723,
-      "num": 1273723,
-      "word": "驻泰国大使馆通报王星回国",
-      "onboard_time": 1736522242,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1273664,
-      "num": 1273664,
-      "word": "国色芳华开播",
-      "onboard_time": 1736249662,
-      "rank": 43,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [

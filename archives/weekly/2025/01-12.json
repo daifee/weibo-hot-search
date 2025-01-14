@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736811331029,
+  "endTime": 1736818706549,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -139,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1600190,
+      "num": 1406314,
+      "word": "黄子韬发文回应送车事件",
+      "onboard_time": 1736815280,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1586655,
       "num": 1586655,
       "word": "杨紫 养老剧",
@@ -169,6 +177,14 @@
       "onboard_time": 1736611943,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1524606,
+      "num": 1524606,
+      "word": "曝英伟达一半员工净资产破亿",
+      "onboard_time": 1736815280,
+      "rank": 0,
+      "category": "财经"
     },
     {
       "raw_hot": 1520474,
@@ -827,6 +843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 730539,
+      "num": 730539,
+      "word": "王鹤棣演技",
+      "onboard_time": 1736816240,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 725301,
       "num": 725301,
       "word": "杨紫李现 纯元CP结婚",
@@ -891,6 +915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 700152,
+      "num": 700152,
+      "word": "进口药退出公立医院",
+      "onboard_time": 1736811196,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 699356,
       "num": 699356,
       "word": "美国政府救灾不力引民众质问",
@@ -929,6 +961,14 @@
       "onboard_time": 1736765539,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 688712,
+      "num": 688712,
+      "word": "特鲁索娃怀孕",
+      "onboard_time": 1736810895,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 688193,
@@ -1121,6 +1161,14 @@
       "onboard_time": 1736603368,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 598791,
+      "num": 598791,
+      "word": "韩国两个被弹劾总统都涨工资了",
+      "onboard_time": 1736814319,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 590504,
@@ -1395,6 +1443,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 468545,
+      "num": 468545,
+      "word": "樊振东用巧克力球拍打球",
+      "onboard_time": 1736813598,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 462010,
       "num": 439213,
       "word": "敖瑞鹏红温了",
@@ -1467,6 +1523,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 440410,
+      "num": 440410,
+      "word": "韩国首尔40多台车辆连环撞击",
+      "onboard_time": 1736811316,
+      "rank": 12,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 439968,
       "num": 439968,
       "word": "金鹤龙给热巴化的小蛇女妆",
@@ -1489,6 +1553,14 @@
       "onboard_time": 1736754139,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 429929,
+      "num": 429929,
+      "word": "Cat 一诺",
+      "onboard_time": 1736814979,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 427539,
@@ -1915,6 +1987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 329015,
+      "num": 329015,
+      "word": "刘晓庆的手机壳",
+      "onboard_time": 1736810476,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 328808,
       "num": 328808,
       "word": "钟意大司命FMVP皮肤",
@@ -1961,6 +2041,14 @@
       "onboard_time": 1736660780,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 320739,
+      "num": 320739,
+      "word": "袜子里藏16万美元现金过海关被抓",
+      "onboard_time": 1736781559,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 319807,
@@ -2163,6 +2251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 287554,
+      "num": 287554,
+      "word": "白月梵星有效播放量破3亿",
+      "onboard_time": 1736812697,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 283616,
       "num": 283616,
       "word": "王俊凯终于来了",
@@ -2219,6 +2315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 273033,
+      "num": 224632,
+      "word": "男子当街家暴被女生隔空制止",
+      "onboard_time": 1736813119,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 272371,
       "num": 547485,
       "word": "花400元找微商打瘦肩针差点没命",
@@ -2257,6 +2361,14 @@
       "onboard_time": 1736731219,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 268112,
+      "num": 224490,
+      "word": "什么水果上市就意味着快过年了",
+      "onboard_time": 1736810835,
+      "rank": 21,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 268061,
@@ -2491,14 +2603,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 241779,
-      "num": 241779,
-      "word": "袜子里藏16万美元现金过海关被抓",
-      "onboard_time": 1736781559,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 240192,
       "num": 240192,
       "word": "张凌赫默默询问工作人员金靖生了没",
@@ -2513,6 +2617,14 @@
       "onboard_time": 1736737819,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 240002,
+      "num": 223062,
+      "word": "终于知道早读班主任为啥用书挡脸了",
+      "onboard_time": 1736810356,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 238448,
@@ -2611,6 +2723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229307,
+      "num": 229307,
+      "word": "被黄子韬选中的家庭主妇已看车",
+      "onboard_time": 1736818638,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229223,
       "num": 229223,
       "word": "李冰冰对侯明昊脸颊比心",
@@ -2665,6 +2785,14 @@
       "onboard_time": 1736745022,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 227215,
+      "num": 489487,
+      "word": "2025春运开启",
+      "onboard_time": 1736817677,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 227102,
@@ -2907,6 +3035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210287,
+      "num": 329104,
+      "word": "复兴号停车场是什么未来场面",
+      "onboard_time": 1736783659,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209796,
       "num": 209796,
       "word": "一路繁花里最尴尬的3分钟",
@@ -3145,6 +3281,14 @@
       "onboard_time": 1736675660,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 202090,
+      "num": 202090,
+      "word": "徐克谈对肖战的看法",
+      "onboard_time": 1736814681,
+      "rank": 25,
+      "category": "电影,艺人"
     },
     {
       "raw_hot": 202063,
@@ -3595,6 +3739,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 189518,
+      "num": 189518,
+      "word": "英伟达员工称一周工作7天加班至凌晨",
+      "onboard_time": 1736818457,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 189174,
       "num": 526072,
       "word": "钟意FMVP皮肤",
@@ -3673,6 +3825,14 @@
       "onboard_time": 1736650400,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185661,
+      "num": 195908,
+      "word": "2025春运正式开启",
+      "onboard_time": 1736804891,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185481,
@@ -4019,6 +4179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171080,
+      "num": 171080,
+      "word": "除夕火车票今起可买",
+      "onboard_time": 1736811857,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170833,
       "num": 170833,
       "word": "年度最佳新锐连续三年出自AG",
@@ -4097,14 +4265,6 @@
       "onboard_time": 1736642719,
       "rank": 34,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 167428,
-      "num": 85421,
-      "word": "终于知道早读班主任为啥用书挡脸了",
-      "onboard_time": 1736810356,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 167343,
@@ -4363,6 +4523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 156625,
+      "num": 156625,
+      "word": "樊振东说巴黎奥运会打的筋疲力尽",
+      "onboard_time": 1736818457,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156583,
       "num": 156583,
       "word": "泰国孕妇坠崖案当事人王暖暖最新发声",
@@ -4417,6 +4585,14 @@
       "onboard_time": 1736679020,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155668,
+      "num": 155668,
+      "word": "许光汉去了柯佳嬿生日派对",
+      "onboard_time": 1736816000,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 155252,
@@ -4619,14 +4795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148556,
-      "num": 329104,
-      "word": "复兴号停车场是什么未来场面",
-      "onboard_time": 1736783659,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 148450,
       "num": 106020,
       "word": "惠英红 很开心能抽到李现的礼物",
@@ -4715,6 +4883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 146607,
+      "num": 146607,
+      "word": "美国星巴克不再免费开放",
+      "onboard_time": 1736818457,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 146422,
       "num": 408354,
       "word": "齐思钧收到了米卡的礼物",
@@ -4753,6 +4929,14 @@
       "onboard_time": 1736694382,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145378,
+      "num": 145378,
+      "word": "没买到票一定要点候补",
+      "onboard_time": 1736812458,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145100,
@@ -4963,6 +5147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137598,
+      "num": 137598,
+      "word": "春运火车票发售关键时间点",
+      "onboard_time": 1736816660,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137424,
       "num": 137424,
       "word": "泽连斯基称愿意帮助加州灭火",
@@ -5035,14 +5227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135718,
-      "num": 110160,
-      "word": "什么水果上市就意味着快过年了",
-      "onboard_time": 1736810835,
-      "rank": 21,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 134675,
       "num": 134675,
       "word": "井胧给井迪紧急形象公关",
@@ -5073,6 +5257,14 @@
       "onboard_time": 1736748259,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 133827,
+      "num": 133827,
+      "word": "敖瑞鹏另一只手帮白鹿提鞋",
+      "onboard_time": 1736815220,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 133516,
@@ -5315,6 +5507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128252,
+      "num": 128252,
+      "word": "春节回家开始起跑姿势了",
+      "onboard_time": 1736811437,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127944,
       "num": 127944,
       "word": "杨紫熊大熊二光头强合影",
@@ -5395,6 +5595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125819,
+      "num": 125819,
+      "word": "2025春运出行指南",
+      "onboard_time": 1736813420,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125744,
       "num": 125744,
       "word": "成都19岁失联女大学生事件详情",
@@ -5456,14 +5664,6 @@
       "word": "菜市场白色灯照得顾客脸紫红",
       "onboard_time": 1736753780,
       "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 122715,
-      "num": 195908,
-      "word": "2025春运正式开启",
-      "onboard_time": 1736804891,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -5835,12 +6035,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 112811,
+      "num": 112811,
+      "word": "Cat称一诺已道歉",
+      "onboard_time": 1736818457,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112590,
       "num": 324930,
       "word": "加拿大派消防员帮美国灭火",
       "onboard_time": 1736741300,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 112274,
+      "num": 112274,
+      "word": "Cat开直播回应",
+      "onboard_time": 1736818517,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 112218,
@@ -5865,6 +6081,14 @@
       "onboard_time": 1736712251,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111282,
+      "num": 111282,
+      "word": "美军改装多架大型运输机投入加州灭火",
+      "onboard_time": 1736816298,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 111233,
@@ -5929,6 +6153,14 @@
       "onboard_time": 1736608587,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107115,
+      "num": 107115,
+      "word": "韩国44辆车追尾因道路结冰所致",
+      "onboard_time": 1736818397,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 107089,
@@ -6155,6 +6387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 96474,
+      "num": 96474,
+      "word": "贵人鸟改名卖粮了",
+      "onboard_time": 1736787496,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 96244,
       "num": 172040,
       "word": "央行行长回应人民币近期贬值情况",
@@ -6249,14 +6489,6 @@
       "onboard_time": 1736670138,
       "rank": 48,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 90350,
-      "num": 84997,
-      "word": "特鲁索娃怀孕",
-      "onboard_time": 1736810895,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 89601,
@@ -6361,14 +6593,6 @@
       "onboard_time": 1736668580,
       "rank": 13,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 80035,
-      "num": 80035,
-      "word": "贵人鸟改名卖粮了",
-      "onboard_time": 1736787496,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 79584,
@@ -6505,14 +6729,6 @@
       "onboard_time": 1736723956,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 68144,
-      "num": 68144,
-      "word": "刘晓庆的手机壳",
-      "onboard_time": 1736810476,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 67959,
@@ -6739,6 +6955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54303,
+      "num": 842419,
+      "word": "我国外贸含新量还在不断上升",
+      "onboard_time": 1736773101,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 54048,
       "num": 201425,
       "word": "夏以昼 骗人是小狗",
@@ -6881,14 +7105,6 @@
       "onboard_time": 1736649860,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 48309,
-      "num": 48309,
-      "word": "进口药退出公立医院",
-      "onboard_time": 1736811196,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 48114,
@@ -7073,14 +7289,6 @@
       "onboard_time": 1736771539,
       "rank": 19,
       "category": "艺人,电竞"
-    },
-    {
-      "raw_hot": 38393,
-      "num": 436614,
-      "word": "我国外贸含新量还在不断上升",
-      "onboard_time": 1736773101,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 37393,
