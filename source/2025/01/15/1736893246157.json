@@ -1,0 +1,410 @@
+{
+  "runTime": 1736893246157,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 206665,
+        "num": 373344,
+        "word": "可是为什么我插针都插不入",
+        "onboard_time": 1736871436,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204929,
+        "num": 204929,
+        "word": "婆婆谎称是死胎把孩子送人或涉拐骗",
+        "onboard_time": 1736868618,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11951,
+        "num": 131332,
+        "word": "我的铁路风景",
+        "onboard_time": 1736859199,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90708,
+        "num": 90708,
+        "word": "为什么车厘子一个月到中国却不腐烂",
+        "onboard_time": 1736857099,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78992,
+        "num": 78992,
+        "word": "泰国普吉岛1名中国游客死亡",
+        "onboard_time": 1736870838,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 76370,
+        "num": 76370,
+        "word": "小鹿称北京就是个该吃苦的城市",
+        "onboard_time": 1736885712,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62040,
+        "num": 62040,
+        "word": "女子给网友寄2箱酸奶险损失12.5万",
+        "onboard_time": 1736853198,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60985,
+        "num": 60985,
+        "word": "何惟芳蒋长扬 先婚者犬也",
+        "onboard_time": 1736866999,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54496,
+        "num": 54496,
+        "word": "山姆大代购赚的不止代购费",
+        "onboard_time": 1736835499,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12213,
+        "num": 49555,
+        "word": "国色芳华5步做出牡丹香粉",
+        "onboard_time": 1736892191,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47128,
+        "num": 47128,
+        "word": "小孩玩火5辆车被烧成空壳",
+        "onboard_time": 1736865201,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46618,
+        "num": 46618,
+        "word": "7岁男孩被同学掌掴致失聪",
+        "onboard_time": 1736884212,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45558,
+        "num": 45558,
+        "word": "美国网友帮做完形填空5题错俩",
+        "onboard_time": 1736862080,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41505,
+        "num": 41505,
+        "word": "魏哲鸣回应和杨紫嗑瓜子cp",
+        "onboard_time": 1736866760,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40481,
+        "num": 40481,
+        "word": "当街家暴被呵止男子已与妻子和解",
+        "onboard_time": 1736876533,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38218,
+        "num": 38218,
+        "word": "网红带货疑似合成肉卷店铺已关闭",
+        "onboard_time": 1736875274,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37895,
+        "num": 37895,
+        "word": "外交部再次回应中国游热潮",
+        "onboard_time": 1736874134,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 37162,
+        "num": 37162,
+        "word": "李沁穿了应援色高定走红毯",
+        "onboard_time": 1736870358,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36301,
+        "num": 36301,
+        "word": "将门毒后",
+        "onboard_time": 1736851396,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33514,
+        "num": 33514,
+        "word": "刘晓庆说李小冉骂得对",
+        "onboard_time": 1736862560,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36531,
+        "num": 33480,
+        "word": "女星因老公去世删光社交动态",
+        "onboard_time": 1736864420,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31869,
+        "num": 31869,
+        "word": "家属称景德镇车祸死者父母重度抑郁",
+        "onboard_time": 1736851038,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31352,
+        "num": 31352,
+        "word": "主持人大赛今年选新闻主播",
+        "onboard_time": 1736875393,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31230,
+        "num": 31230,
+        "word": "三人行",
+        "onboard_time": 1736868020,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26949,
+        "num": 26949,
+        "word": "宋慧乔超短发造型",
+        "onboard_time": 1736874434,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26882,
+        "num": 26882,
+        "word": "演唱会黄牛用一面手机墙抢票",
+        "onboard_time": 1736866460,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26284,
+        "num": 26284,
+        "word": "武警炊事员车上炒出移动大餐",
+        "onboard_time": 1736890931,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25528,
+        "num": 25528,
+        "word": "反复啃指甲是种心理障碍",
+        "onboard_time": 1736860939,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25470,
+        "num": 25470,
+        "word": "太好了是免费外教作业有救了",
+        "onboard_time": 1736865682,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 24549,
+        "num": 24549,
+        "word": "国考分数线",
+        "onboard_time": 1736869218,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 24079,
+        "num": 24079,
+        "word": "李昀锐冰湖重生高马尾骑马路透",
+        "onboard_time": 1736873595,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22501,
+        "num": 22501,
+        "word": "黄牛团伙倒卖30000多张演唱会票",
+        "onboard_time": 1736862860,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22271,
+        "num": 22271,
+        "word": "第1批回家的研究生高铁上做针线活",
+        "onboard_time": 1736887749,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22064,
+        "num": 22064,
+        "word": "周深听到要他演戏时的表情",
+        "onboard_time": 1736868860,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21840,
+        "num": 21840,
+        "word": "拜登告别演说自夸令美国更强大",
+        "onboard_time": 1736888531,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21052,
+        "num": 21052,
+        "word": "消费者称终于舍得买4J车厘子",
+        "onboard_time": 1736867480,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20519,
+        "num": 20519,
+        "word": "00后女生高铁上6小时织了顶帽子",
+        "onboard_time": 1736875213,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20225,
+        "num": 20225,
+        "word": "武艺 上个节目家没了",
+        "onboard_time": 1736846119,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19991,
+        "num": 19991,
+        "word": "丁禹兮直播",
+        "onboard_time": 1736858359,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19456,
+        "num": 19456,
+        "word": "陈梦生日前一天解锁新身份",
+        "onboard_time": 1736861960,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18568,
+        "num": 18568,
+        "word": "努力就是卷吗",
+        "onboard_time": 1736881332,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18309,
+        "num": 18567,
+        "word": "79只羊是我家的存折",
+        "onboard_time": 1736887332,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17613,
+        "num": 18567,
+        "word": "哈工程校园内的袁隆平雪雕令人泪目",
+        "onboard_time": 1736880072,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17378,
+        "num": 18567,
+        "word": "SM新女团成员Jiwoo",
+        "onboard_time": 1736857578,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 17181,
+        "num": 18567,
+        "word": "咬甲癖被列入强迫症范畴",
+        "onboard_time": 1736876173,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 16594,
+        "num": 18566,
+        "word": "认识一个人这4点就够了",
+        "onboard_time": 1736870299,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16242,
+        "num": 18566,
+        "word": "国考成绩",
+        "onboard_time": 1736860218,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 16064,
+        "num": 18566,
+        "word": "霉霉今年有希望来上海办演唱会",
+        "onboard_time": 1736853138,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15899,
+        "num": 18566,
+        "word": "被撞游客家属抵日收集现场证据",
+        "onboard_time": 1736872875,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15396,
+        "num": 18565,
+        "word": "儿童感染甲流为何应慎用镇咳药",
+        "onboard_time": 1736893092,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#把群众冰雪运动热情保持下去#"
+    }
+  }
+}
