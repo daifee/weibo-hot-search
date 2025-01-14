@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736836184677,
+  "endTime": 1736836991597,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1811,6 +1811,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1541716,
+      "num": 548717,
+      "word": "黄金生育年龄",
+      "onboard_time": 1736833518,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1538021,
       "num": 1061062,
       "word": "假唱",
@@ -1977,14 +1985,6 @@
       "onboard_time": 1735775057,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1459953,
-      "num": 423419,
-      "word": "黄金生育年龄",
-      "onboard_time": 1736833518,
-      "rank": 10,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1459657,
