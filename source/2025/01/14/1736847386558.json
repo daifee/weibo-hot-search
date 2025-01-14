@@ -1,0 +1,410 @@
+{
+  "runTime": 1736847386558,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2908608,
+        "num": 2908608,
+        "word": "向太称刘晓庆被李小冉骂了10分钟",
+        "onboard_time": 1736845997,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1035694,
+        "num": 1035694,
+        "word": "山姆大代购赚的不止代购费",
+        "onboard_time": 1736835499,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52534,
+        "num": 928003,
+        "word": "120多项春节非遗项目集中亮相",
+        "onboard_time": 1736844558,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1132568,
+        "num": 924999,
+        "word": "金希澈残疾等级",
+        "onboard_time": 1736841318,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 907647,
+        "num": 907647,
+        "word": "婆婆谎称儿媳生的死胎把孩子送人",
+        "onboard_time": 1736841379,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 724928,
+        "num": 724928,
+        "word": "父亲假扮女儿网恋诈骗22万",
+        "onboard_time": 1736843899,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 653852,
+        "num": 653852,
+        "word": "谢娜 死嘴快憋住啊",
+        "onboard_time": 1736838618,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424808,
+        "num": 424808,
+        "word": "儿子考第一回家过年爸爸大声追问",
+        "onboard_time": 1736841198,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 406393,
+        "num": 406393,
+        "word": "常华森 骨相好皮薄馅不多",
+        "onboard_time": 1736842998,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152220,
+        "num": 390946,
+        "word": "男孩丢失27年后团圆不到1年就反目",
+        "onboard_time": 1736845997,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 551486,
+        "num": 389217,
+        "word": "黄金生育年龄",
+        "onboard_time": 1736833518,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 386834,
+        "num": 386834,
+        "word": "100多枚巴黎奥运会奖牌被退回",
+        "onboard_time": 1736826199,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376870,
+        "num": 376870,
+        "word": "被车撞了6天后突然去世该谁担责",
+        "onboard_time": 1736822957,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345972,
+        "num": 345972,
+        "word": "重庆文旅通报大爷救助游客遭诬陷",
+        "onboard_time": 1736832919,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 342723,
+        "num": 342723,
+        "word": "重庆游客事件有新视频和证据",
+        "onboard_time": 1736840780,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314082,
+        "num": 314082,
+        "word": "医院回应医生抽烟做核磁共振",
+        "onboard_time": 1736843780,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307826,
+        "num": 307826,
+        "word": "12306系统持续经受大流量访问考验",
+        "onboard_time": 1736843538,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272977,
+        "num": 272977,
+        "word": "向佐回应和郭碧婷感情",
+        "onboard_time": 1736832199,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239707,
+        "num": 239707,
+        "word": "崔珉焕称离婚因妻子一天睡18小时",
+        "onboard_time": 1736839338,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15766,
+        "num": 235860,
+        "word": "加州各地124起大大小小的山火",
+        "onboard_time": 1736847319,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 452600,
+        "num": 235748,
+        "word": "美国女孩戴手铐哭求警察别弄坏手镯",
+        "onboard_time": 1736841739,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 296829,
+        "num": 235742,
+        "word": "武艺 上个节目家没了",
+        "onboard_time": 1736846119,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235471,
+        "num": 235471,
+        "word": "外籍游客在上海消费力有多猛",
+        "onboard_time": 1736836398,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112662,
+        "num": 230397,
+        "word": "拖米走丢了",
+        "onboard_time": 1736845279,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127969,
+        "num": 228160,
+        "word": "李佳琦直播间车厘子被指不新鲜",
+        "onboard_time": 1736846359,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 92966,
+        "num": 228055,
+        "word": "电商专供已成质量缩水代名词",
+        "onboard_time": 1736845518,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228050,
+        "num": 228050,
+        "word": "王鹤棣倒三角",
+        "onboard_time": 1736846478,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226862,
+        "num": 226862,
+        "word": "鬼灭之刃无限城篇",
+        "onboard_time": 1736843118,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 104316,
+        "num": 210626,
+        "word": "张新成问周深唱歌会破音吗",
+        "onboard_time": 1736846959,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200661,
+        "num": 200661,
+        "word": "刘诗诗 小说里的初恋白月光",
+        "onboard_time": 1736845279,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198172,
+        "num": 198172,
+        "word": "小红书概念爆发",
+        "onboard_time": 1736834480,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 186405,
+        "num": 186405,
+        "word": "杨紫素色牡丹妆造",
+        "onboard_time": 1736846659,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126630,
+        "num": 185787,
+        "word": "妇联回应男子当街殴打妻子被隔空喝止",
+        "onboard_time": 1736845399,
+        "rank": 32,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 185609,
+        "num": 185609,
+        "word": "于适在封神里的剧照前后差别",
+        "onboard_time": 1736847018,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173788,
+        "num": 173788,
+        "word": "山姆不打击代购吗",
+        "onboard_time": 1736846539,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169586,
+        "num": 169586,
+        "word": "车厘子快比草莓便宜了",
+        "onboard_time": 1736828660,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 165419,
+        "num": 165419,
+        "word": "花鸟使 小范大人",
+        "onboard_time": 1736836579,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162073,
+        "num": 162073,
+        "word": "美国小伙狂炫中国美食胖了9斤",
+        "onboard_time": 1736846959,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153319,
+        "num": 153319,
+        "word": "河南7岁男孩课上遭同学连续掌掴",
+        "onboard_time": 1736844138,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151097,
+        "num": 151097,
+        "word": "国色芳华 我以我血铸天梯",
+        "onboard_time": 1736841858,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149210,
+        "num": 149210,
+        "word": "客服回应李佳琦直播间车厘子翻车",
+        "onboard_time": 1736837898,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 145081,
+        "num": 145081,
+        "word": "难哄橄榄树值得爱 对打",
+        "onboard_time": 1736837599,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144950,
+        "num": 144950,
+        "word": "虞书欣尽显魅力",
+        "onboard_time": 1736846060,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 140920,
+        "num": 140920,
+        "word": "樊振东说不想回看与张本的前两局",
+        "onboard_time": 1736838439,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131130,
+        "num": 131130,
+        "word": "曾黎把中国绣花鞋穿到了韩国",
+        "onboard_time": 1736839818,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126817,
+        "num": 126817,
+        "word": "吉林大爷救助游客反遭诬陷不实",
+        "onboard_time": 1736833279,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125430,
+        "num": 125430,
+        "word": "孙珍妮不语只是一味剧宣",
+        "onboard_time": 1736845220,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123163,
+        "num": 123163,
+        "word": "在上海的韩国游客人手一斤大白兔",
+        "onboard_time": 1736830759,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 121100,
+        "num": 121100,
+        "word": "A股市场超5300只个股上涨",
+        "onboard_time": 1736843958,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 119276,
+        "num": 119276,
+        "word": "爱奇艺排播",
+        "onboard_time": 1736837418,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记要求把冰雪运动普及贯穿始终#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1736785781963,
-  "endTime": 1736846582849,
+  "endTime": 1736847386558,
   "band_list": [
     {
       "raw_hot": 2942267,
@@ -515,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 406393,
+      "num": 406393,
+      "word": "常华森 骨相好皮薄馅不多",
+      "onboard_time": 1736842998,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 402497,
       "num": 547445,
       "word": "加沙孤儿说希望导弹击中我",
@@ -553,14 +561,6 @@
       "onboard_time": 1736818457,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 380947,
-      "num": 380947,
-      "word": "常华森 骨相好皮薄馅不多",
-      "onboard_time": 1736842998,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 378634,
@@ -689,6 +689,22 @@
       "onboard_time": 1736822177,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 307826,
+      "num": 414409,
+      "word": "12306系统持续经受大流量访问考验",
+      "onboard_time": 1736843538,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 296829,
+      "num": 235742,
+      "word": "武艺 上个节目家没了",
+      "onboard_time": 1736846119,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 296456,
@@ -907,6 +923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228050,
+      "num": 228050,
+      "word": "王鹤棣倒三角",
+      "onboard_time": 1736846478,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227215,
       "num": 489487,
       "word": "2025春运开启",
@@ -1011,14 +1035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204185,
-      "num": 204185,
-      "word": "武艺 上个节目家没了",
-      "onboard_time": 1736846119,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 204131,
       "num": 204131,
       "word": "管乐说杨紫是牡丹本丹",
@@ -1107,14 +1123,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 192143,
-      "num": 192143,
-      "word": "王鹤棣倒三角",
-      "onboard_time": 1736846478,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 191956,
       "num": 392831,
       "word": "丹麦外长称乌克兰会救格陵兰岛",
@@ -1155,12 +1163,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186405,
+      "num": 186405,
+      "word": "杨紫素色牡丹妆造",
+      "onboard_time": 1736846659,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185661,
       "num": 195908,
       "word": "2025春运正式开启",
       "onboard_time": 1736804891,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185609,
+      "num": 185609,
+      "word": "于适在封神里的剧照前后差别",
+      "onboard_time": 1736847018,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 185014,
@@ -1299,6 +1323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 173788,
+      "num": 173788,
+      "word": "山姆不打击代购吗",
+      "onboard_time": 1736846539,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173124,
       "num": 173124,
       "word": "杭州一上市公司实施4.5天工作制",
@@ -1387,6 +1419,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 162073,
+      "num": 162073,
+      "word": "美国小伙狂炫中国美食胖了9斤",
+      "onboard_time": 1736846959,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161724,
       "num": 161724,
       "word": "日本6.7级左右地震",
@@ -1467,14 +1507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 153572,
-      "num": 414409,
-      "word": "12306系统持续经受大流量访问考验",
-      "onboard_time": 1736843538,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153327,
       "num": 153327,
       "word": "电视剧漂白",
@@ -1483,8 +1515,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 152616,
-      "num": 152616,
+      "raw_hot": 153319,
+      "num": 153319,
       "word": "河南7岁男孩课上遭同学连续掌掴",
       "onboard_time": 1736844138,
       "rank": 37,
@@ -1505,6 +1537,14 @@
       "onboard_time": 1736834658,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 152220,
+      "num": 390946,
+      "word": "男孩丢失27年后团圆不到1年就反目",
+      "onboard_time": 1736845997,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147404,
@@ -1545,6 +1585,14 @@
       "onboard_time": 1736812458,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144950,
+      "num": 144950,
+      "word": "虞书欣尽显魅力",
+      "onboard_time": 1736846060,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 144205,
@@ -1659,14 +1707,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 130840,
-      "num": 130840,
-      "word": "虞书欣尽显魅力",
-      "onboard_time": 1736846060,
-      "rank": 45,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 129761,
       "num": 129761,
       "word": "SM新男团",
@@ -1723,6 +1763,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127969,
+      "num": 308260,
+      "word": "李佳琦直播间车厘子被指不新鲜",
+      "onboard_time": 1736846359,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 126630,
+      "num": 316511,
+      "word": "妇联回应男子当街殴打妻子被隔空喝止",
+      "onboard_time": 1736845399,
+      "rank": 18,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 125819,
       "num": 125819,
       "word": "2025春运出行指南",
@@ -1731,19 +1787,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125430,
+      "num": 125430,
+      "word": "孙珍妮不语只是一味剧宣",
+      "onboard_time": 1736845220,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125222,
       "num": 294096,
       "word": "离个职竟要经过26道审批流程",
       "onboard_time": 1736834658,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124044,
-      "num": 124044,
-      "word": "山姆不打击代购吗",
-      "onboard_time": 1736846539,
-      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -1785,14 +1841,6 @@
       "onboard_time": 1736842758,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 117625,
-      "num": 117625,
-      "word": "孙珍妮不语只是一味剧宣",
-      "onboard_time": 1736845220,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 116641,
@@ -1849,6 +1897,14 @@
       "onboard_time": 1736816298,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 112662,
+      "num": 234501,
+      "word": "拖米走丢了",
+      "onboard_time": 1736845279,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 112274,
@@ -1923,6 +1979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 104316,
+      "num": 210626,
+      "word": "张新成问周深唱歌会破音吗",
+      "onboard_time": 1736846959,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 103713,
       "num": 103713,
       "word": "2025铁路春运预计发送旅客5.1亿人次",
@@ -1955,14 +2019,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97280,
-      "num": 234501,
-      "word": "拖米走丢了",
-      "onboard_time": 1736845279,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 96474,
       "num": 96474,
       "word": "贵人鸟改名卖粮了",
@@ -1985,6 +2041,14 @@
       "onboard_time": 1736771359,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 92966,
+      "num": 321082,
+      "word": "电商专供已成质量缩水代名词",
+      "onboard_time": 1736845518,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90321,
@@ -2065,14 +2129,6 @@
       "onboard_time": 1736765539,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 78559,
-      "num": 316511,
-      "word": "妇联回应男子当街殴打妻子被隔空喝止",
-      "onboard_time": 1736845399,
-      "rank": 18,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 78533,
@@ -2228,7 +2284,7 @@
     },
     {
       "raw_hot": 53647,
-      "num": 821351,
+      "num": 928003,
       "word": "120多项春节非遗项目集中亮相",
       "onboard_time": 1736844558,
       "rank": 2,
@@ -2291,28 +2347,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 46058,
-      "num": 321082,
-      "word": "电商专供已成质量缩水代名词",
-      "onboard_time": 1736845518,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 44172,
       "num": 44172,
       "word": "九尾蓝发",
       "onboard_time": 1736777541,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 43116,
-      "num": 308260,
-      "word": "李佳琦直播间车厘子被指不新鲜",
-      "onboard_time": 1736846359,
-      "rank": 19,
-      "category": "网红"
     },
     {
       "raw_hot": 39309,
@@ -2521,6 +2561,14 @@
       "onboard_time": 1736783119,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 15766,
+      "num": 235860,
+      "word": "加州各地124起大大小小的山火",
+      "onboard_time": 1736847319,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 12372,
