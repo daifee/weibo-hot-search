@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/14 21:37:30
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/14 22:20:53
 </p>
 </blockquote>
 <p>
@@ -1403,6 +1403,12 @@ AG挑战者杯夺冠（热度：1652837）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E6%94%B6%E8%A7%86%E7%8E%87%23" target="weibo">
 国色芳华收视率（热度：1550915）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23TikTok%E9%9A%BE%E6%B0%91%E7%A7%B0%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%8F%8B%E9%9D%9E%E5%B8%B8%E7%83%AD%E6%83%85%23" target="weibo">
+TikTok难民称中国网友非常热情（热度：1548219）
 </a>
 </li>
 
@@ -3045,12 +3051,6 @@ R1SE合体（热度：994873）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23TikTok%E9%9A%BE%E6%B0%91%E7%A7%B0%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%8F%8B%E9%9D%9E%E5%B8%B8%E7%83%AD%E6%83%85%23" target="weibo">
-TikTok难民称中国网友非常热情（热度：936692）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%AE%89%E9%83%A8%E5%B0%86%E5%9D%9A%E5%86%B3%E6%91%A7%E6%AF%81%E5%A2%83%E5%A4%96%E8%AF%88%E9%AA%97%E7%AA%9D%E7%82%B9%23" target="weibo">
 公安部将坚决摧毁境外诈骗窝点（热度：935058）
 </a>
@@ -3701,6 +3701,12 @@ B站拿下春晚转播权（热度：825759）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%95%99%E5%87%A0%E6%89%8B%E4%B8%8D%E6%83%B3%E7%9C%8B%E8%91%9B%E5%A4%95%E7%9A%84%E6%97%A5%E8%AE%B0%23" target="weibo">
 留几手不想看葛夕的日记（热度：807097）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%80%83%E7%94%B3%E8%AE%BA%23" target="weibo">
+国考申论（热度：806274）
 </a>
 </li>
 
@@ -5301,6 +5307,18 @@ aespa宁宁减肥前后对比（热度：623921）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8D%E5%A4%8D%E5%95%83%E6%8C%87%E7%94%B2%E6%98%AF%E7%A7%8D%E5%BF%83%E7%90%86%E9%9A%9C%E7%A2%8D%23" target="weibo">
+反复啃指甲是种心理障碍（热度：609855）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%99%93%E5%BA%86%E8%AF%B4%E6%9D%8E%E5%B0%8F%E5%86%89%E9%AA%82%E5%BE%97%E5%AF%B9%23" target="weibo">
+刘晓庆说李小冉骂得对（热度：608355）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%84%9F%E6%9F%93%E7%94%B2%E6%B5%815%E5%A4%A9%E5%86%85%E7%94%A8%E8%8D%AF%E6%9C%89%E6%95%88%23" target="weibo">
 感染甲流5天内用药有效（热度：607138）
 </a>
@@ -5993,24 +6011,6 @@ A50（热度：572477）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E5%89%91%E5%A5%87%E8%B0%AD%E5%90%AB%E5%A1%8C%E9%87%8F%E8%BF%98%E5%9C%A8%E4%B8%8A%E5%8D%87%23" target="weibo">
 古剑奇谭含塌量还在上升（热度：542739）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%83%9F%E8%8A%B3%E4%BA%BA%E8%AE%BE%23" target="weibo">
-何惟芳人设（热度：542483）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E5%AF%BC%E6%BC%94%E5%AE%A1%E7%BE%8E%23" target="weibo">
-国色芳华导演审美（热度：542356）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%9B%B0%E7%BC%85%E7%94%B8%E6%B1%82%E6%95%91%E6%96%87%E6%A1%A3%E5%88%9B%E5%BB%BA%E8%80%85%E5%8F%91%E5%A3%B0%23" target="weibo">
-被困缅甸求救文档创建者发声（热度：541733）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736861850413,
+  "endTime": 1736864453622,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1859,6 +1859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1548219,
+      "num": 409285,
+      "word": "TikTok难民称中国网友非常热情",
+      "onboard_time": 1736860460,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1545151,
       "num": 1545151,
       "word": "关晓彤造型师",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736828660,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1312957,
-      "num": 1312957,
-      "word": "王宝强 上热搜可以但不能塌房",
-      "onboard_time": 1736605229,
-      "rank": 11,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [

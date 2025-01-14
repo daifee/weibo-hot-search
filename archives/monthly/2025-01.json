@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736861850413,
+  "endTime": 1736864453622,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1857,6 +1857,14 @@
       "onboard_time": 1736430444,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1548219,
+      "num": 409285,
+      "word": "TikTok难民称中国网友非常热情",
+      "onboard_time": 1736860460,
+      "rank": 10,
+      "category": "互联网"
     },
     {
       "raw_hot": 1545151,
@@ -4043,14 +4051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 936692,
-      "num": 409285,
-      "word": "TikTok难民称中国网友非常热情",
-      "onboard_time": 1736860460,
-      "rank": 10,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 935058,
       "num": 935058,
       "word": "公安部将坚决摧毁境外诈骗窝点",
@@ -4921,6 +4921,14 @@
       "onboard_time": 1736465777,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 806274,
+      "num": 806274,
+      "word": "国考申论",
+      "onboard_time": 1736860881,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 805244,
@@ -7049,6 +7057,22 @@
       "onboard_time": 1735729702,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 609855,
+      "num": 609855,
+      "word": "反复啃指甲是种心理障碍",
+      "onboard_time": 1736860939,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 608355,
+      "num": 608355,
+      "word": "刘晓庆说李小冉骂得对",
+      "onboard_time": 1736862560,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 607138,
@@ -10259,6 +10283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 420356,
+      "num": 420356,
+      "word": "田曦薇比30000",
+      "onboard_time": 1736862980,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 420165,
       "num": 420165,
       "word": "微博之夜第二波阵容",
@@ -11772,7 +11804,7 @@
     },
     {
       "raw_hot": 366829,
-      "num": 366829,
+      "num": 406710,
       "word": "消防栓有水我就救了一下",
       "onboard_time": 1736851098,
       "rank": 44,
@@ -13571,6 +13603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 314161,
+      "num": 384505,
+      "word": "哈利波特主题乐园有望落沪",
+      "onboard_time": 1736861240,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 313986,
       "num": 264548,
       "word": "白月梵星直播",
@@ -14755,6 +14795,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 285877,
+      "num": 225372,
+      "word": "国考成绩可查",
+      "onboard_time": 1736861419,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 285653,
       "num": 881333,
       "word": "乒乓球奥运季军论文是研究奥运冠军",
@@ -15827,20 +15875,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 265319,
-      "num": 265319,
-      "word": "国考申论",
-      "onboard_time": 1736860881,
-      "rank": 32,
-      "category": "教育"
-    },
-    {
       "raw_hot": 265204,
       "num": 265204,
       "word": "杨紫美我一大跳",
       "onboard_time": 1736154445,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 264360,
+      "num": 264360,
+      "word": "黄牛团伙倒卖30000多张演唱会票",
+      "onboard_time": 1736862860,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 264115,
@@ -19979,6 +20027,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 207209,
+      "num": 207209,
+      "word": "2025国考",
+      "onboard_time": 1736862800,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 207083,
       "num": 252247,
       "word": "原著作者说大奉打更人命挺好的",
@@ -23907,6 +23963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182510,
+      "num": 182510,
+      "word": "白鹿唱了先说谎的人",
+      "onboard_time": 1736862980,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182383,
       "num": 182383,
       "word": "黄牛外挂软件抢票仅需1秒",
@@ -24185,14 +24249,6 @@
       "onboard_time": 1736433024,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 180065,
-      "num": 225372,
-      "word": "国考成绩可查",
-      "onboard_time": 1736861419,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 180053,
@@ -24793,6 +24849,14 @@
       "onboard_time": 1736326583,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175379,
+      "num": 175379,
+      "word": "国色芳华微博开分9.3",
+      "onboard_time": 1736863160,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 175159,
@@ -25979,6 +26043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168060,
+      "num": 168060,
+      "word": "何惟芳 委屈样子萌丝",
+      "onboard_time": 1736863341,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168003,
       "num": 168003,
       "word": "地震瞬间这个回头太帅了",
@@ -26553,6 +26625,14 @@
       "onboard_time": 1735987703,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164805,
+      "num": 164805,
+      "word": "工作人员否认牛莉离婚",
+      "onboard_time": 1736861840,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 164764,
@@ -30291,6 +30371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 141665,
+      "num": 141665,
+      "word": "公务员考试",
+      "onboard_time": 1736862322,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 141659,
       "num": 141659,
       "word": "IVE回归先行曲MV",
@@ -31267,6 +31355,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 136252,
+      "num": 136252,
+      "word": "关晓彤银黑交织长裙",
+      "onboard_time": 1736863700,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136224,
       "num": 136224,
       "word": "刘宇宁读信哽咽了",
@@ -31515,20 +31611,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135005,
+      "num": 222286,
+      "word": "美国网友帮做完形填空5题错俩",
+      "onboard_time": 1736862080,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135002,
       "num": 135002,
       "word": "卫星影像对比加州山火前后",
       "onboard_time": 1736423483,
       "rank": 47,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 134987,
-      "num": 409288,
-      "word": "反复啃指甲是种心理障碍",
-      "onboard_time": 1736860939,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134932,
@@ -32001,6 +32097,14 @@
       "onboard_time": 1735695260,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132222,
+      "num": 132222,
+      "word": "陈梦生日前一天解锁新身份",
+      "onboard_time": 1736861960,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 132209,
@@ -32609,14 +32713,6 @@
       "onboard_time": 1736838079,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128627,
-      "num": 128627,
-      "word": "哈利波特主题乐园有望落沪",
-      "onboard_time": 1736861240,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128617,
@@ -33705,6 +33801,14 @@
       "onboard_time": 1735883299,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121510,
+      "num": 121510,
+      "word": "女星因老公去世删光社交动态",
+      "onboard_time": 1736864420,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 121506,
@@ -35843,6 +35947,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 106811,
+      "num": 215582,
+      "word": "魏哲鸣 酒蒙子的理想抱负是成为Daddy",
+      "onboard_time": 1736864240,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106785,
       "num": 106785,
       "word": "网传极越开始返聘员工",
@@ -37673,6 +37785,14 @@
       "onboard_time": 1735888460,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88391,
+      "num": 271152,
+      "word": "让学生签字放弃中考系老师个人行为",
+      "onboard_time": 1736862439,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 88209,
@@ -41403,6 +41523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48676,
+      "num": 384417,
+      "word": "应县木塔景区起火垃圾堆已被扑灭",
+      "onboard_time": 1736863822,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48484,
       "num": 210043,
       "word": "严浩翔这是一条会动的微博",
@@ -44931,6 +45059,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 22606,
+      "num": 331253,
+      "word": "旧改项目高坠事故致1死被瞒报",
+      "onboard_time": 1736863759,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22474,
       "num": 166432,
       "word": "接种HPV疫苗安全吗",
@@ -45449,6 +45585,14 @@
       "onboard_time": 1736794151,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 19007,
+      "num": 213072,
+      "word": "宋慧乔称自己是INFJ有时过于敏感",
+      "onboard_time": 1736863580,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 18981,

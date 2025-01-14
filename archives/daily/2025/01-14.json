@@ -1,6 +1,6 @@
 {
   "startTime": 1736785781963,
-  "endTime": 1736861850413,
+  "endTime": 1736864453622,
   "band_list": [
     {
       "raw_hot": 3677184,
@@ -89,6 +89,14 @@
       "onboard_time": 1736836819,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1548219,
+      "num": 409285,
+      "word": "TikTok难民称中国网友非常热情",
+      "onboard_time": 1736860460,
+      "rank": 10,
+      "category": "互联网"
     },
     {
       "raw_hot": 1541716,
@@ -195,14 +203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 936692,
-      "num": 409285,
-      "word": "TikTok难民称中国网友非常热情",
-      "onboard_time": 1736860460,
-      "rank": 10,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 917723,
       "num": 917723,
       "word": "樊振东晒行李箱",
@@ -257,6 +257,14 @@
       "onboard_time": 1736782040,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 806274,
+      "num": 806274,
+      "word": "国考申论",
+      "onboard_time": 1736860881,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 804950,
@@ -417,6 +425,22 @@
       "onboard_time": 1736854578,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 609855,
+      "num": 609855,
+      "word": "反复啃指甲是种心理障碍",
+      "onboard_time": 1736860939,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 608355,
+      "num": 608355,
+      "word": "刘晓庆说李小冉骂得对",
+      "onboard_time": 1736862560,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 598791,
@@ -659,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 420356,
+      "num": 420356,
+      "word": "田曦薇比30000",
+      "onboard_time": 1736862980,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 415676,
       "num": 415676,
       "word": "客服回应李佳琦直播间车厘子翻车",
@@ -764,7 +796,7 @@
     },
     {
       "raw_hot": 366829,
-      "num": 366829,
+      "num": 406710,
       "word": "消防栓有水我就救了一下",
       "onboard_time": 1736851098,
       "rank": 44,
@@ -857,6 +889,14 @@
       "onboard_time": 1736856198,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 314161,
+      "num": 384505,
+      "word": "哈利波特主题乐园有望落沪",
+      "onboard_time": 1736861240,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 312250,
@@ -955,6 +995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 285877,
+      "num": 225372,
+      "word": "国考成绩可查",
+      "onboard_time": 1736861419,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 283752,
       "num": 283752,
       "word": "难哄橄榄树值得爱 对打",
@@ -1043,12 +1091,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 265319,
-      "num": 265319,
-      "word": "国考申论",
-      "onboard_time": 1736860881,
-      "rank": 32,
-      "category": "教育"
+      "raw_hot": 264360,
+      "num": 264360,
+      "word": "黄牛团伙倒卖30000多张演唱会票",
+      "onboard_time": 1736862860,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 253785,
@@ -1257,6 +1305,14 @@
       "onboard_time": 1736825238,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 207209,
+      "num": 207209,
+      "word": "2025国考",
+      "onboard_time": 1736862800,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 205752,
@@ -1483,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182510,
+      "num": 182510,
+      "word": "白鹿唱了先说谎的人",
+      "onboard_time": 1736862980,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182383,
       "num": 182383,
       "word": "黄牛外挂软件抢票仅需1秒",
@@ -1529,14 +1593,6 @@
       "onboard_time": 1736827700,
       "rank": 28,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 180065,
-      "num": 225372,
-      "word": "国考成绩可查",
-      "onboard_time": 1736861419,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 179846,
@@ -1592,6 +1648,14 @@
       "word": "何惟芳 三次抬眸每次都在成长",
       "onboard_time": 1736839338,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 175379,
+      "num": 175379,
+      "word": "国色芳华微博开分9.3",
+      "onboard_time": 1736863160,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -1731,6 +1795,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 168060,
+      "num": 168060,
+      "word": "何惟芳 委屈样子萌丝",
+      "onboard_time": 1736863341,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166411,
       "num": 297823,
       "word": "林一 内娱在逃男团成员",
@@ -1753,6 +1825,14 @@
       "onboard_time": 1736859980,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 164805,
+      "num": 164805,
+      "word": "工作人员否认牛莉离婚",
+      "onboard_time": 1736861840,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 163436,
@@ -2043,6 +2123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 141665,
+      "num": 141665,
+      "word": "公务员考试",
+      "onboard_time": 1736862322,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 141560,
       "num": 141560,
       "word": "虞书欣人生欣体验",
@@ -2091,6 +2179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136252,
+      "num": 136252,
+      "word": "关晓彤银黑交织长裙",
+      "onboard_time": 1736863700,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135846,
       "num": 135846,
       "word": "二旬老人看90岁青春女生自律",
@@ -2123,11 +2219,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 134987,
-      "num": 409288,
-      "word": "反复啃指甲是种心理障碍",
-      "onboard_time": 1736860939,
-      "rank": 9,
+      "raw_hot": 135005,
+      "num": 222286,
+      "word": "美国网友帮做完形填空5题错俩",
+      "onboard_time": 1736862080,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -2153,6 +2249,14 @@
       "onboard_time": 1736843958,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 132222,
+      "num": 132222,
+      "word": "陈梦生日前一天解锁新身份",
+      "onboard_time": 1736861960,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 132209,
@@ -2217,14 +2321,6 @@
       "onboard_time": 1736838079,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128627,
-      "num": 128627,
-      "word": "哈利波特主题乐园有望落沪",
-      "onboard_time": 1736861240,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128384,
@@ -2313,6 +2409,14 @@
       "onboard_time": 1736857457,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121510,
+      "num": 121510,
+      "word": "女星因老公去世删光社交动态",
+      "onboard_time": 1736864420,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 121445,
@@ -2587,6 +2691,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 106811,
+      "num": 215582,
+      "word": "魏哲鸣 酒蒙子的理想抱负是成为Daddy",
+      "onboard_time": 1736864240,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106402,
       "num": 285783,
       "word": "崩坏星穹铁道",
@@ -2769,6 +2881,14 @@
       "onboard_time": 1736781260,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88391,
+      "num": 271152,
+      "word": "让学生签字放弃中考系老师个人行为",
+      "onboard_time": 1736862439,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 86461,
@@ -3059,6 +3179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48676,
+      "num": 384417,
+      "word": "应县木塔景区起火垃圾堆已被扑灭",
+      "onboard_time": 1736863822,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47835,
       "num": 175680,
       "word": "LGDNBW新中式适配度",
@@ -3283,6 +3411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22606,
+      "num": 331253,
+      "word": "旧改项目高坠事故致1死被瞒报",
+      "onboard_time": 1736863759,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22153,
       "num": 275338,
       "word": "霍元甲配音演员简肇强去世",
@@ -3353,6 +3489,14 @@
       "onboard_time": 1736794151,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 19007,
+      "num": 213072,
+      "word": "宋慧乔称自己是INFJ有时过于敏感",
+      "onboard_time": 1736863580,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 18403,
