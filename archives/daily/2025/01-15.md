@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/15 00:27:46 ~ 2025/01/15 03:35:28
+本榜单时间：2025/01/15 00:27:46 ~ 2025/01/15 04:23:32
 </p>
 </blockquote>
 <p>
@@ -417,6 +417,12 @@ SM新女团成员Jiwoo（热度：125102）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%237%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%90%8C%E5%AD%A6%E6%8E%8C%E6%8E%B4%E8%87%B4%E5%A4%B1%E8%81%AA%23" target="weibo">
+7岁男孩被同学掌掴致失聪（热度：23818）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%AA%E5%8A%9B%E5%B0%B1%E6%98%AF%E5%8D%B7%E5%90%97%23" target="weibo">
 努力就是卷吗（热度：21626）
 </a>
@@ -443,6 +449,12 @@ AG新春全员财神皮（热度：17695）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E5%8F%B0%E5%86%9B%E5%94%AE%E8%BF%99%E4%BA%9B%E7%BE%8E%E4%BC%81%E8%A2%AB%E5%88%97%E5%85%A5%E4%B8%8D%E5%8F%AF%E9%9D%A0%E5%AE%9E%E4%BD%93%E6%B8%85%E5%8D%95%23" target="weibo">
 对台军售这些美企被列入不可靠实体清单（热度：14576）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%BF%E7%A7%B0%E5%8C%97%E4%BA%AC%E5%B0%B1%E6%98%AF%E4%B8%AA%E8%AF%A5%E5%90%83%E8%8B%A6%E7%9A%84%E5%9F%8E%E5%B8%82%23" target="weibo">
+小鹿称北京就是个该吃苦的城市（热度：13057）
 </a>
 </li>
 

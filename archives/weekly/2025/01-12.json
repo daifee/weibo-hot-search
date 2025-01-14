@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736883328039,
+  "endTime": 1736886212650,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -10435,6 +10435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 23818,
+      "num": 23818,
+      "word": "7岁男孩被同学掌掴致失聪",
+      "onboard_time": 1736884212,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23311,
       "num": 177417,
       "word": "祁煜 小鱼宝宝",
@@ -10737,6 +10745,14 @@
       "onboard_time": 1736774059,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 13057,
+      "num": 29938,
+      "word": "小鹿称北京就是个该吃苦的城市",
+      "onboard_time": 1736885712,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 12858,
