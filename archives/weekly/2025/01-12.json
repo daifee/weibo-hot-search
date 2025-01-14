@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736823337304,
+  "endTime": 1736824969288,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -121,6 +121,14 @@
       "onboard_time": 1736682139,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1642487,
+      "num": 1642487,
+      "word": "被车撞了6天后突然去世该谁担责",
+      "onboard_time": 1736822957,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1615883,
@@ -259,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1380989,
+      "num": 1300392,
+      "word": "春秋航空回应赴泰国飞机票不能退",
+      "onboard_time": 1736819838,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1376572,
       "num": 1376572,
       "word": "朱旺旺爆改",
@@ -289,14 +305,6 @@
       "onboard_time": 1736663599,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1300392,
-      "num": 1300392,
-      "word": "春秋航空回应赴泰国飞机票不能退",
-      "onboard_time": 1736819838,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1285128,
@@ -531,6 +539,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 989700,
+      "num": 989700,
+      "word": "李昀锐特邀友情出演",
+      "onboard_time": 1736823618,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 985885,
       "num": 985885,
       "word": "左眼悲伤 右眼震惊",
@@ -617,6 +633,14 @@
       "onboard_time": 1736757919,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 917723,
+      "num": 917723,
+      "word": "樊振东晒行李箱",
+      "onboard_time": 1736822297,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 899500,
@@ -1291,14 +1315,6 @@
       "category": "体育,作品衍生"
     },
     {
-      "raw_hot": 547330,
-      "num": 547330,
-      "word": "樊振东晒行李箱",
-      "onboard_time": 1736822297,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 542483,
       "num": 542483,
       "word": "何惟芳人设",
@@ -1545,6 +1561,14 @@
       "onboard_time": 1736614519,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 446154,
+      "num": 446154,
+      "word": "尹锡悦年薪将达2.626亿韩元",
+      "onboard_time": 1736819717,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 445378,
@@ -2155,6 +2179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 312250,
+      "num": 256078,
+      "word": "女子把男朋友的求婚戒指咬断了",
+      "onboard_time": 1736823498,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 312075,
       "num": 312075,
       "word": "丁禹兮怕有刺的鱼",
@@ -2315,6 +2347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 287982,
+      "num": 244663,
+      "word": "不理解虚岁到底有什么意义",
+      "onboard_time": 1736822778,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 287554,
       "num": 287554,
       "word": "白月梵星有效播放量破3亿",
@@ -2369,14 +2409,6 @@
       "onboard_time": 1736650280,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 274587,
-      "num": 274587,
-      "word": "尹锡悦年薪将达2.626亿韩元",
-      "onboard_time": 1736819717,
-      "rank": 22,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 273794,
@@ -2617,6 +2649,14 @@
       "onboard_time": 1736723775,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 246322,
+      "num": 460653,
+      "word": "川渝艺人组团回家过年",
+      "onboard_time": 1736822177,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 245679,
@@ -3371,6 +3411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 203613,
+      "num": 203613,
+      "word": "樊振东谈28岁的愿望",
+      "onboard_time": 1736824638,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203278,
       "num": 203278,
       "word": "百事可乐直播",
@@ -3531,6 +3579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 198494,
+      "num": 198494,
+      "word": "张杰演唱会大电影密钥延期",
+      "onboard_time": 1736824218,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 198422,
       "num": 335421,
       "word": "孟子义的采访让金靖2024年最后一天感到了幸福",
@@ -3545,14 +3601,6 @@
       "onboard_time": 1736752698,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 198207,
-      "num": 198207,
-      "word": "川渝艺人组团回家过年",
-      "onboard_time": 1736822177,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 198163,
@@ -3609,6 +3657,14 @@
       "onboard_time": 1736774722,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197332,
+      "num": 197332,
+      "word": "金晨 90后女演员单片票房TOP1",
+      "onboard_time": 1736824458,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 197295,
@@ -3683,6 +3739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194438,
+      "num": 349242,
+      "word": "富士康被爆停派中国大陆员工",
+      "onboard_time": 1736824278,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 194319,
       "num": 194319,
       "word": "黄晓明又在拍肖战",
@@ -3713,14 +3777,6 @@
       "onboard_time": 1736676199,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 193595,
-      "num": 193595,
-      "word": "被车撞了6天后突然去世该谁担责",
-      "onboard_time": 1736822957,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 192878,
@@ -3827,6 +3883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190580,
+      "num": 176555,
+      "word": "幸好韩国人只是说上海街头没有豪车",
+      "onboard_time": 1736824579,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190215,
       "num": 190215,
       "word": "广东男篮vs北控男篮",
@@ -3881,14 +3945,6 @@
       "onboard_time": 1736668519,
       "rank": 42,
       "category": "美食"
-    },
-    {
-      "raw_hot": 188948,
-      "num": 185027,
-      "word": "不理解虚岁到底有什么意义",
-      "onboard_time": 1736822778,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 188850,
@@ -4203,6 +4259,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 174157,
+      "num": 174157,
+      "word": "美两艘新航母将以克林顿和布什命名",
+      "onboard_time": 1736824338,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 173909,
       "num": 173909,
       "word": "2025一大批大国重器来了",
@@ -4360,6 +4424,14 @@
       "word": "26岁渐冻症女子靠直播赚治疗费",
       "onboard_time": 1736688201,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170424,
+      "num": 170424,
+      "word": "买了3年万元重疾险患肺癌遭拒赔",
+      "onboard_time": 1736824038,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -4633,6 +4705,14 @@
       "onboard_time": 1736663899,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 158074,
+      "num": 158074,
+      "word": "刘亦菲去中国电视剧年度盛典",
+      "onboard_time": 1736823558,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 157995,
@@ -5139,6 +5219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143014,
+      "num": 143014,
+      "word": "驻站6个考点成为考公素材",
+      "onboard_time": 1736824397,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142872,
       "num": 142872,
       "word": "AG今年巅峰之夜长这样",
@@ -5219,6 +5307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 141190,
+      "num": 138233,
+      "word": "白银黄金直线跳水",
+      "onboard_time": 1736823979,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 140933,
       "num": 906978,
       "word": "你的家乡有什么过年必吃菜",
@@ -5249,6 +5345,14 @@
       "onboard_time": 1736684660,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 139398,
+      "num": 139398,
+      "word": "江湖夜雨十年灯杀青",
+      "onboard_time": 1736823498,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 139343,
@@ -5360,6 +5464,14 @@
       "word": "杨紫管乐演姐妹",
       "onboard_time": 1736732538,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 136067,
+      "num": 136067,
+      "word": "王鹤棣拍这里时候才24岁",
+      "onboard_time": 1736824878,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -5521,6 +5633,14 @@
       "onboard_time": 1736753478,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 131448,
+      "num": 131448,
+      "word": "老板开店一个月金毛来吃了半个月",
+      "onboard_time": 1736823319,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 131352,
@@ -5857,14 +5977,6 @@
       "onboard_time": 1736692401,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121917,
-      "num": 121917,
-      "word": "老板开店一个月金毛来吃了半个月",
-      "onboard_time": 1736823319,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 121779,
@@ -6571,6 +6683,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 97163,
+      "num": 258006,
+      "word": "寒假来临中小学生成电诈重点目标",
+      "onboard_time": 1736824158,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 96474,
       "num": 96474,
       "word": "贵人鸟改名卖粮了",
@@ -7259,6 +7379,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 51241,
+      "num": 173392,
+      "word": "Moham怒喷OMG",
+      "onboard_time": 1736815759,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 51015,
       "num": 136282,
       "word": "王楚钦手写福字祝大家福星高照",
@@ -7329,14 +7457,6 @@
       "onboard_time": 1736609666,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45976,
-      "num": 173392,
-      "word": "Moham怒喷OMG",
-      "onboard_time": 1736815759,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 45543,

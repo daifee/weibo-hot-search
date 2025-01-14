@@ -1,7 +1,15 @@
 {
   "startTime": 1736785781963,
-  "endTime": 1736823337304,
+  "endTime": 1736824969288,
   "band_list": [
+    {
+      "raw_hot": 1642487,
+      "num": 1642487,
+      "word": "被车撞了6天后突然去世该谁担责",
+      "onboard_time": 1736822957,
+      "rank": 27,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1600190,
       "num": 1406314,
@@ -27,7 +35,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1300392,
+      "raw_hot": 1380989,
       "num": 1300392,
       "word": "春秋航空回应赴泰国飞机票不能退",
       "onboard_time": 1736819838,
@@ -41,6 +49,22 @@
       "onboard_time": 1736819178,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 989700,
+      "num": 989700,
+      "word": "李昀锐特邀友情出演",
+      "onboard_time": 1736823618,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 917723,
+      "num": 917723,
+      "word": "樊振东晒行李箱",
+      "onboard_time": 1736822297,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 888159,
@@ -139,14 +163,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 547330,
-      "num": 547330,
-      "word": "樊振东晒行李箱",
-      "onboard_time": 1736822297,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 524766,
       "num": 524766,
       "word": "男子用杀虫剂毒死大量锦鲤被刑拘",
@@ -169,6 +185,14 @@
       "onboard_time": 1736813598,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 446154,
+      "num": 446154,
+      "word": "尹锡悦年薪将达2.626亿韩元",
+      "onboard_time": 1736819717,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 440410,
@@ -251,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 312250,
+      "num": 256078,
+      "word": "女子把男朋友的求婚戒指咬断了",
+      "onboard_time": 1736823498,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 310761,
       "num": 310761,
       "word": "铁路春运首日实况直播",
@@ -267,20 +299,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 287982,
+      "num": 244663,
+      "word": "不理解虚岁到底有什么意义",
+      "onboard_time": 1736822778,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 287554,
       "num": 287554,
       "word": "白月梵星有效播放量破3亿",
       "onboard_time": 1736812697,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 274587,
-      "num": 274587,
-      "word": "尹锡悦年薪将达2.626亿韩元",
-      "onboard_time": 1736819717,
-      "rank": 22,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 273033,
@@ -305,6 +337,14 @@
       "onboard_time": 1736774901,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 246322,
+      "num": 460653,
+      "word": "川渝艺人组团回家过年",
+      "onboard_time": 1736822177,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 240700,
@@ -411,6 +451,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 203613,
+      "num": 203613,
+      "word": "樊振东谈28岁的愿望",
+      "onboard_time": 1736824638,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202090,
       "num": 202090,
       "word": "徐克谈对肖战的看法",
@@ -419,12 +467,12 @@
       "category": "电影,艺人"
     },
     {
-      "raw_hot": 198207,
-      "num": 198207,
-      "word": "川渝艺人组团回家过年",
-      "onboard_time": 1736822177,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 198494,
+      "num": 198494,
+      "word": "张杰演唱会大电影密钥延期",
+      "onboard_time": 1736824218,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 198037,
@@ -433,6 +481,14 @@
       "onboard_time": 1736770579,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197332,
+      "num": 197332,
+      "word": "金晨 90后女演员单片票房TOP1",
+      "onboard_time": 1736824458,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 195952,
@@ -451,12 +507,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193595,
-      "num": 193595,
-      "word": "被车撞了6天后突然去世该谁担责",
-      "onboard_time": 1736822957,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 194438,
+      "num": 349242,
+      "word": "富士康被爆停派中国大陆员工",
+      "onboard_time": 1736824278,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 192869,
@@ -467,20 +523,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 190580,
+      "num": 176555,
+      "word": "幸好韩国人只是说上海街头没有豪车",
+      "onboard_time": 1736824579,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189518,
       "num": 189518,
       "word": "英伟达员工称一周工作7天加班至凌晨",
       "onboard_time": 1736818457,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 188948,
-      "num": 185027,
-      "word": "不理解虚岁到底有什么意义",
-      "onboard_time": 1736822778,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 185661,
@@ -505,6 +561,14 @@
       "onboard_time": 1736800759,
       "rank": 6,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 174157,
+      "num": 174157,
+      "word": "美两艘新航母将以克林顿和布什命名",
+      "onboard_time": 1736824338,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 173124,
@@ -547,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170424,
+      "num": 170424,
+      "word": "买了3年万元重疾险患肺癌遭拒赔",
+      "onboard_time": 1736824038,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165109,
       "num": 165109,
       "word": "比特币暴跌超21万人爆仓",
@@ -561,6 +633,14 @@
       "onboard_time": 1736773521,
       "rank": 26,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 158074,
+      "num": 158074,
+      "word": "刘亦菲去中国电视剧年度盛典",
+      "onboard_time": 1736823558,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 156583,
@@ -611,6 +691,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143014,
+      "num": 143014,
+      "word": "驻站6个考点成为考公素材",
+      "onboard_time": 1736824397,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 141190,
+      "num": 138233,
+      "word": "白银黄金直线跳水",
+      "onboard_time": 1736823979,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 139398,
+      "num": 139398,
+      "word": "江湖夜雨十年灯杀青",
+      "onboard_time": 1736823498,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139251,
       "num": 139251,
       "word": "小红书美国appstore下载榜第一",
@@ -627,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136067,
+      "num": 136067,
+      "word": "王鹤棣拍这里时候才24岁",
+      "onboard_time": 1736824878,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135846,
       "num": 135846,
       "word": "二旬老人看90岁青春女生自律",
@@ -641,6 +753,14 @@
       "onboard_time": 1736780301,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131448,
+      "num": 131448,
+      "word": "老板开店一个月金毛来吃了半个月",
+      "onboard_time": 1736823319,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 129761,
@@ -681,14 +801,6 @@
       "onboard_time": 1736813420,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 121917,
-      "num": 121917,
-      "word": "老板开店一个月金毛来吃了半个月",
-      "onboard_time": 1736823319,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 121445,
@@ -825,6 +937,14 @@
       "onboard_time": 1736810356,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 97163,
+      "num": 258006,
+      "word": "寒假来临中小学生成电诈重点目标",
+      "onboard_time": 1736824158,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 96474,
@@ -1011,6 +1131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51241,
+      "num": 173392,
+      "word": "Moham怒喷OMG",
+      "onboard_time": 1736815759,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 47689,
       "num": 218901,
       "word": "特鲁索娃曾说想生两或三个孩子",
@@ -1041,14 +1169,6 @@
       "onboard_time": 1736773220,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 45976,
-      "num": 173392,
-      "word": "Moham怒喷OMG",
-      "onboard_time": 1736815759,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 44172,
