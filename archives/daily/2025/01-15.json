@@ -1,6 +1,6 @@
 {
   "startTime": 1736872066671,
-  "endTime": 1736876260572,
+  "endTime": 1736879360204,
   "band_list": [
     {
       "raw_hot": 3396289,
@@ -339,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86635,
+      "num": 86635,
+      "word": "当街家暴被呵止男子已与妻子和解",
+      "onboard_time": 1736876533,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82929,
       "num": 147324,
       "word": "熊孩子能闯多大的祸",
@@ -395,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71476,
+      "num": 71476,
+      "word": "李昀锐冰湖重生高马尾骑马路透",
+      "onboard_time": 1736873595,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 70636,
       "num": 70636,
       "word": "多位博主实探中国游客在日被撞现场",
@@ -403,19 +419,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69781,
+      "num": 110306,
+      "word": "网红带货疑似合成肉卷店铺已关闭",
+      "onboard_time": 1736875274,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68288,
       "num": 68288,
       "word": "胡冰卿新剧一不小心装了个大的",
       "onboard_time": 1736867660,
       "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 64828,
-      "num": 64828,
-      "word": "李昀锐冰湖重生高马尾骑马路透",
-      "onboard_time": 1736873595,
-      "rank": 32,
       "category": "剧集"
     },
     {
@@ -451,14 +467,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 48014,
-      "num": 110306,
-      "word": "网红带货疑似合成肉卷店铺已关闭",
-      "onboard_time": 1736875274,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 44909,
       "num": 44909,
       "word": "武艺 上个节目家没了",
@@ -489,6 +497,14 @@
       "onboard_time": 1736872936,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28022,
+      "num": 28022,
+      "word": "登陆少年东方卫视应援",
+      "onboard_time": 1736878452,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 25741,
@@ -529,6 +545,14 @@
       "onboard_time": 1736875454,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 12036,
+      "num": 76359,
+      "word": "对台军售这些美企被列入不可靠实体清单",
+      "onboard_time": 1736878872,
+      "rank": 9,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
