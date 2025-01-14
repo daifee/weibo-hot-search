@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736819683066,
+  "endTime": 1736822708004,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1811,6 +1811,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1533540,
+      "num": 1533540,
+      "word": "王鹤棣演技",
+      "onboard_time": 1736816240,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1533322,
       "num": 4963747,
       "word": "孙琳 娱乐圈最勇的人出现了",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736228961,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1274107,
-      "num": 1020426,
-      "word": "15岁女孩以买方身份入院产子卖6万8",
-      "onboard_time": 1735785019,
-      "rank": 4,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

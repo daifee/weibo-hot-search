@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736819683066,
+  "endTime": 1736822708004,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -185,6 +185,14 @@
       "onboard_time": 1736611943,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1533540,
+      "num": 1533540,
+      "word": "王鹤棣演技",
+      "onboard_time": 1736816240,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1520474,
@@ -443,14 +451,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1058579,
-      "num": 1058579,
-      "word": "王鹤棣演技",
-      "onboard_time": 1736816240,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1056877,
       "num": 1056877,
       "word": "被74岁刘晓庆喊大爷",
@@ -473,6 +473,14 @@
       "onboard_time": 1736662040,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1046621,
+      "num": 1046621,
+      "word": "日本水族馆翻车鱼因没游客自闭",
+      "onboard_time": 1736819178,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1044490,
@@ -707,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 822490,
+      "num": 822490,
+      "word": "春秋航空回应赴泰国飞机票不能退",
+      "onboard_time": 1736819838,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 815759,
       "num": 590550,
       "word": "李昀锐 舒肤佳变硫磺皂",
@@ -801,6 +817,14 @@
       "onboard_time": 1736772079,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 751776,
+      "num": 751776,
+      "word": "美国星巴克不再免费开放",
+      "onboard_time": 1736818457,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 748336,
@@ -1177,6 +1201,14 @@
       "onboard_time": 1736814319,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 596185,
+      "num": 596185,
+      "word": "杨紫流苏旗袍",
+      "onboard_time": 1736820557,
+      "rank": 6,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 590504,
@@ -1763,6 +1795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 381183,
+      "num": 381183,
+      "word": "樊振东说巴黎奥运会打的筋疲力尽",
+      "onboard_time": 1736818457,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 380873,
       "num": 597731,
       "word": "西藏定日多天后仍在余震",
@@ -2131,6 +2171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 310761,
+      "num": 310761,
+      "word": "铁路春运首日实况直播",
+      "onboard_time": 1736820077,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 308264,
       "num": 308264,
       "word": "第五人格",
@@ -2273,14 +2321,6 @@
       "onboard_time": 1736602529,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 283011,
-      "num": 283011,
-      "word": "美国星巴克不再免费开放",
-      "onboard_time": 1736818457,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 282073,
@@ -2491,6 +2531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 256025,
+      "num": 256025,
+      "word": "樊振东晒行李箱",
+      "onboard_time": 1736822297,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 254260,
       "num": 254260,
       "word": "代露娃浓颜系美女",
@@ -2529,6 +2577,14 @@
       "onboard_time": 1736674098,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 250412,
+      "num": 250412,
+      "word": "尹锡悦年薪将达2.626亿韩元",
+      "onboard_time": 1736819717,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 249126,
@@ -2617,14 +2673,6 @@
       "onboard_time": 1736761400,
       "rank": 9,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 241450,
-      "num": 241450,
-      "word": "樊振东说巴黎奥运会打的筋疲力尽",
-      "onboard_time": 1736818457,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 240192,
@@ -2745,6 +2793,14 @@
       "onboard_time": 1736766620,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229308,
+      "num": 256508,
+      "word": "敖瑞鹏另一只手帮白鹿提鞋",
+      "onboard_time": 1736815220,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 229223,
@@ -2961,14 +3017,6 @@
       "onboard_time": 1736751079,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 216843,
-      "num": 216843,
-      "word": "日本水族馆翻车鱼因没游客自闭",
-      "onboard_time": 1736819178,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 216475,
@@ -3297,6 +3345,14 @@
       "onboard_time": 1736738238,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 203624,
+      "num": 214472,
+      "word": "Cat称一诺已道歉",
+      "onboard_time": 1736818457,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 203278,
@@ -3635,20 +3691,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 193073,
-      "num": 214472,
-      "word": "Cat称一诺已道歉",
-      "onboard_time": 1736818457,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 192878,
       "num": 192878,
       "word": "海军南昌舰入列5周年",
       "onboard_time": 1736643380,
       "rank": 30,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 192869,
+      "num": 192869,
+      "word": "日本地震留学生抱毕业论文电脑逃生",
+      "onboard_time": 1736819598,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 192639,
@@ -4219,6 +4275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170920,
+      "num": 202069,
+      "word": "许光汉去了柯佳嬿生日派对",
+      "onboard_time": 1736816000,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170833,
       "num": 170833,
       "word": "年度最佳新锐连续三年出自AG",
@@ -4331,6 +4395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 165605,
+      "num": 165605,
+      "word": "黄牛外挂软件抢票仅需1秒",
+      "onboard_time": 1736821638,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165588,
       "num": 165588,
       "word": "2025全年考试时间表",
@@ -4345,6 +4417,14 @@
       "onboard_time": 1736650819,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165109,
+      "num": 165109,
+      "word": "比特币暴跌超21万人爆仓",
+      "onboard_time": 1736821698,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 165108,
@@ -4409,6 +4489,14 @@
       "onboard_time": 1736656820,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161373,
+      "num": 476969,
+      "word": "星巴克推出新的顾客行为准则",
+      "onboard_time": 1736819178,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161365,
@@ -4611,14 +4699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 155668,
-      "num": 155668,
-      "word": "许光汉去了柯佳嬿生日派对",
-      "onboard_time": 1736816000,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 155252,
       "num": 155252,
       "word": "东京食尸鬼 金木成王",
@@ -4697,6 +4777,14 @@
       "onboard_time": 1736655499,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 153124,
+      "num": 153124,
+      "word": "杭州一上市公司实施4.5天工作制",
+      "onboard_time": 1736822117,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152939,
@@ -4881,14 +4969,6 @@
       "onboard_time": 1736735778,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 147541,
-      "num": 160320,
-      "word": "敖瑞鹏另一只手帮白鹿提鞋",
-      "onboard_time": 1736815220,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 147293,
@@ -5155,6 +5235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 138726,
+      "num": 201875,
+      "word": "白鹿敖瑞鹏二搭看看实力",
+      "onboard_time": 1736821038,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138353,
       "num": 357188,
       "word": "美国演员被困火海险跳海逃",
@@ -5257,6 +5345,14 @@
       "onboard_time": 1736687000,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135429,
+      "num": 135429,
+      "word": "二旬老人看90岁青春女生自律",
+      "onboard_time": 1736819538,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 134675,
@@ -5675,12 +5771,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 124504,
-      "num": 124504,
-      "word": "星巴克推出新的顾客行为准则",
-      "onboard_time": 1736819178,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 124600,
+      "num": 124600,
+      "word": "川渝艺人组团回家过年",
+      "onboard_time": 1736822177,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 124426,
@@ -5921,6 +6017,14 @@
       "onboard_time": 1736783119,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116604,
+      "num": 116604,
+      "word": "东南西北中陆地航母震撼集结",
+      "onboard_time": 1736820136,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 116443,
@@ -6227,6 +6331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105834,
+      "num": 105834,
+      "word": "上班给人一种永远毕不了业的感觉",
+      "onboard_time": 1736821398,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 105544,
       "num": 105544,
       "word": "洛杉矶山火过火面积超过旧金山市区",
@@ -6289,6 +6401,14 @@
       "onboard_time": 1736726599,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 103713,
+      "num": 103713,
+      "word": "2025铁路春运预计发送旅客5.1亿人次",
+      "onboard_time": 1736820077,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103535,
@@ -6473,22 +6593,6 @@
       "onboard_time": 1736759178,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 93115,
-      "num": 93115,
-      "word": "日本地震留学生抱毕业论文电脑逃生",
-      "onboard_time": 1736819598,
-      "rank": 46,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 93095,
-      "num": 93095,
-      "word": "二旬老人看90岁青春女生自律",
-      "onboard_time": 1736819538,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 92720,
@@ -6996,7 +7100,7 @@
     },
     {
       "raw_hot": 54303,
-      "num": 843186,
+      "num": 926170,
       "word": "我国外贸含新量还在不断上升",
       "onboard_time": 1736773101,
       "rank": 2,
@@ -7513,6 +7617,14 @@
       "onboard_time": 1736773101,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 25886,
+      "num": 376580,
+      "word": "北京春运首趟列车凌晨启程",
+      "onboard_time": 1736822359,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25645,
