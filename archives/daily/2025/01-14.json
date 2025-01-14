@@ -1,6 +1,6 @@
 {
   "startTime": 1736785781963,
-  "endTime": 1736864453622,
+  "endTime": 1736865531289,
   "band_list": [
     {
       "raw_hot": 3677184,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1548219,
-      "num": 409285,
+      "num": 490495,
       "word": "TikTok难民称中国网友非常热情",
       "onboard_time": 1736860460,
       "rank": 10,
@@ -307,6 +307,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 748790,
+      "num": 748790,
+      "word": "刘晓庆说李小冉骂得对",
+      "onboard_time": 1736862560,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 740079,
       "num": 740079,
       "word": "两中国游客遭列车撞击前监控曝光",
@@ -435,14 +443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 608355,
-      "num": 608355,
-      "word": "刘晓庆说李小冉骂得对",
-      "onboard_time": 1736862560,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 598791,
       "num": 598791,
       "word": "韩国两个被弹劾总统都涨工资了",
@@ -473,6 +473,14 @@
       "onboard_time": 1736855779,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 593898,
+      "num": 593898,
+      "word": "田曦薇比30000",
+      "onboard_time": 1736862980,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 586584,
@@ -635,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 457821,
+      "num": 457821,
+      "word": "哈利波特主题乐园有望落沪",
+      "onboard_time": 1736861240,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 451718,
       "num": 451718,
       "word": "霉霉今年有希望来上海办演唱会",
@@ -681,14 +697,6 @@
       "onboard_time": 1736836819,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 420356,
-      "num": 420356,
-      "word": "田曦薇比30000",
-      "onboard_time": 1736862980,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 415676,
@@ -796,7 +804,7 @@
     },
     {
       "raw_hot": 366829,
-      "num": 406710,
+      "num": 499362,
       "word": "消防栓有水我就救了一下",
       "onboard_time": 1736851098,
       "rank": 44,
@@ -889,14 +897,6 @@
       "onboard_time": 1736856198,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 314161,
-      "num": 384505,
-      "word": "哈利波特主题乐园有望落沪",
-      "onboard_time": 1736861240,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 312250,
@@ -1003,12 +1003,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 284042,
+      "num": 491849,
+      "word": "美国网友帮做完形填空5题错俩",
+      "onboard_time": 1736862080,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 283752,
       "num": 283752,
       "word": "难哄橄榄树值得爱 对打",
       "onboard_time": 1736837599,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 283286,
+      "num": 283286,
+      "word": "黄牛团伙倒卖30000多张演唱会票",
+      "onboard_time": 1736862860,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 277171,
@@ -1091,12 +1107,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 264360,
-      "num": 264360,
-      "word": "黄牛团伙倒卖30000多张演唱会票",
-      "onboard_time": 1736862860,
-      "rank": 23,
-      "category": "民生新闻"
+      "raw_hot": 261611,
+      "num": 195672,
+      "word": "女星因老公去世删光社交动态",
+      "onboard_time": 1736864420,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 253785,
@@ -1179,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 233235,
+      "num": 233235,
+      "word": "2025国考",
+      "onboard_time": 1736862800,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 231191,
       "num": 231191,
       "word": "微博之夜95生微指",
@@ -1243,6 +1267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 219552,
+      "num": 315306,
+      "word": "魏哲鸣 酒蒙子的理想抱负是成为Daddy",
+      "onboard_time": 1736864240,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218111,
       "num": 218111,
       "word": "猎罪图鉴2 庆功宴",
@@ -1305,14 +1337,6 @@
       "onboard_time": 1736825238,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 207209,
-      "num": 207209,
-      "word": "2025国考",
-      "onboard_time": 1736862800,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 205752,
@@ -1907,6 +1931,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157790,
+      "num": 157790,
+      "word": "单身即地狱男嘉宾发言",
+      "onboard_time": 1736865259,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 156616,
+      "num": 156616,
+      "word": "辽宁男篮战胜上海男篮",
+      "onboard_time": 1736865441,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156583,
       "num": 156583,
       "word": "泰国孕妇坠崖案当事人王暖暖最新发声",
@@ -1995,6 +2035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149226,
+      "num": 149226,
+      "word": "卢昱晓说刘亦菲是美丽的形容词",
+      "onboard_time": 1736865500,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 147639,
       "num": 147639,
       "word": "王俊凯挂面文学",
@@ -2035,6 +2083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146435,
+      "num": 146435,
+      "word": "关晓彤银黑交织长裙",
+      "onboard_time": 1736863700,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145378,
       "num": 145378,
       "word": "没买到票一定要点候补",
@@ -2057,6 +2113,14 @@
       "onboard_time": 1736857099,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144499,
+      "num": 259363,
+      "word": "陈梦生日前一天解锁新身份",
+      "onboard_time": 1736861960,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 144481,
@@ -2163,6 +2227,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 137892,
+      "num": 213072,
+      "word": "宋慧乔称自己是INFJ有时过于敏感",
+      "onboard_time": 1736863580,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137598,
       "num": 137598,
       "word": "春运火车票发售关键时间点",
@@ -2177,14 +2249,6 @@
       "onboard_time": 1736825000,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 136252,
-      "num": 136252,
-      "word": "关晓彤银黑交织长裙",
-      "onboard_time": 1736863700,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 135846,
@@ -2219,14 +2283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135005,
-      "num": 222286,
-      "word": "美国网友帮做完形填空5题错俩",
-      "onboard_time": 1736862080,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134728,
       "num": 178122,
       "word": "祝绪丹设定的竹林四侠二搭",
@@ -2249,14 +2305,6 @@
       "onboard_time": 1736843958,
       "rank": 18,
       "category": "财经"
-    },
-    {
-      "raw_hot": 132222,
-      "num": 132222,
-      "word": "陈梦生日前一天解锁新身份",
-      "onboard_time": 1736861960,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 132209,
@@ -2409,14 +2457,6 @@
       "onboard_time": 1736857457,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121510,
-      "num": 121510,
-      "word": "女星因老公去世删光社交动态",
-      "onboard_time": 1736864420,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 121445,
@@ -2691,14 +2731,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 106811,
-      "num": 215582,
-      "word": "魏哲鸣 酒蒙子的理想抱负是成为Daddy",
-      "onboard_time": 1736864240,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 106402,
       "num": 285783,
       "word": "崩坏星穹铁道",
@@ -2785,6 +2817,14 @@
       "onboard_time": 1736735478,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 98965,
+      "num": 384417,
+      "word": "应县木塔景区起火垃圾堆已被扑灭",
+      "onboard_time": 1736863822,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98654,
@@ -3179,14 +3219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 48676,
-      "num": 384417,
-      "word": "应县木塔景区起火垃圾堆已被扑灭",
-      "onboard_time": 1736863822,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47835,
       "num": 175680,
       "word": "LGDNBW新中式适配度",
@@ -3347,6 +3379,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 28600,
+      "num": 331253,
+      "word": "旧改项目高坠事故致1死被瞒报",
+      "onboard_time": 1736863759,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27868,
       "num": 299829,
       "word": "日本气象厅提醒民众一周内或再强震",
@@ -3409,14 +3449,6 @@
       "onboard_time": 1736793731,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 22606,
-      "num": 331253,
-      "word": "旧改项目高坠事故致1死被瞒报",
-      "onboard_time": 1736863759,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22153,
@@ -3491,14 +3523,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 19007,
-      "num": 213072,
-      "word": "宋慧乔称自己是INFJ有时过于敏感",
-      "onboard_time": 1736863580,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 18403,
       "num": 240178,
       "word": "王曦雨说期待下一场比赛",
@@ -3545,6 +3569,14 @@
       "onboard_time": 1736857821,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11963,
+      "num": 195757,
+      "word": "男子行窃前跪拜祈祷能偷到更多现金",
+      "onboard_time": 1736865500,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11827,
