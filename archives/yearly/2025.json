@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736851195774,
+  "endTime": 1736853498372,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -841,6 +841,14 @@
       "onboard_time": 1736566819,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2160261,
+      "num": 2160261,
+      "word": "将门毒后",
+      "onboard_time": 1736851396,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 2154478,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735700480,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1299836,
-      "num": 1299836,
-      "word": "李昀锐有点紧张",
-      "onboard_time": 1735657828,
-      "rank": 6,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

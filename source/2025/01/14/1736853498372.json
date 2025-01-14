@@ -1,0 +1,410 @@
+{
+  "runTime": 1736853498372,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2160261,
+        "num": 2160261,
+        "word": "将门毒后",
+        "onboard_time": 1736851396,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 846588,
+        "num": 846588,
+        "word": "山姆大代购赚的不止代购费",
+        "onboard_time": 1736835499,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48811,
+        "num": 586185,
+        "word": "120多项春节非遗项目集中亮相",
+        "onboard_time": 1736844558,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 572271,
+        "num": 572271,
+        "word": "美国小伙狂炫中国美食胖了9斤",
+        "onboard_time": 1736846959,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 494719,
+        "num": 494719,
+        "word": "蔡磊感谢刘强东千万资助",
+        "onboard_time": 1736849718,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 451267,
+        "num": 451267,
+        "word": "武艺 上个节目家没了",
+        "onboard_time": 1736846119,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 414933,
+        "num": 414933,
+        "word": "李佳琦直播间车厘子被指不新鲜",
+        "onboard_time": 1736846359,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 414210,
+        "num": 414210,
+        "word": "父亲假扮女儿网恋诈骗22万",
+        "onboard_time": 1736843899,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385388,
+        "num": 385388,
+        "word": "大量美国网友涌入小红书",
+        "onboard_time": 1736851759,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 60870,
+        "num": 383904,
+        "word": "震中帮同学撤离4人每人被奖1万",
+        "onboard_time": 1736840059,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 840043,
+        "num": 383632,
+        "word": "金希澈残疾等级",
+        "onboard_time": 1736841318,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 705173,
+        "num": 383589,
+        "word": "王鹤棣兑现承诺脱衣服了",
+        "onboard_time": 1736850558,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383248,
+        "num": 383248,
+        "word": "李现否认是杨紫送的相机",
+        "onboard_time": 1736853079,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369822,
+        "num": 369822,
+        "word": "婆婆谎称儿媳生的死胎把孩子送人",
+        "onboard_time": 1736841379,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62566,
+        "num": 365190,
+        "word": "霉霉今年有希望来上海办演唱会",
+        "onboard_time": 1736853138,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 382851,
+        "num": 364286,
+        "word": "河南一男孩课堂上被同学狂扇耳光",
+        "onboard_time": 1736848217,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361608,
+        "num": 361608,
+        "word": "刘亦菲拖地挂脖高定",
+        "onboard_time": 1736852298,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 338293,
+        "num": 338293,
+        "word": "小鹿称女性幽默会消减性感",
+        "onboard_time": 1736849239,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308579,
+        "num": 308579,
+        "word": "网购正品卫生巾疑现不明爬虫",
+        "onboard_time": 1736847499,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22844,
+        "num": 276284,
+        "word": "男子造谣新能源车彻底进不了海南被拘",
+        "onboard_time": 1736852599,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271556,
+        "num": 271556,
+        "word": "被车撞了6天后突然去世该谁担责",
+        "onboard_time": 1736822957,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269528,
+        "num": 269528,
+        "word": "祝绪丹回应和丁禹兮合拍哭了",
+        "onboard_time": 1736847379,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 266348,
+        "num": 266348,
+        "word": "美国女孩戴手铐哭求警察别弄坏手镯",
+        "onboard_time": 1736841739,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 213849,
+        "num": 213849,
+        "word": "家属称景德镇车祸死者父母重度抑郁",
+        "onboard_time": 1736851038,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141849,
+        "num": 203125,
+        "word": "无畏的颜值含金量还在上升",
+        "onboard_time": 1736850738,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198406,
+        "num": 198406,
+        "word": "小红书概念爆发",
+        "onboard_time": 1736834480,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 194814,
+        "num": 194814,
+        "word": "消防栓有水我就救了一下",
+        "onboard_time": 1736851098,
+        "rank": 26,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 181049,
+        "num": 181049,
+        "word": "100多枚巴黎奥运会奖牌被退回",
+        "onboard_time": 1736826199,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170946,
+        "num": 170946,
+        "word": "成毅的眼神戏把我钓成翘嘴",
+        "onboard_time": 1736852718,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170641,
+        "num": 170641,
+        "word": "十个勤天现身央视春晚第三次联排",
+        "onboard_time": 1736847499,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140710,
+        "num": 140710,
+        "word": "鬼灭之刃无限城篇",
+        "onboard_time": 1736843118,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 139283,
+        "num": 139283,
+        "word": "崔珉焕称离婚因妻子一天睡18小时",
+        "onboard_time": 1736839338,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138448,
+        "num": 138448,
+        "word": "白鹿 今天加更喔",
+        "onboard_time": 1736848519,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126146,
+        "num": 126146,
+        "word": "12306系统持续经受大流量访问考验",
+        "onboard_time": 1736843538,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123522,
+        "num": 123522,
+        "word": "女子给网友寄2箱酸奶险损失12.5万",
+        "onboard_time": 1736853198,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121036,
+        "num": 121036,
+        "word": "澳网首轮中国球员4胜7负",
+        "onboard_time": 1736851999,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121024,
+        "num": 121024,
+        "word": "常华森 骨相好皮薄馅不多",
+        "onboard_time": 1736842998,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114688,
+        "num": 114688,
+        "word": "2025年春运首日",
+        "onboard_time": 1736851699,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113814,
+        "num": 113814,
+        "word": "向佐回应和郭碧婷感情",
+        "onboard_time": 1736832199,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111343,
+        "num": 111343,
+        "word": "刘诗诗 小说里的初恋白月光",
+        "onboard_time": 1736845279,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107905,
+        "num": 107905,
+        "word": "SM新男团 haru",
+        "onboard_time": 1736836819,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107853,
+        "num": 107853,
+        "word": "吉林市文旅回应救助事件被指有出入",
+        "onboard_time": 1736849538,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107067,
+        "num": 107067,
+        "word": "国色芳华 我以我血铸天梯",
+        "onboard_time": 1736841858,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107026,
+        "num": 107026,
+        "word": "车厘子快比草莓便宜了",
+        "onboard_time": 1736828660,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 103186,
+        "num": 103186,
+        "word": "KPL奇妙夜",
+        "onboard_time": 1736852178,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102753,
+        "num": 102753,
+        "word": "杨紫 何惟芳一日vlog",
+        "onboard_time": 1736853079,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100250,
+        "num": 100250,
+        "word": "执法人员拿走商品未付钱涉事单位回应",
+        "onboard_time": 1736848639,
+        "rank": 46,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 98119,
+        "num": 98119,
+        "word": "第一次见在演唱会上找演员的",
+        "onboard_time": 1736852117,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96640,
+        "num": 96640,
+        "word": "花鸟使 小范大人",
+        "onboard_time": 1736836579,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91149,
+        "num": 91149,
+        "word": "乡村17台词演我精神状态",
+        "onboard_time": 1736852239,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记要求把冰雪运动普及贯穿始终#"
+    }
+  }
+}
