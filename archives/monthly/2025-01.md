@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/14 18:22:56
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/14 18:39:55
 </p>
 </blockquote>
 <p>
@@ -3993,6 +3993,12 @@ GMM（热度：773720）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B0%8F%E4%BC%99%E7%8B%82%E7%82%AB%E4%B8%AD%E5%9B%BD%E7%BE%8E%E9%A3%9F%E8%83%96%E4%BA%869%E6%96%A4%23" target="weibo">
+美国小伙狂炫中国美食胖了9斤（热度：758857）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%93%A6%E8%BE%B9%E7%90%83%23" target="weibo">
 擦边球（热度：758693）
 </a>
@@ -4115,12 +4121,6 @@ SM新女团 SMTOWN压轴（热度：743773）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%8D%E5%A9%9A%E5%85%83%E5%B9%B4%23" target="weibo">
 复婚元年（热度：739954）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B0%8F%E4%BC%99%E7%8B%82%E7%82%AB%E4%B8%AD%E5%9B%BD%E7%BE%8E%E9%A3%9F%E8%83%96%E4%BA%869%E6%96%A4%23" target="weibo">
-美国小伙狂炫中国美食胖了9斤（热度：738768）
 </a>
 </li>
 
@@ -5511,6 +5511,12 @@ EXO唱了初雪（热度：600311）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E8%BD%A6%E5%8E%98%E5%AD%90%E8%A2%AB%E6%8C%87%E4%B8%8D%E6%96%B0%E9%B2%9C%23" target="weibo">
+李佳琦直播间车厘子被指不新鲜（热度：586584）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E6%9E%9C%E5%90%AB%E7%B3%96%E9%87%8F%E5%92%8C%E7%83%AD%E9%87%8F%E6%8E%92%E8%A1%8C%E6%A6%9C%23" target="weibo">
 水果含糖量和热量排行榜（热度：586227）
 </a>
@@ -5705,12 +5711,6 @@ A50（热度：572477）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%9C%A3%E4%BE%9D%E7%9C%8B%E5%AE%8C%E6%97%A5%E8%AE%B0%E8%A7%89%E5%BE%97%E4%B8%8D%E4%B8%8B%E8%BD%A6%E6%98%AF%E5%AF%B9%E7%9A%84%23" target="weibo">
 黄圣依看完日记觉得不下车是对的（热度：564561）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E8%BD%A6%E5%8E%98%E5%AD%90%E8%A2%AB%E6%8C%87%E4%B8%8D%E6%96%B0%E9%B2%9C%23" target="weibo">
-李佳琦直播间车厘子被指不新鲜（热度：563695）
 </a>
 </li>
 
