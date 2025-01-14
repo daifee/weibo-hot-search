@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/14 13:20:51
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/14 13:37:27
 </p>
 </blockquote>
 <p>
@@ -1737,6 +1737,12 @@ AG挑战者杯夺冠（热度：1652837）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E5%BF%AB%E6%AF%94%E8%8D%89%E8%8E%93%E4%BE%BF%E5%AE%9C%E4%BA%86%23" target="weibo">
+车厘子快比草莓便宜了（热度：1317002）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%9D%E5%BC%BA%20%E4%B8%8A%E7%83%AD%E6%90%9C%E5%8F%AF%E4%BB%A5%E4%BD%86%E4%B8%8D%E8%83%BD%E5%A1%8C%E6%88%BF%23" target="weibo">
 王宝强 上热搜可以但不能塌房（热度：1312957）
 </a>
@@ -1805,12 +1811,6 @@ AG挑战者杯夺冠（热度：1652837）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E5%85%A8%E8%BA%AB%E8%B5%A4%E8%A3%B8%E6%AD%BB%E5%9C%A8%E5%89%8D%E5%A4%AB%E5%AE%B6%E4%B8%AD%23" target="weibo">
 妻子全身赤裸死在前夫家中（热度：1281203）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E4%BD%A0%E6%98%AF%E7%9C%9F%E9%A5%BF%E4%BA%86%23" target="weibo">
-王鹤棣你是真饿了（热度：1279595）
 </a>
 </li>
 

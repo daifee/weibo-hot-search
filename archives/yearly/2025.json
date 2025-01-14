@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736832051132,
+  "endTime": 1736833047698,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -2299,6 +2299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1317002,
+      "num": 1317002,
+      "word": "车厘子快比草莓便宜了",
+      "onboard_time": 1736828660,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1312957,
       "num": 1312957,
       "word": "王宝强 上热搜可以但不能塌房",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736772259,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1279595,
-      "num": 498781,
-      "word": "王鹤棣你是真饿了",
-      "onboard_time": 1735701559,
-      "rank": 7,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

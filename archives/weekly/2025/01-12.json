@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736832051132,
+  "endTime": 1736833047698,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -307,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1317002,
+      "num": 1317002,
+      "word": "车厘子快比草莓便宜了",
+      "onboard_time": 1736828660,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1311830,
       "num": 1311830,
       "word": "魏大勋不语 只是一味地公关",
@@ -385,14 +393,6 @@
       "onboard_time": 1736828300,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1173804,
-      "num": 1173804,
-      "word": "车厘子快比草莓便宜了",
-      "onboard_time": 1736828660,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 1164939,
@@ -832,6 +832,14 @@
       "word": "成都警方再通报女大学生失联",
       "onboard_time": 1736753659,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 790575,
+      "num": 790575,
+      "word": "我把编制看得太重把自己看太轻了",
+      "onboard_time": 1736829380,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -1291,6 +1299,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 596784,
+      "num": 596784,
+      "word": "向佐回应和郭碧婷感情",
+      "onboard_time": 1736832199,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 596185,
       "num": 596185,
       "word": "杨紫流苏旗袍",
@@ -1321,6 +1337,14 @@
       "onboard_time": 1736593888,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 576830,
+      "num": 576830,
+      "word": "在上海的韩国游客人手一斤大白兔",
+      "onboard_time": 1736830759,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 576040,
@@ -1579,6 +1603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 475346,
+      "num": 475346,
+      "word": "张碧晨说赵丽颖特别爱拍但全糊了",
+      "onboard_time": 1736830819,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 475108,
       "num": 475108,
       "word": "旺旺爆改",
@@ -1604,18 +1636,10 @@
     },
     {
       "raw_hot": 465401,
-      "num": 321791,
+      "num": 346053,
       "word": "幸好韩国人只是说上海街头没有豪车",
       "onboard_time": 1736824579,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 463542,
-      "num": 463542,
-      "word": "我把编制看得太重把自己看太轻了",
-      "onboard_time": 1736829380,
-      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -1897,14 +1921,6 @@
       "onboard_time": 1736673140,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 389937,
-      "num": 389937,
-      "word": "张碧晨说赵丽颖特别爱拍但全糊了",
-      "onboard_time": 1736830819,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 389682,
@@ -2467,12 +2483,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 295206,
+      "num": 529787,
+      "word": "2瓶过期啤酒罚款2万是否小错重罚",
+      "onboard_time": 1736830580,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 293879,
       "num": 293879,
       "word": "陈梦孙颖莎微博年度关注女运动员",
       "onboard_time": 1736757861,
       "rank": 21,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 291756,
+      "num": 291756,
+      "word": "向佐 每个人都当我是小丑",
+      "onboard_time": 1736831179,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 291208,
@@ -2561,6 +2593,14 @@
       "onboard_time": 1736748799,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 276672,
+      "num": 577926,
+      "word": "拜登告别",
+      "onboard_time": 1736831599,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 276562,
@@ -2689,6 +2729,14 @@
       "onboard_time": 1736774421,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 266422,
+      "num": 266422,
+      "word": "埃文凯尔被武汉美食硬控了",
+      "onboard_time": 1736831058,
+      "rank": 30,
+      "category": "正能量"
     },
     {
       "raw_hot": 265632,
@@ -2939,14 +2987,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 237313,
-      "num": 237313,
-      "word": "向佐 每个人都当我是小丑",
-      "onboard_time": 1736831179,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 236697,
       "num": 194982,
       "word": "黄晓明叫肖战郭伯伯",
@@ -3017,14 +3057,6 @@
       "onboard_time": 1736736438,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 232270,
-      "num": 232270,
-      "word": "埃文凯尔被武汉美食硬控了",
-      "onboard_time": 1736831058,
-      "rank": 30,
-      "category": "正能量"
     },
     {
       "raw_hot": 231191,
@@ -3249,14 +3281,6 @@
       "onboard_time": 1736759119,
       "rank": 28,
       "category": "作品衍生,体育"
-    },
-    {
-      "raw_hot": 219687,
-      "num": 323792,
-      "word": "在上海的韩国游客人手一斤大白兔",
-      "onboard_time": 1736830759,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 219125,
@@ -3675,14 +3699,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 203068,
-      "num": 203068,
-      "word": "拜登告别",
-      "onboard_time": 1736831599,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 202090,
       "num": 202090,
       "word": "徐克谈对肖战的看法",
@@ -3913,6 +3929,14 @@
       "onboard_time": 1736774722,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197492,
+      "num": 197492,
+      "word": "只有唐九洲困在原本的家庭",
+      "onboard_time": 1736832378,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 197295,
@@ -4691,6 +4715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171224,
+      "num": 171224,
+      "word": "胡歌聊天真不把我们当外人",
+      "onboard_time": 1736832559,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171219,
       "num": 171219,
       "word": "真正的朱熹画像原来是这样的",
@@ -4785,6 +4817,14 @@
       "onboard_time": 1736645838,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168475,
+      "num": 349447,
+      "word": "惠英红说张凌赫是宝贝十八号",
+      "onboard_time": 1736832018,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 167994,
@@ -4937,6 +4977,14 @@
       "onboard_time": 1736670620,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 160940,
+      "num": 160940,
+      "word": "重庆文旅通报大爷救助游客遭诬陷",
+      "onboard_time": 1736832919,
+      "rank": 40,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 160907,
@@ -5987,14 +6035,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 131450,
-      "num": 233585,
-      "word": "惠英红说张凌赫是宝贝十八号",
-      "onboard_time": 1736832018,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 131448,
       "num": 131448,
       "word": "老板开店一个月金毛来吃了半个月",
@@ -6585,14 +6625,6 @@
       "onboard_time": 1736637794,
       "rank": 48,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 115225,
-      "num": 529787,
-      "word": "2瓶过期啤酒罚款2万是否小错重罚",
-      "onboard_time": 1736830580,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115018,
@@ -7379,6 +7411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 75179,
+      "num": 157932,
+      "word": "秦海璐龙须刘海",
+      "onboard_time": 1736832079,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74762,
       "num": 207804,
       "word": "张云雷演唱会唱京韵大鼓",
@@ -7449,6 +7489,14 @@
       "onboard_time": 1736805791,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67037,
+      "num": 453778,
+      "word": "2女子在日本遭列车撞击前监控曝光",
+      "onboard_time": 1736832618,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 66614,
@@ -8131,6 +8179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 31507,
+      "num": 208198,
+      "word": "张帅VS凯斯勒",
+      "onboard_time": 1736832138,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30700,
       "num": 203866,
       "word": "范丞丞谈在演戏和综艺间切换角色",
@@ -8337,6 +8393,14 @@
       "onboard_time": 1736827459,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 21813,
+      "num": 223489,
+      "word": "6年4起重大空难波音还安全吗",
+      "onboard_time": 1736832498,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 21511,

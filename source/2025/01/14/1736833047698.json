@@ -1,0 +1,410 @@
+{
+  "runTime": 1736833047698,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1639633,
+        "num": 1639633,
+        "word": "100多枚巴黎奥运会奖牌被退回",
+        "onboard_time": 1736826199,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1317002,
+        "num": 1317002,
+        "word": "车厘子快比草莓便宜了",
+        "onboard_time": 1736828660,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 40987,
+        "num": 1118034,
+        "word": "刻在DNA里的春节仪式感",
+        "onboard_time": 1736826619,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1034642,
+        "num": 1034642,
+        "word": "被车撞了6天后突然去世该谁担责",
+        "onboard_time": 1736822957,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 978491,
+        "num": 978491,
+        "word": "黄子韬掉粉已超400万",
+        "onboard_time": 1736828300,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 790575,
+        "num": 790575,
+        "word": "我把编制看得太重把自己看太轻了",
+        "onboard_time": 1736829380,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 693409,
+        "num": 693409,
+        "word": "两中国游客遭列车撞击前监控曝光",
+        "onboard_time": 1736828539,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 619390,
+        "num": 619390,
+        "word": "曝英伟达一半员工净资产破亿",
+        "onboard_time": 1736815280,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 596784,
+        "num": 596784,
+        "word": "向佐回应和郭碧婷感情",
+        "onboard_time": 1736832199,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276672,
+        "num": 577926,
+        "word": "拜登告别",
+        "onboard_time": 1736831599,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 576830,
+        "num": 576830,
+        "word": "在上海的韩国游客人手一斤大白兔",
+        "onboard_time": 1736830759,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 487696,
+        "num": 487696,
+        "word": "王鹤棣拍这里时候才24岁",
+        "onboard_time": 1736824878,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 475346,
+        "num": 475346,
+        "word": "张碧晨说赵丽颖特别爱拍但全糊了",
+        "onboard_time": 1736830819,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 454286,
+        "num": 454286,
+        "word": "她的同学们根本不懂她有多强",
+        "onboard_time": 1736828718,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67037,
+        "num": 453778,
+        "word": "2女子在日本遭列车撞击前监控曝光",
+        "onboard_time": 1736832618,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 453622,
+        "num": 453622,
+        "word": "宋慧乔拍蓝色生死恋曾连续三天没洗澡",
+        "onboard_time": 1736829560,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 436603,
+        "num": 436603,
+        "word": "刘耀文告黑将开庭",
+        "onboard_time": 1736825659,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424275,
+        "num": 424275,
+        "word": "金晨 90后女演员单片票房TOP1",
+        "onboard_time": 1736824458,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168475,
+        "num": 349447,
+        "word": "惠英红说张凌赫是宝贝十八号",
+        "onboard_time": 1736832018,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 346053,
+        "num": 346053,
+        "word": "幸好韩国人只是说上海街头没有豪车",
+        "onboard_time": 1736824579,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295206,
+        "num": 295206,
+        "word": "2瓶过期啤酒罚款2万是否小错重罚",
+        "onboard_time": 1736830580,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291756,
+        "num": 291756,
+        "word": "向佐 每个人都当我是小丑",
+        "onboard_time": 1736831179,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284517,
+        "num": 284517,
+        "word": "惠英红见到马龙激动哭了",
+        "onboard_time": 1736829981,
+        "rank": 22,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 275847,
+        "num": 275847,
+        "word": "赵丽颖新蜡像",
+        "onboard_time": 1736828660,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271723,
+        "num": 271723,
+        "word": "长治市妇幼保健院回应萝卜岗质疑",
+        "onboard_time": 1736829260,
+        "rank": 24,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 266422,
+        "num": 266422,
+        "word": "埃文凯尔被武汉美食硬控了",
+        "onboard_time": 1736831058,
+        "rank": 25,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 256027,
+        "num": 256027,
+        "word": "严屹宽天涯四美20年后成喜人",
+        "onboard_time": 1736828779,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253716,
+        "num": 253716,
+        "word": "千朵桃花魔尊有离镜味儿",
+        "onboard_time": 1736831418,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251502,
+        "num": 251502,
+        "word": "李昀锐特邀友情出演",
+        "onboard_time": 1736823618,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21813,
+        "num": 223489,
+        "word": "6年4起重大空难波音还安全吗",
+        "onboard_time": 1736832498,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 216453,
+        "num": 216453,
+        "word": "日本水族馆翻车鱼因没游客自闭",
+        "onboard_time": 1736819178,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 31507,
+        "num": 208198,
+        "word": "张帅VS凯斯勒",
+        "onboard_time": 1736832138,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202775,
+        "num": 202775,
+        "word": "特鲁索娃怀孕",
+        "onboard_time": 1736810895,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197492,
+        "num": 197492,
+        "word": "只有唐九洲困在原本的家庭",
+        "onboard_time": 1736832378,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194458,
+        "num": 194458,
+        "word": "张杰感谢Lucy小姐唐嫣",
+        "onboard_time": 1736828779,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172641,
+        "num": 172641,
+        "word": "管乐说杨紫是牡丹本丹",
+        "onboard_time": 1736830700,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171224,
+        "num": 171224,
+        "word": "胡歌聊天真不把我们当外人",
+        "onboard_time": 1736832559,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167299,
+        "num": 167299,
+        "word": "白鹿敖瑞鹏把cp粉钓成翘嘴了",
+        "onboard_time": 1736826439,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166442,
+        "num": 166442,
+        "word": "上海月租3500的房子",
+        "onboard_time": 1736825899,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161148,
+        "num": 161148,
+        "word": "樊振东晒行李箱",
+        "onboard_time": 1736822297,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160940,
+        "num": 160940,
+        "word": "重庆文旅通报大爷救助游客遭诬陷",
+        "onboard_time": 1736832919,
+        "rank": 40,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 75179,
+        "num": 157932,
+        "word": "秦海璐龙须刘海",
+        "onboard_time": 1736832079,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157635,
+        "num": 157635,
+        "word": "Bin回应S14决赛失利被喷",
+        "onboard_time": 1736830640,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155765,
+        "num": 155765,
+        "word": "一路繁花8个人只吃了700块",
+        "onboard_time": 1736786536,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148603,
+        "num": 148603,
+        "word": "妻子裸死前夫家中丈夫拒付丧葬费",
+        "onboard_time": 1736777062,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147146,
+        "num": 147146,
+        "word": "李现微指破2.8亿",
+        "onboard_time": 1736829260,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146918,
+        "num": 146918,
+        "word": "女子把男朋友的求婚戒指咬断了",
+        "onboard_time": 1736823498,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143853,
+        "num": 143853,
+        "word": "周深唱出丁达尔效应",
+        "onboard_time": 1736825238,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 40669,
+        "num": 134681,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1736830219,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134518,
+        "num": 134518,
+        "word": "张元英安宥真双人cha",
+        "onboard_time": 1736830280,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记要求把冰雪运动普及贯穿始终#"
+    }
+  }
+}
