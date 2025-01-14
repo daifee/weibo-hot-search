@@ -1,6 +1,6 @@
 {
   "startTime": 1736872066671,
-  "endTime": 1736882243876,
+  "endTime": 1736883328039,
   "band_list": [
     {
       "raw_hot": 3396289,
@@ -539,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 21626,
+      "num": 38456,
+      "word": "努力就是卷吗",
+      "onboard_time": 1736881332,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21052,
       "num": 570732,
       "word": "我的铁路风景",
@@ -571,16 +579,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 13100,
-      "num": 38456,
-      "word": "努力就是卷吗",
-      "onboard_time": 1736881332,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 11716,
-      "num": 22756,
+      "num": 40408,
       "word": "同款产品微商卖2人价格差10倍",
       "onboard_time": 1736881572,
       "rank": 33,
