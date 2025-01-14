@@ -1,0 +1,410 @@
+{
+  "runTime": 1736828746691,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2108173,
+        "num": 2108173,
+        "word": "被车撞了6天后突然去世该谁担责",
+        "onboard_time": 1736822957,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1715562,
+        "num": 1715562,
+        "word": "100多枚巴黎奥运会奖牌被退回",
+        "onboard_time": 1736826199,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63591,
+        "num": 1406731,
+        "word": "刻在DNA里的春节仪式感",
+        "onboard_time": 1736826619,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1273964,
+        "num": 1273964,
+        "word": "富士康被爆停派中国大陆员工",
+        "onboard_time": 1736824278,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1009876,
+        "num": 1009876,
+        "word": "金晨 90后女演员单片票房TOP1",
+        "onboard_time": 1736824458,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 917219,
+        "num": 917219,
+        "word": "曝英伟达一半员工净资产破亿",
+        "onboard_time": 1736815280,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 713437,
+        "num": 713437,
+        "word": "刘耀文告黑将开庭",
+        "onboard_time": 1736825659,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 694161,
+        "num": 694161,
+        "word": "王鹤棣拍这里时候才24岁",
+        "onboard_time": 1736824878,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 562008,
+        "num": 562008,
+        "word": "樊振东晒行李箱",
+        "onboard_time": 1736822297,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220365,
+        "num": 547445,
+        "word": "加沙孤儿说希望导弹击中我",
+        "onboard_time": 1736827220,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 544943,
+        "num": 544943,
+        "word": "李昀锐特邀友情出演",
+        "onboard_time": 1736823618,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 421529,
+        "num": 421529,
+        "word": "特鲁索娃怀孕",
+        "onboard_time": 1736810895,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 423435,
+        "num": 416375,
+        "word": "王鹤棣演技",
+        "onboard_time": 1736816240,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 397016,
+        "num": 397016,
+        "word": "日本水族馆翻车鱼因没游客自闭",
+        "onboard_time": 1736819178,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 72969,
+        "num": 345590,
+        "word": "美国应对频发山火为何如此拉胯",
+        "onboard_time": 1736827339,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 340451,
+        "num": 340451,
+        "word": "一路繁花8个人只吃了700块",
+        "onboard_time": 1736786536,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323468,
+        "num": 323468,
+        "word": "尹锡悦年薪将达2.626亿韩元",
+        "onboard_time": 1736819717,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 292819,
+        "num": 292819,
+        "word": "山姆回应蛋糕胚吃出白色异物",
+        "onboard_time": 1736780600,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276862,
+        "num": 276862,
+        "word": "黄子韬掉粉已超400万",
+        "onboard_time": 1736828300,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22153,
+        "num": 275338,
+        "word": "霍元甲配音演员简肇强去世",
+        "onboard_time": 1736827459,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442857,
+        "num": 275335,
+        "word": "幸好韩国人只是说上海街头没有豪车",
+        "onboard_time": 1736824579,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274862,
+        "num": 274862,
+        "word": "白鹿敖瑞鹏把cp粉钓成翘嘴了",
+        "onboard_time": 1736826439,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274750,
+        "num": 274750,
+        "word": "不理解虚岁到底有什么意义",
+        "onboard_time": 1736822778,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 273792,
+        "num": 273792,
+        "word": "买了3年万元重疾险患肺癌遭拒赔",
+        "onboard_time": 1736824038,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273317,
+        "num": 273317,
+        "word": "上海月租3500的房子",
+        "onboard_time": 1736825899,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175154,
+        "num": 264949,
+        "word": "澳网张之臻止步首轮",
+        "onboard_time": 1736827819,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264792,
+        "num": 264792,
+        "word": "女子把男朋友的求婚戒指咬断了",
+        "onboard_time": 1736823498,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212921,
+        "num": 263896,
+        "word": "张杰感谢时团弟弟",
+        "onboard_time": 1736828060,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144562,
+        "num": 263877,
+        "word": "美国消防员一边灭火一边哄狗",
+        "onboard_time": 1736827700,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 17876,
+        "num": 263863,
+        "word": "大奉打更人北美新加坡等多地收视领跑",
+        "onboard_time": 1736828718,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263860,
+        "num": 263860,
+        "word": "妻子裸死前夫家中丈夫拒付丧葬费",
+        "onboard_time": 1736777062,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301031,
+        "num": 259689,
+        "word": "她的同学们根本不懂她有多强",
+        "onboard_time": 1736828718,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235543,
+        "num": 235543,
+        "word": "美国星巴克不再免费开放",
+        "onboard_time": 1736818457,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 225688,
+        "num": 225688,
+        "word": "寒假来临中小学生成电诈重点目标",
+        "onboard_time": 1736824158,
+        "rank": 33,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 207700,
+        "num": 207700,
+        "word": "周深唱出丁达尔效应",
+        "onboard_time": 1736825238,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201585,
+        "num": 201585,
+        "word": "川渝艺人组团回家过年",
+        "onboard_time": 1736822177,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196330,
+        "num": 196330,
+        "word": "车厘子快比草莓便宜了",
+        "onboard_time": 1736828660,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 189482,
+        "num": 189482,
+        "word": "Cat 一诺",
+        "onboard_time": 1736814979,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186235,
+        "num": 186235,
+        "word": "奇迹暖暖新PV",
+        "onboard_time": 1736828180,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185014,
+        "num": 185014,
+        "word": "芳芳醉酒 扬扬背回蒋府",
+        "onboard_time": 1736827040,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181579,
+        "num": 181579,
+        "word": "10岁女孩俩小时被假明星骗5万元",
+        "onboard_time": 1736827159,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180769,
+        "num": 180769,
+        "word": "曹恩齐你要不喝点药调理一下吧",
+        "onboard_time": 1736827278,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177086,
+        "num": 177086,
+        "word": "临近春节的归意有多浓",
+        "onboard_time": 1736828660,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161958,
+        "num": 161958,
+        "word": "什么水果上市就意味着快过年了",
+        "onboard_time": 1736810835,
+        "rank": 43,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 160871,
+        "num": 160871,
+        "word": "锦囊妙录今日开播",
+        "onboard_time": 1736827398,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144205,
+        "num": 159108,
+        "word": "茯苓强制爱",
+        "onboard_time": 1736827398,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158998,
+        "num": 158998,
+        "word": "孙颖莎9650分世排第一",
+        "onboard_time": 1736827278,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157998,
+        "num": 157998,
+        "word": "刘亦菲去中国电视剧年度盛典",
+        "onboard_time": 1736823558,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156584,
+        "num": 156584,
+        "word": "金靖建议女孩一定要有正常的体重",
+        "onboard_time": 1736777062,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153833,
+        "num": 153833,
+        "word": "赵丽颖新蜡像",
+        "onboard_time": 1736828660,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#惩治微腐败让老百姓可感可及#"
+    }
+  }
+}

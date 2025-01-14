@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736825864647,
+  "endTime": 1736828746691,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -97,6 +97,14 @@
       "onboard_time": 1736643619,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1715562,
+      "num": 1715562,
+      "word": "100多枚巴黎奥运会奖牌被退回",
+      "onboard_time": 1736826199,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1712484,
@@ -323,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1273964,
+      "num": 1273964,
+      "word": "富士康被爆停派中国大陆员工",
+      "onboard_time": 1736824278,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1269321,
       "num": 1269321,
       "word": "蔡磊身体机能断崖式下降",
@@ -529,6 +545,14 @@
       "onboard_time": 1736677819,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1009876,
+      "num": 1009876,
+      "word": "金晨 90后女演员单片票房TOP1",
+      "onboard_time": 1736824458,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 1006152,
@@ -939,6 +963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 713437,
+      "num": 713437,
+      "word": "刘耀文告黑将开庭",
+      "onboard_time": 1736825659,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 706357,
       "num": 706357,
       "word": "小巷人家3家代表1年后驻站重聚",
@@ -1001,6 +1033,14 @@
       "onboard_time": 1736680218,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 694161,
+      "num": 694161,
+      "word": "王鹤棣拍这里时候才24岁",
+      "onboard_time": 1736824878,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 692458,
@@ -1201,14 +1241,6 @@
       "onboard_time": 1736606010,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 611304,
-      "num": 611304,
-      "word": "金晨 90后女演员单片票房TOP1",
-      "onboard_time": 1736824458,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 603744,
@@ -1435,14 +1467,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 497628,
-      "num": 497628,
-      "word": "富士康被爆停派中国大陆员工",
-      "onboard_time": 1736824278,
-      "rank": 14,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 496150,
       "num": 496150,
       "word": "孙俪女儿是四嬛党",
@@ -1601,6 +1625,14 @@
       "onboard_time": 1736748499,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 442857,
+      "num": 311905,
+      "word": "幸好韩国人只是说上海街头没有豪车",
+      "onboard_time": 1736824579,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 442392,
@@ -1827,14 +1859,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 387613,
-      "num": 311905,
-      "word": "幸好韩国人只是说上海街头没有豪车",
-      "onboard_time": 1736824579,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 385674,
       "num": 385674,
       "word": "警方回应观音桥锦鲤大量死亡",
@@ -1865,14 +1889,6 @@
       "onboard_time": 1736777062,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 374393,
-      "num": 374393,
-      "word": "王鹤棣拍这里时候才24岁",
-      "onboard_time": 1736824878,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 373460,
@@ -2212,7 +2228,7 @@
     },
     {
       "raw_hot": 312250,
-      "num": 256078,
+      "num": 264792,
       "word": "女子把男朋友的求婚戒指咬断了",
       "onboard_time": 1736823498,
       "rank": 20,
@@ -2297,6 +2313,14 @@
       "onboard_time": 1736694140,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 301031,
+      "num": 259689,
+      "word": "她的同学们根本不懂她有多强",
+      "onboard_time": 1736828718,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 300062,
@@ -2435,11 +2459,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 276862,
+      "num": 276862,
+      "word": "黄子韬掉粉已超400万",
+      "onboard_time": 1736828300,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276311,
       "num": 276311,
       "word": "杨紫何惟芳垂耳兔造型",
       "onboard_time": 1736775922,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 274862,
+      "num": 274862,
+      "word": "白鹿敖瑞鹏把cp粉钓成翘嘴了",
+      "onboard_time": 1736826439,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -2457,6 +2497,22 @@
       "onboard_time": 1736677579,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 273792,
+      "num": 273792,
+      "word": "买了3年万元重疾险患肺癌遭拒赔",
+      "onboard_time": 1736824038,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 273317,
+      "num": 273317,
+      "word": "上海月租3500的房子",
+      "onboard_time": 1736825899,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 273033,
@@ -2979,6 +3035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 225688,
+      "num": 312015,
+      "word": "寒假来临中小学生成电诈重点目标",
+      "onboard_time": 1736824158,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 225643,
       "num": 225643,
       "word": "Angelababy窗台序曲大片",
@@ -3067,6 +3131,14 @@
       "category": "作品衍生,体育"
     },
     {
+      "raw_hot": 220365,
+      "num": 547445,
+      "word": "加沙孤儿说希望导弹击中我",
+      "onboard_time": 1736827220,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 219125,
       "num": 533742,
       "word": "救援队员救出被困废墟6天的狗",
@@ -3153,6 +3225,14 @@
       "onboard_time": 1736783659,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212921,
+      "num": 263896,
+      "word": "张杰感谢时团弟弟",
+      "onboard_time": 1736828060,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 212698,
@@ -3289,6 +3369,14 @@
       "onboard_time": 1736608768,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 207700,
+      "num": 326210,
+      "word": "周深唱出丁达尔效应",
+      "onboard_time": 1736825238,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 207369,
@@ -3723,6 +3811,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 196330,
+      "num": 196330,
+      "word": "车厘子快比草莓便宜了",
+      "onboard_time": 1736828660,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 196260,
       "num": 515563,
       "word": "50岁快递员成为大体老师",
@@ -3737,14 +3833,6 @@
       "onboard_time": 1736665760,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 195580,
-      "num": 195580,
-      "word": "买了3年万元重疾险患肺癌遭拒赔",
-      "onboard_time": 1736824038,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 195292,
@@ -4027,6 +4115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 186235,
+      "num": 186235,
+      "word": "奇迹暖暖新PV",
+      "onboard_time": 1736828180,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 185830,
       "num": 147065,
       "word": "一路繁花",
@@ -4081,6 +4177,14 @@
       "onboard_time": 1736654479,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 185014,
+      "num": 185014,
+      "word": "芳芳醉酒 扬扬背回蒋府",
+      "onboard_time": 1736827040,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 184510,
@@ -4155,12 +4259,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181579,
+      "num": 181579,
+      "word": "10岁女孩俩小时被假明星骗5万元",
+      "onboard_time": 1736827159,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181289,
       "num": 181289,
       "word": "宣璐领衔主演笑傲江湖",
       "onboard_time": 1736739678,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 180769,
+      "num": 180769,
+      "word": "曹恩齐你要不喝点药调理一下吧",
+      "onboard_time": 1736827278,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 180573,
@@ -4185,14 +4305,6 @@
       "onboard_time": 1736800759,
       "rank": 6,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 179754,
-      "num": 312015,
-      "word": "寒假来临中小学生成电诈重点目标",
-      "onboard_time": 1736824158,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 179712,
@@ -4227,6 +4339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 177086,
+      "num": 177086,
+      "word": "临近春节的归意有多浓",
+      "onboard_time": 1736828660,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176861,
       "num": 176861,
       "word": "北京将新增1所本科高校",
@@ -4257,6 +4377,14 @@
       "onboard_time": 1736742560,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175154,
+      "num": 264949,
+      "word": "澳网张之臻止步首轮",
+      "onboard_time": 1736827819,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 174940,
@@ -4483,14 +4611,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 169955,
-      "num": 169955,
-      "word": "刘耀文告黑将开庭",
-      "onboard_time": 1736825659,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 169391,
       "num": 190561,
       "word": "王楚钦微博年度影响力体育人物",
@@ -4667,6 +4787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160871,
+      "num": 160871,
+      "word": "锦囊妙录今日开播",
+      "onboard_time": 1736827398,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160836,
       "num": 226370,
       "word": "国色芳华爱人的眼睛是第八大洋",
@@ -4713,6 +4841,14 @@
       "onboard_time": 1736674699,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158998,
+      "num": 158998,
+      "word": "孙颖莎9650分世排第一",
+      "onboard_time": 1736827278,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 158968,
@@ -4897,6 +5033,14 @@
       "onboard_time": 1736671760,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 153833,
+      "num": 153833,
+      "word": "赵丽颖新蜡像",
+      "onboard_time": 1736828660,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 153800,
@@ -5211,20 +5355,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 144562,
+      "num": 263877,
+      "word": "美国消防员一边灭火一边哄狗",
+      "onboard_time": 1736827700,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 144205,
+      "num": 159108,
+      "word": "茯苓强制爱",
+      "onboard_time": 1736827398,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143974,
       "num": 143974,
       "word": "敖瑞鹏 看你就是没经验的",
       "onboard_time": 1736751678,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 143754,
-      "num": 326210,
-      "word": "周深唱出丁达尔效应",
-      "onboard_time": 1736825238,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 143681,
@@ -7043,6 +7195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 72969,
+      "num": 345590,
+      "word": "美国应对频发山火为何如此拉胯",
+      "onboard_time": 1736827339,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 71776,
       "num": 71776,
       "word": "虞书欣这样的朋友",
@@ -7169,6 +7329,14 @@
       "onboard_time": 1736748559,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 63591,
+      "num": 1406731,
+      "word": "刻在DNA里的春节仪式感",
+      "onboard_time": 1736826619,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63385,
@@ -7947,6 +8115,14 @@
       "category": "艺人,剧集"
     },
     {
+      "raw_hot": 22153,
+      "num": 275338,
+      "word": "霍元甲配音演员简肇强去世",
+      "onboard_time": 1736827459,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 21511,
       "num": 206082,
       "word": "郑钦文耿直文",
@@ -8041,6 +8217,14 @@
       "onboard_time": 1736774059,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 17876,
+      "num": 263863,
+      "word": "大奉打更人北美新加坡等多地收视领跑",
+      "onboard_time": 1736828718,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 17570,

@@ -1,6 +1,6 @@
 {
   "startTime": 1736785781963,
-  "endTime": 1736825864647,
+  "endTime": 1736828746691,
   "band_list": [
     {
       "raw_hot": 2220278,
@@ -9,6 +9,14 @@
       "onboard_time": 1736822957,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1715562,
+      "num": 1715562,
+      "word": "100多枚巴黎奥运会奖牌被退回",
+      "onboard_time": 1736826199,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1600190,
@@ -43,12 +51,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1273964,
+      "num": 1273964,
+      "word": "富士康被爆停派中国大陆员工",
+      "onboard_time": 1736824278,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1077472,
       "num": 1077472,
       "word": "日本水族馆翻车鱼因没游客自闭",
       "onboard_time": 1736819178,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1009876,
+      "num": 1009876,
+      "word": "金晨 90后女演员单片票房TOP1",
+      "onboard_time": 1736824458,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 989700,
@@ -91,6 +115,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 713437,
+      "num": 713437,
+      "word": "刘耀文告黑将开庭",
+      "onboard_time": 1736825659,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 706048,
       "num": 442818,
       "word": "被黄子韬选中的家庭主妇已看车",
@@ -105,6 +137,14 @@
       "onboard_time": 1736811196,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 694161,
+      "num": 694161,
+      "word": "王鹤棣拍这里时候才24岁",
+      "onboard_time": 1736824878,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 688712,
@@ -139,14 +179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 611304,
-      "num": 611304,
-      "word": "金晨 90后女演员单片票房TOP1",
-      "onboard_time": 1736824458,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 598791,
       "num": 598791,
       "word": "韩国两个被弹劾总统都涨工资了",
@@ -179,14 +211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 497628,
-      "num": 497628,
-      "word": "富士康被爆停派中国大陆员工",
-      "onboard_time": 1736824278,
-      "rank": 14,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 477380,
       "num": 477380,
       "word": "Cat 一诺",
@@ -209,6 +233,14 @@
       "onboard_time": 1736819717,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 442857,
+      "num": 311905,
+      "word": "幸好韩国人只是说上海街头没有豪车",
+      "onboard_time": 1736824579,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 440410,
@@ -243,28 +275,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 387613,
-      "num": 311905,
-      "word": "幸好韩国人只是说上海街头没有豪车",
-      "onboard_time": 1736824579,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 381183,
       "num": 381183,
       "word": "樊振东说巴黎奥运会打的筋疲力尽",
       "onboard_time": 1736818457,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 374393,
-      "num": 374393,
-      "word": "王鹤棣拍这里时候才24岁",
-      "onboard_time": 1736824878,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 367812,
@@ -308,7 +324,7 @@
     },
     {
       "raw_hot": 312250,
-      "num": 256078,
+      "num": 264792,
       "word": "女子把男朋友的求婚戒指咬断了",
       "onboard_time": 1736823498,
       "rank": 20,
@@ -329,6 +345,14 @@
       "onboard_time": 1736822177,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 301031,
+      "num": 259689,
+      "word": "她的同学们根本不懂她有多强",
+      "onboard_time": 1736828718,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 296456,
@@ -353,6 +377,38 @@
       "onboard_time": 1736812697,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 276862,
+      "num": 276862,
+      "word": "黄子韬掉粉已超400万",
+      "onboard_time": 1736828300,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 274862,
+      "num": 274862,
+      "word": "白鹿敖瑞鹏把cp粉钓成翘嘴了",
+      "onboard_time": 1736826439,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 273792,
+      "num": 273792,
+      "word": "买了3年万元重疾险患肺癌遭拒赔",
+      "onboard_time": 1736824038,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 273317,
+      "num": 273317,
+      "word": "上海月租3500的房子",
+      "onboard_time": 1736825899,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 273033,
@@ -427,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 225688,
+      "num": 312015,
+      "word": "寒假来临中小学生成电诈重点目标",
+      "onboard_time": 1736824158,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 225534,
       "num": 225534,
       "word": "樊振东谈28岁的愿望",
@@ -449,6 +513,14 @@
       "onboard_time": 1736819178,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220365,
+      "num": 547445,
+      "word": "加沙孤儿说希望导弹击中我",
+      "onboard_time": 1736827220,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 216586,
@@ -475,12 +547,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212921,
+      "num": 263896,
+      "word": "张杰感谢时团弟弟",
+      "onboard_time": 1736828060,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 211721,
       "num": 211721,
       "word": "目击者称观音桥死鱼装了30多袋",
       "onboard_time": 1736802491,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207700,
+      "num": 326210,
+      "word": "周深唱出丁达尔效应",
+      "onboard_time": 1736825238,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 203624,
@@ -515,20 +603,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196330,
+      "num": 196330,
+      "word": "车厘子快比草莓便宜了",
+      "onboard_time": 1736828660,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 195952,
       "num": 172313,
       "word": "朱旺旺爆改",
       "onboard_time": 1736774180,
       "rank": 23,
       "category": "网红,美妆"
-    },
-    {
-      "raw_hot": 195580,
-      "num": 195580,
-      "word": "买了3年万元重疾险患肺癌遭拒赔",
-      "onboard_time": 1736824038,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 194495,
@@ -563,12 +651,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 186235,
+      "num": 186235,
+      "word": "奇迹暖暖新PV",
+      "onboard_time": 1736828180,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 185661,
       "num": 195908,
       "word": "2025春运正式开启",
       "onboard_time": 1736804891,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185014,
+      "num": 185014,
+      "word": "芳芳醉酒 扬扬背回蒋府",
+      "onboard_time": 1736827040,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 182383,
@@ -579,6 +683,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 181579,
+      "num": 181579,
+      "word": "10岁女孩俩小时被假明星骗5万元",
+      "onboard_time": 1736827159,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180769,
+      "num": 180769,
+      "word": "曹恩齐你要不喝点药调理一下吧",
+      "onboard_time": 1736827278,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179846,
       "num": 179846,
       "word": "洛杉矶山火蔓延居民紧急撤离",
@@ -587,12 +707,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 179754,
-      "num": 312015,
-      "word": "寒假来临中小学生成电诈重点目标",
-      "onboard_time": 1736824158,
-      "rank": 19,
-      "category": "舆论监督"
+      "raw_hot": 177086,
+      "num": 177086,
+      "word": "临近春节的归意有多浓",
+      "onboard_time": 1736828660,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175154,
+      "num": 264949,
+      "word": "澳网张之臻止步首轮",
+      "onboard_time": 1736827819,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 174157,
@@ -643,14 +771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169955,
-      "num": 169955,
-      "word": "刘耀文告黑将开庭",
-      "onboard_time": 1736825659,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 165109,
       "num": 165109,
       "word": "比特币暴跌超21万人爆仓",
@@ -667,6 +787,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 160871,
+      "num": 160871,
+      "word": "锦囊妙录今日开播",
+      "onboard_time": 1736827398,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 158998,
+      "num": 158998,
+      "word": "孙颖莎9650分世排第一",
+      "onboard_time": 1736827278,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158074,
       "num": 158074,
       "word": "刘亦菲去中国电视剧年度盛典",
@@ -681,6 +817,14 @@
       "onboard_time": 1736793011,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153833,
+      "num": 153833,
+      "word": "赵丽颖新蜡像",
+      "onboard_time": 1736828660,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 146858,
@@ -707,20 +851,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144562,
+      "num": 263877,
+      "word": "美国消防员一边灭火一边哄狗",
+      "onboard_time": 1736827700,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 144205,
+      "num": 159108,
+      "word": "茯苓强制爱",
+      "onboard_time": 1736827398,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144180,
       "num": 144180,
       "word": "肖战喊庄达菲庄庄",
       "onboard_time": 1736772079,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 143754,
-      "num": 326210,
-      "word": "周深唱出丁达尔效应",
-      "onboard_time": 1736825238,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 143163,
@@ -1075,6 +1227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 72969,
+      "num": 345590,
+      "word": "美国应对频发山火为何如此拉胯",
+      "onboard_time": 1736827339,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 71776,
       "num": 71776,
       "word": "虞书欣这样的朋友",
@@ -1104,6 +1264,14 @@
       "word": "2025年春运开启",
       "onboard_time": 1736811135,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63591,
+      "num": 1406731,
+      "word": "刻在DNA里的春节仪式感",
+      "onboard_time": 1736826619,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -1299,6 +1467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22153,
+      "num": 275338,
+      "word": "霍元甲配音演员简肇强去世",
+      "onboard_time": 1736827459,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 20341,
       "num": 20341,
       "word": "肖战射雕身在江湖心向光明",
@@ -1337,6 +1513,14 @@
       "onboard_time": 1736794151,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 17876,
+      "num": 263863,
+      "word": "大奉打更人北美新加坡等多地收视领跑",
+      "onboard_time": 1736828718,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 17570,
