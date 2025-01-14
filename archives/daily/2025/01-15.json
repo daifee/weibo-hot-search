@@ -1,6 +1,6 @@
 {
   "startTime": 1736872066671,
-  "endTime": 1736875154933,
+  "endTime": 1736876260572,
   "band_list": [
     {
       "raw_hot": 3396289,
@@ -35,8 +35,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 370319,
-      "num": 140420,
+      "raw_hot": 394466,
+      "num": 418131,
       "word": "可是为什么我插针都插不入",
       "onboard_time": 1736871436,
       "rank": 32,
@@ -147,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188179,
+      "num": 188179,
+      "word": "外交部再次回应中国游热潮",
+      "onboard_time": 1736874134,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 185379,
       "num": 163146,
       "word": "一觉醒来小红书被外国人占领了",
@@ -217,14 +225,6 @@
       "onboard_time": 1736860939,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 131293,
-      "num": 140425,
-      "word": "外交部再次回应中国游热潮",
-      "onboard_time": 1736874134,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 129349,
@@ -411,12 +411,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 64828,
+      "num": 64828,
+      "word": "李昀锐冰湖重生高马尾骑马路透",
+      "onboard_time": 1736873595,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 63106,
       "num": 63106,
       "word": "刘强东因蔡磊为意外员工孩子托底",
       "onboard_time": 1736854399,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63041,
+      "num": 63041,
+      "word": "主持人大赛今年选新闻主播",
+      "onboard_time": 1736875393,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 63011,
@@ -427,14 +443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 61479,
-      "num": 61479,
-      "word": "李昀锐冰湖重生高马尾骑马路透",
-      "onboard_time": 1736873595,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 57337,
       "num": 114790,
       "word": "钎城跳APT",
@@ -443,12 +451,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 48014,
+      "num": 110306,
+      "word": "网红带货疑似合成肉卷店铺已关闭",
+      "onboard_time": 1736875274,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44909,
       "num": 44909,
       "word": "武艺 上个节目家没了",
       "onboard_time": 1736846119,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 42601,
+      "num": 42601,
+      "word": "00后女生高铁上6小时织了顶帽子",
+      "onboard_time": 1736875213,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37892,
@@ -467,6 +491,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25741,
+      "num": 37462,
+      "word": "小红书概念爆发",
+      "onboard_time": 1736834480,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 25047,
+      "num": 37450,
+      "word": "咬甲癖被列入强迫症范畴",
+      "onboard_time": 1736876173,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 24117,
       "num": 73389,
       "word": "陈梦生日前一天解锁新身份",
@@ -481,6 +521,14 @@
       "onboard_time": 1736859199,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17695,
+      "num": 61907,
+      "word": "AG新春全员财神皮",
+      "onboard_time": 1736875454,
+      "rank": 24,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [
