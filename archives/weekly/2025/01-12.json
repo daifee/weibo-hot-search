@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736897720510,
+  "endTime": 1736905222878,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -209,6 +209,14 @@
       "onboard_time": 1736740700,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1603742,
+      "num": 316149,
+      "word": "谢娜李小冉闹掰的原因",
+      "onboard_time": 1736897897,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1600190,
@@ -931,6 +939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 819555,
+      "num": 1131128,
+      "word": "转卖黄子韬送车帖超30条",
+      "onboard_time": 1736901198,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 815759,
       "num": 590550,
       "word": "李昀锐 舒肤佳变硫磺皂",
@@ -1057,6 +1073,14 @@
       "onboard_time": 1736868618,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 767289,
+      "num": 471549,
+      "word": "刘晓庆迟到两个多钟头",
+      "onboard_time": 1736898437,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 760025,
@@ -1619,6 +1643,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 581846,
+      "num": 459044,
+      "word": "鹿晗将缺席五哈录制",
+      "onboard_time": 1736898196,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 580459,
       "num": 563140,
       "word": "辛雨锡发秦霄贤六宗罪",
@@ -1705,6 +1737,14 @@
       "onboard_time": 1736668458,
       "rank": 3,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 552306,
+      "num": 315876,
+      "word": "Angelababy卷发挑染",
+      "onboard_time": 1736898617,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 548253,
@@ -1881,6 +1921,14 @@
       "onboard_time": 1736849718,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 491451,
+      "num": 491451,
+      "word": "尹锡悦或将自行走出总统官邸",
+      "onboard_time": 1736900118,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 488870,
@@ -2249,6 +2297,14 @@
       "onboard_time": 1736649138,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 407916,
+      "num": 407916,
+      "word": "青簪行",
+      "onboard_time": 1736904617,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 406393,
@@ -2859,6 +2915,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 316913,
+      "num": 316913,
+      "word": "江苏省考成绩",
+      "onboard_time": 1736904978,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 316888,
       "num": 316888,
       "word": "张雅钦镜头下的杨紫",
@@ -2881,6 +2945,14 @@
       "onboard_time": 1736668458,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 313458,
+      "num": 313458,
+      "word": "韩国警方进入总统官邸",
+      "onboard_time": 1736896815,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 312250,
@@ -3059,6 +3131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 294767,
+      "num": 294767,
+      "word": "韩警方及公调处千余人抓捕尹锡悦",
+      "onboard_time": 1736896515,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 293879,
       "num": 293879,
       "word": "陈梦孙颖莎微博年度关注女运动员",
@@ -3113,6 +3193,14 @@
       "onboard_time": 1736812697,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 287358,
+      "num": 287358,
+      "word": "吉林大爷救助游客反遭诬陷有出入",
+      "onboard_time": 1736902338,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 286849,
@@ -3515,6 +3603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250523,
+      "num": 229201,
+      "word": "到底是谁忽悠洋抖难民交猫税",
+      "onboard_time": 1736900900,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 249126,
       "num": 321166,
       "word": "律师解读西湖边放杨幂风筝谁担责",
@@ -3601,6 +3697,14 @@
       "onboard_time": 1736641217,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 243994,
+      "num": 243994,
+      "word": "泰国普吉岛1名中国游客死亡",
+      "onboard_time": 1736870838,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 243529,
@@ -3771,6 +3875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 230879,
+      "num": 230879,
+      "word": "张婧仪骨相",
+      "onboard_time": 1736901920,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 230693,
       "num": 192867,
       "word": "何惟芳 死腿快跑",
@@ -3817,6 +3929,14 @@
       "onboard_time": 1736737579,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 228729,
+      "num": 228729,
+      "word": "原研药退出公立医院普通患者何去何从",
+      "onboard_time": 1736897475,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 228364,
@@ -4059,14 +4179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 216846,
-      "num": 216846,
-      "word": "泰国普吉岛1名中国游客死亡",
-      "onboard_time": 1736870838,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 216475,
       "num": 216475,
       "word": "中国电视剧年度盛典",
@@ -4219,6 +4331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208551,
+      "num": 232730,
+      "word": "韩国29吨核废液排海影响有多大",
+      "onboard_time": 1736902399,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 208307,
       "num": 208307,
       "word": "张萌发了昀牵孟绕捧脸杀",
@@ -4284,7 +4404,7 @@
     },
     {
       "raw_hot": 207130,
-      "num": 207130,
+      "num": 229554,
       "word": "蒋长扬要切大号了",
       "onboard_time": 1736896576,
       "rank": 14,
@@ -4345,6 +4465,14 @@
       "onboard_time": 1736745260,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205837,
+      "num": 205837,
+      "word": "嫦娥六号带回的玄武岩最老已42亿年",
+      "onboard_time": 1736904918,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 205799,
@@ -4963,6 +5091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191308,
+      "num": 191308,
+      "word": "再次逮捕尹锡悦",
+      "onboard_time": 1736897175,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 191067,
       "num": 191067,
       "word": "国色芳华高开高走",
@@ -5065,6 +5201,14 @@
       "onboard_time": 1736740639,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188743,
+      "num": 188743,
+      "word": "关晓彤换风格了",
+      "onboard_time": 1736898498,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 188617,
@@ -5232,6 +5376,14 @@
       "word": "芳芳醉酒 扬扬背回蒋府",
       "onboard_time": 1736827040,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 184772,
+      "num": 184772,
+      "word": "将门毒后选角",
+      "onboard_time": 1736896936,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -5513,6 +5665,14 @@
       "onboard_time": 1736742560,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176474,
+      "num": 176474,
+      "word": "郑钦文vs西格蒙德",
+      "onboard_time": 1736899878,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 175733,
@@ -5825,6 +5985,14 @@
       "onboard_time": 1736843180,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170360,
+      "num": 170360,
+      "word": "民警为阻止老人被骗急得用手机喊话",
+      "onboard_time": 1736904918,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170266,
@@ -6251,6 +6419,30 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157707,
+      "num": 157707,
+      "word": "下下周三是第一个非遗春节",
+      "onboard_time": 1736903479,
+      "rank": 32,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 157450,
+      "num": 157450,
+      "word": "野生大熊猫对你张大嘴哈了一口气",
+      "onboard_time": 1736901559,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157355,
+      "num": 157355,
+      "word": "骗子行骗称自己时间宝贵",
+      "onboard_time": 1736901920,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157273,
       "num": 157273,
       "word": "肖战打戏",
@@ -6265,6 +6457,14 @@
       "onboard_time": 1736659100,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 156677,
+      "num": 178484,
+      "word": "董洁国色芳华出场镜头",
+      "onboard_time": 1736903059,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 156616,
@@ -6627,6 +6827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 149104,
+      "num": 176691,
+      "word": "官方回应上海能否接住霉霉演出",
+      "onboard_time": 1736895614,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 148949,
       "num": 148949,
       "word": "敖瑞鹏不语只是一味提鞋",
@@ -6737,6 +6945,14 @@
       "onboard_time": 1736677698,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146903,
+      "num": 146903,
+      "word": "阴阳师",
+      "onboard_time": 1736902939,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 146858,
@@ -7025,6 +7241,14 @@
       "onboard_time": 1736762600,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 141631,
+      "num": 141631,
+      "word": "因为晕碳戒掉了熬夜",
+      "onboard_time": 1736904978,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 141560,
@@ -7467,6 +7691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131120,
+      "num": 131120,
+      "word": "百万人陪郑钦文早八",
+      "onboard_time": 1736904978,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130817,
       "num": 130817,
       "word": "王者荣耀巅峰之夜",
@@ -7545,6 +7777,14 @@
       "onboard_time": 1736843718,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129226,
+      "num": 129226,
+      "word": "官方通报网红带货牛肉卷疑似合成肉",
+      "onboard_time": 1736901139,
+      "rank": 40,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 129041,
@@ -7675,6 +7915,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 126623,
+      "num": 126623,
+      "word": "抓捕尹锡悦行动中有人受伤",
+      "onboard_time": 1736904918,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 126564,
       "num": 518913,
       "word": "课外读物称华佗用人脑做药引子",
@@ -7787,6 +8035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124958,
+      "num": 124958,
+      "word": "美国证监会起诉马斯克",
+      "onboard_time": 1736904918,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 124922,
       "num": 124922,
       "word": "看一眼刘晓庆鸡血打满",
@@ -7801,6 +8057,14 @@
       "onboard_time": 1736655259,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 124442,
+      "num": 124442,
+      "word": "00后女生高铁上6小时织了顶帽子",
+      "onboard_time": 1736875213,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124426,
@@ -8043,6 +8307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 118736,
+      "num": 118736,
+      "word": "俄罗斯留学5年的真实经历",
+      "onboard_time": 1736904260,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 118709,
       "num": 208524,
       "word": "奥司他韦为何一到流感季就火",
@@ -8105,6 +8377,14 @@
       "onboard_time": 1736698517,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 116773,
+      "num": 116773,
+      "word": "尹锡悦",
+      "onboard_time": 1736903717,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 116641,
@@ -8427,6 +8707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111223,
+      "num": 111223,
+      "word": "武汉出现8.8元一斤车厘子",
+      "onboard_time": 1736901980,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 111170,
       "num": 111170,
       "word": "许七安背了那么多诗半篇终于用上了",
@@ -8441,6 +8729,14 @@
       "onboard_time": 1736849659,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 110907,
+      "num": 209860,
+      "word": "这是我们的中国年",
+      "onboard_time": 1736903717,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110685,
@@ -8667,14 +8963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103577,
-      "num": 103577,
-      "word": "韩警方及公调处千余人抓捕尹锡悦",
-      "onboard_time": 1736896515,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 103535,
       "num": 399688,
       "word": "老板回应肥娟小吃暂时闭店",
@@ -8769,14 +9057,6 @@
       "onboard_time": 1736855419,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 99784,
-      "num": 99784,
-      "word": "官方回应上海能否接住霉霉演出",
-      "onboard_time": 1736895614,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 99422,
@@ -9083,14 +9363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 85647,
-      "num": 85647,
-      "word": "将门毒后选角",
-      "onboard_time": 1736896936,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 85463,
       "num": 104636,
       "word": "警方回应失联女大学生遗体被找到",
@@ -9307,14 +9579,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 76946,
-      "num": 76946,
-      "word": "韩国警方进入总统官邸",
-      "onboard_time": 1736896815,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 76914,
       "num": 350926,
       "word": "儿童呼吸道感染用药要注意4点",
@@ -9393,14 +9657,6 @@
       "onboard_time": 1736753237,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 74275,
-      "num": 74275,
-      "word": "再次逮捕尹锡悦",
-      "onboard_time": 1736897175,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 73999,
@@ -9483,14 +9739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 68984,
-      "num": 68984,
-      "word": "00后女生高铁上6小时织了顶帽子",
-      "onboard_time": 1736875213,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 67959,
       "num": 290163,
       "word": "王欣瑜vs巴多萨",
@@ -9521,14 +9769,6 @@
       "onboard_time": 1736698160,
       "rank": 49,
       "category": "体育,作品衍生"
-    },
-    {
-      "raw_hot": 66550,
-      "num": 66550,
-      "word": "原研药退出公立医院普通患者何去何从",
-      "onboard_time": 1736897475,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 66190,
