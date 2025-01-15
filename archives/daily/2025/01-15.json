@@ -1,6 +1,6 @@
 {
   "startTime": 1736872066671,
-  "endTime": 1736933790261,
+  "endTime": 1736936572759,
   "band_list": [
     {
       "raw_hot": 3396289,
@@ -145,6 +145,14 @@
       "onboard_time": 1736917520,
       "rank": 13,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1018704,
+      "num": 1018704,
+      "word": "李威",
+      "onboard_time": 1736935279,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 969463,
@@ -403,8 +411,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 545567,
+      "num": 545567,
+      "word": "疑似金建希女子出门遛狗",
+      "onboard_time": 1736930059,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 537119,
-      "num": 359398,
+      "num": 363094,
       "word": "TikTok或计划周日关停美国业务",
       "onboard_time": 1736930239,
       "rank": 37,
@@ -425,6 +441,14 @@
       "onboard_time": 1736922318,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 508542,
+      "num": 358242,
+      "word": "小红书爆火TikTok还有转机吗",
+      "onboard_time": 1736925740,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 499445,
@@ -603,14 +627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 341817,
-      "num": 341817,
-      "word": "小红书爆火TikTok还有转机吗",
-      "onboard_time": 1736925740,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 335614,
       "num": 335614,
       "word": "网剧夺娶开播",
@@ -619,12 +635,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 328382,
-      "num": 370033,
-      "word": "疑似金建希女子出门遛狗",
-      "onboard_time": 1736930059,
-      "rank": 41,
-      "category": "海外新闻"
+      "raw_hot": 330072,
+      "num": 235344,
+      "word": "刚离职offer就被取消了能要补偿吗",
+      "onboard_time": 1736934859,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 328005,
@@ -633,6 +649,22 @@
       "onboard_time": 1736917400,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 325634,
+      "num": 325634,
+      "word": "李昀锐回应被叫内娱薄肌的神",
+      "onboard_time": 1736934199,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 321713,
+      "num": 321713,
+      "word": "国色芳华头饰3秒镜头花30天制作",
+      "onboard_time": 1736932460,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 316252,
@@ -707,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 287425,
+      "num": 287425,
+      "word": "樊振东是首位超级金满贯得主",
+      "onboard_time": 1736933238,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 284994,
       "num": 306082,
       "word": "董洁国色芳华出场镜头",
@@ -737,6 +777,14 @@
       "onboard_time": 1736917460,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 271778,
+      "num": 260974,
+      "word": "刘晓庆把李小冉夸成胚胎了",
+      "onboard_time": 1736932399,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 270284,
@@ -771,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261401,
+      "num": 261401,
+      "word": "宝骏回应黄子韬送车事件",
+      "onboard_time": 1736936178,
+      "rank": 18,
+      "category": "汽车,艺人"
+    },
+    {
       "raw_hot": 261365,
       "num": 248991,
       "word": "金价上涨年轻人囤金热情不降反升",
@@ -779,12 +835,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 260974,
-      "num": 260974,
-      "word": "刘晓庆把李小冉夸成胚胎了",
-      "onboard_time": 1736932399,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 256568,
+      "num": 371686,
+      "word": "放羊的星星男演员卷入杀人案",
+      "onboard_time": 1736935939,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 255996,
@@ -1051,6 +1107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 195253,
+      "num": 195253,
+      "word": "南京的红绿灯太太太大了",
+      "onboard_time": 1736931859,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 192531,
       "num": 192531,
       "word": "李沁穿了应援色高定走红毯",
@@ -1123,12 +1187,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 187330,
-      "num": 187330,
-      "word": "樊振东是首位超级金满贯得主",
-      "onboard_time": 1736933238,
+      "raw_hot": 186997,
+      "num": 186997,
+      "word": "王阳新剧又争又抢",
+      "onboard_time": 1736935039,
       "rank": 29,
-      "category": "体育"
+      "category": "剧集"
     },
     {
       "raw_hot": 186974,
@@ -1243,14 +1307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 167587,
-      "num": 167587,
-      "word": "南京的红绿灯太太太大了",
-      "onboard_time": 1736931859,
-      "rank": 33,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 167537,
       "num": 167537,
       "word": "美网友说来小红书是因为不相信美政府",
@@ -1265,6 +1321,22 @@
       "onboard_time": 1736867899,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164967,
+      "num": 164967,
+      "word": "吉林大爷救游客真相需双方携手调查",
+      "onboard_time": 1736932279,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164298,
+      "num": 164298,
+      "word": "李昀锐被自己会20多种体育运动吓到了",
+      "onboard_time": 1736935399,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 162251,
@@ -1491,14 +1563,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 138907,
-      "num": 138907,
-      "word": "国色芳华头饰3秒镜头花30天制作",
-      "onboard_time": 1736932460,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 137278,
       "num": 137278,
       "word": "反复啃指甲是种心理障碍",
@@ -1547,6 +1611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132961,
+      "num": 132961,
+      "word": "外交部回应美国小朋友天坛唱如愿",
+      "onboard_time": 1736934018,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 132606,
       "num": 132606,
       "word": "王一博追风者入围2024电视剧精选",
@@ -1569,6 +1641,14 @@
       "onboard_time": 1736933059,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 129379,
+      "num": 129379,
+      "word": "最新云合",
+      "onboard_time": 1736934438,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 129349,
@@ -1600,6 +1680,22 @@
       "word": "尹锡悦律师称公调处执行逮捕令不合法",
       "onboard_time": 1736914639,
       "rank": 12,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 126995,
+      "num": 126995,
+      "word": "小俞 AG",
+      "onboard_time": 1736936419,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 126016,
+      "num": 126016,
+      "word": "韩媒披露尹锡悦被捕细节",
+      "onboard_time": 1736934018,
+      "rank": 43,
       "category": "国际时政"
     },
     {
@@ -1641,6 +1737,14 @@
       "onboard_time": 1736866460,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123770,
+      "num": 123770,
+      "word": "男子发烧2天吃8颗布洛芬致肾脏受损",
+      "onboard_time": 1736934078,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 121609,
@@ -1731,6 +1835,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 115357,
+      "num": 115357,
+      "word": "肖战谈自己五年间的变化",
+      "onboard_time": 1736934785,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 113659,
       "num": 113659,
       "word": "小朋友合唱如愿再一看美国的",
@@ -1755,14 +1867,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 112014,
-      "num": 112014,
-      "word": "吉林大爷救游客真相需双方携手调查",
-      "onboard_time": 1736932279,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111223,
       "num": 111223,
       "word": "武汉出现8.8元一斤车厘子",
@@ -1777,6 +1881,14 @@
       "onboard_time": 1736903717,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110180,
+      "num": 110180,
+      "word": "小红书2天新增超70万用户",
+      "onboard_time": 1736936540,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 110066,
@@ -2163,6 +2275,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 70258,
+      "num": 227822,
+      "word": "PUBG",
+      "onboard_time": 1736936238,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 69781,
       "num": 110306,
       "word": "网红带货疑似合成肉卷店铺已关闭",
@@ -2193,6 +2313,14 @@
       "onboard_time": 1736867660,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 66875,
+      "num": 975717,
+      "word": "春运人潮中最让人安心的身影",
+      "onboard_time": 1736931079,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66373,
@@ -2257,14 +2385,6 @@
       "onboard_time": 1736924478,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 53531,
-      "num": 975717,
-      "word": "春运人潮中最让人安心的身影",
-      "onboard_time": 1736931079,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 52121,
