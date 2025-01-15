@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736909847808,
+  "endTime": 1736911427124,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1163,6 +1163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1908116,
+      "num": 1908116,
+      "word": "韩国史上首次逮捕现任总统",
+      "onboard_time": 1736908819,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1902331,
       "num": 1902331,
       "word": "刘畅 人设",
@@ -1596,7 +1604,7 @@
     },
     {
       "raw_hot": 1665912,
-      "num": 398724,
+      "num": 409292,
       "word": "谢娜李小冉闹掰的原因",
       "onboard_time": 1736897897,
       "rank": 10,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735712120,
       "rank": 6,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1326077,
-      "num": 1102735,
-      "word": "国补",
-      "onboard_time": 1736306421,
-      "rank": 40,
-      "category": "财经"
     }
   ],
   "hotgov_list": [

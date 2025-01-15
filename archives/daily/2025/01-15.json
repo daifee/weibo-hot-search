@@ -1,6 +1,6 @@
 {
   "startTime": 1736872066671,
-  "endTime": 1736909847808,
+  "endTime": 1736911427124,
   "band_list": [
     {
       "raw_hot": 3396289,
@@ -19,8 +19,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1908116,
+      "num": 1908116,
+      "word": "韩国史上首次逮捕现任总统",
+      "onboard_time": 1736908819,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1665912,
-      "num": 398724,
+      "num": 409292,
       "word": "谢娜李小冉闹掰的原因",
       "onboard_time": 1736897897,
       "rank": 10,
@@ -33,6 +41,14 @@
       "onboard_time": 1736904617,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 891164,
+      "num": 891164,
+      "word": "美国网友涌入小红书交猫税",
+      "onboard_time": 1736909359,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 819555,
@@ -59,8 +75,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 668726,
+      "num": 668726,
+      "word": "鹿晗杂志取消预售",
+      "onboard_time": 1736909359,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 651249,
-      "num": 395181,
+      "num": 406340,
       "word": "Angelababy卷发挑染",
       "onboard_time": 1736898617,
       "rank": 11,
@@ -73,6 +97,14 @@
       "onboard_time": 1736857099,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 629269,
+      "num": 629269,
+      "word": "尹锡悦已抵达政府大楼",
+      "onboard_time": 1736908638,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 615487,
@@ -123,28 +155,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 562656,
-      "num": 562656,
-      "word": "韩国29吨核废液排海影响有多大",
-      "onboard_time": 1736902399,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 554345,
-      "num": 293383,
+      "raw_hot": 579228,
+      "num": 296037,
       "word": "刘晓庆大方承认自己的错误",
       "onboard_time": 1736908219,
       "rank": 20,
       "category": "综艺"
     },
     {
-      "raw_hot": 505554,
-      "num": 505554,
-      "word": "鹿晗杂志取消预售",
-      "onboard_time": 1736909359,
-      "rank": 4,
-      "category": "音乐"
+      "raw_hot": 562656,
+      "num": 562656,
+      "word": "韩国29吨核废液排海影响有多大",
+      "onboard_time": 1736902399,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 499445,
@@ -156,7 +180,7 @@
     },
     {
       "raw_hot": 475882,
-      "num": 291328,
+      "num": 292145,
       "word": "得知家里负债11岁女孩哭着退掉新衣",
       "onboard_time": 1736906417,
       "rank": 21,
@@ -171,20 +195,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 449430,
+      "num": 449430,
+      "word": "郑钦文0比2西格蒙德",
+      "onboard_time": 1736908819,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 432544,
       "num": 493893,
       "word": "下下周三是第一个非遗春节",
       "onboard_time": 1736903479,
       "rank": 32,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 428769,
-      "num": 428769,
-      "word": "郑钦文0比2西格蒙德",
-      "onboard_time": 1736908819,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 403026,
@@ -219,22 +243,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 375178,
-      "num": 375178,
-      "word": "韩国史上首次逮捕现任总统",
-      "onboard_time": 1736908819,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 360097,
-      "num": 360097,
-      "word": "尹锡悦已抵达政府大楼",
-      "onboard_time": 1736908638,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 356428,
       "num": 356428,
       "word": "尹锡悦",
@@ -265,6 +273,14 @@
       "onboard_time": 1736896815,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 306818,
+      "num": 416117,
+      "word": "中国人研究月球土特产发现了新秘密",
+      "onboard_time": 1736908278,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 305359,
@@ -299,16 +315,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 287298,
-      "num": 287298,
-      "word": "中国人研究月球土特产发现了新秘密",
-      "onboard_time": 1736908278,
-      "rank": 27,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 284994,
-      "num": 296224,
+      "num": 306082,
       "word": "董洁国色芳华出场镜头",
       "onboard_time": 1736903059,
       "rank": 28,
@@ -443,6 +451,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 217662,
+      "num": 314584,
+      "word": "创亚2官宣发起人徐明浩",
+      "onboard_time": 1736911038,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214136,
       "num": 214136,
       "word": "国考成绩",
@@ -465,6 +481,14 @@
       "onboard_time": 1736835499,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207398,
+      "num": 207398,
+      "word": "守望先锋回归福利",
+      "onboard_time": 1736909659,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 207130,
@@ -579,14 +603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 167705,
-      "num": 167705,
-      "word": "美国网友涌入小红书交猫税",
-      "onboard_time": 1736909359,
-      "rank": 37,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 166378,
       "num": 166378,
       "word": "白鹿敖瑞鹏送来了一个晚安",
@@ -659,6 +675,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 154401,
+      "num": 301430,
+      "word": "陈丽君的宝玉妆造自带英气",
+      "onboard_time": 1736910018,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 152213,
       "num": 152213,
       "word": "吴磊丝绒小卷毛",
@@ -712,6 +736,14 @@
       "word": "反复啃指甲是种心理障碍",
       "onboard_time": 1736860939,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134771,
+      "num": 134771,
+      "word": "12306客服回应候补人数多能否增加车次",
+      "onboard_time": 1736910919,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -771,14 +803,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 124466,
-      "num": 124466,
-      "word": "守望先锋回归福利",
-      "onboard_time": 1736909659,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 124442,
       "num": 124442,
       "word": "00后女生高铁上6小时织了顶帽子",
@@ -801,6 +825,14 @@
       "onboard_time": 1736864420,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116589,
+      "num": 116589,
+      "word": "大疆Flip",
+      "onboard_time": 1736907799,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 111223,
@@ -883,6 +915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96803,
+      "num": 96803,
+      "word": "小俞事业运",
+      "onboard_time": 1736911340,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 96484,
       "num": 96484,
       "word": "国色芳华小姨上大分",
@@ -945,6 +985,22 @@
       "onboard_time": 1736896576,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88756,
+      "num": 88756,
+      "word": "刘昊然观战郑钦文比赛",
+      "onboard_time": 1736911399,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 87654,
+      "num": 1393806,
+      "word": "过年回家的意义在此刻具象化了",
+      "onboard_time": 1736910738,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 86834,
@@ -1321,6 +1377,9 @@
     },
     {
       "word": "#把群众冰雪运动热情保持下去#"
+    },
+    {
+      "word": "#习近平同欧洲理事会主席科斯塔通电话#"
     }
   ]
 }
