@@ -1,0 +1,410 @@
+{
+  "runTime": 1736919521757,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2060606,
+        "num": 2060606,
+        "word": "泰国考虑对电诈园区断电断网",
+        "onboard_time": 1736914699,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1500825,
+        "num": 1500825,
+        "word": "字节跳动100元标餐的免费三餐",
+        "onboard_time": 1736914639,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 186398,
+        "num": 1306747,
+        "word": "过年回家的意义在此刻具象化了",
+        "onboard_time": 1736910738,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1116926,
+        "num": 1116926,
+        "word": "纪委回应已婚公职人员骗女子谈恋爱",
+        "onboard_time": 1736917520,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 969718,
+        "num": 969718,
+        "word": "刘晓庆大方承认自己的错误",
+        "onboard_time": 1736908219,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 873934,
+        "num": 873934,
+        "word": "美国网友涌入小红书交猫税",
+        "onboard_time": 1736909359,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 717796,
+        "num": 717796,
+        "word": "尹锡悦不打领带录视频讲话",
+        "onboard_time": 1736913379,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 638880,
+        "num": 638880,
+        "word": "向太第一期不敢说话的原因",
+        "onboard_time": 1736916259,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 528775,
+        "num": 528775,
+        "word": "4岁女童被爸爸带着跳楼捡回一命",
+        "onboard_time": 1736913619,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 513289,
+        "num": 513289,
+        "word": "韩国史上首次逮捕现任总统",
+        "onboard_time": 1736908819,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 842375,
+        "num": 501530,
+        "word": "谢娜李小冉闹掰的原因",
+        "onboard_time": 1736897897,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 472328,
+        "num": 472328,
+        "word": "尹锡悦被逮捕",
+        "onboard_time": 1736900118,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 425103,
+        "num": 425103,
+        "word": "张凌赫回应被田曦薇背的感受",
+        "onboard_time": 1736914340,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340565,
+        "num": 340565,
+        "word": "青簪行",
+        "onboard_time": 1736904617,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320448,
+        "num": 320448,
+        "word": "Angelababy卷发挑染",
+        "onboard_time": 1736898617,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 261376,
+        "num": 261376,
+        "word": "下下周三是第一个非遗春节",
+        "onboard_time": 1736903479,
+        "rank": 15,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 208914,
+        "num": 208914,
+        "word": "国考进面名单",
+        "onboard_time": 1736912599,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 151040,
+        "num": 207426,
+        "word": "大奉许七安MVP结算画面",
+        "onboard_time": 1736919320,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160580,
+        "num": 206790,
+        "word": "江秋莲新增维权案件",
+        "onboard_time": 1736915300,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206556,
+        "num": 206556,
+        "word": "时装主编评丁禹兮的表现力",
+        "onboard_time": 1736917940,
+        "rank": 19,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 890824,
+        "num": 202996,
+        "word": "吴昕直播间突然涌入大量外国网友",
+        "onboard_time": 1736918120,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191618,
+        "num": 191618,
+        "word": "尹锡悦将接受调查",
+        "onboard_time": 1736917400,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 404915,
+        "num": 191488,
+        "word": "交猫税是什么梗",
+        "onboard_time": 1736913919,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 370455,
+        "num": 190487,
+        "word": "孙颖莎理肤泉",
+        "onboard_time": 1736912658,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73032,
+        "num": 190127,
+        "word": "郑钦文说要先把身体恢复好",
+        "onboard_time": 1736919079,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 370423,
+        "num": 189737,
+        "word": "青簪行男主",
+        "onboard_time": 1736914459,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330987,
+        "num": 188726,
+        "word": "张凌赫也看了国色芳华",
+        "onboard_time": 1736913739,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262006,
+        "num": 188292,
+        "word": "陈哲远 吃了有文化的亏",
+        "onboard_time": 1736916561,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241803,
+        "num": 187631,
+        "word": "谁来关心一下千朵桃花",
+        "onboard_time": 1736918898,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103436,
+        "num": 187116,
+        "word": "从哪里找的这么像蒋长扬的动物",
+        "onboard_time": 1736917999,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241476,
+        "num": 186798,
+        "word": "敖瑞鹏写真",
+        "onboard_time": 1736917342,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239247,
+        "num": 185908,
+        "word": "网剧夺娶开播",
+        "onboard_time": 1736915060,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222916,
+        "num": 185805,
+        "word": "国外一水豚咬女孩数次将其压到水下",
+        "onboard_time": 1736911939,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 210863,
+        "num": 185187,
+        "word": "李兰迪首位95后亦舒女主",
+        "onboard_time": 1736919499,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81286,
+        "num": 184181,
+        "word": "超市年货专属BGM在召唤你",
+        "onboard_time": 1736908399,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169076,
+        "num": 184058,
+        "word": "解决婚姻家庭纠纷最新司法规定来了",
+        "onboard_time": 1736913559,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133548,
+        "num": 183027,
+        "word": "乡村爱情17今日定档",
+        "onboard_time": 1736917460,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207275,
+        "num": 182749,
+        "word": "罗云熙再现何以琛回头杀",
+        "onboard_time": 1736919320,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195597,
+        "num": 182215,
+        "word": "得知家里负债11岁女孩哭着退掉新衣",
+        "onboard_time": 1736906417,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181769,
+        "num": 181769,
+        "word": "郑钦文关键分被吹罚超时落泪",
+        "onboard_time": 1736916259,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181008,
+        "num": 181008,
+        "word": "尹锡悦称不认可公调处调查",
+        "onboard_time": 1736903717,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178410,
+        "num": 178410,
+        "word": "李昀锐拜年妆造",
+        "onboard_time": 1736916741,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177042,
+        "num": 177042,
+        "word": "丁禹兮杂志",
+        "onboard_time": 1736912599,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155139,
+        "num": 155139,
+        "word": "电影哪吒之魔童闹海",
+        "onboard_time": 1736918418,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154075,
+        "num": 154075,
+        "word": "甄嬛传13周年重逢VOGUE大片",
+        "onboard_time": 1736918540,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 145609,
+        "num": 145609,
+        "word": "猫耳 以声重逢",
+        "onboard_time": 1736919499,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 142970,
+        "num": 142970,
+        "word": "因为晕碳戒掉了熬夜",
+        "onboard_time": 1736904978,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131245,
+        "num": 131245,
+        "word": "婆婆谎称是死胎把孩子送人或涉拐骗",
+        "onboard_time": 1736868618,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130994,
+        "num": 130994,
+        "word": "白鹿敖瑞鹏两人痣长在同个位置",
+        "onboard_time": 1736912658,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130330,
+        "num": 130330,
+        "word": "71岁张艾嘉状态",
+        "onboard_time": 1736917821,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同欧洲理事会主席科斯塔通电话#"
+    }
+  }
+}
