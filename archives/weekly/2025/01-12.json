@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736945831853,
+  "endTime": 1736947580728,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -339,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1579673,
+      "num": 998285,
+      "word": "TikTok难民来啦",
+      "onboard_time": 1736944098,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1574790,
       "num": 1427942,
       "word": "金靖建议女孩一定要有正常的体重",
@@ -659,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1142891,
+      "num": 486826,
+      "word": "华春莹卸任外交部发言人",
+      "onboard_time": 1736942897,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1142346,
       "num": 1142346,
       "word": "微博之夜大合照",
@@ -953,6 +969,14 @@
       "onboard_time": 1736741238,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 940341,
+      "num": 940341,
+      "word": "3岁男童独自在家睡梦中被烧成重伤",
+      "onboard_time": 1736945298,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 938647,
@@ -1321,14 +1345,6 @@
       "onboard_time": 1736846959,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 754063,
-      "num": 754063,
-      "word": "TikTok难民来啦",
-      "onboard_time": 1736944098,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 751776,
@@ -1737,6 +1753,14 @@
       "onboard_time": 1736768421,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 648173,
+      "num": 648173,
+      "word": "丁禹兮回应虞书欣祝绪丹杨仕泽",
+      "onboard_time": 1736946320,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 647671,
@@ -2171,6 +2195,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 538128,
+      "num": 538128,
+      "word": "小红书2天新增超70万用户",
+      "onboard_time": 1736936540,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 537119,
       "num": 363094,
       "word": "TikTok或计划周日关停美国业务",
@@ -2347,14 +2379,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 501558,
-      "num": 501558,
-      "word": "小红书2天新增超70万用户",
-      "onboard_time": 1736936540,
-      "rank": 48,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 499445,
       "num": 395846,
       "word": "郑钦文无缘澳网女单第三轮",
@@ -2409,14 +2433,6 @@
       "onboard_time": 1736759119,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 486826,
-      "num": 486826,
-      "word": "华春莹卸任外交部发言人",
-      "onboard_time": 1736942897,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 484418,
@@ -3163,6 +3179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 367179,
+      "num": 367179,
+      "word": "国色芳华 观众比女主更依赖男主",
+      "onboard_time": 1736944098,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 367034,
       "num": 367034,
       "word": "王鹤棣宋茜星河入梦杀青",
@@ -3467,6 +3491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 327765,
+      "num": 327765,
+      "word": "难哄",
+      "onboard_time": 1736944999,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 326448,
       "num": 529311,
       "word": "无人机撞停加州山火灭火飞机",
@@ -3667,14 +3699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 309470,
-      "num": 309470,
-      "word": "3岁男童独自在家睡梦中被烧成重伤",
-      "onboard_time": 1736945298,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 308579,
       "num": 308579,
       "word": "网购正品卫生巾疑现不明爬虫",
@@ -3721,6 +3745,14 @@
       "onboard_time": 1736648599,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 304307,
+      "num": 304307,
+      "word": "公安机关全力协调解救境外被困人员",
+      "onboard_time": 1736946259,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 303218,
@@ -3923,6 +3955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 286020,
+      "num": 286020,
+      "word": "苏醒 住宿条件断崖式下降",
+      "onboard_time": 1736945900,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 285877,
       "num": 225372,
       "word": "国考成绩可查",
@@ -3971,8 +4011,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 280300,
+      "num": 247404,
+      "word": "陈小纭大奉拽妃",
+      "onboard_time": 1736946559,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280291,
-      "num": 213156,
+      "num": 244578,
       "word": "李威经纪人回应杀人案",
       "onboard_time": 1736942358,
       "rank": 23,
@@ -4028,7 +4076,7 @@
     },
     {
       "raw_hot": 276638,
-      "num": 212953,
+      "num": 241982,
       "word": "下一个TikTok还是中国产",
       "onboard_time": 1736942718,
       "rank": 24,
@@ -4329,6 +4377,14 @@
       "onboard_time": 1736657659,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 257161,
+      "num": 242868,
+      "word": "你皮肤不好真有可能是饮食问题",
+      "onboard_time": 1736944877,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 255996,
@@ -5555,14 +5611,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 201906,
-      "num": 201906,
-      "word": "国色芳华 观众比女主更依赖男主",
-      "onboard_time": 1736944098,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 201844,
       "num": 201844,
       "word": "祝绪丹杨仕泽 要是你在就好了",
@@ -6675,14 +6723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178913,
-      "num": 178913,
-      "word": "你皮肤不好真有可能是饮食问题",
-      "onboard_time": 1736944877,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 178813,
       "num": 178813,
       "word": "崔胜澈直播",
@@ -6771,14 +6811,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 176670,
-      "num": 176670,
-      "word": "难哄",
-      "onboard_time": 1736944999,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 176613,
       "num": 176613,
       "word": "央视剧晚盛典之路",
@@ -6849,6 +6881,14 @@
       "onboard_time": 1736764399,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174824,
+      "num": 174824,
+      "word": "陶昕然 你还有多少惊喜是朕不知道的",
+      "onboard_time": 1736946380,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 174719,
@@ -8251,6 +8291,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 147283,
+      "num": 147283,
+      "word": "陈立农现身湾区春晚",
+      "onboard_time": 1736945237,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147229,
       "num": 147229,
       "word": "李昀锐登顶12月微博演员热度报告",
@@ -8353,6 +8401,14 @@
       "onboard_time": 1736641760,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145447,
+      "num": 145447,
+      "word": "外国人用中文买东西有多搞笑",
+      "onboard_time": 1736944877,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 145438,
@@ -8817,14 +8873,6 @@
       "onboard_time": 1736694320,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 135853,
-      "num": 135853,
-      "word": "陈立农现身湾区春晚",
-      "onboard_time": 1736945237,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 135847,
@@ -9529,14 +9577,6 @@
       "onboard_time": 1736758999,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125054,
-      "num": 125054,
-      "word": "外国人用中文买东西有多搞笑",
-      "onboard_time": 1736944877,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 124958,
@@ -11795,6 +11835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 59571,
+      "num": 176702,
+      "word": "蛟龙行动全员剃蛟龙头",
+      "onboard_time": 1736947519,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 59260,
       "num": 59260,
       "word": "好莱坞资深女星命丧山火",
@@ -11849,6 +11897,14 @@
       "onboard_time": 1736836939,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 56668,
+      "num": 1009066,
+      "word": "那些你不知道的北京地儿",
+      "onboard_time": 1736946858,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56140,
@@ -12105,6 +12161,14 @@
       "onboard_time": 1736616797,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49924,
+      "num": 181541,
+      "word": "春节档电影海报上新",
+      "onboard_time": 1736947519,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 49703,

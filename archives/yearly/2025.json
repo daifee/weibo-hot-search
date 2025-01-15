@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736945831853,
+  "endTime": 1736947580728,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1859,6 +1859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1579673,
+      "num": 998285,
+      "word": "TikTok难民来啦",
+      "onboard_time": 1736944098,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1575211,
       "num": 1575211,
       "word": "黄雅琼宣布退出国家队",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735659086,
       "rank": 5,
       "category": "体育,综艺"
-    },
-    {
-      "raw_hot": 1354688,
-      "num": 1354688,
-      "word": "刘强东给老家60岁以上老人发一万元",
-      "onboard_time": 1735811780,
-      "rank": 0,
-      "category": "互联网"
     }
   ],
   "hotgov_list": [
