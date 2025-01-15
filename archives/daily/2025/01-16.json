@@ -1,6 +1,6 @@
 {
   "startTime": 1736958421212,
-  "endTime": 1736965726784,
+  "endTime": 1736966512597,
   "band_list": [
     {
       "raw_hot": 1581563,
@@ -451,6 +451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 50286,
+      "num": 70674,
+      "word": "愿推动中韩关系健康稳定发展",
+      "onboard_time": 1736965032,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 41457,
       "num": 41457,
       "word": "桃花坞开放中收官",
@@ -531,20 +539,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 17986,
-      "num": 70674,
-      "word": "愿推动中韩关系健康稳定发展",
-      "onboard_time": 1736965032,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 12216,
-      "num": 126483,
+      "raw_hot": 14546,
+      "num": 130388,
       "word": "以旧换新带动销售超1.3万亿元",
       "onboard_time": 1736949981,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14460,
+      "num": 56362,
+      "word": "外交部表示对韩国内政不做评论",
+      "onboard_time": 1736966231,
+      "rank": 14,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
