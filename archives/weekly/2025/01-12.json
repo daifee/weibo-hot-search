@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736906187001,
+  "endTime": 1736909327369,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -57,6 +57,14 @@
       "onboard_time": 1736609964,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2629996,
+      "num": 2629996,
+      "word": "尹锡悦被逮捕",
+      "onboard_time": 1736900118,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 2489240,
@@ -1419,6 +1427,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 651249,
+      "num": 395181,
+      "word": "Angelababy卷发挑染",
+      "onboard_time": 1736898617,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 650847,
       "num": 395463,
       "word": "孟子义控诉和李昀锐毫无默契",
@@ -1643,6 +1659,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 587817,
+      "num": 443122,
+      "word": "吉林大爷救助游客反遭诬陷有出入",
+      "onboard_time": 1736902338,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 587732,
       "num": 587732,
       "word": "可是为什么我插针都插不入",
@@ -1723,6 +1747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 562656,
+      "num": 562656,
+      "word": "韩国29吨核废液排海影响有多大",
+      "onboard_time": 1736902399,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 560512,
       "num": 560512,
       "word": "敖瑞鹏单手公主抱了白鹿",
@@ -1745,14 +1777,6 @@
       "onboard_time": 1736692942,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 554971,
-      "num": 395181,
-      "word": "Angelababy卷发挑染",
-      "onboard_time": 1736898617,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 552334,
@@ -1913,6 +1937,22 @@
       "onboard_time": 1736763020,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 499445,
+      "num": 331261,
+      "word": "郑钦文无缘澳网女单第三轮",
+      "onboard_time": 1736908819,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 499421,
+      "num": 265039,
+      "word": "刘晓庆大方承认自己的错误",
+      "onboard_time": 1736908219,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 499276,
@@ -2115,14 +2155,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 451865,
-      "num": 451865,
-      "word": "韩国29吨核废液排海影响有多大",
-      "onboard_time": 1736902399,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 451864,
       "num": 451864,
       "word": "蓝盈莹新剧不敢直视的样子好真实",
@@ -2169,14 +2201,6 @@
       "onboard_time": 1736748499,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 443122,
-      "num": 443122,
-      "word": "吉林大爷救助游客反遭诬陷有出入",
-      "onboard_time": 1736902338,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 442392,
@@ -2307,6 +2331,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 416350,
+      "num": 416350,
+      "word": "郑钦文0比2西格蒙德",
+      "onboard_time": 1736908819,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 415676,
       "num": 415676,
       "word": "客服回应李佳琦直播间车厘子翻车",
@@ -2320,6 +2352,22 @@
       "word": "靠海的洛杉矶为何缺水灭火",
       "onboard_time": 1736649138,
       "rank": 17,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 412756,
+      "num": 264804,
+      "word": "得知家里负债11岁女孩哭着退掉新衣",
+      "onboard_time": 1736906417,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 408328,
+      "num": 408328,
+      "word": "尹锡悦发表对民众讲话",
+      "onboard_time": 1736907558,
+      "rank": 5,
       "category": "国际时政"
     },
     {
@@ -2393,6 +2441,14 @@
       "onboard_time": 1736681359,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 395590,
+      "num": 395590,
+      "word": "尹锡悦称不认可公调处调查",
+      "onboard_time": 1736903717,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 395297,
@@ -2611,6 +2667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 365136,
+      "num": 264336,
+      "word": "因为晕碳戒掉了熬夜",
+      "onboard_time": 1736904978,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 363296,
       "num": 363296,
       "word": "樊振东说不想回看与张本的前两局",
@@ -2641,6 +2705,14 @@
       "onboard_time": 1736612183,
       "rank": 29,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 360676,
+      "num": 360676,
+      "word": "下下周三是第一个非遗春节",
+      "onboard_time": 1736903479,
+      "rank": 32,
+      "category": "正能量"
     },
     {
       "raw_hot": 356629,
@@ -3051,6 +3123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 305359,
+      "num": 305359,
+      "word": "郑钦文vs西格蒙德",
+      "onboard_time": 1736899878,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 304617,
       "num": 304617,
       "word": "檀健次绅士手扶虞书欣",
@@ -3235,6 +3315,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 284994,
+      "num": 284994,
+      "word": "董洁国色芳华出场镜头",
+      "onboard_time": 1736903059,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 283752,
       "num": 283752,
       "word": "难哄橄榄树值得爱 对打",
@@ -3345,14 +3433,6 @@
       "onboard_time": 1736650280,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 274542,
-      "num": 217396,
-      "word": "因为晕碳戒掉了熬夜",
-      "onboard_time": 1736904978,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 273794,
@@ -3475,12 +3555,36 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 266327,
+      "num": 266327,
+      "word": "百万人陪郑钦文早八",
+      "onboard_time": 1736904978,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 265632,
       "num": 265632,
       "word": "加州山火烧向施瓦辛格和詹姆斯的家",
       "onboard_time": 1736754499,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 265480,
+      "num": 265480,
+      "word": "尹锡悦已抵达政府大楼",
+      "onboard_time": 1736908638,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 264262,
+      "num": 264262,
+      "word": "妈妈可能正在经历最痛苦的10年",
+      "onboard_time": 1736906417,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 264115,
@@ -3779,6 +3883,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 241238,
+      "num": 358331,
+      "word": "韩国史上首次逮捕现任总统",
+      "onboard_time": 1736908819,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 240700,
       "num": 310611,
       "word": "朴秀荣续约SM",
@@ -3809,6 +3921,14 @@
       "onboard_time": 1736810356,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 238772,
+      "num": 238772,
+      "word": "尹锡悦将接受调查主动走出官邸",
+      "onboard_time": 1736906417,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 238448,
@@ -3849,6 +3969,14 @@
       "onboard_time": 1736651239,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 234859,
+      "num": 234859,
+      "word": "中国人研究月球土特产发现了新秘密",
+      "onboard_time": 1736908278,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 234121,
@@ -3899,6 +4027,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 231654,
+      "num": 231654,
+      "word": "守望先锋",
+      "onboard_time": 1736906718,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 231191,
       "num": 231191,
       "word": "微博之夜95生微指",
@@ -3913,6 +4049,14 @@
       "onboard_time": 1736689761,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 230199,
+      "num": 232180,
+      "word": "澳网",
+      "onboard_time": 1736645838,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 230157,
@@ -3945,14 +4089,6 @@
       "onboard_time": 1736777541,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 228828,
-      "num": 228828,
-      "word": "下下周三是第一个非遗春节",
-      "onboard_time": 1736903479,
-      "rank": 32,
-      "category": "正能量"
     },
     {
       "raw_hot": 228812,
@@ -4611,14 +4747,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 203271,
-      "num": 217714,
-      "word": "董洁国色芳华出场镜头",
-      "onboard_time": 1736903059,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 202090,
       "num": 202090,
       "word": "徐克谈对肖战的看法",
@@ -5236,7 +5364,7 @@
     },
     {
       "raw_hot": 188743,
-      "num": 188743,
+      "num": 232803,
       "word": "关晓彤换风格了",
       "onboard_time": 1736898498,
       "rank": 26,
@@ -5273,6 +5401,14 @@
       "onboard_time": 1736874134,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 187695,
+      "num": 187695,
+      "word": "小程序游戏的含金量还在上升",
+      "onboard_time": 1736908758,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 187409,
@@ -5412,7 +5548,7 @@
     },
     {
       "raw_hot": 184772,
-      "num": 184772,
+      "num": 265303,
       "word": "将门毒后选角",
       "onboard_time": 1736896936,
       "rank": 29,
@@ -5699,12 +5835,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 176474,
-      "num": 176474,
-      "word": "郑钦文vs西格蒙德",
-      "onboard_time": 1736899878,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 176412,
+      "num": 176412,
+      "word": "星穹铁道",
+      "onboard_time": 1736909058,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 175733,
@@ -6059,14 +6195,6 @@
       "category": "体育,作品衍生"
     },
     {
-      "raw_hot": 168482,
-      "num": 232180,
-      "word": "澳网",
-      "onboard_time": 1736645838,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 168475,
       "num": 349447,
       "word": "惠英红说张凌赫是宝贝十八号",
@@ -6249,6 +6377,14 @@
       "onboard_time": 1736656459,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 161992,
+      "num": 259177,
+      "word": "郑钦文首盘7记ACE",
+      "onboard_time": 1736907558,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 161990,
@@ -7339,14 +7475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139319,
-      "num": 139319,
-      "word": "百万人陪郑钦文早八",
-      "onboard_time": 1736904978,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 139153,
       "num": 202308,
       "word": "女子逛商场摔成九级残疾索赔15万",
@@ -7531,6 +7659,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 134468,
+      "num": 134468,
+      "word": "英国凯特王妃表示其病情有所缓解",
+      "onboard_time": 1736908458,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 134465,
+      "num": 134465,
+      "word": "超市年货专属BGM在召唤你",
+      "onboard_time": 1736908399,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134177,
       "num": 134177,
       "word": "加州山火威胁好莱坞环球影城",
@@ -7633,6 +7777,14 @@
       "onboard_time": 1736860399,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132114,
+      "num": 132114,
+      "word": "全球80%年画春联源自义乌",
+      "onboard_time": 1736907499,
+      "rank": 44,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 132085,
@@ -8227,6 +8379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 121157,
+      "num": 232226,
+      "word": "范丞丞方否认将演将门毒后",
+      "onboard_time": 1736908219,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121036,
       "num": 121036,
       "word": "澳网首轮中国球员4胜7负",
@@ -8761,6 +8921,14 @@
       "onboard_time": 1736808793,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 109576,
+      "num": 114870,
+      "word": "两人笑场手手也不松",
+      "onboard_time": 1736908158,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 109099,

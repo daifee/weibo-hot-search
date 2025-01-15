@@ -1,6 +1,6 @@
 {
   "startTime": 1736872066671,
-  "endTime": 1736906187001,
+  "endTime": 1736909327369,
   "band_list": [
     {
       "raw_hot": 3396289,
@@ -9,6 +9,14 @@
       "onboard_time": 1736868979,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 2629996,
+      "num": 2629996,
+      "word": "尹锡悦被逮捕",
+      "onboard_time": 1736900118,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1665912,
@@ -51,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 651249,
+      "num": 395181,
+      "word": "Angelababy卷发挑染",
+      "onboard_time": 1736898617,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 630130,
       "num": 630130,
       "word": "为什么车厘子一个月到中国却不腐烂",
@@ -75,6 +91,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 587817,
+      "num": 443122,
+      "word": "吉林大爷救助游客反遭诬陷有出入",
+      "onboard_time": 1736902338,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 587732,
       "num": 587732,
       "word": "可是为什么我插针都插不入",
@@ -91,12 +115,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 554971,
-      "num": 395181,
-      "word": "Angelababy卷发挑染",
-      "onboard_time": 1736898617,
-      "rank": 11,
-      "category": "作品衍生"
+      "raw_hot": 562656,
+      "num": 562656,
+      "word": "韩国29吨核废液排海影响有多大",
+      "onboard_time": 1736902399,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 499445,
+      "num": 331261,
+      "word": "郑钦文无缘澳网女单第三轮",
+      "onboard_time": 1736908819,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 499421,
+      "num": 265039,
+      "word": "刘晓庆大方承认自己的错误",
+      "onboard_time": 1736908219,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 472364,
@@ -107,20 +147,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 451865,
-      "num": 451865,
-      "word": "韩国29吨核废液排海影响有多大",
-      "onboard_time": 1736902399,
-      "rank": 17,
-      "category": "国际时政"
+      "raw_hot": 416350,
+      "num": 416350,
+      "word": "郑钦文0比2西格蒙德",
+      "onboard_time": 1736908819,
+      "rank": 4,
+      "category": "体育"
     },
     {
-      "raw_hot": 443122,
-      "num": 443122,
-      "word": "吉林大爷救助游客反遭诬陷有出入",
-      "onboard_time": 1736902338,
-      "rank": 15,
+      "raw_hot": 412756,
+      "num": 264804,
+      "word": "得知家里负债11岁女孩哭着退掉新衣",
+      "onboard_time": 1736906417,
+      "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 408328,
+      "num": 408328,
+      "word": "尹锡悦发表对民众讲话",
+      "onboard_time": 1736907558,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 403026,
@@ -131,12 +179,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 395590,
+      "num": 395590,
+      "word": "尹锡悦称不认可公调处调查",
+      "onboard_time": 1736903717,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 381626,
       "num": 381626,
       "word": "江苏省考成绩",
       "onboard_time": 1736904978,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 365136,
+      "num": 264336,
+      "word": "因为晕碳戒掉了熬夜",
+      "onboard_time": 1736904978,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 360676,
+      "num": 360676,
+      "word": "下下周三是第一个非遗春节",
+      "onboard_time": 1736903479,
+      "rank": 32,
+      "category": "正能量"
     },
     {
       "raw_hot": 356428,
@@ -171,6 +243,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 305359,
+      "num": 305359,
+      "word": "郑钦文vs西格蒙德",
+      "onboard_time": 1736899878,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 294767,
       "num": 294767,
       "word": "韩警方及公调处千余人抓捕尹锡悦",
@@ -187,20 +267,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284994,
+      "num": 284994,
+      "word": "董洁国色芳华出场镜头",
+      "onboard_time": 1736903059,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 278532,
       "num": 272209,
       "word": "向佐自曝小学时因父母身份被霸凌",
       "onboard_time": 1736892131,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 274542,
-      "num": 217396,
-      "word": "因为晕碳戒掉了熬夜",
-      "onboard_time": 1736904978,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 270284,
@@ -217,6 +297,30 @@
       "onboard_time": 1736901920,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 266327,
+      "num": 266327,
+      "word": "百万人陪郑钦文早八",
+      "onboard_time": 1736904978,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 265480,
+      "num": 265480,
+      "word": "尹锡悦已抵达政府大楼",
+      "onboard_time": 1736908638,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 264262,
+      "num": 264262,
+      "word": "妈妈可能正在经历最痛苦的10年",
+      "onboard_time": 1736906417,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 255996,
@@ -267,6 +371,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 241238,
+      "num": 358331,
+      "word": "韩国史上首次逮捕现任总统",
+      "onboard_time": 1736908819,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 240861,
       "num": 240861,
       "word": "魏哲鸣回应和杨紫嗑瓜子cp",
@@ -275,12 +387,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 228828,
-      "num": 228828,
-      "word": "下下周三是第一个非遗春节",
-      "onboard_time": 1736903479,
-      "rank": 32,
-      "category": "正能量"
+      "raw_hot": 238772,
+      "num": 238772,
+      "word": "尹锡悦将接受调查主动走出官邸",
+      "onboard_time": 1736906417,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 234859,
+      "num": 234859,
+      "word": "中国人研究月球土特产发现了新秘密",
+      "onboard_time": 1736908278,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 231654,
+      "num": 231654,
+      "word": "守望先锋",
+      "onboard_time": 1736906718,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 230199,
+      "num": 230199,
+      "word": "澳网",
+      "onboard_time": 1736908339,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 228729,
@@ -331,14 +467,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 203271,
-      "num": 217714,
-      "word": "董洁国色芳华出场镜头",
-      "onboard_time": 1736903059,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 196694,
       "num": 196694,
       "word": "花融",
@@ -364,7 +492,7 @@
     },
     {
       "raw_hot": 188743,
-      "num": 188743,
+      "num": 232803,
       "word": "关晓彤换风格了",
       "onboard_time": 1736898498,
       "rank": 26,
@@ -379,6 +507,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 187695,
+      "num": 187695,
+      "word": "小程序游戏的含金量还在上升",
+      "onboard_time": 1736908758,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 185379,
       "num": 163146,
       "word": "一觉醒来小红书被外国人占领了",
@@ -388,7 +524,7 @@
     },
     {
       "raw_hot": 184772,
-      "num": 184772,
+      "num": 265303,
       "word": "将门毒后选角",
       "onboard_time": 1736896936,
       "rank": 29,
@@ -403,12 +539,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 176474,
-      "num": 176474,
-      "word": "郑钦文vs西格蒙德",
-      "onboard_time": 1736899878,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 176412,
+      "num": 176412,
+      "word": "星穹铁道",
+      "onboard_time": 1736909058,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 170360,
@@ -433,6 +569,14 @@
       "onboard_time": 1736865682,
       "rank": 21,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 161992,
+      "num": 259177,
+      "word": "郑钦文首盘7记ACE",
+      "onboard_time": 1736907558,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 159402,
@@ -515,14 +659,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139319,
-      "num": 139319,
-      "word": "百万人陪郑钦文早八",
-      "onboard_time": 1736904978,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 139261,
       "num": 139261,
       "word": "国考行测",
@@ -537,6 +673,38 @@
       "onboard_time": 1736860939,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134468,
+      "num": 134468,
+      "word": "英国凯特王妃表示其病情有所缓解",
+      "onboard_time": 1736908458,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 134465,
+      "num": 134465,
+      "word": "超市年货专属BGM在召唤你",
+      "onboard_time": 1736908399,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132114,
+      "num": 132114,
+      "word": "全球80%年画春联源自义乌",
+      "onboard_time": 1736907499,
+      "rank": 44,
+      "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 129999,
+      "num": 202132,
+      "word": "国色芳华",
+      "onboard_time": 1736909178,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 129349,
@@ -587,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121157,
+      "num": 232226,
+      "word": "范丞丞方否认将演将门毒后",
+      "onboard_time": 1736908219,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117736,
       "num": 117736,
       "word": "女星因老公去世删光社交动态",
@@ -617,6 +793,14 @@
       "onboard_time": 1736862860,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109576,
+      "num": 114870,
+      "word": "两人笑场手手也不松",
+      "onboard_time": 1736908158,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 109099,
@@ -996,7 +1180,7 @@
     },
     {
       "raw_hot": 24628,
-      "num": 574469,
+      "num": 723921,
       "word": "我的铁路风景",
       "onboard_time": 1736859199,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1736909327369,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2629996,
+        "num": 2629996,
+        "word": "尹锡悦被逮捕",
+        "onboard_time": 1736900118,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1279533,
+        "num": 1279533,
+        "word": "青簪行",
+        "onboard_time": 1736904617,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22755,
+        "num": 723921,
+        "word": "我的铁路风景",
+        "onboard_time": 1736859199,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 562656,
+        "num": 562656,
+        "word": "韩国29吨核废液排海影响有多大",
+        "onboard_time": 1736902399,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 416350,
+        "num": 416350,
+        "word": "郑钦文0比2西格蒙德",
+        "onboard_time": 1736908819,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 408328,
+        "num": 408328,
+        "word": "尹锡悦发表对民众讲话",
+        "onboard_time": 1736907558,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 395590,
+        "num": 395590,
+        "word": "尹锡悦称不认可公调处调查",
+        "onboard_time": 1736903717,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 390163,
+        "num": 390163,
+        "word": "鹿晗将缺席五哈录制",
+        "onboard_time": 1736898196,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360676,
+        "num": 360676,
+        "word": "下下周三是第一个非遗春节",
+        "onboard_time": 1736903479,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 241238,
+        "num": 358331,
+        "word": "韩国史上首次逮捕现任总统",
+        "onboard_time": 1736908819,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1057898,
+        "num": 350980,
+        "word": "谢娜李小冉闹掰的原因",
+        "onboard_time": 1736897897,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 651249,
+        "num": 343113,
+        "word": "Angelababy卷发挑染",
+        "onboard_time": 1736898617,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 587817,
+        "num": 340323,
+        "word": "吉林大爷救助游客反遭诬陷有出入",
+        "onboard_time": 1736902338,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 499445,
+        "num": 331261,
+        "word": "郑钦文无缘澳网女单第三轮",
+        "onboard_time": 1736908819,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330788,
+        "num": 330788,
+        "word": "婆婆谎称是死胎把孩子送人或涉拐骗",
+        "onboard_time": 1736868618,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305359,
+        "num": 305359,
+        "word": "郑钦文vs西格蒙德",
+        "onboard_time": 1736899878,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284994,
+        "num": 284994,
+        "word": "董洁国色芳华出场镜头",
+        "onboard_time": 1736903059,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266327,
+        "num": 266327,
+        "word": "百万人陪郑钦文早八",
+        "onboard_time": 1736904978,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265480,
+        "num": 265480,
+        "word": "尹锡悦已抵达政府大楼",
+        "onboard_time": 1736908638,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122497,
+        "num": 265303,
+        "word": "将门毒后选角",
+        "onboard_time": 1736896936,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 499421,
+        "num": 265039,
+        "word": "刘晓庆大方承认自己的错误",
+        "onboard_time": 1736908219,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412756,
+        "num": 264804,
+        "word": "得知家里负债11岁女孩哭着退掉新衣",
+        "onboard_time": 1736906417,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365136,
+        "num": 264336,
+        "word": "因为晕碳戒掉了熬夜",
+        "onboard_time": 1736904978,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 264262,
+        "num": 264262,
+        "word": "妈妈可能正在经历最痛苦的10年",
+        "onboard_time": 1736906417,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161992,
+        "num": 259177,
+        "word": "郑钦文首盘7记ACE",
+        "onboard_time": 1736907558,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259033,
+        "num": 259033,
+        "word": "为什么车厘子一个月到中国却不腐烂",
+        "onboard_time": 1736857099,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238772,
+        "num": 238772,
+        "word": "尹锡悦将接受调查主动走出官邸",
+        "onboard_time": 1736906417,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 234859,
+        "num": 234859,
+        "word": "中国人研究月球土特产发现了新秘密",
+        "onboard_time": 1736908278,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137762,
+        "num": 232803,
+        "word": "关晓彤换风格了",
+        "onboard_time": 1736898498,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121157,
+        "num": 232226,
+        "word": "范丞丞方否认将演将门毒后",
+        "onboard_time": 1736908219,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231654,
+        "num": 231654,
+        "word": "守望先锋",
+        "onboard_time": 1736906718,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 230199,
+        "num": 230199,
+        "word": "澳网",
+        "onboard_time": 1736908339,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206114,
+        "num": 206114,
+        "word": "江苏省考成绩",
+        "onboard_time": 1736904978,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 129999,
+        "num": 202132,
+        "word": "国色芳华",
+        "onboard_time": 1736909178,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200519,
+        "num": 200519,
+        "word": "小孩玩火5辆车被烧成空壳",
+        "onboard_time": 1736865201,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187695,
+        "num": 187695,
+        "word": "小程序游戏的含金量还在上升",
+        "onboard_time": 1736908758,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 184540,
+        "num": 184540,
+        "word": "张婧仪骨相",
+        "onboard_time": 1736901920,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176412,
+        "num": 176412,
+        "word": "星穹铁道",
+        "onboard_time": 1736909058,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171994,
+        "num": 171994,
+        "word": "国考分数线",
+        "onboard_time": 1736869218,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 148483,
+        "num": 148483,
+        "word": "到底是谁忽悠洋抖难民交猫税",
+        "onboard_time": 1736900900,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 145832,
+        "num": 145832,
+        "word": "韩国警方进入总统官邸",
+        "onboard_time": 1736896815,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134468,
+        "num": 134468,
+        "word": "英国凯特王妃表示其病情有所缓解",
+        "onboard_time": 1736908458,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134465,
+        "num": 134465,
+        "word": "超市年货专属BGM在召唤你",
+        "onboard_time": 1736908399,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132902,
+        "num": 132902,
+        "word": "韩警方及公调处千余人抓捕尹锡悦",
+        "onboard_time": 1736896515,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132114,
+        "num": 132114,
+        "word": "全球80%年画春联源自义乌",
+        "onboard_time": 1736907499,
+        "rank": 44,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 124105,
+        "num": 124105,
+        "word": "国考成绩",
+        "onboard_time": 1736860218,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 120590,
+        "num": 120590,
+        "word": "俄罗斯留学5年的真实经历",
+        "onboard_time": 1736904260,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120169,
+        "num": 120169,
+        "word": "抓捕尹锡悦行动中有人受伤",
+        "onboard_time": 1736904918,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113793,
+        "num": 116514,
+        "word": "蒋长扬要切大号了",
+        "onboard_time": 1736896576,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109576,
+        "num": 114870,
+        "word": "两人笑场手手也不松",
+        "onboard_time": 1736908158,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#把群众冰雪运动热情保持下去#"
+    }
+  }
+}

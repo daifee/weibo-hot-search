@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736906187001,
+  "endTime": 1736909327369,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -577,6 +577,14 @@
       "onboard_time": 1736609964,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2629996,
+      "num": 2629996,
+      "word": "尹锡悦被逮捕",
+      "onboard_time": 1736900118,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 2582877,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736306421,
       "rank": 40,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1323200,
-      "num": 216911,
-      "word": "演员星星",
-      "onboard_time": 1736120838,
-      "rank": 22,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
