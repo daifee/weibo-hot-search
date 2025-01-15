@@ -1,6 +1,6 @@
 {
   "startTime": 1736872066671,
-  "endTime": 1736948284039,
+  "endTime": 1736950836193,
   "band_list": [
     {
       "raw_hot": 3396289,
@@ -65,6 +65,14 @@
       "onboard_time": 1736908819,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1900731,
+      "num": 1900731,
+      "word": "6000元以下手机补贴最终价格的15%",
+      "onboard_time": 1736948599,
+      "rank": 0,
+      "category": "数码"
     },
     {
       "raw_hot": 1761821,
@@ -179,6 +187,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 1014749,
+      "num": 1014749,
+      "word": "3岁男童独自在家睡梦中被烧成重伤",
+      "onboard_time": 1736945298,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 969463,
       "num": 969463,
       "word": "虞书欣祝丁禹兮前程似锦",
@@ -201,14 +217,6 @@
       "onboard_time": 1736924179,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 940341,
-      "num": 940341,
-      "word": "3岁男童独自在家睡梦中被烧成重伤",
-      "onboard_time": 1736945298,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 927879,
@@ -371,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 652390,
+      "num": 652390,
+      "word": "小红书2天新增超70万用户",
+      "onboard_time": 1736936540,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 651249,
       "num": 476050,
       "word": "Angelababy卷发挑染",
@@ -443,14 +459,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 593441,
-      "num": 593441,
-      "word": "小红书2天新增超70万用户",
-      "onboard_time": 1736936540,
-      "rank": 48,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 587817,
       "num": 443122,
       "word": "吉林大爷救助游客反遭诬陷有出入",
@@ -473,6 +481,14 @@
       "onboard_time": 1736898196,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 579483,
+      "num": 346629,
+      "word": "黄轩和女友的关系十分稳定",
+      "onboard_time": 1736949199,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 568186,
@@ -521,6 +537,14 @@
       "onboard_time": 1736938281,
       "rank": 32,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 537698,
+      "num": 537698,
+      "word": "李现最近又爱上了小烧烤",
+      "onboard_time": 1736949080,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 537119,
@@ -867,6 +891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 306201,
+      "num": 284447,
+      "word": "你皮肤不好真有可能是饮食问题",
+      "onboard_time": 1736944877,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 305376,
       "num": 305376,
       "word": "陈哲远 轻飘飘的一句话造就神图",
@@ -907,6 +939,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293752,
+      "num": 293752,
+      "word": "京城大师赛",
+      "onboard_time": 1736948419,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 292508,
+      "num": 219892,
+      "word": "今年五福有29套福卡",
+      "onboard_time": 1736948539,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 291201,
       "num": 291201,
       "word": "郑钦文说我尽力了",
@@ -937,14 +985,6 @@
       "onboard_time": 1736903059,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 284447,
-      "num": 284447,
-      "word": "你皮肤不好真有可能是饮食问题",
-      "onboard_time": 1736944877,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 280291,
@@ -1041,6 +1081,14 @@
       "onboard_time": 1736869218,
       "rank": 12,
       "category": "教育"
+    },
+    {
+      "raw_hot": 255144,
+      "num": 197968,
+      "word": "杨紫申请强制黑粉道歉",
+      "onboard_time": 1736948118,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 253744,
@@ -1531,6 +1579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181349,
+      "num": 181349,
+      "word": "外国人用中文买东西有多搞笑",
+      "onboard_time": 1736944877,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 179006,
       "num": 179006,
       "word": "陈梦杯开赛",
@@ -1588,19 +1644,11 @@
     },
     {
       "raw_hot": 172944,
-      "num": 172944,
+      "num": 366183,
       "word": "陈立农现身湾区春晚",
       "onboard_time": 1736945237,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 171670,
-      "num": 171670,
-      "word": "外国人用中文买东西有多搞笑",
-      "onboard_time": 1736944877,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 171594,
@@ -1641,6 +1689,14 @@
       "onboard_time": 1736917580,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167591,
+      "num": 167591,
+      "word": "肖战射雕稀有卡",
+      "onboard_time": 1736948719,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 167537,
@@ -1883,6 +1939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145752,
+      "num": 341243,
+      "word": "春节档电影海报上新",
+      "onboard_time": 1736947519,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 145678,
       "num": 145678,
       "word": "俄罗斯留学5年的真实经历",
@@ -2059,14 +2123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129377,
-      "num": 194980,
-      "word": "杨紫申请强制黑粉道歉",
-      "onboard_time": 1736948118,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 129349,
       "num": 129349,
       "word": "家属称景德镇车祸死者父母重度抑郁",
@@ -2123,6 +2179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 125373,
+      "num": 125373,
+      "word": "香港一警署发生枪击",
+      "onboard_time": 1736950520,
+      "rank": 39,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 125102,
       "num": 125102,
       "word": "SM新女团成员Jiwoo",
@@ -2171,6 +2235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122862,
+      "num": 122862,
+      "word": "婚前房产为另一方加名若离婚归谁",
+      "onboard_time": 1736950280,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121609,
       "num": 184832,
       "word": "敖瑞鹏不语只是一味going",
@@ -2193,6 +2265,14 @@
       "onboard_time": 1736912658,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 120222,
+      "num": 120222,
+      "word": "美国网友向中国网友求助数学题",
+      "onboard_time": 1736949798,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 119834,
@@ -2267,12 +2347,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 116108,
+      "num": 116108,
+      "word": "国色芳华排名省级卫视第一",
+      "onboard_time": 1736949981,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116069,
       "num": 247321,
       "word": "小小的我票房突破6.61亿",
       "onboard_time": 1736940318,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 115976,
+      "num": 114903,
+      "word": "3岁小孩的表达能力有多好",
+      "onboard_time": 1736950400,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 115077,
+      "num": 115077,
+      "word": "疑似ATEEZ队长内涵方时赫",
+      "onboard_time": 1736949199,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 114445,
@@ -2313,6 +2417,14 @@
       "onboard_time": 1736924118,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 112386,
+      "num": 112386,
+      "word": "临近过年草莓价格反而开始回落",
+      "onboard_time": 1736949918,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111223,
@@ -2385,6 +2497,14 @@
       "onboard_time": 1736908158,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109227,
+      "num": 109227,
+      "word": "尹锡悦午餐盒饭晚餐大酱汤夜里拘留所",
+      "onboard_time": 1736948599,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 109099,
@@ -2803,14 +2923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 67951,
-      "num": 341243,
-      "word": "春节档电影海报上新",
-      "onboard_time": 1736947519,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 66875,
       "num": 975717,
       "word": "春运人潮中最让人安心的身影",
@@ -3156,6 +3268,9 @@
     },
     {
       "word": "#习近平同欧洲理事会主席科斯塔通电话#"
+    },
+    {
+      "word": "#习近平同越共中央总书记苏林通电话#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1736950836193,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1900731,
+        "num": 1900731,
+        "word": "6000元以下手机补贴最终价格的15%",
+        "onboard_time": 1736948599,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1014749,
+        "num": 1014749,
+        "word": "3岁男童独自在家睡梦中被烧成重伤",
+        "onboard_time": 1736945298,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100214,
+        "num": 848217,
+        "word": "那些你不知道的北京地儿",
+        "onboard_time": 1736946858,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 693911,
+        "num": 693911,
+        "word": "丁禹兮回应虞书欣祝绪丹杨仕泽",
+        "onboard_time": 1736946320,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 652390,
+        "num": 652390,
+        "word": "小红书2天新增超70万用户",
+        "onboard_time": 1736936540,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1569416,
+        "num": 630533,
+        "word": "放羊的星星男演员卷入杀人案",
+        "onboard_time": 1736935939,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1524173,
+        "num": 609793,
+        "word": "TikTok难民来啦",
+        "onboard_time": 1736944098,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 537698,
+        "num": 537698,
+        "word": "李现最近又爱上了小烧烤",
+        "onboard_time": 1736949080,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 368868,
+        "num": 368868,
+        "word": "洛杉矶富人有钱能让山火改道",
+        "onboard_time": 1736925798,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 111149,
+        "num": 366183,
+        "word": "陈立农现身湾区春晚",
+        "onboard_time": 1736945237,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 725368,
+        "num": 357593,
+        "word": "华春莹卸任外交部发言人",
+        "onboard_time": 1736942897,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 579483,
+        "num": 346629,
+        "word": "黄轩和女友的关系十分稳定",
+        "onboard_time": 1736949199,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465508,
+        "num": 339992,
+        "word": "外媒称TikTok将硬刚美国禁令",
+        "onboard_time": 1736938281,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 452558,
+        "num": 327306,
+        "word": "国色芳华 我就说不加更会出事吧",
+        "onboard_time": 1736940918,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326100,
+        "num": 326100,
+        "word": "难哄",
+        "onboard_time": 1736944999,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307038,
+        "num": 307038,
+        "word": "泰国为刺激旅游业批准赌博合法化",
+        "onboard_time": 1736938879,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 293752,
+        "num": 293752,
+        "word": "京城大师赛",
+        "onboard_time": 1736948419,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 284646,
+        "num": 284646,
+        "word": "国色芳华 观众比女主更依赖男主",
+        "onboard_time": 1736944098,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281254,
+        "num": 281254,
+        "word": "苏醒 住宿条件断崖式下降",
+        "onboard_time": 1736945900,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245958,
+        "num": 245958,
+        "word": "公安机关全力协调解救境外被困人员",
+        "onboard_time": 1736946259,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 460474,
+        "num": 240842,
+        "word": "赵露思疑似将复工",
+        "onboard_time": 1736922259,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334338,
+        "num": 231607,
+        "word": "女子把年假当年会奖励被公司开除",
+        "onboard_time": 1736931259,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306201,
+        "num": 229129,
+        "word": "你皮肤不好真有可能是饮食问题",
+        "onboard_time": 1736944877,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 292508,
+        "num": 219892,
+        "word": "今年五福有29套福卡",
+        "onboard_time": 1736948539,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 280132,
+        "num": 210941,
+        "word": "陈小纭大奉拽妃",
+        "onboard_time": 1736946559,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255144,
+        "num": 197968,
+        "word": "杨紫申请强制黑粉道歉",
+        "onboard_time": 1736948118,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197910,
+        "num": 197910,
+        "word": "李威经纪人回应杀人案",
+        "onboard_time": 1736942358,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192619,
+        "num": 192619,
+        "word": "下一个TikTok还是中国产",
+        "onboard_time": 1736942718,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 181349,
+        "num": 181349,
+        "word": "外国人用中文买东西有多搞笑",
+        "onboard_time": 1736944877,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174279,
+        "num": 174279,
+        "word": "夺娶",
+        "onboard_time": 1736944699,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170333,
+        "num": 170333,
+        "word": "毛宁任外交部新闻司司长",
+        "onboard_time": 1736940438,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 167591,
+        "num": 167591,
+        "word": "肖战射雕稀有卡",
+        "onboard_time": 1736948719,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151411,
+        "num": 151411,
+        "word": "刘晓庆把李小冉夸成胚胎了",
+        "onboard_time": 1736932399,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145752,
+        "num": 145752,
+        "word": "春节档电影海报上新",
+        "onboard_time": 1736947519,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145363,
+        "num": 145363,
+        "word": "陈哲远 轻飘飘的一句话造就神图",
+        "onboard_time": 1736943077,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142471,
+        "num": 142471,
+        "word": "刚离职offer就被取消了能要补偿吗",
+        "onboard_time": 1736934859,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134915,
+        "num": 134915,
+        "word": "孟子义是不是忘了妈妈的话",
+        "onboard_time": 1736940438,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134427,
+        "num": 134427,
+        "word": "男子发烧2天吃8颗布洛芬致肾脏受损",
+        "onboard_time": 1736934078,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126828,
+        "num": 126828,
+        "word": "陶昕然 你还有多少惊喜是朕不知道的",
+        "onboard_time": 1736946380,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125373,
+        "num": 125373,
+        "word": "香港一警署发生枪击",
+        "onboard_time": 1736950520,
+        "rank": 39,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 122862,
+        "num": 122862,
+        "word": "婚前房产为另一方加名若离婚归谁",
+        "onboard_time": 1736950280,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120222,
+        "num": 120222,
+        "word": "美国网友向中国网友求助数学题",
+        "onboard_time": 1736949798,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 116108,
+        "num": 116108,
+        "word": "国色芳华排名省级卫视第一",
+        "onboard_time": 1736949981,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115077,
+        "num": 115077,
+        "word": "疑似ATEEZ队长内涵方时赫",
+        "onboard_time": 1736949199,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115976,
+        "num": 114903,
+        "word": "3岁小孩的表达能力有多好",
+        "onboard_time": 1736950400,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114237,
+        "num": 114237,
+        "word": "红山动物园的厕所标志",
+        "onboard_time": 1736938281,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 112386,
+        "num": 112386,
+        "word": "临近过年草莓价格反而开始回落",
+        "onboard_time": 1736949918,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111571,
+        "num": 111571,
+        "word": "肖战人物封面",
+        "onboard_time": 1736922318,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109524,
+        "num": 109524,
+        "word": "蒋敦豪回家可以吃到妈妈做的饭了",
+        "onboard_time": 1736945358,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109227,
+        "num": 109227,
+        "word": "尹锡悦午餐盒饭晚餐大酱汤夜里拘留所",
+        "onboard_time": 1736948599,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同越共中央总书记苏林通电话#"
+    }
+  }
+}
