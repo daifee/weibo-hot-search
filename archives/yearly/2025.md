@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/15 11:23:47
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/15 11:38:20
 </p>
 </blockquote>
 <p>
@@ -1413,6 +1413,12 @@ AG挑战者杯夺冠（热度：1652837）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%BD%91%E5%8F%8B%E6%B6%8C%E5%85%A5%E5%B0%8F%E7%BA%A2%E4%B9%A6%E4%BA%A4%E7%8C%AB%E7%A8%8E%23" target="weibo">
+美国网友涌入小红书交猫税（热度：1553742）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%20%E5%B0%8F%E5%A5%B3%E5%AD%90%E4%B8%8D%E6%89%8D%E4%B9%9F%E4%BC%9A%E7%82%B9%E8%8B%B1%E8%AF%AD%23" target="weibo">
 杨紫 小女子不才也会点英语（热度：1552604）
 </a>
@@ -1805,12 +1811,6 @@ TikTok难民称中国网友非常热情（热度：1548219）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E9%A1%BA%E4%BA%A7%E5%A4%B4%23" target="weibo">
 韩国人顺产头（热度：1328816）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%91%87%E7%B2%92%E7%BB%92%E5%B0%B1%E6%98%AF%E7%A9%B7%E4%BA%BA%E7%9A%84%E8%B2%82%23" target="weibo">
-摇粒绒就是穷人的貂（热度：1328407）
 </a>
 </li>
 

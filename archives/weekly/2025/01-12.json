@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736911427124,
+  "endTime": 1736912300983,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -289,6 +289,14 @@
       "onboard_time": 1736611943,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1553742,
+      "num": 1553742,
+      "word": "美国网友涌入小红书交猫税",
+      "onboard_time": 1736909359,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1548219,
@@ -857,14 +865,6 @@
       "onboard_time": 1736774901,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 891164,
-      "num": 891164,
-      "word": "美国网友涌入小红书交猫税",
-      "onboard_time": 1736909359,
-      "rank": 37,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 888668,
@@ -2059,6 +2059,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 482110,
+      "num": 482110,
+      "word": "创亚2官宣发起人徐明浩",
+      "onboard_time": 1736911038,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 480879,
       "num": 480879,
       "word": "三只羊旗下账号复播主播回怼弹幕",
@@ -2481,6 +2489,14 @@
       "onboard_time": 1736681359,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 396028,
+      "num": 416117,
+      "word": "中国人研究月球土特产发现了新秘密",
+      "onboard_time": 1736908278,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 395590,
@@ -3155,14 +3171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 306818,
-      "num": 416117,
-      "word": "中国人研究月球土特产发现了新秘密",
-      "onboard_time": 1736908278,
-      "rank": 27,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 305359,
       "num": 305359,
       "word": "郑钦文vs西格蒙德",
@@ -3361,6 +3369,14 @@
       "onboard_time": 1736861419,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 285632,
+      "num": 201117,
+      "word": "国外一水豚咬女孩数次将其压到水下",
+      "onboard_time": 1736911939,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 284994,
@@ -4355,14 +4371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 217662,
-      "num": 314584,
-      "word": "创亚2官宣发起人徐明浩",
-      "onboard_time": 1736911038,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 217161,
       "num": 217161,
       "word": "刘晓庆 我也是义务的",
@@ -4401,6 +4409,14 @@
       "onboard_time": 1736672299,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214683,
+      "num": 1561870,
+      "word": "过年回家的意义在此刻具象化了",
+      "onboard_time": 1736910738,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 214241,
@@ -5081,6 +5097,14 @@
       "onboard_time": 1736662220,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196762,
+      "num": 196762,
+      "word": "12306客服回应候补人数多能否增加车次",
+      "onboard_time": 1736910919,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196694,
@@ -6660,7 +6684,7 @@
     },
     {
       "raw_hot": 156655,
-      "num": 156655,
+      "num": 199542,
       "word": "超市年货专属BGM在召唤你",
       "onboard_time": 1736908399,
       "rank": 42,
@@ -7689,14 +7713,6 @@
       "onboard_time": 1736835319,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134771,
-      "num": 134771,
-      "word": "12306客服回应候补人数多能否增加车次",
-      "onboard_time": 1736910919,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134728,
@@ -9299,6 +9315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100880,
+      "num": 100880,
+      "word": "小俞事业运",
+      "onboard_time": 1736911340,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 100481,
       "num": 293173,
       "word": "实探假装上班公司",
@@ -9411,19 +9435,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97838,
+      "num": 97838,
+      "word": "尹锡悦铁粉早高峰躺马路上抗议",
+      "onboard_time": 1736911579,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 97624,
       "num": 235716,
       "word": "道崽 可惜",
       "onboard_time": 1736611584,
       "rank": 45,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 96803,
-      "num": 96803,
-      "word": "小俞事业运",
-      "onboard_time": 1736911340,
-      "rank": 48,
       "category": "电竞"
     },
     {
@@ -9617,14 +9641,6 @@
       "onboard_time": 1736862439,
       "rank": 22,
       "category": "教育"
-    },
-    {
-      "raw_hot": 87654,
-      "num": 1393806,
-      "word": "过年回家的意义在此刻具象化了",
-      "onboard_time": 1736910738,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 86635,
@@ -11089,6 +11105,14 @@
       "onboard_time": 1736708772,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25070,
+      "num": 198693,
+      "word": "九尾跳晚安大小姐",
+      "onboard_time": 1736907617,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 24949,
