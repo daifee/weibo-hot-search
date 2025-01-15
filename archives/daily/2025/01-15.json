@@ -1,6 +1,6 @@
 {
   "startTime": 1736872066671,
-  "endTime": 1736912300983,
+  "endTime": 1736915157798,
   "band_list": [
     {
       "raw_hot": 3396289,
@@ -27,20 +27,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1672015,
+      "num": 1672015,
+      "word": "美国网友涌入小红书交猫税",
+      "onboard_time": 1736909359,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1665912,
-      "num": 409292,
+      "num": 498112,
       "word": "谢娜李小冉闹掰的原因",
       "onboard_time": 1736897897,
       "rank": 10,
       "category": "艺人"
     },
     {
-      "raw_hot": 1553742,
-      "num": 1553742,
-      "word": "美国网友涌入小红书交猫税",
-      "onboard_time": 1736909359,
-      "rank": 37,
-      "category": "海外新闻"
+      "raw_hot": 1548628,
+      "num": 1548628,
+      "word": "刘晓庆大方承认自己的错误",
+      "onboard_time": 1736908219,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 1283909,
@@ -75,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 745989,
+      "num": 745989,
+      "word": "4岁女童被爸爸带着跳楼捡回一命",
+      "onboard_time": 1736913619,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 668726,
       "num": 668726,
       "word": "鹿晗杂志取消预售",
@@ -83,8 +99,16 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 657009,
+      "num": 657009,
+      "word": "孙颖莎理肤泉",
+      "onboard_time": 1736912658,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 651249,
-      "num": 406340,
+      "num": 473946,
       "word": "Angelababy卷发挑染",
       "onboard_time": 1736898617,
       "rank": 11,
@@ -155,20 +179,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 579228,
-      "num": 296037,
-      "word": "刘晓庆大方承认自己的错误",
-      "onboard_time": 1736908219,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 562656,
       "num": 562656,
       "word": "韩国29吨核废液排海影响有多大",
       "onboard_time": 1736902399,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 552208,
+      "num": 552208,
+      "word": "丁禹兮杂志",
+      "onboard_time": 1736912599,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 508181,
+      "num": 508181,
+      "word": "张凌赫也看了国色芳华",
+      "onboard_time": 1736913739,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 499445,
@@ -188,7 +220,7 @@
     },
     {
       "raw_hot": 475882,
-      "num": 292145,
+      "num": 305416,
       "word": "得知家里负债11岁女孩哭着退掉新衣",
       "onboard_time": 1736906417,
       "rank": 21,
@@ -201,6 +233,22 @@
       "onboard_time": 1736851396,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 460345,
+      "num": 313876,
+      "word": "青簪行男主",
+      "onboard_time": 1736914459,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 454973,
+      "num": 313872,
+      "word": "国外一水豚咬女孩数次将其压到水下",
+      "onboard_time": 1736911939,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 449430,
@@ -217,6 +265,22 @@
       "onboard_time": 1736903479,
       "rank": 32,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 413821,
+      "num": 413821,
+      "word": "国考进面名单",
+      "onboard_time": 1736912599,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 403559,
+      "num": 280407,
+      "word": "字节跳动100元标餐的免费三餐",
+      "onboard_time": 1736914639,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 403026,
@@ -275,12 +339,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 327944,
+      "num": 327944,
+      "word": "泰国考虑对电诈园区断电断网",
+      "onboard_time": 1736914699,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 315362,
       "num": 315362,
       "word": "美国网友帮做完形填空5题错俩",
       "onboard_time": 1736862080,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 314011,
+      "num": 314011,
+      "word": "丁禹兮时装开售销量",
+      "onboard_time": 1736913440,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 313642,
+      "num": 313642,
+      "word": "张凌赫回应被田曦薇背的感受",
+      "onboard_time": 1736914340,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 313458,
@@ -323,12 +411,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 285632,
-      "num": 201117,
-      "word": "国外一水豚咬女孩数次将其压到水下",
-      "onboard_time": 1736911939,
-      "rank": 22,
-      "category": "海外新闻"
+      "raw_hot": 291201,
+      "num": 291201,
+      "word": "郑钦文说我尽力了",
+      "onboard_time": 1736913200,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 284994,
@@ -336,6 +424,14 @@
       "word": "董洁国色芳华出场镜头",
       "onboard_time": 1736903059,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 279239,
+      "num": 279239,
+      "word": "网剧夺娶开播",
+      "onboard_time": 1736915060,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -371,12 +467,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 256635,
+      "num": 256635,
+      "word": "尹锡悦不打领带录视频讲话",
+      "onboard_time": 1736913379,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 255996,
       "num": 255996,
       "word": "国考分数线",
       "onboard_time": 1736869218,
       "rank": 12,
       "category": "教育"
+    },
+    {
+      "raw_hot": 252533,
+      "num": 1603966,
+      "word": "过年回家的意义在此刻具象化了",
+      "onboard_time": 1736910738,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 251573,
@@ -393,6 +505,14 @@
       "onboard_time": 1736900900,
       "rank": 20,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 248476,
+      "num": 248476,
+      "word": "白鹿敖瑞鹏两人痣长在同个位置",
+      "onboard_time": 1736912658,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 246260,
@@ -425,6 +545,14 @@
       "onboard_time": 1736866760,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 239384,
+      "num": 239384,
+      "word": "交猫税是什么梗",
+      "onboard_time": 1736913919,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 238772,
@@ -465,14 +593,6 @@
       "onboard_time": 1736908758,
       "rank": 35,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 214683,
-      "num": 1561870,
-      "word": "过年回家的意义在此刻具象化了",
-      "onboard_time": 1736910738,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 214136,
@@ -529,6 +649,14 @@
       "onboard_time": 1736904918,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 205111,
+      "num": 315204,
+      "word": "欢聚开机",
+      "onboard_time": 1736914040,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 196762,
@@ -617,6 +745,14 @@
       "onboard_time": 1736909058,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 172951,
+      "num": 308058,
+      "word": "郑钦文对手临时接广",
+      "onboard_time": 1736912599,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 170360,
@@ -715,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151099,
+      "num": 151099,
+      "word": "白起新皮肤苍鳞隐世",
+      "onboard_time": 1736914820,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 149104,
       "num": 176691,
       "word": "官方回应上海能否接住霉霉演出",
@@ -771,12 +915,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 134383,
+      "num": 134383,
+      "word": "向太行李超重",
+      "onboard_time": 1736909659,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 132606,
+      "num": 132606,
+      "word": "王一博追风者入围2024电视剧精选",
+      "onboard_time": 1736913679,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132114,
       "num": 132114,
       "word": "全球80%年画春联源自义乌",
       "onboard_time": 1736907499,
       "rank": 44,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 131300,
+      "num": 131300,
+      "word": "解决婚姻家庭纠纷最新司法规定来了",
+      "onboard_time": 1736913559,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129349,
@@ -795,12 +963,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 127063,
-      "num": 127063,
-      "word": "向太行李超重",
-      "onboard_time": 1736909659,
-      "rank": 45,
-      "category": "综艺"
+      "raw_hot": 127906,
+      "num": 436488,
+      "word": "尹锡悦律师称公调处执行逮捕令不合法",
+      "onboard_time": 1736914639,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 125102,
@@ -833,6 +1001,14 @@
       "onboard_time": 1736866460,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121035,
+      "num": 121035,
+      "word": "不知不觉控制体重的10个好习惯",
+      "onboard_time": 1736912658,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 117736,
@@ -1113,6 +1289,14 @@
       "onboard_time": 1736873595,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 71302,
+      "num": 281052,
+      "word": "旅行新蜜蜂回应散装乐队",
+      "onboard_time": 1736914639,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 70636,

@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736912300983,
+  "endTime": 1736915157798,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -203,8 +203,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1672015,
+      "num": 1672015,
+      "word": "美国网友涌入小红书交猫税",
+      "onboard_time": 1736909359,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1665912,
-      "num": 409292,
+      "num": 498112,
       "word": "谢娜李小冉闹掰的原因",
       "onboard_time": 1736897897,
       "rank": 10,
@@ -291,12 +299,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1553742,
-      "num": 1553742,
-      "word": "美国网友涌入小红书交猫税",
-      "onboard_time": 1736909359,
-      "rank": 37,
-      "category": "海外新闻"
+      "raw_hot": 1548628,
+      "num": 1548628,
+      "word": "刘晓庆大方承认自己的错误",
+      "onboard_time": 1736908219,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 1548219,
@@ -1163,6 +1171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 745989,
+      "num": 745989,
+      "word": "4岁女童被爸爸带着跳楼捡回一命",
+      "onboard_time": 1736913619,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 743773,
       "num": 654811,
       "word": "SM新女团 SMTOWN压轴",
@@ -1443,6 +1459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 657009,
+      "num": 657009,
+      "word": "孙颖莎理肤泉",
+      "onboard_time": 1736912658,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 653426,
       "num": 756942,
       "word": "黄雅琼问谁抽到了她的礼物",
@@ -1452,7 +1476,7 @@
     },
     {
       "raw_hot": 651249,
-      "num": 406340,
+      "num": 473946,
       "word": "Angelababy卷发挑染",
       "onboard_time": 1736898617,
       "rank": 11,
@@ -1747,14 +1771,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 579228,
-      "num": 296037,
-      "word": "刘晓庆大方承认自己的错误",
-      "onboard_time": 1736908219,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 576040,
       "num": 576040,
       "word": "相信美国消防的她回家时直接傻眼",
@@ -1833,6 +1849,14 @@
       "onboard_time": 1736668458,
       "rank": 3,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 552208,
+      "num": 552208,
+      "word": "丁禹兮杂志",
+      "onboard_time": 1736912599,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 548253,
@@ -1961,6 +1985,14 @@
       "onboard_time": 1736607572,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 508181,
+      "num": 508181,
+      "word": "张凌赫也看了国色芳华",
+      "onboard_time": 1736913739,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 505634,
@@ -2100,7 +2132,7 @@
     },
     {
       "raw_hot": 475882,
-      "num": 292145,
+      "num": 305416,
       "word": "得知家里负债11岁女孩哭着退掉新衣",
       "onboard_time": 1736906417,
       "rank": 21,
@@ -2187,12 +2219,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 460345,
+      "num": 313876,
+      "word": "青簪行男主",
+      "onboard_time": 1736914459,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 457821,
       "num": 457821,
       "word": "哈利波特主题乐园有望落沪",
       "onboard_time": 1736861240,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 454973,
+      "num": 313872,
+      "word": "国外一水豚咬女孩数次将其压到水下",
+      "onboard_time": 1736911939,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 453354,
@@ -2419,12 +2467,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 413821,
+      "num": 413821,
+      "word": "国考进面名单",
+      "onboard_time": 1736912599,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 406393,
       "num": 406393,
       "word": "常华森 骨相好皮薄馅不多",
       "onboard_time": 1736842998,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 403559,
+      "num": 280407,
+      "word": "字节跳动100元标餐的免费三餐",
+      "onboard_time": 1736914639,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 402497,
@@ -2979,6 +3043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 327944,
+      "num": 327944,
+      "word": "泰国考虑对电诈园区断电断网",
+      "onboard_time": 1736914699,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 326448,
       "num": 529311,
       "word": "无人机撞停加州山火灭火飞机",
@@ -3083,11 +3155,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 314011,
+      "num": 314011,
+      "word": "丁禹兮时装开售销量",
+      "onboard_time": 1736913440,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 313986,
       "num": 264548,
       "word": "白月梵星直播",
       "onboard_time": 1736668458,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 313642,
+      "num": 313642,
+      "word": "张凌赫回应被田曦薇背的感受",
+      "onboard_time": 1736914340,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -3323,6 +3411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 291201,
+      "num": 291201,
+      "word": "郑钦文说我尽力了",
+      "onboard_time": 1736913200,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 290970,
       "num": 295027,
       "word": "假肉毒素成本1.5元出厂20元卖价上千",
@@ -3371,14 +3467,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 285632,
-      "num": 201117,
-      "word": "国外一水豚咬女孩数次将其压到水下",
-      "onboard_time": 1736911939,
-      "rank": 22,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 284994,
       "num": 306082,
       "word": "董洁国色芳华出场镜头",
@@ -3417,6 +3505,14 @@
       "onboard_time": 1736747299,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 279239,
+      "num": 279239,
+      "word": "网剧夺娶开播",
+      "onboard_time": 1736915060,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 278532,
@@ -3723,6 +3819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 256635,
+      "num": 256635,
+      "word": "尹锡悦不打领带录视频讲话",
+      "onboard_time": 1736913379,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 255996,
       "num": 255996,
       "word": "国考分数线",
@@ -3763,6 +3867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 252533,
+      "num": 1603966,
+      "word": "过年回家的意义在此刻具象化了",
+      "onboard_time": 1736910738,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 252213,
       "num": 252213,
       "word": "使用过期口红更容易得唇炎",
@@ -3801,6 +3913,14 @@
       "onboard_time": 1736770820,
       "rank": 18,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 248476,
+      "num": 248476,
+      "word": "白鹿敖瑞鹏两人痣长在同个位置",
+      "onboard_time": 1736912658,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 247464,
@@ -3961,6 +4081,14 @@
       "onboard_time": 1736810356,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 239384,
+      "num": 239384,
+      "word": "交猫税是什么梗",
+      "onboard_time": 1736913919,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 238772,
@@ -4411,14 +4539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 214683,
-      "num": 1561870,
-      "word": "过年回家的意义在此刻具象化了",
-      "onboard_time": 1736910738,
-      "rank": 2,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 214241,
       "num": 214241,
       "word": "4个月宝宝头发茂密仿佛开了特效",
@@ -4745,6 +4865,14 @@
       "onboard_time": 1736640558,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 205111,
+      "num": 315204,
+      "word": "欢聚开机",
+      "onboard_time": 1736914040,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 204684,
@@ -6051,6 +6179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172951,
+      "num": 308058,
+      "word": "郑钦文对手临时接广",
+      "onboard_time": 1736912599,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172894,
       "num": 172894,
       "word": "林一生日会",
@@ -6971,6 +7107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151099,
+      "num": 151099,
+      "word": "白起新皮肤苍鳞隐世",
+      "onboard_time": 1736914820,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 150813,
       "num": 164965,
       "word": "重庆大哥帮山东货车司机开山路",
@@ -7747,6 +7891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 134383,
+      "num": 134383,
+      "word": "向太行李超重",
+      "onboard_time": 1736909659,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134177,
       "num": 134177,
       "word": "加州山火威胁好莱坞环球影城",
@@ -7833,6 +7985,14 @@
       "onboard_time": 1736677998,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 132606,
+      "num": 132606,
+      "word": "王一博追风者入围2024电视剧精选",
+      "onboard_time": 1736913679,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 132429,
@@ -7937,6 +8097,14 @@
       "onboard_time": 1736676679,
       "rank": 40,
       "category": "艺人,美食"
+    },
+    {
+      "raw_hot": 131300,
+      "num": 131300,
+      "word": "解决婚姻家庭纠纷最新司法规定来了",
+      "onboard_time": 1736913559,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131174,
@@ -8115,6 +8283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 127906,
+      "num": 436488,
+      "word": "尹锡悦律师称公调处执行逮捕令不合法",
+      "onboard_time": 1736914639,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 127761,
       "num": 175768,
       "word": "JDG五彩斑斓的黑西装",
@@ -8137,14 +8313,6 @@
       "onboard_time": 1736667140,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127063,
-      "num": 127063,
-      "word": "向太行李超重",
-      "onboard_time": 1736909659,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 127023,
@@ -8465,6 +8633,14 @@
       "onboard_time": 1736851999,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121035,
+      "num": 121035,
+      "word": "不知不觉控制体重的10个好习惯",
+      "onboard_time": 1736912658,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 120891,
@@ -9993,6 +10169,14 @@
       "onboard_time": 1736873595,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 71302,
+      "num": 281052,
+      "word": "旅行新蜜蜂回应散装乐队",
+      "onboard_time": 1736914639,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 70477,
