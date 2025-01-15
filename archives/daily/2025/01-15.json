@@ -1,6 +1,6 @@
 {
   "startTime": 1736872066671,
-  "endTime": 1736922609829,
+  "endTime": 1736923388837,
   "band_list": [
     {
       "raw_hot": 3396289,
@@ -11,8 +11,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 2786045,
-      "num": 2786045,
+      "raw_hot": 2901212,
+      "num": 2901212,
       "word": "赵露思疑似将复工",
       "onboard_time": 1736922259,
       "rank": 0,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2765381,
-      "num": 309810,
+      "num": 364481,
       "word": "TikTok禁令",
       "onboard_time": 1736921058,
       "rank": 10,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 867691,
+      "num": 867691,
+      "word": "郑州一已婚公职人员骗人恋爱被记大过",
+      "onboard_time": 1736919559,
+      "rank": 5,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 849519,
       "num": 849519,
       "word": "4岁女童被爸爸带着跳楼捡回一命",
@@ -179,14 +187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 674399,
-      "num": 674399,
-      "word": "郑州一已婚公职人员骗人恋爱被记大过",
-      "onboard_time": 1736919559,
-      "rank": 5,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 668726,
       "num": 668726,
       "word": "鹿晗杂志取消预售",
@@ -241,6 +241,14 @@
       "onboard_time": 1736907558,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 605128,
+      "num": 605128,
+      "word": "罗云熙再现何以琛回头杀",
+      "onboard_time": 1736919320,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 593539,
@@ -307,14 +315,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 515371,
-      "num": 515371,
-      "word": "罗云熙再现何以琛回头杀",
-      "onboard_time": 1736919320,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 499445,
       "num": 395846,
       "word": "郑钦文无缘澳网女单第三轮",
@@ -345,6 +345,14 @@
       "onboard_time": 1736851396,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 462566,
+      "num": 462566,
+      "word": "肖战人物封面",
+      "onboard_time": 1736922318,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 454973,
@@ -457,6 +465,14 @@
       "onboard_time": 1736917400,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 316252,
+      "num": 316252,
+      "word": "谁来关心一下千朵桃花",
+      "onboard_time": 1736918898,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 315362,
@@ -619,14 +635,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 249269,
-      "num": 249269,
-      "word": "肖战人物封面",
-      "onboard_time": 1736922318,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 248476,
       "num": 248476,
       "word": "白鹿敖瑞鹏两人痣长在同个位置",
@@ -657,14 +665,6 @@
       "onboard_time": 1736870838,
       "rank": 14,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 241803,
-      "num": 239674,
-      "word": "谁来关心一下千朵桃花",
-      "onboard_time": 1736918898,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 241476,
@@ -705,6 +705,14 @@
       "onboard_time": 1736906718,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 231608,
+      "num": 368581,
+      "word": "外国网友上小红书秒切外教",
+      "onboard_time": 1736920818,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 230199,
@@ -803,14 +811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202258,
-      "num": 202258,
-      "word": "外国网友上小红书秒切外教",
-      "onboard_time": 1736920818,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 196694,
       "num": 196694,
       "word": "花融",
@@ -883,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184956,
+      "num": 184956,
+      "word": "网传掌心提档",
+      "onboard_time": 1736922798,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184772,
       "num": 265303,
       "word": "将门毒后选角",
@@ -905,6 +913,14 @@
       "onboard_time": 1736916259,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177530,
+      "num": 177530,
+      "word": "小水最喜欢的中国男演员是罗云熙",
+      "onboard_time": 1736922798,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 176412,
@@ -961,6 +977,14 @@
       "onboard_time": 1736865682,
       "rank": 21,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 160051,
+      "num": 160051,
+      "word": "江苏卫视春晚首波阵容",
+      "onboard_time": 1736922979,
+      "rank": 33,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 159402,
@@ -1147,6 +1171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135687,
+      "num": 135687,
+      "word": "樊振东和霉霉出现在报纸同一版",
+      "onboard_time": 1736923038,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135599,
       "num": 135599,
       "word": "71岁张艾嘉状态",
@@ -1259,12 +1291,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121609,
+      "num": 184832,
+      "word": "敖瑞鹏不语只是一味going",
+      "onboard_time": 1736922499,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121452,
       "num": 121452,
       "word": "不知不觉控制体重的10个好习惯",
       "onboard_time": 1736912658,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 119469,
+      "num": 119469,
+      "word": "郑钦文本来考虑过不参加澳网",
+      "onboard_time": 1736923219,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 117736,
@@ -1291,6 +1339,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 111248,
+      "num": 111248,
+      "word": "尹锡悦被捕后疑似金建希遛狗画面",
+      "onboard_time": 1736923278,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 111223,
       "num": 111223,
       "word": "武汉出现8.8元一斤车厘子",
@@ -1305,6 +1361,14 @@
       "onboard_time": 1736903717,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110507,
+      "num": 110507,
+      "word": "于适封神2拉弓新造型",
+      "onboard_time": 1736923339,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 110066,
@@ -1393,14 +1457,6 @@
       "onboard_time": 1736911340,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 100643,
-      "num": 184832,
-      "word": "敖瑞鹏不语只是一味going",
-      "onboard_time": 1736922499,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 98939,
@@ -1761,6 +1817,14 @@
       "onboard_time": 1736876173,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 29044,
+      "num": 931443,
+      "word": "新疆一万年前的滑雪Plog",
+      "onboard_time": 1736910619,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 28022,

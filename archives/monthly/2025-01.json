@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736922609829,
+  "endTime": 1736923388837,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -507,6 +507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2901212,
+      "num": 2901212,
+      "word": "赵露思疑似将复工",
+      "onboard_time": 1736922259,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2840520,
       "num": 560985,
       "word": "王星说被迫接受了两三天诈骗培训",
@@ -531,14 +539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2786045,
-      "num": 2786045,
-      "word": "赵露思疑似将复工",
-      "onboard_time": 1736922259,
-      "rank": 0,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 2782279,
       "num": 679040,
       "word": "海恩贤圭 分手",
@@ -548,7 +548,7 @@
     },
     {
       "raw_hot": 2765381,
-      "num": 309810,
+      "num": 364481,
       "word": "TikTok禁令",
       "onboard_time": 1736921058,
       "rank": 10,
@@ -4571,6 +4571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 867691,
+      "num": 867691,
+      "word": "郑州一已婚公职人员骗人恋爱被记大过",
+      "onboard_time": 1736919559,
+      "rank": 5,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 867601,
       "num": 867601,
       "word": "雷军  Model Y也不错",
@@ -6443,14 +6451,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 674399,
-      "num": 674399,
-      "word": "郑州一已婚公职人员骗人恋爱被记大过",
-      "onboard_time": 1736919559,
-      "rank": 5,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 674261,
       "num": 579206,
       "word": "孟子义 是你拿了他微博账号吗",
@@ -7369,6 +7369,14 @@
       "onboard_time": 1735900761,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 605128,
+      "num": 605128,
+      "word": "罗云熙再现何以琛回头杀",
+      "onboard_time": 1736919320,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 605098,
@@ -8683,14 +8691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 515371,
-      "num": 515371,
-      "word": "罗云熙再现何以琛回头杀",
-      "onboard_time": 1736919320,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 514994,
       "num": 310601,
       "word": "大学生跨年夜卖出5个气球都没回本",
@@ -9689,6 +9689,14 @@
       "onboard_time": 1736413881,
       "rank": 24,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 462566,
+      "num": 462566,
+      "word": "肖战人物封面",
+      "onboard_time": 1736922318,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 462010,
@@ -14003,6 +14011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 316252,
+      "num": 316252,
+      "word": "谁来关心一下千朵桃花",
+      "onboard_time": 1736918898,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 316243,
       "num": 316243,
       "word": "乒超MVP",
@@ -17275,14 +17291,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 249269,
-      "num": 249269,
-      "word": "肖战人物封面",
-      "onboard_time": 1736922318,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 249126,
       "num": 321166,
       "word": "律师解读西湖边放杨幂风筝谁担责",
@@ -17865,14 +17873,6 @@
       "onboard_time": 1735791262,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 241803,
-      "num": 239674,
-      "word": "谁来关心一下千朵桃花",
-      "onboard_time": 1736918898,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 241597,
@@ -18521,6 +18521,14 @@
       "onboard_time": 1735884919,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231608,
+      "num": 368581,
+      "word": "外国网友上小红书秒切外教",
+      "onboard_time": 1736920818,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 231481,
@@ -21555,14 +21563,6 @@
       "category": "艺人,健康医疗"
     },
     {
-      "raw_hot": 202258,
-      "num": 202258,
-      "word": "外国网友上小红书秒切外教",
-      "onboard_time": 1736920818,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 202090,
       "num": 202090,
       "word": "徐克谈对肖战的看法",
@@ -24531,6 +24531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 184956,
+      "num": 184956,
+      "word": "网传掌心提档",
+      "onboard_time": 1736922798,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184881,
       "num": 184881,
       "word": "丁禹兮记得戴眼镜",
@@ -25417,6 +25425,14 @@
       "onboard_time": 1735877722,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 177530,
+      "num": 177530,
+      "word": "小水最喜欢的中国男演员是罗云熙",
+      "onboard_time": 1736922798,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 177491,
@@ -28257,6 +28273,14 @@
       "onboard_time": 1736506101,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 160051,
+      "num": 160051,
+      "word": "江苏卫视春晚首波阵容",
+      "onboard_time": 1736922979,
+      "rank": 33,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 159981,
@@ -32627,6 +32651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135687,
+      "num": 135687,
+      "word": "樊振东和霉霉出现在报纸同一版",
+      "onboard_time": 1736923038,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135648,
       "num": 135648,
       "word": "比亚迪APP今早疑似崩溃",
@@ -35003,6 +35035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121609,
+      "num": 184832,
+      "word": "敖瑞鹏不语只是一味going",
+      "onboard_time": 1736922499,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121560,
       "num": 121560,
       "word": "大奉打更人还原原著",
@@ -35449,6 +35489,14 @@
       "onboard_time": 1736067805,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 119469,
+      "num": 119469,
+      "word": "郑钦文本来考虑过不参加澳网",
+      "onboard_time": 1736923219,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 119459,
@@ -36723,6 +36771,14 @@
       "category": "剧集,美妆"
     },
     {
+      "raw_hot": 111248,
+      "num": 111248,
+      "word": "尹锡悦被捕后疑似金建希遛狗画面",
+      "onboard_time": 1736923278,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 111233,
       "num": 111233,
       "word": "钎城暗纹西装造型好绝",
@@ -36857,6 +36913,14 @@
       "onboard_time": 1735710738,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110507,
+      "num": 110507,
+      "word": "于适封神2拉弓新造型",
+      "onboard_time": 1736923339,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 110323,
@@ -38017,14 +38081,6 @@
       "onboard_time": 1735970240,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 100643,
-      "num": 184832,
-      "word": "敖瑞鹏不语只是一味going",
-      "onboard_time": 1736922499,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 100567,
@@ -45737,6 +45793,14 @@
       "onboard_time": 1736360113,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29044,
+      "num": 931443,
+      "word": "新疆一万年前的滑雪Plog",
+      "onboard_time": 1736910619,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 29024,
