@@ -1,6 +1,6 @@
 {
   "startTime": 1736872066671,
-  "endTime": 1736939964991,
+  "endTime": 1736940938098,
   "band_list": [
     {
       "raw_hot": 3396289,
@@ -627,12 +627,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 367034,
+      "num": 367034,
+      "word": "王鹤棣宋茜星河入梦杀青",
+      "onboard_time": 1736939240,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 356428,
       "num": 356428,
       "word": "尹锡悦",
       "onboard_time": 1736903717,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 350824,
+      "num": 329458,
+      "word": "刘晓庆把李小冉夸成胚胎了",
+      "onboard_time": 1736932399,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 349393,
@@ -659,12 +675,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 329458,
-      "num": 329458,
-      "word": "刘晓庆把李小冉夸成胚胎了",
-      "onboard_time": 1736932399,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 334528,
+      "num": 206145,
+      "word": "小红书2天新增超70万用户",
+      "onboard_time": 1736936540,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 328005,
@@ -681,6 +697,14 @@
       "onboard_time": 1736934199,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 322024,
+      "num": 247907,
+      "word": "外媒称TikTok将硬刚美国禁令",
+      "onboard_time": 1736938281,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 321713,
@@ -883,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 250875,
+      "num": 265687,
+      "word": "外交部回应美国小朋友天坛唱如愿",
+      "onboard_time": 1736934018,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 250523,
       "num": 229201,
       "word": "到底是谁忽悠洋抖难民交猫税",
@@ -897,14 +929,6 @@
       "onboard_time": 1736912658,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 247907,
-      "num": 247907,
-      "word": "外媒称TikTok将硬刚美国禁令",
-      "onboard_time": 1736938281,
-      "rank": 13,
-      "category": "互联网"
     },
     {
       "raw_hot": 246260,
@@ -929,14 +953,6 @@
       "onboard_time": 1736870838,
       "rank": 14,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 243950,
-      "num": 243950,
-      "word": "王鹤棣宋茜星河入梦杀青",
-      "onboard_time": 1736939240,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 241476,
@@ -979,6 +995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 230517,
+      "num": 230517,
+      "word": "谢霆锋演唱会真的要来了",
+      "onboard_time": 1736938939,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 230199,
       "num": 230199,
       "word": "澳网",
@@ -995,12 +1019,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 227946,
-      "num": 178817,
-      "word": "小红书2天新增超70万用户",
-      "onboard_time": 1736936540,
-      "rank": 48,
-      "category": "互联网"
+      "raw_hot": 222769,
+      "num": 222769,
+      "word": "红山动物园的厕所标志",
+      "onboard_time": 1736938281,
+      "rank": 32,
+      "category": "科学科普"
     },
     {
       "raw_hot": 222295,
@@ -1099,12 +1123,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 205528,
-      "num": 205528,
-      "word": "谢霆锋演唱会真的要来了",
-      "onboard_time": 1736938939,
-      "rank": 16,
-      "category": "演出"
+      "raw_hot": 205589,
+      "num": 205589,
+      "word": "白月梵星婆媳大战",
+      "onboard_time": 1736940379,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 205111,
@@ -1163,6 +1187,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 192935,
+      "num": 192935,
+      "word": "白鹿白月梵星走出自己的道",
+      "onboard_time": 1736940858,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192531,
       "num": 192531,
       "word": "李沁穿了应援色高定走红毯",
@@ -1177,6 +1209,14 @@
       "onboard_time": 1736930419,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192066,
+      "num": 192066,
+      "word": "月亮",
+      "onboard_time": 1736939840,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 191898,
@@ -1225,6 +1265,14 @@
       "onboard_time": 1736909178,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188487,
+      "num": 188487,
+      "word": "虞书欣新专辑即将全球上线",
+      "onboard_time": 1736937741,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 188179,
@@ -1307,20 +1355,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 177495,
+      "num": 177495,
+      "word": "孟子义是不是忘了妈妈的话",
+      "onboard_time": 1736940438,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 176999,
+      "num": 176999,
+      "word": "TF家族2025新年音乐会倒计时3天",
+      "onboard_time": 1736940079,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 176412,
       "num": 176412,
       "word": "星穹铁道",
       "onboard_time": 1736909058,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 175144,
-      "num": 175144,
-      "word": "红山动物园的厕所标志",
-      "onboard_time": 1736938281,
-      "rank": 32,
-      "category": "科学科普"
     },
     {
       "raw_hot": 172951,
@@ -1395,6 +1451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164783,
+      "num": 164783,
+      "word": "男子婚前房加名离婚被要250万",
+      "onboard_time": 1736937380,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164298,
       "num": 164298,
       "word": "李昀锐被自己会20多种体育运动吓到了",
@@ -1425,6 +1489,14 @@
       "onboard_time": 1736922979,
       "rank": 33,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 159844,
+      "num": 159844,
+      "word": "毛宁任外交部新闻司司长",
+      "onboard_time": 1736940438,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 159402,
@@ -1465,14 +1537,6 @@
       "onboard_time": 1736908399,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 156449,
-      "num": 265687,
-      "word": "外交部回应美国小朋友天坛唱如愿",
-      "onboard_time": 1736934018,
-      "rank": 40,
-      "category": "国内时政"
     },
     {
       "raw_hot": 155652,
@@ -1523,6 +1587,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 153484,
+      "num": 153484,
+      "word": "泰国为刺激旅游业批准赌博合法化",
+      "onboard_time": 1736938879,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 152213,
       "num": 152213,
       "word": "吴磊丝绒小卷毛",
@@ -1569,14 +1641,6 @@
       "onboard_time": 1736895614,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 148499,
-      "num": 148499,
-      "word": "男子婚前房加名离婚被要250万",
-      "onboard_time": 1736937380,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 147915,
@@ -1659,6 +1723,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 137976,
+      "num": 137976,
+      "word": "车厘子",
+      "onboard_time": 1736938879,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 137278,
       "num": 137278,
       "word": "反复啃指甲是种心理障碍",
@@ -1729,22 +1801,6 @@
       "onboard_time": 1736933059,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 131739,
-      "num": 131739,
-      "word": "车厘子",
-      "onboard_time": 1736938879,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 130469,
-      "num": 130469,
-      "word": "月亮",
-      "onboard_time": 1736939840,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 129379,
@@ -1875,14 +1931,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119657,
-      "num": 119657,
-      "word": "泰国为刺激旅游业批准赌博合法化",
-      "onboard_time": 1736938879,
-      "rank": 42,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 119491,
       "num": 119491,
       "word": "魏晨 张若昀你碰瓷啊",
@@ -1937,6 +1985,14 @@
       "onboard_time": 1736915721,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 116069,
+      "num": 247321,
+      "word": "小小的我票房突破6.61亿",
+      "onboard_time": 1736940318,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 114445,
@@ -2540,7 +2596,7 @@
     },
     {
       "raw_hot": 46290,
-      "num": 116248,
+      "num": 206521,
       "word": "陈梦要为青少年体育事业贡献力量",
       "onboard_time": 1736939539,
       "rank": 44,
