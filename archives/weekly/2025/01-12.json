@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736936572759,
+  "endTime": 1736937603803,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -153,6 +153,14 @@
       "onboard_time": 1736685740,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2068489,
+      "num": 2068489,
+      "word": "放羊的星星男演员卷入杀人案",
+      "onboard_time": 1736935939,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 2008219,
@@ -393,6 +401,14 @@
       "onboard_time": 1736670679,
       "rank": 45,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1505240,
+      "num": 1018704,
+      "word": "李威",
+      "onboard_time": 1736935279,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1500825,
@@ -793,14 +809,6 @@
       "onboard_time": 1736766199,
       "rank": 16,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1018704,
-      "num": 1018704,
-      "word": "李威",
-      "onboard_time": 1736935279,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1011249,
@@ -1979,6 +1987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 576448,
+      "num": 287870,
+      "word": "宝骏回应黄子韬送车事件",
+      "onboard_time": 1736936178,
+      "rank": 18,
+      "category": "汽车,艺人"
+    },
+    {
       "raw_hot": 576040,
       "num": 576040,
       "word": "相信美国消防的她回家时直接傻眼",
@@ -2987,6 +3003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 375479,
+      "num": 235344,
+      "word": "刚离职offer就被取消了能要补偿吗",
+      "onboard_time": 1736934859,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 373460,
       "num": 373460,
       "word": "雷军解锁泼水成冰",
@@ -3297,14 +3321,6 @@
       "onboard_time": 1736826439,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 330072,
-      "num": 235344,
-      "word": "刚离职offer就被取消了能要补偿吗",
-      "onboard_time": 1736934859,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 329341,
@@ -4123,14 +4139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 261401,
-      "num": 261401,
-      "word": "宝骏回应黄子韬送车事件",
-      "onboard_time": 1736936178,
-      "rank": 18,
-      "category": "汽车,艺人"
-    },
-    {
       "raw_hot": 261365,
       "num": 248991,
       "word": "金价上涨年轻人囤金热情不降反升",
@@ -4185,14 +4193,6 @@
       "onboard_time": 1736657659,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 256568,
-      "num": 371686,
-      "word": "放羊的星星男演员卷入杀人案",
-      "onboard_time": 1736935939,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 255996,
@@ -5539,6 +5539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198532,
+      "num": 198532,
+      "word": "男子发烧2天吃8颗布洛芬致肾脏受损",
+      "onboard_time": 1736934078,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 198502,
       "num": 198502,
       "word": "LPL联赛取消赛后粉丝互动",
@@ -5633,6 +5641,14 @@
       "onboard_time": 1736858779,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 197443,
+      "num": 197443,
+      "word": "王阳新剧又争又抢",
+      "onboard_time": 1736935039,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 197295,
@@ -6097,14 +6113,6 @@
       "onboard_time": 1736672839,
       "rank": 29,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 186997,
-      "num": 186997,
-      "word": "王阳新剧又争又抢",
-      "onboard_time": 1736935039,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 186974,
@@ -7060,7 +7068,7 @@
     },
     {
       "raw_hot": 164967,
-      "num": 164967,
+      "num": 293912,
       "word": "吉林大爷救游客真相需双方携手调查",
       "onboard_time": 1736932279,
       "rank": 47,
@@ -7153,6 +7161,14 @@
       "onboard_time": 1736656820,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161735,
+      "num": 161735,
+      "word": "小红书2天新增超70万用户",
+      "onboard_time": 1736936540,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 161431,
@@ -7323,6 +7339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 158169,
+      "num": 158169,
+      "word": "小俞 AG",
+      "onboard_time": 1736936419,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 158074,
       "num": 158074,
       "word": "刘亦菲去中国电视剧年度盛典",
@@ -7433,6 +7457,14 @@
       "onboard_time": 1736738358,
       "rank": 36,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 156449,
+      "num": 156449,
+      "word": "外交部回应美国小朋友天坛唱如愿",
+      "onboard_time": 1736934018,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 156400,
@@ -7945,6 +7977,14 @@
       "onboard_time": 1736829439,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147316,
+      "num": 147316,
+      "word": "张艺兴官宣2025山东春晚",
+      "onboard_time": 1736936658,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 147293,
@@ -8651,14 +8691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 132961,
-      "num": 132961,
-      "word": "外交部回应美国小朋友天坛唱如愿",
-      "onboard_time": 1736934018,
-      "rank": 40,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 132699,
       "num": 132699,
       "word": "成都春熙路小熊姐命张力好强",
@@ -9035,14 +9067,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 126995,
-      "num": 126995,
-      "word": "小俞 AG",
-      "onboard_time": 1736936419,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 126915,
       "num": 126915,
       "word": "郑钦文取得澳网开门红",
@@ -9233,14 +9257,6 @@
       "onboard_time": 1736753780,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 123770,
-      "num": 123770,
-      "word": "男子发烧2天吃8颗布洛芬致肾脏受损",
-      "onboard_time": 1736934078,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 123478,
@@ -9995,12 +10011,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110180,
-      "num": 110180,
-      "word": "小红书2天新增超70万用户",
-      "onboard_time": 1736936540,
-      "rank": 48,
-      "category": "互联网"
+      "raw_hot": 110374,
+      "num": 110374,
+      "word": "我的洗澡搭子是只猫",
+      "onboard_time": 1736937200,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 110066,
@@ -10089,6 +10105,14 @@
       "onboard_time": 1736631371,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108571,
+      "num": 108571,
+      "word": "于洋 死嘴快憋住啊",
+      "onboard_time": 1736937500,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 107858,
@@ -11809,6 +11833,14 @@
       "onboard_time": 1736596228,
       "rank": 37,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 45217,
+      "num": 218140,
+      "word": "陈梦杯国际青少年乒乓球邀请赛开赛",
+      "onboard_time": 1736937439,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 44585,

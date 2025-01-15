@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736936572759,
+  "endTime": 1736937603803,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1009,6 +1009,14 @@
       "onboard_time": 1736685740,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2068489,
+      "num": 2068489,
+      "word": "放羊的星星男演员卷入杀人案",
+      "onboard_time": 1736935939,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 2056686,
@@ -2075,6 +2083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1505240,
+      "num": 1018704,
+      "word": "李威",
+      "onboard_time": 1736935279,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1500825,
       "num": 1500825,
       "word": "字节跳动100元标餐的免费三餐",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1735811780,
       "rank": 0,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1340542,
-      "num": 990884,
-      "word": "女儿溺亡女子怪妹妹没看好索赔90万",
-      "onboard_time": 1736728459,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1339239,
-      "num": 943881,
-      "word": "张萌礼服",
-      "onboard_time": 1735981042,
-      "rank": 8,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
