@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736909327369,
+  "endTime": 1736909847808,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -571,20 +571,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2638754,
+      "num": 2638754,
+      "word": "尹锡悦被逮捕",
+      "onboard_time": 1736900118,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 2630467,
       "num": 2630467,
       "word": "徐克 肖战让你的兵停一下",
       "onboard_time": 1736609964,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 2629996,
-      "num": 2629996,
-      "word": "尹锡悦被逮捕",
-      "onboard_time": 1736900118,
-      "rank": 0,
-      "category": "国际时政"
     },
     {
       "raw_hot": 2582877,

@@ -1,6 +1,6 @@
 {
   "startTime": 1736872066671,
-  "endTime": 1736909327369,
+  "endTime": 1736909847808,
   "band_list": [
     {
       "raw_hot": 3396289,
@@ -11,8 +11,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 2629996,
-      "num": 2629996,
+      "raw_hot": 2638754,
+      "num": 2638754,
       "word": "尹锡悦被逮捕",
       "onboard_time": 1736900118,
       "rank": 0,
@@ -83,6 +83,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 605627,
+      "num": 605627,
+      "word": "尹锡悦发表对民众讲话",
+      "onboard_time": 1736907558,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 593539,
       "num": 593539,
       "word": "尹锡悦或将自行走出总统官邸",
@@ -123,20 +131,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 554345,
+      "num": 293383,
+      "word": "刘晓庆大方承认自己的错误",
+      "onboard_time": 1736908219,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 505554,
+      "num": 505554,
+      "word": "鹿晗杂志取消预售",
+      "onboard_time": 1736909359,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 499445,
-      "num": 331261,
+      "num": 395846,
       "word": "郑钦文无缘澳网女单第三轮",
       "onboard_time": 1736908819,
       "rank": 13,
       "category": "体育"
     },
     {
-      "raw_hot": 499421,
-      "num": 265039,
-      "word": "刘晓庆大方承认自己的错误",
-      "onboard_time": 1736908219,
-      "rank": 20,
-      "category": "综艺"
+      "raw_hot": 475882,
+      "num": 291328,
+      "word": "得知家里负债11岁女孩哭着退掉新衣",
+      "onboard_time": 1736906417,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 472364,
@@ -147,28 +171,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 416350,
-      "num": 416350,
+      "raw_hot": 432544,
+      "num": 493893,
+      "word": "下下周三是第一个非遗春节",
+      "onboard_time": 1736903479,
+      "rank": 32,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 428769,
+      "num": 428769,
       "word": "郑钦文0比2西格蒙德",
       "onboard_time": 1736908819,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 412756,
-      "num": 264804,
-      "word": "得知家里负债11岁女孩哭着退掉新衣",
-      "onboard_time": 1736906417,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 408328,
-      "num": 408328,
-      "word": "尹锡悦发表对民众讲话",
-      "onboard_time": 1736907558,
-      "rank": 5,
-      "category": "国际时政"
     },
     {
       "raw_hot": 403026,
@@ -187,6 +203,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 384630,
+      "num": 288748,
+      "word": "因为晕碳戒掉了熬夜",
+      "onboard_time": 1736904978,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 381626,
       "num": 381626,
       "word": "江苏省考成绩",
@@ -195,20 +219,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 365136,
-      "num": 264336,
-      "word": "因为晕碳戒掉了熬夜",
-      "onboard_time": 1736904978,
-      "rank": 38,
-      "category": "情感"
+      "raw_hot": 375178,
+      "num": 375178,
+      "word": "韩国史上首次逮捕现任总统",
+      "onboard_time": 1736908819,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 360676,
-      "num": 360676,
-      "word": "下下周三是第一个非遗春节",
-      "onboard_time": 1736903479,
-      "rank": 32,
-      "category": "正能量"
+      "raw_hot": 360097,
+      "num": 360097,
+      "word": "尹锡悦已抵达政府大楼",
+      "onboard_time": 1736908638,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 356428,
@@ -251,6 +275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 298228,
+      "num": 298228,
+      "word": "百万人陪郑钦文早八",
+      "onboard_time": 1736904978,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 294767,
       "num": 294767,
       "word": "韩警方及公调处千余人抓捕尹锡悦",
@@ -267,8 +299,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287298,
+      "num": 287298,
+      "word": "中国人研究月球土特产发现了新秘密",
+      "onboard_time": 1736908278,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 284994,
-      "num": 284994,
+      "num": 296224,
       "word": "董洁国色芳华出场镜头",
       "onboard_time": 1736903059,
       "rank": 28,
@@ -281,6 +321,14 @@
       "onboard_time": 1736892131,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 276381,
+      "num": 276381,
+      "word": "妈妈可能正在经历最痛苦的10年",
+      "onboard_time": 1736906417,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 270284,
@@ -297,30 +345,6 @@
       "onboard_time": 1736901920,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 266327,
-      "num": 266327,
-      "word": "百万人陪郑钦文早八",
-      "onboard_time": 1736904978,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 265480,
-      "num": 265480,
-      "word": "尹锡悦已抵达政府大楼",
-      "onboard_time": 1736908638,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 264262,
-      "num": 264262,
-      "word": "妈妈可能正在经历最痛苦的10年",
-      "onboard_time": 1736906417,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 255996,
@@ -371,14 +395,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 241238,
-      "num": 358331,
-      "word": "韩国史上首次逮捕现任总统",
-      "onboard_time": 1736908819,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 240861,
       "num": 240861,
       "word": "魏哲鸣回应和杨紫嗑瓜子cp",
@@ -395,16 +411,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 234859,
-      "num": 234859,
-      "word": "中国人研究月球土特产发现了新秘密",
-      "onboard_time": 1736908278,
-      "rank": 27,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 231654,
-      "num": 231654,
+      "raw_hot": 237676,
+      "num": 237676,
       "word": "守望先锋",
       "onboard_time": 1736906718,
       "rank": 30,
@@ -425,6 +433,14 @@
       "onboard_time": 1736897475,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220217,
+      "num": 220217,
+      "word": "小程序游戏的含金量还在上升",
+      "onboard_time": 1736908758,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 214136,
@@ -457,6 +473,14 @@
       "onboard_time": 1736896576,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206724,
+      "num": 276782,
+      "word": "郑钦文首盘7记ACE",
+      "onboard_time": 1736907558,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 205837,
@@ -492,11 +516,19 @@
     },
     {
       "raw_hot": 188743,
-      "num": 232803,
+      "num": 237683,
       "word": "关晓彤换风格了",
       "onboard_time": 1736898498,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188608,
+      "num": 294353,
+      "word": "国色芳华",
+      "onboard_time": 1736909178,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 188179,
@@ -505,14 +537,6 @@
       "onboard_time": 1736874134,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 187695,
-      "num": 187695,
-      "word": "小程序游戏的含金量还在上升",
-      "onboard_time": 1736908758,
-      "rank": 35,
-      "category": "互联网"
     },
     {
       "raw_hot": 185379,
@@ -555,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167705,
+      "num": 167705,
+      "word": "美国网友涌入小红书交猫税",
+      "onboard_time": 1736909359,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 166378,
       "num": 166378,
       "word": "白鹿敖瑞鹏送来了一个晚安",
@@ -569,14 +601,6 @@
       "onboard_time": 1736865682,
       "rank": 21,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 161992,
-      "num": 259177,
-      "word": "郑钦文首盘7记ACE",
-      "onboard_time": 1736907558,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 159402,
@@ -609,6 +633,22 @@
       "onboard_time": 1736901920,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156655,
+      "num": 156655,
+      "word": "超市年货专属BGM在召唤你",
+      "onboard_time": 1736908399,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155652,
+      "num": 237699,
+      "word": "范丞丞方否认将演将门毒后",
+      "onboard_time": 1736908219,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 155385,
@@ -683,28 +723,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 134465,
-      "num": 134465,
-      "word": "超市年货专属BGM在召唤你",
-      "onboard_time": 1736908399,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132114,
       "num": 132114,
       "word": "全球80%年画春联源自义乌",
       "onboard_time": 1736907499,
       "rank": 44,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 129999,
-      "num": 202132,
-      "word": "国色芳华",
-      "onboard_time": 1736909178,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 129349,
@@ -723,6 +747,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 127063,
+      "num": 127063,
+      "word": "向太行李超重",
+      "onboard_time": 1736909659,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125102,
       "num": 125102,
       "word": "SM新女团成员Jiwoo",
@@ -739,6 +771,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 124466,
+      "num": 124466,
+      "word": "守望先锋回归福利",
+      "onboard_time": 1736909659,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 124442,
       "num": 124442,
       "word": "00后女生高铁上6小时织了顶帽子",
@@ -753,14 +793,6 @@
       "onboard_time": 1736866460,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 121157,
-      "num": 232226,
-      "word": "范丞丞方否认将演将门毒后",
-      "onboard_time": 1736908219,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 117736,
