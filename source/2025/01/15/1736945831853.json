@@ -1,0 +1,410 @@
+{
+  "runTime": 1736945831853,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 795981,
+        "num": 1127357,
+        "word": "洛杉矶富人有钱能让山火改道",
+        "onboard_time": 1736925798,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 754063,
+        "num": 754063,
+        "word": "TikTok难民来啦",
+        "onboard_time": 1736944098,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 22247,
+        "num": 609178,
+        "word": "春节寒假看雪玩雪全攻略",
+        "onboard_time": 1736928199,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 561944,
+        "num": 561944,
+        "word": "泰国为刺激旅游业批准赌博合法化",
+        "onboard_time": 1736938879,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 552125,
+        "num": 552125,
+        "word": "毛宁任外交部新闻司司长",
+        "onboard_time": 1736940438,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1830531,
+        "num": 532875,
+        "word": "放羊的星星男演员卷入杀人案",
+        "onboard_time": 1736935939,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501558,
+        "num": 501558,
+        "word": "小红书2天新增超70万用户",
+        "onboard_time": 1736936540,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 500262,
+        "num": 500262,
+        "word": "国色芳华 我就说不加更会出事吧",
+        "onboard_time": 1736940918,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 496187,
+        "num": 496187,
+        "word": "孟子义是不是忘了妈妈的话",
+        "onboard_time": 1736940438,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 70370,
+        "num": 489532,
+        "word": "他们在祖国需要时毅然回国",
+        "onboard_time": 1736942301,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 627097,
+        "num": 488680,
+        "word": "外媒称TikTok将硬刚美国禁令",
+        "onboard_time": 1736938281,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 486826,
+        "num": 486826,
+        "word": "华春莹卸任外交部发言人",
+        "onboard_time": 1736942897,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 395491,
+        "num": 395491,
+        "word": "红山动物园的厕所标志",
+        "onboard_time": 1736938281,
+        "rank": 12,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 317973,
+        "num": 317973,
+        "word": "三只羊回应复出",
+        "onboard_time": 1736941219,
+        "rank": 13,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 309470,
+        "num": 309470,
+        "word": "3岁男童独自在家睡梦中被烧成重伤",
+        "onboard_time": 1736945298,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305376,
+        "num": 305376,
+        "word": "陈哲远 轻飘飘的一句话造就神图",
+        "onboard_time": 1736943077,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254252,
+        "num": 254252,
+        "word": "小红书爆火TikTok还有转机吗",
+        "onboard_time": 1736925740,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 217577,
+        "num": 217577,
+        "word": "难哄你好星期六录制",
+        "onboard_time": 1736943019,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211220,
+        "num": 211220,
+        "word": "TikTok禁令引发美国网友众怒",
+        "onboard_time": 1736925798,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 191841,
+        "num": 191841,
+        "word": "国色芳华 观众比女主更依赖男主",
+        "onboard_time": 1736944098,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 552829,
+        "num": 191791,
+        "word": "赵露思疑似将复工",
+        "onboard_time": 1736922259,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 539788,
+        "num": 191638,
+        "word": "刘晓庆把李小冉夸成胚胎了",
+        "onboard_time": 1736932399,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327549,
+        "num": 191593,
+        "word": "女子把年假当年会奖励被公司开除",
+        "onboard_time": 1736931259,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280291,
+        "num": 191431,
+        "word": "李威经纪人回应杀人案",
+        "onboard_time": 1736942358,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244933,
+        "num": 191383,
+        "word": "下一个TikTok还是中国产",
+        "onboard_time": 1736942718,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 191319,
+        "num": 191319,
+        "word": "白月梵星婆媳大战",
+        "onboard_time": 1736940379,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236920,
+        "num": 191131,
+        "word": "虞书欣祝丁禹兮前程似锦",
+        "onboard_time": 1736931919,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194536,
+        "num": 188559,
+        "word": "品牌方回应赵露思将复工",
+        "onboard_time": 1736928498,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184074,
+        "num": 184074,
+        "word": "蒋敦豪回家可以吃到妈妈做的饭了",
+        "onboard_time": 1736945358,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54731,
+        "num": 179140,
+        "word": "孙颖莎邀你过个运动健康年",
+        "onboard_time": 1736945779,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178913,
+        "num": 178913,
+        "word": "你皮肤不好真有可能是饮食问题",
+        "onboard_time": 1736944877,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 176670,
+        "num": 176670,
+        "word": "难哄",
+        "onboard_time": 1736944999,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169540,
+        "num": 169540,
+        "word": "王鹤棣宋茜星河入梦杀青",
+        "onboard_time": 1736939240,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 271554,
+        "num": 169398,
+        "word": "宝骏回应黄子韬送车事件",
+        "onboard_time": 1736936178,
+        "rank": 33,
+        "category": "汽车,艺人"
+      },
+      {
+        "raw_hot": 169029,
+        "num": 169029,
+        "word": "希望中美友谊的种子生根发芽不惧风雨",
+        "onboard_time": 1736941518,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 167295,
+        "num": 167295,
+        "word": "夺娶",
+        "onboard_time": 1736944699,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164628,
+        "num": 164628,
+        "word": "刚离职offer就被取消了能要补偿吗",
+        "onboard_time": 1736934859,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159880,
+        "num": 159880,
+        "word": "李昀锐说以前哪有选择全是争取",
+        "onboard_time": 1736941939,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150261,
+        "num": 150261,
+        "word": "27岁辅警查酒驾被撞伤拖行牺牲",
+        "onboard_time": 1736926760,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149592,
+        "num": 149592,
+        "word": "陶喆巡演官宣5城",
+        "onboard_time": 1736943557,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143714,
+        "num": 143714,
+        "word": "恋与深空",
+        "onboard_time": 1736944939,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141271,
+        "num": 141271,
+        "word": "肖战人物封面",
+        "onboard_time": 1736922318,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136139,
+        "num": 136139,
+        "word": "男子发烧2天吃8颗布洛芬致肾脏受损",
+        "onboard_time": 1736934078,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135853,
+        "num": 135853,
+        "word": "陈立农现身湾区春晚",
+        "onboard_time": 1736945237,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128786,
+        "num": 128786,
+        "word": "男子婚前房加名离婚被要250万",
+        "onboard_time": 1736937380,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127066,
+        "num": 127066,
+        "word": "外国友人开始在小红书上才艺了",
+        "onboard_time": 1736943318,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 125054,
+        "num": 125054,
+        "word": "外国人用中文买东西有多搞笑",
+        "onboard_time": 1736944877,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124535,
+        "num": 124535,
+        "word": "陈赫自己吓自己林更新飞踹",
+        "onboard_time": 1736942718,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124055,
+        "num": 124055,
+        "word": "逆水寒手游",
+        "onboard_time": 1736944578,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119247,
+        "num": 119247,
+        "word": "林俊杰分享十五宫格出海日常碎片",
+        "onboard_time": 1736944278,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#把群众冰雪运动热情保持下去#"
+    }
+  }
+}

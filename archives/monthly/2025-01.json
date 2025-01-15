@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736944904188,
+  "endTime": 1736945831853,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -5492,7 +5492,7 @@
     },
     {
       "raw_hot": 777292,
-      "num": 379239,
+      "num": 488680,
       "word": "外媒称TikTok将硬刚美国禁令",
       "onboard_time": 1736938281,
       "rank": 13,
@@ -5665,6 +5665,14 @@
       "onboard_time": 1736138067,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 754063,
+      "num": 754063,
+      "word": "TikTok难民来啦",
+      "onboard_time": 1736944098,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 751776,
@@ -9179,6 +9187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 501558,
+      "num": 501558,
+      "word": "小红书2天新增超70万用户",
+      "onboard_time": 1736936540,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 501344,
       "num": 501344,
       "word": "世界之外直播",
@@ -9441,6 +9457,14 @@
       "onboard_time": 1736399061,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 486826,
+      "num": 486826,
+      "word": "华春莹卸任外交部发言人",
+      "onboard_time": 1736942897,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 485716,
@@ -13539,14 +13563,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 334528,
-      "num": 231188,
-      "word": "小红书2天新增超70万用户",
-      "onboard_time": 1736936540,
-      "rank": 48,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 334472,
       "num": 334472,
       "word": "多位博主实探中国游客在日被撞现场",
@@ -14555,6 +14571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 309470,
+      "num": 309470,
+      "word": "3岁男童独自在家睡梦中被烧成重伤",
+      "onboard_time": 1736945298,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 309107,
       "num": 5290216,
       "word": "排队1小时兑蛇钞蛇币到手就转卖",
@@ -14569,14 +14593,6 @@
       "onboard_time": 1735689197,
       "rank": 17,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 308915,
-      "num": 199797,
-      "word": "华春莹卸任外交部发言人",
-      "onboard_time": 1736942897,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 308579,
@@ -14681,6 +14697,14 @@
       "onboard_time": 1735723580,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 305376,
+      "num": 305376,
+      "word": "陈哲远 轻飘飘的一句话造就神图",
+      "onboard_time": 1736943077,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 305359,
@@ -15915,20 +15939,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 280291,
+      "num": 213156,
+      "word": "李威经纪人回应杀人案",
+      "onboard_time": 1736942358,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 280225,
       "num": 2700372,
       "word": "后天就是腊八节",
       "onboard_time": 1736036484,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 280160,
-      "num": 213156,
-      "word": "李威经纪人回应杀人案",
-      "onboard_time": 1736942358,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 279221,
@@ -17481,14 +17505,6 @@
       "onboard_time": 1736319321,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 251858,
-      "num": 251858,
-      "word": "陈哲远 轻飘飘的一句话造就神图",
-      "onboard_time": 1736943077,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 251841,
@@ -25155,6 +25171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 184074,
+      "num": 184074,
+      "word": "蒋敦豪回家可以吃到妈妈做的饭了",
+      "onboard_time": 1736945358,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184015,
       "num": 184015,
       "word": "张康乐好帅",
@@ -25825,6 +25849,14 @@
       "onboard_time": 1736320582,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178913,
+      "num": 178913,
+      "word": "你皮肤不好真有可能是饮食问题",
+      "onboard_time": 1736944877,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 178813,
@@ -27729,6 +27761,14 @@
       "onboard_time": 1735975940,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167295,
+      "num": 167295,
+      "word": "夺娶",
+      "onboard_time": 1736944699,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 167207,
@@ -30651,6 +30691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149592,
+      "num": 149592,
+      "word": "陶喆巡演官宣5城",
+      "onboard_time": 1736943557,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 149569,
       "num": 149569,
       "word": "国色芳华为花农带来泼天流量",
@@ -31409,14 +31457,6 @@
       "onboard_time": 1735718598,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 145990,
-      "num": 145990,
-      "word": "陶喆巡演官宣5城",
-      "onboard_time": 1736943557,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 145935,
@@ -33291,6 +33331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135853,
+      "num": 135853,
+      "word": "陈立农现身湾区春晚",
+      "onboard_time": 1736945237,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135847,
       "num": 135847,
       "word": "张康乐马柏全比心合照",
@@ -33353,14 +33401,6 @@
       "onboard_time": 1735708399,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135495,
-      "num": 135495,
-      "word": "你皮肤不好真有可能是饮食问题",
-      "onboard_time": 1736944877,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 135451,
@@ -34891,6 +34931,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 127066,
+      "num": 127066,
+      "word": "外国友人开始在小红书上才艺了",
+      "onboard_time": 1736943318,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 127023,
       "num": 125987,
       "word": "牡丹才17岁",
@@ -35291,6 +35339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125054,
+      "num": 125054,
+      "word": "外国人用中文买东西有多搞笑",
+      "onboard_time": 1736944877,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125038,
       "num": 270686,
       "word": "张兴亮被禁赛",
@@ -35371,14 +35427,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 124550,
-      "num": 124550,
-      "word": "外国友人开始在小红书上才艺了",
-      "onboard_time": 1736943318,
-      "rank": 43,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 124532,
       "num": 129032,
       "word": "男子意外触碰氢氟酸手指烂出黑洞",
@@ -35457,14 +35505,6 @@
       "onboard_time": 1736482642,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123979,
-      "num": 123979,
-      "word": "外国人用中文买东西有多搞笑",
-      "onboard_time": 1736944877,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 123914,
@@ -38563,14 +38603,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 103845,
-      "num": 379243,
-      "word": "TikTok难民来啦",
-      "onboard_time": 1736944098,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 103738,
       "num": 436407,
       "word": "2025第一个节气",
@@ -41252,7 +41284,7 @@
     },
     {
       "raw_hot": 76733,
-      "num": 122640,
+      "num": 489532,
       "word": "他们在祖国需要时毅然回国",
       "onboard_time": 1736942301,
       "rank": 46,
@@ -43409,6 +43441,14 @@
       "onboard_time": 1736082630,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 54731,
+      "num": 179140,
+      "word": "孙颖莎邀你过个运动健康年",
+      "onboard_time": 1736945779,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 54706,

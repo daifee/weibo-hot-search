@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736944904188,
+  "endTime": 1736945831853,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -1292,7 +1292,7 @@
     },
     {
       "raw_hot": 777292,
-      "num": 379239,
+      "num": 488680,
       "word": "外媒称TikTok将硬刚美国禁令",
       "onboard_time": 1736938281,
       "rank": 13,
@@ -1321,6 +1321,14 @@
       "onboard_time": 1736846959,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 754063,
+      "num": 754063,
+      "word": "TikTok难民来啦",
+      "onboard_time": 1736944098,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 751776,
@@ -2339,6 +2347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 501558,
+      "num": 501558,
+      "word": "小红书2天新增超70万用户",
+      "onboard_time": 1736936540,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 499445,
       "num": 395846,
       "word": "郑钦文无缘澳网女单第三轮",
@@ -2393,6 +2409,14 @@
       "onboard_time": 1736759119,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 486826,
+      "num": 486826,
+      "word": "华春莹卸任外交部发言人",
+      "onboard_time": 1736942897,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 484418,
@@ -3363,14 +3387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 334528,
-      "num": 231188,
-      "word": "小红书2天新增超70万用户",
-      "onboard_time": 1736936540,
-      "rank": 48,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 334472,
       "num": 334472,
       "word": "多位博主实探中国游客在日被撞现场",
@@ -3651,12 +3667,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 308915,
-      "num": 199797,
-      "word": "华春莹卸任外交部发言人",
-      "onboard_time": 1736942897,
-      "rank": 30,
-      "category": "国内时政"
+      "raw_hot": 309470,
+      "num": 309470,
+      "word": "3岁男童独自在家睡梦中被烧成重伤",
+      "onboard_time": 1736945298,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 308579,
@@ -3681,6 +3697,14 @@
       "onboard_time": 1736843538,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 305376,
+      "num": 305376,
+      "word": "陈哲远 轻飘飘的一句话造就神图",
+      "onboard_time": 1736943077,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 305359,
@@ -3947,7 +3971,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 280160,
+      "raw_hot": 280291,
       "num": 213156,
       "word": "李威经纪人回应杀人案",
       "onboard_time": 1736942358,
@@ -4369,14 +4393,6 @@
       "onboard_time": 1736666180,
       "rank": 39,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 251858,
-      "num": 251858,
-      "word": "陈哲远 轻飘飘的一句话造就神图",
-      "onboard_time": 1736943077,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 250875,
@@ -6467,6 +6483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184074,
+      "num": 184074,
+      "word": "蒋敦豪回家可以吃到妈妈做的饭了",
+      "onboard_time": 1736945358,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183696,
       "num": 183696,
       "word": "丁禹兮时装一月封面",
@@ -6651,6 +6675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178913,
+      "num": 178913,
+      "word": "你皮肤不好真有可能是饮食问题",
+      "onboard_time": 1736944877,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 178813,
       "num": 178813,
       "word": "崔胜澈直播",
@@ -6737,6 +6769,14 @@
       "onboard_time": 1736747839,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 176670,
+      "num": 176670,
+      "word": "难哄",
+      "onboard_time": 1736944999,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 176613,
@@ -7209,6 +7249,14 @@
       "onboard_time": 1736690902,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167295,
+      "num": 167295,
+      "word": "夺娶",
+      "onboard_time": 1736944699,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 167062,
@@ -8051,6 +8099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149592,
+      "num": 149592,
+      "word": "陶喆巡演官宣5城",
+      "onboard_time": 1736943557,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 149569,
       "num": 149569,
       "word": "国色芳华为花农带来泼天流量",
@@ -8259,14 +8315,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 145990,
-      "num": 145990,
-      "word": "陶喆巡演官宣5城",
-      "onboard_time": 1736943557,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 145901,
       "num": 145901,
       "word": "杨千幻 一声待爆一生待爆",
@@ -8401,6 +8449,14 @@
       "onboard_time": 1736751678,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143714,
+      "num": 220183,
+      "word": "恋与深空",
+      "onboard_time": 1736653039,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 143681,
@@ -8763,6 +8819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 135853,
+      "num": 135853,
+      "word": "陈立农现身湾区春晚",
+      "onboard_time": 1736945237,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135847,
       "num": 135847,
       "word": "张康乐马柏全比心合照",
@@ -8785,14 +8849,6 @@
       "onboard_time": 1736917821,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 135495,
-      "num": 135495,
-      "word": "你皮肤不好真有可能是饮食问题",
-      "onboard_time": 1736944877,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 135416,
@@ -9323,6 +9379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127066,
+      "num": 127066,
+      "word": "外国友人开始在小红书上才艺了",
+      "onboard_time": 1736943318,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 127023,
       "num": 125987,
       "word": "牡丹才17岁",
@@ -9467,6 +9531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125054,
+      "num": 125054,
+      "word": "外国人用中文买东西有多搞笑",
+      "onboard_time": 1736944877,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124958,
       "num": 124958,
       "word": "美国证监会起诉马斯克",
@@ -9499,14 +9571,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 124550,
-      "num": 124550,
-      "word": "外国友人开始在小红书上才艺了",
-      "onboard_time": 1736943318,
-      "rank": 43,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 124442,
       "num": 124442,
       "word": "00后女生高铁上6小时织了顶帽子",
@@ -9531,12 +9595,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 123979,
-      "num": 123979,
-      "word": "外国人用中文买东西有多搞笑",
-      "onboard_time": 1736944877,
-      "rank": 44,
-      "category": "幽默"
+      "raw_hot": 124055,
+      "num": 124055,
+      "word": "逆水寒手游",
+      "onboard_time": 1736944578,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 123478,
@@ -9545,14 +9609,6 @@
       "onboard_time": 1736858479,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 123356,
-      "num": 123356,
-      "word": "逆水寒手游",
-      "onboard_time": 1736944578,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 122708,
@@ -10041,14 +10097,6 @@
       "onboard_time": 1736939658,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 114435,
-      "num": 220183,
-      "word": "恋与深空",
-      "onboard_time": 1736653039,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 114433,
@@ -10601,14 +10649,6 @@
       "onboard_time": 1736726599,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 103845,
-      "num": 379243,
-      "word": "TikTok难民来啦",
-      "onboard_time": 1736944098,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 103713,
@@ -11364,7 +11404,7 @@
     },
     {
       "raw_hot": 76733,
-      "num": 122640,
+      "num": 489532,
       "word": "他们在祖国需要时毅然回国",
       "onboard_time": 1736942301,
       "rank": 46,
@@ -11881,6 +11921,14 @@
       "onboard_time": 1736711051,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 54731,
+      "num": 179140,
+      "word": "孙颖莎邀你过个运动健康年",
+      "onboard_time": 1736945779,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 54706,
