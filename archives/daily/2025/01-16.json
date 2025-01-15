@@ -1,6 +1,6 @@
 {
   "startTime": 1736958421212,
-  "endTime": 1736980656145,
+  "endTime": 1736983256864,
   "band_list": [
     {
       "raw_hot": 1581563,
@@ -115,6 +115,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 288708,
+      "num": 288708,
+      "word": "郑氏姐妹",
+      "onboard_time": 1736982374,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 251361,
+      "num": 159828,
+      "word": "下一个TikTok还是中国产",
+      "onboard_time": 1736942718,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 243460,
       "num": 151573,
       "word": "赵露思疑似将复工",
@@ -163,12 +179,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165788,
-      "num": 159828,
-      "word": "下一个TikTok还是中国产",
-      "onboard_time": 1736942718,
-      "rank": 23,
-      "category": "互联网"
+      "raw_hot": 168238,
+      "num": 168238,
+      "word": "黄子韬送车被标价1万到6万转卖",
+      "onboard_time": 1736951361,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 162455,
@@ -187,12 +203,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 154035,
+      "num": 154035,
+      "word": "因公牺牲的27岁辅警孩子刚满百天",
+      "onboard_time": 1736980692,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151928,
       "num": 151928,
       "word": "难哄",
       "onboard_time": 1736944999,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134242,
+      "num": 134242,
+      "word": "职业本科与高职专科普通本科有啥区别",
+      "onboard_time": 1736956757,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 128248,
@@ -275,28 +307,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 89129,
-      "num": 89129,
-      "word": "职业本科与高职专科普通本科有啥区别",
-      "onboard_time": 1736956757,
-      "rank": 34,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 86143,
-      "num": 86143,
-      "word": "黄子韬送车被标价1万到6万转卖",
-      "onboard_time": 1736951361,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 85199,
       "num": 85199,
       "word": "美国网友向中国网友求助数学题",
       "onboard_time": 1736949798,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 84270,
+      "num": 84270,
+      "word": "26岁小伙让老鼠啃过的古籍重生",
+      "onboard_time": 1736980752,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83164,
@@ -467,6 +491,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 41081,
+      "num": 41081,
+      "word": "放假去埃及玩的人嘴真严",
+      "onboard_time": 1736970491,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 38415,
+      "num": 324712,
+      "word": "以旧换新带动销售超1.3万亿元",
+      "onboard_time": 1736949981,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38211,
+      "num": 46689,
+      "word": "奶奶听信电吹风暖背5岁男孩被烧伤",
+      "onboard_time": 1736967911,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36427,
       "num": 595757,
       "word": "那些你不知道的北京地儿",
@@ -481,6 +529,22 @@
       "onboard_time": 1736949199,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 34036,
+      "num": 36203,
+      "word": "陈小纭大奉拽妃",
+      "onboard_time": 1736946559,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 33411,
+      "num": 36200,
+      "word": "失去家园的洛杉矶居民愤怒又无奈",
+      "onboard_time": 1736979912,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 32317,
@@ -499,12 +563,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28024,
-      "num": 28024,
-      "word": "陈小纭大奉拽妃",
-      "onboard_time": 1736946559,
-      "rank": 48,
+      "raw_hot": 29567,
+      "num": 36198,
+      "word": "猎罪图鉴2播放破20亿",
+      "onboard_time": 1736966831,
+      "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 28542,
+      "num": 36195,
+      "word": "尹锡悦讯问细节公开",
+      "onboard_time": 1736977030,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 27410,
@@ -515,12 +587,36 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 25901,
-      "num": 25901,
-      "word": "放假去埃及玩的人嘴真严",
-      "onboard_time": 1736970491,
-      "rank": 31,
-      "category": "情感"
+      "raw_hot": 26611,
+      "num": 36195,
+      "word": "美国小朋友们在北京公园唱如愿",
+      "onboard_time": 1736974331,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 25735,
+      "num": 36190,
+      "word": "嗑到了穿鱼跟牡丹",
+      "onboard_time": 1736982314,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 25392,
+      "num": 56362,
+      "word": "外交部表示对韩国内政不做评论",
+      "onboard_time": 1736966231,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 23688,
+      "num": 36184,
+      "word": "专家建议恢复IPO及正常做空机制",
+      "onboard_time": 1736976071,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 23347,
@@ -531,14 +627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22840,
-      "num": 56362,
-      "word": "外交部表示对韩国内政不做评论",
-      "onboard_time": 1736966231,
-      "rank": 14,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 22613,
       "num": 22613,
       "word": "张康乐马柏全游戏问答",
@@ -547,60 +635,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 22195,
-      "num": 22195,
-      "word": "尹锡悦讯问细节公开",
-      "onboard_time": 1736977030,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 21307,
       "num": 21307,
       "word": "ELLE总监分享章昊大片",
       "onboard_time": 1736963353,
       "rank": 44,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 20819,
-      "num": 46689,
-      "word": "奶奶听信电吹风暖背5岁男孩被烧伤",
-      "onboard_time": 1736967911,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19577,
-      "num": 32054,
-      "word": "美国小朋友们在北京公园唱如愿",
-      "onboard_time": 1736974331,
-      "rank": 36,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 19204,
-      "num": 19204,
-      "word": "失去家园的洛杉矶居民愤怒又无奈",
-      "onboard_time": 1736979912,
-      "rank": 40,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 18785,
-      "num": 19192,
-      "word": "猎罪图鉴2播放破20亿",
-      "onboard_time": 1736966831,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 17280,
-      "num": 161313,
-      "word": "以旧换新带动销售超1.3万亿元",
-      "onboard_time": 1736949981,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17270,
@@ -619,12 +659,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16713,
-      "num": 19176,
-      "word": "专家建议恢复IPO及正常做空机制",
-      "onboard_time": 1736976071,
-      "rank": 46,
-      "category": "财经"
+      "raw_hot": 16152,
+      "num": 88325,
+      "word": "小伙为古画修补213个洞",
+      "onboard_time": 1736983094,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15895,
