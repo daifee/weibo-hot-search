@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736937603803,
+  "endTime": 1736939964991,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -424,6 +424,14 @@
       "word": "多位明星转发演员星星失联消息",
       "onboard_time": 1736134101,
       "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3200356,
+      "num": 3200356,
+      "word": "放羊的星星男演员卷入杀人案",
+      "onboard_time": 1736935939,
+      "rank": 9,
       "category": "艺人"
     },
     {
@@ -1009,14 +1017,6 @@
       "onboard_time": 1736685740,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 2068489,
-      "num": 2068489,
-      "word": "放羊的星星男演员卷入杀人案",
-      "onboard_time": 1736935939,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 2056686,

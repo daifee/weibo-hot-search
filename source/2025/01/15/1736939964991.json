@@ -1,0 +1,410 @@
+{
+  "runTime": 1736939964991,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3200356,
+        "num": 3200356,
+        "word": "放羊的星星男演员卷入杀人案",
+        "onboard_time": 1736935939,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 932591,
+        "num": 932591,
+        "word": "洛杉矶富人有钱能让山火改道",
+        "onboard_time": 1736925798,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 56496,
+        "num": 811243,
+        "word": "春运人潮中最让人安心的身影",
+        "onboard_time": 1736931079,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 808505,
+        "num": 808505,
+        "word": "宝骏回应黄子韬送车事件",
+        "onboard_time": 1736936178,
+        "rank": 3,
+        "category": "汽车,艺人"
+      },
+      {
+        "raw_hot": 500299,
+        "num": 500299,
+        "word": "李威",
+        "onboard_time": 1736935279,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335701,
+        "num": 335701,
+        "word": "27岁辅警查酒驾被撞伤拖行牺牲",
+        "onboard_time": 1736926760,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329458,
+        "num": 329458,
+        "word": "刘晓庆把李小冉夸成胚胎了",
+        "onboard_time": 1736932399,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301274,
+        "num": 301274,
+        "word": "李昀锐回应被叫内娱薄肌的神",
+        "onboard_time": 1736934199,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 298498,
+        "num": 298498,
+        "word": "日本多名高考生遭遇猥亵",
+        "onboard_time": 1736929519,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 146367,
+        "num": 265687,
+        "word": "外交部回应美国小朋友天坛唱如愿",
+        "onboard_time": 1736934018,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 897922,
+        "num": 258359,
+        "word": "TikTok禁令引发美国网友众怒",
+        "onboard_time": 1736925798,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 361213,
+        "num": 254518,
+        "word": "小红书爆火TikTok还有转机吗",
+        "onboard_time": 1736925740,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 250647,
+        "num": 250647,
+        "word": "TikTok或计划周日关停美国业务",
+        "onboard_time": 1736930239,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 247907,
+        "num": 247907,
+        "word": "外媒称TikTok将硬刚美国禁令",
+        "onboard_time": 1736938281,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 243950,
+        "num": 243950,
+        "word": "王鹤棣宋茜星河入梦杀青",
+        "onboard_time": 1736939240,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 228251,
+        "num": 228251,
+        "word": "郑钦文被扣1230分",
+        "onboard_time": 1736924179,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205528,
+        "num": 205528,
+        "word": "谢霆锋演唱会真的要来了",
+        "onboard_time": 1736938939,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204954,
+        "num": 204954,
+        "word": "永夜星河",
+        "onboard_time": 1736928919,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191068,
+        "num": 191068,
+        "word": "虞书欣祝绪丹杨仕泽买了丁禹兮杂志",
+        "onboard_time": 1736925439,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189422,
+        "num": 189422,
+        "word": "樊振东是首位超级金满贯得主",
+        "onboard_time": 1736933238,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 732833,
+        "num": 189422,
+        "word": "品牌方回应赵露思将复工",
+        "onboard_time": 1736928498,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457644,
+        "num": 189390,
+        "word": "女子把年假当年会奖励被公司开除",
+        "onboard_time": 1736931259,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355686,
+        "num": 189380,
+        "word": "刚离职offer就被取消了能要补偿吗",
+        "onboard_time": 1736934859,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 390752,
+        "num": 189349,
+        "word": "虞书欣祝丁禹兮前程似锦",
+        "onboard_time": 1736931919,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66699,
+        "num": 189326,
+        "word": "萨巴伦卡鼓励郑钦文",
+        "onboard_time": 1736938639,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189326,
+        "num": 189325,
+        "word": "疑似金建希女子出门遛狗",
+        "onboard_time": 1736930059,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 435506,
+        "num": 187529,
+        "word": "赵露思疑似将复工",
+        "onboard_time": 1736922259,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190383,
+        "num": 185365,
+        "word": "国色芳华头饰3秒镜头花30天制作",
+        "onboard_time": 1736932460,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274439,
+        "num": 184849,
+        "word": "美甲",
+        "onboard_time": 1736927480,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 260137,
+        "num": 180993,
+        "word": "男子发烧2天吃8颗布洛芬致肾脏受损",
+        "onboard_time": 1736934078,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 227946,
+        "num": 178817,
+        "word": "小红书2天新增超70万用户",
+        "onboard_time": 1736936540,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 178207,
+        "num": 178207,
+        "word": "小俞 AG",
+        "onboard_time": 1736936419,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175144,
+        "num": 175144,
+        "word": "红山动物园的厕所标志",
+        "onboard_time": 1736938281,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 169120,
+        "num": 169120,
+        "word": "肖战谈自己五年间的变化",
+        "onboard_time": 1736934785,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161824,
+        "num": 161824,
+        "word": "星船向安宥真道歉",
+        "onboard_time": 1736931619,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148499,
+        "num": 148499,
+        "word": "男子婚前房加名离婚被要250万",
+        "onboard_time": 1736937380,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145012,
+        "num": 145012,
+        "word": "这6个器官最不抗冻",
+        "onboard_time": 1736938818,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131739,
+        "num": 131739,
+        "word": "车厘子",
+        "onboard_time": 1736938879,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 161970,
+        "num": 131317,
+        "word": "肖战人物封面",
+        "onboard_time": 1736922318,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130469,
+        "num": 130469,
+        "word": "月亮",
+        "onboard_time": 1736939840,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129952,
+        "num": 129952,
+        "word": "南京的红绿灯太太太大了",
+        "onboard_time": 1736931859,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 127551,
+        "num": 127551,
+        "word": "李兰迪生图抓拍",
+        "onboard_time": 1736939058,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119657,
+        "num": 119657,
+        "word": "泰国为刺激旅游业批准赌博合法化",
+        "onboard_time": 1736938879,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 119613,
+        "num": 119613,
+        "word": "尹锡悦称不认可公调处调查",
+        "onboard_time": 1736903717,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 46290,
+        "num": 116248,
+        "word": "陈梦要为青少年体育事业贡献力量",
+        "onboard_time": 1736939539,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115017,
+        "num": 115017,
+        "word": "字节跳动100元标餐的免费三餐",
+        "onboard_time": 1736914639,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 114445,
+        "num": 114445,
+        "word": "买12类家电产品每件最高补2000元",
+        "onboard_time": 1736939658,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114046,
+        "num": 114046,
+        "word": "与祁煜的回忆胶卷",
+        "onboard_time": 1736939840,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113192,
+        "num": 113192,
+        "word": "李昀锐被自己会20多种体育运动吓到了",
+        "onboard_time": 1736935399,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103195,
+        "num": 103195,
+        "word": "李兰迪首位95后亦舒女主",
+        "onboard_time": 1736919499,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#把群众冰雪运动热情保持下去#"
+    }
+  }
+}
