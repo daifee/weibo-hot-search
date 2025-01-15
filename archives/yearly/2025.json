@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736947580728,
+  "endTime": 1736948284039,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1443,6 +1443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1761821,
+      "num": 1009581,
+      "word": "TikTok难民来啦",
+      "onboard_time": 1736944098,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1760610,
       "num": 1760610,
       "word": "青海玛多县5.5级地震",
@@ -1857,14 +1865,6 @@
       "onboard_time": 1736836819,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1579673,
-      "num": 998285,
-      "word": "TikTok难民来啦",
-      "onboard_time": 1736944098,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1575211,

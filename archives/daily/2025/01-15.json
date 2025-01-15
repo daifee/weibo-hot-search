@@ -1,6 +1,6 @@
 {
   "startTime": 1736872066671,
-  "endTime": 1736947580728,
+  "endTime": 1736948284039,
   "band_list": [
     {
       "raw_hot": 3396289,
@@ -67,6 +67,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1761821,
+      "num": 1009581,
+      "word": "TikTok难民来啦",
+      "onboard_time": 1736944098,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1696812,
       "num": 598984,
       "word": "小红书连夜招聘英文内容审核员",
@@ -97,14 +105,6 @@
       "onboard_time": 1736918120,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1579673,
-      "num": 998285,
-      "word": "TikTok难民来啦",
-      "onboard_time": 1736944098,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1548628,
@@ -291,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 734277,
+      "num": 734277,
+      "word": "丁禹兮回应虞书欣祝绪丹杨仕泽",
+      "onboard_time": 1736946320,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 731241,
       "num": 322432,
       "word": "青簪行男主",
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 728280,
-      "num": 264265,
+      "num": 291239,
       "word": "女子把年假当年会奖励被公司开除",
       "onboard_time": 1736931259,
       "rank": 21,
@@ -369,14 +377,6 @@
       "onboard_time": 1736898617,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 648173,
-      "num": 648173,
-      "word": "丁禹兮回应虞书欣祝绪丹杨仕泽",
-      "onboard_time": 1736946320,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 639436,
@@ -441,6 +441,14 @@
       "onboard_time": 1736900118,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 593441,
+      "num": 593441,
+      "word": "小红书2天新增超70万用户",
+      "onboard_time": 1736936540,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 587817,
@@ -513,14 +521,6 @@
       "onboard_time": 1736938281,
       "rank": 32,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 538128,
-      "num": 538128,
-      "word": "小红书2天新增超70万用户",
-      "onboard_time": 1736936540,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 537119,
@@ -731,6 +731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 375148,
+      "num": 375148,
+      "word": "难哄",
+      "onboard_time": 1736944999,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 367179,
       "num": 367179,
       "word": "国色芳华 观众比女主更依赖男主",
@@ -779,20 +787,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 330712,
+      "num": 330712,
+      "word": "苏醒 住宿条件断崖式下降",
+      "onboard_time": 1736945900,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 328005,
       "num": 578018,
       "word": "尹锡悦将接受调查",
       "onboard_time": 1736917400,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 327765,
-      "num": 327765,
-      "word": "难哄",
-      "onboard_time": 1736944999,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 325634,
@@ -808,6 +816,14 @@
       "word": "国色芳华头饰3秒镜头花30天制作",
       "onboard_time": 1736932460,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 319046,
+      "num": 319046,
+      "word": "陈小纭大奉拽妃",
+      "onboard_time": 1736946559,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -843,6 +859,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 307447,
+      "num": 307447,
+      "word": "公安机关全力协调解救境外被困人员",
+      "onboard_time": 1736946259,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 305376,
       "num": 305376,
       "word": "陈哲远 轻飘飘的一句话造就神图",
@@ -857,14 +881,6 @@
       "onboard_time": 1736899878,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 304307,
-      "num": 304307,
-      "word": "公安机关全力协调解救境外被困人员",
-      "onboard_time": 1736946259,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 298228,
@@ -915,14 +931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 286020,
-      "num": 286020,
-      "word": "苏醒 住宿条件断崖式下降",
-      "onboard_time": 1736945900,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 284994,
       "num": 306082,
       "word": "董洁国色芳华出场镜头",
@@ -931,16 +939,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 280300,
-      "num": 247404,
-      "word": "陈小纭大奉拽妃",
-      "onboard_time": 1736946559,
-      "rank": 23,
-      "category": "剧集"
+      "raw_hot": 284447,
+      "num": 284447,
+      "word": "你皮肤不好真有可能是饮食问题",
+      "onboard_time": 1736944877,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 280291,
-      "num": 244578,
+      "num": 251205,
       "word": "李威经纪人回应杀人案",
       "onboard_time": 1736942358,
       "rank": 23,
@@ -1024,14 +1032,6 @@
       "word": "男子发烧2天吃8颗布洛芬致肾脏受损",
       "onboard_time": 1736934078,
       "rank": 44,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 257161,
-      "num": 242868,
-      "word": "你皮肤不好真有可能是饮食问题",
-      "onboard_time": 1736944877,
-      "rank": 38,
       "category": "健康医疗"
     },
     {
@@ -1371,6 +1371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192523,
+      "num": 192523,
+      "word": "王鹤棣田曦薇新剧转角遇到爱",
+      "onboard_time": 1736947879,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192357,
       "num": 192357,
       "word": "牺牲前他说请同事吃娃娃百天宴",
@@ -1449,6 +1457,14 @@
       "onboard_time": 1736874134,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 187108,
+      "num": 187108,
+      "word": "夺娶",
+      "onboard_time": 1736944699,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 186974,
@@ -1571,6 +1587,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172944,
+      "num": 172944,
+      "word": "陈立农现身湾区春晚",
+      "onboard_time": 1736945237,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 171670,
+      "num": 171670,
+      "word": "外国人用中文买东西有多搞笑",
+      "onboard_time": 1736944877,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171594,
       "num": 171594,
       "word": "白起新皮肤苍鳞隐世",
@@ -1617,14 +1649,6 @@
       "onboard_time": 1736926637,
       "rank": 34,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 167295,
-      "num": 167295,
-      "word": "夺娶",
-      "onboard_time": 1736944699,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 166378,
@@ -1843,14 +1867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 147283,
-      "num": 147283,
-      "word": "陈立农现身湾区春晚",
-      "onboard_time": 1736945237,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 146903,
       "num": 146903,
       "word": "阴阳师",
@@ -1881,14 +1897,6 @@
       "onboard_time": 1736919499,
       "rank": 45,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 145447,
-      "num": 145447,
-      "word": "外国人用中文买东西有多搞笑",
-      "onboard_time": 1736944877,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 145012,
@@ -1952,6 +1960,14 @@
       "word": "反复啃指甲是种心理障碍",
       "onboard_time": 1736860939,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135983,
+      "num": 1021757,
+      "word": "那些你不知道的北京地儿",
+      "onboard_time": 1736946858,
+      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -2041,6 +2057,14 @@
       "onboard_time": 1736934438,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129377,
+      "num": 194980,
+      "word": "杨紫申请强制黑粉道歉",
+      "onboard_time": 1736948118,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 129349,
@@ -2337,6 +2361,14 @@
       "onboard_time": 1736862860,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109996,
+      "num": 109996,
+      "word": "李宁成为中国奥委会官方合作伙伴",
+      "onboard_time": 1736947279,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 109762,
@@ -2659,6 +2691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75996,
+      "num": 308237,
+      "word": "蛟龙行动全员剃蛟龙头",
+      "onboard_time": 1736947519,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 74660,
       "num": 931443,
       "word": "新疆一万年前的滑雪Plog",
@@ -2763,6 +2803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 67951,
+      "num": 341243,
+      "word": "春节档电影海报上新",
+      "onboard_time": 1736947519,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 66875,
       "num": 975717,
       "word": "春运人潮中最让人安心的身影",
@@ -2811,14 +2859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 59571,
-      "num": 176702,
-      "word": "蛟龙行动全员剃蛟龙头",
-      "onboard_time": 1736947519,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 59260,
       "num": 59260,
       "word": "好莱坞资深女星命丧山火",
@@ -2833,14 +2873,6 @@
       "onboard_time": 1736869518,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 56668,
-      "num": 1009066,
-      "word": "那些你不知道的北京地儿",
-      "onboard_time": 1736946858,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 56140,
@@ -2881,14 +2913,6 @@
       "onboard_time": 1736893272,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 49924,
-      "num": 181541,
-      "word": "春节档电影海报上新",
-      "onboard_time": 1736947519,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 46915,

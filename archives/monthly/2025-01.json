@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736947580728,
+  "endTime": 1736948284039,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1443,6 +1443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1761821,
+      "num": 1009581,
+      "word": "TikTok难民来啦",
+      "onboard_time": 1736944098,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1760610,
       "num": 1760610,
       "word": "青海玛多县5.5级地震",
@@ -1857,14 +1865,6 @@
       "onboard_time": 1736836819,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1579673,
-      "num": 998285,
-      "word": "TikTok难民来啦",
-      "onboard_time": 1736944098,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1575211,
@@ -5875,6 +5875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 734277,
+      "num": 734277,
+      "word": "丁禹兮回应虞书欣祝绪丹杨仕泽",
+      "onboard_time": 1736946320,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 733892,
       "num": 471681,
       "word": "迪丽热巴突然出现拍了拍大家",
@@ -5964,7 +5972,7 @@
     },
     {
       "raw_hot": 728280,
-      "num": 264265,
+      "num": 291239,
       "word": "女子把年假当年会奖励被公司开除",
       "onboard_time": 1736931259,
       "rank": 21,
@@ -6955,14 +6963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 648173,
-      "num": 648173,
-      "word": "丁禹兮回应虞书欣祝绪丹杨仕泽",
-      "onboard_time": 1736946320,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 647671,
       "num": 647671,
       "word": "香港元朗突发山火",
@@ -7753,6 +7753,14 @@
       "onboard_time": 1736900118,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 593441,
+      "num": 593441,
+      "word": "小红书2天新增超70万用户",
+      "onboard_time": 1736936540,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 593233,
@@ -8576,14 +8584,6 @@
       "word": "刘强东母亲夸赞章泽天买的新衣",
       "onboard_time": 1736514021,
       "rank": 21,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 538128,
-      "num": 538128,
-      "word": "小红书2天新增超70万用户",
-      "onboard_time": 1736936540,
-      "rank": 48,
       "category": "互联网"
     },
     {
@@ -13691,6 +13691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 330712,
+      "num": 330712,
+      "word": "苏醒 住宿条件断崖式下降",
+      "onboard_time": 1736945900,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 330592,
       "num": 330592,
       "word": "无名的人还是得毛不易唱",
@@ -14203,6 +14211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 319046,
+      "num": 319046,
+      "word": "陈小纭大奉拽妃",
+      "onboard_time": 1736946559,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 318945,
       "num": 318945,
       "word": "Faker疑似恋爱",
@@ -14675,6 +14691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 307447,
+      "num": 307447,
+      "word": "公安机关全力协调解救境外被困人员",
+      "onboard_time": 1736946259,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 307414,
       "num": 238778,
       "word": "13薪和年终奖是有区别的",
@@ -14769,14 +14793,6 @@
       "onboard_time": 1736394741,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 304307,
-      "num": 304307,
-      "word": "公安机关全力协调解救境外被困人员",
-      "onboard_time": 1736946259,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 304298,
@@ -15699,14 +15715,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 286020,
-      "num": 286020,
-      "word": "苏醒 住宿条件断崖式下降",
-      "onboard_time": 1736945900,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 285877,
       "num": 225372,
       "word": "国考成绩可查",
@@ -15753,6 +15761,14 @@
       "onboard_time": 1736391799,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 284447,
+      "num": 284447,
+      "word": "你皮肤不好真有可能是饮食问题",
+      "onboard_time": 1736944877,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 284428,
@@ -15971,16 +15987,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 280300,
-      "num": 247404,
-      "word": "陈小纭大奉拽妃",
-      "onboard_time": 1736946559,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 280291,
-      "num": 244578,
+      "num": 251205,
       "word": "李威经纪人回应杀人案",
       "onboard_time": 1736942358,
       "rank": 23,
@@ -17257,14 +17265,6 @@
       "onboard_time": 1736657659,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 257161,
-      "num": 242868,
-      "word": "你皮肤不好真有可能是饮食问题",
-      "onboard_time": 1736944877,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 256810,
@@ -23747,6 +23747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192523,
+      "num": 192523,
+      "word": "王鹤棣田曦薇新剧转角遇到爱",
+      "onboard_time": 1736947879,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192357,
       "num": 192357,
       "word": "牺牲前他说请同事吃娃娃百天宴",
@@ -24752,6 +24760,14 @@
       "word": "了不起的曹萱萱定档",
       "onboard_time": 1736485161,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 187108,
+      "num": 187108,
+      "word": "夺娶",
+      "onboard_time": 1736944699,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -26803,6 +26819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172944,
+      "num": 172944,
+      "word": "陈立农现身湾区春晚",
+      "onboard_time": 1736945237,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172942,
       "num": 172942,
       "word": "肖战新年私信",
@@ -27025,6 +27049,14 @@
       "onboard_time": 1736485282,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171670,
+      "num": 171670,
+      "word": "外国人用中文买东西有多搞笑",
+      "onboard_time": 1736944877,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 171660,
@@ -27801,14 +27833,6 @@
       "onboard_time": 1735975940,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167295,
-      "num": 167295,
-      "word": "夺娶",
-      "onboard_time": 1736944699,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 167207,
@@ -31283,14 +31307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147283,
-      "num": 147283,
-      "word": "陈立农现身湾区春晚",
-      "onboard_time": 1736945237,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 147266,
       "num": 709138,
       "word": "合格车被车检黄牛整出5个故障",
@@ -31584,14 +31600,6 @@
       "word": "失业回家骗妈妈自己在干吃播",
       "onboard_time": 1736400142,
       "rank": 41,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 145447,
-      "num": 145447,
-      "word": "外国人用中文买东西有多搞笑",
-      "onboard_time": 1736944877,
-      "rank": 44,
       "category": "幽默"
     },
     {
@@ -33355,6 +33363,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 135983,
+      "num": 1062200,
+      "word": "那些你不知道的北京地儿",
+      "onboard_time": 1736414242,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135925,
       "num": 383904,
       "word": "你好2025",
@@ -34601,6 +34617,14 @@
       "onboard_time": 1736934438,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129377,
+      "num": 194980,
+      "word": "杨紫申请强制黑粉道歉",
+      "onboard_time": 1736948118,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 129373,
@@ -37865,6 +37889,14 @@
       "onboard_time": 1736677698,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 109996,
+      "num": 109996,
+      "word": "李宁成为中国奥委会官方合作伙伴",
+      "onboard_time": 1736947279,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 109889,
@@ -41371,6 +41403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 75996,
+      "num": 308237,
+      "word": "蛟龙行动全员剃蛟龙头",
+      "onboard_time": 1736947519,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 75985,
       "num": 138998,
       "word": "英雄联盟2025赛季影片",
@@ -41584,14 +41624,6 @@
       "word": "2025继续Passion",
       "onboard_time": 1736007034,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 73593,
-      "num": 1062200,
-      "word": "那些你不知道的北京地儿",
-      "onboard_time": 1736414242,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -42057,6 +42089,14 @@
       "onboard_time": 1736670257,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67951,
+      "num": 341243,
+      "word": "春节档电影海报上新",
+      "onboard_time": 1736947519,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 67936,
@@ -42873,14 +42913,6 @@
       "onboard_time": 1736493681,
       "rank": 14,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 59571,
-      "num": 176702,
-      "word": "蛟龙行动全员剃蛟龙头",
-      "onboard_time": 1736947519,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 59510,
@@ -44073,14 +44105,6 @@
       "onboard_time": 1736305881,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 49924,
-      "num": 181541,
-      "word": "春节档电影海报上新",
-      "onboard_time": 1736947519,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 49857,

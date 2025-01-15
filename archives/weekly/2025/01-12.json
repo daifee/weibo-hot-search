@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736947580728,
+  "endTime": 1736948284039,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -211,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1761821,
+      "num": 1009581,
+      "word": "TikTok难民来啦",
+      "onboard_time": 1736944098,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1712484,
       "num": 1712484,
       "word": "贵人鸟正式更名金鹤农业",
@@ -337,14 +345,6 @@
       "onboard_time": 1736836819,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1579673,
-      "num": 998285,
-      "word": "TikTok难民来啦",
-      "onboard_time": 1736944098,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1574790,
@@ -1395,6 +1395,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 734277,
+      "num": 734277,
+      "word": "丁禹兮回应虞书欣祝绪丹杨仕泽",
+      "onboard_time": 1736946320,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 732967,
       "num": 732967,
       "word": "警方通报120打三次不通两度打110",
@@ -1436,7 +1444,7 @@
     },
     {
       "raw_hot": 728280,
-      "num": 264265,
+      "num": 291239,
       "word": "女子把年假当年会奖励被公司开除",
       "onboard_time": 1736931259,
       "rank": 21,
@@ -1755,14 +1763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 648173,
-      "num": 648173,
-      "word": "丁禹兮回应虞书欣祝绪丹杨仕泽",
-      "onboard_time": 1736946320,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 647671,
       "num": 647671,
       "word": "香港元朗突发山火",
@@ -2003,6 +2003,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 593441,
+      "num": 593441,
+      "word": "小红书2天新增超70万用户",
+      "onboard_time": 1736936540,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 590504,
       "num": 1080363,
       "word": "奥司他韦吃多了会耐药吗",
@@ -2193,14 +2201,6 @@
       "onboard_time": 1736938281,
       "rank": 32,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 538128,
-      "num": 538128,
-      "word": "小红书2天新增超70万用户",
-      "onboard_time": 1736936540,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 537119,
@@ -3115,6 +3115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 375148,
+      "num": 375148,
+      "word": "难哄",
+      "onboard_time": 1736944999,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 373460,
       "num": 373460,
       "word": "雷军解锁泼水成冰",
@@ -3435,6 +3443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 330712,
+      "num": 330712,
+      "word": "苏醒 住宿条件断崖式下降",
+      "onboard_time": 1736945900,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 330082,
       "num": 330082,
       "word": "白鹿敖瑞鹏把cp粉钓成翘嘴了",
@@ -3489,14 +3505,6 @@
       "onboard_time": 1736917400,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 327765,
-      "num": 327765,
-      "word": "难哄",
-      "onboard_time": 1736944999,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 326448,
@@ -3592,6 +3600,14 @@
       "word": "孙俪 凤凰于飞",
       "onboard_time": 1736647220,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 319046,
+      "num": 319046,
+      "word": "陈小纭大奉拽妃",
+      "onboard_time": 1736946559,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -3723,6 +3739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 307447,
+      "num": 307447,
+      "word": "公安机关全力协调解救境外被困人员",
+      "onboard_time": 1736946259,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 305376,
       "num": 305376,
       "word": "陈哲远 轻飘飘的一句话造就神图",
@@ -3745,14 +3769,6 @@
       "onboard_time": 1736648599,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 304307,
-      "num": 304307,
-      "word": "公安机关全力协调解救境外被困人员",
-      "onboard_time": 1736946259,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 303218,
@@ -3955,14 +3971,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 286020,
-      "num": 286020,
-      "word": "苏醒 住宿条件断崖式下降",
-      "onboard_time": 1736945900,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 285877,
       "num": 225372,
       "word": "国考成绩可查",
@@ -3977,6 +3985,14 @@
       "onboard_time": 1736903059,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 284447,
+      "num": 284447,
+      "word": "你皮肤不好真有可能是饮食问题",
+      "onboard_time": 1736944877,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 283752,
@@ -4011,16 +4027,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 280300,
-      "num": 247404,
-      "word": "陈小纭大奉拽妃",
-      "onboard_time": 1736946559,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 280291,
-      "num": 244578,
+      "num": 251205,
       "word": "李威经纪人回应杀人案",
       "onboard_time": 1736942358,
       "rank": 23,
@@ -4377,14 +4385,6 @@
       "onboard_time": 1736657659,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 257161,
-      "num": 242868,
-      "word": "你皮肤不好真有可能是饮食问题",
-      "onboard_time": 1736944877,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 255996,
@@ -6091,6 +6091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192523,
+      "num": 192523,
+      "word": "王鹤棣田曦薇新剧转角遇到爱",
+      "onboard_time": 1736947879,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192357,
       "num": 192357,
       "word": "牺牲前他说请同事吃娃娃百天宴",
@@ -6361,6 +6369,14 @@
       "onboard_time": 1736672839,
       "rank": 29,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 187108,
+      "num": 187108,
+      "word": "夺娶",
+      "onboard_time": 1736944699,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 186974,
@@ -7003,6 +7019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172944,
+      "num": 172944,
+      "word": "陈立农现身湾区春晚",
+      "onboard_time": 1736945237,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172894,
       "num": 172894,
       "word": "林一生日会",
@@ -7081,6 +7105,14 @@
       "onboard_time": 1736835919,
       "rank": 41,
       "category": "体育,民生新闻"
+    },
+    {
+      "raw_hot": 171670,
+      "num": 171670,
+      "word": "外国人用中文买东西有多搞笑",
+      "onboard_time": 1736944877,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 171594,
@@ -7289,14 +7321,6 @@
       "onboard_time": 1736690902,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 167295,
-      "num": 167295,
-      "word": "夺娶",
-      "onboard_time": 1736944699,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 167062,
@@ -8291,14 +8315,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 147283,
-      "num": 147283,
-      "word": "陈立农现身湾区春晚",
-      "onboard_time": 1736945237,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 147229,
       "num": 147229,
       "word": "李昀锐登顶12月微博演员热度报告",
@@ -8401,14 +8417,6 @@
       "onboard_time": 1736641760,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 145447,
-      "num": 145447,
-      "word": "外国人用中文买东西有多搞笑",
-      "onboard_time": 1736944877,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 145438,
@@ -8875,6 +8883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 135983,
+      "num": 1021757,
+      "word": "那些你不知道的北京地儿",
+      "onboard_time": 1736946858,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135847,
       "num": 135847,
       "word": "张康乐马柏全比心合照",
@@ -9289,6 +9305,14 @@
       "onboard_time": 1736934438,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129377,
+      "num": 194980,
+      "word": "杨紫申请强制黑粉道歉",
+      "onboard_time": 1736948118,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 129226,
@@ -10443,6 +10467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 109996,
+      "num": 109996,
+      "word": "李宁成为中国奥委会官方合作伙伴",
+      "onboard_time": 1736947279,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109762,
       "num": 109762,
       "word": "脱粉收容所被罚款2亿",
@@ -11459,6 +11491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75996,
+      "num": 308237,
+      "word": "蛟龙行动全员剃蛟龙头",
+      "onboard_time": 1736947519,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 75740,
       "num": 206346,
       "word": "中国姑娘在维也纳金色大厅吹唢呐",
@@ -11625,6 +11665,14 @@
       "onboard_time": 1736670257,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67951,
+      "num": 341243,
+      "word": "春节档电影海报上新",
+      "onboard_time": 1736947519,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 67621,
@@ -11835,14 +11883,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 59571,
-      "num": 176702,
-      "word": "蛟龙行动全员剃蛟龙头",
-      "onboard_time": 1736947519,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 59260,
       "num": 59260,
       "word": "好莱坞资深女星命丧山火",
@@ -11897,14 +11937,6 @@
       "onboard_time": 1736836939,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 56668,
-      "num": 1009066,
-      "word": "那些你不知道的北京地儿",
-      "onboard_time": 1736946858,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 56140,
@@ -12161,14 +12193,6 @@
       "onboard_time": 1736616797,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 49924,
-      "num": 181541,
-      "word": "春节档电影海报上新",
-      "onboard_time": 1736947519,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 49703,
