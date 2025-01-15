@@ -1,6 +1,6 @@
 {
   "startTime": 1736958421212,
-  "endTime": 1736958421212,
+  "endTime": 1736959274362,
   "band_list": [
     {
       "raw_hot": 1581563,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 962290,
-      "num": 361479,
+      "num": 363415,
       "word": "黄轩回应公开女友",
       "onboard_time": 1736952020,
       "rank": 10,
@@ -43,12 +43,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 385206,
+      "num": 385206,
+      "word": "泡泡玛特不再希望成为中国迪士尼",
+      "onboard_time": 1736957357,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 380397,
       "num": 380397,
       "word": "国色芳华收视率",
       "onboard_time": 1736953879,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 363411,
+      "num": 363411,
+      "word": "包小柏AI女儿近况",
+      "onboard_time": 1736957657,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 356254,
@@ -92,7 +108,7 @@
     },
     {
       "raw_hot": 292478,
-      "num": 372255,
+      "num": 374246,
       "word": "3岁男童独自在家睡梦中被烧成重伤",
       "onboard_time": 1736945298,
       "rank": 8,
@@ -113,14 +129,6 @@
       "onboard_time": 1736938879,
       "rank": 14,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 235579,
-      "num": 93122,
-      "word": "包小柏AI女儿近况",
-      "onboard_time": 1736957657,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 201113,
@@ -171,14 +179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150699,
-      "num": 150699,
-      "word": "泡泡玛特不再希望成为中国迪士尼",
-      "onboard_time": 1736957357,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 135761,
       "num": 135761,
       "word": "下一个TikTok还是中国产",
@@ -225,6 +225,14 @@
       "onboard_time": 1736955079,
       "rank": 31,
       "category": "剧集,体育"
+    },
+    {
+      "raw_hot": 102242,
+      "num": 102242,
+      "word": "燕云十六声",
+      "onboard_time": 1736958375,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 95485,
@@ -307,6 +315,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 70500,
+      "num": 366514,
+      "word": "1月20日起买手机最高补500元",
+      "onboard_time": 1736956998,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 70177,
       "num": 70177,
       "word": "尹锡悦午餐盒饭晚餐大酱汤夜里拘留所",
@@ -331,14 +347,6 @@
       "category": "剧集,艺人"
     },
     {
-      "raw_hot": 66634,
-      "num": 366514,
-      "word": "1月20日起买手机最高补500元",
-      "onboard_time": 1736956998,
-      "rank": 9,
-      "category": "数码"
-    },
-    {
       "raw_hot": 65998,
       "num": 69816,
       "word": "苏醒 住宿条件断崖式下降",
@@ -353,14 +361,6 @@
       "onboard_time": 1736924179,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 64002,
-      "num": 69815,
-      "word": "燕云十六声",
-      "onboard_time": 1736958375,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 63097,
@@ -392,6 +392,38 @@
       "word": "杨紫申请强制黑粉道歉",
       "onboard_time": 1736948118,
       "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 57905,
+      "num": 57905,
+      "word": "周震南在海南春晚当摄影师",
+      "onboard_time": 1736958016,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 53962,
+      "num": 53962,
+      "word": "肖战射雕稀有卡",
+      "onboard_time": 1736948719,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 53903,
+      "num": 53903,
+      "word": "2024年华晨宇十佳造型",
+      "onboard_time": 1736959123,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 37932,
+      "num": 369039,
+      "word": "赵露思活动参与者需持邀请函",
+      "onboard_time": 1736959035,
+      "rank": 9,
       "category": "艺人"
     },
     {
