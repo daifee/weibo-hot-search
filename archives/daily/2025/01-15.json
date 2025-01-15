@@ -1,6 +1,6 @@
 {
   "startTime": 1736872066671,
-  "endTime": 1736905222878,
+  "endTime": 1736906187001,
   "band_list": [
     {
       "raw_hot": 3396289,
@@ -11,12 +11,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1603742,
-      "num": 316149,
+      "raw_hot": 1665912,
+      "num": 398724,
       "word": "谢娜李小冉闹掰的原因",
       "onboard_time": 1736897897,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1283909,
+      "num": 1283909,
+      "word": "青簪行",
+      "onboard_time": 1736904617,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 819555,
@@ -27,20 +35,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 791062,
+      "num": 471549,
+      "word": "刘晓庆迟到两个多钟头",
+      "onboard_time": 1736898437,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 773994,
       "num": 918908,
       "word": "婆婆谎称是死胎把孩子送人或涉拐骗",
       "onboard_time": 1736868618,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 767289,
-      "num": 471549,
-      "word": "刘晓庆迟到两个多钟头",
-      "onboard_time": 1736898437,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 630130,
@@ -59,6 +67,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 593539,
+      "num": 593539,
+      "word": "尹锡悦或将自行走出总统官邸",
+      "onboard_time": 1736900118,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 587732,
       "num": 587732,
       "word": "可是为什么我插针都插不入",
@@ -75,20 +91,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 552306,
-      "num": 315876,
+      "raw_hot": 554971,
+      "num": 395181,
       "word": "Angelababy卷发挑染",
       "onboard_time": 1736898617,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 491451,
-      "num": 491451,
-      "word": "尹锡悦或将自行走出总统官邸",
-      "onboard_time": 1736900118,
-      "rank": 1,
-      "category": "国际时政"
     },
     {
       "raw_hot": 472364,
@@ -99,12 +107,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 407916,
-      "num": 407916,
-      "word": "青簪行",
-      "onboard_time": 1736904617,
-      "rank": 7,
-      "category": "剧集"
+      "raw_hot": 451865,
+      "num": 451865,
+      "word": "韩国29吨核废液排海影响有多大",
+      "onboard_time": 1736902399,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 443122,
+      "num": 443122,
+      "word": "吉林大爷救助游客反遭诬陷有出入",
+      "onboard_time": 1736902338,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 403026,
@@ -115,20 +131,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 381626,
+      "num": 381626,
+      "word": "江苏省考成绩",
+      "onboard_time": 1736904978,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 356428,
+      "num": 356428,
+      "word": "尹锡悦",
+      "onboard_time": 1736903717,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 343404,
       "num": 343404,
       "word": "繁花成员围攻刘晓庆",
       "onboard_time": 1736896634,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 316913,
-      "num": 316913,
-      "word": "江苏省考成绩",
-      "onboard_time": 1736904978,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 315362,
@@ -163,14 +187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 287358,
-      "num": 287358,
-      "word": "吉林大爷救助游客反遭诬陷有出入",
-      "onboard_time": 1736902338,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 278532,
       "num": 272209,
       "word": "向佐自曝小学时因父母身份被霸凌",
@@ -179,12 +195,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 274542,
+      "num": 217396,
+      "word": "因为晕碳戒掉了熬夜",
+      "onboard_time": 1736904978,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 270284,
       "num": 270284,
       "word": "田曦薇比30000",
       "onboard_time": 1736862980,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 266465,
+      "num": 266465,
+      "word": "张婧仪骨相",
+      "onboard_time": 1736901920,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 255996,
@@ -243,12 +275,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 230879,
-      "num": 230879,
-      "word": "张婧仪骨相",
-      "onboard_time": 1736901920,
-      "rank": 18,
-      "category": "作品衍生"
+      "raw_hot": 228828,
+      "num": 228828,
+      "word": "下下周三是第一个非遗春节",
+      "onboard_time": 1736903479,
+      "rank": 32,
+      "category": "正能量"
     },
     {
       "raw_hot": 228729,
@@ -275,14 +307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 208551,
-      "num": 232730,
-      "word": "韩国29吨核废液排海影响有多大",
-      "onboard_time": 1736902399,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 207875,
       "num": 207875,
       "word": "山姆大代购赚的不止代购费",
@@ -305,6 +329,14 @@
       "onboard_time": 1736904918,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 203271,
+      "num": 217714,
+      "word": "董洁国色芳华出场镜头",
+      "onboard_time": 1736903059,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 196694,
@@ -411,12 +443,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157707,
-      "num": 157707,
-      "word": "下下周三是第一个非遗春节",
-      "onboard_time": 1736903479,
-      "rank": 32,
-      "category": "正能量"
+      "raw_hot": 158321,
+      "num": 158321,
+      "word": "抓捕尹锡悦行动中有人受伤",
+      "onboard_time": 1736904918,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 157450,
@@ -433,14 +465,6 @@
       "onboard_time": 1736901920,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 156677,
-      "num": 178484,
-      "word": "董洁国色芳华出场镜头",
-      "onboard_time": 1736903059,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 155385,
@@ -475,6 +499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 145678,
+      "num": 145678,
+      "word": "俄罗斯留学5年的真实经历",
+      "onboard_time": 1736904260,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 144642,
       "num": 144642,
       "word": "周深听到要他演戏时的表情",
@@ -483,12 +515,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141631,
-      "num": 141631,
-      "word": "因为晕碳戒掉了熬夜",
+      "raw_hot": 139319,
+      "num": 139319,
+      "word": "百万人陪郑钦文早八",
       "onboard_time": 1736904978,
-      "rank": 38,
-      "category": "情感"
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 139261,
@@ -507,14 +539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 131120,
-      "num": 131120,
-      "word": "百万人陪郑钦文早八",
-      "onboard_time": 1736904978,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 129349,
       "num": 129349,
       "word": "家属称景德镇车祸死者父母重度抑郁",
@@ -529,14 +553,6 @@
       "onboard_time": 1736901139,
       "rank": 40,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 126623,
-      "num": 126623,
-      "word": "抓捕尹锡悦行动中有人受伤",
-      "onboard_time": 1736904918,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 125102,
@@ -571,28 +587,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118736,
-      "num": 118736,
-      "word": "俄罗斯留学5年的真实经历",
-      "onboard_time": 1736904260,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 117736,
       "num": 117736,
       "word": "女星因老公去世删光社交动态",
       "onboard_time": 1736864420,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 116773,
-      "num": 116773,
-      "word": "尹锡悦",
-      "onboard_time": 1736903717,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 111223,
@@ -625,6 +625,30 @@
       "onboard_time": 1736875393,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102759,
+      "num": 102759,
+      "word": "千万别惹一个疲惫的人",
+      "onboard_time": 1736903479,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 102644,
+      "num": 102644,
+      "word": "警方通报吉林老人救助游客反遭诬陷",
+      "onboard_time": 1736903419,
+      "rank": 46,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 102630,
+      "num": 102630,
+      "word": "韩总统警卫处次长金成勋被捕",
+      "onboard_time": 1736906058,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 98049,
