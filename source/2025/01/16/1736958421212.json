@@ -1,0 +1,410 @@
+{
+  "runTime": 1736958421212,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1581563,
+        "num": 1581563,
+        "word": "宋仲基因为电影扑街哭了",
+        "onboard_time": 1736957357,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 652540,
+        "num": 652540,
+        "word": "6000元以下手机补贴最终价格的15%",
+        "onboard_time": 1736948599,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 36427,
+        "num": 595757,
+        "word": "那些你不知道的北京地儿",
+        "onboard_time": 1736946858,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 566422,
+        "num": 566422,
+        "word": "小红书2天新增超70万用户",
+        "onboard_time": 1736936540,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 321784,
+        "num": 430230,
+        "word": "洛杉矶富人有钱能让山火改道",
+        "onboard_time": 1736925798,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 612138,
+        "num": 409032,
+        "word": "放羊的星星男演员卷入杀人案",
+        "onboard_time": 1736935939,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380397,
+        "num": 380397,
+        "word": "国色芳华收视率",
+        "onboard_time": 1736953879,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340995,
+        "num": 374661,
+        "word": "刘晓庆说她一个月生不了一次气",
+        "onboard_time": 1736952620,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292478,
+        "num": 372255,
+        "word": "3岁男童独自在家睡梦中被烧成重伤",
+        "onboard_time": 1736945298,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66634,
+        "num": 366514,
+        "word": "1月20日起买手机最高补500元",
+        "onboard_time": 1736956998,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 962290,
+        "num": 361479,
+        "word": "黄轩回应公开女友",
+        "onboard_time": 1736952020,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356254,
+        "num": 356254,
+        "word": "TikTok难民来啦",
+        "onboard_time": 1736944098,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 356102,
+        "num": 356102,
+        "word": "外媒称TikTok将硬刚美国禁令",
+        "onboard_time": 1736938281,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 298473,
+        "num": 298473,
+        "word": "丁禹兮回应虞书欣祝绪丹杨仕泽",
+        "onboard_time": 1736946320,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235904,
+        "num": 235904,
+        "word": "泰国为刺激旅游业批准赌博合法化",
+        "onboard_time": 1736938879,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 201113,
+        "num": 201113,
+        "word": "唐嫣超短发造型",
+        "onboard_time": 1736954658,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194925,
+        "num": 194925,
+        "word": "华春莹卸任外交部发言人",
+        "onboard_time": 1736942897,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 190822,
+        "num": 190822,
+        "word": "美被提名防长一个东盟国家都没说对",
+        "onboard_time": 1736953879,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162310,
+        "num": 162310,
+        "word": "内心强大的人有这4种特质",
+        "onboard_time": 1736956339,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151928,
+        "num": 151928,
+        "word": "难哄",
+        "onboard_time": 1736944999,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243460,
+        "num": 151573,
+        "word": "赵露思疑似将复工",
+        "onboard_time": 1736922259,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162455,
+        "num": 151256,
+        "word": "女子把年假当年会奖励被公司开除",
+        "onboard_time": 1736931259,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150699,
+        "num": 150699,
+        "word": "泡泡玛特不再希望成为中国迪士尼",
+        "onboard_time": 1736957357,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135761,
+        "num": 135761,
+        "word": "下一个TikTok还是中国产",
+        "onboard_time": 1736942718,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 128248,
+        "num": 128248,
+        "word": "李现最近又爱上了小烧烤",
+        "onboard_time": 1736949080,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128050,
+        "num": 128050,
+        "word": "你皮肤不好真有可能是饮食问题",
+        "onboard_time": 1736944877,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117491,
+        "num": 117491,
+        "word": "国色芳华 我就说不加更会出事吧",
+        "onboard_time": 1736940918,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111624,
+        "num": 111624,
+        "word": "周峻纬新剧疯批演技",
+        "onboard_time": 1736953640,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95485,
+        "num": 95485,
+        "word": "陈立农现身湾区春晚",
+        "onboard_time": 1736945237,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93679,
+        "num": 93679,
+        "word": "专家预测10年内可边睡觉边开车",
+        "onboard_time": 1736953579,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235579,
+        "num": 93122,
+        "word": "包小柏AI女儿近况",
+        "onboard_time": 1736957657,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110882,
+        "num": 92984,
+        "word": "李现叶诗文这是什么梦幻联动",
+        "onboard_time": 1736955079,
+        "rank": 31,
+        "category": "剧集,体育"
+      },
+      {
+        "raw_hot": 95035,
+        "num": 92967,
+        "word": "李威经纪人回应杀人案",
+        "onboard_time": 1736942358,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92156,
+        "num": 92156,
+        "word": "婚前房产为另一方加名若离婚归谁",
+        "onboard_time": 1736950280,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89129,
+        "num": 89129,
+        "word": "职业本科与高职专科普通本科有啥区别",
+        "onboard_time": 1736956757,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 86143,
+        "num": 86143,
+        "word": "黄子韬送车被标价1万到6万转卖",
+        "onboard_time": 1736951361,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85199,
+        "num": 85199,
+        "word": "美国网友向中国网友求助数学题",
+        "onboard_time": 1736949798,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 83164,
+        "num": 83164,
+        "word": "公安机关全力协调解救境外被困人员",
+        "onboard_time": 1736946259,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82968,
+        "num": 82968,
+        "word": "iPhone17或新增散热器件",
+        "onboard_time": 1736952380,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 73043,
+        "num": 73043,
+        "word": "今年五福有29套福卡",
+        "onboard_time": 1736948539,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 70177,
+        "num": 70177,
+        "word": "尹锡悦午餐盒饭晚餐大酱汤夜里拘留所",
+        "onboard_time": 1736948599,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 69816,
+        "num": 69816,
+        "word": "陈哲远 轻飘飘的一句话造就神图",
+        "onboard_time": 1736943077,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 67124,
+        "num": 69816,
+        "word": "李昀锐谈九重紫成绩",
+        "onboard_time": 1736951419,
+        "rank": 42,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 65998,
+        "num": 69816,
+        "word": "苏醒 住宿条件断崖式下降",
+        "onboard_time": 1736945900,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64104,
+        "num": 69815,
+        "word": "郑钦文被扣1230分",
+        "onboard_time": 1736924179,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64002,
+        "num": 69815,
+        "word": "燕云十六声",
+        "onboard_time": 1736958375,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 63097,
+        "num": 69815,
+        "word": "孟子义是不是忘了妈妈的话",
+        "onboard_time": 1736940438,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 62652,
+        "num": 69815,
+        "word": "抬头看到XXXL号大月亮",
+        "onboard_time": 1736958316,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 61803,
+        "num": 69814,
+        "word": "赵小童限时回归一下大学生活",
+        "onboard_time": 1736956998,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60923,
+        "num": 69814,
+        "word": "杨紫申请强制黑粉道歉",
+        "onboard_time": 1736948118,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同越共中央总书记苏林通电话#"
+    }
+  }
+}
