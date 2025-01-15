@@ -1,0 +1,410 @@
+{
+  "runTime": 1736918513653,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2284602,
+        "num": 2284602,
+        "word": "泰国考虑对电诈园区断电断网",
+        "onboard_time": 1736914699,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1372126,
+        "num": 1372126,
+        "word": "字节跳动100元标餐的免费三餐",
+        "onboard_time": 1736914639,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 181376,
+        "num": 1242004,
+        "word": "过年回家的意义在此刻具象化了",
+        "onboard_time": 1736910738,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1114041,
+        "num": 1114041,
+        "word": "刘晓庆大方承认自己的错误",
+        "onboard_time": 1736908219,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 874066,
+        "num": 874066,
+        "word": "美国网友涌入小红书交猫税",
+        "onboard_time": 1736909359,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 777698,
+        "num": 777698,
+        "word": "尹锡悦不打领带录视频讲话",
+        "onboard_time": 1736913379,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 727706,
+        "num": 727706,
+        "word": "尹锡悦被逮捕",
+        "onboard_time": 1736900118,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 675842,
+        "num": 675842,
+        "word": "向太第一期不敢说话的原因",
+        "onboard_time": 1736916259,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 640740,
+        "num": 640740,
+        "word": "4岁女童被爸爸带着跳楼捡回一命",
+        "onboard_time": 1736913619,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328005,
+        "num": 578018,
+        "word": "尹锡悦将接受调查",
+        "onboard_time": 1736917400,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 777335,
+        "num": 572795,
+        "word": "谢娜李小冉闹掰的原因",
+        "onboard_time": 1736897897,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 559829,
+        "num": 559829,
+        "word": "张凌赫回应被田曦薇背的感受",
+        "onboard_time": 1736914340,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 554812,
+        "num": 554812,
+        "word": "韩国史上首次逮捕现任总统",
+        "onboard_time": 1736908819,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 537205,
+        "num": 537205,
+        "word": "纪委回应已婚公职人员骗女子谈恋爱",
+        "onboard_time": 1736917520,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 444850,
+        "num": 444850,
+        "word": "孙颖莎理肤泉",
+        "onboard_time": 1736912658,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 397016,
+        "num": 397016,
+        "word": "张凌赫也看了国色芳华",
+        "onboard_time": 1736913739,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 384451,
+        "num": 384451,
+        "word": "青簪行",
+        "onboard_time": 1736904617,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274226,
+        "num": 374580,
+        "word": "乡村爱情17今日定档",
+        "onboard_time": 1736917460,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 373155,
+        "num": 373155,
+        "word": "Angelababy卷发挑染",
+        "onboard_time": 1736898617,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 262154,
+        "num": 358551,
+        "word": "时装主编评丁禹兮的表现力",
+        "onboard_time": 1736917940,
+        "rank": 19,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 488279,
+        "num": 346076,
+        "word": "吴昕直播间突然涌入大量外国网友",
+        "onboard_time": 1736918120,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431973,
+        "num": 322432,
+        "word": "青簪行男主",
+        "onboard_time": 1736914459,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 422894,
+        "num": 301070,
+        "word": "交猫税是什么梗",
+        "onboard_time": 1736913919,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 284867,
+        "num": 284867,
+        "word": "国外一水豚咬女孩数次将其压到水下",
+        "onboard_time": 1736911939,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 178172,
+        "num": 274249,
+        "word": "郑钦文关键分被吹罚超时落泪",
+        "onboard_time": 1736916259,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264435,
+        "num": 264435,
+        "word": "网剧夺娶开播",
+        "onboard_time": 1736915060,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262219,
+        "num": 262219,
+        "word": "下下周三是第一个非遗春节",
+        "onboard_time": 1736903479,
+        "rank": 26,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 259820,
+        "num": 259820,
+        "word": "国考进面名单",
+        "onboard_time": 1736912599,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 244256,
+        "num": 244256,
+        "word": "丁禹兮杂志",
+        "onboard_time": 1736912599,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 86656,
+        "num": 242951,
+        "word": "从哪里找的这么像蒋长扬的动物",
+        "onboard_time": 1736917999,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242389,
+        "num": 242389,
+        "word": "陈哲远 吃了有文化的亏",
+        "onboard_time": 1736916561,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229492,
+        "num": 229492,
+        "word": "敖瑞鹏写真",
+        "onboard_time": 1736917342,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222295,
+        "num": 222295,
+        "word": "李昀锐拜年妆造",
+        "onboard_time": 1736916741,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214597,
+        "num": 214597,
+        "word": "得知家里负债11岁女孩哭着退掉新衣",
+        "onboard_time": 1736906417,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202535,
+        "num": 202535,
+        "word": "尹锡悦称不认可公调处调查",
+        "onboard_time": 1736903717,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 191898,
+        "num": 191898,
+        "word": "江秋莲新增维权案件",
+        "onboard_time": 1736915300,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189789,
+        "num": 189789,
+        "word": "解决婚姻家庭纠纷最新司法规定来了",
+        "onboard_time": 1736913559,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174957,
+        "num": 174957,
+        "word": "白鹿敖瑞鹏两人痣长在同个位置",
+        "onboard_time": 1736912658,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167733,
+        "num": 167733,
+        "word": "谁把代露娃本体放出来了",
+        "onboard_time": 1736917580,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162872,
+        "num": 162872,
+        "word": "婆婆谎称是死胎把孩子送人或涉拐骗",
+        "onboard_time": 1736868618,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159777,
+        "num": 159777,
+        "word": "鹿晗杂志取消预售",
+        "onboard_time": 1736909359,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158143,
+        "num": 158143,
+        "word": "因为晕碳戒掉了熬夜",
+        "onboard_time": 1736904978,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148524,
+        "num": 148524,
+        "word": "郑钦文说我尽力了",
+        "onboard_time": 1736913200,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137321,
+        "num": 137321,
+        "word": "创亚2官宣发起人徐明浩",
+        "onboard_time": 1736911038,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135673,
+        "num": 135673,
+        "word": "尹锡悦发表对民众讲话",
+        "onboard_time": 1736907558,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145793,
+        "num": 135650,
+        "word": "鹿晗将缺席五哈录制",
+        "onboard_time": 1736898196,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135599,
+        "num": 135599,
+        "word": "71岁张艾嘉状态",
+        "onboard_time": 1736917821,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131663,
+        "num": 131663,
+        "word": "中国人研究月球土特产发现了新秘密",
+        "onboard_time": 1736908278,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131085,
+        "num": 131085,
+        "word": "尹锡悦已抵达政府大楼",
+        "onboard_time": 1736908638,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124608,
+        "num": 124608,
+        "word": "电影哪吒之魔童闹海",
+        "onboard_time": 1736918418,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同欧洲理事会主席科斯塔通电话#"
+    }
+  }
+}

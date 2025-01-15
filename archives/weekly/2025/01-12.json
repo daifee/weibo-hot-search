@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736915979575,
+  "endTime": 1736918513653,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -89,6 +89,14 @@
       "onboard_time": 1736730318,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 2284602,
+      "num": 2284602,
+      "word": "泰国考虑对电诈园区断电断网",
+      "onboard_time": 1736914699,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 2220278,
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 1665912,
-      "num": 570089,
+      "num": 572795,
       "word": "谢娜李小冉闹掰的原因",
       "onboard_time": 1736897897,
       "rank": 10,
@@ -433,6 +441,14 @@
       "onboard_time": 1736774180,
       "rank": 3,
       "category": "网红,美妆"
+    },
+    {
+      "raw_hot": 1372126,
+      "num": 1372126,
+      "word": "字节跳动100元标餐的免费三餐",
+      "onboard_time": 1736914639,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 1366414,
@@ -763,14 +779,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 969166,
-      "num": 969166,
-      "word": "泰国考虑对电诈园区断电断网",
-      "onboard_time": 1736914699,
-      "rank": 16,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 963871,
       "num": 963871,
       "word": "两缉毒警曾假扮情侣如今订婚了",
@@ -905,14 +913,6 @@
       "onboard_time": 1736832919,
       "rank": 40,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 885745,
-      "num": 570378,
-      "word": "字节跳动100元标餐的免费三餐",
-      "onboard_time": 1736914639,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 866002,
@@ -1139,6 +1139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 777698,
+      "num": 777698,
+      "word": "尹锡悦不打领带录视频讲话",
+      "onboard_time": 1736913379,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 773994,
       "num": 918908,
       "word": "婆婆谎称是死胎把孩子送人或涉拐骗",
@@ -1228,7 +1236,7 @@
     },
     {
       "raw_hot": 731241,
-      "num": 313876,
+      "num": 322432,
       "word": "青簪行男主",
       "onboard_time": 1736914459,
       "rank": 21,
@@ -1441,6 +1449,14 @@
       "onboard_time": 1736913739,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 675842,
+      "num": 675842,
+      "word": "向太第一期不敢说话的原因",
+      "onboard_time": 1736916259,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 674261,
@@ -1859,6 +1875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 559829,
+      "num": 559829,
+      "word": "张凌赫回应被田曦薇背的感受",
+      "onboard_time": 1736914340,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 556123,
       "num": 393142,
       "word": "虞书欣大方",
@@ -1907,12 +1931,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 541497,
-      "num": 541497,
-      "word": "张凌赫回应被田曦薇背的感受",
-      "onboard_time": 1736914340,
-      "rank": 23,
-      "category": "剧集"
+      "raw_hot": 537205,
+      "num": 537205,
+      "word": "纪委回应已婚公职人员骗女子谈恋爱",
+      "onboard_time": 1736917520,
+      "rank": 13,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 529423,
@@ -2097,6 +2121,14 @@
       "onboard_time": 1736759119,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 488279,
+      "num": 346076,
+      "word": "吴昕直播间突然涌入大量外国网友",
+      "onboard_time": 1736918120,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 484418,
@@ -2459,6 +2491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 422894,
+      "num": 301070,
+      "word": "交猫税是什么梗",
+      "onboard_time": 1736913919,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 418996,
       "num": 268163,
       "word": "吴宣仪跳舞被热议",
@@ -2721,14 +2761,6 @@
       "onboard_time": 1736837418,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 376239,
-      "num": 570612,
-      "word": "尹锡悦不打领带录视频讲话",
-      "onboard_time": 1736913379,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 373460,
@@ -3075,6 +3107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 328005,
+      "num": 578018,
+      "word": "尹锡悦将接受调查",
+      "onboard_time": 1736917400,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 326448,
       "num": 529311,
       "word": "无人机撞停加州山火灭火飞机",
@@ -3321,14 +3361,6 @@
       "onboard_time": 1736669359,
       "rank": 27,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 299583,
-      "num": 284960,
-      "word": "交猫税是什么梗",
-      "onboard_time": 1736913919,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 299556,
@@ -3619,6 +3651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 274226,
+      "num": 374580,
+      "word": "乡村爱情17今日定档",
+      "onboard_time": 1736917460,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 273794,
       "num": 293341,
       "word": "王鹤棣发红包",
@@ -3769,6 +3809,14 @@
       "onboard_time": 1736744481,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 262154,
+      "num": 358551,
+      "word": "时装主编评丁禹兮的表现力",
+      "onboard_time": 1736917940,
+      "rank": 19,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 261998,
@@ -4051,6 +4099,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 242389,
+      "num": 242389,
+      "word": "陈哲远 吃了有文化的亏",
+      "onboard_time": 1736916561,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242033,
       "num": 378956,
       "word": "重庆警方通报公园观赏鱼大量死亡",
@@ -4235,6 +4291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229492,
+      "num": 229492,
+      "word": "敖瑞鹏写真",
+      "onboard_time": 1736917342,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229308,
       "num": 307050,
       "word": "敖瑞鹏另一只手帮白鹿提鞋",
@@ -4401,6 +4465,14 @@
       "onboard_time": 1736647400,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222295,
+      "num": 222295,
+      "word": "李昀锐拜年妆造",
+      "onboard_time": 1736916741,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 222002,
@@ -5443,6 +5515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 191898,
+      "num": 191898,
+      "word": "江秋莲新增维权案件",
+      "onboard_time": 1736915300,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191771,
       "num": 191771,
       "word": "大奉打更人团综定档",
@@ -5521,6 +5601,14 @@
       "onboard_time": 1736658799,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 189789,
+      "num": 189789,
+      "word": "解决婚姻家庭纠纷最新司法规定来了",
+      "onboard_time": 1736913559,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189747,
@@ -5961,6 +6049,14 @@
       "onboard_time": 1736745559,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178172,
+      "num": 274249,
+      "word": "郑钦文关键分被吹罚超时落泪",
+      "onboard_time": 1736916259,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 178087,
@@ -6433,6 +6529,14 @@
       "onboard_time": 1736642719,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 167733,
+      "num": 167733,
+      "word": "谁把代露娃本体放出来了",
+      "onboard_time": 1736917580,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 167343,
@@ -7403,14 +7507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 145504,
-      "num": 145504,
-      "word": "解决婚姻家庭纠纷最新司法规定来了",
-      "onboard_time": 1736913559,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 145438,
       "num": 182322,
       "word": "向太写信鼓励周芯竹",
@@ -7849,6 +7945,14 @@
       "onboard_time": 1736819538,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135599,
+      "num": 135599,
+      "word": "71岁张艾嘉状态",
+      "onboard_time": 1736917821,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 135254,
@@ -8483,6 +8587,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 124608,
+      "num": 124608,
+      "word": "电影哪吒之魔童闹海",
+      "onboard_time": 1736918418,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 124442,
       "num": 124442,
       "word": "00后女生高铁上6小时织了顶帽子",
@@ -8521,14 +8633,6 @@
       "onboard_time": 1736641278,
       "rank": 48,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 122698,
-      "num": 122698,
-      "word": "江秋莲新增维权案件",
-      "onboard_time": 1736915300,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122607,
@@ -9841,6 +9945,14 @@
       "onboard_time": 1736862439,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 86656,
+      "num": 242951,
+      "word": "从哪里找的这么像蒋长扬的动物",
+      "onboard_time": 1736917999,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 86635,
