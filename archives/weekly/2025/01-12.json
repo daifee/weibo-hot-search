@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736925632836,
+  "endTime": 1736926541728,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1696812,
+      "num": 598984,
+      "word": "小红书连夜招聘英文内容审核员",
+      "onboard_time": 1736921058,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1681965,
       "num": 1681965,
       "word": "为什么车厘子一个月到中国却不腐烂",
@@ -249,14 +257,6 @@
       "onboard_time": 1736682139,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1658442,
-      "num": 598984,
-      "word": "小红书连夜招聘英文内容审核员",
-      "onboard_time": 1736921058,
-      "rank": 21,
-      "category": "互联网"
     },
     {
       "raw_hot": 1615883,
@@ -411,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1449617,
+      "num": 1235387,
+      "word": "吴昕直播间突然涌入大量外国网友",
+      "onboard_time": 1736918120,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1447679,
       "num": 1447679,
       "word": "白鹿晒微博之夜后台一些合照",
@@ -561,14 +569,6 @@
       "onboard_time": 1736774302,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1235387,
-      "num": 1235387,
-      "word": "吴昕直播间突然涌入大量外国网友",
-      "onboard_time": 1736918120,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 1198362,
@@ -851,6 +851,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 953101,
+      "num": 1152496,
+      "word": "郑钦文被扣1230分",
+      "onboard_time": 1736924179,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 950190,
       "num": 311149,
       "word": "王楚钦是国乒首个00后世界冠军",
@@ -897,6 +905,14 @@
       "onboard_time": 1736757919,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 927879,
+      "num": 927879,
+      "word": "虞书欣祝绪丹杨仕泽买了丁禹兮杂志",
+      "onboard_time": 1736925439,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 917723,
@@ -1835,14 +1851,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 589074,
-      "num": 397084,
-      "word": "郑钦文被扣1230分",
-      "onboard_time": 1736924179,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 587817,
       "num": 443122,
       "word": "吉林大爷救助游客反遭诬陷有出入",
@@ -2003,6 +2011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 532148,
+      "num": 455187,
+      "word": "外国网友上小红书秒切外教",
+      "onboard_time": 1736920818,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 529423,
       "num": 162920,
       "word": "脖颈长疣是感染HPV了吗",
@@ -2068,7 +2084,7 @@
     },
     {
       "raw_hot": 517573,
-      "num": 462566,
+      "num": 487335,
       "word": "肖战人物封面",
       "onboard_time": 1736922318,
       "rank": 16,
@@ -2105,6 +2121,14 @@
       "onboard_time": 1736759421,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 512540,
+      "num": 512540,
+      "word": "美国网友涌入小红书",
+      "onboard_time": 1736925138,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 510281,
@@ -2275,14 +2299,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 475564,
-      "num": 391087,
-      "word": "外国网友上小红书秒切外教",
-      "onboard_time": 1736920818,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 475537,
       "num": 475537,
       "word": "这届年轻人开始整顿年味了",
@@ -2361,6 +2377,14 @@
       "onboard_time": 1736861240,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 455329,
+      "num": 455329,
+      "word": "我国新发现10个亿吨级油田",
+      "onboard_time": 1736923760,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 454973,
@@ -2524,7 +2548,7 @@
     },
     {
       "raw_hot": 427620,
-      "num": 390086,
+      "num": 394027,
       "word": "小水最喜欢的中国男演员是罗云熙",
       "onboard_time": 1736922798,
       "rank": 27,
@@ -3137,14 +3161,6 @@
       "onboard_time": 1736662700,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 331343,
-      "num": 331343,
-      "word": "我国新发现10个亿吨级油田",
-      "onboard_time": 1736923760,
-      "rank": 15,
-      "category": "国内时政"
     },
     {
       "raw_hot": 330082,
@@ -4715,14 +4731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 214304,
-      "num": 397937,
-      "word": "美国网友涌入小红书",
-      "onboard_time": 1736925138,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 214241,
       "num": 214241,
       "word": "4个月宝宝头发茂密仿佛开了特效",
@@ -4793,6 +4801,14 @@
       "onboard_time": 1736684599,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211287,
+      "num": 211287,
+      "word": "洛杉矶富人有钱能让山火改道",
+      "onboard_time": 1736925798,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 211256,
@@ -4897,6 +4913,14 @@
       "onboard_time": 1736825238,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 207626,
+      "num": 207626,
+      "word": "锦囊妙录 好看",
+      "onboard_time": 1736924059,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 207398,
@@ -5160,6 +5184,14 @@
       "word": "徐克为什么选射雕最后七章拍",
       "onboard_time": 1736690361,
       "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 201126,
+      "num": 217792,
+      "word": "于适封神2拉弓新造型",
+      "onboard_time": 1736923339,
+      "rank": 49,
       "category": "电影"
     },
     {
@@ -5443,14 +5475,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 195966,
-      "num": 195966,
-      "word": "锦囊妙录 好看",
-      "onboard_time": 1736924059,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 195794,
       "num": 171493,
       "word": "张康乐给马柏全的备注",
@@ -5699,14 +5723,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 189937,
-      "num": 189937,
-      "word": "虞书欣祝绪丹杨仕泽买了丁禹兮杂志",
-      "onboard_time": 1736925439,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 189893,
       "num": 236917,
       "word": "2025川渝春晚阵容",
@@ -5745,6 +5761,14 @@
       "onboard_time": 1736818457,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 189230,
+      "num": 195980,
+      "word": "樊振东和霉霉出现在报纸同一版",
+      "onboard_time": 1736923038,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 189174,
@@ -5865,14 +5889,6 @@
       "onboard_time": 1736650638,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 186155,
-      "num": 195980,
-      "word": "樊振东和霉霉出现在报纸同一版",
-      "onboard_time": 1736923038,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 185830,
@@ -6609,6 +6625,14 @@
       "onboard_time": 1736761220,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170173,
+      "num": 170173,
+      "word": "TikTok禁令引发美国网友众怒",
+      "onboard_time": 1736925798,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 170131,
@@ -7977,14 +8001,6 @@
       "onboard_time": 1736756061,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140328,
-      "num": 196317,
-      "word": "于适封神2拉弓新造型",
-      "onboard_time": 1736923339,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 139738,
@@ -9611,6 +9627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108981,
+      "num": 203116,
+      "word": "郑钦文巡回赛四年第一次违反时间",
+      "onboard_time": 1736924839,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108632,
       "num": 168610,
       "word": "央视曝光化解债务骗局",
@@ -9835,6 +9859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 102835,
+      "num": 102835,
+      "word": "小红书爆火TikTok还有转机吗",
+      "onboard_time": 1736925740,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 102773,
       "num": 195256,
       "word": "人在奥运年樊振东专访",
@@ -9923,6 +9955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 100796,
+      "num": 129102,
+      "word": "国色芳华 爱人是锦上添花",
+      "onboard_time": 1736925439,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100481,
       "num": 293173,
       "word": "实探假装上班公司",
@@ -9937,6 +9977,14 @@
       "onboard_time": 1736855419,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99763,
+      "num": 99763,
+      "word": "春运火车票提高候补成功率攻略",
+      "onboard_time": 1736926459,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99422,
@@ -10065,14 +10113,6 @@
       "onboard_time": 1736856798,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 96559,
-      "num": 96559,
-      "word": "郑钦文巡回赛四年第一次违反时间",
-      "onboard_time": 1736924839,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 96474,
@@ -10547,14 +10587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75432,
-      "num": 129102,
-      "word": "国色芳华 爱人是锦上添花",
-      "onboard_time": 1736925439,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 75359,
       "num": 472558,
       "word": "WBG战胜OMG",
@@ -10969,6 +11001,14 @@
       "onboard_time": 1736810476,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 55655,
+      "num": 120310,
+      "word": "黑神话开设官方品牌",
+      "onboard_time": 1736924478,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 55362,
