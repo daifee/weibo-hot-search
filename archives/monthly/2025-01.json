@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736929687097,
+  "endTime": 1736930491461,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -955,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2104574,
+      "num": 2104574,
+      "word": "洛杉矶富人有钱能让山火改道",
+      "onboard_time": 1736925798,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 2103658,
       "num": 713869,
       "word": "虞书欣评论张彬彬",
@@ -1153,14 +1161,6 @@
       "onboard_time": 1736522242,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1915606,
-      "num": 1915606,
-      "word": "洛杉矶富人有钱能让山火改道",
-      "onboard_time": 1736925798,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1913114,
@@ -3059,6 +3059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1147755,
+      "num": 430485,
+      "word": "TikTok禁令引发美国网友众怒",
+      "onboard_time": 1736925798,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1146840,
       "num": 1183494,
       "word": "受害人没有删聊天记录成了关键证据",
@@ -3217,6 +3225,14 @@
       "onboard_time": 1735827442,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1112909,
+      "num": 1112909,
+      "word": "品牌方回应赵露思将复工",
+      "onboard_time": 1736928498,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1110762,
@@ -4161,14 +4177,6 @@
       "onboard_time": 1736075787,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 941336,
-      "num": 422858,
-      "word": "TikTok禁令引发美国网友众怒",
-      "onboard_time": 1736925798,
-      "rank": 29,
-      "category": "互联网"
     },
     {
       "raw_hot": 939633,
@@ -6241,6 +6249,14 @@
       "onboard_time": 1736765539,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 690869,
+      "num": 690869,
+      "word": "美甲",
+      "onboard_time": 1736927480,
+      "rank": 7,
+      "category": "美妆"
     },
     {
       "raw_hot": 690711,
@@ -8411,14 +8427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 538606,
-      "num": 538606,
-      "word": "品牌方回应赵露思将复工",
-      "onboard_time": 1736928498,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 538577,
       "num": 538577,
       "word": "王源卷毛",
@@ -9123,6 +9131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 499093,
+      "num": 499093,
+      "word": "永夜星河",
+      "onboard_time": 1736928919,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 498910,
       "num": 498910,
       "word": "王楚钦3比2林诗栋",
@@ -9633,14 +9649,6 @@
       "onboard_time": 1736086299,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 471861,
-      "num": 471861,
-      "word": "美甲",
-      "onboard_time": 1736927480,
-      "rank": 7,
-      "category": "美妆"
     },
     {
       "raw_hot": 471727,
@@ -10731,6 +10739,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 421923,
+      "num": 421923,
+      "word": "向佐为向太发声",
+      "onboard_time": 1736927840,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 421764,
       "num": 660673,
       "word": "王楚钦点赞周启豪",
@@ -11080,14 +11096,6 @@
       "word": "甄嬛传晚会",
       "onboard_time": 1736579481,
       "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 407028,
-      "num": 407028,
-      "word": "向佐为向太发声",
-      "onboard_time": 1736927840,
-      "rank": 12,
       "category": "综艺"
     },
     {
@@ -12859,6 +12867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 349393,
+      "num": 349393,
+      "word": "何炅 脉象有力",
+      "onboard_time": 1736927480,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 349373,
       "num": 222653,
       "word": "李现说杨紫两页纸台词一条过",
@@ -13433,14 +13449,6 @@
       "onboard_time": 1736294661,
       "rank": 6,
       "category": "民生新闻,国内时政"
-    },
-    {
-      "raw_hot": 332155,
-      "num": 332155,
-      "word": "何炅 脉象有力",
-      "onboard_time": 1736927480,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 332124,
@@ -16011,14 +16019,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 274275,
-      "num": 274275,
-      "word": "永夜星河",
-      "onboard_time": 1736928919,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 274226,
       "num": 374580,
       "word": "乡村爱情17今日定档",
@@ -16209,6 +16209,14 @@
       "onboard_time": 1736517325,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 271698,
+      "num": 271698,
+      "word": "日本多名高考生遭遇猥亵",
+      "onboard_time": 1736929519,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 271199,
@@ -17132,7 +17140,7 @@
     },
     {
       "raw_hot": 253744,
-      "num": 228505,
+      "num": 238030,
       "word": "郭京飞让赵今麦演戏自私点",
       "onboard_time": 1736927060,
       "rank": 23,
@@ -21395,6 +21403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204323,
+      "num": 204323,
+      "word": "虞书欣祝子期前程似锦",
+      "onboard_time": 1736929999,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204160,
       "num": 204160,
       "word": "在人间过审",
@@ -21449,6 +21465,14 @@
       "onboard_time": 1736143942,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 203852,
+      "num": 203852,
+      "word": "王影璐 冯宝宝本宝",
+      "onboard_time": 1736929039,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 203805,
@@ -25475,12 +25499,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178592,
-      "num": 178592,
-      "word": "王影璐 冯宝宝本宝",
-      "onboard_time": 1736929039,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 178392,
+      "num": 178392,
+      "word": "小水见到白鹿会紧张",
+      "onboard_time": 1736928618,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 178373,
@@ -25929,14 +25953,6 @@
       "onboard_time": 1736863160,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 175239,
-      "num": 175239,
-      "word": "小水见到白鹿会紧张",
-      "onboard_time": 1736928618,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 175159,
@@ -26569,14 +26585,6 @@
       "onboard_time": 1736485282,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 171767,
-      "num": 171767,
-      "word": "日本多名高考生遭遇猥亵",
-      "onboard_time": 1736929519,
-      "rank": 33,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 171660,
@@ -29995,6 +30003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151471,
+      "num": 151471,
+      "word": "永远的竹林四侠",
+      "onboard_time": 1736929279,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151456,
       "num": 134823,
       "word": "Wendy不出演SMTOWN",
@@ -30225,6 +30241,14 @@
       "onboard_time": 1735779199,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149662,
+      "num": 149662,
+      "word": "女将军不语只是一味复仇",
+      "onboard_time": 1736929820,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 149645,
@@ -31979,6 +32003,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 140298,
+      "num": 430614,
+      "word": "春运火车票提高候补成功率攻略",
+      "onboard_time": 1736926459,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140289,
       "num": 140289,
       "word": "大奉打更人好起来了",
@@ -32251,14 +32283,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 138959,
-      "num": 138959,
-      "word": "永远的竹林四侠",
-      "onboard_time": 1736929279,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 138868,
       "num": 138868,
       "word": "张康乐马柏全小卡",
@@ -32393,6 +32417,14 @@
       "onboard_time": 1736863580,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137876,
+      "num": 137876,
+      "word": "TikTok或计划周日关停美国业务",
+      "onboard_time": 1736930239,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 137791,
@@ -34443,6 +34475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126682,
+      "num": 126682,
+      "word": "疑似金建希女子出门遛狗",
+      "onboard_time": 1736930059,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 126630,
       "num": 316511,
       "word": "妇联回应男子当街殴打妻子被隔空喝止",
@@ -35275,6 +35315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121505,
+      "num": 121505,
+      "word": "丁禹兮杂志销售额",
+      "onboard_time": 1736929519,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 121501,
       "num": 121501,
       "word": "韩国调查人员同总统警卫发生肢体冲突",
@@ -35699,6 +35747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119491,
+      "num": 119491,
+      "word": "魏晨 张若昀你碰瓷啊",
+      "onboard_time": 1736930300,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119469,
       "num": 119469,
       "word": "郑钦文本来考虑过不参加澳网",
@@ -35897,6 +35953,14 @@
       "onboard_time": 1736044232,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117845,
+      "num": 117845,
+      "word": "民法典婚姻家庭相关司法解释发布",
+      "onboard_time": 1736930419,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 117832,
@@ -36563,6 +36627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114016,
+      "num": 114016,
+      "word": "牺牲前他说请同事吃娃娃百天宴",
+      "onboard_time": 1736930419,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113904,
       "num": 458584,
       "word": "团建打工人挤爆汤泉馆",
@@ -36745,14 +36817,6 @@
       "onboard_time": 1735862359,
       "rank": 40,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 113079,
-      "num": 113079,
-      "word": "丁禹兮杂志销售额",
-      "onboard_time": 1736929519,
-      "rank": 44,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 113035,
@@ -37313,6 +37377,14 @@
       "onboard_time": 1736924839,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108978,
+      "num": 205795,
+      "word": "夏以昼国民哥哥",
+      "onboard_time": 1736928740,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 108920,
@@ -38113,14 +38185,6 @@
       "onboard_time": 1736853079,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 102747,
-      "num": 102747,
-      "word": "春运火车票提高候补成功率攻略",
-      "onboard_time": 1736926459,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102746,
@@ -43652,7 +43716,7 @@
     },
     {
       "raw_hot": 46915,
-      "num": 921890,
+      "num": 1119706,
       "word": "春节寒假看雪玩雪全攻略",
       "onboard_time": 1736928199,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1736930491461,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2104574,
+        "num": 2104574,
+        "word": "洛杉矶富人有钱能让山火改道",
+        "onboard_time": 1736925798,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1135622,
+        "num": 1135622,
+        "word": "27岁辅警查酒驾被撞伤拖行牺牲",
+        "onboard_time": 1736926760,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31724,
+        "num": 1119706,
+        "word": "春节寒假看雪玩雪全攻略",
+        "onboard_time": 1736928199,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1112909,
+        "num": 1112909,
+        "word": "品牌方回应赵露思将复工",
+        "onboard_time": 1736928498,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 690869,
+        "num": 690869,
+        "word": "美甲",
+        "onboard_time": 1736927480,
+        "rank": 4,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1548141,
+        "num": 686839,
+        "word": "吴昕直播间突然涌入大量外国网友",
+        "onboard_time": 1736918120,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 774225,
+        "num": 677025,
+        "word": "虞书欣祝绪丹杨仕泽买了丁禹兮杂志",
+        "onboard_time": 1736925439,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 622336,
+        "num": 622336,
+        "word": "郑钦文被扣1230分",
+        "onboard_time": 1736924179,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 499093,
+        "num": 499093,
+        "word": "永夜星河",
+        "onboard_time": 1736928919,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140298,
+        "num": 430614,
+        "word": "春运火车票提高候补成功率攻略",
+        "onboard_time": 1736926459,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1147755,
+        "num": 430485,
+        "word": "TikTok禁令引发美国网友众怒",
+        "onboard_time": 1736925798,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 421923,
+        "num": 421923,
+        "word": "向佐为向太发声",
+        "onboard_time": 1736927840,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406969,
+        "num": 406969,
+        "word": "郑州一已婚公职人员骗人恋爱被记大过",
+        "onboard_time": 1736919559,
+        "rank": 12,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 353760,
+        "num": 353760,
+        "word": "我国新发现10个亿吨级油田",
+        "onboard_time": 1736923760,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 349393,
+        "num": 349393,
+        "word": "何炅 脉象有力",
+        "onboard_time": 1736927480,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326282,
+        "num": 326282,
+        "word": "泰国考虑对电诈园区断电断网",
+        "onboard_time": 1736914699,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 271698,
+        "num": 271698,
+        "word": "日本多名高考生遭遇猥亵",
+        "onboard_time": 1736929519,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 249333,
+        "num": 249333,
+        "word": "罗云熙再现何以琛回头杀",
+        "onboard_time": 1736919320,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246588,
+        "num": 246588,
+        "word": "李兰迪首位95后亦舒女主",
+        "onboard_time": 1736919499,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242001,
+        "num": 242001,
+        "word": "韩国史上首次逮捕现任总统",
+        "onboard_time": 1736908819,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1080625,
+        "num": 240784,
+        "word": "赵露思疑似将复工",
+        "onboard_time": 1736922259,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238030,
+        "num": 238030,
+        "word": "郭京飞让赵今麦演戏自私点",
+        "onboard_time": 1736927060,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229116,
+        "num": 229116,
+        "word": "小红书爆火TikTok还有转机吗",
+        "onboard_time": 1736925740,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 225820,
+        "num": 225820,
+        "word": "金价上涨年轻人囤金热情不降反升",
+        "onboard_time": 1736926998,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 108978,
+        "num": 205795,
+        "word": "夏以昼国民哥哥",
+        "onboard_time": 1736928740,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204323,
+        "num": 204323,
+        "word": "虞书欣祝子期前程似锦",
+        "onboard_time": 1736929999,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203852,
+        "num": 203852,
+        "word": "王影璐 冯宝宝本宝",
+        "onboard_time": 1736929039,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179295,
+        "num": 179295,
+        "word": "肖战人物封面",
+        "onboard_time": 1736922318,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178392,
+        "num": 178392,
+        "word": "小水见到白鹿会紧张",
+        "onboard_time": 1736928618,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173906,
+        "num": 173906,
+        "word": "尹锡悦将接受调查",
+        "onboard_time": 1736917400,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166548,
+        "num": 166548,
+        "word": "美网友说来小红书是因为不相信美政府",
+        "onboard_time": 1736926637,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 164922,
+        "num": 164922,
+        "word": "小水最喜欢的中国男演员是罗云熙",
+        "onboard_time": 1736922798,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151471,
+        "num": 151471,
+        "word": "永远的竹林四侠",
+        "onboard_time": 1736929279,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149662,
+        "num": 149662,
+        "word": "女将军不语只是一味复仇",
+        "onboard_time": 1736929820,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149511,
+        "num": 149511,
+        "word": "交猫税是什么梗",
+        "onboard_time": 1736913919,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148358,
+        "num": 148358,
+        "word": "尹锡悦称不认可公调处调查",
+        "onboard_time": 1736903717,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144628,
+        "num": 144628,
+        "word": "国色芳华 爱人是锦上添花",
+        "onboard_time": 1736925439,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137876,
+        "num": 137876,
+        "word": "TikTok或计划周日关停美国业务",
+        "onboard_time": 1736930239,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 135885,
+        "num": 135885,
+        "word": "字节跳动100元标餐的免费三餐",
+        "onboard_time": 1736914639,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 889079,
+        "num": 135448,
+        "word": "美国网友涌入小红书",
+        "onboard_time": 1736925138,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 134289,
+        "num": 134289,
+        "word": "解决婚姻家庭纠纷最新司法规定来了",
+        "onboard_time": 1736913559,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126682,
+        "num": 126682,
+        "word": "疑似金建希女子出门遛狗",
+        "onboard_time": 1736930059,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 123977,
+        "num": 123977,
+        "word": "青簪行男主",
+        "onboard_time": 1736914459,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121505,
+        "num": 121505,
+        "word": "丁禹兮杂志销售额",
+        "onboard_time": 1736929519,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 119491,
+        "num": 119491,
+        "word": "魏晨 张若昀你碰瓷啊",
+        "onboard_time": 1736930300,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118934,
+        "num": 118934,
+        "word": "锦囊妙录 好看",
+        "onboard_time": 1736924059,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117845,
+        "num": 117845,
+        "word": "民法典婚姻家庭相关司法解释发布",
+        "onboard_time": 1736930419,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 87535,
+        "num": 116179,
+        "word": "星穹铁道 振翅的方向",
+        "onboard_time": 1736929159,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115595,
+        "num": 115595,
+        "word": "张凌赫把微博当朋友圈发",
+        "onboard_time": 1736926878,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114016,
+        "num": 114016,
+        "word": "牺牲前他说请同事吃娃娃百天宴",
+        "onboard_time": 1736930419,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#把群众冰雪运动热情保持下去#"
+    }
+  }
+}

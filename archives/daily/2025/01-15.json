@@ -1,6 +1,6 @@
 {
   "startTime": 1736872066671,
-  "endTime": 1736929687097,
+  "endTime": 1736930491461,
   "band_list": [
     {
       "raw_hot": 3396289,
@@ -43,8 +43,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1915606,
-      "num": 1915606,
+      "raw_hot": 2104574,
+      "num": 2104574,
       "word": "洛杉矶富人有钱能让山火改道",
       "onboard_time": 1736925798,
       "rank": 19,
@@ -123,12 +123,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1147755,
+      "num": 430485,
+      "word": "TikTok禁令引发美国网友众怒",
+      "onboard_time": 1736925798,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1116926,
       "num": 1116926,
       "word": "纪委回应已婚公职人员骗女子谈恋爱",
       "onboard_time": 1736917520,
       "rank": 13,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1112909,
+      "num": 1112909,
+      "word": "品牌方回应赵露思将复工",
+      "onboard_time": 1736928498,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 967315,
@@ -145,14 +161,6 @@
       "onboard_time": 1736924179,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 941336,
-      "num": 422858,
-      "word": "TikTok禁令引发美国网友众怒",
-      "onboard_time": 1736925798,
-      "rank": 29,
-      "category": "互联网"
     },
     {
       "raw_hot": 927879,
@@ -225,6 +233,14 @@
       "onboard_time": 1736914459,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 690869,
+      "num": 690869,
+      "word": "美甲",
+      "onboard_time": 1736927480,
+      "rank": 7,
+      "category": "美妆"
     },
     {
       "raw_hot": 677815,
@@ -363,14 +379,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 538606,
-      "num": 538606,
-      "word": "品牌方回应赵露思将复工",
-      "onboard_time": 1736928498,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 532148,
       "num": 455187,
       "word": "外国网友上小红书秒切外教",
@@ -395,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 499093,
+      "num": 499093,
+      "word": "永夜星河",
+      "onboard_time": 1736928919,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 482110,
       "num": 482110,
       "word": "创亚2官宣发起人徐明浩",
@@ -417,14 +433,6 @@
       "onboard_time": 1736851396,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 471861,
-      "num": 471861,
-      "word": "美甲",
-      "onboard_time": 1736927480,
-      "rank": 7,
-      "category": "美妆"
     },
     {
       "raw_hot": 455329,
@@ -475,20 +483,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 421923,
+      "num": 421923,
+      "word": "向佐为向太发声",
+      "onboard_time": 1736927840,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 413821,
       "num": 413821,
       "word": "国考进面名单",
       "onboard_time": 1736912599,
       "rank": 14,
       "category": "教育"
-    },
-    {
-      "raw_hot": 407028,
-      "num": 407028,
-      "word": "向佐为向太发声",
-      "onboard_time": 1736927840,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 403026,
@@ -539,6 +547,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 349393,
+      "num": 349393,
+      "word": "何炅 脉象有力",
+      "onboard_time": 1736927480,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 343404,
       "num": 343404,
       "word": "繁花成员围攻刘晓庆",
@@ -552,14 +568,6 @@
       "word": "网剧夺娶开播",
       "onboard_time": 1736915060,
       "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 332155,
-      "num": 332155,
-      "word": "何炅 脉象有力",
-      "onboard_time": 1736927480,
-      "rank": 13,
       "category": "剧集"
     },
     {
@@ -667,20 +675,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 274275,
-      "num": 274275,
-      "word": "永夜星河",
-      "onboard_time": 1736928919,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 274226,
       "num": 374580,
       "word": "乡村爱情17今日定档",
       "onboard_time": 1736917460,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 271698,
+      "num": 271698,
+      "word": "日本多名高考生遭遇猥亵",
+      "onboard_time": 1736929519,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 270284,
@@ -732,7 +740,7 @@
     },
     {
       "raw_hot": 253744,
-      "num": 228505,
+      "num": 238030,
       "word": "郭京飞让赵今麦演戏自私点",
       "onboard_time": 1736927060,
       "rank": 23,
@@ -947,6 +955,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204323,
+      "num": 204323,
+      "word": "虞书欣祝子期前程似锦",
+      "onboard_time": 1736929999,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 203852,
+      "num": 203852,
+      "word": "王影璐 冯宝宝本宝",
+      "onboard_time": 1736929039,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201126,
       "num": 217792,
       "word": "于适封神2拉弓新造型",
@@ -1067,12 +1091,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178592,
-      "num": 178592,
-      "word": "王影璐 冯宝宝本宝",
-      "onboard_time": 1736929039,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 178392,
+      "num": 178392,
+      "word": "小水见到白鹿会紧张",
+      "onboard_time": 1736928618,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 176412,
@@ -1083,28 +1107,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 175239,
-      "num": 175239,
-      "word": "小水见到白鹿会紧张",
-      "onboard_time": 1736928618,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 172951,
       "num": 308058,
       "word": "郑钦文对手临时接广",
       "onboard_time": 1736912599,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 171767,
-      "num": 171767,
-      "word": "日本多名高考生遭遇猥亵",
-      "onboard_time": 1736929519,
-      "rank": 33,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 171594,
@@ -1275,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151471,
+      "num": 151471,
+      "word": "永远的竹林四侠",
+      "onboard_time": 1736929279,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151040,
       "num": 207426,
       "word": "大奉许七安MVP结算画面",
@@ -1289,6 +1305,14 @@
       "onboard_time": 1736921779,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149662,
+      "num": 149662,
+      "word": "女将军不语只是一味复仇",
+      "onboard_time": 1736929820,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 149104,
@@ -1347,6 +1371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140298,
+      "num": 430614,
+      "word": "春运火车票提高候补成功率攻略",
+      "onboard_time": 1736926459,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139261,
       "num": 139261,
       "word": "国考行测",
@@ -1355,12 +1387,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 138959,
-      "num": 138959,
-      "word": "永远的竹林四侠",
-      "onboard_time": 1736929279,
-      "rank": 39,
-      "category": "剧集"
+      "raw_hot": 137876,
+      "num": 137876,
+      "word": "TikTok或计划周日关停美国业务",
+      "onboard_time": 1736930239,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 137278,
@@ -1459,6 +1491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 126682,
+      "num": 126682,
+      "word": "疑似金建希女子出门遛狗",
+      "onboard_time": 1736930059,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 125102,
       "num": 125102,
       "word": "SM新女团成员Jiwoo",
@@ -1507,6 +1547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121505,
+      "num": 121505,
+      "word": "丁禹兮杂志销售额",
+      "onboard_time": 1736929519,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 121452,
       "num": 121452,
       "word": "不知不觉控制体重的10个好习惯",
@@ -1515,12 +1563,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 119491,
+      "num": 119491,
+      "word": "魏晨 张若昀你碰瓷啊",
+      "onboard_time": 1736930300,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119469,
       "num": 119469,
       "word": "郑钦文本来考虑过不参加澳网",
       "onboard_time": 1736923219,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117845,
+      "num": 117845,
+      "word": "民法典婚姻家庭相关司法解释发布",
+      "onboard_time": 1736930419,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 117736,
@@ -1547,12 +1611,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 113079,
-      "num": 113079,
-      "word": "丁禹兮杂志销售额",
-      "onboard_time": 1736929519,
-      "rank": 44,
-      "category": "作品衍生,时尚"
+      "raw_hot": 114016,
+      "num": 114016,
+      "word": "牺牲前他说请同事吃娃娃百天宴",
+      "onboard_time": 1736930419,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112474,
@@ -1627,6 +1691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108978,
+      "num": 205795,
+      "word": "夏以昼国民哥哥",
+      "onboard_time": 1736928740,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 104218,
       "num": 104218,
       "word": "王影璐扫楼领舞摇花手",
@@ -1673,14 +1745,6 @@
       "onboard_time": 1736903479,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 102747,
-      "num": 102747,
-      "word": "春运火车票提高候补成功率攻略",
-      "onboard_time": 1736926459,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102644,
@@ -2052,7 +2116,7 @@
     },
     {
       "raw_hot": 46915,
-      "num": 921890,
+      "num": 1119706,
       "word": "春节寒假看雪玩雪全攻略",
       "onboard_time": 1736928199,
       "rank": 2,
