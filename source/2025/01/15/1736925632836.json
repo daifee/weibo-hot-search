@@ -1,0 +1,410 @@
+{
+  "runTime": 1736925632836,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1235387,
+        "num": 1235387,
+        "word": "吴昕直播间突然涌入大量外国网友",
+        "onboard_time": 1736918120,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 662877,
+        "num": 662877,
+        "word": "郑州一已婚公职人员骗人恋爱被记大过",
+        "onboard_time": 1736919559,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 74660,
+        "num": 630898,
+        "word": "新疆一万年前的滑雪Plog",
+        "onboard_time": 1736910619,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1743984,
+        "num": 621016,
+        "word": "赵露思疑似将复工",
+        "onboard_time": 1736922259,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 599731,
+        "num": 599731,
+        "word": "泰国考虑对电诈园区断电断网",
+        "onboard_time": 1736914699,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1658442,
+        "num": 598984,
+        "word": "小红书连夜招聘英文内容审核员",
+        "onboard_time": 1736921058,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 595234,
+        "num": 595234,
+        "word": "罗云熙再现何以琛回头杀",
+        "onboard_time": 1736919320,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 554203,
+        "num": 554203,
+        "word": "李兰迪首位95后亦舒女主",
+        "onboard_time": 1736919499,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 399544,
+        "num": 399544,
+        "word": "韩国史上首次逮捕现任总统",
+        "onboard_time": 1736908819,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 214304,
+        "num": 397937,
+        "word": "美国网友涌入小红书",
+        "onboard_time": 1736925138,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 589074,
+        "num": 397084,
+        "word": "郑钦文被扣1230分",
+        "onboard_time": 1736924179,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 517573,
+        "num": 394305,
+        "word": "肖战人物封面",
+        "onboard_time": 1736922318,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475564,
+        "num": 391087,
+        "word": "外国网友上小红书秒切外教",
+        "onboard_time": 1736920818,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 427620,
+        "num": 390086,
+        "word": "小水最喜欢的中国男演员是罗云熙",
+        "onboard_time": 1736922798,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 388470,
+        "num": 388470,
+        "word": "字节跳动100元标餐的免费三餐",
+        "onboard_time": 1736914639,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 331343,
+        "num": 331343,
+        "word": "我国新发现10个亿吨级油田",
+        "onboard_time": 1736923760,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 256284,
+        "num": 256284,
+        "word": "谁来关心一下千朵桃花",
+        "onboard_time": 1736918898,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248467,
+        "num": 248467,
+        "word": "谢娜李小冉闹掰的原因",
+        "onboard_time": 1736897897,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235007,
+        "num": 235007,
+        "word": "尹锡悦将接受调查",
+        "onboard_time": 1736917400,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 200944,
+        "num": 200944,
+        "word": "下下周三是第一个非遗春节",
+        "onboard_time": 1736903479,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 2064006,
+        "num": 199331,
+        "word": "TikTok禁令",
+        "onboard_time": 1736921058,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 220668,
+        "num": 198680,
+        "word": "交猫税是什么梗",
+        "onboard_time": 1736913919,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196808,
+        "num": 196808,
+        "word": "纪委回应已婚公职人员骗女子谈恋爱",
+        "onboard_time": 1736917520,
+        "rank": 22,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 140328,
+        "num": 196317,
+        "word": "于适封神2拉弓新造型",
+        "onboard_time": 1736923339,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186155,
+        "num": 195980,
+        "word": "樊振东和霉霉出现在报纸同一版",
+        "onboard_time": 1736923038,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195966,
+        "num": 195966,
+        "word": "锦囊妙录 好看",
+        "onboard_time": 1736924059,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195056,
+        "num": 195056,
+        "word": "4岁女童被爸爸带着跳楼捡回一命",
+        "onboard_time": 1736913619,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189937,
+        "num": 189937,
+        "word": "虞书欣祝绪丹杨仕泽买了丁禹兮杂志",
+        "onboard_time": 1736925439,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174143,
+        "num": 174143,
+        "word": "尹锡悦不打领带录视频讲话",
+        "onboard_time": 1736913379,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 169528,
+        "num": 169528,
+        "word": "尹锡悦被捕后疑似金建希遛狗画面",
+        "onboard_time": 1736923278,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 167616,
+        "num": 167616,
+        "word": "向太第一期不敢说话的原因",
+        "onboard_time": 1736916259,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166333,
+        "num": 166333,
+        "word": "尹锡悦称不认可公调处调查",
+        "onboard_time": 1736903717,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 180002,
+        "num": 165302,
+        "word": "丁禹兮杂志",
+        "onboard_time": 1736912599,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161396,
+        "num": 161396,
+        "word": "解决婚姻家庭纠纷最新司法规定来了",
+        "onboard_time": 1736913559,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157814,
+        "num": 157814,
+        "word": "国外一水豚咬女孩数次将其压到水下",
+        "onboard_time": 1736911939,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 146026,
+        "num": 146026,
+        "word": "青簪行男主",
+        "onboard_time": 1736914459,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139952,
+        "num": 139952,
+        "word": "张凌赫回应被田曦薇背的感受",
+        "onboard_time": 1736914340,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139572,
+        "num": 139572,
+        "word": "得知家里负债11岁女孩哭着退掉新衣",
+        "onboard_time": 1736906417,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138235,
+        "num": 138235,
+        "word": "陈哲远 吃了有文化的亏",
+        "onboard_time": 1736916561,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137015,
+        "num": 137015,
+        "word": "孙颖莎理肤泉",
+        "onboard_time": 1736912658,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135416,
+        "num": 135416,
+        "word": "宋佳不语只是一味的散发魅力",
+        "onboard_time": 1736925020,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 75432,
+        "num": 129102,
+        "word": "国色芳华 爱人是锦上添花",
+        "onboard_time": 1736925439,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125213,
+        "num": 125213,
+        "word": "青簪行",
+        "onboard_time": 1736904617,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132265,
+        "num": 124591,
+        "word": "张凌赫也看了国色芳华",
+        "onboard_time": 1736913739,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123940,
+        "num": 123940,
+        "word": "敖瑞鹏写真",
+        "onboard_time": 1736917342,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112474,
+        "num": 112474,
+        "word": "夏以昼陪伴系统",
+        "onboard_time": 1736924118,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107680,
+        "num": 107680,
+        "word": "过年回家的意义在此刻具象化了",
+        "onboard_time": 1736910738,
+        "rank": 46,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 104218,
+        "num": 104218,
+        "word": "王影璐扫楼领舞摇花手",
+        "onboard_time": 1736924478,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101291,
+        "num": 101291,
+        "word": "Angelababy卷发挑染",
+        "onboard_time": 1736898617,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 96559,
+        "num": 96559,
+        "word": "郑钦文巡回赛四年第一次违反时间",
+        "onboard_time": 1736924839,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同欧洲理事会主席科斯塔通电话#"
+    }
+  }
+}
