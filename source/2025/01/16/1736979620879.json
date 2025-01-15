@@ -1,0 +1,410 @@
+{
+  "runTime": 1736979620879,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 223458,
+        "num": 371187,
+        "word": "宋仲基因为电影扑街哭了",
+        "onboard_time": 1736957357,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156078,
+        "num": 156078,
+        "word": "泡泡玛特不再希望成为中国迪士尼",
+        "onboard_time": 1736957357,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14570,
+        "num": 102772,
+        "word": "以旧换新带动销售超1.3万亿元",
+        "onboard_time": 1736949981,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82766,
+        "num": 82766,
+        "word": "洛杉矶富人有钱能让山火改道",
+        "onboard_time": 1736925798,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 76405,
+        "num": 76405,
+        "word": "3岁男童独自在家睡梦中被烧成重伤",
+        "onboard_time": 1736945298,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72093,
+        "num": 72093,
+        "word": "放羊的星星男演员卷入杀人案",
+        "onboard_time": 1736935939,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63010,
+        "num": 63010,
+        "word": "6000元以下手机补贴最终价格的15%",
+        "onboard_time": 1736948599,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 58161,
+        "num": 58161,
+        "word": "黄子韬送车被标价1万到6万转卖",
+        "onboard_time": 1736951361,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54990,
+        "num": 54990,
+        "word": "职业本科与高职专科普通本科有啥区别",
+        "onboard_time": 1736956757,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 11592,
+        "num": 54980,
+        "word": "春运回家路有他们默默守护",
+        "onboard_time": 1736979013,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 157176,
+        "num": 54426,
+        "word": "黄轩回应公开女友",
+        "onboard_time": 1736952020,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108120,
+        "num": 53669,
+        "word": "包小柏AI女儿近况",
+        "onboard_time": 1736957657,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83627,
+        "num": 53399,
+        "word": "下一个TikTok还是中国产",
+        "onboard_time": 1736942718,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 55124,
+        "num": 52785,
+        "word": "外媒称TikTok将硬刚美国禁令",
+        "onboard_time": 1736938281,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 52778,
+        "num": 52778,
+        "word": "TikTok难民来啦",
+        "onboard_time": 1736944098,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 44882,
+        "num": 44882,
+        "word": "国色芳华收视率",
+        "onboard_time": 1736953879,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44158,
+        "num": 44158,
+        "word": "华春莹卸任外交部发言人",
+        "onboard_time": 1736942897,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 41350,
+        "num": 41350,
+        "word": "赵露思活动参与者需持邀请函",
+        "onboard_time": 1736959035,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38755,
+        "num": 38755,
+        "word": "刘晓庆说她一个月生不了一次气",
+        "onboard_time": 1736952620,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32825,
+        "num": 32825,
+        "word": "小红书2天新增超70万用户",
+        "onboard_time": 1736936540,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 48833,
+        "num": 32358,
+        "word": "女子把年假当年会奖励被公司开除",
+        "onboard_time": 1736931259,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31306,
+        "num": 31306,
+        "word": "李威经纪人回应杀人案",
+        "onboard_time": 1736942358,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28962,
+        "num": 28962,
+        "word": "1月20日起买手机最高补500元",
+        "onboard_time": 1736956998,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 28385,
+        "num": 28385,
+        "word": "婚前房产为另一方加名若离婚归谁",
+        "onboard_time": 1736950280,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27054,
+        "num": 27054,
+        "word": "尹锡悦所处公调处附近有人自焚身亡",
+        "onboard_time": 1736959575,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26714,
+        "num": 26714,
+        "word": "美国网友向中国网友求助数学题",
+        "onboard_time": 1736949798,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25384,
+        "num": 25384,
+        "word": "丁禹兮回应虞书欣祝绪丹杨仕泽",
+        "onboard_time": 1736946320,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25287,
+        "num": 25287,
+        "word": "你皮肤不好真有可能是饮食问题",
+        "onboard_time": 1736944877,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 24294,
+        "num": 24294,
+        "word": "泰国为刺激旅游业批准赌博合法化",
+        "onboard_time": 1736938879,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 23611,
+        "num": 23611,
+        "word": "赵露思疑似将复工",
+        "onboard_time": 1736922259,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23441,
+        "num": 23441,
+        "word": "放假去埃及玩的人嘴真严",
+        "onboard_time": 1736970491,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22942,
+        "num": 22942,
+        "word": "美被提名防长一个东盟国家都没说对",
+        "onboard_time": 1736953879,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22203,
+        "num": 22203,
+        "word": "陈小纭大奉拽妃",
+        "onboard_time": 1736946559,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22195,
+        "num": 22195,
+        "word": "尹锡悦讯问细节公开",
+        "onboard_time": 1736977030,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21104,
+        "num": 21104,
+        "word": "内心强大的人有这4种特质",
+        "onboard_time": 1736956339,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20130,
+        "num": 20130,
+        "word": "陈哲远 轻飘飘的一句话造就神图",
+        "onboard_time": 1736943077,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19599,
+        "num": 19599,
+        "word": "公安机关全力协调解救境外被困人员",
+        "onboard_time": 1736946259,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19542,
+        "num": 19542,
+        "word": "宣传冰雪旅游直接打起了雪仗",
+        "onboard_time": 1736961434,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19299,
+        "num": 19299,
+        "word": "尹锡悦午餐盒饭晚餐大酱汤夜里拘留所",
+        "onboard_time": 1736948599,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19254,
+        "num": 19254,
+        "word": "美国小朋友们在北京公园唱如愿",
+        "onboard_time": 1736974331,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18391,
+        "num": 18391,
+        "word": "奶奶听信电吹风暖背5岁男孩被烧伤",
+        "onboard_time": 1736967911,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16713,
+        "num": 18391,
+        "word": "专家建议恢复IPO及正常做空机制",
+        "onboard_time": 1736976071,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 16666,
+        "num": 18391,
+        "word": "外交部表示对韩国内政不做评论",
+        "onboard_time": 1736966231,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16659,
+        "num": 18391,
+        "word": "愿推动中韩关系健康稳定发展",
+        "onboard_time": 1736965032,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16256,
+        "num": 18390,
+        "word": "年轻人吐槽压岁钱用光年终奖",
+        "onboard_time": 1736973792,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15940,
+        "num": 18390,
+        "word": "2024年华晨宇十佳造型",
+        "onboard_time": 1736959123,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15173,
+        "num": 18390,
+        "word": "猎罪图鉴2播放破20亿",
+        "onboard_time": 1736966831,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14858,
+        "num": 18389,
+        "word": "抬头看到XXXL号大月亮",
+        "onboard_time": 1736958316,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13823,
+        "num": 18389,
+        "word": "面对逮捕尹锡悦为何态度转变",
+        "onboard_time": 1736971332,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13794,
+        "num": 18389,
+        "word": "燕云十六声",
+        "onboard_time": 1736958375,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同越共中央总书记苏林通电话#"
+    }
+  }
+}
