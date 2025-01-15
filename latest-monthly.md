@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/16 00:41:14
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/16 01:19:28
 </p>
 </blockquote>
 <p>
@@ -5487,6 +5487,12 @@ SM新男团（热度：642706）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E4%B8%8D%E5%86%8D%E5%B8%8C%E6%9C%9B%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E8%BF%AA%E5%A3%AB%E5%B0%BC%23" target="weibo">
+泡泡玛特不再希望成为中国迪士尼（热度：628560）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC6.7%E7%BA%A7%E5%B7%A6%E5%8F%B3%E5%9C%B0%E9%9C%87%23" target="weibo">
 日本6.7级左右地震（热度：627690）
 </a>
@@ -6005,12 +6011,6 @@ EXO唱了初雪（热度：600311）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AE%A2%E6%9C%BA%E5%A4%B1%E4%BA%8B%E7%8E%B0%E5%9C%BA%E5%8F%91%E7%8E%B0%E6%B3%A2%E9%9F%B3737%E6%89%8B%E5%86%8C%E6%AE%8B%E9%A1%B5%23" target="weibo">
 韩客机失事现场发现波音737手册残页（热度：584701）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E6%9C%80%E8%BF%91%E5%8F%88%E7%88%B1%E4%B8%8A%E4%BA%86%E5%B0%8F%E7%83%A7%E7%83%A4%23" target="weibo">
-李现最近又爱上了小烧烤（热度：582228）
 </a>
 </li>
 
