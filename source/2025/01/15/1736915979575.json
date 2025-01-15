@@ -1,0 +1,410 @@
+{
+  "runTime": 1736915979575,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1725305,
+        "num": 1725305,
+        "word": "尹锡悦被逮捕",
+        "onboard_time": 1736900118,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1581158,
+        "num": 1581158,
+        "word": "美国网友涌入小红书交猫税",
+        "onboard_time": 1736909359,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 234854,
+        "num": 1536267,
+        "word": "过年回家的意义在此刻具象化了",
+        "onboard_time": 1736910738,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1526385,
+        "num": 1526385,
+        "word": "刘晓庆大方承认自己的错误",
+        "onboard_time": 1736908219,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 969166,
+        "num": 969166,
+        "word": "泰国考虑对电诈园区断电断网",
+        "onboard_time": 1736914699,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 928858,
+        "num": 928858,
+        "word": "韩国史上首次逮捕现任总统",
+        "onboard_time": 1736908819,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 849519,
+        "num": 849519,
+        "word": "4岁女童被爸爸带着跳楼捡回一命",
+        "onboard_time": 1736913619,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 677815,
+        "num": 677815,
+        "word": "张凌赫也看了国色芳华",
+        "onboard_time": 1736913739,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 655465,
+        "num": 655465,
+        "word": "孙颖莎理肤泉",
+        "onboard_time": 1736912658,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376239,
+        "num": 570612,
+        "word": "尹锡悦不打领带录视频讲话",
+        "onboard_time": 1736913379,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 885745,
+        "num": 570378,
+        "word": "字节跳动100元标餐的免费三餐",
+        "onboard_time": 1736914639,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 776217,
+        "num": 570089,
+        "word": "谢娜李小冉闹掰的原因",
+        "onboard_time": 1736897897,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 569146,
+        "num": 569146,
+        "word": "青簪行",
+        "onboard_time": 1736904617,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 541497,
+        "num": 541497,
+        "word": "张凌赫回应被田曦薇背的感受",
+        "onboard_time": 1736914340,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 476050,
+        "num": 476050,
+        "word": "Angelababy卷发挑染",
+        "onboard_time": 1736898617,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 457285,
+        "num": 457285,
+        "word": "丁禹兮杂志",
+        "onboard_time": 1736912599,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 380003,
+        "num": 380003,
+        "word": "国考进面名单",
+        "onboard_time": 1736912599,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 335614,
+        "num": 335614,
+        "word": "网剧夺娶开播",
+        "onboard_time": 1736915060,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328767,
+        "num": 328767,
+        "word": "创亚2官宣发起人徐明浩",
+        "onboard_time": 1736911038,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299256,
+        "num": 299256,
+        "word": "婆婆谎称是死胎把孩子送人或涉拐骗",
+        "onboard_time": 1736868618,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 731241,
+        "num": 296537,
+        "word": "青簪行男主",
+        "onboard_time": 1736914459,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 438998,
+        "num": 290951,
+        "word": "国外一水豚咬女孩数次将其压到水下",
+        "onboard_time": 1736911939,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 299583,
+        "num": 284960,
+        "word": "交猫税是什么梗",
+        "onboard_time": 1736913919,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 277904,
+        "num": 277904,
+        "word": "得知家里负债11岁女孩哭着退掉新衣",
+        "onboard_time": 1736906417,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169591,
+        "num": 277597,
+        "word": "郑钦文对手临时接广",
+        "onboard_time": 1736912599,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277447,
+        "num": 277447,
+        "word": "鹿晗杂志取消预售",
+        "onboard_time": 1736909359,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 274726,
+        "num": 274726,
+        "word": "丁禹兮时装开售销量",
+        "onboard_time": 1736913440,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 264535,
+        "num": 264535,
+        "word": "尹锡悦已抵达政府大楼",
+        "onboard_time": 1736908638,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 251248,
+        "num": 251248,
+        "word": "中国人研究月球土特产发现了新秘密",
+        "onboard_time": 1736908278,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 65319,
+        "num": 246826,
+        "word": "柳智敏粉色贝雷帽",
+        "onboard_time": 1736915840,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246459,
+        "num": 246459,
+        "word": "郑钦文说我尽力了",
+        "onboard_time": 1736913200,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238176,
+        "num": 238176,
+        "word": "下下周三是第一个非遗春节",
+        "onboard_time": 1736903479,
+        "rank": 31,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 238084,
+        "num": 238084,
+        "word": "12306客服回应候补人数多能否增加车次",
+        "onboard_time": 1736910919,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237567,
+        "num": 237567,
+        "word": "尹锡悦称不认可公调处调查",
+        "onboard_time": 1736903717,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 221836,
+        "num": 221836,
+        "word": "白鹿敖瑞鹏两人痣长在同个位置",
+        "onboard_time": 1736912658,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213649,
+        "num": 213649,
+        "word": "因为晕碳戒掉了熬夜",
+        "onboard_time": 1736904978,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195196,
+        "num": 195196,
+        "word": "鹿晗将缺席五哈录制",
+        "onboard_time": 1736898196,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171594,
+        "num": 171594,
+        "word": "白起新皮肤苍鳞隐世",
+        "onboard_time": 1736914820,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166500,
+        "num": 166500,
+        "word": "韩国29吨核废液排海影响有多大",
+        "onboard_time": 1736902399,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163806,
+        "num": 163806,
+        "word": "尹锡悦发表对民众讲话",
+        "onboard_time": 1736907558,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149324,
+        "num": 149324,
+        "word": "郑钦文0比2西格蒙德",
+        "onboard_time": 1736908819,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145504,
+        "num": 145504,
+        "word": "解决婚姻家庭纠纷最新司法规定来了",
+        "onboard_time": 1736913559,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124724,
+        "num": 124724,
+        "word": "荣耀回应CEO赵明离职",
+        "onboard_time": 1736912658,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 122698,
+        "num": 122698,
+        "word": "江秋莲新增维权案件",
+        "onboard_time": 1736915300,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121452,
+        "num": 121452,
+        "word": "不知不觉控制体重的10个好习惯",
+        "onboard_time": 1736912658,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 53759,
+        "num": 117870,
+        "word": "旅行新蜜蜂回应散装乐队",
+        "onboard_time": 1736914639,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116271,
+        "num": 116271,
+        "word": "国考调剂",
+        "onboard_time": 1736915721,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 114589,
+        "num": 114589,
+        "word": "到底是谁忽悠洋抖难民交猫税",
+        "onboard_time": 1736900900,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 112747,
+        "num": 112747,
+        "word": "董洁国色芳华出场镜头",
+        "onboard_time": 1736903059,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111244,
+        "num": 111244,
+        "word": "向太行李超重",
+        "onboard_time": 1736909659,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同欧洲理事会主席科斯塔通电话#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1736872066671,
-  "endTime": 1736915157798,
+  "endTime": 1736915979575,
   "band_list": [
     {
       "raw_hot": 3396289,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1665912,
-      "num": 498112,
+      "num": 570089,
       "word": "谢娜李小冉闹掰的原因",
       "onboard_time": 1736897897,
       "rank": 10,
@@ -57,6 +57,30 @@
       "onboard_time": 1736904617,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 969166,
+      "num": 969166,
+      "word": "泰国考虑对电诈园区断电断网",
+      "onboard_time": 1736914699,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 885745,
+      "num": 570378,
+      "word": "字节跳动100元标餐的免费三餐",
+      "onboard_time": 1736914639,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 849519,
+      "num": 849519,
+      "word": "4岁女童被爸爸带着跳楼捡回一命",
+      "onboard_time": 1736913619,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 819555,
@@ -83,12 +107,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 745989,
-      "num": 745989,
-      "word": "4岁女童被爸爸带着跳楼捡回一命",
-      "onboard_time": 1736913619,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 731241,
+      "num": 313876,
+      "word": "青簪行男主",
+      "onboard_time": 1736914459,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 677815,
+      "num": 677815,
+      "word": "张凌赫也看了国色芳华",
+      "onboard_time": 1736913739,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 668726,
@@ -108,7 +140,7 @@
     },
     {
       "raw_hot": 651249,
-      "num": 473946,
+      "num": 476050,
       "word": "Angelababy卷发挑染",
       "onboard_time": 1736898617,
       "rank": 11,
@@ -195,11 +227,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 508181,
-      "num": 508181,
-      "word": "张凌赫也看了国色芳华",
-      "onboard_time": 1736913739,
-      "rank": 9,
+      "raw_hot": 541497,
+      "num": 541497,
+      "word": "张凌赫回应被田曦薇背的感受",
+      "onboard_time": 1736914340,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -235,14 +267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 460345,
-      "num": 313876,
-      "word": "青簪行男主",
-      "onboard_time": 1736914459,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 454973,
       "num": 313872,
       "word": "国外一水豚咬女孩数次将其压到水下",
@@ -273,14 +297,6 @@
       "onboard_time": 1736912599,
       "rank": 14,
       "category": "教育"
-    },
-    {
-      "raw_hot": 403559,
-      "num": 280407,
-      "word": "字节跳动100元标餐的免费三餐",
-      "onboard_time": 1736914639,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 403026,
@@ -323,6 +339,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 376239,
+      "num": 570612,
+      "word": "尹锡悦不打领带录视频讲话",
+      "onboard_time": 1736913379,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 356428,
       "num": 356428,
       "word": "尹锡悦",
@@ -339,12 +363,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 327944,
-      "num": 327944,
-      "word": "泰国考虑对电诈园区断电断网",
-      "onboard_time": 1736914699,
-      "rank": 16,
-      "category": "海外新闻"
+      "raw_hot": 335614,
+      "num": 335614,
+      "word": "网剧夺娶开播",
+      "onboard_time": 1736915060,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 315362,
@@ -363,14 +387,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 313642,
-      "num": 313642,
-      "word": "张凌赫回应被田曦薇背的感受",
-      "onboard_time": 1736914340,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 313458,
       "num": 313458,
       "word": "韩国警方进入总统官邸",
@@ -385,6 +401,14 @@
       "onboard_time": 1736899878,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 299583,
+      "num": 284960,
+      "word": "交猫税是什么梗",
+      "onboard_time": 1736913919,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 298228,
@@ -427,14 +451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 279239,
-      "num": 279239,
-      "word": "网剧夺娶开播",
-      "onboard_time": 1736915060,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 278532,
       "num": 272209,
       "word": "向佐自曝小学时因父母身份被霸凌",
@@ -465,14 +481,6 @@
       "onboard_time": 1736901920,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 256635,
-      "num": 256635,
-      "word": "尹锡悦不打领带录视频讲话",
-      "onboard_time": 1736913379,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 255996,
@@ -547,20 +555,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 239384,
-      "num": 239384,
-      "word": "交猫税是什么梗",
-      "onboard_time": 1736913919,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 238772,
       "num": 238772,
       "word": "尹锡悦将接受调查主动走出官邸",
       "onboard_time": 1736906417,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 238084,
+      "num": 238084,
+      "word": "12306客服回应候补人数多能否增加车次",
+      "onboard_time": 1736910919,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 237676,
@@ -659,14 +667,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196762,
-      "num": 196762,
-      "word": "12306客服回应候补人数多能否增加车次",
-      "onboard_time": 1736910919,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 196694,
       "num": 196694,
       "word": "花融",
@@ -753,6 +753,14 @@
       "onboard_time": 1736912599,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171594,
+      "num": 171594,
+      "word": "白起新皮肤苍鳞隐世",
+      "onboard_time": 1736914820,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 170360,
@@ -851,14 +859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151099,
-      "num": 151099,
-      "word": "白起新皮肤苍鳞隐世",
-      "onboard_time": 1736914820,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 149104,
       "num": 176691,
       "word": "官方回应上海能否接住霉霉演出",
@@ -881,6 +881,14 @@
       "onboard_time": 1736904260,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 145504,
+      "num": 145504,
+      "word": "解决婚姻家庭纠纷最新司法规定来了",
+      "onboard_time": 1736913559,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144642,
@@ -939,14 +947,6 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 131300,
-      "num": 131300,
-      "word": "解决婚姻家庭纠纷最新司法规定来了",
-      "onboard_time": 1736913559,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129349,
       "num": 129349,
       "word": "家属称景德镇车祸死者父母重度抑郁",
@@ -987,6 +987,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 124724,
+      "num": 124724,
+      "word": "荣耀回应CEO赵明离职",
+      "onboard_time": 1736912658,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 124442,
       "num": 124442,
       "word": "00后女生高铁上6小时织了顶帽子",
@@ -1003,8 +1011,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 121035,
-      "num": 121035,
+      "raw_hot": 122698,
+      "num": 122698,
+      "word": "江秋莲新增维权案件",
+      "onboard_time": 1736915300,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121452,
+      "num": 121452,
       "word": "不知不觉控制体重的10个好习惯",
       "onboard_time": 1736912658,
       "rank": 49,
@@ -1025,6 +1041,14 @@
       "onboard_time": 1736907799,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 116271,
+      "num": 116271,
+      "word": "国考调剂",
+      "onboard_time": 1736915721,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 111223,
@@ -1345,6 +1369,14 @@
       "onboard_time": 1736867660,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 65319,
+      "num": 246826,
+      "word": "柳智敏粉色贝雷帽",
+      "onboard_time": 1736915840,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 63011,

@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736915157798,
+  "endTime": 1736915979575,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 1665912,
-      "num": 498112,
+      "num": 570089,
       "word": "谢娜李小冉闹掰的原因",
       "onboard_time": 1736897897,
       "rank": 10,
@@ -763,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 969166,
+      "num": 969166,
+      "word": "泰国考虑对电诈园区断电断网",
+      "onboard_time": 1736914699,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 963871,
       "num": 963871,
       "word": "两缉毒警曾假扮情侣如今订婚了",
@@ -899,6 +907,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 885745,
+      "num": 570378,
+      "word": "字节跳动100元标餐的免费三餐",
+      "onboard_time": 1736914639,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 866002,
       "num": 866002,
       "word": "河北沧州3.4级地震",
@@ -912,6 +928,14 @@
       "word": "加州山火对比重庆让美网友破防了",
       "onboard_time": 1736682979,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 849519,
+      "num": 849519,
+      "word": "4岁女童被爸爸带着跳楼捡回一命",
+      "onboard_time": 1736913619,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -1171,14 +1195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 745989,
-      "num": 745989,
-      "word": "4岁女童被爸爸带着跳楼捡回一命",
-      "onboard_time": 1736913619,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 743773,
       "num": 654811,
       "word": "SM新女团 SMTOWN压轴",
@@ -1209,6 +1225,14 @@
       "onboard_time": 1736743161,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 731241,
+      "num": 313876,
+      "word": "青簪行男主",
+      "onboard_time": 1736914459,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 731179,
@@ -1411,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 677815,
+      "num": 677815,
+      "word": "张凌赫也看了国色芳华",
+      "onboard_time": 1736913739,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 674261,
       "num": 579206,
       "word": "孟子义 是你拿了他微博账号吗",
@@ -1476,7 +1508,7 @@
     },
     {
       "raw_hot": 651249,
-      "num": 473946,
+      "num": 476050,
       "word": "Angelababy卷发挑染",
       "onboard_time": 1736898617,
       "rank": 11,
@@ -1875,6 +1907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 541497,
+      "num": 541497,
+      "word": "张凌赫回应被田曦薇背的感受",
+      "onboard_time": 1736914340,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 529423,
       "num": 162920,
       "word": "脖颈长疣是感染HPV了吗",
@@ -1985,14 +2025,6 @@
       "onboard_time": 1736607572,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 508181,
-      "num": 508181,
-      "word": "张凌赫也看了国色芳华",
-      "onboard_time": 1736913739,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 505634,
@@ -2216,14 +2248,6 @@
       "word": "敖瑞鹏红温了",
       "onboard_time": 1736683639,
       "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 460345,
-      "num": 313876,
-      "word": "青簪行男主",
-      "onboard_time": 1736914459,
-      "rank": 21,
       "category": "剧集"
     },
     {
@@ -2483,14 +2507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 403559,
-      "num": 280407,
-      "word": "字节跳动100元标餐的免费三餐",
-      "onboard_time": 1736914639,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 402497,
       "num": 547445,
       "word": "加沙孤儿说希望导弹击中我",
@@ -2705,6 +2721,14 @@
       "onboard_time": 1736837418,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 376239,
+      "num": 570612,
+      "word": "尹锡悦不打领带录视频讲话",
+      "onboard_time": 1736913379,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 373460,
@@ -2971,6 +2995,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 335614,
+      "num": 335614,
+      "word": "网剧夺娶开播",
+      "onboard_time": 1736915060,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 334472,
       "num": 334472,
       "word": "多位博主实探中国游客在日被撞现场",
@@ -3041,14 +3073,6 @@
       "onboard_time": 1736690722,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 327944,
-      "num": 327944,
-      "word": "泰国考虑对电诈园区断电断网",
-      "onboard_time": 1736914699,
-      "rank": 16,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 326448,
@@ -3168,14 +3192,6 @@
       "word": "白月梵星直播",
       "onboard_time": 1736668458,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 313642,
-      "num": 313642,
-      "word": "张凌赫回应被田曦薇背的感受",
-      "onboard_time": 1736914340,
-      "rank": 23,
       "category": "剧集"
     },
     {
@@ -3305,6 +3321,14 @@
       "onboard_time": 1736669359,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 299583,
+      "num": 284960,
+      "word": "交猫税是什么梗",
+      "onboard_time": 1736913919,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 299556,
@@ -3505,14 +3529,6 @@
       "onboard_time": 1736747299,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 279239,
-      "num": 279239,
-      "word": "网剧夺娶开播",
-      "onboard_time": 1736915060,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 278532,
@@ -3819,14 +3835,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 256635,
-      "num": 256635,
-      "word": "尹锡悦不打领带录视频讲话",
-      "onboard_time": 1736913379,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 255996,
       "num": 255996,
       "word": "国考分数线",
@@ -4083,14 +4091,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 239384,
-      "num": 239384,
-      "word": "交猫税是什么梗",
-      "onboard_time": 1736913919,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 238772,
       "num": 238772,
       "word": "尹锡悦将接受调查主动走出官邸",
@@ -4105,6 +4105,14 @@
       "onboard_time": 1736738838,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 238084,
+      "num": 238084,
+      "word": "12306客服回应候补人数多能否增加车次",
+      "onboard_time": 1736910919,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 237676,
@@ -5227,14 +5235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196762,
-      "num": 196762,
-      "word": "12306客服回应候补人数多能否增加车次",
-      "onboard_time": 1736910919,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 196694,
       "num": 196694,
       "word": "花融",
@@ -6267,6 +6267,14 @@
       "category": "体育,民生新闻"
     },
     {
+      "raw_hot": 171594,
+      "num": 171594,
+      "word": "白起新皮肤苍鳞隐世",
+      "onboard_time": 1736914820,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 171455,
       "num": 171455,
       "word": "LPL",
@@ -7107,14 +7115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 151099,
-      "num": 151099,
-      "word": "白起新皮肤苍鳞隐世",
-      "onboard_time": 1736914820,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 150813,
       "num": 164965,
       "word": "重庆大哥帮山东货车司机开山路",
@@ -7400,6 +7400,14 @@
       "word": "冷空气周一上线",
       "onboard_time": 1736641760,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145504,
+      "num": 145504,
+      "word": "解决婚姻家庭纠纷最新司法规定来了",
+      "onboard_time": 1736913559,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -8099,14 +8107,6 @@
       "category": "艺人,美食"
     },
     {
-      "raw_hot": 131300,
-      "num": 131300,
-      "word": "解决婚姻家庭纠纷最新司法规定来了",
-      "onboard_time": 1736913559,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 131174,
       "num": 131174,
       "word": "孙珍妮太适合暗域魅女了",
@@ -8475,6 +8475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 124724,
+      "num": 124724,
+      "word": "荣耀回应CEO赵明离职",
+      "onboard_time": 1736912658,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 124442,
       "num": 124442,
       "word": "00后女生高铁上6小时织了顶帽子",
@@ -8513,6 +8521,14 @@
       "onboard_time": 1736641278,
       "rank": 48,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 122698,
+      "num": 122698,
+      "word": "江秋莲新增维权案件",
+      "onboard_time": 1736915300,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122607,
@@ -8569,6 +8585,14 @@
       "onboard_time": 1736766620,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121452,
+      "num": 121452,
+      "word": "不知不觉控制体重的10个好习惯",
+      "onboard_time": 1736912658,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 121445,
@@ -8633,14 +8657,6 @@
       "onboard_time": 1736851999,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121035,
-      "num": 121035,
-      "word": "不知不觉控制体重的10个好习惯",
-      "onboard_time": 1736912658,
-      "rank": 49,
-      "category": "运动健身"
     },
     {
       "raw_hot": 120891,
@@ -8825,6 +8841,14 @@
       "onboard_time": 1736858419,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116271,
+      "num": 116271,
+      "word": "国考调剂",
+      "onboard_time": 1736915721,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 116194,
@@ -10273,6 +10297,14 @@
       "onboard_time": 1736736677,
       "rank": 2,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 65319,
+      "num": 246826,
+      "word": "柳智敏粉色贝雷帽",
+      "onboard_time": 1736915840,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 65184,
