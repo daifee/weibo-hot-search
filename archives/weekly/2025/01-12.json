@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736983256864,
+  "endTime": 1736984200629,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -1884,7 +1884,7 @@
     },
     {
       "raw_hot": 628560,
-      "num": 628560,
+      "num": 896013,
       "word": "泡泡玛特不再希望成为中国迪士尼",
       "onboard_time": 1736957357,
       "rank": 22,
@@ -2651,6 +2651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 459852,
+      "num": 288708,
+      "word": "郑氏姐妹",
+      "onboard_time": 1736982374,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 457821,
       "num": 457821,
       "word": "哈利波特主题乐园有望落沪",
@@ -3091,6 +3099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 389355,
+      "num": 389355,
+      "word": "因公牺牲的27岁辅警孩子刚满百天",
+      "onboard_time": 1736980692,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 388808,
       "num": 388808,
       "word": "等国考成绩",
@@ -3137,6 +3153,14 @@
       "onboard_time": 1736904978,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 381311,
+      "num": 363411,
+      "word": "包小柏AI女儿近况",
+      "onboard_time": 1736957657,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 381183,
@@ -3297,14 +3321,6 @@
       "onboard_time": 1736666419,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 363411,
-      "num": 363411,
-      "word": "包小柏AI女儿近况",
-      "onboard_time": 1736957657,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 363296,
@@ -3715,6 +3731,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 317668,
+      "num": 241982,
+      "word": "下一个TikTok还是中国产",
+      "onboard_time": 1736942718,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 316888,
       "num": 316888,
       "word": "张雅钦镜头下的杨紫",
@@ -4043,14 +4067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 288708,
-      "num": 288708,
-      "word": "郑氏姐妹",
-      "onboard_time": 1736982374,
-      "rank": 3,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 288493,
       "num": 288493,
       "word": "白月梵星婆媳大战",
@@ -4193,14 +4209,6 @@
       "onboard_time": 1736748799,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 276638,
-      "num": 241982,
-      "word": "下一个TikTok还是中国产",
-      "onboard_time": 1736942718,
-      "rank": 24,
-      "category": "互联网"
     },
     {
       "raw_hot": 276562,
@@ -5537,6 +5545,14 @@
       "onboard_time": 1736747299,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 206803,
+      "num": 206803,
+      "word": "黄子韬送车被标价1万到6万转卖",
+      "onboard_time": 1736951361,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 206724,
@@ -7435,14 +7451,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 168238,
-      "num": 168238,
-      "word": "黄子韬送车被标价1万到6万转卖",
-      "onboard_time": 1736951361,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 168060,
       "num": 168060,
       "word": "何惟芳 委屈样子萌丝",
@@ -8121,14 +8129,6 @@
       "onboard_time": 1736671760,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 154035,
-      "num": 154035,
-      "word": "因公牺牲的27岁辅警孩子刚满百天",
-      "onboard_time": 1736980692,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153800,
@@ -10059,6 +10059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121373,
+      "num": 121373,
+      "word": "26岁小伙让老鼠啃过的古籍重生",
+      "onboard_time": 1736980752,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121313,
       "num": 577758,
       "word": "尹锡悦将不出席弹劾案首次正式辩论",
@@ -11531,6 +11539,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 87545,
+      "num": 68729,
+      "word": "男孩坐奖状堆看电视爸爸欲言又止",
+      "onboard_time": 1736984116,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86635,
       "num": 86635,
       "word": "当街家暴被呵止男子已与妻子和解",
@@ -11585,14 +11601,6 @@
       "onboard_time": 1736867660,
       "rank": 8,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 84270,
-      "num": 84270,
-      "word": "26岁小伙让老鼠啃过的古籍重生",
-      "onboard_time": 1736980752,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84263,
@@ -11987,6 +11995,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 69250,
+      "num": 69250,
+      "word": "男童被吹风机吹成深度烧伤",
+      "onboard_time": 1736984116,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69074,
       "num": 69074,
       "word": "国色芳华有效播放量破3亿",
@@ -12008,6 +12024,14 @@
       "word": "王欣瑜vs巴多萨",
       "onboard_time": 1736670257,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 67828,
+      "num": 67828,
+      "word": "黄友政vs张本智和",
+      "onboard_time": 1736984055,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -12153,6 +12177,14 @@
       "onboard_time": 1736753421,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 63083,
+      "num": 63083,
+      "word": "原来这是我们最早接触的群像",
+      "onboard_time": 1736984055,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 63011,
@@ -12579,12 +12611,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51015,
+      "num": 250449,
+      "word": "小伙为古画修补213个洞",
+      "onboard_time": 1736983094,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50794,
       "num": 50794,
       "word": "挑战一人分饰射雕五绝",
       "onboard_time": 1736960474,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 50692,
+      "num": 50692,
+      "word": "阿森纳2比1热刺",
+      "onboard_time": 1736984116,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 50286,
@@ -12683,6 +12731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46329,
+      "num": 50663,
+      "word": "嗑到了穿鱼跟牡丹",
+      "onboard_time": 1736982314,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 46290,
       "num": 206521,
       "word": "陈梦要为青少年体育事业贡献力量",
@@ -12707,6 +12763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 45460,
+      "num": 45460,
+      "word": "放假去埃及玩的人嘴真严",
+      "onboard_time": 1736970491,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 45446,
       "num": 164352,
       "word": "毕业的大学生还是小孩子吗",
@@ -12729,6 +12793,14 @@
       "onboard_time": 1736937439,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 45072,
+      "num": 45072,
+      "word": "肖战2025年新年台历",
+      "onboard_time": 1736984055,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 44585,
@@ -12760,6 +12832,22 @@
       "word": "律师解读重庆大量锦鲤被毒死案",
       "onboard_time": 1736778440,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43393,
+      "num": 324712,
+      "word": "以旧换新带动销售超1.3万亿元",
+      "onboard_time": 1736949981,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43137,
+      "num": 46689,
+      "word": "奶奶听信电吹风暖背5岁男孩被烧伤",
+      "onboard_time": 1736967911,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -12825,14 +12913,6 @@
       "onboard_time": 1736651659,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 41081,
-      "num": 41081,
-      "word": "放假去埃及玩的人嘴真严",
-      "onboard_time": 1736970491,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 40813,
@@ -12907,20 +12987,12 @@
       "category": "艺人,电竞"
     },
     {
-      "raw_hot": 38415,
-      "num": 324712,
-      "word": "以旧换新带动销售超1.3万亿元",
-      "onboard_time": 1736949981,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38211,
-      "num": 46689,
-      "word": "奶奶听信电吹风暖背5岁男孩被烧伤",
-      "onboard_time": 1736967911,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 38152,
+      "num": 42115,
+      "word": "失去家园的洛杉矶居民愤怒又无奈",
+      "onboard_time": 1736979912,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 37892,
@@ -13041,14 +13113,6 @@
       "onboard_time": 1736778921,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 33411,
-      "num": 36200,
-      "word": "失去家园的洛杉矶居民愤怒又无奈",
-      "onboard_time": 1736979912,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 32662,
@@ -13281,14 +13345,6 @@
       "onboard_time": 1736773101,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 25735,
-      "num": 36190,
-      "word": "嗑到了穿鱼跟牡丹",
-      "onboard_time": 1736982314,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 25645,
@@ -13720,14 +13776,6 @@
       "word": "地板价药品质量有保障吗",
       "onboard_time": 1736739558,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16152,
-      "num": 88325,
-      "word": "小伙为古画修补213个洞",
-      "onboard_time": 1736983094,
-      "rank": 19,
       "category": "民生新闻"
     },
     {

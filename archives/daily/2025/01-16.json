@@ -1,6 +1,6 @@
 {
   "startTime": 1736958421212,
-  "endTime": 1736983256864,
+  "endTime": 1736984200629,
   "band_list": [
     {
       "raw_hot": 1581563,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 628560,
-      "num": 628560,
+      "num": 896013,
       "word": "泡泡玛特不再希望成为中国迪士尼",
       "onboard_time": 1736957357,
       "rank": 22,
@@ -51,20 +51,36 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 459852,
+      "num": 288708,
+      "word": "郑氏姐妹",
+      "onboard_time": 1736982374,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 389355,
+      "num": 389355,
+      "word": "因公牺牲的27岁辅警孩子刚满百天",
+      "onboard_time": 1736980692,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 381311,
+      "num": 363411,
+      "word": "包小柏AI女儿近况",
+      "onboard_time": 1736957657,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 380397,
       "num": 380397,
       "word": "国色芳华收视率",
       "onboard_time": 1736953879,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 363411,
-      "num": 363411,
-      "word": "包小柏AI女儿近况",
-      "onboard_time": 1736957657,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 356254,
@@ -99,6 +115,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 317668,
+      "num": 211435,
+      "word": "下一个TikTok还是中国产",
+      "onboard_time": 1736942718,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 298473,
       "num": 298473,
       "word": "丁禹兮回应虞书欣祝绪丹杨仕泽",
@@ -113,22 +137,6 @@
       "onboard_time": 1736945298,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 288708,
-      "num": 288708,
-      "word": "郑氏姐妹",
-      "onboard_time": 1736982374,
-      "rank": 3,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 251361,
-      "num": 159828,
-      "word": "下一个TikTok还是中国产",
-      "onboard_time": 1736942718,
-      "rank": 23,
-      "category": "互联网"
     },
     {
       "raw_hot": 243460,
@@ -147,6 +155,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 206803,
+      "num": 206803,
+      "word": "黄子韬送车被标价1万到6万转卖",
+      "onboard_time": 1736951361,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201113,
       "num": 201113,
       "word": "唐嫣超短发造型",
@@ -161,6 +177,14 @@
       "onboard_time": 1736942897,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 192485,
+      "num": 151256,
+      "word": "女子把年假当年会奖励被公司开除",
+      "onboard_time": 1736931259,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190822,
@@ -179,36 +203,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168238,
-      "num": 168238,
-      "word": "黄子韬送车被标价1万到6万转卖",
-      "onboard_time": 1736951361,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 162455,
-      "num": 151256,
-      "word": "女子把年假当年会奖励被公司开除",
-      "onboard_time": 1736931259,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 162310,
       "num": 162310,
       "word": "内心强大的人有这4种特质",
       "onboard_time": 1736956339,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 154035,
-      "num": 154035,
-      "word": "因公牺牲的27岁辅警孩子刚满百天",
-      "onboard_time": 1736980692,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151928,
@@ -243,6 +243,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 121373,
+      "num": 121373,
+      "word": "26岁小伙让老鼠啃过的古籍重生",
+      "onboard_time": 1736980752,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117491,
       "num": 117491,
       "word": "国色芳华 我就说不加更会出事吧",
@@ -275,20 +283,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 97478,
+      "num": 97478,
+      "word": "李威经纪人回应杀人案",
+      "onboard_time": 1736942358,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95485,
       "num": 95485,
       "word": "陈立农现身湾区春晚",
       "onboard_time": 1736945237,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 95035,
-      "num": 92967,
-      "word": "李威经纪人回应杀人案",
-      "onboard_time": 1736942358,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 93679,
@@ -307,20 +315,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87545,
+      "num": 68729,
+      "word": "男孩坐奖状堆看电视爸爸欲言又止",
+      "onboard_time": 1736984116,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85199,
       "num": 85199,
       "word": "美国网友向中国网友求助数学题",
       "onboard_time": 1736949798,
       "rank": 36,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 84270,
-      "num": 84270,
-      "word": "26岁小伙让老鼠啃过的古籍重生",
-      "onboard_time": 1736980752,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83164,
@@ -371,12 +379,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 69250,
+      "num": 69250,
+      "word": "男童被吹风机吹成深度烧伤",
+      "onboard_time": 1736984116,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68754,
       "num": 84813,
       "word": "尹锡悦所处公调处附近有人自焚身亡",
       "onboard_time": 1736959575,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 67828,
+      "num": 67828,
+      "word": "黄友政vs张本智和",
+      "onboard_time": 1736984055,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 67124,
@@ -409,6 +433,14 @@
       "onboard_time": 1736940438,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 63083,
+      "num": 63083,
+      "word": "原来这是我们最早接触的群像",
+      "onboard_time": 1736984055,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 62652,
@@ -467,12 +499,28 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 51015,
+      "num": 250449,
+      "word": "小伙为古画修补213个洞",
+      "onboard_time": 1736983094,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50794,
       "num": 50794,
       "word": "挑战一人分饰射雕五绝",
       "onboard_time": 1736960474,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 50692,
+      "num": 50692,
+      "word": "阿森纳2比1热刺",
+      "onboard_time": 1736984116,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 50286,
@@ -483,6 +531,46 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 46329,
+      "num": 50663,
+      "word": "嗑到了穿鱼跟牡丹",
+      "onboard_time": 1736982314,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 45460,
+      "num": 45460,
+      "word": "放假去埃及玩的人嘴真严",
+      "onboard_time": 1736970491,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 45072,
+      "num": 45072,
+      "word": "肖战2025年新年台历",
+      "onboard_time": 1736984055,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 43393,
+      "num": 324712,
+      "word": "以旧换新带动销售超1.3万亿元",
+      "onboard_time": 1736949981,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43137,
+      "num": 46689,
+      "word": "奶奶听信电吹风暖背5岁男孩被烧伤",
+      "onboard_time": 1736967911,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41457,
       "num": 41457,
       "word": "桃花坞开放中收官",
@@ -491,28 +579,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 41081,
-      "num": 41081,
-      "word": "放假去埃及玩的人嘴真严",
-      "onboard_time": 1736970491,
-      "rank": 31,
-      "category": "情感"
+      "raw_hot": 40244,
+      "num": 42107,
+      "word": "肖战谈自己五年间的变化",
+      "onboard_time": 1736934785,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
-      "raw_hot": 38415,
-      "num": 324712,
-      "word": "以旧换新带动销售超1.3万亿元",
-      "onboard_time": 1736949981,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 38152,
+      "num": 42115,
+      "word": "失去家园的洛杉矶居民愤怒又无奈",
+      "onboard_time": 1736979912,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
-      "raw_hot": 38211,
-      "num": 46689,
-      "word": "奶奶听信电吹风暖背5岁男孩被烧伤",
-      "onboard_time": 1736967911,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 36978,
+      "num": 42111,
+      "word": "陈小纭大奉拽妃",
+      "onboard_time": 1736946559,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 36427,
@@ -529,22 +617,6 @@
       "onboard_time": 1736949199,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 34036,
-      "num": 36203,
-      "word": "陈小纭大奉拽妃",
-      "onboard_time": 1736946559,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 33411,
-      "num": 36200,
-      "word": "失去家园的洛杉矶居民愤怒又无奈",
-      "onboard_time": 1736979912,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 32317,
@@ -593,14 +665,6 @@
       "onboard_time": 1736974331,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 25735,
-      "num": 36190,
-      "word": "嗑到了穿鱼跟牡丹",
-      "onboard_time": 1736982314,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 25392,
@@ -656,14 +720,6 @@
       "word": "年轻人吐槽压岁钱用光年终奖",
       "onboard_time": 1736973792,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16152,
-      "num": 88325,
-      "word": "小伙为古画修补213个洞",
-      "onboard_time": 1736983094,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
