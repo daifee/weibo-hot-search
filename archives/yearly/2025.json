@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736951929348,
+  "endTime": 1736954598857,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -2171,6 +2171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1473519,
+      "num": 341490,
+      "word": "黄轩回应公开女友",
+      "onboard_time": 1736952020,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1472244,
       "num": 806392,
       "word": "王玮晨向赵露思道歉",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736309241,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1360736,
-      "num": 1360736,
-      "word": "张艺兴吸氧",
-      "onboard_time": 1736508080,
-      "rank": 26,
-      "category": "演出"
     }
   ],
   "hotgov_list": [

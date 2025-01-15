@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736951929348,
+  "endTime": 1736954598857,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -457,6 +457,14 @@
       "onboard_time": 1736838618,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1473519,
+      "num": 341490,
+      "word": "黄轩回应公开女友",
+      "onboard_time": 1736952020,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1447679,
@@ -2283,6 +2291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 521761,
+      "num": 306363,
+      "word": "香港一警署发生枪击",
+      "onboard_time": 1736950520,
+      "rank": 39,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 520384,
       "num": 472235,
       "word": "宋佳晒虞书欣拍的她",
@@ -3611,6 +3627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 320620,
+      "num": 381039,
+      "word": "婚前房产为另一方加名若离婚归谁",
+      "onboard_time": 1736950280,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320351,
       "num": 320351,
       "word": "国色芳华小姨上大分",
@@ -3649,6 +3673,14 @@
       "onboard_time": 1736638756,
       "rank": 17,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 317547,
+      "num": 317547,
+      "word": "刘晓庆说她一个月生不了一次气",
+      "onboard_time": 1736952620,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 316888,
@@ -3777,14 +3809,6 @@
       "onboard_time": 1736946259,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 306363,
-      "num": 306363,
-      "word": "香港一警署发生枪击",
-      "onboard_time": 1736950520,
-      "rank": 39,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 306201,
@@ -5835,6 +5859,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 198433,
+      "num": 198433,
+      "word": "周峻纬新剧疯批演技",
+      "onboard_time": 1736953640,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198422,
       "num": 335421,
       "word": "孟子义的采访让金靖2024年最后一天感到了幸福",
@@ -6763,6 +6795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 180925,
+      "num": 184887,
+      "word": "国色芳华收视率",
+      "onboard_time": 1736953879,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180573,
       "num": 180573,
       "word": "西藏多地悼念地震126名遇难同胞",
@@ -6857,6 +6897,14 @@
       "onboard_time": 1736763979,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 177256,
+      "num": 177256,
+      "word": "美国网友向中国网友求助数学题",
+      "onboard_time": 1736949798,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 177042,
@@ -7153,14 +7201,6 @@
       "onboard_time": 1736689461,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 172199,
-      "num": 381039,
-      "word": "婚前房产为另一方加名若离婚归谁",
-      "onboard_time": 1736950280,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 172105,
@@ -7563,14 +7603,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 162502,
-      "num": 162502,
-      "word": "美国网友向中国网友求助数学题",
-      "onboard_time": 1736949798,
-      "rank": 41,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 161990,
       "num": 150124,
       "word": "张远大学曾因恋爱离家出走",
@@ -7609,6 +7641,14 @@
       "onboard_time": 1736670620,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 160932,
+      "num": 160932,
+      "word": "文淇双杀",
+      "onboard_time": 1736951120,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 160907,
@@ -8435,6 +8475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 146732,
+      "num": 146732,
+      "word": "1月20日起买手机最高可补贴500元",
+      "onboard_time": 1736953579,
+      "rank": 31,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 146705,
       "num": 146705,
       "word": "孟子义最近live",
@@ -8601,6 +8649,14 @@
       "onboard_time": 1736751678,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143828,
+      "num": 143828,
+      "word": "黄子韬送车被标价1万到6万转卖",
+      "onboard_time": 1736951361,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 143714,
@@ -8945,14 +9001,6 @@
       "onboard_time": 1736760140,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136326,
-      "num": 136326,
-      "word": "文淇双杀",
-      "onboard_time": 1736951120,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 136093,
@@ -9587,6 +9635,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 126625,
+      "num": 126625,
+      "word": "尹锡悦午餐盒饭晚餐大酱汤夜里拘留所",
+      "onboard_time": 1736948599,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 126564,
       "num": 518913,
       "word": "课外读物称华佗用人脑做药引子",
@@ -9851,14 +9907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121511,
-      "num": 121511,
-      "word": "黄子韬送车被标价1万到6万转卖",
-      "onboard_time": 1736951361,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 121505,
       "num": 121505,
       "word": "丁禹兮杂志销售额",
@@ -9889,6 +9937,14 @@
       "onboard_time": 1736821398,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121413,
+      "num": 121413,
+      "word": "王润泽给大奉破三万福利上难度了",
+      "onboard_time": 1736953819,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 121390,
@@ -10065,14 +10121,6 @@
       "onboard_time": 1736661919,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 117851,
-      "num": 117851,
-      "word": "尹锡悦午餐盒饭晚餐大酱汤夜里拘留所",
-      "onboard_time": 1736948599,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 117845,
@@ -10257,6 +10305,14 @@
       "onboard_time": 1736637794,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 115408,
+      "num": 343152,
+      "word": "美被提名防长一个东盟国家都没说对",
+      "onboard_time": 1736953879,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 115077,
@@ -10761,6 +10817,14 @@
       "onboard_time": 1736830219,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 106275,
+      "num": 106275,
+      "word": "那尔那茜封神路演像汇报表演",
+      "onboard_time": 1736954360,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 105838,
