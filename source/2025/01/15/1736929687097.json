@@ -1,0 +1,410 @@
+{
+  "runTime": 1736929687097,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1915606,
+        "num": 1915606,
+        "word": "洛杉矶富人有钱能让山火改道",
+        "onboard_time": 1736925798,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1192430,
+        "num": 1192430,
+        "word": "27岁辅警查酒驾被撞伤拖行牺牲",
+        "onboard_time": 1736926760,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46915,
+        "num": 921890,
+        "word": "春节寒假看雪玩雪全攻略",
+        "onboard_time": 1736928199,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 883137,
+        "num": 883137,
+        "word": "虞书欣祝绪丹杨仕泽买了丁禹兮杂志",
+        "onboard_time": 1736925439,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 699090,
+        "num": 699090,
+        "word": "郑钦文被扣1230分",
+        "onboard_time": 1736924179,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1644179,
+        "num": 622363,
+        "word": "吴昕直播间突然涌入大量外国网友",
+        "onboard_time": 1736918120,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 538606,
+        "num": 538606,
+        "word": "品牌方回应赵露思将复工",
+        "onboard_time": 1736928498,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471861,
+        "num": 471861,
+        "word": "美甲",
+        "onboard_time": 1736927480,
+        "rank": 7,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 445618,
+        "num": 445618,
+        "word": "郑州一已婚公职人员骗人恋爱被记大过",
+        "onboard_time": 1736919559,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 435667,
+        "num": 435667,
+        "word": "我国新发现10个亿吨级油田",
+        "onboard_time": 1736923760,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 941336,
+        "num": 422858,
+        "word": "TikTok禁令引发美国网友众怒",
+        "onboard_time": 1736925798,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 917023,
+        "num": 420976,
+        "word": "美国网友涌入小红书",
+        "onboard_time": 1736925138,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 407028,
+        "num": 407028,
+        "word": "向佐为向太发声",
+        "onboard_time": 1736927840,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332155,
+        "num": 332155,
+        "word": "何炅 脉象有力",
+        "onboard_time": 1736927480,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330477,
+        "num": 330477,
+        "word": "泰国考虑对电诈园区断电断网",
+        "onboard_time": 1736914699,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 287520,
+        "num": 287520,
+        "word": "罗云熙再现何以琛回头杀",
+        "onboard_time": 1736919320,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274275,
+        "num": 274275,
+        "word": "永夜星河",
+        "onboard_time": 1736928919,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273165,
+        "num": 273165,
+        "word": "李兰迪首位95后亦舒女主",
+        "onboard_time": 1736919499,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250941,
+        "num": 250941,
+        "word": "小红书爆火TikTok还有转机吗",
+        "onboard_time": 1736925740,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 248359,
+        "num": 248359,
+        "word": "韩国史上首次逮捕现任总统",
+        "onboard_time": 1736908819,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1047542,
+        "num": 243966,
+        "word": "赵露思疑似将复工",
+        "onboard_time": 1736922259,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 905322,
+        "num": 241327,
+        "word": "小红书连夜招聘英文内容审核员",
+        "onboard_time": 1736921058,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 261365,
+        "num": 235672,
+        "word": "金价上涨年轻人囤金热情不降反升",
+        "onboard_time": 1736926998,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 253744,
+        "num": 228505,
+        "word": "郭京飞让赵今麦演戏自私点",
+        "onboard_time": 1736927060,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95694,
+        "num": 223409,
+        "word": "星穹铁道 振翅的方向",
+        "onboard_time": 1736929159,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 223269,
+        "num": 223269,
+        "word": "小水最喜欢的中国男演员是罗云熙",
+        "onboard_time": 1736922798,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202487,
+        "num": 202487,
+        "word": "尹锡悦将接受调查",
+        "onboard_time": 1736917400,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 201154,
+        "num": 201154,
+        "word": "肖战人物封面",
+        "onboard_time": 1736922318,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240396,
+        "num": 190936,
+        "word": "外国网友上小红书秒切外教",
+        "onboard_time": 1736920818,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132450,
+        "num": 180788,
+        "word": "解决婚姻家庭纠纷最新司法规定来了",
+        "onboard_time": 1736913559,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178592,
+        "num": 178592,
+        "word": "王影璐 冯宝宝本宝",
+        "onboard_time": 1736929039,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175617,
+        "num": 175617,
+        "word": "尹锡悦称不认可公调处调查",
+        "onboard_time": 1736903717,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 175239,
+        "num": 175239,
+        "word": "小水见到白鹿会紧张",
+        "onboard_time": 1736928618,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171767,
+        "num": 171767,
+        "word": "日本多名高考生遭遇猥亵",
+        "onboard_time": 1736929519,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 167537,
+        "num": 167537,
+        "word": "美网友说来小红书是因为不相信美政府",
+        "onboard_time": 1736926637,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 161549,
+        "num": 161549,
+        "word": "锦囊妙录 好看",
+        "onboard_time": 1736924059,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161431,
+        "num": 161431,
+        "word": "国色芳华 爱人是锦上添花",
+        "onboard_time": 1736925439,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153700,
+        "num": 153700,
+        "word": "字节跳动100元标餐的免费三餐",
+        "onboard_time": 1736914639,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 147944,
+        "num": 147944,
+        "word": "青簪行男主",
+        "onboard_time": 1736914459,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138959,
+        "num": 138959,
+        "word": "永远的竹林四侠",
+        "onboard_time": 1736929279,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135584,
+        "num": 135584,
+        "word": "交猫税是什么梗",
+        "onboard_time": 1736913919,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128514,
+        "num": 128514,
+        "word": "张凌赫把微博当朋友圈发",
+        "onboard_time": 1736926878,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121686,
+        "num": 121686,
+        "word": "下下周三是第一个非遗春节",
+        "onboard_time": 1736903479,
+        "rank": 42,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 119704,
+        "num": 119704,
+        "word": "尹锡悦被捕后疑似金建希遛狗画面",
+        "onboard_time": 1736923278,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113079,
+        "num": 113079,
+        "word": "丁禹兮杂志销售额",
+        "onboard_time": 1736929519,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 107937,
+        "num": 107937,
+        "word": "陈哲远 吃了有文化的亏",
+        "onboard_time": 1736916561,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106211,
+        "num": 106211,
+        "word": "谁来关心一下千朵桃花",
+        "onboard_time": 1736918898,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103593,
+        "num": 103593,
+        "word": "美消防员在中国社交平台开号",
+        "onboard_time": 1736926700,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102868,
+        "num": 102868,
+        "word": "三轮起火2个小姐姐抄起灭火器就上",
+        "onboard_time": 1736928259,
+        "rank": 48,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 102747,
+        "num": 102747,
+        "word": "春运火车票提高候补成功率攻略",
+        "onboard_time": 1736926459,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#把群众冰雪运动热情保持下去#"
+    }
+  }
+}
