@@ -1,0 +1,410 @@
+{
+  "runTime": 1736933790261,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1384026,
+        "num": 1384026,
+        "word": "洛杉矶富人有钱能让山火改道",
+        "onboard_time": 1736925798,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1026041,
+        "num": 1026041,
+        "word": "品牌方回应赵露思将复工",
+        "onboard_time": 1736928498,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53531,
+        "num": 894865,
+        "word": "春运人潮中最让人安心的身影",
+        "onboard_time": 1736931079,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 786555,
+        "num": 786555,
+        "word": "虞书欣祝丁禹兮前程似锦",
+        "onboard_time": 1736931919,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 653043,
+        "num": 653043,
+        "word": "日本多名高考生遭遇猥亵",
+        "onboard_time": 1736929519,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 579669,
+        "num": 579669,
+        "word": "27岁辅警查酒驾被撞伤拖行牺牲",
+        "onboard_time": 1736926760,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 528649,
+        "num": 528649,
+        "word": "美甲",
+        "onboard_time": 1736927480,
+        "rank": 6,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 489189,
+        "num": 489189,
+        "word": "郑钦文被扣1230分",
+        "onboard_time": 1736924179,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 430987,
+        "num": 430987,
+        "word": "星船向安宥真道歉",
+        "onboard_time": 1736931619,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363855,
+        "num": 363855,
+        "word": "向佐为向太发声",
+        "onboard_time": 1736927840,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1207428,
+        "num": 363402,
+        "word": "TikTok禁令引发美国网友众怒",
+        "onboard_time": 1736925798,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 537119,
+        "num": 359398,
+        "word": "TikTok或计划周日关停美国业务",
+        "onboard_time": 1736930239,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 347550,
+        "num": 347550,
+        "word": "虞书欣祝绪丹杨仕泽买了丁禹兮杂志",
+        "onboard_time": 1736925439,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341817,
+        "num": 341817,
+        "word": "小红书爆火TikTok还有转机吗",
+        "onboard_time": 1736925740,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 328382,
+        "num": 328382,
+        "word": "疑似金建希女子出门遛狗",
+        "onboard_time": 1736930059,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 305935,
+        "num": 305935,
+        "word": "永夜星河",
+        "onboard_time": 1736928919,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268880,
+        "num": 268880,
+        "word": "泰国考虑对电诈园区断电断网",
+        "onboard_time": 1736914699,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 268591,
+        "num": 268591,
+        "word": "我国新发现10个亿吨级油田",
+        "onboard_time": 1736923760,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 218083,
+        "num": 268362,
+        "word": "何炅 脉象有力",
+        "onboard_time": 1736927480,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24902,
+        "num": 267388,
+        "word": "李昀锐微博之夜短采",
+        "onboard_time": 1736933238,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 728777,
+        "num": 265715,
+        "word": "赵露思疑似将复工",
+        "onboard_time": 1736922259,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 728280,
+        "num": 264265,
+        "word": "女子把年假当年会奖励被公司开除",
+        "onboard_time": 1736931259,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 406020,
+        "num": 263259,
+        "word": "郑州一已婚公职人员骗人恋爱被记大过",
+        "onboard_time": 1736919559,
+        "rank": 22,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 192062,
+        "num": 262483,
+        "word": "留学生代发国外朋友圈30元一条",
+        "onboard_time": 1736931739,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66373,
+        "num": 261160,
+        "word": "黑神话 都在歌里了",
+        "onboard_time": 1736933238,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 260974,
+        "num": 260974,
+        "word": "刘晓庆把李小冉夸成胚胎了",
+        "onboard_time": 1736932399,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235044,
+        "num": 235044,
+        "word": "金价上涨年轻人囤金热情不降反升",
+        "onboard_time": 1736926998,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 212958,
+        "num": 212958,
+        "word": "国色芳华 永远猜不到下一句台词",
+        "onboard_time": 1736932339,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194395,
+        "num": 194395,
+        "word": "郭京飞让赵今麦演戏自私点",
+        "onboard_time": 1736927060,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187330,
+        "num": 187330,
+        "word": "樊振东是首位超级金满贯得主",
+        "onboard_time": 1736933238,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186974,
+        "num": 186974,
+        "word": "电影小小的我",
+        "onboard_time": 1736932580,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182490,
+        "num": 182490,
+        "word": "韩国史上首次逮捕现任总统",
+        "onboard_time": 1736908819,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 179006,
+        "num": 179006,
+        "word": "陈梦杯开赛",
+        "onboard_time": 1736932699,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169217,
+        "num": 169217,
+        "word": "李兰迪首位95后亦舒女主",
+        "onboard_time": 1736919499,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165306,
+        "num": 165306,
+        "word": "南京的红绿灯太太太大了",
+        "onboard_time": 1736931859,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 163376,
+        "num": 163376,
+        "word": "尹锡悦称不认可公调处调查",
+        "onboard_time": 1736903717,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153182,
+        "num": 153182,
+        "word": "牺牲前他说请同事吃娃娃百天宴",
+        "onboard_time": 1736930419,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148308,
+        "num": 148308,
+        "word": "尹锡悦将接受调查",
+        "onboard_time": 1736917400,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148105,
+        "num": 148105,
+        "word": "肖战人物封面",
+        "onboard_time": 1736922318,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23430,
+        "num": 143360,
+        "word": "2024年度护肤爱用",
+        "onboard_time": 1736932939,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 140017,
+        "num": 140017,
+        "word": "字节跳动100元标餐的免费三餐",
+        "onboard_time": 1736914639,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 138907,
+        "num": 138907,
+        "word": "国色芳华头饰3秒镜头花30天制作",
+        "onboard_time": 1736932460,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133124,
+        "num": 133124,
+        "word": "罗云熙再现何以琛回头杀",
+        "onboard_time": 1736919320,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131981,
+        "num": 131981,
+        "word": "第一批放寒假的人已被赶出家门",
+        "onboard_time": 1736933059,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125709,
+        "num": 125709,
+        "word": "春运火车票提高候补成功率攻略",
+        "onboard_time": 1736926459,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119834,
+        "num": 119834,
+        "word": "严屹宽开机前3天决定出演异人之下2",
+        "onboard_time": 1736931498,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116001,
+        "num": 116001,
+        "word": "小水见到白鹿会紧张",
+        "onboard_time": 1736928618,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112014,
+        "num": 112014,
+        "word": "吉林大爷救游客真相需双方携手调查",
+        "onboard_time": 1736932279,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105918,
+        "num": 105918,
+        "word": "王影璐 冯宝宝本宝",
+        "onboard_time": 1736929039,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104452,
+        "num": 104452,
+        "word": "第五人格",
+        "onboard_time": 1736931498,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#把群众冰雪运动热情保持下去#"
+    }
+  }
+}

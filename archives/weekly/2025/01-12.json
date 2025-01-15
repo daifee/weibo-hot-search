@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736932976870,
+  "endTime": 1736933790261,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -1379,6 +1379,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 728280,
+      "num": 264265,
+      "word": "女子把年假当年会奖励被公司开除",
+      "onboard_time": 1736931259,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 725301,
       "num": 725301,
       "word": "杨紫李现 纯元CP结婚",
@@ -1617,14 +1625,6 @@
       "onboard_time": 1736656278,
       "rank": 34,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 664229,
-      "num": 250648,
-      "word": "女子把年假当年会奖励被公司开除",
-      "onboard_time": 1736931259,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 662943,
@@ -2081,6 +2081,14 @@
       "onboard_time": 1736689461,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 537119,
+      "num": 359398,
+      "word": "TikTok或计划周日关停美国业务",
+      "onboard_time": 1736930239,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 532148,
@@ -2619,6 +2627,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 430987,
+      "num": 430987,
+      "word": "星船向安宥真道歉",
+      "onboard_time": 1736931619,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 427620,
       "num": 394027,
       "word": "小水最喜欢的中国男演员是罗云熙",
@@ -3011,14 +3027,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 366904,
-      "num": 366904,
-      "word": "星船向安宥真道歉",
-      "onboard_time": 1736931619,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 366832,
       "num": 366832,
       "word": "刘昊然澳网上早课",
@@ -3123,14 +3131,6 @@
       "category": "体育,作品衍生"
     },
     {
-      "raw_hot": 351126,
-      "num": 351126,
-      "word": "TikTok或计划周日关停美国业务",
-      "onboard_time": 1736930239,
-      "rank": 37,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 349393,
       "num": 349393,
       "word": "何炅 脉象有力",
@@ -3185,6 +3185,14 @@
       "onboard_time": 1736896634,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 341817,
+      "num": 341817,
+      "word": "小红书爆火TikTok还有转机吗",
+      "onboard_time": 1736925740,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 340667,
@@ -3313,6 +3321,14 @@
       "onboard_time": 1736690722,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 328382,
+      "num": 370033,
+      "word": "疑似金建希女子出门遛狗",
+      "onboard_time": 1736930059,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 328005,
@@ -4011,14 +4027,6 @@
       "category": "艺人,美食"
     },
     {
-      "raw_hot": 263474,
-      "num": 263474,
-      "word": "小红书爆火TikTok还有转机吗",
-      "onboard_time": 1736925740,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 262723,
       "num": 262723,
       "word": "十个勤天直播",
@@ -4073,6 +4081,14 @@
       "onboard_time": 1736926998,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 260974,
+      "num": 260974,
+      "word": "刘晓庆把李小冉夸成胚胎了",
+      "onboard_time": 1736932399,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 260577,
@@ -4539,14 +4555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 229787,
-      "num": 370033,
-      "word": "疑似金建希女子出门遛狗",
-      "onboard_time": 1736930059,
-      "rank": 41,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 229308,
       "num": 307050,
       "word": "敖瑞鹏另一只手帮白鹿提鞋",
@@ -4883,6 +4891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212958,
+      "num": 212958,
+      "word": "国色芳华 永远猜不到下一句台词",
+      "onboard_time": 1736932339,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212921,
       "num": 263896,
       "word": "张杰感谢时团弟弟",
@@ -5164,7 +5180,7 @@
     },
     {
       "raw_hot": 205759,
-      "num": 205759,
+      "num": 262483,
       "word": "留学生代发国外朋友圈30元一条",
       "onboard_time": 1736931739,
       "rank": 26,
@@ -6011,12 +6027,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 187330,
+      "num": 187330,
+      "word": "樊振东是首位超级金满贯得主",
+      "onboard_time": 1736933238,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187240,
       "num": 208732,
       "word": "成本50卖5000水晶为何突然受热捧",
       "onboard_time": 1736672839,
       "rank": 29,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 186974,
+      "num": 186974,
+      "word": "电影小小的我",
+      "onboard_time": 1736932580,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 186835,
@@ -6347,6 +6379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 179006,
+      "num": 179006,
+      "word": "陈梦杯开赛",
+      "onboard_time": 1736932699,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178813,
       "num": 178813,
       "word": "崔胜澈直播",
@@ -6489,14 +6529,6 @@
       "onboard_time": 1736764399,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174773,
-      "num": 174773,
-      "word": "电影小小的我",
-      "onboard_time": 1736932580,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 174719,
@@ -6713,14 +6745,6 @@
       "onboard_time": 1736689100,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 171229,
-      "num": 171229,
-      "word": "刘晓庆把李小冉夸成胚胎了",
-      "onboard_time": 1736932399,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 171219,
@@ -7273,14 +7297,6 @@
       "onboard_time": 1736664139,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 157653,
-      "num": 157653,
-      "word": "国色芳华 永远猜不到下一句台词",
-      "onboard_time": 1736932339,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 157450,
@@ -8283,6 +8299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138907,
+      "num": 138907,
+      "word": "国色芳华头饰3秒镜头花30天制作",
+      "onboard_time": 1736932460,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138868,
       "num": 138868,
       "word": "张康乐马柏全小卡",
@@ -8369,14 +8393,6 @@
       "onboard_time": 1736825000,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 136636,
-      "num": 136636,
-      "word": "陈梦杯开赛",
-      "onboard_time": 1736932699,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 136598,
@@ -8651,6 +8667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131981,
+      "num": 131981,
+      "word": "第一批放寒假的人已被赶出家门",
+      "onboard_time": 1736933059,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131921,
       "num": 131921,
       "word": "李现这活我熟包会哄的",
@@ -8809,14 +8833,6 @@
       "onboard_time": 1736644519,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 128866,
-      "num": 128866,
-      "word": "国色芳华头饰3秒镜头花30天制作",
-      "onboard_time": 1736932460,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 128860,
@@ -9323,6 +9339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119834,
+      "num": 119834,
+      "word": "严屹宽开机前3天决定出演异人之下2",
+      "onboard_time": 1736931498,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119791,
       "num": 119791,
       "word": "张康乐得令杂志预告",
@@ -9457,14 +9481,6 @@
       "onboard_time": 1736774722,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117317,
-      "num": 117317,
-      "word": "严屹宽开机前3天决定出演异人之下2",
-      "onboard_time": 1736931498,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 117202,
@@ -9792,6 +9808,14 @@
       "word": "网约护士兴起有人月入近2万",
       "onboard_time": 1736768059,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112014,
+      "num": 112014,
+      "word": "吉林大爷救游客真相需双方携手调查",
+      "onboard_time": 1736932279,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -11067,6 +11091,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 66373,
+      "num": 261160,
+      "word": "黑神话 都在歌里了",
+      "onboard_time": 1736933238,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 66190,
       "num": 100602,
       "word": "徐杰生涯首个三双",
@@ -11403,6 +11435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53531,
+      "num": 975717,
+      "word": "春运人潮中最让人安心的身影",
+      "onboard_time": 1736931079,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53529,
       "num": 376580,
       "word": "北京春运首趟列车凌晨启程",
@@ -11545,14 +11585,6 @@
       "onboard_time": 1736676018,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 49234,
-      "num": 975717,
-      "word": "春运人潮中最让人安心的身影",
-      "onboard_time": 1736931079,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 49227,
@@ -11964,7 +11996,7 @@
     },
     {
       "raw_hot": 31721,
-      "num": 138284,
+      "num": 143360,
       "word": "2024年度护肤爱用",
       "onboard_time": 1736932939,
       "rank": 39,
@@ -12185,6 +12217,14 @@
       "onboard_time": 1736859199,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24902,
+      "num": 267388,
+      "word": "李昀锐微博之夜短采",
+      "onboard_time": 1736933238,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 24700,
