@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/16 17:36:25
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/16 18:23:12
 </p>
 </blockquote>
 <p>
@@ -3927,6 +3927,12 @@ B站拿下春晚转播权（热度：825759）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E6%81%AD%E5%96%9C%E8%87%AA%E5%B7%B1%23" target="weibo">
+湖南卫视恭喜自己（热度：824233）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8C%AB%E7%9A%AE%E8%8D%89%E4%BC%A0%E5%88%B0%E4%BA%86%E5%9B%BD%E5%A4%96%23" target="weibo">
 小猫皮草传到了国外（热度：822927）
 </a>
@@ -6005,12 +6011,6 @@ EXO唱了初雪（热度：600311）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%B5%81%E8%8B%8F%E6%97%97%E8%A2%8D%23" target="weibo">
 杨紫流苏旗袍（热度：596185）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8F%8F%E6%B3%BD%E7%89%A1%E4%B8%B9%E5%8D%96%E7%88%86%E4%BA%86%23" target="weibo">
-菏泽牡丹卖爆了（热度：595324）
 </a>
 </li>
 

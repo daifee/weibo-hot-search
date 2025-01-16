@@ -1,6 +1,6 @@
 {
   "startTime": 1736958421212,
-  "endTime": 1737020185564,
+  "endTime": 1737022992565,
   "band_list": [
     {
       "raw_hot": 2402372,
@@ -193,6 +193,14 @@
       "onboard_time": 1736992697,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 824233,
+      "num": 1131877,
+      "word": "湖南卫视恭喜自己",
+      "onboard_time": 1737020419,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 731538,
@@ -459,6 +467,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 408970,
+      "num": 304968,
+      "word": "李行亮麦琳录完再见爱人后的记录",
+      "onboard_time": 1737020358,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 407786,
+      "num": 183372,
+      "word": "徐艺洋说和黄子韬还没收到改口费",
+      "onboard_time": 1737020478,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 389355,
       "num": 389355,
       "word": "因公牺牲的27岁辅警孩子刚满百天",
@@ -587,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 331060,
+      "num": 331060,
+      "word": "小红书中美民间互动成国际现象级事件",
+      "onboard_time": 1737015319,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 321784,
       "num": 430230,
       "word": "洛杉矶富人有钱能让山火改道",
@@ -609,14 +641,6 @@
       "onboard_time": 1737002838,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 313166,
-      "num": 313166,
-      "word": "小红书中美民间互动成国际现象级事件",
-      "onboard_time": 1737015319,
-      "rank": 43,
-      "category": "互联网"
     },
     {
       "raw_hot": 310081,
@@ -715,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 274134,
+      "num": 177157,
+      "word": "黄圣依现在有三部手机",
+      "onboard_time": 1737021559,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261237,
       "num": 261237,
       "word": "黄友政1比3张本智和",
@@ -737,6 +769,14 @@
       "onboard_time": 1737010278,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254744,
+      "num": 174706,
+      "word": "网传青簪行业内已经看片了",
+      "onboard_time": 1737019819,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 252171,
@@ -769,6 +809,14 @@
       "onboard_time": 1736984476,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 239107,
+      "num": 239107,
+      "word": "可口可乐CEO送特朗普就职纪念可乐",
+      "onboard_time": 1737010998,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 235904,
@@ -851,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213959,
+      "num": 213959,
+      "word": "女总监遭上司性侵拿到工伤认定书",
+      "onboard_time": 1737022038,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212232,
       "num": 212232,
       "word": "大奉33集许七安颜巅",
@@ -865,6 +921,14 @@
       "onboard_time": 1737002239,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 211305,
+      "num": 211305,
+      "word": "Hero久竞正式告别南京",
+      "onboard_time": 1737022038,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 207269,
@@ -905,6 +969,14 @@
       "onboard_time": 1736987359,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 202257,
+      "num": 202257,
+      "word": "檀健次方告黑取证",
+      "onboard_time": 1737021858,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 201203,
@@ -1067,6 +1139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185897,
+      "num": 185897,
+      "word": "范丞丞第一次做美甲",
+      "onboard_time": 1737022218,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185126,
       "num": 185126,
       "word": "葛夕留几手年后分居",
@@ -1187,14 +1267,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 172067,
-      "num": 172067,
-      "word": "可口可乐CEO送特朗普就职纪念可乐",
-      "onboard_time": 1737010998,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 170168,
       "num": 170168,
       "word": "王曼昱也抽吧唧",
@@ -1273,6 +1345,14 @@
       "onboard_time": 1737016097,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 160559,
+      "num": 160559,
+      "word": "39岁计算机图像处理专家全宇晖逝世",
+      "onboard_time": 1737021738,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159578,
@@ -1409,6 +1489,14 @@
       "onboard_time": 1736998938,
       "rank": 38,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 143636,
+      "num": 143636,
+      "word": "张康乐得令杂志封面",
+      "onboard_time": 1737021521,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 142939,
@@ -1643,6 +1731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126184,
+      "num": 126184,
+      "word": "西藏震区找回现金近700万元",
+      "onboard_time": 1737022580,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124370,
       "num": 124370,
       "word": "和祁煜学老家话",
@@ -1657,14 +1753,6 @@
       "onboard_time": 1736988019,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124196,
-      "num": 124196,
-      "word": "网传青簪行业内已经看片了",
-      "onboard_time": 1737019819,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 122360,
@@ -1851,6 +1939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112339,
+      "num": 112339,
+      "word": "原来25国考还有复活赛",
+      "onboard_time": 1737019998,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 112152,
       "num": 112152,
       "word": "Doinb说今年比赛当最后一年打",
@@ -1987,6 +2083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96679,
+      "num": 96679,
+      "word": "陈情令温晁爆改韩慕之",
+      "onboard_time": 1737022939,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95485,
       "num": 95485,
       "word": "陈立农现身湾区春晚",
@@ -2035,20 +2139,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88569,
+      "num": 297720,
+      "word": "特朗普就职典礼肖像照曝光",
+      "onboard_time": 1737021619,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 86985,
       "num": 86985,
       "word": "太阳黄蜂交易",
       "onboard_time": 1736992398,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86701,
-      "num": 86701,
-      "word": "原来25国考还有复活赛",
-      "onboard_time": 1737019998,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 85976,
@@ -2065,6 +2169,14 @@
       "onboard_time": 1736949798,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 85067,
+      "num": 85067,
+      "word": "肖战和父母的相处模式",
+      "onboard_time": 1737021858,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 84007,
@@ -2387,6 +2499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36363,
+      "num": 366541,
+      "word": "2025春运旅途气象指南",
+      "onboard_time": 1737019399,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35503,
       "num": 41336,
       "word": "疑似ATEEZ队长内涵方时赫",
@@ -2411,12 +2531,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31236,
-      "num": 326365,
-      "word": "2025春运旅途气象指南",
-      "onboard_time": 1737019399,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 30422,
+      "num": 94524,
+      "word": "澳网中国11人单打全部出局",
+      "onboard_time": 1737016158,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 29567,
@@ -2497,6 +2617,14 @@
       "onboard_time": 1736963353,
       "rank": 44,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 19396,
+      "num": 176430,
+      "word": "张帅与马龙隔空互动",
+      "onboard_time": 1737022699,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 17270,

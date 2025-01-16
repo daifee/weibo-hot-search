@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1737020185564,
+  "endTime": 1737022992565,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -1360,6 +1360,14 @@
       "word": "杨紫回应李现",
       "onboard_time": 1736692401,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 824233,
+      "num": 1131877,
+      "word": "湖南卫视恭喜自己",
+      "onboard_time": 1737020419,
+      "rank": 0,
       "category": "剧集"
     },
     {
@@ -3347,6 +3355,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 408970,
+      "num": 304968,
+      "word": "李行亮麦琳录完再见爱人后的记录",
+      "onboard_time": 1737020358,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 407786,
+      "num": 183372,
+      "word": "徐艺洋说和黄子韬还没收到改口费",
+      "onboard_time": 1737020478,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 406393,
       "num": 406393,
       "word": "常华森 骨相好皮薄馅不多",
@@ -4027,6 +4051,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 331060,
+      "num": 331060,
+      "word": "小红书中美民间互动成国际现象级事件",
+      "onboard_time": 1737015319,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 330712,
       "num": 330712,
       "word": "苏醒 住宿条件断崖式下降",
@@ -4273,14 +4305,6 @@
       "onboard_time": 1736896815,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 313166,
-      "num": 313166,
-      "word": "小红书中美民间互动成国际现象级事件",
-      "onboard_time": 1737015319,
-      "rank": 43,
-      "category": "互联网"
     },
     {
       "raw_hot": 312250,
@@ -4835,6 +4859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 274134,
+      "num": 177157,
+      "word": "黄圣依现在有三部手机",
+      "onboard_time": 1737021559,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 273794,
       "num": 293341,
       "word": "王鹤棣发红包",
@@ -5129,6 +5161,14 @@
       "onboard_time": 1736948118,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254744,
+      "num": 174706,
+      "word": "网传青簪行业内已经看片了",
+      "onboard_time": 1737019819,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 254260,
@@ -5433,6 +5473,14 @@
       "onboard_time": 1736810356,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 239107,
+      "num": 239107,
+      "word": "可口可乐CEO送特朗普就职纪念可乐",
+      "onboard_time": 1737010998,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 238772,
@@ -6003,6 +6051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213959,
+      "num": 213959,
+      "word": "女总监遭上司性侵拿到工伤认定书",
+      "onboard_time": 1737022038,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213475,
       "num": 329104,
       "word": "复兴号停车场是什么未来场面",
@@ -6089,6 +6145,14 @@
       "onboard_time": 1737002239,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 211305,
+      "num": 211305,
+      "word": "Hero久竞正式告别南京",
+      "onboard_time": 1737022038,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 211256,
@@ -6489,6 +6553,14 @@
       "onboard_time": 1736675660,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 202257,
+      "num": 202257,
+      "word": "檀健次方告黑取证",
+      "onboard_time": 1737021858,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 202090,
@@ -7459,6 +7531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185897,
+      "num": 185897,
+      "word": "范丞丞第一次做美甲",
+      "onboard_time": 1737022218,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185830,
       "num": 150011,
       "word": "一路繁花",
@@ -8275,14 +8355,6 @@
       "category": "体育,民生新闻"
     },
     {
-      "raw_hot": 172067,
-      "num": 172067,
-      "word": "可口可乐CEO送特朗普就职纪念可乐",
-      "onboard_time": 1737010998,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 171594,
       "num": 171594,
       "word": "白起新皮肤苍鳞隐世",
@@ -8809,6 +8881,14 @@
       "onboard_time": 1736749159,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160559,
+      "num": 160559,
+      "word": "39岁计算机图像处理专家全宇晖逝世",
+      "onboard_time": 1737021738,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160491,
@@ -9921,6 +10001,14 @@
       "onboard_time": 1736655320,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 143636,
+      "num": 143636,
+      "word": "张康乐得令杂志封面",
+      "onboard_time": 1737021521,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 143441,
@@ -11155,6 +11243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 126184,
+      "num": 126184,
+      "word": "西藏震区找回现金近700万元",
+      "onboard_time": 1737022580,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126016,
       "num": 126016,
       "word": "韩媒披露尹锡悦被捕细节",
@@ -11313,14 +11409,6 @@
       "onboard_time": 1736988019,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124196,
-      "num": 124196,
-      "word": "网传青簪行业内已经看片了",
-      "onboard_time": 1737019819,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 124055,
@@ -12227,6 +12315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112339,
+      "num": 112339,
+      "word": "原来25国考还有复活赛",
+      "onboard_time": 1737019998,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 112274,
       "num": 252805,
       "word": "Cat开直播回应",
@@ -13003,6 +13099,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 96679,
+      "num": 96679,
+      "word": "陈情令温晁爆改韩慕之",
+      "onboard_time": 1737022939,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96474,
       "num": 96474,
       "word": "贵人鸟改名卖粮了",
@@ -13227,6 +13331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88569,
+      "num": 297720,
+      "word": "特朗普就职典礼肖像照曝光",
+      "onboard_time": 1737021619,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 88391,
       "num": 271152,
       "word": "让学生签字放弃中考系老师个人行为",
@@ -13241,14 +13353,6 @@
       "onboard_time": 1736992398,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86701,
-      "num": 86701,
-      "word": "原来25国考还有复活赛",
-      "onboard_time": 1737019998,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 86635,
@@ -13288,6 +13392,14 @@
       "word": "牛莉51岁了",
       "onboard_time": 1736897537,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 85067,
+      "num": 85067,
+      "word": "肖战和父母的相处模式",
+      "onboard_time": 1737021858,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -14787,6 +14899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 36363,
+      "num": 366541,
+      "word": "2025春运旅途气象指南",
+      "onboard_time": 1737019399,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36320,
       "num": 43507,
       "word": "流感检测阳性率上升趋势减缓",
@@ -14915,14 +15035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 31236,
-      "num": 326365,
-      "word": "2025春运旅途气象指南",
-      "onboard_time": 1737019399,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30813,
       "num": 276284,
       "word": "男子造谣新能源车彻底进不了海南被拘",
@@ -14945,6 +15057,14 @@
       "onboard_time": 1736746758,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 30422,
+      "num": 94524,
+      "word": "澳网中国11人单打全部出局",
+      "onboard_time": 1737016158,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 30081,
@@ -15425,6 +15545,14 @@
       "onboard_time": 1736853799,
       "rank": 29,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 19396,
+      "num": 176430,
+      "word": "张帅与马龙隔空互动",
+      "onboard_time": 1737022699,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 19289,
