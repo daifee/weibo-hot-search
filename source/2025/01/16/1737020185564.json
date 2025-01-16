@@ -1,0 +1,410 @@
+{
+  "runTime": 1737020185564,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1229478,
+        "num": 1229478,
+        "word": "杨子你惹papi酱干嘛",
+        "onboard_time": 1737018258,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455327,
+        "num": 455327,
+        "word": "抖音已处理1万多仿冒外国用户账号",
+        "onboard_time": 1737002779,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 31236,
+        "num": 326365,
+        "word": "2025春运旅途气象指南",
+        "onboard_time": 1737019399,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326006,
+        "num": 326006,
+        "word": "手机补贴不用交旧手机",
+        "onboard_time": 1737013519,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 323040,
+        "num": 323040,
+        "word": "iOS18一直截图会越来越红",
+        "onboard_time": 1737012679,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 319502,
+        "num": 319502,
+        "word": "美国网友称樊振东是King",
+        "onboard_time": 1737015678,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1164527,
+        "num": 319254,
+        "word": "杨子黄圣依彻底分开了",
+        "onboard_time": 1737010218,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 682148,
+        "num": 317320,
+        "word": "孙铱因怀孕后生化做体检查出脑动脉瘤",
+        "onboard_time": 1737012439,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 499506,
+        "num": 316295,
+        "word": "恭喜葛夕",
+        "onboard_time": 1737013999,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161482,
+        "num": 315652,
+        "word": "成品油价将迎大涨",
+        "onboard_time": 1737016097,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 331718,
+        "num": 314385,
+        "word": "沈泰回应于正",
+        "onboard_time": 1737016519,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313166,
+        "num": 313166,
+        "word": "小红书中美民间互动成国际现象级事件",
+        "onboard_time": 1737015319,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 276905,
+        "num": 276905,
+        "word": "美国女子被中国网民感动到泪目",
+        "onboard_time": 1737012679,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272679,
+        "num": 272679,
+        "word": "第一批春运列车已找到另一半",
+        "onboard_time": 1737015738,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271425,
+        "num": 271425,
+        "word": "宋慧乔靠爆剧逆袭宋仲基票房扑街",
+        "onboard_time": 1737007458,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261237,
+        "num": 261237,
+        "word": "黄友政1比3张本智和",
+        "onboard_time": 1737018738,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256210,
+        "num": 256210,
+        "word": "美国老爷爷被中国网友叮嘱注意身体",
+        "onboard_time": 1737005599,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253476,
+        "num": 253476,
+        "word": "金世佳照顾喝醉的檀健次",
+        "onboard_time": 1737011358,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140332,
+        "num": 236494,
+        "word": "异人之下之决战碧游村微博追剧团",
+        "onboard_time": 1737019338,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224942,
+        "num": 224942,
+        "word": "马斯克母亲已签约MCN公司",
+        "onboard_time": 1737012019,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 656777,
+        "num": 223460,
+        "word": "麦琳瘦了13斤",
+        "onboard_time": 1737009437,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309660,
+        "num": 220342,
+        "word": "双胞胎宝妈悬浮肚生完变棉被褶",
+        "onboard_time": 1737015919,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281188,
+        "num": 218758,
+        "word": "陈冠希女儿学校被烧毁",
+        "onboard_time": 1737004938,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41874,
+        "num": 216755,
+        "word": "刘昊然称澳网球赛看不够",
+        "onboard_time": 1737020059,
+        "rank": 23,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 57360,
+        "num": 213997,
+        "word": "詹姆斯球球巨星球",
+        "onboard_time": 1737018378,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248707,
+        "num": 211596,
+        "word": "黄圣依有个人财产了",
+        "onboard_time": 1737009858,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209757,
+        "num": 209757,
+        "word": "国色芳华云合登顶",
+        "onboard_time": 1737017417,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191074,
+        "num": 191074,
+        "word": "TikTok难民开直播聊天10万人围观",
+        "onboard_time": 1737010577,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 182950,
+        "num": 182950,
+        "word": "偶遇孟子义丽江拍戏",
+        "onboard_time": 1737018618,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173102,
+        "num": 173102,
+        "word": "麦琳执行力",
+        "onboard_time": 1737019158,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170058,
+        "num": 170058,
+        "word": "油价",
+        "onboard_time": 1737019399,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 166323,
+        "num": 166323,
+        "word": "三亚22万一晚酒店被订光",
+        "onboard_time": 1737013640,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 155805,
+        "num": 155805,
+        "word": "成毅戏服将在南京博物院展出",
+        "onboard_time": 1737019518,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154051,
+        "num": 154051,
+        "word": "檀健次中国式塞红包",
+        "onboard_time": 1737016638,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153551,
+        "num": 153551,
+        "word": "贾玲张小斐一起工作",
+        "onboard_time": 1737014719,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152619,
+        "num": 152619,
+        "word": "工人被压倒骨折退伍小伙12秒狂飙救人",
+        "onboard_time": 1737017779,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135400,
+        "num": 135400,
+        "word": "济南趵突泉的猪锦鲤要减肥了",
+        "onboard_time": 1737016039,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 133305,
+        "num": 133305,
+        "word": "小红书外国老用户坐不住了",
+        "onboard_time": 1737005119,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 124196,
+        "num": 124196,
+        "word": "网传青簪行业内已经看片了",
+        "onboard_time": 1737019819,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111599,
+        "num": 111599,
+        "word": "网传五福临门接档国色芳华",
+        "onboard_time": 1737015799,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105178,
+        "num": 105178,
+        "word": "小红书回应增加一键翻译功能",
+        "onboard_time": 1737006858,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 99986,
+        "num": 99986,
+        "word": "趵突泉锦鲤胖成猪锦",
+        "onboard_time": 1737018979,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94575,
+        "num": 94575,
+        "word": "拜登发表告别演讲",
+        "onboard_time": 1736991677,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 51379,
+        "num": 93664,
+        "word": "Flandre长文感谢粉丝",
+        "onboard_time": 1737009317,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93551,
+        "num": 93551,
+        "word": "漂白疯批强制爱具象化",
+        "onboard_time": 1737019758,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88601,
+        "num": 88601,
+        "word": "王曼昱也抽吧唧",
+        "onboard_time": 1737015199,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86701,
+        "num": 86701,
+        "word": "原来25国考还有复活赛",
+        "onboard_time": 1737019998,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 84873,
+        "num": 84873,
+        "word": "新国辩秦彻那个完美的脸",
+        "onboard_time": 1737016819,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 82648,
+        "num": 82648,
+        "word": "李少红晒与杨幂合照",
+        "onboard_time": 1737012258,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 81709,
+        "num": 81709,
+        "word": "保罗终于解脱了",
+        "onboard_time": 1737015919,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中斯友好合作取得新的更大成果#"
+    }
+  }
+}
