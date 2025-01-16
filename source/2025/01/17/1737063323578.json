@@ -1,0 +1,410 @@
+{
+  "runTime": 1737063323578,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 94582,
+        "num": 168535,
+        "word": "中美网友对了一夜的账",
+        "onboard_time": 1737035600,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41610,
+        "num": 41610,
+        "word": "王毅表态绝不允许犯罪分子逍遥法外",
+        "onboard_time": 1737039802,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 8334,
+        "num": 38371,
+        "word": "当非遗项目遇上首个非遗春节",
+        "onboard_time": 1737036741,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51590,
+        "num": 38338,
+        "word": "青岛女子在日本买下70万平米小岛",
+        "onboard_time": 1737037460,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38199,
+        "num": 38199,
+        "word": "杨子说家都没了",
+        "onboard_time": 1737035539,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30815,
+        "num": 30815,
+        "word": "停火协议刚达成以军再袭加沙",
+        "onboard_time": 1737054132,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29995,
+        "num": 29995,
+        "word": "广东肇庆山火600人扑救",
+        "onboard_time": 1737035900,
+        "rank": 6,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 29091,
+        "num": 29091,
+        "word": "尹锡悦或被判处重刑",
+        "onboard_time": 1737057491,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28823,
+        "num": 28823,
+        "word": "31岁演员孙铱自曝二胎生化",
+        "onboard_time": 1737049632,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28564,
+        "num": 28564,
+        "word": "景德镇车祸家属抑郁服药也无法缓解",
+        "onboard_time": 1737051552,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27182,
+        "num": 27182,
+        "word": "向佐郭碧婷是刘维撮合的",
+        "onboard_time": 1737031940,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27156,
+        "num": 27156,
+        "word": "下周开始手机购新补贴上线",
+        "onboard_time": 1737044657,
+        "rank": 11,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 24026,
+        "num": 24026,
+        "word": "磕cp时大脑会以为自己在谈恋爱",
+        "onboard_time": 1737039559,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 22158,
+        "num": 22158,
+        "word": "31岁孙铱提醒高龄宝妈做好检查",
+        "onboard_time": 1737053292,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22085,
+        "num": 22085,
+        "word": "任天堂Switch2公开",
+        "onboard_time": 1737035180,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21287,
+        "num": 21287,
+        "word": "美国小哥为中国网友献惊鸿舞",
+        "onboard_time": 1737028939,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21257,
+        "num": 21257,
+        "word": "鬼鬼当妈后首营业",
+        "onboard_time": 1737031218,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20147,
+        "num": 20147,
+        "word": "对中国公民实施犯罪必被追打到底",
+        "onboard_time": 1737042258,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19443,
+        "num": 19443,
+        "word": "韩国法院决定驳回释放尹锡悦请求",
+        "onboard_time": 1737042319,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18850,
+        "num": 18850,
+        "word": "女总监遭上司性侵拿到工伤认定书",
+        "onboard_time": 1737022038,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56863,
+        "num": 18850,
+        "word": "陈冠希人肉素人老婆",
+        "onboard_time": 1737030318,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37451,
+        "num": 18843,
+        "word": "美国女孩小红书捞中国同学神速成功",
+        "onboard_time": 1737040759,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25064,
+        "num": 18840,
+        "word": "女子怀孕找不到月嫂给婆婆报培训班",
+        "onboard_time": 1737032720,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22560,
+        "num": 18835,
+        "word": "美国女网友被中国一日三餐震惊",
+        "onboard_time": 1737025819,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18835,
+        "num": 18834,
+        "word": "麦琳全平台涨粉近10万",
+        "onboard_time": 1737045556,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18828,
+        "num": 18828,
+        "word": "女儿输液谢娜跑出去哭",
+        "onboard_time": 1737043279,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21100,
+        "num": 18587,
+        "word": "带两娃摆摊宝妈收到30万捐款",
+        "onboard_time": 1737036621,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20258,
+        "num": 18547,
+        "word": "CardiB已入驻小红书两年多",
+        "onboard_time": 1737059051,
+        "rank": 27,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 19233,
+        "num": 18441,
+        "word": "地震获救狗狗一瞬间认出救命恩人",
+        "onboard_time": 1737034339,
+        "rank": 28,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 17761,
+        "num": 17761,
+        "word": "国色芳华",
+        "onboard_time": 1737039500,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17782,
+        "num": 17395,
+        "word": "袁咏仪回应复出拍剧",
+        "onboard_time": 1737058331,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16209,
+        "num": 16209,
+        "word": "戚薇这居然是AI的",
+        "onboard_time": 1737033140,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15926,
+        "num": 15926,
+        "word": "吉林文旅称正跟进大爷救游客事件",
+        "onboard_time": 1737041000,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15632,
+        "num": 15632,
+        "word": "檀健次造谣者道歉",
+        "onboard_time": 1737039142,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15297,
+        "num": 15297,
+        "word": "中国与东盟国家共同打击跨境网赌电诈",
+        "onboard_time": 1737035960,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15196,
+        "num": 15196,
+        "word": "美甲师吐槽去年画龙今年盘蛇",
+        "onboard_time": 1737033201,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15144,
+        "num": 15144,
+        "word": "九重紫小孩哥说昀牵孟绕是真的",
+        "onboard_time": 1737037280,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15019,
+        "num": 15019,
+        "word": "蒯曼3比1大藤沙月",
+        "onboard_time": 1737043279,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15013,
+        "num": 15013,
+        "word": "当地民众欢呼庆祝加沙停火协议",
+        "onboard_time": 1737056590,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13998,
+        "num": 13998,
+        "word": "国家烟草专卖局原局长凌成兴案开庭",
+        "onboard_time": 1737058213,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 13989,
+        "num": 13989,
+        "word": "曾经的贫困村变旅游打卡点一房难求",
+        "onboard_time": 1737054792,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13984,
+        "num": 13984,
+        "word": "杨子你惹papi酱干嘛",
+        "onboard_time": 1737018258,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13878,
+        "num": 13878,
+        "word": "苹果回应iOS18一直截图越来越红",
+        "onboard_time": 1737045316,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 13659,
+        "num": 13659,
+        "word": "将军令的歌词还是太超前了",
+        "onboard_time": 1737032298,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 13545,
+        "num": 13545,
+        "word": "美国PVH集团存在不当涉疆行为",
+        "onboard_time": 1737057851,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13009,
+        "num": 13545,
+        "word": "国色芳华中杨紫嘴角为何有小红点",
+        "onboard_time": 1737036320,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12965,
+        "num": 13545,
+        "word": "程潇华彩传承晚会造型",
+        "onboard_time": 1737043220,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12031,
+        "num": 13545,
+        "word": "小红书翻译功能",
+        "onboard_time": 1737035780,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 11728,
+        "num": 13545,
+        "word": "合肥地震",
+        "onboard_time": 1737025578,
+        "rank": 48,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 10998,
+        "num": 13544,
+        "word": "计划近期再次约谈美国PVH集团",
+        "onboard_time": 1737061812,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰天雪地释放无限热力#"
+    }
+  }
+}
