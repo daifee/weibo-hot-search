@@ -1,6 +1,6 @@
 {
   "startTime": 1736958421212,
-  "endTime": 1736995617944,
+  "endTime": 1736996231094,
   "band_list": [
     {
       "raw_hot": 1581563,
@@ -9,6 +9,14 @@
       "onboard_time": 1736957357,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1442578,
+      "num": 1442578,
+      "word": "泰国总理自曝差点成电诈受害者",
+      "onboard_time": 1736993237,
+      "rank": 1,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1285421,
@@ -49,14 +57,6 @@
       "onboard_time": 1736989458,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 926784,
-      "num": 926784,
-      "word": "泰国总理自曝差点成电诈受害者",
-      "onboard_time": 1736993237,
-      "rank": 1,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 826803,
@@ -107,7 +107,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 570587,
+      "raw_hot": 585743,
       "num": 570587,
       "word": "医生谈赵露思将复工",
       "onboard_time": 1736985376,
@@ -123,8 +123,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 488271,
-      "num": 488271,
+      "raw_hot": 540222,
+      "num": 540222,
       "word": "网友拿彭于晏照片和TikTok难民打招呼",
       "onboard_time": 1736991437,
       "rank": 46,
@@ -203,6 +203,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 341507,
+      "num": 411325,
+      "word": "崔胜铉谈退团原因",
+      "onboard_time": 1736993897,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 340995,
       "num": 374661,
       "word": "刘晓庆说她一个月生不了一次气",
@@ -233,14 +241,6 @@
       "onboard_time": 1736942718,
       "rank": 23,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 309265,
-      "num": 309265,
-      "word": "崔胜铉谈退团原因",
-      "onboard_time": 1736993897,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 298473,
@@ -315,12 +315,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241355,
+      "num": 241355,
+      "word": "于敏逝世六周年",
+      "onboard_time": 1736984476,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 235904,
       "num": 235904,
       "word": "泰国为刺激旅游业批准赌博合法化",
       "onboard_time": 1736938879,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 220784,
+      "num": 220784,
+      "word": "特朗普在TikTok上拥有超1400万粉丝",
+      "onboard_time": 1736994917,
+      "rank": 39,
+      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 214494,
@@ -347,14 +363,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 202603,
-      "num": 202603,
-      "word": "于敏逝世六周年",
-      "onboard_time": 1736984476,
-      "rank": 20,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 201113,
       "num": 201113,
       "word": "唐嫣超短发造型",
@@ -368,6 +376,14 @@
       "word": "男童被吹风机吹成深度烧伤",
       "onboard_time": 1736984116,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195937,
+      "num": 195937,
+      "word": "间谍常用的伪装身份",
+      "onboard_time": 1736994376,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -419,6 +435,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185302,
+      "num": 185302,
+      "word": "国色芳华中的牡丹有多火",
+      "onboard_time": 1736995396,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 185040,
+      "num": 185040,
+      "word": "宋雨琦说白月梵星太上头了",
+      "onboard_time": 1736983816,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179424,
       "num": 179424,
       "word": "电诈分子的电话打到了泰国总理那里",
@@ -427,20 +459,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 169751,
-      "num": 169751,
-      "word": "间谍常用的伪装身份",
-      "onboard_time": 1736994376,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 175274,
+      "num": 175274,
+      "word": "上戏啦",
+      "onboard_time": 1736995937,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
-      "raw_hot": 165750,
-      "num": 169850,
-      "word": "宋雨琦说白月梵星太上头了",
-      "onboard_time": 1736983816,
-      "rank": 33,
-      "category": "剧集"
+      "raw_hot": 172637,
+      "num": 290187,
+      "word": "肖战的年度瞬间是和妈妈的拥抱",
+      "onboard_time": 1736995937,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 162310,
@@ -483,12 +515,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 137709,
-      "num": 137709,
+      "raw_hot": 145787,
+      "num": 145787,
+      "word": "男子在日本买下疑似日军侵华照片",
+      "onboard_time": 1736995937,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138662,
+      "num": 138662,
       "word": "上海地铁",
       "onboard_time": 1736992758,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136683,
+      "num": 136683,
+      "word": "赵今麦漂白演技被群夸",
+      "onboard_time": 1736995337,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 135854,
@@ -497,6 +545,14 @@
       "onboard_time": 1736944877,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 135417,
+      "num": 135417,
+      "word": "山里娃儿有了空中校车",
+      "onboard_time": 1736991798,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134935,
@@ -521,14 +577,6 @@
       "onboard_time": 1736993776,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 132772,
-      "num": 132772,
-      "word": "山里娃儿有了空中校车",
-      "onboard_time": 1736991798,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 130671,
@@ -563,11 +611,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128104,
+      "num": 128104,
+      "word": "寒武纪股价跌破600元",
+      "onboard_time": 1736995758,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 124302,
       "num": 124302,
       "word": "被家暴女子曾为离婚同意净身出户",
       "onboard_time": 1736988019,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123622,
+      "num": 123622,
+      "word": "男孩因7手电动车爆炸身亡前车主担责",
+      "onboard_time": 1736995937,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -585,14 +649,6 @@
       "onboard_time": 1736940918,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 114245,
-      "num": 114245,
-      "word": "特朗普在TikTok上拥有超1400万粉丝",
-      "onboard_time": 1736994917,
-      "rank": 39,
-      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 113821,
@@ -617,14 +673,6 @@
       "onboard_time": 1736955079,
       "rank": 31,
       "category": "剧集,体育"
-    },
-    {
-      "raw_hot": 108456,
-      "num": 163844,
-      "word": "国色芳华中的牡丹有多火",
-      "onboard_time": 1736995396,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 105748,
@@ -697,14 +745,6 @@
       "onboard_time": 1736992398,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86739,
-      "num": 86739,
-      "word": "赵今麦漂白演技被群夸",
-      "onboard_time": 1736995337,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 85976,
@@ -860,7 +900,7 @@
     },
     {
       "raw_hot": 55055,
-      "num": 847898,
+      "num": 852852,
       "word": "以旧换新带动销售超1.3万亿元",
       "onboard_time": 1736949981,
       "rank": 2,

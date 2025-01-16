@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1736995617944,
+  "endTime": 1736996231094,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -2243,6 +2243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1442578,
+      "num": 1442578,
+      "word": "泰国总理自曝差点成电诈受害者",
+      "onboard_time": 1736993237,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1436773,
       "num": 1226187,
       "word": "金希澈残疾等级",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736171484,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1366414,
-      "num": 1366414,
-      "word": "国色芳华妆造被指抄袭",
-      "onboard_time": 1736736978,
-      "rank": 35,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [

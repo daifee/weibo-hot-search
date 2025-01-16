@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736995617944,
+  "endTime": 1736996231094,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -481,6 +481,14 @@
       "onboard_time": 1736610924,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1442578,
+      "num": 1442578,
+      "word": "泰国总理自曝差点成电诈受害者",
+      "onboard_time": 1736993237,
+      "rank": 1,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1436773,
@@ -1049,14 +1057,6 @@
       "onboard_time": 1736925439,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 926784,
-      "num": 926784,
-      "word": "泰国总理自曝差点成电诈受害者",
-      "onboard_time": 1736993237,
-      "rank": 1,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 917723,
@@ -2147,6 +2147,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 585743,
+      "num": 570587,
+      "word": "医生谈赵露思将复工",
+      "onboard_time": 1736985376,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 582228,
       "num": 582228,
       "word": "李现最近又爱上了小烧烤",
@@ -2193,14 +2201,6 @@
       "onboard_time": 1736740521,
       "rank": 6,
       "category": "教育"
-    },
-    {
-      "raw_hot": 570587,
-      "num": 570587,
-      "word": "医生谈赵露思将复工",
-      "onboard_time": 1736985376,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 568395,
@@ -2313,6 +2313,14 @@
       "onboard_time": 1736689461,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 540222,
+      "num": 540222,
+      "word": "网友拿彭于晏照片和TikTok难民打招呼",
+      "onboard_time": 1736991437,
+      "rank": 46,
+      "category": "互联网,艺人"
     },
     {
       "raw_hot": 539761,
@@ -2561,14 +2569,6 @@
       "onboard_time": 1736759119,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 488271,
-      "num": 488271,
-      "word": "网友拿彭于晏照片和TikTok难民打招呼",
-      "onboard_time": 1736991437,
-      "rank": 46,
-      "category": "互联网,艺人"
     },
     {
       "raw_hot": 484418,
@@ -3563,6 +3563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 341507,
+      "num": 411325,
+      "word": "崔胜铉谈退团原因",
+      "onboard_time": 1736993897,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 340667,
       "num": 340667,
       "word": "虞书欣又当站姐了",
@@ -3944,14 +3952,6 @@
       "word": "川渝艺人组团回家过年",
       "onboard_time": 1736822177,
       "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 309265,
-      "num": 309265,
-      "word": "崔胜铉谈退团原因",
-      "onboard_time": 1736993897,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -4947,6 +4947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241355,
+      "num": 241355,
+      "word": "于敏逝世六周年",
+      "onboard_time": 1736984476,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 240700,
       "num": 310611,
       "word": "朴秀荣续约SM",
@@ -5353,6 +5361,14 @@
       "onboard_time": 1736759119,
       "rank": 28,
       "category": "作品衍生,体育"
+    },
+    {
+      "raw_hot": 220784,
+      "num": 220784,
+      "word": "特朗普在TikTok上拥有超1400万粉丝",
+      "onboard_time": 1736994917,
+      "rank": 39,
+      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 220217,
@@ -5931,14 +5947,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 202603,
-      "num": 202603,
-      "word": "于敏逝世六周年",
-      "onboard_time": 1736984476,
-      "rank": 20,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 202090,
       "num": 202090,
       "word": "徐克谈对肖战的看法",
@@ -6289,6 +6297,14 @@
       "onboard_time": 1736751377,
       "rank": 32,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 195937,
+      "num": 195937,
+      "word": "间谍常用的伪装身份",
+      "onboard_time": 1736994376,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195794,
@@ -6851,6 +6867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185302,
+      "num": 185302,
+      "word": "国色芳华中的牡丹有多火",
+      "onboard_time": 1736995396,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185175,
       "num": 185175,
       "word": "王俊凯默默提醒田华老师",
@@ -6873,6 +6897,14 @@
       "onboard_time": 1736779101,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 185040,
+      "num": 185040,
+      "word": "宋雨琦说白月梵星太上头了",
+      "onboard_time": 1736983816,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 185024,
@@ -7291,6 +7323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175274,
+      "num": 175274,
+      "word": "上戏啦",
+      "onboard_time": 1736995937,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 175154,
       "num": 264949,
       "word": "澳网张之臻止步首轮",
@@ -7457,6 +7497,14 @@
       "onboard_time": 1736725576,
       "rank": 26,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 172637,
+      "num": 290187,
+      "word": "肖战的年度瞬间是和妈妈的拥抱",
+      "onboard_time": 1736995937,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 172397,
@@ -7643,14 +7691,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 169751,
-      "num": 169751,
-      "word": "间谍常用的伪装身份",
-      "onboard_time": 1736994376,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 169528,
       "num": 169528,
       "word": "尹锡悦被捕后疑似金建希遛狗画面",
@@ -7769,14 +7809,6 @@
       "onboard_time": 1736842938,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 165750,
-      "num": 169850,
-      "word": "宋雨琦说白月梵星太上头了",
-      "onboard_time": 1736983816,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 165588,
@@ -8859,6 +8891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145787,
+      "num": 145787,
+      "word": "男子在日本买下疑似日军侵华照片",
+      "onboard_time": 1736995937,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145752,
       "num": 341243,
       "word": "春节档电影海报上新",
@@ -9243,6 +9283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 138662,
+      "num": 138662,
+      "word": "上海地铁",
+      "onboard_time": 1736992758,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138353,
       "num": 357188,
       "word": "美国演员被困火海险跳海逃",
@@ -9273,14 +9321,6 @@
       "onboard_time": 1736753478,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 137709,
-      "num": 137709,
-      "word": "上海地铁",
-      "onboard_time": 1736992758,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 137708,
@@ -9329,6 +9369,14 @@
       "onboard_time": 1736773220,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136683,
+      "num": 136683,
+      "word": "赵今麦漂白演技被群夸",
+      "onboard_time": 1736995337,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 136678,
@@ -9401,6 +9449,14 @@
       "onboard_time": 1736917821,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135417,
+      "num": 135417,
+      "word": "山里娃儿有了空中校车",
+      "onboard_time": 1736991798,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135416,
@@ -9569,14 +9625,6 @@
       "onboard_time": 1736993776,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 132772,
-      "num": 132772,
-      "word": "山里娃儿有了空中校车",
-      "onboard_time": 1736991798,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132699,
@@ -9955,6 +10003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128104,
+      "num": 128104,
+      "word": "寒武纪股价跌破600元",
+      "onboard_time": 1736995758,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 127944,
       "num": 127944,
       "word": "杨紫熊大熊二光头强合影",
@@ -10257,6 +10313,14 @@
       "onboard_time": 1736949981,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123622,
+      "num": 123622,
+      "word": "男孩因7手电动车爆炸身亡前车主担责",
+      "onboard_time": 1736995937,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123478,
@@ -10819,14 +10883,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 114245,
-      "num": 114245,
-      "word": "特朗普在TikTok上拥有超1400万粉丝",
-      "onboard_time": 1736994917,
-      "rank": 39,
-      "category": "国际时政,互联网"
-    },
-    {
       "raw_hot": 114185,
       "num": 208020,
       "word": "祝绪丹说竹林四侠约定了要大步向前走",
@@ -11201,14 +11257,6 @@
       "onboard_time": 1736937500,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 108456,
-      "num": 163844,
-      "word": "国色芳华中的牡丹有多火",
-      "onboard_time": 1736995396,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 107858,
@@ -11921,14 +11969,6 @@
       "onboard_time": 1736992398,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86739,
-      "num": 86739,
-      "word": "赵今麦漂白演技被群夸",
-      "onboard_time": 1736995337,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 86635,
@@ -12788,7 +12828,7 @@
     },
     {
       "raw_hot": 55055,
-      "num": 847898,
+      "num": 852852,
       "word": "以旧换新带动销售超1.3万亿元",
       "onboard_time": 1736949981,
       "rank": 2,
