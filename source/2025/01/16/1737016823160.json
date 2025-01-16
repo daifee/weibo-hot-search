@@ -1,0 +1,410 @@
+{
+  "runTime": 1737016823160,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1720477,
+        "num": 1720477,
+        "word": "小红书崩了",
+        "onboard_time": 1737014360,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1516820,
+        "num": 1516820,
+        "word": "杨子黄圣依彻底分开了",
+        "onboard_time": 1737010218,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33742,
+        "num": 1022177,
+        "word": "细致的爱温暖了每个人",
+        "onboard_time": 1737003379,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 995710,
+        "num": 995710,
+        "word": "孙铱因怀孕后生化做体检查出脑动脉瘤",
+        "onboard_time": 1737012439,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529930,
+        "num": 529930,
+        "word": "抖音已处理1万多仿冒外国用户账号",
+        "onboard_time": 1737002779,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 354044,
+        "num": 523309,
+        "word": "美国女子被中国网民感动到泪目",
+        "onboard_time": 1737012679,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 521205,
+        "num": 521205,
+        "word": "iOS18一直截图会越来越红",
+        "onboard_time": 1737012679,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 511068,
+        "num": 511068,
+        "word": "手机补贴不用交旧手机",
+        "onboard_time": 1737013519,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 251589,
+        "num": 465912,
+        "word": "美国老爷爷被中国网友叮嘱注意身体",
+        "onboard_time": 1737005599,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310433,
+        "num": 465821,
+        "word": "宋慧乔靠爆剧逆袭宋仲基票房扑街",
+        "onboard_time": 1737007458,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465735,
+        "num": 465735,
+        "word": "马斯克母亲已签约MCN公司",
+        "onboard_time": 1737012019,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 425618,
+        "num": 425618,
+        "word": "金世佳照顾喝醉的檀健次",
+        "onboard_time": 1737011358,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 423636,
+        "num": 423636,
+        "word": "黄圣依有个人财产了",
+        "onboard_time": 1737009858,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348247,
+        "num": 348247,
+        "word": "TikTok难民开直播聊天10万人围观",
+        "onboard_time": 1737010577,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 702350,
+        "num": 340450,
+        "word": "麦琳瘦了13斤",
+        "onboard_time": 1737009437,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208848,
+        "num": 208848,
+        "word": "小红书外国老用户坐不住了",
+        "onboard_time": 1737005119,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 235255,
+        "num": 206295,
+        "word": "葛夕留几手进入离婚程序",
+        "onboard_time": 1737004639,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199965,
+        "num": 199965,
+        "word": "网传五福临门接档国色芳华",
+        "onboard_time": 1737015799,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185331,
+        "num": 185331,
+        "word": "聚餐第二天猝死同饮者要担责吗",
+        "onboard_time": 1737004220,
+        "rank": 18,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 213550,
+        "num": 184410,
+        "word": "麦琳给李行亮买了星战乐高",
+        "onboard_time": 1737014898,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 488405,
+        "num": 182572,
+        "word": "陈冠希女儿学校被烧毁",
+        "onboard_time": 1737004938,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253000,
+        "num": 181879,
+        "word": "双胞胎宝妈悬浮肚生完变棉被褶",
+        "onboard_time": 1737015919,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226638,
+        "num": 180579,
+        "word": "三亚22万一晚酒店被订光",
+        "onboard_time": 1737013640,
+        "rank": 22,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 179749,
+        "num": 179749,
+        "word": "手机补贴",
+        "onboard_time": 1737016279,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 162598,
+        "num": 162598,
+        "word": "美国网友称樊振东是King",
+        "onboard_time": 1737015678,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162028,
+        "num": 162028,
+        "word": "王曼昱也抽吧唧",
+        "onboard_time": 1737015199,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171679,
+        "num": 161891,
+        "word": "李少红晒与杨幂合照",
+        "onboard_time": 1737012258,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158739,
+        "num": 158739,
+        "word": "沈泰回应于正",
+        "onboard_time": 1737016519,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310828,
+        "num": 158708,
+        "word": "恭喜葛夕",
+        "onboard_time": 1737013999,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152996,
+        "num": 152996,
+        "word": "王曼昱考了驾照开始学做饭",
+        "onboard_time": 1737012019,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166984,
+        "num": 152682,
+        "word": "范玮琪为双胞胎儿子庆生",
+        "onboard_time": 1737013999,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150781,
+        "num": 150781,
+        "word": "小红书回应增加一键翻译功能",
+        "onboard_time": 1737006858,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 147782,
+        "num": 147782,
+        "word": "杂志销售额排行榜",
+        "onboard_time": 1737006139,
+        "rank": 32,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 147352,
+        "num": 147352,
+        "word": "小红书中美民间互动成国际现象级事件",
+        "onboard_time": 1737015319,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 144739,
+        "num": 144739,
+        "word": "云合",
+        "onboard_time": 1737016338,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132274,
+        "num": 132274,
+        "word": "恩利说请尊重我们的文化",
+        "onboard_time": 1737000259,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131653,
+        "num": 131653,
+        "word": "戚薇真人bjd",
+        "onboard_time": 1737012679,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131560,
+        "num": 131560,
+        "word": "贾玲张小斐一起工作",
+        "onboard_time": 1737014719,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131096,
+        "num": 131096,
+        "word": "万灵局妖闻簿",
+        "onboard_time": 1737015919,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128927,
+        "num": 128927,
+        "word": "第一批春运列车已找到另一半",
+        "onboard_time": 1737015738,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129092,
+        "num": 128627,
+        "word": "檀健次中国式塞红包",
+        "onboard_time": 1737016638,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120426,
+        "num": 124971,
+        "word": "侯明昊首映礼又cha上了",
+        "onboard_time": 1737015379,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124186,
+        "num": 124186,
+        "word": "济南趵突泉的猪锦鲤要减肥了",
+        "onboard_time": 1737016039,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 123888,
+        "num": 123888,
+        "word": "可口可乐CEO送特朗普就职纪念可乐",
+        "onboard_time": 1737010998,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118322,
+        "num": 118322,
+        "word": "意大利市长入驻小红书意网友追网线投诉",
+        "onboard_time": 1737008957,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 112710,
+        "num": 112710,
+        "word": "春节申遗成功后第一批受益者出现了",
+        "onboard_time": 1736999778,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112316,
+        "num": 112316,
+        "word": "女子携带宠物猫乘坐网约车将司机抓伤",
+        "onboard_time": 1737014360,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110935,
+        "num": 110935,
+        "word": "拜登发表告别演讲",
+        "onboard_time": 1736991677,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109984,
+        "num": 109984,
+        "word": "保罗终于解脱了",
+        "onboard_time": 1737015919,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106058,
+        "num": 106058,
+        "word": "王曼昱找回了面对乒乓球时的初心",
+        "onboard_time": 1737016279,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中斯友好合作取得新的更大成果#"
+    }
+  }
+}
