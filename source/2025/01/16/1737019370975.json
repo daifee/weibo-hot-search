@@ -1,0 +1,410 @@
+{
+  "runTime": 1737019370975,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 821176,
+        "num": 1131388,
+        "word": "杨子你惹papi酱干嘛",
+        "onboard_time": 1737018258,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413296,
+        "num": 413296,
+        "word": "抖音已处理1万多仿冒外国用户账号",
+        "onboard_time": 1737002779,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 7468,
+        "num": 380346,
+        "word": "囤年货的队已经排起来了",
+        "onboard_time": 1737019158,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372935,
+        "num": 372935,
+        "word": "iOS18一直截图会越来越红",
+        "onboard_time": 1737012679,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 371253,
+        "num": 371253,
+        "word": "美国网友称樊振东是King",
+        "onboard_time": 1737015678,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1208335,
+        "num": 371188,
+        "word": "杨子黄圣依彻底分开了",
+        "onboard_time": 1737010218,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 729427,
+        "num": 371065,
+        "word": "孙铱因怀孕后生化做体检查出脑动脉瘤",
+        "onboard_time": 1737012439,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 544267,
+        "num": 370933,
+        "word": "恭喜葛夕",
+        "onboard_time": 1737013999,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370795,
+        "num": 370795,
+        "word": "手机补贴不用交旧手机",
+        "onboard_time": 1737013519,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 305386,
+        "num": 339080,
+        "word": "美国女子被中国网民感动到泪目",
+        "onboard_time": 1737012679,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337663,
+        "num": 337663,
+        "word": "沈泰回应于正",
+        "onboard_time": 1737016519,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310081,
+        "num": 310081,
+        "word": "第一批春运列车已找到另一半",
+        "onboard_time": 1737015738,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285058,
+        "num": 285058,
+        "word": "黄圣依有个人财产了",
+        "onboard_time": 1737009858,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272424,
+        "num": 272424,
+        "word": "宋慧乔靠爆剧逆袭宋仲基票房扑街",
+        "onboard_time": 1737007458,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269773,
+        "num": 269773,
+        "word": "金世佳照顾喝醉的檀健次",
+        "onboard_time": 1737011358,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259788,
+        "num": 259788,
+        "word": "马斯克母亲已签约MCN公司",
+        "onboard_time": 1737012019,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 252067,
+        "num": 252067,
+        "word": "异人之下cp大乱炖",
+        "onboard_time": 1737017059,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220898,
+        "num": 220898,
+        "word": "小红书中美民间互动成国际现象级事件",
+        "onboard_time": 1737015319,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 214866,
+        "num": 214866,
+        "word": "美国老爷爷被中国网友叮嘱注意身体",
+        "onboard_time": 1737005599,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205960,
+        "num": 205960,
+        "word": "TikTok难民开直播聊天10万人围观",
+        "onboard_time": 1737010577,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 736047,
+        "num": 205298,
+        "word": "麦琳瘦了13斤",
+        "onboard_time": 1737009437,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28870,
+        "num": 204857,
+        "word": "古村落鱼灯舞动年味儿拉满了",
+        "onboard_time": 1736984296,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345667,
+        "num": 203464,
+        "word": "双胞胎宝妈悬浮肚生完变棉被褶",
+        "onboard_time": 1737015919,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311220,
+        "num": 202672,
+        "word": "陈冠希女儿学校被烧毁",
+        "onboard_time": 1737004938,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63891,
+        "num": 201289,
+        "word": "詹姆斯球球巨星球",
+        "onboard_time": 1737018378,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201106,
+        "num": 201106,
+        "word": "黄友政1比3张本智和",
+        "onboard_time": 1737018738,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213971,
+        "num": 197851,
+        "word": "国色芳华云合登顶",
+        "onboard_time": 1737017417,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2402372,
+        "num": 197715,
+        "word": "小红书崩了",
+        "onboard_time": 1737014360,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 188494,
+        "num": 188494,
+        "word": "麦琳执行力",
+        "onboard_time": 1737019158,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62487,
+        "num": 181749,
+        "word": "异人之下之决战碧游村微博追剧团",
+        "onboard_time": 1737019338,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181638,
+        "num": 181638,
+        "word": "三亚22万一晚酒店被订光",
+        "onboard_time": 1737013640,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 177076,
+        "num": 177076,
+        "word": "工人被压倒骨折退伍小伙12秒狂飙救人",
+        "onboard_time": 1737017779,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163402,
+        "num": 163402,
+        "word": "偶遇孟子义丽江拍戏",
+        "onboard_time": 1737018618,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159578,
+        "num": 159578,
+        "word": "檀健次中国式塞红包",
+        "onboard_time": 1737016638,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155408,
+        "num": 155408,
+        "word": "成品油价将迎大涨",
+        "onboard_time": 1737016097,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 151292,
+        "num": 151292,
+        "word": "贾玲张小斐一起工作",
+        "onboard_time": 1737014719,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142349,
+        "num": 142349,
+        "word": "济南趵突泉的猪锦鲤要减肥了",
+        "onboard_time": 1737016039,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 139892,
+        "num": 139892,
+        "word": "小红书外国老用户坐不住了",
+        "onboard_time": 1737005119,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 134542,
+        "num": 134542,
+        "word": "新国辩秦彻那个完美的脸",
+        "onboard_time": 1737016819,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128463,
+        "num": 128463,
+        "word": "网传五福临门接档国色芳华",
+        "onboard_time": 1737015799,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121301,
+        "num": 121301,
+        "word": "00后开始流行在电影院里过年",
+        "onboard_time": 1737018258,
+        "rank": 40,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 120805,
+        "num": 120805,
+        "word": "趵突泉锦鲤胖成猪锦",
+        "onboard_time": 1737018979,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118266,
+        "num": 118266,
+        "word": "彭昱畅锁喉严屹宽",
+        "onboard_time": 1737018199,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112656,
+        "num": 112656,
+        "word": "王曼昱也抽吧唧",
+        "onboard_time": 1737015199,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110450,
+        "num": 110450,
+        "word": "小红书回应增加一键翻译功能",
+        "onboard_time": 1737006858,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 106430,
+        "num": 106430,
+        "word": "拜登发表告别演讲",
+        "onboard_time": 1736991677,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96561,
+        "num": 96561,
+        "word": "李少红晒与杨幂合照",
+        "onboard_time": 1737012258,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 96239,
+        "num": 96239,
+        "word": "保罗终于解脱了",
+        "onboard_time": 1737015919,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92469,
+        "num": 92469,
+        "word": "恩利说请尊重我们的文化",
+        "onboard_time": 1737000259,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91852,
+        "num": 91852,
+        "word": "郭京飞演1个警察再奖自己1个警察",
+        "onboard_time": 1737018618,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中斯友好合作取得新的更大成果#"
+    }
+  }
+}
