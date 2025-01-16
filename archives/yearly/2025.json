@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737037223037,
+  "endTime": 1737038305116,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -657,6 +657,14 @@
       "onboard_time": 1736252905,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2563167,
+      "num": 307404,
+      "word": "疑似支付宝出现重大bug",
+      "onboard_time": 1737038179,
+      "rank": 10,
+      "category": "互联网"
     },
     {
       "raw_hot": 2556287,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735972519,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1395529,
-      "num": 1254529,
-      "word": "客服回应生理期内裤被指有塑料膜",
-      "onboard_time": 1735957877,
-      "rank": 29,
-      "category": "舆论监督"
     }
   ],
   "hotgov_list": [

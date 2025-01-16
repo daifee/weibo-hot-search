@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/16 22:20:23
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/16 22:38:25
 </p>
 </blockquote>
 <p>
@@ -503,6 +503,12 @@ TikTok禁令（热度：2765381）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E7%94%B1%E8%AD%A6%E6%96%B9%E6%8A%A4%E9%80%81%E6%AF%94OK%E6%89%8B%E5%8A%BF%23" target="weibo">
 王星由警方护送比OK手势（热度：2564312）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E6%94%AF%E4%BB%98%E5%AE%9D%E5%87%BA%E7%8E%B0%E9%87%8D%E5%A4%A7bug%23" target="weibo">
+疑似支付宝出现重大bug（热度：2563167）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Angelababy沙漠神女（热度：605044）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23EXO%E5%94%B1%E4%BA%86%E5%88%9D%E9%9B%AA%23" target="weibo">
 EXO唱了初雪（热度：600311）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A4%BE%E4%BF%9D%E5%B1%80%E4%BA%BA%E5%91%98%E5%8F%97%E8%B4%BF2575%E4%B8%87%E6%89%93%E8%B5%8F%E4%B8%BB%E6%92%AD860%E4%B8%87%23" target="weibo">
-社保局人员受贿2575万打赏主播860万（热度：599483）
 </a>
 </li>
 

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/16 22:20:23
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/16 22:38:25
 </p>
 </blockquote>
 <p>
@@ -503,6 +503,12 @@ TikTok禁令（热度：2765381）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E7%94%B1%E8%AD%A6%E6%96%B9%E6%8A%A4%E9%80%81%E6%AF%94OK%E6%89%8B%E5%8A%BF%23" target="weibo">
 王星由警方护送比OK手势（热度：2564312）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E6%94%AF%E4%BB%98%E5%AE%9D%E5%87%BA%E7%8E%B0%E9%87%8D%E5%A4%A7bug%23" target="weibo">
+疑似支付宝出现重大bug（热度：2563167）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ TikTok难民称中国网友非常热情（热度：1548219）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%BB%A1%E5%AE%A3%E8%AA%93%E5%B0%B1%E8%81%8C%E6%97%B6%E7%BE%8E%E5%9B%BD%E9%99%8D%E5%8D%8A%E6%97%97%23" target="weibo">
 特朗普不满宣誓就职时美国降半旗（热度：1396034）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E7%94%9F%E7%90%86%E6%9C%9F%E5%86%85%E8%A3%A4%E8%A2%AB%E6%8C%87%E6%9C%89%E5%A1%91%E6%96%99%E8%86%9C%23" target="weibo">
-客服回应生理期内裤被指有塑料膜（热度：1395529）
 </a>
 </li>
 
