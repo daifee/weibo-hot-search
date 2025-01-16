@@ -1,6 +1,6 @@
 {
   "startTime": 1736958421212,
-  "endTime": 1736998719578,
+  "endTime": 1737001530353,
   "band_list": [
     {
       "raw_hot": 1581563,
@@ -51,6 +51,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1139458,
+      "num": 1182313,
+      "word": "宁静拒绝了一路繁花邀请",
+      "onboard_time": 1736998518,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 962290,
       "num": 422307,
       "word": "黄轩回应公开女友",
@@ -75,12 +83,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 860571,
+      "num": 860571,
+      "word": "尹锡悦在牢房里能看电视不用穿囚服",
+      "onboard_time": 1736999598,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 826803,
       "num": 826803,
       "word": "搬运付费短剧让免费看被索赔46000",
       "onboard_time": 1736992697,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 719736,
+      "num": 719736,
+      "word": "恩利说请尊重我们的文化",
+      "onboard_time": 1737000259,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 688728,
@@ -147,12 +171,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 556823,
+      "num": 556823,
+      "word": "65岁退休大爷在短剧演反派日入2000",
+      "onboard_time": 1736998158,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 524397,
       "num": 524397,
       "word": "国色芳华中的牡丹有多火",
       "onboard_time": 1736995396,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 507228,
+      "num": 507228,
+      "word": "TikTok难民涌入国产APP后表白中国",
+      "onboard_time": 1736999840,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 459852,
@@ -171,20 +211,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 438902,
+      "num": 438902,
+      "word": "成龙张子枫拍电影好像龙叔和小玉",
+      "onboard_time": 1736996598,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 434294,
+      "num": 434294,
+      "word": "檀健次喝醉了",
+      "onboard_time": 1736999118,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 413007,
+      "num": 413007,
+      "word": "王楚钦成小手办了",
+      "onboard_time": 1736997498,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 411989,
       "num": 411989,
       "word": "崔胜铉谈退团原因",
       "onboard_time": 1736993897,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 401804,
-      "num": 401804,
-      "word": "王楚钦成小手办了",
-      "onboard_time": 1736997498,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 389355,
@@ -209,14 +265,6 @@
       "onboard_time": 1736985318,
       "rank": 4,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 385363,
-      "num": 402789,
-      "word": "成龙张子枫拍电影好像龙叔和小玉",
-      "onboard_time": 1736996598,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 381311,
@@ -259,12 +307,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 347499,
+      "num": 347499,
+      "word": "陆柯燃去年工作日曝光是24天",
+      "onboard_time": 1736999718,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 340995,
       "num": 374661,
       "word": "刘晓庆说她一个月生不了一次气",
       "onboard_time": 1736952620,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 339315,
+      "num": 339315,
+      "word": "小红书在美国掀起一场中文热",
+      "onboard_time": 1736999840,
+      "rank": 15,
+      "category": "互联网"
     },
     {
       "raw_hot": 335926,
@@ -289,6 +353,14 @@
       "onboard_time": 1736942718,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 300500,
+      "num": 281384,
+      "word": "丁禹兮杂志销售额6分钟追平时间差",
+      "onboard_time": 1736990777,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 298473,
@@ -347,12 +419,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 281384,
-      "num": 281384,
-      "word": "丁禹兮杂志销售额6分钟追平时间差",
-      "onboard_time": 1736990777,
-      "rank": 23,
-      "category": "作品衍生"
+      "raw_hot": 274782,
+      "num": 274782,
+      "word": "春节申遗成功后第一批受益者出现了",
+      "onboard_time": 1736999778,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 261144,
@@ -361,14 +433,6 @@
       "onboard_time": 1736984236,
       "rank": 16,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 260148,
-      "num": 260148,
-      "word": "宁静拒绝了一路繁花邀请",
-      "onboard_time": 1736998518,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 243460,
@@ -395,8 +459,16 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 221640,
+      "num": 287917,
+      "word": "王宝强刘昊然唐探1900拿错剧本",
+      "onboard_time": 1736998638,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 214607,
-      "num": 243266,
+      "num": 273846,
       "word": "何猷君2024是奋斗的一年",
       "onboard_time": 1736998338,
       "rank": 19,
@@ -433,6 +505,14 @@
       "onboard_time": 1736987359,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 201399,
+      "num": 201399,
+      "word": "习惯性反问有多伤人",
+      "onboard_time": 1736999298,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 201203,
@@ -531,12 +611,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 190440,
-      "num": 190440,
-      "word": "65岁退休大爷在短剧演反派日入2000",
-      "onboard_time": 1736998158,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 188509,
+      "num": 175657,
+      "word": "芒果TV的免费员工餐",
+      "onboard_time": 1737001038,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 188342,
@@ -619,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159245,
+      "num": 159245,
+      "word": "开年第一部纯血犯罪剧来了",
+      "onboard_time": 1737001278,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158123,
       "num": 158123,
       "word": "痛包成二次元打工人去班味神器",
@@ -633,6 +721,14 @@
       "onboard_time": 1736990659,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155985,
+      "num": 162242,
+      "word": "杨紫为中国牡丹点赞",
+      "onboard_time": 1736999778,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 151941,
@@ -651,11 +747,35 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150011,
+      "num": 150011,
+      "word": "一路繁花",
+      "onboard_time": 1737000738,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149751,
       "num": 149751,
       "word": "26岁小伙让老鼠啃过的古籍重生",
       "onboard_time": 1736980752,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144149,
+      "num": 144149,
+      "word": "王曼昱新生大片",
+      "onboard_time": 1736998938,
+      "rank": 38,
+      "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 138866,
+      "num": 138866,
+      "word": "曝公司用高压水枪驱赶讨薪者",
+      "onboard_time": 1737000318,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -665,6 +785,14 @@
       "onboard_time": 1736992758,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136091,
+      "num": 136091,
+      "word": "春节回老家宠物怎么办",
+      "onboard_time": 1736998277,
+      "rank": 41,
+      "category": "民生新闻,情感"
     },
     {
       "raw_hot": 135854,
@@ -707,20 +835,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 133476,
+      "num": 133476,
+      "word": "马斯克母亲代言费约为30至50万美元",
+      "onboard_time": 1737001278,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 132923,
       "num": 132923,
       "word": "央行三天净投放超1万亿元",
       "onboard_time": 1736993776,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 130672,
-      "num": 130672,
-      "word": "春节回老家宠物怎么办",
-      "onboard_time": 1736998277,
-      "rank": 41,
-      "category": "民生新闻,情感"
     },
     {
       "raw_hot": 130671,
@@ -763,12 +891,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 126352,
+      "num": 126352,
+      "word": "郑思维谈退役运动员发展问题",
+      "onboard_time": 1737000919,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 125303,
+      "num": 125303,
+      "word": "交完猫税该交电影票了",
+      "onboard_time": 1736998878,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 124302,
       "num": 124302,
       "word": "被家暴女子曾为离婚同意净身出户",
       "onboard_time": 1736988019,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121268,
+      "num": 121268,
+      "word": "王者荣耀鸿蒙版正式上线",
+      "onboard_time": 1737001399,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 118851,
@@ -811,12 +963,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 114941,
-      "num": 114941,
-      "word": "王宝强刘昊然唐探1900拿错剧本",
-      "onboard_time": 1736998638,
-      "rank": 47,
-      "category": "电影"
+      "raw_hot": 113995,
+      "num": 113995,
+      "word": "郑思维首度回应退出国际赛事争议",
+      "onboard_time": 1737001459,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 113821,
