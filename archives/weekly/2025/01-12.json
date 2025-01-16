@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1736996231094,
+  "endTime": 1736997838436,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -467,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1480702,
+      "num": 1480702,
+      "word": "泰国总理自曝差点成电诈受害者",
+      "onboard_time": 1736993237,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1479333,
       "num": 1479333,
       "word": "谢娜 死嘴快憋住啊",
@@ -481,14 +489,6 @@
       "onboard_time": 1736610924,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1442578,
-      "num": 1442578,
-      "word": "泰国总理自曝差点成电诈受害者",
-      "onboard_time": 1736993237,
-      "rank": 1,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1436773,
@@ -729,6 +729,14 @@
       "onboard_time": 1736942897,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1142394,
+      "num": 1142394,
+      "word": "特朗普在TikTok上拥有超1400万粉丝",
+      "onboard_time": 1736994917,
+      "rank": 39,
+      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 1142346,
@@ -2187,6 +2195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 577135,
+      "num": 577135,
+      "word": "网友拿彭于晏照片和TikTok难民打招呼",
+      "onboard_time": 1736991437,
+      "rank": 46,
+      "category": "互联网,艺人"
+    },
+    {
       "raw_hot": 576040,
       "num": 576040,
       "word": "相信美国消防的她回家时直接傻眼",
@@ -2249,6 +2265,14 @@
       "onboard_time": 1736770579,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 560323,
+      "num": 560323,
+      "word": "男子在日本买下疑似日军侵华照片",
+      "onboard_time": 1736995937,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 559829,
@@ -2315,14 +2339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 540222,
-      "num": 540222,
-      "word": "网友拿彭于晏照片和TikTok难民打招呼",
-      "onboard_time": 1736991437,
-      "rank": 46,
-      "category": "互联网,艺人"
-    },
-    {
       "raw_hot": 539761,
       "num": 539761,
       "word": "红山动物园的厕所标志",
@@ -2377,6 +2393,14 @@
       "onboard_time": 1736866760,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 524397,
+      "num": 524397,
+      "word": "国色芳华中的牡丹有多火",
+      "onboard_time": 1736995396,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 523773,
@@ -2803,6 +2827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 447879,
+      "num": 447879,
+      "word": "肖战的年度瞬间是和妈妈的拥抱",
+      "onboard_time": 1736995937,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 446545,
       "num": 446545,
       "word": "唐艺昕 臣妾今夜心不慌",
@@ -3025,6 +3057,14 @@
       "onboard_time": 1736912599,
       "rank": 14,
       "category": "教育"
+    },
+    {
+      "raw_hot": 411989,
+      "num": 411989,
+      "word": "崔胜铉谈退团原因",
+      "onboard_time": 1736993897,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 406393,
@@ -3563,14 +3603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 341507,
-      "num": 411325,
-      "word": "崔胜铉谈退团原因",
-      "onboard_time": 1736993897,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 340667,
       "num": 340667,
       "word": "虞书欣又当站姐了",
@@ -4059,6 +4091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 299493,
+      "num": 299493,
+      "word": "成龙张子枫拍电影好像龙叔和小玉",
+      "onboard_time": 1736996598,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 298538,
       "num": 298538,
       "word": "千朵桃花清冷佛子有脸了",
@@ -4105,6 +4145,14 @@
       "onboard_time": 1736822778,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 296130,
+      "num": 322168,
+      "word": "拜登发表告别演讲",
+      "onboard_time": 1736991677,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 295206,
@@ -4313,14 +4361,6 @@
       "onboard_time": 1736942358,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 278973,
-      "num": 322168,
-      "word": "拜登发表告别演讲",
-      "onboard_time": 1736991677,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 278532,
@@ -4801,6 +4841,14 @@
       "onboard_time": 1736912658,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 248405,
+      "num": 248405,
+      "word": "王楚钦成小手办了",
+      "onboard_time": 1736997498,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 247464,
@@ -5363,14 +5411,6 @@
       "category": "作品衍生,体育"
     },
     {
-      "raw_hot": 220784,
-      "num": 220784,
-      "word": "特朗普在TikTok上拥有超1400万粉丝",
-      "onboard_time": 1736994917,
-      "rank": 39,
-      "category": "国际时政,互联网"
-    },
-    {
       "raw_hot": 220217,
       "num": 220217,
       "word": "小程序游戏的含金量还在上升",
@@ -5545,6 +5585,14 @@
       "onboard_time": 1736657179,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 212232,
+      "num": 212232,
+      "word": "大奉33集许七安颜巅",
+      "onboard_time": 1736996357,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 211721,
@@ -5939,6 +5987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 203595,
+      "num": 203595,
+      "word": "未定事件簿",
+      "onboard_time": 1736997439,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 203278,
       "num": 203278,
       "word": "百事可乐直播",
@@ -6041,6 +6097,14 @@
       "onboard_time": 1736741600,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 199872,
+      "num": 199872,
+      "word": "创造营亚洲第二季",
+      "onboard_time": 1736997018,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 199631,
@@ -6243,6 +6307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197243,
+      "num": 197243,
+      "word": "檀健次第一次参加自己的男主剧庆功宴",
+      "onboard_time": 1736996657,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197117,
       "num": 197117,
       "word": "王鹤棣男模身材",
@@ -6385,6 +6457,14 @@
       "onboard_time": 1736769799,
       "rank": 31,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 194108,
+      "num": 194108,
+      "word": "杨紫李现的扛剧能力",
+      "onboard_time": 1736997198,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 193973,
@@ -6819,6 +6899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 186307,
+      "num": 186307,
+      "word": "泰国总理差点被AI骗",
+      "onboard_time": 1736997439,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 186123,
       "num": 369039,
       "word": "赵露思活动参与者需持邀请函",
@@ -6865,14 +6953,6 @@
       "onboard_time": 1736869518,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 185302,
-      "num": 185302,
-      "word": "国色芳华中的牡丹有多火",
-      "onboard_time": 1736995396,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 185175,
@@ -7499,14 +7579,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 172637,
-      "num": 290187,
-      "word": "肖战的年度瞬间是和妈妈的拥抱",
-      "onboard_time": 1736995937,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 172397,
       "num": 359900,
       "word": "快递公司回应春节是否停运",
@@ -7545,6 +7617,14 @@
       "onboard_time": 1736689461,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172208,
+      "num": 172208,
+      "word": "王者蛇年春节版本1月23日上线",
+      "onboard_time": 1736997439,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 172105,
@@ -8539,6 +8619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151941,
+      "num": 151941,
+      "word": "高芙说希望TikTok能够保留",
+      "onboard_time": 1736996837,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 151471,
       "num": 151471,
       "word": "永远的竹林四侠",
@@ -8889,14 +8977,6 @@
       "onboard_time": 1736781441,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 145787,
-      "num": 145787,
-      "word": "男子在日本买下疑似日军侵华照片",
-      "onboard_time": 1736995937,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 145752,
@@ -10067,6 +10147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127266,
+      "num": 254074,
+      "word": "TOP回应是否回归BIGBANG",
+      "onboard_time": 1736997138,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127066,
       "num": 127066,
       "word": "外国友人开始在小红书上才艺了",
@@ -10667,6 +10755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 117600,
+      "num": 117600,
+      "word": "王雅繁0比2卡萨金娜",
+      "onboard_time": 1736997138,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117472,
       "num": 117472,
       "word": "TOP登陆少年重庆活动",
@@ -11073,6 +11169,14 @@
       "onboard_time": 1736768059,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112152,
+      "num": 112152,
+      "word": "Doinb说今年比赛当最后一年打",
+      "onboard_time": 1736997018,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 111312,
@@ -12828,7 +12932,7 @@
     },
     {
       "raw_hot": 55055,
-      "num": 852852,
+      "num": 1041571,
       "word": "以旧换新带动销售超1.3万亿元",
       "onboard_time": 1736949981,
       "rank": 2,

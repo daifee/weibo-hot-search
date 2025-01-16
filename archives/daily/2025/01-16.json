@@ -1,6 +1,6 @@
 {
   "startTime": 1736958421212,
-  "endTime": 1736996231094,
+  "endTime": 1736997838436,
   "band_list": [
     {
       "raw_hot": 1581563,
@@ -11,8 +11,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1442578,
-      "num": 1442578,
+      "raw_hot": 1480702,
+      "num": 1480702,
       "word": "泰国总理自曝差点成电诈受害者",
       "onboard_time": 1736993237,
       "rank": 1,
@@ -41,6 +41,14 @@
       "onboard_time": 1736988198,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1142394,
+      "num": 1142394,
+      "word": "特朗普在TikTok上拥有超1400万粉丝",
+      "onboard_time": 1736994917,
+      "rank": 39,
+      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 962290,
@@ -115,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 577135,
+      "num": 577135,
+      "word": "网友拿彭于晏照片和TikTok难民打招呼",
+      "onboard_time": 1736991437,
+      "rank": 46,
+      "category": "互联网,艺人"
+    },
+    {
       "raw_hot": 566422,
       "num": 566422,
       "word": "小红书2天新增超70万用户",
@@ -123,12 +139,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 540222,
-      "num": 540222,
-      "word": "网友拿彭于晏照片和TikTok难民打招呼",
-      "onboard_time": 1736991437,
-      "rank": 46,
-      "category": "互联网,艺人"
+      "raw_hot": 560323,
+      "num": 560323,
+      "word": "男子在日本买下疑似日军侵华照片",
+      "onboard_time": 1736995937,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 524397,
+      "num": 524397,
+      "word": "国色芳华中的牡丹有多火",
+      "onboard_time": 1736995396,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 459852,
@@ -137,6 +161,22 @@
       "onboard_time": 1736982374,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 447879,
+      "num": 447879,
+      "word": "肖战的年度瞬间是和妈妈的拥抱",
+      "onboard_time": 1736995937,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 411989,
+      "num": 411989,
+      "word": "崔胜铉谈退团原因",
+      "onboard_time": 1736993897,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 389355,
@@ -203,14 +243,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 341507,
-      "num": 411325,
-      "word": "崔胜铉谈退团原因",
-      "onboard_time": 1736993897,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 340995,
       "num": 374661,
       "word": "刘晓庆说她一个月生不了一次气",
@@ -243,12 +275,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 299493,
+      "num": 299493,
+      "word": "成龙张子枫拍电影好像龙叔和小玉",
+      "onboard_time": 1736996598,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 298473,
       "num": 298473,
       "word": "丁禹兮回应虞书欣祝绪丹杨仕泽",
       "onboard_time": 1736946320,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 296130,
+      "num": 322168,
+      "word": "拜登发表告别演讲",
+      "onboard_time": 1736991677,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 292478,
@@ -291,20 +339,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 278973,
-      "num": 322168,
-      "word": "拜登发表告别演讲",
-      "onboard_time": 1736991677,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 261144,
       "num": 261144,
       "word": "小红书曾多次试水海外市场",
       "onboard_time": 1736984236,
       "rank": 16,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 248405,
+      "num": 248405,
+      "word": "王楚钦成小手办了",
+      "onboard_time": 1736997498,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 243460,
@@ -331,20 +379,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 220784,
-      "num": 220784,
-      "word": "特朗普在TikTok上拥有超1400万粉丝",
-      "onboard_time": 1736994917,
-      "rank": 39,
-      "category": "国际时政,互联网"
-    },
-    {
       "raw_hot": 214494,
       "num": 214494,
       "word": "加沙停火协议第一阶段42天",
       "onboard_time": 1736985318,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 212232,
+      "num": 212232,
+      "word": "大奉33集许七安颜巅",
+      "onboard_time": 1736996357,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 206803,
@@ -363,6 +411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 203595,
+      "num": 203595,
+      "word": "未定事件簿",
+      "onboard_time": 1736997439,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 201113,
       "num": 201113,
       "word": "唐嫣超短发造型",
@@ -377,6 +433,22 @@
       "onboard_time": 1736984116,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199872,
+      "num": 199872,
+      "word": "创造营亚洲第二季",
+      "onboard_time": 1736997018,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 197243,
+      "num": 197243,
+      "word": "檀健次第一次参加自己的男主剧庆功宴",
+      "onboard_time": 1736996657,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 195937,
@@ -403,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194108,
+      "num": 194108,
+      "word": "杨紫李现的扛剧能力",
+      "onboard_time": 1736997198,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192485,
       "num": 151256,
       "word": "女子把年假当年会奖励被公司开除",
@@ -427,20 +507,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 186307,
+      "num": 186307,
+      "word": "泰国总理差点被AI骗",
+      "onboard_time": 1736997439,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 186123,
       "num": 369039,
       "word": "赵露思活动参与者需持邀请函",
       "onboard_time": 1736959035,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 185302,
-      "num": 185302,
-      "word": "国色芳华中的牡丹有多火",
-      "onboard_time": 1736995396,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 185040,
@@ -467,12 +547,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 172637,
-      "num": 290187,
-      "word": "肖战的年度瞬间是和妈妈的拥抱",
-      "onboard_time": 1736995937,
-      "rank": 14,
-      "category": "作品衍生"
+      "raw_hot": 172208,
+      "num": 172208,
+      "word": "王者蛇年春节版本1月23日上线",
+      "onboard_time": 1736997439,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 169412,
+      "num": 169412,
+      "word": "A股",
+      "onboard_time": 1736996777,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 162310,
@@ -499,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151941,
+      "num": 151941,
+      "word": "高芙说希望TikTok能够保留",
+      "onboard_time": 1736996837,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 151928,
       "num": 151928,
       "word": "难哄",
@@ -512,14 +608,6 @@
       "word": "26岁小伙让老鼠啃过的古籍重生",
       "onboard_time": 1736980752,
       "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 145787,
-      "num": 145787,
-      "word": "男子在日本买下疑似日军侵华照片",
-      "onboard_time": 1736995937,
-      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -619,6 +707,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 127266,
+      "num": 254074,
+      "word": "TOP回应是否回归BIGBANG",
+      "onboard_time": 1736997138,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124302,
       "num": 124302,
       "word": "被家暴女子曾为离婚同意净身出户",
@@ -643,6 +739,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 117600,
+      "num": 117600,
+      "word": "王雅繁0比2卡萨金娜",
+      "onboard_time": 1736997138,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117491,
       "num": 117491,
       "word": "国色芳华 我就说不加更会出事吧",
@@ -657,6 +761,14 @@
       "onboard_time": 1736991918,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 112152,
+      "num": 112152,
+      "word": "Doinb说今年比赛当最后一年打",
+      "onboard_time": 1736997018,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 111624,
@@ -900,7 +1012,7 @@
     },
     {
       "raw_hot": 55055,
-      "num": 852852,
+      "num": 1041571,
       "word": "以旧换新带动销售超1.3万亿元",
       "onboard_time": 1736949981,
       "rank": 2,
