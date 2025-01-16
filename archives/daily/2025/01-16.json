@@ -1,7 +1,15 @@
 {
   "startTime": 1736958421212,
-  "endTime": 1737009786794,
+  "endTime": 1737012032802,
   "band_list": [
+    {
+      "raw_hot": 2065352,
+      "num": 2065352,
+      "word": "杨子黄圣依彻底分开了",
+      "onboard_time": 1737010218,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 1581563,
       "num": 1581563,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1327820,
-      "num": 475474,
+      "num": 713890,
       "word": "抖音已处理1万多仿冒外国用户账号",
       "onboard_time": 1737002779,
       "rank": 10,
@@ -99,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1081109,
+      "num": 764768,
+      "word": "麦琳瘦了13斤",
+      "onboard_time": 1737009437,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1068442,
       "num": 1068442,
       "word": "尹锡悦在牢房里能看电视不用穿囚服",
@@ -153,6 +169,14 @@
       "onboard_time": 1736992697,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 731538,
+      "num": 461378,
+      "word": "黄圣依有个人财产了",
+      "onboard_time": 1737009858,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 702685,
@@ -251,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 529253,
+      "num": 464986,
+      "word": "宋慧乔靠爆剧逆袭宋仲基票房扑街",
+      "onboard_time": 1737007458,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 528487,
       "num": 336982,
       "word": "金檀",
@@ -281,14 +313,6 @@
       "onboard_time": 1737006139,
       "rank": 5,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 464986,
-      "num": 464986,
-      "word": "宋慧乔靠爆剧逆袭宋仲基票房扑街",
-      "onboard_time": 1737007458,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 459852,
@@ -329,14 +353,6 @@
       "onboard_time": 1736996598,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 438009,
-      "num": 308702,
-      "word": "麦琳瘦了13斤",
-      "onboard_time": 1737009437,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 437510,
@@ -436,7 +452,7 @@
     },
     {
       "raw_hot": 342853,
-      "num": 342853,
+      "num": 381918,
       "word": "聚餐第二天猝死同饮者要担责吗",
       "onboard_time": 1737004220,
       "rank": 45,
@@ -571,12 +587,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279171,
+      "num": 279171,
+      "word": "金世佳照顾喝醉的檀健次",
+      "onboard_time": 1737011358,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 261144,
       "num": 261144,
       "word": "小红书曾多次试水海外市场",
       "onboard_time": 1736984236,
       "rank": 16,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 261097,
+      "num": 261097,
+      "word": "2025江苏卫视春晚第二波阵容",
+      "onboard_time": 1737010278,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 243460,
@@ -595,6 +627,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 236627,
+      "num": 204754,
+      "word": "TikTok难民开直播聊天10万人围观",
+      "onboard_time": 1737010577,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 235904,
       "num": 235904,
       "word": "泰国为刺激旅游业批准赌博合法化",
@@ -611,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 231076,
+      "num": 231076,
+      "word": "意大利市长入驻小红书意网友追网线投诉",
+      "onboard_time": 1737008957,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 223424,
       "num": 223424,
       "word": "尹锡悦被关在10平米单人牢房",
@@ -625,14 +673,6 @@
       "onboard_time": 1736998638,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 217498,
-      "num": 217498,
-      "word": "意大利市长入驻小红书意网友追网线投诉",
-      "onboard_time": 1737008957,
-      "rank": 23,
-      "category": "互联网"
     },
     {
       "raw_hot": 217221,
@@ -907,6 +947,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 173079,
+      "num": 173079,
+      "word": "小红书成功注册REDnote商标",
+      "onboard_time": 1737007819,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 172208,
       "num": 172208,
       "word": "王者蛇年春节版本1月23日上线",
@@ -921,14 +969,6 @@
       "onboard_time": 1736996777,
       "rank": 33,
       "category": "财经"
-    },
-    {
-      "raw_hot": 169069,
-      "num": 169069,
-      "word": "小红书成功注册REDnote商标",
-      "onboard_time": 1737007819,
-      "rank": 34,
-      "category": "互联网"
     },
     {
       "raw_hot": 168038,
@@ -1035,6 +1075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151817,
+      "num": 151817,
+      "word": "可口可乐CEO送特朗普就职纪念可乐",
+      "onboard_time": 1737010998,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 150011,
       "num": 150011,
       "word": "一路繁花",
@@ -1081,6 +1129,14 @@
       "onboard_time": 1736998277,
       "rank": 41,
       "category": "民生新闻,情感"
+    },
+    {
+      "raw_hot": 140141,
+      "num": 259543,
+      "word": "丁禹兮商业价值",
+      "onboard_time": 1737011120,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 140086,
@@ -1283,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119588,
+      "num": 119588,
+      "word": "你好星期六",
+      "onboard_time": 1737011599,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119228,
       "num": 119228,
       "word": "勇士vs森林狼",
@@ -1313,6 +1377,14 @@
       "onboard_time": 1736940918,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117443,
+      "num": 117443,
+      "word": "实力催更王者春节版本",
+      "onboard_time": 1737011478,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 117288,
@@ -1353,6 +1425,14 @@
       "onboard_time": 1736991918,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 113188,
+      "num": 126988,
+      "word": "年味花灯已经安排上了",
+      "onboard_time": 1737011898,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112414,
@@ -1403,6 +1483,22 @@
       "category": "剧集,体育"
     },
     {
+      "raw_hot": 108845,
+      "num": 126984,
+      "word": "学而思女主播橙橙宣布离职",
+      "onboard_time": 1737011059,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107157,
+      "num": 107157,
+      "word": "实测美国手机号无法注册抖音",
+      "onboard_time": 1737010640,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 105748,
       "num": 105748,
       "word": "本雅明模仿樊振东庆祝手势",
@@ -1419,6 +1515,22 @@
       "category": "体育,互联网"
     },
     {
+      "raw_hot": 105271,
+      "num": 105271,
+      "word": "美用户出教程教新用户注册小红书",
+      "onboard_time": 1737011840,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 103928,
+      "num": 103928,
+      "word": "腾讯回应用户被异地刷脸支付",
+      "onboard_time": 1737011299,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 102460,
       "num": 102460,
       "word": "一大波中国商家上小红书揽客",
@@ -1433,6 +1545,14 @@
       "onboard_time": 1736958375,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 101587,
+      "num": 141694,
+      "word": "国色芳华赏花卡",
+      "onboard_time": 1737010939,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 101367,
@@ -1513,6 +1633,14 @@
       "onboard_time": 1736949798,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 84007,
+      "num": 141613,
+      "word": "男子参加单位聚餐第二天猝死家中",
+      "onboard_time": 1737011718,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83164,
