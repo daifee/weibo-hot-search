@@ -1,10 +1,10 @@
 {
   "startTime": 1736958421212,
-  "endTime": 1737012032802,
+  "endTime": 1737012930127,
   "band_list": [
     {
-      "raw_hot": 2065352,
-      "num": 2065352,
+      "raw_hot": 2166099,
+      "num": 2166099,
       "word": "杨子黄圣依彻底分开了",
       "onboard_time": 1737010218,
       "rank": 0,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1327820,
-      "num": 713890,
+      "num": 795244,
       "word": "抖音已处理1万多仿冒外国用户账号",
       "onboard_time": 1737002779,
       "rank": 10,
@@ -107,7 +107,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1081109,
+      "raw_hot": 1116141,
       "num": 764768,
       "word": "麦琳瘦了13斤",
       "onboard_time": 1737009437,
@@ -387,6 +387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 407366,
+      "num": 311541,
+      "word": "金世佳照顾喝醉的檀健次",
+      "onboard_time": 1737011358,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 389355,
       "num": 389355,
       "word": "因公牺牲的27岁辅警孩子刚满百天",
@@ -448,6 +456,14 @@
       "word": "外媒称TikTok将硬刚美国禁令",
       "onboard_time": 1736938281,
       "rank": 12,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 345436,
+      "num": 309348,
+      "word": "TikTok难民开直播聊天10万人围观",
+      "onboard_time": 1737010577,
+      "rank": 23,
       "category": "互联网"
     },
     {
@@ -587,12 +603,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 279171,
-      "num": 279171,
-      "word": "金世佳照顾喝醉的檀健次",
-      "onboard_time": 1737011358,
-      "rank": 14,
-      "category": "剧集"
+      "raw_hot": 266177,
+      "num": 162197,
+      "word": "孙铱因怀孕后生化做体检查出脑动脉瘤",
+      "onboard_time": 1737012439,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 261144,
@@ -611,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252171,
+      "num": 252171,
+      "word": "意大利市长入驻小红书意网友追网线投诉",
+      "onboard_time": 1737008957,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 243460,
       "num": 151573,
       "word": "赵露思疑似将复工",
@@ -627,14 +651,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 236627,
-      "num": 204754,
-      "word": "TikTok难民开直播聊天10万人围观",
-      "onboard_time": 1737010577,
-      "rank": 23,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 235904,
       "num": 235904,
       "word": "泰国为刺激旅游业批准赌博合法化",
@@ -643,20 +659,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 233170,
+      "num": 233170,
+      "word": "李少红晒与杨幂合照",
+      "onboard_time": 1737012258,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 231236,
       "num": 480821,
       "word": "中学食堂员工脚踩食材校长被免职",
       "onboard_time": 1737003438,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 231076,
-      "num": 231076,
-      "word": "意大利市长入驻小红书意网友追网线投诉",
-      "onboard_time": 1737008957,
-      "rank": 23,
-      "category": "互联网"
     },
     {
       "raw_hot": 223424,
@@ -907,6 +923,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183482,
+      "num": 246556,
+      "word": "王曼昱考了驾照开始学做饭",
+      "onboard_time": 1737012019,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 182845,
+      "num": 259543,
+      "word": "丁禹兮商业价值",
+      "onboard_time": 1737011120,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 179752,
+      "num": 179752,
+      "word": "电影射雕英雄传侠之大者",
+      "onboard_time": 1737012199,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 179424,
       "num": 179424,
       "word": "电诈分子的电话打到了泰国总理那里",
@@ -961,6 +1001,22 @@
       "onboard_time": 1736997439,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 172067,
+      "num": 172067,
+      "word": "可口可乐CEO送特朗普就职纪念可乐",
+      "onboard_time": 1737010998,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 169530,
+      "num": 169530,
+      "word": "国色芳华赏花卡",
+      "onboard_time": 1737010939,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 169412,
@@ -1075,14 +1131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151817,
-      "num": 151817,
-      "word": "可口可乐CEO送特朗普就职纪念可乐",
-      "onboard_time": 1737010998,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 150011,
       "num": 150011,
       "word": "一路繁花",
@@ -1131,20 +1179,20 @@
       "category": "民生新闻,情感"
     },
     {
-      "raw_hot": 140141,
-      "num": 259543,
-      "word": "丁禹兮商业价值",
-      "onboard_time": 1737011120,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 140086,
       "num": 140086,
       "word": "莫兰特隔扣文班亚马",
       "onboard_time": 1737003919,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139915,
+      "num": 139915,
+      "word": "iOS18一直截图会越来越红",
+      "onboard_time": 1737012679,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 138662,
@@ -1251,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130526,
+      "num": 130526,
+      "word": "戚薇真人bjd",
+      "onboard_time": 1737012679,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 130173,
       "num": 130173,
       "word": "妲己娜然戴上省级非遗南京绒花",
@@ -1291,12 +1347,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 128016,
+      "num": 128016,
+      "word": "马斯克母亲已签约MCN公司",
+      "onboard_time": 1737012019,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 126664,
+      "num": 126664,
+      "word": "腾讯回应用户被异地刷脸支付",
+      "onboard_time": 1737011299,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 126638,
       "num": 126638,
       "word": "阿航坠毁客机机组人员未听从建议",
       "onboard_time": 1737004098,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 126620,
+      "num": 126620,
+      "word": "代斯白月梵星免检狐",
+      "onboard_time": 1737012559,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 124370,
@@ -1321,6 +1401,14 @@
       "onboard_time": 1737003858,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 120987,
+      "num": 162315,
+      "word": "年味花灯已经安排上了",
+      "onboard_time": 1737011898,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120144,
@@ -1403,6 +1491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117023,
+      "num": 117023,
+      "word": "ES新春会友",
+      "onboard_time": 1737012860,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 116985,
       "num": 116985,
       "word": "缅怀两弹一星元勋于敏",
@@ -1419,20 +1515,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 114070,
+      "num": 129835,
+      "word": "学而思女主播橙橙宣布离职",
+      "onboard_time": 1737011059,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113821,
       "num": 113821,
       "word": "黄仁勋现身深圳",
       "onboard_time": 1736991918,
       "rank": 40,
       "category": "财经"
-    },
-    {
-      "raw_hot": 113188,
-      "num": 126988,
-      "word": "年味花灯已经安排上了",
-      "onboard_time": 1737011898,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 112414,
@@ -1483,11 +1579,11 @@
       "category": "剧集,体育"
     },
     {
-      "raw_hot": 108845,
-      "num": 126984,
-      "word": "学而思女主播橙橙宣布离职",
-      "onboard_time": 1737011059,
-      "rank": 39,
+      "raw_hot": 107288,
+      "num": 118704,
+      "word": "灭火后消防员冻出冰铠甲",
+      "onboard_time": 1737009619,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -1523,12 +1619,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 103928,
-      "num": 103928,
-      "word": "腾讯回应用户被异地刷脸支付",
-      "onboard_time": 1737011299,
-      "rank": 48,
-      "category": "互联网"
+      "raw_hot": 103917,
+      "num": 114720,
+      "word": "美国女子被中国网民感动到泪目",
+      "onboard_time": 1737012679,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102460,
@@ -1545,22 +1641,6 @@
       "onboard_time": 1736958375,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 101587,
-      "num": 141694,
-      "word": "国色芳华赏花卡",
-      "onboard_time": 1737010939,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 101367,
-      "num": 118704,
-      "word": "灭火后消防员冻出冰铠甲",
-      "onboard_time": 1737009619,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99025,
