@@ -1,0 +1,410 @@
+{
+  "runTime": 1737004870367,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1543490,
+        "num": 1543490,
+        "word": "恩利说请尊重我们的文化",
+        "onboard_time": 1737000259,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1068442,
+        "num": 1068442,
+        "word": "尹锡悦在牢房里能看电视不用穿囚服",
+        "onboard_time": 1736999598,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37667,
+        "num": 837949,
+        "word": "细致的爱温暖了每个人",
+        "onboard_time": 1737003379,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 694707,
+        "num": 694707,
+        "word": "春节申遗成功后第一批受益者出现了",
+        "onboard_time": 1736999778,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 683751,
+        "num": 683751,
+        "word": "TikTok难民涌入国产APP后表白中国",
+        "onboard_time": 1736999840,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 609263,
+        "num": 609263,
+        "word": "宁静拒绝了一路繁花邀请",
+        "onboard_time": 1736998518,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 604435,
+        "num": 604435,
+        "word": "小红书在美国掀起一场中文热",
+        "onboard_time": 1736999840,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 574255,
+        "num": 574255,
+        "word": "泰国总理自曝差点成电诈受害者",
+        "onboard_time": 1736993237,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 512247,
+        "num": 512247,
+        "word": "檀健次喝醉了",
+        "onboard_time": 1736999118,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139401,
+        "num": 480821,
+        "word": "中学食堂员工脚踩食材校长被免职",
+        "onboard_time": 1737003438,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 850619,
+        "num": 475474,
+        "word": "抖音已处理1万多仿冒外国用户账号",
+        "onboard_time": 1737002779,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 463135,
+        "num": 463135,
+        "word": "马斯克母亲入驻小红书评论区炸了",
+        "onboard_time": 1736991197,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 445754,
+        "num": 445754,
+        "word": "开年第一部纯血犯罪剧来了",
+        "onboard_time": 1737001278,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 411328,
+        "num": 411328,
+        "word": "芒果TV的免费员工餐",
+        "onboard_time": 1737001038,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 381189,
+        "num": 381189,
+        "word": "陆柯燃去年工作日曝光是24天",
+        "onboard_time": 1736999718,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366600,
+        "num": 366600,
+        "word": "65岁退休大爷在短剧演反派日入2000",
+        "onboard_time": 1736998158,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329617,
+        "num": 329617,
+        "word": "葛夕留几手进入离婚程序",
+        "onboard_time": 1737004639,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314331,
+        "num": 314331,
+        "word": "再见爱人",
+        "onboard_time": 1737002838,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314188,
+        "num": 314188,
+        "word": "国色芳华中的牡丹有多火",
+        "onboard_time": 1736995396,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290789,
+        "num": 290789,
+        "word": "拜登发表告别演讲",
+        "onboard_time": 1736991677,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 478204,
+        "num": 270108,
+        "word": "何炅吴昕 嗑不了一点",
+        "onboard_time": 1736988198,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312413,
+        "num": 263486,
+        "word": "肖战的年度瞬间是和妈妈的拥抱",
+        "onboard_time": 1736995937,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 238823,
+        "num": 238823,
+        "word": "医生谈赵露思将复工",
+        "onboard_time": 1736985376,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223424,
+        "num": 223424,
+        "word": "尹锡悦被关在10平米单人牢房",
+        "onboard_time": 1737003198,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 222735,
+        "num": 222735,
+        "word": "成龙张子枫拍电影好像龙叔和小玉",
+        "onboard_time": 1736996598,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 217221,
+        "num": 217221,
+        "word": "崔胜铉说不与BIGBANG联系",
+        "onboard_time": 1737001818,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207089,
+        "num": 207089,
+        "word": "王楚钦成小手办了",
+        "onboard_time": 1736997498,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201650,
+        "num": 201650,
+        "word": "原来蒋长扬捶胸顿足是哭丧礼仪",
+        "onboard_time": 1737003559,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167299,
+        "num": 200698,
+        "word": "男子离婚后带娃跑步解压三年变化巨大",
+        "onboard_time": 1736991017,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159199,
+        "num": 200495,
+        "word": "张雅钦黄油小熊塑",
+        "onboard_time": 1737003919,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200489,
+        "num": 200489,
+        "word": "丁禹兮杂志销售额6分钟追平时间差",
+        "onboard_time": 1736990777,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189446,
+        "num": 189446,
+        "word": "黄轩回应公开女友",
+        "onboard_time": 1736952020,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188655,
+        "num": 188655,
+        "word": "创造营亚洲2学员官宣",
+        "onboard_time": 1737002298,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177556,
+        "num": 177556,
+        "word": "网传李沁将客串刘诗诗新剧醉梦",
+        "onboard_time": 1737004398,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163639,
+        "num": 163639,
+        "word": "鞠婧祎红色纱衣祥云裙",
+        "onboard_time": 1737003438,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149929,
+        "num": 149929,
+        "word": "宋仲基因为电影扑街哭了",
+        "onboard_time": 1736957357,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149087,
+        "num": 149087,
+        "word": "习惯性反问有多伤人",
+        "onboard_time": 1736999298,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147729,
+        "num": 147729,
+        "word": "男子在日本买下疑似日军侵华照片",
+        "onboard_time": 1736995937,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147093,
+        "num": 147093,
+        "word": "搬运付费短剧让免费看被索赔46000",
+        "onboard_time": 1736992697,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146533,
+        "num": 146533,
+        "word": "崔胜铉谈退团原因",
+        "onboard_time": 1736993897,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140086,
+        "num": 140086,
+        "word": "莫兰特隔扣文班亚马",
+        "onboard_time": 1737003919,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131590,
+        "num": 131590,
+        "word": "哪吒2番外先来了",
+        "onboard_time": 1737004220,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129445,
+        "num": 129445,
+        "word": "徐克两年前就选中肖战了",
+        "onboard_time": 1737002239,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124370,
+        "num": 124370,
+        "word": "和祁煜学老家话",
+        "onboard_time": 1737004819,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123942,
+        "num": 123942,
+        "word": "阿航坠毁客机机组人员未听从建议",
+        "onboard_time": 1737004098,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123013,
+        "num": 123013,
+        "word": "聚餐第二天猝死同饮者要担责吗",
+        "onboard_time": 1737004220,
+        "rank": 45,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 122360,
+        "num": 122360,
+        "word": "马斯克母亲入驻小红书已近4年",
+        "onboard_time": 1737003858,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 120001,
+        "num": 120001,
+        "word": "黄子弘凡收到巴掌大的钻戒",
+        "onboard_time": 1737004519,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116236,
+        "num": 116236,
+        "word": "女子租房采光不好用反光板引光入室",
+        "onboard_time": 1736989458,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115338,
+        "num": 115338,
+        "word": "烟台的浪漫是种过日子的浪漫",
+        "onboard_time": 1737003798,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰天雪地释放无限热力#"
+    }
+  }
+}
