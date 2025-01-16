@@ -1,0 +1,410 @@
+{
+  "runTime": 1736992536293,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1169630,
+        "num": 1187140,
+        "word": "何炅吴昕 嗑不了一点",
+        "onboard_time": 1736988198,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 949425,
+        "num": 949425,
+        "word": "女子租房采光不好用反光板引光入室",
+        "onboard_time": 1736989458,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52968,
+        "num": 559978,
+        "word": "以旧换新带动销售超1.3万亿元",
+        "onboard_time": 1736949981,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 535040,
+        "num": 535040,
+        "word": "宋仲基因为电影扑街哭了",
+        "onboard_time": 1736957357,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 496292,
+        "num": 496292,
+        "word": "于敏北大毕业成绩单首次公开",
+        "onboard_time": 1736985318,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363696,
+        "num": 363696,
+        "word": "6000元以下手机补贴最终价格的15%",
+        "onboard_time": 1736948599,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 534546,
+        "num": 356838,
+        "word": "医生谈赵露思将复工",
+        "onboard_time": 1736985376,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339949,
+        "num": 339949,
+        "word": "王冰冰说30岁重启人生不后悔",
+        "onboard_time": 1736989399,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324640,
+        "num": 324640,
+        "word": "泰国宣布通过赌场合法化草案",
+        "onboard_time": 1736989638,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 204958,
+        "num": 322168,
+        "word": "拜登发表告别演讲",
+        "onboard_time": 1736991677,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1003734,
+        "num": 318536,
+        "word": "特朗普考虑上任后暂停TikTok禁令",
+        "onboard_time": 1736986038,
+        "rank": 10,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 562518,
+        "num": 316990,
+        "word": "黄轩回应公开女友",
+        "onboard_time": 1736952020,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398218,
+        "num": 310088,
+        "word": "马斯克母亲入驻小红书评论区炸了",
+        "onboard_time": 1736991197,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 309853,
+        "num": 309853,
+        "word": "小红书登顶43国下载榜首",
+        "onboard_time": 1736985318,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 269047,
+        "num": 269047,
+        "word": "谢娜曾说杨紫拍一部火一部",
+        "onboard_time": 1736985617,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264199,
+        "num": 264199,
+        "word": "泡泡玛特不再希望成为中国迪士尼",
+        "onboard_time": 1736957357,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 261144,
+        "num": 261144,
+        "word": "小红书曾多次试水海外市场",
+        "onboard_time": 1736984236,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 240120,
+        "num": 240120,
+        "word": "丁禹兮杂志销售额6分钟追平时间差",
+        "onboard_time": 1736990777,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227548,
+        "num": 227548,
+        "word": "因公牺牲的27岁辅警孩子刚满百天",
+        "onboard_time": 1736980692,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169060,
+        "num": 221515,
+        "word": "被家暴16次女子再回应带货争议",
+        "onboard_time": 1736989218,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283072,
+        "num": 220681,
+        "word": "男子离婚后带娃跑步解压三年变化巨大",
+        "onboard_time": 1736991017,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233141,
+        "num": 219958,
+        "word": "檀健次金世佳庆功宴拥抱",
+        "onboard_time": 1736985137,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218306,
+        "num": 218306,
+        "word": "郑氏姐妹",
+        "onboard_time": 1736982374,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197660,
+        "num": 197660,
+        "word": "包小柏AI女儿近况",
+        "onboard_time": 1736957657,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191162,
+        "num": 191162,
+        "word": "博主称部分TikTok难民靠发视频生存",
+        "onboard_time": 1736990297,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 176014,
+        "num": 176014,
+        "word": "加沙停火协议细节",
+        "onboard_time": 1736987359,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171136,
+        "num": 171136,
+        "word": "男童被吹风机吹成深度烧伤",
+        "onboard_time": 1736984116,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161811,
+        "num": 161811,
+        "word": "宋雨琦说白月梵星太上头了",
+        "onboard_time": 1736983816,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151517,
+        "num": 151517,
+        "word": "有了空中校车上学路3小时变30分钟",
+        "onboard_time": 1736991077,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145382,
+        "num": 145382,
+        "word": "加沙停火协议第一阶段42天",
+        "onboard_time": 1736985318,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 191844,
+        "num": 144335,
+        "word": "网友拿彭于晏照片和TikTok难民打招呼",
+        "onboard_time": 1736991437,
+        "rank": 30,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 140675,
+        "num": 140675,
+        "word": "于敏曾婉拒中国氢弹之父称呼",
+        "onboard_time": 1736990659,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130173,
+        "num": 130173,
+        "word": "妲己娜然戴上省级非遗南京绒花",
+        "onboard_time": 1736986218,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128790,
+        "num": 128790,
+        "word": "国色芳华收视破0.8卫视登顶",
+        "onboard_time": 1736992156,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125069,
+        "num": 125069,
+        "word": "刘晓庆说她一个月生不了一次气",
+        "onboard_time": 1736952620,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121740,
+        "num": 121740,
+        "word": "男孩坐奖状堆看电视爸爸欲言又止",
+        "onboard_time": 1736984116,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120093,
+        "num": 120093,
+        "word": "TikTok难民来啦",
+        "onboard_time": 1736944098,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 113654,
+        "num": 113654,
+        "word": "国色芳华收视率",
+        "onboard_time": 1736953879,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112805,
+        "num": 112805,
+        "word": "山里娃儿有了空中校车",
+        "onboard_time": 1736991798,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109469,
+        "num": 109469,
+        "word": "放羊的星星男演员卷入杀人案",
+        "onboard_time": 1736935939,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109293,
+        "num": 109293,
+        "word": "黄仁勋现身深圳",
+        "onboard_time": 1736991918,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 108850,
+        "num": 108850,
+        "word": "26岁小伙让老鼠啃过的古籍重生",
+        "onboard_time": 1736980752,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108170,
+        "num": 108170,
+        "word": "下一个TikTok还是中国产",
+        "onboard_time": 1736942718,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 105979,
+        "num": 105979,
+        "word": "洛杉矶富人有钱能让山火改道",
+        "onboard_time": 1736925798,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 103574,
+        "num": 103574,
+        "word": "你皮肤不好真有可能是饮食问题",
+        "onboard_time": 1736944877,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 98454,
+        "num": 98454,
+        "word": "一大波中国商家上小红书揽客",
+        "onboard_time": 1736990958,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 94168,
+        "num": 94168,
+        "word": "3岁男童独自在家睡梦中被烧成重伤",
+        "onboard_time": 1736945298,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93591,
+        "num": 93591,
+        "word": "被家暴女子曾为离婚同意净身出户",
+        "onboard_time": 1736988019,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91100,
+        "num": 91100,
+        "word": "本雅明模仿樊振东庆祝手势",
+        "onboard_time": 1736986458,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86985,
+        "num": 86985,
+        "word": "太阳黄蜂交易",
+        "onboard_time": 1736992398,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同斯里兰卡总统会谈#"
+    }
+  }
+}
