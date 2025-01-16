@@ -1,6 +1,6 @@
 {
   "startTime": 1736958421212,
-  "endTime": 1737033980601,
+  "endTime": 1737034666593,
   "band_list": [
     {
       "raw_hot": 4564482,
@@ -9,6 +9,14 @@
       "onboard_time": 1737025578,
       "rank": 0,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 3518848,
+      "num": 3518848,
+      "word": "宋慧乔首谈离婚原因",
+      "onboard_time": 1737033080,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 2402372,
@@ -25,14 +33,6 @@
       "onboard_time": 1737010218,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1864178,
-      "num": 1864178,
-      "word": "宋慧乔首谈离婚原因",
-      "onboard_time": 1737033080,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1581563,
@@ -179,6 +179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1018126,
+      "num": 698167,
+      "word": "小红书",
+      "onboard_time": 1737033440,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1017840,
       "num": 486199,
       "word": "麦琳首次回应熏鸡事件",
@@ -273,14 +281,6 @@
       "onboard_time": 1737005599,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 698167,
-      "num": 698167,
-      "word": "小红书",
-      "onboard_time": 1737033440,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 694707,
@@ -627,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 389114,
+      "num": 198343,
+      "word": "TikTok难民为中国网友献惊鸿舞",
+      "onboard_time": 1737028939,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 388487,
       "num": 388487,
       "word": "00后的穿搭上不如老下不如小",
@@ -681,6 +689,14 @@
       "onboard_time": 1736989399,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 358639,
+      "num": 150750,
+      "word": "女子怀孕找不到月嫂给婆婆报培训班",
+      "onboard_time": 1737032720,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 356254,
@@ -785,14 +801,6 @@
       "onboard_time": 1736942718,
       "rank": 23,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 317070,
-      "num": 179678,
-      "word": "TikTok难民为中国网友献惊鸿舞",
-      "onboard_time": 1737028939,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 314331,
@@ -955,14 +963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 260337,
-      "num": 150750,
-      "word": "女子怀孕找不到月嫂给婆婆报培训班",
-      "onboard_time": 1737032720,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 254744,
       "num": 182396,
       "word": "网传青簪行业内已经看片了",
@@ -1057,6 +1057,22 @@
       "onboard_time": 1737013640,
       "rank": 21,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 227200,
+      "num": 192388,
+      "word": "戚薇这居然是AI的",
+      "onboard_time": 1737033140,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 225662,
+      "num": 190237,
+      "word": "张翰",
+      "onboard_time": 1737034461,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 223424,
@@ -1264,6 +1280,14 @@
       "word": "有了空中校车上学路3小时变30分钟",
       "onboard_time": 1736991077,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194570,
+      "num": 194570,
+      "word": "只顾看手机丢下2万元现金",
+      "onboard_time": 1737032539,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1507,6 +1531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 174923,
+      "num": 139728,
+      "word": "金智秀为Jennie卡点庆生",
+      "onboard_time": 1737033260,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173079,
       "num": 173079,
       "word": "小红书成功注册REDnote商标",
@@ -1547,6 +1579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 169596,
+      "num": 139154,
+      "word": "美甲师吐槽去年画龙今年盘蛇",
+      "onboard_time": 1737033201,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169530,
       "num": 169530,
       "word": "国色芳华赏花卡",
@@ -1569,14 +1609,6 @@
       "onboard_time": 1737005178,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 167726,
-      "num": 167726,
-      "word": "戚薇这居然是AI的",
-      "onboard_time": 1737033140,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 165642,
@@ -1835,28 +1867,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137560,
-      "num": 137560,
-      "word": "美甲师吐槽去年画龙今年盘蛇",
-      "onboard_time": 1737033201,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137314,
       "num": 137314,
       "word": "白鹿白月梵星造型大赏",
       "onboard_time": 1737031158,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 137222,
-      "num": 154967,
-      "word": "只顾看手机丢下2万元现金",
-      "onboard_time": 1737032539,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 136771,
@@ -1913,14 +1929,6 @@
       "onboard_time": 1736992156,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134790,
-      "num": 134790,
-      "word": "金智秀为Jennie卡点庆生",
-      "onboard_time": 1737033260,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 134749,
@@ -2363,6 +2371,14 @@
       "category": "民生新闻,情感"
     },
     {
+      "raw_hot": 111716,
+      "num": 111716,
+      "word": "在海外播出的中文电视剧",
+      "onboard_time": 1737034040,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111624,
       "num": 111624,
       "word": "周峻纬新剧疯批演技",
@@ -2385,6 +2401,22 @@
       "onboard_time": 1736955079,
       "rank": 31,
       "category": "剧集,体育"
+    },
+    {
+      "raw_hot": 110416,
+      "num": 110416,
+      "word": "地震获救狗狗一瞬间认出救命恩人",
+      "onboard_time": 1737034339,
+      "rank": 41,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 109592,
+      "num": 109592,
+      "word": "广东男篮半场29分",
+      "onboard_time": 1737032298,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 107288,
@@ -2467,14 +2499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102862,
-      "num": 102862,
-      "word": "广东男篮半场29分",
-      "onboard_time": 1737032298,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 102460,
       "num": 102460,
       "word": "一大波中国商家上小红书揽客",
@@ -2505,6 +2529,22 @@
       "onboard_time": 1737007699,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98930,
+      "num": 98930,
+      "word": "徐克版射雕配乐世间始终你好",
+      "onboard_time": 1737034399,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 97551,
+      "num": 97551,
+      "word": "AL战胜LGD",
+      "onboard_time": 1737034160,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 97478,
@@ -2763,6 +2803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 61952,
+      "num": 200669,
+      "word": "手机换新补贴有望产生千亿元市场规模",
+      "onboard_time": 1737033801,
+      "rank": 29,
+      "category": "数码,民生新闻"
+    },
+    {
       "raw_hot": 61803,
       "num": 69814,
       "word": "赵小童限时回归一下大学生活",
@@ -2891,14 +2939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 44384,
-      "num": 148119,
-      "word": "手机换新补贴有望产生千亿元市场规模",
-      "onboard_time": 1737033801,
-      "rank": 29,
-      "category": "数码,民生新闻"
-    },
-    {
       "raw_hot": 43806,
       "num": 1241706,
       "word": "细致的爱温暖了每个人",
@@ -3003,6 +3043,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31361,
+      "num": 521660,
+      "word": "囤年货的队已经排起来了",
+      "onboard_time": 1737019158,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30868,
+      "num": 156382,
+      "word": "蛟龙行动18分钟前菜",
+      "onboard_time": 1737033379,
+      "rank": 18,
+      "category": "电影,艺人"
+    },
+    {
       "raw_hot": 30422,
       "num": 94524,
       "word": "澳网中国11人单打全部出局",
@@ -3067,14 +3123,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 24251,
-      "num": 521660,
-      "word": "囤年货的队已经排起来了",
-      "onboard_time": 1737019158,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 24156,
       "num": 153771,
       "word": "戚薇和夏弃疾的适配度",
@@ -3129,14 +3177,6 @@
       "onboard_time": 1736973792,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16534,
-      "num": 156382,
-      "word": "蛟龙行动18分钟前菜",
-      "onboard_time": 1737033379,
-      "rank": 18,
-      "category": "电影,艺人"
     },
     {
       "raw_hot": 15895,

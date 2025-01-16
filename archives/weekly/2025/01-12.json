@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1737033980601,
+  "endTime": 1737034666593,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -25,6 +25,14 @@
       "onboard_time": 1736860218,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 3518848,
+      "num": 3518848,
+      "word": "宋慧乔首谈离婚原因",
+      "onboard_time": 1737033080,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 3396289,
@@ -233,14 +241,6 @@
       "onboard_time": 1736643619,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1864178,
-      "num": 1864178,
-      "word": "宋慧乔首谈离婚原因",
-      "onboard_time": 1737033080,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1846470,
@@ -3659,6 +3659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 389114,
+      "num": 198343,
+      "word": "TikTok难民为中国网友献惊鸿舞",
+      "onboard_time": 1737028939,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 388808,
       "num": 388808,
       "word": "等国考成绩",
@@ -3945,6 +3953,14 @@
       "onboard_time": 1736612183,
       "rank": 29,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 358639,
+      "num": 150750,
+      "word": "女子怀孕找不到月嫂给婆婆报培训班",
+      "onboard_time": 1737032720,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 356629,
@@ -4385,14 +4401,6 @@
       "onboard_time": 1736942718,
       "rank": 24,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 317070,
-      "num": 179678,
-      "word": "TikTok难民为中国网友献惊鸿舞",
-      "onboard_time": 1737028939,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 316888,
@@ -5259,14 +5267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 260337,
-      "num": 150750,
-      "word": "女子怀孕找不到月嫂给婆婆报培训班",
-      "onboard_time": 1737032720,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 260162,
       "num": 260162,
       "word": "国考行测",
@@ -5939,6 +5939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227200,
+      "num": 192388,
+      "word": "戚薇这居然是AI的",
+      "onboard_time": 1737033140,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227102,
       "num": 350829,
       "word": "郑钦文破发",
@@ -5977,6 +5985,14 @@
       "onboard_time": 1736824158,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 225662,
+      "num": 190237,
+      "word": "张翰",
+      "onboard_time": 1737034461,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 225643,
@@ -7219,6 +7235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194570,
+      "num": 194570,
+      "word": "只顾看手机丢下2万元现金",
+      "onboard_time": 1737032539,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194319,
       "num": 194319,
       "word": "黄晓明又在拍肖战",
@@ -8371,6 +8395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174923,
+      "num": 139728,
+      "word": "金智秀为Jennie卡点庆生",
+      "onboard_time": 1737033260,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174824,
       "num": 174824,
       "word": "陶昕然 你还有多少惊喜是朕不知道的",
@@ -8747,6 +8779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 169596,
+      "num": 139154,
+      "word": "美甲师吐槽去年画龙今年盘蛇",
+      "onboard_time": 1737033201,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169530,
       "num": 169530,
       "word": "国色芳华赏花卡",
@@ -8824,14 +8864,6 @@
       "word": "谁把代露娃本体放出来了",
       "onboard_time": 1736917580,
       "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 167726,
-      "num": 167726,
-      "word": "戚薇这居然是AI的",
-      "onboard_time": 1737033140,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -10611,14 +10643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 137560,
-      "num": 137560,
-      "word": "美甲师吐槽去年画龙今年盘蛇",
-      "onboard_time": 1737033201,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137424,
       "num": 137424,
       "word": "泽连斯基称愿意帮助加州灭火",
@@ -10633,14 +10657,6 @@
       "onboard_time": 1737031158,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 137222,
-      "num": 154967,
-      "word": "只顾看手机丢下2万元现金",
-      "onboard_time": 1737032539,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 136771,
@@ -10809,14 +10825,6 @@
       "onboard_time": 1736992156,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134790,
-      "num": 134790,
-      "word": "金智秀为Jennie卡点庆生",
-      "onboard_time": 1737033260,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 134749,
@@ -12723,6 +12731,14 @@
       "category": "民生新闻,情感"
     },
     {
+      "raw_hot": 111716,
+      "num": 111716,
+      "word": "在海外播出的中文电视剧",
+      "onboard_time": 1737034040,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111500,
       "num": 111500,
       "word": "美三大富豪将在特朗普就职典礼上同框",
@@ -12803,6 +12819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110416,
+      "num": 110416,
+      "word": "地震获救狗狗一瞬间认出救命恩人",
+      "onboard_time": 1737034339,
+      "rank": 41,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 110374,
       "num": 110374,
       "word": "我的洗澡搭子是只猫",
@@ -12849,6 +12873,14 @@
       "onboard_time": 1736808793,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 109592,
+      "num": 109592,
+      "word": "广东男篮半场29分",
+      "onboard_time": 1737032298,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 109576,
@@ -13227,14 +13259,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 102862,
-      "num": 102862,
-      "word": "广东男篮半场29分",
-      "onboard_time": 1737032298,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 102773,
       "num": 195256,
       "word": "人在奥运年樊振东专访",
@@ -13395,6 +13419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98930,
+      "num": 98930,
+      "word": "徐克版射雕配乐世间始终你好",
+      "onboard_time": 1737034399,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 98654,
       "num": 98654,
       "word": "成为罪犯之前的她们",
@@ -13488,6 +13520,14 @@
       "word": "道崽 可惜",
       "onboard_time": 1736611584,
       "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 97551,
+      "num": 97551,
+      "word": "AL战胜LGD",
+      "onboard_time": 1737034160,
+      "rank": 48,
       "category": "电竞"
     },
     {
@@ -14467,6 +14507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61952,
+      "num": 200669,
+      "word": "手机换新补贴有望产生千亿元市场规模",
+      "onboard_time": 1737033801,
+      "rank": 29,
+      "category": "数码,民生新闻"
+    },
+    {
       "raw_hot": 61946,
       "num": 61946,
       "word": "阿森纳4比6曼联",
@@ -15075,14 +15123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 44384,
-      "num": 148119,
-      "word": "手机换新补贴有望产生千亿元市场规模",
-      "onboard_time": 1737033801,
-      "rank": 29,
-      "category": "数码,民生新闻"
-    },
-    {
       "raw_hot": 44308,
       "num": 44308,
       "word": "鞠婧祎短发白背心",
@@ -15467,6 +15507,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31361,
+      "num": 521660,
+      "word": "囤年货的队已经排起来了",
+      "onboard_time": 1737019158,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30868,
+      "num": 156382,
+      "word": "蛟龙行动18分钟前菜",
+      "onboard_time": 1737033379,
+      "rank": 18,
+      "category": "电影,艺人"
+    },
+    {
       "raw_hot": 30813,
       "num": 276284,
       "word": "男子造谣新能源车彻底进不了海南被拘",
@@ -15769,14 +15825,6 @@
       "onboard_time": 1736835499,
       "rank": 34,
       "category": "网红"
-    },
-    {
-      "raw_hot": 24251,
-      "num": 521660,
-      "word": "囤年货的队已经排起来了",
-      "onboard_time": 1737019158,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24169,
@@ -16105,14 +16153,6 @@
       "onboard_time": 1736706613,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 16534,
-      "num": 156382,
-      "word": "蛟龙行动18分钟前菜",
-      "onboard_time": 1737033379,
-      "rank": 18,
-      "category": "电影,艺人"
     },
     {
       "raw_hot": 16283,

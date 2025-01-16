@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737033980601,
+  "endTime": 1737034666593,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -377,6 +377,14 @@
       "onboard_time": 1735978403,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3518848,
+      "num": 3518848,
+      "word": "宋慧乔首谈离婚原因",
+      "onboard_time": 1737033080,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 3449640,
@@ -1337,14 +1345,6 @@
       "onboard_time": 1736400862,
       "rank": 25,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1864178,
-      "num": 1864178,
-      "word": "宋慧乔首谈离婚原因",
-      "onboard_time": 1737033080,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1862422,
