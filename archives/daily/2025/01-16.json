@@ -1,6 +1,6 @@
 {
   "startTime": 1736958421212,
-  "endTime": 1737027350186,
+  "endTime": 1737031294535,
   "band_list": [
     {
       "raw_hot": 4564482,
@@ -57,6 +57,14 @@
       "onboard_time": 1737005658,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1448714,
+      "num": 427972,
+      "word": "谢娜三个孩子最近轮流住院",
+      "onboard_time": 1737028218,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1327820,
@@ -243,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 689776,
+      "num": 495931,
+      "word": "孟子义说没时间弄九重紫团综了",
+      "onboard_time": 1737026240,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 688728,
       "num": 688728,
       "word": "于敏北大毕业成绩单首次公开",
@@ -299,12 +315,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 592445,
+      "num": 592445,
+      "word": "四大平台之首",
+      "onboard_time": 1737028817,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 590913,
       "num": 590913,
       "word": "被家暴16次女子再回应带货争议",
       "onboard_time": 1736989218,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 586746,
+      "num": 101955,
+      "word": "万科总裁祝九胜被公安带走",
+      "onboard_time": 1737029179,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 585743,
@@ -329,6 +361,14 @@
       "onboard_time": 1737021619,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 559902,
+      "num": 207903,
+      "word": "张雅钦探班杨紫",
+      "onboard_time": 1737030078,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 556823,
@@ -411,20 +451,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 495931,
-      "num": 495931,
-      "word": "孟子义说没时间弄九重紫团综了",
-      "onboard_time": 1737026240,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 495731,
       "num": 414953,
       "word": "白鹿要杀我的真的是亲情刀",
       "onboard_time": 1737024799,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 470573,
+      "num": 205447,
+      "word": "张元英金发打歌",
+      "onboard_time": 1737027857,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 470062,
+      "num": 185285,
+      "word": "陈冠希人肉素人老婆",
+      "onboard_time": 1737030318,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 459852,
@@ -843,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263570,
+      "num": 179678,
+      "word": "TikTok难民为中国网友献惊鸿舞",
+      "onboard_time": 1737028939,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 261237,
       "num": 261237,
       "word": "黄友政1比3张本智和",
@@ -1043,6 +1099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207258,
+      "num": 208661,
+      "word": "美成熟制程芯片低价冲击国内市场",
+      "onboard_time": 1737022999,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 206803,
       "num": 206803,
       "word": "黄子韬送车被标价1万到6万转卖",
@@ -1227,6 +1291,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 186234,
+      "num": 186234,
+      "word": "邓紫棋2024演唱会票房年冠",
+      "onboard_time": 1737030377,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 186123,
       "num": 369039,
       "word": "赵露思活动参与者需持邀请函",
@@ -1276,7 +1348,7 @@
     },
     {
       "raw_hot": 182059,
-      "num": 148684,
+      "num": 176205,
       "word": "陈冠希回复素人这是你应得的",
       "onboard_time": 1737026959,
       "rank": 34,
@@ -1315,12 +1387,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 179038,
+      "num": 179038,
+      "word": "白烁一滴血反杀",
+      "onboard_time": 1737030498,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178156,
       "num": 341810,
       "word": "尹锡悦单人牢房被24小时监控录像",
       "onboard_time": 1737008238,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 177563,
+      "num": 158860,
+      "word": "鬼鬼当妈后首营业",
+      "onboard_time": 1737031218,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 177556,
@@ -1425,14 +1513,6 @@
       "onboard_time": 1737005178,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 165345,
-      "num": 208661,
-      "word": "美成熟制程芯片低价冲击国内市场",
-      "onboard_time": 1737022999,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 164022,
@@ -1587,6 +1667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146506,
+      "num": 206024,
+      "word": "手机补贴采用支付立减方式",
+      "onboard_time": 1737023358,
+      "rank": 46,
+      "category": "数码,民生新闻"
+    },
+    {
       "raw_hot": 145949,
       "num": 145949,
       "word": "美军3辆悍马车被偷公开求助",
@@ -1667,6 +1755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136771,
+      "num": 136771,
+      "word": "驻站",
+      "onboard_time": 1737030138,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136411,
       "num": 136411,
       "word": "万灵局妖闻簿",
@@ -1681,14 +1777,6 @@
       "onboard_time": 1736944877,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 135537,
-      "num": 135537,
-      "word": "手机补贴采用支付立减方式",
-      "onboard_time": 1737023358,
-      "rank": 46,
-      "category": "数码,民生新闻"
     },
     {
       "raw_hot": 135417,
@@ -1747,6 +1835,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 133965,
+      "num": 133965,
+      "word": "射雕独家48帧",
+      "onboard_time": 1737027498,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 133165,
       "num": 133165,
       "word": "郑思维首度回应退出国际赛事争议",
@@ -1777,6 +1873,14 @@
       "onboard_time": 1737004220,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 130780,
+      "num": 188542,
+      "word": "T1对战DK",
+      "onboard_time": 1737030619,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 130671,
@@ -2243,6 +2347,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 102062,
+      "num": 102062,
+      "word": "国色芳华的影响力",
+      "onboard_time": 1737031039,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 101166,
+      "num": 101166,
+      "word": "国色芳华主题曲从国内响到海外",
+      "onboard_time": 1737025819,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99025,
       "num": 104885,
       "word": "篮网vs快船",
@@ -2259,20 +2379,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95846,
+      "num": 95846,
+      "word": "由于老妈把我和年货关一个屋",
+      "onboard_time": 1737030738,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 95485,
       "num": 95485,
       "word": "陈立农现身湾区春晚",
       "onboard_time": 1736945237,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 94942,
-      "num": 94942,
-      "word": "国色芳华主题曲从国内响到海外",
-      "onboard_time": 1737025819,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 94497,
@@ -2363,6 +2483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83348,
+      "num": 83348,
+      "word": "6000元内国补哪款手机值得买",
+      "onboard_time": 1737030018,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 83164,
       "num": 83164,
       "word": "公安机关全力协调解救境外被困人员",
@@ -2385,6 +2513,14 @@
       "onboard_time": 1737001759,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80745,
+      "num": 80745,
+      "word": "白鹿白月梵星造型大赏",
+      "onboard_time": 1737031158,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 74531,
@@ -2873,6 +3009,14 @@
       "onboard_time": 1736979013,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 11327,
+      "num": 181838,
+      "word": "郑钦文希望明年澳网能待久一点",
+      "onboard_time": 1737030559,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 10456,
