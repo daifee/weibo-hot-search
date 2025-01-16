@@ -1,0 +1,410 @@
+{
+  "runTime": 1737032226177,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 879423,
+        "num": 1140707,
+        "word": "张雅钦探班杨紫",
+        "onboard_time": 1737030078,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 667932,
+        "num": 667932,
+        "word": "合肥地震",
+        "onboard_time": 1737025578,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 32120,
+        "num": 494878,
+        "word": "2025春运旅途气象指南",
+        "onboard_time": 1737019399,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1428304,
+        "num": 461482,
+        "word": "谢娜三个孩子最近轮流住院",
+        "onboard_time": 1737028218,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374678,
+        "num": 374678,
+        "word": "抖音已处理1万多仿冒外国用户账号",
+        "onboard_time": 1737002779,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 254897,
+        "num": 254897,
+        "word": "手机补贴不用交旧手机",
+        "onboard_time": 1737013519,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 726595,
+        "num": 252518,
+        "word": "孟子义说没时间弄九重紫团综了",
+        "onboard_time": 1737026240,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 612817,
+        "num": 250263,
+        "word": "四大平台之首",
+        "onboard_time": 1737028817,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237984,
+        "num": 237984,
+        "word": "39岁计算机图像处理专家全宇晖逝世",
+        "onboard_time": 1737021738,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52638,
+        "num": 236361,
+        "word": "商务部召开新闻发布会",
+        "onboard_time": 1737031338,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 433125,
+        "num": 235299,
+        "word": "鬼鬼当妈后首营业",
+        "onboard_time": 1737031218,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391756,
+        "num": 234688,
+        "word": "张元英金发打歌",
+        "onboard_time": 1737027857,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 250478,
+        "num": 232930,
+        "word": "杨紫国色芳华带火洛阳牡丹酥",
+        "onboard_time": 1737024858,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231443,
+        "num": 231443,
+        "word": "女总监遭上司性侵拿到工伤认定书",
+        "onboard_time": 1737022038,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214941,
+        "num": 214941,
+        "word": "敖瑞鹏告诉你们梵樾的故事",
+        "onboard_time": 1737031338,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189259,
+        "num": 189259,
+        "word": "美成熟制程芯片低价冲击国内市场",
+        "onboard_time": 1737022999,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 172372,
+        "num": 172372,
+        "word": "国内手机11个月出货2.8亿部",
+        "onboard_time": 1737024378,
+        "rank": 16,
+        "category": "数码,民生新闻"
+      },
+      {
+        "raw_hot": 165642,
+        "num": 165642,
+        "word": "王者荣耀",
+        "onboard_time": 1737027199,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154678,
+        "num": 154678,
+        "word": "美国老爷爷被中国网友叮嘱注意身体",
+        "onboard_time": 1737005599,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140267,
+        "num": 140267,
+        "word": "手机补贴采用支付立减方式",
+        "onboard_time": 1737023358,
+        "rank": 19,
+        "category": "数码,民生新闻"
+      },
+      {
+        "raw_hot": 531261,
+        "num": 140244,
+        "word": "陈冠希人肉素人老婆",
+        "onboard_time": 1737030318,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384006,
+        "num": 140170,
+        "word": "杨子你惹papi酱干嘛",
+        "onboard_time": 1737018258,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297593,
+        "num": 140070,
+        "word": "TikTok难民为中国网友献惊鸿舞",
+        "onboard_time": 1737028939,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276876,
+        "num": 139967,
+        "word": "美国女网友被中国一日三餐震惊",
+        "onboard_time": 1737025819,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266142,
+        "num": 139923,
+        "word": "孙铱因怀孕后生化做体检查出脑动脉瘤",
+        "onboard_time": 1737012439,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184097,
+        "num": 139841,
+        "word": "白鹿要杀我的真的是亲情刀",
+        "onboard_time": 1737024799,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183806,
+        "num": 139695,
+        "word": "徐艺洋说和黄子韬还没收到改口费",
+        "onboard_time": 1737020478,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175820,
+        "num": 139668,
+        "word": "邓紫棋2024演唱会票房年冠",
+        "onboard_time": 1737030377,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169797,
+        "num": 139581,
+        "word": "由于老妈把我和年货关一个屋",
+        "onboard_time": 1737030738,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151039,
+        "num": 139438,
+        "word": "双胞胎宝妈悬浮肚生完变棉被褶",
+        "onboard_time": 1737015919,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158133,
+        "num": 139393,
+        "word": "白烁一滴血反杀",
+        "onboard_time": 1737030498,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148356,
+        "num": 139326,
+        "word": "陈冠希回复素人这是你应得的",
+        "onboard_time": 1737026959,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147523,
+        "num": 139214,
+        "word": "向佐郭碧婷是刘维撮合的",
+        "onboard_time": 1737031940,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142060,
+        "num": 139158,
+        "word": "麦琳瘦了13斤",
+        "onboard_time": 1737009437,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139089,
+        "num": 139089,
+        "word": "湖南卫视恭喜自己",
+        "onboard_time": 1737020419,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137314,
+        "num": 137314,
+        "word": "白鹿白月梵星造型大赏",
+        "onboard_time": 1737031158,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128601,
+        "num": 128601,
+        "word": "陈情令温晁爆改韩慕之",
+        "onboard_time": 1737022939,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116216,
+        "num": 116216,
+        "word": "时代少年团出发新音",
+        "onboard_time": 1737031999,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115674,
+        "num": 115674,
+        "word": "T1对战DK",
+        "onboard_time": 1737030619,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101453,
+        "num": 107163,
+        "word": "西藏震区找回现金近700万元",
+        "onboard_time": 1737022580,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106476,
+        "num": 106476,
+        "word": "范丞丞第一次做美甲",
+        "onboard_time": 1737022218,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103842,
+        "num": 103842,
+        "word": "国色芳华的影响力",
+        "onboard_time": 1737031039,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96475,
+        "num": 96475,
+        "word": "驻站",
+        "onboard_time": 1737030138,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92624,
+        "num": 92624,
+        "word": "射雕独家48帧",
+        "onboard_time": 1737027498,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92020,
+        "num": 92020,
+        "word": "李行亮麦琳录完再见爱人后的记录",
+        "onboard_time": 1737020358,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89391,
+        "num": 89391,
+        "word": "成毅戏服将在南京博物院展出",
+        "onboard_time": 1737019518,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 89099,
+        "num": 89099,
+        "word": "Hero久竞正式告别南京",
+        "onboard_time": 1737022038,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 84610,
+        "num": 84610,
+        "word": "银川地震",
+        "onboard_time": 1737022999,
+        "rank": 47,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 82237,
+        "num": 82237,
+        "word": "6000元内国补哪款手机值得买",
+        "onboard_time": 1737030018,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 72304,
+        "num": 82213,
+        "word": "乒乓球亚洲杯赛程出炉",
+        "onboard_time": 1737032058,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中斯友好合作取得新的更大成果#"
+    }
+  }
+}

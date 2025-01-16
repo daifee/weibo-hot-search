@@ -1,6 +1,6 @@
 {
   "startTime": 1736958421212,
-  "endTime": 1737031294535,
+  "endTime": 1737032226177,
   "band_list": [
     {
       "raw_hot": 4564482,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1448714,
-      "num": 427972,
+      "num": 461482,
       "word": "谢娜三个孩子最近轮流住院",
       "onboard_time": 1737028218,
       "rank": 3,
@@ -219,6 +219,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 879423,
+      "num": 1140707,
+      "word": "张雅钦探班杨紫",
+      "onboard_time": 1737030078,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 826803,
       "num": 826803,
       "word": "搬运付费短剧让免费看被索赔46000",
@@ -235,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 726595,
+      "num": 495931,
+      "word": "孟子义说没时间弄九重紫团综了",
+      "onboard_time": 1737026240,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 702685,
       "num": 702685,
       "word": "美国老爷爷被中国网友叮嘱注意身体",
@@ -249,14 +265,6 @@
       "onboard_time": 1736999778,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 689776,
-      "num": 495931,
-      "word": "孟子义说没时间弄九重紫团综了",
-      "onboard_time": 1737026240,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 688728,
@@ -281,6 +289,14 @@
       "onboard_time": 1736957357,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 612817,
+      "num": 592445,
+      "word": "四大平台之首",
+      "onboard_time": 1737028817,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 612138,
@@ -313,14 +329,6 @@
       "onboard_time": 1737012019,
       "rank": 41,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 592445,
-      "num": 592445,
-      "word": "四大平台之首",
-      "onboard_time": 1737028817,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 590913,
@@ -363,14 +371,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 559902,
-      "num": 207903,
-      "word": "张雅钦探班杨紫",
-      "onboard_time": 1737030078,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 556823,
       "num": 556823,
       "word": "65岁退休大爷在短剧演反派日入2000",
@@ -385,6 +385,14 @@
       "onboard_time": 1737013999,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 531261,
+      "num": 185285,
+      "word": "陈冠希人肉素人老婆",
+      "onboard_time": 1737030318,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 529253,
@@ -460,19 +468,11 @@
     },
     {
       "raw_hot": 470573,
-      "num": 205447,
+      "num": 234688,
       "word": "张元英金发打歌",
       "onboard_time": 1737027857,
       "rank": 10,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 470062,
-      "num": 185285,
-      "word": "陈冠希人肉素人老婆",
-      "onboard_time": 1737030318,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 459852,
@@ -545,6 +545,14 @@
       "onboard_time": 1737011358,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 433125,
+      "num": 235299,
+      "word": "鬼鬼当妈后首营业",
+      "onboard_time": 1737031218,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 421481,
@@ -819,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 297593,
+      "num": 179678,
+      "word": "TikTok难民为中国网友献惊鸿舞",
+      "onboard_time": 1737028939,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 296516,
       "num": 296516,
       "word": "赵今麦开端3年后再演罪案剧",
@@ -889,14 +905,6 @@
       "onboard_time": 1737021559,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 263570,
-      "num": 179678,
-      "word": "TikTok难民为中国网友献惊鸿舞",
-      "onboard_time": 1737028939,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 261237,
@@ -1041,6 +1049,14 @@
       "onboard_time": 1737001818,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214941,
+      "num": 214941,
+      "word": "敖瑞鹏告诉你们梵樾的故事",
+      "onboard_time": 1737031338,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 214607,
@@ -1403,14 +1419,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 177563,
-      "num": 158860,
-      "word": "鬼鬼当妈后首营业",
-      "onboard_time": 1737031218,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 177556,
       "num": 177556,
       "word": "网传李沁将客串刘诗诗新剧醉梦",
@@ -1491,6 +1499,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 169797,
+      "num": 139581,
+      "word": "由于老妈把我和年货关一个屋",
+      "onboard_time": 1737030738,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 169530,
       "num": 169530,
       "word": "国色芳华赏花卡",
@@ -1513,6 +1529,14 @@
       "onboard_time": 1737005178,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 165642,
+      "num": 165642,
+      "word": "王者荣耀",
+      "onboard_time": 1737027199,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 164022,
@@ -1667,6 +1691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147523,
+      "num": 139214,
+      "word": "向佐郭碧婷是刘维撮合的",
+      "onboard_time": 1737031940,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146506,
       "num": 206024,
       "word": "手机补贴采用支付立减方式",
@@ -1752,6 +1784,14 @@
       "word": "国色芳华让菏泽牡丹卖爆了",
       "onboard_time": 1737005599,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 137314,
+      "num": 137314,
+      "word": "白鹿白月梵星造型大赏",
+      "onboard_time": 1737031158,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -2131,14 +2171,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 117344,
-      "num": 117344,
-      "word": "王者荣耀",
-      "onboard_time": 1737027199,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 117288,
       "num": 117288,
       "word": "消息称TikTok将在美继续运营",
@@ -2169,6 +2201,14 @@
       "onboard_time": 1736998458,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116216,
+      "num": 116216,
+      "word": "时代少年团出发新音",
+      "onboard_time": 1737031999,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 115338,
@@ -2331,6 +2371,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 103842,
+      "num": 103842,
+      "word": "国色芳华的影响力",
+      "onboard_time": 1737031039,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102460,
       "num": 102460,
       "word": "一大波中国商家上小红书揽客",
@@ -2345,14 +2393,6 @@
       "onboard_time": 1736958375,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 102062,
-      "num": 102062,
-      "word": "国色芳华的影响力",
-      "onboard_time": 1737031039,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 101166,
@@ -2377,14 +2417,6 @@
       "onboard_time": 1736942358,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 95846,
-      "num": 95846,
-      "word": "由于老妈把我和年货关一个屋",
-      "onboard_time": 1737030738,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 95485,
@@ -2515,14 +2547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 80745,
-      "num": 80745,
-      "word": "白鹿白月梵星造型大赏",
-      "onboard_time": 1737031158,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 74531,
       "num": 173590,
       "word": "哪吒2番外笑点零帧起手",
@@ -2537,6 +2561,14 @@
       "onboard_time": 1736948539,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 72304,
+      "num": 82213,
+      "word": "乒乓球亚洲杯赛程出炉",
+      "onboard_time": 1737032058,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 70500,
@@ -2697,6 +2729,14 @@
       "onboard_time": 1736959936,
       "rank": 33,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 52638,
+      "num": 236361,
+      "word": "商务部召开新闻发布会",
+      "onboard_time": 1737031338,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 51015,
