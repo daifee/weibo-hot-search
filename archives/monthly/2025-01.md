@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/16 23:37:27
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/17 00:27:27
 </p>
 </blockquote>
 <p>
@@ -3225,6 +3225,12 @@ R1SE合体（热度：994873）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%94%AF%E4%BB%98%E5%AE%9D%E4%BA%8B%E6%95%85%E6%89%80%E6%9C%898%E6%8A%98%E8%AE%A2%E5%8D%95%E5%90%8E%E7%BB%AD%E5%B0%86%E6%89%A3%E5%9B%9E%23" target="weibo">
+支付宝事故所有8折订单后续将扣回（热度：960257）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E6%97%A5%E6%9C%AC%E4%B9%B0%E4%B8%8B%E7%96%91%E4%BC%BC%E6%97%A5%E5%86%9B%E4%BE%B5%E5%8D%8E%E7%85%A7%E7%89%87%23" target="weibo">
 男子在日本买下疑似日军侵华照片（热度：959992）
 </a>
@@ -6005,12 +6011,6 @@ Angelababy沙漠神女（热度：605044）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E5%85%8B%E7%9A%84%E6%9D%8E%E5%81%A5%E6%8A%B1%E7%9D%80%E4%BB%96%E7%BB%9D%E8%82%B2%E7%9A%84%E7%8C%AB%23" target="weibo">
 丁克的李健抱着他绝育的猫（热度：600749）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%8D%90%E8%B5%A0%E9%A9%B0%E6%8F%B4%E7%81%BE%E5%8C%BA%23" target="weibo">
-鹿晗捐赠驰援灾区（热度：600603）
 </a>
 </li>
 

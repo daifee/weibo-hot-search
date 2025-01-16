@@ -1,0 +1,411 @@
+{
+  "startTime": 1737044847648,
+  "endTime": 1737044847648,
+  "band_list": [
+    {
+      "raw_hot": 1311750,
+      "num": 107926,
+      "word": "疑似支付宝出现重大bug",
+      "onboard_time": 1737038179,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 960257,
+      "num": 163578,
+      "word": "支付宝事故所有8折订单后续将扣回",
+      "onboard_time": 1737039979,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 628044,
+      "num": 161727,
+      "word": "蚂蚁集团回应支付宝重大事故",
+      "onboard_time": 1737039500,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 541083,
+      "num": 881642,
+      "word": "广东肇庆山火600人扑救",
+      "onboard_time": 1737035900,
+      "rank": 0,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 395421,
+      "num": 395421,
+      "word": "中美网友对了一夜的账",
+      "onboard_time": 1737035600,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 373038,
+      "num": 111891,
+      "word": "陈冠希人肉素人老婆",
+      "onboard_time": 1737030318,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 344876,
+      "num": 344876,
+      "word": "青岛女子在日本买下70万平米小岛",
+      "onboard_time": 1737037460,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 299566,
+      "num": 111666,
+      "word": "美国女孩小红书捞中国同学神速成功",
+      "onboard_time": 1737040759,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 283191,
+      "num": 283191,
+      "word": "王毅表态绝不允许犯罪分子逍遥法外",
+      "onboard_time": 1737039802,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 249617,
+      "num": 249617,
+      "word": "磕cp时大脑会以为自己在谈恋爱",
+      "onboard_time": 1737039559,
+      "rank": 5,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 218227,
+      "num": 218227,
+      "word": "九重紫小孩哥说昀牵孟绕是真的",
+      "onboard_time": 1737037280,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 195148,
+      "num": 195148,
+      "word": "任天堂Switch2公开",
+      "onboard_time": 1737035180,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 171144,
+      "num": 110721,
+      "word": "美国女网友被中国一日三餐震惊",
+      "onboard_time": 1737025819,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 170685,
+      "num": 170685,
+      "word": "杨子说家都没了",
+      "onboard_time": 1737035539,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 169705,
+      "num": 169705,
+      "word": "向佐郭碧婷是刘维撮合的",
+      "onboard_time": 1737031940,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 167301,
+      "num": 110619,
+      "word": "程潇金色蛇女",
+      "onboard_time": 1737039020,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 157207,
+      "num": 157207,
+      "word": "国色芳华中杨紫嘴角为何有小红点",
+      "onboard_time": 1737036320,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 147332,
+      "num": 147332,
+      "word": "鬼鬼当妈后首营业",
+      "onboard_time": 1737031218,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 145423,
+      "num": 145423,
+      "word": "在海外播出的中文电视剧",
+      "onboard_time": 1737034040,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 132179,
+      "num": 132179,
+      "word": "中国与东盟国家共同打击跨境网赌电诈",
+      "onboard_time": 1737035960,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 125617,
+      "num": 125617,
+      "word": "戚薇这居然是AI的",
+      "onboard_time": 1737033140,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 118099,
+      "num": 118099,
+      "word": "美国小哥为中国网友献惊鸿舞",
+      "onboard_time": 1737028939,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112355,
+      "num": 110165,
+      "word": "女子怀孕找不到月嫂给婆婆报培训班",
+      "onboard_time": 1737032720,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112104,
+      "num": 112104,
+      "word": "孙燕姿新歌日落",
+      "onboard_time": 1737043758,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 111458,
+      "num": 111458,
+      "word": "女儿输液谢娜跑出去哭",
+      "onboard_time": 1737043279,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 109647,
+      "num": 109647,
+      "word": "国色芳华",
+      "onboard_time": 1737039500,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 109501,
+      "num": 109501,
+      "word": "2025待爆小生",
+      "onboard_time": 1737041479,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 108535,
+      "num": 108535,
+      "word": "地震获救狗狗一瞬间认出救命恩人",
+      "onboard_time": 1737034339,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 105172,
+      "num": 105172,
+      "word": "带两娃摆摊宝妈收到30万捐款",
+      "onboard_time": 1737036621,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102868,
+      "num": 102868,
+      "word": "檀健次造谣者道歉",
+      "onboard_time": 1737039142,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 101760,
+      "num": 101760,
+      "word": "迪丽热巴贺思慕白色蝴蝶裙",
+      "onboard_time": 1737039260,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 99815,
+      "num": 99815,
+      "word": "杨子你惹papi酱干嘛",
+      "onboard_time": 1737018258,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 96427,
+      "num": 96427,
+      "word": "张雅钦探班杨紫",
+      "onboard_time": 1737030078,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 88727,
+      "num": 88727,
+      "word": "孟子义说没时间弄九重紫团综了",
+      "onboard_time": 1737026240,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 84940,
+      "num": 84940,
+      "word": "美甲师吐槽去年画龙今年盘蛇",
+      "onboard_time": 1737033201,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83108,
+      "num": 83108,
+      "word": "合肥地震",
+      "onboard_time": 1737025578,
+      "rank": 38,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 81744,
+      "num": 81744,
+      "word": "杨紫国色芳华带火洛阳牡丹酥",
+      "onboard_time": 1737024858,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 78112,
+      "num": 78112,
+      "word": "张元英金发打歌",
+      "onboard_time": 1737027857,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 77047,
+      "num": 77047,
+      "word": "吉林文旅称正跟进大爷救游客事件",
+      "onboard_time": 1737041000,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76981,
+      "num": 76981,
+      "word": "秦胜意的处境是斜坡上的小球",
+      "onboard_time": 1737039260,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 72647,
+      "num": 72647,
+      "word": "对中国公民实施犯罪必被追打到底",
+      "onboard_time": 1737042258,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69160,
+      "num": 69160,
+      "word": "孙铱因怀孕后生化做体检查出脑动脉瘤",
+      "onboard_time": 1737012439,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 68633,
+      "num": 68633,
+      "word": "任天堂Switch2直面会",
+      "onboard_time": 1737042499,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 68326,
+      "num": 68326,
+      "word": "将军令的歌词还是太超前了",
+      "onboard_time": 1737032298,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 67888,
+      "num": 67888,
+      "word": "女总监遭上司性侵拿到工伤认定书",
+      "onboard_time": 1737022038,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66289,
+      "num": 66289,
+      "word": "肥东3.7级地震为去年4.7级地震余震",
+      "onboard_time": 1737039260,
+      "rank": 48,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 60258,
+      "num": 111556,
+      "word": "韩国法院决定驳回释放尹锡悦请求",
+      "onboard_time": 1737042319,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 57560,
+      "num": 57560,
+      "word": "程潇华彩传承晚会造型",
+      "onboard_time": 1737043220,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 43686,
+      "num": 349832,
+      "word": "我国外贸成绩单亮眼",
+      "onboard_time": 1737037761,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39529,
+      "num": 111993,
+      "word": "下周开始手机购新补贴上线",
+      "onboard_time": 1737044657,
+      "rank": 19,
+      "category": "民生新闻,数码"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#冰天雪地释放无限热力#"
+    }
+  ]
+}
