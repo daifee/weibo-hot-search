@@ -1,0 +1,410 @@
+{
+  "runTime": 1737002344873,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1239343,
+        "num": 1239343,
+        "word": "恩利说请尊重我们的文化",
+        "onboard_time": 1737000259,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1006342,
+        "num": 1006342,
+        "word": "尹锡悦在牢房里能看电视不用穿囚服",
+        "onboard_time": 1736999598,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37142,
+        "num": 938738,
+        "word": "以旧换新带动销售超1.3万亿元",
+        "onboard_time": 1736949981,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1117052,
+        "num": 938302,
+        "word": "宁静拒绝了一路繁花邀请",
+        "onboard_time": 1736998518,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 937746,
+        "num": 937746,
+        "word": "TikTok难民涌入国产APP后表白中国",
+        "onboard_time": 1736999840,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 636004,
+        "num": 636004,
+        "word": "泰国总理自曝差点成电诈受害者",
+        "onboard_time": 1736993237,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 612340,
+        "num": 612340,
+        "word": "马斯克母亲入驻小红书评论区炸了",
+        "onboard_time": 1736991197,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 536487,
+        "num": 536487,
+        "word": "65岁退休大爷在短剧演反派日入2000",
+        "onboard_time": 1736998158,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 475893,
+        "num": 475893,
+        "word": "国色芳华中的牡丹有多火",
+        "onboard_time": 1736995396,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 457537,
+        "num": 457537,
+        "word": "小红书在美国掀起一场中文热",
+        "onboard_time": 1736999840,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 437510,
+        "num": 437510,
+        "word": "陆柯燃去年工作日曝光是24天",
+        "onboard_time": 1736999718,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404540,
+        "num": 404540,
+        "word": "檀健次喝醉了",
+        "onboard_time": 1736999118,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 402924,
+        "num": 402924,
+        "word": "男子在日本买下疑似日军侵华照片",
+        "onboard_time": 1736995937,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391106,
+        "num": 391106,
+        "word": "芒果TV的免费员工餐",
+        "onboard_time": 1737001038,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 357880,
+        "num": 357880,
+        "word": "肖战的年度瞬间是和妈妈的拥抱",
+        "onboard_time": 1736995937,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 349003,
+        "num": 349003,
+        "word": "成龙张子枫拍电影好像龙叔和小玉",
+        "onboard_time": 1736996598,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 344883,
+        "num": 344883,
+        "word": "春节申遗成功后第一批受益者出现了",
+        "onboard_time": 1736999778,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344029,
+        "num": 344029,
+        "word": "王楚钦成小手办了",
+        "onboard_time": 1736997498,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284622,
+        "num": 284622,
+        "word": "搬运付费短剧让免费看被索赔46000",
+        "onboard_time": 1736992697,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81459,
+        "num": 281050,
+        "word": "陆柯燃首次回应解约原因",
+        "onboard_time": 1737001759,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 593342,
+        "num": 280029,
+        "word": "何炅吴昕 嗑不了一点",
+        "onboard_time": 1736988198,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321805,
+        "num": 274970,
+        "word": "医生谈赵露思将复工",
+        "onboard_time": 1736985376,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317149,
+        "num": 270727,
+        "word": "黄轩回应公开女友",
+        "onboard_time": 1736952020,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269322,
+        "num": 269322,
+        "word": "丁禹兮杂志销售额6分钟追平时间差",
+        "onboard_time": 1736990777,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205310,
+        "num": 247289,
+        "word": "习惯性反问有多伤人",
+        "onboard_time": 1736999298,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239544,
+        "num": 239544,
+        "word": "开年第一部纯血犯罪剧来了",
+        "onboard_time": 1737001278,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237898,
+        "num": 237898,
+        "word": "崔胜铉谈退团原因",
+        "onboard_time": 1736993897,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221578,
+        "num": 221578,
+        "word": "宋仲基因为电影扑街哭了",
+        "onboard_time": 1736957357,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 211355,
+        "num": 211355,
+        "word": "徐克两年前就选中肖战了",
+        "onboard_time": 1737002239,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203358,
+        "num": 203358,
+        "word": "男子离婚后带娃跑步解压三年变化巨大",
+        "onboard_time": 1736991017,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198235,
+        "num": 198235,
+        "word": "拜登发表告别演讲",
+        "onboard_time": 1736991677,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 189632,
+        "num": 189632,
+        "word": "王宝强刘昊然唐探1900拿错剧本",
+        "onboard_time": 1736998638,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184031,
+        "num": 184031,
+        "word": "崔胜铉说不与BIGBANG联系",
+        "onboard_time": 1737001818,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74531,
+        "num": 173590,
+        "word": "哪吒2番外笑点零帧起手",
+        "onboard_time": 1737002239,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164022,
+        "num": 164022,
+        "word": "王者荣耀鸿蒙版正式上线",
+        "onboard_time": 1737001399,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157268,
+        "num": 157268,
+        "word": "赵今麦漂白演技被群夸",
+        "onboard_time": 1736995337,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154486,
+        "num": 154486,
+        "word": "曝公司用高压水枪驱赶讨薪者",
+        "onboard_time": 1737000318,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152534,
+        "num": 152534,
+        "word": "交完猫税该交电影票了",
+        "onboard_time": 1736998878,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150105,
+        "num": 150105,
+        "word": "大奉33集许七安颜巅",
+        "onboard_time": 1736996357,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142939,
+        "num": 142939,
+        "word": "春节回老家宠物怎么办",
+        "onboard_time": 1736998277,
+        "rank": 39,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 139946,
+        "num": 139946,
+        "word": "小红书曾多次试水海外市场",
+        "onboard_time": 1736984236,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 137565,
+        "num": 137565,
+        "word": "女子租房采光不好用反光板引光入室",
+        "onboard_time": 1736989458,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135097,
+        "num": 135097,
+        "word": "马斯克母亲代言费约为30至50万美元",
+        "onboard_time": 1737001278,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 133165,
+        "num": 133165,
+        "word": "郑思维首度回应退出国际赛事争议",
+        "onboard_time": 1737001459,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132178,
+        "num": 132178,
+        "word": "郑思维谈退役运动员发展问题",
+        "onboard_time": 1737000919,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130026,
+        "num": 130026,
+        "word": "王曼昱新生大片",
+        "onboard_time": 1736998938,
+        "rank": 45,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 124724,
+        "num": 124724,
+        "word": "小红书登顶43国下载榜首",
+        "onboard_time": 1736985318,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 124560,
+        "num": 124560,
+        "word": "00后的穿搭上不如老下不如小",
+        "onboard_time": 1736993776,
+        "rank": 47,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 112047,
+        "num": 112047,
+        "word": "一路繁花",
+        "onboard_time": 1737000738,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109372,
+        "num": 109372,
+        "word": "创造营亚洲2学员官宣",
+        "onboard_time": 1737002298,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同斯里兰卡总统会谈#"
+    }
+  }
+}
