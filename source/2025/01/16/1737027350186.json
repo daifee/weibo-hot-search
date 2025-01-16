@@ -1,0 +1,410 @@
+{
+  "runTime": 1737027350186,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4178176,
+        "num": 4178176,
+        "word": "合肥地震",
+        "onboard_time": 1737025578,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 743671,
+        "num": 743671,
+        "word": "银川地震",
+        "onboard_time": 1737022999,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 35136,
+        "num": 647955,
+        "word": "2025春运旅途气象指南",
+        "onboard_time": 1737019399,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 560014,
+        "num": 560014,
+        "word": "湖南卫视恭喜自己",
+        "onboard_time": 1737020419,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 495931,
+        "num": 495931,
+        "word": "孟子义说没时间弄九重紫团综了",
+        "onboard_time": 1737026240,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 439811,
+        "num": 439811,
+        "word": "抖音已处理1万多仿冒外国用户账号",
+        "onboard_time": 1737002779,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 466620,
+        "num": 423562,
+        "word": "特朗普就职典礼肖像照曝光",
+        "onboard_time": 1737021619,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 495731,
+        "num": 414953,
+        "word": "白鹿要杀我的真的是亲情刀",
+        "onboard_time": 1737024799,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 454718,
+        "num": 414646,
+        "word": "孙铱因怀孕后生化做体检查出脑动脉瘤",
+        "onboard_time": 1737012439,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405998,
+        "num": 405998,
+        "word": "李行亮麦琳录完再见爱人后的记录",
+        "onboard_time": 1737020358,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373913,
+        "num": 373913,
+        "word": "女总监遭上司性侵拿到工伤认定书",
+        "onboard_time": 1737022038,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346214,
+        "num": 346214,
+        "word": "杨紫国色芳华带火洛阳牡丹酥",
+        "onboard_time": 1737024858,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336823,
+        "num": 336823,
+        "word": "小红书中美民间互动成国际现象级事件",
+        "onboard_time": 1737015319,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 264713,
+        "num": 264713,
+        "word": "手机补贴不用交旧手机",
+        "onboard_time": 1737013519,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 264453,
+        "num": 264453,
+        "word": "39岁计算机图像处理专家全宇晖逝世",
+        "onboard_time": 1737021738,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239917,
+        "num": 239917,
+        "word": "美国老爷爷被中国网友叮嘱注意身体",
+        "onboard_time": 1737005599,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232975,
+        "num": 232975,
+        "word": "檀健次方告黑取证",
+        "onboard_time": 1737021858,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229038,
+        "num": 229038,
+        "word": "Hero久竞正式告别南京",
+        "onboard_time": 1737022038,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 208765,
+        "num": 208765,
+        "word": "国内手机11个月出货2.8亿部",
+        "onboard_time": 1737024378,
+        "rank": 18,
+        "category": "数码,民生新闻"
+      },
+      {
+        "raw_hot": 176327,
+        "num": 208765,
+        "word": "吉林文旅回应大爷救游客事件",
+        "onboard_time": 1737025819,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135545,
+        "num": 208661,
+        "word": "美成熟制程芯片低价冲击国内市场",
+        "onboard_time": 1737022999,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 866882,
+        "num": 208609,
+        "word": "杨子你惹papi酱干嘛",
+        "onboard_time": 1737018258,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354146,
+        "num": 208490,
+        "word": "美国女网友被中国一日三餐震惊",
+        "onboard_time": 1737025819,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98581,
+        "num": 208471,
+        "word": "Bao教练结婚",
+        "onboard_time": 1737024678,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 248964,
+        "num": 208331,
+        "word": "徐艺洋说和黄子韬还没收到改口费",
+        "onboard_time": 1737020478,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222780,
+        "num": 208305,
+        "word": "陈情令温晁爆改韩慕之",
+        "onboard_time": 1737022939,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208251,
+        "num": 208251,
+        "word": "麦琳瘦了13斤",
+        "onboard_time": 1737009437,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206833,
+        "num": 206833,
+        "word": "范丞丞第一次做美甲",
+        "onboard_time": 1737022218,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195689,
+        "num": 195689,
+        "word": "宋慧乔靠爆剧逆袭宋仲基票房扑街",
+        "onboard_time": 1737007458,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192797,
+        "num": 192797,
+        "word": "陈冠希女儿学校被烧毁",
+        "onboard_time": 1737004938,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175321,
+        "num": 175321,
+        "word": "双胞胎宝妈悬浮肚生完变棉被褶",
+        "onboard_time": 1737015919,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170941,
+        "num": 170941,
+        "word": "成毅戏服将在南京博物院展出",
+        "onboard_time": 1737019518,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157536,
+        "num": 157536,
+        "word": "TikTok难民开直播聊天10万人围观",
+        "onboard_time": 1737010577,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 24156,
+        "num": 149602,
+        "word": "戚薇和夏弃疾的适配度",
+        "onboard_time": 1737026178,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 182059,
+        "num": 148684,
+        "word": "陈冠希回复素人这是你应得的",
+        "onboard_time": 1737026959,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146410,
+        "num": 146410,
+        "word": "孙怡大侦探路透",
+        "onboard_time": 1737025039,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139922,
+        "num": 139922,
+        "word": "黄圣依现在有三部手机",
+        "onboard_time": 1737021559,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135537,
+        "num": 135537,
+        "word": "手机补贴采用支付立减方式",
+        "onboard_time": 1737023358,
+        "rank": 37,
+        "category": "数码,民生新闻"
+      },
+      {
+        "raw_hot": 132133,
+        "num": 132133,
+        "word": "网传青簪行业内已经看片了",
+        "onboard_time": 1737019819,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54117,
+        "num": 129540,
+        "word": "杭州年味",
+        "onboard_time": 1737027019,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 129508,
+        "num": 129508,
+        "word": "iOS18一直截图会越来越红",
+        "onboard_time": 1737012679,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 124394,
+        "num": 124394,
+        "word": "国色芳华何惟芳的三次抬头",
+        "onboard_time": 1737027080,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119262,
+        "num": 119262,
+        "word": "三亚22万一晚酒店被订光",
+        "onboard_time": 1737013640,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 117344,
+        "num": 117344,
+        "word": "王者荣耀",
+        "onboard_time": 1737027199,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115655,
+        "num": 115655,
+        "word": "西藏震区找回现金近700万元",
+        "onboard_time": 1737022580,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111344,
+        "num": 111344,
+        "word": "可口可乐CEO送特朗普就职纪念可乐",
+        "onboard_time": 1737010998,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110608,
+        "num": 110608,
+        "word": "侯明昊不语只是一味脱衣",
+        "onboard_time": 1737024799,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107259,
+        "num": 107259,
+        "word": "拜财神的技巧给韩国人学去了",
+        "onboard_time": 1737026959,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98331,
+        "num": 98331,
+        "word": "小红书外国老用户坐不住了",
+        "onboard_time": 1737005119,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 94942,
+        "num": 94942,
+        "word": "国色芳华主题曲从国内响到海外",
+        "onboard_time": 1737025819,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰天雪地释放无限热力#"
+    }
+  }
+}
