@@ -1,6 +1,6 @@
 {
   "startTime": 1737044847648,
-  "endTime": 1737045744230,
+  "endTime": 1737048005458,
   "band_list": [
     {
       "raw_hot": 1311750,
@@ -99,6 +99,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 181708,
+      "num": 181708,
+      "word": "女儿输液谢娜跑出去哭",
+      "onboard_time": 1737043279,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171144,
       "num": 110721,
       "word": "美国女网友被中国一日三餐震惊",
@@ -139,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155513,
+      "num": 155513,
+      "word": "下周开始手机购新补贴上线",
+      "onboard_time": 1737044657,
+      "rank": 19,
+      "category": "民生新闻,数码"
+    },
+    {
       "raw_hot": 147332,
       "num": 147332,
       "word": "鬼鬼当妈后首营业",
@@ -153,6 +169,14 @@
       "onboard_time": 1737034040,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132821,
+      "num": 132821,
+      "word": "苹果回应iOS18一直截图越来越红",
+      "onboard_time": 1737045316,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 132179,
@@ -177,14 +201,6 @@
       "onboard_time": 1737028939,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117185,
-      "num": 117185,
-      "word": "女儿输液谢娜跑出去哭",
-      "onboard_time": 1737043279,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 112355,
@@ -225,6 +241,14 @@
       "onboard_time": 1737034339,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 107352,
+      "num": 70617,
+      "word": "麦琳全平台涨粉近10万",
+      "onboard_time": 1737045556,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 105172,
@@ -363,14 +387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 66602,
-      "num": 151505,
-      "word": "下周开始手机购新补贴上线",
-      "onboard_time": 1737044657,
-      "rank": 19,
-      "category": "民生新闻,数码"
-    },
-    {
       "raw_hot": 66289,
       "num": 66289,
       "word": "肥东3.7级地震为去年4.7级地震余震",
@@ -403,28 +419,44 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 57131,
-      "num": 57131,
-      "word": "苹果回应iOS18一直截图越来越红",
-      "onboard_time": 1737045316,
-      "rank": 45,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 55970,
-      "num": 55970,
-      "word": "麦琳全平台涨粉近10万",
-      "onboard_time": 1737045556,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 43686,
       "num": 349832,
       "word": "我国外贸成绩单亮眼",
       "onboard_time": 1737037761,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41020,
+      "num": 41020,
+      "word": "白烁一滴血反杀",
+      "onboard_time": 1737030498,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 39048,
+      "num": 39048,
+      "word": "四大平台之首",
+      "onboard_time": 1737028817,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 38031,
+      "num": 38031,
+      "word": "白鹿白烁破情树解危机以爱救赎",
+      "onboard_time": 1737047594,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 16747,
+      "num": 114406,
+      "word": "外交部回应以色列哈马斯达成停火协议",
+      "onboard_time": 1737047055,
+      "rank": 9,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
