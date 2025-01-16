@@ -1,6 +1,6 @@
 {
   "startTime": 1736958421212,
-  "endTime": 1737009004884,
+  "endTime": 1737009786794,
   "band_list": [
     {
       "raw_hot": 1581563,
@@ -27,8 +27,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1332721,
-      "num": 1332721,
+      "raw_hot": 1475300,
+      "num": 1475300,
       "word": "尹锡悦牢房早餐曝光",
       "onboard_time": 1737005658,
       "rank": 19,
@@ -107,6 +107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1017840,
+      "num": 486199,
+      "word": "麦琳首次回应熏鸡事件",
+      "onboard_time": 1737007938,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 962290,
       "num": 422307,
       "word": "黄轩回应公开女友",
@@ -139,19 +147,19 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 864495,
-      "num": 338686,
-      "word": "麦琳首次回应熏鸡事件",
-      "onboard_time": 1737007938,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 826803,
       "num": 826803,
       "word": "搬运付费短剧让免费看被索赔46000",
       "onboard_time": 1736992697,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 702685,
+      "num": 702685,
+      "word": "美国老爷爷被中国网友叮嘱注意身体",
+      "onboard_time": 1737005599,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -168,14 +176,6 @@
       "word": "于敏北大毕业成绩单首次公开",
       "onboard_time": 1736985318,
       "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 675679,
-      "num": 675679,
-      "word": "美国老爷爷被中国网友叮嘱注意身体",
-      "onboard_time": 1737005599,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -275,12 +275,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 489033,
-      "num": 489033,
+      "raw_hot": 499883,
+      "num": 499883,
       "word": "杂志销售额排行榜",
       "onboard_time": 1737006139,
       "rank": 5,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 464986,
+      "num": 464986,
+      "word": "宋慧乔靠爆剧逆袭宋仲基票房扑街",
+      "onboard_time": 1737007458,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 459852,
@@ -321,6 +329,14 @@
       "onboard_time": 1736996598,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 438009,
+      "num": 308702,
+      "word": "麦琳瘦了13斤",
+      "onboard_time": 1737009437,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 437510,
@@ -419,14 +435,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 353123,
-      "num": 333165,
-      "word": "宋慧乔靠爆剧逆袭宋仲基票房扑街",
-      "onboard_time": 1737007458,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 342853,
       "num": 342853,
       "word": "聚餐第二天猝死同饮者要担责吗",
@@ -499,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 296516,
+      "num": 296516,
+      "word": "赵今麦开端3年后再演罪案剧",
+      "onboard_time": 1737006738,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 296130,
       "num": 322168,
       "word": "拜登发表告别演讲",
@@ -547,12 +563,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 264672,
-      "num": 264672,
-      "word": "赵今麦开端3年后再演罪案剧",
-      "onboard_time": 1737006738,
-      "rank": 16,
-      "category": "剧集"
+      "raw_hot": 282378,
+      "num": 282378,
+      "word": "刘浩存陈飞宇同框合照",
+      "onboard_time": 1737008238,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 261144,
@@ -561,14 +577,6 @@
       "onboard_time": 1736984236,
       "rank": 16,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 259523,
-      "num": 259523,
-      "word": "刘浩存陈飞宇同框合照",
-      "onboard_time": 1737008238,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 243460,
@@ -617,6 +625,14 @@
       "onboard_time": 1736998638,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 217498,
+      "num": 217498,
+      "word": "意大利市长入驻小红书意网友追网线投诉",
+      "onboard_time": 1737008957,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 217221,
@@ -723,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197682,
+      "num": 197682,
+      "word": "小红书回应增加一键翻译功能",
+      "onboard_time": 1737006858,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 197243,
       "num": 197243,
       "word": "檀健次第一次参加自己的男主剧庆功宴",
@@ -771,12 +795,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 192282,
-      "num": 192282,
-      "word": "意大利市长入驻小红书意网友追网线投诉",
-      "onboard_time": 1737008957,
-      "rank": 23,
-      "category": "互联网"
+      "raw_hot": 191981,
+      "num": 191981,
+      "word": "拜登政府正考虑让TikTok在美继续运营",
+      "onboard_time": 1737006379,
+      "rank": 37,
+      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 191162,
@@ -827,6 +851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185126,
+      "num": 185126,
+      "word": "葛夕留几手年后分居",
+      "onboard_time": 1737009078,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185040,
       "num": 185040,
       "word": "宋雨琦说白月梵星太上头了",
@@ -843,6 +875,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 178156,
+      "num": 341810,
+      "word": "尹锡悦单人牢房被24小时监控录像",
+      "onboard_time": 1737008238,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 177556,
       "num": 177556,
       "word": "网传李沁将客串刘诗诗新剧醉梦",
@@ -851,12 +891,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 176861,
-      "num": 176861,
-      "word": "小红书回应增加一键翻译功能",
-      "onboard_time": 1737006858,
+      "raw_hot": 176543,
+      "num": 176543,
+      "word": "肖战连期待合作都没敢和徐克说",
+      "onboard_time": 1737009738,
       "rank": 30,
-      "category": "互联网"
+      "category": "电影"
     },
     {
       "raw_hot": 175274,
@@ -883,20 +923,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 169069,
+      "num": 169069,
+      "word": "小红书成功注册REDnote商标",
+      "onboard_time": 1737007819,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 168038,
       "num": 168038,
       "word": "张康乐说马柏全爱招惹他",
       "onboard_time": 1737005178,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 164196,
-      "num": 164196,
-      "word": "小红书成功注册REDnote商标",
-      "onboard_time": 1737007819,
-      "rank": 34,
-      "category": "互联网"
     },
     {
       "raw_hot": 164022,
@@ -931,14 +971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159886,
-      "num": 159886,
-      "word": "拜登政府正考虑让TikTok在美继续运营",
-      "onboard_time": 1737006379,
-      "rank": 37,
-      "category": "国际时政,互联网"
-    },
-    {
       "raw_hot": 159199,
       "num": 200495,
       "word": "张雅钦黄油小熊塑",
@@ -953,14 +985,6 @@
       "onboard_time": 1736994376,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 158086,
-      "num": 341810,
-      "word": "尹锡悦单人牢房被24小时监控录像",
-      "onboard_time": 1737008238,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 157418,
@@ -1027,20 +1051,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148799,
+      "num": 176580,
+      "word": "异人之下之决战碧游村首映礼",
+      "onboard_time": 1737009139,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 145949,
+      "num": 145949,
+      "word": "美军3辆悍马车被偷公开求助",
+      "onboard_time": 1737006978,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 144149,
       "num": 144149,
       "word": "王曼昱新生大片",
       "onboard_time": 1736998938,
       "rank": 38,
       "category": "体育,时尚"
-    },
-    {
-      "raw_hot": 143348,
-      "num": 143348,
-      "word": "美军3辆悍马车被偷公开求助",
-      "onboard_time": 1737006978,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 142939,
@@ -1169,6 +1201,14 @@
       "onboard_time": 1736986218,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 129172,
+      "num": 129172,
+      "word": "Flandre长文感谢粉丝",
+      "onboard_time": 1737009317,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 128682,
@@ -1372,7 +1412,7 @@
     },
     {
       "raw_hot": 105696,
-      "num": 105696,
+      "num": 118087,
       "word": "德国球迷来小红书了解中国足球",
       "onboard_time": 1737008779,
       "rank": 48,
@@ -1393,6 +1433,14 @@
       "onboard_time": 1736958375,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 101367,
+      "num": 118704,
+      "word": "灭火后消防员冻出冰铠甲",
+      "onboard_time": 1737009619,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99025,
