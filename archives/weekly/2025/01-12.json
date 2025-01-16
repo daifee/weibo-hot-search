@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1737052151834,
+  "endTime": 1737052939200,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -15467,20 +15467,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 44413,
+      "num": 59034,
+      "word": "李玟遗作下弦月上线",
+      "onboard_time": 1737048913,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 44308,
       "num": 44308,
       "word": "鞠婧祎短发白背心",
       "onboard_time": 1736710871,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 43940,
-      "num": 59034,
-      "word": "李玟遗作下弦月上线",
-      "onboard_time": 1737048913,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 43806,
@@ -15899,6 +15899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30771,
+      "num": 30771,
+      "word": "景德镇车祸家属抑郁服药也无法缓解",
+      "onboard_time": 1737051552,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30700,
       "num": 203866,
       "word": "范丞丞谈在演戏和综艺间切换角色",
@@ -16281,14 +16289,6 @@
       "onboard_time": 1736965092,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 22473,
-      "num": 22473,
-      "word": "景德镇车祸家属抑郁服药也无法缓解",
-      "onboard_time": 1737051552,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22238,
@@ -16816,6 +16816,14 @@
       "word": "2025春运即将拉开大幕",
       "onboard_time": 1736706252,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9606,
+      "num": 50261,
+      "word": "外国网友把中文歌练起来了",
+      "onboard_time": 1737052392,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
