@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1737032226177,
+  "endTime": 1737033980601,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -233,6 +233,14 @@
       "onboard_time": 1736643619,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1864178,
+      "num": 1864178,
+      "word": "宋慧乔首谈离婚原因",
+      "onboard_time": 1737033080,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1846470,
@@ -537,6 +545,14 @@
       "onboard_time": 1736610924,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1444908,
+      "num": 514782,
+      "word": "陈冠希人肉素人老婆",
+      "onboard_time": 1737030318,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1436773,
@@ -2379,6 +2395,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 586723,
+      "num": 293436,
+      "word": "鬼鬼当妈后首营业",
+      "onboard_time": 1737031218,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 586584,
       "num": 586584,
       "word": "李佳琦直播间车厘子被指不新鲜",
@@ -2601,14 +2625,6 @@
       "onboard_time": 1736920818,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 531261,
-      "num": 185285,
-      "word": "陈冠希人肉素人老婆",
-      "onboard_time": 1737030318,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 529423,
@@ -3304,14 +3320,6 @@
       "word": "SM新男团 haru",
       "onboard_time": 1736836819,
       "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 433125,
-      "num": 235299,
-      "word": "鬼鬼当妈后首营业",
-      "onboard_time": 1737031218,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -4379,6 +4387,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 317070,
+      "num": 179678,
+      "word": "TikTok难民为中国网友献惊鸿舞",
+      "onboard_time": 1737028939,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 316888,
       "num": 316888,
       "word": "张雅钦镜头下的杨紫",
@@ -4603,6 +4619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 302267,
+      "num": 152164,
+      "word": "向佐郭碧婷是刘维撮合的",
+      "onboard_time": 1737031940,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 300500,
       "num": 281384,
       "word": "丁禹兮杂志销售额6分钟追平时间差",
@@ -4641,14 +4665,6 @@
       "onboard_time": 1736904978,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 297593,
-      "num": 179678,
-      "word": "TikTok难民为中国网友献惊鸿舞",
-      "onboard_time": 1737028939,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 297278,
@@ -5241,6 +5257,14 @@
       "onboard_time": 1736762059,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 260337,
+      "num": 150750,
+      "word": "女子怀孕找不到月嫂给婆婆报培训班",
+      "onboard_time": 1737032720,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 260162,
@@ -7875,6 +7899,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 183203,
+      "num": 149017,
+      "word": "将军令的歌词还是太超前了",
+      "onboard_time": 1737032298,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 183199,
       "num": 265506,
       "word": "消费者称终于舍得买4J车厘子",
@@ -8795,6 +8827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167726,
+      "num": 167726,
+      "word": "戚薇这居然是AI的",
+      "onboard_time": 1737033140,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167591,
       "num": 167591,
       "word": "肖战射雕稀有卡",
@@ -9683,6 +9723,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 151569,
+      "num": 140439,
+      "word": "昭昭墨墨忙着拍戏",
+      "onboard_time": 1737032658,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151471,
       "num": 151471,
       "word": "永远的竹林四侠",
@@ -9937,14 +9985,6 @@
       "onboard_time": 1736858659,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 147523,
-      "num": 139214,
-      "word": "向佐郭碧婷是刘维撮合的",
-      "onboard_time": 1737031940,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 147404,
@@ -10571,6 +10611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137560,
+      "num": 137560,
+      "word": "美甲师吐槽去年画龙今年盘蛇",
+      "onboard_time": 1737033201,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137424,
       "num": 137424,
       "word": "泽连斯基称愿意帮助加州灭火",
@@ -10585,6 +10633,14 @@
       "onboard_time": 1737031158,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137222,
+      "num": 154967,
+      "word": "只顾看手机丢下2万元现金",
+      "onboard_time": 1737032539,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136771,
@@ -10753,6 +10809,14 @@
       "onboard_time": 1736992156,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134790,
+      "num": 134790,
+      "word": "金智秀为Jennie卡点庆生",
+      "onboard_time": 1737033260,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 134749,
@@ -11395,6 +11459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127301,
+      "num": 127301,
+      "word": "过年回家如何成为不讨嫌的大人",
+      "onboard_time": 1737033019,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 127066,
       "num": 127066,
       "word": "外国友人开始在小红书上才艺了",
@@ -11752,6 +11824,14 @@
       "word": "徐昕绝杀",
       "onboard_time": 1736692401,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 121958,
+      "num": 121958,
+      "word": "乒乓球亚洲杯赛程出炉",
+      "onboard_time": 1737032058,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -13147,6 +13227,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 102862,
+      "num": 102862,
+      "word": "广东男篮半场29分",
+      "onboard_time": 1737032298,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102773,
       "num": 195256,
       "word": "人在奥运年樊振东专访",
@@ -13619,6 +13707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89189,
+      "num": 89189,
+      "word": "郭艾伦复出了",
+      "onboard_time": 1737033920,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88905,
       "num": 147553,
       "word": "郑钦文挽救三个盘点",
@@ -14073,14 +14169,6 @@
       "onboard_time": 1736827339,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 72304,
-      "num": 82213,
-      "word": "乒乓球亚洲杯赛程出炉",
-      "onboard_time": 1737032058,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 71776,
@@ -14987,6 +15075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 44384,
+      "num": 148119,
+      "word": "手机换新补贴有望产生千亿元市场规模",
+      "onboard_time": 1737033801,
+      "rank": 29,
+      "category": "数码,民生新闻"
+    },
+    {
       "raw_hot": 44308,
       "num": 44308,
       "word": "鞠婧祎短发白背心",
@@ -15241,6 +15337,14 @@
       "onboard_time": 1736708711,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36281,
+      "num": 139311,
+      "word": "今晚国内油价调整",
+      "onboard_time": 1737025520,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 36236,
@@ -15667,6 +15771,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 24251,
+      "num": 521660,
+      "word": "囤年货的队已经排起来了",
+      "onboard_time": 1737019158,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24169,
       "num": 26181,
       "word": "任嘉伦感谢嘉人们",
@@ -15995,6 +16107,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 16534,
+      "num": 156382,
+      "word": "蛟龙行动18分钟前菜",
+      "onboard_time": 1737033379,
+      "rank": 18,
+      "category": "电影,艺人"
+    },
+    {
       "raw_hot": 16283,
       "num": 236663,
       "word": "地板价药品质量有保障吗",
@@ -16305,14 +16425,6 @@
       "onboard_time": 1736792952,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 7468,
-      "num": 380346,
-      "word": "囤年货的队已经排起来了",
-      "onboard_time": 1737019158,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 7089,
