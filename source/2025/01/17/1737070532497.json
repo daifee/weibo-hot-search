@@ -1,0 +1,410 @@
+{
+  "runTime": 1737070532497,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 701498,
+        "num": 914757,
+        "word": "中美网友对了一夜的账",
+        "onboard_time": 1737035600,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 425712,
+        "num": 425712,
+        "word": "印度成为第四个实现空间对接的国家",
+        "onboard_time": 1737069375,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21384,
+        "num": 363146,
+        "word": "当非遗项目遇上首个非遗春节",
+        "onboard_time": 1737036741,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319518,
+        "num": 319518,
+        "word": "青岛女子在日本买下70万平米小岛",
+        "onboard_time": 1737037460,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209246,
+        "num": 209246,
+        "word": "景德镇车祸家属质疑肇事方养老赎罪",
+        "onboard_time": 1737065891,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170944,
+        "num": 170944,
+        "word": "南京北站发现古墓",
+        "onboard_time": 1737069375,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149272,
+        "num": 149272,
+        "word": "广东肇庆山火600人扑救",
+        "onboard_time": 1737035900,
+        "rank": 6,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 226649,
+        "num": 148402,
+        "word": "杨子说家都没了",
+        "onboard_time": 1737035539,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160981,
+        "num": 144019,
+        "word": "31岁演员孙铱自曝二胎生化",
+        "onboard_time": 1737049632,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134110,
+        "num": 134110,
+        "word": "向佐郭碧婷是刘维撮合的",
+        "onboard_time": 1737031940,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139446,
+        "num": 134106,
+        "word": "SpaceX星舰进行第七次试飞",
+        "onboard_time": 1737069375,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 135368,
+        "num": 133968,
+        "word": "支付宝辟谣发资金追回短信",
+        "onboard_time": 1737070095,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 133333,
+        "num": 133333,
+        "word": "王毅表态绝不允许犯罪分子逍遥法外",
+        "onboard_time": 1737039802,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127253,
+        "num": 127253,
+        "word": "知情人谈支付宝重大bug事故",
+        "onboard_time": 1737070036,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 113728,
+        "num": 113728,
+        "word": "31岁孙铱提醒高龄宝妈做好检查",
+        "onboard_time": 1737053292,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112218,
+        "num": 112218,
+        "word": "停火协议刚达成以军再袭加沙",
+        "onboard_time": 1737054132,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87260,
+        "num": 111337,
+        "word": "麦琳全平台涨粉近10万",
+        "onboard_time": 1737045556,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82849,
+        "num": 109401,
+        "word": "新疆一个湖冻成水晶蝴蝶",
+        "onboard_time": 1737069015,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 80343,
+        "num": 108933,
+        "word": "九重紫小孩哥说昀牵孟绕是真的",
+        "onboard_time": 1737037280,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62808,
+        "num": 106939,
+        "word": "鬼鬼当妈后首营业",
+        "onboard_time": 1737031218,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263159,
+        "num": 105376,
+        "word": "陈冠希人肉素人老婆",
+        "onboard_time": 1737030318,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203373,
+        "num": 103680,
+        "word": "美国女孩小红书捞中国同学神速成功",
+        "onboard_time": 1737040759,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146355,
+        "num": 101368,
+        "word": "女子怀孕找不到月嫂给婆婆报培训班",
+        "onboard_time": 1737032720,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101334,
+        "num": 101334,
+        "word": "磕cp时大脑会以为自己在谈恋爱",
+        "onboard_time": 1737039559,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 22249,
+        "num": 96440,
+        "word": "徐杰晚安手势",
+        "onboard_time": 1737069435,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94406,
+        "num": 94406,
+        "word": "景德镇车祸家属抑郁服药也无法缓解",
+        "onboard_time": 1737051552,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93571,
+        "num": 93571,
+        "word": "任天堂Switch2公开",
+        "onboard_time": 1737035180,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 61926,
+        "num": 93011,
+        "word": "张雅钦说杨紫拍完磕头戏发烧",
+        "onboard_time": 1737068113,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61077,
+        "num": 92912,
+        "word": "韩团cha黄子韬的callme",
+        "onboard_time": 1737070156,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 55968,
+        "num": 92886,
+        "word": "国色芳华",
+        "onboard_time": 1737039500,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92875,
+        "num": 92875,
+        "word": "地震获救狗狗一瞬间认出救命恩人",
+        "onboard_time": 1737034339,
+        "rank": 30,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 90777,
+        "num": 90777,
+        "word": "美国女网友被中国一日三餐震惊",
+        "onboard_time": 1737025819,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82169,
+        "num": 82169,
+        "word": "女总监遭上司性侵拿到工伤认定书",
+        "onboard_time": 1737022038,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79555,
+        "num": 79555,
+        "word": "下周开始手机购新补贴上线",
+        "onboard_time": 1737044657,
+        "rank": 33,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 1446923,
+        "num": 78541,
+        "word": "支付宝",
+        "onboard_time": 1737069435,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 76761,
+        "num": 76761,
+        "word": "带两娃摆摊宝妈收到30万捐款",
+        "onboard_time": 1737036621,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69699,
+        "num": 69699,
+        "word": "韩国游客来杭州最爱这两个地方",
+        "onboard_time": 1737067816,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 63645,
+        "num": 63645,
+        "word": "除夕10天倒计时",
+        "onboard_time": 1737070095,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62021,
+        "num": 62021,
+        "word": "泰国预计春节期间近77万中国游客将入境",
+        "onboard_time": 1737070095,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 61277,
+        "num": 61277,
+        "word": "皇马vs塞尔塔",
+        "onboard_time": 1737069975,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55979,
+        "num": 55979,
+        "word": "合肥3.7级地震市民发声",
+        "onboard_time": 1737070095,
+        "rank": 40,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 55237,
+        "num": 55237,
+        "word": "美国小哥为中国网友献惊鸿舞",
+        "onboard_time": 1737028939,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53316,
+        "num": 53316,
+        "word": "袁咏仪回应复出拍剧",
+        "onboard_time": 1737058331,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52968,
+        "num": 52968,
+        "word": "杨子你惹papi酱干嘛",
+        "onboard_time": 1737018258,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51439,
+        "num": 51439,
+        "word": "CardiB已入驻小红书两年多",
+        "onboard_time": 1737059051,
+        "rank": 44,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 51372,
+        "num": 51372,
+        "word": "国色芳华中杨紫嘴角为何有小红点",
+        "onboard_time": 1737036320,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50553,
+        "num": 50553,
+        "word": "在海外播出的中文电视剧",
+        "onboard_time": 1737034040,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50095,
+        "num": 50095,
+        "word": "美甲师吐槽去年画龙今年盘蛇",
+        "onboard_time": 1737033201,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46603,
+        "num": 46603,
+        "word": "红山动物园茉莉宝宝去考拉星了",
+        "onboard_time": 1737070517,
+        "rank": 48,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 45274,
+        "num": 45274,
+        "word": "女儿输液谢娜跑出去哭",
+        "onboard_time": 1737043279,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰天雪地释放无限热力#"
+    }
+  }
+}

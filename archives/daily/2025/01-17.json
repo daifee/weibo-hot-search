@@ -1,7 +1,15 @@
 {
   "startTime": 1737044847648,
-  "endTime": 1737069735951,
+  "endTime": 1737070532497,
   "band_list": [
+    {
+      "raw_hot": 1446923,
+      "num": 119420,
+      "word": "支付宝",
+      "onboard_time": 1737069435,
+      "rank": 10,
+      "category": "互联网"
+    },
     {
       "raw_hot": 1311750,
       "num": 107926,
@@ -19,6 +27,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 701498,
+      "num": 914757,
+      "word": "中美网友对了一夜的账",
+      "onboard_time": 1737035600,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 628044,
       "num": 161727,
       "word": "蚂蚁集团回应支付宝重大事故",
@@ -27,28 +43,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 626161,
-      "num": 119420,
-      "word": "支付宝",
-      "onboard_time": 1737069435,
-      "rank": 10,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 555672,
-      "num": 790313,
-      "word": "中美网友对了一夜的账",
-      "onboard_time": 1737035600,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 541083,
       "num": 881642,
       "word": "广东肇庆山火600人扑救",
       "onboard_time": 1737035900,
       "rank": 0,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 425712,
+      "num": 425712,
+      "word": "印度成为第四个实现空间对接的国家",
+      "onboard_time": 1737069375,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 373038,
@@ -91,12 +99,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 239947,
-      "num": 239947,
-      "word": "印度成为第四个实现空间对接的国家",
-      "onboard_time": 1737069375,
-      "rank": 1,
-      "category": "国际时政"
+      "raw_hot": 226649,
+      "num": 199172,
+      "word": "杨子说家都没了",
+      "onboard_time": 1737035539,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 218227,
@@ -107,20 +115,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202044,
-      "num": 202044,
+      "raw_hot": 209246,
+      "num": 209246,
       "word": "景德镇车祸家属质疑肇事方养老赎罪",
       "onboard_time": 1737065891,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 199172,
-      "num": 199172,
-      "word": "杨子说家都没了",
-      "onboard_time": 1737035539,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 195148,
@@ -147,6 +147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 170944,
+      "num": 170944,
+      "word": "南京北站发现古墓",
+      "onboard_time": 1737069375,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169705,
       "num": 169705,
       "word": "向佐郭碧婷是刘维撮合的",
@@ -161,6 +169,14 @@
       "onboard_time": 1737039020,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160981,
+      "num": 150888,
+      "word": "31岁演员孙铱自曝二胎生化",
+      "onboard_time": 1737049632,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 157207,
@@ -179,14 +195,6 @@
       "category": "民生新闻,数码"
     },
     {
-      "raw_hot": 150888,
-      "num": 150888,
-      "word": "31岁演员孙铱自曝二胎生化",
-      "onboard_time": 1737049632,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 147332,
       "num": 147332,
       "word": "鬼鬼当妈后首营业",
@@ -195,12 +203,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146355,
+      "num": 110165,
+      "word": "女子怀孕找不到月嫂给婆婆报培训班",
+      "onboard_time": 1737032720,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145423,
       "num": 145423,
       "word": "在海外播出的中文电视剧",
       "onboard_time": 1737034040,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139446,
+      "num": 134106,
+      "word": "SpaceX星舰进行第七次试飞",
+      "onboard_time": 1737069375,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 135368,
+      "num": 133968,
+      "word": "支付宝辟谣发资金追回短信",
+      "onboard_time": 1737070095,
+      "rank": 11,
+      "category": "互联网"
     },
     {
       "raw_hot": 132821,
@@ -217,6 +249,14 @@
       "onboard_time": 1737035960,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 127253,
+      "num": 127253,
+      "word": "知情人谈支付宝重大bug事故",
+      "onboard_time": 1737070036,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 125617,
@@ -243,12 +283,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 112355,
-      "num": 110165,
-      "word": "女子怀孕找不到月嫂给婆婆报培训班",
-      "onboard_time": 1737032720,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 113728,
+      "num": 113728,
+      "word": "31岁孙铱提醒高龄宝妈做好检查",
+      "onboard_time": 1737053292,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 112104,
@@ -257,14 +297,6 @@
       "onboard_time": 1737043758,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 111836,
-      "num": 111836,
-      "word": "SpaceX星舰进行第七次试飞",
-      "onboard_time": 1737069375,
-      "rank": 13,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 109647,
@@ -292,7 +324,7 @@
     },
     {
       "raw_hot": 107352,
-      "num": 86547,
+      "num": 111337,
       "word": "麦琳全平台涨粉近10万",
       "onboard_time": 1737045556,
       "rank": 46,
@@ -339,12 +371,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 95736,
-      "num": 95736,
-      "word": "31岁孙铱提醒高龄宝妈做好检查",
-      "onboard_time": 1737053292,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 94406,
+      "num": 94406,
+      "word": "景德镇车祸家属抑郁服药也无法缓解",
+      "onboard_time": 1737051552,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88727,
@@ -353,14 +385,6 @@
       "onboard_time": 1737026240,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 87473,
-      "num": 87473,
-      "word": "景德镇车祸家属抑郁服药也无法缓解",
-      "onboard_time": 1737051552,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84940,
@@ -377,6 +401,22 @@
       "onboard_time": 1737025578,
       "rank": 38,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 82849,
+      "num": 109401,
+      "word": "新疆一个湖冻成水晶蝴蝶",
+      "onboard_time": 1737069015,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 82169,
+      "num": 82169,
+      "word": "女总监遭上司性侵拿到工伤认定书",
+      "onboard_time": 1737022038,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81744,
@@ -411,14 +451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 76800,
-      "num": 76800,
-      "word": "女总监遭上司性侵拿到工伤认定书",
-      "onboard_time": 1737022038,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72647,
       "num": 72647,
       "word": "对中国公民实施犯罪必被追打到底",
@@ -427,12 +459,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 71055,
-      "num": 119582,
-      "word": "南京北站发现古墓",
-      "onboard_time": 1737069375,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 69699,
+      "num": 69699,
+      "word": "韩国游客来杭州最爱这两个地方",
+      "onboard_time": 1737067816,
+      "rank": 33,
+      "category": "旅游"
     },
     {
       "raw_hot": 69160,
@@ -467,12 +499,44 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 64956,
-      "num": 64956,
-      "word": "韩国游客来杭州最爱这两个地方",
-      "onboard_time": 1737067816,
-      "rank": 33,
+      "raw_hot": 63645,
+      "num": 63645,
+      "word": "除夕10天倒计时",
+      "onboard_time": 1737070095,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62021,
+      "num": 62021,
+      "word": "泰国预计春节期间近77万中国游客将入境",
+      "onboard_time": 1737070095,
+      "rank": 38,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 61926,
+      "num": 93011,
+      "word": "张雅钦说杨紫拍完磕头戏发烧",
+      "onboard_time": 1737068113,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 61277,
+      "num": 61277,
+      "word": "皇马vs塞尔塔",
+      "onboard_time": 1737069975,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 61077,
+      "num": 92912,
+      "word": "韩团cha黄子韬的callme",
+      "onboard_time": 1737070156,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 60453,
@@ -499,28 +563,36 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 51249,
-      "num": 75810,
-      "word": "新疆一个湖冻成水晶蝴蝶",
-      "onboard_time": 1737069015,
-      "rank": 28,
-      "category": "电影"
+      "raw_hot": 55979,
+      "num": 55979,
+      "word": "合肥3.7级地震市民发声",
+      "onboard_time": 1737070095,
+      "rank": 40,
+      "category": "突发/灾害"
     },
     {
-      "raw_hot": 50563,
-      "num": 75760,
-      "word": "张雅钦说杨紫拍完磕头戏发烧",
-      "onboard_time": 1737068113,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 45445,
-      "num": 45445,
+      "raw_hot": 53316,
+      "num": 53316,
       "word": "袁咏仪回应复出拍剧",
       "onboard_time": 1737058331,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51439,
+      "num": 51439,
+      "word": "CardiB已入驻小红书两年多",
+      "onboard_time": 1737059051,
+      "rank": 43,
+      "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 46603,
+      "num": 46603,
+      "word": "红山动物园茉莉宝宝去考拉星了",
+      "onboard_time": 1737070517,
+      "rank": 48,
+      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 44413,
@@ -563,14 +635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 40986,
-      "num": 40986,
-      "word": "CardiB已入驻小红书两年多",
-      "onboard_time": 1737059051,
-      "rank": 43,
-      "category": "艺人,互联网"
-    },
-    {
       "raw_hot": 39048,
       "num": 39048,
       "word": "四大平台之首",
@@ -611,19 +675,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22249,
+      "num": 96440,
+      "word": "徐杰晚安手势",
+      "onboard_time": 1737069435,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 21384,
+      "num": 363146,
+      "word": "当非遗项目遇上首个非遗春节",
+      "onboard_time": 1737036741,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19961,
       "num": 50261,
       "word": "外国网友把中文歌练起来了",
       "onboard_time": 1737052392,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17311,
-      "num": 212531,
-      "word": "当非遗项目遇上首个非遗春节",
-      "onboard_time": 1737036741,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -641,14 +713,6 @@
       "onboard_time": 1737056590,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 15963,
-      "num": 81751,
-      "word": "徐杰晚安手势",
-      "onboard_time": 1737069435,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 15610,
