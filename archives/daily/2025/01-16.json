@@ -1,6 +1,6 @@
 {
   "startTime": 1736958421212,
-  "endTime": 1737034666593,
+  "endTime": 1737037223037,
   "band_list": [
     {
       "raw_hot": 4564482,
@@ -491,12 +491,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 495473,
+      "num": 350588,
+      "word": "杨子说家都没了",
+      "onboard_time": 1737035539,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 470573,
       "num": 234688,
       "word": "张元英金发打歌",
       "onboard_time": 1737027857,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 468548,
+      "num": 252413,
+      "word": "TikTok难民为中国网友献惊鸿舞",
+      "onboard_time": 1737028939,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 459852,
@@ -627,14 +643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 389114,
-      "num": 198343,
-      "word": "TikTok难民为中国网友献惊鸿舞",
-      "onboard_time": 1737028939,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 388487,
       "num": 388487,
       "word": "00后的穿搭上不如老下不如小",
@@ -667,6 +675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 376339,
+      "num": 150750,
+      "word": "女子怀孕找不到月嫂给婆婆报培训班",
+      "onboard_time": 1737032720,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 372822,
       "num": 617920,
       "word": "美国女子被中国网民感动到泪目",
@@ -691,12 +707,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 358639,
-      "num": 150750,
-      "word": "女子怀孕找不到月嫂给婆婆报培训班",
-      "onboard_time": 1737032720,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 366609,
+      "num": 286676,
+      "word": "戚薇这居然是AI的",
+      "onboard_time": 1737033140,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 356254,
@@ -883,6 +899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 293222,
+      "num": 293222,
+      "word": "任天堂Switch2公开",
+      "onboard_time": 1737035180,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 292478,
       "num": 374246,
       "word": "3岁男童独自在家睡梦中被烧成重伤",
@@ -931,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276365,
+      "num": 276365,
+      "word": "中国与东盟国家共同打击跨境网赌电诈",
+      "onboard_time": 1737035960,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 274134,
       "num": 193488,
       "word": "黄圣依现在有三部手机",
@@ -961,6 +993,14 @@
       "onboard_time": 1737010278,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 257898,
+      "num": 257898,
+      "word": "陈梦31岁的第一天plog",
+      "onboard_time": 1737035421,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 254744,
@@ -1059,20 +1099,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 227200,
-      "num": 192388,
-      "word": "戚薇这居然是AI的",
-      "onboard_time": 1737033140,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 225662,
       "num": 190237,
       "word": "张翰",
       "onboard_time": 1737034461,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 225567,
+      "num": 225567,
+      "word": "在海外播出的中文电视剧",
+      "onboard_time": 1737034040,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 223424,
@@ -1089,6 +1129,14 @@
       "onboard_time": 1736998638,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 217688,
+      "num": 217688,
+      "word": "只顾看手机丢下2万元现金",
+      "onboard_time": 1737032539,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 217221,
@@ -1129,6 +1177,14 @@
       "onboard_time": 1737017417,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213789,
+      "num": 144715,
+      "word": "美甲师吐槽去年画龙今年盘蛇",
+      "onboard_time": 1737033201,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 212928,
@@ -1243,6 +1299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198164,
+      "num": 198164,
+      "word": "中美网友对了一夜的账",
+      "onboard_time": 1737035600,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197682,
       "num": 197682,
       "word": "小红书回应增加一键翻译功能",
@@ -1280,14 +1344,6 @@
       "word": "有了空中校车上学路3小时变30分钟",
       "onboard_time": 1736991077,
       "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 194570,
-      "num": 194570,
-      "word": "只顾看手机丢下2万元现金",
-      "onboard_time": 1737032539,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1532,7 +1588,7 @@
     },
     {
       "raw_hot": 174923,
-      "num": 139728,
+      "num": 153389,
       "word": "金智秀为Jennie卡点庆生",
       "onboard_time": 1737033260,
       "rank": 35,
@@ -1553,6 +1609,14 @@
       "onboard_time": 1736997439,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 170972,
+      "num": 220456,
+      "word": "广东肇庆山火600人扑救",
+      "onboard_time": 1737035900,
+      "rank": 12,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 170168,
@@ -1577,14 +1641,6 @@
       "onboard_time": 1737030738,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 169596,
-      "num": 139154,
-      "word": "美甲师吐槽去年画龙今年盘蛇",
-      "onboard_time": 1737033201,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 169530,
@@ -1731,6 +1787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 152405,
+      "num": 143255,
+      "word": "地震获救狗狗一瞬间认出救命恩人",
+      "onboard_time": 1737034339,
+      "rank": 41,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 151941,
       "num": 151941,
       "word": "高芙说希望TikTok能够保留",
@@ -1819,6 +1883,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 143050,
+      "num": 143050,
+      "word": "小红书翻译功能",
+      "onboard_time": 1737035780,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 142939,
       "num": 142939,
       "word": "春节回老家宠物怎么办",
@@ -1833,6 +1905,14 @@
       "onboard_time": 1737016039,
       "rank": 42,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 141989,
+      "num": 141989,
+      "word": "广东男篮半场29分",
+      "onboard_time": 1737032298,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 140332,
@@ -1857,6 +1937,14 @@
       "onboard_time": 1736992758,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138378,
+      "num": 138378,
+      "word": "国色芳华中杨紫嘴角为何有小红点",
+      "onboard_time": 1737036320,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 138182,
@@ -1993,6 +2081,14 @@
       "onboard_time": 1737004220,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 130947,
+      "num": 130947,
+      "word": "宋仲基再婚后两年生下1儿1女",
+      "onboard_time": 1737036440,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 130780,
@@ -2299,6 +2395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116560,
+      "num": 116560,
+      "word": "带两娃摆摊宝妈收到30万捐款",
+      "onboard_time": 1737036621,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116216,
       "num": 116216,
       "word": "时代少年团出发新音",
@@ -2371,14 +2475,6 @@
       "category": "民生新闻,情感"
     },
     {
-      "raw_hot": 111716,
-      "num": 111716,
-      "word": "在海外播出的中文电视剧",
-      "onboard_time": 1737034040,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 111624,
       "num": 111624,
       "word": "周峻纬新剧疯批演技",
@@ -2401,22 +2497,6 @@
       "onboard_time": 1736955079,
       "rank": 31,
       "category": "剧集,体育"
-    },
-    {
-      "raw_hot": 110416,
-      "num": 110416,
-      "word": "地震获救狗狗一瞬间认出救命恩人",
-      "onboard_time": 1737034339,
-      "rank": 41,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 109592,
-      "num": 109592,
-      "word": "广东男篮半场29分",
-      "onboard_time": 1737032298,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 107288,
@@ -2603,6 +2683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89591,
+      "num": 89591,
+      "word": "留几手问黄圣依卡拿到没",
+      "onboard_time": 1737034880,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 89190,
       "num": 89190,
       "word": "蒋长扬他超爱",
@@ -2612,11 +2700,19 @@
     },
     {
       "raw_hot": 89189,
-      "num": 89189,
+      "num": 146497,
       "word": "郭艾伦复出了",
       "onboard_time": 1737033920,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88819,
+      "num": 88819,
+      "word": "华晨宇新专销量破3000万",
+      "onboard_time": 1737037041,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 86985,
@@ -3163,6 +3259,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 19239,
+      "num": 351350,
+      "word": "当非遗项目遇上首个非遗春节",
+      "onboard_time": 1737036741,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17270,
       "num": 23968,
       "word": "面对逮捕尹锡悦为何态度转变",
@@ -3247,6 +3351,9 @@
     },
     {
       "word": "#推动中斯友好合作取得新的更大成果#"
+    },
+    {
+      "word": "#改革是人民群众自己的事业#"
     }
   ]
 }
