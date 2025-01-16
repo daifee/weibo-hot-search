@@ -1,6 +1,6 @@
 {
   "startTime": 1736958421212,
-  "endTime": 1737038305116,
+  "endTime": 1737040978284,
   "band_list": [
     {
       "raw_hot": 4564482,
@@ -19,7 +19,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2563167,
+      "raw_hot": 3096612,
       "num": 307404,
       "word": "疑似支付宝出现重大bug",
       "onboard_time": 1737038179,
@@ -187,6 +187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1034214,
+      "num": 288656,
+      "word": "蚂蚁集团回应支付宝重大事故",
+      "onboard_time": 1737039500,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1018126,
       "num": 698167,
       "word": "小红书",
@@ -267,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 780862,
+      "num": 780862,
+      "word": "广东肇庆山火600人扑救",
+      "onboard_time": 1737035900,
+      "rank": 12,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 731538,
       "num": 522817,
       "word": "黄圣依有个人财产了",
@@ -313,6 +329,14 @@
       "onboard_time": 1736948599,
       "rank": 1,
       "category": "数码"
+    },
+    {
+      "raw_hot": 648325,
+      "num": 648325,
+      "word": "宋仲基再婚后两年生下1儿1女",
+      "onboard_time": 1737036440,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 628560,
@@ -419,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 549723,
+      "num": 549723,
+      "word": "青岛女子在日本买下70万平米小岛",
+      "onboard_time": 1737037460,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 544267,
       "num": 370933,
       "word": "恭喜葛夕",
@@ -428,7 +460,7 @@
     },
     {
       "raw_hot": 543178,
-      "num": 350588,
+      "num": 406590,
       "word": "杨子说家都没了",
       "onboard_time": 1737035539,
       "rank": 3,
@@ -520,6 +552,14 @@
       "word": "TikTok难民为中国网友献惊鸿舞",
       "onboard_time": 1737028939,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 465122,
+      "num": 465122,
+      "word": "中美网友对了一夜的账",
+      "onboard_time": 1737035600,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -675,6 +715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 386146,
+      "num": 386146,
+      "word": "九重紫小孩哥说昀牵孟绕是真的",
+      "onboard_time": 1737037280,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 381311,
       "num": 363411,
       "word": "包小柏AI女儿近况",
@@ -763,14 +811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 346211,
-      "num": 346211,
-      "word": "中美网友对了一夜的账",
-      "onboard_time": 1737035600,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 345689,
       "num": 345689,
       "word": "中国与东盟国家共同打击跨境网赌电诈",
@@ -785,14 +825,6 @@
       "onboard_time": 1737015919,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 343400,
-      "num": 343400,
-      "word": "广东肇庆山火600人扑救",
-      "onboard_time": 1737035900,
-      "rank": 12,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 342853,
@@ -963,20 +995,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 289123,
-      "num": 289123,
-      "word": "宋仲基再婚后两年生下1儿1女",
-      "onboard_time": 1737036440,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 288900,
       "num": 288900,
       "word": "未定事件簿",
       "onboard_time": 1736997439,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 285581,
+      "num": 285581,
+      "word": "国色芳华中杨紫嘴角为何有小红点",
+      "onboard_time": 1737036320,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 285056,
@@ -1003,20 +1035,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276824,
+      "num": 198695,
+      "word": "程潇金色蛇女",
+      "onboard_time": 1737039020,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 274134,
       "num": 193488,
       "word": "黄圣依现在有三部手机",
       "onboard_time": 1737021559,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 264735,
-      "num": 303253,
-      "word": "青岛女子在日本买下70万平米小岛",
-      "onboard_time": 1737037460,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 261237,
@@ -1043,28 +1075,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258989,
+      "num": 258989,
+      "word": "在海外播出的中文电视剧",
+      "onboard_time": 1737034040,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 257898,
       "num": 257898,
       "word": "陈梦31岁的第一天plog",
       "onboard_time": 1737035421,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 256338,
-      "num": 256338,
-      "word": "国色芳华中杨紫嘴角为何有小红点",
-      "onboard_time": 1737036320,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 255608,
-      "num": 255608,
-      "word": "在海外播出的中文电视剧",
-      "onboard_time": 1737034040,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 254744,
@@ -1153,6 +1177,14 @@
       "onboard_time": 1737024378,
       "rank": 19,
       "category": "数码,民生新闻"
+    },
+    {
+      "raw_hot": 229123,
+      "num": 229123,
+      "word": "磕cp时大脑会以为自己在谈恋爱",
+      "onboard_time": 1737039559,
+      "rank": 15,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 227634,
@@ -1371,14 +1403,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 197263,
-      "num": 255487,
-      "word": "九重紫小孩哥说昀牵孟绕是真的",
-      "onboard_time": 1737037280,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 197243,
       "num": 197243,
       "word": "檀健次第一次参加自己的男主剧庆功宴",
@@ -1425,6 +1449,14 @@
       "onboard_time": 1736931259,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192143,
+      "num": 192143,
+      "word": "支付宝事故所有8折订单后续将扣回",
+      "onboard_time": 1737039979,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 191981,
@@ -1659,6 +1691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173467,
+      "num": 173467,
+      "word": "国色芳华",
+      "onboard_time": 1737039500,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173079,
       "num": 173079,
       "word": "小红书成功注册REDnote商标",
@@ -1739,6 +1779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 163818,
+      "num": 163818,
+      "word": "地震获救狗狗一瞬间认出救命恩人",
+      "onboard_time": 1737034339,
+      "rank": 41,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 163639,
       "num": 163639,
       "word": "鞠婧祎红色纱衣祥云裙",
@@ -1769,6 +1817,14 @@
       "onboard_time": 1737016097,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 160960,
+      "num": 160960,
+      "word": "迪丽热巴贺思慕白色蝴蝶裙",
+      "onboard_time": 1737039260,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 160128,
@@ -1825,14 +1881,6 @@
       "onboard_time": 1736999778,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 155210,
-      "num": 155210,
-      "word": "地震获救狗狗一瞬间认出救命恩人",
-      "onboard_time": 1737034339,
-      "rank": 41,
-      "category": "正能量"
     },
     {
       "raw_hot": 154486,
@@ -2163,6 +2211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 129927,
+      "num": 129927,
+      "word": "秦胜意的处境是斜坡上的小球",
+      "onboard_time": 1737039260,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129172,
       "num": 129172,
       "word": "Flandre长文感谢粉丝",
@@ -2177,6 +2233,14 @@
       "onboard_time": 1736984116,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128647,
+      "num": 128647,
+      "word": "檀健次造谣者道歉",
+      "onboard_time": 1737039142,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 128248,
@@ -2233,6 +2297,14 @@
       "onboard_time": 1737014360,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125665,
+      "num": 291202,
+      "word": "王毅表态绝不允许犯罪分子逍遥法外",
+      "onboard_time": 1737039802,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 125343,
@@ -2475,6 +2547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114066,
+      "num": 114066,
+      "word": "官方通报合肥3.7级地震",
+      "onboard_time": 1737038602,
+      "rank": 41,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 113821,
       "num": 113821,
       "word": "黄仁勋现身深圳",
@@ -2659,6 +2739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100165,
+      "num": 100165,
+      "word": "美国女孩小红书捞中国同学神速成功",
+      "onboard_time": 1737040759,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99025,
       "num": 104885,
       "word": "篮网vs快船",
@@ -2673,6 +2761,14 @@
       "onboard_time": 1737034399,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 97822,
+      "num": 97822,
+      "word": "张康乐薄肌的神",
+      "onboard_time": 1737040340,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 97551,
@@ -2705,6 +2801,14 @@
       "onboard_time": 1736945237,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 94784,
+      "num": 94784,
+      "word": "肥东3.7级地震为去年4.7级地震余震",
+      "onboard_time": 1737039260,
+      "rank": 48,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 94497,
@@ -2873,6 +2977,14 @@
       "onboard_time": 1736943077,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 68776,
+      "num": 658917,
+      "word": "我国外贸成绩单亮眼",
+      "onboard_time": 1737037761,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68754,
@@ -3123,6 +3235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 38974,
+      "num": 194570,
+      "word": "武磊完成半月板手术",
+      "onboard_time": 1737040579,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38152,
       "num": 42115,
       "word": "失去家园的洛杉矶居民愤怒又无奈",
@@ -3313,14 +3433,6 @@
       "onboard_time": 1736963353,
       "rank": 44,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 17442,
-      "num": 350084,
-      "word": "我国外贸成绩单亮眼",
-      "onboard_time": 1737037761,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17270,

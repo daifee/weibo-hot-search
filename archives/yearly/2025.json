@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737038305116,
+  "endTime": 1737040978284,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -451,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3096612,
+      "num": 307404,
+      "word": "疑似支付宝出现重大bug",
+      "onboard_time": 1737038179,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 3087284,
       "num": 3087284,
       "word": "黄子韬掉粉超百万",
@@ -657,14 +665,6 @@
       "onboard_time": 1736252905,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2563167,
-      "num": 307404,
-      "word": "疑似支付宝出现重大bug",
-      "onboard_time": 1737038179,
-      "rank": 10,
-      "category": "互联网"
     },
     {
       "raw_hot": 2556287,
