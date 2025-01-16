@@ -1,6 +1,6 @@
 {
   "startTime": 1736958421212,
-  "endTime": 1736997838436,
+  "endTime": 1736998719578,
   "band_list": [
     {
       "raw_hot": 1581563,
@@ -17,6 +17,14 @@
       "onboard_time": 1736993237,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1314069,
+      "num": 1314069,
+      "word": "特朗普在TikTok上拥有超1400万粉丝",
+      "onboard_time": 1736994917,
+      "rank": 39,
+      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 1285421,
@@ -43,20 +51,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1142394,
-      "num": 1142394,
-      "word": "特朗普在TikTok上拥有超1400万粉丝",
-      "onboard_time": 1736994917,
-      "rank": 39,
-      "category": "国际时政,互联网"
-    },
-    {
       "raw_hot": 962290,
       "num": 422307,
       "word": "黄轩回应公开女友",
       "onboard_time": 1736952020,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 959992,
+      "num": 959992,
+      "word": "男子在日本买下疑似日军侵华照片",
+      "onboard_time": 1736995937,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 949425,
@@ -107,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 606505,
+      "num": 606505,
+      "word": "网友拿彭于晏照片和TikTok难民打招呼",
+      "onboard_time": 1736991437,
+      "rank": 46,
+      "category": "互联网,艺人"
+    },
+    {
       "raw_hot": 590913,
       "num": 590913,
       "word": "被家暴16次女子再回应带货争议",
@@ -123,28 +139,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 577135,
-      "num": 577135,
-      "word": "网友拿彭于晏照片和TikTok难民打招呼",
-      "onboard_time": 1736991437,
-      "rank": 46,
-      "category": "互联网,艺人"
-    },
-    {
       "raw_hot": 566422,
       "num": 566422,
       "word": "小红书2天新增超70万用户",
       "onboard_time": 1736936540,
       "rank": 3,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 560323,
-      "num": 560323,
-      "word": "男子在日本买下疑似日军侵华照片",
-      "onboard_time": 1736995937,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 524397,
@@ -179,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 401804,
+      "num": 401804,
+      "word": "王楚钦成小手办了",
+      "onboard_time": 1736997498,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 389355,
       "num": 389355,
       "word": "因公牺牲的27岁辅警孩子刚满百天",
@@ -201,6 +209,14 @@
       "onboard_time": 1736985318,
       "rank": 4,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 385363,
+      "num": 402789,
+      "word": "成龙张子枫拍电影好像龙叔和小玉",
+      "onboard_time": 1736996598,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 381311,
@@ -275,14 +291,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 299493,
-      "num": 299493,
-      "word": "成龙张子枫拍电影好像龙叔和小玉",
-      "onboard_time": 1736996598,
-      "rank": 13,
-      "category": "电影"
-    },
-    {
       "raw_hot": 298473,
       "num": 298473,
       "word": "丁禹兮回应虞书欣祝绪丹杨仕泽",
@@ -315,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 288900,
+      "num": 288900,
+      "word": "未定事件簿",
+      "onboard_time": 1736997439,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 285056,
       "num": 285056,
       "word": "谢娜曾说杨紫拍一部火一部",
@@ -324,7 +340,7 @@
     },
     {
       "raw_hot": 283072,
-      "num": 220681,
+      "num": 238395,
       "word": "男子离婚后带娃跑步解压三年变化巨大",
       "onboard_time": 1736991017,
       "rank": 29,
@@ -347,12 +363,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 248405,
-      "num": 248405,
-      "word": "王楚钦成小手办了",
-      "onboard_time": 1736997498,
-      "rank": 21,
-      "category": "体育"
+      "raw_hot": 260148,
+      "num": 260148,
+      "word": "宁静拒绝了一路繁花邀请",
+      "onboard_time": 1736998518,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 243460,
@@ -377,6 +393,14 @@
       "onboard_time": 1736938879,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 214607,
+      "num": 243266,
+      "word": "何猷君2024是奋斗的一年",
+      "onboard_time": 1736998338,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 214494,
@@ -411,12 +435,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 203595,
-      "num": 203595,
-      "word": "未定事件簿",
-      "onboard_time": 1736997439,
-      "rank": 24,
-      "category": "游戏"
+      "raw_hot": 201203,
+      "num": 201203,
+      "word": "鞠婧祎商务预热",
+      "onboard_time": 1736998158,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 201113,
@@ -507,6 +531,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 190440,
+      "num": 190440,
+      "word": "65岁退休大爷在短剧演反派日入2000",
+      "onboard_time": 1736998158,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188342,
+      "num": 188342,
+      "word": "赵今麦漂白演技被群夸",
+      "onboard_time": 1736995337,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186307,
       "num": 186307,
       "word": "泰国总理差点被AI骗",
@@ -571,6 +611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 162078,
+      "num": 254074,
+      "word": "TOP回应是否回归BIGBANG",
+      "onboard_time": 1736997138,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158123,
       "num": 158123,
       "word": "痛包成二次元打工人去班味神器",
@@ -619,14 +667,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 136683,
-      "num": 136683,
-      "word": "赵今麦漂白演技被群夸",
-      "onboard_time": 1736995337,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 135854,
       "num": 135854,
       "word": "你皮肤不好真有可能是饮食问题",
@@ -651,6 +691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134749,
+      "num": 134749,
+      "word": "男孩因7手电动车爆炸身亡前车主担责",
+      "onboard_time": 1736995937,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134242,
       "num": 134242,
       "word": "职业本科与高职专科普通本科有啥区别",
@@ -665,6 +713,14 @@
       "onboard_time": 1736993776,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 130672,
+      "num": 130672,
+      "word": "春节回老家宠物怎么办",
+      "onboard_time": 1736998277,
+      "rank": 41,
+      "category": "民生新闻,情感"
     },
     {
       "raw_hot": 130671,
@@ -707,27 +763,11 @@
       "category": "财经"
     },
     {
-      "raw_hot": 127266,
-      "num": 254074,
-      "word": "TOP回应是否回归BIGBANG",
-      "onboard_time": 1736997138,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 124302,
       "num": 124302,
       "word": "被家暴女子曾为离婚同意净身出户",
       "onboard_time": 1736988019,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 123622,
-      "num": 123622,
-      "word": "男孩因7手电动车爆炸身亡前车主担责",
-      "onboard_time": 1736995937,
-      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -755,6 +795,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117039,
+      "num": 117039,
+      "word": "白月梵星",
+      "onboard_time": 1736998399,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 116985,
+      "num": 116985,
+      "word": "缅怀两弹一星元勋于敏",
+      "onboard_time": 1736998458,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114941,
+      "num": 114941,
+      "word": "王宝强刘昊然唐探1900拿错剧本",
+      "onboard_time": 1736998638,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 113821,
       "num": 113821,
       "word": "黄仁勋现身深圳",
@@ -769,6 +833,14 @@
       "onboard_time": 1736997018,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111731,
+      "num": 111731,
+      "word": "宠物可以火车托运吗",
+      "onboard_time": 1736998638,
+      "rank": 48,
+      "category": "民生新闻,情感"
     },
     {
       "raw_hot": 111624,
