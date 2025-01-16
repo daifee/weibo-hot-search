@@ -1,0 +1,410 @@
+{
+  "runTime": 1737009004884,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1332721,
+        "num": 1332721,
+        "word": "尹锡悦牢房早餐曝光",
+        "onboard_time": 1737005658,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1304116,
+        "num": 1304116,
+        "word": "葛夕留几手进入离婚程序",
+        "onboard_time": 1737004639,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42032,
+        "num": 1241706,
+        "word": "细致的爱温暖了每个人",
+        "onboard_time": 1737003379,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1181669,
+        "num": 1181669,
+        "word": "陈冠希女儿学校被烧毁",
+        "onboard_time": 1737004938,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 675679,
+        "num": 675679,
+        "word": "美国老爷爷被中国网友叮嘱注意身体",
+        "onboard_time": 1737005599,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 489033,
+        "num": 489033,
+        "word": "杂志销售额排行榜",
+        "onboard_time": 1737006139,
+        "rank": 5,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 484927,
+        "num": 484927,
+        "word": "恩利说请尊重我们的文化",
+        "onboard_time": 1737000259,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440083,
+        "num": 440083,
+        "word": "小红书外国老用户坐不住了",
+        "onboard_time": 1737005119,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 342853,
+        "num": 342853,
+        "word": "聚餐第二天猝死同饮者要担责吗",
+        "onboard_time": 1737004220,
+        "rank": 8,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 158086,
+        "num": 341810,
+        "word": "尹锡悦单人牢房被24小时监控录像",
+        "onboard_time": 1737008238,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1090390,
+        "num": 340710,
+        "word": "抖音已处理1万多仿冒外国用户账号",
+        "onboard_time": 1737002779,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 864495,
+        "num": 338686,
+        "word": "麦琳首次回应熏鸡事件",
+        "onboard_time": 1737007938,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 528487,
+        "num": 336982,
+        "word": "金檀",
+        "onboard_time": 1737005298,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353123,
+        "num": 333165,
+        "word": "宋慧乔靠爆剧逆袭宋仲基票房扑街",
+        "onboard_time": 1737007458,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333080,
+        "num": 333080,
+        "word": "赵丽颖黄晓明造城者路透",
+        "onboard_time": 1737005958,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286651,
+        "num": 286651,
+        "word": "小红书在美国掀起一场中文热",
+        "onboard_time": 1736999840,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 264672,
+        "num": 264672,
+        "word": "赵今麦开端3年后再演罪案剧",
+        "onboard_time": 1737006738,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259523,
+        "num": 259523,
+        "word": "刘浩存陈飞宇同框合照",
+        "onboard_time": 1737008238,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243600,
+        "num": 243600,
+        "word": "泰国总理自曝差点成电诈受害者",
+        "onboard_time": 1736993237,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 228625,
+        "num": 239615,
+        "word": "春节申遗成功后第一批受益者出现了",
+        "onboard_time": 1736999778,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256418,
+        "num": 239609,
+        "word": "宁静拒绝了一路繁花邀请",
+        "onboard_time": 1736998518,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239556,
+        "num": 239556,
+        "word": "尹锡悦在牢房里能看电视不用穿囚服",
+        "onboard_time": 1736999598,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 197568,
+        "num": 197568,
+        "word": "何炅吴昕 嗑不了一点",
+        "onboard_time": 1736988198,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192282,
+        "num": 192282,
+        "word": "意大利市长入驻小红书意网友追网线投诉",
+        "onboard_time": 1737008957,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 190481,
+        "num": 190481,
+        "word": "开年第一部纯血犯罪剧来了",
+        "onboard_time": 1737001278,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184241,
+        "num": 184241,
+        "word": "陆柯燃去年工作日曝光是24天",
+        "onboard_time": 1736999718,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179595,
+        "num": 179595,
+        "word": "国色芳华中的牡丹有多火",
+        "onboard_time": 1736995396,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160313,
+        "num": 178033,
+        "word": "中学食堂员工脚踩食材校长被免职",
+        "onboard_time": 1737003438,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138723,
+        "num": 177318,
+        "word": "65岁退休大爷在短剧演反派日入2000",
+        "onboard_time": 1736998158,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120144,
+        "num": 176966,
+        "word": "李耕耘是真懂我",
+        "onboard_time": 1737007638,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176861,
+        "num": 176861,
+        "word": "小红书回应增加一键翻译功能",
+        "onboard_time": 1737006858,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 175988,
+        "num": 175988,
+        "word": "肖战的年度瞬间是和妈妈的拥抱",
+        "onboard_time": 1736995937,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171221,
+        "num": 171221,
+        "word": "芒果TV的免费员工餐",
+        "onboard_time": 1737001038,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168849,
+        "num": 168849,
+        "word": "檀健次喝醉了",
+        "onboard_time": 1736999118,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164196,
+        "num": 164196,
+        "word": "小红书成功注册REDnote商标",
+        "onboard_time": 1737007819,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 108348,
+        "num": 161914,
+        "word": "哪吒2番外先来了",
+        "onboard_time": 1737004220,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161590,
+        "num": 161590,
+        "word": "拜登发表告别演讲",
+        "onboard_time": 1736991677,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 159886,
+        "num": 159886,
+        "word": "拜登政府正考虑让TikTok在美继续运营",
+        "onboard_time": 1737006379,
+        "rank": 37,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 150869,
+        "num": 150869,
+        "word": "黄轩回应公开女友",
+        "onboard_time": 1736952020,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108346,
+        "num": 149097,
+        "word": "男子离婚后带娃跑步解压三年变化巨大",
+        "onboard_time": 1736991017,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148223,
+        "num": 148223,
+        "word": "马斯克母亲入驻小红书评论区炸了",
+        "onboard_time": 1736991197,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 143348,
+        "num": 143348,
+        "word": "美军3辆悍马车被偷公开求助",
+        "onboard_time": 1737006978,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143205,
+        "num": 143205,
+        "word": "崔胜铉说不与BIGBANG联系",
+        "onboard_time": 1737001818,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458217,
+        "num": 141980,
+        "word": "TikTok难民涌入国产APP后表白中国",
+        "onboard_time": 1736999840,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 135143,
+        "num": 135143,
+        "word": "创造营亚洲2学员官宣",
+        "onboard_time": 1737002298,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121236,
+        "num": 121236,
+        "word": "原来蒋长扬捶胸顿足是哭丧礼仪",
+        "onboard_time": 1737003559,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117288,
+        "num": 117288,
+        "word": "消息称TikTok将在美继续运营",
+        "onboard_time": 1737008899,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 111500,
+        "num": 111500,
+        "word": "美三大富豪将在特朗普就职典礼上同框",
+        "onboard_time": 1737008058,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105696,
+        "num": 105696,
+        "word": "德国球迷来小红书了解中国足球",
+        "onboard_time": 1737008779,
+        "rank": 48,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 99025,
+        "num": 104885,
+        "word": "篮网vs快船",
+        "onboard_time": 1737007699,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰天雪地释放无限热力#"
+    }
+  }
+}
