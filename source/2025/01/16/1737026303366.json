@@ -1,0 +1,410 @@
+{
+  "runTime": 1737026303366,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4564482,
+        "num": 4564482,
+        "word": "合肥地震",
+        "onboard_time": 1737025578,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 910152,
+        "num": 910152,
+        "word": "银川地震",
+        "onboard_time": 1737022999,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 38130,
+        "num": 739061,
+        "word": "2025春运旅途气象指南",
+        "onboard_time": 1737019399,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 723354,
+        "num": 723354,
+        "word": "湖南卫视恭喜自己",
+        "onboard_time": 1737020419,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 563026,
+        "num": 563026,
+        "word": "特朗普就职典礼肖像照曝光",
+        "onboard_time": 1737021619,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 498738,
+        "num": 498738,
+        "word": "李行亮麦琳录完再见爱人后的记录",
+        "onboard_time": 1737020358,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 483103,
+        "num": 483103,
+        "word": "抖音已处理1万多仿冒外国用户账号",
+        "onboard_time": 1737002779,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 475184,
+        "num": 475184,
+        "word": "孙铱因怀孕后生化做体检查出脑动脉瘤",
+        "onboard_time": 1737012439,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390759,
+        "num": 390759,
+        "word": "小红书中美民间互动成国际现象级事件",
+        "onboard_time": 1737015319,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 230253,
+        "num": 338876,
+        "word": "杨紫国色芳华带火洛阳牡丹酥",
+        "onboard_time": 1737024858,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 448934,
+        "num": 329575,
+        "word": "女总监遭上司性侵拿到工伤认定书",
+        "onboard_time": 1737022038,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314787,
+        "num": 314787,
+        "word": "白鹿要杀我的真的是亲情刀",
+        "onboard_time": 1737024799,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313116,
+        "num": 313116,
+        "word": "39岁计算机图像处理专家全宇晖逝世",
+        "onboard_time": 1737021738,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303343,
+        "num": 303343,
+        "word": "Hero久竞正式告别南京",
+        "onboard_time": 1737022038,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 294614,
+        "num": 294614,
+        "word": "手机补贴不用交旧手机",
+        "onboard_time": 1737013519,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 271227,
+        "num": 271227,
+        "word": "美国老爷爷被中国网友叮嘱注意身体",
+        "onboard_time": 1737005599,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264191,
+        "num": 264191,
+        "word": "范丞丞第一次做美甲",
+        "onboard_time": 1737022218,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250762,
+        "num": 250762,
+        "word": "宋慧乔靠爆剧逆袭宋仲基票房扑街",
+        "onboard_time": 1737007458,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248137,
+        "num": 248137,
+        "word": "檀健次方告黑取证",
+        "onboard_time": 1737021858,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231190,
+        "num": 231190,
+        "word": "国内手机11个月出货2.8亿部",
+        "onboard_time": 1737024378,
+        "rank": 19,
+        "category": "数码,民生新闻"
+      },
+      {
+        "raw_hot": 976007,
+        "num": 230659,
+        "word": "杨子你惹papi酱干嘛",
+        "onboard_time": 1737018258,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329407,
+        "num": 227614,
+        "word": "徐艺洋说和黄子韬还没收到改口费",
+        "onboard_time": 1737020478,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310302,
+        "num": 226201,
+        "word": "美国女网友被中国一日三餐震惊",
+        "onboard_time": 1737025819,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 255338,
+        "num": 222464,
+        "word": "陈情令温晁爆改韩慕之",
+        "onboard_time": 1737022939,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246365,
+        "num": 219946,
+        "word": "麦琳瘦了13斤",
+        "onboard_time": 1737009437,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219566,
+        "num": 219566,
+        "word": "孟子义说没时间弄九重紫团综了",
+        "onboard_time": 1737026240,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210007,
+        "num": 210007,
+        "word": "陈冠希女儿学校被烧毁",
+        "onboard_time": 1737004938,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200630,
+        "num": 200630,
+        "word": "成毅戏服将在南京博物院展出",
+        "onboard_time": 1737019518,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193488,
+        "num": 193488,
+        "word": "黄圣依现在有三部手机",
+        "onboard_time": 1737021559,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181785,
+        "num": 181785,
+        "word": "双胞胎宝妈悬浮肚生完变棉被褶",
+        "onboard_time": 1737015919,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176947,
+        "num": 176947,
+        "word": "孙怡大侦探路透",
+        "onboard_time": 1737025039,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165345,
+        "num": 165345,
+        "word": "美成熟制程芯片低价冲击国内市场",
+        "onboard_time": 1737022999,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158248,
+        "num": 158248,
+        "word": "可口可乐CEO送特朗普就职纪念可乐",
+        "onboard_time": 1737010998,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156511,
+        "num": 156511,
+        "word": "侯明昊不语只是一味脱衣",
+        "onboard_time": 1737024799,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13255,
+        "num": 153771,
+        "word": "戚薇和夏弃疾的适配度",
+        "onboard_time": 1737026178,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153578,
+        "num": 153578,
+        "word": "iOS18一直截图会越来越红",
+        "onboard_time": 1737012679,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 150960,
+        "num": 150960,
+        "word": "TikTok难民开直播聊天10万人围观",
+        "onboard_time": 1737010577,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 150433,
+        "num": 150433,
+        "word": "吉林文旅回应大爷救游客事件",
+        "onboard_time": 1737025819,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140308,
+        "num": 140308,
+        "word": "网传青簪行业内已经看片了",
+        "onboard_time": 1737019819,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137030,
+        "num": 137030,
+        "word": "西藏震区找回现金近700万元",
+        "onboard_time": 1737022580,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130298,
+        "num": 130298,
+        "word": "三亚22万一晚酒店被订光",
+        "onboard_time": 1737013640,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 121941,
+        "num": 121941,
+        "word": "我家那小子",
+        "onboard_time": 1737024318,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121412,
+        "num": 121412,
+        "word": "Bao教练结婚",
+        "onboard_time": 1737024678,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121100,
+        "num": 121100,
+        "word": "登陆少年澳门向热爱出发",
+        "onboard_time": 1737025819,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119059,
+        "num": 119059,
+        "word": "手机补贴采用支付立减方式",
+        "onboard_time": 1737023358,
+        "rank": 44,
+        "category": "数码,民生新闻"
+      },
+      {
+        "raw_hot": 118851,
+        "num": 118851,
+        "word": "阿如那驻站村霸搞纯爱",
+        "onboard_time": 1737025340,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117203,
+        "num": 117203,
+        "word": "小红书外国老用户坐不住了",
+        "onboard_time": 1737005119,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 113319,
+        "num": 113319,
+        "word": "偶遇孟子义丽江拍戏",
+        "onboard_time": 1737018618,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110413,
+        "num": 110413,
+        "word": "美国女子被中国网民感动到泪目",
+        "onboard_time": 1737012679,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108724,
+        "num": 108724,
+        "word": "金世佳照顾喝醉的檀健次",
+        "onboard_time": 1737011358,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中斯友好合作取得新的更大成果#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737024030421,
+  "endTime": 1737026303366,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -265,6 +265,14 @@
       "onboard_time": 1736582603,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 4564482,
+      "num": 4564482,
+      "word": "合肥地震",
+      "onboard_time": 1737025578,
+      "rank": 0,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 4517004,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736082329,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1380989,
-      "num": 1300392,
-      "word": "春秋航空回应赴泰国飞机票不能退",
-      "onboard_time": 1736819838,
-      "rank": 3,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
