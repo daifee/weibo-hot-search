@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1737070532497,
+  "endTime": 1737077949856,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -979,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1070708,
+      "num": 121928,
+      "word": "因吵架妻子胎停丈夫崩溃大哭",
+      "onboard_time": 1737074179,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1069392,
       "num": 1069392,
       "word": "韩国核电站",
@@ -1251,6 +1259,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 936848,
+      "num": 1149895,
+      "word": "宋慧乔本来是不婚主义者",
+      "onboard_time": 1737072617,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 927879,
       "num": 927879,
       "word": "虞书欣祝绪丹杨仕泽买了丁禹兮杂志",
@@ -1433,6 +1449,14 @@
       "onboard_time": 1736782040,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 827047,
+      "num": 914757,
+      "word": "中美网友对了一夜的账",
+      "onboard_time": 1737035600,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 826803,
@@ -1864,14 +1888,6 @@
       "word": "美国老爷爷被中国网友叮嘱注意身体",
       "onboard_time": 1737005599,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 701498,
-      "num": 914757,
-      "word": "中美网友对了一夜的账",
-      "onboard_time": 1737035600,
-      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -3379,6 +3395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 435883,
+      "num": 121586,
+      "word": "生化和流产的区别",
+      "onboard_time": 1737073939,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 435466,
       "num": 435466,
       "word": "白鹿百指登顶",
@@ -3905,6 +3929,14 @@
       "onboard_time": 1736944999,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 374275,
+      "num": 237648,
+      "word": "知情人士称拜登将不执行TikTok禁令",
+      "onboard_time": 1737072258,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 373460,
@@ -4547,6 +4579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 316233,
+      "num": 316233,
+      "word": "丁禹兮2892w的销售额",
+      "onboard_time": 1737070817,
+      "rank": 4,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 314508,
       "num": 286410,
       "word": "如何取消朋友圈点赞动态通知",
@@ -4561,6 +4601,14 @@
       "onboard_time": 1737002838,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 314120,
+      "num": 299219,
+      "word": "大卫林奇去世",
+      "onboard_time": 1737072438,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 314011,
@@ -4641,6 +4689,14 @@
       "onboard_time": 1736822177,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 310330,
+      "num": 310330,
+      "word": "南京北站发现古墓",
+      "onboard_time": 1737069375,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 310081,
@@ -4780,7 +4836,7 @@
     },
     {
       "raw_hot": 299566,
-      "num": 111666,
+      "num": 121025,
       "word": "美国女孩小红书捞中国同学神速成功",
       "onboard_time": 1737040759,
       "rank": 45,
@@ -5073,6 +5129,14 @@
       "onboard_time": 1736747299,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 280951,
+      "num": 280951,
+      "word": "泰国预计春节期间近77万中国游客将入境",
+      "onboard_time": 1737070095,
+      "rank": 38,
+      "category": "旅游"
     },
     {
       "raw_hot": 280291,
@@ -5627,6 +5691,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 249278,
+      "num": 249278,
+      "word": "除夕10天倒计时",
+      "onboard_time": 1737070095,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 249126,
       "num": 321166,
       "word": "律师解读西湖边放杨幂风筝谁担责",
@@ -5905,6 +5977,14 @@
       "onboard_time": 1736651239,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 235043,
+      "num": 235043,
+      "word": "白鹿也在嗑代露娃常华森",
+      "onboard_time": 1737071237,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 234121,
@@ -6211,6 +6291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223109,
+      "num": 223109,
+      "word": "郑思维直播开卖个人品牌",
+      "onboard_time": 1737073459,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222295,
       "num": 222295,
       "word": "李昀锐拜年妆造",
@@ -6232,6 +6320,14 @@
       "word": "鸡腿诺 程鑫凯",
       "onboard_time": 1736657300,
       "rank": 31,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 221657,
+      "num": 121494,
+      "word": "鹿哈向女友求婚成功",
+      "onboard_time": 1737077537,
+      "rank": 24,
       "category": "网红"
     },
     {
@@ -6841,6 +6937,14 @@
       "onboard_time": 1736698160,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205450,
+      "num": 120807,
+      "word": "李子柒这数据太卷了",
+      "onboard_time": 1737077717,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 205431,
@@ -8179,6 +8283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 182564,
+      "num": 182564,
+      "word": "五娘说杨紫哪哪都好",
+      "onboard_time": 1737073998,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182510,
       "num": 182510,
       "word": "白鹿唱了先说谎的人",
@@ -8241,6 +8353,14 @@
       "onboard_time": 1736832618,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 181881,
+      "num": 163818,
+      "word": "地震获救狗狗一瞬间认出救命恩人",
+      "onboard_time": 1737034339,
+      "rank": 41,
+      "category": "正能量"
     },
     {
       "raw_hot": 181769,
@@ -8827,12 +8947,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172093,
+      "num": 172093,
+      "word": "韩团cha黄子韬的callme",
+      "onboard_time": 1737070156,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 172084,
       "num": 270933,
       "word": "王曼昱回应捐赠驰援西藏",
       "onboard_time": 1736835919,
       "rank": 41,
       "category": "体育,民生新闻"
+    },
+    {
+      "raw_hot": 171976,
+      "num": 171976,
+      "word": "看盒子灯就像是在开盲盒",
+      "onboard_time": 1737076819,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171594,
@@ -8891,14 +9027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170944,
-      "num": 170944,
-      "word": "南京北站发现古墓",
-      "onboard_time": 1737069375,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 170920,
       "num": 202069,
       "word": "许光汉去了柯佳嬿生日派对",
@@ -8929,6 +9057,14 @@
       "onboard_time": 1736688201,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170519,
+      "num": 116463,
+      "word": "支付宝解释bug事故原因",
+      "onboard_time": 1737072679,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 170502,
@@ -9233,14 +9369,6 @@
       "onboard_time": 1737001399,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 163818,
-      "num": 163818,
-      "word": "地震获救狗狗一瞬间认出救命恩人",
-      "onboard_time": 1737034339,
-      "rank": 41,
-      "category": "正能量"
     },
     {
       "raw_hot": 163671,
@@ -10755,6 +10883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141390,
+      "num": 141390,
+      "word": "星舰",
+      "onboard_time": 1737071657,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 141190,
       "num": 138233,
       "word": "白银黄金直线跳水",
@@ -11611,6 +11747,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 129047,
+      "num": 129047,
+      "word": "敖瑞鹏演技",
+      "onboard_time": 1737072199,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129041,
       "num": 129041,
       "word": "丁禹兮和miyavi贴贴",
@@ -12155,6 +12299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121993,
+      "num": 121993,
+      "word": "愿同美新政府加强对话沟通",
+      "onboard_time": 1737074238,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 121958,
       "num": 121958,
       "word": "乒乓球亚洲杯赛程出炉",
@@ -12515,6 +12667,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118242,
+      "num": 118242,
+      "word": "五福临门将接档国色芳华",
+      "onboard_time": 1737071598,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 118079,
+      "num": 118079,
+      "word": "Ning说和Tarzan误会解除",
+      "onboard_time": 1737076579,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 117845,
       "num": 117845,
       "word": "民法典婚姻家庭相关司法解释发布",
@@ -12592,6 +12760,14 @@
       "word": "北京超98%流感为甲流",
       "onboard_time": 1736774722,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117344,
+      "num": 117344,
+      "word": "今年家电以旧换新有两大变化",
+      "onboard_time": 1737075077,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -13147,6 +13323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110969,
+      "num": 110969,
+      "word": "美国网友晒樊振东视频引共鸣",
+      "onboard_time": 1737072318,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110907,
       "num": 209860,
       "word": "这是我们的中国年",
@@ -13209,6 +13393,14 @@
       "onboard_time": 1736808793,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 109686,
+      "num": 109686,
+      "word": "红山动物园茉莉宝宝去考拉星了",
+      "onboard_time": 1737070517,
+      "rank": 48,
+      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 109576,
@@ -13275,12 +13467,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108368,
+      "num": 108368,
+      "word": "近期将恢复福建上海居民赴台团队游",
+      "onboard_time": 1737076697,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107858,
       "num": 343593,
       "word": "张本智和4比0格罗特",
       "onboard_time": 1736608587,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107809,
+      "num": 107809,
+      "word": "马龙出席米兰男装周",
+      "onboard_time": 1737075139,
+      "rank": 38,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 107352,
@@ -13377,6 +13585,14 @@
       "onboard_time": 1737016279,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105984,
+      "num": 105984,
+      "word": "女子鼻骨骨折消肿后喜提高鼻梁",
+      "onboard_time": 1737076457,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105838,
@@ -13699,6 +13915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101424,
+      "num": 101424,
+      "word": "1岁烧坏脑子他痴迷绘画60年",
+      "onboard_time": 1737075259,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101166,
       "num": 101166,
       "word": "国色芳华主题曲从国内响到海外",
@@ -13729,6 +13953,14 @@
       "onboard_time": 1736855419,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99732,
+      "num": 99732,
+      "word": "碘酒和碘伏不是一个东西",
+      "onboard_time": 1737072318,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 99422,
@@ -14283,6 +14515,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 83496,
+      "num": 83496,
+      "word": "小李子捐款100万美元救灾",
+      "onboard_time": 1737070999,
+      "rank": 47,
+      "category": "艺人,海外新闻"
+    },
+    {
       "raw_hot": 83350,
       "num": 184716,
       "word": "许七安 你不是度苦你是命苦",
@@ -14329,6 +14569,14 @@
       "onboard_time": 1736784498,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81833,
+      "num": 81833,
+      "word": "CardiB已入驻小红书两年多",
+      "onboard_time": 1737059051,
+      "rank": 43,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 81459,
@@ -14875,14 +15123,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 63645,
-      "num": 63645,
-      "word": "除夕10天倒计时",
-      "onboard_time": 1737070095,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 63591,
       "num": 1406731,
       "word": "刻在DNA里的春节仪式感",
@@ -14939,14 +15179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 62021,
-      "num": 62021,
-      "word": "泰国预计春节期间近77万中国游客将入境",
-      "onboard_time": 1737070095,
-      "rank": 38,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 61952,
       "num": 200669,
       "word": "手机换新补贴有望产生千亿元市场规模",
@@ -14993,14 +15225,6 @@
       "onboard_time": 1737069975,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 61077,
-      "num": 92912,
-      "word": "韩团cha黄子韬的callme",
-      "onboard_time": 1737070156,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 60453,
@@ -15105,6 +15329,14 @@
       "onboard_time": 1736887749,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56126,
+      "num": 241811,
+      "word": "尹锡悦的请求没有道理予以驳回",
+      "onboard_time": 1737073698,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 55979,
@@ -15379,14 +15611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 51439,
-      "num": 51439,
-      "word": "CardiB已入驻小红书两年多",
-      "onboard_time": 1737059051,
-      "rank": 43,
-      "category": "艺人,互联网"
-    },
-    {
       "raw_hot": 51282,
       "num": 209518,
       "word": "央视记者采访震区少年强忍哽咽",
@@ -15545,14 +15769,6 @@
       "onboard_time": 1736928199,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46603,
-      "num": 46603,
-      "word": "红山动物园茉莉宝宝去考拉星了",
-      "onboard_time": 1737070517,
-      "rank": 48,
-      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 46329,
@@ -16179,6 +16395,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 28968,
+      "num": 377082,
+      "word": "当非遗项目遇上首个非遗春节",
+      "onboard_time": 1737036741,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28870,
       "num": 204857,
       "word": "古村落鱼灯舞动年味儿拉满了",
@@ -16248,14 +16472,6 @@
       "word": "武警姐姐与藏族小妹妹的约定",
       "onboard_time": 1736608647,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27329,
-      "num": 363146,
-      "word": "当非遗项目遇上首个非遗春节",
-      "onboard_time": 1737036741,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
