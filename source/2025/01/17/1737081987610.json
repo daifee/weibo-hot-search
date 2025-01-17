@@ -1,0 +1,410 @@
+{
+  "runTime": 1737081987610,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1500084,
+        "num": 1500084,
+        "word": "鹿哈向女友求婚成功",
+        "onboard_time": 1737077537,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 675043,
+        "num": 675043,
+        "word": "GDP",
+        "onboard_time": 1737080477,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 25672,
+        "num": 462118,
+        "word": "当非遗项目遇上首个非遗春节",
+        "onboard_time": 1737036741,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 453685,
+        "num": 453685,
+        "word": "近期将恢复福建上海居民赴台团队游",
+        "onboard_time": 1737076697,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292787,
+        "num": 292787,
+        "word": "青岛女子在日本买下70万平米小岛",
+        "onboard_time": 1737037460,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291021,
+        "num": 291021,
+        "word": "全国人口减少139万人",
+        "onboard_time": 1737081558,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 288792,
+        "num": 288792,
+        "word": "2024年中国GDP同比增长5%",
+        "onboard_time": 1737080298,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 273102,
+        "num": 273102,
+        "word": "泰国预计春节期间近77万中国游客将入境",
+        "onboard_time": 1737070095,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 222233,
+        "num": 264493,
+        "word": "丁禹兮2892w的销售额",
+        "onboard_time": 1737070817,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 256323,
+        "num": 256323,
+        "word": "除夕10天倒计时",
+        "onboard_time": 1737070095,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1121939,
+        "num": 256203,
+        "word": "支付宝说错了就会承担",
+        "onboard_time": 1737080116,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 893355,
+        "num": 256091,
+        "word": "D社曝金敏喜怀孕",
+        "onboard_time": 1737078137,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233831,
+        "num": 255880,
+        "word": "2024国民经济运行情况",
+        "onboard_time": 1737080116,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 518123,
+        "num": 255742,
+        "word": "秦霄贤好友怒怼辛雨锡",
+        "onboard_time": 1737079337,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263156,
+        "num": 255566,
+        "word": "女子和丈夫养100只鸵鸟做鸵鸟吃播",
+        "onboard_time": 1737080418,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255465,
+        "num": 255465,
+        "word": "这些春晚歌曲拉满过年氛围感",
+        "onboard_time": 1737078857,
+        "rank": 15,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 217054,
+        "num": 217054,
+        "word": "导致生化妊娠的原因",
+        "onboard_time": 1737078918,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 205254,
+        "num": 205254,
+        "word": "白鹿也在嗑代露娃常华森",
+        "onboard_time": 1737071237,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155096,
+        "num": 205120,
+        "word": "声生不息",
+        "onboard_time": 1737081558,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135732,
+        "num": 204174,
+        "word": "五娘说杨紫哪哪都好",
+        "onboard_time": 1737073998,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 686697,
+        "num": 203202,
+        "word": "因吵架妻子胎停丈夫崩溃大哭",
+        "onboard_time": 1737074179,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407748,
+        "num": 202468,
+        "word": "陈冠希人肉素人老婆",
+        "onboard_time": 1737030318,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251713,
+        "num": 201559,
+        "word": "李子柒这数据太卷了",
+        "onboard_time": 1737077717,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223926,
+        "num": 201151,
+        "word": "女子鼻骨骨折消肿后喜提高鼻梁",
+        "onboard_time": 1737076457,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83878,
+        "num": 200582,
+        "word": "启蒙教练说樊振东对兵乓球真的太爱了",
+        "onboard_time": 1737081437,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118216,
+        "num": 199530,
+        "word": "韩团cha黄子韬的callme",
+        "onboard_time": 1737070156,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 214283,
+        "num": 199300,
+        "word": "印度成为第四个实现空间对接的国家",
+        "onboard_time": 1737069375,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 198593,
+        "num": 198593,
+        "word": "南京北站发现古墓",
+        "onboard_time": 1737069375,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124393,
+        "num": 192200,
+        "word": "千手观音20年她换个身份再上春晚",
+        "onboard_time": 1737081498,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190637,
+        "num": 190637,
+        "word": "生化和流产的区别",
+        "onboard_time": 1737073939,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 171636,
+        "num": 171636,
+        "word": "美国女孩小红书捞中国同学神速成功",
+        "onboard_time": 1737040759,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169697,
+        "num": 169697,
+        "word": "知情人士称拜登将不执行TikTok禁令",
+        "onboard_time": 1737072258,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 161020,
+        "num": 161020,
+        "word": "Switch老玩家有福了",
+        "onboard_time": 1737080598,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148006,
+        "num": 148006,
+        "word": "狗子回村第一天就长出了龅牙",
+        "onboard_time": 1737080357,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115645,
+        "num": 143796,
+        "word": "敖瑞鹏演技",
+        "onboard_time": 1737072199,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141407,
+        "num": 141407,
+        "word": "1岁烧坏脑子他痴迷绘画60年",
+        "onboard_time": 1737075259,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133903,
+        "num": 133903,
+        "word": "徐冬冬沙滩照身材",
+        "onboard_time": 1737081798,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127156,
+        "num": 127156,
+        "word": "第五人格",
+        "onboard_time": 1737080838,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125271,
+        "num": 125271,
+        "word": "2025第1个月已过半",
+        "onboard_time": 1737080418,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119181,
+        "num": 119181,
+        "word": "女子怀孕找不到月嫂给婆婆报培训班",
+        "onboard_time": 1737032720,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110516,
+        "num": 110516,
+        "word": "彭昱畅的狗不语只是一味卖萌",
+        "onboard_time": 1737078678,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110298,
+        "num": 110298,
+        "word": "广东肇庆山火600人扑救",
+        "onboard_time": 1737035900,
+        "rank": 41,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 108695,
+        "num": 108695,
+        "word": "今年家电以旧换新有两大变化",
+        "onboard_time": 1737075077,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103495,
+        "num": 103495,
+        "word": "杨子说家都没了",
+        "onboard_time": 1737035539,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103200,
+        "num": 103200,
+        "word": "白月梵星慕九下线 好哭",
+        "onboard_time": 1737081677,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100032,
+        "num": 100032,
+        "word": "地震获救狗狗一瞬间认出救命恩人",
+        "onboard_time": 1737034339,
+        "rank": 45,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 97091,
+        "num": 97091,
+        "word": "看盒子灯就像是在开盲盒",
+        "onboard_time": 1737076819,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95635,
+        "num": 95635,
+        "word": "大卫林奇去世",
+        "onboard_time": 1737072438,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94572,
+        "num": 94572,
+        "word": "马龙出席米兰男装周",
+        "onboard_time": 1737075139,
+        "rank": 48,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 90437,
+        "num": 90437,
+        "word": "郑思维直播开卖个人品牌",
+        "onboard_time": 1737073459,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革是人民群众自己的事业#"
+    }
+  }
+}

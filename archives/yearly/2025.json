@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737078906169,
+  "endTime": 1737081987610,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -2179,6 +2179,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1500084,
+      "num": 1500084,
+      "word": "鹿哈向女友求婚成功",
+      "onboard_time": 1737077537,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1491508,
       "num": 1491508,
       "word": "12306一天拒绝异常登录3982万次",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736653578,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1405808,
-      "num": 1405808,
-      "word": "郭敬明删博了",
-      "onboard_time": 1736516663,
-      "rank": 1,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
