@@ -1,0 +1,410 @@
+{
+  "runTime": 1737078906169,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 928593,
+        "num": 1148574,
+        "word": "宋慧乔本来是不婚主义者",
+        "onboard_time": 1737072617,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325270,
+        "num": 325270,
+        "word": "泰国预计春节期间近77万中国游客将入境",
+        "onboard_time": 1737070095,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 27089,
+        "num": 276206,
+        "word": "当非遗项目遇上首个非遗春节",
+        "onboard_time": 1737036741,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344777,
+        "num": 273923,
+        "word": "青岛女子在日本买下70万平米小岛",
+        "onboard_time": 1737037460,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263455,
+        "num": 263455,
+        "word": "丁禹兮2892w的销售额",
+        "onboard_time": 1737070817,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 263138,
+        "num": 263138,
+        "word": "南京北站发现古墓",
+        "onboard_time": 1737069375,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224534,
+        "num": 224534,
+        "word": "大卫林奇去世",
+        "onboard_time": 1737072438,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204521,
+        "num": 204521,
+        "word": "白鹿也在嗑代露娃常华森",
+        "onboard_time": 1737071237,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198440,
+        "num": 198440,
+        "word": "除夕10天倒计时",
+        "onboard_time": 1737070095,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149751,
+        "num": 149751,
+        "word": "看盒子灯就像是在开盲盒",
+        "onboard_time": 1737076819,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 783152,
+        "num": 149441,
+        "word": "D社曝金敏喜怀孕",
+        "onboard_time": 1737078137,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 683588,
+        "num": 148918,
+        "word": "中美网友对了一夜的账",
+        "onboard_time": 1737035600,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383509,
+        "num": 148385,
+        "word": "印度成为第四个实现空间对接的国家",
+        "onboard_time": 1737069375,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 254746,
+        "num": 148107,
+        "word": "郑思维直播开卖个人品牌",
+        "onboard_time": 1737073459,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170990,
+        "num": 147381,
+        "word": "五娘说杨紫哪哪都好",
+        "onboard_time": 1737073998,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147115,
+        "num": 147115,
+        "word": "尹锡悦的请求没有道理予以驳回",
+        "onboard_time": 1737073698,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145351,
+        "num": 145351,
+        "word": "韩团cha黄子韬的callme",
+        "onboard_time": 1737070156,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145091,
+        "num": 145091,
+        "word": "今年家电以旧换新有两大变化",
+        "onboard_time": 1737075077,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137819,
+        "num": 137819,
+        "word": "敖瑞鹏演技",
+        "onboard_time": 1737072199,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122260,
+        "num": 122260,
+        "word": "这些春晚歌曲拉满过年氛围感",
+        "onboard_time": 1737078857,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 957651,
+        "num": 121909,
+        "word": "因吵架妻子胎停丈夫崩溃大哭",
+        "onboard_time": 1737074179,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 745470,
+        "num": 121731,
+        "word": "鹿哈向女友求婚成功",
+        "onboard_time": 1737077537,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 470867,
+        "num": 115996,
+        "word": "陈冠希人肉素人老婆",
+        "onboard_time": 1737030318,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108570,
+        "num": 108570,
+        "word": "碘酒和碘伏不是一个东西",
+        "onboard_time": 1737072318,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 357493,
+        "num": 108558,
+        "word": "生化和流产的区别",
+        "onboard_time": 1737073939,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 339369,
+        "num": 108519,
+        "word": "杨子说家都没了",
+        "onboard_time": 1737035539,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307971,
+        "num": 108517,
+        "word": "知情人士称拜登将不执行TikTok禁令",
+        "onboard_time": 1737072258,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 285575,
+        "num": 108479,
+        "word": "李子柒这数据太卷了",
+        "onboard_time": 1737077717,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166521,
+        "num": 108446,
+        "word": "美国女孩小红书捞中国同学神速成功",
+        "onboard_time": 1737040759,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150945,
+        "num": 108430,
+        "word": "女子鼻骨骨折消肿后喜提高鼻梁",
+        "onboard_time": 1737076457,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148251,
+        "num": 108414,
+        "word": "广东肇庆山火600人扑救",
+        "onboard_time": 1737035900,
+        "rank": 30,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 145648,
+        "num": 108378,
+        "word": "地震获救狗狗一瞬间认出救命恩人",
+        "onboard_time": 1737034339,
+        "rank": 31,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 143559,
+        "num": 108358,
+        "word": "女子怀孕找不到月嫂给婆婆报培训班",
+        "onboard_time": 1737032720,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132031,
+        "num": 108341,
+        "word": "1岁烧坏脑子他痴迷绘画60年",
+        "onboard_time": 1737075259,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108315,
+        "num": 108315,
+        "word": "五福临门将接档国色芳华",
+        "onboard_time": 1737071598,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107550,
+        "num": 107550,
+        "word": "红山动物园茉莉宝宝去考拉星了",
+        "onboard_time": 1737070517,
+        "rank": 35,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 107452,
+        "num": 107452,
+        "word": "Ning说和Tarzan误会解除",
+        "onboard_time": 1737076579,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99974,
+        "num": 99974,
+        "word": "马龙出席米兰男装周",
+        "onboard_time": 1737075139,
+        "rank": 37,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 99089,
+        "num": 99089,
+        "word": "星舰",
+        "onboard_time": 1737071657,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 93942,
+        "num": 93942,
+        "word": "愿同美新政府加强对话沟通",
+        "onboard_time": 1737074238,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 93626,
+        "num": 93626,
+        "word": "向佐郭碧婷是刘维撮合的",
+        "onboard_time": 1737031940,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86801,
+        "num": 86801,
+        "word": "锦囊妙录又怎么了我的大小姐",
+        "onboard_time": 1737078377,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82535,
+        "num": 82535,
+        "word": "美国网友晒樊振东视频引共鸣",
+        "onboard_time": 1737072318,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81656,
+        "num": 81656,
+        "word": "麦琳全平台涨粉近10万",
+        "onboard_time": 1737045556,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76526,
+        "num": 76526,
+        "word": "31岁孙铱提醒高龄宝妈做好检查",
+        "onboard_time": 1737053292,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73612,
+        "num": 73612,
+        "word": "彭昱畅的狗不语只是一味卖萌",
+        "onboard_time": 1737078678,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71540,
+        "num": 71540,
+        "word": "美甲师吐槽去年画龙今年盘蛇",
+        "onboard_time": 1737033201,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71456,
+        "num": 71456,
+        "word": "逆水寒",
+        "onboard_time": 1737076878,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 69866,
+        "num": 70602,
+        "word": "袭击民警2人以上的将从重处罚",
+        "onboard_time": 1737078498,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 70569,
+        "num": 70569,
+        "word": "31岁演员孙铱自曝二胎生化",
+        "onboard_time": 1737049632,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革是人民群众自己的事业#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1737044847648,
-  "endTime": 1737077949856,
+  "endTime": 1737078906169,
   "band_list": [
     {
       "raw_hot": 1446923,
@@ -49,6 +49,22 @@
       "onboard_time": 1737035600,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 783152,
+      "num": 149441,
+      "word": "D社曝金敏喜怀孕",
+      "onboard_time": 1737078137,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 745470,
+      "num": 121731,
+      "word": "鹿哈向女友求婚成功",
+      "onboard_time": 1737077537,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 628044,
@@ -115,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 325270,
+      "num": 325270,
+      "word": "泰国预计春节期间近77万中国游客将入境",
+      "onboard_time": 1737070095,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 316233,
       "num": 316233,
       "word": "丁禹兮2892w的销售额",
@@ -147,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 285575,
+      "num": 120807,
+      "word": "李子柒这数据太卷了",
+      "onboard_time": 1737077717,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283191,
       "num": 283191,
       "word": "王毅表态绝不允许犯罪分子逍遥法外",
@@ -155,12 +187,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 280951,
-      "num": 280951,
-      "word": "泰国预计春节期间近77万中国游客将入境",
-      "onboard_time": 1737070095,
-      "rank": 38,
-      "category": "旅游"
+      "raw_hot": 254746,
+      "num": 223109,
+      "word": "郑思维直播开卖个人品牌",
+      "onboard_time": 1737073459,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 249617,
@@ -187,22 +219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 223109,
-      "num": 223109,
-      "word": "郑思维直播开卖个人品牌",
-      "onboard_time": 1737073459,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 221657,
-      "num": 121494,
-      "word": "鹿哈向女友求婚成功",
-      "onboard_time": 1737077537,
-      "rank": 24,
-      "category": "网红"
-    },
-    {
       "raw_hot": 218227,
       "num": 218227,
       "word": "九重紫小孩哥说昀牵孟绕是真的",
@@ -217,14 +233,6 @@
       "onboard_time": 1737065891,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 205450,
-      "num": 120807,
-      "word": "李子柒这数据太卷了",
-      "onboard_time": 1737077717,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 195148,
@@ -339,6 +347,14 @@
       "category": "民生新闻,数码"
     },
     {
+      "raw_hot": 150945,
+      "num": 108430,
+      "word": "女子鼻骨骨折消肿后喜提高鼻梁",
+      "onboard_time": 1737076457,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147332,
       "num": 147332,
       "word": "鬼鬼当妈后首营业",
@@ -347,12 +363,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147115,
+      "num": 241811,
+      "word": "尹锡悦的请求没有道理予以驳回",
+      "onboard_time": 1737073698,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 145423,
       "num": 145423,
       "word": "在海外播出的中文电视剧",
       "onboard_time": 1737034040,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145091,
+      "num": 145091,
+      "word": "今年家电以旧换新有两大变化",
+      "onboard_time": 1737075077,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141390,
@@ -369,6 +401,14 @@
       "onboard_time": 1737069375,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 137819,
+      "num": 137819,
+      "word": "敖瑞鹏演技",
+      "onboard_time": 1737072199,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 135368,
@@ -395,12 +435,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 129047,
-      "num": 129047,
-      "word": "敖瑞鹏演技",
-      "onboard_time": 1737072199,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 132031,
+      "num": 108341,
+      "word": "1岁烧坏脑子他痴迷绘画60年",
+      "onboard_time": 1737075259,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127253,
@@ -417,6 +457,14 @@
       "onboard_time": 1737033140,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122260,
+      "num": 122260,
+      "word": "这些春晚歌曲拉满过年氛围感",
+      "onboard_time": 1737078857,
+      "rank": 19,
+      "category": "正能量"
     },
     {
       "raw_hot": 121993,
@@ -457,14 +505,6 @@
       "onboard_time": 1737076579,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 117344,
-      "num": 117344,
-      "word": "今年家电以旧换新有两大变化",
-      "onboard_time": 1737075077,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113728,
@@ -515,6 +555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 108570,
+      "num": 108570,
+      "word": "碘酒和碘伏不是一个东西",
+      "onboard_time": 1737072318,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 108368,
       "num": 108368,
       "word": "近期将恢复福建上海居民赴台团队游",
@@ -537,14 +585,6 @@
       "onboard_time": 1737045556,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 105984,
-      "num": 105984,
-      "word": "女子鼻骨骨折消肿后喜提高鼻梁",
-      "onboard_time": 1737076457,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105172,
@@ -571,28 +611,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 101424,
-      "num": 101424,
-      "word": "1岁烧坏脑子他痴迷绘画60年",
-      "onboard_time": 1737075259,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 99815,
       "num": 99815,
       "word": "杨子你惹papi酱干嘛",
       "onboard_time": 1737018258,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 99732,
-      "num": 99732,
-      "word": "碘酒和碘伏不是一个东西",
-      "onboard_time": 1737072318,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 99577,
@@ -632,6 +656,14 @@
       "word": "孟子义说没时间弄九重紫团综了",
       "onboard_time": 1737026240,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 86801,
+      "num": 86801,
+      "word": "锦囊妙录又怎么了我的大小姐",
+      "onboard_time": 1737078377,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -707,12 +739,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73612,
+      "num": 73612,
+      "word": "彭昱畅的狗不语只是一味卖萌",
+      "onboard_time": 1737078678,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 72647,
       "num": 72647,
       "word": "对中国公民实施犯罪必被追打到底",
       "onboard_time": 1737042258,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69866,
+      "num": 70602,
+      "word": "袭击民警2人以上的将从重处罚",
+      "onboard_time": 1737078498,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 69699,
@@ -793,14 +841,6 @@
       "onboard_time": 1737035780,
       "rank": 43,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 56126,
-      "num": 241811,
-      "word": "尹锡悦的请求没有道理予以驳回",
-      "onboard_time": 1737073698,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 55979,
