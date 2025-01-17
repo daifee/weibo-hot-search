@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1737135493641,
+  "endTime": 1737138547781,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -6523,6 +6523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 253736,
+      "num": 253736,
+      "word": "美最高法支持政府对TikTok强迫出售令",
+      "onboard_time": 1737132436,
+      "rank": 8,
+      "category": "国际时政,互联网"
+    },
+    {
       "raw_hot": 253113,
       "num": 223795,
       "word": "谁把何惟芳的中药换成冰美式了",
@@ -7681,14 +7689,6 @@
       "onboard_time": 1736860760,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 209958,
-      "num": 209958,
-      "word": "美最高法支持政府对TikTok强迫出售令",
-      "onboard_time": 1737132436,
-      "rank": 8,
-      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 209796,
@@ -18227,6 +18227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 48161,
+      "num": 48161,
+      "word": "美国针对TikTok与华为的是一批人",
+      "onboard_time": 1737137233,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 48114,
       "num": 223426,
       "word": "郑钦文说我喜欢带着压力打球",
@@ -18561,6 +18569,14 @@
       "onboard_time": 1736760439,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 39730,
+      "num": 35489,
+      "word": "中美网友对账后有些人天塌了",
+      "onboard_time": 1737136994,
+      "rank": 30,
+      "category": "民生新闻,国际时政"
     },
     {
       "raw_hot": 39625,
@@ -18979,6 +18995,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 28240,
+      "num": 31312,
+      "word": "封神第二部西岐阵营见面会",
+      "onboard_time": 1737137593,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 28022,
       "num": 28022,
       "word": "登陆少年东方卫视应援",
@@ -19129,6 +19153,14 @@
       "onboard_time": 1736907617,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 25028,
+      "num": 31273,
+      "word": "官方通报火锅店员工在后厨小便",
+      "onboard_time": 1737131837,
+      "rank": 46,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 24949,
@@ -19555,6 +19587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 16036,
+      "num": 190811,
+      "word": "我国找矿又有重大突破",
+      "onboard_time": 1737122298,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15917,
       "num": 49826,
       "word": "朋友圈卖的千元肉毒素成本1块5",
@@ -19633,6 +19673,14 @@
       "onboard_time": 1736967431,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 14583,
+      "num": 39509,
+      "word": "俄罗斯驻华大使馆发布消费提示",
+      "onboard_time": 1737138432,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14576,

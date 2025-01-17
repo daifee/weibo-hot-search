@@ -1,6 +1,6 @@
 {
   "startTime": 1737131217967,
-  "endTime": 1737135493641,
+  "endTime": 1737138547781,
   "band_list": [
     {
       "raw_hot": 850511,
@@ -99,20 +99,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 253736,
+      "num": 253736,
+      "word": "美最高法支持政府对TikTok强迫出售令",
+      "onboard_time": 1737132436,
+      "rank": 8,
+      "category": "国际时政,互联网"
+    },
+    {
       "raw_hot": 210874,
       "num": 210874,
       "word": "王者蛇限皮肤主题公布",
       "onboard_time": 1737119899,
       "rank": 11,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 209958,
-      "num": 209958,
-      "word": "美最高法支持政府对TikTok强迫出售令",
-      "onboard_time": 1737132436,
-      "rank": 8,
-      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 204189,
@@ -435,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48161,
+      "num": 48161,
+      "word": "美国针对TikTok与华为的是一批人",
+      "onboard_time": 1737137233,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 47779,
       "num": 47779,
       "word": "苏菲玛索说只靠脸长久不了",
@@ -467,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39730,
+      "num": 35489,
+      "word": "中美网友对账后有些人天塌了",
+      "onboard_time": 1737136994,
+      "rank": 30,
+      "category": "民生新闻,国际时政"
+    },
+    {
       "raw_hot": 39625,
       "num": 39625,
       "word": "成毅剧组日常碎片",
@@ -481,6 +497,38 @@
       "onboard_time": 1737116058,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 28240,
+      "num": 31312,
+      "word": "封神第二部西岐阵营见面会",
+      "onboard_time": 1737137593,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 25028,
+      "num": 31273,
+      "word": "官方通报火锅店员工在后厨小便",
+      "onboard_time": 1737131837,
+      "rank": 46,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 16036,
+      "num": 190811,
+      "word": "我国找矿又有重大突破",
+      "onboard_time": 1737122298,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14583,
+      "num": 39509,
+      "word": "俄罗斯驻华大使馆发布消费提示",
+      "onboard_time": 1737138432,
+      "rank": 24,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
