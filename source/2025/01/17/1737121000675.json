@@ -1,0 +1,410 @@
+{
+  "runTime": 1737121000675,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1594269,
+        "num": 1594269,
+        "word": "台湾当归",
+        "onboard_time": 1737107839,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 750100,
+        "num": 750100,
+        "word": "本科毕业入伍不到1年立一等功",
+        "onboard_time": 1737105860,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 43862,
+        "num": 690178,
+        "word": "我国再次成功发射一箭三星",
+        "onboard_time": 1737097759,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 654864,
+        "num": 654864,
+        "word": "高铁上小孩吵闹男子一句话制服",
+        "onboard_time": 1737114918,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 504647,
+        "num": 504647,
+        "word": "王者蛇限皮肤主题公布",
+        "onboard_time": 1737119899,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 444972,
+        "num": 444972,
+        "word": "2025听到最恐怖的一句我爱你",
+        "onboard_time": 1737114859,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 417654,
+        "num": 417654,
+        "word": "国色芳华秦胜意是真正时代的产物",
+        "onboard_time": 1737112998,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 377816,
+        "num": 377816,
+        "word": "JDG花650万拍下状元签",
+        "onboard_time": 1737116058,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 363044,
+        "num": 363044,
+        "word": "陈垣宇vs张本智和",
+        "onboard_time": 1737119899,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110186,
+        "num": 343627,
+        "word": "报废旧车购买新能源车补贴2万元",
+        "onboard_time": 1737119780,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 427081,
+        "num": 340119,
+        "word": "马龙樊振东未能入选亚洲杯参赛阵容",
+        "onboard_time": 1737112459,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 336128,
+        "num": 336128,
+        "word": "耿爽说今天可以说得更直白一些",
+        "onboard_time": 1737106998,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 335261,
+        "num": 335261,
+        "word": "6名泰缅边境失联被困中国公民回国",
+        "onboard_time": 1737107958,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332959,
+        "num": 332959,
+        "word": "漂白",
+        "onboard_time": 1737115218,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310904,
+        "num": 310904,
+        "word": "王俊凯黄发蘑菇头",
+        "onboard_time": 1737116539,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 296065,
+        "num": 296065,
+        "word": "漂白第1集杀疯了",
+        "onboard_time": 1737119839,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273243,
+        "num": 273243,
+        "word": "人民网评大奉打更人",
+        "onboard_time": 1737101418,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257236,
+        "num": 257236,
+        "word": "王者荣耀",
+        "onboard_time": 1737118039,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 242542,
+        "num": 242542,
+        "word": "国家统一是不可阻挡的历史大势",
+        "onboard_time": 1737116778,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 237728,
+        "num": 237728,
+        "word": "最适合减脂期看的剧出现了",
+        "onboard_time": 1737114319,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 721445,
+        "num": 237239,
+        "word": "黄圣依有多讨厌直播",
+        "onboard_time": 1737109939,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259489,
+        "num": 235852,
+        "word": "王俊凯二搭刘德华",
+        "onboard_time": 1737108259,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 234053,
+        "num": 234053,
+        "word": "徐冬冬说120斤是很爽的体重",
+        "onboard_time": 1737116058,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231326,
+        "num": 231326,
+        "word": "陈垣宇4比2张本智和",
+        "onboard_time": 1737120798,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101324,
+        "num": 202198,
+        "word": "秦彻我们终会重逢",
+        "onboard_time": 1737119420,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200224,
+        "num": 200224,
+        "word": "小鬼央视春晚彩排路透",
+        "onboard_time": 1737120319,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195259,
+        "num": 195259,
+        "word": "再见爱人有完没完",
+        "onboard_time": 1737119659,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192176,
+        "num": 192176,
+        "word": "中美网友聊嗨了",
+        "onboard_time": 1737087678,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187920,
+        "num": 187920,
+        "word": "王楚钦领衔国乒亚洲杯男单名单",
+        "onboard_time": 1737120439,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178890,
+        "num": 178890,
+        "word": "王者未尽之器系列皮肤",
+        "onboard_time": 1737119899,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178861,
+        "num": 178861,
+        "word": "李昀锐累都写在眼睛上了",
+        "onboard_time": 1737114978,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178678,
+        "num": 178678,
+        "word": "姜子牙钻石夺宝皮肤",
+        "onboard_time": 1737120319,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174699,
+        "num": 174699,
+        "word": "近视眼化妆的真实现状",
+        "onboard_time": 1737112340,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 172444,
+        "num": 172444,
+        "word": "荣耀CEO赵明内网发告别文章",
+        "onboard_time": 1737108739,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 170980,
+        "num": 170980,
+        "word": "春晚第三次联排阵容",
+        "onboard_time": 1737118638,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169673,
+        "num": 169673,
+        "word": "白鹿三次央视春晚联排",
+        "onboard_time": 1737112218,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167541,
+        "num": 167541,
+        "word": "孙颖莎第一次出战亚洲杯",
+        "onboard_time": 1737119959,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159423,
+        "num": 159423,
+        "word": "周深的音响设备是世界顶级的",
+        "onboard_time": 1737118819,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158243,
+        "num": 158243,
+        "word": "王者少司缘伴生皮",
+        "onboard_time": 1737118759,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155516,
+        "num": 155516,
+        "word": "马琳称陈梦近期暂时不参加国际比赛",
+        "onboard_time": 1737120919,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150545,
+        "num": 150545,
+        "word": "吴谨言吊带黑长直",
+        "onboard_time": 1737105618,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143090,
+        "num": 143090,
+        "word": "无期迷途",
+        "onboard_time": 1737119659,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138483,
+        "num": 138483,
+        "word": "美甲",
+        "onboard_time": 1737107958,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 138267,
+        "num": 138267,
+        "word": "代露娃演技好细腻",
+        "onboard_time": 1737120198,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135156,
+        "num": 135156,
+        "word": "限时点券换云缨全新传说皮肤",
+        "onboard_time": 1737117559,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124720,
+        "num": 124720,
+        "word": "秦彻英国爱丁堡",
+        "onboard_time": 1737113838,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113131,
+        "num": 113131,
+        "word": "大熊猫也是闯进非遗皮影戏赛道了",
+        "onboard_time": 1737119780,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111869,
+        "num": 111869,
+        "word": "祁煜潮间带",
+        "onboard_time": 1737115698,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108442,
+        "num": 108442,
+        "word": "石洵瑶4比0蒯曼",
+        "onboard_time": 1737117859,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107717,
+        "num": 107717,
+        "word": "翥光九野入月之怀",
+        "onboard_time": 1737120198,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}
