@@ -1,10 +1,10 @@
 {
   "startTime": 1737044847648,
-  "endTime": 1737081987610,
+  "endTime": 1737082634968,
   "band_list": [
     {
-      "raw_hot": 1500084,
-      "num": 1500084,
+      "raw_hot": 2096535,
+      "num": 2096535,
       "word": "鹿哈向女友求婚成功",
       "onboard_time": 1737077537,
       "rank": 24,
@@ -27,6 +27,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1223305,
+      "num": 1223305,
+      "word": "全国人口减少139万人",
+      "onboard_time": 1737081558,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1121939,
       "num": 256203,
       "word": "支付宝说错了就会承担",
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1070708,
-      "num": 203202,
+      "num": 229415,
       "word": "因吵架妻子胎停丈夫崩溃大哭",
       "onboard_time": 1737074179,
       "rank": 20,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 477449,
-      "num": 202468,
+      "num": 228933,
       "word": "陈冠希人肉素人老婆",
       "onboard_time": 1737030318,
       "rank": 20,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 435883,
-      "num": 190637,
+      "num": 195312,
       "word": "生化和流产的区别",
       "onboard_time": 1737073939,
       "rank": 23,
@@ -145,6 +153,14 @@
       "onboard_time": 1737069375,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 393576,
+      "num": 393576,
+      "word": "女子和丈夫养100只鸵鸟做鸵鸟吃播",
+      "onboard_time": 1737080418,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 374275,
@@ -163,12 +179,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 337696,
+      "num": 337696,
+      "word": "2024年中国GDP同比增长5%",
+      "onboard_time": 1737080298,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 325270,
       "num": 325270,
       "word": "泰国预计春节期间近77万中国游客将入境",
       "onboard_time": 1737070095,
       "rank": 38,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 320923,
+      "num": 230415,
+      "word": "徐冬冬沙滩照身材",
+      "onboard_time": 1737081798,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 316233,
@@ -203,24 +235,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 291021,
-      "num": 291021,
-      "word": "全国人口减少139万人",
-      "onboard_time": 1737081558,
-      "rank": 5,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 288792,
-      "num": 288792,
-      "word": "2024年中国GDP同比增长5%",
-      "onboard_time": 1737080298,
-      "rank": 6,
-      "category": "国内时政"
+      "raw_hot": 286549,
+      "num": 286549,
+      "word": "这些春晚歌曲拉满过年氛围感",
+      "onboard_time": 1737078857,
+      "rank": 19,
+      "category": "正能量"
     },
     {
       "raw_hot": 285575,
-      "num": 201559,
+      "num": 228514,
       "word": "李子柒这数据太卷了",
       "onboard_time": 1737077717,
       "rank": 27,
@@ -235,28 +259,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 263156,
-      "num": 255566,
-      "word": "女子和丈夫养100只鸵鸟做鸵鸟吃播",
-      "onboard_time": 1737080418,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 256323,
       "num": 256323,
       "word": "除夕10天倒计时",
       "onboard_time": 1737070095,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 255465,
-      "num": 255465,
-      "word": "这些春晚歌曲拉满过年氛围感",
-      "onboard_time": 1737078857,
-      "rank": 19,
-      "category": "正能量"
     },
     {
       "raw_hot": 254746,
@@ -291,8 +299,16 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 223926,
-      "num": 201151,
+      "raw_hot": 231385,
+      "num": 231385,
+      "word": "李昀锐出发米兰时装周",
+      "onboard_time": 1737082399,
+      "rank": 14,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 228409,
+      "num": 228409,
       "word": "女子鼻骨骨折消肿后喜提高鼻梁",
       "onboard_time": 1737076457,
       "rank": 39,
@@ -323,12 +339,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207544,
+      "num": 230040,
+      "word": "千手观音20年她换个身份再上春晚",
+      "onboard_time": 1737081498,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195148,
       "num": 195148,
       "word": "任天堂Switch2公开",
       "onboard_time": 1737035180,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 185630,
+      "num": 198816,
+      "word": "田馥甄谈冻卵生子",
+      "onboard_time": 1737082338,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 182564,
@@ -353,6 +385,14 @@
       "onboard_time": 1737043279,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181276,
+      "num": 229831,
+      "word": "声生不息",
+      "onboard_time": 1737081558,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 172093,
@@ -380,7 +420,7 @@
     },
     {
       "raw_hot": 170728,
-      "num": 119181,
+      "num": 119272,
       "word": "女子怀孕找不到月嫂给婆婆报培训班",
       "onboard_time": 1737032720,
       "rank": 26,
@@ -441,14 +481,6 @@
       "onboard_time": 1737044657,
       "rank": 19,
       "category": "民生新闻,数码"
-    },
-    {
-      "raw_hot": 155096,
-      "num": 205120,
-      "word": "声生不息",
-      "onboard_time": 1737081558,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 148006,
@@ -531,14 +563,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 133903,
-      "num": 133903,
-      "word": "徐冬冬沙滩照身材",
-      "onboard_time": 1737081798,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 132821,
       "num": 132821,
       "word": "苹果回应iOS18一直截图越来越红",
@@ -580,19 +604,11 @@
     },
     {
       "raw_hot": 125271,
-      "num": 125271,
+      "num": 198565,
       "word": "2025第1个月已过半",
       "onboard_time": 1737080418,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124393,
-      "num": 192200,
-      "word": "千手观音20年她换个身份再上春晚",
-      "onboard_time": 1737081498,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 121993,
@@ -601,6 +617,14 @@
       "onboard_time": 1737074238,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 120406,
+      "num": 198633,
+      "word": "白月梵星慕九下线 好哭",
+      "onboard_time": 1737081677,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 118726,
@@ -723,14 +747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103200,
-      "num": 103200,
-      "word": "白月梵星慕九下线 好哭",
-      "onboard_time": 1737081677,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 102868,
       "num": 102868,
       "word": "檀健次造谣者道歉",
@@ -745,6 +761,14 @@
       "onboard_time": 1737039260,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100377,
+      "num": 100377,
+      "word": "淘汰郑钦文的选手出局了",
+      "onboard_time": 1737082459,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 99815,
@@ -795,6 +819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86889,
+      "num": 221393,
+      "word": "启蒙教练说樊振东对兵乓球真的太爱了",
+      "onboard_time": 1737081437,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86801,
       "num": 86801,
       "word": "锦囊妙录又怎么了我的大小姐",
@@ -803,12 +835,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 83878,
-      "num": 200582,
-      "word": "启蒙教练说樊振东对兵乓球真的太爱了",
-      "onboard_time": 1737081437,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 86287,
+      "num": 86287,
+      "word": "红山动物园考拉茉莉因白血病去世",
+      "onboard_time": 1737082279,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83496,
@@ -1068,7 +1100,7 @@
     },
     {
       "raw_hot": 28968,
-      "num": 462118,
+      "num": 536640,
       "word": "当非遗项目遇上首个非遗春节",
       "onboard_time": 1737036741,
       "rank": 2,
