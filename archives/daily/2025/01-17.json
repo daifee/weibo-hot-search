@@ -1,6 +1,6 @@
 {
   "startTime": 1737044847648,
-  "endTime": 1737095409119,
+  "endTime": 1737096194984,
   "band_list": [
     {
       "raw_hot": 2842832,
@@ -235,8 +235,8 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 520023,
-      "num": 520023,
+      "raw_hot": 528495,
+      "num": 528495,
       "word": "男孩未完成作业被批评举报父亲藏罂粟壳",
       "onboard_time": 1737090378,
       "rank": 38,
@@ -299,20 +299,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 474451,
+      "num": 474451,
+      "word": "国色芳华好讽刺的一句话",
+      "onboard_time": 1737090859,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 453872,
+      "num": 453872,
+      "word": "挖出一个藏在缅甸贩运人口的犯罪集团",
+      "onboard_time": 1737090918,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 453685,
       "num": 453685,
       "word": "近期将恢复福建上海居民赴台团队游",
       "onboard_time": 1737076697,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 444940,
-      "num": 444940,
-      "word": "挖出一个藏在缅甸贩运人口的犯罪集团",
-      "onboard_time": 1737090918,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 435883,
@@ -347,14 +355,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 408207,
-      "num": 408207,
-      "word": "国色芳华好讽刺的一句话",
-      "onboard_time": 1737090859,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 398586,
       "num": 398586,
       "word": "李现三年三部湖南卫视上星剧",
@@ -384,6 +384,14 @@
       "word": "青岛女子在日本买下70万平米小岛",
       "onboard_time": 1737037460,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 326161,
+      "num": 326161,
+      "word": "以旧换新补贴家电新增4类产品",
+      "onboard_time": 1737094999,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -475,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 277117,
+      "num": 277117,
+      "word": "山东省考成绩",
+      "onboard_time": 1737094519,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 274713,
       "num": 274713,
       "word": "贾玲终极梦想是拍情景喜剧",
@@ -531,14 +547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 254054,
-      "num": 254054,
-      "word": "以旧换新补贴家电新增4类产品",
-      "onboard_time": 1737094999,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 252711,
       "num": 240586,
       "word": "马龙不语只是一味地帅",
@@ -569,6 +577,14 @@
       "onboard_time": 1737093079,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 240251,
+      "num": 240251,
+      "word": "千万不要给老外看甄嬛传",
+      "onboard_time": 1737092779,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 235043,
@@ -651,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206965,
+      "num": 206965,
+      "word": "荣耀赵明辞职",
+      "onboard_time": 1737095358,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 205993,
       "num": 205993,
       "word": "理肤泉",
@@ -665,6 +689,14 @@
       "onboard_time": 1737090738,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196048,
+      "num": 222095,
+      "word": "时代少年团现场彩排图送达",
+      "onboard_time": 1737094938,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 195255,
@@ -697,14 +729,6 @@
       "onboard_time": 1737090318,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 188952,
-      "num": 188952,
-      "word": "山东省考成绩",
-      "onboard_time": 1737094519,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 187541,
@@ -851,6 +875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 166332,
+      "num": 166332,
+      "word": "井胧井迪心眼子都使在对方身上了",
+      "onboard_time": 1737096017,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164246,
       "num": 164246,
       "word": "无名之辈23王俊凯镜头",
@@ -883,12 +915,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 160267,
-      "num": 222095,
-      "word": "时代少年团现场彩排图送达",
-      "onboard_time": 1737094938,
-      "rank": 19,
-      "category": "演出"
+      "raw_hot": 159742,
+      "num": 171847,
+      "word": "卷王徐克也是被肖战卷到了",
+      "onboard_time": 1737093017,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 157207,
@@ -915,6 +947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153387,
+      "num": 153387,
+      "word": "养了40年的蜡烛居然如此壮观",
+      "onboard_time": 1737094159,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150718,
       "num": 202192,
       "word": "杨超越电影无名之辈2出场镜头",
@@ -929,6 +969,14 @@
       "onboard_time": 1737092300,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 148290,
+      "num": 254844,
+      "word": "我国2024年出生954万人",
+      "onboard_time": 1737089239,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148006,
@@ -955,12 +1003,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 145710,
-      "num": 145710,
-      "word": "千万不要给老外看甄嬛传",
-      "onboard_time": 1737092779,
-      "rank": 35,
-      "category": "剧集"
+      "raw_hot": 145955,
+      "num": 144468,
+      "word": "张艺兴央视蛇年春晚第三次联排",
+      "onboard_time": 1737095598,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 145423,
@@ -977,22 +1025,6 @@
       "onboard_time": 1737075077,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 144036,
-      "num": 144036,
-      "word": "卷王徐克也是被肖战卷到了",
-      "onboard_time": 1737093017,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 143365,
-      "num": 143365,
-      "word": "养了40年的蜡烛居然如此壮观",
-      "onboard_time": 1737094159,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 141592,
@@ -1017,6 +1049,14 @@
       "onboard_time": 1737071657,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 141389,
+      "num": 141389,
+      "word": "拜登计划把烫手山芋留给特朗普",
+      "onboard_time": 1737095358,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 139446,
@@ -1121,6 +1161,14 @@
       "onboard_time": 1737080838,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 125671,
+      "num": 125671,
+      "word": "国防部新春祝福",
+      "onboard_time": 1737095418,
+      "rank": 40,
+      "category": "正能量"
     },
     {
       "raw_hot": 125617,
@@ -1243,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114440,
+      "num": 114440,
+      "word": "张雅钦眼中是泪口中是刀",
+      "onboard_time": 1737095479,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113838,
       "num": 113838,
       "word": "金晨希腊女神",
@@ -1281,14 +1337,6 @@
       "onboard_time": 1737083958,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 111441,
-      "num": 254844,
-      "word": "我国2024年出生954万人",
-      "onboard_time": 1737089239,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111312,
@@ -1403,14 +1451,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 103224,
-      "num": 103224,
-      "word": "荣耀赵明辞职",
-      "onboard_time": 1737095358,
-      "rank": 47,
-      "category": "数码"
-    },
-    {
       "raw_hot": 102868,
       "num": 102868,
       "word": "檀健次造谣者道歉",
@@ -1433,14 +1473,6 @@
       "onboard_time": 1737095118,
       "rank": 48,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 99915,
-      "num": 99915,
-      "word": "拜登计划把烫手山芋留给特朗普",
-      "onboard_time": 1737095358,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 99815,
