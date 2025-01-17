@@ -1,6 +1,6 @@
 {
   "startTime": 1737044847648,
-  "endTime": 1737123607847,
+  "endTime": 1737124697122,
   "band_list": [
     {
       "raw_hot": 2842832,
@@ -67,6 +67,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1122708,
+      "num": 1122708,
+      "word": "漂白第1集杀疯了",
+      "onboard_time": 1737119839,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1121939,
       "num": 256203,
       "word": "支付宝说错了就会承担",
@@ -89,14 +97,6 @@
       "onboard_time": 1737074179,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1020311,
-      "num": 1020311,
-      "word": "漂白第1集杀疯了",
-      "onboard_time": 1737119839,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 961508,
@@ -307,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 596171,
+      "num": 596171,
+      "word": "辽宁朝阳一女神形象花灯引争议",
+      "onboard_time": 1737122118,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 594669,
       "num": 326919,
       "word": "TikTok禁令将交由特朗普决定",
@@ -451,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 458219,
+      "num": 458219,
+      "word": "春晚第三次联排阵容",
+      "onboard_time": 1737118638,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 453872,
       "num": 453872,
       "word": "挖出一个藏在缅甸贩运人口的犯罪集团",
@@ -489,14 +505,6 @@
       "onboard_time": 1737115218,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 443129,
-      "num": 443129,
-      "word": "春晚第三次联排阵容",
-      "onboard_time": 1737118638,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 437573,
@@ -843,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284441,
+      "num": 284441,
+      "word": "徐志胜周一围朱丹这两口子太吓人了",
+      "onboard_time": 1737121999,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283191,
       "num": 283191,
       "word": "王毅表态绝不允许犯罪分子逍遥法外",
@@ -873,6 +889,14 @@
       "onboard_time": 1737094519,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 274821,
+      "num": 274821,
+      "word": "震区小女孩体验洗浴车直呼好舒服",
+      "onboard_time": 1737121639,
+      "rank": 19,
+      "category": "正能量"
     },
     {
       "raw_hot": 274713,
@@ -979,14 +1003,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 252782,
-      "num": 252782,
-      "word": "徐志胜周一围朱丹这两口子太吓人了",
-      "onboard_time": 1737121999,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 252711,
       "num": 240586,
       "word": "马龙不语只是一味地帅",
@@ -1041,14 +1057,6 @@
       "onboard_time": 1737071237,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 232869,
-      "num": 360453,
-      "word": "辽宁朝阳一女神形象花灯引争议",
-      "onboard_time": 1737122118,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 228409,
@@ -1129,14 +1137,6 @@
       "onboard_time": 1737082338,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 213225,
-      "num": 213225,
-      "word": "震区小女孩体验洗浴车直呼好舒服",
-      "onboard_time": 1737121639,
-      "rank": 19,
-      "category": "正能量"
     },
     {
       "raw_hot": 212593,
@@ -1251,12 +1251,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 192076,
+      "num": 192076,
+      "word": "周深的音响设备是世界顶级的",
+      "onboard_time": 1737118819,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 188310,
       "num": 188310,
       "word": "祁煜潮间带",
       "onboard_time": 1737115698,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 187982,
+      "num": 165430,
+      "word": "曾黎白开水妆容",
+      "onboard_time": 1737123678,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 187920,
@@ -1281,14 +1297,6 @@
       "onboard_time": 1737089539,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 187161,
-      "num": 187161,
-      "word": "周深的音响设备是世界顶级的",
-      "onboard_time": 1737118819,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 185953,
@@ -1457,6 +1465,14 @@
       "onboard_time": 1737072679,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 170157,
+      "num": 164488,
+      "word": "彭小苒领衔主演明月苍茫杀青",
+      "onboard_time": 1737124099,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 169705,
@@ -1707,6 +1723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147268,
+      "num": 279353,
+      "word": "加州一发电厂爆炸起火释放大量毒气",
+      "onboard_time": 1737121578,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 147115,
       "num": 241811,
       "word": "尹锡悦的请求没有道理予以驳回",
@@ -1784,14 +1808,6 @@
       "word": "SpaceX星舰进行第七次试飞",
       "onboard_time": 1737069375,
       "rank": 13,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 139381,
-      "num": 139381,
-      "word": "加州一发电厂爆炸起火释放大量毒气",
-      "onboard_time": 1737121578,
-      "rank": 32,
       "category": "海外新闻"
     },
     {
@@ -1979,6 +1995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125802,
+      "num": 125802,
+      "word": "俄大使馆回应假冒俄罗斯商品事件",
+      "onboard_time": 1737123979,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125720,
       "num": 125720,
       "word": "短剧导演编剧岗平均月薪过万",
@@ -2048,6 +2072,14 @@
       "word": "娜扎没有技巧就是硬飒",
       "onboard_time": 1737091998,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 122882,
+      "num": 122882,
+      "word": "漂白干中学",
+      "onboard_time": 1737123799,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -2227,6 +2259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117000,
+      "num": 117000,
+      "word": "敖瑞鹏梵樾一滴泪",
+      "onboard_time": 1737123921,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116967,
       "num": 116967,
       "word": "唐香玉不语只一味衣锦还乡",
@@ -2305,6 +2345,14 @@
       "onboard_time": 1737119780,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112652,
+      "num": 112652,
+      "word": "班主任你快从庞博身上下来啊",
+      "onboard_time": 1737124159,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 112152,
@@ -2451,6 +2499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 108708,
+      "num": 858792,
+      "word": "中国游全球圈粉",
+      "onboard_time": 1737122420,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108649,
       "num": 108649,
       "word": "第一批回家过年的人现状",
@@ -2555,6 +2611,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 102960,
+      "num": 102960,
+      "word": "西藏震区小朋友洗上热水澡了",
+      "onboard_time": 1737124219,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102868,
       "num": 102868,
       "word": "檀健次造谣者道歉",
@@ -2595,6 +2659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101671,
+      "num": 101671,
+      "word": "何炅剧透大侦探",
+      "onboard_time": 1737123860,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101597,
       "num": 101597,
       "word": "拜登告别演讲称必须让社交平台担责",
@@ -2625,6 +2697,14 @@
       "onboard_time": 1737109998,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 100543,
+      "num": 100543,
+      "word": "王源古装扮相",
+      "onboard_time": 1737124399,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 100451,
@@ -2739,6 +2819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95484,
+      "num": 95484,
+      "word": "春节成为非遗后年味会变重吗",
+      "onboard_time": 1737124459,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94788,
       "num": 94788,
       "word": "林子烨我不是戏神cos",
@@ -2777,6 +2865,14 @@
       "onboard_time": 1737123139,
       "rank": 49,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 91770,
+      "num": 91770,
+      "word": "再见爱人回门之后再回门",
+      "onboard_time": 1737124578,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 91595,
@@ -2921,14 +3017,6 @@
       "onboard_time": 1737024858,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 79772,
-      "num": 744894,
-      "word": "中国游全球圈粉",
-      "onboard_time": 1737122420,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 78112,
@@ -3097,6 +3185,14 @@
       "onboard_time": 1737058331,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 45216,
+      "num": 141645,
+      "word": "文旅局回应朝阳女神花灯形象争议",
+      "onboard_time": 1737124640,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44413,

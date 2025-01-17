@@ -1,0 +1,410 @@
+{
+  "runTime": 1737124697122,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1306724,
+        "num": 1306724,
+        "word": "台湾当归",
+        "onboard_time": 1737107839,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1122708,
+        "num": 1122708,
+        "word": "漂白第1集杀疯了",
+        "onboard_time": 1737119839,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108708,
+        "num": 858792,
+        "word": "中国游全球圈粉",
+        "onboard_time": 1737122420,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 596171,
+        "num": 596171,
+        "word": "辽宁朝阳一女神形象花灯引争议",
+        "onboard_time": 1737122118,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 593554,
+        "num": 593554,
+        "word": "本科毕业入伍不到1年立一等功",
+        "onboard_time": 1737105860,
+        "rank": 4,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 558284,
+        "num": 558284,
+        "word": "再见爱人有完没完",
+        "onboard_time": 1737119659,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 495418,
+        "num": 495418,
+        "word": "王者蛇限皮肤主题公布",
+        "onboard_time": 1737119899,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 458219,
+        "num": 458219,
+        "word": "春晚第三次联排阵容",
+        "onboard_time": 1737118638,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 425233,
+        "num": 425233,
+        "word": "陈垣宇4比2张本智和",
+        "onboard_time": 1737120798,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 393137,
+        "num": 393137,
+        "word": "高铁上小孩吵闹男子一句话制服",
+        "onboard_time": 1737114918,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324517,
+        "num": 324517,
+        "word": "耿爽说今天可以说得更直白一些",
+        "onboard_time": 1737106998,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 296886,
+        "num": 296886,
+        "word": "6名泰缅边境失联被困中国公民回国",
+        "onboard_time": 1737107958,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284441,
+        "num": 284441,
+        "word": "徐志胜周一围朱丹这两口子太吓人了",
+        "onboard_time": 1737121999,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147268,
+        "num": 279353,
+        "word": "加州一发电厂爆炸起火释放大量毒气",
+        "onboard_time": 1737121578,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 278669,
+        "num": 278669,
+        "word": "漂白",
+        "onboard_time": 1737115218,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274821,
+        "num": 274821,
+        "word": "震区小女孩体验洗浴车直呼好舒服",
+        "onboard_time": 1737121639,
+        "rank": 15,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 270810,
+        "num": 270810,
+        "word": "国色芳华秦胜意是真正时代的产物",
+        "onboard_time": 1737112998,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217714,
+        "num": 217714,
+        "word": "王俊凯黄发蘑菇头",
+        "onboard_time": 1737116539,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192076,
+        "num": 192076,
+        "word": "周深的音响设备是世界顶级的",
+        "onboard_time": 1737118819,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166678,
+        "num": 166678,
+        "word": "JDG花650万拍下状元签",
+        "onboard_time": 1737116058,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 593297,
+        "num": 166536,
+        "word": "黄圣依有多讨厌直播",
+        "onboard_time": 1737109939,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227139,
+        "num": 166194,
+        "word": "美甲",
+        "onboard_time": 1737107958,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 187982,
+        "num": 165430,
+        "word": "曾黎白开水妆容",
+        "onboard_time": 1737123678,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179187,
+        "num": 164989,
+        "word": "近视眼化妆的真实现状",
+        "onboard_time": 1737112340,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 170157,
+        "num": 164488,
+        "word": "彭小苒领衔主演明月苍茫杀青",
+        "onboard_time": 1737124099,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167210,
+        "num": 163839,
+        "word": "徐冬冬说120斤是很爽的体重",
+        "onboard_time": 1737116058,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163781,
+        "num": 163781,
+        "word": "王俊凯二搭刘德华",
+        "onboard_time": 1737108259,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156845,
+        "num": 156845,
+        "word": "2025听到最恐怖的一句我爱你",
+        "onboard_time": 1737114859,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155945,
+        "num": 155945,
+        "word": "人民网评大奉打更人",
+        "onboard_time": 1737101418,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45216,
+        "num": 141645,
+        "word": "文旅局回应朝阳女神花灯形象争议",
+        "onboard_time": 1737124640,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134491,
+        "num": 134491,
+        "word": "代露娃演技好细腻",
+        "onboard_time": 1737120198,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133225,
+        "num": 133225,
+        "word": "国家统一是不可阻挡的历史大势",
+        "onboard_time": 1737116778,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131076,
+        "num": 131076,
+        "word": "马琳称陈梦近期暂时不参加国际比赛",
+        "onboard_time": 1737120919,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125802,
+        "num": 125802,
+        "word": "俄大使馆回应假冒俄罗斯商品事件",
+        "onboard_time": 1737123979,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122882,
+        "num": 122882,
+        "word": "漂白干中学",
+        "onboard_time": 1737123799,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121568,
+        "num": 121568,
+        "word": "李昀锐累都写在眼睛上了",
+        "onboard_time": 1737114978,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120765,
+        "num": 120765,
+        "word": "荣耀CEO赵明内网发告别文章",
+        "onboard_time": 1737108739,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117000,
+        "num": 117000,
+        "word": "敖瑞鹏梵樾一滴泪",
+        "onboard_time": 1737123921,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113142,
+        "num": 113142,
+        "word": "中美网友聊嗨了",
+        "onboard_time": 1737087678,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112652,
+        "num": 112652,
+        "word": "班主任你快从庞博身上下来啊",
+        "onboard_time": 1737124159,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102960,
+        "num": 102960,
+        "word": "西藏震区小朋友洗上热水澡了",
+        "onboard_time": 1737124219,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101671,
+        "num": 101671,
+        "word": "何炅剧透大侦探",
+        "onboard_time": 1737123860,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100543,
+        "num": 100543,
+        "word": "王源古装扮相",
+        "onboard_time": 1737124399,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97524,
+        "num": 97524,
+        "word": "白鹿三次央视春晚联排",
+        "onboard_time": 1737112218,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227016,
+        "num": 96652,
+        "word": "马龙樊振东未能入选亚洲杯参赛阵容",
+        "onboard_time": 1737112459,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95484,
+        "num": 95484,
+        "word": "春节成为非遗后年味会变重吗",
+        "onboard_time": 1737124459,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93023,
+        "num": 93023,
+        "word": "吴谨言吊带黑长直",
+        "onboard_time": 1737105618,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 94724,
+        "num": 92788,
+        "word": "小鬼央视春晚彩排路透",
+        "onboard_time": 1737120319,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91770,
+        "num": 91770,
+        "word": "再见爱人回门之后再回门",
+        "onboard_time": 1737124578,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90066,
+        "num": 90066,
+        "word": "最适合减脂期看的剧出现了",
+        "onboard_time": 1737114319,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展冰雪产业丰富群众冰雪赛事活动#"
+    }
+  }
+}
