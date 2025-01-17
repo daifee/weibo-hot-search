@@ -1,14 +1,22 @@
 {
   "startTime": 1737044847648,
-  "endTime": 1737082634968,
+  "endTime": 1737084291384,
   "band_list": [
     {
-      "raw_hot": 2096535,
-      "num": 2096535,
+      "raw_hot": 2648746,
+      "num": 2648746,
       "word": "鹿哈向女友求婚成功",
       "onboard_time": 1737077537,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2240831,
+      "num": 2240831,
+      "word": "全国人口减少139万人",
+      "onboard_time": 1737081558,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1446923,
@@ -25,14 +33,6 @@
       "onboard_time": 1737038179,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1223305,
-      "num": 1223305,
-      "word": "全国人口减少139万人",
-      "onboard_time": 1737081558,
-      "rank": 5,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1121939,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 893355,
-      "num": 256091,
+      "num": 263080,
       "word": "D社曝金敏喜怀孕",
       "onboard_time": 1737078137,
       "rank": 10,
@@ -91,12 +91,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 632096,
+      "num": 265519,
+      "word": "徐冬冬沙滩照身材",
+      "onboard_time": 1737081798,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 628044,
       "num": 161727,
       "word": "蚂蚁集团回应支付宝重大事故",
       "onboard_time": 1737039500,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 591591,
+      "num": 591591,
+      "word": "电影无名之辈 2",
+      "onboard_time": 1737083119,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 541083,
@@ -107,8 +123,16 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 519078,
+      "num": 519078,
+      "word": "女子和丈夫养100只鸵鸟做鸵鸟吃播",
+      "onboard_time": 1737080418,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 518123,
-      "num": 255742,
+      "num": 261883,
       "word": "秦霄贤好友怒怼辛雨锡",
       "onboard_time": 1737079337,
       "rank": 13,
@@ -155,14 +179,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 393576,
-      "num": 393576,
-      "word": "女子和丈夫养100只鸵鸟做鸵鸟吃播",
-      "onboard_time": 1737080418,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 374275,
       "num": 237648,
       "word": "知情人士称拜登将不执行TikTok禁令",
@@ -195,12 +211,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 320923,
-      "num": 230415,
-      "word": "徐冬冬沙滩照身材",
-      "onboard_time": 1737081798,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 317268,
+      "num": 307060,
+      "word": "嘘国王在冬眠",
+      "onboard_time": 1737083839,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 316233,
@@ -225,6 +241,14 @@
       "onboard_time": 1737069375,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 308666,
+      "num": 308666,
+      "word": "2024国民经济运行情况",
+      "onboard_time": 1737080116,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 299566,
@@ -259,6 +283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 265541,
+      "num": 265541,
+      "word": "李昀锐出发米兰时装周",
+      "onboard_time": 1737082399,
+      "rank": 14,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 256323,
       "num": 256323,
       "word": "除夕10天倒计时",
@@ -283,6 +315,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 245535,
+      "num": 264233,
+      "word": "2024年出生人口回升",
+      "onboard_time": 1737083418,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 235043,
       "num": 235043,
       "word": "白鹿也在嗑代露娃常华森",
@@ -291,28 +331,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 233831,
-      "num": 255880,
-      "word": "2024国民经济运行情况",
-      "onboard_time": 1737080116,
-      "rank": 12,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 231385,
-      "num": 231385,
-      "word": "李昀锐出发米兰时装周",
-      "onboard_time": 1737082399,
-      "rank": 14,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 228409,
       "num": 228409,
       "word": "女子鼻骨骨折消肿后喜提高鼻梁",
       "onboard_time": 1737076457,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227127,
+      "num": 227127,
+      "word": "SM现役女团合照",
+      "onboard_time": 1737082697,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 224028,
+      "num": 230040,
+      "word": "千手观音20年她换个身份再上春晚",
+      "onboard_time": 1737081498,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 218227,
@@ -331,6 +371,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 213948,
+      "num": 213948,
+      "word": "田馥甄谈冻卵生子",
+      "onboard_time": 1737082338,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209246,
       "num": 209246,
       "word": "景德镇车祸家属质疑肇事方养老赎罪",
@@ -339,28 +387,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 207544,
-      "num": 230040,
-      "word": "千手观音20年她换个身份再上春晚",
-      "onboard_time": 1737081498,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 195148,
       "num": 195148,
       "word": "任天堂Switch2公开",
       "onboard_time": 1737035180,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 185630,
-      "num": 198816,
-      "word": "田馥甄谈冻卵生子",
-      "onboard_time": 1737082338,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 182564,
@@ -420,7 +452,7 @@
     },
     {
       "raw_hot": 170728,
-      "num": 119272,
+      "num": 121489,
       "word": "女子怀孕找不到月嫂给婆婆报培训班",
       "onboard_time": 1737032720,
       "rank": 26,
@@ -449,6 +481,14 @@
       "onboard_time": 1737039020,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161662,
+      "num": 216104,
+      "word": "YG结束演员业务",
+      "onboard_time": 1737083718,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 161020,
@@ -579,6 +619,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 128460,
+      "num": 128460,
+      "word": "鲁豫二度专访贾玲",
+      "onboard_time": 1737082879,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127253,
       "num": 127253,
       "word": "知情人谈支付宝重大bug事故",
@@ -617,6 +665,14 @@
       "onboard_time": 1737074238,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 120443,
+      "num": 120443,
+      "word": "百部漫画年夜饭提前上桌",
+      "onboard_time": 1737083778,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 120406,
@@ -691,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110356,
+      "num": 207293,
+      "word": "淘汰郑钦文的选手出局了",
+      "onboard_time": 1737082459,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109686,
       "num": 109686,
       "word": "红山动物园茉莉宝宝去考拉星了",
@@ -747,6 +811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104571,
+      "num": 104571,
+      "word": "babymonster新MV",
+      "onboard_time": 1737083659,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 102868,
       "num": 102868,
       "word": "檀健次造谣者道歉",
@@ -761,14 +833,6 @@
       "onboard_time": 1737039260,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 100377,
-      "num": 100377,
-      "word": "淘汰郑钦文的选手出局了",
-      "onboard_time": 1737082459,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 99815,
@@ -787,6 +851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 99327,
+      "num": 99327,
+      "word": "五福临门",
+      "onboard_time": 1737083958,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96427,
       "num": 96427,
       "word": "张雅钦探班杨紫",
@@ -801,6 +873,14 @@
       "onboard_time": 1737051552,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93326,
+      "num": 93326,
+      "word": "听障演员同步表演整场春晚",
+      "onboard_time": 1737080116,
+      "rank": 45,
+      "category": "正能量"
     },
     {
       "raw_hot": 91595,
@@ -841,6 +921,14 @@
       "onboard_time": 1737082279,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84885,
+      "num": 84885,
+      "word": "越剧演员陈丽君在人民日报撰文",
+      "onboard_time": 1737084198,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 83496,
@@ -1100,7 +1188,7 @@
     },
     {
       "raw_hot": 28968,
-      "num": 536640,
+      "num": 742243,
       "word": "当非遗项目遇上首个非遗春节",
       "onboard_time": 1737036741,
       "rank": 2,

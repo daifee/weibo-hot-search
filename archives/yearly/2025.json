@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737082634968,
+  "endTime": 1737084291384,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -619,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2648746,
+      "num": 2648746,
+      "word": "鹿哈向女友求婚成功",
+      "onboard_time": 1737077537,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 2638754,
       "num": 2638754,
       "word": "尹锡悦被逮捕",
@@ -875,6 +883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2240831,
+      "num": 2240831,
+      "word": "全国人口减少139万人",
+      "onboard_time": 1737081558,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 2227116,
       "num": 891572,
       "word": "外国网红猫女去世",
@@ -1033,14 +1049,6 @@
       "onboard_time": 1736072426,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2096535,
-      "num": 2096535,
-      "word": "鹿哈向女友求婚成功",
-      "onboard_time": 1737077537,
-      "rank": 24,
-      "category": "网红"
     },
     {
       "raw_hot": 2086857,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736397143,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1406006,
-      "num": 1406006,
-      "word": "腾讯2025第一部破30000剧集",
-      "onboard_time": 1736653578,
-      "rank": 1,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
