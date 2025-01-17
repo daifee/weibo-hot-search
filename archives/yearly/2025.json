@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737109373405,
+  "endTime": 1737110411880,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -777,6 +777,14 @@
       "onboard_time": 1736741478,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2404159,
+      "num": 2404159,
+      "word": "台湾当归",
+      "onboard_time": 1737107839,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2402372,
@@ -1953,14 +1961,6 @@
       "onboard_time": 1736957357,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1580248,
-      "num": 1580248,
-      "word": "台湾当归",
-      "onboard_time": 1737107839,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1575211,

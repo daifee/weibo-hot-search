@@ -1,6 +1,6 @@
 {
   "startTime": 1737044847648,
-  "endTime": 1737109373405,
+  "endTime": 1737110411880,
   "band_list": [
     {
       "raw_hot": 2842832,
@@ -19,6 +19,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 2404159,
+      "num": 2404159,
+      "word": "台湾当归",
+      "onboard_time": 1737107839,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 2254003,
       "num": 2254003,
       "word": "全国人口减少139万人",
@@ -33,14 +41,6 @@
       "onboard_time": 1737105860,
       "rank": 24,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 1580248,
-      "num": 1580248,
-      "word": "台湾当归",
-      "onboard_time": 1737107839,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1446923,
@@ -137,6 +137,14 @@
       "onboard_time": 1737098719,
       "rank": 8,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 852005,
+      "num": 852005,
+      "word": "耿爽说今天可以说得更直白一些",
+      "onboard_time": 1737106998,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 827047,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 594669,
-      "num": 305575,
+      "num": 326919,
       "word": "TikTok禁令将交由特朗普决定",
       "onboard_time": 1737103218,
       "rank": 10,
@@ -443,6 +451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 405437,
+      "num": 405437,
+      "word": "荣耀CEO赵明内网发告别文章",
+      "onboard_time": 1737108739,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 398586,
       "num": 398586,
       "word": "李现三年三部湖南卫视上星剧",
@@ -492,7 +508,7 @@
     },
     {
       "raw_hot": 360400,
-      "num": 236874,
+      "num": 246515,
       "word": "白月梵星开分5.9",
       "onboard_time": 1737101058,
       "rank": 22,
@@ -521,6 +537,14 @@
       "onboard_time": 1737094999,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 338894,
+      "num": 338894,
+      "word": "王俊凯二搭刘德华",
+      "onboard_time": 1737108259,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 325270,
@@ -643,14 +667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 284025,
-      "num": 284025,
-      "word": "耿爽说今天可以说得更直白一些",
-      "onboard_time": 1737106998,
-      "rank": 13,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 283191,
       "num": 283191,
       "word": "王毅表态绝不允许犯罪分子逍遥法外",
@@ -739,20 +755,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254832,
+      "num": 254832,
+      "word": "国乒回应亚洲杯名单",
+      "onboard_time": 1737104959,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 254746,
       "num": 223109,
       "word": "郑思维直播开卖个人品牌",
       "onboard_time": 1737073459,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 253869,
-      "num": 253869,
-      "word": "王俊凯二搭刘德华",
-      "onboard_time": 1737108259,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 252980,
@@ -843,6 +859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217781,
+      "num": 185599,
+      "word": "黄圣依有多讨厌直播",
+      "onboard_time": 1737109939,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217054,
       "num": 217054,
       "word": "导致生化妊娠的原因",
@@ -859,12 +883,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 215061,
-      "num": 215061,
-      "word": "国乒回应亚洲杯名单",
-      "onboard_time": 1737104959,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 215581,
+      "num": 182942,
+      "word": "王俊凯寸头",
+      "onboard_time": 1737108438,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 213949,
@@ -881,14 +905,6 @@
       "onboard_time": 1737082338,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 209264,
-      "num": 209264,
-      "word": "荣耀CEO赵明内网发告别文章",
-      "onboard_time": 1737108739,
-      "rank": 19,
-      "category": "财经"
     },
     {
       "raw_hot": 209246,
@@ -923,6 +939,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 198229,
+      "num": 198229,
+      "word": "美甲",
+      "onboard_time": 1737107958,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 196048,
       "num": 222095,
       "word": "时代少年团现场彩排图送达",
@@ -945,6 +969,14 @@
       "onboard_time": 1737035180,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 195006,
+      "num": 195006,
+      "word": "6名泰缅边境失联被困中国公民回国",
+      "onboard_time": 1737107958,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194341,
@@ -1001,6 +1033,14 @@
       "onboard_time": 1737073998,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182251,
+      "num": 182251,
+      "word": "李玟50岁冥诞现场",
+      "onboard_time": 1737109338,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 181881,
@@ -1259,14 +1299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 154925,
-      "num": 154925,
-      "word": "王俊凯寸头",
-      "onboard_time": 1737108438,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 153387,
       "num": 153387,
       "word": "养了40年的蜡烛居然如此壮观",
@@ -1379,6 +1411,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 138980,
+      "num": 138980,
+      "word": "成毅分享片场图片",
+      "onboard_time": 1737109759,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138279,
       "num": 138279,
       "word": "郭京飞直播憋屈爆了",
@@ -1467,8 +1507,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128890,
-      "num": 128890,
+      "raw_hot": 128999,
+      "num": 128999,
       "word": "光与夜之恋",
       "onboard_time": 1737108680,
       "rank": 29,
@@ -1481,14 +1521,6 @@
       "onboard_time": 1737082879,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 128192,
-      "num": 128192,
-      "word": "美甲",
-      "onboard_time": 1737107958,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 127253,
@@ -1561,6 +1593,14 @@
       "onboard_time": 1737088339,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124090,
+      "num": 124090,
+      "word": "赵明谈离职后规划",
+      "onboard_time": 1737110299,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 123098,
@@ -1641,6 +1681,14 @@
       "onboard_time": 1737089179,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 119062,
+      "num": 119062,
+      "word": "哈兰德签下曼城队史最大合同",
+      "onboard_time": 1737109458,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 118726,
@@ -1763,6 +1811,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 111607,
+      "num": 111607,
+      "word": "女子用擦玻璃神器巨响后玻璃炸裂",
+      "onboard_time": 1737110358,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111581,
       "num": 111581,
       "word": "宋亚轩彩排图",
@@ -1801,6 +1857,14 @@
       "onboard_time": 1737101238,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 110707,
+      "num": 110707,
+      "word": "最会过年的00后已经主动做饭了",
+      "onboard_time": 1737110238,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110516,
@@ -1875,6 +1939,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 107945,
+      "num": 107945,
+      "word": "张曼玉梁朝伟只拿到了两页剧本",
+      "onboard_time": 1737110238,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107809,
       "num": 107809,
       "word": "马龙出席米兰男装周",
@@ -1931,6 +2003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102800,
+      "num": 102800,
+      "word": "搞台独绝不会有好下场",
+      "onboard_time": 1737109578,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 101760,
       "num": 101760,
       "word": "迪丽热巴贺思慕白色蝴蝶裙",
@@ -1945,6 +2025,14 @@
       "onboard_time": 1737105559,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 101148,
+      "num": 101148,
+      "word": "一诺说自己是大奉电竞人",
+      "onboard_time": 1737109998,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 100451,
@@ -1993,6 +2081,14 @@
       "onboard_time": 1737076878,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 99123,
+      "num": 99123,
+      "word": "郑钦文谈对失败的感受",
+      "onboard_time": 1737110358,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 97832,
@@ -2179,14 +2275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 81384,
-      "num": 81384,
-      "word": "李玟50岁冥诞现场",
-      "onboard_time": 1737109338,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 78112,
       "num": 78112,
       "word": "张元英金发打歌",
@@ -2347,6 +2435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52629,
+      "num": 1068817,
+      "word": "我国再次成功发射一箭三星",
+      "onboard_time": 1737097759,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44413,
       "num": 59034,
       "word": "李玟遗作下弦月上线",
@@ -2377,14 +2473,6 @@
       "onboard_time": 1737069375,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 41533,
-      "num": 1068817,
-      "word": "我国再次成功发射一箭三星",
-      "onboard_time": 1737097759,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 41020,
