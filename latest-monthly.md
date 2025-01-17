@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/17 23:36:28
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/18 00:26:57
 </p>
 </blockquote>
 <p>
@@ -4359,6 +4359,12 @@ B站拿下春晚转播权（热度：825759）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%80%E7%81%AB%E9%94%85%E5%BA%97%E5%91%98%E5%B7%A5%E5%9C%A8%E5%90%8E%E5%8E%A8%E5%B0%8F%E4%BE%BF%E5%B1%9E%E5%AE%9E%23" target="weibo">
+成都一火锅店员工在后厨小便属实（热度：786923）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%85%AC%E5%8F%B8%E5%AE%9E%E8%A1%8C%E4%B8%8A4%E4%BC%913%23" target="weibo">
 张雪峰公司实行上4休3（热度：786867）
 </a>
@@ -6005,12 +6011,6 @@ aespa宁宁减肥前后对比（热度：623921）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%A3%8E%E4%BF%A1%20%E5%AD%9F%E5%AD%90%E4%B9%89%E4%B8%81%E7%A6%B9%E5%85%AE%23" target="weibo">
 东风信 孟子义丁禹兮（热度：618977）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%8F%91%E7%8E%B0%E7%8C%B4%E7%97%98%E7%97%85%E6%AF%92Ib%E4%BA%9A%E5%88%86%E6%94%AF%E8%81%9A%E9%9B%86%E6%80%A7%E7%96%AB%E6%83%85%23" target="weibo">
-我国发现猴痘病毒Ib亚分支聚集性疫情（热度：617791）
 </a>
 </li>
 

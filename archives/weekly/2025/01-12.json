@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1737128188649,
+  "endTime": 1737131217967,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -1731,6 +1731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 786923,
+      "num": 786923,
+      "word": "成都一火锅店员工在后厨小便属实",
+      "onboard_time": 1737126020,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 782908,
       "num": 782908,
       "word": "小米全球总部15元的员工餐",
@@ -2611,14 +2619,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 603530,
-      "num": 603530,
-      "word": "成都一火锅店员工在后厨小便属实",
-      "onboard_time": 1737126020,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 603289,
       "num": 329458,
       "word": "刘晓庆把李小冉夸成胚胎了",
@@ -3193,6 +3193,14 @@
       "onboard_time": 1736752338,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 514856,
+      "num": 514856,
+      "word": "男子日本出差意外发现日军罪证",
+      "onboard_time": 1737125478,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 512877,
@@ -3899,6 +3907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 428190,
+      "num": 428190,
+      "word": "希望美方务必慎重处理台湾问题",
+      "onboard_time": 1737128537,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 427620,
       "num": 394027,
       "word": "小水最喜欢的中国男演员是罗云熙",
@@ -4105,6 +4121,14 @@
       "onboard_time": 1737116058,
       "rank": 10,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 409100,
+      "num": 409100,
+      "word": "刘宇宁大战泥塑粉",
+      "onboard_time": 1737126858,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 406393,
@@ -4497,6 +4521,14 @@
       "onboard_time": 1736730318,
       "rank": 5,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 373426,
+      "num": 373426,
+      "word": "迪丽热巴红衣提灯拍摄路透",
+      "onboard_time": 1737128418,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 372822,
@@ -5793,14 +5825,6 @@
       "onboard_time": 1737096918,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 285879,
-      "num": 285879,
-      "word": "刘宇宁大战泥塑粉",
-      "onboard_time": 1737126858,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 285877,
@@ -8059,14 +8083,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 202967,
-      "num": 202967,
-      "word": "男子日本出差意外发现日军罪证",
-      "onboard_time": 1737125478,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 202090,
       "num": 202090,
       "word": "徐克谈对肖战的看法",
@@ -8129,6 +8145,14 @@
       "onboard_time": 1737117559,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 200915,
+      "num": 200915,
+      "word": "王源古装扮相",
+      "onboard_time": 1737124399,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 200827,
@@ -8689,14 +8713,6 @@
       "onboard_time": 1736819598,
       "rank": 46,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 192705,
-      "num": 192705,
-      "word": "王源古装扮相",
-      "onboard_time": 1737124399,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 192639,
@@ -11113,6 +11129,14 @@
       "onboard_time": 1736901920,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157335,
+      "num": 136821,
+      "word": "谷爱凌时隔5年再夺世界杯冠军",
+      "onboard_time": 1737129077,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 157273,
@@ -14699,6 +14723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116192,
+      "num": 116192,
+      "word": "10岁男孩被批评报警举报父亲藏罂粟壳",
+      "onboard_time": 1737129798,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116096,
       "num": 185915,
       "word": "古偶剧的人气被杨紫救回来了",
@@ -15315,6 +15347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110847,
+      "num": 223782,
+      "word": "春节档你最想看哪部影片",
+      "onboard_time": 1737127697,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 110707,
       "num": 110707,
       "word": "最会过年的00后已经主动做饭了",
@@ -15401,6 +15441,14 @@
       "onboard_time": 1736947279,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109773,
+      "num": 109773,
+      "word": "马斯克回应SpaceX星舰试飞后失联",
+      "onboard_time": 1737129617,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 109762,
@@ -15953,6 +16001,14 @@
       "onboard_time": 1736853079,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102714,
+      "num": 102714,
+      "word": "国乒称着眼洛杉矶奥运会梯队建设",
+      "onboard_time": 1737128479,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 102644,
@@ -16811,14 +16867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 85214,
-      "num": 85214,
-      "word": "春节档你最想看哪部影片",
-      "onboard_time": 1737127697,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 85067,
       "num": 85067,
       "word": "肖战和父母的相处模式",
@@ -17483,6 +17531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64939,
+      "num": 64939,
+      "word": "我的完美秘书",
+      "onboard_time": 1737130756,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 64852,
       "num": 244996,
       "word": "陈雨菲说要坚定热爱",
@@ -17611,6 +17667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 61724,
+      "num": 61724,
+      "word": "大奉血屠三千里幕后大boss",
+      "onboard_time": 1737126379,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 61677,
       "num": 240974,
       "word": "樊振东评价自己的打法",
@@ -17657,6 +17721,14 @@
       "onboard_time": 1736897055,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 58738,
+      "num": 58738,
+      "word": "妈这就是你儿子搞的世界级大工程",
+      "onboard_time": 1737131176,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58730,
