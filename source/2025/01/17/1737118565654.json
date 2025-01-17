@@ -1,0 +1,410 @@
+{
+  "runTime": 1737118565654,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1525536,
+        "num": 1525536,
+        "word": "台湾当归",
+        "onboard_time": 1737107839,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 836814,
+        "num": 836814,
+        "word": "本科毕业入伍不到1年立一等功",
+        "onboard_time": 1737105860,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 46638,
+        "num": 738214,
+        "word": "我国再次成功发射一箭三星",
+        "onboard_time": 1737097759,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 668834,
+        "num": 668834,
+        "word": "高铁上小孩吵闹男子一句话制服",
+        "onboard_time": 1737114918,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 491800,
+        "num": 491800,
+        "word": "马龙樊振东未能入选亚洲杯参赛阵容",
+        "onboard_time": 1737112459,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 444834,
+        "num": 444834,
+        "word": "漂白",
+        "onboard_time": 1737115218,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345827,
+        "num": 345827,
+        "word": "JDG花650万拍下状元签",
+        "onboard_time": 1737116058,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 434058,
+        "num": 345060,
+        "word": "最适合减脂期看的剧出现了",
+        "onboard_time": 1737114319,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 342822,
+        "num": 342822,
+        "word": "耿爽说今天可以说得更直白一些",
+        "onboard_time": 1737106998,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 325670,
+        "num": 325670,
+        "word": "6名泰缅边境失联被困中国公民回国",
+        "onboard_time": 1737107958,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281533,
+        "num": 281533,
+        "word": "白鹿三次央视春晚联排",
+        "onboard_time": 1737112218,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268752,
+        "num": 268752,
+        "word": "人民网评大奉打更人",
+        "onboard_time": 1737101418,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251894,
+        "num": 251894,
+        "word": "2025听到最恐怖的一句我爱你",
+        "onboard_time": 1737114859,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250878,
+        "num": 250878,
+        "word": "王者荣耀春节版本首曝",
+        "onboard_time": 1737116058,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227905,
+        "num": 227905,
+        "word": "国色芳华秦胜意是真正时代的产物",
+        "onboard_time": 1737112998,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66601,
+        "num": 224906,
+        "word": "搞台独绝不会有好下场",
+        "onboard_time": 1737109578,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 221949,
+        "num": 221949,
+        "word": "秦彻英国爱丁堡",
+        "onboard_time": 1737113838,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209460,
+        "num": 209460,
+        "word": "荣耀CEO赵明内网发告别文章",
+        "onboard_time": 1737108739,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 200974,
+        "num": 200974,
+        "word": "限时点券换云缨全新传说皮肤",
+        "onboard_time": 1737117559,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191406,
+        "num": 191406,
+        "word": "吴谨言吊带黑长直",
+        "onboard_time": 1737105618,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 830789,
+        "num": 191279,
+        "word": "黄圣依有多讨厌直播",
+        "onboard_time": 1737109939,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348265,
+        "num": 191143,
+        "word": "徐冬冬说120斤是很爽的体重",
+        "onboard_time": 1737116058,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306745,
+        "num": 190715,
+        "word": "王俊凯二搭刘德华",
+        "onboard_time": 1737108259,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 263042,
+        "num": 190575,
+        "word": "近视眼化妆的真实现状",
+        "onboard_time": 1737112340,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 17696,
+        "num": 190202,
+        "word": "一诺说自己是大奉电竞人",
+        "onboard_time": 1737109998,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190186,
+        "num": 190186,
+        "word": "国家统一是不可阻挡的历史大势",
+        "onboard_time": 1737116778,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 197377,
+        "num": 187836,
+        "word": "李昀锐累都写在眼睛上了",
+        "onboard_time": 1737114978,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179282,
+        "num": 179282,
+        "word": "王俊凯黄发蘑菇头",
+        "onboard_time": 1737116539,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173704,
+        "num": 173704,
+        "word": "王者荣耀",
+        "onboard_time": 1737118039,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117341,
+        "num": 172905,
+        "word": "王力宏工作室已报警",
+        "onboard_time": 1737116658,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172363,
+        "num": 172363,
+        "word": "中美网友聊嗨了",
+        "onboard_time": 1737087678,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166497,
+        "num": 166497,
+        "word": "闪耀暖暖",
+        "onboard_time": 1737113898,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160748,
+        "num": 160748,
+        "word": "漂白好看",
+        "onboard_time": 1737117738,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151605,
+        "num": 151605,
+        "word": "祁煜潮间带",
+        "onboard_time": 1737115698,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149023,
+        "num": 149023,
+        "word": "弈星新皮肤万物之道",
+        "onboard_time": 1737117980,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129162,
+        "num": 129162,
+        "word": "沈月居然是flandre表姐",
+        "onboard_time": 1737098719,
+        "rank": 35,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 120954,
+        "num": 120954,
+        "word": "石洵瑶4比0蒯曼",
+        "onboard_time": 1737117859,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119609,
+        "num": 119609,
+        "word": "林更新听到高圆圆叫弟媳的反应",
+        "onboard_time": 1737110660,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119357,
+        "num": 119357,
+        "word": "美甲",
+        "onboard_time": 1737107958,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 115984,
+        "num": 115984,
+        "word": "漂白塑料袋分装消尸",
+        "onboard_time": 1737110838,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113535,
+        "num": 113535,
+        "word": "张曼玉梁朝伟只拿到了两页剧本",
+        "onboard_time": 1737110238,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113509,
+        "num": 113509,
+        "word": "白月梵星开分5.9",
+        "onboard_time": 1737101058,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111971,
+        "num": 111971,
+        "word": "方圆脸女生化妆前后的反差感",
+        "onboard_time": 1737111258,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 111468,
+        "num": 111468,
+        "word": "女子用擦玻璃神器巨响后玻璃炸裂",
+        "onboard_time": 1737110358,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109988,
+        "num": 109988,
+        "word": "王皓回应男队亚洲杯名单",
+        "onboard_time": 1737113060,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106029,
+        "num": 106029,
+        "word": "陈丽君与法国歌手合唱越剧",
+        "onboard_time": 1737101238,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105209,
+        "num": 105209,
+        "word": "大奉打更人全网敲锣统一姿势",
+        "onboard_time": 1737118460,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104061,
+        "num": 104061,
+        "word": "30万年终奖送往年会途中丢了",
+        "onboard_time": 1737104238,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102053,
+        "num": 102053,
+        "word": "射雕更新片长",
+        "onboard_time": 1737117918,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101419,
+        "num": 101419,
+        "word": "第一批回家过年的人现状",
+        "onboard_time": 1737117198,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}

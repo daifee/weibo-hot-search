@@ -1,6 +1,6 @@
 {
   "startTime": 1737044847648,
-  "endTime": 1737117654309,
+  "endTime": 1737118565654,
   "band_list": [
     {
       "raw_hot": 2842832,
@@ -443,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 444834,
+      "num": 444834,
+      "word": "漂白",
+      "onboard_time": 1737115218,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 437573,
       "num": 437573,
       "word": "拜登计划把烫手山芋留给特朗普",
@@ -459,7 +467,7 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 430870,
+      "raw_hot": 434058,
       "num": 430870,
       "word": "最适合减脂期看的剧出现了",
       "onboard_time": 1737114319,
@@ -508,7 +516,7 @@
     },
     {
       "raw_hot": 410514,
-      "num": 185684,
+      "num": 191143,
       "word": "徐冬冬说120斤是很爽的体重",
       "onboard_time": 1737116058,
       "rank": 21,
@@ -619,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 345827,
+      "num": 345827,
+      "word": "JDG花650万拍下状元签",
+      "onboard_time": 1737116058,
+      "rank": 10,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 325270,
       "num": 325270,
       "word": "泰国预计春节期间近77万中国游客将入境",
@@ -636,7 +652,7 @@
     },
     {
       "raw_hot": 321438,
-      "num": 184395,
+      "num": 190575,
       "word": "近视眼化妆的真实现状",
       "onboard_time": 1737112340,
       "rank": 34,
@@ -697,14 +713,6 @@
       "onboard_time": 1737070095,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 310673,
-      "num": 310673,
-      "word": "JDG花650万拍下状元签",
-      "onboard_time": 1737116058,
-      "rank": 10,
-      "category": "电竞"
     },
     {
       "raw_hot": 310330,
@@ -907,6 +915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 251894,
+      "num": 251894,
+      "word": "2025听到最恐怖的一句我爱你",
+      "onboard_time": 1737114859,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249617,
       "num": 249617,
       "word": "磕cp时大脑会以为自己在谈恋爱",
@@ -939,14 +955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 231166,
-      "num": 231166,
-      "word": "2025听到最恐怖的一句我爱你",
-      "onboard_time": 1737114859,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 228409,
       "num": 228409,
       "word": "女子鼻骨骨折消肿后喜提高鼻梁",
@@ -963,12 +971,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 227905,
+      "num": 227905,
+      "word": "国色芳华秦胜意是真正时代的产物",
+      "onboard_time": 1737112998,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224028,
       "num": 230040,
       "word": "千手观音20年她换个身份再上春晚",
       "onboard_time": 1737081498,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221949,
+      "num": 221949,
+      "word": "秦彻英国爱丁堡",
+      "onboard_time": 1737113838,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 220177,
@@ -984,14 +1008,6 @@
       "word": "九重紫小孩哥说昀牵孟绕是真的",
       "onboard_time": 1737037280,
       "rank": 6,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 217723,
-      "num": 217723,
-      "word": "漂白",
-      "onboard_time": 1737115218,
-      "rank": 15,
       "category": "剧集"
     },
     {
@@ -1028,7 +1044,7 @@
     },
     {
       "raw_hot": 212593,
-      "num": 178521,
+      "num": 187836,
       "word": "李昀锐累都写在眼睛上了",
       "onboard_time": 1737114978,
       "rank": 25,
@@ -1041,14 +1057,6 @@
       "onboard_time": 1737065891,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 207749,
-      "num": 207749,
-      "word": "秦彻英国爱丁堡",
-      "onboard_time": 1737113838,
-      "rank": 16,
-      "category": "游戏"
     },
     {
       "raw_hot": 205993,
@@ -1065,6 +1073,14 @@
       "onboard_time": 1737090738,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200974,
+      "num": 200974,
+      "word": "限时点券换云缨全新传说皮肤",
+      "onboard_time": 1737117559,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 200827,
@@ -1129,6 +1145,14 @@
       "onboard_time": 1737102138,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 190186,
+      "num": 311442,
+      "word": "国家统一是不可阻挡的历史大势",
+      "onboard_time": 1737116778,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 188310,
@@ -1227,28 +1251,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179282,
+      "num": 179282,
+      "word": "王俊凯黄发蘑菇头",
+      "onboard_time": 1737116539,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 177459,
       "num": 177459,
       "word": "丁禹兮第三次央视春晚联排",
       "onboard_time": 1737090859,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176539,
-      "num": 176539,
-      "word": "限时点券换云缨全新传说皮肤",
-      "onboard_time": 1737117559,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 175562,
-      "num": 175562,
-      "word": "国色芳华秦胜意是真正时代的产物",
-      "onboard_time": 1737112998,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 174016,
@@ -1259,12 +1275,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 173223,
-      "num": 173223,
-      "word": "王俊凯黄发蘑菇头",
-      "onboard_time": 1737116539,
-      "rank": 29,
-      "category": "电影"
+      "raw_hot": 173704,
+      "num": 173704,
+      "word": "王者荣耀",
+      "onboard_time": 1737118039,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 172093,
@@ -1315,14 +1331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 168254,
-      "num": 311442,
-      "word": "国家统一是不可阻挡的历史大势",
-      "onboard_time": 1737116778,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 167301,
       "num": 110619,
       "word": "程潇金色蛇女",
@@ -1351,6 +1359,14 @@
       "num": 172220,
       "word": "恋与制作人",
       "onboard_time": 1737085518,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 166497,
+      "num": 166497,
+      "word": "闪耀暖暖",
+      "onboard_time": 1737113898,
       "rank": 35,
       "category": "游戏"
     },
@@ -1401,6 +1417,14 @@
       "onboard_time": 1737049632,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160748,
+      "num": 160748,
+      "word": "漂白好看",
+      "onboard_time": 1737117738,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 160344,
@@ -1515,11 +1539,11 @@
       "category": "网红"
     },
     {
-      "raw_hot": 148603,
-      "num": 148603,
-      "word": "闪耀暖暖",
-      "onboard_time": 1737113898,
-      "rank": 35,
+      "raw_hot": 149023,
+      "num": 149023,
+      "word": "弈星新皮肤万物之道",
+      "onboard_time": 1737117980,
+      "rank": 34,
       "category": "游戏"
     },
     {
@@ -1820,7 +1844,7 @@
     },
     {
       "raw_hot": 124866,
-      "num": 124866,
+      "num": 172905,
       "word": "王力宏工作室已报警",
       "onboard_time": 1737116658,
       "rank": 40,
@@ -1889,6 +1913,14 @@
       "onboard_time": 1737093679,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120954,
+      "num": 120954,
+      "word": "石洵瑶4比0蒯曼",
+      "onboard_time": 1737117859,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 120443,
@@ -2220,7 +2252,7 @@
     },
     {
       "raw_hot": 108184,
-      "num": 108184,
+      "num": 224906,
       "word": "搞台独绝不会有好下场",
       "onboard_time": 1737109578,
       "rank": 44,
@@ -2249,6 +2281,14 @@
       "onboard_time": 1737045556,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105209,
+      "num": 105209,
+      "word": "大奉打更人全网敲锣统一姿势",
+      "onboard_time": 1737118460,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 105172,
@@ -2299,6 +2339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102053,
+      "num": 102053,
+      "word": "射雕更新片长",
+      "onboard_time": 1737117918,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 101760,
       "num": 101760,
       "word": "迪丽热巴贺思慕白色蝴蝶裙",
@@ -2315,8 +2363,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 101419,
+      "num": 101419,
+      "word": "第一批回家过年的人现状",
+      "onboard_time": 1737117198,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 101148,
-      "num": 101148,
+      "num": 190202,
       "word": "一诺说自己是大奉电竞人",
       "onboard_time": 1737109998,
       "rank": 45,
@@ -2505,14 +2561,6 @@
       "onboard_time": 1737108378,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 87309,
-      "num": 87309,
-      "word": "第一批回家过年的人现状",
-      "onboard_time": 1737117198,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 86889,
