@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/17 14:43:14
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/17 15:20:28
 </p>
 </blockquote>
 <p>
@@ -4725,6 +4725,12 @@ SM新女团 SMTOWN压轴（热度：743773）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80%E8%B5%B5%E6%98%8E%E8%BE%9E%E8%81%8C%23" target="weibo">
+荣耀赵明辞职（热度：735199）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%AE%B6%E6%9A%B416%E6%AC%A1%E5%A5%B3%E5%AD%90%E6%80%BB%E7%BB%932024%23" target="weibo">
 被家暴16次女子总结2024（热度：734971）
 </a>
@@ -6005,12 +6011,6 @@ aespa宁宁减肥前后对比（热度：623921）
 <li>
 <a href="https://s.weibo.com/weibo?q=%231%E5%B2%81%E5%AE%9D%E5%AE%9D%E5%81%9A%E8%83%83%E9%95%9C%E5%8F%96%E5%87%BA%E4%B8%80%E6%9E%9A%E7%A1%AC%E5%B8%81%23" target="weibo">
 1岁宝宝做胃镜取出一枚硬币（热度：611575）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%99%BD%E9%B9%BF%E6%96%B0%E5%89%A7%E5%AE%9A%E6%A1%A3%E5%90%8C%E4%B8%80%E5%A4%A9%23" target="weibo">
-杨紫白鹿新剧定档同一天（热度：611470）
 </a>
 </li>
 
