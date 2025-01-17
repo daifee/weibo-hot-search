@@ -1,10 +1,10 @@
 {
   "startTime": 1737044847648,
-  "endTime": 1737091257967,
+  "endTime": 1737092261792,
   "band_list": [
     {
-      "raw_hot": 2799304,
-      "num": 2799304,
+      "raw_hot": 2842832,
+      "num": 2842832,
       "word": "公安机关公布王星被骗至缅甸细节",
       "onboard_time": 1737088699,
       "rank": 18,
@@ -49,6 +49,14 @@
       "onboard_time": 1737080116,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1098296,
+      "num": 1098296,
+      "word": "女子鼻骨骨折一个月后直接美出新高度",
+      "onboard_time": 1737090561,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1070708,
@@ -99,20 +107,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 849268,
-      "num": 849268,
-      "word": "女子鼻骨骨折一个月后直接美出新高度",
-      "onboard_time": 1737090561,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 827047,
       "num": 914757,
       "word": "中美网友对了一夜的账",
       "onboard_time": 1737035600,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 787496,
+      "num": 787496,
+      "word": "杨幂2025年第一个梗来了",
+      "onboard_time": 1737090318,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 782908,
@@ -187,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 598094,
+      "num": 598094,
+      "word": "中美网友聊嗨了",
+      "onboard_time": 1737087678,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 589027,
       "num": 406615,
       "word": "难哄OST全明星阵容",
@@ -227,12 +243,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 492628,
-      "num": 492628,
-      "word": "杨幂2025年第一个梗来了",
-      "onboard_time": 1737090318,
-      "rank": 6,
-      "category": "艺人"
+      "raw_hot": 508608,
+      "num": 508608,
+      "word": "全力捣毁境外电诈窝点",
+      "onboard_time": 1737089299,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 481583,
@@ -249,14 +265,6 @@
       "onboard_time": 1737030318,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 473984,
-      "num": 473984,
-      "word": "全力捣毁境外电诈窝点",
-      "onboard_time": 1737089299,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 453685,
@@ -347,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 313208,
+      "num": 410649,
+      "word": "拍封神把传说中的神仙研究了一遍",
+      "onboard_time": 1737087618,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 311248,
       "num": 311248,
       "word": "除夕10天倒计时",
@@ -371,20 +387,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 307358,
+      "num": 307358,
+      "word": "第一次感受到催婚的窒息感",
+      "onboard_time": 1737089598,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 299566,
       "num": 171636,
       "word": "美国女孩小红书捞中国同学神速成功",
       "onboard_time": 1737040759,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 298887,
-      "num": 410649,
-      "word": "拍封神把传说中的神仙研究了一遍",
-      "onboard_time": 1737087618,
-      "rank": 12,
-      "category": "电影"
     },
     {
       "raw_hot": 285575,
@@ -419,12 +435,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 270963,
-      "num": 270963,
-      "word": "第一次感受到催婚的窒息感",
-      "onboard_time": 1737089598,
-      "rank": 22,
-      "category": "幽默"
+      "raw_hot": 267582,
+      "num": 267582,
+      "word": "国色芳华好讽刺的一句话",
+      "onboard_time": 1737090859,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 265541,
@@ -433,14 +449,6 @@
       "onboard_time": 1737082399,
       "rank": 14,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 265366,
-      "num": 419056,
-      "word": "中美网友聊嗨了",
-      "onboard_time": 1737087678,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 263964,
@@ -467,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258866,
+      "num": 258866,
+      "word": "男孩未完成作业被批评举报父亲藏罂粟壳",
+      "onboard_time": 1737090378,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 256670,
       "num": 170177,
       "word": "钟睒睒连发3条朋友圈",
@@ -491,6 +507,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 252369,
+      "num": 252369,
+      "word": "挖出一个藏在缅甸贩运人口的犯罪集团",
+      "onboard_time": 1737090918,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 251980,
       "num": 251980,
       "word": "永夜星河出专辑了",
@@ -513,6 +537,14 @@
       "onboard_time": 1737071237,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 233770,
+      "num": 233770,
+      "word": "父母出资购房离婚后女方分得60万",
+      "onboard_time": 1737090798,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 228409,
@@ -628,7 +660,7 @@
     },
     {
       "raw_hot": 187541,
-      "num": 187541,
+      "num": 194586,
       "word": "周深说观众是演唱会的灵魂",
       "onboard_time": 1737089539,
       "rank": 30,
@@ -763,6 +795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 164246,
+      "num": 164246,
+      "word": "无名之辈23王俊凯镜头",
+      "onboard_time": 1737091278,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 161099,
       "num": 161099,
       "word": "快乐再出发",
@@ -787,14 +827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158088,
-      "num": 158088,
-      "word": "男孩未完成作业被批评举报父亲藏罂粟壳",
-      "onboard_time": 1737090378,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157207,
       "num": 157207,
       "word": "国色芳华中杨紫嘴角为何有小红点",
@@ -815,14 +847,6 @@
       "num": 155272,
       "word": "2024年全国出生人口增长52万",
       "onboard_time": 1737086899,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 150491,
-      "num": 150491,
-      "word": "父母出资购房离婚后女方分得60万",
-      "onboard_time": 1737090798,
       "rank": 39,
       "category": "民生新闻"
     },
@@ -867,12 +891,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144879,
-      "num": 144879,
-      "word": "挖出一个藏在缅甸贩运人口的犯罪集团",
-      "onboard_time": 1737090918,
-      "rank": 43,
-      "category": "国际时政"
+      "raw_hot": 141592,
+      "num": 141592,
+      "word": "周一围请苍天辨忠奸",
+      "onboard_time": 1737091579,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 141407,
@@ -899,11 +923,11 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 138313,
-      "num": 189830,
-      "word": "国色芳华好讽刺的一句话",
-      "onboard_time": 1737090859,
-      "rank": 29,
+      "raw_hot": 138279,
+      "num": 138279,
+      "word": "郭京飞直播憋屈爆了",
+      "onboard_time": 1737092060,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -1019,6 +1043,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123109,
+      "num": 233864,
+      "word": "中泰警方已联手抓获12名犯罪嫌疑人",
+      "onboard_time": 1737092179,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 123098,
+      "num": 123098,
+      "word": "娜扎没有技巧就是硬飒",
+      "onboard_time": 1737091998,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121993,
       "num": 121993,
       "word": "愿同美新政府加强对话沟通",
@@ -1049,6 +1089,14 @@
       "onboard_time": 1737081677,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120174,
+      "num": 120174,
+      "word": "半导体",
+      "onboard_time": 1737089179,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 118726,
