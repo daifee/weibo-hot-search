@@ -1,6 +1,6 @@
 {
   "startTime": 1737044847648,
-  "endTime": 1737098428691,
+  "endTime": 1737099348208,
   "band_list": [
     {
       "raw_hot": 2842832,
@@ -139,20 +139,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 764849,
+      "num": 764849,
+      "word": "荣耀赵明辞职",
+      "onboard_time": 1737095358,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 758269,
       "num": 758269,
       "word": "2024年出生人口回升",
       "onboard_time": 1737083418,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 735199,
-      "num": 735199,
-      "word": "荣耀赵明辞职",
-      "onboard_time": 1737095358,
-      "rank": 47,
-      "category": "数码"
     },
     {
       "raw_hot": 690605,
@@ -331,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 437573,
+      "num": 437573,
+      "word": "拜登计划把烫手山芋留给特朗普",
+      "onboard_time": 1737095358,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 435883,
       "num": 211642,
       "word": "生化和流产的区别",
@@ -371,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 395310,
+      "num": 395310,
+      "word": "沈月居然是flandre表姐",
+      "onboard_time": 1737098719,
+      "rank": 8,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 393355,
       "num": 393355,
       "word": "这些春晚歌曲拉满过年氛围感",
@@ -385,6 +401,14 @@
       "onboard_time": 1737072258,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 374241,
+      "num": 374241,
+      "word": "漂白马桶冲出20斤人体组织",
+      "onboard_time": 1737098419,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 368578,
@@ -404,7 +428,7 @@
     },
     {
       "raw_hot": 353408,
-      "num": 219700,
+      "num": 224799,
       "word": "TikTok日活降至8220万",
       "onboard_time": 1737096859,
       "rank": 21,
@@ -412,7 +436,7 @@
     },
     {
       "raw_hot": 326161,
-      "num": 326161,
+      "num": 380579,
       "word": "以旧换新补贴家电新增4类产品",
       "onboard_time": 1737094999,
       "rank": 15,
@@ -481,6 +505,14 @@
       "onboard_time": 1737040759,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 286008,
+      "num": 286008,
+      "word": "徐克看肖战一遍过的反应",
+      "onboard_time": 1737096918,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 285575,
@@ -595,14 +627,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 241697,
-      "num": 241697,
-      "word": "拜登计划把烫手山芋留给特朗普",
-      "onboard_time": 1737095358,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 241569,
       "num": 241569,
       "word": "朴彩英否认恋情传闻",
@@ -627,12 +651,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 228120,
-      "num": 228120,
-      "word": "徐克看肖战一遍过的反应",
-      "onboard_time": 1737096918,
-      "rank": 18,
-      "category": "电影"
+      "raw_hot": 228233,
+      "num": 228233,
+      "word": "aespa球服",
+      "onboard_time": 1737096617,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 224028,
@@ -819,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178479,
+      "num": 254844,
+      "word": "我国2024年出生954万人",
+      "onboard_time": 1737089239,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177459,
       "num": 177459,
       "word": "丁禹兮第三次央视春晚联排",
@@ -891,14 +923,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 166801,
-      "num": 254844,
-      "word": "我国2024年出生954万人",
-      "onboard_time": 1737089239,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166691,
       "num": 145945,
       "word": "世界之外",
@@ -921,14 +945,6 @@
       "onboard_time": 1737096017,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 166284,
-      "num": 226015,
-      "word": "aespa球服",
-      "onboard_time": 1737096617,
-      "rank": 19,
-      "category": "音乐"
     },
     {
       "raw_hot": 164246,
@@ -977,6 +993,14 @@
       "onboard_time": 1737096497,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157608,
+      "num": 157608,
+      "word": "卢昱晓不语只是一味剧宣",
+      "onboard_time": 1737097817,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 157207,
@@ -1139,6 +1163,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 134543,
+      "num": 134543,
+      "word": "吴谨言月色雪色绝色",
+      "onboard_time": 1737098719,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 132921,
       "num": 132921,
       "word": "无名之辈",
@@ -1185,6 +1217,14 @@
       "onboard_time": 1737085400,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129377,
+      "num": 129377,
+      "word": "美网络攻击我国某先进材料设计研究院",
+      "onboard_time": 1737099079,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 128460,
@@ -1251,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122333,
+      "num": 206667,
+      "word": "贾玲说是观众救了我",
+      "onboard_time": 1737098479,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 121993,
       "num": 121993,
       "word": "愿同美新政府加强对话沟通",
@@ -1267,20 +1315,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121561,
+      "num": 121561,
+      "word": "我国60岁以上人口首次突破3亿",
+      "onboard_time": 1737097098,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121291,
       "num": 189060,
       "word": "王鹤棣竹林武打戏",
       "onboard_time": 1737093679,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120587,
-      "num": 120587,
-      "word": "我国60岁以上人口首次突破3亿",
-      "onboard_time": 1737097098,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 120443,
@@ -1339,8 +1387,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 117609,
-      "num": 117609,
+      "raw_hot": 117742,
+      "num": 117742,
       "word": "冰雪大世界偶遇虞书欣林一",
       "onboard_time": 1737098297,
       "rank": 37,
@@ -1491,20 +1539,20 @@
       "category": "体育,时尚"
     },
     {
-      "raw_hot": 107716,
-      "num": 107716,
-      "word": "卢昱晓不语只是一味剧宣",
-      "onboard_time": 1737097817,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 107352,
       "num": 111337,
       "word": "麦琳全平台涨粉近10万",
       "onboard_time": 1737045556,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106131,
+      "num": 106131,
+      "word": "盒子灯是非遗版惊喜盲盒",
+      "onboard_time": 1737099018,
+      "rank": 46,
+      "category": "正能量"
     },
     {
       "raw_hot": 105172,
@@ -1537,6 +1585,14 @@
       "onboard_time": 1737039142,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101996,
+      "num": 101996,
+      "word": "大奉打更人埋了33集的伏笔",
+      "onboard_time": 1737099258,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 101760,

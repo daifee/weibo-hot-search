@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/17 15:20:28
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/17 15:35:48
 </p>
 </blockquote>
 <p>
@@ -4521,6 +4521,12 @@ GMM（热度：773720）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80%E8%B5%B5%E6%98%8E%E8%BE%9E%E8%81%8C%23" target="weibo">
+荣耀赵明辞职（热度：764849）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%A6%E7%AC%91%E4%BB%8E%E6%9D%8E%E7%8E%B0%E8%BD%AC%E7%A7%BB%E5%88%B0%E5%BC%A0%E8%8B%A5%E6%98%80%23" target="weibo">
 苦笑从李现转移到张若昀（热度：763603）
 </a>
@@ -4721,12 +4727,6 @@ SM新女团 SMTOWN压轴（热度：743773）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E8%B0%A2%E5%A8%9C%E7%BB%99%E6%88%91%E5%94%B1%E5%93%AD%E4%BA%86%23" target="weibo">
 何炅谢娜给我唱哭了（热度：736629）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80%E8%B5%B5%E6%98%8E%E8%BE%9E%E8%81%8C%23" target="weibo">
-荣耀赵明辞职（热度：735199）
 </a>
 </li>
 
