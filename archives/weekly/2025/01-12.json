@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1737132112370,
+  "endTime": 1737134385362,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -4697,6 +4697,14 @@
       "onboard_time": 1736737638,
       "rank": 39,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 361811,
+      "num": 361811,
+      "word": "10岁男孩被批评报警举报父亲藏罂粟壳",
+      "onboard_time": 1737129798,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 361005,
@@ -10571,6 +10579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165887,
+      "num": 241537,
+      "word": "马斯克回应SpaceX星舰试飞后失联",
+      "onboard_time": 1737129617,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 165588,
       "num": 165588,
       "word": "2025全年考试时间表",
@@ -10601,6 +10617,14 @@
       "onboard_time": 1736668820,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 164984,
+      "num": 164984,
+      "word": "美最高法支持政府对TikTok强迫出售令",
+      "onboard_time": 1737132436,
+      "rank": 8,
+      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 164971,
@@ -11249,6 +11273,14 @@
       "onboard_time": 1736999778,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155798,
+      "num": 164728,
+      "word": "妈这就是你儿子搞的世界级大工程",
+      "onboard_time": 1737131176,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155652,
@@ -12361,14 +12393,6 @@
       "onboard_time": 1736850498,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 141676,
-      "num": 241537,
-      "word": "马斯克回应SpaceX星舰试飞后失联",
-      "onboard_time": 1737129617,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 141665,
@@ -14747,14 +14771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 116192,
-      "num": 116192,
-      "word": "10岁男孩被批评报警举报父亲藏罂粟壳",
-      "onboard_time": 1737129798,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116096,
       "num": 185915,
       "word": "古偶剧的人气被杨紫救回来了",
@@ -16251,14 +16267,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 98659,
-      "num": 98659,
-      "word": "妈这就是你儿子搞的世界级大工程",
-      "onboard_time": 1737131176,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 98654,
       "num": 98654,
       "word": "成为罪犯之前的她们",
@@ -16971,6 +16979,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 83239,
+      "num": 83239,
+      "word": "刘宇宁直播",
+      "onboard_time": 1737132855,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82929,
       "num": 147324,
       "word": "熊孩子能闯多大的祸",
@@ -17075,6 +17091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79816,
+      "num": 79816,
+      "word": "2025狮子座好运清单",
+      "onboard_time": 1737132316,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 79584,
       "num": 207188,
       "word": "向地震中的每一位平凡英雄致敬",
@@ -17089,6 +17113,14 @@
       "onboard_time": 1736674459,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 79122,
+      "num": 79122,
+      "word": "我的完美秘书",
+      "onboard_time": 1737130756,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 78818,
@@ -17537,14 +17569,6 @@
       "onboard_time": 1736653519,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 64939,
-      "num": 64939,
-      "word": "我的完美秘书",
-      "onboard_time": 1737130756,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 64852,
@@ -18219,6 +18243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 47779,
+      "num": 47779,
+      "word": "苏菲玛索说只靠脸长久不了",
+      "onboard_time": 1737133815,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47689,
       "num": 218901,
       "word": "特鲁索娃曾说想生两或三个孩子",
@@ -18521,6 +18553,14 @@
       "onboard_time": 1736760439,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 39625,
+      "num": 39625,
+      "word": "成毅剧组日常碎片",
+      "onboard_time": 1737133514,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 39309,

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737132112370,
+  "endTime": 1737134385362,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -14137,6 +14137,14 @@
       "onboard_time": 1736737638,
       "rank": 39,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 361811,
+      "num": 361811,
+      "word": "10岁男孩被批评报警举报父亲藏罂粟壳",
+      "onboard_time": 1737129798,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 361588,
@@ -31195,6 +31203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165887,
+      "num": 241537,
+      "word": "马斯克回应SpaceX星舰试飞后失联",
+      "onboard_time": 1737129617,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 165882,
       "num": 165882,
       "word": "汪苏泷徐志胜李雪琴辽视春晚团建",
@@ -31353,6 +31369,14 @@
       "onboard_time": 1735881859,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164984,
+      "num": 164984,
+      "word": "美最高法支持政府对TikTok强迫出售令",
+      "onboard_time": 1737132436,
+      "rank": 8,
+      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 164971,
@@ -33177,6 +33201,14 @@
       "onboard_time": 1735896619,
       "rank": 19,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 155798,
+      "num": 164728,
+      "word": "妈这就是你儿子搞的世界级大工程",
+      "onboard_time": 1737131176,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155716,
@@ -35913,14 +35945,6 @@
       "onboard_time": 1735888279,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 141676,
-      "num": 241537,
-      "word": "马斯克回应SpaceX星舰试飞后失联",
-      "onboard_time": 1737129617,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 141665,
@@ -41435,14 +41459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 116192,
-      "num": 116192,
-      "word": "10岁男孩被批评报警举报父亲藏罂粟壳",
-      "onboard_time": 1737129798,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116096,
       "num": 185915,
       "word": "古偶剧的人气被杨紫救回来了",
@@ -44443,14 +44459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98659,
-      "num": 98659,
-      "word": "妈这就是你儿子搞的世界级大工程",
-      "onboard_time": 1737131176,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 98654,
       "num": 98654,
       "word": "成为罪犯之前的她们",
@@ -46651,6 +46659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 79816,
+      "num": 79816,
+      "word": "2025狮子座好运清单",
+      "onboard_time": 1737132316,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 79792,
       "num": 213297,
       "word": "2025LPL第一赛段赛程",
@@ -46697,6 +46713,14 @@
       "onboard_time": 1736591609,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 79122,
+      "num": 79122,
+      "word": "我的完美秘书",
+      "onboard_time": 1737130756,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 79050,
@@ -48089,14 +48113,6 @@
       "onboard_time": 1736213721,
       "rank": 39,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 64939,
-      "num": 64939,
-      "word": "我的完美秘书",
-      "onboard_time": 1737130756,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 64917,
@@ -50179,6 +50195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 47779,
+      "num": 47779,
+      "word": "苏菲玛索说只靠脸长久不了",
+      "onboard_time": 1737133815,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47689,
       "num": 218901,
       "word": "特鲁索娃曾说想生两或三个孩子",
@@ -51241,6 +51265,14 @@
       "onboard_time": 1735802000,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39625,
+      "num": 39625,
+      "word": "成毅剧组日常碎片",
+      "onboard_time": 1737133514,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 39501,

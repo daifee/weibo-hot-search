@@ -1,6 +1,6 @@
 {
   "startTime": 1737131217967,
-  "endTime": 1737132112370,
+  "endTime": 1737134385362,
   "band_list": [
     {
       "raw_hot": 850511,
@@ -67,6 +67,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 361811,
+      "num": 361811,
+      "word": "10岁男孩被批评报警举报父亲藏罂粟壳",
+      "onboard_time": 1737129798,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 339212,
       "num": 339212,
       "word": "本科毕业入伍不到1年立一等功",
@@ -131,6 +139,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165887,
+      "num": 241537,
+      "word": "马斯克回应SpaceX星舰试飞后失联",
+      "onboard_time": 1737129617,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 164984,
+      "num": 164984,
+      "word": "美最高法支持政府对TikTok强迫出售令",
+      "onboard_time": 1737132436,
+      "rank": 8,
+      "category": "国际时政,互联网"
+    },
+    {
       "raw_hot": 160950,
       "num": 136821,
       "word": "谷爱凌时隔5年再夺世界杯冠军",
@@ -139,20 +163,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155798,
+      "num": 164728,
+      "word": "妈这就是你儿子搞的世界级大工程",
+      "onboard_time": 1737131176,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147728,
       "num": 147728,
       "word": "高铁上小孩吵闹男子一句话制服",
       "onboard_time": 1737114918,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 141676,
-      "num": 241537,
-      "word": "马斯克回应SpaceX星舰试飞后失联",
-      "onboard_time": 1737129617,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 137554,
@@ -227,14 +251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116192,
-      "num": 116192,
-      "word": "10岁男孩被批评报警举报父亲藏罂粟壳",
-      "onboard_time": 1737129798,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115097,
       "num": 115097,
       "word": "代露娃演技好细腻",
@@ -257,14 +273,6 @@
       "onboard_time": 1737114978,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 98659,
-      "num": 98659,
-      "word": "妈这就是你儿子搞的世界级大工程",
-      "onboard_time": 1737131176,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96825,
@@ -307,12 +315,36 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 83239,
+      "num": 83239,
+      "word": "刘宇宁直播",
+      "onboard_time": 1737132855,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 79816,
+      "num": 79816,
+      "word": "2025狮子座好运清单",
+      "onboard_time": 1737132316,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 79294,
       "num": 79294,
       "word": "震区小女孩体验洗浴车直呼好舒服",
       "onboard_time": 1737121639,
       "rank": 37,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 79122,
+      "num": 79122,
+      "word": "我的完美秘书",
+      "onboard_time": 1737130756,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 76548,
@@ -353,14 +385,6 @@
       "onboard_time": 1737116778,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 64939,
-      "num": 64939,
-      "word": "我的完美秘书",
-      "onboard_time": 1737130756,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 64465,
@@ -411,17 +435,52 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47779,
+      "num": 47779,
+      "word": "苏菲玛索说只靠脸长久不了",
+      "onboard_time": 1737133815,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47519,
       "num": 47519,
       "word": "马琳回应女队亚洲杯名单",
       "onboard_time": 1737132076,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42642,
+      "num": 42642,
+      "word": "大奉打更人",
+      "onboard_time": 1737133575,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 39625,
+      "num": 39625,
+      "word": "成毅剧组日常碎片",
+      "onboard_time": 1737133514,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 36827,
+      "num": 39625,
+      "word": "JDG花650万拍下状元签",
+      "onboard_time": 1737116058,
+      "rank": 49,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [
     {
       "word": "#发展冰雪产业丰富群众冰雪赛事活动#"
+    },
+    {
+      "word": "#冰雪春天#"
     }
   ]
 }
