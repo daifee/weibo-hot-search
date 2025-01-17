@@ -1,6 +1,6 @@
 {
   "startTime": 1737044847648,
-  "endTime": 1737112772916,
+  "endTime": 1737113774306,
   "band_list": [
     {
       "raw_hot": 2842832,
@@ -299,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 578948,
+      "num": 513336,
+      "word": "美甲",
+      "onboard_time": 1737107958,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 551049,
       "num": 551049,
       "word": "预售",
@@ -345,14 +353,6 @@
       "onboard_time": 1737087137,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 513336,
-      "num": 513336,
-      "word": "美甲",
-      "onboard_time": 1737107958,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 508608,
@@ -660,7 +660,7 @@
     },
     {
       "raw_hot": 310112,
-      "num": 198731,
+      "num": 201603,
       "word": "吴谨言吊带黑长直",
       "onboard_time": 1737105618,
       "rank": 32,
@@ -851,6 +851,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 243505,
+      "num": 243505,
+      "word": "马龙樊振东未能入选亚洲杯参赛阵容",
+      "onboard_time": 1737112459,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 241569,
       "num": 241569,
       "word": "朴彩英否认恋情传闻",
@@ -859,20 +867,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 238206,
+      "num": 182942,
+      "word": "王俊凯寸头",
+      "onboard_time": 1737108438,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 235043,
       "num": 235043,
       "word": "白鹿也在嗑代露娃常华森",
       "onboard_time": 1737071237,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 230614,
-      "num": 182942,
-      "word": "王俊凯寸头",
-      "onboard_time": 1737108438,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 228409,
@@ -1035,6 +1043,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 187942,
+      "num": 149715,
+      "word": "近视眼化妆的真实现状",
+      "onboard_time": 1737112340,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 187913,
+      "num": 187913,
+      "word": "白鹿三次央视春晚联排",
+      "onboard_time": 1737112218,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187541,
       "num": 194586,
       "word": "周深说观众是演唱会的灵魂",
@@ -1057,6 +1081,14 @@
       "onboard_time": 1737088518,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 183228,
+      "num": 169127,
+      "word": "女子用擦玻璃神器巨响后玻璃炸裂",
+      "onboard_time": 1737110358,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182564,
@@ -1179,14 +1211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 169127,
-      "num": 169127,
-      "word": "女子用擦玻璃神器巨响后玻璃炸裂",
-      "onboard_time": 1737110358,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 167301,
       "num": 110619,
       "word": "程潇金色蛇女",
@@ -1233,6 +1257,14 @@
       "onboard_time": 1737091278,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 162513,
+      "num": 162513,
+      "word": "漂白塑料袋分装消尸",
+      "onboard_time": 1737110838,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 161099,
@@ -1387,14 +1419,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 146189,
-      "num": 146189,
-      "word": "漂白塑料袋分装消尸",
-      "onboard_time": 1737110838,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 145955,
       "num": 144468,
       "word": "张艺兴央视蛇年春晚第三次联排",
@@ -1436,19 +1460,11 @@
     },
     {
       "raw_hot": 144461,
-      "num": 144461,
+      "num": 151374,
       "word": "方圆脸女生化妆前后的反差感",
       "onboard_time": 1737111258,
       "rank": 29,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 141916,
-      "num": 141916,
-      "word": "白鹿三次央视春晚联排",
-      "onboard_time": 1737112218,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 141592,
@@ -1504,6 +1520,14 @@
       "word": "敖瑞鹏演技",
       "onboard_time": 1737072199,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 137337,
+      "num": 137337,
+      "word": "国色芳华秦胜意是真正时代的产物",
+      "onboard_time": 1737112998,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -1651,6 +1675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125439,
+      "num": 125439,
+      "word": "英乌签署百年协议",
+      "onboard_time": 1737112038,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 125271,
       "num": 198565,
       "word": "2025第1个月已过半",
@@ -1755,6 +1787,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 120025,
+      "num": 120025,
+      "word": "时代少年团新年音乐会预热",
+      "onboard_time": 1737113540,
+      "rank": 35,
+      "category": "艺人,演出"
+    },
+    {
       "raw_hot": 119062,
       "num": 119062,
       "word": "哈兰德签下曼城队史最大合同",
@@ -1787,12 +1827,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118080,
+      "num": 118080,
+      "word": "唐探1900英国首映十分钟售罄",
+      "onboard_time": 1737112399,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 118079,
       "num": 183279,
       "word": "Ning说和Tarzan误会解除",
       "onboard_time": 1737076579,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 118026,
+      "num": 118026,
+      "word": "东北年夜饭的饭张力拉满了",
+      "onboard_time": 1737112998,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 117742,
@@ -1817,6 +1873,14 @@
       "onboard_time": 1737105618,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114657,
+      "num": 114657,
+      "word": "耿爽在联合国当面戳穿美方3点谎言",
+      "onboard_time": 1737113118,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 114440,
@@ -1865,14 +1929,6 @@
       "onboard_time": 1737091878,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 112637,
-      "num": 112637,
-      "word": "近视眼化妆的真实现状",
-      "onboard_time": 1737112340,
-      "rank": 34,
-      "category": "美妆"
     },
     {
       "raw_hot": 112152,
@@ -1939,6 +1995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110541,
+      "num": 110541,
+      "word": "全流程曝光美国窃取中国研究院机密",
+      "onboard_time": 1737111859,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 110516,
       "num": 110516,
       "word": "彭昱畅的狗不语只是一味卖萌",
@@ -1969,6 +2033,14 @@
       "onboard_time": 1737111378,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 110080,
+      "num": 110080,
+      "word": "王皓回应男队亚洲杯名单",
+      "onboard_time": 1737113060,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 109686,
@@ -2083,14 +2155,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 103393,
-      "num": 103393,
-      "word": "马龙樊振东未能入选亚洲杯参赛阵容",
-      "onboard_time": 1737112459,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 102868,
       "num": 102868,
       "word": "檀健次造谣者道歉",
@@ -2139,6 +2203,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 100429,
+      "num": 100429,
+      "word": "高圆圆你也是没放过林更新",
+      "onboard_time": 1737113118,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100324,
       "num": 100324,
       "word": "徐杰当选CBA全明星总票王",
@@ -2177,22 +2249,6 @@
       "onboard_time": 1737076878,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 99254,
-      "num": 99254,
-      "word": "英乌签署百年协议",
-      "onboard_time": 1737112038,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 99093,
-      "num": 99093,
-      "word": "唐探1900英国首映十分钟售罄",
-      "onboard_time": 1737112399,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 97832,
@@ -2235,6 +2291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94455,
+      "num": 94455,
+      "word": "张远超绝共情力",
+      "onboard_time": 1737113418,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94406,
       "num": 94406,
       "word": "景德镇车祸家属抑郁服药也无法缓解",
@@ -2249,14 +2313,6 @@
       "onboard_time": 1737080116,
       "rank": 45,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 91660,
-      "num": 91660,
-      "word": "全流程曝光美国窃取中国研究院机密",
-      "onboard_time": 1737111859,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 91595,
@@ -2281,6 +2337,14 @@
       "onboard_time": 1737103278,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89355,
+      "num": 89355,
+      "word": "李雅凛和母亲因虐待儿童获刑",
+      "onboard_time": 1737112698,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89159,
@@ -2345,14 +2409,6 @@
       "onboard_time": 1737107358,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84776,
-      "num": 84776,
-      "word": "李雅凛和母亲因虐待儿童获刑",
-      "onboard_time": 1737112698,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83496,

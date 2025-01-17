@@ -1,0 +1,410 @@
+{
+  "runTime": 1737113774306,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1868913,
+        "num": 1868913,
+        "word": "台湾当归",
+        "onboard_time": 1737107839,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 929894,
+        "num": 929894,
+        "word": "本科毕业入伍不到1年立一等功",
+        "onboard_time": 1737105860,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 54725,
+        "num": 636564,
+        "word": "我国再次成功发射一箭三星",
+        "onboard_time": 1737097759,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 555013,
+        "num": 555013,
+        "word": "6名泰缅边境失联被困中国公民回国",
+        "onboard_time": 1737107958,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 463436,
+        "num": 463436,
+        "word": "耿爽说今天可以说得更直白一些",
+        "onboard_time": 1737106998,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 328024,
+        "num": 328024,
+        "word": "荣耀CEO赵明内网发告别文章",
+        "onboard_time": 1737108739,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 301136,
+        "num": 301136,
+        "word": "张曼玉梁朝伟只拿到了两页剧本",
+        "onboard_time": 1737110238,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298380,
+        "num": 298380,
+        "word": "王俊凯二搭刘德华",
+        "onboard_time": 1737108259,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 257342,
+        "num": 257342,
+        "word": "中美网友聊嗨了",
+        "onboard_time": 1737087678,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243505,
+        "num": 243505,
+        "word": "马龙樊振东未能入选亚洲杯参赛阵容",
+        "onboard_time": 1737112459,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229481,
+        "num": 229481,
+        "word": "人民网评大奉打更人",
+        "onboard_time": 1737101418,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215198,
+        "num": 215198,
+        "word": "30万年终奖送往年会途中丢了",
+        "onboard_time": 1737104238,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204866,
+        "num": 204866,
+        "word": "被谎称死胎送人当事小伙现状",
+        "onboard_time": 1737104238,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201603,
+        "num": 201603,
+        "word": "吴谨言吊带黑长直",
+        "onboard_time": 1737105618,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200602,
+        "num": 200602,
+        "word": "胡杏儿胡一天豪门姐弟",
+        "onboard_time": 1737110420,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 199639,
+        "num": 199639,
+        "word": "白月梵星开分5.9",
+        "onboard_time": 1737101058,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187913,
+        "num": 187913,
+        "word": "白鹿三次央视春晚联排",
+        "onboard_time": 1737112218,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162513,
+        "num": 162513,
+        "word": "漂白塑料袋分装消尸",
+        "onboard_time": 1737110838,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151475,
+        "num": 151475,
+        "word": "劳模孙颖莎春节开始档期满满的",
+        "onboard_time": 1737111559,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144024,
+        "num": 151374,
+        "word": "方圆脸女生化妆前后的反差感",
+        "onboard_time": 1737111258,
+        "rank": 19,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1348807,
+        "num": 151062,
+        "word": "黄圣依有多讨厌直播",
+        "onboard_time": 1737109939,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 578948,
+        "num": 150856,
+        "word": "美甲",
+        "onboard_time": 1737107958,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 312877,
+        "num": 150551,
+        "word": "沈月居然是flandre表姐",
+        "onboard_time": 1737098719,
+        "rank": 22,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 295627,
+        "num": 150353,
+        "word": "林更新听到高圆圆叫弟媳的反应",
+        "onboard_time": 1737110660,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 238206,
+        "num": 149985,
+        "word": "王俊凯寸头",
+        "onboard_time": 1737108438,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187942,
+        "num": 149715,
+        "word": "近视眼化妆的真实现状",
+        "onboard_time": 1737112340,
+        "rank": 25,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 183228,
+        "num": 149581,
+        "word": "女子用擦玻璃神器巨响后玻璃炸裂",
+        "onboard_time": 1737110358,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157618,
+        "num": 149242,
+        "word": "李昀锐留洋男大即视感",
+        "onboard_time": 1737104358,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149143,
+        "num": 149143,
+        "word": "公安机关公布王星被骗至缅甸细节",
+        "onboard_time": 1737088699,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148293,
+        "num": 148293,
+        "word": "杨紫李现新剧豆瓣开分7.8",
+        "onboard_time": 1737103638,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145317,
+        "num": 145317,
+        "word": "陈丽君与法国歌手合唱越剧",
+        "onboard_time": 1737101238,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137337,
+        "num": 137337,
+        "word": "国色芳华秦胜意是真正时代的产物",
+        "onboard_time": 1737112998,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132431,
+        "num": 132431,
+        "word": "李玟50岁冥诞现场",
+        "onboard_time": 1737109338,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125439,
+        "num": 125439,
+        "word": "英乌签署百年协议",
+        "onboard_time": 1737112038,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125372,
+        "num": 125372,
+        "word": "TikTok日活降至8220万",
+        "onboard_time": 1737096859,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 120025,
+        "num": 120025,
+        "word": "时代少年团新年音乐会预热",
+        "onboard_time": 1737113540,
+        "rank": 35,
+        "category": "艺人,演出"
+      },
+      {
+        "raw_hot": 118080,
+        "num": 118080,
+        "word": "唐探1900英国首映十分钟售罄",
+        "onboard_time": 1737112399,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118026,
+        "num": 118026,
+        "word": "东北年夜饭的饭张力拉满了",
+        "onboard_time": 1737112998,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 114657,
+        "num": 114657,
+        "word": "耿爽在联合国当面戳穿美方3点谎言",
+        "onboard_time": 1737113118,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112023,
+        "num": 112023,
+        "word": "比亚迪",
+        "onboard_time": 1737107358,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 110541,
+        "num": 110541,
+        "word": "全流程曝光美国窃取中国研究院机密",
+        "onboard_time": 1737111859,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110080,
+        "num": 110080,
+        "word": "王皓回应男队亚洲杯名单",
+        "onboard_time": 1737113060,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107949,
+        "num": 107949,
+        "word": "以旧换新补贴家电新增4类产品",
+        "onboard_time": 1737094999,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103937,
+        "num": 103937,
+        "word": "我国2024年出生954万人",
+        "onboard_time": 1737089239,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100429,
+        "num": 100429,
+        "word": "高圆圆你也是没放过林更新",
+        "onboard_time": 1737113118,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100041,
+        "num": 100041,
+        "word": "搞台独绝不会有好下场",
+        "onboard_time": 1737109578,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100348,
+        "num": 98506,
+        "word": "王皓说亚洲杯选拔主要看排名和表现",
+        "onboard_time": 1737110898,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94455,
+        "num": 94455,
+        "word": "张远超绝共情力",
+        "onboard_time": 1737113418,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92351,
+        "num": 92351,
+        "word": "KPL",
+        "onboard_time": 1737111378,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 89355,
+        "num": 89355,
+        "word": "李雅凛和母亲因虐待儿童获刑",
+        "onboard_time": 1737112698,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}
