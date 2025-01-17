@@ -1,6 +1,6 @@
 {
   "startTime": 1737131217967,
-  "endTime": 1737138547781,
+  "endTime": 1737139330728,
   "band_list": [
     {
       "raw_hot": 850511,
@@ -99,8 +99,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 253736,
-      "num": 253736,
+      "raw_hot": 274402,
+      "num": 274402,
       "word": "美最高法支持政府对TikTok强迫出售令",
       "onboard_time": 1737132436,
       "rank": 8,
@@ -459,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46044,
+      "num": 35489,
+      "word": "中美网友对账后有些人天塌了",
+      "onboard_time": 1737136994,
+      "rank": 30,
+      "category": "民生新闻,国际时政"
+    },
+    {
       "raw_hot": 42642,
       "num": 44519,
       "word": "大奉打更人",
@@ -473,14 +481,6 @@
       "onboard_time": 1737134474,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39730,
-      "num": 35489,
-      "word": "中美网友对账后有些人天塌了",
-      "onboard_time": 1737136994,
-      "rank": 30,
-      "category": "民生新闻,国际时政"
     },
     {
       "raw_hot": 39625,
@@ -515,19 +515,19 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 16036,
+      "raw_hot": 21740,
+      "num": 68702,
+      "word": "俄罗斯驻华大使馆发布消费提示",
+      "onboard_time": 1737138432,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17784,
       "num": 190811,
       "word": "我国找矿又有重大突破",
       "onboard_time": 1737122298,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14583,
-      "num": 39509,
-      "word": "俄罗斯驻华大使馆发布消费提示",
-      "onboard_time": 1737138432,
-      "rank": 24,
       "category": "民生新闻"
     }
   ],
