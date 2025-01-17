@@ -1,6 +1,6 @@
 {
   "startTime": 1737131217967,
-  "endTime": 1737146151791,
+  "endTime": 1737148793127,
   "band_list": [
     {
       "raw_hot": 850511,
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 61337,
-      "num": 35489,
+      "num": 39137,
       "word": "中美网友对账后有些人天塌了",
       "onboard_time": 1737136994,
       "rank": 30,
@@ -523,7 +523,15 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 25028,
+      "raw_hot": 26183,
+      "num": 26183,
+      "word": "美国网友花式亮招和中国人唠嗑",
+      "onboard_time": 1737146951,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25474,
       "num": 31273,
       "word": "官方通报火锅店员工在后厨小便",
       "onboard_time": 1737131837,
@@ -555,19 +563,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17321,
+      "num": 39761,
+      "word": "73岁奶奶3元理发20多年不涨价",
+      "onboard_time": 1737145751,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 16782,
       "num": 25066,
       "word": "顾客多付2元钱老奶奶追着退回",
       "onboard_time": 1737144071,
       "rank": 19,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 12800,
-      "num": 39761,
-      "word": "73岁奶奶3元理发20多年不涨价",
-      "onboard_time": 1737145751,
-      "rank": 9,
       "category": "正能量"
     },
     {
@@ -593,6 +601,14 @@
       "onboard_time": 1737143351,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 9960,
+      "num": 39230,
+      "word": "档位调太大神器擦窗户时玻璃炸裂",
+      "onboard_time": 1737148210,
+      "rank": 9,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

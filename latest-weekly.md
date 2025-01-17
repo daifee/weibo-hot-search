@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/12 00:25:41 ~ 2025/01/18 04:35:51
+本榜单时间：2025/01/12 00:25:41 ~ 2025/01/18 05:19:53
 </p>
 </blockquote>
 <p>
@@ -14331,6 +14331,12 @@ NBA全明星第三轮投票结果（热度：27224）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%BD%91%E5%8F%8B%E8%8A%B1%E5%BC%8F%E4%BA%AE%E6%8B%9B%E5%92%8C%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%94%A0%E5%97%91%23" target="weibo">
+美国网友花式亮招和中国人唠嗑（热度：26183）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%82%E6%A1%A3%23" target="weibo">
 春节档（热度：26138）
 </a>
@@ -14351,6 +14357,12 @@ NBA全明星第三轮投票结果（热度：27224）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%B0%E6%88%90%E8%AF%B4%E5%8F%82%E6%BC%94%E5%94%90%E6%8E%A2%E6%9C%89%E5%8E%8B%E5%8A%9B%23" target="weibo">
 张新成说参演唐探有压力（热度：25645）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%81%AB%E9%94%85%E5%BA%97%E5%91%98%E5%B7%A5%E5%9C%A8%E5%90%8E%E5%8E%A8%E5%B0%8F%E4%BE%BF%23" target="weibo">
+官方通报火锅店员工在后厨小便（热度：25474）
 </a>
 </li>
 
@@ -14387,12 +14399,6 @@ aespaSMTOWN舞台（热度：25401）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E5%B0%BE%E8%B7%B3%E6%99%9A%E5%AE%89%E5%A4%A7%E5%B0%8F%E5%A7%90%23" target="weibo">
 九尾跳晚安大小姐（热度：25070）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%81%AB%E9%94%85%E5%BA%97%E5%91%98%E5%B7%A5%E5%9C%A8%E5%90%8E%E5%8E%A8%E5%B0%8F%E4%BE%BF%23" target="weibo">
-官方通报火锅店员工在后厨小便（热度：25028）
 </a>
 </li>
 
@@ -14691,6 +14697,12 @@ AG新春全员财神皮（热度：17695）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2373%E5%B2%81%E5%A5%B6%E5%A5%B63%E5%85%83%E7%90%86%E5%8F%9120%E5%A4%9A%E5%B9%B4%E4%B8%8D%E6%B6%A8%E4%BB%B7%23" target="weibo">
+73岁奶奶3元理发20多年不涨价（热度：17321）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9D%A2%E5%AF%B9%E9%80%AE%E6%8D%95%E5%B0%B9%E9%94%A1%E6%82%A6%E4%B8%BA%E4%BD%95%E6%80%81%E5%BA%A6%E8%BD%AC%E5%8F%98%23" target="weibo">
 面对逮捕尹锡悦为何态度转变（热度：17270）
 </a>
@@ -14853,12 +14865,6 @@ eStar版年会不能停（热度：14576）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2373%E5%B2%81%E5%A5%B6%E5%A5%B63%E5%85%83%E7%90%86%E5%8F%9120%E5%A4%9A%E5%B9%B4%E4%B8%8D%E6%B6%A8%E4%BB%B7%23" target="weibo">
-73岁奶奶3元理发20多年不涨价（热度：12800）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%BF%90%E5%9B%9E%E5%AE%B6%E8%B7%AF%E6%9C%89%E4%BB%96%E4%BB%AC%E9%BB%98%E9%BB%98%E5%AE%88%E6%8A%A4%23" target="weibo">
 春运回家路有他们默默守护（热度：12620）
 </a>
@@ -14975,6 +14981,12 @@ eStar版年会不能停（热度：14576）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23KPL%E6%A2%A6%E4%B9%8B%E9%98%9F%E5%B7%85%E5%B3%B0%E4%B9%8B%E5%A4%9C%E5%90%88%E4%BD%93%E8%BF%94%E5%9C%BA%23" target="weibo">
 KPL梦之队巅峰之夜合体返场（热度：10353）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A1%A3%E4%BD%8D%E8%B0%83%E5%A4%AA%E5%A4%A7%E7%A5%9E%E5%99%A8%E6%93%A6%E7%AA%97%E6%88%B7%E6%97%B6%E7%8E%BB%E7%92%83%E7%82%B8%E8%A3%82%23" target="weibo">
+档位调太大神器擦窗户时玻璃炸裂（热度：9960）
 </a>
 </li>
 

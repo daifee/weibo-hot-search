@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/18 00:26:57 ~ 2025/01/18 04:35:51
+本榜单时间：2025/01/18 00:26:57 ~ 2025/01/18 05:19:53
 </p>
 </blockquote>
 <p>
@@ -405,8 +405,14 @@ JDG花650万拍下状元签（热度：36827）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%BD%91%E5%8F%8B%E8%8A%B1%E5%BC%8F%E4%BA%AE%E6%8B%9B%E5%92%8C%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%94%A0%E5%97%91%23" target="weibo">
+美国网友花式亮招和中国人唠嗑（热度：26183）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%81%AB%E9%94%85%E5%BA%97%E5%91%98%E5%B7%A5%E5%9C%A8%E5%90%8E%E5%8E%A8%E5%B0%8F%E4%BE%BF%23" target="weibo">
-官方通报火锅店员工在后厨小便（热度：25028）
+官方通报火锅店员工在后厨小便（热度：25474）
 </a>
 </li>
 
@@ -429,14 +435,14 @@ JDG花650万拍下状元签（热度：36827）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E5%A4%9A%E4%BB%982%E5%85%83%E9%92%B1%E8%80%81%E5%A5%B6%E5%A5%B6%E8%BF%BD%E7%9D%80%E9%80%80%E5%9B%9E%23" target="weibo">
-顾客多付2元钱老奶奶追着退回（热度：16782）
+<a href="https://s.weibo.com/weibo?q=%2373%E5%B2%81%E5%A5%B6%E5%A5%B63%E5%85%83%E7%90%86%E5%8F%9120%E5%A4%9A%E5%B9%B4%E4%B8%8D%E6%B6%A8%E4%BB%B7%23" target="weibo">
+73岁奶奶3元理发20多年不涨价（热度：17321）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2373%E5%B2%81%E5%A5%B6%E5%A5%B63%E5%85%83%E7%90%86%E5%8F%9120%E5%A4%9A%E5%B9%B4%E4%B8%8D%E6%B6%A8%E4%BB%B7%23" target="weibo">
-73岁奶奶3元理发20多年不涨价（热度：12800）
+<a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E5%A4%9A%E4%BB%982%E5%85%83%E9%92%B1%E8%80%81%E5%A5%B6%E5%A5%B6%E8%BF%BD%E7%9D%80%E9%80%80%E5%9B%9E%23" target="weibo">
+顾客多付2元钱老奶奶追着退回（热度：16782）
 </a>
 </li>
 
@@ -455,6 +461,12 @@ JDG花650万拍下状元签（热度：36827）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%BE%81%E4%BA%8C%E5%8F%B7%E4%B8%81%E8%BF%90%E8%BD%BD%E7%81%AB%E7%AE%AD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%843%E9%A2%97%E5%8D%AB%E6%98%9F%23" target="weibo">
 长征二号丁运载火箭成功发射3颗卫星（热度：11331）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A1%A3%E4%BD%8D%E8%B0%83%E5%A4%AA%E5%A4%A7%E7%A5%9E%E5%99%A8%E6%93%A6%E7%AA%97%E6%88%B7%E6%97%B6%E7%8E%BB%E7%92%83%E7%82%B8%E8%A3%82%23" target="weibo">
+档位调太大神器擦窗户时玻璃炸裂（热度：9960）
 </a>
 </li>
 
