@@ -1,6 +1,6 @@
 {
   "startTime": 1737044847648,
-  "endTime": 1737127358577,
+  "endTime": 1737128188649,
   "band_list": [
     {
       "raw_hot": 2842832,
@@ -115,6 +115,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 955067,
+      "num": 955067,
+      "word": "何惟芳被贬为官奴",
+      "onboard_time": 1737125719,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 936848,
       "num": 1149895,
       "word": "宋慧乔本来是不婚主义者",
@@ -169,14 +177,6 @@
       "onboard_time": 1737035600,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 794854,
-      "num": 794854,
-      "word": "何惟芳被贬为官奴",
-      "onboard_time": 1737125719,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 787496,
@@ -305,6 +305,14 @@
       "onboard_time": 1737083839,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 603530,
+      "num": 603530,
+      "word": "成都一火锅店员工在后厨小便属实",
+      "onboard_time": 1737126020,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 598094,
@@ -715,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 339064,
+      "num": 339064,
+      "word": "俄大使馆回应假冒俄罗斯商品事件",
+      "onboard_time": 1737123979,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 327137,
       "num": 327137,
       "word": "加州一发电厂爆炸起火释放大量毒气",
@@ -875,6 +891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 285879,
+      "num": 285879,
+      "word": "刘宇宁大战泥塑粉",
+      "onboard_time": 1737126858,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 285575,
       "num": 228514,
       "word": "李子柒这数据太卷了",
@@ -915,14 +939,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 280021,
-      "num": 321936,
-      "word": "成都一火锅店员工在后厨小便属实",
-      "onboard_time": 1737126020,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 277117,
       "num": 277117,
       "word": "山东省考成绩",
@@ -961,14 +977,6 @@
       "onboard_time": 1737082399,
       "rank": 14,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 264563,
-      "num": 264563,
-      "word": "俄大使馆回应假冒俄罗斯商品事件",
-      "onboard_time": 1737123979,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 263964,
@@ -1307,6 +1315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 192705,
+      "num": 192705,
+      "word": "王源古装扮相",
+      "onboard_time": 1737124399,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192076,
       "num": 192076,
       "word": "周深的音响设备是世界顶级的",
@@ -1337,14 +1353,6 @@
       "onboard_time": 1737120439,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 187646,
-      "num": 187646,
-      "word": "王源古装扮相",
-      "onboard_time": 1737124399,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 187600,
@@ -1539,6 +1547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168855,
+      "num": 168855,
+      "word": "周深一边尖叫一边双杀",
+      "onboard_time": 1737127277,
+      "rank": 45,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 167541,
       "num": 167541,
       "word": "孙颖莎第一次出战亚洲杯",
@@ -1729,14 +1745,6 @@
       "onboard_time": 1737086899,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 154758,
-      "num": 154758,
-      "word": "刘宇宁大战泥塑粉",
-      "onboard_time": 1737126858,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 153387,
@@ -2899,14 +2907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 95559,
-      "num": 95559,
-      "word": "周深一边尖叫一边双杀",
-      "onboard_time": 1737127277,
-      "rank": 45,
-      "category": "艺人,游戏"
-    },
-    {
       "raw_hot": 95484,
       "num": 95484,
       "word": "春节成为非遗后年味会变重吗",
@@ -3057,6 +3057,14 @@
       "onboard_time": 1737107358,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85214,
+      "num": 85214,
+      "word": "春节档你最想看哪部影片",
+      "onboard_time": 1737127697,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 83496,
