@@ -1,6 +1,6 @@
 {
   "startTime": 1737131217967,
-  "endTime": 1737152417683,
+  "endTime": 1737153452963,
   "band_list": [
     {
       "raw_hot": 850511,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 299404,
-      "num": 366835,
+      "num": 469197,
       "word": "妈这就是你儿子搞的世界级大工程",
       "onboard_time": 1737131176,
       "rank": 47,
@@ -211,6 +211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 134398,
+      "num": 134398,
+      "word": "佛山电翰说不想再消耗工人身份",
+      "onboard_time": 1737141072,
+      "rank": 9,
+      "category": "网红"
+    },
+    {
       "raw_hot": 126990,
       "num": 126990,
       "word": "美甲",
@@ -259,12 +267,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 106712,
-      "num": 106712,
-      "word": "佛山电翰说不想再消耗工人身份",
-      "onboard_time": 1737141072,
-      "rank": 9,
-      "category": "网红"
+      "raw_hot": 106151,
+      "num": 79838,
+      "word": "中美网友对账后有些人天塌了",
+      "onboard_time": 1737136994,
+      "rank": 30,
+      "category": "民生新闻,国际时政"
     },
     {
       "raw_hot": 105745,
@@ -323,12 +331,12 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 85681,
-      "num": 62267,
-      "word": "中美网友对账后有些人天塌了",
-      "onboard_time": 1737136994,
-      "rank": 30,
-      "category": "民生新闻,国际时政"
+      "raw_hot": 83439,
+      "num": 83439,
+      "word": "美国针对TikTok与华为的是一批人",
+      "onboard_time": 1737137233,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 83239,
@@ -377,14 +385,6 @@
       "onboard_time": 1737125419,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 71651,
-      "num": 71651,
-      "word": "美国针对TikTok与华为的是一批人",
-      "onboard_time": 1737137233,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 71313,
@@ -515,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28595,
+      "num": 31273,
+      "word": "官方通报火锅店员工在后厨小便",
+      "onboard_time": 1737131837,
+      "rank": 46,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 28240,
       "num": 31312,
       "word": "封神第二部西岐阵营见面会",
@@ -529,14 +537,6 @@
       "onboard_time": 1737140891,
       "rank": 26,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 26706,
-      "num": 31273,
-      "word": "官方通报火锅店员工在后厨小便",
-      "onboard_time": 1737131837,
-      "rank": 46,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 26183,
@@ -555,6 +555,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22728,
+      "num": 62297,
+      "word": "氢气球爆燃温度超400摄氏度",
+      "onboard_time": 1737151932,
+      "rank": 9,
+      "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 20456,
+      "num": 39230,
+      "word": "档位调太大神器擦窗户时玻璃炸裂",
+      "onboard_time": 1737148210,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20395,
       "num": 24963,
       "word": "一路繁花芭莎大片",
@@ -563,20 +579,20 @@
       "category": "综艺,时尚"
     },
     {
-      "raw_hot": 20149,
-      "num": 39230,
-      "word": "档位调太大神器擦窗户时玻璃炸裂",
-      "onboard_time": 1737148210,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17784,
+      "raw_hot": 18293,
       "num": 190811,
       "word": "我国找矿又有重大突破",
       "onboard_time": 1737122298,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18212,
+      "num": 25066,
+      "word": "顾客多付2元钱老奶奶追着退回",
+      "onboard_time": 1737144071,
+      "rank": 19,
+      "category": "正能量"
     },
     {
       "raw_hot": 17321,
@@ -587,20 +603,20 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 16782,
-      "num": 25066,
-      "word": "顾客多付2元钱老奶奶追着退回",
-      "onboard_time": 1737144071,
-      "rank": 19,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 14741,
-      "num": 19397,
+      "raw_hot": 16948,
+      "num": 24723,
       "word": "氢气球遇静电瞬间爆燃",
       "onboard_time": 1737150673,
       "rank": 46,
       "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 13653,
+      "num": 30850,
+      "word": "2025汽车以旧换新政策有啥变化",
+      "onboard_time": 1737153372,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 12426,
@@ -627,12 +643,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 8807,
-      "num": 62297,
-      "word": "氢气球爆燃温度超400摄氏度",
-      "onboard_time": 1737151932,
-      "rank": 9,
-      "category": "民生新闻,科学科普"
+      "raw_hot": 7689,
+      "num": 30742,
+      "word": "蔚县春节花样多",
+      "onboard_time": 1737153132,
+      "rank": 25,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

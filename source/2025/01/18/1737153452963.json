@@ -1,0 +1,410 @@
+{
+  "runTime": 1737153452963,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 257895,
+        "num": 469197,
+        "word": "妈这就是你儿子搞的世界级大工程",
+        "onboard_time": 1737131176,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196044,
+        "num": 196044,
+        "word": "美最高法支持政府对TikTok强迫出售令",
+        "onboard_time": 1737132436,
+        "rank": 1,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 18293,
+        "num": 135599,
+        "word": "我国找矿又有重大突破",
+        "onboard_time": 1737122298,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134398,
+        "num": 134398,
+        "word": "佛山电翰说不想再消耗工人身份",
+        "onboard_time": 1737141072,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 93951,
+        "num": 93951,
+        "word": "成都一火锅店员工在后厨小便属实",
+        "onboard_time": 1737126020,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86815,
+        "num": 86815,
+        "word": "台湾当归",
+        "onboard_time": 1737107839,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 84057,
+        "num": 84057,
+        "word": "10岁男孩被批评报警举报父亲藏罂粟壳",
+        "onboard_time": 1737129798,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83439,
+        "num": 83439,
+        "word": "美国针对TikTok与华为的是一批人",
+        "onboard_time": 1737137233,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 82971,
+        "num": 82971,
+        "word": "本科毕业入伍不到1年立一等功",
+        "onboard_time": 1737105860,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 65128,
+        "num": 79989,
+        "word": "何惟芳被贬为官奴",
+        "onboard_time": 1737125719,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106151,
+        "num": 79838,
+        "word": "中美网友对账后有些人天塌了",
+        "onboard_time": 1737136994,
+        "rank": 10,
+        "category": "民生新闻,国际时政"
+      },
+      {
+        "raw_hot": 77794,
+        "num": 77794,
+        "word": "男子日本出差意外发现日军罪证",
+        "onboard_time": 1737125478,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56716,
+        "num": 56716,
+        "word": "希望美方务必慎重处理台湾问题",
+        "onboard_time": 1737128537,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 52491,
+        "num": 52491,
+        "word": "马斯克回应SpaceX星舰试飞后失联",
+        "onboard_time": 1737129617,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 51534,
+        "num": 51534,
+        "word": "6名泰缅边境失联被困中国公民回国",
+        "onboard_time": 1737107958,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41933,
+        "num": 41933,
+        "word": "徐志胜周一围朱丹这两口子太吓人了",
+        "onboard_time": 1737121999,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40304,
+        "num": 40304,
+        "word": "辽宁朝阳一女神形象花灯引争议",
+        "onboard_time": 1737122118,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37497,
+        "num": 37497,
+        "word": "刘宇宁大战泥塑粉",
+        "onboard_time": 1737126858,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34148,
+        "num": 34148,
+        "word": "春晚第三次联排阵容",
+        "onboard_time": 1737118638,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30750,
+        "num": 34145,
+        "word": "李昀锐累都写在眼睛上了",
+        "onboard_time": 1737114978,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84132,
+        "num": 33656,
+        "word": "黄圣依有多讨厌直播",
+        "onboard_time": 1737109939,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45909,
+        "num": 33475,
+        "word": "谷爱凌时隔5年再夺世界杯冠军",
+        "onboard_time": 1737129077,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40082,
+        "num": 33148,
+        "word": "徐冬冬说120斤是很爽的体重",
+        "onboard_time": 1737116058,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33106,
+        "num": 33106,
+        "word": "高铁上小孩吵闹男子一句话制服",
+        "onboard_time": 1737114918,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13653,
+        "num": 30850,
+        "word": "2025汽车以旧换新政策有啥变化",
+        "onboard_time": 1737153372,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 7689,
+        "num": 30742,
+        "word": "蔚县春节花样多",
+        "onboard_time": 1737153132,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30659,
+        "num": 30659,
+        "word": "国乒称着眼洛杉矶奥运会梯队建设",
+        "onboard_time": 1737128479,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29792,
+        "num": 29792,
+        "word": "漂白",
+        "onboard_time": 1737115218,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28623,
+        "num": 28623,
+        "word": "李华以后别写信了评论区见吧",
+        "onboard_time": 1737148931,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29451,
+        "num": 28622,
+        "word": "漂白第1集杀疯了",
+        "onboard_time": 1737119839,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28595,
+        "num": 28595,
+        "word": "官方通报火锅店员工在后厨小便",
+        "onboard_time": 1737131837,
+        "rank": 30,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 27938,
+        "num": 27938,
+        "word": "耿爽说今天可以说得更直白一些",
+        "onboard_time": 1737106998,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25905,
+        "num": 25905,
+        "word": "2025狮子座好运清单",
+        "onboard_time": 1737132316,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23109,
+        "num": 25269,
+        "word": "迪丽热巴红衣提灯拍摄路透",
+        "onboard_time": 1737128418,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23291,
+        "num": 25164,
+        "word": "春节档你最想看哪部影片",
+        "onboard_time": 1737127697,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25144,
+        "num": 25144,
+        "word": "俄大使馆回应假冒俄罗斯商品事件",
+        "onboard_time": 1737123979,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24767,
+        "num": 24767,
+        "word": "26岁小伙参与建设横竖都第一的大桥",
+        "onboard_time": 1737140891,
+        "rank": 36,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 22728,
+        "num": 24766,
+        "word": "氢气球爆燃温度超400摄氏度",
+        "onboard_time": 1737151932,
+        "rank": 37,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 22290,
+        "num": 24760,
+        "word": "再见爱人有完没完",
+        "onboard_time": 1737119659,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20456,
+        "num": 24756,
+        "word": "档位调太大神器擦窗户时玻璃炸裂",
+        "onboard_time": 1737148210,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20379,
+        "num": 24754,
+        "word": "近视眼化妆的真实现状",
+        "onboard_time": 1737112340,
+        "rank": 40,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 18837,
+        "num": 24752,
+        "word": "王者蛇限皮肤主题公布",
+        "onboard_time": 1737119899,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18782,
+        "num": 24747,
+        "word": "美国网友花式亮招和中国人唠嗑",
+        "onboard_time": 1737146951,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18601,
+        "num": 24743,
+        "word": "国家统一是不可阻挡的历史大势",
+        "onboard_time": 1737116778,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18551,
+        "num": 24740,
+        "word": "周深的音响设备是世界顶级的",
+        "onboard_time": 1737118819,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 18212,
+        "num": 24733,
+        "word": "顾客多付2元钱老奶奶追着退回",
+        "onboard_time": 1737144071,
+        "rank": 45,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 17651,
+        "num": 24731,
+        "word": "俄罗斯驻华大使馆发布消费提示",
+        "onboard_time": 1737138432,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17614,
+        "num": 24729,
+        "word": "陈垣宇4比2张本智和",
+        "onboard_time": 1737120798,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16948,
+        "num": 24723,
+        "word": "氢气球遇静电瞬间爆燃",
+        "onboard_time": 1737150673,
+        "rank": 48,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 14692,
+        "num": 24720,
+        "word": "王俊凯黄发蘑菇头",
+        "onboard_time": 1737116539,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}
