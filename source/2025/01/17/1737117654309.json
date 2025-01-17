@@ -1,0 +1,410 @@
+{
+  "runTime": 1737117654309,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1497519,
+        "num": 1497519,
+        "word": "台湾当归",
+        "onboard_time": 1737107839,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 768763,
+        "num": 768763,
+        "word": "本科毕业入伍不到1年立一等功",
+        "onboard_time": 1737105860,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 50004,
+        "num": 728079,
+        "word": "我国再次成功发射一箭三星",
+        "onboard_time": 1737097759,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 693750,
+        "num": 693750,
+        "word": "高铁上小孩吵闹男子一句话制服",
+        "onboard_time": 1737114918,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 521657,
+        "num": 521657,
+        "word": "马龙樊振东未能入选亚洲杯参赛阵容",
+        "onboard_time": 1737112459,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 430870,
+        "num": 430870,
+        "word": "最适合减脂期看的剧出现了",
+        "onboard_time": 1737114319,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 395326,
+        "num": 395326,
+        "word": "白鹿三次央视春晚联排",
+        "onboard_time": 1737112218,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342663,
+        "num": 342663,
+        "word": "耿爽说今天可以说得更直白一些",
+        "onboard_time": 1737106998,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 317037,
+        "num": 317037,
+        "word": "6名泰缅边境失联被困中国公民回国",
+        "onboard_time": 1737107958,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168254,
+        "num": 311442,
+        "word": "国家统一是不可阻挡的历史大势",
+        "onboard_time": 1737116778,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 310673,
+        "num": 310673,
+        "word": "JDG花650万拍下状元签",
+        "onboard_time": 1737116058,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 258043,
+        "num": 258043,
+        "word": "人民网评大奉打更人",
+        "onboard_time": 1737101418,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252484,
+        "num": 252484,
+        "word": "王者荣耀春节版本首曝",
+        "onboard_time": 1737116058,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 231166,
+        "num": 231166,
+        "word": "2025听到最恐怖的一句我爱你",
+        "onboard_time": 1737114859,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226762,
+        "num": 226762,
+        "word": "荣耀CEO赵明内网发告别文章",
+        "onboard_time": 1737108739,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 217723,
+        "num": 217723,
+        "word": "漂白",
+        "onboard_time": 1737115218,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207749,
+        "num": 207749,
+        "word": "秦彻英国爱丁堡",
+        "onboard_time": 1737113838,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200343,
+        "num": 200343,
+        "word": "中美网友聊嗨了",
+        "onboard_time": 1737087678,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192826,
+        "num": 192826,
+        "word": "吴谨言吊带黑长直",
+        "onboard_time": 1737105618,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188310,
+        "num": 188310,
+        "word": "祁煜潮间带",
+        "onboard_time": 1737115698,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 822395,
+        "num": 186811,
+        "word": "黄圣依有多讨厌直播",
+        "onboard_time": 1737109939,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410514,
+        "num": 185684,
+        "word": "徐冬冬说120斤是很爽的体重",
+        "onboard_time": 1737116058,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321438,
+        "num": 184395,
+        "word": "近视眼化妆的真实现状",
+        "onboard_time": 1737112340,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 305173,
+        "num": 181680,
+        "word": "王俊凯二搭刘德华",
+        "onboard_time": 1737108259,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40530,
+        "num": 180640,
+        "word": "哈兰德与曼城续约9年半",
+        "onboard_time": 1737107119,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212593,
+        "num": 178521,
+        "word": "李昀锐累都写在眼睛上了",
+        "onboard_time": 1737114978,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194122,
+        "num": 177246,
+        "word": "美甲",
+        "onboard_time": 1737107958,
+        "rank": 26,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 176539,
+        "num": 176539,
+        "word": "限时点券换云缨全新传说皮肤",
+        "onboard_time": 1737117559,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175562,
+        "num": 175562,
+        "word": "国色芳华秦胜意是真正时代的产物",
+        "onboard_time": 1737112998,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173223,
+        "num": 173223,
+        "word": "王俊凯黄发蘑菇头",
+        "onboard_time": 1737116539,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170307,
+        "num": 170307,
+        "word": "林更新听到高圆圆叫弟媳的反应",
+        "onboard_time": 1737110660,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161259,
+        "num": 161259,
+        "word": "沈月居然是flandre表姐",
+        "onboard_time": 1737098719,
+        "rank": 31,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 160559,
+        "num": 160559,
+        "word": "张曼玉梁朝伟只拿到了两页剧本",
+        "onboard_time": 1737110238,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157094,
+        "num": 157094,
+        "word": "漂白塑料袋分装消尸",
+        "onboard_time": 1737110838,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151325,
+        "num": 151325,
+        "word": "方圆脸女生化妆前后的反差感",
+        "onboard_time": 1737111258,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 148603,
+        "num": 148603,
+        "word": "闪耀暖暖",
+        "onboard_time": 1737113898,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132551,
+        "num": 132551,
+        "word": "高圆圆你也是没放过林更新",
+        "onboard_time": 1737113118,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132337,
+        "num": 132337,
+        "word": "全流程曝光美国窃取中国研究院机密",
+        "onboard_time": 1737111859,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127050,
+        "num": 127050,
+        "word": "30万年终奖送往年会途中丢了",
+        "onboard_time": 1737104238,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125813,
+        "num": 125813,
+        "word": "女子用擦玻璃神器巨响后玻璃炸裂",
+        "onboard_time": 1737110358,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124866,
+        "num": 124866,
+        "word": "王力宏工作室已报警",
+        "onboard_time": 1737116658,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119348,
+        "num": 119348,
+        "word": "王皓回应男队亚洲杯名单",
+        "onboard_time": 1737113060,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118712,
+        "num": 118712,
+        "word": "白月梵星开分5.9",
+        "onboard_time": 1737101058,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98038,
+        "num": 98038,
+        "word": "被谎称死胎送人当事小伙现状",
+        "onboard_time": 1737104238,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96407,
+        "num": 96407,
+        "word": "恋与深空",
+        "onboard_time": 1737115818,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96275,
+        "num": 96275,
+        "word": "陈丽君与法国歌手合唱越剧",
+        "onboard_time": 1737101238,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 93320,
+        "num": 93320,
+        "word": "英乌签署百年协议",
+        "onboard_time": 1737112038,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 92672,
+        "num": 92672,
+        "word": "TikTok日活降至8220万",
+        "onboard_time": 1737096859,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 91239,
+        "num": 91239,
+        "word": "胡杏儿胡一天豪门姐弟",
+        "onboard_time": 1737110420,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 87309,
+        "num": 87309,
+        "word": "第一批回家过年的人现状",
+        "onboard_time": 1737117198,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}
