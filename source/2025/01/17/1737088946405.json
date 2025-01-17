@@ -1,0 +1,410 @@
+{
+  "runTime": 1737088946405,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 952221,
+        "num": 1152355,
+        "word": "女子和丈夫养100只鸵鸟做鸵鸟吃播",
+        "onboard_time": 1737080418,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 882104,
+        "num": 882104,
+        "word": "16个外甥又来舅舅家过寒假了",
+        "onboard_time": 1737087678,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33175,
+        "num": 775806,
+        "word": "新春南宁老友记",
+        "onboard_time": 1737086778,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 698949,
+        "num": 698949,
+        "word": "2024年出生人口回升",
+        "onboard_time": 1737083418,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 606805,
+        "num": 606805,
+        "word": "蛇年央视春晚第三次联排",
+        "onboard_time": 1737084919,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 551049,
+        "num": 551049,
+        "word": "预售",
+        "onboard_time": 1737086119,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 540045,
+        "num": 540045,
+        "word": "小米全球总部15元的员工餐",
+        "onboard_time": 1737087560,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 521116,
+        "num": 521116,
+        "word": "嘘国王在冬眠",
+        "onboard_time": 1737083839,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 412226,
+        "num": 412226,
+        "word": "2024年中国GDP同比增长5%",
+        "onboard_time": 1737080298,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 292738,
+        "num": 410649,
+        "word": "拍封神把传说中的神仙研究了一遍",
+        "onboard_time": 1737087618,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 2167801,
+        "num": 383101,
+        "word": "鹿哈向女友求婚成功",
+        "onboard_time": 1737077537,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 497167,
+        "num": 360584,
+        "word": "向佐为妈妈和郭碧婷庆生",
+        "onboard_time": 1737087137,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 495861,
+        "num": 347838,
+        "word": "D社曝金敏喜怀孕",
+        "onboard_time": 1737078137,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336836,
+        "num": 336836,
+        "word": "近期将恢复福建上海居民赴台团队游",
+        "onboard_time": 1737076697,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333595,
+        "num": 333595,
+        "word": "电影无名之辈2",
+        "onboard_time": 1737083119,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 300496,
+        "num": 300496,
+        "word": "难哄OST全明星阵容",
+        "onboard_time": 1737084559,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278571,
+        "num": 278571,
+        "word": "除夕10天倒计时",
+        "onboard_time": 1737070095,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267988,
+        "num": 267988,
+        "word": "节后返工警惕境外高薪务工陷阱",
+        "onboard_time": 1737086239,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242671,
+        "num": 242671,
+        "word": "公安机关公布王星被骗至缅甸细节",
+        "onboard_time": 1737088699,
+        "rank": 18,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 132658,
+        "num": 242537,
+        "word": "石凯微博直播",
+        "onboard_time": 1737088640,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 700761,
+        "num": 241914,
+        "word": "因吵架妻子胎停丈夫崩溃大哭",
+        "onboard_time": 1737074179,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268447,
+        "num": 241373,
+        "word": "陈冠希人肉素人老婆",
+        "onboard_time": 1737030318,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262482,
+        "num": 241152,
+        "word": "王俊凯无名之辈造型",
+        "onboard_time": 1737084978,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 252711,
+        "num": 240586,
+        "word": "马龙不语只是一味地帅",
+        "onboard_time": 1737087618,
+        "rank": 23,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 185357,
+        "num": 240226,
+        "word": "恋与制作人不归者的燎原",
+        "onboard_time": 1737088518,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108738,
+        "num": 239532,
+        "word": "蛇来运转春节档",
+        "onboard_time": 1737087678,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 239400,
+        "num": 239400,
+        "word": "徐冬冬沙滩照身材",
+        "onboard_time": 1737081798,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229282,
+        "num": 229282,
+        "word": "秦霄贤好友怒怼辛雨锡",
+        "onboard_time": 1737079337,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228066,
+        "num": 228066,
+        "word": "YG结束演员业务",
+        "onboard_time": 1737083718,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117272,
+        "num": 222040,
+        "word": "杨肸子新剧小小的鲛人好鲜活",
+        "onboard_time": 1737088640,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 334807,
+        "num": 220781,
+        "word": "第一次做小姨凭什么让着你",
+        "onboard_time": 1737087560,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217676,
+        "num": 217676,
+        "word": "这些春晚歌曲拉满过年氛围感",
+        "onboard_time": 1737078857,
+        "rank": 31,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 205993,
+        "num": 205993,
+        "word": "理肤泉",
+        "onboard_time": 1737088038,
+        "rank": 32,
+        "category": "体育,美妆"
+      },
+      {
+        "raw_hot": 205938,
+        "num": 205938,
+        "word": "SM现役女团合照",
+        "onboard_time": 1737082697,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195255,
+        "num": 195255,
+        "word": "射雕内卷现场",
+        "onboard_time": 1737088699,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192149,
+        "num": 192149,
+        "word": "生化和流产的区别",
+        "onboard_time": 1737073939,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 181094,
+        "num": 181094,
+        "word": "中美网友聊嗨了",
+        "onboard_time": 1737087678,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177335,
+        "num": 177335,
+        "word": "金晨ELLE首封",
+        "onboard_time": 1737085039,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172508,
+        "num": 172508,
+        "word": "贾玲终极梦想是拍情景喜剧",
+        "onboard_time": 1737087799,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172250,
+        "num": 172250,
+        "word": "李子柒这数据太卷了",
+        "onboard_time": 1737077717,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154510,
+        "num": 154510,
+        "word": "田馥甄谈冻卵生子",
+        "onboard_time": 1737082338,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151422,
+        "num": 151422,
+        "word": "樊振东点赞回应美国网友",
+        "onboard_time": 1737084559,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142812,
+        "num": 142812,
+        "word": "人体最大免疫器官竟是它",
+        "onboard_time": 1737088819,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133897,
+        "num": 133897,
+        "word": "女子鼻骨骨折消肿后喜提高鼻梁",
+        "onboard_time": 1737076457,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131272,
+        "num": 131272,
+        "word": "封神是中国人自己的国民神话",
+        "onboard_time": 1737088279,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129936,
+        "num": 129936,
+        "word": "2024国民经济运行情况",
+        "onboard_time": 1737080116,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 125364,
+        "num": 125364,
+        "word": "美国女孩小红书捞中国同学神速成功",
+        "onboard_time": 1737040759,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124138,
+        "num": 124138,
+        "word": "张康乐说马柏全喜欢装成熟",
+        "onboard_time": 1737088339,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122181,
+        "num": 122181,
+        "word": "白鹿也在嗑代露娃常华森",
+        "onboard_time": 1737071237,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121043,
+        "num": 121043,
+        "word": "难哄",
+        "onboard_time": 1737088878,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展冰雪产业丰富群众冰雪赛事活动#"
+    }
+  }
+}
