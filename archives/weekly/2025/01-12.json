@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1737118565654,
+  "endTime": 1737120328992,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -1971,6 +1971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 721463,
+      "num": 721463,
+      "word": "高铁上小孩吵闹男子一句话制服",
+      "onboard_time": 1737114918,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 721454,
       "num": 721454,
       "word": "漂白马桶冲出20斤人体组织",
@@ -2097,14 +2105,6 @@
       "onboard_time": 1736824878,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 693750,
-      "num": 693750,
-      "word": "高铁上小孩吵闹男子一句话制服",
-      "onboard_time": 1737114918,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 692458,
@@ -3675,6 +3675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 444566,
+      "num": 444566,
+      "word": "2025听到最恐怖的一句我爱你",
+      "onboard_time": 1737114859,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 443682,
       "num": 406780,
       "word": "王鹤棣田曦薇密室紧紧牵手",
@@ -4019,6 +4027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 410101,
+      "num": 410101,
+      "word": "JDG花650万拍下状元签",
+      "onboard_time": 1737116058,
+      "rank": 10,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 406393,
       "num": 406393,
       "word": "常华森 骨相好皮薄馅不多",
@@ -4233,6 +4249,14 @@
       "onboard_time": 1736993776,
       "rank": 12,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 388135,
+      "num": 388135,
+      "word": "国色芳华秦胜意是真正时代的产物",
+      "onboard_time": 1737112998,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 387848,
@@ -4643,6 +4667,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 352595,
+      "num": 189859,
+      "word": "王者蛇限皮肤主题公布",
+      "onboard_time": 1737119899,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 352308,
       "num": 352308,
       "word": "王楚钦小说里的顶级大学生",
@@ -4697,14 +4729,6 @@
       "onboard_time": 1737024858,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 345827,
-      "num": 345827,
-      "word": "JDG花650万拍下状元签",
-      "onboard_time": 1737116058,
-      "rank": 10,
-      "category": "电竞"
     },
     {
       "raw_hot": 345689,
@@ -5755,6 +5779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 280672,
+      "num": 280672,
+      "word": "王者荣耀",
+      "onboard_time": 1736896815,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 280291,
       "num": 251205,
       "word": "李威经纪人回应杀人案",
@@ -5953,6 +5985,14 @@
       "onboard_time": 1736749219,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 268623,
+      "num": 311442,
+      "word": "国家统一是不可阻挡的历史大势",
+      "onboard_time": 1737116778,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 268472,
@@ -6400,14 +6440,6 @@
       "word": "永夜星河出专辑了",
       "onboard_time": 1737089299,
       "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 251894,
-      "num": 251894,
-      "word": "2025听到最恐怖的一句我爱你",
-      "onboard_time": 1737114859,
-      "rank": 13,
       "category": "剧集"
     },
     {
@@ -6939,14 +6971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 227905,
-      "num": 227905,
-      "word": "国色芳华秦胜意是真正时代的产物",
-      "onboard_time": 1737112998,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 227662,
       "num": 227662,
       "word": "祝绪丹新剧垂耳兔造型",
@@ -7008,6 +7032,14 @@
       "word": "2025春节档影片你最期待哪部",
       "onboard_time": 1736735179,
       "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 225794,
+      "num": 225794,
+      "word": "王俊凯黄发蘑菇头",
+      "onboard_time": 1737116539,
+      "rank": 29,
       "category": "电影"
     },
     {
@@ -7633,6 +7665,14 @@
       "onboard_time": 1736654839,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207212,
+      "num": 207212,
+      "word": "陈垣宇vs张本智和",
+      "onboard_time": 1737119899,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 207130,
@@ -8699,12 +8739,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190186,
-      "num": 311442,
-      "word": "国家统一是不可阻挡的历史大势",
-      "onboard_time": 1737116778,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 190161,
+      "num": 190161,
+      "word": "漂白第1集杀疯了",
+      "onboard_time": 1737119839,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 190105,
@@ -8883,6 +8923,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 187600,
+      "num": 189581,
+      "word": "弈星新皮肤万物之道",
+      "onboard_time": 1737117980,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187541,
       "num": 194586,
       "word": "周深说观众是演唱会的灵魂",
@@ -8913,6 +8961,14 @@
       "onboard_time": 1736672839,
       "rank": 29,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 187161,
+      "num": 187161,
+      "word": "周深的音响设备是世界顶级的",
+      "onboard_time": 1737118819,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 187108,
@@ -9467,14 +9523,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 179282,
-      "num": 179282,
-      "word": "王俊凯黄发蘑菇头",
-      "onboard_time": 1737116539,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 179038,
       "num": 179038,
       "word": "白烁一滴血反杀",
@@ -9675,6 +9723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176150,
+      "num": 176150,
+      "word": "无期迷途",
+      "onboard_time": 1737119659,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 175733,
       "num": 175733,
       "word": "上个蛇年沈马组合首次亮相春晚",
@@ -9779,12 +9835,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 174062,
+      "num": 174062,
+      "word": "王者未尽之器系列皮肤",
+      "onboard_time": 1737119899,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 174016,
       "num": 157064,
       "word": "学8年中医外国人因TikTok难民破防了",
       "onboard_time": 1737101238,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 173986,
+      "num": 173986,
+      "word": "王者少司缘伴生皮",
+      "onboard_time": 1737118759,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 173936,
@@ -9817,14 +9889,6 @@
       "onboard_time": 1736846539,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 173704,
-      "num": 173704,
-      "word": "王者荣耀",
-      "onboard_time": 1736896815,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 173334,
@@ -10337,6 +10401,14 @@
       "onboard_time": 1736650819,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165204,
+      "num": 165204,
+      "word": "春晚第三次联排阵容",
+      "onboard_time": 1737118638,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 165109,
@@ -11483,14 +11555,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 149023,
-      "num": 149023,
-      "word": "弈星新皮肤万物之道",
-      "onboard_time": 1737117980,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 148949,
       "num": 148949,
       "word": "敖瑞鹏不语只是一味提鞋",
@@ -11875,6 +11939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144349,
+      "num": 144349,
+      "word": "孙颖莎第一次出战亚洲杯",
+      "onboard_time": 1737119959,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144205,
       "num": 159108,
       "word": "茯苓强制爱",
@@ -12209,6 +12281,14 @@
       "onboard_time": 1737069375,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 139401,
+      "num": 139401,
+      "word": "再见爱人有完没完",
+      "onboard_time": 1737119659,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 139398,
@@ -13411,6 +13491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 126175,
+      "num": 126175,
+      "word": "石洵瑶4比0蒯曼",
+      "onboard_time": 1737117859,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126016,
       "num": 126016,
       "word": "韩媒披露尹锡悦被捕细节",
@@ -13771,6 +13859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121596,
+      "num": 121596,
+      "word": "代露娃演技好细腻",
+      "onboard_time": 1737120198,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121570,
       "num": 121570,
       "word": "那尔那茜封神路演像汇报表演",
@@ -13921,14 +14017,6 @@
       "onboard_time": 1737011898,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120954,
-      "num": 120954,
-      "word": "石洵瑶4比0蒯曼",
-      "onboard_time": 1737117859,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 120891,
@@ -14427,6 +14515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 116007,
+      "num": 116007,
+      "word": "BLG战胜EDG",
+      "onboard_time": 1737119479,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 115977,
       "num": 404112,
       "word": "近期流感未超过上一年流行季水平",
@@ -14851,6 +14947,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 112082,
+      "num": 112082,
+      "word": "印度赛梁王组合无缘4强",
+      "onboard_time": 1737118638,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111731,
       "num": 111731,
       "word": "宠物可以火车托运吗",
@@ -15129,6 +15233,14 @@
       "onboard_time": 1737087678,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 108649,
+      "num": 108649,
+      "word": "第一批回家过年的人现状",
+      "onboard_time": 1737117198,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 108645,
@@ -15667,14 +15779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 101419,
-      "num": 101419,
-      "word": "第一批回家过年的人现状",
-      "onboard_time": 1737117198,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 101166,
       "num": 101166,
       "word": "国色芳华主题曲从国内响到海外",
@@ -15905,6 +16009,14 @@
       "onboard_time": 1737034160,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 97201,
+      "num": 97201,
+      "word": "武汉一公园公开卖猕猴引质疑",
+      "onboard_time": 1737119179,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97037,
@@ -16569,6 +16681,14 @@
       "onboard_time": 1736674459,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 79296,
+      "num": 361152,
+      "word": "报废旧车购买新能源车补贴2万元",
+      "onboard_time": 1737119780,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78818,
@@ -18217,6 +18337,14 @@
       "onboard_time": 1736962693,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31963,
+      "num": 189396,
+      "word": "秦彻我们终会重逢",
+      "onboard_time": 1737119420,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 31721,

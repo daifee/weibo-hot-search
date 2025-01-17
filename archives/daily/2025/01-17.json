@@ -1,6 +1,6 @@
 {
   "startTime": 1737044847648,
-  "endTime": 1737118565654,
+  "endTime": 1737120328992,
   "band_list": [
     {
       "raw_hot": 2842832,
@@ -203,20 +203,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 721463,
+      "num": 721463,
+      "word": "高铁上小孩吵闹男子一句话制服",
+      "onboard_time": 1737114918,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 721454,
       "num": 721454,
       "word": "漂白马桶冲出20斤人体组织",
       "onboard_time": 1737098419,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 693750,
-      "num": 693750,
-      "word": "高铁上小孩吵闹男子一句话制服",
-      "onboard_time": 1737114918,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 690605,
@@ -451,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 444566,
+      "num": 444566,
+      "word": "2025听到最恐怖的一句我爱你",
+      "onboard_time": 1737114859,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 437573,
       "num": 437573,
       "word": "拜登计划把烫手山芋留给特朗普",
@@ -523,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 410101,
+      "num": 410101,
+      "word": "JDG花650万拍下状元签",
+      "onboard_time": 1737116058,
+      "rank": 10,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 398586,
       "num": 398586,
       "word": "李现三年三部湖南卫视上星剧",
@@ -553,6 +569,14 @@
       "onboard_time": 1737078857,
       "rank": 19,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 388135,
+      "num": 388135,
+      "word": "国色芳华秦胜意是真正时代的产物",
+      "onboard_time": 1737112998,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 387766,
@@ -619,20 +643,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 352595,
+      "num": 189859,
+      "word": "王者蛇限皮肤主题公布",
+      "onboard_time": 1737119899,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 349485,
       "num": 380579,
       "word": "以旧换新补贴家电新增4类产品",
       "onboard_time": 1737094999,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 345827,
-      "num": 345827,
-      "word": "JDG花650万拍下状元签",
-      "onboard_time": 1737116058,
-      "rank": 10,
-      "category": "电竞"
     },
     {
       "raw_hot": 325270,
@@ -787,6 +811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 280672,
+      "num": 280672,
+      "word": "王者荣耀",
+      "onboard_time": 1737118039,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 277117,
       "num": 277117,
       "word": "山东省考成绩",
@@ -801,6 +833,14 @@
       "onboard_time": 1737087799,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 268623,
+      "num": 311442,
+      "word": "国家统一是不可阻挡的历史大势",
+      "onboard_time": 1737116778,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 267694,
@@ -915,14 +955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 251894,
-      "num": 251894,
-      "word": "2025听到最恐怖的一句我爱你",
-      "onboard_time": 1737114859,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 249617,
       "num": 249617,
       "word": "磕cp时大脑会以为自己在谈恋爱",
@@ -971,12 +1003,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 227905,
-      "num": 227905,
-      "word": "国色芳华秦胜意是真正时代的产物",
-      "onboard_time": 1737112998,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 225794,
+      "num": 225794,
+      "word": "王俊凯黄发蘑菇头",
+      "onboard_time": 1737116539,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 224028,
@@ -1057,6 +1089,14 @@
       "onboard_time": 1737065891,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207212,
+      "num": 207212,
+      "word": "陈垣宇vs张本智和",
+      "onboard_time": 1737119899,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 205993,
@@ -1147,12 +1187,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 190186,
-      "num": 311442,
-      "word": "国家统一是不可阻挡的历史大势",
-      "onboard_time": 1737116778,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 190161,
+      "num": 190161,
+      "word": "漂白第1集杀疯了",
+      "onboard_time": 1737119839,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 188310,
@@ -1163,12 +1203,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187600,
+      "num": 189581,
+      "word": "弈星新皮肤万物之道",
+      "onboard_time": 1737117980,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187541,
       "num": 194586,
       "word": "周深说观众是演唱会的灵魂",
       "onboard_time": 1737089539,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 187161,
+      "num": 187161,
+      "word": "周深的音响设备是世界顶级的",
+      "onboard_time": 1737118819,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 185953,
@@ -1251,20 +1307,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179282,
-      "num": 179282,
-      "word": "王俊凯黄发蘑菇头",
-      "onboard_time": 1737116539,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 177459,
       "num": 177459,
       "word": "丁禹兮第三次央视春晚联排",
       "onboard_time": 1737090859,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176150,
+      "num": 176150,
+      "word": "无期迷途",
+      "onboard_time": 1737119659,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 174062,
+      "num": 174062,
+      "word": "王者未尽之器系列皮肤",
+      "onboard_time": 1737119899,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 174016,
@@ -1275,11 +1339,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 173704,
-      "num": 173704,
-      "word": "王者荣耀",
-      "onboard_time": 1737118039,
-      "rank": 28,
+      "raw_hot": 173986,
+      "num": 173986,
+      "word": "王者少司缘伴生皮",
+      "onboard_time": 1737118759,
+      "rank": 34,
       "category": "游戏"
     },
     {
@@ -1376,6 +1440,14 @@
       "word": "井胧井迪心眼子都使在对方身上了",
       "onboard_time": 1737096017,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 165204,
+      "num": 165204,
+      "word": "春晚第三次联排阵容",
+      "onboard_time": 1737118638,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -1539,14 +1611,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 149023,
-      "num": 149023,
-      "word": "弈星新皮肤万物之道",
-      "onboard_time": 1737117980,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 148006,
       "num": 148006,
       "word": "狗子回村第一天就长出了龅牙",
@@ -1611,6 +1675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144349,
+      "num": 144349,
+      "word": "孙颖莎第一次出战亚洲杯",
+      "onboard_time": 1737119959,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141592,
       "num": 141592,
       "word": "周一围请苍天辨忠奸",
@@ -1641,6 +1713,14 @@
       "onboard_time": 1737069375,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 139401,
+      "num": 139401,
+      "word": "再见爱人有完没完",
+      "onboard_time": 1737119659,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 138980,
@@ -1803,6 +1883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126175,
+      "num": 126175,
+      "word": "石洵瑶4比0蒯曼",
+      "onboard_time": 1737117859,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125720,
       "num": 125720,
       "word": "短剧导演编剧岗平均月薪过万",
@@ -1899,6 +1987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121596,
+      "num": 121596,
+      "word": "代露娃演技好细腻",
+      "onboard_time": 1737120198,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121561,
       "num": 121561,
       "word": "我国60岁以上人口首次突破3亿",
@@ -1913,14 +2009,6 @@
       "onboard_time": 1737093679,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120954,
-      "num": 120954,
-      "word": "石洵瑶4比0蒯曼",
-      "onboard_time": 1737117859,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 120443,
@@ -2051,6 +2139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116007,
+      "num": 116007,
+      "word": "BLG战胜EDG",
+      "onboard_time": 1737119479,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 114657,
       "num": 114657,
       "word": "耿爽在联合国当面戳穿美方3点谎言",
@@ -2121,6 +2217,14 @@
       "onboard_time": 1737043758,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 112082,
+      "num": 112082,
+      "word": "印度赛梁王组合无缘4强",
+      "onboard_time": 1737118638,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 111581,
@@ -2233,6 +2337,14 @@
       "onboard_time": 1737087678,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 108649,
+      "num": 108649,
+      "word": "第一批回家过年的人现状",
+      "onboard_time": 1737117198,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 108645,
@@ -2363,14 +2475,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 101419,
-      "num": 101419,
-      "word": "第一批回家过年的人现状",
-      "onboard_time": 1737117198,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 101148,
       "num": 190202,
       "word": "一诺说自己是大奉电竞人",
@@ -2433,6 +2537,14 @@
       "onboard_time": 1737103039,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97201,
+      "num": 97201,
+      "word": "武汉一公园公开卖猕猴引质疑",
+      "onboard_time": 1737119179,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97037,
@@ -2641,6 +2753,14 @@
       "onboard_time": 1737024858,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 79296,
+      "num": 361152,
+      "word": "报废旧车购买新能源车补贴2万元",
+      "onboard_time": 1737119780,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78112,
@@ -2881,6 +3001,14 @@
       "onboard_time": 1737086778,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31963,
+      "num": 189396,
+      "word": "秦彻我们终会重逢",
+      "onboard_time": 1737119420,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 29091,
