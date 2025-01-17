@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737106585912,
+  "endTime": 1737109373405,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1747,6 +1747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1665379,
+      "num": 1665379,
+      "word": "本科毕业入伍不到1年立一等功",
+      "onboard_time": 1737105860,
+      "rank": 24,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 1663778,
       "num": 1663778,
       "word": "抽中黄子韬车女子回应是否有黑幕",
@@ -1945,6 +1953,14 @@
       "onboard_time": 1736957357,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1580248,
+      "num": 1580248,
+      "word": "台湾当归",
+      "onboard_time": 1737107839,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1575211,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1736217379,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1421428,
-      "num": 1421428,
-      "word": "前童星住所遭大火烧毁窒息而死",
-      "onboard_time": 1736683340,
-      "rank": 0,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1420052,
-      "num": 1218406,
-      "word": "张凌赫回复丞磊粉丝",
-      "onboard_time": 1736670201,
-      "rank": 34,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [

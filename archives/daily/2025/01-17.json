@@ -1,6 +1,6 @@
 {
   "startTime": 1737044847648,
-  "endTime": 1737106585912,
+  "endTime": 1737109373405,
   "band_list": [
     {
       "raw_hot": 2842832,
@@ -24,6 +24,22 @@
       "word": "全国人口减少139万人",
       "onboard_time": 1737081558,
       "rank": 5,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 1665379,
+      "num": 1665379,
+      "word": "本科毕业入伍不到1年立一等功",
+      "onboard_time": 1737105860,
+      "rank": 24,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 1580248,
+      "num": 1580248,
+      "word": "台湾当归",
+      "onboard_time": 1737107839,
+      "rank": 1,
       "category": "国内时政"
     },
     {
@@ -244,7 +260,7 @@
     },
     {
       "raw_hot": 594669,
-      "num": 287220,
+      "num": 305575,
       "word": "TikTok禁令将交由特朗普决定",
       "onboard_time": 1737103218,
       "rank": 10,
@@ -371,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 447333,
+      "num": 447333,
+      "word": "被谎称死胎送人当事小伙现状",
+      "onboard_time": 1737104238,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 437573,
       "num": 437573,
       "word": "拜登计划把烫手山芋留给特朗普",
@@ -468,7 +492,7 @@
     },
     {
       "raw_hot": 360400,
-      "num": 206031,
+      "num": 236874,
       "word": "白月梵星开分5.9",
       "onboard_time": 1737101058,
       "rank": 22,
@@ -524,7 +548,7 @@
     },
     {
       "raw_hot": 315475,
-      "num": 284979,
+      "num": 302475,
       "word": "李昀锐留洋男大即视感",
       "onboard_time": 1737104358,
       "rank": 11,
@@ -572,7 +596,7 @@
     },
     {
       "raw_hot": 310112,
-      "num": 186062,
+      "num": 198731,
       "word": "吴谨言吊带黑长直",
       "onboard_time": 1737105618,
       "rank": 32,
@@ -587,20 +611,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 304562,
-      "num": 304562,
-      "word": "被谎称死胎送人当事小伙现状",
-      "onboard_time": 1737104238,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 299566,
       "num": 171636,
       "word": "美国女孩小红书捞中国同学神速成功",
       "onboard_time": 1737040759,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 290020,
+      "num": 290020,
+      "word": "比亚迪",
+      "onboard_time": 1737107358,
+      "rank": 12,
+      "category": "汽车"
     },
     {
       "raw_hot": 286008,
@@ -617,6 +641,14 @@
       "onboard_time": 1737077717,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 284025,
+      "num": 284025,
+      "word": "耿爽说今天可以说得更直白一些",
+      "onboard_time": 1737106998,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 283191,
@@ -713,6 +745,14 @@
       "onboard_time": 1737073459,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 253869,
+      "num": 253869,
+      "word": "王俊凯二搭刘德华",
+      "onboard_time": 1737108259,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 252980,
@@ -841,6 +881,14 @@
       "onboard_time": 1737082338,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209264,
+      "num": 209264,
+      "word": "荣耀CEO赵明内网发告别文章",
+      "onboard_time": 1737108739,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 209246,
@@ -1001,14 +1049,6 @@
       "onboard_time": 1737090859,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 174416,
-      "num": 174416,
-      "word": "本科毕业入伍不到1年立一等功",
-      "onboard_time": 1737105860,
-      "rank": 24,
-      "category": "正能量"
     },
     {
       "raw_hot": 174016,
@@ -1219,6 +1259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154925,
+      "num": 154925,
+      "word": "王俊凯寸头",
+      "onboard_time": 1737108438,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 153387,
       "num": 153387,
       "word": "养了40年的蜡烛居然如此壮观",
@@ -1281,6 +1329,14 @@
       "onboard_time": 1737034040,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145144,
+      "num": 145144,
+      "word": "白鹿回应没白上跑男",
+      "onboard_time": 1737106699,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 145091,
@@ -1411,12 +1467,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128890,
+      "num": 128890,
+      "word": "光与夜之恋",
+      "onboard_time": 1737108680,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 128460,
       "num": 128460,
       "word": "鲁豫二度专访贾玲",
       "onboard_time": 1737082879,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128192,
+      "num": 128192,
+      "word": "美甲",
+      "onboard_time": 1737107958,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 127253,
@@ -1441,6 +1513,14 @@
       "onboard_time": 1737106459,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 126522,
+      "num": 126522,
+      "word": "哈兰德与曼城续约9年半",
+      "onboard_time": 1737107119,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 125720,
@@ -1609,6 +1689,14 @@
       "onboard_time": 1737088640,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116967,
+      "num": 116967,
+      "word": "唐香玉不语只一味衣锦还乡",
+      "onboard_time": 1737105618,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 114440,
@@ -1859,14 +1947,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 101430,
-      "num": 101430,
-      "word": "唐香玉不语只一味衣锦还乡",
-      "onboard_time": 1737105618,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 100451,
       "num": 100451,
       "word": "当我用人民币打开上海迪士尼",
@@ -1947,6 +2027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94788,
+      "num": 94788,
+      "word": "林子烨我不是戏神cos",
+      "onboard_time": 1737108979,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94406,
       "num": 94406,
       "word": "景德镇车祸家属抑郁服药也无法缓解",
@@ -2003,6 +2091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88061,
+      "num": 88061,
+      "word": "苏新皓彩排",
+      "onboard_time": 1737108378,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 86889,
       "num": 221393,
       "word": "启蒙教练说樊振东对兵乓球真的太爱了",
@@ -2025,6 +2121,14 @@
       "onboard_time": 1737082279,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86037,
+      "num": 86037,
+      "word": "王皓马琳谈亚洲杯参赛名单",
+      "onboard_time": 1737107358,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 83496,
@@ -2073,6 +2177,14 @@
       "onboard_time": 1737024858,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81384,
+      "num": 81384,
+      "word": "李玟50岁冥诞现场",
+      "onboard_time": 1737109338,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 78112,
@@ -2265,6 +2377,14 @@
       "onboard_time": 1737069375,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41533,
+      "num": 1068817,
+      "word": "我国再次成功发射一箭三星",
+      "onboard_time": 1737097759,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41020,

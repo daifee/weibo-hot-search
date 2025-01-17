@@ -1,0 +1,410 @@
+{
+  "runTime": 1737109373405,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1665379,
+        "num": 1665379,
+        "word": "本科毕业入伍不到1年立一等功",
+        "onboard_time": 1737105860,
+        "rank": 0,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1580248,
+        "num": 1580248,
+        "word": "台湾当归",
+        "onboard_time": 1737107839,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 41533,
+        "num": 1068817,
+        "word": "我国再次成功发射一箭三星",
+        "onboard_time": 1737097759,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 749411,
+        "num": 749411,
+        "word": "公安机关公布王星被骗至缅甸细节",
+        "onboard_time": 1737088699,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 591395,
+        "num": 591395,
+        "word": "30万年终奖送往年会途中丢了",
+        "onboard_time": 1737104238,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 447333,
+        "num": 447333,
+        "word": "被谎称死胎送人当事小伙现状",
+        "onboard_time": 1737104238,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 390912,
+        "num": 390912,
+        "word": "人民网评大奉打更人",
+        "onboard_time": 1737101418,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 366823,
+        "num": 366823,
+        "word": "沈月居然是flandre表姐",
+        "onboard_time": 1737098719,
+        "rank": 7,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 316500,
+        "num": 316500,
+        "word": "杨紫李现新剧豆瓣开分7.8",
+        "onboard_time": 1737103638,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307251,
+        "num": 307251,
+        "word": "中美网友聊嗨了",
+        "onboard_time": 1737087678,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 572528,
+        "num": 305575,
+        "word": "TikTok禁令将交由特朗普决定",
+        "onboard_time": 1737103218,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 302475,
+        "num": 302475,
+        "word": "李昀锐留洋男大即视感",
+        "onboard_time": 1737104358,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 290020,
+        "num": 290020,
+        "word": "比亚迪",
+        "onboard_time": 1737107358,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 284025,
+        "num": 284025,
+        "word": "耿爽说今天可以说得更直白一些",
+        "onboard_time": 1737106998,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 253869,
+        "num": 253869,
+        "word": "王俊凯二搭刘德华",
+        "onboard_time": 1737108259,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 236874,
+        "num": 236874,
+        "word": "白月梵星开分5.9",
+        "onboard_time": 1737101058,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236633,
+        "num": 236633,
+        "word": "女子鼻骨骨折一个月后直接美出新高度",
+        "onboard_time": 1737090561,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225188,
+        "num": 225188,
+        "word": "小米全球总部15元的员工餐",
+        "onboard_time": 1737087560,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 213299,
+        "num": 213299,
+        "word": "国乒回应亚洲杯名单",
+        "onboard_time": 1737104959,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209264,
+        "num": 209264,
+        "word": "荣耀CEO赵明内网发告别文章",
+        "onboard_time": 1737108739,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 572159,
+        "num": 200610,
+        "word": "鹿哈向女友求婚成功",
+        "onboard_time": 1737077537,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 308341,
+        "num": 198731,
+        "word": "吴谨言吊带黑长直",
+        "onboard_time": 1737105618,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184599,
+        "num": 184599,
+        "word": "贺峻霖这个是真大学生",
+        "onboard_time": 1737102138,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179662,
+        "num": 179662,
+        "word": "以旧换新补贴家电新增4类产品",
+        "onboard_time": 1737094999,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167792,
+        "num": 167792,
+        "word": "我国2024年出生954万人",
+        "onboard_time": 1737089239,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154925,
+        "num": 154925,
+        "word": "王俊凯寸头",
+        "onboard_time": 1737108438,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151796,
+        "num": 151796,
+        "word": "父母出资购房离婚后女方分得60万",
+        "onboard_time": 1737090798,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148168,
+        "num": 148168,
+        "word": "TikTok日活降至8220万",
+        "onboard_time": 1737096859,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 145144,
+        "num": 145144,
+        "word": "白鹿回应没白上跑男",
+        "onboard_time": 1737106699,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128890,
+        "num": 128890,
+        "word": "光与夜之恋",
+        "onboard_time": 1737108680,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128192,
+        "num": 128192,
+        "word": "美甲",
+        "onboard_time": 1737107958,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 126522,
+        "num": 126522,
+        "word": "哈兰德与曼城续约9年半",
+        "onboard_time": 1737107119,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119011,
+        "num": 119011,
+        "word": "陈丽君与法国歌手合唱越剧",
+        "onboard_time": 1737101238,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118164,
+        "num": 118164,
+        "word": "杨幂2025年第一个梗来了",
+        "onboard_time": 1737090318,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116967,
+        "num": 116967,
+        "word": "唐香玉不语只一味衣锦还乡",
+        "onboard_time": 1737105618,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115659,
+        "num": 115659,
+        "word": "荣耀赵明辞职",
+        "onboard_time": 1737095358,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 106470,
+        "num": 106470,
+        "word": "胡歌刘诗诗一路前行预告",
+        "onboard_time": 1737101958,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104058,
+        "num": 104058,
+        "word": "第一次感受到催婚的窒息感",
+        "onboard_time": 1737089598,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100551,
+        "num": 100551,
+        "word": "漂白定档即开播",
+        "onboard_time": 1737090738,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99139,
+        "num": 99139,
+        "word": "因吵架妻子胎停丈夫崩溃大哭",
+        "onboard_time": 1737074179,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128916,
+        "num": 99086,
+        "word": "学8年中医外国人因TikTok难民破防了",
+        "onboard_time": 1737101238,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98523,
+        "num": 98523,
+        "word": "关晓彤吃完糖葫芦快乐的撒欢儿了",
+        "onboard_time": 1737100460,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96495,
+        "num": 96495,
+        "word": "徐克面对肖战就像是小朋友",
+        "onboard_time": 1737102138,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95287,
+        "num": 95287,
+        "word": "大奉打更人埋了33集的伏笔",
+        "onboard_time": 1737099258,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94932,
+        "num": 94932,
+        "word": "拜登告别演讲称必须让社交平台担责",
+        "onboard_time": 1737105559,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94788,
+        "num": 94788,
+        "word": "林子烨我不是戏神cos",
+        "onboard_time": 1737108979,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88061,
+        "num": 88061,
+        "word": "苏新皓彩排",
+        "onboard_time": 1737108378,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 86037,
+        "num": 86037,
+        "word": "王皓马琳谈亚洲杯参赛名单",
+        "onboard_time": 1737107358,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85297,
+        "num": 85297,
+        "word": "GEN对战HLE",
+        "onboard_time": 1737106459,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 81384,
+        "num": 81384,
+        "word": "李玟50岁冥诞现场",
+        "onboard_time": 1737109338,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}
