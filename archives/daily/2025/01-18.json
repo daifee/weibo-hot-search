@@ -1,6 +1,6 @@
 {
   "startTime": 1737131217967,
-  "endTime": 1737139330728,
+  "endTime": 1737141503837,
   "band_list": [
     {
       "raw_hot": 850511,
@@ -427,20 +427,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 54248,
+      "num": 35489,
+      "word": "中美网友对账后有些人天塌了",
+      "onboard_time": 1737136994,
+      "rank": 30,
+      "category": "民生新闻,国际时政"
+    },
+    {
+      "raw_hot": 49864,
+      "num": 49864,
+      "word": "美国针对TikTok与华为的是一批人",
+      "onboard_time": 1737137233,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 48504,
       "num": 48504,
       "word": "白鹿三次央视春晚联排",
       "onboard_time": 1737112218,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 48161,
-      "num": 48161,
-      "word": "美国针对TikTok与华为的是一批人",
-      "onboard_time": 1737137233,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 47779,
@@ -457,14 +465,6 @@
       "onboard_time": 1737132076,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 46044,
-      "num": 35489,
-      "word": "中美网友对账后有些人天塌了",
-      "onboard_time": 1737136994,
-      "rank": 30,
-      "category": "民生新闻,国际时政"
     },
     {
       "raw_hot": 42642,
@@ -507,6 +507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 27192,
+      "num": 27192,
+      "word": "26岁小伙参与建设横竖都第一的大桥",
+      "onboard_time": 1737140891,
+      "rank": 26,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 25028,
       "num": 31273,
       "word": "官方通报火锅店员工在后厨小便",
@@ -515,12 +523,20 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 21740,
+      "raw_hot": 23426,
       "num": 68702,
       "word": "俄罗斯驻华大使馆发布消费提示",
       "onboard_time": 1737138432,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19569,
+      "num": 50196,
+      "word": "佛山电翰说不想再消耗工人身份",
+      "onboard_time": 1737141072,
+      "rank": 9,
+      "category": "网红"
     },
     {
       "raw_hot": 17784,
