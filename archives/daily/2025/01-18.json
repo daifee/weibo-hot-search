@@ -1,6 +1,6 @@
 {
   "startTime": 1737131217967,
-  "endTime": 1737141503837,
+  "endTime": 1737142532516,
   "band_list": [
     {
       "raw_hot": 850511,
@@ -363,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 71651,
+      "num": 71651,
+      "word": "美国针对TikTok与华为的是一批人",
+      "onboard_time": 1737137233,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 71313,
       "num": 71313,
       "word": "陈奕迅现场收到一万颗爱心",
@@ -411,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 61337,
+      "num": 35489,
+      "word": "中美网友对账后有些人天塌了",
+      "onboard_time": 1737136994,
+      "rank": 30,
+      "category": "民生新闻,国际时政"
+    },
+    {
       "raw_hot": 58362,
       "num": 58362,
       "word": "加州一发电厂爆炸起火释放大量毒气",
@@ -427,20 +443,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 54248,
-      "num": 35489,
-      "word": "中美网友对账后有些人天塌了",
-      "onboard_time": 1737136994,
-      "rank": 30,
-      "category": "民生新闻,国际时政"
-    },
-    {
-      "raw_hot": 49864,
-      "num": 49864,
-      "word": "美国针对TikTok与华为的是一批人",
-      "onboard_time": 1737137233,
-      "rank": 19,
-      "category": "国内时政"
+      "raw_hot": 53698,
+      "num": 53698,
+      "word": "佛山电翰说不想再消耗工人身份",
+      "onboard_time": 1737141072,
+      "rank": 9,
+      "category": "网红"
     },
     {
       "raw_hot": 48504,
@@ -531,12 +539,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19569,
-      "num": 50196,
-      "word": "佛山电翰说不想再消耗工人身份",
-      "onboard_time": 1737141072,
-      "rank": 9,
-      "category": "网红"
+      "raw_hot": 20395,
+      "num": 24963,
+      "word": "一路繁花芭莎大片",
+      "onboard_time": 1737141551,
+      "rank": 29,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 17784,
@@ -544,6 +552,14 @@
       "word": "我国找矿又有重大突破",
       "onboard_time": 1737122298,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11435,
+      "num": 29208,
+      "word": "国防新能源都需要的稀土矿上新",
+      "onboard_time": 1737140351,
+      "rank": 19,
       "category": "民生新闻"
     }
   ],
