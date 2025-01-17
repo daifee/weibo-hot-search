@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/12 00:25:41 ~ 2025/01/18 04:22:58
+本榜单时间：2025/01/12 00:25:41 ~ 2025/01/18 04:35:51
 </p>
 </blockquote>
 <p>
@@ -14709,6 +14709,12 @@ AG新春全员财神皮（热度：17695）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E5%A4%9A%E4%BB%982%E5%85%83%E9%92%B1%E8%80%81%E5%A5%B6%E5%A5%B6%E8%BF%BD%E7%9D%80%E9%80%80%E5%9B%9E%23" target="weibo">
+顾客多付2元钱老奶奶追着退回（热度：16782）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%BB%A5%E8%89%B2%E5%88%97%E5%93%88%E9%A9%AC%E6%96%AF%E8%BE%BE%E6%88%90%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE%23" target="weibo">
 外交部回应以色列哈马斯达成停火协议（热度：16747）
 </a>
@@ -14823,12 +14829,6 @@ eStar版年会不能停（热度：14576）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E5%A4%9A%E4%BB%982%E5%85%83%E9%92%B1%E8%80%81%E5%A5%B6%E5%A5%B6%E8%BF%BD%E7%9D%80%E9%80%80%E5%9B%9E%23" target="weibo">
-顾客多付2元钱老奶奶追着退回（热度：13334）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%20%E6%96%B0%E5%B9%B4%E8%BE%9E%E6%97%A7%E8%BF%8E%E6%96%B0%23" target="weibo">
 恋与深空 新年辞旧迎新（热度：13232）
 </a>
@@ -14853,8 +14853,20 @@ eStar版年会不能停（热度：14576）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2373%E5%B2%81%E5%A5%B6%E5%A5%B63%E5%85%83%E7%90%86%E5%8F%9120%E5%A4%9A%E5%B9%B4%E4%B8%8D%E6%B6%A8%E4%BB%B7%23" target="weibo">
+73岁奶奶3元理发20多年不涨价（热度：12800）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%BF%90%E5%9B%9E%E5%AE%B6%E8%B7%AF%E6%9C%89%E4%BB%96%E4%BB%AC%E9%BB%98%E9%BB%98%E5%AE%88%E6%8A%A4%23" target="weibo">
 春运回家路有他们默默守护（热度：12620）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%23" target="weibo">
+无畏契约（热度：12426）
 </a>
 </li>
 

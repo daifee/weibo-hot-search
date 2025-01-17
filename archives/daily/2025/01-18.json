@@ -1,6 +1,6 @@
 {
   "startTime": 1737131217967,
-  "endTime": 1737145378397,
+  "endTime": 1737146151791,
   "band_list": [
     {
       "raw_hot": 850511,
@@ -555,12 +555,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13334,
+      "raw_hot": 16782,
       "num": 25066,
       "word": "顾客多付2元钱老奶奶追着退回",
       "onboard_time": 1737144071,
       "rank": 19,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 12800,
+      "num": 39761,
+      "word": "73岁奶奶3元理发20多年不涨价",
+      "onboard_time": 1737145751,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 12426,
+      "num": 16754,
+      "word": "无畏契约",
+      "onboard_time": 1737143952,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 11435,
