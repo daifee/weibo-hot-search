@@ -1,0 +1,410 @@
+{
+  "runTime": 1737085124977,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2254003,
+        "num": 2254003,
+        "word": "全国人口减少139万人",
+        "onboard_time": 1737081558,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 660595,
+        "num": 660595,
+        "word": "女子和丈夫养100只鸵鸟做鸵鸟吃播",
+        "onboard_time": 1737080418,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22686,
+        "num": 633882,
+        "word": "当非遗项目遇上首个非遗春节",
+        "onboard_time": 1737036741,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 620940,
+        "num": 620940,
+        "word": "电影无名之辈 2",
+        "onboard_time": 1737083119,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 419686,
+        "num": 419686,
+        "word": "2024年出生人口回升",
+        "onboard_time": 1737083418,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2613260,
+        "num": 417824,
+        "word": "鹿哈向女友求婚成功",
+        "onboard_time": 1737077537,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 615456,
+        "num": 412046,
+        "word": "嘘国王在冬眠",
+        "onboard_time": 1737083839,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 589027,
+        "num": 406615,
+        "word": "难哄OST全明星阵容",
+        "onboard_time": 1737084559,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 393355,
+        "num": 393355,
+        "word": "这些春晚歌曲拉满过年氛围感",
+        "onboard_time": 1737078857,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 384660,
+        "num": 384660,
+        "word": "2024年中国GDP同比增长5%",
+        "onboard_time": 1737080298,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 618282,
+        "num": 383942,
+        "word": "徐冬冬沙滩照身材",
+        "onboard_time": 1737081798,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464950,
+        "num": 383771,
+        "word": "D社曝金敏喜怀孕",
+        "onboard_time": 1737078137,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380884,
+        "num": 380884,
+        "word": "近期将恢复福建上海居民赴台团队游",
+        "onboard_time": 1737076697,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326864,
+        "num": 326864,
+        "word": "秦霄贤好友怒怼辛雨锡",
+        "onboard_time": 1737079337,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300307,
+        "num": 300307,
+        "word": "GDP",
+        "onboard_time": 1737080477,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 290181,
+        "num": 290181,
+        "word": "除夕10天倒计时",
+        "onboard_time": 1737070095,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275567,
+        "num": 275567,
+        "word": "2024国民经济运行情况",
+        "onboard_time": 1737080116,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 245098,
+        "num": 245098,
+        "word": "YG结束演员业务",
+        "onboard_time": 1737083718,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233337,
+        "num": 233337,
+        "word": "李昀锐出发米兰时装周",
+        "onboard_time": 1737082399,
+        "rank": 18,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 221634,
+        "num": 221634,
+        "word": "SM现役女团合照",
+        "onboard_time": 1737082697,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 682869,
+        "num": 218220,
+        "word": "因吵架妻子胎停丈夫崩溃大哭",
+        "onboard_time": 1737074179,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342592,
+        "num": 216621,
+        "word": "陈冠希人肉素人老婆",
+        "onboard_time": 1737030318,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214168,
+        "num": 214168,
+        "word": "千手观音20年她换个身份再上春晚",
+        "onboard_time": 1737081498,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212777,
+        "num": 212777,
+        "word": "蛇年央视春晚第三次联排",
+        "onboard_time": 1737084919,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65054,
+        "num": 206814,
+        "word": "金晨ELLE首封",
+        "onboard_time": 1737085039,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204016,
+        "num": 204016,
+        "word": "田馥甄谈冻卵生子",
+        "onboard_time": 1737082338,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194638,
+        "num": 194638,
+        "word": "生化和流产的区别",
+        "onboard_time": 1737073939,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 185302,
+        "num": 185302,
+        "word": "女子鼻骨骨折消肿后喜提高鼻梁",
+        "onboard_time": 1737076457,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137684,
+        "num": 183461,
+        "word": "王俊凯无名之辈造型",
+        "onboard_time": 1737084978,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 67534,
+        "num": 183279,
+        "word": "Ning说和Tarzan误会解除",
+        "onboard_time": 1737076579,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88944,
+        "num": 183221,
+        "word": "淘汰郑钦文的选手出局了",
+        "onboard_time": 1737082459,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183174,
+        "num": 183174,
+        "word": "李子柒这数据太卷了",
+        "onboard_time": 1737077717,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172120,
+        "num": 172120,
+        "word": "樊振东点赞回应美国网友",
+        "onboard_time": 1737084559,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162111,
+        "num": 162111,
+        "word": "知情人士称拜登将不执行TikTok禁令",
+        "onboard_time": 1737072258,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160662,
+        "num": 160662,
+        "word": "青岛女子在日本买下70万平米小岛",
+        "onboard_time": 1737037460,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152337,
+        "num": 152337,
+        "word": "美国女孩小红书捞中国同学神速成功",
+        "onboard_time": 1737040759,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136797,
+        "num": 136797,
+        "word": "Switch老玩家有福了",
+        "onboard_time": 1737080598,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135750,
+        "num": 135750,
+        "word": "白鹿也在嗑代露娃常华森",
+        "onboard_time": 1737071237,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132921,
+        "num": 132921,
+        "word": "无名之辈",
+        "onboard_time": 1737084439,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127626,
+        "num": 127626,
+        "word": "鲁豫二度专访贾玲",
+        "onboard_time": 1737082879,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119936,
+        "num": 119936,
+        "word": "女子怀孕找不到月嫂给婆婆报培训班",
+        "onboard_time": 1737032720,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111811,
+        "num": 111811,
+        "word": "狗子回村第一天就长出了龅牙",
+        "onboard_time": 1737080357,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111510,
+        "num": 111510,
+        "word": "五福临门",
+        "onboard_time": 1737083958,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111312,
+        "num": 111312,
+        "word": "babymonster新MV",
+        "onboard_time": 1737083659,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 110208,
+        "num": 110208,
+        "word": "钟睒睒连发3条朋友圈",
+        "onboard_time": 1737084738,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 107051,
+        "num": 107051,
+        "word": "1岁烧坏脑子他痴迷绘画60年",
+        "onboard_time": 1737075259,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105039,
+        "num": 105039,
+        "word": "年轻人开始流行扎推讨彩头",
+        "onboard_time": 1737084738,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104659,
+        "num": 104659,
+        "word": "导致生化妊娠的原因",
+        "onboard_time": 1737078918,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103671,
+        "num": 103671,
+        "word": "年轻人看车也卡颜",
+        "onboard_time": 1737084619,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 95678,
+        "num": 95678,
+        "word": "越剧演员陈丽君在人民日报撰文",
+        "onboard_time": 1737084198,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰天雪地释放无限热力#"
+    }
+  }
+}

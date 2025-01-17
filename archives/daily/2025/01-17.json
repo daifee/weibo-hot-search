@@ -1,6 +1,6 @@
 {
   "startTime": 1737044847648,
-  "endTime": 1737084291384,
+  "endTime": 1737085124977,
   "band_list": [
     {
       "raw_hot": 2648746,
@@ -11,8 +11,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 2240831,
-      "num": 2240831,
+      "raw_hot": 2254003,
+      "num": 2254003,
       "word": "全国人口减少139万人",
       "onboard_time": 1737081558,
       "rank": 5,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 893355,
-      "num": 263080,
+      "num": 383771,
       "word": "D社曝金敏喜怀孕",
       "onboard_time": 1737078137,
       "rank": 10,
@@ -91,8 +91,16 @@
       "category": "财经"
     },
     {
+      "raw_hot": 660595,
+      "num": 660595,
+      "word": "女子和丈夫养100只鸵鸟做鸵鸟吃播",
+      "onboard_time": 1737080418,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 632096,
-      "num": 265519,
+      "num": 383942,
       "word": "徐冬冬沙滩照身材",
       "onboard_time": 1737081798,
       "rank": 36,
@@ -107,12 +115,28 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 591591,
-      "num": 591591,
+      "raw_hot": 620940,
+      "num": 620940,
       "word": "电影无名之辈 2",
       "onboard_time": 1737083119,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 615456,
+      "num": 412046,
+      "word": "嘘国王在冬眠",
+      "onboard_time": 1737083839,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 589027,
+      "num": 406615,
+      "word": "难哄OST全明星阵容",
+      "onboard_time": 1737084559,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 541083,
@@ -123,16 +147,8 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 519078,
-      "num": 519078,
-      "word": "女子和丈夫养100只鸵鸟做鸵鸟吃播",
-      "onboard_time": 1737080418,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 518123,
-      "num": 261883,
+      "num": 326864,
       "word": "秦霄贤好友怒怼辛雨锡",
       "onboard_time": 1737079337,
       "rank": 13,
@@ -179,6 +195,30 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 419686,
+      "num": 419686,
+      "word": "2024年出生人口回升",
+      "onboard_time": 1737083418,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 393355,
+      "num": 393355,
+      "word": "这些春晚歌曲拉满过年氛围感",
+      "onboard_time": 1737078857,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 384660,
+      "num": 384660,
+      "word": "2024年中国GDP同比增长5%",
+      "onboard_time": 1737080298,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 374275,
       "num": 237648,
       "word": "知情人士称拜登将不执行TikTok禁令",
@@ -195,28 +235,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 337696,
-      "num": 337696,
-      "word": "2024年中国GDP同比增长5%",
-      "onboard_time": 1737080298,
-      "rank": 6,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 325270,
       "num": 325270,
       "word": "泰国预计春节期间近77万中国游客将入境",
       "onboard_time": 1737070095,
       "rank": 38,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 317268,
-      "num": 307060,
-      "word": "嘘国王在冬眠",
-      "onboard_time": 1737083839,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 316233,
@@ -259,12 +283,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 286549,
-      "num": 286549,
-      "word": "这些春晚歌曲拉满过年氛围感",
-      "onboard_time": 1737078857,
-      "rank": 19,
-      "category": "正能量"
+      "raw_hot": 290181,
+      "num": 290181,
+      "word": "除夕10天倒计时",
+      "onboard_time": 1737070095,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 285575,
@@ -291,14 +315,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 256323,
-      "num": 256323,
-      "word": "除夕10天倒计时",
-      "onboard_time": 1737070095,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 254746,
       "num": 223109,
       "word": "郑思维直播开卖个人品牌",
@@ -315,12 +331,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 245535,
-      "num": 264233,
-      "word": "2024年出生人口回升",
-      "onboard_time": 1737083418,
-      "rank": 11,
-      "category": "民生新闻"
+      "raw_hot": 245098,
+      "num": 245098,
+      "word": "YG结束演员业务",
+      "onboard_time": 1737083718,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 235043,
@@ -379,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212777,
+      "num": 212777,
+      "word": "蛇年央视春晚第三次联排",
+      "onboard_time": 1737084919,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209246,
       "num": 209246,
       "word": "景德镇车祸家属质疑肇事方养老赎罪",
@@ -425,6 +449,14 @@
       "onboard_time": 1737081558,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172120,
+      "num": 172120,
+      "word": "樊振东点赞回应美国网友",
+      "onboard_time": 1737084559,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 172093,
@@ -481,14 +513,6 @@
       "onboard_time": 1737039020,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 161662,
-      "num": 216104,
-      "word": "YG结束演员业务",
-      "onboard_time": 1737083718,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 161020,
@@ -595,12 +619,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137684,
+      "num": 183461,
+      "word": "王俊凯无名之辈造型",
+      "onboard_time": 1737084978,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 135368,
       "num": 133968,
       "word": "支付宝辟谣发资金追回短信",
       "onboard_time": 1737070095,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 132921,
+      "num": 132921,
+      "word": "无名之辈",
+      "onboard_time": 1737084439,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 132821,
@@ -708,7 +748,7 @@
     },
     {
       "raw_hot": 118079,
-      "num": 118079,
+      "num": 183279,
       "word": "Ning说和Tarzan误会解除",
       "onboard_time": 1737076579,
       "rank": 32,
@@ -728,6 +768,22 @@
       "word": "孙燕姿新歌日落",
       "onboard_time": 1737043758,
       "rank": 18,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 111510,
+      "num": 111510,
+      "word": "五福临门",
+      "onboard_time": 1737083958,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 111312,
+      "num": 111312,
+      "word": "babymonster新MV",
+      "onboard_time": 1737083659,
+      "rank": 40,
       "category": "音乐"
     },
     {
@@ -753,6 +809,14 @@
       "onboard_time": 1737082459,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110208,
+      "num": 110208,
+      "word": "钟睒睒连发3条朋友圈",
+      "onboard_time": 1737084738,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 109686,
@@ -811,12 +875,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104571,
-      "num": 104571,
-      "word": "babymonster新MV",
-      "onboard_time": 1737083659,
-      "rank": 40,
-      "category": "音乐"
+      "raw_hot": 105039,
+      "num": 105039,
+      "word": "年轻人开始流行扎推讨彩头",
+      "onboard_time": 1737084738,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103671,
+      "num": 103671,
+      "word": "年轻人看车也卡颜",
+      "onboard_time": 1737084619,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 102868,
@@ -851,20 +923,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 99327,
-      "num": 99327,
-      "word": "五福临门",
-      "onboard_time": 1737083958,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 96427,
       "num": 96427,
       "word": "张雅钦探班杨紫",
       "onboard_time": 1737030078,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95678,
+      "num": 95678,
+      "word": "越剧演员陈丽君在人民日报撰文",
+      "onboard_time": 1737084198,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 94406,
@@ -921,14 +993,6 @@
       "onboard_time": 1737082279,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 84885,
-      "num": 84885,
-      "word": "越剧演员陈丽君在人民日报撰文",
-      "onboard_time": 1737084198,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 83496,
@@ -1057,6 +1121,14 @@
       "onboard_time": 1737039260,
       "rank": 48,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 65054,
+      "num": 206814,
+      "word": "金晨ELLE首封",
+      "onboard_time": 1737085039,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 61926,
