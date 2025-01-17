@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/18 00:26:57 ~ 2025/01/18 05:19:53
+本榜单时间：2025/01/18 00:26:57 ~ 2025/01/18 05:35:29
 </p>
 </blockquote>
 <p>
@@ -429,6 +429,12 @@ JDG花650万拍下状元签（热度：36827）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A1%A3%E4%BD%8D%E8%B0%83%E5%A4%AA%E5%A4%A7%E7%A5%9E%E5%99%A8%E6%93%A6%E7%AA%97%E6%88%B7%E6%97%B6%E7%8E%BB%E7%92%83%E7%82%B8%E8%A3%82%23" target="weibo">
+档位调太大神器擦窗户时玻璃炸裂（热度：18938）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%89%BE%E7%9F%BF%E5%8F%88%E6%9C%89%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4%23" target="weibo">
 我国找矿又有重大突破（热度：17784）
 </a>
@@ -447,6 +453,12 @@ JDG花650万拍下状元签（热度：36827）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%8D%8E%E4%BB%A5%E5%90%8E%E5%88%AB%E5%86%99%E4%BF%A1%E4%BA%86%E8%AF%84%E8%AE%BA%E5%8C%BA%E8%A7%81%E5%90%A7%23" target="weibo">
+李华以后别写信了评论区见吧（热度：13150）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%23" target="weibo">
 无畏契约（热度：12426）
 </a>
@@ -461,12 +473,6 @@ JDG花650万拍下状元签（热度：36827）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%BE%81%E4%BA%8C%E5%8F%B7%E4%B8%81%E8%BF%90%E8%BD%BD%E7%81%AB%E7%AE%AD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%843%E9%A2%97%E5%8D%AB%E6%98%9F%23" target="weibo">
 长征二号丁运载火箭成功发射3颗卫星（热度：11331）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A1%A3%E4%BD%8D%E8%B0%83%E5%A4%AA%E5%A4%A7%E7%A5%9E%E5%99%A8%E6%93%A6%E7%AA%97%E6%88%B7%E6%97%B6%E7%8E%BB%E7%92%83%E7%82%B8%E8%A3%82%23" target="weibo">
-档位调太大神器擦窗户时玻璃炸裂（热度：9960）
 </a>
 </li>
 
