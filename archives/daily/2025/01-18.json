@@ -1,6 +1,6 @@
 {
   "startTime": 1737131217967,
-  "endTime": 1737134385362,
+  "endTime": 1737135493641,
   "band_list": [
     {
       "raw_hot": 850511,
@@ -83,6 +83,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 299404,
+      "num": 299404,
+      "word": "妈这就是你儿子搞的世界级大工程",
+      "onboard_time": 1737131176,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 284503,
       "num": 284503,
       "word": "漂白第1集杀疯了",
@@ -97,6 +105,14 @@
       "onboard_time": 1737119899,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 209958,
+      "num": 209958,
+      "word": "美最高法支持政府对TikTok强迫出售令",
+      "onboard_time": 1737132436,
+      "rank": 8,
+      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 204189,
@@ -147,28 +163,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 164984,
-      "num": 164984,
-      "word": "美最高法支持政府对TikTok强迫出售令",
-      "onboard_time": 1737132436,
-      "rank": 8,
-      "category": "国际时政,互联网"
-    },
-    {
       "raw_hot": 160950,
       "num": 136821,
       "word": "谷爱凌时隔5年再夺世界杯冠军",
       "onboard_time": 1737129077,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 155798,
-      "num": 164728,
-      "word": "妈这就是你儿子搞的世界级大工程",
-      "onboard_time": 1737131176,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 147728,
@@ -452,11 +452,19 @@
     },
     {
       "raw_hot": 42642,
-      "num": 42642,
+      "num": 44519,
       "word": "大奉打更人",
       "onboard_time": 1737133575,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 40121,
+      "num": 138477,
+      "word": "200层楼高的空中走一条镂空的路",
+      "onboard_time": 1737134474,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39625,
@@ -468,7 +476,7 @@
     },
     {
       "raw_hot": 36827,
-      "num": 39625,
+      "num": 44354,
       "word": "JDG花650万拍下状元签",
       "onboard_time": 1737116058,
       "rank": 49,

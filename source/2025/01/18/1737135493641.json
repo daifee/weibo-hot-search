@@ -1,0 +1,410 @@
+{
+  "runTime": 1737135493641,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 430393,
+        "num": 430393,
+        "word": "台湾当归",
+        "onboard_time": 1737107839,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 376343,
+        "num": 376343,
+        "word": "成都一火锅店员工在后厨小便属实",
+        "onboard_time": 1737126020,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33479,
+        "num": 337774,
+        "word": "中国游全球圈粉",
+        "onboard_time": 1737122420,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299404,
+        "num": 299404,
+        "word": "妈这就是你儿子搞的世界级大工程",
+        "onboard_time": 1737131176,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283097,
+        "num": 283097,
+        "word": "10岁男孩被批评报警举报父亲藏罂粟壳",
+        "onboard_time": 1737129798,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209958,
+        "num": 209958,
+        "word": "美最高法支持政府对TikTok强迫出售令",
+        "onboard_time": 1737132436,
+        "rank": 5,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 170721,
+        "num": 170721,
+        "word": "希望美方务必慎重处理台湾问题",
+        "onboard_time": 1737128537,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 145245,
+        "num": 145245,
+        "word": "何惟芳被贬为官奴",
+        "onboard_time": 1737125719,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141703,
+        "num": 141703,
+        "word": "迪丽热巴红衣提灯拍摄路透",
+        "onboard_time": 1737128418,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40121,
+        "num": 138477,
+        "word": "200层楼高的空中走一条镂空的路",
+        "onboard_time": 1737134474,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137996,
+        "num": 137996,
+        "word": "马斯克回应SpaceX星舰试飞后失联",
+        "onboard_time": 1737129617,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 118949,
+        "num": 118949,
+        "word": "本科毕业入伍不到1年立一等功",
+        "onboard_time": 1737105860,
+        "rank": 11,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 116769,
+        "num": 116769,
+        "word": "男子日本出差意外发现日军罪证",
+        "onboard_time": 1737125478,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108813,
+        "num": 108813,
+        "word": "王者蛇限皮肤主题公布",
+        "onboard_time": 1737119899,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102714,
+        "num": 102714,
+        "word": "刘宇宁大战泥塑粉",
+        "onboard_time": 1737126858,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98509,
+        "num": 98509,
+        "word": "漂白第1集杀疯了",
+        "onboard_time": 1737119839,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92576,
+        "num": 92576,
+        "word": "6名泰缅边境失联被困中国公民回国",
+        "onboard_time": 1737107958,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86204,
+        "num": 86204,
+        "word": "春节档你最想看哪部影片",
+        "onboard_time": 1737127697,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 85911,
+        "num": 85911,
+        "word": "耿爽说今天可以说得更直白一些",
+        "onboard_time": 1737106998,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 72963,
+        "num": 85590,
+        "word": "漂白",
+        "onboard_time": 1737115218,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236992,
+        "num": 85575,
+        "word": "黄圣依有多讨厌直播",
+        "onboard_time": 1737109939,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101521,
+        "num": 85567,
+        "word": "美甲",
+        "onboard_time": 1737107958,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 85434,
+        "num": 85434,
+        "word": "谷爱凌时隔5年再夺世界杯冠军",
+        "onboard_time": 1737129077,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76851,
+        "num": 76851,
+        "word": "王俊凯二搭刘德华",
+        "onboard_time": 1737108259,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 74826,
+        "num": 74826,
+        "word": "2025狮子座好运清单",
+        "onboard_time": 1737132316,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69355,
+        "num": 69355,
+        "word": "李昀锐累都写在眼睛上了",
+        "onboard_time": 1737114978,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65906,
+        "num": 65906,
+        "word": "我的完美秘书",
+        "onboard_time": 1737130756,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65742,
+        "num": 65742,
+        "word": "辽宁朝阳一女神形象花灯引争议",
+        "onboard_time": 1737122118,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63081,
+        "num": 63081,
+        "word": "王源古装扮相",
+        "onboard_time": 1737124399,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58015,
+        "num": 58015,
+        "word": "高铁上小孩吵闹男子一句话制服",
+        "onboard_time": 1737114918,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57712,
+        "num": 57712,
+        "word": "俄大使馆回应假冒俄罗斯商品事件",
+        "onboard_time": 1737123979,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56633,
+        "num": 56633,
+        "word": "王俊凯黄发蘑菇头",
+        "onboard_time": 1737116539,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 56555,
+        "num": 56555,
+        "word": "周深的音响设备是世界顶级的",
+        "onboard_time": 1737118819,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 53290,
+        "num": 53290,
+        "word": "代露娃演技好细腻",
+        "onboard_time": 1737120198,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51859,
+        "num": 51859,
+        "word": "人民网评大奉打更人",
+        "onboard_time": 1737101418,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49754,
+        "num": 49754,
+        "word": "徐冬冬说120斤是很爽的体重",
+        "onboard_time": 1737116058,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48265,
+        "num": 48265,
+        "word": "国乒称着眼洛杉矶奥运会梯队建设",
+        "onboard_time": 1737128479,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45765,
+        "num": 45765,
+        "word": "春晚第三次联排阵容",
+        "onboard_time": 1737118638,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45121,
+        "num": 45121,
+        "word": "白月梵星",
+        "onboard_time": 1737126798,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42080,
+        "num": 45040,
+        "word": "国家统一是不可阻挡的历史大势",
+        "onboard_time": 1737116778,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 38349,
+        "num": 44953,
+        "word": "苏菲玛索说只靠脸长久不了",
+        "onboard_time": 1737133815,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38232,
+        "num": 44835,
+        "word": "周深一边尖叫一边双杀",
+        "onboard_time": 1737127277,
+        "rank": 41,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 37802,
+        "num": 44727,
+        "word": "再见爱人有完没完",
+        "onboard_time": 1737119659,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36948,
+        "num": 44626,
+        "word": "白鹿三次央视春晚联排",
+        "onboard_time": 1737112218,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34726,
+        "num": 44519,
+        "word": "大奉打更人",
+        "onboard_time": 1737133575,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32977,
+        "num": 44412,
+        "word": "陈垣宇4比2张本智和",
+        "onboard_time": 1737120798,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32804,
+        "num": 44354,
+        "word": "JDG花650万拍下状元签",
+        "onboard_time": 1737116058,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 31446,
+        "num": 44193,
+        "word": "陈奕迅现场收到一万颗爱心",
+        "onboard_time": 1737126738,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 30654,
+        "num": 44068,
+        "word": "近视眼化妆的真实现状",
+        "onboard_time": 1737112340,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 29742,
+        "num": 43975,
+        "word": "徐志胜周一围朱丹这两口子太吓人了",
+        "onboard_time": 1737121999,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}
