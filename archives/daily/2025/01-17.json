@@ -1,6 +1,6 @@
 {
   "startTime": 1737044847648,
-  "endTime": 1737105766834,
+  "endTime": 1737106585912,
   "band_list": [
     {
       "raw_hot": 2842832,
@@ -163,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 728050,
+      "num": 728050,
+      "word": "30万年终奖送往年会途中丢了",
+      "onboard_time": 1737104238,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 721454,
       "num": 721454,
       "word": "漂白马桶冲出20斤人体组织",
@@ -233,6 +241,14 @@
       "onboard_time": 1737087678,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 594669,
+      "num": 287220,
+      "word": "TikTok禁令将交由特朗普决定",
+      "onboard_time": 1737103218,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 589027,
@@ -427,14 +443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 376809,
-      "num": 278608,
-      "word": "TikTok禁令将交由特朗普决定",
-      "onboard_time": 1737103218,
-      "rank": 10,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 374275,
       "num": 237648,
       "word": "知情人士称拜登将不执行TikTok禁令",
@@ -491,14 +499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 344152,
-      "num": 344152,
-      "word": "30万年终奖送往年会途中丢了",
-      "onboard_time": 1737104238,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 325270,
       "num": 325270,
       "word": "泰国预计春节期间近77万中国游客将入境",
@@ -521,6 +521,14 @@
       "onboard_time": 1737070817,
       "rank": 4,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 315475,
+      "num": 284979,
+      "word": "李昀锐留洋男大即视感",
+      "onboard_time": 1737104358,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 314120,
@@ -563,12 +571,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 310112,
+      "num": 186062,
+      "word": "吴谨言吊带黑长直",
+      "onboard_time": 1737105618,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 308666,
       "num": 308666,
       "word": "2024国民经济运行情况",
       "onboard_time": 1737080116,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 304562,
+      "num": 304562,
+      "word": "被谎称死胎送人当事小伙现状",
+      "onboard_time": 1737104238,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 299566,
@@ -617,14 +641,6 @@
       "onboard_time": 1737094519,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 276668,
-      "num": 276668,
-      "word": "李昀锐留洋男大即视感",
-      "onboard_time": 1737104358,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 274713,
@@ -747,14 +763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 229552,
-      "num": 229552,
-      "word": "被谎称死胎送人当事小伙现状",
-      "onboard_time": 1737104238,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 228409,
       "num": 228409,
       "word": "女子鼻骨骨折消肿后喜提高鼻梁",
@@ -811,6 +819,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 215061,
+      "num": 215061,
+      "word": "国乒回应亚洲杯名单",
+      "onboard_time": 1737104959,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213949,
       "num": 213949,
       "word": "金晨ELLE首封",
@@ -833,14 +849,6 @@
       "onboard_time": 1737065891,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 206117,
-      "num": 206117,
-      "word": "国乒回应亚洲杯名单",
-      "onboard_time": 1737104959,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 205993,
@@ -995,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174416,
+      "num": 174416,
+      "word": "本科毕业入伍不到1年立一等功",
+      "onboard_time": 1737105860,
+      "rank": 24,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 174016,
       "num": 157064,
       "word": "学8年中医外国人因TikTok难民破防了",
@@ -1137,6 +1153,14 @@
       "onboard_time": 1737093017,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 158521,
+      "num": 158521,
+      "word": "李昀锐米兰到达",
+      "onboard_time": 1737105919,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 157613,
@@ -1379,14 +1403,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 131689,
-      "num": 131689,
-      "word": "吴谨言吊带黑长直",
-      "onboard_time": 1737105618,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 130664,
       "num": 211737,
       "word": "于正发五福临门从定妆到杀青",
@@ -1417,6 +1433,22 @@
       "onboard_time": 1737080838,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 126787,
+      "num": 126787,
+      "word": "GEN对战HLE",
+      "onboard_time": 1737106459,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 125720,
+      "num": 125720,
+      "word": "短剧导演编剧岗平均月薪过万",
+      "onboard_time": 1737102979,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125671,
@@ -1771,14 +1803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107013,
-      "num": 107013,
-      "word": "短剧导演编剧岗平均月薪过万",
-      "onboard_time": 1737102979,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 105172,
       "num": 105172,
       "word": "带两娃摆摊宝妈收到30万捐款",
@@ -1791,6 +1815,14 @@
       "num": 105039,
       "word": "年轻人开始流行扎推讨彩头",
       "onboard_time": 1737084738,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104809,
+      "num": 104809,
+      "word": "一线城市房价环比上涨",
+      "onboard_time": 1737104059,
       "rank": 46,
       "category": "民生新闻"
     },
@@ -1819,6 +1851,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101597,
+      "num": 101597,
+      "word": "拜登告别演讲称必须让社交平台担责",
+      "onboard_time": 1737105559,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 101430,
+      "num": 101430,
+      "word": "唐香玉不语只一味衣锦还乡",
+      "onboard_time": 1737105618,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100451,
       "num": 100451,
       "word": "当我用人民币打开上海迪士尼",
@@ -1841,14 +1889,6 @@
       "onboard_time": 1737102558,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 100245,
-      "num": 100245,
-      "word": "一线城市房价环比上涨",
-      "onboard_time": 1737104059,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99815,
@@ -1915,14 +1955,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94005,
-      "num": 94005,
-      "word": "唐香玉不语只一味衣锦还乡",
-      "onboard_time": 1737105618,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 93326,
       "num": 93326,
       "word": "听障演员同步表演整场春晚",
@@ -1945,6 +1977,14 @@
       "onboard_time": 1737096678,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89719,
+      "num": 89719,
+      "word": "孙颖莎领衔国乒亚洲杯女单名单",
+      "onboard_time": 1737103278,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 89159,
@@ -2396,6 +2436,9 @@
     },
     {
       "word": "#发展冰雪产业丰富群众冰雪赛事活动#"
+    },
+    {
+      "word": "#冰雪春天#"
     }
   ]
 }

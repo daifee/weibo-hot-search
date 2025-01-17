@@ -1,0 +1,410 @@
+{
+  "runTime": 1737106585912,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 957748,
+        "num": 1153239,
+        "word": "公安机关公布王星被骗至缅甸细节",
+        "onboard_time": 1737088699,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 728050,
+        "num": 728050,
+        "word": "30万年终奖送往年会途中丢了",
+        "onboard_time": 1737104238,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24325,
+        "num": 561725,
+        "word": "这些非遗一出过年DNA动了",
+        "onboard_time": 1737086419,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 466696,
+        "num": 466696,
+        "word": "人民网评大奉打更人",
+        "onboard_time": 1737101418,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 458369,
+        "num": 458369,
+        "word": "沈月居然是flandre表姐",
+        "onboard_time": 1737098719,
+        "rank": 4,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 351408,
+        "num": 351408,
+        "word": "小米全球总部15元的员工餐",
+        "onboard_time": 1737087560,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 381699,
+        "num": 350632,
+        "word": "漂白马桶冲出20斤人体组织",
+        "onboard_time": 1737098419,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 339428,
+        "num": 339428,
+        "word": "女子鼻骨骨折一个月后直接美出新高度",
+        "onboard_time": 1737090561,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325876,
+        "num": 325876,
+        "word": "杨紫李现新剧豆瓣开分7.8",
+        "onboard_time": 1737103638,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304562,
+        "num": 304562,
+        "word": "被谎称死胎送人当事小伙现状",
+        "onboard_time": 1737104238,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 594669,
+        "num": 287220,
+        "word": "TikTok禁令将交由特朗普决定",
+        "onboard_time": 1737103218,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 315475,
+        "num": 284979,
+        "word": "李昀锐留洋男大即视感",
+        "onboard_time": 1737104358,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 255240,
+        "num": 255240,
+        "word": "我国2024年出生954万人",
+        "onboard_time": 1737089239,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241598,
+        "num": 241598,
+        "word": "贺峻霖这个是真大学生",
+        "onboard_time": 1737102138,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235014,
+        "num": 235014,
+        "word": "中美网友聊嗨了",
+        "onboard_time": 1737087678,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234366,
+        "num": 234366,
+        "word": "关晓彤吃完糖葫芦快乐的撒欢儿了",
+        "onboard_time": 1737100460,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215061,
+        "num": 215061,
+        "word": "国乒回应亚洲杯名单",
+        "onboard_time": 1737104959,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199913,
+        "num": 199913,
+        "word": "以旧换新补贴家电新增4类产品",
+        "onboard_time": 1737094999,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188034,
+        "num": 188034,
+        "word": "陈丽君与法国歌手合唱越剧",
+        "onboard_time": 1737101238,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187843,
+        "num": 187843,
+        "word": "父母出资购房离婚后女方分得60万",
+        "onboard_time": 1737090798,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 576774,
+        "num": 186718,
+        "word": "鹿哈向女友求婚成功",
+        "onboard_time": 1737077537,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 310112,
+        "num": 186062,
+        "word": "吴谨言吊带黑长直",
+        "onboard_time": 1737105618,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 236043,
+        "num": 182801,
+        "word": "白月梵星开分5.9",
+        "onboard_time": 1737101058,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176976,
+        "num": 176976,
+        "word": "第一次感受到催婚的窒息感",
+        "onboard_time": 1737089598,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174416,
+        "num": 174416,
+        "word": "本科毕业入伍不到1年立一等功",
+        "onboard_time": 1737105860,
+        "rank": 24,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 162090,
+        "num": 162090,
+        "word": "因吵架妻子胎停丈夫崩溃大哭",
+        "onboard_time": 1737074179,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158521,
+        "num": 158521,
+        "word": "李昀锐米兰到达",
+        "onboard_time": 1737105919,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156999,
+        "num": 156999,
+        "word": "荣耀赵明辞职",
+        "onboard_time": 1737095358,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155642,
+        "num": 155642,
+        "word": "胡歌刘诗诗一路前行预告",
+        "onboard_time": 1737101958,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150703,
+        "num": 150703,
+        "word": "学8年中医外国人因TikTok难民破防了",
+        "onboard_time": 1737101238,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141615,
+        "num": 141615,
+        "word": "TikTok日活降至8220万",
+        "onboard_time": 1737096859,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 140893,
+        "num": 140893,
+        "word": "国乒亚洲杯参赛名单",
+        "onboard_time": 1737102078,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129101,
+        "num": 129101,
+        "word": "拜登计划把烫手山芋留给特朗普",
+        "onboard_time": 1737095358,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127025,
+        "num": 127025,
+        "word": "徐克面对肖战就像是小朋友",
+        "onboard_time": 1737102138,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126787,
+        "num": 126787,
+        "word": "GEN对战HLE",
+        "onboard_time": 1737106459,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125720,
+        "num": 125720,
+        "word": "短剧导演编剧岗平均月薪过万",
+        "onboard_time": 1737102979,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110214,
+        "num": 110214,
+        "word": "大奉打更人埋了33集的伏笔",
+        "onboard_time": 1737099258,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107509,
+        "num": 107509,
+        "word": "宋亚轩彩排图",
+        "onboard_time": 1737105319,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107202,
+        "num": 107202,
+        "word": "杨幂2025年第一个梗来了",
+        "onboard_time": 1737090318,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104809,
+        "num": 104809,
+        "word": "一线城市房价环比上涨",
+        "onboard_time": 1737104059,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103367,
+        "num": 103367,
+        "word": "人体最大免疫器官竟是它",
+        "onboard_time": 1737088819,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 101597,
+        "num": 101597,
+        "word": "拜登告别演讲称必须让社交平台担责",
+        "onboard_time": 1737105559,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101430,
+        "num": 101430,
+        "word": "唐香玉不语只一味衣锦还乡",
+        "onboard_time": 1737105618,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96270,
+        "num": 96270,
+        "word": "经济总量首超130万亿意味着什么",
+        "onboard_time": 1737100759,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 94691,
+        "num": 94691,
+        "word": "赵明因身体原因辞职",
+        "onboard_time": 1737100158,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 94365,
+        "num": 94365,
+        "word": "全力捣毁境外电诈窝点",
+        "onboard_time": 1737089299,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92803,
+        "num": 92803,
+        "word": "白鹿说汤唯是妈妈降临",
+        "onboard_time": 1737099858,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92200,
+        "num": 92200,
+        "word": "美网络攻击我国某先进材料设计研究院",
+        "onboard_time": 1737099079,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 92120,
+        "num": 92120,
+        "word": "2024年中国GDP同比增长5%",
+        "onboard_time": 1737080298,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 89719,
+        "num": 89719,
+        "word": "孙颖莎领衔国乒亚洲杯女单名单",
+        "onboard_time": 1737103278,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}
