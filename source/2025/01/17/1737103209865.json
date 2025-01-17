@@ -1,0 +1,410 @@
+{
+  "runTime": 1737103209865,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1189856,
+        "num": 1190377,
+        "word": "公安机关公布王星被骗至缅甸细节",
+        "onboard_time": 1737088699,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 797000,
+        "num": 797000,
+        "word": "沈月居然是flandre表姐",
+        "onboard_time": 1737098719,
+        "rank": 1,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 25731,
+        "num": 656650,
+        "word": "这些非遗一出过年DNA动了",
+        "onboard_time": 1737086419,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 614922,
+        "num": 614922,
+        "word": "漂白马桶冲出20斤人体组织",
+        "onboard_time": 1737098419,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 413212,
+        "num": 413212,
+        "word": "女子鼻骨骨折一个月后直接美出新高度",
+        "onboard_time": 1737090561,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387766,
+        "num": 387766,
+        "word": "我国2024年出生954万人",
+        "onboard_time": 1737089239,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422952,
+        "num": 385870,
+        "word": "大奉打更人埋了33集的伏笔",
+        "onboard_time": 1737099258,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382858,
+        "num": 382858,
+        "word": "小米全球总部15元的员工餐",
+        "onboard_time": 1737087560,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 318971,
+        "num": 318971,
+        "word": "人民网评大奉打更人",
+        "onboard_time": 1737101418,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313356,
+        "num": 313356,
+        "word": "国乒亚洲杯参赛名单",
+        "onboard_time": 1737102078,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323897,
+        "num": 310625,
+        "word": "陈丽君与法国歌手合唱越剧",
+        "onboard_time": 1737101238,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 298484,
+        "num": 298484,
+        "word": "以旧换新补贴家电新增4类产品",
+        "onboard_time": 1737094999,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292759,
+        "num": 292759,
+        "word": "第一次感受到催婚的窒息感",
+        "onboard_time": 1737089598,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 278504,
+        "num": 278504,
+        "word": "拜登计划把烫手山芋留给特朗普",
+        "onboard_time": 1737095358,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 274602,
+        "num": 274602,
+        "word": "荣耀赵明辞职",
+        "onboard_time": 1737095358,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 258647,
+        "num": 258647,
+        "word": "中美网友聊嗨了",
+        "onboard_time": 1737087678,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252980,
+        "num": 252980,
+        "word": "白鹿说汤唯是妈妈降临",
+        "onboard_time": 1737099858,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235193,
+        "num": 235193,
+        "word": "父母出资购房离婚后女方分得60万",
+        "onboard_time": 1737090798,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223530,
+        "num": 223530,
+        "word": "关晓彤吃完糖葫芦快乐的撒欢儿了",
+        "onboard_time": 1737100460,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203406,
+        "num": 203406,
+        "word": "贺峻霖这个是真大学生",
+        "onboard_time": 1737102138,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 749564,
+        "num": 203375,
+        "word": "鹿哈向女友求婚成功",
+        "onboard_time": 1737077537,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 304995,
+        "num": 199702,
+        "word": "白月梵星开分5.9",
+        "onboard_time": 1737101058,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245395,
+        "num": 199095,
+        "word": "TikTok日活降至8220万",
+        "onboard_time": 1737096859,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 205081,
+        "num": 197348,
+        "word": "因吵架妻子胎停丈夫崩溃大哭",
+        "onboard_time": 1737074179,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166917,
+        "num": 195132,
+        "word": "TTG久哲正式连接",
+        "onboard_time": 1737097338,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 193645,
+        "num": 193645,
+        "word": "徐克面对肖战就像是小朋友",
+        "onboard_time": 1737102138,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181338,
+        "num": 181338,
+        "word": "胡歌刘诗诗一路前行预告",
+        "onboard_time": 1737101958,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175619,
+        "num": 175619,
+        "word": "美网络攻击我国某先进材料设计研究院",
+        "onboard_time": 1737099079,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 173333,
+        "num": 173333,
+        "word": "杨幂2025年第一个梗来了",
+        "onboard_time": 1737090318,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160167,
+        "num": 160167,
+        "word": "国色芳华好讽刺的一句话",
+        "onboard_time": 1737090859,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160832,
+        "num": 160085,
+        "word": "徐克看肖战一遍过的反应",
+        "onboard_time": 1737096918,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157185,
+        "num": 157185,
+        "word": "杨超越无名之辈2演厂妹",
+        "onboard_time": 1737102378,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157064,
+        "num": 157064,
+        "word": "学8年中医外国人因TikTok难民破防了",
+        "onboard_time": 1737101238,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136733,
+        "num": 136733,
+        "word": "全力捣毁境外电诈窝点",
+        "onboard_time": 1737089299,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120018,
+        "num": 120018,
+        "word": "赵明因身体原因辞职",
+        "onboard_time": 1737100158,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 72577,
+        "num": 117881,
+        "word": "白鹿说花粉事业心强随正主",
+        "onboard_time": 1737101838,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117072,
+        "num": 117072,
+        "word": "卢昱晓不语只是一味剧宣",
+        "onboard_time": 1737097817,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115433,
+        "num": 115433,
+        "word": "人体最大免疫器官竟是它",
+        "onboard_time": 1737088819,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115182,
+        "num": 115182,
+        "word": "贾玲说是观众救了我",
+        "onboard_time": 1737098479,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108807,
+        "num": 108807,
+        "word": "2024年中国GDP同比增长5%",
+        "onboard_time": 1737080298,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107887,
+        "num": 107887,
+        "word": "男孩未完成作业被批评举报父亲藏罂粟壳",
+        "onboard_time": 1737090378,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104262,
+        "num": 104262,
+        "word": "手机购新补贴无需交旧手机",
+        "onboard_time": 1737101120,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102652,
+        "num": 102652,
+        "word": "全力解救在泰缅边境失联被困中国公民",
+        "onboard_time": 1737093439,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100986,
+        "num": 100986,
+        "word": "我国60岁以上人口首次突破3亿",
+        "onboard_time": 1737097098,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100941,
+        "num": 100941,
+        "word": "挖出一个藏在缅甸贩运人口的犯罪集团",
+        "onboard_time": 1737090918,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100324,
+        "num": 100324,
+        "word": "徐杰当选CBA全明星总票王",
+        "onboard_time": 1737102859,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100300,
+        "num": 100300,
+        "word": "马嘉祺彩排图",
+        "onboard_time": 1737102558,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98582,
+        "num": 98582,
+        "word": "aespa球服",
+        "onboard_time": 1737096617,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 97832,
+        "num": 97832,
+        "word": "林高远出战亚洲杯",
+        "onboard_time": 1737103039,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94941,
+        "num": 94941,
+        "word": "16个外甥又来舅舅家过寒假了",
+        "onboard_time": 1737087678,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展冰雪产业丰富群众冰雪赛事活动#"
+    }
+  }
+}

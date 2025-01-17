@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1737102441827,
+  "endTime": 1737103209865,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -3779,6 +3779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 422952,
+      "num": 385870,
+      "word": "大奉打更人埋了33集的伏笔",
+      "onboard_time": 1737099258,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 422894,
       "num": 301070,
       "word": "交猫税是什么梗",
@@ -4107,6 +4115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 387766,
+      "num": 387766,
+      "word": "我国2024年出生954万人",
+      "onboard_time": 1737089239,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 386146,
       "num": 386146,
       "word": "九重紫小孩哥说昀牵孟绕是真的",
@@ -4120,14 +4136,6 @@
       "word": "警方回应观音桥锦鲤大量死亡",
       "onboard_time": 1736683158,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 385341,
-      "num": 385341,
-      "word": "我国2024年出生954万人",
-      "onboard_time": 1737089239,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -4428,7 +4436,7 @@
     },
     {
       "raw_hot": 360400,
-      "num": 198426,
+      "num": 199702,
       "word": "白月梵星开分5.9",
       "onboard_time": 1737101058,
       "rank": 22,
@@ -4795,6 +4803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 323897,
+      "num": 328583,
+      "word": "陈丽君与法国歌手合唱越剧",
+      "onboard_time": 1737101238,
+      "rank": 9,
+      "category": "演出"
+    },
+    {
       "raw_hot": 322781,
       "num": 263885,
       "word": "向太 最能干的就是最倒霉的",
@@ -4833,14 +4849,6 @@
       "onboard_time": 1736678298,
       "rank": 22,
       "category": "教育"
-    },
-    {
-      "raw_hot": 321154,
-      "num": 321154,
-      "word": "大奉打更人埋了33集的伏笔",
-      "onboard_time": 1737099258,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 320801,
@@ -4896,6 +4904,14 @@
       "word": "陈小纭大奉拽妃",
       "onboard_time": 1736946559,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 318971,
+      "num": 318971,
+      "word": "人民网评大奉打更人",
+      "onboard_time": 1737101418,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -4993,6 +5009,14 @@
       "onboard_time": 1736896815,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 313356,
+      "num": 313356,
+      "word": "国乒亚洲杯参赛名单",
+      "onboard_time": 1737102078,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 313208,
@@ -6091,6 +6115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252980,
+      "num": 252980,
+      "word": "白鹿说汤唯是妈妈降临",
+      "onboard_time": 1737099858,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 252975,
       "num": 307138,
       "word": "解放军昼夜不停卸载震区救援物资",
@@ -6851,14 +6883,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 221349,
-      "num": 221349,
-      "word": "白鹿说汤唯是妈妈降临",
-      "onboard_time": 1737099858,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 220936,
       "num": 459432,
       "word": "刘晓庆74岁的饭量",
@@ -6993,14 +7017,6 @@
       "onboard_time": 1736725576,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 215731,
-      "num": 328583,
-      "word": "陈丽君与法国歌手合唱越剧",
-      "onboard_time": 1737101238,
-      "rank": 9,
-      "category": "演出"
     },
     {
       "raw_hot": 215673,
@@ -7619,20 +7635,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 203406,
+      "num": 203406,
+      "word": "贺峻霖这个是真大学生",
+      "onboard_time": 1737102138,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203278,
       "num": 203278,
       "word": "百事可乐直播",
       "onboard_time": 1736675660,
       "rank": 18,
       "category": "美食"
-    },
-    {
-      "raw_hot": 203161,
-      "num": 198317,
-      "word": "人民网评大奉打更人",
-      "onboard_time": 1737101418,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 202090,
@@ -7881,14 +7897,6 @@
       "onboard_time": 1736755819,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 198286,
-      "num": 198286,
-      "word": "国乒亚洲杯参赛名单",
-      "onboard_time": 1737102078,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 198231,
@@ -8201,6 +8209,14 @@
       "onboard_time": 1736676199,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193645,
+      "num": 193645,
+      "word": "徐克面对肖战就像是小朋友",
+      "onboard_time": 1737102138,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 193093,
@@ -8692,7 +8708,7 @@
     },
     {
       "raw_hot": 185953,
-      "num": 185953,
+      "num": 195132,
       "word": "TTG久哲正式连接",
       "onboard_time": 1737097338,
       "rank": 25,
@@ -9057,6 +9073,14 @@
       "onboard_time": 1736944877,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 181338,
+      "num": 181338,
+      "word": "胡歌刘诗诗一路前行预告",
+      "onboard_time": 1737101958,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 181296,
@@ -9444,7 +9468,7 @@
     },
     {
       "raw_hot": 174016,
-      "num": 150702,
+      "num": 157064,
       "word": "学8年中医外国人因TikTok难民破防了",
       "onboard_time": 1737101238,
       "rank": 30,
@@ -10531,6 +10555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 157185,
+      "num": 157185,
+      "word": "杨超越无名之辈2演厂妹",
+      "onboard_time": 1737102378,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 156655,
       "num": 199542,
       "word": "超市年货专属BGM在召唤你",
@@ -10849,14 +10881,6 @@
       "onboard_time": 1736590827,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 152717,
-      "num": 152717,
-      "word": "徐克面对肖战就像是小朋友",
-      "onboard_time": 1737102138,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 152534,
@@ -11217,14 +11241,6 @@
       "onboard_time": 1736829439,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147336,
-      "num": 147336,
-      "word": "贺峻霖这个是真大学生",
-      "onboard_time": 1737102138,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 147316,
@@ -12673,14 +12689,6 @@
       "onboard_time": 1736644519,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 128893,
-      "num": 128893,
-      "word": "胡歌刘诗诗一路前行预告",
-      "onboard_time": 1737101958,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 128860,
@@ -15059,6 +15067,22 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 100324,
+      "num": 100324,
+      "word": "徐杰当选CBA全明星总票王",
+      "onboard_time": 1737102859,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100300,
+      "num": 100300,
+      "word": "马嘉祺彩排图",
+      "onboard_time": 1737102558,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 100097,
       "num": 100097,
       "word": "郭京飞赵今麦新剧联手除四恶",
@@ -15203,6 +15227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 97832,
+      "num": 97832,
+      "word": "林高远出战亚洲杯",
+      "onboard_time": 1737103039,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97822,
       "num": 97822,
       "word": "张康乐薄肌的神",
@@ -15239,14 +15271,6 @@
       "num": 96686,
       "word": "肖战郭靖执弓海报",
       "onboard_time": 1736856798,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 96665,
-      "num": 96665,
-      "word": "杨超越无名之辈2演厂妹",
-      "onboard_time": 1737102378,
       "rank": 49,
       "category": "电影"
     },
@@ -16041,6 +16065,14 @@
       "onboard_time": 1737042258,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72577,
+      "num": 198495,
+      "word": "白鹿说花粉事业心强随正主",
+      "onboard_time": 1737101838,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 71776,
@@ -17723,6 +17755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 25731,
+      "num": 792485,
+      "word": "这些非遗一出过年DNA动了",
+      "onboard_time": 1737086419,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25645,
       "num": 160740,
       "word": "张新成说参演唐探有压力",
@@ -17859,14 +17899,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 23748,
-      "num": 198495,
-      "word": "白鹿说花粉事业心强随正主",
-      "onboard_time": 1737101838,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 23688,
       "num": 36184,
       "word": "专家建议恢复IPO及正常做空机制",
@@ -17897,14 +17929,6 @@
       "onboard_time": 1736792652,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 23237,
-      "num": 792485,
-      "word": "这些非遗一出过年DNA动了",
-      "onboard_time": 1737086419,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22914,
