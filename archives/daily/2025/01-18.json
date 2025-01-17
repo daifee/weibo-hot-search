@@ -1,6 +1,6 @@
 {
   "startTime": 1737131217967,
-  "endTime": 1737142532516,
+  "endTime": 1737145378397,
   "band_list": [
     {
       "raw_hot": 850511,
@@ -267,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103177,
+      "num": 103177,
+      "word": "佛山电翰说不想再消耗工人身份",
+      "onboard_time": 1737141072,
+      "rank": 9,
+      "category": "网红"
+    },
+    {
       "raw_hot": 101416,
       "num": 101416,
       "word": "李昀锐累都写在眼睛上了",
@@ -443,14 +451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 53698,
-      "num": 53698,
-      "word": "佛山电翰说不想再消耗工人身份",
-      "onboard_time": 1737141072,
-      "rank": 9,
-      "category": "网红"
-    },
-    {
       "raw_hot": 48504,
       "num": 48504,
       "word": "白鹿三次央视春晚联排",
@@ -555,12 +555,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13334,
+      "num": 25066,
+      "word": "顾客多付2元钱老奶奶追着退回",
+      "onboard_time": 1737144071,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 11435,
       "num": 29208,
       "word": "国防新能源都需要的稀土矿上新",
       "onboard_time": 1737140351,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11331,
+      "num": 19419,
+      "word": "长征二号丁运载火箭成功发射3颗卫星",
+      "onboard_time": 1737143351,
+      "rank": 27,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
