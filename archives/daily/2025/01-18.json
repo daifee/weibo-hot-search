@@ -1,6 +1,6 @@
 {
   "startTime": 1737131217967,
-  "endTime": 1737156077185,
+  "endTime": 1737156971456,
   "band_list": [
     {
       "raw_hot": 850511,
@@ -35,8 +35,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 486164,
-      "num": 772230,
+      "raw_hot": 504647,
+      "num": 303639,
+      "word": "宋祖儿方称寻人男子是寄宿家庭弟弟",
+      "onboard_time": 1737156074,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 488899,
+      "num": 880741,
       "word": "妈这就是你儿子搞的世界级大工程",
       "onboard_time": 1737131176,
       "rank": 47,
@@ -99,6 +107,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 307690,
+      "num": 169288,
+      "word": "洪尚秀妻子回应金敏喜怀孕",
+      "onboard_time": 1737156074,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284503,
       "num": 284503,
       "word": "漂白第1集杀疯了",
@@ -107,8 +123,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 276106,
-      "num": 276106,
+      "raw_hot": 283793,
+      "num": 283793,
       "word": "佛山电翰说不想再消耗工人身份",
       "onboard_time": 1737141072,
       "rank": 9,
@@ -139,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196124,
+      "num": 168031,
+      "word": "中美网友对账后有些人天塌了",
+      "onboard_time": 1737136994,
+      "rank": 30,
+      "category": "民生新闻,国际时政"
+    },
+    {
       "raw_hot": 192843,
       "num": 192843,
       "word": "耿爽说今天可以说得更直白一些",
@@ -153,14 +177,6 @@
       "onboard_time": 1737122118,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 187014,
-      "num": 139544,
-      "word": "中美网友对账后有些人天塌了",
-      "onboard_time": 1737136994,
-      "rank": 30,
-      "category": "民生新闻,国际时政"
     },
     {
       "raw_hot": 177927,
@@ -201,6 +217,14 @@
       "onboard_time": 1737114918,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143617,
+      "num": 74558,
+      "word": "90后一家三口一年消费20万",
+      "onboard_time": 1737156014,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 137554,
@@ -299,14 +323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 101212,
-      "num": 65969,
-      "word": "90后一家三口一年消费20万",
-      "onboard_time": 1737156014,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 96825,
       "num": 96825,
       "word": "周深的音响设备是世界顶级的",
@@ -379,12 +395,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 78044,
+      "num": 58581,
+      "word": "看似养胃实则伤胃的4个习惯",
+      "onboard_time": 1737156014,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 76548,
       "num": 76548,
       "word": "陈垣宇4比2张本智和",
       "onboard_time": 1737120798,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75348,
+      "num": 75348,
+      "word": "高圆圆你也是没放过林更新",
+      "onboard_time": 1737113118,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 72860,
@@ -435,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 63713,
+      "num": 63713,
+      "word": "拜登计划把烫手山芋留给特朗普",
+      "onboard_time": 1737095358,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 63080,
       "num": 63080,
       "word": "大奉血屠三千里幕后大boss",
@@ -443,12 +483,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 62795,
-      "num": 39103,
-      "word": "看似养胃实则伤胃的4个习惯",
-      "onboard_time": 1737156014,
-      "rank": 31,
-      "category": "健康医疗"
+      "raw_hot": 61200,
+      "num": 61200,
+      "word": "2025汽车以旧换新政策有啥变化",
+      "onboard_time": 1737153372,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 58362,
@@ -467,12 +507,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 53599,
-      "num": 53599,
-      "word": "2025汽车以旧换新政策有啥变化",
-      "onboard_time": 1737153372,
-      "rank": 24,
-      "category": "汽车"
+      "raw_hot": 56935,
+      "num": 56935,
+      "word": "张雅钦把和杨紫的合照放C位",
+      "onboard_time": 1737155714,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 53222,
+      "num": 58622,
+      "word": "李现TO我最好的侍卫",
+      "onboard_time": 1737155714,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 48504,
@@ -499,14 +547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 47329,
-      "num": 47329,
-      "word": "拜登计划把烫手山芋留给特朗普",
-      "onboard_time": 1737095358,
-      "rank": 26,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 42642,
       "num": 44519,
       "word": "大奉打更人",
@@ -515,7 +555,15 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 40121,
+      "raw_hot": 42031,
+      "num": 42031,
+      "word": "周琦被驱逐",
+      "onboard_time": 1737156074,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 40952,
       "num": 138477,
       "word": "200层楼高的空中走一条镂空的路",
       "onboard_time": 1737134474,
@@ -531,12 +579,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 37722,
-      "num": 37722,
-      "word": "李现TO我最好的侍卫",
-      "onboard_time": 1737155714,
-      "rank": 37,
-      "category": "剧集"
+      "raw_hot": 37244,
+      "num": 311638,
+      "word": "我国找矿又有重大突破",
+      "onboard_time": 1737122298,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36913,
+      "num": 36913,
+      "word": "官方通报火锅店员工在后厨小便",
+      "onboard_time": 1737131837,
+      "rank": 46,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 36827,
@@ -547,20 +603,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 33866,
-      "num": 33866,
-      "word": "官方通报火锅店员工在后厨小便",
-      "onboard_time": 1737131837,
-      "rank": 46,
-      "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 32994,
-      "num": 281666,
-      "word": "我国找矿又有重大突破",
-      "onboard_time": 1737122298,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 32817,
+      "num": 33793,
+      "word": "恋与深空周年快乐",
+      "onboard_time": 1737156734,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 32090,
@@ -569,14 +617,6 @@
       "onboard_time": 1737148931,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31515,
-      "num": 31515,
-      "word": "张雅钦把和杨紫的合照放C位",
-      "onboard_time": 1737155714,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 30888,
