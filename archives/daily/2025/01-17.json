@@ -1,6 +1,6 @@
 {
   "startTime": 1737044847648,
-  "endTime": 1737121000675,
+  "endTime": 1737123607847,
   "band_list": [
     {
       "raw_hot": 2842832,
@@ -89,6 +89,14 @@
       "onboard_time": 1737074179,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1020311,
+      "num": 1020311,
+      "word": "漂白第1集杀疯了",
+      "onboard_time": 1737119839,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 961508,
@@ -227,6 +235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 684275,
+      "num": 684275,
+      "word": "王者蛇限皮肤主题公布",
+      "onboard_time": 1737119899,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 676524,
       "num": 676524,
       "word": "蛇年央视春晚第三次联排",
@@ -315,6 +331,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 565548,
+      "num": 565548,
+      "word": "再见爱人有完没完",
+      "onboard_time": 1737119659,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 551049,
       "num": 551049,
       "word": "预售",
@@ -379,20 +403,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 504647,
-      "num": 504647,
-      "word": "王者蛇限皮肤主题公布",
-      "onboard_time": 1737119899,
-      "rank": 21,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 502280,
       "num": 364251,
       "word": "第一次感受到催婚的窒息感",
       "onboard_time": 1737089598,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 491243,
+      "num": 491243,
+      "word": "陈垣宇4比2张本智和",
+      "onboard_time": 1737120798,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 488850,
@@ -465,6 +489,14 @@
       "onboard_time": 1737115218,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 443129,
+      "num": 443129,
+      "word": "春晚第三次联排阵容",
+      "onboard_time": 1737118638,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 437573,
@@ -787,14 +819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 296065,
-      "num": 296065,
-      "word": "漂白第1集杀疯了",
-      "onboard_time": 1737119839,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 290020,
       "num": 290020,
       "word": "比亚迪",
@@ -955,6 +979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 252782,
+      "num": 252782,
+      "word": "徐志胜周一围朱丹这两口子太吓人了",
+      "onboard_time": 1737121999,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252711,
       "num": 240586,
       "word": "马龙不语只是一味地帅",
@@ -1011,12 +1043,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 231326,
-      "num": 231326,
-      "word": "陈垣宇4比2张本智和",
-      "onboard_time": 1737120798,
-      "rank": 23,
-      "category": "体育"
+      "raw_hot": 232869,
+      "num": 360453,
+      "word": "辽宁朝阳一女神形象花灯引争议",
+      "onboard_time": 1737122118,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 228409,
@@ -1099,6 +1131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213225,
+      "num": 213225,
+      "word": "震区小女孩体验洗浴车直呼好舒服",
+      "onboard_time": 1737121639,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 212593,
       "num": 187836,
       "word": "李昀锐累都写在眼睛上了",
@@ -1169,14 +1209,6 @@
       "onboard_time": 1737094938,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 195259,
-      "num": 195259,
-      "word": "再见爱人有完没完",
-      "onboard_time": 1737119659,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 195255,
@@ -1409,14 +1441,6 @@
       "onboard_time": 1737025819,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 170980,
-      "num": 170980,
-      "word": "春晚第三次联排阵容",
-      "onboard_time": 1737118638,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 170728,
@@ -1763,6 +1787,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 139381,
+      "num": 139381,
+      "word": "加州一发电厂爆炸起火释放大量毒气",
+      "onboard_time": 1737121578,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 138980,
       "num": 138980,
       "word": "成毅分享片场图片",
@@ -1793,6 +1825,14 @@
       "onboard_time": 1737072199,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137255,
+      "num": 137255,
+      "word": "李宇春一首歌的生命可以有多长",
+      "onboard_time": 1737123019,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 136995,
@@ -2075,6 +2115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120291,
+      "num": 120291,
+      "word": "榜眼小俞加入AG",
+      "onboard_time": 1737121939,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 120174,
       "num": 120174,
       "word": "半导体",
@@ -2097,6 +2145,14 @@
       "onboard_time": 1737113060,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119239,
+      "num": 154571,
+      "word": "2025KPL春季赛抽签仪式",
+      "onboard_time": 1737122359,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 119062,
@@ -2507,6 +2563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102300,
+      "num": 102300,
+      "word": "AG荣都杯开门红",
+      "onboard_time": 1737123199,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 102077,
       "num": 102077,
       "word": "郑钦文谈对失败的感受",
@@ -2537,6 +2601,14 @@
       "onboard_time": 1737105559,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 101443,
+      "num": 101443,
+      "word": "武汉一公园公开卖猕猴引质疑",
+      "onboard_time": 1737119179,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101324,
@@ -2579,6 +2651,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 100132,
+      "num": 101635,
+      "word": "句号状元签加入JDG",
+      "onboard_time": 1737122179,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 99815,
       "num": 99815,
       "word": "杨子你惹papi酱干嘛",
@@ -2611,20 +2691,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 97201,
-      "num": 97201,
-      "word": "武汉一公园公开卖猕猴引质疑",
-      "onboard_time": 1737119179,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 97037,
       "num": 97037,
       "word": "在世界第一高桥上走惊险又刺激",
       "onboard_time": 1737103759,
       "rank": 47,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 96674,
+      "num": 96674,
+      "word": "敖瑞鹏紫瞳少年",
+      "onboard_time": 1737121757,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 96427,
@@ -2641,6 +2721,14 @@
       "onboard_time": 1737115818,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 96149,
+      "num": 96149,
+      "word": "外国网友亮出了十八般武艺",
+      "onboard_time": 1737121039,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 95678,
@@ -2681,6 +2769,14 @@
       "onboard_time": 1737080116,
       "rank": 45,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 92342,
+      "num": 96032,
+      "word": "这样轻断食高效易坚持",
+      "onboard_time": 1737123139,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 91595,
@@ -2825,6 +2921,14 @@
       "onboard_time": 1737024858,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 79772,
+      "num": 744894,
+      "word": "中国游全球圈粉",
+      "onboard_time": 1737122420,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78112,

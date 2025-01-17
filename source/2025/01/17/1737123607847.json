@@ -1,0 +1,410 @@
+{
+  "runTime": 1737123607847,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1392877,
+        "num": 1392877,
+        "word": "台湾当归",
+        "onboard_time": 1737107839,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1020311,
+        "num": 1020311,
+        "word": "漂白第1集杀疯了",
+        "onboard_time": 1737119839,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79772,
+        "num": 744894,
+        "word": "中国游全球圈粉",
+        "onboard_time": 1737122420,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 684275,
+        "num": 684275,
+        "word": "王者蛇限皮肤主题公布",
+        "onboard_time": 1737119899,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 624579,
+        "num": 624579,
+        "word": "本科毕业入伍不到1年立一等功",
+        "onboard_time": 1737105860,
+        "rank": 4,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 565548,
+        "num": 565548,
+        "word": "再见爱人有完没完",
+        "onboard_time": 1737119659,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 491243,
+        "num": 491243,
+        "word": "陈垣宇4比2张本智和",
+        "onboard_time": 1737120798,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 473990,
+        "num": 473990,
+        "word": "高铁上小孩吵闹男子一句话制服",
+        "onboard_time": 1737114918,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443129,
+        "num": 443129,
+        "word": "春晚第三次联排阵容",
+        "onboard_time": 1737118638,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232869,
+        "num": 360453,
+        "word": "辽宁朝阳一女神形象花灯引争议",
+        "onboard_time": 1737122118,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340933,
+        "num": 340933,
+        "word": "6名泰缅边境失联被困中国公民回国",
+        "onboard_time": 1737107958,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328074,
+        "num": 328074,
+        "word": "耿爽说今天可以说得更直白一些",
+        "onboard_time": 1737106998,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 312771,
+        "num": 312771,
+        "word": "国色芳华秦胜意是真正时代的产物",
+        "onboard_time": 1737112998,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303938,
+        "num": 303938,
+        "word": "漂白",
+        "onboard_time": 1737115218,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278383,
+        "num": 278383,
+        "word": "马龙樊振东未能入选亚洲杯参赛阵容",
+        "onboard_time": 1737112459,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268306,
+        "num": 268306,
+        "word": "王俊凯黄发蘑菇头",
+        "onboard_time": 1737116539,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 252782,
+        "num": 252782,
+        "word": "徐志胜周一围朱丹这两口子太吓人了",
+        "onboard_time": 1737121999,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224687,
+        "num": 224687,
+        "word": "2025听到最恐怖的一句我爱你",
+        "onboard_time": 1737114859,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217172,
+        "num": 217172,
+        "word": "JDG花650万拍下状元签",
+        "onboard_time": 1737116058,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 213225,
+        "num": 213225,
+        "word": "震区小女孩体验洗浴车直呼好舒服",
+        "onboard_time": 1737121639,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 627942,
+        "num": 210230,
+        "word": "黄圣依有多讨厌直播",
+        "onboard_time": 1737109939,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205795,
+        "num": 205795,
+        "word": "徐冬冬说120斤是很爽的体重",
+        "onboard_time": 1737116058,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203543,
+        "num": 203543,
+        "word": "王俊凯二搭刘德华",
+        "onboard_time": 1737108259,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190129,
+        "num": 190129,
+        "word": "人民网评大奉打更人",
+        "onboard_time": 1737101418,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177854,
+        "num": 177854,
+        "word": "美甲",
+        "onboard_time": 1737107958,
+        "rank": 24,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 181132,
+        "num": 177418,
+        "word": "周深的音响设备是世界顶级的",
+        "onboard_time": 1737118819,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175287,
+        "num": 175287,
+        "word": "陈垣宇vs张本智和",
+        "onboard_time": 1737119899,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164118,
+        "num": 164118,
+        "word": "国家统一是不可阻挡的历史大势",
+        "onboard_time": 1737116778,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 157764,
+        "num": 157764,
+        "word": "近视眼化妆的真实现状",
+        "onboard_time": 1737112340,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 119239,
+        "num": 154571,
+        "word": "2025KPL春季赛抽签仪式",
+        "onboard_time": 1737122359,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153409,
+        "num": 153409,
+        "word": "马琳称陈梦近期暂时不参加国际比赛",
+        "onboard_time": 1737120919,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145235,
+        "num": 145235,
+        "word": "中美网友聊嗨了",
+        "onboard_time": 1737087678,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139381,
+        "num": 139381,
+        "word": "加州一发电厂爆炸起火释放大量毒气",
+        "onboard_time": 1737121578,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 137255,
+        "num": 137255,
+        "word": "李宇春一首歌的生命可以有多长",
+        "onboard_time": 1737123019,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128347,
+        "num": 128347,
+        "word": "李昀锐累都写在眼睛上了",
+        "onboard_time": 1737114978,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125177,
+        "num": 125177,
+        "word": "荣耀CEO赵明内网发告别文章",
+        "onboard_time": 1737108739,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124981,
+        "num": 124981,
+        "word": "代露娃演技好细腻",
+        "onboard_time": 1737120198,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120291,
+        "num": 120291,
+        "word": "榜眼小俞加入AG",
+        "onboard_time": 1737121939,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108331,
+        "num": 108331,
+        "word": "小鬼央视春晚彩排路透",
+        "onboard_time": 1737120319,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107963,
+        "num": 107963,
+        "word": "吴谨言吊带黑长直",
+        "onboard_time": 1737105618,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107892,
+        "num": 107892,
+        "word": "王者荣耀",
+        "onboard_time": 1737118039,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106380,
+        "num": 106380,
+        "word": "最适合减脂期看的剧出现了",
+        "onboard_time": 1737114319,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102300,
+        "num": 102300,
+        "word": "AG荣都杯开门红",
+        "onboard_time": 1737123199,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100132,
+        "num": 101635,
+        "word": "句号状元签加入JDG",
+        "onboard_time": 1737122179,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101443,
+        "num": 101443,
+        "word": "武汉一公园公开卖猕猴引质疑",
+        "onboard_time": 1737119179,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100923,
+        "num": 100923,
+        "word": "孙颖莎第一次出战亚洲杯",
+        "onboard_time": 1737119959,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99728,
+        "num": 99728,
+        "word": "白鹿三次央视春晚联排",
+        "onboard_time": 1737112218,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96674,
+        "num": 96674,
+        "word": "敖瑞鹏紫瞳少年",
+        "onboard_time": 1737121757,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96149,
+        "num": 96149,
+        "word": "外国网友亮出了十八般武艺",
+        "onboard_time": 1737121039,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 92342,
+        "num": 96032,
+        "word": "这样轻断食高效易坚持",
+        "onboard_time": 1737123139,
+        "rank": 49,
+        "category": "科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展冰雪产业丰富群众冰雪赛事活动#"
+    }
+  }
+}
