@@ -1,0 +1,410 @@
+{
+  "runTime": 1737091257967,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2799304,
+        "num": 2799304,
+        "word": "公安机关公布王星被骗至缅甸细节",
+        "onboard_time": 1737088699,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 892688,
+        "num": 892688,
+        "word": "16个外甥又来舅舅家过寒假了",
+        "onboard_time": 1737087678,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25590,
+        "num": 860459,
+        "word": "新春南宁老友记",
+        "onboard_time": 1737086778,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 849268,
+        "num": 849268,
+        "word": "女子鼻骨骨折一个月后直接美出新高度",
+        "onboard_time": 1737090561,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 782908,
+        "num": 782908,
+        "word": "小米全球总部15元的员工餐",
+        "onboard_time": 1737087560,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 516737,
+        "num": 516737,
+        "word": "向佐为妈妈和郭碧婷庆生",
+        "onboard_time": 1737087137,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 492628,
+        "num": 492628,
+        "word": "杨幂2025年第一个梗来了",
+        "onboard_time": 1737090318,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473984,
+        "num": 473984,
+        "word": "全力捣毁境外电诈窝点",
+        "onboard_time": 1737089299,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 432837,
+        "num": 432837,
+        "word": "2024年出生人口回升",
+        "onboard_time": 1737083418,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265366,
+        "num": 419056,
+        "word": "中美网友聊嗨了",
+        "onboard_time": 1737087678,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 690605,
+        "num": 418569,
+        "word": "第一次做小姨凭什么让着你",
+        "onboard_time": 1737087560,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1772846,
+        "num": 417007,
+        "word": "鹿哈向女友求婚成功",
+        "onboard_time": 1737077537,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 411165,
+        "num": 411165,
+        "word": "蛇年央视春晚第三次联排",
+        "onboard_time": 1737084919,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 410856,
+        "num": 410856,
+        "word": "D社曝金敏喜怀孕",
+        "onboard_time": 1737078137,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375209,
+        "num": 375209,
+        "word": "预售",
+        "onboard_time": 1737086119,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 359774,
+        "num": 359774,
+        "word": "女子和丈夫养100只鸵鸟做鸵鸟吃播",
+        "onboard_time": 1737080418,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323094,
+        "num": 323094,
+        "word": "嘘国王在冬眠",
+        "onboard_time": 1737083839,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298887,
+        "num": 298887,
+        "word": "拍封神把传说中的神仙研究了一遍",
+        "onboard_time": 1737087618,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 287409,
+        "num": 287409,
+        "word": "2024年中国GDP同比增长5%",
+        "onboard_time": 1737080298,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 89159,
+        "num": 276648,
+        "word": "金秀贤出发米兰",
+        "onboard_time": 1737089899,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 581617,
+        "num": 276289,
+        "word": "因吵架妻子胎停丈夫崩溃大哭",
+        "onboard_time": 1737074179,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274713,
+        "num": 274713,
+        "word": "贾玲终极梦想是拍情景喜剧",
+        "onboard_time": 1737087799,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 270963,
+        "num": 270963,
+        "word": "第一次感受到催婚的窒息感",
+        "onboard_time": 1737089598,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251980,
+        "num": 251980,
+        "word": "永夜星河出专辑了",
+        "onboard_time": 1737089299,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237230,
+        "num": 237230,
+        "word": "近期将恢复福建上海居民赴台团队游",
+        "onboard_time": 1737076697,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207360,
+        "num": 207360,
+        "word": "人体最大免疫器官竟是它",
+        "onboard_time": 1737088819,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 205172,
+        "num": 205172,
+        "word": "漂白定档即开播",
+        "onboard_time": 1737090738,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194341,
+        "num": 194341,
+        "word": "尹净汉solo单曲",
+        "onboard_time": 1737090561,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 194196,
+        "num": 194196,
+        "word": "黄誉博以为张兰是向太",
+        "onboard_time": 1737090318,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138313,
+        "num": 189830,
+        "word": "国色芳华好讽刺的一句话",
+        "onboard_time": 1737090859,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187541,
+        "num": 187541,
+        "word": "周深说观众是演唱会的灵魂",
+        "onboard_time": 1737089539,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184437,
+        "num": 184437,
+        "word": "马龙不语只是一味地帅",
+        "onboard_time": 1737087618,
+        "rank": 31,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 181458,
+        "num": 181458,
+        "word": "电影无名之辈2",
+        "onboard_time": 1737083119,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177459,
+        "num": 177459,
+        "word": "丁禹兮第三次央视春晚联排",
+        "onboard_time": 1737090859,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166924,
+        "num": 166924,
+        "word": "封神是中国人自己的国民神话",
+        "onboard_time": 1737088279,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164881,
+        "num": 164881,
+        "word": "除夕10天倒计时",
+        "onboard_time": 1737070095,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161130,
+        "num": 161130,
+        "word": "秦霄贤好友怒怼辛雨锡",
+        "onboard_time": 1737079337,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161099,
+        "num": 161099,
+        "word": "快乐再出发",
+        "onboard_time": 1737090619,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158088,
+        "num": 158088,
+        "word": "男孩未完成作业被批评举报父亲藏罂粟壳",
+        "onboard_time": 1737090378,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150491,
+        "num": 150491,
+        "word": "父母出资购房离婚后女方分得60万",
+        "onboard_time": 1737090798,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147905,
+        "num": 147905,
+        "word": "YG结束演员业务",
+        "onboard_time": 1737083718,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147877,
+        "num": 147877,
+        "word": "难哄OST全明星阵容",
+        "onboard_time": 1737084559,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147316,
+        "num": 147316,
+        "word": "陈冠希人肉素人老婆",
+        "onboard_time": 1737030318,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144879,
+        "num": 144879,
+        "word": "挖出一个藏在缅甸贩运人口的犯罪集团",
+        "onboard_time": 1737090918,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143925,
+        "num": 143925,
+        "word": "这些春晚歌曲拉满过年氛围感",
+        "onboard_time": 1737078857,
+        "rank": 44,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 141503,
+        "num": 141503,
+        "word": "SM现役女团合照",
+        "onboard_time": 1737082697,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140187,
+        "num": 140187,
+        "word": "生化和流产的区别",
+        "onboard_time": 1737073939,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125526,
+        "num": 125526,
+        "word": "节后返工警惕境外高薪务工陷阱",
+        "onboard_time": 1737086239,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122333,
+        "num": 122333,
+        "word": "金晨ELLE首封",
+        "onboard_time": 1737085039,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121674,
+        "num": 121674,
+        "word": "难哄",
+        "onboard_time": 1737088878,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展冰雪产业丰富群众冰雪赛事活动#"
+    }
+  }
+}

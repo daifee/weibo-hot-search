@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737088946405,
+  "endTime": 1737091257967,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -561,6 +561,14 @@
       "onboard_time": 1736237362,
       "rank": 4,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 2799304,
+      "num": 2799304,
+      "word": "公安机关公布王星被骗至缅甸细节",
+      "onboard_time": 1737088699,
+      "rank": 18,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 2799293,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736670201,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1411538,
-      "num": 819173,
-      "word": "葛夕没下车",
-      "onboard_time": 1736397143,
-      "rank": 23,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
