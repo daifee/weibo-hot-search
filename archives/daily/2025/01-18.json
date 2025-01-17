@@ -1,6 +1,6 @@
 {
   "startTime": 1737131217967,
-  "endTime": 1737149729709,
+  "endTime": 1737152417683,
   "band_list": [
     {
       "raw_hot": 850511,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 299404,
-      "num": 299404,
+      "num": 366835,
       "word": "妈这就是你儿子搞的世界级大工程",
       "onboard_time": 1737131176,
       "rank": 47,
@@ -259,20 +259,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106712,
+      "num": 106712,
+      "word": "佛山电翰说不想再消耗工人身份",
+      "onboard_time": 1737141072,
+      "rank": 9,
+      "category": "网红"
+    },
+    {
       "raw_hot": 105745,
       "num": 105745,
       "word": "白月梵星",
       "onboard_time": 1737126798,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 103177,
-      "num": 103177,
-      "word": "佛山电翰说不想再消耗工人身份",
-      "onboard_time": 1737141072,
-      "rank": 9,
-      "category": "网红"
     },
     {
       "raw_hot": 101416,
@@ -321,6 +321,14 @@
       "onboard_time": 1737127277,
       "rank": 38,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 85681,
+      "num": 62267,
+      "word": "中美网友对账后有些人天塌了",
+      "onboard_time": 1737136994,
+      "rank": 30,
+      "category": "民生新闻,国际时政"
     },
     {
       "raw_hot": 83239,
@@ -427,14 +435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 61337,
-      "num": 40304,
-      "word": "中美网友对账后有些人天塌了",
-      "onboard_time": 1737136994,
-      "rank": 30,
-      "category": "民生新闻,国际时政"
-    },
-    {
       "raw_hot": 58362,
       "num": 58362,
       "word": "加州一发电厂爆炸起火释放大量毒气",
@@ -507,6 +507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 32090,
+      "num": 32090,
+      "word": "李华以后别写信了评论区见吧",
+      "onboard_time": 1737148931,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28240,
       "num": 31312,
       "word": "封神第二部西岐阵营见面会",
@@ -523,20 +531,20 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 26706,
+      "num": 31273,
+      "word": "官方通报火锅店员工在后厨小便",
+      "onboard_time": 1737131837,
+      "rank": 46,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 26183,
       "num": 26183,
       "word": "美国网友花式亮招和中国人唠嗑",
       "onboard_time": 1737146951,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25474,
-      "num": 31273,
-      "word": "官方通报火锅店员工在后厨小便",
-      "onboard_time": 1737131837,
-      "rank": 46,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 23426,
@@ -555,7 +563,7 @@
       "category": "综艺,时尚"
     },
     {
-      "raw_hot": 18938,
+      "raw_hot": 20149,
       "num": 39230,
       "word": "档位调太大神器擦窗户时玻璃炸裂",
       "onboard_time": 1737148210,
@@ -587,12 +595,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 13150,
-      "num": 22343,
-      "word": "李华以后别写信了评论区见吧",
-      "onboard_time": 1737148931,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 14741,
+      "num": 19397,
+      "word": "氢气球遇静电瞬间爆燃",
+      "onboard_time": 1737150673,
+      "rank": 46,
+      "category": "民生新闻,科学科普"
     },
     {
       "raw_hot": 12426,
@@ -617,6 +625,14 @@
       "onboard_time": 1737143351,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 8807,
+      "num": 62297,
+      "word": "氢气球爆燃温度超400摄氏度",
+      "onboard_time": 1737151932,
+      "rank": 9,
+      "category": "民生新闻,科学科普"
     }
   ],
   "hotgov_list": [
