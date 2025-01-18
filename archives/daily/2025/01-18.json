@@ -1,6 +1,6 @@
 {
   "startTime": 1737131217967,
-  "endTime": 1737196665384,
+  "endTime": 1737198998809,
   "band_list": [
     {
       "raw_hot": 2976802,
@@ -35,6 +35,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1288602,
+      "num": 1288602,
+      "word": "浙大毕业的网红陈娴官宣恋情",
+      "onboard_time": 1737194178,
+      "rank": 1,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1283051,
       "num": 1283051,
       "word": "韩网红扮外国人在机场打车被宰",
@@ -49,14 +57,6 @@
       "onboard_time": 1737162737,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1156194,
-      "num": 1156194,
-      "word": "浙大毕业的网红陈娴官宣恋情",
-      "onboard_time": 1737194178,
-      "rank": 1,
-      "category": "网红"
     },
     {
       "raw_hot": 1148125,
@@ -123,6 +123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 833599,
+      "num": 833599,
+      "word": "留几手十年网红白干了",
+      "onboard_time": 1737192439,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 824938,
       "num": 824938,
       "word": "22岁脑瘫女孩街头卖发卡2元一个",
@@ -147,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 795770,
+      "num": 795770,
+      "word": "中国赴泰旅游不降反增",
+      "onboard_time": 1737192859,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 794408,
       "num": 794408,
       "word": "周受资称特朗普致力于与其公司合作",
@@ -169,14 +185,6 @@
       "onboard_time": 1737178818,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 747837,
-      "num": 747837,
-      "word": "中国赴泰旅游不降反增",
-      "onboard_time": 1737192859,
-      "rank": 46,
-      "category": "旅游"
     },
     {
       "raw_hot": 742379,
@@ -257,6 +265,14 @@
       "onboard_time": 1737136994,
       "rank": 30,
       "category": "民生新闻,国际时政"
+    },
+    {
+      "raw_hot": 584349,
+      "num": 369517,
+      "word": "唐尚珺大学第一学期成绩",
+      "onboard_time": 1737198018,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 538599,
@@ -419,6 +435,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 427336,
+      "num": 390361,
+      "word": "左邓",
+      "onboard_time": 1737195978,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 417273,
       "num": 362765,
       "word": "杨迪说周洁琼小巷人家入戏太深",
@@ -507,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 370026,
+      "num": 370026,
+      "word": "广东都快干成厂东了",
+      "onboard_time": 1737189137,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 369822,
       "num": 429774,
       "word": "列车撞鸟与野猪侵入或为同一路段",
@@ -553,14 +585,6 @@
       "onboard_time": 1737166218,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 342851,
-      "num": 203589,
-      "word": "留几手十年网红白干了",
-      "onboard_time": 1737192439,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 339212,
@@ -612,7 +636,7 @@
     },
     {
       "raw_hot": 316188,
-      "num": 203015,
+      "num": 205046,
       "word": "婆婆给3个儿媳分钱不许儿子打主意",
       "onboard_time": 1737192558,
       "rank": 41,
@@ -659,6 +683,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 284954,
+      "num": 284954,
+      "word": "极禹",
+      "onboard_time": 1737197357,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 284503,
       "num": 284503,
       "word": "漂白第1集杀疯了",
@@ -683,12 +715,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 276613,
+      "num": 209485,
+      "word": "朱苏",
+      "onboard_time": 1737196999,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 274957,
       "num": 274957,
       "word": "中美网友互发家人照片",
       "onboard_time": 1737179538,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 273589,
+      "num": 209472,
+      "word": "苏新皓腹肌",
+      "onboard_time": 1737197839,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 270735,
@@ -737,6 +785,14 @@
       "onboard_time": 1737162797,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 252401,
+      "num": 252401,
+      "word": "杨紫感谢观众",
+      "onboard_time": 1737197539,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 239803,
@@ -835,11 +891,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 208732,
-      "num": 208732,
-      "word": "左邓",
-      "onboard_time": 1737195978,
-      "rank": 18,
+      "raw_hot": 209554,
+      "num": 209554,
+      "word": "朱志鑫头上有6个卡子",
+      "onboard_time": 1737198018,
+      "rank": 19,
       "category": "演出"
     },
     {
@@ -889,6 +945,14 @@
       "onboard_time": 1737188358,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201375,
+      "num": 201375,
+      "word": "奇文 二人转",
+      "onboard_time": 1737196699,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 201032,
@@ -1099,14 +1163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 182668,
-      "num": 182668,
-      "word": "广东都快干成厂东了",
-      "onboard_time": 1737189137,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 182594,
       "num": 182594,
       "word": "一诺黄俊捷合照",
@@ -1171,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176193,
+      "num": 176193,
+      "word": "guilty合作舞台",
+      "onboard_time": 1737198677,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 175950,
       "num": 175950,
       "word": "谁家杂志一口气拍了四大高原",
@@ -1220,7 +1284,7 @@
     },
     {
       "raw_hot": 170829,
-      "num": 170829,
+      "num": 369974,
       "word": "卖房后忘交接替别人交了13年电费",
       "onboard_time": 1737190758,
       "rank": 42,
@@ -1249,6 +1313,14 @@
       "onboard_time": 1737137233,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 166994,
+      "num": 166994,
+      "word": "美国妈妈为儿子向中国网友求食谱",
+      "onboard_time": 1737195258,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166836,
@@ -1291,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163684,
+      "num": 163684,
+      "word": "赵今麦拍受虐戏被踩脸",
+      "onboard_time": 1737193939,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163270,
       "num": 163270,
       "word": "齐司礼新卡",
@@ -1305,6 +1385,14 @@
       "onboard_time": 1737181097,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162038,
+      "num": 162038,
+      "word": "王一博落雪为念",
+      "onboard_time": 1737197717,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 161978,
@@ -1435,6 +1523,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 147864,
+      "num": 147864,
+      "word": "白月梵星失忆哥清醒嫂茶味弟",
+      "onboard_time": 1737198677,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147728,
       "num": 147728,
       "word": "高铁上小孩吵闹男子一句话制服",
@@ -1488,14 +1584,6 @@
       "word": "白鹿晒白烁好多小挂坠",
       "onboard_time": 1737162677,
       "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 142777,
-      "num": 142777,
-      "word": "赵今麦拍受虐戏被踩脸",
-      "onboard_time": 1737193939,
-      "rank": 41,
       "category": "剧集"
     },
     {
@@ -1635,14 +1723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131295,
-      "num": 131295,
-      "word": "美国妈妈为儿子向中国网友求食谱",
-      "onboard_time": 1737195258,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 130754,
       "num": 130754,
       "word": "创造营亚洲2 高学历选手",
@@ -1675,12 +1755,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 126957,
+      "num": 126957,
+      "word": "和平精英",
+      "onboard_time": 1737196879,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 126295,
       "num": 126295,
       "word": "大侦探第十季叫拾光季",
       "onboard_time": 1737171318,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126091,
+      "num": 126091,
+      "word": "丁程鑫 露额头",
+      "onboard_time": 1737198618,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 125280,
@@ -1705,6 +1801,14 @@
       "onboard_time": 1737164178,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123671,
+      "num": 99356,
+      "word": "丁程鑫好会wave",
+      "onboard_time": 1737196939,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 123563,
@@ -1755,6 +1859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121674,
+      "num": 121674,
+      "word": "左奇函杨博文绝配舞台",
+      "onboard_time": 1737197958,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 121557,
       "num": 121557,
       "word": "毛不易不语只是一味地发年后安排",
@@ -1769,6 +1881,14 @@
       "onboard_time": 1737180917,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121063,
+      "num": 121063,
+      "word": "张峻豪新音饭拍",
+      "onboard_time": 1737198320,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 121036,
@@ -1796,7 +1916,7 @@
     },
     {
       "raw_hot": 119635,
-      "num": 792905,
+      "num": 1012728,
       "word": "给老外亿点中式美学震撼",
       "onboard_time": 1737188718,
       "rank": 2,
@@ -1931,6 +2051,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 110656,
+      "num": 209452,
+      "word": "管晨辰踩到网球崴脚复诊钢板断了",
+      "onboard_time": 1737198200,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106975,
       "num": 106975,
       "word": "祝绪丹去吃泉州小吃啦",
@@ -1987,6 +2115,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 104345,
+      "num": 304478,
+      "word": "加大力度打击电诈等跨境违法犯罪活动",
+      "onboard_time": 1737195859,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 101416,
       "num": 101416,
       "word": "李昀锐累都写在眼睛上了",
@@ -2009,6 +2145,14 @@
       "onboard_time": 1737189078,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99483,
+      "num": 99483,
+      "word": "明日方舟",
+      "onboard_time": 1737197539,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 98050,
@@ -2353,14 +2497,6 @@
       "onboard_time": 1737126379,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 61747,
-      "num": 304478,
-      "word": "加大力度打击电诈等跨境违法犯罪活动",
-      "onboard_time": 1737195859,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 61200,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1737198998809,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1577184,
+        "num": 1577184,
+        "word": "上海老人离世430万和1套房无人继承",
+        "onboard_time": 1737191118,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1288602,
+        "num": 1288602,
+        "word": "浙大毕业的网红陈娴官宣恋情",
+        "onboard_time": 1737194178,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 96243,
+        "num": 1012728,
+        "word": "给老外亿点中式美学震撼",
+        "onboard_time": 1737188718,
+        "rank": 2,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 833599,
+        "num": 833599,
+        "word": "留几手十年网红白干了",
+        "onboard_time": 1737192439,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 795770,
+        "num": 795770,
+        "word": "中国赴泰旅游不降反增",
+        "onboard_time": 1737192859,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 431639,
+        "num": 431639,
+        "word": "美国网友开始卷了",
+        "onboard_time": 1737190998,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 406427,
+        "num": 406427,
+        "word": "女子高铁调座被后座老人用拳打头",
+        "onboard_time": 1737192018,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 427336,
+        "num": 390361,
+        "word": "左邓",
+        "onboard_time": 1737195978,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 370026,
+        "num": 370026,
+        "word": "广东都快干成厂东了",
+        "onboard_time": 1737189137,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138395,
+        "num": 369974,
+        "word": "卖房后忘交接替别人交了13年电费",
+        "onboard_time": 1737190758,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 591453,
+        "num": 369574,
+        "word": "严浩翔裤子崩了",
+        "onboard_time": 1737191538,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 584349,
+        "num": 369517,
+        "word": "唐尚珺大学第一学期成绩",
+        "onboard_time": 1737198018,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 504017,
+        "num": 369211,
+        "word": "TikTok公司表示白宫无保证平台只能关",
+        "onboard_time": 1737190818,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 369079,
+        "num": 369079,
+        "word": "有一种中式审美叫牡丹花开",
+        "onboard_time": 1737189558,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284954,
+        "num": 284954,
+        "word": "极禹",
+        "onboard_time": 1737197357,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 262349,
+        "num": 262349,
+        "word": "杜海涛听到沈梦辰拍吻戏的反应",
+        "onboard_time": 1737185718,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252401,
+        "num": 252401,
+        "word": "杨紫感谢观众",
+        "onboard_time": 1737197539,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231751,
+        "num": 231751,
+        "word": "刘晓庆不语只是一味贴假睫毛",
+        "onboard_time": 1737187098,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222049,
+        "num": 222049,
+        "word": "美国网友说对中国的刻板印象被击碎",
+        "onboard_time": 1737183136,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209554,
+        "num": 209554,
+        "word": "朱志鑫头上有6个卡子",
+        "onboard_time": 1737198018,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1247111,
+        "num": 209535,
+        "word": "李小冉气到发抖",
+        "onboard_time": 1737182356,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361271,
+        "num": 209514,
+        "word": "赵樱子曝娱乐圈有一对夫妻离婚是真的",
+        "onboard_time": 1737178697,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276613,
+        "num": 209485,
+        "word": "朱苏",
+        "onboard_time": 1737196999,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 273589,
+        "num": 209472,
+        "word": "苏新皓腹肌",
+        "onboard_time": 1737197839,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110656,
+        "num": 209452,
+        "word": "管晨辰踩到网球崴脚复诊钢板断了",
+        "onboard_time": 1737198200,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209433,
+        "num": 209433,
+        "word": "从不吸烟的医学教授确诊肺癌晚期",
+        "onboard_time": 1737188958,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291668,
+        "num": 205651,
+        "word": "李小冉评论区沦陷",
+        "onboard_time": 1737190698,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268181,
+        "num": 205046,
+        "word": "婆婆给3个儿媳分钱不许儿子打主意",
+        "onboard_time": 1737192558,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201375,
+        "num": 201375,
+        "word": "奇文 二人转",
+        "onboard_time": 1737196699,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181360,
+        "num": 181360,
+        "word": "雷军吃冻梨被冻出表情包",
+        "onboard_time": 1737192378,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 312143,
+        "num": 180108,
+        "word": "微信更新了callkit了",
+        "onboard_time": 1737184517,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 176193,
+        "num": 176193,
+        "word": "guilty合作舞台",
+        "onboard_time": 1737198677,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170919,
+        "num": 170919,
+        "word": "武艺不知道爸妈有没有离婚",
+        "onboard_time": 1737184817,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166994,
+        "num": 166994,
+        "word": "美国妈妈为儿子向中国网友求食谱",
+        "onboard_time": 1737195258,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163684,
+        "num": 163684,
+        "word": "赵今麦拍受虐戏被踩脸",
+        "onboard_time": 1737193939,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162038,
+        "num": 162038,
+        "word": "王一博落雪为念",
+        "onboard_time": 1737197717,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163466,
+        "num": 161630,
+        "word": "漂白",
+        "onboard_time": 1737190399,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157125,
+        "num": 157125,
+        "word": "凡人修仙传正版打到盗版家门口",
+        "onboard_time": 1737195319,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 150973,
+        "num": 150973,
+        "word": "杨紫谈接下国色芳华的原因",
+        "onboard_time": 1737179238,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147864,
+        "num": 147864,
+        "word": "白月梵星失忆哥清醒嫂茶味弟",
+        "onboard_time": 1737198677,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141643,
+        "num": 141643,
+        "word": "超人诞生日记",
+        "onboard_time": 1737192979,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141124,
+        "num": 141124,
+        "word": "桂恒",
+        "onboard_time": 1737195319,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127972,
+        "num": 127972,
+        "word": "严浩翔不语只是一味going",
+        "onboard_time": 1737195798,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126957,
+        "num": 126957,
+        "word": "和平精英",
+        "onboard_time": 1737196879,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126091,
+        "num": 126091,
+        "word": "丁程鑫 露额头",
+        "onboard_time": 1737198618,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121674,
+        "num": 121674,
+        "word": "左奇函杨博文绝配舞台",
+        "onboard_time": 1737197958,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121063,
+        "num": 121063,
+        "word": "张峻豪新音饭拍",
+        "onboard_time": 1737198320,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104345,
+        "num": 104345,
+        "word": "加大力度打击电诈等跨境违法犯罪活动",
+        "onboard_time": 1737195859,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 99483,
+        "num": 99483,
+        "word": "明日方舟",
+        "onboard_time": 1737197539,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123671,
+        "num": 99356,
+        "word": "丁程鑫好会wave",
+        "onboard_time": 1737196939,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同苏林梁强就中越建交75周年互致贺电#"
+    }
+  }
+}
