@@ -1,0 +1,410 @@
+{
+  "runTime": 1737209956562,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7891142,
+        "num": 7891142,
+        "word": "杨子直播求婚黄圣依",
+        "onboard_time": 1737205280,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 842571,
+        "num": 842571,
+        "word": "上海老人离世430万和1套房无人继承",
+        "onboard_time": 1737191118,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41104,
+        "num": 717704,
+        "word": "过年赶大集一秒回到小时候",
+        "onboard_time": 1737187277,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 854608,
+        "num": 702940,
+        "word": "谁敢相信这是71岁的赵雅芝",
+        "onboard_time": 1737205520,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 615266,
+        "num": 615266,
+        "word": "患渐冻症容貌巨变女生已无法说话",
+        "onboard_time": 1737204978,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 436050,
+        "num": 436050,
+        "word": "俩小孩把寒假作业塞下水道",
+        "onboard_time": 1737205219,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 531504,
+        "num": 418361,
+        "word": "白烁梵樾圆房",
+        "onboard_time": 1737207381,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 399400,
+        "num": 399400,
+        "word": "国色芳华预告",
+        "onboard_time": 1737205520,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272722,
+        "num": 272722,
+        "word": "海航一飞机发动机失效备降南昌",
+        "onboard_time": 1737201738,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218893,
+        "num": 218893,
+        "word": "MiuMiu活动",
+        "onboard_time": 1737204800,
+        "rank": 9,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 385161,
+        "num": 218872,
+        "word": "陈奕迅在表演时疑似嗑瓜子",
+        "onboard_time": 1737208101,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 365789,
+        "num": 215760,
+        "word": "TF家族人人人人人",
+        "onboard_time": 1737207321,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 274150,
+        "num": 214097,
+        "word": "36岁相声演员许兆呈脑出血离世",
+        "onboard_time": 1737206961,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308382,
+        "num": 212196,
+        "word": "中国赴泰旅游不降反增",
+        "onboard_time": 1737192859,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 364382,
+        "num": 210879,
+        "word": "大奉打更人结局",
+        "onboard_time": 1737206359,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340329,
+        "num": 209223,
+        "word": "文朱",
+        "onboard_time": 1737203719,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 246343,
+        "num": 208642,
+        "word": "女子假扮机器人回家被村里人介绍对象",
+        "onboard_time": 1737207800,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231890,
+        "num": 206190,
+        "word": "TikTok公司表示白宫无保证平台只能关",
+        "onboard_time": 1737190818,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 205289,
+        "num": 205289,
+        "word": "美国网友开始卷了",
+        "onboard_time": 1737190998,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 198469,
+        "num": 198469,
+        "word": "狗妈妈叼着冻僵小狗找人求救",
+        "onboard_time": 1737202098,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 663354,
+        "num": 198413,
+        "word": "李小冉气到发抖",
+        "onboard_time": 1737182356,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 538416,
+        "num": 198318,
+        "word": "女子出国做断骨增高腿喷脓",
+        "onboard_time": 1737207261,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389975,
+        "num": 198233,
+        "word": "张凌赫工作室报警",
+        "onboard_time": 1737206418,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244445,
+        "num": 198180,
+        "word": "文轩",
+        "onboard_time": 1737208340,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154284,
+        "num": 198085,
+        "word": "海边这种爆爆珠不建议rua",
+        "onboard_time": 1737206322,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163168,
+        "num": 197958,
+        "word": "广东都快干成厂东了",
+        "onboard_time": 1737189137,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241149,
+        "num": 197907,
+        "word": "杨子回归家庭的日子",
+        "onboard_time": 1737200597,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211636,
+        "num": 197790,
+        "word": "漂白",
+        "onboard_time": 1737190399,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197762,
+        "num": 197762,
+        "word": "你好星期六下期预告有杨紫李现",
+        "onboard_time": 1737208821,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192764,
+        "num": 192764,
+        "word": "赵丽颖杜莎夫人沈璃蜡像亮相",
+        "onboard_time": 1737201679,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194595,
+        "num": 191620,
+        "word": "微信更新了callkit了",
+        "onboard_time": 1737184517,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 172419,
+        "num": 172419,
+        "word": "漂白命案凶犯购日常厨具碎尸",
+        "onboard_time": 1737208882,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169686,
+        "num": 169686,
+        "word": "李雪琴也嗑王鹤棣田曦薇",
+        "onboard_time": 1737208821,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155169,
+        "num": 155169,
+        "word": "内娱当不了一点蒙面歌王",
+        "onboard_time": 1737203119,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153223,
+        "num": 153223,
+        "word": "深圳海滩出现一片褐色泡泡",
+        "onboard_time": 1737207680,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149663,
+        "num": 149663,
+        "word": "邓佳鑫黄朔合作曲舞台",
+        "onboard_time": 1737208940,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147228,
+        "num": 147228,
+        "word": "都四九天了今年还会冷吗",
+        "onboard_time": 1737205161,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142636,
+        "num": 142636,
+        "word": "国色芳华",
+        "onboard_time": 1737203418,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193117,
+        "num": 140560,
+        "word": "李小冉评论区沦陷",
+        "onboard_time": 1737190698,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137245,
+        "num": 137245,
+        "word": "婆婆给3个儿媳分钱不许儿子打主意",
+        "onboard_time": 1737192558,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119897,
+        "num": 119897,
+        "word": "周芯竹王牌新主播第六名",
+        "onboard_time": 1737203658,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117306,
+        "num": 117306,
+        "word": "RSG七冠王",
+        "onboard_time": 1737209900,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115355,
+        "num": 115355,
+        "word": "胡冰卿龅牙图回应真没在乎的人",
+        "onboard_time": 1737201318,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112520,
+        "num": 112520,
+        "word": "胡歌刘诗诗拆解水獭粪便",
+        "onboard_time": 1737209120,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106557,
+        "num": 106557,
+        "word": "恋与深空一周年",
+        "onboard_time": 1737208940,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102094,
+        "num": 102094,
+        "word": "杨博文陈浚铭智恩涵姐姐恋爱吧",
+        "onboard_time": 1737209840,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100227,
+        "num": 100227,
+        "word": "有一种中式审美叫牡丹花开",
+        "onboard_time": 1737189558,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97177,
+        "num": 97177,
+        "word": "赵樱子曝娱乐圈有一对夫妻离婚是真的",
+        "onboard_time": 1737178697,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96714,
+        "num": 96714,
+        "word": "美国网友说对中国的刻板印象被击碎",
+        "onboard_time": 1737183136,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87393,
+        "num": 96593,
+        "word": "明日方舟",
+        "onboard_time": 1737197539,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美两国可以成为伙伴和朋友#"
+    }
+  }
+}

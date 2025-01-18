@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737207311989,
+  "endTime": 1737209956562,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -171,6 +171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 7891142,
+      "num": 7891142,
+      "word": "杨子直播求婚黄圣依",
+      "onboard_time": 1737205280,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 7722142,
       "num": 7722142,
       "word": "赵丽颖压轴",
@@ -217,14 +225,6 @@
       "onboard_time": 1736005415,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 6115854,
-      "num": 6115854,
-      "word": "杨子直播求婚黄圣依",
-      "onboard_time": 1737205280,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 5865317,
