@@ -1,0 +1,410 @@
+{
+  "runTime": 1737217467745,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1011705,
+        "num": 1011705,
+        "word": "大奉打更人第二季",
+        "onboard_time": 1737213020,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 459894,
+        "num": 459894,
+        "word": "上海老人离世430万和1套房无人继承",
+        "onboard_time": 1737191118,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77682,
+        "num": 358848,
+        "word": "16架C919投入春运",
+        "onboard_time": 1737211581,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318087,
+        "num": 318087,
+        "word": "患渐冻症容貌巨变女生已无法说话",
+        "onboard_time": 1737204978,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247768,
+        "num": 247768,
+        "word": "女子假扮机器人回家被村里人介绍对象",
+        "onboard_time": 1737207800,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1780894,
+        "num": 228187,
+        "word": "杨子直播求婚黄圣依",
+        "onboard_time": 1737205280,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 506223,
+        "num": 212325,
+        "word": "赵今麦演出了破天的倒灌感",
+        "onboard_time": 1737214160,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183837,
+        "num": 183837,
+        "word": "美国网友开始卷了",
+        "onboard_time": 1737190998,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 176766,
+        "num": 176766,
+        "word": "深圳海滩出现一片褐色泡泡",
+        "onboard_time": 1737207680,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159724,
+        "num": 159724,
+        "word": "西藏日喀则4.6级地震",
+        "onboard_time": 1737217158,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 615427,
+        "num": 159523,
+        "word": "麦琳杨子留几手3人连麦违规",
+        "onboard_time": 1737211040,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469753,
+        "num": 159019,
+        "word": "陈奕迅在表演时疑似嗑瓜子",
+        "onboard_time": 1737208101,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 385363,
+        "num": 158711,
+        "word": "谁敢相信这是71岁的赵雅芝",
+        "onboard_time": 1737205520,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342526,
+        "num": 158309,
+        "word": "倪萍蔡明蛐蛐刘晓庆",
+        "onboard_time": 1737212420,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303717,
+        "num": 157921,
+        "word": "严浩翔还没吃完就上台了",
+        "onboard_time": 1737212660,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 232827,
+        "num": 157303,
+        "word": "TikTok公司表示白宫无保证平台只能关",
+        "onboard_time": 1737190818,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166322,
+        "num": 156856,
+        "word": "2025春节档电影片长",
+        "onboard_time": 1737212540,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156660,
+        "num": 156660,
+        "word": "解放军南部战区位南海海域联合海空战巡",
+        "onboard_time": 1737214579,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156079,
+        "num": 156079,
+        "word": "广东都快干成厂东了",
+        "onboard_time": 1737189137,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129435,
+        "num": 129435,
+        "word": "狗妈妈叼着冻僵小狗找人求救",
+        "onboard_time": 1737202098,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 502011,
+        "num": 128915,
+        "word": "李小冉气到发抖",
+        "onboard_time": 1737182356,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327826,
+        "num": 128259,
+        "word": "女子出国做断骨增高腿喷脓",
+        "onboard_time": 1737207261,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248763,
+        "num": 128086,
+        "word": "刘宇宁 直播开怼",
+        "onboard_time": 1737213320,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127576,
+        "num": 127576,
+        "word": "恋与深空点亮全球地标",
+        "onboard_time": 1737215959,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 207137,
+        "num": 124676,
+        "word": "国色芳华单集收视创新高",
+        "onboard_time": 1737210261,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193682,
+        "num": 120742,
+        "word": "白烁梵樾圆房",
+        "onboard_time": 1737207381,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168541,
+        "num": 114448,
+        "word": "敖瑞鹏说求天道眷顾梵樾",
+        "onboard_time": 1737216138,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154651,
+        "num": 113076,
+        "word": "封神第二部片长144分钟",
+        "onboard_time": 1737214759,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145172,
+        "num": 105087,
+        "word": "文轩",
+        "onboard_time": 1737208340,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104743,
+        "num": 104743,
+        "word": "小牛掉水沟母牛哀鸣向旁人求助",
+        "onboard_time": 1737210921,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134601,
+        "num": 104311,
+        "word": "大奉打更人结局",
+        "onboard_time": 1737206359,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132659,
+        "num": 101051,
+        "word": "漂白",
+        "onboard_time": 1737190399,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127838,
+        "num": 99548,
+        "word": "大奉打更人创总广告时长第一",
+        "onboard_time": 1737213618,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120268,
+        "num": 96540,
+        "word": "王一博闪闪微光",
+        "onboard_time": 1737216618,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95134,
+        "num": 95134,
+        "word": "微信更新了callkit了",
+        "onboard_time": 1737184517,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 109711,
+        "num": 95067,
+        "word": "国色芳华预告",
+        "onboard_time": 1737205520,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94940,
+        "num": 94940,
+        "word": "俩小孩把寒假作业塞下水道",
+        "onboard_time": 1737205219,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84227,
+        "num": 94903,
+        "word": "都四九天了今年还会冷吗",
+        "onboard_time": 1737205161,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79202,
+        "num": 94794,
+        "word": "九尾开播",
+        "onboard_time": 1737214579,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 77772,
+        "num": 94732,
+        "word": "海边这种爆爆珠不建议rua",
+        "onboard_time": 1737206322,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108525,
+        "num": 94638,
+        "word": "国色芳华",
+        "onboard_time": 1737203418,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76458,
+        "num": 94559,
+        "word": "春节出行选这些航线或能体验到C919",
+        "onboard_time": 1737214459,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107797,
+        "num": 94472,
+        "word": "李现对的终究会走到最后",
+        "onboard_time": 1737211101,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106259,
+        "num": 94390,
+        "word": "赵丽颖杜莎夫人沈璃蜡像亮相",
+        "onboard_time": 1737201679,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94327,
+        "num": 94327,
+        "word": "田曦薇不语只一味的甜",
+        "onboard_time": 1737210380,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92633,
+        "num": 92633,
+        "word": "TF家族人人人人人",
+        "onboard_time": 1737207321,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 61927,
+        "num": 92487,
+        "word": "MiuMiu活动",
+        "onboard_time": 1737204800,
+        "rank": 46,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 59357,
+        "num": 91911,
+        "word": "联合国总部电梯坏了5个月终于修好了",
+        "onboard_time": 1737216977,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 58444,
+        "num": 91357,
+        "word": "蔡磊在2024年鼓励静雯坚持抗冻",
+        "onboard_time": 1737211400,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51351,
+        "num": 90776,
+        "word": "明日方舟",
+        "onboard_time": 1737197539,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全军老同志祝贺新春#"
+    }
+  }
+}
