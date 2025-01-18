@@ -1,6 +1,6 @@
 {
   "startTime": 1737131217967,
-  "endTime": 1737177592975,
+  "endTime": 1737178582069,
   "band_list": [
     {
       "raw_hot": 1509855,
@@ -28,11 +28,19 @@
     },
     {
       "raw_hot": 1148125,
-      "num": 1148125,
+      "num": 1180464,
       "word": "TikTok发声明",
       "onboard_time": 1737171918,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1041011,
+      "num": 1041011,
+      "word": "美网友哽咽哭诉天价学费账单",
+      "onboard_time": 1737175697,
+      "rank": 10,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 889677,
@@ -97,14 +105,6 @@
       "onboard_time": 1737168076,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 680912,
-      "num": 365581,
-      "word": "美网友哽咽哭诉天价学费账单",
-      "onboard_time": 1737175697,
-      "rank": 10,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 658773,
@@ -363,6 +363,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 288522,
+      "num": 288522,
+      "word": "小胖回城特效",
+      "onboard_time": 1737175277,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 284503,
       "num": 284503,
       "word": "漂白第1集杀疯了",
@@ -435,6 +443,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 220047,
+      "num": 220047,
+      "word": "王传君齐溪出演异人之下2",
+      "onboard_time": 1737175938,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218259,
       "num": 218259,
       "word": "檀健次把相柳包成了饺子",
@@ -449,22 +465,6 @@
       "onboard_time": 1737165017,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 213958,
-      "num": 213958,
-      "word": "王传君齐溪出演异人之下2",
-      "onboard_time": 1737175938,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 211628,
-      "num": 211628,
-      "word": "小胖回城特效",
-      "onboard_time": 1737175277,
-      "rank": 26,
-      "category": "电竞"
     },
     {
       "raw_hot": 210874,
@@ -507,6 +507,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 193546,
+      "num": 193546,
+      "word": "好东西",
+      "onboard_time": 1737177318,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 192843,
       "num": 192843,
       "word": "耿爽说今天可以说得更直白一些",
@@ -523,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189692,
+      "num": 366855,
+      "word": "尹锡悦发文报平安",
+      "onboard_time": 1737174318,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 189418,
       "num": 189418,
       "word": "BC创始人展示李昀锐的照片",
@@ -537,6 +553,14 @@
       "onboard_time": 1737170717,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188824,
+      "num": 188824,
+      "word": "杨玉环星之鸣奏新皮肤",
+      "onboard_time": 1737178458,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 188120,
@@ -593,6 +617,14 @@
       "onboard_time": 1737172398,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171739,
+      "num": 171739,
+      "word": "Origin停运",
+      "onboard_time": 1737176538,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 171359,
@@ -659,12 +691,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 161042,
+      "num": 161042,
+      "word": "张雅钦国色芳华人生镜头",
+      "onboard_time": 1737177499,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160950,
       "num": 136821,
       "word": "谷爱凌时隔5年再夺世界杯冠军",
       "onboard_time": 1737129077,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160735,
+      "num": 160735,
+      "word": "异人之下2开播",
+      "onboard_time": 1737177858,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 160549,
@@ -691,22 +739,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 158885,
-      "num": 158885,
-      "word": "Origin停运",
-      "onboard_time": 1737176538,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 154454,
-      "num": 366855,
-      "word": "尹锡悦发文报平安",
-      "onboard_time": 1737174318,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 153903,
       "num": 153903,
       "word": "这么多人偏偏让他站了C位",
@@ -715,12 +747,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 149892,
+      "num": 149892,
+      "word": "山东明确最长18天婚假",
+      "onboard_time": 1737175998,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149408,
       "num": 151952,
       "word": "20天后亚冬会开幕",
       "onboard_time": 1737170358,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148437,
+      "num": 168525,
+      "word": "漂白大厂式管理流程化犯罪",
+      "onboard_time": 1737177738,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 148095,
@@ -745,6 +793,14 @@
       "onboard_time": 1737169818,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145873,
+      "num": 177493,
+      "word": "玉面郎君蒋长扬",
+      "onboard_time": 1737178038,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 145022,
@@ -779,12 +835,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 139615,
-      "num": 139615,
-      "word": "好东西",
-      "onboard_time": 1737177318,
-      "rank": 35,
-      "category": "电影"
+      "raw_hot": 139450,
+      "num": 139450,
+      "word": "任嘉伦佳偶天成杀青应援排面",
+      "onboard_time": 1737177678,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 137554,
@@ -883,14 +939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130215,
-      "num": 130215,
-      "word": "山东明确最长18天婚假",
-      "onboard_time": 1737175998,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129526,
       "num": 129526,
       "word": "陆沉昨日成规",
@@ -939,6 +987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122024,
+      "num": 122024,
+      "word": "俄罗斯伊朗签署全面战略伙伴关系条约",
+      "onboard_time": 1737174860,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 121752,
       "num": 219316,
       "word": "樊振东反手暴力美学",
@@ -963,12 +1019,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 118264,
-      "num": 118264,
-      "word": "俄罗斯伊朗签署全面战略伙伴关系条约",
-      "onboard_time": 1737174860,
-      "rank": 48,
-      "category": "国际时政"
+      "raw_hot": 119992,
+      "num": 119992,
+      "word": "马龙速度有多快",
+      "onboard_time": 1737178458,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 118043,
@@ -1011,14 +1067,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 115876,
-      "num": 115876,
-      "word": "张雅钦国色芳华人生镜头",
-      "onboard_time": 1737177499,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 115631,
       "num": 115631,
       "word": "王一博心跳同频",
@@ -1057,6 +1105,14 @@
       "onboard_time": 1737175035,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106903,
+      "num": 214419,
+      "word": "马龙米兰的闲暇碎片",
+      "onboard_time": 1737177078,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 106069,
@@ -1131,14 +1187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96054,
-      "num": 214419,
-      "word": "马龙米兰的闲暇碎片",
-      "onboard_time": 1737177078,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 95124,
       "num": 95124,
       "word": "人民网评大奉打更人",
@@ -1187,8 +1235,8 @@
       "category": "国际时政,互联网"
     },
     {
-      "raw_hot": 88673,
-      "num": 124265,
+      "raw_hot": 88801,
+      "num": 180047,
       "word": "尹锡悦说在看守所一切安好",
       "onboard_time": 1737177138,
       "rank": 45,
@@ -1244,7 +1292,7 @@
     },
     {
       "raw_hot": 83437,
-      "num": 872906,
+      "num": 1055624,
       "word": "穿越机画面看在建世界第一高桥",
       "onboard_time": 1737172577,
       "rank": 2,
@@ -1489,6 +1537,14 @@
       "onboard_time": 1737116058,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 33836,
+      "num": 175250,
+      "word": "祁煜带来灵感的痛苦与爱",
+      "onboard_time": 1737178518,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 32817,

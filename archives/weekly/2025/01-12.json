@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1737177592975,
+  "endTime": 1737178582069,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -916,7 +916,7 @@
     },
     {
       "raw_hot": 1148125,
-      "num": 1148125,
+      "num": 1180464,
       "word": "TikTok发声明",
       "onboard_time": 1737171918,
       "rank": 10,
@@ -1137,6 +1137,14 @@
       "onboard_time": 1736694320,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1041011,
+      "num": 1041011,
+      "word": "美网友哽咽哭诉天价学费账单",
+      "onboard_time": 1737175697,
+      "rank": 10,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1034832,
@@ -2297,14 +2305,6 @@
       "onboard_time": 1736655199,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 680912,
-      "num": 365581,
-      "word": "美网友哽咽哭诉天价学费账单",
-      "onboard_time": 1737175697,
-      "rank": 10,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 680006,
@@ -6067,6 +6067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 288522,
+      "num": 288522,
+      "word": "小胖回城特效",
+      "onboard_time": 1737175277,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 288493,
       "num": 288493,
       "word": "白月梵星婆媳大战",
@@ -7699,6 +7707,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 220047,
+      "num": 220047,
+      "word": "王传君齐溪出演异人之下2",
+      "onboard_time": 1737175938,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219552,
       "num": 315306,
       "word": "魏哲鸣 酒蒙子的理想抱负是成为Daddy",
@@ -7891,14 +7907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 213958,
-      "num": 213958,
-      "word": "王传君齐溪出演异人之下2",
-      "onboard_time": 1737175938,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 213949,
       "num": 213949,
       "word": "金晨ELLE首封",
@@ -8001,14 +8009,6 @@
       "onboard_time": 1736802491,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 211628,
-      "num": 211628,
-      "word": "小胖回城特效",
-      "onboard_time": 1737175277,
-      "rank": 26,
-      "category": "电竞"
     },
     {
       "raw_hot": 211467,
@@ -9083,6 +9083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 193546,
+      "num": 193546,
+      "word": "好东西",
+      "onboard_time": 1737177318,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 193093,
       "num": 254821,
       "word": "九尾梅花刺绣造型",
@@ -9339,6 +9347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 189692,
+      "num": 366855,
+      "word": "尹锡悦发文报平安",
+      "onboard_time": 1737174318,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 189518,
       "num": 189518,
       "word": "英伟达员工称一周工作7天加班至凌晨",
@@ -9401,6 +9417,14 @@
       "onboard_time": 1736740639,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188824,
+      "num": 188824,
+      "word": "杨玉环星之鸣奏新皮肤",
+      "onboard_time": 1737178458,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 188743,
@@ -10675,6 +10699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171739,
+      "num": 171739,
+      "word": "Origin停运",
+      "onboard_time": 1737176538,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 171594,
       "num": 171594,
       "word": "白起新皮肤苍鳞隐世",
@@ -11323,6 +11355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161042,
+      "num": 161042,
+      "word": "张雅钦国色芳华人生镜头",
+      "onboard_time": 1737177499,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161020,
       "num": 161020,
       "word": "Switch老玩家有福了",
@@ -11400,6 +11440,14 @@
       "word": "漂白好看",
       "onboard_time": 1737117738,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 160735,
+      "num": 160735,
+      "word": "异人之下2开播",
+      "onboard_time": 1737177858,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -11545,14 +11593,6 @@
       "onboard_time": 1736834838,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158885,
-      "num": 158885,
-      "word": "Origin停运",
-      "onboard_time": 1737176538,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 158880,
@@ -11907,14 +11947,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 154454,
-      "num": 366855,
-      "word": "尹锡悦发文报平安",
-      "onboard_time": 1737174318,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 154401,
       "num": 301430,
       "word": "陈丽君的宝玉妆造自带英气",
@@ -12251,6 +12283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 149892,
+      "num": 149892,
+      "word": "山东明确最长18天婚假",
+      "onboard_time": 1737175998,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149800,
       "num": 149800,
       "word": "奚梦瑶用无人机给何猷君庆生",
@@ -12345,6 +12385,14 @@
       "onboard_time": 1736666539,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 148437,
+      "num": 168525,
+      "word": "漂白大厂式管理流程化犯罪",
+      "onboard_time": 1737177738,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 148365,
@@ -12576,6 +12624,14 @@
       "word": "杨千幻 一声待爆一生待爆",
       "onboard_time": 1736781441,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 145873,
+      "num": 177493,
+      "word": "玉面郎君蒋长扬",
+      "onboard_time": 1737178038,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -13091,20 +13147,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 139615,
-      "num": 139615,
-      "word": "好东西",
-      "onboard_time": 1737177318,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 139517,
       "num": 139517,
       "word": "哪吒敖丙白敬亭合照",
       "onboard_time": 1736684660,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 139450,
+      "num": 139450,
+      "word": "任嘉伦佳偶天成杀青应援排面",
+      "onboard_time": 1737177678,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 139446,
@@ -13971,14 +14027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130215,
-      "num": 130215,
-      "word": "山东明确最长18天婚假",
-      "onboard_time": 1737175998,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 130173,
       "num": 130173,
       "word": "妲己娜然戴上省级非遗南京绒花",
@@ -14787,6 +14835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122024,
+      "num": 122024,
+      "word": "俄罗斯伊朗签署全面战略伙伴关系条约",
+      "onboard_time": 1737174860,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 121993,
       "num": 121993,
       "word": "愿同美新政府加强对话沟通",
@@ -15099,6 +15155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119992,
+      "num": 119992,
+      "word": "马龙速度有多快",
+      "onboard_time": 1737178458,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119911,
       "num": 303384,
       "word": "王雅繁2比1邦达尔",
@@ -15249,14 +15313,6 @@
       "onboard_time": 1737018199,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118264,
-      "num": 118264,
-      "word": "俄罗斯伊朗签署全面战略伙伴关系条约",
-      "onboard_time": 1737174860,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 118242,
@@ -15553,14 +15609,6 @@
       "onboard_time": 1737163637,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 115876,
-      "num": 115876,
-      "word": "张雅钦国色芳华人生镜头",
-      "onboard_time": 1737177499,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 115658,
@@ -16467,6 +16515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106903,
+      "num": 214419,
+      "word": "马龙米兰的闲暇碎片",
+      "onboard_time": 1737177078,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106880,
       "num": 106880,
       "word": "闵塔鲨晒赵丽颖微博之夜造型",
@@ -17267,14 +17323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96054,
-      "num": 214419,
-      "word": "马龙米兰的闲暇碎片",
-      "onboard_time": 1737177078,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 96043,
       "num": 104818,
       "word": "谁懂马龙樊振东王楚钦同框的含金量",
@@ -17627,20 +17675,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88801,
+      "num": 180047,
+      "word": "尹锡悦说在看守所一切安好",
+      "onboard_time": 1737177138,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 88756,
       "num": 88756,
       "word": "刘昊然观战郑钦文比赛",
       "onboard_time": 1736911399,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88673,
-      "num": 124265,
-      "word": "尹锡悦说在看守所一切安好",
-      "onboard_time": 1737177138,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 88513,
@@ -17860,7 +17908,7 @@
     },
     {
       "raw_hot": 83437,
-      "num": 872906,
+      "num": 1055624,
       "word": "穿越机画面看在建世界第一高桥",
       "onboard_time": 1737172577,
       "rank": 2,
@@ -19713,6 +19761,14 @@
       "onboard_time": 1736760620,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 33836,
+      "num": 175250,
+      "word": "祁煜带来灵感的痛苦与爱",
+      "onboard_time": 1737178518,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 33786,

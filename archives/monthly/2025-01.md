@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/18 13:19:52
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/18 13:36:22
 </p>
 </blockquote>
 <p>
@@ -2973,6 +2973,12 @@ TikTok发声明（热度：1148125）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%BD%91%E5%8F%8B%E5%93%BD%E5%92%BD%E5%93%AD%E8%AF%89%E5%A4%A9%E4%BB%B7%E5%AD%A6%E8%B4%B9%E8%B4%A6%E5%8D%95%23" target="weibo">
+美网友哽咽哭诉天价学费账单（热度：1041011）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232025%E5%B9%B4%E4%B8%8D%E6%84%A7%E6%98%AF%E8%9B%87%E5%B9%B4%E5%A4%AA%E5%86%B7%E8%A1%80%E4%BA%86%23" target="weibo">
 2025年不愧是蛇年太冷血了（热度：1040720）
 </a>
@@ -5375,12 +5381,6 @@ SM新女团 SMTOWN压轴（热度：743773）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%85%81%E8%80%B3%E7%8E%AF%E6%8E%89%E4%BA%86%23" target="weibo">
 林允耳环掉了（热度：681012）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%BD%91%E5%8F%8B%E5%93%BD%E5%92%BD%E5%93%AD%E8%AF%89%E5%A4%A9%E4%BB%B7%E5%AD%A6%E8%B4%B9%E8%B4%A6%E5%8D%95%23" target="weibo">
-美网友哽咽哭诉天价学费账单（热度：680912）
 </a>
 </li>
 
