@@ -1,0 +1,410 @@
+{
+  "runTime": 1737170566152,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1233364,
+        "num": 1233364,
+        "word": "韩网红扮外国人在机场打车被宰",
+        "onboard_time": 1737168016,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 742379,
+        "num": 742379,
+        "word": "田曦薇被王鹤棣的手吓到",
+        "onboard_time": 1737168076,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56333,
+        "num": 629761,
+        "word": "我国找矿又有重大突破",
+        "onboard_time": 1737122298,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 550374,
+        "num": 550374,
+        "word": "宋祖儿方称寻人男子是寄宿家庭弟弟",
+        "onboard_time": 1737156074,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489181,
+        "num": 489181,
+        "word": "管晨辰因伤口钢板断掉再次手术",
+        "onboard_time": 1737163817,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 367756,
+        "num": 367756,
+        "word": "中美网友对账后有些人天塌了",
+        "onboard_time": 1737136994,
+        "rank": 5,
+        "category": "民生新闻,国际时政"
+      },
+      {
+        "raw_hot": 520414,
+        "num": 366430,
+        "word": "五福临门官宣定档",
+        "onboard_time": 1737167718,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386652,
+        "num": 349287,
+        "word": "2025春晚4个分会场首次合排",
+        "onboard_time": 1737158775,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330153,
+        "num": 330153,
+        "word": "多个手机厂商紧急备货超千万台",
+        "onboard_time": 1737168798,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 309477,
+        "num": 309477,
+        "word": "泰总理称中国游客有危险系谣言",
+        "onboard_time": 1737166218,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 480766,
+        "num": 305898,
+        "word": "对金银细软有了更深刻的理解",
+        "onboard_time": 1737169338,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 400291,
+        "num": 304200,
+        "word": "李维刚承认带货原切牛肉卷为合成肉",
+        "onboard_time": 1737163758,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 301650,
+        "num": 301650,
+        "word": "周受资称特朗普致力于与其公司合作",
+        "onboard_time": 1737161176,
+        "rank": 12,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 268147,
+        "num": 268147,
+        "word": "王一博亚冬会开幕式主题歌推广曲MV",
+        "onboard_time": 1737162618,
+        "rank": 13,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 290806,
+        "num": 265282,
+        "word": "李昀锐修勾撒娇",
+        "onboard_time": 1737166696,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 216035,
+        "num": 216035,
+        "word": "12306可快速办理临时身份证",
+        "onboard_time": 1737165017,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185216,
+        "num": 185216,
+        "word": "洪尚秀妻子回应金敏喜怀孕",
+        "onboard_time": 1737156074,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177400,
+        "num": 177400,
+        "word": "中美网友在小红书上热聊",
+        "onboard_time": 1737160097,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164299,
+        "num": 164299,
+        "word": "本科毕业入伍不到1年立一等功",
+        "onboard_time": 1737105860,
+        "rank": 18,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 153644,
+        "num": 153644,
+        "word": "10岁男孩被批评报警举报父亲藏罂粟壳",
+        "onboard_time": 1737129798,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329836,
+        "num": 153346,
+        "word": "在上海花2000买一个黑天鹅生日蛋糕",
+        "onboard_time": 1737163457,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 329722,
+        "num": 153044,
+        "word": "终于知道美妆蛋退出潮流的原因了",
+        "onboard_time": 1737164537,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215479,
+        "num": 152794,
+        "word": "男子划开冰面救了条20斤大鱼说很香",
+        "onboard_time": 1737166936,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160549,
+        "num": 152157,
+        "word": "日媒报道张本智和丢冠",
+        "onboard_time": 1737164956,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149408,
+        "num": 151952,
+        "word": "20天后亚冬会开幕",
+        "onboard_time": 1737170358,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157604,
+        "num": 151503,
+        "word": "文俊辉说打打打的日子结束了",
+        "onboard_time": 1737170059,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151134,
+        "num": 151134,
+        "word": "狗妈妈凌晨守在摊前作揖乞食",
+        "onboard_time": 1737158116,
+        "rank": 26,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 150782,
+        "num": 150782,
+        "word": "刘谦抗癌康复后将登春晚",
+        "onboard_time": 1737159077,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145561,
+        "num": 145561,
+        "word": "李现回复湖南卫视",
+        "onboard_time": 1737160457,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140743,
+        "num": 140743,
+        "word": "女子去世叔舅姑姨争数百万遗产",
+        "onboard_time": 1737169818,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140496,
+        "num": 140496,
+        "word": "网传杨紫青簪行空降",
+        "onboard_time": 1737170118,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139224,
+        "num": 139224,
+        "word": "布林肯记者会上记者被抬走",
+        "onboard_time": 1737162797,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133777,
+        "num": 133777,
+        "word": "一觉醒来以为爸爸变成了兔子",
+        "onboard_time": 1737169818,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131202,
+        "num": 131202,
+        "word": "李荣浩向歌迷道歉",
+        "onboard_time": 1737168918,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129526,
+        "num": 129526,
+        "word": "陆沉昨日成规",
+        "onboard_time": 1737169937,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119711,
+        "num": 119711,
+        "word": "强闪光灯下的李昀锐",
+        "onboard_time": 1737158775,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 114185,
+        "num": 114185,
+        "word": "小小的我票房破7亿",
+        "onboard_time": 1737168737,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113907,
+        "num": 113907,
+        "word": "90后一家三口一年消费20万",
+        "onboard_time": 1737156014,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113035,
+        "num": 113035,
+        "word": "看似养胃实则伤胃的4个习惯",
+        "onboard_time": 1737156014,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 112278,
+        "num": 112278,
+        "word": "何惟芳被贬为官奴",
+        "onboard_time": 1737125719,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107761,
+        "num": 107761,
+        "word": "齐司礼新卡",
+        "onboard_time": 1737164297,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105357,
+        "num": 105357,
+        "word": "特朗普就职典礼将改为室内举行",
+        "onboard_time": 1737169578,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105272,
+        "num": 105272,
+        "word": "光与夜之恋",
+        "onboard_time": 1737108680,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 101148,
+        "num": 101148,
+        "word": "白鹿晒白烁好多小挂坠",
+        "onboard_time": 1737162677,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100524,
+        "num": 100524,
+        "word": "妈这就是你儿子搞的世界级大工程",
+        "onboard_time": 1737131176,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38139,
+        "num": 99311,
+        "word": "巴特勒复出",
+        "onboard_time": 1737163937,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98900,
+        "num": 98900,
+        "word": "龚俊肿出氛围感",
+        "onboard_time": 1737170538,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96471,
+        "num": 96471,
+        "word": "张帅晋级澳网女双16强",
+        "onboard_time": 1737169278,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96077,
+        "num": 96077,
+        "word": "赶火车忘带身份证咋办",
+        "onboard_time": 1737166458,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95416,
+        "num": 95416,
+        "word": "91岁崔道植宣布警号022272重启",
+        "onboard_time": 1737164178,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}

@@ -1,7 +1,15 @@
 {
   "startTime": 1737131217967,
-  "endTime": 1737168816278,
+  "endTime": 1737170566152,
   "band_list": [
+    {
+      "raw_hot": 1233364,
+      "num": 1233364,
+      "word": "韩网红扮外国人在机场打车被宰",
+      "onboard_time": 1737168016,
+      "rank": 13,
+      "category": "海外新闻"
+    },
     {
       "raw_hot": 1204969,
       "num": 298314,
@@ -51,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 742379,
+      "num": 742379,
+      "word": "田曦薇被王鹤棣的手吓到",
+      "onboard_time": 1737168076,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 628132,
       "num": 628132,
       "word": "李维刚承认带货原切牛肉卷为合成肉",
@@ -75,12 +91,12 @@
       "category": "民生新闻,国际时政"
     },
     {
-      "raw_hot": 533487,
-      "num": 533487,
-      "word": "韩网红扮外国人在机场打车被宰",
-      "onboard_time": 1737168016,
-      "rank": 13,
-      "category": "海外新闻"
+      "raw_hot": 520414,
+      "num": 366430,
+      "word": "五福临门官宣定档",
+      "onboard_time": 1737167718,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 514856,
@@ -105,6 +121,14 @@
       "onboard_time": 1737131176,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 480766,
+      "num": 305898,
+      "word": "对金银细软有了更深刻的理解",
+      "onboard_time": 1737169338,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 444770,
@@ -195,14 +219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 346176,
-      "num": 220795,
-      "word": "田曦薇被王鹤棣的手吓到",
-      "onboard_time": 1737168076,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 339212,
       "num": 339212,
       "word": "本科毕业入伍不到1年立一等功",
@@ -211,12 +227,20 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 336203,
-      "num": 220083,
-      "word": "五福临门官宣定档",
-      "onboard_time": 1737167718,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 330153,
+      "num": 330153,
+      "word": "多个手机厂商紧急备货超千万台",
+      "onboard_time": 1737168798,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 329722,
+      "num": 153048,
+      "word": "终于知道美妆蛋退出潮流的原因了",
+      "onboard_time": 1737164537,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 311813,
@@ -227,12 +251,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 289126,
-      "num": 153048,
-      "word": "终于知道美妆蛋退出潮流的原因了",
-      "onboard_time": 1737164537,
-      "rank": 36,
-      "category": "情感"
+      "raw_hot": 309477,
+      "num": 309477,
+      "word": "泰总理称中国游客有危险系谣言",
+      "onboard_time": 1737166218,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 290806,
+      "num": 265282,
+      "word": "李昀锐修勾撒娇",
+      "onboard_time": 1737166696,
+      "rank": 10,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 284503,
@@ -249,14 +281,6 @@
       "onboard_time": 1737141072,
       "rank": 9,
       "category": "网红"
-    },
-    {
-      "raw_hot": 276260,
-      "num": 255011,
-      "word": "李昀锐修勾撒娇",
-      "onboard_time": 1737166696,
-      "rank": 10,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 256591,
@@ -284,14 +308,14 @@
     },
     {
       "raw_hot": 229286,
-      "num": 147898,
+      "num": 152794,
       "word": "男子划开冰面救了条20斤大鱼说很香",
       "onboard_time": 1737166936,
       "rank": 25,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 211830,
+      "raw_hot": 216035,
       "num": 255159,
       "word": "12306可快速办理临时身份证",
       "onboard_time": 1737165017,
@@ -419,12 +443,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 155159,
-      "num": 148903,
+      "raw_hot": 160549,
+      "num": 152157,
       "word": "日媒报道张本智和丢冠",
       "onboard_time": 1737164956,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157604,
+      "num": 151503,
+      "word": "文俊辉说打打打的日子结束了",
+      "onboard_time": 1737170059,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 153903,
@@ -433,6 +465,14 @@
       "onboard_time": 1737160397,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 149408,
+      "num": 151952,
+      "word": "20天后亚冬会开幕",
+      "onboard_time": 1737170358,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 148095,
@@ -467,12 +507,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141135,
-      "num": 141135,
-      "word": "泰总理称中国游客有危险系谣言",
-      "onboard_time": 1737166218,
-      "rank": 40,
-      "category": "国际时政"
+      "raw_hot": 140743,
+      "num": 140743,
+      "word": "女子去世叔舅姑姨争数百万遗产",
+      "onboard_time": 1737169818,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140496,
+      "num": 140496,
+      "word": "网传杨紫青簪行空降",
+      "onboard_time": 1737170118,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 137554,
@@ -531,12 +579,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 133777,
+      "num": 133777,
+      "word": "一觉醒来以为爸爸变成了兔子",
+      "onboard_time": 1737169818,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131446,
       "num": 131446,
       "word": "王鹤棣这个镜头一眼万年",
       "onboard_time": 1737159975,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131202,
+      "num": 131202,
+      "word": "李荣浩向歌迷道歉",
+      "onboard_time": 1737168918,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 129526,
+      "num": 129526,
+      "word": "陆沉昨日成规",
+      "onboard_time": 1737169937,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 126990,
@@ -651,6 +723,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 105357,
+      "num": 105357,
+      "word": "特朗普就职典礼将改为室内举行",
+      "onboard_time": 1737169578,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 101416,
       "num": 101416,
       "word": "李昀锐累都写在眼睛上了",
@@ -667,6 +747,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 98900,
+      "num": 98900,
+      "word": "龚俊肿出氛围感",
+      "onboard_time": 1737170538,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98050,
       "num": 98050,
       "word": "庞博新综艺被气到背对镜头",
@@ -681,6 +769,14 @@
       "onboard_time": 1737118819,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 96471,
+      "num": 96471,
+      "word": "张帅晋级澳网女双16强",
+      "onboard_time": 1737169278,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 96128,
@@ -731,14 +827,6 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 91239,
-      "num": 91239,
-      "word": "多个手机厂商紧急备货超千万台",
-      "onboard_time": 1737168798,
-      "rank": 47,
-      "category": "数码"
-    },
-    {
       "raw_hot": 89197,
       "num": 89197,
       "word": "特朗普多次公开支持TikTok",
@@ -780,7 +868,7 @@
     },
     {
       "raw_hot": 85352,
-      "num": 85352,
+      "num": 99311,
       "word": "巴特勒复出",
       "onboard_time": 1737163937,
       "rank": 42,
