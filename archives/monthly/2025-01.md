@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/18 14:40:53
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/18 15:19:07
 </p>
 </blockquote>
 <p>
@@ -413,6 +413,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E5%BE%AE%E5%8D%9AKing%23" target="weibo">
 沈腾微博King（热度：2922751）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E5%86%89%E6%B0%94%E5%88%B0%E5%8F%91%E6%8A%96%23" target="weibo">
+李小冉气到发抖（热度：2903966）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ SM新男团（热度：642706）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E4%B8%8D%E5%86%8D%E5%B8%8C%E6%9C%9B%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E8%BF%AA%E5%A3%AB%E5%B0%BC%23" target="weibo">
 泡泡玛特不再希望成为中国迪士尼（热度：628560）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BB%B4%E5%88%9A%E6%89%BF%E8%AE%A4%E5%B8%A6%E8%B4%A7%E5%8E%9F%E5%88%87%E7%89%9B%E8%82%89%E5%8D%B7%E4%B8%BA%E5%90%88%E6%88%90%E8%82%89%23" target="weibo">
-李维刚承认带货原切牛肉卷为合成肉（热度：628132）
 </a>
 </li>
 

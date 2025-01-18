@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1737182453103,
+  "endTime": 1737184747024,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -81,6 +81,14 @@
       "onboard_time": 1736845997,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2903966,
+      "num": 2903966,
+      "word": "李小冉气到发抖",
+      "onboard_time": 1737182356,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 2901212,
@@ -3955,6 +3963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 442953,
+      "num": 442953,
+      "word": "美国网友说对中国的刻板印象被击碎",
+      "onboard_time": 1737183136,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 442392,
       "num": 470425,
       "word": "国色芳华被侵权人讲述始末",
@@ -4105,6 +4121,14 @@
       "onboard_time": 1736931619,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 429364,
+      "num": 391270,
+      "word": "杨紫谈接下国色芳华的原因",
+      "onboard_time": 1737179238,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 428190,
@@ -4512,14 +4536,6 @@
       "word": "敖瑞鹏 我以前是学美术的",
       "onboard_time": 1736767820,
       "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 391270,
-      "num": 391270,
-      "word": "杨紫谈接下国色芳华的原因",
-      "onboard_time": 1737179238,
-      "rank": 8,
       "category": "剧集"
     },
     {
@@ -5171,6 +5187,22 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 342549,
+      "num": 177394,
+      "word": "微信更新了callkit了",
+      "onboard_time": 1737184517,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 341592,
+      "num": 249385,
+      "word": "东方茯苓和小兰花",
+      "onboard_time": 1737182897,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 340667,
       "num": 340667,
       "word": "虞书欣又当站姐了",
@@ -5473,6 +5505,14 @@
       "onboard_time": 1737112340,
       "rank": 34,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 321307,
+      "num": 281641,
+      "word": "李昀锐说自己28了不是宝宝了",
+      "onboard_time": 1737180438,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 320801,
@@ -5796,7 +5836,7 @@
     },
     {
       "raw_hot": 307979,
-      "num": 163939,
+      "num": 177955,
       "word": "戴眼镜化妆丑的女生有福了",
       "onboard_time": 1737180557,
       "rank": 30,
@@ -6267,14 +6307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 281641,
-      "num": 281641,
-      "word": "李昀锐说自己28了不是宝宝了",
-      "onboard_time": 1737180438,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 280672,
       "num": 280672,
       "word": "王者荣耀",
@@ -6385,6 +6417,14 @@
       "onboard_time": 1736828779,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 274957,
+      "num": 274957,
+      "word": "中美网友互发家人照片",
+      "onboard_time": 1737179538,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 274713,
@@ -6923,14 +6963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 252858,
-      "num": 252858,
-      "word": "李小冉气到发抖",
-      "onboard_time": 1737182356,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 252711,
       "num": 240586,
       "word": "马龙不语只是一味地帅",
@@ -7041,6 +7073,14 @@
       "onboard_time": 1737021858,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248099,
+      "num": 248099,
+      "word": "贺峻霖想消失的心达到顶峰",
+      "onboard_time": 1737183077,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 247464,
@@ -7497,6 +7537,14 @@
       "onboard_time": 1736897475,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 228702,
+      "num": 178123,
+      "word": "贺峻霖内疚蒙被哭了",
+      "onboard_time": 1737183798,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 228409,
@@ -9427,14 +9475,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 189741,
-      "num": 263099,
-      "word": "中美网友互发家人照片",
-      "onboard_time": 1737179538,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 189692,
       "num": 366855,
       "word": "尹锡悦发文报平安",
@@ -9761,6 +9801,14 @@
       "onboard_time": 1736804891,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185628,
+      "num": 185628,
+      "word": "猫耳终于等到你",
+      "onboard_time": 1737184517,
+      "rank": 17,
+      "category": "动漫"
     },
     {
       "raw_hot": 185609,
@@ -10315,6 +10363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 178145,
+      "num": 252377,
+      "word": "美国网友大赞中国人民太热情友好了",
+      "onboard_time": 1737179837,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178087,
       "num": 257553,
       "word": "被重庆碰杯火锅局震憾住了",
@@ -10361,6 +10417,14 @@
       "onboard_time": 1737017779,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177073,
+      "num": 177073,
+      "word": "异人2年底裁员专往大动脉上裁",
+      "onboard_time": 1737183436,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 177042,
@@ -10473,6 +10537,14 @@
       "onboard_time": 1736835799,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175721,
+      "num": 175721,
+      "word": "孙珍妮妲己幼年体",
+      "onboard_time": 1737184517,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 175641,
@@ -11425,6 +11497,14 @@
       "onboard_time": 1737182060,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161660,
+      "num": 177837,
+      "word": "董明珠被停职审查系谣言",
+      "onboard_time": 1737183918,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161482,
@@ -14867,6 +14947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123226,
+      "num": 123226,
+      "word": "女子爆改喂鸡装置一次性喂50只流浪猫",
+      "onboard_time": 1737182658,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123154,
       "num": 123154,
       "word": "赶火车忘带身份证咋办",
@@ -15140,7 +15228,7 @@
     },
     {
       "raw_hot": 121132,
-      "num": 121132,
+      "num": 177452,
       "word": "里夫斯38分",
       "onboard_time": 1737180917,
       "rank": 47,
@@ -15233,6 +15321,14 @@
       "onboard_time": 1737180619,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120300,
+      "num": 120300,
+      "word": "毛不易不语只是一味地发年后安排",
+      "onboard_time": 1737182176,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 120291,
@@ -15393,6 +15489,14 @@
       "onboard_time": 1737005540,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119205,
+      "num": 159270,
+      "word": "2025春运",
+      "onboard_time": 1737184218,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119062,
@@ -17395,6 +17499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97658,
+      "num": 97658,
+      "word": "李子柒邀你同看2025中国网络视听盛典",
+      "onboard_time": 1737184578,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97624,
       "num": 235716,
       "word": "道崽 可惜",
@@ -17419,20 +17531,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 96997,
-      "num": 252377,
-      "word": "美国网友大赞中国人民太热情友好了",
-      "onboard_time": 1737179837,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96894,
       "num": 96894,
       "word": "留几手问黄圣依卡拿到没",
       "onboard_time": 1737034880,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96876,
+      "num": 96876,
+      "word": "哪首歌是你的团圆主打歌",
+      "onboard_time": 1737183677,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 96686,
@@ -17761,6 +17873,14 @@
       "onboard_time": 1737096678,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90969,
+      "num": 90969,
+      "word": "Hero久竞落户南通海门",
+      "onboard_time": 1737184517,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 90713,
@@ -19257,6 +19377,14 @@
       "onboard_time": 1736756479,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52829,
+      "num": 470351,
+      "word": "过年食谱被安排得明明白白",
+      "onboard_time": 1737172277,
+      "rank": 2,
+      "category": "美食"
     },
     {
       "raw_hot": 52686,

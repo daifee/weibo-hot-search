@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737182453103,
+  "endTime": 1737184747024,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -537,6 +537,14 @@
       "onboard_time": 1736606010,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2903966,
+      "num": 2903966,
+      "word": "李小冉气到发抖",
+      "onboard_time": 1737182356,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 2901212,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736841318,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1431979,
-      "num": 860590,
-      "word": "鱿鱼游戏吴京",
-      "onboard_time": 1735890917,
-      "rank": 3,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [

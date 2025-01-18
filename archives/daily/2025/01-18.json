@@ -1,7 +1,15 @@
 {
   "startTime": 1737131217967,
-  "endTime": 1737182453103,
+  "endTime": 1737184747024,
   "band_list": [
+    {
+      "raw_hot": 2903966,
+      "num": 2903966,
+      "word": "李小冉气到发抖",
+      "onboard_time": 1737182356,
+      "rank": 13,
+      "category": "综艺"
+    },
     {
       "raw_hot": 1980550,
       "num": 1980550,
@@ -227,12 +235,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 442953,
+      "num": 442953,
+      "word": "美国网友说对中国的刻板印象被击碎",
+      "onboard_time": 1737183136,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 439642,
       "num": 439642,
       "word": "强闪光灯下的李昀锐",
       "onboard_time": 1737158775,
       "rank": 4,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 429364,
+      "num": 391270,
+      "word": "杨紫谈接下国色芳华的原因",
+      "onboard_time": 1737179238,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 428190,
@@ -280,14 +304,6 @@
       "word": "李现回复湖南卫视",
       "onboard_time": 1737160457,
       "rank": 6,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 391270,
-      "num": 391270,
-      "word": "杨紫谈接下国色芳华的原因",
-      "onboard_time": 1737179238,
-      "rank": 8,
       "category": "剧集"
     },
     {
@@ -355,6 +371,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 342549,
+      "num": 177394,
+      "word": "微信更新了callkit了",
+      "onboard_time": 1737184517,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 341592,
+      "num": 249385,
+      "word": "东方茯苓和小兰花",
+      "onboard_time": 1737182897,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 339212,
       "num": 339212,
       "word": "本科毕业入伍不到1年立一等功",
@@ -387,6 +419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 321307,
+      "num": 281641,
+      "word": "李昀锐说自己28了不是宝宝了",
+      "onboard_time": 1737180438,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 311813,
       "num": 311813,
       "word": "洪尚秀妻子回应金敏喜怀孕",
@@ -396,7 +436,7 @@
     },
     {
       "raw_hot": 307979,
-      "num": 163939,
+      "num": 177955,
       "word": "戴眼镜化妆丑的女生有福了",
       "onboard_time": 1737180557,
       "rank": 30,
@@ -427,12 +467,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 281641,
-      "num": 281641,
-      "word": "李昀锐说自己28了不是宝宝了",
-      "onboard_time": 1737180438,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 274957,
+      "num": 274957,
+      "word": "中美网友互发家人照片",
+      "onboard_time": 1737179538,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 268285,
@@ -475,11 +515,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 252858,
-      "num": 252858,
-      "word": "李小冉气到发抖",
-      "onboard_time": 1737182356,
-      "rank": 13,
+      "raw_hot": 248099,
+      "num": 248099,
+      "word": "贺峻霖想消失的心达到顶峰",
+      "onboard_time": 1737183077,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -505,6 +545,14 @@
       "onboard_time": 1737166936,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 228702,
+      "num": 178123,
+      "word": "贺峻霖内疚蒙被哭了",
+      "onboard_time": 1737183798,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 228390,
@@ -603,14 +651,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 189741,
-      "num": 263099,
-      "word": "中美网友互发家人照片",
-      "onboard_time": 1737179538,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 189692,
       "num": 189692,
       "word": "辽宁朝阳一女神形象花灯引争议",
@@ -659,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185628,
+      "num": 185628,
+      "word": "猫耳终于等到你",
+      "onboard_time": 1737184517,
+      "rank": 17,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 182765,
       "num": 182765,
       "word": "王影璐被冯宝宝腌入味了",
@@ -683,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178145,
+      "num": 252377,
+      "word": "美国网友大赞中国人民太热情友好了",
+      "onboard_time": 1737179837,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177927,
       "num": 177927,
       "word": "俄大使馆回应假冒俄罗斯商品事件",
@@ -691,12 +747,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177073,
+      "num": 177073,
+      "word": "异人2年底裁员专往大动脉上裁",
+      "onboard_time": 1737183436,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175950,
       "num": 175950,
       "word": "谁家杂志一口气拍了四大高原",
       "onboard_time": 1737182060,
       "rank": 24,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 175721,
+      "num": 175721,
+      "word": "孙珍妮妲己幼年体",
+      "onboard_time": 1737184517,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 174125,
@@ -801,6 +873,14 @@
       "onboard_time": 1737182060,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161660,
+      "num": 177837,
+      "word": "董明珠被停职审查系谣言",
+      "onboard_time": 1737183918,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161042,
@@ -1107,6 +1187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123226,
+      "num": 123226,
+      "word": "女子爆改喂鸡装置一次性喂50只流浪猫",
+      "onboard_time": 1737182658,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123154,
       "num": 123154,
       "word": "赶火车忘带身份证咋办",
@@ -1132,7 +1220,7 @@
     },
     {
       "raw_hot": 121132,
-      "num": 121132,
+      "num": 177452,
       "word": "里夫斯38分",
       "onboard_time": 1737180917,
       "rank": 47,
@@ -1155,12 +1243,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120300,
+      "num": 120300,
+      "word": "毛不易不语只是一味地发年后安排",
+      "onboard_time": 1737182176,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 120060,
       "num": 179077,
       "word": "裴擒虎祥瑞亨通新皮肤",
       "onboard_time": 1737174198,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 119205,
+      "num": 159270,
+      "word": "2025春运",
+      "onboard_time": 1737184218,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118043,
@@ -1331,12 +1435,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 96997,
-      "num": 252377,
-      "word": "美国网友大赞中国人民太热情友好了",
-      "onboard_time": 1737179837,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 97658,
+      "num": 97658,
+      "word": "李子柒邀你同看2025中国网络视听盛典",
+      "onboard_time": 1737184578,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 96876,
+      "num": 96876,
+      "word": "哪首歌是你的团圆主打歌",
+      "onboard_time": 1737183677,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 96825,
@@ -1401,6 +1513,14 @@
       "onboard_time": 1737165917,
       "rank": 45,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 90969,
+      "num": 90969,
+      "word": "Hero久竞落户南通海门",
+      "onboard_time": 1737184517,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 89197,
@@ -1665,6 +1785,14 @@
       "onboard_time": 1737155714,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 52829,
+      "num": 470351,
+      "word": "过年食谱被安排得明明白白",
+      "onboard_time": 1737172277,
+      "rank": 2,
+      "category": "美食"
     },
     {
       "raw_hot": 48504,
