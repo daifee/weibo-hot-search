@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737221718034,
+  "endTime": 1737224831797,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -48843,6 +48843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 84103,
+      "num": 84103,
+      "word": "为吸引韩国游客上海火锅店店员学会APT了",
+      "onboard_time": 1737221893,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84065,
       "num": 315193,
       "word": "大学生入招聘陷阱上4天班欠5万4",
@@ -52203,6 +52211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54154,
+      "num": 81865,
+      "word": "全国出生人口7年来首次回升",
+      "onboard_time": 1737222853,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54117,
       "num": 129540,
       "word": "杭州年味",
@@ -53779,6 +53795,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 42369,
+      "num": 42369,
+      "word": "王鹤棣直播",
+      "onboard_time": 1737222673,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 42314,
       "num": 251112,
       "word": "加拿大准备从美购买更多商品",
@@ -54763,12 +54787,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35028,
+      "num": 35028,
+      "word": "苏新皓和粉丝隔空握手",
+      "onboard_time": 1737223514,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 34957,
       "num": 235436,
       "word": "感冒要不要吃消炎药",
       "onboard_time": 1736305701,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 34930,
+      "num": 33096,
+      "word": "TF家族出图",
+      "onboard_time": 1737221833,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 34903,
@@ -55057,6 +55097,14 @@
       "onboard_time": 1736418680,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 33499,
+      "num": 33499,
+      "word": "央视曝断骨增高灰色产业链",
+      "onboard_time": 1737222734,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33477,
@@ -55491,6 +55539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 31077,
+      "num": 28765,
+      "word": "杨千嬅怎么可以敬业成这样",
+      "onboard_time": 1737223873,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 31036,
       "num": 379746,
       "word": "了不起的马尾绣妈妈",
@@ -55649,6 +55705,14 @@
       "onboard_time": 1735772114,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 30367,
+      "num": 30367,
+      "word": "再过10天就是蛇年春节",
+      "onboard_time": 1737220635,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30361,
