@@ -1,6 +1,6 @@
 {
   "startTime": 1737131217967,
-  "endTime": 1737175103126,
+  "endTime": 1737177592975,
   "band_list": [
     {
       "raw_hot": 1509855,
@@ -27,8 +27,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1110993,
-      "num": 352191,
+      "raw_hot": 1148125,
+      "num": 1148125,
       "word": "TikTok发声明",
       "onboard_time": 1737171918,
       "rank": 10,
@@ -59,6 +59,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 824938,
+      "num": 824938,
+      "word": "22岁脑瘫女孩街头卖发卡2元一个",
+      "onboard_time": 1737174860,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 805982,
+      "num": 805982,
+      "word": "龚俊肿出氛围感",
+      "onboard_time": 1737170538,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 794408,
       "num": 794408,
       "word": "周受资称特朗普致力于与其公司合作",
@@ -83,12 +99,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 680912,
+      "num": 365581,
+      "word": "美网友哽咽哭诉天价学费账单",
+      "onboard_time": 1737175697,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 658773,
+      "num": 658773,
+      "word": "发文寻宋祖儿外国男子账号已注销",
+      "onboard_time": 1737172938,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 628132,
       "num": 628132,
       "word": "李维刚承认带货原切牛肉卷为合成肉",
       "onboard_time": 1737163758,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 610104,
+      "num": 610104,
+      "word": "加拿大千人零下20度抢1个家庭医生",
+      "onboard_time": 1737173898,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 595714,
@@ -105,14 +145,6 @@
       "onboard_time": 1737136994,
       "rank": 30,
       "category": "民生新闻,国际时政"
-    },
-    {
-      "raw_hot": 594762,
-      "num": 594762,
-      "word": "龚俊肿出氛围感",
-      "onboard_time": 1737170538,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 520414,
@@ -323,14 +355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 298159,
-      "num": 237194,
-      "word": "发文寻宋祖儿外国男子账号已注销",
-      "onboard_time": 1737172938,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 290806,
       "num": 282776,
       "word": "李昀锐修勾撒娇",
@@ -403,20 +427,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 227919,
-      "num": 227919,
-      "word": "加拿大千人零下20度抢1个家庭医生",
-      "onboard_time": 1737173898,
-      "rank": 42,
-      "category": "海外新闻"
+      "raw_hot": 222508,
+      "num": 222508,
+      "word": "李昀锐真的是衣服架子",
+      "onboard_time": 1737176358,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 222310,
-      "num": 222310,
-      "word": "22岁脑瘫女孩街头卖发卡2元一个",
-      "onboard_time": 1737174860,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 218259,
+      "num": 218259,
+      "word": "檀健次把相柳包成了饺子",
+      "onboard_time": 1737176478,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 216035,
@@ -425,6 +449,22 @@
       "onboard_time": 1737165017,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213958,
+      "num": 213958,
+      "word": "王传君齐溪出演异人之下2",
+      "onboard_time": 1737175938,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 211628,
+      "num": 211628,
+      "word": "小胖回城特效",
+      "onboard_time": 1737175277,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 210874,
@@ -507,6 +547,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 186569,
+      "num": 186569,
+      "word": "一路繁花",
+      "onboard_time": 1737176598,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180128,
       "num": 180128,
       "word": "光与夜之恋",
@@ -572,7 +620,7 @@
     },
     {
       "raw_hot": 166836,
-      "num": 166836,
+      "num": 175131,
       "word": "田曦薇骑士靴公主裙",
       "onboard_time": 1737171318,
       "rank": 47,
@@ -641,6 +689,22 @@
       "onboard_time": 1737170059,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 158885,
+      "num": 158885,
+      "word": "Origin停运",
+      "onboard_time": 1737176538,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 154454,
+      "num": 366855,
+      "word": "尹锡悦发文报平安",
+      "onboard_time": 1737174318,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 153903,
@@ -715,6 +779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 139615,
+      "num": 139615,
+      "word": "好东西",
+      "onboard_time": 1737177318,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 137554,
       "num": 223782,
       "word": "春节档你最想看哪部影片",
@@ -731,20 +803,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136766,
+      "num": 136766,
+      "word": "绘旅人生生世世爱",
+      "onboard_time": 1737176777,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 136653,
       "num": 136653,
       "word": "徐冬冬说120斤是很爽的体重",
       "onboard_time": 1737116058,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136564,
-      "num": 136564,
-      "word": "尹锡悦发文报平安",
-      "onboard_time": 1737174318,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 136397,
@@ -787,12 +859,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 134064,
+      "num": 134064,
+      "word": "东北cos是不是都穿这件衣服",
+      "onboard_time": 1737176598,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131446,
       "num": 131446,
       "word": "王鹤棣这个镜头一眼万年",
       "onboard_time": 1737159975,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130754,
+      "num": 130754,
+      "word": "创造营亚洲2 高学历选手",
+      "onboard_time": 1737175758,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 130215,
+      "num": 130215,
+      "word": "山东明确最长18天婚假",
+      "onboard_time": 1737175998,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129526,
@@ -867,6 +963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 118264,
+      "num": 118264,
+      "word": "俄罗斯伊朗签署全面战略伙伴关系条约",
+      "onboard_time": 1737174860,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 118043,
       "num": 118043,
       "word": "国乒称着眼洛杉矶奥运会梯队建设",
@@ -907,6 +1011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 115876,
+      "num": 115876,
+      "word": "张雅钦国色芳华人生镜头",
+      "onboard_time": 1737177499,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115631,
       "num": 115631,
       "word": "王一博心跳同频",
@@ -921,14 +1033,6 @@
       "onboard_time": 1737120198,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 113563,
-      "num": 113563,
-      "word": "俄罗斯伊朗签署全面战略伙伴关系条约",
-      "onboard_time": 1737174860,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 113303,
@@ -1027,6 +1131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96054,
+      "num": 214419,
+      "word": "马龙米兰的闲暇碎片",
+      "onboard_time": 1737177078,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95124,
       "num": 95124,
       "word": "人民网评大奉打更人",
@@ -1073,6 +1185,14 @@
       "onboard_time": 1737163758,
       "rank": 44,
       "category": "国际时政,互联网"
+    },
+    {
+      "raw_hot": 88673,
+      "num": 124265,
+      "word": "尹锡悦说在看守所一切安好",
+      "onboard_time": 1737177138,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 88376,
@@ -1124,7 +1244,7 @@
     },
     {
       "raw_hot": 83437,
-      "num": 706013,
+      "num": 872906,
       "word": "穿越机画面看在建世界第一高桥",
       "onboard_time": 1737172577,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1737177592975,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1289040,
+        "num": 1289040,
+        "word": "对金银细软有了更深刻的理解",
+        "onboard_time": 1737169338,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1148125,
+        "num": 1148125,
+        "word": "TikTok发声明",
+        "onboard_time": 1737171918,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 80228,
+        "num": 872906,
+        "word": "穿越机画面看在建世界第一高桥",
+        "onboard_time": 1737172577,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 824938,
+        "num": 824938,
+        "word": "22岁脑瘫女孩街头卖发卡2元一个",
+        "onboard_time": 1737174860,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 805982,
+        "num": 805982,
+        "word": "龚俊肿出氛围感",
+        "onboard_time": 1737170538,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 658773,
+        "num": 658773,
+        "word": "发文寻宋祖儿外国男子账号已注销",
+        "onboard_time": 1737172938,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 610104,
+        "num": 610104,
+        "word": "加拿大千人零下20度抢1个家庭医生",
+        "onboard_time": 1737173898,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 468706,
+        "num": 468706,
+        "word": "韩网红扮外国人在机场打车被宰",
+        "onboard_time": 1737168016,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 380844,
+        "num": 380844,
+        "word": "业内人士说虞书欣林一cp感很强",
+        "onboard_time": 1737172759,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154454,
+        "num": 366855,
+        "word": "尹锡悦发文报平安",
+        "onboard_time": 1737174318,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 680912,
+        "num": 365581,
+        "word": "美网友哽咽哭诉天价学费账单",
+        "onboard_time": 1737175697,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 362305,
+        "num": 362305,
+        "word": "2025春晚4个分会场首次合排",
+        "onboard_time": 1737158775,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350769,
+        "num": 350769,
+        "word": "女子去世叔舅姑姨争数百万遗产",
+        "onboard_time": 1737169818,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278735,
+        "num": 278735,
+        "word": "田曦薇被王鹤棣的手吓到",
+        "onboard_time": 1737168076,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266187,
+        "num": 266187,
+        "word": "王一博亚冬会开幕式主题歌推广曲MV",
+        "onboard_time": 1737162618,
+        "rank": 14,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 257204,
+        "num": 257204,
+        "word": "小胖FMVP皮肤祥瑞亨通",
+        "onboard_time": 1737172938,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 253342,
+        "num": 253342,
+        "word": "杨迪说周洁琼小巷人家入戏太深",
+        "onboard_time": 1737170597,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250631,
+        "num": 250631,
+        "word": "中美网友对账后有些人天塌了",
+        "onboard_time": 1737136994,
+        "rank": 17,
+        "category": "民生新闻,国际时政"
+      },
+      {
+        "raw_hot": 246260,
+        "num": 246260,
+        "word": "管晨辰因伤口钢板断掉再次手术",
+        "onboard_time": 1737163817,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222508,
+        "num": 222508,
+        "word": "李昀锐真的是衣服架子",
+        "onboard_time": 1737176358,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 313415,
+        "num": 221628,
+        "word": "女子离婚要求分割女儿5万压岁钱",
+        "onboard_time": 1737171259,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220012,
+        "num": 220012,
+        "word": "终于知道美妆蛋退出潮流的原因了",
+        "onboard_time": 1737164537,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218259,
+        "num": 218259,
+        "word": "檀健次把相柳包成了饺子",
+        "onboard_time": 1737176478,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217452,
+        "num": 217452,
+        "word": "网传杨紫青簪行空降",
+        "onboard_time": 1737170118,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96054,
+        "num": 214419,
+        "word": "马龙米兰的闲暇碎片",
+        "onboard_time": 1737177078,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213958,
+        "num": 213958,
+        "word": "王传君齐溪出演异人之下2",
+        "onboard_time": 1737175938,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211628,
+        "num": 211628,
+        "word": "小胖回城特效",
+        "onboard_time": 1737175277,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 197762,
+        "num": 197762,
+        "word": "赵今麦张子枫都演警察了",
+        "onboard_time": 1737171796,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186569,
+        "num": 186569,
+        "word": "一路繁花",
+        "onboard_time": 1737176598,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112286,
+        "num": 175131,
+        "word": "田曦薇骑士靴公主裙",
+        "onboard_time": 1737171318,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172927,
+        "num": 172927,
+        "word": "周受资称特朗普致力于与其公司合作",
+        "onboard_time": 1737161176,
+        "rank": 30,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 165377,
+        "num": 165377,
+        "word": "宋祖儿方称寻人男子是寄宿家庭弟弟",
+        "onboard_time": 1737156074,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161264,
+        "num": 161264,
+        "word": "男子划开冰面救了条20斤大鱼说很香",
+        "onboard_time": 1737166936,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158885,
+        "num": 158885,
+        "word": "Origin停运",
+        "onboard_time": 1737176538,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145401,
+        "num": 145401,
+        "word": "多个手机厂商紧急备货超千万台",
+        "onboard_time": 1737168798,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 139615,
+        "num": 139615,
+        "word": "好东西",
+        "onboard_time": 1737177318,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138446,
+        "num": 138446,
+        "word": "国色芳华王擎扮演者被气到睡不着",
+        "onboard_time": 1737172217,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136766,
+        "num": 136766,
+        "word": "绘旅人生生世世爱",
+        "onboard_time": 1737176777,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134064,
+        "num": 134064,
+        "word": "东北cos是不是都穿这件衣服",
+        "onboard_time": 1737176598,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133175,
+        "num": 133175,
+        "word": "李维刚承认带货原切牛肉卷为合成肉",
+        "onboard_time": 1737163758,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 130754,
+        "num": 130754,
+        "word": "创造营亚洲2 高学历选手",
+        "onboard_time": 1737175758,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130215,
+        "num": 130215,
+        "word": "山东明确最长18天婚假",
+        "onboard_time": 1737175998,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129992,
+        "num": 129992,
+        "word": "相思令",
+        "onboard_time": 1737172398,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128468,
+        "num": 128468,
+        "word": "五福临门官宣定档",
+        "onboard_time": 1737167718,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125829,
+        "num": 125829,
+        "word": "泰总理称中国游客有危险系谣言",
+        "onboard_time": 1737166218,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88673,
+        "num": 124265,
+        "word": "尹锡悦说在看守所一切安好",
+        "onboard_time": 1737177138,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123290,
+        "num": 123290,
+        "word": "李昀锐修勾撒娇",
+        "onboard_time": 1737166696,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 118264,
+        "num": 118264,
+        "word": "俄罗斯伊朗签署全面战略伙伴关系条约",
+        "onboard_time": 1737174860,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115876,
+        "num": 115876,
+        "word": "张雅钦国色芳华人生镜头",
+        "onboard_time": 1737177499,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115027,
+        "num": 115027,
+        "word": "宁夏银川发生3.2级地震",
+        "onboard_time": 1737171137,
+        "rank": 49,
+        "category": "突发/灾害"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展冰雪产业丰富群众冰雪赛事活动#"
+    }
+  }
+}
