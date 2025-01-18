@@ -1,6 +1,6 @@
 {
   "startTime": 1737131217967,
-  "endTime": 1737200127794,
+  "endTime": 1737203876027,
   "band_list": [
     {
       "raw_hot": 2976802,
@@ -33,6 +33,14 @@
       "onboard_time": 1737169338,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1362307,
+      "num": 1362307,
+      "word": "杨子直播",
+      "onboard_time": 1737202819,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1288602,
@@ -73,6 +81,14 @@
       "onboard_time": 1737191538,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1112785,
+      "num": 361250,
+      "word": "杨子回归家庭的日子",
+      "onboard_time": 1737200597,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1041011,
@@ -244,7 +260,7 @@
     },
     {
       "raw_hot": 612016,
-      "num": 190623,
+      "num": 195227,
       "word": "微信更新了callkit了",
       "onboard_time": 1737184517,
       "rank": 25,
@@ -273,6 +289,14 @@
       "onboard_time": 1737136994,
       "rank": 30,
       "category": "民生新闻,国际时政"
+    },
+    {
+      "raw_hot": 587372,
+      "num": 344745,
+      "word": "胡冰卿龅牙图回应真没在乎的人",
+      "onboard_time": 1737201318,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 538599,
@@ -507,6 +531,14 @@
       "category": "国际时政,互联网"
     },
     {
+      "raw_hot": 374843,
+      "num": 374843,
+      "word": "广东都快干成厂东了",
+      "onboard_time": 1737189137,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 373426,
       "num": 373426,
       "word": "迪丽热巴红衣提灯拍摄路透",
@@ -531,20 +563,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 370026,
-      "num": 370026,
-      "word": "广东都快干成厂东了",
-      "onboard_time": 1737189137,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 369822,
       "num": 429774,
       "word": "列车撞鸟与野猪侵入或为同一路段",
       "onboard_time": 1737189078,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 369615,
+      "num": 208673,
+      "word": "明日方舟",
+      "onboard_time": 1737197539,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 368708,
@@ -667,6 +699,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 304000,
+      "num": 304000,
+      "word": "海航一飞机发动机失效备降南昌",
+      "onboard_time": 1737201738,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 301075,
       "num": 301075,
       "word": "超人诞生日记",
@@ -721,6 +761,14 @@
       "onboard_time": 1737189978,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 279704,
+      "num": 279704,
+      "word": "赵丽颖杜莎夫人沈璃蜡像亮相",
+      "onboard_time": 1737201679,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 276613,
@@ -795,11 +843,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 253992,
+      "num": 253992,
+      "word": "内娱有自己的妍珍",
+      "onboard_time": 1737202457,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 252401,
       "num": 252401,
       "word": "杨紫感谢观众",
       "onboard_time": 1737197539,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 249790,
+      "num": 249790,
+      "word": "异人之下2让严屹宽演爽了",
+      "onboard_time": 1737199159,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -857,6 +921,14 @@
       "onboard_time": 1737180678,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225345,
+      "num": 206357,
+      "word": "崔韩率剃寸头了",
+      "onboard_time": 1737202398,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 222508,
@@ -939,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203948,
+      "num": 203948,
+      "word": "杜淳新剧上线15分钟就下线",
+      "onboard_time": 1737200118,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203745,
       "num": 197284,
       "word": "苏新皓白衬衫黑领带",
@@ -1003,14 +1083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199117,
-      "num": 199117,
-      "word": "异人之下2让严屹宽演爽了",
-      "onboard_time": 1737199159,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 198835,
       "num": 198835,
       "word": "严浩翔不语只是一味going",
@@ -1019,12 +1091,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 198238,
+      "num": 198238,
+      "word": "国色芳华",
+      "onboard_time": 1737203418,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198097,
       "num": 198097,
       "word": "赴山海",
       "onboard_time": 1737184817,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197961,
+      "num": 197961,
+      "word": "你好星期六",
+      "onboard_time": 1737200778,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 197447,
@@ -1041,6 +1129,14 @@
       "onboard_time": 1737190879,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 196459,
+      "num": 196459,
+      "word": "漂白第5集不敢看",
+      "onboard_time": 1737201017,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 195639,
@@ -1075,6 +1171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193658,
+      "num": 193658,
+      "word": "漂白",
+      "onboard_time": 1737115218,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193617,
       "num": 193617,
       "word": "狗狗用舌头给主人刮痧治病",
@@ -1105,6 +1209,14 @@
       "onboard_time": 1737184517,
       "rank": 17,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 190335,
+      "num": 190335,
+      "word": "白鹿白烁要同小伙伴告别了",
+      "onboard_time": 1737202637,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 190294,
@@ -1171,6 +1283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185757,
+      "num": 185757,
+      "word": "狗妈妈叼着冻僵小狗找人求救",
+      "onboard_time": 1737202098,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183509,
       "num": 120333,
       "word": "TF家族新年音乐会内场",
@@ -1201,14 +1321,6 @@
       "onboard_time": 1737181457,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 181192,
-      "num": 181192,
-      "word": "漂白",
-      "onboard_time": 1737115218,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 180128,
@@ -1555,6 +1667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149287,
+      "num": 149287,
+      "word": "原来妈妈眼里孩子是这样走远的",
+      "onboard_time": 1737199758,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148437,
       "num": 168525,
       "word": "漂白大厂式管理流程化犯罪",
@@ -1587,12 +1707,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146409,
+      "num": 146409,
+      "word": "内娱当不了一点蒙面歌王",
+      "onboard_time": 1737203119,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145977,
       "num": 145977,
       "word": "一觉醒来以为爸爸变成了兔子",
       "onboard_time": 1737169818,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145938,
+      "num": 145938,
+      "word": "丁程鑫 露额头",
+      "onboard_time": 1737198618,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 145873,
@@ -1611,6 +1747,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 144448,
+      "num": 144448,
+      "word": "周芯竹王牌新主播第六名",
+      "onboard_time": 1737203658,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 143905,
+      "num": 143905,
+      "word": "文朱",
+      "onboard_time": 1737203719,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 143417,
       "num": 143417,
       "word": "周受资称将确保TikTok继续繁荣",
@@ -1619,12 +1771,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 143305,
+      "num": 143305,
+      "word": "异人之下2完全是电影级别",
+      "onboard_time": 1737203119,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142786,
       "num": 142786,
       "word": "白鹿晒白烁好多小挂坠",
       "onboard_time": 1737162677,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142336,
+      "num": 142336,
+      "word": "山东大集上能买到国色芳华同款牡丹",
+      "onboard_time": 1737202158,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141899,
@@ -1787,6 +1955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130644,
+      "num": 130644,
+      "word": "杨桂",
+      "onboard_time": 1737202457,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 129526,
       "num": 129526,
       "word": "陆沉昨日成规",
@@ -1795,12 +1971,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 129078,
+      "num": 129078,
+      "word": "郎朗今天澳门人真多啊",
+      "onboard_time": 1737203299,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 128585,
       "num": 128585,
       "word": "时团新音全白look",
       "onboard_time": 1737189678,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 127037,
+      "num": 127037,
+      "word": "别人的校车是大巴我们的是复兴号",
+      "onboard_time": 1737200358,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126990,
@@ -1825,14 +2017,6 @@
       "onboard_time": 1737171318,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126126,
-      "num": 126126,
-      "word": "丁程鑫 露额头",
-      "onboard_time": 1737198618,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 125280,
@@ -2203,14 +2387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 99483,
-      "num": 99483,
-      "word": "明日方舟",
-      "onboard_time": 1737197539,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 98050,
       "num": 98050,
       "word": "庞博新综艺被气到背对镜头",
@@ -2313,6 +2489,14 @@
       "onboard_time": 1737184517,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 89623,
+      "num": 304136,
+      "word": "少年说起复兴号校车声音都亮了",
+      "onboard_time": 1737203358,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89197,

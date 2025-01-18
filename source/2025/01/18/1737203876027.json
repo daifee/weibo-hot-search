@@ -1,0 +1,410 @@
+{
+  "runTime": 1737203876027,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1362307,
+        "num": 1362307,
+        "word": "杨子直播",
+        "onboard_time": 1737202819,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1175156,
+        "num": 1175156,
+        "word": "上海老人离世430万和1套房无人继承",
+        "onboard_time": 1737191118,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87092,
+        "num": 645815,
+        "word": "给老外亿点中式美学震撼",
+        "onboard_time": 1737188718,
+        "rank": 2,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 389941,
+        "num": 389941,
+        "word": "中国赴泰旅游不降反增",
+        "onboard_time": 1737192859,
+        "rank": 3,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 374843,
+        "num": 374843,
+        "word": "广东都快干成厂东了",
+        "onboard_time": 1737189137,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 620908,
+        "num": 361649,
+        "word": "唐尚珺大学第一学期成绩",
+        "onboard_time": 1737198018,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1112785,
+        "num": 361250,
+        "word": "杨子回归家庭的日子",
+        "onboard_time": 1737200597,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 587372,
+        "num": 344745,
+        "word": "胡冰卿龅牙图回应真没在乎的人",
+        "onboard_time": 1737201318,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305207,
+        "num": 305207,
+        "word": "女子高铁调座被后座老人用拳打头",
+        "onboard_time": 1737192018,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89623,
+        "num": 304136,
+        "word": "少年说起复兴号校车声音都亮了",
+        "onboard_time": 1737203358,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438856,
+        "num": 304072,
+        "word": "TikTok公司表示白宫无保证平台只能关",
+        "onboard_time": 1737190818,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 304000,
+        "num": 304000,
+        "word": "海航一飞机发动机失效备降南昌",
+        "onboard_time": 1737201738,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291785,
+        "num": 291785,
+        "word": "有一种中式审美叫牡丹花开",
+        "onboard_time": 1737189558,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287771,
+        "num": 287771,
+        "word": "美国网友开始卷了",
+        "onboard_time": 1737190998,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 279704,
+        "num": 279704,
+        "word": "赵丽颖杜莎夫人沈璃蜡像亮相",
+        "onboard_time": 1737201679,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268520,
+        "num": 268520,
+        "word": "朱志鑫头上有6个卡子",
+        "onboard_time": 1737198018,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 253992,
+        "num": 253992,
+        "word": "内娱有自己的妍珍",
+        "onboard_time": 1737202457,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249790,
+        "num": 249790,
+        "word": "异人之下2让严屹宽演爽了",
+        "onboard_time": 1737199159,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226629,
+        "num": 226629,
+        "word": "左邓",
+        "onboard_time": 1737195978,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210465,
+        "num": 210465,
+        "word": "美国网友说对中国的刻板印象被击碎",
+        "onboard_time": 1737183136,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 935924,
+        "num": 210000,
+        "word": "李小冉气到发抖",
+        "onboard_time": 1737182356,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369615,
+        "num": 208673,
+        "word": "明日方舟",
+        "onboard_time": 1737197539,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 254508,
+        "num": 207917,
+        "word": "赵樱子曝娱乐圈有一对夫妻离婚是真的",
+        "onboard_time": 1737178697,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225345,
+        "num": 206357,
+        "word": "崔韩率剃寸头了",
+        "onboard_time": 1737202398,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 214218,
+        "num": 205515,
+        "word": "婆婆给3个儿媳分钱不许儿子打主意",
+        "onboard_time": 1737192558,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284594,
+        "num": 204029,
+        "word": "李小冉评论区沦陷",
+        "onboard_time": 1737190698,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203948,
+        "num": 203948,
+        "word": "杜淳新剧上线15分钟就下线",
+        "onboard_time": 1737200118,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198238,
+        "num": 198238,
+        "word": "国色芳华",
+        "onboard_time": 1737203418,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197961,
+        "num": 197961,
+        "word": "你好星期六",
+        "onboard_time": 1737200778,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196459,
+        "num": 196459,
+        "word": "漂白第5集不敢看",
+        "onboard_time": 1737201017,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 409184,
+        "num": 195227,
+        "word": "微信更新了callkit了",
+        "onboard_time": 1737184517,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 193658,
+        "num": 193658,
+        "word": "漂白",
+        "onboard_time": 1737190399,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190335,
+        "num": 190335,
+        "word": "白鹿白烁要同小伙伴告别了",
+        "onboard_time": 1737202637,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185757,
+        "num": 185757,
+        "word": "狗妈妈叼着冻僵小狗找人求救",
+        "onboard_time": 1737202098,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149287,
+        "num": 149287,
+        "word": "原来妈妈眼里孩子是这样走远的",
+        "onboard_time": 1737199758,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147483,
+        "num": 147483,
+        "word": "刘晓庆不语只是一味贴假睫毛",
+        "onboard_time": 1737187098,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 841229,
+        "num": 147230,
+        "word": "浙大毕业的网红陈娴官宣恋情",
+        "onboard_time": 1737194178,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 146409,
+        "num": 146409,
+        "word": "内娱当不了一点蒙面歌王",
+        "onboard_time": 1737203119,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145938,
+        "num": 145938,
+        "word": "丁程鑫 露额头",
+        "onboard_time": 1737198618,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145447,
+        "num": 145447,
+        "word": "杜海涛听到沈梦辰拍吻戏的反应",
+        "onboard_time": 1737185718,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144448,
+        "num": 144448,
+        "word": "周芯竹王牌新主播第六名",
+        "onboard_time": 1737203658,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143905,
+        "num": 143905,
+        "word": "文朱",
+        "onboard_time": 1737203719,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143305,
+        "num": 143305,
+        "word": "异人之下2完全是电影级别",
+        "onboard_time": 1737203119,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142336,
+        "num": 142336,
+        "word": "山东大集上能买到国色芳华同款牡丹",
+        "onboard_time": 1737202158,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130644,
+        "num": 130644,
+        "word": "杨桂",
+        "onboard_time": 1737202457,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129078,
+        "num": 129078,
+        "word": "郎朗今天澳门人真多啊",
+        "onboard_time": 1737203299,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127037,
+        "num": 127037,
+        "word": "别人的校车是大巴我们的是复兴号",
+        "onboard_time": 1737200358,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126457,
+        "num": 126457,
+        "word": "管晨辰踩到网球崴脚复诊钢板断了",
+        "onboard_time": 1737198200,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121709,
+        "num": 121709,
+        "word": "雷军吃冻梨被冻出表情包",
+        "onboard_time": 1737192378,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 103483,
+        "num": 103483,
+        "word": "卖房后忘交接替别人交了13年电费",
+        "onboard_time": 1737190758,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美两国可以成为伙伴和朋友#"
+    }
+  }
+}

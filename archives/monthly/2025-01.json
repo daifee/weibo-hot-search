@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737200127794,
+  "endTime": 1737203876027,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -2571,6 +2571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1362307,
+      "num": 1362307,
+      "word": "杨子直播",
+      "onboard_time": 1737202819,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1360736,
       "num": 1360736,
       "word": "张艺兴吸氧",
@@ -3600,6 +3608,14 @@
       "word": "麦琳瘦了13斤",
       "onboard_time": 1737009437,
       "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1112785,
+      "num": 361250,
+      "word": "杨子回归家庭的日子",
+      "onboard_time": 1737200597,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -8324,7 +8340,7 @@
     },
     {
       "raw_hot": 612016,
-      "num": 190623,
+      "num": 195227,
       "word": "微信更新了callkit了",
       "onboard_time": 1737184517,
       "rank": 25,
@@ -8849,6 +8865,14 @@
       "onboard_time": 1736871436,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 587372,
+      "num": 344745,
+      "word": "胡冰卿龅牙图回应真没在乎的人",
+      "onboard_time": 1737201318,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 587212,
@@ -14131,6 +14155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 374843,
+      "num": 374843,
+      "word": "广东都快干成厂东了",
+      "onboard_time": 1737189137,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 374773,
       "num": 439859,
       "word": "贪官在家中设计夹层藏钱",
@@ -14251,14 +14283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 370026,
-      "num": 370026,
-      "word": "广东都快干成厂东了",
-      "onboard_time": 1737189137,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 369882,
       "num": 369882,
       "word": "车厘子届爱马仕价格接近腰斩",
@@ -14305,6 +14329,14 @@
       "onboard_time": 1736063787,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 369615,
+      "num": 208673,
+      "word": "明日方舟",
+      "onboard_time": 1737197539,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 369100,
@@ -17139,6 +17171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 304000,
+      "num": 304000,
+      "word": "海航一飞机发动机失效备降南昌",
+      "onboard_time": 1737201738,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 303891,
       "num": 303891,
       "word": "华晨宇把耳后纹身放在了封面上",
@@ -18521,6 +18561,14 @@
       "onboard_time": 1736036484,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 279704,
+      "num": 279704,
+      "word": "赵丽颖杜莎夫人沈璃蜡像亮相",
+      "onboard_time": 1737201679,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 279221,
@@ -20171,6 +20219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253992,
+      "num": 253992,
+      "word": "内娱有自己的妍珍",
+      "onboard_time": 1737202457,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 253922,
       "num": 253922,
       "word": "昀牵孟绕就这么甜得旁若无人",
@@ -20521,6 +20577,14 @@
       "onboard_time": 1735863920,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 249790,
+      "num": 249790,
+      "word": "异人之下2让严屹宽演爽了",
+      "onboard_time": 1737199159,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 249737,
@@ -22489,6 +22553,14 @@
       "onboard_time": 1736038046,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 225345,
+      "num": 206357,
+      "word": "崔韩率剃寸头了",
+      "onboard_time": 1737202398,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 225272,
@@ -25091,6 +25163,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 203948,
+      "num": 203948,
+      "word": "杜淳新剧上线15分钟就下线",
+      "onboard_time": 1737200118,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203941,
       "num": 203941,
       "word": "肖战射雕预告",
@@ -25955,14 +26035,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 199117,
-      "num": 199117,
-      "word": "异人之下2让严屹宽演爽了",
-      "onboard_time": 1737199159,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 199099,
       "num": 244191,
       "word": "时代少年准备的窗花",
@@ -26193,6 +26265,14 @@
       "onboard_time": 1735886058,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 197961,
+      "num": 197961,
+      "word": "你好星期六",
+      "onboard_time": 1735987103,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 197897,
@@ -26513,6 +26593,14 @@
       "onboard_time": 1736306540,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 196459,
+      "num": 196459,
+      "word": "漂白第5集不敢看",
+      "onboard_time": 1737201017,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 196416,
@@ -27811,6 +27899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 190335,
+      "num": 190335,
+      "word": "白鹿白烁要同小伙伴告别了",
+      "onboard_time": 1737202637,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190294,
       "num": 190294,
       "word": "朱志鑫苏新皓Guilty双人part",
@@ -28777,6 +28873,14 @@
       "onboard_time": 1736469620,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185757,
+      "num": 185757,
+      "word": "狗妈妈叼着冻僵小狗找人求救",
+      "onboard_time": 1737202098,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185671,
@@ -35715,6 +35819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 149287,
+      "num": 149287,
+      "word": "原来妈妈眼里孩子是这样走远的",
+      "onboard_time": 1737199758,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149282,
       "num": 149282,
       "word": "鹭卓时隔20天回后陡门啦",
@@ -36147,14 +36259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147520,
-      "num": 147520,
-      "word": "你好星期六",
-      "onboard_time": 1735987103,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 147489,
       "num": 414021,
       "word": "潘展乐给教练庆生",
@@ -36451,6 +36555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 146409,
+      "num": 146409,
+      "word": "内娱当不了一点蒙面歌王",
+      "onboard_time": 1737203119,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146117,
       "num": 146117,
       "word": "杭州到香港的高铁1月5日开通",
@@ -36489,6 +36601,14 @@
       "onboard_time": 1737006978,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 145938,
+      "num": 145938,
+      "word": "丁程鑫 露额头",
+      "onboard_time": 1737198618,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 145935,
@@ -36779,6 +36899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144448,
+      "num": 144448,
+      "word": "周芯竹王牌新主播第六名",
+      "onboard_time": 1737203658,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144445,
       "num": 144445,
       "word": "竹林四侠的新年祝福",
@@ -36857,6 +36985,14 @@
       "onboard_time": 1736751678,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143905,
+      "num": 143905,
+      "word": "文朱",
+      "onboard_time": 1737203719,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 143834,
@@ -36985,6 +37121,14 @@
       "onboard_time": 1736404040,
       "rank": 43,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 143305,
+      "num": 143305,
+      "word": "异人之下2完全是电影级别",
+      "onboard_time": 1737203119,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 143163,
@@ -37185,6 +37329,14 @@
       "onboard_time": 1737016039,
       "rank": 42,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 142336,
+      "num": 142336,
+      "word": "山东大集上能买到国色芳华同款牡丹",
+      "onboard_time": 1737202158,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142295,
@@ -39899,6 +40051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 130644,
+      "num": 130644,
+      "word": "杨桂",
+      "onboard_time": 1737202457,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 130586,
       "num": 130586,
       "word": "邓紫棋 祝大家旧事已过都变成新的",
@@ -40225,6 +40385,14 @@
       "onboard_time": 1736335520,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 129078,
+      "num": 129078,
+      "word": "郎朗今天澳门人真多啊",
+      "onboard_time": 1737203299,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 129050,
@@ -40643,6 +40811,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 127037,
+      "num": 127037,
+      "word": "别人的校车是大巴我们的是复兴号",
+      "onboard_time": 1737200358,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127023,
       "num": 125987,
       "word": "牡丹才17岁",
@@ -40873,14 +41049,6 @@
       "onboard_time": 1736068286,
       "rank": 28,
       "category": "教育"
-    },
-    {
-      "raw_hot": 126126,
-      "num": 126126,
-      "word": "丁程鑫 露额头",
-      "onboard_time": 1737198618,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 126120,
@@ -46235,14 +46403,6 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 99483,
-      "num": 99483,
-      "word": "明日方舟",
-      "onboard_time": 1737197539,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 99422,
       "num": 95373,
       "word": "sherlisa",
@@ -47545,6 +47705,14 @@
       "onboard_time": 1737103278,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89623,
+      "num": 304136,
+      "word": "少年说起复兴号校车声音都亮了",
+      "onboard_time": 1737203358,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89601,

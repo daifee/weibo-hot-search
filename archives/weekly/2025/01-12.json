@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1737200127794,
+  "endTime": 1737203876027,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -707,6 +707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1362307,
+      "num": 1362307,
+      "word": "杨子直播",
+      "onboard_time": 1737202819,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1356151,
       "num": 254522,
       "word": "黄圣依有多讨厌直播",
@@ -1048,6 +1056,14 @@
       "word": "麦琳瘦了13斤",
       "onboard_time": 1737009437,
       "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1112785,
+      "num": 361250,
+      "word": "杨子回归家庭的日子",
+      "onboard_time": 1737200597,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -2780,7 +2796,7 @@
     },
     {
       "raw_hot": 612016,
-      "num": 190623,
+      "num": 195227,
       "word": "微信更新了callkit了",
       "onboard_time": 1737184517,
       "rank": 25,
@@ -2993,6 +3009,14 @@
       "onboard_time": 1736871436,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 587372,
+      "num": 344745,
+      "word": "胡冰卿龅牙图回应真没在乎的人",
+      "onboard_time": 1737201318,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 586746,
@@ -4955,6 +4979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 374843,
+      "num": 374843,
+      "word": "广东都快干成厂东了",
+      "onboard_time": 1737189137,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 374275,
       "num": 237648,
       "word": "知情人士称拜登将不执行TikTok禁令",
@@ -5019,14 +5051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 370026,
-      "num": 370026,
-      "word": "广东都快干成厂东了",
-      "onboard_time": 1737189137,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 369854,
       "num": 265541,
       "word": "难怪老外对水果披萨那么抗拒了",
@@ -5049,6 +5073,14 @@
       "onboard_time": 1737189078,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 369615,
+      "num": 208673,
+      "word": "明日方舟",
+      "onboard_time": 1737197539,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 369100,
@@ -6123,6 +6155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 304000,
+      "num": 304000,
+      "word": "海航一飞机发动机失效备降南昌",
+      "onboard_time": 1737201738,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 303218,
       "num": 336729,
       "word": "微博之夜 凤梨酥",
@@ -6576,6 +6616,14 @@
       "word": "李威经纪人回应杀人案",
       "onboard_time": 1736942358,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 279704,
+      "num": 279704,
+      "word": "赵丽颖杜莎夫人沈璃蜡像亮相",
+      "onboard_time": 1737201679,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -7203,6 +7251,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 253992,
+      "num": 253992,
+      "word": "内娱有自己的妍珍",
+      "onboard_time": 1737202457,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 253785,
       "num": 253785,
       "word": "曾黎把中国绣花鞋穿到了韩国",
@@ -7337,6 +7393,14 @@
       "onboard_time": 1736900900,
       "rank": 20,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 249790,
+      "num": 249790,
+      "word": "异人之下2让严屹宽演爽了",
+      "onboard_time": 1737199159,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 249126,
@@ -7993,6 +8057,14 @@
       "onboard_time": 1736781680,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225345,
+      "num": 206357,
+      "word": "崔韩率剃寸头了",
+      "onboard_time": 1737202398,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 225043,
@@ -8899,6 +8971,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 203948,
+      "num": 203948,
+      "word": "杜淳新剧上线15分钟就下线",
+      "onboard_time": 1737200118,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203852,
       "num": 203852,
       "word": "王影璐 冯宝宝本宝",
@@ -9179,14 +9259,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 199117,
-      "num": 199117,
-      "word": "异人之下2让严屹宽演爽了",
-      "onboard_time": 1737199159,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 198917,
       "num": 198917,
       "word": "敖瑞鹏 媚眼抛给瞎子看",
@@ -9313,6 +9385,14 @@
       "onboard_time": 1736750599,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197961,
+      "num": 197961,
+      "word": "你好星期六",
+      "onboard_time": 1737011599,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 197799,
@@ -9449,6 +9529,14 @@
       "onboard_time": 1736742141,
       "rank": 37,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 196459,
+      "num": 196459,
+      "word": "漂白第5集不敢看",
+      "onboard_time": 1737201017,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 196260,
@@ -9883,6 +9971,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 190335,
+      "num": 190335,
+      "word": "白鹿白烁要同小伙伴告别了",
+      "onboard_time": 1737202637,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190294,
       "num": 190294,
       "word": "朱志鑫苏新皓Guilty双人part",
@@ -10265,6 +10361,14 @@
       "onboard_time": 1737097338,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185757,
+      "num": 185757,
+      "word": "狗妈妈叼着冻僵小狗找人求救",
+      "onboard_time": 1737202098,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185661,
@@ -13131,6 +13235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149287,
+      "num": 149287,
+      "word": "原来妈妈眼里孩子是这样走远的",
+      "onboard_time": 1737199758,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149226,
       "num": 149226,
       "word": "卢昱晓说刘亦菲是美丽的形容词",
@@ -13387,6 +13499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 146409,
+      "num": 146409,
+      "word": "内娱当不了一点蒙面歌王",
+      "onboard_time": 1737203119,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145977,
       "num": 145977,
       "word": "一觉醒来以为爸爸变成了兔子",
@@ -13409,6 +13529,14 @@
       "onboard_time": 1737006978,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 145938,
+      "num": 145938,
+      "word": "丁程鑫 露额头",
+      "onboard_time": 1737198618,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 145901,
@@ -13587,6 +13715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144448,
+      "num": 144448,
+      "word": "周芯竹王牌新主播第六名",
+      "onboard_time": 1737203658,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144205,
       "num": 159108,
       "word": "茯苓强制爱",
@@ -13617,6 +13753,14 @@
       "onboard_time": 1736751678,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143905,
+      "num": 143905,
+      "word": "文朱",
+      "onboard_time": 1737203719,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 143714,
@@ -13665,6 +13809,14 @@
       "onboard_time": 1737158175,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 143305,
+      "num": 143305,
+      "word": "异人之下2完全是电影级别",
+      "onboard_time": 1737203119,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 143163,
@@ -13753,6 +13905,14 @@
       "onboard_time": 1737016039,
       "rank": 42,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 142336,
+      "num": 142336,
+      "word": "山东大集上能买到国色芳华同款牡丹",
+      "onboard_time": 1737202158,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142295,
@@ -14843,6 +15003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130644,
+      "num": 130644,
+      "word": "杨桂",
+      "onboard_time": 1737202457,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 130549,
       "num": 130549,
       "word": "茯星高昭",
@@ -14985,6 +15153,14 @@
       "onboard_time": 1737009317,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 129078,
+      "num": 129078,
+      "word": "郎朗今天澳门人真多啊",
+      "onboard_time": 1737203299,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 129041,
@@ -15187,6 +15363,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 127037,
+      "num": 127037,
+      "word": "别人的校车是大巴我们的是复兴号",
+      "onboard_time": 1737200358,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127023,
       "num": 125987,
       "word": "牡丹才17岁",
@@ -15321,14 +15505,6 @@
       "onboard_time": 1737117859,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126126,
-      "num": 126126,
-      "word": "丁程鑫 露额头",
-      "onboard_time": 1737198618,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 126016,
@@ -16145,14 +16321,6 @@
       "onboard_time": 1737188718,
       "rank": 2,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 119588,
-      "num": 119588,
-      "word": "你好星期六",
-      "onboard_time": 1737011599,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 119491,
@@ -18115,14 +18283,6 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 99483,
-      "num": 99483,
-      "word": "明日方舟",
-      "onboard_time": 1737197539,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 99422,
       "num": 95373,
       "word": "sherlisa",
@@ -18689,6 +18849,14 @@
       "onboard_time": 1737103278,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89623,
+      "num": 304136,
+      "word": "少年说起复兴号校车声音都亮了",
+      "onboard_time": 1737203358,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89601,
