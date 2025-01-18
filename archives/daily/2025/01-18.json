@@ -1,6 +1,6 @@
 {
   "startTime": 1737131217967,
-  "endTime": 1737188705409,
+  "endTime": 1737189480875,
   "band_list": [
     {
       "raw_hot": 2976802,
@@ -139,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 682648,
+      "num": 682648,
+      "word": "杜海涛听到沈梦辰拍吻戏的反应",
+      "onboard_time": 1737185718,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 677000,
       "num": 677000,
       "word": "美国网友说对中国的刻板印象被击碎",
@@ -163,12 +171,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 626230,
-      "num": 278171,
-      "word": "杜海涛听到沈梦辰拍吻戏的反应",
-      "onboard_time": 1737185718,
-      "rank": 6,
-      "category": "剧集"
+      "raw_hot": 620068,
+      "num": 402192,
+      "word": "刘晓庆迟到两小时全员等待",
+      "onboard_time": 1737185538,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 612016,
@@ -203,14 +211,6 @@
       "category": "民生新闻,国际时政"
     },
     {
-      "raw_hot": 592290,
-      "num": 258607,
-      "word": "刘晓庆迟到两小时全员等待",
-      "onboard_time": 1737185538,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 520414,
       "num": 457391,
       "word": "五福临门官宣定档",
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 518629,
-      "num": 244382,
+      "num": 300683,
       "word": "虞书欣回复外国网友",
       "onboard_time": 1737186259,
       "rank": 11,
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 466698,
-      "num": 235695,
+      "num": 244262,
       "word": "武艺不知道爸妈有没有离婚",
       "onboard_time": 1737184817,
       "rank": 13,
@@ -281,6 +281,22 @@
       "onboard_time": 1737162618,
       "rank": 32,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 450006,
+      "num": 284933,
+      "word": "刘晓庆不语只是一味贴假睫毛",
+      "onboard_time": 1737187098,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 446648,
+      "num": 446648,
+      "word": "第一批变装博主已经开始变成蛇了",
+      "onboard_time": 1737187638,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 444770,
@@ -515,14 +531,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 284921,
-      "num": 136333,
-      "word": "刘晓庆不语只是一味贴假睫毛",
-      "onboard_time": 1737187098,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 284503,
       "num": 284503,
       "word": "漂白第1集杀疯了",
@@ -547,20 +555,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 270202,
-      "num": 270202,
-      "word": "第一批变装博主已经开始变成蛇了",
-      "onboard_time": 1737187638,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 268285,
       "num": 268285,
       "word": "李昀锐米兰活动人气",
       "onboard_time": 1737179357,
       "rank": 13,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 267801,
+      "num": 131728,
+      "word": "TF家族新音出图",
+      "onboard_time": 1737188478,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 265125,
@@ -739,6 +747,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 195639,
+      "num": 131079,
+      "word": "谁家男主吃一顿饭认了六个爸",
+      "onboard_time": 1737188358,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195621,
       "num": 181614,
       "word": "李小冉 我不顶狗屎",
@@ -795,6 +811,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 189378,
+      "num": 120983,
+      "word": "卢昱晓王星越手势舞",
+      "onboard_time": 1737188238,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188951,
       "num": 151973,
       "word": "异人之下",
@@ -816,6 +840,14 @@
       "word": "一路繁花",
       "onboard_time": 1737176598,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 183509,
+      "num": 120333,
+      "word": "TF家族新年音乐会内场",
+      "onboard_time": 1737189258,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -881,6 +913,14 @@
       "onboard_time": 1737183436,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176413,
+      "num": 117032,
+      "word": "左航 来啦",
+      "onboard_time": 1737189198,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 175950,
@@ -1051,11 +1091,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 155566,
-      "num": 131728,
-      "word": "TF家族新音出图",
-      "onboard_time": 1737188478,
-      "rank": 32,
+      "raw_hot": 159034,
+      "num": 115945,
+      "word": "朱志鑫 Right Now",
+      "onboard_time": 1737189137,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -1065,6 +1105,14 @@
       "onboard_time": 1737160397,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 153754,
+      "num": 270520,
+      "word": "列车撞鸟与野猪侵入或为同一路段",
+      "onboard_time": 1737189078,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151991,
@@ -1267,14 +1315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131079,
-      "num": 131079,
-      "word": "谁家男主吃一顿饭认了六个爸",
-      "onboard_time": 1737188358,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 130754,
       "num": 130754,
       "word": "创造营亚洲2 高学历选手",
@@ -1411,14 +1451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 117937,
-      "num": 117937,
-      "word": "卢昱晓王星越手势舞",
-      "onboard_time": 1737188238,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 117375,
       "num": 117375,
       "word": "白月梵星草地play",
@@ -1475,6 +1507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114207,
+      "num": 114207,
+      "word": "美国网友开始给中国李华回信",
+      "onboard_time": 1737187578,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114042,
       "num": 163987,
       "word": "侯明昊新剧出场是倒过来的",
@@ -1489,6 +1529,14 @@
       "onboard_time": 1737131837,
       "rank": 46,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 113070,
+      "num": 113070,
+      "word": "从不吸烟的医学教授确诊肺癌晚期",
+      "onboard_time": 1737188958,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112572,
@@ -1555,6 +1603,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 102203,
+      "num": 102203,
+      "word": "广东都快干成厂东了",
+      "onboard_time": 1737189137,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101416,
       "num": 101416,
       "word": "李昀锐累都写在眼睛上了",
@@ -1563,12 +1619,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100645,
+      "num": 100645,
+      "word": "原神遭美方起诉赔偿2000万美元",
+      "onboard_time": 1737189198,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 100077,
       "num": 100077,
       "word": "TikTok呼吁美政府立即明确态度",
       "onboard_time": 1737166936,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 99677,
+      "num": 99677,
+      "word": "陈奕恒 希望能让你们看到一个不同的我",
+      "onboard_time": 1737189078,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 98050,
@@ -1609,6 +1681,14 @@
       "onboard_time": 1737169278,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96467,
+      "num": 271656,
+      "word": "过年赶大集一秒回到小时候",
+      "onboard_time": 1737187277,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96128,
@@ -1675,14 +1755,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 90239,
-      "num": 90239,
-      "word": "美国网友开始给中国李华回信",
-      "onboard_time": 1737187578,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89197,
       "num": 89197,
       "word": "特朗普多次公开支持TikTok",
@@ -1697,6 +1769,14 @@
       "onboard_time": 1737177138,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 88659,
+      "num": 96315,
+      "word": "王化回应小米收购蔚来猜想",
+      "onboard_time": 1737189437,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 88376,
@@ -1963,20 +2043,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 55593,
+      "num": 769643,
+      "word": "给老外亿点中式美学震撼",
+      "onboard_time": 1737188718,
+      "rank": 2,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 53222,
       "num": 58622,
       "word": "李现TO我最好的侍卫",
       "onboard_time": 1737155714,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 49488,
-      "num": 271656,
-      "word": "过年赶大集一秒回到小时候",
-      "onboard_time": 1737187277,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 48504,
@@ -2139,6 +2219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 18564,
+      "num": 134798,
+      "word": "钎城回归自律",
+      "onboard_time": 1737180377,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 17321,
       "num": 39761,
       "word": "73岁奶奶3元理发20多年不涨价",
@@ -2161,14 +2249,6 @@
       "onboard_time": 1737143952,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 12207,
-      "num": 134798,
-      "word": "钎城回归自律",
-      "onboard_time": 1737180377,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 11435,
@@ -2204,6 +2284,9 @@
     },
     {
       "word": "#习近平同美国当选总统特朗普通电话#"
+    },
+    {
+      "word": "#习近平同苏林梁强就中越建交75周年互致贺电#"
     }
   ]
 }
