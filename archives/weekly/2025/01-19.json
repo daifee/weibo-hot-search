@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737227801338,
+  "endTime": 1737228922152,
   "band_list": [
     {
       "raw_hot": 1780894,
@@ -483,6 +483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 50030,
+      "num": 61152,
+      "word": "俩小孩扔作业被提醒撒腿就跑",
+      "onboard_time": 1737226752,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48609,
       "num": 48609,
       "word": "给美国网友一点中华文化震撼",
@@ -588,17 +596,25 @@
     },
     {
       "raw_hot": 20400,
-      "num": 24127,
+      "num": 25779,
       "word": "石凯新歌预告",
       "onboard_time": 1737227772,
       "rank": 46,
       "category": "音乐"
     },
     {
-      "raw_hot": 17907,
-      "num": 61152,
-      "word": "俩小孩扔作业被提醒撒腿就跑",
-      "onboard_time": 1737226752,
+      "raw_hot": 16751,
+      "num": 25768,
+      "word": "央视新闻夜读",
+      "onboard_time": 1737228731,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 9467,
+      "num": 50386,
+      "word": "飞行教员任C919带队机长安全感满满",
+      "onboard_time": 1737227471,
       "rank": 9,
       "category": "民生新闻"
     }
