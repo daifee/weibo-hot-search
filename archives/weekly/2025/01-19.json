@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737242474908,
+  "endTime": 1737243332477,
   "band_list": [
     {
       "raw_hot": 1780894,
@@ -19,6 +19,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 739373,
+      "num": 920817,
+      "word": "央视曝断骨增高灰色产业链",
+      "onboard_time": 1737222734,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 615427,
       "num": 347113,
       "word": "麦琳杨子留几手3人连麦违规",
@@ -27,12 +35,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 573874,
-      "num": 786264,
-      "word": "央视曝断骨增高灰色产业链",
-      "onboard_time": 1737222734,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 572623,
+      "num": 572623,
+      "word": "留几手曝杨子留了90%的现金给黄圣依",
+      "onboard_time": 1737243074,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 506223,
@@ -91,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 331898,
+      "num": 150258,
+      "word": "杨子含泪说不要再恭喜黄圣依了",
+      "onboard_time": 1737243074,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 327826,
       "num": 128259,
       "word": "女子出国做断骨增高腿喷脓",
@@ -123,6 +139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 256602,
+      "num": 256602,
+      "word": "丈夫称晓华不会上春晚舞台",
+      "onboard_time": 1737233950,
+      "rank": 9,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 248763,
       "num": 128086,
       "word": "刘宇宁 直播开怼",
@@ -137,14 +161,6 @@
       "onboard_time": 1737207800,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 233800,
-      "num": 233800,
-      "word": "丈夫称晓华不会上春晚舞台",
-      "onboard_time": 1737233950,
-      "rank": 9,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 232827,
@@ -195,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173330,
+      "num": 148506,
+      "word": "所有人都忘了许七安",
+      "onboard_time": 1737243074,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166322,
       "num": 160176,
       "word": "2025春节档电影片长",
@@ -235,12 +259,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 145473,
+      "num": 145473,
+      "word": "都四九天了今年还会冷吗",
+      "onboard_time": 1737205161,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145172,
       "num": 105087,
       "word": "文轩",
       "onboard_time": 1737208340,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 135347,
+      "num": 135347,
+      "word": "全国出生人口7年来首次回升",
+      "onboard_time": 1737222853,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134601,
@@ -291,14 +331,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 111184,
-      "num": 111184,
-      "word": "全国出生人口7年来首次回升",
-      "onboard_time": 1737222853,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109711,
       "num": 95067,
       "word": "国色芳华预告",
@@ -323,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107350,
+      "num": 107350,
+      "word": "给美国网友一点中华文化震撼",
+      "onboard_time": 1737225552,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106259,
       "num": 98046,
       "word": "赵丽颖杜莎夫人沈璃蜡像亮相",
@@ -339,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101796,
+      "num": 101796,
+      "word": "36岁相声演员许兆呈脑出血离世",
+      "onboard_time": 1737206961,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95134,
       "num": 95134,
       "word": "微信更新了callkit了",
@@ -352,14 +400,6 @@
       "word": "俩小孩把寒假作业塞下水道",
       "onboard_time": 1737205219,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94879,
-      "num": 94903,
-      "word": "都四九天了今年还会冷吗",
-      "onboard_time": 1737205161,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -379,14 +419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 92980,
-      "num": 92980,
-      "word": "给美国网友一点中华文化震撼",
-      "onboard_time": 1737225552,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 92633,
       "num": 92633,
       "word": "TF家族人人人人人",
@@ -395,12 +427,36 @@
       "category": "演出"
     },
     {
-      "raw_hot": 86242,
-      "num": 86242,
-      "word": "36岁相声演员许兆呈脑出血离世",
-      "onboard_time": 1737206961,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 92294,
+      "num": 92294,
+      "word": "蒋长扬许诺何惟芳不离不弃",
+      "onboard_time": 1737243074,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 87533,
+      "num": 87533,
+      "word": "26岁渐冻症女生求助蔡磊",
+      "onboard_time": 1737238931,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87431,
+      "num": 53609,
+      "word": "全世界最差航空的飞机餐",
+      "onboard_time": 1737243013,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 85274,
+      "num": 85274,
+      "word": "猎罪图鉴海外宣传以金世佳为主",
+      "onboard_time": 1737243013,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 84103,
@@ -409,6 +465,14 @@
       "onboard_time": 1737221893,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79507,
+      "num": 75046,
+      "word": "李小冉说向太胖",
+      "onboard_time": 1737236771,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 79202,
@@ -443,14 +507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75046,
-      "num": 75046,
-      "word": "李小冉说向太胖",
-      "onboard_time": 1737236771,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 67405,
       "num": 85250,
       "word": "张云雷断眉造型",
@@ -475,6 +531,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 61843,
+      "num": 61843,
+      "word": "老夫妻在地窖蒸三千斤糯米酿酒中毒",
+      "onboard_time": 1737243074,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58444,
       "num": 91357,
       "word": "蔡磊在2024年鼓励静雯坚持抗冻",
@@ -491,19 +555,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 54981,
+      "num": 54981,
+      "word": "杜淳新剧上线15分钟就下线",
+      "onboard_time": 1737200118,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 52794,
       "num": 52794,
       "word": "第一批学中国菜的外国人交作业了",
       "onboard_time": 1737232750,
       "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 52292,
-      "num": 52292,
-      "word": "26岁渐冻症女生求助蔡磊",
-      "onboard_time": 1737238931,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -529,6 +593,14 @@
       "onboard_time": 1737226752,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49757,
+      "num": 49757,
+      "word": "张杰自己笑自己",
+      "onboard_time": 1737243074,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 48033,
@@ -595,6 +667,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30108,
+      "num": 30108,
+      "word": "特朗普上任后将大规模逮捕无证移民",
+      "onboard_time": 1737243074,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 29658,
+      "num": 29658,
+      "word": "贾宝玉真的从书里走出来了",
+      "onboard_time": 1737243313,
+      "rank": 43,
+      "category": "剧集,综艺"
+    },
+    {
       "raw_hot": 29265,
       "num": 29265,
       "word": "susu福福",
@@ -603,12 +691,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28691,
+      "num": 28691,
+      "word": "老外南极遇中国人0帧起手飙中文",
+      "onboard_time": 1737242773,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25855,
       "num": 28526,
       "word": "射雕英雄传侠之大者时长146分钟",
       "onboard_time": 1737232632,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 22569,
+      "num": 28619,
+      "word": "管晨辰手术后报平安",
+      "onboard_time": 1737241692,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 21469,
@@ -625,6 +729,14 @@
       "onboard_time": 1737227651,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20850,
+      "num": 28577,
+      "word": "太阳vs活塞",
+      "onboard_time": 1737243313,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 20656,
@@ -697,14 +809,6 @@
       "onboard_time": 1737235151,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11654,
-      "num": 28473,
-      "word": "管晨辰手术后报平安",
-      "onboard_time": 1737241692,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 10739,
