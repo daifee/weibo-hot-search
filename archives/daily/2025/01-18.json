@@ -1,6 +1,6 @@
 {
   "startTime": 1737131217967,
-  "endTime": 1737209956562,
+  "endTime": 1737210954124,
   "band_list": [
     {
       "raw_hot": 7891142,
@@ -123,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 910909,
+      "num": 713930,
+      "word": "谁敢相信这是71岁的赵雅芝",
+      "onboard_time": 1737205520,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 889677,
       "num": 1142348,
       "word": "宋祖儿方称寻人男子是寄宿家庭弟弟",
@@ -145,14 +153,6 @@
       "onboard_time": 1737190818,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 854608,
-      "num": 702940,
-      "word": "谁敢相信这是71岁的赵雅芝",
-      "onboard_time": 1737205520,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 850511,
@@ -259,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 656818,
+      "num": 656818,
+      "word": "患渐冻症容貌巨变女生已无法说话",
+      "onboard_time": 1737204978,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 646321,
       "num": 426016,
       "word": "文朱",
@@ -281,14 +289,6 @@
       "onboard_time": 1737190998,
       "rank": 32,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 615266,
-      "num": 615266,
-      "word": "患渐冻症容貌巨变女生已无法说话",
-      "onboard_time": 1737204978,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 612016,
@@ -331,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 568765,
+      "num": 201269,
+      "word": "女子出国做断骨增高腿喷脓",
+      "onboard_time": 1737207261,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 542939,
       "num": 542939,
       "word": "海航一飞机发动机失效备降南昌",
@@ -344,14 +352,6 @@
       "word": "从不吸烟的医学教授确诊肺癌晚期",
       "onboard_time": 1737188958,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 538416,
-      "num": 201269,
-      "word": "女子出国做断骨增高腿喷脓",
-      "onboard_time": 1737207261,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -417,6 +417,14 @@
       "onboard_time": 1737131176,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 477171,
+      "num": 328317,
+      "word": "陈奕迅在表演时疑似嗑瓜子",
+      "onboard_time": 1737208101,
+      "rank": 10,
+      "category": "演出"
     },
     {
       "raw_hot": 468743,
@@ -619,14 +627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 385161,
-      "num": 218872,
-      "word": "陈奕迅在表演时疑似嗑瓜子",
-      "onboard_time": 1737208101,
-      "rank": 10,
-      "category": "演出"
-    },
-    {
       "raw_hot": 375921,
       "num": 375921,
       "word": "美最高法支持政府对TikTok强迫出售令",
@@ -700,7 +700,7 @@
     },
     {
       "raw_hot": 365789,
-      "num": 215760,
+      "num": 307947,
       "word": "TF家族人人人人人",
       "onboard_time": 1737207321,
       "rank": 11,
@@ -715,8 +715,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 364382,
-      "num": 210879,
+      "raw_hot": 365547,
+      "num": 313781,
       "word": "大奉打更人结局",
       "onboard_time": 1737206359,
       "rank": 40,
@@ -875,12 +875,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283949,
+      "num": 198180,
+      "word": "文轩",
+      "onboard_time": 1737208340,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 283793,
       "num": 283793,
       "word": "佛山电翰说不想再消耗工人身份",
       "onboard_time": 1737141072,
       "rank": 9,
       "category": "网红"
+    },
+    {
+      "raw_hot": 282336,
+      "num": 282336,
+      "word": "女子假扮机器人回家被村里人介绍对象",
+      "onboard_time": 1737207800,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 282103,
@@ -1001,22 +1017,6 @@
       "onboard_time": 1737199159,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 246343,
-      "num": 208642,
-      "word": "女子假扮机器人回家被村里人介绍对象",
-      "onboard_time": 1737207800,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 244445,
-      "num": 198180,
-      "word": "文轩",
-      "onboard_time": 1737208340,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 241493,
@@ -1201,6 +1201,14 @@
       "onboard_time": 1737186378,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 202928,
+      "num": 169686,
+      "word": "李雪琴也嗑王鹤棣田曦薇",
+      "onboard_time": 1737208821,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 202348,
@@ -1563,6 +1571,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 174880,
+      "num": 156067,
+      "word": "国色芳华单集收视创新高",
+      "onboard_time": 1737210261,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174125,
       "num": 183819,
       "word": "国色芳华王擎扮演者被气到睡不着",
@@ -1625,14 +1641,6 @@
       "onboard_time": 1737203299,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 169686,
-      "num": 169686,
-      "word": "李雪琴也嗑王鹤棣田曦薇",
-      "onboard_time": 1737208821,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 167924,
@@ -1803,6 +1811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 159526,
+      "num": 159526,
+      "word": "深圳海滩出现一片褐色泡泡",
+      "onboard_time": 1737207680,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159131,
       "num": 151503,
       "word": "文俊辉说打打打的日子结束了",
@@ -1835,20 +1851,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155894,
+      "num": 155894,
+      "word": "都四九天了今年还会冷吗",
+      "onboard_time": 1737205161,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153903,
       "num": 153903,
       "word": "这么多人偏偏让他站了C位",
       "onboard_time": 1737160397,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 153223,
-      "num": 153223,
-      "word": "深圳海滩出现一片褐色泡泡",
-      "onboard_time": 1737207680,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 152220,
@@ -1931,14 +1947,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147228,
-      "num": 147228,
-      "word": "都四九天了今年还会冷吗",
-      "onboard_time": 1737205161,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 145977,
       "num": 145977,
       "word": "一觉醒来以为爸爸变成了兔子",
@@ -1971,6 +1979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 144198,
+      "num": 144198,
+      "word": "田曦薇不语只一味的甜",
+      "onboard_time": 1737210380,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143417,
       "num": 143417,
       "word": "周受资称将确保TikTok继续繁荣",
@@ -2001,6 +2017,14 @@
       "onboard_time": 1737202158,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141958,
+      "num": 141958,
+      "word": "杨旭文大唐男模变现偶男主",
+      "onboard_time": 1737210380,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 141899,
@@ -2147,6 +2171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133494,
+      "num": 133494,
+      "word": "恋与深空一周年",
+      "onboard_time": 1737208940,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 133028,
       "num": 133028,
       "word": "张杰春节特别场",
@@ -2235,6 +2267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125449,
+      "num": 316558,
+      "word": "海航一客机飞行途中发生故障备降南昌",
+      "onboard_time": 1737210322,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125280,
       "num": 125280,
       "word": "齐司礼浮喧将倾",
@@ -2272,6 +2312,14 @@
       "word": "张泽禹染发了",
       "onboard_time": 1737196519,
       "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 123425,
+      "num": 123425,
+      "word": "杨博文陈浚铭智恩涵姐姐恋爱吧",
+      "onboard_time": 1737209840,
+      "rank": 45,
       "category": "演出"
     },
     {
@@ -2451,6 +2499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 115723,
+      "num": 115723,
+      "word": "胡歌刘诗诗拆解水獭粪便",
+      "onboard_time": 1737209120,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115631,
       "num": 115631,
       "word": "王一博心跳同频",
@@ -2507,14 +2563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 112520,
-      "num": 112520,
-      "word": "胡歌刘诗诗拆解水獭粪便",
-      "onboard_time": 1737209120,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 111995,
       "num": 111995,
       "word": "张函瑞腹肌",
@@ -2563,14 +2611,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 106557,
-      "num": 106557,
-      "word": "恋与深空一周年",
-      "onboard_time": 1737208940,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 106069,
       "num": 106069,
       "word": "谁懂文淇眼神的杀伤力",
@@ -2617,14 +2657,6 @@
       "onboard_time": 1737205639,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102094,
-      "num": 102094,
-      "word": "杨博文陈浚铭智恩涵姐姐恋爱吧",
-      "onboard_time": 1737209840,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 101416,
@@ -3011,6 +3043,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 66778,
+      "num": 85948,
+      "word": "小牛掉水沟母牛哀鸣向旁人求助",
+      "onboard_time": 1737210921,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64338,
       "num": 64338,
       "word": "2025听到最恐怖的一句我爱你",
@@ -3081,6 +3121,14 @@
       "onboard_time": 1737181638,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 54765,
+      "num": 714361,
+      "word": "外国游客被中国美食香迷糊了",
+      "onboard_time": 1737210261,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53222,
