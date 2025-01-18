@@ -1,6 +1,6 @@
 {
   "startTime": 1737131217967,
-  "endTime": 1737181676201,
+  "endTime": 1737182453103,
   "band_list": [
     {
       "raw_hot": 1980550,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 779288,
+      "num": 779288,
+      "word": "男童点爆竹扔进窨井被炸起数米高",
+      "onboard_time": 1737178818,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 742379,
       "num": 742379,
       "word": "田曦薇被王鹤棣的手吓到",
@@ -129,14 +137,6 @@
       "onboard_time": 1737163758,
       "rank": 38,
       "category": "网红"
-    },
-    {
-      "raw_hot": 615823,
-      "num": 615823,
-      "word": "男童点爆竹扔进窨井被炸起数米高",
-      "onboard_time": 1737178818,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 610104,
@@ -283,20 +283,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 391270,
+      "num": 391270,
+      "word": "杨紫谈接下国色芳华的原因",
+      "onboard_time": 1737179238,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 390511,
       "num": 242850,
       "word": "女子离婚要求分割女儿5万压岁钱",
       "onboard_time": 1737171259,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 380180,
-      "num": 380180,
-      "word": "杨紫谈接下国色芳华的原因",
-      "onboard_time": 1737179238,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 375921,
@@ -313,6 +313,14 @@
       "onboard_time": 1737128418,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 372690,
+      "num": 372690,
+      "word": "好东西",
+      "onboard_time": 1737177318,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 365606,
@@ -345,14 +353,6 @@
       "onboard_time": 1737166218,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 350664,
-      "num": 350664,
-      "word": "好东西",
-      "onboard_time": 1737177318,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 339212,
@@ -395,20 +395,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 307979,
+      "num": 163939,
+      "word": "戴眼镜化妆丑的女生有福了",
+      "onboard_time": 1737180557,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 290806,
       "num": 282776,
       "word": "李昀锐修勾撒娇",
       "onboard_time": 1737166696,
       "rank": 10,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 287524,
-      "num": 151192,
-      "word": "戴眼镜化妆丑的女生有福了",
-      "onboard_time": 1737180557,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 284503,
@@ -425,6 +425,14 @@
       "onboard_time": 1737141072,
       "rank": 9,
       "category": "网红"
+    },
+    {
+      "raw_hot": 281641,
+      "num": 281641,
+      "word": "李昀锐说自己28了不是宝宝了",
+      "onboard_time": 1737180438,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 268285,
@@ -467,20 +475,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 252858,
+      "num": 252858,
+      "word": "李小冉气到发抖",
+      "onboard_time": 1737182356,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 239803,
+      "num": 189493,
+      "word": "张远看再见爱人4是我的脸替",
+      "onboard_time": 1737180858,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237159,
       "num": 352471,
       "word": "宁夏银川发生3.2级地震",
       "onboard_time": 1737171137,
       "rank": 19,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 229570,
-      "num": 221926,
-      "word": "李昀锐说自己28了不是宝宝了",
-      "onboard_time": 1737180438,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 229286,
@@ -491,7 +507,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 224037,
+      "raw_hot": 228390,
       "num": 224037,
       "word": "永夜星河大结局把外国网友看哭了",
       "onboard_time": 1737180678,
@@ -563,14 +579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197922,
-      "num": 187013,
-      "word": "张远看再见爱人4是我的脸替",
-      "onboard_time": 1737180858,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197447,
       "num": 176306,
       "word": "狗妈妈凌晨守在摊前作揖乞食",
@@ -593,6 +601,14 @@
       "onboard_time": 1737106998,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 189741,
+      "num": 263099,
+      "word": "中美网友互发家人照片",
+      "onboard_time": 1737179538,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189692,
@@ -673,6 +689,14 @@
       "onboard_time": 1737123979,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175950,
+      "num": 175950,
+      "word": "谁家杂志一口气拍了四大高原",
+      "onboard_time": 1737182060,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 174125,
@@ -763,6 +787,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 163145,
+      "num": 163145,
+      "word": "千朵桃花搞到真养成系了",
+      "onboard_time": 1737181097,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 161978,
+      "num": 161978,
+      "word": "什刹海偶遇李兰迪拍摄",
+      "onboard_time": 1737182060,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161042,
       "num": 161042,
       "word": "张雅钦国色芳华人生镜头",
@@ -843,6 +883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148852,
+      "num": 148852,
+      "word": "一诺黄俊捷合照",
+      "onboard_time": 1737181457,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 148437,
       "num": 168525,
       "word": "漂白大厂式管理流程化犯罪",
@@ -880,14 +928,6 @@
       "word": "玉面郎君蒋长扬",
       "onboard_time": 1737178038,
       "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 145870,
-      "num": 148440,
-      "word": "千朵桃花搞到真养成系了",
-      "onboard_time": 1737181097,
-      "rank": 32,
       "category": "剧集"
     },
     {
@@ -1027,14 +1067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130136,
-      "num": 130136,
-      "word": "一诺黄俊捷合照",
-      "onboard_time": 1737181457,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 129526,
       "num": 129526,
       "word": "陆沉昨日成规",
@@ -1075,14 +1107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 124583,
-      "num": 263099,
-      "word": "中美网友互发家人照片",
-      "onboard_time": 1737179538,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 123154,
       "num": 123154,
       "word": "赶火车忘带身份证咋办",
@@ -1104,6 +1128,14 @@
       "word": "樊振东反手暴力美学",
       "onboard_time": 1737172338,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 121132,
+      "num": 121132,
+      "word": "里夫斯38分",
+      "onboard_time": 1737180917,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -1195,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114042,
+      "num": 163987,
+      "word": "侯明昊新剧出场是倒过来的",
+      "onboard_time": 1737182418,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113303,
       "num": 113303,
       "word": "官方通报火锅店员工在后厨小便",
@@ -1217,14 +1257,6 @@
       "onboard_time": 1737160577,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 110310,
-      "num": 110310,
-      "word": "里夫斯38分",
-      "onboard_time": 1737180917,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 106975,
@@ -1259,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105603,
+      "num": 105603,
+      "word": "五福临门一个预告成了三对亲",
+      "onboard_time": 1737182356,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105463,
       "num": 105463,
       "word": "中国资产昨夜集体大涨",
@@ -1289,6 +1329,14 @@
       "onboard_time": 1737161357,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96997,
+      "num": 252377,
+      "word": "美国网友大赞中国人民太热情友好了",
+      "onboard_time": 1737179837,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96825,
