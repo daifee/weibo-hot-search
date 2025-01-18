@@ -1,0 +1,410 @@
+{
+  "runTime": 1737195653513,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2529854,
+        "num": 2529854,
+        "word": "上海老人离世430万和1套房无人继承",
+        "onboard_time": 1737191118,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1008921,
+        "num": 1008921,
+        "word": "浙大毕业的网红陈娴官宣恋情",
+        "onboard_time": 1737194178,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 107044,
+        "num": 660779,
+        "word": "给老外亿点中式美学震撼",
+        "onboard_time": 1737188718,
+        "rank": 2,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 618991,
+        "num": 618991,
+        "word": "美国网友开始卷了",
+        "onboard_time": 1737190998,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 405086,
+        "num": 405086,
+        "word": "女子高铁调座被后座老人用拳打头",
+        "onboard_time": 1737192018,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 857450,
+        "num": 403244,
+        "word": "TikTok公司表示白宫无保证平台只能关",
+        "onboard_time": 1737190818,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 360635,
+        "num": 360635,
+        "word": "从不吸烟的医学教授确诊肺癌晚期",
+        "onboard_time": 1737188958,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347319,
+        "num": 347319,
+        "word": "中国赴泰旅游不降反增",
+        "onboard_time": 1737192859,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 315885,
+        "num": 315885,
+        "word": "有一种中式审美叫牡丹花开",
+        "onboard_time": 1737189558,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303756,
+        "num": 303756,
+        "word": "新音灯牌",
+        "onboard_time": 1737191058,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1011551,
+        "num": 303295,
+        "word": "严浩翔裤子崩了",
+        "onboard_time": 1737191538,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 301075,
+        "num": 301075,
+        "word": "超人诞生日记",
+        "onboard_time": 1737192979,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 273981,
+        "num": 273981,
+        "word": "D3014次列车因撞鸟临时停车",
+        "onboard_time": 1737185058,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271591,
+        "num": 271591,
+        "word": "刘晓庆不语只是一味贴假睫毛",
+        "onboard_time": 1737187098,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157315,
+        "num": 263504,
+        "word": "杨紫谈接下国色芳华的原因",
+        "onboard_time": 1737179238,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257936,
+        "num": 257936,
+        "word": "杜海涛听到沈梦辰拍吻戏的反应",
+        "onboard_time": 1737185718,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234701,
+        "num": 234701,
+        "word": "美国网友说对中国的刻板印象被击碎",
+        "onboard_time": 1737183136,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210580,
+        "num": 210580,
+        "word": "射雕1月23日直播",
+        "onboard_time": 1737195198,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209478,
+        "num": 209478,
+        "word": "武艺不知道爸妈有没有离婚",
+        "onboard_time": 1737184817,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192813,
+        "num": 192813,
+        "word": "凡人修仙传正版打到盗版家门口",
+        "onboard_time": 1737195319,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 1471758,
+        "num": 192061,
+        "word": "李小冉气到发抖",
+        "onboard_time": 1737182356,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 540509,
+        "num": 191424,
+        "word": "赵樱子曝娱乐圈有一对夫妻离婚是真的",
+        "onboard_time": 1737178697,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342851,
+        "num": 190141,
+        "word": "留几手十年网红白干了",
+        "onboard_time": 1737192439,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280474,
+        "num": 189492,
+        "word": "婆婆给3个儿媳分钱不许儿子打主意",
+        "onboard_time": 1737192558,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218122,
+        "num": 188577,
+        "word": "雷军吃冻梨被冻出表情包",
+        "onboard_time": 1737192378,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 417081,
+        "num": 187059,
+        "word": "李小冉评论区沦陷",
+        "onboard_time": 1737190698,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207530,
+        "num": 186373,
+        "word": "桂瑞",
+        "onboard_time": 1737194898,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201032,
+        "num": 185174,
+        "word": "终于明白古人为什么喜欢看花灯",
+        "onboard_time": 1737195198,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200747,
+        "num": 183306,
+        "word": "桂恒",
+        "onboard_time": 1737195319,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193883,
+        "num": 182601,
+        "word": "张函瑞生图",
+        "onboard_time": 1737194660,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 331344,
+        "num": 181708,
+        "word": "微信更新了callkit了",
+        "onboard_time": 1737184517,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 181192,
+        "num": 181192,
+        "word": "漂白",
+        "onboard_time": 1737190399,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181140,
+        "num": 181140,
+        "word": "TF家族新音出图",
+        "onboard_time": 1737188478,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179057,
+        "num": 179057,
+        "word": "孙珍妮妲己幼年体",
+        "onboard_time": 1737184517,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174434,
+        "num": 174434,
+        "word": "第一批变装博主已经开始变成蛇了",
+        "onboard_time": 1737187638,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170829,
+        "num": 170829,
+        "word": "卖房后忘交接替别人交了13年电费",
+        "onboard_time": 1737190758,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160592,
+        "num": 160592,
+        "word": "狗狗用舌头给主人刮痧治病",
+        "onboard_time": 1737190338,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156276,
+        "num": 156276,
+        "word": "列车撞鸟与野猪侵入或为同一路段",
+        "onboard_time": 1737189078,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149916,
+        "num": 149916,
+        "word": "新音直播",
+        "onboard_time": 1737189978,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149355,
+        "num": 149355,
+        "word": "等你的回答",
+        "onboard_time": 1737192499,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147891,
+        "num": 147891,
+        "word": "广东都快干成厂东了",
+        "onboard_time": 1737189137,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133526,
+        "num": 133526,
+        "word": "赵今麦拍受虐戏被踩脸",
+        "onboard_time": 1737193939,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122257,
+        "num": 122257,
+        "word": "苏新皓跳恭喜发财好有年味",
+        "onboard_time": 1737194479,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119929,
+        "num": 119929,
+        "word": "异人之下2真夫妻档",
+        "onboard_time": 1737192558,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119377,
+        "num": 119377,
+        "word": "美网友哽咽哭诉天价学费账单",
+        "onboard_time": 1737175697,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117406,
+        "num": 117406,
+        "word": "卢昱晓甜甜的明媚小辣椒",
+        "onboard_time": 1737193998,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111696,
+        "num": 111696,
+        "word": "TikTok发声明",
+        "onboard_time": 1737171918,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 109661,
+        "num": 109661,
+        "word": "董明珠被停职审查系谣言",
+        "onboard_time": 1737183918,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106327,
+        "num": 106327,
+        "word": "美国妈妈为儿子向中国网友求食谱",
+        "onboard_time": 1737195258,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105265,
+        "num": 105265,
+        "word": "原神遭美方起诉赔偿2000万美元",
+        "onboard_time": 1737189198,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美两国可以成为伙伴和朋友#"
+    }
+  }
+}

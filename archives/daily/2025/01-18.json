@@ -1,6 +1,6 @@
 {
   "startTime": 1737131217967,
-  "endTime": 1737192920093,
+  "endTime": 1737195653513,
   "band_list": [
     {
       "raw_hot": 2976802,
@@ -11,8 +11,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2020082,
-      "num": 2020082,
+      "raw_hot": 2529854,
+      "num": 2529854,
       "word": "上海老人离世430万和1套房无人继承",
       "onboard_time": 1737191118,
       "rank": 8,
@@ -83,12 +83,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1008921,
+      "num": 1008921,
+      "word": "浙大毕业的网红陈娴官宣恋情",
+      "onboard_time": 1737194178,
+      "rank": 1,
+      "category": "网红"
+    },
+    {
       "raw_hot": 889677,
       "num": 1142348,
       "word": "宋祖儿方称寻人男子是寄宿家庭弟弟",
       "onboard_time": 1737156074,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 857450,
+      "num": 493029,
+      "word": "TikTok公司表示白宫无保证平台只能关",
+      "onboard_time": 1737190818,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 850511,
@@ -195,6 +211,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 618991,
+      "num": 618991,
+      "word": "美国网友开始卷了",
+      "onboard_time": 1737190998,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 612016,
       "num": 190623,
       "word": "微信更新了callkit了",
@@ -273,14 +297,6 @@
       "onboard_time": 1737158775,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 493029,
-      "num": 493029,
-      "word": "TikTok公司表示白宫无保证平台只能关",
-      "onboard_time": 1737190818,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 488899,
@@ -435,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 405086,
+      "num": 405086,
+      "word": "女子高铁调座被后座老人用拳打头",
+      "onboard_time": 1737192018,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 390511,
       "num": 242850,
       "word": "女子离婚要求分割女儿5万压岁钱",
@@ -523,6 +547,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 347319,
+      "num": 347319,
+      "word": "中国赴泰旅游不降反增",
+      "onboard_time": 1737192859,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 342851,
+      "num": 200278,
+      "word": "留几手十年网红白干了",
+      "onboard_time": 1737192439,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 339212,
       "num": 339212,
       "word": "本科毕业入伍不到1年立一等功",
@@ -587,6 +627,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 301075,
+      "num": 301075,
+      "word": "超人诞生日记",
+      "onboard_time": 1737192979,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 299207,
       "num": 248099,
       "word": "贺峻霖想消失的心达到顶峰",
@@ -625,6 +673,14 @@
       "onboard_time": 1737189978,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 280474,
+      "num": 189492,
+      "word": "婆婆给3个儿媳分钱不许儿子打主意",
+      "onboard_time": 1737192558,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 274957,
@@ -673,14 +729,6 @@
       "onboard_time": 1737162797,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 244356,
-      "num": 244356,
-      "word": "美国网友开始卷了",
-      "onboard_time": 1737190998,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 239803,
@@ -747,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218122,
+      "num": 188577,
+      "word": "雷军吃冻梨被冻出表情包",
+      "onboard_time": 1737192378,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 216035,
       "num": 255159,
       "word": "12306可快速办理临时身份证",
@@ -761,6 +817,22 @@
       "onboard_time": 1737119899,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 210580,
+      "num": 210580,
+      "word": "射雕1月23日直播",
+      "onboard_time": 1737195198,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 207530,
+      "num": 186373,
+      "word": "桂瑞",
+      "onboard_time": 1737194898,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 204189,
@@ -803,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201032,
+      "num": 185174,
+      "word": "终于明白古人为什么喜欢看花灯",
+      "onboard_time": 1737195198,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200915,
       "num": 200915,
       "word": "王源古装扮相",
@@ -811,12 +891,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200278,
-      "num": 200278,
-      "word": "留几手十年网红白干了",
-      "onboard_time": 1737192439,
+      "raw_hot": 200747,
+      "num": 183306,
+      "word": "桂恒",
+      "onboard_time": 1737195319,
       "rank": 28,
-      "category": "综艺"
+      "category": "演出"
     },
     {
       "raw_hot": 199857,
@@ -875,6 +955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193883,
+      "num": 182601,
+      "word": "张函瑞生图",
+      "onboard_time": 1737194660,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 193617,
       "num": 193617,
       "word": "狗狗用舌头给主人刮痧治病",
@@ -889,6 +977,14 @@
       "onboard_time": 1737106998,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 192813,
+      "num": 192813,
+      "word": "凡人修仙传正版打到盗版家门口",
+      "onboard_time": 1737195319,
+      "rank": 19,
+      "category": "动漫"
     },
     {
       "raw_hot": 190706,
@@ -955,14 +1051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 186254,
-      "num": 186254,
-      "word": "女子高铁调座被后座老人用拳打头",
-      "onboard_time": 1737192018,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 183509,
       "num": 120333,
       "word": "TF家族新年音乐会内场",
@@ -993,6 +1081,14 @@
       "onboard_time": 1737181457,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 181192,
+      "num": 181192,
+      "word": "漂白",
+      "onboard_time": 1737115218,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 180128,
@@ -1091,12 +1187,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 168942,
-      "num": 168942,
-      "word": "漂白",
-      "onboard_time": 1737115218,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 170829,
+      "num": 170829,
+      "word": "卖房后忘交接替别人交了13年电费",
+      "onboard_time": 1737190758,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167924,
@@ -1283,14 +1379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148704,
-      "num": 148704,
-      "word": "卖房后忘交接替别人交了13年电费",
-      "onboard_time": 1737190758,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 148437,
       "num": 168525,
       "word": "漂白大厂式管理流程化犯罪",
@@ -1305,6 +1393,14 @@
       "onboard_time": 1737161176,
       "rank": 26,
       "category": "网红"
+    },
+    {
+      "raw_hot": 147891,
+      "num": 147891,
+      "word": "广东都快干成厂东了",
+      "onboard_time": 1737189137,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147728,
@@ -1369,14 +1465,6 @@
       "onboard_time": 1737170898,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 141446,
-      "num": 141446,
-      "word": "广东都快干成厂东了",
-      "onboard_time": 1737189137,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 139450,
@@ -1467,20 +1555,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 134743,
-      "num": 134743,
-      "word": "婆婆给3个儿媳分钱不许儿子打主意",
-      "onboard_time": 1737192558,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134064,
       "num": 134064,
       "word": "东北cos是不是都穿这件衣服",
       "onboard_time": 1737176598,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133526,
+      "num": 133526,
+      "word": "赵今麦拍受虐戏被踩脸",
+      "onboard_time": 1737193939,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 132877,
@@ -1571,6 +1659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122257,
+      "num": 122257,
+      "word": "苏新皓跳恭喜发财好有年味",
+      "onboard_time": 1737194479,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 122024,
       "num": 122024,
       "word": "俄罗斯伊朗签署全面战略伙伴关系条约",
@@ -1627,6 +1723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119929,
+      "num": 119929,
+      "word": "异人之下2真夫妻档",
+      "onboard_time": 1737192558,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119635,
       "num": 769643,
       "word": "给老外亿点中式美学震撼",
@@ -1649,6 +1753,14 @@
       "onboard_time": 1737128479,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117406,
+      "num": 117406,
+      "word": "卢昱晓甜甜的明媚小辣椒",
+      "onboard_time": 1737193998,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 117375,
@@ -1681,14 +1793,6 @@
       "onboard_time": 1737119659,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 116127,
-      "num": 116127,
-      "word": "中国赴泰旅游不降反增",
-      "onboard_time": 1737192859,
-      "rank": 46,
-      "category": "旅游"
     },
     {
       "raw_hot": 115962,
@@ -1785,6 +1889,14 @@
       "onboard_time": 1737190518,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106327,
+      "num": 106327,
+      "word": "美国妈妈为儿子向中国网友求食谱",
+      "onboard_time": 1737195258,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106069,
