@@ -1,0 +1,410 @@
+{
+  "runTime": 1737192039555,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2024849,
+        "num": 2024849,
+        "word": "李小冉气到发抖",
+        "onboard_time": 1737182356,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 867564,
+        "num": 867564,
+        "word": "D3014次列车因撞鸟临时停车",
+        "onboard_time": 1737185058,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112914,
+        "num": 547590,
+        "word": "给老外亿点中式美学震撼",
+        "onboard_time": 1737188718,
+        "rank": 2,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 509907,
+        "num": 509907,
+        "word": "杜海涛听到沈梦辰拍吻戏的反应",
+        "onboard_time": 1737185718,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 506544,
+        "num": 506544,
+        "word": "从不吸烟的医学教授确诊肺癌晚期",
+        "onboard_time": 1737188958,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 458249,
+        "num": 458249,
+        "word": "第一批变装博主已经开始变成蛇了",
+        "onboard_time": 1737187638,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 506153,
+        "num": 457483,
+        "word": "TF家族新音出图",
+        "onboard_time": 1737188478,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 456628,
+        "num": 456628,
+        "word": "刘晓庆不语只是一味贴假睫毛",
+        "onboard_time": 1737187098,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 454741,
+        "num": 454741,
+        "word": "上海老人离世430万和1套房无人继承",
+        "onboard_time": 1737191118,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369822,
+        "num": 429774,
+        "word": "列车撞鸟与野猪侵入或为同一路段",
+        "onboard_time": 1737189078,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422215,
+        "num": 422215,
+        "word": "虞书欣回复外国网友",
+        "onboard_time": 1737186259,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377604,
+        "num": 377604,
+        "word": "有一种中式审美叫牡丹花开",
+        "onboard_time": 1737189558,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 807806,
+        "num": 377325,
+        "word": "刘晓庆迟到两小时全员等待",
+        "onboard_time": 1737185538,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376740,
+        "num": 376740,
+        "word": "严浩翔裤子崩了",
+        "onboard_time": 1737191538,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 365086,
+        "num": 365086,
+        "word": "美国网友说对中国的刻板印象被击碎",
+        "onboard_time": 1737183136,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308378,
+        "num": 308378,
+        "word": "TikTok发声明",
+        "onboard_time": 1737171918,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 283926,
+        "num": 283926,
+        "word": "武艺不知道爸妈有没有离婚",
+        "onboard_time": 1737184817,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282103,
+        "num": 282103,
+        "word": "新音直播",
+        "onboard_time": 1737189978,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 270141,
+        "num": 270141,
+        "word": "TikTok公司表示白宫无保证平台只能关",
+        "onboard_time": 1737190818,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 198017,
+        "num": 198017,
+        "word": "美网友哽咽哭诉天价学费账单",
+        "onboard_time": 1737175697,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 509146,
+        "num": 197994,
+        "word": "赵樱子曝娱乐圈有一对夫妻离婚是真的",
+        "onboard_time": 1737178697,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440443,
+        "num": 197878,
+        "word": "李小冉评论区沦陷",
+        "onboard_time": 1737190698,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275012,
+        "num": 197791,
+        "word": "杨紫谈接下国色芳华的原因",
+        "onboard_time": 1737179238,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268638,
+        "num": 197672,
+        "word": "新音灯牌",
+        "onboard_time": 1737191058,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 32850,
+        "num": 197623,
+        "word": "澳网男单4号种子爆冷出局",
+        "onboard_time": 1737185177,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259590,
+        "num": 197489,
+        "word": "孙珍妮妲己幼年体",
+        "onboard_time": 1737184517,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213800,
+        "num": 197412,
+        "word": "戴眼镜化妆丑的女生有福了",
+        "onboard_time": 1737180557,
+        "rank": 26,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 203745,
+        "num": 197284,
+        "word": "苏新皓白衬衫黑领带",
+        "onboard_time": 1737191598,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197270,
+        "num": 197270,
+        "word": "TF家族新音",
+        "onboard_time": 1737190879,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193617,
+        "num": 193617,
+        "word": "狗狗用舌头给主人刮痧治病",
+        "onboard_time": 1737190338,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 403108,
+        "num": 190623,
+        "word": "微信更新了callkit了",
+        "onboard_time": 1737184517,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 185631,
+        "num": 185631,
+        "word": "董明珠被停职审查系谣言",
+        "onboard_time": 1737183918,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175595,
+        "num": 175595,
+        "word": "美国网友开始卷了",
+        "onboard_time": 1737190998,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 170914,
+        "num": 170914,
+        "word": "原神遭美方起诉赔偿2000万美元",
+        "onboard_time": 1737189198,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168942,
+        "num": 168942,
+        "word": "漂白",
+        "onboard_time": 1737190399,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165522,
+        "num": 165522,
+        "word": "时代少年团最单纯美好的笑容",
+        "onboard_time": 1737191058,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166006,
+        "num": 162002,
+        "word": "漂白独居女性正成为犯罪目标",
+        "onboard_time": 1737187938,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151918,
+        "num": 151918,
+        "word": "五福临门全员跳九万字",
+        "onboard_time": 1737191417,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147530,
+        "num": 147530,
+        "word": "母亲卖苕皮一分一分为孩子攒药费",
+        "onboard_time": 1737184877,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141446,
+        "num": 141446,
+        "word": "广东都快干成厂东了",
+        "onboard_time": 1737189137,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139301,
+        "num": 139301,
+        "word": "东方茯苓和小兰花",
+        "onboard_time": 1737182897,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128585,
+        "num": 128585,
+        "word": "时团新音全白look",
+        "onboard_time": 1737189678,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127396,
+        "num": 127396,
+        "word": "卖房后忘交接替别人交了13年电费",
+        "onboard_time": 1737190758,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124098,
+        "num": 124098,
+        "word": "22岁脑瘫女孩街头卖发卡2元一个",
+        "onboard_time": 1737174860,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123562,
+        "num": 123562,
+        "word": "李昀锐说自己28了不是宝宝了",
+        "onboard_time": 1737180438,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114931,
+        "num": 114931,
+        "word": "李子柒邀你同看2025中国网络视听盛典",
+        "onboard_time": 1737184578,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114730,
+        "num": 114730,
+        "word": "朱志鑫 Right Now",
+        "onboard_time": 1737189137,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108981,
+        "num": 108981,
+        "word": "女子高铁调座被后座老人用拳打头",
+        "onboard_time": 1737192018,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108574,
+        "num": 108574,
+        "word": "女子离婚要求分割女儿5万压岁钱",
+        "onboard_time": 1737171259,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106716,
+        "num": 106716,
+        "word": "陈浚铭 希望今天可以惊艳到大家",
+        "onboard_time": 1737190518,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同苏林梁强就中越建交75周年互致贺电#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/18 16:38:00
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/18 17:20:39
 </p>
 </blockquote>
 <p>
@@ -4275,6 +4275,12 @@ B站拿下春晚转播权（热度：825759）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%99%93%E5%BA%86%E8%BF%9F%E5%88%B0%E4%B8%A4%E5%B0%8F%E6%97%B6%E5%85%A8%E5%91%98%E7%AD%89%E5%BE%85%23" target="weibo">
+刘晓庆迟到两小时全员等待（热度：807806）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E4%B9%8B%E5%AD%902%E4%B8%87%E7%BE%8E%E5%85%83%E6%9C%88%E7%A7%9F%E8%B1%AA%E5%AE%85%E7%83%A7%E6%88%90%E7%A2%8E%E7%9F%B3%23" target="weibo">
 拜登之子2万美元月租豪宅烧成碎石（热度：807157）
 </a>
@@ -6005,12 +6011,6 @@ SM新男团（热度：642706）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%BA%A2%E4%B9%A6%E6%A6%82%E5%BF%B5%E7%88%86%E5%8F%91%23" target="weibo">
 小红书概念爆发（热度：629919）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%20%E8%B5%B0%E4%BD%A0%23" target="weibo">
-虞书欣 走你（热度：629359）
 </a>
 </li>
 
