@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/18 09:52:30
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/18 10:42:40
 </p>
 </blockquote>
 <p>
@@ -4023,6 +4023,12 @@ R1SE舞台（热度：868936）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AE%A1%E6%99%A8%E8%BE%B0%E5%9B%A0%E4%BC%A4%E5%8F%A3%E9%92%A2%E6%9D%BF%E6%96%AD%E6%8E%89%E5%86%8D%E6%AC%A1%E6%89%8B%E6%9C%AF%23" target="weibo">
+管晨辰因伤口钢板断掉再次手术（热度：834673）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E8%A7%86%E5%89%A7%E8%BD%A7%E6%88%8F%23" target="weibo">
 电视剧轧戏（热度：832820）
 </a>
@@ -5943,6 +5949,12 @@ SM新男团（热度：642706）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BB%B4%E5%88%9A%E6%89%BF%E8%AE%A4%E5%B8%A6%E8%B4%A7%E5%8E%9F%E5%88%87%E7%89%9B%E8%82%89%E5%8D%B7%E4%B8%BA%E5%90%88%E6%88%90%E8%82%89%23" target="weibo">
+李维刚承认带货原切牛肉卷为合成肉（热度：628132）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC6.7%E7%BA%A7%E5%B7%A6%E5%8F%B3%E5%9C%B0%E9%9C%87%23" target="weibo">
 日本6.7级左右地震（热度：627690）
 </a>
@@ -5999,18 +6011,6 @@ aespa宁宁减肥前后对比（热度：623921）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%88%97%E5%85%A5%E7%BE%8E%E5%9B%BD%E9%98%B2%E9%83%A8%E5%90%8D%E5%8D%95%23" target="weibo">
 腾讯回应被列入美国防部名单（热度：622609）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%9C%B0%E5%9B%BE%E5%B0%86%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%A0%87%E4%B8%BA%E7%BE%8E%E5%9B%BD%23" target="weibo">
-特朗普发地图将加拿大标为美国（热度：621181）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%91%98%E5%B7%A5%E4%BC%AA%E9%80%A0%E6%80%80%E5%AD%95B%E8%B6%85%E5%8D%95%E9%80%83%E9%81%BF%E6%9C%8D%E5%88%91%23" target="weibo">
-女员工伪造怀孕B超单逃避服刑（热度：620993）
 </a>
 </li>
 
