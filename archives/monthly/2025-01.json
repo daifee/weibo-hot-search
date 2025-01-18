@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737198998809,
+  "endTime": 1737200127794,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -4723,6 +4723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 933548,
+      "num": 833599,
+      "word": "留几手十年网红白干了",
+      "onboard_time": 1737192439,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 931934,
       "num": 1149109,
       "word": "半亩花田 孙颖莎",
@@ -5131,6 +5139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 873777,
+      "num": 873777,
+      "word": "唐尚珺大学第一学期成绩",
+      "onboard_time": 1737198018,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 872790,
       "num": 872790,
       "word": "哪吒汽车",
@@ -5441,14 +5457,6 @@
       "onboard_time": 1737163817,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 833599,
-      "num": 833599,
-      "word": "留几手十年网红白干了",
-      "onboard_time": 1737192439,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 832820,
@@ -8931,14 +8939,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 584349,
-      "num": 369517,
-      "word": "唐尚珺大学第一学期成绩",
-      "onboard_time": 1737198018,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 582228,
       "num": 582228,
       "word": "李现最近又爱上了小烧烤",
@@ -12227,6 +12227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 430482,
+      "num": 390361,
+      "word": "左邓",
+      "onboard_time": 1737195978,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 430125,
       "num": 430125,
       "word": "夏之光晒和代露娃合照",
@@ -12321,14 +12329,6 @@
       "onboard_time": 1736565200,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 427336,
-      "num": 390361,
-      "word": "左邓",
-      "onboard_time": 1737195978,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 427080,
@@ -14337,6 +14337,14 @@
       "onboard_time": 1736989399,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 368708,
+      "num": 368708,
+      "word": "朱志鑫头上有6个卡子",
+      "onboard_time": 1737198018,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 368664,
@@ -16580,7 +16588,7 @@
     },
     {
       "raw_hot": 316188,
-      "num": 205046,
+      "num": 219736,
       "word": "婆婆给3个儿媳分钱不许儿子打主意",
       "onboard_time": 1737192558,
       "rank": 41,
@@ -21179,6 +21187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241493,
+      "num": 369974,
+      "word": "卖房后忘交接替别人交了13年电费",
+      "onboard_time": 1737190758,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 241476,
       "num": 229492,
       "word": "敖瑞鹏写真",
@@ -24107,14 +24123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 209554,
-      "num": 209554,
-      "word": "朱志鑫头上有6个卡子",
-      "onboard_time": 1737198018,
-      "rank": 19,
-      "category": "演出"
-    },
-    {
       "raw_hot": 209487,
       "num": 284820,
       "word": "樊振东发表获奖感言",
@@ -24249,6 +24257,14 @@
       "onboard_time": 1736507001,
       "rank": 28,
       "category": "游戏,财经"
+    },
+    {
+      "raw_hot": 208660,
+      "num": 242256,
+      "word": "guilty合作舞台",
+      "onboard_time": 1737198677,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 208651,
@@ -25937,6 +25953,14 @@
       "onboard_time": 1736685560,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 199117,
+      "num": 199117,
+      "word": "异人之下2让严屹宽演爽了",
+      "onboard_time": 1737199159,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 199099,
@@ -27785,6 +27809,14 @@
       "onboard_time": 1735878142,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 190294,
+      "num": 190294,
+      "word": "朱志鑫苏新皓Guilty双人part",
+      "onboard_time": 1737199159,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 190228,
@@ -29947,6 +29979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178310,
+      "num": 178310,
+      "word": "陈哲远现场人气",
+      "onboard_time": 1737199097,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178207,
       "num": 178207,
       "word": "小俞 AG",
@@ -30361,14 +30401,6 @@
       "onboard_time": 1736348425,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 176193,
-      "num": 176193,
-      "word": "guilty合作舞台",
-      "onboard_time": 1737198677,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 176167,
@@ -31417,14 +31449,6 @@
       "onboard_time": 1736690902,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 170829,
-      "num": 369974,
-      "word": "卖房后忘交接替别人交了13年电费",
-      "onboard_time": 1737190758,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 170774,
@@ -33155,6 +33179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161865,
+      "num": 210880,
+      "word": "王楚钦送蛇年祝福",
+      "onboard_time": 1737198618,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161831,
       "num": 161831,
       "word": "中国集数最多的十三部电视剧",
@@ -33465,6 +33497,14 @@
       "onboard_time": 1736168843,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160558,
+      "num": 241295,
+      "word": "王一博MV滑雪板是苏翊鸣送的",
+      "onboard_time": 1737197119,
+      "rank": 19,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 160549,
@@ -33817,6 +33857,14 @@
       "onboard_time": 1736663899,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 158608,
+      "num": 158608,
+      "word": "白月梵星失忆哥清醒嫂茶味弟",
+      "onboard_time": 1737198677,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 158533,
@@ -36011,14 +36059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147864,
-      "num": 147864,
-      "word": "白月梵星失忆哥清醒嫂茶味弟",
-      "onboard_time": 1737198677,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 147807,
       "num": 147807,
       "word": "成都太古里偶遇刘宪华",
@@ -37707,6 +37747,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 139794,
+      "num": 209452,
+      "word": "管晨辰踩到网球崴脚复诊钢板断了",
+      "onboard_time": 1737198200,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139738,
       "num": 139738,
       "word": "央视揭问题肉毒素乱象",
@@ -38985,6 +39033,14 @@
       "onboard_time": 1736234062,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 134419,
+      "num": 134419,
+      "word": "异人之下2收留心碎IP粉",
+      "onboard_time": 1737199878,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 134396,
@@ -40819,6 +40875,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 126126,
+      "num": 126126,
+      "word": "丁程鑫 露额头",
+      "onboard_time": 1737198618,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 126120,
       "num": 126120,
       "word": "曝孟子义李昀锐都参加湖南卫视小年夜",
@@ -40833,14 +40897,6 @@
       "onboard_time": 1736468420,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 126091,
-      "num": 126091,
-      "word": "丁程鑫 露额头",
-      "onboard_time": 1737198618,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 126089,
@@ -44147,6 +44203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111995,
+      "num": 111995,
+      "word": "张函瑞腹肌",
+      "onboard_time": 1737200058,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 111965,
       "num": 111965,
       "word": "果然没人能拒绝好运的诱惑",
@@ -44433,14 +44497,6 @@
       "onboard_time": 1736435362,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 110656,
-      "num": 209452,
-      "word": "管晨辰踩到网球崴脚复诊钢板断了",
-      "onboard_time": 1737198200,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 110621,
@@ -51601,6 +51657,14 @@
       "onboard_time": 1736756479,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52821,
+      "num": 363110,
+      "word": "SpaceX星舰升空后飞船解体失联",
+      "onboard_time": 1737199818,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 52780,

@@ -1,6 +1,6 @@
 {
   "startTime": 1737131217967,
-  "endTime": 1737198998809,
+  "endTime": 1737200127794,
   "band_list": [
     {
       "raw_hot": 2976802,
@@ -91,12 +91,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 933548,
+      "num": 833599,
+      "word": "留几手十年网红白干了",
+      "onboard_time": 1737192439,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 889677,
       "num": 1142348,
       "word": "宋祖儿方称寻人男子是寄宿家庭弟弟",
       "onboard_time": 1737156074,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 873777,
+      "num": 873777,
+      "word": "唐尚珺大学第一学期成绩",
+      "onboard_time": 1737198018,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 857450,
@@ -121,14 +137,6 @@
       "onboard_time": 1737163817,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 833599,
-      "num": 833599,
-      "word": "留几手十年网红白干了",
-      "onboard_time": 1737192439,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 824938,
@@ -265,14 +273,6 @@
       "onboard_time": 1737136994,
       "rank": 30,
       "category": "民生新闻,国际时政"
-    },
-    {
-      "raw_hot": 584349,
-      "num": 369517,
-      "word": "唐尚珺大学第一学期成绩",
-      "onboard_time": 1737198018,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 538599,
@@ -419,6 +419,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 430482,
+      "num": 390361,
+      "word": "左邓",
+      "onboard_time": 1737195978,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 429364,
       "num": 391270,
       "word": "杨紫谈接下国色芳华的原因",
@@ -433,14 +441,6 @@
       "onboard_time": 1737128537,
       "rank": 5,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 427336,
-      "num": 390361,
-      "word": "左邓",
-      "onboard_time": 1737195978,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 417273,
@@ -547,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 368708,
+      "num": 368708,
+      "word": "朱志鑫头上有6个卡子",
+      "onboard_time": 1737198018,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 365606,
       "num": 157607,
       "word": "在上海花2000买一个黑天鹅生日蛋糕",
@@ -636,7 +644,7 @@
     },
     {
       "raw_hot": 316188,
-      "num": 205046,
+      "num": 219736,
       "word": "婆婆给3个儿媳分钱不许儿子打主意",
       "onboard_time": 1737192558,
       "rank": 41,
@@ -795,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241493,
+      "num": 369974,
+      "word": "卖房后忘交接替别人交了13年电费",
+      "onboard_time": 1737190758,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239803,
       "num": 189493,
       "word": "张远看再见爱人4是我的脸替",
@@ -891,11 +907,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 209554,
-      "num": 209554,
-      "word": "朱志鑫头上有6个卡子",
-      "onboard_time": 1737198018,
-      "rank": 19,
+      "raw_hot": 208660,
+      "num": 242256,
+      "word": "guilty合作舞台",
+      "onboard_time": 1737198677,
+      "rank": 31,
       "category": "演出"
     },
     {
@@ -983,6 +999,14 @@
       "num": 199857,
       "word": "王星越领衔主演五福临门",
       "onboard_time": 1737174437,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 199117,
+      "num": 199117,
+      "word": "异人之下2让严屹宽演爽了",
+      "onboard_time": 1737199159,
       "rank": 27,
       "category": "剧集"
     },
@@ -1081,6 +1105,14 @@
       "onboard_time": 1737184517,
       "rank": 17,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 190294,
+      "num": 190294,
+      "word": "朱志鑫苏新皓Guilty双人part",
+      "onboard_time": 1737199159,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 189692,
@@ -1195,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178310,
+      "num": 178310,
+      "word": "陈哲远现场人气",
+      "onboard_time": 1737199097,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178145,
       "num": 252377,
       "word": "美国网友大赞中国人民太热情友好了",
@@ -1225,14 +1265,6 @@
       "onboard_time": 1737189198,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176193,
-      "num": 176193,
-      "word": "guilty合作舞台",
-      "onboard_time": 1737198677,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 175950,
@@ -1281,14 +1313,6 @@
       "onboard_time": 1737189198,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 170829,
-      "num": 369974,
-      "word": "卖房后忘交接替别人交了13年电费",
-      "onboard_time": 1737190758,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 167924,
@@ -1403,6 +1427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161865,
+      "num": 210880,
+      "word": "王楚钦送蛇年祝福",
+      "onboard_time": 1737198618,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161042,
       "num": 161042,
       "word": "张雅钦国色芳华人生镜头",
@@ -1425,6 +1457,14 @@
       "onboard_time": 1737177858,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160558,
+      "num": 241295,
+      "word": "王一博MV滑雪板是苏翊鸣送的",
+      "onboard_time": 1737197119,
+      "rank": 19,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 160549,
@@ -1465,6 +1505,14 @@
       "onboard_time": 1737189137,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158608,
+      "num": 158608,
+      "word": "白月梵星失忆哥清醒嫂茶味弟",
+      "onboard_time": 1737198677,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 153903,
@@ -1521,14 +1569,6 @@
       "onboard_time": 1737161176,
       "rank": 26,
       "category": "网红"
-    },
-    {
-      "raw_hot": 147864,
-      "num": 147864,
-      "word": "白月梵星失忆哥清醒嫂茶味弟",
-      "onboard_time": 1737198677,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 147728,
@@ -1593,6 +1633,14 @@
       "onboard_time": 1737170898,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 139794,
+      "num": 209452,
+      "word": "管晨辰踩到网球崴脚复诊钢板断了",
+      "onboard_time": 1737198200,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 139450,
@@ -1699,6 +1747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134419,
+      "num": 134419,
+      "word": "异人之下2收留心碎IP粉",
+      "onboard_time": 1737199878,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134064,
       "num": 134064,
       "word": "东北cos是不是都穿这件衣服",
@@ -1771,8 +1827,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126091,
-      "num": 126091,
+      "raw_hot": 126126,
+      "num": 126126,
       "word": "丁程鑫 露额头",
       "onboard_time": 1737198618,
       "rank": 44,
@@ -2043,20 +2099,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111995,
+      "num": 111995,
+      "word": "张函瑞腹肌",
+      "onboard_time": 1737200058,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 110903,
       "num": 110903,
       "word": "泰总理用中文向游客保证安全",
       "onboard_time": 1737160577,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 110656,
-      "num": 209452,
-      "word": "管晨辰踩到网球崴脚复诊钢板断了",
-      "onboard_time": 1737198200,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 106975,
@@ -2553,6 +2609,14 @@
       "onboard_time": 1737155714,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 52821,
+      "num": 363110,
+      "word": "SpaceX星舰升空后飞船解体失联",
+      "onboard_time": 1737199818,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 48504,
