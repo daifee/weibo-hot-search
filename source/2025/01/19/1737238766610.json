@@ -1,0 +1,410 @@
+{
+  "runTime": 1737238766610,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 246924,
+        "num": 370132,
+        "word": "央视曝断骨增高灰色产业链",
+        "onboard_time": 1737222734,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119160,
+        "num": 119160,
+        "word": "丈夫称晓华不会上春晚舞台",
+        "onboard_time": 1737233950,
+        "rank": 1,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 18268,
+        "num": 85038,
+        "word": "16架C919投入春运",
+        "onboard_time": 1737211581,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70098,
+        "num": 70098,
+        "word": "麦琳杨子留几手3人连麦违规",
+        "onboard_time": 1737211040,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67846,
+        "num": 67846,
+        "word": "上海老人离世430万和1套房无人继承",
+        "onboard_time": 1737191118,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58748,
+        "num": 58748,
+        "word": "西藏日喀则4.6级地震",
+        "onboard_time": 1737217158,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 53704,
+        "num": 53704,
+        "word": "大奉打更人第二季",
+        "onboard_time": 1737213020,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50340,
+        "num": 50340,
+        "word": "全国出生人口7年来首次回升",
+        "onboard_time": 1737222853,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49352,
+        "num": 49352,
+        "word": "谁敢相信这是71岁的赵雅芝",
+        "onboard_time": 1737205520,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40352,
+        "num": 40352,
+        "word": "第一批学中国菜的外国人交作业了",
+        "onboard_time": 1737232750,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47223,
+        "num": 40148,
+        "word": "TikTok公司表示白宫无保证平台只能关",
+        "onboard_time": 1737190818,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39769,
+        "num": 39769,
+        "word": "给美国网友一点中华文化震撼",
+        "onboard_time": 1737225552,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37204,
+        "num": 37204,
+        "word": "36岁相声演员许兆呈脑出血离世",
+        "onboard_time": 1737206961,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36069,
+        "num": 36069,
+        "word": "患渐冻症容貌巨变女生已无法说话",
+        "onboard_time": 1737204978,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35918,
+        "num": 35918,
+        "word": "赵今麦演出了破天的倒灌感",
+        "onboard_time": 1737214160,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35411,
+        "num": 35411,
+        "word": "陈奕迅在表演时疑似嗑瓜子",
+        "onboard_time": 1737208101,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35405,
+        "num": 35405,
+        "word": "女子假扮机器人回家被村里人介绍对象",
+        "onboard_time": 1737207800,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28626,
+        "num": 28626,
+        "word": "白烁梵樾圆房",
+        "onboard_time": 1737207381,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27420,
+        "num": 27420,
+        "word": "美国网友开始卷了",
+        "onboard_time": 1737190998,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 26091,
+        "num": 26091,
+        "word": "解放军南部战区位南海海域联合海空战巡",
+        "onboard_time": 1737214579,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 75794,
+        "num": 25994,
+        "word": "李小冉气到发抖",
+        "onboard_time": 1737182356,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74669,
+        "num": 25612,
+        "word": "女子出国做断骨增高腿喷脓",
+        "onboard_time": 1737207261,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29385,
+        "num": 25296,
+        "word": "都四九天了今年还会冷吗",
+        "onboard_time": 1737205161,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29157,
+        "num": 24967,
+        "word": "刘宇宁 直播开怼",
+        "onboard_time": 1737213320,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24857,
+        "num": 24857,
+        "word": "联合国总部电梯坏了5个月终于修好了",
+        "onboard_time": 1737216977,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24617,
+        "num": 24617,
+        "word": "李小冉说向太胖",
+        "onboard_time": 1737236771,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23024,
+        "num": 23024,
+        "word": "张云雷断眉造型",
+        "onboard_time": 1737218237,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22958,
+        "num": 22958,
+        "word": "海边这种爆爆珠不建议rua",
+        "onboard_time": 1737206322,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22449,
+        "num": 22449,
+        "word": "倪萍蔡明蛐蛐刘晓庆",
+        "onboard_time": 1737212420,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21761,
+        "num": 21761,
+        "word": "国色芳华单集收视创新高",
+        "onboard_time": 1737210261,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21213,
+        "num": 21213,
+        "word": "任何搅局南海的军事活动尽在掌握之中",
+        "onboard_time": 1737217697,
+        "rank": 30,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 20838,
+        "num": 20838,
+        "word": "赵丽颖杜莎夫人沈璃蜡像亮相",
+        "onboard_time": 1737201679,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20613,
+        "num": 20613,
+        "word": "请永远将自己的感觉置顶",
+        "onboard_time": 1737219015,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18641,
+        "num": 18641,
+        "word": "深圳海滩出现一片褐色泡泡",
+        "onboard_time": 1737207680,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17587,
+        "num": 18640,
+        "word": "广东都快干成厂东了",
+        "onboard_time": 1737189137,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17579,
+        "num": 18639,
+        "word": "射雕英雄传侠之大者时长146分钟",
+        "onboard_time": 1737232632,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16977,
+        "num": 18636,
+        "word": "敖瑞鹏说求天道眷顾梵樾",
+        "onboard_time": 1737216138,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16809,
+        "num": 18634,
+        "word": "再过10天就是蛇年春节",
+        "onboard_time": 1737220635,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16330,
+        "num": 18634,
+        "word": "漂白",
+        "onboard_time": 1737190399,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16077,
+        "num": 18631,
+        "word": "布伦特福德vs利物浦",
+        "onboard_time": 1737220335,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15608,
+        "num": 18630,
+        "word": "国色芳华预告",
+        "onboard_time": 1737205520,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15263,
+        "num": 18627,
+        "word": "为吸引韩国游客上海火锅店店员学会APT了",
+        "onboard_time": 1737221893,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15005,
+        "num": 18625,
+        "word": "腾讯视频短剧春节档",
+        "onboard_time": 1737235339,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14908,
+        "num": 18622,
+        "word": "俩小孩扔作业被提醒撒腿就跑",
+        "onboard_time": 1737226752,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13363,
+        "num": 18620,
+        "word": "热心网友教老外快速入门北京话",
+        "onboard_time": 1737235151,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13076,
+        "num": 18620,
+        "word": "卡车猫王将带父亲和13只猫出去散心",
+        "onboard_time": 1737231551,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13021,
+        "num": 18617,
+        "word": "张峻豪发言",
+        "onboard_time": 1737218536,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 11887,
+        "num": 18614,
+        "word": "文轩",
+        "onboard_time": 1737208340,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 11314,
+        "num": 18613,
+        "word": "田曦薇不语只一味的甜",
+        "onboard_time": 1737210380,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9204,
+        "num": 18611,
+        "word": "明日方舟",
+        "onboard_time": 1737197539,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全军老同志祝贺新春#"
+    }
+  }
+}
