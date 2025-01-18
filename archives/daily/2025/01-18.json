@@ -1,6 +1,6 @@
 {
   "startTime": 1737131217967,
-  "endTime": 1737185726981,
+  "endTime": 1737188705409,
   "band_list": [
     {
       "raw_hot": 2976802,
@@ -57,6 +57,14 @@
       "onboard_time": 1737175697,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1020662,
+      "num": 1020662,
+      "word": "D3014次列车因撞鸟临时停车",
+      "onboard_time": 1737185058,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 889677,
@@ -155,6 +163,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 626230,
+      "num": 278171,
+      "word": "杜海涛听到沈梦辰拍吻戏的反应",
+      "onboard_time": 1737185718,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 612016,
       "num": 177394,
       "word": "微信更新了callkit了",
@@ -187,12 +203,28 @@
       "category": "民生新闻,国际时政"
     },
     {
+      "raw_hot": 592290,
+      "num": 258607,
+      "word": "刘晓庆迟到两小时全员等待",
+      "onboard_time": 1737185538,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 520414,
       "num": 457391,
       "word": "五福临门官宣定档",
       "onboard_time": 1737167718,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 518629,
+      "num": 244382,
+      "word": "虞书欣回复外国网友",
+      "onboard_time": 1737186259,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 514856,
@@ -225,6 +257,14 @@
       "onboard_time": 1737172759,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 466698,
+      "num": 235695,
+      "word": "武艺不知道爸妈有没有离婚",
+      "onboard_time": 1737184817,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 466448,
@@ -403,14 +443,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 333449,
-      "num": 227528,
-      "word": "武艺不知道爸妈有没有离婚",
-      "onboard_time": 1737184817,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 333236,
       "num": 333236,
       "word": "小胖回城特效",
@@ -435,20 +467,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 327059,
+      "num": 327059,
+      "word": "董明珠被停职审查系谣言",
+      "onboard_time": 1737183918,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 321307,
       "num": 281641,
       "word": "李昀锐说自己28了不是宝宝了",
       "onboard_time": 1737180438,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 317965,
-      "num": 317965,
-      "word": "董明珠被停职审查系谣言",
-      "onboard_time": 1737183918,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 311813,
@@ -483,6 +515,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 284921,
+      "num": 136333,
+      "word": "刘晓庆不语只是一味贴假睫毛",
+      "onboard_time": 1737187098,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284503,
       "num": 284503,
       "word": "漂白第1集杀疯了",
@@ -504,6 +544,14 @@
       "word": "中美网友互发家人照片",
       "onboard_time": 1737179538,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 270202,
+      "num": 270202,
+      "word": "第一批变装博主已经开始变成蛇了",
+      "onboard_time": 1737187638,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -595,14 +643,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 220195,
-      "num": 198219,
-      "word": "刘晓庆迟到两小时全员等待",
-      "onboard_time": 1737185538,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 220047,
       "num": 220047,
       "word": "王传君齐溪出演异人之下2",
@@ -635,20 +675,36 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 204687,
-      "num": 204687,
-      "word": "D3014次列车因撞鸟临时停车",
-      "onboard_time": 1737185058,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 204189,
       "num": 204189,
       "word": "6名泰缅边境失联被困中国公民回国",
       "onboard_time": 1737107958,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 204177,
+      "num": 133870,
+      "word": "漂白独居女性正成为犯罪目标",
+      "onboard_time": 1737187938,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 203701,
+      "num": 203701,
+      "word": "光与夜之恋 齐司礼",
+      "onboard_time": 1737186378,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 202348,
+      "num": 133122,
+      "word": "刘诗诗从特别的角度好好认识了水獭",
+      "onboard_time": 1737188358,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 200915,
@@ -761,6 +817,14 @@
       "onboard_time": 1737176598,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183269,
+      "num": 132807,
+      "word": "孙艺洲婉拒和郭京飞徒步十公里",
+      "onboard_time": 1737186196,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 182765,
@@ -987,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155566,
+      "num": 131728,
+      "word": "TF家族新音出图",
+      "onboard_time": 1737188478,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153903,
       "num": 153903,
       "word": "这么多人偏偏让他站了C位",
@@ -1099,6 +1171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 137341,
+      "num": 137341,
+      "word": "母亲卖苕皮一分一分为孩子攒药费",
+      "onboard_time": 1737184877,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137205,
       "num": 137205,
       "word": "漂白",
@@ -1121,14 +1201,6 @@
       "onboard_time": 1737116058,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136633,
-      "num": 136633,
-      "word": "母亲卖苕皮一分一分为孩子攒药费",
-      "onboard_time": 1737184877,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 136397,
@@ -1192,6 +1264,14 @@
       "word": "王鹤棣这个镜头一眼万年",
       "onboard_time": 1737159975,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 131079,
+      "num": 131079,
+      "word": "谁家男主吃一顿饭认了六个爸",
+      "onboard_time": 1737188358,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -1329,6 +1409,14 @@
       "onboard_time": 1737128479,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117937,
+      "num": 117937,
+      "word": "卢昱晓王星越手势舞",
+      "onboard_time": 1737188238,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 117375,
@@ -1587,6 +1675,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 90239,
+      "num": 90239,
+      "word": "美国网友开始给中国李华回信",
+      "onboard_time": 1737187578,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89197,
       "num": 89197,
       "word": "特朗普多次公开支持TikTok",
@@ -1675,6 +1771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82695,
+      "num": 82695,
+      "word": "拉塞尔真想绝杀湖人",
+      "onboard_time": 1737186439,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79816,
       "num": 79816,
       "word": "2025狮子座好运清单",
@@ -1739,6 +1843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73785,
+      "num": 470351,
+      "word": "过年食谱被安排得明明白白",
+      "onboard_time": 1737172277,
+      "rank": 2,
+      "category": "美食"
+    },
+    {
       "raw_hot": 72860,
       "num": 72860,
       "word": "散装江苏在最强大脑具象化了",
@@ -1769,14 +1881,6 @@
       "onboard_time": 1737122298,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 68223,
-      "num": 470351,
-      "word": "过年食谱被安排得明明白白",
-      "onboard_time": 1737172277,
-      "rank": 2,
-      "category": "美食"
     },
     {
       "raw_hot": 67142,
@@ -1865,6 +1969,14 @@
       "onboard_time": 1737155714,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 49488,
+      "num": 271656,
+      "word": "过年赶大集一秒回到小时候",
+      "onboard_time": 1737187277,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48504,
@@ -2049,6 +2161,14 @@
       "onboard_time": 1737143952,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 12207,
+      "num": 134798,
+      "word": "钎城回归自律",
+      "onboard_time": 1737180377,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 11435,

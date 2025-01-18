@@ -1,0 +1,410 @@
+{
+  "runTime": 1737188705409,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2191065,
+        "num": 2191065,
+        "word": "李小冉气到发抖",
+        "onboard_time": 1737182356,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1020662,
+        "num": 1020662,
+        "word": "D3014次列车因撞鸟临时停车",
+        "onboard_time": 1737185058,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 617083,
+        "num": 617083,
+        "word": "美国网友说对中国的刻板印象被击碎",
+        "onboard_time": 1737183136,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 655346,
+        "num": 490017,
+        "word": "赵樱子曝娱乐圈有一对夫妻离婚是真的",
+        "onboard_time": 1737178697,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327059,
+        "num": 327059,
+        "word": "董明珠被停职审查系谣言",
+        "onboard_time": 1737183918,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286066,
+        "num": 286066,
+        "word": "美网友哽咽哭诉天价学费账单",
+        "onboard_time": 1737175697,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 626230,
+        "num": 278171,
+        "word": "杜海涛听到沈梦辰拍吻戏的反应",
+        "onboard_time": 1737185718,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49488,
+        "num": 271656,
+        "word": "过年赶大集一秒回到小时候",
+        "onboard_time": 1737187277,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351560,
+        "num": 270977,
+        "word": "杨紫谈接下国色芳华的原因",
+        "onboard_time": 1737179238,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270202,
+        "num": 270202,
+        "word": "第一批变装博主已经开始变成蛇了",
+        "onboard_time": 1737187638,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 592290,
+        "num": 258607,
+        "word": "刘晓庆迟到两小时全员等待",
+        "onboard_time": 1737185538,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 518629,
+        "num": 244382,
+        "word": "虞书欣回复外国网友",
+        "onboard_time": 1737186259,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466698,
+        "num": 235695,
+        "word": "武艺不知道爸妈有没有离婚",
+        "onboard_time": 1737184817,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364781,
+        "num": 225107,
+        "word": "TikTok发声明",
+        "onboard_time": 1737171918,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 338159,
+        "num": 211919,
+        "word": "孙珍妮妲己幼年体",
+        "onboard_time": 1737184517,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203701,
+        "num": 203701,
+        "word": "光与夜之恋 齐司礼",
+        "onboard_time": 1737186378,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190945,
+        "num": 190945,
+        "word": "22岁脑瘫女孩街头卖发卡2元一个",
+        "onboard_time": 1737174860,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190251,
+        "num": 190251,
+        "word": "加拿大千人零下20度抢1个家庭医生",
+        "onboard_time": 1737173898,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 137617,
+        "num": 137617,
+        "word": "韩网红扮外国人在机场打车被宰",
+        "onboard_time": 1737168016,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 137341,
+        "num": 137341,
+        "word": "母亲卖苕皮一分一分为孩子攒药费",
+        "onboard_time": 1737184877,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314917,
+        "num": 137322,
+        "word": "东方茯苓和小兰花",
+        "onboard_time": 1737182897,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284921,
+        "num": 136333,
+        "word": "刘晓庆不语只是一味贴假睫毛",
+        "onboard_time": 1737187098,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217804,
+        "num": 136192,
+        "word": "戴眼镜化妆丑的女生有福了",
+        "onboard_time": 1737180557,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 228264,
+        "num": 135724,
+        "word": "贺峻霖想消失的心达到顶峰",
+        "onboard_time": 1737183077,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12207,
+        "num": 134798,
+        "word": "钎城回归自律",
+        "onboard_time": 1737180377,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 205364,
+        "num": 134159,
+        "word": "李昀锐说自己28了不是宝宝了",
+        "onboard_time": 1737180438,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204177,
+        "num": 133870,
+        "word": "漂白独居女性正成为犯罪目标",
+        "onboard_time": 1737187938,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202348,
+        "num": 133122,
+        "word": "刘诗诗从特别的角度好好认识了水獭",
+        "onboard_time": 1737188358,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183269,
+        "num": 132807,
+        "word": "孙艺洲婉拒和郭京飞徒步十公里",
+        "onboard_time": 1737186196,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160410,
+        "num": 132411,
+        "word": "女子离婚要求分割女儿5万压岁钱",
+        "onboard_time": 1737171259,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131957,
+        "num": 131957,
+        "word": "中美网友互发家人照片",
+        "onboard_time": 1737179538,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 529433,
+        "num": 131882,
+        "word": "微信更新了callkit了",
+        "onboard_time": 1737184517,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 155566,
+        "num": 131728,
+        "word": "TF家族新音出图",
+        "onboard_time": 1737188478,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84051,
+        "num": 131398,
+        "word": "李子柒邀你同看2025中国网络视听盛典",
+        "onboard_time": 1737184578,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135901,
+        "num": 131118,
+        "word": "李小冉 我不顶狗屎",
+        "onboard_time": 1737184817,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131079,
+        "num": 131079,
+        "word": "谁家男主吃一顿饭认了六个爸",
+        "onboard_time": 1737188358,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119709,
+        "num": 119709,
+        "word": "王一博亚冬会开幕式主题歌推广曲MV",
+        "onboard_time": 1737162618,
+        "rank": 36,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 118317,
+        "num": 118317,
+        "word": "女子去世叔舅姑姨争数百万遗产",
+        "onboard_time": 1737169818,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117937,
+        "num": 117937,
+        "word": "卢昱晓王星越手势舞",
+        "onboard_time": 1737188238,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107450,
+        "num": 107450,
+        "word": "对金银细软有了更深刻的理解",
+        "onboard_time": 1737169338,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115241,
+        "num": 105934,
+        "word": "赴山海",
+        "onboard_time": 1737184817,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102421,
+        "num": 102421,
+        "word": "发文寻宋祖儿外国男子账号已注销",
+        "onboard_time": 1737172938,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101617,
+        "num": 101617,
+        "word": "永夜星河大结局把外国网友看哭了",
+        "onboard_time": 1737180678,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100109,
+        "num": 100109,
+        "word": "龚俊肿出氛围感",
+        "onboard_time": 1737170538,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89751,
+        "num": 93380,
+        "word": "女子爆改喂鸡装置一次性喂50只流浪猫",
+        "onboard_time": 1737182658,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90707,
+        "num": 90707,
+        "word": "田曦薇被王鹤棣的手吓到",
+        "onboard_time": 1737168076,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82439,
+        "num": 90367,
+        "word": "Hero久竞落户南通海门",
+        "onboard_time": 1737184517,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 90239,
+        "num": 90239,
+        "word": "美国网友开始给中国李华回信",
+        "onboard_time": 1737187578,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82695,
+        "num": 82695,
+        "word": "拉塞尔真想绝杀湖人",
+        "onboard_time": 1737186439,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73785,
+        "num": 73785,
+        "word": "过年食谱被安排得明明白白",
+        "onboard_time": 1737172277,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同美国当选总统特朗普通电话#"
+    }
+  }
+}
