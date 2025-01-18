@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1737204752725,
+  "endTime": 1737206555342,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -17,6 +17,14 @@
       "onboard_time": 1737025578,
       "rank": 0,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 4512764,
+      "num": 4512764,
+      "word": "杨子直播求婚黄圣依",
+      "onboard_time": 1737205280,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 3677184,
@@ -2627,6 +2635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 646321,
+      "num": 346729,
+      "word": "文朱",
+      "onboard_time": 1737203719,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 640405,
       "num": 640405,
       "word": "丁禹兮直播",
@@ -3763,14 +3779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 481988,
-      "num": 334185,
-      "word": "文朱",
-      "onboard_time": 1737203719,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 480879,
       "num": 480879,
       "word": "三只羊旗下账号复播主播回怼弹幕",
@@ -4611,6 +4619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 406538,
+      "num": 345326,
+      "word": "谁敢相信这是71岁的赵雅芝",
+      "onboard_time": 1737205520,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 406393,
       "num": 406393,
       "word": "常华森 骨相好皮薄馅不多",
@@ -4859,6 +4875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 387487,
+      "num": 308783,
+      "word": "赵丽颖杜莎夫人沈璃蜡像亮相",
+      "onboard_time": 1737201679,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 386146,
       "num": 386146,
       "word": "九重紫小孩哥说昀牵孟绕是真的",
@@ -5073,6 +5097,14 @@
       "onboard_time": 1737184517,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 370329,
+      "num": 370329,
+      "word": "狗妈妈叼着冻僵小狗找人求救",
+      "onboard_time": 1737202098,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 369854,
@@ -5537,14 +5569,6 @@
       "onboard_time": 1736915060,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 334829,
-      "num": 308783,
-      "word": "赵丽颖杜莎夫人沈璃蜡像亮相",
-      "onboard_time": 1737201679,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 334472,
@@ -6099,6 +6123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 309413,
+      "num": 258235,
+      "word": "国色芳华预告",
+      "onboard_time": 1736782159,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 308666,
       "num": 308666,
       "word": "2024国民经济运行情况",
@@ -6395,6 +6427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291493,
+      "num": 291493,
+      "word": "俩小孩把寒假作业塞下水道",
+      "onboard_time": 1737205219,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 291208,
       "num": 291208,
       "word": "蔡少芬蒋欣 我们两个应该结婚",
@@ -6633,6 +6673,14 @@
       "onboard_time": 1736896815,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 280568,
+      "num": 182089,
+      "word": "周芯竹王牌新主播第六名",
+      "onboard_time": 1737203658,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 280291,
@@ -7497,14 +7545,6 @@
       "onboard_time": 1736835378,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 245929,
-      "num": 182089,
-      "word": "周芯竹王牌新主播第六名",
-      "onboard_time": 1737203658,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 245679,
@@ -9971,6 +10011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 190985,
+      "num": 190985,
+      "word": "患渐冻症容貌巨变女生已无法说话",
+      "onboard_time": 1737204978,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190962,
       "num": 190962,
       "word": "一诺再获KPL年度最受欢迎选手",
@@ -10393,14 +10441,6 @@
       "onboard_time": 1737097338,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 185757,
-      "num": 185757,
-      "word": "狗妈妈叼着冻僵小狗找人求救",
-      "onboard_time": 1737202098,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 185661,
@@ -10889,6 +10929,14 @@
       "onboard_time": 1736596708,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 179559,
+      "num": 172342,
+      "word": "MiuMiu活动",
+      "onboard_time": 1737204800,
+      "rank": 27,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 179424,
@@ -11739,6 +11787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 168397,
+      "num": 168397,
+      "word": "张凌赫工作室报警",
+      "onboard_time": 1737206418,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168060,
       "num": 168060,
       "word": "何惟芳 委屈样子萌丝",
@@ -12132,7 +12188,7 @@
     },
     {
       "raw_hot": 163112,
-      "num": 146409,
+      "num": 156707,
       "word": "内娱当不了一点蒙面歌王",
       "onboard_time": 1737203119,
       "rank": 37,
@@ -14563,6 +14619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134790,
+      "num": 134790,
+      "word": "时代少年团是孤独永恒还是灵感共生",
+      "onboard_time": 1737205460,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 134749,
       "num": 134749,
       "word": "男孩因7手电动车爆炸身亡前车主担责",
@@ -14745,6 +14809,14 @@
       "onboard_time": 1736674998,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133028,
+      "num": 133028,
+      "word": "张杰春节特别场",
+      "onboard_time": 1737205579,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 132923,
@@ -14984,6 +15056,14 @@
       "word": "孙珍妮太适合暗域魅女了",
       "onboard_time": 1736769621,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 130989,
+      "num": 130989,
+      "word": "大奉打更人结局",
+      "onboard_time": 1737206359,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -15344,14 +15424,6 @@
       "word": "国色芳华名场面callback",
       "onboard_time": 1736667140,
       "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 127347,
-      "num": 127347,
-      "word": "国色芳华预告",
-      "onboard_time": 1736782159,
-      "rank": 48,
       "category": "剧集"
     },
     {
@@ -16441,6 +16513,14 @@
       "onboard_time": 1736661919,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 118426,
+      "num": 118426,
+      "word": "苏新皓歪头闭眼ending",
+      "onboard_time": 1737206418,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 118266,
@@ -17875,6 +17955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105136,
+      "num": 175060,
+      "word": "海边这种爆爆珠不建议rua",
+      "onboard_time": 1737206322,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105039,
       "num": 105039,
       "word": "年轻人开始流行扎推讨彩头",
@@ -18123,6 +18211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102384,
+      "num": 102384,
+      "word": "2025年来最大范围雨雪上线",
+      "onboard_time": 1737205639,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102300,
       "num": 102300,
       "word": "AG荣都杯开门红",
@@ -18243,6 +18339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 100614,
+      "num": 100614,
+      "word": "黎深芬兰机场",
+      "onboard_time": 1737205400,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 100481,
       "num": 293173,
       "word": "实探假装上班公司",
@@ -18273,6 +18377,14 @@
       "onboard_time": 1737102558,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 100150,
+      "num": 100150,
+      "word": "都四九天了今年还会冷吗",
+      "onboard_time": 1737205161,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100132,

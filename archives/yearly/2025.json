@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737204752725,
+  "endTime": 1737206555342,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -280,6 +280,14 @@
       "word": "演员星星近照",
       "onboard_time": 1736231182,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4512764,
+      "num": 4512764,
+      "word": "杨子直播求婚黄圣依",
+      "onboard_time": 1737205280,
+      "rank": 0,
       "category": "艺人"
     },
     {
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736610924,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1446923,
-      "num": 119420,
-      "word": "支付宝",
-      "onboard_time": 1737069435,
-      "rank": 10,
-      "category": "互联网"
     }
   ],
   "hotgov_list": [

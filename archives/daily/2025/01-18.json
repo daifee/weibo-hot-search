@@ -1,7 +1,15 @@
 {
   "startTime": 1737131217967,
-  "endTime": 1737204752725,
+  "endTime": 1737206555342,
   "band_list": [
+    {
+      "raw_hot": 4512764,
+      "num": 4512764,
+      "word": "杨子直播求婚黄圣依",
+      "onboard_time": 1737205280,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2976802,
       "num": 2976802,
@@ -243,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 646321,
+      "num": 346729,
+      "word": "文朱",
+      "onboard_time": 1737203719,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 628132,
       "num": 628132,
       "word": "李维刚承认带货原切牛肉卷为合成肉",
@@ -369,14 +385,6 @@
       "onboard_time": 1737131176,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 481988,
-      "num": 334185,
-      "word": "文朱",
-      "onboard_time": 1737203719,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 468743,
@@ -539,12 +547,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 406538,
+      "num": 345326,
+      "word": "谁敢相信这是71岁的赵雅芝",
+      "onboard_time": 1737205520,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 390511,
       "num": 242850,
       "word": "女子离婚要求分割女儿5万压岁钱",
       "onboard_time": 1737171259,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 387487,
+      "num": 308783,
+      "word": "赵丽颖杜莎夫人沈璃蜡像亮相",
+      "onboard_time": 1737201679,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 375921,
@@ -585,6 +609,14 @@
       "onboard_time": 1737184517,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 370329,
+      "num": 370329,
+      "word": "狗妈妈叼着冻僵小狗找人求救",
+      "onboard_time": 1737202098,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 369822,
@@ -659,14 +691,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 334829,
-      "num": 308783,
-      "word": "赵丽颖杜莎夫人沈璃蜡像亮相",
-      "onboard_time": 1737201679,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 333236,
       "num": 333236,
       "word": "小胖回城特效",
@@ -723,6 +747,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311518,
+      "num": 283297,
+      "word": "国色芳华",
+      "onboard_time": 1737203418,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 309413,
+      "num": 258235,
+      "word": "国色芳华预告",
+      "onboard_time": 1737205520,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 307979,
       "num": 215318,
       "word": "戴眼镜化妆丑的女生有福了",
@@ -745,6 +785,14 @@
       "onboard_time": 1737183077,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 291493,
+      "num": 291493,
+      "word": "俩小孩把寒假作业塞下水道",
+      "onboard_time": 1737205219,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 290806,
@@ -779,20 +827,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 283297,
-      "num": 283297,
-      "word": "国色芳华",
-      "onboard_time": 1737203418,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 282103,
       "num": 282103,
       "word": "新音直播",
       "onboard_time": 1737189978,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 280568,
+      "num": 182089,
+      "word": "周芯竹王牌新主播第六名",
+      "onboard_time": 1737203658,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 276613,
@@ -889,14 +937,6 @@
       "onboard_time": 1737199159,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 245929,
-      "num": 182089,
-      "word": "周芯竹王牌新主播第六名",
-      "onboard_time": 1737203658,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 241493,
@@ -1227,6 +1267,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 190985,
+      "num": 190985,
+      "word": "患渐冻症容貌巨变女生已无法说话",
+      "onboard_time": 1737204978,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190706,
       "num": 185628,
       "word": "猫耳终于等到你",
@@ -1315,14 +1363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 185757,
-      "num": 185757,
-      "word": "狗妈妈叼着冻僵小狗找人求救",
-      "onboard_time": 1737202098,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 183509,
       "num": 120333,
       "word": "TF家族新年音乐会内场",
@@ -1361,6 +1401,14 @@
       "onboard_time": 1737108680,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 179559,
+      "num": 172342,
+      "word": "MiuMiu活动",
+      "onboard_time": 1737204800,
+      "rank": 27,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 178952,
@@ -1467,6 +1515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 168397,
+      "num": 168397,
+      "word": "张凌赫工作室报警",
+      "onboard_time": 1737206418,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167924,
       "num": 167924,
       "word": "等你的回答",
@@ -1564,7 +1620,7 @@
     },
     {
       "raw_hot": 163112,
-      "num": 146409,
+      "num": 156707,
       "word": "内娱当不了一点蒙面歌王",
       "onboard_time": 1737203119,
       "rank": 37,
@@ -1939,6 +1995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134790,
+      "num": 134790,
+      "word": "时代少年团是孤独永恒还是灵感共生",
+      "onboard_time": 1737205460,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 134419,
       "num": 134419,
       "word": "异人之下2收留心碎IP粉",
@@ -1955,6 +2019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133028,
+      "num": 133028,
+      "word": "张杰春节特别场",
+      "onboard_time": 1737205579,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 132877,
       "num": 132877,
       "word": "十刻想见你",
@@ -1968,6 +2040,14 @@
       "word": "王鹤棣这个镜头一眼万年",
       "onboard_time": 1737159975,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 130989,
+      "num": 130989,
+      "word": "大奉打更人结局",
+      "onboard_time": 1737206359,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -2187,6 +2267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118426,
+      "num": 118426,
+      "word": "苏新皓歪头闭眼ending",
+      "onboard_time": 1737206418,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 118043,
       "num": 118043,
       "word": "国乒称着眼洛杉矶奥运会梯队建设",
@@ -2379,12 +2467,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 105136,
+      "num": 175060,
+      "word": "海边这种爆爆珠不建议rua",
+      "onboard_time": 1737206322,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104345,
       "num": 304478,
       "word": "加大力度打击电诈等跨境违法犯罪活动",
       "onboard_time": 1737195859,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 102384,
+      "num": 102384,
+      "word": "2025年来最大范围雨雪上线",
+      "onboard_time": 1737205639,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101416,
@@ -2400,6 +2504,22 @@
       "word": "美国网友涌入小红书会影响政府决策吗",
       "onboard_time": 1737204679,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100614,
+      "num": 100614,
+      "word": "黎深芬兰机场",
+      "onboard_time": 1737205400,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 100150,
+      "num": 100150,
+      "word": "都四九天了今年还会冷吗",
+      "onboard_time": 1737205161,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
