@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737225597399,
+  "endTime": 1737227801338,
   "band_list": [
     {
       "raw_hot": 1780894,
@@ -96,6 +96,14 @@
       "word": "患渐冻症容貌巨变女生已无法说话",
       "onboard_time": 1737204978,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 304654,
+      "num": 304654,
+      "word": "央视曝断骨增高灰色产业链",
+      "onboard_time": 1737222734,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -315,14 +323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 101834,
-      "num": 101834,
-      "word": "央视曝断骨增高灰色产业链",
-      "onboard_time": 1737222734,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95134,
       "num": 95134,
       "word": "微信更新了callkit了",
@@ -411,20 +411,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68377,
+      "num": 81865,
+      "word": "全国出生人口7年来首次回升",
+      "onboard_time": 1737222853,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67405,
       "num": 85250,
       "word": "张云雷断眉造型",
       "onboard_time": 1737218237,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 65868,
-      "num": 81865,
-      "word": "全国出生人口7年来首次回升",
-      "onboard_time": 1737222853,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 62202,
@@ -481,6 +481,14 @@
       "onboard_time": 1737197539,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 48609,
+      "num": 48609,
+      "word": "给美国网友一点中华文化震撼",
+      "onboard_time": 1737225552,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48033,
@@ -547,11 +555,51 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18733,
-      "num": 38139,
-      "word": "给美国网友一点中华文化震撼",
-      "onboard_time": 1737225552,
-      "rank": 29,
+      "raw_hot": 29265,
+      "num": 29265,
+      "word": "susu福福",
+      "onboard_time": 1737226692,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 21469,
+      "num": 24128,
+      "word": "今日星拍放送",
+      "onboard_time": 1737227112,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 21112,
+      "num": 24128,
+      "word": "朝朝穆穆",
+      "onboard_time": 1737227651,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 20656,
+      "num": 24128,
+      "word": "王鹤棣许七安角色高光",
+      "onboard_time": 1737227291,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 20400,
+      "num": 24127,
+      "word": "石凯新歌预告",
+      "onboard_time": 1737227772,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 17907,
+      "num": 61152,
+      "word": "俩小孩扔作业被提醒撒腿就跑",
+      "onboard_time": 1737226752,
+      "rank": 9,
       "category": "民生新闻"
     }
   ],
