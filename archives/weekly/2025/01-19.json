@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737235209728,
+  "endTime": 1737236120850,
   "band_list": [
     {
       "raw_hot": 1780894,
@@ -411,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72779,
+      "num": 72779,
+      "word": "丈夫称晓华不会上春晚舞台",
+      "onboard_time": 1737233950,
+      "rank": 9,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 68377,
       "num": 81865,
       "word": "全国出生人口7年来首次回升",
@@ -547,14 +555,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 31174,
-      "num": 31174,
-      "word": "丈夫称晓华不会上春晚舞台",
-      "onboard_time": 1737233950,
-      "rank": 9,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 31077,
       "num": 29172,
       "word": "杨千嬅怎么可以敬业成这样",
@@ -571,20 +571,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29866,
+      "num": 29866,
+      "word": "第一批学中国菜的外国人交作业了",
+      "onboard_time": 1737232750,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29265,
       "num": 29265,
       "word": "susu福福",
       "onboard_time": 1737226692,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 29089,
-      "num": 29089,
-      "word": "第一批学中国菜的外国人交作业了",
-      "onboard_time": 1737232750,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21469,
@@ -627,8 +627,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 14943,
-      "num": 14943,
+      "raw_hot": 15546,
+      "num": 15546,
       "word": "射雕英雄传侠之大者时长146分钟",
       "onboard_time": 1737232632,
       "rank": 36,
@@ -641,6 +641,14 @@
       "onboard_time": 1737231430,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 14532,
+      "num": 15462,
+      "word": "腾讯视频短剧春节档",
+      "onboard_time": 1737235339,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 13806,
@@ -683,8 +691,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 8648,
-      "num": 18467,
+      "raw_hot": 9146,
+      "num": 34556,
       "word": "热心网友教老外快速入门北京话",
       "onboard_time": 1737235151,
       "rank": 29,
