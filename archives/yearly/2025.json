@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737192039555,
+  "endTime": 1737192920093,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1137,6 +1137,14 @@
       "onboard_time": 1736089769,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2020082,
+      "num": 2020082,
+      "word": "上海老人离世430万和1套房无人继承",
+      "onboard_time": 1737191118,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2018157,
@@ -2392,14 +2400,6 @@
       "word": "陈冠希人肉素人老婆",
       "onboard_time": 1737030318,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1436773,
-      "num": 1226187,
-      "word": "金希澈残疾等级",
-      "onboard_time": 1736841318,
-      "rank": 4,
       "category": "艺人"
     }
   ],
