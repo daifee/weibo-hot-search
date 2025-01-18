@@ -1,10 +1,10 @@
 {
   "startTime": 1737131217967,
-  "endTime": 1737170566152,
+  "endTime": 1737171401833,
   "band_list": [
     {
-      "raw_hot": 1233364,
-      "num": 1233364,
+      "raw_hot": 1283051,
+      "num": 1283051,
       "word": "韩网红扮外国人在机场打车被宰",
       "onboard_time": 1737168016,
       "rank": 13,
@@ -17,6 +17,14 @@
       "onboard_time": 1737162737,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1071544,
+      "num": 1071544,
+      "word": "对金银细软有了更深刻的理解",
+      "onboard_time": 1737169338,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 889677,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 520414,
-      "num": 366430,
+      "num": 457391,
       "word": "五福临门官宣定档",
       "onboard_time": 1737167718,
       "rank": 17,
@@ -123,12 +131,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 480766,
-      "num": 305898,
-      "word": "对金银细软有了更深刻的理解",
-      "onboard_time": 1737169338,
-      "rank": 10,
-      "category": "幽默"
+      "raw_hot": 466448,
+      "num": 466448,
+      "word": "多个手机厂商紧急备货超千万台",
+      "onboard_time": 1737168798,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 463895,
+      "num": 463895,
+      "word": "王一博亚冬会开幕式主题歌推广曲MV",
+      "onboard_time": 1737162618,
+      "rank": 32,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 444770,
@@ -179,14 +195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 384401,
-      "num": 384401,
-      "word": "王一博亚冬会开幕式主题歌推广曲MV",
-      "onboard_time": 1737162618,
-      "rank": 32,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 375921,
       "num": 375921,
       "word": "美最高法支持政府对TikTok强迫出售令",
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 365606,
-      "num": 154333,
+      "num": 157607,
       "word": "在上海花2000买一个黑天鹅生日蛋糕",
       "onboard_time": 1737163457,
       "rank": 30,
@@ -219,20 +227,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 354647,
+      "num": 354647,
+      "word": "泰总理称中国游客有危险系谣言",
+      "onboard_time": 1737166218,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 339212,
       "num": 339212,
       "word": "本科毕业入伍不到1年立一等功",
       "onboard_time": 1737105860,
       "rank": 8,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 330153,
-      "num": 330153,
-      "word": "多个手机厂商紧急备货超千万台",
-      "onboard_time": 1737168798,
-      "rank": 47,
-      "category": "数码"
     },
     {
       "raw_hot": 329722,
@@ -243,6 +251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 320555,
+      "num": 320555,
+      "word": "杨迪说周洁琼小巷人家入戏太深",
+      "onboard_time": 1737170597,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 311813,
       "num": 311813,
       "word": "洪尚秀妻子回应金敏喜怀孕",
@@ -251,16 +267,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 309477,
-      "num": 309477,
-      "word": "泰总理称中国游客有危险系谣言",
-      "onboard_time": 1737166218,
-      "rank": 40,
-      "category": "国际时政"
+      "raw_hot": 296278,
+      "num": 296278,
+      "word": "网传杨紫青簪行空降",
+      "onboard_time": 1737170118,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 290806,
-      "num": 265282,
+      "num": 282776,
       "word": "李昀锐修勾撒娇",
       "onboard_time": 1737166696,
       "rank": 10,
@@ -307,6 +323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 252938,
+      "num": 252938,
+      "word": "女子去世叔舅姑姨争数百万遗产",
+      "onboard_time": 1737169818,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 229286,
       "num": 152794,
       "word": "男子划开冰面救了条20斤大鱼说很香",
@@ -337,6 +361,14 @@
       "onboard_time": 1737107958,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203968,
+      "num": 149648,
+      "word": "龚俊肿出氛围感",
+      "onboard_time": 1737170538,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 200915,
@@ -377,6 +409,14 @@
       "onboard_time": 1737159315,
       "rank": 24,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 188951,
+      "num": 148324,
+      "word": "异人之下",
+      "onboard_time": 1737170717,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 188120,
@@ -451,12 +491,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 157604,
+      "raw_hot": 159857,
+      "num": 159857,
+      "word": "查理苏无餍潮涌",
+      "onboard_time": 1737168198,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 159131,
       "num": 151503,
       "word": "文俊辉说打打打的日子结束了",
       "onboard_time": 1737170059,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 158586,
+      "num": 158586,
+      "word": "宁夏银川发生3.2级地震",
+      "onboard_time": 1737171137,
+      "rank": 19,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 153903,
@@ -491,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145977,
+      "num": 145977,
+      "word": "一觉醒来以为爸爸变成了兔子",
+      "onboard_time": 1737169818,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143417,
       "num": 143417,
       "word": "周受资称将确保TikTok继续繁荣",
@@ -507,20 +571,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140743,
-      "num": 140743,
-      "word": "女子去世叔舅姑姨争数百万遗产",
-      "onboard_time": 1737169818,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140496,
-      "num": 140496,
-      "word": "网传杨紫青簪行空降",
-      "onboard_time": 1737170118,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 141899,
+      "num": 141899,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1737170898,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 137554,
@@ -555,6 +611,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 136296,
+      "num": 146425,
+      "word": "哈尔滨亚冬会",
+      "onboard_time": 1737170597,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 135786,
+      "num": 135786,
+      "word": "特朗普就职典礼将改为室内举行",
+      "onboard_time": 1737169578,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 135688,
       "num": 135688,
       "word": "网红带货合成肉赔付9倍",
@@ -571,20 +643,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 134842,
-      "num": 132695,
-      "word": "查理苏无餍潮涌",
-      "onboard_time": 1737168198,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 133777,
-      "num": 133777,
-      "word": "一觉醒来以为爸爸变成了兔子",
-      "onboard_time": 1737169818,
-      "rank": 32,
-      "category": "幽默"
+      "raw_hot": 135535,
+      "num": 135535,
+      "word": "李荣浩向歌迷道歉",
+      "onboard_time": 1737168918,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 131446,
@@ -593,14 +657,6 @@
       "onboard_time": 1737159975,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 131202,
-      "num": 131202,
-      "word": "李荣浩向歌迷道歉",
-      "onboard_time": 1737168918,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 129526,
@@ -633,6 +689,14 @@
       "onboard_time": 1737166458,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122365,
+      "num": 122365,
+      "word": "大侦探第十季叫拾光季",
+      "onboard_time": 1737171318,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 121036,
@@ -707,6 +771,30 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 108676,
+      "num": 108676,
+      "word": "女子离婚要求分割女儿5万压岁钱",
+      "onboard_time": 1737171259,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106192,
+      "num": 106192,
+      "word": "田曦薇骑士靴公主裙",
+      "onboard_time": 1737171318,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 106069,
+      "num": 106069,
+      "word": "谁懂文淇眼神的杀伤力",
+      "onboard_time": 1737171197,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105745,
       "num": 105745,
       "word": "白月梵星",
@@ -723,14 +811,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 105357,
-      "num": 105357,
-      "word": "特朗普就职典礼将改为室内举行",
-      "onboard_time": 1737169578,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 101416,
       "num": 101416,
       "word": "李昀锐累都写在眼睛上了",
@@ -745,14 +825,6 @@
       "onboard_time": 1737166936,
       "rank": 46,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 98900,
-      "num": 98900,
-      "word": "龚俊肿出氛围感",
-      "onboard_time": 1737170538,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 98050,
