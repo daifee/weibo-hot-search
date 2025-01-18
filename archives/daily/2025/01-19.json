@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737218355641,
+  "endTime": 1737220650646,
   "band_list": [
     {
       "raw_hot": 1780894,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 615427,
-      "num": 167059,
+      "num": 347113,
       "word": "麦琳杨子留几手3人连麦违规",
       "onboard_time": 1737211040,
       "rank": 10,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 362614,
+      "num": 362614,
+      "word": "西藏日喀则4.6级地震",
+      "onboard_time": 1737217158,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 342526,
       "num": 163238,
       "word": "倪萍蔡明蛐蛐刘晓庆",
@@ -96,6 +104,14 @@
       "word": "严浩翔还没吃完就上台了",
       "onboard_time": 1737212660,
       "rank": 14,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 270790,
+      "num": 151312,
+      "word": "张峻豪发言",
+      "onboard_time": 1737218536,
+      "rank": 10,
       "category": "演出"
     },
     {
@@ -131,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200204,
+      "num": 150197,
+      "word": "敖瑞鹏说求天道眷顾梵樾",
+      "onboard_time": 1737216138,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193682,
       "num": 120742,
       "word": "白烁梵樾圆房",
@@ -153,22 +177,6 @@
       "onboard_time": 1737207680,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 168541,
-      "num": 114448,
-      "word": "敖瑞鹏说求天道眷顾梵樾",
-      "onboard_time": 1737216138,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 167086,
-      "num": 167086,
-      "word": "西藏日喀则4.6级地震",
-      "onboard_time": 1737217158,
-      "rank": 9,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 166322,
@@ -291,20 +299,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104952,
+      "num": 104952,
+      "word": "联合国总部电梯坏了5个月终于修好了",
+      "onboard_time": 1737216977,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 104743,
       "num": 104743,
       "word": "小牛掉水沟母牛哀鸣向旁人求助",
       "onboard_time": 1737210921,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 100698,
-      "num": 100698,
-      "word": "联合国总部电梯坏了5个月终于修好了",
-      "onboard_time": 1737216977,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 95134,
@@ -387,8 +395,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67405,
+      "num": 85250,
+      "word": "张云雷断眉造型",
+      "onboard_time": 1737218237,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 62202,
-      "num": 66736,
+      "num": 152495,
       "word": "任何搅局南海的军事活动尽在掌握之中",
       "onboard_time": 1737217697,
       "rank": 46,
@@ -411,12 +427,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57122,
+      "num": 85221,
+      "word": "请永远将自己的感觉置顶",
+      "onboard_time": 1737219015,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 55005,
+      "num": 85003,
+      "word": "36岁相声演员许兆呈脑出血离世",
+      "onboard_time": 1737206961,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 51375,
+      "num": 85177,
+      "word": "布伦特福德vs利物浦",
+      "onboard_time": 1737220335,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51351,
       "num": 90776,
       "word": "明日方舟",
       "onboard_time": 1737197539,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 48033,
+      "num": 84834,
+      "word": "赵小童水培板搬运工",
+      "onboard_time": 1737219736,
+      "rank": 45,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
