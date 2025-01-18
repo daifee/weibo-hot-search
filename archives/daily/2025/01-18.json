@@ -1,6 +1,6 @@
 {
   "startTime": 1737131217967,
-  "endTime": 1737168160487,
+  "endTime": 1737168816278,
   "band_list": [
     {
       "raw_hot": 1204969,
@@ -75,6 +75,14 @@
       "category": "民生新闻,国际时政"
     },
     {
+      "raw_hot": 533487,
+      "num": 533487,
+      "word": "韩网红扮外国人在机场打车被宰",
+      "onboard_time": 1737168016,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 514856,
       "num": 514856,
       "word": "男子日本出差意外发现日军罪证",
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 496993,
-      "num": 337806,
+      "num": 422312,
       "word": "2025春晚4个分会场首次合排",
       "onboard_time": 1737158775,
       "rank": 13,
@@ -147,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 384401,
+      "num": 384401,
+      "word": "王一博亚冬会开幕式主题歌推广曲MV",
+      "onboard_time": 1737162618,
+      "rank": 32,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 375921,
       "num": 375921,
       "word": "美最高法支持政府对TikTok强迫出售令",
@@ -163,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 365606,
+      "num": 154333,
+      "word": "在上海花2000买一个黑天鹅生日蛋糕",
+      "onboard_time": 1737163457,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 361811,
       "num": 361811,
       "word": "10岁男孩被批评报警举报父亲藏罂粟壳",
@@ -171,12 +195,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 352092,
-      "num": 154333,
-      "word": "在上海花2000买一个黑天鹅生日蛋糕",
-      "onboard_time": 1737163457,
-      "rank": 30,
-      "category": "美食"
+      "raw_hot": 346176,
+      "num": 220795,
+      "word": "田曦薇被王鹤棣的手吓到",
+      "onboard_time": 1737168076,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 339212,
@@ -187,6 +211,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 336203,
+      "num": 220083,
+      "word": "五福临门官宣定档",
+      "onboard_time": 1737167718,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 311813,
       "num": 311813,
       "word": "洪尚秀妻子回应金敏喜怀孕",
@@ -195,15 +227,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 290868,
-      "num": 290868,
-      "word": "王一博亚冬会开幕式主题歌推广曲MV",
-      "onboard_time": 1737162618,
-      "rank": 32,
-      "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 284598,
+      "raw_hot": 289126,
       "num": 153048,
       "word": "终于知道美妆蛋退出潮流的原因了",
       "onboard_time": 1737164537,
@@ -259,19 +283,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 238901,
-      "num": 238901,
-      "word": "韩网红扮外国人在机场打车被宰",
-      "onboard_time": 1737168016,
-      "rank": 13,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 224772,
+      "raw_hot": 229286,
       "num": 147898,
       "word": "男子划开冰面救了条20斤大鱼说很香",
       "onboard_time": 1737166936,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211830,
+      "num": 255159,
+      "word": "12306可快速办理临时身份证",
+      "onboard_time": 1737165017,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -283,36 +307,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 206412,
-      "num": 255159,
-      "word": "12306可快速办理临时身份证",
-      "onboard_time": 1737165017,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 205325,
-      "num": 205325,
-      "word": "五福临门官宣定档",
-      "onboard_time": 1737167718,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 204189,
       "num": 204189,
       "word": "6名泰缅边境失联被困中国公民回国",
       "onboard_time": 1737107958,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 203427,
-      "num": 147117,
-      "word": "田曦薇被王鹤棣的手吓到",
-      "onboard_time": 1737168076,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 200915,
@@ -379,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167872,
+      "num": 134753,
+      "word": "小小的我票房破7亿",
+      "onboard_time": 1737168737,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 167843,
       "num": 167843,
       "word": "美国针对TikTok与华为的是一批人",
@@ -408,6 +416,14 @@
       "word": "谷爱凌时隔5年再夺世界杯冠军",
       "onboard_time": 1737129077,
       "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 155159,
+      "num": 148903,
+      "word": "日媒报道张本智和丢冠",
+      "onboard_time": 1737164956,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -451,12 +467,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140681,
-      "num": 148903,
-      "word": "日媒报道张本智和丢冠",
-      "onboard_time": 1737164956,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 141135,
+      "num": 141135,
+      "word": "泰总理称中国游客有危险系谣言",
+      "onboard_time": 1737166218,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 137554,
@@ -491,10 +507,26 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135688,
+      "num": 135688,
+      "word": "网红带货合成肉赔付9倍",
+      "onboard_time": 1737165496,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135581,
       "num": 135581,
       "word": "萧逸极热狂想",
       "onboard_time": 1737166936,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 134842,
+      "num": 132695,
+      "word": "查理苏无餍潮涌",
+      "onboard_time": 1737168198,
       "rank": 32,
       "category": "游戏"
     },
@@ -505,14 +537,6 @@
       "onboard_time": 1737159975,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 129752,
-      "num": 129752,
-      "word": "网红带货合成肉赔付9倍",
-      "onboard_time": 1737165496,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126990,
@@ -611,14 +635,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 108212,
-      "num": 108212,
-      "word": "泰总理称中国游客有危险系谣言",
-      "onboard_time": 1737166218,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 105745,
       "num": 105745,
       "word": "白月梵星",
@@ -627,8 +643,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102243,
-      "num": 102243,
+      "raw_hot": 105463,
+      "num": 105463,
       "word": "中国资产昨夜集体大涨",
       "onboard_time": 1737167057,
       "rank": 42,
@@ -641,6 +657,14 @@
       "onboard_time": 1737114978,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100077,
+      "num": 100077,
+      "word": "TikTok呼吁美政府立即明确态度",
+      "onboard_time": 1737166936,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 98050,
@@ -659,20 +683,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 96128,
+      "num": 96128,
+      "word": "江苏都快干成工苏了",
+      "onboard_time": 1737165197,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95124,
       "num": 95124,
       "word": "人民网评大奉打更人",
       "onboard_time": 1737101418,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 95080,
-      "num": 95080,
-      "word": "江苏都快干成工苏了",
-      "onboard_time": 1737165197,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94261,
@@ -707,12 +731,12 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 91472,
-      "num": 91472,
-      "word": "TikTok呼吁美政府立即明确态度",
-      "onboard_time": 1737166936,
-      "rank": 46,
-      "category": "互联网"
+      "raw_hot": 91239,
+      "num": 91239,
+      "word": "多个手机厂商紧急备货超千万台",
+      "onboard_time": 1737168798,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 89197,
@@ -827,20 +851,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76050,
+      "num": 131742,
+      "word": "米兰男装周",
+      "onboard_time": 1737166756,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 75348,
       "num": 75348,
       "word": "高圆圆你也是没放过林更新",
       "onboard_time": 1737113118,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 73002,
-      "num": 131742,
-      "word": "米兰男装周",
-      "onboard_time": 1737166756,
-      "rank": 34,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 72860,
@@ -1089,6 +1113,14 @@
       "onboard_time": 1737141551,
       "rank": 29,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 20083,
+      "num": 135665,
+      "word": "谷爱凌带脚伤出战世界杯",
+      "onboard_time": 1737168737,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 17321,
