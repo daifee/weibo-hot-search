@@ -1,6 +1,6 @@
 {
   "startTime": 1737131217967,
-  "endTime": 1737203876027,
+  "endTime": 1737204752725,
   "band_list": [
     {
       "raw_hot": 2976802,
@@ -27,20 +27,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1922533,
+      "num": 1922533,
+      "word": "杨子直播",
+      "onboard_time": 1737202819,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1509855,
       "num": 1509855,
       "word": "对金银细软有了更深刻的理解",
       "onboard_time": 1737169338,
       "rank": 10,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1362307,
-      "num": 1362307,
-      "word": "杨子直播",
-      "onboard_time": 1737202819,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1288602,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1112785,
-      "num": 361250,
+      "num": 378058,
       "word": "杨子回归家庭的日子",
       "onboard_time": 1737200597,
       "rank": 6,
@@ -292,11 +292,19 @@
     },
     {
       "raw_hot": 587372,
-      "num": 344745,
+      "num": 364164,
       "word": "胡冰卿龅牙图回应真没在乎的人",
       "onboard_time": 1737201318,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 542939,
+      "num": 542939,
+      "word": "海航一飞机发动机失效备降南昌",
+      "onboard_time": 1737201738,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 538599,
@@ -361,6 +369,14 @@
       "onboard_time": 1737131176,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 481988,
+      "num": 334185,
+      "word": "文朱",
+      "onboard_time": 1737203719,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 468743,
@@ -481,6 +497,14 @@
       "onboard_time": 1737189558,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 410840,
+      "num": 311981,
+      "word": "内娱有自己的妍珍",
+      "onboard_time": 1737202457,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 409664,
@@ -635,6 +659,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 334829,
+      "num": 308783,
+      "word": "赵丽颖杜莎夫人沈璃蜡像亮相",
+      "onboard_time": 1737201679,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 333236,
       "num": 333236,
       "word": "小胖回城特效",
@@ -699,14 +731,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 304000,
-      "num": 304000,
-      "word": "海航一飞机发动机失效备降南昌",
-      "onboard_time": 1737201738,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 301075,
       "num": 301075,
       "word": "超人诞生日记",
@@ -755,20 +779,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 283297,
+      "num": 283297,
+      "word": "国色芳华",
+      "onboard_time": 1737203418,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 282103,
       "num": 282103,
       "word": "新音直播",
       "onboard_time": 1737189978,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 279704,
-      "num": 279704,
-      "word": "赵丽颖杜莎夫人沈璃蜡像亮相",
-      "onboard_time": 1737201679,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 276613,
@@ -800,6 +824,14 @@
       "word": "桂恒",
       "onboard_time": 1737195319,
       "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 269004,
+      "num": 269004,
+      "word": "崔韩率剃寸头了",
+      "onboard_time": 1737202398,
+      "rank": 23,
       "category": "演出"
     },
     {
@@ -843,14 +875,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 253992,
-      "num": 253992,
-      "word": "内娱有自己的妍珍",
-      "onboard_time": 1737202457,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 252401,
       "num": 252401,
       "word": "杨紫感谢观众",
@@ -865,6 +889,14 @@
       "onboard_time": 1737199159,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 245929,
+      "num": 182089,
+      "word": "周芯竹王牌新主播第六名",
+      "onboard_time": 1737203658,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 241493,
@@ -923,14 +955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 225345,
-      "num": 206357,
-      "word": "崔韩率剃寸头了",
-      "onboard_time": 1737202398,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 222508,
       "num": 222508,
       "word": "李昀锐真的是衣服架子",
@@ -985,6 +1009,14 @@
       "onboard_time": 1737198677,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 208505,
+      "num": 180498,
+      "word": "李现感谢观众朋友们的支持",
+      "onboard_time": 1737204139,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 207530,
@@ -1075,6 +1107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 200453,
+      "num": 193658,
+      "word": "漂白",
+      "onboard_time": 1737115218,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199857,
       "num": 199857,
       "word": "王星越领衔主演五福临门",
@@ -1091,12 +1131,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 198238,
-      "num": 198238,
-      "word": "国色芳华",
-      "onboard_time": 1737203418,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 198620,
+      "num": 197961,
+      "word": "你好星期六",
+      "onboard_time": 1737200778,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 198097,
@@ -1105,14 +1145,6 @@
       "onboard_time": 1737184817,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 197961,
-      "num": 197961,
-      "word": "你好星期六",
-      "onboard_time": 1737200778,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 197447,
@@ -1171,14 +1203,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 193658,
-      "num": 193658,
-      "word": "漂白",
-      "onboard_time": 1737115218,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 193617,
       "num": 193617,
       "word": "狗狗用舌头给主人刮痧治病",
@@ -1224,6 +1248,14 @@
       "word": "朱志鑫苏新皓Guilty双人part",
       "onboard_time": 1737199159,
       "rank": 29,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 189964,
+      "num": 178813,
+      "word": "豪丞",
+      "onboard_time": 1737203899,
+      "rank": 31,
       "category": "演出"
     },
     {
@@ -1427,6 +1459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 170047,
+      "num": 170047,
+      "word": "郎朗今天澳门人真多啊",
+      "onboard_time": 1737203299,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 167924,
       "num": 167924,
       "word": "等你的回答",
@@ -1521,6 +1561,14 @@
       "onboard_time": 1737181097,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163112,
+      "num": 146409,
+      "word": "内娱当不了一点蒙面歌王",
+      "onboard_time": 1737203119,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 162038,
@@ -1707,14 +1755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 146409,
-      "num": 146409,
-      "word": "内娱当不了一点蒙面歌王",
-      "onboard_time": 1737203119,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 145977,
       "num": 145977,
       "word": "一觉醒来以为爸爸变成了兔子",
@@ -1745,22 +1785,6 @@
       "onboard_time": 1737171796,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 144448,
-      "num": 144448,
-      "word": "周芯竹王牌新主播第六名",
-      "onboard_time": 1737203658,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 143905,
-      "num": 143905,
-      "word": "文朱",
-      "onboard_time": 1737203719,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 143417,
@@ -1971,14 +1995,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 129078,
-      "num": 129078,
-      "word": "郎朗今天澳门人真多啊",
-      "onboard_time": 1737203299,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 128585,
       "num": 128585,
       "word": "时团新音全白look",
@@ -2147,20 +2163,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120276,
+      "num": 1012728,
+      "word": "给老外亿点中式美学震撼",
+      "onboard_time": 1737188718,
+      "rank": 2,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 120060,
       "num": 179077,
       "word": "裴擒虎祥瑞亨通新皮肤",
       "onboard_time": 1737174198,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 119635,
-      "num": 1012728,
-      "word": "给老外亿点中式美学震撼",
-      "onboard_time": 1737188718,
-      "rank": 2,
-      "category": "旅游"
     },
     {
       "raw_hot": 119205,
@@ -2323,6 +2339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 106589,
+      "num": 106589,
+      "word": "PEL荣都杯总决赛",
+      "onboard_time": 1737204259,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 106069,
       "num": 106069,
       "word": "谁懂文淇眼神的杀伤力",
@@ -2371,6 +2395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101380,
+      "num": 101380,
+      "word": "美国网友涌入小红书会影响政府决策吗",
+      "onboard_time": 1737204679,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100077,
       "num": 100077,
       "word": "TikTok呼吁美政府立即明确态度",
@@ -2393,6 +2425,14 @@
       "onboard_time": 1737161357,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97513,
+      "num": 304136,
+      "word": "少年说起复兴号校车声音都亮了",
+      "onboard_time": 1737203358,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96876,
@@ -2420,7 +2460,7 @@
     },
     {
       "raw_hot": 96467,
-      "num": 271656,
+      "num": 779110,
       "word": "过年赶大集一秒回到小时候",
       "onboard_time": 1737187277,
       "rank": 7,
@@ -2489,14 +2529,6 @@
       "onboard_time": 1737184517,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 89623,
-      "num": 304136,
-      "word": "少年说起复兴号校车声音都亮了",
-      "onboard_time": 1737203358,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89197,
@@ -2699,6 +2731,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70995,
+      "num": 179780,
+      "word": "王一博参与了各种运动会的推广",
+      "onboard_time": 1737204619,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 69524,
+      "num": 363110,
+      "word": "SpaceX星舰升空后飞船解体失联",
+      "onboard_time": 1737199818,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 69074,
       "num": 720849,
       "word": "我国找矿又有重大突破",
@@ -2793,14 +2841,6 @@
       "onboard_time": 1737155714,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 52821,
-      "num": 363110,
-      "word": "SpaceX星舰升空后飞船解体失联",
-      "onboard_time": 1737199818,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 48504,
