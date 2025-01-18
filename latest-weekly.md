@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/12 00:25:41 ~ 2025/01/18 23:20:48
+本榜单时间：2025/01/12 00:25:41 ~ 2025/01/18 23:35:25
 </p>
 </blockquote>
 <p>
@@ -3165,6 +3165,12 @@ TikTok难民开直播聊天10万人围观（热度：455266）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E8%BF%98%E6%B2%A1%E5%90%83%E5%AE%8C%E5%B0%B1%E4%B8%8A%E5%8F%B0%E4%BA%86%23" target="weibo">
+严浩翔还没吃完就上台了（热度：445728）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%99%92%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E5%A5%96%E6%9D%AF%E7%85%A7%23" target="weibo">
 赵丽颖晒微博之夜奖杯照（热度：445378）
 </a>
@@ -3573,6 +3579,12 @@ JDG花650万拍下状元签（热度：410101）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA%E7%AC%AC%E4%BA%8C%E5%AD%A3%23" target="weibo">
+大奉打更人第二季（热度：398491）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9B%BC%E7%8E%89%E6%A2%81%E6%9C%9D%E4%BC%9F%E5%8F%AA%E6%8B%BF%E5%88%B0%E4%BA%86%E4%B8%A4%E9%A1%B5%E5%89%A7%E6%9C%AC%23" target="weibo">
 张曼玉梁朝伟只拿到了两页剧本（热度：397692）
 </a>
@@ -3939,6 +3951,12 @@ Hero久竞正式告别南京（热度：395324）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E5%8D%95%E9%9B%86%E6%94%B6%E8%A7%86%E5%88%9B%E6%96%B0%E9%AB%98%23" target="weibo">
+国色芳华单集收视创新高（热度：368968）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%86%B0%E5%86%B0%E8%AF%B430%E5%B2%81%E9%87%8D%E5%90%AF%E4%BA%BA%E7%94%9F%E4%B8%8D%E5%90%8E%E6%82%94%23" target="weibo">
 王冰冰说30岁重启人生不后悔（热度：368904）
 </a>
@@ -4191,20 +4209,8 @@ TikTok日活降至8220万（热度：353408）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E8%BF%98%E6%B2%A1%E5%90%83%E5%AE%8C%E5%B0%B1%E4%B8%8A%E5%8F%B0%E4%BA%86%23" target="weibo">
-严浩翔还没吃完就上台了（热度：343589）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%E6%88%90%E5%91%98%E5%9B%B4%E6%94%BB%E5%88%98%E6%99%93%E5%BA%86%23" target="weibo">
 繁花成员围攻刘晓庆（热度：343404）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E5%8D%95%E9%9B%86%E6%94%B6%E8%A7%86%E5%88%9B%E6%96%B0%E9%AB%98%23" target="weibo">
-国色芳华单集收视创新高（热度：343325）
 </a>
 </li>
 
@@ -4481,6 +4487,12 @@ TikTok日活降至8220万（热度：353408）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E5%B0%8F%E5%A7%A8%E4%B8%8A%E5%A4%A7%E5%88%86%23" target="weibo">
 国色芳华小姨上大分（热度：320351）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%20%E7%9B%B4%E6%92%AD%E5%BC%80%E6%80%BC%23" target="weibo">
+刘宇宁 直播开怼（热度：320342）
 </a>
 </li>
 
@@ -4859,6 +4871,12 @@ TikTok日活降至8220万（热度：353408）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E7%90%86%E8%A7%A3%E8%99%9A%E5%B2%81%E5%88%B0%E5%BA%95%E6%9C%89%E4%BB%80%E4%B9%88%E6%84%8F%E4%B9%89%23" target="weibo">
 不理解虚岁到底有什么意义（热度：296456）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%80%AA%E8%90%8D%E8%94%A1%E6%98%8E%E8%9B%90%E8%9B%90%E5%88%98%E6%99%93%E5%BA%86%23" target="weibo">
+倪萍蔡明蛐蛐刘晓庆（热度：296282）
 </a>
 </li>
 
@@ -5619,6 +5637,12 @@ SM现役女团合照（热度：259799）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232025%E6%98%A5%E8%8A%82%E6%A1%A3%E7%94%B5%E5%BD%B1%E7%89%87%E9%95%BF%23" target="weibo">
+2025春节档电影片长（热度：252657）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%B9%B4%E5%9B%9E%E5%AE%B6%E7%9A%84%E6%84%8F%E4%B9%89%E5%9C%A8%E6%AD%A4%E5%88%BB%E5%85%B7%E8%B1%A1%E5%8C%96%E4%BA%86%23" target="weibo">
 过年回家的意义在此刻具象化了（热度：252533）
 </a>
@@ -5709,6 +5733,12 @@ SM现役女团合照（热度：259799）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%B5%B7%E6%BB%A9%E5%87%BA%E7%8E%B0%E4%B8%80%E7%89%87%E8%A4%90%E8%89%B2%E6%B3%A1%E6%B3%A1%23" target="weibo">
+深圳海滩出现一片褐色泡泡（热度：247825）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E4%BA%A7%E9%94%80%E5%94%AE%E6%9C%89%E6%AF%92%E7%98%A6%E8%BA%AB%E5%92%96%E5%95%A14%E4%BA%BA%E8%90%BD%E7%BD%91%23" target="weibo">
 生产销售有毒瘦身咖啡4人落网（热度：247464）
 </a>
@@ -5735,12 +5765,6 @@ SM现役女团合照（热度：259799）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%96%E7%91%9E%E9%B9%8F%E7%94%B7%E6%A8%A1%23" target="weibo">
 敖瑞鹏男模（热度：246743）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%B5%B7%E6%BB%A9%E5%87%BA%E7%8E%B0%E4%B8%80%E7%89%87%E8%A4%90%E8%89%B2%E6%B3%A1%E6%B3%A1%23" target="weibo">
-深圳海滩出现一片褐色泡泡（热度：246542）
 </a>
 </li>
 
@@ -5975,12 +5999,6 @@ SM现役女团合照（热度：259799）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%97%8F%E7%97%9B%E5%A4%B1%E5%84%BF%E5%A5%B3%E8%BE%85%E8%AD%A6%E6%9B%BE%E6%83%B3%E8%AE%A9%E5%84%BF%E5%AD%90%E5%BD%93%E5%85%AC%E5%AE%89%23" target="weibo">
 西藏痛失儿女辅警曾想让儿子当公安（热度：233295）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%80%AA%E8%90%8D%E8%94%A1%E6%98%8E%E8%9B%90%E8%9B%90%E5%88%98%E6%99%93%E5%BA%86%23" target="weibo">
-倪萍蔡明蛐蛐刘晓庆（热度：233265）
 </a>
 </li>
 
@@ -6881,12 +6899,6 @@ guilty合作舞台（热度：208660）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%B0%91%E4%BC%97%E8%B4%A8%E7%96%91%E7%A8%8E%E9%87%91%E9%83%BD%E5%B9%B2%E4%BB%80%E4%B9%88%E4%BA%86%23" target="weibo">
 美国民众质疑税金都干什么了（热度：204060）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA%E7%AC%AC%E4%BA%8C%E5%AD%A3%23" target="weibo">
-大奉打更人第二季（热度：203953）
 </a>
 </li>
 
@@ -7815,6 +7827,12 @@ BC创始人展示李昀锐的照片（热度：189418）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA%E5%88%9B%E6%80%BB%E5%B9%BF%E5%91%8A%E6%97%B6%E9%95%BF%E7%AC%AC%E4%B8%80%23" target="weibo">
+大奉打更人创总广告时长第一（热度：188422）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232025%E5%BE%85%E7%88%86%E5%B0%8F%E7%94%9F%23" target="weibo">
 2025待爆小生（热度：188348）
 </a>
@@ -7841,12 +7859,6 @@ BC创始人展示李昀锐的照片（热度：189418）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%8B%E4%BC%BC%E5%85%BB%E8%83%83%E5%AE%9E%E5%88%99%E4%BC%A4%E8%83%83%E7%9A%844%E4%B8%AA%E4%B9%A0%E6%83%AF%23" target="weibo">
 看似养胃实则伤胃的4个习惯（热度：188120）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232025%E6%98%A5%E8%8A%82%E6%A1%A3%E7%94%B5%E5%BD%B1%E7%89%87%E9%95%BF%23" target="weibo">
-2025春节档电影片长（热度：187999）
 </a>
 </li>
 
@@ -8571,12 +8583,6 @@ TF家族2025新年音乐会倒计时3天（热度：176999）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%20%E7%9B%B4%E6%92%AD%E5%BC%80%E6%80%BC%23" target="weibo">
-刘宇宁 直播开怼（热度：175226）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BE%B3%E7%BD%91%E5%BC%A0%E4%B9%8B%E8%87%BB%E6%AD%A2%E6%AD%A5%E9%A6%96%E8%BD%AE%23" target="weibo">
 澳网张之臻止步首轮（热度：175154）
 </a>
@@ -8675,6 +8681,12 @@ TF家族2025新年音乐会倒计时3天（热度：176999）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E4%B8%8D%E6%89%93%E5%87%BB%E4%BB%A3%E8%B4%AD%E5%90%97%23" target="weibo">
 山姆不打击代购吗（热度：173788）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E4%B8%8D%E8%AF%AD%E5%8F%AA%E4%B8%80%E5%91%B3%E7%9A%84%E7%94%9C%23" target="weibo">
+田曦薇不语只一味的甜（热度：173349）
 </a>
 </li>
 
@@ -10527,12 +10539,6 @@ SMTOWN（热度：150587）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E4%B8%8D%E8%AF%AD%E5%8F%AA%E4%B8%80%E5%91%B3%E7%9A%84%E7%94%9C%23" target="weibo">
-田曦薇不语只一味的甜（热度：144198）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%96%B0%E7%94%9F%E5%A4%A7%E7%89%87%23" target="weibo">
 王曼昱新生大片（热度：144149）
 </a>
@@ -11081,6 +11087,12 @@ ADOR禁止NewJeans活动（热度：136598）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%90%A7%E9%80%B8%E6%9E%81%E7%83%AD%E7%8B%82%E6%83%B3%23" target="weibo">
 萧逸极热狂想（热度：135581）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%E6%BC%94%E5%87%BA%E4%BA%86%E7%A0%B4%E5%A4%A9%E7%9A%84%E5%80%92%E7%81%8C%E6%84%9F%23" target="weibo">
+赵今麦演出了破天的倒灌感（热度：135477）
 </a>
 </li>
 
@@ -11955,12 +11967,6 @@ GEN对战HLE（热度：126787）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA%E5%88%9B%E6%80%BB%E5%B9%BF%E5%91%8A%E6%97%B6%E9%95%BF%E7%AC%AC%E4%B8%80%23" target="weibo">
-大奉打更人创总广告时长第一（热度：125236）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%BB%E4%B8%AA%E8%81%8C%E7%AB%9F%E8%A6%81%E7%BB%8F%E8%BF%8726%E9%81%93%E5%AE%A1%E6%89%B9%E6%B5%81%E7%A8%8B%23" target="weibo">
 离个职竟要经过26道审批流程（热度：125222）
 </a>
@@ -12575,6 +12581,12 @@ Bao教练结婚（热度：121412）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%8F%B8%E4%BB%96%E9%9F%A6%E4%B8%BA%E4%BD%95%E4%B8%80%E5%88%B0%E6%B5%81%E6%84%9F%E5%AD%A3%E5%B0%B1%E7%81%AB%23" target="weibo">
 奥司他韦为何一到流感季就火（热度：118709）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%9F%B3%E5%85%A8%E5%9C%BA%E5%A4%A7%E5%96%8ATNT%23" target="weibo">
+新音全场大喊TNT（热度：118666）
 </a>
 </li>
 
@@ -13983,6 +13995,12 @@ AG荣都杯开门红（热度：102300）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2316%E6%9E%B6C919%E6%8A%95%E5%85%A5%E6%98%A5%E8%BF%90%23" target="weibo">
+16架C919投入春运（热度：100196）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%A5%E5%8F%B7%E7%8A%B6%E5%85%83%E7%AD%BE%E5%8A%A0%E5%85%A5JDG%23" target="weibo">
 句号状元签加入JDG（热度：100132）
 </a>
@@ -14447,12 +14465,6 @@ Hero久竞落户南通海门（热度：90969）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E4%BA%BA%E6%8A%8A%E8%8A%B1%E8%8A%B1%E7%8E%A9%E5%87%BA%E8%8A%B1%23" target="weibo">
 古人把花花玩出花（热度：89601）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2316%E6%9E%B6C919%E6%8A%95%E5%85%A5%E6%98%A5%E8%BF%90%23" target="weibo">
-16架C919投入春运（热度：89374）
 </a>
 </li>
 
@@ -14997,6 +15009,12 @@ CBA（热度：75356）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E7%A3%8A%E5%9C%A82024%E5%B9%B4%E9%BC%93%E5%8A%B1%E9%9D%99%E9%9B%AF%E5%9D%9A%E6%8C%81%E6%8A%97%E5%86%BB%23" target="weibo">
+蔡磊在2024年鼓励静雯坚持抗冻（热度：72829）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%AE%9E%E6%96%BD%E7%8A%AF%E7%BD%AA%E5%BF%85%E8%A2%AB%E8%BF%BD%E6%89%93%E5%88%B0%E5%BA%95%23" target="weibo">
 对中国公民实施犯罪必被追打到底（热度：72647）
 </a>
@@ -15311,6 +15329,12 @@ SpaceX星舰升空后飞船解体失联（热度：69524）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9A%87%E9%A9%ACvs%E5%A1%9E%E5%B0%94%E5%A1%94%23" target="weibo">
 皇马vs塞尔塔（热度：61277）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%82%E5%87%BA%E8%A1%8C%E9%80%89%E8%BF%99%E4%BA%9B%E8%88%AA%E7%BA%BF%E6%88%96%E8%83%BD%E4%BD%93%E9%AA%8C%E5%88%B0C919%23" target="weibo">
+春节出行选这些航线或能体验到C919（热度：61245）
 </a>
 </li>
 
@@ -15659,12 +15683,6 @@ TT对战LNG（热度：53955）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Moham%E6%80%92%E5%96%B7OMG%23" target="weibo">
 Moham怒喷OMG（热度：51241）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E7%A3%8A%E5%9C%A82024%E5%B9%B4%E9%BC%93%E5%8A%B1%E9%9D%99%E9%9B%AF%E5%9D%9A%E6%8C%81%E6%8A%97%E5%86%BB%23" target="weibo">
-蔡磊在2024年鼓励静雯坚持抗冻（热度：51032）
 </a>
 </li>
 
