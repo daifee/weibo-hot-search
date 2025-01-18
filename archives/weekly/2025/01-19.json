@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737231695758,
+  "endTime": 1737232531874,
   "band_list": [
     {
       "raw_hot": 1780894,
@@ -619,12 +619,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 13295,
+      "raw_hot": 13418,
       "num": 17834,
       "word": "78岁爷爷30年资助122名学生",
       "onboard_time": 1737229512,
       "rank": 46,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 13172,
+      "num": 17069,
+      "word": "读过的书是你的底气",
+      "onboard_time": 1737215298,
+      "rank": 46,
+      "category": "读书作家"
     },
     {
       "raw_hot": 10739,
@@ -635,19 +643,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 10419,
+      "num": 33063,
+      "word": "卡车猫王将带父亲和13只猫出去散心",
+      "onboard_time": 1737231551,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 9467,
       "num": 50386,
       "word": "飞行教员任C919带队机长安全感满满",
       "onboard_time": 1737227471,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9087,
-      "num": 21467,
-      "word": "卡车猫王将带父亲和13只猫出去散心",
-      "onboard_time": 1737231551,
-      "rank": 24,
       "category": "民生新闻"
     }
   ],
