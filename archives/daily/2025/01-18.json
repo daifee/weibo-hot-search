@@ -1,6 +1,6 @@
 {
   "startTime": 1737131217967,
-  "endTime": 1737210954124,
+  "endTime": 1737213648708,
   "band_list": [
     {
       "raw_hot": 7891142,
@@ -97,6 +97,14 @@
       "onboard_time": 1737200597,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1087011,
+      "num": 381037,
+      "word": "麦琳杨子留几手3人连麦违规",
+      "onboard_time": 1737211040,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1041011,
@@ -225,6 +233,14 @@
       "onboard_time": 1737178818,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 753732,
+      "num": 371967,
+      "word": "陈奕迅在表演时疑似嗑瓜子",
+      "onboard_time": 1737208101,
+      "rank": 10,
+      "category": "演出"
     },
     {
       "raw_hot": 742379,
@@ -419,14 +435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 477171,
-      "num": 328317,
-      "word": "陈奕迅在表演时疑似嗑瓜子",
-      "onboard_time": 1737208101,
-      "rank": 10,
-      "category": "演出"
-    },
-    {
       "raw_hot": 468743,
       "num": 468743,
       "word": "业内人士说虞书欣林一cp感很强",
@@ -489,6 +497,14 @@
       "onboard_time": 1737205219,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 445950,
+      "num": 344200,
+      "word": "大奉打更人结局",
+      "onboard_time": 1737206359,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 444770,
@@ -627,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 382178,
+      "num": 382178,
+      "word": "女子假扮机器人回家被村里人介绍对象",
+      "onboard_time": 1737207800,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 375921,
       "num": 375921,
       "word": "美最高法支持政府对TikTok强迫出售令",
@@ -715,14 +739,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 365547,
-      "num": 313781,
-      "word": "大奉打更人结局",
-      "onboard_time": 1737206359,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 361811,
       "num": 361811,
       "word": "10岁男孩被批评报警举报父亲藏罂粟壳",
@@ -755,12 +771,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 343589,
+      "num": 343589,
+      "word": "严浩翔还没吃完就上台了",
+      "onboard_time": 1737212660,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 343325,
+      "num": 343325,
+      "word": "国色芳华单集收视创新高",
+      "onboard_time": 1737210261,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 339212,
       "num": 339212,
       "word": "本科毕业入伍不到1年立一等功",
       "onboard_time": 1737105860,
       "rank": 8,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 336164,
+      "num": 262957,
+      "word": "文轩",
+      "onboard_time": 1737208340,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 333236,
@@ -875,28 +915,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 283949,
-      "num": 198180,
-      "word": "文轩",
-      "onboard_time": 1737208340,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 283793,
       "num": 283793,
       "word": "佛山电翰说不想再消耗工人身份",
       "onboard_time": 1737141072,
       "rank": 9,
       "category": "网红"
-    },
-    {
-      "raw_hot": 282336,
-      "num": 282336,
-      "word": "女子假扮机器人回家被村里人介绍对象",
-      "onboard_time": 1737207800,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 282103,
@@ -1019,6 +1043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 246542,
+      "num": 357077,
+      "word": "深圳海滩出现一片褐色泡泡",
+      "onboard_time": 1737207680,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 241493,
       "num": 369974,
       "word": "卖房后忘交接替别人交了13年电费",
@@ -1049,6 +1081,14 @@
       "onboard_time": 1737171137,
       "rank": 19,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 233265,
+      "num": 148227,
+      "word": "倪萍蔡明蛐蛐刘晓庆",
+      "onboard_time": 1737212420,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 229286,
@@ -1176,6 +1216,14 @@
       "word": "漂白独居女性正成为犯罪目标",
       "onboard_time": 1737187938,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 203953,
+      "num": 147059,
+      "word": "大奉打更人第二季",
+      "onboard_time": 1737213020,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -1459,6 +1507,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 187999,
+      "num": 187999,
+      "word": "2025春节档电影片长",
+      "onboard_time": 1737212540,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 186569,
       "num": 186569,
       "word": "一路繁花",
@@ -1571,12 +1627,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 174880,
-      "num": 156067,
-      "word": "国色芳华单集收视创新高",
-      "onboard_time": 1737210261,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 175226,
+      "num": 145532,
+      "word": "刘宇宁 直播开怼",
+      "onboard_time": 1737213320,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 174125,
@@ -1803,20 +1859,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160243,
+      "num": 144805,
+      "word": "杨旭文大唐男模变现偶男主",
+      "onboard_time": 1737210380,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159857,
       "num": 159857,
       "word": "查理苏无餍潮涌",
       "onboard_time": 1737168198,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 159526,
-      "num": 159526,
-      "word": "深圳海滩出现一片褐色泡泡",
-      "onboard_time": 1737207680,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 159131,
@@ -1889,6 +1945,14 @@
       "onboard_time": 1737191417,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150493,
+      "num": 143942,
+      "word": "张极中奖了",
+      "onboard_time": 1737211639,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 149663,
@@ -1987,6 +2051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143663,
+      "num": 143663,
+      "word": "李现对的终究会走到最后",
+      "onboard_time": 1737211101,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143417,
       "num": 143417,
       "word": "周受资称将确保TikTok继续繁荣",
@@ -2017,14 +2089,6 @@
       "onboard_time": 1737202158,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 141958,
-      "num": 141958,
-      "word": "杨旭文大唐男模变现偶男主",
-      "onboard_time": 1737210380,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 141899,
@@ -2281,6 +2345,14 @@
       "onboard_time": 1737173119,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 125236,
+      "num": 125236,
+      "word": "大奉打更人创总广告时长第一",
+      "onboard_time": 1737213618,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 125045,
@@ -2579,6 +2651,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 107243,
+      "num": 143212,
+      "word": "小牛掉水沟母牛哀鸣向旁人求助",
+      "onboard_time": 1737210921,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106975,
       "num": 106975,
       "word": "祝绪丹去吃泉州小吃啦",
@@ -2811,6 +2891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 89374,
+      "num": 495283,
+      "word": "16架C919投入春运",
+      "onboard_time": 1737211581,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89197,
       "num": 89197,
       "word": "特朗普多次公开支持TikTok",
@@ -2889,6 +2977,14 @@
       "onboard_time": 1737162618,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 84519,
+      "num": 714361,
+      "word": "外国游客被中国美食香迷糊了",
+      "onboard_time": 1737210261,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83437,
@@ -3043,14 +3139,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 66778,
-      "num": 85948,
-      "word": "小牛掉水沟母牛哀鸣向旁人求助",
-      "onboard_time": 1737210921,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64338,
       "num": 64338,
       "word": "2025听到最恐怖的一句我爱你",
@@ -3123,20 +3211,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 54765,
-      "num": 714361,
-      "word": "外国游客被中国美食香迷糊了",
-      "onboard_time": 1737210261,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 53222,
       "num": 58622,
       "word": "李现TO我最好的侍卫",
       "onboard_time": 1737155714,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 51032,
+      "num": 352168,
+      "word": "蔡磊在2024年鼓励静雯坚持抗冻",
+      "onboard_time": 1737211400,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48504,
@@ -3355,6 +3443,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 11240,
+      "num": 151560,
+      "word": "萧逸PV",
+      "onboard_time": 1737212899,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 7689,
       "num": 30742,
       "word": "蔚县春节花样多",
@@ -3378,6 +3474,9 @@
     },
     {
       "word": "#中美两国可以成为伙伴和朋友#"
+    },
+    {
+      "word": "#习近平向全军老同志祝贺新春#"
     }
   ]
 }
