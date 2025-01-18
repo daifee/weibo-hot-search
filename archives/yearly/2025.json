@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737171401833,
+  "endTime": 1737174303546,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -2371,6 +2371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1441472,
+      "num": 1441472,
+      "word": "对金银细软有了更深刻的理解",
+      "onboard_time": 1737169338,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1436773,
       "num": 1226187,
       "word": "金希澈残疾等级",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736832199,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1422544,
-      "num": 1422544,
-      "word": "没有发现王星正式出境泰国记录",
-      "onboard_time": 1736217379,
-      "rank": 0,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

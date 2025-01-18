@@ -1,0 +1,410 @@
+{
+  "runTime": 1737174303546,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1441472,
+        "num": 1441472,
+        "word": "对金银细软有了更深刻的理解",
+        "onboard_time": 1737169338,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 952863,
+        "num": 952863,
+        "word": "韩网红扮外国人在机场打车被宰",
+        "onboard_time": 1737168016,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 71985,
+        "num": 706013,
+        "word": "穿越机画面看在建世界第一高桥",
+        "onboard_time": 1737172577,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 554020,
+        "num": 554020,
+        "word": "龚俊肿出氛围感",
+        "onboard_time": 1737170538,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 498331,
+        "num": 498331,
+        "word": "田曦薇被王鹤棣的手吓到",
+        "onboard_time": 1737168076,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364090,
+        "num": 364090,
+        "word": "多个手机厂商紧急备货超千万台",
+        "onboard_time": 1737168798,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 417273,
+        "num": 362765,
+        "word": "杨迪说周洁琼小巷人家入戏太深",
+        "onboard_time": 1737170597,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 381913,
+        "num": 362392,
+        "word": "2025春晚4个分会场首次合排",
+        "onboard_time": 1737158775,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356702,
+        "num": 356702,
+        "word": "小胖FMVP皮肤祥瑞亨通",
+        "onboard_time": 1737172938,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 237159,
+        "num": 352471,
+        "word": "宁夏银川发生3.2级地震",
+        "onboard_time": 1737171137,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1106904,
+        "num": 352191,
+        "word": "TikTok发声明",
+        "onboard_time": 1737171918,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 406913,
+        "num": 352037,
+        "word": "女子去世叔舅姑姨争数百万遗产",
+        "onboard_time": 1737169818,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351450,
+        "num": 351450,
+        "word": "中美网友对账后有些人天塌了",
+        "onboard_time": 1737136994,
+        "rank": 12,
+        "category": "民生新闻,国际时政"
+      },
+      {
+        "raw_hot": 350511,
+        "num": 350511,
+        "word": "王一博亚冬会开幕式主题歌推广曲MV",
+        "onboard_time": 1737162618,
+        "rank": 13,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 331691,
+        "num": 331691,
+        "word": "网传杨紫青簪行空降",
+        "onboard_time": 1737170118,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326899,
+        "num": 326899,
+        "word": "宋祖儿方称寻人男子是寄宿家庭弟弟",
+        "onboard_time": 1737156074,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308802,
+        "num": 308802,
+        "word": "业内人士说虞书欣林一cp感很强",
+        "onboard_time": 1737172759,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306778,
+        "num": 306778,
+        "word": "管晨辰因伤口钢板断掉再次手术",
+        "onboard_time": 1737163817,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248089,
+        "num": 248089,
+        "word": "泰总理称中国游客有危险系谣言",
+        "onboard_time": 1737166218,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132059,
+        "num": 247634,
+        "word": "12306可快速办理临时身份证",
+        "onboard_time": 1737165017,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370896,
+        "num": 242850,
+        "word": "女子离婚要求分割女儿5万压岁钱",
+        "onboard_time": 1737171259,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298159,
+        "num": 237194,
+        "word": "发文寻宋祖儿外国男子账号已注销",
+        "onboard_time": 1737172938,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290007,
+        "num": 232321,
+        "word": "五福临门官宣定档",
+        "onboard_time": 1737167718,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265125,
+        "num": 222838,
+        "word": "赵今麦张子枫都演警察了",
+        "onboard_time": 1737171796,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222184,
+        "num": 222184,
+        "word": "终于知道美妆蛋退出潮流的原因了",
+        "onboard_time": 1737164537,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121752,
+        "num": 219316,
+        "word": "樊振东反手暴力美学",
+        "onboard_time": 1737172338,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217812,
+        "num": 217812,
+        "word": "周受资称特朗普致力于与其公司合作",
+        "onboard_time": 1737161176,
+        "rank": 26,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 180100,
+        "num": 180100,
+        "word": "李昀锐修勾撒娇",
+        "onboard_time": 1737166696,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 171359,
+        "num": 179392,
+        "word": "李荣浩向歌迷道歉",
+        "onboard_time": 1737168918,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120060,
+        "num": 179077,
+        "word": "裴擒虎祥瑞亨通新皮肤",
+        "onboard_time": 1737174198,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96397,
+        "num": 178968,
+        "word": "夏鸣星灵欲回声",
+        "onboard_time": 1737172638,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178952,
+        "num": 178952,
+        "word": "国产剧大哥大嫂上新了",
+        "onboard_time": 1737172098,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176661,
+        "num": 176661,
+        "word": "李维刚承认带货原切牛肉卷为合成肉",
+        "onboard_time": 1737163758,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 171424,
+        "num": 171424,
+        "word": "国色芳华王擎扮演者被气到睡不着",
+        "onboard_time": 1737172217,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170400,
+        "num": 170400,
+        "word": "男子划开冰面救了条20斤大鱼说很香",
+        "onboard_time": 1737166936,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166836,
+        "num": 166836,
+        "word": "田曦薇骑士靴公主裙",
+        "onboard_time": 1737171318,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166055,
+        "num": 166055,
+        "word": "以闪亮之名",
+        "onboard_time": 1737173057,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151973,
+        "num": 151973,
+        "word": "异人之下",
+        "onboard_time": 1737170717,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142814,
+        "num": 142814,
+        "word": "相思令",
+        "onboard_time": 1737172398,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127376,
+        "num": 127376,
+        "word": "刘谦抗癌康复后将登春晚",
+        "onboard_time": 1737159077,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125280,
+        "num": 125280,
+        "word": "齐司礼浮喧将倾",
+        "onboard_time": 1737173119,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123137,
+        "num": 123137,
+        "word": "成龙张子枫领衔主演捕风追影",
+        "onboard_time": 1737171796,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122345,
+        "num": 122345,
+        "word": "加拿大千人零下20度抢1个家庭医生",
+        "onboard_time": 1737173898,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 116174,
+        "num": 116174,
+        "word": "大侦探第十季叫拾光季",
+        "onboard_time": 1737171318,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115990,
+        "num": 115990,
+        "word": "一觉醒来以为爸爸变成了兔子",
+        "onboard_time": 1737169818,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114672,
+        "num": 114672,
+        "word": "在上海花2000买一个黑天鹅生日蛋糕",
+        "onboard_time": 1737163457,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 111234,
+        "num": 111234,
+        "word": "王一博心跳同频",
+        "onboard_time": 1737174137,
+        "rank": 46,
+        "category": "音乐,旅游"
+      },
+      {
+        "raw_hot": 109828,
+        "num": 109828,
+        "word": "洪尚秀妻子回应金敏喜怀孕",
+        "onboard_time": 1737156074,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109387,
+        "num": 109387,
+        "word": "中美网友在小红书上热聊",
+        "onboard_time": 1737160097,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100166,
+        "num": 100166,
+        "word": "特朗普就职典礼将改为室内举行",
+        "onboard_time": 1737169578,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展冰雪产业丰富群众冰雪赛事活动#"
+    }
+  }
+}
