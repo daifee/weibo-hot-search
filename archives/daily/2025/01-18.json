@@ -1,7 +1,15 @@
 {
   "startTime": 1737131217967,
-  "endTime": 1737164210578,
+  "endTime": 1737165150162,
   "band_list": [
+    {
+      "raw_hot": 1204969,
+      "num": 298314,
+      "word": "韩国第一夫人暴瘦白发",
+      "onboard_time": 1737162737,
+      "rank": 12,
+      "category": "国际时政"
+    },
     {
       "raw_hot": 889677,
       "num": 1142348,
@@ -67,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 444770,
+      "num": 444770,
+      "word": "中美网友在小红书上热聊",
+      "onboard_time": 1737160097,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 439642,
       "num": 439642,
       "word": "强闪光灯下的李昀锐",
@@ -81,14 +97,6 @@
       "onboard_time": 1737128537,
       "rank": 5,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 420413,
-      "num": 420413,
-      "word": "中美网友在小红书上热聊",
-      "onboard_time": 1737160097,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 409664,
@@ -155,14 +163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 298314,
-      "num": 298314,
-      "word": "韩国第一夫人暴瘦白发",
-      "onboard_time": 1737162737,
-      "rank": 12,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 284503,
       "num": 284503,
       "word": "漂白第1集杀疯了",
@@ -187,8 +187,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265282,
+      "num": 265282,
+      "word": "李维刚承认带货原切牛肉卷为合成肉",
+      "onboard_time": 1737163758,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 256591,
-      "num": 161649,
+      "num": 176534,
       "word": "刘谦抗癌康复后将登春晚",
       "onboard_time": 1737159077,
       "rank": 20,
@@ -196,11 +204,27 @@
     },
     {
       "raw_hot": 254624,
-      "num": 161637,
+      "num": 175979,
       "word": "90后一家三口一年消费20万",
       "onboard_time": 1737156014,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 254255,
+      "num": 307439,
+      "word": "布林肯记者会上记者被抬走",
+      "onboard_time": 1737162797,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 241147,
+      "num": 131378,
+      "word": "在上海花2000买一个黑天鹅生日蛋糕",
+      "onboard_time": 1737163457,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 210874,
@@ -219,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201741,
+      "num": 129253,
+      "word": "管晨辰因伤口钢板断掉再次手术",
+      "onboard_time": 1737163817,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200915,
       "num": 200915,
       "word": "王源古装扮相",
@@ -228,7 +260,7 @@
     },
     {
       "raw_hot": 197447,
-      "num": 161547,
+      "num": 176306,
       "word": "狗妈妈凌晨守在摊前作揖乞食",
       "onboard_time": 1737158116,
       "rank": 22,
@@ -251,12 +283,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189418,
+      "num": 189418,
+      "word": "BC创始人展示李昀锐的照片",
+      "onboard_time": 1737159315,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 188120,
-      "num": 161385,
+      "num": 161509,
       "word": "看似养胃实则伤胃的4个习惯",
       "onboard_time": 1737156014,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 180128,
+      "num": 180128,
+      "word": "光与夜之恋",
+      "onboard_time": 1737108680,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 177927,
@@ -265,14 +313,6 @@
       "onboard_time": 1737123979,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 172999,
-      "num": 307439,
-      "word": "布林肯记者会上记者被抬走",
-      "onboard_time": 1737162797,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 167843,
@@ -291,14 +331,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 161375,
-      "num": 161375,
-      "word": "BC创始人展示李昀锐的照片",
-      "onboard_time": 1737159315,
-      "rank": 24,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 160950,
       "num": 136821,
       "word": "谷爱凌时隔5年再夺世界杯冠军",
@@ -307,11 +339,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158206,
-      "num": 158206,
-      "word": "光与夜之恋",
-      "onboard_time": 1737108680,
-      "rank": 25,
+      "raw_hot": 153903,
+      "num": 153903,
+      "word": "这么多人偏偏让他站了C位",
+      "onboard_time": 1737160397,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 149467,
+      "num": 149467,
+      "word": "齐司礼新卡",
+      "onboard_time": 1737164297,
+      "rank": 26,
       "category": "游戏"
     },
     {
@@ -331,14 +371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 143759,
-      "num": 131378,
-      "word": "在上海花2000买一个黑天鹅生日蛋糕",
-      "onboard_time": 1737163457,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 143417,
       "num": 143417,
       "word": "周受资称将确保TikTok继续繁荣",
@@ -347,12 +379,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 140453,
-      "num": 131345,
-      "word": "这么多人偏偏让他站了C位",
-      "onboard_time": 1737160397,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 139962,
+      "num": 139962,
+      "word": "白鹿晒白烁好多小挂坠",
+      "onboard_time": 1737162677,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 137554,
@@ -411,12 +443,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 123166,
-      "num": 123166,
-      "word": "白鹿晒白烁好多小挂坠",
-      "onboard_time": 1737162677,
-      "rank": 33,
-      "category": "剧集"
+      "raw_hot": 124973,
+      "num": 124973,
+      "word": "91岁崔道植宣布警号022272重启",
+      "onboard_time": 1737164178,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121036,
@@ -467,6 +499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 115484,
+      "num": 115484,
+      "word": "终于知道美妆蛋退出潮流的原因了",
+      "onboard_time": 1737164537,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 115097,
       "num": 115097,
       "word": "代露娃演技好细腻",
@@ -489,14 +529,6 @@
       "onboard_time": 1737160577,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 108212,
-      "num": 108212,
-      "word": "李维刚承认带货原切牛肉卷为合成肉",
-      "onboard_time": 1737163758,
-      "rank": 38,
-      "category": "网红"
     },
     {
       "raw_hot": 105745,
@@ -555,12 +587,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 89197,
+      "num": 89197,
+      "word": "特朗普多次公开支持TikTok",
+      "onboard_time": 1737163758,
+      "rank": 44,
+      "category": "国际时政,互联网"
+    },
+    {
       "raw_hot": 87757,
       "num": 87757,
       "word": "春晚第三次联排阵容",
       "onboard_time": 1737118638,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 87746,
+      "num": 87746,
+      "word": "12306可快速办理临时身份证",
+      "onboard_time": 1737165017,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87639,
@@ -571,12 +619,36 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 87288,
+      "num": 87288,
+      "word": "郑州动物王国的巴西貘火了",
+      "onboard_time": 1737164117,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 86846,
+      "num": 86846,
+      "word": "日媒报道张本智和丢冠",
+      "onboard_time": 1737164956,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85352,
       "num": 85352,
       "word": "巴特勒复出",
       "onboard_time": 1737163937,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84968,
+      "num": 84968,
+      "word": "双鱼座的进阶是从内耗到外耗",
+      "onboard_time": 1737162618,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 83239,
@@ -587,44 +659,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 82024,
-      "num": 82024,
-      "word": "郑州动物王国的巴西貘火了",
-      "onboard_time": 1737164117,
-      "rank": 43,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 82014,
-      "num": 82014,
-      "word": "特朗普多次公开支持TikTok",
-      "onboard_time": 1737163758,
-      "rank": 44,
-      "category": "国际时政,互联网"
-    },
-    {
-      "raw_hot": 79948,
-      "num": 79948,
-      "word": "管晨辰因伤口钢板断掉再次手术",
-      "onboard_time": 1737163817,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 79816,
       "num": 79816,
       "word": "2025狮子座好运清单",
       "onboard_time": 1737132316,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 79497,
-      "num": 79497,
-      "word": "91岁崔道植宣布警号022272重启",
-      "onboard_time": 1737164178,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79294,
@@ -644,7 +684,7 @@
     },
     {
       "raw_hot": 77958,
-      "num": 77958,
+      "num": 155808,
       "word": "SK发文道歉",
       "onboard_time": 1737159197,
       "rank": 48,
@@ -699,7 +739,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68895,
+      "raw_hot": 69074,
       "num": 680683,
       "word": "我国找矿又有重大突破",
       "onboard_time": 1737122298,
