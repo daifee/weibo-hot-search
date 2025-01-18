@@ -1,7 +1,15 @@
 {
   "startTime": 1737131217967,
-  "endTime": 1737178582069,
+  "endTime": 1737181676201,
   "band_list": [
+    {
+      "raw_hot": 1980550,
+      "num": 1980550,
+      "word": "赵樱子曝娱乐圈有一对夫妻离婚是真的",
+      "onboard_time": 1737178697,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1509855,
       "num": 1509855,
@@ -121,6 +129,14 @@
       "onboard_time": 1737163758,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 615823,
+      "num": 615823,
+      "word": "男童点爆竹扔进窨井被炸起数米高",
+      "onboard_time": 1737178818,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 610104,
@@ -275,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 380180,
+      "num": 380180,
+      "word": "杨紫谈接下国色芳华的原因",
+      "onboard_time": 1737179238,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 375921,
       "num": 375921,
       "word": "美最高法支持政府对TikTok强迫出售令",
@@ -323,12 +347,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 350664,
+      "num": 350664,
+      "word": "好东西",
+      "onboard_time": 1737177318,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 339212,
       "num": 339212,
       "word": "本科毕业入伍不到1年立一等功",
       "onboard_time": 1737105860,
       "rank": 8,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 333236,
+      "num": 333236,
+      "word": "小胖回城特效",
+      "onboard_time": 1737175277,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 331691,
@@ -363,12 +403,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 288522,
-      "num": 288522,
-      "word": "小胖回城特效",
-      "onboard_time": 1737175277,
-      "rank": 26,
-      "category": "电竞"
+      "raw_hot": 287524,
+      "num": 151192,
+      "word": "戴眼镜化妆丑的女生有福了",
+      "onboard_time": 1737180557,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 284503,
@@ -385,6 +425,14 @@
       "onboard_time": 1737141072,
       "rank": 9,
       "category": "网红"
+    },
+    {
+      "raw_hot": 268285,
+      "num": 268285,
+      "word": "李昀锐米兰活动人气",
+      "onboard_time": 1737179357,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 265125,
@@ -427,12 +475,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 229570,
+      "num": 221926,
+      "word": "李昀锐说自己28了不是宝宝了",
+      "onboard_time": 1737180438,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229286,
       "num": 170400,
       "word": "男子划开冰面救了条20斤大鱼说很香",
       "onboard_time": 1737166936,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 224037,
+      "num": 224037,
+      "word": "永夜星河大结局把外国网友看哭了",
+      "onboard_time": 1737180678,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 222508,
@@ -499,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197922,
+      "num": 187013,
+      "word": "张远看再见爱人4是我的脸替",
+      "onboard_time": 1737180858,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197447,
       "num": 176306,
       "word": "狗妈妈凌晨守在摊前作揖乞食",
@@ -507,12 +579,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 193546,
-      "num": 193546,
-      "word": "好东西",
-      "onboard_time": 1737177318,
-      "rank": 35,
-      "category": "电影"
+      "raw_hot": 194534,
+      "num": 194534,
+      "word": "杨玉环星之鸣奏新皮肤",
+      "onboard_time": 1737178458,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 192843,
@@ -555,14 +627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188824,
-      "num": 188824,
-      "word": "杨玉环星之鸣奏新皮肤",
-      "onboard_time": 1737178458,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 188120,
       "num": 161509,
       "word": "看似养胃实则伤胃的4个习惯",
@@ -577,6 +641,14 @@
       "onboard_time": 1737176598,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182765,
+      "num": 182765,
+      "word": "王影璐被冯宝宝腌入味了",
+      "onboard_time": 1737179659,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 180128,
@@ -739,6 +811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 159052,
+      "num": 182987,
+      "word": "马龙速度有多快",
+      "onboard_time": 1737178458,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153903,
       "num": 153903,
       "word": "这么多人偏偏让他站了C位",
@@ -747,8 +827,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 149892,
-      "num": 149892,
+      "raw_hot": 151991,
+      "num": 151991,
       "word": "山东明确最长18天婚假",
       "onboard_time": 1737175998,
       "rank": 41,
@@ -800,6 +880,14 @@
       "word": "玉面郎君蒋长扬",
       "onboard_time": 1737178038,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 145870,
+      "num": 148440,
+      "word": "千朵桃花搞到真养成系了",
+      "onboard_time": 1737181097,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -939,6 +1027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130136,
+      "num": 130136,
+      "word": "一诺黄俊捷合照",
+      "onboard_time": 1737181457,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 129526,
       "num": 129526,
       "word": "陆沉昨日成规",
@@ -979,6 +1075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124583,
+      "num": 263099,
+      "word": "中美网友互发家人照片",
+      "onboard_time": 1737179538,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123154,
       "num": 123154,
       "word": "赶火车忘带身份证咋办",
@@ -1011,6 +1115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120405,
+      "num": 120405,
+      "word": "小孩姐抽中半边年猪妈妈乐疯了",
+      "onboard_time": 1737180619,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120060,
       "num": 179077,
       "word": "裴擒虎祥瑞亨通新皮肤",
@@ -1019,20 +1131,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 119992,
-      "num": 119992,
-      "word": "马龙速度有多快",
-      "onboard_time": 1737178458,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 118043,
       "num": 118043,
       "word": "国乒称着眼洛杉矶奥运会梯队建设",
       "onboard_time": 1737128479,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117375,
+      "num": 117375,
+      "word": "白月梵星草地play",
+      "onboard_time": 1737179479,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 116603,
@@ -1091,12 +1203,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 112572,
+      "num": 112572,
+      "word": "打工人被这段mean的没边",
+      "onboard_time": 1737181517,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110903,
       "num": 110903,
       "word": "泰总理用中文向游客保证安全",
       "onboard_time": 1737160577,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 110310,
+      "num": 110310,
+      "word": "里夫斯38分",
+      "onboard_time": 1737180917,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 106975,
@@ -1464,6 +1592,22 @@
       "word": "张雅钦把和杨紫的合照放C位",
       "onboard_time": 1737155714,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 56594,
+      "num": 118226,
+      "word": "GOT7随舞2025",
+      "onboard_time": 1737180138,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 56029,
+      "num": 151203,
+      "word": "异人之下2片头解读",
+      "onboard_time": 1737181638,
+      "rank": 29,
       "category": "剧集"
     },
     {

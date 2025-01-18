@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737178582069,
+  "endTime": 1737181676201,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1169,6 +1169,14 @@
       "onboard_time": 1736589808,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1980550,
+      "num": 1980550,
+      "word": "赵樱子曝娱乐圈有一对夫妻离婚是真的",
+      "onboard_time": 1737178697,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1979803,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735890917,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1430319,
-      "num": 1430319,
-      "word": "向佐回应和郭碧婷感情",
-      "onboard_time": 1736832199,
-      "rank": 8,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
