@@ -1,0 +1,410 @@
+{
+  "runTime": 1737185726981,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2976802,
+        "num": 2976802,
+        "word": "李小冉气到发抖",
+        "onboard_time": 1737182356,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 677000,
+        "num": 677000,
+        "word": "美国网友说对中国的刻板印象被击碎",
+        "onboard_time": 1737183136,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68223,
+        "num": 421943,
+        "word": "过年食谱被安排得明明白白",
+        "onboard_time": 1737172277,
+        "rank": 2,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1001044,
+        "num": 419916,
+        "word": "赵樱子曝娱乐圈有一对夫妻离婚是真的",
+        "onboard_time": 1737178697,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406794,
+        "num": 406794,
+        "word": "美网友哽咽哭诉天价学费账单",
+        "onboard_time": 1737175697,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 317965,
+        "num": 317965,
+        "word": "董明珠被停职审查系谣言",
+        "onboard_time": 1737183918,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439731,
+        "num": 295670,
+        "word": "东方茯苓和小兰花",
+        "onboard_time": 1737182897,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 415661,
+        "num": 279426,
+        "word": "杨紫谈接下国色芳华的原因",
+        "onboard_time": 1737179238,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256079,
+        "num": 256079,
+        "word": "中美网友互发家人照片",
+        "onboard_time": 1737179538,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228563,
+        "num": 228563,
+        "word": "加拿大千人零下20度抢1个家庭医生",
+        "onboard_time": 1737173898,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 570406,
+        "num": 228381,
+        "word": "男童点爆竹扔进窨井被炸起数米高",
+        "onboard_time": 1737178818,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 512346,
+        "num": 228126,
+        "word": "TikTok发声明",
+        "onboard_time": 1737171918,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 370561,
+        "num": 227999,
+        "word": "孙珍妮妲己幼年体",
+        "onboard_time": 1737184517,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333449,
+        "num": 227528,
+        "word": "武艺不知道爸妈有没有离婚",
+        "onboard_time": 1737184817,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311528,
+        "num": 227381,
+        "word": "李昀锐说自己28了不是宝宝了",
+        "onboard_time": 1737180438,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299207,
+        "num": 226997,
+        "word": "贺峻霖想消失的心达到顶峰",
+        "onboard_time": 1737183077,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226995,
+        "num": 226995,
+        "word": "22岁脑瘫女孩街头卖发卡2元一个",
+        "onboard_time": 1737174860,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207617,
+        "num": 207617,
+        "word": "对金银细软有了更深刻的理解",
+        "onboard_time": 1737169338,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204687,
+        "num": 204687,
+        "word": "D3014次列车因撞鸟临时停车",
+        "onboard_time": 1737185058,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198632,
+        "num": 198632,
+        "word": "韩网红扮外国人在机场打车被宰",
+        "onboard_time": 1737168016,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 239537,
+        "num": 198479,
+        "word": "龚俊肿出氛围感",
+        "onboard_time": 1737170538,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231862,
+        "num": 198289,
+        "word": "戴眼镜化妆丑的女生有福了",
+        "onboard_time": 1737180557,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 220195,
+        "num": 198219,
+        "word": "刘晓庆迟到两小时全员等待",
+        "onboard_time": 1737185538,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198097,
+        "num": 198097,
+        "word": "赴山海",
+        "onboard_time": 1737184817,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182594,
+        "num": 182594,
+        "word": "一诺黄俊捷合照",
+        "onboard_time": 1737181457,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190706,
+        "num": 182351,
+        "word": "猫耳终于等到你",
+        "onboard_time": 1737184517,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 195621,
+        "num": 181614,
+        "word": "李小冉 我不顶狗屎",
+        "onboard_time": 1737184817,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177902,
+        "num": 177902,
+        "word": "贺峻霖内疚蒙被哭了",
+        "onboard_time": 1737183798,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160912,
+        "num": 160912,
+        "word": "美国网友大赞中国人民太热情友好了",
+        "onboard_time": 1737179837,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93126,
+        "num": 158308,
+        "word": "李子柒邀你同看2025中国网络视听盛典",
+        "onboard_time": 1737184578,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 612016,
+        "num": 158193,
+        "word": "微信更新了callkit了",
+        "onboard_time": 1737184517,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 157330,
+        "num": 157330,
+        "word": "发文寻宋祖儿外国男子账号已注销",
+        "onboard_time": 1737172938,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154492,
+        "num": 154492,
+        "word": "永夜星河大结局把外国网友看哭了",
+        "onboard_time": 1737180678,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147012,
+        "num": 147012,
+        "word": "女子离婚要求分割女儿5万压岁钱",
+        "onboard_time": 1737171259,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105630,
+        "num": 145001,
+        "word": "2025春运",
+        "onboard_time": 1737184218,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143170,
+        "num": 143170,
+        "word": "张远看再见爱人4是我的脸替",
+        "onboard_time": 1737180858,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136633,
+        "num": 136633,
+        "word": "母亲卖苕皮一分一分为孩子攒药费",
+        "onboard_time": 1737184877,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136474,
+        "num": 136474,
+        "word": "女子去世叔舅姑姨争数百万遗产",
+        "onboard_time": 1737169818,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132877,
+        "num": 132877,
+        "word": "十刻想见你",
+        "onboard_time": 1737185177,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 128290,
+        "num": 128290,
+        "word": "王一博亚冬会开幕式主题歌推广曲MV",
+        "onboard_time": 1737162618,
+        "rank": 39,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 126602,
+        "num": 126602,
+        "word": "异人2年底裁员专往大动脉上裁",
+        "onboard_time": 1737183436,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121557,
+        "num": 121557,
+        "word": "毛不易不语只是一味地发年后安排",
+        "onboard_time": 1737182176,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112025,
+        "num": 112025,
+        "word": "田曦薇被王鹤棣的手吓到",
+        "onboard_time": 1737168076,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106478,
+        "num": 106478,
+        "word": "2025春晚4个分会场首次合排",
+        "onboard_time": 1737158775,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104965,
+        "num": 104965,
+        "word": "好东西",
+        "onboard_time": 1737177318,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104624,
+        "num": 104624,
+        "word": "女子爆改喂鸡装置一次性喂50只流浪猫",
+        "onboard_time": 1737182658,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103698,
+        "num": 103698,
+        "word": "什刹海偶遇李兰迪拍摄",
+        "onboard_time": 1737182060,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95613,
+        "num": 95613,
+        "word": "澳网男单4号种子爆冷出局",
+        "onboard_time": 1737185177,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94320,
+        "num": 94320,
+        "word": "李昀锐米兰活动人气",
+        "onboard_time": 1737179357,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 86358,
+        "num": 86358,
+        "word": "熊猫界也有自己的大男主",
+        "onboard_time": 1737185658,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同美国当选总统特朗普通电话#"
+    }
+  }
+}

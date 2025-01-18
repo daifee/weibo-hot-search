@@ -1,10 +1,10 @@
 {
   "startTime": 1737131217967,
-  "endTime": 1737184747024,
+  "endTime": 1737185726981,
   "band_list": [
     {
-      "raw_hot": 2903966,
-      "num": 2903966,
+      "raw_hot": 2976802,
+      "num": 2976802,
       "word": "李小冉气到发抖",
       "onboard_time": 1737182356,
       "rank": 13,
@@ -131,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 677000,
+      "num": 677000,
+      "word": "美国网友说对中国的刻板印象被击碎",
+      "onboard_time": 1737183136,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 658773,
       "num": 658773,
       "word": "发文寻宋祖儿外国男子账号已注销",
@@ -145,6 +153,14 @@
       "onboard_time": 1737163758,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 612016,
+      "num": 177394,
+      "word": "微信更新了callkit了",
+      "onboard_time": 1737184517,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 610104,
@@ -235,12 +251,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 442953,
-      "num": 442953,
-      "word": "美国网友说对中国的刻板印象被击碎",
-      "onboard_time": 1737183136,
-      "rank": 4,
-      "category": "民生新闻"
+      "raw_hot": 439731,
+      "num": 295670,
+      "word": "东方茯苓和小兰花",
+      "onboard_time": 1737182897,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 439642,
@@ -339,6 +355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 370561,
+      "num": 227999,
+      "word": "孙珍妮妲己幼年体",
+      "onboard_time": 1737184517,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 365606,
       "num": 157607,
       "word": "在上海花2000买一个黑天鹅生日蛋糕",
@@ -371,28 +395,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 342549,
-      "num": 177394,
-      "word": "微信更新了callkit了",
-      "onboard_time": 1737184517,
-      "rank": 25,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 341592,
-      "num": 249385,
-      "word": "东方茯苓和小兰花",
-      "onboard_time": 1737182897,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 339212,
       "num": 339212,
       "word": "本科毕业入伍不到1年立一等功",
       "onboard_time": 1737105860,
       "rank": 8,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 333449,
+      "num": 227528,
+      "word": "武艺不知道爸妈有没有离婚",
+      "onboard_time": 1737184817,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 333236,
@@ -427,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317965,
+      "num": 317965,
+      "word": "董明珠被停职审查系谣言",
+      "onboard_time": 1737183918,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 311813,
       "num": 311813,
       "word": "洪尚秀妻子回应金敏喜怀孕",
@@ -436,11 +460,19 @@
     },
     {
       "raw_hot": 307979,
-      "num": 177955,
+      "num": 198289,
       "word": "戴眼镜化妆丑的女生有福了",
       "onboard_time": 1737180557,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 299207,
+      "num": 248099,
+      "word": "贺峻霖想消失的心达到顶峰",
+      "onboard_time": 1737183077,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 290806,
@@ -515,14 +547,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 248099,
-      "num": 248099,
-      "word": "贺峻霖想消失的心达到顶峰",
-      "onboard_time": 1737183077,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 239803,
       "num": 189493,
       "word": "张远看再见爱人4是我的脸替",
@@ -571,6 +595,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 220195,
+      "num": 198219,
+      "word": "刘晓庆迟到两小时全员等待",
+      "onboard_time": 1737185538,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220047,
       "num": 220047,
       "word": "王传君齐溪出演异人之下2",
@@ -603,6 +635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 204687,
+      "num": 204687,
+      "word": "D3014次列车因撞鸟临时停车",
+      "onboard_time": 1737185058,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 204189,
       "num": 204189,
       "word": "6名泰缅边境失联被困中国公民回国",
@@ -627,12 +667,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198097,
+      "num": 198097,
+      "word": "赴山海",
+      "onboard_time": 1737184817,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197447,
       "num": 176306,
       "word": "狗妈妈凌晨守在摊前作揖乞食",
       "onboard_time": 1737158116,
       "rank": 22,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 195621,
+      "num": 181614,
+      "word": "李小冉 我不顶狗屎",
+      "onboard_time": 1737184817,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 194534,
@@ -649,6 +705,14 @@
       "onboard_time": 1737106998,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 190706,
+      "num": 185628,
+      "word": "猫耳终于等到你",
+      "onboard_time": 1737184517,
+      "rank": 17,
+      "category": "动漫"
     },
     {
       "raw_hot": 189692,
@@ -699,20 +763,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 185628,
-      "num": 185628,
-      "word": "猫耳终于等到你",
-      "onboard_time": 1737184517,
-      "rank": 17,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 182765,
       "num": 182765,
       "word": "王影璐被冯宝宝腌入味了",
       "onboard_time": 1737179659,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182594,
+      "num": 182594,
+      "word": "一诺黄俊捷合照",
+      "onboard_time": 1737181457,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 180128,
@@ -761,14 +825,6 @@
       "onboard_time": 1737182060,
       "rank": 24,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 175721,
-      "num": 175721,
-      "word": "孙珍妮妲己幼年体",
-      "onboard_time": 1737184517,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 174125,
@@ -875,14 +931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 161660,
-      "num": 177837,
-      "word": "董明珠被停职审查系谣言",
-      "onboard_time": 1737183918,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161042,
       "num": 161042,
       "word": "张雅钦国色芳华人生镜头",
@@ -961,14 +1009,6 @@
       "onboard_time": 1737170358,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 148852,
-      "num": 148852,
-      "word": "一诺黄俊捷合照",
-      "onboard_time": 1737181457,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 148437,
@@ -1083,6 +1123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136633,
+      "num": 136633,
+      "word": "母亲卖苕皮一分一分为孩子攒药费",
+      "onboard_time": 1737184877,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136397,
       "num": 136397,
       "word": "王俊凯二搭刘德华",
@@ -1129,6 +1177,14 @@
       "onboard_time": 1737176598,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132877,
+      "num": 132877,
+      "word": "十刻想见你",
+      "onboard_time": 1737185177,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 131446,
@@ -1219,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121557,
+      "num": 121557,
+      "word": "毛不易不语只是一味地发年后安排",
+      "onboard_time": 1737182176,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 121132,
       "num": 177452,
       "word": "里夫斯38分",
@@ -1241,14 +1305,6 @@
       "onboard_time": 1737180619,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120300,
-      "num": 120300,
-      "word": "毛不易不语只是一味地发年后安排",
-      "onboard_time": 1737182176,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 120060,
@@ -1436,7 +1492,7 @@
     },
     {
       "raw_hot": 97658,
-      "num": 97658,
+      "num": 158308,
       "word": "李子柒邀你同看2025中国网络视听盛典",
       "onboard_time": 1737184578,
       "rank": 43,
@@ -1473,6 +1529,14 @@
       "onboard_time": 1737165197,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95613,
+      "num": 95613,
+      "word": "澳网男单4号种子爆冷出局",
+      "onboard_time": 1737185177,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 95124,
@@ -1569,6 +1633,14 @@
       "onboard_time": 1737167599,
       "rank": 49,
       "category": "音乐,体育"
+    },
+    {
+      "raw_hot": 86358,
+      "num": 86358,
+      "word": "熊猫界也有自己的大男主",
+      "onboard_time": 1737185658,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85352,
@@ -1699,6 +1771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68223,
+      "num": 470351,
+      "word": "过年食谱被安排得明明白白",
+      "onboard_time": 1737172277,
+      "rank": 2,
+      "category": "美食"
+    },
+    {
       "raw_hot": 67142,
       "num": 67142,
       "word": "国家统一是不可阻挡的历史大势",
@@ -1785,14 +1865,6 @@
       "onboard_time": 1737155714,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 52829,
-      "num": 470351,
-      "word": "过年食谱被安排得明明白白",
-      "onboard_time": 1737172277,
-      "rank": 2,
-      "category": "美食"
     },
     {
       "raw_hot": 48504,
