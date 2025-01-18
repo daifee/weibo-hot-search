@@ -1,6 +1,6 @@
 {
   "startTime": 1736612741456,
-  "endTime": 1737174303546,
+  "endTime": 1737175103126,
   "band_list": [
     {
       "raw_hot": 4913394,
@@ -523,6 +523,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1509855,
+      "num": 1509855,
+      "word": "对金银细软有了更深刻的理解",
+      "onboard_time": 1737169338,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1505240,
       "num": 1018704,
       "word": "李威",
@@ -609,14 +617,6 @@
       "onboard_time": 1737030318,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1441472,
-      "num": 1441472,
-      "word": "对金银细软有了更深刻的理解",
-      "onboard_time": 1737169338,
-      "rank": 10,
-      "category": "幽默"
     },
     {
       "raw_hot": 1436773,
@@ -1011,20 +1011,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1110993,
+      "num": 352191,
+      "word": "TikTok发声明",
+      "onboard_time": 1737171918,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1110762,
       "num": 1110762,
       "word": "钟楚曦经济补偿曾舜晞",
       "onboard_time": 1736640438,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1106904,
-      "num": 352191,
-      "word": "TikTok发声明",
-      "onboard_time": 1737171918,
-      "rank": 10,
-      "category": "互联网"
     },
     {
       "raw_hot": 1098296,
@@ -2763,6 +2763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 594762,
+      "num": 594762,
+      "word": "龚俊肿出氛围感",
+      "onboard_time": 1737170538,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 594688,
       "num": 594688,
       "word": "马斯克母亲已签约MCN公司",
@@ -3009,14 +3017,6 @@
       "onboard_time": 1736692942,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 554020,
-      "num": 554020,
-      "word": "龚俊肿出氛围感",
-      "onboard_time": 1737170538,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 552334,
@@ -3641,6 +3641,14 @@
       "onboard_time": 1736828718,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 468743,
+      "num": 468743,
+      "word": "业内人士说虞书欣林一cp感很强",
+      "onboard_time": 1737172759,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 468548,
@@ -4475,6 +4483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 390511,
+      "num": 242850,
+      "word": "女子离婚要求分割女儿5万压岁钱",
+      "onboard_time": 1737171259,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 389682,
       "num": 389682,
       "word": "台积电4nm芯片量产",
@@ -4729,14 +4745,6 @@
       "onboard_time": 1737015678,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 370896,
-      "num": 242850,
-      "word": "女子离婚要求分割女儿5万压岁钱",
-      "onboard_time": 1737171259,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 369854,
@@ -5689,14 +5697,6 @@
       "onboard_time": 1737015738,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 308802,
-      "num": 308802,
-      "word": "业内人士说虞书欣林一cp感很强",
-      "onboard_time": 1737172759,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 308666,
@@ -7435,6 +7435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227919,
+      "num": 227919,
+      "word": "加拿大千人零下20度抢1个家庭医生",
+      "onboard_time": 1737173898,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 227662,
       "num": 227662,
       "word": "祝绪丹新剧垂耳兔造型",
@@ -7577,6 +7585,14 @@
       "onboard_time": 1736647400,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222310,
+      "num": 222310,
+      "word": "22岁脑瘫女孩街头卖发卡2元一个",
+      "onboard_time": 1737174860,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222295,
@@ -8561,6 +8577,14 @@
       "onboard_time": 1736997018,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199857,
+      "num": 199857,
+      "word": "王星越领衔主演五福临门",
+      "onboard_time": 1737174437,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 199631,
@@ -10387,12 +10411,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 174125,
+      "num": 183819,
+      "word": "国色芳华王擎扮演者被气到睡不着",
+      "onboard_time": 1737172217,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174016,
       "num": 157064,
       "word": "学8年中医外国人因TikTok难民破防了",
       "onboard_time": 1737101238,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 173997,
+      "num": 173997,
+      "word": "相思令",
+      "onboard_time": 1736764639,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 173986,
@@ -10609,14 +10649,6 @@
       "onboard_time": 1736677579,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 171424,
-      "num": 171424,
-      "word": "国色芳华王擎扮演者被气到睡不着",
-      "onboard_time": 1737172217,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 171382,
@@ -10977,6 +11009,14 @@
       "onboard_time": 1736842938,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166366,
+      "num": 213151,
+      "word": "夏鸣星灵欲回声",
+      "onboard_time": 1737172638,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 166332,
@@ -12571,6 +12611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145022,
+      "num": 145022,
+      "word": "成龙张子枫领衔主演捕风追影",
+      "onboard_time": 1737171796,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 145012,
       "num": 145012,
       "word": "这6个器官最不抗冻",
@@ -12753,14 +12801,6 @@
       "onboard_time": 1736664920,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 142814,
-      "num": 142814,
-      "word": "相思令",
-      "onboard_time": 1736764639,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 142786,
@@ -13217,6 +13257,14 @@
       "onboard_time": 1736760140,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136564,
+      "num": 136564,
+      "word": "尹锡悦发文报平安",
+      "onboard_time": 1737174318,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 136411,
@@ -14251,6 +14299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 126295,
+      "num": 126295,
+      "word": "大侦探第十季叫拾光季",
+      "onboard_time": 1737171318,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126232,
       "num": 238903,
       "word": "海阳海上火箭首飞现场热闹似过年",
@@ -14555,14 +14611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 123137,
-      "num": 123137,
-      "word": "成龙张子枫领衔主演捕风追影",
-      "onboard_time": 1737171796,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 123098,
       "num": 123098,
       "word": "娜扎没有技巧就是硬飒",
@@ -14603,14 +14651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122365,
-      "num": 122365,
-      "word": "大侦探第十季叫拾光季",
-      "onboard_time": 1737171318,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 122360,
       "num": 122360,
       "word": "马斯克母亲入驻小红书已近4年",
@@ -14625,14 +14665,6 @@
       "onboard_time": 1736725516,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 122345,
-      "num": 122345,
-      "word": "加拿大千人零下20度抢1个家庭医生",
-      "onboard_time": 1737173898,
-      "rank": 42,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 122308,
@@ -15435,6 +15467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 115631,
+      "num": 115631,
+      "word": "王一博心跳同频",
+      "onboard_time": 1737174137,
+      "rank": 46,
+      "category": "音乐,旅游"
+    },
+    {
       "raw_hot": 115468,
       "num": 115468,
       "word": "加州山火卫星图对比触目惊心",
@@ -15649,6 +15689,14 @@
       "onboard_time": 1736861719,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113563,
+      "num": 113563,
+      "word": "俄罗斯伊朗签署全面战略伙伴关系条约",
+      "onboard_time": 1737174860,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 113562,
@@ -15929,14 +15977,6 @@
       "onboard_time": 1736860283,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 111234,
-      "num": 111234,
-      "word": "王一博心跳同频",
-      "onboard_time": 1737174137,
-      "rank": 46,
-      "category": "音乐,旅游"
     },
     {
       "raw_hot": 111233,
@@ -16321,6 +16361,14 @@
       "onboard_time": 1736664440,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106975,
+      "num": 106975,
+      "word": "祝绪丹去吃泉州小吃啦",
+      "onboard_time": 1737175035,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 106880,
@@ -17099,14 +17147,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96397,
-      "num": 178968,
-      "word": "夏鸣星灵欲回声",
-      "onboard_time": 1737172638,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 96244,
       "num": 172040,
       "word": "央行行长回应人民币近期贬值情况",
@@ -17707,6 +17747,14 @@
       "category": "艺人,海外新闻"
     },
     {
+      "raw_hot": 83437,
+      "num": 706013,
+      "word": "穿越机画面看在建世界第一高桥",
+      "onboard_time": 1737172577,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 83350,
       "num": 184716,
       "word": "许七安 你不是度苦你是命苦",
@@ -18105,14 +18153,6 @@
       "onboard_time": 1737101838,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 71985,
-      "num": 706013,
-      "word": "穿越机画面看在建世界第一高桥",
-      "onboard_time": 1737172577,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 71776,
@@ -20921,6 +20961,9 @@
     },
     {
       "word": "#冰雪春天#"
+    },
+    {
+      "word": "#习近平同美国当选总统特朗普通电话#"
     }
   ]
 }
