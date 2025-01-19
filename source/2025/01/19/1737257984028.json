@@ -1,0 +1,410 @@
+{
+  "runTime": 1737257984028,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1353805,
+        "num": 1353805,
+        "word": "湖南卫视春晚官宣阵容",
+        "onboard_time": 1737253938,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 781432,
+        "num": 781432,
+        "word": "TikTok通知美用户将暂停服务",
+        "onboard_time": 1737254657,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 30056,
+        "num": 596856,
+        "word": "中式纹样里祝福满满",
+        "onboard_time": 1737236350,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 788478,
+        "num": 595986,
+        "word": "留几手曝杨子留了90%的现金给黄圣依",
+        "onboard_time": 1737243074,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508274,
+        "num": 508274,
+        "word": "正常腿被医生伪装成畸形做断骨增高",
+        "onboard_time": 1737248416,
+        "rank": 4,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 1953113,
+        "num": 497839,
+        "word": "特朗普涉TikTok禁令最新表态",
+        "onboard_time": 1737253578,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 735179,
+        "num": 477648,
+        "word": "19.9元票价再现春节档",
+        "onboard_time": 1737253938,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 456855,
+        "num": 456855,
+        "word": "多款手机价格集体降至6000元以内",
+        "onboard_time": 1737254236,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 667836,
+        "num": 435270,
+        "word": "葛夕回应麦琳黄圣依打架",
+        "onboard_time": 1737249677,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350023,
+        "num": 350023,
+        "word": "加油站错加汽油后奔驰大G趴窝",
+        "onboard_time": 1737254419,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1215468,
+        "num": 349890,
+        "word": "你摸我腰",
+        "onboard_time": 1737255077,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 477423,
+        "num": 349808,
+        "word": "李昀锐不语 只是一味地升辈分",
+        "onboard_time": 1737254718,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 460034,
+        "num": 349790,
+        "word": "周受资代表TikTok感谢美国用户",
+        "onboard_time": 1737247277,
+        "rank": 12,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 349615,
+        "num": 349615,
+        "word": "杨子称离婚后负责孩子所有费用",
+        "onboard_time": 1737256938,
+        "rank": 13,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 307529,
+        "num": 345732,
+        "word": "央视曝断骨增高灰色产业链",
+        "onboard_time": 1737222734,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345328,
+        "num": 345328,
+        "word": "胡彦斌对黄圣依的回怼全是祝福",
+        "onboard_time": 1737252317,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337349,
+        "num": 337349,
+        "word": "今年春节档第一张电影票",
+        "onboard_time": 1737252437,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 287005,
+        "num": 329927,
+        "word": "徐梦桃世界杯夺冠",
+        "onboard_time": 1737256578,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60900,
+        "num": 326324,
+        "word": "韩检方或2月5日前后起诉尹锡悦",
+        "onboard_time": 1737253456,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 257500,
+        "num": 326291,
+        "word": "妈妈每天拍女儿匆忙上班的背影",
+        "onboard_time": 1737247218,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 326271,
+        "num": 326271,
+        "word": "娜然妲己开大的撕心裂肺感",
+        "onboard_time": 1737254057,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 265287,
+        "num": 314623,
+        "word": "肖战射雕好多武林绝学",
+        "onboard_time": 1737254537,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 307414,
+        "num": 307414,
+        "word": "封神第二部里有中国人的家园情怀",
+        "onboard_time": 1737253276,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 212041,
+        "num": 301787,
+        "word": "山东或将换上山西同款赛博外墙",
+        "onboard_time": 1737251837,
+        "rank": 23,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 163929,
+        "num": 300291,
+        "word": "全世界最差航空的飞机餐",
+        "onboard_time": 1737243013,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 300099,
+        "num": 300099,
+        "word": "易烊千玺张艺兴春晚彩排",
+        "onboard_time": 1737255977,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280754,
+        "num": 280754,
+        "word": "贾宝玉真的从书里走出来了",
+        "onboard_time": 1737243313,
+        "rank": 26,
+        "category": "剧集,综艺"
+      },
+      {
+        "raw_hot": 267014,
+        "num": 267014,
+        "word": "女子出国做断骨增高腿喷脓",
+        "onboard_time": 1737207261,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208984,
+        "num": 208984,
+        "word": "肖战不语只是一味狂练",
+        "onboard_time": 1737257178,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145498,
+        "num": 196700,
+        "word": "2025春节档影史最快预售破千万",
+        "onboard_time": 1737255737,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139109,
+        "num": 186818,
+        "word": "王者蛇限皮肤设计首曝",
+        "onboard_time": 1737256757,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186223,
+        "num": 186223,
+        "word": "橘子是讨好型水果",
+        "onboard_time": 1737244996,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 184518,
+        "num": 184518,
+        "word": "射雕英雄传预售破2000万",
+        "onboard_time": 1737256757,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169649,
+        "num": 169649,
+        "word": "射雕英雄传侠之大者预售",
+        "onboard_time": 1737251657,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164961,
+        "num": 164961,
+        "word": "从数学47分到北大数学教授",
+        "onboard_time": 1737256697,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153163,
+        "num": 153163,
+        "word": "中国年轻人捡漏日本低价中古屋",
+        "onboard_time": 1737252317,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 152626,
+        "num": 152626,
+        "word": "大奉打更人第二季",
+        "onboard_time": 1737213020,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146893,
+        "num": 146893,
+        "word": "丁克家庭的遗产会由谁继承",
+        "onboard_time": 1737245896,
+        "rank": 37,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 139103,
+        "num": 139103,
+        "word": "王者荣耀",
+        "onboard_time": 1737257178,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139054,
+        "num": 139054,
+        "word": "猎罪图鉴海外宣传以金世佳为主",
+        "onboard_time": 1737243013,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137707,
+        "num": 137707,
+        "word": "封神2票补",
+        "onboard_time": 1737244335,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132558,
+        "num": 132558,
+        "word": "莫小贝居然32岁了",
+        "onboard_time": 1737245176,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129890,
+        "num": 129890,
+        "word": "射雕45分钟预售破千万",
+        "onboard_time": 1737255557,
+        "rank": 42,
+        "category": "电影,剧集"
+      },
+      {
+        "raw_hot": 124157,
+        "num": 124157,
+        "word": "年轻人不爱大包小包走亲戚了",
+        "onboard_time": 1737248176,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118963,
+        "num": 118963,
+        "word": "所有人都忘了许七安",
+        "onboard_time": 1737243074,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108811,
+        "num": 108811,
+        "word": "老夫妻在地窖蒸三千斤糯米酿酒中毒",
+        "onboard_time": 1737243074,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105342,
+        "num": 105342,
+        "word": "通行时间从2小时缩短到2分钟",
+        "onboard_time": 1737257658,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105050,
+        "num": 105050,
+        "word": "90后女博士的工作日常是摸鱼",
+        "onboard_time": 1737253938,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98108,
+        "num": 98108,
+        "word": "TF家族新音合影",
+        "onboard_time": 1737253817,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 96897,
+        "num": 96897,
+        "word": "过年前神十九航天员在忙些啥",
+        "onboard_time": 1737257658,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全军老同志祝贺新春#"
+    }
+  }
+}
