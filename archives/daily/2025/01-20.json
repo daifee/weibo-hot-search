@@ -1,6 +1,6 @@
 {
   "startTime": 1737303863836,
-  "endTime": 1737307123124,
+  "endTime": 1737308113768,
   "band_list": [
     {
       "raw_hot": 1748173,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 775366,
-      "num": 607970,
+      "num": 628139,
       "word": "潘宏",
       "onboard_time": 1737292520,
       "rank": 3,
@@ -147,6 +147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 208623,
+      "num": 208623,
+      "word": "第三方平台买火车票各种玩法只为加钱",
+      "onboard_time": 1737303379,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195162,
       "num": 195162,
       "word": "一家5口连续确诊同种癌症",
@@ -257,14 +265,6 @@
       "onboard_time": 1737294980,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127681,
-      "num": 127681,
-      "word": "第三方平台买火车票各种玩法只为加钱",
-      "onboard_time": 1737303379,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123353,
@@ -451,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32948,
+      "num": 52031,
+      "word": "宋亚轩新年音乐会生图",
+      "onboard_time": 1737305296,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 29922,
       "num": 616191,
       "word": "国产高科技新产品加速出海",
@@ -473,6 +481,14 @@
       "onboard_time": 1737305835,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 8823,
+      "num": 272710,
+      "word": "用非遗剪纸的方式打开苏州",
+      "onboard_time": 1737293540,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
