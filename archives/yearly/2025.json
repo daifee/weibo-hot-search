@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737264015240,
+  "endTime": 1737265000681,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -2283,6 +2283,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1497293,
+      "num": 1497293,
+      "word": "美国网友已经准备在屋前屋后种菜",
+      "onboard_time": 1737261557,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1491508,
       "num": 1491508,
       "word": "12306一天拒绝异常登录3982万次",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736557579,
       "rank": 0,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1454388,
-      "num": 1454388,
-      "word": "跨年最佳节目",
-      "onboard_time": 1735709360,
-      "rank": 30,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
