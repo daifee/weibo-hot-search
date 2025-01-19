@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/19 22:36:18
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/19 23:21:33
 </p>
 </blockquote>
 <p>
@@ -465,6 +465,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%B0%8F%E7%8B%97%E8%89%BE%E7%89%B9%E5%8E%BB%E4%B8%96%23" target="weibo">
+网红小狗艾特去世（热度：2766963）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23TikTok%E7%A6%81%E4%BB%A4%23" target="weibo">
 TikTok禁令（热度：2765381）
 </a>
@@ -629,12 +635,6 @@ TikTok停止在美服务（热度：2463156）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%BA%A2%E4%B9%A6%E5%B4%A9%E4%BA%86%23" target="weibo">
 小红书崩了（热度：2402372）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%B0%8F%E7%8B%97%E8%89%BE%E7%89%B9%E5%8E%BB%E4%B8%96%23" target="weibo">
-网红小狗艾特去世（热度：2377312）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737297378620,
+  "endTime": 1737300093411,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -603,6 +603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2766963,
+      "num": 2766963,
+      "word": "网红小狗艾特去世",
+      "onboard_time": 1737295879,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 2765381,
       "num": 364481,
       "word": "TikTok禁令",
@@ -825,14 +833,6 @@
       "onboard_time": 1737014360,
       "rank": 1,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 2377312,
-      "num": 2377312,
-      "word": "网红小狗艾特去世",
-      "onboard_time": 1737295879,
-      "rank": 23,
-      "category": "网红"
     },
     {
       "raw_hot": 2376681,
