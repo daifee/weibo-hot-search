@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737283103036,
+  "endTime": 1737285410565,
   "band_list": [
     {
       "raw_hot": 2463156,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1062787,
+      "num": 573218,
+      "word": "留几手自曝请杨子喝酒花20万",
+      "onboard_time": 1737279798,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1046204,
       "num": 1046204,
       "word": "正常腿被医生伪装成畸形做断骨增高",
@@ -131,20 +139,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 901145,
-      "num": 573218,
-      "word": "留几手自曝请杨子喝酒花20万",
-      "onboard_time": 1737279798,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 854184,
       "num": 854184,
       "word": "王鹤棣你嫂子赢了",
       "onboard_time": 1737271457,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 790360,
+      "num": 484491,
+      "word": "漂白尺度绝了",
+      "onboard_time": 1737283698,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 758879,
@@ -217,6 +225,14 @@
       "onboard_time": 1737271337,
       "rank": 15,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 590866,
+      "num": 260592,
+      "word": "实在不行过年让孩子穿校服吧",
+      "onboard_time": 1737283698,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 585947,
@@ -332,7 +348,7 @@
     },
     {
       "raw_hot": 481438,
-      "num": 176462,
+      "num": 193597,
       "word": "孟子义95花集均剧播第一",
       "onboard_time": 1737278059,
       "rank": 20,
@@ -369,6 +385,14 @@
       "onboard_time": 1737254236,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 454987,
+      "num": 454987,
+      "word": "没人告诉我马龙穿大衣这么帅",
+      "onboard_time": 1737281478,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 453185,
@@ -507,6 +531,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 322645,
+      "num": 193775,
+      "word": "男子曝烟头烫到马桶酒店索赔1000多",
+      "onboard_time": 1737281178,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 322433,
+      "num": 193729,
+      "word": "女子双眼皮手术4年半后揉出手术针",
+      "onboard_time": 1737283758,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 321735,
       "num": 321735,
       "word": "久酷微博发文后秒删",
@@ -537,14 +577,6 @@
       "onboard_time": 1737265457,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 313335,
-      "num": 164039,
-      "word": "男子曝烟头烫到马桶酒店索赔1000多",
-      "onboard_time": 1737281178,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 308395,
@@ -619,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278648,
+      "num": 278648,
+      "word": "樊振东米兰到达",
+      "onboard_time": 1737283758,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 273975,
       "num": 273975,
       "word": "封神2票补",
@@ -643,6 +683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 261729,
+      "num": 261729,
+      "word": "李宇春出镜感谢观众20年陪伴",
+      "onboard_time": 1737284057,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261625,
       "num": 247577,
       "word": "猎罪图鉴海外宣传以金世佳为主",
@@ -657,6 +705,14 @@
       "onboard_time": 1737233950,
       "rank": 9,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 255827,
+      "num": 255827,
+      "word": "漂白",
+      "onboard_time": 1737190399,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 255655,
@@ -699,6 +755,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 247162,
+      "num": 247162,
+      "word": "女娲毕设刘浩存",
+      "onboard_time": 1737284839,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 241774,
+      "num": 193657,
+      "word": "孕妇被宝宝的四维彩超丑哭",
+      "onboard_time": 1737283758,
+      "rank": 24,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 241638,
       "num": 186223,
       "word": "橘子是讨好型水果",
@@ -713,14 +785,6 @@
       "onboard_time": 1737258918,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 234563,
-      "num": 234563,
-      "word": "漂白",
-      "onboard_time": 1737190399,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 232827,
@@ -763,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215596,
+      "num": 215596,
+      "word": "异人之下2十个奇门九个疯",
+      "onboard_time": 1737284238,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215212,
       "num": 162353,
       "word": "莫小贝居然32岁了",
@@ -777,14 +849,6 @@
       "onboard_time": 1737266539,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 213052,
-      "num": 163930,
-      "word": "没人告诉我马龙穿大衣这么帅",
-      "onboard_time": 1737281478,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 212041,
@@ -860,7 +924,7 @@
     },
     {
       "raw_hot": 202900,
-      "num": 173785,
+      "num": 193585,
       "word": "李行亮是麦琳的榜一大哥",
       "onboard_time": 1737280338,
       "rank": 22,
@@ -947,6 +1011,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 186410,
+      "num": 186410,
+      "word": "仙逆",
+      "onboard_time": 1737285379,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 185158,
       "num": 185158,
       "word": "射雕哪吒封神2春节档预售票房榜前三",
@@ -1009,6 +1081,14 @@
       "onboard_time": 1737205161,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179119,
+      "num": 179119,
+      "word": "祝绪丹杨仕泽一起录综艺",
+      "onboard_time": 1737284839,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 176766,
@@ -1099,12 +1179,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 165492,
+      "num": 165492,
+      "word": "我可能亲眼见证了一个非遗的消亡",
+      "onboard_time": 1737283698,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165024,
       "num": 165024,
       "word": "射雕45分钟预售破千万",
       "onboard_time": 1737255557,
       "rank": 35,
       "category": "电影,剧集"
+    },
+    {
+      "raw_hot": 163730,
+      "num": 163730,
+      "word": "杨子说一天哭800遍不是他说的",
+      "onboard_time": 1737283999,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 159601,
@@ -1185,6 +1281,14 @@
       "onboard_time": 1737267438,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150631,
+      "num": 150631,
+      "word": "2025春晚重庆分会场主持人",
+      "onboard_time": 1737284778,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 150529,
@@ -1563,6 +1667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110881,
+      "num": 110881,
+      "word": "在长沙花100万买到的老破小",
+      "onboard_time": 1737283698,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110776,
       "num": 110776,
       "word": "00花新剧开年对打",
@@ -1577,6 +1689,14 @@
       "onboard_time": 1737278599,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110481,
+      "num": 193949,
+      "word": "李宇春说要学奥运冠军的坚持和热爱",
+      "onboard_time": 1737284538,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 109942,
@@ -1763,6 +1883,14 @@
       "category": "电竞,体育"
     },
     {
+      "raw_hot": 97541,
+      "num": 97541,
+      "word": "医保局回应政协委员关注集采药疗效",
+      "onboard_time": 1737280578,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97531,
       "num": 97531,
       "word": "范世錡不语只是一味地保护大家",
@@ -1857,6 +1985,14 @@
       "onboard_time": 1737252497,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93994,
+      "num": 93994,
+      "word": "晕车人眼中的豪车",
+      "onboard_time": 1737284057,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 93004,
