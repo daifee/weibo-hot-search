@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737322522459,
+  "endTime": 1737325257052,
   "band_list": [
     {
       "raw_hot": 2766963,
@@ -2883,19 +2883,19 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 78481,
+      "num": 81353,
+      "word": "支持有条件的幼儿园招收2至3岁幼儿",
+      "onboard_time": 1737305055,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78268,
       "num": 912696,
       "word": "没有一个人能空手走出年货大集",
       "onboard_time": 1737277518,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 77773,
-      "num": 81353,
-      "word": "支持有条件的幼儿园招收2至3岁幼儿",
-      "onboard_time": 1737305055,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -3171,6 +3171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45790,
+      "num": 46947,
+      "word": "春节前有一轮雨雪降温",
+      "onboard_time": 1737316931,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43414,
       "num": 42369,
       "word": "王鹤棣直播",
@@ -3193,14 +3201,6 @@
       "onboard_time": 1737221234,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 40684,
-      "num": 46947,
-      "word": "春节前有一轮雨雪降温",
-      "onboard_time": 1737316931,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 40417,
@@ -3395,6 +3395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20785,
+      "num": 20785,
+      "word": "原来兵马俑还有微缩版本",
+      "onboard_time": 1737322930,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 20656,
       "num": 24128,
       "word": "王鹤棣许七安角色高光",
@@ -3419,12 +3427,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 18922,
+      "num": 43017,
+      "word": "出餐慢的餐车被顾客点赞",
+      "onboard_time": 1737321730,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18885,
       "num": 26794,
       "word": "今天jer个样",
       "onboard_time": 1737313211,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18419,
+      "num": 22271,
+      "word": "要减少日常考试测试频次",
+      "onboard_time": 1737318851,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18085,
@@ -3443,20 +3467,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 17730,
-      "num": 22271,
-      "word": "要减少日常考试测试频次",
-      "onboard_time": 1737318851,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 17696,
       "num": 28486,
       "word": "读过的书是你的底气",
       "onboard_time": 1737215298,
       "rank": 46,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 17166,
+      "num": 30441,
+      "word": "对学生要压减重复性作业",
+      "onboard_time": 1737318131,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16954,
@@ -3473,14 +3497,6 @@
       "onboard_time": 1737228731,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 16570,
-      "num": 30441,
-      "word": "对学生要压减重复性作业",
-      "onboard_time": 1737318131,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15315,
@@ -3575,14 +3591,6 @@
       "num": 50386,
       "word": "飞行教员任C919带队机长安全感满满",
       "onboard_time": 1737227471,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9438,
-      "num": 43017,
-      "word": "出餐慢的餐车被顾客点赞",
-      "onboard_time": 1737321730,
       "rank": 9,
       "category": "民生新闻"
     },

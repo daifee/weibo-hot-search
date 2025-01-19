@@ -1,6 +1,6 @@
 {
   "startTime": 1737303863836,
-  "endTime": 1737322522459,
+  "endTime": 1737325257052,
   "band_list": [
     {
       "raw_hot": 1748173,
@@ -411,7 +411,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 77773,
+      "raw_hot": 78481,
       "num": 81353,
       "word": "支持有条件的幼儿园招收2至3岁幼儿",
       "onboard_time": 1737305055,
@@ -451,20 +451,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45790,
+      "num": 46947,
+      "word": "春节前有一轮雨雪降温",
+      "onboard_time": 1737316931,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43173,
       "num": 164540,
       "word": "马龙的幽默时刻",
       "onboard_time": 1737303437,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 40684,
-      "num": 46947,
-      "word": "春节前有一轮雨雪降温",
-      "onboard_time": 1737316931,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32948,
@@ -539,6 +539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 20785,
+      "num": 20785,
+      "word": "原来兵马俑还有微缩版本",
+      "onboard_time": 1737322930,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 20319,
       "num": 26807,
       "word": "专家称饮食在减肥中比运动更重要",
@@ -547,12 +555,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 18922,
+      "num": 43017,
+      "word": "出餐慢的餐车被顾客点赞",
+      "onboard_time": 1737321730,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18885,
       "num": 26794,
       "word": "今天jer个样",
       "onboard_time": 1737313211,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18419,
+      "num": 22271,
+      "word": "要减少日常考试测试频次",
+      "onboard_time": 1737318851,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18085,
@@ -571,11 +595,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 17730,
-      "num": 22271,
-      "word": "要减少日常考试测试频次",
-      "onboard_time": 1737318851,
-      "rank": 29,
+      "raw_hot": 17166,
+      "num": 30441,
+      "word": "对学生要压减重复性作业",
+      "onboard_time": 1737318131,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -584,14 +608,6 @@
       "word": "解放军版东风夜放花千树",
       "onboard_time": 1737320530,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16570,
-      "num": 30441,
-      "word": "对学生要压减重复性作业",
-      "onboard_time": 1737318131,
-      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -625,14 +641,6 @@
       "onboard_time": 1737305835,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 9438,
-      "num": 43017,
-      "word": "出餐慢的餐车被顾客点赞",
-      "onboard_time": 1737321730,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 8717,
