@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737272136314,
+  "endTime": 1737275091102,
   "band_list": [
     {
       "raw_hot": 2463156,
@@ -57,6 +57,14 @@
       "onboard_time": 1737255077,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1126066,
+      "num": 1180170,
+      "word": "爸爸一句含金量不高孩子气哭撕奖状",
+      "onboard_time": 1737271397,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1110441,
@@ -171,6 +179,14 @@
       "category": "剧集,综艺"
     },
     {
+      "raw_hot": 597441,
+      "num": 330739,
+      "word": "美国公司提交与TikTok合并标书",
+      "onboard_time": 1737271337,
+      "rank": 15,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 585947,
       "num": 585947,
       "word": "妈妈每天拍女儿匆忙上班的背影",
@@ -201,6 +217,22 @@
       "onboard_time": 1737265457,
       "rank": 10,
       "category": "体育,互联网"
+    },
+    {
+      "raw_hot": 533969,
+      "num": 533969,
+      "word": "大熊猫古古去世",
+      "onboard_time": 1737262458,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 523130,
+      "num": 523130,
+      "word": "国产剧终于拍了熟男熟女的cp了",
+      "onboard_time": 1737271397,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 517601,
@@ -249,6 +281,14 @@
       "onboard_time": 1737266176,
       "rank": 17,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 483901,
+      "num": 483901,
+      "word": "2025春节档预售破亿",
+      "onboard_time": 1737271278,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 477423,
@@ -307,22 +347,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 395533,
-      "num": 395533,
-      "word": "爸爸一句含金量不高孩子气哭撕奖状",
-      "onboard_time": 1737271397,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 393887,
-      "num": 393887,
-      "word": "大熊猫古古去世",
-      "onboard_time": 1737262458,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 385932,
       "num": 164913,
       "word": "谁敢相信这是71岁的赵雅芝",
@@ -363,10 +387,10 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 343237,
-      "num": 354673,
-      "word": "2025春节档预售破亿",
-      "onboard_time": 1737271278,
+      "raw_hot": 347753,
+      "num": 354031,
+      "word": "春节档影片你想先看哪部",
+      "onboard_time": 1737269297,
       "rank": 9,
       "category": "电影"
     },
@@ -385,14 +409,6 @@
       "onboard_time": 1737261497,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 337079,
-      "num": 354031,
-      "word": "春节档影片你想先看哪部",
-      "onboard_time": 1737269297,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 332165,
@@ -451,6 +467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 305779,
+      "num": 305779,
+      "word": "急诊医生压力大到在家流泪",
+      "onboard_time": 1737271519,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 305680,
       "num": 300099,
       "word": "易烊千玺张艺兴春晚彩排",
@@ -483,20 +507,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 294614,
+      "num": 294614,
+      "word": "白鹿为什么要接白月梵星",
+      "onboard_time": 1737271337,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 287005,
       "num": 329927,
       "word": "徐梦桃世界杯夺冠",
       "onboard_time": 1737256578,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 283180,
-      "num": 283180,
-      "word": "美国公司提交与TikTok合并标书",
-      "onboard_time": 1737271337,
-      "rank": 15,
-      "category": "互联网"
     },
     {
       "raw_hot": 273975,
@@ -537,6 +561,14 @@
       "onboard_time": 1737233950,
       "rank": 9,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 255655,
+      "num": 255655,
+      "word": "梅德韦杰夫被罚76000美元",
+      "onboard_time": 1737273618,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 254055,
@@ -601,14 +633,6 @@
       "onboard_time": 1737256697,
       "rank": 39,
       "category": "教育"
-    },
-    {
-      "raw_hot": 229933,
-      "num": 229933,
-      "word": "白鹿为什么要接白月梵星",
-      "onboard_time": 1737271337,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 228583,
@@ -723,12 +747,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 200198,
-      "num": 200198,
-      "word": "国产剧终于拍了熟男熟女的cp了",
-      "onboard_time": 1737271397,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 195505,
+      "num": 175622,
+      "word": "射雕英雄传预售破5000万",
+      "onboard_time": 1737273978,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 194697,
@@ -761,6 +785,14 @@
       "onboard_time": 1737258258,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 192271,
+      "num": 192271,
+      "word": "字节跳动旗下多个应用在美停服",
+      "onboard_time": 1737274638,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 191907,
@@ -867,6 +899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 175202,
+      "num": 175202,
+      "word": "漂白",
+      "onboard_time": 1737190399,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174541,
       "num": 174541,
       "word": "谁家男主每集和狗飙戏",
@@ -883,6 +923,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 174151,
+      "num": 174151,
+      "word": "周兴哲MV女主叶舒华",
+      "onboard_time": 1737273557,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 173238,
       "num": 288063,
       "word": "尹锡悦被羁押最长可达20天",
@@ -891,12 +939,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 172853,
-      "num": 172853,
-      "word": "漂白",
-      "onboard_time": 1737190399,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 167724,
+      "num": 167724,
+      "word": "射雕英雄传侠之大者",
+      "onboard_time": 1737274339,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 166322,
@@ -971,19 +1019,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151505,
+      "num": 151505,
+      "word": "秦胜意的两次破门",
+      "onboard_time": 1737273437,
+      "rank": 31,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 151185,
       "num": 151185,
       "word": "狗狗受伤后独自去宠物医院换药",
       "onboard_time": 1737267438,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 150678,
-      "num": 150678,
-      "word": "急诊医生压力大到在家流泪",
-      "onboard_time": 1737271519,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -1017,6 +1065,14 @@
       "onboard_time": 1737267498,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 147975,
+      "num": 147975,
+      "word": "锦月如歌",
+      "onboard_time": 1737272899,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 147828,
@@ -1203,6 +1259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 124082,
+      "num": 136029,
+      "word": "女医生救人后又直奔ICU看病重姥姥",
+      "onboard_time": 1737273738,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121099,
       "num": 121099,
       "word": "白鹿剧宣真诚又体面",
@@ -1217,6 +1281,14 @@
       "onboard_time": 1737216618,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 118446,
+      "num": 260740,
+      "word": "2025春节档预售不到一天超一亿",
+      "onboard_time": 1737274818,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 117780,
@@ -1251,6 +1323,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 116175,
+      "num": 116175,
+      "word": "白月梵星",
+      "onboard_time": 1737274519,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115901,
       "num": 115901,
       "word": "23日起强冷空气携雨雪降温来袭",
@@ -1267,6 +1347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 114081,
+      "num": 114081,
+      "word": "好想替田曦薇的耳朵报警",
+      "onboard_time": 1737273978,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112585,
       "num": 293864,
       "word": "2025全军开训名场面",
@@ -1280,6 +1368,14 @@
       "word": "异人之下2好看",
       "onboard_time": 1737247038,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 110776,
+      "num": 110776,
+      "word": "00花新剧开年对打",
+      "onboard_time": 1737274458,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -1595,6 +1691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81156,
+      "num": 180566,
+      "word": "朱易宣布退出全国冠军赛",
+      "onboard_time": 1737272418,
+      "rank": 24,
+      "category": "电竞,体育"
+    },
+    {
       "raw_hot": 79507,
       "num": 75046,
       "word": "李小冉说向太胖",
@@ -1656,6 +1760,14 @@
       "word": "李昀锐早安语音包",
       "onboard_time": 1737250637,
       "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 68601,
+      "num": 191692,
+      "word": "葛夕捐出了直播打赏",
+      "onboard_time": 1737273918,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -1875,6 +1987,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 30788,
+      "num": 663933,
+      "word": "春运出行必备小贴士",
+      "onboard_time": 1737256398,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30367,
       "num": 66058,
       "word": "再过10天就是蛇年春节",
@@ -1904,14 +2024,6 @@
       "word": "老外南极遇中国人0帧起手飙中文",
       "onboard_time": 1737242773,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27575,
-      "num": 663933,
-      "word": "春运出行必备小贴士",
-      "onboard_time": 1737256398,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
