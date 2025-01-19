@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737282124760,
+  "endTime": 1737283103036,
   "band_list": [
     {
       "raw_hot": 2463156,
@@ -131,6 +131,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 901145,
+      "num": 573218,
+      "word": "留几手自曝请杨子喝酒花20万",
+      "onboard_time": 1737279798,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 854184,
       "num": 854184,
       "word": "王鹤棣你嫂子赢了",
@@ -171,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 637651,
+      "num": 637651,
+      "word": "男子口含碎玻璃6次敲诈海底捞被起诉",
+      "onboard_time": 1737277219,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 626343,
       "num": 626343,
       "word": "北京动物园发布大熊猫古古讣告",
@@ -184,14 +200,6 @@
       "word": "麦琳杨子留几手3人连麦违规",
       "onboard_time": 1737211040,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 606665,
-      "num": 573218,
-      "word": "留几手自曝请杨子喝酒花20万",
-      "onboard_time": 1737279798,
-      "rank": 4,
       "category": "艺人"
     },
     {
@@ -225,14 +233,6 @@
       "onboard_time": 1737252317,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 576850,
-      "num": 576850,
-      "word": "男子口含碎玻璃6次敲诈海底捞被起诉",
-      "onboard_time": 1737277219,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 576606,
@@ -475,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 336098,
+      "num": 336098,
+      "word": "谢金燕回应未婚生子",
+      "onboard_time": 1737277638,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 332165,
       "num": 288844,
       "word": "麦琳透露现在103斤",
@@ -497,14 +505,6 @@
       "onboard_time": 1737277518,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 328373,
-      "num": 328373,
-      "word": "谢金燕回应未婚生子",
-      "onboard_time": 1737277638,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 321735,
@@ -537,6 +537,14 @@
       "onboard_time": 1737265457,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 313335,
+      "num": 164039,
+      "word": "男子曝烟头烫到马桶酒店索赔1000多",
+      "onboard_time": 1737281178,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 308395,
@@ -707,6 +715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 234563,
+      "num": 234563,
+      "word": "漂白",
+      "onboard_time": 1737190399,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232827,
       "num": 160938,
       "word": "TikTok公司表示白宫无保证平台只能关",
@@ -739,14 +755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 222090,
-      "num": 222090,
-      "word": "漂白",
-      "onboard_time": 1737190399,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 217758,
       "num": 217758,
       "word": "白鹿残梅映血",
@@ -769,6 +777,14 @@
       "onboard_time": 1737266539,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213052,
+      "num": 163930,
+      "word": "没人告诉我马龙穿大衣这么帅",
+      "onboard_time": 1737281478,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 212041,
@@ -912,6 +928,14 @@
       "word": "射雕英雄传预售破1000万",
       "onboard_time": 1737254177,
       "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 189346,
+      "num": 189346,
+      "word": "射雕英雄传预售票房破6000万",
+      "onboard_time": 1737281959,
+      "rank": 34,
       "category": "电影"
     },
     {
@@ -1075,28 +1099,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 165471,
-      "num": 164039,
-      "word": "男子曝烟头烫到马桶酒店索赔1000多",
-      "onboard_time": 1737281178,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 165024,
       "num": 165024,
       "word": "射雕45分钟预售破千万",
       "onboard_time": 1737255557,
       "rank": 35,
       "category": "电影,剧集"
-    },
-    {
-      "raw_hot": 163930,
-      "num": 163930,
-      "word": "没人告诉我马龙穿大衣这么帅",
-      "onboard_time": 1737281478,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 159601,
@@ -1235,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146386,
+      "num": 164139,
+      "word": "数百宝妈串手串赚代工费被骗超百万",
+      "onboard_time": 1737275719,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145172,
       "num": 105087,
       "word": "文轩",
@@ -1305,14 +1321,6 @@
       "onboard_time": 1737260417,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 139426,
-      "num": 139426,
-      "word": "射雕英雄传预售票房破6000万",
-      "onboard_time": 1737281959,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 139147,
@@ -1456,14 +1464,6 @@
       "word": "大熊猫古古生前最后一个视频",
       "onboard_time": 1737279258,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 122973,
-      "num": 164139,
-      "word": "数百宝妈串手串赚代工费被骗超百万",
-      "onboard_time": 1737275719,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -1883,6 +1883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88511,
+      "num": 242488,
+      "word": "中国液氧煤油火箭发动机一日三试",
+      "onboard_time": 1737280759,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 87533,
       "num": 87533,
       "word": "26岁渐冻症女生求助蔡磊",
@@ -1929,14 +1937,6 @@
       "onboard_time": 1737251777,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 81075,
-      "num": 220041,
-      "word": "中国液氧煤油火箭发动机一日三试",
-      "onboard_time": 1737280759,
-      "rank": 15,
-      "category": "国内时政"
     },
     {
       "raw_hot": 79507,
@@ -2153,6 +2153,14 @@
       "onboard_time": 1737219736,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 47441,
+      "num": 157265,
+      "word": "王鹤棣台词爽文感",
+      "onboard_time": 1737282620,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 46065,
