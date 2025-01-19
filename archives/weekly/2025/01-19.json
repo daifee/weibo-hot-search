@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737293693972,
+  "endTime": 1737296383819,
   "band_list": [
     {
       "raw_hot": 2463156,
@@ -115,6 +115,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 1039852,
+      "num": 252666,
+      "word": "潘宏",
+      "onboard_time": 1737292520,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1028719,
       "num": 1028719,
       "word": "中国36岁男子在柬埔寨坠楼身亡",
@@ -187,6 +195,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 854922,
+      "num": 854922,
+      "word": "Doinb说跪下",
+      "onboard_time": 1737293779,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 854184,
       "num": 854184,
       "word": "王鹤棣你嫂子赢了",
@@ -227,12 +243,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 710626,
-      "num": 247239,
-      "word": "潘宏",
-      "onboard_time": 1737292520,
-      "rank": 27,
-      "category": "网红"
+      "raw_hot": 742802,
+      "num": 742802,
+      "word": "马龙李现坐一起看秀",
+      "onboard_time": 1737294019,
+      "rank": 4,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 666228,
@@ -411,6 +427,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 498216,
+      "num": 498216,
+      "word": "肖战蔡少芬同框",
+      "onboard_time": 1737294980,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 491390,
       "num": 491390,
       "word": "2025春节档预售破亿",
@@ -491,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 427507,
+      "num": 427507,
+      "word": "春节回家是时候卸下一年的担子了",
+      "onboard_time": 1737292401,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 423014,
       "num": 245045,
       "word": "李昀锐倪虹洁演夫妻",
@@ -555,14 +587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 372280,
-      "num": 372280,
-      "word": "春节回家是时候卸下一年的担子了",
-      "onboard_time": 1737292401,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 368440,
       "num": 368440,
       "word": "甲状腺癌具有遗传性",
@@ -617,6 +641,14 @@
       "onboard_time": 1737212420,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 341412,
+      "num": 341412,
+      "word": "国色芳华24集预告",
+      "onboard_time": 1737294980,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 338433,
@@ -747,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 304162,
+      "num": 382641,
+      "word": "易烊千玺参观中国天眼",
+      "onboard_time": 1737295278,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 303717,
       "num": 161359,
       "word": "严浩翔还没吃完就上台了",
@@ -803,12 +843,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 279264,
+      "num": 279264,
+      "word": "7个工作日后就过年了",
+      "onboard_time": 1737291861,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 278648,
       "num": 278648,
       "word": "樊振东米兰到达",
       "onboard_time": 1737283758,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 278574,
+      "num": 240905,
+      "word": "网红小狗艾特去世",
+      "onboard_time": 1737295879,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 273975,
@@ -849,6 +905,14 @@
       "onboard_time": 1737291440,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 256673,
+      "num": 256673,
+      "word": "于适回应姬发大厂裸辞",
+      "onboard_time": 1737295399,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 256602,
@@ -995,14 +1059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 215134,
-      "num": 215134,
-      "word": "7个工作日后就过年了",
-      "onboard_time": 1737291861,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 214645,
       "num": 322406,
       "word": "李宇春说要学奥运冠军的坚持和热爱",
@@ -1091,6 +1147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 204279,
+      "num": 210943,
+      "word": "人民日报专访李宇春",
+      "onboard_time": 1737292460,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204215,
       "num": 196700,
       "word": "2025春节档影史最快预售破千万",
@@ -1112,6 +1176,22 @@
       "word": "敖瑞鹏说求天道眷顾梵樾",
       "onboard_time": 1737216138,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 199495,
+      "num": 199495,
+      "word": "刀剑如梦",
+      "onboard_time": 1737295999,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 199148,
+      "num": 199148,
+      "word": "李昀锐断眉",
+      "onboard_time": 1737295820,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -1177,6 +1257,14 @@
       "onboard_time": 1737258258,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 192270,
+      "num": 192270,
+      "word": "张函瑞高音",
+      "onboard_time": 1737295879,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 191907,
@@ -1259,6 +1347,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 183384,
+      "num": 183384,
+      "word": "尹锡悦正式进入拘留所",
+      "onboard_time": 1737293960,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 182914,
       "num": 182914,
       "word": "全世界都在做鸡蛋羹",
@@ -1313,6 +1409,14 @@
       "onboard_time": 1737284839,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 177877,
+      "num": 177877,
+      "word": "朱志鑫苏新皓澳门空气里有什么",
+      "onboard_time": 1737296059,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 177399,
@@ -1403,6 +1507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 168165,
+      "num": 168165,
+      "word": "新加坡10块钱的剩菜盲盒",
+      "onboard_time": 1737294199,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 167724,
       "num": 167724,
       "word": "射雕英雄传侠之大者",
@@ -1425,6 +1537,14 @@
       "onboard_time": 1737212540,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 166267,
+      "num": 210819,
+      "word": "马龙G社生图好能打",
+      "onboard_time": 1737295459,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 165492,
@@ -1467,6 +1587,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 160689,
+      "num": 207260,
+      "word": "金博洋复刻安陵容冰嬉舞",
+      "onboard_time": 1737296120,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159601,
       "num": 159601,
       "word": "光遇",
@@ -1481,6 +1609,14 @@
       "onboard_time": 1737271397,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158750,
+      "num": 158750,
+      "word": "宋亚轩不语只是一味going",
+      "onboard_time": 1737293899,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 158680,
@@ -1513,14 +1649,6 @@
       "onboard_time": 1737214759,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 154634,
-      "num": 210943,
-      "word": "人民日报专访李宇春",
-      "onboard_time": 1737292460,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 153983,
@@ -1649,6 +1777,14 @@
       "onboard_time": 1737215959,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 147069,
+      "num": 147069,
+      "word": "专家称睡眠时长影响热量摄入",
+      "onboard_time": 1737294921,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 146739,
@@ -1825,6 +1961,14 @@
       "onboard_time": 1737206359,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133704,
+      "num": 133704,
+      "word": "严浩翔边饭撒边检查扣子",
+      "onboard_time": 1737294321,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 132672,
@@ -2651,6 +2795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 51132,
+      "num": 800694,
+      "word": "国产高科技新产品加速出海",
+      "onboard_time": 1737293661,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50343,
       "num": 229889,
       "word": "乔兮星宇花卷挂牌",
@@ -2944,14 +3096,6 @@
       "word": "飞行教员任C919带队机长安全感满满",
       "onboard_time": 1737227471,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 5640,
-      "num": 677145,
-      "word": "国产高科技新产品加速出海",
-      "onboard_time": 1737293661,
-      "rank": 2,
       "category": "民生新闻"
     }
   ],
