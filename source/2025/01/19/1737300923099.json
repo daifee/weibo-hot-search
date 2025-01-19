@@ -1,0 +1,410 @@
+{
+  "runTime": 1737300923099,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2471515,
+        "num": 2471515,
+        "word": "网红小狗艾特去世",
+        "onboard_time": 1737295879,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1119953,
+        "num": 1119953,
+        "word": "央视曝光美甲灯安全隐患",
+        "onboard_time": 1737286337,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44965,
+        "num": 987164,
+        "word": "国产高科技新产品加速出海",
+        "onboard_time": 1737293661,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 885770,
+        "num": 885770,
+        "word": "尹锡悦换上囚服",
+        "onboard_time": 1737298338,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 538888,
+        "num": 538888,
+        "word": "翔霖",
+        "onboard_time": 1737298759,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 363459,
+        "num": 363459,
+        "word": "Doinb说跪下",
+        "onboard_time": 1737293779,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 438783,
+        "num": 362432,
+        "word": "漂白尺度绝了",
+        "onboard_time": 1737283698,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 415875,
+        "num": 361619,
+        "word": "肖战蔡少芬同框",
+        "onboard_time": 1737294980,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 360447,
+        "num": 360447,
+        "word": "马龙李现坐一起看秀",
+        "onboard_time": 1737294019,
+        "rank": 8,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 80120,
+        "num": 348721,
+        "word": "这款神器千万别让孩子碰",
+        "onboard_time": 1737288919,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344887,
+        "num": 344887,
+        "word": "庞颖念诗给詹青云念红温了",
+        "onboard_time": 1737297500,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332289,
+        "num": 332289,
+        "word": "骗子转走300万给受害人转1万做生活费",
+        "onboard_time": 1737288799,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314684,
+        "num": 314684,
+        "word": "春节回家是时候卸下一年的担子了",
+        "onboard_time": 1737292401,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305572,
+        "num": 305572,
+        "word": "国色芳华24集预告",
+        "onboard_time": 1737294980,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302679,
+        "num": 302679,
+        "word": "一家5口连续确诊同种癌症",
+        "onboard_time": 1737287419,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282785,
+        "num": 282785,
+        "word": "iG发文道歉",
+        "onboard_time": 1737297020,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 244329,
+        "num": 244329,
+        "word": "2024TVB颁奖礼",
+        "onboard_time": 1737288679,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214859,
+        "num": 214859,
+        "word": "TikTok停止在美服务",
+        "onboard_time": 1737260718,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 212454,
+        "num": 212454,
+        "word": "实在不行过年让孩子穿校服吧",
+        "onboard_time": 1737283698,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99859,
+        "num": 212278,
+        "word": "李现金秀贤G社生图",
+        "onboard_time": 1737300199,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 418387,
+        "num": 210798,
+        "word": "李小冉把口红给刘晓庆用",
+        "onboard_time": 1737287479,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364555,
+        "num": 209964,
+        "word": "留几手自曝请杨子喝酒花20万",
+        "onboard_time": 1737279798,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267620,
+        "num": 209801,
+        "word": "专家称睡眠时长影响热量摄入",
+        "onboard_time": 1737294921,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 251973,
+        "num": 208908,
+        "word": "潘宏",
+        "onboard_time": 1737292520,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 96747,
+        "num": 207417,
+        "word": "恋与深空电话预约",
+        "onboard_time": 1737293661,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 228803,
+        "num": 207035,
+        "word": "金秀贤看秀状态",
+        "onboard_time": 1737297740,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227367,
+        "num": 206052,
+        "word": "李昀锐断眉",
+        "onboard_time": 1737295820,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216222,
+        "num": 205365,
+        "word": "肖战坦言对春节档竞争不紧张",
+        "onboard_time": 1737300018,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204670,
+        "num": 204670,
+        "word": "疑似苏新皓手受伤",
+        "onboard_time": 1737300079,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197077,
+        "num": 197077,
+        "word": "一路繁花窒息七分钟",
+        "onboard_time": 1737285498,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192603,
+        "num": 192603,
+        "word": "人民日报专访李宇春",
+        "onboard_time": 1737292460,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187958,
+        "num": 187958,
+        "word": "李昀锐倪虹洁演夫妻",
+        "onboard_time": 1737288919,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186678,
+        "num": 186678,
+        "word": "漂白",
+        "onboard_time": 1737265697,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184634,
+        "num": 184634,
+        "word": "女子双眼皮手术4年半后揉出手术针",
+        "onboard_time": 1737283758,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181924,
+        "num": 181924,
+        "word": "朱志鑫苏新皓澳门空气里有什么",
+        "onboard_time": 1737296059,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177604,
+        "num": 177604,
+        "word": "马龙G社生图好能打",
+        "onboard_time": 1737295459,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170367,
+        "num": 170367,
+        "word": "特朗普发帖呼吁挽救TikTok",
+        "onboard_time": 1737299900,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 166665,
+        "num": 166665,
+        "word": "母亲腌出七彩腊八蒜女子尝后说无毒",
+        "onboard_time": 1737291440,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160963,
+        "num": 160963,
+        "word": "解放军放烟花的满满安全感",
+        "onboard_time": 1737299061,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146598,
+        "num": 146598,
+        "word": "尹锡悦正式进入拘留所",
+        "onboard_time": 1737293960,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144423,
+        "num": 144423,
+        "word": "马嘉祺用自己名字送祝福",
+        "onboard_time": 1737300018,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143164,
+        "num": 143164,
+        "word": "搬家又一次让我意识到女性独居困境",
+        "onboard_time": 1737299478,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141105,
+        "num": 141105,
+        "word": "豆包chatGPT辩论谁是人工智障",
+        "onboard_time": 1737300439,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 135621,
+        "num": 135621,
+        "word": "日日夜夜",
+        "onboard_time": 1737298998,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134829,
+        "num": 134829,
+        "word": "7个工作日后就过年了",
+        "onboard_time": 1737291861,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133554,
+        "num": 133554,
+        "word": "张极",
+        "onboard_time": 1737300800,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128503,
+        "num": 128503,
+        "word": "嫂子喂出嫁小姑子吃面手抖成了筛子",
+        "onboard_time": 1737278838,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124340,
+        "num": 124340,
+        "word": "金博洋复刻安陵容冰嬉舞",
+        "onboard_time": 1737296120,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120386,
+        "num": 120386,
+        "word": "男子曝烟头烫到马桶酒店索赔1000多",
+        "onboard_time": 1737281178,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114608,
+        "num": 114608,
+        "word": "新加坡10块钱的剩菜盲盒",
+        "onboard_time": 1737294199,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全军老同志祝贺新春#"
+    }
+  }
+}
