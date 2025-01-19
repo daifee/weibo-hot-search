@@ -1,0 +1,410 @@
+{
+  "runTime": 1737328810789,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 599034,
+        "num": 783362,
+        "word": "让教师成为最受社会尊重的职业之一",
+        "onboard_time": 1737302778,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 427470,
+        "num": 427470,
+        "word": "留几手回应离婚财产分配",
+        "onboard_time": 1737302538,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 20922,
+        "num": 328482,
+        "word": "用非遗剪纸的方式打开苏州",
+        "onboard_time": 1737293540,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261780,
+        "num": 261780,
+        "word": "尹锡悦换上囚服",
+        "onboard_time": 1737298338,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 219864,
+        "num": 219864,
+        "word": "47岁女子升级做奶奶晒抱孙子合影",
+        "onboard_time": 1737328094,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197705,
+        "num": 197705,
+        "word": "射雕英雄传影史国产片预售首日票房冠军",
+        "onboard_time": 1737303976,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185916,
+        "num": 185916,
+        "word": "支持有条件的幼儿园招收2至3岁幼儿",
+        "onboard_time": 1737305055,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183794,
+        "num": 183794,
+        "word": "央视曝光美甲灯安全隐患",
+        "onboard_time": 1737286337,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168948,
+        "num": 168948,
+        "word": "骗子转走300万给受害人转1万做生活费",
+        "onboard_time": 1737288799,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107833,
+        "num": 159613,
+        "word": "TikTok正恢复美用户服务",
+        "onboard_time": 1737328153,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 413719,
+        "num": 158585,
+        "word": "特朗普发帖呼吁挽救TikTok",
+        "onboard_time": 1737299900,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 155256,
+        "num": 155256,
+        "word": "第三方平台买火车票各种玩法只为加钱",
+        "onboard_time": 1737303379,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148406,
+        "num": 148406,
+        "word": "一家5口连续确诊同种癌症",
+        "onboard_time": 1737287419,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140450,
+        "num": 140450,
+        "word": "春节前有一轮雨雪降温",
+        "onboard_time": 1737316931,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128325,
+        "num": 128325,
+        "word": "尹锡悦穿囚服拍摄嫌疑人照片",
+        "onboard_time": 1737305235,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111894,
+        "num": 111894,
+        "word": "一路繁花窒息七分钟",
+        "onboard_time": 1737285498,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106674,
+        "num": 106674,
+        "word": "老师在女同事屋内装摄像头否认偷窥",
+        "onboard_time": 1737301219,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74511,
+        "num": 100740,
+        "word": "肖战蔡少芬同框",
+        "onboard_time": 1737294980,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 70600,
+        "num": 100399,
+        "word": "漂白尺度绝了",
+        "onboard_time": 1737283698,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56605,
+        "num": 89473,
+        "word": "翔霖",
+        "onboard_time": 1737298759,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168435,
+        "num": 82995,
+        "word": "专家称睡眠时长影响热量摄入",
+        "onboard_time": 1737294921,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 81801,
+        "num": 81801,
+        "word": "7个工作日后就过年了",
+        "onboard_time": 1737291861,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81686,
+        "num": 81686,
+        "word": "李小冉把口红给刘晓庆用",
+        "onboard_time": 1737287479,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76942,
+        "num": 76942,
+        "word": "春节回家是时候卸下一年的担子了",
+        "onboard_time": 1737292401,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67738,
+        "num": 67738,
+        "word": "教育强国建设规划纲要",
+        "onboard_time": 1737302478,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67102,
+        "num": 67102,
+        "word": "肖战坦言对春节档竞争不紧张",
+        "onboard_time": 1737300018,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 64736,
+        "num": 64736,
+        "word": "要强化高中幼儿园教师工资待遇保障",
+        "onboard_time": 1737304635,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 64343,
+        "num": 64343,
+        "word": "Doinb说跪下",
+        "onboard_time": 1737293779,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 58757,
+        "num": 58757,
+        "word": "搬家又一次让我意识到女性独居困境",
+        "onboard_time": 1737299478,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45091,
+        "num": 55952,
+        "word": "李昀锐断眉",
+        "onboard_time": 1737295820,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68046,
+        "num": 55894,
+        "word": "巨石强森不语只是一味宠女儿",
+        "onboard_time": 1737325872,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55777,
+        "num": 55777,
+        "word": "8米长鲸鱼尸体搁浅海南一沙滩",
+        "onboard_time": 1737309732,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54821,
+        "num": 54821,
+        "word": "留几手自曝请杨子喝酒花20万",
+        "onboard_time": 1737279798,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51462,
+        "num": 51462,
+        "word": "iG发文道歉",
+        "onboard_time": 1737297020,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 49209,
+        "num": 51461,
+        "word": "女子双眼皮手术4年半后揉出手术针",
+        "onboard_time": 1737283758,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47497,
+        "num": 51453,
+        "word": "TikTok停止在美服务",
+        "onboard_time": 1737260718,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 42497,
+        "num": 51442,
+        "word": "山西古寺里拍到了发光的哈气咪",
+        "onboard_time": 1737327014,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41523,
+        "num": 51441,
+        "word": "李现金秀贤G社生图",
+        "onboard_time": 1737300199,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 35328,
+        "num": 51433,
+        "word": "尹锡悦正式进入拘留所",
+        "onboard_time": 1737293960,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34871,
+        "num": 51424,
+        "word": "李昀锐倪虹洁演夫妻",
+        "onboard_time": 1737288919,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31663,
+        "num": 51416,
+        "word": "和给你能量的人在一起",
+        "onboard_time": 1737302538,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30877,
+        "num": 51413,
+        "word": "豆包chatGPT辩论谁是人工智障",
+        "onboard_time": 1737300439,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 29820,
+        "num": 51403,
+        "word": "女娲毕设刘浩存",
+        "onboard_time": 1737284839,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29743,
+        "num": 51396,
+        "word": "庞颖念诗给詹青云念红温了",
+        "onboard_time": 1737297500,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29728,
+        "num": 51386,
+        "word": "贺峻霖给严浩翔送祝福",
+        "onboard_time": 1737328094,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 29088,
+        "num": 51384,
+        "word": "男老师在女同事屋内装摄像头",
+        "onboard_time": 1737328215,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28736,
+        "num": 51375,
+        "word": "原来兵马俑还有微缩版本",
+        "onboard_time": 1737322930,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 27692,
+        "num": 51368,
+        "word": "出餐慢的餐车被顾客点赞",
+        "onboard_time": 1737321730,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26622,
+        "num": 51359,
+        "word": "没必要因身高焦虑破坏自己的人生",
+        "onboard_time": 1737308473,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25247,
+        "num": 51356,
+        "word": "解放军版东风夜放花千树",
+        "onboard_time": 1737320530,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平提到的幸福路#"
+    }
+  }
+}
