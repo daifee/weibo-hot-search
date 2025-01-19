@@ -1,0 +1,410 @@
+{
+  "runTime": 1737255202001,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1024932,
+        "num": 1163989,
+        "word": "湖南卫视春晚官宣阵容",
+        "onboard_time": 1737253938,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 973796,
+        "num": 973796,
+        "word": "正常腿被医生伪装成畸形做断骨增高",
+        "onboard_time": 1737248416,
+        "rank": 1,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 76256,
+        "num": 930013,
+        "word": "16架C919投入春运",
+        "onboard_time": 1737211581,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 985707,
+        "num": 928663,
+        "word": "留几手曝杨子留了90%的现金给黄圣依",
+        "onboard_time": 1737243074,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 905436,
+        "num": 905436,
+        "word": "特朗普涉TikTok禁令最新表态",
+        "onboard_time": 1737253578,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 447216,
+        "num": 447216,
+        "word": "19.9元票价再现春节档",
+        "onboard_time": 1737253938,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 581871,
+        "num": 446268,
+        "word": "胡彦斌对黄圣依的回怼全是祝福",
+        "onboard_time": 1737252317,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417998,
+        "num": 417998,
+        "word": "妈妈每天拍女儿匆忙上班的背影",
+        "onboard_time": 1737247218,
+        "rank": 7,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 777970,
+        "num": 416598,
+        "word": "葛夕回应麦琳黄圣依打架",
+        "onboard_time": 1737249677,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195056,
+        "num": 414188,
+        "word": "TikTok通知美用户将暂停服务",
+        "onboard_time": 1737254657,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 811806,
+        "num": 410161,
+        "word": "周受资代表TikTok感谢美国用户",
+        "onboard_time": 1737247277,
+        "rank": 10,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 510051,
+        "num": 406756,
+        "word": "今年春节档第一张电影票",
+        "onboard_time": 1737252437,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 421716,
+        "num": 401907,
+        "word": "贾宝玉真的从书里走出来了",
+        "onboard_time": 1737243313,
+        "rank": 12,
+        "category": "剧集,综艺"
+      },
+      {
+        "raw_hot": 400106,
+        "num": 400106,
+        "word": "央视曝断骨增高灰色产业链",
+        "onboard_time": 1737222734,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403078,
+        "num": 378049,
+        "word": "封神第二部里有中国人的家园情怀",
+        "onboard_time": 1737253276,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 354421,
+        "num": 354421,
+        "word": "娜然妲己开大的撕心裂肺感",
+        "onboard_time": 1737254057,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 311231,
+        "num": 311231,
+        "word": "全世界最差航空的飞机餐",
+        "onboard_time": 1737243013,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207619,
+        "num": 207619,
+        "word": "老夫妻在地窖蒸三千斤糯米酿酒中毒",
+        "onboard_time": 1737243074,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194804,
+        "num": 194804,
+        "word": "加油站错加汽油后奔驰大G趴窝",
+        "onboard_time": 1737254419,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148849,
+        "num": 148849,
+        "word": "年轻人不爱大包小包走亲戚了",
+        "onboard_time": 1737248176,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308395,
+        "num": 148331,
+        "word": "射雕英雄传侠之大者预售",
+        "onboard_time": 1737251657,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 417077,
+        "num": 148052,
+        "word": "女子出国做断骨增高腿喷脓",
+        "onboard_time": 1737207261,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269118,
+        "num": 148019,
+        "word": "李昀锐不语 只是一味地升辈分",
+        "onboard_time": 1737254718,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147774,
+        "num": 147774,
+        "word": "上海老人离世430万和1套房无人继承",
+        "onboard_time": 1737191118,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261625,
+        "num": 147209,
+        "word": "猎罪图鉴海外宣传以金世佳为主",
+        "onboard_time": 1737243013,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190414,
+        "num": 146651,
+        "word": "射雕英雄传预售破1000万",
+        "onboard_time": 1737254177,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 241638,
+        "num": 145873,
+        "word": "橘子是讨好型水果",
+        "onboard_time": 1737244996,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 226866,
+        "num": 144983,
+        "word": "大奉打更人第二季",
+        "onboard_time": 1737213020,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221609,
+        "num": 144501,
+        "word": "封神2票补",
+        "onboard_time": 1737244335,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 213360,
+        "num": 143110,
+        "word": "多款手机价格集体降至6000元以内",
+        "onboard_time": 1737254236,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 199424,
+        "num": 142715,
+        "word": "肖战射雕好多武林绝学",
+        "onboard_time": 1737254537,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142182,
+        "num": 142182,
+        "word": "特朗普或将TikTok禁令延期90天",
+        "onboard_time": 1737250218,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 188569,
+        "num": 142081,
+        "word": "中国年轻人捡漏日本低价中古屋",
+        "onboard_time": 1737252317,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 187853,
+        "num": 142071,
+        "word": "所有人都忘了许七安",
+        "onboard_time": 1737243074,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180512,
+        "num": 141916,
+        "word": "丁克家庭的遗产会由谁继承",
+        "onboard_time": 1737245896,
+        "rank": 34,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 140615,
+        "num": 140615,
+        "word": "莫小贝居然32岁了",
+        "onboard_time": 1737245176,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137634,
+        "num": 137634,
+        "word": "猫耳官宣最强阵容",
+        "onboard_time": 1737254838,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 133222,
+        "num": 133222,
+        "word": "赵今麦演出了破天的倒灌感",
+        "onboard_time": 1737214160,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119796,
+        "num": 119796,
+        "word": "90后女博士的工作日常是摸鱼",
+        "onboard_time": 1737253938,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108012,
+        "num": 108012,
+        "word": "你摸我腰",
+        "onboard_time": 1737255077,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106313,
+        "num": 106313,
+        "word": "都四九天了今年还会冷吗",
+        "onboard_time": 1737205161,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104946,
+        "num": 104946,
+        "word": "2025全军开训名场面",
+        "onboard_time": 1737251837,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102316,
+        "num": 102316,
+        "word": "马龙夏露米兰探店路透",
+        "onboard_time": 1737244996,
+        "rank": 42,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 100502,
+        "num": 100502,
+        "word": "杨子头像",
+        "onboard_time": 1737255017,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98358,
+        "num": 98358,
+        "word": "韩国法院批准对尹锡悦拘留令",
+        "onboard_time": 1737246196,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93521,
+        "num": 93521,
+        "word": "电影射雕英雄传侠之大者",
+        "onboard_time": 1737252076,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 93180,
+        "num": 93180,
+        "word": "澳洲主播嘲讽德约科维奇",
+        "onboard_time": 1737252497,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92324,
+        "num": 92324,
+        "word": "Doinb复出首秀",
+        "onboard_time": 1737254956,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 92074,
+        "num": 92074,
+        "word": "尹锡悦被羁押最长可达20天",
+        "onboard_time": 1737249857,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89872,
+        "num": 89872,
+        "word": "TF家族新音合影",
+        "onboard_time": 1737253817,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全军老同志祝贺新春#"
+    }
+  }
+}

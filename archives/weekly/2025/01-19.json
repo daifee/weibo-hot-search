@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737252243128,
+  "endTime": 1737255202001,
   "band_list": [
     {
       "raw_hot": 1780894,
@@ -35,6 +35,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 1024932,
+      "num": 1163989,
+      "word": "湖南卫视春晚官宣阵容",
+      "onboard_time": 1737253938,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1011705,
       "num": 1011705,
       "word": "大奉打更人第二季",
@@ -44,11 +52,19 @@
     },
     {
       "raw_hot": 993865,
-      "num": 293547,
+      "num": 410161,
       "word": "周受资代表TikTok感谢美国用户",
       "onboard_time": 1737247277,
       "rank": 10,
       "category": "国际时政,互联网"
+    },
+    {
+      "raw_hot": 905436,
+      "num": 905436,
+      "word": "特朗普涉TikTok禁令最新表态",
+      "onboard_time": 1737253578,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 758879,
@@ -83,12 +99,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 581871,
+      "num": 446268,
+      "word": "胡彦斌对黄圣依的回怼全是祝福",
+      "onboard_time": 1737252317,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 576606,
       "num": 173230,
       "word": "女子出国做断骨增高腿喷脓",
       "onboard_time": 1737207261,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 510051,
+      "num": 406756,
+      "word": "今年春节档第一张电影票",
+      "onboard_time": 1737252437,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 506223,
@@ -123,12 +155,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 447216,
+      "num": 447216,
+      "word": "19.9元票价再现春节档",
+      "onboard_time": 1737253938,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 439724,
       "num": 439724,
       "word": "全世界最差航空的飞机餐",
       "onboard_time": 1737243013,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 403078,
+      "num": 378049,
+      "word": "封神第二部里有中国人的家园情怀",
+      "onboard_time": 1737253276,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 385932,
@@ -145,6 +193,14 @@
       "onboard_time": 1737217158,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 354421,
+      "num": 354421,
+      "word": "娜然妲己开大的撕心裂肺感",
+      "onboard_time": 1737254057,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 342526,
@@ -169,6 +225,14 @@
       "onboard_time": 1737204978,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 308395,
+      "num": 172187,
+      "word": "射雕英雄传侠之大者预售",
+      "onboard_time": 1737251657,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 303717,
@@ -211,6 +275,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 269118,
+      "num": 148019,
+      "word": "李昀锐不语 只是一味地升辈分",
+      "onboard_time": 1737254718,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 261625,
+      "num": 247577,
+      "word": "猎罪图鉴海外宣传以金世佳为主",
+      "onboard_time": 1737243013,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256602,
       "num": 256602,
       "word": "丈夫称晓华不会上春晚舞台",
@@ -235,15 +315,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 247577,
-      "num": 247577,
-      "word": "猎罪图鉴海外宣传以金世佳为主",
-      "onboard_time": 1737243013,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 240543,
+      "raw_hot": 241638,
       "num": 172647,
       "word": "橘子是讨好型水果",
       "onboard_time": 1737244996,
@@ -275,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213360,
+      "num": 143110,
+      "word": "多款手机价格集体降至6000元以内",
+      "onboard_time": 1737254236,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 207137,
       "num": 124676,
       "word": "国色芳华单集收视创新高",
@@ -299,12 +379,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199836,
-      "num": 172187,
-      "word": "射雕英雄传侠之大者预售",
-      "onboard_time": 1737251657,
-      "rank": 23,
+      "raw_hot": 199424,
+      "num": 142715,
+      "word": "肖战射雕好多武林绝学",
+      "onboard_time": 1737254537,
+      "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 195056,
+      "num": 414188,
+      "word": "TikTok通知美用户将暂停服务",
+      "onboard_time": 1737254657,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 194804,
+      "num": 194804,
+      "word": "加油站错加汽油后奔驰大G趴窝",
+      "onboard_time": 1737254419,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194092,
@@ -329,6 +425,22 @@
       "onboard_time": 1737246196,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 190414,
+      "num": 146651,
+      "word": "射雕英雄传预售破1000万",
+      "onboard_time": 1737254177,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 188569,
+      "num": 142081,
+      "word": "中国年轻人捡漏日本低价中古屋",
+      "onboard_time": 1737252317,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 183837,
@@ -403,6 +515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 148849,
+      "num": 148849,
+      "word": "年轻人不爱大包小包走亲戚了",
+      "onboard_time": 1737248176,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147828,
       "num": 147828,
       "word": "恋与深空点亮全球地标",
@@ -427,12 +547,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139921,
-      "num": 139921,
-      "word": "年轻人不爱大包小包走亲戚了",
-      "onboard_time": 1737248176,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 137634,
+      "num": 137634,
+      "word": "猫耳官宣最强阵容",
+      "onboard_time": 1737254838,
+      "rank": 36,
+      "category": "动漫"
     },
     {
       "raw_hot": 136792,
@@ -499,6 +619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 119796,
+      "num": 119796,
+      "word": "90后女博士的工作日常是摸鱼",
+      "onboard_time": 1737253938,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115179,
       "num": 115179,
       "word": "联合国总部电梯坏了5个月终于修好了",
@@ -544,6 +672,14 @@
       "word": "国色芳华",
       "onboard_time": 1737203418,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 108012,
+      "num": 108012,
+      "word": "你摸我腰",
+      "onboard_time": 1737255077,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -603,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100502,
+      "num": 100502,
+      "word": "杨子头像",
+      "onboard_time": 1737255017,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97434,
       "num": 97434,
       "word": "山东或将换上山西同款赛博外墙",
@@ -651,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93180,
+      "num": 93180,
+      "word": "澳洲主播嘲讽德约科维奇",
+      "onboard_time": 1737252497,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93004,
       "num": 93004,
       "word": "国色芳华收视九连冠",
@@ -667,12 +819,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 92324,
+      "num": 92324,
+      "word": "Doinb复出首秀",
+      "onboard_time": 1737254956,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 90428,
       "num": 90428,
       "word": "陈丽君上场前一秒还在练习",
       "onboard_time": 1737248837,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89872,
+      "num": 89872,
+      "word": "TF家族新音合影",
+      "onboard_time": 1737253817,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 87533,
@@ -684,7 +852,7 @@
     },
     {
       "raw_hot": 86695,
-      "num": 716097,
+      "num": 930013,
       "word": "16架C919投入春运",
       "onboard_time": 1737211581,
       "rank": 2,
