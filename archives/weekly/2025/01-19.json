@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737285410565,
+  "endTime": 1737286516979,
   "band_list": [
     {
       "raw_hot": 2463156,
@@ -131,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 911767,
+      "num": 1145882,
+      "word": "漂白尺度绝了",
+      "onboard_time": 1737283698,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 902283,
       "num": 902283,
       "word": "TikTok通知美用户将暂停服务",
@@ -147,12 +155,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 790360,
-      "num": 484491,
-      "word": "漂白尺度绝了",
+      "raw_hot": 819946,
+      "num": 819946,
+      "word": "实在不行过年让孩子穿校服吧",
       "onboard_time": 1737283698,
-      "rank": 3,
-      "category": "剧集"
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 758879,
@@ -185,6 +193,14 @@
       "onboard_time": 1737260658,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 645941,
+      "num": 645941,
+      "word": "女娲毕设刘浩存",
+      "onboard_time": 1737284839,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 637651,
@@ -225,14 +241,6 @@
       "onboard_time": 1737271337,
       "rank": 15,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 590866,
-      "num": 260592,
-      "word": "实在不行过年让孩子穿校服吧",
-      "onboard_time": 1737283698,
-      "rank": 10,
-      "category": "幽默"
     },
     {
       "raw_hot": 585947,
@@ -499,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 338397,
+      "num": 261729,
+      "word": "李宇春出镜感谢观众20年陪伴",
+      "onboard_time": 1737284057,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 336098,
       "num": 336098,
       "word": "谢金燕回应未婚生子",
@@ -531,19 +547,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 327419,
+      "num": 193729,
+      "word": "女子双眼皮手术4年半后揉出手术针",
+      "onboard_time": 1737283758,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 322645,
       "num": 193775,
       "word": "男子曝烟头烫到马桶酒店索赔1000多",
       "onboard_time": 1737281178,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 322433,
-      "num": 193729,
-      "word": "女子双眼皮手术4年半后揉出手术针",
-      "onboard_time": 1737283758,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -561,6 +577,14 @@
       "onboard_time": 1737265817,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 318291,
+      "num": 318291,
+      "word": "一路繁花窒息七分钟",
+      "onboard_time": 1737285498,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 318087,
@@ -651,6 +675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 284501,
+      "num": 284501,
+      "word": "漂白",
+      "onboard_time": 1737190399,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 278648,
       "num": 278648,
       "word": "樊振东米兰到达",
@@ -683,14 +715,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 261729,
-      "num": 261729,
-      "word": "李宇春出镜感谢观众20年陪伴",
-      "onboard_time": 1737284057,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 261625,
       "num": 247577,
       "word": "猎罪图鉴海外宣传以金世佳为主",
@@ -705,14 +729,6 @@
       "onboard_time": 1737233950,
       "rank": 9,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 255827,
-      "num": 255827,
-      "word": "漂白",
-      "onboard_time": 1737190399,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 255655,
@@ -753,14 +769,6 @@
       "onboard_time": 1737207800,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 247162,
-      "num": 247162,
-      "word": "女娲毕设刘浩存",
-      "onboard_time": 1737284839,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 241774,
@@ -819,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223726,
+      "num": 223726,
+      "word": "异人之下2十个奇门九个疯",
+      "onboard_time": 1737284238,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217758,
       "num": 217758,
       "word": "白鹿残梅映血",
@@ -827,19 +843,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 215596,
-      "num": 215596,
-      "word": "异人之下2十个奇门九个疯",
-      "onboard_time": 1737284238,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 215212,
       "num": 162353,
       "word": "莫小贝居然32岁了",
       "onboard_time": 1737245176,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 214645,
+      "num": 322406,
+      "word": "李宇春说要学奥运冠军的坚持和热爱",
+      "onboard_time": 1737284538,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -897,6 +913,14 @@
       "onboard_time": 1737256757,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 207885,
+      "num": 175841,
+      "word": "时代少年团吸血鬼伯爵造型",
+      "onboard_time": 1737285618,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 207137,
@@ -1267,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152902,
+      "num": 152902,
+      "word": "在长沙花100万买到的老破小",
+      "onboard_time": 1737283698,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151505,
       "num": 151505,
       "word": "秦胜意的两次破门",
@@ -1387,6 +1419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142755,
+      "num": 142755,
+      "word": "今年过年知道怎么拍照了",
+      "onboard_time": 1737285977,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142336,
       "num": 142336,
       "word": "张雅钦不语只是一味刷剧",
@@ -1473,6 +1513,14 @@
       "onboard_time": 1737222853,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135047,
+      "num": 135047,
+      "word": "国产剧前有锅姨后有锅铲姐",
+      "onboard_time": 1737286098,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 134601,
@@ -1667,14 +1715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 110881,
-      "num": 110881,
-      "word": "在长沙花100万买到的老破小",
-      "onboard_time": 1737283698,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 110776,
       "num": 110776,
       "word": "00花新剧开年对打",
@@ -1689,14 +1729,6 @@
       "onboard_time": 1737278599,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 110481,
-      "num": 193949,
-      "word": "李宇春说要学奥运冠军的坚持和热爱",
-      "onboard_time": 1737284538,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 109942,
@@ -1795,6 +1827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105728,
+      "num": 105728,
+      "word": "时代少年团拨开迷雾奏响乐章",
+      "onboard_time": 1737286280,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 105722,
       "num": 105722,
       "word": "陈奕迅佛山有影脚创始人",
@@ -1857,6 +1897,14 @@
       "onboard_time": 1737264618,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101194,
+      "num": 101194,
+      "word": "央视曝光美甲灯安全隐患",
+      "onboard_time": 1737286337,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100502,
@@ -1969,6 +2017,14 @@
       "onboard_time": 1737216259,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94511,
+      "num": 94511,
+      "word": "做一次美甲手上皮肤黑一两个色号",
+      "onboard_time": 1737286458,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94327,
@@ -2092,7 +2148,7 @@
     },
     {
       "raw_hot": 78268,
-      "num": 690862,
+      "num": 694318,
       "word": "没有一个人能空手走出年货大集",
       "onboard_time": 1737277518,
       "rank": 2,

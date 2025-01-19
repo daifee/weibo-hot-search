@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/19 00:24:27 ~ 2025/01/19 19:16:50
+本榜单时间：2025/01/19 00:24:27 ~ 2025/01/19 19:35:16
 </p>
 </blockquote>
 <p>
@@ -111,6 +111,12 @@ TikTok停止在美服务（热度：2463156）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BC%82%E7%99%BD%E5%B0%BA%E5%BA%A6%E7%BB%9D%E4%BA%86%23" target="weibo">
+漂白尺度绝了（热度：911767）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23TikTok%E9%80%9A%E7%9F%A5%E7%BE%8E%E7%94%A8%E6%88%B7%E5%B0%86%E6%9A%82%E5%81%9C%E6%9C%8D%E5%8A%A1%23" target="weibo">
 TikTok通知美用户将暂停服务（热度：902283）
 </a>
@@ -123,8 +129,8 @@ TikTok通知美用户将暂停服务（热度：902283）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%BC%82%E7%99%BD%E5%B0%BA%E5%BA%A6%E7%BB%9D%E4%BA%86%23" target="weibo">
-漂白尺度绝了（热度：790360）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9E%E5%9C%A8%E4%B8%8D%E8%A1%8C%E8%BF%87%E5%B9%B4%E8%AE%A9%E5%AD%A9%E5%AD%90%E7%A9%BF%E6%A0%A1%E6%9C%8D%E5%90%A7%23" target="weibo">
+实在不行过年让孩子穿校服吧（热度：819946）
 </a>
 </li>
 
@@ -149,6 +155,12 @@ TikTok通知美用户将暂停服务（热度：902283）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%B4%E6%B2%BB%E7%BD%91%E4%B8%8A%E4%BA%92%E6%92%95%E8%B0%A9%E9%AA%82%E5%92%8C%E6%8B%89%E8%B8%A9%E5%BC%95%E6%88%98%E7%AD%89%E8%A1%8C%E4%B8%BA%23" target="weibo">
 整治网上互撕谩骂和拉踩引战等行为（热度：655982）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A8%B2%E6%AF%95%E8%AE%BE%E5%88%98%E6%B5%A9%E5%AD%98%23" target="weibo">
+女娲毕设刘浩存（热度：645941）
 </a>
 </li>
 
@@ -179,12 +191,6 @@ TikTok通知美用户将暂停服务（热度：902283）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%8F%B8%E6%8F%90%E4%BA%A4%E4%B8%8ETikTok%E5%90%88%E5%B9%B6%E6%A0%87%E4%B9%A6%23" target="weibo">
 美国公司提交与TikTok合并标书（热度：597441）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9E%E5%9C%A8%E4%B8%8D%E8%A1%8C%E8%BF%87%E5%B9%B4%E8%AE%A9%E5%AD%A9%E5%AD%90%E7%A9%BF%E6%A0%A1%E6%9C%8D%E5%90%A7%23" target="weibo">
-实在不行过年让孩子穿校服吧（热度：590866）
 </a>
 </li>
 
@@ -387,6 +393,12 @@ TikTok在美国应用商店下架（热度：366993）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E5%87%BA%E9%95%9C%E6%84%9F%E8%B0%A2%E8%A7%82%E4%BC%9720%E5%B9%B4%E9%99%AA%E4%BC%B4%23" target="weibo">
+李宇春出镜感谢观众20年陪伴（热度：338397）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E9%87%91%E7%87%95%E5%9B%9E%E5%BA%94%E6%9C%AA%E5%A9%9A%E7%94%9F%E5%AD%90%23" target="weibo">
 谢金燕回应未婚生子（热度：336098）
 </a>
@@ -411,14 +423,14 @@ TikTok在美国应用商店下架（热度：366993）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9B%9D%E7%83%9F%E5%A4%B4%E7%83%AB%E5%88%B0%E9%A9%AC%E6%A1%B6%E9%85%92%E5%BA%97%E7%B4%A2%E8%B5%941000%E5%A4%9A%23" target="weibo">
-男子曝烟头烫到马桶酒店索赔1000多（热度：322645）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8F%8C%E7%9C%BC%E7%9A%AE%E6%89%8B%E6%9C%AF4%E5%B9%B4%E5%8D%8A%E5%90%8E%E6%8F%89%E5%87%BA%E6%89%8B%E6%9C%AF%E9%92%88%23" target="weibo">
+女子双眼皮手术4年半后揉出手术针（热度：327419）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8F%8C%E7%9C%BC%E7%9A%AE%E6%89%8B%E6%9C%AF4%E5%B9%B4%E5%8D%8A%E5%90%8E%E6%8F%89%E5%87%BA%E6%89%8B%E6%9C%AF%E9%92%88%23" target="weibo">
-女子双眼皮手术4年半后揉出手术针（热度：322433）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9B%9D%E7%83%9F%E5%A4%B4%E7%83%AB%E5%88%B0%E9%A9%AC%E6%A1%B6%E9%85%92%E5%BA%97%E7%B4%A2%E8%B5%941000%E5%A4%9A%23" target="weibo">
+男子曝烟头烫到马桶酒店索赔1000多（热度：322645）
 </a>
 </li>
 
@@ -431,6 +443,12 @@ TikTok在美国应用商店下架（热度：366993）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%8D%83%E9%9C%88%E6%B4%AA%E5%AE%B6%E6%9D%B0%E7%A6%BB%E5%A9%9A%23" target="weibo">
 杨千霈洪家杰离婚（热度：320700）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B7%AF%E7%B9%81%E8%8A%B1%E7%AA%92%E6%81%AF%E4%B8%83%E5%88%86%E9%92%9F%23" target="weibo">
+一路繁花窒息七分钟（热度：318291）
 </a>
 </li>
 
@@ -501,6 +519,12 @@ TikTok在美国应用商店下架（热度：366993）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BC%82%E7%99%BD%23" target="weibo">
+漂白（热度：284501）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%B1%B3%E5%85%B0%E5%88%B0%E8%BE%BE%23" target="weibo">
 樊振东米兰到达（热度：278648）
 </a>
@@ -525,12 +549,6 @@ TikTok在美国应用商店下架（热度：366993）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E5%87%BA%E9%95%9C%E6%84%9F%E8%B0%A2%E8%A7%82%E4%BC%9720%E5%B9%B4%E9%99%AA%E4%BC%B4%23" target="weibo">
-李宇春出镜感谢观众20年陪伴（热度：261729）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8C%8E%E7%BD%AA%E5%9B%BE%E9%89%B4%E6%B5%B7%E5%A4%96%E5%AE%A3%E4%BC%A0%E4%BB%A5%E9%87%91%E4%B8%96%E4%BD%B3%E4%B8%BA%E4%B8%BB%23" target="weibo">
 猎罪图鉴海外宣传以金世佳为主（热度：261625）
 </a>
@@ -539,12 +557,6 @@ TikTok在美国应用商店下架（热度：366993）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E7%A7%B0%E6%99%93%E5%8D%8E%E4%B8%8D%E4%BC%9A%E4%B8%8A%E6%98%A5%E6%99%9A%E8%88%9E%E5%8F%B0%23" target="weibo">
 丈夫称晓华不会上春晚舞台（热度：256602）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%BC%82%E7%99%BD%23" target="weibo">
-漂白（热度：255827）
 </a>
 </li>
 
@@ -575,12 +587,6 @@ TikTok在美国应用商店下架（热度：366993）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%81%87%E6%89%AE%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9B%9E%E5%AE%B6%E8%A2%AB%E6%9D%91%E9%87%8C%E4%BA%BA%E4%BB%8B%E7%BB%8D%E5%AF%B9%E8%B1%A1%23" target="weibo">
 女子假扮机器人回家被村里人介绍对象（热度：247768）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A8%B2%E6%AF%95%E8%AE%BE%E5%88%98%E6%B5%A9%E5%AD%98%23" target="weibo">
-女娲毕设刘浩存（热度：247162）
 </a>
 </li>
 
@@ -627,20 +633,26 @@ TikTok公司表示白宫无保证平台只能关（热度：232827）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%82%E4%BA%BA%E4%B9%8B%E4%B8%8B2%E5%8D%81%E4%B8%AA%E5%A5%87%E9%97%A8%E4%B9%9D%E4%B8%AA%E7%96%AF%23" target="weibo">
+异人之下2十个奇门九个疯（热度：223726）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%AE%8B%E6%A2%85%E6%98%A0%E8%A1%80%23" target="weibo">
 白鹿残梅映血（热度：217758）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%82%E4%BA%BA%E4%B9%8B%E4%B8%8B2%E5%8D%81%E4%B8%AA%E5%A5%87%E9%97%A8%E4%B9%9D%E4%B8%AA%E7%96%AF%23" target="weibo">
-异人之下2十个奇门九个疯（热度：215596）
+<a href="https://s.weibo.com/weibo?q=%23%E8%8E%AB%E5%B0%8F%E8%B4%9D%E5%B1%85%E7%84%B632%E5%B2%81%E4%BA%86%23" target="weibo">
+莫小贝居然32岁了（热度：215212）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8E%AB%E5%B0%8F%E8%B4%9D%E5%B1%85%E7%84%B632%E5%B2%81%E4%BA%86%23" target="weibo">
-莫小贝居然32岁了（热度：215212）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E8%AF%B4%E8%A6%81%E5%AD%A6%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E7%9A%84%E5%9D%9A%E6%8C%81%E5%92%8C%E7%83%AD%E7%88%B1%23" target="weibo">
+李宇春说要学奥运冠军的坚持和热爱（热度：214645）
 </a>
 </li>
 
@@ -683,6 +695,12 @@ TikTok公司表示白宫无保证平台只能关（热度：232827）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%84%E9%9B%95%E8%8B%B1%E9%9B%84%E4%BC%A0%E9%A2%84%E5%94%AE%E7%A0%B42000%E4%B8%87%23" target="weibo">
 射雕英雄传预售破2000万（热度：208113）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%90%B8%E8%A1%80%E9%AC%BC%E4%BC%AF%E7%88%B5%E9%80%A0%E5%9E%8B%23" target="weibo">
+时代少年团吸血鬼伯爵造型（热度：207885）
 </a>
 </li>
 
@@ -963,6 +981,12 @@ iG（热度：157972）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%95%BF%E6%B2%99%E8%8A%B1100%E4%B8%87%E4%B9%B0%E5%88%B0%E7%9A%84%E8%80%81%E7%A0%B4%E5%B0%8F%23" target="weibo">
+在长沙花100万买到的老破小（热度：152902）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E8%83%9C%E6%84%8F%E7%9A%84%E4%B8%A4%E6%AC%A1%E7%A0%B4%E9%97%A8%23" target="weibo">
 秦胜意的两次破门（热度：151505）
 </a>
@@ -1053,6 +1077,12 @@ iG（热度：157972）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E8%BF%87%E5%B9%B4%E7%9F%A5%E9%81%93%E6%80%8E%E4%B9%88%E6%8B%8D%E7%85%A7%E4%BA%86%23" target="weibo">
+今年过年知道怎么拍照了（热度：142755）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%85%E9%92%A6%E4%B8%8D%E8%AF%AD%E5%8F%AA%E6%98%AF%E4%B8%80%E5%91%B3%E5%88%B7%E5%89%A7%23" target="weibo">
 张雅钦不语只是一味刷剧（热度：142336）
 </a>
@@ -1115,6 +1145,12 @@ TikTok在美国使用实时画面曝光（热度：139147）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E5%87%BA%E7%94%9F%E4%BA%BA%E5%8F%A37%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%8D%87%23" target="weibo">
 全国出生人口7年来首次回升（热度：135347）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E5%89%A7%E5%89%8D%E6%9C%89%E9%94%85%E5%A7%A8%E5%90%8E%E6%9C%89%E9%94%85%E9%93%B2%E5%A7%90%23" target="weibo">
+国产剧前有锅姨后有锅铲姐（热度：135047）
 </a>
 </li>
 
@@ -1263,12 +1299,6 @@ TikTok在美国使用实时画面曝光（热度：139147）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%95%BF%E6%B2%99%E8%8A%B1100%E4%B8%87%E4%B9%B0%E5%88%B0%E7%9A%84%E8%80%81%E7%A0%B4%E5%B0%8F%23" target="weibo">
-在长沙花100万买到的老破小（热度：110881）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%2300%E8%8A%B1%E6%96%B0%E5%89%A7%E5%BC%80%E5%B9%B4%E5%AF%B9%E6%89%93%23" target="weibo">
 00花新剧开年对打（热度：110776）
 </a>
@@ -1277,12 +1307,6 @@ TikTok在美国使用实时画面曝光（热度：139147）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%88%B0%E5%BA%95%E6%98%AF%E7%88%B8%E7%88%B8%E5%BD%93%E5%AE%B6%E8%BF%98%E6%98%AF%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%23" target="weibo">
 这到底是爸爸当家还是再见爱人（热度：110648）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E8%AF%B4%E8%A6%81%E5%AD%A6%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E7%9A%84%E5%9D%9A%E6%8C%81%E5%92%8C%E7%83%AD%E7%88%B1%23" target="weibo">
-李宇春说要学奥运冠军的坚持和热爱（热度：110481）
 </a>
 </li>
 
@@ -1359,6 +1383,12 @@ TikTok在美国使用实时画面曝光（热度：139147）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%8B%A8%E5%BC%80%E8%BF%B7%E9%9B%BE%E5%A5%8F%E5%93%8D%E4%B9%90%E7%AB%A0%23" target="weibo">
+时代少年团拨开迷雾奏响乐章（热度：105728）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%E4%BD%9B%E5%B1%B1%E6%9C%89%E5%BD%B1%E8%84%9A%E5%88%9B%E5%A7%8B%E4%BA%BA%23" target="weibo">
 陈奕迅佛山有影脚创始人（热度：105722）
 </a>
@@ -1403,6 +1433,12 @@ TikTok在美国使用实时画面曝光（热度：139147）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E6%9C%B5%E6%A1%83%E8%8A%B1%E5%86%B3%E6%88%98%E7%99%AB%E7%96%AF%23" target="weibo">
 千朵桃花决战癫疯（热度：101666）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%BE%8E%E7%94%B2%E7%81%AF%E5%AE%89%E5%85%A8%E9%9A%90%E6%82%A3%23" target="weibo">
+央视曝光美甲灯安全隐患（热度：101194）
 </a>
 </li>
 
@@ -1487,6 +1523,12 @@ Doinb复出首秀（热度：95311）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%96%9C%E6%AC%A2%E4%B8%8A%E7%8F%AD%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23" target="weibo">
 白鹿喜欢上班的原因找到了（热度：94814）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%81%9A%E4%B8%80%E6%AC%A1%E7%BE%8E%E7%94%B2%E6%89%8B%E4%B8%8A%E7%9A%AE%E8%82%A4%E9%BB%91%E4%B8%80%E4%B8%A4%E4%B8%AA%E8%89%B2%E5%8F%B7%23" target="weibo">
+做一次美甲手上皮肤黑一两个色号（热度：94511）
 </a>
 </li>
 

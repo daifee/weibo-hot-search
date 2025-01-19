@@ -1,0 +1,410 @@
+{
+  "runTime": 1737286516979,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 911767,
+        "num": 1145882,
+        "word": "漂白尺度绝了",
+        "onboard_time": 1737283698,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 819946,
+        "num": 819946,
+        "word": "实在不行过年让孩子穿校服吧",
+        "onboard_time": 1737283698,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61499,
+        "num": 694318,
+        "word": "没有一个人能空手走出年货大集",
+        "onboard_time": 1737277518,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 645941,
+        "num": 645941,
+        "word": "女娲毕设刘浩存",
+        "onboard_time": 1737284839,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427062,
+        "num": 427062,
+        "word": "嫂子喂出嫁小姑子吃面手抖成了筛子",
+        "onboard_time": 1737278838,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 441641,
+        "num": 415887,
+        "word": "TikTok停止在美服务",
+        "onboard_time": 1737260718,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 611104,
+        "num": 415599,
+        "word": "春晚主持人",
+        "onboard_time": 1737277518,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 404461,
+        "num": 404461,
+        "word": "男子口含碎玻璃6次敲诈海底捞被起诉",
+        "onboard_time": 1737277219,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369358,
+        "num": 369358,
+        "word": "没人告诉我马龙穿大衣这么帅",
+        "onboard_time": 1737281478,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214645,
+        "num": 322406,
+        "word": "李宇春说要学奥运冠军的坚持和热爱",
+        "onboard_time": 1737284538,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318291,
+        "num": 318291,
+        "word": "一路繁花窒息七分钟",
+        "onboard_time": 1737285498,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284501,
+        "num": 284501,
+        "word": "漂白",
+        "onboard_time": 1737265697,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276828,
+        "num": 276828,
+        "word": "樊振东米兰到达",
+        "onboard_time": 1737283758,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266790,
+        "num": 266790,
+        "word": "谢金燕回应未婚生子",
+        "onboard_time": 1737277638,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338397,
+        "num": 258938,
+        "word": "李宇春出镜感谢观众20年陪伴",
+        "onboard_time": 1737284057,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246151,
+        "num": 246151,
+        "word": "美国网友已经准备在屋前屋后种菜",
+        "onboard_time": 1737261557,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 237220,
+        "num": 237220,
+        "word": "字节跳动旗下多个应用在美停服",
+        "onboard_time": 1737274638,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 223726,
+        "num": 223726,
+        "word": "异人之下2十个奇门九个疯",
+        "onboard_time": 1737284238,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183222,
+        "num": 183222,
+        "word": "大熊猫古古去世",
+        "onboard_time": 1737262458,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168318,
+        "num": 182776,
+        "word": "爸爸一句含金量不高孩子气哭撕奖状",
+        "onboard_time": 1737271397,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 921904,
+        "num": 181943,
+        "word": "留几手自曝请杨子喝酒花20万",
+        "onboard_time": 1737279798,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327419,
+        "num": 180915,
+        "word": "女子双眼皮手术4年半后揉出手术针",
+        "onboard_time": 1737283758,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319751,
+        "num": 179892,
+        "word": "男子曝烟头烫到马桶酒店索赔1000多",
+        "onboard_time": 1737281178,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222273,
+        "num": 179254,
+        "word": "孕妇被宝宝的四维彩超丑哭",
+        "onboard_time": 1737283758,
+        "rank": 23,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 219787,
+        "num": 178862,
+        "word": "孟子义95花集均剧播第一",
+        "onboard_time": 1737278059,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217612,
+        "num": 177612,
+        "word": "王鹤棣你嫂子赢了",
+        "onboard_time": 1737271457,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213145,
+        "num": 177020,
+        "word": "2025春节档预售破亿",
+        "onboard_time": 1737271278,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207885,
+        "num": 175841,
+        "word": "时代少年团吸血鬼伯爵造型",
+        "onboard_time": 1737285618,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175641,
+        "num": 175641,
+        "word": "李行亮是麦琳的榜一大哥",
+        "onboard_time": 1737280338,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170705,
+        "num": 170705,
+        "word": "仙逆",
+        "onboard_time": 1737285379,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 152902,
+        "num": 152902,
+        "word": "在长沙花100万买到的老破小",
+        "onboard_time": 1737283698,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148008,
+        "num": 148008,
+        "word": "杨子说一天哭800遍不是他说的",
+        "onboard_time": 1737283999,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146916,
+        "num": 146916,
+        "word": "美国公司提交与TikTok合并标书",
+        "onboard_time": 1737271337,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 145950,
+        "num": 145950,
+        "word": "我可能亲眼见证了一个非遗的消亡",
+        "onboard_time": 1737283698,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142755,
+        "num": 142755,
+        "word": "今年过年知道怎么拍照了",
+        "onboard_time": 1737285977,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137611,
+        "num": 137611,
+        "word": "射雕英雄传预售票房破6000万",
+        "onboard_time": 1737281959,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135047,
+        "num": 135047,
+        "word": "国产剧前有锅姨后有锅铲姐",
+        "onboard_time": 1737286098,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134910,
+        "num": 134910,
+        "word": "祝绪丹杨仕泽一起录综艺",
+        "onboard_time": 1737284839,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130476,
+        "num": 130476,
+        "word": "麦琳透露现在103斤",
+        "onboard_time": 1737263777,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121702,
+        "num": 121702,
+        "word": "国产剧终于拍了熟男熟女的cp了",
+        "onboard_time": 1737271397,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117996,
+        "num": 117996,
+        "word": "湖南卫视春晚官宣阵容",
+        "onboard_time": 1737253938,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112054,
+        "num": 112054,
+        "word": "蒲熠星录制最强大脑",
+        "onboard_time": 1737271457,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110728,
+        "num": 110728,
+        "word": "久酷微博发文后秒删",
+        "onboard_time": 1737278659,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107696,
+        "num": 107696,
+        "word": "肖战射雕预售票房占比",
+        "onboard_time": 1737277518,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105861,
+        "num": 105861,
+        "word": "特朗普身家一夜暴涨400%",
+        "onboard_time": 1737276798,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105728,
+        "num": 105728,
+        "word": "时代少年团拨开迷雾奏响乐章",
+        "onboard_time": 1737286280,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101194,
+        "num": 101194,
+        "word": "央视曝光美甲灯安全隐患",
+        "onboard_time": 1737286337,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100023,
+        "num": 100023,
+        "word": "周兴哲MV女主叶舒华",
+        "onboard_time": 1737273557,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 94511,
+        "num": 94511,
+        "word": "做一次美甲手上皮肤黑一两个色号",
+        "onboard_time": 1737286458,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93894,
+        "num": 93894,
+        "word": "吴艳妮晒肯豆风写真",
+        "onboard_time": 1737271457,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平提到的幸福路#"
+    }
+  }
+}
