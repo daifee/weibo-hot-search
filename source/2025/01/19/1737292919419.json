@@ -1,0 +1,410 @@
+{
+  "runTime": 1737292919419,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2038344,
+        "num": 2038344,
+        "word": "央视曝光美甲灯安全隐患",
+        "onboard_time": 1737286337,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 967016,
+        "num": 967016,
+        "word": "中国36岁男子在柬埔寨坠楼身亡",
+        "onboard_time": 1737290058,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36877,
+        "num": 931210,
+        "word": "我国深地油气勘探实现重大突破",
+        "onboard_time": 1737277219,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1151888,
+        "num": 929284,
+        "word": "骗子转走300万给受害人转1万做生活费",
+        "onboard_time": 1737288799,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 923121,
+        "num": 923121,
+        "word": "iG",
+        "onboard_time": 1737277818,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 913742,
+        "num": 913742,
+        "word": "李小冉把口红给刘晓庆用",
+        "onboard_time": 1737287479,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 732220,
+        "num": 732220,
+        "word": "漂白尺度绝了",
+        "onboard_time": 1737283698,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 597024,
+        "num": 597024,
+        "word": "一家5口连续确诊同种癌症",
+        "onboard_time": 1737287419,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374508,
+        "num": 374508,
+        "word": "实在不行过年让孩子穿校服吧",
+        "onboard_time": 1737283698,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 372731,
+        "num": 372731,
+        "word": "蛇年春晚有易烊千玺",
+        "onboard_time": 1737289337,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347807,
+        "num": 347807,
+        "word": "女娲毕设刘浩存",
+        "onboard_time": 1737284839,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345924,
+        "num": 345924,
+        "word": "大奉打更人云合超国色芳华登顶",
+        "onboard_time": 1737290779,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336493,
+        "num": 336493,
+        "word": "甲状腺癌具有遗传性",
+        "onboard_time": 1737288858,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 277554,
+        "num": 324128,
+        "word": "春节回家是时候卸下一年的担子了",
+        "onboard_time": 1737292401,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322057,
+        "num": 322057,
+        "word": "一路繁花窒息七分钟",
+        "onboard_time": 1737285498,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293452,
+        "num": 293452,
+        "word": "TikTok停止在美服务",
+        "onboard_time": 1737260718,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 267571,
+        "num": 267571,
+        "word": "漂白",
+        "onboard_time": 1737265697,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261724,
+        "num": 261724,
+        "word": "嫂子喂出嫁小姑子吃面手抖成了筛子",
+        "onboard_time": 1737278838,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245844,
+        "num": 245844,
+        "word": "Doinb瑞兹好猛",
+        "onboard_time": 1737289939,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 230372,
+        "num": 230372,
+        "word": "刘耀文新音数学题饭撒",
+        "onboard_time": 1737292159,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 485559,
+        "num": 230163,
+        "word": "留几手自曝请杨子喝酒花20万",
+        "onboard_time": 1737279798,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381497,
+        "num": 229943,
+        "word": "李昀锐倪虹洁演夫妻",
+        "onboard_time": 1737288919,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260386,
+        "num": 229786,
+        "word": "母亲腌出七彩腊八蒜女子尝后说无毒",
+        "onboard_time": 1737291440,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229512,
+        "num": 229512,
+        "word": "火车站遭陌生人搭讪被骗2000元",
+        "onboard_time": 1737286759,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178735,
+        "num": 222684,
+        "word": "Doinb回归开门红",
+        "onboard_time": 1737292639,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 218240,
+        "num": 218240,
+        "word": "女子双眼皮手术4年半后揉出手术针",
+        "onboard_time": 1737283758,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147508,
+        "num": 210943,
+        "word": "人民日报专访李宇春",
+        "onboard_time": 1737292460,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207307,
+        "num": 207307,
+        "word": "潘宏",
+        "onboard_time": 1737292520,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 206445,
+        "num": 206445,
+        "word": "春晚主持人",
+        "onboard_time": 1737277518,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204145,
+        "num": 204145,
+        "word": "时代少年团吸血鬼伯爵造型",
+        "onboard_time": 1737285618,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202399,
+        "num": 202399,
+        "word": "7个工作日后就过年了",
+        "onboard_time": 1737291861,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194745,
+        "num": 194745,
+        "word": "30岁二胎女博士创业谈及家庭落泪",
+        "onboard_time": 1737290299,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191441,
+        "num": 191441,
+        "word": "孟子义95花集均剧播第一",
+        "onboard_time": 1737278059,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190714,
+        "num": 190714,
+        "word": "男子曝烟头烫到马桶酒店索赔1000多",
+        "onboard_time": 1737281178,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190663,
+        "num": 190663,
+        "word": "NIP战胜iG",
+        "onboard_time": 1737292401,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 183120,
+        "num": 183120,
+        "word": "谢金燕回应未婚生子",
+        "onboard_time": 1737277638,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179335,
+        "num": 179335,
+        "word": "白月梵星姐妹情太刀了",
+        "onboard_time": 1737292460,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174842,
+        "num": 174842,
+        "word": "2024TVB颁奖礼",
+        "onboard_time": 1737288679,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163446,
+        "num": 163446,
+        "word": "李宇春出镜感谢观众20年陪伴",
+        "onboard_time": 1737284057,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162385,
+        "num": 162385,
+        "word": "女孩穿的比电线杆小广告还复杂",
+        "onboard_time": 1737291139,
+        "rank": 39,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 154426,
+        "num": 154426,
+        "word": "国色芳华",
+        "onboard_time": 1737267318,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152837,
+        "num": 152837,
+        "word": "男子骗老乡火车延误要交钱",
+        "onboard_time": 1737289758,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150200,
+        "num": 150200,
+        "word": "这款神器千万别让孩子碰",
+        "onboard_time": 1737288919,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144461,
+        "num": 144461,
+        "word": "丁程鑫新音小卷毛造型",
+        "onboard_time": 1737291499,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143285,
+        "num": 143285,
+        "word": "孕妇被宝宝的四维彩超丑哭",
+        "onboard_time": 1737283758,
+        "rank": 44,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 141769,
+        "num": 141769,
+        "word": "北京WB挂牌公告",
+        "onboard_time": 1737290478,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139469,
+        "num": 139469,
+        "word": "2025春节档预售破亿",
+        "onboard_time": 1737271278,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138459,
+        "num": 138459,
+        "word": "王鹤棣你嫂子赢了",
+        "onboard_time": 1737271457,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133476,
+        "num": 133476,
+        "word": "90后新闻联播主播王音棋主持春晚",
+        "onboard_time": 1737291979,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133170,
+        "num": 133170,
+        "word": "大熊猫古古去世",
+        "onboard_time": 1737262458,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平提到的幸福路#"
+    }
+  }
+}

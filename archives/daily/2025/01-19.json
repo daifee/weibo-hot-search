@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737291169432,
+  "endTime": 1737292919419,
   "band_list": [
     {
       "raw_hot": 2463156,
@@ -9,6 +9,14 @@
       "onboard_time": 1737260718,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 2038344,
+      "num": 2038344,
+      "word": "央视曝光美甲灯安全隐患",
+      "onboard_time": 1737286337,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2022883,
@@ -25,14 +33,6 @@
       "onboard_time": 1737205280,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1647484,
-      "num": 1647484,
-      "word": "央视曝光美甲灯安全隐患",
-      "onboard_time": 1737286337,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1497293,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1151888,
+      "num": 929284,
+      "word": "骗子转走300万给受害人转1万做生活费",
+      "onboard_time": 1737288799,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1110441,
       "num": 572499,
       "word": "葛夕回应麦琳黄圣依打架",
@@ -105,14 +113,6 @@
       "onboard_time": 1737248416,
       "rank": 3,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 1025283,
-      "num": 870419,
-      "word": "骗子转走300万给受害人转1万做生活费",
-      "onboard_time": 1737288799,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1019834,
@@ -153,6 +153,22 @@
       "onboard_time": 1737277518,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 967016,
+      "num": 967016,
+      "word": "中国36岁男子在柬埔寨坠楼身亡",
+      "onboard_time": 1737290058,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 923121,
+      "num": 923121,
+      "word": "iG",
+      "onboard_time": 1737277818,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 911767,
@@ -411,14 +427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 474066,
-      "num": 474066,
-      "word": "iG",
-      "onboard_time": 1737277818,
-      "rank": 29,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 469753,
       "num": 164747,
       "word": "陈奕迅在表演时疑似嗑瓜子",
@@ -476,7 +484,7 @@
     },
     {
       "raw_hot": 423014,
-      "num": 193712,
+      "num": 229943,
       "word": "李昀锐倪虹洁演夫妻",
       "onboard_time": 1737288919,
       "rank": 21,
@@ -523,12 +531,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 368370,
-      "num": 368370,
-      "word": "中国36岁男子在柬埔寨坠楼身亡",
-      "onboard_time": 1737290058,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 372731,
+      "num": 372731,
+      "word": "蛇年春晚有易烊千玺",
+      "onboard_time": 1737289337,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 366993,
@@ -563,6 +571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 345924,
+      "num": 345924,
+      "word": "大奉打更人云合超国色芳华登顶",
+      "onboard_time": 1737290779,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 342526,
       "num": 163238,
       "word": "倪萍蔡明蛐蛐刘晓庆",
@@ -587,20 +603,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 336493,
+      "num": 367144,
+      "word": "甲状腺癌具有遗传性",
+      "onboard_time": 1737288858,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 336098,
       "num": 336098,
       "word": "谢金燕回应未婚生子",
       "onboard_time": 1737277638,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 334735,
-      "num": 367144,
-      "word": "甲状腺癌具有遗传性",
-      "onboard_time": 1737288858,
-      "rank": 9,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 332165,
@@ -628,7 +644,7 @@
     },
     {
       "raw_hot": 327419,
-      "num": 193729,
+      "num": 218240,
       "word": "女子双眼皮手术4年半后揉出手术针",
       "onboard_time": 1737283758,
       "rank": 23,
@@ -771,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 277554,
+      "num": 324128,
+      "word": "春节回家是时候卸下一年的担子了",
+      "onboard_time": 1737292401,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 273975,
       "num": 273975,
       "word": "封神2票补",
@@ -803,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260386,
+      "num": 229786,
+      "word": "母亲腌出七彩腊八蒜女子尝后说无毒",
+      "onboard_time": 1737291440,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 256602,
       "num": 256602,
       "word": "丈夫称晓华不会上春晚舞台",
@@ -817,14 +849,6 @@
       "onboard_time": 1737273618,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 254657,
-      "num": 193305,
-      "word": "蛇年春晚有易烊千玺",
-      "onboard_time": 1737289337,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 254055,
@@ -857,6 +881,14 @@
       "onboard_time": 1737207800,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245844,
+      "num": 245844,
+      "word": "Doinb瑞兹好猛",
+      "onboard_time": 1737289939,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 241774,
@@ -905,6 +937,14 @@
       "onboard_time": 1737275479,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230372,
+      "num": 230372,
+      "word": "刘耀文新音数学题饭撒",
+      "onboard_time": 1737292159,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 228583,
@@ -1003,6 +1043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 207307,
+      "num": 207307,
+      "word": "潘宏",
+      "onboard_time": 1737292520,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 207137,
       "num": 124676,
       "word": "国色芳华单集收视创新高",
@@ -1035,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202399,
+      "num": 202399,
+      "word": "7个工作日后就过年了",
+      "onboard_time": 1737291861,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200204,
       "num": 150197,
       "word": "敖瑞鹏说求天道眷顾梵樾",
@@ -1049,6 +1105,14 @@
       "onboard_time": 1737273978,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 194745,
+      "num": 194745,
+      "word": "30岁二胎女博士创业谈及家庭落泪",
+      "onboard_time": 1737290299,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194697,
@@ -1091,20 +1155,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 192111,
-      "num": 192111,
-      "word": "30岁二胎女博士创业谈及家庭落泪",
-      "onboard_time": 1737290299,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 191907,
       "num": 191907,
       "word": "韩国法院批准对尹锡悦拘留令",
       "onboard_time": 1737246196,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 190663,
+      "num": 190663,
+      "word": "NIP战胜iG",
+      "onboard_time": 1737292401,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 190414,
@@ -1211,12 +1275,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179335,
+      "num": 179335,
+      "word": "白月梵星姐妹情太刀了",
+      "onboard_time": 1737292460,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179119,
       "num": 179119,
       "word": "祝绪丹杨仕泽一起录综艺",
       "onboard_time": 1737284839,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 178735,
+      "num": 222684,
+      "word": "Doinb回归开门红",
+      "onboard_time": 1737292639,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 177399,
@@ -1249,6 +1329,14 @@
       "onboard_time": 1737280218,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 174842,
+      "num": 174842,
+      "word": "2024TVB颁奖礼",
+      "onboard_time": 1737288679,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 174541,
@@ -1355,6 +1443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162385,
+      "num": 162385,
+      "word": "女孩穿的比电线杆小广告还复杂",
+      "onboard_time": 1737291139,
+      "rank": 44,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 159601,
       "num": 159601,
       "word": "光遇",
@@ -1411,14 +1507,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 153144,
-      "num": 192567,
-      "word": "Doinb瑞兹好猛",
-      "onboard_time": 1737289939,
-      "rank": 40,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 153110,
       "num": 153110,
       "word": "第一次见疯批洗脑把自己洗哭了",
@@ -1433,6 +1521,14 @@
       "onboard_time": 1737283698,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152837,
+      "num": 193249,
+      "word": "男子骗老乡火车延误要交钱",
+      "onboard_time": 1737289758,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151505,
@@ -1475,6 +1571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 150200,
+      "num": 150200,
+      "word": "这款神器千万别让孩子碰",
+      "onboard_time": 1737288919,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148883,
       "num": 162954,
       "word": "陈立农女孩七周年",
@@ -1515,6 +1619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 147508,
+      "num": 210943,
+      "word": "人民日报专访李宇春",
+      "onboard_time": 1737292460,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146739,
       "num": 146739,
       "word": "这部剧婚姻观还是太超前了",
@@ -1531,14 +1643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 146317,
-      "num": 146317,
-      "word": "大奉打更人云合超国色芳华登顶",
-      "onboard_time": 1737290779,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 145172,
       "num": 105087,
       "word": "文轩",
@@ -1553,6 +1657,14 @@
       "onboard_time": 1737275298,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144461,
+      "num": 144461,
+      "word": "丁程鑫新音小卷毛造型",
+      "onboard_time": 1737291499,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 144033,
@@ -1643,28 +1755,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 137955,
-      "num": 137955,
-      "word": "这款神器千万别让孩子碰",
-      "onboard_time": 1737288919,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137634,
       "num": 137634,
       "word": "猫耳官宣最强阵容",
       "onboard_time": 1737254838,
       "rank": 36,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 137127,
-      "num": 193249,
-      "word": "男子骗老乡火车延误要交钱",
-      "onboard_time": 1737289758,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 136792,
@@ -1697,6 +1793,14 @@
       "onboard_time": 1737206359,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133476,
+      "num": 133476,
+      "word": "90后新闻联播主播王音棋主持春晚",
+      "onboard_time": 1737291979,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 132672,
@@ -1761,14 +1865,6 @@
       "onboard_time": 1737275539,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 125520,
-      "num": 125520,
-      "word": "2024TVB颁奖礼",
-      "onboard_time": 1737288679,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 125014,
@@ -1889,14 +1985,6 @@
       "onboard_time": 1737255198,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115853,
-      "num": 115853,
-      "word": "女孩穿的比电线杆小广告还复杂",
-      "onboard_time": 1737291139,
-      "rank": 44,
-      "category": "时尚"
     },
     {
       "raw_hot": 115179,
@@ -2601,6 +2689,14 @@
       "onboard_time": 1737236350,
       "rank": 2,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 36877,
+      "num": 931210,
+      "word": "我国深地油气勘探实现重大突破",
+      "onboard_time": 1737277219,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35028,
