@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737251154171,
+  "endTime": 1737252243128,
   "band_list": [
     {
       "raw_hot": 1780894,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 1110441,
-      "num": 503340,
+      "num": 572499,
       "word": "葛夕回应麦琳黄圣依打架",
       "onboard_time": 1737249677,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1046204,
+      "num": 1046204,
+      "word": "正常腿被医生伪装成畸形做断骨增高",
+      "onboard_time": 1737248416,
+      "rank": 3,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 1011705,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 993865,
-      "num": 287699,
+      "num": 293547,
       "word": "周受资代表TikTok感谢美国用户",
       "onboard_time": 1737247277,
       "rank": 10,
@@ -51,14 +59,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 681700,
-      "num": 681700,
-      "word": "正常腿被医生伪装成畸形做断骨增高",
-      "onboard_time": 1737248416,
-      "rank": 3,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 615427,
       "num": 347113,
       "word": "麦琳杨子留几手3人连麦违规",
@@ -68,27 +68,27 @@
     },
     {
       "raw_hot": 605557,
-      "num": 485686,
+      "num": 535343,
       "word": "贾宝玉真的从书里走出来了",
       "onboard_time": 1737243313,
       "rank": 43,
       "category": "剧集,综艺"
     },
     {
-      "raw_hot": 576606,
-      "num": 148466,
-      "word": "女子出国做断骨增高腿喷脓",
-      "onboard_time": 1737207261,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 562328,
-      "num": 562328,
+      "raw_hot": 585947,
+      "num": 585947,
       "word": "妈妈每天拍女儿匆忙上班的背影",
       "onboard_time": 1737247218,
       "rank": 4,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 576606,
+      "num": 173230,
+      "word": "女子出国做断骨增高腿喷脓",
+      "onboard_time": 1737207261,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 506223,
@@ -179,8 +179,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 287125,
-      "num": 287125,
+      "raw_hot": 300314,
+      "num": 300314,
       "word": "老夫妻在地窖蒸三千斤糯米酿酒中毒",
       "onboard_time": 1737243074,
       "rank": 27,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 273157,
-      "num": 146878,
+      "num": 172949,
       "word": "丁克家庭的遗产会由谁继承",
       "onboard_time": 1737245896,
       "rank": 21,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 240543,
-      "num": 145478,
+      "num": 172647,
       "word": "橘子是讨好型水果",
       "onboard_time": 1737244996,
       "rank": 22,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 215212,
-      "num": 143275,
+      "num": 162353,
       "word": "莫小贝居然32岁了",
       "onboard_time": 1737245176,
       "rank": 23,
@@ -283,12 +283,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205139,
+      "num": 205139,
+      "word": "唐探1900预售开启",
+      "onboard_time": 1737251837,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 200204,
       "num": 150197,
       "word": "敖瑞鹏说求天道眷顾梵樾",
       "onboard_time": 1737216138,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199836,
+      "num": 172187,
+      "word": "射雕英雄传侠之大者预售",
+      "onboard_time": 1737251657,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 194092,
@@ -307,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191907,
+      "num": 191907,
+      "word": "韩国法院批准对尹锡悦拘留令",
+      "onboard_time": 1737246196,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 183837,
       "num": 183837,
       "word": "美国网友开始卷了",
@@ -323,20 +347,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 177935,
-      "num": 177935,
-      "word": "韩国法院批准对尹锡悦拘留令",
-      "onboard_time": 1737246196,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 176766,
       "num": 176766,
       "word": "深圳海滩出现一片褐色泡泡",
       "onboard_time": 1737207680,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176516,
+      "num": 176516,
+      "word": "特朗普或将TikTok禁令延期90天",
+      "onboard_time": 1737250218,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 173238,
+      "num": 288063,
+      "word": "尹锡悦被羁押最长可达20天",
+      "onboard_time": 1737249857,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 166322,
@@ -387,14 +419,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 144089,
-      "num": 288063,
-      "word": "尹锡悦被羁押最长可达20天",
-      "onboard_time": 1737249857,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 141511,
       "num": 141511,
       "word": "蒋长扬许诺何惟芳不离不弃",
@@ -403,8 +427,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136302,
-      "num": 136302,
+      "raw_hot": 139921,
+      "num": 139921,
+      "word": "年轻人不爱大包小包走亲戚了",
+      "onboard_time": 1737248176,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136792,
+      "num": 136792,
       "word": "马龙夏露米兰探店路透",
       "onboard_time": 1737244996,
       "rank": 26,
@@ -475,12 +507,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 112423,
-      "num": 112423,
-      "word": "年轻人不爱大包小包走亲戚了",
-      "onboard_time": 1737248176,
-      "rank": 29,
+      "raw_hot": 112585,
+      "num": 293864,
+      "word": "2025全军开训名场面",
+      "onboard_time": 1737251837,
+      "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111062,
+      "num": 111062,
+      "word": "异人之下2好看",
+      "onboard_time": 1737247038,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 109942,
@@ -496,14 +536,6 @@
       "word": "国色芳华预告",
       "onboard_time": 1737205520,
       "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 109368,
-      "num": 109368,
-      "word": "异人之下2好看",
-      "onboard_time": 1737247038,
-      "rank": 31,
       "category": "剧集"
     },
     {
@@ -555,14 +587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104159,
-      "num": 104159,
-      "word": "特朗普或将TikTok禁令延期90天",
-      "onboard_time": 1737250218,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 101875,
       "num": 101875,
       "word": "清明上河园起火目击者发声",
@@ -577,6 +601,22 @@
       "onboard_time": 1737206961,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97434,
+      "num": 97434,
+      "word": "山东或将换上山西同款赛博外墙",
+      "onboard_time": 1737251837,
+      "rank": 36,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 96946,
+      "num": 96946,
+      "word": "电影射雕英雄传侠之大者",
+      "onboard_time": 1737252076,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 95134,
@@ -611,12 +651,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93004,
+      "num": 93004,
+      "word": "国色芳华收视九连冠",
+      "onboard_time": 1737249437,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92633,
       "num": 92633,
       "word": "TF家族人人人人人",
       "onboard_time": 1737207321,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 90428,
+      "num": 90428,
+      "word": "陈丽君上场前一秒还在练习",
+      "onboard_time": 1737248837,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 87533,
@@ -643,14 +699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 83829,
-      "num": 83829,
-      "word": "国色芳华收视九连冠",
-      "onboard_time": 1737249437,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 82709,
       "num": 82709,
       "word": "永远相信老祖宗的审美",
@@ -659,12 +707,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 81796,
-      "num": 81796,
-      "word": "陈丽君上场前一秒还在练习",
-      "onboard_time": 1737248837,
-      "rank": 45,
-      "category": "艺人"
+      "raw_hot": 82668,
+      "num": 82668,
+      "word": "五福临门",
+      "onboard_time": 1737251777,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 79507,
@@ -699,6 +747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75421,
+      "num": 75421,
+      "word": "陈浚铭樱之花",
+      "onboard_time": 1737251476,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 73342,
       "num": 73342,
       "word": "王鹤棣看大奉打更人结局看哭了",
@@ -727,6 +783,14 @@
       "num": 69759,
       "word": "巴萨8轮联赛仅1胜",
       "onboard_time": 1737250097,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 63496,
+      "num": 74444,
+      "word": "萨巴伦卡vs安德列娃",
+      "onboard_time": 1737251958,
       "rank": 49,
       "category": "体育"
     },
