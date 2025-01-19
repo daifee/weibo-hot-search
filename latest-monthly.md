@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/19 23:35:23
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/20 00:24:23
 </p>
 </blockquote>
 <p>
@@ -5613,6 +5613,12 @@ SM新女团 SMTOWN压轴（热度：743773）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%B8%96%E5%91%BC%E5%90%81%E6%8C%BD%E6%95%91TikTok%23" target="weibo">
+特朗普发帖呼吁挽救TikTok（热度：687464）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%98%80%E5%84%92%E7%A1%95%E5%A3%AB%E8%AE%BA%E6%96%87%E5%88%86%E6%9E%90%E6%A8%8A%E6%8C%AF%E4%B8%9C%23" target="weibo">
 林昀儒硕士论文分析樊振东（热度：687084）
 </a>
@@ -6005,12 +6011,6 @@ GDP（热度：675043）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E5%A5%87%E7%BB%99%E4%BA%86%E7%8E%8B%E6%98%9F%E8%B6%8A%E4%B8%80%E4%B8%8B%23" target="weibo">
 王子奇给了王星越一下（热度：654443）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B7%A5%E8%97%A4%E9%9D%99%E9%A6%99%E9%83%BD%E6%9D%A5%E4%BA%86%23" target="weibo">
-工藤静香都来了（热度：654304）
 </a>
 </li>
 

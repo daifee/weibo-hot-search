@@ -1,0 +1,411 @@
+{
+  "startTime": 1737303863836,
+  "endTime": 1737303863836,
+  "band_list": [
+    {
+      "raw_hot": 1748173,
+      "num": 1748173,
+      "word": "网红小狗艾特去世",
+      "onboard_time": 1737295879,
+      "rank": 0,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 687464,
+      "num": 243507,
+      "word": "特朗普发帖呼吁挽救TikTok",
+      "onboard_time": 1737299900,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 677563,
+      "num": 607970,
+      "word": "潘宏",
+      "onboard_time": 1737292520,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 655543,
+      "num": 655543,
+      "word": "央视曝光美甲灯安全隐患",
+      "onboard_time": 1737286337,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 590192,
+      "num": 590192,
+      "word": "尹锡悦换上囚服",
+      "onboard_time": 1737298338,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 443442,
+      "num": 443442,
+      "word": "豆包chatGPT辩论谁是人工智障",
+      "onboard_time": 1737300439,
+      "rank": 5,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 430062,
+      "num": 430062,
+      "word": "李现金秀贤G社生图",
+      "onboard_time": 1737300199,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 375933,
+      "num": 375933,
+      "word": "老师在女同事屋内装摄像头否认偷窥",
+      "onboard_time": 1737301219,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 343561,
+      "num": 343561,
+      "word": "翔霖",
+      "onboard_time": 1737298759,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 267262,
+      "num": 179419,
+      "word": "李小冉把口红给刘晓庆用",
+      "onboard_time": 1737287479,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 260810,
+      "num": 238775,
+      "word": "漂白尺度绝了",
+      "onboard_time": 1737283698,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 246830,
+      "num": 179298,
+      "word": "留几手自曝请杨子喝酒花20万",
+      "onboard_time": 1737279798,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 243800,
+      "num": 243800,
+      "word": "春节回家是时候卸下一年的担子了",
+      "onboard_time": 1737292401,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 226945,
+      "num": 226945,
+      "word": "庞颖念诗给詹青云念红温了",
+      "onboard_time": 1737297500,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 223651,
+      "num": 223651,
+      "word": "肖战蔡少芬同框",
+      "onboard_time": 1737294980,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 217075,
+      "num": 217075,
+      "word": "Doinb说跪下",
+      "onboard_time": 1737293779,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 207383,
+      "num": 207383,
+      "word": "留几手回应离婚财产分配",
+      "onboard_time": 1737302538,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 195162,
+      "num": 195162,
+      "word": "一家5口连续确诊同种癌症",
+      "onboard_time": 1737287419,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184799,
+      "num": 225229,
+      "word": "让教师成为最受社会尊重的职业之一",
+      "onboard_time": 1737302778,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 179495,
+      "num": 179495,
+      "word": "骗子转走300万给受害人转1万做生活费",
+      "onboard_time": 1737288799,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178736,
+      "num": 178736,
+      "word": "肖战坦言对春节档竞争不紧张",
+      "onboard_time": 1737300018,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 169997,
+      "num": 169997,
+      "word": "iG发文道歉",
+      "onboard_time": 1737297020,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 160115,
+      "num": 160115,
+      "word": "疑似苏新皓手受伤",
+      "onboard_time": 1737300079,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 157290,
+      "num": 157290,
+      "word": "专家称睡眠时长影响热量摄入",
+      "onboard_time": 1737294921,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 153051,
+      "num": 153051,
+      "word": "漂白",
+      "onboard_time": 1737265697,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 152771,
+      "num": 184934,
+      "word": "和给你能量的人在一起",
+      "onboard_time": 1737302538,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143160,
+      "num": 143160,
+      "word": "马龙李现坐一起看秀",
+      "onboard_time": 1737294019,
+      "rank": 28,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 139903,
+      "num": 139903,
+      "word": "TikTok停止在美服务",
+      "onboard_time": 1737260718,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 139714,
+      "num": 139714,
+      "word": "2024TVB颁奖礼",
+      "onboard_time": 1737288679,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 137506,
+      "num": 137506,
+      "word": "一路繁花窒息七分钟",
+      "onboard_time": 1737285498,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 133936,
+      "num": 133936,
+      "word": "国色芳华24集预告",
+      "onboard_time": 1737294980,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 123353,
+      "num": 123353,
+      "word": "李昀锐断眉",
+      "onboard_time": 1737295820,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 117472,
+      "num": 117472,
+      "word": "女子双眼皮手术4年半后揉出手术针",
+      "onboard_time": 1737283758,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115839,
+      "num": 115839,
+      "word": "漂白热度破9000",
+      "onboard_time": 1737301818,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 115645,
+      "num": 102419,
+      "word": "李昀锐倪虹洁演夫妻",
+      "onboard_time": 1737288919,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 108617,
+      "num": 108617,
+      "word": "7个工作日后就过年了",
+      "onboard_time": 1737291861,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102639,
+      "num": 102639,
+      "word": "教育强国建设规划纲要",
+      "onboard_time": 1737302478,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101184,
+      "num": 101184,
+      "word": "杨茜尧获大湾区最喜爱TVB女主角",
+      "onboard_time": 1737303256,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 98309,
+      "num": 98309,
+      "word": "王鹤棣上海出发巴黎时装周",
+      "onboard_time": 1737301339,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 91866,
+      "num": 91866,
+      "word": "尹锡悦正式进入拘留所",
+      "onboard_time": 1737293960,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 90981,
+      "num": 90981,
+      "word": "这款神器千万别让孩子碰",
+      "onboard_time": 1737288919,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89222,
+      "num": 89222,
+      "word": "实在不行过年让孩子穿校服吧",
+      "onboard_time": 1737283698,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 87684,
+      "num": 87684,
+      "word": "搬家又一次让我意识到女性独居困境",
+      "onboard_time": 1737299478,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 85880,
+      "num": 85880,
+      "word": "张极",
+      "onboard_time": 1737300800,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 85567,
+      "num": 85567,
+      "word": "女娲毕设刘浩存",
+      "onboard_time": 1737284839,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 84438,
+      "num": 84438,
+      "word": "第三方平台买火车票各种玩法只为加钱",
+      "onboard_time": 1737303379,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83863,
+      "num": 83863,
+      "word": "2025KPL春季转会期",
+      "onboard_time": 1737301760,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 81655,
+      "num": 81655,
+      "word": "如果当时",
+      "onboard_time": 1737302059,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 34883,
+      "num": 164540,
+      "word": "马龙的幽默时刻",
+      "onboard_time": 1737303437,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 29922,
+      "num": 616191,
+      "word": "国产高科技新产品加速出海",
+      "onboard_time": 1737293661,
+      "rank": 2,
+      "category": "民生新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#习近平向全军老同志祝贺新春#"
+    }
+  ]
+}

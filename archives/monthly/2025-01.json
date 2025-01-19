@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737300923099,
+  "endTime": 1737303863836,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -4156,7 +4156,7 @@
     },
     {
       "raw_hot": 1039852,
-      "num": 252666,
+      "num": 607970,
       "word": "潘宏",
       "onboard_time": 1737292520,
       "rank": 27,
@@ -7465,6 +7465,14 @@
       "onboard_time": 1736554098,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 687464,
+      "num": 243507,
+      "word": "特朗普发帖呼吁挽救TikTok",
+      "onboard_time": 1737299900,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 687084,
@@ -12475,6 +12483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 443442,
+      "num": 443442,
+      "word": "豆包chatGPT辩论谁是人工智障",
+      "onboard_time": 1737300439,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 442980,
       "num": 442980,
       "word": "16岁女生戏龄13年生动演绎眼波流转",
@@ -12857,6 +12873,14 @@
       "onboard_time": 1736089769,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 430062,
+      "num": 430062,
+      "word": "李现金秀贤G社生图",
+      "onboard_time": 1737300199,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 430003,
@@ -14737,6 +14761,14 @@
       "onboard_time": 1736225844,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 375933,
+      "num": 375933,
+      "word": "老师在女同事屋内装摄像头否认偷窥",
+      "onboard_time": 1737301219,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 375927,
@@ -25827,6 +25859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 207383,
+      "num": 207383,
+      "word": "留几手回应离婚财产分配",
+      "onboard_time": 1737302538,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 207369,
       "num": 207369,
       "word": "射雕新海报郭靖黄蓉2V6",
@@ -30595,6 +30635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184799,
+      "num": 225229,
+      "word": "让教师成为最受社会尊重的职业之一",
+      "onboard_time": 1737302778,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 184772,
       "num": 265303,
       "word": "将门毒后选角",
@@ -33305,14 +33353,6 @@
       "onboard_time": 1736219241,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 170367,
-      "num": 170367,
-      "word": "特朗普发帖呼吁挽救TikTok",
-      "onboard_time": 1737299900,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 170360,
@@ -37051,6 +37091,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 152771,
+      "num": 184934,
+      "word": "和给你能量的人在一起",
+      "onboard_time": 1737302538,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152714,
       "num": 152714,
       "word": "孙颖莎王楚钦春节将迎蛇年首赛",
@@ -39713,14 +39761,6 @@
       "onboard_time": 1736823979,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 141105,
-      "num": 141105,
-      "word": "豆包chatGPT辩论谁是人工智障",
-      "onboard_time": 1737300439,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 141083,
@@ -45819,6 +45859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115839,
+      "num": 115839,
+      "word": "漂白热度破9000",
+      "onboard_time": 1737301818,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115735,
       "num": 115735,
       "word": "40岁詹姆斯还有多少油",
@@ -48539,6 +48587,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 102639,
+      "num": 102639,
+      "word": "教育强国建设规划纲要",
+      "onboard_time": 1737302478,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102630,
       "num": 102630,
       "word": "韩总统警卫处次长金成勋被捕",
@@ -48771,6 +48827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 101184,
+      "num": 101184,
+      "word": "杨茜尧获大湾区最喜爱TVB女主角",
+      "onboard_time": 1737303256,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101166,
       "num": 101166,
       "word": "国色芳华主题曲从国内响到海外",
@@ -48987,14 +49051,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 99859,
-      "num": 212278,
-      "word": "李现金秀贤G社生图",
-      "onboard_time": 1737300199,
-      "rank": 19,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 99758,
       "num": 263686,
       "word": "梁靖崑山东队夺冠功臣",
@@ -49201,6 +49257,14 @@
       "onboard_time": 1736157623,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98309,
+      "num": 98309,
+      "word": "王鹤棣上海出发巴黎时装周",
+      "onboard_time": 1737301339,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 98285,
@@ -51067,6 +51131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84438,
+      "num": 84438,
+      "word": "第三方平台买火车票各种玩法只为加钱",
+      "onboard_time": 1737303379,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84355,
       "num": 418183,
       "word": "漂流36小时生还女孩仍向往大海",
@@ -51161,6 +51233,14 @@
       "onboard_time": 1736238384,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83863,
+      "num": 83863,
+      "word": "2025KPL春季转会期",
+      "onboard_time": 1737301760,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 83840,
@@ -51441,6 +51521,14 @@
       "onboard_time": 1736480541,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81655,
+      "num": 81655,
+      "word": "如果当时",
+      "onboard_time": 1737302059,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 81619,
@@ -57263,6 +57351,14 @@
       "num": 54828,
       "word": "王楚钦拥抱梁靖崑",
       "onboard_time": 1735770493,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 34883,
+      "num": 164540,
+      "word": "马龙的幽默时刻",
+      "onboard_time": 1737303437,
       "rank": 24,
       "category": "体育"
     },
