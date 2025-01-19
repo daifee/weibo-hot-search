@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/19 20:37:57
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/19 20:52:49
 </p>
 </blockquote>
 <p>
@@ -1401,6 +1401,12 @@ AG挑战者杯夺冠（热度：1652837）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%BE%8E%E7%94%B2%E7%81%AF%E5%AE%89%E5%85%A8%E9%9A%90%E6%82%A3%23" target="weibo">
+央视曝光美甲灯安全隐患（热度：1647484）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%98%95%E7%9B%B4%E6%92%AD%E9%97%B4%E7%AA%81%E7%84%B6%E6%B6%8C%E5%85%A5%E5%A4%A7%E9%87%8F%E5%A4%96%E5%9B%BD%E7%BD%91%E5%8F%8B%23" target="weibo">
 吴昕直播间突然涌入大量外国网友（热度：1644179）
 </a>
@@ -2159,12 +2165,6 @@ TikTok禁令引发美国网友众怒（热度：1325910）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E5%A4%A7%E6%AF%95%E4%B8%9A%E7%9A%84%E7%BD%91%E7%BA%A2%E9%99%88%E5%A8%B4%E5%AE%98%E5%AE%A3%E6%81%8B%E6%83%85%23" target="weibo">
 浙大毕业的网红陈娴官宣恋情（热度：1288602）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%BE%8E%E7%94%B2%E7%81%AF%E5%AE%89%E5%85%A8%E9%9A%90%E6%82%A3%23" target="weibo">
-央视曝光美甲灯安全隐患（热度：1288361）
 </a>
 </li>
 
@@ -3129,6 +3129,12 @@ TikTok发声明（热度：1148125）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AA%97%E5%AD%90%E8%BD%AC%E8%B5%B0300%E4%B8%87%E7%BB%99%E5%8F%97%E5%AE%B3%E4%BA%BA%E8%BD%AC1%E4%B8%87%E5%81%9A%E7%94%9F%E6%B4%BB%E8%B4%B9%23" target="weibo">
+骗子转走300万给受害人转1万做生活费（热度：1025283）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%95%99%E5%87%A0%E6%89%8B%E8%B7%9F%E8%83%A1%E5%BD%A6%E6%96%8C%E8%AF%B4%E4%BD%A0%E5%8F%AB%E6%88%91%E7%88%BD%E5%84%BF%E5%B0%B1%E8%A1%8C%23" target="weibo">
 留几手跟胡彦斌说你叫我爽儿就行（热度：1021208）
 </a>
@@ -3209,6 +3215,12 @@ D3014次列车因撞鸟临时停车（热度：1020662）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%B7%A5%E4%BD%9C%E5%AE%A4%23" target="weibo">
 杨幂工作室（热度：1009565）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E5%86%89%E6%8A%8A%E5%8F%A3%E7%BA%A2%E7%BB%99%E5%88%98%E6%99%93%E5%BA%86%E7%94%A8%23" target="weibo">
+李小冉把口红给刘晓庆用（热度：1009388）
 </a>
 </li>
 
@@ -3413,12 +3425,6 @@ R1SE合体（热度：994873）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD%E7%94%B5%E4%BB%B7%E8%B7%8C%E8%87%B30%E4%BB%A5%E4%B8%8B%23" target="weibo">
 德国电价跌至0以下（热度：975177）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E5%86%89%E6%8A%8A%E5%8F%A3%E7%BA%A2%E7%BB%99%E5%88%98%E6%99%93%E5%BA%86%E7%94%A8%23" target="weibo">
-李小冉把口红给刘晓庆用（热度：973850）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ GDP（热度：675043）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%BC%94%E6%8A%80%23" target="weibo">
 杨紫演技（热度：651984）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Angelababy%E5%8D%B7%E5%8F%91%E6%8C%91%E6%9F%93%23" target="weibo">
-Angelababy卷发挑染（热度：651249）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737290277457,
+  "endTime": 1737291169432,
   "band_list": [
     {
       "raw_hot": 2463156,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1647484,
+      "num": 1647484,
+      "word": "央视曝光美甲灯安全隐患",
+      "onboard_time": 1737286337,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1497293,
       "num": 1497293,
       "word": "美国网友已经准备在屋前屋后种菜",
@@ -41,14 +49,6 @@
       "onboard_time": 1737253938,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1288361,
-      "num": 1288361,
-      "word": "央视曝光美甲灯安全隐患",
-      "onboard_time": 1737286337,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1249195,
@@ -107,6 +107,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 1025283,
+      "num": 870419,
+      "word": "骗子转走300万给受害人转1万做生活费",
+      "onboard_time": 1737288799,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1019834,
       "num": 1019834,
       "word": "高压锅放过赵今麦吧",
@@ -123,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1009388,
+      "num": 1009388,
+      "word": "李小冉把口红给刘晓庆用",
+      "onboard_time": 1737287479,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 993865,
       "num": 416206,
       "word": "周受资代表TikTok感谢美国用户",
@@ -136,14 +152,6 @@
       "word": "春晚主持人",
       "onboard_time": 1737277518,
       "rank": 3,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 973850,
-      "num": 973850,
-      "word": "李小冉把口红给刘晓庆用",
-      "onboard_time": 1737287479,
-      "rank": 1,
       "category": "综艺"
     },
     {
@@ -243,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 618718,
+      "num": 618718,
+      "word": "一家5口连续确诊同种癌症",
+      "onboard_time": 1737287419,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 615427,
       "num": 347113,
       "word": "麦琳杨子留几手3人连麦违规",
@@ -299,14 +315,6 @@
       "category": "体育,互联网"
     },
     {
-      "raw_hot": 564442,
-      "num": 564442,
-      "word": "一家5口连续确诊同种癌症",
-      "onboard_time": 1737287419,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 543449,
       "num": 357563,
       "word": "字节跳动旗下多个应用在美停服",
@@ -320,14 +328,6 @@
       "word": "大熊猫古古去世",
       "onboard_time": 1737262458,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 524995,
-      "num": 361652,
-      "word": "骗子转走300万给受害人转1万做生活费",
-      "onboard_time": 1737288799,
-      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -411,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 474066,
+      "num": 474066,
+      "word": "iG",
+      "onboard_time": 1737277818,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 469753,
       "num": 164747,
       "word": "陈奕迅在表演时疑似嗑瓜子",
@@ -468,7 +476,7 @@
     },
     {
       "raw_hot": 423014,
-      "num": 182800,
+      "num": 193712,
       "word": "李昀锐倪虹洁演夫妻",
       "onboard_time": 1737288919,
       "rank": 21,
@@ -513,6 +521,14 @@
       "onboard_time": 1737217158,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 368370,
+      "num": 368370,
+      "word": "中国36岁男子在柬埔寨坠楼身亡",
+      "onboard_time": 1737290058,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 366993,
@@ -577,6 +593,14 @@
       "onboard_time": 1737277638,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 334735,
+      "num": 367144,
+      "word": "甲状腺癌具有遗传性",
+      "onboard_time": 1737288858,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 332165,
@@ -691,20 +715,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 302574,
+      "num": 302574,
+      "word": "时代少年团吸血鬼伯爵造型",
+      "onboard_time": 1737285618,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 300314,
       "num": 300314,
       "word": "老夫妻在地窖蒸三千斤糯米酿酒中毒",
       "onboard_time": 1737243074,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 300242,
-      "num": 300242,
-      "word": "时代少年团吸血鬼伯爵造型",
-      "onboard_time": 1737285618,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 296514,
@@ -795,6 +819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254657,
+      "num": 193305,
+      "word": "蛇年春晚有易烊千玺",
+      "onboard_time": 1737289337,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254055,
       "num": 220195,
       "word": "35岁练瑜伽一年体态的变化",
@@ -849,14 +881,6 @@
       "onboard_time": 1737258918,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 234324,
-      "num": 181801,
-      "word": "蛇年春晚有易烊千玺",
-      "onboard_time": 1737289337,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 232827,
@@ -1035,20 +1059,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194487,
+      "num": 194487,
+      "word": "eStar挂牌公告",
+      "onboard_time": 1737287419,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 194092,
       "num": 142595,
       "word": "杨子说麦琳都白了我还黑着呢",
       "onboard_time": 1737249857,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 193859,
-      "num": 193859,
-      "word": "iG",
-      "onboard_time": 1737277818,
-      "rank": 29,
-      "category": "电竞"
     },
     {
       "raw_hot": 193682,
@@ -1067,6 +1091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 192111,
+      "num": 192111,
+      "word": "30岁二胎女博士创业谈及家庭落泪",
+      "onboard_time": 1737290299,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191907,
       "num": 191907,
       "word": "韩国法院批准对尹锡悦拘留令",
@@ -1081,6 +1113,14 @@
       "onboard_time": 1737254177,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 189806,
+      "num": 189806,
+      "word": "国色芳华",
+      "onboard_time": 1737203418,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 189346,
@@ -1129,14 +1169,6 @@
       "onboard_time": 1737190998,
       "rank": 7,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 183186,
-      "num": 183186,
-      "word": "eStar挂牌公告",
-      "onboard_time": 1737287419,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 182914,
@@ -1299,6 +1331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 165291,
+      "num": 165291,
+      "word": "北京WB挂牌公告",
+      "onboard_time": 1737290478,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165024,
       "num": 165024,
       "word": "射雕45分钟预售破千万",
@@ -1313,14 +1353,6 @@
       "onboard_time": 1737283999,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 161893,
-      "num": 161893,
-      "word": "国色芳华",
-      "onboard_time": 1737203418,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 159601,
@@ -1355,14 +1387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 155871,
-      "num": 367144,
-      "word": "甲状腺癌具有遗传性",
-      "onboard_time": 1737288858,
-      "rank": 9,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 154651,
       "num": 113076,
       "word": "封神第二部片长144分钟",
@@ -1385,6 +1409,14 @@
       "onboard_time": 1737271278,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 153144,
+      "num": 192567,
+      "word": "Doinb瑞兹好猛",
+      "onboard_time": 1737289939,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 153110,
@@ -1433,6 +1465,14 @@
       "onboard_time": 1737267198,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150213,
+      "num": 150213,
+      "word": "苏新皓卷毛活力小狗",
+      "onboard_time": 1737290779,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 148883,
@@ -1491,6 +1531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146317,
+      "num": 146317,
+      "word": "大奉打更人云合超国色芳华登顶",
+      "onboard_time": 1737290779,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145172,
       "num": 105087,
       "word": "文轩",
@@ -1529,14 +1577,6 @@
       "onboard_time": 1737285977,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142595,
-      "num": 142595,
-      "word": "中国36岁男子在柬埔寨坠楼身亡",
-      "onboard_time": 1737290058,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142336,
@@ -1620,7 +1660,7 @@
     },
     {
       "raw_hot": 137127,
-      "num": 137127,
+      "num": 193249,
       "word": "男子骗老乡火车延误要交钱",
       "onboard_time": 1737289758,
       "rank": 38,
@@ -1691,14 +1731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129443,
-      "num": 129443,
-      "word": "Doinb瑞兹好猛",
-      "onboard_time": 1737289939,
-      "rank": 40,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 129435,
       "num": 129435,
       "word": "狗妈妈叼着冻僵小狗找人求救",
@@ -1731,6 +1763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125520,
+      "num": 125520,
+      "word": "2024TVB颁奖礼",
+      "onboard_time": 1737288679,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125014,
       "num": 125014,
       "word": "尹锡悦被指有毁灭证据之嫌",
@@ -1761,6 +1801,14 @@
       "onboard_time": 1737288559,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121494,
+      "num": 121494,
+      "word": "肖战射雕英雄传上座率超20%",
+      "onboard_time": 1737288378,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 121099,
@@ -1843,12 +1891,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 115805,
-      "num": 115805,
-      "word": "肖战射雕英雄传上座率超20%",
-      "onboard_time": 1737288378,
-      "rank": 48,
-      "category": "电影"
+      "raw_hot": 115853,
+      "num": 115853,
+      "word": "女孩穿的比电线杆小广告还复杂",
+      "onboard_time": 1737291139,
+      "rank": 44,
+      "category": "时尚"
     },
     {
       "raw_hot": 115179,

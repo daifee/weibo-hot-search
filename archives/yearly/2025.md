@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/19 20:37:57
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/19 20:52:49
 </p>
 </blockquote>
 <p>
@@ -1401,6 +1401,12 @@ AG挑战者杯夺冠（热度：1652837）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%BE%8E%E7%94%B2%E7%81%AF%E5%AE%89%E5%85%A8%E9%9A%90%E6%82%A3%23" target="weibo">
+央视曝光美甲灯安全隐患（热度：1647484）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%98%95%E7%9B%B4%E6%92%AD%E9%97%B4%E7%AA%81%E7%84%B6%E6%B6%8C%E5%85%A5%E5%A4%A7%E9%87%8F%E5%A4%96%E5%9B%BD%E7%BD%91%E5%8F%8B%23" target="weibo">
 吴昕直播间突然涌入大量外国网友（热度：1644179）
 </a>
@@ -1805,12 +1811,6 @@ TikTok难民称中国网友非常热情（热度：1548219）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E6%B5%81%23" target="weibo">
 甲流（热度：1459657）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%8F%8B%E8%AE%B0%E5%B7%B2%E6%95%85%E4%B8%BB%E6%BC%94%E4%BD%8F%E5%AE%85%E7%81%AB%E4%B8%AD%E5%A5%87%E8%BF%B9%E5%B9%B8%E5%AD%98%23" target="weibo">
-老友记已故主演住宅火中奇迹幸存（热度：1454805）
 </a>
 </li>
 
