@@ -1,6 +1,6 @@
 {
   "startTime": 1737303863836,
-  "endTime": 1737318089064,
+  "endTime": 1737318927637,
   "band_list": [
     {
       "raw_hot": 1748173,
@@ -467,6 +467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 30317,
+      "num": 46947,
+      "word": "春节前有一轮雨雪降温",
+      "onboard_time": 1737316931,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29922,
       "num": 616191,
       "word": "国产高科技新产品加速出海",
@@ -563,14 +571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 15630,
-      "num": 46947,
-      "word": "春节前有一轮雨雪降温",
-      "onboard_time": 1737316931,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 15210,
       "num": 54073,
       "word": "大寒节气也是回家的提示音",
@@ -601,6 +601,22 @@
       "onboard_time": 1737305835,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 9386,
+      "num": 30441,
+      "word": "对学生要压减重复性作业",
+      "onboard_time": 1737318131,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9157,
+      "num": 22271,
+      "word": "要减少日常考试测试频次",
+      "onboard_time": 1737318851,
+      "rank": 29,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
