@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737278442639,
+  "endTime": 1737279354907,
   "band_list": [
     {
       "raw_hot": 2463156,
@@ -107,6 +107,14 @@
       "category": "国际时政,互联网"
     },
     {
+      "raw_hot": 922442,
+      "num": 922442,
+      "word": "春晚主持人",
+      "onboard_time": 1737277518,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 902283,
       "num": 902283,
       "word": "TikTok通知美用户将暂停服务",
@@ -185,14 +193,6 @@
       "onboard_time": 1737271337,
       "rank": 15,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 593057,
-      "num": 593057,
-      "word": "春晚主持人",
-      "onboard_time": 1737277518,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 585947,
@@ -307,6 +307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 481438,
+      "num": 176462,
+      "word": "孟子义95花集均剧播第一",
+      "onboard_time": 1737278059,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 477423,
       "num": 411804,
       "word": "李昀锐不语 只是一味地升辈分",
@@ -419,14 +427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 348549,
-      "num": 176462,
-      "word": "孟子义95花集均剧播第一",
-      "onboard_time": 1737278059,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 347753,
       "num": 354031,
       "word": "春节档影片你想先看哪部",
@@ -451,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 336107,
+      "num": 336107,
+      "word": "男子口含碎玻璃6次敲诈海底捞被起诉",
+      "onboard_time": 1737277219,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 332165,
       "num": 288844,
       "word": "麦琳透露现在103斤",
@@ -465,6 +473,14 @@
       "onboard_time": 1737243074,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 329010,
+      "num": 329010,
+      "word": "肖战射雕预售票房占比",
+      "onboard_time": 1737277518,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 320700,
@@ -489,6 +505,14 @@
       "onboard_time": 1737265457,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 316729,
+      "num": 316729,
+      "word": "谢金燕回应未婚生子",
+      "onboard_time": 1737277638,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 308395,
@@ -627,14 +651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 250795,
-      "num": 250795,
-      "word": "肖战射雕预售票房占比",
-      "onboard_time": 1737277518,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
       "raw_hot": 248763,
       "num": 128086,
       "word": "刘宇宁 直播开怼",
@@ -665,14 +681,6 @@
       "onboard_time": 1737258918,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 233513,
-      "num": 174281,
-      "word": "谢金燕回应未婚生子",
-      "onboard_time": 1737277638,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 232827,
@@ -801,6 +809,14 @@
       "onboard_time": 1737255737,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 202987,
+      "num": 202987,
+      "word": "久酷微博发文后秒删",
+      "onboard_time": 1737278659,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 200204,
@@ -1195,6 +1211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142336,
+      "num": 142336,
+      "word": "张雅钦不语只是一味刷剧",
+      "onboard_time": 1737277938,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141511,
       "num": 141511,
       "word": "蒋长扬许诺何惟芳不离不弃",
@@ -1291,6 +1315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131126,
+      "num": 191692,
+      "word": "葛夕捐出了直播打赏",
+      "onboard_time": 1737273918,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130482,
       "num": 130482,
       "word": "名侦探学院",
@@ -1312,14 +1344,6 @@
       "word": "狗妈妈叼着冻僵小狗找人求救",
       "onboard_time": 1737202098,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129192,
-      "num": 259932,
-      "word": "男子口含碎玻璃6次敲诈海底捞被起诉",
-      "onboard_time": 1737277219,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1363,28 +1387,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 123761,
-      "num": 191692,
-      "word": "葛夕捐出了直播打赏",
-      "onboard_time": 1737273918,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 121099,
       "num": 121099,
       "word": "白鹿剧宣真诚又体面",
       "onboard_time": 1737270258,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120764,
-      "num": 120764,
-      "word": "张雅钦不语只是一味刷剧",
-      "onboard_time": 1737277938,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 120268,
@@ -1401,6 +1409,14 @@
       "onboard_time": 1737274519,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118445,
+      "num": 118445,
+      "word": "嫂子喂出嫁小姑子吃面手抖成了筛子",
+      "onboard_time": 1737278838,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117780,
@@ -1481,6 +1497,14 @@
       "onboard_time": 1737274458,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110648,
+      "num": 110648,
+      "word": "这到底是爸爸当家还是再见爱人",
+      "onboard_time": 1737278599,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 109942,
@@ -1803,6 +1827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83493,
+      "num": 83493,
+      "word": "这段戏对赵今麦用尽力气和手段",
+      "onboard_time": 1737279319,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82709,
       "num": 82709,
       "word": "永远相信老祖宗的审美",
@@ -1833,6 +1865,14 @@
       "onboard_time": 1737214579,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 78268,
+      "num": 690862,
+      "word": "没有一个人能空手走出年货大集",
+      "onboard_time": 1737277518,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77772,
@@ -1961,14 +2001,6 @@
       "onboard_time": 1737219015,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 56352,
-      "num": 640925,
-      "word": "没有一个人能空手走出年货大集",
-      "onboard_time": 1737277518,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 54981,
@@ -2289,6 +2321,9 @@
     },
     {
       "word": "#共同推动中美两艘巨轮不断前行#"
+    },
+    {
+      "word": "#习近平提到的幸福路#"
     }
   ]
 }
