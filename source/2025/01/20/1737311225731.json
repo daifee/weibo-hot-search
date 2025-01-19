@@ -1,0 +1,410 @@
+{
+  "runTime": 1737311225731,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 204654,
+        "num": 204654,
+        "word": "让教师成为最受社会尊重的职业之一",
+        "onboard_time": 1737302778,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 154088,
+        "num": 154088,
+        "word": "留几手回应离婚财产分配",
+        "onboard_time": 1737302538,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 12504,
+        "num": 136071,
+        "word": "用非遗剪纸的方式打开苏州",
+        "onboard_time": 1737293540,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122218,
+        "num": 122218,
+        "word": "尹锡悦换上囚服",
+        "onboard_time": 1737298338,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115920,
+        "num": 115920,
+        "word": "第三方平台买火车票各种玩法只为加钱",
+        "onboard_time": 1737303379,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 433259,
+        "num": 113355,
+        "word": "网红小狗艾特去世",
+        "onboard_time": 1737295879,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 352406,
+        "num": 111330,
+        "word": "潘宏",
+        "onboard_time": 1737292520,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 107696,
+        "num": 107696,
+        "word": "央视曝光美甲灯安全隐患",
+        "onboard_time": 1737286337,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83072,
+        "num": 83072,
+        "word": "射雕英雄传影史国产片预售首日票房冠军",
+        "onboard_time": 1737303976,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 65255,
+        "num": 81353,
+        "word": "支持有条件的幼儿园招收2至3岁幼儿",
+        "onboard_time": 1737305055,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164216,
+        "num": 81124,
+        "word": "特朗普发帖呼吁挽救TikTok",
+        "onboard_time": 1737299900,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 80484,
+        "num": 80484,
+        "word": "春节回家是时候卸下一年的担子了",
+        "onboard_time": 1737292401,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75677,
+        "num": 75677,
+        "word": "Doinb说跪下",
+        "onboard_time": 1737293779,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 75577,
+        "num": 75577,
+        "word": "TikTok停止在美服务",
+        "onboard_time": 1737260718,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 72100,
+        "num": 72100,
+        "word": "李现金秀贤G社生图",
+        "onboard_time": 1737300199,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 67637,
+        "num": 67637,
+        "word": "骗子转走300万给受害人转1万做生活费",
+        "onboard_time": 1737288799,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65993,
+        "num": 65993,
+        "word": "漂白尺度绝了",
+        "onboard_time": 1737283698,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57733,
+        "num": 57733,
+        "word": "7个工作日后就过年了",
+        "onboard_time": 1737291861,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58322,
+        "num": 57425,
+        "word": "漂白",
+        "onboard_time": 1737265697,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52205,
+        "num": 52205,
+        "word": "和给你能量的人在一起",
+        "onboard_time": 1737302538,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71018,
+        "num": 52012,
+        "word": "李小冉把口红给刘晓庆用",
+        "onboard_time": 1737287479,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51717,
+        "num": 51717,
+        "word": "一家5口连续确诊同种癌症",
+        "onboard_time": 1737287419,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48895,
+        "num": 48895,
+        "word": "一路繁花窒息七分钟",
+        "onboard_time": 1737285498,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47594,
+        "num": 47594,
+        "word": "专家称睡眠时长影响热量摄入",
+        "onboard_time": 1737294921,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 46880,
+        "num": 46880,
+        "word": "8米长鲸鱼尸体搁浅海南一沙滩",
+        "onboard_time": 1737309732,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43538,
+        "num": 43538,
+        "word": "尹锡悦穿囚服拍摄嫌疑人照片",
+        "onboard_time": 1737305235,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 41487,
+        "num": 41487,
+        "word": "iG发文道歉",
+        "onboard_time": 1737297020,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 37126,
+        "num": 37126,
+        "word": "疑似苏新皓手受伤",
+        "onboard_time": 1737300079,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37052,
+        "num": 37052,
+        "word": "豆包chatGPT辩论谁是人工智障",
+        "onboard_time": 1737300439,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 36887,
+        "num": 36887,
+        "word": "留几手自曝请杨子喝酒花20万",
+        "onboard_time": 1737279798,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36541,
+        "num": 36541,
+        "word": "王鹤棣上海出发巴黎时装周",
+        "onboard_time": 1737301339,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 35602,
+        "num": 35602,
+        "word": "要强化高中幼儿园教师工资待遇保障",
+        "onboard_time": 1737304635,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 34609,
+        "num": 34609,
+        "word": "庞颖念诗给詹青云念红温了",
+        "onboard_time": 1737297500,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33313,
+        "num": 33313,
+        "word": "李昀锐倪虹洁演夫妻",
+        "onboard_time": 1737288919,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32926,
+        "num": 32926,
+        "word": "封神第二部用无人机给大家拜年",
+        "onboard_time": 1737304397,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32871,
+        "num": 32871,
+        "word": "女娲毕设刘浩存",
+        "onboard_time": 1737284839,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32720,
+        "num": 32720,
+        "word": "女子双眼皮手术4年半后揉出手术针",
+        "onboard_time": 1737283758,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30047,
+        "num": 30047,
+        "word": "肖战坦言对春节档竞争不紧张",
+        "onboard_time": 1737300018,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29392,
+        "num": 29392,
+        "word": "翔霖",
+        "onboard_time": 1737298759,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 29371,
+        "num": 29371,
+        "word": "朱志鑫线下之神",
+        "onboard_time": 1737310512,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28427,
+        "num": 28427,
+        "word": "老师在女同事屋内装摄像头否认偷窥",
+        "onboard_time": 1737301219,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28124,
+        "num": 28124,
+        "word": "皇马vs拉斯帕尔马斯",
+        "onboard_time": 1737306135,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27962,
+        "num": 27962,
+        "word": "李昀锐断眉",
+        "onboard_time": 1737295820,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27889,
+        "num": 27889,
+        "word": "2025LPL群访",
+        "onboard_time": 1737310694,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27534,
+        "num": 27534,
+        "word": "肖战蔡少芬同框",
+        "onboard_time": 1737294980,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26253,
+        "num": 26253,
+        "word": "搬家又一次让我意识到女性独居困境",
+        "onboard_time": 1737299478,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26210,
+        "num": 26210,
+        "word": "尹锡悦正式进入拘留所",
+        "onboard_time": 1737293960,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26060,
+        "num": 26060,
+        "word": "漂白热度破9000",
+        "onboard_time": 1737301818,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25606,
+        "num": 25606,
+        "word": "国色芳华24集预告",
+        "onboard_time": 1737294980,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25465,
+        "num": 25465,
+        "word": "2025KPL春季转会期",
+        "onboard_time": 1737301760,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全军老同志祝贺新春#"
+    }
+  }
+}

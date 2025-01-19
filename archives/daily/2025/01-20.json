@@ -1,6 +1,6 @@
 {
   "startTime": 1737303863836,
-  "endTime": 1737308113768,
+  "endTime": 1737311225731,
   "band_list": [
     {
       "raw_hot": 1748173,
@@ -427,8 +427,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 64170,
-      "num": 64170,
+      "raw_hot": 65255,
+      "num": 81353,
       "word": "支持有条件的幼儿园招收2至3岁幼儿",
       "onboard_time": 1737305055,
       "rank": 37,
@@ -441,6 +441,14 @@
       "onboard_time": 1737306135,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46880,
+      "num": 46880,
+      "word": "8米长鲸鱼尸体搁浅海南一沙滩",
+      "onboard_time": 1737309732,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43173,
@@ -467,6 +475,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29371,
+      "num": 29371,
+      "word": "朱志鑫线下之神",
+      "onboard_time": 1737310512,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 27889,
+      "num": 27889,
+      "word": "2025LPL群访",
+      "onboard_time": 1737310694,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 17869,
       "num": 146776,
       "word": "在澳门街头偶遇张博恒",
@@ -475,20 +499,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 12504,
+      "num": 272710,
+      "word": "用非遗剪纸的方式打开苏州",
+      "onboard_time": 1737293540,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10343,
       "num": 73883,
       "word": "KPL压岁钱大作战",
       "onboard_time": 1737305835,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 8823,
-      "num": 272710,
-      "word": "用非遗剪纸的方式打开苏州",
-      "onboard_time": 1737293540,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
