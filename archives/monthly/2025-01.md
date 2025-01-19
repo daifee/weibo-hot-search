@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/19 16:24:51
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/19 16:37:43
 </p>
 </blockquote>
 <p>
@@ -2463,6 +2463,12 @@ TikTok禁令引发美国网友众怒（热度：1325910）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E4%B8%80%E5%8F%A5%E5%90%AB%E9%87%91%E9%87%8F%E4%B8%8D%E9%AB%98%E5%AD%A9%E5%AD%90%E6%B0%94%E5%93%AD%E6%92%95%E5%A5%96%E7%8A%B6%23" target="weibo">
+爸爸一句含金量不高孩子气哭撕奖状（热度：1195226）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2327%E5%B2%81%E8%BE%85%E8%AD%A6%E6%9F%A5%E9%85%92%E9%A9%BE%E8%A2%AB%E6%92%9E%E4%BC%A4%E6%8B%96%E8%A1%8C%E7%89%BA%E7%89%B2%23" target="weibo">
 27岁辅警查酒驾被撞伤拖行牺牲（热度：1192430）
 </a>
@@ -2705,12 +2711,6 @@ TikTok发声明（热度：1148125）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%8F%E6%88%91%E6%9D%A5%E6%97%B6%E4%B8%8D%E9%80%A2%E4%B8%81%23" target="weibo">
 偏我来时不逢丁（热度：1126166）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E4%B8%80%E5%8F%A5%E5%90%AB%E9%87%91%E9%87%8F%E4%B8%8D%E9%AB%98%E5%AD%A9%E5%AD%90%E6%B0%94%E5%93%AD%E6%92%95%E5%A5%96%E7%8A%B6%23" target="weibo">
-爸爸一句含金量不高孩子气哭撕奖状（热度：1126066）
 </a>
 </li>
 

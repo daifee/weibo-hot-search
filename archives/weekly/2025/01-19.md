@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/19 00:24:27 ~ 2025/01/19 16:24:51
+本榜单时间：2025/01/19 00:24:27 ~ 2025/01/19 16:37:43
 </p>
 </blockquote>
 <p>
@@ -58,7 +58,7 @@ TikTok停止在美服务（热度：2463156）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E4%B8%80%E5%8F%A5%E5%90%AB%E9%87%91%E9%87%8F%E4%B8%8D%E9%AB%98%E5%AD%A9%E5%AD%90%E6%B0%94%E5%93%AD%E6%92%95%E5%A5%96%E7%8A%B6%23" target="weibo">
-爸爸一句含金量不高孩子气哭撕奖状（热度：1126066）
+爸爸一句含金量不高孩子气哭撕奖状（热度：1195226）
 </a>
 </li>
 
@@ -226,7 +226,7 @@ TikTok通知美用户将暂停服务（热度：902283）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%232025%E6%98%A5%E8%8A%82%E6%A1%A3%E9%A2%84%E5%94%AE%E7%A0%B4%E4%BA%BF%23" target="weibo">
-2025春节档预售破亿（热度：483901）
+2025春节档预售破亿（热度：491390）
 </a>
 </li>
 
@@ -269,6 +269,12 @@ TikTok通知美用户将暂停服务（热度：902283）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%BA%8C%E9%83%A8%E9%87%8C%E6%9C%89%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E5%AE%B6%E5%9B%AD%E6%83%85%E6%80%80%23" target="weibo">
 封神第二部里有中国人的家园情怀（热度：403078）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%97%97%E4%B8%8B%E5%A4%9A%E4%B8%AA%E5%BA%94%E7%94%A8%E5%9C%A8%E7%BE%8E%E5%81%9C%E6%9C%8D%23" target="weibo">
+字节跳动旗下多个应用在美停服（热度：402948）
 </a>
 </li>
 
@@ -395,6 +401,12 @@ TikTok在美国应用商店下架（热度：366993）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%8E%A5%E7%99%BD%E6%9C%88%E6%A2%B5%E6%98%9F%23" target="weibo">
 白鹿为什么要接白月梵星（热度：294614）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232025%E6%98%A5%E8%8A%82%E6%A1%A3%E9%A2%84%E5%94%AE%E4%B8%8D%E5%88%B0%E4%B8%80%E5%A4%A9%E8%B6%85%E4%B8%80%E4%BA%BF%23" target="weibo">
+2025春节档预售不到一天超一亿（热度：290019）
 </a>
 </li>
 
@@ -599,12 +611,6 @@ TikTok公司表示白宫无保证平台只能关（热度：232827）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%84%E9%9B%95%E8%8B%B1%E9%9B%84%E4%BC%A0%E4%BE%A0%E4%B9%8B%E5%A4%A7%E8%80%85%E9%A2%84%E5%94%AE%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80%23" target="weibo">
 射雕英雄传侠之大者预售断层第一（热度：192638）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%97%97%E4%B8%8B%E5%A4%9A%E4%B8%AA%E5%BA%94%E7%94%A8%E5%9C%A8%E7%BE%8E%E5%81%9C%E6%9C%8D%23" target="weibo">
-字节跳动旗下多个应用在美停服（热度：192271）
 </a>
 </li>
 
@@ -837,6 +843,12 @@ TikTok公司表示白宫无保证平台只能关（热度：232827）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E9%B9%A4%E5%A0%82%E7%9B%B8%E5%A3%B0%E5%BE%97%E7%A5%A8%E6%AF%94%E5%B8%88%E5%85%84%E5%BC%9F%E5%8A%A0%E8%B5%B7%E6%9D%A5%E9%83%BD%E9%AB%98%23" target="weibo">
+孟鹤堂相声得票比师兄弟加起来都高（热度：144832）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%93%E9%87%8C%E5%8F%97%E4%BC%A4%23" target="weibo">
 库里受伤（热度：144033）
 </a>
@@ -951,8 +963,20 @@ TikTok在美国使用实时画面曝光（热度：139147）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B9%9F%E8%AF%B8%E8%91%9B%E9%9D%92%E5%8F%8C%E5%90%91%E8%B5%B4%E6%AD%BB%23" target="weibo">
+王也诸葛青双向赴死（热度：127290）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%B9%E9%94%A1%E6%82%A6%E8%A2%AB%E6%8C%87%E6%9C%89%E6%AF%81%E7%81%AD%E8%AF%81%E6%8D%AE%E4%B9%8B%E5%AB%8C%23" target="weibo">
 尹锡悦被指有毁灭证据之嫌（热度：125014）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%82%E5%9B%9E%E5%AE%B6%E5%8F%AF%E8%83%BD%E9%81%87%E5%88%B0%E5%A4%A7%E8%8C%83%E5%9B%B4%E9%9B%A8%E9%9B%AA%23" target="weibo">
+春节回家可能遇到大范围雨雪（热度：124915）
 </a>
 </li>
 
@@ -975,8 +999,8 @@ TikTok在美国使用实时画面曝光（热度：139147）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%232025%E6%98%A5%E8%8A%82%E6%A1%A3%E9%A2%84%E5%94%AE%E4%B8%8D%E5%88%B0%E4%B8%80%E5%A4%A9%E8%B6%85%E4%B8%80%E4%BA%BF%23" target="weibo">
-2025春节档预售不到一天超一亿（热度：118446）
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%9C%88%E6%A2%B5%E6%98%9F%23" target="weibo">
+白月梵星（热度：118975）
 </a>
 </li>
 
@@ -1005,14 +1029,14 @@ TikTok在美国使用实时画面曝光（热度：139147）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%9C%88%E6%A2%B5%E6%98%9F%23" target="weibo">
-白月梵星（热度：116175）
+<a href="https://s.weibo.com/weibo?q=%2323%E6%97%A5%E8%B5%B7%E5%BC%BA%E5%86%B7%E7%A9%BA%E6%B0%94%E6%90%BA%E9%9B%A8%E9%9B%AA%E9%99%8D%E6%B8%A9%E6%9D%A5%E8%A2%AD%23" target="weibo">
+23日起强冷空气携雨雪降温来袭（热度：115901）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2323%E6%97%A5%E8%B5%B7%E5%BC%BA%E5%86%B7%E7%A9%BA%E6%B0%94%E6%90%BA%E9%9B%A8%E9%9B%AA%E9%99%8D%E6%B8%A9%E6%9D%A5%E8%A2%AD%23" target="weibo">
-23日起强冷空气携雨雪降温来袭（热度：115901）
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%9B%E5%A4%95%E6%8D%90%E5%87%BA%E4%BA%86%E7%9B%B4%E6%92%AD%E6%89%93%E8%B5%8F%23" target="weibo">
+葛夕捐出了直播打赏（热度：115546）
 </a>
 </li>
 
@@ -1155,6 +1179,12 @@ TikTok在美国使用实时画面曝光（热度：139147）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%B0%E7%99%BE%E5%AE%9D%E5%A6%88%E4%B8%B2%E6%89%8B%E4%B8%B2%E8%B5%9A%E4%BB%A3%E5%B7%A5%E8%B4%B9%E8%A2%AB%E9%AA%97%E8%B6%85%E7%99%BE%E4%B8%87%23" target="weibo">
+数百宝妈串手串赚代工费被骗超百万（热度：101767）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E6%9C%B5%E6%A1%83%E8%8A%B1%E5%86%B3%E6%88%98%E7%99%AB%E7%96%AF%23" target="weibo">
 千朵桃花决战癫疯（热度：101666）
 </a>
@@ -1169,6 +1199,12 @@ TikTok在美国使用实时画面曝光（热度：139147）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23TF%E5%AE%B6%E6%97%8F%E6%96%B0%E9%9F%B3%E5%90%88%E5%BD%B1%23" target="weibo">
 TF家族新音合影（热度：100124）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E6%98%93%E5%AE%A3%E5%B8%83%E9%80%80%E5%87%BA%E5%85%A8%E5%9B%BD%E5%86%A0%E5%86%9B%E8%B5%9B%23" target="weibo">
+朱易宣布退出全国冠军赛（热度：97689）
 </a>
 </li>
 
@@ -1281,12 +1317,6 @@ TF家族人人人人人（热度：92633）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E6%98%93%E5%AE%A3%E5%B8%83%E9%80%80%E5%87%BA%E5%85%A8%E5%9B%BD%E5%86%A0%E5%86%9B%E8%B5%9B%23" target="weibo">
-朱易宣布退出全国冠军赛（热度：81156）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E5%86%89%E8%AF%B4%E5%90%91%E5%A4%AA%E8%83%96%23" target="weibo">
 李小冉说向太胖（热度：79507）
 </a>
@@ -1331,12 +1361,6 @@ Rookie参加solo选边（热度：76365）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%E6%97%A9%E5%AE%89%E8%AF%AD%E9%9F%B3%E5%8C%85%23" target="weibo">
 李昀锐早安语音包（热度：71873）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%91%9B%E5%A4%95%E6%8D%90%E5%87%BA%E4%BA%86%E7%9B%B4%E6%92%AD%E6%89%93%E8%B5%8F%23" target="weibo">
-葛夕捐出了直播打赏（热度：68601）
 </a>
 </li>
 
@@ -1497,14 +1521,14 @@ TF家族出图（热度：34930）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%8D%83%E5%AC%85%E6%80%8E%E4%B9%88%E5%8F%AF%E4%BB%A5%E6%95%AC%E4%B8%9A%E6%88%90%E8%BF%99%E6%A0%B7%23" target="weibo">
-杨千嬅怎么可以敬业成这样（热度：31077）
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%BF%90%E5%87%BA%E8%A1%8C%E5%BF%85%E5%A4%87%E5%B0%8F%E8%B4%B4%E5%A3%AB%23" target="weibo">
+春运出行必备小贴士（热度：32050）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%BF%90%E5%87%BA%E8%A1%8C%E5%BF%85%E5%A4%87%E5%B0%8F%E8%B4%B4%E5%A3%AB%23" target="weibo">
-春运出行必备小贴士（热度：30788）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%8D%83%E5%AC%85%E6%80%8E%E4%B9%88%E5%8F%AF%E4%BB%A5%E6%95%AC%E4%B8%9A%E6%88%90%E8%BF%99%E6%A0%B7%23" target="weibo">
+杨千嬅怎么可以敬业成这样（热度：31077）
 </a>
 </li>
 
