@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737275863158,
+  "endTime": 1737278442639,
   "band_list": [
     {
       "raw_hot": 2463156,
@@ -187,6 +187,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 593057,
+      "num": 593057,
+      "word": "春晚主持人",
+      "onboard_time": 1737277518,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 585947,
       "num": 585947,
       "word": "妈妈每天拍女儿匆忙上班的背影",
@@ -217,6 +225,14 @@
       "onboard_time": 1737265457,
       "rank": 10,
       "category": "体育,互联网"
+    },
+    {
+      "raw_hot": 543449,
+      "num": 357563,
+      "word": "字节跳动旗下多个应用在美停服",
+      "onboard_time": 1737274638,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 533969,
@@ -339,6 +355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 439145,
+      "num": 439145,
+      "word": "小学生被中学生买单后行跪拜大礼",
+      "onboard_time": 1737276140,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 403078,
       "num": 378049,
       "word": "封神第二部里有中国人的家园情怀",
@@ -347,12 +371,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 402948,
-      "num": 275629,
-      "word": "字节跳动旗下多个应用在美停服",
-      "onboard_time": 1737274638,
-      "rank": 17,
-      "category": "互联网"
+      "raw_hot": 391249,
+      "num": 391249,
+      "word": "2025春节档预售不到一天超一亿",
+      "onboard_time": 1737274818,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 385932,
@@ -395,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 348549,
+      "num": 176462,
+      "word": "孟子义95花集均剧播第一",
+      "onboard_time": 1737278059,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 347753,
       "num": 354031,
       "word": "春节档影片你想先看哪部",
@@ -420,7 +452,7 @@
     },
     {
       "raw_hot": 332165,
-      "num": 246056,
+      "num": 288844,
       "word": "麦琳透露现在103斤",
       "onboard_time": 1737263777,
       "rank": 38,
@@ -523,14 +555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 290019,
-      "num": 290019,
-      "word": "2025春节档预售不到一天超一亿",
-      "onboard_time": 1737274818,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 287005,
       "num": 329927,
       "word": "徐梦桃世界杯夺冠",
@@ -603,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250795,
+      "num": 250795,
+      "word": "肖战射雕预售票房占比",
+      "onboard_time": 1737277518,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 248763,
       "num": 128086,
       "word": "刘宇宁 直播开怼",
@@ -635,6 +667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 233513,
+      "num": 174281,
+      "word": "谢金燕回应未婚生子",
+      "onboard_time": 1737277638,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232827,
       "num": 160938,
       "word": "TikTok公司表示白宫无保证平台只能关",
@@ -649,6 +689,14 @@
       "onboard_time": 1737256697,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 231560,
+      "num": 231560,
+      "word": "春节回家可能遇到大范围雨雪",
+      "onboard_time": 1737275479,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 228583,
@@ -883,6 +931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 180168,
+      "num": 175202,
+      "word": "漂白",
+      "onboard_time": 1737190399,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179370,
       "num": 179370,
       "word": "都四九天了今年还会冷吗",
@@ -905,14 +961,6 @@
       "onboard_time": 1737250218,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 175202,
-      "num": 175202,
-      "word": "漂白",
-      "onboard_time": 1737190399,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 174541,
@@ -944,6 +992,14 @@
       "word": "尹锡悦被羁押最长可达20天",
       "onboard_time": 1737249857,
       "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 171563,
+      "num": 171563,
+      "word": "特朗普身家一夜暴涨400%",
+      "onboard_time": 1737276798,
+      "rank": 28,
       "category": "国际时政"
     },
     {
@@ -985,6 +1041,14 @@
       "onboard_time": 1737271397,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157972,
+      "num": 157972,
+      "word": "iG",
+      "onboard_time": 1737277818,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 156660,
@@ -1251,6 +1315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129192,
+      "num": 259932,
+      "word": "男子口含碎玻璃6次敲诈海底捞被起诉",
+      "onboard_time": 1737277219,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127931,
       "num": 127931,
       "word": "不敢想吴青峰王源合唱有多好听",
@@ -1283,14 +1355,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 124915,
-      "num": 124915,
-      "word": "春节回家可能遇到大范围雨雪",
-      "onboard_time": 1737275479,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124082,
       "num": 136029,
       "word": "女医生救人后又直奔ICU看病重姥姥",
@@ -1299,12 +1363,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123761,
+      "num": 191692,
+      "word": "葛夕捐出了直播打赏",
+      "onboard_time": 1737273918,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121099,
       "num": 121099,
       "word": "白鹿剧宣真诚又体面",
       "onboard_time": 1737270258,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120764,
+      "num": 120764,
+      "word": "张雅钦不语只是一味刷剧",
+      "onboard_time": 1737277938,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 120268,
@@ -1361,14 +1441,6 @@
       "onboard_time": 1737255198,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115546,
-      "num": 191692,
-      "word": "葛夕捐出了直播打赏",
-      "onboard_time": 1737273918,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 115179,
@@ -1539,6 +1611,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 101943,
+      "num": 101943,
+      "word": "数百宝妈串手串赚代工费被骗超百万",
+      "onboard_time": 1737275719,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101875,
       "num": 101875,
       "word": "清明上河园起火目击者发声",
@@ -1553,14 +1633,6 @@
       "onboard_time": 1737206961,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 101767,
-      "num": 101767,
-      "word": "数百宝妈串手串赚代工费被骗超百万",
-      "onboard_time": 1737275719,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101666,
@@ -1625,6 +1697,14 @@
       "onboard_time": 1737211581,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95336,
+      "num": 95336,
+      "word": "印度赛蒋振邦魏雅欣混双冠军",
+      "onboard_time": 1737277458,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 95311,
@@ -1881,6 +1961,14 @@
       "onboard_time": 1737219015,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 56352,
+      "num": 640925,
+      "word": "没有一个人能空手走出年货大集",
+      "onboard_time": 1737277518,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54981,
