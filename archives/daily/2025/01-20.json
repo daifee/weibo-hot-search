@@ -1,6 +1,6 @@
 {
   "startTime": 1737303863836,
-  "endTime": 1737303863836,
+  "endTime": 1737304764092,
   "band_list": [
     {
       "raw_hot": 1748173,
@@ -11,20 +11,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 687464,
-      "num": 243507,
-      "word": "特朗普发帖呼吁挽救TikTok",
-      "onboard_time": 1737299900,
-      "rank": 10,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 677563,
+      "raw_hot": 775366,
       "num": 607970,
       "word": "潘宏",
       "onboard_time": 1737292520,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 687464,
+      "num": 260208,
+      "word": "特朗普发帖呼吁挽救TikTok",
+      "onboard_time": 1737299900,
+      "rank": 10,
+      "category": "互联网"
     },
     {
       "raw_hot": 655543,
@@ -59,6 +59,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 393267,
+      "num": 393267,
+      "word": "让教师成为最受社会尊重的职业之一",
+      "onboard_time": 1737302778,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 375933,
       "num": 375933,
       "word": "老师在女同事屋内装摄像头否认偷窥",
@@ -73,6 +81,14 @@
       "onboard_time": 1737298759,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 307542,
+      "num": 260012,
+      "word": "留几手回应离婚财产分配",
+      "onboard_time": 1737302538,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 267262,
@@ -91,20 +107,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 256878,
+      "num": 256878,
+      "word": "春节回家是时候卸下一年的担子了",
+      "onboard_time": 1737292401,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 246830,
       "num": 179298,
       "word": "留几手自曝请杨子喝酒花20万",
       "onboard_time": 1737279798,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 243800,
-      "num": 243800,
-      "word": "春节回家是时候卸下一年的担子了",
-      "onboard_time": 1737292401,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 226945,
@@ -131,14 +147,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 207383,
-      "num": 207383,
-      "word": "留几手回应离婚财产分配",
-      "onboard_time": 1737302538,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
       "raw_hot": 195162,
       "num": 195162,
       "word": "一家5口连续确诊同种癌症",
@@ -147,12 +155,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 184799,
-      "num": 225229,
-      "word": "让教师成为最受社会尊重的职业之一",
-      "onboard_time": 1737302778,
-      "rank": 13,
-      "category": "国内时政"
+      "raw_hot": 188460,
+      "num": 188460,
+      "word": "射雕英雄传影史国产片预售首日票房冠军",
+      "onboard_time": 1737303976,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 179495,
@@ -171,6 +179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 171768,
+      "num": 160115,
+      "word": "疑似苏新皓手受伤",
+      "onboard_time": 1737300079,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 169997,
       "num": 169997,
       "word": "iG发文道歉",
@@ -179,12 +195,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 160115,
-      "num": 160115,
-      "word": "疑似苏新皓手受伤",
-      "onboard_time": 1737300079,
-      "rank": 25,
-      "category": "演出"
+      "raw_hot": 159729,
+      "num": 184934,
+      "word": "和给你能量的人在一起",
+      "onboard_time": 1737302538,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157290,
@@ -201,14 +217,6 @@
       "onboard_time": 1737265697,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 152771,
-      "num": 184934,
-      "word": "和给你能量的人在一起",
-      "onboard_time": 1737302538,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 143160,
@@ -315,6 +323,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 92771,
+      "num": 92771,
+      "word": "封神第二部用无人机给大家拜年",
+      "onboard_time": 1737304397,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 91866,
       "num": 91866,
       "word": "尹锡悦正式进入拘留所",
@@ -337,6 +353,14 @@
       "onboard_time": 1737283698,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 88013,
+      "num": 88013,
+      "word": "第三方平台买火车票各种玩法只为加钱",
+      "onboard_time": 1737303379,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87684,
@@ -363,14 +387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 84438,
-      "num": 84438,
-      "word": "第三方平台买火车票各种玩法只为加钱",
-      "onboard_time": 1737303379,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 83863,
       "num": 83863,
       "word": "2025KPL春季转会期",
@@ -387,7 +403,23 @@
       "category": "演出"
     },
     {
-      "raw_hot": 34883,
+      "raw_hot": 81246,
+      "num": 81246,
+      "word": "苏新皓清唱日日夜夜",
+      "onboard_time": 1737303857,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 76629,
+      "num": 76629,
+      "word": "要强化高中幼儿园教师工资待遇保障",
+      "onboard_time": 1737304635,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 43173,
       "num": 164540,
       "word": "马龙的幽默时刻",
       "onboard_time": 1737303437,
@@ -401,11 +433,22 @@
       "onboard_time": 1737293661,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17869,
+      "num": 146776,
+      "word": "在澳门街头偶遇张博恒",
+      "onboard_time": 1737304635,
+      "rank": 24,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
     {
       "word": "#习近平向全军老同志祝贺新春#"
+    },
+    {
+      "word": "#习近平提到的幸福路#"
     }
   ]
 }
