@@ -1,7 +1,15 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737261540015,
+  "endTime": 1737264015240,
   "band_list": [
+    {
+      "raw_hot": 2463156,
+      "num": 2463156,
+      "word": "TikTok停止在美服务",
+      "onboard_time": 1737260718,
+      "rank": 9,
+      "category": "互联网"
+    },
     {
       "raw_hot": 2022883,
       "num": 1331064,
@@ -27,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1346525,
+      "num": 1346525,
+      "word": "美国网友已经准备在屋前屋后种菜",
+      "onboard_time": 1737261557,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1249195,
       "num": 1249195,
       "word": "留几手曝杨子留了90%的现金给黄圣依",
@@ -36,7 +52,7 @@
     },
     {
       "raw_hot": 1215468,
-      "num": 417239,
+      "num": 498267,
       "word": "你摸我腰",
       "onboard_time": 1737255077,
       "rank": 39,
@@ -57,6 +73,14 @@
       "onboard_time": 1737248416,
       "rank": 3,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 1019834,
+      "num": 1019834,
+      "word": "高压锅放过赵今麦吧",
+      "onboard_time": 1737260057,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 1011705,
@@ -99,16 +123,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 715591,
-      "num": 484930,
-      "word": "高压锅放过赵今麦吧",
-      "onboard_time": 1737260057,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 666228,
-      "num": 391597,
+      "num": 565018,
       "word": "杨子称离婚后负责孩子所有费用",
       "onboard_time": 1737256938,
       "rank": 28,
@@ -155,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 556533,
+      "num": 556533,
+      "word": "整治网上互撕谩骂和拉踩引战等行为",
+      "onboard_time": 1737260658,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 510051,
       "num": 406756,
       "word": "今年春节档第一张电影票",
@@ -177,6 +201,14 @@
       "onboard_time": 1737182356,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 480063,
+      "num": 480063,
+      "word": "北京动物园发布大熊猫古古讣告",
+      "onboard_time": 1737262458,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 477423,
@@ -267,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 338433,
+      "num": 338433,
+      "word": "国色芳华也印证了余华这段话",
+      "onboard_time": 1737261497,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 331898,
       "num": 150258,
       "word": "杨子含泪说不要再恭喜黄圣依了",
@@ -291,6 +331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 308059,
+      "num": 314623,
+      "word": "肖战射雕好多武林绝学",
+      "onboard_time": 1737254537,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 305680,
       "num": 300099,
       "word": "易烊千玺张艺兴春晚彩排",
@@ -307,14 +355,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 302196,
-      "num": 302196,
-      "word": "TikTok停止在美服务",
-      "onboard_time": 1737260718,
-      "rank": 9,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 300314,
       "num": 300314,
       "word": "老夫妻在地窖蒸三千斤糯米酿酒中毒",
@@ -323,20 +363,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 300281,
+      "num": 300281,
+      "word": "大熊猫古古去世",
+      "onboard_time": 1737262458,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 296514,
-      "num": 242403,
+      "num": 277980,
       "word": "蛇年春晚后台主持人阵容官宣",
       "onboard_time": 1737259037,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 295078,
-      "num": 314623,
-      "word": "肖战射雕好多武林绝学",
-      "onboard_time": 1737254537,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 287005,
@@ -443,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217026,
+      "num": 217026,
+      "word": "35岁练瑜伽一年体态的变化",
+      "onboard_time": 1737261259,
+      "rank": 41,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 215212,
       "num": 162353,
       "word": "莫小贝居然32岁了",
@@ -499,6 +547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 203416,
+      "num": 203416,
+      "word": "昆凌与周杰伦10周年合体跳舞秀恩爱",
+      "onboard_time": 1737259457,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200204,
       "num": 150197,
       "word": "敖瑞鹏说求天道眷顾梵樾",
@@ -523,14 +579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192656,
-      "num": 192656,
-      "word": "昆凌与周杰伦10周年合体跳舞秀恩爱",
-      "onboard_time": 1737259457,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 192638,
       "num": 192638,
       "word": "射雕英雄传侠之大者预售断层第一",
@@ -547,12 +595,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 191125,
+      "num": 191125,
+      "word": "春节第一张电影票",
+      "onboard_time": 1737263119,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 190414,
       "num": 196530,
       "word": "射雕英雄传预售破1000万",
       "onboard_time": 1737254177,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 189921,
+      "num": 189921,
+      "word": "TikTok在美国应用商店下架",
+      "onboard_time": 1737263478,
+      "rank": 30,
+      "category": "互联网,国际时政"
     },
     {
       "raw_hot": 188569,
@@ -569,6 +633,14 @@
       "onboard_time": 1737261078,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 184152,
+      "num": 184152,
+      "word": "魏哲鸣官宣湖南卫视春晚",
+      "onboard_time": 1737263178,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 183837,
@@ -601,6 +673,14 @@
       "onboard_time": 1737250218,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 174541,
+      "num": 174541,
+      "word": "谁家男主每集和狗飙戏",
+      "onboard_time": 1737262757,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 173238,
@@ -691,12 +771,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142339,
+      "num": 142339,
+      "word": "麦琳透露现在103斤",
+      "onboard_time": 1737263777,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141511,
       "num": 141511,
       "word": "蒋长扬许诺何惟芳不离不弃",
       "onboard_time": 1737243074,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141097,
+      "num": 220341,
+      "word": "库里受伤",
+      "onboard_time": 1737261857,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 140719,
@@ -795,6 +891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127931,
+      "num": 127931,
+      "word": "不敢想吴青峰王源合唱有多好听",
+      "onboard_time": 1737263238,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 127838,
       "num": 100671,
       "word": "大奉打更人创总广告时长第一",
@@ -817,14 +921,6 @@
       "onboard_time": 1737216618,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 120122,
-      "num": 120122,
-      "word": "35岁练瑜伽一年体态的变化",
-      "onboard_time": 1737261259,
-      "rank": 41,
-      "category": "运动健身"
     },
     {
       "raw_hot": 117780,
@@ -867,14 +963,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 114220,
-      "num": 114220,
-      "word": "整治网上互撕谩骂和拉踩引战等行为",
-      "onboard_time": 1737260658,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112585,
       "num": 293864,
       "word": "2025全军开训名场面",
@@ -907,19 +995,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109172,
+      "num": 109172,
+      "word": "全世界都在做鸡蛋羹",
+      "onboard_time": 1737262398,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 108525,
       "num": 94638,
       "word": "国色芳华",
       "onboard_time": 1737203418,
       "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 108479,
-      "num": 108479,
-      "word": "国色芳华也印证了余华这段话",
-      "onboard_time": 1737261497,
-      "rank": 49,
       "category": "剧集"
     },
     {
@@ -963,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105959,
+      "num": 499154,
+      "word": "2025春节网络环境整治行动启动",
+      "onboard_time": 1737260778,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105342,
       "num": 105342,
       "word": "通行时间从2小时缩短到2分钟",
@@ -977,6 +1073,14 @@
       "onboard_time": 1737210921,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104004,
+      "num": 514464,
+      "word": "网信办启动春节网络环境整治行动",
+      "onboard_time": 1737261497,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 103652,
@@ -1355,8 +1459,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 40417,
+      "num": 190175,
+      "word": "异人之下有自己的救赎文学",
+      "onboard_time": 1737263777,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 37538,
-      "num": 1011177,
+      "num": 1057559,
       "word": "中式纹样里祝福满满",
       "onboard_time": 1737236350,
       "rank": 2,
@@ -1553,14 +1665,6 @@
       "onboard_time": 1737227471,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 7107,
-      "num": 514464,
-      "word": "网信办启动春节网络环境整治行动",
-      "onboard_time": 1737261497,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [

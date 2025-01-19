@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/19 12:39:00
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/19 13:20:15
 </p>
 </blockquote>
 <p>
@@ -587,6 +587,12 @@ TikTok禁令（热度：2765381）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%81%AD%E8%BF%8E%E7%86%B9%E5%A6%83%E5%9B%9E%E5%AE%AB%23" target="weibo">
 恭迎熹妃回宫（热度：2464259）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23TikTok%E5%81%9C%E6%AD%A2%E5%9C%A8%E7%BE%8E%E6%9C%8D%E5%8A%A1%23" target="weibo">
+TikTok停止在美服务（热度：2463156）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ TikTok难民称中国网友非常热情（热度：1548219）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B7%A8%E5%B9%B4%E6%9C%80%E4%BD%B3%E8%8A%82%E7%9B%AE%23" target="weibo">
 跨年最佳节目（热度：1454388）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E4%B8%89%E4%B8%AA%E5%AD%A9%E5%AD%90%E6%9C%80%E8%BF%91%E8%BD%AE%E6%B5%81%E4%BD%8F%E9%99%A2%23" target="weibo">
-谢娜三个孩子最近轮流住院（热度：1448714）
 </a>
 </li>
 
