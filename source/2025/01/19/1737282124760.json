@@ -1,0 +1,410 @@
+{
+  "runTime": 1737282124760,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 990610,
+        "num": 1158497,
+        "word": "春晚主持人",
+        "onboard_time": 1737277518,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 576850,
+        "num": 576850,
+        "word": "男子口含碎玻璃6次敲诈海底捞被起诉",
+        "onboard_time": 1737277219,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71730,
+        "num": 573455,
+        "word": "没有一个人能空手走出年货大集",
+        "onboard_time": 1737277518,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1083676,
+        "num": 573360,
+        "word": "嫂子喂出嫁小姑子吃面手抖成了筛子",
+        "onboard_time": 1737278838,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 606665,
+        "num": 573218,
+        "word": "留几手自曝请杨子喝酒花20万",
+        "onboard_time": 1737279798,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 572875,
+        "num": 572875,
+        "word": "TikTok停止在美服务",
+        "onboard_time": 1737260718,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 356947,
+        "num": 356947,
+        "word": "美国网友已经准备在屋前屋后种菜",
+        "onboard_time": 1737261557,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 328373,
+        "num": 328373,
+        "word": "谢金燕回应未婚生子",
+        "onboard_time": 1737277638,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321735,
+        "num": 321735,
+        "word": "久酷微博发文后秒删",
+        "onboard_time": 1737278659,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 312682,
+        "num": 312682,
+        "word": "肖战射雕预售票房占比",
+        "onboard_time": 1737277518,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 500433,
+        "num": 297686,
+        "word": "爸爸一句含金量不高孩子气哭撕奖状",
+        "onboard_time": 1737271397,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315949,
+        "num": 296817,
+        "word": "字节跳动旗下多个应用在美停服",
+        "onboard_time": 1737274638,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 281460,
+        "num": 281460,
+        "word": "2025春节档预售破亿",
+        "onboard_time": 1737271278,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 262774,
+        "num": 262774,
+        "word": "大熊猫古古去世",
+        "onboard_time": 1737262458,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222090,
+        "num": 222090,
+        "word": "漂白",
+        "onboard_time": 1737265697,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81075,
+        "num": 220041,
+        "word": "中国液氧煤油火箭发动机一日三试",
+        "onboard_time": 1737280759,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 218637,
+        "num": 218637,
+        "word": "王鹤棣你嫂子赢了",
+        "onboard_time": 1737271457,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190857,
+        "num": 190857,
+        "word": "麦琳透露现在103斤",
+        "onboard_time": 1737263777,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175465,
+        "num": 175465,
+        "word": "iG对战NIP",
+        "onboard_time": 1737280218,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152079,
+        "num": 175416,
+        "word": "iG",
+        "onboard_time": 1737277818,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 378775,
+        "num": 174688,
+        "word": "孟子义95花集均剧播第一",
+        "onboard_time": 1737278059,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225293,
+        "num": 174372,
+        "word": "美国公司提交与TikTok合并标书",
+        "onboard_time": 1737271337,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 202900,
+        "num": 173785,
+        "word": "李行亮是麦琳的榜一大哥",
+        "onboard_time": 1737280338,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182796,
+        "num": 173638,
+        "word": "湖南卫视春晚官宣阵容",
+        "onboard_time": 1737253938,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140813,
+        "num": 173017,
+        "word": "吴艳妮晒肯豆风写真",
+        "onboard_time": 1737271457,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151807,
+        "num": 172651,
+        "word": "春节回家可能遇到大范围雨雪",
+        "onboard_time": 1737275479,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172270,
+        "num": 172270,
+        "word": "第五人格",
+        "onboard_time": 1737281478,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166120,
+        "num": 166120,
+        "word": "特朗普身家一夜暴涨400%",
+        "onboard_time": 1737276798,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 164356,
+        "num": 164356,
+        "word": "特朗普涉TikTok禁令最新表态",
+        "onboard_time": 1737253578,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122973,
+        "num": 164139,
+        "word": "数百宝妈串手串赚代工费被骗超百万",
+        "onboard_time": 1737275719,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165471,
+        "num": 164039,
+        "word": "男子曝烟头烫到马桶酒店索赔1000多",
+        "onboard_time": 1737281178,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163930,
+        "num": 163930,
+        "word": "没人告诉我马龙穿大衣这么帅",
+        "onboard_time": 1737281478,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154882,
+        "num": 154882,
+        "word": "周兴哲MV女主叶舒华",
+        "onboard_time": 1737273557,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141503,
+        "num": 141503,
+        "word": "2025春节档预售不到一天超一亿",
+        "onboard_time": 1737274818,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139426,
+        "num": 139426,
+        "word": "射雕英雄传预售票房破6000万",
+        "onboard_time": 1737281959,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135764,
+        "num": 135764,
+        "word": "3岁宝宝全身起皮脱衣服像下雪",
+        "onboard_time": 1737267677,
+        "rank": 35,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 132700,
+        "num": 132700,
+        "word": "国产剧终于拍了熟男熟女的cp了",
+        "onboard_time": 1737271397,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123848,
+        "num": 123848,
+        "word": "大熊猫古古生前最后一个视频",
+        "onboard_time": 1737279258,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108934,
+        "num": 108934,
+        "word": "TikTok通知美用户将暂停服务",
+        "onboard_time": 1737254657,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 107669,
+        "num": 107669,
+        "word": "射雕的画册周边太好看了",
+        "onboard_time": 1737280458,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107047,
+        "num": 107047,
+        "word": "蒲熠星录制最强大脑",
+        "onboard_time": 1737271457,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105576,
+        "num": 105576,
+        "word": "白鹿为什么要接白月梵星",
+        "onboard_time": 1737271337,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104906,
+        "num": 104906,
+        "word": "这到底是爸爸当家还是再见爱人",
+        "onboard_time": 1737278599,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97531,
+        "num": 97531,
+        "word": "范世錡不语只是一味地保护大家",
+        "onboard_time": 1737281720,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95853,
+        "num": 95853,
+        "word": "张雅钦不语只是一味刷剧",
+        "onboard_time": 1737277938,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92405,
+        "num": 92405,
+        "word": "春节档影片你想先看哪部",
+        "onboard_time": 1737269297,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 90083,
+        "num": 90083,
+        "word": "梅德韦杰夫被罚76000美元",
+        "onboard_time": 1737273618,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89223,
+        "num": 89223,
+        "word": "19.9元票价再现春节档",
+        "onboard_time": 1737253938,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 85672,
+        "num": 85672,
+        "word": "整治网上互撕谩骂和拉踩引战等行为",
+        "onboard_time": 1737260658,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83682,
+        "num": 83682,
+        "word": "高压锅放过赵今麦吧",
+        "onboard_time": 1737260057,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全军老同志祝贺新春#"
+    }
+  }
+}
