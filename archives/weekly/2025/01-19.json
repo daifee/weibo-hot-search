@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737318927637,
+  "endTime": 1737321556487,
   "band_list": [
     {
       "raw_hot": 2766963,
@@ -3243,6 +3243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 32763,
+      "num": 46947,
+      "word": "春节前有一轮雨雪降温",
+      "onboard_time": 1737316931,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32050,
       "num": 663933,
       "word": "春运出行必备小贴士",
@@ -3264,14 +3272,6 @@
       "word": "再过10天就是蛇年春节",
       "onboard_time": 1737220635,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30317,
-      "num": 46947,
-      "word": "春节前有一轮雨雪降温",
-      "onboard_time": 1737316931,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -3443,6 +3443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17730,
+      "num": 22271,
+      "word": "要减少日常考试测试频次",
+      "onboard_time": 1737318851,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17696,
       "num": 28486,
       "word": "读过的书是你的底气",
@@ -3457,6 +3465,14 @@
       "onboard_time": 1737228731,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 16570,
+      "num": 30441,
+      "word": "对学生要压减重复性作业",
+      "onboard_time": 1737318131,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15315,
@@ -3523,11 +3539,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13047,
+      "raw_hot": 13306,
       "num": 272710,
       "word": "用非遗剪纸的方式打开苏州",
       "onboard_time": 1737293540,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11097,
+      "num": 40032,
+      "word": "解放军版东风夜放花千树",
+      "onboard_time": 1737320530,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -3552,22 +3576,6 @@
       "word": "飞行教员任C919带队机长安全感满满",
       "onboard_time": 1737227471,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9386,
-      "num": 30441,
-      "word": "对学生要压减重复性作业",
-      "onboard_time": 1737318131,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9157,
-      "num": 22271,
-      "word": "要减少日常考试测试频次",
-      "onboard_time": 1737318851,
-      "rank": 29,
       "category": "民生新闻"
     }
   ],
