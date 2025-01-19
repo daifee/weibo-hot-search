@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737321556487,
+  "endTime": 1737322522459,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -56619,6 +56619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 40684,
+      "num": 46947,
+      "word": "春节前有一轮雨雪降温",
+      "onboard_time": 1737316931,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40603,
       "num": 217299,
       "word": "大学老师分享初恋经历",
@@ -57857,14 +57865,6 @@
       "onboard_time": 1735816519,
       "rank": 27,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 32763,
-      "num": 46947,
-      "word": "春节前有一轮雨雪降温",
-      "onboard_time": 1737316931,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32745,
@@ -60795,6 +60795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16954,
+      "num": 40032,
+      "word": "解放军版东风夜放花千树",
+      "onboard_time": 1737320530,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16948,
       "num": 24723,
       "word": "氢气球遇静电瞬间爆燃",
@@ -61315,6 +61323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14084,
+      "num": 272710,
+      "word": "用非遗剪纸的方式打开苏州",
+      "onboard_time": 1737293540,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13866,
       "num": 18123,
       "word": "张桂源双开门宽肩",
@@ -61433,14 +61449,6 @@
       "onboard_time": 1735676172,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 13306,
-      "num": 272710,
-      "word": "用非遗剪纸的方式打开苏州",
-      "onboard_time": 1737293540,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13252,
@@ -61867,14 +61875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11097,
-      "num": 40032,
-      "word": "解放军版东风夜放花千树",
-      "onboard_time": 1737320530,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 11089,
       "num": 45329,
       "word": "韩赴华游订单环比增长75%",
@@ -62099,6 +62099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 9438,
+      "num": 43017,
+      "word": "出餐慢的餐车被顾客点赞",
+      "onboard_time": 1737321730,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 9431,
       "num": 26296,
       "word": "CBA新年大战",
@@ -62153,6 +62161,14 @@
       "onboard_time": 1736713570,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8717,
+      "num": 25657,
+      "word": "Doinb使用Tian冠军皮肤",
+      "onboard_time": 1737322392,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 8600,
