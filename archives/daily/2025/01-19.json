@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737265000681,
+  "endTime": 1737268105498,
   "band_list": [
     {
       "raw_hot": 2463156,
@@ -187,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 572374,
+      "num": 361410,
+      "word": "高芙送别TikTok",
+      "onboard_time": 1737265457,
+      "rank": 10,
+      "category": "体育,互联网"
+    },
+    {
       "raw_hot": 510051,
       "num": 406756,
       "word": "今年春节档第一张电影票",
@@ -299,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 343144,
+      "num": 343144,
+      "word": "樊振东即将出发米兰时装周",
+      "onboard_time": 1737266597,
+      "rank": 14,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 342526,
       "num": 163238,
       "word": "倪萍蔡明蛐蛐刘晓庆",
@@ -328,6 +344,14 @@
       "word": "杨子含泪说不要再恭喜黄圣依了",
       "onboard_time": 1737243074,
       "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 320700,
+      "num": 320700,
+      "word": "杨千霈洪家杰离婚",
+      "onboard_time": 1737265817,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -401,6 +425,14 @@
       "onboard_time": 1737256578,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 277470,
+      "num": 218173,
+      "word": "哪吒2票补力度大",
+      "onboard_time": 1737265457,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 273975,
@@ -515,6 +547,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219383,
+      "num": 219383,
+      "word": "初中生用70元自制望远镜可观测月球",
+      "onboard_time": 1737266176,
+      "rank": 17,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 217758,
+      "num": 217758,
+      "word": "白鹿残梅映血",
+      "onboard_time": 1737267079,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215212,
       "num": 162353,
       "word": "莫小贝居然32岁了",
@@ -529,6 +577,14 @@
       "onboard_time": 1737251837,
       "rank": 36,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 209520,
+      "num": 209520,
+      "word": "文韬心虚地说出了唯一的正确答案",
+      "onboard_time": 1737265158,
+      "rank": 25,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 209293,
@@ -619,6 +675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 191565,
+      "num": 191565,
+      "word": "甲骨文公司关闭托管TikTok数据服务器",
+      "onboard_time": 1737267378,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 190414,
       "num": 196530,
       "word": "射雕英雄传预售破1000万",
@@ -659,12 +723,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 182914,
+      "num": 182914,
+      "word": "全世界都在做鸡蛋羹",
+      "onboard_time": 1737262398,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 180988,
       "num": 166800,
       "word": "刘晓庆沉浸式打包剩饭",
       "onboard_time": 1737264079,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180799,
+      "num": 218904,
+      "word": "夏弃疾不再接任何艺人商业约拍",
+      "onboard_time": 1737266539,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 179370,
@@ -715,6 +795,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 172853,
+      "num": 172853,
+      "word": "漂白",
+      "onboard_time": 1737190399,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166322,
       "num": 160176,
       "word": "2025春节档电影片长",
@@ -763,12 +851,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 153110,
+      "num": 153110,
+      "word": "第一次见疯批洗脑把自己洗哭了",
+      "onboard_time": 1737266838,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 150529,
+      "num": 150529,
+      "word": "魏哲鸣不愧是披哥的唱跳实力",
+      "onboard_time": 1737267198,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148849,
       "num": 172882,
       "word": "年轻人不爱大包小包走亲戚了",
       "onboard_time": 1737248176,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148589,
+      "num": 219157,
+      "word": "蛟龙行动为守护万家灯火而战",
+      "onboard_time": 1737267498,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 147828,
@@ -883,12 +995,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132659,
-      "num": 102520,
-      "word": "漂白",
-      "onboard_time": 1737190399,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 130467,
+      "num": 130467,
+      "word": "3岁宝宝全身起皮脱衣服像下雪",
+      "onboard_time": 1737267677,
+      "rank": 46,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 129907,
@@ -931,14 +1043,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 123925,
-      "num": 123925,
-      "word": "全世界都在做鸡蛋羹",
-      "onboard_time": 1737262398,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 120268,
       "num": 96540,
       "word": "王一博闪闪微光",
@@ -956,7 +1060,7 @@
     },
     {
       "raw_hot": 117115,
-      "num": 117115,
+      "num": 374785,
       "word": "美对华网络攻击已超出传统范围",
       "onboard_time": 1737259997,
       "rank": 46,
@@ -1028,7 +1132,7 @@
     },
     {
       "raw_hot": 108266,
-      "num": 108266,
+      "num": 169478,
       "word": "格林受伤",
       "onboard_time": 1737260358,
       "rank": 46,
@@ -1148,7 +1252,7 @@
     },
     {
       "raw_hot": 96897,
-      "num": 96897,
+      "num": 152079,
       "word": "过年前神十九航天员在忙些啥",
       "onboard_time": 1737257658,
       "rank": 49,
@@ -1443,6 +1547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 50301,
+      "num": 169478,
+      "word": "吴宣仪和新中式的适配度",
+      "onboard_time": 1737266418,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 50030,
       "num": 61152,
       "word": "俩小孩扔作业被提醒撒腿就跑",
@@ -1657,6 +1769,14 @@
       "onboard_time": 1737231430,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 14622,
+      "num": 169478,
+      "word": "孙佳旭世界杯夺冠",
+      "onboard_time": 1737262578,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 14174,
