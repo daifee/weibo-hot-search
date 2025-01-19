@@ -1,0 +1,410 @@
+{
+  "runTime": 1737271179103,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1181540,
+        "num": 1189046,
+        "word": "美国网友已经准备在屋前屋后种菜",
+        "onboard_time": 1737261557,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 500486,
+        "num": 500486,
+        "word": "初中生用70元自制望远镜可观测月球",
+        "onboard_time": 1737266176,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 14046,
+        "num": 494413,
+        "word": "春运出行必备小贴士",
+        "onboard_time": 1737256398,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 490968,
+        "num": 490968,
+        "word": "3岁宝宝全身起皮脱衣服像下雪",
+        "onboard_time": 1737267677,
+        "rank": 3,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 374876,
+        "num": 374876,
+        "word": "湖南卫视春晚官宣阵容",
+        "onboard_time": 1737253938,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 908137,
+        "num": 374471,
+        "word": "TikTok停止在美服务",
+        "onboard_time": 1737260718,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 362506,
+        "num": 362506,
+        "word": "葛夕回应麦琳黄圣依打架",
+        "onboard_time": 1737249677,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361123,
+        "num": 361123,
+        "word": "整治网上互撕谩骂和拉踩引战等行为",
+        "onboard_time": 1737260658,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336007,
+        "num": 354383,
+        "word": "19.9元票价再现春节档",
+        "onboard_time": 1737253938,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 337079,
+        "num": 354031,
+        "word": "春节档影片你想先看哪部",
+        "onboard_time": 1737269297,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 416431,
+        "num": 354012,
+        "word": "你摸我腰",
+        "onboard_time": 1737255077,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353845,
+        "num": 353845,
+        "word": "高芙送别TikTok",
+        "onboard_time": 1737265457,
+        "rank": 11,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 341078,
+        "num": 341078,
+        "word": "大熊猫古古去世",
+        "onboard_time": 1737262458,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302911,
+        "num": 302911,
+        "word": "留几手曝杨子留了90%的现金给黄圣依",
+        "onboard_time": 1737243074,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236821,
+        "num": 236821,
+        "word": "樊振东即将出发米兰时装周",
+        "onboard_time": 1737266597,
+        "rank": 14,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 229762,
+        "num": 229762,
+        "word": "哪吒2票补力度大",
+        "onboard_time": 1737265457,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 221182,
+        "num": 221182,
+        "word": "杨千霈洪家杰离婚",
+        "onboard_time": 1737265817,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192085,
+        "num": 192085,
+        "word": "TikTok在美国应用商店下架",
+        "onboard_time": 1737263478,
+        "rank": 17,
+        "category": "互联网,国际时政"
+      },
+      {
+        "raw_hot": 67324,
+        "num": 172637,
+        "word": "哪吒之魔童闹海预售破1000万",
+        "onboard_time": 1737270558,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166690,
+        "num": 166690,
+        "word": "正常腿被医生伪装成畸形做断骨增高",
+        "onboard_time": 1737248416,
+        "rank": 19,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 478581,
+        "num": 166546,
+        "word": "特朗普涉TikTok禁令最新表态",
+        "onboard_time": 1737253578,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24183,
+        "num": 165132,
+        "word": "中式纹样里祝福满满",
+        "onboard_time": 1737236350,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238903,
+        "num": 164783,
+        "word": "麦琳透露现在103斤",
+        "onboard_time": 1737263777,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216326,
+        "num": 163448,
+        "word": "高压锅放过赵今麦吧",
+        "onboard_time": 1737260057,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200394,
+        "num": 162093,
+        "word": "夏弃疾不再接任何艺人商业约拍",
+        "onboard_time": 1737266539,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182091,
+        "num": 161953,
+        "word": "射雕英雄传预售破4000万",
+        "onboard_time": 1737269836,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180175,
+        "num": 160701,
+        "word": "闻太师是封神2放映员吧",
+        "onboard_time": 1737269358,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169713,
+        "num": 159477,
+        "word": "35岁练瑜伽一年体态的变化",
+        "onboard_time": 1737261259,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 168425,
+        "num": 158866,
+        "word": "漂白",
+        "onboard_time": 1737265697,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158396,
+        "num": 158396,
+        "word": "蛇年春晚后台主持人阵容官宣",
+        "onboard_time": 1737259037,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152811,
+        "num": 152811,
+        "word": "TikTok通知美用户将暂停服务",
+        "onboard_time": 1737254657,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 151185,
+        "num": 151185,
+        "word": "狗狗受伤后独自去宠物医院换药",
+        "onboard_time": 1737267438,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144518,
+        "num": 144518,
+        "word": "多款手机价格集体降至6000元以内",
+        "onboard_time": 1737254236,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 122295,
+        "num": 122295,
+        "word": "网信办启动春节网络环境整治行动",
+        "onboard_time": 1737261497,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122245,
+        "num": 122245,
+        "word": "北京动物园发布大熊猫古古讣告",
+        "onboard_time": 1737262458,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121099,
+        "num": 121099,
+        "word": "白鹿剧宣真诚又体面",
+        "onboard_time": 1737270258,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120393,
+        "num": 120393,
+        "word": "甲骨文公司关闭托管TikTok数据服务器",
+        "onboard_time": 1737267378,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 112116,
+        "num": 112116,
+        "word": "从数学47分到北大数学教授",
+        "onboard_time": 1737256697,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 111457,
+        "num": 111457,
+        "word": "魏哲鸣不愧是披哥的唱跳实力",
+        "onboard_time": 1737267198,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110692,
+        "num": 110692,
+        "word": "文韬心虚地说出了唯一的正确答案",
+        "onboard_time": 1737265158,
+        "rank": 39,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 108837,
+        "num": 108837,
+        "word": "周受资代表TikTok感谢美国用户",
+        "onboard_time": 1737247277,
+        "rank": 40,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 107758,
+        "num": 107758,
+        "word": "牛在在给贺峻霖脱袜子",
+        "onboard_time": 1737269178,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105856,
+        "num": 105856,
+        "word": "这么癫的反派一下上桌4个",
+        "onboard_time": 1737269836,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103973,
+        "num": 103973,
+        "word": "国色芳华也印证了余华这段话",
+        "onboard_time": 1737261497,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103367,
+        "num": 103367,
+        "word": "一看发型就知道韩国欧巴来西湖了",
+        "onboard_time": 1737269537,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 98534,
+        "num": 98534,
+        "word": "李昀锐不语 只是一味地升辈分",
+        "onboard_time": 1737254718,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96289,
+        "num": 96289,
+        "word": "贾宝玉真的从书里走出来了",
+        "onboard_time": 1737243313,
+        "rank": 46,
+        "category": "剧集,综艺"
+      },
+      {
+        "raw_hot": 86510,
+        "num": 86510,
+        "word": "杨子称离婚后负责孩子所有费用",
+        "onboard_time": 1737256938,
+        "rank": 47,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 85983,
+        "num": 85983,
+        "word": "京沪政协委员关注集采药疗效",
+        "onboard_time": 1737269537,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85125,
+        "num": 85125,
+        "word": "全世界都在做鸡蛋羹",
+        "onboard_time": 1737262398,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全军老同志祝贺新春#"
+    }
+  }
+}

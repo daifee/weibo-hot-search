@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737268885924,
+  "endTime": 1737271179103,
   "band_list": [
     {
       "raw_hot": 2463156,
@@ -227,6 +227,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 500486,
+      "num": 500486,
+      "word": "初中生用70元自制望远镜可观测月球",
+      "onboard_time": 1737266176,
+      "rank": 17,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 490968,
+      "num": 490968,
+      "word": "3岁宝宝全身起皮脱衣服像下雪",
+      "onboard_time": 1737267677,
+      "rank": 46,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 477423,
       "num": 411804,
       "word": "李昀锐不语 只是一味地升辈分",
@@ -323,12 +339,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 341078,
+      "num": 341078,
+      "word": "大熊猫古古去世",
+      "onboard_time": 1737262458,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 338433,
       "num": 338433,
       "word": "国色芳华也印证了余华这段话",
       "onboard_time": 1737261497,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 337079,
+      "num": 354031,
+      "word": "春节档影片你想先看哪部",
+      "onboard_time": 1737269297,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 332165,
@@ -411,14 +443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 300281,
-      "num": 339430,
-      "word": "大熊猫古古去世",
-      "onboard_time": 1737262458,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 296514,
       "num": 277980,
       "word": "蛇年春晚后台主持人阵容官宣",
@@ -475,14 +499,6 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 256212,
-      "num": 256212,
-      "word": "初中生用70元自制望远镜可观测月球",
-      "onboard_time": 1737266176,
-      "rank": 17,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 254055,
       "num": 220195,
       "word": "35岁练瑜伽一年体态的变化",
@@ -505,14 +521,6 @@
       "onboard_time": 1737213320,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 248293,
-      "num": 248293,
-      "word": "3岁宝宝全身起皮脱衣服像下雪",
-      "onboard_time": 1737267677,
-      "rank": 46,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 247768,
@@ -747,12 +755,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 182091,
+      "num": 161953,
+      "word": "射雕英雄传预售破4000万",
+      "onboard_time": 1737269836,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 180988,
       "num": 166800,
       "word": "刘晓庆沉浸式打包剩饭",
       "onboard_time": 1737264079,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180175,
+      "num": 160701,
+      "word": "闻太师是封神2放映员吧",
+      "onboard_time": 1737269358,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 179370,
@@ -865,6 +889,14 @@
       "onboard_time": 1737266838,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151185,
+      "num": 151185,
+      "word": "狗狗受伤后独自去宠物医院换药",
+      "onboard_time": 1737267438,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150529,
@@ -1059,20 +1091,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125579,
-      "num": 125579,
-      "word": "狗狗受伤后独自去宠物医院换药",
-      "onboard_time": 1737267438,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125014,
       "num": 125014,
       "word": "尹锡悦被指有毁灭证据之嫌",
       "onboard_time": 1737246196,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 121099,
+      "num": 121099,
+      "word": "白鹿剧宣真诚又体面",
+      "onboard_time": 1737270258,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 120268,
@@ -1187,6 +1219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107758,
+      "num": 107758,
+      "word": "牛在在给贺峻霖脱袜子",
+      "onboard_time": 1737269178,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107350,
       "num": 107350,
       "word": "给美国网友一点中华文化震撼",
@@ -1219,6 +1259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105856,
+      "num": 105856,
+      "word": "这么癫的反派一下上桌4个",
+      "onboard_time": 1737269836,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105342,
       "num": 105342,
       "word": "通行时间从2小时缩短到2分钟",
@@ -1241,6 +1289,14 @@
       "onboard_time": 1737260598,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103367,
+      "num": 103367,
+      "word": "一看发型就知道韩国欧巴来西湖了",
+      "onboard_time": 1737269537,
+      "rank": 44,
+      "category": "时尚"
     },
     {
       "raw_hot": 101875,
@@ -1395,6 +1451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85983,
+      "num": 85983,
+      "word": "京沪政协委员关注集采药疗效",
+      "onboard_time": 1737269537,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84103,
       "num": 84103,
       "word": "为吸引韩国游客上海火锅店店员学会APT了",
@@ -1489,6 +1553,14 @@
       "onboard_time": 1737218237,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 67324,
+      "num": 172637,
+      "word": "哪吒之魔童闹海预售破1000万",
+      "onboard_time": 1737270558,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 65944,
@@ -1824,6 +1896,14 @@
       "word": "卡车猫王将带父亲和13只猫出去散心",
       "onboard_time": 1737231551,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14046,
+      "num": 494413,
+      "word": "春运出行必备小贴士",
+      "onboard_time": 1737256398,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
