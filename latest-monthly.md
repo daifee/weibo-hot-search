@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/19 19:35:16
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/19 20:37:57
 </p>
 </blockquote>
 <p>
@@ -2163,6 +2163,12 @@ TikTok禁令引发美国网友众怒（热度：1325910）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%BE%8E%E7%94%B2%E7%81%AF%E5%AE%89%E5%85%A8%E9%9A%90%E6%82%A3%23" target="weibo">
+央视曝光美甲灯安全隐患（热度：1288361）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%90%8C%E6%A1%86%23" target="weibo">
 丁禹兮王鹤棣同框（热度：1287904）
 </a>
@@ -3407,6 +3413,12 @@ R1SE合体（热度：994873）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD%E7%94%B5%E4%BB%B7%E8%B7%8C%E8%87%B30%E4%BB%A5%E4%B8%8B%23" target="weibo">
 德国电价跌至0以下（热度：975177）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E5%86%89%E6%8A%8A%E5%8F%A3%E7%BA%A2%E7%BB%99%E5%88%98%E6%99%93%E5%BA%86%E7%94%A8%23" target="weibo">
+李小冉把口红给刘晓庆用（热度：973850）
 </a>
 </li>
 
@@ -4977,6 +4989,12 @@ GMM（热度：773720）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B7%AF%E7%B9%81%E8%8A%B1%E7%AA%92%E6%81%AF%E4%B8%83%E5%88%86%E9%92%9F%23" target="weibo">
+一路繁花窒息七分钟（热度：747743）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F%E7%BA%A2%E6%AF%AF%E5%87%BA%E5%9C%BA%E9%A1%BA%E5%BA%8F%23" target="weibo">
 网传星光大赏红毯出场顺序（热度：747624）
 </a>
@@ -5993,24 +6011,6 @@ GDP（热度：675043）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Angelababy%E5%8D%B7%E5%8F%91%E6%8C%91%E6%9F%93%23" target="weibo">
 Angelababy卷发挑染（热度：651249）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%8E%A7%E8%AF%89%E5%92%8C%E6%9D%8E%E6%98%80%E9%94%90%E6%AF%AB%E6%97%A0%E9%BB%98%E5%A5%91%23" target="weibo">
-孟子义控诉和李昀锐毫无默契（热度：650847）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E5%8F%91%E4%BA%865%E4%B8%87%E7%BA%A2%E5%8C%85%23" target="weibo">
-陈哲远发了5万红包（热度：650437）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD9%E5%90%8D%E5%AE%B6%E4%BA%BA%E9%81%87%E9%9A%BE%E7%9A%84%E5%B0%8F%E7%8B%97%E5%B7%B2%E8%A2%AB%E6%94%B6%E5%85%BB%23" target="weibo">
-韩国9名家人遇难的小狗已被收养（热度：650410）
 </a>
 </li>
 

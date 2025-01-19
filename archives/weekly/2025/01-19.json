@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737286516979,
+  "endTime": 1737290277457,
   "band_list": [
     {
       "raw_hot": 2463156,
@@ -41,6 +41,14 @@
       "onboard_time": 1737253938,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1288361,
+      "num": 1288361,
+      "word": "央视曝光美甲灯安全隐患",
+      "onboard_time": 1737286337,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1249195,
@@ -131,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 973850,
+      "num": 973850,
+      "word": "李小冉把口红给刘晓庆用",
+      "onboard_time": 1737287479,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 911767,
       "num": 1145882,
       "word": "漂白尺度绝了",
@@ -169,6 +185,14 @@
       "onboard_time": 1737222734,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 747743,
+      "num": 550108,
+      "word": "一路繁花窒息七分钟",
+      "onboard_time": 1737285498,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 743000,
@@ -275,6 +299,14 @@
       "category": "体育,互联网"
     },
     {
+      "raw_hot": 564442,
+      "num": 564442,
+      "word": "一家5口连续确诊同种癌症",
+      "onboard_time": 1737287419,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 543449,
       "num": 357563,
       "word": "字节跳动旗下多个应用在美停服",
@@ -288,6 +320,14 @@
       "word": "大熊猫古古去世",
       "onboard_time": 1737262458,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 524995,
+      "num": 361652,
+      "word": "骗子转走300万给受害人转1万做生活费",
+      "onboard_time": 1737288799,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -427,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 423014,
+      "num": 182800,
+      "word": "李昀锐倪虹洁演夫妻",
+      "onboard_time": 1737288919,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 403078,
       "num": 378049,
       "word": "封神第二部里有中国人的家园情怀",
@@ -483,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 349397,
+      "num": 349397,
+      "word": "火车站遭陌生人搭讪被骗2000元",
+      "onboard_time": 1737286759,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 347753,
       "num": 354031,
       "word": "春节档影片你想先看哪部",
@@ -508,7 +564,7 @@
     },
     {
       "raw_hot": 338397,
-      "num": 261729,
+      "num": 318045,
       "word": "李宇春出镜感谢观众20年陪伴",
       "onboard_time": 1737284057,
       "rank": 9,
@@ -579,14 +635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 318291,
-      "num": 318291,
-      "word": "一路繁花窒息七分钟",
-      "onboard_time": 1737285498,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 318087,
       "num": 318087,
       "word": "患渐冻症容貌巨变女生已无法说话",
@@ -649,6 +697,14 @@
       "onboard_time": 1737243074,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 300242,
+      "num": 300242,
+      "word": "时代少年团吸血鬼伯爵造型",
+      "onboard_time": 1737285618,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 296514,
@@ -795,6 +851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 234324,
+      "num": 181801,
+      "word": "蛇年春晚有易烊千玺",
+      "onboard_time": 1737289337,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232827,
       "num": 160938,
       "word": "TikTok公司表示白宫无保证平台只能关",
@@ -915,14 +979,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 207885,
-      "num": 175841,
-      "word": "时代少年团吸血鬼伯爵造型",
-      "onboard_time": 1737285618,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
       "raw_hot": 207137,
       "num": 124676,
       "word": "国色芳华单集收视创新高",
@@ -985,6 +1041,14 @@
       "onboard_time": 1737249857,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193859,
+      "num": 193859,
+      "word": "iG",
+      "onboard_time": 1737277818,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 193682,
@@ -1067,6 +1131,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 183186,
+      "num": 183186,
+      "word": "eStar挂牌公告",
+      "onboard_time": 1737287419,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 182914,
       "num": 182914,
       "word": "全世界都在做鸡蛋羹",
@@ -1113,6 +1185,14 @@
       "onboard_time": 1737284839,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 177399,
+      "num": 177399,
+      "word": "做一次美甲手上皮肤黑一两个色号",
+      "onboard_time": 1737286458,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176766,
@@ -1195,6 +1275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 166520,
+      "num": 166520,
+      "word": "白泽一族终究还是只剩下梵樾一人了",
+      "onboard_time": 1737289518,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166322,
       "num": 160176,
       "word": "2025春节档电影片长",
@@ -1227,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161893,
+      "num": 161893,
+      "word": "国色芳华",
+      "onboard_time": 1737203418,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159601,
       "num": 159601,
       "word": "光遇",
@@ -1241,14 +1337,6 @@
       "onboard_time": 1737271397,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 157972,
-      "num": 175416,
-      "word": "iG",
-      "onboard_time": 1737277818,
-      "rank": 29,
-      "category": "电竞"
     },
     {
       "raw_hot": 156660,
@@ -1267,12 +1355,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155871,
+      "num": 367144,
+      "word": "甲状腺癌具有遗传性",
+      "onboard_time": 1737288858,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 154651,
       "num": 113076,
       "word": "封神第二部片长144分钟",
       "onboard_time": 1737214759,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 153983,
+      "num": 153983,
+      "word": "五福临门cp五花八门",
+      "onboard_time": 1737289698,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 153705,
@@ -1427,6 +1531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142595,
+      "num": 142595,
+      "word": "中国36岁男子在柬埔寨坠楼身亡",
+      "onboard_time": 1737290058,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142336,
       "num": 142336,
       "word": "张雅钦不语只是一味刷剧",
@@ -1491,12 +1603,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 137955,
+      "num": 137955,
+      "word": "这款神器千万别让孩子碰",
+      "onboard_time": 1737288919,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137634,
       "num": 137634,
       "word": "猫耳官宣最强阵容",
       "onboard_time": 1737254838,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 137127,
+      "num": 137127,
+      "word": "男子骗老乡火车延误要交钱",
+      "onboard_time": 1737289758,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136792,
@@ -1563,6 +1691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129443,
+      "num": 129443,
+      "word": "Doinb瑞兹好猛",
+      "onboard_time": 1737289939,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 129435,
       "num": 129435,
       "word": "狗妈妈叼着冻僵小狗找人求救",
@@ -1619,6 +1755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123722,
+      "num": 123722,
+      "word": "中国花毽踢出中国功夫",
+      "onboard_time": 1737288559,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121099,
       "num": 121099,
       "word": "白鹿剧宣真诚又体面",
@@ -1633,6 +1777,14 @@
       "onboard_time": 1737216618,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 119748,
+      "num": 119748,
+      "word": "假如国色芳华弹幕有声音",
+      "onboard_time": 1737288919,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 118975,
@@ -1675,12 +1827,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 116122,
+      "num": 116122,
+      "word": "南部战区带弹位南海战备警巡",
+      "onboard_time": 1737290178,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 115901,
       "num": 115901,
       "word": "23日起强冷空气携雨雪降温来袭",
       "onboard_time": 1737255198,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115805,
+      "num": 115805,
+      "word": "肖战射雕英雄传上座率超20%",
+      "onboard_time": 1737288378,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 115179,
@@ -1705,6 +1873,14 @@
       "onboard_time": 1737251837,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112079,
+      "num": 112079,
+      "word": "LPL",
+      "onboard_time": 1737288858,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 111062,
@@ -1744,14 +1920,6 @@
       "word": "国色芳华预告",
       "onboard_time": 1737205520,
       "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 108525,
-      "num": 94638,
-      "word": "国色芳华",
-      "onboard_time": 1737203418,
-      "rank": 40,
       "category": "剧集"
     },
     {
@@ -1899,12 +2067,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 101194,
-      "num": 101194,
-      "word": "央视曝光美甲灯安全隐患",
-      "onboard_time": 1737286337,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 101097,
+      "num": 181695,
+      "word": "无畏Cat在线摇队友",
+      "onboard_time": 1737289518,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 100502,
@@ -2017,14 +2185,6 @@
       "onboard_time": 1737216259,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 94511,
-      "num": 94511,
-      "word": "做一次美甲手上皮肤黑一两个色号",
-      "onboard_time": 1737286458,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94327,
@@ -2148,7 +2308,7 @@
     },
     {
       "raw_hot": 78268,
-      "num": 694318,
+      "num": 912696,
       "word": "没有一个人能空手走出年货大集",
       "onboard_time": 1737277518,
       "rank": 2,
