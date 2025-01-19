@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737257984028,
+  "endTime": 1737260695333,
   "band_list": [
     {
       "raw_hot": 2022883,
@@ -75,8 +75,8 @@
       "category": "国际时政,互联网"
     },
     {
-      "raw_hot": 781432,
-      "num": 781432,
+      "raw_hot": 902283,
+      "num": 902283,
       "word": "TikTok通知美用户将暂停服务",
       "onboard_time": 1737254657,
       "rank": 9,
@@ -97,6 +97,14 @@
       "onboard_time": 1737253938,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 646017,
+      "num": 349615,
+      "word": "杨子称离婚后负责孩子所有费用",
+      "onboard_time": 1737256938,
+      "rank": 28,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 615427,
@@ -243,14 +251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 349615,
-      "num": 349615,
-      "word": "杨子称离婚后负责孩子所有费用",
-      "onboard_time": 1737256938,
-      "rank": 28,
-      "category": "艺人,民生新闻"
-    },
-    {
       "raw_hot": 342526,
       "num": 163238,
       "word": "倪萍蔡明蛐蛐刘晓庆",
@@ -315,12 +315,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 291045,
+      "num": 227694,
+      "word": "蛇年春晚后台主持人阵容官宣",
+      "onboard_time": 1737259037,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 287005,
       "num": 329927,
       "word": "徐梦桃世界杯夺冠",
       "onboard_time": 1737256578,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 278593,
+      "num": 278593,
+      "word": "高压锅放过赵今麦吧",
+      "onboard_time": 1737260057,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 273975,
@@ -387,12 +403,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 240837,
+      "num": 240837,
+      "word": "恋与深空",
+      "onboard_time": 1737258918,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 232827,
       "num": 160938,
       "word": "TikTok公司表示白宫无保证平台只能关",
       "onboard_time": 1737190818,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 232558,
+      "num": 219041,
+      "word": "从数学47分到北大数学教授",
+      "onboard_time": 1737256697,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 228583,
@@ -483,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192638,
+      "num": 192638,
+      "word": "射雕英雄传侠之大者预售断层第一",
+      "onboard_time": 1737258258,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 191907,
       "num": 191907,
       "word": "韩国法院批准对尹锡悦拘留令",
@@ -492,7 +532,7 @@
     },
     {
       "raw_hot": 190414,
-      "num": 156952,
+      "num": 196530,
       "word": "射雕英雄传预售破1000万",
       "onboard_time": 1737254177,
       "rank": 25,
@@ -539,6 +579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 174175,
+      "num": 174175,
+      "word": "昆凌与周杰伦10周年合体跳舞秀恩爱",
+      "onboard_time": 1737259457,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173238,
       "num": 288063,
       "word": "尹锡悦被羁押最长可达20天",
@@ -561,14 +609,6 @@
       "onboard_time": 1737255557,
       "rank": 35,
       "category": "电影,剧集"
-    },
-    {
-      "raw_hot": 164961,
-      "num": 164961,
-      "word": "从数学47分到北大数学教授",
-      "onboard_time": 1737256697,
-      "rank": 39,
-      "category": "教育"
     },
     {
       "raw_hot": 156660,
@@ -619,11 +659,43 @@
       "category": "演出"
     },
     {
+      "raw_hot": 142992,
+      "num": 142992,
+      "word": "夏以昼触痛讯号",
+      "onboard_time": 1737258797,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 141511,
       "num": 141511,
       "word": "蒋长扬许诺何惟芳不离不弃",
       "onboard_time": 1737243074,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 140719,
+      "num": 140719,
+      "word": "第一批回家的00后开始拜财神了",
+      "onboard_time": 1737260237,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 140513,
+      "num": 140513,
+      "word": "这个杨紫李现也太甜了",
+      "onboard_time": 1737259697,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 139134,
+      "num": 197144,
+      "word": "赵今麦你怎么睡得着的",
+      "onboard_time": 1737260417,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -723,12 +795,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 117780,
+      "num": 331713,
+      "word": "腿友们断骨增高结果像一场赌博",
+      "onboard_time": 1737259518,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116840,
       "num": 116840,
       "word": "多家手机厂商降价抢占国补市场",
       "onboard_time": 1737256398,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 115901,
+      "num": 115901,
+      "word": "23日起强冷空气携雨雪降温来袭",
+      "onboard_time": 1737255198,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115179,
@@ -779,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108266,
+      "num": 108266,
+      "word": "格林受伤",
+      "onboard_time": 1737260358,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107797,
       "num": 94472,
       "word": "李现对的终究会走到最后",
@@ -819,12 +915,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105099,
+      "num": 105099,
+      "word": "整治网上互撕谩骂和拉踩引战等行为",
+      "onboard_time": 1737260658,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104743,
       "num": 104743,
       "word": "小牛掉水沟母牛哀鸣向旁人求助",
       "onboard_time": 1737210921,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103652,
+      "num": 103652,
+      "word": "奇才vs勇士",
+      "onboard_time": 1737260598,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 101875,
@@ -873,14 +985,6 @@
       "onboard_time": 1737257658,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 96812,
-      "num": 96812,
-      "word": "23日起强冷空气携雨雪降温来袭",
-      "onboard_time": 1737255198,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96411,
@@ -1091,6 +1195,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 61047,
+      "num": 217939,
+      "word": "齐广璞决赛第一轮排第一",
+      "onboard_time": 1737260119,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60900,
       "num": 326324,
       "word": "韩检方或2月5日前后起诉尹锡悦",
@@ -1195,6 +1307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 36492,
+      "num": 1011177,
+      "word": "中式纹样里祝福满满",
+      "onboard_time": 1737236350,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 35028,
       "num": 35028,
       "word": "苏新皓和粉丝隔空握手",
@@ -1241,14 +1361,6 @@
       "onboard_time": 1737243074,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 30056,
-      "num": 1011177,
-      "word": "中式纹样里祝福满满",
-      "onboard_time": 1737236350,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 29265,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/19 11:39:44
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/19 12:24:55
 </p>
 </blockquote>
 <p>
@@ -3783,6 +3783,12 @@ A股（热度：927066）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23TikTok%E9%80%9A%E7%9F%A5%E7%BE%8E%E7%94%A8%E6%88%B7%E5%B0%86%E6%9A%82%E5%81%9C%E6%9C%8D%E5%8A%A1%23" target="weibo">
+TikTok通知美用户将暂停服务（热度：902283）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%20%E6%AD%BB%E5%98%B4%E5%BF%AB%E5%88%AB%E7%AC%91%E4%BA%86%23" target="weibo">
 白鹿 死嘴快别笑了（热度：899500）
 </a>
@@ -4619,12 +4625,6 @@ B站拿下春晚转播权（热度：825759）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%9E%9C%E8%AE%A4%E8%AF%81%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E6%98%AF%E7%88%86%E5%89%A7%23" target="weibo">
 芒果认证国色芳华是爆剧（热度：782624）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23TikTok%E9%80%9A%E7%9F%A5%E7%BE%8E%E7%94%A8%E6%88%B7%E5%B0%86%E6%9A%82%E5%81%9C%E6%9C%8D%E5%8A%A1%23" target="weibo">
-TikTok通知美用户将暂停服务（热度：781432）
 </a>
 </li>
 
@@ -5985,6 +5985,12 @@ Angelababy卷发挑染（热度：651249）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%AD%90%E7%A7%B0%E7%A6%BB%E5%A9%9A%E5%90%8E%E8%B4%9F%E8%B4%A3%E5%AD%A9%E5%AD%90%E6%89%80%E6%9C%89%E8%B4%B9%E7%94%A8%23" target="weibo">
+杨子称离婚后负责孩子所有费用（热度：646017）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%87%AA%E9%A9%BE%E9%98%BF%E5%A7%A8%E8%8B%8F%E6%95%8F%E7%A7%B0%E5%B7%B2%E8%BD%AC%E7%BB%99%E7%94%B7%E6%96%B916%E4%B8%87%23" target="weibo">
 自驾阿姨苏敏称已转给男方16万（热度：645882）
 </a>
@@ -6005,12 +6011,6 @@ Angelababy卷发挑染（热度：651249）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E5%AD%90%E4%B8%AD%E5%BF%83%E8%B7%91%E8%B7%AF%E5%AE%9D%E5%A6%88%E5%93%AD%E6%B1%82%E6%9C%88%E5%AB%82%E7%95%99%E4%B8%8B%23" target="weibo">
 月子中心跑路宝妈哭求月嫂留下（热度：643543）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E8%83%96%E5%93%A5%E5%AE%A3%E5%B8%83%E5%A6%BB%E5%AD%90%E5%86%8D%E6%AC%A1%E6%80%80%E5%AD%95%23" target="weibo">
-南京胖哥宣布妻子再次怀孕（热度：643129）
 </a>
 </li>
 
