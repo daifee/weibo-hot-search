@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737408934489,
+  "endTime": 1737411628122,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -2139,6 +2139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 240681,
+      "num": 88626,
+      "word": "拜登给特朗普留了一封信",
+      "onboard_time": 1737400872,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 239344,
       "num": 239344,
       "word": "刘浩存首支全球广告",
@@ -3129,14 +3137,6 @@
       "onboard_time": 1737366858,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 175722,
-      "num": 58404,
-      "word": "拜登给特朗普留了一封信",
-      "onboard_time": 1737400872,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 175465,
@@ -4363,6 +4363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130372,
+      "num": 130372,
+      "word": "电视剧漂白被指抄袭",
+      "onboard_time": 1737401951,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129907,
       "num": 129907,
       "word": "90后女博士的工作日常是摸鱼",
@@ -5579,14 +5587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 89745,
-      "num": 59283,
-      "word": "电视剧漂白被指抄袭",
-      "onboard_time": 1737401951,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 88979,
       "num": 175975,
       "word": "洛城德比",
@@ -6491,6 +6491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 26266,
+      "num": 331136,
+      "word": "中国的人造太阳有重大突破",
+      "onboard_time": 1737371538,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25986,
       "num": 25986,
       "word": "苏新皓paranoia直拍",
@@ -6513,14 +6521,6 @@
       "onboard_time": 1737400031,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 25592,
-      "num": 331136,
-      "word": "中国的人造太阳有重大突破",
-      "onboard_time": 1737371538,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 25247,
@@ -6588,7 +6588,7 @@
     },
     {
       "raw_hot": 21560,
-      "num": 21560,
+      "num": 22041,
       "word": "央视曝光办讲座卖神药骗局",
       "onboard_time": 1737404891,
       "rank": 46,
@@ -6657,6 +6657,14 @@
       "onboard_time": 1737313512,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 19607,
+      "num": 22413,
+      "word": "射雕预告诠释中国武侠为何生生不息",
+      "onboard_time": 1737404172,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 19207,
@@ -6739,14 +6747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17087,
-      "num": 17087,
-      "word": "射雕预告诠释中国武侠为何生生不息",
-      "onboard_time": 1737404172,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 17042,
       "num": 26777,
       "word": "文化中国行大寒节气",
@@ -6761,6 +6761,14 @@
       "onboard_time": 1737228731,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 16194,
+      "num": 21845,
+      "word": "成毅长安二十四计片场明信片",
+      "onboard_time": 1737410412,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 15315,
@@ -6832,6 +6840,14 @@
       "word": "热心网友教老外快速入门北京话",
       "onboard_time": 1737235151,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12538,
+      "num": 21981,
+      "word": "悬崖峭壁上的守电人",
+      "onboard_time": 1737409992,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
