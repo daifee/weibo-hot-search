@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737372965305,
+  "endTime": 1737376949879,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -6275,6 +6275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 804904,
+      "num": 323070,
+      "word": "训犬师谈网红狗艾特洗澡死亡",
+      "onboard_time": 1737373278,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 803669,
       "num": 333647,
       "word": "父亲卖早餐6岁女儿独自在家坠楼",
@@ -7329,6 +7337,14 @@
       "onboard_time": 1736687359,
       "rank": 14,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 717928,
+      "num": 717928,
+      "word": "陈震赔付领克500万元违约金",
+      "onboard_time": 1737373157,
+      "rank": 1,
+      "category": "汽车,网红"
     },
     {
       "raw_hot": 714364,
@@ -9803,6 +9819,14 @@
       "category": "体育,互联网"
     },
     {
+      "raw_hot": 572113,
+      "num": 572113,
+      "word": "漂白最炸裂的一集",
+      "onboard_time": 1737372378,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 571522,
       "num": 272761,
       "word": "醉酒女乘客疯狂撕咬出租车司机",
@@ -11105,6 +11129,14 @@
       "onboard_time": 1736925740,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 508242,
+      "num": 508242,
+      "word": "樊振东参加米兰时装周",
+      "onboard_time": 1737374957,
+      "rank": 4,
+      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 508064,
@@ -12528,6 +12560,14 @@
       "word": "鸣龙少年",
       "onboard_time": 1736007934,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 452691,
+      "num": 452691,
+      "word": "白鹿把敖瑞鹏哄成胚胎了",
+      "onboard_time": 1737372858,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -14361,6 +14401,14 @@
       "onboard_time": 1736237425,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 398965,
+      "num": 398965,
+      "word": "哈利波特有望2027年落沪",
+      "onboard_time": 1737372077,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 398586,
@@ -18539,6 +18587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 307596,
+      "num": 307596,
+      "word": "李小冉你好好演戏唱歌我另有人选",
+      "onboard_time": 1737368538,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 307579,
       "num": 332568,
       "word": "李现几个镜头就让风流倜傥有了实感",
@@ -19537,6 +19593,14 @@
       "onboard_time": 1737166696,
       "rank": 10,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 290731,
+      "num": 290731,
+      "word": "无限暖暖",
+      "onboard_time": 1736395583,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 290490,
@@ -21099,6 +21163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 267893,
+      "num": 267893,
+      "word": "樊振东小少爷的既视感",
+      "onboard_time": 1737375798,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 267892,
       "num": 267892,
       "word": "湘潭大学投毒案受害者是秋水仙碱中毒",
@@ -21177,6 +21249,14 @@
       "onboard_time": 1736901920,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 266446,
+      "num": 266446,
+      "word": "一听这些歌就知道快过年了",
+      "onboard_time": 1737375737,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 266422,
@@ -22961,14 +23041,6 @@
       "onboard_time": 1736150729,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 242842,
-      "num": 242842,
-      "word": "李小冉你好好演戏唱歌我另有人选",
-      "onboard_time": 1737368538,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 242606,
@@ -25099,14 +25171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 219292,
-      "num": 251839,
-      "word": "无限暖暖",
-      "onboard_time": 1736395583,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 219131,
       "num": 219131,
       "word": "INTO1敢不敢合体",
@@ -26065,14 +26129,6 @@
       "onboard_time": 1736312662,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 211883,
-      "num": 211883,
-      "word": "漂白最炸裂的一集",
-      "onboard_time": 1737372378,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 211853,
@@ -29651,6 +29707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193552,
+      "num": 193552,
+      "word": "射雕排片涨了",
+      "onboard_time": 1737370998,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 193531,
       "num": 182480,
       "word": "雷军谈极越事件",
@@ -31387,6 +31451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 186327,
+      "num": 186327,
+      "word": "陈朵作为毒物培养皿活了16年",
+      "onboard_time": 1737375558,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186309,
       "num": 186309,
       "word": "首个非遗春节你们玩这么花",
@@ -32155,6 +32227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182140,
+      "num": 182140,
+      "word": "三名男童踢踹残障男孩遭路人呵斥",
+      "onboard_time": 1737376398,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182121,
       "num": 248262,
       "word": "Bin回应S14决赛失利被喷",
@@ -32785,14 +32865,6 @@
       "onboard_time": 1737120319,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 178529,
-      "num": 178529,
-      "word": "射雕排片涨了",
-      "onboard_time": 1737370998,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 178392,
@@ -34595,6 +34667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 169891,
+      "num": 169891,
+      "word": "相思令开播单人剧照",
+      "onboard_time": 1737373337,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169797,
       "num": 139581,
       "word": "由于老妈把我和年货关一个屋",
@@ -35809,6 +35889,14 @@
       "onboard_time": 1735813820,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164371,
+      "num": 164371,
+      "word": "张雅钦做女主做女二都精彩",
+      "onboard_time": 1737372618,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 164298,
@@ -37075,6 +37163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 158747,
+      "num": 158747,
+      "word": "肖战拒绝蒙语后期配音",
+      "onboard_time": 1737374778,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 158697,
       "num": 405286,
       "word": "村民称超百亩地被挖坑取土没法再种",
@@ -37201,14 +37297,6 @@
       "onboard_time": 1736834838,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 158185,
-      "num": 158185,
-      "word": "白鹿把敖瑞鹏哄成胚胎了",
-      "onboard_time": 1737372858,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 158143,
@@ -37809,6 +37897,14 @@
       "onboard_time": 1735896619,
       "rank": 19,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 155749,
+      "num": 186502,
+      "word": "孙颖莎的福字可爱",
+      "onboard_time": 1737376217,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 155716,
@@ -40009,14 +40105,6 @@
       "onboard_time": 1736340563,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 145932,
-      "num": 145932,
-      "word": "张雅钦做女主做女二都精彩",
-      "onboard_time": 1737372618,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 145901,
@@ -42595,14 +42683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 135426,
-      "num": 135426,
-      "word": "哈利波特有望2027年落沪",
-      "onboard_time": 1737372077,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135417,
       "num": 135417,
       "word": "山里娃儿有了空中校车",
@@ -45043,6 +45123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125546,
+      "num": 125242,
+      "word": "虞书欣新专辑海外影响力",
+      "onboard_time": 1737376398,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 125528,
       "num": 382946,
       "word": "想花40万装修500平的家安装要50万",
@@ -45177,6 +45265,14 @@
       "onboard_time": 1736859319,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 125158,
+      "num": 125158,
+      "word": "射雕主创微博春节电影联欢早会ID",
+      "onboard_time": 1737376637,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 125111,
@@ -49627,6 +49723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106404,
+      "num": 106404,
+      "word": "丁禹兮2024剧播艺人涨粉排行TOP1",
+      "onboard_time": 1737374297,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106399,
       "num": 102554,
       "word": "西藏与尼泊尔同日地震是同一起",
@@ -49825,6 +49929,14 @@
       "onboard_time": 1735749199,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105618,
+      "num": 105618,
+      "word": "付航的Passion火到了国外",
+      "onboard_time": 1737372798,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 105615,
@@ -50539,6 +50651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102151,
+      "num": 102151,
+      "word": "3月起公立医疗机构取消门诊预交金",
+      "onboard_time": 1737374658,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102077,
       "num": 102077,
       "word": "郑钦文谈对失败的感受",
@@ -50577,6 +50697,14 @@
       "onboard_time": 1736317220,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 101714,
+      "num": 101714,
+      "word": "朱志鑫不语只是一味的拿钻三",
+      "onboard_time": 1737376879,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 101666,
@@ -52937,6 +53065,14 @@
       "onboard_time": 1736386040,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85631,
+      "num": 102285,
+      "word": "盛李豪选拔赛第一",
+      "onboard_time": 1737374478,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 85619,
@@ -60001,6 +60137,14 @@
       "onboard_time": 1735891520,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 32436,
+      "num": 310247,
+      "word": "又被Prada秀场惊艳到了",
+      "onboard_time": 1737374118,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 32425,

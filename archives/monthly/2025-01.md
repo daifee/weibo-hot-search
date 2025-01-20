@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/20 19:36:05
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/20 20:42:29
 </p>
 </blockquote>
 <p>
@@ -4719,6 +4719,12 @@ B站拿下春晚转播权（热度：825759）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%AD%E7%8A%AC%E5%B8%88%E8%B0%88%E7%BD%91%E7%BA%A2%E7%8B%97%E8%89%BE%E7%89%B9%E6%B4%97%E6%BE%A1%E6%AD%BB%E4%BA%A1%23" target="weibo">
+训犬师谈网红狗艾特洗澡死亡（热度：804904）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%8D%96%E6%97%A9%E9%A4%906%E5%B2%81%E5%A5%B3%E5%84%BF%E7%8B%AC%E8%87%AA%E5%9C%A8%E5%AE%B6%E5%9D%A0%E6%A5%BC%23" target="weibo">
 父亲卖早餐6岁女儿独自在家坠楼（热度：803669）
 </a>
@@ -5511,6 +5517,12 @@ SM新女团 SMTOWN压轴（热度：743773）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9C%87%E8%B5%94%E4%BB%98%E9%A2%86%E5%85%8B500%E4%B8%87%E5%85%83%E8%BF%9D%E7%BA%A6%E9%87%91%23" target="weibo">
+陈震赔付领克500万元违约金（热度：717928）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%B0%8F%E7%8B%97%E4%B8%8E%E9%81%87%E9%9A%BE%E5%AE%B6%E4%BA%BA%E5%91%8A%E5%88%AB%E5%85%A8%E7%A8%8B%E5%AE%89%E9%9D%99%23" target="weibo">
 韩国小狗与遇难家人告别全程安静（热度：714364）
 </a>
@@ -5999,18 +6011,6 @@ GDP（热度：675043）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%20%E6%98%AF%E4%BD%A0%E6%8B%BF%E4%BA%86%E4%BB%96%E5%BE%AE%E5%8D%9A%E8%B4%A6%E5%8F%B7%E5%90%97%23" target="weibo">
 孟子义 是你拿了他微博账号吗（热度：674261）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%9C%E5%A6%B9%E7%89%88%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23" target="weibo">
-甜妹版迪丽热巴（热度：674075）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%AE%89%E9%97%A8%E6%94%BE%E9%A3%9E10000%E5%A4%9A%E5%8F%AA%E5%92%8C%E5%B9%B3%E9%B8%BD%23" target="weibo">
-天安门放飞10000多只和平鸽（热度：674003）
 </a>
 </li>
 
