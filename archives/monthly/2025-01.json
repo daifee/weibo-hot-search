@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737390442496,
+  "endTime": 1737391345870,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -105,6 +105,14 @@
       "onboard_time": 1735660407,
       "rank": 0,
       "category": "情感,民生新闻"
+    },
+    {
+      "raw_hot": 10158319,
+      "num": 10158319,
+      "word": "台湾地震",
+      "onboard_time": 1737391036,
+      "rank": 0,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 10121552,
@@ -465,6 +473,14 @@
       "onboard_time": 1737038179,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 3090431,
+      "num": 3090431,
+      "word": "台湾台南6.2级地震",
+      "onboard_time": 1737390918,
+      "rank": 1,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 3087284,
@@ -5409,6 +5425,14 @@
       "onboard_time": 1737377117,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 902676,
+      "num": 902676,
+      "word": "四川内江4.4级地震",
+      "onboard_time": 1737384201,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 902283,
@@ -11915,6 +11939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 479843,
+      "num": 479843,
+      "word": "赵今麦受刑戏看出幻肢痛",
+      "onboard_time": 1737387737,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 479711,
       "num": 333886,
       "word": "肖战庄达菲没事哒没事哒",
@@ -12577,14 +12609,6 @@
       "onboard_time": 1737076697,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 453577,
-      "num": 453577,
-      "word": "赵今麦受刑戏看出幻肢痛",
-      "onboard_time": 1737387737,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 453545,
@@ -17019,6 +17043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 339236,
+      "num": 273916,
+      "word": "特朗普登车出发前往白宫",
+      "onboard_time": 1737388039,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 339064,
       "num": 339064,
       "word": "俄大使馆回应假冒俄罗斯商品事件",
@@ -17601,14 +17633,6 @@
       "onboard_time": 1736917400,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 327981,
-      "num": 327981,
-      "word": "四川内江4.4级地震",
-      "onboard_time": 1737384201,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 327861,
@@ -19337,14 +19361,6 @@
       "onboard_time": 1735883059,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 297435,
-      "num": 244117,
-      "word": "特朗普登车出发前往白宫",
-      "onboard_time": 1737388039,
-      "rank": 11,
-      "category": "国际时政"
     },
     {
       "raw_hot": 297278,
@@ -39971,6 +39987,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 147784,
+      "num": 147784,
+      "word": "吴尊杀回亲子节目",
+      "onboard_time": 1737389657,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147759,
       "num": 147759,
       "word": "李昀锐说未来有可能出专辑",
@@ -51691,14 +51715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98796,
-      "num": 98796,
-      "word": "吴尊杀回亲子节目",
-      "onboard_time": 1737389657,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 98704,
       "num": 199101,
       "word": "球迷告别广州队",
@@ -52393,6 +52409,14 @@
       "onboard_time": 1736144362,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 95040,
+      "num": 95040,
+      "word": "陈丽君含泪致谢",
+      "onboard_time": 1737390379,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 95024,
@@ -54915,6 +54939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 75248,
+      "num": 75248,
+      "word": "女子身在辐中不知辐",
+      "onboard_time": 1737390918,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75235,
       "num": 264034,
       "word": "狼队挂牌公告",
@@ -55515,6 +55547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69913,
+      "num": 250482,
+      "word": "抢票加速卡的尽头还是12306",
+      "onboard_time": 1737388698,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69866,
       "num": 70602,
       "word": "袭击民警2人以上的将从重处罚",
@@ -55681,14 +55721,6 @@
       "onboard_time": 1735634300,
       "rank": 19,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 67994,
-      "num": 67994,
-      "word": "陈丽君含泪致谢",
-      "onboard_time": 1737390379,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 67960,
@@ -56105,14 +56137,6 @@
       "onboard_time": 1736739198,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 64312,
-      "num": 250482,
-      "word": "抢票加速卡的尽头还是12306",
-      "onboard_time": 1737388698,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 64221,
@@ -58019,6 +58043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 50724,
+      "num": 89191,
+      "word": "交警人还没到嘴先出警",
+      "onboard_time": 1737388158,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50710,
       "num": 80066,
       "word": "宁夏启动四级地震应急响应",
@@ -58233,6 +58265,14 @@
       "onboard_time": 1735717219,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 49104,
+      "num": 278091,
+      "word": "代表建议建议四川试行2.5天休假",
+      "onboard_time": 1737391036,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49082,
@@ -58625,6 +58665,14 @@
       "onboard_time": 1736939539,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46284,
+      "num": 138733,
+      "word": "临溪止矣画美人鱼祁煜",
+      "onboard_time": 1737390918,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 46238,
@@ -60012,7 +60060,7 @@
     },
     {
       "raw_hot": 36588,
-      "num": 781322,
+      "num": 1939740,
       "word": "2025亚冬会火种今日成功采集",
       "onboard_time": 1737381800,
       "rank": 2,

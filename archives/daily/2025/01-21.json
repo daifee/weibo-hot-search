@@ -1,7 +1,23 @@
 {
   "startTime": 1737390442496,
-  "endTime": 1737390442496,
+  "endTime": 1737391345870,
   "band_list": [
+    {
+      "raw_hot": 10158319,
+      "num": 10158319,
+      "word": "台湾地震",
+      "onboard_time": 1737391036,
+      "rank": 0,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 3090431,
+      "num": 3090431,
+      "word": "台湾台南6.2级地震",
+      "onboard_time": 1737390918,
+      "rank": 1,
+      "category": "突发/灾害"
+    },
     {
       "raw_hot": 1371308,
       "num": 1371308,
@@ -12,11 +28,19 @@
     },
     {
       "raw_hot": 1253426,
-      "num": 115671,
+      "num": 167470,
       "word": "艾特经历40次火龙果12次心肺复苏",
       "onboard_time": 1737383180,
       "rank": 20,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 902676,
+      "num": 902676,
+      "word": "四川内江4.4级地震",
+      "onboard_time": 1737384201,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 771814,
@@ -27,24 +51,24 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 704666,
-      "num": 246962,
+      "raw_hot": 738041,
+      "num": 277181,
       "word": "印度女医生奸杀案宣判",
       "onboard_time": 1737377178,
       "rank": 10,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 453577,
-      "num": 453577,
+      "raw_hot": 479843,
+      "num": 479843,
       "word": "赵今麦受刑戏看出幻肢痛",
       "onboard_time": 1737387737,
       "rank": 3,
       "category": "剧集"
     },
     {
-      "raw_hot": 373671,
-      "num": 373671,
+      "raw_hot": 445678,
+      "num": 445678,
       "word": "大学生开房洗衣服被吐槽薅羊毛",
       "onboard_time": 1737363078,
       "rank": 4,
@@ -52,11 +76,19 @@
     },
     {
       "raw_hot": 359422,
-      "num": 264034,
+      "num": 299380,
       "word": "留几手说不想骗葛夕了",
       "onboard_time": 1737384081,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 339236,
+      "num": 273916,
+      "word": "特朗普登车出发前往白宫",
+      "onboard_time": 1737388039,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 311724,
@@ -67,52 +99,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 297435,
-      "num": 244117,
-      "word": "特朗普登车出发前往白宫",
-      "onboard_time": 1737388039,
-      "rank": 11,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 284684,
-      "num": 240586,
+      "num": 257124,
       "word": "马锐为Angelababy发声",
       "onboard_time": 1737383900,
       "rank": 12,
       "category": "剧集"
     },
     {
-      "raw_hot": 275333,
-      "num": 115324,
-      "word": "张雪峰称给公司350人发2000万年终奖",
-      "onboard_time": 1737379818,
-      "rank": 21,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 271722,
-      "num": 114943,
+      "raw_hot": 284414,
+      "num": 158831,
       "word": "训犬师谈网红狗艾特洗澡死亡",
       "onboard_time": 1737373278,
       "rank": 22,
       "category": "网红"
     },
     {
+      "raw_hot": 275333,
+      "num": 158326,
+      "word": "张雪峰称给公司350人发2000万年终奖",
+      "onboard_time": 1737379818,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
       "raw_hot": 268995,
-      "num": 236102,
+      "num": 244407,
       "word": "周锐张馨月偶练之前就在一起了",
       "onboard_time": 1737386361,
       "rank": 13,
       "category": "网红"
-    },
-    {
-      "raw_hot": 266044,
-      "num": 266044,
-      "word": "四川内江4.4级地震",
-      "onboard_time": 1737384201,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 232661,
@@ -121,6 +137,14 @@
       "onboard_time": 1737360798,
       "rank": 14,
       "category": "国际时政,互联网"
+    },
+    {
+      "raw_hot": 205513,
+      "num": 256154,
+      "word": "一听这些歌就知道快过年了",
+      "onboard_time": 1737375737,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191268,
@@ -148,7 +172,7 @@
     },
     {
       "raw_hot": 166076,
-      "num": 114266,
+      "num": 116139,
       "word": "吴尊neinei新综来了",
       "onboard_time": 1737383180,
       "rank": 23,
@@ -156,19 +180,19 @@
     },
     {
       "raw_hot": 165554,
-      "num": 113731,
+      "num": 138036,
       "word": "麦琳商业价值超李行亮",
       "onboard_time": 1737377117,
       "rank": 25,
       "category": "艺人"
     },
     {
-      "raw_hot": 156300,
-      "num": 256154,
-      "word": "一听这些歌就知道快过年了",
-      "onboard_time": 1737375737,
-      "rank": 8,
-      "category": "民生新闻"
+      "raw_hot": 147784,
+      "num": 147784,
+      "word": "吴尊杀回亲子节目",
+      "onboard_time": 1737389657,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 141505,
@@ -180,7 +204,7 @@
     },
     {
       "raw_hot": 141267,
-      "num": 113169,
+      "num": 118617,
       "word": "上班后对外貌要求降到了0",
       "onboard_time": 1737385159,
       "rank": 26,
@@ -188,7 +212,7 @@
     },
     {
       "raw_hot": 140083,
-      "num": 112528,
+      "num": 122776,
       "word": "亚冬会开幕式导演盛赞王一博",
       "onboard_time": 1737377057,
       "rank": 27,
@@ -243,20 +267,20 @@
       "category": "汽车,网红"
     },
     {
-      "raw_hot": 98796,
-      "num": 98796,
-      "word": "吴尊杀回亲子节目",
-      "onboard_time": 1737389657,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 95749,
-      "num": 95749,
+      "raw_hot": 97533,
+      "num": 97533,
       "word": "漂白 赵今麦演技",
       "onboard_time": 1737386898,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95040,
+      "num": 95040,
+      "word": "陈丽君含泪致谢",
+      "onboard_time": 1737390379,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 93169,
@@ -275,12 +299,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84656,
+      "num": 84656,
+      "word": "刘乐全英推荐封神2",
+      "onboard_time": 1737381379,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 84567,
       "num": 84567,
       "word": "虞书欣双轨剧组日常",
       "onboard_time": 1737387080,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84158,
+      "num": 84158,
+      "word": "外交部回应X不被允许在中国运营",
+      "onboard_time": 1737366017,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 83496,
@@ -299,14 +339,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 83337,
-      "num": 83337,
-      "word": "外交部回应X不被允许在中国运营",
-      "onboard_time": 1737366017,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 79628,
       "num": 79628,
       "word": "异人之下 王也角色",
@@ -323,20 +355,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 78605,
-      "num": 78605,
-      "word": "刘乐全英推荐封神2",
-      "onboard_time": 1737381379,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 77323,
       "num": 77323,
       "word": "俄方调侃泽连斯基未出席特朗普就职典礼",
       "onboard_time": 1737390259,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 75248,
+      "num": 75248,
+      "word": "女子身在辐中不知辐",
+      "onboard_time": 1737390918,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71072,
@@ -371,6 +403,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 69913,
+      "num": 250482,
+      "word": "抢票加速卡的尽头还是12306",
+      "onboard_time": 1737388698,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68629,
       "num": 68629,
       "word": "易烊千玺王一博蛇年春晚彩排路透",
@@ -379,24 +419,40 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 67994,
-      "num": 67994,
-      "word": "陈丽君含泪致谢",
-      "onboard_time": 1737390379,
+      "raw_hot": 66915,
+      "num": 66915,
+      "word": "相思令空降播出",
+      "onboard_time": 1737360079,
       "rank": 49,
-      "category": "艺人"
+      "category": "剧集"
     },
     {
-      "raw_hot": 64312,
-      "num": 250482,
-      "word": "抢票加速卡的尽头还是12306",
-      "onboard_time": 1737388698,
+      "raw_hot": 50724,
+      "num": 89191,
+      "word": "交警人还没到嘴先出警",
+      "onboard_time": 1737388158,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49104,
+      "num": 278091,
+      "word": "代表建议建议四川试行2.5天休假",
+      "onboard_time": 1737391036,
       "rank": 9,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23677,
-      "num": 490613,
+      "raw_hot": 46284,
+      "num": 138733,
+      "word": "临溪止矣画美人鱼祁煜",
+      "onboard_time": 1737390918,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 25041,
+      "num": 1939740,
       "word": "2025亚冬会火种今日成功采集",
       "onboard_time": 1737381800,
       "rank": 2,

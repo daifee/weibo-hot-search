@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737390442496,
+  "endTime": 1737391345870,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -105,6 +105,14 @@
       "onboard_time": 1735660407,
       "rank": 0,
       "category": "情感,民生新闻"
+    },
+    {
+      "raw_hot": 10158319,
+      "num": 10158319,
+      "word": "台湾地震",
+      "onboard_time": 1737391036,
+      "rank": 0,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 10121552,
@@ -465,6 +473,14 @@
       "onboard_time": 1737038179,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 3090431,
+      "num": 3090431,
+      "word": "台湾台南6.2级地震",
+      "onboard_time": 1737390918,
+      "rank": 1,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 3087284,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1736670679,
       "rank": 45,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1509855,
-      "num": 1509855,
-      "word": "对金银细软有了更深刻的理解",
-      "onboard_time": 1737169338,
-      "rank": 10,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 1509073,
-      "num": 1509073,
-      "word": "微博之夜名场面又要来了",
-      "onboard_time": 1736423003,
-      "rank": 1,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [

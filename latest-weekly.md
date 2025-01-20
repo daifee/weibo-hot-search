@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/19 00:24:27 ~ 2025/01/21 00:27:22
+本榜单时间：2025/01/19 00:24:27 ~ 2025/01/21 00:42:25
 </p>
 </blockquote>
 <p>
@@ -13,6 +13,18 @@
 热榜
 </h2>
 <ol>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87%23" target="weibo">
+台湾地震（热度：10158319）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%8F%B0%E5%8D%976.2%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
+台湾台南6.2级地震（热度：3090431）
+</a>
+</li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A9%E7%A7%B0%E8%89%BE%E7%89%B9%E5%8E%BB%E4%B8%96%E6%98%AF%E8%B0%8B%E6%9D%80%E6%A1%88%23" target="weibo">
@@ -359,6 +371,12 @@ iG（热度：923121）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BA%A6%E7%90%B3%E5%95%86%E4%B8%9A%E4%BB%B7%E5%80%BC%E8%B6%85%E6%9D%8E%E8%A1%8C%E4%BA%AE%23" target="weibo">
 麦琳商业价值超李行亮（热度：905445）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%86%85%E6%B1%9F4.4%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
+四川内江4.4级地震（热度：902676）
 </a>
 </li>
 
@@ -759,6 +777,12 @@ Doinb说跪下（热度：854922）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%E5%8F%97%E5%88%91%E6%88%8F%E7%9C%8B%E5%87%BA%E5%B9%BB%E8%82%A2%E7%97%9B%23" target="weibo">
+赵今麦受刑戏看出幻肢痛（热度：479843）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%BA%84%E8%BE%BE%E8%8F%B2%E6%B2%A1%E4%BA%8B%E5%93%92%E6%B2%A1%E4%BA%8B%E5%93%92%23" target="weibo">
 肖战庄达菲没事哒没事哒（热度：479711）
 </a>
@@ -815,12 +839,6 @@ Doinb说跪下（热度：854922）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E4%BA%BA%E5%91%8A%E8%AF%89%E6%88%91%E9%A9%AC%E9%BE%99%E7%A9%BF%E5%A4%A7%E8%A1%A3%E8%BF%99%E4%B9%88%E5%B8%85%23" target="weibo">
 没人告诉我马龙穿大衣这么帅（热度：454987）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%E5%8F%97%E5%88%91%E6%88%8F%E7%9C%8B%E5%87%BA%E5%B9%BB%E8%82%A2%E7%97%9B%23" target="weibo">
-赵今麦受刑戏看出幻肢痛（热度：453577）
 </a>
 </li>
 
@@ -1101,6 +1119,12 @@ TikTok在美国应用商店下架（热度：366993）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%99%BB%E8%BD%A6%E5%87%BA%E5%8F%91%E5%89%8D%E5%BE%80%E7%99%BD%E5%AE%AB%23" target="weibo">
+特朗普登车出发前往白宫（热度：339236）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E4%B9%9F%E5%8D%B0%E8%AF%81%E4%BA%86%E4%BD%99%E5%8D%8E%E8%BF%99%E6%AE%B5%E8%AF%9D%23" target="weibo">
 国色芳华也印证了余华这段话（热度：338433）
 </a>
@@ -1145,12 +1169,6 @@ TikTok在美国应用商店下架（热度：366993）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%B0%84%E9%9B%95%E9%A2%84%E5%94%AE%E7%A5%A8%E6%88%BF%E5%8D%A0%E6%AF%94%23" target="weibo">
 肖战射雕预售票房占比（热度：329010）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%86%85%E6%B1%9F4.4%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
-四川内江4.4级地震（热度：327981）
 </a>
 </li>
 
@@ -1265,12 +1283,6 @@ TikTok在美国应用商店下架（热度：366993）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A4%AB%E5%A6%BB%E5%9C%A8%E5%9C%B0%E7%AA%96%E8%92%B8%E4%B8%89%E5%8D%83%E6%96%A4%E7%B3%AF%E7%B1%B3%E9%85%BF%E9%85%92%E4%B8%AD%E6%AF%92%23" target="weibo">
 老夫妻在地窖蒸三千斤糯米酿酒中毒（热度：300314）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%99%BB%E8%BD%A6%E5%87%BA%E5%8F%91%E5%89%8D%E5%BE%80%E7%99%BD%E5%AE%AB%23" target="weibo">
-特朗普登车出发前往白宫（热度：297435）
 </a>
 </li>
 
@@ -2817,6 +2829,12 @@ SM新男团将参与家族演唱会舞台（热度：159437）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%B0%8A%E6%9D%80%E5%9B%9E%E4%BA%B2%E5%AD%90%E8%8A%82%E7%9B%AE%23" target="weibo">
+吴尊杀回亲子节目（热度：147784）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E4%BD%A0%E8%BF%98%E6%80%AA%E6%9C%89%E7%A4%BC%E8%B2%8C%E7%9A%84%23" target="weibo">
 张凌赫你还怪有礼貌的（热度：147321）
 </a>
@@ -3921,12 +3939,6 @@ TF家族新音合影（热度：100124）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%B0%8A%E6%9D%80%E5%9B%9E%E4%BA%B2%E5%AD%90%E8%8A%82%E7%9B%AE%23" target="weibo">
-吴尊杀回亲子节目（热度：98796）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E4%B8%8A%E6%B5%B7%E5%87%BA%E5%8F%91%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%23" target="weibo">
 王鹤棣上海出发巴黎时装周（热度：98309）
 </a>
@@ -4013,6 +4025,12 @@ Doinb复出首秀（热度：95311）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%9B%B4%E6%96%B0%E4%BA%86callkit%E4%BA%86%23" target="weibo">
 微信更新了callkit了（热度：95134）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B8%BD%E5%90%9B%E5%90%AB%E6%B3%AA%E8%87%B4%E8%B0%A2%23" target="weibo">
+陈丽君含泪致谢（热度：95040）
 </a>
 </li>
 
@@ -4275,6 +4293,12 @@ Rookie参加solo选边（热度：76365）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BA%AB%E5%9C%A8%E8%BE%90%E4%B8%AD%E4%B8%8D%E7%9F%A5%E8%BE%90%23" target="weibo">
+女子身在辐中不知辐（热度：75248）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%BC%E9%98%9F%E6%8C%82%E7%89%8C%E5%85%AC%E5%91%8A%23" target="weibo">
 狼队挂牌公告（热度：75235）
 </a>
@@ -4317,8 +4341,8 @@ Rookie参加solo选边（热度：76365）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B8%BD%E5%90%9B%E5%90%AB%E6%B3%AA%E8%87%B4%E8%B0%A2%23" target="weibo">
-陈丽君含泪致谢（热度：67994）
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%A2%E7%A5%A8%E5%8A%A0%E9%80%9F%E5%8D%A1%E7%9A%84%E5%B0%BD%E5%A4%B4%E8%BF%98%E6%98%AF12306%23" target="weibo">
+抢票加速卡的尽头还是12306（热度：69913）
 </a>
 </li>
 
@@ -4337,12 +4361,6 @@ Rookie参加solo选边（热度：76365）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%90%A88%E8%BD%AE%E8%81%94%E8%B5%9B%E4%BB%851%E8%83%9C%23" target="weibo">
 巴萨8轮联赛仅1胜（热度：65944）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%A2%E7%A5%A8%E5%8A%A0%E9%80%9F%E5%8D%A1%E7%9A%84%E5%B0%BD%E5%A4%B4%E8%BF%98%E6%98%AF12306%23" target="weibo">
-抢票加速卡的尽头还是12306（热度：64312）
 </a>
 </li>
 
@@ -4467,6 +4485,12 @@ Doinb用FPX李青皮肤（热度：52258）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E4%BA%BA%E8%BF%98%E6%B2%A1%E5%88%B0%E5%98%B4%E5%85%88%E5%87%BA%E8%AD%A6%23" target="weibo">
+交警人还没到嘴先出警（热度：50724）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%94%E5%85%AE%E6%98%9F%E5%AE%87%E8%8A%B1%E5%8D%B7%E6%8C%82%E7%89%8C%23" target="weibo">
 乔兮星宇花卷挂牌（热度：50343）
 </a>
@@ -4481,6 +4505,12 @@ Doinb用FPX李青皮肤（热度：52258）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E8%87%AA%E5%B7%B1%E7%AC%91%E8%87%AA%E5%B7%B1%23" target="weibo">
 张杰自己笑自己（热度：49757）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E5%BB%BA%E8%AE%AE%E5%9B%9B%E5%B7%9D%E8%AF%95%E8%A1%8C2.5%E5%A4%A9%E4%BC%91%E5%81%87%23" target="weibo">
+代表建议建议四川试行2.5天休假（热度：49104）
 </a>
 </li>
 
@@ -4505,6 +4535,12 @@ Doinb用FPX李青皮肤（热度：52258）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%8F%B0%E8%AF%8D%E7%88%BD%E6%96%87%E6%84%9F%23" target="weibo">
 王鹤棣台词爽文感（热度：47441）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%B4%E6%BA%AA%E6%AD%A2%E7%9F%A3%E7%94%BB%E7%BE%8E%E4%BA%BA%E9%B1%BC%E7%A5%81%E7%85%9C%23" target="weibo">
+临溪止矣画美人鱼祁煜（热度：46284）
 </a>
 </li>
 
