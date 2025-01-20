@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737401730327,
+  "endTime": 1737404563661,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -6027,6 +6027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 53599,
+      "num": 53599,
+      "word": "电视剧漂白被指抄袭",
+      "onboard_time": 1737401951,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 53593,
       "num": 169478,
       "word": "吴宣仪和新中式的适配度",
@@ -6539,6 +6547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 22718,
+      "num": 22718,
+      "word": "拜登给特朗普留了一封信",
+      "onboard_time": 1737400872,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 22569,
       "num": 28619,
       "word": "管晨辰手术后报平安",
@@ -6553,6 +6569,14 @@
       "onboard_time": 1737369017,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 22435,
+      "num": 22435,
+      "word": "集采药疗效医生怎么看",
+      "onboard_time": 1737402791,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21656,
@@ -6587,14 +6611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 20935,
-      "num": 20935,
-      "word": "拜登给特朗普留了一封信",
-      "onboard_time": 1737400872,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 20850,
       "num": 28577,
       "word": "太阳vs活塞",
@@ -6609,6 +6625,14 @@
       "onboard_time": 1737227291,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 20578,
+      "num": 33942,
+      "word": "集采药降价别以牺牲药效为代价",
+      "onboard_time": 1737401591,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20400,
@@ -6803,11 +6827,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 10296,
-      "num": 33942,
-      "word": "集采药降价别以牺牲药效为代价",
-      "onboard_time": 1737401591,
-      "rank": 24,
+      "raw_hot": 9517,
+      "num": 61922,
+      "word": "冒充中科院骗89岁老人买药",
+      "onboard_time": 1737403991,
+      "rank": 9,
       "category": "民生新闻"
     },
     {

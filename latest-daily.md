@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/21 00:27:22 ~ 2025/01/21 03:35:30
+本榜单时间：2025/01/21 00:27:22 ~ 2025/01/21 04:22:43
 </p>
 </blockquote>
 <p>
@@ -423,6 +423,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E8%A7%86%E5%89%A7%E6%BC%82%E7%99%BD%E8%A2%AB%E6%8C%87%E6%8A%84%E8%A2%AD%23" target="weibo">
+电视剧漂白被指抄袭（热度：53599）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BD%98%E5%AE%8F%E5%B0%86%E6%AF%8D%E7%8B%97%E5%8D%96%E7%BB%99%E7%8B%97%E8%82%89%E8%BD%A6%E6%88%96%E8%BF%9D%E6%B3%95%23" target="weibo">
 潘宏将母狗卖给狗肉车或违法（热度：51150）
 </a>
@@ -496,7 +502,19 @@ ZB1先行曲上线（热度：23613）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E7%BB%99%E7%89%B9%E6%9C%97%E6%99%AE%E7%95%99%E4%BA%86%E4%B8%80%E5%B0%81%E4%BF%A1%23" target="weibo">
-拜登给特朗普留了一封信（热度：20935）
+拜登给特朗普留了一封信（热度：22718）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%86%E9%87%87%E8%8D%AF%E7%96%97%E6%95%88%E5%8C%BB%E7%94%9F%E6%80%8E%E4%B9%88%E7%9C%8B%23" target="weibo">
+集采药疗效医生怎么看（热度：22435）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%86%E9%87%87%E8%8D%AF%E9%99%8D%E4%BB%B7%E5%88%AB%E4%BB%A5%E7%89%BA%E7%89%B2%E8%8D%AF%E6%95%88%E4%B8%BA%E4%BB%A3%E4%BB%B7%23" target="weibo">
+集采药降价别以牺牲药效为代价（热度：20578）
 </a>
 </li>
 
@@ -519,8 +537,8 @@ ZB1先行曲上线（热度：23613）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9B%86%E9%87%87%E8%8D%AF%E9%99%8D%E4%BB%B7%E5%88%AB%E4%BB%A5%E7%89%BA%E7%89%B2%E8%8D%AF%E6%95%88%E4%B8%BA%E4%BB%A3%E4%BB%B7%23" target="weibo">
-集采药降价别以牺牲药效为代价（热度：10296）
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%92%E5%85%85%E4%B8%AD%E7%A7%91%E9%99%A2%E9%AA%9789%E5%B2%81%E8%80%81%E4%BA%BA%E4%B9%B0%E8%8D%AF%23" target="weibo">
+冒充中科院骗89岁老人买药（热度：9517）
 </a>
 </li>
 
