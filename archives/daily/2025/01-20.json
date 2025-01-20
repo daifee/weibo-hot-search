@@ -1,6 +1,6 @@
 {
   "startTime": 1737303863836,
-  "endTime": 1737380332174,
+  "endTime": 1737382853671,
   "band_list": [
     {
       "raw_hot": 2805587,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1875437,
-      "num": 343382,
+      "num": 346887,
       "word": "印度女医生奸杀案宣判",
       "onboard_time": 1737377178,
       "rank": 30,
@@ -107,6 +107,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1556030,
+      "num": 349765,
+      "word": "四川内江市3.2级地震",
+      "onboard_time": 1737373639,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1461035,
       "num": 435267,
       "word": "中方回应特朗普要TikTok50%所有权",
@@ -137,6 +145,14 @@
       "onboard_time": 1737366017,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1385535,
+      "num": 1385535,
+      "word": "Angelababy相思令出场镜头",
+      "onboard_time": 1737380179,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 1361929,
@@ -217,6 +233,14 @@
       "onboard_time": 1737356179,
       "rank": 3,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 977981,
+      "num": 977981,
+      "word": "张雪峰称给公司350人发2000万年终奖",
+      "onboard_time": 1737379818,
+      "rank": 12,
+      "category": "财经"
     },
     {
       "raw_hot": 918877,
@@ -347,14 +371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 653741,
-      "num": 339929,
-      "word": "张雪峰称给公司350人发2000万年终奖",
-      "onboard_time": 1737379818,
-      "rank": 12,
-      "category": "财经"
-    },
-    {
       "raw_hot": 616812,
       "num": 369065,
       "word": "宁静说向太刘晓庆是恩人",
@@ -436,7 +452,7 @@
     },
     {
       "raw_hot": 541255,
-      "num": 337262,
+      "num": 342192,
       "word": "三名男童踢踹残障男孩遭路人呵斥",
       "onboard_time": 1737376398,
       "rank": 26,
@@ -497,6 +513,14 @@
       "onboard_time": 1737349638,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 478121,
+      "num": 478121,
+      "word": "樊振东阿玛尼合影C位",
+      "onboard_time": 1737379818,
+      "rank": 18,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 468307,
@@ -723,14 +747,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 333828,
-      "num": 333828,
-      "word": "Angelababy相思令出场镜头",
-      "onboard_time": 1737380179,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 331117,
       "num": 365526,
       "word": "床位不够协和医院找6家医院帮忙",
@@ -787,14 +803,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 295714,
-      "num": 295714,
-      "word": "樊振东阿玛尼合影C位",
-      "onboard_time": 1737379818,
-      "rank": 18,
-      "category": "体育,时尚"
-    },
-    {
       "raw_hot": 290731,
       "num": 290731,
       "word": "无限暖暖",
@@ -809,6 +817,22 @@
       "onboard_time": 1737334218,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 285572,
+      "num": 285572,
+      "word": "王源感受演唱会散场粉丝视角",
+      "onboard_time": 1737381500,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 284714,
+      "num": 351384,
+      "word": "被打铁花惊艳到眼前一亮又一亮",
+      "onboard_time": 1737379818,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 283936,
@@ -1043,12 +1067,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221724,
+      "num": 219930,
+      "word": "相思令里有颜安",
+      "onboard_time": 1737382518,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220708,
       "num": 220708,
       "word": "Doinb解释TheShy选卡尔玛原因",
       "onboard_time": 1737333198,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 220210,
+      "num": 220210,
+      "word": "异人之下 王也角色",
+      "onboard_time": 1737378799,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 218911,
@@ -1187,14 +1227,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 201179,
-      "num": 201179,
-      "word": "异人之下 王也角色",
-      "onboard_time": 1737378799,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 200547,
       "num": 200547,
       "word": "甄珍逃出来了吗",
@@ -1305,6 +1337,14 @@
       "onboard_time": 1737348799,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 194863,
+      "num": 194863,
+      "word": "白鹿刚下班正好赶上菩提白烁",
+      "onboard_time": 1737381800,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 194097,
@@ -1475,12 +1515,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 181643,
-      "num": 345855,
-      "word": "被打铁花惊艳到眼前一亮又一亮",
-      "onboard_time": 1737379818,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 181763,
+      "num": 181763,
+      "word": "张云雷司鼓",
+      "onboard_time": 1737382100,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 181129,
@@ -1489,6 +1529,14 @@
       "onboard_time": 1737288799,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180951,
+      "num": 236115,
+      "word": "艾特主人称会有后续",
+      "onboard_time": 1737379458,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 175818,
@@ -1523,6 +1571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 172152,
+      "num": 324307,
+      "word": "变淡的年味这不就回来了",
+      "onboard_time": 1737367578,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171768,
       "num": 160115,
       "word": "疑似苏新皓手受伤",
@@ -1553,14 +1609,6 @@
       "onboard_time": 1737373337,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168143,
-      "num": 168143,
-      "word": "四川内江市3.2级地震",
-      "onboard_time": 1737373639,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 168098,
@@ -1617,6 +1665,14 @@
       "onboard_time": 1737361398,
       "rank": 48,
       "category": "网红"
+    },
+    {
+      "raw_hot": 166504,
+      "num": 166504,
+      "word": "拜登预防性赦免福奇等人",
+      "onboard_time": 1737381199,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 165780,
@@ -1875,6 +1931,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 143160,
+      "num": 143160,
+      "word": "漂白热度破9500",
+      "onboard_time": 1737380418,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142454,
       "num": 142454,
       "word": "00后掌勺后重新定义过年硬菜",
@@ -1888,6 +1952,14 @@
       "word": "2025春节档史上最快预售破亿",
       "onboard_time": 1737339437,
       "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 141417,
+      "num": 141417,
+      "word": "刘乐全英推荐封神2",
+      "onboard_time": 1737381379,
+      "rank": 42,
       "category": "电影"
     },
     {
@@ -2083,6 +2155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129172,
+      "num": 129172,
+      "word": "漂白表面人夫背后屠夫",
+      "onboard_time": 1737381379,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128325,
       "num": 128325,
       "word": "尹锡悦穿囚服拍摄嫌疑人照片",
@@ -2211,6 +2291,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 123207,
+      "num": 123207,
+      "word": "伊邪那美臻藏皮肤",
+      "onboard_time": 1737381620,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 121986,
       "num": 299813,
       "word": "999感冒灵凭实力闯进保暖时尚圈",
@@ -2291,6 +2379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117174,
+      "num": 117174,
+      "word": "荣耀中国区销售部部长郑树宝辞职",
+      "onboard_time": 1737382159,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 117049,
       "num": 117049,
       "word": "肖战郭靖招式",
@@ -2347,6 +2443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112797,
+      "num": 112797,
+      "word": "国补手机4000元档机型最抢手",
+      "onboard_time": 1737382819,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111893,
       "num": 111893,
       "word": "赵达文淇异人之下2对手戏",
@@ -2369,6 +2473,14 @@
       "onboard_time": 1737349819,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 111001,
+      "num": 111001,
+      "word": "何惟芳不语只是一味的复仇",
+      "onboard_time": 1737382819,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 109155,
@@ -2643,6 +2755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 92572,
+      "num": 164205,
+      "word": "中国人的情义都藏在酒里",
+      "onboard_time": 1737382159,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91866,
       "num": 91866,
       "word": "尹锡悦正式进入拘留所",
@@ -2739,14 +2859,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 83712,
-      "num": 236115,
-      "word": "艾特主人称会有后续",
-      "onboard_time": 1737379458,
-      "rank": 18,
-      "category": "网红"
-    },
-    {
       "raw_hot": 83149,
       "num": 234418,
       "word": "拼多多年货必买清单",
@@ -2787,14 +2899,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 80025,
-      "num": 324307,
-      "word": "变淡的年味这不就回来了",
-      "onboard_time": 1737367578,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79398,
       "num": 218477,
       "word": "哪部影片是你的春节档首选",
@@ -2833,6 +2937,14 @@
       "onboard_time": 1737379939,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 75135,
+      "num": 141473,
+      "word": "傅园慧祝福陈丽君",
+      "onboard_time": 1737381500,
+      "rank": 41,
+      "category": "演出,体育"
     },
     {
       "raw_hot": 75127,
@@ -3059,6 +3171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 26849,
+      "num": 763264,
+      "word": "2025亚冬会火种今日成功采集",
+      "onboard_time": 1737381800,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26622,
       "num": 51359,
       "word": "没必要因身高焦虑破坏自己的人生",
@@ -3209,6 +3329,14 @@
       "onboard_time": 1737322392,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 7916,
+      "num": 222517,
+      "word": "乒乓球亚洲杯会徽吉祥物公布",
+      "onboard_time": 1737374778,
+      "rank": 24,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
@@ -3229,6 +3357,9 @@
     },
     {
       "word": "#首善答卷#"
+    },
+    {
+      "word": "#这份牵挂春暖中国#"
     }
   ]
 }
