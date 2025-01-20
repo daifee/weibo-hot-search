@@ -1,0 +1,410 @@
+{
+  "runTime": 1737372965305,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1606249,
+        "num": 1606249,
+        "word": "马斯克称X不被允许在中国运营需改变",
+        "onboard_time": 1737366617,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1006272,
+        "num": 1006272,
+        "word": "大学生开房洗衣服被吐槽薅羊毛",
+        "onboard_time": 1737363078,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26324,
+        "num": 875782,
+        "word": "祖国山河一片银装一眼心动",
+        "onboard_time": 1737360318,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 851648,
+        "num": 851648,
+        "word": "相思令空降播出",
+        "onboard_time": 1737360079,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 616959,
+        "num": 616959,
+        "word": "高铁遛娃舱来了",
+        "onboard_time": 1737369438,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 611595,
+        "num": 611595,
+        "word": "外交部回应X不被允许在中国运营",
+        "onboard_time": 1737366017,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 562190,
+        "num": 562190,
+        "word": "韩国网友被中国演员的颜值震撼",
+        "onboard_time": 1737353478,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434011,
+        "num": 434011,
+        "word": "无锡校园持刀伤人案罪犯被执行死刑",
+        "onboard_time": 1737356179,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 402803,
+        "num": 402803,
+        "word": "杨幂脱口秀预告",
+        "onboard_time": 1737370277,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146633,
+        "num": 342823,
+        "word": "我国成功发射一箭5星",
+        "onboard_time": 1737371057,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1071170,
+        "num": 342723,
+        "word": "潘宏曾说母狗死后会卖狗肉车",
+        "onboard_time": 1737362118,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 509575,
+        "num": 342156,
+        "word": "中方回应特朗普要TikTok50%所有权",
+        "onboard_time": 1737360798,
+        "rank": 11,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 340637,
+        "num": 340637,
+        "word": "妲己新皮肤愿照众生和",
+        "onboard_time": 1737367938,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 320783,
+        "num": 320783,
+        "word": "射雕英雄传17%排片获40%票房",
+        "onboard_time": 1737357438,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 318743,
+        "num": 318743,
+        "word": "漂白",
+        "onboard_time": 1737360798,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317113,
+        "num": 317113,
+        "word": "大奉打更人爆尾剧",
+        "onboard_time": 1737360258,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314529,
+        "num": 314529,
+        "word": "中方回应对特朗普总统任期有何期待",
+        "onboard_time": 1737371118,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 290045,
+        "num": 290045,
+        "word": "TikTok发声明感谢特朗普澄清保证",
+        "onboard_time": 1737356478,
+        "rank": 17,
+        "category": "互联网,国际时政"
+      },
+      {
+        "raw_hot": 37386,
+        "num": 285870,
+        "word": "人物2024年度人物揭晓",
+        "onboard_time": 1737371178,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 96531,
+        "num": 279714,
+        "word": "999感冒灵凭实力闯进保暖时尚圈",
+        "onboard_time": 1737370158,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 424174,
+        "num": 272919,
+        "word": "赵今麦天选末世文女主",
+        "onboard_time": 1737364398,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 410186,
+        "num": 264353,
+        "word": "女子取8万8称拜年发红包惊动民警",
+        "onboard_time": 1737366617,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260476,
+        "num": 260476,
+        "word": "珠海驾车撞人案罪犯被执行死刑",
+        "onboard_time": 1737355397,
+        "rank": 22,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 221356,
+        "num": 221356,
+        "word": "虞书欣央视总台国际频道采访",
+        "onboard_time": 1737360438,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 219292,
+        "num": 219292,
+        "word": "无限暖暖",
+        "onboard_time": 1737372558,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 218003,
+        "num": 218003,
+        "word": "李小冉你好好演戏唱歌我另有人选",
+        "onboard_time": 1737368538,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213582,
+        "num": 213582,
+        "word": "高铁坐过站先不要出站",
+        "onboard_time": 1737363017,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213351,
+        "num": 213351,
+        "word": "嘘国王在冬眠过审",
+        "onboard_time": 1737372077,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211883,
+        "num": 211883,
+        "word": "漂白最炸裂的一集",
+        "onboard_time": 1737372378,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31090,
+        "num": 210963,
+        "word": "电影熊出没重启未来",
+        "onboard_time": 1737370697,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210728,
+        "num": 210728,
+        "word": "何惟芳开大",
+        "onboard_time": 1737360018,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206716,
+        "num": 206716,
+        "word": "潘宏爱玩狗涉嫌虐狗吗",
+        "onboard_time": 1737349039,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 200508,
+        "num": 200508,
+        "word": "韩安冉前夫破产",
+        "onboard_time": 1737346578,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 193078,
+        "num": 193078,
+        "word": "佛山DRG选手挂牌公告",
+        "onboard_time": 1737371957,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176246,
+        "num": 176246,
+        "word": "12306售罄为何第三方还显示有票",
+        "onboard_time": 1737348859,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173527,
+        "num": 173527,
+        "word": "翟子路公主抱翟宇佳",
+        "onboard_time": 1737371538,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163841,
+        "num": 163841,
+        "word": "同行称潘宏训狗方式太粗暴",
+        "onboard_time": 1737368357,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 160440,
+        "num": 160440,
+        "word": "罗云熙你在用这个爱豆的妆造干什么",
+        "onboard_time": 1737369137,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160099,
+        "num": 160099,
+        "word": "白烁梵樾不让误会留到下集",
+        "onboard_time": 1737371657,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159009,
+        "num": 159009,
+        "word": "不要小看一个17岁女孩的求生欲",
+        "onboard_time": 1737371898,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158185,
+        "num": 158185,
+        "word": "白鹿把敖瑞鹏哄成胚胎了",
+        "onboard_time": 1737372858,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146186,
+        "num": 146186,
+        "word": "肖战学新技能执行力杠杠的",
+        "onboard_time": 1737372438,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145932,
+        "num": 145932,
+        "word": "张雅钦做女主做女二都精彩",
+        "onboard_time": 1737372618,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145477,
+        "num": 145477,
+        "word": "陈梦登人物年度面孔",
+        "onboard_time": 1737370818,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142601,
+        "num": 142601,
+        "word": "射雕排片涨了",
+        "onboard_time": 1737370998,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142245,
+        "num": 142245,
+        "word": "舒淇感叹夏之光长大了",
+        "onboard_time": 1737368718,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42750,
+        "num": 138245,
+        "word": "北京JDG挂牌公告",
+        "onboard_time": 1737364879,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137956,
+        "num": 137956,
+        "word": "无限暖暖1.2版本前瞻",
+        "onboard_time": 1737372558,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137865,
+        "num": 137865,
+        "word": "相思令双强设定",
+        "onboard_time": 1737372918,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135426,
+        "num": 135426,
+        "word": "哈利波特有望2027年落沪",
+        "onboard_time": 1737372077,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#祝大家的生活像这些糖一样甜甜蜜蜜#"
+    }
+  }
+}

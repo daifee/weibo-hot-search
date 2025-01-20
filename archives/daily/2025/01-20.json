@@ -1,6 +1,6 @@
 {
   "startTime": 1737303863836,
-  "endTime": 1737371926391,
+  "endTime": 1737372965305,
   "band_list": [
     {
       "raw_hot": 2805587,
@@ -91,8 +91,8 @@
       "category": "网红,体育"
     },
     {
-      "raw_hot": 1575587,
-      "num": 1575587,
+      "raw_hot": 1606249,
+      "num": 1606249,
       "word": "马斯克称X不被允许在中国运营需改变",
       "onboard_time": 1737366617,
       "rank": 3,
@@ -523,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 402803,
+      "num": 402803,
+      "word": "杨幂脱口秀预告",
+      "onboard_time": 1737370277,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 399704,
       "num": 352278,
       "word": "揭秘潘宏背后文化传媒公司",
@@ -548,7 +556,7 @@
     },
     {
       "raw_hot": 381612,
-      "num": 299300,
+      "num": 318743,
       "word": "漂白",
       "onboard_time": 1737265697,
       "rank": 27,
@@ -643,12 +651,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 321836,
-      "num": 321836,
-      "word": "杨幂脱口秀预告",
-      "onboard_time": 1737370277,
-      "rank": 14,
-      "category": "综艺"
+      "raw_hot": 314529,
+      "num": 374075,
+      "word": "中方回应对特朗普总统任期有何期待",
+      "onboard_time": 1737371118,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 286698,
@@ -883,6 +891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 219292,
+      "num": 219292,
+      "word": "无限暖暖",
+      "onboard_time": 1737372558,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 218911,
       "num": 218911,
       "word": "樊振东拎包还怪时尚的",
@@ -913,6 +929,22 @@
       "onboard_time": 1737334939,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213351,
+      "num": 213351,
+      "word": "嘘国王在冬眠过审",
+      "onboard_time": 1737372077,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 211883,
+      "num": 211883,
+      "word": "漂白最炸裂的一集",
+      "onboard_time": 1737372378,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 208623,
@@ -1139,6 +1171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193078,
+      "num": 193078,
+      "word": "佛山DRG选手挂牌公告",
+      "onboard_time": 1737371957,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 190681,
       "num": 190681,
       "word": "第一夫人币推出后特朗普币暴跌",
@@ -1265,14 +1305,6 @@
       "onboard_time": 1737370998,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 177167,
-      "num": 374075,
-      "word": "中方回应对特朗普总统任期有何期待",
-      "onboard_time": 1737371118,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 175818,
@@ -1419,6 +1451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 160099,
+      "num": 160099,
+      "word": "白烁梵樾不让误会留到下集",
+      "onboard_time": 1737371657,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159729,
       "num": 184934,
       "word": "和给你能量的人在一起",
@@ -1459,6 +1499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159009,
+      "num": 159009,
+      "word": "不要小看一个17岁女孩的求生欲",
+      "onboard_time": 1737371898,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158953,
       "num": 158953,
       "word": "四个字让留几手百分百破防",
@@ -1473,6 +1521,14 @@
       "onboard_time": 1737365180,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158185,
+      "num": 158185,
+      "word": "白鹿把敖瑞鹏哄成胚胎了",
+      "onboard_time": 1737372858,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 156724,
@@ -1531,12 +1587,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146633,
+      "num": 342823,
+      "word": "我国成功发射一箭5星",
+      "onboard_time": 1737371057,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 146377,
       "num": 146377,
       "word": "巨石强森不语只是一味宠女儿",
       "onboard_time": 1737325872,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146186,
+      "num": 146186,
+      "word": "肖战学新技能执行力杠杠的",
+      "onboard_time": 1737372438,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 145932,
+      "num": 145932,
+      "word": "张雅钦做女主做女二都精彩",
+      "onboard_time": 1737372618,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 145835,
@@ -1627,6 +1707,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137956,
+      "num": 137956,
+      "word": "无限暖暖1.2版本前瞻",
+      "onboard_time": 1737372558,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 137865,
+      "num": 137865,
+      "word": "相思令双强设定",
+      "onboard_time": 1737372918,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137677,
       "num": 137677,
       "word": "肖战射雕宣传VCR",
@@ -1683,6 +1779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135426,
+      "num": 135426,
+      "word": "哈利波特有望2027年落沪",
+      "onboard_time": 1737372077,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134901,
       "num": 134901,
       "word": "GOT7新歌PYTHON",
@@ -1721,22 +1825,6 @@
       "onboard_time": 1737363078,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131548,
-      "num": 131548,
-      "word": "我国成功发射一箭5星",
-      "onboard_time": 1737371057,
-      "rank": 43,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 131267,
-      "num": 131267,
-      "word": "白烁梵樾不让误会留到下集",
-      "onboard_time": 1737371657,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 131179,
@@ -1812,7 +1900,7 @@
     },
     {
       "raw_hot": 125646,
-      "num": 133923,
+      "num": 138245,
       "word": "北京JDG挂牌公告",
       "onboard_time": 1737364879,
       "rank": 46,
@@ -1961,14 +2049,6 @@
       "onboard_time": 1737337396,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 116683,
-      "num": 116683,
-      "word": "不要小看一个17岁女孩的求生欲",
-      "onboard_time": 1737371898,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 115839,
@@ -2531,6 +2611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 37386,
+      "num": 285870,
+      "word": "人物2024年度人物揭晓",
+      "onboard_time": 1737371178,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 37097,
       "num": 202389,
       "word": "滑雪世界杯中国队冠军",
@@ -2555,20 +2643,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34295,
-      "num": 151773,
-      "word": "人物2024年度人物揭晓",
-      "onboard_time": 1737371178,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 32948,
       "num": 52031,
       "word": "宋亚轩新年音乐会生图",
       "onboard_time": 1737305296,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 31090,
+      "num": 210963,
+      "word": "电影熊出没重启未来",
+      "onboard_time": 1737370697,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 29922,
