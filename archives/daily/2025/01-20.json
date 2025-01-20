@@ -1,6 +1,6 @@
 {
   "startTime": 1737303863836,
-  "endTime": 1737377889123,
+  "endTime": 1737379654029,
   "band_list": [
     {
       "raw_hot": 2805587,
@@ -89,6 +89,14 @@
       "onboard_time": 1737336198,
       "rank": 19,
       "category": "网红,体育"
+    },
+    {
+      "raw_hot": 1639479,
+      "num": 302895,
+      "word": "印度女医生奸杀案宣判",
+      "onboard_time": 1737377178,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1606249,
@@ -227,6 +235,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 864684,
+      "num": 864684,
+      "word": "麦琳商业价值超李行亮",
+      "onboard_time": 1737377117,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 824187,
       "num": 824187,
       "word": "虞书欣央视总台国际频道采访",
@@ -281,6 +297,14 @@
       "onboard_time": 1737373157,
       "rank": 1,
       "category": "汽车,网红"
+    },
+    {
+      "raw_hot": 717847,
+      "num": 717847,
+      "word": "樊振东小少爷的既视感",
+      "onboard_time": 1737375798,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 705394,
@@ -403,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 541255,
+      "num": 302618,
+      "word": "三名男童踢踹残障男孩遭路人呵斥",
+      "onboard_time": 1737376398,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 535687,
       "num": 535687,
       "word": "王一博易烊千玺春晚同框路透",
@@ -473,14 +505,6 @@
       "onboard_time": 1737349638,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 461684,
-      "num": 461684,
-      "word": "樊振东小少爷的既视感",
-      "onboard_time": 1737375798,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 459834,
@@ -907,14 +931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 244454,
-      "num": 244454,
-      "word": "三名男童踢踹残障男孩遭路人呵斥",
-      "onboard_time": 1737376398,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 238944,
       "num": 238944,
       "word": "陈哲远梁洁白色橄榄树动了",
@@ -947,12 +963,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226978,
+      "num": 226978,
+      "word": "杨紫五大女刊准满贯",
+      "onboard_time": 1737378138,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 226945,
       "num": 226945,
       "word": "庞颖念诗给詹青云念红温了",
       "onboard_time": 1737297500,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225165,
+      "num": 225165,
+      "word": "刘浩存首支全球广告",
+      "onboard_time": 1737378919,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 223651,
@@ -1081,6 +1113,14 @@
       "onboard_time": 1737359898,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202861,
+      "num": 202861,
+      "word": "相思令Angelababy原声台词",
+      "onboard_time": 1737379519,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 201637,
@@ -1379,6 +1419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184012,
+      "num": 184012,
+      "word": "异人之下 王也角色",
+      "onboard_time": 1737378799,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181777,
       "num": 181777,
       "word": "肖战单手上马",
@@ -1395,6 +1443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179912,
+      "num": 179912,
+      "word": "孟子义给粉丝发面膜",
+      "onboard_time": 1737378438,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175818,
       "num": 175818,
       "word": "终于有女主落难靠自救不等着被救",
@@ -1409,6 +1465,14 @@
       "onboard_time": 1737330256,
       "rank": 22,
       "category": "网红"
+    },
+    {
+      "raw_hot": 174301,
+      "num": 213925,
+      "word": "亚冬会开幕式导演盛赞王一博",
+      "onboard_time": 1737377057,
+      "rank": 39,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 173493,
@@ -1531,12 +1595,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 164796,
-      "num": 164796,
-      "word": "印度女医生奸杀案宣判",
-      "onboard_time": 1737377178,
-      "rank": 30,
-      "category": "海外新闻"
+      "raw_hot": 163584,
+      "num": 163584,
+      "word": "肖战拒绝蒙语后期配音",
+      "onboard_time": 1737374778,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 163226,
@@ -1633,14 +1697,6 @@
       "onboard_time": 1737350358,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 158747,
-      "num": 158747,
-      "word": "肖战拒绝蒙语后期配音",
-      "onboard_time": 1737374778,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 158614,
@@ -1923,14 +1979,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 134586,
-      "num": 134586,
-      "word": "亚冬会开幕式导演盛赞王一博",
-      "onboard_time": 1737377057,
-      "rank": 39,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 133936,
       "num": 133936,
       "word": "国色芳华24集预告",
@@ -2027,12 +2075,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 127117,
+      "num": 127117,
+      "word": "3月起公立医疗机构取消门诊预交金",
+      "onboard_time": 1737374658,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126932,
       "num": 126932,
       "word": "JYP新男团新闻图",
       "onboard_time": 1737369737,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126815,
+      "num": 126815,
+      "word": "王心凌南京站25秒极速换装",
+      "onboard_time": 1737378379,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 126423,
@@ -2203,14 +2267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115809,
-      "num": 115809,
-      "word": "3月起公立医疗机构取消门诊预交金",
-      "onboard_time": 1737374658,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115645,
       "num": 102419,
       "word": "李昀锐倪虹洁演夫妻",
@@ -2227,12 +2283,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114572,
+      "num": 114572,
+      "word": "被樊振东硬控的7秒",
+      "onboard_time": 1737377539,
+      "rank": 48,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 114199,
       "num": 114199,
       "word": "荣耀中国区CMO将辞职",
       "onboard_time": 1737363078,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 112927,
+      "num": 112927,
+      "word": "赵丽颖配音在人间",
+      "onboard_time": 1737378077,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 111893,
@@ -2267,14 +2339,6 @@
       "category": "民生新闻,旅游"
     },
     {
-      "raw_hot": 109087,
-      "num": 109087,
-      "word": "被樊振东硬控的7秒",
-      "onboard_time": 1737377539,
-      "rank": 48,
-      "category": "体育,作品衍生"
-    },
-    {
       "raw_hot": 108617,
       "num": 108617,
       "word": "7个工作日后就过年了",
@@ -2297,14 +2361,6 @@
       "onboard_time": 1737356298,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 107277,
-      "num": 250721,
-      "word": "麦琳商业价值超李行亮",
-      "onboard_time": 1737377117,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 106577,
@@ -2377,6 +2433,14 @@
       "onboard_time": 1737355697,
       "rank": 46,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 103799,
+      "num": 103799,
+      "word": "陈梦被评为人物2024年度运动员",
+      "onboard_time": 1737378017,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 103709,
@@ -2491,12 +2555,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 96565,
+      "num": 96565,
+      "word": "人造太阳创1亿摄氏度1000秒纪录",
+      "onboard_time": 1737376278,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96145,
       "num": 192125,
       "word": "德约科维奇硬刚无礼媒体",
       "onboard_time": 1737341237,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95157,
+      "num": 95157,
+      "word": "任豪相思令人设",
+      "onboard_time": 1737379579,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 93777,
@@ -2580,7 +2660,7 @@
     },
     {
       "raw_hot": 85631,
-      "num": 102285,
+      "num": 205785,
       "word": "盛李豪选拔赛第一",
       "onboard_time": 1737374478,
       "rank": 46,
@@ -2721,6 +2801,14 @@
       "onboard_time": 1737355397,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 59055,
+      "num": 236115,
+      "word": "艾特主人称会有后续",
+      "onboard_time": 1737379458,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 57919,

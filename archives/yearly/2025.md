@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/20 20:58:09
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/20 21:27:34
 </p>
 </blockquote>
 <p>
@@ -1479,6 +1479,12 @@ AG挑战者杯夺冠（热度：1652837）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%A5%B3%E5%8C%BB%E7%94%9F%E5%A5%B8%E6%9D%80%E6%A1%88%E5%AE%A3%E5%88%A4%23" target="weibo">
+印度女医生奸杀案宣判（热度：1639479）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%97%8F%E5%AE%9A%E6%97%A5%E5%8E%BF%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B453%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
 西藏定日县地震已致53人遇难（热度：1634437）
 </a>
@@ -1805,12 +1811,6 @@ TikTok难民称中国网友非常热情（热度：1548219）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%BD%91%E5%8F%8B%E5%B7%B2%E7%BB%8F%E5%87%86%E5%A4%87%E5%9C%A8%E5%B1%8B%E5%89%8D%E5%B1%8B%E5%90%8E%E7%A7%8D%E8%8F%9C%23" target="weibo">
 美国网友已经准备在屋前屋后种菜（热度：1497293）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2312306%E4%B8%80%E5%A4%A9%E6%8B%92%E7%BB%9D%E5%BC%82%E5%B8%B8%E7%99%BB%E5%BD%953982%E4%B8%87%E6%AC%A1%23" target="weibo">
-12306一天拒绝异常登录3982万次（热度：1491508）
 </a>
 </li>
 
