@@ -1,0 +1,410 @@
+{
+  "runTime": 1737365056166,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1292150,
+        "num": 1292150,
+        "word": "相思令空降播出",
+        "onboard_time": 1737360079,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1001611,
+        "num": 1001611,
+        "word": "大学生开房洗衣服被吐槽薅羊毛",
+        "onboard_time": 1737363078,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40905,
+        "num": 897347,
+        "word": "神十九乘组将择机实施第2次出舱",
+        "onboard_time": 1737361398,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 824187,
+        "num": 824187,
+        "word": "虞书欣央视总台国际频道采访",
+        "onboard_time": 1737360438,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 573738,
+        "num": 573738,
+        "word": "珠海驾车撞人案罪犯被执行死刑",
+        "onboard_time": 1737355397,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 464927,
+        "num": 464927,
+        "word": "无锡校园持刀伤人案罪犯被执行死刑",
+        "onboard_time": 1737356179,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 747072,
+        "num": 443813,
+        "word": "韩国网友被中国演员的颜值震撼",
+        "onboard_time": 1737353478,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420867,
+        "num": 420867,
+        "word": "高铁坐过站先不要出站",
+        "onboard_time": 1737363017,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 375611,
+        "num": 375611,
+        "word": "12306售罄为何第三方还显示有票",
+        "onboard_time": 1737348859,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238757,
+        "num": 369956,
+        "word": "2025年春节档电影预售票房破2亿元",
+        "onboard_time": 1737363918,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1717034,
+        "num": 361013,
+        "word": "潘宏曾说母狗死后会卖狗肉车",
+        "onboard_time": 1737362118,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1461035,
+        "num": 352975,
+        "word": "中方回应特朗普要TikTok50%所有权",
+        "onboard_time": 1737360798,
+        "rank": 11,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 805450,
+        "num": 341128,
+        "word": "潘宏爱玩狗涉嫌虐狗吗",
+        "onboard_time": 1737349039,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 639040,
+        "num": 333104,
+        "word": "射雕英雄传17%排片获40%票房",
+        "onboard_time": 1737357438,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 531779,
+        "num": 324230,
+        "word": "韩安冉前夫破产",
+        "onboard_time": 1737346578,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 518122,
+        "num": 314607,
+        "word": "TikTok发声明感谢特朗普澄清保证",
+        "onboard_time": 1737356478,
+        "rank": 15,
+        "category": "互联网,国际时政"
+      },
+      {
+        "raw_hot": 313593,
+        "num": 313593,
+        "word": "特朗普说TikTok回来了",
+        "onboard_time": 1737342318,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 279632,
+        "num": 279632,
+        "word": "日均接诊800人协和急诊说忙爆炸了",
+        "onboard_time": 1737353538,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279272,
+        "num": 279272,
+        "word": "文淇新剧无台词表演",
+        "onboard_time": 1737363858,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187859,
+        "num": 278840,
+        "word": "王源工作室直播",
+        "onboard_time": 1737364639,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 531230,
+        "num": 277449,
+        "word": "大奉打更人爆尾剧",
+        "onboard_time": 1737360258,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 418703,
+        "num": 276035,
+        "word": "何惟芳开大",
+        "onboard_time": 1737360018,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332313,
+        "num": 275449,
+        "word": "漂白",
+        "onboard_time": 1737360798,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321192,
+        "num": 274319,
+        "word": "白色橄榄树春节档",
+        "onboard_time": 1737363438,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148386,
+        "num": 273028,
+        "word": "乐言说Doinb发言有点不礼貌",
+        "onboard_time": 1737360919,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 272790,
+        "num": 272790,
+        "word": "艾特因咬人被送潘宏园区成为流量担当",
+        "onboard_time": 1737353718,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 272328,
+        "num": 272328,
+        "word": "刘亦菲与朋友聚餐",
+        "onboard_time": 1737363017,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240789,
+        "num": 240789,
+        "word": "60秒看懂购新国补怎么补",
+        "onboard_time": 1737346940,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233578,
+        "num": 233578,
+        "word": "坐火车上错车下错站怎么办",
+        "onboard_time": 1737359958,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212543,
+        "num": 212543,
+        "word": "女子泡温泉时拍照发现水中全是泥垢",
+        "onboard_time": 1737355878,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188485,
+        "num": 188485,
+        "word": "赵今麦天选末世文女主",
+        "onboard_time": 1737364398,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186587,
+        "num": 186587,
+        "word": "夏弃疾说文淇太好拍了",
+        "onboard_time": 1737363138,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185798,
+        "num": 185798,
+        "word": "葛夕留几手前夫变老板",
+        "onboard_time": 1737361159,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181777,
+        "num": 181777,
+        "word": "肖战单手上马",
+        "onboard_time": 1737362298,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167526,
+        "num": 167526,
+        "word": "希望美方能够认真倾听理性的声音",
+        "onboard_time": 1737363017,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151982,
+        "num": 151982,
+        "word": "床位不够协和医院找6家医院帮忙",
+        "onboard_time": 1737360079,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 146851,
+        "num": 146851,
+        "word": "潘宏直播间专业用语",
+        "onboard_time": 1737361398,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 143972,
+        "num": 143972,
+        "word": "2024剧集十大人气男性角色",
+        "onboard_time": 1737364038,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147036,
+        "num": 140544,
+        "word": "肖战称已经尽全力出演郭靖",
+        "onboard_time": 1737352337,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135642,
+        "num": 135642,
+        "word": "购新补贴怎么领",
+        "onboard_time": 1737363379,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83149,
+        "num": 133934,
+        "word": "拼多多年货必买清单",
+        "onboard_time": 1737364398,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 132798,
+        "num": 132798,
+        "word": "白鹿说以后不太想接偶像剧",
+        "onboard_time": 1737340638,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132177,
+        "num": 132177,
+        "word": "孙颖莎希望冬训丰富自己",
+        "onboard_time": 1737363078,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130565,
+        "num": 130565,
+        "word": "一男子去年成功举报1945起交通事故",
+        "onboard_time": 1737358399,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127937,
+        "num": 127937,
+        "word": "比特币",
+        "onboard_time": 1737362898,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 126423,
+        "num": 126423,
+        "word": "已经想象我到家的瞬间了",
+        "onboard_time": 1737363978,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125646,
+        "num": 125646,
+        "word": "北京JDG挂牌公告",
+        "onboard_time": 1737364879,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117679,
+        "num": 117679,
+        "word": "3333元手机刚好拿满500元补贴",
+        "onboard_time": 1737354438,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 116250,
+        "num": 116250,
+        "word": "相思令",
+        "onboard_time": 1737338296,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114199,
+        "num": 114199,
+        "word": "荣耀中国区CMO将辞职",
+        "onboard_time": 1737363078,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#祝大家的生活像这些糖一样甜甜蜜蜜#"
+    }
+  }
+}

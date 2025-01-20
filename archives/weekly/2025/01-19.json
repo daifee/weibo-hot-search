@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737362534861,
+  "endTime": 1737365056166,
   "band_list": [
     {
       "raw_hot": 2805587,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1717034,
+      "num": 361013,
+      "word": "潘宏曾说母狗死后会卖狗肉车",
+      "onboard_time": 1737362118,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1643035,
       "num": 873302,
       "word": "潘宏回应",
@@ -113,6 +121,14 @@
       "onboard_time": 1737261557,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1461035,
+      "num": 355955,
+      "word": "中方回应特朗普要TikTok50%所有权",
+      "onboard_time": 1737360798,
+      "rank": 14,
+      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 1460876,
@@ -163,6 +179,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1292150,
+      "num": 1292150,
+      "word": "相思令空降播出",
+      "onboard_time": 1737360079,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1291973,
       "num": 366168,
       "word": "潘宏爱玩狗涉嫌虐狗吗",
@@ -187,27 +211,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1219126,
-      "num": 355955,
-      "word": "中方回应特朗普要TikTok50%所有权",
-      "onboard_time": 1737360798,
-      "rank": 14,
-      "category": "国际时政,互联网"
-    },
-    {
       "raw_hot": 1215468,
       "num": 502086,
       "word": "你摸我腰",
       "onboard_time": 1737255077,
       "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1211953,
-      "num": 1211953,
-      "word": "相思令空降播出",
-      "onboard_time": 1737360079,
-      "rank": 3,
       "category": "剧集"
     },
     {
@@ -331,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1001611,
+      "num": 1001611,
+      "word": "大学生开房洗衣服被吐槽薅羊毛",
+      "onboard_time": 1737363078,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 993865,
       "num": 416206,
       "word": "周受资代表TikTok感谢美国用户",
@@ -401,6 +417,14 @@
       "onboard_time": 1737271457,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 824187,
+      "num": 824187,
+      "word": "虞书欣央视总台国际频道采访",
+      "onboard_time": 1737360438,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 823989,
@@ -683,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 531230,
+      "num": 339894,
+      "word": "大奉打更人爆尾剧",
+      "onboard_time": 1737360258,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 523130,
       "num": 523130,
       "word": "国产剧终于拍了熟男熟女的cp了",
@@ -745,14 +777,6 @@
       "onboard_time": 1737271278,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 489825,
-      "num": 339894,
-      "word": "大奉打更人爆尾剧",
-      "onboard_time": 1737360258,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 481914,
@@ -911,6 +935,22 @@
       "num": 245045,
       "word": "李昀锐倪虹洁演夫妻",
       "onboard_time": 1737288919,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 420867,
+      "num": 420867,
+      "word": "高铁坐过站先不要出站",
+      "onboard_time": 1737363017,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 418703,
+      "num": 319879,
+      "word": "何惟芳开大",
+      "onboard_time": 1737360018,
       "rank": 21,
       "category": "剧集"
     },
@@ -1131,14 +1171,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 343204,
-      "num": 343204,
-      "word": "虞书欣央视总台国际频道采访",
-      "onboard_time": 1737360438,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 342526,
       "num": 163238,
       "word": "倪萍蔡明蛐蛐刘晓庆",
@@ -1177,6 +1209,14 @@
       "onboard_time": 1737295278,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 332313,
+      "num": 284501,
+      "word": "漂白",
+      "onboard_time": 1737190399,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 332165,
@@ -1259,20 +1299,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 321192,
+      "num": 274319,
+      "word": "白色橄榄树春节档",
+      "onboard_time": 1737363438,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 320700,
       "num": 320700,
       "word": "杨千霈洪家杰离婚",
       "onboard_time": 1737265817,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 319879,
-      "num": 319879,
-      "word": "何惟芳开大",
-      "onboard_time": 1737360018,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 318087,
@@ -1379,14 +1419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 284501,
-      "num": 284501,
-      "word": "漂白",
-      "onboard_time": 1737190399,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 283936,
       "num": 283936,
       "word": "射雕第二支长预告",
@@ -1425,6 +1457,14 @@
       "onboard_time": 1737342078,
       "rank": 26,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 279272,
+      "num": 279272,
+      "word": "文淇新剧无台词表演",
+      "onboard_time": 1737363858,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 279264,
@@ -1481,6 +1521,14 @@
       "onboard_time": 1737359958,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 272328,
+      "num": 272328,
+      "word": "刘亦菲与朋友聚餐",
+      "onboard_time": 1737363017,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 270790,
@@ -1657,6 +1705,22 @@
       "onboard_time": 1737357618,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 238757,
+      "num": 369956,
+      "word": "2025年春节档电影预售票房破2亿元",
+      "onboard_time": 1737363918,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 233578,
+      "num": 360791,
+      "word": "坐火车上错车下错站怎么办",
+      "onboard_time": 1737359958,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 232827,
@@ -2036,7 +2100,7 @@
     },
     {
       "raw_hot": 198134,
-      "num": 198134,
+      "num": 273028,
       "word": "乐言说Doinb发言有点不礼貌",
       "onboard_time": 1737360919,
       "rank": 28,
@@ -2275,12 +2339,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 188485,
+      "num": 188485,
+      "word": "赵今麦天选末世文女主",
+      "onboard_time": 1737364398,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188411,
       "num": 188411,
       "word": "12306回应四天崩三次",
       "onboard_time": 1737351678,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187859,
+      "num": 278840,
+      "word": "王源工作室直播",
+      "onboard_time": 1737364639,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 187076,
@@ -2291,12 +2371,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 186682,
-      "num": 186682,
-      "word": "潘宏曾说母狗死后会卖狗肉车",
-      "onboard_time": 1737362118,
-      "rank": 27,
-      "category": "网红"
+      "raw_hot": 186587,
+      "num": 186587,
+      "word": "夏弃疾说文淇太好拍了",
+      "onboard_time": 1737363138,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 186564,
@@ -2321,6 +2401,14 @@
       "onboard_time": 1737305055,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185798,
+      "num": 185798,
+      "word": "葛夕留几手前夫变老板",
+      "onboard_time": 1737361159,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 185544,
@@ -2377,6 +2465,14 @@
       "onboard_time": 1737294199,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 181777,
+      "num": 181777,
+      "word": "肖战单手上马",
+      "onboard_time": 1737362298,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 180988,
@@ -2523,14 +2619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 171071,
-      "num": 360791,
-      "word": "坐火车上错车下错站怎么办",
-      "onboard_time": 1737359958,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 170120,
       "num": 170120,
       "word": "张函瑞饭撒",
@@ -2577,6 +2665,14 @@
       "onboard_time": 1737274339,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 167526,
+      "num": 167526,
+      "word": "希望美方能够认真倾听理性的声音",
+      "onboard_time": 1737363017,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 166794,
@@ -2648,14 +2744,6 @@
       "word": "赵今麦微指破7亿",
       "onboard_time": 1737357858,
       "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 162406,
-      "num": 162406,
-      "word": "葛夕留几手前夫变老板",
-      "onboard_time": 1737361159,
-      "rank": 42,
       "category": "艺人"
     },
     {
@@ -3083,6 +3171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143972,
+      "num": 143972,
+      "word": "2024剧集十大人气男性角色",
+      "onboard_time": 1737364038,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143164,
       "num": 143164,
       "word": "搬家又一次让我意识到女性独居困境",
@@ -3259,20 +3355,20 @@
       "category": "民生新闻,旅游"
     },
     {
-      "raw_hot": 135916,
-      "num": 135916,
-      "word": "肖战单手上马",
-      "onboard_time": 1737362298,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 135832,
       "num": 135832,
       "word": "90后新闻联播主播王音棋主持春晚",
       "onboard_time": 1737291979,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135642,
+      "num": 135642,
+      "word": "购新补贴怎么领",
+      "onboard_time": 1737363379,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135347,
@@ -3329,6 +3425,14 @@
       "onboard_time": 1737268338,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132177,
+      "num": 132177,
+      "word": "孙颖莎希望冬训丰富自己",
+      "onboard_time": 1737363078,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 131179,
@@ -3403,6 +3507,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 127937,
+      "num": 127937,
+      "word": "比特币",
+      "onboard_time": 1737362898,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 127931,
       "num": 127931,
       "word": "不敢想吴青峰王源合唱有多好听",
@@ -3441,6 +3553,22 @@
       "onboard_time": 1737197539,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 126423,
+      "num": 126423,
+      "word": "已经想象我到家的瞬间了",
+      "onboard_time": 1737363978,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125646,
+      "num": 125646,
+      "word": "北京JDG挂牌公告",
+      "onboard_time": 1737364879,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 125014,
@@ -3689,6 +3817,14 @@
       "onboard_time": 1737354498,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114199,
+      "num": 114199,
+      "word": "荣耀中国区CMO将辞职",
+      "onboard_time": 1737363078,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 114081,
@@ -4363,6 +4499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83149,
+      "num": 133934,
+      "word": "拼多多年货必买清单",
+      "onboard_time": 1737364398,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 82709,
       "num": 82709,
       "word": "永远相信老祖宗的审美",
@@ -4732,7 +4876,7 @@
     },
     {
       "raw_hot": 47680,
-      "num": 756084,
+      "num": 897347,
       "word": "神十九乘组将择机实施第2次出舱",
       "onboard_time": 1737361398,
       "rank": 2,
