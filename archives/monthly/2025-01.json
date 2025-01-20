@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737393560492,
+  "endTime": 1737394577010,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -11587,6 +11587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 497533,
+      "num": 291926,
+      "word": "特朗普就职典礼",
+      "onboard_time": 1737392777,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 497151,
       "num": 988803,
       "word": "纯欲逃犯牛小莉",
@@ -17371,6 +17379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 332633,
+      "num": 332633,
+      "word": "国色芳华本周日收官",
+      "onboard_time": 1737391397,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 332600,
       "num": 311358,
       "word": "演员王星家属发声",
@@ -18585,14 +18601,6 @@
       "onboard_time": 1736731998,
       "rank": 8,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 311662,
-      "num": 270758,
-      "word": "特朗普就职典礼",
-      "onboard_time": 1737392777,
-      "rank": 11,
-      "category": "国际时政"
     },
     {
       "raw_hot": 311472,
@@ -20323,14 +20331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 282502,
-      "num": 282502,
-      "word": "国色芳华本周日收官",
-      "onboard_time": 1737391397,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 282378,
       "num": 282378,
       "word": "刘浩存陈飞宇同框合照",
@@ -20529,6 +20529,14 @@
       "onboard_time": 1735822040,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 278858,
+      "num": 278858,
+      "word": "特朗普就任第47任美国总统",
+      "onboard_time": 1737394033,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 278745,
@@ -35907,6 +35915,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 165887,
+      "num": 295162,
+      "word": "福州泉州厦门震感明显",
+      "onboard_time": 1737393315,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165882,
       "num": 165882,
       "word": "汪苏泷徐志胜李雪琴辽视春晚团建",
@@ -37529,6 +37545,14 @@
       "onboard_time": 1735986263,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158772,
+      "num": 158772,
+      "word": "福建浙江上海震感",
+      "onboard_time": 1737392956,
+      "rank": 25,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 158770,
@@ -41667,14 +41691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141289,
-      "num": 141289,
-      "word": "福建浙江上海震感",
-      "onboard_time": 1737392956,
-      "rank": 25,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 141237,
       "num": 141237,
       "word": "女子称在三亚冲浪时遭教练猥亵",
@@ -43793,14 +43809,6 @@
       "onboard_time": 1737205579,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 133026,
-      "num": 151227,
-      "word": "福州泉州厦门震感明显",
-      "onboard_time": 1737393315,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132992,
@@ -50641,6 +50649,14 @@
       "onboard_time": 1737118460,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105194,
+      "num": 105194,
+      "word": "台湾台南市连发地震",
+      "onboard_time": 1737393794,
+      "rank": 25,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 105144,
@@ -64785,6 +64801,14 @@
       "onboard_time": 1736802851,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11822,
+      "num": 108517,
+      "word": "还是熟悉的郭艾伦",
+      "onboard_time": 1737394154,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 11754,

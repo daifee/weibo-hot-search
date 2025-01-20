@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737393560492,
+  "endTime": 1737394577010,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -1011,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 497533,
+      "num": 291926,
+      "word": "特朗普就职典礼",
+      "onboard_time": 1737392777,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 491390,
       "num": 491390,
       "word": "2025春节档预售破亿",
@@ -1539,6 +1547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 332633,
+      "num": 332633,
+      "word": "国色芳华本周日收官",
+      "onboard_time": 1737391397,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 332165,
       "num": 288844,
       "word": "麦琳透露现在103斤",
@@ -1657,14 +1673,6 @@
       "onboard_time": 1737387918,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 311662,
-      "num": 270758,
-      "word": "特朗普就职典礼",
-      "onboard_time": 1737392777,
-      "rank": 11,
-      "category": "国际时政"
     },
     {
       "raw_hot": 308395,
@@ -1819,14 +1827,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 282502,
-      "num": 282502,
-      "word": "国色芳华本周日收官",
-      "onboard_time": 1737391397,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 280777,
       "num": 280777,
       "word": "半熟恋人4首录",
@@ -1857,6 +1857,14 @@
       "onboard_time": 1737291861,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 278858,
+      "num": 278858,
+      "word": "特朗普就任第47任美国总统",
+      "onboard_time": 1737394033,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 278648,
@@ -3339,6 +3347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165887,
+      "num": 295162,
+      "word": "福州泉州厦门震感明显",
+      "onboard_time": 1737393315,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165780,
       "num": 165780,
       "word": "A股三王发飙",
@@ -3537,6 +3553,14 @@
       "onboard_time": 1737350358,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158772,
+      "num": 158772,
+      "word": "福建浙江上海震感",
+      "onboard_time": 1737392956,
+      "rank": 25,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 158750,
@@ -4003,14 +4027,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 141289,
-      "num": 141289,
-      "word": "福建浙江上海震感",
-      "onboard_time": 1737392956,
-      "rank": 25,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 141214,
       "num": 141214,
       "word": "上一个这么坏的还是容嬷嬷",
@@ -4265,14 +4281,6 @@
       "onboard_time": 1737339257,
       "rank": 19,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 133026,
-      "num": 151227,
-      "word": "福州泉州厦门震感明显",
-      "onboard_time": 1737393315,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132672,
@@ -5113,6 +5121,14 @@
       "onboard_time": 1737257658,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105194,
+      "num": 105194,
+      "word": "台湾台南市连发地震",
+      "onboard_time": 1737393794,
+      "rank": 25,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 104992,
@@ -6671,6 +6687,14 @@
       "num": 222517,
       "word": "乒乓球亚洲杯会徽吉祥物公布",
       "onboard_time": 1737374778,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 11822,
+      "num": 108517,
+      "word": "还是熟悉的郭艾伦",
+      "onboard_time": 1737394154,
       "rank": 24,
       "category": "体育"
     },

@@ -1,6 +1,6 @@
 {
   "startTime": 1737390442496,
-  "endTime": 1737393560492,
+  "endTime": 1737394577010,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -83,6 +83,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 497533,
+      "num": 291926,
+      "word": "特朗普就职典礼",
+      "onboard_time": 1737392777,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 479843,
       "num": 479843,
       "word": "赵今麦受刑戏看出幻肢痛",
@@ -115,20 +123,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 332633,
+      "num": 332633,
+      "word": "国色芳华本周日收官",
+      "onboard_time": 1737391397,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 311724,
       "num": 260223,
       "word": "终于又看到戏骨含量100%国产剧",
       "onboard_time": 1737387918,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 311662,
-      "num": 270758,
-      "word": "特朗普就职典礼",
-      "onboard_time": 1737392777,
-      "rank": 11,
-      "category": "国际时政"
     },
     {
       "raw_hot": 284684,
@@ -147,12 +155,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 282502,
-      "num": 282502,
-      "word": "国色芳华本周日收官",
-      "onboard_time": 1737391397,
-      "rank": 8,
-      "category": "剧集"
+      "raw_hot": 278858,
+      "num": 278858,
+      "word": "特朗普就任第47任美国总统",
+      "onboard_time": 1737394033,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 275333,
@@ -235,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165887,
+      "num": 295162,
+      "word": "福州泉州厦门震感明显",
+      "onboard_time": 1737393315,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165554,
       "num": 138036,
       "word": "麦琳商业价值超李行亮",
@@ -243,20 +259,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158772,
+      "num": 158772,
+      "word": "福建浙江上海震感",
+      "onboard_time": 1737392956,
+      "rank": 25,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 141505,
       "num": 141505,
       "word": "一文梳理潘宏爱玩狗关键信息",
       "onboard_time": 1737388698,
       "rank": 18,
       "category": "网红"
-    },
-    {
-      "raw_hot": 141289,
-      "num": 141289,
-      "word": "福建浙江上海震感",
-      "onboard_time": 1737392956,
-      "rank": 25,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 141267,
@@ -273,14 +289,6 @@
       "onboard_time": 1737377057,
       "rank": 27,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 133026,
-      "num": 151227,
-      "word": "福州泉州厦门震感明显",
-      "onboard_time": 1737393315,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124944,
@@ -321,6 +329,14 @@
       "onboard_time": 1737386898,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105194,
+      "num": 105194,
+      "word": "台湾台南市连发地震",
+      "onboard_time": 1737393794,
+      "rank": 25,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 104981,
@@ -560,6 +576,14 @@
       "word": "2025亚冬会火种今日成功采集",
       "onboard_time": 1737381800,
       "rank": 2,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 11822,
+      "num": 108517,
+      "word": "还是熟悉的郭艾伦",
+      "onboard_time": 1737394154,
+      "rank": 24,
       "category": "体育"
     }
   ],
