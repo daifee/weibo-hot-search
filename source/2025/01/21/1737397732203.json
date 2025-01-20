@@ -1,0 +1,410 @@
+{
+  "runTime": 1737397732203,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 645843,
+        "num": 645843,
+        "word": "台湾地震",
+        "onboard_time": 1737391036,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 395160,
+        "num": 395160,
+        "word": "特朗普正式宣誓就职",
+        "onboard_time": 1737393254,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21947,
+        "num": 331136,
+        "word": "中国的人造太阳有重大突破",
+        "onboard_time": 1737371538,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 270253,
+        "num": 270253,
+        "word": "杭州震感",
+        "onboard_time": 1737392417,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 268413,
+        "num": 268413,
+        "word": "周锐官宣恋情",
+        "onboard_time": 1737383781,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 199183,
+        "num": 199183,
+        "word": "国色芳华本周日收官",
+        "onboard_time": 1737391397,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189816,
+        "num": 189816,
+        "word": "台湾台南6.2级地震",
+        "onboard_time": 1737390918,
+        "rank": 6,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 152734,
+        "num": 152734,
+        "word": "福建震感",
+        "onboard_time": 1737391397,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 148084,
+        "num": 148084,
+        "word": "尹锡悦律师碰瓷中国12345便民热线",
+        "onboard_time": 1737385100,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70124,
+        "num": 138735,
+        "word": "2岁女童超30种食物过敏体重仅13斤",
+        "onboard_time": 1737395532,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286272,
+        "num": 138632,
+        "word": "特朗普就职典礼",
+        "onboard_time": 1737392777,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 200073,
+        "num": 138201,
+        "word": "特朗普就任第47任美国总统",
+        "onboard_time": 1737394033,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137618,
+        "num": 137618,
+        "word": "印度女医生奸杀案宣判",
+        "onboard_time": 1737377178,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 114030,
+        "num": 114030,
+        "word": "赵今麦受刑戏看出幻肢痛",
+        "onboard_time": 1737387737,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111603,
+        "num": 111603,
+        "word": "大学生开房洗衣服被吐槽薅羊毛",
+        "onboard_time": 1737363078,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75988,
+        "num": 75988,
+        "word": "福州泉州厦门震感明显",
+        "onboard_time": 1737393315,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71194,
+        "num": 71194,
+        "word": "留几手说不想骗葛夕了",
+        "onboard_time": 1737384081,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64743,
+        "num": 64743,
+        "word": "终于又看到戏骨含量100%国产剧",
+        "onboard_time": 1737387918,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64714,
+        "num": 64714,
+        "word": "马锐为Angelababy发声",
+        "onboard_time": 1737383900,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63196,
+        "num": 63196,
+        "word": "吴尊杀回亲子节目",
+        "onboard_time": 1737389657,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353781,
+        "num": 62278,
+        "word": "艾特经历40次火龙果12次心肺复苏",
+        "onboard_time": 1737383180,
+        "rank": 20,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 99397,
+        "num": 61721,
+        "word": "训犬师谈网红狗艾特洗澡死亡",
+        "onboard_time": 1737373278,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 61142,
+        "num": 61142,
+        "word": "福建浙江上海震感",
+        "onboard_time": 1737392956,
+        "rank": 22,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 59180,
+        "num": 59180,
+        "word": "艾特主人称会有后续",
+        "onboard_time": 1737379458,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 57356,
+        "num": 57356,
+        "word": "漂白",
+        "onboard_time": 1737360798,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56260,
+        "num": 56260,
+        "word": "中方回应特朗普要TikTok50%所有权",
+        "onboard_time": 1737360798,
+        "rank": 25,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 48666,
+        "num": 48666,
+        "word": "女子身在辐中不知辐",
+        "onboard_time": 1737390918,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48484,
+        "num": 48484,
+        "word": "厦门震感",
+        "onboard_time": 1737392176,
+        "rank": 27,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 45429,
+        "num": 45429,
+        "word": "一听这些歌就知道快过年了",
+        "onboard_time": 1737375737,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43970,
+        "num": 43970,
+        "word": "四川内江4.4级地震",
+        "onboard_time": 1737384201,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42971,
+        "num": 42971,
+        "word": "周锐张馨月偶练之前就在一起了",
+        "onboard_time": 1737386361,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 42893,
+        "num": 42893,
+        "word": "韩国网友被中国演员的颜值震撼",
+        "onboard_time": 1737353478,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41487,
+        "num": 41487,
+        "word": "俄方调侃泽连斯基未出席特朗普就职典礼",
+        "onboard_time": 1737390259,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 40157,
+        "num": 40157,
+        "word": "广东震感",
+        "onboard_time": 1737392535,
+        "rank": 33,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 37889,
+        "num": 37889,
+        "word": "台湾台南市连发地震",
+        "onboard_time": 1737393794,
+        "rank": 34,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 37041,
+        "num": 37041,
+        "word": "潘宏将母狗卖给狗肉车或违法",
+        "onboard_time": 1737397332,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 36855,
+        "num": 36855,
+        "word": "女子取8万8称拜年发红包惊动民警",
+        "onboard_time": 1737366617,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36745,
+        "num": 36745,
+        "word": "张雪峰称给公司350人发2000万年终奖",
+        "onboard_time": 1737379818,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 34258,
+        "num": 34258,
+        "word": "麦琳商业价值超李行亮",
+        "onboard_time": 1737377117,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33946,
+        "num": 33946,
+        "word": "白鹿把敖瑞鹏哄成胚胎了",
+        "onboard_time": 1737372858,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33834,
+        "num": 33834,
+        "word": "代表建议建议四川试行2.5天休假",
+        "onboard_time": 1737391036,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33154,
+        "num": 33154,
+        "word": "拜登预防性赦免福奇等人",
+        "onboard_time": 1737381199,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32178,
+        "num": 32178,
+        "word": "陈震赔付领克500万元违约金",
+        "onboard_time": 1737373157,
+        "rank": 42,
+        "category": "汽车,网红"
+      },
+      {
+        "raw_hot": 31708,
+        "num": 31708,
+        "word": "外交部回应X不被允许在中国运营",
+        "onboard_time": 1737366017,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31169,
+        "num": 31169,
+        "word": "异人之下 王也角色",
+        "onboard_time": 1737378799,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28965,
+        "num": 28965,
+        "word": "相思令腾讯视频站内热度值破20000",
+        "onboard_time": 1737389477,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28342,
+        "num": 28342,
+        "word": "一文梳理潘宏爱玩狗关键信息",
+        "onboard_time": 1737388698,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 28113,
+        "num": 28113,
+        "word": "台湾地震福建网友称震感强烈",
+        "onboard_time": 1737392417,
+        "rank": 47,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 19545,
+        "num": 28101,
+        "word": "司空震蛇年限定皮肤",
+        "onboard_time": 1737389657,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19207,
+        "num": 27950,
+        "word": "一起相约第九届亚冬会",
+        "onboard_time": 1737397452,
+        "rank": 49,
+        "category": "体育,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#这份牵挂春暖中国#"
+    }
+  }
+}
