@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737355461185,
+  "endTime": 1737357692979,
   "band_list": [
     {
       "raw_hot": 2805587,
@@ -76,11 +76,19 @@
     },
     {
       "raw_hot": 1871030,
-      "num": 688309,
+      "num": 870749,
       "word": "韩安冉前夫破产",
       "onboard_time": 1737346578,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1807619,
+      "num": 1807619,
+      "word": "珠海驾车撞人案罪犯被执行死刑",
+      "onboard_time": 1737355397,
+      "rank": 0,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1780894,
@@ -147,8 +155,16 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1325543,
+      "num": 1325543,
+      "word": "韩国网友被中国演员的颜值震撼",
+      "onboard_time": 1737353478,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1291973,
-      "num": 353197,
+      "num": 366168,
       "word": "潘宏爱玩狗涉嫌虐狗吗",
       "onboard_time": 1737349039,
       "rank": 13,
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 1253564,
-      "num": 354351,
+      "num": 366016,
       "word": "特朗普说TikTok回来了",
       "onboard_time": 1737342318,
       "rank": 14,
@@ -233,6 +249,14 @@
       "onboard_time": 1737279798,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1060914,
+      "num": 1060914,
+      "word": "无锡校园持刀伤人案罪犯被执行死刑",
+      "onboard_time": 1737356179,
+      "rank": 3,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1046204,
@@ -331,14 +355,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 874342,
-      "num": 874342,
-      "word": "韩国网友被中国演员的颜值震撼",
-      "onboard_time": 1737353478,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 854922,
       "num": 854922,
       "word": "Doinb说跪下",
@@ -411,6 +427,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 701241,
+      "num": 701241,
+      "word": "日均接诊800人协和急诊说忙爆炸了",
+      "onboard_time": 1737353538,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 687464,
       "num": 260208,
       "word": "特朗普发帖呼吁挽救TikTok",
@@ -423,14 +447,6 @@
       "num": 903147,
       "word": "47岁女子升级做奶奶晒抱孙子合影",
       "onboard_time": 1737328094,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 669238,
-      "num": 669238,
-      "word": "日均接诊800人协和急诊说忙爆炸了",
-      "onboard_time": 1737353538,
       "rank": 4,
       "category": "民生新闻"
     },
@@ -617,6 +633,14 @@
       "onboard_time": 1737262458,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 533637,
+      "num": 533637,
+      "word": "肖战称已经尽全力出演郭靖",
+      "onboard_time": 1737352337,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 523130,
@@ -963,20 +987,28 @@
       "category": "互联网,国际时政"
     },
     {
+      "raw_hot": 365750,
+      "num": 365750,
+      "word": "虞书欣卷毛小鬼",
+      "onboard_time": 1737356118,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 365197,
+      "num": 365197,
+      "word": "60秒看懂购新国补怎么补",
+      "onboard_time": 1737346940,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 361368,
       "num": 361368,
       "word": "特朗普称将撤销拜登所有行政命令",
       "onboard_time": 1737334997,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 359949,
-      "num": 359949,
-      "word": "60秒看懂购新国补怎么补",
-      "onboard_time": 1737346940,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 358446,
@@ -1049,14 +1081,6 @@
       "onboard_time": 1737212420,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 342060,
-      "num": 283422,
-      "word": "肖战称已经尽全力出演郭靖",
-      "onboard_time": 1737352337,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 338433,
@@ -1137,6 +1161,14 @@
       "onboard_time": 1737339017,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 323397,
+      "num": 323397,
+      "word": "女子泡温泉时拍照发现水中全是泥垢",
+      "onboard_time": 1737355878,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 322645,
@@ -1307,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279929,
+      "num": 279929,
+      "word": "TikTok发声明感谢特朗普澄清保证",
+      "onboard_time": 1737356478,
+      "rank": 15,
+      "category": "互联网,国际时政"
+    },
+    {
       "raw_hot": 279374,
       "num": 279374,
       "word": "医保局牵头调查某些集采药质量风险问题",
@@ -1337,6 +1377,14 @@
       "onboard_time": 1737342678,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 277541,
+      "num": 366462,
+      "word": "劳动者对双休需求强烈",
+      "onboard_time": 1737352517,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 275346,
@@ -1531,6 +1579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 237745,
+      "num": 232354,
+      "word": "3333元手机刚好拿满500元补贴",
+      "onboard_time": 1737354438,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 232827,
       "num": 160938,
       "word": "TikTok公司表示白宫无保证平台只能关",
@@ -1579,11 +1635,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 229058,
+      "num": 229058,
+      "word": "陈朵从小被下毒皮肤全烂",
+      "onboard_time": 1737356538,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228583,
       "num": 228583,
       "word": "所有人都忘了许七安",
       "onboard_time": 1737243074,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 227085,
+      "num": 227085,
+      "word": "陈哲远梁洁白色橄榄树动了",
+      "onboard_time": 1737357618,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -2323,6 +2395,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 171155,
+      "num": 171155,
+      "word": "王嘉尔下飞机就是秀场",
+      "onboard_time": 1737354856,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170120,
       "num": 170120,
       "word": "张函瑞饭撒",
@@ -2369,14 +2449,6 @@
       "onboard_time": 1737274339,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 167412,
-      "num": 282801,
-      "word": "劳动者对双休需求强烈",
-      "onboard_time": 1737352517,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 166520,
@@ -2499,14 +2571,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 159523,
-      "num": 159523,
-      "word": "3333元手机刚好拿满500元补贴",
-      "onboard_time": 1737354438,
-      "rank": 38,
-      "category": "数码"
-    },
-    {
       "raw_hot": 159437,
       "num": 159437,
       "word": "SM新男团将参与家族演唱会舞台",
@@ -2593,6 +2657,14 @@
       "onboard_time": 1737214759,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 154196,
+      "num": 154196,
+      "word": "敖瑞鹏微指破2亿了",
+      "onboard_time": 1737356597,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 153983,
@@ -2761,6 +2833,14 @@
       "onboard_time": 1737215959,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 147645,
+      "num": 147645,
+      "word": "律师谈网红小狗艾特去世",
+      "onboard_time": 1737357198,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 146739,
@@ -2995,6 +3075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136383,
+      "num": 136383,
+      "word": "aespa开麦实力看完神清气爽",
+      "onboard_time": 1737355278,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 136186,
       "num": 502049,
       "word": "用中式美学打开大寒节气",
@@ -3049,14 +3137,6 @@
       "onboard_time": 1737300800,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 133462,
-      "num": 133462,
-      "word": "王嘉尔下飞机就是秀场",
-      "onboard_time": 1737354856,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 133367,
@@ -3123,6 +3203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129738,
+      "num": 129738,
+      "word": "射雕英雄传17%排片获40%票房",
+      "onboard_time": 1737357438,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 129435,
       "num": 129435,
       "word": "狗妈妈叼着冻僵小狗找人求救",
@@ -3169,6 +3257,14 @@
       "onboard_time": 1737275539,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127229,
+      "num": 127229,
+      "word": "明日方舟",
+      "onboard_time": 1737197539,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 125014,
@@ -3283,12 +3379,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119235,
+      "num": 119235,
+      "word": "全国首单手机国补用户分享小妙招",
+      "onboard_time": 1737355819,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118975,
       "num": 118975,
       "word": "白月梵星",
       "onboard_time": 1737274519,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117791,
+      "num": 117791,
+      "word": "TikTok恢复服务美国网友激动坏了",
+      "onboard_time": 1737356419,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 117780,
@@ -3491,6 +3603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107916,
+      "num": 107916,
+      "word": "孟鹤堂砸挂阎鹤祥说脱口秀",
+      "onboard_time": 1737356298,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107797,
       "num": 94472,
       "word": "李现对的终究会走到最后",
@@ -3627,6 +3747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103860,
+      "num": 103860,
+      "word": "2025新春走基层",
+      "onboard_time": 1737355697,
+      "rank": 46,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 103709,
       "num": 103709,
       "word": "陈奕迅官方认证最难唱的歌",
@@ -3665,14 +3793,6 @@
       "onboard_time": 1737328215,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102259,
-      "num": 102259,
-      "word": "aespa开麦实力看完神清气爽",
-      "onboard_time": 1737355278,
-      "rank": 46,
-      "category": "演出"
     },
     {
       "raw_hot": 101875,
@@ -3761,6 +3881,14 @@
       "onboard_time": 1737339137,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99618,
+      "num": 99618,
+      "word": "半熟恋人",
+      "onboard_time": 1737356118,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 98309,
@@ -4315,14 +4443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 51351,
-      "num": 90776,
-      "word": "明日方舟",
-      "onboard_time": 1737197539,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 51132,
       "num": 1021187,
       "word": "国产高科技新产品加速出海",
@@ -4340,7 +4460,7 @@
     },
     {
       "raw_hot": 50833,
-      "num": 1087227,
+      "num": 1107468,
       "word": "大寒节气里的诗情画意",
       "onboard_time": 1737343097,
       "rank": 2,

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737355461185,
+  "endTime": 1737357692979,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1484,7 +1484,7 @@
     },
     {
       "raw_hot": 1871030,
-      "num": 688309,
+      "num": 870749,
       "word": "韩安冉前夫破产",
       "onboard_time": 1737346578,
       "rank": 12,
@@ -1569,6 +1569,14 @@
       "onboard_time": 1735798942,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1807619,
+      "num": 1807619,
+      "word": "珠海驾车撞人案罪犯被执行死刑",
+      "onboard_time": 1737355397,
+      "rank": 0,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1807004,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736777062,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1483524,
-      "num": 1483524,
-      "word": "特斯拉Model Y",
-      "onboard_time": 1736472619,
-      "rank": 3,
-      "category": "汽车"
     }
   ],
   "hotgov_list": [
