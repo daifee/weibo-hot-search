@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737351495478,
+  "endTime": 1737354675308,
   "band_list": [
     {
       "raw_hot": 2766963,
@@ -9,6 +9,14 @@
       "onboard_time": 1737295879,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2664307,
+      "num": 235083,
+      "word": "陈乔恩称艾特去世是谋杀案",
+      "onboard_time": 1737351738,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2463156,
@@ -192,6 +200,14 @@
       "word": "骗子转走300万给受害人转1万做生活费",
       "onboard_time": 1737288799,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1146467,
+      "num": 1183434,
+      "word": "12306售罄为何第三方还显示有票",
+      "onboard_time": 1737348859,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -459,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 616210,
+      "num": 225222,
+      "word": "韩国网友被中国演员的颜值震撼",
+      "onboard_time": 1737353478,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 615427,
       "num": 347113,
       "word": "麦琳杨子留几手3人连麦违规",
@@ -561,6 +585,14 @@
       "onboard_time": 1737298759,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 535687,
+      "num": 535687,
+      "word": "王一博易烊千玺春晚同框路透",
+      "onboard_time": 1737351258,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 534808,
@@ -692,7 +724,7 @@
     },
     {
       "raw_hot": 467545,
-      "num": 348966,
+      "num": 350965,
       "word": "大奉打更人电影版官宣",
       "onboard_time": 1737349638,
       "rank": 16,
@@ -809,14 +841,6 @@
       "onboard_time": 1737332357,
       "rank": 5,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 407748,
-      "num": 407748,
-      "word": "12306售罄为何第三方还显示有票",
-      "onboard_time": 1737348859,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 404464,
@@ -953,6 +977,14 @@
       "onboard_time": 1737292159,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 356878,
+      "num": 356878,
+      "word": "日均接诊800人协和急诊说忙爆炸了",
+      "onboard_time": 1737353538,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 356346,
@@ -1339,6 +1371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 268637,
+      "num": 219421,
+      "word": "电影哪吒之魔童闹海",
+      "onboard_time": 1737353598,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 263437,
       "num": 237260,
       "word": "特朗普妻子发行虚拟币MELANIA",
@@ -1361,6 +1401,14 @@
       "onboard_time": 1737291440,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 259897,
+      "num": 259897,
+      "word": "肖战称已经尽全力出演郭靖",
+      "onboard_time": 1737352337,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 256673,
@@ -1715,6 +1763,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 203907,
+      "num": 203907,
+      "word": "艾特因咬人被送潘宏园区成为流量担当",
+      "onboard_time": 1737353718,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 202900,
       "num": 193585,
       "word": "李行亮是麦琳的榜一大哥",
@@ -1793,6 +1849,14 @@
       "onboard_time": 1737347238,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199205,
+      "num": 199205,
+      "word": "爸爸带娃买了一斤豆坐飞机",
+      "onboard_time": 1737351556,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 197705,
@@ -2009,6 +2073,14 @@
       "onboard_time": 1737252317,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 188411,
+      "num": 188411,
+      "word": "12306回应四天崩三次",
+      "onboard_time": 1737351678,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187076,
@@ -2547,14 +2619,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 151549,
-      "num": 151549,
-      "word": "王一博易烊千玺春晚同框路透",
-      "onboard_time": 1737351258,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 151505,
       "num": 151505,
       "word": "秦胜意的两次破门",
@@ -2665,6 +2729,14 @@
       "onboard_time": 1737215959,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 147398,
+      "num": 147398,
+      "word": "劳动者对双休需求强烈",
+      "onboard_time": 1737352517,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146739,
@@ -2889,6 +2961,14 @@
       "onboard_time": 1737244996,
       "rank": 26,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 136676,
+      "num": 136676,
+      "word": "Doinb拉黑小东北",
+      "onboard_time": 1737354438,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 136399,
@@ -3131,6 +3211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 122524,
+      "num": 122524,
+      "word": "3333元手机刚好拿满500元补贴",
+      "onboard_time": 1737354438,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 121494,
       "num": 121494,
       "word": "肖战射雕英雄传上座率超20%",
@@ -3299,6 +3387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111893,
+      "num": 111893,
+      "word": "赵达文淇异人之下2对手戏",
+      "onboard_time": 1737354079,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111215,
       "num": 111215,
       "word": "原神5.3版本",
@@ -3312,6 +3408,14 @@
       "word": "异人之下2好看",
       "onboard_time": 1737247038,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 111042,
+      "num": 111042,
+      "word": "王一博网络视听盛典上班",
+      "onboard_time": 1737354498,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -3353,6 +3457,14 @@
       "onboard_time": 1737337458,
       "rank": 37,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 108475,
+      "num": 118281,
+      "word": "千朵桃花5个人演了13个角色",
+      "onboard_time": 1737351378,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 108266,
@@ -3499,20 +3611,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103709,
+      "num": 103709,
+      "word": "陈奕迅官方认证最难唱的歌",
+      "onboard_time": 1737351678,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 103652,
       "num": 103652,
       "word": "奇才vs勇士",
       "onboard_time": 1737260598,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 103585,
-      "num": 103585,
-      "word": "千朵桃花5个人演了13个角色",
-      "onboard_time": 1737351378,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 103367,
@@ -3585,6 +3697,22 @@
       "onboard_time": 1737289518,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 100985,
+      "num": 189555,
+      "word": "朱一龙emoji报行程",
+      "onboard_time": 1737354559,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100753,
+      "num": 100753,
+      "word": "刘诗诗黑粉被强执6042元",
+      "onboard_time": 1737353478,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 100502,
@@ -4267,8 +4395,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 41688,
-      "num": 129594,
+      "raw_hot": 42501,
+      "num": 231413,
       "word": "马龙李现同框米兰看秀",
       "onboard_time": 1737351138,
       "rank": 39,

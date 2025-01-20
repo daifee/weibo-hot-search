@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737351495478,
+  "endTime": 1737354675308,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -641,6 +641,14 @@
       "onboard_time": 1736396663,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2664307,
+      "num": 235083,
+      "word": "陈乔恩称艾特去世是谋杀案",
+      "onboard_time": 1737351738,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2651426,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736472619,
       "rank": 3,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 1480702,
-      "num": 1480702,
-      "word": "泰国总理自曝差点成电诈受害者",
-      "onboard_time": 1736993237,
-      "rank": 1,
-      "category": "海外新闻"
     }
   ],
   "hotgov_list": [
