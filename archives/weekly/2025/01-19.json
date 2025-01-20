@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737342002098,
+  "endTime": 1737343506216,
   "band_list": [
     {
       "raw_hot": 2766963,
@@ -19,20 +19,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 2061302,
+      "num": 2061302,
+      "word": "台测试封杀小红书遭网友嘲讽",
+      "onboard_time": 1737339856,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 2038344,
       "num": 2038344,
       "word": "央视曝光美甲灯安全隐患",
       "onboard_time": 1737286337,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2036208,
-      "num": 2036208,
-      "word": "台测试封杀小红书遭网友嘲讽",
-      "onboard_time": 1737339856,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 2022883,
@@ -57,6 +57,14 @@
       "onboard_time": 1737336198,
       "rank": 19,
       "category": "网红,体育"
+    },
+    {
+      "raw_hot": 1547143,
+      "num": 1245842,
+      "word": "主人已将艾特遗体带回家",
+      "onboard_time": 1737339677,
+      "rank": 3,
+      "category": "网红"
     },
     {
       "raw_hot": 1497293,
@@ -91,6 +99,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1278268,
+      "num": 495876,
+      "word": "艾特的主人发声",
+      "onboard_time": 1737339976,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1249195,
       "num": 1249195,
       "word": "留几手曝杨子留了90%的现金给黄圣依",
@@ -99,12 +115,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1245842,
-      "num": 1245842,
-      "word": "主人已将艾特遗体带回家",
-      "onboard_time": 1737339677,
-      "rank": 3,
-      "category": "网红"
+      "raw_hot": 1242052,
+      "num": 1242052,
+      "word": "白鹿说以后不太想接偶像剧",
+      "onboard_time": 1737340638,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 1215468,
@@ -355,12 +371,12 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 661745,
-      "num": 661745,
-      "word": "白鹿说以后不太想接偶像剧",
-      "onboard_time": 1737340638,
-      "rank": 13,
-      "category": "剧集"
+      "raw_hot": 656901,
+      "num": 303781,
+      "word": "特朗普说TikTok回来了",
+      "onboard_time": 1737342318,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 655982,
@@ -369,14 +385,6 @@
       "onboard_time": 1737260658,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 651603,
-      "num": 495876,
-      "word": "艾特的主人发声",
-      "onboard_time": 1737339976,
-      "rank": 10,
-      "category": "网红"
     },
     {
       "raw_hot": 645941,
@@ -955,6 +963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 323262,
+      "num": 304872,
+      "word": "于适0帧起手射箭",
+      "onboard_time": 1737341177,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 322645,
       "num": 193775,
       "word": "男子曝烟头烫到马桶酒店索赔1000多",
@@ -995,11 +1011,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 311241,
-      "num": 217517,
-      "word": "于适0帧起手射箭",
-      "onboard_time": 1737341177,
-      "rank": 23,
+      "raw_hot": 308534,
+      "num": 308534,
+      "word": "射雕领跑的蛇年春节档刷新了影史",
+      "onboard_time": 1737342378,
+      "rank": 9,
       "category": "电影"
     },
     {
@@ -1041,6 +1057,14 @@
       "onboard_time": 1737212660,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 303710,
+      "num": 303710,
+      "word": "今天起买手机最高补贴500",
+      "onboard_time": 1737339017,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 302574,
@@ -1129,14 +1153,6 @@
       "onboard_time": 1737283758,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 275933,
-      "num": 275933,
-      "word": "今天起买手机最高补贴500",
-      "onboard_time": 1737339017,
-      "rank": 17,
-      "category": "数码"
     },
     {
       "raw_hot": 275346,
@@ -1363,6 +1379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226380,
+      "num": 226380,
+      "word": "敖瑞鹏此身分明了",
+      "onboard_time": 1737342678,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223726,
       "num": 223726,
       "word": "异人之下2十个奇门九个疯",
@@ -1507,12 +1531,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 205118,
+      "num": 205118,
+      "word": "射雕英雄传",
+      "onboard_time": 1737342618,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 204670,
       "num": 204670,
       "word": "疑似苏新皓手受伤",
       "onboard_time": 1737300079,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 204387,
+      "num": 204386,
+      "word": "相思令",
+      "onboard_time": 1737338296,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 204215,
@@ -1537,6 +1577,14 @@
       "onboard_time": 1737293960,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 200515,
+      "num": 200515,
+      "word": "医保局牵头调查某些集采药质量风险问题",
+      "onboard_time": 1737342078,
+      "rank": 26,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 200204,
@@ -1715,6 +1763,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 187912,
+      "num": 197073,
+      "word": "肖战射雕首日预售票房连破8个记录",
+      "onboard_time": 1737343337,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 187076,
       "num": 187076,
       "word": "陈浚铭小狗饭撒",
@@ -1729,6 +1785,14 @@
       "onboard_time": 1737285379,
       "rank": 27,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 186376,
+      "num": 186376,
+      "word": "孙颖莎进入国家一队八周年",
+      "onboard_time": 1737342678,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 185916,
@@ -1825,14 +1889,6 @@
       "onboard_time": 1737284839,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 177979,
-      "num": 177979,
-      "word": "相思令",
-      "onboard_time": 1737338296,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 177399,
@@ -2049,6 +2105,14 @@
       "onboard_time": 1737302538,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159695,
+      "num": 159695,
+      "word": "她一言不发但眼睛会说话",
+      "onboard_time": 1737342918,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 159601,
@@ -2475,6 +2539,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 137117,
+      "num": 137117,
+      "word": "大寒过了就是年",
+      "onboard_time": 1737342918,
+      "rank": 34,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 136792,
       "num": 136792,
       "word": "马龙夏露米兰探店路透",
@@ -2699,6 +2771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120308,
+      "num": 204387,
+      "word": "射雕第二支长预告",
+      "onboard_time": 1737343398,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 120268,
       "num": 96540,
       "word": "王一博闪闪微光",
@@ -2729,6 +2809,14 @@
       "onboard_time": 1737259518,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117708,
+      "num": 117708,
+      "word": "多款手机集体降至6000元以内",
+      "onboard_time": 1737343337,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 117487,
@@ -2915,6 +3003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106577,
+      "num": 107891,
+      "word": "白鹿听说菩提村有敖瑞鹏熟人在",
+      "onboard_time": 1737341957,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106398,
       "num": 106398,
       "word": "外甥女问我要压岁钱",
@@ -2961,6 +3057,14 @@
       "onboard_time": 1737269836,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105786,
+      "num": 105786,
+      "word": "周鸿祎用车厘子给大家拜早年了",
+      "onboard_time": 1737335058,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 105728,
@@ -3059,14 +3163,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 101185,
-      "num": 101185,
-      "word": "白鹿听说菩提村有敖瑞鹏熟人在",
-      "onboard_time": 1737341957,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 101184,
       "num": 101184,
       "word": "杨茜尧获大湾区最喜爱TVB女主角",
@@ -3083,12 +3179,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 100999,
+      "num": 100894,
+      "word": "第一夫人币推出后特朗普币暴跌",
+      "onboard_time": 1737343458,
+      "rank": 48,
+      "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 100963,
+      "num": 100963,
+      "word": "春运路上看见绝美国色",
+      "onboard_time": 1737343337,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100502,
       "num": 100502,
       "word": "杨子头像",
       "onboard_time": 1737255017,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100470,
+      "num": 100470,
+      "word": "于适时尚芭莎二月刊封面",
+      "onboard_time": 1737343458,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 100124,
@@ -3113,6 +3233,14 @@
       "onboard_time": 1737301339,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 98044,
+      "num": 204441,
+      "word": "曾黎逛300年非遗大集",
+      "onboard_time": 1737343398,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 97689,
@@ -3683,6 +3811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46041,
+      "num": 865213,
+      "word": "大寒节气里的诗情画意",
+      "onboard_time": 1737343097,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 43496,
       "num": 1179101,
       "word": "用非遗剪纸的方式打开苏州",
@@ -3897,6 +4033,14 @@
       "onboard_time": 1737320530,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23798,
+      "num": 113793,
+      "word": "大熊猫为何会伤人",
+      "onboard_time": 1737342799,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 23091,
