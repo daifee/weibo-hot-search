@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737358549367,
+  "endTime": 1737361743161,
   "band_list": [
     {
       "raw_hot": 2805587,
@@ -243,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1070924,
+      "num": 362160,
+      "word": "TikTok发声明感谢特朗普澄清保证",
+      "onboard_time": 1737356478,
+      "rank": 15,
+      "category": "互联网,国际时政"
+    },
+    {
       "raw_hot": 1062787,
       "num": 573218,
       "word": "留几手自曝请杨子喝酒花20万",
@@ -323,12 +331,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 958683,
+      "num": 755826,
+      "word": "相思令空降播出",
+      "onboard_time": 1737360079,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 923121,
       "num": 923121,
       "word": "iG",
       "onboard_time": 1737277818,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 918877,
+      "num": 358223,
+      "word": "艾特因咬人被送潘宏园区成为流量担当",
+      "onboard_time": 1737353718,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 911767,
@@ -369,6 +393,14 @@
       "onboard_time": 1737271457,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 823989,
+      "num": 434780,
+      "word": "射雕英雄传17%排片获40%票房",
+      "onboard_time": 1737357438,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 819946,
@@ -851,14 +883,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 428091,
-      "num": 325511,
-      "word": "艾特因咬人被送潘宏园区成为流量担当",
-      "onboard_time": 1737353718,
-      "rank": 24,
-      "category": "网红"
-    },
-    {
       "raw_hot": 427470,
       "num": 427470,
       "word": "留几手回应离婚财产分配",
@@ -953,6 +977,14 @@
       "onboard_time": 1737205520,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 383499,
+      "num": 345069,
+      "word": "中方回应特朗普要TikTok50%所有权",
+      "onboard_time": 1737360798,
+      "rank": 14,
+      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 375933,
@@ -1091,6 +1123,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 343204,
+      "num": 343204,
+      "word": "虞书欣央视总台国际频道采访",
+      "onboard_time": 1737360438,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 342526,
       "num": 163238,
       "word": "倪萍蔡明蛐蛐刘晓庆",
@@ -1121,6 +1161,14 @@
       "onboard_time": 1737277638,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 334838,
+      "num": 334838,
+      "word": "大奉打更人爆尾剧",
+      "onboard_time": 1737360258,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 334013,
@@ -1161,22 +1209,6 @@
       "onboard_time": 1737283758,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 325517,
-      "num": 325517,
-      "word": "射雕英雄传17%排片获40%票房",
-      "onboard_time": 1737357438,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 325496,
-      "num": 325496,
-      "word": "TikTok发声明感谢特朗普澄清保证",
-      "onboard_time": 1737356478,
-      "rank": 15,
-      "category": "互联网,国际时政"
     },
     {
       "raw_hot": 325455,
@@ -1403,6 +1435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 275773,
+      "num": 275773,
+      "word": "何惟芳开大",
+      "onboard_time": 1737360018,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 275346,
       "num": 225459,
       "word": "李昀锐断眉",
@@ -1425,6 +1465,14 @@
       "onboard_time": 1737245896,
       "rank": 21,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 272376,
+      "num": 272376,
+      "word": "女娲愿照千秋盛皮肤",
+      "onboard_time": 1737359958,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 270790,
@@ -1867,6 +1915,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 204465,
+      "num": 262782,
+      "word": "球迷米兰偶遇樊振东",
+      "onboard_time": 1737360678,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204387,
       "num": 204386,
       "word": "相思令",
@@ -1881,6 +1937,14 @@
       "onboard_time": 1737255737,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 203660,
+      "num": 337723,
+      "word": "跟着品质中国了解更多卫生巾真相",
+      "onboard_time": 1737359898,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202900,
@@ -1961,6 +2025,14 @@
       "onboard_time": 1737347238,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198134,
+      "num": 198134,
+      "word": "乐言说Doinb发言有点不礼貌",
+      "onboard_time": 1737360919,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 197705,
@@ -2161,6 +2233,14 @@
       "onboard_time": 1737254177,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 190094,
+      "num": 190094,
+      "word": "一男子去年成功举报1945起交通事故",
+      "onboard_time": 1737358399,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189806,
@@ -2425,6 +2505,14 @@
       "onboard_time": 1737354856,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171071,
+      "num": 171071,
+      "word": "坐火车上错车下错站怎么办",
+      "onboard_time": 1737359958,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170120,
@@ -2907,6 +2995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145174,
+      "num": 145174,
+      "word": "马龙朋友圈也玩livephoto",
+      "onboard_time": 1737358820,
+      "rank": 37,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 145172,
       "num": 105087,
       "word": "文轩",
@@ -3041,6 +3137,14 @@
       "onboard_time": 1737260417,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139190,
+      "num": 365526,
+      "word": "床位不够协和医院找6家医院帮忙",
+      "onboard_time": 1737360079,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 139147,
@@ -3195,6 +3299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132075,
+      "num": 132075,
+      "word": "葛夕留几手前夫变老板",
+      "onboard_time": 1737361159,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131179,
       "num": 131179,
       "word": "迪丽热巴贺思慕原声哭戏路透",
@@ -3209,6 +3321,14 @@
       "onboard_time": 1737273918,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130965,
+      "num": 130965,
+      "word": "身边的年味",
+      "onboard_time": 1737360018,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130736,
@@ -3345,6 +3465,14 @@
       "onboard_time": 1737288559,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123618,
+      "num": 123618,
+      "word": "潘宏直播间专业用语",
+      "onboard_time": 1737361398,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 123505,
@@ -3859,14 +3987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 101631,
-      "num": 101631,
-      "word": "一男子去年成功举报1945起交通事故",
-      "onboard_time": 1737358399,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101299,
       "num": 74345,
       "word": "肖战庄达菲射雕剧照",
@@ -3897,6 +4017,14 @@
       "onboard_time": 1737353478,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100672,
+      "num": 137584,
+      "word": "给新春会小小贡献了一张重岳",
+      "onboard_time": 1737360557,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 100502,
@@ -4659,6 +4787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35455,
+      "num": 180035,
+      "word": "祖国山河一片银装一眼心动",
+      "onboard_time": 1737360318,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35028,
       "num": 35028,
       "word": "苏新皓和粉丝隔空握手",
@@ -4833,6 +4969,14 @@
       "onboard_time": 1737241692,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22359,
+      "num": 756084,
+      "word": "神十九乘组将择机实施第2次出舱",
+      "onboard_time": 1737361398,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 21656,
@@ -5074,6 +5218,9 @@
     },
     {
       "word": "#让更多人参与到冰雪运动中来#"
+    },
+    {
+      "word": "#祝大家的生活像这些糖一样甜甜蜜蜜#"
     }
   ]
 }
