@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737343506216,
+  "endTime": 1737344387681,
   "band_list": [
     {
       "raw_hot": 2766963,
@@ -19,8 +19,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 2061302,
-      "num": 2061302,
+      "raw_hot": 2104042,
+      "num": 2104042,
       "word": "台测试封杀小红书遭网友嘲讽",
       "onboard_time": 1737339856,
       "rank": 1,
@@ -43,6 +43,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1893385,
+      "num": 1245842,
+      "word": "主人已将艾特遗体带回家",
+      "onboard_time": 1737339677,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1780894,
       "num": 228187,
       "word": "杨子直播求婚黄圣依",
@@ -59,20 +67,20 @@
       "category": "网红,体育"
     },
     {
-      "raw_hot": 1547143,
-      "num": 1245842,
-      "word": "主人已将艾特遗体带回家",
-      "onboard_time": 1737339677,
-      "rank": 3,
-      "category": "网红"
-    },
-    {
       "raw_hot": 1497293,
       "num": 1497293,
       "word": "美国网友已经准备在屋前屋后种菜",
       "onboard_time": 1737261557,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1451273,
+      "num": 1451273,
+      "word": "白鹿说以后不太想接偶像剧",
+      "onboard_time": 1737340638,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 1353805,
@@ -99,7 +107,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1278268,
+      "raw_hot": 1320371,
       "num": 495876,
       "word": "艾特的主人发声",
       "onboard_time": 1737339976,
@@ -115,20 +123,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1242052,
-      "num": 1242052,
-      "word": "白鹿说以后不太想接偶像剧",
-      "onboard_time": 1737340638,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1215468,
       "num": 502086,
       "word": "你摸我腰",
       "onboard_time": 1737255077,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1200180,
+      "num": 303781,
+      "word": "特朗普说TikTok回来了",
+      "onboard_time": 1737342318,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1195226,
@@ -369,14 +377,6 @@
       "onboard_time": 1737256938,
       "rank": 28,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 656901,
-      "num": 303781,
-      "word": "特朗普说TikTok回来了",
-      "onboard_time": 1737342318,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 655982,
@@ -625,6 +625,14 @@
       "onboard_time": 1737254718,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 472699,
+      "num": 472699,
+      "word": "射雕领跑的蛇年春节档刷新了影史",
+      "onboard_time": 1737342378,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 469753,
@@ -963,6 +971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 324807,
+      "num": 324807,
+      "word": "今天起买手机最高补贴500",
+      "onboard_time": 1737339017,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 323262,
       "num": 304872,
       "word": "于适0帧起手射箭",
@@ -1011,14 +1027,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 308534,
-      "num": 308534,
-      "word": "射雕领跑的蛇年春节档刷新了影史",
-      "onboard_time": 1737342378,
-      "rank": 9,
-      "category": "电影"
-    },
-    {
       "raw_hot": 308395,
       "num": 179236,
       "word": "射雕英雄传侠之大者预售",
@@ -1057,14 +1065,6 @@
       "onboard_time": 1737212660,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 303710,
-      "num": 303710,
-      "word": "今天起买手机最高补贴500",
-      "onboard_time": 1737339017,
-      "rank": 17,
-      "category": "数码"
     },
     {
       "raw_hot": 302574,
@@ -1155,6 +1155,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278595,
+      "num": 278595,
+      "word": "医保局牵头调查某些集采药质量风险问题",
+      "onboard_time": 1737342078,
+      "rank": 26,
+      "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 277633,
+      "num": 277633,
+      "word": "敖瑞鹏此身分明了",
+      "onboard_time": 1737342678,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 275346,
       "num": 225459,
       "word": "李昀锐断眉",
@@ -1193,6 +1209,14 @@
       "onboard_time": 1737297740,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 265334,
+      "num": 265334,
+      "word": "射雕第二支长预告",
+      "onboard_time": 1737343398,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 263437,
@@ -1323,6 +1347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 235454,
+      "num": 235454,
+      "word": "半熟恋人4首录",
+      "onboard_time": 1737343578,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232827,
       "num": 160938,
       "word": "TikTok公司表示白宫无保证平台只能关",
@@ -1376,14 +1408,6 @@
       "word": "所有人都忘了许七安",
       "onboard_time": 1737243074,
       "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 226380,
-      "num": 226380,
-      "word": "敖瑞鹏此身分明了",
-      "onboard_time": 1737342678,
-      "rank": 19,
       "category": "剧集"
     },
     {
@@ -1579,14 +1603,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 200515,
-      "num": 200515,
-      "word": "医保局牵头调查某些集采药质量风险问题",
-      "onboard_time": 1737342078,
-      "rank": 26,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 200204,
       "num": 150197,
       "word": "敖瑞鹏说求天道眷顾梵樾",
@@ -1641,6 +1657,14 @@
       "onboard_time": 1737333617,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 195327,
+      "num": 197073,
+      "word": "肖战射雕首日预售票房连破8个记录",
+      "onboard_time": 1737343337,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 194697,
@@ -1763,20 +1787,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 187912,
-      "num": 197073,
-      "word": "肖战射雕首日预售票房连破8个记录",
-      "onboard_time": 1737343337,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 187076,
       "num": 187076,
       "word": "陈浚铭小狗饭撒",
       "onboard_time": 1737293179,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 186564,
+      "num": 186564,
+      "word": "向佐正式确诊为土拨鼠",
+      "onboard_time": 1737343758,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 186410,
@@ -2128,6 +2152,14 @@
       "word": "SM新男团将参与家族演唱会舞台",
       "onboard_time": 1737336438,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 159365,
+      "num": 252093,
+      "word": "曾黎逛300年非遗大集",
+      "onboard_time": 1737343398,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -2699,6 +2731,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 127905,
+      "num": 127905,
+      "word": "多款手机集体降至6000元以内",
+      "onboard_time": 1737343337,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 127838,
       "num": 100671,
       "word": "大奉打更人创总广告时长第一",
@@ -2763,20 +2803,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 121294,
+      "num": 121294,
+      "word": "第一夫人币推出后特朗普币暴跌",
+      "onboard_time": 1737343458,
+      "rank": 48,
+      "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 121256,
+      "num": 121256,
+      "word": "于适时尚芭莎二月刊封面",
+      "onboard_time": 1737343458,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 121099,
       "num": 121099,
       "word": "白鹿剧宣真诚又体面",
       "onboard_time": 1737270258,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120308,
-      "num": 204387,
-      "word": "射雕第二支长预告",
-      "onboard_time": 1737343398,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 120268,
@@ -2811,12 +2859,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117708,
-      "num": 117708,
-      "word": "多款手机集体降至6000元以内",
+      "raw_hot": 117532,
+      "num": 117532,
+      "word": "春运路上看见绝美国色",
       "onboard_time": 1737343337,
-      "rank": 38,
-      "category": "数码"
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117487,
@@ -3083,6 +3131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 105679,
+      "num": 105679,
+      "word": "公司回应员工蹲厕所被拍照曝光",
+      "onboard_time": 1737343638,
+      "rank": 42,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 105342,
       "num": 105342,
       "word": "通行时间从2小时缩短到2分钟",
@@ -3121,6 +3177,14 @@
       "onboard_time": 1737269537,
       "rank": 44,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 103068,
+      "num": 103068,
+      "word": "黄仁勋称英伟达中国员工离职率全球最低",
+      "onboard_time": 1737344297,
+      "rank": 44,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 102717,
@@ -3179,36 +3243,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 100999,
-      "num": 100894,
-      "word": "第一夫人币推出后特朗普币暴跌",
-      "onboard_time": 1737343458,
-      "rank": 48,
-      "category": "国际时政,财经"
-    },
-    {
-      "raw_hot": 100963,
-      "num": 100963,
-      "word": "春运路上看见绝美国色",
-      "onboard_time": 1737343337,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 100502,
       "num": 100502,
       "word": "杨子头像",
       "onboard_time": 1737255017,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 100470,
-      "num": 100470,
-      "word": "于适时尚芭莎二月刊封面",
-      "onboard_time": 1737343458,
-      "rank": 49,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 100124,
@@ -3233,14 +3273,6 @@
       "onboard_time": 1737301339,
       "rank": 40,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 98044,
-      "num": 204441,
-      "word": "曾黎逛300年非遗大集",
-      "onboard_time": 1737343398,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 97689,
@@ -3345,6 +3377,14 @@
       "onboard_time": 1737216259,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94579,
+      "num": 94579,
+      "word": "他炸出来的醒狮酥毛流感十足",
+      "onboard_time": 1737344358,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94327,
@@ -3755,6 +3795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 50833,
+      "num": 1087227,
+      "word": "大寒节气里的诗情画意",
+      "onboard_time": 1737343097,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 50343,
       "num": 229889,
       "word": "乔兮星宇花卷挂牌",
@@ -3809,14 +3857,6 @@
       "onboard_time": 1737221534,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 46041,
-      "num": 865213,
-      "word": "大寒节气里的诗情画意",
-      "onboard_time": 1737343097,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 43496,
@@ -4292,6 +4332,9 @@
     },
     {
       "word": "#习近平提到的幸福路#"
+    },
+    {
+      "word": "#新春时光总书记最深的牵挂#"
     }
   ]
 }

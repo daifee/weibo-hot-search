@@ -1,0 +1,410 @@
+{
+  "runTime": 1737344387681,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2104042,
+        "num": 2104042,
+        "word": "台测试封杀小红书遭网友嘲讽",
+        "onboard_time": 1737339856,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1451273,
+        "num": 1451273,
+        "word": "白鹿说以后不太想接偶像剧",
+        "onboard_time": 1737340638,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50833,
+        "num": 1087227,
+        "word": "大寒节气里的诗情画意",
+        "onboard_time": 1737343097,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 847244,
+        "num": 847244,
+        "word": "国补",
+        "onboard_time": 1737332357,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 711418,
+        "num": 711418,
+        "word": "小伙把梳子做成柿子形状卖了5万把",
+        "onboard_time": 1737339197,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 477195,
+        "num": 477195,
+        "word": "TikTok正恢复美用户服务",
+        "onboard_time": 1737328153,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 472699,
+        "num": 472699,
+        "word": "射雕领跑的蛇年春节档刷新了影史",
+        "onboard_time": 1737342378,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 443750,
+        "num": 443750,
+        "word": "耙耙柑远不只是善良这么简单",
+        "onboard_time": 1737339078,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 420679,
+        "num": 420679,
+        "word": "26岁渐冻症女生已不符合临床入组条件",
+        "onboard_time": 1737333198,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324807,
+        "num": 324807,
+        "word": "今天起买手机最高补贴500",
+        "onboard_time": 1737339017,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1893385,
+        "num": 317165,
+        "word": "主人已将艾特遗体带回家",
+        "onboard_time": 1737339677,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1320371,
+        "num": 312362,
+        "word": "艾特的主人发声",
+        "onboard_time": 1737339976,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1200180,
+        "num": 298578,
+        "word": "特朗普说TikTok回来了",
+        "onboard_time": 1737342318,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 366258,
+        "num": 284183,
+        "word": "郭靖台词道出金庸武侠中的家国天下",
+        "onboard_time": 1737339617,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 278595,
+        "num": 278595,
+        "word": "医保局牵头调查某些集采药质量风险问题",
+        "onboard_time": 1737342078,
+        "rank": 14,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 277633,
+        "num": 277633,
+        "word": "敖瑞鹏此身分明了",
+        "onboard_time": 1737342678,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272911,
+        "num": 272911,
+        "word": "李现回应英文名Jungle",
+        "onboard_time": 1737338477,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265334,
+        "num": 265334,
+        "word": "射雕第二支长预告",
+        "onboard_time": 1737343398,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 253537,
+        "num": 253537,
+        "word": "TikTok发布最新声明",
+        "onboard_time": 1737328995,
+        "rank": 18,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 159365,
+        "num": 252093,
+        "word": "曾黎逛300年非遗大集",
+        "onboard_time": 1737343398,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251247,
+        "num": 251247,
+        "word": "于适0帧起手射箭",
+        "onboard_time": 1737341177,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 244417,
+        "num": 244417,
+        "word": "偶遇吴谨言洪尧公园散步",
+        "onboard_time": 1737333257,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235454,
+        "num": 235454,
+        "word": "半熟恋人4首录",
+        "onboard_time": 1737343578,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201695,
+        "num": 201695,
+        "word": "neinei14岁近照",
+        "onboard_time": 1737333257,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195327,
+        "num": 195327,
+        "word": "肖战射雕首日预售票房连破8个记录",
+        "onboard_time": 1737343337,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191180,
+        "num": 191180,
+        "word": "第一批回家的人已经被返乡高铁治愈了",
+        "onboard_time": 1737338957,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186564,
+        "num": 186564,
+        "word": "向佐正式确诊为土拨鼠",
+        "onboard_time": 1737343758,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182823,
+        "num": 182823,
+        "word": "相思令",
+        "onboard_time": 1737338296,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180064,
+        "num": 180064,
+        "word": "集五福",
+        "onboard_time": 1737332357,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 176818,
+        "num": 176818,
+        "word": "中国鸡蛋羹被全世界种草",
+        "onboard_time": 1737328995,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 165504,
+        "num": 165504,
+        "word": "特朗普称将撤销拜登所有行政命令",
+        "onboard_time": 1737334997,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155189,
+        "num": 155189,
+        "word": "孙颖莎进入国家一队八周年",
+        "onboard_time": 1737342678,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135628,
+        "num": 135628,
+        "word": "距第一个非遗春节不足10天",
+        "onboard_time": 1737334939,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128697,
+        "num": 128697,
+        "word": "2025春节档史上最快预售破亿",
+        "onboard_time": 1737339437,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127905,
+        "num": 127905,
+        "word": "多款手机集体降至6000元以内",
+        "onboard_time": 1737343337,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 127043,
+        "num": 127043,
+        "word": "她一言不发但眼睛会说话",
+        "onboard_time": 1737342918,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122505,
+        "num": 122505,
+        "word": "大寒过了就是年",
+        "onboard_time": 1737342918,
+        "rank": 36,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 121294,
+        "num": 121294,
+        "word": "第一夫人币推出后特朗普币暴跌",
+        "onboard_time": 1737343458,
+        "rank": 37,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 121256,
+        "num": 121256,
+        "word": "于适时尚芭莎二月刊封面",
+        "onboard_time": 1737343458,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 117532,
+        "num": 117532,
+        "word": "春运路上看见绝美国色",
+        "onboard_time": 1737343337,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114359,
+        "num": 114359,
+        "word": "Doinb解释TheShy选卡尔玛原因",
+        "onboard_time": 1737333198,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107405,
+        "num": 107405,
+        "word": "小寒大寒又过一年",
+        "onboard_time": 1737337396,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105679,
+        "num": 105679,
+        "word": "公司回应员工蹲厕所被拍照曝光",
+        "onboard_time": 1737343638,
+        "rank": 42,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 105221,
+        "num": 105221,
+        "word": "专家称睡眠时长影响热量摄入",
+        "onboard_time": 1737294921,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103068,
+        "num": 103068,
+        "word": "黄仁勋称英伟达中国员工离职率全球最低",
+        "onboard_time": 1737344297,
+        "rank": 44,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 102401,
+        "num": 102401,
+        "word": "射雕英雄传预售票房破1亿",
+        "onboard_time": 1737340518,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99078,
+        "num": 99078,
+        "word": "TikTok称将寻找在美可用的长期方案",
+        "onboard_time": 1737333198,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 98805,
+        "num": 98805,
+        "word": "SM新男团将参与家族演唱会舞台",
+        "onboard_time": 1737336438,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98607,
+        "num": 98607,
+        "word": "时代少年团不谢幕的演出",
+        "onboard_time": 1737333617,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 94579,
+        "num": 94579,
+        "word": "他炸出来的醒狮酥毛流感十足",
+        "onboard_time": 1737344358,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#新春时光总书记最深的牵挂#"
+    }
+  }
+}
