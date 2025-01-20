@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737348018534,
+  "endTime": 1737350493972,
   "band_list": [
     {
       "raw_hot": 2766963,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 2350642,
-      "num": 339994,
+      "num": 356870,
       "word": "陈乔恩为网红狗艾特发声",
       "onboard_time": 1737344418,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2266291,
+      "num": 357166,
+      "word": "特朗普要TikTok50%所有权",
+      "onboard_time": 1737348859,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 2104042,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 1253564,
-      "num": 339729,
+      "num": 354351,
       "word": "特朗普说TikTok回来了",
       "onboard_time": 1737342318,
       "rank": 14,
@@ -435,6 +443,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 617983,
+      "num": 353197,
+      "word": "潘宏爱玩狗涉嫌虐狗吗",
+      "onboard_time": 1737349039,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 616812,
+      "num": 369065,
+      "word": "宁静说向太刘晓庆是恩人",
+      "onboard_time": 1737348439,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 615427,
       "num": 347113,
       "word": "麦琳杨子留几手3人连麦违规",
@@ -699,6 +723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 451134,
+      "num": 451134,
+      "word": "越来越多年轻人选择开车回家过年",
+      "onboard_time": 1737345200,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 443442,
       "num": 443442,
       "word": "豆包chatGPT辩论谁是人工智障",
@@ -779,6 +811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 399704,
+      "num": 352278,
+      "word": "揭秘潘宏背后文化传媒公司",
+      "onboard_time": 1737347600,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 394508,
       "num": 394508,
       "word": "大奉打更人云合超国色芳华登顶",
@@ -793,6 +833,14 @@
       "onboard_time": 1737274818,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 387804,
+      "num": 365605,
+      "word": "张康乐马柏全费加罗PARK视频预告",
+      "onboard_time": 1737349338,
+      "rank": 7,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 385932,
@@ -859,12 +907,28 @@
       "category": "互联网,国际时政"
     },
     {
+      "raw_hot": 361747,
+      "num": 348966,
+      "word": "大奉打更人电影版官宣",
+      "onboard_time": 1737349638,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 361368,
       "num": 361368,
       "word": "特朗普称将撤销拜登所有行政命令",
       "onboard_time": 1737334997,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 359949,
+      "num": 359949,
+      "word": "60秒看懂购新国补怎么补",
+      "onboard_time": 1737346940,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 358446,
@@ -913,6 +977,14 @@
       "onboard_time": 1737297500,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 344235,
+      "num": 332623,
+      "word": "妈妈被强行辞退女儿维权讨说法",
+      "onboard_time": 1737347118,
+      "rank": 46,
+      "category": "正能量"
     },
     {
       "raw_hot": 343683,
@@ -977,6 +1049,14 @@
       "onboard_time": 1737243074,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 329035,
+      "num": 329035,
+      "word": "肖战庄达菲没事哒没事哒",
+      "onboard_time": 1737349638,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 329010,
@@ -1051,14 +1131,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 308603,
-      "num": 308603,
-      "word": "越来越多年轻人选择开车回家过年",
-      "onboard_time": 1737345200,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 308395,
       "num": 179236,
       "word": "射雕英雄传侠之大者预售",
@@ -1115,28 +1187,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 298479,
-      "num": 340566,
-      "word": "60秒看懂购新国补怎么补",
-      "onboard_time": 1737346940,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 296514,
       "num": 277980,
       "word": "蛇年春晚后台主持人阵容官宣",
       "onboard_time": 1737259037,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 294690,
-      "num": 215586,
-      "word": "妈妈被强行辞退女儿维权讨说法",
-      "onboard_time": 1737347118,
-      "rank": 46,
-      "category": "正能量"
     },
     {
       "raw_hot": 294614,
@@ -1331,6 +1387,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 252972,
+      "num": 252972,
+      "word": "12306售罄为何第三方还显示有票",
+      "onboard_time": 1737348859,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 252535,
       "num": 218556,
       "word": "昆凌与周杰伦10周年合体跳舞秀恩爱",
@@ -1353,6 +1417,14 @@
       "onboard_time": 1737207800,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 246428,
+      "num": 333277,
+      "word": "人物2024年度女演员宋佳",
+      "onboard_time": 1737349519,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 245844,
@@ -1659,11 +1731,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 201064,
+      "num": 201064,
+      "word": "漂白好讽刺的四个人",
+      "onboard_time": 1737349098,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200547,
       "num": 200547,
       "word": "甄珍逃出来了吗",
       "onboard_time": 1737347118,
       "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 200473,
+      "num": 200473,
+      "word": "雪中悍刀行青鸟爆改刘婉",
+      "onboard_time": 1737346878,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -1761,6 +1849,14 @@
       "onboard_time": 1737343337,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 195033,
+      "num": 195033,
+      "word": "医生建议降压仿制药一粒不行吃两粒",
+      "onboard_time": 1737348799,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 194697,
@@ -1939,6 +2035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185544,
+      "num": 185544,
+      "word": "亚洲杯",
+      "onboard_time": 1737349459,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185158,
       "num": 185158,
       "word": "射雕哪吒封神2春节档预售票房榜前三",
@@ -2051,14 +2155,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 175593,
-      "num": 175593,
-      "word": "雪中悍刀行青鸟爆改刘婉",
-      "onboard_time": 1737346878,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 175465,
       "num": 175465,
       "word": "iG对战NIP",
@@ -2089,14 +2185,6 @@
       "onboard_time": 1737261497,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 174252,
-      "num": 174252,
-      "word": "揭秘潘宏背后文化传媒公司",
-      "onboard_time": 1737347600,
-      "rank": 34,
-      "category": "网红"
     },
     {
       "raw_hot": 174151,
@@ -2212,7 +2300,7 @@
     },
     {
       "raw_hot": 163755,
-      "num": 163755,
+      "num": 359146,
       "word": "TikTok称将寻找在美可用的长期方案",
       "onboard_time": 1737333198,
       "rank": 23,
@@ -2233,6 +2321,14 @@
       "onboard_time": 1737291139,
       "rank": 44,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 162079,
+      "num": 162079,
+      "word": "肖战电影原声台词太稳了",
+      "onboard_time": 1737349220,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 161116,
@@ -2667,6 +2763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141214,
+      "num": 141214,
+      "word": "上一个这么坏的还是容嬷嬷",
+      "onboard_time": 1737348679,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140719,
       "num": 140719,
       "word": "第一批回家的00后开始拜财神了",
@@ -2931,6 +3035,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 124983,
+      "num": 124983,
+      "word": "四个字让留几手百分百破防",
+      "onboard_time": 1737350358,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124704,
       "num": 138876,
       "word": "射雕新预告郭靖大汗对峙",
@@ -3153,6 +3265,14 @@
       "onboard_time": 1737288858,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111215,
+      "num": 111215,
+      "word": "原神5.3版本",
+      "onboard_time": 1737349819,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 111062,
@@ -3432,6 +3552,14 @@
       "word": "杨子头像",
       "onboard_time": 1737255017,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100246,
+      "num": 100246,
+      "word": "十个勤天2025年第一次合体舞台",
+      "onboard_time": 1737348018,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -3716,7 +3844,7 @@
     },
     {
       "raw_hot": 82069,
-      "num": 155863,
+      "num": 350630,
       "word": "smart凭实力进入第31个全球市场",
       "onboard_time": 1737347299,
       "rank": 37,
@@ -3752,6 +3880,14 @@
       "word": "九尾开播",
       "onboard_time": 1737214579,
       "rank": 38,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 79124,
+      "num": 251145,
+      "word": "Doinb说LPL会好起来的",
+      "onboard_time": 1737348379,
+      "rank": 24,
       "category": "电竞"
     },
     {

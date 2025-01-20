@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737348018534,
+  "endTime": 1737350493972,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -868,7 +868,7 @@
     },
     {
       "raw_hot": 2350642,
-      "num": 339994,
+      "num": 356870,
       "word": "陈乔恩为网红狗艾特发声",
       "onboard_time": 1737344418,
       "rank": 10,
@@ -937,6 +937,14 @@
       "onboard_time": 1736318060,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2266291,
+      "num": 357166,
+      "word": "特朗普要TikTok50%所有权",
+      "onboard_time": 1737348859,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 2256630,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736993237,
       "rank": 1,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1479333,
-      "num": 1479333,
-      "word": "谢娜 死嘴快憋住啊",
-      "onboard_time": 1736838618,
-      "rank": 25,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
