@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737404563661,
+  "endTime": 1737405343103,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -5715,6 +5715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 79757,
+      "num": 59283,
+      "word": "电视剧漂白被指抄袭",
+      "onboard_time": 1737401951,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 79507,
       "num": 75046,
       "word": "李小冉说向太胖",
@@ -6025,14 +6033,6 @@
       "onboard_time": 1737365058,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 53599,
-      "num": 53599,
-      "word": "电视剧漂白被指抄袭",
-      "onboard_time": 1737401951,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 53593,
@@ -6419,6 +6419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29256,
+      "num": 29256,
+      "word": "拜登给特朗普留了一封信",
+      "onboard_time": 1737400872,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 29229,
       "num": 136223,
       "word": "chiikawa乌萨奇角色介绍",
@@ -6545,14 +6553,6 @@
       "onboard_time": 1737311712,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 22718,
-      "num": 22718,
-      "word": "拜登给特朗普留了一封信",
-      "onboard_time": 1737400872,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 22569,
@@ -6747,6 +6747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 14703,
+      "num": 16813,
+      "word": "射雕预告诠释中国武侠为何生生不息",
+      "onboard_time": 1737404172,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 14627,
       "num": 17843,
       "word": "登陆少年耶舞台记录",
@@ -6768,6 +6776,14 @@
       "word": "卡车猫王将带父亲和13只猫出去散心",
       "onboard_time": 1737231551,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13914,
+      "num": 61922,
+      "word": "冒充中科院骗89岁老人买药",
+      "onboard_time": 1737403991,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -6819,20 +6835,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 10639,
+      "num": 16815,
+      "word": "央视曝光办讲座卖神药骗局",
+      "onboard_time": 1737404891,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10343,
       "num": 73883,
       "word": "KPL压岁钱大作战",
       "onboard_time": 1737305835,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 9517,
-      "num": 61922,
-      "word": "冒充中科院骗89岁老人买药",
-      "onboard_time": 1737403991,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9467,
