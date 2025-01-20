@@ -1,7 +1,15 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737354675308,
+  "endTime": 1737355461185,
   "band_list": [
+    {
+      "raw_hot": 2805587,
+      "num": 285887,
+      "word": "陈乔恩称艾特去世是谋杀案",
+      "onboard_time": 1737351738,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2766963,
       "num": 2766963,
@@ -9,14 +17,6 @@
       "onboard_time": 1737295879,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 2664307,
-      "num": 235083,
-      "word": "陈乔恩称艾特去世是谋杀案",
-      "onboard_time": 1737351738,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 2463156,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1871030,
-      "num": 625086,
+      "num": 688309,
       "word": "韩安冉前夫破产",
       "onboard_time": 1737346578,
       "rank": 12,
@@ -331,6 +331,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 874342,
+      "num": 874342,
+      "word": "韩国网友被中国演员的颜值震撼",
+      "onboard_time": 1737353478,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 854922,
       "num": 854922,
       "word": "Doinb说跪下",
@@ -419,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 669238,
+      "num": 669238,
+      "word": "日均接诊800人协和急诊说忙爆炸了",
+      "onboard_time": 1737353538,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 666228,
       "num": 565018,
       "word": "杨子称离婚后负责孩子所有费用",
@@ -473,14 +489,6 @@
       "onboard_time": 1737348439,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 616210,
-      "num": 225222,
-      "word": "韩国网友被中国演员的颜值震撼",
-      "onboard_time": 1737353478,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 615427,
@@ -979,14 +987,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 356878,
-      "num": 356878,
-      "word": "日均接诊800人协和急诊说忙爆炸了",
-      "onboard_time": 1737353538,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 356346,
       "num": 356346,
       "word": "国色芳华24集预告",
@@ -1049,6 +1049,14 @@
       "onboard_time": 1737212420,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 342060,
+      "num": 283422,
+      "word": "肖战称已经尽全力出演郭靖",
+      "onboard_time": 1737352337,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 338433,
@@ -1387,6 +1395,14 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 262198,
+      "num": 262198,
+      "word": "艾特因咬人被送潘宏园区成为流量担当",
+      "onboard_time": 1737353718,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 261625,
       "num": 247577,
       "word": "猎罪图鉴海外宣传以金世佳为主",
@@ -1401,14 +1417,6 @@
       "onboard_time": 1737291440,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 259897,
-      "num": 259897,
-      "word": "肖战称已经尽全力出演郭靖",
-      "onboard_time": 1737352337,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 256673,
@@ -1611,6 +1619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 217142,
+      "num": 217142,
+      "word": "爸爸带娃买了一斤豆坐飞机",
+      "onboard_time": 1737351556,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216222,
       "num": 230104,
       "word": "肖战坦言对春节档竞争不紧张",
@@ -1715,12 +1731,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207505,
+      "num": 207505,
+      "word": "艾特",
+      "onboard_time": 1737350958,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 207137,
       "num": 124676,
       "word": "国色芳华单集收视创新高",
       "onboard_time": 1737210261,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205328,
+      "num": 205328,
+      "word": "朱一龙emoji报行程",
+      "onboard_time": 1737354559,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 205139,
@@ -1763,28 +1795,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 203907,
-      "num": 203907,
-      "word": "艾特因咬人被送潘宏园区成为流量担当",
-      "onboard_time": 1737353718,
-      "rank": 24,
-      "category": "网红"
-    },
-    {
       "raw_hot": 202900,
       "num": 193585,
       "word": "李行亮是麦琳的榜一大哥",
       "onboard_time": 1737280338,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 202055,
-      "num": 202055,
-      "word": "艾特",
-      "onboard_time": 1737350958,
-      "rank": 25,
-      "category": "网红"
     },
     {
       "raw_hot": 201928,
@@ -1851,14 +1867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199205,
-      "num": 199205,
-      "word": "爸爸带娃买了一斤豆坐飞机",
-      "onboard_time": 1737351556,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 197705,
       "num": 197705,
       "word": "射雕英雄传影史国产片预售首日票房冠军",
@@ -1921,6 +1929,14 @@
       "onboard_time": 1737343337,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 195144,
+      "num": 195144,
+      "word": "Doinb拉黑小东北",
+      "onboard_time": 1737354438,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 195033,
@@ -2355,6 +2371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 167412,
+      "num": 282801,
+      "word": "劳动者对双休需求强烈",
+      "onboard_time": 1737352517,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166520,
       "num": 166520,
       "word": "白泽一族终究还是只剩下梵樾一人了",
@@ -2473,6 +2497,14 @@
       "onboard_time": 1737261018,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 159523,
+      "num": 159523,
+      "word": "3333元手机刚好拿满500元补贴",
+      "onboard_time": 1737354438,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 159437,
@@ -2731,14 +2763,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 147398,
-      "num": 147398,
-      "word": "劳动者对双休需求强烈",
-      "onboard_time": 1737352517,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146739,
       "num": 146739,
       "word": "这部剧婚姻观还是太超前了",
@@ -2963,14 +2987,6 @@
       "category": "体育,时尚"
     },
     {
-      "raw_hot": 136676,
-      "num": 136676,
-      "word": "Doinb拉黑小东北",
-      "onboard_time": 1737354438,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 136399,
       "num": 136399,
       "word": "四川红原县4.9级地震",
@@ -3033,6 +3049,14 @@
       "onboard_time": 1737300800,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 133462,
+      "num": 133462,
+      "word": "王嘉尔下飞机就是秀场",
+      "onboard_time": 1737354856,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 133367,
@@ -3211,14 +3235,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 122524,
-      "num": 122524,
-      "word": "3333元手机刚好拿满500元补贴",
-      "onboard_time": 1737354438,
-      "rank": 38,
-      "category": "数码"
-    },
-    {
       "raw_hot": 121494,
       "num": 121494,
       "word": "肖战射雕英雄传上座率超20%",
@@ -3363,6 +3379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 114625,
+      "num": 114625,
+      "word": "王一博网络视听盛典上班",
+      "onboard_time": 1737354498,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114081,
       "num": 114081,
       "word": "好想替田曦薇的耳朵报警",
@@ -3408,14 +3432,6 @@
       "word": "异人之下2好看",
       "onboard_time": 1737247038,
       "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 111042,
-      "num": 111042,
-      "word": "王一博网络视听盛典上班",
-      "onboard_time": 1737354498,
-      "rank": 43,
       "category": "剧集"
     },
     {
@@ -3651,6 +3667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102259,
+      "num": 102259,
+      "word": "aespa开麦实力看完神清气爽",
+      "onboard_time": 1737355278,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 101875,
       "num": 101875,
       "word": "清明上河园起火目击者发声",
@@ -3697,14 +3721,6 @@
       "onboard_time": 1737289518,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 100985,
-      "num": 189555,
-      "word": "朱一龙emoji报行程",
-      "onboard_time": 1737354559,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 100753,
@@ -4155,6 +4171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70021,
+      "num": 193265,
+      "word": "樊维秋被执行死刑",
+      "onboard_time": 1737355397,
+      "rank": 28,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 67405,
       "num": 85250,
       "word": "张云雷断眉造型",
@@ -4177,6 +4201,14 @@
       "onboard_time": 1737250097,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64139,
+      "num": 192801,
+      "word": "看漂白不敢直视王千源的眼",
+      "onboard_time": 1737355397,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 63496,
@@ -4396,7 +4428,7 @@
     },
     {
       "raw_hot": 42501,
-      "num": 231413,
+      "num": 282511,
       "word": "马龙李现同框米兰看秀",
       "onboard_time": 1737351138,
       "rank": 39,

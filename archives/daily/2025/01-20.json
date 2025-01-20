@@ -1,10 +1,10 @@
 {
   "startTime": 1737303863836,
-  "endTime": 1737354675308,
+  "endTime": 1737355461185,
   "band_list": [
     {
-      "raw_hot": 2664307,
-      "num": 235083,
+      "raw_hot": 2805587,
+      "num": 285887,
       "word": "陈乔恩称艾特去世是谋杀案",
       "onboard_time": 1737351738,
       "rank": 10,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1871030,
-      "num": 625086,
+      "num": 688309,
       "word": "韩安冉前夫破产",
       "onboard_time": 1737346578,
       "rank": 12,
@@ -131,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 874342,
+      "num": 874342,
+      "word": "韩国网友被中国演员的颜值震撼",
+      "onboard_time": 1737353478,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 806714,
       "num": 806714,
       "word": "26岁渐冻症女生已不符合临床入组条件",
@@ -171,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 669238,
+      "num": 669238,
+      "word": "日均接诊800人协和急诊说忙爆炸了",
+      "onboard_time": 1737353538,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 655543,
       "num": 655543,
       "word": "央视曝光美甲灯安全隐患",
@@ -185,14 +201,6 @@
       "onboard_time": 1737348439,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 616210,
-      "num": 225222,
-      "word": "韩国网友被中国演员的颜值震撼",
-      "onboard_time": 1737353478,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 599034,
@@ -379,14 +387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 356878,
-      "num": 356878,
-      "word": "日均接诊800人协和急诊说忙爆炸了",
-      "onboard_time": 1737353538,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 344235,
       "num": 332623,
       "word": "妈妈被强行辞退女儿维权讨说法",
@@ -409,6 +409,14 @@
       "onboard_time": 1737298759,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 342060,
+      "num": 283422,
+      "word": "肖战称已经尽全力出演郭靖",
+      "onboard_time": 1737352337,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 325455,
@@ -499,20 +507,20 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 262198,
+      "num": 262198,
+      "word": "艾特因咬人被送潘宏园区成为流量担当",
+      "onboard_time": 1737353718,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 260810,
       "num": 238775,
       "word": "漂白尺度绝了",
       "onboard_time": 1737283698,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 259897,
-      "num": 259897,
-      "word": "肖战称已经尽全力出演郭靖",
-      "onboard_time": 1737352337,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 256878,
@@ -571,6 +579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 217142,
+      "num": 217142,
+      "word": "爸爸带娃买了一斤豆坐飞机",
+      "onboard_time": 1737351556,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 217075,
       "num": 217075,
       "word": "Doinb说跪下",
@@ -603,6 +619,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207505,
+      "num": 207505,
+      "word": "艾特",
+      "onboard_time": 1737350958,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 205328,
+      "num": 205328,
+      "word": "朱一龙emoji报行程",
+      "onboard_time": 1737354559,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205118,
       "num": 205118,
       "word": "射雕英雄传",
@@ -617,22 +649,6 @@
       "onboard_time": 1737338296,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 203907,
-      "num": 203907,
-      "word": "艾特因咬人被送潘宏园区成为流量担当",
-      "onboard_time": 1737353718,
-      "rank": 24,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 202055,
-      "num": 202055,
-      "word": "艾特",
-      "onboard_time": 1737350958,
-      "rank": 25,
-      "category": "网红"
     },
     {
       "raw_hot": 201637,
@@ -683,14 +699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199205,
-      "num": 199205,
-      "word": "爸爸带娃买了一斤豆坐飞机",
-      "onboard_time": 1737351556,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 197705,
       "num": 197705,
       "word": "射雕英雄传影史国产片预售首日票房冠军",
@@ -737,6 +745,14 @@
       "onboard_time": 1737287419,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195144,
+      "num": 195144,
+      "word": "Doinb拉黑小东北",
+      "onboard_time": 1737354438,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 195033,
@@ -891,6 +907,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 167412,
+      "num": 282801,
+      "word": "劳动者对双休需求强烈",
+      "onboard_time": 1737352517,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162079,
       "num": 162079,
       "word": "肖战电影原声台词太稳了",
@@ -929,6 +953,14 @@
       "onboard_time": 1737342918,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159523,
+      "num": 159523,
+      "word": "3333元手机刚好拿满500元补贴",
+      "onboard_time": 1737354438,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 159437,
@@ -993,14 +1025,6 @@
       "onboard_time": 1737347718,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147398,
-      "num": 147398,
-      "word": "劳动者对双休需求强烈",
-      "onboard_time": 1737352517,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 146377,
@@ -1099,14 +1123,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 136676,
-      "num": 136676,
-      "word": "Doinb拉黑小东北",
-      "onboard_time": 1737354438,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 136399,
       "num": 136399,
       "word": "四川红原县4.9级地震",
@@ -1129,6 +1145,14 @@
       "onboard_time": 1737294980,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133462,
+      "num": 133462,
+      "word": "王嘉尔下飞机就是秀场",
+      "onboard_time": 1737354856,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 133367,
@@ -1211,14 +1235,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 122524,
-      "num": 122524,
-      "word": "3333元手机刚好拿满500元补贴",
-      "onboard_time": 1737354438,
-      "rank": 38,
-      "category": "数码"
-    },
-    {
       "raw_hot": 121256,
       "num": 121256,
       "word": "于适时尚芭莎二月刊封面",
@@ -1283,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114625,
+      "num": 114625,
+      "word": "王一博网络视听盛典上班",
+      "onboard_time": 1737354498,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111893,
       "num": 111893,
       "word": "赵达文淇异人之下2对手戏",
@@ -1297,14 +1321,6 @@
       "onboard_time": 1737349819,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 111042,
-      "num": 111042,
-      "word": "王一博网络视听盛典上班",
-      "onboard_time": 1737354498,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 109155,
@@ -1395,6 +1411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102259,
+      "num": 102259,
+      "word": "aespa开麦实力看完神清气爽",
+      "onboard_time": 1737355278,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 101299,
       "num": 74345,
       "word": "肖战庄达菲射雕剧照",
@@ -1409,14 +1433,6 @@
       "onboard_time": 1737303256,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 100985,
-      "num": 189555,
-      "word": "朱一龙emoji报行程",
-      "onboard_time": 1737354559,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 100753,
@@ -1635,6 +1651,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70021,
+      "num": 193265,
+      "word": "樊维秋被执行死刑",
+      "onboard_time": 1737355397,
+      "rank": 28,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 64139,
+      "num": 192801,
+      "word": "看漂白不敢直视王千源的眼",
+      "onboard_time": 1737355397,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 57919,
       "num": 57919,
       "word": "皇马vs拉斯帕尔马斯",
@@ -1676,7 +1708,7 @@
     },
     {
       "raw_hot": 42501,
-      "num": 231413,
+      "num": 282511,
       "word": "马龙李现同框米兰看秀",
       "onboard_time": 1737351138,
       "rank": 39,
