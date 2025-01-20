@@ -1,0 +1,410 @@
+{
+  "runTime": 1737371926391,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1575587,
+        "num": 1575587,
+        "word": "马斯克称X不被允许在中国运营需改变",
+        "onboard_time": 1737366617,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1196694,
+        "num": 1196694,
+        "word": "大学生开房洗衣服被吐槽薅羊毛",
+        "onboard_time": 1737363078,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28308,
+        "num": 981382,
+        "word": "祖国山河一片银装一眼心动",
+        "onboard_time": 1737360318,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 929011,
+        "num": 929011,
+        "word": "相思令空降播出",
+        "onboard_time": 1737360079,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 796829,
+        "num": 796829,
+        "word": "外交部回应X不被允许在中国运营",
+        "onboard_time": 1737366017,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 723770,
+        "num": 723770,
+        "word": "高铁遛娃舱来了",
+        "onboard_time": 1737369438,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 616374,
+        "num": 616374,
+        "word": "韩国网友被中国演员的颜值震撼",
+        "onboard_time": 1737353478,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 454572,
+        "num": 454572,
+        "word": "无锡校园持刀伤人案罪犯被执行死刑",
+        "onboard_time": 1737356179,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 415574,
+        "num": 415574,
+        "word": "妲己新皮肤愿照众生和",
+        "onboard_time": 1737367938,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177167,
+        "num": 374075,
+        "word": "中方回应对特朗普总统任期有何期待",
+        "onboard_time": 1737371118,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1182849,
+        "num": 372042,
+        "word": "潘宏曾说母狗死后会卖狗肉车",
+        "onboard_time": 1737362118,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 580439,
+        "num": 371879,
+        "word": "中方回应特朗普要TikTok50%所有权",
+        "onboard_time": 1737360798,
+        "rank": 11,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 367866,
+        "num": 367866,
+        "word": "大奉打更人爆尾剧",
+        "onboard_time": 1737360258,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 331890,
+        "num": 331890,
+        "word": "射雕英雄传17%排片获40%票房",
+        "onboard_time": 1737357438,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 321836,
+        "num": 321836,
+        "word": "杨幂脱口秀预告",
+        "onboard_time": 1737370277,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 472795,
+        "num": 311749,
+        "word": "赵今麦天选末世文女主",
+        "onboard_time": 1737364398,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300298,
+        "num": 300298,
+        "word": "高铁坐过站先不要出站",
+        "onboard_time": 1737363017,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246846,
+        "num": 300087,
+        "word": "王源张伟眼泪callback",
+        "onboard_time": 1737369798,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185222,
+        "num": 299996,
+        "word": "翟子路公主抱翟宇佳",
+        "onboard_time": 1737371538,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121986,
+        "num": 299813,
+        "word": "999感冒灵凭实力闯进保暖时尚圈",
+        "onboard_time": 1737370158,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 514938,
+        "num": 299483,
+        "word": "女子取8万8称拜年发红包惊动民警",
+        "onboard_time": 1737366617,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317620,
+        "num": 299300,
+        "word": "漂白",
+        "onboard_time": 1737360798,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299104,
+        "num": 299104,
+        "word": "珠海驾车撞人案罪犯被执行死刑",
+        "onboard_time": 1737355397,
+        "rank": 22,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 268965,
+        "num": 268965,
+        "word": "TikTok发声明感谢特朗普澄清保证",
+        "onboard_time": 1737356478,
+        "rank": 23,
+        "category": "互联网,国际时政"
+      },
+      {
+        "raw_hot": 167192,
+        "num": 265610,
+        "word": "陈梦登人物年度面孔",
+        "onboard_time": 1737370818,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264472,
+        "num": 264472,
+        "word": "韩安冉前夫破产",
+        "onboard_time": 1737346578,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 259662,
+        "num": 259662,
+        "word": "何惟芳开大",
+        "onboard_time": 1737360018,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252919,
+        "num": 252919,
+        "word": "潘宏爱玩狗涉嫌虐狗吗",
+        "onboard_time": 1737349039,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 242842,
+        "num": 242842,
+        "word": "李小冉你好好演戏唱歌我另有人选",
+        "onboard_time": 1737368538,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189883,
+        "num": 189883,
+        "word": "虞书欣央视总台国际频道采访",
+        "onboard_time": 1737360438,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178529,
+        "num": 178529,
+        "word": "射雕排片涨了",
+        "onboard_time": 1737370998,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176574,
+        "num": 176574,
+        "word": "舒淇感叹夏之光长大了",
+        "onboard_time": 1737368718,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173986,
+        "num": 173986,
+        "word": "同行称潘宏训狗方式太粗暴",
+        "onboard_time": 1737368357,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 171519,
+        "num": 171519,
+        "word": "白色橄榄树春节档",
+        "onboard_time": 1737363438,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156605,
+        "num": 156605,
+        "word": "12306售罄为何第三方还显示有票",
+        "onboard_time": 1737348859,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34295,
+        "num": 151773,
+        "word": "人物2024年度人物揭晓",
+        "onboard_time": 1737371178,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150566,
+        "num": 150566,
+        "word": "终于有女主落难靠自救不等着被救",
+        "onboard_time": 1737366858,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149726,
+        "num": 149726,
+        "word": "罗云熙你在用这个爱豆的妆造干什么",
+        "onboard_time": 1737369137,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145924,
+        "num": 145924,
+        "word": "刘亦菲与朋友聚餐",
+        "onboard_time": 1737363017,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140881,
+        "num": 140881,
+        "word": "坐火车上错车下错站怎么办",
+        "onboard_time": 1737359958,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137983,
+        "num": 137983,
+        "word": "2025年春节档电影预售票房破2亿元",
+        "onboard_time": 1737363918,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135482,
+        "num": 135482,
+        "word": "胡歌任民盟中央宣传委员会副主任",
+        "onboard_time": 1737365118,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134412,
+        "num": 134412,
+        "word": "肖战称已经尽全力出演郭靖",
+        "onboard_time": 1737352337,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131548,
+        "num": 131548,
+        "word": "我国成功发射一箭5星",
+        "onboard_time": 1737371057,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131267,
+        "num": 131267,
+        "word": "白烁梵樾不让误会留到下集",
+        "onboard_time": 1737371657,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126932,
+        "num": 126932,
+        "word": "JYP新男团新闻图",
+        "onboard_time": 1737369737,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121601,
+        "num": 121601,
+        "word": "艾特因咬人被送潘宏园区成为流量担当",
+        "onboard_time": 1737353718,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 119800,
+        "num": 119800,
+        "word": "相思令",
+        "onboard_time": 1737338296,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116683,
+        "num": 116683,
+        "word": "不要小看一个17岁女孩的求生欲",
+        "onboard_time": 1737371898,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116104,
+        "num": 116104,
+        "word": "特朗普说TikTok回来了",
+        "onboard_time": 1737342318,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#祝大家的生活像这些糖一样甜甜蜜蜜#"
+    }
+  }
+}
