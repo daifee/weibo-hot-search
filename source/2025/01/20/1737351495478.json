@@ -1,0 +1,410 @@
+{
+  "runTime": 1737351495478,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 655215,
+        "num": 1104834,
+        "word": "白鹿说以后不太想接偶像剧",
+        "onboard_time": 1737340638,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 575187,
+        "num": 575187,
+        "word": "小伙把梳子做成柿子形状卖了5万把",
+        "onboard_time": 1737339197,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36372,
+        "num": 457054,
+        "word": "大寒节气里的诗情画意",
+        "onboard_time": 1737343097,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1454210,
+        "num": 454964,
+        "word": "韩安冉前夫破产",
+        "onboard_time": 1737346578,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 407748,
+        "num": 407748,
+        "word": "12306售罄为何第三方还显示有票",
+        "onboard_time": 1737348859,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336595,
+        "num": 336595,
+        "word": "越来越多年轻人选择开车回家过年",
+        "onboard_time": 1737345200,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 520295,
+        "num": 333974,
+        "word": "宁静说向太刘晓庆是恩人",
+        "onboard_time": 1737348439,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 479711,
+        "num": 333886,
+        "word": "肖战庄达菲没事哒没事哒",
+        "onboard_time": 1737349638,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 329042,
+        "num": 329042,
+        "word": "26岁渐冻症女生已不符合临床入组条件",
+        "onboard_time": 1737333198,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322599,
+        "num": 322599,
+        "word": "60秒看懂购新国补怎么补",
+        "onboard_time": 1737346940,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1834081,
+        "num": 320466,
+        "word": "特朗普要TikTok50%所有权",
+        "onboard_time": 1737348859,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1699272,
+        "num": 319514,
+        "word": "陈乔恩为网红狗艾特发声",
+        "onboard_time": 1737344418,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1291973,
+        "num": 317643,
+        "word": "潘宏爱玩狗涉嫌虐狗吗",
+        "onboard_time": 1737349039,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 467545,
+        "num": 313984,
+        "word": "大奉打更人电影版官宣",
+        "onboard_time": 1737349638,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 468612,
+        "num": 313128,
+        "word": "射雕领跑的蛇年春节档刷新了影史",
+        "onboard_time": 1737342378,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 406474,
+        "num": 310368,
+        "word": "特朗普说TikTok回来了",
+        "onboard_time": 1737342318,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 308694,
+        "num": 308694,
+        "word": "TikTok正恢复美用户服务",
+        "onboard_time": 1737328153,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 362154,
+        "num": 296284,
+        "word": "揭秘潘宏背后文化传媒公司",
+        "onboard_time": 1737347600,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 79398,
+        "num": 218477,
+        "word": "哪部影片是你的春节档首选",
+        "onboard_time": 1737351258,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 217947,
+        "num": 217947,
+        "word": "医保局牵头调查某些集采药质量风险问题",
+        "onboard_time": 1737342078,
+        "rank": 19,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 341479,
+        "num": 215532,
+        "word": "妈妈被强行辞退女儿维权讨说法",
+        "onboard_time": 1737347118,
+        "rank": 20,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 263411,
+        "num": 214415,
+        "word": "张康乐马柏全费加罗PARK视频预告",
+        "onboard_time": 1737349338,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 204844,
+        "num": 204844,
+        "word": "于适0帧起手射箭",
+        "onboard_time": 1737341177,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203221,
+        "num": 203221,
+        "word": "国补",
+        "onboard_time": 1737332357,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 37097,
+        "num": 202389,
+        "word": "滑雪世界杯中国队冠军",
+        "onboard_time": 1737350838,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202055,
+        "num": 202055,
+        "word": "艾特",
+        "onboard_time": 1737350958,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 201621,
+        "num": 201621,
+        "word": "漂白好讽刺的四个人",
+        "onboard_time": 1737349098,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200966,
+        "num": 200966,
+        "word": "哪吒2全新角色亮相",
+        "onboard_time": 1737344720,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168286,
+        "num": 168286,
+        "word": "医生建议降压仿制药一粒不行吃两粒",
+        "onboard_time": 1737348799,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 167855,
+        "num": 168191,
+        "word": "漂白看得我san值狂掉怒值狂飙",
+        "onboard_time": 1737351019,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168098,
+        "num": 168098,
+        "word": "TikTok称将寻找在美可用的长期方案",
+        "onboard_time": 1737333198,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 168008,
+        "num": 168008,
+        "word": "今天起买手机最高补贴500",
+        "onboard_time": 1737339017,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 159646,
+        "num": 159646,
+        "word": "neinei14岁近照",
+        "onboard_time": 1737333257,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158953,
+        "num": 158953,
+        "word": "四个字让留几手百分百破防",
+        "onboard_time": 1737350358,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151549,
+        "num": 151549,
+        "word": "王一博易烊千玺春晚同框路透",
+        "onboard_time": 1737351258,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142158,
+        "num": 142158,
+        "word": "雪中悍刀行青鸟爆改刘婉",
+        "onboard_time": 1737346878,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137677,
+        "num": 137677,
+        "word": "肖战射雕宣传VCR",
+        "onboard_time": 1737350838,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136332,
+        "num": 136332,
+        "word": "集五福",
+        "onboard_time": 1737332357,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 132623,
+        "num": 132623,
+        "word": "距第一个非遗春节不足10天",
+        "onboard_time": 1737334939,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41688,
+        "num": 129594,
+        "word": "马龙李现同框米兰看秀",
+        "onboard_time": 1737351138,
+        "rank": 39,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 128198,
+        "num": 128198,
+        "word": "亚洲杯",
+        "onboard_time": 1737349459,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121141,
+        "num": 121141,
+        "word": "耙耙柑远不只是善良这么简单",
+        "onboard_time": 1737339078,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116257,
+        "num": 116257,
+        "word": "半熟恋人4首录",
+        "onboard_time": 1737343578,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108566,
+        "num": 108566,
+        "word": "上一个这么坏的还是容嬷嬷",
+        "onboard_time": 1737348679,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107054,
+        "num": 107054,
+        "word": "大主播称忙到没生活要睡在公司",
+        "onboard_time": 1737347959,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106771,
+        "num": 106771,
+        "word": "赵今麦骄阳似我工作服造型路透",
+        "onboard_time": 1737347718,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106029,
+        "num": 106029,
+        "word": "公司回应员工蹲厕所被拍照曝光",
+        "onboard_time": 1737343638,
+        "rank": 46,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 103585,
+        "num": 103585,
+        "word": "千朵桃花5个人演了13个角色",
+        "onboard_time": 1737351378,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99441,
+        "num": 99441,
+        "word": "十个勤天2025年第一次合体舞台",
+        "onboard_time": 1737348018,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99369,
+        "num": 99369,
+        "word": "第一批回家的人已经被返乡高铁治愈了",
+        "onboard_time": 1737338957,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#新春时光总书记最深的牵挂#"
+    }
+  }
+}
