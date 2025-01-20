@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737344387681,
+  "endTime": 1737347198527,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -865,6 +865,14 @@
       "onboard_time": 1736220502,
       "rank": 3,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 2350642,
+      "num": 289692,
+      "word": "陈乔恩为网红狗艾特发声",
+      "onboard_time": 1737344418,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2347735,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735896682,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1475300,
-      "num": 1475300,
-      "word": "尹锡悦牢房早餐曝光",
-      "onboard_time": 1737005658,
-      "rank": 19,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [

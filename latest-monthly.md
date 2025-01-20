@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/20 11:39:47
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/20 12:26:38
 </p>
 </blockquote>
 <p>
@@ -659,6 +659,12 @@ TikTok停止在美服务（热度：2463156）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%97%8F6.8%E7%BA%A7%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B436%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
 西藏6.8级地震已致36人遇难（热度：2355443）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A9%E4%B8%BA%E7%BD%91%E7%BA%A2%E7%8B%97%E8%89%BE%E7%89%B9%E5%8F%91%E5%A3%B0%23" target="weibo">
+陈乔恩为网红狗艾特发声（热度：2350642）
 </a>
 </li>
 
@@ -1833,6 +1839,12 @@ TikTok难民称中国网友非常热情（热度：1548219）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%89%BE%E7%89%B9%E7%9A%84%E4%B8%BB%E4%BA%BA%E5%8F%91%E5%A3%B0%23" target="weibo">
+艾特的主人发声（热度：1460876）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E6%B5%81%23" target="weibo">
 甲流（热度：1459657）
 </a>
@@ -2133,12 +2145,6 @@ TikTok禁令引发美国网友众怒（热度：1325910）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%89%BE%E7%89%B9%E7%9A%84%E4%B8%BB%E4%BA%BA%E5%8F%91%E5%A3%B0%23" target="weibo">
-艾特的主人发声（热度：1320371）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E5%90%A6%E8%AE%A4%E7%94%B5%E8%AF%88%E5%9B%AD%E5%8C%BA%E6%94%B6200%E4%B8%87%E6%94%BE%E8%B5%B0%E7%8E%8B%E6%98%9F%23" target="weibo">
 知情人否认电诈园区收200万放走王星（热度：1317549）
 </a>
@@ -2361,6 +2367,12 @@ TikTok禁令引发美国网友众怒（热度：1325910）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4TikTok%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
+特朗普说TikTok回来了（热度：1253564）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%83%A0%E8%8B%B1%E7%BA%A2%20%E6%88%91cp%E5%A9%9A%E7%A4%BC%E8%A7%81%E8%AF%81%E4%BA%BA%23" target="weibo">
 惠英红 我cp婚礼见证人（热度：1249875）
 </a>
@@ -2495,12 +2507,6 @@ TikTok禁令引发美国网友众怒（热度：1325910）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%A9%BA%E9%9A%BE%E5%AE%A2%E6%9C%BA%E9%BB%91%E5%8C%A3%E5%AD%90%E6%92%9E%E5%A2%99%E5%89%8D4%E5%88%86%E9%92%9F%E5%81%9C%E5%BD%95%23" target="weibo">
 韩国空难客机黑匣子撞墙前4分钟停录（热度：1201521）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4TikTok%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
-特朗普说TikTok回来了（热度：1200180）
 </a>
 </li>
 
@@ -5361,6 +5367,12 @@ SM新女团 SMTOWN压轴（热度：743773）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AE%89%E5%86%89%E5%89%8D%E5%A4%AB%E7%A0%B4%E4%BA%A7%23" target="weibo">
+韩安冉前夫破产（热度：722751）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%8A%E5%B0%8F%E5%AD%A9%E5%90%B5%E9%97%B9%E7%94%B7%E5%AD%90%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%88%B6%E6%9C%8D%23" target="weibo">
 高铁上小孩吵闹男子一句话制服（热度：721463）
 </a>
@@ -5999,18 +6011,6 @@ GDP（热度：675043）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%9E%97%E6%9B%B4%E6%96%B0%E5%90%88%E7%85%A7%23" target="weibo">
 张碧晨赵丽颖林更新合照（热度：661665）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E9%9B%A8%20%E8%92%8B%E5%A5%87%E6%98%8E%23" target="weibo">
-谷雨 蒋奇明（热度：661108）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E6%8E%A21900%E6%BC%94%E5%91%98%E9%98%B5%E5%AE%B9%23" target="weibo">
-唐探1900演员阵容（热度：661042）
 </a>
 </li>
 

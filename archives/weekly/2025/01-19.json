@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737344387681,
+  "endTime": 1737347198527,
   "band_list": [
     {
       "raw_hot": 2766963,
@@ -17,6 +17,14 @@
       "onboard_time": 1737260718,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 2350642,
+      "num": 289692,
+      "word": "陈乔恩为网红狗艾特发声",
+      "onboard_time": 1737344418,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2104042,
@@ -75,6 +83,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1460876,
+      "num": 495876,
+      "word": "艾特的主人发声",
+      "onboard_time": 1737339976,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1451273,
       "num": 1451273,
       "word": "白鹿说以后不太想接偶像剧",
@@ -107,12 +123,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1320371,
-      "num": 495876,
-      "word": "艾特的主人发声",
-      "onboard_time": 1737339976,
-      "rank": 10,
-      "category": "网红"
+      "raw_hot": 1253564,
+      "num": 303781,
+      "word": "特朗普说TikTok回来了",
+      "onboard_time": 1737342318,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1249195,
@@ -129,14 +145,6 @@
       "onboard_time": 1737255077,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1200180,
-      "num": 303781,
-      "word": "特朗普说TikTok回来了",
-      "onboard_time": 1737342318,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1195226,
@@ -353,6 +361,14 @@
       "onboard_time": 1737294019,
       "rank": 4,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 722751,
+      "num": 284455,
+      "word": "韩安冉前夫破产",
+      "onboard_time": 1737346578,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 687464,
@@ -819,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 368926,
+      "num": 368926,
+      "word": "哪吒2全新角色亮相",
+      "onboard_time": 1737344720,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 368440,
       "num": 368440,
       "word": "甲状腺癌具有遗传性",
@@ -1139,6 +1163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 280777,
+      "num": 280777,
+      "word": "半熟恋人4首录",
+      "onboard_time": 1737343578,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 279264,
       "num": 279264,
       "word": "7个工作日后就过年了",
@@ -1275,6 +1307,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 253788,
+      "num": 253788,
+      "word": "越来越多年轻人选择开车回家过年",
+      "onboard_time": 1737345200,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 252535,
       "num": 218556,
       "word": "昆凌与周杰伦10周年合体跳舞秀恩爱",
@@ -1345,14 +1385,6 @@
       "onboard_time": 1737296059,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 235454,
-      "num": 235454,
-      "word": "半熟恋人4首录",
-      "onboard_time": 1737343578,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 232827,
@@ -1547,6 +1579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205244,
+      "num": 205244,
+      "word": "距第一个非遗春节不足10天",
+      "onboard_time": 1737334939,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205139,
       "num": 205139,
       "word": "唐探1900预售开启",
@@ -1603,6 +1643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 200319,
+      "num": 200319,
+      "word": "丁禹兮新代言剪影",
+      "onboard_time": 1737346457,
+      "rank": 23,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 200204,
       "num": 150197,
       "word": "敖瑞鹏说求天道眷顾梵樾",
@@ -1640,6 +1688,14 @@
       "word": "何惟芳拿回花满筑",
       "onboard_time": 1737296540,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196990,
+      "num": 194148,
+      "word": "肖战郭靖说蒙语",
+      "onboard_time": 1737346219,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -1681,6 +1737,14 @@
       "onboard_time": 1737287419,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 194435,
+      "num": 194435,
+      "word": "孙颖莎进入国家一队八周年",
+      "onboard_time": 1737342678,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 194172,
@@ -1755,6 +1819,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 190585,
+      "num": 190585,
+      "word": "异人之下2连狗叫都还原",
+      "onboard_time": 1737346457,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190414,
       "num": 196530,
       "word": "射雕英雄传预售破1000万",
@@ -1809,14 +1881,6 @@
       "onboard_time": 1737285379,
       "rank": 27,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 186376,
-      "num": 186376,
-      "word": "孙颖莎进入国家一队八周年",
-      "onboard_time": 1737342678,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 185916,
@@ -1939,6 +2003,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 175927,
+      "num": 175927,
+      "word": "第一夫人币推出后特朗普币暴跌",
+      "onboard_time": 1737343458,
+      "rank": 48,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 175465,
       "num": 175465,
       "word": "iG对战NIP",
@@ -2027,6 +2099,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 167818,
+      "num": 167818,
+      "word": "公司回应员工蹲厕所被拍照曝光",
+      "onboard_time": 1737343638,
+      "rank": 42,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 167724,
       "num": 167724,
       "word": "射雕英雄传侠之大者",
@@ -2097,6 +2177,14 @@
       "onboard_time": 1737291139,
       "rank": 44,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 161116,
+      "num": 176796,
+      "word": "李现说要回来营救了",
+      "onboard_time": 1737345319,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 160963,
@@ -2283,6 +2371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 151782,
+      "num": 151782,
+      "word": "雪中悍刀行青鸟爆改刘婉",
+      "onboard_time": 1737346878,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151505,
       "num": 151505,
       "word": "秦胜意的两次破门",
@@ -2336,14 +2432,6 @@
       "word": "这款神器千万别让孩子碰",
       "onboard_time": 1737288919,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 149454,
-      "num": 149454,
-      "word": "距第一个非遗春节不足10天",
-      "onboard_time": 1737334939,
-      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -2459,6 +2547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143465,
+      "num": 143465,
+      "word": "如鸢",
+      "onboard_time": 1737347059,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 143164,
       "num": 143164,
       "word": "搬家又一次让我意识到女性独居困境",
@@ -2561,6 +2657,14 @@
       "onboard_time": 1737257178,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 138801,
+      "num": 138801,
+      "word": "异人之下2中的热血内核",
+      "onboard_time": 1737345558,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 137634,
@@ -2747,11 +2851,35 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127815,
+      "num": 127815,
+      "word": "甄珍逃出来了吗",
+      "onboard_time": 1737347118,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 127711,
+      "num": 127711,
+      "word": "妈妈被强行辞退女儿维权讨说法",
+      "onboard_time": 1737347118,
+      "rank": 46,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 127290,
       "num": 127290,
       "word": "王也诸葛青双向赴死",
       "onboard_time": 1737275539,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 125710,
+      "num": 125710,
+      "word": "迪丽热巴贺思慕原声哭戏路透",
+      "onboard_time": 1737345200,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -2763,12 +2891,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 124704,
+      "num": 138876,
+      "word": "射雕新预告郭靖大汗对峙",
+      "onboard_time": 1737343758,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 124082,
       "num": 136029,
       "word": "女医生救人后又直奔ICU看病重姥姥",
       "onboard_time": 1737273738,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123932,
+      "num": 123932,
+      "word": "唐探1900票房破3000万",
+      "onboard_time": 1737344838,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 123848,
@@ -2803,14 +2947,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 121294,
-      "num": 121294,
-      "word": "第一夫人币推出后特朗普币暴跌",
-      "onboard_time": 1737343458,
-      "rank": 48,
-      "category": "国际时政,财经"
-    },
-    {
       "raw_hot": 121256,
       "num": 121256,
       "word": "于适时尚芭莎二月刊封面",
@@ -2825,6 +2961,14 @@
       "onboard_time": 1737270258,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120818,
+      "num": 120818,
+      "word": "他炸出来的醒狮酥毛流感十足",
+      "onboard_time": 1737344358,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120268,
@@ -2849,6 +2993,14 @@
       "onboard_time": 1737274519,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117939,
+      "num": 281993,
+      "word": "60秒看懂购新国补怎么补",
+      "onboard_time": 1737346940,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117780,
@@ -3131,14 +3283,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 105679,
-      "num": 105679,
-      "word": "公司回应员工蹲厕所被拍照曝光",
-      "onboard_time": 1737343638,
-      "rank": 42,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 105342,
       "num": 105342,
       "word": "通行时间从2小时缩短到2分钟",
@@ -3377,14 +3521,6 @@
       "onboard_time": 1737216259,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 94579,
-      "num": 94579,
-      "word": "他炸出来的醒狮酥毛流感十足",
-      "onboard_time": 1737344358,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94327,
@@ -3640,6 +3776,14 @@
       "word": "李昀锐早安语音包",
       "onboard_time": 1737250637,
       "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 71597,
+      "num": 176367,
+      "word": "李一桐的当鸿时刻",
+      "onboard_time": 1737346039,
+      "rank": 29,
       "category": "艺人"
     },
     {

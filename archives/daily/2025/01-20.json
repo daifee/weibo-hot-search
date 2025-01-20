@@ -1,7 +1,15 @@
 {
   "startTime": 1737303863836,
-  "endTime": 1737344387681,
+  "endTime": 1737347198527,
   "band_list": [
+    {
+      "raw_hot": 2350642,
+      "num": 289692,
+      "word": "陈乔恩为网红狗艾特发声",
+      "onboard_time": 1737344418,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2104042,
       "num": 2104042,
@@ -35,6 +43,14 @@
       "category": "网红,体育"
     },
     {
+      "raw_hot": 1460876,
+      "num": 495876,
+      "word": "艾特的主人发声",
+      "onboard_time": 1737339976,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1451273,
       "num": 1451273,
       "word": "白鹿说以后不太想接偶像剧",
@@ -59,15 +75,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1320371,
-      "num": 495876,
-      "word": "艾特的主人发声",
-      "onboard_time": 1737339976,
-      "rank": 10,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 1200180,
+      "raw_hot": 1253564,
       "num": 303781,
       "word": "特朗普说TikTok回来了",
       "onboard_time": 1737342318,
@@ -105,6 +113,14 @@
       "onboard_time": 1737339197,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 722751,
+      "num": 284455,
+      "word": "韩安冉前夫破产",
+      "onboard_time": 1737346578,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 687464,
@@ -243,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 368926,
+      "num": 368926,
+      "word": "哪吒2全新角色亮相",
+      "onboard_time": 1737344720,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 361368,
       "num": 361368,
       "word": "特朗普称将撤销拜登所有行政命令",
@@ -297,6 +321,14 @@
       "onboard_time": 1737328995,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 280777,
+      "num": 280777,
+      "word": "半熟恋人4首录",
+      "onboard_time": 1737343578,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 278595,
@@ -355,20 +387,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 253788,
+      "num": 253788,
+      "word": "越来越多年轻人选择开车回家过年",
+      "onboard_time": 1737345200,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 246830,
       "num": 179298,
       "word": "留几手自曝请杨子喝酒花20万",
       "onboard_time": 1737279798,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 235454,
-      "num": 235454,
-      "word": "半熟恋人4首录",
-      "onboard_time": 1737343578,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 230716,
@@ -427,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205244,
+      "num": 205244,
+      "word": "距第一个非遗春节不足10天",
+      "onboard_time": 1737334939,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205118,
       "num": 205118,
       "word": "射雕英雄传",
@@ -451,12 +491,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 200319,
+      "num": 200319,
+      "word": "丁禹兮新代言剪影",
+      "onboard_time": 1737346457,
+      "rank": 23,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 197705,
       "num": 197705,
       "word": "射雕英雄传影史国产片预售首日票房冠军",
       "onboard_time": 1737303976,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 196990,
+      "num": 194148,
+      "word": "肖战郭靖说蒙语",
+      "onboard_time": 1737346219,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 195432,
@@ -483,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194435,
+      "num": 194435,
+      "word": "孙颖莎进入国家一队八周年",
+      "onboard_time": 1737342678,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193914,
       "num": 193914,
       "word": "日历里下一行就是春节了",
@@ -499,20 +563,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190585,
+      "num": 190585,
+      "word": "异人之下2连狗叫都还原",
+      "onboard_time": 1737346457,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186564,
       "num": 186564,
       "word": "向佐正式确诊为土拨鼠",
       "onboard_time": 1737343758,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 186376,
-      "num": 186376,
-      "word": "孙颖莎进入国家一队八周年",
-      "onboard_time": 1737342678,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 185916,
@@ -529,6 +593,14 @@
       "onboard_time": 1737288799,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175927,
+      "num": 175927,
+      "word": "第一夫人币推出后特朗普币暴跌",
+      "onboard_time": 1737343458,
+      "rank": 48,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 174438,
@@ -571,12 +643,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 167818,
+      "num": 167818,
+      "word": "公司回应员工蹲厕所被拍照曝光",
+      "onboard_time": 1737343638,
+      "rank": 42,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 163755,
       "num": 163755,
       "word": "TikTok称将寻找在美可用的长期方案",
       "onboard_time": 1737333198,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 161116,
+      "num": 176796,
+      "word": "李现说要回来营救了",
+      "onboard_time": 1737345319,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 160590,
@@ -643,12 +731,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149454,
-      "num": 149454,
-      "word": "距第一个非遗春节不足10天",
-      "onboard_time": 1737334939,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 151782,
+      "num": 151782,
+      "word": "雪中悍刀行青鸟爆改刘婉",
+      "onboard_time": 1737346878,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 146377,
@@ -665,6 +753,14 @@
       "onboard_time": 1737333378,
       "rank": 27,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 143465,
+      "num": 143465,
+      "word": "如鸢",
+      "onboard_time": 1737347059,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 143160,
@@ -705,6 +801,14 @@
       "onboard_time": 1737288679,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138801,
+      "num": 138801,
+      "word": "异人之下2中的热血内核",
+      "onboard_time": 1737345558,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 137506,
@@ -779,6 +883,46 @@
       "category": "数码"
     },
     {
+      "raw_hot": 127815,
+      "num": 127815,
+      "word": "甄珍逃出来了吗",
+      "onboard_time": 1737347118,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 127711,
+      "num": 127711,
+      "word": "妈妈被强行辞退女儿维权讨说法",
+      "onboard_time": 1737347118,
+      "rank": 46,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 125710,
+      "num": 125710,
+      "word": "迪丽热巴贺思慕原声哭戏路透",
+      "onboard_time": 1737345200,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 124704,
+      "num": 138876,
+      "word": "射雕新预告郭靖大汗对峙",
+      "onboard_time": 1737343758,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 123932,
+      "num": 123932,
+      "word": "唐探1900票房破3000万",
+      "onboard_time": 1737344838,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 123353,
       "num": 123353,
       "word": "李昀锐断眉",
@@ -795,20 +939,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 121294,
-      "num": 121294,
-      "word": "第一夫人币推出后特朗普币暴跌",
-      "onboard_time": 1737343458,
-      "rank": 48,
-      "category": "国际时政,财经"
-    },
-    {
       "raw_hot": 121256,
       "num": 121256,
       "word": "于适时尚芭莎二月刊封面",
       "onboard_time": 1737343458,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 120818,
+      "num": 120818,
+      "word": "他炸出来的醒狮酥毛流感十足",
+      "onboard_time": 1737344358,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117939,
+      "num": 281993,
+      "word": "60秒看懂购新国补怎么补",
+      "onboard_time": 1737346940,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117532,
@@ -907,14 +1059,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 105679,
-      "num": 105679,
-      "word": "公司回应员工蹲厕所被拍照曝光",
-      "onboard_time": 1737343638,
-      "rank": 42,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 104992,
       "num": 104992,
       "word": "大寒",
@@ -985,14 +1129,6 @@
       "onboard_time": 1737341237,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 94579,
-      "num": 94579,
-      "word": "他炸出来的醒狮酥毛流感十足",
-      "onboard_time": 1737344358,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93777,
@@ -1121,6 +1257,14 @@
       "onboard_time": 1737328995,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 71597,
+      "num": 176367,
+      "word": "李一桐的当鸿时刻",
+      "onboard_time": 1737346039,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 57919,
