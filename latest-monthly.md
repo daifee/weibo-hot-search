@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/21 00:42:25
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/21 01:19:20
 </p>
 </blockquote>
 <p>
@@ -3843,6 +3843,12 @@ R1SE合体（热度：994873）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%AD%A3%E5%BC%8F%E5%AE%A3%E8%AA%93%E5%B0%B1%E8%81%8C%23" target="weibo">
+特朗普正式宣誓就职（热度：945568）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E5%9B%9E%E5%A4%8D%E7%B2%89%E4%B8%9D%E6%88%91%E6%80%95%E6%9C%89%E5%88%BA%E7%9A%84%E9%B1%BC%23" target="weibo">
 丁禹兮回复粉丝我怕有刺的鱼（热度：944564）
 </a>
@@ -4787,6 +4793,12 @@ B站拿下春晚转播权（热度：825759）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B4%94%E7%8F%89%E7%84%95%E7%A7%B0%E7%A6%BB%E5%A9%9A%E5%9B%A0%E5%A6%BB%E5%AD%90%E4%B8%80%E5%A4%A9%E7%9D%A118%E5%B0%8F%E6%97%B6%23" target="weibo">
 崔珉焕称离婚因妻子一天睡18小时（热度：804950）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E9%9C%87%E6%84%9F%23" target="weibo">
+福建震感（热度：804683）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ SM新女团 SMTOWN压轴（热度：743773）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%99%88%E9%A3%9E%E5%AE%87%E6%A1%83%E8%8A%B1%E5%90%BB%E8%B7%AF%E9%80%8F%23" target="weibo">
 迪丽热巴陈飞宇桃花吻路透（热度：679163）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A8%8B%E9%91%AB%E5%87%AF%E5%AE%B6%E6%9A%B4%E4%BA%8B%E4%BB%B6%E5%8F%8D%E8%BD%AC%23" target="weibo">
-程鑫凯家暴事件反转（热度：679086）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E5%B0%8F%E5%A9%89%E4%BB%BB%E6%9D%83%E8%AE%A2%E5%A9%9A%23" target="weibo">
-薛小婉任权订婚（热度：678746）
 </a>
 </li>
 

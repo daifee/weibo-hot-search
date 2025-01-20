@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737391345870,
+  "endTime": 1737393560492,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -451,6 +451,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 945568,
+      "num": 945568,
+      "word": "特朗普正式宣誓就职",
+      "onboard_time": 1737393254,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 923121,
       "num": 923121,
       "word": "iG",
@@ -561,6 +569,14 @@
       "onboard_time": 1737333198,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 804683,
+      "num": 804683,
+      "word": "福建震感",
+      "onboard_time": 1737391397,
+      "rank": 4,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 771397,
@@ -849,6 +865,14 @@
       "onboard_time": 1737333257,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 546731,
+      "num": 546731,
+      "word": "杭州震感",
+      "onboard_time": 1737392417,
+      "rank": 6,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 543449,
@@ -1243,6 +1267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 400256,
+      "num": 273916,
+      "word": "特朗普登车出发前往白宫",
+      "onboard_time": 1737388039,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 399704,
       "num": 352278,
       "word": "揭秘潘宏背后文化传媒公司",
@@ -1475,14 +1507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 339236,
-      "num": 273916,
-      "word": "特朗普登车出发前往白宫",
-      "onboard_time": 1737388039,
-      "rank": 11,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 338433,
       "num": 338433,
       "word": "国色芳华也印证了余华这段话",
@@ -1633,6 +1657,14 @@
       "onboard_time": 1737387918,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 311662,
+      "num": 270758,
+      "word": "特朗普就职典礼",
+      "onboard_time": 1737392777,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 308395,
@@ -1787,6 +1819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 282502,
+      "num": 282502,
+      "word": "国色芳华本周日收官",
+      "onboard_time": 1737391397,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280777,
       "num": 280777,
       "word": "半熟恋人4首录",
@@ -1929,6 +1969,14 @@
       "onboard_time": 1737291440,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258727,
+      "num": 258727,
+      "word": "厦门震感",
+      "onboard_time": 1737392176,
+      "rank": 13,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 257519,
@@ -2883,6 +2931,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 186150,
+      "num": 186150,
+      "word": "吴尊杀回亲子节目",
+      "onboard_time": 1737389657,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185916,
       "num": 185916,
       "word": "支持有条件的幼儿园招收2至3岁幼儿",
@@ -3755,14 +3811,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 147784,
-      "num": 147784,
-      "word": "吴尊杀回亲子节目",
-      "onboard_time": 1737389657,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 147321,
       "num": 147321,
       "word": "张凌赫你还怪有礼貌的",
@@ -3953,6 +4001,14 @@
       "onboard_time": 1737381379,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 141289,
+      "num": 141289,
+      "word": "福建浙江上海震感",
+      "onboard_time": 1737392956,
+      "rank": 25,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 141214,
@@ -4211,6 +4267,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 133026,
+      "num": 151227,
+      "word": "福州泉州厦门震感明显",
+      "onboard_time": 1737393315,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132672,
       "num": 132672,
       "word": "陈哲远好险差点要闯祸了",
@@ -4409,6 +4473,14 @@
       "onboard_time": 1737246196,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 124944,
+      "num": 124944,
+      "word": "广东震感",
+      "onboard_time": 1737392535,
+      "rank": 27,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 124704,
@@ -5107,6 +5179,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 102872,
+      "num": 102872,
+      "word": "女子身在辐中不知辐",
+      "onboard_time": 1737390918,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102717,
       "num": 102717,
       "word": "男老师在女同事屋内装摄像头",
@@ -5491,6 +5571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87426,
+      "num": 278091,
+      "word": "代表建议建议四川试行2.5天休假",
+      "onboard_time": 1737391036,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85983,
       "num": 85983,
       "word": "京沪政协委员关注集采药疗效",
@@ -5707,14 +5795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 75248,
-      "num": 75248,
-      "word": "女子身在辐中不知辐",
-      "onboard_time": 1737390918,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 75235,
       "num": 264034,
       "word": "狼队挂牌公告",
@@ -5769,6 +5849,14 @@
       "onboard_time": 1737355397,
       "rank": 28,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 70010,
+      "num": 70010,
+      "word": "台湾地震福建网友称震感强烈",
+      "onboard_time": 1737392417,
+      "rank": 39,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 69913,
@@ -5891,6 +5979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 56592,
+      "num": 56592,
+      "word": "电影封神第二部厦门路演",
+      "onboard_time": 1737391757,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 54981,
       "num": 54981,
       "word": "杜淳新剧上线15分钟就下线",
@@ -5993,14 +6089,6 @@
       "onboard_time": 1737243074,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 49104,
-      "num": 278091,
-      "word": "代表建议建议四川试行2.5天休假",
-      "onboard_time": 1737391036,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 48033,
@@ -6227,6 +6315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 30380,
+      "num": 60724,
+      "word": "樊振东的时装周初亮相",
+      "onboard_time": 1737391636,
+      "rank": 45,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 30367,
       "num": 66058,
       "word": "再过10天就是蛇年春节",
@@ -6313,6 +6409,14 @@
       "onboard_time": 1737308473,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26413,
+      "num": 142032,
+      "word": "姚润昊握紧拳头搞优化",
+      "onboard_time": 1737386239,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 25986,
