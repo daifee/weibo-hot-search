@@ -1,6 +1,6 @@
 {
   "startTime": 1737390442496,
-  "endTime": 1737412638597,
+  "endTime": 1737415218277,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -75,6 +75,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 555715,
+      "num": 237804,
+      "word": "拜登给特朗普留了一封信",
+      "onboard_time": 1737400872,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 546731,
       "num": 546731,
       "word": "杭州震感",
@@ -123,6 +131,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 346869,
+      "num": 278858,
+      "word": "特朗普就任第47任美国总统",
+      "onboard_time": 1737394033,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 332645,
+      "num": 332645,
+      "word": "电视剧漂白被指抄袭",
+      "onboard_time": 1737401951,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 332633,
       "num": 332633,
       "word": "国色芳华本周日收官",
@@ -139,14 +163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 305035,
-      "num": 111607,
-      "word": "拜登给特朗普留了一封信",
-      "onboard_time": 1737400872,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 284684,
       "num": 257124,
       "word": "马锐为Angelababy发声",
@@ -161,14 +177,6 @@
       "onboard_time": 1737373278,
       "rank": 22,
       "category": "网红"
-    },
-    {
-      "raw_hot": 278858,
-      "num": 278858,
-      "word": "特朗普就任第47任美国总统",
-      "onboard_time": 1737394033,
-      "rank": 11,
-      "category": "国际时政"
     },
     {
       "raw_hot": 275333,
@@ -195,6 +203,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 244087,
+      "num": 244087,
+      "word": "2岁女童超30种食物过敏体重仅13斤",
+      "onboard_time": 1737395532,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 232661,
       "num": 232661,
       "word": "中方回应特朗普要TikTok50%所有权",
@@ -208,6 +224,14 @@
       "word": "一听这些歌就知道快过年了",
       "onboard_time": 1737375737,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197392,
+      "num": 197392,
+      "word": "女子身在辐中不知辐",
+      "onboard_time": 1737390918,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -267,14 +291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 163668,
-      "num": 163668,
-      "word": "电视剧漂白被指抄袭",
-      "onboard_time": 1737401951,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 158772,
       "num": 158772,
       "word": "福建浙江上海震感",
@@ -305,14 +321,6 @@
       "onboard_time": 1737377057,
       "rank": 27,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 135592,
-      "num": 138735,
-      "word": "2岁女童超30种食物过敏体重仅13斤",
-      "onboard_time": 1737395532,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124944,
@@ -371,20 +379,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102872,
-      "num": 102872,
-      "word": "女子身在辐中不知辐",
-      "onboard_time": 1737390918,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101893,
       "num": 101893,
       "word": "陈震赔付领克500万元违约金",
       "onboard_time": 1737373157,
       "rank": 32,
       "category": "汽车,网红"
+    },
+    {
+      "raw_hot": 100592,
+      "num": 238874,
+      "word": "因救人智力倒退的消防员恢复到高中水平",
+      "onboard_time": 1737414855,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97533,
@@ -467,6 +475,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 81061,
+      "num": 74754,
+      "word": "潘宏将母狗卖给狗肉车或违法",
+      "onboard_time": 1737397332,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 80944,
+      "num": 73424,
+      "word": "周杰伦昆凌一家五口重回婚礼教堂",
+      "onboard_time": 1737414915,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79628,
       "num": 79628,
       "word": "异人之下 王也角色",
@@ -489,6 +513,22 @@
       "onboard_time": 1737390259,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 77054,
+      "num": 77054,
+      "word": "美国最大规模非法移民驱逐行动",
+      "onboard_time": 1737414855,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 75871,
+      "num": 75871,
+      "word": "樊振东被夸一点也不胖啊",
+      "onboard_time": 1737413293,
+      "rank": 27,
+      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 71072,
@@ -547,6 +587,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 68247,
+      "num": 565048,
+      "word": "中国的人造太阳有重大突破",
+      "onboard_time": 1737371538,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 67968,
+      "num": 67968,
+      "word": "拜登对特朗普说欢迎回家",
+      "onboard_time": 1737414915,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 66915,
       "num": 66915,
       "word": "相思令空降播出",
@@ -563,12 +619,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 51150,
-      "num": 38290,
-      "word": "潘宏将母狗卖给狗肉车或违法",
-      "onboard_time": 1737397332,
-      "rank": 35,
-      "category": "网红"
+      "raw_hot": 52295,
+      "num": 52295,
+      "word": "身边的年味",
+      "onboard_time": 1737360018,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50724,
@@ -576,6 +632,14 @@
       "word": "交警人还没到嘴先出警",
       "onboard_time": 1737388158,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49101,
+      "num": 49101,
+      "word": "集采药降价别以牺牲药效为代价",
+      "onboard_time": 1737401591,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -603,20 +667,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35168,
+      "num": 42855,
+      "word": "成毅长安二十四计片场明信片",
+      "onboard_time": 1737410412,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 34355,
-      "num": 34355,
+      "num": 42582,
       "word": "巴黎男装周",
       "onboard_time": 1737399972,
       "rank": 26,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 33028,
-      "num": 331136,
-      "word": "中国的人造太阳有重大突破",
-      "onboard_time": 1737371538,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 30380,
@@ -625,6 +689,22 @@
       "onboard_time": 1737391636,
       "rank": 45,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 28953,
+      "num": 42171,
+      "word": "射雕预告诠释中国武侠为何生生不息",
+      "onboard_time": 1737404172,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 27214,
+      "num": 73912,
+      "word": "希望美方提供非歧视营商环境",
+      "onboard_time": 1737414254,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 26413,
@@ -675,28 +755,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20902,
-      "num": 25486,
-      "word": "射雕预告诠释中国武侠为何生生不息",
-      "onboard_time": 1737404172,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 20672,
       "num": 26536,
       "word": "亚冬会开幕式主题歌MV",
       "onboard_time": 1737395772,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 20578,
-      "num": 33942,
-      "word": "集采药降价别以牺牲药效为代价",
-      "onboard_time": 1737401591,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19207,
@@ -713,14 +777,6 @@
       "onboard_time": 1737403991,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16927,
-      "num": 25464,
-      "word": "成毅长安二十四计片场明信片",
-      "onboard_time": 1737410412,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 15074,
