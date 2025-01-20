@@ -1,0 +1,410 @@
+{
+  "runTime": 1737386624804,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 693784,
+        "num": 1111005,
+        "word": "张雪峰称给公司350人发2000万年终奖",
+        "onboard_time": 1737379818,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 662730,
+        "num": 662730,
+        "word": "尹锡悦律师碰瓷中国12345便民热线",
+        "onboard_time": 1737385100,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30171,
+        "num": 552785,
+        "word": "2025亚冬会火种今日成功采集",
+        "onboard_time": 1737381800,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 825883,
+        "num": 541222,
+        "word": "Angelababy相思令出场镜头",
+        "onboard_time": 1737380179,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 528801,
+        "num": 528801,
+        "word": "留几手说不想骗葛夕了",
+        "onboard_time": 1737384081,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 482956,
+        "num": 482956,
+        "word": "大学生开房洗衣服被吐槽薅羊毛",
+        "onboard_time": 1737363078,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327981,
+        "num": 327981,
+        "word": "四川内江4.4级地震",
+        "onboard_time": 1737384201,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301379,
+        "num": 301379,
+        "word": "韩国网友被中国演员的颜值震撼",
+        "onboard_time": 1737353478,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297987,
+        "num": 297987,
+        "word": "漂白",
+        "onboard_time": 1737360798,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90140,
+        "num": 296225,
+        "word": "人造太阳创1亿摄氏度1000秒纪录",
+        "onboard_time": 1737376278,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2246011,
+        "num": 295518,
+        "word": "周锐官宣恋情",
+        "onboard_time": 1737383781,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1590642,
+        "num": 292290,
+        "word": "艾特经历40次火龙果12次心肺复苏",
+        "onboard_time": 1737383180,
+        "rank": 11,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 953409,
+        "num": 289104,
+        "word": "印度女医生奸杀案宣判",
+        "onboard_time": 1737377178,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 647227,
+        "num": 287334,
+        "word": "马锐为Angelababy发声",
+        "onboard_time": 1737383900,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 573467,
+        "num": 285192,
+        "word": "潘宏曾说母狗死后会卖狗肉车",
+        "onboard_time": 1737362118,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 338337,
+        "num": 282973,
+        "word": "中方回应特朗普要TikTok50%所有权",
+        "onboard_time": 1737360798,
+        "rank": 15,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 281713,
+        "num": 281713,
+        "word": "训犬师谈网红狗艾特洗澡死亡",
+        "onboard_time": 1737373278,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 242988,
+        "num": 242988,
+        "word": "被打铁花惊艳到眼前一亮又一亮",
+        "onboard_time": 1737379818,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45027,
+        "num": 242780,
+        "word": "业内人士期待射雕战争大场面",
+        "onboard_time": 1737385938,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142697,
+        "num": 242103,
+        "word": "孟子义给粉丝发面膜",
+        "onboard_time": 1737378438,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424519,
+        "num": 241594,
+        "word": "麦琳商业价值超李行亮",
+        "onboard_time": 1737377117,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372012,
+        "num": 240847,
+        "word": "吴尊neinei新综来了",
+        "onboard_time": 1737383180,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240796,
+        "num": 240796,
+        "word": "外交部回应X不被允许在中国运营",
+        "onboard_time": 1737366017,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 221060,
+        "num": 221060,
+        "word": "女子取8万8称拜年发红包惊动民警",
+        "onboard_time": 1737366617,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201996,
+        "num": 201996,
+        "word": "一听这些歌就知道快过年了",
+        "onboard_time": 1737375737,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190035,
+        "num": 190035,
+        "word": "白鹿把敖瑞鹏哄成胚胎了",
+        "onboard_time": 1737372858,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182647,
+        "num": 182647,
+        "word": "上班后对外貌要求降到了0",
+        "onboard_time": 1737385159,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168065,
+        "num": 168065,
+        "word": "魏哲鸣手伸不进屏幕的无力感",
+        "onboard_time": 1737383959,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162341,
+        "num": 162341,
+        "word": "杨紫五大女刊准满贯",
+        "onboard_time": 1737378138,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154335,
+        "num": 154335,
+        "word": "拜登预防性赦免福奇等人",
+        "onboard_time": 1737381199,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147204,
+        "num": 147204,
+        "word": "亚冬会开幕式导演盛赞王一博",
+        "onboard_time": 1737377057,
+        "rank": 30,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 144737,
+        "num": 144737,
+        "word": "周锐张馨月偶练之前就在一起了",
+        "onboard_time": 1737386361,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 304095,
+        "num": 144251,
+        "word": "樊振东阿玛尼合影C位",
+        "onboard_time": 1737379818,
+        "rank": 32,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 143103,
+        "num": 143103,
+        "word": "陈震赔付领克500万元违约金",
+        "onboard_time": 1737373157,
+        "rank": 33,
+        "category": "汽车,网红"
+      },
+      {
+        "raw_hot": 137961,
+        "num": 137961,
+        "word": "今年集福要比往年敬业福容易很多",
+        "onboard_time": 1737384381,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130747,
+        "num": 130747,
+        "word": "易烊千玺王一博蛇年春晚彩排路透",
+        "onboard_time": 1737383120,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125329,
+        "num": 125329,
+        "word": "异人之下 王也角色",
+        "onboard_time": 1737378799,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125248,
+        "num": 125248,
+        "word": "相思令空降播出",
+        "onboard_time": 1737360079,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120995,
+        "num": 120995,
+        "word": "艾特主人称会有后续",
+        "onboard_time": 1737379458,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 118898,
+        "num": 118898,
+        "word": "漂白最炸裂的一集",
+        "onboard_time": 1737372378,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115058,
+        "num": 115058,
+        "word": "国补手机4000元档机型最抢手",
+        "onboard_time": 1737382819,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39760,
+        "num": 113613,
+        "word": "60秒速览亚冬会火种采集全过程",
+        "onboard_time": 1737385220,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112448,
+        "num": 112448,
+        "word": "王源感受演唱会散场粉丝视角",
+        "onboard_time": 1737381500,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110535,
+        "num": 110535,
+        "word": "白鹿空降白月梵星超话",
+        "onboard_time": 1737383359,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108249,
+        "num": 108249,
+        "word": "相思令里有颜安",
+        "onboard_time": 1737382518,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107548,
+        "num": 107548,
+        "word": "何惟芳两种情绪一手拿捏",
+        "onboard_time": 1737384920,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107302,
+        "num": 107302,
+        "word": "张凌赫你还怪有礼貌的",
+        "onboard_time": 1737386298,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106968,
+        "num": 106968,
+        "word": "业内人士谈肖战形象与郭靖契合点",
+        "onboard_time": 1737383839,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98059,
+        "num": 98059,
+        "word": "变淡的年味这不就回来了",
+        "onboard_time": 1737367578,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94916,
+        "num": 94916,
+        "word": "刘浩存首支全球广告",
+        "onboard_time": 1737378919,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#这份牵挂春暖中国#"
+    }
+  }
+}

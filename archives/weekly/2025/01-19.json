@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737383945704,
+  "endTime": 1737386624804,
   "band_list": [
     {
       "raw_hot": 2805587,
@@ -41,6 +41,14 @@
       "onboard_time": 1737348859,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2246011,
+      "num": 295518,
+      "word": "周锐官宣恋情",
+      "onboard_time": 1737383781,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 2104042,
@@ -137,6 +145,14 @@
       "onboard_time": 1737366617,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1590642,
+      "num": 332112,
+      "word": "艾特经历40次火龙果12次心肺复苏",
+      "onboard_time": 1737383180,
+      "rank": 16,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 1556030,
@@ -619,12 +635,28 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 662730,
+      "num": 662730,
+      "word": "尹锡悦律师碰瓷中国12345便民热线",
+      "onboard_time": 1737385100,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 655982,
       "num": 655982,
       "word": "整治网上互撕谩骂和拉踩引战等行为",
       "onboard_time": 1737260658,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 647227,
+      "num": 316870,
+      "word": "马锐为Angelababy发声",
+      "onboard_time": 1737383900,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 645941,
@@ -849,6 +881,14 @@
       "onboard_time": 1737360258,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 528801,
+      "num": 528801,
+      "word": "留几手说不想骗葛夕了",
+      "onboard_time": 1737384081,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 523130,
@@ -1267,6 +1307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 372012,
+      "num": 273782,
+      "word": "吴尊neinei新综来了",
+      "onboard_time": 1737383180,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 368926,
       "num": 368926,
       "word": "哪吒2全新角色亮相",
@@ -1435,14 +1483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 332112,
-      "num": 332112,
-      "word": "艾特经历40次火龙果12次心肺复苏",
-      "onboard_time": 1737383180,
-      "rank": 16,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 331898,
       "num": 150258,
       "word": "杨子含泪说不要再恭喜黄圣依了",
@@ -1465,6 +1505,14 @@
       "onboard_time": 1737277518,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 327981,
+      "num": 327981,
+      "word": "四川内江4.4级地震",
+      "onboard_time": 1737384201,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 327419,
@@ -1537,14 +1585,6 @@
       "onboard_time": 1737265457,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 316870,
-      "num": 316870,
-      "word": "马锐为Angelababy发声",
-      "onboard_time": 1737383900,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 314529,
@@ -1745,14 +1785,6 @@
       "onboard_time": 1737342678,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 275781,
-      "num": 273782,
-      "word": "吴尊neinei新综来了",
-      "onboard_time": 1737383180,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 275346,
@@ -2300,7 +2332,7 @@
     },
     {
       "raw_hot": 205175,
-      "num": 205175,
+      "num": 242103,
       "word": "孟子义给粉丝发面膜",
       "onboard_time": 1737378438,
       "rank": 27,
@@ -2643,14 +2675,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 193039,
-      "num": 193039,
-      "word": "周锐官宣恋情",
-      "onboard_time": 1737383781,
-      "rank": 31,
-      "category": "网红"
-    },
-    {
       "raw_hot": 192773,
       "num": 192773,
       "word": "NIP战胜iG",
@@ -2873,6 +2897,14 @@
       "onboard_time": 1737262398,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 182647,
+      "num": 182647,
+      "word": "上班后对外貌要求降到了0",
+      "onboard_time": 1737385159,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 182091,
@@ -3105,6 +3137,14 @@
       "onboard_time": 1737333198,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 168065,
+      "num": 168065,
+      "word": "魏哲鸣手伸不进屏幕的无力感",
+      "onboard_time": 1737383959,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 167965,
@@ -3644,7 +3684,7 @@
     },
     {
       "raw_hot": 148444,
-      "num": 114503,
+      "num": 130747,
       "word": "易烊千玺王一博蛇年春晚彩排路透",
       "onboard_time": 1737383120,
       "rank": 44,
@@ -3729,6 +3769,14 @@
       "onboard_time": 1737275298,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144737,
+      "num": 144737,
+      "word": "周锐张馨月偶练之前就在一起了",
+      "onboard_time": 1737386361,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 144461,
@@ -3921,6 +3969,14 @@
       "onboard_time": 1737377237,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 137961,
+      "num": 137961,
+      "word": "今年集福要比往年敬业福容易很多",
+      "onboard_time": 1737384381,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137956,
@@ -4555,6 +4611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 115058,
+      "num": 115058,
+      "word": "国补手机4000元档机型最抢手",
+      "onboard_time": 1737382819,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114625,
       "num": 114625,
       "word": "王一博网络视听盛典上班",
@@ -4593,14 +4657,6 @@
       "onboard_time": 1737378077,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 112797,
-      "num": 112797,
-      "word": "国补手机4000元档机型最抢手",
-      "onboard_time": 1737382819,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 112585,
@@ -4747,12 +4803,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 107548,
+      "num": 107548,
+      "word": "何惟芳两种情绪一手拿捏",
+      "onboard_time": 1737384920,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107350,
       "num": 107350,
       "word": "给美国网友一点中华文化震撼",
       "onboard_time": 1737225552,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107302,
+      "num": 107302,
+      "word": "张凌赫你还怪有礼貌的",
+      "onboard_time": 1737386298,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 106577,
@@ -5028,7 +5100,7 @@
     },
     {
       "raw_hot": 100181,
-      "num": 100181,
+      "num": 296225,
       "word": "人造太阳创1亿摄氏度1000秒纪录",
       "onboard_time": 1737376278,
       "rank": 48,
@@ -5795,6 +5867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45027,
+      "num": 242780,
+      "word": "业内人士期待射雕战争大场面",
+      "onboard_time": 1737385938,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 43496,
       "num": 1179101,
       "word": "用非遗剪纸的方式打开苏州",
@@ -5849,6 +5929,14 @@
       "onboard_time": 1737263777,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 39760,
+      "num": 113613,
+      "word": "60秒速览亚冬会火种采集全过程",
+      "onboard_time": 1737385220,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 37538,
