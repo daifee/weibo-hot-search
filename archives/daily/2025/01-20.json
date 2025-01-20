@@ -1,7 +1,15 @@
 {
   "startTime": 1737303863836,
-  "endTime": 1737341479796,
+  "endTime": 1737342002098,
   "band_list": [
+    {
+      "raw_hot": 2036208,
+      "num": 2036208,
+      "word": "台测试封杀小红书遭网友嘲讽",
+      "onboard_time": 1737339856,
+      "rank": 1,
+      "category": "国内时政"
+    },
     {
       "raw_hot": 1748173,
       "num": 1748173,
@@ -35,26 +43,18 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1210214,
-      "num": 1210214,
-      "word": "台测试封杀小红书遭网友嘲讽",
-      "onboard_time": 1737339856,
-      "rank": 1,
-      "category": "国内时政"
+      "raw_hot": 1245842,
+      "num": 1245842,
+      "word": "主人已将艾特遗体带回家",
+      "onboard_time": 1737339677,
+      "rank": 3,
+      "category": "网红"
     },
     {
       "raw_hot": 1173136,
       "num": 1173136,
       "word": "葛夕离婚后给留几手打工",
       "onboard_time": 1737332779,
-      "rank": 3,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 909525,
-      "num": 909525,
-      "word": "主人已将艾特遗体带回家",
-      "onboard_time": 1737339677,
       "rank": 3,
       "category": "网红"
     },
@@ -99,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 661745,
+      "num": 661745,
+      "word": "白鹿说以后不太想接偶像剧",
+      "onboard_time": 1737340638,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 655543,
       "num": 655543,
       "word": "央视曝光美甲灯安全隐患",
@@ -107,7 +115,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 623606,
+      "raw_hot": 651603,
       "num": 495876,
       "word": "艾特的主人发声",
       "onboard_time": 1737339976,
@@ -131,8 +139,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 570909,
+      "num": 485747,
+      "word": "郭靖台词道出金庸武侠中的家国天下",
+      "onboard_time": 1737339617,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 557782,
-      "num": 317598,
+      "num": 328081,
       "word": "偶遇吴谨言洪尧公园散步",
       "onboard_time": 1737333257,
       "rank": 11,
@@ -145,14 +161,6 @@
       "onboard_time": 1737339078,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 485747,
-      "num": 485747,
-      "word": "郭靖台词道出金庸武侠中的家国天下",
-      "onboard_time": 1737339617,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 459834,
@@ -177,14 +185,6 @@
       "onboard_time": 1737328995,
       "rank": 6,
       "category": "国际时政,互联网"
-    },
-    {
-      "raw_hot": 441043,
-      "num": 441043,
-      "word": "白鹿说以后不太想接偶像剧",
-      "onboard_time": 1737340638,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 430062,
@@ -251,6 +251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 311241,
+      "num": 217517,
+      "word": "于适0帧起手射箭",
+      "onboard_time": 1737341177,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 286698,
       "num": 286698,
       "word": "两只狗跟了葛夕",
@@ -267,12 +275,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 275933,
+      "num": 275933,
+      "word": "今天起买手机最高补贴500",
+      "onboard_time": 1737339017,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 267262,
       "num": 179419,
       "word": "李小冉把口红给刘晓庆用",
       "onboard_time": 1737287479,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 263437,
+      "num": 237260,
+      "word": "特朗普妻子发行虚拟币MELANIA",
+      "onboard_time": 1737338957,
+      "rank": 18,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 260810,
@@ -291,28 +315,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 253687,
-      "num": 253687,
-      "word": "今天起买手机最高补贴500",
-      "onboard_time": 1737339017,
-      "rank": 17,
-      "category": "数码"
-    },
-    {
       "raw_hot": 246830,
       "num": 179298,
       "word": "留几手自曝请杨子喝酒花20万",
       "onboard_time": 1737279798,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 237260,
-      "num": 237260,
-      "word": "特朗普妻子发行虚拟币MELANIA",
-      "onboard_time": 1737338957,
-      "rank": 18,
-      "category": "国际时政,财经"
     },
     {
       "raw_hot": 230716,
@@ -345,14 +353,6 @@
       "onboard_time": 1737333198,
       "rank": 21,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 217517,
-      "num": 217517,
-      "word": "于适0帧起手射箭",
-      "onboard_time": 1737341177,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 217075,
@@ -443,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177979,
+      "num": 177979,
+      "word": "相思令",
+      "onboard_time": 1737338296,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174438,
       "num": 174438,
       "word": "网传潘宏给狗狗洗澡致死",
@@ -491,12 +499,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 160380,
-      "num": 160380,
-      "word": "相思令",
-      "onboard_time": 1737338296,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 160590,
+      "num": 160590,
+      "word": "肖战说侠之大者心系苍生",
+      "onboard_time": 1737341416,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 159729,
@@ -516,7 +524,7 @@
     },
     {
       "raw_hot": 156724,
-      "num": 156724,
+      "num": 188368,
       "word": "小寒大寒又过一年",
       "onboard_time": 1737337396,
       "rank": 24,
@@ -579,6 +587,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 141714,
+      "num": 141714,
+      "word": "2025春节档史上最快预售破亿",
+      "onboard_time": 1737339437,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 139903,
       "num": 139903,
       "word": "TikTok停止在美服务",
@@ -603,20 +619,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136399,
+      "num": 136399,
+      "word": "四川红原县4.9级地震",
+      "onboard_time": 1737339017,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136186,
+      "num": 502049,
+      "word": "用中式美学打开大寒节气",
+      "onboard_time": 1737339017,
+      "rank": 9,
+      "category": "民生新闻,旅游"
+    },
+    {
       "raw_hot": 133936,
       "num": 133936,
       "word": "国色芳华24集预告",
       "onboard_time": 1737294980,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 133730,
-      "num": 128881,
-      "word": "肖战说侠之大者心系苍生",
-      "onboard_time": 1737341416,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 133367,
@@ -627,36 +651,12 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 131913,
-      "num": 131913,
-      "word": "四川红原县4.9级地震",
-      "onboard_time": 1737339017,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 130997,
-      "num": 130997,
-      "word": "2025春节档史上最快预售破亿",
-      "onboard_time": 1737339437,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 130736,
       "num": 130736,
       "word": "男孩被妈妈骂爬二楼隔层躲两天",
       "onboard_time": 1737337278,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 128984,
-      "num": 502049,
-      "word": "用中式美学打开大寒节气",
-      "onboard_time": 1737339017,
-      "rank": 9,
-      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 128325,
@@ -747,6 +747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105980,
+      "num": 105980,
+      "word": "湖人vs快船",
+      "onboard_time": 1737339078,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104992,
       "num": 104992,
       "word": "大寒",
@@ -771,11 +779,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 101185,
+      "num": 101185,
+      "word": "白鹿听说菩提村有敖瑞鹏熟人在",
+      "onboard_time": 1737341957,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101184,
       "num": 101184,
       "word": "杨茜尧获大湾区最喜爱TVB女主角",
       "onboard_time": 1737303256,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100103,
+      "num": 100103,
+      "word": "杨紫何惟芳惊险求生淬骨重生",
+      "onboard_time": 1737339137,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -795,8 +819,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 94762,
-      "num": 94762,
+      "raw_hot": 96145,
+      "num": 192125,
       "word": "德约科维奇硬刚无礼媒体",
       "onboard_time": 1737341237,
       "rank": 46,
@@ -833,14 +857,6 @@
       "onboard_time": 1737337396,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 91355,
-      "num": 91355,
-      "word": "杨紫何惟芳惊险求生淬骨重生",
-      "onboard_time": 1737339137,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 90981,
@@ -1083,6 +1099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 21385,
+      "num": 1209753,
+      "word": "冰雪延庆过大年",
+      "onboard_time": 1737340277,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20319,
       "num": 26807,
       "word": "专家称饮食在减肥中比运动更重要",
@@ -1104,14 +1128,6 @@
       "word": "要减少日常考试测试频次",
       "onboard_time": 1737318851,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18088,
-      "num": 956303,
-      "word": "冰雪延庆过大年",
-      "onboard_time": 1737340277,
-      "rank": 2,
       "category": "民生新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737341479796,
+  "endTime": 1737342002098,
   "band_list": [
     {
       "raw_hot": 2766963,
@@ -25,6 +25,14 @@
       "onboard_time": 1737286337,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2036208,
+      "num": 2036208,
+      "word": "台测试封杀小红书遭网友嘲讽",
+      "onboard_time": 1737339856,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2022883,
@@ -91,20 +99,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1245842,
+      "num": 1245842,
+      "word": "主人已将艾特遗体带回家",
+      "onboard_time": 1737339677,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1215468,
       "num": 502086,
       "word": "你摸我腰",
       "onboard_time": 1737255077,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1210214,
-      "num": 1210214,
-      "word": "台测试封杀小红书遭网友嘲讽",
-      "onboard_time": 1737339856,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1195226,
@@ -235,14 +243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 909525,
-      "num": 909525,
-      "word": "主人已将艾特遗体带回家",
-      "onboard_time": 1737339677,
-      "rank": 3,
-      "category": "网红"
-    },
-    {
       "raw_hot": 902283,
       "num": 902283,
       "word": "TikTok通知美用户将暂停服务",
@@ -355,12 +355,28 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 661745,
+      "num": 661745,
+      "word": "白鹿说以后不太想接偶像剧",
+      "onboard_time": 1737340638,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 655982,
       "num": 655982,
       "word": "整治网上互撕谩骂和拉踩引战等行为",
       "onboard_time": 1737260658,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 651603,
+      "num": 495876,
+      "word": "艾特的主人发声",
+      "onboard_time": 1737339976,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 645941,
@@ -385,14 +401,6 @@
       "onboard_time": 1737262458,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 623606,
-      "num": 495876,
-      "word": "艾特的主人发声",
-      "onboard_time": 1737339976,
-      "rank": 10,
-      "category": "网红"
     },
     {
       "raw_hot": 618718,
@@ -475,8 +483,16 @@
       "category": "体育,互联网"
     },
     {
+      "raw_hot": 570909,
+      "num": 485747,
+      "word": "郭靖台词道出金庸武侠中的家国天下",
+      "onboard_time": 1737339617,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 557782,
-      "num": 317598,
+      "num": 328081,
       "word": "偶遇吴谨言洪尧公园散步",
       "onboard_time": 1737333257,
       "rank": 11,
@@ -579,14 +595,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 485747,
-      "num": 485747,
-      "word": "郭靖台词道出金庸武侠中的家国天下",
-      "onboard_time": 1737339617,
-      "rank": 11,
-      "category": "电影"
-    },
-    {
       "raw_hot": 481438,
       "num": 193597,
       "word": "孟子义95花集均剧播第一",
@@ -673,14 +681,6 @@
       "onboard_time": 1737328995,
       "rank": 6,
       "category": "国际时政,互联网"
-    },
-    {
-      "raw_hot": 441043,
-      "num": 441043,
-      "word": "白鹿说以后不太想接偶像剧",
-      "onboard_time": 1737340638,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 439724,
@@ -995,6 +995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 311241,
+      "num": 217517,
+      "word": "于适0帧起手射箭",
+      "onboard_time": 1737341177,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 308395,
       "num": 179236,
       "word": "射雕英雄传侠之大者预售",
@@ -1123,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 275933,
+      "num": 275933,
+      "word": "今天起买手机最高补贴500",
+      "onboard_time": 1737339017,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 275346,
       "num": 225459,
       "word": "李昀锐断眉",
@@ -1161,6 +1177,14 @@
       "onboard_time": 1737297740,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 263437,
+      "num": 237260,
+      "word": "特朗普妻子发行虚拟币MELANIA",
+      "onboard_time": 1737338957,
+      "rank": 18,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 261625,
@@ -1209,14 +1233,6 @@
       "onboard_time": 1737261259,
       "rank": 41,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 253687,
-      "num": 253687,
-      "word": "今天起买手机最高补贴500",
-      "onboard_time": 1737339017,
-      "rank": 17,
-      "category": "数码"
     },
     {
       "raw_hot": 252535,
@@ -1289,14 +1305,6 @@
       "onboard_time": 1737296059,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 237260,
-      "num": 237260,
-      "word": "特朗普妻子发行虚拟币MELANIA",
-      "onboard_time": 1737338957,
-      "rank": 18,
-      "category": "国际时政,财经"
     },
     {
       "raw_hot": 232827,
@@ -1377,14 +1385,6 @@
       "onboard_time": 1737267079,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 217517,
-      "num": 217517,
-      "word": "于适0帧起手射箭",
-      "onboard_time": 1737341177,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 217354,
@@ -1827,6 +1827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 177979,
+      "num": 177979,
+      "word": "相思令",
+      "onboard_time": 1737338296,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177399,
       "num": 177399,
       "word": "做一次美甲手上皮肤黑一两个色号",
@@ -2027,12 +2035,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160380,
-      "num": 160380,
-      "word": "相思令",
-      "onboard_time": 1737338296,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 160590,
+      "num": 160590,
+      "word": "肖战说侠之大者心系苍生",
+      "onboard_time": 1737341416,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 159729,
@@ -2092,7 +2100,7 @@
     },
     {
       "raw_hot": 156724,
-      "num": 156724,
+      "num": 188368,
       "word": "小寒大寒又过一年",
       "onboard_time": 1737337396,
       "rank": 24,
@@ -2395,6 +2403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141714,
+      "num": 141714,
+      "word": "2025春节档史上最快预售破亿",
+      "onboard_time": 1737339437,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 141511,
       "num": 141511,
       "word": "蒋长扬许诺何惟芳不离不弃",
@@ -2467,6 +2483,22 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 136399,
+      "num": 136399,
+      "word": "四川红原县4.9级地震",
+      "onboard_time": 1737339017,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136186,
+      "num": 502049,
+      "word": "用中式美学打开大寒节气",
+      "onboard_time": 1737339017,
+      "rank": 9,
+      "category": "民生新闻,旅游"
+    },
+    {
       "raw_hot": 135832,
       "num": 135832,
       "word": "90后新闻联播主播王音棋主持春晚",
@@ -2497,14 +2529,6 @@
       "onboard_time": 1737206359,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 133730,
-      "num": 128881,
-      "word": "肖战说侠之大者心系苍生",
-      "onboard_time": 1737341416,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 133704,
@@ -2539,28 +2563,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 131913,
-      "num": 131913,
-      "word": "四川红原县4.9级地震",
-      "onboard_time": 1737339017,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 131126,
       "num": 191692,
       "word": "葛夕捐出了直播打赏",
       "onboard_time": 1737273918,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 130997,
-      "num": 130997,
-      "word": "2025春节档史上最快预售破亿",
-      "onboard_time": 1737339437,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 130736,
@@ -2601,14 +2609,6 @@
       "onboard_time": 1737202098,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 128984,
-      "num": 502049,
-      "word": "用中式美学打开大寒节气",
-      "onboard_time": 1737339017,
-      "rank": 9,
-      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 128325,
@@ -2939,6 +2939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105980,
+      "num": 105980,
+      "word": "湖人vs快船",
+      "onboard_time": 1737339078,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105959,
       "num": 499154,
       "word": "2025春节网络环境整治行动启动",
@@ -3051,6 +3059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 101185,
+      "num": 101185,
+      "word": "白鹿听说菩提村有敖瑞鹏熟人在",
+      "onboard_time": 1737341957,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101184,
       "num": 101184,
       "word": "杨茜尧获大湾区最喜爱TVB女主角",
@@ -3081,6 +3097,14 @@
       "onboard_time": 1737253817,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 100103,
+      "num": 100103,
+      "word": "杨紫何惟芳惊险求生淬骨重生",
+      "onboard_time": 1737339137,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 98309,
@@ -3147,6 +3171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96145,
+      "num": 192125,
+      "word": "德约科维奇硬刚无礼媒体",
+      "onboard_time": 1737341237,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95336,
       "num": 95336,
       "word": "印度赛蒋振邦魏雅欣混双冠军",
@@ -3185,14 +3217,6 @@
       "onboard_time": 1737216259,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 94762,
-      "num": 94762,
-      "word": "德约科维奇硬刚无礼媒体",
-      "onboard_time": 1737341237,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 94327,
@@ -3257,14 +3281,6 @@
       "onboard_time": 1737337396,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 91355,
-      "num": 91355,
-      "word": "杨紫何惟芳惊险求生淬骨重生",
-      "onboard_time": 1737339137,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 90428,
@@ -3915,6 +3931,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 21385,
+      "num": 1209753,
+      "word": "冰雪延庆过大年",
+      "onboard_time": 1737340277,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21112,
       "num": 24128,
       "word": "朝朝穆穆",
@@ -3968,14 +3992,6 @@
       "word": "要减少日常考试测试频次",
       "onboard_time": 1737318851,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18088,
-      "num": 956303,
-      "word": "冰雪延庆过大年",
-      "onboard_time": 1737340277,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
