@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737376949879,
+  "endTime": 1737377889123,
   "band_list": [
     {
       "raw_hot": 2805587,
@@ -411,6 +411,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 886623,
+      "num": 376146,
+      "word": "训犬师谈网红狗艾特洗澡死亡",
+      "onboard_time": 1737373278,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 885770,
       "num": 885770,
       "word": "尹锡悦换上囚服",
@@ -465,14 +473,6 @@
       "onboard_time": 1737333198,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 804904,
-      "num": 323070,
-      "word": "训犬师谈网红狗艾特洗澡死亡",
-      "onboard_time": 1737373278,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 758879,
@@ -859,6 +859,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 498738,
+      "num": 498738,
+      "word": "哈利波特有望2027年落沪",
+      "onboard_time": 1737372077,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 491390,
       "num": 491390,
       "word": "2025春节档预售破亿",
@@ -929,6 +937,14 @@
       "onboard_time": 1737349638,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 461684,
+      "num": 461684,
+      "word": "樊振东小少爷的既视感",
+      "onboard_time": 1737375798,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 459894,
@@ -1105,14 +1121,6 @@
       "onboard_time": 1737347600,
       "rank": 34,
       "category": "网红"
-    },
-    {
-      "raw_hot": 398965,
-      "num": 398965,
-      "word": "哈利波特有望2027年落沪",
-      "onboard_time": 1737372077,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 397825,
@@ -1515,6 +1523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 296789,
+      "num": 376353,
+      "word": "一听这些歌就知道快过年了",
+      "onboard_time": 1737375737,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 296514,
       "num": 277980,
       "word": "蛇年春晚后台主持人阵容官宣",
@@ -1699,22 +1715,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 267893,
-      "num": 267893,
-      "word": "樊振东小少爷的既视感",
-      "onboard_time": 1737375798,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 266446,
-      "num": 266446,
-      "word": "一听这些歌就知道快过年了",
-      "onboard_time": 1737375737,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 263437,
       "num": 237260,
       "word": "特朗普妻子发行虚拟币MELANIA",
@@ -1737,6 +1737,14 @@
       "onboard_time": 1737291440,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 257519,
+      "num": 257519,
+      "word": "陈朵作为毒物培养皿活了16年",
+      "onboard_time": 1737375558,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 256673,
@@ -1833,6 +1841,14 @@
       "onboard_time": 1737289939,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 244454,
+      "num": 244454,
+      "word": "三名男童踢踹残障男孩遭路人呵斥",
+      "onboard_time": 1737376398,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 244329,
@@ -2403,6 +2419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 194097,
+      "num": 238500,
+      "word": "射雕主创微博春节电影联欢早会ID",
+      "onboard_time": 1737376637,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194092,
       "num": 142595,
       "word": "杨子说麦琳都白了我还黑着呢",
@@ -2611,14 +2635,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 186327,
-      "num": 186327,
-      "word": "陈朵作为毒物培养皿活了16年",
-      "onboard_time": 1737375558,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 185916,
       "num": 185916,
       "word": "支持有条件的幼儿园招收2至3岁幼儿",
@@ -2641,6 +2657,14 @@
       "onboard_time": 1737349459,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185420,
+      "num": 185420,
+      "word": "朱志鑫不语只是一味的拿钻三",
+      "onboard_time": 1737376879,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 185222,
@@ -2681,14 +2705,6 @@
       "onboard_time": 1737262398,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 182140,
-      "num": 182140,
-      "word": "三名男童踢踹残障男孩遭路人呵斥",
-      "onboard_time": 1737376398,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 182091,
@@ -2835,6 +2851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173270,
+      "num": 173270,
+      "word": "张雅钦做女主做女二都精彩",
+      "onboard_time": 1737372618,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 173238,
       "num": 288063,
       "word": "尹锡悦被羁押最长可达20天",
@@ -2881,6 +2905,14 @@
       "onboard_time": 1737373337,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168143,
+      "num": 168143,
+      "word": "四川内江市3.2级地震",
+      "onboard_time": 1737373639,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168098,
@@ -2995,12 +3027,12 @@
       "category": "电影,剧集"
     },
     {
-      "raw_hot": 164371,
-      "num": 164371,
-      "word": "张雅钦做女主做女二都精彩",
-      "onboard_time": 1737372618,
-      "rank": 42,
-      "category": "作品衍生"
+      "raw_hot": 164796,
+      "num": 164796,
+      "word": "印度女医生奸杀案宣判",
+      "onboard_time": 1737377178,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 163730,
@@ -3187,6 +3219,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157882,
+      "num": 157882,
+      "word": "虞书欣新专辑海外影响力",
+      "onboard_time": 1737376398,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 157249,
+      "num": 218200,
+      "word": "孙颖莎的福字可爱",
+      "onboard_time": 1737376217,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156724,
       "num": 188368,
       "word": "小寒大寒又过一年",
@@ -3225,14 +3273,6 @@
       "onboard_time": 1737189137,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 155749,
-      "num": 186502,
-      "word": "孙颖莎的福字可爱",
-      "onboard_time": 1737376217,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 154651,
@@ -3643,6 +3683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138135,
+      "num": 138135,
+      "word": "以闪亮之名",
+      "onboard_time": 1737377237,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 137956,
       "num": 137956,
       "word": "无限暖暖1.2版本前瞻",
@@ -3763,6 +3811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134586,
+      "num": 134586,
+      "word": "亚冬会开幕式导演盛赞王一博",
+      "onboard_time": 1737377057,
+      "rank": 39,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 133704,
       "num": 133704,
       "word": "严浩翔边饭撒边检查扣子",
@@ -3825,6 +3881,14 @@
       "onboard_time": 1737273918,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131037,
+      "num": 131037,
+      "word": "阴阳师",
+      "onboard_time": 1737377057,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 130965,
@@ -3953,22 +4017,6 @@
       "onboard_time": 1737364879,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 125546,
-      "num": 125242,
-      "word": "虞书欣新专辑海外影响力",
-      "onboard_time": 1737376398,
-      "rank": 38,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 125158,
-      "num": 125158,
-      "word": "射雕主创微博春节电影联欢早会ID",
-      "onboard_time": 1737376637,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 125014,
@@ -4227,6 +4275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115809,
+      "num": 115809,
+      "word": "3月起公立医疗机构取消门诊预交金",
+      "onboard_time": 1737374658,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115179,
       "num": 115179,
       "word": "联合国总部电梯坏了5个月终于修好了",
@@ -4347,6 +4403,14 @@
       "category": "民生新闻,旅游"
     },
     {
+      "raw_hot": 109087,
+      "num": 109087,
+      "word": "被樊振东硬控的7秒",
+      "onboard_time": 1737377539,
+      "rank": 48,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 108475,
       "num": 118281,
       "word": "千朵桃花5个人演了13个角色",
@@ -4401,6 +4465,14 @@
       "onboard_time": 1737225552,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107277,
+      "num": 250721,
+      "word": "麦琳商业价值超李行亮",
+      "onboard_time": 1737377117,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 106577,
@@ -4579,14 +4651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102151,
-      "num": 102151,
-      "word": "3月起公立医疗机构取消门诊预交金",
-      "onboard_time": 1737374658,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101875,
       "num": 101875,
       "word": "清明上河园起火目击者发声",
@@ -4601,14 +4665,6 @@
       "onboard_time": 1737206961,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 101714,
-      "num": 101714,
-      "word": "朱志鑫不语只是一味的拿钻三",
-      "onboard_time": 1737376879,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 101666,

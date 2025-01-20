@@ -1,0 +1,410 @@
+{
+  "runTime": 1737377889123,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 998352,
+        "num": 1159736,
+        "word": "大学生开房洗衣服被吐槽薅羊毛",
+        "onboard_time": 1737363078,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 591074,
+        "num": 591074,
+        "word": "陈震赔付领克500万元违约金",
+        "onboard_time": 1737373157,
+        "rank": 1,
+        "category": "汽车,网红"
+      },
+      {
+        "raw_hot": 25971,
+        "num": 518430,
+        "word": "祖国山河一片银装一眼心动",
+        "onboard_time": 1737360318,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 511007,
+        "num": 511007,
+        "word": "漂白最炸裂的一集",
+        "onboard_time": 1737372378,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 498738,
+        "num": 498738,
+        "word": "哈利波特有望2027年落沪",
+        "onboard_time": 1737372077,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 461684,
+        "num": 461684,
+        "word": "樊振东小少爷的既视感",
+        "onboard_time": 1737375798,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 444092,
+        "num": 444092,
+        "word": "韩国网友被中国演员的颜值震撼",
+        "onboard_time": 1737353478,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434720,
+        "num": 434720,
+        "word": "外交部回应X不被允许在中国运营",
+        "onboard_time": 1737366017,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 376471,
+        "num": 376471,
+        "word": "樊振东参加米兰时装周",
+        "onboard_time": 1737374957,
+        "rank": 8,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 296789,
+        "num": 376353,
+        "word": "一听这些歌就知道快过年了",
+        "onboard_time": 1737375737,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 886623,
+        "num": 376146,
+        "word": "训犬师谈网红狗艾特洗澡死亡",
+        "onboard_time": 1737373278,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 848028,
+        "num": 375993,
+        "word": "潘宏曾说母狗死后会卖狗肉车",
+        "onboard_time": 1737362118,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 418581,
+        "num": 375684,
+        "word": "中方回应特朗普要TikTok50%所有权",
+        "onboard_time": 1737360798,
+        "rank": 12,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 375653,
+        "num": 375653,
+        "word": "白鹿把敖瑞鹏哄成胚胎了",
+        "onboard_time": 1737372858,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306530,
+        "num": 306530,
+        "word": "漂白",
+        "onboard_time": 1737360798,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282194,
+        "num": 282194,
+        "word": "李小冉你好好演戏唱歌我另有人选",
+        "onboard_time": 1737368538,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19416,
+        "num": 262412,
+        "word": "又被Prada秀场惊艳到了",
+        "onboard_time": 1737374118,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 257519,
+        "num": 257519,
+        "word": "陈朵作为毒物培养皿活了16年",
+        "onboard_time": 1737375558,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107277,
+        "num": 250721,
+        "word": "麦琳商业价值超李行亮",
+        "onboard_time": 1737377117,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244454,
+        "num": 244454,
+        "word": "三名男童踢踹残障男孩遭路人呵斥",
+        "onboard_time": 1737376398,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 608640,
+        "num": 242059,
+        "word": "相思令空降播出",
+        "onboard_time": 1737360079,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194097,
+        "num": 238500,
+        "word": "射雕主创微博春节电影联欢早会ID",
+        "onboard_time": 1737376637,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 297262,
+        "num": 238370,
+        "word": "女子取8万8称拜年发红包惊动民警",
+        "onboard_time": 1737366617,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236639,
+        "num": 236639,
+        "word": "TikTok发声明感谢特朗普澄清保证",
+        "onboard_time": 1737356478,
+        "rank": 23,
+        "category": "互联网,国际时政"
+      },
+      {
+        "raw_hot": 157249,
+        "num": 218200,
+        "word": "孙颖莎的福字可爱",
+        "onboard_time": 1737376217,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217991,
+        "num": 217991,
+        "word": "无限暖暖",
+        "onboard_time": 1737372558,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185420,
+        "num": 185420,
+        "word": "朱志鑫不语只是一味的拿钻三",
+        "onboard_time": 1737376879,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173270,
+        "num": 173270,
+        "word": "张雅钦做女主做女二都精彩",
+        "onboard_time": 1737372618,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170453,
+        "num": 170453,
+        "word": "高铁遛娃舱来了",
+        "onboard_time": 1737369438,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168143,
+        "num": 168143,
+        "word": "四川内江市3.2级地震",
+        "onboard_time": 1737373639,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164796,
+        "num": 164796,
+        "word": "印度女医生奸杀案宣判",
+        "onboard_time": 1737377178,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 161506,
+        "num": 161506,
+        "word": "射雕英雄传17%排片获40%票房",
+        "onboard_time": 1737357438,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159247,
+        "num": 159247,
+        "word": "赵今麦天选末世文女主",
+        "onboard_time": 1737364398,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157882,
+        "num": 157882,
+        "word": "虞书欣新专辑海外影响力",
+        "onboard_time": 1737376398,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151125,
+        "num": 151125,
+        "word": "肖战拒绝蒙语后期配音",
+        "onboard_time": 1737374778,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150995,
+        "num": 150995,
+        "word": "相思令开播单人剧照",
+        "onboard_time": 1737373337,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147451,
+        "num": 147451,
+        "word": "大奉打更人爆尾剧",
+        "onboard_time": 1737360258,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146044,
+        "num": 146044,
+        "word": "射雕排片涨了",
+        "onboard_time": 1737370998,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138135,
+        "num": 138135,
+        "word": "以闪亮之名",
+        "onboard_time": 1737377237,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134586,
+        "num": 134586,
+        "word": "亚冬会开幕式导演盛赞王一博",
+        "onboard_time": 1737377057,
+        "rank": 39,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 131037,
+        "num": 131037,
+        "word": "阴阳师",
+        "onboard_time": 1737377057,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124969,
+        "num": 124969,
+        "word": "杨幂脱口秀预告",
+        "onboard_time": 1737370277,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124394,
+        "num": 124394,
+        "word": "虞书欣央视总台国际频道采访",
+        "onboard_time": 1737360438,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118588,
+        "num": 118588,
+        "word": "嘘国王在冬眠过审",
+        "onboard_time": 1737372077,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116060,
+        "num": 116060,
+        "word": "何惟芳开大",
+        "onboard_time": 1737360018,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115809,
+        "num": 115809,
+        "word": "3月起公立医疗机构取消门诊预交金",
+        "onboard_time": 1737374658,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111675,
+        "num": 111675,
+        "word": "罗云熙你在用这个爱豆的妆造干什么",
+        "onboard_time": 1737369137,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110934,
+        "num": 110934,
+        "word": "妲己新皮肤愿照众生和",
+        "onboard_time": 1737367938,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109087,
+        "num": 109087,
+        "word": "被樊振东硬控的7秒",
+        "onboard_time": 1737377539,
+        "rank": 48,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 94197,
+        "num": 94197,
+        "word": "中方回应对特朗普总统任期有何期待",
+        "onboard_time": 1737371118,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#祝大家的生活像这些糖一样甜甜蜜蜜#"
+    }
+  }
+}
