@@ -1,6 +1,6 @@
 {
   "startTime": 1737390442496,
-  "endTime": 1737411628122,
+  "endTime": 1737412638597,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -139,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 305035,
+      "num": 111607,
+      "word": "拜登给特朗普留了一封信",
+      "onboard_time": 1737400872,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 284684,
       "num": 257124,
       "word": "马锐为Angelababy发声",
@@ -185,14 +193,6 @@
       "onboard_time": 1737392176,
       "rank": 13,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 240681,
-      "num": 88626,
-      "word": "拜登给特朗普留了一封信",
-      "onboard_time": 1737400872,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 232661,
@@ -267,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163668,
+      "num": 163668,
+      "word": "电视剧漂白被指抄袭",
+      "onboard_time": 1737401951,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158772,
       "num": 158772,
       "word": "福建浙江上海震感",
@@ -299,12 +307,12 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 130372,
-      "num": 130372,
-      "word": "电视剧漂白被指抄袭",
-      "onboard_time": 1737401951,
-      "rank": 15,
-      "category": "剧集"
+      "raw_hot": 135592,
+      "num": 138735,
+      "word": "2岁女童超30种食物过敏体重仅13斤",
+      "onboard_time": 1737395532,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124944,
@@ -344,14 +352,6 @@
       "word": "长时间坐车如何打发时间",
       "onboard_time": 1737386898,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 106637,
-      "num": 138735,
-      "word": "2岁女童超30种食物过敏体重仅13斤",
-      "onboard_time": 1737395532,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -611,6 +611,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 33028,
+      "num": 331136,
+      "word": "中国的人造太阳有重大突破",
+      "onboard_time": 1737371538,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 30380,
       "num": 60724,
       "word": "樊振东的时装周初亮相",
@@ -625,14 +633,6 @@
       "onboard_time": 1737386239,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 26266,
-      "num": 331136,
-      "word": "中国的人造太阳有重大突破",
-      "onboard_time": 1737371538,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 25677,
@@ -668,11 +668,27 @@
     },
     {
       "raw_hot": 21560,
-      "num": 22041,
+      "num": 25455,
       "word": "央视曝光办讲座卖神药骗局",
       "onboard_time": 1737404891,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20902,
+      "num": 25486,
+      "word": "射雕预告诠释中国武侠为何生生不息",
+      "onboard_time": 1737404172,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 20672,
+      "num": 26536,
+      "word": "亚冬会开幕式主题歌MV",
+      "onboard_time": 1737395772,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 20578,
@@ -683,28 +699,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19607,
-      "num": 22413,
-      "word": "射雕预告诠释中国武侠为何生生不息",
-      "onboard_time": 1737404172,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 19207,
       "num": 27950,
       "word": "一起相约第九届亚冬会",
       "onboard_time": 1737397452,
       "rank": 49,
       "category": "体育,民生新闻"
-    },
-    {
-      "raw_hot": 18981,
-      "num": 26536,
-      "word": "亚冬会开幕式主题歌MV",
-      "onboard_time": 1737395772,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 17968,
@@ -715,8 +715,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16194,
-      "num": 21845,
+      "raw_hot": 16927,
+      "num": 25464,
       "word": "成毅长安二十四计片场明信片",
       "onboard_time": 1737410412,
       "rank": 48,
