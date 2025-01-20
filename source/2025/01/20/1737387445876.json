@@ -1,0 +1,410 @@
+{
+  "runTime": 1737387445876,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 957711,
+        "num": 1153233,
+        "word": "尹锡悦律师碰瓷中国12345便民热线",
+        "onboard_time": 1737385100,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 557724,
+        "num": 557724,
+        "word": "张雪峰称给公司350人发2000万年终奖",
+        "onboard_time": 1737379818,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 27879,
+        "num": 471539,
+        "word": "2025亚冬会火种今日成功采集",
+        "onboard_time": 1737381800,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 464353,
+        "num": 464353,
+        "word": "留几手说不想骗葛夕了",
+        "onboard_time": 1737384081,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 726314,
+        "num": 462579,
+        "word": "Angelababy相思令出场镜头",
+        "onboard_time": 1737380179,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 444845,
+        "num": 444845,
+        "word": "大学生开房洗衣服被吐槽薅羊毛",
+        "onboard_time": 1737363078,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299390,
+        "num": 299390,
+        "word": "四川内江4.4级地震",
+        "onboard_time": 1737384201,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288638,
+        "num": 288638,
+        "word": "漂白",
+        "onboard_time": 1737360798,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275118,
+        "num": 288549,
+        "word": "韩国网友被中国演员的颜值震撼",
+        "onboard_time": 1737353478,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59109,
+        "num": 288358,
+        "word": "长时间坐车如何打发时间",
+        "onboard_time": 1737386898,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2363224,
+        "num": 288268,
+        "word": "周锐官宣恋情",
+        "onboard_time": 1737383781,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1723954,
+        "num": 288167,
+        "word": "艾特经历40次火龙果12次心肺复苏",
+        "onboard_time": 1737383180,
+        "rank": 11,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 946195,
+        "num": 287927,
+        "word": "印度女医生奸杀案宣判",
+        "onboard_time": 1737377178,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 559976,
+        "num": 287830,
+        "word": "潘宏曾说母狗死后会卖狗肉车",
+        "onboard_time": 1737362118,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 496938,
+        "num": 287618,
+        "word": "马锐为Angelababy发声",
+        "onboard_time": 1737383900,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287601,
+        "num": 287601,
+        "word": "中方回应特朗普要TikTok50%所有权",
+        "onboard_time": 1737360798,
+        "rank": 15,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 284966,
+        "num": 284966,
+        "word": "周锐张馨月偶练之前就在一起了",
+        "onboard_time": 1737386361,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 271575,
+        "num": 271575,
+        "word": "训犬师谈网红狗艾特洗澡死亡",
+        "onboard_time": 1737373278,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 221655,
+        "num": 221655,
+        "word": "被打铁花惊艳到眼前一亮又一亮",
+        "onboard_time": 1737379818,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200922,
+        "num": 200922,
+        "word": "一听这些歌就知道快过年了",
+        "onboard_time": 1737375737,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 411293,
+        "num": 199808,
+        "word": "麦琳商业价值超李行亮",
+        "onboard_time": 1737377117,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317761,
+        "num": 198436,
+        "word": "吴尊neinei新综来了",
+        "onboard_time": 1737383180,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196386,
+        "num": 196386,
+        "word": "女子取8万8称拜年发红包惊动民警",
+        "onboard_time": 1737366617,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171882,
+        "num": 183418,
+        "word": "艾特主人称会有后续",
+        "onboard_time": 1737379458,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 119783,
+        "num": 179237,
+        "word": "姜云升直播",
+        "onboard_time": 1737387318,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178170,
+        "num": 178170,
+        "word": "外交部回应X不被允许在中国运营",
+        "onboard_time": 1737366017,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170159,
+        "num": 170159,
+        "word": "上班后对外貌要求降到了0",
+        "onboard_time": 1737385159,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153451,
+        "num": 153451,
+        "word": "白鹿把敖瑞鹏哄成胚胎了",
+        "onboard_time": 1737372858,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150745,
+        "num": 150745,
+        "word": "魏哲鸣手伸不进屏幕的无力感",
+        "onboard_time": 1737383959,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147321,
+        "num": 147321,
+        "word": "张凌赫你还怪有礼貌的",
+        "onboard_time": 1737386298,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142411,
+        "num": 142411,
+        "word": "亚冬会开幕式导演盛赞王一博",
+        "onboard_time": 1737377057,
+        "rank": 30,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 140257,
+        "num": 140257,
+        "word": "今年集福要比往年敬业福容易很多",
+        "onboard_time": 1737384381,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139986,
+        "num": 139986,
+        "word": "漂白 赵今麦演技",
+        "onboard_time": 1737386898,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138522,
+        "num": 138522,
+        "word": "人造太阳创1亿摄氏度1000秒纪录",
+        "onboard_time": 1737376278,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138146,
+        "num": 138146,
+        "word": "陈震赔付领克500万元违约金",
+        "onboard_time": 1737373157,
+        "rank": 34,
+        "category": "汽车,网红"
+      },
+      {
+        "raw_hot": 135224,
+        "num": 135224,
+        "word": "杨紫五大女刊准满贯",
+        "onboard_time": 1737378138,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124622,
+        "num": 124622,
+        "word": "拜登预防性赦免福奇等人",
+        "onboard_time": 1737381199,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124602,
+        "num": 124602,
+        "word": "敖瑞鹏在线追白月梵星",
+        "onboard_time": 1737386718,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120606,
+        "num": 120606,
+        "word": "国补手机4000元档机型最抢手",
+        "onboard_time": 1737382819,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116590,
+        "num": 116590,
+        "word": "易烊千玺王一博蛇年春晚彩排路透",
+        "onboard_time": 1737383120,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58661,
+        "num": 115622,
+        "word": "业内人士期待射雕战争大场面",
+        "onboard_time": 1737385938,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115152,
+        "num": 115152,
+        "word": "异人之下 王也角色",
+        "onboard_time": 1737378799,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107434,
+        "num": 107434,
+        "word": "孟子义给粉丝发面膜",
+        "onboard_time": 1737378438,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107106,
+        "num": 107106,
+        "word": "李小冉你好好演戏唱歌我另有人选",
+        "onboard_time": 1737368538,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106620,
+        "num": 106620,
+        "word": "漂白最炸裂的一集",
+        "onboard_time": 1737372378,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101932,
+        "num": 101932,
+        "word": "相思令空降播出",
+        "onboard_time": 1737360079,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100079,
+        "num": 100079,
+        "word": "虞书欣双轨剧组日常",
+        "onboard_time": 1737387080,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96277,
+        "num": 96277,
+        "word": "相思令里有颜安",
+        "onboard_time": 1737382518,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93824,
+        "num": 93824,
+        "word": "JDG2025赛季首胜",
+        "onboard_time": 1737383721,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88580,
+        "num": 88580,
+        "word": "赵今麦天选末世文女主",
+        "onboard_time": 1737364398,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#这份牵挂春暖中国#"
+    }
+  }
+}

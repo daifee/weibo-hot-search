@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737386624804,
+  "endTime": 1737387445876,
   "band_list": [
     {
       "raw_hot": 2805587,
@@ -27,6 +27,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 2363224,
+      "num": 295518,
+      "word": "周锐官宣恋情",
+      "onboard_time": 1737383781,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 2350642,
       "num": 356870,
       "word": "陈乔恩为网红狗艾特发声",
@@ -41,14 +49,6 @@
       "onboard_time": 1737348859,
       "rank": 10,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 2246011,
-      "num": 295518,
-      "word": "周锐官宣恋情",
-      "onboard_time": 1737383781,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 2104042,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1723954,
+      "num": 332112,
+      "word": "艾特经历40次火龙果12次心肺复苏",
+      "onboard_time": 1737383180,
+      "rank": 16,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 1717034,
       "num": 448486,
       "word": "潘宏曾说母狗死后会卖狗肉车",
@@ -145,14 +153,6 @@
       "onboard_time": 1737366617,
       "rank": 3,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1590642,
-      "num": 332112,
-      "word": "艾特经历40次火龙果12次心肺复苏",
-      "onboard_time": 1737383180,
-      "rank": 16,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 1556030,
@@ -427,6 +427,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 957711,
+      "num": 1153233,
+      "word": "尹锡悦律师碰瓷中国12345便民热线",
+      "onboard_time": 1737385100,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 923121,
       "num": 923121,
       "word": "iG",
@@ -633,14 +641,6 @@
       "onboard_time": 1737256938,
       "rank": 28,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 662730,
-      "num": 662730,
-      "word": "尹锡悦律师碰瓷中国12345便民热线",
-      "onboard_time": 1737385100,
-      "rank": 1,
-      "category": "国际时政"
     },
     {
       "raw_hot": 655982,
@@ -1713,6 +1713,14 @@
       "onboard_time": 1737381500,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 284966,
+      "num": 284966,
+      "word": "周锐张馨月偶练之前就在一起了",
+      "onboard_time": 1737386361,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 283936,
@@ -3707,6 +3715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 147321,
+      "num": 147321,
+      "word": "张凌赫你还怪有礼貌的",
+      "onboard_time": 1737386298,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146739,
       "num": 146739,
       "word": "这部剧婚姻观还是太超前了",
@@ -3769,14 +3785,6 @@
       "onboard_time": 1737275298,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 144737,
-      "num": 144737,
-      "word": "周锐张馨月偶练之前就在一起了",
-      "onboard_time": 1737386361,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 144461,
@@ -3931,6 +3939,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140257,
+      "num": 140257,
+      "word": "今年集福要比往年敬业福容易很多",
+      "onboard_time": 1737384381,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139986,
+      "num": 139986,
+      "word": "漂白 赵今麦演技",
+      "onboard_time": 1737386898,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139147,
       "num": 139147,
       "word": "TikTok在美国使用实时画面曝光",
@@ -3963,20 +3987,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138522,
+      "num": 296225,
+      "word": "人造太阳创1亿摄氏度1000秒纪录",
+      "onboard_time": 1737376278,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138135,
       "num": 138135,
       "word": "以闪亮之名",
       "onboard_time": 1737377237,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 137961,
-      "num": 137961,
-      "word": "今年集福要比往年敬业福容易很多",
-      "onboard_time": 1737384381,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 137956,
@@ -4339,6 +4363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 124602,
+      "num": 124602,
+      "word": "敖瑞鹏在线追白月梵星",
+      "onboard_time": 1737386718,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124303,
       "num": 124303,
       "word": "大馋丫头在这剧第一集就栽了",
@@ -4459,12 +4491,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120606,
+      "num": 120606,
+      "word": "国补手机4000元档机型最抢手",
+      "onboard_time": 1737382819,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120268,
       "num": 96540,
       "word": "王一博闪闪微光",
       "onboard_time": 1737216618,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 119783,
+      "num": 179237,
+      "word": "姜云升直播",
+      "onboard_time": 1737387318,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 119748,
@@ -4609,14 +4657,6 @@
       "onboard_time": 1737216977,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 115058,
-      "num": 115058,
-      "word": "国补手机4000元档机型最抢手",
-      "onboard_time": 1737382819,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114625,
@@ -4817,14 +4857,6 @@
       "onboard_time": 1737225552,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107302,
-      "num": 107302,
-      "word": "张凌赫你还怪有礼貌的",
-      "onboard_time": 1737386298,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 106577,
@@ -5099,14 +5131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100181,
-      "num": 296225,
-      "word": "人造太阳创1亿摄氏度1000秒纪录",
-      "onboard_time": 1737376278,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 100124,
       "num": 100124,
       "word": "TF家族新音合影",
@@ -5120,6 +5144,14 @@
       "word": "杨紫何惟芳惊险求生淬骨重生",
       "onboard_time": 1737339137,
       "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100079,
+      "num": 100079,
+      "word": "虞书欣双轨剧组日常",
+      "onboard_time": 1737387080,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -5699,6 +5731,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 59109,
+      "num": 288358,
+      "word": "长时间坐车如何打发时间",
+      "onboard_time": 1737386898,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58661,
+      "num": 242780,
+      "word": "业内人士期待射雕战争大场面",
+      "onboard_time": 1737385938,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 58444,
       "num": 91357,
       "word": "蔡磊在2024年鼓励静雯坚持抗冻",
@@ -5865,14 +5913,6 @@
       "onboard_time": 1737221534,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 45027,
-      "num": 242780,
-      "word": "业内人士期待射雕战争大场面",
-      "onboard_time": 1737385938,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 43496,
