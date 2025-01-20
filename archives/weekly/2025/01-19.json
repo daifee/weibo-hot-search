@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737357692979,
+  "endTime": 1737358549367,
   "band_list": [
     {
       "raw_hot": 2805587,
@@ -131,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1361929,
+      "num": 1361929,
+      "word": "韩国网友被中国演员的颜值震撼",
+      "onboard_time": 1737353478,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1353805,
       "num": 1353805,
       "word": "湖南卫视春晚官宣阵容",
@@ -153,14 +161,6 @@
       "onboard_time": 1737328153,
       "rank": 9,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1325543,
-      "num": 1325543,
-      "word": "韩国网友被中国演员的颜值震撼",
-      "onboard_time": 1737353478,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 1291973,
@@ -587,6 +587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 558989,
+      "num": 558989,
+      "word": "肖战称已经尽全力出演郭靖",
+      "onboard_time": 1737352337,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 557782,
       "num": 328081,
       "word": "偶遇吴谨言洪尧公园散步",
@@ -633,14 +641,6 @@
       "onboard_time": 1737262458,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 533637,
-      "num": 533637,
-      "word": "肖战称已经尽全力出演郭靖",
-      "onboard_time": 1737352337,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 523130,
@@ -851,6 +851,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 428091,
+      "num": 325511,
+      "word": "艾特因咬人被送潘宏园区成为流量担当",
+      "onboard_time": 1737353718,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 427470,
       "num": 427470,
       "word": "留几手回应离婚财产分配",
@@ -875,6 +883,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 414080,
+      "num": 365750,
+      "word": "虞书欣卷毛小鬼",
+      "onboard_time": 1737356118,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 404464,
       "num": 316738,
       "word": "neinei14岁近照",
@@ -897,6 +913,14 @@
       "onboard_time": 1737347600,
       "rank": 34,
       "category": "网红"
+    },
+    {
+      "raw_hot": 397825,
+      "num": 397825,
+      "word": "劳动者对双休需求强烈",
+      "onboard_time": 1737352517,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 394508,
@@ -985,14 +1009,6 @@
       "onboard_time": 1737263478,
       "rank": 30,
       "category": "互联网,国际时政"
-    },
-    {
-      "raw_hot": 365750,
-      "num": 365750,
-      "word": "虞书欣卷毛小鬼",
-      "onboard_time": 1737356118,
-      "rank": 12,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 365197,
@@ -1145,6 +1161,22 @@
       "onboard_time": 1737283758,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 325517,
+      "num": 325517,
+      "word": "射雕英雄传17%排片获40%票房",
+      "onboard_time": 1737357438,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 325496,
+      "num": 325496,
+      "word": "TikTok发声明感谢特朗普澄清保证",
+      "onboard_time": 1737356478,
+      "rank": 15,
+      "category": "互联网,国际时政"
     },
     {
       "raw_hot": 325455,
@@ -1339,14 +1371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 279929,
-      "num": 279929,
-      "word": "TikTok发声明感谢特朗普澄清保证",
-      "onboard_time": 1737356478,
-      "rank": 15,
-      "category": "互联网,国际时政"
-    },
-    {
       "raw_hot": 279374,
       "num": 279374,
       "word": "医保局牵头调查某些集采药质量风险问题",
@@ -1377,14 +1401,6 @@
       "onboard_time": 1737342678,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 277541,
-      "num": 366462,
-      "word": "劳动者对双休需求强烈",
-      "onboard_time": 1737352517,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 275346,
@@ -1443,14 +1459,6 @@
       "category": "国际时政,财经"
     },
     {
-      "raw_hot": 262198,
-      "num": 262198,
-      "word": "艾特因咬人被送潘宏园区成为流量担当",
-      "onboard_time": 1737353718,
-      "rank": 24,
-      "category": "网红"
-    },
-    {
       "raw_hot": 261625,
       "num": 247577,
       "word": "猎罪图鉴海外宣传以金世佳为主",
@@ -1489,6 +1497,14 @@
       "onboard_time": 1737273618,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 255101,
+      "num": 238622,
+      "word": "3333元手机刚好拿满500元补贴",
+      "onboard_time": 1737354438,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 254055,
@@ -1579,12 +1595,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 237745,
-      "num": 232354,
-      "word": "3333元手机刚好拿满500元补贴",
-      "onboard_time": 1737354438,
-      "rank": 38,
-      "category": "数码"
+      "raw_hot": 238944,
+      "num": 238944,
+      "word": "陈哲远梁洁白色橄榄树动了",
+      "onboard_time": 1737357618,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 232827,
@@ -1651,14 +1667,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 227085,
-      "num": 227085,
-      "word": "陈哲远梁洁白色橄榄树动了",
-      "onboard_time": 1737357618,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 223726,
       "num": 223726,
       "word": "异人之下2十个奇门九个疯",
@@ -1673,6 +1681,14 @@
       "onboard_time": 1737333198,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 218911,
+      "num": 218911,
+      "word": "樊振东拎包还怪时尚的",
+      "onboard_time": 1737357798,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 217758,
@@ -1889,6 +1905,14 @@
       "onboard_time": 1737349098,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201511,
+      "num": 201511,
+      "word": "律师谈网红小狗艾特去世",
+      "onboard_time": 1737357198,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 200547,
@@ -2467,6 +2491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 165780,
+      "num": 165780,
+      "word": "A股三王发飙",
+      "onboard_time": 1737357798,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 165492,
       "num": 165492,
       "word": "我可能亲眼见证了一个非遗的消亡",
@@ -2497,6 +2529,14 @@
       "onboard_time": 1737283999,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163226,
+      "num": 163226,
+      "word": "赵今麦微指破7亿",
+      "onboard_time": 1737357858,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 162385,
@@ -2577,6 +2617,14 @@
       "onboard_time": 1737336438,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159406,
+      "num": 159406,
+      "word": "北京年味",
+      "onboard_time": 1737357858,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159365,
@@ -2833,14 +2881,6 @@
       "onboard_time": 1737215959,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 147645,
-      "num": 147645,
-      "word": "律师谈网红小狗艾特去世",
-      "onboard_time": 1737357198,
-      "rank": 33,
-      "category": "网红"
     },
     {
       "raw_hot": 146739,
@@ -3201,14 +3241,6 @@
       "onboard_time": 1737253938,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129738,
-      "num": 129738,
-      "word": "射雕英雄传17%排片获40%票房",
-      "onboard_time": 1737357438,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 129435,
@@ -3723,6 +3755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 105652,
+      "num": 105652,
+      "word": "干活的时候适合碎玉轩BGM",
+      "onboard_time": 1737358038,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105342,
       "num": 105342,
       "word": "通行时间从2小时缩短到2分钟",
@@ -3747,8 +3787,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103860,
-      "num": 103860,
+      "raw_hot": 104526,
+      "num": 104526,
       "word": "2025新春走基层",
       "onboard_time": 1737355697,
       "rank": 46,
@@ -3817,6 +3857,14 @@
       "onboard_time": 1737264618,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101631,
+      "num": 101631,
+      "word": "一男子去年成功举报1945起交通事故",
+      "onboard_time": 1737358399,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101299,
@@ -3897,6 +3945,14 @@
       "onboard_time": 1737301339,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 97980,
+      "num": 97980,
+      "word": "漂白少女拐卖案惹怒绑匪撕票",
+      "onboard_time": 1737358457,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 97689,
@@ -4460,7 +4516,7 @@
     },
     {
       "raw_hot": 50833,
-      "num": 1107468,
+      "num": 1143060,
       "word": "大寒节气里的诗情画意",
       "onboard_time": 1737343097,
       "rank": 2,
