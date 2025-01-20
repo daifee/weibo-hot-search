@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737361743161,
+  "endTime": 1737362534861,
   "band_list": [
     {
       "raw_hot": 2805587,
@@ -187,11 +187,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1219126,
+      "num": 355955,
+      "word": "中方回应特朗普要TikTok50%所有权",
+      "onboard_time": 1737360798,
+      "rank": 14,
+      "category": "国际时政,互联网"
+    },
+    {
       "raw_hot": 1215468,
       "num": 502086,
       "word": "你摸我腰",
       "onboard_time": 1737255077,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1211953,
+      "num": 1211953,
+      "word": "相思令空降播出",
+      "onboard_time": 1737360079,
+      "rank": 3,
       "category": "剧集"
     },
     {
@@ -331,14 +347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 958683,
-      "num": 755826,
-      "word": "相思令空降播出",
-      "onboard_time": 1737360079,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 923121,
       "num": 923121,
       "word": "iG",
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 823989,
-      "num": 434780,
+      "num": 476430,
       "word": "射雕英雄传17%排片获40%票房",
       "onboard_time": 1737357438,
       "rank": 37,
@@ -739,6 +747,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 489825,
+      "num": 339894,
+      "word": "大奉打更人爆尾剧",
+      "onboard_time": 1737360258,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 481914,
       "num": 481914,
       "word": "射雕领跑的蛇年春节档刷新了影史",
@@ -979,14 +995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 383499,
-      "num": 345069,
-      "word": "中方回应特朗普要TikTok50%所有权",
-      "onboard_time": 1737360798,
-      "rank": 14,
-      "category": "国际时政,互联网"
-    },
-    {
       "raw_hot": 375933,
       "num": 375933,
       "word": "老师在女同事屋内装摄像头否认偷窥",
@@ -1163,14 +1171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 334838,
-      "num": 334838,
-      "word": "大奉打更人爆尾剧",
-      "onboard_time": 1737360258,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 334013,
       "num": 382641,
       "word": "易烊千玺参观中国天眼",
@@ -1193,6 +1193,14 @@
       "onboard_time": 1737243074,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 331117,
+      "num": 365526,
+      "word": "床位不够协和医院找6家医院帮忙",
+      "onboard_time": 1737360079,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 329010,
@@ -1257,6 +1265,14 @@
       "onboard_time": 1737265817,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 319879,
+      "num": 319879,
+      "word": "何惟芳开大",
+      "onboard_time": 1737360018,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 318087,
@@ -1432,14 +1448,6 @@
       "word": "敖瑞鹏此身分明了",
       "onboard_time": 1737342678,
       "rank": 19,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 275773,
-      "num": 275773,
-      "word": "何惟芳开大",
-      "onboard_time": 1737360018,
-      "rank": 21,
       "category": "剧集"
     },
     {
@@ -2283,6 +2291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 186682,
+      "num": 186682,
+      "word": "潘宏曾说母狗死后会卖狗肉车",
+      "onboard_time": 1737362118,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 186564,
       "num": 186564,
       "word": "向佐正式确诊为土拨鼠",
@@ -2508,7 +2524,7 @@
     },
     {
       "raw_hot": 171071,
-      "num": 171071,
+      "num": 360791,
       "word": "坐火车上错车下错站怎么办",
       "onboard_time": 1737359958,
       "rank": 33,
@@ -2561,6 +2577,14 @@
       "onboard_time": 1737274339,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 166794,
+      "num": 166794,
+      "word": "潘宏直播间专业用语",
+      "onboard_time": 1737361398,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 166520,
@@ -2624,6 +2648,14 @@
       "word": "赵今麦微指破7亿",
       "onboard_time": 1737357858,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 162406,
+      "num": 162406,
+      "word": "葛夕留几手前夫变老板",
+      "onboard_time": 1737361159,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -2777,6 +2809,14 @@
       "onboard_time": 1737214579,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 156204,
+      "num": 156204,
+      "word": "马龙朋友圈也玩livephoto",
+      "onboard_time": 1737358820,
+      "rank": 37,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 156079,
@@ -2995,14 +3035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145174,
-      "num": 145174,
-      "word": "马龙朋友圈也玩livephoto",
-      "onboard_time": 1737358820,
-      "rank": 37,
-      "category": "体育,时尚"
-    },
-    {
       "raw_hot": 145172,
       "num": 105087,
       "word": "文轩",
@@ -3139,14 +3171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139190,
-      "num": 365526,
-      "word": "床位不够协和医院找6家医院帮忙",
-      "onboard_time": 1737360079,
-      "rank": 9,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 139147,
       "num": 139147,
       "word": "TikTok在美国使用实时画面曝光",
@@ -3235,6 +3259,14 @@
       "category": "民生新闻,旅游"
     },
     {
+      "raw_hot": 135916,
+      "num": 135916,
+      "word": "肖战单手上马",
+      "onboard_time": 1737362298,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 135832,
       "num": 135832,
       "word": "90后新闻联播主播王音棋主持春晚",
@@ -3296,14 +3328,6 @@
       "word": "陈哲远好险差点要闯祸了",
       "onboard_time": 1737268338,
       "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 132075,
-      "num": 132075,
-      "word": "葛夕留几手前夫变老板",
-      "onboard_time": 1737361159,
-      "rank": 42,
       "category": "艺人"
     },
     {
@@ -3435,6 +3459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 124303,
+      "num": 124303,
+      "word": "大馋丫头在这剧第一集就栽了",
+      "onboard_time": 1737362058,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124082,
       "num": 136029,
       "word": "女医生救人后又直奔ICU看病重姥姥",
@@ -3465,14 +3497,6 @@
       "onboard_time": 1737288559,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 123618,
-      "num": 123618,
-      "word": "潘宏直播间专业用语",
-      "onboard_time": 1737361398,
-      "rank": 48,
-      "category": "网红"
     },
     {
       "raw_hot": 123505,
@@ -3553,6 +3577,14 @@
       "onboard_time": 1737274519,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117848,
+      "num": 233010,
+      "word": "给大家分享一个上画集锦",
+      "onboard_time": 1737361939,
+      "rank": 24,
+      "category": "体育,汽车"
     },
     {
       "raw_hot": 117791,
@@ -3689,6 +3721,14 @@
       "onboard_time": 1737354079,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111716,
+      "num": 111716,
+      "word": "孙颖莎说这一步步走来很不容易",
+      "onboard_time": 1737362058,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 111215,
@@ -4691,6 +4731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47680,
+      "num": 756084,
+      "word": "神十九乘组将择机实施第2次出舱",
+      "onboard_time": 1737361398,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 47441,
       "num": 157265,
       "word": "王鹤棣台词爽文感",
@@ -4875,6 +4923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29229,
+      "num": 136223,
+      "word": "chiikawa乌萨奇角色介绍",
+      "onboard_time": 1737361757,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 28736,
       "num": 51375,
       "word": "原来兵马俑还有微缩版本",
@@ -4969,14 +5025,6 @@
       "onboard_time": 1737241692,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 22359,
-      "num": 756084,
-      "word": "神十九乘组将择机实施第2次出舱",
-      "onboard_time": 1737361398,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 21656,
@@ -5221,6 +5269,9 @@
     },
     {
       "word": "#祝大家的生活像这些糖一样甜甜蜜蜜#"
+    },
+    {
+      "word": "#首善答卷#"
     }
   ]
 }
