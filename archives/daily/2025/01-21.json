@@ -1,6 +1,6 @@
 {
   "startTime": 1737390442496,
-  "endTime": 1737408005450,
+  "endTime": 1737408934489,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -227,6 +227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175722,
+      "num": 58404,
+      "word": "拜登给特朗普留了一封信",
+      "onboard_time": 1737400872,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 175409,
       "num": 175409,
       "word": "韩国网友被中国演员的颜值震撼",
@@ -265,14 +273,6 @@
       "onboard_time": 1737392956,
       "rank": 25,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 158346,
-      "num": 58404,
-      "word": "拜登给特朗普留了一封信",
-      "onboard_time": 1737400872,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 141505,
@@ -667,8 +667,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20983,
-      "num": 20983,
+      "raw_hot": 21560,
+      "num": 21560,
       "word": "央视曝光办讲座卖神药骗局",
       "onboard_time": 1737404891,
       "rank": 46,
@@ -707,8 +707,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15336,
-      "num": 16813,
+      "raw_hot": 17087,
+      "num": 17087,
       "word": "射雕预告诠释中国武侠为何生生不息",
       "onboard_time": 1737404172,
       "rank": 47,
@@ -731,6 +731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 12000,
+      "num": 38976,
+      "word": "古人的暖宝宝早就可以控温了",
+      "onboard_time": 1737408012,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11822,
       "num": 108517,
       "word": "还是熟悉的郭艾伦",
@@ -739,20 +747,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 11606,
+      "num": 58819,
+      "word": "电力工人脸刮伤憨憨一笑说不算事",
+      "onboard_time": 1737407591,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 9193,
       "num": 40397,
       "word": "今年春节档电影你最想看哪一部",
       "onboard_time": 1737401112,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 8808,
-      "num": 58819,
-      "word": "电力工人脸刮伤憨憨一笑说不算事",
-      "onboard_time": 1737407591,
-      "rank": 9,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
