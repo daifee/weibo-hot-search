@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737365860806,
+  "endTime": 1737368657676,
   "band_list": [
     {
       "raw_hot": 2805587,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1717034,
-      "num": 361013,
+      "num": 424180,
       "word": "潘宏曾说母狗死后会卖狗肉车",
       "onboard_time": 1737362118,
       "rank": 27,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 1461035,
-      "num": 355955,
+      "num": 424175,
       "word": "中方回应特朗普要TikTok50%所有权",
       "onboard_time": 1737360798,
       "rank": 14,
@@ -153,6 +153,14 @@
       "onboard_time": 1737340638,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1407785,
+      "num": 1407785,
+      "word": "外交部回应X不被允许在中国运营",
+      "onboard_time": 1737366017,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1361929,
@@ -257,6 +265,14 @@
       "onboard_time": 1737348859,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1131935,
+      "num": 1131935,
+      "word": "马斯克称X不被允许在中国运营需改变",
+      "onboard_time": 1737366617,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1110441,
@@ -491,6 +507,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 705394,
+      "num": 705394,
+      "word": "高铁坐过站先不要出站",
+      "onboard_time": 1737363017,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 701241,
       "num": 701241,
       "word": "日均接诊800人协和急诊说忙爆炸了",
@@ -521,14 +545,6 @@
       "onboard_time": 1737256938,
       "rank": 28,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 660853,
-      "num": 660853,
-      "word": "高铁坐过站先不要出站",
-      "onboard_time": 1737363017,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 655982,
@@ -617,6 +633,14 @@
       "onboard_time": 1737294980,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 587557,
+      "num": 587557,
+      "word": "赵今麦天选末世文女主",
+      "onboard_time": 1737364398,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 585947,
@@ -721,6 +745,14 @@
       "onboard_time": 1737360258,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 527017,
+      "num": 271494,
+      "word": "女子取8万8称拜年发红包惊动民警",
+      "onboard_time": 1737366617,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 523130,
@@ -963,6 +995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 418114,
+      "num": 418114,
+      "word": "白色橄榄树春节档",
+      "onboard_time": 1737363438,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 415915,
       "num": 415915,
       "word": "集五福",
@@ -993,14 +1033,6 @@
       "onboard_time": 1737253276,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 402043,
-      "num": 274319,
-      "word": "白色橄榄树春节档",
-      "onboard_time": 1737363438,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 399704,
@@ -1433,6 +1465,14 @@
       "onboard_time": 1737343398,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 283878,
+      "num": 283878,
+      "word": "妲己新皮肤愿照众生和",
+      "onboard_time": 1737367938,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 283167,
@@ -1891,14 +1931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 212614,
-      "num": 212614,
-      "word": "赵今麦天选末世文女主",
-      "onboard_time": 1737364398,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 212041,
       "num": 301787,
       "word": "山东或将换上山西同款赛博外墙",
@@ -2339,6 +2371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189960,
+      "num": 189960,
+      "word": "敖瑞鹏晒大背头对镜拍",
+      "onboard_time": 1737367878,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189806,
       "num": 189806,
       "word": "国色芳华",
@@ -2547,6 +2587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 175818,
+      "num": 175818,
+      "word": "终于有女主落难靠自救不等着被救",
+      "onboard_time": 1737366858,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175465,
       "num": 175465,
       "word": "iG对战NIP",
@@ -2753,6 +2801,14 @@
       "onboard_time": 1737357858,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163124,
+      "num": 163124,
+      "word": "同行称潘宏训狗方式太粗暴",
+      "onboard_time": 1737368357,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 162385,
@@ -3147,6 +3203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145835,
+      "num": 145835,
+      "word": "宋亚轩要不你给我点",
+      "onboard_time": 1737365658,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 145172,
       "num": 105087,
       "word": "文轩",
@@ -3291,12 +3355,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139442,
+      "num": 248251,
+      "word": "孙颖莎很感谢邱贻可的付出和陪伴",
+      "onboard_time": 1737367639,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139147,
       "num": 139147,
       "word": "TikTok在美国使用实时画面曝光",
       "onboard_time": 1737271457,
       "rank": 37,
       "category": "互联网,游戏"
+    },
+    {
+      "raw_hot": 139140,
+      "num": 139140,
+      "word": "李小冉你好好演戏唱歌我另有人选",
+      "onboard_time": 1737368538,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 139109,
@@ -3411,6 +3491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134901,
+      "num": 134901,
+      "word": "GOT7新歌PYTHON",
+      "onboard_time": 1737366078,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 134601,
       "num": 104311,
       "word": "大奉打更人结局",
@@ -3425,6 +3513,14 @@
       "onboard_time": 1737294321,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 133596,
+      "num": 133596,
+      "word": "博主理财一个月收益不如余额宝",
+      "onboard_time": 1737366017,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133554,
@@ -3515,14 +3611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129494,
-      "num": 129494,
-      "word": "宋亚轩要不你给我点",
-      "onboard_time": 1737365658,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 129435,
       "num": 129435,
       "word": "狗妈妈叼着冻僵小狗找人求救",
@@ -3596,7 +3684,7 @@
     },
     {
       "raw_hot": 125646,
-      "num": 125646,
+      "num": 133923,
       "word": "北京JDG挂牌公告",
       "onboard_time": 1737364879,
       "rank": 46,
@@ -3649,6 +3737,14 @@
       "onboard_time": 1737279258,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123756,
+      "num": 123756,
+      "word": "他的爱意浓烈在她生命消逝时",
+      "onboard_time": 1737368118,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 123722,
@@ -4563,6 +4659,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82479,
+      "num": 424643,
+      "word": "戏腔一响血脉自动觉醒",
+      "onboard_time": 1737365958,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82207,
+      "num": 216388,
+      "word": "李一桐的新年上上签",
+      "onboard_time": 1737365358,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 82069,
       "num": 350630,
       "word": "smart凭实力进入第31个全球市场",
@@ -4803,6 +4915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57704,
+      "num": 299400,
+      "word": "电影小小的我密钥延期",
+      "onboard_time": 1737367459,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 57122,
       "num": 85221,
       "word": "请永远将自己的感觉置顶",
@@ -4905,14 +5025,6 @@
       "onboard_time": 1737243074,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 48823,
-      "num": 216388,
-      "word": "李一桐的新年上上签",
-      "onboard_time": 1737365358,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 48033,
@@ -5036,7 +5148,7 @@
     },
     {
       "raw_hot": 35455,
-      "num": 180035,
+      "num": 1158271,
       "word": "祖国山河一片银装一眼心动",
       "onboard_time": 1737360318,
       "rank": 31,
