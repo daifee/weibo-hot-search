@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737338282870,
+  "endTime": 1737341479796,
   "band_list": [
     {
       "raw_hot": 2766963,
@@ -41,6 +41,14 @@
       "onboard_time": 1737205280,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1643035,
+      "num": 873302,
+      "word": "潘宏回应",
+      "onboard_time": 1737336198,
+      "rank": 19,
+      "category": "网红,体育"
     },
     {
       "raw_hot": 1497293,
@@ -89,6 +97,14 @@
       "onboard_time": 1737255077,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1210214,
+      "num": 1210214,
+      "word": "台测试封杀小红书遭网友嘲讽",
+      "onboard_time": 1737339856,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1195226,
@@ -219,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 909525,
+      "num": 909525,
+      "word": "主人已将艾特遗体带回家",
+      "onboard_time": 1737339677,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 902283,
       "num": 902283,
       "word": "TikTok通知美用户将暂停服务",
@@ -267,19 +291,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 799098,
-      "num": 799098,
-      "word": "潘宏回应",
-      "onboard_time": 1737336198,
-      "rank": 19,
-      "category": "网红,体育"
-    },
-    {
       "raw_hot": 758879,
       "num": 920817,
       "word": "央视曝断骨增高灰色产业链",
       "onboard_time": 1737222734,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 754567,
+      "num": 754567,
+      "word": "小伙把梳子做成柿子形状卖了5万把",
+      "onboard_time": 1737339197,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -361,6 +385,14 @@
       "onboard_time": 1737262458,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 623606,
+      "num": 495876,
+      "word": "艾特的主人发声",
+      "onboard_time": 1737339976,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 618718,
@@ -467,6 +499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 534808,
+      "num": 534808,
+      "word": "耙耙柑远不只是善良这么简单",
+      "onboard_time": 1737339078,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 533969,
       "num": 533969,
       "word": "大熊猫古古去世",
@@ -539,6 +579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 485747,
+      "num": 485747,
+      "word": "郭靖台词道出金庸武侠中的家国天下",
+      "onboard_time": 1737339617,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 481438,
       "num": 193597,
       "word": "孟子义95花集均剧播第一",
@@ -579,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 459834,
+      "num": 459834,
+      "word": "李现回应英文名Jungle",
+      "onboard_time": 1737338477,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 456855,
       "num": 456855,
       "word": "多款手机价格集体降至6000元以内",
@@ -617,6 +673,14 @@
       "onboard_time": 1737328995,
       "rank": 6,
       "category": "国际时政,互联网"
+    },
+    {
+      "raw_hot": 441043,
+      "num": 441043,
+      "word": "白鹿说以后不太想接偶像剧",
+      "onboard_time": 1737340638,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 439724,
@@ -755,8 +819,8 @@
       "category": "互联网,国际时政"
     },
     {
-      "raw_hot": 358624,
-      "num": 358624,
+      "raw_hot": 361368,
+      "num": 361368,
       "word": "特朗普称将撤销拜登所有行政命令",
       "onboard_time": 1737334997,
       "rank": 13,
@@ -1147,6 +1211,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 253687,
+      "num": 253687,
+      "word": "今天起买手机最高补贴500",
+      "onboard_time": 1737339017,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 252535,
       "num": 218556,
       "word": "昆凌与周杰伦10周年合体跳舞秀恩爱",
@@ -1219,6 +1291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 237260,
+      "num": 237260,
+      "word": "特朗普妻子发行虚拟币MELANIA",
+      "onboard_time": 1737338957,
+      "rank": 18,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 232827,
       "num": 160938,
       "word": "TikTok公司表示白宫无保证平台只能关",
@@ -1249,6 +1329,14 @@
       "onboard_time": 1737275479,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230716,
+      "num": 230716,
+      "word": "射雕英雄传预售票房破1亿",
+      "onboard_time": 1737340518,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 229488,
@@ -1289,6 +1377,14 @@
       "onboard_time": 1737267079,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217517,
+      "num": 217517,
+      "word": "于适0帧起手射箭",
+      "onboard_time": 1737341177,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 217354,
@@ -1537,6 +1633,14 @@
       "onboard_time": 1737328995,
       "rank": 9,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 193836,
+      "num": 193836,
+      "word": "第一批回家的人已经被返乡高铁治愈了",
+      "onboard_time": 1737338957,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193682,
@@ -1923,6 +2027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160380,
+      "num": 160380,
+      "word": "相思令",
+      "onboard_time": 1737338296,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159729,
       "num": 184934,
       "word": "和给你能量的人在一起",
@@ -1937,6 +2049,14 @@
       "onboard_time": 1737261018,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 159437,
+      "num": 159437,
+      "word": "SM新男团将参与家族演唱会舞台",
+      "onboard_time": 1737336438,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 159166,
@@ -2379,6 +2499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133730,
+      "num": 128881,
+      "word": "肖战说侠之大者心系苍生",
+      "onboard_time": 1737341416,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 133704,
       "num": 133704,
       "word": "严浩翔边饭撒边检查扣子",
@@ -2395,6 +2523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 133367,
+      "num": 230845,
+      "word": "白娘子竟然是俺河南老乡",
+      "onboard_time": 1737339257,
+      "rank": 19,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 132672,
       "num": 132672,
       "word": "陈哲远好险差点要闯祸了",
@@ -2403,12 +2539,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131913,
+      "num": 131913,
+      "word": "四川红原县4.9级地震",
+      "onboard_time": 1737339017,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131126,
       "num": 191692,
       "word": "葛夕捐出了直播打赏",
       "onboard_time": 1737273918,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130997,
+      "num": 130997,
+      "word": "2025春节档史上最快预售破亿",
+      "onboard_time": 1737339437,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 130736,
@@ -2449,6 +2601,14 @@
       "onboard_time": 1737202098,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128984,
+      "num": 502049,
+      "word": "用中式美学打开大寒节气",
+      "onboard_time": 1737339017,
+      "rank": 9,
+      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 128325,
@@ -2521,14 +2681,6 @@
       "onboard_time": 1737337937,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 122742,
-      "num": 142467,
-      "word": "SM新男团将参与家族演唱会舞台",
-      "onboard_time": 1737336438,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 121494,
@@ -2779,6 +2931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106010,
+      "num": 318447,
+      "word": "14天后立春",
+      "onboard_time": 1737337636,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105959,
       "num": 499154,
       "word": "2025春节网络环境整治行动启动",
@@ -3027,6 +3187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94762,
+      "num": 94762,
+      "word": "德约科维奇硬刚无礼媒体",
+      "onboard_time": 1737341237,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94327,
       "num": 94327,
       "word": "田曦薇不语只一味的甜",
@@ -3056,14 +3224,6 @@
       "word": "8米长鲸鱼尸体搁浅海南一沙滩",
       "onboard_time": 1737309732,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93731,
-      "num": 318447,
-      "word": "14天后立春",
-      "onboard_time": 1737337636,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -3097,6 +3257,14 @@
       "onboard_time": 1737337396,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91355,
+      "num": 91355,
+      "word": "杨紫何惟芳惊险求生淬骨重生",
+      "onboard_time": 1737339137,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 90428,
@@ -3800,6 +3968,14 @@
       "word": "要减少日常考试测试频次",
       "onboard_time": 1737318851,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18088,
+      "num": 956303,
+      "word": "冰雪延庆过大年",
+      "onboard_time": 1737340277,
+      "rank": 2,
       "category": "民生新闻"
     },
     {

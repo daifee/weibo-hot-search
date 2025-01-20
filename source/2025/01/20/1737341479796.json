@@ -1,0 +1,410 @@
+{
+  "runTime": 1737341479796,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1227004,
+        "num": 1227004,
+        "word": "国补",
+        "onboard_time": 1737332357,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1210214,
+        "num": 1210214,
+        "word": "台测试封杀小红书遭网友嘲讽",
+        "onboard_time": 1737339856,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18088,
+        "num": 956303,
+        "word": "冰雪延庆过大年",
+        "onboard_time": 1737340277,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 909525,
+        "num": 909525,
+        "word": "主人已将艾特遗体带回家",
+        "onboard_time": 1737339677,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1643035,
+        "num": 873302,
+        "word": "潘宏回应",
+        "onboard_time": 1737336198,
+        "rank": 4,
+        "category": "网红,体育"
+      },
+      {
+        "raw_hot": 793524,
+        "num": 793524,
+        "word": "TikTok正恢复美用户服务",
+        "onboard_time": 1737328153,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 754567,
+        "num": 754567,
+        "word": "小伙把梳子做成柿子形状卖了5万把",
+        "onboard_time": 1737339197,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 716700,
+        "num": 716700,
+        "word": "葛夕离婚后给留几手打工",
+        "onboard_time": 1737332779,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 534808,
+        "num": 534808,
+        "word": "耙耙柑远不只是善良这么简单",
+        "onboard_time": 1737339078,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128984,
+        "num": 502049,
+        "word": "用中式美学打开大寒节气",
+        "onboard_time": 1737339017,
+        "rank": 9,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 623606,
+        "num": 495876,
+        "word": "艾特的主人发声",
+        "onboard_time": 1737339976,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 485747,
+        "num": 485747,
+        "word": "郭靖台词道出金庸武侠中的家国天下",
+        "onboard_time": 1737339617,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 459834,
+        "num": 459834,
+        "word": "李现回应英文名Jungle",
+        "onboard_time": 1737338477,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 441043,
+        "num": 441043,
+        "word": "白鹿说以后不太想接偶像剧",
+        "onboard_time": 1737340638,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 423350,
+        "num": 423350,
+        "word": "26岁渐冻症女生已不符合临床入组条件",
+        "onboard_time": 1737333198,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361368,
+        "num": 361368,
+        "word": "特朗普称将撤销拜登所有行政命令",
+        "onboard_time": 1737334997,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 280062,
+        "num": 280062,
+        "word": "TikTok发布最新声明",
+        "onboard_time": 1737328995,
+        "rank": 16,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 253687,
+        "num": 253687,
+        "word": "今天起买手机最高补贴500",
+        "onboard_time": 1737339017,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 237260,
+        "num": 237260,
+        "word": "特朗普妻子发行虚拟币MELANIA",
+        "onboard_time": 1737338957,
+        "rank": 18,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 133367,
+        "num": 230845,
+        "word": "白娘子竟然是俺河南老乡",
+        "onboard_time": 1737339257,
+        "rank": 19,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 341865,
+        "num": 230797,
+        "word": "偶遇吴谨言洪尧公园散步",
+        "onboard_time": 1737333257,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299371,
+        "num": 230785,
+        "word": "neinei14岁近照",
+        "onboard_time": 1737333257,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230716,
+        "num": 230716,
+        "word": "射雕英雄传预售票房破1亿",
+        "onboard_time": 1737340518,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 217517,
+        "num": 217517,
+        "word": "于适0帧起手射箭",
+        "onboard_time": 1737341177,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203357,
+        "num": 203357,
+        "word": "中国鸡蛋羹被全世界种草",
+        "onboard_time": 1737328995,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 193836,
+        "num": 193836,
+        "word": "第一批回家的人已经被返乡高铁治愈了",
+        "onboard_time": 1737338957,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190318,
+        "num": 190318,
+        "word": "集五福",
+        "onboard_time": 1737332357,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 174461,
+        "num": 174461,
+        "word": "两只狗跟了葛夕",
+        "onboard_time": 1737334218,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162540,
+        "num": 162540,
+        "word": "专家称睡眠时长影响热量摄入",
+        "onboard_time": 1737294921,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 160380,
+        "num": 160380,
+        "word": "相思令",
+        "onboard_time": 1737338296,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159437,
+        "num": 159437,
+        "word": "SM新男团将参与家族演唱会舞台",
+        "onboard_time": 1737336438,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151705,
+        "num": 151705,
+        "word": "肖战坦言对春节档竞争不紧张",
+        "onboard_time": 1737300018,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136270,
+        "num": 136270,
+        "word": "江苏90后姑娘成央视蛇年春晚主持人",
+        "onboard_time": 1737334877,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133902,
+        "num": 133902,
+        "word": "让教师成为最受社会尊重的职业之一",
+        "onboard_time": 1737302778,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131913,
+        "num": 131913,
+        "word": "四川红原县4.9级地震",
+        "onboard_time": 1737339017,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130997,
+        "num": 130997,
+        "word": "2025春节档史上最快预售破亿",
+        "onboard_time": 1737339437,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133730,
+        "num": 128881,
+        "word": "肖战说侠之大者心系苍生",
+        "onboard_time": 1737341416,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124837,
+        "num": 124837,
+        "word": "央视曝光美甲灯安全隐患",
+        "onboard_time": 1737286337,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121610,
+        "num": 121610,
+        "word": "47岁女子升级做奶奶晒抱孙子合影",
+        "onboard_time": 1737328094,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119632,
+        "num": 119632,
+        "word": "Doinb解释TheShy选卡尔玛原因",
+        "onboard_time": 1737333198,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113328,
+        "num": 113328,
+        "word": "TikTok称将寻找在美可用的长期方案",
+        "onboard_time": 1737333198,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 108370,
+        "num": 108370,
+        "word": "距第一个非遗春节不足10天",
+        "onboard_time": 1737334939,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106010,
+        "num": 106010,
+        "word": "14天后立春",
+        "onboard_time": 1737337636,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100117,
+        "num": 100117,
+        "word": "时代少年团不谢幕的演出",
+        "onboard_time": 1737333617,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 95767,
+        "num": 95767,
+        "word": "00后掌勺后重新定义过年硬菜",
+        "onboard_time": 1737334398,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 95475,
+        "num": 95475,
+        "word": "小寒大寒又过一年",
+        "onboard_time": 1737337396,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94762,
+        "num": 94762,
+        "word": "德约科维奇硬刚无礼媒体",
+        "onboard_time": 1737341237,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93735,
+        "num": 93735,
+        "word": "马龙李现金秀贤合影",
+        "onboard_time": 1737333378,
+        "rank": 47,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 92820,
+        "num": 92820,
+        "word": "男孩被妈妈骂爬二楼隔层躲两天",
+        "onboard_time": 1737337278,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91355,
+        "num": 91355,
+        "word": "杨紫何惟芳惊险求生淬骨重生",
+        "onboard_time": 1737339137,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全军老同志祝贺新春#"
+    }
+  }
+}
