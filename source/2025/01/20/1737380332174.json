@@ -1,0 +1,410 @@
+{
+  "runTime": 1737380332174,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 905445,
+        "num": 1144871,
+        "word": "麦琳商业价值超李行亮",
+        "onboard_time": 1737377117,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 861237,
+        "num": 861237,
+        "word": "大学生开房洗衣服被吐槽薅羊毛",
+        "onboard_time": 1737363078,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23409,
+        "num": 561888,
+        "word": "祖国山河一片银装一眼心动",
+        "onboard_time": 1737360318,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 412561,
+        "num": 412561,
+        "word": "韩国网友被中国演员的颜值震撼",
+        "onboard_time": 1737353478,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390597,
+        "num": 390597,
+        "word": "外交部回应X不被允许在中国运营",
+        "onboard_time": 1737366017,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 771397,
+        "num": 383377,
+        "word": "樊振东小少爷的既视感",
+        "onboard_time": 1737375798,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 369802,
+        "num": 369802,
+        "word": "陈震赔付领克500万元违约金",
+        "onboard_time": 1737373157,
+        "rank": 6,
+        "category": "汽车,网红"
+      },
+      {
+        "raw_hot": 353697,
+        "num": 353697,
+        "word": "杨紫五大女刊准满贯",
+        "onboard_time": 1737378138,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 345896,
+        "num": 345896,
+        "word": "漂白最炸裂的一集",
+        "onboard_time": 1737372378,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181643,
+        "num": 345855,
+        "word": "被打铁花惊艳到眼前一亮又一亮",
+        "onboard_time": 1737379818,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1875437,
+        "num": 343382,
+        "word": "印度女医生奸杀案宣判",
+        "onboard_time": 1737377178,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 809711,
+        "num": 341998,
+        "word": "潘宏曾说母狗死后会卖狗肉车",
+        "onboard_time": 1737362118,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 653741,
+        "num": 339929,
+        "word": "张雪峰称给公司350人发2000万年终奖",
+        "onboard_time": 1737379818,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 636121,
+        "num": 337906,
+        "word": "训犬师谈网红狗艾特洗澡死亡",
+        "onboard_time": 1737373278,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 508884,
+        "num": 337262,
+        "word": "三名男童踢踹残障男孩遭路人呵斥",
+        "onboard_time": 1737376398,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 390540,
+        "num": 334965,
+        "word": "中方回应特朗普要TikTok50%所有权",
+        "onboard_time": 1737360798,
+        "rank": 15,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 333828,
+        "num": 333828,
+        "word": "Angelababy相思令出场镜头",
+        "onboard_time": 1737380179,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311360,
+        "num": 311360,
+        "word": "哈利波特有望2027年落沪",
+        "onboard_time": 1737372077,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295714,
+        "num": 295714,
+        "word": "樊振东阿玛尼合影C位",
+        "onboard_time": 1737379818,
+        "rank": 18,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 294714,
+        "num": 294714,
+        "word": "漂白",
+        "onboard_time": 1737360798,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 548776,
+        "num": 294046,
+        "word": "相思令空降播出",
+        "onboard_time": 1737360079,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273986,
+        "num": 273986,
+        "word": "女子取8万8称拜年发红包惊动民警",
+        "onboard_time": 1737366617,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358230,
+        "num": 273888,
+        "word": "相思令Angelababy原声台词",
+        "onboard_time": 1737379519,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273590,
+        "num": 273590,
+        "word": "白鹿把敖瑞鹏哄成胚胎了",
+        "onboard_time": 1737372858,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75235,
+        "num": 264034,
+        "word": "狼队挂牌公告",
+        "onboard_time": 1737379939,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 263913,
+        "num": 263913,
+        "word": "一听这些歌就知道快过年了",
+        "onboard_time": 1737375737,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241388,
+        "num": 241388,
+        "word": "亚冬会开幕式导演盛赞王一博",
+        "onboard_time": 1737377057,
+        "rank": 26,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 239344,
+        "num": 239344,
+        "word": "刘浩存首支全球广告",
+        "onboard_time": 1737378919,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 212155,
+        "num": 212155,
+        "word": "李小冉你好好演戏唱歌我另有人选",
+        "onboard_time": 1737368538,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205175,
+        "num": 205175,
+        "word": "孟子义给粉丝发面膜",
+        "onboard_time": 1737378438,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201179,
+        "num": 201179,
+        "word": "异人之下 王也角色",
+        "onboard_time": 1737378799,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156615,
+        "num": 156615,
+        "word": "樊振东与Armani老爷子亲切互动",
+        "onboard_time": 1737379818,
+        "rank": 31,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 152944,
+        "num": 152944,
+        "word": "肖战拒绝蒙语后期配音",
+        "onboard_time": 1737374778,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152670,
+        "num": 152670,
+        "word": "陈朵作为毒物培养皿活了16年",
+        "onboard_time": 1737375558,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151059,
+        "num": 151059,
+        "word": "TikTok发声明感谢特朗普澄清保证",
+        "onboard_time": 1737356478,
+        "rank": 34,
+        "category": "互联网,国际时政"
+      },
+      {
+        "raw_hot": 147180,
+        "num": 147180,
+        "word": "射雕英雄传17%排片获40%票房",
+        "onboard_time": 1737357438,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135927,
+        "num": 135927,
+        "word": "大奉打更人爆尾剧",
+        "onboard_time": 1737360258,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130760,
+        "num": 130760,
+        "word": "四川内江市3.2级地震",
+        "onboard_time": 1737373639,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124644,
+        "num": 124644,
+        "word": "无限暖暖",
+        "onboard_time": 1737372558,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118500,
+        "num": 118500,
+        "word": "孙颖莎的福字可爱",
+        "onboard_time": 1737376217,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116242,
+        "num": 116242,
+        "word": "赵今麦天选末世文女主",
+        "onboard_time": 1737364398,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115548,
+        "num": 115548,
+        "word": "张雅钦做女主做女二都精彩",
+        "onboard_time": 1737372618,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 83712,
+        "num": 109279,
+        "word": "艾特主人称会有后续",
+        "onboard_time": 1737379458,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 109176,
+        "num": 109176,
+        "word": "3月起公立医疗机构取消门诊预交金",
+        "onboard_time": 1737374658,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101819,
+        "num": 101819,
+        "word": "虞书欣新专辑海外影响力",
+        "onboard_time": 1737376398,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 100426,
+        "num": 100426,
+        "word": "王心凌南京站25秒极速换装",
+        "onboard_time": 1737378379,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100181,
+        "num": 100181,
+        "word": "人造太阳创1亿摄氏度1000秒纪录",
+        "onboard_time": 1737376278,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97983,
+        "num": 97983,
+        "word": "JDG战胜UP",
+        "onboard_time": 1737380298,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 97422,
+        "num": 97422,
+        "word": "罗云熙你在用这个爱豆的妆造干什么",
+        "onboard_time": 1737369137,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 96510,
+        "num": 96510,
+        "word": "高铁遛娃舱来了",
+        "onboard_time": 1737369438,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#首善答卷#"
+    }
+  }
+}

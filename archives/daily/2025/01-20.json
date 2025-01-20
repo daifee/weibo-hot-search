@@ -1,6 +1,6 @@
 {
   "startTime": 1737303863836,
-  "endTime": 1737379654029,
+  "endTime": 1737380332174,
   "band_list": [
     {
       "raw_hot": 2805587,
@@ -41,6 +41,14 @@
       "onboard_time": 1737339677,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1875437,
+      "num": 343382,
+      "word": "印度女医生奸杀案宣判",
+      "onboard_time": 1737377178,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1871030,
@@ -89,14 +97,6 @@
       "onboard_time": 1737336198,
       "rank": 19,
       "category": "网红,体育"
-    },
-    {
-      "raw_hot": 1639479,
-      "num": 302895,
-      "word": "印度女医生奸杀案宣判",
-      "onboard_time": 1737377178,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1606249,
@@ -227,20 +227,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 905445,
+      "num": 1144871,
+      "word": "麦琳商业价值超李行亮",
+      "onboard_time": 1737377117,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 886623,
       "num": 376146,
       "word": "训犬师谈网红狗艾特洗澡死亡",
       "onboard_time": 1737373278,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 864684,
-      "num": 864684,
-      "word": "麦琳商业价值超李行亮",
-      "onboard_time": 1737377117,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 824187,
@@ -275,6 +275,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 771397,
+      "num": 717847,
+      "word": "樊振东小少爷的既视感",
+      "onboard_time": 1737375798,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 754567,
       "num": 754567,
       "word": "小伙把梳子做成柿子形状卖了5万把",
@@ -297,14 +305,6 @@
       "onboard_time": 1737373157,
       "rank": 1,
       "category": "汽车,网红"
-    },
-    {
-      "raw_hot": 717847,
-      "num": 717847,
-      "word": "樊振东小少爷的既视感",
-      "onboard_time": 1737375798,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 705394,
@@ -345,6 +345,14 @@
       "onboard_time": 1737286337,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 653741,
+      "num": 339929,
+      "word": "张雪峰称给公司350人发2000万年终奖",
+      "onboard_time": 1737379818,
+      "rank": 12,
+      "category": "财经"
     },
     {
       "raw_hot": 616812,
@@ -428,7 +436,7 @@
     },
     {
       "raw_hot": 541255,
-      "num": 302618,
+      "num": 337262,
       "word": "三名男童踢踹残障男孩遭路人呵斥",
       "onboard_time": 1737376398,
       "rank": 26,
@@ -675,6 +683,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 358230,
+      "num": 273888,
+      "word": "相思令Angelababy原声台词",
+      "onboard_time": 1737379519,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 353697,
+      "num": 353697,
+      "word": "杨紫五大女刊准满贯",
+      "onboard_time": 1737378138,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 344235,
       "num": 332623,
       "word": "妈妈被强行辞退女儿维权讨说法",
@@ -697,6 +721,14 @@
       "onboard_time": 1737298759,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 333828,
+      "num": 333828,
+      "word": "Angelababy相思令出场镜头",
+      "onboard_time": 1737380179,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 331117,
@@ -753,6 +785,14 @@
       "onboard_time": 1737375737,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 295714,
+      "num": 295714,
+      "word": "樊振东阿玛尼合影C位",
+      "onboard_time": 1737379818,
+      "rank": 18,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 290731,
@@ -931,6 +971,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241388,
+      "num": 241388,
+      "word": "亚冬会开幕式导演盛赞王一博",
+      "onboard_time": 1737377057,
+      "rank": 39,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 239344,
+      "num": 239344,
+      "word": "刘浩存首支全球广告",
+      "onboard_time": 1737378919,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 238944,
       "num": 238944,
       "word": "陈哲远梁洁白色橄榄树动了",
@@ -963,28 +1019,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 226978,
-      "num": 226978,
-      "word": "杨紫五大女刊准满贯",
-      "onboard_time": 1737378138,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 226945,
       "num": 226945,
       "word": "庞颖念诗给詹青云念红温了",
       "onboard_time": 1737297500,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 225165,
-      "num": 225165,
-      "word": "刘浩存首支全球广告",
-      "onboard_time": 1737378919,
-      "rank": 22,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 223651,
@@ -1083,6 +1123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205175,
+      "num": 205175,
+      "word": "孟子义给粉丝发面膜",
+      "onboard_time": 1737378438,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205118,
       "num": 205118,
       "word": "射雕英雄传",
@@ -1115,14 +1163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 202861,
-      "num": 202861,
-      "word": "相思令Angelababy原声台词",
-      "onboard_time": 1737379519,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 201637,
       "num": 230104,
       "word": "肖战坦言对春节档竞争不紧张",
@@ -1145,6 +1185,14 @@
       "onboard_time": 1737357198,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 201179,
+      "num": 201179,
+      "word": "异人之下 王也角色",
+      "onboard_time": 1737378799,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 200547,
@@ -1419,14 +1467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 184012,
-      "num": 184012,
-      "word": "异人之下 王也角色",
-      "onboard_time": 1737378799,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 181777,
       "num": 181777,
       "word": "肖战单手上马",
@@ -1435,20 +1475,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 181643,
+      "num": 345855,
+      "word": "被打铁花惊艳到眼前一亮又一亮",
+      "onboard_time": 1737379818,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181129,
       "num": 181129,
       "word": "骗子转走300万给受害人转1万做生活费",
       "onboard_time": 1737288799,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 179912,
-      "num": 179912,
-      "word": "孟子义给粉丝发面膜",
-      "onboard_time": 1737378438,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 175818,
@@ -1465,14 +1505,6 @@
       "onboard_time": 1737330256,
       "rank": 22,
       "category": "网红"
-    },
-    {
-      "raw_hot": 174301,
-      "num": 213925,
-      "word": "亚冬会开幕式导演盛赞王一博",
-      "onboard_time": 1737377057,
-      "rank": 39,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 173493,
@@ -1729,6 +1761,14 @@
       "onboard_time": 1737337396,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156615,
+      "num": 156615,
+      "word": "樊振东与Armani老爷子亲切互动",
+      "onboard_time": 1737379818,
+      "rank": 31,
+      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 156422,
@@ -2515,6 +2555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100181,
+      "num": 100181,
+      "word": "人造太阳创1亿摄氏度1000秒纪录",
+      "onboard_time": 1737376278,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100103,
       "num": 100103,
       "word": "杨紫何惟芳惊险求生淬骨重生",
@@ -2539,6 +2587,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 97983,
+      "num": 97983,
+      "word": "JDG战胜UP",
+      "onboard_time": 1737380298,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 97980,
       "num": 97980,
       "word": "漂白少女拐卖案惹怒绑匪撕票",
@@ -2553,14 +2609,6 @@
       "onboard_time": 1737299478,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 96565,
-      "num": 96565,
-      "word": "人造太阳创1亿摄氏度1000秒纪录",
-      "onboard_time": 1737376278,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96145,
@@ -2691,6 +2739,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 83712,
+      "num": 236115,
+      "word": "艾特主人称会有后续",
+      "onboard_time": 1737379458,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
       "raw_hot": 83149,
       "num": 234418,
       "word": "拼多多年货必买清单",
@@ -2771,6 +2827,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 75235,
+      "num": 264034,
+      "word": "狼队挂牌公告",
+      "onboard_time": 1737379939,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 75127,
       "num": 75127,
       "word": "老外开始给中国一点cos震撼了",
@@ -2801,14 +2865,6 @@
       "onboard_time": 1737355397,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 59055,
-      "num": 236115,
-      "word": "艾特主人称会有后续",
-      "onboard_time": 1737379458,
-      "rank": 18,
-      "category": "网红"
     },
     {
       "raw_hot": 57919,
