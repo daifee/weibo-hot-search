@@ -1,6 +1,6 @@
 {
   "startTime": 1737390442496,
-  "endTime": 1737405343103,
+  "endTime": 1737408005450,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -267,6 +267,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 158346,
+      "num": 58404,
+      "word": "拜登给特朗普留了一封信",
+      "onboard_time": 1737400872,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 141505,
       "num": 141505,
       "word": "一文梳理潘宏爱玩狗关键信息",
@@ -395,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89745,
+      "num": 59283,
+      "word": "电视剧漂白被指抄袭",
+      "onboard_time": 1737401951,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87426,
       "num": 278091,
       "word": "代表建议建议四川试行2.5天休假",
@@ -449,14 +465,6 @@
       "onboard_time": 1737389657,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 79757,
-      "num": 59283,
-      "word": "电视剧漂白被指抄袭",
-      "onboard_time": 1737401951,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 79628,
@@ -611,14 +619,6 @@
       "category": "体育,时尚"
     },
     {
-      "raw_hot": 29256,
-      "num": 29256,
-      "word": "拜登给特朗普留了一封信",
-      "onboard_time": 1737400872,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 26413,
       "num": 142032,
       "word": "姚润昊握紧拳头搞优化",
@@ -667,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20983,
+      "num": 20983,
+      "word": "央视曝光办讲座卖神药骗局",
+      "onboard_time": 1737404891,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20578,
       "num": 33942,
       "word": "集采药降价别以牺牲药效为代价",
@@ -691,7 +699,15 @@
       "category": "体育"
     },
     {
-      "raw_hot": 14703,
+      "raw_hot": 17968,
+      "num": 61922,
+      "word": "冒充中科院骗89岁老人买药",
+      "onboard_time": 1737403991,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15336,
       "num": 16813,
       "word": "射雕预告诠释中国武侠为何生生不息",
       "onboard_time": 1737404172,
@@ -699,12 +715,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 13914,
-      "num": 61922,
-      "word": "冒充中科院骗89岁老人买药",
-      "onboard_time": 1737403991,
-      "rank": 9,
+      "raw_hot": 15074,
+      "num": 15827,
+      "word": "号称逆转时间治百病忽悠老人买糖豆",
+      "onboard_time": 1737404711,
+      "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14764,
+      "num": 14764,
+      "word": "普京说愿与美国谈乌克兰局势",
+      "onboard_time": 1737405252,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 11822,
@@ -715,20 +739,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 10639,
-      "num": 16815,
-      "word": "央视曝光办讲座卖神药骗局",
-      "onboard_time": 1737404891,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 9193,
       "num": 40397,
       "word": "今年春节档电影你最想看哪一部",
       "onboard_time": 1737401112,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 8808,
+      "num": 58819,
+      "word": "电力工人脸刮伤憨憨一笑说不算事",
+      "onboard_time": 1737407591,
+      "rank": 9,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

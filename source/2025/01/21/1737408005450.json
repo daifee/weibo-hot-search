@@ -1,0 +1,410 @@
+{
+  "runTime": 1737408005450,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 201436,
+        "num": 201436,
+        "word": "台湾地震",
+        "onboard_time": 1737391036,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 191153,
+        "num": 191153,
+        "word": "特朗普正式宣誓就职",
+        "onboard_time": 1737393254,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16279,
+        "num": 91526,
+        "word": "中国的人造太阳有重大突破",
+        "onboard_time": 1737371538,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 81891,
+        "num": 81891,
+        "word": "周锐官宣恋情",
+        "onboard_time": 1737383781,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 71530,
+        "num": 71530,
+        "word": "台湾台南6.2级地震",
+        "onboard_time": 1737390918,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 66162,
+        "num": 66162,
+        "word": "尹锡悦律师碰瓷中国12345便民热线",
+        "onboard_time": 1737385100,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 60803,
+        "num": 60803,
+        "word": "广东震感",
+        "onboard_time": 1737392535,
+        "rank": 6,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 59969,
+        "num": 59969,
+        "word": "福建震感",
+        "onboard_time": 1737391397,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 52063,
+        "num": 59430,
+        "word": "国色芳华本周日收官",
+        "onboard_time": 1737391397,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8808,
+        "num": 58819,
+        "word": "电力工人脸刮伤憨憨一笑说不算事",
+        "onboard_time": 1737407591,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158346,
+        "num": 58404,
+        "word": "拜登给特朗普留了一封信",
+        "onboard_time": 1737400872,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101855,
+        "num": 57557,
+        "word": "特朗普就职典礼",
+        "onboard_time": 1737392777,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98704,
+        "num": 57150,
+        "word": "特朗普就任第47任美国总统",
+        "onboard_time": 1737394033,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89745,
+        "num": 56256,
+        "word": "电视剧漂白被指抄袭",
+        "onboard_time": 1737401951,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64802,
+        "num": 55611,
+        "word": "印度女医生奸杀案宣判",
+        "onboard_time": 1737377178,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 55543,
+        "num": 55543,
+        "word": "2岁女童超30种食物过敏体重仅13斤",
+        "onboard_time": 1737395532,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48414,
+        "num": 48414,
+        "word": "大学生开房洗衣服被吐槽薅羊毛",
+        "onboard_time": 1737363078,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43582,
+        "num": 48278,
+        "word": "吴尊杀回亲子节目",
+        "onboard_time": 1737389657,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32139,
+        "num": 48251,
+        "word": "留几手说不想骗葛夕了",
+        "onboard_time": 1737384081,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29235,
+        "num": 48036,
+        "word": "赵今麦受刑戏看出幻肢痛",
+        "onboard_time": 1737387737,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126704,
+        "num": 47838,
+        "word": "艾特经历40次火龙果12次心肺复苏",
+        "onboard_time": 1737383180,
+        "rank": 20,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 47826,
+        "num": 47826,
+        "word": "杭州震感",
+        "onboard_time": 1737392417,
+        "rank": 21,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 32886,
+        "num": 32886,
+        "word": "俄方调侃泽连斯基未出席特朗普就职典礼",
+        "onboard_time": 1737390259,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30020,
+        "num": 30020,
+        "word": "台湾台南市连发地震",
+        "onboard_time": 1737393794,
+        "rank": 23,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 29149,
+        "num": 29149,
+        "word": "福建浙江上海震感",
+        "onboard_time": 1737392956,
+        "rank": 24,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 28207,
+        "num": 28207,
+        "word": "中方回应特朗普要TikTok50%所有权",
+        "onboard_time": 1737360798,
+        "rank": 25,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 27337,
+        "num": 27337,
+        "word": "训犬师谈网红狗艾特洗澡死亡",
+        "onboard_time": 1737373278,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 25997,
+        "num": 25997,
+        "word": "终于又看到戏骨含量100%国产剧",
+        "onboard_time": 1737387918,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25791,
+        "num": 25791,
+        "word": "台湾地震福建网友称震感强烈",
+        "onboard_time": 1737392417,
+        "rank": 28,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 24980,
+        "num": 24980,
+        "word": "女子身在辐中不知辐",
+        "onboard_time": 1737390918,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27249,
+        "num": 24292,
+        "word": "潘宏将母狗卖给狗肉车或违法",
+        "onboard_time": 1737397332,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 23546,
+        "num": 23546,
+        "word": "女子取8万8称拜年发红包惊动民警",
+        "onboard_time": 1737366617,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23478,
+        "num": 23478,
+        "word": "福州泉州厦门震感明显",
+        "onboard_time": 1737393315,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22834,
+        "num": 22834,
+        "word": "厦门震感",
+        "onboard_time": 1737392176,
+        "rank": 33,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 20983,
+        "num": 20983,
+        "word": "央视曝光办讲座卖神药骗局",
+        "onboard_time": 1737404891,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20345,
+        "num": 20345,
+        "word": "马锐为Angelababy发声",
+        "onboard_time": 1737383900,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20251,
+        "num": 20251,
+        "word": "代表建议建议四川试行2.5天休假",
+        "onboard_time": 1737391036,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20020,
+        "num": 20020,
+        "word": "张雪峰称给公司350人发2000万年终奖",
+        "onboard_time": 1737379818,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 19653,
+        "num": 19653,
+        "word": "拜登预防性赦免福奇等人",
+        "onboard_time": 1737381199,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18794,
+        "num": 18794,
+        "word": "麦琳商业价值超李行亮",
+        "onboard_time": 1737377117,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18555,
+        "num": 18555,
+        "word": "漂白",
+        "onboard_time": 1737360798,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18503,
+        "num": 18503,
+        "word": "高速上开车头顶传来交警的碎碎念",
+        "onboard_time": 1737398653,
+        "rank": 41,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 17968,
+        "num": 17968,
+        "word": "冒充中科院骗89岁老人买药",
+        "onboard_time": 1737403991,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17238,
+        "num": 17238,
+        "word": "外交部回应X不被允许在中国运营",
+        "onboard_time": 1737366017,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16345,
+        "num": 16345,
+        "word": "亚冬会开幕式主题歌MV",
+        "onboard_time": 1737395772,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16180,
+        "num": 16180,
+        "word": "陈震赔付领克500万元违约金",
+        "onboard_time": 1737373157,
+        "rank": 45,
+        "category": "汽车,网红"
+      },
+      {
+        "raw_hot": 15074,
+        "num": 15827,
+        "word": "号称逆转时间治百病忽悠老人买糖豆",
+        "onboard_time": 1737404711,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15653,
+        "num": 15653,
+        "word": "巴黎男装周",
+        "onboard_time": 1737399972,
+        "rank": 47,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 15336,
+        "num": 15336,
+        "word": "射雕预告诠释中国武侠为何生生不息",
+        "onboard_time": 1737404172,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 14764,
+        "num": 14764,
+        "word": "普京说愿与美国谈乌克兰局势",
+        "onboard_time": 1737405252,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#这份牵挂春暖中国#"
+    }
+  }
+}
