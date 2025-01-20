@@ -1,10 +1,10 @@
 {
   "startTime": 1737303863836,
-  "endTime": 1737347198527,
+  "endTime": 1737348018534,
   "band_list": [
     {
       "raw_hot": 2350642,
-      "num": 289692,
+      "num": 339994,
       "word": "陈乔恩为网红狗艾特发声",
       "onboard_time": 1737344418,
       "rank": 10,
@@ -24,6 +24,14 @@
       "word": "主人已将艾特遗体带回家",
       "onboard_time": 1737339677,
       "rank": 3,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 1871030,
+      "num": 625086,
+      "word": "韩安冉前夫破产",
+      "onboard_time": 1737346578,
+      "rank": 12,
       "category": "网红"
     },
     {
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 1253564,
-      "num": 303781,
+      "num": 339729,
       "word": "特朗普说TikTok回来了",
       "onboard_time": 1737342318,
       "rank": 14,
@@ -113,14 +121,6 @@
       "onboard_time": 1737339197,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 722751,
-      "num": 284455,
-      "word": "韩安冉前夫破产",
-      "onboard_time": 1737346578,
-      "rank": 12,
-      "category": "网红"
     },
     {
       "raw_hot": 687464,
@@ -187,8 +187,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 472699,
-      "num": 472699,
+      "raw_hot": 481914,
+      "num": 481914,
       "word": "射雕领跑的蛇年春节档刷新了影史",
       "onboard_time": 1737342378,
       "rank": 9,
@@ -291,6 +291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 325455,
+      "num": 325455,
+      "word": "于适0帧起手射箭",
+      "onboard_time": 1737341177,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 324807,
       "num": 324807,
       "word": "今天起买手机最高补贴500",
@@ -299,12 +307,28 @@
       "category": "数码"
     },
     {
-      "raw_hot": 323262,
-      "num": 304872,
-      "word": "于适0帧起手射箭",
-      "onboard_time": 1737341177,
-      "rank": 23,
-      "category": "电影"
+      "raw_hot": 308603,
+      "num": 308603,
+      "word": "越来越多年轻人选择开车回家过年",
+      "onboard_time": 1737345200,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 298479,
+      "num": 340566,
+      "word": "60秒看懂购新国补怎么补",
+      "onboard_time": 1737346940,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 294690,
+      "num": 215586,
+      "word": "妈妈被强行辞退女儿维权讨说法",
+      "onboard_time": 1737347118,
+      "rank": 46,
+      "category": "正能量"
     },
     {
       "raw_hot": 286698,
@@ -313,6 +337,14 @@
       "onboard_time": 1737334218,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 283936,
+      "num": 283936,
+      "word": "射雕第二支长预告",
+      "onboard_time": 1737343398,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 283167,
@@ -331,8 +363,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 278595,
-      "num": 278595,
+      "raw_hot": 279374,
+      "num": 279374,
       "word": "医保局牵头调查某些集采药质量风险问题",
       "onboard_time": 1737342078,
       "rank": 26,
@@ -353,14 +385,6 @@
       "onboard_time": 1737287479,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 265334,
-      "num": 265334,
-      "word": "射雕第二支长预告",
-      "onboard_time": 1737343398,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 263437,
@@ -384,14 +408,6 @@
       "word": "春节回家是时候卸下一年的担子了",
       "onboard_time": 1737292401,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 253788,
-      "num": 253788,
-      "word": "越来越多年轻人选择开车回家过年",
-      "onboard_time": 1737345200,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -443,6 +459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 215658,
+      "num": 215658,
+      "word": "距第一个非遗春节不足10天",
+      "onboard_time": 1737334939,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208623,
       "num": 208623,
       "word": "第三方平台买火车票各种玩法只为加钱",
@@ -457,14 +481,6 @@
       "onboard_time": 1737334877,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205244,
-      "num": 205244,
-      "word": "距第一个非遗春节不足10天",
-      "onboard_time": 1737334939,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 205118,
@@ -491,12 +507,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 200547,
+      "num": 200547,
+      "word": "甄珍逃出来了吗",
+      "onboard_time": 1737347118,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200319,
       "num": 200319,
       "word": "丁禹兮新代言剪影",
       "onboard_time": 1737346457,
       "rank": 23,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 199309,
+      "num": 199309,
+      "word": "郭京飞新剧通知家鼠准备收尸",
+      "onboard_time": 1737347238,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 197705,
@@ -513,6 +545,14 @@
       "onboard_time": 1737346219,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195686,
+      "num": 195686,
+      "word": "孙颖莎进入国家一队八周年",
+      "onboard_time": 1737342678,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 195432,
@@ -539,14 +579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 194435,
-      "num": 194435,
-      "word": "孙颖莎进入国家一队八周年",
-      "onboard_time": 1737342678,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 193914,
       "num": 193914,
       "word": "日历里下一行就是春节了",
@@ -561,6 +593,22 @@
       "onboard_time": 1737338957,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193488,
+      "num": 193488,
+      "word": "如鸢",
+      "onboard_time": 1737347059,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 190681,
+      "num": 190681,
+      "word": "第一夫人币推出后特朗普币暴跌",
+      "onboard_time": 1737343458,
+      "rank": 48,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 190585,
@@ -595,12 +643,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 175927,
-      "num": 175927,
-      "word": "第一夫人币推出后特朗普币暴跌",
-      "onboard_time": 1737343458,
-      "rank": 48,
-      "category": "国际时政,财经"
+      "raw_hot": 175593,
+      "num": 175593,
+      "word": "雪中悍刀行青鸟爆改刘婉",
+      "onboard_time": 1737346878,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 174438,
@@ -608,6 +656,14 @@
       "word": "网传潘宏给狗狗洗澡致死",
       "onboard_time": 1737330256,
       "rank": 22,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 174252,
+      "num": 174252,
+      "word": "揭秘潘宏背后文化传媒公司",
+      "onboard_time": 1737347600,
+      "rank": 34,
       "category": "网红"
     },
     {
@@ -731,11 +787,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151782,
-      "num": 151782,
-      "word": "雪中悍刀行青鸟爆改刘婉",
-      "onboard_time": 1737346878,
-      "rank": 35,
+      "raw_hot": 150045,
+      "num": 150045,
+      "word": "大主播称忙到没生活要睡在公司",
+      "onboard_time": 1737347959,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149469,
+      "num": 149469,
+      "word": "赵今麦骄阳似我工作服造型路透",
+      "onboard_time": 1737347718,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -753,14 +817,6 @@
       "onboard_time": 1737333378,
       "rank": 27,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 143465,
-      "num": 143465,
-      "word": "如鸢",
-      "onboard_time": 1737347059,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 143160,
@@ -804,7 +860,7 @@
     },
     {
       "raw_hot": 138801,
-      "num": 138801,
+      "num": 183234,
       "word": "异人之下2中的热血内核",
       "onboard_time": 1737345558,
       "rank": 41,
@@ -859,6 +915,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 131179,
+      "num": 131179,
+      "word": "迪丽热巴贺思慕原声哭戏路透",
+      "onboard_time": 1737345200,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130736,
       "num": 130736,
       "word": "男孩被妈妈骂爬二楼隔层躲两天",
@@ -883,30 +947,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 127815,
-      "num": 127815,
-      "word": "甄珍逃出来了吗",
-      "onboard_time": 1737347118,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 127711,
-      "num": 127711,
-      "word": "妈妈被强行辞退女儿维权讨说法",
-      "onboard_time": 1737347118,
-      "rank": 46,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 125710,
-      "num": 125710,
-      "word": "迪丽热巴贺思慕原声哭戏路透",
-      "onboard_time": 1737345200,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 124704,
       "num": 138876,
       "word": "射雕新预告郭靖大汗对峙",
@@ -921,6 +961,14 @@
       "onboard_time": 1737344838,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 123505,
+      "num": 123505,
+      "word": "新兰情侣又牵手发糖了",
+      "onboard_time": 1737347600,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 123353,
@@ -952,14 +1000,6 @@
       "word": "他炸出来的醒狮酥毛流感十足",
       "onboard_time": 1737344358,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117939,
-      "num": 281993,
-      "word": "60秒看懂购新国补怎么补",
-      "onboard_time": 1737346940,
-      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -1179,6 +1219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 88979,
+      "num": 175975,
+      "word": "洛城德比",
+      "onboard_time": 1737347359,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88321,
       "num": 88321,
       "word": "何惟芳拿回花满筑",
@@ -1217,6 +1265,14 @@
       "onboard_time": 1737301760,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 82069,
+      "num": 155863,
+      "word": "smart凭实力进入第31个全球市场",
+      "onboard_time": 1737347299,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 81655,
@@ -1260,7 +1316,7 @@
     },
     {
       "raw_hot": 71597,
-      "num": 176367,
+      "num": 179052,
       "word": "李一桐的当鸿时刻",
       "onboard_time": 1737346039,
       "rank": 29,
@@ -1532,6 +1588,9 @@
     },
     {
       "word": "#新春时光总书记最深的牵挂#"
+    },
+    {
+      "word": "#让更多人参与到冰雪运动中来#"
     }
   ]
 }
