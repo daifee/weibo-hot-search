@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737365056166,
+  "endTime": 1737365860806,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1739,6 +1739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1708721,
+      "num": 1708721,
+      "word": "大学生开房洗衣服被吐槽薅羊毛",
+      "onboard_time": 1737363078,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1703411,
       "num": 1703411,
       "word": "医生解读森碟下巴后缩",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735918099,
       "rank": 18,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1488536,
-      "num": 1488536,
-      "word": "古剑奇谭到底要塌多少次",
-      "onboard_time": 1736039368,
-      "rank": 6,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [

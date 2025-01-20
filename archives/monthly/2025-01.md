@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/20 17:24:16
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/20 17:37:40
 </p>
 </blockquote>
 <p>
@@ -1313,6 +1313,12 @@ TikTok难民来啦（热度：1761821）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%97%8F%E6%97%A5%E5%96%80%E5%88%996.8%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
 西藏日喀则6.8级地震（热度：1711336）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%BC%80%E6%88%BF%E6%B4%97%E8%A1%A3%E6%9C%8D%E8%A2%AB%E5%90%90%E6%A7%BD%E8%96%85%E7%BE%8A%E6%AF%9B%23" target="weibo">
+大学生开房洗衣服被吐槽薅羊毛（热度：1708721）
 </a>
 </li>
 
@@ -3407,12 +3413,6 @@ D3014次列车因撞鸟临时停车（热度：1020662）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%8E%E5%BE%B7%E6%B6%A8%E7%B2%89%23" target="weibo">
 李明德涨粉（热度：1002171）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%BC%80%E6%88%BF%E6%B4%97%E8%A1%A3%E6%9C%8D%E8%A2%AB%E5%90%90%E6%A7%BD%E8%96%85%E7%BE%8A%E6%AF%9B%23" target="weibo">
-大学生开房洗衣服被吐槽薅羊毛（热度：1001611）
 </a>
 </li>
 

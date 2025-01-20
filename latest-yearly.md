@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/20 17:24:16
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/20 17:37:40
 </p>
 </blockquote>
 <p>
@@ -1317,6 +1317,12 @@ TikTok难民来啦（热度：1761821）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%BC%80%E6%88%BF%E6%B4%97%E8%A1%A3%E6%9C%8D%E8%A2%AB%E5%90%90%E6%A7%BD%E8%96%85%E7%BE%8A%E6%AF%9B%23" target="weibo">
+大学生开房洗衣服被吐槽薅羊毛（热度：1708721）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E8%A7%A3%E8%AF%BB%E6%A3%AE%E7%A2%9F%E4%B8%8B%E5%B7%B4%E5%90%8E%E7%BC%A9%23" target="weibo">
 医生解读森碟下巴后缩（热度：1703411）
 </a>
@@ -1805,12 +1811,6 @@ TikTok难民称中国网友非常热情（热度：1548219）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E9%9F%A9%E5%9B%BD%E9%81%87%E9%9A%BE%E6%9C%BA%E9%95%BF%E6%9C%80%E5%90%8E%E7%94%BB%E9%9D%A2%23" target="weibo">
 疑似韩国遇难机长最后画面（热度：1489080）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E5%89%91%E5%A5%87%E8%B0%AD%E5%88%B0%E5%BA%95%E8%A6%81%E5%A1%8C%E5%A4%9A%E5%B0%91%E6%AC%A1%23" target="weibo">
-古剑奇谭到底要塌多少次（热度：1488536）
 </a>
 </li>
 
