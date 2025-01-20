@@ -1,6 +1,6 @@
 {
   "startTime": 1737303863836,
-  "endTime": 1737368657676,
+  "endTime": 1737369657316,
   "band_list": [
     {
       "raw_hot": 2805587,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1717034,
-      "num": 424180,
+      "num": 448486,
       "word": "潘宏曾说母狗死后会卖狗肉车",
       "onboard_time": 1737362118,
       "rank": 27,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1461035,
-      "num": 424175,
+      "num": 435267,
       "word": "中方回应特朗普要TikTok50%所有权",
       "onboard_time": 1737360798,
       "rank": 14,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 1291973,
-      "num": 366168,
+      "num": 378213,
       "word": "潘宏爱玩狗涉嫌虐狗吗",
       "onboard_time": 1737349039,
       "rank": 13,
@@ -315,6 +315,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 592792,
+      "num": 592792,
+      "word": "妲己新皮肤愿照众生和",
+      "onboard_time": 1737367938,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 590985,
+      "num": 590985,
+      "word": "赵今麦天选末世文女主",
+      "onboard_time": 1737364398,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 590192,
       "num": 590192,
       "word": "尹锡悦换上囚服",
@@ -323,20 +339,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 587557,
-      "num": 587557,
-      "word": "赵今麦天选末世文女主",
-      "onboard_time": 1737364398,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 570909,
       "num": 485747,
       "word": "郭靖台词道出金庸武侠中的家国天下",
       "onboard_time": 1737339617,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 568514,
+      "num": 327737,
+      "word": "女子取8万8称拜年发红包惊动民警",
+      "onboard_time": 1737366617,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 558989,
@@ -377,14 +393,6 @@
       "onboard_time": 1737360258,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 527017,
-      "num": 271494,
-      "word": "女子取8万8称拜年发红包惊动民警",
-      "onboard_time": 1737366617,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 481914,
@@ -532,7 +540,7 @@
     },
     {
       "raw_hot": 381612,
-      "num": 275449,
+      "num": 290179,
       "word": "漂白",
       "onboard_time": 1737265697,
       "rank": 27,
@@ -641,14 +649,6 @@
       "onboard_time": 1737343398,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 283878,
-      "num": 283878,
-      "word": "妲己新皮肤愿照众生和",
-      "onboard_time": 1737367938,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 283167,
@@ -795,6 +795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236766,
+      "num": 236766,
+      "word": "李小冉你好好演戏唱歌我另有人选",
+      "onboard_time": 1737368538,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233578,
       "num": 360791,
       "word": "坐火车上错车下错站怎么办",
@@ -833,6 +841,14 @@
       "onboard_time": 1737294980,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 221845,
+      "num": 221845,
+      "word": "舒淇感叹夏之光长大了",
+      "onboard_time": 1737368718,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 220708,
@@ -1019,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195854,
+      "num": 195854,
+      "word": "罗云熙你在用这个爱豆的妆造干什么",
+      "onboard_time": 1737369137,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 195686,
       "num": 195686,
       "word": "孙颖莎进入国家一队八周年",
@@ -1107,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190479,
+      "num": 190479,
+      "word": "同行称潘宏训狗方式太粗暴",
+      "onboard_time": 1737368357,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 190094,
       "num": 190094,
       "word": "一男子去年成功举报1945起交通事故",
@@ -1121,6 +1153,14 @@
       "onboard_time": 1737367878,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189624,
+      "num": 334956,
+      "word": "蛇来运转春节档",
+      "onboard_time": 1737369078,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 188411,
@@ -1297,14 +1337,6 @@
       "onboard_time": 1737357858,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163124,
-      "num": 163124,
-      "word": "同行称潘宏训狗方式太粗暴",
-      "onboard_time": 1737368357,
-      "rank": 35,
-      "category": "网红"
     },
     {
       "raw_hot": 162079,
@@ -1507,6 +1539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140487,
+      "num": 248251,
+      "word": "孙颖莎很感谢邱贻可的付出和陪伴",
+      "onboard_time": 1737367639,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139903,
       "num": 139903,
       "word": "TikTok停止在美服务",
@@ -1520,22 +1560,6 @@
       "word": "2024TVB颁奖礼",
       "onboard_time": 1737288679,
       "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 139442,
-      "num": 248251,
-      "word": "孙颖莎很感谢邱贻可的付出和陪伴",
-      "onboard_time": 1737367639,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 139140,
-      "num": 139140,
-      "word": "李小冉你好好演戏唱歌我另有人选",
-      "onboard_time": 1737368538,
-      "rank": 41,
       "category": "综艺"
     },
     {
@@ -2019,6 +2043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101466,
+      "num": 424643,
+      "word": "戏腔一响血脉自动觉醒",
+      "onboard_time": 1737365958,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101299,
       "num": 74345,
       "word": "肖战庄达菲射雕剧照",
@@ -2107,6 +2139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94353,
+      "num": 330465,
+      "word": "高铁遛娃舱来了",
+      "onboard_time": 1737369438,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93777,
       "num": 93777,
       "word": "8米长鲸鱼尸体搁浅海南一沙滩",
@@ -2137,6 +2177,14 @@
       "onboard_time": 1737337396,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91003,
+      "num": 214349,
+      "word": "2025LPL第一赛段",
+      "onboard_time": 1737368957,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 90981,
@@ -2211,14 +2259,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 82479,
-      "num": 424643,
-      "word": "戏腔一响血脉自动觉醒",
-      "onboard_time": 1737365958,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82207,
       "num": 216388,
       "word": "李一桐的新年上上签",
@@ -2249,6 +2289,14 @@
       "onboard_time": 1737303857,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 80025,
+      "num": 324307,
+      "word": "变淡的年味这不就回来了",
+      "onboard_time": 1737367578,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79398,
@@ -2521,6 +2569,14 @@
       "onboard_time": 1737311712,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 22510,
+      "num": 150684,
+      "word": "真的是动漫映入现实了",
+      "onboard_time": 1737369017,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 21656,
