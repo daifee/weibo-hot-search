@@ -1,6 +1,6 @@
 {
   "startTime": 1737390442496,
-  "endTime": 1737444054103,
+  "endTime": 1737444935376,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1014203,
-      "num": 446258,
+      "num": 496696,
       "word": "特朗普一提中国外媒马上澄清",
       "onboard_time": 1737442217,
       "rank": 7,
@@ -233,6 +233,14 @@
       "onboard_time": 1737377178,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 735514,
+      "num": 450306,
+      "word": "赵露思12小时ins点赞破百万",
+      "onboard_time": 1737443359,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 734994,
@@ -355,8 +363,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 485576,
-      "num": 485576,
+      "raw_hot": 500725,
+      "num": 500725,
       "word": "12306候补",
       "onboard_time": 1737440838,
       "rank": 35,
@@ -459,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 383553,
+      "num": 383553,
+      "word": "潘宏基地另一网红狗疑被咬死",
+      "onboard_time": 1737437357,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
       "raw_hot": 365886,
       "num": 278858,
       "word": "特朗普就任第47任美国总统",
@@ -483,12 +499,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 324944,
-      "num": 324944,
-      "word": "潘宏基地另一网红狗疑被咬死",
-      "onboard_time": 1737437357,
-      "rank": 19,
-      "category": "网红"
+      "raw_hot": 312377,
+      "num": 312377,
+      "word": "浪姐6网传全员阵容",
+      "onboard_time": 1737444378,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 311724,
@@ -536,6 +552,14 @@
       "word": "2岁女童超30种食物过敏体重仅13斤",
       "onboard_time": 1737395532,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 290992,
+      "num": 384993,
+      "word": "手机被撞飞后正掉在车轮下被碾压",
+      "onboard_time": 1737439878,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -771,14 +795,6 @@
       "category": "体育,作品衍生"
     },
     {
-      "raw_hot": 207280,
-      "num": 207280,
-      "word": "手机被撞飞后正掉在车轮下被碾压",
-      "onboard_time": 1737439878,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 205513,
       "num": 256154,
       "word": "一听这些歌就知道快过年了",
@@ -857,6 +873,14 @@
       "onboard_time": 1737421878,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 180589,
+      "num": 433625,
+      "word": "28日零时前上高速也可免高速费",
+      "onboard_time": 1737440718,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179746,
@@ -947,14 +971,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 166529,
-      "num": 325097,
-      "word": "赵露思12小时ins点赞破百万",
-      "onboard_time": 1737443359,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 166076,
       "num": 116139,
       "word": "吴尊neinei新综来了",
@@ -1027,12 +1043,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 155074,
-      "num": 433625,
-      "word": "28日零时前上高速也可免高速费",
-      "onboard_time": 1737440718,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 154450,
+      "num": 287640,
+      "word": "发哥70岁健步如飞我20岁两眼一黑",
+      "onboard_time": 1737444138,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 154330,
@@ -1299,6 +1315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 119093,
+      "num": 119093,
+      "word": "苏享茂家属称翟欣欣认罪认罚",
+      "onboard_time": 1737444018,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118761,
       "num": 173413,
       "word": "用甲骨文打开非遗春节",
@@ -1331,6 +1355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 117582,
+      "num": 117582,
+      "word": "苏享茂哥哥发微博网友为其加油",
+      "onboard_time": 1737444378,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116038,
       "num": 112018,
       "word": "女子取8万8称拜年发红包惊动民警",
@@ -1345,6 +1377,14 @@
       "onboard_time": 1737379818,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115226,
+      "num": 115226,
+      "word": "赶公交的SM男练习生",
+      "onboard_time": 1737444798,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 114313,
@@ -1427,14 +1467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108830,
-      "num": 108830,
-      "word": "苏享茂家属称翟欣欣认罪认罚",
-      "onboard_time": 1737444018,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 108443,
       "num": 108443,
       "word": "兽医师称艾特或是窒息死亡",
@@ -1484,11 +1516,27 @@
     },
     {
       "raw_hot": 104798,
-      "num": 330122,
+      "num": 383808,
       "word": "孙颖莎红运接到了吗",
       "onboard_time": 1737442937,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104624,
+      "num": 218934,
+      "word": "Icon力挺Doinb",
+      "onboard_time": 1737442278,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 104558,
+      "num": 104558,
+      "word": "买了新手机旧手机怎么办",
+      "onboard_time": 1737444739,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 103424,
@@ -1521,6 +1569,14 @@
       "onboard_time": 1737373157,
       "rank": 32,
       "category": "汽车,网红"
+    },
+    {
+      "raw_hot": 101634,
+      "num": 101634,
+      "word": "央视boys四个人好几个群",
+      "onboard_time": 1737444917,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 101264,
@@ -1609,14 +1665,6 @@
       "onboard_time": 1737435739,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 89638,
-      "num": 218934,
-      "word": "Icon力挺Doinb",
-      "onboard_time": 1737442278,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 87426,
@@ -1801,6 +1849,14 @@
       "onboard_time": 1737383120,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 67819,
+      "num": 208329,
+      "word": "孙颖莎9650分世排第一",
+      "onboard_time": 1737441198,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 66915,

@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737444054103,
+  "endTime": 1737444935376,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -492,7 +492,7 @@
     },
     {
       "raw_hot": 1014203,
-      "num": 446258,
+      "num": 496696,
       "word": "特朗普一提中国外媒马上澄清",
       "onboard_time": 1737442217,
       "rank": 7,
@@ -785,6 +785,14 @@
       "onboard_time": 1737414855,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 735514,
+      "num": 450306,
+      "word": "赵露思12小时ins点赞破百万",
+      "onboard_time": 1737443359,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 734994,
@@ -1267,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 500725,
+      "num": 500725,
+      "word": "12306候补",
+      "onboard_time": 1737440838,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 500486,
       "num": 500486,
       "word": "初中生用70元自制望远镜可观测月球",
@@ -1289,14 +1305,6 @@
       "onboard_time": 1737271278,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 485576,
-      "num": 485576,
-      "word": "12306候补",
-      "onboard_time": 1737440838,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 481914,
@@ -1675,6 +1683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 383553,
+      "num": 383553,
+      "word": "潘宏基地另一网红狗疑被咬死",
+      "onboard_time": 1737437357,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
       "raw_hot": 381612,
       "num": 342129,
       "word": "漂白",
@@ -1955,14 +1971,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 324944,
-      "num": 324944,
-      "word": "潘宏基地另一网红狗疑被咬死",
-      "onboard_time": 1737437357,
-      "rank": 19,
-      "category": "网红"
-    },
-    {
       "raw_hot": 324807,
       "num": 324807,
       "word": "今天起买手机最高补贴500",
@@ -2025,6 +2033,14 @@
       "onboard_time": 1737371118,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 312377,
+      "num": 312377,
+      "word": "浪姐6网传全员阵容",
+      "onboard_time": 1737444378,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 311724,
@@ -2160,6 +2176,14 @@
       "word": "2岁女童超30种食物过敏体重仅13斤",
       "onboard_time": 1737395532,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 290992,
+      "num": 384993,
+      "word": "手机被撞飞后正掉在车轮下被碾压",
+      "onboard_time": 1737439878,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -2987,14 +3011,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 207280,
-      "num": 207280,
-      "word": "手机被撞飞后正掉在车轮下被碾压",
-      "onboard_time": 1737439878,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 207137,
       "num": 124676,
       "word": "国色芳华单集收视创新高",
@@ -3691,6 +3707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180589,
+      "num": 433625,
+      "word": "28日零时前上高速也可免高速费",
+      "onboard_time": 1737440718,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180175,
       "num": 160701,
       "word": "闻太师是封神2放映员吧",
@@ -4009,14 +4033,6 @@
       "onboard_time": 1737361398,
       "rank": 48,
       "category": "网红"
-    },
-    {
-      "raw_hot": 166529,
-      "num": 325097,
-      "word": "赵露思12小时ins点赞破百万",
-      "onboard_time": 1737443359,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 166520,
@@ -4387,19 +4403,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 155074,
-      "num": 433625,
-      "word": "28日零时前上高速也可免高速费",
-      "onboard_time": 1737440718,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 154651,
       "num": 113076,
       "word": "封神第二部片长144分钟",
       "onboard_time": 1737214759,
       "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 154450,
+      "num": 287640,
+      "word": "发哥70岁健步如飞我20岁两眼一黑",
+      "onboard_time": 1737444138,
+      "rank": 18,
       "category": "电影"
     },
     {
@@ -5643,6 +5659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119093,
+      "num": 119093,
+      "word": "苏享茂家属称翟欣欣认罪认罚",
+      "onboard_time": 1737444018,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118975,
       "num": 118975,
       "word": "白月梵星",
@@ -5712,6 +5736,14 @@
       "word": "腿友们断骨增高结果像一场赌博",
       "onboard_time": 1737259518,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117582,
+      "num": 117582,
+      "word": "苏享茂哥哥发微博网友为其加油",
+      "onboard_time": 1737444378,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -5793,6 +5825,14 @@
       "onboard_time": 1737301818,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115226,
+      "num": 115226,
+      "word": "赶公交的SM男练习生",
+      "onboard_time": 1737444798,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 115179,
@@ -6017,14 +6057,6 @@
       "onboard_time": 1737337458,
       "rank": 37,
       "category": "民生新闻,旅游"
-    },
-    {
-      "raw_hot": 108830,
-      "num": 108830,
-      "word": "苏享茂家属称翟欣欣认罪认罚",
-      "onboard_time": 1737444018,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108475,
@@ -6252,7 +6284,7 @@
     },
     {
       "raw_hot": 104798,
-      "num": 330122,
+      "num": 383808,
       "word": "孙颖莎红运接到了吗",
       "onboard_time": 1737442937,
       "rank": 15,
@@ -6265,6 +6297,22 @@
       "onboard_time": 1737210921,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104624,
+      "num": 218934,
+      "word": "Icon力挺Doinb",
+      "onboard_time": 1737442278,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 104558,
+      "num": 104558,
+      "word": "买了新手机旧手机怎么办",
+      "onboard_time": 1737444739,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 104526,
@@ -6369,6 +6417,14 @@
       "onboard_time": 1737264618,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101634,
+      "num": 101634,
+      "word": "央视boys四个人好几个群",
+      "onboard_time": 1737444917,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 101466,
@@ -6763,14 +6819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 89638,
-      "num": 218934,
-      "word": "Icon力挺Doinb",
-      "onboard_time": 1737442278,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 88979,
       "num": 175975,
       "word": "洛城德比",
@@ -7129,6 +7177,14 @@
       "onboard_time": 1737388698,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67819,
+      "num": 208329,
+      "word": "孙颖莎9650分世排第一",
+      "onboard_time": 1737441198,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 67405,
