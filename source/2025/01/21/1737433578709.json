@@ -1,0 +1,410 @@
+{
+  "runTime": 1737433578709,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 954683,
+        "num": 1152749,
+        "word": "春晚最年轻的00后主持人来了",
+        "onboard_time": 1737431779,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 527121,
+        "num": 527121,
+        "word": "因救人智力倒退的消防员恢复到高中水平",
+        "onboard_time": 1737414855,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43936,
+        "num": 520653,
+        "word": "神十九航天员完成第二次出舱",
+        "onboard_time": 1737432978,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 416593,
+        "num": 519099,
+        "word": "男子干电工因为太胆小成技术大神",
+        "onboard_time": 1737425837,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281476,
+        "num": 513240,
+        "word": "永劫无间",
+        "onboard_time": 1737432799,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 989239,
+        "num": 504620,
+        "word": "杨子黄圣依葛夕留几手签约蜂群",
+        "onboard_time": 1737426558,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 544759,
+        "num": 497384,
+        "word": "九重紫上星定档",
+        "onboard_time": 1737427759,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 544686,
+        "num": 487453,
+        "word": "特朗普将宣布南部边境进入紧急状态",
+        "onboard_time": 1737424577,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 272824,
+        "num": 484899,
+        "word": "台湾台南6.2级地震",
+        "onboard_time": 1737390918,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 49729,
+        "num": 479909,
+        "word": "领补贴买手机不用交旧手机",
+        "onboard_time": 1737427519,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1916874,
+        "num": 472644,
+        "word": "特朗普宣布美国退出世界卫生组织",
+        "onboard_time": 1737423857,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 877342,
+        "num": 465583,
+        "word": "潘宏曾说没有自己艾特早安乐死了",
+        "onboard_time": 1737424996,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 422866,
+        "num": 454596,
+        "word": "2025辽视春晚阵容官宣",
+        "onboard_time": 1737427698,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1072857,
+        "num": 451256,
+        "word": "特朗普签令将墨西哥湾改名为美国湾",
+        "onboard_time": 1737429980,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 579238,
+        "num": 442082,
+        "word": "樊振东旁边是霉霉前男友",
+        "onboard_time": 1737422957,
+        "rank": 14,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 440059,
+        "num": 440059,
+        "word": "周锐偶练时不知道偶像不允许恋爱",
+        "onboard_time": 1737429378,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427381,
+        "num": 427381,
+        "word": "赵露思晒休养日常",
+        "onboard_time": 1737415696,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355538,
+        "num": 355538,
+        "word": "艾特代露娃结果常华森回复了",
+        "onboard_time": 1737421279,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266031,
+        "num": 353651,
+        "word": "白月梵星版最后的晚餐",
+        "onboard_time": 1737432978,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204337,
+        "num": 351474,
+        "word": "第一批做主播的人开始去班味了",
+        "onboard_time": 1737431177,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404534,
+        "num": 347516,
+        "word": "美国最大规模非法移民驱逐行动",
+        "onboard_time": 1737414855,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 734994,
+        "num": 343964,
+        "word": "光遇",
+        "onboard_time": 1737432077,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 547205,
+        "num": 338736,
+        "word": "特朗普就职典礼",
+        "onboard_time": 1737392777,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 533842,
+        "num": 333281,
+        "word": "苹果官网把iPhone写错了",
+        "onboard_time": 1737429739,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 223751,
+        "num": 329575,
+        "word": "王楚钦7367分世排第一",
+        "onboard_time": 1737431177,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328725,
+        "num": 328725,
+        "word": "父亲把15万藏被子里被儿子误扔",
+        "onboard_time": 1737426798,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327289,
+        "num": 327289,
+        "word": "张柏芝谢霆锋二儿子正脸照",
+        "onboard_time": 1737427457,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234616,
+        "num": 234616,
+        "word": "麦琳称未来可能会直播带货",
+        "onboard_time": 1737429679,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491690,
+        "num": 234044,
+        "word": "特朗普正式宣誓就职",
+        "onboard_time": 1737393254,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 232187,
+        "num": 232187,
+        "word": "曾黎的抹额火到了国外",
+        "onboard_time": 1737432678,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186926,
+        "num": 186926,
+        "word": "周锐官宣恋情",
+        "onboard_time": 1737383781,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 176520,
+        "num": 176520,
+        "word": "蔡少芬射雕镜头",
+        "onboard_time": 1737422238,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174123,
+        "num": 174123,
+        "word": "孟子义李昀锐浙江卫视过年",
+        "onboard_time": 1737431238,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172481,
+        "num": 172481,
+        "word": "再上6天班就过年了",
+        "onboard_time": 1737417799,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154330,
+        "num": 154330,
+        "word": "2025央视网络春晚首波阵容官宣",
+        "onboard_time": 1737432799,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153651,
+        "num": 153651,
+        "word": "春节前为辛苦一年的自己点赞",
+        "onboard_time": 1737429498,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146921,
+        "num": 146921,
+        "word": "台湾地震",
+        "onboard_time": 1737391036,
+        "rank": 36,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 146800,
+        "num": 146800,
+        "word": "周杰伦昆凌一家五口重回婚礼教堂",
+        "onboard_time": 1737414915,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424134,
+        "num": 146727,
+        "word": "特朗普签署多项行政令",
+        "onboard_time": 1737420978,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 308101,
+        "num": 146710,
+        "word": "特朗普赦免约1500名国会山骚乱暴力分子",
+        "onboard_time": 1737431478,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146556,
+        "num": 146556,
+        "word": "丁禹兮加盟2025网络视听盛典",
+        "onboard_time": 1737432618,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144156,
+        "num": 144156,
+        "word": "两姐妹打架爸爸被压在身下",
+        "onboard_time": 1737426737,
+        "rank": 41,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 139780,
+        "num": 139780,
+        "word": "别人谢顶的年纪刘能长头发了",
+        "onboard_time": 1737432618,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134042,
+        "num": 134042,
+        "word": "美甲",
+        "onboard_time": 1737433459,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 129983,
+        "num": 129983,
+        "word": "王一博首次加盟视听盛典",
+        "onboard_time": 1737431599,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115753,
+        "num": 115753,
+        "word": "福建震感",
+        "onboard_time": 1737391397,
+        "rank": 45,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 114277,
+        "num": 114277,
+        "word": "张踩铃拖家带口上辽视春晚",
+        "onboard_time": 1737433459,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81379,
+        "num": 112606,
+        "word": "封神吴汉坤回应退圈创业",
+        "onboard_time": 1737430038,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112149,
+        "num": 112149,
+        "word": "为什么韩国人冻死也要喝冰美式",
+        "onboard_time": 1737415876,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 105986,
+        "num": 105986,
+        "word": "封神第二部西岐阵营特辑",
+        "onboard_time": 1737430938,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同党外人士共迎新春#"
+    }
+  }
+}
