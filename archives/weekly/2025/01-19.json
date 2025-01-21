@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737427742251,
+  "endTime": 1737428269373,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -35,20 +35,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 2668783,
+      "num": 336399,
+      "word": "特朗普宣布美国退出世界卫生组织",
+      "onboard_time": 1737423857,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 2463156,
       "num": 2463156,
       "word": "TikTok停止在美服务",
       "onboard_time": 1737260718,
       "rank": 9,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 2426626,
-      "num": 336399,
-      "word": "特朗普宣布美国退出世界卫生组织",
-      "onboard_time": 1737423857,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 2363224,
@@ -635,6 +635,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 786854,
+      "num": 332051,
+      "word": "潘宏曾说没有自己艾特早安乐死了",
+      "onboard_time": 1737424996,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
       "raw_hot": 771397,
       "num": 717847,
       "word": "樊振东小少爷的既视感",
@@ -723,7 +731,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 694431,
+      "raw_hot": 698046,
       "num": 694431,
       "word": "特朗普将宣布南部边境进入紧急状态",
       "onboard_time": 1737424577,
@@ -891,12 +899,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 582169,
-      "num": 332051,
-      "word": "潘宏曾说没有自己艾特早安乐死了",
-      "onboard_time": 1737424996,
-      "rank": 12,
-      "category": "网红"
+      "raw_hot": 583670,
+      "num": 416286,
+      "word": "杨子黄圣依葛夕留几手签约蜂群",
+      "onboard_time": 1737426558,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 581871,
@@ -1283,6 +1291,14 @@
       "category": "国际时政,互联网"
     },
     {
+      "raw_hot": 440625,
+      "num": 247938,
+      "word": "张柏芝谢霆锋二儿子正脸照",
+      "onboard_time": 1737427457,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 439724,
       "num": 439724,
       "word": "全世界最差航空的飞机餐",
@@ -1385,14 +1401,6 @@
       "onboard_time": 1737370277,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 401931,
-      "num": 324049,
-      "word": "杨子黄圣依葛夕留几手签约蜂群",
-      "onboard_time": 1737426558,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 400256,
@@ -1505,6 +1513,14 @@
       "onboard_time": 1737383180,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 368927,
+      "num": 319567,
+      "word": "特朗普签署多项行政令",
+      "onboard_time": 1737420978,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 368926,
@@ -1755,6 +1771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 322212,
+      "num": 262634,
+      "word": "男子干电工因为太胆小成技术大神",
+      "onboard_time": 1737425837,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 321735,
       "num": 321735,
       "word": "久酷微博发文后秒删",
@@ -1769,14 +1793,6 @@
       "onboard_time": 1737265817,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 319567,
-      "num": 319567,
-      "word": "特朗普签署多项行政令",
-      "onboard_time": 1737420978,
-      "rank": 16,
-      "category": "国际时政"
     },
     {
       "raw_hot": 318087,
@@ -2155,6 +2171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 258817,
+      "num": 258817,
+      "word": "特朗普称美国政府面临信任危机",
+      "onboard_time": 1737423017,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 258727,
       "num": 258727,
       "word": "厦门震感",
@@ -2201,14 +2225,6 @@
       "onboard_time": 1737354438,
       "rank": 38,
       "category": "数码"
-    },
-    {
-      "raw_hot": 254222,
-      "num": 254222,
-      "word": "男子干电工因为太胆小成技术大神",
-      "onboard_time": 1737425837,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 254055,
@@ -2296,6 +2312,14 @@
       "word": "2024TVB颁奖礼",
       "onboard_time": 1737288679,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 243068,
+      "num": 303726,
+      "word": "2025辽视春晚阵容官宣",
+      "onboard_time": 1737427698,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -2595,14 +2619,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 208862,
-      "num": 208862,
-      "word": "特朗普称美国政府面临信任危机",
-      "onboard_time": 1737423017,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 208848,
       "num": 208848,
       "word": "甲骨文公司关闭托管TikTok数据服务器",
@@ -2788,7 +2804,7 @@
     },
     {
       "raw_hot": 199602,
-      "num": 183043,
+      "num": 196359,
       "word": "原主人谈艾特被送潘宏园区原因",
       "onboard_time": 1737423559,
       "rank": 49,
@@ -2856,6 +2872,14 @@
       "word": "白鹿空降白月梵星超话",
       "onboard_time": 1737383359,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196501,
+      "num": 196501,
+      "word": "九重紫上星定档",
+      "onboard_time": 1737427759,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -3241,14 +3265,6 @@
       "onboard_time": 1737263178,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 183905,
-      "num": 183905,
-      "word": "张柏芝谢霆锋二儿子正脸照",
-      "onboard_time": 1737427457,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 183837,
@@ -3867,6 +3883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 157658,
+      "num": 157658,
+      "word": "父亲把15万藏被子里被儿子误扔",
+      "onboard_time": 1737426798,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157249,
       "num": 218200,
       "word": "孙颖莎的福字可爱",
@@ -4113,14 +4137,6 @@
       "onboard_time": 1737386298,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147227,
-      "num": 147227,
-      "word": "2025辽视春晚阵容官宣",
-      "onboard_time": 1737427698,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 146754,
@@ -4475,14 +4491,6 @@
       "category": "体育,时尚"
     },
     {
-      "raw_hot": 136512,
-      "num": 136512,
-      "word": "父亲把15万藏被子里被儿子误扔",
-      "onboard_time": 1737426798,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136399,
       "num": 136399,
       "word": "四川红原县4.9级地震",
@@ -4497,6 +4505,14 @@
       "onboard_time": 1737355278,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 136272,
+      "num": 136272,
+      "word": "特朗普币暴涨",
+      "onboard_time": 1737424877,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 136186,
@@ -4793,6 +4809,14 @@
       "onboard_time": 1737378379,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 126542,
+      "num": 126542,
+      "word": "高芙无缘澳网四强",
+      "onboard_time": 1737427759,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 126423,
@@ -5171,14 +5195,6 @@
       "category": "体育,作品衍生"
     },
     {
-      "raw_hot": 114306,
-      "num": 114306,
-      "word": "特朗普币暴涨",
-      "onboard_time": 1737424877,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 114199,
       "num": 114199,
       "word": "荣耀中国区CMO将辞职",
@@ -5315,6 +5331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109164,
+      "num": 338794,
+      "word": "台湾台南地震已致15人受伤",
+      "onboard_time": 1737424697,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109155,
       "num": 109155,
       "word": "课本中的冬天",
@@ -5337,14 +5361,6 @@
       "onboard_time": 1737260358,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 108174,
-      "num": 338794,
-      "word": "台湾台南地震已致15人受伤",
-      "onboard_time": 1737424697,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107916,

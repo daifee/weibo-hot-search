@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/21 10:49:02
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/21 10:57:49
 </p>
 </blockquote>
 <p>
@@ -513,6 +513,12 @@ TikTok禁令（热度：2765381）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E7%BE%8E%E5%9B%BD%E9%80%80%E5%87%BA%E4%B8%96%E7%95%8C%E5%8D%AB%E7%94%9F%E7%BB%84%E7%BB%87%23" target="weibo">
+特朗普宣布美国退出世界卫生组织（热度：2668783）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E6%8D%A3%E6%AF%81%E7%BB%91%E6%9E%B6%E7%8E%8B%E6%98%9F%E6%A1%88%E6%B6%89%E6%A1%88%E5%85%AC%E5%8F%B8%23" target="weibo">
 警方捣毁绑架王星案涉案公司（热度：2651426）
 </a>
@@ -629,12 +635,6 @@ TikTok停止在美服务（热度：2463156）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%A8%B1%E5%AD%90%E8%87%AA%E6%9B%9D%E8%A2%AB%E7%94%B7%E9%A1%B6%E6%B5%81%E8%BF%BD%E6%B1%82%E8%BF%87%23" target="weibo">
 赵樱子自曝被男顶流追求过（热度：2438337）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E7%BE%8E%E5%9B%BD%E9%80%80%E5%87%BA%E4%B8%96%E7%95%8C%E5%8D%AB%E7%94%9F%E7%BB%84%E7%BB%87%23" target="weibo">
-特朗普宣布美国退出世界卫生组织（热度：2426626）
 </a>
 </li>
 
