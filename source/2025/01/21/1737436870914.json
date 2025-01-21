@@ -1,0 +1,410 @@
+{
+  "runTime": 1737436870914,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1445223,
+        "num": 1445223,
+        "word": "春晚最年轻的00后主持人来了",
+        "onboard_time": 1737431779,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 545118,
+        "num": 545118,
+        "word": "第一批做主播的人开始去班味了",
+        "onboard_time": 1737431177,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58620,
+        "num": 544428,
+        "word": "神十九航天员完成第二次出舱",
+        "onboard_time": 1737432978,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 543971,
+        "num": 543971,
+        "word": "美甲",
+        "onboard_time": 1737433459,
+        "rank": 3,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 523919,
+        "num": 523919,
+        "word": "智力退回3岁消防员恢复到高中水平",
+        "onboard_time": 1737414855,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418502,
+        "num": 418502,
+        "word": "赵露思晒休养日常",
+        "onboard_time": 1737415696,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417214,
+        "num": 417214,
+        "word": "特朗普将宣布南部边境进入紧急状态",
+        "onboard_time": 1737424577,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 321086,
+        "num": 321086,
+        "word": "九重紫上星定档",
+        "onboard_time": 1737427759,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300465,
+        "num": 300465,
+        "word": "特朗普签署多项行政令",
+        "onboard_time": 1737420978,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 273743,
+        "num": 273743,
+        "word": "第一批聪明的人已经堵在路上",
+        "onboard_time": 1737435739,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1288001,
+        "num": 273100,
+        "word": "特朗普宣布美国退出世界卫生组织",
+        "onboard_time": 1737423857,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 767006,
+        "num": 267550,
+        "word": "潘宏曾说没有自己艾特早安乐死了",
+        "onboard_time": 1737424996,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 730421,
+        "num": 263056,
+        "word": "特朗普签令将墨西哥湾改名为美国湾",
+        "onboard_time": 1737429980,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 641728,
+        "num": 261362,
+        "word": "杨子黄圣依葛夕留几手签约蜂群",
+        "onboard_time": 1737426558,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 492229,
+        "num": 257530,
+        "word": "樊振东旁边是霉霉前男友",
+        "onboard_time": 1737422957,
+        "rank": 14,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 299682,
+        "num": 251659,
+        "word": "艾特代露娃结果常华森回复了",
+        "onboard_time": 1737421279,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250948,
+        "num": 250948,
+        "word": "王一博首次加盟视听盛典",
+        "onboard_time": 1737431599,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257230,
+        "num": 250522,
+        "word": "2025辽视春晚阵容官宣",
+        "onboard_time": 1737427698,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249956,
+        "num": 249956,
+        "word": "漂白编剧称有对所有案件原型的采访证据",
+        "onboard_time": 1737435138,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214626,
+        "num": 247802,
+        "word": "林高远的帽子亮相巴黎时装周",
+        "onboard_time": 1737436577,
+        "rank": 19,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 364298,
+        "num": 245734,
+        "word": "苹果官网把iPhone写错了",
+        "onboard_time": 1737429739,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 291520,
+        "num": 242030,
+        "word": "父亲把15万藏被子里被儿子误扔",
+        "onboard_time": 1737426798,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172754,
+        "num": 236867,
+        "word": "爱奇艺漂白编剧回应抄袭",
+        "onboard_time": 1737435440,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236004,
+        "num": 236004,
+        "word": "周锐偶练时不知道偶像不允许恋爱",
+        "onboard_time": 1737429378,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284362,
+        "num": 232824,
+        "word": "光遇",
+        "onboard_time": 1737432077,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 268484,
+        "num": 231820,
+        "word": "张柏芝谢霆锋二儿子正脸照",
+        "onboard_time": 1737427457,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227218,
+        "num": 227218,
+        "word": "张康乐马柏全费加罗大片花絮",
+        "onboard_time": 1737436818,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 211696,
+        "num": 225895,
+        "word": "台湾台南6.2级地震",
+        "onboard_time": 1737390918,
+        "rank": 27,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 91010,
+        "num": 225270,
+        "word": "辛鹏说何惟芳扇王擎太解气了",
+        "onboard_time": 1737435739,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48338,
+        "num": 225075,
+        "word": "高芙爆冷出局",
+        "onboard_time": 1737436159,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225028,
+        "num": 225028,
+        "word": "曾黎的抹额火到了国外",
+        "onboard_time": 1737432678,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216453,
+        "num": 216453,
+        "word": "白月梵星版最后的晚餐",
+        "onboard_time": 1737432978,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207564,
+        "num": 207564,
+        "word": "白敬亭章若楠录hi6",
+        "onboard_time": 1737435799,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185177,
+        "num": 185177,
+        "word": "美国最大规模非法移民驱逐行动",
+        "onboard_time": 1737414855,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174467,
+        "num": 174467,
+        "word": "男子干电工因为太胆小成技术大神",
+        "onboard_time": 1737425837,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154267,
+        "num": 154267,
+        "word": "肖战蔡少芬新片演母子",
+        "onboard_time": 1737435138,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144165,
+        "num": 144165,
+        "word": "INTO1合体了又没完全合",
+        "onboard_time": 1737434539,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136972,
+        "num": 136972,
+        "word": "张踩铃拖家带口上辽视春晚",
+        "onboard_time": 1737433459,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135380,
+        "num": 135380,
+        "word": "王楚钦7367分世排第一",
+        "onboard_time": 1737431177,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134682,
+        "num": 134682,
+        "word": "虞书欣官宣加盟网络视听盛典",
+        "onboard_time": 1737436519,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135164,
+        "num": 132284,
+        "word": "当一个年轻人选择家里蹲啃老7年",
+        "onboard_time": 1737435499,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124340,
+        "num": 124340,
+        "word": "laser",
+        "onboard_time": 1737435679,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 122674,
+        "num": 122674,
+        "word": "网红狗艾特或是窒息死亡",
+        "onboard_time": 1737436639,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 121452,
+        "num": 121452,
+        "word": "奶奶卖咖啡总忘了收钱才能喝",
+        "onboard_time": 1737436039,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118954,
+        "num": 118954,
+        "word": "Icon复盘Rookie沙皇失误",
+        "onboard_time": 1737436398,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118170,
+        "num": 118823,
+        "word": "敖瑞鹏想和白鹿二搭演领导下属",
+        "onboard_time": 1737434840,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118761,
+        "num": 118761,
+        "word": "用甲骨文打开非遗春节",
+        "onboard_time": 1737436218,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117755,
+        "num": 117755,
+        "word": "年会游戏女子粘走一排奖金",
+        "onboard_time": 1737434240,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115639,
+        "num": 115639,
+        "word": "孟子义李昀锐浙江卫视过年",
+        "onboard_time": 1737431238,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110648,
+        "num": 110648,
+        "word": "陈牧驰大商太子变昆仑弟子",
+        "onboard_time": 1737436458,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同党外人士共迎新春#"
+    }
+  }
+}
