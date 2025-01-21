@@ -1,0 +1,410 @@
+{
+  "runTime": 1737463338073,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 881265,
+        "num": 1141002,
+        "word": "王嘉尔朱一龙王鹤棣巴黎合照",
+        "onboard_time": 1737459619,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 726196,
+        "num": 726196,
+        "word": "昆明市市长刘佳晨任上被查",
+        "onboard_time": 1737460218,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23758,
+        "num": 610284,
+        "word": "打卡北海大厂玩转蛇年新春",
+        "onboard_time": 1737460098,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 549578,
+        "num": 549578,
+        "word": "赵露思12小时ins点赞破百万",
+        "onboard_time": 1737443359,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 470022,
+        "num": 470022,
+        "word": "日本富士电视台陷性招待丑闻",
+        "onboard_time": 1737459318,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 924938,
+        "num": 463949,
+        "word": "国补后苹果手机跌破3000",
+        "onboard_time": 1737456018,
+        "rank": 5,
+        "category": "数码,民生新闻"
+      },
+      {
+        "raw_hot": 645262,
+        "num": 457911,
+        "word": "国补后iPhone16成苹果最香机",
+        "onboard_time": 1737453918,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 495451,
+        "num": 454107,
+        "word": "2025央视网络春晚全阵容",
+        "onboard_time": 1737456677,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 440078,
+        "num": 440078,
+        "word": "当年前做了美甲还要上班时",
+        "onboard_time": 1737454577,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86680,
+        "num": 373682,
+        "word": "多家企业撤下富士电视台广告",
+        "onboard_time": 1737462737,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 712563,
+        "num": 370261,
+        "word": "特朗普提中国一小时后巴拿马回怼",
+        "onboard_time": 1737438317,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 361416,
+        "num": 361416,
+        "word": "2025春节档预售3天破3亿",
+        "onboard_time": 1737451759,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 360767,
+        "num": 360767,
+        "word": "吴奇隆刘诗诗结婚十周年",
+        "onboard_time": 1737439818,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351375,
+        "num": 351375,
+        "word": "国色芳华第二季",
+        "onboard_time": 1737447438,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286391,
+        "num": 286391,
+        "word": "白色橄榄树连更15天",
+        "onboard_time": 1737462978,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284034,
+        "num": 284034,
+        "word": "四川乐山3.7级地震",
+        "onboard_time": 1737457458,
+        "rank": 15,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 263841,
+        "num": 263841,
+        "word": "工行回应女子存款80万取不出",
+        "onboard_time": 1737447618,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224407,
+        "num": 224407,
+        "word": "第一批聪明的人已经堵在路上",
+        "onboard_time": 1737435739,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179402,
+        "num": 224366,
+        "word": "打工不易哪吒敖丙也要卖艺",
+        "onboard_time": 1737462737,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33658,
+        "num": 224020,
+        "word": "潘宏广告报价高达50万",
+        "onboard_time": 1737461298,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 736638,
+        "num": 223735,
+        "word": "这跟和娜扎谈了有什么区别",
+        "onboard_time": 1737457819,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309143,
+        "num": 223450,
+        "word": "空腹断食42小时的变化",
+        "onboard_time": 1737454218,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 249105,
+        "num": 223250,
+        "word": "漂白",
+        "onboard_time": 1737438258,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248664,
+        "num": 222882,
+        "word": "李昀锐三十年河东三十年河西",
+        "onboard_time": 1737458298,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106808,
+        "num": 222705,
+        "word": "陈梦分享奥运会后生活状态",
+        "onboard_time": 1737462199,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222489,
+        "num": 222489,
+        "word": "刘浩存进组新剧主角",
+        "onboard_time": 1737460698,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221324,
+        "num": 221324,
+        "word": "aespa中国首展",
+        "onboard_time": 1737461298,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 215492,
+        "num": 215492,
+        "word": "特朗普继续威胁TikTok",
+        "onboard_time": 1737461959,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 206243,
+        "num": 206243,
+        "word": "美政府关闭入境App移民大哭",
+        "onboard_time": 1737450379,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 205799,
+        "num": 205799,
+        "word": "男孩在家背4个加特林从下午等到天黑",
+        "onboard_time": 1737461059,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194131,
+        "num": 194131,
+        "word": "春节档最期待的电影角色",
+        "onboard_time": 1737457997,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190662,
+        "num": 190662,
+        "word": "漂白热度",
+        "onboard_time": 1737461419,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188474,
+        "num": 188474,
+        "word": "吴奇隆刘诗诗曾谈公开恋情",
+        "onboard_time": 1737457878,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162184,
+        "num": 162184,
+        "word": "漂白年夜犯",
+        "onboard_time": 1737462558,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155330,
+        "num": 155330,
+        "word": "为什么往往剧中反派更带感",
+        "onboard_time": 1737456438,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155139,
+        "num": 155139,
+        "word": "特朗普宣布美国退出世界卫生组织",
+        "onboard_time": 1737423857,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154434,
+        "num": 154434,
+        "word": "中方回应特朗普给TikTok75天宽限期",
+        "onboard_time": 1737459440,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152267,
+        "num": 152267,
+        "word": "俞敏洪称没雷军小米卖不了这么好",
+        "onboard_time": 1737459918,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 145970,
+        "num": 145970,
+        "word": "春节档电影最想看哪部",
+        "onboard_time": 1737462258,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143033,
+        "num": 143033,
+        "word": "TTG 向鱼",
+        "onboard_time": 1737458718,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142520,
+        "num": 142520,
+        "word": "小红书APP启用新英文名",
+        "onboard_time": 1737450498,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 130323,
+        "num": 130323,
+        "word": "一顿饭做完冰箱干净多了",
+        "onboard_time": 1737459978,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129045,
+        "num": 129045,
+        "word": "BamBam否认与Jennie恋爱",
+        "onboard_time": 1737463158,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128345,
+        "num": 128345,
+        "word": "朱亚文方否认离婚",
+        "onboard_time": 1737447018,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126636,
+        "num": 126636,
+        "word": "任嘉伦不吃的都是我爱吃的",
+        "onboard_time": 1737460398,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115525,
+        "num": 115525,
+        "word": "父亲把你放心上你把父亲嵌墙上",
+        "onboard_time": 1737463099,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113143,
+        "num": 113143,
+        "word": "肖战蔡少芬演技",
+        "onboard_time": 1737460578,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112804,
+        "num": 112804,
+        "word": "王楚然生日直播",
+        "onboard_time": 1737461419,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106593,
+        "num": 106593,
+        "word": "张博恒揭秘奥运最艰难的1分钟",
+        "onboard_time": 1737457878,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103523,
+        "num": 103523,
+        "word": "李昀锐从面具缝里喝咖啡",
+        "onboard_time": 1737462258,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同党外人士共迎新春#"
+    }
+  }
+}

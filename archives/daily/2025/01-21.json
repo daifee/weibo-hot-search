@@ -1,6 +1,6 @@
 {
   "startTime": 1737390442496,
-  "endTime": 1737459357074,
+  "endTime": 1737463338073,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 924938,
+      "num": 1112257,
+      "word": "国补后苹果手机跌破3000",
+      "onboard_time": 1737456018,
+      "rank": 49,
+      "category": "数码,民生新闻"
+    },
+    {
       "raw_hot": 921435,
       "num": 921435,
       "word": "难哄",
@@ -225,6 +233,14 @@
       "onboard_time": 1737384201,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 881265,
+      "num": 1141002,
+      "word": "王嘉尔朱一龙王鹤棣巴黎合照",
+      "onboard_time": 1737459619,
+      "rank": 0,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 858011,
@@ -291,6 +307,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 736638,
+      "num": 550265,
+      "word": "这跟和娜扎谈了有什么区别",
+      "onboard_time": 1737457819,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 734994,
       "num": 343964,
       "word": "光遇",
@@ -299,12 +323,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 701610,
-      "num": 1112257,
-      "word": "国补后苹果手机跌破3000",
-      "onboard_time": 1737456018,
-      "rank": 49,
-      "category": "数码,民生新闻"
+      "raw_hot": 726196,
+      "num": 726196,
+      "word": "昆明市市长刘佳晨任上被查",
+      "onboard_time": 1737460218,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 698046,
@@ -337,14 +361,6 @@
       "onboard_time": 1737400872,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 627155,
-      "num": 550265,
-      "word": "这跟和娜扎谈了有什么区别",
-      "onboard_time": 1737457819,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 626079,
@@ -489,6 +505,14 @@
       "onboard_time": 1737387737,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 470022,
+      "num": 470022,
+      "word": "日本富士电视台陷性招待丑闻",
+      "onboard_time": 1737459318,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 465879,
@@ -753,6 +777,14 @@
       "onboard_time": 1737395532,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 286391,
+      "num": 286391,
+      "word": "白色橄榄树连更15天",
+      "onboard_time": 1737462978,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 284964,
@@ -1043,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222489,
+      "num": 222489,
+      "word": "刘浩存进组新剧主角",
+      "onboard_time": 1737460698,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221548,
       "num": 221548,
       "word": "网红坦白视频造假后TikTok恢复运营",
@@ -1051,12 +1091,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 221324,
+      "num": 221324,
+      "word": "aespa中国首展",
+      "onboard_time": 1737461298,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 215817,
       "num": 243904,
       "word": "秦彻百城大银幕",
       "onboard_time": 1737454457,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 215492,
+      "num": 215492,
+      "word": "特朗普继续威胁TikTok",
+      "onboard_time": 1737461959,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 211012,
@@ -1073,6 +1129,14 @@
       "onboard_time": 1737437719,
       "rank": 27,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 205799,
+      "num": 205799,
+      "word": "男孩在家背4个加特林从下午等到天黑",
+      "onboard_time": 1737461059,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205513,
@@ -1152,6 +1216,14 @@
       "word": "杨紫谈工作和生活中的自己",
       "onboard_time": 1737447558,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 190662,
+      "num": 190662,
+      "word": "漂白热度",
+      "onboard_time": 1737461419,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -1249,6 +1321,14 @@
       "onboard_time": 1737453558,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179402,
+      "num": 224366,
+      "word": "打工不易哪吒敖丙也要卖艺",
+      "onboard_time": 1737462737,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 178686,
@@ -1411,6 +1491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162184,
+      "num": 162184,
+      "word": "漂白年夜犯",
+      "onboard_time": 1737462558,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160245,
       "num": 160245,
       "word": "福卡",
@@ -1483,6 +1571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155330,
+      "num": 173370,
+      "word": "为什么往往剧中反派更带感",
+      "onboard_time": 1737456438,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155165,
       "num": 140012,
       "word": "苏享茂家属称翟欣欣认罪认罚",
@@ -1507,6 +1603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 154434,
+      "num": 154434,
+      "word": "中方回应特朗普给TikTok75天宽限期",
+      "onboard_time": 1737459440,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 154330,
       "num": 154330,
       "word": "2025央视网络春晚首波阵容官宣",
@@ -1529,6 +1633,14 @@
       "onboard_time": 1737451397,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 152267,
+      "num": 152267,
+      "word": "俞敏洪称没雷军小米卖不了这么好",
+      "onboard_time": 1737459918,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 149904,
@@ -1571,6 +1683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145970,
+      "num": 145970,
+      "word": "春节档电影最想看哪部",
+      "onboard_time": 1737462258,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 145874,
       "num": 145874,
       "word": "迪丽热巴慕胥辞候场路透",
@@ -1603,8 +1723,8 @@
       "category": "体育,时尚"
     },
     {
-      "raw_hot": 142097,
-      "num": 142097,
+      "raw_hot": 143033,
+      "num": 143033,
       "word": "TTG 向鱼",
       "onboard_time": 1737458718,
       "rank": 33,
@@ -1779,6 +1899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 130323,
+      "num": 130323,
+      "word": "一顿饭做完冰箱干净多了",
+      "onboard_time": 1737459978,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130130,
       "num": 261591,
       "word": "周锐和张馨月在选秀前就在一起了",
@@ -1801,6 +1929,14 @@
       "onboard_time": 1737448398,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129045,
+      "num": 129045,
+      "word": "BamBam否认与Jennie恋爱",
+      "onboard_time": 1737463158,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 128849,
@@ -1833,6 +1969,14 @@
       "onboard_time": 1737447859,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126636,
+      "num": 126636,
+      "word": "任嘉伦不吃的都是我爱吃的",
+      "onboard_time": 1737460398,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 126542,
@@ -1897,14 +2041,6 @@
       "onboard_time": 1737459199,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 123325,
-      "num": 173370,
-      "word": "为什么往往剧中反派更带感",
-      "onboard_time": 1737456438,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 123234,
@@ -2067,6 +2203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115525,
+      "num": 115525,
+      "word": "父亲把你放心上你把父亲嵌墙上",
+      "onboard_time": 1737463099,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 115183,
       "num": 115183,
       "word": "花海出发英国",
@@ -2091,20 +2235,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 113685,
-      "num": 113685,
-      "word": "日本富士电视台陷性招待丑闻",
-      "onboard_time": 1737459318,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 113554,
       "num": 113554,
       "word": "蔡少芬肖战互相喊娘和崽",
       "onboard_time": 1737441438,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 113143,
+      "num": 113143,
+      "word": "肖战蔡少芬演技",
+      "onboard_time": 1737460578,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 112804,
+      "num": 112804,
+      "word": "王楚然生日直播",
+      "onboard_time": 1737461419,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 112644,
@@ -2195,6 +2347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106808,
+      "num": 222705,
+      "word": "陈梦分享奥运会后生活状态",
+      "onboard_time": 1737462199,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106010,
       "num": 106010,
       "word": "神十九乘组上演太空夸夸",
@@ -2241,6 +2401,14 @@
       "onboard_time": 1737442278,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 103523,
+      "num": 103523,
+      "word": "李昀锐从面具缝里喝咖啡",
+      "onboard_time": 1737462258,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 103424,
@@ -2385,6 +2553,14 @@
       "onboard_time": 1737391036,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86680,
+      "num": 373682,
+      "word": "多家企业撤下富士电视台广告",
+      "onboard_time": 1737462737,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 86364,
@@ -2739,6 +2915,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 33658,
+      "num": 224020,
+      "word": "潘宏广告报价高达50万",
+      "onboard_time": 1737461298,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
       "raw_hot": 30380,
       "num": 60724,
       "word": "樊振东的时装周初亮相",
@@ -2785,6 +2969,14 @@
       "onboard_time": 1737381800,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23758,
+      "num": 610284,
+      "word": "打卡北海大厂玩转蛇年新春",
+      "onboard_time": 1737460098,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23613,

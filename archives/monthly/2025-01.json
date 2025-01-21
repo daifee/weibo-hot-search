@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737459357074,
+  "endTime": 1737463338073,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -5395,6 +5395,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 924938,
+      "num": 1112257,
+      "word": "国补后苹果手机跌破3000",
+      "onboard_time": 1737456018,
+      "rank": 49,
+      "category": "数码,民生新闻"
+    },
+    {
       "raw_hot": 924324,
       "num": 793494,
       "word": "韩国客机失事前疑撞上鸟群画面曝光",
@@ -5817,6 +5825,14 @@
       "onboard_time": 1735816639,
       "rank": 34,
       "category": "网红"
+    },
+    {
+      "raw_hot": 881265,
+      "num": 1141002,
+      "word": "王嘉尔朱一龙王鹤棣巴黎合照",
+      "onboard_time": 1737459619,
+      "rank": 0,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 880817,
@@ -7403,6 +7419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 736638,
+      "num": 550265,
+      "word": "这跟和娜扎谈了有什么区别",
+      "onboard_time": 1737457819,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 736629,
       "num": 736629,
       "word": "何炅谢娜给我唱哭了",
@@ -7577,6 +7601,14 @@
       "onboard_time": 1736326342,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 726196,
+      "num": 726196,
+      "word": "昆明市市长刘佳晨任上被查",
+      "onboard_time": 1737460218,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 725729,
@@ -7849,14 +7881,6 @@
       "onboard_time": 1736582364,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 701610,
-      "num": 1112257,
-      "word": "国补后苹果手机跌破3000",
-      "onboard_time": 1737456018,
-      "rank": 49,
-      "category": "数码,民生新闻"
     },
     {
       "raw_hot": 701241,
@@ -9137,14 +9161,6 @@
       "onboard_time": 1736466919,
       "rank": 5,
       "category": "美食,民生新闻"
-    },
-    {
-      "raw_hot": 627155,
-      "num": 550265,
-      "word": "这跟和娜扎谈了有什么区别",
-      "onboard_time": 1737457819,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 626897,
@@ -12617,6 +12633,14 @@
       "onboard_time": 1736135364,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 470022,
+      "num": 470022,
+      "word": "日本富士电视台陷性招待丑闻",
+      "onboard_time": 1737459318,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 469784,
@@ -20643,6 +20667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286391,
+      "num": 286391,
+      "word": "白色橄榄树连更15天",
+      "onboard_time": 1737462978,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 286376,
       "num": 547187,
       "word": "美国车辆冲撞行人事件致10人死亡",
@@ -25891,6 +25923,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 222489,
+      "num": 222489,
+      "word": "刘浩存进组新剧主角",
+      "onboard_time": 1737460698,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222369,
       "num": 222369,
       "word": "霸王茶姬称冰勃朗不是植脂末",
@@ -26057,6 +26097,14 @@
       "onboard_time": 1736739138,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 221324,
+      "num": 221324,
+      "word": "aespa中国首展",
+      "onboard_time": 1737461298,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 221092,
@@ -26753,6 +26801,14 @@
       "onboard_time": 1736672299,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215492,
+      "num": 215492,
+      "word": "特朗普继续威胁TikTok",
+      "onboard_time": 1737461959,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 215409,
@@ -28129,6 +28185,14 @@
       "onboard_time": 1736674098,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205799,
+      "num": 205799,
+      "word": "男孩在家背4个加特林从下午等到天黑",
+      "onboard_time": 1737461059,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205771,
@@ -31611,6 +31675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190662,
+      "num": 190662,
+      "word": "漂白热度",
+      "onboard_time": 1737461419,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190590,
       "num": 190590,
       "word": "丁禹兮捡彩带",
@@ -33985,6 +34057,14 @@
       "onboard_time": 1736993957,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 179402,
+      "num": 224366,
+      "word": "打工不易哪吒敖丙也要卖艺",
+      "onboard_time": 1737462737,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 179370,
@@ -37779,6 +37859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162184,
+      "num": 162184,
+      "word": "漂白年夜犯",
+      "onboard_time": 1737462558,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162174,
       "num": 185256,
       "word": "被困冰层下冬泳者已被打捞上岸",
@@ -39579,6 +39667,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 155330,
+      "num": 173370,
+      "word": "为什么往往剧中反派更带感",
+      "onboard_time": 1737456438,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155305,
       "num": 155305,
       "word": "演员邓友称曾遭遇相似泰国拍戏骗局",
@@ -39769,6 +39865,14 @@
       "onboard_time": 1737444138,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 154434,
+      "num": 154434,
+      "word": "中方回应特朗普给TikTok75天宽限期",
+      "onboard_time": 1737459440,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 154401,
@@ -40265,6 +40369,14 @@
       "onboard_time": 1736834658,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 152267,
+      "num": 152267,
+      "word": "俞敏洪称没雷军小米卖不了这么好",
+      "onboard_time": 1737459918,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 152255,
@@ -41755,6 +41867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145970,
+      "num": 145970,
+      "word": "春节档电影最想看哪部",
+      "onboard_time": 1737462258,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 145955,
       "num": 144468,
       "word": "张艺兴央视蛇年春晚第三次联排",
@@ -42427,6 +42547,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 143033,
+      "num": 143033,
+      "word": "TTG 向鱼",
+      "onboard_time": 1737458718,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 143014,
       "num": 143014,
       "word": "驻站6个考点成为考公素材",
@@ -42665,14 +42793,6 @@
       "onboard_time": 1735814659,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 142097,
-      "num": 142097,
-      "word": "TTG 向鱼",
-      "onboard_time": 1737458718,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 142096,
@@ -45931,6 +46051,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 130323,
+      "num": 130323,
+      "word": "一顿饭做完冰箱干净多了",
+      "onboard_time": 1737459978,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130299,
       "num": 256564,
       "word": "19岁大学生离世捐器官救4人",
@@ -46225,6 +46353,14 @@
       "onboard_time": 1736218761,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129045,
+      "num": 129045,
+      "word": "BamBam否认与Jennie恋爱",
+      "onboard_time": 1737463158,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 129041,
@@ -46825,6 +46961,14 @@
       "onboard_time": 1737004098,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 126636,
+      "num": 126636,
+      "word": "任嘉伦不吃的都是我爱吃的",
+      "onboard_time": 1737460398,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 126630,
@@ -47753,14 +47897,6 @@
       "onboard_time": 1737337937,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 123325,
-      "num": 173370,
-      "word": "为什么往往剧中反派更带感",
-      "onboard_time": 1737456438,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 123234,
@@ -49995,6 +50131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 115525,
+      "num": 115525,
+      "word": "父亲把你放心上你把父亲嵌墙上",
+      "onboard_time": 1737463099,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 115512,
       "num": 115512,
       "word": "张帅vs高芙",
@@ -50507,14 +50651,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 113685,
-      "num": 113685,
-      "word": "日本富士电视台陷性招待丑闻",
-      "onboard_time": 1737459318,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 113659,
       "num": 113659,
       "word": "小朋友合唱如愿再一看美国的",
@@ -50699,6 +50835,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 113143,
+      "num": 113143,
+      "word": "肖战蔡少芬演技",
+      "onboard_time": 1737460578,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 113131,
       "num": 113131,
       "word": "大熊猫也是闯进非遗皮影戏赛道了",
@@ -50745,6 +50889,14 @@
       "onboard_time": 1736302340,
       "rank": 40,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 112804,
+      "num": 112804,
+      "word": "王楚然生日直播",
+      "onboard_time": 1737461419,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 112752,
@@ -52019,6 +52171,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 106808,
+      "num": 222705,
+      "word": "陈梦分享奥运会后生活状态",
+      "onboard_time": 1737462199,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106785,
       "num": 106785,
       "word": "网传极越开始返聘员工",
@@ -52809,6 +52969,14 @@
       "onboard_time": 1736926700,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103523,
+      "num": 103523,
+      "word": "李昀锐从面具缝里喝咖啡",
+      "onboard_time": 1737462258,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 103512,
@@ -55465,6 +55633,14 @@
       "onboard_time": 1736146643,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86680,
+      "num": 373682,
+      "word": "多家企业撤下富士电视台广告",
+      "onboard_time": 1737462737,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 86656,
@@ -62763,6 +62939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 33658,
+      "num": 224020,
+      "word": "潘宏广告报价高达50万",
+      "onboard_time": 1737461298,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
       "raw_hot": 33477,
       "num": 872279,
       "word": "新春南宁老友记",
@@ -64761,6 +64945,14 @@
       "onboard_time": 1735928533,
       "rank": 25,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 23758,
+      "num": 610284,
+      "word": "打卡北海大厂玩转蛇年新春",
+      "onboard_time": 1737460098,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23699,
