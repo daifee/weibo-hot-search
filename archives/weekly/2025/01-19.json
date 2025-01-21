@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737501658460,
+  "endTime": 1737502534652,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -579,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1015817,
+      "num": 158993,
+      "word": "韩国网友抵制宋慧乔新片",
+      "onboard_time": 1737501735,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1014203,
       "num": 602464,
       "word": "特朗普一提中国外媒马上澄清",
@@ -988,7 +996,7 @@
     },
     {
       "raw_hot": 691735,
-      "num": 691735,
+      "num": 859504,
       "word": "男生花7百买101小时硬座回家后续",
       "onboard_time": 1737464720,
       "rank": 29,
@@ -1547,6 +1555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 493855,
+      "num": 434438,
+      "word": "潘宏道歉文已获近70万点赞",
+      "onboard_time": 1737493571,
+      "rank": 1,
+      "category": "网红"
+    },
+    {
       "raw_hot": 491390,
       "num": 491390,
       "word": "2025春节档预售破亿",
@@ -1777,14 +1793,6 @@
       "onboard_time": 1737432678,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 434438,
-      "num": 434438,
-      "word": "潘宏道歉文已获近70万点赞",
-      "onboard_time": 1737493571,
-      "rank": 1,
-      "category": "网红"
     },
     {
       "raw_hot": 432448,
@@ -2801,6 +2809,14 @@
       "onboard_time": 1737418697,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 266950,
+      "num": 149921,
+      "word": "沈梦辰国色芳华出场镜头",
+      "onboard_time": 1737501555,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 266031,
@@ -3867,6 +3883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194841,
+      "num": 194841,
+      "word": "小年",
+      "onboard_time": 1737501495,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 194827,
       "num": 194827,
       "word": "章昊垫底辣孩cha",
@@ -4177,6 +4201,14 @@
       "onboard_time": 1737293179,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 186656,
+      "num": 140921,
+      "word": "第一批烫发的受害者出现了",
+      "onboard_time": 1737501555,
+      "rank": 21,
+      "category": "美妆,幽默"
     },
     {
       "raw_hot": 186587,
@@ -4779,6 +4811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166806,
+      "num": 147563,
+      "word": "美国退出巴黎协定意味着什么",
+      "onboard_time": 1737491711,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 166794,
       "num": 166794,
       "word": "潘宏直播间专业用语",
@@ -4873,6 +4913,14 @@
       "onboard_time": 1737448217,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163734,
+      "num": 163734,
+      "word": "特朗普就职典礼出意外木头姐救场",
+      "onboard_time": 1737487451,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 163730,
@@ -6059,14 +6107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136099,
-      "num": 136099,
-      "word": "小年",
-      "onboard_time": 1737501495,
-      "rank": 12,
-      "category": "情感"
-    },
-    {
       "raw_hot": 136036,
       "num": 183894,
       "word": "翟欣欣涉嫌敲诈勒索案择期宣判",
@@ -6241,14 +6281,6 @@
       "onboard_time": 1737363078,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132061,
-      "num": 132061,
-      "word": "特朗普就职典礼出意外木头姐救场",
-      "onboard_time": 1737487451,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 131179,
@@ -6449,14 +6481,6 @@
       "onboard_time": 1737197539,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 127130,
-      "num": 127130,
-      "word": "美国退出巴黎协定意味着什么",
-      "onboard_time": 1737491711,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 127117,
@@ -7041,14 +7065,6 @@
       "onboard_time": 1737463099,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 115190,
-      "num": 115190,
-      "word": "第一批烫发的受害者出现了",
-      "onboard_time": 1737501555,
-      "rank": 21,
-      "category": "美妆,幽默"
     },
     {
       "raw_hot": 115183,
@@ -8187,14 +8203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88540,
-      "num": 102463,
-      "word": "沈梦辰国色芳华出场镜头",
-      "onboard_time": 1737501555,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 88511,
       "num": 242488,
       "word": "中国液氧煤油火箭发动机一日三试",
@@ -8241,6 +8249,14 @@
       "onboard_time": 1737269537,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85897,
+      "num": 147366,
+      "word": "特朗普称考虑对墨西哥加拿大征收25%的关税",
+      "onboard_time": 1737488472,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 85726,
@@ -8379,19 +8395,19 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 80776,
+      "num": 141004,
+      "word": "王菲好友否认参加春晚",
+      "onboard_time": 1737493571,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 79507,
       "num": 75046,
       "word": "李小冉说向太胖",
       "onboard_time": 1737236771,
       "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 79471,
-      "num": 79471,
-      "word": "王菲好友否认参加春晚",
-      "onboard_time": 1737493571,
-      "rank": 39,
       "category": "综艺"
     },
     {
@@ -8443,6 +8459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77951,
+      "num": 77951,
+      "word": "欧冠",
+      "onboard_time": 1737502456,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77772,
       "num": 94732,
       "word": "海边这种爆爆珠不建议rua",
@@ -8473,6 +8497,14 @@
       "onboard_time": 1737476537,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76819,
+      "num": 92130,
+      "word": "李昀锐葡萄干变葡萄枝了",
+      "onboard_time": 1737501614,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 76516,
@@ -8537,14 +8569,6 @@
       "onboard_time": 1737328995,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 73591,
-      "num": 147366,
-      "word": "特朗普称考虑对墨西哥加拿大征收25%的关税",
-      "onboard_time": 1737488472,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 73342,
@@ -8651,6 +8675,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 65119,
+      "num": 65119,
+      "word": "特朗普解除1000多名拜登政府官员职务",
+      "onboard_time": 1737501614,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 64999,
       "num": 324992,
       "word": "光头强一开嗓年就来了",
@@ -8688,6 +8720,14 @@
       "word": "萨巴伦卡vs安德列娃",
       "onboard_time": 1737251958,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 62407,
+      "num": 62407,
+      "word": "本菲卡4比5巴萨",
+      "onboard_time": 1737501495,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -8779,6 +8819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 57354,
+      "num": 656532,
+      "word": "浓浓的年味已经扑面而来",
+      "onboard_time": 1737465919,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57122,
       "num": 85221,
       "word": "请永远将自己的感觉置顶",
@@ -8795,28 +8843,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 56147,
-      "num": 56147,
-      "word": "李昀锐葡萄干变葡萄枝了",
-      "onboard_time": 1737501614,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 55898,
-      "num": 656532,
-      "word": "浓浓的年味已经扑面而来",
-      "onboard_time": 1737465919,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55404,
       "num": 55404,
       "word": "请汪苏泷远离粉丝生活",
       "onboard_time": 1737478515,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 55280,
+      "num": 55280,
+      "word": "杨紫回应国色芳华第二季",
+      "onboard_time": 1737485651,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 54981,
@@ -8891,14 +8931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 51979,
-      "num": 51979,
-      "word": "杨紫回应国色芳华第二季",
-      "onboard_time": 1737485651,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 51688,
       "num": 1036813,
       "word": "9张对比图看黄河变化有多大",
@@ -8921,6 +8953,14 @@
       "onboard_time": 1737445217,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 51472,
+      "num": 51472,
+      "word": "三星堆博物馆偶遇宋茜",
+      "onboard_time": 1737500594,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 51375,
@@ -8971,6 +9011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50646,
+      "num": 50646,
+      "word": "利物浦2比1里尔",
+      "onboard_time": 1737501675,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50343,
       "num": 229889,
       "word": "乔兮星宇花卷挂牌",
@@ -9001,14 +9049,6 @@
       "onboard_time": 1737243074,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 49138,
-      "num": 49138,
-      "word": "本菲卡4比5巴萨",
-      "onboard_time": 1737501495,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 48338,
@@ -9043,6 +9083,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 47644,
+      "num": 47644,
+      "word": "异人之下之决战碧游村",
+      "onboard_time": 1737480913,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 47612,
       "num": 98145,
       "word": "请查收来自孙颖莎的新春祝福",
@@ -9059,11 +9107,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 47271,
-      "num": 47271,
-      "word": "异人之下之决战碧游村",
-      "onboard_time": 1737480913,
-      "rank": 47,
+      "raw_hot": 46870,
+      "num": 46870,
+      "word": "成毅赴山海白发打戏花絮",
+      "onboard_time": 1737502515,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -9139,14 +9187,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 41475,
-      "num": 41475,
-      "word": "三星堆博物馆偶遇宋茜",
-      "onboard_time": 1737500594,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 40636,
       "num": 59262,
       "word": "贺峻霖给严浩翔送祝福",
@@ -9193,14 +9233,6 @@
       "onboard_time": 1737398653,
       "rank": 24,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 37750,
-      "num": 37750,
-      "word": "特朗普解除1000多名拜登政府官员职务",
-      "onboard_time": 1737501614,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 37538,
@@ -9569,6 +9601,14 @@
       "onboard_time": 1737484392,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23284,
+      "num": 121145,
+      "word": "樊振东跟90岁时装大师灵魂共鸣",
+      "onboard_time": 1737502216,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 23091,

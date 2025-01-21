@@ -1,6 +1,6 @@
 {
   "startTime": 1737476916141,
-  "endTime": 1737501658460,
+  "endTime": 1737502534652,
   "band_list": [
     {
       "raw_hot": 1080888,
@@ -9,6 +9,14 @@
       "onboard_time": 1737477796,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1015817,
+      "num": 158993,
+      "word": "韩国网友抵制宋慧乔新片",
+      "onboard_time": 1737501735,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 840926,
@@ -35,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 493855,
+      "num": 434438,
+      "word": "潘宏道歉文已获近70万点赞",
+      "onboard_time": 1737493571,
+      "rank": 1,
+      "category": "网红"
+    },
+    {
       "raw_hot": 461481,
       "num": 419181,
       "word": "国补后iPhone16成苹果最香机",
@@ -51,20 +67,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 434438,
-      "num": 434438,
-      "word": "潘宏道歉文已获近70万点赞",
-      "onboard_time": 1737493571,
-      "rank": 1,
-      "category": "网红"
-    },
-    {
       "raw_hot": 373789,
       "num": 373789,
       "word": "赵露思12小时ins点赞破百万",
       "onboard_time": 1737443359,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 356168,
+      "num": 859504,
+      "word": "男生花7百买101小时硬座回家后续",
+      "onboard_time": 1737464720,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 349532,
@@ -91,6 +107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 277426,
+      "num": 203495,
+      "word": "特朗普提中国一小时后巴拿马回怼",
+      "onboard_time": 1737438317,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 276905,
       "num": 276905,
       "word": "浙江人半夜被摇醒了",
@@ -99,12 +123,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 270171,
-      "num": 203495,
-      "word": "特朗普提中国一小时后巴拿马回怼",
-      "onboard_time": 1737438317,
-      "rank": 13,
-      "category": "国际时政"
+      "raw_hot": 266950,
+      "num": 149921,
+      "word": "沈梦辰国色芳华出场镜头",
+      "onboard_time": 1737501555,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 266626,
+      "num": 152302,
+      "word": "胎儿在妈妈肚子里患上阑尾炎",
+      "onboard_time": 1737467299,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 261661,
@@ -115,28 +147,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 255163,
-      "num": 255163,
-      "word": "男生花7百买101小时硬座回家后续",
-      "onboard_time": 1737464720,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 240266,
       "num": 240266,
       "word": "春晚彩排",
       "onboard_time": 1737471259,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 239316,
-      "num": 152302,
-      "word": "胎儿在妈妈肚子里患上阑尾炎",
-      "onboard_time": 1737467299,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 208378,
@@ -155,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194841,
+      "num": 194841,
+      "word": "小年",
+      "onboard_time": 1737501495,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189420,
       "num": 188686,
       "word": "王嘉尔朱一龙王鹤棣巴黎合照",
@@ -171,6 +195,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186656,
+      "num": 140921,
+      "word": "第一批烫发的受害者出现了",
+      "onboard_time": 1737501555,
+      "rank": 21,
+      "category": "美妆,幽默"
+    },
+    {
+      "raw_hot": 181526,
+      "num": 181526,
+      "word": "国补后苹果手机跌破3000",
+      "onboard_time": 1737456018,
+      "rank": 18,
+      "category": "数码,民生新闻"
+    },
+    {
       "raw_hot": 179581,
       "num": 179581,
       "word": "无畏打野",
@@ -179,20 +219,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 166806,
+      "num": 147563,
+      "word": "美国退出巴黎协定意味着什么",
+      "onboard_time": 1737491711,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 163734,
+      "num": 163734,
+      "word": "特朗普就职典礼出意外木头姐救场",
+      "onboard_time": 1737487451,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 156190,
       "num": 151853,
       "word": "这跟和娜扎谈了有什么区别",
       "onboard_time": 1737457819,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 154682,
-      "num": 154682,
-      "word": "国补后苹果手机跌破3000",
-      "onboard_time": 1737456018,
-      "rank": 18,
-      "category": "数码,民生新闻"
     },
     {
       "raw_hot": 153262,
@@ -243,30 +291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 136099,
-      "num": 136099,
-      "word": "小年",
-      "onboard_time": 1737501495,
-      "rank": 12,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 132061,
-      "num": 132061,
-      "word": "特朗普就职典礼出意外木头姐救场",
-      "onboard_time": 1737487451,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 127130,
-      "num": 127130,
-      "word": "美国退出巴黎协定意味着什么",
-      "onboard_time": 1737491711,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 123042,
       "num": 123042,
       "word": "李威被警方第三次传唤",
@@ -284,19 +308,11 @@
     },
     {
       "raw_hot": 115378,
-      "num": 115378,
+      "num": 141147,
       "word": "漂白10集反转",
       "onboard_time": 1737465318,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 115190,
-      "num": 115190,
-      "word": "第一批烫发的受害者出现了",
-      "onboard_time": 1737501555,
-      "rank": 21,
-      "category": "美妆,幽默"
     },
     {
       "raw_hot": 112084,
@@ -363,20 +379,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 88540,
-      "num": 102463,
-      "word": "沈梦辰国色芳华出场镜头",
-      "onboard_time": 1737501555,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 86232,
       "num": 86232,
       "word": "杨紫觉得国色芳华好像才刚刚开始",
       "onboard_time": 1737466219,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85897,
+      "num": 147366,
+      "word": "特朗普称考虑对墨西哥加拿大征收25%的关税",
+      "onboard_time": 1737488472,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 85726,
@@ -427,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 80776,
+      "num": 141004,
+      "word": "王菲好友否认参加春晚",
+      "onboard_time": 1737493571,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80635,
       "num": 80635,
       "word": "2025春节档预售3天破3亿",
@@ -443,12 +467,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 79471,
-      "num": 79471,
-      "word": "王菲好友否认参加春晚",
-      "onboard_time": 1737493571,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 77951,
+      "num": 77951,
+      "word": "欧冠",
+      "onboard_time": 1737502456,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 76920,
@@ -459,20 +483,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76819,
+      "num": 92130,
+      "word": "李昀锐葡萄干变葡萄枝了",
+      "onboard_time": 1737501614,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 76516,
       "num": 141946,
       "word": "刘诗诗曾说好的爱情是彼此用心",
       "onboard_time": 1737474498,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 73591,
-      "num": 147366,
-      "word": "特朗普称考虑对墨西哥加拿大征收25%的关税",
-      "onboard_time": 1737488472,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 73084,
@@ -491,12 +515,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 65119,
+      "num": 65119,
+      "word": "特朗普解除1000多名拜登政府官员职务",
+      "onboard_time": 1737501614,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 63766,
       "num": 79667,
       "word": "漂白恋爱还能干中学",
       "onboard_time": 1737475758,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 62407,
+      "num": 62407,
+      "word": "本菲卡4比5巴萨",
+      "onboard_time": 1737501495,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 58564,
@@ -507,15 +547,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 56147,
-      "num": 56147,
-      "word": "李昀锐葡萄干变葡萄枝了",
-      "onboard_time": 1737501614,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 55898,
+      "raw_hot": 57354,
       "num": 487101,
       "word": "浓浓的年味已经扑面而来",
       "onboard_time": 1737465919,
@@ -529,6 +561,14 @@
       "onboard_time": 1737478515,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 55280,
+      "num": 55280,
+      "word": "杨紫回应国色芳华第二季",
+      "onboard_time": 1737485651,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 54431,
@@ -547,20 +587,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 51979,
-      "num": 51979,
-      "word": "杨紫回应国色芳华第二季",
-      "onboard_time": 1737485651,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 51472,
+      "num": 51472,
+      "word": "三星堆博物馆偶遇宋茜",
+      "onboard_time": 1737500594,
+      "rank": 48,
+      "category": "艺人"
     },
     {
-      "raw_hot": 49138,
-      "num": 49138,
-      "word": "本菲卡4比5巴萨",
-      "onboard_time": 1737501495,
-      "rank": 43,
+      "raw_hot": 50646,
+      "num": 50646,
+      "word": "利物浦2比1里尔",
+      "onboard_time": 1737501675,
+      "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 47644,
+      "num": 47644,
+      "word": "异人之下之决战碧游村",
+      "onboard_time": 1737480913,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 47612,
@@ -571,11 +619,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 47271,
-      "num": 47271,
-      "word": "异人之下之决战碧游村",
-      "onboard_time": 1737480913,
-      "rank": 47,
+      "raw_hot": 46870,
+      "num": 46870,
+      "word": "成毅赴山海白发打戏花絮",
+      "onboard_time": 1737502515,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -587,28 +635,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 41475,
-      "num": 41475,
-      "word": "三星堆博物馆偶遇宋茜",
-      "onboard_time": 1737500594,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 38850,
       "num": 38850,
       "word": "外交部回应TikTok收购问题",
       "onboard_time": 1737484933,
       "rank": 24,
       "category": "国际时政,互联网"
-    },
-    {
-      "raw_hot": 37750,
-      "num": 37750,
-      "word": "特朗普解除1000多名拜登政府官员职务",
-      "onboard_time": 1737501614,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 34183,
@@ -649,6 +681,14 @@
       "onboard_time": 1737484392,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23284,
+      "num": 121145,
+      "word": "樊振东跟90岁时装大师灵魂共鸣",
+      "onboard_time": 1737502216,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 20606,
