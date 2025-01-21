@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737484244163,
+  "endTime": 1737485022985,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -9155,6 +9155,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 34183,
+      "num": 75824,
+      "word": "知情人称翟欣欣案焦点在于如何量刑",
+      "onboard_time": 1737482533,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34122,
       "num": 173962,
       "word": "2025NBA全明星投票",
@@ -9417,6 +9425,14 @@
       "onboard_time": 1737400271,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 23375,
+      "num": 23375,
+      "word": "成毅谢淮安拍立得",
+      "onboard_time": 1737484392,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 23091,
@@ -9731,14 +9747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11855,
-      "num": 75824,
-      "word": "知情人称翟欣欣案焦点在于如何量刑",
-      "onboard_time": 1737482533,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 11822,
       "num": 108517,
       "word": "还是熟悉的郭艾伦",
@@ -9769,6 +9777,14 @@
       "onboard_time": 1737229151,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10353,
+      "num": 34788,
+      "word": "外交部回应TikTok收购问题",
+      "onboard_time": 1737484933,
+      "rank": 24,
+      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 10343,

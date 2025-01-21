@@ -1,6 +1,6 @@
 {
   "startTime": 1737476916141,
-  "endTime": 1737484244163,
+  "endTime": 1737485022985,
   "band_list": [
     {
       "raw_hot": 1080888,
@@ -467,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34183,
+      "num": 75824,
+      "word": "知情人称翟欣欣案焦点在于如何量刑",
+      "onboard_time": 1737482533,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33844,
       "num": 35519,
       "word": "异人之下之决战碧游村",
@@ -499,12 +507,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 11855,
-      "num": 75824,
-      "word": "知情人称翟欣欣案焦点在于如何量刑",
-      "onboard_time": 1737482533,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 23375,
+      "num": 23375,
+      "word": "成毅谢淮安拍立得",
+      "onboard_time": 1737484392,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 10353,
+      "num": 34788,
+      "word": "外交部回应TikTok收购问题",
+      "onboard_time": 1737484933,
+      "rank": 24,
+      "category": "国际时政,互联网"
     }
   ],
   "hotgov_list": [
