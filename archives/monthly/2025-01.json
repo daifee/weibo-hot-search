@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737456052659,
+  "endTime": 1737458318577,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -2387,6 +2387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1523754,
+      "num": 1234400,
+      "word": "晋江式演技火了",
+      "onboard_time": 1737451998,
+      "rank": 43,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 1523505,
       "num": 1523505,
       "word": "地震被压废墟下戴帽小孩是AI生成",
@@ -2873,6 +2881,14 @@
       "onboard_time": 1736508080,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1359275,
+      "num": 1359275,
+      "word": "国补后iPhone16成苹果最香机",
+      "onboard_time": 1737453918,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1358503,
@@ -3441,14 +3457,6 @@
       "onboard_time": 1735808780,
       "rank": 12,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1234400,
-      "num": 1234400,
-      "word": "晋江式演技火了",
-      "onboard_time": 1737451998,
-      "rank": 43,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 1229478,
@@ -4737,14 +4745,6 @@
       "onboard_time": 1736043096,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1001831,
-      "num": 1001831,
-      "word": "国补后iPhone16成苹果最香机",
-      "onboard_time": 1737453918,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 998543,
@@ -10619,6 +10619,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 552276,
+      "num": 251283,
+      "word": "空腹断食42小时的变化",
+      "onboard_time": 1737454218,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 552208,
       "num": 552208,
       "word": "丁禹兮杂志",
@@ -10955,20 +10963,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 534655,
+      "num": 534655,
+      "word": "当年前做了美甲还要上班时",
+      "onboard_time": 1737454577,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 533969,
       "num": 533969,
       "word": "大熊猫古古去世",
       "onboard_time": 1737262458,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 532805,
-      "num": 251283,
-      "word": "空腹断食42小时的变化",
-      "onboard_time": 1737454218,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 532792,
@@ -11889,6 +11897,14 @@
       "onboard_time": 1736908819,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 499304,
+      "num": 275969,
+      "word": "国补后苹果手机跌破3000",
+      "onboard_time": 1737456018,
+      "rank": 49,
+      "category": "数码,民生新闻"
     },
     {
       "raw_hot": 499276,
@@ -16467,6 +16483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 365754,
+      "num": 365754,
+      "word": "张新成的嘴签保密协议了",
+      "onboard_time": 1737456379,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 365606,
       "num": 157607,
       "word": "在上海花2000买一个黑天鹅生日蛋糕",
@@ -17209,6 +17233,14 @@
       "onboard_time": 1736132780,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 347973,
+      "num": 347973,
+      "word": "2025央视网络春晚全阵容",
+      "onboard_time": 1737456677,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 347753,
@@ -19337,6 +19369,14 @@
       "onboard_time": 1735866440,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 307327,
+      "num": 307327,
+      "word": "四川乐山3.7级地震",
+      "onboard_time": 1737457458,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 306938,
@@ -23417,14 +23457,6 @@
       "onboard_time": 1735805118,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 249344,
-      "num": 249344,
-      "word": "当年前做了美甲还要上班时",
-      "onboard_time": 1737454577,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 249126,
@@ -29219,6 +29251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200213,
+      "num": 200213,
+      "word": "这跟和娜扎谈了有什么区别",
+      "onboard_time": 1737457819,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200204,
       "num": 150197,
       "word": "敖瑞鹏说求天道眷顾梵樾",
@@ -31209,6 +31249,14 @@
       "onboard_time": 1736436562,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191984,
+      "num": 191984,
+      "word": "时代少年团清唱剧透舞台",
+      "onboard_time": 1737457518,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 191981,
@@ -36603,6 +36651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167231,
+      "num": 167231,
+      "word": "奔跑吧相思令",
+      "onboard_time": 1737453678,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167207,
       "num": 201155,
       "word": "WTT冠军赛版权费高达300多万美元",
@@ -37915,14 +37971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 161175,
-      "num": 161175,
-      "word": "奔跑吧相思令",
-      "onboard_time": 1737453678,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 161116,
       "num": 176796,
       "word": "李现说要回来营救了",
@@ -38929,6 +38977,14 @@
       "onboard_time": 1737097817,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157601,
+      "num": 198749,
+      "word": "王者荣耀组队消费",
+      "onboard_time": 1737452238,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 157571,
@@ -41129,6 +41185,14 @@
       "onboard_time": 1736057968,
       "rank": 45,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 148024,
+      "num": 148024,
+      "word": "TWICE上海签售",
+      "onboard_time": 1737456558,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 148006,
@@ -43883,6 +43947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137162,
+      "num": 219384,
+      "word": "吴奇隆刘诗诗曾谈公开恋情",
+      "onboard_time": 1737457878,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137145,
       "num": 158270,
       "word": "邱贻可晒和孙颖莎合照",
@@ -44139,6 +44211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 136230,
+      "num": 136230,
+      "word": "久诚 如果回到梦开始的地方",
+      "onboard_time": 1737456918,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136224,
       "num": 136224,
       "word": "刘宇宁读信哽咽了",
@@ -44331,6 +44411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135680,
+      "num": 136541,
+      "word": "张博恒揭秘奥运最艰难的1分钟",
+      "onboard_time": 1737457878,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135648,
       "num": 135648,
       "word": "比亚迪APP今早疑似崩溃",
@@ -44404,7 +44492,7 @@
     },
     {
       "raw_hot": 135435,
-      "num": 135435,
+      "num": 179566,
       "word": "除夕夜家庭喜剧抢先看",
       "onboard_time": 1737455658,
       "rank": 41,
@@ -46531,6 +46619,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 127284,
+      "num": 127284,
+      "word": "白鹿不是白烁是黑烁",
+      "onboard_time": 1737458118,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127268,
       "num": 203775,
       "word": "深圳大学女团亚军",
@@ -47611,6 +47707,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 123325,
+      "num": 173370,
+      "word": "为什么往往剧中反派更带感",
+      "onboard_time": 1737456438,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123234,
       "num": 123234,
       "word": "敖瑞鹏想和白鹿二搭演领导下属",
@@ -48281,6 +48385,14 @@
       "onboard_time": 1736851999,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120996,
+      "num": 120996,
+      "word": "致1999年的自己",
+      "onboard_time": 1737458238,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 120987,
@@ -49521,6 +49633,14 @@
       "onboard_time": 1737256398,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 116832,
+      "num": 116832,
+      "word": "春节档最期待的电影角色",
+      "onboard_time": 1737457997,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 116747,
@@ -51283,14 +51403,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 109873,
-      "num": 109873,
-      "word": "王者荣耀组队消费",
-      "onboard_time": 1737452238,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 109819,
       "num": 288358,
       "word": "长时间坐车如何打发时间",
@@ -52689,14 +52801,6 @@
       "onboard_time": 1737426197,
       "rank": 48,
       "category": "网红"
-    },
-    {
-      "raw_hot": 103393,
-      "num": 103393,
-      "word": "国补后苹果手机跌破3000",
-      "onboard_time": 1737456018,
-      "rank": 49,
-      "category": "数码,民生新闻"
     },
     {
       "raw_hot": 103388,

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737456052659,
+  "endTime": 1737458318577,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -2387,20 +2387,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1523754,
+      "num": 1234400,
+      "word": "晋江式演技火了",
+      "onboard_time": 1737451998,
+      "rank": 43,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 1523505,
       "num": 1523505,
       "word": "地震被压废墟下戴帽小孩是AI生成",
       "onboard_time": 1736336541,
       "rank": 1,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 1522027,
-      "num": 885838,
-      "word": "胖东来员工结婚无力购置房车可先租房",
-      "onboard_time": 1735902920,
-      "rank": 17,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

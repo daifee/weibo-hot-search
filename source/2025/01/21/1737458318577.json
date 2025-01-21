@@ -1,0 +1,410 @@
+{
+  "runTime": 1737458318577,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1359275,
+        "num": 1359275,
+        "word": "国补后iPhone16成苹果最香机",
+        "onboard_time": 1737453918,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 625715,
+        "num": 625715,
+        "word": "国色芳华第二季",
+        "onboard_time": 1737447438,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37958,
+        "num": 540553,
+        "word": "9张对比图看黄河变化有多大",
+        "onboard_time": 1737432799,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 534655,
+        "num": 534655,
+        "word": "当年前做了美甲还要上班时",
+        "onboard_time": 1737454577,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 418533,
+        "num": 418533,
+        "word": "工行回应女子存款80万取不出",
+        "onboard_time": 1737447618,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1523754,
+        "num": 404900,
+        "word": "晋江式演技火了",
+        "onboard_time": 1737451998,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 365754,
+        "num": 365754,
+        "word": "张新成的嘴签保密协议了",
+        "onboard_time": 1737456379,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 347973,
+        "num": 347973,
+        "word": "2025央视网络春晚全阵容",
+        "onboard_time": 1737456677,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313999,
+        "num": 313999,
+        "word": "第一批聪明的人已经堵在路上",
+        "onboard_time": 1737435739,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307327,
+        "num": 307327,
+        "word": "四川乐山3.7级地震",
+        "onboard_time": 1737457458,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 705080,
+        "num": 304826,
+        "word": "特朗普提中国一小时后巴拿马回怼",
+        "onboard_time": 1737438317,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 576097,
+        "num": 294081,
+        "word": "赵露思12小时ins点赞破百万",
+        "onboard_time": 1737443359,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334277,
+        "num": 285598,
+        "word": "2025春节档预售3天破3亿",
+        "onboard_time": 1737451759,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 499304,
+        "num": 275969,
+        "word": "国补后苹果手机跌破3000",
+        "onboard_time": 1737456018,
+        "rank": 13,
+        "category": "数码,民生新闻"
+      },
+      {
+        "raw_hot": 436432,
+        "num": 273193,
+        "word": "吴奇隆刘诗诗结婚十周年",
+        "onboard_time": 1737439818,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325715,
+        "num": 260099,
+        "word": "漂白",
+        "onboard_time": 1737438258,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321622,
+        "num": 254979,
+        "word": "美政府关闭入境App移民大哭",
+        "onboard_time": 1737450379,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 249798,
+        "num": 249798,
+        "word": "特朗普宣布美国退出世界卫生组织",
+        "onboard_time": 1737423857,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 244559,
+        "num": 244559,
+        "word": "买手机平板记得领购新补贴",
+        "onboard_time": 1737452778,
+        "rank": 18,
+        "category": "数码,民生新闻"
+      },
+      {
+        "raw_hot": 137162,
+        "num": 219384,
+        "word": "吴奇隆刘诗诗曾谈公开恋情",
+        "onboard_time": 1737457878,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 552276,
+        "num": 216453,
+        "word": "空腹断食42小时的变化",
+        "onboard_time": 1737454218,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 252920,
+        "num": 214373,
+        "word": "朱亚文方否认离婚",
+        "onboard_time": 1737447018,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211012,
+        "num": 211012,
+        "word": "原神",
+        "onboard_time": 1737456258,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200213,
+        "num": 200213,
+        "word": "这跟和娜扎谈了有什么区别",
+        "onboard_time": 1737457819,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157601,
+        "num": 198749,
+        "word": "王者荣耀组队消费",
+        "onboard_time": 1737452238,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197905,
+        "num": 197905,
+        "word": "陈梦采访中笑了快30次",
+        "onboard_time": 1737451877,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191984,
+        "num": 191984,
+        "word": "时代少年团清唱剧透舞台",
+        "onboard_time": 1737457518,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106556,
+        "num": 179566,
+        "word": "除夕夜家庭喜剧抢先看",
+        "onboard_time": 1737455658,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174894,
+        "num": 174894,
+        "word": "人事总监给父母开8年工资套取百万",
+        "onboard_time": 1737452359,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123325,
+        "num": 173370,
+        "word": "为什么往往剧中反派更带感",
+        "onboard_time": 1737456438,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176214,
+        "num": 173299,
+        "word": "胜意只是秦五娘的一场梦",
+        "onboard_time": 1737449899,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172927,
+        "num": 172927,
+        "word": "MINNIE正式solo出道",
+        "onboard_time": 1737452059,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 167231,
+        "num": 167231,
+        "word": "奔跑吧相思令",
+        "onboard_time": 1737453678,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161901,
+        "num": 161901,
+        "word": "小红书APP启用新英文名",
+        "onboard_time": 1737450498,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 153737,
+        "num": 153737,
+        "word": "特朗普一提中国外媒马上澄清",
+        "onboard_time": 1737442217,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151891,
+        "num": 151891,
+        "word": "赶公交的SM男练习生",
+        "onboard_time": 1737444798,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148024,
+        "num": 148024,
+        "word": "TWICE上海签售",
+        "onboard_time": 1737456558,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139989,
+        "num": 139989,
+        "word": "结婚前一天新郎出车祸女子照顾6年",
+        "onboard_time": 1737453558,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135680,
+        "num": 136541,
+        "word": "张博恒揭秘奥运最艰难的1分钟",
+        "onboard_time": 1737457878,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136230,
+        "num": 136230,
+        "word": "久诚 如果回到梦开始的地方",
+        "onboard_time": 1737456918,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133587,
+        "num": 133587,
+        "word": "中方回应是否邀请特朗普访华",
+        "onboard_time": 1737454758,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127284,
+        "num": 127284,
+        "word": "白鹿不是白烁是黑烁",
+        "onboard_time": 1737458118,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120996,
+        "num": 120996,
+        "word": "致1999年的自己",
+        "onboard_time": 1737458238,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120575,
+        "num": 120575,
+        "word": "樊振东马龙会师米兰时装周",
+        "onboard_time": 1737455118,
+        "rank": 43,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 116832,
+        "num": 116832,
+        "word": "春节档最期待的电影角色",
+        "onboard_time": 1737457997,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116151,
+        "num": 116151,
+        "word": "台一士官长遭战机发动机吸入身亡",
+        "onboard_time": 1737455478,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114172,
+        "num": 114172,
+        "word": "难哄",
+        "onboard_time": 1737438799,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114076,
+        "num": 114076,
+        "word": "胜意反杀王擎",
+        "onboard_time": 1737452778,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111499,
+        "num": 111499,
+        "word": "浪姐6网传全员阵容",
+        "onboard_time": 1737444378,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111190,
+        "num": 111190,
+        "word": "12306八问八答",
+        "onboard_time": 1737455478,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同党外人士共迎新春#"
+    }
+  }
+}

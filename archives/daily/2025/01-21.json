@@ -1,6 +1,6 @@
 {
   "startTime": 1737390442496,
-  "endTime": 1737456052659,
+  "endTime": 1737458318577,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1523754,
+      "num": 1234400,
+      "word": "晋江式演技火了",
+      "onboard_time": 1737451998,
+      "rank": 43,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 1450182,
       "num": 1450182,
       "word": "第一批聪明的人已经堵在路上",
@@ -83,6 +91,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1359275,
+      "num": 1359275,
+      "word": "国补后iPhone16成苹果最香机",
+      "onboard_time": 1737453918,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1339113,
       "num": 1339113,
       "word": "工行回应女子存款80万取不出",
@@ -97,14 +113,6 @@
       "onboard_time": 1737383180,
       "rank": 20,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 1234400,
-      "num": 1234400,
-      "word": "晋江式演技火了",
-      "onboard_time": 1737451998,
-      "rank": 43,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 1193265,
@@ -161,14 +169,6 @@
       "onboard_time": 1737442217,
       "rank": 7,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1001831,
-      "num": 1001831,
-      "word": "国补后iPhone16成苹果最香机",
-      "onboard_time": 1737453918,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 968010,
@@ -363,6 +363,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 552276,
+      "num": 251283,
+      "word": "空腹断食42小时的变化",
+      "onboard_time": 1737454218,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 551223,
       "num": 383553,
       "word": "潘宏基地另一网红狗疑被咬死",
@@ -403,12 +411,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 532805,
-      "num": 251283,
-      "word": "空腹断食42小时的变化",
-      "onboard_time": 1737454218,
-      "rank": 22,
-      "category": "健康医疗"
+      "raw_hot": 534655,
+      "num": 534655,
+      "word": "当年前做了美甲还要上班时",
+      "onboard_time": 1737454577,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 522437,
@@ -449,6 +457,14 @@
       "onboard_time": 1737440838,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 499304,
+      "num": 275969,
+      "word": "国补后苹果手机跌破3000",
+      "onboard_time": 1737456018,
+      "rank": 49,
+      "category": "数码,民生新闻"
     },
     {
       "raw_hot": 479843,
@@ -595,6 +611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 365754,
+      "num": 365754,
+      "word": "张新成的嘴签保密协议了",
+      "onboard_time": 1737456379,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 359422,
       "num": 299380,
       "word": "留几手说不想骗葛夕了",
@@ -611,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 347973,
+      "num": 347973,
+      "word": "2025央视网络春晚全阵容",
+      "onboard_time": 1737456677,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 343699,
       "num": 277926,
       "word": "李赛纶李灿赫分手",
@@ -624,6 +656,14 @@
       "word": "国色芳华本周日收官",
       "onboard_time": 1737391397,
       "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 325715,
+      "num": 297153,
+      "word": "漂白",
+      "onboard_time": 1737360798,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -651,6 +691,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 307327,
+      "num": 307327,
+      "word": "四川乐山3.7级地震",
+      "onboard_time": 1737457458,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 302294,
       "num": 302294,
       "word": "张康乐马柏全费加罗大片花絮",
@@ -673,14 +721,6 @@
       "onboard_time": 1737454279,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 297153,
-      "num": 297153,
-      "word": "漂白",
-      "onboard_time": 1737360798,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 296753,
@@ -883,14 +923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 249344,
-      "num": 249344,
-      "word": "当年前做了美甲还要上班时",
-      "onboard_time": 1737454577,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 246972,
       "num": 246972,
       "word": "周杰伦昆凌一家五口重回婚礼教堂",
@@ -1003,6 +1035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 211012,
+      "num": 211012,
+      "word": "原神",
+      "onboard_time": 1737456258,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 210339,
       "num": 210339,
       "word": "樊振东棒球大片",
@@ -1017,6 +1057,14 @@
       "onboard_time": 1737375737,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200213,
+      "num": 200213,
+      "word": "这跟和娜扎谈了有什么区别",
+      "onboard_time": 1737457819,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 199602,
@@ -1049,6 +1097,14 @@
       "onboard_time": 1737446838,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191984,
+      "num": 191984,
+      "word": "时代少年团清唱剧透舞台",
+      "onboard_time": 1737457518,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 191268,
@@ -1259,6 +1315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 167231,
+      "num": 167231,
+      "word": "奔跑吧相思令",
+      "onboard_time": 1737453678,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166076,
       "num": 116139,
       "word": "吴尊neinei新综来了",
@@ -1315,14 +1379,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 161175,
-      "num": 161175,
-      "word": "奔跑吧相思令",
-      "onboard_time": 1737453678,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 160245,
       "num": 160245,
       "word": "福卡",
@@ -1361,6 +1417,14 @@
       "onboard_time": 1737392956,
       "rank": 25,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 157601,
+      "num": 198749,
+      "word": "王者荣耀组队消费",
+      "onboard_time": 1737452238,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 157435,
@@ -1449,6 +1513,14 @@
       "onboard_time": 1737437719,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 148024,
+      "num": 148024,
+      "word": "TWICE上海签售",
+      "onboard_time": 1737456558,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 146754,
@@ -1563,12 +1635,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137162,
+      "num": 219384,
+      "word": "吴奇隆刘诗诗曾谈公开恋情",
+      "onboard_time": 1737457878,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136272,
       "num": 136272,
       "word": "特朗普币暴涨",
       "onboard_time": 1737424877,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 136230,
+      "num": 136230,
+      "word": "久诚 如果回到梦开始的地方",
+      "onboard_time": 1737456918,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 136113,
@@ -1587,8 +1675,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135680,
+      "num": 136541,
+      "word": "张博恒揭秘奥运最艰难的1分钟",
+      "onboard_time": 1737457878,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135435,
-      "num": 135435,
+      "num": 179566,
       "word": "除夕夜家庭喜剧抢先看",
       "onboard_time": 1737455658,
       "rank": 41,
@@ -1691,6 +1787,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 127284,
+      "num": 127284,
+      "word": "白鹿不是白烁是黑烁",
+      "onboard_time": 1737458118,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127004,
       "num": 127004,
       "word": "异人之下2第七集节奏起飞",
@@ -1747,6 +1851,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 123325,
+      "num": 173370,
+      "word": "为什么往往剧中反派更带感",
+      "onboard_time": 1737456438,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123234,
       "num": 123234,
       "word": "敖瑞鹏想和白鹿二搭演领导下属",
@@ -1793,6 +1905,14 @@
       "onboard_time": 1737434240,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120996,
+      "num": 120996,
+      "word": "致1999年的自己",
+      "onboard_time": 1737458238,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 120763,
@@ -1865,6 +1985,14 @@
       "onboard_time": 1737441018,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 116832,
+      "num": 116832,
+      "word": "春节档最期待的电影角色",
+      "onboard_time": 1737457997,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 116038,
@@ -1979,14 +2107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 109873,
-      "num": 109873,
-      "word": "王者荣耀组队消费",
-      "onboard_time": 1737452238,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 109819,
       "num": 109819,
       "word": "长时间坐车如何打发时间",
@@ -2073,14 +2193,6 @@
       "onboard_time": 1737426197,
       "rank": 48,
       "category": "网红"
-    },
-    {
-      "raw_hot": 103393,
-      "num": 103393,
-      "word": "国补后苹果手机跌破3000",
-      "onboard_time": 1737456018,
-      "rank": 49,
-      "category": "数码,民生新闻"
     },
     {
       "raw_hot": 103211,
