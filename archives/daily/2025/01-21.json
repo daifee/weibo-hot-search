@@ -1,6 +1,6 @@
 {
   "startTime": 1737390442496,
-  "endTime": 1737451418513,
+  "endTime": 1737452223893,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 1014203,
-      "num": 496696,
+      "num": 602464,
       "word": "特朗普一提中国外媒马上澄清",
       "onboard_time": 1737442217,
       "rank": 7,
@@ -304,6 +304,14 @@
       "word": "拜登给特朗普留了一封信",
       "onboard_time": 1737400872,
       "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 640487,
+      "num": 215949,
+      "word": "美政府关闭入境App移民大哭",
+      "onboard_time": 1737450379,
+      "rank": 30,
       "category": "国际时政"
     },
     {
@@ -491,6 +499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 423352,
+      "num": 423352,
+      "word": "胜意只是秦五娘的一场梦",
+      "onboard_time": 1737449899,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 405472,
       "num": 405472,
       "word": "再上6天班就过年了",
@@ -521,14 +537,6 @@
       "onboard_time": 1737439878,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 368834,
-      "num": 231048,
-      "word": "胜意只是秦五娘的一场梦",
-      "onboard_time": 1737449899,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 365886,
@@ -617,6 +625,14 @@
       "onboard_time": 1737437118,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 294418,
+      "num": 226854,
+      "word": "小红书APP启用新英文名",
+      "onboard_time": 1737450498,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 291854,
@@ -803,14 +819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 246140,
-      "num": 167989,
-      "word": "美政府关闭入境App移民大哭",
-      "onboard_time": 1737450379,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 242110,
       "num": 247802,
       "word": "林高远的帽子亮相巴黎时装周",
@@ -833,14 +841,6 @@
       "onboard_time": 1737397332,
       "rank": 35,
       "category": "网红"
-    },
-    {
-      "raw_hot": 237731,
-      "num": 226854,
-      "word": "小红书APP启用新英文名",
-      "onboard_time": 1737450498,
-      "rank": 21,
-      "category": "互联网"
     },
     {
       "raw_hot": 237465,
@@ -979,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187882,
+      "num": 187882,
+      "word": "赵达文淇吻戏",
+      "onboard_time": 1737450978,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186439,
       "num": 186439,
       "word": "蔡少芬射雕镜头",
@@ -1075,6 +1083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 176055,
+      "num": 176055,
+      "word": "敖瑞鹏大家的感情都是真的",
+      "onboard_time": 1737451818,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175409,
       "num": 175409,
       "word": "韩国网友被中国演员的颜值震撼",
@@ -1155,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164829,
+      "num": 164829,
+      "word": "杨迪吐槽的到底是谁",
+      "onboard_time": 1737448217,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163218,
       "num": 163218,
       "word": "谁能把陆虎王安宇凑在一起录综艺",
@@ -1211,12 +1235,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 156713,
-      "num": 156713,
-      "word": "杨迪吐槽的到底是谁",
-      "onboard_time": 1737448217,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 157435,
+      "num": 157435,
+      "word": "万科A股价涨停",
+      "onboard_time": 1737451458,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 155764,
@@ -1233,6 +1257,14 @@
       "onboard_time": 1737444018,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154830,
+      "num": 214758,
+      "word": "孟子义将再追加两万元用于公益",
+      "onboard_time": 1737451518,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 154450,
@@ -1257,6 +1289,14 @@
       "onboard_time": 1737435138,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 154043,
+      "num": 154043,
+      "word": "JDG",
+      "onboard_time": 1737451397,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 149904,
@@ -1425,14 +1465,6 @@
       "onboard_time": 1737422057,
       "rank": 37,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 132274,
-      "num": 132274,
-      "word": "赵达文淇吻戏",
-      "onboard_time": 1737450978,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 130505,
@@ -1611,6 +1643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 119160,
+      "num": 119160,
+      "word": "陈梦采访中笑了快30次",
+      "onboard_time": 1737451877,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118764,
       "num": 118764,
       "word": "买了新手机旧手机怎么办",
@@ -1649,6 +1689,14 @@
       "onboard_time": 1737441018,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 117952,
+      "num": 117952,
+      "word": "晋江式演技火了",
+      "onboard_time": 1737451998,
+      "rank": 43,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 116038,
@@ -1707,6 +1755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111994,
+      "num": 214338,
+      "word": "2025春节档预售3天破3亿",
+      "onboard_time": 1737451759,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 111990,
       "num": 111990,
       "word": "相思令腾讯视频站内热度值破20000",
@@ -1739,6 +1795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 110476,
+      "num": 110476,
+      "word": "MINNIE正式solo出道",
+      "onboard_time": 1737452059,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110023,
       "num": 197695,
       "word": "河村勇辉G联赛杀疯了",
@@ -1763,12 +1827,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 107081,
-      "num": 107081,
-      "word": "JDG",
-      "onboard_time": 1737451397,
-      "rank": 47,
-      "category": "电竞"
+      "raw_hot": 107771,
+      "num": 107771,
+      "word": "汽车陷冰窟救援车辆也落水司机身亡",
+      "onboard_time": 1737451458,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106010,
@@ -2339,6 +2403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24861,
+      "num": 1036813,
+      "word": "9张对比图看黄河变化有多大",
+      "onboard_time": 1737432799,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23613,
       "num": 23613,
       "word": "ZB1先行曲上线",
@@ -2409,14 +2481,6 @@
       "onboard_time": 1737432918,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 12602,
-      "num": 1036813,
-      "word": "9张对比图看黄河变化有多大",
-      "onboard_time": 1737432799,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12538,

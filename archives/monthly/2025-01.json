@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737451418513,
+  "endTime": 1737452223893,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -4620,7 +4620,7 @@
     },
     {
       "raw_hot": 1014203,
-      "num": 496696,
+      "num": 602464,
       "word": "特朗普一提中国外媒马上澄清",
       "onboard_time": 1737442217,
       "rank": 7,
@@ -8865,6 +8865,14 @@
       "onboard_time": 1736226983,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 640487,
+      "num": 215949,
+      "word": "美政府关闭入境App移民大哭",
+      "onboard_time": 1737450379,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 640405,
@@ -14083,6 +14091,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 423352,
+      "num": 423352,
+      "word": "胜意只是秦五娘的一场梦",
+      "onboard_time": 1737449899,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 423014,
       "num": 245045,
       "word": "李昀锐倪虹洁演夫妻",
@@ -16225,14 +16241,6 @@
       "onboard_time": 1736989399,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 368834,
-      "num": 231048,
-      "word": "胜意只是秦五娘的一场梦",
-      "onboard_time": 1737449899,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 368708,
@@ -20051,6 +20059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 294418,
+      "num": 226854,
+      "word": "小红书APP启用新英文名",
+      "onboard_time": 1737450498,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 294352,
       "num": 247611,
       "word": "为什么现在秋衣秋裤要这样设计",
@@ -23595,14 +23611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 246140,
-      "num": 167989,
-      "word": "美政府关闭入境App移民大哭",
-      "onboard_time": 1737450379,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 246045,
       "num": 246045,
       "word": "国色芳华 让家暴从家事走向公事",
@@ -24337,14 +24345,6 @@
       "onboard_time": 1736431643,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 237731,
-      "num": 226854,
-      "word": "小红书APP启用新英文名",
-      "onboard_time": 1737450498,
-      "rank": 21,
-      "category": "互联网"
     },
     {
       "raw_hot": 237676,
@@ -32155,6 +32155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 187882,
+      "num": 187882,
+      "word": "赵达文淇吻戏",
+      "onboard_time": 1737450978,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187848,
       "num": 1553019,
       "word": "三九来了冷冷冷冷模式开启",
@@ -34521,6 +34529,14 @@
       "onboard_time": 1737119659,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 176055,
+      "num": 176055,
+      "word": "敖瑞鹏大家的感情都是真的",
+      "onboard_time": 1737451818,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 175950,
@@ -37035,6 +37051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164829,
+      "num": 164829,
+      "word": "杨迪吐槽的到底是谁",
+      "onboard_time": 1737448217,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164823,
       "num": 297811,
       "word": "许昕捐赠驰援西藏",
@@ -38827,6 +38851,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 157435,
+      "num": 157435,
+      "word": "万科A股价涨停",
+      "onboard_time": 1737451458,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 157418,
       "num": 333611,
       "word": "于敏曾婉拒中国氢弹之父称呼",
@@ -39009,14 +39041,6 @@
       "onboard_time": 1737337396,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 156713,
-      "num": 156713,
-      "word": "杨迪吐槽的到底是谁",
-      "onboard_time": 1737448217,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 156660,
@@ -39459,6 +39483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154830,
+      "num": 214758,
+      "word": "孟子义将再追加两万元用于公益",
+      "onboard_time": 1737451518,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154782,
       "num": 484569,
       "word": "代购是否损害办卡人利益山姆回应",
@@ -39625,6 +39657,14 @@
       "onboard_time": 1736671760,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 154043,
+      "num": 154043,
+      "word": "JDG",
+      "onboard_time": 1737451397,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 153983,
@@ -45099,14 +45139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132274,
-      "num": 132274,
-      "word": "赵达文淇吻戏",
-      "onboard_time": 1737450978,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 132247,
       "num": 132247,
       "word": "网剧千香",
@@ -48659,6 +48691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119160,
+      "num": 119160,
+      "word": "陈梦采访中笑了快30次",
+      "onboard_time": 1737451877,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119062,
       "num": 119062,
       "word": "哈兰德签下曼城队史最大合同",
@@ -48929,6 +48969,14 @@
       "onboard_time": 1735816100,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 117952,
+      "num": 117952,
+      "word": "晋江式演技火了",
+      "onboard_time": 1737451998,
+      "rank": 43,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 117950,
@@ -50563,6 +50611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 111994,
+      "num": 214338,
+      "word": "2025春节档预售3天破3亿",
+      "onboard_time": 1737451759,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 111990,
       "num": 111990,
       "word": "相思令腾讯视频站内热度值破20000",
@@ -50953,6 +51009,14 @@
       "onboard_time": 1737078678,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110476,
+      "num": 110476,
+      "word": "MINNIE正式solo出道",
+      "onboard_time": 1737452059,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 110374,
@@ -51419,6 +51483,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 107771,
+      "num": 107771,
+      "word": "汽车陷冰窟救援车辆也落水司机身亡",
+      "onboard_time": 1737451458,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107758,
       "num": 107758,
       "word": "牛在在给贺峻霖脱袜子",
@@ -51569,14 +51641,6 @@
       "onboard_time": 1736664440,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107081,
-      "num": 107081,
-      "word": "JDG",
-      "onboard_time": 1737451397,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 106975,
@@ -64179,6 +64243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 24861,
+      "num": 1036813,
+      "word": "9张对比图看黄河变化有多大",
+      "onboard_time": 1737432799,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24744,
       "num": 327479,
       "word": "陈哲远在看恐怖片剧本",
@@ -66361,14 +66433,6 @@
       "onboard_time": 1736979013,
       "rank": 9,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 12602,
-      "num": 1036813,
-      "word": "9张对比图看黄河变化有多大",
-      "onboard_time": 1737432799,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12578,
