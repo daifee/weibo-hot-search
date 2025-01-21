@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737437883577,
+  "endTime": 1737441036246,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1587,6 +1587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1833307,
+      "num": 382477,
+      "word": "特朗普提中国一小时后巴拿马回怼",
+      "onboard_time": 1737438317,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1830161,
       "num": 348140,
       "word": "被家暴16次女子直播带货",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736609964,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1517923,
-      "num": 1517923,
-      "word": "被骗到缅东小伙跳河逃生棉裤都没脱",
-      "onboard_time": 1736240722,
-      "rank": 4,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

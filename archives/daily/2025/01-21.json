@@ -1,6 +1,6 @@
 {
   "startTime": 1737390442496,
-  "endTime": 1737437883577,
+  "endTime": 1737441036246,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -27,12 +27,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1833307,
+      "num": 382477,
+      "word": "特朗普提中国一小时后巴拿马回怼",
+      "onboard_time": 1737438317,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1450182,
+      "num": 1450182,
+      "word": "第一批聪明的人已经堵在路上",
+      "onboard_time": 1737435739,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1445223,
       "num": 1445223,
       "word": "春晚最年轻的00后主持人来了",
       "onboard_time": 1737431779,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1436097,
+      "num": 257446,
+      "word": "吴奇隆刘诗诗结婚十周年",
+      "onboard_time": 1737439818,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1385559,
@@ -107,12 +131,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 937410,
-      "num": 937410,
-      "word": "第一批聪明的人已经堵在路上",
-      "onboard_time": 1737435739,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 940736,
+      "num": 940736,
+      "word": "费加罗销量",
+      "onboard_time": 1737438619,
+      "rank": 1,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 936752,
@@ -128,6 +152,14 @@
       "word": "潘宏曾说没有自己艾特早安乐死了",
       "onboard_time": 1737424996,
       "rank": 12,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 914547,
+      "num": 914547,
+      "word": "桃黑黑 易梦玲",
+      "onboard_time": 1737439938,
+      "rank": 3,
       "category": "网红"
     },
     {
@@ -291,6 +323,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 518553,
+      "num": 258239,
+      "word": "网红狗艾特或是窒息死亡",
+      "onboard_time": 1737436639,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 504328,
+      "num": 329895,
+      "word": "张馨予何捷东北滑雪",
+      "onboard_time": 1737437959,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 479843,
       "num": 479843,
       "word": "赵今麦受刑戏看出幻肢痛",
@@ -371,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 383617,
+      "num": 383617,
+      "word": "高铁座椅上的犄角到底是干啥的",
+      "onboard_time": 1737437598,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 365886,
       "num": 278858,
       "word": "特朗普就任第47任美国总统",
@@ -385,6 +441,14 @@
       "onboard_time": 1737384081,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 344707,
+      "num": 253610,
+      "word": "难哄",
+      "onboard_time": 1737438799,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 332633,
@@ -419,6 +483,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 296753,
+      "num": 255133,
+      "word": "MINNIE开通微博",
+      "onboard_time": 1737437118,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 291854,
       "num": 291854,
       "word": "2岁女童超30种食物过敏体重仅13斤",
@@ -451,12 +523,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 280177,
+      "num": 280177,
+      "word": "虞姬新皮肤愿照岁时盈",
+      "onboard_time": 1737439518,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 275333,
       "num": 158326,
       "word": "张雪峰称给公司350人发2000万年终奖",
       "onboard_time": 1737379818,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 273552,
+      "num": 254494,
+      "word": "B站回应员工植入恶意代码报复用户",
+      "onboard_time": 1737439578,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 271944,
@@ -531,14 +619,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 258239,
-      "num": 258239,
-      "word": "网红狗艾特或是窒息死亡",
-      "onboard_time": 1737436639,
-      "rank": 42,
-      "category": "网红"
-    },
-    {
       "raw_hot": 254774,
       "num": 254774,
       "word": "潘宏",
@@ -611,12 +691,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232831,
+      "num": 239916,
+      "word": "潘宏基地另一网红狗疑被咬死",
+      "onboard_time": 1737437357,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
       "raw_hot": 232661,
       "num": 232661,
       "word": "中方回应特朗普要TikTok50%所有权",
       "onboard_time": 1737360798,
       "rank": 14,
       "category": "国际时政,互联网"
+    },
+    {
+      "raw_hot": 228784,
+      "num": 228784,
+      "word": "肖战也躲不过直戳心窝的补刀",
+      "onboard_time": 1737439938,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 223751,
@@ -644,7 +740,7 @@
     },
     {
       "raw_hot": 207564,
-      "num": 207564,
+      "num": 230728,
       "word": "白敬亭章若楠录hi6",
       "onboard_time": 1737435799,
       "rank": 32,
@@ -667,12 +763,28 @@
       "category": "网红"
     },
     {
-      "raw_hot": 192595,
-      "num": 192595,
-      "word": "MINNIE开通微博",
+      "raw_hot": 199376,
+      "num": 199376,
+      "word": "今起广州正式解禁土狗",
       "onboard_time": 1737437118,
-      "rank": 31,
-      "category": "艺人"
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198686,
+      "num": 257094,
+      "word": "高铁座位不同颜色指示灯是什么意思",
+      "onboard_time": 1737439397,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191884,
+      "num": 191884,
+      "word": "12306候补",
+      "onboard_time": 1737440838,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191268,
@@ -779,6 +891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169213,
+      "num": 233051,
+      "word": "岳云鹏who会讲Chinese语",
+      "onboard_time": 1737439397,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 166076,
       "num": 116139,
       "word": "吴尊neinei新综来了",
@@ -801,6 +921,30 @@
       "onboard_time": 1737377117,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164780,
+      "num": 164780,
+      "word": "孟子义李昀锐拼好宣",
+      "onboard_time": 1737440237,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 163218,
+      "num": 163218,
+      "word": "谁能把陆虎王安宇凑在一起录综艺",
+      "onboard_time": 1737440120,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 162964,
+      "num": 229122,
+      "word": "复兴号无障碍车厢有盲文座位号",
+      "onboard_time": 1737440120,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160245,
@@ -979,6 +1123,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130110,
+      "num": 130110,
+      "word": "宁可痛苦不要麻木的刘小样现状",
+      "onboard_time": 1737439698,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128708,
+      "num": 128708,
+      "word": "28日零时前上高速也可免高速费",
+      "onboard_time": 1737440718,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126542,
       "num": 230292,
       "word": "高芙无缘澳网四强",
@@ -1001,6 +1161,14 @@
       "onboard_time": 1737430577,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125339,
+      "num": 229710,
+      "word": "胡歌童瑶将共创央视短剧",
+      "onboard_time": 1737439639,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 124944,
@@ -1067,20 +1235,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 118893,
-      "num": 118893,
-      "word": "今起广州正式解禁土狗",
-      "onboard_time": 1737437118,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118761,
       "num": 173413,
       "word": "用甲骨文打开非遗春节",
       "onboard_time": 1737436218,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118672,
+      "num": 253882,
+      "word": "高叶学咏春自带大嫂气场",
+      "onboard_time": 1737438558,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 118540,
@@ -1185,14 +1353,6 @@
       "onboard_time": 1737430938,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 105883,
-      "num": 270613,
-      "word": "高铁座椅上的犄角到底是干啥的",
-      "onboard_time": 1737437598,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105194,
@@ -1508,7 +1668,7 @@
     },
     {
       "raw_hot": 64783,
-      "num": 652378,
+      "num": 926493,
       "word": "神十九航天员完成第二次出舱",
       "onboard_time": 1737432978,
       "rank": 2,
@@ -1539,20 +1699,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 56237,
-      "num": 239916,
-      "word": "潘宏基地另一网红狗疑被咬死",
-      "onboard_time": 1737437357,
-      "rank": 19,
-      "category": "网红"
-    },
-    {
       "raw_hot": 53834,
       "num": 193883,
       "word": "希望美方提供非歧视营商环境",
       "onboard_time": 1737414254,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 52937,
+      "num": 189815,
+      "word": "留几手持有蜂群两公司股权",
+      "onboard_time": 1737439457,
+      "rank": 37,
+      "category": "网红"
     },
     {
       "raw_hot": 50822,
@@ -1683,6 +1843,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 22573,
+      "num": 235216,
+      "word": "巴多萨首进大满贯四强",
+      "onboard_time": 1737440899,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 22435,
       "num": 22435,
       "word": "集采药疗效医生怎么看",
@@ -1737,6 +1905,14 @@
       "onboard_time": 1737405252,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 14320,
+      "num": 190637,
+      "word": "勇士主场被打花",
+      "onboard_time": 1737432918,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 12538,

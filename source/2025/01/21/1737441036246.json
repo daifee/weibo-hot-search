@@ -1,0 +1,410 @@
+{
+  "runTime": 1737441036246,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1450182,
+        "num": 1450182,
+        "word": "第一批聪明的人已经堵在路上",
+        "onboard_time": 1737435739,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 940736,
+        "num": 940736,
+        "word": "费加罗销量",
+        "onboard_time": 1737438619,
+        "rank": 1,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 46265,
+        "num": 926493,
+        "word": "神十九航天员完成第二次出舱",
+        "onboard_time": 1737432978,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 914547,
+        "num": 914547,
+        "word": "桃黑黑 易梦玲",
+        "onboard_time": 1737439938,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 383617,
+        "num": 383617,
+        "word": "高铁座椅上的犄角到底是干啥的",
+        "onboard_time": 1737437598,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1833307,
+        "num": 382477,
+        "word": "特朗普提中国一小时后巴拿马回怼",
+        "onboard_time": 1737438317,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 738775,
+        "num": 369468,
+        "word": "春晚最年轻的00后主持人来了",
+        "onboard_time": 1737431779,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 504328,
+        "num": 329895,
+        "word": "张馨予何捷东北滑雪",
+        "onboard_time": 1737437959,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280177,
+        "num": 280177,
+        "word": "虞姬新皮肤愿照岁时盈",
+        "onboard_time": 1737439518,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 257810,
+        "num": 257810,
+        "word": "智力退回3岁消防员恢复到高中水平",
+        "onboard_time": 1737414855,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1436097,
+        "num": 257446,
+        "word": "吴奇隆刘诗诗结婚十周年",
+        "onboard_time": 1737439818,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198686,
+        "num": 257094,
+        "word": "高铁座位不同颜色指示灯是什么意思",
+        "onboard_time": 1737439397,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 680760,
+        "num": 256731,
+        "word": "特朗普宣布美国退出世界卫生组织",
+        "onboard_time": 1737423857,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 518553,
+        "num": 256526,
+        "word": "网红狗艾特或是窒息死亡",
+        "onboard_time": 1737436639,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 427280,
+        "num": 255949,
+        "word": "潘宏曾说没有自己艾特早安乐死了",
+        "onboard_time": 1737424996,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 320688,
+        "num": 255575,
+        "word": "特朗普签令将墨西哥湾改名为美国湾",
+        "onboard_time": 1737429980,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 296753,
+        "num": 255133,
+        "word": "MINNIE开通微博",
+        "onboard_time": 1737437118,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280402,
+        "num": 254718,
+        "word": "樊振东旁边是霉霉前男友",
+        "onboard_time": 1737422957,
+        "rank": 17,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 273552,
+        "num": 254494,
+        "word": "B站回应员工植入恶意代码报复用户",
+        "onboard_time": 1737439578,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 118672,
+        "num": 253882,
+        "word": "高叶学咏春自带大嫂气场",
+        "onboard_time": 1737438558,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344707,
+        "num": 253610,
+        "word": "难哄",
+        "onboard_time": 1737438799,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267679,
+        "num": 252990,
+        "word": "赵露思晒休养日常",
+        "onboard_time": 1737415696,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252876,
+        "num": 252876,
+        "word": "美甲",
+        "onboard_time": 1737433459,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 244777,
+        "num": 244777,
+        "word": "苹果官网把iPhone写错了",
+        "onboard_time": 1737429739,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 22573,
+        "num": 235216,
+        "word": "巴多萨首进大满贯四强",
+        "onboard_time": 1737440899,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169213,
+        "num": 233051,
+        "word": "岳云鹏who会讲Chinese语",
+        "onboard_time": 1737439397,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 212205,
+        "num": 232926,
+        "word": "父亲把15万藏被子里被儿子误扔",
+        "onboard_time": 1737426798,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232831,
+        "num": 232831,
+        "word": "潘宏基地另一网红狗疑被咬死",
+        "onboard_time": 1737437357,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 127317,
+        "num": 230728,
+        "word": "白敬亭章若楠录hi6",
+        "onboard_time": 1737435799,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125339,
+        "num": 229710,
+        "word": "胡歌童瑶将共创央视短剧",
+        "onboard_time": 1737439639,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162964,
+        "num": 229122,
+        "word": "复兴号无障碍车厢有盲文座位号",
+        "onboard_time": 1737440120,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228784,
+        "num": 228784,
+        "word": "肖战也躲不过直戳心窝的补刀",
+        "onboard_time": 1737439938,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 208836,
+        "num": 208836,
+        "word": "张柏芝谢霆锋二儿子正脸照",
+        "onboard_time": 1737427457,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199376,
+        "num": 199376,
+        "word": "今起广州正式解禁土狗",
+        "onboard_time": 1737437118,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198295,
+        "num": 198295,
+        "word": "艾特代露娃结果常华森回复了",
+        "onboard_time": 1737421279,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191884,
+        "num": 191884,
+        "word": "12306候补",
+        "onboard_time": 1737440838,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14320,
+        "num": 190637,
+        "word": "勇士主场被打花",
+        "onboard_time": 1737432918,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52937,
+        "num": 189815,
+        "word": "留几手持有蜂群两公司股权",
+        "onboard_time": 1737439457,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 189463,
+        "num": 189463,
+        "word": "光遇",
+        "onboard_time": 1737432077,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169198,
+        "num": 169198,
+        "word": "漂白",
+        "onboard_time": 1737438258,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164780,
+        "num": 164780,
+        "word": "孟子义李昀锐拼好宣",
+        "onboard_time": 1737440237,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163218,
+        "num": 163218,
+        "word": "谁能把陆虎王安宇凑在一起录综艺",
+        "onboard_time": 1737440120,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154856,
+        "num": 154856,
+        "word": "林高远的帽子亮相巴黎时装周",
+        "onboard_time": 1737436577,
+        "rank": 42,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 154125,
+        "num": 154125,
+        "word": "特朗普签署多项行政令",
+        "onboard_time": 1737420978,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148721,
+        "num": 148721,
+        "word": "2025辽视春晚阵容官宣",
+        "onboard_time": 1737427698,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149599,
+        "num": 147597,
+        "word": "特朗普将宣布南部边境进入紧急状态",
+        "onboard_time": 1737424577,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143636,
+        "num": 143636,
+        "word": "台湾台南6.2级地震",
+        "onboard_time": 1737390918,
+        "rank": 46,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 142611,
+        "num": 142611,
+        "word": "奶奶卖咖啡总忘了收钱才能喝",
+        "onboard_time": 1737436039,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130110,
+        "num": 130110,
+        "word": "宁可痛苦不要麻木的刘小样现状",
+        "onboard_time": 1737439698,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128708,
+        "num": 128708,
+        "word": "28日零时前上高速也可免高速费",
+        "onboard_time": 1737440718,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同党外人士共迎新春#"
+    }
+  }
+}
