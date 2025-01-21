@@ -1,0 +1,410 @@
+{
+  "runTime": 1737477813241,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 754423,
+        "num": 801332,
+        "word": "车厘子",
+        "onboard_time": 1737469040,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 419189,
+        "num": 419189,
+        "word": "中缅泰就铲除妙瓦底电诈窝点达成共识",
+        "onboard_time": 1737472519,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37478,
+        "num": 394485,
+        "word": "浓浓的年味已经扑面而来",
+        "onboard_time": 1737465919,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 667190,
+        "num": 386051,
+        "word": "比伯取关了海莉",
+        "onboard_time": 1737471859,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372104,
+        "num": 372104,
+        "word": "王菲 春晚",
+        "onboard_time": 1737466459,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417651,
+        "num": 365813,
+        "word": "国补后iPhone16成苹果最香机",
+        "onboard_time": 1737453918,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330044,
+        "num": 330044,
+        "word": "赵露思12小时ins点赞破百万",
+        "onboard_time": 1737443359,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311289,
+        "num": 311289,
+        "word": "王鹤棣在巴黎穿上了道明寺皮肤",
+        "onboard_time": 1737472519,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 179581,
+        "num": 179581,
+        "word": "无畏打野",
+        "onboard_time": 1737474618,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 178075,
+        "num": 178075,
+        "word": "砂糖橘吃多了真的会变小黄人",
+        "onboard_time": 1737469339,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272442,
+        "num": 175737,
+        "word": "特朗普继续威胁TikTok",
+        "onboard_time": 1737461959,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 179363,
+        "num": 174464,
+        "word": "春晚彩排",
+        "onboard_time": 1737471259,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190449,
+        "num": 172307,
+        "word": "特朗普提中国一小时后巴拿马回怼",
+        "onboard_time": 1737438317,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 189420,
+        "num": 168336,
+        "word": "王嘉尔朱一龙王鹤棣巴黎合照",
+        "onboard_time": 1737459619,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 167808,
+        "num": 167808,
+        "word": "2025央视网络春晚全阵容",
+        "onboard_time": 1737456677,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76920,
+        "num": 163181,
+        "word": "苏享茂哥哥称翟欣欣鞠躬道歉",
+        "onboard_time": 1737476537,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162632,
+        "num": 162632,
+        "word": "胜意自尽",
+        "onboard_time": 1737467662,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158776,
+        "num": 158776,
+        "word": "3类人吃车厘子需减量",
+        "onboard_time": 1737465020,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133745,
+        "num": 133745,
+        "word": "国补后苹果手机跌破3000",
+        "onboard_time": 1737456018,
+        "rank": 18,
+        "category": "数码,民生新闻"
+      },
+      {
+        "raw_hot": 133078,
+        "num": 133078,
+        "word": "男生花7百买101小时硬座回家后续",
+        "onboard_time": 1737464720,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315691,
+        "num": 128399,
+        "word": "朱亚文晒婚戒",
+        "onboard_time": 1737466398,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192265,
+        "num": 125273,
+        "word": "胎儿在妈妈肚子里患上阑尾炎",
+        "onboard_time": 1737467299,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142745,
+        "num": 125069,
+        "word": "春节档电影最想看哪部",
+        "onboard_time": 1737462258,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119925,
+        "num": 119925,
+        "word": "马龙送李现To签球拍",
+        "onboard_time": 1737472821,
+        "rank": 23,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 118291,
+        "num": 118291,
+        "word": "美籍男子趴出半个身体托举落水老人",
+        "onboard_time": 1737468619,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114844,
+        "num": 114844,
+        "word": "这跟和娜扎谈了有什么区别",
+        "onboard_time": 1737457819,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114669,
+        "num": 114669,
+        "word": "广西2幢违建豪宅无人认领被拆除",
+        "onboard_time": 1737475638,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112084,
+        "num": 112084,
+        "word": "37岁德约和37岁教练穆雷拥抱",
+        "onboard_time": 1737474558,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111734,
+        "num": 111734,
+        "word": "空腹断食42小时的变化",
+        "onboard_time": 1737454218,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 19019,
+        "num": 109578,
+        "word": "浙江人半夜被摇醒了",
+        "onboard_time": 1737477735,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109267,
+        "num": 109267,
+        "word": "昆明市市长刘佳晨任上被查",
+        "onboard_time": 1737460218,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99120,
+        "num": 99120,
+        "word": "漂白10集反转",
+        "onboard_time": 1737465318,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89142,
+        "num": 89142,
+        "word": "夏以昼 苹果",
+        "onboard_time": 1737471559,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97223,
+        "num": 89048,
+        "word": "漂白",
+        "onboard_time": 1737438258,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88634,
+        "num": 88634,
+        "word": "国色芳华第二季",
+        "onboard_time": 1737447438,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85726,
+        "num": 85726,
+        "word": "小伙留了3年头发捐给化疗患者",
+        "onboard_time": 1737475338,
+        "rank": 35,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 84304,
+        "num": 84304,
+        "word": "赵今麦女警角色上线",
+        "onboard_time": 1737472939,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77500,
+        "num": 77500,
+        "word": "相思令",
+        "onboard_time": 1737468921,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76516,
+        "num": 76516,
+        "word": "刘诗诗曾说好的爱情是彼此用心",
+        "onboard_time": 1737474498,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73420,
+        "num": 73420,
+        "word": "土耳其滑雪度假区酒店火灾66人遇难",
+        "onboard_time": 1737463819,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 73019,
+        "num": 73019,
+        "word": "文淇21岁再入围三大主竞赛",
+        "onboard_time": 1737470779,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72602,
+        "num": 72602,
+        "word": "杨紫觉得国色芳华好像才刚刚开始",
+        "onboard_time": 1737466219,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72324,
+        "num": 72324,
+        "word": "BamBam否认与Jennie恋爱",
+        "onboard_time": 1737463158,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71409,
+        "num": 71409,
+        "word": "国色芳华27集预告",
+        "onboard_time": 1737474257,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67041,
+        "num": 67041,
+        "word": "祝绪丹人晕了但嘴还甜",
+        "onboard_time": 1737473779,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66004,
+        "num": 66004,
+        "word": "吴奇隆刘诗诗结婚十周年",
+        "onboard_time": 1737439818,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64169,
+        "num": 64169,
+        "word": "2025春节档预售3天破3亿",
+        "onboard_time": 1737451759,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 63986,
+        "num": 63986,
+        "word": "当年前做了美甲还要上班时",
+        "onboard_time": 1737454577,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56359,
+        "num": 63972,
+        "word": "射雕英雄传大年初一预售票房破亿",
+        "onboard_time": 1737474257,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 54431,
+        "num": 63969,
+        "word": "李昀锐三十年河东三十年河西",
+        "onboard_time": 1737458298,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同普京举行视频会晤#"
+    }
+  }
+}

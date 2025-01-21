@@ -1,6 +1,6 @@
 {
   "startTime": 1737476916141,
-  "endTime": 1737476916141,
+  "endTime": 1737477813241,
   "band_list": [
     {
       "raw_hot": 840926,
@@ -59,7 +59,7 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 302756,
+      "raw_hot": 315691,
       "num": 153427,
       "word": "朱亚文晒婚戒",
       "onboard_time": 1737466398,
@@ -123,7 +123,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 188686,
+      "raw_hot": 189420,
       "num": 188686,
       "word": "王嘉尔朱一龙王鹤棣巴黎合照",
       "onboard_time": 1737459619,
@@ -137,6 +137,14 @@
       "onboard_time": 1737465020,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179581,
+      "num": 179581,
+      "word": "无畏打野",
+      "onboard_time": 1737474618,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 160188,
@@ -163,20 +171,20 @@
       "category": "数码,民生新闻"
     },
     {
-      "raw_hot": 153704,
-      "num": 153704,
-      "word": "无畏打野",
-      "onboard_time": 1737474618,
-      "rank": 19,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 150728,
       "num": 150728,
       "word": "马龙送李现To签球拍",
       "onboard_time": 1737472821,
       "rank": 23,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 142745,
+      "num": 136134,
+      "word": "春节档电影最想看哪部",
+      "onboard_time": 1737462258,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 140767,
@@ -193,14 +201,6 @@
       "onboard_time": 1737468619,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 136134,
-      "num": 136134,
-      "word": "春节档电影最想看哪部",
-      "onboard_time": 1737462258,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 121083,
@@ -225,6 +225,14 @@
       "onboard_time": 1737465318,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112084,
+      "num": 144135,
+      "word": "37岁德约和37岁教练穆雷拥抱",
+      "onboard_time": 1737474558,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 106254,
@@ -267,14 +275,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 96946,
-      "num": 144135,
-      "word": "37岁德约和37岁教练穆雷拥抱",
-      "onboard_time": 1737474558,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 96285,
       "num": 96285,
       "word": "土耳其滑雪度假区酒店火灾66人遇难",
@@ -289,6 +289,14 @@
       "onboard_time": 1737466219,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85726,
+      "num": 85726,
+      "word": "小伙留了3年头发捐给化疗患者",
+      "onboard_time": 1737475338,
+      "rank": 45,
+      "category": "正能量"
     },
     {
       "raw_hot": 84460,
@@ -347,6 +355,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76920,
+      "num": 245644,
+      "word": "苏享茂哥哥称翟欣欣鞠躬道歉",
+      "onboard_time": 1737476537,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76516,
+      "num": 141946,
+      "word": "刘诗诗曾说好的爱情是彼此用心",
+      "onboard_time": 1737474498,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 73084,
       "num": 79681,
       "word": "射雕微博直播预告",
@@ -371,23 +395,15 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 60952,
-      "num": 80053,
-      "word": "小伙留了3年头发捐给化疗患者",
-      "onboard_time": 1737475338,
-      "rank": 45,
-      "category": "正能量"
+      "raw_hot": 54431,
+      "num": 63969,
+      "word": "李昀锐三十年河东三十年河西",
+      "onboard_time": 1737458298,
+      "rank": 49,
+      "category": "剧集"
     },
     {
-      "raw_hot": 53839,
-      "num": 141946,
-      "word": "刘诗诗曾说好的爱情是彼此用心",
-      "onboard_time": 1737474498,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 35045,
+      "raw_hot": 37478,
       "num": 487101,
       "word": "浓浓的年味已经扑面而来",
       "onboard_time": 1737465919,
@@ -395,11 +411,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23384,
-      "num": 245644,
-      "word": "苏享茂哥哥称翟欣欣鞠躬道歉",
-      "onboard_time": 1737476537,
-      "rank": 9,
+      "raw_hot": 19019,
+      "num": 109578,
+      "word": "浙江人半夜被摇醒了",
+      "onboard_time": 1737477735,
+      "rank": 29,
       "category": "民生新闻"
     }
   ],

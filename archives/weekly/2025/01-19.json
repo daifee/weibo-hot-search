@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737476916141,
+  "endTime": 1737477813241,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -4379,6 +4379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179581,
+      "num": 179581,
+      "word": "无畏打野",
+      "onboard_time": 1737474618,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 179402,
       "num": 224366,
       "word": "打工不易哪吒敖丙也要卖艺",
@@ -5313,14 +5321,6 @@
       "onboard_time": 1737271278,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 153704,
-      "num": 153704,
-      "word": "无畏打野",
-      "onboard_time": 1737474618,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 153110,
@@ -7107,6 +7107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112084,
+      "num": 144135,
+      "word": "37岁德约和37岁教练穆雷拥抱",
+      "onboard_time": 1737474558,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112079,
       "num": 112079,
       "word": "LPL",
@@ -7867,14 +7875,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 96946,
-      "num": 144135,
-      "word": "37岁德约和37岁教练穆雷拥抱",
-      "onboard_time": 1737474558,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 96897,
       "num": 152079,
       "word": "过年前神十九航天员在忙些啥",
@@ -8155,6 +8155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85726,
+      "num": 85726,
+      "word": "小伙留了3年头发捐给化疗患者",
+      "onboard_time": 1737475338,
+      "rank": 45,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 85631,
       "num": 205785,
       "word": "盛李豪选拔赛第一",
@@ -8361,6 +8369,22 @@
       "onboard_time": 1737390259,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 76920,
+      "num": 245644,
+      "word": "苏享茂哥哥称翟欣欣鞠躬道歉",
+      "onboard_time": 1737476537,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76516,
+      "num": 141946,
+      "word": "刘诗诗曾说好的爱情是彼此用心",
+      "onboard_time": 1737474498,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 76458,
@@ -8603,14 +8627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 60952,
-      "num": 80053,
-      "word": "小伙留了3年头发捐给化疗患者",
-      "onboard_time": 1737475338,
-      "rank": 45,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 60900,
       "num": 326324,
       "word": "韩检方或2月5日前后起诉尹锡悦",
@@ -8681,14 +8697,6 @@
       "onboard_time": 1737365058,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 53839,
-      "num": 141946,
-      "word": "刘诗诗曾说好的爱情是彼此用心",
-      "onboard_time": 1737474498,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 53834,
@@ -9003,6 +9011,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 37478,
+      "num": 656532,
+      "word": "浓浓的年味已经扑面而来",
+      "onboard_time": 1737465919,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37386,
       "num": 285870,
       "word": "人物2024年度人物揭晓",
@@ -9057,14 +9073,6 @@
       "onboard_time": 1737410412,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 35045,
-      "num": 656532,
-      "word": "浓浓的年味已经扑面而来",
-      "onboard_time": 1737465919,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35028,
@@ -9331,14 +9339,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 23384,
-      "num": 245644,
-      "word": "苏享茂哥哥称翟欣欣鞠躬道歉",
-      "onboard_time": 1737476537,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23091,
       "num": 23091,
       "word": "张极镂空渔网毛衣look",
@@ -9465,6 +9465,14 @@
       "onboard_time": 1737397452,
       "rank": 49,
       "category": "体育,民生新闻"
+    },
+    {
+      "raw_hot": 19019,
+      "num": 109578,
+      "word": "浙江人半夜被摇醒了",
+      "onboard_time": 1737477735,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18885,
