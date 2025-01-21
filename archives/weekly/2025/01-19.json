@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737469272794,
+  "endTime": 1737470376756,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -523,6 +523,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 1047474,
+      "num": 1030602,
+      "word": "朱亚文晒婚戒",
+      "onboard_time": 1737466398,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1046204,
       "num": 1046204,
       "word": "正常腿被医生伪装成畸形做断骨增高",
@@ -537,14 +545,6 @@
       "onboard_time": 1737292520,
       "rank": 27,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1030602,
-      "num": 1030602,
-      "word": "朱亚文晒婚戒",
-      "onboard_time": 1737466398,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 1028719,
@@ -963,20 +963,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 691735,
+      "num": 691735,
+      "word": "男生花7百买101小时硬座回家后续",
+      "onboard_time": 1737464720,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 687464,
       "num": 260208,
       "word": "特朗普发帖呼吁挽救TikTok",
       "onboard_time": 1737299900,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 676661,
-      "num": 676661,
-      "word": "男生花7百买101小时硬座回家后续",
-      "onboard_time": 1737464720,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 675486,
@@ -1017,6 +1017,14 @@
       "onboard_time": 1737392777,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 648088,
+      "num": 564732,
+      "word": "胜意自尽",
+      "onboard_time": 1737467662,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 647227,
@@ -1268,7 +1276,7 @@
     },
     {
       "raw_hot": 549251,
-      "num": 508202,
+      "num": 509840,
       "word": "2025央视网络春晚全阵容",
       "onboard_time": 1737456677,
       "rank": 7,
@@ -1888,14 +1896,6 @@
       "word": "大奉打更人云合超国色芳华登顶",
       "onboard_time": 1737290779,
       "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 394436,
-      "num": 394436,
-      "word": "胜意自尽",
-      "onboard_time": 1737467662,
-      "rank": 14,
       "category": "剧集"
     },
     {
@@ -2627,6 +2627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 276703,
+      "num": 208606,
+      "word": "车厘子",
+      "onboard_time": 1737469040,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 275346,
       "num": 225459,
       "word": "李昀锐断眉",
@@ -2800,6 +2808,14 @@
       "word": "母亲腌出七彩腊八蒜女子尝后说无毒",
       "onboard_time": 1737291440,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 259973,
+      "num": 208443,
+      "word": "美籍男子趴出半个身体托举落水老人",
+      "onboard_time": 1737468619,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -3187,6 +3203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223560,
+      "num": 219557,
+      "word": "杨紫觉得国色芳华好像才刚刚开始",
+      "onboard_time": 1737466219,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221845,
       "num": 221845,
       "word": "舒淇感叹夏之光长大了",
@@ -3235,14 +3259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 219557,
-      "num": 219557,
-      "word": "杨紫觉得国色芳华好像才刚刚开始",
-      "onboard_time": 1737466219,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 218911,
       "num": 218911,
       "word": "樊振东拎包还怪时尚的",
@@ -3256,6 +3272,14 @@
       "word": "白鹿残梅映血",
       "onboard_time": 1737267079,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 217400,
+      "num": 206923,
+      "word": "仙台有树档期",
+      "onboard_time": 1737467359,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -3651,14 +3675,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 197788,
-      "num": 197788,
-      "word": "仙台有树档期",
-      "onboard_time": 1737467359,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 197705,
       "num": 197705,
       "word": "射雕英雄传影史国产片预售首日票房冠军",
@@ -3705,6 +3721,14 @@
       "onboard_time": 1737383359,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196220,
+      "num": 196220,
+      "word": "澳网",
+      "onboard_time": 1737428839,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 195854,
@@ -4395,6 +4419,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 176138,
+      "num": 365612,
+      "word": "砂糖橘吃多了真的会变小黄人",
+      "onboard_time": 1737469339,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176055,
       "num": 176055,
       "word": "敖瑞鹏大家的感情都是真的",
@@ -4409,14 +4441,6 @@
       "onboard_time": 1737366858,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 175577,
-      "num": 175577,
-      "word": "美籍男子趴出半个身体托举落水老人",
-      "onboard_time": 1737468619,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 175465,
@@ -4555,14 +4579,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 170252,
-      "num": 170252,
-      "word": "车厘子",
-      "onboard_time": 1737469040,
-      "rank": 36,
-      "category": "美食"
-    },
-    {
       "raw_hot": 170120,
       "num": 170120,
       "word": "张函瑞饭撒",
@@ -4651,6 +4667,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 167471,
+      "num": 167471,
+      "word": "终于知道为啥东北人热情了",
+      "onboard_time": 1737470241,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167231,
       "num": 167231,
       "word": "奔跑吧相思令",
@@ -4664,6 +4688,14 @@
       "word": "陈梦登人物年度面孔",
       "onboard_time": 1737370818,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 166927,
+      "num": 166927,
+      "word": "王楠老公郭斌夸赞刘国梁",
+      "onboard_time": 1737468619,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -4787,14 +4819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163205,
-      "num": 163205,
-      "word": "王楠老公郭斌夸赞刘国梁",
-      "onboard_time": 1737468619,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 163082,
       "num": 243385,
       "word": "一图读懂国补最新政策",
@@ -4803,11 +4827,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 163069,
-      "num": 163069,
-      "word": "澳网",
-      "onboard_time": 1737428839,
-      "rank": 40,
+      "raw_hot": 163007,
+      "num": 222166,
+      "word": "樊振东观战国米",
+      "onboard_time": 1737467119,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -5049,14 +5073,6 @@
       "onboard_time": 1737376398,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 157870,
-      "num": 222166,
-      "word": "樊振东观战国米",
-      "onboard_time": 1737467119,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 157601,
@@ -7024,6 +7040,14 @@
       "word": "相思令腾讯视频站内热度值破20000",
       "onboard_time": 1737389477,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 111980,
+      "num": 111980,
+      "word": "邵芸秦胜意演技",
+      "onboard_time": 1737469940,
+      "rank": 48,
       "category": "剧集"
     },
     {
