@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737441036246,
+  "endTime": 1737441814945,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1833307,
-      "num": 382477,
+      "num": 430808,
       "word": "特朗普提中国一小时后巴拿马回怼",
       "onboard_time": 1737438317,
       "rank": 5,
@@ -177,6 +177,14 @@
       "onboard_time": 1737336198,
       "rank": 19,
       "category": "网红,体育"
+    },
+    {
+      "raw_hot": 1627715,
+      "num": 338983,
+      "word": "吴奇隆刘诗诗结婚十周年",
+      "onboard_time": 1737439818,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1606249,
@@ -249,14 +257,6 @@
       "onboard_time": 1737431779,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1436097,
-      "num": 257446,
-      "word": "吴奇隆刘诗诗结婚十周年",
-      "onboard_time": 1737439818,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1407785,
@@ -377,6 +377,14 @@
       "onboard_time": 1737288799,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1149596,
+      "num": 914547,
+      "word": "桃黑黑 易梦玲",
+      "onboard_time": 1737439938,
+      "rank": 3,
+      "category": "网红"
     },
     {
       "raw_hot": 1146467,
@@ -584,14 +592,6 @@
       "word": "潘宏曾说没有自己艾特早安乐死了",
       "onboard_time": 1737424996,
       "rank": 12,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 914547,
-      "num": 914547,
-      "word": "桃黑黑 易梦玲",
-      "onboard_time": 1737439938,
-      "rank": 3,
       "category": "网红"
     },
     {
@@ -1188,7 +1188,7 @@
     },
     {
       "raw_hot": 518553,
-      "num": 258239,
+      "num": 325531,
       "word": "网红狗艾特或是窒息死亡",
       "onboard_time": 1737436639,
       "rank": 42,
@@ -1236,7 +1236,7 @@
     },
     {
       "raw_hot": 504328,
-      "num": 329895,
+      "num": 388809,
       "word": "张馨予何捷东北滑雪",
       "onboard_time": 1737437959,
       "rank": 7,
@@ -1355,6 +1355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 465879,
+      "num": 465879,
+      "word": "高铁座椅上的犄角到底是干啥的",
+      "onboard_time": 1737437598,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 459894,
       "num": 459894,
       "word": "上海老人离世430万和1套房无人继承",
@@ -1409,6 +1417,14 @@
       "onboard_time": 1737345200,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 448090,
+      "num": 316698,
+      "word": "难哄",
+      "onboard_time": 1737438799,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 445429,
@@ -1635,14 +1651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 383617,
-      "num": 383617,
-      "word": "高铁座椅上的犄角到底是干啥的",
-      "onboard_time": 1737437598,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 381612,
       "num": 342129,
       "word": "漂白",
@@ -1803,20 +1811,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 346083,
+      "num": 346083,
+      "word": "12306候补",
+      "onboard_time": 1737440838,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 344887,
       "num": 344887,
       "word": "庞颖念诗给詹青云念红温了",
       "onboard_time": 1737297500,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 344707,
-      "num": 253610,
-      "word": "难哄",
-      "onboard_time": 1737438799,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 344235,
@@ -2035,6 +2043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 306461,
+      "num": 306461,
+      "word": "B站回应员工植入恶意代码报复用户",
+      "onboard_time": 1737439578,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 305779,
       "num": 305779,
       "word": "急诊医生压力大到在家流泪",
@@ -2083,6 +2099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 299579,
+      "num": 299579,
+      "word": "肖战也躲不过直戳心窝的补刀",
+      "onboard_time": 1737439938,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 296789,
       "num": 376353,
       "word": "一听这些歌就知道快过年了",
@@ -2092,7 +2116,7 @@
     },
     {
       "raw_hot": 296753,
-      "num": 255133,
+      "num": 281605,
       "word": "MINNIE开通微博",
       "onboard_time": 1737437118,
       "rank": 31,
@@ -2163,6 +2187,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 284964,
+      "num": 284964,
+      "word": "虞姬新皮肤愿照岁时盈",
+      "onboard_time": 1737439518,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 283936,
       "num": 283936,
       "word": "射雕第二支长预告",
@@ -2201,14 +2233,6 @@
       "onboard_time": 1737343578,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 280177,
-      "num": 280177,
-      "word": "虞姬新皮肤愿照岁时盈",
-      "onboard_time": 1737439518,
-      "rank": 8,
-      "category": "游戏"
     },
     {
       "raw_hot": 279374,
@@ -2265,14 +2289,6 @@
       "onboard_time": 1737244335,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 273552,
-      "num": 254494,
-      "word": "B站回应员工植入恶意代码报复用户",
-      "onboard_time": 1737439578,
-      "rank": 18,
-      "category": "互联网"
     },
     {
       "raw_hot": 273157,
@@ -2635,6 +2651,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 237465,
+      "num": 257094,
+      "word": "高铁座位不同颜色指示灯是什么意思",
+      "onboard_time": 1737439397,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 236778,
+      "num": 290132,
+      "word": "白敬亭章若楠录hi6",
+      "onboard_time": 1737435799,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236755,
       "num": 236755,
       "word": "赵露思脸色",
@@ -2721,14 +2753,6 @@
       "onboard_time": 1737356538,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 228784,
-      "num": 228784,
-      "word": "肖战也躲不过直戳心窝的补刀",
-      "onboard_time": 1737439938,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 228583,
@@ -2947,14 +2971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207564,
-      "num": 230728,
-      "word": "白敬亭章若楠录hi6",
-      "onboard_time": 1737435799,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 207505,
       "num": 207505,
       "word": "艾特",
@@ -3137,14 +3153,6 @@
       "onboard_time": 1737347238,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 198686,
-      "num": 257094,
-      "word": "高铁座位不同颜色指示灯是什么意思",
-      "onboard_time": 1737439397,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 198134,
@@ -3377,14 +3385,6 @@
       "onboard_time": 1737246196,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 191884,
-      "num": 191884,
-      "word": "12306候补",
-      "onboard_time": 1737440838,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 191268,
@@ -3715,6 +3715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177824,
+      "num": 177824,
+      "word": "孟子义李昀锐拼好宣",
+      "onboard_time": 1737440237,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177399,
       "num": 177399,
       "word": "做一次美甲手上皮肤黑一两个色号",
@@ -4035,14 +4043,6 @@
       "category": "电影,剧集"
     },
     {
-      "raw_hot": 164780,
-      "num": 164780,
-      "word": "孟子义李昀锐拼好宣",
-      "onboard_time": 1737440237,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 163730,
       "num": 163730,
       "word": "杨子说一天哭800遍不是他说的",
@@ -4076,7 +4076,7 @@
     },
     {
       "raw_hot": 162964,
-      "num": 229122,
+      "num": 344964,
       "word": "复兴号无障碍车厢有盲文座位号",
       "onboard_time": 1737440120,
       "rank": 30,
@@ -4915,12 +4915,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 137366,
+      "num": 137366,
+      "word": "手机被撞飞后正掉在车轮下被碾压",
+      "onboard_time": 1737439878,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137117,
       "num": 137117,
       "word": "大寒过了就是年",
       "onboard_time": 1737342918,
       "rank": 34,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 137102,
+      "num": 137102,
+      "word": "聪明女人已经计划好哪天洗头了",
+      "onboard_time": 1737441318,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 136792,
@@ -4993,6 +5009,14 @@
       "onboard_time": 1737435499,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135125,
+      "num": 219445,
+      "word": "光遇iOS",
+      "onboard_time": 1737441198,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 135047,
@@ -5596,7 +5620,7 @@
     },
     {
       "raw_hot": 118672,
-      "num": 253882,
+      "num": 286204,
       "word": "高叶学咏春自带大嫂气场",
       "onboard_time": 1737438558,
       "rank": 19,
@@ -5617,6 +5641,14 @@
       "onboard_time": 1737422898,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 118104,
+      "num": 118104,
+      "word": "被易烊千玺纪录片旁白硬控了",
+      "onboard_time": 1737441018,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 117848,
@@ -5937,6 +5969,14 @@
       "onboard_time": 1737351378,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108443,
+      "num": 108443,
+      "word": "兽医师称艾特或是窒息死亡",
+      "onboard_time": 1737441677,
+      "rank": 49,
+      "category": "网红"
     },
     {
       "raw_hot": 108266,
@@ -6369,6 +6409,14 @@
       "onboard_time": 1737356118,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99308,
+      "num": 219289,
+      "word": "漂白上上上上强度",
+      "onboard_time": 1737440298,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 98309,
@@ -7627,6 +7675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 26635,
+      "num": 235216,
+      "word": "巴多萨首进大满贯四强",
+      "onboard_time": 1737440899,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26622,
       "num": 51359,
       "word": "没必要因身高焦虑破坏自己的人生",
@@ -7697,14 +7753,6 @@
       "onboard_time": 1737311712,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 22573,
-      "num": 235216,
-      "word": "巴多萨首进大满贯四强",
-      "onboard_time": 1737440899,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 22569,

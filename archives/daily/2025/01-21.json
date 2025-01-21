@@ -1,6 +1,6 @@
 {
   "startTime": 1737390442496,
-  "endTime": 1737441036246,
+  "endTime": 1737441814945,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -28,11 +28,19 @@
     },
     {
       "raw_hot": 1833307,
-      "num": 382477,
+      "num": 430808,
       "word": "特朗普提中国一小时后巴拿马回怼",
       "onboard_time": 1737438317,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1627715,
+      "num": 338983,
+      "word": "吴奇隆刘诗诗结婚十周年",
+      "onboard_time": 1737439818,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1450182,
@@ -49,14 +57,6 @@
       "onboard_time": 1737431779,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1436097,
-      "num": 257446,
-      "word": "吴奇隆刘诗诗结婚十周年",
-      "onboard_time": 1737439818,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1385559,
@@ -89,6 +89,14 @@
       "onboard_time": 1737415696,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1149596,
+      "num": 914547,
+      "word": "桃黑黑 易梦玲",
+      "onboard_time": 1737439938,
+      "rank": 3,
+      "category": "网红"
     },
     {
       "raw_hot": 1088075,
@@ -152,14 +160,6 @@
       "word": "潘宏曾说没有自己艾特早安乐死了",
       "onboard_time": 1737424996,
       "rank": 12,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 914547,
-      "num": 914547,
-      "word": "桃黑黑 易梦玲",
-      "onboard_time": 1737439938,
-      "rank": 3,
       "category": "网红"
     },
     {
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 518553,
-      "num": 258239,
+      "num": 325531,
       "word": "网红狗艾特或是窒息死亡",
       "onboard_time": 1737436639,
       "rank": 42,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 504328,
-      "num": 329895,
+      "num": 388809,
       "word": "张馨予何捷东北滑雪",
       "onboard_time": 1737437959,
       "rank": 7,
@@ -344,6 +344,22 @@
       "word": "赵今麦受刑戏看出幻肢痛",
       "onboard_time": 1737387737,
       "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 465879,
+      "num": 465879,
+      "word": "高铁座椅上的犄角到底是干啥的",
+      "onboard_time": 1737437598,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 448090,
+      "num": 316698,
+      "word": "难哄",
+      "onboard_time": 1737438799,
+      "rank": 20,
       "category": "剧集"
     },
     {
@@ -419,14 +435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 383617,
-      "num": 383617,
-      "word": "高铁座椅上的犄角到底是干啥的",
-      "onboard_time": 1737437598,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 365886,
       "num": 278858,
       "word": "特朗普就任第47任美国总统",
@@ -443,12 +451,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 344707,
-      "num": 253610,
-      "word": "难哄",
-      "onboard_time": 1737438799,
-      "rank": 20,
-      "category": "剧集"
+      "raw_hot": 346083,
+      "num": 346083,
+      "word": "12306候补",
+      "onboard_time": 1737440838,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 332633,
@@ -475,6 +483,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 306461,
+      "num": 306461,
+      "word": "B站回应员工植入恶意代码报复用户",
+      "onboard_time": 1737439578,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 302294,
       "num": 302294,
       "word": "张康乐马柏全费加罗大片花絮",
@@ -483,8 +499,16 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 299579,
+      "num": 299579,
+      "word": "肖战也躲不过直戳心窝的补刀",
+      "onboard_time": 1737439938,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 296753,
-      "num": 255133,
+      "num": 281605,
       "word": "MINNIE开通微博",
       "onboard_time": 1737437118,
       "rank": 31,
@@ -497,6 +521,14 @@
       "onboard_time": 1737395532,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 284964,
+      "num": 284964,
+      "word": "虞姬新皮肤愿照岁时盈",
+      "onboard_time": 1737439518,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 284684,
@@ -523,28 +555,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 280177,
-      "num": 280177,
-      "word": "虞姬新皮肤愿照岁时盈",
-      "onboard_time": 1737439518,
-      "rank": 8,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 275333,
       "num": 158326,
       "word": "张雪峰称给公司350人发2000万年终奖",
       "onboard_time": 1737379818,
       "rank": 21,
       "category": "财经"
-    },
-    {
-      "raw_hot": 273552,
-      "num": 254494,
-      "word": "B站回应员工植入恶意代码报复用户",
-      "onboard_time": 1737439578,
-      "rank": 18,
-      "category": "互联网"
     },
     {
       "raw_hot": 271944,
@@ -675,6 +691,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 237465,
+      "num": 257094,
+      "word": "高铁座位不同颜色指示灯是什么意思",
+      "onboard_time": 1737439397,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 236778,
+      "num": 290132,
+      "word": "白敬亭章若楠录hi6",
+      "onboard_time": 1737435799,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236755,
       "num": 236755,
       "word": "赵露思脸色",
@@ -707,14 +739,6 @@
       "category": "国际时政,互联网"
     },
     {
-      "raw_hot": 228784,
-      "num": 228784,
-      "word": "肖战也躲不过直戳心窝的补刀",
-      "onboard_time": 1737439938,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 223751,
       "num": 329575,
       "word": "王楚钦7367分世排第一",
@@ -739,14 +763,6 @@
       "category": "体育,作品衍生"
     },
     {
-      "raw_hot": 207564,
-      "num": 230728,
-      "word": "白敬亭章若楠录hi6",
-      "onboard_time": 1737435799,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 205513,
       "num": 256154,
       "word": "一听这些歌就知道快过年了",
@@ -768,22 +784,6 @@
       "word": "今起广州正式解禁土狗",
       "onboard_time": 1737437118,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198686,
-      "num": 257094,
-      "word": "高铁座位不同颜色指示灯是什么意思",
-      "onboard_time": 1737439397,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 191884,
-      "num": 191884,
-      "word": "12306候补",
-      "onboard_time": 1737440838,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -849,6 +849,14 @@
       "onboard_time": 1737431238,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177824,
+      "num": 177824,
+      "word": "孟子义李昀锐拼好宣",
+      "onboard_time": 1737440237,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 177789,
@@ -923,14 +931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 164780,
-      "num": 164780,
-      "word": "孟子义李昀锐拼好宣",
-      "onboard_time": 1737440237,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 163218,
       "num": 163218,
       "word": "谁能把陆虎王安宇凑在一起录综艺",
@@ -940,7 +940,7 @@
     },
     {
       "raw_hot": 162964,
-      "num": 229122,
+      "num": 344964,
       "word": "复兴号无障碍车厢有盲文座位号",
       "onboard_time": 1737440120,
       "rank": 30,
@@ -1067,6 +1067,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137366,
+      "num": 137366,
+      "word": "手机被撞飞后正掉在车轮下被碾压",
+      "onboard_time": 1737439878,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137102,
+      "num": 137102,
+      "word": "聪明女人已经计划好哪天洗头了",
+      "onboard_time": 1737441318,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 136272,
       "num": 136272,
       "word": "特朗普币暴涨",
@@ -1081,6 +1097,14 @@
       "onboard_time": 1737435499,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135125,
+      "num": 219445,
+      "word": "光遇iOS",
+      "onboard_time": 1737441198,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 134682,
@@ -1244,7 +1268,7 @@
     },
     {
       "raw_hot": 118672,
-      "num": 253882,
+      "num": 286204,
       "word": "高叶学咏春自带大嫂气场",
       "onboard_time": 1737438558,
       "rank": 19,
@@ -1257,6 +1281,14 @@
       "onboard_time": 1737422898,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 118104,
+      "num": 118104,
+      "word": "被易烊千玺纪录片旁白硬控了",
+      "onboard_time": 1737441018,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 116038,
@@ -1337,6 +1369,14 @@
       "onboard_time": 1737386898,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108443,
+      "num": 108443,
+      "word": "兽医师称艾特或是窒息死亡",
+      "onboard_time": 1737441677,
+      "rank": 49,
+      "category": "网红"
     },
     {
       "raw_hot": 106010,
@@ -1425,6 +1465,14 @@
       "onboard_time": 1737433218,
       "rank": 23,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 99308,
+      "num": 219289,
+      "word": "漂白上上上上强度",
+      "onboard_time": 1737440298,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 97533,
@@ -1811,6 +1859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 26635,
+      "num": 235216,
+      "word": "巴多萨首进大满贯四强",
+      "onboard_time": 1737440899,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26413,
       "num": 142032,
       "word": "姚润昊握紧拳头搞优化",
@@ -1841,14 +1897,6 @@
       "onboard_time": 1737400271,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 22573,
-      "num": 235216,
-      "word": "巴多萨首进大满贯四强",
-      "onboard_time": 1737440899,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 22435,
