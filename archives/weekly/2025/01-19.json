@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737448853849,
+  "endTime": 1737451418513,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -259,20 +259,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1439809,
+      "num": 1439809,
+      "word": "国色芳华第二季",
+      "onboard_time": 1737447438,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1407785,
       "num": 1407785,
       "word": "外交部回应X不被允许在中国运营",
       "onboard_time": 1737366017,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1404789,
-      "num": 1404789,
-      "word": "国色芳华第二季",
-      "onboard_time": 1737447438,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 1385559,
@@ -313,6 +313,14 @@
       "onboard_time": 1737328153,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1339113,
+      "num": 1339113,
+      "word": "工行回应女子存款80万取不出",
+      "onboard_time": 1737447618,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1292150,
@@ -452,7 +460,7 @@
     },
     {
       "raw_hot": 1063521,
-      "num": 463102,
+      "num": 742391,
       "word": "赵露思12小时ins点赞破百万",
       "onboard_time": 1737443359,
       "rank": 17,
@@ -755,14 +763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 769500,
-      "num": 276991,
-      "word": "工行回应女子存款80万取不出",
-      "onboard_time": 1737447618,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 758879,
       "num": 920817,
       "word": "央视曝断骨增高灰色产业链",
@@ -780,7 +780,7 @@
     },
     {
       "raw_hot": 752882,
-      "num": 318745,
+      "num": 333477,
       "word": "朱亚文方否认离婚",
       "onboard_time": 1737447018,
       "rank": 12,
@@ -1803,6 +1803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 368834,
+      "num": 231048,
+      "word": "胜意只是秦五娘的一场梦",
+      "onboard_time": 1737449899,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 368440,
       "num": 368440,
       "word": "甲状腺癌具有遗传性",
@@ -2419,6 +2427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 271579,
+      "num": 228982,
+      "word": "孟子义将赔偿款捐赠公益",
+      "onboard_time": 1737449659,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270790,
       "num": 151312,
       "word": "张峻豪发言",
@@ -2675,6 +2691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246140,
+      "num": 167989,
+      "word": "美政府关闭入境App移民大哭",
+      "onboard_time": 1737450379,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 245844,
       "num": 245844,
       "word": "Doinb瑞兹好猛",
@@ -2769,6 +2793,14 @@
       "onboard_time": 1737397332,
       "rank": 35,
       "category": "网红"
+    },
+    {
+      "raw_hot": 237731,
+      "num": 226854,
+      "word": "小红书APP启用新英文名",
+      "onboard_time": 1737450498,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 237465,
@@ -2873,6 +2905,14 @@
       "onboard_time": 1737243074,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 226836,
+      "num": 226836,
+      "word": "翟欣欣涉敲诈勒索案一审择期宣判",
+      "onboard_time": 1737448938,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 223751,
@@ -3859,6 +3899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 178686,
+      "num": 178686,
+      "word": "诗情画奕",
+      "onboard_time": 1737450798,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178291,
       "num": 178291,
       "word": "孟子义李昀锐浙江卫视过年",
@@ -4419,6 +4467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158879,
+      "num": 158879,
+      "word": "夏弃疾把郭俊辰拍成李火旺了",
+      "onboard_time": 1737449298,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158772,
       "num": 158772,
       "word": "福建浙江上海震感",
@@ -4473,6 +4529,14 @@
       "onboard_time": 1737337396,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156713,
+      "num": 156713,
+      "word": "杨迪吐槽的到底是谁",
+      "onboard_time": 1737448217,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 156660,
@@ -4552,14 +4616,6 @@
       "word": "2025央视网络春晚首波阵容官宣",
       "onboard_time": 1737432799,
       "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 154310,
-      "num": 154310,
-      "word": "杨迪吐槽的到底是谁",
-      "onboard_time": 1737448217,
-      "rank": 35,
       "category": "综艺"
     },
     {
@@ -5204,7 +5260,7 @@
     },
     {
       "raw_hot": 136036,
-      "num": 136036,
+      "num": 183894,
       "word": "翟欣欣涉嫌敲诈勒索案择期宣判",
       "onboard_time": 1737447499,
       "rank": 40,
@@ -5347,6 +5403,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 132274,
+      "num": 132274,
+      "word": "赵达文淇吻戏",
+      "onboard_time": 1737450978,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132177,
       "num": 132177,
       "word": "孙颖莎希望冬训丰富自己",
@@ -5467,10 +5531,26 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128849,
+      "num": 128849,
+      "word": "白鹿敖瑞鹏要二搭三搭一搭再搭啊",
+      "onboard_time": 1737449539,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128325,
       "num": 128325,
       "word": "尹锡悦穿囚服拍摄嫌疑人照片",
       "onboard_time": 1737305235,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 127977,
+      "num": 132666,
+      "word": "外交部回应美国将退出巴黎协定",
+      "onboard_time": 1737449598,
       "rank": 35,
       "category": "国际时政"
     },
@@ -6339,6 +6419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107081,
+      "num": 107081,
+      "word": "JDG",
+      "onboard_time": 1737451397,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 106577,
       "num": 107891,
       "word": "白鹿听说菩提村有敖瑞鹏熟人在",
@@ -6753,6 +6841,14 @@
       "onboard_time": 1737358457,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97781,
+      "num": 125952,
+      "word": "翟欣欣当庭认罪认罚",
+      "onboard_time": 1737451279,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97689,
@@ -7563,6 +7659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52287,
+      "num": 228830,
+      "word": "Kimi对标OpenAI多模态o1全球首次",
+      "onboard_time": 1737449478,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 52258,
       "num": 117962,
       "word": "Doinb用FPX李青皮肤",
@@ -8368,6 +8472,14 @@
       "word": "热心网友教老外快速入门北京话",
       "onboard_time": 1737235151,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12602,
+      "num": 1036813,
+      "word": "9张对比图看黄河变化有多大",
+      "onboard_time": 1737432799,
+      "rank": 2,
       "category": "民生新闻"
     },
     {

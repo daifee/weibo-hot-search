@@ -1,0 +1,410 @@
+{
+  "runTime": 1737451418513,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1439809,
+        "num": 1439809,
+        "word": "国色芳华第二季",
+        "onboard_time": 1737447438,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1339113,
+        "num": 1339113,
+        "word": "工行回应女子存款80万取不出",
+        "onboard_time": 1737447618,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12602,
+        "num": 1036813,
+        "word": "9张对比图看黄河变化有多大",
+        "onboard_time": 1737432799,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 742391,
+        "num": 742391,
+        "word": "赵露思12小时ins点赞破百万",
+        "onboard_time": 1737443359,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 641789,
+        "num": 641789,
+        "word": "第一批聪明的人已经堵在路上",
+        "onboard_time": 1737435739,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338656,
+        "num": 338656,
+        "word": "手机被撞飞后正掉在车轮下被碾压",
+        "onboard_time": 1737439878,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 610869,
+        "num": 334324,
+        "word": "桃黑黑 易梦玲",
+        "onboard_time": 1737439938,
+        "rank": 6,
+        "category": "网红,游戏"
+      },
+      {
+        "raw_hot": 638513,
+        "num": 333477,
+        "word": "朱亚文方否认离婚",
+        "onboard_time": 1737447018,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329683,
+        "num": 329683,
+        "word": "特朗普一提中国外媒马上澄清",
+        "onboard_time": 1737442217,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 234856,
+        "num": 234856,
+        "word": "海鸥联合行动逮捕嫌犯7万余名",
+        "onboard_time": 1737445579,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 802504,
+        "num": 234644,
+        "word": "特朗普提中国一小时后巴拿马回怼",
+        "onboard_time": 1737438317,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 498574,
+        "num": 233664,
+        "word": "吴奇隆刘诗诗结婚十周年",
+        "onboard_time": 1737439818,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 531592,
+        "num": 233082,
+        "word": "特朗普宣布美国退出世界卫生组织",
+        "onboard_time": 1737423857,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 450651,
+        "num": 232825,
+        "word": "潘宏基地另一网红狗疑被咬死",
+        "onboard_time": 1737437357,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 445492,
+        "num": 231942,
+        "word": "赶公交的SM男练习生",
+        "onboard_time": 1737444798,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368834,
+        "num": 231048,
+        "word": "胜意只是秦五娘的一场梦",
+        "onboard_time": 1737449899,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 329799,
+        "num": 230775,
+        "word": "浪姐6网传全员阵容",
+        "onboard_time": 1737444378,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306041,
+        "num": 229809,
+        "word": "孙俪不语只是一味展示才艺",
+        "onboard_time": 1737445397,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271579,
+        "num": 228982,
+        "word": "孟子义将赔偿款捐赠公益",
+        "onboard_time": 1737449659,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52287,
+        "num": 228830,
+        "word": "Kimi对标OpenAI多模态o1全球首次",
+        "onboard_time": 1737449478,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 264867,
+        "num": 227764,
+        "word": "难哄",
+        "onboard_time": 1737438799,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237731,
+        "num": 226854,
+        "word": "小红书APP启用新英文名",
+        "onboard_time": 1737450498,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 226836,
+        "num": 226836,
+        "word": "翟欣欣涉敲诈勒索案一审择期宣判",
+        "onboard_time": 1737448938,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219607,
+        "num": 219607,
+        "word": "李赛纶李灿赫分手",
+        "onboard_time": 1737445638,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206764,
+        "num": 206764,
+        "word": "漂白",
+        "onboard_time": 1737438258,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200614,
+        "num": 200614,
+        "word": "高铁座椅上的犄角到底是干啥的",
+        "onboard_time": 1737437598,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79712,
+        "num": 183894,
+        "word": "翟欣欣涉嫌敲诈勒索案择期宣判",
+        "onboard_time": 1737447499,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178686,
+        "num": 178686,
+        "word": "诗情画奕",
+        "onboard_time": 1737450798,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174389,
+        "num": 174389,
+        "word": "胡歌刘诗诗一开口就是老养猫人了",
+        "onboard_time": 1737447618,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170549,
+        "num": 170549,
+        "word": "蔡文姬蛇年限定皮肤",
+        "onboard_time": 1737446898,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 246140,
+        "num": 167989,
+        "word": "美政府关闭入境App移民大哭",
+        "onboard_time": 1737450379,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158879,
+        "num": 158879,
+        "word": "夏弃疾把郭俊辰拍成李火旺了",
+        "onboard_time": 1737449298,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158852,
+        "num": 158852,
+        "word": "春晚最年轻的00后主持人来了",
+        "onboard_time": 1737431779,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156713,
+        "num": 156713,
+        "word": "杨迪吐槽的到底是谁",
+        "onboard_time": 1737448217,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136520,
+        "num": 136520,
+        "word": "12306候补",
+        "onboard_time": 1737440838,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127977,
+        "num": 132666,
+        "word": "外交部回应美国将退出巴黎协定",
+        "onboard_time": 1737449598,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132274,
+        "num": 132274,
+        "word": "赵达文淇吻戏",
+        "onboard_time": 1737450978,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131771,
+        "num": 131771,
+        "word": "苹果官网把iPhone写错了",
+        "onboard_time": 1737429739,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 128849,
+        "num": 128849,
+        "word": "白鹿敖瑞鹏要二搭三搭一搭再搭啊",
+        "onboard_time": 1737449539,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97781,
+        "num": 125952,
+        "word": "翟欣欣当庭认罪认罚",
+        "onboard_time": 1737451279,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125444,
+        "num": 125444,
+        "word": "王嘉尔击剑",
+        "onboard_time": 1737447377,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123534,
+        "num": 123534,
+        "word": "MINNIE开通微博",
+        "onboard_time": 1737437118,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120294,
+        "num": 120294,
+        "word": "李昀锐冰湖重生戴面具路透",
+        "onboard_time": 1737448278,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120122,
+        "num": 120122,
+        "word": "光遇",
+        "onboard_time": 1737432077,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113444,
+        "num": 113444,
+        "word": "聪明女人已经计划好哪天洗头了",
+        "onboard_time": 1737441318,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112021,
+        "num": 112021,
+        "word": "苏享茂哥哥发微博网友为其加油",
+        "onboard_time": 1737444378,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109522,
+        "num": 109522,
+        "word": "B站回应员工植入恶意代码报复用户",
+        "onboard_time": 1737439578,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 107081,
+        "num": 107081,
+        "word": "JDG",
+        "onboard_time": 1737451397,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105401,
+        "num": 105401,
+        "word": "潘宏曾说没有自己艾特早安乐死了",
+        "onboard_time": 1737424996,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 100734,
+        "num": 100734,
+        "word": "父亲把15万藏被子里被儿子误扔",
+        "onboard_time": 1737426798,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同党外人士共迎新春#"
+    }
+  }
+}
