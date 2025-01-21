@@ -1,6 +1,6 @@
 {
   "startTime": 1737476916141,
-  "endTime": 1737494456798,
+  "endTime": 1737495340667,
   "band_list": [
     {
       "raw_hot": 1080888,
@@ -243,6 +243,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 121038,
+      "num": 121038,
+      "word": "潘宏道歉文已获近70万点赞",
+      "onboard_time": 1737493571,
+      "rank": 1,
+      "category": "网红"
+    },
+    {
       "raw_hot": 115378,
       "num": 115378,
       "word": "漂白10集反转",
@@ -257,14 +265,6 @@
       "onboard_time": 1737474558,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 109185,
-      "num": 109185,
-      "word": "潘宏道歉文已获近70万点赞",
-      "onboard_time": 1737493571,
-      "rank": 1,
-      "category": "网红"
     },
     {
       "raw_hot": 106254,
@@ -515,6 +515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 31859,
+      "num": 31859,
+      "word": "美国退出巴黎协定意味着什么",
+      "onboard_time": 1737491711,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 29605,
       "num": 35518,
       "word": "台湾台南地震多地震感明显",
@@ -539,14 +547,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 24797,
-      "num": 24797,
-      "word": "美国退出巴黎协定意味着什么",
-      "onboard_time": 1737491711,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 23375,
       "num": 23375,
       "word": "成毅谢淮安拍立得",
@@ -561,6 +561,14 @@
       "onboard_time": 1737485651,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21310,
+      "num": 21310,
+      "word": "王菲好友否认参加春晚",
+      "onboard_time": 1737493571,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 20606,
@@ -579,12 +587,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 16614,
-      "num": 16614,
-      "word": "王菲好友否认参加春晚",
-      "onboard_time": 1737493571,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 16762,
+      "num": 16762,
+      "word": "电影封神第二部",
+      "onboard_time": 1737485052,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 15803,
@@ -595,28 +603,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14929,
-      "num": 15679,
-      "word": "电影封神第二部",
-      "onboard_time": 1737485052,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 14672,
-      "num": 15674,
-      "word": "人事总监安排父母吃空饷",
-      "onboard_time": 1737488532,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14672,
-      "num": 15678,
+      "raw_hot": 14703,
+      "num": 16352,
       "word": "特朗普称考虑对墨西哥加拿大征收25%的关税",
       "onboard_time": 1737488472,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 14672,
+      "num": 16343,
+      "word": "人事总监安排父母吃空饷",
+      "onboard_time": 1737488532,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9582,
