@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/21 13:21:10
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/21 13:38:03
 </p>
 </blockquote>
 <p>
@@ -3939,6 +3939,12 @@ TikTok难民涌入国产APP后表白中国（热度：937746）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E8%81%AA%E6%98%8E%E7%9A%84%E4%BA%BA%E5%B7%B2%E7%BB%8F%E5%A0%B5%E5%9C%A8%E8%B7%AF%E4%B8%8A%23" target="weibo">
+第一批聪明的人已经堵在路上（热度：937410）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E6%85%A7%E4%B9%94%E6%9C%AC%E6%9D%A5%E6%98%AF%E4%B8%8D%E5%A9%9A%E4%B8%BB%E4%B9%89%E8%80%85%23" target="weibo">
 宋慧乔本来是不婚主义者（热度：936848）
 </a>
@@ -6005,12 +6011,6 @@ SM新女团 SMTOWN压轴（热度：743773）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%98%80%E5%84%92%E7%A1%95%E5%A3%AB%E8%AE%BA%E6%96%87%E5%88%86%E6%9E%90%E6%A8%8A%E6%8C%AF%E4%B8%9C%23" target="weibo">
 林昀儒硕士论文分析樊振东（热度：687084）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E4%B8%80%E5%A5%B3%E6%B8%B8%E5%AE%A2%E7%8E%A9%E6%BB%91%E7%BF%94%E4%BC%9E%E7%96%91%E6%8E%89%E8%BF%9B%E6%B0%B4%E5%B8%98%E6%B4%9E%23" target="weibo">
-湖南一女游客玩滑翔伞疑掉进水帘洞（热度：687034）
 </a>
 </li>
 

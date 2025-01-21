@@ -1,6 +1,6 @@
 {
   "startTime": 1737390442496,
-  "endTime": 1737436870914,
+  "endTime": 1737437883577,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -105,6 +105,14 @@
       "onboard_time": 1737393254,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 937410,
+      "num": 937410,
+      "word": "第一批聪明的人已经堵在路上",
+      "onboard_time": 1737435739,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 936752,
@@ -219,6 +227,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 626079,
+      "num": 626079,
+      "word": "智力退回3岁消防员恢复到高中水平",
+      "onboard_time": 1737414855,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 604867,
+      "num": 604867,
+      "word": "美甲",
+      "onboard_time": 1737433459,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 557491,
       "num": 333281,
       "word": "苹果官网把iPhone写错了",
@@ -251,27 +275,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 543971,
-      "num": 543971,
-      "word": "美甲",
-      "onboard_time": 1737433459,
-      "rank": 43,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 537297,
       "num": 537297,
       "word": "男子干电工因为太胆小成技术大神",
       "onboard_time": 1737425837,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 523919,
-      "num": 523919,
-      "word": "智力退回3岁消防员恢复到高中水平",
-      "onboard_time": 1737414855,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -403,6 +411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 302294,
+      "num": 302294,
+      "word": "张康乐马柏全费加罗大片花絮",
+      "onboard_time": 1737436818,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 291854,
       "num": 291854,
       "word": "2岁女童超30种食物过敏体重仅13斤",
@@ -441,14 +457,6 @@
       "onboard_time": 1737379818,
       "rank": 21,
       "category": "财经"
-    },
-    {
-      "raw_hot": 273743,
-      "num": 273743,
-      "word": "第一批聪明的人已经堵在路上",
-      "onboard_time": 1737435739,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 271944,
@@ -523,6 +531,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 258239,
+      "num": 258239,
+      "word": "网红狗艾特或是窒息死亡",
+      "onboard_time": 1737436639,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 254774,
       "num": 254774,
       "word": "潘宏",
@@ -563,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242110,
+      "num": 247802,
+      "word": "林高远的帽子亮相巴黎时装周",
+      "onboard_time": 1737436577,
+      "rank": 19,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 238728,
       "num": 238728,
       "word": "潘宏将母狗卖给狗肉车或违法",
@@ -595,14 +619,6 @@
       "category": "国际时政,互联网"
     },
     {
-      "raw_hot": 227218,
-      "num": 227218,
-      "word": "张康乐马柏全费加罗大片花絮",
-      "onboard_time": 1737436818,
-      "rank": 26,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 223751,
       "num": 329575,
       "word": "王楚钦7367分世排第一",
@@ -619,11 +635,11 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 214626,
-      "num": 247802,
-      "word": "林高远的帽子亮相巴黎时装周",
-      "onboard_time": 1737436577,
-      "rank": 19,
+      "raw_hot": 210339,
+      "num": 210339,
+      "word": "樊振东棒球大片",
+      "onboard_time": 1737437719,
+      "rank": 27,
       "category": "体育,作品衍生"
     },
     {
@@ -651,6 +667,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 192595,
+      "num": 192595,
+      "word": "MINNIE开通微博",
+      "onboard_time": 1737437118,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191268,
       "num": 191268,
       "word": "艾特主人称会有后续",
@@ -673,6 +697,14 @@
       "onboard_time": 1737389657,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185351,
+      "num": 185351,
+      "word": "奶奶卖咖啡总忘了收钱才能喝",
+      "onboard_time": 1737436039,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184339,
@@ -819,6 +851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 149267,
+      "num": 194606,
+      "word": "陈丽君演出现场偶遇尚雯婕朱丹",
+      "onboard_time": 1737437719,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 146754,
       "num": 191525,
       "word": "虞书欣林一新剧过审",
@@ -947,6 +987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125697,
+      "num": 125697,
+      "word": "未定事件簿",
+      "onboard_time": 1737437298,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 125539,
       "num": 125539,
       "word": "时代少年团官宣加盟找乐子大会",
@@ -971,12 +1019,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 122674,
-      "num": 122674,
-      "word": "网红狗艾特或是窒息死亡",
-      "onboard_time": 1737436639,
-      "rank": 42,
-      "category": "网红"
+      "raw_hot": 123234,
+      "num": 123234,
+      "word": "敖瑞鹏想和白鹿二搭演领导下属",
+      "onboard_time": 1737434840,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 122681,
+      "num": 122681,
+      "word": "Icon复盘Rookie沙皇失误",
+      "onboard_time": 1737436398,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 122280,
@@ -987,11 +1043,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 121452,
-      "num": 121452,
-      "word": "奶奶卖咖啡总忘了收钱才能喝",
-      "onboard_time": 1737436039,
-      "rank": 43,
+      "raw_hot": 122043,
+      "num": 122043,
+      "word": "年会游戏女子粘走一排奖金",
+      "onboard_time": 1737434240,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -1011,16 +1067,16 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 118954,
-      "num": 118954,
-      "word": "Icon复盘Rookie沙皇失误",
-      "onboard_time": 1737436398,
-      "rank": 44,
-      "category": "电竞"
+      "raw_hot": 118893,
+      "num": 118893,
+      "word": "今起广州正式解禁土狗",
+      "onboard_time": 1737437118,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118761,
-      "num": 118761,
+      "num": 173413,
       "word": "用甲骨文打开非遗春节",
       "onboard_time": 1737436218,
       "rank": 46,
@@ -1033,22 +1089,6 @@
       "onboard_time": 1737422898,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 118170,
-      "num": 118823,
-      "word": "敖瑞鹏想和白鹿二搭演领导下属",
-      "onboard_time": 1737434840,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 117755,
-      "num": 117755,
-      "word": "年会游戏女子粘走一排奖金",
-      "onboard_time": 1737434240,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116038,
@@ -1116,7 +1156,7 @@
     },
     {
       "raw_hot": 110023,
-      "num": 110023,
+      "num": 197695,
       "word": "河村勇辉G联赛杀疯了",
       "onboard_time": 1737431177,
       "rank": 46,
@@ -1145,6 +1185,14 @@
       "onboard_time": 1737430938,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 105883,
+      "num": 270613,
+      "word": "高铁座椅上的犄角到底是干啥的",
+      "onboard_time": 1737437598,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105194,
@@ -1201,6 +1249,14 @@
       "onboard_time": 1737373157,
       "rank": 32,
       "category": "汽车,网红"
+    },
+    {
+      "raw_hot": 101264,
+      "num": 235892,
+      "word": "蛟龙行动直播了王俊凯还会远吗",
+      "onboard_time": 1737433699,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 100614,
@@ -1451,16 +1507,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 65576,
-      "num": 146551,
-      "word": "蛟龙行动直播了王俊凯还会远吗",
-      "onboard_time": 1737433699,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 64783,
-      "num": 544428,
+      "num": 652378,
       "word": "神十九航天员完成第二次出舱",
       "onboard_time": 1737432978,
       "rank": 2,
@@ -1489,6 +1537,14 @@
       "onboard_time": 1737391757,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 56237,
+      "num": 239916,
+      "word": "潘宏基地另一网红狗疑被咬死",
+      "onboard_time": 1737437357,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 53834,
