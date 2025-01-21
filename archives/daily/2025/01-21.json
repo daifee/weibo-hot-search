@@ -1,6 +1,6 @@
 {
   "startTime": 1737390442496,
-  "endTime": 1737470376756,
+  "endTime": 1737473040255,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -187,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1060965,
+      "num": 623196,
+      "word": "比伯取关了海莉",
+      "onboard_time": 1737471859,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1047474,
       "num": 1030602,
       "word": "朱亚文晒婚戒",
@@ -281,6 +289,14 @@
       "onboard_time": 1737460218,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 875057,
+      "num": 875057,
+      "word": "车厘子",
+      "onboard_time": 1737469040,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 858011,
@@ -537,6 +553,14 @@
       "onboard_time": 1737463819,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 532403,
+      "num": 532403,
+      "word": "砂糖橘吃多了真的会变小黄人",
+      "onboard_time": 1737469339,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 522437,
@@ -915,14 +939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 276703,
-      "num": 208606,
-      "word": "车厘子",
-      "onboard_time": 1737469040,
-      "rank": 36,
-      "category": "美食"
-    },
-    {
       "raw_hot": 275333,
       "num": 158326,
       "word": "张雪峰称给公司350人发2000万年终奖",
@@ -1019,7 +1035,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 259973,
+      "raw_hot": 260347,
       "num": 208443,
       "word": "美籍男子趴出半个身体托举落水老人",
       "onboard_time": 1737468619,
@@ -1547,14 +1563,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 176138,
-      "num": 365612,
-      "word": "砂糖橘吃多了真的会变小黄人",
-      "onboard_time": 1737469339,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 176055,
       "num": 176055,
       "word": "敖瑞鹏大家的感情都是真的",
@@ -1699,6 +1707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163062,
+      "num": 153604,
+      "word": "文淇21岁再入围三大主竞赛",
+      "onboard_time": 1737470779,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 163007,
       "num": 222166,
       "word": "樊振东观战国米",
@@ -1761,6 +1777,14 @@
       "onboard_time": 1737429498,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159243,
+      "num": 153569,
+      "word": "王鹤棣在巴黎穿上了道明寺皮肤",
+      "onboard_time": 1737472519,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 159006,
@@ -1891,6 +1915,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 152011,
+      "num": 152011,
+      "word": "春晚彩排",
+      "onboard_time": 1737471259,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149904,
       "num": 214276,
       "word": "苏享茂哥哥发微博网友为其加油",
@@ -1945,6 +1977,14 @@
       "onboard_time": 1737423437,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145640,
+      "num": 154259,
+      "word": "夏以昼 苹果",
+      "onboard_time": 1737471559,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 145313,
@@ -2475,6 +2515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 114988,
+      "num": 146931,
+      "word": "中缅泰就铲除妙瓦底电诈窝点达成共识",
+      "onboard_time": 1737472519,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114847,
       "num": 114847,
       "word": "德约科维奇晋级澳网四强",
@@ -2595,6 +2643,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109241,
+      "num": 109241,
+      "word": "当00后开始掌握过年点灯笼大权",
+      "onboard_time": 1737472999,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109129,
+      "num": 367197,
+      "word": "王猛再锤17处涉嫌抄袭内容",
+      "onboard_time": 1737471740,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108443,
       "num": 108443,
       "word": "兽医师称艾特或是窒息死亡",
@@ -2617,6 +2681,14 @@
       "onboard_time": 1737451458,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107498,
+      "num": 107498,
+      "word": "赵今麦女警角色上线",
+      "onboard_time": 1737472939,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 106811,
@@ -2753,6 +2825,14 @@
       "onboard_time": 1737433699,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 101198,
+      "num": 101198,
+      "word": "马龙送李现To签球拍",
+      "onboard_time": 1737472821,
+      "rank": 49,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 100614,
@@ -3249,6 +3329,14 @@
       "onboard_time": 1737466099,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33179,
+      "num": 153975,
+      "word": "夏以昼走啦",
+      "onboard_time": 1737471919,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 30380,

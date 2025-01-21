@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737470376756,
+  "endTime": 1737473040255,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -4427,6 +4427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1060965,
+      "num": 623196,
+      "word": "比伯取关了海莉",
+      "onboard_time": 1737471859,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1060914,
       "num": 1060914,
       "word": "无锡校园持刀伤人案罪犯被执行死刑",
@@ -5905,6 +5913,14 @@
       "onboard_time": 1736477119,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 875057,
+      "num": 875057,
+      "word": "车厘子",
+      "onboard_time": 1736938879,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 874291,
@@ -11105,6 +11121,14 @@
       "onboard_time": 1735901778,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 532403,
+      "num": 532403,
+      "word": "砂糖橘吃多了真的会变小黄人",
+      "onboard_time": 1737469339,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 532148,
@@ -21443,14 +21467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 276703,
-      "num": 208606,
-      "word": "车厘子",
-      "onboard_time": 1736938879,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 276613,
       "num": 209485,
       "word": "朱苏",
@@ -22643,6 +22659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 260347,
+      "num": 208443,
+      "word": "美籍男子趴出半个身体托举落水老人",
+      "onboard_time": 1737468619,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 260258,
       "num": 260258,
       "word": "微博之夜阵容官宣",
@@ -22673,14 +22697,6 @@
       "onboard_time": 1735727542,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 259973,
-      "num": 208443,
-      "word": "美籍男子趴出半个身体托举落水老人",
-      "onboard_time": 1737468619,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 259799,
@@ -34971,14 +34987,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 176138,
-      "num": 365612,
-      "word": "砂糖橘吃多了真的会变小黄人",
-      "onboard_time": 1737469339,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 176055,
       "num": 176055,
       "word": "敖瑞鹏大家的感情都是真的",
@@ -37915,6 +37923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163062,
+      "num": 153604,
+      "word": "文淇21岁再入围三大主竞赛",
+      "onboard_time": 1737470779,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 163007,
       "num": 222166,
       "word": "樊振东观战国米",
@@ -38817,6 +38833,14 @@
       "onboard_time": 1737343398,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159243,
+      "num": 153569,
+      "word": "王鹤棣在巴黎穿上了道明寺皮肤",
+      "onboard_time": 1737472519,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 159214,
@@ -42201,6 +42225,14 @@
       "onboard_time": 1736651899,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 145640,
+      "num": 154259,
+      "word": "夏以昼 苹果",
+      "onboard_time": 1737471559,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 145609,
@@ -50515,6 +50547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114988,
+      "num": 146931,
+      "word": "中缅泰就铲除妙瓦底电诈窝点达成共识",
+      "onboard_time": 1737472519,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114931,
       "num": 158308,
       "word": "李子柒邀你同看2025中国网络视听盛典",
@@ -51955,12 +51995,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109241,
+      "num": 109241,
+      "word": "当00后开始掌握过年点灯笼大权",
+      "onboard_time": 1737472999,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109155,
       "num": 109155,
       "word": "课本中的冬天",
       "onboard_time": 1737337458,
       "rank": 37,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 109129,
+      "num": 367197,
+      "word": "王猛再锤17处涉嫌抄袭内容",
+      "onboard_time": 1737471740,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 109099,
@@ -52288,6 +52344,14 @@
       "word": "何惟芳两种情绪一手拿捏",
       "onboard_time": 1737384920,
       "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 107498,
+      "num": 107498,
+      "word": "赵今麦女警角色上线",
+      "onboard_time": 1737472939,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -53713,6 +53777,14 @@
       "onboard_time": 1737433699,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 101198,
+      "num": 101198,
+      "word": "马龙送李现To签球拍",
+      "onboard_time": 1737472821,
+      "rank": 49,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 101184,
@@ -63345,6 +63417,14 @@
       "onboard_time": 1737189618,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33179,
+      "num": 153975,
+      "word": "夏以昼走啦",
+      "onboard_time": 1737471919,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 33143,

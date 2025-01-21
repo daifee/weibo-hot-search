@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/21 22:39:36
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/21 23:24:00
 </p>
 </blockquote>
 <p>
@@ -3333,6 +3333,12 @@ TikTok发声明感谢特朗普澄清保证（热度：1070924）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BC%AF%E5%8F%96%E5%85%B3%E4%BA%86%E6%B5%B7%E8%8E%89%23" target="weibo">
+比伯取关了海莉（热度：1060965）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E9%94%A1%E6%A0%A1%E5%9B%AD%E6%8C%81%E5%88%80%E4%BC%A4%E4%BA%BA%E6%A1%88%E7%BD%AA%E7%8A%AF%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
 无锡校园持刀伤人案罪犯被执行死刑（热度：1060914）
 </a>
@@ -4439,6 +4445,12 @@ D社曝金敏喜怀孕（热度：893355）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%8B%B1%E4%B8%AD%E8%8B%A6%E8%AF%BB24%E5%B9%B4%E8%8E%B7%E5%8D%9A%E5%A3%AB%E5%AD%A6%E4%BD%8D%23" target="weibo">
 男子狱中苦读24年获博士学位（热度：876104）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%23" target="weibo">
+车厘子（热度：875057）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ SM新女团 SMTOWN压轴（热度：743773）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AC%9B%E5%AC%9B%E5%9B%9B%E9%83%8E%E5%88%B0%E7%8E%B0%E5%9C%A8%E6%B2%A1%E5%8A%A0%E4%B8%8A%E5%BE%AE%E4%BF%A1%23" target="weibo">
 嬛嬛四郎到现在没加上微信（热度：695928）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%82%E7%94%B3%E9%81%97%E6%88%90%E5%8A%9F%E5%90%8E%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E7%9B%8A%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
-春节申遗成功后第一批受益者出现了（热度：694707）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%8B%8D%E8%BF%99%E9%87%8C%E6%97%B6%E5%80%99%E6%89%8D24%E5%B2%81%23" target="weibo">
-王鹤棣拍这里时候才24岁（热度：694161）
 </a>
 </li>
 
