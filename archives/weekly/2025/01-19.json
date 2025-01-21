@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737452223893,
+  "endTime": 1737455023686,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -787,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 752836,
+      "num": 752836,
+      "word": "晋江式演技火了",
+      "onboard_time": 1737451998,
+      "rank": 43,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 747743,
       "num": 550108,
       "word": "一路繁花窒息七分钟",
@@ -816,6 +824,14 @@
       "word": "美国最大规模非法移民驱逐行动",
       "onboard_time": 1737414855,
       "rank": 26,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 738544,
+      "num": 370943,
+      "word": "美政府关闭入境App移民大哭",
+      "onboard_time": 1737450379,
+      "rank": 30,
       "category": "国际时政"
     },
     {
@@ -936,14 +952,6 @@
       "word": "拜登给特朗普留了一封信",
       "onboard_time": 1737400872,
       "rank": 44,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 640487,
-      "num": 215949,
-      "word": "美政府关闭入境App移民大哭",
-      "onboard_time": 1737450379,
-      "rank": 30,
       "category": "国际时政"
     },
     {
@@ -1273,6 +1281,14 @@
       "onboard_time": 1737266597,
       "rank": 14,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 515426,
+      "num": 411445,
+      "word": "2025春节档预售3天破3亿",
+      "onboard_time": 1737451759,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 510051,
@@ -1611,6 +1627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 423072,
+      "num": 423072,
+      "word": "买手机平板记得领购新补贴",
+      "onboard_time": 1737452778,
+      "rank": 5,
+      "category": "数码,民生新闻"
+    },
+    {
       "raw_hot": 423014,
       "num": 245045,
       "word": "李昀锐倪虹洁演夫妻",
@@ -1753,6 +1777,14 @@
       "onboard_time": 1737190399,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 376737,
+      "num": 376737,
+      "word": "陈梦采访中笑了快30次",
+      "onboard_time": 1737451877,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 375933,
@@ -1977,6 +2009,14 @@
       "onboard_time": 1737284057,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 337727,
+      "num": 337727,
+      "word": "国补后iPhone16成苹果最香机",
+      "onboard_time": 1737453918,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 336098,
@@ -2219,6 +2259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 298846,
+      "num": 298846,
+      "word": "刘昊然的电子大舅哥是尹正",
+      "onboard_time": 1737454279,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 296789,
       "num": 376353,
       "word": "一听这些歌就知道快过年了",
@@ -2252,7 +2300,7 @@
     },
     {
       "raw_hot": 294418,
-      "num": 226854,
+      "num": 254592,
       "word": "小红书APP启用新英文名",
       "onboard_time": 1737450498,
       "rank": 21,
@@ -2547,6 +2595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 261516,
+      "num": 261516,
+      "word": "MINNIE正式solo出道",
+      "onboard_time": 1737452059,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260386,
       "num": 244575,
       "word": "母亲腌出七彩腊八蒜女子尝后说无毒",
@@ -2633,6 +2689,14 @@
       "onboard_time": 1737259457,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251283,
+      "num": 251283,
+      "word": "空腹断食42小时的变化",
+      "onboard_time": 1737454218,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 250948,
@@ -3291,6 +3355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 199456,
+      "num": 199456,
+      "word": "胜意反杀王擎",
+      "onboard_time": 1737452778,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199376,
       "num": 199376,
       "word": "今起广州正式解禁土狗",
@@ -3883,6 +3955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179619,
+      "num": 179619,
+      "word": "结婚前一天新郎出车祸女子照顾6年",
+      "onboard_time": 1737453558,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179370,
       "num": 179370,
       "word": "都四九天了今年还会冷吗",
@@ -3985,6 +4065,14 @@
       "onboard_time": 1737280218,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 175266,
+      "num": 175266,
+      "word": "人事总监给父母开8年工资套取百万",
+      "onboard_time": 1737452359,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174907,
@@ -4265,6 +4353,14 @@
       "onboard_time": 1737283698,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 165350,
+      "num": 243904,
+      "word": "秦彻百城大银幕",
+      "onboard_time": 1737454457,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 165291,
@@ -4931,6 +5027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145837,
+      "num": 145837,
+      "word": "奔跑吧相思令",
+      "onboard_time": 1737453678,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145835,
       "num": 145835,
       "word": "宋亚轩要不你给我点",
@@ -5057,6 +5161,14 @@
       "onboard_time": 1737339437,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 141517,
+      "num": 141517,
+      "word": "当年前做了美甲还要上班时",
+      "onboard_time": 1737454577,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 141511,
@@ -5209,6 +5321,14 @@
       "onboard_time": 1737377237,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 137995,
+      "num": 137995,
+      "word": "女子羡慕对面楼全是男人干家务",
+      "onboard_time": 1737454218,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137956,
@@ -5747,6 +5867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124354,
+      "num": 124354,
+      "word": "中方回应是否邀请特朗普访华",
+      "onboard_time": 1737454758,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 124340,
       "num": 124340,
       "word": "laser",
@@ -5987,14 +6115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119160,
-      "num": 119160,
-      "word": "陈梦采访中笑了快30次",
-      "onboard_time": 1737451877,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 118975,
       "num": 118975,
       "word": "白月梵星",
@@ -6049,14 +6169,6 @@
       "onboard_time": 1737441018,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 117952,
-      "num": 117952,
-      "word": "晋江式演技火了",
-      "onboard_time": 1737451998,
-      "rank": 43,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 117848,
@@ -6243,6 +6355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112644,
+      "num": 131078,
+      "word": "eStar 星宇",
+      "onboard_time": 1737452478,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112585,
       "num": 293864,
       "word": "2025全军开训名场面",
@@ -6265,14 +6385,6 @@
       "onboard_time": 1737288858,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 111994,
-      "num": 214338,
-      "word": "2025春节档预售3天破3亿",
-      "onboard_time": 1737451759,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 111990,
@@ -6363,14 +6475,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 110476,
-      "num": 110476,
-      "word": "MINNIE正式solo出道",
-      "onboard_time": 1737452059,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 110023,
       "num": 197695,
       "word": "河村勇辉G联赛杀疯了",
@@ -6385,6 +6489,14 @@
       "onboard_time": 1737243674,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 109873,
+      "num": 109873,
+      "word": "王者荣耀组队消费",
+      "onboard_time": 1737452238,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 109819,
@@ -7523,6 +7635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69632,
+      "num": 243385,
+      "word": "一图读懂国补最新政策",
+      "onboard_time": 1737454938,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67819,
       "num": 208329,
       "word": "孙颖莎9650分世排第一",
@@ -7739,6 +7859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 51574,
+      "num": 141411,
+      "word": "张康乐马柏全杂志5分钟破15万",
+      "onboard_time": 1737445217,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 51375,
       "num": 85177,
       "word": "布伦特福德vs利物浦",
@@ -7873,6 +8001,14 @@
       "onboard_time": 1737221534,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 45876,
+      "num": 1036813,
+      "word": "9张对比图看黄河变化有多大",
+      "onboard_time": 1737432799,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43496,
@@ -8240,14 +8376,6 @@
       "word": "解放军版东风夜放花千树",
       "onboard_time": 1737320530,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24861,
-      "num": 1036813,
-      "word": "9张对比图看黄河变化有多大",
-      "onboard_time": 1737432799,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
