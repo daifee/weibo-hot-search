@@ -1,0 +1,410 @@
+{
+  "runTime": 1737456052659,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1234400,
+        "num": 1234400,
+        "word": "晋江式演技火了",
+        "onboard_time": 1737451998,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1001831,
+        "num": 1001831,
+        "word": "国补后iPhone16成苹果最香机",
+        "onboard_time": 1737453918,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51688,
+        "num": 792783,
+        "word": "9张对比图看黄河变化有多大",
+        "onboard_time": 1737432799,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 699658,
+        "num": 699658,
+        "word": "国色芳华第二季",
+        "onboard_time": 1737447438,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 667785,
+        "num": 667785,
+        "word": "工行回应女子存款80万取不出",
+        "onboard_time": 1737447618,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 478189,
+        "num": 478189,
+        "word": "第一批聪明的人已经堵在路上",
+        "onboard_time": 1737435739,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388212,
+        "num": 388212,
+        "word": "2025春节档预售3天破3亿",
+        "onboard_time": 1737451759,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 346928,
+        "num": 346928,
+        "word": "陈梦采访中笑了快30次",
+        "onboard_time": 1737451877,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318679,
+        "num": 318679,
+        "word": "买手机平板记得领购新补贴",
+        "onboard_time": 1737452778,
+        "rank": 8,
+        "category": "数码,民生新闻"
+      },
+      {
+        "raw_hot": 297153,
+        "num": 297153,
+        "word": "漂白",
+        "onboard_time": 1737438258,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 622584,
+        "num": 293979,
+        "word": "特朗普提中国一小时后巴拿马回怼",
+        "onboard_time": 1737438317,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 590841,
+        "num": 289653,
+        "word": "赵露思12小时ins点赞破百万",
+        "onboard_time": 1737443359,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 571677,
+        "num": 287832,
+        "word": "美政府关闭入境App移民大哭",
+        "onboard_time": 1737450379,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 525439,
+        "num": 283295,
+        "word": "桃黑黑 易梦玲",
+        "onboard_time": 1737439938,
+        "rank": 13,
+        "category": "网红,游戏"
+      },
+      {
+        "raw_hot": 460066,
+        "num": 278039,
+        "word": "吴奇隆刘诗诗结婚十周年",
+        "onboard_time": 1737439818,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278012,
+        "num": 278012,
+        "word": "特朗普宣布美国退出世界卫生组织",
+        "onboard_time": 1737423857,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 272351,
+        "num": 272351,
+        "word": "胜意只是秦五娘的一场梦",
+        "onboard_time": 1737449899,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260933,
+        "num": 260933,
+        "word": "特朗普一提中国外媒马上澄清",
+        "onboard_time": 1737442217,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 249344,
+        "num": 249344,
+        "word": "当年前做了美甲还要上班时",
+        "onboard_time": 1737454577,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229790,
+        "num": 229790,
+        "word": "MINNIE正式solo出道",
+        "onboard_time": 1737452059,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163082,
+        "num": 227226,
+        "word": "一图读懂国补最新政策",
+        "onboard_time": 1737454938,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 532805,
+        "num": 223899,
+        "word": "空腹断食42小时的变化",
+        "onboard_time": 1737454218,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 420861,
+        "num": 222322,
+        "word": "朱亚文方否认离婚",
+        "onboard_time": 1737447018,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247347,
+        "num": 217612,
+        "word": "小红书APP启用新英文名",
+        "onboard_time": 1737450498,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 215817,
+        "num": 215817,
+        "word": "秦彻百城大银幕",
+        "onboard_time": 1737454457,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190350,
+        "num": 190350,
+        "word": "人事总监给父母开8年工资套取百万",
+        "onboard_time": 1737452359,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190312,
+        "num": 190312,
+        "word": "赶公交的SM男练习生",
+        "onboard_time": 1737444798,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167128,
+        "num": 185977,
+        "word": "刘昊然的电子大舅哥是尹正",
+        "onboard_time": 1737454279,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170233,
+        "num": 183642,
+        "word": "浪姐6网传全员阵容",
+        "onboard_time": 1737444378,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181812,
+        "num": 181812,
+        "word": "无限暖暖",
+        "onboard_time": 1737454158,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175890,
+        "num": 175890,
+        "word": "潘宏基地另一网红狗疑被咬死",
+        "onboard_time": 1737437357,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 165872,
+        "num": 165872,
+        "word": "胜意反杀王擎",
+        "onboard_time": 1737452778,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161175,
+        "num": 161175,
+        "word": "奔跑吧相思令",
+        "onboard_time": 1737453678,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156930,
+        "num": 156930,
+        "word": "重庆狼队",
+        "onboard_time": 1737455598,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148720,
+        "num": 148720,
+        "word": "难哄",
+        "onboard_time": 1737438799,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145313,
+        "num": 145313,
+        "word": "中方回应是否邀请特朗普访华",
+        "onboard_time": 1737454758,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144161,
+        "num": 144161,
+        "word": "樊振东马龙会师米兰时装周",
+        "onboard_time": 1737455118,
+        "rank": 36,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 143200,
+        "num": 143200,
+        "word": "赵达文淇吻戏",
+        "onboard_time": 1737450978,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143118,
+        "num": 143118,
+        "word": "海鸥联合行动逮捕嫌犯7万余名",
+        "onboard_time": 1737445579,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140297,
+        "num": 140297,
+        "word": "结婚前一天新郎出车祸女子照顾6年",
+        "onboard_time": 1737453558,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138866,
+        "num": 138866,
+        "word": "台一士官长遭战机发动机吸入身亡",
+        "onboard_time": 1737455478,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135435,
+        "num": 135435,
+        "word": "除夕夜家庭喜剧抢先看",
+        "onboard_time": 1737455658,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133364,
+        "num": 133364,
+        "word": "手机被撞飞后正掉在车轮下被碾压",
+        "onboard_time": 1737439878,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128782,
+        "num": 128782,
+        "word": "女子羡慕对面楼全是男人干家务",
+        "onboard_time": 1737454218,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125160,
+        "num": 125160,
+        "word": "杨迪吐槽的到底是谁",
+        "onboard_time": 1737448217,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124861,
+        "num": 124861,
+        "word": "诗情画奕",
+        "onboard_time": 1737450798,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120031,
+        "num": 120031,
+        "word": "德约科维奇vs阿尔卡拉斯",
+        "onboard_time": 1737455538,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112531,
+        "num": 112531,
+        "word": "12306八问八答",
+        "onboard_time": 1737455478,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108263,
+        "num": 108263,
+        "word": "异人2陈朵杀廖忠的真相",
+        "onboard_time": 1737455959,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103393,
+        "num": 103393,
+        "word": "国补后苹果手机跌破3000",
+        "onboard_time": 1737456018,
+        "rank": 49,
+        "category": "数码,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同党外人士共迎新春#"
+    }
+  }
+}
