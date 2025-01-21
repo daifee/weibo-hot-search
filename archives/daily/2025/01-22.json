@@ -1,6 +1,6 @@
 {
   "startTime": 1737476916141,
-  "endTime": 1737485022985,
+  "endTime": 1737487080943,
   "band_list": [
     {
       "raw_hot": 1080888,
@@ -467,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35945,
+      "num": 35945,
+      "word": "外交部回应TikTok收购问题",
+      "onboard_time": 1737484933,
+      "rank": 24,
+      "category": "国际时政,互联网"
+    },
+    {
       "raw_hot": 34183,
       "num": 75824,
       "word": "知情人称翟欣欣案焦点在于如何量刑",
@@ -515,12 +523,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 10353,
-      "num": 34788,
-      "word": "外交部回应TikTok收购问题",
-      "onboard_time": 1737484933,
-      "rank": 24,
-      "category": "国际时政,互联网"
+      "raw_hot": 22167,
+      "num": 22167,
+      "word": "杨紫回应国色芳华第二季",
+      "onboard_time": 1737485651,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 13902,
+      "num": 53005,
+      "word": "中方对美方将退出巴黎协定表示关切",
+      "onboard_time": 1737486131,
+      "rank": 9,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
