@@ -1,0 +1,410 @@
+{
+  "runTime": 1737434390978,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1411228,
+        "num": 1411228,
+        "word": "春晚最年轻的00后主持人来了",
+        "onboard_time": 1737431779,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 564632,
+        "num": 564632,
+        "word": "因救人智力倒退的消防员恢复到高中水平",
+        "onboard_time": 1737414855,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64783,
+        "num": 413985,
+        "word": "神十九航天员完成第二次出舱",
+        "onboard_time": 1737432978,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362875,
+        "num": 362875,
+        "word": "第一批做主播的人开始去班味了",
+        "onboard_time": 1737431177,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348900,
+        "num": 348900,
+        "word": "男子干电工因为太胆小成技术大神",
+        "onboard_time": 1737425837,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 916683,
+        "num": 347370,
+        "word": "杨子黄圣依葛夕留几手签约蜂群",
+        "onboard_time": 1737426558,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 531984,
+        "num": 326088,
+        "word": "特朗普将宣布南部边境进入紧急状态",
+        "onboard_time": 1737424577,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 506115,
+        "num": 307458,
+        "word": "九重紫上星定档",
+        "onboard_time": 1737427759,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 456148,
+        "num": 273796,
+        "word": "赵露思晒休养日常",
+        "onboard_time": 1737415696,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270309,
+        "num": 270309,
+        "word": "台湾台南6.2级地震",
+        "onboard_time": 1737390918,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1687705,
+        "num": 265497,
+        "word": "特朗普宣布美国退出世界卫生组织",
+        "onboard_time": 1737423857,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 767546,
+        "num": 258727,
+        "word": "潘宏曾说没有自己艾特早安乐死了",
+        "onboard_time": 1737424996,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 937029,
+        "num": 254123,
+        "word": "特朗普签令将墨西哥湾改名为美国湾",
+        "onboard_time": 1737429980,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 545915,
+        "num": 242028,
+        "word": "樊振东旁边是霉霉前男友",
+        "onboard_time": 1737422957,
+        "rank": 13,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 378496,
+        "num": 234046,
+        "word": "周锐偶练时不知道偶像不允许恋爱",
+        "onboard_time": 1737429378,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354773,
+        "num": 229955,
+        "word": "2025辽视春晚阵容官宣",
+        "onboard_time": 1737427698,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336561,
+        "num": 221316,
+        "word": "艾特代露娃结果常华森回复了",
+        "onboard_time": 1737421279,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217797,
+        "num": 217797,
+        "word": "美甲",
+        "onboard_time": 1737433459,
+        "rank": 17,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 179742,
+        "num": 216870,
+        "word": "王一博首次加盟视听盛典",
+        "onboard_time": 1737431599,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39315,
+        "num": 215918,
+        "word": "国补到底咋领",
+        "onboard_time": 1737434240,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 675286,
+        "num": 214191,
+        "word": "光遇",
+        "onboard_time": 1737432077,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 504229,
+        "num": 211859,
+        "word": "苹果官网把iPhone写错了",
+        "onboard_time": 1737429739,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 436382,
+        "num": 210563,
+        "word": "曾黎的抹额火到了国外",
+        "onboard_time": 1737432678,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100614,
+        "num": 207484,
+        "word": "米兰大屏被樊振东承包了",
+        "onboard_time": 1737433218,
+        "rank": 23,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 79029,
+        "num": 205908,
+        "word": "领补贴买手机不用交旧手机",
+        "onboard_time": 1737427519,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 340723,
+        "num": 204634,
+        "word": "父亲把15万藏被子里被儿子误扔",
+        "onboard_time": 1737426798,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294033,
+        "num": 202008,
+        "word": "张柏芝谢霆锋二儿子正脸照",
+        "onboard_time": 1737427457,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201960,
+        "num": 201960,
+        "word": "麦琳称未来可能会直播带货",
+        "onboard_time": 1737429679,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186576,
+        "num": 196899,
+        "word": "永劫无间",
+        "onboard_time": 1737432799,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 80991,
+        "num": 194301,
+        "word": "王楚然港风靓女",
+        "onboard_time": 1737433819,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 193270,
+        "num": 193270,
+        "word": "再上6天班就过年了",
+        "onboard_time": 1737417799,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179109,
+        "num": 179109,
+        "word": "白月梵星版最后的晚餐",
+        "onboard_time": 1737432978,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178291,
+        "num": 178291,
+        "word": "孟子义李昀锐浙江卫视过年",
+        "onboard_time": 1737431238,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163661,
+        "num": 163661,
+        "word": "王楚钦7367分世排第一",
+        "onboard_time": 1737431177,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159006,
+        "num": 159006,
+        "word": "张踩铃拖家带口上辽视春晚",
+        "onboard_time": 1737433459,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157564,
+        "num": 157564,
+        "word": "周锐官宣恋情",
+        "onboard_time": 1737383781,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 147444,
+        "num": 147444,
+        "word": "春节前为辛苦一年的自己点赞",
+        "onboard_time": 1737429498,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65576,
+        "num": 146551,
+        "word": "蛟龙行动直播了王俊凯还会远吗",
+        "onboard_time": 1737433699,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146018,
+        "num": 146018,
+        "word": "蔡少芬射雕镜头",
+        "onboard_time": 1737422238,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142086,
+        "num": 142086,
+        "word": "周杰伦昆凌一家五口重回婚礼教堂",
+        "onboard_time": 1737414915,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136762,
+        "num": 136762,
+        "word": "别人谢顶的年纪刘能长头发了",
+        "onboard_time": 1737432618,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135070,
+        "num": 135070,
+        "word": "两姐妹打架爸爸被压在身下",
+        "onboard_time": 1737426737,
+        "rank": 41,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 125883,
+        "num": 125883,
+        "word": "福建震感",
+        "onboard_time": 1737391397,
+        "rank": 42,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 124686,
+        "num": 124686,
+        "word": "台湾地震",
+        "onboard_time": 1737391036,
+        "rank": 43,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 112428,
+        "num": 112428,
+        "word": "女子推理社",
+        "onboard_time": 1737434299,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111087,
+        "num": 111087,
+        "word": "A股地产股集体爆发",
+        "onboard_time": 1737433759,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110023,
+        "num": 110023,
+        "word": "河村勇辉G联赛杀疯了",
+        "onboard_time": 1737431177,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106504,
+        "num": 106504,
+        "word": "年会游戏女子粘走一排奖金",
+        "onboard_time": 1737434240,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102956,
+        "num": 102956,
+        "word": "樊振东演我下班",
+        "onboard_time": 1737433999,
+        "rank": 48,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 99289,
+        "num": 99289,
+        "word": "2025央视网络春晚首波阵容官宣",
+        "onboard_time": 1737432799,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同党外人士共迎新春#"
+    }
+  }
+}
