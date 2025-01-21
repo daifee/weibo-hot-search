@@ -1,6 +1,6 @@
 {
   "startTime": 1737476916141,
-  "endTime": 1737498050138,
+  "endTime": 1737499096005,
   "band_list": [
     {
       "raw_hot": 1080888,
@@ -115,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208515,
+      "num": 208515,
+      "word": "潘宏道歉文已获近70万点赞",
+      "onboard_time": 1737493571,
+      "rank": 1,
+      "category": "网红"
+    },
+    {
       "raw_hot": 208378,
       "num": 208378,
       "word": "胜意自尽",
@@ -161,14 +169,6 @@
       "onboard_time": 1737474618,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 174790,
-      "num": 174790,
-      "word": "潘宏道歉文已获近70万点赞",
-      "onboard_time": 1737493571,
-      "rank": 1,
-      "category": "网红"
     },
     {
       "raw_hot": 160188,
@@ -427,8 +427,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 60451,
-      "num": 49701,
+      "raw_hot": 63136,
+      "num": 60172,
       "word": "美国退出巴黎协定意味着什么",
       "onboard_time": 1737491711,
       "rank": 49,
@@ -441,6 +441,14 @@
       "onboard_time": 1737480194,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 57265,
+      "num": 50290,
+      "word": "王菲好友否认参加春晚",
+      "onboard_time": 1737493571,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 55404,
@@ -467,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 49232,
+      "num": 49232,
+      "word": "特朗普就职典礼出意外木头姐救场",
+      "onboard_time": 1737487451,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 47612,
       "num": 47612,
       "word": "请查收来自孙颖莎的新春祝福",
@@ -475,12 +491,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 46956,
-      "num": 46956,
-      "word": "王菲好友否认参加春晚",
-      "onboard_time": 1737493571,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 45402,
+      "num": 45402,
+      "word": "以士兵无视停火协议射杀儿童",
+      "onboard_time": 1737487692,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 38850,
@@ -491,28 +507,12 @@
       "category": "国际时政,互联网"
     },
     {
-      "raw_hot": 37968,
-      "num": 37968,
-      "word": "特朗普就职典礼出意外木头姐救场",
-      "onboard_time": 1737487451,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 37478,
       "num": 487101,
       "word": "浓浓的年味已经扑面而来",
       "onboard_time": 1737465919,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36293,
-      "num": 37319,
-      "word": "以士兵无视停火协议射杀儿童",
-      "onboard_time": 1737487692,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 34183,
@@ -555,28 +555,36 @@
       "category": "电影"
     },
     {
-      "raw_hot": 23375,
-      "num": 23375,
-      "word": "成毅谢淮安拍立得",
-      "onboard_time": 1737484392,
+      "raw_hot": 24569,
+      "num": 24569,
+      "word": "电影封神第二部",
+      "onboard_time": 1737485052,
       "rank": 43,
-      "category": "剧集"
+      "category": "电影"
     },
     {
-      "raw_hot": 23060,
-      "num": 23060,
+      "raw_hot": 24142,
+      "num": 24142,
+      "word": "特朗普称考虑对墨西哥加拿大征收25%的关税",
+      "onboard_time": 1737488472,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 23820,
+      "num": 23820,
       "word": "杨紫回应国色芳华第二季",
       "onboard_time": 1737485651,
       "rank": 38,
       "category": "剧集"
     },
     {
-      "raw_hot": 22390,
-      "num": 22390,
-      "word": "电影封神第二部",
-      "onboard_time": 1737485052,
+      "raw_hot": 23375,
+      "num": 23375,
+      "word": "成毅谢淮安拍立得",
+      "onboard_time": 1737484392,
       "rank": 43,
-      "category": "电影"
+      "category": "剧集"
     },
     {
       "raw_hot": 20606,
@@ -587,20 +595,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 18228,
-      "num": 18228,
+      "raw_hot": 19812,
+      "num": 22686,
       "word": "一美国边境巡逻人员被枪杀",
       "onboard_time": 1737489011,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 17840,
-      "num": 17840,
-      "word": "特朗普称考虑对墨西哥加拿大征收25%的关税",
-      "onboard_time": 1737488472,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 15803,
