@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737481080013,
+  "endTime": 1737484244163,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -8667,6 +8667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 58564,
+      "num": 130414,
+      "word": "朱亚文一张图回应",
+      "onboard_time": 1737480194,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58444,
       "num": 91357,
       "word": "蔡磊在2024年鼓励静雯坚持抗冻",
@@ -9243,6 +9251,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 29605,
+      "num": 35518,
+      "word": "台湾台南地震多地震感明显",
+      "onboard_time": 1737480133,
+      "rank": 49,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 29371,
       "num": 29371,
       "word": "朱志鑫线下之神",
@@ -9281,14 +9297,6 @@
       "onboard_time": 1737322930,
       "rank": 33,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 28704,
-      "num": 130414,
-      "word": "朱亚文一张图回应",
-      "onboard_time": 1737480194,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 28691,
@@ -9385,6 +9393,14 @@
       "onboard_time": 1737320530,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24838,
+      "num": 24838,
+      "word": "想飞的女孩入围柏林主竞赛",
+      "onboard_time": 1737483073,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 23798,
@@ -9595,14 +9611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17124,
-      "num": 35518,
-      "word": "台湾台南地震多地震感明显",
-      "onboard_time": 1737480133,
-      "rank": 49,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 17042,
       "num": 26777,
       "word": "文化中国行大寒节气",
@@ -9720,6 +9728,14 @@
       "word": "古人的暖宝宝早就可以控温了",
       "onboard_time": 1737408012,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11855,
+      "num": 75824,
+      "word": "知情人称翟欣欣案焦点在于如何量刑",
+      "onboard_time": 1737482533,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
