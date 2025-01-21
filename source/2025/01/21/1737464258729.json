@@ -1,0 +1,410 @@
+{
+  "runTime": 1737464258729,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 844982,
+        "num": 1135197,
+        "word": "王嘉尔朱一龙王鹤棣巴黎合照",
+        "onboard_time": 1737459619,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 754853,
+        "num": 754853,
+        "word": "昆明市市长刘佳晨任上被查",
+        "onboard_time": 1737460218,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26900,
+        "num": 697533,
+        "word": "打卡北海大厂玩转蛇年新春",
+        "onboard_time": 1737460098,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 660609,
+        "num": 660609,
+        "word": "白色橄榄树连更15天",
+        "onboard_time": 1737462978,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 405686,
+        "num": 405686,
+        "word": "当年前做了美甲还要上班时",
+        "onboard_time": 1737454577,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 692986,
+        "num": 402875,
+        "word": "国补后iPhone16成苹果最香机",
+        "onboard_time": 1737453918,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 684847,
+        "num": 400402,
+        "word": "国补后苹果手机跌破3000",
+        "onboard_time": 1737456018,
+        "rank": 6,
+        "category": "数码,民生新闻"
+      },
+      {
+        "raw_hot": 582272,
+        "num": 394639,
+        "word": "赵露思12小时ins点赞破百万",
+        "onboard_time": 1737443359,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 498225,
+        "num": 390856,
+        "word": "2025央视网络春晚全阵容",
+        "onboard_time": 1737456677,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 389905,
+        "num": 389905,
+        "word": "日本富士电视台陷性招待丑闻",
+        "onboard_time": 1737459318,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 672904,
+        "num": 388431,
+        "word": "特朗普提中国一小时后巴拿马回怼",
+        "onboard_time": 1737438317,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 374547,
+        "num": 374547,
+        "word": "吴奇隆刘诗诗结婚十周年",
+        "onboard_time": 1737439818,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 602253,
+        "num": 370886,
+        "word": "特朗普继续威胁TikTok",
+        "onboard_time": 1737461959,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 364948,
+        "num": 364948,
+        "word": "2025春节档预售3天破3亿",
+        "onboard_time": 1737451759,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 332281,
+        "num": 332281,
+        "word": "国色芳华第二季",
+        "onboard_time": 1737447438,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184696,
+        "num": 269827,
+        "word": "春节档电影最想看哪部",
+        "onboard_time": 1737462258,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 267642,
+        "num": 267642,
+        "word": "漂白",
+        "onboard_time": 1737438258,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252736,
+        "num": 252736,
+        "word": "工行回应女子存款80万取不出",
+        "onboard_time": 1737447618,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22245,
+        "num": 246298,
+        "word": "谢娜说自己从来不内耗",
+        "onboard_time": 1737463938,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242203,
+        "num": 242203,
+        "word": "四川乐山3.7级地震",
+        "onboard_time": 1737457458,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 631443,
+        "num": 241771,
+        "word": "这跟和娜扎谈了有什么区别",
+        "onboard_time": 1737457819,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338277,
+        "num": 241081,
+        "word": "空腹断食42小时的变化",
+        "onboard_time": 1737454218,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 252343,
+        "num": 240629,
+        "word": "刘浩存进组新剧主角",
+        "onboard_time": 1737460698,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242424,
+        "num": 239958,
+        "word": "BamBam否认与Jennie恋爱",
+        "onboard_time": 1737463158,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61113,
+        "num": 239859,
+        "word": "人民日报对话张博恒",
+        "onboard_time": 1737462858,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239288,
+        "num": 239288,
+        "word": "第一批聪明的人已经堵在路上",
+        "onboard_time": 1737435739,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196104,
+        "num": 196104,
+        "word": "男孩在家背4个加特林从下午等到天黑",
+        "onboard_time": 1737461059,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195642,
+        "num": 195642,
+        "word": "李昀锐三十年河东三十年河西",
+        "onboard_time": 1737458298,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11436,
+        "num": 183629,
+        "word": "孟子义告黑进展公告",
+        "onboard_time": 1737463698,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80315,
+        "num": 183257,
+        "word": "多家企业撤下富士电视台广告",
+        "onboard_time": 1737462737,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 183245,
+        "num": 183245,
+        "word": "aespa中国首展",
+        "onboard_time": 1737461298,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179951,
+        "num": 179951,
+        "word": "春节档最期待的电影角色",
+        "onboard_time": 1737457997,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173990,
+        "num": 173990,
+        "word": "漂白热度",
+        "onboard_time": 1737461419,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162128,
+        "num": 162128,
+        "word": "TTG 向鱼",
+        "onboard_time": 1737458718,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161219,
+        "num": 161219,
+        "word": "吴奇隆刘诗诗曾谈公开恋情",
+        "onboard_time": 1737457878,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154378,
+        "num": 154378,
+        "word": "中方回应特朗普给TikTok75天宽限期",
+        "onboard_time": 1737459440,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153005,
+        "num": 153005,
+        "word": "一顿饭做完冰箱干净多了",
+        "onboard_time": 1737459978,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145205,
+        "num": 145205,
+        "word": "土耳其滑雪度假区酒店火灾66人遇难",
+        "onboard_time": 1737463819,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 141755,
+        "num": 141755,
+        "word": "漂白年夜犯",
+        "onboard_time": 1737462558,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141739,
+        "num": 141739,
+        "word": "特朗普宣布美国退出世界卫生组织",
+        "onboard_time": 1737423857,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132998,
+        "num": 132998,
+        "word": "美政府关闭入境App移民大哭",
+        "onboard_time": 1737450379,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126519,
+        "num": 126519,
+        "word": "小红书APP启用新英文名",
+        "onboard_time": 1737450498,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 120054,
+        "num": 120054,
+        "word": "朱亚文方否认离婚",
+        "onboard_time": 1737447018,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117916,
+        "num": 117916,
+        "word": "主人笑了两分钟才舍得让你摸狗",
+        "onboard_time": 1737463579,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112665,
+        "num": 112665,
+        "word": "为什么往往剧中反派更带感",
+        "onboard_time": 1737456438,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109430,
+        "num": 109430,
+        "word": "任嘉伦不吃的都是我爱吃的",
+        "onboard_time": 1737460398,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106811,
+        "num": 106811,
+        "word": "潘宏广告报价高达50万",
+        "onboard_time": 1737461298,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 104960,
+        "num": 104960,
+        "word": "俞敏洪称没雷军小米卖不了这么好",
+        "onboard_time": 1737459918,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 102760,
+        "num": 102760,
+        "word": "赵今麦新剧倔强小白花",
+        "onboard_time": 1737463938,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102653,
+        "num": 102653,
+        "word": "王者荣耀世界过审",
+        "onboard_time": 1737463998,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同党外人士共迎新春#"
+    }
+  }
+}
