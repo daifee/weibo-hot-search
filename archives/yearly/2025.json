@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737466695865,
+  "endTime": 1737469272794,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1105,6 +1105,14 @@
       "onboard_time": 1736410701,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 2127395,
+      "num": 2127395,
+      "word": "王菲 春晚",
+      "onboard_time": 1737466459,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 2126402,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1737451998,
       "rank": 43,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 1523505,
-      "num": 1523505,
-      "word": "地震被压废墟下戴帽小孩是AI生成",
-      "onboard_time": 1736336541,
-      "rank": 1,
-      "category": "突发/灾害"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737466695865,
+  "endTime": 1737469272794,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -73,6 +73,14 @@
       "onboard_time": 1737348859,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2127395,
+      "num": 2127395,
+      "word": "王菲 春晚",
+      "onboard_time": 1737466459,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 2104042,
@@ -427,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1146335,
+      "num": 1146335,
+      "word": "3类人吃车厘子需减量",
+      "onboard_time": 1737465020,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1131812,
       "num": 456809,
       "word": "特朗普继续威胁TikTok",
@@ -521,6 +537,14 @@
       "onboard_time": 1737292520,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1030602,
+      "num": 1030602,
+      "word": "朱亚文晒婚戒",
+      "onboard_time": 1737466398,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 1028719,
@@ -803,14 +827,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 797109,
-      "num": 1127537,
-      "word": "3类人吃车厘子需减量",
-      "onboard_time": 1737465020,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 771397,
       "num": 717847,
       "word": "樊振东小少爷的既视感",
@@ -953,6 +969,14 @@
       "onboard_time": 1737299900,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 676661,
+      "num": 676661,
+      "word": "男生花7百买101小时硬座回家后续",
+      "onboard_time": 1737464720,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 675486,
@@ -1131,6 +1155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 590107,
+      "num": 225393,
+      "word": "胎儿在妈妈肚子里患上阑尾炎",
+      "onboard_time": 1737467299,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 585947,
       "num": 585947,
       "word": "妈妈每天拍女儿匆忙上班的背影",
@@ -1185,6 +1217,14 @@
       "onboard_time": 1737366617,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 568259,
+      "num": 568259,
+      "word": "漂白10集反转",
+      "onboard_time": 1737465318,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 558989,
@@ -1595,14 +1635,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 456308,
-      "num": 456308,
-      "word": "漂白10集反转",
-      "onboard_time": 1737465318,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 454987,
       "num": 454987,
       "word": "没人告诉我马龙穿大衣这么帅",
@@ -1856,6 +1888,14 @@
       "word": "大奉打更人云合超国色芳华登顶",
       "onboard_time": 1737290779,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 394436,
+      "num": 394436,
+      "word": "胜意自尽",
+      "onboard_time": 1737467662,
+      "rank": 14,
       "category": "剧集"
     },
     {
@@ -2377,14 +2417,6 @@
       "onboard_time": 1737436818,
       "rank": 26,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 301958,
-      "num": 301958,
-      "word": "男生花7百买101小时硬座回家后续",
-      "onboard_time": 1737464720,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 300314,
@@ -3403,14 +3435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206131,
-      "num": 206131,
-      "word": "王菲 春晚",
-      "onboard_time": 1737466459,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 205799,
       "num": 205799,
       "word": "男孩在家背4个加特林从下午等到天黑",
@@ -3523,6 +3547,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 201398,
+      "num": 196510,
+      "word": "芒果给足了国色芳华排面",
+      "onboard_time": 1737466757,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200547,
       "num": 200547,
       "word": "甄珍逃出来了吗",
@@ -3617,6 +3649,14 @@
       "onboard_time": 1737360919,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 197788,
+      "num": 197788,
+      "word": "仙台有树档期",
+      "onboard_time": 1737467359,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 197705,
@@ -3731,6 +3771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194827,
+      "num": 194827,
+      "word": "章昊垫底辣孩cha",
+      "onboard_time": 1737466579,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194697,
       "num": 194697,
       "word": "蒲熠星录制最强大脑",
@@ -3809,6 +3857,14 @@
       "onboard_time": 1737347059,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 193317,
+      "num": 193317,
+      "word": "德约科维奇3比1阿尔卡拉斯",
+      "onboard_time": 1737468619,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 193078,
@@ -3993,6 +4049,14 @@
       "onboard_time": 1737351678,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188125,
+      "num": 188125,
+      "word": "何猷君出席公司年会",
+      "onboard_time": 1737468021,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 187882,
@@ -4347,6 +4411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175577,
+      "num": 175577,
+      "word": "美籍男子趴出半个身体托举落水老人",
+      "onboard_time": 1737468619,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175465,
       "num": 175465,
       "word": "iG对战NIP",
@@ -4435,14 +4507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172566,
-      "num": 172566,
-      "word": "章昊垫底辣孩cha",
-      "onboard_time": 1737466579,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 172270,
       "num": 172270,
       "word": "第五人格",
@@ -4489,6 +4553,14 @@
       "onboard_time": 1737443478,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 170252,
+      "num": 170252,
+      "word": "车厘子",
+      "onboard_time": 1737469040,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 170120,
@@ -4715,6 +4787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163205,
+      "num": 163205,
+      "word": "王楠老公郭斌夸赞刘国梁",
+      "onboard_time": 1737468619,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163082,
       "num": 243385,
       "word": "一图读懂国补最新政策",
@@ -4723,11 +4803,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163069,
+      "num": 163069,
+      "word": "澳网",
+      "onboard_time": 1737428839,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162964,
       "num": 344964,
       "word": "复兴号无障碍车厢有盲文座位号",
       "onboard_time": 1737440120,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162507,
+      "num": 162507,
+      "word": "除夕前将迎大寒潮",
+      "onboard_time": 1737466879,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -4953,6 +5049,14 @@
       "onboard_time": 1737376398,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 157870,
+      "num": 222166,
+      "word": "樊振东观战国米",
+      "onboard_time": 1737467119,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 157601,
@@ -5433,6 +5537,14 @@
       "onboard_time": 1737275298,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144479,
+      "num": 144479,
+      "word": "hi6拍到了新鲜丁程鑫",
+      "onboard_time": 1737468259,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 144461,
@@ -5979,6 +6091,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 132315,
+      "num": 412715,
+      "word": "落马市长曾被称跑得最快的市长",
+      "onboard_time": 1737467959,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132177,
       "num": 132177,
       "word": "孙颖莎希望冬训丰富自己",
@@ -6089,6 +6209,14 @@
       "onboard_time": 1737202098,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129285,
+      "num": 129285,
+      "word": "有恋与深空谁还怕被催婚",
+      "onboard_time": 1737468981,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 129172,
@@ -6579,14 +6707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119060,
-      "num": 119060,
-      "word": "朱亚文晒婚戒",
-      "onboard_time": 1737466398,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 118975,
       "num": 118975,
       "word": "白月梵星",
@@ -6777,6 +6897,14 @@
       "onboard_time": 1737216977,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 114847,
+      "num": 114847,
+      "word": "德约科维奇晋级澳网四强",
+      "onboard_time": 1737469220,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 114625,
@@ -7396,7 +7524,7 @@
     },
     {
       "raw_hot": 102653,
-      "num": 102653,
+      "num": 165236,
       "word": "王者荣耀世界过审",
       "onboard_time": 1737463998,
       "rank": 49,
@@ -8171,14 +8299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 71061,
-      "num": 137959,
-      "word": "澳网",
-      "onboard_time": 1737428839,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 70021,
       "num": 193265,
       "word": "樊维秋被执行死刑",
@@ -8924,7 +9044,7 @@
     },
     {
       "raw_hot": 26900,
-      "num": 755695,
+      "num": 1063043,
       "word": "打卡北海大厂玩转蛇年新春",
       "onboard_time": 1737460098,
       "rank": 2,

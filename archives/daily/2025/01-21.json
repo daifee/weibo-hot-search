@@ -1,6 +1,6 @@
 {
   "startTime": 1737390442496,
-  "endTime": 1737466695865,
+  "endTime": 1737469272794,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -25,6 +25,14 @@
       "onboard_time": 1737423857,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2127395,
+      "num": 2127395,
+      "word": "王菲 春晚",
+      "onboard_time": 1737466459,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 1833307,
@@ -131,6 +139,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1146335,
+      "num": 1146335,
+      "word": "3类人吃车厘子需减量",
+      "onboard_time": 1737465020,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1131812,
       "num": 456809,
       "word": "特朗普继续威胁TikTok",
@@ -168,6 +184,14 @@
       "word": "赵露思12小时ins点赞破百万",
       "onboard_time": 1737443359,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1030602,
+      "num": 1030602,
+      "word": "朱亚文晒婚戒",
+      "onboard_time": 1737466398,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -283,14 +307,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 797109,
-      "num": 1127537,
-      "word": "3类人吃车厘子需减量",
-      "onboard_time": 1737465020,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 771814,
       "num": 771814,
       "word": "尹锡悦律师碰瓷中国12345便民热线",
@@ -363,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 676661,
+      "num": 676661,
+      "word": "男生花7百买101小时硬座回家后续",
+      "onboard_time": 1737464720,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 660609,
       "num": 660609,
       "word": "白色橄榄树连更15天",
@@ -409,6 +433,22 @@
       "onboard_time": 1737433459,
       "rank": 43,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 590107,
+      "num": 225393,
+      "word": "胎儿在妈妈肚子里患上阑尾炎",
+      "onboard_time": 1737467299,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 568259,
+      "num": 568259,
+      "word": "漂白10集反转",
+      "onboard_time": 1737465318,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 557491,
@@ -563,14 +603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 456308,
-      "num": 456308,
-      "word": "漂白10集反转",
-      "onboard_time": 1737465318,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 445678,
       "num": 445678,
       "word": "大学生开房洗衣服被吐槽薅羊毛",
@@ -665,6 +697,14 @@
       "onboard_time": 1737388039,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 394436,
+      "num": 394436,
+      "word": "胜意自尽",
+      "onboard_time": 1737467662,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 388179,
@@ -793,14 +833,6 @@
       "onboard_time": 1737436818,
       "rank": 26,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 301958,
-      "num": 301958,
-      "word": "男生花7百买101小时硬座回家后续",
-      "onboard_time": 1737464720,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 299579,
@@ -1195,14 +1227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206131,
-      "num": 206131,
-      "word": "王菲 春晚",
-      "onboard_time": 1737466459,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 205799,
       "num": 205799,
       "word": "男孩在家背4个加特林从下午等到天黑",
@@ -1217,6 +1241,14 @@
       "onboard_time": 1737375737,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201398,
+      "num": 196510,
+      "word": "芒果给足了国色芳华排面",
+      "onboard_time": 1737466757,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 200376,
@@ -1259,11 +1291,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197788,
+      "num": 197788,
+      "word": "仙台有树档期",
+      "onboard_time": 1737467359,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197066,
       "num": 197066,
       "word": "张博恒揭秘奥运最艰难的1分钟",
       "onboard_time": 1737457878,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 194827,
+      "num": 194827,
+      "word": "章昊垫底辣孩cha",
+      "onboard_time": 1737466579,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 193317,
+      "num": 193317,
+      "word": "德约科维奇3比1阿尔卡拉斯",
+      "onboard_time": 1737468619,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -1321,6 +1377,14 @@
       "onboard_time": 1737452359,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188125,
+      "num": 188125,
+      "word": "何猷君出席公司年会",
+      "onboard_time": 1737468021,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 187882,
@@ -1467,6 +1531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175577,
+      "num": 175577,
+      "word": "美籍男子趴出半个身体托举落水老人",
+      "onboard_time": 1737468619,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175409,
       "num": 175409,
       "word": "韩国网友被中国演员的颜值震撼",
@@ -1499,14 +1571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172566,
-      "num": 172566,
-      "word": "章昊垫底辣孩cha",
-      "onboard_time": 1737466579,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 171389,
       "num": 171389,
       "word": "主人笑了两分钟才舍得让你摸狗",
@@ -1521,6 +1585,14 @@
       "onboard_time": 1737443478,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 170252,
+      "num": 170252,
+      "word": "车厘子",
+      "onboard_time": 1737469040,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 169999,
@@ -1587,6 +1659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163205,
+      "num": 163205,
+      "word": "王楠老公郭斌夸赞刘国梁",
+      "onboard_time": 1737468619,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163082,
       "num": 243385,
       "word": "一图读懂国补最新政策",
@@ -1595,11 +1675,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163069,
+      "num": 163069,
+      "word": "澳网",
+      "onboard_time": 1737428839,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162964,
       "num": 344964,
       "word": "复兴号无障碍车厢有盲文座位号",
       "onboard_time": 1737440120,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162741,
+      "num": 162741,
+      "word": "相思令",
+      "onboard_time": 1737468921,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162507,
+      "num": 162507,
+      "word": "除夕前将迎大寒潮",
+      "onboard_time": 1737466879,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -1657,6 +1761,14 @@
       "onboard_time": 1737392956,
       "rank": 25,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 157870,
+      "num": 222166,
+      "word": "樊振东观战国米",
+      "onboard_time": 1737467119,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 157601,
@@ -1825,6 +1937,14 @@
       "onboard_time": 1737454758,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 144479,
+      "num": 144479,
+      "word": "hi6拍到了新鲜丁程鑫",
+      "onboard_time": 1737468259,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 144165,
@@ -2011,6 +2131,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 132315,
+      "num": 412715,
+      "word": "落马市长曾被称跑得最快的市长",
+      "onboard_time": 1737467959,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130505,
       "num": 130505,
       "word": "美国参议院确认卢比奥担任国务卿",
@@ -2041,6 +2169,14 @@
       "onboard_time": 1737448398,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129285,
+      "num": 129285,
+      "word": "有恋与深空谁还怕被催婚",
+      "onboard_time": 1737468981,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 128849,
@@ -2243,14 +2379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119060,
-      "num": 119060,
-      "word": "朱亚文晒婚戒",
-      "onboard_time": 1737466398,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 118764,
       "num": 118764,
       "word": "买了新手机旧手机怎么办",
@@ -2329,6 +2457,14 @@
       "onboard_time": 1737448098,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 114847,
+      "num": 114847,
+      "word": "德约科维奇晋级澳网四强",
+      "onboard_time": 1737469220,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 114313,
@@ -2572,7 +2708,7 @@
     },
     {
       "raw_hot": 102653,
-      "num": 102653,
+      "num": 165236,
       "word": "王者荣耀世界过审",
       "onboard_time": 1737463998,
       "rank": 49,
@@ -2825,14 +2961,6 @@
       "onboard_time": 1737382819,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 71061,
-      "num": 137959,
-      "word": "澳网",
-      "onboard_time": 1737428839,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 70820,
@@ -3116,7 +3244,7 @@
     },
     {
       "raw_hot": 26900,
-      "num": 755695,
+      "num": 1063043,
       "word": "打卡北海大厂玩转蛇年新春",
       "onboard_time": 1737460098,
       "rank": 2,
