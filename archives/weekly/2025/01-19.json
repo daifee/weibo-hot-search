@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737429835585,
+  "endTime": 1737430688421,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -363,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1088075,
+      "num": 1174092,
+      "word": "杨子黄圣依葛夕留几手签约蜂群",
+      "onboard_time": 1737426558,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1083676,
       "num": 573360,
       "word": "嫂子喂出嫁小姑子吃面手抖成了筛子",
@@ -451,14 +459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1005112,
-      "num": 1160817,
-      "word": "杨子黄圣依葛夕留几手签约蜂群",
-      "onboard_time": 1737426558,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 993865,
       "num": 416206,
       "word": "周受资代表TikTok感谢美国用户",
@@ -481,6 +481,14 @@
       "onboard_time": 1737379818,
       "rank": 12,
       "category": "财经"
+    },
+    {
+      "raw_hot": 968010,
+      "num": 258041,
+      "word": "麦琳说瘦了没法补录",
+      "onboard_time": 1737429558,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 957711,
@@ -979,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 557491,
+      "num": 261031,
+      "word": "苹果官网把iPhone写错了",
+      "onboard_time": 1737429739,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 546731,
       "num": 546731,
       "word": "杭州震感",
@@ -1147,8 +1163,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 486884,
-      "num": 331152,
+      "raw_hot": 490825,
+      "num": 347509,
       "word": "九重紫上星定档",
       "onboard_time": 1737427759,
       "rank": 27,
@@ -1465,6 +1481,14 @@
       "onboard_time": 1737274818,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 388179,
+      "num": 229361,
+      "word": "父亲把15万藏被子里被儿子误扔",
+      "onboard_time": 1737426798,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 387804,
@@ -1907,14 +1931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 299562,
-      "num": 261031,
-      "word": "苹果官网把iPhone写错了",
-      "onboard_time": 1737429739,
-      "rank": 23,
-      "category": "数码"
-    },
-    {
       "raw_hot": 296789,
       "num": 376353,
       "word": "一听这些歌就知道快过年了",
@@ -2009,6 +2025,14 @@
       "onboard_time": 1737297020,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 281354,
+      "num": 289545,
+      "word": "周锐偶练时不知道偶像不允许恋爱",
+      "onboard_time": 1737429378,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 280777,
@@ -2211,14 +2235,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 258041,
-      "num": 258041,
-      "word": "麦琳说瘦了没法补录",
-      "onboard_time": 1737429558,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 257519,
       "num": 257519,
       "word": "陈朵作为毒物培养皿活了16年",
@@ -2411,6 +2427,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 236755,
+      "num": 236755,
+      "word": "赵露思脸色",
+      "onboard_time": 1737430339,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233578,
       "num": 360791,
       "word": "坐火车上错车下错站怎么办",
@@ -2465,14 +2489,6 @@
       "onboard_time": 1737295459,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 229361,
-      "num": 229361,
-      "word": "父亲把15万藏被子里被儿子误扔",
-      "onboard_time": 1737426798,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 229058,
@@ -2689,6 +2705,14 @@
       "onboard_time": 1737350958,
       "rank": 25,
       "category": "网红"
+    },
+    {
+      "raw_hot": 207479,
+      "num": 207479,
+      "word": "麦琳称未来可能会直播带货",
+      "onboard_time": 1737429679,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 207137,
@@ -3548,7 +3572,7 @@
     },
     {
       "raw_hot": 169999,
-      "num": 169999,
+      "num": 345073,
       "word": "用一首歌迎接春节",
       "onboard_time": 1737428539,
       "rank": 34,
@@ -3937,6 +3961,14 @@
       "onboard_time": 1737376217,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157207,
+      "num": 157207,
+      "word": "特朗普签令将墨西哥湾改名为美国湾",
+      "onboard_time": 1737429980,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 156724,
@@ -4852,7 +4884,7 @@
     },
     {
       "raw_hot": 126542,
-      "num": 126542,
+      "num": 230292,
       "word": "高芙无缘澳网四强",
       "onboard_time": 1737427759,
       "rank": 40,
@@ -4873,6 +4905,14 @@
       "onboard_time": 1737364879,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 125539,
+      "num": 125539,
+      "word": "时代少年团官宣加盟找乐子大会",
+      "onboard_time": 1737430577,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 125014,
@@ -4979,6 +5019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 122280,
+      "num": 338794,
+      "word": "台湾台南地震已致15人受伤",
+      "onboard_time": 1737424697,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121986,
       "num": 299813,
       "word": "999感冒灵凭实力闯进保暖时尚圈",
@@ -5073,14 +5121,6 @@
       "onboard_time": 1737288919,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119484,
-      "num": 289545,
-      "word": "周锐偶练时不知道偶像不允许恋爱",
-      "onboard_time": 1737429378,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 119235,
@@ -5211,14 +5251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 115871,
-      "num": 338794,
-      "word": "台湾台南地震已致15人受伤",
-      "onboard_time": 1737424697,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115839,
       "num": 115839,
       "word": "漂白热度破9000",
@@ -5233,14 +5265,6 @@
       "onboard_time": 1737216977,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 114711,
-      "num": 114711,
-      "word": "麦琳称未来可能会直播带货",
-      "onboard_time": 1737429679,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 114625,
@@ -5329,6 +5353,14 @@
       "onboard_time": 1737362058,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111282,
+      "num": 322366,
+      "word": "四川公车私用城管被罚取消200元补贴",
+      "onboard_time": 1737429558,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111215,
@@ -6371,6 +6403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71061,
+      "num": 137959,
+      "word": "澳网",
+      "onboard_time": 1737428839,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70021,
       "num": 193265,
       "word": "樊维秋被执行死刑",
@@ -6433,14 +6473,6 @@
       "onboard_time": 1737251958,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 63128,
-      "num": 322366,
-      "word": "四川公车私用城管被罚取消200元补贴",
-      "onboard_time": 1737429558,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 62202,
