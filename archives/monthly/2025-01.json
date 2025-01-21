@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737441814945,
+  "endTime": 1737444054103,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1588,7 +1588,7 @@
     },
     {
       "raw_hot": 1833307,
-      "num": 430808,
+      "num": 479842,
       "word": "特朗普提中国一小时后巴拿马回怼",
       "onboard_time": 1737438317,
       "rank": 5,
@@ -2044,7 +2044,7 @@
     },
     {
       "raw_hot": 1627715,
-      "num": 338983,
+      "num": 433548,
       "word": "吴奇隆刘诗诗结婚十周年",
       "onboard_time": 1737439818,
       "rank": 10,
@@ -3667,6 +3667,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1172884,
+      "num": 914547,
+      "word": "桃黑黑 易梦玲",
+      "onboard_time": 1737439938,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1169630,
       "num": 1187140,
       "word": "何炅吴昕 嗑不了一点",
@@ -3753,14 +3761,6 @@
       "onboard_time": 1735820780,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1149596,
-      "num": 914547,
-      "word": "桃黑黑 易梦玲",
-      "onboard_time": 1737439938,
-      "rank": 3,
-      "category": "网红"
     },
     {
       "raw_hot": 1148125,
@@ -4595,6 +4595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1014203,
+      "num": 446258,
+      "word": "特朗普一提中国外媒马上澄清",
+      "onboard_time": 1737442217,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1011705,
       "num": 1011705,
       "word": "大奉打更人第二季",
@@ -5369,6 +5377,14 @@
       "onboard_time": 1735654950,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 921435,
+      "num": 921435,
+      "word": "难哄",
+      "onboard_time": 1735797440,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 918877,
@@ -11172,7 +11188,7 @@
     },
     {
       "raw_hot": 518553,
-      "num": 325531,
+      "num": 355480,
       "word": "网红狗艾特或是窒息死亡",
       "onboard_time": 1737436639,
       "rank": 42,
@@ -11473,14 +11489,6 @@
       "onboard_time": 1735889299,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 509744,
-      "num": 509744,
-      "word": "难哄",
-      "onboard_time": 1735797440,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 509232,
@@ -12072,6 +12080,14 @@
       "word": "跨年烟花",
       "onboard_time": 1735662088,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 485576,
+      "num": 485576,
+      "word": "12306候补",
+      "onboard_time": 1737440838,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -13705,6 +13721,14 @@
       "onboard_time": 1736903479,
       "rank": 32,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 432448,
+      "num": 432448,
+      "word": "B站回应员工植入恶意代码报复用户",
+      "onboard_time": 1737439578,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 432070,
@@ -17147,14 +17171,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 346083,
-      "num": 346083,
-      "word": "12306候补",
-      "onboard_time": 1737440838,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 345772,
       "num": 2742049,
       "word": "张碧晨 见到爱人了风都是甜的",
@@ -18129,6 +18145,14 @@
       "onboard_time": 1735919358,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 324944,
+      "num": 324944,
+      "word": "潘宏基地另一网红狗疑被咬死",
+      "onboard_time": 1737437357,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 324813,
@@ -19177,14 +19201,6 @@
       "onboard_time": 1736124440,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 306461,
-      "num": 306461,
-      "word": "B站回应员工植入恶意代码报复用户",
-      "onboard_time": 1737439578,
-      "rank": 18,
-      "category": "互联网"
     },
     {
       "raw_hot": 306201,
@@ -24619,14 +24635,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 232831,
-      "num": 239916,
-      "word": "潘宏基地另一网红狗疑被咬死",
-      "onboard_time": 1737437357,
-      "rank": 19,
-      "category": "网红"
-    },
-    {
       "raw_hot": 232776,
       "num": 232776,
       "word": "赵丽颖向阳生长大片",
@@ -27569,6 +27577,14 @@
       "onboard_time": 1736736558,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 207280,
+      "num": 207280,
+      "word": "手机被撞飞后正掉在车轮下被碾压",
+      "onboard_time": 1737439878,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207269,
@@ -32627,6 +32643,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 185077,
+      "num": 185077,
+      "word": "东北姐妹背着我们吃的这么好",
+      "onboard_time": 1737443359,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 185040,
       "num": 185040,
       "word": "宋雨琦说白月梵星太上头了",
@@ -34523,6 +34547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 174721,
+      "num": 174721,
+      "word": "聪明女人已经计划好哪天洗头了",
+      "onboard_time": 1737441318,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 174719,
       "num": 174719,
       "word": "人大教授建议年轻人不要扎堆搞AI",
@@ -35467,6 +35499,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 170726,
+      "num": 170726,
+      "word": "张康乐马柏全费加罗PARK默契同行大片",
+      "onboard_time": 1737443478,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 170574,
       "num": 288580,
       "word": "被前男友泼汽油女子植皮12次",
@@ -36409,6 +36449,14 @@
       "onboard_time": 1736765899,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 166529,
+      "num": 325097,
+      "word": "赵露思12小时ins点赞破百万",
+      "onboard_time": 1737443359,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 166520,
@@ -39145,6 +39193,14 @@
       "onboard_time": 1736256263,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155074,
+      "num": 433625,
+      "word": "28日零时前上高速也可免高速费",
+      "onboard_time": 1737440718,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155020,
@@ -43363,14 +43419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137366,
-      "num": 137366,
-      "word": "手机被撞飞后正掉在车轮下被碾压",
-      "onboard_time": 1737439878,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137314,
       "num": 137314,
       "word": "白鹿白月梵星造型大赏",
@@ -43441,14 +43489,6 @@
       "onboard_time": 1737342918,
       "rank": 34,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 137102,
-      "num": 137102,
-      "word": "聪明女人已经计划好哪天洗头了",
-      "onboard_time": 1737441318,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 137024,
@@ -44385,6 +44425,14 @@
       "onboard_time": 1736843958,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 133659,
+      "num": 133659,
+      "word": "永夜星河要在网络视听盛典合体",
+      "onboard_time": 1737443839,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 133657,
@@ -45649,14 +45697,6 @@
       "onboard_time": 1736321421,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 128708,
-      "num": 128708,
-      "word": "28日零时前上高速也可免高速费",
-      "onboard_time": 1737440718,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128694,
@@ -49555,6 +49595,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 114313,
+      "num": 114313,
+      "word": "竹林四侠新海报",
+      "onboard_time": 1737442518,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114270,
       "num": 114270,
       "word": "震区这句金珠玛米亚古都很暖心",
@@ -49793,6 +49841,14 @@
       "onboard_time": 1736646739,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 113554,
+      "num": 113554,
+      "word": "蔡少芬肖战互相喊娘和崽",
+      "onboard_time": 1737441438,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 113542,
@@ -50867,6 +50923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108830,
+      "num": 108830,
+      "word": "苏享茂家属称翟欣欣认罪认罚",
+      "onboard_time": 1737444018,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108702,
       "num": 114494,
       "word": "照明无人机点亮震区救援安置现场",
@@ -51761,6 +51825,14 @@
       "onboard_time": 1737104059,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104798,
+      "num": 330122,
+      "word": "孙颖莎红运接到了吗",
+      "onboard_time": 1737442937,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 104744,
@@ -53739,6 +53811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 93975,
+      "num": 207885,
+      "word": "团圆是中国人最朴素的浪漫",
+      "onboard_time": 1737442999,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 93901,
       "num": 225239,
       "word": "蒯曼覃予萱vs陈幸同钱天一",
@@ -53753,6 +53833,14 @@
       "onboard_time": 1736893092,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 93869,
+      "num": 176651,
+      "word": "周锐后悔没早点公开",
+      "onboard_time": 1737442638,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 93777,
@@ -54289,6 +54377,14 @@
       "onboard_time": 1737103278,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89638,
+      "num": 218934,
+      "word": "Icon力挺Doinb",
+      "onboard_time": 1737442278,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 89601,
@@ -57313,6 +57409,14 @@
       "onboard_time": 1736653519,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64999,
+      "num": 324992,
+      "word": "光头强一开嗓年就来了",
+      "onboard_time": 1737443057,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 64985,
