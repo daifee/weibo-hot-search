@@ -1,6 +1,6 @@
 {
   "startTime": 1737390442496,
-  "endTime": 1737473040255,
+  "endTime": 1737473909900,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -123,6 +123,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 1213196,
+      "num": 664122,
+      "word": "比伯取关了海莉",
+      "onboard_time": 1737471859,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1193265,
       "num": 1193265,
       "word": "赵露思晒休养日常",
@@ -187,14 +195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1060965,
-      "num": 623196,
-      "word": "比伯取关了海莉",
-      "onboard_time": 1737471859,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1047474,
       "num": 1030602,
       "word": "朱亚文晒婚戒",
@@ -209,6 +209,14 @@
       "onboard_time": 1737442217,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 972219,
+      "num": 972219,
+      "word": "车厘子",
+      "onboard_time": 1737469040,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 968010,
@@ -289,14 +297,6 @@
       "onboard_time": 1737460218,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 875057,
-      "num": 875057,
-      "word": "车厘子",
-      "onboard_time": 1737469040,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 858011,
@@ -491,6 +491,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 551612,
+      "num": 551612,
+      "word": "砂糖橘吃多了真的会变小黄人",
+      "onboard_time": 1737469339,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 551223,
       "num": 383553,
       "word": "潘宏基地另一网红狗疑被咬死",
@@ -553,14 +561,6 @@
       "onboard_time": 1737463819,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 532403,
-      "num": 532403,
-      "word": "砂糖橘吃多了真的会变小黄人",
-      "onboard_time": 1737469339,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 522437,
@@ -713,6 +713,14 @@
       "onboard_time": 1737452778,
       "rank": 5,
       "category": "数码,民生新闻"
+    },
+    {
+      "raw_hot": 413119,
+      "num": 413119,
+      "word": "中缅泰就铲除妙瓦底电诈窝点达成共识",
+      "onboard_time": 1737472519,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 405472,
@@ -929,6 +937,14 @@
       "onboard_time": 1737432799,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 277616,
+      "num": 277616,
+      "word": "王鹤棣在巴黎穿上了道明寺皮肤",
+      "onboard_time": 1737472519,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 276741,
@@ -1283,6 +1299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201981,
+      "num": 201981,
+      "word": "夏以昼 苹果",
+      "onboard_time": 1737471559,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 201398,
       "num": 196510,
       "word": "芒果给足了国色芳华排面",
@@ -1417,6 +1441,14 @@
       "onboard_time": 1737452359,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188883,
+      "num": 161422,
+      "word": "赵今麦女警角色上线",
+      "onboard_time": 1737472939,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 188125,
@@ -1659,6 +1691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166284,
+      "num": 161233,
+      "word": "文淇21岁再入围三大主竞赛",
+      "onboard_time": 1737470779,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 166076,
       "num": 116139,
       "word": "吴尊neinei新综来了",
@@ -1705,14 +1745,6 @@
       "onboard_time": 1737454938,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 163062,
-      "num": 153604,
-      "word": "文淇21岁再入围三大主竞赛",
-      "onboard_time": 1737470779,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 163007,
@@ -1777,14 +1809,6 @@
       "onboard_time": 1737429498,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 159243,
-      "num": 153569,
-      "word": "王鹤棣在巴黎穿上了道明寺皮肤",
-      "onboard_time": 1737472519,
-      "rank": 31,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 159006,
@@ -1977,14 +2001,6 @@
       "onboard_time": 1737423437,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 145640,
-      "num": 154259,
-      "word": "夏以昼 苹果",
-      "onboard_time": 1737471559,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 145313,
@@ -2515,14 +2531,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 114988,
-      "num": 146931,
-      "word": "中缅泰就铲除妙瓦底电诈窝点达成共识",
-      "onboard_time": 1737472519,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 114847,
       "num": 114847,
       "word": "德约科维奇晋级澳网四强",
@@ -2683,14 +2691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 107498,
-      "num": 107498,
-      "word": "赵今麦女警角色上线",
-      "onboard_time": 1737472939,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 106811,
       "num": 224020,
       "word": "潘宏广告报价高达50万",
@@ -2705,6 +2705,14 @@
       "onboard_time": 1737462199,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106688,
+      "num": 106688,
+      "word": "祝绪丹人晕了但嘴还甜",
+      "onboard_time": 1737473779,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 106010,
@@ -3283,6 +3291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 45138,
+      "num": 161938,
+      "word": "洪尚秀未出席女儿婚礼",
+      "onboard_time": 1737466940,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39315,
       "num": 215918,
       "word": "国补到底咋领",
@@ -3529,6 +3545,14 @@
       "onboard_time": 1737465799,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 8330,
+      "num": 161673,
+      "word": "陈梦首登央视网络春晚",
+      "onboard_time": 1737473120,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 5663,
