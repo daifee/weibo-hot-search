@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737487080943,
+  "endTime": 1737488145812,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -9051,6 +9051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38850,
+      "num": 38850,
+      "word": "外交部回应TikTok收购问题",
+      "onboard_time": 1737484933,
+      "rank": 24,
+      "category": "国际时政,互联网"
+    },
+    {
       "raw_hot": 38735,
       "num": 38735,
       "word": "高速上开车头顶传来交警的碎碎念",
@@ -9105,14 +9113,6 @@
       "onboard_time": 1737328814,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 35945,
-      "num": 35945,
-      "word": "外交部回应TikTok收购问题",
-      "onboard_time": 1737484933,
-      "rank": 24,
-      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 35455,
@@ -9451,6 +9451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 23060,
+      "num": 23060,
+      "word": "杨紫回应国色芳华第二季",
+      "onboard_time": 1737485651,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22569,
       "num": 28619,
       "word": "管晨辰手术后报平安",
@@ -9481,14 +9489,6 @@
       "onboard_time": 1737463938,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 22167,
-      "num": 22167,
-      "word": "杨紫回应国色芳华第二季",
-      "onboard_time": 1737485651,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 21656,
@@ -9555,6 +9555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20606,
+      "num": 53005,
+      "word": "中方对美方将退出巴黎协定表示关切",
+      "onboard_time": 1737486131,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 20400,
       "num": 25779,
       "word": "石凯新歌预告",
@@ -9593,6 +9601,14 @@
       "onboard_time": 1737318851,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18206,
+      "num": 18206,
+      "word": "特朗普就职典礼出意外木头姐救场",
+      "onboard_time": 1737487451,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 18085,
@@ -9649,6 +9665,14 @@
       "onboard_time": 1737323532,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16886,
+      "num": 17960,
+      "word": "以士兵无视停火协议射杀儿童",
+      "onboard_time": 1737487692,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 16751,
@@ -9713,14 +9737,6 @@
       "onboard_time": 1737231551,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13902,
-      "num": 53005,
-      "word": "中方对美方将退出巴黎协定表示关切",
-      "onboard_time": 1737486131,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 13866,
@@ -9793,6 +9809,14 @@
       "onboard_time": 1737463698,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 10833,
+      "num": 46101,
+      "word": "12306的使用小技巧",
+      "onboard_time": 1737487333,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10739,
