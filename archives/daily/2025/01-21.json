@@ -1,6 +1,6 @@
 {
   "startTime": 1737390442496,
-  "endTime": 1737448083506,
+  "endTime": 1737448853849,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -57,6 +57,14 @@
       "onboard_time": 1737431779,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1404789,
+      "num": 1404789,
+      "word": "国色芳华第二季",
+      "onboard_time": 1737447438,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 1385559,
@@ -227,6 +235,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 769500,
+      "num": 276991,
+      "word": "工行回应女子存款80万取不出",
+      "onboard_time": 1737447618,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 752882,
+      "num": 318745,
+      "word": "朱亚文方否认离婚",
+      "onboard_time": 1737447018,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 741676,
       "num": 442488,
       "word": "美国最大规模非法移民驱逐行动",
@@ -315,15 +339,7 @@
       "category": "数码"
     },
     {
-      "raw_hot": 552650,
-      "num": 301538,
-      "word": "朱亚文方否认离婚",
-      "onboard_time": 1737447018,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 548930,
+      "raw_hot": 551223,
       "num": 383553,
       "word": "潘宏基地另一网红狗疑被咬死",
       "onboard_time": 1737437357,
@@ -467,14 +483,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 431852,
-      "num": 271258,
-      "word": "国色芳华第二季",
-      "onboard_time": 1737447438,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 424134,
       "num": 319567,
       "word": "特朗普签署多项行政令",
@@ -528,6 +536,14 @@
       "word": "留几手说不想骗葛夕了",
       "onboard_time": 1737384081,
       "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 349413,
+      "num": 255292,
+      "word": "孙俪不语只是一味展示才艺",
+      "onboard_time": 1737445397,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -635,14 +651,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 276991,
-      "num": 276991,
-      "word": "工行回应女子存款80万取不出",
-      "onboard_time": 1737447618,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 275333,
       "num": 158326,
       "word": "张雪峰称给公司350人发2000万年终奖",
@@ -691,6 +699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 264453,
+      "num": 264453,
+      "word": "蔡文姬蛇年限定皮肤",
+      "onboard_time": 1737446898,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 263696,
       "num": 263696,
       "word": "何惟芳秦胜意彻底回不去了",
@@ -729,14 +745,6 @@
       "onboard_time": 1737444917,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 255292,
-      "num": 255292,
-      "word": "孙俪不语只是一味展示才艺",
-      "onboard_time": 1737445397,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 254774,
@@ -785,6 +793,14 @@
       "onboard_time": 1737436577,
       "rank": 19,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 239291,
+      "num": 221713,
+      "word": "胡歌刘诗诗一开口就是老养猫人了",
+      "onboard_time": 1737447618,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 238728,
@@ -859,8 +875,8 @@
       "category": "体育,作品衍生"
     },
     {
-      "raw_hot": 206031,
-      "num": 206031,
+      "raw_hot": 209399,
+      "num": 209399,
       "word": "漂白",
       "onboard_time": 1737360798,
       "rank": 16,
@@ -873,14 +889,6 @@
       "onboard_time": 1737375737,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 202646,
-      "num": 202646,
-      "word": "胡歌刘诗诗一开口就是老养猫人了",
-      "onboard_time": 1737447618,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 199602,
@@ -899,12 +907,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 193841,
-      "num": 193841,
-      "word": "蔡文姬蛇年限定皮肤",
-      "onboard_time": 1737446898,
-      "rank": 31,
-      "category": "游戏"
+      "raw_hot": 192869,
+      "num": 319550,
+      "word": "春运离深高峰来了",
+      "onboard_time": 1737446838,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191268,
@@ -921,6 +929,14 @@
       "onboard_time": 1737447558,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190570,
+      "num": 190570,
+      "word": "周深现身央视蛇年春晚彩排",
+      "onboard_time": 1737448638,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 186439,
@@ -1067,14 +1083,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 168914,
-      "num": 319550,
-      "word": "春运离深高峰来了",
-      "onboard_time": 1737446838,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166076,
       "num": 116139,
       "word": "吴尊neinei新综来了",
@@ -1147,6 +1155,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 155764,
+      "num": 155764,
+      "word": "李昀锐冰湖重生戴面具路透",
+      "onboard_time": 1737448278,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155165,
       "num": 140012,
       "word": "苏享茂家属称翟欣欣认罪认罚",
@@ -1171,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154310,
+      "num": 154310,
+      "word": "杨迪吐槽的到底是谁",
+      "onboard_time": 1737448217,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154267,
       "num": 154267,
       "word": "肖战蔡少芬新片演母子",
@@ -1180,7 +1204,7 @@
     },
     {
       "raw_hot": 149904,
-      "num": 149904,
+      "num": 214276,
       "word": "苏享茂哥哥发微博网友为其加油",
       "onboard_time": 1737444378,
       "rank": 41,
@@ -1249,6 +1273,14 @@
       "onboard_time": 1737447377,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140703,
+      "num": 140703,
+      "word": "阿如那驻站跑酷跑吐了",
+      "onboard_time": 1737448098,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 140083,
@@ -1363,6 +1395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129862,
+      "num": 129862,
+      "word": "王源易碎的吻唱功",
+      "onboard_time": 1737448398,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127004,
       "num": 127004,
       "word": "异人之下2第七集节奏起飞",
@@ -1427,6 +1467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123197,
+      "num": 274966,
+      "word": "唐探1900旧金山深度攻略",
+      "onboard_time": 1737447859,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 122904,
       "num": 122904,
       "word": "一个不回头一个能能能",
@@ -1483,6 +1531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 118764,
+      "num": 118764,
+      "word": "买了新手机旧手机怎么办",
+      "onboard_time": 1737444739,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 118761,
       "num": 173413,
       "word": "用甲骨文打开非遗春节",
@@ -1529,6 +1585,14 @@
       "onboard_time": 1737379818,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115183,
+      "num": 115183,
+      "word": "花海出发英国",
+      "onboard_time": 1737448098,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 114313,
@@ -1619,14 +1683,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 106359,
-      "num": 274966,
-      "word": "唐探1900旧金山深度攻略",
-      "onboard_time": 1737447859,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 106010,
       "num": 106010,
       "word": "神十九乘组上演太空夸夸",
@@ -1673,14 +1729,6 @@
       "onboard_time": 1737442278,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 104558,
-      "num": 104558,
-      "word": "买了新手机旧手机怎么办",
-      "onboard_time": 1737444739,
-      "rank": 47,
-      "category": "数码"
     },
     {
       "raw_hot": 103424,
