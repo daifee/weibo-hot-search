@@ -1,0 +1,410 @@
+{
+  "runTime": 1737429835585,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1005112,
+        "num": 1160817,
+        "word": "杨子黄圣依葛夕留几手签约蜂群",
+        "onboard_time": 1737426558,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 689175,
+        "num": 689175,
+        "word": "特朗普将宣布南部边境进入紧急状态",
+        "onboard_time": 1737424577,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 57034,
+        "num": 653335,
+        "word": "中国的人造太阳有重大突破",
+        "onboard_time": 1737371538,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 692641,
+        "num": 651047,
+        "word": "2025辽视春晚阵容官宣",
+        "onboard_time": 1737427698,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 620493,
+        "num": 620493,
+        "word": "美国退出巴黎协定",
+        "onboard_time": 1737418758,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 537297,
+        "num": 537297,
+        "word": "男子干电工因为太胆小成技术大神",
+        "onboard_time": 1737425837,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 620516,
+        "num": 492662,
+        "word": "赵露思晒休养日常",
+        "onboard_time": 1737415696,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 592969,
+        "num": 452630,
+        "word": "艾特代露娃结果常华森回复了",
+        "onboard_time": 1737421279,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 405861,
+        "num": 405861,
+        "word": "台湾台南6.2级地震",
+        "onboard_time": 1737390918,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 377284,
+        "num": 377284,
+        "word": "因救人智力倒退的消防员恢复到高中水平",
+        "onboard_time": 1737414855,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2925094,
+        "num": 376170,
+        "word": "特朗普宣布美国退出世界卫生组织",
+        "onboard_time": 1737423857,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 915491,
+        "num": 363703,
+        "word": "潘宏曾说没有自己艾特早安乐死了",
+        "onboard_time": 1737424996,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 739427,
+        "num": 346716,
+        "word": "樊振东旁边是霉霉前男友",
+        "onboard_time": 1737422957,
+        "rank": 12,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 486884,
+        "num": 331152,
+        "word": "九重紫上星定档",
+        "onboard_time": 1737427759,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63128,
+        "num": 322366,
+        "word": "四川公车私用城管被罚取消200元补贴",
+        "onboard_time": 1737429558,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 408129,
+        "num": 314010,
+        "word": "美国最大规模非法移民驱逐行动",
+        "onboard_time": 1737414855,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 301638,
+        "num": 301638,
+        "word": "周锐官宣恋情",
+        "onboard_time": 1737383781,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 341713,
+        "num": 298315,
+        "word": "特朗普签署多项行政令",
+        "onboard_time": 1737420978,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119484,
+        "num": 289545,
+        "word": "周锐偶练时不知道偶像不允许恋爱",
+        "onboard_time": 1737429378,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281155,
+        "num": 281155,
+        "word": "电视剧漂白被指抄袭",
+        "onboard_time": 1737401951,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 580220,
+        "num": 278797,
+        "word": "特朗普就职典礼",
+        "onboard_time": 1737392777,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 560156,
+        "num": 274352,
+        "word": "特朗普正式宣誓就职",
+        "onboard_time": 1737393254,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 522437,
+        "num": 267779,
+        "word": "张柏芝谢霆锋二儿子正脸照",
+        "onboard_time": 1737427457,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299562,
+        "num": 261031,
+        "word": "苹果官网把iPhone写错了",
+        "onboard_time": 1737429739,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 258041,
+        "num": 258041,
+        "word": "麦琳说瘦了没法补录",
+        "onboard_time": 1737429558,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255149,
+        "num": 255149,
+        "word": "两姐妹打架爸爸被压在身下",
+        "onboard_time": 1737426737,
+        "rank": 25,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 229361,
+        "num": 229361,
+        "word": "父亲把15万藏被子里被儿子误扔",
+        "onboard_time": 1737426798,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219280,
+        "num": 219280,
+        "word": "台湾地震",
+        "onboard_time": 1737391036,
+        "rank": 27,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 213688,
+        "num": 213688,
+        "word": "特朗普称美国政府面临信任危机",
+        "onboard_time": 1737423017,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 184838,
+        "num": 184838,
+        "word": "官方回应一城管公车私用送小孩上学",
+        "onboard_time": 1737424396,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184339,
+        "num": 184339,
+        "word": "九重紫",
+        "onboard_time": 1737428298,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183635,
+        "num": 183635,
+        "word": "周杰伦昆凌一家五口重回婚礼教堂",
+        "onboard_time": 1737414915,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182512,
+        "num": 182512,
+        "word": "艾特经历40次火龙果12次心肺复苏",
+        "onboard_time": 1737383180,
+        "rank": 32,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 172884,
+        "num": 172884,
+        "word": "为什么韩国人冻死也要喝冰美式",
+        "onboard_time": 1737415876,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 169999,
+        "num": 169999,
+        "word": "用一首歌迎接春节",
+        "onboard_time": 1737428539,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168289,
+        "num": 168289,
+        "word": "蔡少芬射雕镜头",
+        "onboard_time": 1737422238,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166395,
+        "num": 166395,
+        "word": "再上6天班就过年了",
+        "onboard_time": 1737417799,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159595,
+        "num": 159595,
+        "word": "春节前为辛苦一年的自己点赞",
+        "onboard_time": 1737429498,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151255,
+        "num": 151255,
+        "word": "原主人谈艾特被送潘宏园区原因",
+        "onboard_time": 1737423559,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 151152,
+        "num": 151152,
+        "word": "福卡",
+        "onboard_time": 1737424037,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 124591,
+        "num": 124591,
+        "word": "国色芳华本周日收官",
+        "onboard_time": 1737391397,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130163,
+        "num": 124220,
+        "word": "特朗普币暴涨",
+        "onboard_time": 1737424877,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119817,
+        "num": 119817,
+        "word": "明天北方小年",
+        "onboard_time": 1737418697,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119545,
+        "num": 119545,
+        "word": "福建震感",
+        "onboard_time": 1737391397,
+        "rank": 43,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 86099,
+        "num": 116974,
+        "word": "领补贴买手机不用交旧手机",
+        "onboard_time": 1737427519,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 116501,
+        "num": 116501,
+        "word": "高芙无缘澳网四强",
+        "onboard_time": 1737427759,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115871,
+        "num": 115871,
+        "word": "台湾台南地震已致15人受伤",
+        "onboard_time": 1737424697,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114711,
+        "num": 114711,
+        "word": "麦琳称未来可能会直播带货",
+        "onboard_time": 1737429679,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109310,
+        "num": 109310,
+        "word": "尹锡悦律师碰瓷中国12345便民热线",
+        "onboard_time": 1737385100,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106010,
+        "num": 106010,
+        "word": "神十九乘组上演太空夸夸",
+        "onboard_time": 1737424758,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#这份牵挂春暖中国#"
+    }
+  }
+}

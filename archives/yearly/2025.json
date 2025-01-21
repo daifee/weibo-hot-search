@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737428269373,
+  "endTime": 1737429835585,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -563,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2925094,
+      "num": 376170,
+      "word": "特朗普宣布美国退出世界卫生组织",
+      "onboard_time": 1737423857,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 2922751,
       "num": 2922751,
       "word": "沈腾微博King",
@@ -665,14 +673,6 @@
       "onboard_time": 1736396663,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2668783,
-      "num": 336399,
-      "word": "特朗普宣布美国退出世界卫生组织",
-      "onboard_time": 1737423857,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 2651426,
