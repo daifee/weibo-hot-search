@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/21 21:27:05
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/21 21:38:15
 </p>
 </blockquote>
 <p>
@@ -5025,6 +5025,12 @@ B站拿下春晚转播权（热度：825759）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%233%E7%B1%BB%E4%BA%BA%E5%90%83%E8%BD%A6%E5%8E%98%E5%AD%90%E9%9C%80%E5%87%8F%E9%87%8F%23" target="weibo">
+3类人吃车厘子需减量（热度：797109）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B5%B4%E6%B3%B0%E6%97%85%E6%B8%B8%E4%B8%8D%E9%99%8D%E5%8F%8D%E5%A2%9E%23" target="weibo">
 中国赴泰旅游不降反增（热度：795770）
 </a>
@@ -6005,12 +6011,6 @@ SM新女团 SMTOWN压轴（热度：743773）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2325%E5%B2%81%E5%A5%B3%E5%AD%90%E4%BD%93%E6%A3%80%E6%AD%A3%E5%B8%B8%E5%8D%8A%E4%B8%AA%E6%9C%88%E5%90%8E%E7%A1%AE%E8%AF%8A%E8%83%83%E7%99%8C%23" target="weibo">
 25岁女子体检正常半个月后确诊胃癌（热度：692804）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232025%E8%BE%BD%E8%A7%86%E6%98%A5%E6%99%9A%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23" target="weibo">
-2025辽视春晚阵容官宣（热度：692641）
 </a>
 </li>
 

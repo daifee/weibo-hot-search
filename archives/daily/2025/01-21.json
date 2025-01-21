@@ -1,6 +1,6 @@
 {
   "startTime": 1737390442496,
-  "endTime": 1737466025537,
+  "endTime": 1737466695865,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 1131812,
-      "num": 413149,
+      "num": 456809,
       "word": "特朗普继续威胁TikTok",
       "onboard_time": 1737461959,
       "rank": 27,
@@ -281,6 +281,14 @@
       "onboard_time": 1737391397,
       "rank": 4,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 797109,
+      "num": 1127537,
+      "word": "3类人吃车厘子需减量",
+      "onboard_time": 1737465020,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 771814,
@@ -475,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 534181,
+      "num": 534181,
+      "word": "土耳其滑雪度假区酒店火灾66人遇难",
+      "onboard_time": 1737463819,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 522437,
       "num": 327289,
       "word": "张柏芝谢霆锋二儿子正脸照",
@@ -547,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 456308,
+      "num": 456308,
+      "word": "漂白10集反转",
+      "onboard_time": 1737465318,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 445678,
       "num": 445678,
       "word": "大学生开房洗衣服被吐槽薅羊毛",
@@ -604,7 +628,7 @@
     },
     {
       "raw_hot": 423949,
-      "num": 416553,
+      "num": 423367,
       "word": "BamBam否认与Jennie恋爱",
       "onboard_time": 1737463158,
       "rank": 42,
@@ -625,14 +649,6 @@
       "onboard_time": 1737452778,
       "rank": 5,
       "category": "数码,民生新闻"
-    },
-    {
-      "raw_hot": 422740,
-      "num": 422740,
-      "word": "土耳其滑雪度假区酒店火灾66人遇难",
-      "onboard_time": 1737463819,
-      "rank": 37,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 405472,
@@ -731,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 329854,
+      "num": 243958,
+      "word": "漂白热度",
+      "onboard_time": 1737461419,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 325715,
       "num": 310446,
       "word": "漂白",
@@ -763,20 +787,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 307110,
-      "num": 307110,
-      "word": "3类人吃车厘子需减量",
-      "onboard_time": 1737465020,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 302294,
       "num": 302294,
       "word": "张康乐马柏全费加罗大片花絮",
       "onboard_time": 1737436818,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 301958,
+      "num": 301958,
+      "word": "男生花7百买101小时硬座回家后续",
+      "onboard_time": 1737464720,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 299579,
@@ -1011,28 +1035,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 248958,
-      "num": 243958,
-      "word": "漂白热度",
-      "onboard_time": 1737461419,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 246972,
       "num": 246972,
       "word": "周杰伦昆凌一家五口重回婚礼教堂",
       "onboard_time": 1737414915,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 245558,
-      "num": 207081,
-      "word": "漂白10集反转",
-      "onboard_time": 1737465318,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 242110,
@@ -1147,20 +1155,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 219557,
+      "num": 219557,
+      "word": "杨紫觉得国色芳华好像才刚刚开始",
+      "onboard_time": 1737466219,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215817,
       "num": 243904,
       "word": "秦彻百城大银幕",
       "onboard_time": 1737454457,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 211839,
-      "num": 211839,
-      "word": "男生花7百买101小时硬座回家后续",
-      "onboard_time": 1737464720,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 211012,
@@ -1177,6 +1185,22 @@
       "onboard_time": 1737437719,
       "rank": 27,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 208339,
+      "num": 208339,
+      "word": "白色橄榄树",
+      "onboard_time": 1737465979,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 206131,
+      "num": 206131,
+      "word": "王菲 春晚",
+      "onboard_time": 1737466459,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 205799,
@@ -1473,6 +1497,14 @@
       "onboard_time": 1737435440,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172566,
+      "num": 172566,
+      "word": "章昊垫底辣孩cha",
+      "onboard_time": 1737466579,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 171389,
@@ -1783,14 +1815,6 @@
       "num": 145874,
       "word": "迪丽热巴慕胥辞候场路透",
       "onboard_time": 1737423437,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 145346,
-      "num": 145346,
-      "word": "白色橄榄树",
-      "onboard_time": 1737465979,
       "rank": 46,
       "category": "剧集"
     },
@@ -2219,6 +2243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119060,
+      "num": 119060,
+      "word": "朱亚文晒婚戒",
+      "onboard_time": 1737466398,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118764,
       "num": 118764,
       "word": "买了新手机旧手机怎么办",
@@ -2643,6 +2675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92379,
+      "num": 457247,
+      "word": "澜湄六国将全力解救电诈被困人员",
+      "onboard_time": 1737463518,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91010,
       "num": 225270,
       "word": "辛鹏说何惟芳扇王擎太解气了",
@@ -2907,14 +2947,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 60269,
-      "num": 415014,
-      "word": "澜湄六国将全力解救电诈被困人员",
-      "onboard_time": 1737463518,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56592,
       "num": 56592,
       "word": "电影封神第二部厦门路演",
@@ -2953,6 +2985,14 @@
       "onboard_time": 1737432799,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51623,
+      "num": 299413,
+      "word": "费加罗男士主编晒与张康乐马柏全合照",
+      "onboard_time": 1737465499,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 51574,
@@ -3003,6 +3043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 45624,
+      "num": 301777,
+      "word": "哪吒用的原来是儿童手表",
+      "onboard_time": 1737465499,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 39315,
       "num": 215918,
       "word": "国补到底咋领",
@@ -3043,12 +3091,12 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 30700,
-      "num": 301777,
-      "word": "哪吒用的原来是儿童手表",
-      "onboard_time": 1737465499,
-      "rank": 18,
-      "category": "电影"
+      "raw_hot": 33791,
+      "num": 147586,
+      "word": "外国人爱上中国年的N个理由",
+      "onboard_time": 1737466099,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30380,
@@ -3068,7 +3116,7 @@
     },
     {
       "raw_hot": 26900,
-      "num": 697533,
+      "num": 755695,
       "word": "打卡北海大厂玩转蛇年新春",
       "onboard_time": 1737460098,
       "rank": 2,
@@ -3153,14 +3201,6 @@
       "onboard_time": 1737397452,
       "rank": 49,
       "category": "体育,民生新闻"
-    },
-    {
-      "raw_hot": 18235,
-      "num": 299413,
-      "word": "费加罗男士主编晒与张康乐马柏全合照",
-      "onboard_time": 1737465499,
-      "rank": 19,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 17968,
