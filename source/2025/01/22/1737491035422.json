@@ -1,0 +1,410 @@
+{
+  "runTime": 1737491035422,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 153190,
+        "num": 153190,
+        "word": "女子美甲后感染HPV病毒长出菜花",
+        "onboard_time": 1737477796,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73076,
+        "num": 73076,
+        "word": "王鹤棣在巴黎穿上了道明寺皮肤",
+        "onboard_time": 1737472519,
+        "rank": 1,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 15183,
+        "num": 63659,
+        "word": "浓浓的年味已经扑面而来",
+        "onboard_time": 1737465919,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60494,
+        "num": 60494,
+        "word": "比伯取关了海莉",
+        "onboard_time": 1737471859,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46256,
+        "num": 46256,
+        "word": "广西2幢违建豪宅无人认领被拆除",
+        "onboard_time": 1737475638,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37752,
+        "num": 37752,
+        "word": "中缅泰就铲除妙瓦底电诈窝点达成共识",
+        "onboard_time": 1737472519,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43127,
+        "num": 37524,
+        "word": "王嘉尔朱一龙王鹤棣巴黎合照",
+        "onboard_time": 1737459619,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 39132,
+        "num": 36615,
+        "word": "赵露思12小时ins点赞破百万",
+        "onboard_time": 1737443359,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35701,
+        "num": 35701,
+        "word": "国补后iPhone16成苹果最香机",
+        "onboard_time": 1737453918,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35123,
+        "num": 35123,
+        "word": "以士兵无视停火协议射杀儿童",
+        "onboard_time": 1737487692,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 48165,
+        "num": 34367,
+        "word": "特朗普提中国一小时后巴拿马回怼",
+        "onboard_time": 1737438317,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32219,
+        "num": 32219,
+        "word": "特朗普就职典礼出意外木头姐救场",
+        "onboard_time": 1737487451,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42673,
+        "num": 31740,
+        "word": "特朗普继续威胁TikTok",
+        "onboard_time": 1737461959,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30038,
+        "num": 30038,
+        "word": "外交部回应TikTok收购问题",
+        "onboard_time": 1737484933,
+        "rank": 13,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 30017,
+        "num": 30017,
+        "word": "王菲 春晚",
+        "onboard_time": 1737466459,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27455,
+        "num": 27455,
+        "word": "男生花7百买101小时硬座回家后续",
+        "onboard_time": 1737464720,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25725,
+        "num": 25725,
+        "word": "李威被警方第三次传唤",
+        "onboard_time": 1737477855,
+        "rank": 16,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 8475,
+        "num": 25345,
+        "word": "海警位金门附近海域常态化巡查",
+        "onboard_time": 1737490632,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25145,
+        "num": 25145,
+        "word": "国补后苹果手机跌破3000",
+        "onboard_time": 1737456018,
+        "rank": 18,
+        "category": "数码,民生新闻"
+      },
+      {
+        "raw_hot": 23414,
+        "num": 23414,
+        "word": "2025央视网络春晚全阵容",
+        "onboard_time": 1737456677,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41207,
+        "num": 23262,
+        "word": "胎儿在妈妈肚子里患上阑尾炎",
+        "onboard_time": 1737467299,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26301,
+        "num": 23154,
+        "word": "美籍男子趴出半个身体托举落水老人",
+        "onboard_time": 1737468619,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24077,
+        "num": 23126,
+        "word": "空腹断食42小时的变化",
+        "onboard_time": 1737454218,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 23045,
+        "num": 23045,
+        "word": "春晚彩排",
+        "onboard_time": 1737471259,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 8692,
+        "num": 21243,
+        "word": "空军数架战机寒冬出击训练",
+        "onboard_time": 1737489731,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21102,
+        "num": 21102,
+        "word": "夏以昼 苹果",
+        "onboard_time": 1737471559,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 20936,
+        "num": 20936,
+        "word": "朱亚文晒婚戒",
+        "onboard_time": 1737466398,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20780,
+        "num": 20780,
+        "word": "车厘子",
+        "onboard_time": 1737469040,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 20406,
+        "num": 20406,
+        "word": "相思令",
+        "onboard_time": 1737468921,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20246,
+        "num": 20246,
+        "word": "杨紫回应国色芳华第二季",
+        "onboard_time": 1737485651,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19981,
+        "num": 19981,
+        "word": "漂白",
+        "onboard_time": 1737438258,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19358,
+        "num": 19358,
+        "word": "3类人吃车厘子需减量",
+        "onboard_time": 1737465020,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19257,
+        "num": 19257,
+        "word": "无畏打野",
+        "onboard_time": 1737474618,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18341,
+        "num": 18341,
+        "word": "苏享茂哥哥称翟欣欣鞠躬道歉",
+        "onboard_time": 1737476537,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18191,
+        "num": 18191,
+        "word": "土耳其滑雪度假区酒店火灾66人遇难",
+        "onboard_time": 1737463819,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 18038,
+        "num": 18038,
+        "word": "昆明市市长刘佳晨任上被查",
+        "onboard_time": 1737460218,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17960,
+        "num": 17960,
+        "word": "国色芳华第二季",
+        "onboard_time": 1737447438,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17586,
+        "num": 17586,
+        "word": "37岁德约和37岁教练穆雷拥抱",
+        "onboard_time": 1737474558,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17564,
+        "num": 17564,
+        "word": "朱亚文一张图回应",
+        "onboard_time": 1737480194,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17500,
+        "num": 17500,
+        "word": "一美国边境巡逻人员被枪杀",
+        "onboard_time": 1737489011,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 17245,
+        "num": 17245,
+        "word": "中方对美方将退出巴黎协定表示关切",
+        "onboard_time": 1737486131,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17131,
+        "num": 17131,
+        "word": "仙台有树档期",
+        "onboard_time": 1737467359,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16457,
+        "num": 16457,
+        "word": "砂糖橘吃多了真的会变小黄人",
+        "onboard_time": 1737469339,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8413,
+        "num": 16325,
+        "word": "中部战区空军航空兵训练大片",
+        "onboard_time": 1737489852,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16308,
+        "num": 16308,
+        "word": "异人之下之决战碧游村",
+        "onboard_time": 1737480913,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15803,
+        "num": 15803,
+        "word": "12306的使用小技巧",
+        "onboard_time": 1737487333,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15669,
+        "num": 15669,
+        "word": "漂白10集反转",
+        "onboard_time": 1737465318,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15314,
+        "num": 15314,
+        "word": "这跟和娜扎谈了有什么区别",
+        "onboard_time": 1737457819,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14690,
+        "num": 14690,
+        "word": "请查收来自孙颖莎的新春祝福",
+        "onboard_time": 1737479775,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14672,
+        "num": 14672,
+        "word": "人事总监安排父母吃空饷",
+        "onboard_time": 1737488532,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同普京举行视频会晤#"
+    }
+  }
+}
