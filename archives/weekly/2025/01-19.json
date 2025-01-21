@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737424561022,
+  "endTime": 1737427742251,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -41,6 +41,14 @@
       "onboard_time": 1737260718,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 2426626,
+      "num": 336399,
+      "word": "特朗普宣布美国退出世界卫生组织",
+      "onboard_time": 1737423857,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 2363224,
@@ -715,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 694431,
+      "num": 694431,
+      "word": "特朗普将宣布南部边境进入紧急状态",
+      "onboard_time": 1737424577,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 687464,
       "num": 260208,
       "word": "特朗普发帖呼吁挽救TikTok",
@@ -873,6 +889,14 @@
       "onboard_time": 1737247218,
       "rank": 4,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 582169,
+      "num": 332051,
+      "word": "潘宏曾说没有自己艾特早安乐死了",
+      "onboard_time": 1737424996,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 581871,
@@ -1363,6 +1387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 401931,
+      "num": 324049,
+      "word": "杨子黄圣依葛夕留几手签约蜂群",
+      "onboard_time": 1737426558,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 400256,
       "num": 273916,
       "word": "特朗普登车出发前往白宫",
@@ -1739,6 +1771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 319567,
+      "num": 319567,
+      "word": "特朗普签署多项行政令",
+      "onboard_time": 1737420978,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 318087,
       "num": 318087,
       "word": "患渐冻症容貌巨变女生已无法说话",
@@ -2019,6 +2059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 271944,
+      "num": 271944,
+      "word": "官方回应一城管公车私用送小孩上学",
+      "onboard_time": 1737424396,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 270790,
       "num": 151312,
       "word": "张峻豪发言",
@@ -2081,6 +2129,14 @@
       "onboard_time": 1737338957,
       "rank": 18,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 261784,
+      "num": 243104,
+      "word": "两姐妹打架爸爸被压在身下",
+      "onboard_time": 1737426737,
+      "rank": 24,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 261625,
@@ -2147,6 +2203,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 254222,
+      "num": 254222,
+      "word": "男子干电工因为太胆小成技术大神",
+      "onboard_time": 1737425837,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 254055,
       "num": 220195,
       "word": "35岁练瑜伽一年体态的变化",
@@ -2171,6 +2235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250574,
+      "num": 245721,
+      "word": "春节前年宵花降价",
+      "onboard_time": 1737426378,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 248763,
       "num": 128086,
       "word": "刘宇宁 直播开怼",
@@ -2185,6 +2257,14 @@
       "onboard_time": 1737207800,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 246972,
+      "num": 246972,
+      "word": "周杰伦昆凌一家五口重回婚礼教堂",
+      "onboard_time": 1737414915,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 246846,
@@ -2217,14 +2297,6 @@
       "onboard_time": 1737288679,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 242898,
-      "num": 242898,
-      "word": "周杰伦昆凌一家五口重回婚礼教堂",
-      "onboard_time": 1737414915,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 241774,
@@ -2523,6 +2595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 208862,
+      "num": 208862,
+      "word": "特朗普称美国政府面临信任危机",
+      "onboard_time": 1737423017,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 208848,
       "num": 208848,
       "word": "甲骨文公司关闭托管TikTok数据服务器",
@@ -2705,6 +2785,14 @@
       "onboard_time": 1737216138,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199602,
+      "num": 183043,
+      "word": "原主人谈艾特被送潘宏园区原因",
+      "onboard_time": 1737423559,
+      "rank": 49,
+      "category": "网红"
     },
     {
       "raw_hot": 199495,
@@ -3075,6 +3163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186439,
+      "num": 186439,
+      "word": "蔡少芬射雕镜头",
+      "onboard_time": 1737422238,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 186410,
       "num": 186410,
       "word": "仙逆",
@@ -3145,6 +3241,14 @@
       "onboard_time": 1737263178,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183905,
+      "num": 183905,
+      "word": "张柏芝谢霆锋二儿子正脸照",
+      "onboard_time": 1737427457,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 183837,
@@ -3323,14 +3427,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 174304,
-      "num": 174304,
-      "word": "特朗普宣布美国退出世界卫生组织",
-      "onboard_time": 1737423857,
-      "rank": 27,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 174151,
       "num": 174151,
       "word": "周兴哲MV女主叶舒华",
@@ -3361,14 +3457,6 @@
       "onboard_time": 1737249857,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 172672,
-      "num": 172672,
-      "word": "原主人谈艾特被送潘宏园区原因",
-      "onboard_time": 1737423559,
-      "rank": 49,
-      "category": "网红"
     },
     {
       "raw_hot": 172270,
@@ -4027,6 +4115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147227,
+      "num": 147227,
+      "word": "2025辽视春晚阵容官宣",
+      "onboard_time": 1737427698,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146754,
       "num": 191525,
       "word": "虞书欣林一新剧过审",
@@ -4145,14 +4241,6 @@
       "onboard_time": 1737364038,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 143426,
-      "num": 143426,
-      "word": "蔡少芬射雕镜头",
-      "onboard_time": 1737422238,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 143164,
@@ -4385,6 +4473,14 @@
       "onboard_time": 1737244996,
       "rank": 26,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 136512,
+      "num": 136512,
+      "word": "父亲把15万藏被子里被儿子误扔",
+      "onboard_time": 1737426798,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136399,
@@ -4819,14 +4915,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 123149,
-      "num": 122101,
-      "word": "特朗普称美国政府面临信任危机",
-      "onboard_time": 1737423017,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 121986,
       "num": 299813,
       "word": "999感冒灵凭实力闯进保暖时尚圈",
@@ -5083,6 +5171,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 114306,
+      "num": 114306,
+      "word": "特朗普币暴涨",
+      "onboard_time": 1737424877,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 114199,
       "num": 114199,
       "word": "荣耀中国区CMO将辞职",
@@ -5241,6 +5337,14 @@
       "onboard_time": 1737260358,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108174,
+      "num": 338794,
+      "word": "台湾台南地震已致15人受伤",
+      "onboard_time": 1737424697,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107916,
@@ -5465,6 +5569,14 @@
       "onboard_time": 1737260598,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103424,
+      "num": 103424,
+      "word": "小宝主人发声",
+      "onboard_time": 1737426197,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 103367,
@@ -5840,14 +5952,6 @@
       "word": "中国人的情义都藏在酒里",
       "onboard_time": 1737382159,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92070,
-      "num": 92070,
-      "word": "官方回应一城管公车私用送小孩上学",
-      "onboard_time": 1737424396,
-      "rank": 48,
       "category": "民生新闻"
     },
     {

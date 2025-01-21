@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737424561022,
+  "endTime": 1737427742251,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -825,6 +825,14 @@
       "onboard_time": 1736225243,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2426626,
+      "num": 336399,
+      "word": "特朗普宣布美国退出世界卫生组织",
+      "onboard_time": 1737423857,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 2409556,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736240722,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1511084,
-      "num": 1511084,
-      "word": "洛杉矶市长沉默沉默再沉默",
-      "onboard_time": 1736670679,
-      "rank": 45,
-      "category": "海外新闻"
     }
   ],
   "hotgov_list": [
