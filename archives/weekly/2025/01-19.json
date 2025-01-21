@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737473909900,
+  "endTime": 1737476916141,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -1291,6 +1291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 551253,
+      "num": 551253,
+      "word": "中缅泰就铲除妙瓦底电诈窝点达成共识",
+      "onboard_time": 1737472519,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 551223,
       "num": 383553,
       "word": "潘宏基地另一网红狗疑被咬死",
@@ -1859,14 +1867,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 413119,
-      "num": 413119,
-      "word": "中缅泰就铲除妙瓦底电诈窝点达成共识",
-      "onboard_time": 1737472519,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 405472,
       "num": 405472,
       "word": "再上6天班就过年了",
@@ -2137,6 +2137,14 @@
       "onboard_time": 1737378138,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 349532,
+      "num": 349532,
+      "word": "王鹤棣在巴黎穿上了道明寺皮肤",
+      "onboard_time": 1737472519,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 349413,
@@ -2651,14 +2659,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 277616,
-      "num": 277616,
-      "word": "王鹤棣在巴黎穿上了道明寺皮肤",
-      "onboard_time": 1737472519,
-      "rank": 31,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 276741,
       "num": 276741,
       "word": "李昀锐三十年河东三十年河西",
@@ -3065,6 +3065,14 @@
       "onboard_time": 1737296059,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 240266,
+      "num": 240266,
+      "word": "春晚彩排",
+      "onboard_time": 1737471259,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 239344,
@@ -5307,6 +5315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 153704,
+      "num": 153704,
+      "word": "无畏打野",
+      "onboard_time": 1737474618,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 153110,
       "num": 153110,
       "word": "第一次见疯批洗脑把自己洗哭了",
@@ -5347,14 +5363,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 152011,
-      "num": 152011,
-      "word": "春晚彩排",
-      "onboard_time": 1737471259,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 151505,
       "num": 151505,
       "word": "秦胜意的两次破门",
@@ -5377,6 +5385,14 @@
       "onboard_time": 1737299539,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 150728,
+      "num": 150728,
+      "word": "马龙送李现To签球拍",
+      "onboard_time": 1737472821,
+      "rank": 49,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 150631,
@@ -6827,6 +6843,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 118327,
+      "num": 118327,
+      "word": "广西2幢违建豪宅无人认领被拆除",
+      "onboard_time": 1737475638,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118104,
       "num": 118104,
       "word": "被易烊千玺纪录片旁白硬控了",
@@ -7683,14 +7707,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 101198,
-      "num": 101198,
-      "word": "马龙送李现To签球拍",
-      "onboard_time": 1737472821,
-      "rank": 49,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 101184,
       "num": 101184,
       "word": "杨茜尧获大湾区最喜爱TVB女主角",
@@ -7849,6 +7865,14 @@
       "onboard_time": 1737252076,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 96946,
+      "num": 144135,
+      "word": "37岁德约和37岁教练穆雷拥抱",
+      "onboard_time": 1737474558,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 96897,
@@ -8203,6 +8227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82261,
+      "num": 82261,
+      "word": "国色芳华27集预告",
+      "onboard_time": 1737474257,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82207,
       "num": 216388,
       "word": "李一桐的新年上上签",
@@ -8395,6 +8427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73084,
+      "num": 79681,
+      "word": "射雕微博直播预告",
+      "onboard_time": 1737475758,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 71873,
       "num": 71873,
       "word": "李昀锐早安语音包",
@@ -8425,6 +8465,14 @@
       "onboard_time": 1737392417,
       "rank": 39,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 69923,
+      "num": 79654,
+      "word": "射雕英雄传大年初一预售票房破亿",
+      "onboard_time": 1737474257,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 69913,
@@ -8499,6 +8547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 63766,
+      "num": 79667,
+      "word": "漂白恋爱还能干中学",
+      "onboard_time": 1737475758,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 63496,
       "num": 74444,
       "word": "萨巴伦卡vs安德列娃",
@@ -8545,6 +8601,14 @@
       "onboard_time": 1737260119,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60952,
+      "num": 80053,
+      "word": "小伙留了3年头发捐给化疗患者",
+      "onboard_time": 1737475338,
+      "rank": 45,
+      "category": "正能量"
     },
     {
       "raw_hot": 60900,
@@ -8617,6 +8681,14 @@
       "onboard_time": 1737365058,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 53839,
+      "num": 141946,
+      "word": "刘诗诗曾说好的爱情是彼此用心",
+      "onboard_time": 1737474498,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 53834,
@@ -8987,6 +9059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35045,
+      "num": 656532,
+      "word": "浓浓的年味已经扑面而来",
+      "onboard_time": 1737465919,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35028,
       "num": 35028,
       "word": "苏新皓和粉丝隔空握手",
@@ -9249,6 +9329,14 @@
       "onboard_time": 1737400271,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 23384,
+      "num": 245644,
+      "word": "苏享茂哥哥称翟欣欣鞠躬道歉",
+      "onboard_time": 1737476537,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23091,
@@ -9641,14 +9729,6 @@
       "onboard_time": 1737473120,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 5663,
-      "num": 656532,
-      "word": "浓浓的年味已经扑面而来",
-      "onboard_time": 1737465919,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
