@@ -1,6 +1,6 @@
 {
   "startTime": 1737390442496,
-  "endTime": 1737423589231,
+  "endTime": 1737424561022,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1079254,
+      "num": 846365,
+      "word": "樊振东旁边是霉霉前男友",
+      "onboard_time": 1737422957,
+      "rank": 6,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 945568,
       "num": 945568,
       "word": "特朗普正式宣誓就职",
@@ -83,20 +91,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 840774,
+      "num": 840774,
+      "word": "艾特代露娃结果常华森回复了",
+      "onboard_time": 1737421279,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 804683,
       "num": 804683,
       "word": "福建震感",
       "onboard_time": 1737391397,
       "rank": 4,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 779214,
-      "num": 779214,
-      "word": "艾特代露娃结果常华森回复了",
-      "onboard_time": 1737421279,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 771814,
@@ -107,20 +115,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 741676,
+      "num": 442488,
+      "word": "美国最大规模非法移民驱逐行动",
+      "onboard_time": 1737414855,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 738041,
       "num": 312830,
       "word": "印度女医生奸杀案宣判",
       "onboard_time": 1737377178,
       "rank": 10,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 705007,
-      "num": 442488,
-      "word": "美国最大规模非法移民驱逐行动",
-      "onboard_time": 1737414855,
-      "rank": 26,
-      "category": "国际时政"
     },
     {
       "raw_hot": 649340,
@@ -145,14 +153,6 @@
       "onboard_time": 1737392417,
       "rank": 6,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 526631,
-      "num": 526631,
-      "word": "樊振东旁边是霉霉前男友",
-      "onboard_time": 1737422957,
-      "rank": 6,
-      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 479843,
@@ -283,6 +283,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 267258,
+      "num": 442793,
+      "word": "明天北方小年",
+      "onboard_time": 1737418697,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 263696,
       "num": 263696,
       "word": "何惟芳秦胜意彻底回不去了",
@@ -305,6 +313,14 @@
       "onboard_time": 1737421997,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 242898,
+      "num": 242898,
+      "word": "周杰伦昆凌一家五口重回婚礼教堂",
+      "onboard_time": 1737414915,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 238728,
@@ -331,28 +347,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 205580,
-      "num": 442793,
-      "word": "明天北方小年",
-      "onboard_time": 1737418697,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 205513,
       "num": 256154,
       "word": "一听这些歌就知道快过年了",
       "onboard_time": 1737375737,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 204279,
-      "num": 204279,
-      "word": "周杰伦昆凌一家五口重回婚礼教堂",
-      "onboard_time": 1737414915,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 191268,
@@ -411,6 +411,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174304,
+      "num": 174304,
+      "word": "特朗普宣布美国退出世界卫生组织",
+      "onboard_time": 1737423857,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 172672,
+      "num": 172672,
+      "word": "原主人谈艾特被送潘宏园区原因",
+      "onboard_time": 1737423559,
+      "rank": 49,
+      "category": "网红"
+    },
+    {
       "raw_hot": 166076,
       "num": 116139,
       "word": "吴尊neinei新综来了",
@@ -435,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160245,
+      "num": 160245,
+      "word": "福卡",
+      "onboard_time": 1737424037,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 158772,
       "num": 158772,
       "word": "福建浙江上海震感",
@@ -443,12 +467,28 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 144545,
+      "raw_hot": 146754,
       "num": 191525,
       "word": "虞书欣林一新剧过审",
       "onboard_time": 1737420200,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145874,
+      "num": 145874,
+      "word": "迪丽热巴慕胥辞候场路透",
+      "onboard_time": 1737423437,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 143426,
+      "num": 143426,
+      "word": "蔡少芬射雕镜头",
+      "onboard_time": 1737422238,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 141505,
@@ -475,20 +515,20 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 138785,
-      "num": 138785,
-      "word": "蔡少芬射雕镜头",
-      "onboard_time": 1737422238,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 133700,
       "num": 133700,
       "word": "库里也带不动勇士了",
       "onboard_time": 1737423379,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132647,
+      "num": 132647,
+      "word": "阿司匹林实验怎么做不成了",
+      "onboard_time": 1737422057,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 130505,
@@ -523,12 +563,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 122756,
-      "num": 122756,
-      "word": "阿司匹林实验怎么做不成了",
-      "onboard_time": 1737422057,
-      "rank": 37,
-      "category": "健康医疗"
+      "raw_hot": 120654,
+      "num": 120654,
+      "word": "福字",
+      "onboard_time": 1737423437,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120400,
@@ -627,22 +667,6 @@
       "category": "汽车,网红"
     },
     {
-      "raw_hot": 100103,
-      "num": 100103,
-      "word": "福字",
-      "onboard_time": 1737423437,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 97819,
-      "num": 97819,
-      "word": "迪丽热巴慕胥辞候场路透",
-      "onboard_time": 1737423437,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 97533,
       "num": 97533,
       "word": "漂白 赵今麦演技",
@@ -683,12 +707,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 90035,
-      "num": 90035,
-      "word": "原主人谈艾特被送潘宏园区原因",
-      "onboard_time": 1737423559,
-      "rank": 49,
-      "category": "网红"
+      "raw_hot": 92070,
+      "num": 92070,
+      "word": "官方回应一城管公车私用送小孩上学",
+      "onboard_time": 1737424396,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87426,
@@ -705,6 +729,14 @@
       "onboard_time": 1737384381,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84903,
+      "num": 84903,
+      "word": "白月梵星",
+      "onboard_time": 1737424517,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 84656,
@@ -875,12 +907,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 50822,
+      "num": 333050,
+      "word": "2025电影春节档加量不加价",
+      "onboard_time": 1737423857,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 50724,
       "num": 89191,
       "word": "交警人还没到嘴先出警",
       "onboard_time": 1737388158,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50042,
+      "num": 173059,
+      "word": "原来千手观音已经20年了",
+      "onboard_time": 1737423796,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 46284,
