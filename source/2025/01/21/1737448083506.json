@@ -1,0 +1,410 @@
+{
+  "runTime": 1737448083506,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 939214,
+        "num": 1150274,
+        "word": "第一批聪明的人已经堵在路上",
+        "onboard_time": 1737435739,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 608087,
+        "num": 608087,
+        "word": "赶公交的SM男练习生",
+        "onboard_time": 1737444798,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39836,
+        "num": 473075,
+        "word": "神十九航天员完成第二次出舱",
+        "onboard_time": 1737432978,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1063521,
+        "num": 463102,
+        "word": "赵露思12小时ins点赞破百万",
+        "onboard_time": 1737443359,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371199,
+        "num": 371199,
+        "word": "手机被撞飞后正掉在车轮下被碾压",
+        "onboard_time": 1737439878,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 531839,
+        "num": 362038,
+        "word": "特朗普一提中国外媒马上澄清",
+        "onboard_time": 1737442217,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 774000,
+        "num": 347900,
+        "word": "桃黑黑 易梦玲",
+        "onboard_time": 1737439938,
+        "rank": 6,
+        "category": "网红,游戏"
+      },
+      {
+        "raw_hot": 560890,
+        "num": 337993,
+        "word": "难哄",
+        "onboard_time": 1737438799,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323093,
+        "num": 323093,
+        "word": "海鸥联合行动逮捕嫌犯7万余名",
+        "onboard_time": 1737445579,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168914,
+        "num": 319550,
+        "word": "春运离深高峰来了",
+        "onboard_time": 1737446838,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1111494,
+        "num": 313137,
+        "word": "特朗普提中国一小时后巴拿马回怼",
+        "onboard_time": 1737438317,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 663172,
+        "num": 310133,
+        "word": "吴奇隆刘诗诗结婚十周年",
+        "onboard_time": 1737439818,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 552650,
+        "num": 301538,
+        "word": "朱亚文方否认离婚",
+        "onboard_time": 1737447018,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 548930,
+        "num": 297744,
+        "word": "潘宏基地另一网红狗疑被咬死",
+        "onboard_time": 1737437357,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 515386,
+        "num": 288635,
+        "word": "特朗普宣布美国退出世界卫生组织",
+        "onboard_time": 1737423857,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 462543,
+        "num": 284755,
+        "word": "浪姐6网传全员阵容",
+        "onboard_time": 1737444378,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343699,
+        "num": 277926,
+        "word": "李赛纶李灿赫分手",
+        "onboard_time": 1737445638,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276991,
+        "num": 276991,
+        "word": "工行回应女子存款80万取不出",
+        "onboard_time": 1737447618,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106359,
+        "num": 274966,
+        "word": "唐探1900旧金山深度攻略",
+        "onboard_time": 1737447859,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 274023,
+        "num": 274023,
+        "word": "12306候补",
+        "onboard_time": 1737440838,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 431852,
+        "num": 271258,
+        "word": "国色芳华第二季",
+        "onboard_time": 1737447438,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255292,
+        "num": 255292,
+        "word": "孙俪不语只是一味展示才艺",
+        "onboard_time": 1737445397,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257620,
+        "num": 255146,
+        "word": "央视boys四个人好几个群",
+        "onboard_time": 1737444917,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254904,
+        "num": 254904,
+        "word": "春晚最年轻的00后主持人来了",
+        "onboard_time": 1737431779,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220388,
+        "num": 220388,
+        "word": "B站回应员工植入恶意代码报复用户",
+        "onboard_time": 1737439578,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 215536,
+        "num": 215536,
+        "word": "高铁座椅上的犄角到底是干啥的",
+        "onboard_time": 1737437598,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206031,
+        "num": 206031,
+        "word": "漂白",
+        "onboard_time": 1737438258,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174907,
+        "num": 203687,
+        "word": "孙颖莎红运接到了吗",
+        "onboard_time": 1737442937,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203178,
+        "num": 203178,
+        "word": "潘宏曾说没有自己艾特早安乐死了",
+        "onboard_time": 1737424996,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 202646,
+        "num": 202646,
+        "word": "胡歌刘诗诗一开口就是老养猫人了",
+        "onboard_time": 1737447618,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195417,
+        "num": 195417,
+        "word": "苹果官网把iPhone写错了",
+        "onboard_time": 1737429739,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 193841,
+        "num": 193841,
+        "word": "蔡文姬蛇年限定皮肤",
+        "onboard_time": 1737446898,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190886,
+        "num": 190886,
+        "word": "杨紫谈工作和生活中的自己",
+        "onboard_time": 1737447558,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176367,
+        "num": 176367,
+        "word": "张馨予何捷东北滑雪",
+        "onboard_time": 1737437959,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156855,
+        "num": 156855,
+        "word": "肖战也躲不过直戳心窝的补刀",
+        "onboard_time": 1737439938,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156578,
+        "num": 156578,
+        "word": "聪明女人已经计划好哪天洗头了",
+        "onboard_time": 1737441318,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149904,
+        "num": 149904,
+        "word": "苏享茂哥哥发微博网友为其加油",
+        "onboard_time": 1737444378,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141007,
+        "num": 141007,
+        "word": "王嘉尔击剑",
+        "onboard_time": 1737447377,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155165,
+        "num": 140012,
+        "word": "苏享茂家属称翟欣欣认罪认罚",
+        "onboard_time": 1737444018,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136113,
+        "num": 136113,
+        "word": "2025网络视听盛典第二波阵容",
+        "onboard_time": 1737446659,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136036,
+        "num": 136036,
+        "word": "翟欣欣涉嫌敲诈勒索案择期宣判",
+        "onboard_time": 1737447499,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133940,
+        "num": 133940,
+        "word": "特朗普签令将墨西哥湾改名为美国湾",
+        "onboard_time": 1737429980,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133882,
+        "num": 133882,
+        "word": "父亲把15万藏被子里被儿子误扔",
+        "onboard_time": 1737426798,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133710,
+        "num": 133710,
+        "word": "费加罗销量",
+        "onboard_time": 1737438619,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 127847,
+        "num": 127847,
+        "word": "光遇",
+        "onboard_time": 1737432077,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127004,
+        "num": 127004,
+        "word": "异人之下2第七集节奏起飞",
+        "onboard_time": 1737447859,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122904,
+        "num": 122904,
+        "word": "一个不回头一个能能能",
+        "onboard_time": 1737447797,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121048,
+        "num": 121048,
+        "word": "2025辽视春晚阵容官宣",
+        "onboard_time": 1737427698,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120763,
+        "num": 120763,
+        "word": "谢娜钟楚曦爆改杨迪",
+        "onboard_time": 1737446659,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119711,
+        "num": 119711,
+        "word": "张柏芝谢霆锋二儿子正脸照",
+        "onboard_time": 1737427457,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同党外人士共迎新春#"
+    }
+  }
+}
