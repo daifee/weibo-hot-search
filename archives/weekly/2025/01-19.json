@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737416130313,
+  "endTime": 1737423589231,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -227,6 +227,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1385559,
+      "num": 1385559,
+      "word": "美国退出巴黎协定",
+      "onboard_time": 1737418758,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1361929,
       "num": 1361929,
       "word": "韩国网友被中国演员的颜值震撼",
@@ -305,6 +313,14 @@
       "onboard_time": 1737271397,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1193265,
+      "num": 1193265,
+      "word": "赵露思晒休养日常",
+      "onboard_time": 1737415696,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 1173136,
@@ -459,6 +475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 936752,
+      "num": 936752,
+      "word": "因救人智力倒退的消防员恢复到高中水平",
+      "onboard_time": 1737414855,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 923121,
       "num": 923121,
       "word": "iG",
@@ -523,6 +547,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 858011,
+      "num": 260136,
+      "word": "女子身在辐中不知辐",
+      "onboard_time": 1737390918,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 854922,
       "num": 854922,
       "word": "Doinb说跪下",
@@ -577,6 +609,14 @@
       "onboard_time": 1737391397,
       "rank": 4,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 779214,
+      "num": 779214,
+      "word": "艾特代露娃结果常华森回复了",
+      "onboard_time": 1737421279,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 771397,
@@ -651,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 705007,
+      "num": 442488,
+      "word": "美国最大规模非法移民驱逐行动",
+      "onboard_time": 1737414855,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 701241,
       "num": 701241,
       "word": "日均接诊800人协和急诊说忙爆炸了",
@@ -689,6 +737,14 @@
       "onboard_time": 1737260658,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 649340,
+      "num": 440504,
+      "word": "特朗普就职典礼",
+      "onboard_time": 1737392777,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 647227,
@@ -947,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 526631,
+      "num": 526631,
+      "word": "樊振东旁边是霉霉前男友",
+      "onboard_time": 1737422957,
+      "rank": 6,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 523130,
       "num": 523130,
       "word": "国产剧终于拍了熟男熟女的cp了",
@@ -1017,14 +1081,6 @@
       "onboard_time": 1737372077,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 497533,
-      "num": 291926,
-      "word": "特朗普就职典礼",
-      "onboard_time": 1737392777,
-      "rank": 11,
-      "category": "国际时政"
     },
     {
       "raw_hot": 491390,
@@ -1171,6 +1227,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 445429,
+      "num": 445429,
+      "word": "电视剧漂白被指抄袭",
+      "onboard_time": 1737401951,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 443580,
+      "num": 443580,
+      "word": "留几手发文向葛夕道歉",
+      "onboard_time": 1737416538,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 443442,
       "num": 443442,
       "word": "豆包chatGPT辩论谁是人工智障",
@@ -1259,11 +1331,11 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 408955,
-      "num": 408955,
-      "word": "因救人智力倒退的消防员恢复到高中水平",
-      "onboard_time": 1737414855,
-      "rank": 9,
+      "raw_hot": 405472,
+      "num": 405472,
+      "word": "再上6天班就过年了",
+      "onboard_time": 1737417799,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1449,14 +1521,6 @@
       "onboard_time": 1737334997,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 358858,
-      "num": 358858,
-      "word": "电视剧漂白被指抄袭",
-      "onboard_time": 1737401951,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 358446,
@@ -1979,12 +2043,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269066,
+      "num": 256259,
+      "word": "为什么韩国人冻死也要喝冰美式",
+      "onboard_time": 1737415876,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 268637,
       "num": 219421,
       "word": "电影哪吒之魔童闹海",
       "onboard_time": 1737353598,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 263696,
+      "num": 263696,
+      "word": "何惟芳秦胜意彻底回不去了",
+      "onboard_time": 1737418639,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 263437,
@@ -2187,6 +2267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 238728,
+      "num": 238728,
+      "word": "潘宏将母狗卖给狗肉车或违法",
+      "onboard_time": 1737397332,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 233578,
       "num": 360791,
       "word": "坐火车上错车下错站怎么办",
@@ -2243,14 +2331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 229167,
-      "num": 229167,
-      "word": "女子身在辐中不知辐",
-      "onboard_time": 1737390918,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 229058,
       "num": 229058,
       "word": "陈朵从小被下毒皮肤全烂",
@@ -2289,6 +2369,14 @@
       "onboard_time": 1737382518,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221548,
+      "num": 221548,
+      "word": "网红坦白视频造假后TikTok恢复运营",
+      "onboard_time": 1737416117,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 220708,
@@ -2467,6 +2555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205580,
+      "num": 442793,
+      "word": "明天北方小年",
+      "onboard_time": 1737418697,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205328,
       "num": 205328,
       "word": "朱一龙emoji报行程",
@@ -2521,6 +2617,14 @@
       "onboard_time": 1737338296,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204279,
+      "num": 204279,
+      "word": "周杰伦昆凌一家五口重回婚礼教堂",
+      "onboard_time": 1737414915,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 204215,
@@ -3115,6 +3219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 179746,
+      "num": 179746,
+      "word": "神十九航天员送出宇宙级祝福",
+      "onboard_time": 1737419538,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179370,
       "num": 179370,
       "word": "都四九天了今年还会冷吗",
@@ -3145,6 +3257,14 @@
       "onboard_time": 1737286458,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177165,
+      "num": 177165,
+      "word": "一个严重降低好感的小细节",
+      "onboard_time": 1737416296,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 176766,
@@ -3233,14 +3353,6 @@
       "onboard_time": 1737249857,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 173218,
-      "num": 173218,
-      "word": "周杰伦昆凌一家五口重回婚礼教堂",
-      "onboard_time": 1737414915,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 172270,
@@ -3955,6 +4067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144545,
+      "num": 191525,
+      "word": "虞书欣林一新剧过审",
+      "onboard_time": 1737420200,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144461,
       "num": 144461,
       "word": "丁程鑫新音小卷毛造型",
@@ -4163,6 +4283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138785,
+      "num": 138785,
+      "word": "蔡少芬射雕镜头",
+      "onboard_time": 1737422238,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 138522,
       "num": 296225,
       "word": "人造太阳创1亿摄氏度1000秒纪录",
@@ -4307,6 +4435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 133700,
+      "num": 133700,
+      "word": "库里也带不动勇士了",
+      "onboard_time": 1737423379,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133596,
       "num": 133596,
       "word": "博主理财一个月收益不如余额宝",
@@ -4395,6 +4531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 130505,
+      "num": 130505,
+      "word": "美国参议院确认卢比奥担任国务卿",
+      "onboard_time": 1737422537,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 130482,
       "num": 130482,
       "word": "名侦探学院",
@@ -4403,20 +4547,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130130,
+      "num": 261591,
+      "word": "周锐和张馨月在选秀前就在一起了",
+      "onboard_time": 1737422417,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129907,
       "num": 129907,
       "word": "90后女博士的工作日常是摸鱼",
       "onboard_time": 1737253938,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129623,
-      "num": 129623,
-      "word": "美国最大规模非法移民驱逐行动",
-      "onboard_time": 1737414855,
-      "rank": 26,
-      "category": "国际时政"
     },
     {
       "raw_hot": 129435,
@@ -4635,6 +4779,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 123149,
+      "num": 122101,
+      "word": "特朗普称美国政府面临信任危机",
+      "onboard_time": 1737423017,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 122756,
+      "num": 122756,
+      "word": "阿司匹林实验怎么做不成了",
+      "onboard_time": 1737422057,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 121986,
       "num": 299813,
       "word": "999感冒灵凭实力闯进保暖时尚圈",
@@ -4745,6 +4905,14 @@
       "onboard_time": 1737383839,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 118540,
+      "num": 118540,
+      "word": "张杰开班级联欢会",
+      "onboard_time": 1737422898,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 117848,
@@ -4883,20 +5051,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 114135,
+      "num": 114135,
+      "word": "中国90后第一次在太空过年",
+      "onboard_time": 1737415335,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114081,
       "num": 114081,
       "word": "好想替田曦薇的耳朵报警",
       "onboard_time": 1737273978,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 113199,
-      "num": 194165,
-      "word": "赵露思晒休养日常",
-      "onboard_time": 1737415696,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 112927,
@@ -5211,6 +5379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104868,
+      "num": 104868,
+      "word": "樊振东送阿玛尼老爷子亲签球拍",
+      "onboard_time": 1737421218,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104743,
       "num": 104743,
       "word": "小牛掉水沟母牛哀鸣向旁人求助",
@@ -5387,6 +5563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100103,
+      "num": 100103,
+      "word": "福字",
+      "onboard_time": 1737423437,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100079,
       "num": 100079,
       "word": "虞书欣双轨剧组日常",
@@ -5401,14 +5585,6 @@
       "onboard_time": 1737356118,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 98463,
-      "num": 98463,
-      "word": "潘宏将母狗卖给狗肉车或违法",
-      "onboard_time": 1737397332,
-      "rank": 35,
-      "category": "网红"
     },
     {
       "raw_hot": 98309,
@@ -5432,6 +5608,14 @@
       "word": "漂白少女拐卖案惹怒绑匪撕票",
       "onboard_time": 1737358457,
       "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 97819,
+      "num": 97819,
+      "word": "迪丽热巴慕胥辞候场路透",
+      "onboard_time": 1737423437,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -5473,14 +5657,6 @@
       "onboard_time": 1737257658,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 96745,
-      "num": 96745,
-      "word": "为什么韩国人冻死也要喝冰美式",
-      "onboard_time": 1737415876,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 96606,
@@ -5595,6 +5771,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93472,
+      "num": 1043705,
+      "word": "中国的人造太阳有重大突破",
+      "onboard_time": 1737371538,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 93306,
+      "num": 93306,
+      "word": "荣耀中国区多位高管离职",
+      "onboard_time": 1737415876,
+      "rank": 35,
+      "category": "财经,数码"
+    },
+    {
       "raw_hot": 93004,
       "num": 93004,
       "word": "国色芳华收视九连冠",
@@ -5651,6 +5843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90035,
+      "num": 90035,
+      "word": "原主人谈艾特被送潘宏园区原因",
+      "onboard_time": 1737423559,
+      "rank": 49,
+      "category": "网红"
+    },
+    {
       "raw_hot": 88979,
       "num": 175975,
       "word": "洛城德比",
@@ -5697,14 +5897,6 @@
       "onboard_time": 1737374478,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84918,
-      "num": 576344,
-      "word": "中国的人造太阳有重大突破",
-      "onboard_time": 1737371538,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 84103,
@@ -5899,14 +6091,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 76246,
-      "num": 76246,
-      "word": "荣耀中国区多位高管离职",
-      "onboard_time": 1737415876,
-      "rank": 35,
-      "category": "财经,数码"
-    },
-    {
       "raw_hot": 75421,
       "num": 75421,
       "word": "陈浚铭樱之花",
@@ -6017,14 +6201,6 @@
       "onboard_time": 1737250097,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 65866,
-      "num": 65866,
-      "word": "中国90后第一次在太空过年",
-      "onboard_time": 1737415335,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 64139,
