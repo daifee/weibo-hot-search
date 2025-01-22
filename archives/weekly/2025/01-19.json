@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737574570524,
+  "endTime": 1737577444065,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -12275,6 +12275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36831,
+      "num": 26291,
+      "word": "漂白肉联厂F4",
+      "onboard_time": 1737573672,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 36588,
       "num": 1939740,
       "word": "2025亚冬会火种今日成功采集",
@@ -12963,14 +12971,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 17654,
-      "num": 17304,
-      "word": "漂白肉联厂F4",
-      "onboard_time": 1737573672,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 17166,
       "num": 30441,
       "word": "对学生要压减重复性作业",
@@ -13033,6 +13033,14 @@
       "onboard_time": 1737405252,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 14674,
+      "num": 15814,
+      "word": "欧冠联赛",
+      "onboard_time": 1737576371,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 14672,
@@ -13313,6 +13321,14 @@
       "onboard_time": 1737573431,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 6020,
+      "num": 23019,
+      "word": "战鹰说棋不能也不该这样去赢",
+      "onboard_time": 1737576371,
+      "rank": 24,
+      "category": "体育,网红"
     }
   ],
   "hotgov_list": [
