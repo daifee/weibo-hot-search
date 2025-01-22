@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737552436156,
+  "endTime": 1737553117517,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -803,20 +803,20 @@
       "category": "数码,民生新闻"
     },
     {
+      "raw_hot": 923982,
+      "num": 1127978,
+      "word": "难哄",
+      "onboard_time": 1737438799,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 923121,
       "num": 923121,
       "word": "iG",
       "onboard_time": 1737277818,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 921435,
-      "num": 1127978,
-      "word": "难哄",
-      "onboard_time": 1737438799,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 918877,
@@ -1723,6 +1723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 533141,
+      "num": 533141,
+      "word": "国色芳华大结局",
+      "onboard_time": 1737550698,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 531230,
       "num": 367866,
       "word": "大奉打更人爆尾剧",
@@ -2307,12 +2315,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 414127,
+      "num": 248682,
+      "word": "赵今麦00后的黑历史都是高清的",
+      "onboard_time": 1737551539,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 414080,
       "num": 365750,
       "word": "虞书欣卷毛小鬼",
       "onboard_time": 1737356118,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 412388,
+      "num": 214883,
+      "word": "邹市明否认中年返贫",
+      "onboard_time": 1737551898,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 412007,
@@ -2483,6 +2507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 373186,
+      "num": 214591,
+      "word": "寄明月",
+      "onboard_time": 1737550698,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 373013,
       "num": 373013,
       "word": "被打铁花惊艳到眼前一亮又一亮",
@@ -2537,6 +2569,14 @@
       "onboard_time": 1737344720,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 368581,
+      "num": 219086,
+      "word": "常华森 好的阿曦",
+      "onboard_time": 1737551058,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 368440,
@@ -2659,6 +2699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 357701,
+      "num": 213949,
+      "word": "女子酒后催吐将19cm牙刷掉进胃中",
+      "onboard_time": 1737549738,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 356346,
       "num": 356346,
       "word": "国色芳华24集预告",
@@ -2723,14 +2771,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 346973,
-      "num": 213949,
-      "word": "女子酒后催吐将19cm牙刷掉进胃中",
-      "onboard_time": 1737549738,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 344887,
       "num": 344887,
       "word": "庞颖念诗给詹青云念红温了",
@@ -2769,14 +2809,6 @@
       "onboard_time": 1737294921,
       "rank": 45,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 343674,
-      "num": 219582,
-      "word": "国色芳华大结局",
-      "onboard_time": 1737550698,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 342879,
@@ -3163,14 +3195,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 298124,
-      "num": 219086,
-      "word": "常华森 好的阿曦",
-      "onboard_time": 1737551058,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 296789,
       "num": 376353,
       "word": "一听这些歌就知道快过年了",
@@ -3201,14 +3225,6 @@
       "onboard_time": 1737271337,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 294584,
-      "num": 212904,
-      "word": "赵今麦00后的黑历史都是高清的",
-      "onboard_time": 1737551539,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 294418,
@@ -3369,14 +3385,6 @@
       "onboard_time": 1737432799,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 281328,
-      "num": 211786,
-      "word": "寄明月",
-      "onboard_time": 1737550698,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 281145,
@@ -3628,7 +3636,7 @@
     },
     {
       "raw_hot": 263385,
-      "num": 194059,
+      "num": 210587,
       "word": "50岁老妈做美甲大钻加小钻叠成汉堡",
       "onboard_time": 1737547158,
       "rank": 27,
@@ -3777,6 +3785,14 @@
       "onboard_time": 1737273618,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 255237,
+      "num": 217945,
+      "word": "四川巴中一大桥多车相撞有人员伤亡",
+      "onboard_time": 1737548838,
+      "rank": 14,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 255101,
@@ -3945,14 +3961,6 @@
       "onboard_time": 1737377057,
       "rank": 39,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 240874,
-      "num": 217945,
-      "word": "四川巴中一大桥多车相撞有人员伤亡",
-      "onboard_time": 1737548838,
-      "rank": 14,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 240837,
@@ -4691,6 +4699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204258,
+      "num": 204258,
+      "word": "刘畅彻底黑化",
+      "onboard_time": 1737552679,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204215,
       "num": 196700,
       "word": "2025春节档影史最快预售破千万",
@@ -4969,14 +4985,6 @@
       "onboard_time": 1737383359,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196310,
-      "num": 196310,
-      "word": "邹市明否认中年返贫",
-      "onboard_time": 1737551898,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 196220,
@@ -5611,6 +5619,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 183309,
+      "num": 216936,
+      "word": "射雕1月23日微博直播",
+      "onboard_time": 1737552140,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 182914,
       "num": 182914,
       "word": "全世界都在做鸡蛋羹",
@@ -5625,6 +5641,14 @@
       "onboard_time": 1737385159,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 182533,
+      "num": 182533,
+      "word": "偶遇佟丽娅带儿子国外度假",
+      "onboard_time": 1737551299,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 182091,
@@ -7211,14 +7235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148771,
-      "num": 148771,
-      "word": "偶遇佟丽娅带儿子国外度假",
-      "onboard_time": 1737551299,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 148589,
       "num": 219157,
       "word": "蛟龙行动为守护万家灯火而战",
@@ -7435,6 +7451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144563,
+      "num": 144563,
+      "word": "王源电话响起的时候请接听",
+      "onboard_time": 1737552379,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144479,
       "num": 144479,
       "word": "hi6拍到了新鲜丁程鑫",
@@ -7643,14 +7667,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140700,
-      "num": 216936,
-      "word": "射雕1月23日微博直播",
-      "onboard_time": 1737552140,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 140513,
       "num": 140513,
       "word": "这个杨紫李现也太甜了",
@@ -7681,6 +7697,14 @@
       "onboard_time": 1737384381,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140115,
+      "num": 140115,
+      "word": "迈克尔欧文为樊振东庆生",
+      "onboard_time": 1737552979,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 140048,
@@ -8171,6 +8195,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 131687,
+      "num": 213022,
+      "word": "澳网惊现白鲸回击",
+      "onboard_time": 1737552559,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131443,
       "num": 145745,
       "word": "听见中国年",
@@ -8337,6 +8369,14 @@
       "onboard_time": 1737550819,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128351,
+      "num": 204561,
+      "word": "马龙说颁奖仪式喝的不是酒",
+      "onboard_time": 1737552498,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 128325,
@@ -8723,6 +8763,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 122927,
+      "num": 220195,
+      "word": "这可能是最值得信任的陌生人",
+      "onboard_time": 1737551239,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 122904,
       "num": 122904,
       "word": "一个不回头一个能能能",
@@ -8793,6 +8841,14 @@
       "onboard_time": 1737343458,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 121228,
+      "num": 121228,
+      "word": "漂白可以拯救迷雾剧场吗",
+      "onboard_time": 1737543019,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 121156,
@@ -8897,14 +8953,6 @@
       "onboard_time": 1737455538,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119897,
-      "num": 119897,
-      "word": "漂白可以拯救迷雾剧场吗",
-      "onboard_time": 1737543019,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 119783,
@@ -9068,7 +9116,7 @@
     },
     {
       "raw_hot": 117147,
-      "num": 117147,
+      "num": 211795,
       "word": "千世退役",
       "onboard_time": 1737552020,
       "rank": 45,
@@ -9153,14 +9201,6 @@
       "onboard_time": 1737301818,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 115628,
-      "num": 115628,
-      "word": "王源电话响起的时候请接听",
-      "onboard_time": 1737552379,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 115525,
@@ -9947,14 +9987,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 103698,
-      "num": 220195,
-      "word": "这可能是最值得信任的陌生人",
-      "onboard_time": 1737551239,
-      "rank": 9,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 103652,
       "num": 103652,
       "word": "奇才vs勇士",
@@ -10587,6 +10619,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 86089,
+      "num": 579708,
+      "word": "新疆家庭网络春晚",
+      "onboard_time": 1737552140,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85983,
       "num": 85983,
       "word": "京沪政协委员关注集采药疗效",
@@ -10633,6 +10673,14 @@
       "onboard_time": 1737330917,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84020,
+      "num": 215468,
+      "word": "为什么南北方小年相差一天",
+      "onboard_time": 1737550397,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83863,
@@ -11201,14 +11249,6 @@
       "onboard_time": 1737528138,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 59126,
-      "num": 478537,
-      "word": "新疆家庭网络春晚",
-      "onboard_time": 1737552140,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 58661,

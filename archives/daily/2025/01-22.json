@@ -1,6 +1,6 @@
 {
   "startTime": 1737476916141,
-  "endTime": 1737552436156,
+  "endTime": 1737553117517,
   "band_list": [
     {
       "raw_hot": 1994451,
@@ -131,6 +131,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 923982,
+      "num": 1127978,
+      "word": "难哄",
+      "onboard_time": 1737548057,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 896866,
       "num": 491974,
       "word": "四川一动物园卖虎尿50元1瓶",
@@ -200,14 +208,6 @@
       "word": "邪恶车厘子",
       "onboard_time": 1737541397,
       "rank": 14,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 799864,
-      "num": 1127978,
-      "word": "难哄",
-      "onboard_time": 1737548057,
-      "rank": 23,
       "category": "剧集"
     },
     {
@@ -345,6 +345,14 @@
       "onboard_time": 1737537318,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 533141,
+      "num": 533141,
+      "word": "国色芳华大结局",
+      "onboard_time": 1737550698,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 517460,
@@ -499,6 +507,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 414127,
+      "num": 248682,
+      "word": "赵今麦00后的黑历史都是高清的",
+      "onboard_time": 1737551539,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 412388,
+      "num": 214883,
+      "word": "邹市明否认中年返贫",
+      "onboard_time": 1737551898,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 412007,
       "num": 412007,
       "word": "雨雪或波及全国所有省份",
@@ -547,12 +571,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 373186,
+      "num": 214591,
+      "word": "寄明月",
+      "onboard_time": 1737550698,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 372420,
       "num": 447610,
       "word": "一次性吃330公斤车厘子才会铁中毒",
       "onboard_time": 1737521599,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 368581,
+      "num": 219086,
+      "word": "常华森 好的阿曦",
+      "onboard_time": 1737551058,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 367359,
@@ -611,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 357701,
+      "num": 213949,
+      "word": "女子酒后催吐将19cm牙刷掉进胃中",
+      "onboard_time": 1737549738,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 356168,
       "num": 859504,
       "word": "男生花7百买101小时硬座回家后续",
@@ -635,28 +683,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 346973,
-      "num": 213949,
-      "word": "女子酒后催吐将19cm牙刷掉进胃中",
-      "onboard_time": 1737549738,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 344516,
       "num": 305555,
       "word": "射雕英雄传预售影史第18",
       "onboard_time": 1737547578,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 343674,
-      "num": 219582,
-      "word": "国色芳华大结局",
-      "onboard_time": 1737550698,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 342879,
@@ -779,22 +811,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 298124,
-      "num": 219086,
-      "word": "常华森 好的阿曦",
-      "onboard_time": 1737551058,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 294584,
-      "num": 212904,
-      "word": "赵今麦00后的黑历史都是高清的",
-      "onboard_time": 1737551539,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 292870,
       "num": 292870,
       "word": "网络春晚节目单",
@@ -857,14 +873,6 @@
       "onboard_time": 1737508698,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 281328,
-      "num": 211786,
-      "word": "寄明月",
-      "onboard_time": 1737550698,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 281145,
@@ -932,7 +940,7 @@
     },
     {
       "raw_hot": 263385,
-      "num": 194059,
+      "num": 210587,
       "word": "50岁老妈做美甲大钻加小钻叠成汉堡",
       "onboard_time": 1737547158,
       "rank": 27,
@@ -995,6 +1003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 255237,
+      "num": 217945,
+      "word": "四川巴中一大桥多车相撞有人员伤亡",
+      "onboard_time": 1737548838,
+      "rank": 14,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 254304,
       "num": 254304,
       "word": "李昀锐葡萄干变葡萄枝了",
@@ -1025,14 +1041,6 @@
       "onboard_time": 1737530659,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 240874,
-      "num": 217945,
-      "word": "四川巴中一大桥多车相撞有人员伤亡",
-      "onboard_time": 1737548838,
-      "rank": 14,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 240266,
@@ -1275,6 +1283,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 204258,
+      "num": 204258,
+      "word": "刘畅彻底黑化",
+      "onboard_time": 1737552679,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203237,
       "num": 176964,
       "word": "闪耀暖暖",
@@ -1345,14 +1361,6 @@
       "onboard_time": 1737519860,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 196310,
-      "num": 196310,
-      "word": "邹市明否认中年返贫",
-      "onboard_time": 1737551898,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 196020,
@@ -1505,6 +1513,22 @@
       "onboard_time": 1737544398,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183309,
+      "num": 216936,
+      "word": "射雕1月23日微博直播",
+      "onboard_time": 1737552140,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 182533,
+      "num": 182533,
+      "word": "偶遇佟丽娅带儿子国外度假",
+      "onboard_time": 1737551299,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 181669,
@@ -1947,14 +1971,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 148771,
-      "num": 148771,
-      "word": "偶遇佟丽娅带儿子国外度假",
-      "onboard_time": 1737551299,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 147594,
       "num": 147594,
       "word": "为何找王一博演唱点亮亚洲",
@@ -2019,6 +2035,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 144563,
+      "num": 144563,
+      "word": "王源电话响起的时候请接听",
+      "onboard_time": 1737552379,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142745,
       "num": 136134,
       "word": "春节档电影最想看哪部",
@@ -2067,12 +2091,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 140700,
-      "num": 216936,
-      "word": "射雕1月23日微博直播",
-      "onboard_time": 1737552140,
-      "rank": 16,
-      "category": "电影"
+      "raw_hot": 140115,
+      "num": 140115,
+      "word": "迈克尔欧文为樊振东庆生",
+      "onboard_time": 1737552979,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 140048,
@@ -2211,6 +2235,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 131687,
+      "num": 213022,
+      "word": "澳网惊现白鲸回击",
+      "onboard_time": 1737552559,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131443,
       "num": 145745,
       "word": "听见中国年",
@@ -2257,6 +2289,14 @@
       "onboard_time": 1737550819,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128351,
+      "num": 204561,
+      "word": "马龙说颁奖仪式喝的不是酒",
+      "onboard_time": 1737552498,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 128296,
@@ -2347,12 +2387,28 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 122927,
+      "num": 220195,
+      "word": "这可能是最值得信任的陌生人",
+      "onboard_time": 1737551239,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 121900,
       "num": 121900,
       "word": "其实睡不着的是张怀民",
       "onboard_time": 1737529698,
       "rank": 49,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 121228,
+      "num": 121228,
+      "word": "漂白可以拯救迷雾剧场吗",
+      "onboard_time": 1737543019,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 121156,
@@ -2385,14 +2441,6 @@
       "onboard_time": 1737521840,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 119897,
-      "num": 119897,
-      "word": "漂白可以拯救迷雾剧场吗",
-      "onboard_time": 1737543019,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 119099,
@@ -2428,7 +2476,7 @@
     },
     {
       "raw_hot": 117147,
-      "num": 117147,
+      "num": 211795,
       "word": "千世退役",
       "onboard_time": 1737552020,
       "rank": 45,
@@ -2457,14 +2505,6 @@
       "onboard_time": 1737546619,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 115628,
-      "num": 115628,
-      "word": "王源电话响起的时候请接听",
-      "onboard_time": 1737552379,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 115378,
@@ -2683,14 +2723,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 103698,
-      "num": 220195,
-      "word": "这可能是最值得信任的陌生人",
-      "onboard_time": 1737551239,
-      "rank": 9,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 102971,
       "num": 102971,
       "word": "时代少年团在新音后台也没闲着",
@@ -2787,6 +2819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86089,
+      "num": 579708,
+      "word": "新疆家庭网络春晚",
+      "onboard_time": 1737552140,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85897,
       "num": 147366,
       "word": "特朗普称考虑对墨西哥加拿大征收25%的关税",
@@ -2809,6 +2849,14 @@
       "onboard_time": 1737473779,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 84020,
+      "num": 215468,
+      "word": "为什么南北方小年相差一天",
+      "onboard_time": 1737550397,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82718,
@@ -3017,14 +3065,6 @@
       "onboard_time": 1737528138,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 59126,
-      "num": 478537,
-      "word": "新疆家庭网络春晚",
-      "onboard_time": 1737552140,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 58564,

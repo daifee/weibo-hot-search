@@ -1,0 +1,410 @@
+{
+  "runTime": 1737553117517,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 555081,
+        "num": 1088813,
+        "word": "韩方承认规则不合理但坚持",
+        "onboard_time": 1737542959,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 923982,
+        "num": 923982,
+        "word": "难哄",
+        "onboard_time": 1737548057,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86089,
+        "num": 579708,
+        "word": "新疆家庭网络春晚",
+        "onboard_time": 1737552140,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 533141,
+        "num": 533141,
+        "word": "国色芳华大结局",
+        "onboard_time": 1737550698,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311745,
+        "num": 311745,
+        "word": "吃车厘子不要咬破果核",
+        "onboard_time": 1737519499,
+        "rank": 4,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 265890,
+        "num": 265890,
+        "word": "人大代表建议将产假延长至180天",
+        "onboard_time": 1737538578,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 433476,
+        "num": 259182,
+        "word": "央视网文娱评白月梵星",
+        "onboard_time": 1737550038,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 414127,
+        "num": 248682,
+        "word": "赵今麦00后的黑历史都是高清的",
+        "onboard_time": 1737551539,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215531,
+        "num": 215531,
+        "word": "联合国公布美国欠款",
+        "onboard_time": 1737540379,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84020,
+        "num": 215468,
+        "word": "为什么南北方小年相差一天",
+        "onboard_time": 1737550397,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 747343,
+        "num": 215268,
+        "word": "刘烨女儿13岁近照",
+        "onboard_time": 1737546677,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412388,
+        "num": 214883,
+        "word": "邹市明否认中年返贫",
+        "onboard_time": 1737551898,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373186,
+        "num": 214591,
+        "word": "寄明月",
+        "onboard_time": 1737550698,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 368581,
+        "num": 214425,
+        "word": "常华森 好的阿曦",
+        "onboard_time": 1737551058,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135187,
+        "num": 214132,
+        "word": "外交部回应美计划对中国商品加征关税",
+        "onboard_time": 1737534897,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 360675,
+        "num": 213883,
+        "word": "肖战说为国为民才是侠之大者",
+        "onboard_time": 1737535158,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41861,
+        "num": 213715,
+        "word": "第一批聪明的人已领到1500元国补",
+        "onboard_time": 1737549858,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183309,
+        "num": 213409,
+        "word": "射雕1月23日微博直播",
+        "onboard_time": 1737552140,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 255237,
+        "num": 213269,
+        "word": "四川巴中一大桥多车相撞有人员伤亡",
+        "onboard_time": 1737548838,
+        "rank": 18,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 131687,
+        "num": 213022,
+        "word": "澳网惊现白鲸回击",
+        "onboard_time": 1737552559,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 400386,
+        "num": 212742,
+        "word": "邪恶车厘子",
+        "onboard_time": 1737541397,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 331273,
+        "num": 212485,
+        "word": "德云社封箱",
+        "onboard_time": 1737548057,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 372742,
+        "num": 212405,
+        "word": "网红潘宏曾有刑事犯罪记录",
+        "onboard_time": 1737518960,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 357701,
+        "num": 211978,
+        "word": "女子酒后催吐将19cm牙刷掉进胃中",
+        "onboard_time": 1737549738,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108738,
+        "num": 211795,
+        "word": "千世退役",
+        "onboard_time": 1737552020,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 307972,
+        "num": 211591,
+        "word": "李现男模身材",
+        "onboard_time": 1737551118,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298383,
+        "num": 211413,
+        "word": "漂白",
+        "onboard_time": 1737522800,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293663,
+        "num": 211095,
+        "word": "射雕英雄传预售影史第18",
+        "onboard_time": 1737547578,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 237068,
+        "num": 210825,
+        "word": "王菲春晚新歌MV里有李子柒",
+        "onboard_time": 1737548417,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217599,
+        "num": 210587,
+        "word": "50岁老妈做美甲大钻加小钻叠成汉堡",
+        "onboard_time": 1737547158,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 210556,
+        "num": 210556,
+        "word": "女子年终奖发半扇羊赔了1件羽绒服",
+        "onboard_time": 1737537559,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209920,
+        "num": 209920,
+        "word": "国色芳华超点",
+        "onboard_time": 1737547938,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122927,
+        "num": 206700,
+        "word": "这可能是最值得信任的陌生人",
+        "onboard_time": 1737551239,
+        "rank": 32,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 128351,
+        "num": 204561,
+        "word": "马龙说颁奖仪式喝的不是酒",
+        "onboard_time": 1737552498,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204258,
+        "num": 204258,
+        "word": "刘畅彻底黑化",
+        "onboard_time": 1737552679,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182533,
+        "num": 182533,
+        "word": "偶遇佟丽娅带儿子国外度假",
+        "onboard_time": 1737551299,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172832,
+        "num": 172832,
+        "word": "吴磊不语只是穿大衣硬帅",
+        "onboard_time": 1737550458,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164603,
+        "num": 164603,
+        "word": "周深这件衣服穿了多少年",
+        "onboard_time": 1737550338,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144563,
+        "num": 144563,
+        "word": "王源电话响起的时候请接听",
+        "onboard_time": 1737552379,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140115,
+        "num": 140115,
+        "word": "迈克尔欧文为樊振东庆生",
+        "onboard_time": 1737552979,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131437,
+        "num": 131437,
+        "word": "CCTV网络春晚",
+        "onboard_time": 1737546859,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128940,
+        "num": 128940,
+        "word": "张云雷大封箱",
+        "onboard_time": 1737550758,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125512,
+        "num": 125512,
+        "word": "田曦薇张艺凡正是藏不住的年纪",
+        "onboard_time": 1737543498,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121228,
+        "num": 121228,
+        "word": "漂白可以拯救迷雾剧场吗",
+        "onboard_time": 1737543019,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43680,
+        "num": 114566,
+        "word": "国产单机日子真的好起来了",
+        "onboard_time": 1737551839,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114328,
+        "num": 114328,
+        "word": "TES 久酷",
+        "onboard_time": 1737547938,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113740,
+        "num": 113740,
+        "word": "六部门印发中长期资金入市方案",
+        "onboard_time": 1737535097,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112906,
+        "num": 112906,
+        "word": "漂白最后四集抓反派看爽了",
+        "onboard_time": 1737551418,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111724,
+        "num": 111724,
+        "word": "张康乐直播",
+        "onboard_time": 1737550819,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111080,
+        "num": 111080,
+        "word": "国色芳华",
+        "onboard_time": 1737546799,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的新春暖心话#"
+    }
+  }
+}
