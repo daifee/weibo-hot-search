@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/22 19:36:04
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/22 20:42:23
 </p>
 </blockquote>
 <p>
@@ -3897,6 +3897,12 @@ R1SE合体（热度：994873）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E7%83%A8%E5%A5%B3%E5%84%BF13%E5%B2%81%E8%BF%91%E7%85%A7%23" target="weibo">
+刘烨女儿13岁近照（热度：964914）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E7%BC%89%E6%AF%92%E8%AD%A6%E6%9B%BE%E5%81%87%E6%89%AE%E6%83%85%E4%BE%A3%E5%A6%82%E4%BB%8A%E8%AE%A2%E5%A9%9A%E4%BA%86%23" target="weibo">
 两缉毒警曾假扮情侣如今订婚了（热度：963871）
 </a>
@@ -6005,12 +6011,6 @@ SM新女团 SMTOWN压轴（热度：743773）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8A%8A%E4%B8%88%E5%A4%AB%E5%90%8C%E4%BA%8B9%E4%BA%BA%E6%AF%8F%E6%97%A5%E5%8D%88%E9%A4%90%E5%8C%85%E5%9C%86%E4%BA%86%23" target="weibo">
 女子把丈夫同事9人每日午餐包圆了（热度：713480）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E5%91%8A%E9%BB%91%E5%B0%86%E5%BC%80%E5%BA%AD%23" target="weibo">
-刘耀文告黑将开庭（热度：713437）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1737549743104,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 739178,
+        "num": 1118268,
+        "word": "韩方承认规则不合理但坚持",
+        "onboard_time": 1737542959,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 479874,
+        "num": 479874,
+        "word": "倪夏莲谈吴柳芳事件",
+        "onboard_time": 1737544578,
+        "rank": 1,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 23976,
+        "num": 388701,
+        "word": "年字在古代曾指庄稼成熟",
+        "onboard_time": 1737536597,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 367935,
+        "num": 367935,
+        "word": "吃车厘子不要咬破果核",
+        "onboard_time": 1737519499,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 367258,
+        "num": 367258,
+        "word": "联合国公布美国欠款",
+        "onboard_time": 1737540379,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 359536,
+        "num": 359536,
+        "word": "肖战说为国为民才是侠之大者",
+        "onboard_time": 1737535158,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 318303,
+        "num": 318303,
+        "word": "国色芳华",
+        "onboard_time": 1737546799,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308239,
+        "num": 308239,
+        "word": "德云社封箱",
+        "onboard_time": 1737548057,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 292163,
+        "num": 292163,
+        "word": "漂白",
+        "onboard_time": 1737522800,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84049,
+        "num": 285118,
+        "word": "警方关停违法违规账号33万余个",
+        "onboard_time": 1737549138,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 964914,
+        "num": 284127,
+        "word": "刘烨女儿13岁近照",
+        "onboard_time": 1737546677,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301393,
+        "num": 283653,
+        "word": "人大代表建议将产假延长至180天",
+        "onboard_time": 1737538578,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 282187,
+        "num": 282187,
+        "word": "射雕英雄传预售影史第18",
+        "onboard_time": 1737547578,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 274179,
+        "num": 274179,
+        "word": "国色芳华超点",
+        "onboard_time": 1737547938,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264587,
+        "num": 264587,
+        "word": "CCTV网络春晚",
+        "onboard_time": 1737546859,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208261,
+        "num": 208261,
+        "word": "TES 久酷",
+        "onboard_time": 1737547938,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151600,
+        "num": 151600,
+        "word": "王者荣耀",
+        "onboard_time": 1737545899,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148187,
+        "num": 148187,
+        "word": "乡村全面振兴规划印发",
+        "onboard_time": 1737544097,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137753,
+        "num": 137753,
+        "word": "六部门印发中长期资金入市方案",
+        "onboard_time": 1737535097,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 19749,
+        "num": 137745,
+        "word": "单依纯费加罗开年刊封面",
+        "onboard_time": 1737549018,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 466714,
+        "num": 137095,
+        "word": "邪恶车厘子",
+        "onboard_time": 1737541397,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370017,
+        "num": 136781,
+        "word": "网红潘宏曾有刑事犯罪记录",
+        "onboard_time": 1737518960,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 260430,
+        "num": 136142,
+        "word": "女子年终奖发半扇羊赔了1件羽绒服",
+        "onboard_time": 1737537559,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257248,
+        "num": 135728,
+        "word": "难哄",
+        "onboard_time": 1737548057,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46275,
+        "num": 135195,
+        "word": "赵怀真器灵浮梦炉新皮肤爆料",
+        "onboard_time": 1737549499,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 256232,
+        "num": 134763,
+        "word": "田曦薇张艺凡正是藏不住的年纪",
+        "onboard_time": 1737543498,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251829,
+        "num": 134368,
+        "word": "杨紫李现晒何惟芳蒋长扬大婚照",
+        "onboard_time": 1737537439,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222278,
+        "num": 134093,
+        "word": "50岁老妈做美甲大钻加小钻叠成汉堡",
+        "onboard_time": 1737547158,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 182869,
+        "num": 133823,
+        "word": "赵今麦首位00后三平台破万女演员",
+        "onboard_time": 1737527538,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172024,
+        "num": 133303,
+        "word": "难哄下证",
+        "onboard_time": 1737538399,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159834,
+        "num": 132883,
+        "word": "潘宏园区宠物托运用生鲜车运宠物致死",
+        "onboard_time": 1737537318,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 157879,
+        "num": 132513,
+        "word": "金智秀solo回归预告",
+        "onboard_time": 1737545718,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132116,
+        "num": 132116,
+        "word": "外交部回应美计划对中国商品加征关税",
+        "onboard_time": 1737534897,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 129222,
+        "num": 129222,
+        "word": "宋雨琦春晚彩排蝴蝶结公主头",
+        "onboard_time": 1737544398,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126514,
+        "num": 126514,
+        "word": "宋红玉结局",
+        "onboard_time": 1737540798,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116008,
+        "num": 116008,
+        "word": "魏哲鸣刘畅今天也穿红是情侣装",
+        "onboard_time": 1737546619,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115882,
+        "num": 115882,
+        "word": "BLACKPINK的默契",
+        "onboard_time": 1737544998,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115059,
+        "num": 115059,
+        "word": "最后一次叫你狼队向鱼",
+        "onboard_time": 1737545359,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114948,
+        "num": 114948,
+        "word": "生万物过审",
+        "onboard_time": 1737543859,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113504,
+        "num": 113504,
+        "word": "2025春节档电影片单发布",
+        "onboard_time": 1737540497,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150636,
+        "num": 113187,
+        "word": "山东拿出90亿政策红包快来买买买",
+        "onboard_time": 1737545718,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112426,
+        "num": 112426,
+        "word": "小年",
+        "onboard_time": 1737538219,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111528,
+        "num": 111528,
+        "word": "王菲春晚新歌MV里有李子柒",
+        "onboard_time": 1737548417,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55542,
+        "num": 110201,
+        "word": "陈丽君蛇年央视春晚第四次联排",
+        "onboard_time": 1737548239,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41891,
+        "num": 109885,
+        "word": "道崽向鱼都会越来越好",
+        "onboard_time": 1737549018,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109650,
+        "num": 109650,
+        "word": "推动中长期资金入市举措有哪些",
+        "onboard_time": 1737539300,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 108631,
+        "num": 108631,
+        "word": "小年已至团圆有期",
+        "onboard_time": 1737545839,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101908,
+        "num": 101908,
+        "word": "CCTV网络春晚节目单",
+        "onboard_time": 1737549319,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101093,
+        "num": 101093,
+        "word": "撒贝宁是麦子阿姨的梦中情人",
+        "onboard_time": 1737549319,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94204,
+        "num": 94204,
+        "word": "漂白可以拯救迷雾剧场吗",
+        "onboard_time": 1737543019,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的新春暖心话#"
+    }
+  }
+}
