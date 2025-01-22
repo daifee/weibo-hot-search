@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/22 12:26:36
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/22 12:40:06
 </p>
 </blockquote>
 <p>
@@ -1217,6 +1217,12 @@ Ok 咱们线上（热度：2051932）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%AE%B6%E6%9A%B416%E6%AC%A1%E5%A5%B3%E5%AD%90%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%23" target="weibo">
 被家暴16次女子直播带货（热度：1830161）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E6%BD%98%E5%AE%8F%E6%9B%BE%E6%9C%89%E5%88%91%E4%BA%8B%E7%8A%AF%E7%BD%AA%E8%AE%B0%E5%BD%95%23" target="weibo">
+网红潘宏曾有刑事犯罪记录（热度：1824429）
 </a>
 </li>
 
@@ -2649,6 +2655,12 @@ TikTok禁令引发美国网友众怒（热度：1325910）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%B7%A8%E5%9E%8B%E5%88%98%E4%BA%A6%E8%8F%B2%E6%88%90%E4%BA%86%E7%BD%91%E7%BA%A2%E6%89%93%E5%8D%A1%E7%82%B9%23" target="weibo">
+成都巨型刘亦菲成了网红打卡点（热度：1224852）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%91%E6%95%91%E9%A9%AC%E4%B8%BD%23" target="weibo">
 救救马丽（热度：1224278）
 </a>
@@ -3045,12 +3057,6 @@ TikTok发声明（热度：1148125）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%B7%A8%E5%9E%8B%E5%88%98%E4%BA%A6%E8%8F%B2%E6%88%90%E4%BA%86%E7%BD%91%E7%BA%A2%E6%89%93%E5%8D%A1%E7%82%B9%23" target="weibo">
-成都巨型刘亦菲成了网红打卡点（热度：1121141）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E7%9B%9B%E5%85%B8%E5%87%BA%E5%9B%BE%23" target="weibo">
 肖战微博之夜盛典出图（热度：1120369）
 </a>
@@ -3125,12 +3131,6 @@ TikTok发声明（热度：1148125）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%8F%E4%BB%A5%E6%98%BC%20%E5%93%A5%E5%93%A5%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
 夏以昼 哥哥回来了（热度：1109406）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E6%BD%98%E5%AE%8F%E6%9B%BE%E6%9C%89%E5%88%91%E4%BA%8B%E7%8A%AF%E7%BD%AA%E8%AE%B0%E5%BD%95%23" target="weibo">
-网红潘宏曾有刑事犯罪记录（热度：1109330）
 </a>
 </li>
 

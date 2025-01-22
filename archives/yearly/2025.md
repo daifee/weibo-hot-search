@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/22 12:26:36
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/22 12:40:06
 </p>
 </blockquote>
 <p>
@@ -1221,6 +1221,12 @@ Ok 咱们线上（热度：2051932）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E6%BD%98%E5%AE%8F%E6%9B%BE%E6%9C%89%E5%88%91%E4%BA%8B%E7%8A%AF%E7%BD%AA%E8%AE%B0%E5%BD%95%23" target="weibo">
+网红潘宏曾有刑事犯罪记录（热度：1824429）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A2%E4%BC%911%E5%86%8D%E4%B8%8A2%E5%A5%BD%E6%BD%AE%23" target="weibo">
 上2休1再上2好潮（热度：1820460）
 </a>
@@ -1805,12 +1811,6 @@ TikTok难民称中国网友非常热情（热度：1548219）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%AA%97%E7%BC%85%E5%8C%97%E5%B0%8F%E4%BC%99%E7%A7%B0%E8%A2%AB%E5%8F%91%E7%8E%B0%E6%8A%A5%E8%AD%A6%E5%9F%BA%E6%9C%AC%E4%B9%9D%E6%AD%BB%E4%B8%80%E7%94%9F%23" target="weibo">
 被骗缅北小伙称被发现报警基本九死一生（热度：1528051）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%8B%E6%B1%9F%E5%BC%8F%E6%BC%94%E6%8A%80%E7%81%AB%E4%BA%86%23" target="weibo">
-晋江式演技火了（热度：1523754）
 </a>
 </li>
 

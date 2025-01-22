@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737519996098,
+  "endTime": 1737520806852,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1611,6 +1611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1824429,
+      "num": 448910,
+      "word": "网红潘宏曾有刑事犯罪记录",
+      "onboard_time": 1737518960,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1820460,
       "num": 1820460,
       "word": "上2休1再上2好潮",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736318421,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1523754,
-      "num": 1234400,
-      "word": "晋江式演技火了",
-      "onboard_time": 1737451998,
-      "rank": 43,
-      "category": "议题讨论"
     }
   ],
   "hotgov_list": [

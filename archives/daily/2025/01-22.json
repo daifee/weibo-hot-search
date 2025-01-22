@@ -1,10 +1,18 @@
 {
   "startTime": 1737476916141,
-  "endTime": 1737519996098,
+  "endTime": 1737520806852,
   "band_list": [
     {
+      "raw_hot": 1824429,
+      "num": 448910,
+      "word": "网红潘宏曾有刑事犯罪记录",
+      "onboard_time": 1737518960,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1458865,
-      "num": 288961,
+      "num": 445234,
       "word": "韩国网友抵制宋慧乔新片",
       "onboard_time": 1737501735,
       "rank": 10,
@@ -12,7 +20,7 @@
     },
     {
       "raw_hot": 1429013,
-      "num": 494691,
+      "num": 540979,
       "word": "导演为了躲彭昱畅搬两次酒店",
       "onboard_time": 1737516380,
       "rank": 6,
@@ -27,6 +35,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1224852,
+      "num": 1224852,
+      "word": "成都巨型刘亦菲成了网红打卡点",
+      "onboard_time": 1737518600,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1153022,
       "num": 1184483,
       "word": "武汉一名大学生触碰捕兽电网身亡",
@@ -35,28 +51,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1121141,
-      "num": 1179382,
-      "word": "成都巨型刘亦菲成了网红打卡点",
-      "onboard_time": 1737518600,
-      "rank": 0,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1116668,
       "num": 1116668,
       "word": "柯洁决赛",
       "onboard_time": 1737515058,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1109330,
-      "num": 290106,
-      "word": "网红潘宏曾有刑事犯罪记录",
-      "onboard_time": 1737518960,
-      "rank": 10,
-      "category": "网红"
     },
     {
       "raw_hot": 1080888,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1051393,
-      "num": 286643,
+      "num": 442484,
       "word": "王楚然吃面面受轻伤",
       "onboard_time": 1737511516,
       "rank": 12,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 962735,
-      "num": 275459,
+      "num": 288653,
       "word": "男子被火锅烫伤用白糖敷好了",
       "onboard_time": 1737510678,
       "rank": 34,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 643436,
-      "num": 336135,
+      "num": 451286,
       "word": "2025央视网络春晚节目单",
       "onboard_time": 1737513979,
       "rank": 16,
@@ -163,6 +163,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 580996,
+      "num": 580996,
+      "word": "恋与深空强制下线",
+      "onboard_time": 1737520039,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 554662,
+      "num": 438147,
+      "word": "花76万买到的260平顶楼复式",
+      "onboard_time": 1737519499,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 553081,
       "num": 520691,
       "word": "iPhone17Air背板",
@@ -179,8 +195,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 546743,
+      "num": 546743,
+      "word": "加拿大采购中国无人机监控加美边境",
+      "onboard_time": 1737517878,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 507418,
-      "num": 282919,
+      "num": 435495,
       "word": "肖战一出场就有郭靖的感觉",
       "onboard_time": 1737517459,
       "rank": 15,
@@ -188,7 +212,7 @@
     },
     {
       "raw_hot": 476824,
-      "num": 277416,
+      "num": 400077,
       "word": "豹豹猫猫见面",
       "onboard_time": 1737514458,
       "rank": 40,
@@ -217,14 +241,6 @@
       "onboard_time": 1737466459,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 440888,
-      "num": 440888,
-      "word": "加拿大采购中国无人机监控加美边境",
-      "onboard_time": 1737517878,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 412007,
@@ -291,20 +307,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 324726,
+      "num": 324726,
+      "word": "印度男子跳瀑布拍晕在水面溺亡",
+      "onboard_time": 1737519798,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 315691,
       "num": 153427,
       "word": "朱亚文晒婚戒",
       "onboard_time": 1737466398,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 309915,
-      "num": 235798,
-      "word": "花76万买到的260平顶楼复式",
-      "onboard_time": 1737519499,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 307652,
@@ -332,7 +348,7 @@
     },
     {
       "raw_hot": 300666,
-      "num": 251472,
+      "num": 277920,
       "word": "任嘉伦黑粉被强执1.5万",
       "onboard_time": 1737516318,
       "rank": 36,
@@ -347,6 +363,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 292870,
+      "num": 292870,
+      "word": "网络春晚节目单",
+      "onboard_time": 1737516318,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 289214,
+      "num": 437461,
+      "word": "漯河舰交接入列",
+      "onboard_time": 1737512719,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 284722,
       "num": 218404,
       "word": "第一批烫发的受害者出现了",
@@ -355,12 +387,12 @@
       "category": "美妆,幽默"
     },
     {
-      "raw_hot": 284392,
-      "num": 284392,
-      "word": "漯河舰交接入列",
-      "onboard_time": 1737512719,
-      "rank": 5,
-      "category": "国内时政"
+      "raw_hot": 283731,
+      "num": 283731,
+      "word": "吃车厘子不要咬破果核",
+      "onboard_time": 1737519499,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 281868,
@@ -377,14 +409,6 @@
       "onboard_time": 1737506361,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 279315,
-      "num": 237359,
-      "word": "网络春晚节目单",
-      "onboard_time": 1737516318,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 277426,
@@ -499,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218138,
+      "num": 218138,
+      "word": "以为是败家孩子结果是学医圣体",
+      "onboard_time": 1737519499,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 213615,
       "num": 195489,
       "word": "冰箱养活鱼只为过年吃口新鲜的",
@@ -531,12 +563,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207562,
-      "num": 207562,
-      "word": "以为是败家孩子结果是学医圣体",
-      "onboard_time": 1737519499,
-      "rank": 39,
-      "category": "幽默"
+      "raw_hot": 207981,
+      "num": 312178,
+      "word": "ccd镜头下的朱一龙",
+      "onboard_time": 1737520039,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 207523,
@@ -547,12 +579,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 205916,
+      "num": 317604,
+      "word": "狼队转会期说明",
+      "onboard_time": 1737519798,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 203237,
       "num": 176964,
       "word": "闪耀暖暖",
       "onboard_time": 1737508698,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 201178,
+      "num": 315036,
+      "word": "网红局长回应网友避雷尔滨红肠",
+      "onboard_time": 1737519199,
+      "rank": 43,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 199975,
@@ -579,12 +627,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 196022,
-      "num": 196022,
-      "word": "印度男子跳瀑布拍晕在水面溺亡",
-      "onboard_time": 1737519798,
-      "rank": 40,
-      "category": "海外新闻"
+      "raw_hot": 197062,
+      "num": 197062,
+      "word": "肖战美术生爆改武术生",
+      "onboard_time": 1737519860,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 196020,
@@ -593,6 +641,14 @@
       "onboard_time": 1737468619,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195625,
+      "num": 323349,
+      "word": "EXO正在准备回归",
+      "onboard_time": 1737519619,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 195382,
@@ -619,12 +675,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 192036,
+      "num": 192036,
+      "word": "杜海涛庆祝沈梦辰国色芳华登场",
+      "onboard_time": 1737518180,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191514,
       "num": 181526,
       "word": "国补后苹果手机跌破3000",
       "onboard_time": 1737456018,
       "rank": 18,
       "category": "数码,民生新闻"
+    },
+    {
+      "raw_hot": 191512,
+      "num": 191512,
+      "word": "孟子义说不出感谢坎坷这种话",
+      "onboard_time": 1737519739,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 191488,
@@ -651,20 +723,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 186110,
+      "num": 191690,
+      "word": "中国围棋协会",
+      "onboard_time": 1737520219,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181669,
       "num": 181669,
       "word": "阴阳师",
       "onboard_time": 1737508758,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 181023,
-      "num": 181023,
-      "word": "杜海涛庆祝沈梦辰国色芳华登场",
-      "onboard_time": 1737518180,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 179581,
@@ -691,14 +763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 175915,
-      "num": 175915,
-      "word": "网红局长回应网友避雷尔滨红肠",
-      "onboard_time": 1737519199,
-      "rank": 43,
-      "category": "民生新闻,美食"
-    },
-    {
       "raw_hot": 175796,
       "num": 175796,
       "word": "特朗普解除1000多名拜登政府官员职务",
@@ -707,28 +771,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 175557,
-      "num": 175557,
-      "word": "肖战美术生爆改武术生",
-      "onboard_time": 1737519860,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 173576,
       "num": 198906,
       "word": "回到唐人街MV记录十年唐探",
       "onboard_time": 1737513498,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 173059,
-      "num": 247521,
-      "word": "狼队转会期说明",
-      "onboard_time": 1737519798,
-      "rank": 28,
-      "category": "电竞"
     },
     {
       "raw_hot": 168702,
@@ -753,14 +801,6 @@
       "onboard_time": 1737512719,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 166254,
-      "num": 166254,
-      "word": "吃车厘子不要咬破果核",
-      "onboard_time": 1737519499,
-      "rank": 45,
-      "category": "科学科普"
     },
     {
       "raw_hot": 166238,
@@ -843,20 +883,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 152929,
-      "num": 152929,
-      "word": "孟子义说不出感谢坎坷这种话",
-      "onboard_time": 1737519739,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 150728,
       "num": 150728,
       "word": "马龙送李现To签球拍",
       "onboard_time": 1737472821,
       "rank": 23,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 149993,
+      "num": 149993,
+      "word": "哪吒来了也得过安检",
+      "onboard_time": 1737520641,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 149671,
@@ -915,6 +955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139863,
+      "num": 139863,
+      "word": "柯洁LG杯决赛总比分1比1被扳平",
+      "onboard_time": 1737520759,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135120,
       "num": 135120,
       "word": "比伯回应取关海莉",
@@ -953,14 +1001,6 @@
       "onboard_time": 1737519019,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 124734,
-      "num": 264264,
-      "word": "EXO正在准备回归",
-      "onboard_time": 1737519619,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 124620,
@@ -1017,6 +1057,14 @@
       "onboard_time": 1737465318,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113464,
+      "num": 418585,
+      "word": "朱志鑫春晚大赏小卡",
+      "onboard_time": 1737520641,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 112526,
@@ -1092,7 +1140,7 @@
     },
     {
       "raw_hot": 106126,
-      "num": 242433,
+      "num": 307747,
       "word": "偶遇郭俊辰回老家",
       "onboard_time": 1737517640,
       "rank": 29,
@@ -1243,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78088,
+      "num": 307100,
+      "word": "王嘉尔看秀生图",
+      "onboard_time": 1737520759,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 77951,
       "num": 77951,
       "word": "欧冠",
@@ -1276,7 +1332,7 @@
     },
     {
       "raw_hot": 70093,
-      "num": 278166,
+      "num": 405316,
       "word": "过年回家被白象治愈了",
       "onboard_time": 1737518180,
       "rank": 19,
@@ -1427,7 +1483,7 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 24926,
+      "raw_hot": 28229,
       "num": 750992,
       "word": "重温经典 万象更新",
       "onboard_time": 1737517579,
