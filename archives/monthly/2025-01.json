@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737570669998,
+  "endTime": 1737571458427,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -68171,6 +68171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27141,
+      "num": 27141,
+      "word": "周深多伦多加场",
+      "onboard_time": 1737570371,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 27108,
       "num": 292338,
       "word": "民警被查前车托在门口排队送钱",
@@ -68537,14 +68545,6 @@
       "onboard_time": 1736600788,
       "rank": 26,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 25123,
-      "num": 23920,
-      "word": "周深多伦多加场",
-      "onboard_time": 1737570371,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 25070,
@@ -69241,6 +69241,14 @@
       "onboard_time": 1736020152,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21429,
+      "num": 21429,
+      "word": "楠得有空",
+      "onboard_time": 1737571392,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 21419,
@@ -71243,6 +71251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 11132,
+      "num": 45406,
+      "word": "少年跳起英歌舞气场全开",
+      "onboard_time": 1737570433,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11121,
       "num": 102601,
       "word": "进入2025的跨年仪式感",
@@ -71419,18 +71435,18 @@
       "category": "情感"
     },
     {
-      "raw_hot": 10127,
-      "num": 45406,
-      "word": "少年跳起英歌舞气场全开",
-      "onboard_time": 1737570433,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 9788,
       "num": 61984,
       "word": "2025春运即将拉开大幕",
       "onboard_time": 1736706252,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9769,
+      "num": 36575,
+      "word": "全国公安机关严惩有组织造谣炒作",
+      "onboard_time": 1737571152,
       "rank": 18,
       "category": "民生新闻"
     },
@@ -71697,6 +71713,14 @@
       "onboard_time": 1736235023,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 7532,
+      "num": 32777,
+      "word": "秦彻在一起的岁岁年年",
+      "onboard_time": 1737571033,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 7347,
