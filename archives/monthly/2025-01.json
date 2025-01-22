@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737553117517,
+  "endTime": 1737555668844,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -5795,6 +5795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 902758,
+      "num": 1144441,
+      "word": "刘晓庆称下次不去一路繁花了",
+      "onboard_time": 1737553939,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 902676,
       "num": 902676,
       "word": "四川内江4.4级地震",
@@ -9011,6 +9019,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 652288,
+      "num": 246886,
+      "word": "刘畅彻底黑化",
+      "onboard_time": 1737552679,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 651984,
       "num": 651984,
       "word": "杨紫演技",
@@ -9065,6 +9081,14 @@
       "onboard_time": 1737392777,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 648416,
+      "num": 533141,
+      "word": "国色芳华大结局",
+      "onboard_time": 1737550698,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 648325,
@@ -9625,6 +9649,14 @@
       "onboard_time": 1736421802,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 616726,
+      "num": 232857,
+      "word": "邹市明否认中年返贫",
+      "onboard_time": 1737551898,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 616301,
@@ -10305,6 +10337,14 @@
       "onboard_time": 1736153365,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 588649,
+      "num": 248682,
+      "word": "赵今麦00后的黑历史都是高清的",
+      "onboard_time": 1737551539,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 588470,
@@ -11441,14 +11481,6 @@
       "onboard_time": 1737262458,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 533141,
-      "num": 533141,
-      "word": "国色芳华大结局",
-      "onboard_time": 1737550698,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 532792,
@@ -13459,6 +13491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 457564,
+      "num": 457564,
+      "word": "为什么南北方小年相差一天",
+      "onboard_time": 1737550397,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 457296,
       "num": 457296,
       "word": "陈乔恩吐槽餐厅奇葩规定",
@@ -15107,14 +15147,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 414127,
-      "num": 248682,
-      "word": "赵今麦00后的黑历史都是高清的",
-      "onboard_time": 1737551539,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 414080,
       "num": 365750,
       "word": "虞书欣卷毛小鬼",
@@ -15161,14 +15193,6 @@
       "onboard_time": 1736528235,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 412388,
-      "num": 214883,
-      "word": "邹市明否认中年返贫",
-      "onboard_time": 1737551898,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 412226,
@@ -15896,6 +15920,14 @@
       "word": "余华英案正在死刑复核中",
       "onboard_time": 1736139865,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 393404,
+      "num": 213949,
+      "word": "女子酒后催吐将19cm牙刷掉进胃中",
+      "onboard_time": 1737549738,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -17561,14 +17593,6 @@
       "onboard_time": 1735796001,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 357701,
-      "num": 213949,
-      "word": "女子酒后催吐将19cm牙刷掉进胃中",
-      "onboard_time": 1737549738,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 357194,
@@ -25059,6 +25083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243350,
+      "num": 243350,
+      "word": "外交部回应中方更改鲁比奥中文译名",
+      "onboard_time": 1737554119,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 243299,
       "num": 243299,
       "word": "演员范虎怒斥徐大久提供假消息",
@@ -25425,6 +25457,14 @@
       "onboard_time": 1735826780,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 239165,
+      "num": 159504,
+      "word": "闺蜜疤痕妊娠女子劝诫反被拉黑",
+      "onboard_time": 1737553939,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 239133,
@@ -29817,14 +29857,6 @@
       "onboard_time": 1736929999,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204258,
-      "num": 204258,
-      "word": "刘畅彻底黑化",
-      "onboard_time": 1737552679,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 204215,
@@ -40467,6 +40499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159161,
+      "num": 159161,
+      "word": "总台春晚第四次彩排阵容",
+      "onboard_time": 1737554119,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159136,
       "num": 159136,
       "word": "成本36块一锅做了10个菜",
@@ -40779,6 +40819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158299,
+      "num": 158299,
+      "word": "漂白可以拯救迷雾剧场吗",
+      "onboard_time": 1737543019,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158276,
       "num": 239342,
       "word": "谁也不能阻挡祖国统一的历史大势",
@@ -41081,6 +41129,14 @@
       "onboard_time": 1736901920,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157291,
+      "num": 157291,
+      "word": "李昀锐秀场说英文",
+      "onboard_time": 1737553160,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 157273,
@@ -42171,6 +42227,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 152842,
+      "num": 152842,
+      "word": "任嘉伦希林娜依高合唱",
+      "onboard_time": 1737554839,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152837,
       "num": 193249,
       "word": "男子骗老乡火车延误要交钱",
@@ -42465,6 +42529,14 @@
       "onboard_time": 1736392760,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151578,
+      "num": 213022,
+      "word": "澳网惊现白鲸回击",
+      "onboard_time": 1737552559,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 151569,
@@ -45484,7 +45556,7 @@
     },
     {
       "raw_hot": 140115,
-      "num": 140115,
+      "num": 159475,
       "word": "迈克尔欧文为樊振东庆生",
       "onboard_time": 1737552979,
       "rank": 39,
@@ -45923,6 +45995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138506,
+      "num": 159678,
+      "word": "吉伦沃特 杜锋",
+      "onboard_time": 1737554480,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138478,
       "num": 138478,
       "word": "贪官用多个家人当受贿收款员",
@@ -46313,6 +46393,14 @@
       "onboard_time": 1737104358,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136924,
+      "num": 136924,
+      "word": "郭艾伦40分",
+      "onboard_time": 1737555620,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 136897,
@@ -47929,14 +48017,6 @@
       "onboard_time": 1736002535,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 131687,
-      "num": 213022,
-      "word": "澳网惊现白鲸回击",
-      "onboard_time": 1737552559,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 131590,
@@ -50403,6 +50483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122865,
+      "num": 122865,
+      "word": "青枫退役",
+      "onboard_time": 1737552739,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 122817,
       "num": 244191,
       "word": "当地华人称山火整整烧了两天了",
@@ -50905,14 +50993,6 @@
       "onboard_time": 1736820136,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 121228,
-      "num": 121228,
-      "word": "漂白可以拯救迷雾剧场吗",
-      "onboard_time": 1737543019,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 121197,
@@ -52785,6 +52865,14 @@
       "onboard_time": 1736064026,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115032,
+      "num": 115032,
+      "word": "柯洁若夺冠将成为中国首位九冠王",
+      "onboard_time": 1737554600,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 115016,
@@ -54937,6 +55025,14 @@
       "onboard_time": 1736206998,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 106609,
+      "num": 106609,
+      "word": "李昀锐 反差萌",
+      "onboard_time": 1737554721,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 106589,
@@ -58881,14 +58977,6 @@
       "onboard_time": 1737330917,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 84020,
-      "num": 215468,
-      "word": "为什么南北方小年相差一天",
-      "onboard_time": 1737550397,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84007,
@@ -64787,6 +64875,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 41917,
+      "num": 234761,
+      "word": "务安机场混凝土工程前负责人在家中死亡",
+      "onboard_time": 1737542357,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 41900,
       "num": 168649,
       "word": "passion红是什么红",
@@ -65713,6 +65809,14 @@
       "onboard_time": 1735795703,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 36237,
+      "num": 159339,
+      "word": "辛纳晋级澳网四强",
+      "onboard_time": 1737555620,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 36236,
