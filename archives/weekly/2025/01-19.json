@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737531343786,
+  "endTime": 1737534532849,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -852,11 +852,19 @@
     },
     {
       "raw_hot": 896866,
-      "num": 331515,
+      "num": 491974,
       "word": "四川一动物园卖虎尿50元1瓶",
       "onboard_time": 1737527179,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 891960,
+      "num": 589004,
+      "word": "肖战拦着梁家辉自己蹲下",
+      "onboard_time": 1737526577,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 886623,
@@ -1155,14 +1163,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 677638,
-      "num": 385207,
-      "word": "肖战拦着梁家辉自己蹲下",
-      "onboard_time": 1737526577,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
       "raw_hot": 675486,
       "num": 903147,
       "word": "47岁女子升级做奶奶晒抱孙子合影",
@@ -1345,6 +1345,14 @@
       "onboard_time": 1737271337,
       "rank": 15,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 596371,
+      "num": 596371,
+      "word": "柯洁被判负专家解读韩国提子新规",
+      "onboard_time": 1737529219,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 595969,
@@ -1564,7 +1572,7 @@
     },
     {
       "raw_hot": 544998,
-      "num": 269770,
+      "num": 347031,
       "word": "中国男孩回应被美国女孩小红书寻人",
       "onboard_time": 1737528018,
       "rank": 39,
@@ -1923,6 +1931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 463196,
+      "num": 463196,
+      "word": "向太给人取名主打一个简单",
+      "onboard_time": 1737525977,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 462543,
       "num": 312377,
       "word": "浪姐6网传全员阵容",
@@ -2025,6 +2041,14 @@
       "onboard_time": 1737328995,
       "rank": 6,
       "category": "国际时政,互联网"
+    },
+    {
+      "raw_hot": 441439,
+      "num": 441439,
+      "word": "王影璐异人之下3疑似被换角",
+      "onboard_time": 1737532937,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 440059,
@@ -2161,6 +2185,14 @@
       "onboard_time": 1737508158,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 405888,
+      "num": 284294,
+      "word": "御赐小仵作",
+      "onboard_time": 1737516438,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 405472,
@@ -2417,6 +2449,14 @@
       "onboard_time": 1737525559,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 362310,
+      "num": 280757,
+      "word": "孟子义你们小年吃什么好吃的啦",
+      "onboard_time": 1737531798,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 362108,
@@ -2915,6 +2955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292622,
+      "num": 292622,
+      "word": "遭追尾车上3人身亡肇事司机被判3缓5",
+      "onboard_time": 1737533597,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 292574,
       "num": 315015,
       "word": "转十个勤天求进取运",
@@ -3121,14 +3169,6 @@
       "onboard_time": 1737295820,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 274584,
-      "num": 274584,
-      "word": "柯洁被判负专家解读韩国提子新规",
-      "onboard_time": 1737529219,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 273975,
@@ -3539,6 +3579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243558,
+      "num": 196138,
+      "word": "王安宇姚弛内娱古早cp",
+      "onboard_time": 1737530659,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 242110,
       "num": 247802,
       "word": "林高远的帽子亮相巴黎时装周",
@@ -3681,6 +3729,14 @@
       "onboard_time": 1737525859,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 234966,
+      "num": 177177,
+      "word": "第一个让白鹿欲言又止的人出现了",
+      "onboard_time": 1737531918,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 234616,
@@ -4355,14 +4411,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 199607,
-      "num": 199607,
-      "word": "御赐小仵作",
-      "onboard_time": 1737516438,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 199602,
       "num": 196359,
       "word": "原主人谈艾特被送潘宏园区原因",
@@ -4481,14 +4529,6 @@
       "onboard_time": 1737428839,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 196138,
-      "num": 196138,
-      "word": "王安宇姚弛内娱古早cp",
-      "onboard_time": 1737530659,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 195854,
@@ -5067,6 +5107,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 183547,
+      "num": 179846,
+      "word": "动物园回应卖虎尿50元1瓶",
+      "onboard_time": 1737526758,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182914,
       "num": 182914,
       "word": "全世界都在做鸡蛋羹",
@@ -5123,6 +5171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 181375,
+      "num": 181375,
+      "word": "多位棋手谈柯洁被判负",
+      "onboard_time": 1737533778,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180988,
       "num": 166800,
       "word": "刘晓庆沉浸式打包剩饭",
@@ -5153,14 +5209,6 @@
       "onboard_time": 1737269358,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 179846,
-      "num": 179846,
-      "word": "动物园回应卖虎尿50元1瓶",
-      "onboard_time": 1737526758,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 179746,
@@ -5299,14 +5347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 176725,
-      "num": 176725,
-      "word": "向太给人取名主打一个简单",
-      "onboard_time": 1737525977,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 176516,
       "num": 176516,
       "word": "特朗普或将TikTok禁令延期90天",
@@ -5336,6 +5376,14 @@
       "word": "敖瑞鹏大家的感情都是真的",
       "onboard_time": 1737451818,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 175935,
+      "num": 175935,
+      "word": "漂白加更礼",
+      "onboard_time": 1737533718,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -5529,6 +5577,14 @@
       "onboard_time": 1737439397,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 168710,
+      "num": 168710,
+      "word": "王嘉尔朱一龙王鹤棣G社生图",
+      "onboard_time": 1737532217,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 168702,
@@ -6211,6 +6267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154954,
+      "num": 170448,
+      "word": "王楚钦亚洲杯见",
+      "onboard_time": 1737530300,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154830,
       "num": 214758,
       "word": "孟子义将再追加两万元用于公益",
@@ -6361,6 +6425,14 @@
       "onboard_time": 1737459918,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 151699,
+      "num": 151699,
+      "word": "科学家将担任中小学科学副校长",
+      "onboard_time": 1737532458,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 151556,
@@ -6593,6 +6665,14 @@
       "onboard_time": 1737271397,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146684,
+      "num": 146684,
+      "word": "张远春晚上班拜了一路年",
+      "onboard_time": 1737532638,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 146633,
@@ -7139,6 +7219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136009,
+      "num": 136009,
+      "word": "一个家族盗用12306账号倒票",
+      "onboard_time": 1737533958,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135832,
       "num": 135832,
       "word": "90后新闻联播主播王音棋主持春晚",
@@ -7339,12 +7427,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131887,
-      "num": 131887,
-      "word": "王楚钦亚洲杯见",
-      "onboard_time": 1737530300,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 131800,
+      "num": 178153,
+      "word": "王安宇ELLEMEN新青年开年三封",
+      "onboard_time": 1737532878,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 131443,
+      "num": 145745,
+      "word": "听见中国年",
+      "onboard_time": 1737532998,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131179,
@@ -7505,6 +7601,14 @@
       "onboard_time": 1737305235,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 128296,
+      "num": 128296,
+      "word": "贵金属概念走强",
+      "onboard_time": 1737534377,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 128027,
@@ -8131,6 +8235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 118073,
+      "num": 118073,
+      "word": "柯洁尊重裁判判决",
+      "onboard_time": 1737533118,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117848,
       "num": 233010,
       "word": "给大家分享一个上画集锦",
@@ -8177,6 +8289,14 @@
       "onboard_time": 1737268578,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117379,
+      "num": 117379,
+      "word": "张若昀在欧洲介绍庆余年",
+      "onboard_time": 1737533418,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 117174,
@@ -8331,12 +8451,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113988,
+      "num": 113988,
+      "word": "小年吃饺子",
+      "onboard_time": 1737533178,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 113784,
       "num": 224533,
       "word": "沈星回你今年不是一个人过年",
       "onboard_time": 1737530957,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 113750,
+      "num": 113750,
+      "word": "白鹿代露娃合跳feels",
+      "onboard_time": 1737533418,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 113554,
@@ -10171,6 +10307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 56604,
+      "num": 178419,
+      "word": "集齐这三位才是蛇来运转",
+      "onboard_time": 1737533118,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 56592,
       "num": 56592,
       "word": "电影封神第二部厦门路演",
@@ -10531,6 +10675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 41472,
+      "num": 145114,
+      "word": "回家时刻的温暖一面",
+      "onboard_time": 1737531918,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40636,
       "num": 59262,
       "word": "贺峻霖给严浩翔送祝福",
@@ -10767,6 +10919,14 @@
       "num": 938872,
       "word": "重温经典 万象更新",
       "onboard_time": 1737517579,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29648,
+      "num": 589379,
+      "word": "家家美幸福年",
+      "onboard_time": 1737532878,
       "rank": 2,
       "category": "民生新闻"
     },
