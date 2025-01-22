@@ -1,0 +1,410 @@
+{
+  "runTime": 1737580663606,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 109990,
+        "num": 120532,
+        "word": "相思令 抠图",
+        "onboard_time": 1737560837,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84639,
+        "num": 84639,
+        "word": "法国士兵记步数APP泄露核潜艇机密",
+        "onboard_time": 1737561677,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14900,
+        "num": 71753,
+        "word": "小年一到年味儿拉满",
+        "onboard_time": 1737551839,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64311,
+        "num": 64311,
+        "word": "刘晓庆称下次不去一路繁花了",
+        "onboard_time": 1737553939,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36133,
+        "num": 36133,
+        "word": "中国围棋协会说明",
+        "onboard_time": 1737560720,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34929,
+        "num": 34929,
+        "word": "孩子被护送绕160多道弯回到家",
+        "onboard_time": 1737565815,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51247,
+        "num": 34863,
+        "word": "肖战 不语",
+        "onboard_time": 1737562577,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49987,
+        "num": 34294,
+        "word": "国色芳华大结局",
+        "onboard_time": 1737550698,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33354,
+        "num": 33354,
+        "word": "邹市明否认中年返贫",
+        "onboard_time": 1737551898,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32247,
+        "num": 32247,
+        "word": "外交部回应中方更改鲁比奥中文译名",
+        "onboard_time": 1737554119,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 79380,
+        "num": 32168,
+        "word": "江西一商场发生电梯卡人事故",
+        "onboard_time": 1737560358,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71281,
+        "num": 30667,
+        "word": "潘宏曾直播自曝进去过9天",
+        "onboard_time": 1737565515,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 40108,
+        "num": 30250,
+        "word": "赵今麦00后的黑历史都是高清的",
+        "onboard_time": 1737551539,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35386,
+        "num": 28849,
+        "word": "漂白肉联厂F4",
+        "onboard_time": 1737573672,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35322,
+        "num": 28205,
+        "word": "刘烨女儿13岁近照",
+        "onboard_time": 1737546677,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27532,
+        "num": 27532,
+        "word": "韩方承认规则不合理但坚持",
+        "onboard_time": 1737542959,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26605,
+        "num": 26605,
+        "word": "沈春阳回应被叫邪恶车厘子",
+        "onboard_time": 1737568693,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26575,
+        "num": 26575,
+        "word": "国色芳华",
+        "onboard_time": 1737546799,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23951,
+        "num": 23951,
+        "word": "希然",
+        "onboard_time": 1737559458,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22841,
+        "num": 22841,
+        "word": "为什么南北方小年相差一天",
+        "onboard_time": 1737550397,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36370,
+        "num": 22743,
+        "word": "闺蜜疤痕妊娠女子劝诫反被拉黑",
+        "onboard_time": 1737553939,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29370,
+        "num": 22172,
+        "word": "女子酒后催吐将19cm牙刷掉进胃中",
+        "onboard_time": 1737549738,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24765,
+        "num": 21945,
+        "word": "麦琳问李行亮自己还是个好人吗",
+        "onboard_time": 1737563775,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21409,
+        "num": 21409,
+        "word": "墨总统回应特朗普给墨西哥湾改名",
+        "onboard_time": 1737556819,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19985,
+        "num": 19985,
+        "word": "刘晓庆说迟到是去处理危机公关",
+        "onboard_time": 1737559639,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18523,
+        "num": 18523,
+        "word": "过年模式正在开启",
+        "onboard_time": 1737562697,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18426,
+        "num": 18426,
+        "word": "50岁老妈做美甲大钻加小钻叠成汉堡",
+        "onboard_time": 1737547158,
+        "rank": 26,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 18136,
+        "num": 18136,
+        "word": "漂白大结局",
+        "onboard_time": 1737560419,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17422,
+        "num": 17422,
+        "word": "陈梦轻舟已过万重山",
+        "onboard_time": 1737560358,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17378,
+        "num": 17378,
+        "word": "2025新春走基层",
+        "onboard_time": 1737567016,
+        "rank": 29,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 17012,
+        "num": 17012,
+        "word": "李晨说经常在健身房遇到王俊凯",
+        "onboard_time": 1737562218,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17002,
+        "num": 17002,
+        "word": "女子年终奖发半扇羊赔了1件羽绒服",
+        "onboard_time": 1737537559,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16958,
+        "num": 16958,
+        "word": "查处造谣传谣4.7万余人",
+        "onboard_time": 1737564376,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16854,
+        "num": 16854,
+        "word": "A股迎特大利好",
+        "onboard_time": 1737555739,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 16804,
+        "num": 16804,
+        "word": "iG股东开团Doinb",
+        "onboard_time": 1737558259,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16533,
+        "num": 16533,
+        "word": "央视网文娱评白月梵星",
+        "onboard_time": 1737550038,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16094,
+        "num": 16094,
+        "word": "肖战电影票房号召力",
+        "onboard_time": 1737559219,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16081,
+        "num": 16081,
+        "word": "王楚钦孙颖莎与你相约乒乓球亚洲杯",
+        "onboard_time": 1737556639,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15236,
+        "num": 16081,
+        "word": "漂白",
+        "onboard_time": 1737522800,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14521,
+        "num": 16078,
+        "word": "棋手称看到柯洁被判负很气愤",
+        "onboard_time": 1737569053,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13811,
+        "num": 16077,
+        "word": "漂白回应抄袭",
+        "onboard_time": 1737556039,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13723,
+        "num": 16077,
+        "word": "国色芳华超点",
+        "onboard_time": 1737547938,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13655,
+        "num": 16076,
+        "word": "马丽给登陆少年寄了一车草莓",
+        "onboard_time": 1737555921,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13698,
+        "num": 16074,
+        "word": "刘畅彻底黑化",
+        "onboard_time": 1737552679,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13342,
+        "num": 16074,
+        "word": "警方侦办网络暴力案件8000余起",
+        "onboard_time": 1737569233,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13324,
+        "num": 16072,
+        "word": "春节将至警惕4类骗局",
+        "onboard_time": 1737565634,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12840,
+        "num": 16071,
+        "word": "辛鹏说演王擎就像做了一场梦",
+        "onboard_time": 1737563476,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12675,
+        "num": 16070,
+        "word": "欧冠联赛",
+        "onboard_time": 1737576371,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12302,
+        "num": 16068,
+        "word": "金价再次刷新历史新高",
+        "onboard_time": 1737550937,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 11570,
+        "num": 16067,
+        "word": "邓佳鑫小卡",
+        "onboard_time": 1737572413,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的新春暖心话#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737578122108,
+  "endTime": 1737580663606,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -70588,7 +70588,7 @@
     },
     {
       "raw_hot": 14674,
-      "num": 15814,
+      "num": 16070,
       "word": "欧冠联赛",
       "onboard_time": 1737576371,
       "rank": 44,
@@ -70827,6 +70827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 13324,
+      "num": 16072,
+      "word": "春节将至警惕4类骗局",
+      "onboard_time": 1737565634,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13252,
       "num": 93130,
       "word": "新年第一套look",
@@ -71009,14 +71017,6 @@
       "onboard_time": 1737374778,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 12386,
-      "num": 15261,
-      "word": "春节将至警惕4类骗局",
-      "onboard_time": 1737565634,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12372,
