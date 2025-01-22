@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737516346263,
+  "endTime": 1737517195634,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -483,6 +483,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1116668,
+      "num": 1116668,
+      "word": "柯洁决赛",
+      "onboard_time": 1737515058,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1110441,
       "num": 572499,
       "word": "葛夕回应麦琳黄圣依打架",
@@ -659,14 +667,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 974482,
-      "num": 974482,
-      "word": "柯洁决赛",
-      "onboard_time": 1737515058,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 972219,
       "num": 972219,
       "word": "车厘子",
@@ -681,6 +681,22 @@
       "onboard_time": 1737429558,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 965163,
+      "num": 965163,
+      "word": "春晚特别单曲王菲新歌",
+      "onboard_time": 1737513738,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 962735,
+      "num": 221354,
+      "word": "男子被火锅烫伤用白糖敷好了",
+      "onboard_time": 1737510678,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 957711,
@@ -747,14 +763,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 917078,
-      "num": 198469,
-      "word": "男子被火锅烫伤用白糖敷好了",
-      "onboard_time": 1737510678,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 915491,
       "num": 465583,
       "word": "潘宏曾说没有自己艾特早安乐死了",
@@ -793,14 +801,6 @@
       "onboard_time": 1737254657,
       "rank": 9,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 894958,
-      "num": 894958,
-      "word": "春晚特别单曲王菲新歌",
-      "onboard_time": 1737513738,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 886623,
@@ -1163,6 +1163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 635715,
+      "num": 298170,
+      "word": "导演为了躲彭昱畅搬两次酒店",
+      "onboard_time": 1737516380,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 626343,
       "num": 626343,
       "word": "北京动物园发布大熊猫古古讣告",
@@ -1388,7 +1396,7 @@
     },
     {
       "raw_hot": 553081,
-      "num": 198180,
+      "num": 220999,
       "word": "iPhone17Air背板",
       "onboard_time": 1737511939,
       "rank": 22,
@@ -2572,7 +2580,7 @@
     },
     {
       "raw_hot": 307652,
-      "num": 196112,
+      "num": 208140,
       "word": "耙耙柑到底怎么读",
       "onboard_time": 1737513080,
       "rank": 26,
@@ -2609,6 +2617,14 @@
       "onboard_time": 1737212660,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 303097,
+      "num": 303097,
+      "word": "土耳其酒店建在悬崖着火灭不掉",
+      "onboard_time": 1737509840,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 302574,
@@ -2713,14 +2729,6 @@
       "onboard_time": 1737297020,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 287096,
-      "num": 287096,
-      "word": "土耳其酒店建在悬崖着火灭不掉",
-      "onboard_time": 1737509840,
-      "rank": 45,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 287005,
@@ -2828,7 +2836,7 @@
     },
     {
       "raw_hot": 279465,
-      "num": 279465,
+      "num": 282043,
       "word": "漯河舰交接入列",
       "onboard_time": 1737512719,
       "rank": 5,
@@ -2899,12 +2907,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 275141,
+      "num": 211603,
+      "word": "豹豹猫猫见面",
+      "onboard_time": 1737514458,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 273975,
       "num": 273975,
       "word": "封神2票补",
       "onboard_time": 1737244335,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 273750,
+      "num": 210400,
+      "word": "李行亮哄麦琳熟练得让人心疼",
+      "onboard_time": 1737516380,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 273157,
@@ -3067,6 +3091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261008,
+      "num": 261008,
+      "word": "漯河舰从头看到尾",
+      "onboard_time": 1737516259,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 260386,
       "num": 244575,
       "word": "母亲腌出七彩腊八蒜女子尝后说无毒",
@@ -3171,6 +3203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 251472,
+      "num": 251472,
+      "word": "任嘉伦黑粉被强执1.5万",
+      "onboard_time": 1737516318,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250948,
       "num": 250948,
       "word": "王一博首次加盟视听盛典",
@@ -3257,14 +3297,6 @@
       "onboard_time": 1737288679,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 243648,
-      "num": 243648,
-      "word": "漯河舰从头看到尾",
-      "onboard_time": 1737516259,
-      "rank": 15,
-      "category": "国内时政"
     },
     {
       "raw_hot": 242110,
@@ -3507,6 +3539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223302,
+      "num": 223302,
+      "word": "网络春晚节目单",
+      "onboard_time": 1737516318,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221845,
       "num": 221845,
       "word": "舒淇感叹夏之光长大了",
@@ -3681,14 +3721,6 @@
       "onboard_time": 1737456258,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 210492,
-      "num": 192636,
-      "word": "豹豹猫猫见面",
-      "onboard_time": 1737514458,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 210339,
@@ -3979,6 +4011,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 199607,
+      "num": 199607,
+      "word": "御赐小仵作",
+      "onboard_time": 1737516438,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199602,
       "num": 196359,
       "word": "原主人谈艾特被送潘宏园区原因",
@@ -4017,6 +4057,14 @@
       "onboard_time": 1737347238,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198280,
+      "num": 198280,
+      "word": "绝区零",
+      "onboard_time": 1737515417,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 198134,
@@ -4153,14 +4201,6 @@
       "onboard_time": 1737466579,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 194779,
-      "num": 194779,
-      "word": "绝区零",
-      "onboard_time": 1737515417,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 194697,
@@ -4763,14 +4803,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 178705,
-      "num": 178705,
-      "word": "任嘉伦黑粉被强执1.5万",
-      "onboard_time": 1737516318,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 178686,
       "num": 178686,
       "word": "诗情画奕",
@@ -4817,6 +4849,14 @@
       "onboard_time": 1737416296,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 177067,
+      "num": 285887,
+      "word": "回家路上的BGM选好了吗",
+      "onboard_time": 1737516259,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176766,
@@ -4921,6 +4961,14 @@
       "onboard_time": 1737273557,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 173576,
+      "num": 198906,
+      "word": "回到唐人街MV记录十年唐探",
+      "onboard_time": 1737513498,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 173493,
@@ -5035,6 +5083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 168702,
+      "num": 168702,
+      "word": "虫子在干果罐内织出一个网兜",
+      "onboard_time": 1737513197,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168098,
       "num": 359146,
       "word": "TikTok称将寻找在美可用的长期方案",
@@ -5139,6 +5195,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 166559,
+      "num": 191188,
+      "word": "虐杀猫狗视频售价从几元至上百元",
+      "onboard_time": 1737512719,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166520,
       "num": 166520,
       "word": "白泽一族终究还是只剩下梵樾一人了",
@@ -5241,14 +5305,6 @@
       "onboard_time": 1737448217,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 164484,
-      "num": 164484,
-      "word": "虫子在干果罐内织出一个网兜",
-      "onboard_time": 1737513197,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 163734,
@@ -5651,28 +5707,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 155779,
-      "num": 191188,
-      "word": "虐杀猫狗视频售价从几元至上百元",
-      "onboard_time": 1737512719,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 155764,
       "num": 155764,
       "word": "李昀锐冰湖重生戴面具路透",
       "onboard_time": 1737448278,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 155728,
-      "num": 198906,
-      "word": "回到唐人街MV记录十年唐探",
-      "onboard_time": 1737513498,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 155330,
@@ -6009,6 +6049,14 @@
       "onboard_time": 1737475638,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147126,
+      "num": 147126,
+      "word": "明日方舟",
+      "onboard_time": 1737197539,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 146754,
@@ -6443,14 +6491,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 137348,
-      "num": 194802,
-      "word": "回家路上的BGM选好了吗",
-      "onboard_time": 1737516259,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137117,
       "num": 137117,
       "word": "大寒过了就是年",
@@ -6571,6 +6611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 135120,
+      "num": 135120,
+      "word": "比伯回应取关海莉",
+      "onboard_time": 1737515958,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135047,
       "num": 135047,
       "word": "国产剧前有锅姨后有锅铲姐",
@@ -6659,14 +6707,6 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 133153,
-      "num": 133153,
-      "word": "比伯回应取关海莉",
-      "onboard_time": 1737515958,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 132672,
       "num": 132672,
       "word": "陈哲远好险差点要闯祸了",
@@ -6721,14 +6761,6 @@
       "onboard_time": 1737360018,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 130765,
-      "num": 130765,
-      "word": "网络春晚节目单",
-      "onboard_time": 1737516318,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 130736,
@@ -6897,14 +6929,6 @@
       "onboard_time": 1737275539,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127229,
-      "num": 127229,
-      "word": "明日方舟",
-      "onboard_time": 1737197539,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 127117,
@@ -7169,6 +7193,14 @@
       "onboard_time": 1737447859,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 123142,
+      "num": 197548,
+      "word": "樊振东希望大家远离饭圈戾气",
+      "onboard_time": 1737513619,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 123042,
@@ -7457,14 +7489,6 @@
       "onboard_time": 1737268578,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 117268,
-      "num": 197548,
-      "word": "樊振东希望大家远离饭圈戾气",
-      "onboard_time": 1737513619,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 117174,
@@ -7908,7 +7932,7 @@
     },
     {
       "raw_hot": 108040,
-      "num": 108040,
+      "num": 213267,
       "word": "太阳爵士交易",
       "onboard_time": 1737507979,
       "rank": 48,
@@ -9268,7 +9292,7 @@
     },
     {
       "raw_hot": 61845,
-      "num": 930616,
+      "num": 999777,
       "word": "浓浓的年味已经扑面而来",
       "onboard_time": 1737465919,
       "rank": 2,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/22 11:25:46
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/22 11:39:55
 </p>
 </blockquote>
 <p>
@@ -3063,6 +3063,12 @@ TikTok发声明（热度：1148125）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E6%B4%81%E5%86%B3%E8%B5%9B%23" target="weibo">
+柯洁决赛（热度：1116668）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%AE%A3%E4%BC%A0%E8%AF%AD%E7%A7%B0%E5%A0%95%E8%83%8E%E6%96%A9%E6%96%AD%E7%94%B7%E6%96%B9%E7%A5%96%E5%AE%97%E8%A1%80%E8%84%89%23" target="weibo">
 医院宣传语称堕胎斩断男方祖宗血脉（热度：1116150）
 </a>
@@ -3801,12 +3807,6 @@ R1SE合体（热度：994873）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E6%B4%81%E5%86%B3%E8%B5%9B%23" target="weibo">
-柯洁决赛（热度：974482）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%23" target="weibo">
 车厘子（热度：972219）
 </a>
@@ -3861,8 +3861,20 @@ R1SE合体（热度：994873）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E7%89%B9%E5%88%AB%E5%8D%95%E6%9B%B2%E7%8E%8B%E8%8F%B2%E6%96%B0%E6%AD%8C%23" target="weibo">
+春晚特别单曲王菲新歌（热度：965163）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E7%BC%89%E6%AF%92%E8%AD%A6%E6%9B%BE%E5%81%87%E6%89%AE%E6%83%85%E4%BE%A3%E5%A6%82%E4%BB%8A%E8%AE%A2%E5%A9%9A%E4%BA%86%23" target="weibo">
 两缉毒警曾假扮情侣如今订婚了（热度：963871）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E7%81%AB%E9%94%85%E7%83%AB%E4%BC%A4%E7%94%A8%E7%99%BD%E7%B3%96%E6%95%B7%E5%A5%BD%E4%BA%86%23" target="weibo">
+男子被火锅烫伤用白糖敷好了（热度：962735）
 </a>
 </li>
 
@@ -4209,12 +4221,6 @@ iG（热度：923121）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E7%81%AB%E9%94%85%E7%83%AB%E4%BC%A4%E7%94%A8%E7%99%BD%E7%B3%96%E6%95%B7%E5%A5%BD%E4%BA%86%23" target="weibo">
-男子被火锅烫伤用白糖敷好了（热度：917078）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%BD%91%E5%8F%8B%E6%B6%8C%E5%85%A5%E5%B0%8F%E7%BA%A2%E4%B9%A6%23" target="weibo">
 美国网友涌入小红书（热度：917023）
 </a>
@@ -4361,12 +4367,6 @@ TikTok通知美用户将暂停服务（热度：902283）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A%E5%8F%97%E9%98%BB%E7%94%A8%E6%AF%92%E9%BC%A0%E5%BC%BA%E6%AF%92%E6%AD%BB%E4%B8%88%E5%A4%AB%23" target="weibo">
 女子离婚受阻用毒鼠强毒死丈夫（热度：895438）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E7%89%B9%E5%88%AB%E5%8D%95%E6%9B%B2%E7%8E%8B%E8%8F%B2%E6%96%B0%E6%AD%8C%23" target="weibo">
-春晚特别单曲王菲新歌（热度：894958）
 </a>
 </li>
 
