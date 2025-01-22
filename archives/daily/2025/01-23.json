@@ -1,6 +1,6 @@
 {
   "startTime": 1737563308947,
-  "endTime": 1737580663606,
+  "endTime": 1737581744523,
   "band_list": [
     {
       "raw_hot": 1344080,
@@ -452,11 +452,19 @@
     },
     {
       "raw_hot": 42017,
-      "num": 31191,
+      "num": 31467,
       "word": "漂白肉联厂F4",
       "onboard_time": 1737573672,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 39475,
+      "num": 36484,
+      "word": "沈春阳回应被叫邪恶车厘子",
+      "onboard_time": 1737568693,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 39298,
@@ -465,14 +473,6 @@
       "onboard_time": 1737543019,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 36484,
-      "num": 36484,
-      "word": "沈春阳回应被叫邪恶车厘子",
-      "onboard_time": 1737568693,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 35419,
@@ -580,7 +580,7 @@
     },
     {
       "raw_hot": 14674,
-      "num": 16070,
+      "num": 16285,
       "word": "欧冠联赛",
       "onboard_time": 1737576371,
       "rank": 44,
@@ -596,7 +596,7 @@
     },
     {
       "raw_hot": 13324,
-      "num": 16072,
+      "num": 16293,
       "word": "春节将至警惕4类骗局",
       "onboard_time": 1737565634,
       "rank": 48,
@@ -616,6 +616,14 @@
       "word": "全国公安机关严惩有组织造谣炒作",
       "onboard_time": 1737571152,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11671,
+      "num": 16272,
+      "word": "河南一地要求理发店做空气检测",
+      "onboard_time": 1737580451,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
