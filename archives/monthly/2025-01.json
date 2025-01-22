@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737528237321,
+  "endTime": 1737530453874,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -3377,6 +3377,14 @@
       "onboard_time": 1735958537,
       "rank": 11,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 1266404,
+      "num": 1266404,
+      "word": "赵今麦首位00后三平台破万女演员",
+      "onboard_time": 1737527538,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 1263505,
@@ -7883,6 +7891,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 718874,
+      "num": 331515,
+      "word": "四川一动物园卖虎尿50元1瓶",
+      "onboard_time": 1737527179,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 718063,
       "num": 718063,
       "word": "孕妇突然分娩陌生人的羽绒服立大功",
@@ -10347,6 +10363,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 582912,
+      "num": 385207,
+      "word": "肖战拦着梁家辉自己蹲下",
+      "onboard_time": 1737526577,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 582228,
       "num": 582228,
       "word": "李现最近又爱上了小烧烤",
@@ -10921,14 +10945,6 @@
       "onboard_time": 1737511939,
       "rank": 22,
       "category": "数码"
-    },
-    {
-      "raw_hot": 552750,
-      "num": 385207,
-      "word": "肖战拦着梁家辉自己蹲下",
-      "onboard_time": 1737526577,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 552334,
@@ -13691,6 +13707,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 447749,
+      "num": 383421,
+      "word": "干中学",
+      "onboard_time": 1737524060,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 447420,
       "num": 447420,
       "word": "俩小孩把寒假作业塞下水道",
@@ -13889,14 +13913,6 @@
       "onboard_time": 1737300439,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 443220,
-      "num": 383421,
-      "word": "干中学",
-      "onboard_time": 1737524060,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 442980,
@@ -14473,6 +14489,14 @@
       "onboard_time": 1736749459,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 425900,
+      "num": 209268,
+      "word": "卜凡做道士",
+      "onboard_time": 1737528018,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 425762,
@@ -16633,14 +16657,6 @@
       "onboard_time": 1737439878,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 370875,
-      "num": 311694,
-      "word": "赵今麦首位00后三平台破万女演员",
-      "onboard_time": 1737527538,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 370561,
@@ -23435,6 +23451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 257207,
+      "num": 257207,
+      "word": "中国男孩回应被美国女孩小红书寻人",
+      "onboard_time": 1737528018,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 256810,
       "num": 325589,
       "word": "白月梵星爱奇艺热度破7000",
@@ -24921,14 +24945,6 @@
       "onboard_time": 1736066605,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 240388,
-      "num": 331515,
-      "word": "四川一动物园卖虎尿50元1瓶",
-      "onboard_time": 1737527179,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 240192,
@@ -28171,6 +28187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 210404,
+      "num": 210404,
+      "word": "柯洁被判负专家解读韩国提子新规",
+      "onboard_time": 1737529219,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210339,
       "num": 210339,
       "word": "樊振东棒球大片",
@@ -28753,14 +28777,6 @@
       "onboard_time": 1735971320,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 206775,
-      "num": 206775,
-      "word": "卜凡做道士",
-      "onboard_time": 1737528018,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 206724,
@@ -29673,6 +29689,14 @@
       "onboard_time": 1735827020,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202439,
+      "num": 202439,
+      "word": "肖战给阿如那捏肩",
+      "onboard_time": 1737529759,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 202370,
@@ -32113,6 +32137,14 @@
       "onboard_time": 1736947879,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192428,
+      "num": 192428,
+      "word": "张帅祝樊振东生日快乐",
+      "onboard_time": 1737530178,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 192381,
@@ -34883,6 +34915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180267,
+      "num": 180267,
+      "word": "客人在火锅店纸巾盒里藏钱",
+      "onboard_time": 1737526039,
+      "rank": 31,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 180256,
       "num": 384192,
       "word": "业主拒缴公摊水电费竟遭物业拆水表",
@@ -35425,6 +35465,14 @@
       "onboard_time": 1736949798,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 177237,
+      "num": 177237,
+      "word": "骄阳似我",
+      "onboard_time": 1737526519,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 177196,
@@ -36953,14 +37001,6 @@
       "onboard_time": 1736690902,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 170814,
-      "num": 170814,
-      "word": "骄阳似我",
-      "onboard_time": 1737526519,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 170774,
@@ -41019,14 +41059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154488,
-      "num": 154488,
-      "word": "中国男孩回应被美国女孩小红书寻人",
-      "onboard_time": 1737528018,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 154486,
       "num": 154486,
       "word": "曝公司用高压水枪驱赶讨薪者",
@@ -41721,6 +41753,14 @@
       "onboard_time": 1737032658,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151556,
+      "num": 151556,
+      "word": "潘宏基地被质疑狗屎堆积环境差",
+      "onboard_time": 1737527840,
+      "rank": 46,
+      "category": "网红"
     },
     {
       "raw_hot": 151505,
@@ -44659,6 +44699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140048,
+      "num": 140048,
+      "word": "夏以昼欢迎回家",
+      "onboard_time": 1737529578,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 139986,
       "num": 139986,
       "word": "漂白 赵今麦演技",
@@ -45844,7 +45892,7 @@
     },
     {
       "raw_hot": 135825,
-      "num": 223693,
+      "num": 306568,
       "word": "美国女孩Kat见到中国好友Simon了",
       "onboard_time": 1737522021,
       "rank": 24,
@@ -46803,14 +46851,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 132607,
-      "num": 132607,
-      "word": "潘宏基地被质疑狗屎堆积环境差",
-      "onboard_time": 1737527840,
-      "rank": 46,
-      "category": "网红"
-    },
-    {
       "raw_hot": 132606,
       "num": 132606,
       "word": "王一博追风者入围2024电视剧精选",
@@ -47137,6 +47177,14 @@
       "onboard_time": 1736769621,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131145,
+      "num": 131145,
+      "word": "封神第二部视效团队",
+      "onboard_time": 1737529818,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 131130,
@@ -47961,6 +48009,14 @@
       "onboard_time": 1736811437,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128190,
+      "num": 128190,
+      "word": "2025白羊座全年开挂",
+      "onboard_time": 1737528379,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 128148,
@@ -51307,6 +51363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116717,
+      "num": 116717,
+      "word": "漂白热度破10000",
+      "onboard_time": 1737528798,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116641,
       "num": 116641,
       "word": "律师谈王暖暖可能要到70岁才能离婚",
@@ -52113,6 +52177,14 @@
       "onboard_time": 1736437580,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 113702,
+      "num": 113702,
+      "word": "王楚钦亚洲杯见",
+      "onboard_time": 1737530300,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 113659,
@@ -53689,6 +53761,14 @@
       "onboard_time": 1736664440,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106977,
+      "num": 106977,
+      "word": "王嘉尔真是什么事情都报备",
+      "onboard_time": 1737530358,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 106975,
@@ -57083,6 +57163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88303,
+      "num": 224067,
+      "word": "杨紫祝大家花开富贵",
+      "onboard_time": 1737528619,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 88209,
       "num": 197536,
       "word": "pick你的2025新年主打歌",
@@ -59291,6 +59379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71594,
+      "num": 207371,
+      "word": "和祁煜一起剪纸的幸福日常",
+      "onboard_time": 1737529877,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 71542,
       "num": 388211,
       "word": "梅大高速下跪拦车的老人拒引流带货",
@@ -59649,6 +59745,14 @@
       "onboard_time": 1736410100,
       "rank": 27,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 68472,
+      "num": 120106,
+      "word": "一代人有一代人的接好运仪式",
+      "onboard_time": 1737530239,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 68364,

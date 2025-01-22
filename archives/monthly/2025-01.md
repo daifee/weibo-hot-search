@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/22 14:43:57
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/22 15:20:53
 </p>
 </blockquote>
 <p>
@@ -2543,6 +2543,12 @@ TikTok禁令引发美国网友众怒（热度：1325910）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%9D%E6%97%B6%E6%8D%B7%E9%94%80%E5%86%A024%E5%B9%B4%E5%86%8D%E5%8D%96%E5%87%BA170%E5%8F%B0%23" target="weibo">
 保时捷销冠24年再卖出170台（热度：1266563）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%E9%A6%96%E4%BD%8D00%E5%90%8E%E4%B8%89%E5%B9%B3%E5%8F%B0%E7%A0%B4%E4%B8%87%E5%A5%B3%E6%BC%94%E5%91%98%23" target="weibo">
+赵今麦首位00后三平台破万女演员（热度：1266404）
 </a>
 </li>
 
@@ -5925,6 +5931,12 @@ SM新女团 SMTOWN压轴（热度：743773）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%8A%A8%E7%89%A9%E5%9B%AD%E5%8D%96%E8%99%8E%E5%B0%BF50%E5%85%831%E7%93%B6%23" target="weibo">
+四川一动物园卖虎尿50元1瓶（热度：718874）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%87%E7%AA%81%E7%84%B6%E5%88%86%E5%A8%A9%E9%99%8C%E7%94%9F%E4%BA%BA%E7%9A%84%E7%BE%BD%E7%BB%92%E6%9C%8D%E7%AB%8B%E5%A4%A7%E5%8A%9F%23" target="weibo">
 孕妇突然分娩陌生人的羽绒服立大功（热度：718063）
 </a>
@@ -5999,18 +6011,6 @@ SM新女团 SMTOWN压轴（热度：743773）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%BB%84%E5%AD%90%E9%9F%AC%E9%80%89%E4%B8%AD%E7%9A%84%E5%AE%B6%E5%BA%AD%E4%B8%BB%E5%A6%87%E5%B7%B2%E7%9C%8B%E8%BD%A6%23" target="weibo">
 被黄子韬选中的家庭主妇已看车（热度：706048）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E8%BD%A6%E5%8E%98%E5%AD%9010%E5%85%832%E7%9B%92%E6%98%AF%E7%9C%9F%E7%9A%84%23" target="weibo">
-广西车厘子10元2盒是真的（热度：705846）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E5%9D%90%E8%BF%87%E7%AB%99%E5%85%88%E4%B8%8D%E8%A6%81%E5%87%BA%E7%AB%99%23" target="weibo">
-高铁坐过站先不要出站（热度：705394）
 </a>
 </li>
 
