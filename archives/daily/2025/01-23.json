@@ -1,6 +1,6 @@
 {
   "startTime": 1737563308947,
-  "endTime": 1737577444065,
+  "endTime": 1737578122108,
   "band_list": [
     {
       "raw_hot": 1344080,
@@ -451,19 +451,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42017,
+      "num": 31191,
+      "word": "漂白肉联厂F4",
+      "onboard_time": 1737573672,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 39298,
       "num": 39298,
       "word": "漂白可以拯救迷雾剧场吗",
       "onboard_time": 1737543019,
       "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 36831,
-      "num": 26291,
-      "word": "漂白肉联厂F4",
-      "onboard_time": 1737573672,
-      "rank": 39,
       "category": "剧集"
     },
     {
@@ -593,6 +593,14 @@
       "onboard_time": 1737565035,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 12386,
+      "num": 15261,
+      "word": "春节将至警惕4类骗局",
+      "onboard_time": 1737565634,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12154,

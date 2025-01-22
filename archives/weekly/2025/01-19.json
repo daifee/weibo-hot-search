@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737577444065,
+  "endTime": 1737578122108,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -12115,6 +12115,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 42017,
+      "num": 31191,
+      "word": "漂白肉联厂F4",
+      "onboard_time": 1737573672,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 41917,
       "num": 234761,
       "word": "务安机场混凝土工程前负责人在家中死亡",
@@ -12273,14 +12281,6 @@
       "onboard_time": 1737350838,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 36831,
-      "num": 26291,
-      "word": "漂白肉联厂F4",
-      "onboard_time": 1737573672,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 36588,
@@ -13137,6 +13137,14 @@
       "onboard_time": 1737374778,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12386,
+      "num": 15261,
+      "word": "春节将至警惕4类骗局",
+      "onboard_time": 1737565634,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12000,
