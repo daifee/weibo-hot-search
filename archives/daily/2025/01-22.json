@@ -1,6 +1,6 @@
 {
   "startTime": 1737476916141,
-  "endTime": 1737550677505,
+  "endTime": 1737552436156,
   "band_list": [
     {
       "raw_hot": 1994451,
@@ -200,6 +200,14 @@
       "word": "邪恶车厘子",
       "onboard_time": 1737541397,
       "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 799864,
+      "num": 1127978,
+      "word": "难哄",
+      "onboard_time": 1737548057,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -451,11 +459,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 456034,
-      "num": 456034,
-      "word": "难哄",
-      "onboard_time": 1737548057,
-      "rank": 23,
+      "raw_hot": 451851,
+      "num": 451851,
+      "word": "央视网文娱评白月梵星",
+      "onboard_time": 1737550038,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -627,6 +635,30 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 346973,
+      "num": 213949,
+      "word": "女子酒后催吐将19cm牙刷掉进胃中",
+      "onboard_time": 1737549738,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 344516,
+      "num": 305555,
+      "word": "射雕英雄传预售影史第18",
+      "onboard_time": 1737547578,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 343674,
+      "num": 219582,
+      "word": "国色芳华大结局",
+      "onboard_time": 1737550698,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 342879,
       "num": 342879,
       "word": "六部门印发中长期资金入市方案",
@@ -691,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 310141,
+      "num": 218666,
+      "word": "李现男模身材",
+      "onboard_time": 1737551118,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 307652,
       "num": 226268,
       "word": "耙耙柑到底怎么读",
@@ -705,14 +745,6 @@
       "onboard_time": 1737540798,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 305555,
-      "num": 305555,
-      "word": "射雕英雄传预售影史第18",
-      "onboard_time": 1737547578,
-      "rank": 12,
-      "category": "电影"
     },
     {
       "raw_hot": 303097,
@@ -745,6 +777,22 @@
       "onboard_time": 1737461959,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 298124,
+      "num": 219086,
+      "word": "常华森 好的阿曦",
+      "onboard_time": 1737551058,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 294584,
+      "num": 212904,
+      "word": "赵今麦00后的黑历史都是高清的",
+      "onboard_time": 1737551539,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 292870,
@@ -809,6 +857,14 @@
       "onboard_time": 1737508698,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 281328,
+      "num": 211786,
+      "word": "寄明月",
+      "onboard_time": 1737550698,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 281145,
@@ -876,7 +932,7 @@
     },
     {
       "raw_hot": 263385,
-      "num": 145616,
+      "num": 194059,
       "word": "50岁老妈做美甲大钻加小钻叠成汉堡",
       "onboard_time": 1737547158,
       "rank": 27,
@@ -905,6 +961,14 @@
       "onboard_time": 1737516259,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 260471,
+      "num": 320034,
+      "word": "王菲春晚新歌MV里有李子柒",
+      "onboard_time": 1737548417,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 258963,
@@ -961,6 +1025,14 @@
       "onboard_time": 1737530659,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 240874,
+      "num": 217945,
+      "word": "四川巴中一大桥多车相撞有人员伤亡",
+      "onboard_time": 1737548838,
+      "rank": 14,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 240266,
@@ -1073,6 +1145,14 @@
       "onboard_time": 1737519499,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 217071,
+      "num": 182377,
+      "word": "吴磊不语只是穿大衣硬帅",
+      "onboard_time": 1737550458,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 215400,
@@ -1243,6 +1323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 197423,
+      "num": 179466,
+      "word": "漂白最后四集抓反派看爽了",
+      "onboard_time": 1737551418,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197322,
       "num": 197322,
       "word": "王子奇一番",
@@ -1257,6 +1345,14 @@
       "onboard_time": 1737519860,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 196310,
+      "num": 196310,
+      "word": "邹市明否认中年返贫",
+      "onboard_time": 1737551898,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 196020,
@@ -1419,14 +1515,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 181449,
-      "num": 143146,
-      "word": "央视网文娱评白月梵星",
-      "onboard_time": 1737550038,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 180900,
       "num": 180900,
       "word": "2025白羊座全年开挂",
@@ -1521,6 +1609,14 @@
       "onboard_time": 1737513498,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 172121,
+      "num": 172121,
+      "word": "周深这件衣服穿了多少年",
+      "onboard_time": 1737550338,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 170565,
@@ -1665,14 +1761,6 @@
       "onboard_time": 1737524659,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 161017,
-      "num": 320034,
-      "word": "王菲春晚新歌MV里有李子柒",
-      "onboard_time": 1737548417,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 158642,
@@ -1827,12 +1915,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 150596,
-      "num": 140179,
-      "word": "周深这件衣服穿了多少年",
-      "onboard_time": 1737550338,
-      "rank": 34,
-      "category": "综艺"
+      "raw_hot": 150435,
+      "num": 150435,
+      "word": "张云雷大封箱",
+      "onboard_time": 1737550758,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 149993,
@@ -1857,6 +1945,14 @@
       "onboard_time": 1737507382,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 148771,
+      "num": 148771,
+      "word": "偶遇佟丽娅带儿子国外度假",
+      "onboard_time": 1737551299,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 147594,
@@ -1969,6 +2065,14 @@
       "onboard_time": 1737460218,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140700,
+      "num": 216936,
+      "word": "射雕1月23日微博直播",
+      "onboard_time": 1737552140,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 140048,
@@ -2091,14 +2195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 133051,
-      "num": 142603,
-      "word": "女子酒后催吐将19cm牙刷掉进胃中",
-      "onboard_time": 1737549738,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132022,
       "num": 132022,
       "word": "打压式伴侣有多可怕",
@@ -2155,6 +2251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128530,
+      "num": 128530,
+      "word": "张康乐直播",
+      "onboard_time": 1737550819,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128296,
       "num": 128296,
       "word": "贵金属概念走强",
@@ -2177,14 +2281,6 @@
       "onboard_time": 1737531077,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 127351,
-      "num": 127351,
-      "word": "吴磊不语只是穿大衣硬帅",
-      "onboard_time": 1737550458,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 126405,
@@ -2291,6 +2387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119897,
+      "num": 119897,
+      "word": "漂白可以拯救迷雾剧场吗",
+      "onboard_time": 1737543019,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119099,
       "num": 119099,
       "word": "这样的老公直接挂小黄车吧",
@@ -2323,6 +2427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117147,
+      "num": 117147,
+      "word": "千世退役",
+      "onboard_time": 1737552020,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116717,
       "num": 116717,
       "word": "漂白热度破10000",
@@ -2345,6 +2457,14 @@
       "onboard_time": 1737546619,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115628,
+      "num": 115628,
+      "word": "王源电话响起的时候请接听",
+      "onboard_time": 1737552379,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 115378,
@@ -2563,6 +2683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 103698,
+      "num": 220195,
+      "word": "这可能是最值得信任的陌生人",
+      "onboard_time": 1737551239,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 102971,
       "num": 102971,
       "word": "时代少年团在新音后台也没闲着",
@@ -2612,19 +2740,11 @@
     },
     {
       "raw_hot": 96147,
-      "num": 140723,
+      "num": 216205,
       "word": "第一批聪明的人已领到1500元国补",
       "onboard_time": 1737549858,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94204,
-      "num": 94204,
-      "word": "漂白可以拯救迷雾剧场吗",
-      "onboard_time": 1737543019,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 93351,
@@ -2899,6 +3019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59126,
+      "num": 478537,
+      "word": "新疆家庭网络春晚",
+      "onboard_time": 1737552140,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58564,
       "num": 130414,
       "word": "朱亚文一张图回应",
@@ -2979,6 +3107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48618,
+      "num": 213449,
+      "word": "国产单机日子真的好起来了",
+      "onboard_time": 1737551839,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 47644,
       "num": 47644,
       "word": "异人之下之决战碧游村",
@@ -3027,6 +3163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 41798,
+      "num": 189703,
+      "word": "小年一到年味儿拉满",
+      "onboard_time": 1737551839,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41472,
       "num": 145114,
       "word": "回家时刻的温暖一面",
@@ -3065,6 +3209,14 @@
       "onboard_time": 1737535036,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 37621,
+      "num": 216624,
+      "word": "李昀锐米兰愿望清单都实现了",
+      "onboard_time": 1737547878,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 34183,
