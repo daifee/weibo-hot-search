@@ -1,0 +1,410 @@
+{
+  "runTime": 1737541306139,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 778944,
+        "num": 1124631,
+        "word": "杨紫李现晒何惟芳蒋长扬大婚照",
+        "onboard_time": 1737537439,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 536960,
+        "num": 536960,
+        "word": "遭追尾车上3人身亡肇事司机被判3缓5",
+        "onboard_time": 1737533597,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27551,
+        "num": 521147,
+        "word": "年字在古代曾指庄稼成熟",
+        "onboard_time": 1737536597,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 511731,
+        "num": 511731,
+        "word": "难哄下证",
+        "onboard_time": 1737538399,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 470548,
+        "num": 470548,
+        "word": "网传存款80万元到期取不出来不实",
+        "onboard_time": 1737535217,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385510,
+        "num": 385510,
+        "word": "吃车厘子不要咬破果核",
+        "onboard_time": 1737519499,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 412445,
+        "num": 382002,
+        "word": "赵今麦首位00后三平台破万女演员",
+        "onboard_time": 1737527538,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 378432,
+        "num": 378432,
+        "word": "肖战说为国为民才是侠之大者",
+        "onboard_time": 1737535158,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 367359,
+        "num": 367359,
+        "word": "梅大高速茶阳路段塌方灾害调查评估报告",
+        "onboard_time": 1737537737,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 264563,
+        "num": 309804,
+        "word": "外交部回应美计划对中国商品加征关税",
+        "onboard_time": 1737534897,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 479411,
+        "num": 306921,
+        "word": "潘宏园区宠物托运用生鲜车运宠物致死",
+        "onboard_time": 1737537318,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 301915,
+        "num": 301915,
+        "word": "漂白",
+        "onboard_time": 1737522800,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298175,
+        "num": 298175,
+        "word": "多位棋手谈柯洁被判负",
+        "onboard_time": 1737533778,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287157,
+        "num": 287157,
+        "word": "联合国公布美国欠款",
+        "onboard_time": 1737540379,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 262833,
+        "num": 262833,
+        "word": "六部门印发中长期资金入市方案",
+        "onboard_time": 1737535097,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 257991,
+        "num": 257991,
+        "word": "祝绪丹花神",
+        "onboard_time": 1737539239,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253861,
+        "num": 253861,
+        "word": "王者荣耀嫦娥抽奖",
+        "onboard_time": 1737538759,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 252758,
+        "num": 252758,
+        "word": "刘诗诗不语只是一味地干饭",
+        "onboard_time": 1737535818,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243796,
+        "num": 243796,
+        "word": "御赐小仵作",
+        "onboard_time": 1737516438,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236399,
+        "num": 236399,
+        "word": "推动中长期资金入市举措有哪些",
+        "onboard_time": 1737539300,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 664829,
+        "num": 235997,
+        "word": "网红潘宏曾有刑事犯罪记录",
+        "onboard_time": 1737518960,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 478387,
+        "num": 234454,
+        "word": "女子年终奖发半扇羊赔了1件羽绒服",
+        "onboard_time": 1737537559,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266347,
+        "num": 233770,
+        "word": "肖战拦着梁家辉自己蹲下",
+        "onboard_time": 1737526577,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151891,
+        "num": 232156,
+        "word": "黎深雪人的一天",
+        "onboard_time": 1737539959,
+        "rank": 23,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 9763,
+        "num": 231394,
+        "word": "国色芳华好运卡",
+        "onboard_time": 1737541218,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 231051,
+        "num": 231051,
+        "word": "四川一动物园卖虎尿50元1瓶",
+        "onboard_time": 1737527179,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202888,
+        "num": 202888,
+        "word": "王影璐异人之下3疑似被换角",
+        "onboard_time": 1737532937,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201965,
+        "num": 201965,
+        "word": "丁禹兮春晚红色西装造型",
+        "onboard_time": 1737540438,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81110,
+        "num": 194549,
+        "word": "汪苏泷好运卡",
+        "onboard_time": 1737540018,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67049,
+        "num": 193473,
+        "word": "蛟龙小队韩东君请伊利上桌",
+        "onboard_time": 1737538518,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193256,
+        "num": 193256,
+        "word": "王菲将第5次登上春晚舞台",
+        "onboard_time": 1737538219,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187634,
+        "num": 187634,
+        "word": "74岁刘晓庆的恋爱观点",
+        "onboard_time": 1737535938,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172750,
+        "num": 172750,
+        "word": "车厘子是血糖友好型水果",
+        "onboard_time": 1737536238,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165122,
+        "num": 165122,
+        "word": "猫咪撞猫后肇事逃逸",
+        "onboard_time": 1737539178,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163045,
+        "num": 163045,
+        "word": "张真源在台上做了道数学题",
+        "onboard_time": 1737540978,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158883,
+        "num": 158883,
+        "word": "北漂白 南狂飙",
+        "onboard_time": 1737536779,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155908,
+        "num": 155908,
+        "word": "人大代表建议将产假延长至180天",
+        "onboard_time": 1737538578,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153939,
+        "num": 153939,
+        "word": "躲雨的樊振东12年后成了C位",
+        "onboard_time": 1737540678,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149504,
+        "num": 149504,
+        "word": "卜凡做道士",
+        "onboard_time": 1737528018,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145833,
+        "num": 145833,
+        "word": "白月梵星",
+        "onboard_time": 1737539839,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142412,
+        "num": 142412,
+        "word": "王俊凯说放假回家路上不能被卡住",
+        "onboard_time": 1737537918,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141027,
+        "num": 141027,
+        "word": "宋红玉结局",
+        "onboard_time": 1737540798,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137893,
+        "num": 137893,
+        "word": "iOS18.3默认启用苹果AI",
+        "onboard_time": 1737538337,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 134762,
+        "num": 134762,
+        "word": "第一个让白鹿欲言又止的人出现了",
+        "onboard_time": 1737531918,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133954,
+        "num": 133954,
+        "word": "2025春节档电影片单发布",
+        "onboard_time": 1737540497,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132022,
+        "num": 132022,
+        "word": "打压式伴侣有多可怕",
+        "onboard_time": 1737539418,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128329,
+        "num": 128329,
+        "word": "杨紫工作室送2025新年礼盒",
+        "onboard_time": 1737538998,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118189,
+        "num": 118189,
+        "word": "小年",
+        "onboard_time": 1737538219,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113613,
+        "num": 113613,
+        "word": "郑钦文说有起伏被骂很正常",
+        "onboard_time": 1737540738,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99800,
+        "num": 99800,
+        "word": "iPhone13仍是2024年最火手机",
+        "onboard_time": 1737522561,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的新春暖心话#"
+    }
+  }
+}
