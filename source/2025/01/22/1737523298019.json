@@ -1,0 +1,410 @@
+{
+  "runTime": 1737523298019,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1129707,
+        "num": 1180753,
+        "word": "成都巨型刘亦菲成了网红打卡点",
+        "onboard_time": 1737518600,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 951574,
+        "num": 951574,
+        "word": "恋与深空强制下线",
+        "onboard_time": 1737520039,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 27319,
+        "num": 938872,
+        "word": "重温经典 万象更新",
+        "onboard_time": 1737517579,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 930933,
+        "num": 930933,
+        "word": "吃车厘子不要咬破果核",
+        "onboard_time": 1737519499,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 493782,
+        "num": 493782,
+        "word": "柯洁判负",
+        "onboard_time": 1737518119,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 492733,
+        "num": 492733,
+        "word": "漂白",
+        "onboard_time": 1737522800,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 442332,
+        "num": 442332,
+        "word": "春晚特别单曲王菲新歌",
+        "onboard_time": 1737513738,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438559,
+        "num": 438559,
+        "word": "iPhone17Air背板",
+        "onboard_time": 1737511939,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 333032,
+        "num": 333032,
+        "word": "江西路中房屋主称后悔了",
+        "onboard_time": 1737521119,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326148,
+        "num": 326148,
+        "word": "2025央视网络春晚节目单",
+        "onboard_time": 1737513979,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 799424,
+        "num": 325144,
+        "word": "花76万买到的260平顶楼复式",
+        "onboard_time": 1737519499,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 438672,
+        "num": 324421,
+        "word": "代露娃回应晋江式演技",
+        "onboard_time": 1737511996,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 620689,
+        "num": 323469,
+        "word": "韩国网友抵制宋慧乔新片",
+        "onboard_time": 1737501735,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 541650,
+        "num": 321953,
+        "word": "印度男子跳瀑布拍晕在水面溺亡",
+        "onboard_time": 1737519798,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 395920,
+        "num": 320838,
+        "word": "王楚然吃面面受轻伤",
+        "onboard_time": 1737511516,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395482,
+        "num": 318800,
+        "word": "女子美甲后感染HPV病毒长出菜花",
+        "onboard_time": 1737477796,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318585,
+        "num": 318585,
+        "word": "加拿大采购中国无人机监控加美边境",
+        "onboard_time": 1737517878,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 193703,
+        "num": 304221,
+        "word": "漯河舰交接入列",
+        "onboard_time": 1737512719,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 243686,
+        "num": 300611,
+        "word": "肖战加盟2025网络视听盛典",
+        "onboard_time": 1737523100,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297117,
+        "num": 297117,
+        "word": "演的是赵今麦 害怕的是我",
+        "onboard_time": 1737521899,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1994451,
+        "num": 294644,
+        "word": "网红潘宏曾有刑事犯罪记录",
+        "onboard_time": 1737518960,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 705730,
+        "num": 288594,
+        "word": "导演为了躲彭昱畅搬两次酒店",
+        "onboard_time": 1737516380,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 271683,
+        "num": 271683,
+        "word": "EXO正在准备回归",
+        "onboard_time": 1737519619,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255730,
+        "num": 255730,
+        "word": "恋与深空全球用户突破5000万",
+        "onboard_time": 1737520939,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135825,
+        "num": 223693,
+        "word": "美国女孩Kat见到中国好友Simon了",
+        "onboard_time": 1737522021,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 135032,
+        "num": 222163,
+        "word": "柯洁决赛",
+        "onboard_time": 1737515058,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211398,
+        "num": 221528,
+        "word": "网红局长回应网友避雷尔滨红肠",
+        "onboard_time": 1737519199,
+        "rank": 26,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 221178,
+        "num": 221178,
+        "word": "胡冰卿中式红唇美人",
+        "onboard_time": 1737522321,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271592,
+        "num": 218387,
+        "word": "肖战一出场就有郭靖的感觉",
+        "onboard_time": 1737517459,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 246733,
+        "num": 218350,
+        "word": "豹豹猫猫见面",
+        "onboard_time": 1737514458,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215400,
+        "num": 215400,
+        "word": "中国围棋协会",
+        "onboard_time": 1737520219,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211389,
+        "num": 211389,
+        "word": "蛇年宝宝的本命年好长啊",
+        "onboard_time": 1737517518,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208784,
+        "num": 208784,
+        "word": "潘宏曾被判处有期徒刑一年缓刑一年",
+        "onboard_time": 1737521240,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 196938,
+        "num": 196938,
+        "word": "胜意死是唯一一件能自己选择的事",
+        "onboard_time": 1737521360,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91903,
+        "num": 188031,
+        "word": "郭麒麟阎鹤祥春节新作",
+        "onboard_time": 1737522139,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187166,
+        "num": 187166,
+        "word": "iPhone13仍是2024年最火手机",
+        "onboard_time": 1737522561,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 185014,
+        "num": 185014,
+        "word": "任嘉伦黑粉被强执1.5万",
+        "onboard_time": 1737516318,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164561,
+        "num": 164561,
+        "word": "网络春晚节目单",
+        "onboard_time": 1737516318,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161881,
+        "num": 161881,
+        "word": "御赐小仵作2回归官宣",
+        "onboard_time": 1737513979,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124125,
+        "num": 159665,
+        "word": "一次性吃330公斤车厘子才会铁中毒",
+        "onboard_time": 1737521599,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90723,
+        "num": 159392,
+        "word": "马思纯白客黄明昊演一家三口",
+        "onboard_time": 1737523040,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159212,
+        "num": 159212,
+        "word": "高圆圆说的内容只有7080才能懂",
+        "onboard_time": 1737522680,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154336,
+        "num": 154336,
+        "word": "童年看的铁甲小宝也来拜年了",
+        "onboard_time": 1737522740,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 151208,
+        "num": 151208,
+        "word": "朱亚文戴戒指的手",
+        "onboard_time": 1737519079,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146712,
+        "num": 146712,
+        "word": "王鹤棣G社镜头",
+        "onboard_time": 1737509058,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 120101,
+        "num": 146258,
+        "word": "孟子义好运卡",
+        "onboard_time": 1737521840,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118143,
+        "num": 146253,
+        "word": "韩国围棋新规去年修改并交付中方",
+        "onboard_time": 1737521720,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146248,
+        "num": 146248,
+        "word": "耙耙柑到底怎么读",
+        "onboard_time": 1737513080,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 138232,
+        "num": 138232,
+        "word": "王菲 春晚",
+        "onboard_time": 1737466459,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109391,
+        "num": 137238,
+        "word": "这届年轻人回村过年不再大包小包",
+        "onboard_time": 1737512657,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#继续引领中俄关系登高望远#"
+    }
+  }
+}

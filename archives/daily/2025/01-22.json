@@ -1,9 +1,9 @@
 {
   "startTime": 1737476916141,
-  "endTime": 1737520806852,
+  "endTime": 1737523298019,
   "band_list": [
     {
-      "raw_hot": 1824429,
+      "raw_hot": 1994451,
       "num": 448910,
       "word": "网红潘宏曾有刑事犯罪记录",
       "onboard_time": 1737518960,
@@ -91,6 +91,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 951574,
+      "num": 951574,
+      "word": "恋与深空强制下线",
+      "onboard_time": 1737520039,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 930933,
+      "num": 930933,
+      "word": "吃车厘子不要咬破果核",
+      "onboard_time": 1737519499,
+      "rank": 45,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 840926,
       "num": 914826,
       "word": "车厘子",
@@ -113,6 +129,14 @@
       "onboard_time": 1737471859,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 799424,
+      "num": 438147,
+      "word": "花76万买到的260平顶楼复式",
+      "onboard_time": 1737519499,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 770977,
@@ -163,22 +187,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 580996,
-      "num": 580996,
-      "word": "恋与深空强制下线",
-      "onboard_time": 1737520039,
-      "rank": 3,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 554662,
-      "num": 438147,
-      "word": "花76万买到的260平顶楼复式",
-      "onboard_time": 1737519499,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 553081,
       "num": 520691,
       "word": "iPhone17Air背板",
@@ -203,12 +211,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 541650,
+      "num": 324726,
+      "word": "印度男子跳瀑布拍晕在水面溺亡",
+      "onboard_time": 1737519798,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 507418,
       "num": 435495,
       "word": "肖战一出场就有郭靖的感觉",
       "onboard_time": 1737517459,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 492733,
+      "num": 492733,
+      "word": "漂白",
+      "onboard_time": 1737438258,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 476824,
@@ -299,20 +323,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 333032,
+      "num": 333032,
+      "word": "江西路中房屋主称后悔了",
+      "onboard_time": 1737521119,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 331580,
       "num": 254985,
       "word": "王楚然表演欲大爆发",
       "onboard_time": 1737508219,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 324726,
-      "num": 324726,
-      "word": "印度男子跳瀑布拍晕在水面溺亡",
-      "onboard_time": 1737519798,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 315691,
@@ -363,6 +387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 297117,
+      "num": 297117,
+      "word": "演的是赵今麦 害怕的是我",
+      "onboard_time": 1737521899,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 292870,
       "num": 292870,
       "word": "网络春晚节目单",
@@ -385,14 +417,6 @@
       "onboard_time": 1737501555,
       "rank": 21,
       "category": "美妆,幽默"
-    },
-    {
-      "raw_hot": 283731,
-      "num": 283731,
-      "word": "吃车厘子不要咬破果核",
-      "onboard_time": 1737519499,
-      "rank": 45,
-      "category": "科学科普"
     },
     {
       "raw_hot": 281868,
@@ -443,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 271683,
+      "num": 323349,
+      "word": "EXO正在准备回归",
+      "onboard_time": 1737519619,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266950,
       "num": 256230,
       "word": "沈梦辰国色芳华出场镜头",
@@ -475,6 +507,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 255730,
+      "num": 255730,
+      "word": "恋与深空全球用户突破5000万",
+      "onboard_time": 1737520939,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 254304,
       "num": 254304,
       "word": "李昀锐葡萄干变葡萄枝了",
@@ -489,6 +529,14 @@
       "onboard_time": 1737465020,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 243686,
+      "num": 300611,
+      "word": "肖战加盟2025网络视听盛典",
+      "onboard_time": 1737523100,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 240266,
@@ -523,12 +571,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221178,
+      "num": 221178,
+      "word": "胡冰卿中式红唇美人",
+      "onboard_time": 1737522321,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218138,
       "num": 218138,
       "word": "以为是败家孩子结果是学医圣体",
       "onboard_time": 1737519499,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 215400,
+      "num": 215400,
+      "word": "中国围棋协会",
+      "onboard_time": 1737520219,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 213615,
@@ -553,6 +617,22 @@
       "onboard_time": 1737506660,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211398,
+      "num": 315036,
+      "word": "网红局长回应网友避雷尔滨红肠",
+      "onboard_time": 1737519199,
+      "rank": 43,
+      "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 208784,
+      "num": 208784,
+      "word": "潘宏曾被判处有期徒刑一年缓刑一年",
+      "onboard_time": 1737521240,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 208378,
@@ -595,14 +675,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 201178,
-      "num": 315036,
-      "word": "网红局长回应网友避雷尔滨红肠",
-      "onboard_time": 1737519199,
-      "rank": 43,
-      "category": "民生新闻,美食"
-    },
-    {
       "raw_hot": 199975,
       "num": 185116,
       "word": "Jennie专辑配置公开",
@@ -635,20 +707,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 196938,
+      "num": 196938,
+      "word": "胜意死是唯一一件能自己选择的事",
+      "onboard_time": 1737521360,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196020,
       "num": 188355,
       "word": "美籍男子趴出半个身体托举落水老人",
       "onboard_time": 1737468619,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 195625,
-      "num": 323349,
-      "word": "EXO正在准备回归",
-      "onboard_time": 1737519619,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 195382,
@@ -723,12 +795,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 186110,
-      "num": 191690,
-      "word": "中国围棋协会",
-      "onboard_time": 1737520219,
-      "rank": 42,
-      "category": "体育"
+      "raw_hot": 187166,
+      "num": 187166,
+      "word": "iPhone13仍是2024年最火手机",
+      "onboard_time": 1737522561,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 181669,
@@ -859,6 +931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159212,
+      "num": 159212,
+      "word": "高圆圆说的内容只有7080才能懂",
+      "onboard_time": 1737522680,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 156581,
       "num": 156581,
       "word": "Jennie将于3月7日回归",
@@ -873,6 +953,14 @@
       "onboard_time": 1737457819,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154336,
+      "num": 154336,
+      "word": "童年看的铁甲小宝也来拜年了",
+      "onboard_time": 1737522740,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 153262,
@@ -963,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135825,
+      "num": 223693,
+      "word": "美国女孩Kat见到中国好友Simon了",
+      "onboard_time": 1737522021,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 135120,
       "num": 135120,
       "word": "比伯回应取关海莉",
@@ -1011,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124125,
+      "num": 159665,
+      "word": "一次性吃330公斤车厘子才会铁中毒",
+      "onboard_time": 1737521599,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123492,
       "num": 123492,
       "word": "原神超话",
@@ -1043,12 +1147,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 120101,
+      "num": 146258,
+      "word": "孟子义好运卡",
+      "onboard_time": 1737521840,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119099,
       "num": 119099,
       "word": "这样的老公直接挂小黄车吧",
       "onboard_time": 1737502816,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 118143,
+      "num": 146253,
+      "word": "韩国围棋新规去年修改并交付中方",
+      "onboard_time": 1737521720,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 115378,
@@ -1155,14 +1275,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 104328,
-      "num": 101221,
-      "word": "漂白",
-      "onboard_time": 1737438258,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 102971,
       "num": 102971,
       "word": "时代少年团在新音后台也没闲着",
@@ -1193,6 +1305,22 @@
       "onboard_time": 1737463819,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 91903,
+      "num": 188031,
+      "word": "郭麒麟阎鹤祥春节新作",
+      "onboard_time": 1737522139,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 90723,
+      "num": 159392,
+      "word": "马思纯白客黄明昊演一家三口",
+      "onboard_time": 1737523040,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 86481,
@@ -1484,7 +1612,7 @@
     },
     {
       "raw_hot": 28229,
-      "num": 750992,
+      "num": 938872,
       "word": "重温经典 万象更新",
       "onboard_time": 1737517579,
       "rank": 2,
@@ -1585,6 +1713,9 @@
     },
     {
       "word": "#中俄元首举行视频会晤#"
+    },
+    {
+      "word": "#继续引领中俄关系登高望远#"
     }
   ]
 }
