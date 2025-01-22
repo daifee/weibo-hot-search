@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737534532849,
+  "endTime": 1737535324501,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -1707,6 +1707,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 517460,
+      "num": 441439,
+      "word": "王影璐异人之下3疑似被换角",
+      "onboard_time": 1737532937,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 515426,
       "num": 411445,
       "word": "2025春节档预售3天破3亿",
@@ -1769,6 +1777,14 @@
       "onboard_time": 1737437959,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 503366,
+      "num": 463196,
+      "word": "向太给人取名主打一个简单",
+      "onboard_time": 1737525977,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 502011,
@@ -1891,6 +1907,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 469773,
+      "num": 284294,
+      "word": "御赐小仵作",
+      "onboard_time": 1737516438,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 469753,
       "num": 164747,
       "word": "陈奕迅在表演时疑似嗑瓜子",
@@ -1929,14 +1953,6 @@
       "onboard_time": 1737437598,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 463196,
-      "num": 463196,
-      "word": "向太给人取名主打一个简单",
-      "onboard_time": 1737525977,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 462543,
@@ -2041,14 +2057,6 @@
       "onboard_time": 1737328995,
       "rank": 6,
       "category": "国际时政,互联网"
-    },
-    {
-      "raw_hot": 441439,
-      "num": 441439,
-      "word": "王影璐异人之下3疑似被换角",
-      "onboard_time": 1737532937,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 440059,
@@ -2187,12 +2195,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 405888,
-      "num": 284294,
-      "word": "御赐小仵作",
-      "onboard_time": 1737516438,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 410830,
+      "num": 410830,
+      "word": "遭追尾车上3人身亡肇事司机被判3缓5",
+      "onboard_time": 1737533597,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 405472,
@@ -2955,14 +2963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 292622,
-      "num": 292622,
-      "word": "遭追尾车上3人身亡肇事司机被判3缓5",
-      "onboard_time": 1737533597,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 292574,
       "num": 315015,
       "word": "转十个勤天求进取运",
@@ -2977,6 +2977,14 @@
       "onboard_time": 1737395532,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 291027,
+      "num": 246880,
+      "word": "第一个让白鹿欲言又止的人出现了",
+      "onboard_time": 1737531918,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 290731,
@@ -3523,6 +3531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248991,
+      "num": 248991,
+      "word": "肖战说为国为民才是侠之大者",
+      "onboard_time": 1737535158,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 248763,
       "num": 128086,
       "word": "刘宇宁 直播开怼",
@@ -3577,6 +3593,14 @@
       "onboard_time": 1737288679,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243858,
+      "num": 243858,
+      "word": "多位棋手谈柯洁被判负",
+      "onboard_time": 1737533778,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 243558,
@@ -3729,14 +3753,6 @@
       "onboard_time": 1737525859,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 234966,
-      "num": 177177,
-      "word": "第一个让白鹿欲言又止的人出现了",
-      "onboard_time": 1737531918,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 234616,
@@ -3939,6 +3955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 218263,
+      "num": 218263,
+      "word": "恋与深空3.0主题曲",
+      "onboard_time": 1737532698,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 218138,
       "num": 218138,
       "word": "以为是败家孩子结果是学医圣体",
@@ -3969,6 +3993,14 @@
       "onboard_time": 1737290299,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217163,
+      "num": 217163,
+      "word": "外交部回应美计划对中国商品加征关税",
+      "onboard_time": 1737534897,
+      "rank": 21,
+      "category": "国内时政"
     },
     {
       "raw_hot": 217142,
@@ -4715,6 +4747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 192986,
+      "num": 192986,
+      "word": "六部门印发中长期资金入市方案",
+      "onboard_time": 1737535097,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 192869,
       "num": 319550,
       "word": "春运离深高峰来了",
@@ -5108,7 +5148,7 @@
     },
     {
       "raw_hot": 183547,
-      "num": 179846,
+      "num": 181412,
       "word": "动物园回应卖虎尿50元1瓶",
       "onboard_time": 1737526758,
       "rank": 48,
@@ -5169,14 +5209,6 @@
       "onboard_time": 1737377057,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 181375,
-      "num": 181375,
-      "word": "多位棋手谈柯洁被判负",
-      "onboard_time": 1737533778,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 180988,
@@ -5849,6 +5881,14 @@
       "onboard_time": 1737374778,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 163308,
+      "num": 163308,
+      "word": "一个家族盗用12306账号倒票",
+      "onboard_time": 1737533958,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163226,
@@ -6531,6 +6571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149896,
+      "num": 149896,
+      "word": "张远春晚上班拜了一路年",
+      "onboard_time": 1737532638,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149671,
       "num": 149671,
       "word": "土耳其滑雪中心酒店火灾致76人死亡",
@@ -6665,14 +6713,6 @@
       "onboard_time": 1737271397,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146684,
-      "num": 146684,
-      "word": "张远春晚上班拜了一路年",
-      "onboard_time": 1737532638,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 146633,
@@ -7147,6 +7187,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 136577,
+      "num": 136577,
+      "word": "白鹿代露娃合跳feels",
+      "onboard_time": 1737533418,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136401,
       "num": 174898,
       "word": "马思纯白客黄明昊演一家三口",
@@ -7215,14 +7263,6 @@
       "num": 183894,
       "word": "翟欣欣涉嫌敲诈勒索案择期宣判",
       "onboard_time": 1737447499,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 136009,
-      "num": 136009,
-      "word": "一个家族盗用12306账号倒票",
-      "onboard_time": 1737533958,
       "rank": 40,
       "category": "民生新闻"
     },
@@ -7577,6 +7617,14 @@
       "onboard_time": 1737381379,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128890,
+      "num": 128890,
+      "word": "网传存款80万元到期取不出来不实",
+      "onboard_time": 1737535217,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128849,
@@ -7979,6 +8027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122756,
+      "num": 122756,
+      "word": "男生花7百坐101小时硬座回家系虚构",
+      "onboard_time": 1737534798,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122681,
       "num": 122681,
       "word": "Icon复盘Rookie沙皇失误",
@@ -8188,11 +8244,19 @@
     },
     {
       "raw_hot": 118761,
-      "num": 173413,
+      "num": 517499,
       "word": "用甲骨文打开非遗春节",
       "onboard_time": 1737436218,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118731,
+      "num": 118731,
+      "word": "张博恒主持体操队春晚",
+      "onboard_time": 1737535217,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 118672,
@@ -8467,14 +8531,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 113750,
-      "num": 113750,
-      "word": "白鹿代露娃合跳feels",
-      "onboard_time": 1737533418,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 113554,
       "num": 113554,
       "word": "蔡少芬肖战互相喊娘和崽",
@@ -8603,6 +8659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111283,
+      "num": 111283,
+      "word": "麦琳跳不录舞",
+      "onboard_time": 1737535278,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111282,
       "num": 322366,
       "word": "四川公车私用城管被罚取消200元补贴",
@@ -8617,6 +8681,14 @@
       "onboard_time": 1737349819,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 111202,
+      "num": 111202,
+      "word": "丈夫倒卖火车票坐牢妻子又倒票被抓",
+      "onboard_time": 1737535217,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111087,
@@ -10729,6 +10801,14 @@
       "onboard_time": 1737398653,
       "rank": 24,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 37725,
+      "num": 218339,
+      "word": "李现祝大家日进斗金",
+      "onboard_time": 1737535036,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 37538,

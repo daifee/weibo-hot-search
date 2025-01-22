@@ -1,0 +1,410 @@
+{
+  "runTime": 1737535324501,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 920659,
+        "num": 1147305,
+        "word": "赵今麦首位00后三平台破万女演员",
+        "onboard_time": 1737527538,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 628906,
+        "num": 628906,
+        "word": "吃车厘子不要咬破果核",
+        "onboard_time": 1737519499,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 5772,
+        "num": 517499,
+        "word": "用甲骨文打开非遗春节",
+        "onboard_time": 1737436218,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 800101,
+        "num": 496205,
+        "word": "肖战拦着梁家辉自己蹲下",
+        "onboard_time": 1737526577,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 435453,
+        "num": 435453,
+        "word": "柯洁被判负专家解读韩国提子新规",
+        "onboard_time": 1737529219,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 410830,
+        "num": 410830,
+        "word": "遭追尾车上3人身亡肇事司机被判3缓5",
+        "onboard_time": 1737533597,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 517460,
+        "num": 407321,
+        "word": "王影璐异人之下3疑似被换角",
+        "onboard_time": 1737532937,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 503366,
+        "num": 406165,
+        "word": "向太给人取名主打一个简单",
+        "onboard_time": 1737525977,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374334,
+        "num": 374334,
+        "word": "四川一动物园卖虎尿50元1瓶",
+        "onboard_time": 1737527179,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256303,
+        "num": 256303,
+        "word": "中国男孩回应被美国女孩小红书寻人",
+        "onboard_time": 1737528018,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 469773,
+        "num": 253517,
+        "word": "御赐小仵作",
+        "onboard_time": 1737516438,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248991,
+        "num": 248991,
+        "word": "肖战说为国为民才是侠之大者",
+        "onboard_time": 1737535158,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 360653,
+        "num": 248314,
+        "word": "孟子义你们小年吃什么好吃的啦",
+        "onboard_time": 1737531798,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291027,
+        "num": 246880,
+        "word": "第一个让白鹿欲言又止的人出现了",
+        "onboard_time": 1737531918,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263220,
+        "num": 245794,
+        "word": "女子美甲后感染HPV病毒长出菜花",
+        "onboard_time": 1737477796,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273196,
+        "num": 244676,
+        "word": "韩国网友抵制宋慧乔新片",
+        "onboard_time": 1737501735,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 243858,
+        "num": 243858,
+        "word": "多位棋手谈柯洁被判负",
+        "onboard_time": 1737533778,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233354,
+        "num": 233354,
+        "word": "iPhone17Air背板",
+        "onboard_time": 1737511939,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 37725,
+        "num": 218339,
+        "word": "李现祝大家日进斗金",
+        "onboard_time": 1737535036,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218263,
+        "num": 218263,
+        "word": "恋与深空3.0主题曲",
+        "onboard_time": 1737532698,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1006371,
+        "num": 217985,
+        "word": "网红潘宏曾有刑事犯罪记录",
+        "onboard_time": 1737518960,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 217163,
+        "num": 217163,
+        "word": "外交部回应美计划对中国商品加征关税",
+        "onboard_time": 1737534897,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 261139,
+        "num": 211445,
+        "word": "卜凡做道士",
+        "onboard_time": 1737528018,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229510,
+        "num": 208156,
+        "word": "漂白",
+        "onboard_time": 1737522800,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200283,
+        "num": 200283,
+        "word": "一次性吃330公斤车厘子才会铁中毒",
+        "onboard_time": 1737521599,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192986,
+        "num": 192986,
+        "word": "六部门印发中长期资金入市方案",
+        "onboard_time": 1737535097,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 191171,
+        "num": 191171,
+        "word": "任敏古装花仙子造型",
+        "onboard_time": 1737530717,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187936,
+        "num": 187936,
+        "word": "王安宇姚弛内娱古早cp",
+        "onboard_time": 1737530659,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181412,
+        "num": 181412,
+        "word": "动物园回应卖虎尿50元1瓶",
+        "onboard_time": 1737526758,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163308,
+        "num": 163308,
+        "word": "一个家族盗用12306账号倒票",
+        "onboard_time": 1737533958,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161991,
+        "num": 161991,
+        "word": "iPhone13仍是2024年最火手机",
+        "onboard_time": 1737522561,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 161566,
+        "num": 161566,
+        "word": "江西路中房屋主称后悔了",
+        "onboard_time": 1737521119,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152181,
+        "num": 152181,
+        "word": "王嘉尔朱一龙王鹤棣G社生图",
+        "onboard_time": 1737532217,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 149896,
+        "num": 149896,
+        "word": "张远春晚上班拜了一路年",
+        "onboard_time": 1737532638,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149662,
+        "num": 149662,
+        "word": "2025央视网络春晚节目单",
+        "onboard_time": 1737513979,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145575,
+        "num": 145575,
+        "word": "原来9000年前的老祖宗这么高",
+        "onboard_time": 1737525859,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145059,
+        "num": 145059,
+        "word": "导演为了躲彭昱畅搬两次酒店",
+        "onboard_time": 1737516380,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141064,
+        "num": 141064,
+        "word": "科学家将担任中小学科学副校长",
+        "onboard_time": 1737532458,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 31753,
+        "num": 138135,
+        "word": "回家时刻的温暖一面",
+        "onboard_time": 1737531918,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137924,
+        "num": 137924,
+        "word": "印度男子跳瀑布拍晕在水面溺亡",
+        "onboard_time": 1737519798,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 136577,
+        "num": 136577,
+        "word": "白鹿代露娃合跳feels",
+        "onboard_time": 1737533418,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130812,
+        "num": 130812,
+        "word": "春晚特别单曲王菲新歌",
+        "onboard_time": 1737513738,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128890,
+        "num": 128890,
+        "word": "网传存款80万元到期取不出来不实",
+        "onboard_time": 1737535217,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128352,
+        "num": 128352,
+        "word": "花76万买到的260平顶楼复式",
+        "onboard_time": 1737519499,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124890,
+        "num": 124890,
+        "word": "2025白羊座全年开挂",
+        "onboard_time": 1737528379,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40534,
+        "num": 123308,
+        "word": "集齐这三位才是蛇来运转",
+        "onboard_time": 1737533118,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122756,
+        "num": 122756,
+        "word": "男生花7百坐101小时硬座回家系虚构",
+        "onboard_time": 1737534798,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118731,
+        "num": 118731,
+        "word": "张博恒主持体操队春晚",
+        "onboard_time": 1737535217,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111283,
+        "num": 111283,
+        "word": "麦琳跳不录舞",
+        "onboard_time": 1737535278,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111202,
+        "num": 111202,
+        "word": "丈夫倒卖火车票坐牢妻子又倒票被抓",
+        "onboard_time": 1737535217,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#继续引领中俄关系登高望远#"
+    }
+  }
+}
