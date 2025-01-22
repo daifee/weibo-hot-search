@@ -1,0 +1,410 @@
+{
+  "runTime": 1737556765823,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1153527,
+        "num": 1184564,
+        "word": "刘晓庆称下次不去一路繁花了",
+        "onboard_time": 1737553939,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 541643,
+        "num": 541643,
+        "word": "邹市明否认中年返贫",
+        "onboard_time": 1737551898,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39793,
+        "num": 480349,
+        "word": "新疆家庭网络春晚",
+        "onboard_time": 1737552140,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 645650,
+        "num": 471070,
+        "word": "刘畅彻底黑化",
+        "onboard_time": 1737552679,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 452216,
+        "num": 452216,
+        "word": "为什么南北方小年相差一天",
+        "onboard_time": 1737550397,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 420006,
+        "num": 420006,
+        "word": "韩方承认规则不合理但坚持",
+        "onboard_time": 1737542959,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 612509,
+        "num": 369128,
+        "word": "赵今麦00后的黑历史都是高清的",
+        "onboard_time": 1737551539,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 603483,
+        "num": 358690,
+        "word": "国色芳华大结局",
+        "onboard_time": 1737550698,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 312412,
+        "num": 312412,
+        "word": "外交部回应中方更改鲁比奥中文译名",
+        "onboard_time": 1737554119,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 39353,
+        "num": 312185,
+        "word": "长安街春节红灯笼已就位",
+        "onboard_time": 1737556039,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 556966,
+        "num": 305658,
+        "word": "难哄",
+        "onboard_time": 1737548057,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 431968,
+        "num": 302834,
+        "word": "刘烨女儿13岁近照",
+        "onboard_time": 1737546677,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332340,
+        "num": 298624,
+        "word": "常华森 好的阿曦",
+        "onboard_time": 1737551058,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298523,
+        "num": 298523,
+        "word": "寄明月",
+        "onboard_time": 1737550698,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 217300,
+        "num": 217300,
+        "word": "人大代表建议将产假延长至180天",
+        "onboard_time": 1737538578,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 282263,
+        "num": 216518,
+        "word": "央视网文娱评白月梵星",
+        "onboard_time": 1737550038,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214975,
+        "num": 214975,
+        "word": "吃车厘子不要咬破果核",
+        "onboard_time": 1737519499,
+        "rank": 16,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 207138,
+        "num": 207138,
+        "word": "郭艾伦40分",
+        "onboard_time": 1737555620,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167198,
+        "num": 167198,
+        "word": "澳网惊现白鲸回击",
+        "onboard_time": 1737552559,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146530,
+        "num": 167167,
+        "word": "裴擒虎FMVP回城特效优化",
+        "onboard_time": 1737556098,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 355602,
+        "num": 167052,
+        "word": "闺蜜疤痕妊娠女子劝诫反被拉黑",
+        "onboard_time": 1737553939,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325725,
+        "num": 166948,
+        "word": "A股迎特大利好",
+        "onboard_time": 1737555739,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 319056,
+        "num": 166770,
+        "word": "女子酒后催吐将19cm牙刷掉进胃中",
+        "onboard_time": 1737549738,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304715,
+        "num": 166744,
+        "word": "网红潘宏曾有刑事犯罪记录",
+        "onboard_time": 1737518960,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 116166,
+        "num": 166634,
+        "word": "金价再次刷新历史新高",
+        "onboard_time": 1737550937,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 245416,
+        "num": 166506,
+        "word": "漂白",
+        "onboard_time": 1737522800,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232060,
+        "num": 166399,
+        "word": "马丽给登陆少年寄了一车草莓",
+        "onboard_time": 1737555921,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206869,
+        "num": 166261,
+        "word": "李现晒蒋长扬战损腹肌照",
+        "onboard_time": 1737555739,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200698,
+        "num": 166142,
+        "word": "丁禹兮抱熊猫玩偶下班",
+        "onboard_time": 1737556340,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192192,
+        "num": 166020,
+        "word": "白敬亭走了一段异常温暖欣喜的路",
+        "onboard_time": 1737555801,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177710,
+        "num": 165964,
+        "word": "漂白回应抄袭",
+        "onboard_time": 1737556039,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174416,
+        "num": 165761,
+        "word": "女子年终奖发半扇羊赔了1件羽绒服",
+        "onboard_time": 1737537559,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165753,
+        "num": 165753,
+        "word": "总台春晚第四次彩排阵容",
+        "onboard_time": 1737554119,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157918,
+        "num": 157918,
+        "word": "李昀锐秀场说英文",
+        "onboard_time": 1737553160,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157730,
+        "num": 157730,
+        "word": "漂白可以拯救迷雾剧场吗",
+        "onboard_time": 1737543019,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152912,
+        "num": 152912,
+        "word": "周深这件衣服穿了多少年",
+        "onboard_time": 1737550338,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151408,
+        "num": 151408,
+        "word": "德云社封箱",
+        "onboard_time": 1737548057,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149146,
+        "num": 149146,
+        "word": "邪恶车厘子",
+        "onboard_time": 1737541397,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146223,
+        "num": 146223,
+        "word": "50岁老妈做美甲大钻加小钻叠成汉堡",
+        "onboard_time": 1737547158,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 132473,
+        "num": 132473,
+        "word": "联合国公布美国欠款",
+        "onboard_time": 1737540379,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147940,
+        "num": 131192,
+        "word": "肖战说为国为民才是侠之大者",
+        "onboard_time": 1737535158,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140481,
+        "num": 130490,
+        "word": "吴磊不语只是穿大衣硬帅",
+        "onboard_time": 1737550458,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128922,
+        "num": 128922,
+        "word": "国色芳华",
+        "onboard_time": 1737546799,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128443,
+        "num": 128443,
+        "word": "李现男模身材",
+        "onboard_time": 1737551118,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123994,
+        "num": 123994,
+        "word": "郭艾伦连着两场状态爆了",
+        "onboard_time": 1737555680,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123357,
+        "num": 123357,
+        "word": "偶遇佟丽娅带儿子国外度假",
+        "onboard_time": 1737551299,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122225,
+        "num": 122225,
+        "word": "射雕英雄传预售影史第18",
+        "onboard_time": 1737547578,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112079,
+        "num": 112079,
+        "word": "王楚钦孙颖莎与你相约乒乓球亚洲杯",
+        "onboard_time": 1737556639,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108979,
+        "num": 108979,
+        "word": "南北方的小年都会吃什么",
+        "onboard_time": 1737556579,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 107779,
+        "num": 107779,
+        "word": "吉伦沃特 杜锋",
+        "onboard_time": 1737554480,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的新春暖心话#"
+    }
+  }
+}
