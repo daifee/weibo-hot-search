@@ -1,0 +1,410 @@
+{
+  "runTime": 1737511107457,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 556224,
+        "num": 1088995,
+        "word": "王鹤棣在巴黎穿上了道明寺皮肤",
+        "onboard_time": 1737472519,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1045291,
+        "num": 1045291,
+        "word": "武汉一名大学生触碰捕兽电网身亡",
+        "onboard_time": 1737504919,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61845,
+        "num": 337355,
+        "word": "浓浓的年味已经扑面而来",
+        "onboard_time": 1737465919,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298840,
+        "num": 298840,
+        "word": "雨雪或波及全国所有省份",
+        "onboard_time": 1737508158,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277226,
+        "num": 277226,
+        "word": "男生花7百买101小时硬座回家后续",
+        "onboard_time": 1737464720,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398836,
+        "num": 268823,
+        "word": "王鹤棣G社镜头",
+        "onboard_time": 1737509058,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 302546,
+        "num": 264573,
+        "word": "胡歌称深圳没有冬天",
+        "onboard_time": 1737507200,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301923,
+        "num": 262205,
+        "word": "比伯取关了海莉",
+        "onboard_time": 1737471859,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259651,
+        "num": 259651,
+        "word": "警犬福仔班味儿重被扣除年终奖",
+        "onboard_time": 1737507979,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212883,
+        "num": 258607,
+        "word": "今天北方小年",
+        "onboard_time": 1737506361,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1268047,
+        "num": 258159,
+        "word": "韩国网友抵制宋慧乔新片",
+        "onboard_time": 1737501735,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 772864,
+        "num": 257035,
+        "word": "女子美甲后感染HPV病毒长出菜花",
+        "onboard_time": 1737477796,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 736442,
+        "num": 255568,
+        "word": "女子称因未婚生育被取消村集体分红",
+        "onboard_time": 1737507979,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331580,
+        "num": 254985,
+        "word": "王楚然表演欲大爆发",
+        "onboard_time": 1737508219,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254304,
+        "num": 254304,
+        "word": "李昀锐葡萄干变葡萄枝了",
+        "onboard_time": 1737501614,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249576,
+        "num": 249576,
+        "word": "国补后iPhone16成苹果最香机",
+        "onboard_time": 1737453918,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241785,
+        "num": 241785,
+        "word": "3类人吃车厘子需减量",
+        "onboard_time": 1737465020,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228870,
+        "num": 228870,
+        "word": "阿玛尼晒樊振东蛋糕图",
+        "onboard_time": 1737504196,
+        "rank": 17,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 218609,
+        "num": 218609,
+        "word": "沈梦辰国色芳华出场镜头",
+        "onboard_time": 1737501555,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196570,
+        "num": 218604,
+        "word": "日本家喻户晓男星被曝性侵女性",
+        "onboard_time": 1737506660,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 700638,
+        "num": 218531,
+        "word": "潘宏道歉文已获近70万点赞",
+        "onboard_time": 1737493571,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 468143,
+        "num": 218487,
+        "word": "洗发水一定要定期更换",
+        "onboard_time": 1737507979,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 281868,
+        "num": 218443,
+        "word": "夏以昼开门",
+        "onboard_time": 1737508698,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 274325,
+        "num": 218404,
+        "word": "第一批烫发的受害者出现了",
+        "onboard_time": 1737501555,
+        "rank": 23,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 146574,
+        "num": 218361,
+        "word": "樊振东呼吁球迷拒绝饭圈",
+        "onboard_time": 1737508038,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218350,
+        "num": 218350,
+        "word": "胎儿在妈妈肚子里患上阑尾炎",
+        "onboard_time": 1737467299,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198231,
+        "num": 198231,
+        "word": "小年",
+        "onboard_time": 1737501495,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174658,
+        "num": 195536,
+        "word": "白色橄榄树将接档白月梵星",
+        "onboard_time": 1737503838,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140473,
+        "num": 193306,
+        "word": "王菲 春晚",
+        "onboard_time": 1737466459,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133692,
+        "num": 193067,
+        "word": "杨紫祝每个人都能绽放自己的芳华",
+        "onboard_time": 1737505159,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192986,
+        "num": 192986,
+        "word": "中缅泰就铲除妙瓦底电诈窝点达成共识",
+        "onboard_time": 1737472519,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196020,
+        "num": 188355,
+        "word": "美籍男子趴出半个身体托举落水老人",
+        "onboard_time": 1737468619,
+        "rank": 31,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 183033,
+        "num": 183033,
+        "word": "车厘子",
+        "onboard_time": 1737469040,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 166238,
+        "num": 166238,
+        "word": "在业主聚会偶遇乒乓球世界冠军",
+        "onboard_time": 1737510197,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165589,
+        "num": 165589,
+        "word": "男子被火锅烫伤用白糖敷好了",
+        "onboard_time": 1737510678,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163122,
+        "num": 163122,
+        "word": "长江江豚反复把狗尾巴草顶出水面",
+        "onboard_time": 1737509840,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159983,
+        "num": 159983,
+        "word": "土耳其酒店建在悬崖着火灭不掉",
+        "onboard_time": 1737509840,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 149425,
+        "num": 149425,
+        "word": "国补后苹果手机跌破3000",
+        "onboard_time": 1737456018,
+        "rank": 37,
+        "category": "数码,民生新闻"
+      },
+      {
+        "raw_hot": 149288,
+        "num": 149288,
+        "word": "土耳其滑雪中心酒店火灾致76人死亡",
+        "onboard_time": 1737507382,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 128781,
+        "num": 128781,
+        "word": "特朗普解除1000多名拜登政府官员职务",
+        "onboard_time": 1737501614,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125250,
+        "num": 125250,
+        "word": "闪耀暖暖",
+        "onboard_time": 1737508698,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123492,
+        "num": 123492,
+        "word": "原神超话",
+        "onboard_time": 1737510259,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120102,
+        "num": 120102,
+        "word": "奥委会发文为樊振东庆生",
+        "onboard_time": 1737510616,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119723,
+        "num": 119723,
+        "word": "特朗普继续威胁TikTok",
+        "onboard_time": 1737461959,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117900,
+        "num": 117900,
+        "word": "石头赶路",
+        "onboard_time": 1737510738,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114231,
+        "num": 114231,
+        "word": "Doinb谈跪下",
+        "onboard_time": 1737510978,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112526,
+        "num": 112526,
+        "word": "非遗春节大拜年",
+        "onboard_time": 1737510798,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109776,
+        "num": 109776,
+        "word": "朱亚文晒婚戒",
+        "onboard_time": 1737466398,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108040,
+        "num": 108040,
+        "word": "太阳爵士交易",
+        "onboard_time": 1737507979,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107216,
+        "num": 107216,
+        "word": "这样的老公直接挂小黄车吧",
+        "onboard_time": 1737502816,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同普京举行视频会晤#"
+    }
+  }
+}

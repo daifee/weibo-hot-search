@@ -1,6 +1,6 @@
 {
   "startTime": 1737476916141,
-  "endTime": 1737510113653,
+  "endTime": 1737511107457,
   "band_list": [
     {
       "raw_hot": 1458865,
@@ -51,7 +51,7 @@
       "category": "网红"
     },
     {
-      "raw_hot": 625655,
+      "raw_hot": 736442,
       "num": 261934,
       "word": "女子称因未婚生育被取消村集体分红",
       "onboard_time": 1737507979,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 595969,
-      "num": 595969,
+      "num": 1088995,
       "word": "王鹤棣在巴黎穿上了道明寺皮肤",
       "onboard_time": 1737472519,
       "rank": 7,
@@ -73,6 +73,14 @@
       "onboard_time": 1737472519,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 468143,
+      "num": 218487,
+      "word": "洗发水一定要定期更换",
+      "onboard_time": 1737507979,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 461481,
@@ -91,20 +99,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 430502,
-      "num": 207304,
-      "word": "洗发水一定要定期更换",
-      "onboard_time": 1737507979,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 412007,
       "num": 412007,
       "word": "雨雪或波及全国所有省份",
       "onboard_time": 1737508158,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 398836,
+      "num": 293181,
+      "word": "王鹤棣G社镜头",
+      "onboard_time": 1737509058,
+      "rank": 6,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 373789,
@@ -123,11 +131,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 331580,
+      "num": 254985,
+      "word": "王楚然表演欲大爆发",
+      "onboard_time": 1737508219,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 315691,
       "num": 153427,
       "word": "朱亚文晒婚戒",
       "onboard_time": 1737466398,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 302546,
+      "num": 282176,
+      "word": "胡歌称深圳没有冬天",
+      "onboard_time": 1737507200,
+      "rank": 7,
       "category": "艺人"
     },
     {
@@ -139,28 +163,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 293181,
-      "num": 293181,
-      "word": "王鹤棣G社镜头",
-      "onboard_time": 1737509058,
-      "rank": 6,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 284722,
-      "num": 206157,
+      "num": 218404,
       "word": "第一批烫发的受害者出现了",
       "onboard_time": 1737501555,
       "rank": 21,
       "category": "美妆,幽默"
     },
     {
-      "raw_hot": 282176,
-      "num": 282176,
-      "word": "胡歌称深圳没有冬天",
-      "onboard_time": 1737507200,
-      "rank": 7,
-      "category": "艺人"
+      "raw_hot": 281868,
+      "num": 218443,
+      "word": "夏以昼开门",
+      "onboard_time": 1737508698,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 281145,
@@ -196,19 +212,11 @@
     },
     {
       "raw_hot": 266626,
-      "num": 180673,
+      "num": 218350,
       "word": "胎儿在妈妈肚子里患上阑尾炎",
       "onboard_time": 1737467299,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 266281,
-      "num": 181130,
-      "word": "夏以昼开门",
-      "onboard_time": 1737508698,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 261661,
@@ -217,6 +225,22 @@
       "onboard_time": 1737469339,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 259651,
+      "num": 259651,
+      "word": "警犬福仔班味儿重被扣除年终奖",
+      "onboard_time": 1737507979,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254304,
+      "num": 254304,
+      "word": "李昀锐葡萄干变葡萄枝了",
+      "onboard_time": 1737501614,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 250934,
@@ -235,28 +259,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 236802,
-      "num": 236802,
-      "word": "李昀锐葡萄干变葡萄枝了",
-      "onboard_time": 1737501614,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 236011,
       "num": 236011,
       "word": "阿玛尼晒樊振东蛋糕图",
       "onboard_time": 1737504196,
       "rank": 18,
       "category": "体育,作品衍生"
-    },
-    {
-      "raw_hot": 211342,
-      "num": 256939,
-      "word": "警犬福仔班味儿重被扣除年终奖",
-      "onboard_time": 1737507979,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 208378,
@@ -284,11 +292,19 @@
     },
     {
       "raw_hot": 201829,
-      "num": 201829,
+      "num": 218604,
       "word": "日本家喻户晓男星被曝性侵女性",
       "onboard_time": 1737506660,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196020,
+      "num": 188355,
+      "word": "美籍男子趴出半个身体托举落水老人",
+      "onboard_time": 1737468619,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195382,
@@ -308,7 +324,7 @@
     },
     {
       "raw_hot": 191488,
-      "num": 176616,
+      "num": 195536,
       "word": "白色橄榄树将接档白月梵星",
       "onboard_time": 1737503838,
       "rank": 29,
@@ -339,14 +355,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 177075,
-      "num": 177075,
-      "word": "王楚然表演欲大爆发",
-      "onboard_time": 1737508219,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 175796,
       "num": 175796,
       "word": "特朗普解除1000多名拜登政府官员职务",
@@ -363,6 +371,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 166238,
+      "num": 166238,
+      "word": "在业主聚会偶遇乒乓球世界冠军",
+      "onboard_time": 1737510197,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 165589,
+      "num": 165589,
+      "word": "男子被火锅烫伤用白糖敷好了",
+      "onboard_time": 1737510678,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163734,
       "num": 163734,
       "word": "特朗普就职典礼出意外木头姐救场",
@@ -371,20 +395,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 163122,
+      "num": 163122,
+      "word": "长江江豚反复把狗尾巴草顶出水面",
+      "onboard_time": 1737509840,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162927,
-      "num": 162927,
+      "num": 193067,
       "word": "杨紫祝每个人都能绽放自己的芳华",
       "onboard_time": 1737505159,
       "rank": 35,
       "category": "剧集"
     },
     {
-      "raw_hot": 160040,
-      "num": 160040,
-      "word": "美籍男子趴出半个身体托举落水老人",
-      "onboard_time": 1737468619,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 159983,
+      "num": 159983,
+      "word": "土耳其酒店建在悬崖着火灭不掉",
+      "onboard_time": 1737509840,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 156190,
@@ -420,7 +452,7 @@
     },
     {
       "raw_hot": 147583,
-      "num": 147583,
+      "num": 218361,
       "word": "樊振东呼吁球迷拒绝饭圈",
       "onboard_time": 1737508038,
       "rank": 40,
@@ -459,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123492,
+      "num": 123492,
+      "word": "原神超话",
+      "onboard_time": 1737510259,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 123042,
       "num": 123042,
       "word": "李威被警方第三次传唤",
@@ -475,6 +515,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 120102,
+      "num": 120102,
+      "word": "奥委会发文为樊振东庆生",
+      "onboard_time": 1737510616,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119099,
       "num": 119099,
       "word": "这样的老公直接挂小黄车吧",
@@ -483,12 +531,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 116055,
-      "num": 116055,
-      "word": "长江江豚反复把狗尾巴草顶出水面",
-      "onboard_time": 1737509840,
+      "raw_hot": 117900,
+      "num": 117900,
+      "word": "石头赶路",
+      "onboard_time": 1737510738,
       "rank": 44,
-      "category": "民生新闻"
+      "category": "电竞"
     },
     {
       "raw_hot": 115378,
@@ -499,12 +547,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 113885,
-      "num": 113885,
-      "word": "土耳其酒店建在悬崖着火灭不掉",
-      "onboard_time": 1737509840,
+      "raw_hot": 114231,
+      "num": 114231,
+      "word": "Doinb谈跪下",
+      "onboard_time": 1737510978,
       "rank": 45,
-      "category": "海外新闻"
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 112526,
+      "num": 112526,
+      "word": "非遗春节大拜年",
+      "onboard_time": 1737510798,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112084,
@@ -545,6 +601,14 @@
       "onboard_time": 1737507317,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108040,
+      "num": 108040,
+      "word": "太阳爵士交易",
+      "onboard_time": 1737507979,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 107546,
@@ -755,7 +819,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 61605,
+      "raw_hot": 61845,
       "num": 487101,
       "word": "浓浓的年味已经扑面而来",
       "onboard_time": 1737465919,
