@@ -1,6 +1,6 @@
 {
   "startTime": 1737563308947,
-  "endTime": 1737566455250,
+  "endTime": 1737567489172,
   "band_list": [
     {
       "raw_hot": 1344080,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 462509,
-      "num": 212566,
+      "num": 281353,
       "word": "国色芳华大结局",
       "onboard_time": 1737550698,
       "rank": 7,
@@ -283,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105345,
+      "num": 90343,
+      "word": "潘宏曾直播自曝进去过9天",
+      "onboard_time": 1737565515,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 103953,
       "num": 103953,
       "word": "难哄",
@@ -355,14 +363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 80576,
-      "num": 80576,
-      "word": "潘宏曾直播自曝进去过9天",
-      "onboard_time": 1737565515,
-      "rank": 31,
-      "category": "网红"
-    },
-    {
       "raw_hot": 78256,
       "num": 210822,
       "word": "过年模式正在开启",
@@ -419,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69348,
+      "num": 141367,
+      "word": "孩子被护送绕160多道弯回到家",
+      "onboard_time": 1737565815,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61299,
       "num": 61299,
       "word": "中方认为贸易战关税战没有赢家",
@@ -443,12 +451,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33457,
-      "num": 141367,
-      "word": "孩子被护送绕160多道弯回到家",
-      "onboard_time": 1737565815,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 39298,
+      "num": 39298,
+      "word": "漂白可以拯救迷雾剧场吗",
+      "onboard_time": 1737543019,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 35419,
+      "num": 35419,
+      "word": "金价再次刷新历史新高",
+      "onboard_time": 1737550937,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 28751,
@@ -467,6 +483,22 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 20008,
+      "num": 370778,
+      "word": "小年一到年味儿拉满",
+      "onboard_time": 1737551839,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18204,
+      "num": 98839,
+      "word": "2025新春走基层",
+      "onboard_time": 1737567016,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 14236,
       "num": 50368,
       "word": "KPL压岁钱大作战",
@@ -475,7 +507,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 10524,
+      "raw_hot": 12154,
       "num": 99183,
       "word": "郭艾伦连着两场状态爆了",
       "onboard_time": 1737555680,
@@ -483,12 +515,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 9897,
-      "num": 370778,
-      "word": "小年一到年味儿拉满",
-      "onboard_time": 1737551839,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 8664,
+      "num": 64509,
+      "word": "鞭炮太响帮黎深捂住耳朵",
+      "onboard_time": 1737567374,
+      "rank": 24,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
