@@ -1,0 +1,410 @@
+{
+  "runTime": 1737550677505,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 687008,
+        "num": 1109921,
+        "word": "韩方承认规则不合理但坚持",
+        "onboard_time": 1737542959,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 456034,
+        "num": 456034,
+        "word": "难哄",
+        "onboard_time": 1737548057,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13360,
+        "num": 420277,
+        "word": "文化中国行过完小年迎新年",
+        "onboard_time": 1737535758,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418633,
+        "num": 418633,
+        "word": "德云社封箱",
+        "onboard_time": 1737548057,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 464512,
+        "num": 409804,
+        "word": "倪夏莲谈吴柳芳事件",
+        "onboard_time": 1737544578,
+        "rank": 4,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 373891,
+        "num": 373891,
+        "word": "吃车厘子不要咬破果核",
+        "onboard_time": 1737519499,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 349369,
+        "num": 349369,
+        "word": "人大代表建议将产假延长至180天",
+        "onboard_time": 1737538578,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 335364,
+        "num": 335364,
+        "word": "国色芳华超点",
+        "onboard_time": 1737547938,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 334946,
+        "num": 334946,
+        "word": "联合国公布美国欠款",
+        "onboard_time": 1737540379,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 161017,
+        "num": 320034,
+        "word": "王菲春晚新歌MV里有李子柒",
+        "onboard_time": 1737548417,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 899549,
+        "num": 318439,
+        "word": "刘烨女儿13岁近照",
+        "onboard_time": 1737546677,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313653,
+        "num": 313653,
+        "word": "肖战说为国为民才是侠之大者",
+        "onboard_time": 1737535158,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 305555,
+        "num": 305555,
+        "word": "射雕英雄传预售影史第18",
+        "onboard_time": 1737547578,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 303735,
+        "num": 303735,
+        "word": "国色芳华",
+        "onboard_time": 1737546799,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286616,
+        "num": 286616,
+        "word": "漂白",
+        "onboard_time": 1737522800,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180154,
+        "num": 180154,
+        "word": "TES 久酷",
+        "onboard_time": 1737547938,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150903,
+        "num": 150903,
+        "word": "外交部回应美计划对中国商品加征关税",
+        "onboard_time": 1737534897,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 150537,
+        "num": 150537,
+        "word": "王者荣耀",
+        "onboard_time": 1737545899,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123496,
+        "num": 150499,
+        "word": "乡村全面振兴规划印发",
+        "onboard_time": 1737544097,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 99400,
+        "num": 149860,
+        "word": "沈月大梦想家直播",
+        "onboard_time": 1737550159,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 461807,
+        "num": 148974,
+        "word": "邪恶车厘子",
+        "onboard_time": 1737541397,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284532,
+        "num": 148147,
+        "word": "CCTV网络春晚",
+        "onboard_time": 1737546859,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368672,
+        "num": 147777,
+        "word": "网红潘宏曾有刑事犯罪记录",
+        "onboard_time": 1737518960,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 272780,
+        "num": 147243,
+        "word": "女子年终奖发半扇羊赔了1件羽绒服",
+        "onboard_time": 1737537559,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110027,
+        "num": 146209,
+        "word": "eStar捡手机文学现实版",
+        "onboard_time": 1737550578,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 263385,
+        "num": 145616,
+        "word": "50岁老妈做美甲大钻加小钻叠成汉堡",
+        "onboard_time": 1737547158,
+        "rank": 25,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 206614,
+        "num": 145105,
+        "word": "田曦薇张艺凡正是藏不住的年纪",
+        "onboard_time": 1737543498,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198985,
+        "num": 144771,
+        "word": "杨紫李现晒何惟芳蒋长扬大婚照",
+        "onboard_time": 1737537439,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190777,
+        "num": 144103,
+        "word": "被桑延温以凡对视硬控",
+        "onboard_time": 1737549797,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181449,
+        "num": 143146,
+        "word": "央视网文娱评白月梵星",
+        "onboard_time": 1737550038,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133051,
+        "num": 142603,
+        "word": "女子酒后催吐将19cm牙刷掉进胃中",
+        "onboard_time": 1737549738,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163866,
+        "num": 142013,
+        "word": "金智秀solo回归预告",
+        "onboard_time": 1737545718,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157314,
+        "num": 141629,
+        "word": "赵今麦首位00后三平台破万女演员",
+        "onboard_time": 1737527538,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96147,
+        "num": 140723,
+        "word": "第一批聪明的人已领到1500元国补",
+        "onboard_time": 1737549858,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150596,
+        "num": 140179,
+        "word": "周深这件衣服穿了多少年",
+        "onboard_time": 1737550338,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139878,
+        "num": 139878,
+        "word": "CCTV网络春晚节目单",
+        "onboard_time": 1737549319,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76256,
+        "num": 136186,
+        "word": "杨玉环新皮肤特效",
+        "onboard_time": 1737549858,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123039,
+        "num": 134561,
+        "word": "六部门印发中长期资金入市方案",
+        "onboard_time": 1737535097,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 133807,
+        "num": 133807,
+        "word": "潘宏园区宠物托运用生鲜车运宠物致死",
+        "onboard_time": 1737537318,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 133181,
+        "num": 133181,
+        "word": "2025春节档电影片单发布",
+        "onboard_time": 1737540497,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107124,
+        "num": 128587,
+        "word": "警方关停违法违规账号33万余个",
+        "onboard_time": 1737549138,
+        "rank": 40,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 128375,
+        "num": 128375,
+        "word": "宋雨琦春晚彩排蝴蝶结公主头",
+        "onboard_time": 1737544398,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127351,
+        "num": 127351,
+        "word": "吴磊不语只是穿大衣硬帅",
+        "onboard_time": 1737550458,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122169,
+        "num": 122169,
+        "word": "小年",
+        "onboard_time": 1737538219,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120196,
+        "num": 120196,
+        "word": "推动中长期资金入市举措有哪些",
+        "onboard_time": 1737539300,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 115919,
+        "num": 115919,
+        "word": "难哄下证",
+        "onboard_time": 1737538399,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111814,
+        "num": 111814,
+        "word": "最后一次叫你狼队向鱼",
+        "onboard_time": 1737545359,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110183,
+        "num": 110183,
+        "word": "上海男篮vs广东男篮",
+        "onboard_time": 1737550397,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110165,
+        "num": 110165,
+        "word": "宋红玉结局",
+        "onboard_time": 1737540798,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109058,
+        "num": 109058,
+        "word": "梵樾稳定发挥",
+        "onboard_time": 1737550219,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的新春暖心话#"
+    }
+  }
+}

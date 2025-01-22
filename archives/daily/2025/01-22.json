@@ -1,6 +1,6 @@
 {
   "startTime": 1737476916141,
-  "endTime": 1737549743104,
+  "endTime": 1737550677505,
   "band_list": [
     {
       "raw_hot": 1994451,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 964914,
-      "num": 284127,
+      "num": 318439,
       "word": "刘烨女儿13岁近照",
       "onboard_time": 1737546677,
       "rank": 10,
@@ -451,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 456034,
+      "num": 456034,
+      "word": "难哄",
+      "onboard_time": 1737548057,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 450821,
       "num": 450821,
       "word": "多位棋手谈柯洁被判负",
@@ -473,6 +481,14 @@
       "onboard_time": 1737543198,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 418633,
+      "num": 418633,
+      "word": "德云社封箱",
+      "onboard_time": 1737548057,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 412007,
@@ -603,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 349369,
+      "num": 349369,
+      "word": "人大代表建议将产假延长至180天",
+      "onboard_time": 1737538578,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 342879,
       "num": 342879,
       "word": "六部门印发中长期资金入市方案",
@@ -617,6 +641,14 @@
       "onboard_time": 1737531918,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 335364,
+      "num": 335364,
+      "word": "国色芳华超点",
+      "onboard_time": 1737547938,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 331580,
@@ -659,14 +691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 308239,
-      "num": 308239,
-      "word": "德云社封箱",
-      "onboard_time": 1737548057,
-      "rank": 7,
-      "category": "演出"
-    },
-    {
       "raw_hot": 307652,
       "num": 226268,
       "word": "耙耙柑到底怎么读",
@@ -683,6 +707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 305555,
+      "num": 305555,
+      "word": "射雕英雄传预售影史第18",
+      "onboard_time": 1737547578,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 303097,
       "num": 303097,
       "word": "土耳其酒店建在悬崖着火灭不掉",
@@ -697,14 +729,6 @@
       "onboard_time": 1737507200,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 301393,
-      "num": 283653,
-      "word": "人大代表建议将产假延长至180天",
-      "onboard_time": 1737538578,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 300666,
@@ -763,20 +787,20 @@
       "category": "美妆,幽默"
     },
     {
+      "raw_hot": 284532,
+      "num": 264587,
+      "word": "CCTV网络春晚",
+      "onboard_time": 1737546859,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282751,
       "num": 282751,
       "word": "刘诗诗不语只是一味地干饭",
       "onboard_time": 1737535818,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 282187,
-      "num": 282187,
-      "word": "射雕英雄传预售影史第18",
-      "onboard_time": 1737547578,
-      "rank": 12,
-      "category": "电影"
     },
     {
       "raw_hot": 281868,
@@ -809,14 +833,6 @@
       "onboard_time": 1737477735,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 274179,
-      "num": 274179,
-      "word": "国色芳华超点",
-      "onboard_time": 1737547938,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 273750,
@@ -859,12 +875,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 264587,
-      "num": 264587,
-      "word": "CCTV网络春晚",
-      "onboard_time": 1737546859,
-      "rank": 14,
-      "category": "综艺"
+      "raw_hot": 263385,
+      "num": 145616,
+      "word": "50岁老妈做美甲大钻加小钻叠成汉堡",
+      "onboard_time": 1737547158,
+      "rank": 27,
+      "category": "美妆"
     },
     {
       "raw_hot": 261718,
@@ -897,14 +913,6 @@
       "onboard_time": 1737523100,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 257248,
-      "num": 135728,
-      "word": "难哄",
-      "onboard_time": 1737548057,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 256232,
@@ -1025,14 +1033,6 @@
       "onboard_time": 1737544998,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 222278,
-      "num": 134093,
-      "word": "50岁老妈做美甲大钻加小钻叠成汉堡",
-      "onboard_time": 1737547158,
-      "rank": 27,
-      "category": "美妆"
     },
     {
       "raw_hot": 221178,
@@ -1363,6 +1363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190777,
+      "num": 144103,
+      "word": "被桑延温以凡对视硬控",
+      "onboard_time": 1737549797,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190750,
       "num": 190750,
       "word": "兄弟俩将父亲满墙心事搬到线上",
@@ -1409,6 +1417,14 @@
       "onboard_time": 1737508758,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 181449,
+      "num": 143146,
+      "word": "央视网文娱评白月梵星",
+      "onboard_time": 1737550038,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 180900,
@@ -1651,6 +1667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161017,
+      "num": 320034,
+      "word": "王菲春晚新歌MV里有李子柒",
+      "onboard_time": 1737548417,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158642,
       "num": 299350,
       "word": "乡村全面振兴规划印发",
@@ -1803,6 +1827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150596,
+      "num": 140179,
+      "word": "周深这件衣服穿了多少年",
+      "onboard_time": 1737550338,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149993,
       "num": 149993,
       "word": "哪吒来了也得过安检",
@@ -1947,6 +1979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 139878,
+      "num": 139878,
+      "word": "CCTV网络春晚节目单",
+      "onboard_time": 1737549319,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139863,
       "num": 139863,
       "word": "柯洁LG杯决赛总比分1比1被扳平",
@@ -2051,6 +2091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133051,
+      "num": 142603,
+      "word": "女子酒后催吐将19cm牙刷掉进胃中",
+      "onboard_time": 1737549738,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132022,
       "num": 132022,
       "word": "打压式伴侣有多可怕",
@@ -2129,6 +2177,14 @@
       "onboard_time": 1737531077,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127351,
+      "num": 127351,
+      "word": "吴磊不语只是穿大衣硬帅",
+      "onboard_time": 1737550458,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 126405,
@@ -2379,20 +2435,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 111528,
-      "num": 111528,
-      "word": "王菲春晚新歌MV里有李子柒",
-      "onboard_time": 1737548417,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 110218,
       "num": 110218,
       "word": "以士兵无视停火协议射杀儿童",
       "onboard_time": 1737487692,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 110183,
+      "num": 110183,
+      "word": "上海男篮vs广东男篮",
+      "onboard_time": 1737550397,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 110027,
+      "num": 146209,
+      "word": "eStar捡手机文学现实版",
+      "onboard_time": 1737550578,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 109631,
@@ -2419,6 +2483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 109058,
+      "num": 109058,
+      "word": "梵樾稳定发挥",
+      "onboard_time": 1737550219,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108631,
       "num": 108631,
       "word": "小年已至团圆有期",
@@ -2441,6 +2513,14 @@
       "onboard_time": 1737508818,
       "rank": 39,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 107124,
+      "num": 285118,
+      "word": "警方关停违法违规账号33万余个",
+      "onboard_time": 1737549138,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 106977,
@@ -2491,14 +2571,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 101908,
-      "num": 101908,
-      "word": "CCTV网络春晚节目单",
-      "onboard_time": 1737549319,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 101751,
       "num": 101751,
       "word": "国色芳华第二季",
@@ -2523,12 +2595,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 99400,
+      "num": 149860,
+      "word": "沈月大梦想家直播",
+      "onboard_time": 1737550159,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96285,
       "num": 96285,
       "word": "土耳其滑雪度假区酒店火灾66人遇难",
       "onboard_time": 1737463819,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 96147,
+      "num": 140723,
+      "word": "第一批聪明的人已领到1500元国补",
+      "onboard_time": 1737549858,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94204,
@@ -2601,14 +2689,6 @@
       "onboard_time": 1737473779,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 84049,
-      "num": 285118,
-      "word": "警方关停违法违规账号33万余个",
-      "onboard_time": 1737549138,
-      "rank": 9,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 82718,
@@ -2713,6 +2793,14 @@
       "onboard_time": 1737474498,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76256,
+      "num": 136186,
+      "word": "杨玉环新皮肤特效",
+      "onboard_time": 1737549858,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 73084,
@@ -3120,6 +3208,14 @@
       "word": "人事总监安排父母吃空饷",
       "onboard_time": 1737488532,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13360,
+      "num": 420277,
+      "word": "文化中国行过完小年迎新年",
+      "onboard_time": 1737535758,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
