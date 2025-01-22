@@ -1,7 +1,23 @@
 {
   "startTime": 1737476916141,
-  "endTime": 1737502534652,
+  "endTime": 1737510113653,
   "band_list": [
+    {
+      "raw_hot": 1458865,
+      "num": 272229,
+      "word": "韩国网友抵制宋慧乔新片",
+      "onboard_time": 1737501735,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1153022,
+      "num": 1184483,
+      "word": "武汉一名大学生触碰捕兽电网身亡",
+      "onboard_time": 1737504919,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1080888,
       "num": 1080888,
@@ -9,14 +25,6 @@
       "onboard_time": 1737477796,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1015817,
-      "num": 158993,
-      "word": "韩国网友抵制宋慧乔新片",
-      "onboard_time": 1737501735,
-      "rank": 10,
-      "category": "电影"
     },
     {
       "raw_hot": 840926,
@@ -35,20 +43,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 770977,
+      "num": 434438,
+      "word": "潘宏道歉文已获近70万点赞",
+      "onboard_time": 1737493571,
+      "rank": 1,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 625655,
+      "num": 261934,
+      "word": "女子称因未婚生育被取消村集体分红",
+      "onboard_time": 1737507979,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 595969,
+      "num": 595969,
+      "word": "王鹤棣在巴黎穿上了道明寺皮肤",
+      "onboard_time": 1737472519,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 551253,
       "num": 551253,
       "word": "中缅泰就铲除妙瓦底电诈窝点达成共识",
       "onboard_time": 1737472519,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 493855,
-      "num": 434438,
-      "word": "潘宏道歉文已获近70万点赞",
-      "onboard_time": 1737493571,
-      "rank": 1,
-      "category": "网红"
     },
     {
       "raw_hot": 461481,
@@ -67,6 +91,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 430502,
+      "num": 207304,
+      "word": "洗发水一定要定期更换",
+      "onboard_time": 1737507979,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 412007,
+      "num": 412007,
+      "word": "雨雪或波及全国所有省份",
+      "onboard_time": 1737508158,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 373789,
       "num": 373789,
       "word": "赵露思12小时ins点赞破百万",
@@ -83,14 +123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 349532,
-      "num": 349532,
-      "word": "王鹤棣在巴黎穿上了道明寺皮肤",
-      "onboard_time": 1737472519,
-      "rank": 7,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 315691,
       "num": 153427,
       "word": "朱亚文晒婚戒",
@@ -105,6 +137,38 @@
       "onboard_time": 1737461959,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 293181,
+      "num": 293181,
+      "word": "王鹤棣G社镜头",
+      "onboard_time": 1737509058,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 284722,
+      "num": 206157,
+      "word": "第一批烫发的受害者出现了",
+      "onboard_time": 1737501555,
+      "rank": 21,
+      "category": "美妆,幽默"
+    },
+    {
+      "raw_hot": 282176,
+      "num": 282176,
+      "word": "胡歌称深圳没有冬天",
+      "onboard_time": 1737507200,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 281145,
+      "num": 281145,
+      "word": "今天北方小年",
+      "onboard_time": 1737506361,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 277426,
@@ -124,7 +188,7 @@
     },
     {
       "raw_hot": 266950,
-      "num": 149921,
+      "num": 256230,
       "word": "沈梦辰国色芳华出场镜头",
       "onboard_time": 1737501555,
       "rank": 23,
@@ -132,11 +196,19 @@
     },
     {
       "raw_hot": 266626,
-      "num": 152302,
+      "num": 180673,
       "word": "胎儿在妈妈肚子里患上阑尾炎",
       "onboard_time": 1737467299,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 266281,
+      "num": 181130,
+      "word": "夏以昼开门",
+      "onboard_time": 1737508698,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 261661,
@@ -144,6 +216,14 @@
       "word": "砂糖橘吃多了真的会变小黄人",
       "onboard_time": 1737469339,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 250934,
+      "num": 250934,
+      "word": "3类人吃车厘子需减量",
+      "onboard_time": 1737465020,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -155,12 +235,60 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236802,
+      "num": 236802,
+      "word": "李昀锐葡萄干变葡萄枝了",
+      "onboard_time": 1737501614,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 236011,
+      "num": 236011,
+      "word": "阿玛尼晒樊振东蛋糕图",
+      "onboard_time": 1737504196,
+      "rank": 18,
+      "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 211342,
+      "num": 256939,
+      "word": "警犬福仔班味儿重被扣除年终奖",
+      "onboard_time": 1737507979,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208378,
       "num": 208378,
       "word": "胜意自尽",
       "onboard_time": 1737467662,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207523,
+      "num": 207523,
+      "word": "小年",
+      "onboard_time": 1737501495,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 203237,
+      "num": 176964,
+      "word": "闪耀暖暖",
+      "onboard_time": 1737508698,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 201829,
+      "num": 201829,
+      "word": "日本家喻户晓男星被曝性侵女性",
+      "onboard_time": 1737506660,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 195382,
@@ -171,12 +299,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194841,
-      "num": 194841,
-      "word": "小年",
-      "onboard_time": 1737501495,
-      "rank": 12,
-      "category": "情感"
+      "raw_hot": 191514,
+      "num": 181526,
+      "word": "国补后苹果手机跌破3000",
+      "onboard_time": 1737456018,
+      "rank": 18,
+      "category": "数码,民生新闻"
+    },
+    {
+      "raw_hot": 191488,
+      "num": 176616,
+      "word": "白色橄榄树将接档白月梵星",
+      "onboard_time": 1737503838,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 189420,
@@ -187,28 +323,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 187215,
-      "num": 187215,
-      "word": "3类人吃车厘子需减量",
-      "onboard_time": 1737465020,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 186656,
-      "num": 140921,
-      "word": "第一批烫发的受害者出现了",
-      "onboard_time": 1737501555,
-      "rank": 21,
-      "category": "美妆,幽默"
-    },
-    {
-      "raw_hot": 181526,
-      "num": 181526,
-      "word": "国补后苹果手机跌破3000",
-      "onboard_time": 1737456018,
-      "rank": 18,
-      "category": "数码,民生新闻"
+      "raw_hot": 181669,
+      "num": 181669,
+      "word": "阴阳师",
+      "onboard_time": 1737508758,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 179581,
@@ -217,6 +337,22 @@
       "onboard_time": 1737474618,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 177075,
+      "num": 177075,
+      "word": "王楚然表演欲大爆发",
+      "onboard_time": 1737508219,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 175796,
+      "num": 175796,
+      "word": "特朗普解除1000多名拜登政府官员职务",
+      "onboard_time": 1737501614,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 166806,
@@ -233,6 +369,22 @@
       "onboard_time": 1737487451,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 162927,
+      "num": 162927,
+      "word": "杨紫祝每个人都能绽放自己的芳华",
+      "onboard_time": 1737505159,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 160040,
+      "num": 160040,
+      "word": "美籍男子趴出半个身体托举落水老人",
+      "onboard_time": 1737468619,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156190,
@@ -259,6 +411,22 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 149671,
+      "num": 149671,
+      "word": "土耳其滑雪中心酒店火灾致76人死亡",
+      "onboard_time": 1737507382,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 147583,
+      "num": 147583,
+      "word": "樊振东呼吁球迷拒绝饭圈",
+      "onboard_time": 1737508038,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147201,
       "num": 147201,
       "word": "广西2幢违建豪宅无人认领被拆除",
@@ -283,12 +451,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 138249,
-      "num": 138249,
-      "word": "美籍男子趴出半个身体托举落水老人",
-      "onboard_time": 1737468619,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 124620,
+      "num": 124620,
+      "word": "酷云认证的年度爆剧",
+      "onboard_time": 1737509298,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 123042,
@@ -307,12 +475,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 119099,
+      "num": 119099,
+      "word": "这样的老公直接挂小黄车吧",
+      "onboard_time": 1737502816,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 116055,
+      "num": 116055,
+      "word": "长江江豚反复把狗尾巴草顶出水面",
+      "onboard_time": 1737509840,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115378,
       "num": 141147,
       "word": "漂白10集反转",
       "onboard_time": 1737465318,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113885,
+      "num": 113885,
+      "word": "土耳其酒店建在悬崖着火灭不掉",
+      "onboard_time": 1737509840,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 112084,
@@ -323,12 +515,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111706,
+      "num": 111706,
+      "word": "2025第一场寒潮",
+      "onboard_time": 1737506241,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110218,
       "num": 110218,
       "word": "以士兵无视停火协议射杀儿童",
       "onboard_time": 1737487692,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 109631,
+      "num": 109631,
+      "word": "警犬福仔的年终奖是一枚大红花",
+      "onboard_time": 1737505159,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109464,
+      "num": 176212,
+      "word": "小年大年好巳连连",
+      "onboard_time": 1737507317,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107546,
+      "num": 147851,
+      "word": "朱一龙时装周G社生图",
+      "onboard_time": 1737508818,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 106254,
@@ -353,6 +577,14 @@
       "onboard_time": 1737438258,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102971,
+      "num": 102971,
+      "word": "时代少年团在新音后台也没闲着",
+      "onboard_time": 1737509778,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 101751,
@@ -483,14 +715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 76819,
-      "num": 92130,
-      "word": "李昀锐葡萄干变葡萄枝了",
-      "onboard_time": 1737501614,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 76516,
       "num": 141946,
       "word": "刘诗诗曾说好的爱情是彼此用心",
@@ -515,14 +739,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 65119,
-      "num": 65119,
-      "word": "特朗普解除1000多名拜登政府官员职务",
-      "onboard_time": 1737501614,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 63766,
       "num": 79667,
       "word": "漂白恋爱还能干中学",
@@ -539,20 +755,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61605,
+      "num": 487101,
+      "word": "浓浓的年味已经扑面而来",
+      "onboard_time": 1737465919,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58564,
       "num": 130414,
       "word": "朱亚文一张图回应",
       "onboard_time": 1737480194,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 57354,
-      "num": 487101,
-      "word": "浓浓的年味已经扑面而来",
-      "onboard_time": 1737465919,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55404,
