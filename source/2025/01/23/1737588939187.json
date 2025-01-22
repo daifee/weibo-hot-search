@@ -1,0 +1,410 @@
+{
+  "runTime": 1737588939187,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 473416,
+        "num": 878263,
+        "word": "相思令 抠图",
+        "onboard_time": 1737560837,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 441211,
+        "num": 441211,
+        "word": "12岁女孩和73岁阿婆地铁内抢座",
+        "onboard_time": 1737588375,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53126,
+        "num": 386650,
+        "word": "小年一到年味儿拉满",
+        "onboard_time": 1737551839,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380071,
+        "num": 380071,
+        "word": "法国士兵记步数APP泄露核潜艇机密",
+        "onboard_time": 1737561677,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 363334,
+        "num": 363334,
+        "word": "刘晓庆称下次不去一路繁花了",
+        "onboard_time": 1737553939,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218464,
+        "num": 218464,
+        "word": "河南一地要求理发店做空气检测",
+        "onboard_time": 1737580451,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294408,
+        "num": 194333,
+        "word": "肖战 不语",
+        "onboard_time": 1737562577,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165356,
+        "num": 165356,
+        "word": "邹市明否认中年返贫",
+        "onboard_time": 1737551898,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154652,
+        "num": 154652,
+        "word": "中国围棋协会说明",
+        "onboard_time": 1737560720,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66979,
+        "num": 150297,
+        "word": "泽连斯基再次开停火条件",
+        "onboard_time": 1737588375,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 328609,
+        "num": 149558,
+        "word": "江西一商场发生电梯卡人事故",
+        "onboard_time": 1737560358,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300686,
+        "num": 144984,
+        "word": "潘宏曾直播自曝进去过9天",
+        "onboard_time": 1737565515,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 252355,
+        "num": 138837,
+        "word": "沈春阳回应被叫邪恶车厘子",
+        "onboard_time": 1737568693,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135382,
+        "num": 135382,
+        "word": "国色芳华大结局",
+        "onboard_time": 1737550698,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132560,
+        "num": 132560,
+        "word": "孩子被护送绕160多道弯回到家",
+        "onboard_time": 1737565815,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131132,
+        "num": 131132,
+        "word": "韩方承认规则不合理但坚持",
+        "onboard_time": 1737542959,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124373,
+        "num": 124373,
+        "word": "刘晓庆说迟到是去处理危机公关",
+        "onboard_time": 1737559639,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116712,
+        "num": 116712,
+        "word": "刘烨女儿13岁近照",
+        "onboard_time": 1737546677,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106210,
+        "num": 106210,
+        "word": "为什么南北方小年相差一天",
+        "onboard_time": 1737550397,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65796,
+        "num": 90686,
+        "word": "安娜晒与诺一霓娜合照",
+        "onboard_time": 1737585433,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168860,
+        "num": 90569,
+        "word": "闺蜜疤痕妊娠女子劝诫反被拉黑",
+        "onboard_time": 1737553939,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90264,
+        "num": 90264,
+        "word": "外交部回应中方更改鲁比奥中文译名",
+        "onboard_time": 1737554119,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 86392,
+        "num": 86392,
+        "word": "漂白肉联厂F4",
+        "onboard_time": 1737573672,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86244,
+        "num": 86244,
+        "word": "女子年终奖发半扇羊赔了1件羽绒服",
+        "onboard_time": 1737537559,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80780,
+        "num": 80780,
+        "word": "麦琳问李行亮自己还是个好人吗",
+        "onboard_time": 1737563775,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75126,
+        "num": 75126,
+        "word": "棋手称看到柯洁被判负很气愤",
+        "onboard_time": 1737569053,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72888,
+        "num": 72888,
+        "word": "A股迎特大利好",
+        "onboard_time": 1737555739,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 71826,
+        "num": 71826,
+        "word": "墨总统回应特朗普给墨西哥湾改名",
+        "onboard_time": 1737556819,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70576,
+        "num": 70576,
+        "word": "赵今麦00后的黑历史都是高清的",
+        "onboard_time": 1737551539,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68274,
+        "num": 68274,
+        "word": "女子酒后催吐将19cm牙刷掉进胃中",
+        "onboard_time": 1737549738,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67811,
+        "num": 67811,
+        "word": "央视网文娱评白月梵星",
+        "onboard_time": 1737550038,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59700,
+        "num": 59700,
+        "word": "巴黎圣日耳曼4比2曼城",
+        "onboard_time": 1737588315,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59435,
+        "num": 59435,
+        "word": "漂白大结局",
+        "onboard_time": 1737560419,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55792,
+        "num": 55792,
+        "word": "偶遇佟丽娅带儿子国外度假",
+        "onboard_time": 1737551299,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55451,
+        "num": 55451,
+        "word": "肖战电影票房号召力",
+        "onboard_time": 1737559219,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 54964,
+        "num": 54964,
+        "word": "iG股东开团Doinb",
+        "onboard_time": 1737558259,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 52819,
+        "num": 52819,
+        "word": "刘畅彻底黑化",
+        "onboard_time": 1737552679,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50844,
+        "num": 50844,
+        "word": "韩国人理解的围棋只谈胜负",
+        "onboard_time": 1737587294,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48270,
+        "num": 48270,
+        "word": "希然",
+        "onboard_time": 1737559458,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 45349,
+        "num": 45349,
+        "word": "金价再次刷新历史新高",
+        "onboard_time": 1737550937,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 45181,
+        "num": 45181,
+        "word": "马丽给登陆少年寄了一车草莓",
+        "onboard_time": 1737555921,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41752,
+        "num": 41752,
+        "word": "50岁老妈做美甲大钻加小钻叠成汉堡",
+        "onboard_time": 1737547158,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 39201,
+        "num": 39201,
+        "word": "李晨说经常在健身房遇到王俊凯",
+        "onboard_time": 1737562218,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 37795,
+        "num": 37795,
+        "word": "漂白回应抄袭",
+        "onboard_time": 1737556039,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37686,
+        "num": 37686,
+        "word": "王楚钦孙颖莎与你相约乒乓球亚洲杯",
+        "onboard_time": 1737556639,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37389,
+        "num": 37389,
+        "word": "陈梦轻舟已过万重山",
+        "onboard_time": 1737560358,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34837,
+        "num": 37383,
+        "word": "王楚钦加油",
+        "onboard_time": 1737588675,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31758,
+        "num": 37369,
+        "word": "外交部回应美计划对中国商品加征关税",
+        "onboard_time": 1737534897,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31701,
+        "num": 37365,
+        "word": "罗云熙九万字国风舞台",
+        "onboard_time": 1737586273,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29723,
+        "num": 37355,
+        "word": "漂白",
+        "onboard_time": 1737522800,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的新春暖心话#"
+    }
+  }
+}
