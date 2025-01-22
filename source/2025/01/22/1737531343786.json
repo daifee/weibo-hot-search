@@ -1,0 +1,410 @@
+{
+  "runTime": 1737531343786,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1404398,
+        "num": 1404398,
+        "word": "赵今麦首位00后三平台破万女演员",
+        "onboard_time": 1737527538,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 617234,
+        "num": 617234,
+        "word": "吃车厘子不要咬破果核",
+        "onboard_time": 1737519499,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 23223,
+        "num": 304124,
+        "word": "重温经典 万象更新",
+        "onboard_time": 1737517579,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 677638,
+        "num": 301445,
+        "word": "肖战拦着梁家辉自己蹲下",
+        "onboard_time": 1737526577,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 295704,
+        "num": 295704,
+        "word": "iPhone17Air背板",
+        "onboard_time": 1737511939,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 896866,
+        "num": 286647,
+        "word": "四川一动物园卖虎尿50元1瓶",
+        "onboard_time": 1737527179,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401608,
+        "num": 284295,
+        "word": "干中学",
+        "onboard_time": 1737524060,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 344997,
+        "num": 283404,
+        "word": "成都巨型刘亦菲成了网红打卡点",
+        "onboard_time": 1737518600,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274584,
+        "num": 274584,
+        "word": "柯洁被判负专家解读韩国提子新规",
+        "onboard_time": 1737529219,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61185,
+        "num": 270066,
+        "word": "喜随小年至福自团圆来",
+        "onboard_time": 1737527058,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 544998,
+        "num": 269770,
+        "word": "中国男孩回应被美国女孩小红书寻人",
+        "onboard_time": 1737528018,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348622,
+        "num": 269654,
+        "word": "韩国网友抵制宋慧乔新片",
+        "onboard_time": 1737501735,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 268676,
+        "num": 268676,
+        "word": "一次性吃330公斤车厘子才会铁中毒",
+        "onboard_time": 1737521599,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294909,
+        "num": 266987,
+        "word": "女子美甲后感染HPV病毒长出菜花",
+        "onboard_time": 1737477796,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293664,
+        "num": 265630,
+        "word": "春晚特别单曲王菲新歌",
+        "onboard_time": 1737513738,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264040,
+        "num": 264040,
+        "word": "江西路中房屋主称后悔了",
+        "onboard_time": 1737521119,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256119,
+        "num": 256119,
+        "word": "印度男子跳瀑布拍晕在水面溺亡",
+        "onboard_time": 1737519798,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 230648,
+        "num": 230648,
+        "word": "花76万买到的260平顶楼复式",
+        "onboard_time": 1737519499,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213263,
+        "num": 226735,
+        "word": "春晚大赏",
+        "onboard_time": 1737523339,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55545,
+        "num": 226478,
+        "word": "一代人有一代人的接好运仪式",
+        "onboard_time": 1737530239,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1141343,
+        "num": 226402,
+        "word": "网红潘宏曾有刑事犯罪记录",
+        "onboard_time": 1737518960,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 226252,
+        "num": 226252,
+        "word": "王楚然吃面面受轻伤",
+        "onboard_time": 1737511516,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 495717,
+        "num": 226156,
+        "word": "卜凡做道士",
+        "onboard_time": 1737528018,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373251,
+        "num": 225392,
+        "word": "导演为了躲彭昱畅搬两次酒店",
+        "onboard_time": 1737516380,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113784,
+        "num": 224533,
+        "word": "沈星回你今年不是一个人过年",
+        "onboard_time": 1737530957,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 235591,
+        "num": 224143,
+        "word": "原来9000年前的老祖宗这么高",
+        "onboard_time": 1737525859,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226778,
+        "num": 222944,
+        "word": "演的是赵今麦 害怕的是我",
+        "onboard_time": 1737521899,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222744,
+        "num": 222744,
+        "word": "陆毅说胡彦斌你让我哭",
+        "onboard_time": 1737525559,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221057,
+        "num": 221057,
+        "word": "任敏古装花仙子造型",
+        "onboard_time": 1737530717,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 220016,
+        "num": 220016,
+        "word": "漂白",
+        "onboard_time": 1737522800,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196138,
+        "num": 196138,
+        "word": "王安宇姚弛内娱古早cp",
+        "onboard_time": 1737530659,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187013,
+        "num": 187013,
+        "word": "客人在火锅店纸巾盒里藏钱",
+        "onboard_time": 1737526039,
+        "rank": 31,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 186652,
+        "num": 186652,
+        "word": "张帅祝樊振东生日快乐",
+        "onboard_time": 1737530178,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180900,
+        "num": 180900,
+        "word": "2025白羊座全年开挂",
+        "onboard_time": 1737528379,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180529,
+        "num": 180529,
+        "word": "2025央视网络春晚节目单",
+        "onboard_time": 1737513979,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179846,
+        "num": 179846,
+        "word": "动物园回应卖虎尿50元1瓶",
+        "onboard_time": 1737526758,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166658,
+        "num": 166658,
+        "word": "代露娃回应晋江式演技",
+        "onboard_time": 1737511996,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161506,
+        "num": 161506,
+        "word": "肖战给阿如那捏肩",
+        "onboard_time": 1737529759,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151863,
+        "num": 151863,
+        "word": "向太给人取名主打一个简单",
+        "onboard_time": 1737525977,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145632,
+        "num": 145632,
+        "word": "iPhone13仍是2024年最火手机",
+        "onboard_time": 1737522561,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 143101,
+        "num": 143101,
+        "word": "骄阳似我",
+        "onboard_time": 1737526519,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131979,
+        "num": 131979,
+        "word": "豹豹猫猫见面",
+        "onboard_time": 1737514458,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131887,
+        "num": 131887,
+        "word": "王楚钦亚洲杯见",
+        "onboard_time": 1737530300,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131724,
+        "num": 131724,
+        "word": "美国女孩Kat见到中国好友Simon了",
+        "onboard_time": 1737522021,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130153,
+        "num": 130153,
+        "word": "潘宏基地被质疑狗屎堆积环境差",
+        "onboard_time": 1737527840,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 127393,
+        "num": 127393,
+        "word": "孟子义昭昭如愿除烦恼",
+        "onboard_time": 1737531077,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127101,
+        "num": 127101,
+        "word": "御赐小仵作",
+        "onboard_time": 1737516438,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123619,
+        "num": 123619,
+        "word": "恋与深空强制下线",
+        "onboard_time": 1737520039,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122101,
+        "num": 122101,
+        "word": "漯河舰交接入列",
+        "onboard_time": 1737512719,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121900,
+        "num": 121900,
+        "word": "其实睡不着的是张怀民",
+        "onboard_time": 1737529698,
+        "rank": 49,
+        "category": "读书作家"
+      }
+    ],
+    "hotgov": {
+      "word": "#继续引领中俄关系登高望远#"
+    }
+  }
+}
