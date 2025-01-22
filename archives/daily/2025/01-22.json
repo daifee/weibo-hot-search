@@ -1,6 +1,6 @@
 {
   "startTime": 1737476916141,
-  "endTime": 1737541306139,
+  "endTime": 1737542370007,
   "band_list": [
     {
       "raw_hot": 1994451,
@@ -81,6 +81,14 @@
       "onboard_time": 1737511516,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 979352,
+      "num": 1156696,
+      "word": "联合国公布美国欠款",
+      "onboard_time": 1737540379,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 965163,
@@ -299,6 +307,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 537829,
+      "num": 306921,
+      "word": "潘宏园区宠物托运用生鲜车运宠物致死",
+      "onboard_time": 1737537318,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 517460,
       "num": 441439,
       "word": "王影璐异人之下3疑似被换角",
@@ -353,14 +369,6 @@
       "onboard_time": 1737536418,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 479411,
-      "num": 306921,
-      "word": "潘宏园区宠物托运用生鲜车运宠物致死",
-      "onboard_time": 1737537318,
-      "rank": 33,
-      "category": "网红"
     },
     {
       "raw_hot": 476824,
@@ -531,6 +539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 359447,
+      "num": 288221,
+      "word": "祝绪丹花神",
+      "onboard_time": 1737539239,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 356168,
       "num": 859504,
       "word": "男生花7百买101小时硬座回家后续",
@@ -649,14 +665,6 @@
       "onboard_time": 1737512719,
       "rank": 5,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 287157,
-      "num": 287157,
-      "word": "联合国公布美国欠款",
-      "onboard_time": 1737540379,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 285837,
@@ -779,14 +787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 257991,
-      "num": 257991,
-      "word": "祝绪丹花神",
-      "onboard_time": 1737539239,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 255730,
       "num": 255730,
       "word": "恋与深空全球用户突破5000万",
@@ -851,6 +851,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 236092,
+      "num": 236092,
+      "word": "邪恶车厘子",
+      "onboard_time": 1737541397,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236011,
       "num": 236011,
       "word": "阿玛尼晒樊振东蛋糕图",
@@ -873,6 +881,14 @@
       "onboard_time": 1737536238,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 233676,
+      "num": 201965,
+      "word": "丁禹兮春晚红色西装造型",
+      "onboard_time": 1737540438,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 228316,
@@ -1027,14 +1043,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 201965,
-      "num": 201965,
-      "word": "丁禹兮春晚红色西装造型",
-      "onboard_time": 1737540438,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 199975,
       "num": 185116,
       "word": "Jennie专辑配置公开",
@@ -1089,6 +1097,14 @@
       "onboard_time": 1737538219,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193150,
+      "num": 193150,
+      "word": "猫咪撞猫后肇事逃逸",
+      "onboard_time": 1737539178,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 193022,
@@ -1179,6 +1195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186082,
+      "num": 201521,
+      "word": "人大代表建议将产假延长至180天",
+      "onboard_time": 1737538578,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 181669,
       "num": 181669,
       "word": "阴阳师",
@@ -1259,6 +1283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 175681,
+      "num": 170095,
+      "word": "吴昕的抽象照都是何炅拍的",
+      "onboard_time": 1737541937,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175082,
       "num": 175082,
       "word": "一个家族盗用12306账号倒票",
@@ -1281,6 +1313,14 @@
       "onboard_time": 1737537139,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170066,
+      "num": 193655,
+      "word": "躲雨的樊振东12年后成了C位",
+      "onboard_time": 1737540678,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 168710,
@@ -1337,14 +1377,6 @@
       "onboard_time": 1737519860,
       "rank": 46,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 165122,
-      "num": 165122,
-      "word": "猫咪撞猫后肇事逃逸",
-      "onboard_time": 1737539178,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 165009,
@@ -1437,10 +1469,10 @@
     {
       "raw_hot": 155908,
       "num": 155908,
-      "word": "人大代表建议将产假延长至180天",
-      "onboard_time": 1737538578,
-      "rank": 49,
-      "category": "国内时政"
+      "word": "杨紫工作室送2025新年礼盒",
+      "onboard_time": 1737538998,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 154954,
@@ -1449,6 +1481,14 @@
       "onboard_time": 1737530300,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154710,
+      "num": 154710,
+      "word": "侦探团收到了大侦探的回家礼物",
+      "onboard_time": 1737541878,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 154336,
@@ -1464,14 +1504,6 @@
       "word": "让陈梦说不出口的昵称是什么",
       "onboard_time": 1737524239,
       "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 153939,
-      "num": 153939,
-      "word": "躲雨的樊振东12年后成了C位",
-      "onboard_time": 1737540678,
-      "rank": 37,
       "category": "体育"
     },
     {
@@ -1603,6 +1635,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 145069,
+      "num": 145069,
+      "word": "宋红玉结局",
+      "onboard_time": 1737540798,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142745,
       "num": 136134,
       "word": "春节档电影最想看哪部",
@@ -1633,14 +1673,6 @@
       "onboard_time": 1737510978,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 141027,
-      "num": 141027,
-      "word": "宋红玉结局",
-      "onboard_time": 1737540798,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 140767,
@@ -1740,7 +1772,7 @@
     },
     {
       "raw_hot": 133954,
-      "num": 133954,
+      "num": 176764,
       "word": "2025春节档电影片单发布",
       "onboard_time": 1737540497,
       "rank": 44,
@@ -1807,14 +1839,6 @@
       "num": 128631,
       "word": "陈宝玉何黛玉纯爱cp上桌了",
       "onboard_time": 1737523339,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 128329,
-      "num": 128329,
-      "word": "杨紫工作室送2025新年礼盒",
-      "onboard_time": 1737538998,
       "rank": 46,
       "category": "剧集"
     },
@@ -1891,6 +1915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 123161,
+      "num": 123161,
+      "word": "王子奇一番",
+      "onboard_time": 1737542238,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123142,
       "num": 197548,
       "word": "樊振东希望大家远离饭圈戾气",
@@ -1913,6 +1945,14 @@
       "onboard_time": 1737529698,
       "rank": 49,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 121156,
+      "num": 121156,
+      "word": "嫦娥器灵落星盏新皮肤",
+      "onboard_time": 1737542057,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 121083,
@@ -1993,6 +2033,14 @@
       "onboard_time": 1737465318,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115154,
+      "num": 115154,
+      "word": "小年夜",
+      "onboard_time": 1737541638,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113988,
@@ -2081,6 +2129,14 @@
       "onboard_time": 1737507317,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109239,
+      "num": 109239,
+      "word": "求求一笙别虐了",
+      "onboard_time": 1737541577,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 108040,
@@ -2611,12 +2667,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 26939,
+      "num": 202560,
+      "word": "王鹤棣春晚大赏小卡",
+      "onboard_time": 1737541518,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 24838,
       "num": 24838,
       "word": "想飞的女孩入围柏林主竞赛",
       "onboard_time": 1737483073,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 24586,
+      "num": 147309,
+      "word": "鲍鱼炒芥蓝",
+      "onboard_time": 1737541700,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 24569,

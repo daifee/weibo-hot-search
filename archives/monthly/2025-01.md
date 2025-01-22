@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/22 18:21:46
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/22 18:39:30
 </p>
 </blockquote>
 <p>
@@ -3813,6 +3813,12 @@ R1SE合体（热度：994873）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E5%85%AC%E5%B8%83%E7%BE%8E%E5%9B%BD%E6%AC%A0%E6%AC%BE%23" target="weibo">
+联合国公布美国欠款（热度：979352）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BA%A6%E7%90%B3%E5%A5%BD%E5%8F%8B%E5%86%8D%E5%8F%91%E5%A3%B0%23" target="weibo">
 麦琳好友再发声（热度：977243）
 </a>
@@ -6005,12 +6011,6 @@ SM新女团 SMTOWN压轴（热度：743773）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E8%A2%AB%E5%88%BA4%E5%88%80%E7%89%BA%E7%89%B2%E5%89%8D%E7%94%BB%E9%9D%A2%E7%9C%8B%E5%BE%97%E5%BF%83%E7%97%9B%23" target="weibo">
 民警被刺4刀牺牲前画面看得心痛（热度：712398）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%96%B9%E6%AD%A3%E8%80%83%E8%99%91%E7%A6%81%E6%AD%A2%E4%B8%AD%E5%9B%BD%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%BF%9B%E5%85%A5%E7%BE%8E%E5%9B%BD%23" target="weibo">
-美方正考虑禁止中国无人机进入美国（热度：708651）
 </a>
 </li>
 
