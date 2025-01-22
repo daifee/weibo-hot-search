@@ -1,14 +1,22 @@
 {
   "startTime": 1737476916141,
-  "endTime": 1737517195634,
+  "endTime": 1737519996098,
   "band_list": [
     {
       "raw_hot": 1458865,
-      "num": 284632,
+      "num": 288961,
       "word": "韩国网友抵制宋慧乔新片",
       "onboard_time": 1737501735,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1429013,
+      "num": 494691,
+      "word": "导演为了躲彭昱畅搬两次酒店",
+      "onboard_time": 1737516380,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1335596,
@@ -27,12 +35,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1121141,
+      "num": 1179382,
+      "word": "成都巨型刘亦菲成了网红打卡点",
+      "onboard_time": 1737518600,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1116668,
       "num": 1116668,
       "word": "柯洁决赛",
       "onboard_time": 1737515058,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1109330,
+      "num": 290106,
+      "word": "网红潘宏曾有刑事犯罪记录",
+      "onboard_time": 1737518960,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 1080888,
@@ -60,7 +84,7 @@
     },
     {
       "raw_hot": 962735,
-      "num": 221354,
+      "num": 275459,
       "word": "男子被火锅烫伤用白糖敷好了",
       "onboard_time": 1737510678,
       "rank": 34,
@@ -73,6 +97,14 @@
       "onboard_time": 1737469040,
       "rank": 0,
       "category": "美食"
+    },
+    {
+      "raw_hot": 833909,
+      "num": 833909,
+      "word": "柯洁判负",
+      "onboard_time": 1737518119,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 809038,
@@ -107,14 +139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 635715,
-      "num": 298170,
-      "word": "导演为了躲彭昱畅搬两次酒店",
-      "onboard_time": 1737516380,
-      "rank": 6,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 613549,
       "num": 420666,
       "word": "御赐小仵作2回归官宣",
@@ -140,7 +164,7 @@
     },
     {
       "raw_hot": 553081,
-      "num": 220999,
+      "num": 520691,
       "word": "iPhone17Air背板",
       "onboard_time": 1737511939,
       "rank": 22,
@@ -153,6 +177,22 @@
       "onboard_time": 1737472519,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 507418,
+      "num": 282919,
+      "word": "肖战一出场就有郭靖的感觉",
+      "onboard_time": 1737517459,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 476824,
+      "num": 277416,
+      "word": "豹豹猫猫见面",
+      "onboard_time": 1737514458,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 468143,
@@ -179,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 440888,
+      "num": 440888,
+      "word": "加拿大采购中国无人机监控加美边境",
+      "onboard_time": 1737517878,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 412007,
       "num": 412007,
       "word": "雨雪或波及全国所有省份",
@@ -193,6 +241,14 @@
       "onboard_time": 1737509058,
       "rank": 6,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 381886,
+      "num": 279072,
+      "word": "麦琳带火李行亮滞销专辑",
+      "onboard_time": 1737518300,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 380281,
@@ -243,8 +299,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 309915,
+      "num": 235798,
+      "word": "花76万买到的260平顶楼复式",
+      "onboard_time": 1737519499,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 307652,
-      "num": 208140,
+      "num": 226268,
       "word": "耙耙柑到底怎么读",
       "onboard_time": 1737513080,
       "rank": 26,
@@ -267,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300666,
+      "num": 251472,
+      "word": "任嘉伦黑粉被强执1.5万",
+      "onboard_time": 1737516318,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 298898,
       "num": 245114,
       "word": "特朗普继续威胁TikTok",
@@ -281,6 +353,14 @@
       "onboard_time": 1737501555,
       "rank": 21,
       "category": "美妆,幽默"
+    },
+    {
+      "raw_hot": 284392,
+      "num": 284392,
+      "word": "漯河舰交接入列",
+      "onboard_time": 1737512719,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 281868,
@@ -299,12 +379,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 279465,
-      "num": 282043,
-      "word": "漯河舰交接入列",
-      "onboard_time": 1737512719,
-      "rank": 5,
-      "category": "国内时政"
+      "raw_hot": 279315,
+      "num": 237359,
+      "word": "网络春晚节目单",
+      "onboard_time": 1737516318,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 277426,
@@ -323,20 +403,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 275141,
-      "num": 211603,
-      "word": "豹豹猫猫见面",
-      "onboard_time": 1737514458,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 273750,
       "num": 210400,
       "word": "李行亮哄麦琳熟练得让人心疼",
       "onboard_time": 1737516380,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 271717,
+      "num": 271717,
+      "word": "围棋",
+      "onboard_time": 1737517219,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 266950,
@@ -379,14 +459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 251472,
-      "num": 251472,
-      "word": "任嘉伦黑粉被强执1.5万",
-      "onboard_time": 1737516318,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 250934,
       "num": 250934,
       "word": "3类人吃车厘子需减量",
@@ -403,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238614,
+      "num": 238614,
+      "word": "柯洁再次提子未放盒盖上",
+      "onboard_time": 1737518721,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 236011,
       "num": 236011,
       "word": "阿玛尼晒樊振东蛋糕图",
@@ -411,12 +491,12 @@
       "category": "体育,作品衍生"
     },
     {
-      "raw_hot": 223302,
-      "num": 223302,
-      "word": "网络春晚节目单",
-      "onboard_time": 1737516318,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 228316,
+      "num": 228316,
+      "word": "朱亚文戴戒指的手",
+      "onboard_time": 1737519079,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 213615,
@@ -425,6 +505,14 @@
       "onboard_time": 1737512778,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213005,
+      "num": 213005,
+      "word": "蛇年宝宝的本命年好长啊",
+      "onboard_time": 1737517518,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 212294,
@@ -441,6 +529,14 @@
       "onboard_time": 1737467662,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207562,
+      "num": 207562,
+      "word": "以为是败家孩子结果是学医圣体",
+      "onboard_time": 1737519499,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 207523,
@@ -483,6 +579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 196022,
+      "num": 196022,
+      "word": "印度男子跳瀑布拍晕在水面溺亡",
+      "onboard_time": 1737519798,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 196020,
       "num": 188355,
       "word": "美籍男子趴出半个身体托举落水老人",
@@ -497,6 +601,14 @@
       "onboard_time": 1737456677,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194460,
+      "num": 260832,
+      "word": "向佐名场面一个接一个",
+      "onboard_time": 1737518538,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 193022,
@@ -547,6 +659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 181023,
+      "num": 181023,
+      "word": "杜海涛庆祝沈梦辰国色芳华登场",
+      "onboard_time": 1737518180,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179581,
       "num": 179581,
       "word": "无畏打野",
@@ -571,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175915,
+      "num": 175915,
+      "word": "网红局长回应网友避雷尔滨红肠",
+      "onboard_time": 1737519199,
+      "rank": 43,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 175796,
       "num": 175796,
       "word": "特朗普解除1000多名拜登政府官员职务",
@@ -579,12 +707,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 175557,
+      "num": 175557,
+      "word": "肖战美术生爆改武术生",
+      "onboard_time": 1737519860,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 173576,
       "num": 198906,
       "word": "回到唐人街MV记录十年唐探",
       "onboard_time": 1737513498,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 173059,
+      "num": 247521,
+      "word": "狼队转会期说明",
+      "onboard_time": 1737519798,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 168702,
@@ -611,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166254,
+      "num": 166254,
+      "word": "吃车厘子不要咬破果核",
+      "onboard_time": 1737519499,
+      "rank": 45,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 166238,
       "num": 166238,
       "word": "在业主聚会偶遇乒乓球世界冠军",
@@ -619,12 +771,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165738,
+      "num": 165738,
+      "word": "国漫一年到头都在going我",
+      "onboard_time": 1737519860,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 165009,
       "num": 165009,
       "word": "射雕预售票房破1.5亿",
       "onboard_time": 1737512657,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 164129,
+      "num": 273864,
+      "word": "易烊千玺赴约国家天文台",
+      "onboard_time": 1737518479,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 163734,
@@ -673,6 +841,14 @@
       "onboard_time": 1737499754,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152929,
+      "num": 152929,
+      "word": "孟子义说不出感谢坎坷这种话",
+      "onboard_time": 1737519739,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 150728,
@@ -769,6 +945,22 @@
       "onboard_time": 1737510738,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 125858,
+      "num": 292456,
+      "word": "一起相约2025网络视听盛典",
+      "onboard_time": 1737519019,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 124734,
+      "num": 264264,
+      "word": "EXO正在准备回归",
+      "onboard_time": 1737519619,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 124620,
@@ -897,6 +1089,14 @@
       "onboard_time": 1737472939,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106126,
+      "num": 242433,
+      "word": "偶遇郭俊辰回老家",
+      "onboard_time": 1737517640,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 105829,
@@ -1075,6 +1275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 70093,
+      "num": 278166,
+      "word": "过年回家被白象治愈了",
+      "onboard_time": 1737518180,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69923,
       "num": 79654,
       "word": "射雕英雄传大年初一预售票房破亿",
@@ -1219,6 +1427,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 24926,
+      "num": 750992,
+      "word": "重温经典 万象更新",
+      "onboard_time": 1737517579,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24838,
       "num": 24838,
       "word": "想飞的女孩入围柏林主竞赛",
@@ -1310,6 +1526,9 @@
   "hotgov_list": [
     {
       "word": "#习近平同普京举行视频会晤#"
+    },
+    {
+      "word": "#中俄元首举行视频会晤#"
     }
   ]
 }
