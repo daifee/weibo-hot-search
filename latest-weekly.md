@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/19 00:24:27 ~ 2025/01/23 01:38:09
+本榜单时间：2025/01/19 00:24:27 ~ 2025/01/23 02:31:09
 </p>
 </blockquote>
 <p>
@@ -3233,6 +3233,12 @@ TikTok公司表示白宫无保证平台只能关（热度：232827）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%84%E9%9B%95%E8%8B%B1%E9%9B%84%E4%BC%A0%E9%A2%84%E5%94%AE%E7%A5%A8%E6%88%BF%E7%A0%B41%E4%BA%BF%23" target="weibo">
 射雕英雄传预售票房破1亿（热度：230716）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BD%98%E5%AE%8F%E6%9B%BE%E7%9B%B4%E6%92%AD%E8%87%AA%E6%9B%9D%E8%BF%9B%E5%8E%BB%E8%BF%879%E5%A4%A9%23" target="weibo">
+潘宏曾直播自曝进去过9天（热度：230085）
 </a>
 </li>
 
@@ -7719,12 +7725,6 @@ eStar捡手机文学现实版（热度：110027）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%BD%98%E5%AE%8F%E6%9B%BE%E7%9B%B4%E6%92%AD%E8%87%AA%E6%9B%9D%E8%BF%9B%E5%8E%BB%E8%BF%879%E5%A4%A9%23" target="weibo">
-潘宏曾直播自曝进去过9天（热度：105345）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%9A%E8%A1%8C%E6%97%B6%E9%97%B4%E4%BB%8E2%E5%B0%8F%E6%97%B6%E7%BC%A9%E7%9F%AD%E5%88%B02%E5%88%86%E9%92%9F%23" target="weibo">
 通行时间从2小时缩短到2分钟（热度：105342）
 </a>
@@ -8469,6 +8469,12 @@ Doinb说LPL会好起来的（热度：79124）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E8%A2%AB%E6%8A%A4%E9%80%81%E7%BB%95160%E5%A4%9A%E9%81%93%E5%BC%AF%E5%9B%9E%E5%88%B0%E5%AE%B6%23" target="weibo">
+孩子被护送绕160多道弯回到家（热度：77758）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A6%81%E5%BC%BA%E5%8C%96%E9%AB%98%E4%B8%AD%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%95%99%E5%B8%88%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E4%BF%9D%E9%9A%9C%23" target="weibo">
 要强化高中幼儿园教师工资待遇保障（热度：77645）
 </a>
@@ -8615,12 +8621,6 @@ Rookie参加solo选边（热度：76365）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%A2%E7%A5%A8%E5%8A%A0%E9%80%9F%E5%8D%A1%E7%9A%84%E5%B0%BD%E5%A4%B4%E8%BF%98%E6%98%AF12306%23" target="weibo">
 抢票加速卡的尽头还是12306（热度：69913）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E8%A2%AB%E6%8A%A4%E9%80%81%E7%BB%95160%E5%A4%9A%E9%81%93%E5%BC%AF%E5%9B%9E%E5%88%B0%E5%AE%B6%23" target="weibo">
-孩子被护送绕160多道弯回到家（热度：69348）
 </a>
 </li>
 
@@ -9225,6 +9225,12 @@ Doinb用FPX李青皮肤（热度：52258）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%98%A5%E9%98%B3%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%8F%AB%E9%82%AA%E6%81%B6%E8%BD%A6%E5%8E%98%E5%AD%90%23" target="weibo">
+沈春阳回应被叫邪恶车厘子（热度：36484）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E7%BA%B3%E6%99%8B%E7%BA%A7%E6%BE%B3%E7%BD%91%E5%9B%9B%E5%BC%BA%23" target="weibo">
 辛纳晋级澳网四强（热度：36237）
 </a>
@@ -9263,6 +9269,12 @@ g社拍的马龙（热度：35959）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23TF%E5%AE%B6%E6%97%8F%E5%87%BA%E5%9B%BE%23" target="weibo">
 TF家族出图（热度：34930）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A3%8B%E6%89%8B%E7%A7%B0%E7%9C%8B%E5%88%B0%E6%9F%AF%E6%B4%81%E8%A2%AB%E5%88%A4%E8%B4%9F%E5%BE%88%E6%B0%94%E6%84%A4%23" target="weibo">
+棋手称看到柯洁被判负很气愤（热度：34616）
 </a>
 </li>
 
@@ -9411,6 +9423,12 @@ chiikawa乌萨奇角色介绍（热度：29229）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E7%9F%AD%E5%8F%91%E5%85%AD%E5%AE%AB%E6%A0%BC%23" target="weibo">
+孟子义短发六宫格（热度：28189）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232025LPL%E7%BE%A4%E8%AE%BF%23" target="weibo">
 2025LPL群访（热度：27889）
 </a>
@@ -9479,6 +9497,12 @@ chiikawa乌萨奇角色介绍（热度：29229）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E7%89%88%E4%B8%9C%E9%A3%8E%E5%A4%9C%E6%94%BE%E8%8A%B1%E5%8D%83%E6%A0%91%23" target="weibo">
 解放军版东风夜放花千树（热度：25247）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%A4%9A%E4%BC%A6%E5%A4%9A%E5%8A%A0%E5%9C%BA%23" target="weibo">
+周深多伦多加场（热度：25123）
 </a>
 </li>
 
@@ -9711,6 +9735,12 @@ G社镜头下的王鹤棣道明寺皮肤（热度：22822）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E4%BE%A6%E5%8A%9E%E7%BD%91%E7%BB%9C%E6%9A%B4%E5%8A%9B%E6%A1%88%E4%BB%B68000%E4%BD%99%E8%B5%B7%23" target="weibo">
+警方侦办网络暴力案件8000余起（热度：15332）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%E7%9F%AD%E5%89%A7%E6%98%A5%E8%8A%82%E6%A1%A3%23" target="weibo">
 腾讯视频短剧春节档（热度：15315）
 </a>
@@ -9831,6 +9861,12 @@ KPL压岁钱大作战（热度：14236）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%91%E5%B9%B4%E8%B7%B3%E8%B5%B7%E8%8B%B1%E6%AD%8C%E8%88%9E%E6%B0%94%E5%9C%BA%E5%85%A8%E5%BC%80%23" target="weibo">
+少年跳起英歌舞气场全开（热度：10127）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E5%A5%BD%E8%BF%90%E5%8D%A1%23" target="weibo">
 国色芳华好运卡（热度：9763）
 </a>
@@ -9887,6 +9923,12 @@ Doinb使用Tian冠军皮肤（热度：8717）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E9%A6%96%E7%99%BB%E5%A4%AE%E8%A7%86%E7%BD%91%E7%BB%9C%E6%98%A5%E6%99%9A%23" target="weibo">
 陈梦首登央视网络春晚（热度：8330）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%98%9F%E5%9B%9E%E9%81%87%E8%A7%81%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%98%A5%E5%A4%A9%23" target="weibo">
+沈星回遇见下一个春天（热度：8052）
 </a>
 </li>
 
