@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737514824802,
+  "endTime": 1737516346263,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -2604,7 +2604,7 @@
     },
     {
       "raw_hot": 1458865,
-      "num": 272229,
+      "num": 284632,
       "word": "韩国网友抵制宋慧乔新片",
       "onboard_time": 1737501735,
       "rank": 10,
@@ -3009,6 +3009,14 @@
       "onboard_time": 1736046211,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1335596,
+      "num": 1335596,
+      "word": "代露娃回应晋江式演技",
+      "onboard_time": 1737511996,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1335219,
@@ -3601,14 +3609,6 @@
       "onboard_time": 1736221581,
       "rank": 4,
       "category": "国际时政,艺人"
-    },
-    {
-      "raw_hot": 1195509,
-      "num": 1195509,
-      "word": "代露娃回应晋江式演技",
-      "onboard_time": 1737511996,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 1195226,
@@ -4507,6 +4507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1051393,
+      "num": 286643,
+      "word": "王楚然吃面面受轻伤",
+      "onboard_time": 1737511516,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1050259,
       "num": 576351,
       "word": "费翔抽中了汤唯父亲的墨宝",
@@ -5043,12 +5051,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 973810,
-      "num": 186054,
-      "word": "王楚然吃面面受轻伤",
-      "onboard_time": 1737511516,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 974482,
+      "num": 974482,
+      "word": "柯洁决赛",
+      "onboard_time": 1737515058,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 972219,
@@ -5587,6 +5595,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 917078,
+      "num": 198469,
+      "word": "男子被火锅烫伤用白糖敷好了",
+      "onboard_time": 1737510678,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 917023,
       "num": 512540,
       "word": "美国网友涌入小红书",
@@ -5785,6 +5801,14 @@
       "onboard_time": 1736313145,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 894958,
+      "num": 894958,
+      "word": "春晚特别单曲王菲新歌",
+      "onboard_time": 1737513738,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 893355,
@@ -6137,14 +6161,6 @@
       "onboard_time": 1737190818,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 856141,
-      "num": 185618,
-      "word": "男子被火锅烫伤用白糖敷好了",
-      "onboard_time": 1737510678,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 855492,
@@ -7548,7 +7564,7 @@
     },
     {
       "raw_hot": 736442,
-      "num": 261934,
+      "num": 280364,
       "word": "女子称因未婚生育被取消村集体分红",
       "onboard_time": 1737507979,
       "rank": 12,
@@ -9019,6 +9035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 643436,
+      "num": 336135,
+      "word": "2025央视网络春晚节目单",
+      "onboard_time": 1737513979,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 643129,
       "num": 643129,
       "word": "南京胖哥宣布妻子再次怀孕",
@@ -9505,6 +9529,14 @@
       "onboard_time": 1736694320,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 613549,
+      "num": 420666,
+      "word": "御赐小仵作2回归官宣",
+      "onboard_time": 1737513979,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 613489,
@@ -10812,7 +10844,7 @@
     },
     {
       "raw_hot": 553081,
-      "num": 185535,
+      "num": 198180,
       "word": "iPhone17Air背板",
       "onboard_time": 1737511939,
       "rank": 22,
@@ -14499,14 +14531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 420666,
-      "num": 420666,
-      "word": "御赐小仵作2回归官宣",
-      "onboard_time": 1737513979,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 420551,
       "num": 420551,
       "word": "直击西藏救援现场",
@@ -17009,6 +17033,14 @@
       "onboard_time": 1735787061,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 359929,
+      "num": 359929,
+      "word": "杨玉环星之鸣奏皮肤爆料",
+      "onboard_time": 1737516259,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 359625,
@@ -19635,6 +19667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 307652,
+      "num": 196112,
+      "word": "耙耙柑到底怎么读",
+      "onboard_time": 1737513080,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 307636,
       "num": 307636,
       "word": "恋与深空",
@@ -20891,6 +20931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287096,
+      "num": 287096,
+      "word": "土耳其酒店建在悬崖着火灭不掉",
+      "onboard_time": 1737509840,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 287070,
       "num": 467819,
       "word": "好莱坞在洛杉矶大火中受创",
@@ -20921,14 +20969,6 @@
       "onboard_time": 1736824038,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 286715,
-      "num": 186098,
-      "word": "春晚特别单曲王菲新歌",
-      "onboard_time": 1737513738,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 286698,
@@ -21409,6 +21449,14 @@
       "onboard_time": 1736036484,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 279465,
+      "num": 279465,
+      "word": "漯河舰交接入列",
+      "onboard_time": 1737512719,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 279374,
@@ -22291,28 +22339,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 269048,
-      "num": 269048,
-      "word": "漯河舰交接入列",
-      "onboard_time": 1737512719,
-      "rank": 5,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 269004,
       "num": 269004,
       "word": "崔韩率剃寸头了",
       "onboard_time": 1737202398,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 268898,
-      "num": 185327,
-      "word": "耙耙柑到底怎么读",
-      "onboard_time": 1737513080,
-      "rank": 26,
-      "category": "美食"
     },
     {
       "raw_hot": 268861,
@@ -23249,14 +23281,6 @@
       "onboard_time": 1736079146,
       "rank": 10,
       "category": "演出"
-    },
-    {
-      "raw_hot": 255822,
-      "num": 185853,
-      "word": "2025央视网络春晚节目单",
-      "onboard_time": 1737513979,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 255786,
@@ -24321,6 +24345,14 @@
       "onboard_time": 1735885100,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243648,
+      "num": 243648,
+      "word": "漯河舰从头看到尾",
+      "onboard_time": 1737516259,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 243596,
@@ -27396,7 +27428,7 @@
     },
     {
       "raw_hot": 213615,
-      "num": 185683,
+      "num": 195489,
       "word": "冰箱养活鱼只为过年吃口新鲜的",
       "onboard_time": 1737512778,
       "rank": 19,
@@ -27833,6 +27865,14 @@
       "onboard_time": 1736860760,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 210492,
+      "num": 192636,
+      "word": "豹豹猫猫见面",
+      "onboard_time": 1737514458,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 210339,
@@ -31075,6 +31115,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 194779,
+      "num": 194779,
+      "word": "绝区零",
+      "onboard_time": 1736511981,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 194728,
       "num": 234711,
       "word": "归棹 宗族观念",
@@ -31545,6 +31593,14 @@
       "onboard_time": 1735877059,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 193022,
+      "num": 193022,
+      "word": "炉石传说",
+      "onboard_time": 1737514699,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 192977,
@@ -32107,6 +32163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190750,
+      "num": 190750,
+      "word": "兄弟俩将父亲满墙心事搬到线上",
+      "onboard_time": 1737516259,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190735,
       "num": 190735,
       "word": "陆沉小尖牙",
@@ -32273,14 +32337,6 @@
       "onboard_time": 1736490379,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 190164,
-      "num": 190164,
-      "word": "绝区零",
-      "onboard_time": 1736511981,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 190124,
@@ -33281,14 +33337,6 @@
       "onboard_time": 1737030377,
       "rank": 20,
       "category": "演出"
-    },
-    {
-      "raw_hot": 186172,
-      "num": 186172,
-      "word": "土耳其酒店建在悬崖着火灭不掉",
-      "onboard_time": 1737509840,
-      "rank": 45,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 186162,
@@ -34753,6 +34801,14 @@
       "onboard_time": 1736745559,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178705,
+      "num": 178705,
+      "word": "任嘉伦黑粉被强执1.5万",
+      "onboard_time": 1737516318,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 178686,
@@ -40211,12 +40267,28 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 155779,
+      "num": 191188,
+      "word": "虐杀猫狗视频售价从几元至上百元",
+      "onboard_time": 1737512719,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155764,
       "num": 155764,
       "word": "李昀锐冰湖重生戴面具路透",
       "onboard_time": 1737448278,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155728,
+      "num": 198906,
+      "word": "回到唐人街MV记录十年唐探",
+      "onboard_time": 1737513498,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 155716,
@@ -44763,6 +44835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137348,
+      "num": 194802,
+      "word": "回家路上的BGM选好了吗",
+      "onboard_time": 1737516259,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137314,
       "num": 137314,
       "word": "白鹿白月梵星造型大赏",
@@ -44833,14 +44913,6 @@
       "onboard_time": 1737342918,
       "rank": 34,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 137048,
-      "num": 137048,
-      "word": "豹豹猫猫见面",
-      "onboard_time": 1737514458,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 137024,
@@ -45987,6 +46059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133153,
+      "num": 133153,
+      "word": "比伯回应取关海莉",
+      "onboard_time": 1737515958,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133149,
       "num": 133149,
       "word": "芳名远扬 美人晕倒我偷笑",
@@ -46593,6 +46673,14 @@
       "onboard_time": 1737030619,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 130765,
+      "num": 130765,
+      "word": "网络春晚节目单",
+      "onboard_time": 1737516318,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 130754,
@@ -48387,14 +48475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 124201,
-      "num": 124201,
-      "word": "虐杀猫狗视频售价从几元至上百元",
-      "onboard_time": 1737512719,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124152,
       "num": 124152,
       "word": "旅行社称已有近三成游客退泰国团",
@@ -49273,14 +49353,6 @@
       "onboard_time": 1737180917,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121130,
-      "num": 121130,
-      "word": "炉石传说",
-      "onboard_time": 1737514699,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 121102,
@@ -50428,7 +50500,7 @@
     },
     {
       "raw_hot": 117268,
-      "num": 117268,
+      "num": 197548,
       "word": "樊振东希望大家远离饭圈戾气",
       "onboard_time": 1737513619,
       "rank": 49,
@@ -55707,14 +55779,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 93672,
-      "num": 185191,
-      "word": "回到唐人街MV记录十年唐探",
-      "onboard_time": 1737513498,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 93619,
       "num": 93619,
       "word": "天鹅妈妈抖翅膀掉出一只小天鹅",
@@ -56601,6 +56665,14 @@
       "onboard_time": 1736265023,
       "rank": 39,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 86481,
+      "num": 199325,
+      "word": "朱一龙巴黎街拍",
+      "onboard_time": 1737515477,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 86461,
@@ -59692,7 +59764,7 @@
     },
     {
       "raw_hot": 61845,
-      "num": 656532,
+      "num": 930616,
       "word": "浓浓的年味已经扑面而来",
       "onboard_time": 1737465919,
       "rank": 2,

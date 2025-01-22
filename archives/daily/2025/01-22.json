@@ -1,18 +1,18 @@
 {
   "startTime": 1737476916141,
-  "endTime": 1737514824802,
+  "endTime": 1737516346263,
   "band_list": [
     {
       "raw_hot": 1458865,
-      "num": 272229,
+      "num": 284632,
       "word": "韩国网友抵制宋慧乔新片",
       "onboard_time": 1737501735,
       "rank": 10,
       "category": "电影"
     },
     {
-      "raw_hot": 1195509,
-      "num": 1195509,
+      "raw_hot": 1335596,
+      "num": 1335596,
       "word": "代露娃回应晋江式演技",
       "onboard_time": 1737511996,
       "rank": 0,
@@ -35,20 +35,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 973810,
-      "num": 186054,
+      "raw_hot": 1051393,
+      "num": 286643,
       "word": "王楚然吃面面受轻伤",
       "onboard_time": 1737511516,
       "rank": 12,
       "category": "艺人"
     },
     {
-      "raw_hot": 856141,
-      "num": 185618,
+      "raw_hot": 974482,
+      "num": 974482,
+      "word": "柯洁决赛",
+      "onboard_time": 1737515058,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 917078,
+      "num": 198469,
       "word": "男子被火锅烫伤用白糖敷好了",
       "onboard_time": 1737510678,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 894958,
+      "num": 894958,
+      "word": "春晚特别单曲王菲新歌",
+      "onboard_time": 1737513738,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 840926,
@@ -76,11 +92,27 @@
     },
     {
       "raw_hot": 736442,
-      "num": 261934,
+      "num": 280364,
       "word": "女子称因未婚生育被取消村集体分红",
       "onboard_time": 1737507979,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 643436,
+      "num": 336135,
+      "word": "2025央视网络春晚节目单",
+      "onboard_time": 1737513979,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 613549,
+      "num": 420666,
+      "word": "御赐小仵作2回归官宣",
+      "onboard_time": 1737513979,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 613489,
@@ -100,7 +132,7 @@
     },
     {
       "raw_hot": 553081,
-      "num": 185535,
+      "num": 198180,
       "word": "iPhone17Air背板",
       "onboard_time": 1737511939,
       "rank": 22,
@@ -139,14 +171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 420666,
-      "num": 420666,
-      "word": "御赐小仵作2回归官宣",
-      "onboard_time": 1737513979,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 412007,
       "num": 412007,
       "word": "雨雪或波及全国所有省份",
@@ -179,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 359929,
+      "num": 359929,
+      "word": "杨玉环星之鸣奏皮肤爆料",
+      "onboard_time": 1737516259,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 356168,
       "num": 859504,
       "word": "男生花7百买101小时硬座回家后续",
@@ -203,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 307652,
+      "num": 196112,
+      "word": "耙耙柑到底怎么读",
+      "onboard_time": 1737513080,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 302546,
       "num": 282176,
       "word": "胡歌称深圳没有冬天",
@@ -219,12 +259,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 286715,
-      "num": 186098,
-      "word": "春晚特别单曲王菲新歌",
-      "onboard_time": 1737513738,
-      "rank": 11,
-      "category": "综艺"
+      "raw_hot": 287096,
+      "num": 287096,
+      "word": "土耳其酒店建在悬崖着火灭不掉",
+      "onboard_time": 1737509840,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 284722,
@@ -251,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 279465,
+      "num": 279465,
+      "word": "漯河舰交接入列",
+      "onboard_time": 1737512719,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 277426,
       "num": 203495,
       "word": "特朗普提中国一小时后巴拿马回怼",
@@ -265,22 +313,6 @@
       "onboard_time": 1737477735,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 269048,
-      "num": 269048,
-      "word": "漯河舰交接入列",
-      "onboard_time": 1737512719,
-      "rank": 5,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 268898,
-      "num": 185327,
-      "word": "耙耙柑到底怎么读",
-      "onboard_time": 1737513080,
-      "rank": 26,
-      "category": "美食"
     },
     {
       "raw_hot": 266950,
@@ -307,14 +339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 255822,
-      "num": 185853,
-      "word": "2025央视网络春晚节目单",
-      "onboard_time": 1737513979,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 254304,
       "num": 254304,
       "word": "李昀锐葡萄干变葡萄枝了",
@@ -329,6 +353,14 @@
       "onboard_time": 1737465020,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 243648,
+      "num": 243648,
+      "word": "漯河舰从头看到尾",
+      "onboard_time": 1737516259,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 240266,
@@ -348,7 +380,7 @@
     },
     {
       "raw_hot": 213615,
-      "num": 185683,
+      "num": 195489,
       "word": "冰箱养活鱼只为过年吃口新鲜的",
       "onboard_time": 1737512778,
       "rank": 19,
@@ -361,6 +393,14 @@
       "onboard_time": 1737506660,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210492,
+      "num": 192636,
+      "word": "豹豹猫猫见面",
+      "onboard_time": 1737514458,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 208378,
@@ -411,6 +451,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194779,
+      "num": 194779,
+      "word": "绝区零",
+      "onboard_time": 1737515417,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 193022,
+      "num": 193022,
+      "word": "炉石传说",
+      "onboard_time": 1737514699,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 191514,
       "num": 181526,
       "word": "国补后苹果手机跌破3000",
@@ -427,20 +483,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190750,
+      "num": 190750,
+      "word": "兄弟俩将父亲满墙心事搬到线上",
+      "onboard_time": 1737516259,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189420,
       "num": 188686,
       "word": "王嘉尔朱一龙王鹤棣巴黎合照",
       "onboard_time": 1737459619,
       "rank": 15,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 186172,
-      "num": 186172,
-      "word": "土耳其酒店建在悬崖着火灭不掉",
-      "onboard_time": 1737509840,
-      "rank": 45,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 181669,
@@ -457,6 +513,14 @@
       "onboard_time": 1737474618,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 178705,
+      "num": 178705,
+      "word": "任嘉伦黑粉被强执1.5万",
+      "onboard_time": 1737516318,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 177766,
@@ -547,6 +611,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155779,
+      "num": 191188,
+      "word": "虐杀猫狗视频售价从几元至上百元",
+      "onboard_time": 1737512719,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155728,
+      "num": 198906,
+      "word": "回到唐人街MV记录十年唐探",
+      "onboard_time": 1737513498,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 153262,
       "num": 153262,
       "word": "樊振东28岁当红不让",
@@ -611,12 +691,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 137048,
-      "num": 137048,
-      "word": "豹豹猫猫见面",
-      "onboard_time": 1737514458,
-      "rank": 40,
-      "category": "幽默"
+      "raw_hot": 137348,
+      "num": 194802,
+      "word": "回家路上的BGM选好了吗",
+      "onboard_time": 1737516259,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133153,
+      "num": 133153,
+      "word": "比伯回应取关海莉",
+      "onboard_time": 1737515958,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 130765,
+      "num": 130765,
+      "word": "网络春晚节目单",
+      "onboard_time": 1737516318,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 127922,
@@ -651,14 +747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 124201,
-      "num": 124201,
-      "word": "虐杀猫狗视频售价从几元至上百元",
-      "onboard_time": 1737512719,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 123492,
       "num": 123492,
       "word": "原神超话",
@@ -673,14 +761,6 @@
       "onboard_time": 1737477855,
       "rank": 11,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 121130,
-      "num": 121130,
-      "word": "炉石传说",
-      "onboard_time": 1737514699,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 121083,
@@ -700,7 +780,7 @@
     },
     {
       "raw_hot": 117268,
-      "num": 117268,
+      "num": 197548,
       "word": "樊振东希望大家远离饭圈戾气",
       "onboard_time": 1737513619,
       "rank": 49,
@@ -835,12 +915,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 93672,
-      "num": 185191,
-      "word": "回到唐人街MV记录十年唐探",
-      "onboard_time": 1737513498,
-      "rank": 29,
-      "category": "电影"
+      "raw_hot": 86481,
+      "num": 199325,
+      "word": "朱一龙巴黎街拍",
+      "onboard_time": 1737515477,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 86232,
@@ -988,7 +1068,7 @@
     },
     {
       "raw_hot": 61845,
-      "num": 487101,
+      "num": 930616,
       "word": "浓浓的年味已经扑面而来",
       "onboard_time": 1737465919,
       "rank": 2,
