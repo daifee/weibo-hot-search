@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737524348584,
+  "endTime": 1737527469404,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -1091,6 +1091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 704970,
+      "num": 704970,
+      "word": "演的是赵今麦 害怕的是我",
+      "onboard_time": 1737521899,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 701241,
       "num": 701241,
       "word": "日均接诊800人协和急诊说忙爆炸了",
@@ -1691,6 +1699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 506753,
+      "num": 506753,
+      "word": "江西路中房屋主称后悔了",
+      "onboard_time": 1737521119,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 506223,
       "num": 212325,
       "word": "赵今麦演出了破天的倒灌感",
@@ -1753,14 +1769,6 @@
       "onboard_time": 1737271278,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 484252,
-      "num": 484252,
-      "word": "江西路中房屋主称后悔了",
-      "onboard_time": 1737521119,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 481914,
@@ -1905,14 +1913,6 @@
       "onboard_time": 1737254236,
       "rank": 29,
       "category": "数码"
-    },
-    {
-      "raw_hot": 456221,
-      "num": 456221,
-      "word": "演的是赵今麦 害怕的是我",
-      "onboard_time": 1737521899,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 454987,
@@ -2291,6 +2291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 372420,
+      "num": 447610,
+      "word": "一次性吃330公斤车厘子才会铁中毒",
+      "onboard_time": 1737521599,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 372012,
       "num": 273782,
       "word": "吴尊neinei新综来了",
@@ -2355,6 +2363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 362108,
+      "num": 362108,
+      "word": "肖战的灯笼掉了",
+      "onboard_time": 1737524119,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 361368,
       "num": 361368,
       "word": "特朗普称将撤销拜登所有行政命令",
@@ -2409,6 +2425,14 @@
       "onboard_time": 1737378138,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 353537,
+      "num": 317377,
+      "word": "肖战拦着梁家辉自己蹲下",
+      "onboard_time": 1737526577,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 349413,
@@ -2643,6 +2667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 316243,
+      "num": 316243,
+      "word": "胜意死是唯一一件能自己选择的事",
+      "onboard_time": 1737521360,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 314529,
       "num": 374075,
       "word": "中方回应对特朗普总统任期有何期待",
@@ -2656,6 +2688,14 @@
       "word": "终于又看到戏骨含量100%国产剧",
       "onboard_time": 1737387918,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 308565,
+      "num": 308565,
+      "word": "干中学",
+      "onboard_time": 1737524060,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -2945,14 +2985,6 @@
       "onboard_time": 1737508698,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 281554,
-      "num": 281554,
-      "word": "肖战的灯笼掉了",
-      "onboard_time": 1737524119,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 281476,
@@ -3313,6 +3345,14 @@
       "onboard_time": 1737233950,
       "rank": 9,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 255836,
+      "num": 255836,
+      "word": "陆毅说胡彦斌你让我哭",
+      "onboard_time": 1737525559,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 255730,
@@ -3763,6 +3803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218918,
+      "num": 218918,
+      "word": "iPhone13仍是2024年最火手机",
+      "onboard_time": 1737522561,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 218911,
       "num": 218911,
       "word": "樊振东拎包还怪时尚的",
@@ -3889,14 +3937,6 @@
       "onboard_time": 1737517518,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 212310,
-      "num": 212310,
-      "word": "iPhone13仍是2024年最火手机",
-      "onboard_time": 1737522561,
-      "rank": 35,
-      "category": "数码"
     },
     {
       "raw_hot": 212294,
@@ -4347,14 +4387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196938,
-      "num": 196938,
-      "word": "胜意死是唯一一件能自己选择的事",
-      "onboard_time": 1737521360,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 196745,
       "num": 196745,
       "word": "白鹿空降白月梵星超话",
@@ -4369,6 +4401,14 @@
       "onboard_time": 1737428839,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196021,
+      "num": 196021,
+      "word": "原来9000年前的老祖宗这么高",
+      "onboard_time": 1737525859,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 195854,
@@ -4689,6 +4729,14 @@
       "onboard_time": 1737368357,
       "rank": 35,
       "category": "网红"
+    },
+    {
+      "raw_hot": 190425,
+      "num": 315015,
+      "word": "转十个勤天求进取运",
+      "onboard_time": 1737527058,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 190414,
@@ -5123,6 +5171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176795,
+      "num": 176795,
+      "word": "柯洁决赛因韩国新规被罚",
+      "onboard_time": 1737521958,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176766,
       "num": 176766,
       "word": "深圳海滩出现一片褐色泡泡",
@@ -5192,14 +5248,6 @@
       "word": "孙颖莎红运接到了吗",
       "onboard_time": 1737442937,
       "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 174866,
-      "num": 174866,
-      "word": "柯洁决赛因韩国新规被罚",
-      "onboard_time": 1737521958,
-      "rank": 34,
       "category": "体育"
     },
     {
@@ -5283,14 +5331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172653,
-      "num": 447610,
-      "word": "一次性吃330公斤车厘子才会铁中毒",
-      "onboard_time": 1737521599,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 172270,
       "num": 172270,
       "word": "第五人格",
@@ -5329,6 +5369,14 @@
       "onboard_time": 1737354856,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170814,
+      "num": 170814,
+      "word": "骄阳似我",
+      "onboard_time": 1737526519,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 170726,
@@ -5688,6 +5736,14 @@
       "word": "杨紫祝每个人都能绽放自己的芳华",
       "onboard_time": 1737505159,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162616,
+      "num": 221157,
+      "word": "千朵桃花八十多天没吻戏了",
+      "onboard_time": 1737524659,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -6163,6 +6219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152857,
+      "num": 152857,
+      "word": "4年了乔祖望取名还这么随意",
+      "onboard_time": 1737526577,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152837,
       "num": 193249,
       "word": "男子骗老乡火车延误要交钱",
@@ -6467,6 +6531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 145214,
+      "num": 145214,
+      "word": "杨紫嘉人二月刊预热",
+      "onboard_time": 1737524958,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 145172,
       "num": 105087,
       "word": "文轩",
@@ -6481,14 +6553,6 @@
       "onboard_time": 1737275298,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 144626,
-      "num": 144626,
-      "word": "干中学",
-      "onboard_time": 1737524060,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 144479,
@@ -6643,6 +6707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 141373,
+      "num": 141373,
+      "word": "纽约美甲和美甲师都挺超前的",
+      "onboard_time": 1737521420,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 141214,
       "num": 141214,
       "word": "上一个这么坏的还是容嬷嬷",
@@ -6761,6 +6833,14 @@
       "onboard_time": 1737257178,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 138902,
+      "num": 138902,
+      "word": "向太给人取名主打一个简单",
+      "onboard_time": 1737525977,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 138866,
@@ -7019,6 +7099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134429,
+      "num": 134429,
+      "word": "今冬最强雨雪降温来袭",
+      "onboard_time": 1737525321,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133704,
       "num": 133704,
       "word": "严浩翔边饭撒边检查扣子",
@@ -7209,6 +7297,14 @@
       "onboard_time": 1737448398,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129497,
+      "num": 219727,
+      "word": "过年回家开什么车有排面",
+      "onboard_time": 1737525021,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129435,
@@ -7451,6 +7547,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 125008,
+      "num": 125008,
+      "word": "球迷集186万字生日祝福送樊振东",
+      "onboard_time": 1737526758,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124944,
       "num": 124944,
       "word": "广东震感",
@@ -7659,6 +7763,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 121628,
+      "num": 121628,
+      "word": "动物园回应卖虎尿50元1瓶",
+      "onboard_time": 1737526758,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121494,
       "num": 121494,
       "word": "肖战射雕英雄传上座率超20%",
@@ -7729,6 +7841,14 @@
       "onboard_time": 1737423437,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120640,
+      "num": 120640,
+      "word": "赵今麦拍绑架戏整段都很绝望",
+      "onboard_time": 1737527418,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 120606,
@@ -8915,6 +9035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97846,
+      "num": 321849,
+      "word": "四川一动物园卖虎尿50元1瓶",
+      "onboard_time": 1737527179,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97781,
       "num": 125952,
       "word": "翟欣欣当庭认罪认罚",
@@ -9481,6 +9609,14 @@
       "onboard_time": 1737304635,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 77574,
+      "num": 293908,
+      "word": "樊振东超燃视频",
+      "onboard_time": 1737526998,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 77323,
@@ -10897,6 +11033,14 @@
       "onboard_time": 1737262578,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14340,
+      "num": 313190,
+      "word": "G社镜头下的王鹤棣道明寺皮肤",
+      "onboard_time": 1737527238,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 14320,
