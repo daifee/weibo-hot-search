@@ -1,6 +1,6 @@
 {
   "startTime": 1737563308947,
-  "endTime": 1737571458427,
+  "endTime": 1737573555595,
   "band_list": [
     {
       "raw_hot": 1344080,
@@ -539,6 +539,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 20902,
+      "num": 20902,
+      "word": "邓佳鑫小卡",
+      "onboard_time": 1737572413,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 19220,
+      "num": 19220,
+      "word": "张极祝大家奋发有为",
+      "onboard_time": 1737572352,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 18432,
+      "num": 18432,
+      "word": "左航春晚大赏集卡",
+      "onboard_time": 1737572832,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 15332,
       "num": 37622,
       "word": "警方侦办网络暴力案件8000余起",
@@ -563,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 11821,
+      "num": 36575,
+      "word": "全国公安机关严惩有组织造谣炒作",
+      "onboard_time": 1737571152,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11132,
       "num": 45406,
       "word": "少年跳起英歌舞气场全开",
@@ -571,11 +603,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 9769,
-      "num": 36575,
-      "word": "全国公安机关严惩有组织造谣炒作",
-      "onboard_time": 1737571152,
-      "rank": 18,
+      "raw_hot": 9275,
+      "num": 23046,
+      "word": "中小学科学教育工作指南",
+      "onboard_time": 1737573431,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 9207,
+      "num": 27781,
+      "word": "2025冬季达沃斯论坛",
+      "onboard_time": 1737572172,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -585,6 +625,14 @@
       "onboard_time": 1737567374,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 8372,
+      "num": 22727,
+      "word": "中国队总教练复盘柯洁判负现场",
+      "onboard_time": 1737572232,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 8052,
@@ -601,6 +649,14 @@
       "onboard_time": 1737571033,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 6469,
+      "num": 30417,
+      "word": "李武军晒18张图为樊振东庆生",
+      "onboard_time": 1737573431,
+      "rank": 24,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
