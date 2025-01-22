@@ -1,6 +1,6 @@
 {
   "startTime": 1737563308947,
-  "endTime": 1737585498581,
+  "endTime": 1737588055171,
   "band_list": [
     {
       "raw_hot": 1344080,
@@ -107,8 +107,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 230085,
-      "num": 90343,
+      "raw_hot": 236808,
+      "num": 95435,
       "word": "潘宏曾直播自曝进去过9天",
       "onboard_time": 1737565515,
       "rank": 31,
@@ -121,6 +121,14 @@
       "onboard_time": 1737556039,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213365,
+      "num": 95141,
+      "word": "沈春阳回应被叫邪恶车厘子",
+      "onboard_time": 1737568693,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 212733,
@@ -163,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177990,
+      "num": 93226,
+      "word": "河南一地要求理发店做空气检测",
+      "onboard_time": 1737580451,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175133,
       "num": 133018,
       "word": "肖战电影票房号召力",
@@ -201,6 +217,14 @@
       "onboard_time": 1737551898,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145269,
+      "num": 145269,
+      "word": "孩子被护送绕160多道弯回到家",
+      "onboard_time": 1737565815,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141610,
@@ -291,14 +315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 106815,
-      "num": 54477,
-      "word": "沈春阳回应被叫邪恶车厘子",
-      "onboard_time": 1737568693,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 103953,
       "num": 103953,
       "word": "难哄",
@@ -329,6 +345,14 @@
       "onboard_time": 1737547158,
       "rank": 38,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 88670,
+      "num": 88670,
+      "word": "外交部回应中方更改鲁比奥中文译名",
+      "onboard_time": 1737554119,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 88243,
@@ -371,14 +395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 78799,
-      "num": 141367,
-      "word": "孩子被护送绕160多道弯回到家",
-      "onboard_time": 1737565815,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78256,
       "num": 210822,
       "word": "过年模式正在开启",
@@ -387,20 +403,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76798,
+      "num": 76798,
+      "word": "漂白肉联厂F4",
+      "onboard_time": 1737573672,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 73391,
       "num": 73391,
       "word": "郭艾伦40分",
       "onboard_time": 1737555620,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 72631,
-      "num": 72631,
-      "word": "外交部回应中方更改鲁比奥中文译名",
-      "onboard_time": 1737554119,
-      "rank": 45,
-      "category": "国内时政"
     },
     {
       "raw_hot": 71534,
@@ -443,6 +459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 56058,
+      "num": 56058,
+      "word": "棋手称看到柯洁被判负很气愤",
+      "onboard_time": 1737569053,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51862,
       "num": 51862,
       "word": "肖战说为国为民才是侠之大者",
@@ -459,19 +483,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 42017,
-      "num": 38177,
-      "word": "漂白肉联厂F4",
-      "onboard_time": 1737573672,
-      "rank": 39,
-      "category": "剧集"
+      "raw_hot": 47458,
+      "num": 47458,
+      "word": "安娜晒与诺一霓娜合照",
+      "onboard_time": 1737585433,
+      "rank": 49,
+      "category": "艺人"
     },
     {
-      "raw_hot": 41982,
-      "num": 41982,
-      "word": "河南一地要求理发店做空气检测",
-      "onboard_time": 1737580451,
-      "rank": 49,
+      "raw_hot": 46535,
+      "num": 370778,
+      "word": "小年一到年味儿拉满",
+      "onboard_time": 1737551839,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -483,19 +507,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 35419,
-      "num": 35419,
+      "raw_hot": 38158,
+      "num": 38158,
       "word": "金价再次刷新历史新高",
       "onboard_time": 1737550937,
       "rank": 48,
       "category": "财经"
     },
     {
-      "raw_hot": 34616,
-      "num": 34616,
-      "word": "棋手称看到柯洁被判负很气愤",
-      "onboard_time": 1737569053,
-      "rank": 32,
+      "raw_hot": 33976,
+      "num": 33976,
+      "word": "韩国人理解的围棋只谈胜负",
+      "onboard_time": 1737587294,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -531,20 +555,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 26282,
-      "num": 370778,
-      "word": "小年一到年味儿拉满",
-      "onboard_time": 1737551839,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 26696,
+      "num": 31490,
+      "word": "罗云熙九万字国风舞台",
+      "onboard_time": 1737586273,
+      "rank": 43,
+      "category": "综艺"
     },
     {
-      "raw_hot": 23465,
+      "raw_hot": 24112,
       "num": 98839,
       "word": "2025新春走基层",
       "onboard_time": 1737567016,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 23861,
+      "num": 31479,
+      "word": "国补开启消费者捡漏时刻",
+      "onboard_time": 1737585732,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 21429,
@@ -601,14 +633,6 @@
       "onboard_time": 1737565035,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 13422,
-      "num": 29132,
-      "word": "安娜晒与诺一霓娜合照",
-      "onboard_time": 1737585433,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 13324,
