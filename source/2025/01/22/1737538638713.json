@@ -1,0 +1,410 @@
+{
+  "runTime": 1737538638713,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 795321,
+        "num": 1127251,
+        "word": "遭追尾车上3人身亡肇事司机被判3缓5",
+        "onboard_time": 1737533597,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 605285,
+        "num": 605285,
+        "word": "赵今麦首位00后三平台破万女演员",
+        "onboard_time": 1737527538,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31792,
+        "num": 528156,
+        "word": "年字在古代曾指庄稼成熟",
+        "onboard_time": 1737536597,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 517551,
+        "num": 517551,
+        "word": "杨紫李现晒何惟芳蒋长扬大婚照",
+        "onboard_time": 1737537439,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 441466,
+        "num": 441466,
+        "word": "多位棋手谈柯洁被判负",
+        "onboard_time": 1737533778,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 409698,
+        "num": 409698,
+        "word": "吃车厘子不要咬破果核",
+        "onboard_time": 1737519499,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 331773,
+        "num": 331773,
+        "word": "王影璐异人之下3疑似被换角",
+        "onboard_time": 1737532937,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323749,
+        "num": 323749,
+        "word": "六部门印发中长期资金入市方案",
+        "onboard_time": 1737535097,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 301820,
+        "num": 301820,
+        "word": "外交部回应美计划对中国商品加征关税",
+        "onboard_time": 1737534897,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 289713,
+        "num": 289713,
+        "word": "梅大高速茶阳路段塌方灾害调查评估报告",
+        "onboard_time": 1737537737,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 482181,
+        "num": 289633,
+        "word": "巴中一货车撞上等灯车辆致5死1重伤",
+        "onboard_time": 1737536418,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299084,
+        "num": 289055,
+        "word": "肖战说为国为民才是侠之大者",
+        "onboard_time": 1737535158,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 363072,
+        "num": 288582,
+        "word": "74岁刘晓庆的恋爱观点",
+        "onboard_time": 1737535938,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299774,
+        "num": 288018,
+        "word": "四川一动物园卖虎尿50元1瓶",
+        "onboard_time": 1737527179,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287800,
+        "num": 287800,
+        "word": "御赐小仵作",
+        "onboard_time": 1737516438,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263914,
+        "num": 263914,
+        "word": "刘诗诗不语只是一味地干饭",
+        "onboard_time": 1737535818,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211296,
+        "num": 260189,
+        "word": "行车记录仪拍下巴中一大桥多车相撞",
+        "onboard_time": 1737536298,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192739,
+        "num": 257920,
+        "word": "网传存款80万元到期取不出来不实",
+        "onboard_time": 1737535217,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33349,
+        "num": 253322,
+        "word": "单依纯祝大家喜事连连",
+        "onboard_time": 1737537918,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40959,
+        "num": 250487,
+        "word": "王鹤棣王嘉尔朱一龙巴黎生图",
+        "onboard_time": 1737537918,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 248953,
+        "num": 248953,
+        "word": "第一个让白鹿欲言又止的人出现了",
+        "onboard_time": 1737531918,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 809557,
+        "num": 247826,
+        "word": "网红潘宏曾有刑事犯罪记录",
+        "onboard_time": 1737518960,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 566776,
+        "num": 247156,
+        "word": "女子年终奖发半扇羊赔了1件羽绒服",
+        "onboard_time": 1737537559,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 491475,
+        "num": 245998,
+        "word": "肖战拦着梁家辉自己蹲下",
+        "onboard_time": 1737526577,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124295,
+        "num": 244346,
+        "word": "闪耀暖暖山海经日月裙",
+        "onboard_time": 1737538399,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 243189,
+        "num": 243189,
+        "word": "漂白",
+        "onboard_time": 1737522800,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234243,
+        "num": 234243,
+        "word": "车厘子是血糖友好型水果",
+        "onboard_time": 1737536238,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 208084,
+        "num": 208084,
+        "word": "潘宏园区宠物托运用生鲜车运宠物致死",
+        "onboard_time": 1737537318,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 197500,
+        "num": 197500,
+        "word": "卜凡做道士",
+        "onboard_time": 1737528018,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192230,
+        "num": 192230,
+        "word": "王俊凯说放假回家路上不能被卡住",
+        "onboard_time": 1737537918,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191965,
+        "num": 191965,
+        "word": "孟子义你们小年吃什么好吃的啦",
+        "onboard_time": 1737531798,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188998,
+        "num": 188998,
+        "word": "向太给人取名主打一个简单",
+        "onboard_time": 1737525977,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174508,
+        "num": 174508,
+        "word": "小年",
+        "onboard_time": 1737538219,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168597,
+        "num": 168597,
+        "word": "北漂白 南狂飙",
+        "onboard_time": 1737536779,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160231,
+        "num": 160231,
+        "word": "王菲将第5次登上春晚舞台",
+        "onboard_time": 1737538219,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157024,
+        "num": 157024,
+        "word": "女子美甲后感染HPV病毒长出菜花",
+        "onboard_time": 1737477796,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153662,
+        "num": 153662,
+        "word": "2025央视网络春晚节目单",
+        "onboard_time": 1737513979,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151735,
+        "num": 151735,
+        "word": "一个家族盗用12306账号倒票",
+        "onboard_time": 1737533958,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139250,
+        "num": 139250,
+        "word": "难哄下证",
+        "onboard_time": 1737538399,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132545,
+        "num": 132545,
+        "word": "一次性吃330公斤车厘子才会铁中毒",
+        "onboard_time": 1737521599,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131133,
+        "num": 131133,
+        "word": "iPhone17Air背板",
+        "onboard_time": 1737511939,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 68209,
+        "num": 128569,
+        "word": "张帅说樊振东激励我们前进",
+        "onboard_time": 1737538278,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126356,
+        "num": 126356,
+        "word": "iOS18.3默认启用苹果AI",
+        "onboard_time": 1737538337,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 125802,
+        "num": 125802,
+        "word": "麦琳跳不录舞",
+        "onboard_time": 1737535278,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123845,
+        "num": 123845,
+        "word": "求给戚薇递一个古装剧本",
+        "onboard_time": 1737537139,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123210,
+        "num": 123210,
+        "word": "原来9000年前的老祖宗这么高",
+        "onboard_time": 1737525859,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 5550,
+        "num": 120993,
+        "word": "蛟龙小队韩东君请伊利上桌",
+        "onboard_time": 1737538518,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120784,
+        "num": 120784,
+        "word": "动物园回应卖虎尿50元1瓶",
+        "onboard_time": 1737526758,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120001,
+        "num": 120001,
+        "word": "男生花7百坐101小时硬座回家系虚构",
+        "onboard_time": 1737534798,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118608,
+        "num": 118608,
+        "word": "人大代表建议将产假延长至180天",
+        "onboard_time": 1737538578,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的新春暖心话#"
+    }
+  }
+}
