@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/22 09:58:27
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/22 11:00:24
 </p>
 </blockquote>
 <p>
@@ -2715,6 +2715,12 @@ TikTok禁令引发美国网友众怒（热度：1325910）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A3%E9%9C%B2%E5%A8%83%E5%9B%9E%E5%BA%94%E6%99%8B%E6%B1%9F%E5%BC%8F%E6%BC%94%E6%8A%80%23" target="weibo">
+代露娃回应晋江式演技（热度：1195509）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E4%B8%80%E5%8F%A5%E5%90%AB%E9%87%91%E9%87%8F%E4%B8%8D%E9%AB%98%E5%AD%A9%E5%AD%90%E6%B0%94%E5%93%AD%E6%92%95%E5%A5%96%E7%8A%B6%23" target="weibo">
 爸爸一句含金量不高孩子气哭撕奖状（热度：1195226）
 </a>
@@ -3789,6 +3795,12 @@ R1SE合体（热度：994873）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%90%83%E9%9D%A2%E9%9D%A2%E5%8F%97%E8%BD%BB%E4%BC%A4%23" target="weibo">
+王楚然吃面面受轻伤（热度：973810）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%23" target="weibo">
 车厘子（热度：972219）
 </a>
@@ -4601,6 +4613,12 @@ R1SE舞台（热度：868936）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23TikTok%E5%85%AC%E5%8F%B8%E8%A1%A8%E7%A4%BA%E7%99%BD%E5%AE%AB%E6%97%A0%E4%BF%9D%E8%AF%81%E5%B9%B3%E5%8F%B0%E5%8F%AA%E8%83%BD%E5%85%B3%23" target="weibo">
 TikTok公司表示白宫无保证平台只能关（热度：857450）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E7%81%AB%E9%94%85%E7%83%AB%E4%BC%A4%E7%94%A8%E7%99%BD%E7%B3%96%E6%95%B7%E5%A5%BD%E4%BA%86%23" target="weibo">
+男子被火锅烫伤用白糖敷好了（热度：856141）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ SM新女团 SMTOWN压轴（热度：743773）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%9D%87%E6%8E%A5%E8%AF%8A800%E4%BA%BA%E5%8D%8F%E5%92%8C%E6%80%A5%E8%AF%8A%E8%AF%B4%E5%BF%99%E7%88%86%E7%82%B8%E4%BA%86%23" target="weibo">
 日均接诊800人协和急诊说忙爆炸了（热度：701241）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%92%E6%92%95%E6%92%95%E4%B8%8D%E5%87%BA%E8%A7%82%E4%BC%97%E5%BF%83%E4%B8%AD%E7%9A%84%E7%94%B7%E4%B8%80%E5%8F%B7%23" target="weibo">
-互撕撕不出观众心中的男一号（热度：700343）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%9B%E5%8F%A3%E8%8D%AF%E9%80%80%E5%87%BA%E5%85%AC%E7%AB%8B%E5%8C%BB%E9%99%A2%23" target="weibo">
-进口药退出公立医院（热度：700152）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%95%91%E7%81%BE%E4%B8%8D%E5%8A%9B%E5%BC%95%E6%B0%91%E4%BC%97%E8%B4%A8%E9%97%AE%23" target="weibo">
-美国政府救灾不力引民众质问（热度：699356）
 </a>
 </li>
 

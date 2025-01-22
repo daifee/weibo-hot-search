@@ -1,6 +1,6 @@
 {
   "startTime": 1737476916141,
-  "endTime": 1737511107457,
+  "endTime": 1737514824802,
   "band_list": [
     {
       "raw_hot": 1458865,
@@ -9,6 +9,14 @@
       "onboard_time": 1737501735,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1195509,
+      "num": 1195509,
+      "word": "代露娃回应晋江式演技",
+      "onboard_time": 1737511996,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1153022,
@@ -24,6 +32,22 @@
       "word": "女子美甲后感染HPV病毒长出菜花",
       "onboard_time": 1737477796,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 973810,
+      "num": 186054,
+      "word": "王楚然吃面面受轻伤",
+      "onboard_time": 1737511516,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 856141,
+      "num": 185618,
+      "word": "男子被火锅烫伤用白糖敷好了",
+      "onboard_time": 1737510678,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -59,12 +83,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 613489,
+      "num": 613489,
+      "word": "这届年轻人回村过年不再大包小包",
+      "onboard_time": 1737512657,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 595969,
       "num": 1088995,
       "word": "王鹤棣在巴黎穿上了道明寺皮肤",
       "onboard_time": 1737472519,
       "rank": 7,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 553081,
+      "num": 185535,
+      "word": "iPhone17Air背板",
+      "onboard_time": 1737511939,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 551253,
@@ -99,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 420666,
+      "num": 420666,
+      "word": "御赐小仵作2回归官宣",
+      "onboard_time": 1737513979,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 412007,
       "num": 412007,
       "word": "雨雪或波及全国所有省份",
@@ -113,6 +161,14 @@
       "onboard_time": 1737509058,
       "rank": 6,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 380281,
+      "num": 380281,
+      "word": "警犬福仔班味儿重被扣除年终奖",
+      "onboard_time": 1737507979,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 373789,
@@ -163,6 +219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 286715,
+      "num": 186098,
+      "word": "春晚特别单曲王菲新歌",
+      "onboard_time": 1737513738,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284722,
       "num": 218404,
       "word": "第一批烫发的受害者出现了",
@@ -203,6 +267,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 269048,
+      "num": 269048,
+      "word": "漯河舰交接入列",
+      "onboard_time": 1737512719,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 268898,
+      "num": 185327,
+      "word": "耙耙柑到底怎么读",
+      "onboard_time": 1737513080,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 266950,
       "num": 256230,
       "word": "沈梦辰国色芳华出场镜头",
@@ -227,12 +307,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 259651,
-      "num": 259651,
-      "word": "警犬福仔班味儿重被扣除年终奖",
-      "onboard_time": 1737507979,
-      "rank": 13,
-      "category": "民生新闻"
+      "raw_hot": 255822,
+      "num": 185853,
+      "word": "2025央视网络春晚节目单",
+      "onboard_time": 1737513979,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 254304,
@@ -267,6 +347,22 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 213615,
+      "num": 185683,
+      "word": "冰箱养活鱼只为过年吃口新鲜的",
+      "onboard_time": 1737512778,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212294,
+      "num": 218604,
+      "word": "日本家喻户晓男星被曝性侵女性",
+      "onboard_time": 1737506660,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208378,
       "num": 208378,
       "word": "胜意自尽",
@@ -291,12 +387,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 201829,
-      "num": 218604,
-      "word": "日本家喻户晓男星被曝性侵女性",
-      "onboard_time": 1737506660,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 199975,
+      "num": 185116,
+      "word": "Jennie专辑配置公开",
+      "onboard_time": 1737513858,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 196020,
@@ -339,6 +435,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 186172,
+      "num": 186172,
+      "word": "土耳其酒店建在悬崖着火灭不掉",
+      "onboard_time": 1737509840,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 181669,
       "num": 181669,
       "word": "阴阳师",
@@ -353,6 +457,14 @@
       "onboard_time": 1737474618,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 177766,
+      "num": 177766,
+      "word": "虞书欣林一新剧下证了",
+      "onboard_time": 1737514218,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 175796,
@@ -379,11 +491,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165589,
-      "num": 165589,
-      "word": "男子被火锅烫伤用白糖敷好了",
-      "onboard_time": 1737510678,
+      "raw_hot": 165009,
+      "num": 165009,
+      "word": "射雕预售票房破1.5亿",
+      "onboard_time": 1737512657,
       "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 164484,
+      "num": 164484,
+      "word": "虫子在干果罐内织出一个网兜",
+      "onboard_time": 1737513197,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -411,12 +531,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 159983,
-      "num": 159983,
-      "word": "土耳其酒店建在悬崖着火灭不掉",
-      "onboard_time": 1737509840,
-      "rank": 45,
-      "category": "海外新闻"
+      "raw_hot": 156581,
+      "num": 156581,
+      "word": "Jennie将于3月7日回归",
+      "onboard_time": 1737512118,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 156190,
@@ -475,6 +595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 141185,
+      "num": 141185,
+      "word": "Doinb谈跪下",
+      "onboard_time": 1737510978,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 140767,
       "num": 140767,
       "word": "昆明市市长刘佳晨任上被查",
@@ -483,12 +611,52 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137048,
+      "num": 137048,
+      "word": "豹豹猫猫见面",
+      "onboard_time": 1737514458,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 127922,
+      "num": 127922,
+      "word": "世界之外",
+      "onboard_time": 1737513738,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 126405,
+      "num": 185436,
+      "word": "奥委会发文为樊振东庆生",
+      "onboard_time": 1737510616,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 126371,
+      "num": 126371,
+      "word": "石头赶路",
+      "onboard_time": 1737510738,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124620,
       "num": 124620,
       "word": "酷云认证的年度爆剧",
       "onboard_time": 1737509298,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124201,
+      "num": 124201,
+      "word": "虐杀猫狗视频售价从几元至上百元",
+      "onboard_time": 1737512719,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123492,
@@ -507,20 +675,20 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 121130,
+      "num": 121130,
+      "word": "炉石传说",
+      "onboard_time": 1737514699,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 121083,
       "num": 121083,
       "word": "空腹断食42小时的变化",
       "onboard_time": 1737454218,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 120102,
-      "num": 120102,
-      "word": "奥委会发文为樊振东庆生",
-      "onboard_time": 1737510616,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 119099,
@@ -531,12 +699,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 117900,
-      "num": 117900,
-      "word": "石头赶路",
-      "onboard_time": 1737510738,
-      "rank": 44,
-      "category": "电竞"
+      "raw_hot": 117268,
+      "num": 117268,
+      "word": "樊振东希望大家远离饭圈戾气",
+      "onboard_time": 1737513619,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 115378,
@@ -545,14 +713,6 @@
       "onboard_time": 1737465318,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 114231,
-      "num": 114231,
-      "word": "Doinb谈跪下",
-      "onboard_time": 1737510978,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 112526,
@@ -673,6 +833,14 @@
       "onboard_time": 1737463819,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 93672,
+      "num": 185191,
+      "word": "回到唐人街MV记录十年唐探",
+      "onboard_time": 1737513498,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 86232,

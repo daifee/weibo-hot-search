@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737511107457,
+  "endTime": 1737514824802,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -403,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1195509,
+      "num": 1195509,
+      "word": "代露娃回应晋江式演技",
+      "onboard_time": 1737511996,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1195226,
       "num": 1195226,
       "word": "爸爸一句含金量不高孩子气哭撕奖状",
@@ -643,6 +651,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 973810,
+      "num": 186054,
+      "word": "王楚然吃面面受轻伤",
+      "onboard_time": 1737511516,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 972219,
       "num": 972219,
       "word": "车厘子",
@@ -800,6 +816,14 @@
       "word": "女子身在辐中不知辐",
       "onboard_time": 1737390918,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 856141,
+      "num": 185618,
+      "word": "男子被火锅烫伤用白糖敷好了",
+      "onboard_time": 1737510678,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -1155,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 613489,
+      "num": 613489,
+      "word": "这届年轻人回村过年不再大包小包",
+      "onboard_time": 1737512657,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 608087,
       "num": 608087,
       "word": "赶公交的SM男练习生",
@@ -1320,6 +1352,14 @@
       "word": "苹果官网把iPhone写错了",
       "onboard_time": 1737429739,
       "rank": 23,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 553081,
+      "num": 185535,
+      "word": "iPhone17Air背板",
+      "onboard_time": 1737511939,
+      "rank": 22,
       "category": "数码"
     },
     {
@@ -1891,6 +1931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 420666,
+      "num": 420666,
+      "word": "御赐小仵作2回归官宣",
+      "onboard_time": 1737513979,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 418703,
       "num": 319879,
       "word": "何惟芳开大",
@@ -2049,6 +2097,14 @@
       "onboard_time": 1737457458,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 380281,
+      "num": 380281,
+      "word": "警犬福仔班味儿重被扣除年终奖",
+      "onboard_time": 1737507979,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 376737,
@@ -2627,6 +2683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 286715,
+      "num": 186098,
+      "word": "春晚特别单曲王菲新歌",
+      "onboard_time": 1737513738,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286698,
       "num": 286698,
       "word": "两只狗跟了葛夕",
@@ -2867,6 +2931,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 269048,
+      "num": 269048,
+      "word": "漯河舰交接入列",
+      "onboard_time": 1737512719,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 268898,
+      "num": 185327,
+      "word": "耙耙柑到底怎么读",
+      "onboard_time": 1737513080,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 268637,
       "num": 219421,
       "word": "电影哪吒之魔童闹海",
@@ -2971,14 +3051,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 259651,
-      "num": 259651,
-      "word": "警犬福仔班味儿重被扣除年终奖",
-      "onboard_time": 1737507979,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 258817,
       "num": 258817,
       "word": "特朗普称美国政府面临信任危机",
@@ -3025,6 +3097,14 @@
       "onboard_time": 1737233950,
       "rank": 9,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 255822,
+      "num": 185853,
+      "word": "2025央视网络春晚节目单",
+      "onboard_time": 1737513979,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 255655,
@@ -3523,6 +3603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213615,
+      "num": 185683,
+      "word": "冰箱养活鱼只为过年吃口新鲜的",
+      "onboard_time": 1737512778,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213602,
       "num": 246523,
       "word": "夏弃疾不再接任何艺人商业约拍",
@@ -3537,6 +3625,14 @@
       "onboard_time": 1737372077,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212294,
+      "num": 218604,
+      "word": "日本家喻户晓男星被曝性侵女性",
+      "onboard_time": 1737506660,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 212041,
@@ -3763,14 +3859,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 201829,
-      "num": 218604,
-      "word": "日本家喻户晓男星被曝性侵女性",
-      "onboard_time": 1737506660,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 201621,
       "num": 201621,
       "word": "漂白好讽刺的四个人",
@@ -3841,6 +3929,14 @@
       "onboard_time": 1737462258,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 199975,
+      "num": 185116,
+      "word": "Jennie专辑配置公开",
+      "onboard_time": 1737513858,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 199602,
@@ -4371,6 +4467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186172,
+      "num": 186172,
+      "word": "土耳其酒店建在悬崖着火灭不掉",
+      "onboard_time": 1737509840,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 186150,
       "num": 186150,
       "word": "吴尊杀回亲子节目",
@@ -4624,6 +4728,14 @@
       "word": "孟子义李昀锐拼好宣",
       "onboard_time": 1737440237,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 177766,
+      "num": 177766,
+      "word": "虞书欣林一新剧下证了",
+      "onboard_time": 1737514218,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -5027,14 +5139,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 165589,
-      "num": 165589,
-      "word": "男子被火锅烫伤用白糖敷好了",
-      "onboard_time": 1737510678,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 165492,
       "num": 165492,
       "word": "我可能亲眼见证了一个非遗的消亡",
@@ -5059,12 +5163,28 @@
       "category": "电影,剧集"
     },
     {
+      "raw_hot": 165009,
+      "num": 165009,
+      "word": "射雕预售票房破1.5亿",
+      "onboard_time": 1737512657,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 164829,
       "num": 164829,
       "word": "杨迪吐槽的到底是谁",
       "onboard_time": 1737448217,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164484,
+      "num": 164484,
+      "word": "虫子在干果罐内织出一个网兜",
+      "onboard_time": 1737513197,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163734,
@@ -5241,14 +5361,6 @@
       "onboard_time": 1737371657,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159983,
-      "num": 159983,
-      "word": "土耳其酒店建在悬崖着火灭不掉",
-      "onboard_time": 1737509840,
-      "rank": 45,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 159729,
@@ -5441,6 +5553,14 @@
       "onboard_time": 1737379818,
       "rank": 31,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 156581,
+      "num": 156581,
+      "word": "Jennie将于3月7日回归",
+      "onboard_time": 1737512118,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 156422,
@@ -6059,6 +6179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141185,
+      "num": 141185,
+      "word": "Doinb谈跪下",
+      "onboard_time": 1737510978,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141007,
       "num": 141007,
       "word": "王嘉尔击剑",
@@ -6241,6 +6369,14 @@
       "onboard_time": 1737342918,
       "rank": 34,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 137048,
+      "num": 137048,
+      "word": "豹豹猫猫见面",
+      "onboard_time": 1737514458,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 136792,
@@ -6635,6 +6771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 127922,
+      "num": 127922,
+      "word": "世界之外",
+      "onboard_time": 1737513738,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 127905,
       "num": 127905,
       "word": "多款手机集体降至6000元以内",
@@ -6723,6 +6867,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126405,
+      "num": 185436,
+      "word": "奥委会发文为樊振东庆生",
+      "onboard_time": 1737510616,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 126371,
+      "num": 126371,
+      "word": "石头赶路",
+      "onboard_time": 1737510738,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125697,
       "num": 125697,
       "word": "未定事件簿",
@@ -6809,6 +6969,14 @@
       "onboard_time": 1737362058,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124201,
+      "num": 124201,
+      "word": "虐杀猫狗视频售价从几元至上百元",
+      "onboard_time": 1737512719,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124082,
@@ -6987,6 +7155,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 121130,
+      "num": 121130,
+      "word": "炉石传说",
+      "onboard_time": 1737514699,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 121099,
       "num": 121099,
       "word": "白鹿剧宣真诚又体面",
@@ -7057,14 +7233,6 @@
       "onboard_time": 1737216618,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 120102,
-      "num": 120102,
-      "word": "奥委会发文为樊振东庆生",
-      "onboard_time": 1737510616,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 120031,
@@ -7163,14 +7331,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 117900,
-      "num": 117900,
-      "word": "石头赶路",
-      "onboard_time": 1737510738,
-      "rank": 44,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 117848,
       "num": 233010,
       "word": "给大家分享一个上画集锦",
@@ -7217,6 +7377,14 @@
       "onboard_time": 1737268578,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117268,
+      "num": 117268,
+      "word": "樊振东希望大家远离饭圈戾气",
+      "onboard_time": 1737513619,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 117174,
@@ -7337,14 +7505,6 @@
       "onboard_time": 1737442518,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 114231,
-      "num": 114231,
-      "word": "Doinb谈跪下",
-      "onboard_time": 1737510978,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 114199,
@@ -8393,6 +8553,14 @@
       "onboard_time": 1737309732,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93672,
+      "num": 185191,
+      "word": "回到唐人街MV记录十年唐探",
+      "onboard_time": 1737513498,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 93472,
