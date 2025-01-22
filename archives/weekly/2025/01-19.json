@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737542370007,
+  "endTime": 1737544728318,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -523,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1116035,
+      "num": 1178565,
+      "word": "联合国公布美国欠款",
+      "onboard_time": 1737540379,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1110441,
       "num": 572499,
       "word": "葛夕回应麦琳黄圣依打架",
@@ -697,14 +705,6 @@
       "onboard_time": 1737379818,
       "rank": 12,
       "category": "财经"
-    },
-    {
-      "raw_hot": 979352,
-      "num": 1156696,
-      "word": "联合国公布美国欠款",
-      "onboard_time": 1737540379,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 972219,
@@ -1163,6 +1163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 699049,
+      "num": 323197,
+      "word": "邪恶车厘子",
+      "onboard_time": 1737541397,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 698046,
       "num": 694431,
       "word": "特朗普将宣布南部边境进入紧急状态",
@@ -1297,6 +1305,14 @@
       "onboard_time": 1737414855,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 623689,
+      "num": 623689,
+      "word": "韩方承认规则不合理但坚持",
+      "onboard_time": 1737542959,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 618718,
@@ -3099,12 +3115,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 290793,
+      "num": 268893,
+      "word": "魏哲鸣新剧被打断腿这段",
+      "onboard_time": 1737543198,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 290731,
       "num": 290731,
       "word": "无限暖暖",
       "onboard_time": 1737297020,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 289512,
+      "num": 261759,
+      "word": "人大代表建议将产假延长至180天",
+      "onboard_time": 1737538578,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 289214,
@@ -3201,6 +3233,14 @@
       "onboard_time": 1737535818,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 282579,
+      "num": 241100,
+      "word": "宋红玉结局",
+      "onboard_time": 1737540798,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 281868,
@@ -3473,6 +3513,14 @@
       "onboard_time": 1737426737,
       "rank": 24,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 261718,
+      "num": 231465,
+      "word": "丁禹兮春晚红色西装造型",
+      "onboard_time": 1737540438,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 261625,
@@ -3819,6 +3867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238556,
+      "num": 201388,
+      "word": "杨紫工作室送2025新年礼盒",
+      "onboard_time": 1737538998,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 237761,
       "num": 237761,
       "word": "吴奇隆刘诗诗曾谈公开恋情",
@@ -3859,14 +3915,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 236092,
-      "num": 236092,
-      "word": "邪恶车厘子",
-      "onboard_time": 1737541397,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 236011,
       "num": 236011,
       "word": "阿玛尼晒樊振东蛋糕图",
@@ -3897,14 +3945,6 @@
       "onboard_time": 1737536238,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 233676,
-      "num": 201965,
-      "word": "丁禹兮春晚红色西装造型",
-      "onboard_time": 1737540438,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 233578,
@@ -4227,6 +4267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213145,
+      "num": 200262,
+      "word": "生万物过审",
+      "onboard_time": 1737543859,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213005,
       "num": 213005,
       "word": "蛇年宝宝的本命年好长啊",
@@ -4353,6 +4401,14 @@
       "onboard_time": 1737520039,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207706,
+      "num": 200206,
+      "word": "业内人士谈射雕排片仅占17%",
+      "onboard_time": 1737544578,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 207523,
@@ -4579,6 +4635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 200010,
+      "num": 200010,
+      "word": "吴昕的抽象照都是何炅拍的",
+      "onboard_time": 1737541937,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199975,
       "num": 185116,
       "word": "Jennie专辑配置公开",
@@ -4659,6 +4723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197322,
+      "num": 197322,
+      "word": "王子奇一番",
+      "onboard_time": 1737542238,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197222,
       "num": 197222,
       "word": "何惟芳拿回花满筑",
@@ -4697,6 +4769,14 @@
       "onboard_time": 1737383359,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196597,
+      "num": 196597,
+      "word": "2025春节档电影片单发布",
+      "onboard_time": 1737540497,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 196220,
@@ -5227,14 +5307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 186082,
-      "num": 201521,
-      "word": "人大代表建议将产假延长至180天",
-      "onboard_time": 1737538578,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 185916,
       "num": 185916,
       "word": "支持有条件的幼儿园招收2至3岁幼儿",
@@ -5337,6 +5409,14 @@
       "onboard_time": 1737385159,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 182422,
+      "num": 182422,
+      "word": "田曦薇张艺凡正是藏不住的年纪",
+      "onboard_time": 1737543498,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 182091,
@@ -5603,20 +5683,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 175681,
-      "num": 170095,
-      "word": "吴昕的抽象照都是何炅拍的",
-      "onboard_time": 1737541937,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 175465,
       "num": 175465,
       "word": "iG对战NIP",
       "onboard_time": 1737280218,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 175150,
+      "num": 175150,
+      "word": "宋雨琦春晚彩排蝴蝶结公主头",
+      "onboard_time": 1737544398,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 175082,
@@ -6379,6 +6459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 158642,
+      "num": 279492,
+      "word": "乡村全面振兴规划印发",
+      "onboard_time": 1737544097,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 158614,
       "num": 158614,
       "word": "澳网官方感谢樊振东",
@@ -6401,6 +6489,14 @@
       "onboard_time": 1737526758,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158475,
+      "num": 158475,
+      "word": "刘晓庆回应吃鱼事件",
+      "onboard_time": 1737544398,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 157882,
@@ -6497,14 +6593,6 @@
       "onboard_time": 1737189137,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 155908,
-      "num": 155908,
-      "word": "杨紫工作室送2025新年礼盒",
-      "onboard_time": 1737538998,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 155764,
@@ -6777,6 +6865,14 @@
       "onboard_time": 1737267198,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150408,
+      "num": 150408,
+      "word": "倪夏莲谈吴柳芳事件",
+      "onboard_time": 1737544578,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 150213,
@@ -7059,14 +7155,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 145069,
-      "num": 145069,
-      "word": "宋红玉结局",
-      "onboard_time": 1737540798,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 144832,
       "num": 144832,
       "word": "孟鹤堂相声得票比师兄弟加起来都高",
@@ -7259,6 +7347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140845,
+      "num": 140845,
+      "word": "韩方表示提子新规已多次提醒中方",
+      "onboard_time": 1737542959,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140719,
       "num": 140719,
       "word": "第一批回家的00后开始拜财神了",
@@ -7379,6 +7475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138558,
+      "num": 200895,
+      "word": "樊振东熠熠生辉的28岁",
+      "onboard_time": 1737544219,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138522,
       "num": 296225,
       "word": "人造太阳创1亿摄氏度1000秒纪录",
@@ -7425,6 +7529,14 @@
       "onboard_time": 1737538337,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 137878,
+      "num": 160880,
+      "word": "樊振东创4项乒坛之最",
+      "onboard_time": 1737543079,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 137865,
@@ -7513,6 +7625,14 @@
       "onboard_time": 1737355278,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 136273,
+      "num": 136273,
+      "word": "苹果客服称iPhone13不再上架",
+      "onboard_time": 1737543918,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 136272,
@@ -7665,14 +7785,6 @@
       "onboard_time": 1737525321,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 133954,
-      "num": 176764,
-      "word": "2025春节档电影片单发布",
-      "onboard_time": 1737540497,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 133704,
@@ -8003,6 +8115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 127908,
+      "num": 198057,
+      "word": "肖宇梁好像来微博写寒假作业的",
+      "onboard_time": 1737542838,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127905,
       "num": 127905,
       "word": "多款手机集体降至6000元以内",
@@ -8313,14 +8433,6 @@
       "onboard_time": 1737447859,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 123161,
-      "num": 123161,
-      "word": "王子奇一番",
-      "onboard_time": 1737542238,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 123142,
@@ -9024,6 +9136,14 @@
       "word": "异人之下2好看",
       "onboard_time": 1737247038,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 111058,
+      "num": 111058,
+      "word": "漂白受害者父亲名字",
+      "onboard_time": 1737544698,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -11123,6 +11243,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 40879,
+      "num": 225136,
+      "word": "小年是有一些好运在身上的",
+      "onboard_time": 1737542418,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40636,
       "num": 59262,
       "word": "贺峻霖给严浩翔送祝福",
@@ -11331,7 +11459,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31792,
+      "raw_hot": 31902,
       "num": 580096,
       "word": "年字在古代曾指庄稼成熟",
       "onboard_time": 1737536597,
