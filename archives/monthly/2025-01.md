@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/22 19:18:48
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/22 19:36:04
 </p>
 </blockquote>
 <p>
@@ -5073,6 +5073,12 @@ B站拿下春晚转播权（热度：825759）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%AA%E6%81%B6%E8%BD%A6%E5%8E%98%E5%AD%90%23" target="weibo">
+邪恶车厘子（热度：807988）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%99%93%E5%BA%86%E8%BF%9F%E5%88%B0%E4%B8%A4%E5%B0%8F%E6%97%B6%E5%85%A8%E5%91%98%E7%AD%89%E5%BE%85%23" target="weibo">
 刘晓庆迟到两小时全员等待（热度：807806）
 </a>
@@ -5459,6 +5465,12 @@ GMM（热度：773720）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%8C%97%E4%BA%AC%E6%98%A5%E6%99%9A%E8%A1%A8%E6%BC%94%E5%9C%A8%E5%B9%B2%E5%98%9B%E5%91%80%23" target="weibo">
 虞书欣北京春晚表演在干嘛呀（热度：769821）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E6%96%B9%E6%89%BF%E8%AE%A4%E8%A7%84%E5%88%99%E4%B8%8D%E5%90%88%E7%90%86%E4%BD%86%E5%9D%9A%E6%8C%81%23" target="weibo">
+韩方承认规则不合理但坚持（热度：769410）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ SM新女团 SMTOWN压轴（热度：743773）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E5%91%8A%E9%BB%91%E5%B0%86%E5%BC%80%E5%BA%AD%23" target="weibo">
 刘耀文告黑将开庭（热度：713437）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%98%95%E5%86%8D%E4%B8%80%E6%AC%A1%E7%BB%B4%E6%8A%A4%E6%A8%8A%E6%8C%AF%E4%B8%9C%23" target="weibo">
-许昕再一次维护樊振东（热度：712620）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E8%A2%AB%E5%88%BA4%E5%88%80%E7%89%BA%E7%89%B2%E5%89%8D%E7%94%BB%E9%9D%A2%E7%9C%8B%E5%BE%97%E5%BF%83%E7%97%9B%23" target="weibo">
-民警被刺4刀牺牲前画面看得心痛（热度：712398）
 </a>
 </li>
 

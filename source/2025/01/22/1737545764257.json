@@ -1,0 +1,410 @@
+{
+  "runTime": 1737545764257,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 903937,
+        "num": 1144629,
+        "word": "联合国公布美国欠款",
+        "onboard_time": 1737540379,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 769410,
+        "num": 769410,
+        "word": "韩方承认规则不合理但坚持",
+        "onboard_time": 1737542959,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25646,
+        "num": 495335,
+        "word": "年字在古代曾指庄稼成熟",
+        "onboard_time": 1737536597,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430248,
+        "num": 430248,
+        "word": "魏哲鸣新剧被打断腿这段",
+        "onboard_time": 1737543198,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351115,
+        "num": 351115,
+        "word": "漂白",
+        "onboard_time": 1737522800,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315729,
+        "num": 315729,
+        "word": "吃车厘子不要咬破果核",
+        "onboard_time": 1737519499,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 348326,
+        "num": 312571,
+        "word": "肖战说为国为民才是侠之大者",
+        "onboard_time": 1737535158,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 306335,
+        "num": 306335,
+        "word": "宋红玉结局",
+        "onboard_time": 1737540798,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171500,
+        "num": 303240,
+        "word": "六部门印发中长期资金入市方案",
+        "onboard_time": 1737535097,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 143484,
+        "num": 299350,
+        "word": "乡村全面振兴规划印发",
+        "onboard_time": 1737544097,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 389571,
+        "num": 291790,
+        "word": "潘宏园区宠物托运用生鲜车运宠物致死",
+        "onboard_time": 1737537318,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 354616,
+        "num": 286856,
+        "word": "刘晓庆回应吃鱼事件",
+        "onboard_time": 1737544398,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308116,
+        "num": 280258,
+        "word": "倪夏莲谈吴柳芳事件",
+        "onboard_time": 1737544578,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279196,
+        "num": 279196,
+        "word": "人大代表建议将产假延长至180天",
+        "onboard_time": 1737538578,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 167386,
+        "num": 264799,
+        "word": "外交部回应美计划对中国商品加征关税",
+        "onboard_time": 1737534897,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 254297,
+        "num": 254297,
+        "word": "赵今麦首位00后三平台破万女演员",
+        "onboard_time": 1737527538,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27388,
+        "num": 253346,
+        "word": "小年是有一些好运在身上的",
+        "onboard_time": 1737542418,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 517553,
+        "num": 248156,
+        "word": "杨紫李现晒何惟芳蒋长扬大婚照",
+        "onboard_time": 1737537439,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175952,
+        "num": 245510,
+        "word": "肖宇梁好像来微博写寒假作业的",
+        "onboard_time": 1737542838,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166084,
+        "num": 242094,
+        "word": "网传存款80万元到期取不出来不实",
+        "onboard_time": 1737535217,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 807988,
+        "num": 241297,
+        "word": "邪恶车厘子",
+        "onboard_time": 1737541397,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 457183,
+        "num": 236897,
+        "word": "网红潘宏曾有刑事犯罪记录",
+        "onboard_time": 1737518960,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 303432,
+        "num": 235500,
+        "word": "女子年终奖发半扇羊赔了1件羽绒服",
+        "onboard_time": 1737537559,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286159,
+        "num": 230565,
+        "word": "难哄下证",
+        "onboard_time": 1737538399,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164940,
+        "num": 227118,
+        "word": "樊振东熠熠生辉的28岁",
+        "onboard_time": 1737544219,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226241,
+        "num": 226241,
+        "word": "BLACKPINK的默契",
+        "onboard_time": 1737544998,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 206362,
+        "num": 206362,
+        "word": "射雕直播",
+        "onboard_time": 1737545119,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203148,
+        "num": 203148,
+        "word": "业内人士谈射雕排片仅占17%",
+        "onboard_time": 1737544578,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197571,
+        "num": 197571,
+        "word": "2025春节档电影片单发布",
+        "onboard_time": 1737540497,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197276,
+        "num": 197276,
+        "word": "丁禹兮春晚红色西装造型",
+        "onboard_time": 1737540438,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193344,
+        "num": 193344,
+        "word": "金智秀solo回归预告",
+        "onboard_time": 1737545718,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188499,
+        "num": 188499,
+        "word": "王子奇一番",
+        "onboard_time": 1737542238,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184891,
+        "num": 184891,
+        "word": "宋雨琦春晚彩排蝴蝶结公主头",
+        "onboard_time": 1737544398,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238401,
+        "num": 182469,
+        "word": "遭追尾车上3人身亡肇事司机被判3缓5",
+        "onboard_time": 1737533597,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179907,
+        "num": 179907,
+        "word": "祝绪丹花神",
+        "onboard_time": 1737539239,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179272,
+        "num": 179272,
+        "word": "田曦薇张艺凡正是藏不住的年纪",
+        "onboard_time": 1737543498,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165810,
+        "num": 165810,
+        "word": "漂白受害者父亲名字",
+        "onboard_time": 1737544698,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159554,
+        "num": 159554,
+        "word": "杨紫工作室送2025新年礼盒",
+        "onboard_time": 1737538998,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157471,
+        "num": 157471,
+        "word": "蛇年央视春晚第四次联排",
+        "onboard_time": 1737545478,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148773,
+        "num": 148773,
+        "word": "生万物过审",
+        "onboard_time": 1737543859,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93351,
+        "num": 148073,
+        "word": "人大代表建议设置30天男职工陪产假",
+        "onboard_time": 1737543438,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 147594,
+        "num": 147594,
+        "word": "为何找王一博演唱点亮亚洲",
+        "onboard_time": 1737545059,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 146640,
+        "num": 146640,
+        "word": "梅大高速茶阳路段塌方灾害调查评估报告",
+        "onboard_time": 1737537737,
+        "rank": 42,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 146608,
+        "num": 146608,
+        "word": "江浙沪人最舍得给宠物买年夜饭",
+        "onboard_time": 1737544518,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145272,
+        "num": 145272,
+        "word": "猫咪撞猫后肇事逃逸",
+        "onboard_time": 1737539178,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133335,
+        "num": 133335,
+        "word": "小年",
+        "onboard_time": 1737538219,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122982,
+        "num": 122982,
+        "word": "多位棋手谈柯洁被判负",
+        "onboard_time": 1737533778,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116793,
+        "num": 116793,
+        "word": "肖战拦着梁家辉自己蹲下",
+        "onboard_time": 1737526577,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115241,
+        "num": 115241,
+        "word": "躲雨的樊振东12年后成了C位",
+        "onboard_time": 1737540678,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7539,
+        "num": 112813,
+        "word": "山东拿出90亿政策红包快来买买买",
+        "onboard_time": 1737545718,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的新春暖心话#"
+    }
+  }
+}

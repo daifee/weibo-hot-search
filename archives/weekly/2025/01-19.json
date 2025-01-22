@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737544728318,
+  "endTime": 1737545764257,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -995,6 +995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 807988,
+      "num": 323197,
+      "word": "邪恶车厘子",
+      "onboard_time": 1737541397,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 806714,
       "num": 806714,
       "word": "26岁渐冻症女生已不符合临床入组条件",
@@ -1033,6 +1041,14 @@
       "onboard_time": 1737493571,
       "rank": 1,
       "category": "网红"
+    },
+    {
+      "raw_hot": 769410,
+      "num": 769410,
+      "word": "韩方承认规则不合理但坚持",
+      "onboard_time": 1737542959,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 758879,
@@ -1161,14 +1177,6 @@
       "onboard_time": 1737353538,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 699049,
-      "num": 323197,
-      "word": "邪恶车厘子",
-      "onboard_time": 1737541397,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 698046,
@@ -1305,14 +1313,6 @@
       "onboard_time": 1737414855,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 623689,
-      "num": 623689,
-      "word": "韩方承认规则不合理但坚持",
-      "onboard_time": 1737542959,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 618718,
@@ -2187,6 +2187,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 430248,
+      "num": 430248,
+      "word": "魏哲鸣新剧被打断腿这段",
+      "onboard_time": 1737543198,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 430062,
       "num": 430062,
       "word": "李现金秀贤G社生图",
@@ -2627,6 +2635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 354616,
+      "num": 286856,
+      "word": "刘晓庆回应吃鱼事件",
+      "onboard_time": 1737544398,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 353806,
       "num": 421949,
       "word": "加油站错加汽油后奔驰大G趴窝",
@@ -2931,6 +2947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 308116,
+      "num": 280258,
+      "word": "倪夏莲谈吴柳芳事件",
+      "onboard_time": 1737544578,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 308101,
       "num": 146710,
       "word": "特朗普赦免约1500名国会山骚乱暴力分子",
@@ -2961,6 +2985,14 @@
       "onboard_time": 1737368538,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 306335,
+      "num": 306335,
+      "word": "宋红玉结局",
+      "onboard_time": 1737540798,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 305779,
@@ -3115,14 +3147,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 290793,
-      "num": 268893,
-      "word": "魏哲鸣新剧被打断腿这段",
-      "onboard_time": 1737543198,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 290731,
       "num": 290731,
       "word": "无限暖暖",
@@ -3132,7 +3156,7 @@
     },
     {
       "raw_hot": 289512,
-      "num": 261759,
+      "num": 279196,
       "word": "人大代表建议将产假延长至180天",
       "onboard_time": 1737538578,
       "rank": 49,
@@ -3233,14 +3257,6 @@
       "onboard_time": 1737535818,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 282579,
-      "num": 241100,
-      "word": "宋红玉结局",
-      "onboard_time": 1737540798,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 281868,
@@ -4035,6 +4051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 226241,
+      "num": 226241,
+      "word": "BLACKPINK的默契",
+      "onboard_time": 1737544998,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 223751,
       "num": 329575,
       "word": "王楚钦7367分世排第一",
@@ -4404,7 +4428,7 @@
     },
     {
       "raw_hot": 207706,
-      "num": 200206,
+      "num": 203148,
       "word": "业内人士谈射雕排片仅占17%",
       "onboard_time": 1737544578,
       "rank": 27,
@@ -4433,6 +4457,14 @@
       "onboard_time": 1737210261,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206362,
+      "num": 206362,
+      "word": "射雕直播",
+      "onboard_time": 1737545119,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 205916,
@@ -4723,6 +4755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197571,
+      "num": 197571,
+      "word": "2025春节档电影片单发布",
+      "onboard_time": 1737540497,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 197322,
       "num": 197322,
       "word": "王子奇一番",
@@ -4769,14 +4809,6 @@
       "onboard_time": 1737383359,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196597,
-      "num": 196597,
-      "word": "2025春节档电影片单发布",
-      "onboard_time": 1737540497,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 196220,
@@ -4945,6 +4977,14 @@
       "onboard_time": 1737347059,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 193344,
+      "num": 193344,
+      "word": "金智秀solo回归预告",
+      "onboard_time": 1737545718,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 193317,
@@ -5371,6 +5411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 184891,
+      "num": 184891,
+      "word": "宋雨琦春晚彩排蝴蝶结公主头",
+      "onboard_time": 1737544398,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184339,
       "num": 184339,
       "word": "九重紫",
@@ -5659,6 +5707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175952,
+      "num": 245510,
+      "word": "肖宇梁好像来微博写寒假作业的",
+      "onboard_time": 1737542838,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175935,
       "num": 175935,
       "word": "漂白加更礼",
@@ -5689,14 +5745,6 @@
       "onboard_time": 1737280218,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 175150,
-      "num": 175150,
-      "word": "宋雨琦春晚彩排蝴蝶结公主头",
-      "onboard_time": 1737544398,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 175082,
@@ -6083,6 +6131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165810,
+      "num": 165810,
+      "word": "漂白受害者父亲名字",
+      "onboard_time": 1737544698,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165780,
       "num": 165780,
       "word": "A股三王发飙",
@@ -6129,6 +6185,14 @@
       "onboard_time": 1737512657,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 164940,
+      "num": 227118,
+      "word": "樊振东熠熠生辉的28岁",
+      "onboard_time": 1737544219,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 164829,
@@ -6460,7 +6524,7 @@
     },
     {
       "raw_hot": 158642,
-      "num": 279492,
+      "num": 299350,
       "word": "乡村全面振兴规划印发",
       "onboard_time": 1737544097,
       "rank": 9,
@@ -6491,14 +6555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158475,
-      "num": 158475,
-      "word": "刘晓庆回应吃鱼事件",
-      "onboard_time": 1737544398,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 157882,
       "num": 157882,
       "word": "虞书欣新专辑海外影响力",
@@ -6513,6 +6569,14 @@
       "onboard_time": 1737452238,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 157471,
+      "num": 157471,
+      "word": "蛇年央视春晚第四次联排",
+      "onboard_time": 1737545478,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 157435,
@@ -6867,14 +6931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 150408,
-      "num": 150408,
-      "word": "倪夏莲谈吴柳芳事件",
-      "onboard_time": 1737544578,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 150213,
       "num": 150213,
       "word": "苏新皓卷毛活力小狗",
@@ -7011,6 +7067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 147594,
+      "num": 147594,
+      "word": "为何找王一博演唱点亮亚洲",
+      "onboard_time": 1737545059,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 147583,
       "num": 218361,
       "word": "樊振东呼吁球迷拒绝饭圈",
@@ -7073,6 +7137,14 @@
       "onboard_time": 1737371057,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 146608,
+      "num": 146608,
+      "word": "江浙沪人最舍得给宠物买年夜饭",
+      "onboard_time": 1737544518,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146556,
@@ -7473,14 +7545,6 @@
       "onboard_time": 1737345558,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 138558,
-      "num": 200895,
-      "word": "樊振东熠熠生辉的28岁",
-      "onboard_time": 1737544219,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 138522,
@@ -8113,14 +8177,6 @@
       "onboard_time": 1737513738,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 127908,
-      "num": 198057,
-      "word": "肖宇梁好像来微博写寒假作业的",
-      "onboard_time": 1737542838,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 127905,
@@ -9139,14 +9195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 111058,
-      "num": 111058,
-      "word": "漂白受害者父亲名字",
-      "onboard_time": 1737544698,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 110776,
       "num": 110776,
       "word": "00花新剧开年对打",
@@ -10048,6 +10096,14 @@
       "word": "中国的人造太阳有重大突破",
       "onboard_time": 1737371538,
       "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 93351,
+      "num": 148073,
+      "word": "人大代表建议设置30天男职工陪产假",
+      "onboard_time": 1737543438,
+      "rank": 40,
       "category": "国内时政"
     },
     {
@@ -11244,7 +11300,7 @@
     },
     {
       "raw_hot": 40879,
-      "num": 225136,
+      "num": 253346,
       "word": "小年是有一些好运在身上的",
       "onboard_time": 1737542418,
       "rank": 17,
@@ -12193,6 +12249,14 @@
       "onboard_time": 1737473120,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7539,
+      "num": 112813,
+      "word": "山东拿出90亿政策红包快来买买买",
+      "onboard_time": 1737545718,
+      "rank": 49,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
