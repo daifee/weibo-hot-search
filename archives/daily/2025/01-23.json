@@ -1,6 +1,6 @@
 {
   "startTime": 1737563308947,
-  "endTime": 1737584454428,
+  "endTime": 1737585498581,
   "band_list": [
     {
       "raw_hot": 1344080,
@@ -291,6 +291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106815,
+      "num": 54477,
+      "word": "沈春阳回应被叫邪恶车厘子",
+      "onboard_time": 1737568693,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103953,
       "num": 103953,
       "word": "难哄",
@@ -363,26 +371,18 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 80463,
-      "num": 40905,
-      "word": "沈春阳回应被叫邪恶车厘子",
-      "onboard_time": 1737568693,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 78799,
+      "num": 141367,
+      "word": "孩子被护送绕160多道弯回到家",
+      "onboard_time": 1737565815,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78256,
       "num": 210822,
       "word": "过年模式正在开启",
       "onboard_time": 1737562697,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 77758,
-      "num": 141367,
-      "word": "孩子被护送绕160多道弯回到家",
-      "onboard_time": 1737565815,
       "rank": 9,
       "category": "民生新闻"
     },
@@ -460,11 +460,19 @@
     },
     {
       "raw_hot": 42017,
-      "num": 31467,
+      "num": 38177,
       "word": "漂白肉联厂F4",
       "onboard_time": 1737573672,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41982,
+      "num": 41982,
+      "word": "河南一地要求理发店做空气检测",
+      "onboard_time": 1737580451,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39298,
@@ -531,14 +539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23855,
-      "num": 23855,
-      "word": "河南一地要求理发店做空气检测",
-      "onboard_time": 1737580451,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23465,
       "num": 98839,
       "word": "2025新春走基层",
@@ -588,7 +588,7 @@
     },
     {
       "raw_hot": 14674,
-      "num": 16285,
+      "num": 29136,
       "word": "欧冠联赛",
       "onboard_time": 1737576371,
       "rank": 44,
@@ -601,6 +601,14 @@
       "onboard_time": 1737565035,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 13422,
+      "num": 29132,
+      "word": "安娜晒与诺一霓娜合照",
+      "onboard_time": 1737585433,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 13324,
