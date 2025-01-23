@@ -1,0 +1,410 @@
+{
+  "runTime": 1737597388509,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1060437,
+        "num": 1169670,
+        "word": "12岁女孩和73岁阿婆地铁内抢座",
+        "onboard_time": 1737588375,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1017425,
+        "num": 1017425,
+        "word": "花76万买房花60万装修",
+        "onboard_time": 1737592457,
+        "rank": 1,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 5488,
+        "num": 635259,
+        "word": "网络中国节",
+        "onboard_time": 1737597257,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 631283,
+        "num": 631283,
+        "word": "李幼贞结婚",
+        "onboard_time": 1737592457,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 552061,
+        "num": 552061,
+        "word": "留几手增重10公斤",
+        "onboard_time": 1737592939,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321394,
+        "num": 539088,
+        "word": "过年前大降温多地降10摄氏度",
+        "onboard_time": 1737593959,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 535961,
+        "num": 535961,
+        "word": "白鹿演技",
+        "onboard_time": 1737589936,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 492193,
+        "num": 492193,
+        "word": "蒋长扬纳妾",
+        "onboard_time": 1737593299,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313845,
+        "num": 313845,
+        "word": "法国士兵记步数APP泄露核潜艇机密",
+        "onboard_time": 1737561677,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 294690,
+        "num": 294690,
+        "word": "伽罗新皮肤最初的交响",
+        "onboard_time": 1737593959,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 261046,
+        "num": 261046,
+        "word": "央视boys一首歌全是易错字",
+        "onboard_time": 1737594678,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259374,
+        "num": 259374,
+        "word": "相思令 抠图",
+        "onboard_time": 1737560837,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234230,
+        "num": 234230,
+        "word": "为什么南北方小年相差一天",
+        "onboard_time": 1737550397,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216540,
+        "num": 216540,
+        "word": "江西一商场发生电梯卡人事故",
+        "onboard_time": 1737560358,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203442,
+        "num": 203442,
+        "word": "中央气象台发布今年首个寒潮预警",
+        "onboard_time": 1737592878,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200891,
+        "num": 200891,
+        "word": "潘宏曾直播自曝进去过9天",
+        "onboard_time": 1737565515,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 193477,
+        "num": 193477,
+        "word": "沈春阳回应被叫邪恶车厘子",
+        "onboard_time": 1737568693,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180292,
+        "num": 180292,
+        "word": "王楚钦加油",
+        "onboard_time": 1737588675,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173174,
+        "num": 173174,
+        "word": "泽连斯基再次开停火条件",
+        "onboard_time": 1737588375,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146912,
+        "num": 146912,
+        "word": "柯洁今日决胜局",
+        "onboard_time": 1737594498,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30847,
+        "num": 146362,
+        "word": "净网2024取得显著成效",
+        "onboard_time": 1737590719,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241222,
+        "num": 145587,
+        "word": "男子放慢吃饭速度10天瘦4斤",
+        "onboard_time": 1737593959,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239109,
+        "num": 144625,
+        "word": "蔡徐坤ins",
+        "onboard_time": 1737592518,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211902,
+        "num": 143999,
+        "word": "闺蜜疤痕妊娠女子劝诫反被拉黑",
+        "onboard_time": 1737553939,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64781,
+        "num": 142781,
+        "word": "向鱼告别狼队",
+        "onboard_time": 1737597137,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187395,
+        "num": 142004,
+        "word": "肖战 不语",
+        "onboard_time": 1737562577,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182106,
+        "num": 140951,
+        "word": "韩国人在中国被辣哭的一天",
+        "onboard_time": 1737595158,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157619,
+        "num": 140543,
+        "word": "赵今麦00后的黑历史都是高清的",
+        "onboard_time": 1737551539,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140058,
+        "num": 140058,
+        "word": "云南女童走失家属悬赏百万",
+        "onboard_time": 1737591797,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136105,
+        "num": 136105,
+        "word": "女子酒后催吐将19cm牙刷掉进胃中",
+        "onboard_time": 1737549738,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127094,
+        "num": 127094,
+        "word": "三星S25",
+        "onboard_time": 1737592278,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 114332,
+        "num": 114332,
+        "word": "文化中国行非遗春节送祝福",
+        "onboard_time": 1737595937,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112444,
+        "num": 112444,
+        "word": "12岁女孩与老人抢座争执诊出心理问题",
+        "onboard_time": 1737593178,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111025,
+        "num": 111025,
+        "word": "中国专家对福岛核污水完成首次检测",
+        "onboard_time": 1737596777,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106824,
+        "num": 106824,
+        "word": "再过5天就是除夕",
+        "onboard_time": 1737594977,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104408,
+        "num": 104408,
+        "word": "刘晓庆说迟到是去处理危机公关",
+        "onboard_time": 1737559639,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104321,
+        "num": 104321,
+        "word": "麦琳问李行亮自己还是个好人吗",
+        "onboard_time": 1737563775,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103695,
+        "num": 103695,
+        "word": "漂白大结局",
+        "onboard_time": 1737560419,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98519,
+        "num": 98519,
+        "word": "水龙吟将五平台同时播出",
+        "onboard_time": 1737590656,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96365,
+        "num": 96365,
+        "word": "中国围棋协会说明",
+        "onboard_time": 1737560720,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96163,
+        "num": 96163,
+        "word": "李现小年晒腹肌",
+        "onboard_time": 1737589035,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91623,
+        "num": 91623,
+        "word": "邹市明否认中年返贫",
+        "onboard_time": 1737551898,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90850,
+        "num": 90850,
+        "word": "棋手称看到柯洁被判负很气愤",
+        "onboard_time": 1737569053,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90467,
+        "num": 90467,
+        "word": "以在加沙留下5000万吨废墟瓦砾",
+        "onboard_time": 1737596357,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88703,
+        "num": 88703,
+        "word": "迎新春大扫除攻略",
+        "onboard_time": 1737591437,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88270,
+        "num": 88270,
+        "word": "马丽给登陆少年寄了一车草莓",
+        "onboard_time": 1737555921,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87154,
+        "num": 87154,
+        "word": "A股迎特大利好",
+        "onboard_time": 1737555739,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 86439,
+        "num": 86439,
+        "word": "河南一地要求理发店做空气检测",
+        "onboard_time": 1737580451,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85841,
+        "num": 85841,
+        "word": "iG股东开团Doinb",
+        "onboard_time": 1737558259,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 83924,
+        "num": 83924,
+        "word": "2025新春走基层",
+        "onboard_time": 1737567016,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的新春暖心话#"
+    }
+  }
+}

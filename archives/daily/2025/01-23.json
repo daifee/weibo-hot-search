@@ -1,6 +1,6 @@
 {
   "startTime": 1737563308947,
-  "endTime": 1737596425911,
+  "endTime": 1737597388509,
   "band_list": [
     {
       "raw_hot": 1344080,
@@ -19,8 +19,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1011313,
-      "num": 1011313,
+      "raw_hot": 1017425,
+      "num": 1017425,
       "word": "花76万买房花60万装修",
       "onboard_time": 1737592457,
       "rank": 1,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 876570,
-      "num": 216030,
+      "num": 216540,
       "word": "江西一商场发生电梯卡人事故",
       "onboard_time": 1737560358,
       "rank": 10,
@@ -59,8 +59,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 527257,
-      "num": 334761,
+      "raw_hot": 552061,
+      "num": 552061,
       "word": "留几手增重10公斤",
       "onboard_time": 1737592939,
       "rank": 6,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 494842,
-      "num": 332677,
+      "num": 492193,
       "word": "蒋长扬纳妾",
       "onboard_time": 1737593299,
       "rank": 7,
@@ -115,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 321394,
+      "num": 539088,
+      "word": "过年前大降温多地降10摄氏度",
+      "onboard_time": 1737593959,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 312711,
       "num": 209808,
       "word": "刘畅彻底黑化",
@@ -147,12 +155,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 297248,
-      "num": 297248,
-      "word": "过年前大降温多地降10摄氏度",
+      "raw_hot": 294690,
+      "num": 294690,
+      "word": "伽罗新皮肤最初的交响",
       "onboard_time": 1737593959,
-      "rank": 8,
-      "category": "民生新闻"
+      "rank": 11,
+      "category": "游戏"
     },
     {
       "raw_hot": 276042,
@@ -163,20 +171,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 269459,
-      "num": 269459,
-      "word": "伽罗新皮肤最初的交响",
-      "onboard_time": 1737593959,
-      "rank": 11,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 261657,
       "num": 261657,
       "word": "为什么南北方小年相差一天",
       "onboard_time": 1737550397,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 261046,
+      "num": 261046,
+      "word": "央视boys一首歌全是易错字",
+      "onboard_time": 1737594678,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 255358,
@@ -201,6 +209,14 @@
       "onboard_time": 1737592518,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241222,
+      "num": 177436,
+      "word": "男子放慢吃饭速度10天瘦4斤",
+      "onboard_time": 1737593959,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 227162,
@@ -243,14 +259,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 210664,
-      "num": 177436,
-      "word": "男子放慢吃饭速度10天瘦4斤",
-      "onboard_time": 1737593959,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 207526,
       "num": 207526,
       "word": "iG股东开团Doinb",
@@ -267,8 +275,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 197810,
-      "num": 197810,
+      "raw_hot": 203442,
+      "num": 203442,
       "word": "中央气象台发布今年首个寒潮预警",
       "onboard_time": 1737592878,
       "rank": 18,
@@ -289,6 +297,14 @@
       "onboard_time": 1737549738,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182106,
+      "num": 149727,
+      "word": "韩国人在中国被辣哭的一天",
+      "onboard_time": 1737595158,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 175133,
@@ -315,14 +331,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 159107,
-      "num": 159107,
-      "word": "央视boys一首歌全是易错字",
-      "onboard_time": 1737594678,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 152135,
       "num": 152135,
       "word": "再过5天就是除夕",
@@ -339,12 +347,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 149727,
-      "num": 149727,
-      "word": "韩国人在中国被辣哭的一天",
-      "onboard_time": 1737595158,
-      "rank": 28,
-      "category": "幽默"
+      "raw_hot": 146912,
+      "num": 159638,
+      "word": "柯洁今日决胜局",
+      "onboard_time": 1737594498,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 146713,
@@ -361,14 +369,6 @@
       "onboard_time": 1737565815,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 143570,
-      "num": 159638,
-      "word": "柯洁今日决胜局",
-      "onboard_time": 1737594498,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 141610,
@@ -459,6 +459,22 @@
       "category": "正能量,互联网"
     },
     {
+      "raw_hot": 112444,
+      "num": 296023,
+      "word": "12岁女孩与老人抢座争执诊出心理问题",
+      "onboard_time": 1737593178,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111025,
+      "num": 111025,
+      "word": "中国专家对福岛核污水完成首次检测",
+      "onboard_time": 1737596777,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110528,
       "num": 110528,
       "word": "漂白",
@@ -481,14 +497,6 @@
       "onboard_time": 1737551058,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106864,
-      "num": 296023,
-      "word": "12岁女孩与老人抢座争执诊出心理问题",
-      "onboard_time": 1737593178,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 103953,
@@ -539,6 +547,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 90850,
+      "num": 90850,
+      "word": "棋手称看到柯洁被判负很气愤",
+      "onboard_time": 1737569053,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 90467,
+      "num": 90467,
+      "word": "以在加沙留下5000万吨废墟瓦砾",
+      "onboard_time": 1737596357,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 90264,
       "num": 90264,
       "word": "外交部回应中方更改鲁比奥中文译名",
@@ -555,20 +579,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88703,
+      "num": 88703,
+      "word": "迎新春大扫除攻略",
+      "onboard_time": 1737591437,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88243,
       "num": 85040,
       "word": "总台春晚第四次彩排阵容",
       "onboard_time": 1737554119,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 86933,
-      "num": 86933,
-      "word": "棋手称看到柯洁被判负很气愤",
-      "onboard_time": 1737569053,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 86392,
@@ -603,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83924,
+      "num": 98839,
+      "word": "2025新春走基层",
+      "onboard_time": 1737567016,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 82627,
       "num": 82627,
       "word": "国乒重点着眼未来两届奥运梯队建设",
@@ -625,22 +657,6 @@
       "onboard_time": 1737562697,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 77170,
-      "num": 77170,
-      "word": "迎新春大扫除攻略",
-      "onboard_time": 1737591437,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 76364,
-      "num": 76364,
-      "word": "以在加沙留下5000万吨废墟瓦砾",
-      "onboard_time": 1737596357,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 75574,
@@ -697,6 +713,14 @@
       "onboard_time": 1737585433,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 64781,
+      "num": 142781,
+      "word": "向鱼告别狼队",
+      "onboard_time": 1737597137,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 61299,
@@ -817,14 +841,6 @@
       "onboard_time": 1737570371,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 24112,
-      "num": 98839,
-      "word": "2025新春走基层",
-      "onboard_time": 1737567016,
-      "rank": 9,
-      "category": "正能量"
     },
     {
       "raw_hot": 23861,
@@ -993,6 +1009,14 @@
       "onboard_time": 1737576371,
       "rank": 24,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 5488,
+      "num": 635259,
+      "word": "网络中国节",
+      "onboard_time": 1737597257,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
