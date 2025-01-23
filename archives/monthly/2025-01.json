@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737663810028,
+  "endTime": 1737664580077,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -73955,6 +73955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13315,
+      "num": 13315,
+      "word": "SHUN理成张",
+      "onboard_time": 1737660132,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 13252,
       "num": 93130,
       "word": "新年第一套look",
@@ -73968,14 +73976,6 @@
       "word": "在图书馆被很多王俊凯盯着",
       "onboard_time": 1735809020,
       "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 13240,
-      "num": 13240,
-      "word": "SHUN理成张",
-      "onboard_time": 1737660132,
-      "rank": 48,
       "category": "艺人"
     },
     {
