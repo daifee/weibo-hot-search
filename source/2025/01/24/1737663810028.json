@@ -1,0 +1,410 @@
+{
+  "runTime": 1737663810028,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 126919,
+        "num": 126919,
+        "word": "轩染",
+        "onboard_time": 1737644241,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 76548,
+        "num": 76548,
+        "word": "漂白 吓人",
+        "onboard_time": 1737649517,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12586,
+        "num": 66110,
+        "word": "千帆极轨06组卫星成功发射",
+        "onboard_time": 1737643999,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 65652,
+        "num": 65652,
+        "word": "青簪行",
+        "onboard_time": 1737644300,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43514,
+        "num": 43514,
+        "word": "外国人已经快进到体验过年三件套了",
+        "onboard_time": 1737647358,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85335,
+        "num": 42853,
+        "word": "柯洁因判罚损失2亿韩元奖金",
+        "onboard_time": 1737633078,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50499,
+        "num": 42683,
+        "word": "杨紫娜扎撞高定了",
+        "onboard_time": 1737626179,
+        "rank": 6,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 41384,
+        "num": 41384,
+        "word": "中国春节申遗只允许200个单词介绍",
+        "onboard_time": 1737627858,
+        "rank": 7,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 37355,
+        "num": 37355,
+        "word": "邓男子魔术 失败",
+        "onboard_time": 1737635839,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34092,
+        "num": 34092,
+        "word": "美洛杉矶地区新山火快速蔓延",
+        "onboard_time": 1737646580,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 85198,
+        "num": 33421,
+        "word": "柯洁微博备注改为世界围棋九冠王",
+        "onboard_time": 1737636261,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30997,
+        "num": 30997,
+        "word": "漂白",
+        "onboard_time": 1737626840,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30627,
+        "num": 30627,
+        "word": "文章马伊琍大女儿为妹妹庆生",
+        "onboard_time": 1737635898,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29396,
+        "num": 29396,
+        "word": "卞相壹手袖改变了棋子位置",
+        "onboard_time": 1737632719,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28762,
+        "num": 28762,
+        "word": "代露娃镜头下的常华森",
+        "onboard_time": 1737641840,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34919,
+        "num": 28683,
+        "word": "柯洁不比了",
+        "onboard_time": 1737617120,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28534,
+        "num": 28534,
+        "word": "杜江霍思燕的珍珠获奖了",
+        "onboard_time": 1737634817,
+        "rank": 16,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 27175,
+        "num": 27175,
+        "word": "谁手机粘小炸的车上了",
+        "onboard_time": 1737646159,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27034,
+        "num": 27034,
+        "word": "中国围棋协会第29届LG杯决赛声明",
+        "onboard_time": 1737629959,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23309,
+        "num": 23309,
+        "word": "fishgod",
+        "onboard_time": 1737644960,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 41668,
+        "num": 23295,
+        "word": "老人买18万黄金不挑款店员火速报警",
+        "onboard_time": 1737636439,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37850,
+        "num": 23292,
+        "word": "女生吃一个月冷藏米饭血糖降了",
+        "onboard_time": 1737640760,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27196,
+        "num": 23279,
+        "word": "国色芳华第二季明年播出",
+        "onboard_time": 1737641720,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23267,
+        "num": 23267,
+        "word": "多位棋手支持柯洁",
+        "onboard_time": 1737644600,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23190,
+        "num": 23190,
+        "word": "王一博追风者登顶年度影响力影视剧",
+        "onboard_time": 1737626479,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22814,
+        "num": 22814,
+        "word": "鞠婧祎何谓妖",
+        "onboard_time": 1737647239,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21748,
+        "num": 21748,
+        "word": "央视提前官宣谭维维参加春晚",
+        "onboard_time": 1737641782,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18372,
+        "num": 18372,
+        "word": "叶永青抄袭赔偿500万并公开道歉",
+        "onboard_time": 1737643400,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18326,
+        "num": 18326,
+        "word": "JDG对战OMG",
+        "onboard_time": 1737642498,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17496,
+        "num": 17496,
+        "word": "电梯不平层千万不要出去",
+        "onboard_time": 1737639979,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 17218,
+        "num": 17218,
+        "word": "日本棋协",
+        "onboard_time": 1737623539,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16843,
+        "num": 16843,
+        "word": "陈都灵斗篷造型",
+        "onboard_time": 1737645080,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16576,
+        "num": 16576,
+        "word": "时代少年团男儿歌",
+        "onboard_time": 1737645260,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16424,
+        "num": 16424,
+        "word": "棋圣聂卫平女儿怒怼不陪你们玩了",
+        "onboard_time": 1737624978,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16056,
+        "num": 16056,
+        "word": "射雕上映前最后一次主创齐聚",
+        "onboard_time": 1737630679,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15971,
+        "num": 15971,
+        "word": "ELLEX王俊凯带你看巴黎男装周",
+        "onboard_time": 1737647478,
+        "rank": 35,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 15962,
+        "num": 15962,
+        "word": "福气码",
+        "onboard_time": 1737637699,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15672,
+        "num": 15672,
+        "word": "加州又起大火超5万人接到疏散命令",
+        "onboard_time": 1737652574,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 15165,
+        "num": 15165,
+        "word": "李现对杨紫喊紫啧喊上瘾了",
+        "onboard_time": 1737637460,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14893,
+        "num": 14893,
+        "word": "时空中的绘旅人",
+        "onboard_time": 1737652455,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 14714,
+        "num": 14714,
+        "word": "加州新爆发山火蔓延约1.9万人被疏散",
+        "onboard_time": 1737647778,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 14169,
+        "num": 14169,
+        "word": "铁路客流进入节前高峰期",
+        "onboard_time": 1737660372,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14025,
+        "num": 14025,
+        "word": "新春里的中国",
+        "onboard_time": 1737659832,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13995,
+        "num": 13995,
+        "word": "章昊王嘉尔朴珍荣cha",
+        "onboard_time": 1737646879,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13829,
+        "num": 13829,
+        "word": "虞书欣丁禹兮新春版剧照",
+        "onboard_time": 1737631579,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13802,
+        "num": 13802,
+        "word": "田嘉瑞巴黎直播被冻哭",
+        "onboard_time": 1737644538,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13678,
+        "num": 13678,
+        "word": "赵雅芝 白蛇",
+        "onboard_time": 1737638240,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 13355,
+        "num": 13355,
+        "word": "接下来半个月说得最多的一句话",
+        "onboard_time": 1737630619,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13240,
+        "num": 13240,
+        "word": "SHUN理成张",
+        "onboard_time": 1737660132,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13220,
+        "num": 13220,
+        "word": "本手妙手俗手举手",
+        "onboard_time": 1737631038,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#大家共同努力把幸福生活过得更好#"
+    }
+  }
+}

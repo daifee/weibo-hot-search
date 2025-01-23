@@ -1,6 +1,6 @@
 {
   "startTime": 1737649694584,
-  "endTime": 1737660933826,
+  "endTime": 1737663810028,
   "band_list": [
     {
       "raw_hot": 2385266,
@@ -561,6 +561,14 @@
       "onboard_time": 1737658452,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13240,
+      "num": 13240,
+      "word": "SHUN理成张",
+      "onboard_time": 1737660132,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 12223,
