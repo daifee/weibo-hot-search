@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737632151175,
+  "endTime": 1737636149687,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -532,7 +532,7 @@
     },
     {
       "raw_hot": 1201298,
-      "num": 272151,
+      "num": 278238,
       "word": "日本棋协",
       "onboard_time": 1737623539,
       "rank": 15,
@@ -1027,6 +1027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 911342,
+      "num": 404681,
+      "word": "湖南卫视春晚",
+      "onboard_time": 1737631698,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 910451,
       "num": 910451,
       "word": "柯洁今日决胜局",
@@ -1140,7 +1148,7 @@
     },
     {
       "raw_hot": 867139,
-      "num": 323509,
+      "num": 452350,
       "word": "中国围棋协会第29届LG杯决赛声明",
       "onboard_time": 1737629959,
       "rank": 13,
@@ -1241,6 +1249,14 @@
       "onboard_time": 1737537559,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 821624,
+      "num": 289281,
+      "word": "卞相壹手袖改变了棋子位置",
+      "onboard_time": 1737632719,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 819946,
@@ -1532,7 +1548,7 @@
     },
     {
       "raw_hot": 667782,
-      "num": 241306,
+      "num": 270670,
       "word": "棋圣聂卫平女儿怒怼不陪你们玩了",
       "onboard_time": 1737624978,
       "rank": 10,
@@ -1729,6 +1745,14 @@
       "onboard_time": 1737211040,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 614328,
+      "num": 284932,
+      "word": "本手妙手俗手举手",
+      "onboard_time": 1737631038,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 613549,
@@ -2171,6 +2195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 530223,
+      "num": 381118,
+      "word": "射雕上映前最后一次主创齐聚",
+      "onboard_time": 1737630679,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 528801,
       "num": 528801,
       "word": "留几手说不想骗葛夕了",
@@ -2315,6 +2347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 502803,
+      "num": 266505,
+      "word": "柯洁因判罚损失2亿韩元奖金",
+      "onboard_time": 1737633078,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 502785,
       "num": 323074,
       "word": "漂白回应抄袭",
@@ -2363,6 +2403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 495033,
+      "num": 495033,
+      "word": "警方介入调解曹县一女子遭家暴",
+      "onboard_time": 1737629119,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 494842,
       "num": 492193,
       "word": "蒋长扬纳妾",
@@ -2385,6 +2433,14 @@
       "onboard_time": 1737613219,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 485788,
+      "num": 485788,
+      "word": "149.1吨洋垃圾过海关被查",
+      "onboard_time": 1737634577,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 482181,
@@ -2587,6 +2643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 453297,
+      "num": 291498,
+      "word": "杜江霍思燕的珍珠获奖了",
+      "onboard_time": 1737634817,
+      "rank": 10,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 453185,
       "num": 354421,
       "word": "娜然妲己开大的撕心裂肺感",
@@ -2625,6 +2689,14 @@
       "onboard_time": 1737533778,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 450469,
+      "num": 285517,
+      "word": "虞书欣丁禹兮新春版剧照",
+      "onboard_time": 1737631579,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 449905,
@@ -3315,6 +3387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 355628,
+      "num": 321696,
+      "word": "王一博追风者登顶年度影响力影视剧",
+      "onboard_time": 1737626479,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 354616,
       "num": 286856,
       "word": "刘晓庆回应吃鱼事件",
@@ -3345,6 +3425,14 @@
       "onboard_time": 1737562577,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 351024,
+      "num": 269986,
+      "word": "漂白豆瓣开分6.0",
+      "onboard_time": 1737634219,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 349413,
@@ -3483,6 +3571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 334192,
+      "num": 264809,
+      "word": "顾茜茜男友出车祸",
+      "onboard_time": 1737632837,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
       "raw_hot": 334013,
       "num": 382641,
       "word": "易烊千玺参观中国天眼",
@@ -3619,14 +3715,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 321696,
-      "num": 321696,
-      "word": "王一博追风者登顶年度影响力影视剧",
-      "onboard_time": 1737626479,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 321394,
       "num": 539088,
       "word": "过年前大降温多地降10摄氏度",
@@ -3689,14 +3777,6 @@
       "onboard_time": 1737554119,
       "rank": 7,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 311933,
-      "num": 311933,
-      "word": "射雕上映前最后一次主创齐聚",
-      "onboard_time": 1737630679,
-      "rank": 10,
-      "category": "电影"
     },
     {
       "raw_hot": 311724,
@@ -4041,6 +4121,14 @@
       "onboard_time": 1737381500,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 285048,
+      "num": 259844,
+      "word": "哇唧唧哇年会终于有直播了",
+      "onboard_time": 1737634219,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 284966,
@@ -4995,6 +5083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237564,
+      "num": 229402,
+      "word": "文章马伊琍大女儿为妹妹庆生",
+      "onboard_time": 1737635898,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237465,
       "num": 257094,
       "word": "高铁座位不同颜色指示灯是什么意思",
@@ -5051,12 +5147,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234423,
+      "num": 234423,
+      "word": "刘宇宁掉麦",
+      "onboard_time": 1737635539,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234243,
       "num": 234243,
       "word": "车厘子是血糖友好型水果",
       "onboard_time": 1737536238,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 234129,
+      "num": 234129,
+      "word": "ive一位",
+      "onboard_time": 1737630558,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 233675,
@@ -5193,14 +5305,6 @@
       "onboard_time": 1737466219,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 223152,
-      "num": 223152,
-      "word": "湖南卫视春晚",
-      "onboard_time": 1737631698,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 222485,
@@ -5419,14 +5523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 214706,
-      "num": 322470,
-      "word": "警方介入调解曹县一女子遭家暴",
-      "onboard_time": 1737629119,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 214645,
       "num": 322406,
       "word": "李宇春说要学奥运冠军的坚持和热爱",
@@ -5521,14 +5617,6 @@
       "onboard_time": 1737536298,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 211138,
-      "num": 211138,
-      "word": "本手妙手俗手举手",
-      "onboard_time": 1737631038,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 211012,
@@ -5851,6 +5939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 204003,
+      "num": 204003,
+      "word": "邓男子魔术 失败",
+      "onboard_time": 1737635839,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203660,
       "num": 337723,
       "word": "跟着品质中国了解更多卫生巾真相",
@@ -5939,6 +6035,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 201433,
+      "num": 201433,
+      "word": "梵樾终局",
+      "onboard_time": 1737633920,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201398,
       "num": 196510,
       "word": "芒果给足了国色芳华排面",
@@ -6001,14 +6105,6 @@
       "onboard_time": 1737216138,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 200145,
-      "num": 200145,
-      "word": "ive一位",
-      "onboard_time": 1737630558,
-      "rank": 33,
-      "category": "音乐"
     },
     {
       "raw_hot": 200064,
@@ -6251,14 +6347,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 195404,
-      "num": 195404,
-      "word": "虞书欣丁禹兮新春版剧照",
-      "onboard_time": 1737631579,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 195327,
       "num": 197073,
       "word": "肖战射雕首日预售票房连破8个记录",
@@ -6281,6 +6369,14 @@
       "onboard_time": 1737354438,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 195106,
+      "num": 195106,
+      "word": "李云霄山东春晚逆光转身惊艳",
+      "onboard_time": 1737631877,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 195033,
@@ -6963,6 +7059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182918,
+      "num": 182918,
+      "word": "封神西安路演姬发的刀又又又断了",
+      "onboard_time": 1737632538,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 182914,
       "num": 182914,
       "word": "全世界都在做鸡蛋羹",
@@ -6985,6 +7089,14 @@
       "onboard_time": 1737551299,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182317,
+      "num": 182317,
+      "word": "2025网络视听盛典节目单",
+      "onboard_time": 1737634878,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 182096,
@@ -7955,6 +8067,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 165174,
+      "num": 165174,
+      "word": "周翊然这个腰",
+      "onboard_time": 1737634698,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165160,
       "num": 165160,
       "word": "EDG战胜XLG",
@@ -8209,6 +8329,14 @@
       "onboard_time": 1737299061,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160767,
+      "num": 160767,
+      "word": "李现不愧是学成归来",
+      "onboard_time": 1737635960,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 160689,
@@ -8833,6 +8961,14 @@
       "onboard_time": 1737267438,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150986,
+      "num": 272945,
+      "word": "papi像柜姐一样售卖春晚节目",
+      "onboard_time": 1737634398,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 150844,
@@ -10019,6 +10155,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 135786,
+      "num": 179700,
+      "word": "王者荣耀福气码",
+      "onboard_time": 1737625099,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 135642,
       "num": 135642,
       "word": "购新补贴怎么领",
@@ -10137,6 +10281,14 @@
       "onboard_time": 1737592278,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 134243,
+      "num": 201961,
+      "word": "老乡鸡造雪失败造成了彩虹",
+      "onboard_time": 1737633078,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133704,
@@ -10387,6 +10539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130074,
+      "num": 130074,
+      "word": "林高远写毛笔字",
+      "onboard_time": 1737634518,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129907,
       "num": 129907,
       "word": "90后女博士的工作日常是摸鱼",
@@ -10537,6 +10697,14 @@
       "onboard_time": 1737213618,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127638,
+      "num": 127638,
+      "word": "ChatGPT崩了",
+      "onboard_time": 1737635057,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 127393,
@@ -11393,14 +11561,6 @@
       "onboard_time": 1737601998,
       "rank": 37,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 116174,
-      "num": 179700,
-      "word": "王者荣耀福气码",
-      "onboard_time": 1737625099,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 116166,
@@ -13107,14 +13267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 88285,
-      "num": 88285,
-      "word": "李云霄山东春晚逆光转身惊艳",
-      "onboard_time": 1737631877,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 87678,
       "num": 174662,
       "word": "徐振轩一个采访跪了好几次",
@@ -13585,6 +13737,14 @@
       "onboard_time": 1737475758,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 71983,
+      "num": 584298,
+      "word": "央视经典之夜",
+      "onboard_time": 1737635118,
+      "rank": 2,
+      "category": "综艺"
     },
     {
       "raw_hot": 71873,
@@ -14584,6 +14744,14 @@
       "word": "祖国山河一片银装一眼心动",
       "onboard_time": 1737360318,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35363,
+      "num": 234196,
+      "word": "咸阳2370年前就叫咸阳",
+      "onboard_time": 1737635778,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -15587,6 +15755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 8860,
+      "num": 174900,
+      "word": "王者荣耀年度国潮新名片",
+      "onboard_time": 1737635898,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 8717,
       "num": 25657,
       "word": "Doinb使用Tian冠军皮肤",
@@ -15665,6 +15841,14 @@
       "onboard_time": 1737573431,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 6438,
+      "num": 242579,
+      "word": "沈星回小福星驾到",
+      "onboard_time": 1737635839,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 6020,
