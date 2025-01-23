@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/24 00:28:14
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/24 00:43:32
 </p>
 </blockquote>
 <p>
@@ -6509,6 +6509,12 @@ SM新女团 SMTOWN压轴（热度：743773）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%B5%B0%E8%BF%9B%E5%8F%97%E7%81%BE%E7%BE%A4%E4%BC%97%E5%AE%B6%E4%B8%AD%23%23" target="weibo">
 #习近平走进受灾群众家中#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%A4%A7%E5%AE%B6%E5%85%B1%E5%90%8C%E5%8A%AA%E5%8A%9B%E6%8A%8A%E5%B9%B8%E7%A6%8F%E7%94%9F%E6%B4%BB%E8%BF%87%E5%BE%97%E6%9B%B4%E5%A5%BD%23%23" target="weibo">
+#大家共同努力把幸福生活过得更好#
 </a>
 </li>
 
