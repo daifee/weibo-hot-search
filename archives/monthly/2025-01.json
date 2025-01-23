@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737668131756,
+  "endTime": 1737670845143,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -73555,6 +73555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 15437,
+      "num": 16019,
+      "word": "肖战谈演员最大的成就感",
+      "onboard_time": 1737662111,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 15416,
       "num": 61664,
       "word": "杨紫李现谈二搭感受",
@@ -73577,6 +73585,14 @@
       "onboard_time": 1737569233,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15316,
+      "num": 16018,
+      "word": "射雕已切换年味模式",
+      "onboard_time": 1737669672,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 15315,
