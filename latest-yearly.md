@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/23 21:27:14
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/23 21:38:24
 </p>
 </blockquote>
 <p>
@@ -669,6 +669,12 @@ TikTok停止在美服务（热度：2463156）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E7%94%B7%E5%AD%90%E9%AD%94%E6%9C%AF%20%E5%A4%B1%E8%B4%A5%23" target="weibo">
+邓男子魔术 失败（热度：2402386）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%BA%A2%E4%B9%A6%E5%B4%A9%E4%BA%86%23" target="weibo">
 小红书崩了（热度：2402372）
 </a>
@@ -761,12 +767,6 @@ TikTok停止在美服务（热度：2463156）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81TikTok50%25%E6%89%80%E6%9C%89%E6%9D%83%23" target="weibo">
 特朗普要TikTok50%所有权（热度：2266291）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E7%94%B7%E5%AD%90%E9%AD%94%E6%9C%AF%20%E5%A4%B1%E8%B4%A5%23" target="weibo">
-邓男子魔术 失败（热度：2262879）
 </a>
 </li>
 
