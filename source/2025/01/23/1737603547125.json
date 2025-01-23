@@ -1,0 +1,410 @@
+{
+  "runTime": 1737603547125,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1264255,
+        "num": 1264255,
+        "word": "李昀锐新剧空降定档",
+        "onboard_time": 1737602117,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1048820,
+        "num": 1048820,
+        "word": "徐州市税务局一办公地装修后10人患癌",
+        "onboard_time": 1737601998,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63948,
+        "num": 629279,
+        "word": "今年春节你被哪些年货硬控了",
+        "onboard_time": 1737601458,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1120818,
+        "num": 582785,
+        "word": "白鹿演技",
+        "onboard_time": 1737589936,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 529599,
+        "num": 529599,
+        "word": "花76万买房花60万装修",
+        "onboard_time": 1737592457,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 497915,
+        "num": 497915,
+        "word": "江西最强钉子户屋主发声",
+        "onboard_time": 1737601998,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450325,
+        "num": 450325,
+        "word": "央视boys一首歌全是易错字",
+        "onboard_time": 1737594678,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 437647,
+        "num": 437647,
+        "word": "12岁女孩和73岁阿婆地铁内抢座",
+        "onboard_time": 1737588375,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397112,
+        "num": 397112,
+        "word": "种地吧",
+        "onboard_time": 1737600856,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383712,
+        "num": 383712,
+        "word": "8岁女童走失3天父亲悬赏百万寻人",
+        "onboard_time": 1737597438,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 421887,
+        "num": 382635,
+        "word": "李菲儿 锅铲门",
+        "onboard_time": 1737600436,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 377277,
+        "num": 377277,
+        "word": "每年新增保费的30%用于投资A股",
+        "onboard_time": 1737598036,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 165006,
+        "num": 372042,
+        "word": "湖南卫视春晚发节目单了",
+        "onboard_time": 1737602898,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370391,
+        "num": 370391,
+        "word": "柯洁今日决胜局",
+        "onboard_time": 1737594498,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356526,
+        "num": 356526,
+        "word": "李幼贞结婚",
+        "onboard_time": 1737592457,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346860,
+        "num": 346860,
+        "word": "韩媒称柯洁没能熟悉韩国规定",
+        "onboard_time": 1737595877,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289978,
+        "num": 289978,
+        "word": "李现樊振东原来是同担",
+        "onboard_time": 1737599417,
+        "rank": 16,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 187724,
+        "num": 187724,
+        "word": "冉莹颖回应被网友说乱花钱",
+        "onboard_time": 1737602478,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180210,
+        "num": 180210,
+        "word": "iG投资人说Doinb伤害了iG粉丝",
+        "onboard_time": 1737602417,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155019,
+        "num": 155019,
+        "word": "外国网友迷上中国漫画",
+        "onboard_time": 1737602057,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 321247,
+        "num": 154710,
+        "word": "newjeans成员声明",
+        "onboard_time": 1737599657,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261541,
+        "num": 154448,
+        "word": "留几手增重10公斤",
+        "onboard_time": 1737592939,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222321,
+        "num": 153974,
+        "word": "蒋长扬纳妾",
+        "onboard_time": 1737593299,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191362,
+        "num": 153827,
+        "word": "致1999年的自己定档了",
+        "onboard_time": 1737602898,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69086,
+        "num": 153447,
+        "word": "国乒重点着眼未来两届奥运梯队建设",
+        "onboard_time": 1737595817,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21463,
+        "num": 152913,
+        "word": "最忙汽车人魏建军",
+        "onboard_time": 1737602117,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 181475,
+        "num": 152638,
+        "word": "IU朴宝剑新剧预告片",
+        "onboard_time": 1737598397,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172824,
+        "num": 152292,
+        "word": "韩国人在中国被辣哭的一天",
+        "onboard_time": 1737595158,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167129,
+        "num": 152172,
+        "word": "相思令 抠图",
+        "onboard_time": 1737560837,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156510,
+        "num": 151612,
+        "word": "于适讲出了春运中的温情",
+        "onboard_time": 1737602237,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155580,
+        "num": 151468,
+        "word": "男子放慢吃饭速度10天瘦4斤",
+        "onboard_time": 1737593959,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151136,
+        "num": 151136,
+        "word": "过年前大降温多地降10摄氏度",
+        "onboard_time": 1737593959,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146339,
+        "num": 146339,
+        "word": "足金首饰价格突破830元每克",
+        "onboard_time": 1737596777,
+        "rank": 32,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 127598,
+        "num": 127598,
+        "word": "肖战 不语",
+        "onboard_time": 1737562577,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121084,
+        "num": 121084,
+        "word": "奥恰说樊振东我们想你了",
+        "onboard_time": 1737599777,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120928,
+        "num": 120928,
+        "word": "蔡徐坤ins",
+        "onboard_time": 1737592518,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118322,
+        "num": 118322,
+        "word": "买二手车后得花4万5续费辅助驾驶",
+        "onboard_time": 1737602057,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116244,
+        "num": 116244,
+        "word": "钟睒睒透露将捐赠400亿建大学",
+        "onboard_time": 1737601998,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 115120,
+        "num": 115120,
+        "word": "查收张艺兴的蛇年新春祝福",
+        "onboard_time": 1737598098,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113322,
+        "num": 113322,
+        "word": "国新办介绍推动中长期资金入市",
+        "onboard_time": 1737597857,
+        "rank": 39,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 106787,
+        "num": 111739,
+        "word": "樊振东李现互关了",
+        "onboard_time": 1737601278,
+        "rank": 40,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 111646,
+        "num": 111646,
+        "word": "A股再现4亿天价离婚",
+        "onboard_time": 1737598036,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111381,
+        "num": 111381,
+        "word": "移远通信董事长离婚分手费11亿元",
+        "onboard_time": 1737597978,
+        "rank": 42,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 110431,
+        "num": 110431,
+        "word": "老人溺水美国小哥死死拉拽救援",
+        "onboard_time": 1737601577,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110424,
+        "num": 110424,
+        "word": "中国专家对福岛核污水完成首次检测",
+        "onboard_time": 1737596777,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105474,
+        "num": 105474,
+        "word": "詹眉希望湖人交易两首轮签",
+        "onboard_time": 1737602958,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57985,
+        "num": 105203,
+        "word": "余承东说各种问题都可以问小艺",
+        "onboard_time": 1737603438,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 104988,
+        "num": 104988,
+        "word": "编剧陈枰再声明",
+        "onboard_time": 1737601818,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96963,
+        "num": 96963,
+        "word": "闺蜜疤痕妊娠女子劝诫反被拉黑",
+        "onboard_time": 1737553939,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96908,
+        "num": 96908,
+        "word": "再过5天就是除夕",
+        "onboard_time": 1737594977,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在辽宁葫芦岛看望慰问受灾群众#"
+    }
+  }
+}

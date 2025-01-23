@@ -1,6 +1,6 @@
 {
   "startTime": 1737563308947,
-  "endTime": 1737602653384,
+  "endTime": 1737603547125,
   "band_list": [
     {
       "raw_hot": 1344080,
@@ -19,11 +19,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1264255,
+      "num": 1264255,
+      "word": "李昀锐新剧空降定档",
+      "onboard_time": 1737602117,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1123452,
       "num": 1179752,
       "word": "12岁女孩和73岁阿婆地铁内抢座",
       "onboard_time": 1737588375,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1048820,
+      "num": 1048820,
+      "word": "徐州市税务局一办公地装修后10人患癌",
+      "onboard_time": 1737601998,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -39,14 +55,6 @@
       "num": 216540,
       "word": "江西一商场发生电梯卡人事故",
       "onboard_time": 1737560358,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 744103,
-      "num": 373810,
-      "word": "徐州市税务局一办公地装修后10人患癌",
-      "onboard_time": 1737601998,
       "rank": 10,
       "category": "民生新闻"
     },
@@ -100,11 +108,19 @@
     },
     {
       "raw_hot": 521178,
-      "num": 367109,
+      "num": 382635,
       "word": "李菲儿 锅铲门",
       "onboard_time": 1737600436,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 497915,
+      "num": 497915,
+      "word": "江西最强钉子户屋主发声",
+      "onboard_time": 1737601998,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 494842,
@@ -155,8 +171,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 358298,
-      "num": 358298,
+      "raw_hot": 370391,
+      "num": 370391,
       "word": "柯洁今日决胜局",
       "onboard_time": 1737594498,
       "rank": 24,
@@ -339,14 +355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 216436,
-      "num": 183546,
-      "word": "李昀锐新剧空降定档",
-      "onboard_time": 1737602117,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 212733,
       "num": 212733,
       "word": "韩方承认规则不合理但坚持",
@@ -395,6 +403,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 191362,
+      "num": 153827,
+      "word": "致1999年的自己定档了",
+      "onboard_time": 1737602898,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191061,
       "num": 191061,
       "word": "王楚钦加油",
@@ -411,12 +427,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 186395,
-      "num": 186395,
-      "word": "江西最强钉子户屋主发声",
-      "onboard_time": 1737601998,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 187724,
+      "num": 187724,
+      "word": "冉莹颖回应被网友说乱花钱",
+      "onboard_time": 1737602478,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 180210,
+      "num": 180210,
+      "word": "iG投资人说Doinb伤害了iG粉丝",
+      "onboard_time": 1737602417,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 179315,
@@ -467,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165006,
+      "num": 372042,
+      "word": "湖南卫视春晚发节目单了",
+      "onboard_time": 1737602898,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164370,
       "num": 158262,
       "word": "李晨说经常在健身房遇到王俊凯",
@@ -480,6 +512,14 @@
       "word": "李昀锐小年送祝福",
       "onboard_time": 1737598098,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 156510,
+      "num": 151612,
+      "word": "于适讲出了春运中的温情",
+      "onboard_time": 1737602237,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -635,22 +675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127833,
-      "num": 127833,
-      "word": "于适讲出了春运中的温情",
-      "onboard_time": 1737602237,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 127387,
-      "num": 127387,
-      "word": "iG投资人说Doinb伤害了iG粉丝",
-      "onboard_time": 1737602417,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 126155,
       "num": 126155,
       "word": "工作室晒赵露思库存",
@@ -691,12 +715,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 117439,
-      "num": 117439,
-      "word": "冉莹颖回应被网友说乱花钱",
-      "onboard_time": 1737602478,
-      "rank": 46,
-      "category": "艺人"
+      "raw_hot": 116244,
+      "num": 116244,
+      "word": "钟睒睒透露将捐赠400亿建大学",
+      "onboard_time": 1737601998,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 114267,
@@ -753,6 +777,14 @@
       "onboard_time": 1737551058,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105474,
+      "num": 105474,
+      "word": "詹眉希望湖人交易两首轮签",
+      "onboard_time": 1737602958,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 103953,
@@ -995,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 63948,
+      "num": 629279,
+      "word": "今年春节你被哪些年货硬控了",
+      "onboard_time": 1737601458,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61299,
       "num": 61299,
       "word": "中方认为贸易战关税战没有赢家",
@@ -1003,20 +1043,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 60096,
-      "num": 540167,
-      "word": "今年春节你被哪些年货硬控了",
-      "onboard_time": 1737601458,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 59700,
       "num": 59700,
       "word": "巴黎圣日耳曼4比2曼城",
       "onboard_time": 1737588315,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57985,
+      "num": 105203,
+      "word": "余承东说各种问题都可以问小艺",
+      "onboard_time": 1737603438,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 55792,

@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737602653384,
+  "endTime": 1737603547125,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -419,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1264255,
+      "num": 1264255,
+      "word": "李昀锐新剧空降定档",
+      "onboard_time": 1737602117,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1253564,
       "num": 366016,
       "word": "特朗普说TikTok回来了",
@@ -649,6 +657,14 @@
       "onboard_time": 1737511516,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1048820,
+      "num": 1048820,
+      "word": "徐州市税务局一办公地装修后10人患癌",
+      "onboard_time": 1737601998,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1047474,
@@ -1137,14 +1153,6 @@
       "onboard_time": 1737285498,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 744103,
-      "num": 373810,
-      "word": "徐州市税务局一办公地装修后10人患癌",
-      "onboard_time": 1737601998,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 743000,
@@ -1884,7 +1892,7 @@
     },
     {
       "raw_hot": 521178,
-      "num": 367109,
+      "num": 382635,
       "word": "李菲儿 锅铲门",
       "onboard_time": 1737600436,
       "rank": 43,
@@ -2032,6 +2040,14 @@
       "word": "哈利波特有望2027年落沪",
       "onboard_time": 1737372077,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 497915,
+      "num": 497915,
+      "word": "江西最强钉子户屋主发声",
+      "onboard_time": 1737601998,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -2747,6 +2763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 370391,
+      "num": 370391,
+      "word": "柯洁今日决胜局",
+      "onboard_time": 1737594498,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 368926,
       "num": 368926,
       "word": "哪吒2全新角色亮相",
@@ -2881,14 +2905,6 @@
       "onboard_time": 1737292159,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 358298,
-      "num": 358298,
-      "word": "柯洁今日决胜局",
-      "onboard_time": 1737594498,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 358230,
@@ -4715,14 +4731,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 216436,
-      "num": 183546,
-      "word": "李昀锐新剧空降定档",
-      "onboard_time": 1737602117,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 216222,
       "num": 230104,
       "word": "肖战坦言对春节档竞争不紧张",
@@ -5715,6 +5723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191362,
+      "num": 153827,
+      "word": "致1999年的自己定档了",
+      "onboard_time": 1737602898,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191268,
       "num": 236115,
       "word": "艾特主人称会有后续",
@@ -5875,6 +5891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187724,
+      "num": 187724,
+      "word": "冉莹颖回应被网友说乱花钱",
+      "onboard_time": 1737602478,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187076,
       "num": 187076,
       "word": "陈浚铭小狗饭撒",
@@ -5921,14 +5945,6 @@
       "onboard_time": 1737285379,
       "rank": 27,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 186395,
-      "num": 186395,
-      "word": "江西最强钉子户屋主发声",
-      "onboard_time": 1737601998,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 186359,
@@ -6153,6 +6169,14 @@
       "onboard_time": 1737440718,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180210,
+      "num": 180210,
+      "word": "iG投资人说Doinb伤害了iG粉丝",
+      "onboard_time": 1737602417,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 180175,
@@ -6891,6 +6915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 165006,
+      "num": 372042,
+      "word": "湖南卫视春晚发节目单了",
+      "onboard_time": 1737602898,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164940,
       "num": 227118,
       "word": "樊振东熠熠生辉的28岁",
@@ -7377,6 +7409,14 @@
       "onboard_time": 1737512118,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 156510,
+      "num": 151612,
+      "word": "于适讲出了春运中的温情",
+      "onboard_time": 1737602237,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 156422,
@@ -9155,28 +9195,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127833,
-      "num": 127833,
-      "word": "于适讲出了春运中的温情",
-      "onboard_time": 1737602237,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 127393,
       "num": 127393,
       "word": "孟子义昭昭如愿除烦恼",
       "onboard_time": 1737531077,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 127387,
-      "num": 127387,
-      "word": "iG投资人说Doinb伤害了iG粉丝",
-      "onboard_time": 1737602417,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 127290,
@@ -9859,14 +9883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 117439,
-      "num": 117439,
-      "word": "冉莹颖回应被网友说乱花钱",
-      "onboard_time": 1737602478,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 117379,
       "num": 117379,
       "word": "张若昀在欧洲介绍庆余年",
@@ -9929,6 +9945,14 @@
       "onboard_time": 1737528798,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116244,
+      "num": 116244,
+      "word": "钟睒睒透露将捐赠400亿建大学",
+      "onboard_time": 1737601998,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 116166,
@@ -10745,6 +10769,14 @@
       "onboard_time": 1737372798,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105474,
+      "num": 105474,
+      "word": "詹眉希望湖人交易两首轮签",
+      "onboard_time": 1737602958,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 105342,
@@ -12131,6 +12163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 63948,
+      "num": 629279,
+      "word": "今年春节你被哪些年货硬控了",
+      "onboard_time": 1737601458,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63766,
       "num": 79667,
       "word": "漂白恋爱还能干中学",
@@ -12235,14 +12275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 60096,
-      "num": 540167,
-      "word": "今年春节你被哪些年货硬控了",
-      "onboard_time": 1737601458,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 59700,
       "num": 59700,
       "word": "巴黎圣日耳曼4比2曼城",
@@ -12273,6 +12305,14 @@
       "onboard_time": 1737211400,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57985,
+      "num": 105203,
+      "word": "余承东说各种问题都可以问小艺",
+      "onboard_time": 1737603438,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 57919,
