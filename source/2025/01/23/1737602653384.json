@@ -1,0 +1,410 @@
+{
+  "runTime": 1737602653384,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1290331,
+        "num": 1290331,
+        "word": "白鹿演技",
+        "onboard_time": 1737589936,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 656348,
+        "num": 656348,
+        "word": "花76万买房花60万装修",
+        "onboard_time": 1737592457,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60096,
+        "num": 540167,
+        "word": "今年春节你被哪些年货硬控了",
+        "onboard_time": 1737601458,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 537338,
+        "num": 537338,
+        "word": "8岁女童走失3天父亲悬赏百万寻人",
+        "onboard_time": 1737597438,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 516030,
+        "num": 516030,
+        "word": "央视boys一首歌全是易错字",
+        "onboard_time": 1737594678,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 504727,
+        "num": 504727,
+        "word": "12岁女孩和73岁阿婆地铁内抢座",
+        "onboard_time": 1737588375,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 437753,
+        "num": 437753,
+        "word": "每年新增保费的30%用于投资A股",
+        "onboard_time": 1737598036,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 432717,
+        "num": 432717,
+        "word": "李幼贞结婚",
+        "onboard_time": 1737592457,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 409412,
+        "num": 409412,
+        "word": "种地吧",
+        "onboard_time": 1737600856,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374962,
+        "num": 374962,
+        "word": "韩媒称柯洁没能熟悉韩国规定",
+        "onboard_time": 1737595877,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 744103,
+        "num": 373810,
+        "word": "徐州市税务局一办公地装修后10人患癌",
+        "onboard_time": 1737601998,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 521178,
+        "num": 367109,
+        "word": "李菲儿 锅铲门",
+        "onboard_time": 1737600436,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358298,
+        "num": 358298,
+        "word": "柯洁今日决胜局",
+        "onboard_time": 1737594498,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333121,
+        "num": 333121,
+        "word": "newjeans成员声明",
+        "onboard_time": 1737599657,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310840,
+        "num": 310840,
+        "word": "李现樊振东原来是同担",
+        "onboard_time": 1737599417,
+        "rank": 14,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 303994,
+        "num": 303994,
+        "word": "留几手增重10公斤",
+        "onboard_time": 1737592939,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248877,
+        "num": 248877,
+        "word": "蒋长扬纳妾",
+        "onboard_time": 1737593299,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198505,
+        "num": 198505,
+        "word": "外国网友迷上中国漫画",
+        "onboard_time": 1737602057,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 186395,
+        "num": 186395,
+        "word": "江西最强钉子户屋主发声",
+        "onboard_time": 1737601998,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131041,
+        "num": 185096,
+        "word": "樊振东李现互关了",
+        "onboard_time": 1737601278,
+        "rank": 19,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 228924,
+        "num": 184872,
+        "word": "IU朴宝剑新剧预告片",
+        "onboard_time": 1737598397,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218314,
+        "num": 184750,
+        "word": "韩国人在中国被辣哭的一天",
+        "onboard_time": 1737595158,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184094,
+        "num": 184094,
+        "word": "过年前大降温多地降10摄氏度",
+        "onboard_time": 1737593959,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216436,
+        "num": 183546,
+        "word": "李昀锐新剧空降定档",
+        "onboard_time": 1737602117,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118801,
+        "num": 181218,
+        "word": "查收张艺兴的蛇年新春祝福",
+        "onboard_time": 1737598098,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179417,
+        "num": 179417,
+        "word": "相思令 抠图",
+        "onboard_time": 1737560837,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179315,
+        "num": 179315,
+        "word": "足金首饰价格突破830元每克",
+        "onboard_time": 1737596777,
+        "rank": 26,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 176281,
+        "num": 176281,
+        "word": "编剧陈枰再声明",
+        "onboard_time": 1737601818,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170045,
+        "num": 170045,
+        "word": "男子放慢吃饭速度10天瘦4斤",
+        "onboard_time": 1737593959,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29896,
+        "num": 168282,
+        "word": "最忙汽车人魏建军",
+        "onboard_time": 1737602117,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 167538,
+        "num": 167538,
+        "word": "中国专家对福岛核污水完成首次检测",
+        "onboard_time": 1737596777,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69851,
+        "num": 158018,
+        "word": "国乒重点着眼未来两届奥运梯队建设",
+        "onboard_time": 1737595817,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151214,
+        "num": 151214,
+        "word": "国新办介绍推动中长期资金入市",
+        "onboard_time": 1737597857,
+        "rank": 32,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 143700,
+        "num": 143700,
+        "word": "奥恰说樊振东我们想你了",
+        "onboard_time": 1737599777,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50393,
+        "num": 142652,
+        "word": "恋与深空黎深",
+        "onboard_time": 1737596298,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142564,
+        "num": 142564,
+        "word": "肖战 不语",
+        "onboard_time": 1737562577,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99572,
+        "num": 140206,
+        "word": "再过5天就是除夕",
+        "onboard_time": 1737594977,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138340,
+        "num": 138340,
+        "word": "伽罗新皮肤最初的交响",
+        "onboard_time": 1737593959,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131162,
+        "num": 131162,
+        "word": "老人溺水美国小哥死死拉拽救援",
+        "onboard_time": 1737601577,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130734,
+        "num": 130734,
+        "word": "蔡徐坤ins",
+        "onboard_time": 1737592518,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128856,
+        "num": 128856,
+        "word": "买二手车后得花4万5续费辅助驾驶",
+        "onboard_time": 1737602057,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127833,
+        "num": 127833,
+        "word": "于适讲出了春运中的温情",
+        "onboard_time": 1737602237,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127387,
+        "num": 127387,
+        "word": "iG投资人说Doinb伤害了iG粉丝",
+        "onboard_time": 1737602417,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119492,
+        "num": 119492,
+        "word": "俞敏洪谈孙东旭复播",
+        "onboard_time": 1737602057,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 118964,
+        "num": 118964,
+        "word": "A股再现4亿天价离婚",
+        "onboard_time": 1737598036,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 118060,
+        "num": 118060,
+        "word": "李昀锐小年送祝福",
+        "onboard_time": 1737598098,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117439,
+        "num": 117439,
+        "word": "冉莹颖回应被网友说乱花钱",
+        "onboard_time": 1737602478,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113262,
+        "num": 113262,
+        "word": "闺蜜疤痕妊娠女子劝诫反被拉黑",
+        "onboard_time": 1737553939,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111772,
+        "num": 111772,
+        "word": "为什么南北方小年相差一天",
+        "onboard_time": 1737550397,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103232,
+        "num": 103232,
+        "word": "王楚钦加油",
+        "onboard_time": 1737588675,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在辽宁葫芦岛看望慰问受灾群众#"
+    }
+  }
+}

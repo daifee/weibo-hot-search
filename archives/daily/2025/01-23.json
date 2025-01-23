@@ -1,6 +1,6 @@
 {
   "startTime": 1737563308947,
-  "endTime": 1737601084985,
+  "endTime": 1737602653384,
   "band_list": [
     {
       "raw_hot": 1344080,
@@ -8,6 +8,14 @@
       "word": "相思令 抠图",
       "onboard_time": 1737560837,
       "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1290331,
+      "num": 1290331,
+      "word": "白鹿演技",
+      "onboard_time": 1737589936,
+      "rank": 4,
       "category": "剧集"
     },
     {
@@ -35,12 +43,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 780014,
-      "num": 780014,
-      "word": "白鹿演技",
-      "onboard_time": 1737589936,
-      "rank": 4,
-      "category": "剧集"
+      "raw_hot": 744103,
+      "num": 373810,
+      "word": "徐州市税务局一办公地装修后10人患癌",
+      "onboard_time": 1737601998,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 648984,
@@ -91,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 521178,
+      "num": 367109,
+      "word": "李菲儿 锅铲门",
+      "onboard_time": 1737600436,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 494842,
       "num": 492193,
       "word": "蒋长扬纳妾",
@@ -123,6 +139,30 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 409412,
+      "num": 409412,
+      "word": "种地吧",
+      "onboard_time": 1737600856,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 374962,
+      "num": 374962,
+      "word": "韩媒称柯洁没能熟悉韩国规定",
+      "onboard_time": 1737595877,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 358298,
+      "num": 358298,
+      "word": "柯洁今日决胜局",
+      "onboard_time": 1737594498,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 351426,
       "num": 351426,
       "word": "肖战 不语",
@@ -137,6 +177,14 @@
       "onboard_time": 1737560358,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 333121,
+      "num": 333121,
+      "word": "newjeans成员声明",
+      "onboard_time": 1737599657,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 321394,
@@ -155,19 +203,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 310840,
+      "num": 310840,
+      "word": "李现樊振东原来是同担",
+      "onboard_time": 1737599417,
+      "rank": 17,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 310335,
       "num": 242133,
       "word": "中国围棋协会说明",
       "onboard_time": 1737560720,
       "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 301246,
-      "num": 301246,
-      "word": "柯洁今日决胜局",
-      "onboard_time": 1737594498,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -201,14 +249,6 @@
       "onboard_time": 1737593959,
       "rank": 11,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 283091,
-      "num": 283091,
-      "word": "韩媒称柯洁没能熟悉韩国规定",
-      "onboard_time": 1737595877,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 276042,
@@ -267,14 +307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 237542,
-      "num": 237542,
-      "word": "李菲儿 锅铲门",
-      "onboard_time": 1737600436,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 227162,
       "num": 182727,
       "word": "闺蜜疤痕妊娠女子劝诫反被拉黑",
@@ -307,12 +339,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 218383,
-      "num": 218383,
-      "word": "李现樊振东原来是同担",
-      "onboard_time": 1737599417,
-      "rank": 17,
-      "category": "体育,艺人"
+      "raw_hot": 216436,
+      "num": 183546,
+      "word": "李昀锐新剧空降定档",
+      "onboard_time": 1737602117,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 212733,
@@ -355,12 +387,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 200513,
-      "num": 200513,
-      "word": "newjeans成员声明",
-      "onboard_time": 1737599657,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 198505,
+      "num": 198505,
+      "word": "外国网友迷上中国漫画",
+      "onboard_time": 1737602057,
+      "rank": 17,
+      "category": "动漫"
     },
     {
       "raw_hot": 191061,
@@ -379,12 +411,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 178225,
-      "num": 178225,
-      "word": "种地吧",
-      "onboard_time": 1737600856,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 186395,
+      "num": 186395,
+      "word": "江西最强钉子户屋主发声",
+      "onboard_time": 1737601998,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179315,
+      "num": 179315,
+      "word": "足金首饰价格突破830元每克",
+      "onboard_time": 1737596777,
+      "rank": 34,
+      "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 176281,
+      "num": 176281,
+      "word": "编剧陈枰再声明",
+      "onboard_time": 1737601818,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 175133,
@@ -403,20 +451,20 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 167538,
+      "num": 167538,
+      "word": "中国专家对福岛核污水完成首次检测",
+      "onboard_time": 1737596777,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165356,
       "num": 165356,
       "word": "邹市明否认中年返贫",
       "onboard_time": 1737551898,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 164654,
-      "num": 164654,
-      "word": "足金首饰价格突破830元每克",
-      "onboard_time": 1737596777,
-      "rank": 34,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 164370,
@@ -433,14 +481,6 @@
       "onboard_time": 1737598098,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163342,
-      "num": 163342,
-      "word": "中国专家对福岛核污水完成首次检测",
-      "onboard_time": 1737596777,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 152135,
@@ -468,7 +508,7 @@
     },
     {
       "raw_hot": 147196,
-      "num": 147196,
+      "num": 181218,
       "word": "查收张艺兴的蛇年新春祝福",
       "onboard_time": 1737598098,
       "rank": 36,
@@ -491,7 +531,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 142650,
+      "raw_hot": 143700,
       "num": 178358,
       "word": "奥恰说樊振东我们想你了",
       "onboard_time": 1737599777,
@@ -563,12 +603,52 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131162,
+      "num": 131162,
+      "word": "老人溺水美国小哥死死拉拽救援",
+      "onboard_time": 1737601577,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 131041,
+      "num": 185096,
+      "word": "樊振东李现互关了",
+      "onboard_time": 1737601278,
+      "rank": 19,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 128856,
+      "num": 128856,
+      "word": "买二手车后得花4万5续费辅助驾驶",
+      "onboard_time": 1737602057,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128677,
       "num": 128677,
       "word": "刘晓庆说迟到是去处理危机公关",
       "onboard_time": 1737559639,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127833,
+      "num": 127833,
+      "word": "于适讲出了春运中的温情",
+      "onboard_time": 1737602237,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 127387,
+      "num": 127387,
+      "word": "iG投资人说Doinb伤害了iG粉丝",
+      "onboard_time": 1737602417,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 126155,
@@ -601,6 +681,22 @@
       "onboard_time": 1737590656,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119492,
+      "num": 119492,
+      "word": "俞敏洪谈孙东旭复播",
+      "onboard_time": 1737602057,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 117439,
+      "num": 117439,
+      "word": "冉莹颖回应被网友说乱花钱",
+      "onboard_time": 1737602478,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 114267,
@@ -820,7 +916,7 @@
     },
     {
       "raw_hot": 82627,
-      "num": 82627,
+      "num": 158018,
       "word": "国乒重点着眼未来两届奥运梯队建设",
       "onboard_time": 1737595817,
       "rank": 44,
@@ -844,7 +940,7 @@
     },
     {
       "raw_hot": 75574,
-      "num": 75574,
+      "num": 142652,
       "word": "恋与深空黎深",
       "onboard_time": 1737596298,
       "rank": 49,
@@ -905,6 +1001,14 @@
       "onboard_time": 1737560118,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 60096,
+      "num": 540167,
+      "word": "今年春节你被哪些年货硬控了",
+      "onboard_time": 1737601458,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59700,
@@ -993,6 +1097,14 @@
       "onboard_time": 1737597257,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29896,
+      "num": 168282,
+      "word": "最忙汽车人魏建军",
+      "onboard_time": 1737602117,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 28751,
@@ -1198,6 +1310,9 @@
   "hotgov_list": [
     {
       "word": "#总书记的新春暖心话#"
+    },
+    {
+      "word": "#习近平在辽宁葫芦岛看望慰问受灾群众#"
     }
   ]
 }
