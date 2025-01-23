@@ -1,0 +1,410 @@
+{
+  "runTime": 1737617720295,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3742247,
+        "num": 3742247,
+        "word": "柯洁暴怒问裁判",
+        "onboard_time": 1737609679,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2816360,
+        "num": 2816360,
+        "word": "柯洁不比了",
+        "onboard_time": 1737617120,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49603,
+        "num": 2104860,
+        "word": "今年春节你被哪些年货硬控了",
+        "onboard_time": 1737601458,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1741684,
+        "num": 1741684,
+        "word": "中国代表团正在交涉",
+        "onboard_time": 1737614179,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 953205,
+        "num": 953205,
+        "word": "Angelababy王安宇新剧将上线",
+        "onboard_time": 1737615978,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 892832,
+        "num": 892832,
+        "word": "战鹰曝柯洁提出重赛",
+        "onboard_time": 1737614779,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 806974,
+        "num": 806974,
+        "word": "围棋教练俞斌说没办法",
+        "onboard_time": 1737613758,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 746645,
+        "num": 746645,
+        "word": "郑州下雪",
+        "onboard_time": 1737613399,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 565681,
+        "num": 565681,
+        "word": "中国棋协",
+        "onboard_time": 1737615319,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 527321,
+        "num": 527321,
+        "word": "湖南卫视春晚发节目单了",
+        "onboard_time": 1737602898,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 500457,
+        "num": 500457,
+        "word": "春晚一口气发了168小时视频",
+        "onboard_time": 1737605779,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 489488,
+        "num": 489488,
+        "word": "杨紫无眉造型",
+        "onboard_time": 1737613219,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469429,
+        "num": 469429,
+        "word": "柯洁再次出现失误",
+        "onboard_time": 1737611600,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278428,
+        "num": 432098,
+        "word": "陈奕迅春晚彩排与奥运冠军合唱孤勇者",
+        "onboard_time": 1737612798,
+        "rank": 13,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 407261,
+        "num": 407261,
+        "word": "拜登给特朗普留信全文曝光",
+        "onboard_time": 1737612679,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 379290,
+        "num": 379290,
+        "word": "射雕进入中国影史预售票房TOP15",
+        "onboard_time": 1737610820,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 359886,
+        "num": 359886,
+        "word": "双轨",
+        "onboard_time": 1737604038,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325441,
+        "num": 325441,
+        "word": "小孩捐10元被工作人员说抠门",
+        "onboard_time": 1737603799,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147870,
+        "num": 320367,
+        "word": "钮承泽出狱",
+        "onboard_time": 1737612439,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130278,
+        "num": 317464,
+        "word": "AppStore来微博一年啦",
+        "onboard_time": 1737614538,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 316262,
+        "num": 316262,
+        "word": "特朗普称拜登忘了赦免自己",
+        "onboard_time": 1737609138,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 297820,
+        "num": 297820,
+        "word": "柯洁今日决胜局",
+        "onboard_time": 1737594498,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265534,
+        "num": 265534,
+        "word": "美国婴儿尝试中国婴儿食品",
+        "onboard_time": 1737607699,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 264880,
+        "num": 264880,
+        "word": "2025春节档预售票房破4亿",
+        "onboard_time": 1737614419,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197452,
+        "num": 261350,
+        "word": "夏以昼 阴湿男",
+        "onboard_time": 1737615380,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 259265,
+        "num": 259265,
+        "word": "蒋欣羽绒服",
+        "onboard_time": 1737605059,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247694,
+        "num": 247694,
+        "word": "迪丽热巴华丽珠宝ccd",
+        "onboard_time": 1737608299,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 235233,
+        "num": 235233,
+        "word": "禹宙中欣站姐打造应援卫星",
+        "onboard_time": 1737616158,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184289,
+        "num": 228566,
+        "word": "8岁女童在老师眼前遭欺凌殴打",
+        "onboard_time": 1737614538,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22044,
+        "num": 227710,
+        "word": "这届高尔夫斩女又斩男",
+        "onboard_time": 1737614900,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 227016,
+        "num": 227016,
+        "word": "抖音集团将在北京市建三级医院",
+        "onboard_time": 1737615500,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 209262,
+        "num": 209262,
+        "word": "柯洁陷入绝境",
+        "onboard_time": 1737607758,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206768,
+        "num": 206768,
+        "word": "00后女生回老家10分钟门口3辆车等相亲",
+        "onboard_time": 1737608178,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206323,
+        "num": 206323,
+        "word": "卞相壹夺冠",
+        "onboard_time": 1737617541,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200913,
+        "num": 200913,
+        "word": "战鹰说不骂人已经非常有素质了",
+        "onboard_time": 1737616820,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194256,
+        "num": 194256,
+        "word": "卞相壹思考时裁判暂停",
+        "onboard_time": 1737613399,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180401,
+        "num": 180401,
+        "word": "柯洁实时胜率接龙已不足1%",
+        "onboard_time": 1737614719,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176400,
+        "num": 176400,
+        "word": "柯洁穿上衣服离开了",
+        "onboard_time": 1737617541,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173511,
+        "num": 173511,
+        "word": "李幼贞不能生育",
+        "onboard_time": 1737604399,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173030,
+        "num": 173030,
+        "word": "今年冬天最强雨雪要来了",
+        "onboard_time": 1737616280,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169568,
+        "num": 169568,
+        "word": "韩媒称柯洁没能熟悉韩国规定",
+        "onboard_time": 1737595877,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169066,
+        "num": 169066,
+        "word": "战鹰问这是围棋比赛吗",
+        "onboard_time": 1737617302,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168685,
+        "num": 168685,
+        "word": "宠物狗遭偷找回时已被洗澡还驱虫",
+        "onboard_time": 1737615438,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146657,
+        "num": 146657,
+        "word": "李昀锐新剧空降定档",
+        "onboard_time": 1737602117,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146657,
+        "num": 146657,
+        "word": "虞书欣mike合照",
+        "onboard_time": 1737612499,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143898,
+        "num": 143898,
+        "word": "王者荣耀获央妈认可",
+        "onboard_time": 1737616339,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141586,
+        "num": 141586,
+        "word": "春晚农民工夫妇14年后仍买不起车",
+        "onboard_time": 1737605959,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141537,
+        "num": 141537,
+        "word": "何惟芳你根本没喝中药",
+        "onboard_time": 1737605838,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140377,
+        "num": 140377,
+        "word": "一诺赶飞机拍的COSMO大片",
+        "onboard_time": 1737616879,
+        "rank": 48,
+        "category": "电竞,时尚"
+      },
+      {
+        "raw_hot": 132820,
+        "num": 132820,
+        "word": "杨紫准备国色芳华耗时最久的是记台词",
+        "onboard_time": 1737617420,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在辽宁葫芦岛看望慰问受灾群众#"
+    }
+  }
+}
