@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737646712763,
+  "endTime": 1737649694584,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -888,6 +888,14 @@
       "word": "小红书崩了",
       "onboard_time": 1737014360,
       "rank": 1,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 2385266,
+      "num": 319680,
+      "word": "刘雯道歉",
+      "onboard_time": 1737645799,
+      "rank": 45,
       "category": "互联网"
     },
     {
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736588429,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1543490,
-      "num": 1543490,
-      "word": "恩利说请尊重我们的文化",
-      "onboard_time": 1737000259,
-      "rank": 4,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

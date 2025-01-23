@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737646712763,
+  "endTime": 1737649694584,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -73,6 +73,14 @@
       "onboard_time": 1737635839,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2385266,
+      "num": 319680,
+      "word": "刘雯道歉",
+      "onboard_time": 1737645799,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 2363224,
@@ -1491,6 +1499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 734053,
+      "num": 734053,
+      "word": "轩染",
+      "onboard_time": 1737644241,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 723770,
       "num": 723770,
       "word": "高铁遛娃舱来了",
@@ -2177,14 +2193,6 @@
       "onboard_time": 1737427759,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 544470,
-      "num": 544470,
-      "word": "轩染",
-      "onboard_time": 1737644241,
-      "rank": 4,
-      "category": "电竞"
     },
     {
       "raw_hot": 543449,
@@ -3851,14 +3859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 319680,
-      "num": 319680,
-      "word": "刘雯道歉",
-      "onboard_time": 1737645799,
-      "rank": 45,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 318303,
       "num": 318303,
       "word": "国色芳华",
@@ -5379,6 +5379,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 232385,
+      "num": 232385,
+      "word": "fishgod",
+      "onboard_time": 1737644960,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 231920,
       "num": 434411,
       "word": "人民日报专访李宇春",
@@ -5449,6 +5457,14 @@
       "onboard_time": 1737519079,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228303,
+      "num": 228303,
+      "word": "谁手机粘小炸的车上了",
+      "onboard_time": 1737646159,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 226836,
@@ -6097,6 +6113,14 @@
       "onboard_time": 1737625099,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 205240,
+      "num": 205240,
+      "word": "美洛杉矶地区新山火快速蔓延",
+      "onboard_time": 1737646580,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 205175,
@@ -8803,14 +8827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 158782,
-      "num": 158782,
-      "word": "谁手机粘小炸的车上了",
-      "onboard_time": 1737646159,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 158772,
       "num": 158772,
       "word": "福建浙江上海震感",
@@ -9305,6 +9321,14 @@
       "onboard_time": 1737534798,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151216,
+      "num": 151216,
+      "word": "章昊王嘉尔朴珍荣cha",
+      "onboard_time": 1737646879,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 151185,
@@ -10201,6 +10225,14 @@
       "onboard_time": 1737606980,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 139350,
+      "num": 139350,
+      "word": "鞠婧祎何谓妖",
+      "onboard_time": 1737647239,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 139247,
@@ -11561,6 +11593,14 @@
       "onboard_time": 1737343458,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 121225,
+      "num": 121225,
+      "word": "外国人已经快进到体验过年三件套了",
+      "onboard_time": 1737647358,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121156,
@@ -13347,6 +13387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 96672,
+      "num": 90965,
+      "word": "ELLEX王俊凯带你看巴黎男装周",
+      "onboard_time": 1737647478,
+      "rank": 40,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 96606,
       "num": 96606,
       "word": "陈垣宇庆祝WTT单打首冠",
@@ -13393,6 +13441,14 @@
       "onboard_time": 1737254956,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 95179,
+      "num": 88206,
+      "word": "漂白 吓人",
+      "onboard_time": 1737649517,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 95157,
@@ -14203,6 +14259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70403,
+      "num": 70403,
+      "word": "加州新爆发山火蔓延约1.9万人被疏散",
+      "onboard_time": 1737647778,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 70093,
       "num": 405316,
       "word": "过年回家被白象治愈了",
@@ -14940,7 +15004,7 @@
     },
     {
       "raw_hot": 43687,
-      "num": 484297,
+      "num": 601365,
       "word": "千帆极轨06组卫星成功发射",
       "onboard_time": 1737643999,
       "rank": 2,
@@ -15835,6 +15899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 20493,
+      "num": 174257,
+      "word": "李耕耘健身打卡第36天",
+      "onboard_time": 1737646879,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 20400,
       "num": 25779,
       "word": "石凯新歌预告",
@@ -16123,11 +16195,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12817,
-      "num": 159546,
-      "word": "美洛杉矶地区新山火快速蔓延",
-      "onboard_time": 1737646580,
-      "rank": 34,
+      "raw_hot": 12729,
+      "num": 242835,
+      "word": "土耳其酒店火灾幸存者回忆惊魂时刻",
+      "onboard_time": 1737648977,
+      "rank": 9,
       "category": "海外新闻"
     },
     {
@@ -16143,6 +16215,14 @@
       "num": 222517,
       "word": "乒乓球亚洲杯会徽吉祥物公布",
       "onboard_time": 1737374778,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 12223,
+      "num": 152506,
+      "word": "曼城官宣马尔穆什加盟",
+      "onboard_time": 1737648678,
       "rank": 24,
       "category": "体育"
     },
