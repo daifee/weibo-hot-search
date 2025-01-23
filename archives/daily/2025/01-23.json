@@ -1,6 +1,6 @@
 {
   "startTime": 1737563308947,
-  "endTime": 1737597388509,
+  "endTime": 1737600544458,
   "band_list": [
     {
       "raw_hot": 1344080,
@@ -19,8 +19,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1017425,
-      "num": 1017425,
+      "raw_hot": 1042749,
+      "num": 1166839,
       "word": "花76万买房花60万装修",
       "onboard_time": 1737592457,
       "rank": 1,
@@ -51,12 +51,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 556982,
-      "num": 556982,
+      "raw_hot": 632806,
+      "num": 632806,
+      "word": "8岁女童走失3天父亲悬赏百万寻人",
+      "onboard_time": 1737597438,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 588894,
+      "num": 588894,
       "word": "白鹿演技",
       "onboard_time": 1737589936,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 585554,
+      "num": 585554,
+      "word": "央视boys一首歌全是易错字",
+      "onboard_time": 1737594678,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 560825,
+      "num": 560825,
+      "word": "每年新增保费的30%用于投资A股",
+      "onboard_time": 1737598036,
+      "rank": 6,
+      "category": "财经"
     },
     {
       "raw_hot": 552061,
@@ -163,6 +187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 294078,
+      "num": 268704,
+      "word": "IU朴宝剑新剧预告片",
+      "onboard_time": 1737598397,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 276042,
       "num": 209028,
       "word": "刘烨女儿13岁近照",
@@ -179,14 +211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 261046,
-      "num": 261046,
-      "word": "央视boys一首歌全是易错字",
-      "onboard_time": 1737594678,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 255358,
       "num": 208291,
       "word": "马丽给登陆少年寄了一车草莓",
@@ -195,12 +219,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253640,
+      "num": 178287,
+      "word": "韩国人在中国被辣哭的一天",
+      "onboard_time": 1737595158,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 252355,
       "num": 223128,
       "word": "沈春阳回应被叫邪恶车厘子",
       "onboard_time": 1737568693,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 244809,
+      "num": 244809,
+      "word": "柯洁今日决胜局",
+      "onboard_time": 1737594498,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 242340,
@@ -233,6 +273,14 @@
       "onboard_time": 1737556039,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222485,
+      "num": 222485,
+      "word": "国新办介绍推动中长期资金入市",
+      "onboard_time": 1737597857,
+      "rank": 14,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 218464,
@@ -283,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196527,
+      "num": 196527,
+      "word": "韩媒称柯洁没能熟悉韩国规定",
+      "onboard_time": 1737595877,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191061,
       "num": 191061,
       "word": "王楚钦加油",
@@ -299,12 +355,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 182106,
-      "num": 149727,
-      "word": "韩国人在中国被辣哭的一天",
-      "onboard_time": 1737595158,
-      "rank": 28,
-      "category": "幽默"
+      "raw_hot": 190489,
+      "num": 172709,
+      "word": "newjeans成员声明",
+      "onboard_time": 1737599657,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 186241,
+      "num": 186241,
+      "word": "李现樊振东原来是同担",
+      "onboard_time": 1737599417,
+      "rank": 17,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 175133,
@@ -331,6 +395,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 163428,
+      "num": 163428,
+      "word": "李昀锐小年送祝福",
+      "onboard_time": 1737598098,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 163342,
+      "num": 163342,
+      "word": "中国专家对福岛核污水完成首次检测",
+      "onboard_time": 1737596777,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152135,
       "num": 152135,
       "word": "再过5天就是除夕",
@@ -345,14 +425,6 @@
       "onboard_time": 1737591797,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 146912,
-      "num": 159638,
-      "word": "柯洁今日决胜局",
-      "onboard_time": 1737594498,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 146713,
@@ -371,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142140,
+      "num": 142140,
+      "word": "A股再现4亿天价离婚",
+      "onboard_time": 1737598036,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 141610,
       "num": 119337,
       "word": "麦琳问李行亮自己还是个好人吗",
@@ -379,8 +459,24 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139368,
+      "num": 139368,
+      "word": "足金首饰价格突破830元每克",
+      "onboard_time": 1737596777,
+      "rank": 34,
+      "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 138435,
+      "num": 138435,
+      "word": "查收张艺兴的蛇年新春祝福",
+      "onboard_time": 1737598098,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137162,
-      "num": 137162,
+      "num": 180584,
       "word": "文化中国行非遗春节送祝福",
       "onboard_time": 1737595937,
       "rank": 30,
@@ -395,12 +491,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 134186,
+      "num": 173363,
+      "word": "奥恰说樊振东我们想你了",
+      "onboard_time": 1737599777,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134171,
       "num": 134171,
       "word": "墨总统回应特朗普给墨西哥湾改名",
       "onboard_time": 1737556819,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 133592,
+      "num": 181463,
+      "word": "朱一龙塞纳河畔花絮",
+      "onboard_time": 1737599597,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 133339,
@@ -467,20 +579,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 111025,
-      "num": 111025,
-      "word": "中国专家对福岛核污水完成首次检测",
-      "onboard_time": 1737596777,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 110528,
       "num": 110528,
       "word": "漂白",
       "onboard_time": 1737522800,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109840,
+      "num": 109840,
+      "word": "国风巳巳如意壁纸",
+      "onboard_time": 1737598337,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 109599,
@@ -499,12 +611,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105795,
+      "num": 105795,
+      "word": "移远通信董事长离婚分手费11亿元",
+      "onboard_time": 1737597978,
+      "rank": 42,
+      "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 104300,
+      "num": 104300,
+      "word": "李菲儿 锅铲门",
+      "onboard_time": 1737600436,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103953,
       "num": 103953,
       "word": "难哄",
       "onboard_time": 1737548057,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101752,
+      "num": 101752,
+      "word": "全国大部地区将出现8到12度降温",
+      "onboard_time": 1737599536,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99299,
+      "num": 99299,
+      "word": "迎新春大扫除攻略",
+      "onboard_time": 1737591437,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99054,
@@ -529,6 +673,14 @@
       "onboard_time": 1737550338,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96524,
+      "num": 96524,
+      "word": "A股",
+      "onboard_time": 1737600436,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 93845,
@@ -579,12 +731,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 88703,
-      "num": 88703,
-      "word": "迎新春大扫除攻略",
-      "onboard_time": 1737591437,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 89212,
+      "num": 142781,
+      "word": "向鱼告别狼队",
+      "onboard_time": 1737597137,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 88243,
@@ -713,14 +865,6 @@
       "onboard_time": 1737585433,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 64781,
-      "num": 142781,
-      "word": "向鱼告别狼队",
-      "onboard_time": 1737597137,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 61299,
@@ -857,6 +1001,14 @@
       "onboard_time": 1737571392,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 21305,
+      "num": 635259,
+      "word": "网络中国节",
+      "onboard_time": 1737597257,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20902,
@@ -1009,14 +1161,6 @@
       "onboard_time": 1737576371,
       "rank": 24,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 5488,
-      "num": 635259,
-      "word": "网络中国节",
-      "onboard_time": 1737597257,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/23 09:56:28
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/23 10:49:04
 </p>
 </blockquote>
 <p>
@@ -3507,6 +3507,12 @@ TikTok发声明感谢特朗普澄清保证（热度：1070924）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B176%E4%B8%87%E4%B9%B0%E6%88%BF%E8%8A%B160%E4%B8%87%E8%A3%85%E4%BF%AE%23" target="weibo">
+花76万买房花60万装修（热度：1042749）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%BD%91%E5%8F%8B%E5%93%BD%E5%92%BD%E5%93%AD%E8%AF%89%E5%A4%A9%E4%BB%B7%E5%AD%A6%E8%B4%B9%E8%B4%A6%E5%8D%95%23" target="weibo">
 美网友哽咽哭诉天价学费账单（热度：1041011）
 </a>
@@ -3581,12 +3587,6 @@ D3014次列车因撞鸟临时停车（热度：1020662）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BA%A6%E7%90%B3%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94%E7%86%8F%E9%B8%A1%E4%BA%8B%E4%BB%B6%23" target="weibo">
 麦琳首次回应熏鸡事件（热度：1017840）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B176%E4%B8%87%E4%B9%B0%E6%88%BF%E8%8A%B160%E4%B8%87%E8%A3%85%E4%BF%AE%23" target="weibo">
-花76万买房花60万装修（热度：1017425）
 </a>
 </li>
 
