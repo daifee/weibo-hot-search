@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737603547125,
+  "endTime": 1737606374572,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -209,6 +209,14 @@
       "onboard_time": 1737366617,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1601150,
+      "num": 1601150,
+      "word": "广东1岁男婴吃果冻窒息身亡",
+      "onboard_time": 1737603617,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1556030,
@@ -803,6 +811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 959806,
+      "num": 959806,
+      "word": "美国小哥警告中国不要学美国糟粕",
+      "onboard_time": 1737604159,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 957711,
       "num": 1153233,
       "word": "尹锡悦律师碰瓷中国12345便民热线",
@@ -1131,6 +1147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 756351,
+      "num": 756351,
+      "word": "湖南卫视春晚发节目单了",
+      "onboard_time": 1737602898,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 754567,
       "num": 754567,
       "word": "小伙把梳子做成柿子形状卖了5万把",
@@ -1169,6 +1193,14 @@
       "onboard_time": 1737294019,
       "rank": 4,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 742099,
+      "num": 742099,
+      "word": "李幼贞不能生育",
+      "onboard_time": 1737604399,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 741676,
@@ -1248,6 +1280,14 @@
       "word": "日均接诊800人协和急诊说忙爆炸了",
       "onboard_time": 1737353538,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 698087,
+      "num": 698087,
+      "word": "小孩捐10元被工作人员说抠门",
+      "onboard_time": 1737603799,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -1417,6 +1457,22 @@
       "onboard_time": 1737414855,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 623669,
+      "num": 623669,
+      "word": "江西最强钉子户屋主发声",
+      "onboard_time": 1737601998,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 621031,
+      "num": 621031,
+      "word": "双轨",
+      "onboard_time": 1737604038,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 618718,
@@ -1859,6 +1915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 533766,
+      "num": 533766,
+      "word": "柯洁猛揪头发",
+      "onboard_time": 1737603978,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 531230,
       "num": 367866,
       "word": "大奉打更人爆尾剧",
@@ -2040,14 +2104,6 @@
       "word": "哈利波特有望2027年落沪",
       "onboard_time": 1737372077,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 497915,
-      "num": 497915,
-      "word": "江西最强钉子户屋主发声",
-      "onboard_time": 1737601998,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -2384,6 +2440,14 @@
       "word": "曾黎的抹额火到了国外",
       "onboard_time": 1737432678,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 434914,
+      "num": 434914,
+      "word": "张凌赫李昀锐一起吃饭",
+      "onboard_time": 1737605239,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -3473,6 +3537,14 @@
       "onboard_time": 1737454279,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 298679,
+      "num": 298679,
+      "word": "蒋欣羽绒服",
+      "onboard_time": 1737605059,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 296789,
@@ -4635,6 +4707,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 220730,
+      "num": 213414,
+      "word": "范丞丞贾冰新片上火星",
+      "onboard_time": 1737604998,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 220708,
       "num": 220708,
       "word": "Doinb解释TheShy选卡尔玛原因",
@@ -4779,6 +4859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214248,
+      "num": 213015,
+      "word": "何惟芳你根本没喝中药",
+      "onboard_time": 1737605838,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213615,
       "num": 195489,
       "word": "冰箱养活鱼只为过年吃口新鲜的",
@@ -4825,6 +4913,14 @@
       "onboard_time": 1737517518,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 212931,
+      "num": 212931,
+      "word": "张楚岚为冯宝宝算计了所有人",
+      "onboard_time": 1737604819,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 212294,
@@ -5323,6 +5419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197777,
+      "num": 194007,
+      "word": "春晚一口气发了168小时视频",
+      "onboard_time": 1737605779,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197705,
       "num": 197705,
       "word": "射雕英雄传影史国产片预售首日票房冠军",
@@ -5449,6 +5553,14 @@
       "onboard_time": 1737343337,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 195312,
+      "num": 195312,
+      "word": "不良人第七季定档",
+      "onboard_time": 1737605419,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 195144,
@@ -5657,6 +5769,14 @@
       "onboard_time": 1737465140,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192294,
+      "num": 192294,
+      "word": "无畏契约",
+      "onboard_time": 1737606019,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 192270,
@@ -6347,6 +6467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176604,
+      "num": 176604,
+      "word": "丁禹兮和哪吒耍火",
+      "onboard_time": 1737603799,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 176516,
       "num": 176516,
       "word": "特朗普或将TikTok禁令延期90天",
@@ -6441,6 +6569,14 @@
       "onboard_time": 1737442937,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174728,
+      "num": 174728,
+      "word": "李一桐下腰",
+      "onboard_time": 1737605478,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 174721,
@@ -6635,6 +6771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 168779,
+      "num": 168779,
+      "word": "春晚农民工夫妇14年后仍买不起车",
+      "onboard_time": 1737605959,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168710,
       "num": 168710,
       "word": "王嘉尔朱一龙王鹤棣G社生图",
@@ -6705,6 +6849,14 @@
       "onboard_time": 1737274339,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 167572,
+      "num": 167572,
+      "word": "祝绪丹美得人眼前一亮又一亮",
+      "onboard_time": 1737605538,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 167538,
@@ -6915,14 +7067,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 165006,
-      "num": 372042,
-      "word": "湖南卫视春晚发节目单了",
-      "onboard_time": 1737602898,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 164940,
       "num": 227118,
       "word": "樊振东熠熠生辉的28岁",
@@ -7105,6 +7249,14 @@
       "onboard_time": 1737349220,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 161353,
+      "num": 161353,
+      "word": "种地吧今天干个大工程",
+      "onboard_time": 1737605838,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 161277,
@@ -7371,6 +7523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157058,
+      "num": 157058,
+      "word": "于适讲出了春运中的温情",
+      "onboard_time": 1737602237,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156930,
       "num": 156930,
       "word": "重庆狼队",
@@ -7409,14 +7569,6 @@
       "onboard_time": 1737512118,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 156510,
-      "num": 151612,
-      "word": "于适讲出了春运中的温情",
-      "onboard_time": 1737602237,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 156422,
@@ -8091,6 +8243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145235,
+      "num": 145235,
+      "word": "张杰唱歌只超过百分之66的网友",
+      "onboard_time": 1737606138,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145214,
       "num": 145214,
       "word": "杨紫嘉人二月刊预热",
@@ -8555,6 +8715,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 137316,
+      "num": 213595,
+      "word": "余承东说各种问题都可以问小艺",
+      "onboard_time": 1737603438,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 137162,
       "num": 220887,
       "word": "文化中国行非遗春节送祝福",
@@ -8745,6 +8913,14 @@
       "onboard_time": 1737515958,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135097,
+      "num": 135097,
+      "word": "买二手车后得花4万5续费辅助驾驶",
+      "onboard_time": 1737602057,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135047,
@@ -9083,14 +9259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128856,
-      "num": 128856,
-      "word": "买二手车后得花4万5续费辅助驾驶",
-      "onboard_time": 1737602057,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128849,
       "num": 128849,
       "word": "白鹿敖瑞鹏要二搭三搭一搭再搭啊",
@@ -9281,6 +9449,14 @@
       "onboard_time": 1737510738,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 125888,
+      "num": 125888,
+      "word": "韩东君从红海开始觊觎蛟龙",
+      "onboard_time": 1737604159,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 125858,
@@ -10603,6 +10779,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 106986,
+      "num": 213154,
+      "word": "HYBE试图分裂newjeans",
+      "onboard_time": 1737605179,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106977,
       "num": 106977,
       "word": "王嘉尔真是什么事情都报备",
@@ -11185,6 +11369,14 @@
       "onboard_time": 1737272418,
       "rank": 24,
       "category": "电竞,体育"
+    },
+    {
+      "raw_hot": 97628,
+      "num": 156037,
+      "word": "NewJeans募集组合新名称",
+      "onboard_time": 1737606198,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 97566,
@@ -12115,6 +12307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 66474,
+      "num": 946684,
+      "word": "今年春节你被哪些年货硬控了",
+      "onboard_time": 1737601458,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65944,
       "num": 69759,
       "word": "巴萨8轮联赛仅1胜",
@@ -12139,6 +12339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 65233,
+      "num": 168150,
+      "word": "网络视听盛典最期待的节目",
+      "onboard_time": 1737606198,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 64999,
       "num": 324992,
       "word": "光头强一开嗓年就来了",
@@ -12161,14 +12369,6 @@
       "onboard_time": 1737355397,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 63948,
-      "num": 629279,
-      "word": "今年春节你被哪些年货硬控了",
-      "onboard_time": 1737601458,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 63766,
@@ -12216,6 +12416,14 @@
       "word": "浓浓的年味已经扑面而来",
       "onboard_time": 1737465919,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61839,
+      "num": 155857,
+      "word": "江西最牛钉子户现状",
+      "onboard_time": 1737606320,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -12305,14 +12513,6 @@
       "onboard_time": 1737211400,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 57985,
-      "num": 105203,
-      "word": "余承东说各种问题都可以问小艺",
-      "onboard_time": 1737603438,
-      "rank": 46,
-      "category": "互联网"
     },
     {
       "raw_hot": 57919,
