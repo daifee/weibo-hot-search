@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737609686542,
+  "endTime": 1737610689981,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -627,6 +627,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1071293,
+      "num": 1171406,
+      "word": "柯洁陷入绝境",
+      "onboard_time": 1737607758,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1070924,
       "num": 362160,
       "word": "TikTok发声明感谢特朗普澄清保证",
@@ -745,14 +753,6 @@
       "onboard_time": 1737287479,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 995257,
-      "num": 403540,
-      "word": "柯洁陷入绝境",
-      "onboard_time": 1737607758,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 993865,
@@ -939,6 +939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 910451,
+      "num": 910451,
+      "word": "柯洁今日决胜局",
+      "onboard_time": 1737594498,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 905445,
       "num": 1144871,
       "word": "麦琳商业价值超李行亮",
@@ -979,6 +987,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 888149,
+      "num": 888149,
+      "word": "柯洁暴怒问裁判",
+      "onboard_time": 1737609679,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 886623,
       "num": 376146,
       "word": "训犬师谈网红狗艾特洗澡死亡",
@@ -992,6 +1008,14 @@
       "word": "尹锡悦换上囚服",
       "onboard_time": 1737298338,
       "rank": 10,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 882889,
+      "num": 524750,
+      "word": "特朗普称拜登忘了赦免自己",
+      "onboard_time": 1737609138,
+      "rank": 17,
       "category": "国际时政"
     },
     {
@@ -1017,6 +1041,14 @@
       "onboard_time": 1737560358,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 863615,
+      "num": 863615,
+      "word": "春晚一口气发了168小时视频",
+      "onboard_time": 1737605779,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 858011,
@@ -1115,14 +1147,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 811908,
-      "num": 811908,
-      "word": "春晚一口气发了168小时视频",
-      "onboard_time": 1737605779,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 807988,
       "num": 323197,
       "word": "邪恶车厘子",
@@ -1193,14 +1217,6 @@
       "onboard_time": 1737222734,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 758067,
-      "num": 758067,
-      "word": "柯洁今日决胜局",
-      "onboard_time": 1737594498,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 754567,
@@ -2515,6 +2531,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 428450,
+      "num": 428450,
+      "word": "春晚农民工夫妇14年后仍买不起车",
+      "onboard_time": 1737605959,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 427470,
       "num": 427470,
       "word": "留几手回应离婚财产分配",
@@ -2612,7 +2636,7 @@
     },
     {
       "raw_hot": 413348,
-      "num": 294765,
+      "num": 362098,
       "word": "何惟芳你根本没喝中药",
       "onboard_time": 1737605838,
       "rank": 25,
@@ -3251,14 +3275,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 330039,
-      "num": 330039,
-      "word": "春晚农民工夫妇14年后仍买不起车",
-      "onboard_time": 1737605959,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 329854,
       "num": 243958,
       "word": "漂白热度",
@@ -3691,12 +3707,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 287207,
-      "num": 287207,
-      "word": "特朗普称拜登忘了赦免自己",
-      "onboard_time": 1737609138,
-      "rank": 17,
-      "category": "国际时政"
+      "raw_hot": 287826,
+      "num": 227936,
+      "word": "美国婴儿尝试中国婴儿食品",
+      "onboard_time": 1737607699,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 287005,
@@ -4003,14 +4019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 269235,
-      "num": 214227,
-      "word": "美国婴儿尝试中国婴儿食品",
-      "onboard_time": 1737607699,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 269066,
       "num": 256259,
       "word": "为什么韩国人冻死也要喝冰美式",
@@ -4179,6 +4187,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 259217,
+      "num": 239562,
+      "word": "宇日俱曾",
+      "onboard_time": 1737609379,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 258963,
       "num": 408745,
       "word": "肖战加盟2025网络视听盛典",
@@ -4329,6 +4345,14 @@
       "onboard_time": 1737568693,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251070,
+      "num": 243812,
+      "word": "KPL",
+      "onboard_time": 1737609978,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 250948,
@@ -4561,6 +4585,14 @@
       "onboard_time": 1737538998,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 237822,
+      "num": 237822,
+      "word": "沉迷于欣赏迪丽热巴忘了时间",
+      "onboard_time": 1737609799,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 237761,
@@ -5123,6 +5155,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 208735,
+      "num": 526369,
+      "word": "今天南方小年",
+      "onboard_time": 1737609860,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208623,
       "num": 208623,
       "word": "第三方平台买火车票各种玩法只为加钱",
@@ -5145,6 +5185,14 @@
       "onboard_time": 1737547938,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 208190,
+      "num": 208190,
+      "word": "双轨主演阵容官宣",
+      "onboard_time": 1737610158,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 208113,
@@ -5955,14 +6003,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 191536,
-      "num": 191536,
-      "word": "宇日俱曾",
-      "onboard_time": 1737609379,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 191512,
       "num": 191512,
       "word": "孟子义说不出感谢坎坷这种话",
@@ -6355,6 +6395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182096,
+      "num": 192547,
+      "word": "TikTok最快本周就在美运营达成协议",
+      "onboard_time": 1737609440,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 182091,
       "num": 161953,
       "word": "射雕英雄传预售破4000万",
@@ -6475,6 +6523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 179518,
+      "num": 179518,
+      "word": "特朗普任命救命特工为特勤局长",
+      "onboard_time": 1737609679,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 179402,
       "num": 224366,
       "word": "打工不易哪吒敖丙也要卖艺",
@@ -6537,6 +6593,14 @@
       "onboard_time": 1737431238,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178248,
+      "num": 178248,
+      "word": "蒋敦豪说周深淋过雨也会给朋友撑伞",
+      "onboard_time": 1737609500,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 177824,
@@ -6769,6 +6833,14 @@
       "onboard_time": 1737605838,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173776,
+      "num": 173776,
+      "word": "LG杯决胜局中断",
+      "onboard_time": 1737610460,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 173576,
@@ -7387,6 +7459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 162239,
+      "num": 162239,
+      "word": "樊振东祝大家当红不让",
+      "onboard_time": 1737610339,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162184,
       "num": 162184,
       "word": "漂白年夜犯",
@@ -7465,14 +7545,6 @@
       "onboard_time": 1737371657,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159906,
-      "num": 159906,
-      "word": "蒋敦豪说周深淋过雨也会给朋友撑伞",
-      "onboard_time": 1737609500,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 159729,
@@ -8155,6 +8227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 149017,
+      "num": 149017,
+      "word": "刘晓庆回应年龄造假",
+      "onboard_time": 1737610579,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148883,
       "num": 162954,
       "word": "陈立农女孩七周年",
@@ -8209,6 +8289,14 @@
       "onboard_time": 1737456558,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148012,
+      "num": 148012,
+      "word": "十二生肖里为啥有蛇",
+      "onboard_time": 1737607881,
+      "rank": 48,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 147975,
@@ -8441,6 +8529,14 @@
       "onboard_time": 1737524958,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 145196,
+      "num": 145196,
+      "word": "张杰不知道啥是脆啵啵",
+      "onboard_time": 1737609619,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 145172,
@@ -8691,14 +8787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140956,
-      "num": 140956,
-      "word": "张杰不知道啥是脆啵啵",
-      "onboard_time": 1737609619,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 140845,
       "num": 140845,
       "word": "韩方表示提子新规已多次提醒中方",
@@ -8809,6 +8897,14 @@
       "onboard_time": 1737606980,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 139179,
+      "num": 193065,
+      "word": "李周宪退伍",
+      "onboard_time": 1737610518,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 139147,
@@ -9321,14 +9417,6 @@
       "onboard_time": 1737532878,
       "rank": 19,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 131507,
-      "num": 192547,
-      "word": "TikTok最快本周就在美运营达成协议",
-      "onboard_time": 1737609440,
-      "rank": 36,
-      "category": "互联网"
     },
     {
       "raw_hot": 131443,
@@ -12803,6 +12891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 55820,
+      "num": 184273,
+      "word": "惊恐喜剧电影诡才之道定档",
+      "onboard_time": 1737610639,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 55542,
       "num": 110201,
       "word": "陈丽君蛇年央视春晚第四次联排",
@@ -12961,6 +13057,14 @@
       "onboard_time": 1737327014,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 51081,
+      "num": 254977,
+      "word": "编号17确认引进",
+      "onboard_time": 1737609440,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 50844,
@@ -13252,7 +13356,7 @@
     },
     {
       "raw_hot": 40317,
-      "num": 214493,
+      "num": 229082,
       "word": "为数不多的心眼全用游戏上了",
       "onboard_time": 1737608539,
       "rank": 29,
@@ -13745,14 +13849,6 @@
       "onboard_time": 1737320530,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25203,
-      "num": 254977,
-      "word": "编号17确认引进",
-      "onboard_time": 1737609440,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 24838,

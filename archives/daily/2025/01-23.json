@@ -1,6 +1,6 @@
 {
   "startTime": 1737563308947,
-  "endTime": 1737609686542,
+  "endTime": 1737610689981,
   "band_list": [
     {
       "raw_hot": 1601150,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1071293,
+      "num": 1171406,
+      "word": "柯洁陷入绝境",
+      "onboard_time": 1737607758,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1048820,
       "num": 1048820,
       "word": "徐州市税务局一办公地装修后10人患癌",
@@ -57,14 +65,6 @@
       "onboard_time": 1737592457,
       "rank": 1,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 995257,
-      "num": 403540,
-      "word": "柯洁陷入绝境",
-      "onboard_time": 1737607758,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 988394,
@@ -91,12 +91,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 910451,
+      "num": 910451,
+      "word": "柯洁今日决胜局",
+      "onboard_time": 1737594498,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 888149,
+      "num": 888149,
+      "word": "柯洁暴怒问裁判",
+      "onboard_time": 1737609679,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 882889,
+      "num": 524750,
+      "word": "特朗普称拜登忘了赦免自己",
+      "onboard_time": 1737609138,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 876570,
       "num": 216540,
       "word": "江西一商场发生电梯卡人事故",
       "onboard_time": 1737560358,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 863615,
+      "num": 863615,
+      "word": "春晚一口气发了168小时视频",
+      "onboard_time": 1737605779,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 843437,
@@ -107,28 +139,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 811908,
-      "num": 811908,
-      "word": "春晚一口气发了168小时视频",
-      "onboard_time": 1737605779,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 788716,
       "num": 788716,
       "word": "小孩捐10元被工作人员说抠门",
       "onboard_time": 1737603799,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 758067,
-      "num": 758067,
-      "word": "柯洁今日决胜局",
-      "onboard_time": 1737594498,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 648984,
@@ -251,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 428450,
+      "num": 428450,
+      "word": "春晚农民工夫妇14年后仍买不起车",
+      "onboard_time": 1737605959,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 413734,
       "num": 413734,
       "word": "法国士兵记步数APP泄露核潜艇机密",
@@ -260,7 +284,7 @@
     },
     {
       "raw_hot": 413348,
-      "num": 294765,
+      "num": 362098,
       "word": "何惟芳你根本没喝中药",
       "onboard_time": 1737605838,
       "rank": 25,
@@ -305,14 +329,6 @@
       "onboard_time": 1737599657,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 330039,
-      "num": 330039,
-      "word": "春晚农民工夫妇14年后仍买不起车",
-      "onboard_time": 1737605959,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 321394,
@@ -387,12 +403,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 287207,
-      "num": 287207,
-      "word": "特朗普称拜登忘了赦免自己",
-      "onboard_time": 1737609138,
-      "rank": 17,
-      "category": "国际时政"
+      "raw_hot": 287826,
+      "num": 227936,
+      "word": "美国婴儿尝试中国婴儿食品",
+      "onboard_time": 1737607699,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 278852,
@@ -409,14 +425,6 @@
       "onboard_time": 1737546677,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 269235,
-      "num": 214227,
-      "word": "美国婴儿尝试中国婴儿食品",
-      "onboard_time": 1737607699,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 265134,
@@ -443,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 259217,
+      "num": 239562,
+      "word": "宇日俱曾",
+      "onboard_time": 1737609379,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255358,
       "num": 208291,
       "word": "马丽给登陆少年寄了一车草莓",
@@ -465,6 +481,14 @@
       "onboard_time": 1737568693,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251070,
+      "num": 243812,
+      "word": "KPL",
+      "onboard_time": 1737609978,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 247159,
@@ -497,6 +521,14 @@
       "onboard_time": 1737609018,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 237822,
+      "num": 237822,
+      "word": "沉迷于欣赏迪丽热巴忘了时间",
+      "onboard_time": 1737609799,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 227162,
@@ -587,6 +619,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208735,
+      "num": 526369,
+      "word": "今天南方小年",
+      "onboard_time": 1737609860,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208190,
+      "num": 208190,
+      "word": "双轨主演阵容官宣",
+      "onboard_time": 1737610158,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207526,
       "num": 207526,
       "word": "iG股东开团Doinb",
@@ -651,14 +699,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 191536,
-      "num": 191536,
-      "word": "宇日俱曾",
-      "onboard_time": 1737609379,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 191362,
       "num": 153827,
       "word": "致1999年的自己定档了",
@@ -691,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182096,
+      "num": 192547,
+      "word": "TikTok最快本周就在美运营达成协议",
+      "onboard_time": 1737609440,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 181905,
       "num": 251196,
       "word": "国产品牌领跑2024中国手机市场",
@@ -707,12 +755,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 179518,
+      "num": 179518,
+      "word": "特朗普任命救命特工为特勤局长",
+      "onboard_time": 1737609679,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 179315,
       "num": 179315,
       "word": "足金首饰价格突破830元每克",
       "onboard_time": 1737596777,
       "rank": 34,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 178248,
+      "num": 178248,
+      "word": "蒋敦豪说周深淋过雨也会给朋友撑伞",
+      "onboard_time": 1737609500,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 176604,
@@ -753,6 +817,14 @@
       "onboard_time": 1737605838,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173776,
+      "num": 173776,
+      "word": "LG杯决胜局中断",
+      "onboard_time": 1737610460,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 170720,
@@ -819,12 +891,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 159906,
-      "num": 159906,
-      "word": "蒋敦豪说周深淋过雨也会给朋友撑伞",
-      "onboard_time": 1737609500,
-      "rank": 44,
-      "category": "演出"
+      "raw_hot": 162239,
+      "num": 162239,
+      "word": "樊振东祝大家当红不让",
+      "onboard_time": 1737610339,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 158990,
@@ -859,12 +931,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149017,
+      "num": 149017,
+      "word": "刘晓庆回应年龄造假",
+      "onboard_time": 1737610579,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148314,
       "num": 145235,
       "word": "张杰唱歌只超过百分之66的网友",
       "onboard_time": 1737606138,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148012,
+      "num": 148012,
+      "word": "十二生肖里为啥有蛇",
+      "onboard_time": 1737607881,
+      "rank": 48,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 147724,
@@ -915,6 +1003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145196,
+      "num": 145196,
+      "word": "张杰不知道啥是脆啵啵",
+      "onboard_time": 1737609619,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144109,
       "num": 248994,
       "word": "连笑谈柯洁被判负",
@@ -955,20 +1051,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140956,
-      "num": 140956,
-      "word": "张杰不知道啥是脆啵啵",
-      "onboard_time": 1737609619,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 139487,
       "num": 139487,
       "word": "光与夜之恋",
       "onboard_time": 1737606980,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 139179,
+      "num": 193065,
+      "word": "李周宪退伍",
+      "onboard_time": 1737610518,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 138028,
@@ -1033,14 +1129,6 @@
       "onboard_time": 1737546799,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 131507,
-      "num": 192547,
-      "word": "TikTok最快本周就在美运营达成协议",
-      "onboard_time": 1737609440,
-      "rank": 36,
-      "category": "互联网"
     },
     {
       "raw_hot": 131411,
@@ -1507,6 +1595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55820,
+      "num": 184273,
+      "word": "惊恐喜剧电影诡才之道定档",
+      "onboard_time": 1737610639,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 55792,
       "num": 55792,
       "word": "偶遇佟丽娅带儿子国外度假",
@@ -1520,6 +1616,14 @@
       "word": "肖战说为国为民才是侠之大者",
       "onboard_time": 1737535158,
       "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 51081,
+      "num": 254977,
+      "word": "编号17确认引进",
+      "onboard_time": 1737609440,
+      "rank": 22,
       "category": "电影"
     },
     {
@@ -1548,7 +1652,7 @@
     },
     {
       "raw_hot": 40317,
-      "num": 214493,
+      "num": 229082,
       "word": "为数不多的心眼全用游戏上了",
       "onboard_time": 1737608539,
       "rank": 29,
@@ -1633,14 +1737,6 @@
       "onboard_time": 1737570371,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 25203,
-      "num": 254977,
-      "word": "编号17确认引进",
-      "onboard_time": 1737609440,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 23861,

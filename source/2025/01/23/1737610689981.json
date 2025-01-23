@@ -1,0 +1,410 @@
+{
+  "runTime": 1737610689981,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1071293,
+        "num": 1171406,
+        "word": "柯洁陷入绝境",
+        "onboard_time": 1737607758,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 910451,
+        "num": 910451,
+        "word": "柯洁今日决胜局",
+        "onboard_time": 1737594498,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62265,
+        "num": 891217,
+        "word": "今年春节你被哪些年货硬控了",
+        "onboard_time": 1737601458,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 888149,
+        "num": 888149,
+        "word": "柯洁暴怒问裁判",
+        "onboard_time": 1737609679,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 863615,
+        "num": 863615,
+        "word": "春晚一口气发了168小时视频",
+        "onboard_time": 1737605779,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 809004,
+        "num": 809004,
+        "word": "双轨",
+        "onboard_time": 1737604038,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 576174,
+        "num": 576174,
+        "word": "迪丽热巴华丽珠宝ccd",
+        "onboard_time": 1737608299,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 569895,
+        "num": 569895,
+        "word": "湖南卫视春晚发节目单了",
+        "onboard_time": 1737602898,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 547020,
+        "num": 547020,
+        "word": "小孩捐10元被工作人员说抠门",
+        "onboard_time": 1737603799,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208735,
+        "num": 526369,
+        "word": "今天南方小年",
+        "onboard_time": 1737609860,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 882889,
+        "num": 524750,
+        "word": "特朗普称拜登忘了赦免自己",
+        "onboard_time": 1737609138,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 518234,
+        "num": 518234,
+        "word": "李幼贞不能生育",
+        "onboard_time": 1737604399,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 492520,
+        "num": 492520,
+        "word": "美国小哥警告中国不要学美国糟粕",
+        "onboard_time": 1737604159,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428450,
+        "num": 428450,
+        "word": "春晚农民工夫妇14年后仍买不起车",
+        "onboard_time": 1737605959,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362098,
+        "num": 362098,
+        "word": "何惟芳你根本没喝中药",
+        "onboard_time": 1737605838,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349570,
+        "num": 349570,
+        "word": "蒋欣羽绒服",
+        "onboard_time": 1737605059,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337685,
+        "num": 337685,
+        "word": "李昀锐新剧空降定档",
+        "onboard_time": 1737602117,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300384,
+        "num": 300384,
+        "word": "柯洁猛揪头发",
+        "onboard_time": 1737603978,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251300,
+        "num": 251300,
+        "word": "李子柒时尚芭莎封面预告",
+        "onboard_time": 1737608299,
+        "rank": 18,
+        "category": "时尚,网红"
+      },
+      {
+        "raw_hot": 153736,
+        "num": 249947,
+        "word": "国产品牌领跑2024中国手机市场",
+        "onboard_time": 1737609080,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1010731,
+        "num": 249829,
+        "word": "广东1岁男婴吃果冻窒息身亡",
+        "onboard_time": 1737603617,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249496,
+        "num": 249496,
+        "word": "李灿赫河智秀恋爱",
+        "onboard_time": 1737607579,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 505770,
+        "num": 248918,
+        "word": "徐州市税务局一办公地装修后10人患癌",
+        "onboard_time": 1737601998,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51081,
+        "num": 246471,
+        "word": "编号17确认引进",
+        "onboard_time": 1737609440,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 251070,
+        "num": 243812,
+        "word": "KPL",
+        "onboard_time": 1737609978,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 286124,
+        "num": 242387,
+        "word": "张凌赫李昀锐一起吃饭",
+        "onboard_time": 1737605239,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278047,
+        "num": 240992,
+        "word": "李一桐下腰",
+        "onboard_time": 1737605478,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 259217,
+        "num": 239562,
+        "word": "宇日俱曾",
+        "onboard_time": 1737609379,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237822,
+        "num": 237822,
+        "word": "沉迷于欣赏迪丽热巴忘了时间",
+        "onboard_time": 1737609799,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 35344,
+        "num": 229082,
+        "word": "为数不多的心眼全用游戏上了",
+        "onboard_time": 1737608539,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 287826,
+        "num": 227936,
+        "word": "美国婴儿尝试中国婴儿食品",
+        "onboard_time": 1737607699,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226651,
+        "num": 226651,
+        "word": "江西最强钉子户屋主发声",
+        "onboard_time": 1737601998,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225904,
+        "num": 225904,
+        "word": "杨紫嘉人二月刊封面",
+        "onboard_time": 1737607758,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 208190,
+        "num": 208190,
+        "word": "双轨主演阵容官宣",
+        "onboard_time": 1737610158,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205743,
+        "num": 205743,
+        "word": "00后女生回老家10分钟门口3辆车等相亲",
+        "onboard_time": 1737608178,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139179,
+        "num": 193065,
+        "word": "李周宪退伍",
+        "onboard_time": 1737610518,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192052,
+        "num": 192052,
+        "word": "南部档案",
+        "onboard_time": 1737609258,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55820,
+        "num": 184273,
+        "word": "惊恐喜剧电影诡才之道定档",
+        "onboard_time": 1737610639,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182096,
+        "num": 182096,
+        "word": "TikTok最快本周就在美运营达成协议",
+        "onboard_time": 1737609440,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 170176,
+        "num": 181225,
+        "word": "王影璐异人之下2奥特曼式出场",
+        "onboard_time": 1737609018,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180681,
+        "num": 180681,
+        "word": "韩媒称柯洁没能熟悉韩国规定",
+        "onboard_time": 1737595877,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179518,
+        "num": 179518,
+        "word": "特朗普任命救命特工为特勤局长",
+        "onboard_time": 1737609679,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178248,
+        "num": 178248,
+        "word": "蒋敦豪说周深淋过雨也会给朋友撑伞",
+        "onboard_time": 1737609500,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173776,
+        "num": 173776,
+        "word": "LG杯决胜局中断",
+        "onboard_time": 1737610460,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166837,
+        "num": 166837,
+        "word": "越剧我的大观园有多火",
+        "onboard_time": 1737608240,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162239,
+        "num": 162239,
+        "word": "樊振东祝大家当红不让",
+        "onboard_time": 1737610339,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149017,
+        "num": 149017,
+        "word": "刘晓庆回应年龄造假",
+        "onboard_time": 1737610579,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157270,
+        "num": 148516,
+        "word": "李菲儿 锅铲门",
+        "onboard_time": 1737600436,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148012,
+        "num": 148012,
+        "word": "十二生肖里为啥有蛇",
+        "onboard_time": 1737607881,
+        "rank": 48,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 145196,
+        "num": 145196,
+        "word": "张杰不知道啥是脆啵啵",
+        "onboard_time": 1737609619,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在辽宁葫芦岛看望慰问受灾群众#"
+    }
+  }
+}

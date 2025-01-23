@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737609686542,
+  "endTime": 1737610689981,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -4459,6 +4459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1071293,
+      "num": 1171406,
+      "word": "柯洁陷入绝境",
+      "onboard_time": 1737607758,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1070924,
       "num": 362160,
       "word": "TikTok发声明感谢特朗普澄清保证",
@@ -4969,14 +4977,6 @@
       "onboard_time": 1736168063,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 995257,
-      "num": 403540,
-      "word": "柯洁陷入绝境",
-      "onboard_time": 1737607758,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 994873,
@@ -5843,6 +5843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 910451,
+      "num": 910451,
+      "word": "柯洁今日决胜局",
+      "onboard_time": 1737594498,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 910440,
       "num": 2333732,
       "word": "李一桐模仿樊振东庆祝手势",
@@ -6035,6 +6043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 888149,
+      "num": 888149,
+      "word": "柯洁暴怒问裁判",
+      "onboard_time": 1737609679,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 888040,
       "num": 888040,
       "word": "美国洛杉矶山火完全失控",
@@ -6113,6 +6129,14 @@
       "onboard_time": 1735816639,
       "rank": 34,
       "category": "网红"
+    },
+    {
+      "raw_hot": 882889,
+      "num": 524750,
+      "word": "特朗普称拜登忘了赦免自己",
+      "onboard_time": 1737609138,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 881265,
@@ -6296,6 +6320,14 @@
       "word": "王星越演我嗑虞书欣丁禹兮",
       "onboard_time": 1736005295,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 863615,
+      "num": 863615,
+      "word": "春晚一口气发了168小时视频",
+      "onboard_time": 1737605779,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -6833,14 +6865,6 @@
       "onboard_time": 1736679800,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 811908,
-      "num": 811908,
-      "word": "春晚一口气发了168小时视频",
-      "onboard_time": 1737605779,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 811748,
@@ -7545,14 +7569,6 @@
       "onboard_time": 1737083418,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 758067,
-      "num": 758067,
-      "word": "柯洁今日决胜局",
-      "onboard_time": 1737594498,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 755901,
@@ -14835,6 +14851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 428450,
+      "num": 428450,
+      "word": "春晚农民工夫妇14年后仍买不起车",
+      "onboard_time": 1737605959,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 428190,
       "num": 428190,
       "word": "希望美方务必慎重处理台湾问题",
@@ -15420,7 +15444,7 @@
     },
     {
       "raw_hot": 413348,
-      "num": 294765,
+      "num": 362098,
       "word": "何惟芳你根本没喝中药",
       "onboard_time": 1737605838,
       "rank": 25,
@@ -19179,14 +19203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 330039,
-      "num": 330039,
-      "word": "春晚农民工夫妇14年后仍买不起车",
-      "onboard_time": 1737605959,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 329999,
       "num": 329999,
       "word": "微博之夜只差易烊千玺就三代同堂了",
@@ -21843,6 +21859,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 287826,
+      "num": 227936,
+      "word": "美国婴儿尝试中国婴儿食品",
+      "onboard_time": 1737607699,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 287707,
       "num": 657154,
       "word": "女子收到50万元转账险成电诈帮凶",
@@ -21889,14 +21913,6 @@
       "onboard_time": 1735729883,
       "rank": 28,
       "category": "艺人,健康医疗"
-    },
-    {
-      "raw_hot": 287207,
-      "num": 287207,
-      "word": "特朗普称拜登忘了赦免自己",
-      "onboard_time": 1737609138,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 287106,
@@ -23347,14 +23363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 269235,
-      "num": 214227,
-      "word": "美国婴儿尝试中国婴儿食品",
-      "onboard_time": 1737607699,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 269109,
       "num": 269109,
       "word": "小猫被电后撤回了撒娇",
@@ -24081,6 +24089,14 @@
       "onboard_time": 1735662986,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 259217,
+      "num": 239562,
+      "word": "宇日俱曾",
+      "onboard_time": 1737609379,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 259185,
@@ -24889,6 +24905,14 @@
       "onboard_time": 1735665561,
       "rank": 38,
       "category": "体育,综艺"
+    },
+    {
+      "raw_hot": 251070,
+      "num": 698813,
+      "word": "KPL",
+      "onboard_time": 1735704380,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 250948,
@@ -26089,6 +26113,14 @@
       "onboard_time": 1736431643,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 237822,
+      "num": 237822,
+      "word": "沉迷于欣赏迪丽热巴忘了时间",
+      "onboard_time": 1737609799,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 237761,
@@ -29443,6 +29475,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 208735,
+      "num": 526369,
+      "word": "今天南方小年",
+      "onboard_time": 1737609860,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208703,
       "num": 322266,
       "word": "贺峻霖推荐ChinaTravel来家乡成都",
@@ -29584,6 +29624,14 @@
       "word": "敖瑞鹏又红温了",
       "onboard_time": 1736673440,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 208190,
+      "num": 208190,
+      "word": "双轨主演阵容官宣",
+      "onboard_time": 1737610158,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -33587,14 +33635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191536,
-      "num": 191536,
-      "word": "宇日俱曾",
-      "onboard_time": 1737609379,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 191534,
       "num": 191534,
       "word": "健美运动员被关押9个月后瘦成人干",
@@ -35819,6 +35859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 182096,
+      "num": 192547,
+      "word": "TikTok最快本周就在美运营达成协议",
+      "onboard_time": 1737609440,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 182091,
       "num": 161953,
       "word": "射雕英雄传预售破4000万",
@@ -36323,6 +36371,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 179518,
+      "num": 179518,
+      "word": "特朗普任命救命特工为特勤局长",
+      "onboard_time": 1737609679,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 179424,
       "num": 179424,
       "word": "电诈分子的电话打到了泰国总理那里",
@@ -36593,6 +36649,14 @@
       "onboard_time": 1737431238,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178248,
+      "num": 178248,
+      "word": "蒋敦豪说周深淋过雨也会给朋友撑伞",
+      "onboard_time": 1737609500,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 178207,
@@ -37633,6 +37697,14 @@
       "onboard_time": 1736846539,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173776,
+      "num": 173776,
+      "word": "LG杯决胜局中断",
+      "onboard_time": 1737610460,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 173676,
@@ -39995,14 +40067,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164717,
-      "num": 698813,
-      "word": "KPL",
-      "onboard_time": 1735704380,
-      "rank": 37,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 164586,
       "num": 317378,
       "word": "刘亦菲芭莎一月刊",
@@ -40561,6 +40625,14 @@
       "onboard_time": 1735974382,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162239,
+      "num": 162239,
+      "word": "樊振东祝大家当红不让",
+      "onboard_time": 1737610339,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 162184,
@@ -41145,14 +41217,6 @@
       "onboard_time": 1736681120,
       "rank": 35,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 159906,
-      "num": 159906,
-      "word": "蒋敦豪说周深淋过雨也会给朋友撑伞",
-      "onboard_time": 1737609500,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 159860,
@@ -44035,6 +44099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149017,
+      "num": 149017,
+      "word": "刘晓庆回应年龄造假",
+      "onboard_time": 1737610579,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148949,
       "num": 148949,
       "word": "敖瑞鹏不语只是一味提鞋",
@@ -44297,6 +44369,14 @@
       "onboard_time": 1737456558,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148012,
+      "num": 148012,
+      "word": "十二生肖里为啥有蛇",
+      "onboard_time": 1737607881,
+      "rank": 48,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 148006,
@@ -45097,6 +45177,14 @@
       "onboard_time": 1737524958,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 145196,
+      "num": 145196,
+      "word": "张杰不知道啥是脆啵啵",
+      "onboard_time": 1737609619,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 145144,
@@ -46291,14 +46379,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 140956,
-      "num": 140956,
-      "word": "张杰不知道啥是脆啵啵",
-      "onboard_time": 1737609619,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 140933,
       "num": 906978,
       "word": "你的家乡有什么过年必吃菜",
@@ -46785,6 +46865,14 @@
       "onboard_time": 1736371031,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139179,
+      "num": 193065,
+      "word": "李周宪退伍",
+      "onboard_time": 1737610518,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 139171,
@@ -49041,14 +49129,6 @@
       "onboard_time": 1736753478,
       "rank": 14,
       "category": "财经"
-    },
-    {
-      "raw_hot": 131507,
-      "num": 192547,
-      "word": "TikTok最快本周就在美运营达成协议",
-      "onboard_time": 1737609440,
-      "rank": 36,
-      "category": "互联网"
     },
     {
       "raw_hot": 131490,
@@ -64019,6 +64099,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 55820,
+      "num": 184273,
+      "word": "惊恐喜剧电影诡才之道定档",
+      "onboard_time": 1737610639,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 55818,
       "num": 110317,
       "word": "雅说非常感谢丁禹兮",
@@ -64817,6 +64905,14 @@
       "onboard_time": 1736435003,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51081,
+      "num": 254977,
+      "word": "编号17确认引进",
+      "onboard_time": 1737609440,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 51043,
@@ -66508,7 +66604,7 @@
     },
     {
       "raw_hot": 40317,
-      "num": 214493,
+      "num": 229082,
       "word": "为数不多的心眼全用游戏上了",
       "onboard_time": 1737608539,
       "rank": 29,
@@ -69585,14 +69681,6 @@
       "onboard_time": 1736708772,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25203,
-      "num": 254977,
-      "word": "编号17确认引进",
-      "onboard_time": 1737609440,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 25172,
