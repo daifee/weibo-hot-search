@@ -1,0 +1,410 @@
+{
+  "runTime": 1737628909381,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 483152,
+        "num": 1077304,
+        "word": "今年冬天最强雨雪要来了",
+        "onboard_time": 1737616280,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370675,
+        "num": 370675,
+        "word": "漂白",
+        "onboard_time": 1737626840,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68484,
+        "num": 369923,
+        "word": "央视经典之夜节目单公布",
+        "onboard_time": 1737619220,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212466,
+        "num": 361778,
+        "word": "西安低温灾害和雪灾风险预警来了",
+        "onboard_time": 1737625037,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1623594,
+        "num": 353086,
+        "word": "杨紫娜扎撞高定了",
+        "onboard_time": 1737626179,
+        "rank": 4,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 1861600,
+        "num": 343717,
+        "word": "柯洁不比了",
+        "onboard_time": 1737617120,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 414475,
+        "num": 337867,
+        "word": "蒲熠星为柯洁不公平对待发声",
+        "onboard_time": 1737628278,
+        "rank": 6,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 829627,
+        "num": 333664,
+        "word": "韩国裁判宣布赛果现场",
+        "onboard_time": 1737624978,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330014,
+        "num": 330014,
+        "word": "Angelababy王安宇新剧将上线",
+        "onboard_time": 1737615978,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262104,
+        "num": 321180,
+        "word": "王一博追风者登顶年度影响力影视剧",
+        "onboard_time": 1737626479,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 698229,
+        "num": 320298,
+        "word": "潘宏暴力训狗是因科学观念缺失",
+        "onboard_time": 1737625519,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 687109,
+        "num": 319840,
+        "word": "金靖产后复出被男艺人朋友质疑",
+        "onboard_time": 1737621560,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317057,
+        "num": 317057,
+        "word": "湖南卫视春晚发节目单了",
+        "onboard_time": 1737602898,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294752,
+        "num": 294752,
+        "word": "虞书欣丁禹兮网络视听盛典跳寄明月",
+        "onboard_time": 1737623238,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285641,
+        "num": 285641,
+        "word": "中国影史预售票房TOP15",
+        "onboard_time": 1737625037,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1212764,
+        "num": 282855,
+        "word": "棋协希望柯洁放下包袱努力拼搏",
+        "onboard_time": 1737625277,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253555,
+        "num": 253555,
+        "word": "徐克为什么选肖战演郭靖",
+        "onboard_time": 1737625037,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 944726,
+        "num": 250760,
+        "word": "日本棋协",
+        "onboard_time": 1737623539,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49140,
+        "num": 247072,
+        "word": "潜艇官兵成为蛟龙行动首批观众",
+        "onboard_time": 1737624918,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 667782,
+        "num": 241306,
+        "word": "棋圣聂卫平女儿怒怼不陪你们玩了",
+        "onboard_time": 1737624978,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256394,
+        "num": 238736,
+        "word": "易烊千玺曾陷入停滞状态",
+        "onboard_time": 1737626659,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 287855,
+        "num": 233762,
+        "word": "卞相壹不接受重赛",
+        "onboard_time": 1737619042,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230623,
+        "num": 230623,
+        "word": "脱口秀女演员群封",
+        "onboard_time": 1737617901,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 251133,
+        "num": 230349,
+        "word": "柯洁质疑裁判",
+        "onboard_time": 1737609679,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36157,
+        "num": 229890,
+        "word": "战鹰问这是围棋比赛吗",
+        "onboard_time": 1737617302,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229556,
+        "num": 229556,
+        "word": "10月龄男婴一头栽进洗脚桶发生溺水",
+        "onboard_time": 1737622160,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211151,
+        "num": 211151,
+        "word": "东方卫视蛇年春晚阵容",
+        "onboard_time": 1737625099,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196653,
+        "num": 196653,
+        "word": "MCD",
+        "onboard_time": 1737628278,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 97906,
+        "num": 193961,
+        "word": "向佐提小鹏X9现场上头再买一台",
+        "onboard_time": 1737625217,
+        "rank": 28,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 193645,
+        "num": 193645,
+        "word": "杨紫说沈梦辰令歌劲儿是真大",
+        "onboard_time": 1737627679,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75716,
+        "num": 193400,
+        "word": "肖宇梁自制微电影",
+        "onboard_time": 1737628818,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193355,
+        "num": 193355,
+        "word": "中国春节申遗只允许200个单词介绍",
+        "onboard_time": 1737627858,
+        "rank": 31,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 188385,
+        "num": 188385,
+        "word": "王鹤棣一口吃了一捆折耳根",
+        "onboard_time": 1737621020,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171593,
+        "num": 171593,
+        "word": "郑州下雪",
+        "onboard_time": 1737613399,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166297,
+        "num": 166297,
+        "word": "特朗普称拜登忘了赦免自己",
+        "onboard_time": 1737609138,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 165004,
+        "num": 165004,
+        "word": "中国代表团正在交涉",
+        "onboard_time": 1737614179,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148331,
+        "num": 148331,
+        "word": "拒绝百万拆迁款的钉子户后悔了",
+        "onboard_time": 1737627020,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160867,
+        "num": 147558,
+        "word": "棋圣聂卫平女儿发声",
+        "onboard_time": 1737619940,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137361,
+        "num": 137361,
+        "word": "射雕进入中国影史预售票房TOP15",
+        "onboard_time": 1737610820,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147946,
+        "num": 135110,
+        "word": "中国棋协",
+        "onboard_time": 1737615319,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128101,
+        "num": 128101,
+        "word": "文韬第一次cos给了王者",
+        "onboard_time": 1737615380,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137406,
+        "num": 126188,
+        "word": "柯洁在俞斌的陪同下乘车离场",
+        "onboard_time": 1737627679,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123455,
+        "num": 123455,
+        "word": "澳网",
+        "onboard_time": 1737628340,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122104,
+        "num": 122104,
+        "word": "东北菜会惩罚每个爱点菜的南方人",
+        "onboard_time": 1737620420,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119726,
+        "num": 119726,
+        "word": "迪丽热巴和火锅的爱恨情仇",
+        "onboard_time": 1737621320,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 118237,
+        "num": 118237,
+        "word": "肖战视听盛典后台彩排照",
+        "onboard_time": 1737628159,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110942,
+        "num": 110942,
+        "word": "聂卫平说这次决赛是围棋界的悲剧",
+        "onboard_time": 1737627258,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46316,
+        "num": 110431,
+        "word": "蒯曼获新加坡大满贯女单正赛提名",
+        "onboard_time": 1737624978,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110303,
+        "num": 110303,
+        "word": "BRO对战GEN",
+        "onboard_time": 1737628459,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101674,
+        "num": 101674,
+        "word": "杨紫无眉造型",
+        "onboard_time": 1737613219,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平看望慰问受灾群众#"
+    }
+  }
+}

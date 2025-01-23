@@ -1,6 +1,6 @@
 {
   "startTime": 1737563308947,
-  "endTime": 1737627896277,
+  "endTime": 1737628909381,
   "band_list": [
     {
       "raw_hot": 9461281,
@@ -27,20 +27,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1623594,
+      "num": 1500054,
+      "word": "杨紫娜扎撞高定了",
+      "onboard_time": 1737626179,
+      "rank": 0,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 1601150,
       "num": 1601150,
       "word": "广东1岁男婴吃果冻窒息身亡",
       "onboard_time": 1737603617,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1500054,
-      "num": 1500054,
-      "word": "杨紫娜扎撞高定了",
-      "onboard_time": 1737626179,
-      "rank": 0,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 1344080,
@@ -75,19 +75,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1201298,
-      "num": 218597,
-      "word": "日本棋协",
-      "onboard_time": 1737623539,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1199992,
-      "num": 174805,
+      "raw_hot": 1212764,
+      "num": 282855,
       "word": "棋协希望柯洁放下包袱努力拼搏",
       "onboard_time": 1737625277,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1201298,
+      "num": 250760,
+      "word": "日本棋协",
+      "onboard_time": 1737623539,
+      "rank": 15,
       "category": "体育"
     },
     {
@@ -227,6 +227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 829627,
+      "num": 333664,
+      "word": "韩国裁判宣布赛果现场",
+      "onboard_time": 1737624978,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 806974,
       "num": 806974,
       "word": "围棋教练俞斌说没办法",
@@ -251,11 +259,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 698229,
+      "num": 320298,
+      "word": "潘宏暴力训狗是因科学观念缺失",
+      "onboard_time": 1737625519,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 669139,
       "num": 669139,
       "word": "中国棋协",
       "onboard_time": 1737615319,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 667782,
+      "num": 241306,
+      "word": "棋圣聂卫平女儿怒怼不陪你们玩了",
+      "onboard_time": 1737624978,
+      "rank": 10,
       "category": "体育"
     },
     {
@@ -299,14 +323,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 630242,
-      "num": 278038,
-      "word": "韩国裁判宣布赛果现场",
-      "onboard_time": 1737624978,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 623669,
       "num": 623669,
       "word": "江西最强钉子户屋主发声",
@@ -320,14 +336,6 @@
       "word": "LG杯决胜局中断",
       "onboard_time": 1737610460,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 609944,
-      "num": 198503,
-      "word": "棋圣聂卫平女儿怒怼不陪你们玩了",
-      "onboard_time": 1737624978,
-      "rank": 10,
       "category": "体育"
     },
     {
@@ -345,14 +353,6 @@
       "onboard_time": 1737618080,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 573210,
-      "num": 185115,
-      "word": "潘宏暴力训狗是因科学观念缺失",
-      "onboard_time": 1737625519,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 560825,
@@ -411,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 483152,
+      "num": 1077304,
+      "word": "今年冬天最强雨雪要来了",
+      "onboard_time": 1737616280,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 479939,
       "num": 212710,
       "word": "赵今麦00后的黑历史都是高清的",
@@ -459,12 +467,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 416213,
-      "num": 524158,
-      "word": "今年冬天最强雨雪要来了",
-      "onboard_time": 1737616280,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 414475,
+      "num": 337867,
+      "word": "蒲熠星为柯洁不公平对待发声",
+      "onboard_time": 1737628278,
+      "rank": 6,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 413734,
@@ -523,8 +531,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 370675,
+      "num": 370675,
+      "word": "漂白",
+      "onboard_time": 1737522800,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 366606,
-      "num": 210120,
+      "num": 229556,
       "word": "10月龄男婴一头栽进洗脚桶发生溺水",
       "onboard_time": 1737622160,
       "rank": 20,
@@ -635,6 +651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 294752,
+      "num": 294752,
+      "word": "虞书欣丁禹兮网络视听盛典跳寄明月",
+      "onboard_time": 1737623238,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 294690,
       "num": 294690,
       "word": "伽罗新皮肤最初的交响",
@@ -644,19 +668,11 @@
     },
     {
       "raw_hot": 294505,
-      "num": 182767,
+      "num": 285641,
       "word": "中国影史预售票房TOP15",
       "onboard_time": 1737625037,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 287545,
-      "num": 282408,
-      "word": "虞书欣丁禹兮网络视听盛典跳寄明月",
-      "onboard_time": 1737623238,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 278852,
@@ -731,6 +747,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 262104,
+      "num": 321180,
+      "word": "王一博追风者登顶年度影响力影视剧",
+      "onboard_time": 1737626479,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 261657,
       "num": 261657,
       "word": "为什么南北方小年相差一天",
@@ -755,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256394,
+      "num": 238736,
+      "word": "易烊千玺曾陷入停滞状态",
+      "onboard_time": 1737626659,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 255358,
       "num": 208291,
       "word": "马丽给登陆少年寄了一车草莓",
@@ -771,11 +803,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 252934,
-      "num": 157196,
-      "word": "易烊千玺曾陷入停滞状态",
-      "onboard_time": 1737626659,
-      "rank": 27,
+      "raw_hot": 253555,
+      "num": 253555,
+      "word": "徐克为什么选肖战演郭靖",
+      "onboard_time": 1737625037,
+      "rank": 32,
       "category": "电影"
     },
     {
@@ -860,19 +892,11 @@
     },
     {
       "raw_hot": 233675,
-      "num": 173455,
+      "num": 211151,
       "word": "东方卫视蛇年春晚阵容",
       "onboard_time": 1737625099,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 232821,
-      "num": 155398,
-      "word": "徐克为什么选肖战演郭靖",
-      "onboard_time": 1737625037,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 231572,
@@ -953,6 +977,14 @@
       "onboard_time": 1737542959,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212466,
+      "num": 361778,
+      "word": "西安低温灾害和雪灾风险预警来了",
+      "onboard_time": 1737625037,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 211137,
@@ -1051,14 +1083,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 203259,
-      "num": 170518,
-      "word": "漂白",
-      "onboard_time": 1737522800,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 201925,
       "num": 201925,
       "word": "无畏契约",
@@ -1107,6 +1131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 196653,
+      "num": 196653,
+      "word": "MCD",
+      "onboard_time": 1737628278,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 196500,
       "num": 180643,
       "word": "王俊凯小狗胸针",
@@ -1129,6 +1161,22 @@
       "onboard_time": 1737619280,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 193645,
+      "num": 193645,
+      "word": "杨紫说沈梦辰令歌劲儿是真大",
+      "onboard_time": 1737627679,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 193355,
+      "num": 193355,
+      "word": "中国春节申遗只允许200个单词介绍",
+      "onboard_time": 1737627858,
+      "rank": 49,
+      "category": "正能量"
     },
     {
       "raw_hot": 192799,
@@ -1169,14 +1217,6 @@
       "onboard_time": 1737621320,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 188557,
-      "num": 287609,
-      "word": "西安低温灾害和雪灾风险预警来了",
-      "onboard_time": 1737625037,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 187724,
@@ -1396,7 +1436,7 @@
     },
     {
       "raw_hot": 169066,
-      "num": 169066,
+      "num": 229890,
       "word": "战鹰问这是围棋比赛吗",
       "onboard_time": 1737617302,
       "rank": 41,
@@ -1515,14 +1555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152597,
-      "num": 152597,
-      "word": "杨紫说沈梦辰令歌劲儿是真大",
-      "onboard_time": 1737627679,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 152135,
       "num": 152135,
       "word": "再过5天就是除夕",
@@ -1561,6 +1593,14 @@
       "onboard_time": 1737614538,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 148331,
+      "num": 148331,
+      "word": "拒绝百万拆迁款的钉子户后悔了",
+      "onboard_time": 1737627020,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148314,
@@ -1756,7 +1796,7 @@
     },
     {
       "raw_hot": 139247,
-      "num": 155789,
+      "num": 193961,
       "word": "向佐提小鹏X9现场上头再买一台",
       "onboard_time": 1737625217,
       "rank": 28,
@@ -1785,6 +1825,14 @@
       "onboard_time": 1737621201,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137406,
+      "num": 126188,
+      "word": "柯洁在俞斌的陪同下乘车离场",
+      "onboard_time": 1737627679,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 137316,
@@ -1955,12 +2003,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 122585,
-      "num": 122585,
-      "word": "王一博追风者登顶年度影响力影视剧",
-      "onboard_time": 1737626479,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 123455,
+      "num": 123455,
+      "word": "澳网",
+      "onboard_time": 1737628340,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 122499,
@@ -2011,6 +2059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118237,
+      "num": 118237,
+      "word": "肖战视听盛典后台彩排照",
+      "onboard_time": 1737628159,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118160,
       "num": 118160,
       "word": "美国加州发生新山火",
@@ -2041,14 +2097,6 @@
       "onboard_time": 1737625099,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 115336,
-      "num": 115336,
-      "word": "柯洁在俞斌的陪同下乘车离场",
-      "onboard_time": 1737627679,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 114828,
@@ -2107,6 +2155,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 110303,
+      "num": 110303,
+      "word": "BRO对战GEN",
+      "onboard_time": 1737628459,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 109840,
       "num": 109840,
       "word": "国风巳巳如意壁纸",
@@ -2153,14 +2209,6 @@
       "onboard_time": 1737605179,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 106821,
-      "num": 106821,
-      "word": "中国春节申遗只允许200个单词介绍",
-      "onboard_time": 1737627858,
-      "rank": 49,
-      "category": "正能量"
     },
     {
       "raw_hot": 105474,
@@ -2379,6 +2427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75716,
+      "num": 193400,
+      "word": "肖宇梁自制微电影",
+      "onboard_time": 1737628818,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75574,
       "num": 142652,
       "word": "恋与深空黎深",
@@ -2508,7 +2564,7 @@
     },
     {
       "raw_hot": 51222,
-      "num": 156304,
+      "num": 247072,
       "word": "潜艇官兵成为蛟龙行动首批观众",
       "onboard_time": 1737624918,
       "rank": 29,
