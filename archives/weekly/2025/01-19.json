@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737600544458,
+  "endTime": 1737601084985,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -1067,6 +1067,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 780014,
+      "num": 780014,
+      "word": "白鹿演技",
+      "onboard_time": 1737589936,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 778944,
       "num": 1124631,
       "word": "杨紫李现晒何惟芳蒋长扬大婚照",
@@ -1459,6 +1467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 605728,
+      "num": 605728,
+      "word": "央视boys一首歌全是易错字",
+      "onboard_time": 1737594678,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 605557,
       "num": 535343,
       "word": "贾宝玉真的从书里走出来了",
@@ -1539,28 +1555,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 588894,
-      "num": 588894,
-      "word": "白鹿演技",
-      "onboard_time": 1737589936,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 585947,
       "num": 585947,
       "word": "妈妈每天拍女儿匆忙上班的背影",
       "onboard_time": 1737247218,
       "rank": 4,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 585554,
-      "num": 585554,
-      "word": "央视boys一首歌全是易错字",
-      "onboard_time": 1737594678,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 581871,
@@ -3355,6 +3355,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 301246,
+      "num": 301246,
+      "word": "柯洁今日决胜局",
+      "onboard_time": 1737594498,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 300686,
       "num": 237617,
       "word": "潘宏曾直播自曝进去过9天",
@@ -3419,6 +3427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 296540,
+      "num": 296540,
+      "word": "IU朴宝剑新剧预告片",
+      "onboard_time": 1737598397,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 296514,
       "num": 277980,
       "word": "蛇年春晚后台主持人阵容官宣",
@@ -3449,14 +3465,6 @@
       "onboard_time": 1737450498,
       "rank": 21,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 294078,
-      "num": 268704,
-      "word": "IU朴宝剑新剧预告片",
-      "onboard_time": 1737598397,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 292870,
@@ -3577,6 +3585,14 @@
       "onboard_time": 1737328995,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 283091,
+      "num": 283091,
+      "word": "韩媒称柯洁没能熟悉韩国规定",
+      "onboard_time": 1737595877,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 282785,
@@ -4076,7 +4092,7 @@
     },
     {
       "raw_hot": 253640,
-      "num": 178287,
+      "num": 207249,
       "word": "韩国人在中国被辣哭的一天",
       "onboard_time": 1737595158,
       "rank": 28,
@@ -4179,14 +4195,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 244809,
-      "num": 244809,
-      "word": "柯洁今日决胜局",
-      "onboard_time": 1737594498,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 244329,
       "num": 244329,
       "word": "2024TVB颁奖礼",
@@ -4244,7 +4252,7 @@
     },
     {
       "raw_hot": 241222,
-      "num": 177436,
+      "num": 177796,
       "word": "男子放慢吃饭速度10天瘦4斤",
       "onboard_time": 1737593959,
       "rank": 22,
@@ -4329,6 +4337,14 @@
       "onboard_time": 1737457878,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237542,
+      "num": 237542,
+      "word": "李菲儿 锅铲门",
+      "onboard_time": 1737600436,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 237465,
@@ -4609,6 +4625,14 @@
       "onboard_time": 1737580451,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218383,
+      "num": 218383,
+      "word": "李现樊振东原来是同担",
+      "onboard_time": 1737599417,
+      "rank": 17,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 218263,
@@ -5139,6 +5163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200513,
+      "num": 200513,
+      "word": "newjeans成员声明",
+      "onboard_time": 1737599657,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200473,
       "num": 200473,
       "word": "雪中悍刀行青鸟爆改刘婉",
@@ -5329,14 +5361,6 @@
       "onboard_time": 1737383359,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196527,
-      "num": 196527,
-      "word": "韩媒称柯洁没能熟悉韩国规定",
-      "onboard_time": 1737595877,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 196220,
@@ -5723,14 +5747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190489,
-      "num": 172709,
-      "word": "newjeans成员声明",
-      "onboard_time": 1737599657,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 190479,
       "num": 190479,
       "word": "同行称潘宏训狗方式太粗暴",
@@ -5889,14 +5905,6 @@
       "onboard_time": 1737526758,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 186241,
-      "num": 186241,
-      "word": "李现樊振东原来是同担",
-      "onboard_time": 1737599417,
-      "rank": 17,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 186150,
@@ -6192,6 +6200,14 @@
       "word": "孟子义李昀锐浙江卫视过年",
       "onboard_time": 1737431238,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 178225,
+      "num": 178225,
+      "word": "种地吧",
+      "onboard_time": 1737600856,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -6531,6 +6547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169356,
+      "num": 207294,
+      "word": "杨洋为亚冬会加油助威",
+      "onboard_time": 1737600736,
+      "rank": 19,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 169213,
       "num": 233051,
       "word": "岳云鹏who会讲Chinese语",
@@ -6825,6 +6849,14 @@
       "onboard_time": 1737448217,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164654,
+      "num": 164654,
+      "word": "足金首饰价格突破830元每克",
+      "onboard_time": 1737596777,
+      "rank": 34,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 164370,
@@ -7787,6 +7819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 147704,
+      "num": 147704,
+      "word": "A股",
+      "onboard_time": 1737600436,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 147594,
       "num": 147594,
       "word": "为何找王一博演唱点亮亚洲",
@@ -7817,6 +7857,14 @@
       "onboard_time": 1737475638,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147196,
+      "num": 147196,
+      "word": "查收张艺兴的蛇年新春祝福",
+      "onboard_time": 1737598098,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 147126,
@@ -8091,6 +8139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142650,
+      "num": 178358,
+      "word": "奥恰说樊振东我们想你了",
+      "onboard_time": 1737599777,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142454,
       "num": 142454,
       "word": "00后掌勺后重新定义过年硬菜",
@@ -8299,14 +8355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139368,
-      "num": 139368,
-      "word": "足金首饰价格突破830元每克",
-      "onboard_time": 1737596777,
-      "rank": 34,
-      "category": "财经,民生新闻"
-    },
-    {
       "raw_hot": 139147,
       "num": 139147,
       "word": "TikTok在美国使用实时画面曝光",
@@ -8353,14 +8401,6 @@
       "onboard_time": 1737554480,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 138435,
-      "num": 138435,
-      "word": "查收张艺兴的蛇年新春祝福",
-      "onboard_time": 1737598098,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 138182,
@@ -8436,7 +8476,7 @@
     },
     {
       "raw_hot": 137162,
-      "num": 180584,
+      "num": 220887,
       "word": "文化中国行非遗春节送祝福",
       "onboard_time": 1737595937,
       "rank": 30,
@@ -8681,14 +8721,6 @@
       "onboard_time": 1737592278,
       "rank": 31,
       "category": "数码"
-    },
-    {
-      "raw_hot": 134186,
-      "num": 173363,
-      "word": "奥恰说樊振东我们想你了",
-      "onboard_time": 1737599777,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 133704,
@@ -9153,6 +9185,14 @@
       "onboard_time": 1737519019,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125707,
+      "num": 125707,
+      "word": "杯具熊",
+      "onboard_time": 1737600976,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 125697,
@@ -9995,6 +10035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113226,
+      "num": 113226,
+      "word": "移远通信董事长离婚分手费11亿元",
+      "onboard_time": 1737597978,
+      "rank": 42,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 113143,
       "num": 113143,
       "word": "肖战蔡少芬演技",
@@ -10563,14 +10611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 105795,
-      "num": 105795,
-      "word": "移远通信董事长离婚分手费11亿元",
-      "onboard_time": 1737597978,
-      "rank": 42,
-      "category": "财经,民生新闻"
-    },
-    {
       "raw_hot": 105786,
       "num": 105786,
       "word": "周鸿祎用车厘子给大家拜早年了",
@@ -10665,14 +10705,6 @@
       "onboard_time": 1737355697,
       "rank": 46,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 104300,
-      "num": 104300,
-      "word": "李菲儿 锅铲门",
-      "onboard_time": 1737600436,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 103799,
@@ -10793,6 +10825,14 @@
       "onboard_time": 1737463998,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 102107,
+      "num": 102107,
+      "word": "吴清称大事不过年只争朝夕",
+      "onboard_time": 1737600617,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 101875,
@@ -11065,14 +11105,6 @@
       "onboard_time": 1737264678,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 96524,
-      "num": 96524,
-      "word": "A股",
-      "onboard_time": 1737600436,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 96411,
@@ -12891,6 +12923,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 30790,
+      "num": 694009,
+      "word": "网络中国节",
+      "onboard_time": 1737597257,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30380,
       "num": 60724,
       "word": "樊振东的时装周初亮相",
@@ -13247,14 +13287,6 @@
       "num": 1209753,
       "word": "冰雪延庆过大年",
       "onboard_time": 1737340277,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21305,
-      "num": 635259,
-      "word": "网络中国节",
-      "onboard_time": 1737597257,
       "rank": 2,
       "category": "民生新闻"
     },

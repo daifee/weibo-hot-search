@@ -1,0 +1,410 @@
+{
+  "runTime": 1737601084985,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 992847,
+        "num": 1158855,
+        "word": "花76万买房花60万装修",
+        "onboard_time": 1737592457,
+        "rank": 0,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 780014,
+        "num": 780014,
+        "word": "白鹿演技",
+        "onboard_time": 1737589936,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30790,
+        "num": 694009,
+        "word": "网络中国节",
+        "onboard_time": 1737597257,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 653488,
+        "num": 653488,
+        "word": "12岁女孩和73岁阿婆地铁内抢座",
+        "onboard_time": 1737588375,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 620093,
+        "num": 620093,
+        "word": "8岁女童走失3天父亲悬赏百万寻人",
+        "onboard_time": 1737597438,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 605728,
+        "num": 605728,
+        "word": "央视boys一首歌全是易错字",
+        "onboard_time": 1737594678,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 536821,
+        "num": 536821,
+        "word": "每年新增保费的30%用于投资A股",
+        "onboard_time": 1737598036,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 482452,
+        "num": 482452,
+        "word": "李幼贞结婚",
+        "onboard_time": 1737592457,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 418940,
+        "num": 418940,
+        "word": "留几手增重10公斤",
+        "onboard_time": 1737592939,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301246,
+        "num": 301246,
+        "word": "柯洁今日决胜局",
+        "onboard_time": 1737594498,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 379918,
+        "num": 301137,
+        "word": "蒋长扬纳妾",
+        "onboard_time": 1737593299,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296540,
+        "num": 296540,
+        "word": "IU朴宝剑新剧预告片",
+        "onboard_time": 1737598397,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283091,
+        "num": 283091,
+        "word": "韩媒称柯洁没能熟悉韩国规定",
+        "onboard_time": 1737595877,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269729,
+        "num": 269729,
+        "word": "过年前大降温多地降10摄氏度",
+        "onboard_time": 1737593959,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237542,
+        "num": 237542,
+        "word": "李菲儿 锅铲门",
+        "onboard_time": 1737600436,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69241,
+        "num": 220887,
+        "word": "文化中国行非遗春节送祝福",
+        "onboard_time": 1737595937,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218383,
+        "num": 218383,
+        "word": "李现樊振东原来是同担",
+        "onboard_time": 1737599417,
+        "rank": 16,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 214291,
+        "num": 214291,
+        "word": "国新办介绍推动中长期资金入市",
+        "onboard_time": 1737597857,
+        "rank": 17,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 209667,
+        "num": 209667,
+        "word": "伽罗新皮肤最初的交响",
+        "onboard_time": 1737593959,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169356,
+        "num": 207294,
+        "word": "杨洋为亚冬会加油助威",
+        "onboard_time": 1737600736,
+        "rank": 19,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 244757,
+        "num": 207249,
+        "word": "韩国人在中国被辣哭的一天",
+        "onboard_time": 1737595158,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206249,
+        "num": 206249,
+        "word": "相思令 抠图",
+        "onboard_time": 1737560837,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200513,
+        "num": 200513,
+        "word": "newjeans成员声明",
+        "onboard_time": 1737599657,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178717,
+        "num": 178717,
+        "word": "潘宏曾直播自曝进去过9天",
+        "onboard_time": 1737565515,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 142650,
+        "num": 178358,
+        "word": "奥恰说樊振东我们想你了",
+        "onboard_time": 1737599777,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178225,
+        "num": 178225,
+        "word": "种地吧",
+        "onboard_time": 1737600856,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177796,
+        "num": 177796,
+        "word": "男子放慢吃饭速度10天瘦4斤",
+        "onboard_time": 1737593959,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164654,
+        "num": 164654,
+        "word": "足金首饰价格突破830元每克",
+        "onboard_time": 1737596777,
+        "rank": 27,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 158358,
+        "num": 158358,
+        "word": "中国专家对福岛核污水完成首次检测",
+        "onboard_time": 1737596777,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155943,
+        "num": 155943,
+        "word": "法国士兵记步数APP泄露核潜艇机密",
+        "onboard_time": 1737561677,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155871,
+        "num": 155871,
+        "word": "肖战 不语",
+        "onboard_time": 1737562577,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153703,
+        "num": 153703,
+        "word": "为什么南北方小年相差一天",
+        "onboard_time": 1737550397,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151458,
+        "num": 151458,
+        "word": "王楚钦加油",
+        "onboard_time": 1737588675,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150895,
+        "num": 150895,
+        "word": "蔡徐坤ins",
+        "onboard_time": 1737592518,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147704,
+        "num": 147704,
+        "word": "A股",
+        "onboard_time": 1737600436,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 147196,
+        "num": 147196,
+        "word": "查收张艺兴的蛇年新春祝福",
+        "onboard_time": 1737598098,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143357,
+        "num": 143357,
+        "word": "闺蜜疤痕妊娠女子劝诫反被拉黑",
+        "onboard_time": 1737553939,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135566,
+        "num": 135566,
+        "word": "李昀锐小年送祝福",
+        "onboard_time": 1737598098,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130454,
+        "num": 130454,
+        "word": "A股再现4亿天价离婚",
+        "onboard_time": 1737598036,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 96776,
+        "num": 128557,
+        "word": "再过5天就是除夕",
+        "onboard_time": 1737594977,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128503,
+        "num": 128503,
+        "word": "中央气象台发布今年首个寒潮预警",
+        "onboard_time": 1737592878,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125707,
+        "num": 125707,
+        "word": "杯具熊",
+        "onboard_time": 1737600976,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 114930,
+        "num": 114930,
+        "word": "赵今麦00后的黑历史都是高清的",
+        "onboard_time": 1737551539,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113226,
+        "num": 113226,
+        "word": "移远通信董事长离婚分手费11亿元",
+        "onboard_time": 1737597978,
+        "rank": 43,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 110530,
+        "num": 110530,
+        "word": "江西一商场发生电梯卡人事故",
+        "onboard_time": 1737560358,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102107,
+        "num": 102107,
+        "word": "吴清称大事不过年只争朝夕",
+        "onboard_time": 1737600617,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 90744,
+        "num": 93465,
+        "word": "朱一龙塞纳河畔花絮",
+        "onboard_time": 1737599597,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93128,
+        "num": 93128,
+        "word": "迎新春大扫除攻略",
+        "onboard_time": 1737591437,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91270,
+        "num": 91270,
+        "word": "沈春阳回应被叫邪恶车厘子",
+        "onboard_time": 1737568693,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90068,
+        "num": 90068,
+        "word": "马丽给登陆少年寄了一车草莓",
+        "onboard_time": 1737555921,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的新春暖心话#"
+    }
+  }
+}
