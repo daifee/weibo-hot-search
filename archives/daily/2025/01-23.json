@@ -1,6 +1,6 @@
 {
   "startTime": 1737563308947,
-  "endTime": 1737639504968,
+  "endTime": 1737642046729,
   "band_list": [
     {
       "raw_hot": 9461281,
@@ -27,6 +27,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1824463,
+      "num": 1539070,
+      "word": "柯洁微博备注改为世界围棋九冠王",
+      "onboard_time": 1737636261,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1741684,
       "num": 1741684,
       "word": "中国代表团正在交涉",
@@ -49,14 +57,6 @@
       "onboard_time": 1737603617,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1539070,
-      "num": 1539070,
-      "word": "柯洁微博备注改为世界围棋九冠王",
-      "onboard_time": 1737636261,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 1406012,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 821624,
-      "num": 293580,
+      "num": 418847,
       "word": "卞相壹手袖改变了棋子位置",
       "onboard_time": 1737632719,
       "rank": 11,
@@ -412,7 +412,7 @@
     },
     {
       "raw_hot": 614328,
-      "num": 292014,
+      "num": 362817,
       "word": "本手妙手俗手举手",
       "onboard_time": 1737631038,
       "rank": 48,
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 591226,
-      "num": 299707,
+      "num": 328550,
       "word": "文章马伊琍大女儿为妹妹庆生",
       "onboard_time": 1737635898,
       "rank": 30,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 554415,
-      "num": 381118,
+      "num": 416501,
       "word": "射雕上映前最后一次主创齐聚",
       "onboard_time": 1737630679,
       "rank": 10,
@@ -492,7 +492,7 @@
     },
     {
       "raw_hot": 505599,
-      "num": 286678,
+      "num": 428880,
       "word": "柯洁因判罚损失2亿韩元奖金",
       "onboard_time": 1737633078,
       "rank": 21,
@@ -505,6 +505,22 @@
       "onboard_time": 1737611600,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 500111,
+      "num": 348714,
+      "word": "女生吃一个月冷藏米饭血糖降了",
+      "onboard_time": 1737640760,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 498151,
+      "num": 424255,
+      "word": "赵雅芝 白蛇",
+      "onboard_time": 1737638240,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 495033,
@@ -563,8 +579,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 461467,
+      "num": 338131,
+      "word": "老人买18万黄金不挑款店员火速报警",
+      "onboard_time": 1737636439,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 457751,
-      "num": 288703,
+      "num": 401389,
       "word": "刘宇宁掉麦",
       "onboard_time": 1737635539,
       "rank": 27,
@@ -572,7 +596,7 @@
     },
     {
       "raw_hot": 452205,
-      "num": 247644,
+      "num": 411624,
       "word": "李现对杨紫喊紫啧喊上瘾了",
       "onboard_time": 1737637460,
       "rank": 16,
@@ -611,16 +635,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 423463,
-      "num": 220940,
-      "word": "老人买18万黄金不挑款店员火速报警",
-      "onboard_time": 1737636439,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 417901,
-      "num": 291151,
+      "num": 295843,
       "word": "漂白豆瓣开分6.0",
       "onboard_time": 1737634219,
       "rank": 20,
@@ -763,14 +779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 332184,
-      "num": 214570,
-      "word": "赵雅芝 白蛇",
-      "onboard_time": 1737638240,
-      "rank": 27,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 321394,
       "num": 539088,
       "word": "过年前大降温多地降10摄氏度",
@@ -881,6 +889,14 @@
       "onboard_time": 1737593959,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 283855,
+      "num": 384569,
+      "word": "聂卫平说柯洁退赛比较生猛",
+      "onboard_time": 1737636380,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 278852,
@@ -1041,6 +1057,14 @@
       "onboard_time": 1737620420,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 247528,
+      "num": 247528,
+      "word": "奥斯卡提名",
+      "onboard_time": 1737640760,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 247159,
@@ -1251,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208771,
+      "num": 208771,
+      "word": "国色芳华第二季明年播出",
+      "onboard_time": 1737641720,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208735,
       "num": 526369,
       "word": "今天南方小年",
@@ -1395,6 +1427,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197189,
+      "num": 197189,
+      "word": "央视提前官宣谭维维参加春晚",
+      "onboard_time": 1737641782,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 196924,
+      "num": 196924,
+      "word": "代露娃镜头下的常华森",
+      "onboard_time": 1737641840,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196653,
       "num": 196653,
       "word": "MCD",
@@ -1425,6 +1473,14 @@
       "onboard_time": 1737636319,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194055,
+      "num": 174462,
+      "word": "时代少年团红红火火",
+      "onboard_time": 1737639200,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 193802,
@@ -1524,11 +1580,19 @@
     },
     {
       "raw_hot": 185131,
-      "num": 185131,
+      "num": 271427,
       "word": "谁懂白蛇小青蛇年合体的回忆杀",
       "onboard_time": 1737638840,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 184679,
+      "num": 175621,
+      "word": "翟潇闻舞台",
+      "onboard_time": 1737641061,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 184582,
@@ -1667,6 +1731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176624,
+      "num": 176624,
+      "word": "蓝忘机生贺图含羡量",
+      "onboard_time": 1737640820,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 176604,
       "num": 176604,
       "word": "丁禹兮和哪吒耍火",
@@ -1713,6 +1785,14 @@
       "onboard_time": 1737627258,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174150,
+      "num": 174150,
+      "word": "电梯不平层千万不要出去",
+      "onboard_time": 1737639979,
+      "rank": 38,
+      "category": "科学科普"
     },
     {
       "raw_hot": 174037,
@@ -1827,14 +1907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 164461,
-      "num": 204029,
-      "word": "聂卫平说柯洁退赛比较生猛",
-      "onboard_time": 1737636380,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 164370,
       "num": 158262,
       "word": "李晨说经常在健身房遇到王俊凯",
@@ -1897,6 +1969,14 @@
       "onboard_time": 1737636498,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 157062,
+      "num": 371820,
+      "word": "中国科学家世界首次记录到太空合声",
+      "onboard_time": 1737640760,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157058,
@@ -2243,12 +2323,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 135137,
-      "num": 135137,
-      "word": "时代少年团红红火火",
-      "onboard_time": 1737639200,
-      "rank": 48,
-      "category": "艺人"
+      "raw_hot": 135212,
+      "num": 135212,
+      "word": "斯瓦泰克无缘澳网决赛",
+      "onboard_time": 1737639979,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 135097,
@@ -2731,6 +2811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98954,
+      "num": 116968,
+      "word": "凯斯首进澳网决赛",
+      "onboard_time": 1737640760,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97566,
       "num": 97566,
       "word": "李现小年晒腹肌",
@@ -2851,6 +2939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85770,
+      "num": 351675,
+      "word": "Minnie曾通过SM试镜",
+      "onboard_time": 1737639920,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84820,
       "num": 84820,
       "word": "何惟芳刘畅同一天成婚",
@@ -2953,6 +3049,22 @@
       "onboard_time": 1737555801,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 70760,
+      "num": 175292,
+      "word": "绝区零银心锡兵安比",
+      "onboard_time": 1737641782,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 70707,
+      "num": 146761,
+      "word": "赵睿周琦赵继伟回归",
+      "onboard_time": 1737641061,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 70466,
@@ -3281,6 +3393,14 @@
       "onboard_time": 1737572832,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 18236,
+      "num": 170665,
+      "word": "长安灯会一亮灯年味儿就来了",
+      "onboard_time": 1737640579,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17753,

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737639504968,
+  "endTime": 1737642046729,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1643,6 +1643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1824463,
+      "num": 1539070,
+      "word": "柯洁微博备注改为世界围棋九冠王",
+      "onboard_time": 1737636261,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1820460,
       "num": 1820460,
       "word": "上2休1再上2好潮",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1737000259,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1541716,
-      "num": 548717,
-      "word": "黄金生育年龄",
-      "onboard_time": 1736833518,
-      "rank": 10,
-      "category": "健康医疗"
     }
   ],
   "hotgov_list": [

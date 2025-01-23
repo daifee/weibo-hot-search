@@ -1,0 +1,410 @@
+{
+  "runTime": 1737642046729,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1833098,
+        "num": 1833098,
+        "word": "邓男子魔术 失败",
+        "onboard_time": 1737635839,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 457977,
+        "num": 457977,
+        "word": "中国春节申遗只允许200个单词介绍",
+        "onboard_time": 1737627858,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 33185,
+        "num": 456898,
+        "word": "央视经典之夜",
+        "onboard_time": 1737635118,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200498,
+        "num": 453622,
+        "word": "今年冬天最强雨雪要来了",
+        "onboard_time": 1737616280,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182218,
+        "num": 445559,
+        "word": "149.1吨洋垃圾过海关被查",
+        "onboard_time": 1737634577,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349967,
+        "num": 441439,
+        "word": "中国围棋协会第29届LG杯决赛声明",
+        "onboard_time": 1737629959,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 801615,
+        "num": 438146,
+        "word": "杨紫娜扎撞高定了",
+        "onboard_time": 1737626179,
+        "rank": 6,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 1824463,
+        "num": 436568,
+        "word": "柯洁微博备注改为世界围棋九冠王",
+        "onboard_time": 1737636261,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 555597,
+        "num": 431001,
+        "word": "杜江霍思燕的珍珠获奖了",
+        "onboard_time": 1737634817,
+        "rank": 8,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 344227,
+        "num": 428880,
+        "word": "柯洁因判罚损失2亿韩元奖金",
+        "onboard_time": 1737633078,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 498151,
+        "num": 424255,
+        "word": "赵雅芝 白蛇",
+        "onboard_time": 1737638240,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 521961,
+        "num": 418847,
+        "word": "卞相壹手袖改变了棋子位置",
+        "onboard_time": 1737632719,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 416501,
+        "num": 416501,
+        "word": "射雕上映前最后一次主创齐聚",
+        "onboard_time": 1737630679,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 411624,
+        "num": 411624,
+        "word": "李现对杨紫喊紫啧喊上瘾了",
+        "onboard_time": 1737637460,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401389,
+        "num": 401389,
+        "word": "刘宇宁掉麦",
+        "onboard_time": 1737635539,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 674627,
+        "num": 392145,
+        "word": "柯洁不比了",
+        "onboard_time": 1737617120,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283855,
+        "num": 384569,
+        "word": "聂卫平说柯洁退赛比较生猛",
+        "onboard_time": 1737636380,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157062,
+        "num": 371820,
+        "word": "中国科学家世界首次记录到太空合声",
+        "onboard_time": 1737640760,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228866,
+        "num": 362817,
+        "word": "本手妙手俗手举手",
+        "onboard_time": 1737631038,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85770,
+        "num": 351675,
+        "word": "Minnie曾通过SM试镜",
+        "onboard_time": 1737639920,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 500111,
+        "num": 348714,
+        "word": "女生吃一个月冷藏米饭血糖降了",
+        "onboard_time": 1737640760,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 461467,
+        "num": 338131,
+        "word": "老人买18万黄金不挑款店员火速报警",
+        "onboard_time": 1737636439,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328550,
+        "num": 328550,
+        "word": "文章马伊琍大女儿为妹妹庆生",
+        "onboard_time": 1737635898,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325207,
+        "num": 325207,
+        "word": "湖南卫视春晚",
+        "onboard_time": 1737631698,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295843,
+        "num": 295843,
+        "word": "漂白豆瓣开分6.0",
+        "onboard_time": 1737634219,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108952,
+        "num": 271427,
+        "word": "谁懂白蛇小青蛇年合体的回忆杀",
+        "onboard_time": 1737638840,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 247528,
+        "num": 247528,
+        "word": "奥斯卡提名",
+        "onboard_time": 1737640760,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 228665,
+        "num": 228665,
+        "word": "哇唧唧哇年会终于有直播了",
+        "onboard_time": 1737634219,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208771,
+        "num": 208771,
+        "word": "国色芳华第二季明年播出",
+        "onboard_time": 1737641720,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179337,
+        "num": 203549,
+        "word": "韩媒报道柯洁弃权具体情况",
+        "onboard_time": 1737637160,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202643,
+        "num": 202643,
+        "word": "虞书欣丁禹兮新春版剧照",
+        "onboard_time": 1737631579,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197189,
+        "num": 197189,
+        "word": "央视提前官宣谭维维参加春晚",
+        "onboard_time": 1737641782,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196924,
+        "num": 196924,
+        "word": "代露娃镜头下的常华森",
+        "onboard_time": 1737641840,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176624,
+        "num": 176624,
+        "word": "蓝忘机生贺图含羡量",
+        "onboard_time": 1737640820,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 176806,
+        "num": 176500,
+        "word": "福气码",
+        "onboard_time": 1737637699,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184679,
+        "num": 175621,
+        "word": "翟潇闻舞台",
+        "onboard_time": 1737641061,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70760,
+        "num": 175292,
+        "word": "绝区零银心锡兵安比",
+        "onboard_time": 1737641782,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 194055,
+        "num": 174462,
+        "word": "时代少年团红红火火",
+        "onboard_time": 1737639200,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174150,
+        "num": 174150,
+        "word": "电梯不平层千万不要出去",
+        "onboard_time": 1737639979,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 18236,
+        "num": 170665,
+        "word": "长安灯会一亮灯年味儿就来了",
+        "onboard_time": 1737640579,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194256,
+        "num": 170324,
+        "word": "王一博追风者登顶年度影响力影视剧",
+        "onboard_time": 1737626479,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169505,
+        "num": 169505,
+        "word": "日本棋协",
+        "onboard_time": 1737623539,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70707,
+        "num": 146761,
+        "word": "赵睿周琦赵继伟回归",
+        "onboard_time": 1737641061,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180434,
+        "num": 141753,
+        "word": "李云霄山东春晚逆光转身惊艳",
+        "onboard_time": 1737631877,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170781,
+        "num": 140663,
+        "word": "湖南卫视春晚发节目单了",
+        "onboard_time": 1737602898,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135212,
+        "num": 135212,
+        "word": "斯瓦泰克无缘澳网决赛",
+        "onboard_time": 1737639979,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128774,
+        "num": 128774,
+        "word": "棋圣聂卫平女儿怒怼不陪你们玩了",
+        "onboard_time": 1737624978,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117154,
+        "num": 117154,
+        "word": "接下来半个月说得最多的一句话",
+        "onboard_time": 1737630619,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123348,
+        "num": 117018,
+        "word": "柯洁质疑裁判",
+        "onboard_time": 1737609679,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98954,
+        "num": 116968,
+        "word": "凯斯首进澳网决赛",
+        "onboard_time": 1737640760,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平看望慰问受灾群众#"
+    }
+  }
+}
