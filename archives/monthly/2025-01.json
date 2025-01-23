@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737628909381,
+  "endTime": 1737631147203,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -3105,6 +3105,14 @@
       "onboard_time": 1736159184,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1332642,
+      "num": 1332642,
+      "word": "中国春节申遗只允许200个单词介绍",
+      "onboard_time": 1737627858,
+      "rank": 49,
+      "category": "正能量"
     },
     {
       "raw_hot": 1332026,
@@ -6689,6 +6697,14 @@
       "onboard_time": 1736695222,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 830330,
+      "num": 337867,
+      "word": "蒲熠星为柯洁不公平对待发声",
+      "onboard_time": 1737628278,
+      "rank": 6,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 829627,
@@ -11715,6 +11731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 539840,
+      "num": 1077304,
+      "word": "今年冬天最强雨雪要来了",
+      "onboard_time": 1737616280,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 539761,
       "num": 539761,
       "word": "红山动物园的厕所标志",
@@ -13185,14 +13209,6 @@
       "onboard_time": 1736166262,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 483152,
-      "num": 1077304,
-      "word": "今年冬天最强雨雪要来了",
-      "onboard_time": 1737616280,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 483150,
@@ -15585,14 +15601,6 @@
       "onboard_time": 1736164223,
       "rank": 11,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 414475,
-      "num": 337867,
-      "word": "蒲熠星为柯洁不公平对待发声",
-      "onboard_time": 1737628278,
-      "rank": 6,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 414304,
@@ -21643,6 +21651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 295242,
+      "num": 295242,
+      "word": "中国影史预售票房TOP15",
+      "onboard_time": 1737625037,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 295206,
       "num": 529787,
       "word": "2瓶过期啤酒罚款2万是否小错重罚",
@@ -21697,14 +21713,6 @@
       "onboard_time": 1737271337,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 294505,
-      "num": 285641,
-      "word": "中国影史预售票房TOP15",
-      "onboard_time": 1737625037,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 294472,
@@ -22875,6 +22883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 277786,
+      "num": 321180,
+      "word": "王一博追风者登顶年度影响力影视剧",
+      "onboard_time": 1737626479,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 277666,
       "num": 202737,
       "word": "跨年晚会",
@@ -23739,6 +23755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 268462,
+      "num": 268462,
+      "word": "中国围棋协会第29届LG杯决赛声明",
+      "onboard_time": 1737629959,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 268370,
       "num": 268370,
       "word": "刘浩存进组新剧主角",
@@ -24129,14 +24153,6 @@
       "onboard_time": 1736917940,
       "rank": 19,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 262104,
-      "num": 321180,
-      "word": "王一博追风者登顶年度影响力影视剧",
-      "onboard_time": 1737626479,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 262006,
@@ -24825,6 +24841,14 @@
       "onboard_time": 1737104959,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 254764,
+      "num": 179854,
+      "word": "拒绝百万拆迁款的钉子户后悔了",
+      "onboard_time": 1737627020,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 254746,
@@ -33571,14 +33595,6 @@
       "category": "作品衍生,体育"
     },
     {
-      "raw_hot": 193355,
-      "num": 193355,
-      "word": "中国春节申遗只允许200个单词介绍",
-      "onboard_time": 1737627858,
-      "rank": 49,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 193317,
       "num": 193317,
       "word": "德约科维奇3比1阿尔卡拉斯",
@@ -34433,6 +34449,14 @@
       "onboard_time": 1737368357,
       "rank": 35,
       "category": "网红"
+    },
+    {
+      "raw_hot": 190453,
+      "num": 177591,
+      "word": "中国围棋协会不接受本届LG杯结果",
+      "onboard_time": 1737629899,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 190449,
@@ -38939,6 +38963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171133,
+      "num": 171133,
+      "word": "ive一位",
+      "onboard_time": 1737630558,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 171110,
       "num": 171110,
       "word": "齐司礼ppv",
@@ -39865,6 +39897,14 @@
       "onboard_time": 1737363017,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 167526,
+      "num": 167526,
+      "word": "易烊千玺小小的我研讨会发言",
+      "onboard_time": 1737630078,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 167505,
@@ -41297,6 +41337,14 @@
       "onboard_time": 1736997138,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162058,
+      "num": 162058,
+      "word": "漂白现在算口碑翻车吗",
+      "onboard_time": 1737630258,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 162038,
@@ -42969,6 +43017,14 @@
       "onboard_time": 1736399720,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 156095,
+      "num": 156095,
+      "word": "警方介入调解曹县一女子遭家暴",
+      "onboard_time": 1737629119,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156039,
@@ -44921,14 +44977,6 @@
       "onboard_time": 1736662098,
       "rank": 39,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 148331,
-      "num": 148331,
-      "word": "拒绝百万拆迁款的钉子户后悔了",
-      "onboard_time": 1737627020,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 148314,
@@ -54403,6 +54451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116778,
+      "num": 269771,
+      "word": "射雕上映前最后一次主创齐聚",
+      "onboard_time": 1737630679,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 116747,
       "num": 177348,
       "word": "玄彬孙艺珍夫妇捐3亿韩元",
@@ -54540,7 +54596,7 @@
     },
     {
       "raw_hot": 116174,
-      "num": 116174,
+      "num": 179700,
       "word": "王者荣耀福气码",
       "onboard_time": 1737625099,
       "rank": 46,
@@ -55097,6 +55153,14 @@
       "onboard_time": 1736843240,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 114377,
+      "num": 193400,
+      "word": "肖宇梁自制微电影",
+      "onboard_time": 1737628818,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 114347,
@@ -57043,6 +57107,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 107121,
+      "num": 107121,
+      "word": "孙颖莎出战新加坡大满贯女双",
+      "onboard_time": 1737629779,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107115,
       "num": 107115,
       "word": "韩国44辆车追尾因道路结冰所致",
@@ -57819,6 +57891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 104272,
+      "num": 104272,
+      "word": "萨巴伦卡澳网20连胜",
+      "onboard_time": 1737630018,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104218,
       "num": 104218,
       "word": "王影璐扫楼领舞摇花手",
@@ -57993,6 +58073,14 @@
       "onboard_time": 1736917999,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103435,
+      "num": 103435,
+      "word": "本手妙手俗手举手",
+      "onboard_time": 1737631038,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 103434,
@@ -58336,6 +58424,14 @@
       "word": "清明上河园起火目击者发声",
       "onboard_time": 1737249797,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101810,
+      "num": 101810,
+      "word": "接下来半个月说得最多的一句话",
+      "onboard_time": 1737630619,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -62417,14 +62513,6 @@
       "onboard_time": 1736505500,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75716,
-      "num": 193400,
-      "word": "肖宇梁自制微电影",
-      "onboard_time": 1737628818,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 75679,
@@ -67395,6 +67483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 41180,
+      "num": 455973,
+      "word": "非遗过大年",
+      "onboard_time": 1737630679,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41086,
       "num": 342794,
       "word": "陈梦现身厦门马拉松现场",
@@ -68721,6 +68817,14 @@
       "onboard_time": 1736778921,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 33745,
+      "num": 181732,
+      "word": "潘宏导航语音包搜不到了",
+      "onboard_time": 1737629720,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 33680,
@@ -71001,6 +71105,14 @@
       "onboard_time": 1737311712,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 23058,
+      "num": 181859,
+      "word": "此沙封神路演教五行遁术手势",
+      "onboard_time": 1737630258,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 22994,

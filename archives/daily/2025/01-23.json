@@ -1,6 +1,6 @@
 {
   "startTime": 1737563308947,
-  "endTime": 1737628909381,
+  "endTime": 1737631147203,
   "band_list": [
     {
       "raw_hot": 9461281,
@@ -49,6 +49,14 @@
       "onboard_time": 1737560837,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1332642,
+      "num": 1332642,
+      "word": "中国春节申遗只允许200个单词介绍",
+      "onboard_time": 1737627858,
+      "rank": 49,
+      "category": "正能量"
     },
     {
       "raw_hot": 1290331,
@@ -227,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 830330,
+      "num": 337867,
+      "word": "蒲熠星为柯洁不公平对待发声",
+      "onboard_time": 1737628278,
+      "rank": 6,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 829627,
       "num": 333664,
       "word": "韩国裁判宣布赛果现场",
@@ -379,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 539840,
+      "num": 1077304,
+      "word": "今年冬天最强雨雪要来了",
+      "onboard_time": 1737616280,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 521178,
       "num": 382635,
       "word": "李菲儿 锅铲门",
@@ -409,14 +433,6 @@
       "onboard_time": 1737613219,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 483152,
-      "num": 1077304,
-      "word": "今年冬天最强雨雪要来了",
-      "onboard_time": 1737616280,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 479939,
@@ -467,14 +483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 414475,
-      "num": 337867,
-      "word": "蒲熠星为柯洁不公平对待发声",
-      "onboard_time": 1737628278,
-      "rank": 6,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 413734,
       "num": 413734,
       "word": "法国士兵记步数APP泄露核潜艇机密",
@@ -507,6 +515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 398206,
+      "num": 398206,
+      "word": "漂白",
+      "onboard_time": 1737522800,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 389705,
       "num": 389705,
       "word": "射雕进入中国影史预售票房TOP15",
@@ -529,14 +545,6 @@
       "onboard_time": 1737595877,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 370675,
-      "num": 370675,
-      "word": "漂白",
-      "onboard_time": 1737522800,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 366606,
@@ -651,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 295242,
+      "num": 295242,
+      "word": "中国影史预售票房TOP15",
+      "onboard_time": 1737625037,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 294752,
       "num": 294752,
       "word": "虞书欣丁禹兮网络视听盛典跳寄明月",
@@ -667,14 +683,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 294505,
-      "num": 285641,
-      "word": "中国影史预售票房TOP15",
-      "onboard_time": 1737625037,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 278852,
       "num": 278852,
       "word": "李灿赫河智秀恋爱",
@@ -689,6 +697,14 @@
       "onboard_time": 1737612798,
       "rank": 28,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 277786,
+      "num": 321180,
+      "word": "王一博追风者登顶年度影响力影视剧",
+      "onboard_time": 1737626479,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 276042,
@@ -739,20 +755,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 268462,
+      "num": 268462,
+      "word": "中国围棋协会第29届LG杯决赛声明",
+      "onboard_time": 1737629959,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 265134,
       "num": 240985,
       "word": "杨紫嘉人二月刊封面",
       "onboard_time": 1737607758,
       "rank": 26,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 262104,
-      "num": 321180,
-      "word": "王一博追风者登顶年度影响力影视剧",
-      "onboard_time": 1737626479,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 261657,
@@ -793,6 +809,14 @@
       "onboard_time": 1737555921,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254764,
+      "num": 179854,
+      "word": "拒绝百万拆迁款的钉子户后悔了",
+      "onboard_time": 1737627020,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 253640,
@@ -945,6 +969,14 @@
       "onboard_time": 1737607039,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220456,
+      "num": 220456,
+      "word": "白月梵星",
+      "onboard_time": 1737629239,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 218464,
@@ -1171,14 +1203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 193355,
-      "num": 193355,
-      "word": "中国春节申遗只允许200个单词介绍",
-      "onboard_time": 1737627858,
-      "rank": 49,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 192799,
       "num": 192799,
       "word": "宠物狗遭偷找回时已被洗澡还驱虫",
@@ -1209,6 +1233,14 @@
       "onboard_time": 1737549738,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190453,
+      "num": 177591,
+      "word": "中国围棋协会不接受本届LG杯结果",
+      "onboard_time": 1737629899,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 188597,
@@ -1403,6 +1435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171133,
+      "num": 171133,
+      "word": "ive一位",
+      "onboard_time": 1737630558,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 170720,
       "num": 170720,
       "word": "祝绪丹美得人眼前一亮又一亮",
@@ -1449,6 +1489,14 @@
       "onboard_time": 1737596777,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167526,
+      "num": 167526,
+      "word": "易烊千玺小小的我研讨会发言",
+      "onboard_time": 1737630078,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 165982,
@@ -1507,6 +1555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162058,
+      "num": 162058,
+      "word": "漂白现在算口碑翻车吗",
+      "onboard_time": 1737630258,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158990,
       "num": 137155,
       "word": "敖瑞鹏净渊出场镜头",
@@ -1537,6 +1593,14 @@
       "onboard_time": 1737615739,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156095,
+      "num": 156095,
+      "word": "警方介入调解曹县一女子遭家暴",
+      "onboard_time": 1737629119,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155410,
@@ -1593,14 +1657,6 @@
       "onboard_time": 1737614538,
       "rank": 47,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 148331,
-      "num": 148331,
-      "word": "拒绝百万拆迁款的钉子户后悔了",
-      "onboard_time": 1737627020,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 148314,
@@ -2083,6 +2139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116778,
+      "num": 269771,
+      "word": "射雕上映前最后一次主创齐聚",
+      "onboard_time": 1737630679,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 116244,
       "num": 116244,
       "word": "钟睒睒透露将捐赠400亿建大学",
@@ -2092,7 +2156,7 @@
     },
     {
       "raw_hot": 116174,
-      "num": 116174,
+      "num": 179700,
       "word": "王者荣耀福气码",
       "onboard_time": 1737625099,
       "rank": 46,
@@ -2105,6 +2169,14 @@
       "onboard_time": 1737621679,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 114377,
+      "num": 193400,
+      "word": "肖宇梁自制微电影",
+      "onboard_time": 1737628818,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 114267,
@@ -2203,6 +2275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107121,
+      "num": 107121,
+      "word": "孙颖莎出战新加坡大满贯女双",
+      "onboard_time": 1737629779,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106986,
       "num": 213154,
       "word": "HYBE试图分裂newjeans",
@@ -2227,6 +2307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104272,
+      "num": 104272,
+      "word": "萨巴伦卡澳网20连胜",
+      "onboard_time": 1737630018,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103953,
       "num": 103953,
       "word": "难哄",
@@ -2235,12 +2323,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103435,
+      "num": 103435,
+      "word": "本手妙手俗手举手",
+      "onboard_time": 1737631038,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102107,
       "num": 102107,
       "word": "吴清称大事不过年只争朝夕",
       "onboard_time": 1737600617,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 101810,
+      "num": 101810,
+      "word": "接下来半个月说得最多的一句话",
+      "onboard_time": 1737630619,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101752,
@@ -2427,14 +2531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75716,
-      "num": 193400,
-      "word": "肖宇梁自制微电影",
-      "onboard_time": 1737628818,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 75574,
       "num": 142652,
       "word": "恋与深空黎深",
@@ -2603,6 +2699,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 41180,
+      "num": 455973,
+      "word": "非遗过大年",
+      "onboard_time": 1737630679,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40317,
       "num": 229082,
       "word": "为数不多的心眼全用游戏上了",
@@ -2633,6 +2737,14 @@
       "onboard_time": 1737617359,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 33745,
+      "num": 181732,
+      "word": "潘宏导航语音包搜不到了",
+      "onboard_time": 1737629720,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 31758,
@@ -2713,6 +2825,14 @@
       "onboard_time": 1737585732,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 23058,
+      "num": 181859,
+      "word": "此沙封神路演教五行遁术手势",
+      "onboard_time": 1737630258,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 21429,
