@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/23 22:20:46
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/23 22:39:36
 </p>
 </blockquote>
 <p>
@@ -5661,6 +5661,12 @@ B站拿下春晚转播权（热度：825759）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E6%B4%81%E5%9B%A0%E5%88%A4%E7%BD%9A%E6%8D%9F%E5%A4%B12%E4%BA%BF%E9%9F%A9%E5%85%83%E5%A5%96%E9%87%91%23" target="weibo">
+柯洁因判罚损失2亿韩元奖金（热度：777027）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B1%9F%E9%9C%8D%E6%80%9D%E7%87%95%E7%9A%84%E7%8F%8D%E7%8F%A0%E8%8E%B7%E5%A5%96%E4%BA%86%23" target="weibo">
 杜江霍思燕的珍珠获奖了（热度：776661）
 </a>
@@ -6005,12 +6011,6 @@ SM新女团 SMTOWN压轴（热度：743773）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E5%A9%9A%E5%90%8E%E9%A6%96%E6%AC%A1%E5%90%8C%E5%8F%B0%23" target="weibo">
 黄子韬徐艺洋婚后首次同台（热度：738710）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%85%B3%E9%97%AD%E5%85%A5%E5%A2%83App%E7%A7%BB%E6%B0%91%E5%A4%A7%E5%93%AD%23" target="weibo">
-美政府关闭入境App移民大哭（热度：738544）
 </a>
 </li>
 
