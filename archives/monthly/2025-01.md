@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/23 07:35:39
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/23 09:40:25
 </p>
 </blockquote>
 <p>
@@ -3063,6 +3063,12 @@ TikTok发声明（热度：1148125）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2312%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%92%8C73%E5%B2%81%E9%98%BF%E5%A9%86%E5%9C%B0%E9%93%81%E5%86%85%E6%8A%A2%E5%BA%A7%23" target="weibo">
+12岁女孩和73岁阿婆地铁内抢座（热度：1123452）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BC%82%E7%99%BD%E7%AC%AC1%E9%9B%86%E6%9D%80%E7%96%AF%E4%BA%86%23" target="weibo">
 漂白第1集杀疯了（热度：1122708）
 </a>
@@ -3611,6 +3617,12 @@ D3014次列车因撞鸟临时停车（热度：1020662）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8A%B6%E6%80%81%23" target="weibo">
 孙颖莎状态（热度：1011615）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B176%E4%B8%87%E4%B9%B0%E6%88%BF%E8%8A%B160%E4%B8%87%E8%A3%85%E4%BF%AE%23" target="weibo">
+花76万买房花60万装修（热度：1011313）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ SM新女团 SMTOWN压轴（热度：743773）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%80%AA%E5%A6%AE%E9%9A%94%E7%AA%97%E5%AF%B9%E8%A7%86%23" target="weibo">
 肖战倪妮隔窗对视（热度：719009）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%87%E7%AA%81%E7%84%B6%E5%88%86%E5%A8%A9%E9%99%8C%E7%94%9F%E4%BA%BA%E7%9A%84%E7%BE%BD%E7%BB%92%E6%9C%8D%E7%AB%8B%E5%A4%A7%E5%8A%9F%23" target="weibo">
-孕妇突然分娩陌生人的羽绒服立大功（热度：718063）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9C%87%E8%B5%94%E4%BB%98%E9%A2%86%E5%85%8B500%E4%B8%87%E5%85%83%E8%BF%9D%E7%BA%A6%E9%87%91%23" target="weibo">
-陈震赔付领克500万元违约金（热度：717928）
 </a>
 </li>
 

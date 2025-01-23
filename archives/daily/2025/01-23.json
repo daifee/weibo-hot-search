@@ -1,6 +1,6 @@
 {
   "startTime": 1737563308947,
-  "endTime": 1737588939187,
+  "endTime": 1737596425911,
   "band_list": [
     {
       "raw_hot": 1344080,
@@ -11,12 +11,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1123452,
+      "num": 1179752,
+      "word": "12岁女孩和73岁阿婆地铁内抢座",
+      "onboard_time": 1737588375,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1011313,
+      "num": 1011313,
+      "word": "花76万买房花60万装修",
+      "onboard_time": 1737592457,
+      "rank": 1,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 876570,
-      "num": 210163,
+      "num": 216030,
       "word": "江西一商场发生电梯卡人事故",
       "onboard_time": 1737560358,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 648984,
+      "num": 648984,
+      "word": "李幼贞结婚",
+      "onboard_time": 1737592457,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 637124,
@@ -25,6 +49,30 @@
       "onboard_time": 1737553939,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 556982,
+      "num": 556982,
+      "word": "白鹿演技",
+      "onboard_time": 1737589936,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 527257,
+      "num": 334761,
+      "word": "留几手增重10公斤",
+      "onboard_time": 1737592939,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 494842,
+      "num": 332677,
+      "word": "蒋长扬纳妾",
+      "onboard_time": 1737593299,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 479939,
@@ -41,14 +89,6 @@
       "onboard_time": 1737550698,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 441211,
-      "num": 441211,
-      "word": "12岁女孩和73岁阿婆地铁内抢座",
-      "onboard_time": 1737588375,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 413734,
@@ -92,7 +132,7 @@
     },
     {
       "raw_hot": 300686,
-      "num": 144984,
+      "num": 237617,
       "word": "潘宏曾直播自曝进去过9天",
       "onboard_time": 1737565515,
       "rank": 31,
@@ -107,12 +147,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 297248,
+      "num": 297248,
+      "word": "过年前大降温多地降10摄氏度",
+      "onboard_time": 1737593959,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 276042,
       "num": 209028,
       "word": "刘烨女儿13岁近照",
       "onboard_time": 1737546677,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269459,
+      "num": 269459,
+      "word": "伽罗新皮肤最初的交响",
+      "onboard_time": 1737593959,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 261657,
+      "num": 261657,
+      "word": "为什么南北方小年相差一天",
+      "onboard_time": 1737550397,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 255358,
@@ -124,11 +188,27 @@
     },
     {
       "raw_hot": 252355,
-      "num": 138837,
+      "num": 223128,
       "word": "沈春阳回应被叫邪恶车厘子",
       "onboard_time": 1737568693,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242340,
+      "num": 184758,
+      "word": "蔡徐坤ins",
+      "onboard_time": 1737592518,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 227162,
+      "num": 182727,
+      "word": "闺蜜疤痕妊娠女子劝诫反被拉黑",
+      "onboard_time": 1737553939,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 224576,
@@ -163,6 +243,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 210664,
+      "num": 177436,
+      "word": "男子放慢吃饭速度10天瘦4斤",
+      "onboard_time": 1737593959,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207526,
       "num": 207526,
       "word": "iG股东开团Doinb",
@@ -171,16 +259,32 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 199190,
-      "num": 143004,
-      "word": "闺蜜疤痕妊娠女子劝诫反被拉黑",
-      "onboard_time": 1737553939,
-      "rank": 22,
+      "raw_hot": 206890,
+      "num": 206890,
+      "word": "泽连斯基再次开停火条件",
+      "onboard_time": 1737588375,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 197810,
+      "num": 197810,
+      "word": "中央气象台发布今年首个寒潮预警",
+      "onboard_time": 1737592878,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191061,
+      "num": 191061,
+      "word": "王楚钦加油",
+      "onboard_time": 1737588675,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190566,
-      "num": 140797,
+      "num": 148475,
       "word": "女子酒后催吐将19cm牙刷掉进胃中",
       "onboard_time": 1737549738,
       "rank": 23,
@@ -193,14 +297,6 @@
       "onboard_time": 1737559219,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 174849,
-      "num": 174849,
-      "word": "为什么南北方小年相差一天",
-      "onboard_time": 1737550397,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 165356,
@@ -219,6 +315,38 @@
       "category": "电影"
     },
     {
+      "raw_hot": 159107,
+      "num": 159107,
+      "word": "央视boys一首歌全是易错字",
+      "onboard_time": 1737594678,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 152135,
+      "num": 152135,
+      "word": "再过5天就是除夕",
+      "onboard_time": 1737594977,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150216,
+      "num": 150216,
+      "word": "云南女童走失家属悬赏百万",
+      "onboard_time": 1737591797,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149727,
+      "num": 149727,
+      "word": "韩国人在中国被辣哭的一天",
+      "onboard_time": 1737595158,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 146713,
       "num": 140401,
       "word": "希然",
@@ -235,12 +363,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143570,
+      "num": 159638,
+      "word": "柯洁今日决胜局",
+      "onboard_time": 1737594498,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141610,
       "num": 119337,
       "word": "麦琳问李行亮自己还是个好人吗",
       "onboard_time": 1737563775,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137162,
+      "num": 137162,
+      "word": "文化中国行非遗春节送祝福",
+      "onboard_time": 1737595937,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134391,
+      "num": 134391,
+      "word": "三星S25",
+      "onboard_time": 1737592278,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 134171,
@@ -291,6 +443,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 121626,
+      "num": 121626,
+      "word": "水龙吟将五平台同时播出",
+      "onboard_time": 1737590656,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114267,
       "num": 126251,
       "word": "春节摄影大赛",
@@ -323,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106864,
+      "num": 296023,
+      "word": "12岁女孩与老人抢座争执诊出心理问题",
+      "onboard_time": 1737593178,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103953,
       "num": 103953,
       "word": "难哄",
@@ -339,11 +507,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97566,
+      "num": 97566,
+      "word": "李现小年晒腹肌",
+      "onboard_time": 1737589035,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96968,
       "num": 85224,
       "word": "周深这件衣服穿了多少年",
       "onboard_time": 1737550338,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 93845,
+      "num": 93845,
+      "word": "留几手上脱口秀了",
+      "onboard_time": 1737590416,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -363,12 +547,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 89987,
+      "num": 386650,
+      "word": "小年一到年味儿拉满",
+      "onboard_time": 1737551839,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88243,
       "num": 85040,
       "word": "总台春晚第四次彩排阵容",
       "onboard_time": 1737554119,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86933,
+      "num": 86933,
+      "word": "棋手称看到柯洁被判负很气愤",
+      "onboard_time": 1737569053,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 86392,
@@ -403,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82627,
+      "num": 82627,
+      "word": "国乒重点着眼未来两届奥运梯队建设",
+      "onboard_time": 1737595817,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81706,
       "num": 73151,
       "word": "李现晒蒋长扬战损腹肌照",
@@ -419,12 +627,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75126,
-      "num": 75126,
-      "word": "棋手称看到柯洁被判负很气愤",
-      "onboard_time": 1737569053,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 77170,
+      "num": 77170,
+      "word": "迎新春大扫除攻略",
+      "onboard_time": 1737591437,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76364,
+      "num": 76364,
+      "word": "以在加沙留下5000万吨废墟瓦砾",
+      "onboard_time": 1737596357,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 75574,
+      "num": 75574,
+      "word": "恋与深空黎深",
+      "onboard_time": 1737596298,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 73391,
@@ -467,14 +691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 66979,
-      "num": 150297,
-      "word": "泽连斯基再次开停火条件",
-      "onboard_time": 1737588375,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 65796,
       "num": 90686,
       "word": "安娜晒与诺一霓娜合照",
@@ -505,14 +721,6 @@
       "onboard_time": 1737551299,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 53126,
-      "num": 386650,
-      "word": "小年一到年味儿拉满",
-      "onboard_time": 1737551839,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 51862,
@@ -555,12 +763,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 34837,
-      "num": 37383,
-      "word": "王楚钦加油",
-      "onboard_time": 1737588675,
-      "rank": 46,
-      "category": "体育"
+      "raw_hot": 37970,
+      "num": 735053,
+      "word": "净网2024取得显著成效",
+      "onboard_time": 1737590719,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31758,
