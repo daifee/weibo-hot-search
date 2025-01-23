@@ -1,0 +1,410 @@
+{
+  "runTime": 1737613828996,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3564145,
+        "num": 3564145,
+        "word": "柯洁暴怒问裁判",
+        "onboard_time": 1737609679,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 890031,
+        "num": 890031,
+        "word": "柯洁陷入绝境",
+        "onboard_time": 1737607758,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54551,
+        "num": 734934,
+        "word": "今年春节你被哪些年货硬控了",
+        "onboard_time": 1737601458,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 684419,
+        "num": 684419,
+        "word": "春晚一口气发了168小时视频",
+        "onboard_time": 1737605779,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 618035,
+        "num": 618035,
+        "word": "LG杯决胜局中断",
+        "onboard_time": 1737610460,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 548411,
+        "num": 548411,
+        "word": "双轨",
+        "onboard_time": 1737604038,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 433553,
+        "num": 433553,
+        "word": "小孩捐10元被工作人员说抠门",
+        "onboard_time": 1737603799,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 417915,
+        "num": 417915,
+        "word": "迪丽热巴华丽珠宝ccd",
+        "onboard_time": 1737608299,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 410484,
+        "num": 410484,
+        "word": "湖南卫视春晚发节目单了",
+        "onboard_time": 1737602898,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249509,
+        "num": 390005,
+        "word": "00后女生回老家10分钟门口3辆车等相亲",
+        "onboard_time": 1737608178,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 685883,
+        "num": 389930,
+        "word": "特朗普称拜登忘了赦免自己",
+        "onboard_time": 1737609138,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 389705,
+        "num": 389705,
+        "word": "射雕进入中国影史预售票房TOP15",
+        "onboard_time": 1737610820,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 380604,
+        "num": 380604,
+        "word": "柯洁今日决胜局",
+        "onboard_time": 1737594498,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 377749,
+        "num": 377749,
+        "word": "美国婴儿尝试中国婴儿食品",
+        "onboard_time": 1737607699,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 324840,
+        "num": 324840,
+        "word": "柯洁再次出现失误",
+        "onboard_time": 1737611600,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285443,
+        "num": 285443,
+        "word": "春晚农民工夫妇14年后仍买不起车",
+        "onboard_time": 1737605959,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283349,
+        "num": 283349,
+        "word": "李幼贞不能生育",
+        "onboard_time": 1737604399,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277935,
+        "num": 277935,
+        "word": "蒋欣羽绒服",
+        "onboard_time": 1737605059,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273211,
+        "num": 273211,
+        "word": "李子柒时尚芭莎封面预告",
+        "onboard_time": 1737608299,
+        "rank": 18,
+        "category": "时尚,网红"
+      },
+      {
+        "raw_hot": 119993,
+        "num": 258696,
+        "word": "听泉赏宝都翻不过来的钱币",
+        "onboard_time": 1737608659,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 292223,
+        "num": 258344,
+        "word": "徐州市税务局一办公地装修后10人患癌",
+        "onboard_time": 1737601998,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256760,
+        "num": 256760,
+        "word": "美国小哥警告中国不要学美国糟粕",
+        "onboard_time": 1737604159,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243650,
+        "num": 243650,
+        "word": "宇日俱曾",
+        "onboard_time": 1737609379,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239215,
+        "num": 239215,
+        "word": "何惟芳你根本没喝中药",
+        "onboard_time": 1737605838,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210596,
+        "num": 235983,
+        "word": "卞相壹思考时裁判暂停",
+        "onboard_time": 1737613399,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233201,
+        "num": 233201,
+        "word": "拜登给特朗普留信全文曝光",
+        "onboard_time": 1737612679,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 214800,
+        "num": 214800,
+        "word": "虞书欣mike合照",
+        "onboard_time": 1737612499,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203673,
+        "num": 203673,
+        "word": "漂白编剧疑抄了记者笔误",
+        "onboard_time": 1737611478,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200526,
+        "num": 200526,
+        "word": "陈奕迅春晚彩排与奥运冠军合唱孤勇者",
+        "onboard_time": 1737612798,
+        "rank": 28,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 200327,
+        "num": 200327,
+        "word": "李昀锐新剧空降定档",
+        "onboard_time": 1737602117,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183176,
+        "num": 183176,
+        "word": "钮承泽出狱",
+        "onboard_time": 1737612439,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180002,
+        "num": 180002,
+        "word": "杨紫无眉造型",
+        "onboard_time": 1737613219,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176930,
+        "num": 176930,
+        "word": "LG杯决赛再次中断",
+        "onboard_time": 1737612319,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175805,
+        "num": 175805,
+        "word": "刘晓庆回应年龄造假",
+        "onboard_time": 1737610579,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165982,
+        "num": 165982,
+        "word": "杨紫演完国色芳华看到了自己更多可能性",
+        "onboard_time": 1737613399,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165153,
+        "num": 165153,
+        "word": "家门口成狗公厕喷驱狗剂被索赔1万",
+        "onboard_time": 1737610820,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164166,
+        "num": 164166,
+        "word": "韩媒称柯洁没能熟悉韩国规定",
+        "onboard_time": 1737595877,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163028,
+        "num": 163028,
+        "word": "李灿赫河智秀恋爱",
+        "onboard_time": 1737607579,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162680,
+        "num": 162680,
+        "word": "李一桐下腰",
+        "onboard_time": 1737605478,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157754,
+        "num": 157754,
+        "word": "千朵桃花第一集就是大结局",
+        "onboard_time": 1737612559,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150273,
+        "num": 150273,
+        "word": "双轨主演阵容官宣",
+        "onboard_time": 1737610158,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144350,
+        "num": 144350,
+        "word": "一部剧800个网文梗",
+        "onboard_time": 1737612798,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143866,
+        "num": 143866,
+        "word": "特朗普任命救命特工为特勤局长",
+        "onboard_time": 1737609679,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141886,
+        "num": 141886,
+        "word": "太好了大侦探团队拍了芒果短剧",
+        "onboard_time": 1737613459,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139915,
+        "num": 139915,
+        "word": "张凌赫李昀锐一起吃饭",
+        "onboard_time": 1737605239,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130630,
+        "num": 130630,
+        "word": "情侣骑行误入大货车盲区1死1重伤",
+        "onboard_time": 1737610999,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129342,
+        "num": 129342,
+        "word": "连笑谈柯洁被判负",
+        "onboard_time": 1737608719,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126422,
+        "num": 126422,
+        "word": "围棋下出了搏击的感觉",
+        "onboard_time": 1737613518,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124086,
+        "num": 124086,
+        "word": "郑州下雪",
+        "onboard_time": 1737613399,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119358,
+        "num": 123994,
+        "word": "围棋教练俞斌说没办法",
+        "onboard_time": 1737613758,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在辽宁葫芦岛看望慰问受灾群众#"
+    }
+  }
+}

@@ -1,7 +1,15 @@
 {
   "startTime": 1737563308947,
-  "endTime": 1737610689981,
+  "endTime": 1737613828996,
   "band_list": [
+    {
+      "raw_hot": 3564145,
+      "num": 3564145,
+      "word": "柯洁暴怒问裁判",
+      "onboard_time": 1737609679,
+      "rank": 3,
+      "category": "体育"
+    },
     {
       "raw_hot": 1601150,
       "num": 1601150,
@@ -99,14 +107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 888149,
-      "num": 888149,
-      "word": "柯洁暴怒问裁判",
-      "onboard_time": 1737609679,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 882889,
       "num": 524750,
       "word": "特朗普称拜登忘了赦免自己",
@@ -185,6 +185,14 @@
       "onboard_time": 1737601998,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 618035,
+      "num": 618035,
+      "word": "LG杯决胜局中断",
+      "onboard_time": 1737610460,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 605728,
@@ -299,6 +307,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 389705,
+      "num": 389705,
+      "word": "射雕进入中国影史预售票房TOP15",
+      "onboard_time": 1737610820,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 377749,
+      "num": 377749,
+      "word": "美国婴儿尝试中国婴儿食品",
+      "onboard_time": 1737607699,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 374962,
       "num": 374962,
       "word": "韩媒称柯洁没能熟悉韩国规定",
@@ -329,6 +353,14 @@
       "onboard_time": 1737599657,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 324840,
+      "num": 324840,
+      "word": "柯洁再次出现失误",
+      "onboard_time": 1737611600,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 321394,
@@ -403,14 +435,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 287826,
-      "num": 227936,
-      "word": "美国婴儿尝试中国婴儿食品",
-      "onboard_time": 1737607699,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 278852,
       "num": 278852,
       "word": "李灿赫河智秀恋爱",
@@ -427,20 +451,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 273211,
+      "num": 273211,
+      "word": "李子柒时尚芭莎封面预告",
+      "onboard_time": 1737608299,
+      "rank": 19,
+      "category": "时尚,网红"
+    },
+    {
       "raw_hot": 265134,
       "num": 240985,
       "word": "杨紫嘉人二月刊封面",
       "onboard_time": 1737607758,
       "rank": 26,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 263286,
-      "num": 263286,
-      "word": "李子柒时尚芭莎封面预告",
-      "onboard_time": 1737608299,
-      "rank": 19,
-      "category": "时尚,网红"
     },
     {
       "raw_hot": 261657,
@@ -452,7 +476,7 @@
     },
     {
       "raw_hot": 259217,
-      "num": 239562,
+      "num": 243650,
       "word": "宇日俱曾",
       "onboard_time": 1737609379,
       "rank": 37,
@@ -489,6 +513,14 @@
       "onboard_time": 1737609978,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 249509,
+      "num": 390005,
+      "word": "00后女生回老家10分钟门口3辆车等相亲",
+      "onboard_time": 1737608178,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 247159,
@@ -531,6 +563,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 233201,
+      "num": 233201,
+      "word": "拜登给特朗普留信全文曝光",
+      "onboard_time": 1737612679,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 227162,
       "num": 182727,
       "word": "闺蜜疤痕妊娠女子劝诫反被拉黑",
@@ -571,12 +611,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 213694,
-      "num": 213694,
-      "word": "00后女生回老家10分钟门口3辆车等相亲",
-      "onboard_time": 1737608178,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 214800,
+      "num": 214800,
+      "word": "虞书欣mike合照",
+      "onboard_time": 1737612499,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 212931,
@@ -601,6 +641,14 @@
       "onboard_time": 1737555739,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 210596,
+      "num": 235983,
+      "word": "卞相壹思考时裁判暂停",
+      "onboard_time": 1737613399,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 210310,
@@ -651,6 +699,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 203673,
+      "num": 203673,
+      "word": "漂白编剧疑抄了记者笔误",
+      "onboard_time": 1737611478,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203442,
       "num": 203442,
       "word": "中央气象台发布今年首个寒潮预警",
@@ -673,6 +729,14 @@
       "onboard_time": 1737609080,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 200526,
+      "num": 200526,
+      "word": "陈奕迅春晚彩排与奥运冠军合唱孤勇者",
+      "onboard_time": 1737612798,
+      "rank": 28,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 198505,
@@ -731,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183176,
+      "num": 183176,
+      "word": "钮承泽出狱",
+      "onboard_time": 1737612439,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182096,
       "num": 192547,
       "word": "TikTok最快本周就在美运营达成协议",
@@ -753,6 +825,14 @@
       "onboard_time": 1737602417,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 180002,
+      "num": 180002,
+      "word": "杨紫无眉造型",
+      "onboard_time": 1737613219,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 179518,
@@ -779,6 +859,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 176930,
+      "num": 176930,
+      "word": "LG杯决赛再次中断",
+      "onboard_time": 1737612319,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176604,
       "num": 176604,
       "word": "丁禹兮和哪吒耍火",
@@ -795,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175805,
+      "num": 175805,
+      "word": "刘晓庆回应年龄造假",
+      "onboard_time": 1737610579,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175133,
       "num": 133018,
       "word": "肖战电影票房号召力",
@@ -804,7 +900,7 @@
     },
     {
       "raw_hot": 174556,
-      "num": 174556,
+      "num": 258696,
       "word": "听泉赏宝都翻不过来的钱币",
       "onboard_time": 1737608659,
       "rank": 42,
@@ -817,14 +913,6 @@
       "onboard_time": 1737605838,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 173776,
-      "num": 173776,
-      "word": "LG杯决胜局中断",
-      "onboard_time": 1737610460,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 170720,
@@ -859,12 +947,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165982,
+      "num": 165982,
+      "word": "杨紫演完国色芳华看到了自己更多可能性",
+      "onboard_time": 1737613399,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165356,
       "num": 165356,
       "word": "邹市明否认中年返贫",
       "onboard_time": 1737551898,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165153,
+      "num": 165153,
+      "word": "家门口成狗公厕喷驱狗剂被索赔1万",
+      "onboard_time": 1737610820,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164370,
@@ -907,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157754,
+      "num": 157754,
+      "word": "千朵桃花第一集就是大结局",
+      "onboard_time": 1737612559,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157058,
       "num": 157058,
       "word": "于适讲出了春运中的温情",
@@ -929,14 +1041,6 @@
       "onboard_time": 1737591797,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 149017,
-      "num": 149017,
-      "word": "刘晓庆回应年龄造假",
-      "onboard_time": 1737610579,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 148314,
@@ -1011,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144350,
+      "num": 144350,
+      "word": "一部剧800个网文梗",
+      "onboard_time": 1737612798,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144109,
       "num": 248994,
       "word": "连笑谈柯洁被判负",
@@ -1033,6 +1145,14 @@
       "onboard_time": 1737598036,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 141886,
+      "num": 141886,
+      "word": "太好了大侦探团队拍了芒果短剧",
+      "onboard_time": 1737613459,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 141610,
@@ -1155,12 +1275,28 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 130630,
+      "num": 130630,
+      "word": "情侣骑行误入大货车盲区1死1重伤",
+      "onboard_time": 1737610999,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128677,
       "num": 128677,
       "word": "刘晓庆说迟到是去处理危机公关",
       "onboard_time": 1737559639,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126422,
+      "num": 126422,
+      "word": "围棋下出了搏击的感觉",
+      "onboard_time": 1737613518,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 126155,
@@ -1187,6 +1323,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 124086,
+      "num": 124086,
+      "word": "郑州下雪",
+      "onboard_time": 1737613399,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123910,
       "num": 123910,
       "word": "网红潘宏曾有刑事犯罪记录",
@@ -1209,6 +1353,14 @@
       "onboard_time": 1737602057,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 119358,
+      "num": 123994,
+      "word": "围棋教练俞斌说没办法",
+      "onboard_time": 1737613758,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 118160,
