@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737607192749,
+  "endTime": 1737609686542,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -747,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 995257,
+      "num": 403540,
+      "word": "柯洁陷入绝境",
+      "onboard_time": 1737607758,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 993865,
       "num": 416206,
       "word": "周受资代表TikTok感谢美国用户",
@@ -1107,6 +1115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 811908,
+      "num": 811908,
+      "word": "春晚一口气发了168小时视频",
+      "onboard_time": 1737605779,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 807988,
       "num": 323197,
       "word": "邪恶车厘子",
@@ -1177,6 +1193,14 @@
       "onboard_time": 1737222734,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 758067,
+      "num": 758067,
+      "word": "柯洁今日决胜局",
+      "onboard_time": 1737594498,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 754567,
@@ -1449,6 +1473,14 @@
       "onboard_time": 1737597438,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 632016,
+      "num": 632016,
+      "word": "迪丽热巴华丽珠宝ccd",
+      "onboard_time": 1737608299,
+      "rank": 7,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 626343,
@@ -2371,6 +2403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 449905,
+      "num": 409680,
+      "word": "蒋欣羽绒服",
+      "onboard_time": 1737605059,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 447749,
       "num": 383421,
       "word": "干中学",
@@ -2571,6 +2611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 413348,
+      "num": 294765,
+      "word": "何惟芳你根本没喝中药",
+      "onboard_time": 1737605838,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 412007,
       "num": 412007,
       "word": "雨雪或波及全国所有省份",
@@ -2587,28 +2635,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 409680,
-      "num": 409680,
-      "word": "蒋欣羽绒服",
-      "onboard_time": 1737605059,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 409412,
       "num": 409412,
       "word": "种地吧",
       "onboard_time": 1737600856,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 409304,
-      "num": 294765,
-      "word": "何惟芳你根本没喝中药",
-      "onboard_time": 1737605838,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 405472,
@@ -2841,14 +2873,6 @@
       "onboard_time": 1737439878,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 370391,
-      "num": 370391,
-      "word": "柯洁今日决胜局",
-      "onboard_time": 1737594498,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 368926,
@@ -3227,6 +3251,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 330039,
+      "num": 330039,
+      "word": "春晚农民工夫妇14年后仍买不起车",
+      "onboard_time": 1737605959,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 329854,
       "num": 243958,
       "word": "漂白热度",
@@ -3467,14 +3499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 304910,
-      "num": 294675,
-      "word": "春晚一口气发了168小时视频",
-      "onboard_time": 1737605779,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 303717,
       "num": 161359,
       "word": "严浩翔还没吃完就上台了",
@@ -3555,6 +3579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 299547,
+      "num": 285869,
+      "word": "李一桐下腰",
+      "onboard_time": 1737605478,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 298846,
       "num": 298846,
       "word": "刘昊然的电子大舅哥是尹正",
@@ -3619,14 +3651,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 294051,
-      "num": 294051,
-      "word": "春晚农民工夫妇14年后仍买不起车",
-      "onboard_time": 1737605959,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 292870,
       "num": 292870,
       "word": "网络春晚节目单",
@@ -3667,6 +3691,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 287207,
+      "num": 287207,
+      "word": "特朗普称拜登忘了赦免自己",
+      "onboard_time": 1737609138,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 287005,
       "num": 329927,
       "word": "徐梦桃世界杯夺冠",
@@ -3681,14 +3713,6 @@
       "onboard_time": 1737334218,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 285869,
-      "num": 285869,
-      "word": "李一桐下腰",
-      "onboard_time": 1737605478,
-      "rank": 33,
-      "category": "演出"
     },
     {
       "raw_hot": 285837,
@@ -3835,6 +3859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 278852,
+      "num": 278852,
+      "word": "李灿赫河智秀恋爱",
+      "onboard_time": 1737607579,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278648,
       "num": 278648,
       "word": "樊振东米兰到达",
@@ -3971,6 +4003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269235,
+      "num": 214227,
+      "word": "美国婴儿尝试中国婴儿食品",
+      "onboard_time": 1737607699,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 269066,
       "num": 256259,
       "word": "为什么韩国人冻死也要喝冰美式",
@@ -4019,6 +4059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 265134,
+      "num": 240985,
+      "word": "杨紫嘉人二月刊封面",
+      "onboard_time": 1737607758,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 264453,
       "num": 264453,
       "word": "蔡文姬蛇年限定皮肤",
@@ -4049,6 +4097,14 @@
       "onboard_time": 1737547158,
       "rank": 27,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 263286,
+      "num": 263286,
+      "word": "李子柒时尚芭莎封面预告",
+      "onboard_time": 1737608299,
+      "rank": 19,
+      "category": "时尚,网红"
     },
     {
       "raw_hot": 261784,
@@ -4451,6 +4507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240177,
+      "num": 240177,
+      "word": "王影璐异人之下2奥特曼式出场",
+      "onboard_time": 1737609018,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239344,
       "num": 239344,
       "word": "刘浩存首支全球广告",
@@ -4755,6 +4819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 220622,
+      "num": 220622,
+      "word": "柯洁形势不利",
+      "onboard_time": 1737607039,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220210,
       "num": 220210,
       "word": "异人之下 王也角色",
@@ -4891,6 +4963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213694,
+      "num": 213694,
+      "word": "00后女生回老家10分钟门口3辆车等相亲",
+      "onboard_time": 1737608178,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213615,
       "num": 195489,
       "word": "冰箱养活鱼只为过年吃口新鲜的",
@@ -4987,12 +5067,28 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 210310,
+      "num": 210310,
+      "word": "六姊妹3个人演了50年",
+      "onboard_time": 1737607400,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209520,
       "num": 209520,
       "word": "文韬心虚地说出了唯一的正确答案",
       "onboard_time": 1737265158,
       "rank": 25,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 209422,
+      "num": 209422,
+      "word": "南部档案",
+      "onboard_time": 1737609258,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 209293,
@@ -5289,6 +5385,14 @@
       "onboard_time": 1737606019,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 201909,
+      "num": 201909,
+      "word": "画江湖之不良人",
+      "onboard_time": 1737609080,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 201621,
@@ -5851,6 +5955,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 191536,
+      "num": 191536,
+      "word": "宇日俱曾",
+      "onboard_time": 1737609379,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191512,
       "num": 191512,
       "word": "孟子义说不出感谢坎坷这种话",
@@ -6259,6 +6371,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 181905,
+      "num": 251196,
+      "word": "国产品牌领跑2024中国手机市场",
+      "onboard_time": 1737609080,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 181777,
       "num": 181777,
       "word": "肖战单手上马",
@@ -6603,6 +6723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 174556,
+      "num": 174556,
+      "word": "听泉赏宝都翻不过来的钱币",
+      "onboard_time": 1737608659,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 174541,
       "num": 174541,
       "word": "谁家男主每集和狗飙戏",
@@ -6753,6 +6881,14 @@
       "onboard_time": 1737537139,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170155,
+      "num": 213803,
+      "word": "越剧我的大观园有多火",
+      "onboard_time": 1737608240,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 170120,
@@ -7329,6 +7465,14 @@
       "onboard_time": 1737371657,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159906,
+      "num": 159906,
+      "word": "蒋敦豪说周深淋过雨也会给朋友撑伞",
+      "onboard_time": 1737609500,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 159729,
@@ -8267,6 +8411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145751,
+      "num": 174780,
+      "word": "射雕群侠贺岁海报",
+      "onboard_time": 1737608240,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 145313,
       "num": 145313,
       "word": "中方回应是否邀请特朗普访华",
@@ -8361,6 +8513,14 @@
       "onboard_time": 1737333378,
       "rank": 27,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 144109,
+      "num": 248994,
+      "word": "连笑谈柯洁被判负",
+      "onboard_time": 1737608719,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 144033,
@@ -8491,6 +8651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 141378,
+      "num": 294804,
+      "word": "NewJeans募集组合新名称",
+      "onboard_time": 1737606198,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141373,
       "num": 141373,
       "word": "纽约美甲和美甲师都挺超前的",
@@ -8520,6 +8688,14 @@
       "word": "王嘉尔击剑",
       "onboard_time": 1737447377,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 140956,
+      "num": 140956,
+      "word": "张杰不知道啥是脆啵啵",
+      "onboard_time": 1737609619,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -9147,6 +9323,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 131507,
+      "num": 192547,
+      "word": "TikTok最快本周就在美运营达成协议",
+      "onboard_time": 1737609440,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 131443,
       "num": 145745,
       "word": "听见中国年",
@@ -9305,14 +9489,6 @@
       "onboard_time": 1737381379,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 129105,
-      "num": 294804,
-      "word": "NewJeans募集组合新名称",
-      "onboard_time": 1737606198,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 128849,
@@ -11787,6 +11963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87678,
+      "num": 174662,
+      "word": "徐振轩一个采访跪了好几次",
+      "onboard_time": 1737608420,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87533,
       "num": 87533,
       "word": "26岁渐冻症女生求助蔡磊",
@@ -12280,14 +12464,6 @@
       "word": "中国围棋协会回应柯洁被判负",
       "onboard_time": 1737562457,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 70156,
-      "num": 191762,
-      "word": "柯洁形势不利",
-      "onboard_time": 1737607039,
-      "rank": 28,
       "category": "体育"
     },
     {
@@ -13075,6 +13251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40317,
+      "num": 214493,
+      "word": "为数不多的心眼全用游戏上了",
+      "onboard_time": 1737608539,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 39811,
       "num": 163435,
       "word": "长安街红彤彤的灯笼已就位",
@@ -13561,6 +13745,14 @@
       "onboard_time": 1737320530,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25203,
+      "num": 254977,
+      "word": "编号17确认引进",
+      "onboard_time": 1737609440,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 24838,
