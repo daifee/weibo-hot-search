@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737637066769,
+  "endTime": 1737638834891,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1003,6 +1003,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 2262879,
+      "num": 2262879,
+      "word": "邓男子魔术 失败",
+      "onboard_time": 1737635839,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2256630,
       "num": 1634915,
       "word": "樊振东瘦成薄薄一片了",
@@ -1953,14 +1961,6 @@
       "onboard_time": 1736769859,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1674754,
-      "num": 1674754,
-      "word": "邓男子魔术 失败",
-      "onboard_time": 1737635839,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 1672015,

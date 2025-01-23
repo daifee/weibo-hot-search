@@ -1,6 +1,6 @@
 {
   "startTime": 1737563308947,
-  "endTime": 1737637066769,
+  "endTime": 1737638834891,
   "band_list": [
     {
       "raw_hot": 9461281,
@@ -19,20 +19,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2262879,
+      "num": 2262879,
+      "word": "邓男子魔术 失败",
+      "onboard_time": 1737635839,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1741684,
       "num": 1741684,
       "word": "中国代表团正在交涉",
       "onboard_time": 1737614179,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1674754,
-      "num": 1674754,
-      "word": "邓男子魔术 失败",
-      "onboard_time": 1737635839,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 1623594,
@@ -49,6 +49,14 @@
       "onboard_time": 1737603617,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1427155,
+      "num": 1427155,
+      "word": "柯洁微博备注改为世界围棋九冠王",
+      "onboard_time": 1737636261,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1406012,
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 911342,
-      "num": 404681,
+      "num": 422671,
       "word": "湖南卫视春晚",
       "onboard_time": 1737631698,
       "rank": 16,
@@ -459,12 +467,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 523547,
-      "num": 523547,
-      "word": "柯洁微博备注改为世界围棋九冠王",
-      "onboard_time": 1737636261,
-      "rank": 4,
-      "category": "体育"
+      "raw_hot": 538229,
+      "num": 299707,
+      "word": "文章马伊琍大女儿为妹妹庆生",
+      "onboard_time": 1737635898,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 521178,
@@ -473,6 +481,14 @@
       "onboard_time": 1737600436,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 514589,
+      "num": 514589,
+      "word": "王曼昱 MiuMiu",
+      "onboard_time": 1737636679,
+      "rank": 33,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 505599,
@@ -547,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 451710,
+      "num": 288703,
+      "word": "刘宇宁掉麦",
+      "onboard_time": 1737635539,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 450469,
       "num": 286999,
       "word": "虞书欣丁禹兮新春版剧照",
@@ -619,20 +643,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 400676,
-      "num": 288703,
-      "word": "刘宇宁掉麦",
-      "onboard_time": 1737635539,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 398206,
       "num": 398206,
       "word": "漂白",
       "onboard_time": 1737522800,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 394004,
+      "num": 220940,
+      "word": "老人买18万黄金不挑款店员火速报警",
+      "onboard_time": 1737636439,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 392063,
+      "num": 247644,
+      "word": "李现对杨紫喊紫啧喊上瘾了",
+      "onboard_time": 1737637460,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 389705,
@@ -665,14 +697,6 @@
       "onboard_time": 1737622160,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 364001,
-      "num": 229402,
-      "word": "文章马伊琍大女儿为妹妹庆生",
-      "onboard_time": 1737635898,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 358238,
@@ -715,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 338328,
+      "num": 285978,
+      "word": "哇唧唧哇年会终于有直播了",
+      "onboard_time": 1737634219,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 334192,
       "num": 264809,
       "word": "顾茜茜男友出车祸",
@@ -737,14 +769,6 @@
       "onboard_time": 1737593959,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 320938,
-      "num": 285978,
-      "word": "哇唧唧哇年会终于有直播了",
-      "onboard_time": 1737634219,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 312711,
@@ -832,6 +856,14 @@
       "word": "伽罗新皮肤最初的交响",
       "onboard_time": 1737593959,
       "rank": 11,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 285200,
+      "num": 216341,
+      "word": "福气码",
+      "onboard_time": 1737637699,
+      "rank": 25,
       "category": "游戏"
     },
     {
@@ -931,6 +963,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 259924,
+      "num": 215974,
+      "word": "李谷一回应缺席蛇年春晚",
+      "onboard_time": 1737636861,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 259217,
       "num": 243650,
       "word": "宇日俱曾",
@@ -1003,6 +1043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 245045,
+      "num": 214570,
+      "word": "赵雅芝 白蛇",
+      "onboard_time": 1737638240,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 242340,
       "num": 184758,
       "word": "蔡徐坤ins",
@@ -1059,6 +1107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 234044,
+      "num": 295731,
+      "word": "李云霄山东春晚逆光转身惊艳",
+      "onboard_time": 1737631877,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233675,
       "num": 211151,
       "word": "东方卫视蛇年春晚阵容",
@@ -1081,14 +1137,6 @@
       "onboard_time": 1737553939,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 225485,
-      "num": 295731,
-      "word": "李云霄山东春晚逆光转身惊艳",
-      "onboard_time": 1737631877,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 224576,
@@ -1235,11 +1283,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 206464,
+      "num": 206464,
+      "word": "无畏契约",
+      "onboard_time": 1737606019,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 206440,
       "num": 206440,
       "word": "文韬第一次cos给了王者",
       "onboard_time": 1737615380,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 206203,
+      "num": 206203,
+      "word": "田柾国魔术",
+      "onboard_time": 1737637999,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -1265,14 +1329,6 @@
       "onboard_time": 1737592878,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 201925,
-      "num": 201925,
-      "word": "无畏契约",
-      "onboard_time": 1737606019,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 201909,
@@ -1448,6 +1504,14 @@
       "word": "柯洁决赛因相同原因中断",
       "onboard_time": 1737618261,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 186707,
+      "num": 206260,
+      "word": "韩媒报道柯洁弃权具体情况",
+      "onboard_time": 1737637160,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -1643,14 +1707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 173969,
-      "num": 173969,
-      "word": "李谷一回应缺席蛇年春晚",
-      "onboard_time": 1737636861,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 171917,
       "num": 171917,
       "word": "家门口成狗公厕喷驱狗剂被索赔1万",
@@ -1715,14 +1771,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 166992,
-      "num": 166992,
-      "word": "老人买18万黄金不挑款店员火速报警",
-      "onboard_time": 1737636439,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 165982,
       "num": 165982,
       "word": "杨紫演完国色芳华看到了自己更多可能性",
@@ -1752,6 +1800,14 @@
       "word": "柯洁没有输",
       "onboard_time": 1737622580,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 164461,
+      "num": 187103,
+      "word": "聂卫平说柯洁退赛比较生猛",
+      "onboard_time": 1737636380,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -1883,6 +1939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149585,
+      "num": 149585,
+      "word": "红色是刘涛的统治区",
+      "onboard_time": 1737638600,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149255,
       "num": 334285,
       "word": "AppStore来微博一年啦",
@@ -1905,14 +1969,6 @@
       "onboard_time": 1737607881,
       "rank": 48,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 147906,
-      "num": 202159,
-      "word": "王曼昱 MiuMiu",
-      "onboard_time": 1737636679,
-      "rank": 33,
-      "category": "体育,时尚"
     },
     {
       "raw_hot": 147724,
@@ -1952,6 +2008,14 @@
       "word": "柯洁已经离开赛场",
       "onboard_time": 1737624080,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 146083,
+      "num": 146083,
+      "word": "斯瓦泰克vs凯斯",
+      "onboard_time": 1737637340,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -2025,6 +2089,14 @@
       "onboard_time": 1737599777,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143604,
+      "num": 143604,
+      "word": "肖战射雕直播look",
+      "onboard_time": 1737637279,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 142678,
@@ -2409,6 +2481,14 @@
       "onboard_time": 1737625037,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116404,
+      "num": 154040,
+      "word": "网传云南8岁女童已找到系谣言",
+      "onboard_time": 1737635839,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116244,
@@ -2851,6 +2931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68698,
+      "num": 917643,
+      "word": "春节期间入境游订单增超200%",
+      "onboard_time": 1737619399,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65796,
       "num": 90686,
       "word": "安娜晒与诺一霓娜合照",
@@ -2963,14 +3051,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47298,
-      "num": 150243,
-      "word": "网传云南8岁女童已找到系谣言",
-      "onboard_time": 1737635839,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 45349,
       "num": 45349,
       "word": "金价再次刷新历史新高",
@@ -2985,14 +3065,6 @@
       "onboard_time": 1737636319,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 42755,
-      "num": 538209,
-      "word": "春节期间入境游订单增超200%",
-      "onboard_time": 1737619399,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 41180,
@@ -3036,7 +3108,7 @@
     },
     {
       "raw_hot": 35363,
-      "num": 234196,
+      "num": 273065,
       "word": "咸阳2370年前就叫咸阳",
       "onboard_time": 1737635778,
       "rank": 28,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/23 20:57:46
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/23 21:27:14
 </p>
 </blockquote>
 <p>
@@ -765,6 +765,12 @@ TikTok停止在美服务（热度：2463156）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E7%94%B7%E5%AD%90%E9%AD%94%E6%9C%AF%20%E5%A4%B1%E8%B4%A5%23" target="weibo">
+邓男子魔术 失败（热度：2262879）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%98%A6%E6%88%90%E8%96%84%E8%96%84%E4%B8%80%E7%89%87%E4%BA%86%23" target="weibo">
 樊振东瘦成薄薄一片了（热度：2256630）
 </a>
@@ -1475,12 +1481,6 @@ TikTok难民来啦（热度：1761821）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E5%B0%BE%E5%8F%B70000000%E6%88%90%E4%BA%A4%E4%BB%B770%E4%B8%87%23" target="weibo">
 手机尾号0000000成交价70万（热度：1675295）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E7%94%B7%E5%AD%90%E9%AD%94%E6%9C%AF%20%E5%A4%B1%E8%B4%A5%23" target="weibo">
-邓男子魔术 失败（热度：1674754）
 </a>
 </li>
 
