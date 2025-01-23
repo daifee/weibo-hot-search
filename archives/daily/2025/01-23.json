@@ -1,6 +1,6 @@
 {
   "startTime": 1737563308947,
-  "endTime": 1737621665714,
+  "endTime": 1737624215011,
   "band_list": [
     {
       "raw_hot": 9461281,
@@ -59,6 +59,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1155305,
+      "num": 1155305,
+      "word": "金靖产后复出被男艺人朋友质疑",
+      "onboard_time": 1737621560,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1123452,
       "num": 1179752,
       "word": "12岁女孩和73岁阿婆地铁内抢座",
@@ -72,6 +80,14 @@
       "word": "柯洁质疑裁判",
       "onboard_time": 1737609679,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1083980,
+      "num": 1083980,
+      "word": "卞相壹不接受重赛",
+      "onboard_time": 1737619042,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -129,14 +145,6 @@
       "onboard_time": 1737615978,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 917069,
-      "num": 917069,
-      "word": "卞相壹不接受重赛",
-      "onboard_time": 1737619042,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 910451,
@@ -459,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 366606,
+      "num": 210120,
+      "word": "10月龄男婴一头栽进洗脚桶发生溺水",
+      "onboard_time": 1737622160,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 358238,
       "num": 390005,
       "word": "00后女生回老家10分钟门口3辆车等相亲",
@@ -513,6 +529,14 @@
       "onboard_time": 1737552679,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 312484,
+      "num": 524158,
+      "word": "今年冬天最强雨雪要来了",
+      "onboard_time": 1737616280,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 310840,
@@ -571,6 +595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 287545,
+      "num": 222072,
+      "word": "虞书欣丁禹兮网络视听盛典跳寄明月",
+      "onboard_time": 1737623238,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 278852,
       "num": 278852,
       "word": "李灿赫河智秀恋爱",
@@ -627,14 +659,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 269198,
-      "num": 524158,
-      "word": "今年冬天最强雨雪要来了",
-      "onboard_time": 1737616280,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 265134,
       "num": 240985,
       "word": "杨紫嘉人二月刊封面",
@@ -657,6 +681,14 @@
       "onboard_time": 1737615500,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 259815,
+      "num": 220124,
+      "word": "王鹤棣一口吃了一捆折耳根",
+      "onboard_time": 1737621020,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 259217,
@@ -697,6 +729,14 @@
       "onboard_time": 1737609978,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 250955,
+      "num": 216057,
+      "word": "东北菜会惩罚每个爱点菜的南方人",
+      "onboard_time": 1737620420,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 247159,
@@ -755,6 +795,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 232886,
+      "num": 218597,
+      "word": "日本棋协",
+      "onboard_time": 1737623539,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 231572,
       "num": 231572,
       "word": "虞书欣mike合照",
@@ -811,12 +859,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 216057,
-      "num": 216057,
-      "word": "东北菜会惩罚每个爱点菜的南方人",
-      "onboard_time": 1737620420,
-      "rank": 37,
-      "category": "情感"
+      "raw_hot": 216230,
+      "num": 223526,
+      "word": "始终把人民放在心上",
+      "onboard_time": 1737623179,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 212931,
@@ -833,14 +881,6 @@
       "onboard_time": 1737542959,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 211194,
-      "num": 211194,
-      "word": "王鹤棣一口吃了一捆折耳根",
-      "onboard_time": 1737621020,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 211137,
@@ -897,6 +937,14 @@
       "onboard_time": 1737558259,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 207361,
+      "num": 207361,
+      "word": "聂卫平指责韩方不尊重棋手劳动付出",
+      "onboard_time": 1737622219,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 206890,
@@ -1033,6 +1081,14 @@
       "onboard_time": 1737549738,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188597,
+      "num": 188597,
+      "word": "棋士连笑为柯洁发声",
+      "onboard_time": 1737621320,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 187724,
@@ -1275,6 +1331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164731,
+      "num": 164731,
+      "word": "柯洁没有输",
+      "onboard_time": 1737622580,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164370,
       "num": 158262,
       "word": "李晨说经常在健身房遇到王俊凯",
@@ -1347,14 +1411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 153441,
-      "num": 153441,
-      "word": "金靖产后复出被男艺人朋友质疑",
-      "onboard_time": 1737621560,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 152135,
       "num": 152135,
       "word": "再过5天就是除夕",
@@ -1371,12 +1427,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 151396,
-      "num": 151396,
-      "word": "棋士连笑为柯洁发声",
-      "onboard_time": 1737621320,
-      "rank": 37,
-      "category": "体育"
+      "raw_hot": 150334,
+      "num": 214721,
+      "word": "张家诚拍的杨紫",
+      "onboard_time": 1737619640,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 150216,
@@ -1441,6 +1497,14 @@
       "onboard_time": 1737559458,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 146422,
+      "num": 146422,
+      "word": "柯洁已经离开赛场",
+      "onboard_time": 1737624080,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 145751,
@@ -1513,14 +1577,6 @@
       "onboard_time": 1737599777,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142909,
-      "num": 142909,
-      "word": "张家诚拍的杨紫",
-      "onboard_time": 1737619640,
-      "rank": 38,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 142678,
@@ -1779,12 +1835,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 122499,
+      "num": 122499,
+      "word": "资深围棋裁判谈死子争议",
+      "onboard_time": 1737622459,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121626,
       "num": 121626,
       "word": "水龙吟将五平台同时播出",
       "onboard_time": 1737590656,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121511,
+      "num": 121511,
+      "word": "围棋世界冠军谈柯洁决赛争议",
+      "onboard_time": 1737622699,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 119492,
@@ -1817,6 +1889,14 @@
       "onboard_time": 1737601998,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 114828,
+      "num": 114828,
+      "word": "射雕英雄传预售超1.8亿",
+      "onboard_time": 1737621679,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 114267,
@@ -1875,6 +1955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109576,
+      "num": 109576,
+      "word": "柯洁到底是犯的什么规",
+      "onboard_time": 1737623838,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107153,
       "num": 107153,
       "word": "常华森 好的阿曦",
@@ -1900,7 +1988,7 @@
     },
     {
       "raw_hot": 104563,
-      "num": 991263,
+      "num": 1089531,
       "word": "央视经典之夜节目单公布",
       "onboard_time": 1737619220,
       "rank": 2,
@@ -1913,6 +2001,14 @@
       "onboard_time": 1737548057,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103427,
+      "num": 103427,
+      "word": "河南好大的雪花",
+      "onboard_time": 1737624019,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102107,
