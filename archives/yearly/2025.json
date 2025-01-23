@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737636149687,
+  "endTime": 1737637066769,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1955,6 +1955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1674754,
+      "num": 1674754,
+      "word": "邓男子魔术 失败",
+      "onboard_time": 1737635839,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1672015,
       "num": 1672015,
       "word": "美国网友涌入小红书交猫税",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736833518,
       "rank": 10,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1538021,
-      "num": 1061062,
-      "word": "假唱",
-      "onboard_time": 1735655966,
-      "rank": 10,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

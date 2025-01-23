@@ -1,0 +1,410 @@
+{
+  "runTime": 1737637066769,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1674754,
+        "num": 1674754,
+        "word": "邓男子魔术 失败",
+        "onboard_time": 1737635839,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 580044,
+        "num": 580044,
+        "word": "中国春节申遗只允许200个单词介绍",
+        "onboard_time": 1737627858,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 42755,
+        "num": 538209,
+        "word": "春节期间入境游订单增超200%",
+        "onboard_time": 1737619399,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1229201,
+        "num": 536828,
+        "word": "杨紫娜扎撞高定了",
+        "onboard_time": 1737626179,
+        "rank": 3,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 523547,
+        "num": 523547,
+        "word": "柯洁微博备注改为世界围棋九冠王",
+        "onboard_time": 1737636261,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 454589,
+        "num": 454589,
+        "word": "中国围棋协会第29届LG杯决赛声明",
+        "onboard_time": 1737629959,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 776661,
+        "num": 452356,
+        "word": "杜江霍思燕的珍珠获奖了",
+        "onboard_time": 1737634817,
+        "rank": 6,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 446868,
+        "num": 446868,
+        "word": "149.1吨洋垃圾过海关被查",
+        "onboard_time": 1737634577,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295771,
+        "num": 295771,
+        "word": "今年冬天最强雨雪要来了",
+        "onboard_time": 1737616280,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225485,
+        "num": 295731,
+        "word": "李云霄山东春晚逆光转身惊艳",
+        "onboard_time": 1737631877,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44030,
+        "num": 294641,
+        "word": "央视经典之夜",
+        "onboard_time": 1737635118,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 752087,
+        "num": 294156,
+        "word": "湖南卫视春晚",
+        "onboard_time": 1737631698,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 741783,
+        "num": 293580,
+        "word": "卞相壹手袖改变了棋子位置",
+        "onboard_time": 1737632719,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 554415,
+        "num": 292983,
+        "word": "射雕上映前最后一次主创齐聚",
+        "onboard_time": 1737630679,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 483791,
+        "num": 292014,
+        "word": "本手妙手俗手举手",
+        "onboard_time": 1737631038,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 417901,
+        "num": 291151,
+        "word": "漂白豆瓣开分6.0",
+        "onboard_time": 1737634219,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205247,
+        "num": 290845,
+        "word": "王者荣耀福气码",
+        "onboard_time": 1737625099,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 338256,
+        "num": 289672,
+        "word": "警方介入调解曹县一女子遭家暴",
+        "onboard_time": 1737629119,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1104749,
+        "num": 289212,
+        "word": "柯洁不比了",
+        "onboard_time": 1737617120,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 400676,
+        "num": 288703,
+        "word": "刘宇宁掉麦",
+        "onboard_time": 1737635539,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 519298,
+        "num": 287654,
+        "word": "日本棋协",
+        "onboard_time": 1737623539,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376413,
+        "num": 286999,
+        "word": "虞书欣丁禹兮新春版剧照",
+        "onboard_time": 1737631579,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 505599,
+        "num": 286678,
+        "word": "柯洁因判罚损失2亿韩元奖金",
+        "onboard_time": 1737633078,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320938,
+        "num": 285978,
+        "word": "哇唧唧哇年会终于有直播了",
+        "onboard_time": 1737634219,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43490,
+        "num": 284899,
+        "word": "孙颖莎王艺迪获新加坡大满贯女双外卡",
+        "onboard_time": 1737636319,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309749,
+        "num": 284099,
+        "word": "蒲熠星为柯洁不公平对待发声",
+        "onboard_time": 1737628278,
+        "rank": 25,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 284086,
+        "num": 284086,
+        "word": "王一博追风者登顶年度影响力影视剧",
+        "onboard_time": 1737626479,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277807,
+        "num": 277807,
+        "word": "湖南卫视春晚发节目单了",
+        "onboard_time": 1737602898,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228822,
+        "num": 228822,
+        "word": "柯洁质疑裁判",
+        "onboard_time": 1737609679,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222898,
+        "num": 222898,
+        "word": "潘宏暴力训狗是因科学观念缺失",
+        "onboard_time": 1737625519,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 364001,
+        "num": 218844,
+        "word": "文章马伊琍大女儿为妹妹庆生",
+        "onboard_time": 1737635898,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228225,
+        "num": 218045,
+        "word": "棋圣聂卫平女儿怒怼不陪你们玩了",
+        "onboard_time": 1737624978,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207613,
+        "num": 207613,
+        "word": "漂白",
+        "onboard_time": 1737626840,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147906,
+        "num": 202159,
+        "word": "王曼昱 MiuMiu",
+        "onboard_time": 1737636679,
+        "rank": 33,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 199145,
+        "num": 199145,
+        "word": "顾茜茜男友出车祸",
+        "onboard_time": 1737632837,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 194818,
+        "num": 194818,
+        "word": "梵樾死在了最想活的那一天",
+        "onboard_time": 1737636319,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191878,
+        "num": 191878,
+        "word": "西藏偶遇侯明昊王星越",
+        "onboard_time": 1737637039,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180787,
+        "num": 180787,
+        "word": "papi像柜姐一样售卖春晚节目",
+        "onboard_time": 1737634398,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180215,
+        "num": 180215,
+        "word": "梵樾终局",
+        "onboard_time": 1737633920,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173969,
+        "num": 173969,
+        "word": "李谷一回应缺席蛇年春晚",
+        "onboard_time": 1737636861,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17045,
+        "num": 168904,
+        "word": "王者荣耀年度国潮新名片",
+        "onboard_time": 1737635898,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166992,
+        "num": 166992,
+        "word": "老人买18万黄金不挑款店员火速报警",
+        "onboard_time": 1737636439,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162835,
+        "num": 162835,
+        "word": "ive一位",
+        "onboard_time": 1737630558,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157256,
+        "num": 157256,
+        "word": "GOT7PYTHON初舞台",
+        "onboard_time": 1737636498,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156236,
+        "num": 156236,
+        "word": "10月龄男婴一头栽进洗脚桶发生溺水",
+        "onboard_time": 1737622160,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47298,
+        "num": 150243,
+        "word": "网传云南8岁女童已找到系谣言",
+        "onboard_time": 1737635839,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127530,
+        "num": 147796,
+        "word": "老乡鸡造雪失败造成了彩虹",
+        "onboard_time": 1737633078,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146459,
+        "num": 146459,
+        "word": "周翊然这个腰",
+        "onboard_time": 1737634698,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145172,
+        "num": 145172,
+        "word": "李现不愧是学成归来",
+        "onboard_time": 1737635960,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142905,
+        "num": 142905,
+        "word": "封神西安路演姬发的刀又又又断了",
+        "onboard_time": 1737632538,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#深深牵挂暖人心#"
+    }
+  }
+}

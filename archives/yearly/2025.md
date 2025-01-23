@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/23 20:42:29
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/23 20:57:46
 </p>
 </blockquote>
 <p>
@@ -1479,6 +1479,12 @@ TikTok难民来啦（热度：1761821）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E7%94%B7%E5%AD%90%E9%AD%94%E6%9C%AF%20%E5%A4%B1%E8%B4%A5%23" target="weibo">
+邓男子魔术 失败（热度：1674754）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%BD%91%E5%8F%8B%E6%B6%8C%E5%85%A5%E5%B0%8F%E7%BA%A2%E4%B9%A6%E4%BA%A4%E7%8C%AB%E7%A8%8E%23" target="weibo">
 美国网友涌入小红书交猫税（热度：1672015）
 </a>
@@ -1805,12 +1811,6 @@ TikTok难民称中国网友非常热情（热度：1548219）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%94%9F%E8%82%B2%E5%B9%B4%E9%BE%84%23" target="weibo">
 黄金生育年龄（热度：1541716）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E5%94%B1%23" target="weibo">
-假唱（热度：1538021）
 </a>
 </li>
 
