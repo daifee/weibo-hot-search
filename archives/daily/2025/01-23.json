@@ -1,6 +1,6 @@
 {
   "startTime": 1737563308947,
-  "endTime": 1737631147203,
+  "endTime": 1737632151175,
   "band_list": [
     {
       "raw_hot": 9461281,
@@ -43,20 +43,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1406012,
+      "num": 1406012,
+      "word": "中国春节申遗只允许200个单词介绍",
+      "onboard_time": 1737627858,
+      "rank": 49,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 1344080,
       "num": 1344080,
       "word": "相思令 抠图",
       "onboard_time": 1737560837,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1332642,
-      "num": 1332642,
-      "word": "中国春节申遗只允许200个单词介绍",
-      "onboard_time": 1737627858,
-      "rank": 49,
-      "category": "正能量"
     },
     {
       "raw_hot": 1290331,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1201298,
-      "num": 250760,
+      "num": 272151,
       "word": "日本棋协",
       "onboard_time": 1737623539,
       "rank": 15,
@@ -219,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 867139,
+      "num": 323509,
+      "word": "中国围棋协会第29届LG杯决赛声明",
+      "onboard_time": 1737629959,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 863615,
       "num": 863615,
       "word": "春晚一口气发了168小时视频",
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 698229,
-      "num": 320298,
+      "num": 321736,
       "word": "潘宏暴力训狗是因科学观念缺失",
       "onboard_time": 1737625519,
       "rank": 11,
@@ -379,6 +387,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 557709,
+      "num": 1077304,
+      "word": "今年冬天最强雨雪要来了",
+      "onboard_time": 1737616280,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 552061,
       "num": 552061,
       "word": "留几手增重10公斤",
@@ -393,14 +409,6 @@
       "onboard_time": 1737603978,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 539840,
-      "num": 1077304,
-      "word": "今年冬天最强雨雪要来了",
-      "onboard_time": 1737616280,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 521178,
@@ -595,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 321696,
+      "num": 321696,
+      "word": "王一博追风者登顶年度影响力影视剧",
+      "onboard_time": 1737626479,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 321394,
       "num": 539088,
       "word": "过年前大降温多地降10摄氏度",
@@ -611,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 311933,
+      "num": 311933,
+      "word": "射雕上映前最后一次主创齐聚",
+      "onboard_time": 1737630679,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 310840,
       "num": 310840,
       "word": "李现樊振东原来是同担",
@@ -625,6 +649,14 @@
       "onboard_time": 1737560720,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 310029,
+      "num": 322905,
+      "word": "白月梵星",
+      "onboard_time": 1737629239,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 300686,
@@ -699,14 +731,6 @@
       "category": "综艺,体育"
     },
     {
-      "raw_hot": 277786,
-      "num": 321180,
-      "word": "王一博追风者登顶年度影响力影视剧",
-      "onboard_time": 1737626479,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 276042,
       "num": 209028,
       "word": "刘烨女儿13岁近照",
@@ -755,12 +779,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 268462,
-      "num": 268462,
-      "word": "中国围棋协会第29届LG杯决赛声明",
-      "onboard_time": 1737629959,
-      "rank": 13,
-      "category": "体育"
+      "raw_hot": 265613,
+      "num": 219795,
+      "word": "拒绝百万拆迁款的钉子户后悔了",
+      "onboard_time": 1737627020,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 265134,
@@ -809,14 +833,6 @@
       "onboard_time": 1737555921,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 254764,
-      "num": 179854,
-      "word": "拒绝百万拆迁款的钉子户后悔了",
-      "onboard_time": 1737627020,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 253640,
@@ -947,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223152,
+      "num": 223152,
+      "word": "湖南卫视春晚",
+      "onboard_time": 1737631698,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222485,
       "num": 222485,
       "word": "国新办介绍推动中长期资金入市",
@@ -971,14 +995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 220456,
-      "num": 220456,
-      "word": "白月梵星",
-      "onboard_time": 1737629239,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 218464,
       "num": 218464,
       "word": "河南一地要求理发店做空气检测",
@@ -993,6 +1009,14 @@
       "onboard_time": 1737623179,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 214706,
+      "num": 322470,
+      "word": "警方介入调解曹县一女子遭家暴",
+      "onboard_time": 1737629119,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 212931,
@@ -1017,6 +1041,14 @@
       "onboard_time": 1737625037,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211138,
+      "num": 211138,
+      "word": "本手妙手俗手举手",
+      "onboard_time": 1737631038,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 211137,
@@ -1139,6 +1171,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200145,
+      "num": 200145,
+      "word": "ive一位",
+      "onboard_time": 1737630558,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 199662,
+      "num": 199662,
+      "word": "射雕直播",
+      "onboard_time": 1737631157,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 199143,
       "num": 199143,
       "word": "易烊千玺参加小小的我研讨会",
@@ -1177,6 +1225,14 @@
       "onboard_time": 1737606500,
       "rank": 32,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 195404,
+      "num": 195404,
+      "word": "虞书欣丁禹兮新春版剧照",
+      "onboard_time": 1737631579,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 195312,
@@ -1347,6 +1403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178451,
+      "num": 178451,
+      "word": "漂白现在算口碑翻车吗",
+      "onboard_time": 1737630258,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178248,
       "num": 178248,
       "word": "蒋敦豪说周深淋过雨也会给朋友撑伞",
@@ -1433,14 +1497,6 @@
       "onboard_time": 1737610820,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 171133,
-      "num": 171133,
-      "word": "ive一位",
-      "onboard_time": 1737630558,
-      "rank": 33,
-      "category": "音乐"
     },
     {
       "raw_hot": 170720,
@@ -1555,14 +1611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162058,
-      "num": 162058,
-      "word": "漂白现在算口碑翻车吗",
-      "onboard_time": 1737630258,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 158990,
       "num": 137155,
       "word": "敖瑞鹏净渊出场镜头",
@@ -1593,14 +1641,6 @@
       "onboard_time": 1737615739,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156095,
-      "num": 156095,
-      "word": "警方介入调解曹县一女子遭家暴",
-      "onboard_time": 1737629119,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155410,
@@ -2099,6 +2139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121484,
+      "num": 121484,
+      "word": "接下来半个月说得最多的一句话",
+      "onboard_time": 1737630619,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119492,
       "num": 119492,
       "word": "俞敏洪谈孙东旭复播",
@@ -2137,14 +2185,6 @@
       "onboard_time": 1737625037,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 116778,
-      "num": 269771,
-      "word": "射雕上映前最后一次主创齐聚",
-      "onboard_time": 1737630679,
-      "rank": 10,
-      "category": "电影"
     },
     {
       "raw_hot": 116244,
@@ -2267,6 +2307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107649,
+      "num": 107649,
+      "word": "马龙穿大衣太有型了",
+      "onboard_time": 1737631157,
+      "rank": 43,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 107153,
       "num": 107153,
       "word": "常华森 好的阿曦",
@@ -2323,28 +2371,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 103435,
-      "num": 103435,
-      "word": "本手妙手俗手举手",
-      "onboard_time": 1737631038,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 102107,
       "num": 102107,
       "word": "吴清称大事不过年只争朝夕",
       "onboard_time": 1737600617,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 101810,
-      "num": 101810,
-      "word": "接下来半个月说得最多的一句话",
-      "onboard_time": 1737630619,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101752,
@@ -2387,6 +2419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97205,
+      "num": 97205,
+      "word": "张元英可爱表情管理",
+      "onboard_time": 1737631877,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96968,
       "num": 85224,
       "word": "周深这件衣服穿了多少年",
@@ -2409,6 +2449,14 @@
       "onboard_time": 1737547158,
       "rank": 38,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 92321,
+      "num": 92321,
+      "word": "萨巴伦卡冲击澳网三连冠",
+      "onboard_time": 1737631458,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 90850,
@@ -2449,6 +2497,14 @@
       "onboard_time": 1737597137,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 88285,
+      "num": 88285,
+      "word": "李云霄山东春晚逆光转身惊艳",
+      "onboard_time": 1737631877,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 88243,
@@ -2705,6 +2761,14 @@
       "onboard_time": 1737630679,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41135,
+      "num": 211865,
+      "word": "中围棋称将加强内部人员管理",
+      "onboard_time": 1737629840,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 40317,
