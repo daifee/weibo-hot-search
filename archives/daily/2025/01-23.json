@@ -1,6 +1,6 @@
 {
   "startTime": 1737563308947,
-  "endTime": 1737613828996,
+  "endTime": 1737614597859,
   "band_list": [
     {
       "raw_hot": 3564145,
@@ -235,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 505111,
+      "num": 387011,
+      "word": "柯洁再次出现失误",
+      "onboard_time": 1737611600,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 494842,
       "num": 492193,
       "word": "蒋长扬纳妾",
@@ -273,6 +281,14 @@
       "onboard_time": 1737605059,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 440891,
+      "num": 440891,
+      "word": "美国婴儿尝试中国婴儿食品",
+      "onboard_time": 1737607699,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 428450,
@@ -315,20 +331,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 377749,
-      "num": 377749,
-      "word": "美国婴儿尝试中国婴儿食品",
-      "onboard_time": 1737607699,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 374962,
       "num": 374962,
       "word": "韩媒称柯洁没能熟悉韩国规定",
       "onboard_time": 1737595877,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 358238,
+      "num": 390005,
+      "word": "00后女生回老家10分钟门口3辆车等相亲",
+      "onboard_time": 1737608178,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 351426,
@@ -353,14 +369,6 @@
       "onboard_time": 1737599657,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 324840,
-      "num": 324840,
-      "word": "柯洁再次出现失误",
-      "onboard_time": 1737611600,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 321394,
@@ -451,12 +459,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275567,
+      "num": 275567,
+      "word": "听泉赏宝都翻不过来的钱币",
+      "onboard_time": 1737608659,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 273211,
       "num": 273211,
       "word": "李子柒时尚芭莎封面预告",
       "onboard_time": 1737608299,
       "rank": 19,
       "category": "时尚,网红"
+    },
+    {
+      "raw_hot": 268829,
+      "num": 268829,
+      "word": "杨紫无眉造型",
+      "onboard_time": 1737613219,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 265134,
@@ -515,20 +539,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 249509,
-      "num": 390005,
-      "word": "00后女生回老家10分钟门口3辆车等相亲",
-      "onboard_time": 1737608178,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 247159,
       "num": 301291,
       "word": "范丞丞贾冰新片上火星",
       "onboard_time": 1737604998,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 246697,
+      "num": 275579,
+      "word": "拜登给特朗普留信全文曝光",
+      "onboard_time": 1737612679,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 242340,
@@ -563,12 +587,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 233201,
-      "num": 233201,
-      "word": "拜登给特朗普留信全文曝光",
-      "onboard_time": 1737612679,
-      "rank": 25,
-      "category": "国际时政"
+      "raw_hot": 231572,
+      "num": 231572,
+      "word": "虞书欣mike合照",
+      "onboard_time": 1737612499,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 227162,
@@ -595,6 +619,14 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 220811,
+      "num": 220811,
+      "word": "漂白编剧疑抄了记者笔误",
+      "onboard_time": 1737611478,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220622,
       "num": 220622,
       "word": "柯洁形势不利",
@@ -611,12 +643,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 214800,
-      "num": 214800,
-      "word": "虞书欣mike合照",
-      "onboard_time": 1737612499,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 216388,
+      "num": 207476,
+      "word": "陈奕迅春晚彩排与奥运冠军合唱孤勇者",
+      "onboard_time": 1737612798,
+      "rank": 28,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 212931,
@@ -699,14 +731,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 203673,
-      "num": 203673,
-      "word": "漂白编剧疑抄了记者笔误",
-      "onboard_time": 1737611478,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 203442,
       "num": 203442,
       "word": "中央气象台发布今年首个寒潮预警",
@@ -729,14 +753,6 @@
       "onboard_time": 1737609080,
       "rank": 35,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 200526,
-      "num": 200526,
-      "word": "陈奕迅春晚彩排与奥运冠军合唱孤勇者",
-      "onboard_time": 1737612798,
-      "rank": 28,
-      "category": "综艺,体育"
     },
     {
       "raw_hot": 198505,
@@ -763,6 +779,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 192656,
+      "num": 192656,
+      "word": "中国代表团正在交涉",
+      "onboard_time": 1737614179,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191362,
       "num": 153827,
       "word": "致1999年的自己定档了",
@@ -785,6 +809,14 @@
       "onboard_time": 1737549738,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189940,
+      "num": 189940,
+      "word": "围棋教练俞斌说没办法",
+      "onboard_time": 1737613758,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 187724,
@@ -825,14 +857,6 @@
       "onboard_time": 1737602417,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 180002,
-      "num": 180002,
-      "word": "杨紫无眉造型",
-      "onboard_time": 1737613219,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 179518,
@@ -899,14 +923,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 174556,
-      "num": 258696,
-      "word": "听泉赏宝都翻不过来的钱币",
-      "onboard_time": 1737608659,
-      "rank": 42,
-      "category": "网红"
-    },
-    {
       "raw_hot": 174037,
       "num": 174037,
       "word": "种地吧今天干个大工程",
@@ -915,12 +931,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171917,
+      "num": 171917,
+      "word": "家门口成狗公厕喷驱狗剂被索赔1万",
+      "onboard_time": 1737610820,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170720,
       "num": 170720,
       "word": "祝绪丹美得人眼前一亮又一亮",
       "onboard_time": 1737605538,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170266,
+      "num": 170266,
+      "word": "郑州下雪",
+      "onboard_time": 1737613399,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170155,
@@ -961,14 +993,6 @@
       "onboard_time": 1737551898,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 165153,
-      "num": 165153,
-      "word": "家门口成狗公厕喷驱狗剂被索赔1万",
-      "onboard_time": 1737610820,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 164370,
@@ -1115,6 +1139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144956,
+      "num": 144956,
+      "word": "业内人士解读韩国死子放棋盒盖规则",
+      "onboard_time": 1737614419,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144350,
       "num": 144350,
       "word": "一部剧800个网文梗",
@@ -1137,6 +1169,14 @@
       "onboard_time": 1737599777,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142678,
+      "num": 172334,
+      "word": "唐嫣菅纫姿同框梦回何以笙箫默",
+      "onboard_time": 1737613939,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 142140,
@@ -1211,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135543,
+      "num": 135543,
+      "word": "情侣骑行误入大货车盲区1死1重伤",
+      "onboard_time": 1737610999,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135097,
       "num": 135097,
       "word": "买二手车后得花4万5续费辅助驾驶",
@@ -1275,14 +1323,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 130630,
-      "num": 130630,
-      "word": "情侣骑行误入大货车盲区1死1重伤",
-      "onboard_time": 1737610999,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128677,
       "num": 128677,
       "word": "刘晓庆说迟到是去处理危机公关",
@@ -1291,8 +1331,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126869,
+      "num": 126869,
+      "word": "8岁女童在老师眼前遭欺凌殴打",
+      "onboard_time": 1737614538,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126422,
-      "num": 126422,
+      "num": 222178,
       "word": "围棋下出了搏击的感觉",
       "onboard_time": 1737613518,
       "rank": 47,
@@ -1323,14 +1371,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 124086,
-      "num": 124086,
-      "word": "郑州下雪",
-      "onboard_time": 1737613399,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 123910,
       "num": 123910,
       "word": "网红潘宏曾有刑事犯罪记录",
@@ -1355,14 +1395,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 119358,
-      "num": 123994,
-      "word": "围棋教练俞斌说没办法",
-      "onboard_time": 1737613758,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 118160,
       "num": 118160,
       "word": "美国加州发生新山火",
@@ -1385,6 +1417,14 @@
       "onboard_time": 1737557058,
       "rank": 32,
       "category": "正能量,互联网"
+    },
+    {
+      "raw_hot": 113319,
+      "num": 275598,
+      "word": "熊大熊二还原杨紫新剧表情包",
+      "onboard_time": 1737614119,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 113226,
@@ -1449,6 +1489,14 @@
       "onboard_time": 1737602958,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104875,
+      "num": 207479,
+      "word": "2025春节档预售票房破4亿",
+      "onboard_time": 1737614419,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 103953,
@@ -1745,6 +1793,14 @@
       "onboard_time": 1737588315,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58064,
+      "num": 214517,
+      "word": "中居正广退出娱乐圈",
+      "onboard_time": 1737611537,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 55820,
@@ -2049,6 +2105,14 @@
       "onboard_time": 1737573431,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 6627,
+      "num": 127566,
+      "word": "AppStore来微博一年啦",
+      "onboard_time": 1737614538,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 6020,
