@@ -1,6 +1,6 @@
 {
   "startTime": 1737563308947,
-  "endTime": 1737625131465,
+  "endTime": 1737627896277,
   "band_list": [
     {
       "raw_hot": 9461281,
@@ -35,6 +35,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1500054,
+      "num": 1500054,
+      "word": "杨紫娜扎撞高定了",
+      "onboard_time": 1737626179,
+      "rank": 0,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 1344080,
       "num": 1344080,
       "word": "相思令 抠图",
@@ -67,11 +75,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1179771,
+      "raw_hot": 1201298,
       "num": 218597,
       "word": "日本棋协",
       "onboard_time": 1737623539,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1199992,
+      "num": 174805,
+      "word": "棋协希望柯洁放下包袱努力拼搏",
+      "onboard_time": 1737625277,
+      "rank": 17,
       "category": "体育"
     },
     {
@@ -283,6 +299,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 630242,
+      "num": 278038,
+      "word": "韩国裁判宣布赛果现场",
+      "onboard_time": 1737624978,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 623669,
       "num": 623669,
       "word": "江西最强钉子户屋主发声",
@@ -296,6 +320,14 @@
       "word": "LG杯决胜局中断",
       "onboard_time": 1737610460,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 609944,
+      "num": 198503,
+      "word": "棋圣聂卫平女儿怒怼不陪你们玩了",
+      "onboard_time": 1737624978,
+      "rank": 10,
       "category": "体育"
     },
     {
@@ -313,6 +345,14 @@
       "onboard_time": 1737618080,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 573210,
+      "num": 185115,
+      "word": "潘宏暴力训狗是因科学观念缺失",
+      "onboard_time": 1737625519,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 560825,
@@ -387,14 +427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 465391,
-      "num": 198503,
-      "word": "棋圣聂卫平女儿怒怼不陪你们玩了",
-      "onboard_time": 1737624978,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 462509,
       "num": 281353,
       "word": "国色芳华大结局",
@@ -424,6 +456,14 @@
       "word": "春晚农民工夫妇14年后仍买不起车",
       "onboard_time": 1737605959,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 416213,
+      "num": 524158,
+      "word": "今年冬天最强雨雪要来了",
+      "onboard_time": 1737616280,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -547,14 +587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 312484,
-      "num": 524158,
-      "word": "今年冬天最强雨雪要来了",
-      "onboard_time": 1737616280,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 310840,
       "num": 310840,
       "word": "李现樊振东原来是同担",
@@ -611,8 +643,16 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 294505,
+      "num": 182767,
+      "word": "中国影史预售票房TOP15",
+      "onboard_time": 1737625037,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 287545,
-      "num": 222072,
+      "num": 282408,
       "word": "虞书欣丁禹兮网络视听盛典跳寄明月",
       "onboard_time": 1737623238,
       "rank": 11,
@@ -731,6 +771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 252934,
+      "num": 157196,
+      "word": "易烊千玺曾陷入停滞状态",
+      "onboard_time": 1737626659,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 252355,
       "num": 223128,
       "word": "沈春阳回应被叫邪恶车厘子",
@@ -811,6 +859,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 233675,
+      "num": 173455,
+      "word": "东方卫视蛇年春晚阵容",
+      "onboard_time": 1737625099,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 232821,
+      "num": 155398,
+      "word": "徐克为什么选肖战演郭靖",
+      "onboard_time": 1737625037,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 231572,
       "num": 231572,
       "word": "虞书欣mike合照",
@@ -825,14 +889,6 @@
       "onboard_time": 1737553939,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 224911,
-      "num": 175491,
-      "word": "韩国裁判宣布赛果现场",
-      "onboard_time": 1737624978,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 224576,
@@ -995,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 203259,
+      "num": 170518,
+      "word": "漂白",
+      "onboard_time": 1737522800,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201925,
       "num": 201925,
       "word": "无畏契约",
@@ -1105,6 +1169,14 @@
       "onboard_time": 1737621320,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188557,
+      "num": 287609,
+      "word": "西安低温灾害和雪灾风险预警来了",
+      "onboard_time": 1737625037,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187724,
@@ -1267,6 +1339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 174405,
+      "num": 155381,
+      "word": "聂卫平说这次决赛是围棋界的悲剧",
+      "onboard_time": 1737627258,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174037,
       "num": 174037,
       "word": "种地吧今天干个大工程",
@@ -1419,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155410,
+      "num": 155410,
+      "word": "射雕专属表情",
+      "onboard_time": 1737625217,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 154558,
       "num": 154558,
       "word": "肖战邀请电影人来重庆取景",
@@ -1427,12 +1515,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152749,
-      "num": 152749,
-      "word": "徐克为什么选肖战演郭靖",
-      "onboard_time": 1737625037,
-      "rank": 32,
-      "category": "电影"
+      "raw_hot": 152597,
+      "num": 152597,
+      "word": "杨紫说沈梦辰令歌劲儿是真大",
+      "onboard_time": 1737627679,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 152135,
@@ -1667,6 +1755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 139247,
+      "num": 155789,
+      "word": "向佐提小鹏X9现场上头再买一台",
+      "onboard_time": 1737625217,
+      "rank": 28,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 139179,
       "num": 193065,
       "word": "李周宪退伍",
@@ -1697,14 +1793,6 @@
       "onboard_time": 1737603438,
       "rank": 46,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 137188,
-      "num": 199591,
-      "word": "西安低温灾害和雪灾风险预警来了",
-      "onboard_time": 1737625037,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 137162,
@@ -1867,6 +1955,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 122585,
+      "num": 122585,
+      "word": "王一博追风者登顶年度影响力影视剧",
+      "onboard_time": 1737626479,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122499,
       "num": 124461,
       "word": "资深围棋裁判谈死子争议",
@@ -1875,12 +1971,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122085,
-      "num": 122085,
-      "word": "东方卫视蛇年春晚阵容",
-      "onboard_time": 1737625099,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 121841,
+      "num": 121841,
+      "word": "河南好大的雪花",
+      "onboard_time": 1737624019,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121626,
@@ -1899,14 +1995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120733,
-      "num": 120733,
-      "word": "河南好大的雪花",
-      "onboard_time": 1737624019,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119492,
       "num": 119492,
       "word": "俞敏洪谈孙东旭复播",
@@ -1921,14 +2009,6 @@
       "onboard_time": 1737601458,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118475,
-      "num": 118475,
-      "word": "中国影史预售票房TOP15",
-      "onboard_time": 1737625037,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 118160,
@@ -1961,6 +2041,14 @@
       "onboard_time": 1737625099,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 115336,
+      "num": 115336,
+      "word": "柯洁在俞斌的陪同下乘车离场",
+      "onboard_time": 1737627679,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 114828,
@@ -1996,7 +2084,7 @@
     },
     {
       "raw_hot": 112964,
-      "num": 112964,
+      "num": 162434,
       "word": "蒯曼获新加坡大满贯女单正赛提名",
       "onboard_time": 1737624978,
       "rank": 49,
@@ -2017,14 +2105,6 @@
       "onboard_time": 1737624978,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 110528,
-      "num": 110528,
-      "word": "漂白",
-      "onboard_time": 1737522800,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 109840,
@@ -2051,6 +2131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107903,
+      "num": 107903,
+      "word": "在中国待久了韩语都不利索了",
+      "onboard_time": 1737626420,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 107153,
       "num": 107153,
       "word": "常华森 好的阿曦",
@@ -2065,6 +2153,14 @@
       "onboard_time": 1737605179,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106821,
+      "num": 106821,
+      "word": "中国春节申遗只允许200个单词介绍",
+      "onboard_time": 1737627858,
+      "rank": 49,
+      "category": "正能量"
     },
     {
       "raw_hot": 105474,
@@ -2395,6 +2491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53815,
+      "num": 176045,
+      "word": "过年倒计时仅剩一只手的天数",
+      "onboard_time": 1737627560,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 51862,
       "num": 51862,
       "word": "肖战说为国为民才是侠之大者",
@@ -2609,6 +2713,14 @@
       "onboard_time": 1737565035,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 14184,
+      "num": 171207,
+      "word": "李现是十几年的美凌格",
+      "onboard_time": 1737626840,
+      "rank": 19,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 13324,
