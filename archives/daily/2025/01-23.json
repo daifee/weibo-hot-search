@@ -1,6 +1,6 @@
 {
   "startTime": 1737563308947,
-  "endTime": 1737643176314,
+  "endTime": 1737645841362,
   "band_list": [
     {
       "raw_hot": 9461281,
@@ -71,6 +71,14 @@
       "num": 1344080,
       "word": "相思令 抠图",
       "onboard_time": 1737560837,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1326304,
+      "num": 1326304,
+      "word": "青簪行",
+      "onboard_time": 1737644300,
       "rank": 0,
       "category": "剧集"
     },
@@ -259,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 845043,
+      "num": 463892,
+      "word": "柯洁因判罚损失2亿韩元奖金",
+      "onboard_time": 1737633078,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 843437,
       "num": 784709,
       "word": "李幼贞不能生育",
@@ -305,14 +321,6 @@
       "onboard_time": 1737603799,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 777027,
-      "num": 463892,
-      "word": "柯洁因判罚损失2亿韩元奖金",
-      "onboard_time": 1737633078,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 776661,
@@ -409,6 +417,14 @@
       "onboard_time": 1737601998,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 618680,
+      "num": 463341,
+      "word": "国色芳华第二季明年播出",
+      "onboard_time": 1737641720,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 618035,
@@ -539,14 +555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 494042,
-      "num": 463341,
-      "word": "国色芳华第二季明年播出",
-      "onboard_time": 1737641720,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 489488,
       "num": 489488,
       "word": "杨紫无眉造型",
@@ -568,6 +576,14 @@
       "word": "赵今麦00后的黑历史都是高清的",
       "onboard_time": 1737551539,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 476284,
+      "num": 235110,
+      "word": "央视提前官宣谭维维参加春晚",
+      "onboard_time": 1737641782,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -771,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 342666,
+      "num": 231983,
+      "word": "代露娃镜头下的常华森",
+      "onboard_time": 1737641840,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 334192,
       "num": 264809,
       "word": "顾茜茜男友出车祸",
@@ -785,14 +809,6 @@
       "onboard_time": 1737599657,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 323089,
-      "num": 197189,
-      "word": "央视提前官宣谭维维参加春晚",
-      "onboard_time": 1737641782,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 321394,
@@ -915,6 +931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 279307,
+      "num": 279307,
+      "word": "轩染",
+      "onboard_time": 1737644241,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 278852,
       "num": 278852,
       "word": "李灿赫河智秀恋爱",
@@ -1003,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 261106,
+      "num": 199097,
+      "word": "肖战练蒙语练成肌肉记忆",
+      "onboard_time": 1737642079,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 260241,
       "num": 260241,
       "word": "抖音集团将在北京市建三级医院",
@@ -1019,12 +1051,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 257055,
-      "num": 171008,
-      "word": "肖战练蒙语练成肌肉记忆",
-      "onboard_time": 1737642079,
-      "rank": 22,
-      "category": "电影"
+      "raw_hot": 257173,
+      "num": 230315,
+      "word": "田嘉瑞巴黎直播被冻哭",
+      "onboard_time": 1737644538,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 256394,
@@ -1187,6 +1219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230028,
+      "num": 230028,
+      "word": "叶永青抄袭赔偿500万并公开道歉",
+      "onboard_time": 1737643400,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227162,
       "num": 182727,
       "word": "闺蜜疤痕妊娠女子劝诫反被拉黑",
@@ -1225,14 +1265,6 @@
       "onboard_time": 1737607039,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 219991,
-      "num": 196924,
-      "word": "代露娃镜头下的常华森",
-      "onboard_time": 1737641840,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 218464,
@@ -1281,6 +1313,14 @@
       "onboard_time": 1737555739,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 211043,
+      "num": 196108,
+      "word": "时代少年团男儿歌",
+      "onboard_time": 1737645260,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 210596,
@@ -1411,6 +1451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202091,
+      "num": 202091,
+      "word": "多位棋手支持柯洁",
+      "onboard_time": 1737644600,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201909,
       "num": 201909,
       "word": "画江湖之不良人",
@@ -1459,6 +1507,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 197771,
+      "num": 197771,
+      "word": "农民工夫妇为救白血病女儿生三胎",
+      "onboard_time": 1737642979,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197452,
       "num": 261350,
       "word": "夏以昼 阴湿男",
@@ -1483,6 +1539,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 195326,
+      "num": 462330,
+      "word": "蓝忘机生贺图含羡量",
+      "onboard_time": 1737640820,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 195312,
       "num": 195312,
       "word": "不良人第七季定档",
@@ -1500,7 +1564,7 @@
     },
     {
       "raw_hot": 194055,
-      "num": 174462,
+      "num": 178867,
       "word": "时代少年团红红火火",
       "onboard_time": 1737639200,
       "rank": 48,
@@ -1577,6 +1641,14 @@
       "onboard_time": 1737621320,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188475,
+      "num": 188475,
+      "word": "陈都灵斗篷造型",
+      "onboard_time": 1737645080,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 187724,
@@ -1675,6 +1747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180668,
+      "num": 180668,
+      "word": "李幼贞苦果亦是果",
+      "onboard_time": 1737643999,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180585,
       "num": 180585,
       "word": "迪丽热巴和火锅的爱恨情仇",
@@ -1707,6 +1787,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 179442,
+      "num": 179442,
+      "word": "周震南哇唧唧哇抽奖抽到自己",
+      "onboard_time": 1737643940,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179315,
       "num": 179315,
       "word": "足金首饰价格突破830元每克",
@@ -1737,14 +1825,6 @@
       "onboard_time": 1737609500,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 177790,
-      "num": 462330,
-      "word": "蓝忘机生贺图含羡量",
-      "onboard_time": 1737640820,
-      "rank": 33,
-      "category": "动漫"
     },
     {
       "raw_hot": 177632,
@@ -2049,6 +2129,14 @@
       "onboard_time": 1737614779,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 151553,
+      "num": 151553,
+      "word": "韩媒称柯洁违规随后抗议比赛被暂停",
+      "onboard_time": 1737642620,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 150334,
@@ -2467,6 +2555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128454,
+      "num": 170102,
+      "word": "中围棋不接受LG杯第三局结果",
+      "onboard_time": 1737642139,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127638,
       "num": 127638,
       "word": "ChatGPT崩了",
@@ -2513,6 +2609,14 @@
       "onboard_time": 1737600976,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 125664,
+      "num": 125664,
+      "word": "刘雯道歉",
+      "onboard_time": 1737645799,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 124182,
@@ -2651,14 +2755,6 @@
       "category": "正能量,互联网"
     },
     {
-      "raw_hot": 113338,
-      "num": 113338,
-      "word": "韩媒称柯洁违规随后抗议比赛被暂停",
-      "onboard_time": 1737642620,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 113319,
       "num": 275598,
       "word": "熊大熊二还原杨紫新剧表情包",
@@ -2769,14 +2865,6 @@
       "onboard_time": 1737605179,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 105596,
-      "num": 170102,
-      "word": "中围棋不接受LG杯第三局结果",
-      "onboard_time": 1737642139,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 105474,
@@ -3147,6 +3235,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 61199,
+      "num": 195722,
+      "word": "中国棋手金禹丞曾在韩国被处罚",
+      "onboard_time": 1737645501,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59700,
       "num": 59700,
       "word": "巴黎圣日耳曼4比2曼城",
@@ -3235,6 +3331,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 43687,
+      "num": 360985,
+      "word": "千帆极轨06组卫星成功发射",
+      "onboard_time": 1737643999,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 43490,
       "num": 284899,
       "word": "孙颖莎王艺迪获新加坡大满贯女双外卡",
@@ -3265,6 +3369,14 @@
       "onboard_time": 1737629840,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40357,
+      "num": 136990,
+      "word": "此沙晒封神西岐全员拍立得",
+      "onboard_time": 1737645620,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 40317,
@@ -3451,20 +3563,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 18101,
-      "num": 167434,
-      "word": "农民工夫妇为救白血病女儿生三胎",
-      "onboard_time": 1737642979,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 17753,
       "num": 178081,
       "word": "中国航天逐梦九天",
       "onboard_time": 1737639379,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 16230,
+      "num": 205615,
+      "word": "河南瑞雪兆丰年",
+      "onboard_time": 1737645379,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15332,
@@ -3623,6 +3735,9 @@
     },
     {
       "word": "#习近平看望慰问受灾群众#"
+    },
+    {
+      "word": "#习近平走进受灾群众家中#"
     }
   ]
 }
