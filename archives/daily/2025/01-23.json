@@ -1,6 +1,6 @@
 {
   "startTime": 1737563308947,
-  "endTime": 1737620898310,
+  "endTime": 1737621665714,
   "band_list": [
     {
       "raw_hot": 9461281,
@@ -131,11 +131,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 917069,
+      "num": 917069,
+      "word": "卞相壹不接受重赛",
+      "onboard_time": 1737619042,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 910451,
       "num": 910451,
       "word": "柯洁今日决胜局",
       "onboard_time": 1737594498,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 905686,
+      "num": 434436,
+      "word": "棋圣聂卫平女儿发声",
+      "onboard_time": 1737619940,
+      "rank": 12,
       "category": "体育"
     },
     {
@@ -161,14 +177,6 @@
       "onboard_time": 1737560358,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 864118,
-      "num": 864118,
-      "word": "卞相壹不接受重赛",
-      "onboard_time": 1737619042,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 863615,
@@ -219,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 653989,
+      "num": 653989,
+      "word": "脱口秀女演员群封",
+      "onboard_time": 1737617901,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 648984,
       "num": 648984,
       "word": "李幼贞结婚",
@@ -265,14 +281,6 @@
       "onboard_time": 1737610460,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 607821,
-      "num": 607821,
-      "word": "脱口秀女演员群封",
-      "onboard_time": 1737617901,
-      "rank": 7,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 605728,
@@ -427,20 +435,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 401339,
-      "num": 401339,
-      "word": "棋圣聂卫平女儿发声",
-      "onboard_time": 1737619940,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 389705,
       "num": 389705,
       "word": "射雕进入中国影史预售票房TOP15",
       "onboard_time": 1737610820,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 380451,
+      "num": 380451,
+      "word": "围棋国手唐韦星发声",
+      "onboard_time": 1737619881,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 374962,
@@ -547,14 +555,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 298987,
-      "num": 298987,
-      "word": "围棋国手唐韦星发声",
-      "onboard_time": 1737619881,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 296540,
       "num": 296540,
       "word": "IU朴宝剑新剧预告片",
@@ -625,6 +625,14 @@
       "onboard_time": 1737614419,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 269198,
+      "num": 524158,
+      "word": "今年冬天最强雨雪要来了",
+      "onboard_time": 1737616280,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 265134,
@@ -803,6 +811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216057,
+      "num": 216057,
+      "word": "东北菜会惩罚每个爱点菜的南方人",
+      "onboard_time": 1737620420,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 212931,
       "num": 212931,
       "word": "张楚岚为冯宝宝算计了所有人",
@@ -819,12 +835,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 212661,
-      "num": 524158,
-      "word": "今年冬天最强雨雪要来了",
-      "onboard_time": 1737616280,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 211194,
+      "num": 211194,
+      "word": "王鹤棣一口吃了一捆折耳根",
+      "onboard_time": 1737621020,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 211137,
@@ -891,6 +907,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 206440,
+      "num": 206440,
+      "word": "文韬第一次cos给了王者",
+      "onboard_time": 1737615380,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204470,
       "num": 174794,
       "word": "国乒结束冬训",
@@ -931,6 +955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199143,
+      "num": 199143,
+      "word": "易烊千玺参加小小的我研讨会",
+      "onboard_time": 1737620902,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 198505,
       "num": 198505,
       "word": "外国网友迷上中国漫画",
@@ -961,14 +993,6 @@
       "onboard_time": 1737605419,
       "rank": 29,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 193828,
-      "num": 193828,
-      "word": "文韬第一次cos给了王者",
-      "onboard_time": 1737615380,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 193802,
@@ -1059,6 +1083,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 180585,
+      "num": 180585,
+      "word": "迪丽热巴和火锅的爱恨情仇",
+      "onboard_time": 1737621320,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 180401,
       "num": 180401,
       "word": "柯洁实时胜率接龙已不足1%",
@@ -1089,6 +1121,14 @@
       "onboard_time": 1737596777,
       "rank": 34,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 178785,
+      "num": 199520,
+      "word": "卞相壹0胜夺冠",
+      "onboard_time": 1737618801,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 178248,
@@ -1179,8 +1219,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 170234,
-      "num": 170234,
+      "raw_hot": 170479,
+      "num": 170479,
       "word": "刘晓庆再现武则天经典扮相",
       "onboard_time": 1737618681,
       "rank": 32,
@@ -1307,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153441,
+      "num": 153441,
+      "word": "金靖产后复出被男艺人朋友质疑",
+      "onboard_time": 1737621560,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152135,
       "num": 152135,
       "word": "再过5天就是除夕",
@@ -1321,6 +1369,14 @@
       "onboard_time": 1737614779,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 151396,
+      "num": 151396,
+      "word": "棋士连笑为柯洁发声",
+      "onboard_time": 1737621320,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 150216,
@@ -1395,6 +1451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145708,
+      "num": 145708,
+      "word": "汤唯带女儿国外度假",
+      "onboard_time": 1737618439,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145269,
       "num": 145269,
       "word": "孩子被护送绕160多道弯回到家",
@@ -1449,14 +1513,6 @@
       "onboard_time": 1737599777,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143649,
-      "num": 143649,
-      "word": "东北菜会惩罚每个爱点菜的南方人",
-      "onboard_time": 1737620420,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 142909,
@@ -1545,6 +1601,14 @@
       "onboard_time": 1737605419,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 137631,
+      "num": 137631,
+      "word": "杨紫沈梦辰国色姐妹花",
+      "onboard_time": 1737621201,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 137316,
@@ -1667,6 +1731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126158,
+      "num": 126158,
+      "word": "创4学员再看胡烨韬还是很感动",
+      "onboard_time": 1737621560,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126155,
       "num": 126155,
       "word": "工作室晒赵露思库存",
@@ -1705,14 +1777,6 @@
       "onboard_time": 1737518960,
       "rank": 31,
       "category": "网红"
-    },
-    {
-      "raw_hot": 122165,
-      "num": 122165,
-      "word": "汤唯带女儿国外度假",
-      "onboard_time": 1737618439,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 121626,
@@ -1835,6 +1899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104563,
+      "num": 991263,
+      "word": "央视经典之夜节目单公布",
+      "onboard_time": 1737619220,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103953,
       "num": 103953,
       "word": "难哄",
@@ -1905,14 +1977,6 @@
       "onboard_time": 1737590416,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 93186,
-      "num": 991263,
-      "word": "央视经典之夜节目单公布",
-      "onboard_time": 1737619220,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92336,
@@ -2219,6 +2283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34337,
+      "num": 246079,
+      "word": "菅纫姿晒与唐嫣合影",
+      "onboard_time": 1737617359,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31758,
       "num": 37369,
       "word": "外交部回应美计划对中国商品加征关税",
@@ -2313,14 +2385,6 @@
       "onboard_time": 1737572413,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 19535,
-      "num": 246079,
-      "word": "菅纫姿晒与唐嫣合影",
-      "onboard_time": 1737617359,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 19220,
@@ -2476,6 +2540,9 @@
     },
     {
       "word": "#深深牵挂暖人心#"
+    },
+    {
+      "word": "#习近平看望慰问受灾群众#"
     }
   ]
 }
