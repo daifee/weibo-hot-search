@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737606374572,
+  "endTime": 1737607192749,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -763,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 988394,
+      "num": 988394,
+      "word": "湖南卫视春晚发节目单了",
+      "onboard_time": 1737602898,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 979840,
       "num": 1156774,
       "word": "张雪峰称给公司350人发2000万年终奖",
@@ -809,6 +817,14 @@
       "onboard_time": 1737510678,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 961841,
+      "num": 961841,
+      "word": "双轨",
+      "onboard_time": 1737604038,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 959806,
@@ -1019,6 +1035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 843437,
+      "num": 784709,
+      "word": "李幼贞不能生育",
+      "onboard_time": 1737604399,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 840774,
       "num": 840774,
       "word": "艾特代露娃结果常华森回复了",
@@ -1107,6 +1131,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 788716,
+      "num": 788716,
+      "word": "小孩捐10元被工作人员说抠门",
+      "onboard_time": 1737603799,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 778944,
       "num": 1124631,
       "word": "杨紫李现晒何惟芳蒋长扬大婚照",
@@ -1147,14 +1179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 756351,
-      "num": 756351,
-      "word": "湖南卫视春晚发节目单了",
-      "onboard_time": 1737602898,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 754567,
       "num": 754567,
       "word": "小伙把梳子做成柿子形状卖了5万把",
@@ -1193,14 +1217,6 @@
       "onboard_time": 1737294019,
       "rank": 4,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 742099,
-      "num": 742099,
-      "word": "李幼贞不能生育",
-      "onboard_time": 1737604399,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 741676,
@@ -1280,14 +1296,6 @@
       "word": "日均接诊800人协和急诊说忙爆炸了",
       "onboard_time": 1737353538,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 698087,
-      "num": 698087,
-      "word": "小孩捐10元被工作人员说抠门",
-      "onboard_time": 1737603799,
-      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -1465,14 +1473,6 @@
       "onboard_time": 1737601998,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 621031,
-      "num": 621031,
-      "word": "双轨",
-      "onboard_time": 1737604038,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 618718,
@@ -1859,6 +1859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 539928,
+      "num": 539928,
+      "word": "柯洁猛揪头发",
+      "onboard_time": 1737603978,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 538888,
       "num": 538888,
       "word": "翔霖",
@@ -1913,14 +1921,6 @@
       "onboard_time": 1737262458,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 533766,
-      "num": 533766,
-      "word": "柯洁猛揪头发",
-      "onboard_time": 1737603978,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 531230,
@@ -2267,6 +2267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 466309,
+      "num": 466309,
+      "word": "张凌赫李昀锐一起吃饭",
+      "onboard_time": 1737605239,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 465879,
       "num": 465879,
       "word": "高铁座椅上的犄角到底是干啥的",
@@ -2443,14 +2451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 434914,
-      "num": 434914,
-      "word": "张凌赫李昀锐一起吃饭",
-      "onboard_time": 1737605239,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 432448,
       "num": 432448,
       "word": "B站回应员工植入恶意代码报复用户",
@@ -2587,12 +2587,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 409680,
+      "num": 409680,
+      "word": "蒋欣羽绒服",
+      "onboard_time": 1737605059,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 409412,
       "num": 409412,
       "word": "种地吧",
       "onboard_time": 1737600856,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 409304,
+      "num": 294765,
+      "word": "何惟芳你根本没喝中药",
+      "onboard_time": 1737605838,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 405472,
@@ -3451,6 +3467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 304910,
+      "num": 294675,
+      "word": "春晚一口气发了168小时视频",
+      "onboard_time": 1737605779,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 303717,
       "num": 161359,
       "word": "严浩翔还没吃完就上台了",
@@ -3539,14 +3563,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 298679,
-      "num": 298679,
-      "word": "蒋欣羽绒服",
-      "onboard_time": 1737605059,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 296789,
       "num": 376353,
       "word": "一听这些歌就知道快过年了",
@@ -3603,6 +3619,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 294051,
+      "num": 294051,
+      "word": "春晚农民工夫妇14年后仍买不起车",
+      "onboard_time": 1737605959,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 292870,
       "num": 292870,
       "word": "网络春晚节目单",
@@ -3657,6 +3681,14 @@
       "onboard_time": 1737334218,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 285869,
+      "num": 285869,
+      "word": "李一桐下腰",
+      "onboard_time": 1737605478,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 285837,
@@ -4291,6 +4323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 247159,
+      "num": 301291,
+      "word": "范丞丞贾冰新片上火星",
+      "onboard_time": 1737604998,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 246972,
       "num": 246972,
       "word": "周杰伦昆凌一家五口重回婚礼教堂",
@@ -4707,14 +4747,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 220730,
-      "num": 213414,
-      "word": "范丞丞贾冰新片上火星",
-      "onboard_time": 1737604998,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 220708,
       "num": 220708,
       "word": "Doinb解释TheShy选卡尔玛原因",
@@ -4857,14 +4889,6 @@
       "onboard_time": 1737284538,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 214248,
-      "num": 213015,
-      "word": "何惟芳你根本没喝中药",
-      "onboard_time": 1737605838,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 213615,
@@ -5259,6 +5283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 201925,
+      "num": 201925,
+      "word": "无畏契约",
+      "onboard_time": 1737606019,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 201621,
       "num": 201621,
       "word": "漂白好讽刺的四个人",
@@ -5419,14 +5451,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 197777,
-      "num": 194007,
-      "word": "春晚一口气发了168小时视频",
-      "onboard_time": 1737605779,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197705,
       "num": 197705,
       "word": "射雕英雄传影史国产片预售首日票房冠军",
@@ -5505,6 +5529,14 @@
       "onboard_time": 1737383359,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196500,
+      "num": 180643,
+      "word": "王俊凯小狗胸针",
+      "onboard_time": 1737606500,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 196220,
@@ -5769,14 +5801,6 @@
       "onboard_time": 1737465140,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 192294,
-      "num": 192294,
-      "word": "无畏契约",
-      "onboard_time": 1737606019,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 192270,
@@ -6571,14 +6595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174728,
-      "num": 174728,
-      "word": "李一桐下腰",
-      "onboard_time": 1737605478,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 174721,
       "num": 174721,
       "word": "聪明女人已经计划好哪天洗头了",
@@ -6617,6 +6633,14 @@
       "onboard_time": 1737273557,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 174037,
+      "num": 174037,
+      "word": "种地吧今天干个大工程",
+      "onboard_time": 1737605838,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 173576,
@@ -6715,6 +6739,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 170720,
+      "num": 170720,
+      "word": "祝绪丹美得人眼前一亮又一亮",
+      "onboard_time": 1737605538,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170565,
       "num": 170565,
       "word": "求给戚薇递一个古装剧本",
@@ -6769,14 +6801,6 @@
       "onboard_time": 1737439397,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 168779,
-      "num": 168779,
-      "word": "春晚农民工夫妇14年后仍买不起车",
-      "onboard_time": 1737605959,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 168710,
@@ -6849,14 +6873,6 @@
       "onboard_time": 1737274339,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 167572,
-      "num": 167572,
-      "word": "祝绪丹美得人眼前一亮又一亮",
-      "onboard_time": 1737605538,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 167538,
@@ -7227,6 +7243,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 162334,
+      "num": 162334,
+      "word": "朱开抵制Doinb发言",
+      "onboard_time": 1737606620,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 162184,
       "num": 162184,
       "word": "漂白年夜犯",
@@ -7249,14 +7273,6 @@
       "onboard_time": 1737349220,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 161353,
-      "num": 161353,
-      "word": "种地吧今天干个大工程",
-      "onboard_time": 1737605838,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 161277,
@@ -7392,6 +7408,14 @@
       "word": "谁家剧三主演不可能同框",
       "onboard_time": 1737271397,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 158990,
+      "num": 137155,
+      "word": "敖瑞鹏净渊出场镜头",
+      "onboard_time": 1737606918,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -8019,6 +8043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148314,
+      "num": 145235,
+      "word": "张杰唱歌只超过百分之66的网友",
+      "onboard_time": 1737606138,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148094,
       "num": 148094,
       "word": "我上班就哪吒这样",
@@ -8049,6 +8081,14 @@
       "onboard_time": 1737215959,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 147724,
+      "num": 147724,
+      "word": "小胖FMVP祥瑞亨通出山啦",
+      "onboard_time": 1737606738,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 147704,
@@ -8241,14 +8281,6 @@
       "onboard_time": 1737565815,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 145235,
-      "num": 145235,
-      "word": "张杰唱歌只超过百分之66的网友",
-      "onboard_time": 1737606138,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 145214,
@@ -8595,6 +8627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139487,
+      "num": 139487,
+      "word": "光与夜之恋",
+      "onboard_time": 1737606980,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 139147,
       "num": 139147,
       "word": "TikTok在美国使用实时画面曝光",
@@ -8659,6 +8699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 138028,
+      "num": 138028,
+      "word": "王者免费换全新传说皮",
+      "onboard_time": 1737605419,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 137995,
       "num": 137995,
       "word": "女子羡慕对面楼全是男人干家务",
@@ -8716,7 +8764,7 @@
     },
     {
       "raw_hot": 137316,
-      "num": 213595,
+      "num": 305668,
       "word": "余承东说各种问题都可以问小艺",
       "onboard_time": 1737603438,
       "rank": 46,
@@ -9257,6 +9305,14 @@
       "onboard_time": 1737381379,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129105,
+      "num": 294804,
+      "word": "NewJeans募集组合新名称",
+      "onboard_time": 1737606198,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 128849,
@@ -9985,6 +10041,14 @@
       "onboard_time": 1737422898,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 118160,
+      "num": 118160,
+      "word": "美国加州发生新山火",
+      "onboard_time": 1737607100,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 118143,
@@ -11291,6 +11355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100009,
+      "num": 554431,
+      "word": "官方回应孩子献爱心公益组织嫌少",
+      "onboard_time": 1737606378,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99618,
       "num": 99618,
       "word": "半熟恋人",
@@ -11369,14 +11441,6 @@
       "onboard_time": 1737272418,
       "rank": 24,
       "category": "电竞,体育"
-    },
-    {
-      "raw_hot": 97628,
-      "num": 156037,
-      "word": "NewJeans募集组合新名称",
-      "onboard_time": 1737606198,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 97566,
@@ -12219,6 +12283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70156,
+      "num": 191762,
+      "word": "柯洁形势不利",
+      "onboard_time": 1737607039,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70093,
       "num": 405316,
       "word": "过年回家被白象治愈了",
@@ -12308,7 +12380,7 @@
     },
     {
       "raw_hot": 66474,
-      "num": 946684,
+      "num": 968862,
       "word": "今年春节你被哪些年货硬控了",
       "onboard_time": 1737601458,
       "rank": 2,

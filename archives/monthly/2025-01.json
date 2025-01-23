@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737606374572,
+  "endTime": 1737607192749,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -5059,6 +5059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 988394,
+      "num": 988394,
+      "word": "湖南卫视春晚发节目单了",
+      "onboard_time": 1737602898,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 988199,
       "num": 609703,
       "word": "管乐",
@@ -5273,6 +5281,14 @@
       "onboard_time": 1735661546,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 961841,
+      "num": 961841,
+      "word": "双轨",
+      "onboard_time": 1737604038,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 961508,
@@ -6443,6 +6459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 843437,
+      "num": 784709,
+      "word": "李幼贞不能生育",
+      "onboard_time": 1737604399,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 842586,
       "num": 485908,
       "word": "唐嫣高定",
@@ -7059,6 +7083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 788716,
+      "num": 788716,
+      "word": "小孩捐10元被工作人员说抠门",
+      "onboard_time": 1737603799,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 788497,
       "num": 788497,
       "word": "女子给网友寄2箱酸奶险损失12.5万",
@@ -7499,14 +7531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 756351,
-      "num": 756351,
-      "word": "湖南卫视春晚发节目单了",
-      "onboard_time": 1737602898,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 755901,
       "num": 522007,
       "word": "秦霄贤姐姐回应辛雨锡",
@@ -7713,14 +7737,6 @@
       "onboard_time": 1737168076,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 742099,
-      "num": 742099,
-      "word": "李幼贞不能生育",
-      "onboard_time": 1737604399,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 741676,
@@ -8288,14 +8304,6 @@
       "word": "把19岁女乘客扔高速顺风车司机错在哪",
       "onboard_time": 1736216900,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 698087,
-      "num": 698087,
-      "word": "小孩捐10元被工作人员说抠门",
-      "onboard_time": 1737603799,
-      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -9697,14 +9705,6 @@
       "onboard_time": 1736318241,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 621031,
-      "num": 621031,
-      "word": "双轨",
-      "onboard_time": 1737604038,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 620993,
@@ -11499,6 +11499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 539928,
+      "num": 539928,
+      "word": "柯洁猛揪头发",
+      "onboard_time": 1737603978,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 539761,
       "num": 539761,
       "word": "红山动物园的厕所标志",
@@ -11633,14 +11641,6 @@
       "onboard_time": 1737262458,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 533766,
-      "num": 533766,
-      "word": "柯洁猛揪头发",
-      "onboard_time": 1737603978,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 532792,
@@ -13491,6 +13491,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 466309,
+      "num": 466309,
+      "word": "张凌赫李昀锐一起吃饭",
+      "onboard_time": 1737605239,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 465933,
       "num": 334564,
       "word": "国色芳华直播",
@@ -14579,14 +14587,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 434914,
-      "num": 434914,
-      "word": "张凌赫李昀锐一起吃饭",
-      "onboard_time": 1737605239,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 434706,
       "num": 392752,
       "word": "李昀锐嘟嘟嘴",
@@ -15499,12 +15499,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 409680,
+      "num": 409680,
+      "word": "蒋欣羽绒服",
+      "onboard_time": 1737605059,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 409412,
       "num": 409412,
       "word": "种地吧",
       "onboard_time": 1736684599,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 409304,
+      "num": 294765,
+      "word": "何惟芳你根本没喝中药",
+      "onboard_time": 1737605838,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 409266,
@@ -20643,6 +20659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304910,
+      "num": 294675,
+      "word": "春晚一口气发了168小时视频",
+      "onboard_time": 1737605779,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 304617,
       "num": 304617,
       "word": "檀健次绅士手扶虞书欣",
@@ -21099,14 +21123,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 298679,
-      "num": 298679,
-      "word": "蒋欣羽绒服",
-      "onboard_time": 1737605059,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 298538,
       "num": 298538,
       "word": "千朵桃花清冷佛子有脸了",
@@ -21417,6 +21433,14 @@
       "onboard_time": 1736420181,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 294051,
+      "num": 294051,
+      "word": "春晚农民工夫妇14年后仍买不起车",
+      "onboard_time": 1737605959,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 293997,
@@ -21921,6 +21945,14 @@
       "onboard_time": 1736861419,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 285869,
+      "num": 285869,
+      "word": "李一桐下腰",
+      "onboard_time": 1737605478,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 285837,
@@ -25099,6 +25131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 247159,
+      "num": 301291,
+      "word": "范丞丞贾冰新片上火星",
+      "onboard_time": 1737604998,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 247035,
       "num": 247035,
       "word": "特朗普就职典礼将安装48公里围栏",
@@ -27723,14 +27763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 220730,
-      "num": 213414,
-      "word": "范丞丞贾冰新片上火星",
-      "onboard_time": 1737604998,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 220708,
       "num": 220708,
       "word": "Doinb解释TheShy选卡尔玛原因",
@@ -28529,14 +28561,6 @@
       "onboard_time": 1736941518,
       "rank": 18,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 214248,
-      "num": 213015,
-      "word": "何惟芳你根本没喝中药",
-      "onboard_time": 1737605838,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 214241,
@@ -31747,14 +31771,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 197777,
-      "num": 194007,
-      "word": "春晚一口气发了168小时视频",
-      "onboard_time": 1737605779,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197771,
       "num": 197771,
       "word": "国债",
@@ -32113,6 +32129,14 @@
       "onboard_time": 1735861097,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 196500,
+      "num": 180643,
+      "word": "王俊凯小狗胸针",
+      "onboard_time": 1737606500,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 196496,
@@ -37259,14 +37283,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 174728,
-      "num": 174728,
-      "word": "李一桐下腰",
-      "onboard_time": 1737605478,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 174721,
       "num": 174721,
       "word": "聪明女人已经计划好哪天洗头了",
@@ -37401,6 +37417,14 @@
       "onboard_time": 1737172217,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174037,
+      "num": 174037,
+      "word": "种地吧今天干个大工程",
+      "onboard_time": 1737605838,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 174036,
@@ -38251,6 +38275,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 170720,
+      "num": 170720,
+      "word": "祝绪丹美得人眼前一亮又一亮",
+      "onboard_time": 1737605538,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170574,
       "num": 288580,
       "word": "被前男友泼汽油女子植皮12次",
@@ -38659,14 +38691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168779,
-      "num": 168779,
-      "word": "春晚农民工夫妇14年后仍买不起车",
-      "onboard_time": 1737605959,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 168739,
       "num": 168739,
       "word": "00后P人在路边办派对",
@@ -39017,14 +39041,6 @@
       "onboard_time": 1736948719,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 167572,
-      "num": 167572,
-      "word": "祝绪丹美得人眼前一亮又一亮",
-      "onboard_time": 1737605538,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 167541,
@@ -40371,6 +40387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 162334,
+      "num": 162334,
+      "word": "朱开抵制Doinb发言",
+      "onboard_time": 1737606620,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 162310,
       "num": 162310,
       "word": "内心强大的人有这4种特质",
@@ -40585,14 +40609,6 @@
       "onboard_time": 1736664739,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 161353,
-      "num": 161353,
-      "word": "种地吧今天干个大工程",
-      "onboard_time": 1737605838,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 161347,
@@ -41272,6 +41288,14 @@
       "word": "谁家剧三主演不可能同框",
       "onboard_time": 1737271397,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 158990,
+      "num": 137155,
+      "word": "敖瑞鹏净渊出场镜头",
+      "onboard_time": 1737606918,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -44035,6 +44059,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 148314,
+      "num": 145235,
+      "word": "张杰唱歌只超过百分之66的网友",
+      "onboard_time": 1737606138,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148309,
       "num": 148309,
       "word": "曝苹果最强芯片M4Ultra今年登场",
@@ -44209,6 +44241,14 @@
       "onboard_time": 1735960937,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147724,
+      "num": 147724,
+      "word": "小胖FMVP祥瑞亨通出山啦",
+      "onboard_time": 1737606738,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 147697,
@@ -44889,14 +44929,6 @@
       "onboard_time": 1737565815,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 145235,
-      "num": 145235,
-      "word": "张杰唱歌只超过百分之66的网友",
-      "onboard_time": 1737606138,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 145226,
@@ -46827,6 +46859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138028,
+      "num": 138028,
+      "word": "王者免费换全新传说皮",
+      "onboard_time": 1737605419,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 138020,
       "num": 425626,
       "word": "张本智和4比0格罗特",
@@ -47060,7 +47100,7 @@
     },
     {
       "raw_hot": 137316,
-      "num": 213595,
+      "num": 305668,
       "word": "余承东说各种问题都可以问小艺",
       "onboard_time": 1737603438,
       "rank": 46,
@@ -49529,6 +49569,14 @@
       "onboard_time": 1736335520,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 129105,
+      "num": 294804,
+      "word": "NewJeans募集组合新名称",
+      "onboard_time": 1737606198,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 129050,
@@ -52753,6 +52801,14 @@
       "onboard_time": 1735789101,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118160,
+      "num": 118160,
+      "word": "美国加州发生新山火",
+      "onboard_time": 1737607100,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 118143,
@@ -57523,6 +57579,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 100009,
+      "num": 554431,
+      "word": "官方回应孩子献爱心公益组织嫌少",
+      "onboard_time": 1737606378,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99866,
       "num": 533337,
       "word": "一诺预测AG零封",
@@ -57945,14 +58009,6 @@
       "onboard_time": 1737272418,
       "rank": 24,
       "category": "电竞,体育"
-    },
-    {
-      "raw_hot": 97628,
-      "num": 156037,
-      "word": "NewJeans募集组合新名称",
-      "onboard_time": 1737606198,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 97624,
@@ -61843,6 +61899,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 70156,
+      "num": 191762,
+      "word": "柯洁形势不利",
+      "onboard_time": 1737607039,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70093,
       "num": 405316,
       "word": "过年回家被白象治愈了",
@@ -62308,7 +62372,7 @@
     },
     {
       "raw_hot": 66474,
-      "num": 946684,
+      "num": 968862,
       "word": "今年春节你被哪些年货硬控了",
       "onboard_time": 1737601458,
       "rank": 2,

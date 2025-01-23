@@ -1,0 +1,410 @@
+{
+  "runTime": 1737607192749,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1586786,
+        "num": 1586786,
+        "word": "广东1岁男婴吃果冻窒息身亡",
+        "onboard_time": 1737603617,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 988394,
+        "num": 988394,
+        "word": "湖南卫视春晚发节目单了",
+        "onboard_time": 1737602898,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65063,
+        "num": 968862,
+        "word": "今年春节你被哪些年货硬控了",
+        "onboard_time": 1737601458,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 961841,
+        "num": 961841,
+        "word": "双轨",
+        "onboard_time": 1737604038,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 947676,
+        "num": 947676,
+        "word": "美国小哥警告中国不要学美国糟粕",
+        "onboard_time": 1737604159,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 788716,
+        "num": 788716,
+        "word": "小孩捐10元被工作人员说抠门",
+        "onboard_time": 1737603799,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 843437,
+        "num": 784709,
+        "word": "李幼贞不能生育",
+        "onboard_time": 1737604399,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 760604,
+        "num": 760604,
+        "word": "李昀锐新剧空降定档",
+        "onboard_time": 1737602117,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 666510,
+        "num": 666510,
+        "word": "徐州市税务局一办公地装修后10人患癌",
+        "onboard_time": 1737601998,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100009,
+        "num": 554431,
+        "word": "官方回应孩子献爱心公益组织嫌少",
+        "onboard_time": 1737606378,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 553640,
+        "num": 553640,
+        "word": "江西最强钉子户屋主发声",
+        "onboard_time": 1737601998,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 539928,
+        "num": 539928,
+        "word": "柯洁猛揪头发",
+        "onboard_time": 1737603978,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 466309,
+        "num": 466309,
+        "word": "张凌赫李昀锐一起吃饭",
+        "onboard_time": 1737605239,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413608,
+        "num": 413608,
+        "word": "白鹿演技",
+        "onboard_time": 1737589936,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 409680,
+        "num": 409680,
+        "word": "蒋欣羽绒服",
+        "onboard_time": 1737605059,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322141,
+        "num": 322141,
+        "word": "柯洁今日决胜局",
+        "onboard_time": 1737594498,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112303,
+        "num": 305668,
+        "word": "余承东说各种问题都可以问小艺",
+        "onboard_time": 1737603438,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 247159,
+        "num": 301291,
+        "word": "范丞丞贾冰新片上火星",
+        "onboard_time": 1737604998,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 297322,
+        "num": 297322,
+        "word": "花76万买房花60万装修",
+        "onboard_time": 1737592457,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129105,
+        "num": 294804,
+        "word": "NewJeans募集组合新名称",
+        "onboard_time": 1737606198,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409304,
+        "num": 294765,
+        "word": "何惟芳你根本没喝中药",
+        "onboard_time": 1737605838,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304910,
+        "num": 294675,
+        "word": "春晚一口气发了168小时视频",
+        "onboard_time": 1737605779,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294051,
+        "num": 294051,
+        "word": "春晚农民工夫妇14年后仍买不起车",
+        "onboard_time": 1737605959,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285869,
+        "num": 285869,
+        "word": "李一桐下腰",
+        "onboard_time": 1737605478,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204402,
+        "num": 204402,
+        "word": "每年新增保费的30%用于投资A股",
+        "onboard_time": 1737598036,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 274770,
+        "num": 203431,
+        "word": "种地吧",
+        "onboard_time": 1737600856,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231801,
+        "num": 203220,
+        "word": "央视boys一首歌全是易错字",
+        "onboard_time": 1737594678,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201925,
+        "num": 201925,
+        "word": "无畏契约",
+        "onboard_time": 1737606019,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 70156,
+        "num": 191762,
+        "word": "柯洁形势不利",
+        "onboard_time": 1737607039,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189483,
+        "num": 189483,
+        "word": "张楚岚为冯宝宝算计了所有人",
+        "onboard_time": 1737604819,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231169,
+        "num": 185847,
+        "word": "李菲儿 锅铲门",
+        "onboard_time": 1737600436,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222110,
+        "num": 181359,
+        "word": "李幼贞结婚",
+        "onboard_time": 1737592457,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196500,
+        "num": 180643,
+        "word": "王俊凯小狗胸针",
+        "onboard_time": 1737606500,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 176127,
+        "num": 176127,
+        "word": "12岁女孩和73岁阿婆地铁内抢座",
+        "onboard_time": 1737588375,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174037,
+        "num": 174037,
+        "word": "种地吧今天干个大工程",
+        "onboard_time": 1737605838,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170720,
+        "num": 170720,
+        "word": "祝绪丹美得人眼前一亮又一亮",
+        "onboard_time": 1737605538,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162334,
+        "num": 162334,
+        "word": "朱开抵制Doinb发言",
+        "onboard_time": 1737606620,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147724,
+        "num": 147724,
+        "word": "小胖FMVP祥瑞亨通出山啦",
+        "onboard_time": 1737606738,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139487,
+        "num": 139487,
+        "word": "光与夜之恋",
+        "onboard_time": 1737606980,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138028,
+        "num": 138028,
+        "word": "王者免费换全新传说皮",
+        "onboard_time": 1737605419,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170448,
+        "num": 137422,
+        "word": "newjeans成员声明",
+        "onboard_time": 1737599657,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158990,
+        "num": 137155,
+        "word": "敖瑞鹏净渊出场镜头",
+        "onboard_time": 1737606918,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148314,
+        "num": 137009,
+        "word": "张杰唱歌只超过百分之66的网友",
+        "onboard_time": 1737606138,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136706,
+        "num": 136706,
+        "word": "于适讲出了春运中的温情",
+        "onboard_time": 1737602237,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132809,
+        "num": 132809,
+        "word": "韩媒称柯洁没能熟悉韩国规定",
+        "onboard_time": 1737595877,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127007,
+        "num": 127007,
+        "word": "男子放慢吃饭速度10天瘦4斤",
+        "onboard_time": 1737593959,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126040,
+        "num": 126040,
+        "word": "iG投资人说Doinb伤害了iG粉丝",
+        "onboard_time": 1737602417,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123184,
+        "num": 123184,
+        "word": "李现樊振东原来是同担",
+        "onboard_time": 1737599417,
+        "rank": 47,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 121494,
+        "num": 121494,
+        "word": "8岁女童走失3天父亲悬赏百万寻人",
+        "onboard_time": 1737597438,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118160,
+        "num": 118160,
+        "word": "美国加州发生新山火",
+        "onboard_time": 1737607100,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在辽宁葫芦岛看望慰问受灾群众#"
+    }
+  }
+}
