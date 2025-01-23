@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737614597859,
+  "endTime": 1737616869242,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -11,8 +11,8 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 3564145,
-      "num": 3564145,
+      "raw_hot": 3939290,
+      "num": 3939290,
       "word": "柯洁暴怒问裁判",
       "onboard_time": 1737609679,
       "rank": 3,
@@ -193,6 +193,14 @@
       "onboard_time": 1737363078,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1646775,
+      "num": 1646775,
+      "word": "中国代表团正在交涉",
+      "onboard_time": 1737614179,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 1643035,
@@ -1299,6 +1307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 730434,
+      "num": 730434,
+      "word": "围棋教练俞斌说没办法",
+      "onboard_time": 1737613758,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 723770,
       "num": 723770,
       "word": "高铁遛娃舱来了",
@@ -1369,6 +1385,14 @@
       "onboard_time": 1737299900,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 683120,
+      "num": 683120,
+      "word": "郑州下雪",
+      "onboard_time": 1737613399,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 675486,
@@ -1481,6 +1505,14 @@
       "onboard_time": 1737277219,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 634675,
+      "num": 634675,
+      "word": "战鹰曝柯洁提出重赛",
+      "onboard_time": 1737614779,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 632806,
@@ -2027,6 +2059,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 518506,
+      "num": 518506,
+      "word": "Angelababy王安宇新剧将上线",
+      "onboard_time": 1737615978,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 517601,
       "num": 517601,
       "word": "樊振东即将出发米兰时装周",
@@ -2108,7 +2148,7 @@
     },
     {
       "raw_hot": 505111,
-      "num": 387011,
+      "num": 400972,
       "word": "柯洁再次出现失误",
       "onboard_time": 1737611600,
       "rank": 14,
@@ -2273,6 +2313,14 @@
       "onboard_time": 1737514458,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 471953,
+      "num": 471953,
+      "word": "杨紫无眉造型",
+      "onboard_time": 1737613219,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 470548,
@@ -2777,6 +2825,14 @@
       "onboard_time": 1737274818,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 391090,
+      "num": 391090,
+      "word": "拜登给特朗普留信全文曝光",
+      "onboard_time": 1737612679,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 389705,
@@ -3947,6 +4003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 276687,
+      "num": 276687,
+      "word": "中国棋协",
+      "onboard_time": 1737615319,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 275567,
       "num": 275567,
       "word": "听泉赏宝都翻不过来的钱币",
@@ -4051,6 +4115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 270737,
+      "num": 270737,
+      "word": "2025春节档预售票房破4亿",
+      "onboard_time": 1737614419,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 269399,
       "num": 278840,
       "word": "王源工作室直播",
@@ -4073,14 +4145,6 @@
       "onboard_time": 1737415876,
       "rank": 32,
       "category": "美食"
-    },
-    {
-      "raw_hot": 268829,
-      "num": 268829,
-      "word": "杨紫无眉造型",
-      "onboard_time": 1737613219,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 268637,
@@ -4233,6 +4297,14 @@
       "onboard_time": 1737558259,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 260241,
+      "num": 260241,
+      "word": "抖音集团将在北京市建三级医院",
+      "onboard_time": 1737615500,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 259217,
@@ -4475,14 +4547,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 246697,
-      "num": 275579,
-      "word": "拜登给特朗普留信全文曝光",
-      "onboard_time": 1737612679,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 246428,
       "num": 333277,
       "word": "人物2024年度女演员宋佳",
@@ -4529,6 +4593,14 @@
       "onboard_time": 1737436577,
       "rank": 19,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 242039,
+      "num": 242039,
+      "word": "禹宙中欣站姐打造应援卫星",
+      "onboard_time": 1737616158,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 241774,
@@ -5020,7 +5092,7 @@
     },
     {
       "raw_hot": 216388,
-      "num": 207476,
+      "num": 474984,
       "word": "陈奕迅春晚彩排与奥运冠军合唱孤勇者",
       "onboard_time": 1737612798,
       "rank": 28,
@@ -6003,20 +6075,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192799,
+      "num": 192799,
+      "word": "宠物狗遭偷找回时已被洗澡还驱虫",
+      "onboard_time": 1737615438,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192773,
       "num": 192773,
       "word": "NIP战胜iG",
       "onboard_time": 1737292401,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 192656,
-      "num": 192656,
-      "word": "中国代表团正在交涉",
-      "onboard_time": 1737614179,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 192638,
@@ -6217,14 +6289,6 @@
       "onboard_time": 1737367878,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189940,
-      "num": 189940,
-      "word": "围棋教练俞斌说没办法",
-      "onboard_time": 1737613758,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 189624,
@@ -6468,7 +6532,7 @@
     },
     {
       "raw_hot": 183176,
-      "num": 183176,
+      "num": 223303,
       "word": "钮承泽出狱",
       "onboard_time": 1737612439,
       "rank": 30,
@@ -6585,6 +6649,14 @@
       "onboard_time": 1737440718,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180531,
+      "num": 180531,
+      "word": "夏以昼 阴湿男",
+      "onboard_time": 1737615380,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 180210,
@@ -6721,6 +6793,14 @@
       "onboard_time": 1737514218,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177632,
+      "num": 177632,
+      "word": "KPL年度总决赛落地北京鸟巢",
+      "onboard_time": 1737615859,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 177399,
@@ -7065,14 +7145,6 @@
       "onboard_time": 1737537139,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 170266,
-      "num": 170266,
-      "word": "郑州下雪",
-      "onboard_time": 1737613399,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 170155,
@@ -7675,12 +7747,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159988,
+      "num": 159988,
+      "word": "8岁女童在老师眼前遭欺凌殴打",
+      "onboard_time": 1737614538,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159729,
       "num": 184934,
       "word": "和给你能量的人在一起",
       "onboard_time": 1737302538,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159715,
+      "num": 159715,
+      "word": "柯洁实时胜率接龙已不足1%",
+      "onboard_time": 1737614719,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 159695,
@@ -7955,6 +8043,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 156249,
+      "num": 156249,
+      "word": "2025网络视听盛典舞台宣传片",
+      "onboard_time": 1737615739,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156204,
       "num": 156204,
       "word": "马龙朋友圈也玩livephoto",
@@ -7985,6 +8081,14 @@
       "onboard_time": 1737456438,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155293,
+      "num": 155293,
+      "word": "今年冬天最强雨雪要来了",
+      "onboard_time": 1737616280,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155165,
@@ -8123,6 +8227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153014,
+      "num": 153014,
+      "word": "文韬第一次cos给了王者",
+      "onboard_time": 1737615380,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153005,
       "num": 153005,
       "word": "一顿饭做完冰箱干净多了",
@@ -8209,6 +8321,14 @@
       "onboard_time": 1737527840,
       "rank": 46,
       "category": "网红"
+    },
+    {
+      "raw_hot": 151553,
+      "num": 151553,
+      "word": "LG杯决胜局双方棋手再次离场",
+      "onboard_time": 1737614779,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 151505,
@@ -8363,6 +8483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 149255,
+      "num": 334285,
+      "word": "AppStore来微博一年啦",
+      "onboard_time": 1737614538,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 148883,
       "num": 162954,
       "word": "陈立农女孩七周年",
@@ -8497,6 +8625,14 @@
       "onboard_time": 1737598098,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147129,
+      "num": 147129,
+      "word": "战鹰说不骂人已经非常有素质了",
+      "onboard_time": 1737616820,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 147126,
@@ -9889,14 +10025,6 @@
       "onboard_time": 1737369737,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 126869,
-      "num": 126869,
-      "word": "8岁女童在老师眼前遭欺凌殴打",
-      "onboard_time": 1737614538,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126815,
@@ -11505,14 +11633,6 @@
       "onboard_time": 1737333198,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 104875,
-      "num": 207479,
-      "word": "2025春节档预售票房破4亿",
-      "onboard_time": 1737614419,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 104868,
@@ -14083,6 +14203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 24505,
+      "num": 208474,
+      "word": "这届高尔夫斩女又斩男",
+      "onboard_time": 1737614900,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 23861,
       "num": 31479,
       "word": "国补开启消费者捡漏时刻",
@@ -14737,14 +14865,6 @@
       "onboard_time": 1737573431,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 6627,
-      "num": 127566,
-      "word": "AppStore来微博一年啦",
-      "onboard_time": 1737614538,
-      "rank": 47,
-      "category": "互联网"
     },
     {
       "raw_hot": 6020,
