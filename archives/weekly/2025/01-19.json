@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737650612197,
+  "endTime": 1737652821397,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -3083,6 +3083,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 405773,
+      "num": 405773,
+      "word": "漂白 吓人",
+      "onboard_time": 1737649517,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 405472,
       "num": 405472,
       "word": "再上6天班就过年了",
@@ -5323,6 +5331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234321,
+      "num": 234321,
+      "word": "外国人已经快进到体验过年三件套了",
+      "onboard_time": 1737647358,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 234243,
       "num": 234243,
       "word": "车厘子是血糖友好型水果",
@@ -6073,14 +6089,6 @@
       "onboard_time": 1737637999,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 206138,
-      "num": 195861,
-      "word": "漂白 吓人",
-      "onboard_time": 1737649517,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 205916,
@@ -7857,14 +7865,6 @@
       "onboard_time": 1737501614,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 175555,
-      "num": 175555,
-      "word": "外国人已经快进到体验过年三件套了",
-      "onboard_time": 1737647358,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 175465,
@@ -13931,6 +13931,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 81573,
+      "num": 77010,
+      "word": "赵小童又是热血澎湃的一夜",
+      "onboard_time": 1737651676,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81379,
       "num": 112606,
       "word": "封神吴汉坤回应退圈创业",
@@ -14963,6 +14971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47487,
+      "num": 47487,
+      "word": "郁可唯王子异知否知否",
+      "onboard_time": 1737652633,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 47441,
       "num": 157265,
       "word": "王鹤棣台词爽文感",
@@ -15489,6 +15505,14 @@
       "onboard_time": 1737243074,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 29949,
+      "num": 74945,
+      "word": "朱广权东北话1秒切换粤语",
+      "onboard_time": 1737650957,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 29896,
@@ -16065,6 +16089,14 @@
       "onboard_time": 1737228731,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 16417,
+      "num": 75365,
+      "word": "加州又起大火超5万人接到疏散命令",
+      "onboard_time": 1737652574,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 15803,
