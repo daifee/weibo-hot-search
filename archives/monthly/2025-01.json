@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737671887361,
+  "endTime": 1737674471935,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -16163,6 +16163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 404305,
+      "num": 759133,
+      "word": "外国人已经快进到体验过年三件套了",
+      "onboard_time": 1737647358,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 403897,
       "num": 403897,
       "word": "国色芳华 昼夜转场",
@@ -27065,14 +27073,6 @@
       "onboard_time": 1736436262,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 234321,
-      "num": 234321,
-      "word": "外国人已经快进到体验过年三件套了",
-      "onboard_time": 1737647358,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 234285,
@@ -59691,6 +59691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98498,
+      "num": 98498,
+      "word": "柯洁说这辈子没受过这种委屈",
+      "onboard_time": 1737674354,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98489,
       "num": 336556,
       "word": "永远相信河南台审美",
@@ -63995,6 +64003,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 69540,
+      "num": 69540,
+      "word": "射雕英雄传影史预售票房最快破2亿",
+      "onboard_time": 1737674235,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 69524,
       "num": 363110,
       "word": "SpaceX星舰升空后飞船解体失联",
@@ -64465,6 +64481,14 @@
       "onboard_time": 1736081550,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 65326,
+      "num": 65326,
+      "word": "柯洁去年对申真谞也被裁判干扰",
+      "onboard_time": 1737674295,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 65319,
@@ -65377,6 +65401,14 @@
       "onboard_time": 1736377995,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 58688,
+      "num": 58688,
+      "word": "韩国贡献了零胜夺冠的闹剧",
+      "onboard_time": 1737674354,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 58663,
@@ -68563,6 +68595,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 39422,
+      "num": 39422,
+      "word": "国色芳华秦六郎小狗味",
+      "onboard_time": 1737672734,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 39385,
       "num": 54501,
       "word": "美国加州马利布市发布撤离警报",
@@ -68753,6 +68793,14 @@
       "onboard_time": 1736352979,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 38188,
+      "num": 38188,
+      "word": "国色芳华德塔文指数破3",
+      "onboard_time": 1737674295,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 38152,
@@ -69003,6 +69051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36951,
+      "num": 39526,
+      "word": "韩国媒体惋惜柯洁退赛",
+      "onboard_time": 1737674354,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36782,
       "num": 393760,
       "word": "门前三包二维码竟扫出内衣介绍",
@@ -69081,6 +69137,14 @@
       "onboard_time": 1735730903,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 36297,
+      "num": 36297,
+      "word": "麦琳在再见爱人小组发文",
+      "onboard_time": 1737672793,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 36281,
@@ -69545,6 +69609,14 @@
       "onboard_time": 1735885879,
       "rank": 25,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 33865,
+      "num": 33865,
+      "word": "杜淳王灿买年货",
+      "onboard_time": 1737671112,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 33853,
@@ -70049,6 +70121,14 @@
       "onboard_time": 1736146281,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31518,
+      "num": 75365,
+      "word": "加州又起大火超5万人接到疏散命令",
+      "onboard_time": 1737652574,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 31507,
@@ -71196,7 +71276,7 @@
     },
     {
       "raw_hot": 27002,
-      "num": 36592,
+      "num": 39666,
       "word": "萨巴伦卡守住世界第一",
       "onboard_time": 1737653653,
       "rank": 49,
@@ -71377,14 +71457,6 @@
       "onboard_time": 1737311352,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 25946,
-      "num": 75365,
-      "word": "加州又起大火超5万人接到疏散命令",
-      "onboard_time": 1737652574,
-      "rank": 28,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 25910,
@@ -71681,6 +71753,14 @@
       "onboard_time": 1737614900,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 24447,
+      "num": 39282,
+      "word": "柯洁未吃晚餐表示没胃口",
+      "onboard_time": 1737674295,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 24436,
@@ -73865,14 +73945,6 @@
       "onboard_time": 1736630050,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 13663,
-      "num": 22246,
-      "word": "杜淳王灿买年货",
-      "onboard_time": 1737671112,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 13659,
