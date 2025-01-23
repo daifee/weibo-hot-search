@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737674471935,
+  "endTime": 1737675350022,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -13515,6 +13515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 478232,
+      "num": 879034,
+      "word": "外国人已经快进到体验过年三件套了",
+      "onboard_time": 1737647358,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 478121,
       "num": 478121,
       "word": "樊振东阿玛尼合影C位",
@@ -16161,14 +16169,6 @@
       "onboard_time": 1737333257,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 404305,
-      "num": 759133,
-      "word": "外国人已经快进到体验过年三件套了",
-      "onboard_time": 1737647358,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 403897,
@@ -20977,6 +20977,14 @@
       "onboard_time": 1737636861,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 309258,
+      "num": 116201,
+      "word": "柯洁说这辈子没受过这种委屈",
+      "onboard_time": 1737674354,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 309107,
@@ -54899,6 +54907,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 117188,
+      "num": 117188,
+      "word": "射雕英雄传影史预售票房最快破2亿",
+      "onboard_time": 1737674235,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 117186,
       "num": 136138,
       "word": "平台回应女生拒绝绕路被扔高速路边",
@@ -57105,6 +57121,14 @@
       "onboard_time": 1735824141,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109766,
+      "num": 96187,
+      "word": "柯洁去年对申真谞也被裁判干扰",
+      "onboard_time": 1737674295,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 109762,
@@ -59635,6 +59659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98639,
+      "num": 62797,
+      "word": "韩国贡献了零胜夺冠的闹剧",
+      "onboard_time": 1737674354,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98601,
       "num": 265832,
       "word": "刘雨昕直播",
@@ -59688,14 +59720,6 @@
       "word": "和孙颖莎当队友是怎样的体验",
       "onboard_time": 1736344225,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 98498,
-      "num": 98498,
-      "word": "柯洁说这辈子没受过这种委屈",
-      "onboard_time": 1737674354,
-      "rank": 12,
       "category": "体育"
     },
     {
@@ -60001,6 +60025,14 @@
       "onboard_time": 1737103759,
       "rank": 47,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 96918,
+      "num": 96918,
+      "word": "侯明昊一年335天都在横店拍戏",
+      "onboard_time": 1737674534,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 96897,
@@ -61889,6 +61921,14 @@
       "onboard_time": 1737162618,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 84965,
+      "num": 84965,
+      "word": "洛阳迎来漫天大雪",
+      "onboard_time": 1737674475,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84796,
@@ -64003,14 +64043,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 69540,
-      "num": 69540,
-      "word": "射雕英雄传影史预售票房最快破2亿",
-      "onboard_time": 1737674235,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 69524,
       "num": 363110,
       "word": "SpaceX星舰升空后飞船解体失联",
@@ -64041,6 +64073,14 @@
       "onboard_time": 1737122298,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68963,
+      "num": 65867,
+      "word": "韩国媒体惋惜柯洁退赛",
+      "onboard_time": 1737674354,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 68793,
@@ -64481,14 +64521,6 @@
       "onboard_time": 1736081550,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 65326,
-      "num": 65326,
-      "word": "柯洁去年对申真谞也被裁判干扰",
-      "onboard_time": 1737674295,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 65319,
@@ -65187,6 +65219,14 @@
       "category": "体育,海外新闻"
     },
     {
+      "raw_hot": 60140,
+      "num": 60140,
+      "word": "四只警犬挨个被点名通报批评",
+      "onboard_time": 1737674475,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60122,
       "num": 60122,
       "word": "成都失联女大学生符合溺水死亡特征",
@@ -65401,14 +65441,6 @@
       "onboard_time": 1736377995,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 58688,
-      "num": 58688,
-      "word": "韩国贡献了零胜夺冠的闹剧",
-      "onboard_time": 1737674354,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 58663,
@@ -66587,12 +66619,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51398,
+      "num": 51398,
+      "word": "国色芳华德塔文指数破3",
+      "onboard_time": 1737674295,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 51375,
       "num": 85177,
       "word": "布伦特福德vs利物浦",
       "onboard_time": 1737220335,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51291,
+      "num": 49651,
+      "word": "国色芳华秦六郎小狗味",
+      "onboard_time": 1737672734,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 51282,
@@ -67379,6 +67427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 47163,
+      "num": 47163,
+      "word": "华晨宇演唱晨光里有你",
+      "onboard_time": 1737674594,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 47161,
       "num": 47161,
       "word": "爸爸抱着女儿转着转着长大了",
@@ -67955,6 +68011,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 43091,
+      "num": 43091,
+      "word": "陈丽君李云霄官宣加盟央视春戏晚",
+      "onboard_time": 1737675135,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 43080,
       "num": 97532,
       "word": "赵睿被驱逐",
@@ -68017,6 +68081,14 @@
       "onboard_time": 1735882460,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 42610,
+      "num": 42610,
+      "word": "麦琳在再见爱人小组发文",
+      "onboard_time": 1737672793,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 42535,
@@ -68273,6 +68345,14 @@
       "onboard_time": 1737630679,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41160,
+      "num": 41160,
+      "word": "连笑对柯洁说咱不受这委屈",
+      "onboard_time": 1737674235,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 41148,
@@ -68595,14 +68675,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 39422,
-      "num": 39422,
-      "word": "国色芳华秦六郎小狗味",
-      "onboard_time": 1737672734,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 39385,
       "num": 54501,
       "word": "美国加州马利布市发布撤离警报",
@@ -68793,14 +68865,6 @@
       "onboard_time": 1736352979,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 38188,
-      "num": 38188,
-      "word": "国色芳华德塔文指数破3",
-      "onboard_time": 1737674295,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 38152,
@@ -69051,14 +69115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 36951,
-      "num": 39526,
-      "word": "韩国媒体惋惜柯洁退赛",
-      "onboard_time": 1737674354,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 36782,
       "num": 393760,
       "word": "门前三包二维码竟扫出内衣介绍",
@@ -69137,14 +69193,6 @@
       "onboard_time": 1735730903,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 36297,
-      "num": 36297,
-      "word": "麦琳在再见爱人小组发文",
-      "onboard_time": 1737672793,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 36281,
@@ -69273,6 +69321,14 @@
       "onboard_time": 1736226864,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35557,
+      "num": 41126,
+      "word": "减肥正体态同时拿捏了",
+      "onboard_time": 1737675256,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 35455,

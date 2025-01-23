@@ -1,6 +1,6 @@
 {
   "startTime": 1737649694584,
-  "endTime": 1737674471935,
+  "endTime": 1737675350022,
   "band_list": [
     {
       "raw_hot": 2385266,
@@ -51,6 +51,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 478232,
+      "num": 879034,
+      "word": "外国人已经快进到体验过年三件套了",
+      "onboard_time": 1737647358,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 405773,
       "num": 405773,
       "word": "漂白 吓人",
@@ -59,20 +67,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 404305,
-      "num": 759133,
-      "word": "外国人已经快进到体验过年三件套了",
-      "onboard_time": 1737647358,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 388334,
       "num": 338207,
       "word": "杨紫娜扎撞高定了",
       "onboard_time": 1737626179,
       "rank": 7,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 309258,
+      "num": 116201,
+      "word": "柯洁说这辈子没受过这种委屈",
+      "onboard_time": 1737674354,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 307889,
@@ -91,7 +99,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 248321,
+      "raw_hot": 249935,
       "num": 350616,
       "word": "中国春节申遗只允许200个单词介绍",
       "onboard_time": 1737627858,
@@ -163,6 +171,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 182323,
+      "num": 131860,
+      "word": "杜江霍思燕的珍珠获奖了",
+      "onboard_time": 1737634817,
+      "rank": 33,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 177197,
       "num": 177197,
       "word": "田嘉瑞巴黎直播被冻哭",
@@ -219,14 +235,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 131860,
-      "num": 131860,
-      "word": "杜江霍思燕的珍珠获奖了",
-      "onboard_time": 1737634817,
-      "rank": 33,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 125243,
       "num": 125243,
       "word": "陈都灵斗篷造型",
@@ -251,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117188,
+      "num": 117188,
+      "word": "射雕英雄传影史预售票房最快破2亿",
+      "onboard_time": 1737674235,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 115469,
       "num": 115469,
       "word": "漂白",
@@ -265,6 +281,14 @@
       "onboard_time": 1737643940,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109766,
+      "num": 96187,
+      "word": "柯洁去年对申真谞也被裁判干扰",
+      "onboard_time": 1737674295,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 106253,
@@ -283,11 +307,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98498,
-      "num": 98498,
-      "word": "柯洁说这辈子没受过这种委屈",
+      "raw_hot": 99482,
+      "num": 99482,
+      "word": "叶永青抄袭赔偿500万并公开道歉",
+      "onboard_time": 1737643400,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98639,
+      "num": 62797,
+      "word": "韩国贡献了零胜夺冠的闹剧",
       "onboard_time": 1737674354,
-      "rank": 12,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -297,6 +329,14 @@
       "onboard_time": 1737631579,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96918,
+      "num": 96918,
+      "word": "侯明昊一年335天都在横店拍戏",
+      "onboard_time": 1737674534,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 96672,
@@ -315,11 +355,11 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 85141,
-      "num": 85141,
-      "word": "叶永青抄袭赔偿500万并公开道歉",
-      "onboard_time": 1737643400,
-      "rank": 42,
+      "raw_hot": 84965,
+      "num": 84965,
+      "word": "洛阳迎来漫天大雪",
+      "onboard_time": 1737674475,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -355,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73083,
+      "num": 68405,
+      "word": "日本棋协",
+      "onboard_time": 1737623539,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70403,
       "num": 70403,
       "word": "加州新爆发山火蔓延约1.9万人被疏散",
@@ -371,12 +419,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 69540,
-      "num": 69540,
-      "word": "射雕英雄传影史预售票房最快破2亿",
-      "onboard_time": 1737674235,
-      "rank": 18,
-      "category": "电影"
+      "raw_hot": 68963,
+      "num": 65867,
+      "word": "韩国媒体惋惜柯洁退赛",
+      "onboard_time": 1737674354,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 68759,
@@ -395,22 +443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 65326,
-      "num": 65326,
-      "word": "柯洁去年对申真谞也被裁判干扰",
-      "onboard_time": 1737674295,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 63870,
-      "num": 68405,
-      "word": "日本棋协",
-      "onboard_time": 1737623539,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 63343,
       "num": 65940,
       "word": "JDG对战OMG",
@@ -427,20 +459,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 60140,
+      "num": 60140,
+      "word": "四只警犬挨个被点名通报批评",
+      "onboard_time": 1737674475,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59984,
       "num": 65603,
       "word": "中国科学家世界首次记录到太空合声",
       "onboard_time": 1737640760,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 58688,
-      "num": 58688,
-      "word": "韩国贡献了零胜夺冠的闹剧",
-      "onboard_time": 1737674354,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 56978,
@@ -459,6 +491,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51398,
+      "num": 51398,
+      "word": "国色芳华德塔文指数破3",
+      "onboard_time": 1737674295,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 51291,
+      "num": 49651,
+      "word": "国色芳华秦六郎小狗味",
+      "onboard_time": 1737672734,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 49916,
       "num": 49916,
       "word": "刘宇宁掉麦",
@@ -475,20 +523,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 39422,
-      "num": 39422,
-      "word": "国色芳华秦六郎小狗味",
-      "onboard_time": 1737672734,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 47163,
+      "num": 47163,
+      "word": "华晨宇演唱晨光里有你",
+      "onboard_time": 1737674594,
+      "rank": 41,
+      "category": "综艺"
     },
     {
-      "raw_hot": 38188,
-      "num": 38188,
-      "word": "国色芳华德塔文指数破3",
-      "onboard_time": 1737674295,
+      "raw_hot": 43091,
+      "num": 43091,
+      "word": "陈丽君李云霄官宣加盟央视春戏晚",
+      "onboard_time": 1737675135,
       "rank": 44,
-      "category": "剧集"
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 42610,
+      "num": 42610,
+      "word": "麦琳在再见爱人小组发文",
+      "onboard_time": 1737672793,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 41160,
+      "num": 41160,
+      "word": "连笑对柯洁说咱不受这委屈",
+      "onboard_time": 1737674235,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 38187,
@@ -499,20 +563,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 36951,
-      "num": 39526,
-      "word": "韩国媒体惋惜柯洁退赛",
-      "onboard_time": 1737674354,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 36297,
-      "num": 36297,
-      "word": "麦琳在再见爱人小组发文",
-      "onboard_time": 1737672793,
-      "rank": 45,
-      "category": "艺人"
+      "raw_hot": 35557,
+      "num": 41126,
+      "word": "减肥正体态同时拿捏了",
+      "onboard_time": 1737675256,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 33865,

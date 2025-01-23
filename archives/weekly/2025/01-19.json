@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737674471935,
+  "endTime": 1737675350022,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -2587,6 +2587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 478232,
+      "num": 879034,
+      "word": "外国人已经快进到体验过年三件套了",
+      "onboard_time": 1737647358,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 478121,
       "num": 478121,
       "word": "樊振东阿玛尼合影C位",
@@ -3105,14 +3113,6 @@
       "onboard_time": 1737333257,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 404305,
-      "num": 759133,
-      "word": "外国人已经快进到体验过年三件套了",
-      "onboard_time": 1737647358,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 403078,
@@ -3985,6 +3985,14 @@
       "onboard_time": 1737636861,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 309258,
+      "num": 116201,
+      "word": "柯洁说这辈子没受过这种委屈",
+      "onboard_time": 1737674354,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 308395,
@@ -11907,6 +11915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117188,
+      "num": 117188,
+      "word": "射雕英雄传影史预售票房最快破2亿",
+      "onboard_time": 1737674235,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 117174,
       "num": 117174,
       "word": "荣耀中国区销售部部长郑树宝辞职",
@@ -12481,6 +12497,14 @@
       "onboard_time": 1737386898,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109766,
+      "num": 96187,
+      "word": "柯洁去年对申真谞也被裁判干扰",
+      "onboard_time": 1737674295,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 109711,
@@ -13299,11 +13323,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98498,
-      "num": 98498,
-      "word": "柯洁说这辈子没受过这种委屈",
+      "raw_hot": 98639,
+      "num": 62797,
+      "word": "韩国贡献了零胜夺冠的闹剧",
       "onboard_time": 1737674354,
-      "rank": 12,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -13393,6 +13417,14 @@
       "onboard_time": 1737252076,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 96918,
+      "num": 96918,
+      "word": "侯明昊一年335天都在横店拍戏",
+      "onboard_time": 1737674534,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 96897,
@@ -13825,6 +13857,14 @@
       "onboard_time": 1737374478,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84965,
+      "num": 84965,
+      "word": "洛阳迎来漫天大雪",
+      "onboard_time": 1737674475,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84521,
@@ -14323,12 +14363,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 69540,
-      "num": 69540,
-      "word": "射雕英雄传影史预售票房最快破2亿",
-      "onboard_time": 1737674235,
-      "rank": 18,
-      "category": "电影"
+      "raw_hot": 68963,
+      "num": 65867,
+      "word": "韩国媒体惋惜柯洁退赛",
+      "onboard_time": 1737674354,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 68472,
@@ -14401,14 +14441,6 @@
       "onboard_time": 1737465919,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 65326,
-      "num": 65326,
-      "word": "柯洁去年对申真谞也被裁判干扰",
-      "onboard_time": 1737674295,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 65233,
@@ -14571,19 +14603,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60140,
+      "num": 60140,
+      "word": "四只警犬挨个被点名通报批评",
+      "onboard_time": 1737674475,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59700,
       "num": 59700,
       "word": "巴黎圣日耳曼4比2曼城",
       "onboard_time": 1737588315,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 58688,
-      "num": 58688,
-      "word": "韩国贡献了零胜夺冠的闹剧",
-      "onboard_time": 1737674354,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -14819,12 +14851,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51398,
+      "num": 51398,
+      "word": "国色芳华德塔文指数破3",
+      "onboard_time": 1737674295,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 51375,
       "num": 85177,
       "word": "布伦特福德vs利物浦",
       "onboard_time": 1737220335,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51291,
+      "num": 49651,
+      "word": "国色芳华秦六郎小狗味",
+      "onboard_time": 1737672734,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 51265,
@@ -15019,6 +15067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 47163,
+      "num": 47163,
+      "word": "华晨宇演唱晨光里有你",
+      "onboard_time": 1737674594,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 46870,
       "num": 46870,
       "word": "成毅赴山海白发打戏花絮",
@@ -15107,6 +15163,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43091,
+      "num": 43091,
+      "word": "陈丽君李云霄官宣加盟央视春戏晚",
+      "onboard_time": 1737675135,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 42610,
+      "num": 42610,
+      "word": "麦琳在再见爱人小组发文",
+      "onboard_time": 1737672793,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 42501,
       "num": 282511,
       "word": "马龙李现同框米兰看秀",
@@ -15153,6 +15225,14 @@
       "onboard_time": 1737630679,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41160,
+      "num": 41160,
+      "word": "连笑对柯洁说咱不受这委屈",
+      "onboard_time": 1737674235,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 41148,
@@ -15235,14 +15315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 39422,
-      "num": 39422,
-      "word": "国色芳华秦六郎小狗味",
-      "onboard_time": 1737672734,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 39353,
       "num": 312185,
       "word": "长安街春节红灯笼已就位",
@@ -15273,14 +15345,6 @@
       "onboard_time": 1737398653,
       "rank": 24,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 38188,
-      "num": 38188,
-      "word": "国色芳华德塔文指数破3",
-      "onboard_time": 1737674295,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 37970,
@@ -15331,28 +15395,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 36951,
-      "num": 39526,
-      "word": "韩国媒体惋惜柯洁退赛",
-      "onboard_time": 1737674354,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 36588,
       "num": 1939740,
       "word": "2025亚冬会火种今日成功采集",
       "onboard_time": 1737381800,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 36297,
-      "num": 36297,
-      "word": "麦琳在再见爱人小组发文",
-      "onboard_time": 1737672793,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 36237,
@@ -15369,6 +15417,14 @@
       "onboard_time": 1737328814,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35557,
+      "num": 41126,
+      "word": "减肥正体态同时拿捏了",
+      "onboard_time": 1737675256,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 35455,
