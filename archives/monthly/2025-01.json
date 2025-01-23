@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737653855262,
+  "endTime": 1737657003143,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -71659,6 +71659,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 24531,
+      "num": 28432,
+      "word": "刘耀文红衣湖南春晚彩排",
+      "onboard_time": 1737656352,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 24505,
       "num": 227710,
       "word": "这届高尔夫斩女又斩男",
@@ -74833,6 +74841,14 @@
       "onboard_time": 1737568633,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 7852,
+      "num": 75313,
+      "word": "2025年票房破20亿",
+      "onboard_time": 1737656233,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 7760,

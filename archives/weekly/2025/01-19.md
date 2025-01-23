@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/19 00:24:27 ~ 2025/01/24 01:37:35
+本榜单时间：2025/01/19 00:24:27 ~ 2025/01/24 02:30:03
 </p>
 </blockquote>
 <p>
@@ -11835,6 +11835,12 @@ chiikawa乌萨奇角色介绍（热度：29229）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E7%BA%A2%E8%A1%A3%E6%B9%96%E5%8D%97%E6%98%A5%E6%99%9A%E5%BD%A9%E6%8E%92%23" target="weibo">
+刘耀文红衣湖南春晚彩排（热度：24531）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%8A%E9%AB%98%E5%B0%94%E5%A4%AB%E6%96%A9%E5%A5%B3%E5%8F%88%E6%96%A9%E7%94%B7%23" target="weibo">
 这届高尔夫斩女又斩男（热度：24505）
 </a>
@@ -12365,6 +12371,12 @@ Doinb使用Tian冠军皮肤（热度：8717）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%98%9F%E5%9B%9E%E9%81%87%E8%A7%81%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%98%A5%E5%A4%A9%23" target="weibo">
 沈星回遇见下一个春天（热度：8052）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232025%E5%B9%B4%E7%A5%A8%E6%88%BF%E7%A0%B420%E4%BA%BF%23" target="weibo">
+2025年票房破20亿（热度：7852）
 </a>
 </li>
 
