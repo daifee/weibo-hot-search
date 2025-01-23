@@ -1,0 +1,410 @@
+{
+  "runTime": 1737620898310,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9461281,
+        "num": 9461281,
+        "word": "柯洁不比了",
+        "onboard_time": 1737617120,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1101489,
+        "num": 1101489,
+        "word": "柯洁质疑裁判",
+        "onboard_time": 1737609679,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93186,
+        "num": 991263,
+        "word": "央视经典之夜节目单公布",
+        "onboard_time": 1737619220,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 981624,
+        "num": 981624,
+        "word": "中国代表团正在交涉",
+        "onboard_time": 1737614179,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 864118,
+        "num": 864118,
+        "word": "卞相壹不接受重赛",
+        "onboard_time": 1737619042,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 794811,
+        "num": 794811,
+        "word": "Angelababy王安宇新剧将上线",
+        "onboard_time": 1737615978,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 669139,
+        "num": 669139,
+        "word": "中国棋协",
+        "onboard_time": 1737615319,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 607821,
+        "num": 607821,
+        "word": "脱口秀女演员群封",
+        "onboard_time": 1737617901,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 582965,
+        "num": 582965,
+        "word": "零胜冠军",
+        "onboard_time": 1737618080,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212661,
+        "num": 524158,
+        "word": "今年冬天最强雨雪要来了",
+        "onboard_time": 1737616280,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 477494,
+        "num": 477494,
+        "word": "湖南卫视春晚发节目单了",
+        "onboard_time": 1737602898,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438114,
+        "num": 438114,
+        "word": "围棋教练俞斌说没办法",
+        "onboard_time": 1737613758,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 401339,
+        "num": 401339,
+        "word": "棋圣聂卫平女儿发声",
+        "onboard_time": 1737619940,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 382840,
+        "num": 382840,
+        "word": "郑州下雪",
+        "onboard_time": 1737613399,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357100,
+        "num": 357100,
+        "word": "本届LG杯冠军奖金3亿韩元",
+        "onboard_time": 1737618020,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 312514,
+        "num": 312514,
+        "word": "杨紫无眉造型",
+        "onboard_time": 1737613219,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298987,
+        "num": 298987,
+        "word": "围棋国手唐韦星发声",
+        "onboard_time": 1737619881,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241480,
+        "num": 276405,
+        "word": "春晚一口气发了168小时视频",
+        "onboard_time": 1737605779,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274489,
+        "num": 274489,
+        "word": "8岁女童在老师眼前遭欺凌殴打",
+        "onboard_time": 1737614538,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19535,
+        "num": 246079,
+        "word": "菅纫姿晒与唐嫣合影",
+        "onboard_time": 1737617359,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240488,
+        "num": 240488,
+        "word": "卞相壹夺冠",
+        "onboard_time": 1737617541,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237787,
+        "num": 237787,
+        "word": "射雕进入中国影史预售票房TOP15",
+        "onboard_time": 1737610820,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 230829,
+        "num": 230829,
+        "word": "战鹰曝柯洁提出重赛",
+        "onboard_time": 1737614779,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217762,
+        "num": 217762,
+        "word": "拜登给特朗普留信全文曝光",
+        "onboard_time": 1737612679,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 184582,
+        "num": 197668,
+        "word": "汤家凤直批年轻人该玩时装努力",
+        "onboard_time": 1737620301,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 193828,
+        "num": 193828,
+        "word": "文韬第一次cos给了王者",
+        "onboard_time": 1737615380,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193802,
+        "num": 193802,
+        "word": "我国成功发射千帆极轨06组卫星",
+        "onboard_time": 1737619280,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 179444,
+        "num": 179444,
+        "word": "小孩捐10元被工作人员说抠门",
+        "onboard_time": 1737603799,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176290,
+        "num": 176290,
+        "word": "特朗普称拜登忘了赦免自己",
+        "onboard_time": 1737609138,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 175801,
+        "num": 175801,
+        "word": "迪丽热巴华丽珠宝ccd",
+        "onboard_time": 1737608299,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 204470,
+        "num": 174794,
+        "word": "国乒结束冬训",
+        "onboard_time": 1737619940,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186856,
+        "num": 173838,
+        "word": "柯洁决赛因相同原因中断",
+        "onboard_time": 1737618261,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170234,
+        "num": 170234,
+        "word": "刘晓庆再现武则天经典扮相",
+        "onboard_time": 1737618681,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167595,
+        "num": 167595,
+        "word": "抖音集团将在北京市建三级医院",
+        "onboard_time": 1737615500,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 160038,
+        "num": 160038,
+        "word": "2025春节档预售票房破4亿",
+        "onboard_time": 1737614419,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154558,
+        "num": 154558,
+        "word": "肖战邀请电影人来重庆取景",
+        "onboard_time": 1737620660,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147397,
+        "num": 147397,
+        "word": "陈奕迅春晚彩排与奥运冠军合唱孤勇者",
+        "onboard_time": 1737612798,
+        "rank": 36,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 143649,
+        "num": 143649,
+        "word": "东北菜会惩罚每个爱点菜的南方人",
+        "onboard_time": 1737620420,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142909,
+        "num": 142909,
+        "word": "张家诚拍的杨紫",
+        "onboard_time": 1737619640,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 141610,
+        "num": 141610,
+        "word": "OOTD",
+        "onboard_time": 1737620540,
+        "rank": 39,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 140389,
+        "num": 140389,
+        "word": "柯洁实时胜率接龙已不足1%",
+        "onboard_time": 1737614719,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134275,
+        "num": 134275,
+        "word": "双轨",
+        "onboard_time": 1737604038,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133259,
+        "num": 133259,
+        "word": "魏大勋白手套好欲",
+        "onboard_time": 1737620180,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127994,
+        "num": 127994,
+        "word": "李幼贞不能生育",
+        "onboard_time": 1737604399,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126586,
+        "num": 126586,
+        "word": "宠物狗遭偷找回时已被洗澡还驱虫",
+        "onboard_time": 1737615438,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125994,
+        "num": 125994,
+        "word": "韩媒称柯洁没能熟悉韩国规定",
+        "onboard_time": 1737595877,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124182,
+        "num": 124182,
+        "word": "尊界S800全球首发智能光幕玻璃",
+        "onboard_time": 1737619702,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 122165,
+        "num": 122165,
+        "word": "汤唯带女儿国外度假",
+        "onboard_time": 1737618439,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118947,
+        "num": 118947,
+        "word": "00后女生回老家10分钟门口3辆车等相亲",
+        "onboard_time": 1737608178,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118664,
+        "num": 118664,
+        "word": "今年春节你被哪些年货硬控了",
+        "onboard_time": 1737601458,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#深深牵挂暖人心#"
+    }
+  }
+}

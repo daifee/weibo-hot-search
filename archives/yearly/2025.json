@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737617720295,
+  "endTime": 1737620898310,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -137,6 +137,14 @@
       "onboard_time": 1736252905,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 9461281,
+      "num": 9461281,
+      "word": "柯洁不比了",
+      "onboard_time": 1737617120,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 9123207,
@@ -617,14 +625,6 @@
       "onboard_time": 1736237362,
       "rank": 4,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 2816360,
-      "num": 2816360,
-      "word": "柯洁不比了",
-      "onboard_time": 1737617120,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 2805587,
