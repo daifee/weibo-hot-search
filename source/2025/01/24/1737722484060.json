@@ -1,0 +1,410 @@
+{
+  "runTime": 1737722484060,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 793846,
+        "num": 1127015,
+        "word": "虞书欣 狭路",
+        "onboard_time": 1737718577,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353923,
+        "num": 353923,
+        "word": "蛇是怎么成为十二生肖的",
+        "onboard_time": 1737710360,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 44284,
+        "num": 286056,
+        "word": "2025网络视听盛典",
+        "onboard_time": 1737686898,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 469763,
+        "num": 280550,
+        "word": "女子把工地破烂编成篮子当新年礼物",
+        "onboard_time": 1737716778,
+        "rank": 3,
+        "category": "正能量,民生新闻"
+      },
+      {
+        "raw_hot": 266234,
+        "num": 266234,
+        "word": "一年烫一次的头长啥样",
+        "onboard_time": 1737700997,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 694557,
+        "num": 265321,
+        "word": "卞相壹称死子放错规则无存在必要",
+        "onboard_time": 1737718338,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 587136,
+        "num": 251653,
+        "word": "刘亦菲抱玲娜贝儿",
+        "onboard_time": 1737716178,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 411996,
+        "num": 238346,
+        "word": "柯洁父亲发声",
+        "onboard_time": 1737714319,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 377552,
+        "num": 222280,
+        "word": "卢昱晓高铁上为五福全员画头像",
+        "onboard_time": 1737720439,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214248,
+        "num": 214248,
+        "word": "樊振东新年直播",
+        "onboard_time": 1737721698,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 569224,
+        "num": 212905,
+        "word": "一条小团团自称刑满释放",
+        "onboard_time": 1737705260,
+        "rank": 10,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 300566,
+        "num": 210438,
+        "word": "刘亦菲檀健次龚俊金靖一起唱K",
+        "onboard_time": 1737710839,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 270943,
+        "num": 206922,
+        "word": "电影射雕英雄传公布特辑镜头",
+        "onboard_time": 1737705199,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191656,
+        "num": 191656,
+        "word": "文淇回应出演网剧是资源降级",
+        "onboard_time": 1737713898,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161775,
+        "num": 184040,
+        "word": "广州男子上淘宝许愿中一辆公交车",
+        "onboard_time": 1737719538,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319484,
+        "num": 183272,
+        "word": "韩国棋院称会把奖金汇入柯洁账户",
+        "onboard_time": 1737705199,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205851,
+        "num": 182582,
+        "word": "肖战版郭靖邀你晒一晒绝活",
+        "onboard_time": 1737706519,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179715,
+        "num": 179715,
+        "word": "王俊凯巴黎时装周试装花絮",
+        "onboard_time": 1737721878,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 183475,
+        "num": 179625,
+        "word": "韩围棋协会将修改围棋规定",
+        "onboard_time": 1737711499,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99536,
+        "num": 178330,
+        "word": "MOBA传奇冠军齐聚决胜巅峰之夜",
+        "onboard_time": 1737719777,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 407222,
+        "num": 177717,
+        "word": "杨幂自驾新疆找迪丽热巴当翻译",
+        "onboard_time": 1737697459,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209235,
+        "num": 177037,
+        "word": "第一批00后已开始彩排年夜饭了",
+        "onboard_time": 1737718577,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28544,
+        "num": 176024,
+        "word": "对真相的遮掩比校园欺凌更恐怖",
+        "onboard_time": 1737722178,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 26796,
+        "num": 175554,
+        "word": "户外博主哈巴雪山飞滑翔伞失联",
+        "onboard_time": 1737720618,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104021,
+        "num": 174746,
+        "word": "卞相壹颁奖典礼手捧冠军奖杯",
+        "onboard_time": 1737717199,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203897,
+        "num": 174004,
+        "word": "请尽量不要在上半夜熬夜",
+        "onboard_time": 1737706760,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 173794,
+        "num": 173794,
+        "word": "红米直播",
+        "onboard_time": 1737722299,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 171370,
+        "num": 171370,
+        "word": "网络视听盛典红毯",
+        "onboard_time": 1737720859,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91040,
+        "num": 168289,
+        "word": "特朗普签行政令解密肯尼迪遇刺",
+        "onboard_time": 1737722239,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88437,
+        "num": 167455,
+        "word": "被欺凌女童家属质疑施暴者名单被换",
+        "onboard_time": 1737721637,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41785,
+        "num": 167422,
+        "word": "快过年了提醒广大家长看好孩子",
+        "onboard_time": 1737721878,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167404,
+        "num": 167404,
+        "word": "李昀锐杂志",
+        "onboard_time": 1737720499,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 164103,
+        "num": 164103,
+        "word": "原来羽绒服里要穿得薄才暖和",
+        "onboard_time": 1737720739,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152892,
+        "num": 152892,
+        "word": "华晨宇请芒果员工看演唱会",
+        "onboard_time": 1737721218,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150041,
+        "num": 150041,
+        "word": "程潇吴宣仪避雷狮子男",
+        "onboard_time": 1737719418,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137658,
+        "num": 137658,
+        "word": "河南局地暴雪20毫米以上",
+        "onboard_time": 1737718638,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137656,
+        "num": 137656,
+        "word": "网易云或下架SM旗下全部歌曲",
+        "onboard_time": 1737703217,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136273,
+        "num": 136273,
+        "word": "当我妈把我和皮冻放一屋",
+        "onboard_time": 1737720739,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133370,
+        "num": 133370,
+        "word": "周杰伦昆凌骑车夜游巴黎",
+        "onboard_time": 1737721099,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126036,
+        "num": 126036,
+        "word": "十个勤天开场",
+        "onboard_time": 1737722299,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124489,
+        "num": 124489,
+        "word": "女子利用七天无理由诈骗超2万元",
+        "onboard_time": 1737722178,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123518,
+        "num": 123518,
+        "word": "中药注射剂是害人的东西吗",
+        "onboard_time": 1737719959,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 122772,
+        "num": 122772,
+        "word": "女儿要报12天4万的瑜伽课老人报警",
+        "onboard_time": 1737703759,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119621,
+        "num": 119621,
+        "word": "T1首发",
+        "onboard_time": 1737719478,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117239,
+        "num": 117239,
+        "word": "李现搂着杨紫家属感拉满",
+        "onboard_time": 1737706339,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116184,
+        "num": 116184,
+        "word": "台湾台南4.9级地震",
+        "onboard_time": 1737718699,
+        "rank": 45,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 112118,
+        "num": 112118,
+        "word": "射雕英雄传侠之大者特辑",
+        "onboard_time": 1737721578,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108519,
+        "num": 108519,
+        "word": "杨幂也看了再见爱人",
+        "onboard_time": 1737713418,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107856,
+        "num": 107856,
+        "word": "韩国网友称夺冠很尴尬",
+        "onboard_time": 1737699618,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105806,
+        "num": 105806,
+        "word": "虞书欣cos女帝云鸾",
+        "onboard_time": 1737702017,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#实体经济是国民经济的根基所在#"
+    }
+  }
+}
