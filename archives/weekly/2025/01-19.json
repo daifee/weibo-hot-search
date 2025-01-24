@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737689945386,
+  "endTime": 1737692787013,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -129,6 +129,14 @@
       "onboard_time": 1737339856,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2048148,
+      "num": 330885,
+      "word": "字节取消下午茶",
+      "onboard_time": 1737690978,
+      "rank": 10,
+      "category": "互联网"
     },
     {
       "raw_hot": 2038344,
@@ -659,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1141622,
+      "num": 1141622,
+      "word": "特朗普终止出生公民权被裁定违宪",
+      "onboard_time": 1737689598,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1131812,
       "num": 456809,
       "word": "特朗普继续威胁TikTok",
@@ -1020,7 +1036,7 @@
     },
     {
       "raw_hot": 944600,
-      "num": 944600,
+      "num": 1242469,
       "word": "293元8个菜预制年夜饭热销",
       "onboard_time": 1737683478,
       "rank": 47,
@@ -1193,6 +1209,14 @@
       "onboard_time": 1737609138,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 882572,
+      "num": 316835,
+      "word": "韩国网友吐槽韩国棋院长脑子了吗",
+      "onboard_time": 1737691098,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 881265,
@@ -1395,6 +1419,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 796511,
+      "num": 731472,
+      "word": "柯洁微博评论区被3个字刷屏",
+      "onboard_time": 1737681857,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 788716,
       "num": 788716,
       "word": "小孩捐10元被工作人员说抠门",
@@ -1505,6 +1537,14 @@
       "onboard_time": 1737414855,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 740976,
+      "num": 740976,
+      "word": "李昀锐换童年照头像",
+      "onboard_time": 1737690798,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 738544,
@@ -2339,6 +2379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 538412,
+      "num": 538412,
+      "word": "终于看到青衣含量100%国产剧",
+      "onboard_time": 1737691098,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 537829,
       "num": 306921,
       "word": "潘宏园区宠物托运用生鲜车运宠物致死",
@@ -2528,14 +2576,6 @@
       "word": "柯洁再次出现失误",
       "onboard_time": 1737611600,
       "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 504751,
-      "num": 504751,
-      "word": "柯洁微博评论区被3个字刷屏",
-      "onboard_time": 1737681857,
-      "rank": 21,
       "category": "体育"
     },
     {
@@ -2969,6 +3009,14 @@
       "onboard_time": 1737524060,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 446466,
+      "num": 283252,
+      "word": "赵露思环球时报采访",
+      "onboard_time": 1737690798,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 445429,
@@ -3811,6 +3859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 345907,
+      "num": 345907,
+      "word": "警方通报男子捅死夫妇后自残",
+      "onboard_time": 1737691698,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 344887,
       "num": 344887,
       "word": "庞颖念诗给詹青云念红温了",
@@ -4201,6 +4257,14 @@
       "onboard_time": 1737636861,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 309152,
+      "num": 213062,
+      "word": "女子连续熬夜加班同时确诊8种病",
+      "onboard_time": 1737691098,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 308395,
@@ -5051,6 +5115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 260260,
+      "num": 260260,
+      "word": "重庆年味",
+      "onboard_time": 1737690978,
+      "rank": 16,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 260241,
       "num": 260241,
       "word": "抖音集团将在北京市建三级医院",
@@ -5683,6 +5755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 230057,
+      "num": 230057,
+      "word": "虞书欣古典红裙",
+      "onboard_time": 1737689118,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 230028,
       "num": 314987,
       "word": "叶永青抄袭赔偿500万并公开道歉",
@@ -5753,6 +5833,14 @@
       "onboard_time": 1737544998,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 225614,
+      "num": 209581,
+      "word": "明日方舟",
+      "onboard_time": 1737197539,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 224154,
@@ -6779,14 +6867,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 197696,
-      "num": 197696,
-      "word": "虞书欣古典红裙",
-      "onboard_time": 1737689118,
-      "rank": 27,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 197669,
       "num": 222684,
       "word": "Doinb回归开门红",
@@ -7435,6 +7515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188576,
+      "num": 188576,
+      "word": "Cat直播辟谣",
+      "onboard_time": 1737691939,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 188569,
       "num": 166943,
       "word": "中国年轻人捡漏日本低价中古屋",
@@ -8059,6 +8147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 177535,
+      "num": 177535,
+      "word": "李幼贞报复何惟芳",
+      "onboard_time": 1737691879,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177399,
       "num": 177399,
       "word": "做一次美甲手上皮肤黑一两个色号",
@@ -8137,6 +8233,14 @@
       "onboard_time": 1737250218,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 176507,
+      "num": 189018,
+      "word": "王者蛇限皮肤优化",
+      "onboard_time": 1737691998,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 176449,
@@ -8427,6 +8531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 171466,
+      "num": 171466,
+      "word": "张康乐马柏全专访花絮",
+      "onboard_time": 1737691458,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171389,
       "num": 171389,
       "word": "主人笑了两分钟才舍得让你摸狗",
@@ -8577,6 +8689,14 @@
       "onboard_time": 1737536779,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168147,
+      "num": 168147,
+      "word": "王者荣耀",
+      "onboard_time": 1737257178,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 168098,
@@ -9043,6 +9163,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 162357,
+      "num": 162357,
+      "word": "大侦探拾光季官宣",
+      "onboard_time": 1737691278,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162334,
       "num": 162334,
       "word": "朱开抵制Doinb发言",
@@ -9369,14 +9497,6 @@
       "onboard_time": 1737451458,
       "rank": 33,
       "category": "财经"
-    },
-    {
-      "raw_hot": 157392,
-      "num": 171808,
-      "word": "特朗普终止出生公民权被裁定违宪",
-      "onboard_time": 1737689598,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 157256,
@@ -9739,14 +9859,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 151600,
-      "num": 151600,
-      "word": "王者荣耀",
-      "onboard_time": 1737257178,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 151556,
       "num": 151556,
       "word": "潘宏基地被质疑狗屎堆积环境差",
@@ -10081,14 +10193,6 @@
       "onboard_time": 1737598098,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 147126,
-      "num": 147126,
-      "word": "明日方舟",
-      "onboard_time": 1737197539,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 146896,
@@ -11203,6 +11307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134062,
+      "num": 134062,
+      "word": "曝AppleWatch表带含潜在有害物质",
+      "onboard_time": 1737691337,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 133704,
       "num": 133704,
       "word": "严浩翔边饭撒边检查扣子",
@@ -11289,6 +11401,14 @@
       "onboard_time": 1737687739,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 132890,
+      "num": 132890,
+      "word": "字节跳动调整员工福利",
+      "onboard_time": 1737691337,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 132820,
@@ -12059,6 +12179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122812,
+      "num": 122812,
+      "word": "火车停靠40秒他在崖壁喊到飙泪",
+      "onboard_time": 1737691038,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122681,
       "num": 122681,
       "word": "Icon复盘Rookie沙皇失误",
@@ -12283,6 +12411,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 119242,
+      "num": 119242,
+      "word": "黄曦彦一箭射出了封神二的姜文焕",
+      "onboard_time": 1737691337,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 119235,
       "num": 119235,
       "word": "全国首单手机国补用户分享小妙招",
@@ -12307,6 +12443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 118988,
+      "num": 142653,
+      "word": "2025见证原生鸿蒙更新力量",
+      "onboard_time": 1737692238,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 118764,
       "num": 118764,
       "word": "买了新手机旧手机怎么办",
@@ -12321,6 +12465,14 @@
       "onboard_time": 1737436218,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118728,
+      "num": 118728,
+      "word": "樊振东关注美国网友",
+      "onboard_time": 1737690918,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 118672,
@@ -12481,6 +12633,14 @@
       "onboard_time": 1737259997,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 117091,
+      "num": 117091,
+      "word": "霸王茶姬 外网",
+      "onboard_time": 1737692719,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 117049,
@@ -13979,6 +14139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 96841,
+      "num": 168539,
+      "word": "苏享茂家属对翟欣欣既恨又同情",
+      "onboard_time": 1737690798,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96672,
       "num": 90965,
       "word": "ELLEX王俊凯带你看巴黎男装周",
@@ -14844,7 +15012,7 @@
     },
     {
       "raw_hot": 71182,
-      "num": 816362,
+      "num": 1184704,
       "word": "2025网络视听盛典",
       "onboard_time": 1737686898,
       "rank": 2,
@@ -15185,6 +15353,14 @@
       "onboard_time": 1737480194,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 58541,
+      "num": 332464,
+      "word": "2025网络视听盛典最期待的节目",
+      "onboard_time": 1737691458,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 58444,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1737692787013,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1676335,
+        "num": 1676335,
+        "word": "贾玲 你的强回来了",
+        "onboard_time": 1737686297,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 483078,
+        "num": 1242469,
+        "word": "293元8个菜预制年夜饭热销",
+        "onboard_time": 1737683478,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39660,
+        "num": 1184704,
+        "word": "2025网络视听盛典",
+        "onboard_time": 1737686898,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1141622,
+        "num": 1141622,
+        "word": "特朗普终止出生公民权被裁定违宪",
+        "onboard_time": 1737689598,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 740976,
+        "num": 740976,
+        "word": "李昀锐换童年照头像",
+        "onboard_time": 1737690798,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 796511,
+        "num": 731472,
+        "word": "柯洁微博评论区被3个字刷屏",
+        "onboard_time": 1737681857,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 538412,
+        "num": 538412,
+        "word": "终于看到青衣含量100%国产剧",
+        "onboard_time": 1737691098,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 439822,
+        "num": 439822,
+        "word": "河南局地暴雪10到18毫米",
+        "onboard_time": 1737686658,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345907,
+        "num": 345907,
+        "word": "警方通报男子捅死夫妇后自残",
+        "onboard_time": 1737691698,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 58541,
+        "num": 332464,
+        "word": "2025网络视听盛典最期待的节目",
+        "onboard_time": 1737691458,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2048148,
+        "num": 330885,
+        "word": "字节取消下午茶",
+        "onboard_time": 1737690978,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 882572,
+        "num": 316835,
+        "word": "韩国网友吐槽韩国棋院长脑子了吗",
+        "onboard_time": 1737691098,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 698045,
+        "num": 299595,
+        "word": "遭举报出轨人妻的肖峰被双开",
+        "onboard_time": 1737686898,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 446466,
+        "num": 283252,
+        "word": "赵露思环球时报采访",
+        "onboard_time": 1737690798,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350692,
+        "num": 262389,
+        "word": "韩国网友竟称柯洁无知又没礼貌",
+        "onboard_time": 1737684677,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261160,
+        "num": 261160,
+        "word": "余烬之上定档",
+        "onboard_time": 1737686537,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260260,
+        "num": 260260,
+        "word": "重庆年味",
+        "onboard_time": 1737690978,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 259371,
+        "num": 259371,
+        "word": "花8000元送去宠物学校的狗挨了打",
+        "onboard_time": 1737687437,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230057,
+        "num": 230057,
+        "word": "虞书欣古典红裙",
+        "onboard_time": 1737689118,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 225608,
+        "num": 225608,
+        "word": "权志龙绿发",
+        "onboard_time": 1737684557,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381434,
+        "num": 214542,
+        "word": "误以为是动物儿子开枪击中除草母亲",
+        "onboard_time": 1737684318,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309152,
+        "num": 213062,
+        "word": "女子连续熬夜加班同时确诊8种病",
+        "onboard_time": 1737691098,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225614,
+        "num": 209581,
+        "word": "明日方舟",
+        "onboard_time": 1737691579,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201790,
+        "num": 201790,
+        "word": "三大平台古装剧将要对打",
+        "onboard_time": 1737681857,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176507,
+        "num": 189018,
+        "word": "王者蛇限皮肤优化",
+        "onboard_time": 1737691998,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188576,
+        "num": 188576,
+        "word": "Cat直播辟谣",
+        "onboard_time": 1737691939,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 177535,
+        "num": 177535,
+        "word": "李幼贞报复何惟芳",
+        "onboard_time": 1737691879,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175556,
+        "num": 175556,
+        "word": "00后小伙高铁相亲成功女方大13岁",
+        "onboard_time": 1737681738,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171466,
+        "num": 171466,
+        "word": "张康乐马柏全专访花絮",
+        "onboard_time": 1737691458,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96841,
+        "num": 168539,
+        "word": "苏享茂家属对翟欣欣既恨又同情",
+        "onboard_time": 1737690798,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168147,
+        "num": 168147,
+        "word": "王者荣耀",
+        "onboard_time": 1737692360,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167510,
+        "num": 167510,
+        "word": "睡前最好别碰这4样东西",
+        "onboard_time": 1737688999,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 162357,
+        "num": 162357,
+        "word": "大侦探拾光季官宣",
+        "onboard_time": 1737691278,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153058,
+        "num": 153058,
+        "word": "裸辞一年后不上班的现状",
+        "onboard_time": 1737681918,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152593,
+        "num": 152593,
+        "word": "陈震 OPPO",
+        "onboard_time": 1737682158,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 149817,
+        "num": 149817,
+        "word": "青簪行",
+        "onboard_time": 1737644300,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145408,
+        "num": 145408,
+        "word": "权志龙新综艺好多人啊",
+        "onboard_time": 1737689899,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143380,
+        "num": 143380,
+        "word": "樊振东的奥运金牌含金量还在上升",
+        "onboard_time": 1737678198,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118988,
+        "num": 142653,
+        "word": "2025见证原生鸿蒙更新力量",
+        "onboard_time": 1737692238,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 142610,
+        "num": 142610,
+        "word": "轩染",
+        "onboard_time": 1737644241,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139811,
+        "num": 139811,
+        "word": "女生吃一个月冷藏米饭血糖降了",
+        "onboard_time": 1737640760,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134062,
+        "num": 134062,
+        "word": "曝AppleWatch表带含潜在有害物质",
+        "onboard_time": 1737691337,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 133167,
+        "num": 133167,
+        "word": "剑来 烂尾",
+        "onboard_time": 1737683598,
+        "rank": 42,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 132890,
+        "num": 132890,
+        "word": "字节跳动调整员工福利",
+        "onboard_time": 1737691337,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 127911,
+        "num": 127911,
+        "word": "上海首例野蛮私挖地下室入刑",
+        "onboard_time": 1737679398,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122812,
+        "num": 122812,
+        "word": "火车停靠40秒他在崖壁喊到飙泪",
+        "onboard_time": 1737691038,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119242,
+        "num": 119242,
+        "word": "黄曦彦一箭射出了封神二的姜文焕",
+        "onboard_time": 1737691337,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119161,
+        "num": 119161,
+        "word": "寒潮黄色预警暴雪黄色预警都来了",
+        "onboard_time": 1737678678,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118728,
+        "num": 118728,
+        "word": "樊振东关注美国网友",
+        "onboard_time": 1737690918,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117091,
+        "num": 117091,
+        "word": "霸王茶姬 外网",
+        "onboard_time": 1737692719,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#大家共同努力把幸福生活过得更好#"
+    }
+  }
+}

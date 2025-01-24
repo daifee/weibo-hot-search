@@ -1,6 +1,6 @@
 {
   "startTime": 1737649694584,
-  "endTime": 1737689945386,
+  "endTime": 1737692787013,
   "band_list": [
     {
       "raw_hot": 2783311,
@@ -19,12 +19,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 2048148,
+      "num": 330885,
+      "word": "字节取消下午茶",
+      "onboard_time": 1737690978,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1452990,
       "num": 1452990,
       "word": "杨子说直播求婚被黄圣依骂了五分钟",
       "onboard_time": 1737676337,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1141622,
+      "num": 1141622,
+      "word": "特朗普终止出生公民权被裁定违宪",
+      "onboard_time": 1737689598,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1087309,
@@ -52,11 +68,35 @@
     },
     {
       "raw_hot": 944600,
-      "num": 944600,
+      "num": 1242469,
       "word": "293元8个菜预制年夜饭热销",
       "onboard_time": 1737683478,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 882572,
+      "num": 316835,
+      "word": "韩国网友吐槽韩国棋院长脑子了吗",
+      "onboard_time": 1737691098,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 796511,
+      "num": 731472,
+      "word": "柯洁微博评论区被3个字刷屏",
+      "onboard_time": 1737681857,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 740976,
+      "num": 740976,
+      "word": "李昀锐换童年照头像",
+      "onboard_time": 1737690798,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 734053,
@@ -147,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 538412,
+      "num": 538412,
+      "word": "终于看到青衣含量100%国产剧",
+      "onboard_time": 1737691098,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 531313,
       "num": 290179,
       "word": "误以为是动物儿子开枪击中除草母亲",
@@ -161,14 +209,6 @@
       "onboard_time": 1737635839,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 504751,
-      "num": 504751,
-      "word": "柯洁微博评论区被3个字刷屏",
-      "onboard_time": 1737681857,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 502515,
@@ -193,6 +233,14 @@
       "onboard_time": 1737647358,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 446466,
+      "num": 283252,
+      "word": "赵露思环球时报采访",
+      "onboard_time": 1737690798,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 439958,
@@ -283,6 +331,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 345907,
+      "num": 345907,
+      "word": "警方通报男子捅死夫妇后自残",
+      "onboard_time": 1737691698,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 336857,
       "num": 336857,
       "word": "杨子回应钻戒没送出去怎么办",
@@ -297,6 +353,14 @@
       "onboard_time": 1737678678,
       "rank": 10,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 309152,
+      "num": 213062,
+      "word": "女子连续熬夜加班同时确诊8种病",
+      "onboard_time": 1737691098,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 307889,
@@ -347,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 260260,
+      "num": 260260,
+      "word": "重庆年味",
+      "onboard_time": 1737690978,
+      "rank": 16,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 241637,
       "num": 225350,
       "word": "柯洁不比了",
@@ -379,6 +451,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 230057,
+      "num": 230057,
+      "word": "虞书欣古典红裙",
+      "onboard_time": 1737689118,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 230010,
       "num": 230010,
       "word": "女生刚到家门口3辆车排队相亲",
@@ -393,6 +473,14 @@
       "onboard_time": 1737646159,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 225614,
+      "num": 209581,
+      "word": "明日方舟",
+      "onboard_time": 1737691579,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 224154,
@@ -475,20 +563,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197696,
-      "num": 197696,
-      "word": "虞书欣古典红裙",
-      "onboard_time": 1737689118,
-      "rank": 27,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 194576,
       "num": 194576,
       "word": "中国队不出席LG杯颁奖仪式",
       "onboard_time": 1737683419,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188576,
+      "num": 188576,
+      "word": "Cat直播辟谣",
+      "onboard_time": 1737691939,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 185848,
@@ -531,12 +619,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177535,
+      "num": 177535,
+      "word": "李幼贞报复何惟芳",
+      "onboard_time": 1737691879,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177197,
       "num": 177197,
       "word": "田嘉瑞巴黎直播被冻哭",
       "onboard_time": 1737644538,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176507,
+      "num": 189018,
+      "word": "王者蛇限皮肤优化",
+      "onboard_time": 1737691998,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 173949,
@@ -571,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171466,
+      "num": 171466,
+      "word": "张康乐马柏全专访花絮",
+      "onboard_time": 1737691458,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169907,
       "num": 242364,
       "word": "谷爱凌等奥运冠军出征亚冬会",
@@ -585,6 +697,14 @@
       "onboard_time": 1737674295,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168147,
+      "num": 168147,
+      "word": "王者荣耀",
+      "onboard_time": 1737692360,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 167221,
@@ -603,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162357,
+      "num": 162357,
+      "word": "大侦探拾光季官宣",
+      "onboard_time": 1737691278,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160569,
       "num": 160569,
       "word": "央视提前官宣谭维维参加春晚",
@@ -617,14 +745,6 @@
       "onboard_time": 1737684377,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157392,
-      "num": 171808,
-      "word": "特朗普终止出生公民权被裁定违宪",
-      "onboard_time": 1737689598,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 154059,
@@ -739,12 +859,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 134062,
+      "num": 134062,
+      "word": "曝AppleWatch表带含潜在有害物质",
+      "onboard_time": 1737691337,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 133191,
       "num": 133191,
       "word": "2025漫画都能自己选结局了",
       "onboard_time": 1737687739,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 132890,
+      "num": 132890,
+      "word": "字节跳动调整员工福利",
+      "onboard_time": 1737691337,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 131527,
@@ -795,6 +931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122812,
+      "num": 122812,
+      "word": "火车停靠40秒他在崖壁喊到飙泪",
+      "onboard_time": 1737691038,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120899,
       "num": 120899,
       "word": "文章马伊琍大女儿为妹妹庆生",
@@ -803,12 +947,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119242,
+      "num": 119242,
+      "word": "黄曦彦一箭射出了封神二的姜文焕",
+      "onboard_time": 1737691337,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 118988,
+      "num": 142653,
+      "word": "2025见证原生鸿蒙更新力量",
+      "onboard_time": 1737692238,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 118728,
+      "num": 118728,
+      "word": "樊振东关注美国网友",
+      "onboard_time": 1737690918,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117188,
       "num": 117188,
       "word": "射雕英雄传影史预售票房最快破2亿",
       "onboard_time": 1737674235,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 117091,
+      "num": 117091,
+      "word": "霸王茶姬 外网",
+      "onboard_time": 1737692719,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 115469,
@@ -891,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96841,
+      "num": 168539,
+      "word": "苏享茂家属对翟欣欣既恨又同情",
+      "onboard_time": 1737690798,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96672,
       "num": 90965,
       "word": "ELLEX王俊凯带你看巴黎男装周",
@@ -964,7 +1148,7 @@
     },
     {
       "raw_hot": 71182,
-      "num": 816362,
+      "num": 1184704,
       "word": "2025网络视听盛典",
       "onboard_time": 1737686898,
       "rank": 2,
@@ -1033,6 +1217,14 @@
       "onboard_time": 1737640760,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58541,
+      "num": 332464,
+      "word": "2025网络视听盛典最期待的节目",
+      "onboard_time": 1737691458,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 56978,

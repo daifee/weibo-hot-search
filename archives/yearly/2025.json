@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737689945386,
+  "endTime": 1737692787013,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1267,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2048148,
+      "num": 330885,
+      "word": "字节取消下午茶",
+      "onboard_time": 1737690978,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 2038344,
       "num": 2038344,
       "word": "央视曝光美甲灯安全隐患",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736908219,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1548219,
-      "num": 490495,
-      "word": "TikTok难民称中国网友非常热情",
-      "onboard_time": 1736860460,
-      "rank": 10,
-      "category": "互联网"
     }
   ],
   "hotgov_list": [
