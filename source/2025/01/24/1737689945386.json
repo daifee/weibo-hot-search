@@ -1,0 +1,410 @@
+{
+  "runTime": 1737689945386,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2656294,
+        "num": 2656294,
+        "word": "贾玲 你的强回来了",
+        "onboard_time": 1737686297,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 944600,
+        "num": 944600,
+        "word": "293元8个菜预制年夜饭热销",
+        "onboard_time": 1737683478,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45638,
+        "num": 816362,
+        "word": "2025网络视听盛典",
+        "onboard_time": 1737686898,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 716112,
+        "num": 716112,
+        "word": "遭举报出轨人妻的肖峰被双开",
+        "onboard_time": 1737686898,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 599866,
+        "num": 599866,
+        "word": "河南局地暴雪10到18毫米",
+        "onboard_time": 1737686658,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 504751,
+        "num": 504751,
+        "word": "柯洁微博评论区被3个字刷屏",
+        "onboard_time": 1737681857,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 505169,
+        "num": 492096,
+        "word": "金秀贤回复cp粉",
+        "onboard_time": 1737682457,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 363095,
+        "num": 363095,
+        "word": "上海首例野蛮私挖地下室入刑",
+        "onboard_time": 1737679398,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290196,
+        "num": 363059,
+        "word": "肯尼迪遇刺案机密文件将公布",
+        "onboard_time": 1737683358,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 47480,
+        "num": 363049,
+        "word": "德约科维奇vs兹维列夫",
+        "onboard_time": 1737688999,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 873705,
+        "num": 363049,
+        "word": "中国女游客在日本铁轨上拍照被撞",
+        "onboard_time": 1737681198,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363049,
+        "num": 363048,
+        "word": "余烬之上定档",
+        "onboard_time": 1737686537,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55387,
+        "num": 345564,
+        "word": "你的强回来了",
+        "onboard_time": 1737686837,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 331209,
+        "num": 331209,
+        "word": "三大平台古装剧将要对打",
+        "onboard_time": 1737681857,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 322523,
+        "num": 322523,
+        "word": "权志龙绿发",
+        "onboard_time": 1737684557,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311926,
+        "num": 311926,
+        "word": "00后小伙高铁相亲成功女方大13岁",
+        "onboard_time": 1737681738,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295954,
+        "num": 295954,
+        "word": "陈震 OPPO",
+        "onboard_time": 1737682158,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 264468,
+        "num": 264468,
+        "word": "花8000元送去宠物学校的狗挨了打",
+        "onboard_time": 1737687437,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259116,
+        "num": 259116,
+        "word": "青簪行",
+        "onboard_time": 1737644300,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258217,
+        "num": 258217,
+        "word": "柯洁说这辈子没受过这种委屈",
+        "onboard_time": 1737674354,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 531313,
+        "num": 255527,
+        "word": "误以为是动物儿子开枪击中除草母亲",
+        "onboard_time": 1737684318,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 423811,
+        "num": 254402,
+        "word": "韩国网友竟称柯洁无知又没礼貌",
+        "onboard_time": 1737684677,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251591,
+        "num": 251591,
+        "word": "沙特计划投资美国6000亿美元",
+        "onboard_time": 1737684258,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 224027,
+        "num": 224027,
+        "word": "睡前最好别碰这4样东西",
+        "onboard_time": 1737688999,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 93387,
+        "num": 209194,
+        "word": "三球无缘全明星首发",
+        "onboard_time": 1737688218,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201740,
+        "num": 201740,
+        "word": "樊振东的奥运金牌含金量还在上升",
+        "onboard_time": 1737678198,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175557,
+        "num": 198038,
+        "word": "无论多远春节记得回家看看",
+        "onboard_time": 1737687678,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197696,
+        "num": 197696,
+        "word": "虞书欣古典红裙",
+        "onboard_time": 1737689118,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 166110,
+        "num": 196912,
+        "word": "徐克你根本没有喝中药",
+        "onboard_time": 1737677719,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25305,
+        "num": 191594,
+        "word": "00后统治二次元年会",
+        "onboard_time": 1737689417,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 119152,
+        "num": 189134,
+        "word": "王鹤棣表示自己更像许七安",
+        "onboard_time": 1737677416,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198480,
+        "num": 185351,
+        "word": "裸辞一年后不上班的现状",
+        "onboard_time": 1737681918,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184174,
+        "num": 184174,
+        "word": "110秒重走一遍李子柒非遗来时路",
+        "onboard_time": 1737687437,
+        "rank": 32,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 181350,
+        "num": 181350,
+        "word": "女生吃一个月冷藏米饭血糖降了",
+        "onboard_time": 1737640760,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180349,
+        "num": 180349,
+        "word": "轩染",
+        "onboard_time": 1737644241,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157392,
+        "num": 171808,
+        "word": "特朗普终止出生公民权被裁定违宪",
+        "onboard_time": 1737689598,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 168547,
+        "num": 168547,
+        "word": "女子高校工作16年发现未缴养老险",
+        "onboard_time": 1737676157,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165779,
+        "num": 165779,
+        "word": "柯洁微博备注改为世界围棋九冠王",
+        "onboard_time": 1737636261,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164117,
+        "num": 164117,
+        "word": "寒潮黄色预警暴雪黄色预警都来了",
+        "onboard_time": 1737678678,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163548,
+        "num": 163548,
+        "word": "剑来 烂尾",
+        "onboard_time": 1737683598,
+        "rank": 39,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 161807,
+        "num": 161807,
+        "word": "中国队不出席LG杯颁奖仪式",
+        "onboard_time": 1737683419,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161207,
+        "num": 161207,
+        "word": "谷爱凌等奥运冠军出征亚冬会",
+        "onboard_time": 1737685757,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149275,
+        "num": 149275,
+        "word": "曾一鸣自述低潮时吃妻子软饭",
+        "onboard_time": 1737687498,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146896,
+        "num": 146896,
+        "word": "权志龙新综艺好多人啊",
+        "onboard_time": 1737689899,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136506,
+        "num": 136506,
+        "word": "谢霆锋香港抢票",
+        "onboard_time": 1737688277,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127793,
+        "num": 127793,
+        "word": "西安下雪",
+        "onboard_time": 1737682758,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127141,
+        "num": 127141,
+        "word": "花间令上星",
+        "onboard_time": 1737688158,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123949,
+        "num": 123949,
+        "word": "烽火戏诸侯",
+        "onboard_time": 1737684856,
+        "rank": 47,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 119059,
+        "num": 119059,
+        "word": "这3种年货可能费钱又伤身",
+        "onboard_time": 1737685159,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113968,
+        "num": 113968,
+        "word": "张艺兴不语只一味翻牌",
+        "onboard_time": 1737685458,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#大家共同努力把幸福生活过得更好#"
+    }
+  }
+}
