@@ -1,0 +1,410 @@
+{
+  "runTime": 1737682823678,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1452990,
+        "num": 1452990,
+        "word": "杨子说直播求婚被黄圣依骂了五分钟",
+        "onboard_time": 1737676337,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 559651,
+        "num": 559651,
+        "word": "樊振东的奥运金牌含金量还在上升",
+        "onboard_time": 1737678198,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36205,
+        "num": 438338,
+        "word": "千帆极轨06组卫星成功发射",
+        "onboard_time": 1737643999,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 580866,
+        "num": 438299,
+        "word": "女子高校工作16年发现未缴养老险",
+        "onboard_time": 1737676157,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438222,
+        "num": 438222,
+        "word": "徐克你根本没有喝中药",
+        "onboard_time": 1737677719,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 408485,
+        "num": 408485,
+        "word": "特朗普认为中美关系非常良好",
+        "onboard_time": 1737677837,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 369400,
+        "num": 369400,
+        "word": "上海首例野蛮私挖地下室入刑",
+        "onboard_time": 1737679398,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363725,
+        "num": 363725,
+        "word": "四只警犬挨个被点名通报批评",
+        "onboard_time": 1737674475,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336857,
+        "num": 336857,
+        "word": "杨子回应钻戒没送出去怎么办",
+        "onboard_time": 1737678319,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322425,
+        "num": 322425,
+        "word": "柯洁因判罚损失2亿韩元奖金",
+        "onboard_time": 1737633078,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 311055,
+        "num": 311055,
+        "word": "剑来完结",
+        "onboard_time": 1737678678,
+        "rank": 10,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 622547,
+        "num": 310381,
+        "word": "柯洁说这辈子没受过这种委屈",
+        "onboard_time": 1737674354,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298598,
+        "num": 298598,
+        "word": "中国女游客在日本铁轨上拍照被撞",
+        "onboard_time": 1737681198,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 488740,
+        "num": 297226,
+        "word": "中国围棋协会",
+        "onboard_time": 1737677897,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292689,
+        "num": 292689,
+        "word": "三大平台古装剧将要对打",
+        "onboard_time": 1737681857,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 392434,
+        "num": 290367,
+        "word": "柯洁微博备注改为世界围棋九冠王",
+        "onboard_time": 1737636261,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285597,
+        "num": 285597,
+        "word": "青簪行",
+        "onboard_time": 1737644300,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292369,
+        "num": 283133,
+        "word": "韩国贡献了零胜夺冠的闹剧",
+        "onboard_time": 1737674354,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279829,
+        "num": 279829,
+        "word": "中国春节申遗只允许200个单词介绍",
+        "onboard_time": 1737627858,
+        "rank": 18,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 258149,
+        "num": 258149,
+        "word": "00后小伙高铁相亲成功女方大13岁",
+        "onboard_time": 1737681738,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 375334,
+        "num": 254514,
+        "word": "女生吃一个月冷藏米饭血糖降了",
+        "onboard_time": 1737640760,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249161,
+        "num": 249161,
+        "word": "柯洁微博评论区被3个字刷屏",
+        "onboard_time": 1737681857,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230010,
+        "num": 230010,
+        "word": "女生刚到家门口3辆车排队相亲",
+        "onboard_time": 1737681078,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218679,
+        "num": 218679,
+        "word": "寒潮黄色预警暴雪黄色预警都来了",
+        "onboard_time": 1737678678,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82155,
+        "num": 217578,
+        "word": "多地围棋协会发声",
+        "onboard_time": 1737678978,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217535,
+        "num": 217535,
+        "word": "老人买18万黄金不挑款店员火速报警",
+        "onboard_time": 1737636439,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213233,
+        "num": 213233,
+        "word": "新国辩",
+        "onboard_time": 1737677658,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211522,
+        "num": 211522,
+        "word": "特朗普说不在美生产就要缴巨额关税",
+        "onboard_time": 1737676576,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 210629,
+        "num": 210629,
+        "word": "轩染",
+        "onboard_time": 1737644241,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154059,
+        "num": 179794,
+        "word": "王鹤棣表示自己更像许七安",
+        "onboard_time": 1737677416,
+        "rank": 29,
+        "category": "剧集,时尚"
+      },
+      {
+        "raw_hot": 179033,
+        "num": 179033,
+        "word": "中国队总教练为何对柯洁说没办法了",
+        "onboard_time": 1737678078,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156076,
+        "num": 156076,
+        "word": "邓男子魔术 失败",
+        "onboard_time": 1737635839,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174180,
+        "num": 154362,
+        "word": "柯洁不比了",
+        "onboard_time": 1737617120,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152045,
+        "num": 152045,
+        "word": "洛阳迎来漫天大雪",
+        "onboard_time": 1737674475,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169784,
+        "num": 149139,
+        "word": "柯洁去年对申真谞也被裁判干扰",
+        "onboard_time": 1737674295,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97805,
+        "num": 146403,
+        "word": "文化中国行十二生肖知识帖",
+        "onboard_time": 1737682637,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 145537,
+        "num": 145537,
+        "word": "经历了30年坐飞机脖子痛后突然发现",
+        "onboard_time": 1737677719,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144585,
+        "num": 144585,
+        "word": "高校回应女子工作16年未缴养老险",
+        "onboard_time": 1737675616,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143143,
+        "num": 143143,
+        "word": "外国人已经快进到体验过年三件套了",
+        "onboard_time": 1737647358,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139428,
+        "num": 139428,
+        "word": "裸辞一年后不上班的现状",
+        "onboard_time": 1737681918,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138152,
+        "num": 138152,
+        "word": "NBA全明星东部首发",
+        "onboard_time": 1737681138,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128433,
+        "num": 128433,
+        "word": "AG超玩会",
+        "onboard_time": 1737676817,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122997,
+        "num": 122997,
+        "word": "马上就要被拜年信息刷屏了",
+        "onboard_time": 1737676936,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121712,
+        "num": 121712,
+        "word": "陈震 OPPO",
+        "onboard_time": 1737682158,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 121235,
+        "num": 121235,
+        "word": "NBA全明星西部首发",
+        "onboard_time": 1737681978,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120994,
+        "num": 120994,
+        "word": "杜江霍思燕的珍珠获奖了",
+        "onboard_time": 1737634817,
+        "rank": 45,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 119496,
+        "num": 119496,
+        "word": "金秀贤回复cp粉",
+        "onboard_time": 1737682457,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108549,
+        "num": 108549,
+        "word": "代露娃镜头下的常华森",
+        "onboard_time": 1737641840,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104803,
+        "num": 104803,
+        "word": "国色芳华第二季明年播出",
+        "onboard_time": 1737641720,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101954,
+        "num": 101954,
+        "word": "西安下雪",
+        "onboard_time": 1737682758,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#大家共同努力把幸福生活过得更好#"
+    }
+  }
+}
