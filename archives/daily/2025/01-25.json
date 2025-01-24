@@ -1,6 +1,6 @@
 {
   "startTime": 1737736047740,
-  "endTime": 1737746201562,
+  "endTime": 1737747350307,
   "band_list": [
     {
       "raw_hot": 1963235,
@@ -555,19 +555,19 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 14741,
+      "num": 108068,
+      "word": "春运高峰遇上寒潮要如何应对",
+      "onboard_time": 1737729741,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13834,
       "num": 186149,
       "word": "文化中国行看火花迎新春",
       "onboard_time": 1737731900,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13755,
-      "num": 108068,
-      "word": "春运高峰遇上寒潮要如何应对",
-      "onboard_time": 1737729741,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
