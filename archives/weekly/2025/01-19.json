@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737701004256,
+  "endTime": 1737703253498,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -1067,6 +1067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 945862,
+      "num": 233386,
+      "word": "卞相壹称裁判判罚时才知道新规",
+      "onboard_time": 1737699979,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 945568,
       "num": 945568,
       "word": "特朗普正式宣誓就职",
@@ -1563,6 +1571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 742857,
+      "num": 232947,
+      "word": "赵露思分离症状已恢复",
+      "onboard_time": 1737701058,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 742802,
       "num": 742802,
       "word": "马龙李现坐一起看秀",
@@ -2017,6 +2033,14 @@
       "onboard_time": 1737444798,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 607513,
+      "num": 607513,
+      "word": "多辆私家车走应急车道致救护车受阻",
+      "onboard_time": 1737699018,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 605728,
@@ -2513,14 +2537,6 @@
       "onboard_time": 1737384081,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 523217,
-      "num": 523217,
-      "word": "多辆私家车走应急车道致救护车受阻",
-      "onboard_time": 1737699018,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 523130,
@@ -3035,6 +3051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 452521,
+      "num": 230940,
+      "word": "虞书欣cos女帝云鸾",
+      "onboard_time": 1737702017,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 452205,
       "num": 411624,
       "word": "李现对杨紫喊紫啧喊上瘾了",
@@ -3049,14 +3073,6 @@
       "onboard_time": 1737550038,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 451755,
-      "num": 195403,
-      "word": "卞相壹称裁判判罚时才知道新规",
-      "onboard_time": 1737699979,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 451134,
@@ -3876,7 +3892,7 @@
     },
     {
       "raw_hot": 354060,
-      "num": 205307,
+      "num": 229652,
       "word": "赵露思明日复工",
       "onboard_time": 1737697579,
       "rank": 13,
@@ -4563,6 +4579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 297262,
+      "num": 230278,
+      "word": "陈小春说Jasper演讲祖宗听了都开心",
+      "onboard_time": 1737700638,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 296789,
       "num": 376353,
       "word": "一听这些歌就知道快过年了",
@@ -4691,6 +4715,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 287196,
+      "num": 228373,
+      "word": "迪丽热巴库存真的不多了",
+      "onboard_time": 1737698060,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287005,
       "num": 329927,
       "word": "徐梦桃世界杯夺冠",
@@ -4704,14 +4736,6 @@
       "word": "两只狗跟了葛夕",
       "onboard_time": 1737334218,
       "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 286585,
-      "num": 191472,
-      "word": "迪丽热巴库存真的不多了",
-      "onboard_time": 1737698060,
-      "rank": 23,
       "category": "艺人"
     },
     {
@@ -4897,6 +4921,14 @@
       "onboard_time": 1737678678,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 277718,
+      "num": 277718,
+      "word": "陈震回应泄密OPPO新机",
+      "onboard_time": 1737700638,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 277633,
@@ -5460,7 +5492,7 @@
     },
     {
       "raw_hot": 251366,
-      "num": 187634,
+      "num": 215349,
       "word": "权志龙太阳朴彩英同框合照",
       "onboard_time": 1737697579,
       "rank": 27,
@@ -5721,6 +5753,14 @@
       "onboard_time": 1737357618,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 238873,
+      "num": 224587,
+      "word": "韩国网友称夺冠很尴尬",
+      "onboard_time": 1737699618,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 238728,
@@ -6003,20 +6043,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 226194,
-      "num": 188075,
-      "word": "陈震回应泄密OPPO新机",
-      "onboard_time": 1737700638,
-      "rank": 30,
-      "category": "数码"
-    },
-    {
       "raw_hot": 225614,
       "num": 209581,
       "word": "明日方舟",
       "onboard_time": 1737197539,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 224482,
+      "num": 224482,
+      "word": "男子高速超速100%追尾前车",
+      "onboard_time": 1737696199,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 224154,
@@ -6387,14 +6427,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 211929,
-      "num": 187323,
-      "word": "陈小春说Jasper演讲祖宗听了都开心",
-      "onboard_time": 1737700638,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 211869,
       "num": 211869,
       "word": "所有临时工送陈朵最后一程",
@@ -6577,6 +6609,14 @@
       "onboard_time": 1737544578,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 207553,
+      "num": 227254,
+      "word": "卞相壹出席颁奖典礼",
+      "onboard_time": 1737701958,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 207523,
@@ -8643,14 +8683,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 174568,
-      "num": 174568,
-      "word": "韩国网友称夺冠很尴尬",
-      "onboard_time": 1737699618,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 174541,
       "num": 174541,
       "word": "谁家男主每集和狗飙戏",
@@ -8969,14 +9001,6 @@
       "onboard_time": 1737439397,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 169154,
-      "num": 193458,
-      "word": "男子高速超速100%追尾前车",
-      "onboard_time": 1737696199,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 169066,
@@ -9537,6 +9561,14 @@
       "onboard_time": 1737349220,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 161556,
+      "num": 161556,
+      "word": "杨幂自己玩三折叠梗",
+      "onboard_time": 1737702797,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 161277,
@@ -10193,6 +10225,14 @@
       "onboard_time": 1737674475,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151928,
+      "num": 151928,
+      "word": "被张子枫的花篮种草了",
+      "onboard_time": 1737700997,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 151891,
@@ -10883,6 +10923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143983,
+      "num": 143983,
+      "word": "网易云或下架SM旗下全部歌曲",
+      "onboard_time": 1737703217,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 143972,
       "num": 143972,
       "word": "2024剧集十大人气男性角色",
@@ -10961,6 +11009,14 @@
       "onboard_time": 1737613939,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142669,
+      "num": 152723,
+      "word": "一年烫一次的头长啥样",
+      "onboard_time": 1737700997,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 142454,
@@ -11049,6 +11105,14 @@
       "onboard_time": 1737388698,
       "rank": 18,
       "category": "网红"
+    },
+    {
+      "raw_hot": 141497,
+      "num": 141497,
+      "word": "爱上陈晓的古装剧是我的宿命",
+      "onboard_time": 1737702978,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 141417,
@@ -11289,6 +11353,14 @@
       "onboard_time": 1737554480,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138400,
+      "num": 138400,
+      "word": "OPPO回应陈震泄露新机",
+      "onboard_time": 1737700878,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 138182,
@@ -11843,14 +11915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132151,
-      "num": 132151,
-      "word": "OPPO回应陈震泄露新机",
-      "onboard_time": 1737700878,
-      "rank": 44,
-      "category": "数码"
-    },
-    {
       "raw_hot": 132022,
       "num": 132022,
       "word": "打压式伴侣有多可怕",
@@ -12259,6 +12323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126580,
+      "num": 227729,
+      "word": "应急车道留给有需要的人",
+      "onboard_time": 1737702555,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126542,
       "num": 230292,
       "word": "高芙无缘澳网四强",
@@ -12396,7 +12468,7 @@
     },
     {
       "raw_hot": 124889,
-      "num": 124889,
+      "num": 127716,
       "word": "卞相壹回应柯洁被判负",
       "onboard_time": 1737700577,
       "rank": 47,
@@ -13587,6 +13659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110948,
+      "num": 110948,
+      "word": "哈尔滨的猫咪也是加大号版",
+      "onboard_time": 1737702736,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110924,
       "num": 110924,
       "word": "漂白 逻辑",
@@ -14065,6 +14145,14 @@
       "onboard_time": 1737269836,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105810,
+      "num": 225972,
+      "word": "费翔说票房越大我们胆子越大",
+      "onboard_time": 1737702017,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 105786,
@@ -15299,6 +15387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 78574,
+      "num": 228853,
+      "word": "女孩用棍子扒出景区祈福钱后拿走",
+      "onboard_time": 1737701058,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78433,
       "num": 240082,
       "word": "樊振东金牌含金量有多高",
@@ -15500,7 +15596,7 @@
     },
     {
       "raw_hot": 71983,
-      "num": 588203,
+      "num": 608836,
       "word": "央视经典之夜",
       "onboard_time": 1737635118,
       "rank": 2,
@@ -15664,6 +15760,14 @@
       "word": "蛟龙小队韩东君请伊利上桌",
       "onboard_time": 1737538518,
       "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 65964,
+      "num": 152167,
+      "word": "封神新浪扫楼",
+      "onboard_time": 1737703217,
+      "rank": 39,
       "category": "电影"
     },
     {
@@ -16012,7 +16116,7 @@
     },
     {
       "raw_hot": 54589,
-      "num": 133192,
+      "num": 228237,
       "word": "贾玲这次热辣滚烫的是鱼汤",
       "onboard_time": 1737700698,
       "rank": 41,
@@ -16683,6 +16787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 37570,
+      "num": 232082,
+      "word": "督促摆摊城管称想让商户多赚钱",
+      "onboard_time": 1737702198,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37538,
       "num": 1057559,
       "word": "中式纹样里祝福满满",
@@ -16772,7 +16884,7 @@
     },
     {
       "raw_hot": 35095,
-      "num": 206696,
+      "num": 226734,
       "word": "贾玲演我过春节",
       "onboard_time": 1737697579,
       "rank": 12,
@@ -17329,6 +17441,14 @@
       "onboard_time": 1737527238,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 22707,
+      "num": 231369,
+      "word": "微博新表情蛇精来啦",
+      "onboard_time": 1737702139,
+      "rank": 14,
+      "category": "互联网,动漫"
     },
     {
       "raw_hot": 22569,
