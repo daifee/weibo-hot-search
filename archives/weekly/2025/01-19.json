@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737747350307,
+  "endTime": 1737750190527,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -19713,6 +19713,14 @@
       "onboard_time": 1737235339,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15234,
+      "num": 18960,
+      "word": "刘耀文熊猫玩偶自拍",
+      "onboard_time": 1737741073,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 15074,
