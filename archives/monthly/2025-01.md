@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/24 23:37:13
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/25 00:27:27
 </p>
 </blockquote>
 <p>
@@ -1049,6 +1049,12 @@ Ok 咱们线上（热度：2051932）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%88%AA%20%E7%BE%8E%E7%8F%8D%E9%A6%99%23" target="weibo">
 国航 美珍香（热度：1964992）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%8F%91%E6%96%87%E8%87%B4%E6%AD%89%23" target="weibo">
+霸王茶姬发文致歉（热度：1963235）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ GMM（热度：773720）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E6%8A%8A%E6%A2%B3%E5%AD%90%E5%81%9A%E6%88%90%E6%9F%BF%E5%AD%90%E5%BD%A2%E7%8A%B6%E5%8D%96%E4%BA%865%E4%B8%87%E6%8A%8A%23" target="weibo">
 小伙把梳子做成柿子形状卖了5万把（热度：754567）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%99%E7%93%A6%E5%BA%95%23" target="weibo">
-妙瓦底（热度：754078）
 </a>
 </li>
 

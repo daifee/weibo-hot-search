@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737733033733,
+  "endTime": 1737736047740,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1387,6 +1387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1963235,
+      "num": 182117,
+      "word": "霸王茶姬发文致歉",
+      "onboard_time": 1737734719,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1962342,
       "num": 1167843,
       "word": "棣欣引力",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735900819,
       "rank": 5,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1556030,
-      "num": 349765,
-      "word": "四川内江市3.2级地震",
-      "onboard_time": 1737373639,
-      "rank": 29,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

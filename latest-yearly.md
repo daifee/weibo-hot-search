@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/24 23:37:13
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/25 00:27:27
 </p>
 </blockquote>
 <p>
@@ -1053,6 +1053,12 @@ Ok 咱们线上（热度：2051932）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%8F%91%E6%96%87%E8%87%B4%E6%AD%89%23" target="weibo">
+霸王茶姬发文致歉（热度：1963235）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A3%A3%E6%AC%A3%E5%BC%95%E5%8A%9B%23" target="weibo">
 棣欣引力（热度：1962342）
 </a>
@@ -1805,12 +1811,6 @@ AG挑战者杯夺冠（热度：1652837）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E7%AB%9E%E6%96%87%E7%94%B7%E4%B8%BB%E6%9C%89%E8%84%B8%E4%BA%86%23" target="weibo">
 电竞文男主有脸了（热度：1559260）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%86%85%E6%B1%9F%E5%B8%823.2%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
-四川内江市3.2级地震（热度：1556030）
 </a>
 </li>
 
