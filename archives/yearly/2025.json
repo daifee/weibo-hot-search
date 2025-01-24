@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737697091911,
+  "endTime": 1737700226163,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1603,6 +1603,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1870838,
+      "num": 1870838,
+      "word": "杨幂自驾新疆找迪丽热巴当翻译",
+      "onboard_time": 1737697459,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1870830,
       "num": 1870830,
       "word": "虞书欣黑莲花女王",
@@ -2379,27 +2387,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1554016,
+      "num": 266330,
+      "word": "赵露思谈与抑郁症斗争",
+      "onboard_time": 1737696679,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1552604,
       "num": 1441674,
       "word": "杨紫 小女子不才也会点英语",
       "onboard_time": 1735911198,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1552163,
-      "num": 4604495,
-      "word": "明德元年",
-      "onboard_time": 1736047111,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1550915,
-      "num": 1550915,
-      "word": "国色芳华收视率",
-      "onboard_time": 1736430444,
-      "rank": 3,
       "category": "剧集"
     }
   ],

@@ -1,6 +1,6 @@
 {
   "startTime": 1737649694584,
-  "endTime": 1737697091911,
+  "endTime": 1737700226163,
   "band_list": [
     {
       "raw_hot": 3219780,
@@ -35,6 +35,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1870838,
+      "num": 1870838,
+      "word": "杨幂自驾新疆找迪丽热巴当翻译",
+      "onboard_time": 1737697459,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1554016,
+      "num": 266330,
+      "word": "赵露思谈与抑郁症斗争",
+      "onboard_time": 1737696679,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1452990,
       "num": 1452990,
       "word": "杨子说直播求婚被黄圣依骂了五分钟",
@@ -59,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1083076,
+      "num": 372004,
+      "word": "常华森网盘",
+      "onboard_time": 1737696019,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1078481,
       "num": 1126074,
       "word": "上海首例野蛮私挖地下室入刑",
@@ -73,6 +97,14 @@
       "onboard_time": 1737644300,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 961155,
+      "num": 961155,
+      "word": "民政局调查捐10元被嫌抠事件",
+      "onboard_time": 1737697279,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 944600,
@@ -129,6 +161,14 @@
       "onboard_time": 1737636261,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 699402,
+      "num": 699402,
+      "word": "捐10元家长称收到明嘲暗讽式道歉",
+      "onboard_time": 1737694638,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 684499,
@@ -217,14 +257,6 @@
       "onboard_time": 1737684318,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 520974,
-      "num": 372004,
-      "word": "常华森网盘",
-      "onboard_time": 1737696019,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 509924,
@@ -323,14 +355,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 407295,
-      "num": 407295,
-      "word": "捐10元家长称收到明嘲暗讽式道歉",
-      "onboard_time": 1737694638,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 405915,
       "num": 343851,
       "word": "权志龙绿发",
@@ -393,6 +417,14 @@
       "onboard_time": 1737684258,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 342016,
+      "num": 205307,
+      "word": "赵露思明日复工",
+      "onboard_time": 1737697579,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 336857,
@@ -467,11 +499,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 277456,
-      "num": 261386,
-      "word": "赵露思谈与抑郁症斗争",
-      "onboard_time": 1737696679,
-      "rank": 16,
+      "raw_hot": 276588,
+      "num": 249080,
+      "word": "卞相壹曾因打不过女棋手扇自己耳光",
+      "onboard_time": 1737696379,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 275810,
+      "num": 187114,
+      "word": "迪丽热巴库存真的不多了",
+      "onboard_time": 1737698060,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -491,6 +531,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 261491,
+      "num": 195403,
+      "word": "卞相壹称裁判判罚时才知道新规",
+      "onboard_time": 1737699979,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 260443,
+      "num": 199206,
+      "word": "严浩翔点个赞比个耶",
+      "onboard_time": 1737699199,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260260,
       "num": 454477,
       "word": "重庆年味",
@@ -499,12 +555,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 243068,
+      "raw_hot": 256864,
       "num": 243068,
       "word": "异人之下2大结局",
       "onboard_time": 1737696438,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 251366,
+      "num": 179539,
+      "word": "权志龙太阳朴彩英同框合照",
+      "onboard_time": 1737697579,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 241637,
@@ -667,14 +731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 203370,
-      "num": 249080,
-      "word": "卞相壹曾因打不过女棋手扇自己耳光",
-      "onboard_time": 1737696379,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 202570,
       "num": 202570,
       "word": "花间令上星",
@@ -811,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178249,
+      "num": 178249,
+      "word": "王影璐回应初演冯宝宝差评",
+      "onboard_time": 1737697459,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177535,
       "num": 190727,
       "word": "李幼贞报复何惟芳",
@@ -867,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171078,
+      "num": 171078,
+      "word": "沈月杀青vlog",
+      "onboard_time": 1737699018,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171054,
       "num": 171054,
       "word": "权志龙把88line凑一起了",
@@ -889,6 +961,14 @@
       "onboard_time": 1737674295,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169154,
+      "num": 176150,
+      "word": "男子高速超速100%追尾前车",
+      "onboard_time": 1737696199,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168147,
@@ -931,6 +1011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 164598,
+      "num": 164598,
+      "word": "韩国网友称夺冠很尴尬",
+      "onboard_time": 1737699618,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160871,
       "num": 160871,
       "word": "希望你们的生活像糖果一样甜甜美美",
@@ -961,6 +1049,14 @@
       "onboard_time": 1737692958,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 157303,
+      "num": 157303,
+      "word": "白色橄榄树",
+      "onboard_time": 1737698718,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 154580,
@@ -1003,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147976,
+      "num": 184640,
+      "word": "柯洁俞斌今日启程回国",
+      "onboard_time": 1737699318,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146896,
       "num": 146896,
       "word": "权志龙新综艺好多人啊",
@@ -1017,6 +1121,14 @@
       "onboard_time": 1737677719,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145416,
+      "num": 145416,
+      "word": "蒋长扬其实对何惟芳表白了很多次",
+      "onboard_time": 1737699258,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 144585,
@@ -1049,6 +1161,14 @@
       "onboard_time": 1737681978,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139443,
+      "num": 139443,
+      "word": "代露娃常华森 厨王争霸",
+      "onboard_time": 1737698660,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 139350,
@@ -1131,14 +1251,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 130902,
-      "num": 130902,
-      "word": "男子高速超速100%追尾前车",
-      "onboard_time": 1737696199,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128433,
       "num": 128433,
       "word": "AG超玩会",
@@ -1161,6 +1273,14 @@
       "onboard_time": 1737688218,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126018,
+      "num": 133142,
+      "word": "过年才有的装扮",
+      "onboard_time": 1737697219,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 125950,
@@ -1203,6 +1323,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121734,
+      "num": 197452,
+      "word": "刘耀文祝大家蛇全蛇美",
+      "onboard_time": 1737699798,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 121239,
+      "num": 121239,
+      "word": "在日本铁轨被撞身亡中国游客来自香港",
+      "onboard_time": 1737697519,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120899,
       "num": 120899,
       "word": "文章马伊琍大女儿为妹妹庆生",
@@ -1241,6 +1377,22 @@
       "onboard_time": 1737674235,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 117114,
+      "num": 117114,
+      "word": "在慢性疼痛里隐忍的女性",
+      "onboard_time": 1737698060,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116119,
+      "num": 116119,
+      "word": "异人之下2哥的炉子碎了",
+      "onboard_time": 1737699199,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 115802,
@@ -1491,6 +1643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 64854,
+      "num": 193625,
+      "word": "多辆私家车走应急车道致救护车受阻",
+      "onboard_time": 1737699018,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63747,
       "num": 170231,
       "word": "广东文旅海外推介官王嘉尔",
@@ -1667,6 +1827,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 35095,
+      "num": 206696,
+      "word": "贾玲演我过春节",
+      "onboard_time": 1737697579,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 33865,
       "num": 33865,
       "word": "杜淳王灿买年货",
@@ -1713,6 +1881,14 @@
       "onboard_time": 1737653653,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26107,
+      "num": 177833,
+      "word": "全国首只柯基警犬登上时尚封面",
+      "onboard_time": 1737699560,
+      "rank": 29,
+      "category": "时尚"
     },
     {
       "raw_hot": 25305,
@@ -1817,6 +1993,14 @@
       "onboard_time": 1737669672,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 14955,
+      "num": 182892,
+      "word": "职业打假培训课1960元一对一教学",
+      "onboard_time": 1737699918,
+      "rank": 25,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 14492,
