@@ -1,0 +1,410 @@
+{
+  "runTime": 1737725149216,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 776997,
+        "num": 1124319,
+        "word": "虞书欣 狭路",
+        "onboard_time": 1737718577,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 354375,
+        "num": 354375,
+        "word": "蛇是怎么成为十二生肖的",
+        "onboard_time": 1737710360,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 34721,
+        "num": 282501,
+        "word": "2025网络视听盛典",
+        "onboard_time": 1737686898,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 427060,
+        "num": 256932,
+        "word": "女子把工地破烂编成篮子当新年礼物",
+        "onboard_time": 1737716778,
+        "rank": 3,
+        "category": "正能量,民生新闻"
+      },
+      {
+        "raw_hot": 220221,
+        "num": 220221,
+        "word": "AL对战TES",
+        "onboard_time": 1737715517,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 734065,
+        "num": 219668,
+        "word": "特朗普签行政令解密肯尼迪遇刺",
+        "onboard_time": 1737722239,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 426195,
+        "num": 217304,
+        "word": "卞相壹称死子放错规则无存在必要",
+        "onboard_time": 1737718338,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 388083,
+        "num": 217184,
+        "word": "卢昱晓高铁上为五福全员画头像",
+        "onboard_time": 1737720439,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355899,
+        "num": 215297,
+        "word": "柯洁父亲发声",
+        "onboard_time": 1737714319,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 331785,
+        "num": 212850,
+        "word": "王俊凯黑色新中式",
+        "onboard_time": 1737723200,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 596182,
+        "num": 211276,
+        "word": "一条小团团自称刑满释放",
+        "onboard_time": 1737705260,
+        "rank": 10,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 334564,
+        "num": 210203,
+        "word": "刘亦菲檀健次龚俊金靖一起唱K",
+        "onboard_time": 1737710839,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 284984,
+        "num": 208464,
+        "word": "电影射雕英雄传公布特辑镜头",
+        "onboard_time": 1737705199,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 282968,
+        "num": 207550,
+        "word": "国色芳华被子",
+        "onboard_time": 1737724458,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206560,
+        "num": 206560,
+        "word": "梦百合杯或禁止卞相壹参赛",
+        "onboard_time": 1737723679,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199214,
+        "num": 199214,
+        "word": "一年烫一次的头长啥样",
+        "onboard_time": 1737700997,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312410,
+        "num": 198673,
+        "word": "刘亦菲抱玲娜贝儿",
+        "onboard_time": 1737716178,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 170653,
+        "num": 196030,
+        "word": "蛟龙行动超前点映开启",
+        "onboard_time": 1737724879,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129992,
+        "num": 194501,
+        "word": "周杰伦昆凌骑车夜游巴黎",
+        "onboard_time": 1737721099,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15741,
+        "num": 193062,
+        "word": "国内数字游民或达到1亿人",
+        "onboard_time": 1737724458,
+        "rank": 19,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 317444,
+        "num": 190420,
+        "word": "原来羽绒服里要穿得薄才暖和",
+        "onboard_time": 1737720739,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271069,
+        "num": 189312,
+        "word": "杨幂自驾新疆找迪丽热巴当翻译",
+        "onboard_time": 1737697459,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257034,
+        "num": 188348,
+        "word": "十个勤天开场",
+        "onboard_time": 1737722299,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218519,
+        "num": 186304,
+        "word": "韩国棋院称会把奖金汇入柯洁账户",
+        "onboard_time": 1737705199,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35800,
+        "num": 184535,
+        "word": "清融告别子阳",
+        "onboard_time": 1737718039,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 244187,
+        "num": 182591,
+        "word": "韩国赢了 围棋输了",
+        "onboard_time": 1737723018,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219952,
+        "num": 179716,
+        "word": "白月梵星爱奇艺热度破9500",
+        "onboard_time": 1737723200,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207205,
+        "num": 178543,
+        "word": "仙台有树首发剧照",
+        "onboard_time": 1737724941,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103748,
+        "num": 176445,
+        "word": "时代少年团和国宝大熊猫同台了",
+        "onboard_time": 1737724941,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22314,
+        "num": 175890,
+        "word": "共享单车用车5分钟还车10分钟",
+        "onboard_time": 1737724578,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 174259,
+        "num": 174259,
+        "word": "樊振东新年直播",
+        "onboard_time": 1737721698,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75380,
+        "num": 173416,
+        "word": "小G和红毯的适配度拉满了",
+        "onboard_time": 1737724159,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172755,
+        "num": 172755,
+        "word": "河南局地暴雪20毫米以上",
+        "onboard_time": 1737718638,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206093,
+        "num": 172205,
+        "word": "肖战版郭靖邀你晒一晒绝活",
+        "onboard_time": 1737706519,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189728,
+        "num": 169541,
+        "word": "何惟芳不是爽文女主",
+        "onboard_time": 1737724039,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165410,
+        "num": 165410,
+        "word": "李昀锐人生四格",
+        "onboard_time": 1737724698,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164142,
+        "num": 164142,
+        "word": "星月净渊老一辈的爱情",
+        "onboard_time": 1737724820,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163588,
+        "num": 163588,
+        "word": "中药注射剂是害人的东西吗",
+        "onboard_time": 1737719959,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 161685,
+        "num": 161685,
+        "word": "醉汉刷开夫妻房门妻子现应激反应",
+        "onboard_time": 1737714018,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160780,
+        "num": 160780,
+        "word": "对真相的遮掩比校园欺凌更恐怖",
+        "onboard_time": 1737722178,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 158395,
+        "num": 158395,
+        "word": "丁禹兮国风青花瓷造型",
+        "onboard_time": 1737724639,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156976,
+        "num": 156976,
+        "word": "请尽量不要在上半夜熬夜",
+        "onboard_time": 1737706760,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148149,
+        "num": 148149,
+        "word": "原神前瞻",
+        "onboard_time": 1737723799,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145683,
+        "num": 145683,
+        "word": "特朗普拒绝继续为蓬佩奥提供安保",
+        "onboard_time": 1737723858,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144770,
+        "num": 144770,
+        "word": "第一批00后已开始彩排年夜饭了",
+        "onboard_time": 1737718577,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137226,
+        "num": 137226,
+        "word": "网易云或下架SM旗下全部歌曲",
+        "onboard_time": 1737703217,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136618,
+        "num": 136618,
+        "word": "gumayusi T1",
+        "onboard_time": 1737725059,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136332,
+        "num": 136332,
+        "word": "网络视听盛典红毯",
+        "onboard_time": 1737720859,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133270,
+        "num": 133270,
+        "word": "小九你真的很守男德",
+        "onboard_time": 1737722720,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121433,
+        "num": 121433,
+        "word": "当我妈把我和皮冻放一屋",
+        "onboard_time": 1737720739,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#实体经济是国民经济的根基所在#"
+    }
+  }
+}
