@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737750190527,
+  "endTime": 1737750924924,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -19713,6 +19713,14 @@
       "onboard_time": 1737235339,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15274,
+      "num": 18152,
+      "word": "听张杰树呢想家了",
+      "onboard_time": 1737750491,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 15234,
