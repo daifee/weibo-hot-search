@@ -1,6 +1,6 @@
 {
   "startTime": 1737649694584,
-  "endTime": 1737725149216,
+  "endTime": 1737725847738,
   "band_list": [
     {
       "raw_hot": 3219780,
@@ -203,20 +203,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 816125,
+      "num": 358913,
+      "word": "特朗普签行政令解密肯尼迪遇刺",
+      "onboard_time": 1737722239,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 740976,
       "num": 740976,
       "word": "李昀锐换童年照头像",
       "onboard_time": 1737690798,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 734065,
-      "num": 236750,
-      "word": "特朗普签行政令解密肯尼迪遇刺",
-      "onboard_time": 1737722239,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 734053,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 694557,
-      "num": 265321,
+      "num": 360938,
       "word": "卞相壹称死子放错规则无存在必要",
       "onboard_time": 1737718338,
       "rank": 5,
@@ -500,11 +500,19 @@
     },
     {
       "raw_hot": 479155,
-      "num": 282699,
+      "num": 363920,
       "word": "女子把工地破烂编成篮子当新年礼物",
       "onboard_time": 1737716778,
       "rank": 17,
       "category": "正能量,民生新闻"
+    },
+    {
+      "raw_hot": 478522,
+      "num": 356750,
+      "word": "国色芳华被子",
+      "onboard_time": 1737724458,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 478232,
@@ -636,7 +644,7 @@
     },
     {
       "raw_hot": 388083,
-      "num": 242965,
+      "num": 350061,
       "word": "卢昱晓高铁上为五福全员画头像",
       "onboard_time": 1737720439,
       "rank": 8,
@@ -715,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 351136,
+      "num": 351136,
+      "word": "王俊凯黑色新中式",
+      "onboard_time": 1737723200,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 347431,
       "num": 257943,
       "word": "郎朗和朴彩英合作舞台",
@@ -731,6 +747,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 340636,
+      "num": 297171,
+      "word": "原来羽绒服里要穿得薄才暖和",
+      "onboard_time": 1737720739,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 336857,
       "num": 336857,
       "word": "杨子回应钻戒没送出去怎么办",
@@ -739,28 +763,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 331785,
-      "num": 212850,
-      "word": "王俊凯黑色新中式",
-      "onboard_time": 1737723200,
-      "rank": 24,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 319505,
       "num": 319505,
       "word": "刘亦菲也去了VOGUE年会",
       "onboard_time": 1737708018,
       "rank": 48,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 317444,
-      "num": 190420,
-      "word": "原来羽绒服里要穿得薄才暖和",
-      "onboard_time": 1737720739,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 311055,
@@ -819,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293265,
+      "num": 293265,
+      "word": "韩国赢了 围棋输了",
+      "onboard_time": 1737723018,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 292369,
       "num": 283133,
       "word": "韩国贡献了零胜夺冠的闹剧",
@@ -841,14 +857,6 @@
       "onboard_time": 1737698060,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 282968,
-      "num": 207550,
-      "word": "国色芳华被子",
-      "onboard_time": 1737724458,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 279829,
@@ -892,7 +900,7 @@
     },
     {
       "raw_hot": 257034,
-      "num": 223658,
+      "num": 248128,
       "word": "十个勤天开场",
       "onboard_time": 1737722299,
       "rank": 39,
@@ -915,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250835,
+      "num": 250835,
+      "word": "虞书欣腾讯视频海报C位",
+      "onboard_time": 1737725180,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 250184,
       "num": 250184,
       "word": "樊振东新年直播",
@@ -929,14 +945,6 @@
       "onboard_time": 1737706339,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 244187,
-      "num": 182591,
-      "word": "韩国赢了 围棋输了",
-      "onboard_time": 1737723018,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 243717,
@@ -1076,7 +1084,7 @@
     },
     {
       "raw_hot": 220221,
-      "num": 220221,
+      "num": 363131,
       "word": "AL对战TES",
       "onboard_time": 1737715517,
       "rank": 4,
@@ -1097,6 +1105,14 @@
       "onboard_time": 1737723200,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219658,
+      "num": 331539,
+      "word": "蛟龙行动超前点映开启",
+      "onboard_time": 1737724879,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 217713,
@@ -1147,6 +1163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211964,
+      "num": 211964,
+      "word": "周杰伦昆凌骑车夜游巴黎",
+      "onboard_time": 1737721099,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211869,
       "num": 211869,
       "word": "所有临时工送陈朵最后一程",
@@ -1180,7 +1204,7 @@
     },
     {
       "raw_hot": 207205,
-      "num": 178543,
+      "num": 190693,
       "word": "仙台有树首发剧照",
       "onboard_time": 1737724941,
       "rank": 27,
@@ -1188,7 +1212,7 @@
     },
     {
       "raw_hot": 206560,
-      "num": 206560,
+      "num": 324600,
       "word": "梦百合杯或禁止卞相壹参赛",
       "onboard_time": 1737723679,
       "rank": 14,
@@ -1243,12 +1267,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200259,
+      "num": 200259,
+      "word": "星月净渊老一辈的爱情",
+      "onboard_time": 1737724820,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 198587,
+      "num": 198587,
+      "word": "李昀锐人生四格",
+      "onboard_time": 1737724698,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196847,
       "num": 196847,
       "word": "香港游客被尔滨宠上了天",
       "onboard_time": 1737693258,
       "rank": 27,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 195842,
+      "num": 354052,
+      "word": "时代少年团和国宝大熊猫同台了",
+      "onboard_time": 1737724941,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 194576,
@@ -1419,6 +1467,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 181454,
+      "num": 252259,
+      "word": "gumayusi T1",
+      "onboard_time": 1737725059,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 180359,
       "num": 203488,
       "word": "快乐过年具象化了",
@@ -1531,6 +1587,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173171,
+      "num": 173171,
+      "word": "丁禹兮国风青花瓷造型",
+      "onboard_time": 1737724639,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 172946,
+      "num": 172946,
+      "word": "中药注射剂是害人的东西吗",
+      "onboard_time": 1737719959,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 172741,
       "num": 172741,
       "word": "电影小小的我网播",
@@ -1579,6 +1651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171234,
+      "num": 171234,
+      "word": "妈妈在哪家就在哪",
+      "onboard_time": 1737725479,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171078,
       "num": 171078,
       "word": "沈月杀青vlog",
@@ -1593,14 +1673,6 @@
       "onboard_time": 1737695059,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 170653,
-      "num": 196030,
-      "word": "蛟龙行动超前点映开启",
-      "onboard_time": 1737724879,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 169965,
@@ -1675,12 +1747,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165410,
-      "num": 165410,
-      "word": "李昀锐人生四格",
-      "onboard_time": 1737724698,
-      "rank": 35,
-      "category": "剧集"
+      "raw_hot": 165235,
+      "num": 312938,
+      "word": "张凌赫微博之夜人生四格",
+      "onboard_time": 1737723018,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 164851,
@@ -1707,20 +1779,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 164142,
-      "num": 164142,
-      "word": "星月净渊老一辈的爱情",
-      "onboard_time": 1737724820,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 163588,
-      "num": 163588,
-      "word": "中药注射剂是害人的东西吗",
-      "onboard_time": 1737719959,
-      "rank": 41,
-      "category": "健康医疗"
+      "raw_hot": 163447,
+      "num": 163447,
+      "word": "砂糖橘",
+      "onboard_time": 1737721578,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 163410,
@@ -1795,14 +1859,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 158395,
-      "num": 158395,
-      "word": "丁禹兮国风青花瓷造型",
-      "onboard_time": 1737724639,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 157522,
       "num": 303619,
       "word": "张杰熊出没电影主题曲开启预约",
@@ -1827,14 +1883,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 154709,
-      "num": 194501,
-      "word": "周杰伦昆凌骑车夜游巴黎",
-      "onboard_time": 1737721099,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 154580,
       "num": 203977,
       "word": "霍思燕说杜江演红海前是微胖男孩",
@@ -1849,6 +1897,14 @@
       "onboard_time": 1737677416,
       "rank": 29,
       "category": "剧集,时尚"
+    },
+    {
+      "raw_hot": 153400,
+      "num": 153400,
+      "word": "特朗普拒绝继续为蓬佩奥提供安保",
+      "onboard_time": 1737723858,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 152931,
@@ -1915,8 +1971,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 148149,
-      "num": 148149,
+      "raw_hot": 148204,
+      "num": 148204,
       "word": "原神前瞻",
       "onboard_time": 1737723799,
       "rank": 42,
@@ -1963,20 +2019,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145917,
+      "num": 145917,
+      "word": "仙台有树",
+      "onboard_time": 1737725722,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145721,
       "num": 346500,
       "word": "应急车道留给有需要的人",
       "onboard_time": 1737702555,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 145683,
-      "num": 145683,
-      "word": "特朗普拒绝继续为蓬佩奥提供安保",
-      "onboard_time": 1737723858,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 145537,
@@ -2097,14 +2153,6 @@
       "onboard_time": 1737684557,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 136618,
-      "num": 136618,
-      "word": "gumayusi T1",
-      "onboard_time": 1737725059,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 136273,
@@ -2299,14 +2347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125150,
-      "num": 125150,
-      "word": "张凌赫微博之夜人生四格",
-      "onboard_time": 1737723018,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 124489,
       "num": 124489,
       "word": "女子利用七天无理由诈骗超2万元",
@@ -2356,7 +2396,7 @@
     },
     {
       "raw_hot": 122623,
-      "num": 122623,
+      "num": 160671,
       "word": "滔搏人员变动公告",
       "onboard_time": 1737717138,
       "rank": 38,
@@ -2585,14 +2625,6 @@
       "onboard_time": 1737702017,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 103748,
-      "num": 176445,
-      "word": "时代少年团和国宝大熊猫同台了",
-      "onboard_time": 1737724941,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 101383,
@@ -2828,7 +2860,7 @@
     },
     {
       "raw_hot": 75380,
-      "num": 173416,
+      "num": 255755,
       "word": "小G和红毯的适配度拉满了",
       "onboard_time": 1737724159,
       "rank": 31,
@@ -3243,6 +3275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 34176,
+      "num": 201963,
+      "word": "共享单车用车5分钟还车10分钟",
+      "onboard_time": 1737724578,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 33865,
       "num": 33865,
       "word": "杜淳王灿买年货",
@@ -3371,20 +3411,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22314,
-      "num": 175890,
-      "word": "共享单车用车5分钟还车10分钟",
-      "onboard_time": 1737724578,
-      "rank": 29,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 22038,
       "num": 196947,
       "word": "职业打假培训课1960元一对一教学",
       "onboard_time": 1737699918,
       "rank": 25,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 21975,
+      "num": 310706,
+      "word": "国内数字游民或达到1亿人",
+      "onboard_time": 1737724458,
+      "rank": 19,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 21802,
@@ -3457,14 +3497,6 @@
       "onboard_time": 1737659832,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15741,
-      "num": 193062,
-      "word": "国内数字游民或达到1亿人",
-      "onboard_time": 1737724458,
-      "rank": 19,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 15354,
