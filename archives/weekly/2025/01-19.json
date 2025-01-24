@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737750924924,
+  "endTime": 1737753612899,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -19499,6 +19499,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 19567,
+      "num": 19567,
+      "word": "香港3平米月租2200的家",
+      "onboard_time": 1737749951,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 19220,
       "num": 19220,
       "word": "张极祝大家奋发有为",
@@ -19617,6 +19625,14 @@
       "onboard_time": 1737215298,
       "rank": 46,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 17246,
+      "num": 39050,
+      "word": "李微微被双开",
+      "onboard_time": 1737752771,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17185,
