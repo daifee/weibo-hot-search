@@ -1,0 +1,410 @@
+{
+  "runTime": 1737697091911,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1088305,
+        "num": 1174128,
+        "word": "贾玲 你的强回来了",
+        "onboard_time": 1737686297,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 579484,
+        "num": 579484,
+        "word": "293元8个菜预制年夜饭热销",
+        "onboard_time": 1737683478,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28428,
+        "num": 501621,
+        "word": "2025网络视听盛典",
+        "onboard_time": 1737686898,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 498981,
+        "num": 498981,
+        "word": "警方通报男子捅死夫妇后自残",
+        "onboard_time": 1737691698,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 407295,
+        "num": 407295,
+        "word": "捐10元家长称收到明嘲暗讽式道歉",
+        "onboard_time": 1737694638,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 551122,
+        "num": 388109,
+        "word": "柯洁微博评论区被3个字刷屏",
+        "onboard_time": 1737681857,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 520974,
+        "num": 372004,
+        "word": "常华森网盘",
+        "onboard_time": 1737696019,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460726,
+        "num": 365648,
+        "word": "是谁让祝绪丹做魔术助演的",
+        "onboard_time": 1737693377,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325055,
+        "num": 325055,
+        "word": "河南局地暴雪10到18毫米",
+        "onboard_time": 1737686658,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265908,
+        "num": 265908,
+        "word": "澳网德约科维奇退赛",
+        "onboard_time": 1737695779,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2944070,
+        "num": 265218,
+        "word": "霸王茶姬 外网",
+        "onboard_time": 1737692719,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1020979,
+        "num": 264585,
+        "word": "字节取消下午茶",
+        "onboard_time": 1737690978,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 690513,
+        "num": 264116,
+        "word": "特朗普终止出生公民权被裁定违宪",
+        "onboard_time": 1737689598,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 638807,
+        "num": 263718,
+        "word": "韩国网友吐槽韩国棋院长脑子了吗",
+        "onboard_time": 1737691098,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 600010,
+        "num": 262804,
+        "word": "李昀锐换童年照头像",
+        "onboard_time": 1737690798,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 447254,
+        "num": 261921,
+        "word": "李昀锐 我在剧组是她的玩具",
+        "onboard_time": 1737695659,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277456,
+        "num": 261386,
+        "word": "赵露思谈与抑郁症斗争",
+        "onboard_time": 1737696679,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328682,
+        "num": 260542,
+        "word": "遭举报出轨人妻的肖峰被双开",
+        "onboard_time": 1737686898,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203758,
+        "num": 260177,
+        "word": "敖瑞鹏灵魂画手",
+        "onboard_time": 1737696320,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115802,
+        "num": 259249,
+        "word": "于适直播",
+        "onboard_time": 1737696438,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359508,
+        "num": 258674,
+        "word": "快要被杨紫李现甜成翘嘴了",
+        "onboard_time": 1737695481,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347431,
+        "num": 257943,
+        "word": "郎朗和朴彩英合作舞台",
+        "onboard_time": 1737696138,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319915,
+        "num": 257239,
+        "word": "误以为是动物儿子开枪击中除草母亲",
+        "onboard_time": 1737684318,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256649,
+        "num": 256649,
+        "word": "赵露思环球时报采访",
+        "onboard_time": 1737690798,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203370,
+        "num": 249080,
+        "word": "卞相壹曾因打不过女棋手扇自己耳光",
+        "onboard_time": 1737696379,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243068,
+        "num": 243068,
+        "word": "异人之下2大结局",
+        "onboard_time": 1737696438,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240950,
+        "num": 240950,
+        "word": "女子连续熬夜加班同时确诊8种病",
+        "onboard_time": 1737691098,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222084,
+        "num": 222084,
+        "word": "重庆年味",
+        "onboard_time": 1737690978,
+        "rank": 27,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 48886,
+        "num": 212096,
+        "word": "仿制药和原研药有区别吗",
+        "onboard_time": 1737695119,
+        "rank": 28,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 211869,
+        "num": 211869,
+        "word": "所有临时工送陈朵最后一程",
+        "onboard_time": 1737695301,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148516,
+        "num": 202841,
+        "word": "快乐过年具象化了",
+        "onboard_time": 1737693078,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 199789,
+        "num": 199789,
+        "word": "终于看到青衣含量100%国产剧",
+        "onboard_time": 1737691098,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192894,
+        "num": 192894,
+        "word": "赵露思害怕被别人认为工作不够努力",
+        "onboard_time": 1737693078,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191796,
+        "num": 191796,
+        "word": "白色橄榄树重逢吻",
+        "onboard_time": 1737696679,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189839,
+        "num": 189839,
+        "word": "时间在农村竟然是停止的",
+        "onboard_time": 1737691818,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183151,
+        "num": 183151,
+        "word": "毛晓彤杀青照从嘻嘻到不嘻嘻",
+        "onboard_time": 1737696019,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165598,
+        "num": 165598,
+        "word": "每一次王宝强顺拐都有刘昊然",
+        "onboard_time": 1737694819,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164993,
+        "num": 164993,
+        "word": "龙丹妮廖俊涛谁是你的谁",
+        "onboard_time": 1737695179,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151642,
+        "num": 151642,
+        "word": "霍思燕说杜江演红海前是微胖男孩",
+        "onboard_time": 1737693860,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139482,
+        "num": 139482,
+        "word": "德约科维奇vs兹维列夫",
+        "onboard_time": 1737688999,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143442,
+        "num": 139463,
+        "word": "肖战梁家辉戏里戏外",
+        "onboard_time": 1737696738,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136977,
+        "num": 136977,
+        "word": "韩国网友竟称柯洁无知又没礼貌",
+        "onboard_time": 1737684677,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136296,
+        "num": 136296,
+        "word": "权志龙把88line凑一起了",
+        "onboard_time": 1737695059,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53420,
+        "num": 135636,
+        "word": "特朗普回应将对临时禁令上诉",
+        "onboard_time": 1737693680,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135438,
+        "num": 135438,
+        "word": "Cat直播辟谣",
+        "onboard_time": 1737691939,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130902,
+        "num": 130902,
+        "word": "男子高速超速100%追尾前车",
+        "onboard_time": 1737696199,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127607,
+        "num": 127607,
+        "word": "剑来",
+        "onboard_time": 1737696918,
+        "rank": 46,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 125950,
+        "num": 125950,
+        "word": "猫咪拍下狗狗偷吃证据",
+        "onboard_time": 1737696800,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125439,
+        "num": 125439,
+        "word": "权志龙绿发",
+        "onboard_time": 1737684557,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120374,
+        "num": 120374,
+        "word": "连笑曝柯洁应该不会参加闭幕式",
+        "onboard_time": 1737684318,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#大家共同努力把幸福生活过得更好#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1737649694584,
-  "endTime": 1737696074332,
+  "endTime": 1737697091911,
   "band_list": [
     {
       "raw_hot": 3219780,
@@ -219,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 520974,
+      "num": 372004,
+      "word": "常华森网盘",
+      "onboard_time": 1737696019,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 509924,
       "num": 509924,
       "word": "邓男子魔术 失败",
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 507347,
-      "num": 275679,
+      "num": 365648,
       "word": "是谁让祝绪丹做魔术助演的",
       "onboard_time": 1737693377,
       "rank": 33,
@@ -265,6 +273,14 @@
       "onboard_time": 1737690798,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 447254,
+      "num": 261921,
+      "word": "李昀锐 我在剧组是她的玩具",
+      "onboard_time": 1737695659,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 439958,
@@ -307,6 +323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 407295,
+      "num": 407295,
+      "word": "捐10元家长称收到明嘲暗讽式道歉",
+      "onboard_time": 1737694638,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 405915,
       "num": 343851,
       "word": "权志龙绿发",
@@ -345,6 +369,22 @@
       "onboard_time": 1737674475,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 359508,
+      "num": 258674,
+      "word": "快要被杨紫李现甜成翘嘴了",
+      "onboard_time": 1737695481,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 347431,
+      "num": 257943,
+      "word": "郎朗和朴彩英合作舞台",
+      "onboard_time": 1737696138,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 346328,
@@ -427,12 +467,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 277456,
+      "num": 261386,
+      "word": "赵露思谈与抑郁症斗争",
+      "onboard_time": 1737696679,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269162,
       "num": 221613,
       "word": "每一次王宝强顺拐都有刘昊然",
       "onboard_time": 1737694819,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 265908,
+      "num": 265908,
+      "word": "澳网德约科维奇退赛",
+      "onboard_time": 1737695779,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 260260,
@@ -443,12 +499,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 250746,
-      "num": 250746,
-      "word": "澳网德约科维奇退赛",
-      "onboard_time": 1737695779,
-      "rank": 7,
-      "category": "体育"
+      "raw_hot": 243068,
+      "num": 243068,
+      "word": "异人之下2大结局",
+      "onboard_time": 1737696438,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 241637,
@@ -473,14 +529,6 @@
       "onboard_time": 1737632719,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 232639,
-      "num": 232639,
-      "word": "捐10元家长称收到明嘲暗讽式道歉",
-      "onboard_time": 1737694638,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 232385,
@@ -587,20 +635,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211869,
+      "num": 211869,
+      "word": "所有临时工送陈朵最后一程",
+      "onboard_time": 1737695301,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211522,
       "num": 211522,
       "word": "特朗普说不在美生产就要缴巨额关税",
       "onboard_time": 1737676576,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 209772,
-      "num": 209772,
-      "word": "李昀锐 我在剧组是她的玩具",
-      "onboard_time": 1737695659,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 205240,
@@ -611,12 +659,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 204844,
-      "num": 204844,
-      "word": "快要被杨紫李现甜成翘嘴了",
-      "onboard_time": 1737695481,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 203758,
+      "num": 260177,
+      "word": "敖瑞鹏灵魂画手",
+      "onboard_time": 1737696320,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 203370,
+      "num": 249080,
+      "word": "卞相壹曾因打不过女棋手扇自己耳光",
+      "onboard_time": 1737696379,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 202570,
@@ -651,12 +707,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 194441,
-      "num": 194441,
-      "word": "常华森网盘",
-      "onboard_time": 1737696019,
-      "rank": 33,
+      "raw_hot": 192894,
+      "num": 271998,
+      "word": "赵露思害怕被别人认为工作不够努力",
+      "onboard_time": 1737693078,
+      "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191796,
+      "num": 191796,
+      "word": "白色橄榄树重逢吻",
+      "onboard_time": 1737696679,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 190890,
@@ -707,12 +771,12 @@
       "category": "美食,网红"
     },
     {
-      "raw_hot": 183144,
-      "num": 271998,
-      "word": "赵露思害怕被别人认为工作不够努力",
-      "onboard_time": 1737693078,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 183151,
+      "num": 183151,
+      "word": "毛晓彤杀青照从嘻嘻到不嘻嘻",
+      "onboard_time": 1737696019,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 182521,
@@ -899,14 +963,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 156285,
-      "num": 156285,
-      "word": "所有临时工送陈朵最后一程",
-      "onboard_time": 1737695301,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 154580,
       "num": 203977,
       "word": "霍思燕说杜江演红海前是微胖男孩",
@@ -955,14 +1011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146521,
-      "num": 146521,
-      "word": "毛晓彤杀青照从嘻嘻到不嘻嘻",
-      "onboard_time": 1737696019,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 145537,
       "num": 145537,
       "word": "经历了30年坐飞机脖子痛后突然发现",
@@ -985,6 +1033,14 @@
       "onboard_time": 1737684856,
       "rank": 40,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 143442,
+      "num": 139463,
+      "word": "肖战梁家辉戏里戏外",
+      "onboard_time": 1737696738,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 142053,
@@ -1075,6 +1131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 130902,
+      "num": 130902,
+      "word": "男子高速超速100%追尾前车",
+      "onboard_time": 1737696199,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128433,
       "num": 128433,
       "word": "AG超玩会",
@@ -1083,12 +1147,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 127607,
+      "num": 127607,
+      "word": "剑来",
+      "onboard_time": 1737696918,
+      "rank": 46,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 127181,
       "num": 209194,
       "word": "三球无缘全明星首发",
       "onboard_time": 1737688218,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125950,
+      "num": 125950,
+      "word": "猫咪拍下狗狗偷吃证据",
+      "onboard_time": 1737696800,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 125243,
@@ -1161,6 +1241,14 @@
       "onboard_time": 1737674235,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 115802,
+      "num": 259249,
+      "word": "于适直播",
+      "onboard_time": 1737696438,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 115469,
@@ -1515,6 +1603,14 @@
       "category": "舆论监督,健康医疗"
     },
     {
+      "raw_hot": 48886,
+      "num": 227316,
+      "word": "仿制药和原研药有区别吗",
+      "onboard_time": 1737695119,
+      "rank": 12,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 47487,
       "num": 47487,
       "word": "郁可唯王子异知否知否",
@@ -1593,14 +1689,6 @@
       "onboard_time": 1737652574,
       "rank": 28,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 30359,
-      "num": 227316,
-      "word": "仿制药和原研药有区别吗",
-      "onboard_time": 1737695119,
-      "rank": 12,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 29949,
