@@ -1,0 +1,410 @@
+{
+  "runTime": 1737728436015,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1119999,
+        "num": 1179199,
+        "word": "国色芳华被子",
+        "onboard_time": 1737724458,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 361308,
+        "num": 869436,
+        "word": "男子喝酒过量致呕出全身近一半血",
+        "onboard_time": 1737727459,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40698,
+        "num": 702205,
+        "word": "2025网络视听盛典",
+        "onboard_time": 1737686898,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 566346,
+        "num": 566346,
+        "word": "砂糖橘",
+        "onboard_time": 1737721578,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 431406,
+        "num": 431406,
+        "word": "虞书欣 狭路",
+        "onboard_time": 1737718577,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 375308,
+        "num": 375308,
+        "word": "卞相壹称死子放错规则无存在必要",
+        "onboard_time": 1737718338,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 529933,
+        "num": 370612,
+        "word": "特朗普签行政令解密肯尼迪遇刺",
+        "onboard_time": 1737722239,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 362728,
+        "num": 362728,
+        "word": "柯洁父亲发声",
+        "onboard_time": 1737714319,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352697,
+        "num": 352697,
+        "word": "王俊凯黑色新中式",
+        "onboard_time": 1737723200,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 371175,
+        "num": 352546,
+        "word": "虞书欣腾讯视频海报C位",
+        "onboard_time": 1737725180,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 585442,
+        "num": 345154,
+        "word": "一条小团团自称刑满释放",
+        "onboard_time": 1737705260,
+        "rank": 10,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 361075,
+        "num": 343453,
+        "word": "刘亦菲檀健次龚俊金靖一起唱K",
+        "onboard_time": 1737710839,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22743,
+        "num": 339661,
+        "word": "DIOR男装秀",
+        "onboard_time": 1737725841,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 337490,
+        "num": 337490,
+        "word": "时代少年团和国宝大熊猫同台了",
+        "onboard_time": 1737724941,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285778,
+        "num": 285778,
+        "word": "蛇是怎么成为十二生肖的",
+        "onboard_time": 1737710360,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 284918,
+        "num": 284918,
+        "word": "王一博网络视听盛典现场舞台",
+        "onboard_time": 1737725841,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235110,
+        "num": 283909,
+        "word": "女子把工地破烂编成篮子当新年礼物",
+        "onboard_time": 1737716778,
+        "rank": 16,
+        "category": "正能量,民生新闻"
+      },
+      {
+        "raw_hot": 283154,
+        "num": 283154,
+        "word": "用人民币感受韩国工资水平",
+        "onboard_time": 1737726680,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 50487,
+        "num": 279669,
+        "word": "华流说唱舞台龙燃炸了",
+        "onboard_time": 1737727700,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236298,
+        "num": 277655,
+        "word": "王嘉尔连线",
+        "onboard_time": 1737726440,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276966,
+        "num": 276966,
+        "word": "电影射雕英雄传公布特辑镜头",
+        "onboard_time": 1737705199,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 276781,
+        "num": 276781,
+        "word": "李宇春在张国荣离开的第22年想念你",
+        "onboard_time": 1737726560,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31546,
+        "num": 275705,
+        "word": "小G和红毯的适配度拉满了",
+        "onboard_time": 1737724159,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275399,
+        "num": 275399,
+        "word": "原来羽绒服里要穿得薄才暖和",
+        "onboard_time": 1737720739,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 263215,
+        "num": 263215,
+        "word": "韩国赢了 围棋输了",
+        "onboard_time": 1737723018,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195881,
+        "num": 227311,
+        "word": "特朗普拒绝继续为蓬佩奥提供安保",
+        "onboard_time": 1737723858,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 185336,
+        "num": 210479,
+        "word": "王腾称签樊振东是蓄谋已久",
+        "onboard_time": 1737727580,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200334,
+        "num": 200334,
+        "word": "河南暴雪三预警齐发",
+        "onboard_time": 1737726501,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192466,
+        "num": 200230,
+        "word": "梦百合杯或禁止卞相壹参赛",
+        "onboard_time": 1737723679,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141080,
+        "num": 199993,
+        "word": "5岁男孩被亲舅舅拐卖离家36年",
+        "onboard_time": 1737728059,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271520,
+        "num": 199444,
+        "word": "妈妈在哪家就在哪",
+        "onboard_time": 1737725479,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188692,
+        "num": 199314,
+        "word": "gumayusi T1",
+        "onboard_time": 1737725059,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 200909,
+        "num": 198981,
+        "word": "疑似散装江苏最团结的一次",
+        "onboard_time": 1737727640,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198809,
+        "num": 198809,
+        "word": "杨幂自驾新疆找迪丽热巴当翻译",
+        "onboard_time": 1737697459,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197811,
+        "num": 197811,
+        "word": "张康乐商务",
+        "onboard_time": 1737727160,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195689,
+        "num": 195689,
+        "word": "AL战胜TES",
+        "onboard_time": 1737727640,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 194300,
+        "num": 194300,
+        "word": "仙台有树",
+        "onboard_time": 1737725722,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184445,
+        "num": 184445,
+        "word": "十个勤天开场",
+        "onboard_time": 1737722299,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90573,
+        "num": 182945,
+        "word": "卞相壹称柯洁被罚自己专注力被破坏",
+        "onboard_time": 1737727760,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182350,
+        "num": 182350,
+        "word": "醉汉刷开夫妻房门妻子现应激反应",
+        "onboard_time": 1737714018,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158777,
+        "num": 158777,
+        "word": "特朗普说泽连斯基不应和俄罗斯对抗",
+        "onboard_time": 1737727279,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153922,
+        "num": 153922,
+        "word": "肖战版郭靖邀你晒一晒绝活",
+        "onboard_time": 1737706519,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149173,
+        "num": 149173,
+        "word": "网传青簪行掌心对打",
+        "onboard_time": 1737727520,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147890,
+        "num": 147890,
+        "word": "AL对战TES",
+        "onboard_time": 1737715517,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 28590,
+        "num": 144804,
+        "word": "田嘉瑞直播",
+        "onboard_time": 1737727700,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144392,
+        "num": 144392,
+        "word": "河南局地暴雪20毫米以上",
+        "onboard_time": 1737718638,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142920,
+        "num": 142920,
+        "word": "敖瑞鹏净渊上线",
+        "onboard_time": 1737728121,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132515,
+        "num": 132515,
+        "word": "何惟芳不是爽文女主",
+        "onboard_time": 1737724039,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138316,
+        "num": 131555,
+        "word": "白月梵星爱奇艺热度破9500",
+        "onboard_time": 1737723200,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130169,
+        "num": 130169,
+        "word": "请尽量不要在上半夜熬夜",
+        "onboard_time": 1737706760,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#希望你们的生活像糖果一样甜甜美美#"
+    }
+  }
+}
