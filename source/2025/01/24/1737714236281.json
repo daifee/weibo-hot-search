@@ -1,0 +1,410 @@
+{
+  "runTime": 1737714236281,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1080596,
+        "num": 1172895,
+        "word": "25至29岁未婚人数过半",
+        "onboard_time": 1737705801,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 601565,
+        "num": 601565,
+        "word": "一年烫一次的头长啥样",
+        "onboard_time": 1737700997,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31681,
+        "num": 453465,
+        "word": "热雪新疆e起来",
+        "onboard_time": 1737712159,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448362,
+        "num": 448362,
+        "word": "酒店回应给醉汉万能卡刷开夫妻房门",
+        "onboard_time": 1737709098,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 463594,
+        "num": 440541,
+        "word": "刘亦菲檀健次龚俊金靖一起唱K",
+        "onboard_time": 1737710839,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 622754,
+        "num": 428279,
+        "word": "韩国棋院称会把奖金汇入柯洁账户",
+        "onboard_time": 1737705199,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 397621,
+        "num": 397621,
+        "word": "杨幂自驾新疆找迪丽热巴当翻译",
+        "onboard_time": 1737697459,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 387183,
+        "num": 387183,
+        "word": "折腰过审了",
+        "onboard_time": 1737713658,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336443,
+        "num": 336443,
+        "word": "电影射雕英雄传公布特辑镜头",
+        "onboard_time": 1737705199,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159437,
+        "num": 335252,
+        "word": "蛇是怎么成为十二生肖的",
+        "onboard_time": 1737710360,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1072189,
+        "num": 334644,
+        "word": "戚薇李承铉二胎儿子正脸照",
+        "onboard_time": 1737703698,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 862297,
+        "num": 332890,
+        "word": "一条小团团自称刑满释放",
+        "onboard_time": 1737705260,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 505367,
+        "num": 331659,
+        "word": "韩围棋协会将修改围棋规定",
+        "onboard_time": 1737711499,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26480,
+        "num": 330165,
+        "word": "救援队回应8岁女孩走失悬赏百万",
+        "onboard_time": 1737713237,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34471,
+        "num": 328666,
+        "word": "全民集福人",
+        "onboard_time": 1737712877,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 322331,
+        "num": 328128,
+        "word": "网易云或下架SM旗下全部歌曲",
+        "onboard_time": 1737703217,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 474416,
+        "num": 326395,
+        "word": "李昀锐人生第一个男主",
+        "onboard_time": 1737709699,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326023,
+        "num": 326023,
+        "word": "肖战版郭靖邀你晒一晒绝活",
+        "onboard_time": 1737706519,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 460575,
+        "num": 325957,
+        "word": "霸王茶姬",
+        "onboard_time": 1737713237,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 323897,
+        "num": 323897,
+        "word": "韩国网友称夺冠很尴尬",
+        "onboard_time": 1737699618,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298127,
+        "num": 298127,
+        "word": "仿制药一致性评价出现数据雷同",
+        "onboard_time": 1737708619,
+        "rank": 20,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 286779,
+        "num": 286779,
+        "word": "浙江省省饭",
+        "onboard_time": 1737705859,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 250415,
+        "num": 250415,
+        "word": "请尽量不要在上半夜熬夜",
+        "onboard_time": 1737706760,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 223899,
+        "num": 223899,
+        "word": "虞书欣cos女帝云鸾",
+        "onboard_time": 1737702017,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184952,
+        "num": 207832,
+        "word": "卞相壹说理解柯洁立场",
+        "onboard_time": 1737713237,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205782,
+        "num": 205782,
+        "word": "什么是春节焦虑症",
+        "onboard_time": 1737709639,
+        "rank": 25,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 195189,
+        "num": 195189,
+        "word": "杨幂也看了再见爱人",
+        "onboard_time": 1737713418,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192398,
+        "num": 192398,
+        "word": "女儿要报12天4万的瑜伽课老人报警",
+        "onboard_time": 1737703759,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159653,
+        "num": 179784,
+        "word": "刘亦菲也去了VOGUE年会",
+        "onboard_time": 1737708018,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 148736,
+        "num": 171201,
+        "word": "赵露思感谢粉丝给予她温暖",
+        "onboard_time": 1737712397,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167897,
+        "num": 167897,
+        "word": "回避依恋性人格",
+        "onboard_time": 1737709520,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167739,
+        "num": 167739,
+        "word": "官方回应仿制药一致性评价出现数据雷同",
+        "onboard_time": 1737710059,
+        "rank": 31,
+        "category": "辟谣/通报,健康医疗"
+      },
+      {
+        "raw_hot": 167378,
+        "num": 167378,
+        "word": "雷军位列全球最佳CEO第八",
+        "onboard_time": 1737709639,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 147320,
+        "num": 147320,
+        "word": "聂卫平说不赞成柯洁退赛",
+        "onboard_time": 1737711079,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137397,
+        "num": 137397,
+        "word": "李现搂着杨紫家属感拉满",
+        "onboard_time": 1737706339,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56463,
+        "num": 129852,
+        "word": "中国围棋协会认为韩国裁判执法不当",
+        "onboard_time": 1737713778,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59856,
+        "num": 128466,
+        "word": "周也白葡萄酒炖青口",
+        "onboard_time": 1737714137,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42217,
+        "num": 128411,
+        "word": "日本街头偶遇陈冠希",
+        "onboard_time": 1737708140,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128359,
+        "num": 128359,
+        "word": "和平精英",
+        "onboard_time": 1737714078,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97157,
+        "num": 118254,
+        "word": "专家呼吁严格对照一致性评价实验标准",
+        "onboard_time": 1737711260,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115713,
+        "num": 115713,
+        "word": "文淇回应出演网剧是资源降级",
+        "onboard_time": 1737713898,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115681,
+        "num": 115681,
+        "word": "常华森网盘",
+        "onboard_time": 1737696019,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112878,
+        "num": 112878,
+        "word": "米饭仙人的胃也是过上年了",
+        "onboard_time": 1737703759,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 108584,
+        "num": 108584,
+        "word": "陈哲远你给我喝了什么",
+        "onboard_time": 1737711619,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108149,
+        "num": 108149,
+        "word": "迪丽热巴库存真的不多了",
+        "onboard_time": 1737698060,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97279,
+        "num": 97279,
+        "word": "小米集团午后涨超7%",
+        "onboard_time": 1737709579,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 91776,
+        "num": 91776,
+        "word": "郭靖的蒙古名字",
+        "onboard_time": 1737713958,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 90692,
+        "num": 90692,
+        "word": "万茜13套妆造花费61个小时",
+        "onboard_time": 1737708798,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90609,
+        "num": 90609,
+        "word": "上海月租1300的房子",
+        "onboard_time": 1737705320,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88197,
+        "num": 88197,
+        "word": "个别品种数据重复系编辑错误",
+        "onboard_time": 1737714078,
+        "rank": 49,
+        "category": "民生新闻,健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#实体经济是国民经济的根基所在#"
+    }
+  }
+}

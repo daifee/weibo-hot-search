@@ -1,6 +1,6 @@
 {
   "startTime": 1737649694584,
-  "endTime": 1737711394055,
+  "endTime": 1737714236281,
   "band_list": [
     {
       "raw_hot": 3219780,
@@ -291,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 601565,
+      "num": 601565,
+      "word": "一年烫一次的头长啥样",
+      "onboard_time": 1737700997,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 599866,
       "num": 599866,
       "word": "河南局地暴雪10到18毫米",
@@ -371,20 +379,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 509143,
-      "num": 509143,
-      "word": "一年烫一次的头长啥样",
-      "onboard_time": 1737700997,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 507347,
       "num": 365648,
       "word": "是谁让祝绪丹做魔术助演的",
       "onboard_time": 1737693377,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 505367,
+      "num": 331659,
+      "word": "韩围棋协会将修改围棋规定",
+      "onboard_time": 1737711499,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 502515,
@@ -427,6 +435,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 463594,
+      "num": 440541,
+      "word": "刘亦菲檀健次龚俊金靖一起唱K",
+      "onboard_time": 1737710839,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 460575,
+      "num": 325957,
+      "word": "霸王茶姬",
+      "onboard_time": 1737713237,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 459764,
       "num": 459764,
       "word": "赵露思环球时报采访",
@@ -441,6 +465,14 @@
       "onboard_time": 1737699618,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 448362,
+      "num": 448362,
+      "word": "酒店回应给醉汉万能卡刷开夫妻房门",
+      "onboard_time": 1737709098,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 447254,
@@ -521,6 +553,14 @@
       "onboard_time": 1737626179,
       "rank": 7,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 387183,
+      "num": 387183,
+      "word": "折腰过审了",
+      "onboard_time": 1737713658,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 377307,
@@ -667,6 +707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 298127,
+      "num": 404643,
+      "word": "仿制药一致性评价出现数据雷同",
+      "onboard_time": 1737708619,
+      "rank": 8,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 292369,
       "num": 283133,
       "word": "韩国贡献了零胜夺冠的闹剧",
@@ -729,14 +777,6 @@
       "onboard_time": 1737690978,
       "rank": 16,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 260076,
-      "num": 404643,
-      "word": "仿制药一致性评价出现数据雷同",
-      "onboard_time": 1737708619,
-      "rank": 8,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 256864,
@@ -971,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205782,
+      "num": 287633,
+      "word": "什么是春节焦虑症",
+      "onboard_time": 1737709639,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 205240,
       "num": 205240,
       "word": "美洛杉矶地区新山火快速蔓延",
@@ -1017,6 +1065,14 @@
       "onboard_time": 1737693258,
       "rank": 27,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 195189,
+      "num": 195189,
+      "word": "杨幂也看了再见爱人",
+      "onboard_time": 1737713418,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 194576,
@@ -1129,6 +1185,14 @@
       "onboard_time": 1737687678,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184952,
+      "num": 207832,
+      "word": "卞相壹说理解柯洁立场",
+      "onboard_time": 1737713237,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 184745,
@@ -1331,6 +1395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 167897,
+      "num": 167897,
+      "word": "回避依恋性人格",
+      "onboard_time": 1737709520,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 167221,
       "num": 167221,
       "word": "谢霆锋香港抢票",
@@ -1411,6 +1483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159437,
+      "num": 335252,
+      "word": "蛇是怎么成为十二生肖的",
+      "onboard_time": 1737710360,
+      "rank": 45,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 159412,
       "num": 159412,
       "word": "岳云鹏谈近期压力",
@@ -1483,11 +1563,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148736,
+      "num": 171201,
+      "word": "赵露思感谢粉丝给予她温暖",
+      "onboard_time": 1737712397,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147976,
       "num": 184640,
       "word": "柯洁俞斌今日启程回国",
       "onboard_time": 1737699318,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 147320,
+      "num": 147320,
+      "word": "聂卫平说不赞成柯洁退赛",
+      "onboard_time": 1737711079,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -1552,22 +1648,6 @@
       "word": "NBA全明星西部首发",
       "onboard_time": 1737681978,
       "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 141081,
-      "num": 141081,
-      "word": "酒店回应给醉汉万能卡刷开夫妻房门",
-      "onboard_time": 1737709098,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140934,
-      "num": 140934,
-      "word": "聂卫平说不赞成柯洁退赛",
-      "onboard_time": 1737711079,
-      "rank": 42,
       "category": "体育"
     },
     {
@@ -1699,14 +1779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 132128,
-      "num": 287633,
-      "word": "什么是春节焦虑症",
-      "onboard_time": 1737709639,
-      "rank": 19,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 131527,
       "num": 131527,
       "word": "近百名广漂返乡高铁上相亲",
@@ -1755,6 +1827,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 128359,
+      "num": 128359,
+      "word": "和平精英",
+      "onboard_time": 1737714078,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 127876,
       "num": 127876,
       "word": "孙千叫黄景瑜gerger",
@@ -1785,14 +1865,6 @@
       "onboard_time": 1737688218,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126828,
-      "num": 126828,
-      "word": "蛇是怎么成为十二生肖的",
-      "onboard_time": 1737710360,
-      "rank": 45,
-      "category": "正能量"
     },
     {
       "raw_hot": 126018,
@@ -1931,6 +2003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115713,
+      "num": 115713,
+      "word": "文淇回应出演网剧是资源降级",
+      "onboard_time": 1737713898,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115681,
       "num": 115681,
       "word": "容祖儿想让黄子和李昊做花童",
@@ -1995,6 +2075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108584,
+      "num": 108584,
+      "word": "陈哲远你给我喝了什么",
+      "onboard_time": 1737711619,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106253,
       "num": 106253,
       "word": "王一博追风者登顶年度影响力影视剧",
@@ -2009,14 +2097,6 @@
       "onboard_time": 1737702017,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 104083,
-      "num": 104083,
-      "word": "回避依恋性人格",
-      "onboard_time": 1737709520,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 101383,
@@ -2067,6 +2147,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 97157,
+      "num": 118254,
+      "word": "专家呼吁严格对照一致性评价实验标准",
+      "onboard_time": 1737711260,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96918,
       "num": 96918,
       "word": "侯明昊一年335天都在横店拍戏",
@@ -2107,12 +2195,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 91776,
+      "num": 91776,
+      "word": "郭靖的蒙古名字",
+      "onboard_time": 1737713958,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 91379,
       "num": 418665,
       "word": "离岸人民币大涨超400个基点",
       "onboard_time": 1737709999,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 88197,
+      "num": 88197,
+      "word": "个别品种数据重复系编辑错误",
+      "onboard_time": 1737714078,
+      "rank": 49,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 86636,
@@ -2315,12 +2419,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59856,
+      "num": 128466,
+      "word": "周也白葡萄酒炖青口",
+      "onboard_time": 1737714137,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 56978,
       "num": 242835,
       "word": "土耳其酒店火灾幸存者回忆惊魂时刻",
       "onboard_time": 1737648977,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 56463,
+      "num": 129852,
+      "word": "中国围棋协会认为韩国裁判执法不当",
+      "onboard_time": 1737713778,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 54589,
@@ -2345,14 +2465,6 @@
       "onboard_time": 1737684077,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 52599,
-      "num": 159723,
-      "word": "刘亦菲檀健次龚俊金靖一起唱K",
-      "onboard_time": 1737710839,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 52411,
@@ -2475,6 +2587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42217,
+      "num": 128411,
+      "word": "日本街头偶遇陈冠希",
+      "onboard_time": 1737708140,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41160,
       "num": 41160,
       "word": "连笑对柯洁说咱不受这委屈",
@@ -2531,6 +2651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 34471,
+      "num": 328666,
+      "word": "全民集福人",
+      "onboard_time": 1737712877,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 33865,
       "num": 33865,
       "word": "杜淳王灿买年货",
@@ -2553,6 +2681,14 @@
       "onboard_time": 1737702139,
       "rank": 14,
       "category": "互联网,动漫"
+    },
+    {
+      "raw_hot": 31681,
+      "num": 453465,
+      "word": "热雪新疆e起来",
+      "onboard_time": 1737712159,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31518,
@@ -2585,6 +2721,14 @@
       "onboard_time": 1737653653,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26480,
+      "num": 330165,
+      "word": "救援队回应8岁女孩走失悬赏百万",
+      "onboard_time": 1737713237,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25305,
@@ -2807,6 +2951,9 @@
     },
     {
       "word": "#习近平在辽宁本溪考察调研#"
+    },
+    {
+      "word": "#实体经济是国民经济的根基所在#"
     }
   ]
 }
