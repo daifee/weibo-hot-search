@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737760839326,
+  "endTime": 1737761731378,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -3028,7 +3028,7 @@
     },
     {
       "raw_hot": 490733,
-      "num": 189142,
+      "num": 222041,
       "word": "最强大脑窒息198分钟",
       "onboard_time": 1737729201,
       "rank": 48,
@@ -3771,6 +3771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 405379,
+      "num": 859930,
+      "word": "多地禁改限明确春节可燃放烟花爆竹",
+      "onboard_time": 1737739695,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 404464,
       "num": 316738,
       "word": "neinei14岁近照",
@@ -4369,14 +4377,6 @@
       "onboard_time": 1737538578,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 348300,
-      "num": 750172,
-      "word": "多地禁改限明确春节可燃放烟花爆竹",
-      "onboard_time": 1737739695,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 347753,
@@ -5649,6 +5649,14 @@
       "onboard_time": 1737727640,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 266038,
+      "num": 62097,
+      "word": "医生说6种病是衰老的表现",
+      "onboard_time": 1737760753,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 266031,
@@ -10683,14 +10691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 159994,
-      "num": 55574,
-      "word": "医生说6种病是衰老的表现",
-      "onboard_time": 1737760753,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 159729,
       "num": 184934,
       "word": "和给你能量的人在一起",
@@ -12377,6 +12377,14 @@
       "onboard_time": 1737367639,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140403,
+      "num": 140403,
+      "word": "地铁上导盲犬乖乖捂住自己的嘴",
+      "onboard_time": 1737760454,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140377,
@@ -15683,6 +15691,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 104328,
+      "num": 104328,
+      "word": "甲辰龙年最后一个周末",
+      "onboard_time": 1737761115,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104272,
       "num": 104272,
       "word": "萨巴伦卡澳网20连胜",
@@ -16417,6 +16433,14 @@
       "onboard_time": 1737304397,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 92642,
+      "num": 92642,
+      "word": "俞定延泡泡",
+      "onboard_time": 1737761174,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 92633,
@@ -17427,14 +17451,6 @@
       "category": "旅游,艺人"
     },
     {
-      "raw_hot": 63579,
-      "num": 63579,
-      "word": "地铁上导盲犬乖乖捂住自己的嘴",
-      "onboard_time": 1737760454,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 63496,
       "num": 74444,
       "word": "萨巴伦卡vs安德列娃",
@@ -17793,6 +17809,14 @@
       "onboard_time": 1737266418,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 53073,
+      "num": 53073,
+      "word": "费翔看到那茜公主抱娜然傻了",
+      "onboard_time": 1737758532,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 52937,
@@ -18195,6 +18219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45959,
+      "num": 45959,
+      "word": "孙颖莎学唱lovestory",
+      "onboard_time": 1737760454,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45624,
       "num": 301777,
       "word": "哪吒用的原来是儿童手表",
@@ -18243,6 +18275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43325,
+      "num": 43325,
+      "word": "男子商场停车显示需缴停车费2.4万",
+      "onboard_time": 1737755531,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43173,
       "num": 164540,
       "word": "马龙的幽默时刻",
@@ -18257,14 +18297,6 @@
       "onboard_time": 1737675135,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 42756,
-      "num": 42756,
-      "word": "费翔看到那茜公主抱娜然傻了",
-      "onboard_time": 1737758532,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 42610,
@@ -18491,6 +18523,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 38584,
+      "num": 39556,
+      "word": "春节上门喂猫收入1.5w",
+      "onboard_time": 1737761115,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 37970,
       "num": 735053,
       "word": "净网2024取得显著成效",
@@ -18513,14 +18553,6 @@
       "onboard_time": 1737699560,
       "rank": 29,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 37664,
-      "num": 37664,
-      "word": "男子商场停车显示需缴停车费2.4万",
-      "onboard_time": 1737755531,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37621,
@@ -18553,14 +18585,6 @@
       "onboard_time": 1737740353,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 37415,
-      "num": 37415,
-      "word": "孙颖莎学唱lovestory",
-      "onboard_time": 1737760454,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 37386,
