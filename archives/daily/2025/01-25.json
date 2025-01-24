@@ -1,6 +1,6 @@
 {
   "startTime": 1737736047740,
-  "endTime": 1737754540379,
+  "endTime": 1737757235266,
   "band_list": [
     {
       "raw_hot": 1963235,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 200921,
-      "num": 200921,
+      "num": 363397,
       "word": "多地禁改限明确春节可燃放烟花爆竹",
       "onboard_time": 1737739695,
       "rank": 14,
@@ -387,6 +387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 85597,
+      "num": 85597,
+      "word": "李微微被双开",
+      "onboard_time": 1737752771,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81866,
       "num": 130498,
       "word": "网易云音乐回应下架SM旗下全部歌曲",
@@ -449,14 +457,6 @@
       "onboard_time": 1737729320,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 41496,
-      "num": 41496,
-      "word": "李微微被双开",
-      "onboard_time": 1737752771,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 41324,
@@ -523,20 +523,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26306,
+      "num": 26306,
+      "word": "香港3平米月租2200的家",
+      "onboard_time": 1737749951,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 21779,
       "num": 29381,
       "word": "8省区79个路段因降雪封闭",
       "onboard_time": 1737740893,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21457,
-      "num": 21457,
-      "word": "香港3平米月租2200的家",
-      "onboard_time": 1737749951,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 21140,
@@ -571,6 +571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17703,
+      "num": 108068,
+      "word": "春运高峰遇上寒潮要如何应对",
+      "onboard_time": 1737729741,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17161,
       "num": 93875,
       "word": "韩国检方申请延长尹锡悦拘留期限",
@@ -595,12 +603,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 14741,
-      "num": 108068,
-      "word": "春运高峰遇上寒潮要如何应对",
-      "onboard_time": 1737729741,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 14257,
+      "num": 21640,
+      "word": "李昊拍猪孩子",
+      "onboard_time": 1737751272,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 13834,
@@ -611,20 +619,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13547,
+      "num": 21640,
+      "word": "男子商场停车显示需缴停车费2.4万",
+      "onboard_time": 1737755531,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13277,
       "num": 84717,
       "word": "KSG电竞摇子",
       "onboard_time": 1737739454,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 12534,
-      "num": 20261,
-      "word": "李昊拍猪孩子",
-      "onboard_time": 1737751272,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 12262,
