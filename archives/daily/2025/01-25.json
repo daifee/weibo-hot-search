@@ -1,6 +1,6 @@
 {
   "startTime": 1737736047740,
-  "endTime": 1737758261967,
+  "endTime": 1737760839326,
   "band_list": [
     {
       "raw_hot": 1963235,
@@ -67,6 +67,22 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 361750,
+      "num": 130389,
+      "word": "韩国网友呼吁裁判承认卞相壹犯规",
+      "onboard_time": 1737738075,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 348300,
+      "num": 750172,
+      "word": "多地禁改限明确春节可燃放烟花爆竹",
+      "onboard_time": 1737739695,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 339536,
       "num": 414325,
       "word": "虞书欣 小红鱼",
@@ -105,14 +121,6 @@
       "onboard_time": 1737726501,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 268331,
-      "num": 130389,
-      "word": "韩国网友呼吁裁判承认卞相壹犯规",
-      "onboard_time": 1737738075,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 265336,
@@ -180,19 +188,11 @@
     },
     {
       "raw_hot": 203829,
-      "num": 130538,
+      "num": 199627,
       "word": "终于等到王一博",
       "onboard_time": 1737737716,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200921,
-      "num": 457021,
-      "word": "多地禁改限明确春节可燃放烟花爆竹",
-      "onboard_time": 1737739695,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 198044,
@@ -235,6 +235,14 @@
       "category": "电影,体育"
     },
     {
+      "raw_hot": 159994,
+      "num": 55574,
+      "word": "医生说6种病是衰老的表现",
+      "onboard_time": 1737760753,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 158964,
       "num": 124495,
       "word": "男子喝酒过量致呕出全身近一半血",
@@ -267,8 +275,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 133637,
-      "num": 133637,
+      "raw_hot": 142606,
+      "num": 142606,
       "word": "那些真心对你好的人都有一个共同点",
       "onboard_time": 1737735619,
       "rank": 48,
@@ -451,12 +459,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 63579,
+      "num": 63579,
+      "word": "地铁上导盲犬乖乖捂住自己的嘴",
+      "onboard_time": 1737760454,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44890,
       "num": 93233,
       "word": "AL晋级淘汰赛",
       "onboard_time": 1737729320,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 42756,
+      "num": 42756,
+      "word": "费翔看到那茜公主抱娜然傻了",
+      "onboard_time": 1737758532,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 41324,
@@ -467,12 +491,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37664,
+      "num": 37664,
+      "word": "男子商场停车显示需缴停车费2.4万",
+      "onboard_time": 1737755531,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37536,
       "num": 37536,
       "word": "鸡柳哥怎么不跳",
       "onboard_time": 1737740353,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 37415,
+      "num": 37415,
+      "word": "孙颖莎学唱lovestory",
+      "onboard_time": 1737760454,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 36236,
@@ -569,14 +609,6 @@
       "onboard_time": 1737745632,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 18993,
-      "num": 23260,
-      "word": "男子商场停车显示需缴停车费2.4万",
-      "onboard_time": 1737755531,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18649,
