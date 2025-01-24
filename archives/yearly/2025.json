@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737693605900,
+  "endTime": 1737696074332,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -473,6 +473,14 @@
       "onboard_time": 1736134101,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3219780,
+      "num": 808385,
+      "word": "霸王茶姬 外网",
+      "onboard_time": 1737692719,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 3200356,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736430444,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1548628,
-      "num": 1548628,
-      "word": "刘晓庆大方承认自己的错误",
-      "onboard_time": 1736908219,
-      "rank": 20,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
