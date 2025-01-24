@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737704145393,
+  "endTime": 1737707285038,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1811,6 +1811,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1753181,
+      "num": 448024,
+      "word": "戚薇李承铉二胎儿子正脸照",
+      "onboard_time": 1737703698,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1743248,
       "num": 505541,
       "word": "星星女友呼吁不要听信谣言",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1737373639,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1552604,
-      "num": 1441674,
-      "word": "杨紫 小女子不才也会点英语",
-      "onboard_time": 1735911198,
-      "rank": 26,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
