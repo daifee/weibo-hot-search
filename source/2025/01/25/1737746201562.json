@@ -1,0 +1,410 @@
+{
+  "runTime": 1737746201562,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 167477,
+        "num": 167477,
+        "word": "多地禁改限明确春节可燃放烟花爆竹",
+        "onboard_time": 1737739695,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148137,
+        "num": 148137,
+        "word": "虞书欣 小红鱼",
+        "onboard_time": 1737737537,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13755,
+        "num": 108068,
+        "word": "春运高峰遇上寒潮要如何应对",
+        "onboard_time": 1737729741,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96355,
+        "num": 96355,
+        "word": "王毅同美国国务卿鲁比奥通话",
+        "onboard_time": 1737735019,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91621,
+        "num": 91621,
+        "word": "那些真心对你好的人都有一个共同点",
+        "onboard_time": 1737735619,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90517,
+        "num": 90517,
+        "word": "最强大脑窒息198分钟",
+        "onboard_time": 1737729201,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79940,
+        "num": 79940,
+        "word": "白鹿对敖瑞鹏说你已经看过日照金山了",
+        "onboard_time": 1737736277,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71464,
+        "num": 71464,
+        "word": "卞相壹称柯洁被罚自己专注力被破坏",
+        "onboard_time": 1737727760,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62109,
+        "num": 62109,
+        "word": "阿姐又放粮了",
+        "onboard_time": 1737734479,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55258,
+        "num": 55258,
+        "word": "用人民币感受韩国工资水平",
+        "onboard_time": 1737726680,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 246448,
+        "num": 55168,
+        "word": "霸王茶姬发文致歉",
+        "onboard_time": 1737734719,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 152938,
+        "num": 55127,
+        "word": "韩国网友呼吁裁判承认卞相壹犯规",
+        "onboard_time": 1737738075,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119006,
+        "num": 54959,
+        "word": "一条小团团自称刑满释放",
+        "onboard_time": 1737705260,
+        "rank": 12,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 61756,
+        "num": 54909,
+        "word": "终于等到王一博",
+        "onboard_time": 1737737716,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54845,
+        "num": 54845,
+        "word": "王俊凯接管DIOR官微",
+        "onboard_time": 1737731240,
+        "rank": 14,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 50229,
+        "num": 50229,
+        "word": "王嘉尔给微博提建议",
+        "onboard_time": 1737730039,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45510,
+        "num": 45510,
+        "word": "5岁男孩被亲舅舅拐卖离家36年",
+        "onboard_time": 1737728059,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43487,
+        "num": 43487,
+        "word": "中国围棋协会不接受第3局结果",
+        "onboard_time": 1737734959,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38257,
+        "num": 38257,
+        "word": "肖战台词",
+        "onboard_time": 1737733279,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37861,
+        "num": 37861,
+        "word": "柯洁父亲发声",
+        "onboard_time": 1737714319,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36171,
+        "num": 36171,
+        "word": "男子喝酒过量致呕出全身近一半血",
+        "onboard_time": 1737727459,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35541,
+        "num": 35541,
+        "word": "竹林四侠寄明月新春版",
+        "onboard_time": 1737735019,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34476,
+        "num": 34476,
+        "word": "醉汉刷开夫妻房门妻子现应激反应",
+        "onboard_time": 1737714018,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33368,
+        "num": 33368,
+        "word": "特朗普签行政令解密肯尼迪遇刺",
+        "onboard_time": 1737722239,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32357,
+        "num": 32357,
+        "word": "六公主精准播放电影片段为柯洁发声",
+        "onboard_time": 1737734058,
+        "rank": 24,
+        "category": "电影,体育"
+      },
+      {
+        "raw_hot": 31221,
+        "num": 31221,
+        "word": "周杰伦王俊凯郎朗巴黎合影",
+        "onboard_time": 1737733818,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 31081,
+        "num": 31081,
+        "word": "韩国赢了 围棋输了",
+        "onboard_time": 1737723018,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30859,
+        "num": 30859,
+        "word": "白鹿敖瑞鹏合体陪看",
+        "onboard_time": 1737742813,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28701,
+        "num": 28701,
+        "word": "gumayusi T1",
+        "onboard_time": 1737725059,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27523,
+        "num": 28700,
+        "word": "河南暴雪三预警齐发",
+        "onboard_time": 1737726501,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30381,
+        "num": 28699,
+        "word": "茯星高昭",
+        "onboard_time": 1737744912,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28699,
+        "num": 28698,
+        "word": "时代少年团和国宝大熊猫同台了",
+        "onboard_time": 1737724941,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27718,
+        "num": 27718,
+        "word": "电影射雕英雄传公布特辑镜头",
+        "onboard_time": 1737705199,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26972,
+        "num": 26972,
+        "word": "周深被称为春晚小砂糖橘",
+        "onboard_time": 1737736997,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26961,
+        "num": 26961,
+        "word": "国色芳华被子",
+        "onboard_time": 1737724458,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26055,
+        "num": 26055,
+        "word": "原来羽绒服里要穿得薄才暖和",
+        "onboard_time": 1737720739,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25824,
+        "num": 25824,
+        "word": "刘亦菲檀健次龚俊金靖一起唱K",
+        "onboard_time": 1737710839,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25372,
+        "num": 25372,
+        "word": "特朗普说泽连斯基不应和俄罗斯对抗",
+        "onboard_time": 1737727279,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24593,
+        "num": 24593,
+        "word": "特朗普拒绝继续为蓬佩奥提供安保",
+        "onboard_time": 1737723858,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22374,
+        "num": 24536,
+        "word": "野生大熊猫公路上边跑边扭屁股",
+        "onboard_time": 1737728241,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24516,
+        "num": 24516,
+        "word": "杨幂自驾新疆找迪丽热巴当翻译",
+        "onboard_time": 1737697459,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23716,
+        "num": 23716,
+        "word": "鸡柳哥怎么不跳",
+        "onboard_time": 1737740353,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22720,
+        "num": 23713,
+        "word": "虞书欣 狭路",
+        "onboard_time": 1737718577,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22317,
+        "num": 23708,
+        "word": "被欺凌女童家属质疑施暴者名单被换",
+        "onboard_time": 1737721637,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22098,
+        "num": 23697,
+        "word": "王一博王子即视感",
+        "onboard_time": 1737734239,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22097,
+        "num": 23693,
+        "word": "仙台有树",
+        "onboard_time": 1737725722,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21912,
+        "num": 23678,
+        "word": "砂糖橘",
+        "onboard_time": 1737721578,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 20810,
+        "num": 23671,
+        "word": "张真源蛇年自拍小卡",
+        "onboard_time": 1737745632,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20727,
+        "num": 23666,
+        "word": "王俊凯周杰伦秀场同框",
+        "onboard_time": 1737730339,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 20560,
+        "num": 23663,
+        "word": "临床医生透露原研药缺药真实情况",
+        "onboard_time": 1737732198,
+        "rank": 49,
+        "category": "民生新闻,健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全国各族人民致新春祝福#"
+    }
+  }
+}
