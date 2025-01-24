@@ -1,6 +1,6 @@
 {
   "startTime": 1737649694584,
-  "endTime": 1737729516593,
+  "endTime": 1737732186171,
   "band_list": [
     {
       "raw_hot": 3219780,
@@ -139,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1062963,
+      "num": 499850,
+      "word": "5岁男孩被亲舅舅拐卖离家36年",
+      "onboard_time": 1737728059,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 968455,
       "num": 968455,
       "word": "青簪行",
@@ -225,6 +233,14 @@
       "onboard_time": 1737722239,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 794147,
+      "num": 404206,
+      "word": "王嘉尔给微博提建议",
+      "onboard_time": 1737730039,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 740976,
@@ -459,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 528729,
+      "num": 934391,
+      "word": "河南暴雪三预警齐发",
+      "onboard_time": 1737726501,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 515091,
       "num": 422267,
       "word": "电影射雕英雄传公布特辑镜头",
@@ -515,12 +539,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 499850,
-      "num": 499850,
-      "word": "5岁男孩被亲舅舅拐卖离家36年",
-      "onboard_time": 1737728059,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 499090,
+      "num": 401866,
+      "word": "仙台有树",
+      "onboard_time": 1737725722,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 488740,
@@ -635,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 428215,
+      "num": 428215,
+      "word": "用人民币感受韩国工资水平",
+      "onboard_time": 1737726680,
+      "rank": 17,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 415488,
       "num": 408485,
       "word": "特朗普认为中美关系非常良好",
@@ -689,6 +721,14 @@
       "onboard_time": 1737720439,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 383235,
+      "num": 383235,
+      "word": "王俊凯周杰伦秀场同框",
+      "onboard_time": 1737730339,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 377307,
@@ -787,6 +827,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 343879,
+      "num": 400976,
+      "word": "特朗普说泽连斯基不应和俄罗斯对抗",
+      "onboard_time": 1737727279,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 340636,
       "num": 297171,
       "word": "原来羽绒服里要穿得薄才暖和",
@@ -851,14 +899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 301222,
-      "num": 934391,
-      "word": "河南暴雪三预警齐发",
-      "onboard_time": 1737726501,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 298467,
       "num": 258096,
       "word": "裸辞一年后不上班的现状",
@@ -899,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 292266,
+      "num": 397223,
+      "word": "野生大熊猫公路上边跑边扭屁股",
+      "onboard_time": 1737728241,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 287710,
       "num": 287710,
       "word": "花8000元送去宠物学校的狗挨了打",
@@ -921,14 +969,6 @@
       "onboard_time": 1737725841,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 283154,
-      "num": 283154,
-      "word": "用人民币感受韩国工资水平",
-      "onboard_time": 1737726680,
-      "rank": 17,
-      "category": "旅游"
     },
     {
       "raw_hot": 279829,
@@ -985,14 +1025,6 @@
       "onboard_time": 1737690978,
       "rank": 16,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 259502,
-      "num": 259502,
-      "word": "仙台有树",
-      "onboard_time": 1737725722,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 257034,
@@ -1129,6 +1161,14 @@
       "onboard_time": 1737646159,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 227349,
+      "num": 161554,
+      "word": "最强大脑窒息198分钟",
+      "onboard_time": 1737729201,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 226667,
@@ -1401,6 +1441,14 @@
       "onboard_time": 1737727160,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197449,
+      "num": 197449,
+      "word": "卞相壹称柯洁被罚自己专注力被破坏",
+      "onboard_time": 1737727760,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 196847,
@@ -1851,6 +1899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 168019,
+      "num": 165764,
+      "word": "付航怎么越来越帅了",
+      "onboard_time": 1737728841,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167404,
       "num": 167404,
       "word": "李昀锐杂志",
@@ -1881,14 +1937,6 @@
       "onboard_time": 1737687739,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165764,
-      "num": 165764,
-      "word": "付航怎么越来越帅了",
-      "onboard_time": 1737728841,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 165235,
@@ -1987,12 +2035,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 158777,
-      "num": 241363,
-      "word": "特朗普说泽连斯基不应和俄罗斯对抗",
-      "onboard_time": 1737727279,
-      "rank": 40,
-      "category": "国际时政"
+      "raw_hot": 158596,
+      "num": 158596,
+      "word": "李沁梦回沈近真",
+      "onboard_time": 1737730639,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 157522,
@@ -2001,6 +2049,14 @@
       "onboard_time": 1737692958,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 156025,
+      "num": 241377,
+      "word": "王俊凯接管DIOR官微",
+      "onboard_time": 1737731240,
+      "rank": 15,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 155194,
@@ -2049,14 +2105,6 @@
       "onboard_time": 1737721218,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 152374,
-      "num": 152374,
-      "word": "野生大熊猫公路上边跑边扭屁股",
-      "onboard_time": 1737728241,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 152045,
@@ -2283,14 +2331,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 138450,
-      "num": 138450,
-      "word": "最强大脑窒息198分钟",
-      "onboard_time": 1737729201,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 138400,
       "num": 138400,
       "word": "OPPO回应陈震泄露新机",
@@ -2337,6 +2377,14 @@
       "onboard_time": 1737697519,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134437,
+      "num": 134437,
+      "word": "肖战直播猜字谜",
+      "onboard_time": 1737729800,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 134062,
@@ -2571,6 +2619,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122275,
+      "num": 163164,
+      "word": "樊振东希望去了解体育本身的含义",
+      "onboard_time": 1737731000,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121734,
       "num": 197452,
       "word": "刘耀文祝大家蛇全蛇美",
@@ -2643,12 +2699,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117366,
+      "num": 117366,
+      "word": "丁禹兮青花瓷造型",
+      "onboard_time": 1737731419,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 117188,
       "num": 117188,
       "word": "射雕英雄传影史预售票房最快破2亿",
       "onboard_time": 1737674235,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 116199,
+      "num": 116199,
+      "word": "邓佳鑫音综首秀",
+      "onboard_time": 1737730579,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 116184,
@@ -2795,12 +2867,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 104401,
-      "num": 182945,
-      "word": "卞相壹称柯洁被罚自己专注力被破坏",
-      "onboard_time": 1737727760,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 103558,
+      "num": 164949,
+      "word": "VOGUE年会上的刘亦菲龚俊",
+      "onboard_time": 1737731900,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 102581,
+      "num": 102581,
+      "word": "肖宇梁线上版德龄与慈禧",
+      "onboard_time": 1737731419,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 101383,
@@ -2907,6 +2987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92928,
+      "num": 269845,
+      "word": "旅美大熊猫宝力青宝正式亮相",
+      "onboard_time": 1737728841,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92037,
       "num": 92037,
       "word": "电梯不平层千万不要出去",
@@ -2929,6 +3017,14 @@
       "onboard_time": 1737709999,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 90691,
+      "num": 90691,
+      "word": "赵小童准备回家过大年咯",
+      "onboard_time": 1737731900,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 88244,
@@ -3355,6 +3451,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 46600,
+      "num": 163757,
+      "word": "文化中国行看火花迎新春",
+      "onboard_time": 1737731900,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43286,
       "num": 729628,
       "word": "千帆极轨06组卫星成功发射",
@@ -3369,14 +3473,6 @@
       "onboard_time": 1737675135,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 43019,
-      "num": 269845,
-      "word": "旅美大熊猫宝力青宝正式亮相",
-      "onboard_time": 1737728841,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 42610,
@@ -3649,6 +3745,14 @@
       "onboard_time": 1737685697,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 21354,
+      "num": 155471,
+      "word": "起底黑竞赛产业链",
+      "onboard_time": 1737730339,
+      "rank": 34,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 20493,
