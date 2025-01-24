@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737707285038,
+  "endTime": 1737708060608,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1812,7 +1812,7 @@
     },
     {
       "raw_hot": 1753181,
-      "num": 448024,
+      "num": 454385,
       "word": "戚薇李承铉二胎儿子正脸照",
       "onboard_time": 1737703698,
       "rank": 20,
@@ -3719,6 +3719,14 @@
       "num": 1223178,
       "word": "男子聚会被两同事抱摔离世",
       "onboard_time": 1736562379,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1220160,
+      "num": 1220160,
+      "word": "25至29岁未婚人数过半",
+      "onboard_time": 1737705801,
       "rank": 1,
       "category": "民生新闻"
     },
@@ -5947,6 +5955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 921530,
+      "num": 413750,
+      "word": "韩国棋院称会把奖金汇入柯洁账户",
+      "onboard_time": 1737705199,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 918877,
       "num": 358223,
       "word": "艾特因咬人被送潘宏园区成为流量担当",
@@ -6169,14 +6185,6 @@
       "onboard_time": 1737254657,
       "rank": 9,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 900241,
-      "num": 413750,
-      "word": "韩国棋院称会把奖金汇入柯洁账户",
-      "onboard_time": 1737705199,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 899500,
@@ -9411,14 +9419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 661344,
-      "num": 661344,
-      "word": "25至29岁未婚人数过半",
-      "onboard_time": 1737705801,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 661108,
       "num": 2763450,
       "word": "谷雨 蒋奇明",
@@ -10163,6 +10163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 623792,
+      "num": 391862,
+      "word": "网易云或下架SM旗下全部歌曲",
+      "onboard_time": 1737703217,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 623669,
       "num": 623669,
       "word": "江西最强钉子户屋主发声",
@@ -10433,14 +10441,6 @@
       "onboard_time": 1735896980,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 611090,
-      "num": 391862,
-      "word": "网易云或下架SM旗下全部歌曲",
-      "onboard_time": 1737703217,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 610880,
@@ -26243,6 +26243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250028,
+      "num": 199564,
+      "word": "请尽量不要在上半夜熬夜",
+      "onboard_time": 1737706760,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 249999,
       "num": 249999,
       "word": "贺峻霖录一路繁花硬撑最后累昏了",
@@ -26891,6 +26899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242985,
+      "num": 260950,
+      "word": "肖战版郭靖邀你晒一晒绝活",
+      "onboard_time": 1737706519,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 242909,
       "num": 242909,
       "word": "杨紫的台词不看文字都能听清",
@@ -26905,6 +26921,14 @@
       "onboard_time": 1735960456,
       "rank": 15,
       "category": "数码"
+    },
+    {
+      "raw_hot": 242456,
+      "num": 242456,
+      "word": "浙江省省饭",
+      "onboard_time": 1737705859,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 242340,
@@ -29995,14 +30019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 215228,
-      "num": 215228,
-      "word": "浙江省省饭",
-      "onboard_time": 1737705859,
-      "rank": 23,
-      "category": "美食"
-    },
-    {
       "raw_hot": 215212,
       "num": 162353,
       "word": "莫小贝居然32岁了",
@@ -30873,14 +30889,6 @@
       "onboard_time": 1736756119,
       "rank": 32,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 209113,
-      "num": 260950,
-      "word": "肖战版郭靖邀你晒一晒绝活",
-      "onboard_time": 1737706519,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 209101,
@@ -42171,6 +42179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164851,
+      "num": 249990,
+      "word": "自己车位装充电桩物业不同意怎么办",
+      "onboard_time": 1737706339,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 164843,
       "num": 164843,
       "word": "以前都不叫抑郁症",
@@ -43337,14 +43353,6 @@
       "onboard_time": 1736762960,
       "rank": 38,
       "category": "体育,作品衍生"
-    },
-    {
-      "raw_hot": 160426,
-      "num": 160426,
-      "word": "请尽量不要在上半夜熬夜",
-      "onboard_time": 1737706760,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 160416,
@@ -45289,6 +45297,14 @@
       "onboard_time": 1737014719,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153543,
+      "num": 153543,
+      "word": "米饭仙人的胃也是过上年了",
+      "onboard_time": 1737703759,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 153542,
@@ -49955,14 +49971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137301,
-      "num": 137301,
-      "word": "米饭仙人的胃也是过上年了",
-      "onboard_time": 1737703759,
-      "rank": 47,
-      "category": "网红"
-    },
-    {
       "raw_hot": 137283,
       "num": 137283,
       "word": "Doinb谈加入NIP原因",
@@ -51667,6 +51675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132152,
+      "num": 132152,
+      "word": "丁禹兮月光静谧",
+      "onboard_time": 1737707119,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132142,
       "num": 320860,
       "word": "男子多次抢劫失足女性获刑十三年",
@@ -52041,6 +52057,14 @@
       "onboard_time": 1736678238,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 130786,
+      "num": 254999,
+      "word": "在慢性疼痛里隐忍的女性",
+      "onboard_time": 1737698060,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130780,
@@ -52491,6 +52515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 129254,
+      "num": 129254,
+      "word": "白鹿疯狂给敖瑞鹏加魅",
+      "onboard_time": 1737704180,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129226,
       "num": 129226,
       "word": "官方通报网红带货牛肉卷疑似合成肉",
@@ -52923,6 +52955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127876,
+      "num": 127876,
+      "word": "孙千叫黄景瑜gerger",
+      "onboard_time": 1737707660,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127773,
       "num": 127773,
       "word": "余宇涵翻跳NoDoubt",
@@ -53281,14 +53321,6 @@
       "onboard_time": 1737427759,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126536,
-      "num": 126536,
-      "word": "白鹿疯狂给敖瑞鹏加魅",
-      "onboard_time": 1737704180,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 126522,
@@ -54065,6 +54097,14 @@
       "onboard_time": 1737273738,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124045,
+      "num": 124045,
+      "word": "陈小春古巨基年纪到了就爱催点婚",
+      "onboard_time": 1737707119,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 124040,
@@ -56059,6 +56099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117856,
+      "num": 117856,
+      "word": "英国公当上肃国公的老丈人了",
+      "onboard_time": 1737705320,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117848,
       "num": 233010,
       "word": "给大家分享一个上画集锦",
@@ -56337,14 +56385,6 @@
       "onboard_time": 1737259997,
       "rank": 46,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 117114,
-      "num": 254999,
-      "word": "在慢性疼痛里隐忍的女性",
-      "onboard_time": 1737698060,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117112,
@@ -56857,14 +56897,6 @@
       "onboard_time": 1735725741,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115505,
-      "num": 115505,
-      "word": "丁禹兮月光静谧",
-      "onboard_time": 1737707119,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 115468,
@@ -58099,14 +58131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111564,
-      "num": 111564,
-      "word": "英国公当上肃国公的老丈人了",
-      "onboard_time": 1737705320,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 111510,
       "num": 111510,
       "word": "五福临门",
@@ -58497,6 +58521,14 @@
       "onboard_time": 1736417300,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 110116,
+      "num": 110116,
+      "word": "笛子舞入侵kpop",
+      "onboard_time": 1737707239,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 110066,
@@ -59465,6 +59497,14 @@
       "onboard_time": 1737171197,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106066,
+      "num": 106066,
+      "word": "刘亦菲也去了VOGUE年会",
+      "onboard_time": 1737708018,
+      "rank": 48,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 106058,
@@ -61057,14 +61097,6 @@
       "onboard_time": 1735959318,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 99028,
-      "num": 99028,
-      "word": "笛子舞入侵kpop",
-      "onboard_time": 1737707239,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 99025,
@@ -66163,6 +66195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64769,
+      "num": 124739,
+      "word": "寒潮暴雪双预警均升为黄色",
+      "onboard_time": 1737704239,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64349,
       "num": 240834,
       "word": "马龙的哪句话曾激励过你",
@@ -68419,6 +68459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 50813,
+      "num": 189485,
+      "word": "花海的人生是旷野",
+      "onboard_time": 1737707839,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 50794,
       "num": 50794,
       "word": "挑战一人分饰射雕五绝",
@@ -70252,7 +70300,7 @@
     },
     {
       "raw_hot": 39510,
-      "num": 449906,
+      "num": 472104,
       "word": "大街小巷上新中国红",
       "onboard_time": 1737706039,
       "rank": 2,
@@ -71305,14 +71353,6 @@
       "onboard_time": 1736531114,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 33932,
-      "num": 249990,
-      "word": "自己车位装充电桩物业不同意怎么办",
-      "onboard_time": 1737706339,
-      "rank": 19,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 33868,
@@ -73339,6 +73379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 25253,
+      "num": 196544,
+      "word": "赵露思呼吁停止轻视和污名化抑郁症",
+      "onboard_time": 1737707779,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25247,
       "num": 51356,
       "word": "解放军版东风夜放花千树",
@@ -73361,6 +73409,14 @@
       "onboard_time": 1736600788,
       "rank": 26,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 25099,
+      "num": 105439,
+      "word": "沈星回幸福降临在掌心",
+      "onboard_time": 1737705379,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 25070,

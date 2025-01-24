@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737707285038,
+  "endTime": 1737708060608,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 1753181,
-      "num": 448024,
+      "num": 454385,
       "word": "戚薇李承铉二胎儿子正脸照",
       "onboard_time": 1737703698,
       "rank": 20,
@@ -601,6 +601,14 @@
       "onboard_time": 1737518600,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1220160,
+      "num": 1220160,
+      "word": "25至29岁未婚人数过半",
+      "onboard_time": 1737705801,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1215468,
@@ -1163,6 +1171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 921530,
+      "num": 413750,
+      "word": "韩国棋院称会把奖金汇入柯洁账户",
+      "onboard_time": 1737705199,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 918877,
       "num": 358223,
       "word": "艾特因咬人被送潘宏园区成为流量担当",
@@ -1233,14 +1249,6 @@
       "onboard_time": 1737254657,
       "rank": 9,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 900241,
-      "num": 413750,
-      "word": "韩国棋院称会把奖金汇入柯洁账户",
-      "onboard_time": 1737705199,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 896866,
@@ -1811,14 +1819,6 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 661344,
-      "num": 661344,
-      "word": "25至29岁未婚人数过半",
-      "onboard_time": 1737705801,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 660609,
       "num": 660609,
       "word": "白色橄榄树连更15天",
@@ -1963,6 +1963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 623792,
+      "num": 391862,
+      "word": "网易云或下架SM旗下全部歌曲",
+      "onboard_time": 1737703217,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 623669,
       "num": 623669,
       "word": "江西最强钉子户屋主发声",
@@ -2057,14 +2065,6 @@
       "onboard_time": 1737551539,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 611090,
-      "num": 391862,
-      "word": "网易云或下架SM旗下全部歌曲",
-      "onboard_time": 1737703217,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 610602,
@@ -5627,6 +5627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 250028,
+      "num": 199564,
+      "word": "请尽量不要在上半夜熬夜",
+      "onboard_time": 1737706760,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 249956,
       "num": 249956,
       "word": "漂白编剧称有对所有案件原型的采访证据",
@@ -5737,6 +5745,22 @@
       "onboard_time": 1737530659,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 242985,
+      "num": 260950,
+      "word": "肖战版郭靖邀你晒一晒绝活",
+      "onboard_time": 1737706519,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 242456,
+      "num": 242456,
+      "word": "浙江省省饭",
+      "onboard_time": 1737705859,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 242340,
@@ -6419,14 +6443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 215228,
-      "num": 215228,
-      "word": "浙江省省饭",
-      "onboard_time": 1737705859,
-      "rank": 23,
-      "category": "美食"
-    },
-    {
       "raw_hot": 215212,
       "num": 162353,
       "word": "莫小贝居然32岁了",
@@ -6624,14 +6640,6 @@
       "word": "春节第一张电影票",
       "onboard_time": 1737263119,
       "rank": 28,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 209113,
-      "num": 260950,
-      "word": "肖战版郭靖邀你晒一晒绝活",
-      "onboard_time": 1737706519,
-      "rank": 9,
       "category": "电影"
     },
     {
@@ -9515,6 +9523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164851,
+      "num": 249990,
+      "word": "自己车位装充电桩物业不同意怎么办",
+      "onboard_time": 1737706339,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 164829,
       "num": 164829,
       "word": "杨迪吐槽的到底是谁",
@@ -9785,14 +9801,6 @@
       "onboard_time": 1737341416,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 160426,
-      "num": 160426,
-      "word": "请尽量不要在上半夜熬夜",
-      "onboard_time": 1737706760,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 160245,
@@ -10305,6 +10313,14 @@
       "onboard_time": 1737271278,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 153543,
+      "num": 153543,
+      "word": "米饭仙人的胃也是过上年了",
+      "onboard_time": 1737703759,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 153262,
@@ -11635,14 +11651,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 137301,
-      "num": 137301,
-      "word": "米饭仙人的胃也是过上年了",
-      "onboard_time": 1737703759,
-      "rank": 47,
-      "category": "网红"
-    },
-    {
       "raw_hot": 137162,
       "num": 220887,
       "word": "文化中国行非遗春节送祝福",
@@ -12083,6 +12091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132152,
+      "num": 132152,
+      "word": "丁禹兮月光静谧",
+      "onboard_time": 1737707119,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132022,
       "num": 132022,
       "word": "打压式伴侣有多可怕",
@@ -12176,6 +12192,14 @@
       "word": "身边的年味",
       "onboard_time": 1737360018,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130786,
+      "num": 254999,
+      "word": "在慢性疼痛里隐忍的女性",
+      "onboard_time": 1737698060,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -12273,6 +12297,14 @@
       "onboard_time": 1737468981,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 129254,
+      "num": 129254,
+      "word": "白鹿疯狂给敖瑞鹏加魅",
+      "onboard_time": 1737704180,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 129172,
@@ -12411,6 +12443,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 127876,
+      "num": 127876,
+      "word": "孙千叫黄景瑜gerger",
+      "onboard_time": 1737707660,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127838,
       "num": 100671,
       "word": "大奉打更人创总广告时长第一",
@@ -12505,14 +12545,6 @@
       "onboard_time": 1737427759,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126536,
-      "num": 126536,
-      "word": "白鹿疯狂给敖瑞鹏加魅",
-      "onboard_time": 1737704180,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 126423,
@@ -12705,6 +12737,14 @@
       "onboard_time": 1737273738,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124045,
+      "num": 124045,
+      "word": "陈小春古巨基年纪到了就爱催点婚",
+      "onboard_time": 1737707119,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 123994,
@@ -13243,6 +13283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117856,
+      "num": 117856,
+      "word": "英国公当上肃国公的老丈人了",
+      "onboard_time": 1737705320,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117848,
       "num": 233010,
       "word": "给大家分享一个上画集锦",
@@ -13329,14 +13377,6 @@
       "onboard_time": 1737259997,
       "rank": 46,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 117114,
-      "num": 254999,
-      "word": "在慢性疼痛里隐忍的女性",
-      "onboard_time": 1737698060,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117049,
@@ -13473,14 +13513,6 @@
       "onboard_time": 1737463099,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 115505,
-      "num": 115505,
-      "word": "丁禹兮月光静谧",
-      "onboard_time": 1737707119,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 115183,
@@ -13803,14 +13835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 111564,
-      "num": 111564,
-      "word": "英国公当上肃国公的老丈人了",
-      "onboard_time": 1737705320,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 111282,
       "num": 322366,
       "word": "四川公车私用城管被罚取消200元补贴",
@@ -13913,6 +13937,14 @@
       "onboard_time": 1737550397,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110116,
+      "num": 110116,
+      "word": "笛子舞入侵kpop",
+      "onboard_time": 1737707239,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 110027,
@@ -14281,6 +14313,14 @@
       "onboard_time": 1737517640,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106066,
+      "num": 106066,
+      "word": "刘亦菲也去了VOGUE年会",
+      "onboard_time": 1737708018,
+      "rank": 48,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 106010,
@@ -14785,14 +14825,6 @@
       "onboard_time": 1737591437,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 99028,
-      "num": 99028,
-      "word": "笛子舞入侵kpop",
-      "onboard_time": 1737707239,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 98954,
@@ -16003,6 +16035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64769,
+      "num": 124739,
+      "word": "寒潮暴雪双预警均升为黄色",
+      "onboard_time": 1737704239,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64139,
       "num": 192801,
       "word": "看漂白不敢直视王千源的眼",
@@ -16523,6 +16563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 50813,
+      "num": 189485,
+      "word": "花海的人生是旷野",
+      "onboard_time": 1737707839,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 50724,
       "num": 89191,
       "word": "交警人还没到嘴先出警",
@@ -16924,7 +16972,7 @@
     },
     {
       "raw_hot": 39510,
-      "num": 449906,
+      "num": 472104,
       "word": "大街小巷上新中国红",
       "onboard_time": 1737706039,
       "rank": 2,
@@ -17153,14 +17201,6 @@
       "onboard_time": 1737255557,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 33932,
-      "num": 249990,
-      "word": "自己车位装充电桩物业不同意怎么办",
-      "onboard_time": 1737706339,
-      "rank": 19,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 33865,
@@ -17539,12 +17579,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 25253,
+      "num": 196544,
+      "word": "赵露思呼吁停止轻视和污名化抑郁症",
+      "onboard_time": 1737707779,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25247,
       "num": 51356,
       "word": "解放军版东风夜放花千树",
       "onboard_time": 1737320530,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25099,
+      "num": 105439,
+      "word": "沈星回幸福降临在掌心",
+      "onboard_time": 1737705379,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 24838,

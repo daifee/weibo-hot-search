@@ -1,0 +1,410 @@
+{
+  "runTime": 1737708060608,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1220160,
+        "num": 1220160,
+        "word": "25至29岁未婚人数过半",
+        "onboard_time": 1737705801,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 710481,
+        "num": 710481,
+        "word": "杨幂自驾新疆找迪丽热巴当翻译",
+        "onboard_time": 1737697459,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25924,
+        "num": 472104,
+        "word": "大街小巷上新中国红",
+        "onboard_time": 1737706039,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1669940,
+        "num": 454385,
+        "word": "戚薇李承铉二胎儿子正脸照",
+        "onboard_time": 1737703698,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397346,
+        "num": 397346,
+        "word": "一年烫一次的头长啥样",
+        "onboard_time": 1737700997,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 921530,
+        "num": 390735,
+        "word": "韩国棋院称会把奖金汇入柯洁账户",
+        "onboard_time": 1737705199,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 623792,
+        "num": 355467,
+        "word": "网易云或下架SM旗下全部歌曲",
+        "onboard_time": 1737703217,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 270186,
+        "num": 270186,
+        "word": "民政局调查捐10元被嫌抠事件",
+        "onboard_time": 1737697279,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242985,
+        "num": 242985,
+        "word": "肖战版郭靖邀你晒一晒绝活",
+        "onboard_time": 1737706519,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 242456,
+        "num": 242456,
+        "word": "浙江省省饭",
+        "onboard_time": 1737705859,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1430170,
+        "num": 239726,
+        "word": "一条小团团自称刑满释放",
+        "onboard_time": 1737705260,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 372886,
+        "num": 236886,
+        "word": "电影射雕英雄传公布特辑镜头",
+        "onboard_time": 1737705199,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 391329,
+        "num": 233538,
+        "word": "女孩用棍子扒出景区祈福钱后拿走",
+        "onboard_time": 1737701058,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382194,
+        "num": 231375,
+        "word": "虞书欣cos女帝云鸾",
+        "onboard_time": 1737702017,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 373218,
+        "num": 225225,
+        "word": "韩国网友称夺冠很尴尬",
+        "onboard_time": 1737699618,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355220,
+        "num": 222928,
+        "word": "字节取消下午茶",
+        "onboard_time": 1737690978,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 267986,
+        "num": 217584,
+        "word": "卞相壹称裁判判罚时才知道新规",
+        "onboard_time": 1737699979,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249396,
+        "num": 213466,
+        "word": "常华森网盘",
+        "onboard_time": 1737696019,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130786,
+        "num": 212955,
+        "word": "在慢性疼痛里隐忍的女性",
+        "onboard_time": 1737698060,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164851,
+        "num": 208712,
+        "word": "自己车位装充电桩物业不同意怎么办",
+        "onboard_time": 1737706339,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 323008,
+        "num": 203641,
+        "word": "女儿要报12天4万的瑜伽课老人报警",
+        "onboard_time": 1737703759,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250028,
+        "num": 199564,
+        "word": "请尽量不要在上半夜熬夜",
+        "onboard_time": 1737706760,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 25253,
+        "num": 196544,
+        "word": "赵露思呼吁停止轻视和污名化抑郁症",
+        "onboard_time": 1737707779,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43699,
+        "num": 194023,
+        "word": "肖战眼中的郭靖",
+        "onboard_time": 1737706819,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 50813,
+        "num": 189485,
+        "word": "花海的人生是旷野",
+        "onboard_time": 1737707839,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 247120,
+        "num": 185463,
+        "word": "李现搂着杨紫家属感拉满",
+        "onboard_time": 1737706339,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183810,
+        "num": 183810,
+        "word": "上海月租1300的房子",
+        "onboard_time": 1737705320,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166963,
+        "num": 166963,
+        "word": "陈小春说Jasper演讲祖宗听了都开心",
+        "onboard_time": 1737700638,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153543,
+        "num": 153543,
+        "word": "米饭仙人的胃也是过上年了",
+        "onboard_time": 1737703759,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 135748,
+        "num": 153504,
+        "word": "会计虚设9岁儿子为包工头侵占2200万元",
+        "onboard_time": 1737703999,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153486,
+        "num": 153486,
+        "word": "陈震回应泄密OPPO新机",
+        "onboard_time": 1737700638,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 136702,
+        "num": 136702,
+        "word": "李昀锐黄杨钿甜青梅竹马具象化了",
+        "onboard_time": 1737705738,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135690,
+        "num": 135690,
+        "word": "迪丽热巴库存真的不多了",
+        "onboard_time": 1737698060,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133053,
+        "num": 133053,
+        "word": "误以为是动物儿子开枪击中除草母亲",
+        "onboard_time": 1737684318,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132691,
+        "num": 132691,
+        "word": "国色芳华大唐猛女图鉴",
+        "onboard_time": 1737706579,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132615,
+        "num": 132615,
+        "word": "捐10元家长称收到明嘲暗讽式道歉",
+        "onboard_time": 1737694638,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132152,
+        "num": 132152,
+        "word": "丁禹兮月光静谧",
+        "onboard_time": 1737707119,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129254,
+        "num": 129254,
+        "word": "白鹿疯狂给敖瑞鹏加魅",
+        "onboard_time": 1737704180,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127876,
+        "num": 127876,
+        "word": "孙千叫黄景瑜gerger",
+        "onboard_time": 1737707660,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127017,
+        "num": 127017,
+        "word": "被张子枫的花篮种草了",
+        "onboard_time": 1737700997,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126613,
+        "num": 126613,
+        "word": "杨幂自己玩三折叠梗",
+        "onboard_time": 1737702797,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64769,
+        "num": 124739,
+        "word": "寒潮暴雪双预警均升为黄色",
+        "onboard_time": 1737704239,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124045,
+        "num": 124045,
+        "word": "陈小春古巨基年纪到了就爱催点婚",
+        "onboard_time": 1737707119,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121442,
+        "num": 121442,
+        "word": "代露娃常华森 厨王争霸",
+        "onboard_time": 1737698660,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118283,
+        "num": 118283,
+        "word": "卞相壹回应柯洁被判负",
+        "onboard_time": 1737700577,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117856,
+        "num": 117856,
+        "word": "英国公当上肃国公的老丈人了",
+        "onboard_time": 1737705320,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110116,
+        "num": 110116,
+        "word": "笛子舞入侵kpop",
+        "onboard_time": 1737707239,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108780,
+        "num": 108780,
+        "word": "韩国网友吐槽韩国棋院长脑子了吗",
+        "onboard_time": 1737691098,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106066,
+        "num": 106066,
+        "word": "刘亦菲也去了VOGUE年会",
+        "onboard_time": 1737708018,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 25099,
+        "num": 105439,
+        "word": "沈星回幸福降临在掌心",
+        "onboard_time": 1737705379,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在辽宁沈阳市考察调研#"
+    }
+  }
+}
