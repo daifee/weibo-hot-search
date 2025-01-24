@@ -1,0 +1,410 @@
+{
+  "runTime": 1737693605900,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1588837,
+        "num": 1588837,
+        "word": "贾玲 你的强回来了",
+        "onboard_time": 1737686297,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 684499,
+        "num": 1161619,
+        "word": "警方通报男子捅死夫妇后自残",
+        "onboard_time": 1737691698,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 44971,
+        "num": 1084339,
+        "word": "2025网络视听盛典",
+        "onboard_time": 1737686898,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1022847,
+        "num": 1022847,
+        "word": "特朗普终止出生公民权被裁定违宪",
+        "onboard_time": 1737689598,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 808385,
+        "num": 808385,
+        "word": "霸王茶姬 外网",
+        "onboard_time": 1737692719,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 868639,
+        "num": 766878,
+        "word": "柯洁微博评论区被3个字刷屏",
+        "onboard_time": 1737681857,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 699341,
+        "num": 699341,
+        "word": "李昀锐换童年照头像",
+        "onboard_time": 1737690798,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 463870,
+        "num": 463870,
+        "word": "293元8个菜预制年夜饭热销",
+        "onboard_time": 1737683478,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 459764,
+        "num": 459764,
+        "word": "赵露思环球时报采访",
+        "onboard_time": 1737690798,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186795,
+        "num": 454477,
+        "word": "重庆年味",
+        "onboard_time": 1737690978,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1843074,
+        "num": 453288,
+        "word": "字节取消下午茶",
+        "onboard_time": 1737690978,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 862268,
+        "num": 443543,
+        "word": "韩国网友吐槽韩国棋院长脑子了吗",
+        "onboard_time": 1737691098,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 548248,
+        "num": 441385,
+        "word": "遭举报出轨人妻的肖峰被双开",
+        "onboard_time": 1737686898,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 437302,
+        "num": 437302,
+        "word": "终于看到青衣含量100%国产剧",
+        "onboard_time": 1737691098,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25747,
+        "num": 383573,
+        "word": "应保障有意愿的患者自费使用原研药",
+        "onboard_time": 1737692958,
+        "rank": 14,
+        "category": "舆论监督,健康医疗"
+      },
+      {
+        "raw_hot": 340671,
+        "num": 340671,
+        "word": "河南局地暴雪10到18毫米",
+        "onboard_time": 1737686658,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157522,
+        "num": 303619,
+        "word": "张杰熊出没电影主题曲开启预约",
+        "onboard_time": 1737692958,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 273148,
+        "num": 273148,
+        "word": "韩国网友竟称柯洁无知又没礼貌",
+        "onboard_time": 1737684677,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119865,
+        "num": 272330,
+        "word": "2025见证原生鸿蒙更新力量",
+        "onboard_time": 1737692238,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 60255,
+        "num": 271998,
+        "word": "赵露思害怕被别人认为工作不够努力",
+        "onboard_time": 1737693078,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384972,
+        "num": 271989,
+        "word": "误以为是动物儿子开枪击中除草母亲",
+        "onboard_time": 1737684318,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271740,
+        "num": 271740,
+        "word": "女子连续熬夜加班同时确诊8种病",
+        "onboard_time": 1737691098,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231373,
+        "num": 231373,
+        "word": "虞书欣古典红裙",
+        "onboard_time": 1737689118,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 230838,
+        "num": 230838,
+        "word": "花8000元送去宠物学校的狗挨了打",
+        "onboard_time": 1737687437,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175840,
+        "num": 218334,
+        "word": "Cat直播辟谣",
+        "onboard_time": 1737691939,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 212827,
+        "num": 212827,
+        "word": "余烬之上定档",
+        "onboard_time": 1737686537,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203335,
+        "num": 203335,
+        "word": "权志龙绿发",
+        "onboard_time": 1737684557,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196847,
+        "num": 196847,
+        "word": "香港游客被尔滨宠上了天",
+        "onboard_time": 1737693258,
+        "rank": 27,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 161360,
+        "num": 190727,
+        "word": "李幼贞报复何惟芳",
+        "onboard_time": 1737691879,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180359,
+        "num": 189305,
+        "word": "快乐过年具象化了",
+        "onboard_time": 1737693078,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 188291,
+        "num": 188291,
+        "word": "王者蛇限皮肤优化",
+        "onboard_time": 1737691998,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183200,
+        "num": 183200,
+        "word": "时间在农村竟然是停止的",
+        "onboard_time": 1737691818,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180043,
+        "num": 180043,
+        "word": "三大平台古装剧将要对打",
+        "onboard_time": 1737681857,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173638,
+        "num": 173638,
+        "word": "是谁让祝绪丹做魔术助演的",
+        "onboard_time": 1737693377,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167035,
+        "num": 167035,
+        "word": "大侦探拾光季官宣",
+        "onboard_time": 1737691278,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165649,
+        "num": 165649,
+        "word": "睡前最好别碰这4样东西",
+        "onboard_time": 1737688999,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 164681,
+        "num": 164681,
+        "word": "春节档票房冠军预测",
+        "onboard_time": 1737692778,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163786,
+        "num": 163786,
+        "word": "王者荣耀",
+        "onboard_time": 1737692360,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163694,
+        "num": 163694,
+        "word": "裸辞一年后不上班的现状",
+        "onboard_time": 1737681918,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158875,
+        "num": 158875,
+        "word": "00后小伙高铁相亲成功女方大13岁",
+        "onboard_time": 1737681738,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154824,
+        "num": 154824,
+        "word": "明日方舟",
+        "onboard_time": 1737691579,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148702,
+        "num": 148702,
+        "word": "青簪行",
+        "onboard_time": 1737644300,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93903,
+        "num": 141247,
+        "word": "2025网络视听盛典最期待的节目",
+        "onboard_time": 1737691458,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141244,
+        "num": 141244,
+        "word": "权志龙新综艺好多人啊",
+        "onboard_time": 1737689899,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138762,
+        "num": 138762,
+        "word": "樊振东的奥运金牌含金量还在上升",
+        "onboard_time": 1737678198,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136289,
+        "num": 136289,
+        "word": "轩染",
+        "onboard_time": 1737644241,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133362,
+        "num": 133362,
+        "word": "字节跳动调整员工福利",
+        "onboard_time": 1737691337,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131520,
+        "num": 131520,
+        "word": "2024年CP图鉴",
+        "onboard_time": 1737693499,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29406,
+        "num": 127456,
+        "word": "200元就能买宠物驯导师资格证",
+        "onboard_time": 1737693439,
+        "rank": 48,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 126593,
+        "num": 126593,
+        "word": "陈震 OPPO",
+        "onboard_time": 1737682158,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平走进受灾群众家中#"
+    }
+  }
+}
