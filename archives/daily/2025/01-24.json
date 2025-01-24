@@ -1,6 +1,6 @@
 {
   "startTime": 1737649694584,
-  "endTime": 1737703253498,
+  "endTime": 1737704145393,
   "band_list": [
     {
       "raw_hot": 3219780,
@@ -67,6 +67,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1123693,
+      "num": 356891,
+      "word": "赵露思分离症状已恢复",
+      "onboard_time": 1737701058,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1087309,
       "num": 1173969,
       "word": "中国女游客在日本铁轨上拍照被撞",
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 945862,
-      "num": 233386,
+      "num": 333216,
       "word": "卞相壹称裁判判罚时才知道新规",
       "onboard_time": 1737699979,
       "rank": 18,
@@ -137,14 +145,6 @@
       "onboard_time": 1737681857,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 742857,
-      "num": 232947,
-      "word": "赵露思分离症状已恢复",
-      "onboard_time": 1737701058,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 740976,
@@ -209,6 +209,22 @@
       "onboard_time": 1737674354,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 611090,
+      "num": 331226,
+      "word": "网易云或下架SM旗下全部歌曲",
+      "onboard_time": 1737703217,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 610602,
+      "num": 306552,
+      "word": "虞书欣cos女帝云鸾",
+      "onboard_time": 1737702017,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 607513,
@@ -323,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 477351,
+      "num": 283400,
+      "word": "陈小春说Jasper演讲祖宗听了都开心",
+      "onboard_time": 1737700638,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 459764,
       "num": 459764,
       "word": "赵露思环球时报采访",
@@ -331,12 +355,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 452521,
-      "num": 230940,
-      "word": "虞书欣cos女帝云鸾",
-      "onboard_time": 1737702017,
-      "rank": 15,
-      "category": "作品衍生"
+      "raw_hot": 454611,
+      "num": 261911,
+      "word": "戚薇李承铉二胎儿子正脸照",
+      "onboard_time": 1737703698,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 447254,
@@ -368,6 +392,14 @@
       "word": "韩国网友竟称柯洁无知又没礼貌",
       "onboard_time": 1737684677,
       "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 420000,
+      "num": 261886,
+      "word": "韩国网友称夺冠很尴尬",
+      "onboard_time": 1737699618,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -419,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 371276,
+      "num": 371276,
+      "word": "陈震回应泄密OPPO新机",
+      "onboard_time": 1737700638,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 363725,
       "num": 363725,
       "word": "四只警犬挨个被点名通报批评",
@@ -449,6 +489,14 @@
       "onboard_time": 1737699199,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 350899,
+      "num": 350899,
+      "word": "女孩用棍子扒出景区祈福钱后拿走",
+      "onboard_time": 1737701058,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 347431,
@@ -515,14 +563,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 297262,
-      "num": 230278,
-      "word": "陈小春说Jasper演讲祖宗听了都开心",
-      "onboard_time": 1737700638,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 292369,
       "num": 283133,
       "word": "韩国贡献了零胜夺冠的闹剧",
@@ -540,7 +580,7 @@
     },
     {
       "raw_hot": 287196,
-      "num": 228373,
+      "num": 230894,
       "word": "迪丽热巴库存真的不多了",
       "onboard_time": 1737698060,
       "rank": 23,
@@ -563,14 +603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 277718,
-      "num": 277718,
-      "word": "陈震回应泄密OPPO新机",
-      "onboard_time": 1737700638,
-      "rank": 30,
-      "category": "数码"
-    },
-    {
       "raw_hot": 269162,
       "num": 221613,
       "word": "每一次王宝强顺拐都有刘昊然",
@@ -585,6 +617,14 @@
       "onboard_time": 1737695779,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 261751,
+      "num": 261751,
+      "word": "一年烫一次的头长啥样",
+      "onboard_time": 1737700997,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 260260,
@@ -611,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243717,
+      "num": 275193,
+      "word": "封神新浪扫楼",
+      "onboard_time": 1737703217,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 241637,
       "num": 225350,
       "word": "柯洁不比了",
@@ -625,14 +673,6 @@
       "onboard_time": 1737630679,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 238873,
-      "num": 224587,
-      "word": "韩国网友称夺冠很尴尬",
-      "onboard_time": 1737699618,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 236072,
@@ -859,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189476,
+      "num": 189476,
+      "word": "爱上陈晓的古装剧是我的宿命",
+      "onboard_time": 1737702978,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188576,
       "num": 218334,
       "word": "Cat直播辟谣",
@@ -897,6 +945,14 @@
       "onboard_time": 1737687678,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184745,
+      "num": 184745,
+      "word": "白色橄榄树",
+      "onboard_time": 1737698718,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 184174,
@@ -955,14 +1011,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 178230,
-      "num": 178230,
-      "word": "白色橄榄树",
-      "onboard_time": 1737698718,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 177535,
       "num": 190727,
       "word": "李幼贞报复何惟芳",
@@ -985,6 +1033,14 @@
       "onboard_time": 1737686837,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 173464,
+      "num": 173464,
+      "word": "杨幂自己玩三折叠梗",
+      "onboard_time": 1737702797,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 171942,
@@ -1051,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168780,
+      "num": 168780,
+      "word": "打工人调休口诀",
+      "onboard_time": 1737703999,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 168147,
       "num": 168147,
       "word": "王者荣耀",
@@ -1089,14 +1153,6 @@
       "onboard_time": 1737692778,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 161556,
-      "num": 161556,
-      "word": "杨幂自己玩三折叠梗",
-      "onboard_time": 1737702797,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 160871,
@@ -1203,6 +1259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145721,
+      "num": 346500,
+      "word": "应急车道留给有需要的人",
+      "onboard_time": 1737702555,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145537,
       "num": 145537,
       "word": "经历了30年坐飞机脖子痛后突然发现",
@@ -1217,6 +1281,14 @@
       "onboard_time": 1737699258,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144785,
+      "num": 144785,
+      "word": "女儿要报12天4万的瑜伽课老人报警",
+      "onboard_time": 1737703759,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144585,
@@ -1235,14 +1307,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 143983,
-      "num": 143983,
-      "word": "网易云或下架SM旗下全部歌曲",
-      "onboard_time": 1737703217,
-      "rank": 41,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 143442,
       "num": 139463,
       "word": "肖战梁家辉戏里戏外",
@@ -1251,28 +1315,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 142669,
-      "num": 152723,
-      "word": "一年烫一次的头长啥样",
-      "onboard_time": 1737700997,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 142053,
       "num": 212256,
       "word": "NBA全明星西部首发",
       "onboard_time": 1737681978,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 141497,
-      "num": 141497,
-      "word": "爱上陈晓的古装剧是我的宿命",
-      "onboard_time": 1737702978,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 139350,
@@ -1371,6 +1419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 128862,
+      "num": 188052,
+      "word": "卞相壹回应柯洁被判负",
+      "onboard_time": 1737700577,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128433,
       "num": 128433,
       "word": "AG超玩会",
@@ -1403,14 +1459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126580,
-      "num": 227729,
-      "word": "应急车道留给有需要的人",
-      "onboard_time": 1737702555,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126018,
       "num": 133142,
       "word": "过年才有的装扮",
@@ -1433,14 +1481,6 @@
       "onboard_time": 1737645080,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124889,
-      "num": 127716,
-      "word": "卞相壹回应柯洁被判负",
-      "onboard_time": 1737700577,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 123153,
@@ -1537,6 +1577,14 @@
       "onboard_time": 1737699199,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116024,
+      "num": 116024,
+      "word": "米饭仙人的胃也是过上年了",
+      "onboard_time": 1737703759,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 115802,
@@ -1707,6 +1755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83843,
+      "num": 188407,
+      "word": "会计虚设9岁儿子为包工头侵占2200万元",
+      "onboard_time": 1737703999,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83420,
       "num": 83420,
       "word": "李现对杨紫喊紫啧喊上瘾了",
@@ -1737,14 +1793,6 @@
       "onboard_time": 1737642139,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 78574,
-      "num": 228853,
-      "word": "女孩用棍子扒出景区祈福钱后拿走",
-      "onboard_time": 1737701058,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 78433,
@@ -1827,14 +1875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 65964,
-      "num": 152167,
-      "word": "封神新浪扫楼",
-      "onboard_time": 1737703217,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 63747,
       "num": 170231,
       "word": "广东文旅海外推介官王嘉尔",
@@ -1900,7 +1940,7 @@
     },
     {
       "raw_hot": 54589,
-      "num": 228237,
+      "num": 261805,
       "word": "贾玲这次热辣滚烫的是鱼汤",
       "onboard_time": 1737700698,
       "rank": 41,
@@ -1929,6 +1969,14 @@
       "onboard_time": 1737631038,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51555,
+      "num": 232082,
+      "word": "督促摆摊城管称想让商户多赚钱",
+      "onboard_time": 1737702198,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51398,
@@ -2027,12 +2075,20 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 37570,
-      "num": 232082,
-      "word": "督促摆摊城管称想让商户多赚钱",
-      "onboard_time": 1737702198,
-      "rank": 13,
+      "raw_hot": 37537,
+      "num": 266854,
+      "word": "一听12天瑜伽课4万元警察组团劝阻",
+      "onboard_time": 1737703457,
+      "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36837,
+      "num": 189263,
+      "word": "德约暗示可能在2025年退役",
+      "onboard_time": 1737703698,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 35557,
@@ -2065,6 +2121,14 @@
       "onboard_time": 1737652455,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 32191,
+      "num": 303400,
+      "word": "微博新表情蛇精来啦",
+      "onboard_time": 1737702139,
+      "rank": 14,
+      "category": "互联网,动漫"
     },
     {
       "raw_hot": 31518,
@@ -2137,14 +2201,6 @@
       "onboard_time": 1737657432,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 22707,
-      "num": 231369,
-      "word": "微博新表情蛇精来啦",
-      "onboard_time": 1737702139,
-      "rank": 14,
-      "category": "互联网,动漫"
     },
     {
       "raw_hot": 22038,

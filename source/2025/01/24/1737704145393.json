@@ -1,0 +1,410 @@
+{
+  "runTime": 1737704145393,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1325477,
+        "num": 1325477,
+        "word": "杨幂自驾新疆找迪丽热巴当翻译",
+        "onboard_time": 1737697459,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 646573,
+        "num": 646573,
+        "word": "民政局调查捐10元被嫌抠事件",
+        "onboard_time": 1737697279,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9138,
+        "num": 504282,
+        "word": "央视经典之夜",
+        "onboard_time": 1737635118,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394381,
+        "num": 394381,
+        "word": "多辆私家车走应急车道致救护车受阻",
+        "onboard_time": 1737699018,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 371276,
+        "num": 371276,
+        "word": "陈震回应泄密OPPO新机",
+        "onboard_time": 1737700638,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 360614,
+        "num": 360614,
+        "word": "捐10元家长称收到明嘲暗讽式道歉",
+        "onboard_time": 1737694638,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1123693,
+        "num": 356891,
+        "word": "赵露思分离症状已恢复",
+        "onboard_time": 1737701058,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 619467,
+        "num": 355753,
+        "word": "常华森网盘",
+        "onboard_time": 1737696019,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 350899,
+        "num": 350899,
+        "word": "女孩用棍子扒出景区祈福钱后拿走",
+        "onboard_time": 1737701058,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145721,
+        "num": 346500,
+        "word": "应急车道留给有需要的人",
+        "onboard_time": 1737702555,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 758213,
+        "num": 333216,
+        "word": "卞相壹称裁判判罚时才知道新规",
+        "onboard_time": 1737699979,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 611090,
+        "num": 331226,
+        "word": "网易云或下架SM旗下全部歌曲",
+        "onboard_time": 1737703217,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 897687,
+        "num": 322653,
+        "word": "赵露思谈与抑郁症斗争",
+        "onboard_time": 1737696679,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 610602,
+        "num": 306552,
+        "word": "虞书欣cos女帝云鸾",
+        "onboard_time": 1737702017,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 32191,
+        "num": 303400,
+        "word": "微博新表情蛇精来啦",
+        "onboard_time": 1737702139,
+        "rank": 14,
+        "category": "互联网,动漫"
+      },
+      {
+        "raw_hot": 596268,
+        "num": 291577,
+        "word": "字节取消下午茶",
+        "onboard_time": 1737690978,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 477351,
+        "num": 283400,
+        "word": "陈小春说Jasper演讲祖宗听了都开心",
+        "onboard_time": 1737700638,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243717,
+        "num": 275193,
+        "word": "封神新浪扫楼",
+        "onboard_time": 1737703217,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 37537,
+        "num": 266854,
+        "word": "一听12天瑜伽课4万元警察组团劝阻",
+        "onboard_time": 1737703457,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261944,
+        "num": 261944,
+        "word": "柯洁微博评论区被3个字刷屏",
+        "onboard_time": 1737681857,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 454611,
+        "num": 261911,
+        "word": "戚薇李承铉二胎儿子正脸照",
+        "onboard_time": 1737703698,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420000,
+        "num": 261886,
+        "word": "韩国网友称夺冠很尴尬",
+        "onboard_time": 1737699618,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10689,
+        "num": 261805,
+        "word": "贾玲这次热辣滚烫的是鱼汤",
+        "onboard_time": 1737700698,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 299343,
+        "num": 261760,
+        "word": "韩国网友吐槽韩国棋院长脑子了吗",
+        "onboard_time": 1737691098,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261751,
+        "num": 261751,
+        "word": "一年烫一次的头长啥样",
+        "onboard_time": 1737700997,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230894,
+        "num": 230894,
+        "word": "迪丽热巴库存真的不多了",
+        "onboard_time": 1737698060,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206053,
+        "num": 206053,
+        "word": "李昀锐 我在剧组是她的玩具",
+        "onboard_time": 1737695659,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189947,
+        "num": 189947,
+        "word": "男子高速超速100%追尾前车",
+        "onboard_time": 1737696199,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189476,
+        "num": 189476,
+        "word": "爱上陈晓的古装剧是我的宿命",
+        "onboard_time": 1737702978,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36837,
+        "num": 189263,
+        "word": "德约暗示可能在2025年退役",
+        "onboard_time": 1737703698,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233601,
+        "num": 189098,
+        "word": "赵露思明日复工",
+        "onboard_time": 1737697579,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157475,
+        "num": 188669,
+        "word": "卞相壹出席颁奖典礼",
+        "onboard_time": 1737701958,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83843,
+        "num": 188407,
+        "word": "会计虚设9岁儿子为包工头侵占2200万元",
+        "onboard_time": 1737703999,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51555,
+        "num": 188154,
+        "word": "督促摆摊城管称想让商户多赚钱",
+        "onboard_time": 1737702198,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128862,
+        "num": 188052,
+        "word": "卞相壹回应柯洁被判负",
+        "onboard_time": 1737700577,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187787,
+        "num": 187787,
+        "word": "误以为是动物儿子开枪击中除草母亲",
+        "onboard_time": 1737684318,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185885,
+        "num": 185885,
+        "word": "293元8个菜预制年夜饭热销",
+        "onboard_time": 1737683478,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184745,
+        "num": 184745,
+        "word": "白色橄榄树",
+        "onboard_time": 1737698718,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182303,
+        "num": 182303,
+        "word": "代露娃常华森 厨王争霸",
+        "onboard_time": 1737698660,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173464,
+        "num": 173464,
+        "word": "杨幂自己玩三折叠梗",
+        "onboard_time": 1737702797,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172372,
+        "num": 172372,
+        "word": "权志龙太阳朴彩英同框合照",
+        "onboard_time": 1737697579,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168780,
+        "num": 168780,
+        "word": "打工人调休口诀",
+        "onboard_time": 1737703999,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144785,
+        "num": 144785,
+        "word": "女儿要报12天4万的瑜伽课老人报警",
+        "onboard_time": 1737703759,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132451,
+        "num": 132451,
+        "word": "时间在农村竟然是停止的",
+        "onboard_time": 1737691818,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130908,
+        "num": 130908,
+        "word": "被张子枫的花篮种草了",
+        "onboard_time": 1737700997,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129651,
+        "num": 129651,
+        "word": "快要被杨紫李现甜成翘嘴了",
+        "onboard_time": 1737695481,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125105,
+        "num": 125105,
+        "word": "异人之下2大结局",
+        "onboard_time": 1737696438,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116024,
+        "num": 116024,
+        "word": "米饭仙人的胃也是过上年了",
+        "onboard_time": 1737703759,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 114217,
+        "num": 114217,
+        "word": "OPPO回应陈震泄露新机",
+        "onboard_time": 1737700878,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 112444,
+        "num": 112444,
+        "word": "河南局地暴雪10到18毫米",
+        "onboard_time": 1737686658,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平走进受灾群众家中#"
+    }
+  }
+}
