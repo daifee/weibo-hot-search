@@ -1,0 +1,410 @@
+{
+  "runTime": 1737701004256,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1769982,
+        "num": 1769982,
+        "word": "杨幂自驾新疆找迪丽热巴当翻译",
+        "onboard_time": 1737697459,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 940269,
+        "num": 940269,
+        "word": "民政局调查捐10元被嫌抠事件",
+        "onboard_time": 1737697279,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9390,
+        "num": 588203,
+        "word": "央视经典之夜",
+        "onboard_time": 1737635118,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 533317,
+        "num": 533317,
+        "word": "捐10元家长称收到明嘲暗讽式道歉",
+        "onboard_time": 1737694638,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 523217,
+        "num": 523217,
+        "word": "多辆私家车走应急车道致救护车受阻",
+        "onboard_time": 1737699018,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393316,
+        "num": 393316,
+        "word": "柯洁微博评论区被3个字刷屏",
+        "onboard_time": 1737681857,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1592003,
+        "num": 368954,
+        "word": "赵露思谈与抑郁症斗争",
+        "onboard_time": 1737696679,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1033759,
+        "num": 342112,
+        "word": "常华森网盘",
+        "onboard_time": 1737696019,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306945,
+        "num": 306945,
+        "word": "293元8个菜预制年夜饭热销",
+        "onboard_time": 1737683478,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199702,
+        "num": 199702,
+        "word": "澳网德约科维奇退赛",
+        "onboard_time": 1737695779,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 683124,
+        "num": 199053,
+        "word": "字节取消下午茶",
+        "onboard_time": 1737690978,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 492201,
+        "num": 198506,
+        "word": "韩国网友吐槽韩国棋院长脑子了吗",
+        "onboard_time": 1737691098,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20921,
+        "num": 197671,
+        "word": "贾玲演我过春节",
+        "onboard_time": 1737697579,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 61730,
+        "num": 197490,
+        "word": "九冠王已被注册为商标",
+        "onboard_time": 1737700638,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22038,
+        "num": 196947,
+        "word": "职业打假培训课1960元一对一教学",
+        "onboard_time": 1737699918,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 354060,
+        "num": 195875,
+        "word": "赵露思明日复工",
+        "onboard_time": 1737697579,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 451755,
+        "num": 195004,
+        "word": "卞相壹称裁判判罚时才知道新规",
+        "onboard_time": 1737699979,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352704,
+        "num": 194570,
+        "word": "严浩翔点个赞比个耶",
+        "onboard_time": 1737699199,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148990,
+        "num": 193864,
+        "word": "丁程鑫比耶好运卡",
+        "onboard_time": 1737696320,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166597,
+        "num": 193458,
+        "word": "男子高速超速100%追尾前车",
+        "onboard_time": 1737696199,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352710,
+        "num": 192546,
+        "word": "李昀锐 我在剧组是她的玩具",
+        "onboard_time": 1737695659,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309523,
+        "num": 192085,
+        "word": "卞相壹曾因打不过女棋手扇自己耳光",
+        "onboard_time": 1737696379,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286585,
+        "num": 191472,
+        "word": "迪丽热巴库存真的不多了",
+        "onboard_time": 1737698060,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285829,
+        "num": 190816,
+        "word": "误以为是动物儿子开枪击中除草母亲",
+        "onboard_time": 1737684318,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76472,
+        "num": 190008,
+        "word": "柯洁多平台简介仍为八冠王",
+        "onboard_time": 1737698838,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189484,
+        "num": 189484,
+        "word": "河南局地暴雪10到18毫米",
+        "onboard_time": 1737686658,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255166,
+        "num": 189455,
+        "word": "郎朗和朴彩英合作舞台",
+        "onboard_time": 1737696138,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239732,
+        "num": 189118,
+        "word": "异人之下2大结局",
+        "onboard_time": 1737696438,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229058,
+        "num": 188786,
+        "word": "快要被杨紫李现甜成翘嘴了",
+        "onboard_time": 1737695481,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217488,
+        "num": 188389,
+        "word": "沈梦辰白开水妆容",
+        "onboard_time": 1737700278,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226194,
+        "num": 188075,
+        "word": "陈震回应泄密OPPO新机",
+        "onboard_time": 1737700638,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 220487,
+        "num": 187634,
+        "word": "权志龙太阳朴彩英同框合照",
+        "onboard_time": 1737697579,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211929,
+        "num": 187323,
+        "word": "陈小春说Jasper演讲祖宗听了都开心",
+        "onboard_time": 1737700638,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187322,
+        "num": 187322,
+        "word": "代露娃常华森 厨王争霸",
+        "onboard_time": 1737698660,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178097,
+        "num": 178097,
+        "word": "时间在农村竟然是停止的",
+        "onboard_time": 1737691818,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174568,
+        "num": 174568,
+        "word": "韩国网友称夺冠很尴尬",
+        "onboard_time": 1737699618,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160160,
+        "num": 160160,
+        "word": "遭举报出轨人妻的肖峰被双开",
+        "onboard_time": 1737686898,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158174,
+        "num": 158174,
+        "word": "王影璐回应初演冯宝宝差评",
+        "onboard_time": 1737697459,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146554,
+        "num": 146554,
+        "word": "连笑曝柯洁应该不会参加闭幕式",
+        "onboard_time": 1737684318,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136380,
+        "num": 136380,
+        "word": "女子连续熬夜加班同时确诊8种病",
+        "onboard_time": 1737691098,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135728,
+        "num": 135728,
+        "word": "在日本铁轨被撞身亡中国游客来自香港",
+        "onboard_time": 1737697519,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54589,
+        "num": 133192,
+        "word": "贾玲这次热辣滚烫的是鱼汤",
+        "onboard_time": 1737700698,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 37718,
+        "num": 132622,
+        "word": "全国首只柯基警犬登上时尚封面",
+        "onboard_time": 1737699560,
+        "rank": 42,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 82402,
+        "num": 132341,
+        "word": "刘耀文祝大家蛇全蛇美",
+        "onboard_time": 1737699798,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132151,
+        "num": 132151,
+        "word": "OPPO回应陈震泄露新机",
+        "onboard_time": 1737700878,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 129115,
+        "num": 129115,
+        "word": "白色橄榄树",
+        "onboard_time": 1737698718,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128632,
+        "num": 128632,
+        "word": "重庆年味",
+        "onboard_time": 1737690978,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 124889,
+        "num": 124889,
+        "word": "卞相壹回应柯洁被判负",
+        "onboard_time": 1737700577,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118379,
+        "num": 118379,
+        "word": "封神吴汉坤真人就是硬帅",
+        "onboard_time": 1737699918,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115681,
+        "num": 115681,
+        "word": "容祖儿想让黄子和李昊做花童",
+        "onboard_time": 1737700939,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平走进受灾群众家中#"
+    }
+  }
+}
