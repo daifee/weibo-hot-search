@@ -1,6 +1,6 @@
 {
   "startTime": 1737649694584,
-  "endTime": 1737714236281,
+  "endTime": 1737715242406,
   "band_list": [
     {
       "raw_hot": 3219780,
@@ -65,6 +65,14 @@
       "onboard_time": 1737705801,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1470522,
+      "num": 1470522,
+      "word": "折腰过审了",
+      "onboard_time": 1737713658,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 1469695,
@@ -171,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 871041,
+      "num": 325957,
+      "word": "霸王茶姬",
+      "onboard_time": 1737713237,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 868639,
       "num": 766878,
       "word": "柯洁微博评论区被3个字刷屏",
@@ -225,6 +241,14 @@
       "onboard_time": 1737694638,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 691142,
+      "num": 432257,
+      "word": "韩围棋协会将修改围棋规定",
+      "onboard_time": 1737711499,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 684499,
@@ -387,14 +411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 505367,
-      "num": 331659,
-      "word": "韩围棋协会将修改围棋规定",
-      "onboard_time": 1737711499,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 502515,
       "num": 502515,
       "word": "陈震 OPPO",
@@ -409,6 +425,14 @@
       "onboard_time": 1737677897,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 482433,
+      "num": 440541,
+      "word": "刘亦菲檀健次龚俊金靖一起唱K",
+      "onboard_time": 1737710839,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 479340,
@@ -433,22 +457,6 @@
       "onboard_time": 1737700638,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 463594,
-      "num": 440541,
-      "word": "刘亦菲檀健次龚俊金靖一起唱K",
-      "onboard_time": 1737710839,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 460575,
-      "num": 325957,
-      "word": "霸王茶姬",
-      "onboard_time": 1737713237,
-      "rank": 18,
-      "category": "美食"
     },
     {
       "raw_hot": 459764,
@@ -553,14 +561,6 @@
       "onboard_time": 1737626179,
       "rank": 7,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 387183,
-      "num": 387183,
-      "word": "折腰过审了",
-      "onboard_time": 1737713658,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 377307,
@@ -803,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243764,
+      "num": 243764,
+      "word": "国家药监局药审中心致歉",
+      "onboard_time": 1737714379,
+      "rank": 7,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 243717,
       "num": 275193,
       "word": "封神新浪扫楼",
@@ -883,6 +891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 228270,
+      "num": 209735,
+      "word": "杨幂也看了再见爱人",
+      "onboard_time": 1737713418,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226667,
       "num": 202413,
       "word": "时间在农村竟然是停止的",
@@ -947,6 +963,14 @@
       "category": "辟谣/通报,健康医疗"
     },
     {
+      "raw_hot": 217713,
+      "num": 207956,
+      "word": "回避依恋性人格",
+      "onboard_time": 1737709520,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 217488,
       "num": 188389,
       "word": "沈梦辰白开水妆容",
@@ -961,6 +985,14 @@
       "onboard_time": 1737705320,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 215190,
+      "num": 159125,
+      "word": "柯洁父亲发声",
+      "onboard_time": 1737714319,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 214106,
@@ -1001,6 +1033,14 @@
       "onboard_time": 1737676576,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 207918,
+      "num": 335252,
+      "word": "蛇是怎么成为十二生肖的",
+      "onboard_time": 1737710360,
+      "rank": 45,
+      "category": "正能量"
     },
     {
       "raw_hot": 207553,
@@ -1059,20 +1099,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198896,
+      "num": 198896,
+      "word": "文淇回应出演网剧是资源降级",
+      "onboard_time": 1737713898,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196847,
       "num": 196847,
       "word": "香港游客被尔滨宠上了天",
       "onboard_time": 1737693258,
       "rank": 27,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 195189,
-      "num": 195189,
-      "word": "杨幂也看了再见爱人",
-      "onboard_time": 1737713418,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 194576,
@@ -1188,7 +1228,7 @@
     },
     {
       "raw_hot": 184952,
-      "num": 207832,
+      "num": 209133,
       "word": "卞相壹说理解柯洁立场",
       "onboard_time": 1737713237,
       "rank": 24,
@@ -1395,14 +1435,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 167897,
-      "num": 167897,
-      "word": "回避依恋性人格",
-      "onboard_time": 1737709520,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 167221,
       "num": 167221,
       "word": "谢霆锋香港抢票",
@@ -1483,14 +1515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159437,
-      "num": 335252,
-      "word": "蛇是怎么成为十二生肖的",
-      "onboard_time": 1737710360,
-      "rank": 45,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 159412,
       "num": 159412,
       "word": "岳云鹏谈近期压力",
@@ -1499,12 +1523,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159189,
+      "num": 159189,
+      "word": "和平精英",
+      "onboard_time": 1737714078,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 157522,
       "num": 303619,
       "word": "张杰熊出没电影主题曲开启预约",
       "onboard_time": 1737692958,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 155194,
+      "num": 155194,
+      "word": "2025KPL春季转会期",
+      "onboard_time": 1737714918,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 154580,
@@ -1827,14 +1867,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 128359,
-      "num": 128359,
-      "word": "和平精英",
-      "onboard_time": 1737714078,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 127876,
       "num": 127876,
       "word": "孙千叫黄景瑜gerger",
@@ -1888,6 +1920,14 @@
       "word": "陈都灵斗篷造型",
       "onboard_time": 1737645080,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 124227,
+      "num": 156099,
+      "word": "陈哲远你给我喝了什么",
+      "onboard_time": 1737711619,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -2003,14 +2043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 115713,
-      "num": 115713,
-      "word": "文淇回应出演网剧是资源降级",
-      "onboard_time": 1737713898,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 115681,
       "num": 115681,
       "word": "容祖儿想让黄子和李昊做花童",
@@ -2043,6 +2075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111613,
+      "num": 90864,
+      "word": "今年被许下最多的愿望不是发财了",
+      "onboard_time": 1737714677,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110948,
       "num": 110948,
       "word": "哈尔滨的猫咪也是加大号版",
@@ -2059,6 +2099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110364,
+      "num": 210718,
+      "word": "周也白葡萄酒炖青口",
+      "onboard_time": 1737714137,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110116,
       "num": 110116,
       "word": "笛子舞入侵kpop",
@@ -2073,14 +2121,6 @@
       "onboard_time": 1737695959,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108584,
-      "num": 108584,
-      "word": "陈哲远你给我喝了什么",
-      "onboard_time": 1737711619,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 106253,
@@ -2147,6 +2187,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 97523,
+      "num": 97523,
+      "word": "醉汉刷开夫妻房门妻子现应激反应",
+      "onboard_time": 1737714018,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97157,
       "num": 118254,
       "word": "专家呼吁严格对照一致性评价实验标准",
@@ -2209,6 +2257,14 @@
       "onboard_time": 1737709999,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 88244,
+      "num": 88244,
+      "word": "难怪老外会被中国惊讶到",
+      "onboard_time": 1737713118,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 88197,
@@ -2419,14 +2475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 59856,
-      "num": 128466,
-      "word": "周也白葡萄酒炖青口",
-      "onboard_time": 1737714137,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 56978,
       "num": 242835,
       "word": "土耳其酒店火灾幸存者回忆惊魂时刻",
@@ -2539,6 +2587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 48326,
+      "num": 330165,
+      "word": "救援队回应8岁女孩走失悬赏百万",
+      "onboard_time": 1737713237,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47487,
       "num": 47487,
       "word": "郁可唯王子异知否知否",
@@ -2603,6 +2659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39671,
+      "num": 328666,
+      "word": "全民集福人",
+      "onboard_time": 1737712877,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 39510,
       "num": 640083,
       "word": "大街小巷上新中国红",
@@ -2635,6 +2699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35867,
+      "num": 453465,
+      "word": "热雪新疆e起来",
+      "onboard_time": 1737712159,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35557,
       "num": 41126,
       "word": "减肥正体态同时拿捏了",
@@ -2649,14 +2721,6 @@
       "onboard_time": 1737697579,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 34471,
-      "num": 328666,
-      "word": "全民集福人",
-      "onboard_time": 1737712877,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 33865,
@@ -2681,14 +2745,6 @@
       "onboard_time": 1737702139,
       "rank": 14,
       "category": "互联网,动漫"
-    },
-    {
-      "raw_hot": 31681,
-      "num": 453465,
-      "word": "热雪新疆e起来",
-      "onboard_time": 1737712159,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31518,
@@ -2721,14 +2777,6 @@
       "onboard_time": 1737653653,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 26480,
-      "num": 330165,
-      "word": "救援队回应8岁女孩走失悬赏百万",
-      "onboard_time": 1737713237,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25305,
@@ -2954,6 +3002,9 @@
     },
     {
       "word": "#实体经济是国民经济的根基所在#"
+    },
+    {
+      "word": "#过年团圆更要让大家吃得好#"
     }
   ]
 }
