@@ -1,0 +1,410 @@
+{
+  "runTime": 1737686998304,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1087309,
+        "num": 1173969,
+        "word": "中国女游客在日本铁轨上拍照被撞",
+        "onboard_time": 1737681198,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1078481,
+        "num": 1078481,
+        "word": "上海首例野蛮私挖地下室入刑",
+        "onboard_time": 1737679398,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5054,
+        "num": 797689,
+        "word": "2025网络视听盛典",
+        "onboard_time": 1737686898,
+        "rank": 2,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 657434,
+        "num": 657434,
+        "word": "金秀贤回复cp粉",
+        "onboard_time": 1737682457,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 502515,
+        "num": 502515,
+        "word": "陈震 OPPO",
+        "onboard_time": 1737682158,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 413943,
+        "num": 413943,
+        "word": "肯尼迪遇刺案机密文件将公布",
+        "onboard_time": 1737683358,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 540616,
+        "num": 384386,
+        "word": "三大平台古装剧将要对打",
+        "onboard_time": 1737681857,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351222,
+        "num": 351222,
+        "word": "樊振东的奥运金牌含金量还在上升",
+        "onboard_time": 1737678198,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 346328,
+        "num": 346328,
+        "word": "沙特计划投资美国6000亿美元",
+        "onboard_time": 1737684258,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 252979,
+        "num": 342559,
+        "word": "293元8个菜预制年夜饭热销",
+        "onboard_time": 1737683478,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43286,
+        "num": 327755,
+        "word": "千帆极轨06组卫星成功发射",
+        "onboard_time": 1737643999,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 559494,
+        "num": 323997,
+        "word": "00后小伙高铁相亲成功女方大13岁",
+        "onboard_time": 1737681738,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 472103,
+        "num": 314618,
+        "word": "柯洁说这辈子没受过这种委屈",
+        "onboard_time": 1737674354,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 369340,
+        "num": 305744,
+        "word": "权志龙绿发",
+        "onboard_time": 1737684557,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299843,
+        "num": 299843,
+        "word": "女子高校工作16年发现未缴养老险",
+        "onboard_time": 1737676157,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277809,
+        "num": 277809,
+        "word": "寒潮黄色预警暴雪黄色预警都来了",
+        "onboard_time": 1737678678,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276966,
+        "num": 276966,
+        "word": "柯洁微博备注改为世界围棋九冠王",
+        "onboard_time": 1737636261,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275136,
+        "num": 275136,
+        "word": "青簪行",
+        "onboard_time": 1737644300,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269592,
+        "num": 269592,
+        "word": "贾玲 你的强回来了",
+        "onboard_time": 1737686297,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 239586,
+        "num": 263579,
+        "word": "徐克你根本没有喝中药",
+        "onboard_time": 1737677719,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 514229,
+        "num": 263078,
+        "word": "误以为是动物儿子开枪击中除草母亲",
+        "onboard_time": 1737684318,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388072,
+        "num": 261064,
+        "word": "韩国网友竟称柯洁无知又没礼貌",
+        "onboard_time": 1737684677,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258096,
+        "num": 258096,
+        "word": "裸辞一年后不上班的现状",
+        "onboard_time": 1737681918,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 319488,
+        "num": 252222,
+        "word": "柯洁微博评论区被3个字刷屏",
+        "onboard_time": 1737681857,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78433,
+        "num": 240082,
+        "word": "樊振东金牌含金量有多高",
+        "onboard_time": 1737685878,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1133765,
+        "num": 240074,
+        "word": "杨子说直播求婚被黄圣依骂了五分钟",
+        "onboard_time": 1737676337,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239758,
+        "num": 239758,
+        "word": "女生吃一个月冷藏米饭血糖降了",
+        "onboard_time": 1737640760,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214899,
+        "num": 225348,
+        "word": "余烬之上定档",
+        "onboard_time": 1737686537,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224154,
+        "num": 224154,
+        "word": "白色橄榄树白鸽和平版海报",
+        "onboard_time": 1737685818,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19951,
+        "num": 221198,
+        "word": "马丽新年真是越开越有了",
+        "onboard_time": 1737685697,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 220683,
+        "num": 220683,
+        "word": "连笑曝柯洁应该不会参加闭幕式",
+        "onboard_time": 1737684318,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214106,
+        "num": 214106,
+        "word": "西安下雪",
+        "onboard_time": 1737682758,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185735,
+        "num": 185735,
+        "word": "轩染",
+        "onboard_time": 1737644241,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 181326,
+        "num": 181326,
+        "word": "中国队不出席LG杯颁奖仪式",
+        "onboard_time": 1737683419,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171854,
+        "num": 171854,
+        "word": "张艺兴不语只一味翻牌",
+        "onboard_time": 1737685458,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164981,
+        "num": 164981,
+        "word": "剑来 烂尾",
+        "onboard_time": 1737683598,
+        "rank": 35,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 160149,
+        "num": 160149,
+        "word": "权志龙新综艺正式预告",
+        "onboard_time": 1737684377,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157305,
+        "num": 157305,
+        "word": "女生刚到家门口3辆车排队相亲",
+        "onboard_time": 1737681078,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155441,
+        "num": 155441,
+        "word": "剑来完结",
+        "onboard_time": 1737678678,
+        "rank": 38,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 152931,
+        "num": 152931,
+        "word": "这3种年货可能费钱又伤身",
+        "onboard_time": 1737685159,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144246,
+        "num": 144246,
+        "word": "烽火戏诸侯",
+        "onboard_time": 1737684856,
+        "rank": 40,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 138231,
+        "num": 138231,
+        "word": "中国围棋协会",
+        "onboard_time": 1737677897,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138025,
+        "num": 138025,
+        "word": "河南局地暴雪10到18毫米",
+        "onboard_time": 1737686658,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137559,
+        "num": 137559,
+        "word": "特朗普喊话美联储立即降息",
+        "onboard_time": 1737684557,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134870,
+        "num": 134870,
+        "word": "代露娃镜头下的常华森",
+        "onboard_time": 1737641840,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130298,
+        "num": 130298,
+        "word": "遭举报出轨人妻的肖峰被双开",
+        "onboard_time": 1737686898,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122581,
+        "num": 122581,
+        "word": "谷爱凌等奥运冠军出征亚冬会",
+        "onboard_time": 1737685757,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122401,
+        "num": 122401,
+        "word": "四只警犬挨个被点名通报批评",
+        "onboard_time": 1737674475,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119391,
+        "num": 119391,
+        "word": "老人买18万黄金不挑款店员火速报警",
+        "onboard_time": 1737636439,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112592,
+        "num": 118722,
+        "word": "你的强回来了",
+        "onboard_time": 1737686837,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#大家共同努力把幸福生活过得更好#"
+    }
+  }
+}

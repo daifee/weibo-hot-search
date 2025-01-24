@@ -1,6 +1,6 @@
 {
   "startTime": 1737649694584,
-  "endTime": 1737683784868,
+  "endTime": 1737686998304,
   "band_list": [
     {
       "raw_hot": 2385266,
@@ -19,20 +19,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1087309,
+      "num": 1173969,
+      "word": "中国女游客在日本铁轨上拍照被撞",
+      "onboard_time": 1737681198,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1078481,
+      "num": 1126074,
+      "word": "上海首例野蛮私挖地下室入刑",
+      "onboard_time": 1737679398,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 968455,
       "num": 968455,
       "word": "青簪行",
       "onboard_time": 1737644300,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 787964,
-      "num": 1126074,
-      "word": "上海首例野蛮私挖地下室入刑",
-      "onboard_time": 1737679398,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 734053,
@@ -51,8 +59,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 657434,
+      "num": 657434,
+      "word": "金秀贤回复cp粉",
+      "onboard_time": 1737682457,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 622547,
-      "num": 310381,
+      "num": 314618,
       "word": "柯洁说这辈子没受过这种委屈",
       "onboard_time": 1737674354,
       "rank": 12,
@@ -60,7 +76,7 @@
     },
     {
       "raw_hot": 595455,
-      "num": 282542,
+      "num": 323997,
       "word": "00后小伙高铁相亲成功女方大13岁",
       "onboard_time": 1737681738,
       "rank": 19,
@@ -91,12 +107,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 540616,
+      "num": 424741,
+      "word": "三大平台古装剧将要对打",
+      "onboard_time": 1737681857,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 514229,
+      "num": 263078,
+      "word": "误以为是动物儿子开枪击中除草母亲",
+      "onboard_time": 1737684318,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 509924,
       "num": 509924,
       "word": "邓男子魔术 失败",
       "onboard_time": 1737635839,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 502515,
+      "num": 502515,
+      "word": "陈震 OPPO",
+      "onboard_time": 1737682158,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 488740,
@@ -115,14 +155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 471632,
-      "num": 471632,
-      "word": "中国女游客在日本铁轨上拍照被撞",
-      "onboard_time": 1737681198,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 438222,
       "num": 438222,
       "word": "徐克你根本没有喝中药",
@@ -131,19 +163,19 @@
       "category": "电影"
     },
     {
-      "raw_hot": 424741,
-      "num": 424741,
-      "word": "三大平台古装剧将要对打",
-      "onboard_time": 1737681857,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 415488,
       "num": 408485,
       "word": "特朗普认为中美关系非常良好",
       "onboard_time": 1737677837,
       "rank": 5,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 413943,
+      "num": 413943,
+      "word": "肯尼迪遇刺案机密文件将公布",
+      "onboard_time": 1737683358,
+      "rank": 12,
       "category": "国际时政"
     },
     {
@@ -155,20 +187,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 391699,
-      "num": 391699,
-      "word": "金秀贤回复cp粉",
-      "onboard_time": 1737682457,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 388334,
       "num": 338207,
       "word": "杨紫娜扎撞高定了",
       "onboard_time": 1737626179,
       "rank": 7,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 388072,
+      "num": 261064,
+      "word": "韩国网友竟称柯洁无知又没礼貌",
+      "onboard_time": 1737684677,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 375334,
@@ -179,12 +211,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 369340,
+      "num": 305744,
+      "word": "权志龙绿发",
+      "onboard_time": 1737684557,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 363725,
       "num": 363725,
       "word": "四只警犬挨个被点名通报批评",
       "onboard_time": 1737674475,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 346328,
+      "num": 346328,
+      "word": "沙特计划投资美国6000亿美元",
+      "onboard_time": 1737684258,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 336857,
@@ -196,7 +244,7 @@
     },
     {
       "raw_hot": 331914,
-      "num": 249161,
+      "num": 252222,
       "word": "柯洁微博评论区被3个字刷屏",
       "onboard_time": 1737681857,
       "rank": 21,
@@ -235,12 +283,36 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 250427,
-      "num": 221193,
+      "raw_hot": 277809,
+      "num": 277809,
+      "word": "寒潮黄色预警暴雪黄色预警都来了",
+      "onboard_time": 1737678678,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 269592,
+      "num": 269592,
+      "word": "贾玲 你的强回来了",
+      "onboard_time": 1737686297,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 258096,
+      "num": 258096,
       "word": "裸辞一年后不上班的现状",
       "onboard_time": 1737681918,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 252979,
+      "num": 342559,
+      "word": "293元8个菜预制年夜饭热销",
+      "onboard_time": 1737683478,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 241637,
@@ -283,14 +355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 229955,
-      "num": 229955,
-      "word": "寒潮黄色预警暴雪黄色预警都来了",
-      "onboard_time": 1737678678,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 228303,
       "num": 228303,
       "word": "谁手机粘小炸的车上了",
@@ -299,11 +363,43 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 224154,
+      "num": 224154,
+      "word": "白色橄榄树白鸽和平版海报",
+      "onboard_time": 1737685818,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222837,
       "num": 217535,
       "word": "老人买18万黄金不挑款店员火速报警",
       "onboard_time": 1737636439,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220683,
+      "num": 220683,
+      "word": "连笑曝柯洁应该不会参加闭幕式",
+      "onboard_time": 1737684318,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 214899,
+      "num": 225348,
+      "word": "余烬之上定档",
+      "onboard_time": 1737686537,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 214106,
+      "num": 214106,
+      "word": "西安下雪",
+      "onboard_time": 1737682758,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -321,14 +417,6 @@
       "onboard_time": 1737677658,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 211920,
-      "num": 211920,
-      "word": "陈震 OPPO",
-      "onboard_time": 1737682158,
-      "rank": 43,
-      "category": "数码"
     },
     {
       "raw_hot": 211522,
@@ -355,6 +443,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 181326,
+      "num": 181326,
+      "word": "中国队不出席LG杯颁奖仪式",
+      "onboard_time": 1737683419,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179033,
       "num": 179033,
       "word": "中国队总教练为何对柯洁说没办法了",
@@ -379,12 +475,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171854,
+      "num": 171854,
+      "word": "张艺兴不语只一味翻牌",
+      "onboard_time": 1737685458,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169784,
       "num": 149139,
       "word": "柯洁去年对申真谞也被裁判干扰",
       "onboard_time": 1737674295,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164981,
+      "num": 164981,
+      "word": "剑来 烂尾",
+      "onboard_time": 1737683598,
+      "rank": 44,
+      "category": "读书作家"
     },
     {
       "raw_hot": 160569,
@@ -395,12 +507,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160149,
+      "num": 160149,
+      "word": "权志龙新综艺正式预告",
+      "onboard_time": 1737684377,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154059,
       "num": 181660,
       "word": "王鹤棣表示自己更像许七安",
       "onboard_time": 1737677416,
       "rank": 29,
       "category": "剧集,时尚"
+    },
+    {
+      "raw_hot": 152931,
+      "num": 152931,
+      "word": "这3种年货可能费钱又伤身",
+      "onboard_time": 1737685159,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152045,
@@ -433,6 +561,14 @@
       "onboard_time": 1737675616,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144246,
+      "num": 144246,
+      "word": "烽火戏诸侯",
+      "onboard_time": 1737684856,
+      "rank": 40,
+      "category": "读书作家"
     },
     {
       "raw_hot": 142053,
@@ -475,12 +611,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136123,
-      "num": 128925,
-      "word": "中国队不出席LG杯颁奖仪式",
-      "onboard_time": 1737683419,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 138025,
+      "num": 138025,
+      "word": "河南局地暴雪10到18毫米",
+      "onboard_time": 1737686658,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137559,
+      "num": 137559,
+      "word": "特朗普喊话美联储立即降息",
+      "onboard_time": 1737684557,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 131527,
@@ -491,11 +635,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129025,
-      "num": 129025,
-      "word": "西安下雪",
-      "onboard_time": 1737682758,
-      "rank": 49,
+      "raw_hot": 130298,
+      "num": 130298,
+      "word": "遭举报出轨人妻的肖峰被双开",
+      "onboard_time": 1737686898,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -531,20 +675,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122581,
+      "num": 122581,
+      "word": "谷爱凌等奥运冠军出征亚冬会",
+      "onboard_time": 1737685757,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120899,
       "num": 120899,
       "word": "文章马伊琍大女儿为妹妹庆生",
       "onboard_time": 1737635898,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 119788,
-      "num": 119788,
-      "word": "剑来 烂尾",
-      "onboard_time": 1737683598,
-      "rank": 44,
-      "category": "读书作家"
     },
     {
       "raw_hot": 117188,
@@ -571,12 +715,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 112117,
-      "num": 112117,
-      "word": "293元8个菜预制年夜饭热销",
-      "onboard_time": 1737683478,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 112592,
+      "num": 118722,
+      "word": "你的强回来了",
+      "onboard_time": 1737686837,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 110924,
@@ -585,14 +729,6 @@
       "onboard_time": 1737683655,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 107652,
-      "num": 281954,
-      "word": "肯尼迪遇刺案机密文件将公布",
-      "onboard_time": 1737683358,
-      "rank": 12,
-      "category": "国际时政"
     },
     {
       "raw_hot": 106253,
@@ -688,6 +824,14 @@
       "word": "中围棋不接受LG杯第三局结果",
       "onboard_time": 1737642139,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 78433,
+      "num": 240082,
+      "word": "樊振东金牌含金量有多高",
+      "onboard_time": 1737685878,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -827,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43286,
+      "num": 729628,
+      "word": "千帆极轨06组卫星成功发射",
+      "onboard_time": 1737643999,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 43091,
       "num": 43091,
       "word": "陈丽君李云霄官宣加盟央视春戏晚",
@@ -849,14 +1001,6 @@
       "onboard_time": 1737674235,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 38187,
-      "num": 729628,
-      "word": "千帆极轨06组卫星成功发射",
-      "onboard_time": 1737643999,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 35557,
@@ -955,6 +1099,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 19951,
+      "num": 221198,
+      "word": "马丽新年真是越开越有了",
+      "onboard_time": 1737685697,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 19935,
       "num": 75313,
       "word": "2025年票房破20亿",
@@ -1049,6 +1201,14 @@
       "onboard_time": 1737653774,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 5054,
+      "num": 797689,
+      "word": "2025网络视听盛典",
+      "onboard_time": 1737686898,
+      "rank": 2,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
