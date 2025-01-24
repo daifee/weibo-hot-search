@@ -1,6 +1,6 @@
 {
   "startTime": 1737736047740,
-  "endTime": 1737757235266,
+  "endTime": 1737758261967,
   "band_list": [
     {
       "raw_hot": 1963235,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 200921,
-      "num": 363397,
+      "num": 457021,
       "word": "多地禁改限明确春节可燃放烟花爆竹",
       "onboard_time": 1737739695,
       "rank": 14,
@@ -347,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102864,
+      "num": 102864,
+      "word": "李微微被双开",
+      "onboard_time": 1737752771,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95421,
       "num": 95421,
       "word": "虞书欣 狭路",
@@ -385,14 +393,6 @@
       "onboard_time": 1737725059,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 85597,
-      "num": 85597,
-      "word": "李微微被双开",
-      "onboard_time": 1737752771,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81866,
@@ -523,12 +523,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 26306,
-      "num": 26306,
+      "raw_hot": 26879,
+      "num": 26879,
       "word": "香港3平米月租2200的家",
       "onboard_time": 1737749951,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 24855,
+      "num": 108068,
+      "word": "春运高峰遇上寒潮要如何应对",
+      "onboard_time": 1737729741,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21779,
@@ -563,20 +571,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 18993,
+      "num": 23260,
+      "word": "男子商场停车显示需缴停车费2.4万",
+      "onboard_time": 1737755531,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18649,
       "num": 30693,
       "word": "詹杜库的最后一舞",
       "onboard_time": 1737735079,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 17703,
-      "num": 108068,
-      "word": "春运高峰遇上寒潮要如何应对",
-      "onboard_time": 1737729741,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17161,
@@ -603,8 +611,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 14257,
-      "num": 21640,
+      "raw_hot": 14362,
+      "num": 23257,
       "word": "李昊拍猪孩子",
       "onboard_time": 1737751272,
       "rank": 48,
@@ -616,14 +624,6 @@
       "word": "文化中国行看火花迎新春",
       "onboard_time": 1737731900,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13547,
-      "num": 21640,
-      "word": "男子商场停车显示需缴停车费2.4万",
-      "onboard_time": 1737755531,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
