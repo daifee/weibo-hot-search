@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/24 09:40:23
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/24 09:56:24
 </p>
 </blockquote>
 <p>
@@ -5505,6 +5505,12 @@ B站拿下春晚转播权（热度：825759）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E9%A6%96%E4%BE%8B%E9%87%8E%E8%9B%AE%E7%A7%81%E6%8C%96%E5%9C%B0%E4%B8%8B%E5%AE%A4%E5%85%A5%E5%88%91%23" target="weibo">
+上海首例野蛮私挖地下室入刑（热度：787964）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E7%AC%91%E5%82%B2%E6%B1%9F%E6%B9%96%E5%AE%9A%E6%A1%A3%E6%98%A5%E8%8A%82%E6%A1%A3%23" target="weibo">
 电影笑傲江湖定档春节档（热度：787720）
 </a>
@@ -6005,12 +6011,6 @@ SM新女团 SMTOWN压轴（热度：743773）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%B7%B2%E4%B8%BA%E7%B2%89%E4%B8%9D%E8%AF%95%E9%A9%BE%23" target="weibo">
 黄子韬已为粉丝试驾（热度：740294）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%81%AD%E5%88%97%E8%BD%A6%E6%92%9E%E5%87%BB%E5%89%8D%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89%23" target="weibo">
-两中国游客遭列车撞击前监控曝光（热度：740079）
 </a>
 </li>
 
