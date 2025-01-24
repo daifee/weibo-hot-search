@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737687509618,
+  "endTime": 1737689085105,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -641,6 +641,14 @@
       "onboard_time": 1736077046,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2783311,
+      "num": 2783311,
+      "word": "贾玲 你的强回来了",
+      "onboard_time": 1737686297,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 2782279,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736860460,
       "rank": 10,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1545151,
-      "num": 1545151,
-      "word": "关晓彤造型师",
-      "onboard_time": 1736588429,
-      "rank": 10,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [

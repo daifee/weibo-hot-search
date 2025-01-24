@@ -1,7 +1,15 @@
 {
   "startTime": 1737649694584,
-  "endTime": 1737687509618,
+  "endTime": 1737689085105,
   "band_list": [
+    {
+      "raw_hot": 2783311,
+      "num": 2783311,
+      "word": "贾玲 你的强回来了",
+      "onboard_time": 1737686297,
+      "rank": 18,
+      "category": "电影"
+    },
     {
       "raw_hot": 2385266,
       "num": 343554,
@@ -43,6 +51,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 925585,
+      "num": 925585,
+      "word": "293元8个菜预制年夜饭热销",
+      "onboard_time": 1737683478,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 734053,
       "num": 734053,
       "word": "轩染",
@@ -59,14 +75,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 667580,
-      "num": 667580,
-      "word": "贾玲 你的强回来了",
-      "onboard_time": 1737686297,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 657434,
       "num": 657434,
       "word": "金秀贤回复cp粉",
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 622547,
-      "num": 332249,
+      "num": 339429,
       "word": "柯洁说这辈子没受过这种委屈",
       "onboard_time": 1737674354,
       "rank": 12,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 595455,
-      "num": 332780,
+      "num": 340152,
       "word": "00后小伙高铁相亲成功女方大13岁",
       "onboard_time": 1737681738,
       "rank": 19,
@@ -123,8 +131,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 514229,
-      "num": 263078,
+      "raw_hot": 522187,
+      "num": 290179,
       "word": "误以为是动物儿子开枪击中除草母亲",
       "onboard_time": 1737684318,
       "rank": 20,
@@ -155,20 +163,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 487791,
-      "num": 487791,
-      "word": "293元8个菜预制年夜饭热销",
-      "onboard_time": 1737683478,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 478232,
       "num": 879034,
       "word": "外国人已经快进到体验过年三件套了",
       "onboard_time": 1737647358,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 460866,
+      "num": 460866,
+      "word": "河南局地暴雪10到18毫米",
+      "onboard_time": 1737686658,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 439958,
+      "num": 365659,
+      "word": "余烬之上定档",
+      "onboard_time": 1737686537,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 438222,
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 429685,
-      "num": 261064,
+      "num": 289051,
       "word": "韩国网友竟称柯洁无知又没礼貌",
       "onboard_time": 1737684677,
       "rank": 21,
@@ -203,6 +219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 405915,
+      "num": 343851,
+      "word": "权志龙绿发",
+      "onboard_time": 1737684557,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 405773,
       "num": 405773,
       "word": "漂白 吓人",
@@ -217,14 +241,6 @@
       "onboard_time": 1737626179,
       "rank": 7,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 381586,
-      "num": 329203,
-      "word": "权志龙绿发",
-      "onboard_time": 1737684557,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 375334,
@@ -243,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 348698,
+      "num": 348698,
+      "word": "柯洁微博评论区被3个字刷屏",
+      "onboard_time": 1737681857,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 346328,
       "num": 346328,
       "word": "沙特计划投资美国6000亿美元",
@@ -259,20 +283,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 331914,
-      "num": 252222,
-      "word": "柯洁微博评论区被3个字刷屏",
-      "onboard_time": 1737681857,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 319469,
-      "num": 319469,
-      "word": "余烬之上定档",
-      "onboard_time": 1737686537,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 330758,
+      "num": 330758,
+      "word": "遭举报出轨人妻的肖峰被双开",
+      "onboard_time": 1737686898,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 311055,
@@ -305,6 +321,14 @@
       "onboard_time": 1737674354,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 287710,
+      "num": 287710,
+      "word": "花8000元送去宠物学校的狗挨了打",
+      "onboard_time": 1737687437,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 279829,
@@ -435,6 +459,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 202570,
+      "num": 202570,
+      "word": "花间令上星",
+      "onboard_time": 1737688158,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194576,
       "num": 194576,
       "word": "中国队不出席LG杯颁奖仪式",
@@ -443,12 +475,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186386,
-      "num": 210799,
-      "word": "河南局地暴雪10到18毫米",
-      "onboard_time": 1737686658,
-      "rank": 42,
+      "raw_hot": 185848,
+      "num": 347273,
+      "word": "无论多远春节记得回家看看",
+      "onboard_time": 1737687678,
+      "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182521,
+      "num": 182521,
+      "word": "剑来 烂尾",
+      "onboard_time": 1737683598,
+      "rank": 44,
+      "category": "读书作家"
     },
     {
       "raw_hot": 182323,
@@ -467,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177823,
+      "num": 177823,
+      "word": "110秒重走一遍李子柒非遗来时路",
+      "onboard_time": 1737687437,
+      "rank": 49,
+      "category": "美食,网红"
+    },
+    {
       "raw_hot": 177197,
       "num": 177197,
       "word": "田嘉瑞巴黎直播被冻哭",
@@ -476,7 +524,7 @@
     },
     {
       "raw_hot": 173949,
-      "num": 207053,
+      "num": 337976,
       "word": "你的强回来了",
       "onboard_time": 1737686837,
       "rank": 49,
@@ -491,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171862,
+      "num": 171862,
+      "word": "曾一鸣自述低潮时吃妻子软饭",
+      "onboard_time": 1737687498,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171854,
       "num": 171854,
       "word": "张艺兴不语只一味翻牌",
@@ -499,12 +555,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 170439,
-      "num": 170439,
-      "word": "剑来 烂尾",
-      "onboard_time": 1737683598,
-      "rank": 44,
-      "category": "读书作家"
+      "raw_hot": 169907,
+      "num": 242364,
+      "word": "谷爱凌等奥运冠军出征亚冬会",
+      "onboard_time": 1737685757,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 169784,
@@ -513,6 +569,22 @@
       "onboard_time": 1737674295,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167221,
+      "num": 167221,
+      "word": "谢霆锋香港抢票",
+      "onboard_time": 1737688277,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 166903,
+      "num": 166903,
+      "word": "陈哲远阿瓒在白色橄榄树下等你",
+      "onboard_time": 1737687739,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 160569,
@@ -532,7 +604,7 @@
     },
     {
       "raw_hot": 154059,
-      "num": 181660,
+      "num": 290887,
       "word": "王鹤棣表示自己更像许七安",
       "onboard_time": 1737677416,
       "rank": 29,
@@ -635,12 +707,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 131955,
-      "num": 131955,
-      "word": "遭举报出轨人妻的肖峰被双开",
-      "onboard_time": 1737686898,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 133191,
+      "num": 133191,
+      "word": "2025漫画都能自己选结局了",
+      "onboard_time": 1737687739,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 131527,
@@ -657,6 +729,14 @@
       "onboard_time": 1737676817,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 127181,
+      "num": 127181,
+      "word": "三球无缘全明星首发",
+      "onboard_time": 1737688218,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 125243,
@@ -683,20 +763,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 122581,
-      "num": 122581,
-      "word": "谷爱凌等奥运冠军出征亚冬会",
-      "onboard_time": 1737685757,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 120899,
       "num": 120899,
       "word": "文章马伊琍大女儿为妹妹庆生",
       "onboard_time": 1737635898,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120503,
+      "num": 120503,
+      "word": "睡前最好别碰这4样东西",
+      "onboard_time": 1737688999,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 117188,
@@ -715,14 +795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 113377,
-      "num": 113377,
-      "word": "花8000元送去宠物学校的狗挨了打",
-      "onboard_time": 1737687437,
-      "rank": 47,
-      "category": "网红"
-    },
-    {
       "raw_hot": 112798,
       "num": 112798,
       "word": "封神第二部上线开年封神表情",
@@ -737,14 +809,6 @@
       "onboard_time": 1737643940,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 111646,
-      "num": 111646,
-      "word": "110秒重走一遍李子柒非遗来时路",
-      "onboard_time": 1737687437,
-      "rank": 49,
-      "category": "美食,网红"
     },
     {
       "raw_hot": 110924,
@@ -1153,6 +1217,14 @@
       "onboard_time": 1737656233,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 17851,
+      "num": 196855,
+      "word": "德约科维奇vs兹维列夫",
+      "onboard_time": 1737688999,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 17185,
