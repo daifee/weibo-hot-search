@@ -1,6 +1,6 @@
 {
   "startTime": 1737649694584,
-  "endTime": 1737717542963,
+  "endTime": 1737718555809,
   "band_list": [
     {
       "raw_hot": 3219780,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 733399,
-      "num": 316947,
+      "num": 710227,
       "word": "柯洁父亲发声",
       "onboard_time": 1737714319,
       "rank": 30,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 691142,
-      "num": 432257,
+      "num": 515615,
       "word": "韩围棋协会将修改围棋规定",
       "onboard_time": 1737711499,
       "rank": 12,
@@ -363,12 +363,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 551637,
+      "num": 551637,
+      "word": "刘亦菲抱玲娜贝儿",
+      "onboard_time": 1737716178,
+      "rank": 3,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 551425,
       "num": 346768,
       "word": "柯洁因判罚损失2亿韩元奖金",
       "onboard_time": 1737633078,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 547056,
+      "num": 745987,
+      "word": "文淇回应出演网剧是资源降级",
+      "onboard_time": 1737713898,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 543211,
@@ -395,14 +411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 529395,
-      "num": 529395,
-      "word": "文淇回应出演网剧是资源降级",
-      "onboard_time": 1737713898,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 515091,
       "num": 422267,
       "word": "电影射雕英雄传公布特辑镜头",
@@ -425,6 +433,14 @@
       "onboard_time": 1737693377,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 504032,
+      "num": 316489,
+      "word": "国家药监局药审中心致歉",
+      "onboard_time": 1737714379,
+      "rank": 7,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 502515,
@@ -483,14 +499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 459260,
-      "num": 316489,
-      "word": "国家药监局药审中心致歉",
-      "onboard_time": 1737714379,
-      "rank": 7,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 453392,
       "num": 343155,
       "word": "韩国网友称夺冠很尴尬",
@@ -529,14 +537,6 @@
       "onboard_time": 1737677719,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 437368,
-      "num": 437368,
-      "word": "刘亦菲抱玲娜贝儿",
-      "onboard_time": 1737716178,
-      "rank": 3,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 429685,
@@ -683,6 +683,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 340585,
+      "num": 1092109,
+      "word": "蛇是怎么成为十二生肖的",
+      "onboard_time": 1737710360,
+      "rank": 45,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 336857,
       "num": 336857,
       "word": "杨子回应钻戒没送出去怎么办",
@@ -697,14 +705,6 @@
       "onboard_time": 1737708018,
       "rank": 48,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 317000,
-      "num": 335252,
-      "word": "蛇是怎么成为十二生肖的",
-      "onboard_time": 1737710360,
-      "rank": 45,
-      "category": "正能量"
     },
     {
       "raw_hot": 311055,
@@ -748,11 +748,19 @@
     },
     {
       "raw_hot": 298127,
-      "num": 404643,
+      "num": 867479,
       "word": "仿制药一致性评价出现数据雷同",
       "onboard_time": 1737708619,
       "rank": 8,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 295159,
+      "num": 295159,
+      "word": "杨幂也看了再见爱人",
+      "onboard_time": 1737713418,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 292369,
@@ -777,14 +785,6 @@
       "onboard_time": 1737698060,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 280265,
-      "num": 280265,
-      "word": "杨幂也看了再见爱人",
-      "onboard_time": 1737713418,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 279829,
@@ -1299,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178320,
+      "num": 178320,
+      "word": "建议把胡冰卿焊在蒲草系赛道",
+      "onboard_time": 1737716119,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178249,
       "num": 178249,
       "word": "王影璐回应初演冯宝宝差评",
@@ -1329,6 +1337,14 @@
       "onboard_time": 1737703999,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174850,
+      "num": 174850,
+      "word": "竹林四侠今晚见",
+      "onboard_time": 1737715699,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 174583,
@@ -1507,14 +1523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 162351,
-      "num": 162351,
-      "word": "竹林四侠今晚见",
-      "onboard_time": 1737715699,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 160871,
       "num": 160871,
       "word": "希望你们的生活像糖果一样甜甜美美",
@@ -1603,14 +1611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 152373,
-      "num": 152373,
-      "word": "建议把胡冰卿焊在蒲草系赛道",
-      "onboard_time": 1737716119,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 152045,
       "num": 152045,
       "word": "洛阳迎来漫天大雪",
@@ -1657,6 +1657,14 @@
       "onboard_time": 1737699318,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147389,
+      "num": 161121,
+      "word": "于适现场反PUA",
+      "onboard_time": 1737717617,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 147320,
@@ -1843,6 +1851,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 132834,
+      "num": 132834,
+      "word": "卞相壹颁奖典礼手捧冠军奖杯",
+      "onboard_time": 1737717199,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132491,
       "num": 132491,
       "word": "大哥说最凶的话做最暖的事",
@@ -1963,6 +1979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125435,
+      "num": 164635,
+      "word": "宋威龙直播",
+      "onboard_time": 1737718398,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125243,
       "num": 125243,
       "word": "陈都灵斗篷造型",
@@ -2041,6 +2065,14 @@
       "onboard_time": 1737692238,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 119292,
+      "num": 119292,
+      "word": "清融告别子阳",
+      "onboard_time": 1737718039,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 119242,
@@ -2283,6 +2315,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 95232,
+      "num": 282699,
+      "word": "女子把工地破烂编成篮子当新年礼物",
+      "onboard_time": 1737716778,
+      "rank": 17,
+      "category": "正能量,民生新闻"
+    },
+    {
       "raw_hot": 93903,
       "num": 332464,
       "word": "2025网络视听盛典最期待的节目",
@@ -2305,14 +2345,6 @@
       "onboard_time": 1737713958,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 91552,
-      "num": 91552,
-      "word": "卞相壹颁奖典礼手捧冠军奖杯",
-      "onboard_time": 1737717199,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 91379,
@@ -2339,12 +2371,28 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 87288,
+      "num": 87288,
+      "word": "相思令这下真兄弟如衣服了",
+      "onboard_time": 1737718519,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86636,
       "num": 170373,
       "word": "白鹿小卡是小狗合照",
       "onboard_time": 1737696019,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86488,
+      "num": 86488,
+      "word": "刘冲晒VOGUE年会视频",
+      "onboard_time": 1737718519,
+      "rank": 48,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 84057,
@@ -2515,6 +2563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 61981,
+      "num": 164420,
+      "word": "国家药监局回应个别品种数据重复",
+      "onboard_time": 1737712098,
+      "rank": 26,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 61730,
       "num": 197490,
       "word": "九冠王已被注册为商标",
@@ -2601,6 +2657,14 @@
       "onboard_time": 1737631038,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51970,
+      "num": 314542,
+      "word": "春运回家手册",
+      "onboard_time": 1737716719,
+      "rank": 9,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 51555,
@@ -2771,14 +2835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 37029,
-      "num": 314542,
-      "word": "春运回家手册",
-      "onboard_time": 1737716719,
-      "rank": 9,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 36837,
       "num": 189263,
       "word": "德约暗示可能在2025年退役",
@@ -2843,6 +2899,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 31371,
+      "num": 162771,
+      "word": "10后正从兴趣班走向非遗班",
+      "onboard_time": 1737717078,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29949,
       "num": 74945,
       "word": "朱广权东北话1秒切换粤语",
@@ -2857,14 +2921,6 @@
       "onboard_time": 1737693439,
       "rank": 48,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 27707,
-      "num": 282699,
-      "word": "女子把工地破烂编成篮子当新年礼物",
-      "onboard_time": 1737716778,
-      "rank": 17,
-      "category": "正能量,民生新闻"
     },
     {
       "raw_hot": 27002,
@@ -2971,12 +3027,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 19224,
-      "num": 153533,
-      "word": "10后正从兴趣班走向非遗班",
-      "onboard_time": 1737717078,
+      "raw_hot": 17855,
+      "num": 162148,
+      "word": "陈瑜VOGUE年会初体验",
+      "onboard_time": 1737718398,
       "rank": 29,
-      "category": "民生新闻"
+      "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 17749,
+      "num": 165436,
+      "word": "哈尔滨亚冬会中国体育代表团名单来啦",
+      "onboard_time": 1737717378,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 17185,
@@ -3003,6 +3067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15354,
+      "num": 298894,
+      "word": "游戏玩家拜年好抽象",
+      "onboard_time": 1737716537,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 15316,
       "num": 22247,
       "word": "射雕已切换年味模式",
@@ -3017,14 +3089,6 @@
       "onboard_time": 1737660372,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14268,
-      "num": 298894,
-      "word": "游戏玩家拜年好抽象",
-      "onboard_time": 1737716537,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 13924,
@@ -3081,14 +3145,6 @@
       "onboard_time": 1737635118,
       "rank": 2,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 10040,
-      "num": 152504,
-      "word": "哈尔滨亚冬会中国体育代表团名单来啦",
-      "onboard_time": 1737717378,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 9064,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1737718555809,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 581285,
+        "num": 1093005,
+        "word": "一年烫一次的头长啥样",
+        "onboard_time": 1737700997,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 340585,
+        "num": 1092109,
+        "word": "蛇是怎么成为十二生肖的",
+        "onboard_time": 1737710360,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 69168,
+        "num": 994605,
+        "word": "2025网络视听盛典",
+        "onboard_time": 1737686898,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136173,
+        "num": 867479,
+        "word": "仿制药一致性评价出现数据雷同",
+        "onboard_time": 1737708619,
+        "rank": 3,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 547056,
+        "num": 745987,
+        "word": "文淇回应出演网剧是资源降级",
+        "onboard_time": 1737713898,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 710227,
+        "num": 710227,
+        "word": "柯洁父亲发声",
+        "onboard_time": 1737714319,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 551637,
+        "num": 551637,
+        "word": "刘亦菲抱玲娜贝儿",
+        "onboard_time": 1737716178,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 515615,
+        "num": 515615,
+        "word": "韩围棋协会将修改围棋规定",
+        "onboard_time": 1737711499,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295159,
+        "num": 295159,
+        "word": "杨幂也看了再见爱人",
+        "onboard_time": 1737713418,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265196,
+        "num": 265196,
+        "word": "电影射雕英雄传公布特辑镜头",
+        "onboard_time": 1737705199,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 627962,
+        "num": 265174,
+        "word": "一条小团团自称刑满释放",
+        "onboard_time": 1737705260,
+        "rank": 10,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 355517,
+        "num": 264751,
+        "word": "刘亦菲檀健次龚俊金靖一起唱K",
+        "onboard_time": 1737710839,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 261710,
+        "num": 261710,
+        "word": "肖战版郭靖邀你晒一晒绝活",
+        "onboard_time": 1737706519,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 317156,
+        "num": 256932,
+        "word": "韩国棋院称会把奖金汇入柯洁账户",
+        "onboard_time": 1737705199,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15354,
+        "num": 251938,
+        "word": "游戏玩家拜年好抽象",
+        "onboard_time": 1737716537,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 249768,
+        "num": 249768,
+        "word": "网易云或下架SM旗下全部歌曲",
+        "onboard_time": 1737703217,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201036,
+        "num": 201036,
+        "word": "韩国网友称夺冠很尴尬",
+        "onboard_time": 1737699618,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 504032,
+        "num": 195803,
+        "word": "国家药监局药审中心致歉",
+        "onboard_time": 1737714379,
+        "rank": 17,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 424804,
+        "num": 195733,
+        "word": "杨幂自驾新疆找迪丽热巴当翻译",
+        "onboard_time": 1737697459,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180805,
+        "num": 180805,
+        "word": "虞书欣cos女帝云鸾",
+        "onboard_time": 1737702017,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204226,
+        "num": 180024,
+        "word": "请尽量不要在上半夜熬夜",
+        "onboard_time": 1737706760,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 178320,
+        "num": 178320,
+        "word": "建议把胡冰卿焊在蒲草系赛道",
+        "onboard_time": 1737716119,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174850,
+        "num": 174850,
+        "word": "竹林四侠今晚见",
+        "onboard_time": 1737715699,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165858,
+        "num": 165858,
+        "word": "酒店回应给醉汉万能卡刷开夫妻房门",
+        "onboard_time": 1737709098,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17749,
+        "num": 165436,
+        "word": "哈尔滨亚冬会中国体育代表团名单来啦",
+        "onboard_time": 1737717378,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125435,
+        "num": 164635,
+        "word": "宋威龙直播",
+        "onboard_time": 1737718398,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61981,
+        "num": 164420,
+        "word": "国家药监局回应个别品种数据重复",
+        "onboard_time": 1737712098,
+        "rank": 26,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 51970,
+        "num": 163846,
+        "word": "春运回家手册",
+        "onboard_time": 1737716719,
+        "rank": 27,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 31371,
+        "num": 162771,
+        "word": "10后正从兴趣班走向非遗班",
+        "onboard_time": 1737717078,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17855,
+        "num": 162148,
+        "word": "陈瑜VOGUE年会初体验",
+        "onboard_time": 1737718398,
+        "rank": 29,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 800401,
+        "num": 161673,
+        "word": "戚薇李承铉二胎儿子正脸照",
+        "onboard_time": 1737703698,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147389,
+        "num": 161121,
+        "word": "于适现场反PUA",
+        "onboard_time": 1737717617,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95232,
+        "num": 160098,
+        "word": "女子把工地破烂编成篮子当新年礼物",
+        "onboard_time": 1737716778,
+        "rank": 32,
+        "category": "正能量,民生新闻"
+      },
+      {
+        "raw_hot": 159914,
+        "num": 159914,
+        "word": "李昀锐人生第一个男主",
+        "onboard_time": 1737709699,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155156,
+        "num": 155156,
+        "word": "女儿要报12天4万的瑜伽课老人报警",
+        "onboard_time": 1737703759,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132834,
+        "num": 132834,
+        "word": "卞相壹颁奖典礼手捧冠军奖杯",
+        "onboard_time": 1737717199,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130374,
+        "num": 130374,
+        "word": "什么是春节焦虑症",
+        "onboard_time": 1737709639,
+        "rank": 36,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 130271,
+        "num": 130271,
+        "word": "卞相壹说理解柯洁立场",
+        "onboard_time": 1737713237,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141456,
+        "num": 130024,
+        "word": "李昀锐新剧出场镜头",
+        "onboard_time": 1737717018,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129646,
+        "num": 129646,
+        "word": "特斯拉召回120万辆车",
+        "onboard_time": 1737716719,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 123273,
+        "num": 123273,
+        "word": "eStar官宣子阳离队",
+        "onboard_time": 1737716838,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120553,
+        "num": 120553,
+        "word": "李现搂着杨紫家属感拉满",
+        "onboard_time": 1737706339,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119292,
+        "num": 119292,
+        "word": "清融告别子阳",
+        "onboard_time": 1737718039,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114097,
+        "num": 114097,
+        "word": "回避依恋性人格",
+        "onboard_time": 1737709520,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107736,
+        "num": 107736,
+        "word": "滔搏人员变动公告",
+        "onboard_time": 1737717138,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 90310,
+        "num": 90310,
+        "word": "雷军位列全球最佳CEO第八",
+        "onboard_time": 1737709639,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 87288,
+        "num": 87288,
+        "word": "相思令这下真兄弟如衣服了",
+        "onboard_time": 1737718519,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86801,
+        "num": 86801,
+        "word": "米饭仙人的胃也是过上年了",
+        "onboard_time": 1737703759,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 86488,
+        "num": 86488,
+        "word": "刘冲晒VOGUE年会视频",
+        "onboard_time": 1737718519,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 85990,
+        "num": 85990,
+        "word": "难怪老外会被中国惊讶到",
+        "onboard_time": 1737713118,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#过年团圆更要让大家吃得好#"
+    }
+  }
+}
