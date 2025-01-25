@@ -1,13 +1,21 @@
 {
   "startTime": 1737736047740,
-  "endTime": 1737800448716,
+  "endTime": 1737801430657,
   "band_list": [
     {
       "raw_hot": 3761403,
-      "num": 246240,
+      "num": 288738,
       "word": "张大大被指暴力殴打工作人员",
       "onboard_time": 1737798499,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3339900,
+      "num": 1851483,
+      "word": "赵露思直播",
+      "onboard_time": 1737800420,
+      "rank": 0,
       "category": "艺人"
     },
     {
@@ -33,14 +41,6 @@
       "onboard_time": 1737734719,
       "rank": 11,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1851483,
-      "num": 1851483,
-      "word": "赵露思直播",
-      "onboard_time": 1737800420,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1846407,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1035082,
-      "num": 236637,
+      "num": 283442,
       "word": "刘亦菲带火了奥特曼发夹",
       "onboard_time": 1737797777,
       "rank": 13,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 911416,
+      "num": 274317,
+      "word": "谷爱凌摔倒已不能走路",
+      "onboard_time": 1737800899,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 868668,
       "num": 666037,
       "word": "迪丽热巴携三部大剧来拜年",
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 858481,
-      "num": 229150,
+      "num": 268428,
       "word": "小谢晒与赵露思合照",
       "onboard_time": 1737798198,
       "rank": 15,
@@ -323,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 546926,
+      "num": 1087508,
+      "word": "做了美甲后弟弟逐渐烦我了",
+      "onboard_time": 1737798259,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 533888,
       "num": 329978,
       "word": "特朗普政府宣布墨西哥湾更名美国湾",
@@ -371,14 +387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 499822,
-      "num": 226569,
-      "word": "做了美甲后弟弟逐渐烦我了",
-      "onboard_time": 1737798259,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 490733,
       "num": 286357,
       "word": "最强大脑窒息198分钟",
@@ -411,6 +419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 428215,
+      "num": 318160,
+      "word": "刘学义",
+      "onboard_time": 1737798021,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 426737,
       "num": 361384,
       "word": "白敬亭章若楠难哄网飞上线",
@@ -440,6 +456,14 @@
       "word": "多地禁改限明确春节可燃放烟花爆竹",
       "onboard_time": 1737739695,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 403383,
+      "num": 403383,
+      "word": "南京南站4天捡到1000个身份证",
+      "onboard_time": 1737797777,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -619,12 +643,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 283879,
-      "num": 225752,
-      "word": "刘学义",
-      "onboard_time": 1737798021,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 293416,
+      "num": 293416,
+      "word": "王源一人分饰两角",
+      "onboard_time": 1737797838,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 292606,
+      "num": 292606,
+      "word": "杨紫沈梦辰一不小心成了6年的好朋友",
+      "onboard_time": 1737798437,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 278335,
@@ -673,14 +705,6 @@
       "onboard_time": 1737736277,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 265237,
-      "num": 265237,
-      "word": "南京南站4天捡到1000个身份证",
-      "onboard_time": 1737797777,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 263591,
@@ -747,14 +771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 246092,
-      "num": 246092,
-      "word": "杨紫沈梦辰一不小心成了6年的好朋友",
-      "onboard_time": 1737798437,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 243465,
       "num": 243465,
       "word": "用人民币感受韩国工资水平",
@@ -803,14 +819,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 226927,
-      "num": 226927,
-      "word": "王源一人分饰两角",
-      "onboard_time": 1737797838,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 224706,
       "num": 224706,
       "word": "韩安冉妈妈澄清",
@@ -849,6 +857,14 @@
       "onboard_time": 1737789857,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219465,
+      "num": 219465,
+      "word": "小鹿面试再见爱人失败",
+      "onboard_time": 1737800899,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 217592,
@@ -1017,6 +1033,22 @@
       "onboard_time": 1737783618,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 191362,
+      "num": 204810,
+      "word": "权志龙巴黎街头吸烟",
+      "onboard_time": 1737800298,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 189553,
+      "num": 189553,
+      "word": "杨紫回应国色芳华第二部故事背景",
+      "onboard_time": 1737800238,
+      "rank": 44,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 185789,
@@ -1323,8 +1355,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 150081,
+      "num": 150081,
+      "word": "射雕英雄传预售票房进中国影史前十",
+      "onboard_time": 1737794838,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 149088,
-      "num": 149088,
+      "num": 166402,
       "word": "张翰回老家过年",
       "onboard_time": 1737796219,
       "rank": 35,
@@ -1427,12 +1467,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140670,
+      "num": 140670,
+      "word": "河南暴雪被困12小时车主发声",
+      "onboard_time": 1737801079,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140629,
       "num": 140629,
       "word": "黄杨钿甜两部女主剧同屏",
       "onboard_time": 1737792200,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140304,
+      "num": 140304,
+      "word": "萨巴伦卡状态",
+      "onboard_time": 1737799879,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 140019,
+      "num": 140019,
+      "word": "萨巴伦卡第二盘两度破发领先",
+      "onboard_time": 1737800778,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 139819,
@@ -1443,12 +1507,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 139794,
-      "num": 139794,
-      "word": "射雕英雄传预售票房进中国影史前十",
-      "onboard_time": 1737794838,
-      "rank": 38,
-      "category": "电影"
+      "raw_hot": 139417,
+      "num": 139417,
+      "word": "当事人回应小姨在团年宴上表白姨夫",
+      "onboard_time": 1737799879,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138234,
@@ -1507,14 +1571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 134790,
-      "num": 134790,
-      "word": "萨巴伦卡状态",
-      "onboard_time": 1737799879,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 133325,
       "num": 133325,
       "word": "eStar星宇正式连接",
@@ -1563,14 +1619,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 129047,
-      "num": 129047,
-      "word": "杨紫回应国色芳华第二部故事背景",
-      "onboard_time": 1737800238,
-      "rank": 44,
-      "category": "剧集,艺人"
-    },
-    {
       "raw_hot": 129044,
       "num": 129044,
       "word": "外国网友拆箱中国寄来的礼物",
@@ -1585,14 +1633,6 @@
       "onboard_time": 1737766697,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128177,
-      "num": 128177,
-      "word": "权志龙巴黎街头吸烟",
-      "onboard_time": 1737800298,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 127702,
@@ -1680,14 +1720,6 @@
       "word": "春节哪些美好瞬间让你念念不忘",
       "onboard_time": 1737787518,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 121544,
-      "num": 121544,
-      "word": "当事人回应小姨在团年宴上表白姨夫",
-      "onboard_time": 1737799879,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -1817,6 +1849,14 @@
       "onboard_time": 1737714319,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112138,
+      "num": 112138,
+      "word": "73岁张纪中哄四胎女儿睡觉",
+      "onboard_time": 1737801319,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 112033,
@@ -2155,6 +2195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 91189,
+      "num": 123211,
+      "word": "肖战很有打过工的感觉",
+      "onboard_time": 1737798499,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88872,
       "num": 88872,
       "word": "五福临门云包场",
@@ -2299,6 +2347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 58704,
+      "num": 151142,
+      "word": "澳网",
+      "onboard_time": 1737798198,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58048,
       "num": 100217,
       "word": "当非遗春节遇上非遗项目",
@@ -2371,11 +2427,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 49007,
+      "num": 473269,
+      "word": "春节年俗仪式感拉满",
+      "onboard_time": 1737783197,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45959,
       "num": 45959,
       "word": "孙颖莎学唱lovestory",
       "onboard_time": 1737760454,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 45264,
+      "num": 137433,
+      "word": "萨巴伦卡6比2凯斯扳回一盘",
+      "onboard_time": 1737800480,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -2411,14 +2483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 37793,
-      "num": 473269,
-      "word": "春节年俗仪式感拉满",
-      "onboard_time": 1737783197,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 37536,
       "num": 37536,
       "word": "鸡柳哥怎么不跳",
@@ -2441,6 +2505,14 @@
       "onboard_time": 1737775456,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 35455,
+      "num": 261411,
+      "word": "蛟龙行动成春节档第一部超点影片",
+      "onboard_time": 1737799640,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 34966,
@@ -2603,6 +2675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 15795,
+      "num": 225349,
+      "word": "徐克说降龙十八掌每掌都有具体展示",
+      "onboard_time": 1737800119,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 15274,
       "num": 18152,
       "word": "听张杰树呢想家了",
@@ -2659,28 +2739,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 13115,
-      "num": 230960,
-      "word": "蛟龙行动成春节档第一部超点影片",
-      "onboard_time": 1737799640,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 12262,
       "num": 67537,
       "word": "年味浓度已爆表",
       "onboard_time": 1737742094,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8972,
-      "num": 225349,
-      "word": "徐克说降龙十八掌每掌都有具体展示",
-      "onboard_time": 1737800119,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 7287,
@@ -2705,6 +2769,9 @@
     },
     {
       "word": "#暖心祝福激扬奋进力量#"
+    },
+    {
+      "word": "#新春时光总书记最深的牵挂#"
     }
   ]
 }

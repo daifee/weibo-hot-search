@@ -1,0 +1,410 @@
+{
+  "runTime": 1737801430657,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 546926,
+        "num": 1087508,
+        "word": "做了美甲后弟弟逐渐烦我了",
+        "onboard_time": 1737798259,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 403383,
+        "num": 403383,
+        "word": "南京南站4天捡到1000个身份证",
+        "onboard_time": 1737797777,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49007,
+        "num": 386334,
+        "word": "春节年俗仪式感拉满",
+        "onboard_time": 1737783197,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374301,
+        "num": 374301,
+        "word": "乐山地震",
+        "onboard_time": 1737794238,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 372265,
+        "num": 372265,
+        "word": "郑州出现大暴雪",
+        "onboard_time": 1737791477,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3339900,
+        "num": 369252,
+        "word": "赵露思直播",
+        "onboard_time": 1737800420,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330510,
+        "num": 330510,
+        "word": "女子上门喂猫110元一次一天20家",
+        "onboard_time": 1737785417,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428215,
+        "num": 318160,
+        "word": "刘学义",
+        "onboard_time": 1737798021,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293416,
+        "num": 293416,
+        "word": "王源一人分饰两角",
+        "onboard_time": 1737797838,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292606,
+        "num": 292606,
+        "word": "杨紫沈梦辰一不小心成了6年的好朋友",
+        "onboard_time": 1737798437,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3494008,
+        "num": 288738,
+        "word": "张大大被指暴力殴打工作人员",
+        "onboard_time": 1737798499,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 942845,
+        "num": 283442,
+        "word": "刘亦菲带火了奥特曼发夹",
+        "onboard_time": 1737797777,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 911416,
+        "num": 274317,
+        "word": "谷爱凌摔倒已不能走路",
+        "onboard_time": 1737800899,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 803690,
+        "num": 268428,
+        "word": "小谢晒与赵露思合照",
+        "onboard_time": 1737798198,
+        "rank": 13,
+        "category": "艺人,网红"
+      },
+      {
+        "raw_hot": 35455,
+        "num": 261411,
+        "word": "蛟龙行动成春节档第一部超点影片",
+        "onboard_time": 1737799640,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 802975,
+        "num": 257279,
+        "word": "黄毛毛 张大大",
+        "onboard_time": 1737795798,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370398,
+        "num": 254229,
+        "word": "烟瘾很大的95生",
+        "onboard_time": 1737792319,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248239,
+        "num": 248239,
+        "word": "高铁上为何没有E座",
+        "onboard_time": 1737783677,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224294,
+        "num": 224294,
+        "word": "RNG对战iG",
+        "onboard_time": 1737797477,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 15795,
+        "num": 222955,
+        "word": "徐克说降龙十八掌每掌都有具体展示",
+        "onboard_time": 1737800119,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 916059,
+        "num": 222916,
+        "word": "节目组 麦琳身世",
+        "onboard_time": 1737789918,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 480110,
+        "num": 222912,
+        "word": "刘晓庆珠宝被安保公司的保安偷了",
+        "onboard_time": 1737795798,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222812,
+        "num": 222812,
+        "word": "四川乐山4.1级地震",
+        "onboard_time": 1737794538,
+        "rank": 22,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 219465,
+        "num": 219465,
+        "word": "小鹿面试再见爱人失败",
+        "onboard_time": 1737800899,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216380,
+        "num": 216380,
+        "word": "向佐回应杨幂模仿自己",
+        "onboard_time": 1737792619,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191362,
+        "num": 204810,
+        "word": "权志龙巴黎街头吸烟",
+        "onboard_time": 1737800298,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202859,
+        "num": 202859,
+        "word": "老员工收了1000元春节红包遭辞退",
+        "onboard_time": 1737792857,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201513,
+        "num": 201513,
+        "word": "韩安冉妈妈澄清",
+        "onboard_time": 1737798499,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 189553,
+        "num": 189553,
+        "word": "杨紫回应国色芳华第二部故事背景",
+        "onboard_time": 1737800238,
+        "rank": 28,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 173726,
+        "num": 173726,
+        "word": "王宝强为了腹肌半年没喝酒",
+        "onboard_time": 1737795258,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113282,
+        "num": 166402,
+        "word": "张翰回老家过年",
+        "onboard_time": 1737796219,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165658,
+        "num": 165658,
+        "word": "曝长相清纯95小花拜高踩低",
+        "onboard_time": 1737789437,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159538,
+        "num": 159538,
+        "word": "吴艳妮说穿衣化妆为取悦自己",
+        "onboard_time": 1737797777,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58704,
+        "num": 151142,
+        "word": "澳网",
+        "onboard_time": 1737798198,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150081,
+        "num": 150081,
+        "word": "射雕英雄传预售票房进中国影史前十",
+        "onboard_time": 1737794838,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142953,
+        "num": 142953,
+        "word": "韩国当事裁判谈柯洁退赛",
+        "onboard_time": 1737799400,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140670,
+        "num": 140670,
+        "word": "河南暴雪被困12小时车主发声",
+        "onboard_time": 1737801079,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140445,
+        "num": 140445,
+        "word": "女儿好像以为我对她的生活很感兴趣",
+        "onboard_time": 1737799337,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140304,
+        "num": 140304,
+        "word": "萨巴伦卡状态",
+        "onboard_time": 1737799879,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140019,
+        "num": 140019,
+        "word": "萨巴伦卡第二盘两度破发领先",
+        "onboard_time": 1737800778,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139417,
+        "num": 139417,
+        "word": "当事人回应小姨在团年宴上表白姨夫",
+        "onboard_time": 1737799879,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45264,
+        "num": 137433,
+        "word": "萨巴伦卡6比2凯斯扳回一盘",
+        "onboard_time": 1737800480,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137122,
+        "num": 137122,
+        "word": "纪凌尘与女友现身机场",
+        "onboard_time": 1737787877,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132606,
+        "num": 132606,
+        "word": "Doinb道歉",
+        "onboard_time": 1737790458,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91189,
+        "num": 123211,
+        "word": "肖战很有打过工的感觉",
+        "onboard_time": 1737798499,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114515,
+        "num": 114515,
+        "word": "货车女司机说怀孕8个月还在跑车",
+        "onboard_time": 1737795258,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112138,
+        "num": 112138,
+        "word": "73岁张纪中哄四胎女儿睡觉",
+        "onboard_time": 1737801319,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105247,
+        "num": 105247,
+        "word": "熊大熊二不语只是一味赶高铁",
+        "onboard_time": 1737799999,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104295,
+        "num": 104295,
+        "word": "林高远巴黎时装周云走秀",
+        "onboard_time": 1737798919,
+        "rank": 48,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 103677,
+        "num": 103677,
+        "word": "高铁座位ABCDF是啥意思",
+        "onboard_time": 1737785838,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#新春时光总书记最深的牵挂#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737800448716,
+  "endTime": 1737801430657,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 3761403,
-      "num": 246240,
+      "num": 288738,
       "word": "张大大被指暴力殴打工作人员",
       "onboard_time": 1737798499,
       "rank": 10,
@@ -448,6 +448,14 @@
       "word": "鬼鬼 我没有结婚",
       "onboard_time": 1736484203,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3339900,
+      "num": 1851483,
+      "word": "赵露思直播",
+      "onboard_time": 1737800420,
+      "rank": 0,
       "category": "艺人"
     },
     {
@@ -1673,14 +1681,6 @@
       "onboard_time": 1736305463,
       "rank": 1,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1851483,
-      "num": 1851483,
-      "word": "赵露思直播",
-      "onboard_time": 1737800420,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1850628,
