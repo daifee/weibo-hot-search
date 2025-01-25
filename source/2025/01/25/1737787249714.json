@@ -1,0 +1,410 @@
+{
+  "runTime": 1737787249714,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1000727,
+        "num": 1160116,
+        "word": "李小冉哭着对刘晓庆说我对不起你",
+        "onboard_time": 1737781337,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 924793,
+        "num": 924793,
+        "word": "高铁上为何没有E座",
+        "onboard_time": 1737783677,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24731,
+        "num": 851774,
+        "word": "9组数据速览中国向新发力",
+        "onboard_time": 1737775456,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 785181,
+        "num": 785181,
+        "word": "女子上门喂猫110元一次一天20家",
+        "onboard_time": 1737785417,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 751179,
+        "num": 751179,
+        "word": "何老师都接不住的烂梗出现了",
+        "onboard_time": 1737771677,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 692486,
+        "num": 692486,
+        "word": "小伙长期侧卧玩手机两眼近视差500度",
+        "onboard_time": 1737783857,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 669939,
+        "num": 669939,
+        "word": "李小冉躲在厕所自责爆哭",
+        "onboard_time": 1737783737,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 480029,
+        "num": 480029,
+        "word": "Jennie新歌ZEN",
+        "onboard_time": 1737783857,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 344398,
+        "num": 344398,
+        "word": "官方通报梅大高速塌方问责",
+        "onboard_time": 1737781098,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287742,
+        "num": 287742,
+        "word": "谷爱凌说身体已达极限",
+        "onboard_time": 1737776537,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 413861,
+        "num": 287330,
+        "word": "第一批上四休三的员工开始主动加班",
+        "onboard_time": 1737777977,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370920,
+        "num": 287091,
+        "word": "茯苓恶女妆",
+        "onboard_time": 1737785658,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 354342,
+        "num": 286295,
+        "word": "濒危尸体花盛开数千人排队参观",
+        "onboard_time": 1737771317,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 350898,
+        "num": 285829,
+        "word": "倪虹洁自曝曾因身材姣好感到羞耻",
+        "onboard_time": 1737785597,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15201,
+        "num": 285199,
+        "word": "专访苏享茂家属代理律师",
+        "onboard_time": 1737786138,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349930,
+        "num": 284562,
+        "word": "赵露思请吃饭",
+        "onboard_time": 1737786677,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334806,
+        "num": 283871,
+        "word": "霸王茶姬发文致歉",
+        "onboard_time": 1737734719,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 283753,
+        "num": 283753,
+        "word": "白月梵星爱奇艺近两年古偶冠军",
+        "onboard_time": 1737780857,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243408,
+        "num": 243408,
+        "word": "美国一大学被爆切分出售退伍老兵遗体",
+        "onboard_time": 1737776357,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 182478,
+        "num": 240220,
+        "word": "珠穆朗玛峰入山费上调为1万5美元",
+        "onboard_time": 1737786257,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 269866,
+        "num": 239808,
+        "word": "制片人眼中的黑榜艺人",
+        "onboard_time": 1737786257,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239357,
+        "num": 239357,
+        "word": "王鹤棣曾因肩周炎去看医生",
+        "onboard_time": 1737786138,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260484,
+        "num": 238299,
+        "word": "四川开始流行鸡爪灌肠了",
+        "onboard_time": 1737785838,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 68710,
+        "num": 230708,
+        "word": "上四休三后工资只剩八成",
+        "onboard_time": 1737786559,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252441,
+        "num": 227517,
+        "word": "虞书欣丁禹兮夫妻味",
+        "onboard_time": 1737778578,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224281,
+        "num": 224281,
+        "word": "我家那小子",
+        "onboard_time": 1737781457,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218878,
+        "num": 218878,
+        "word": "女孩偷拿妈妈百万珠宝卖了60元",
+        "onboard_time": 1737765136,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194346,
+        "num": 194346,
+        "word": "迪丽热巴携三部大剧来拜年",
+        "onboard_time": 1737774736,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191579,
+        "num": 191579,
+        "word": "英国男子称泰国监狱的条件令人作呕",
+        "onboard_time": 1737783618,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 181325,
+        "num": 181325,
+        "word": "近800万人申请国补买手机数码",
+        "onboard_time": 1737768438,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 160691,
+        "num": 160691,
+        "word": "晓华给奶奶剪王嘉尔同款造型",
+        "onboard_time": 1737777438,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 160474,
+        "num": 160474,
+        "word": "刘晓庆迟到是因为要打官司",
+        "onboard_time": 1737786437,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158626,
+        "num": 158626,
+        "word": "女子眼中插进4.5厘米树枝浑然不知",
+        "onboard_time": 1737776477,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111276,
+        "num": 152750,
+        "word": "孟子义宣传王星越新剧",
+        "onboard_time": 1737786917,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151815,
+        "num": 151815,
+        "word": "3天后就是除夕了",
+        "onboard_time": 1737776657,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146403,
+        "num": 146403,
+        "word": "女子带2娃被大妈请求帮忙擦眼",
+        "onboard_time": 1737777138,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143052,
+        "num": 143052,
+        "word": "尚公主",
+        "onboard_time": 1737784098,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119512,
+        "num": 133971,
+        "word": "白鹿2024制片人好感度艺人TOP1",
+        "onboard_time": 1737786677,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100288,
+        "num": 133410,
+        "word": "曹恩齐 音乐一响王子登场",
+        "onboard_time": 1737786317,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133325,
+        "num": 133325,
+        "word": "eStar星宇正式连接",
+        "onboard_time": 1737787157,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132557,
+        "num": 132557,
+        "word": "迪丽热巴片场发杀青红包",
+        "onboard_time": 1737779957,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127350,
+        "num": 127350,
+        "word": "谷爱凌神经系统处于超负荷状态",
+        "onboard_time": 1737785838,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126723,
+        "num": 126723,
+        "word": "布朗尼炸裂隔扣",
+        "onboard_time": 1737786077,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119790,
+        "num": 119790,
+        "word": "15岁女孩到云南边境见男网友",
+        "onboard_time": 1737768677,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111777,
+        "num": 111777,
+        "word": "一路繁花这期哭成一团了",
+        "onboard_time": 1737786018,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111330,
+        "num": 111330,
+        "word": "网友偶遇食蚁兽洗了一下午尾巴",
+        "onboard_time": 1737779239,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111177,
+        "num": 111177,
+        "word": "制片人夸孟子义懂得感恩",
+        "onboard_time": 1737784937,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106492,
+        "num": 106492,
+        "word": "韩素希南柱赫同框",
+        "onboard_time": 1737780678,
+        "rank": 47,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 98048,
+        "num": 98048,
+        "word": "第一批拿年终奖的人已经准备好麻袋",
+        "onboard_time": 1737776778,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91471,
+        "num": 91471,
+        "word": "中央气象台连发4个预警",
+        "onboard_time": 1737767176,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全国各族人民致新春祝福#"
+    }
+  }
+}

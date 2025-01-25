@@ -1,6 +1,6 @@
 {
   "startTime": 1737736047740,
-  "endTime": 1737786483562,
+  "endTime": 1737787249714,
   "band_list": [
     {
       "raw_hot": 2134060,
@@ -51,6 +51,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 924793,
+      "num": 924793,
+      "word": "高铁上为何没有E座",
+      "onboard_time": 1737783677,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 868668,
       "num": 666037,
       "word": "迪丽热巴携三部大剧来拜年",
@@ -72,6 +80,14 @@
       "word": "15岁女孩到云南边境见男网友",
       "onboard_time": 1737768677,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 785181,
+      "num": 785181,
+      "word": "女子上门喂猫110元一次一天20家",
+      "onboard_time": 1737785417,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -99,12 +115,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 688371,
-      "num": 688371,
-      "word": "高铁上为何没有E座",
-      "onboard_time": 1737783677,
-      "rank": 1,
+      "raw_hot": 692486,
+      "num": 692486,
+      "word": "小伙长期侧卧玩手机两眼近视差500度",
+      "onboard_time": 1737783857,
+      "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 669939,
+      "num": 669939,
+      "word": "李小冉躲在厕所自责爆哭",
+      "onboard_time": 1737783737,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 669824,
@@ -113,14 +137,6 @@
       "onboard_time": 1737730039,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 653986,
-      "num": 376147,
-      "word": "李小冉躲在厕所自责爆哭",
-      "onboard_time": 1737783737,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 645225,
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 524589,
-      "num": 375023,
+      "num": 480029,
       "word": "Jennie新歌ZEN",
       "onboard_time": 1737783857,
       "rank": 7,
@@ -267,14 +283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 383268,
-      "num": 383268,
-      "word": "小伙长期侧卧玩手机两眼近视差500度",
-      "onboard_time": 1737783857,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 381685,
       "num": 181247,
       "word": "一条小团团自称刑满释放",
@@ -289,6 +297,14 @@
       "onboard_time": 1737767176,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 370920,
+      "num": 287091,
+      "word": "茯苓恶女妆",
+      "onboard_time": 1737785658,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 367685,
@@ -315,12 +331,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 348253,
-      "num": 362032,
-      "word": "女子上门喂猫110元一次一天20家",
-      "onboard_time": 1737785417,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 350898,
+      "num": 285829,
+      "word": "倪虹洁自曝曾因身材姣好感到羞耻",
+      "onboard_time": 1737785597,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 349930,
+      "num": 284562,
+      "word": "赵露思请吃饭",
+      "onboard_time": 1737786677,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 339536,
@@ -403,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269866,
+      "num": 239808,
+      "word": "制片人眼中的黑榜艺人",
+      "onboard_time": 1737786257,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269020,
       "num": 269020,
       "word": "G社王俊凯生图",
@@ -459,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260484,
+      "num": 238299,
+      "word": "四川开始流行鸡爪灌肠了",
+      "onboard_time": 1737785838,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 260397,
       "num": 128734,
       "word": "虞书欣腾讯视频海报C位",
@@ -473,14 +513,6 @@
       "onboard_time": 1737765257,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 255411,
-      "num": 255411,
-      "word": "倪虹洁自曝曾因身材姣好感到羞耻",
-      "onboard_time": 1737785597,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 248798,
@@ -507,6 +539,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 239357,
+      "num": 268346,
+      "word": "王鹤棣曾因肩周炎去看医生",
+      "onboard_time": 1737786138,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235637,
       "num": 173576,
       "word": "李莎旻子21岁到31岁荧幕变化",
@@ -529,14 +569,6 @@
       "onboard_time": 1737735019,
       "rank": 10,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 224304,
-      "num": 224304,
-      "word": "茯苓恶女妆",
-      "onboard_time": 1737785658,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 224078,
@@ -601,14 +633,6 @@
       "onboard_time": 1737769278,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204922,
-      "num": 204922,
-      "word": "四川开始流行鸡爪灌肠了",
-      "onboard_time": 1737785838,
-      "rank": 24,
-      "category": "美食"
     },
     {
       "raw_hot": 203829,
@@ -683,19 +707,19 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 191579,
+      "num": 191579,
+      "word": "英国男子称泰国监狱的条件令人作呕",
+      "onboard_time": 1737783618,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 185789,
       "num": 185789,
       "word": "出道6个月的2NE1",
       "onboard_time": 1737779417,
       "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 184865,
-      "num": 268346,
-      "word": "王鹤棣曾因肩周炎去看医生",
-      "onboard_time": 1737786138,
-      "rank": 18,
       "category": "艺人"
     },
     {
@@ -707,11 +731,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 184450,
-      "num": 184450,
-      "word": "英国男子称泰国监狱的条件令人作呕",
-      "onboard_time": 1737783618,
-      "rank": 28,
+      "raw_hot": 182478,
+      "num": 240220,
+      "word": "珠穆朗玛峰入山费上调为1万5美元",
+      "onboard_time": 1737786257,
+      "rank": 22,
       "category": "海外新闻"
     },
     {
@@ -1003,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133325,
+      "num": 133325,
+      "word": "eStar星宇正式连接",
+      "onboard_time": 1737787157,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 133278,
       "num": 133278,
       "word": "程潇送你蛇年新春祝福",
@@ -1057,6 +1089,22 @@
       "onboard_time": 1737766697,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127350,
+      "num": 127350,
+      "word": "谷爱凌神经系统处于超负荷状态",
+      "onboard_time": 1737785838,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 126723,
+      "num": 126723,
+      "word": "布朗尼炸裂隔扣",
+      "onboard_time": 1737786077,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 125663,
@@ -1123,20 +1171,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 121206,
-      "num": 121206,
-      "word": "布朗尼炸裂隔扣",
-      "onboard_time": 1737786077,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 119619,
       "num": 119619,
       "word": "射雕演员们提前看到了正片",
       "onboard_time": 1737784818,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 119512,
+      "num": 133971,
+      "word": "白鹿2024制片人好感度艺人TOP1",
+      "onboard_time": 1737786677,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 119149,
@@ -1153,14 +1201,6 @@
       "onboard_time": 1737714018,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117792,
-      "num": 117792,
-      "word": "谷爱凌神经系统处于超负荷状态",
-      "onboard_time": 1737785838,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 117788,
@@ -1203,14 +1243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115194,
-      "num": 115194,
-      "word": "制片人眼中的黑榜艺人",
-      "onboard_time": 1737786257,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 114893,
       "num": 114893,
       "word": "春节古风小头像",
@@ -1249,6 +1281,22 @@
       "onboard_time": 1737785838,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111777,
+      "num": 111777,
+      "word": "一路繁花这期哭成一团了",
+      "onboard_time": 1737786018,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 111276,
+      "num": 152750,
+      "word": "孟子义宣传王星越新剧",
+      "onboard_time": 1737786917,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 110877,
@@ -1411,6 +1459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100288,
+      "num": 154338,
+      "word": "曹恩齐 音乐一响王子登场",
+      "onboard_time": 1737786317,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99615,
       "num": 99615,
       "word": "还有2天放假",
@@ -1435,28 +1491,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 98004,
-      "num": 98004,
-      "word": "一路繁花这期哭成一团了",
-      "onboard_time": 1737786018,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 96837,
       "num": 228534,
       "word": "女子36年前被堂兄卖给人贩子",
       "onboard_time": 1737774317,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96416,
-      "num": 154338,
-      "word": "曹恩齐 音乐一响王子登场",
-      "onboard_time": 1737786317,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 96051,
@@ -1547,14 +1587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 82373,
-      "num": 222218,
-      "word": "珠穆朗玛峰入山费上调为1万5美元",
-      "onboard_time": 1737786257,
-      "rank": 22,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 81866,
       "num": 130498,
       "word": "网易云音乐回应下架SM旗下全部歌曲",
@@ -1593,6 +1625,14 @@
       "onboard_time": 1737723858,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 68710,
+      "num": 230708,
+      "word": "上四休三后工资只剩八成",
+      "onboard_time": 1737786559,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68356,
@@ -1692,7 +1732,7 @@
     },
     {
       "raw_hot": 35891,
-      "num": 772342,
+      "num": 851774,
       "word": "9组数据速览中国向新发力",
       "onboard_time": 1737775456,
       "rank": 2,
@@ -1835,6 +1875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 15201,
+      "num": 297276,
+      "word": "专访苏享茂家属代理律师",
+      "onboard_time": 1737786138,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14362,
       "num": 23257,
       "word": "李昊拍猪孩子",
@@ -1864,14 +1912,6 @@
       "word": "年味浓度已爆表",
       "onboard_time": 1737742094,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11625,
-      "num": 297276,
-      "word": "专访苏享茂家属代理律师",
-      "onboard_time": 1737786138,
-      "rank": 15,
       "category": "民生新闻"
     },
     {
