@@ -1,6 +1,6 @@
 {
   "startTime": 1737736047740,
-  "endTime": 1737803875119,
+  "endTime": 1737804917124,
   "band_list": [
     {
       "raw_hot": 3761403,
@@ -33,6 +33,14 @@
       "onboard_time": 1737765136,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2016672,
+      "num": 2016672,
+      "word": "赵露思回应医学奇迹",
+      "onboard_time": 1737804021,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1979319,
@@ -667,6 +675,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 290746,
+      "num": 290746,
+      "word": "胡歌连发三条微博",
+      "onboard_time": 1737803900,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 290288,
+      "num": 296000,
+      "word": "射雕英雄传预售票房进中国影史前十",
+      "onboard_time": 1737794838,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 284698,
       "num": 284698,
       "word": "凯斯首夺大满贯冠军",
@@ -675,19 +699,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 282117,
-      "num": 296000,
-      "word": "射雕英雄传预售票房进中国影史前十",
-      "onboard_time": 1737794838,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 278335,
       "num": 278335,
       "word": "王俊凯叫了姐姐",
       "onboard_time": 1737763576,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 269229,
+      "num": 269229,
+      "word": "刘晓庆卖签名照",
+      "onboard_time": 1737803540,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -811,6 +835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 244424,
+      "num": 244424,
+      "word": "杨紫回应国色芳华第二部故事背景",
+      "onboard_time": 1737800238,
+      "rank": 44,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 243465,
       "num": 243465,
       "word": "用人民币感受韩国工资水平",
@@ -841,6 +873,14 @@
       "onboard_time": 1737776838,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 232216,
+      "num": 201040,
+      "word": "李小冉我那漂亮小姨",
+      "onboard_time": 1737804021,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 230672,
@@ -1067,6 +1107,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195261,
+      "num": 195261,
+      "word": "幻云",
+      "onboard_time": 1737804620,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 194443,
+      "num": 194443,
+      "word": "你好星期六",
+      "onboard_time": 1737804080,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194135,
       "num": 194135,
       "word": "临床医生透露原研药缺药真实情况",
@@ -1099,12 +1155,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 189553,
-      "num": 238368,
-      "word": "杨紫回应国色芳华第二部故事背景",
-      "onboard_time": 1737800238,
-      "rank": 44,
-      "category": "剧集,艺人"
+      "raw_hot": 188165,
+      "num": 204410,
+      "word": "肖战练武术画面曝光",
+      "onboard_time": 1737804561,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 185789,
@@ -1217,6 +1273,14 @@
       "onboard_time": 1737776778,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168281,
+      "num": 168281,
+      "word": "女儿好像以为我对她的生活很感兴趣",
+      "onboard_time": 1737799337,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 167852,
@@ -1387,14 +1451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 153206,
-      "num": 153206,
-      "word": "女儿好像以为我对她的生活很感兴趣",
-      "onboard_time": 1737799337,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 151580,
       "num": 223217,
       "word": "韩国当事裁判谈柯洁退赛",
@@ -1515,6 +1571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142374,
+      "num": 142374,
+      "word": "医生吐槽麻药有时麻不倒病人",
+      "onboard_time": 1737804319,
+      "rank": 41,
+      "category": "舆论监督,健康医疗"
+    },
+    {
       "raw_hot": 142005,
       "num": 308225,
       "word": "母女遛弯发现地上4亿年前化石",
@@ -1531,6 +1595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140656,
+      "num": 216984,
+      "word": "唐探1900新春发布会",
+      "onboard_time": 1737804141,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 140629,
       "num": 140629,
       "word": "黄杨钿甜两部女主剧同屏",
@@ -1540,11 +1612,19 @@
     },
     {
       "raw_hot": 140304,
-      "num": 140304,
+      "num": 164432,
       "word": "萨巴伦卡状态",
       "onboard_time": 1737799879,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140220,
+      "num": 140220,
+      "word": "黄毛毛发声",
+      "onboard_time": 1737804561,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 140019,
@@ -1611,14 +1691,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 135583,
-      "num": 135583,
-      "word": "刘晓庆卖签名照",
-      "onboard_time": 1737803540,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 134977,
       "num": 134977,
       "word": "制片人夸孟子义懂得感恩",
@@ -1667,12 +1739,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 130861,
+      "num": 130861,
+      "word": "朱广权广州小蛮腰走钢丝",
+      "onboard_time": 1737804620,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130752,
       "num": 130752,
       "word": "律师称翟欣欣与原来判若两人",
       "onboard_time": 1737734058,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130233,
+      "num": 130233,
+      "word": "黑灯说十个勤天手上都是老茧",
+      "onboard_time": 1737803421,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 129261,
@@ -1900,7 +1988,7 @@
     },
     {
       "raw_hot": 113576,
-      "num": 113576,
+      "num": 126675,
       "word": "曝爱营销美貌95花耍大牌",
       "onboard_time": 1737802159,
       "rank": 45,
@@ -1985,14 +2073,6 @@
       "onboard_time": 1737774198,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 108812,
-      "num": 108812,
-      "word": "黑灯说十个勤天手上都是老茧",
-      "onboard_time": 1737803421,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 108656,
@@ -2508,7 +2588,7 @@
     },
     {
       "raw_hot": 49007,
-      "num": 660487,
+      "num": 1071049,
       "word": "春节年俗仪式感拉满",
       "onboard_time": 1737783197,
       "rank": 36,
@@ -2561,6 +2641,14 @@
       "onboard_time": 1737742813,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 40899,
+      "num": 207885,
+      "word": "蹭车蹦迪的90后女艺人",
+      "onboard_time": 1737804141,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 37536,
@@ -2651,6 +2739,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 30127,
+      "num": 143222,
+      "word": "谁能想到墨尔本年味这么浓",
+      "onboard_time": 1737804620,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28765,
       "num": 108408,
       "word": "广告做得这么土不要命了吗",
@@ -2713,6 +2809,14 @@
       "onboard_time": 1737791597,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21087,
+      "num": 144389,
+      "word": "李昀锐米兰街头随机换装",
+      "onboard_time": 1737804739,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 21075,
