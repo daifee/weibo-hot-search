@@ -1,6 +1,6 @@
 {
   "startTime": 1737736047740,
-  "endTime": 1737815726115,
+  "endTime": 1737818452732,
   "band_list": [
     {
       "raw_hot": 9870360,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3761403,
-      "num": 393957,
+      "num": 429276,
       "word": "张大大被指暴力殴打工作人员",
       "onboard_time": 1737798499,
       "rank": 10,
@@ -107,6 +107,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 1309156,
+      "num": 1309156,
+      "word": "雷军直播时突然被封",
+      "onboard_time": 1737811641,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1283726,
       "num": 1283726,
       "word": "高铁上为何没有E座",
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 1077788,
-      "num": 387035,
+      "num": 413266,
       "word": "碗盆",
       "onboard_time": 1737805581,
       "rank": 21,
@@ -169,14 +177,6 @@
       "onboard_time": 1737786257,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 991070,
-      "num": 991070,
-      "word": "雷军直播时突然被封",
-      "onboard_time": 1737811641,
-      "rank": 26,
-      "category": "互联网"
     },
     {
       "raw_hot": 955149,
@@ -355,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 679703,
+      "num": 679703,
+      "word": "黄子韬看萱萱爸爸快哭了很心疼",
+      "onboard_time": 1737816623,
+      "rank": 4,
+      "category": "艺人,演出"
+    },
+    {
       "raw_hot": 669939,
       "num": 669939,
       "word": "李小冉躲在厕所自责爆哭",
@@ -467,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 515802,
+      "num": 515802,
+      "word": "女子刮彩票中奖工作人员情绪激动",
+      "onboard_time": 1737815841,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 515180,
       "num": 212517,
       "word": "竹林四侠寄明月新春版",
@@ -553,6 +569,14 @@
       "onboard_time": 1737804620,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 431776,
+      "num": 431776,
+      "word": "微信CallKit",
+      "onboard_time": 1737816202,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 428215,
@@ -667,12 +691,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 366391,
+      "num": 366391,
+      "word": "金珉奎摔倒",
+      "onboard_time": 1737816503,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 365306,
       "num": 365306,
       "word": "拍黄瓜的厨师跳槽后被索赔10万",
       "onboard_time": 1737766936,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 364475,
+      "num": 364475,
+      "word": "杨紫李现好六国色芳华专场收视率",
+      "onboard_time": 1737816262,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 362978,
@@ -1283,6 +1323,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 208528,
+      "num": 208528,
+      "word": "张元英李瑞KKT聊天记录",
+      "onboard_time": 1737814943,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207432,
       "num": 207432,
       "word": "杨紫李现双人舞超甜",
@@ -1337,6 +1385,14 @@
       "onboard_time": 1737813382,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 201347,
+      "num": 201347,
+      "word": "峨眉山市发生3.4级地震",
+      "onboard_time": 1737816202,
+      "rank": 28,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 201185,
@@ -1443,6 +1499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191788,
+      "num": 204161,
+      "word": "迪丽热巴设计的项链",
+      "onboard_time": 1737818301,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191632,
       "num": 191632,
       "word": "李嘉琦发文告别团建不能停",
@@ -1475,12 +1539,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187885,
+      "num": 187885,
+      "word": "胡歌刘诗诗街采路人ie分明",
+      "onboard_time": 1737816742,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186169,
       "num": 186169,
       "word": "iG战胜RNG",
       "onboard_time": 1737811400,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 186017,
+      "num": 186017,
+      "word": "国色芳华剧组hi6收视创新高",
+      "onboard_time": 1737817163,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 185789,
@@ -1507,14 +1587,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 181370,
-      "num": 181370,
-      "word": "张元英李瑞KKT聊天记录",
-      "onboard_time": 1737814943,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 180333,
       "num": 162785,
       "word": "男子喝酒过量致呕出全身近一半血",
@@ -1539,12 +1611,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179126,
+      "num": 179126,
+      "word": "黄毛毛喊话无忧传媒",
+      "onboard_time": 1737818002,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178175,
       "num": 122253,
       "word": "王俊凯周杰伦秀场同框",
       "onboard_time": 1737730339,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 177595,
+      "num": 336316,
+      "word": "小伙骑行三亚把行李埋沙滩1年后取出用",
+      "onboard_time": 1737814762,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175513,
@@ -1569,6 +1657,14 @@
       "onboard_time": 1737724941,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174490,
+      "num": 257562,
+      "word": "醇氢电动汽车时代到来",
+      "onboard_time": 1737816562,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 173311,
@@ -1691,6 +1787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 165876,
+      "num": 165876,
+      "word": "大奉打更人",
+      "onboard_time": 1737818361,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165253,
       "num": 165253,
       "word": "何惟芳蒋长扬神级心动镜头",
@@ -1785,6 +1889,14 @@
       "onboard_time": 1737775758,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157732,
+      "num": 157732,
+      "word": "邓佳鑫5分钟写完主题曲歌词",
+      "onboard_time": 1737818361,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 156663,
@@ -2003,14 +2115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140997,
-      "num": 336316,
-      "word": "小伙骑行三亚把行李埋沙滩1年后取出用",
-      "onboard_time": 1737814762,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140656,
       "num": 216984,
       "word": "唐探1900新春发布会",
@@ -2129,6 +2233,14 @@
       "onboard_time": 1737784937,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133747,
+      "num": 133747,
+      "word": "jiejie骑士礼",
+      "onboard_time": 1737817281,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 133345,
@@ -2515,6 +2627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 108709,
+      "num": 256760,
+      "word": "北京台春晚阵容你最期待谁",
+      "onboard_time": 1737817163,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108656,
       "num": 120197,
       "word": "网红烟花加特林价格下跌30%",
@@ -2843,6 +2963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89504,
+      "num": 190795,
+      "word": "北京的雪",
+      "onboard_time": 1737818361,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88872,
       "num": 88872,
       "word": "五福临门云包场",
@@ -2993,6 +3121,14 @@
       "onboard_time": 1737791179,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 63848,
+      "num": 189041,
+      "word": "潘宏维权",
+      "onboard_time": 1737817521,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 61984,
@@ -3267,6 +3403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 28254,
+      "num": 1056412,
+      "word": "2025春节假期安全提示",
+      "onboard_time": 1737815362,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27154,
       "num": 189619,
       "word": "王珮瑜尚雯婕的声音也太搭了",
@@ -3464,14 +3608,6 @@
       "word": "年味浓度已爆表",
       "onboard_time": 1737742094,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9499,
-      "num": 1018165,
-      "word": "2025春节假期安全提示",
-      "onboard_time": 1737815362,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
