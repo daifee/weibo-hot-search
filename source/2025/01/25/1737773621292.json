@@ -1,0 +1,410 @@
+{
+  "runTime": 1737773621292,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1145470,
+        "num": 1183275,
+        "word": "何老师都接不住的烂梗出现了",
+        "onboard_time": 1737771677,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 813470,
+        "num": 813470,
+        "word": "15岁女孩到云南边境见男网友",
+        "onboard_time": 1737768677,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33119,
+        "num": 782394,
+        "word": "2025网络视听盛典",
+        "onboard_time": 1737686898,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 767086,
+        "num": 767086,
+        "word": "俩月男婴被偷认亲时父亲已去世2年",
+        "onboard_time": 1737769517,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342532,
+        "num": 342532,
+        "word": "美国加州旧火未灭新火又来",
+        "onboard_time": 1737769397,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 330980,
+        "num": 330980,
+        "word": "拍黄瓜的厨师跳槽后被索赔10万",
+        "onboard_time": 1737766936,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 860781,
+        "num": 322416,
+        "word": "禹宙中欣",
+        "onboard_time": 1737764297,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 400085,
+        "num": 321920,
+        "word": "杨子说再见爱人其他嘉宾都在做人设",
+        "onboard_time": 1737768137,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312404,
+        "num": 312404,
+        "word": "韩国破获继N号房后最大规模网络性剥削案",
+        "onboard_time": 1737770778,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 258310,
+        "num": 311421,
+        "word": "韩国网友呼吁裁判承认卞相壹犯规",
+        "onboard_time": 1737738075,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1172192,
+        "num": 307486,
+        "word": "濒危尸体花盛开数千人排队参观",
+        "onboard_time": 1737771317,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 807563,
+        "num": 304989,
+        "word": "女孩偷拿妈妈百万珠宝卖了60元",
+        "onboard_time": 1737765136,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 517038,
+        "num": 302371,
+        "word": "霸王茶姬发文致歉",
+        "onboard_time": 1737734719,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 392314,
+        "num": 300349,
+        "word": "宜修你早说你儿是肖战啊",
+        "onboard_time": 1737765676,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 378233,
+        "num": 298785,
+        "word": "葛夕妈妈说没多喜欢留几手",
+        "onboard_time": 1737765136,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296450,
+        "num": 296450,
+        "word": "嘘国王在冬眠",
+        "onboard_time": 1737769757,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278170,
+        "num": 278170,
+        "word": "王俊凯叫了姐姐",
+        "onboard_time": 1737763576,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263591,
+        "num": 263591,
+        "word": "男子卖牛路上牛突然给主人下跪",
+        "onboard_time": 1737769577,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249100,
+        "num": 249100,
+        "word": "中央气象台连发4个预警",
+        "onboard_time": 1737767176,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226364,
+        "num": 226364,
+        "word": "虞书欣丁禹兮cp感要溢出屏幕了",
+        "onboard_time": 1737771317,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217581,
+        "num": 217581,
+        "word": "地铁上导盲犬乖乖捂住自己的嘴",
+        "onboard_time": 1737760454,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206360,
+        "num": 206360,
+        "word": "倪萍说大家别轻易放弃婚姻",
+        "onboard_time": 1737769278,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192282,
+        "num": 192282,
+        "word": "G社王俊凯生图",
+        "onboard_time": 1737771977,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 167852,
+        "num": 167852,
+        "word": "你好星期六这期有杨紫李现",
+        "onboard_time": 1737773116,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57800,
+        "num": 160456,
+        "word": "Gumayusi回应成为替补",
+        "onboard_time": 1737765676,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158421,
+        "num": 158421,
+        "word": "近800万人申请国补买手机数码",
+        "onboard_time": 1737768438,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 155891,
+        "num": 155891,
+        "word": "博主涉嫌恶意抹黑小米汽车被抓",
+        "onboard_time": 1737771018,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 153459,
+        "num": 153459,
+        "word": "最强大脑窒息198分钟",
+        "onboard_time": 1737729201,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144159,
+        "num": 144159,
+        "word": "2个月男婴晒太阳被偷35年后回家",
+        "onboard_time": 1737771018,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142036,
+        "num": 142036,
+        "word": "何惟芳蒋长扬神级心动镜头",
+        "onboard_time": 1737767597,
+        "rank": 29,
+        "category": "综艺,剧集"
+      },
+      {
+        "raw_hot": 133278,
+        "num": 133278,
+        "word": "程潇送你蛇年新春祝福",
+        "onboard_time": 1737769098,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128426,
+        "num": 128426,
+        "word": "春节上门喂猫收入1.5w",
+        "onboard_time": 1737761115,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127335,
+        "num": 127335,
+        "word": "打赌喝马桶水给1万后反悔起诉",
+        "onboard_time": 1737763996,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127149,
+        "num": 127149,
+        "word": "美国防部宣布暂停官媒活动",
+        "onboard_time": 1737771438,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123525,
+        "num": 123525,
+        "word": "卞相壹称柯洁被罚自己专注力被破坏",
+        "onboard_time": 1737727760,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117269,
+        "num": 117269,
+        "word": "男子喝酒过量致呕出全身近一半血",
+        "onboard_time": 1737727459,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114683,
+        "num": 114683,
+        "word": "别被爸妈的什么都不缺骗了",
+        "onboard_time": 1737766276,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110659,
+        "num": 110659,
+        "word": "虞书欣 小红鱼",
+        "onboard_time": 1737737537,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110053,
+        "num": 110053,
+        "word": "白鹿衣服上的毛粘敖瑞鹏衣服上了",
+        "onboard_time": 1737766456,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108399,
+        "num": 108399,
+        "word": "福建舰送福啦",
+        "onboard_time": 1737770656,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107388,
+        "num": 107388,
+        "word": "蛇年快把设计师逼没辙了",
+        "onboard_time": 1737765858,
+        "rank": 40,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 107380,
+        "num": 107380,
+        "word": "多地禁改限明确春节可燃放烟花爆竹",
+        "onboard_time": 1737739695,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105641,
+        "num": 105641,
+        "word": "俞定延泡泡",
+        "onboard_time": 1737761174,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103064,
+        "num": 103064,
+        "word": "小电视遇到于适不能呼吸了",
+        "onboard_time": 1737773536,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101820,
+        "num": 101820,
+        "word": "游本昌说走得慢不代表没出息",
+        "onboard_time": 1737773178,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101564,
+        "num": 101564,
+        "word": "橘朵新品海报被指擦边",
+        "onboard_time": 1737765858,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 100537,
+        "num": 100537,
+        "word": "你踏上春运回家路了吗",
+        "onboard_time": 1737768376,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98532,
+        "num": 98532,
+        "word": "甲辰龙年最后一个周末",
+        "onboard_time": 1737761115,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95352,
+        "num": 95352,
+        "word": "王毅同美国国务卿鲁比奥通话",
+        "onboard_time": 1737735019,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94312,
+        "num": 94312,
+        "word": "国补4天申请了超1000万件手机数码",
+        "onboard_time": 1737773597,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全国各族人民致新春祝福#"
+    }
+  }
+}

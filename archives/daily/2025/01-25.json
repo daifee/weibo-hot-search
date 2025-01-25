@@ -1,6 +1,6 @@
 {
   "startTime": 1737736047740,
-  "endTime": 1737772967237,
+  "endTime": 1737773621292,
   "band_list": [
     {
       "raw_hot": 2134060,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1963235,
-      "num": 292613,
+      "num": 302371,
       "word": "霸王茶姬发文致歉",
       "onboard_time": 1737734719,
       "rank": 11,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 1175773,
-      "num": 276039,
+      "num": 307486,
       "word": "濒危尸体花盛开数千人排队参观",
       "onboard_time": 1737771317,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1145470,
+      "num": 1183275,
+      "word": "何老师都接不住的烂梗出现了",
+      "onboard_time": 1737771677,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 927651,
@@ -35,28 +43,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 793297,
-      "num": 793297,
+      "raw_hot": 813470,
+      "num": 813470,
       "word": "15岁女孩到云南边境见男网友",
       "onboard_time": 1737768677,
       "rank": 34,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 723354,
-      "num": 723354,
+      "raw_hot": 767086,
+      "num": 767086,
       "word": "俩月男婴被偷认亲时父亲已去世2年",
       "onboard_time": 1737769517,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 671979,
-      "num": 338007,
-      "word": "何老师都接不住的烂梗出现了",
-      "onboard_time": 1737771677,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 669824,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 620250,
-      "num": 289803,
+      "num": 298785,
       "word": "葛夕妈妈说没多喜欢留几手",
       "onboard_time": 1737765136,
       "rank": 10,
@@ -211,8 +211,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 312404,
+      "num": 312404,
+      "word": "韩国破获继N号房后最大规模网络性剥削案",
+      "onboard_time": 1737770778,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 307765,
-      "num": 258117,
+      "num": 296450,
       "word": "嘘国王在冬眠",
       "onboard_time": 1737769757,
       "rank": 42,
@@ -267,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 263591,
+      "num": 263591,
+      "word": "男子卖牛路上牛突然给主人下跪",
+      "onboard_time": 1737769577,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 260397,
       "num": 128734,
       "word": "虞书欣腾讯视频海报C位",
@@ -283,14 +299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 257135,
-      "num": 257135,
-      "word": "男子卖牛路上牛突然给主人下跪",
-      "onboard_time": 1737769577,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 248798,
       "num": 180505,
       "word": "王俊凯接管DIOR官微",
@@ -305,14 +313,6 @@
       "onboard_time": 1737726680,
       "rank": 3,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 241102,
-      "num": 241102,
-      "word": "韩国破获继N号房后最大规模网络性剥削案",
-      "onboard_time": 1737770778,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 230672,
@@ -363,6 +363,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 206360,
+      "num": 206360,
+      "word": "倪萍说大家别轻易放弃婚姻",
+      "onboard_time": 1737769278,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203829,
       "num": 199627,
       "word": "终于等到王一博",
@@ -379,14 +387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 203030,
-      "num": 203030,
-      "word": "倪萍说大家别轻易放弃婚姻",
-      "onboard_time": 1737769278,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 198044,
       "num": 198044,
       "word": "野生大熊猫公路上边跑边扭屁股",
@@ -401,6 +401,14 @@
       "onboard_time": 1737732198,
       "rank": 8,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 192282,
+      "num": 192282,
+      "word": "G社王俊凯生图",
+      "onboard_time": 1737771977,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 180333,
@@ -435,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167852,
+      "num": 167852,
+      "word": "你好星期六这期有杨紫李现",
+      "onboard_time": 1737773116,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166981,
       "num": 124712,
       "word": "六公主精准播放电影片段为柯洁发声",
@@ -451,6 +467,14 @@
       "category": "综艺,剧集"
     },
     {
+      "raw_hot": 158421,
+      "num": 158421,
+      "word": "近800万人申请国补买手机数码",
+      "onboard_time": 1737768438,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 156663,
       "num": 122760,
       "word": "王一博王子即视感",
@@ -459,20 +483,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155891,
+      "num": 155891,
+      "word": "博主涉嫌恶意抹黑小米汽车被抓",
+      "onboard_time": 1737771018,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 155130,
       "num": 153999,
       "word": "春节上门喂猫收入1.5w",
       "onboard_time": 1737761115,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 154405,
-      "num": 154405,
-      "word": "G社王俊凯生图",
-      "onboard_time": 1737771977,
-      "rank": 25,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 150209,
@@ -491,20 +515,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147442,
-      "num": 147442,
-      "word": "博主涉嫌恶意抹黑小米汽车被抓",
-      "onboard_time": 1737771018,
-      "rank": 27,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 144618,
       "num": 144618,
       "word": "橘朵新品海报被指擦边",
       "onboard_time": 1737765858,
       "rank": 27,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 144159,
+      "num": 144159,
+      "word": "2个月男婴晒太阳被偷35年后回家",
+      "onboard_time": 1737771018,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142644,
@@ -531,20 +555,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 137065,
-      "num": 137065,
-      "word": "近800万人申请国补买手机数码",
-      "onboard_time": 1737768438,
-      "rank": 46,
-      "category": "数码"
-    },
-    {
       "raw_hot": 136437,
       "num": 136437,
       "word": "蛇年快把设计师逼没辙了",
       "onboard_time": 1737765858,
       "rank": 31,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 133278,
+      "num": 133278,
+      "word": "程潇送你蛇年新春祝福",
+      "onboard_time": 1737769098,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 131420,
@@ -675,14 +699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 114612,
-      "num": 114612,
-      "word": "2个月男婴晒太阳被偷35年后回家",
-      "onboard_time": 1737771018,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 113415,
       "num": 113415,
       "word": "刘亦菲檀健次龚俊金靖一起唱K",
@@ -715,20 +731,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 105453,
-      "num": 105453,
-      "word": "程潇送你蛇年新春祝福",
-      "onboard_time": 1737769098,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 105015,
       "num": 105015,
       "word": "韩国赢了 围棋输了",
       "onboard_time": 1737723018,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103064,
+      "num": 103064,
+      "word": "小电视遇到于适不能呼吸了",
+      "onboard_time": 1737773536,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 102955,
@@ -747,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101820,
+      "num": 101820,
+      "word": "游本昌说走得慢不代表没出息",
+      "onboard_time": 1737773178,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101386,
       "num": 101386,
       "word": "谷爱凌因伤XGAMES退赛",
@@ -763,7 +787,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 100193,
+      "raw_hot": 100537,
       "num": 203386,
       "word": "你踏上春运回家路了吗",
       "onboard_time": 1737768376,
@@ -793,6 +817,14 @@
       "onboard_time": 1737718577,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94312,
+      "num": 94312,
+      "word": "国补4天申请了超1000万件手机数码",
+      "onboard_time": 1737773597,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93038,
@@ -892,7 +924,7 @@
     },
     {
       "raw_hot": 60080,
-      "num": 157530,
+      "num": 160456,
       "word": "Gumayusi回应成为替补",
       "onboard_time": 1737765676,
       "rank": 24,
@@ -971,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 33119,
+      "num": 782394,
+      "word": "2025网络视听盛典",
+      "onboard_time": 1737686898,
+      "rank": 2,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 31655,
       "num": 63241,
       "word": "一诺九尾相互守护",
@@ -1009,14 +1049,6 @@
       "onboard_time": 1737729741,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22792,
-      "num": 748978,
-      "word": "2025网络视听盛典",
-      "onboard_time": 1737686898,
-      "rank": 2,
-      "category": "综艺"
     },
     {
       "raw_hot": 21779,
