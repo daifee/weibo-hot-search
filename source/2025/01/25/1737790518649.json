@@ -1,0 +1,410 @@
+{
+  "runTime": 1737790518649,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1009923,
+        "num": 1161587,
+        "word": "节目组 麦琳身世",
+        "onboard_time": 1737789918,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1006634,
+        "num": 1006634,
+        "word": "高铁上为何没有E座",
+        "onboard_time": 1737783677,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25808,
+        "num": 998204,
+        "word": "9组数据速览中国向新发力",
+        "onboard_time": 1737775456,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 998135,
+        "num": 998135,
+        "word": "制片人眼中的黑榜艺人",
+        "onboard_time": 1737786257,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 754517,
+        "num": 754517,
+        "word": "女子上门喂猫110元一次一天20家",
+        "onboard_time": 1737785417,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 699369,
+        "num": 699369,
+        "word": "倪虹洁自曝曾因身材姣好感到羞耻",
+        "onboard_time": 1737785597,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 603996,
+        "num": 603996,
+        "word": "发臭的网约车戳中中年男人的隐痛",
+        "onboard_time": 1737788357,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 518404,
+        "num": 518404,
+        "word": "何老师都接不住的烂梗出现了",
+        "onboard_time": 1737771677,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371324,
+        "num": 371324,
+        "word": "珠穆朗玛峰入山费上调为1万5美元",
+        "onboard_time": 1737786257,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 61542,
+        "num": 369654,
+        "word": "菲律宾船企图非法登礁被中国海警驱离",
+        "onboard_time": 1737780978,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1067626,
+        "num": 368562,
+        "word": "赵露思请吃饭",
+        "onboard_time": 1737786677,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 833176,
+        "num": 365145,
+        "word": "纪凌尘与女友现身机场",
+        "onboard_time": 1737787877,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455946,
+        "num": 363222,
+        "word": "李小冉哭着对刘晓庆说我对不起你",
+        "onboard_time": 1737781337,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 426737,
+        "num": 361384,
+        "word": "白敬亭章若楠难哄网飞上线",
+        "onboard_time": 1737788477,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255626,
+        "num": 359037,
+        "word": "霸王茶姬发文致歉",
+        "onboard_time": 1737734719,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 356834,
+        "num": 356834,
+        "word": "李小冉躲在厕所自责爆哭",
+        "onboard_time": 1737783737,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167305,
+        "num": 355820,
+        "word": "闫桉费加罗MODE开年刊封面",
+        "onboard_time": 1737789619,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 95428,
+        "num": 350339,
+        "word": "春节哪些美好瞬间让你念念不忘",
+        "onboard_time": 1737787518,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47083,
+        "num": 347161,
+        "word": "爸爸攒一麻袋饮料扛回家给孩子",
+        "onboard_time": 1737789857,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14327,
+        "num": 340195,
+        "word": "上海少女们的三十年人生起伏",
+        "onboard_time": 1737789259,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 243171,
+        "num": 336301,
+        "word": "濒危尸体花盛开数千人排队参观",
+        "onboard_time": 1737771317,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 445854,
+        "num": 332058,
+        "word": "小伙长期侧卧玩手机两眼近视差500度",
+        "onboard_time": 1737783857,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331801,
+        "num": 331801,
+        "word": "曝长相清纯95小花拜高踩低",
+        "onboard_time": 1737789437,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259498,
+        "num": 259498,
+        "word": "Jennie新歌ZEN",
+        "onboard_time": 1737783857,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 252608,
+        "num": 252608,
+        "word": "茯苓恶女妆",
+        "onboard_time": 1737785658,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232111,
+        "num": 232111,
+        "word": "黄毛毛曝被6000万粉男艺人殴打",
+        "onboard_time": 1737789918,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179832,
+        "num": 216940,
+        "word": "高铁座位ABCDF是啥意思",
+        "onboard_time": 1737785838,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213730,
+        "num": 213730,
+        "word": "谷爱凌神经系统处于超负荷状态",
+        "onboard_time": 1737785838,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65289,
+        "num": 207417,
+        "word": "中国汽车的全球学霸",
+        "onboard_time": 1737789378,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72193,
+        "num": 205892,
+        "word": "曼谷空气污染严重学校停课",
+        "onboard_time": 1737788897,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 205477,
+        "num": 205477,
+        "word": "四川开始流行鸡爪灌肠了",
+        "onboard_time": 1737785838,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 192242,
+        "num": 192242,
+        "word": "自以为飞升的古装中生",
+        "onboard_time": 1737789558,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163416,
+        "num": 163416,
+        "word": "虞书欣草莓味棉花糖",
+        "onboard_time": 1737789197,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153455,
+        "num": 153455,
+        "word": "英国男子称泰国监狱的条件令人作呕",
+        "onboard_time": 1737783618,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 142266,
+        "num": 142266,
+        "word": "谷爱凌说身体已达极限",
+        "onboard_time": 1737776537,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137827,
+        "num": 137827,
+        "word": "李小冉说对刘晓庆没有任何成见",
+        "onboard_time": 1737789918,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128005,
+        "num": 128005,
+        "word": "女子眼中插进4.5厘米树枝浑然不知",
+        "onboard_time": 1737776477,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129448,
+        "num": 127343,
+        "word": "虞书欣丁禹兮夫妻味",
+        "onboard_time": 1737778578,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125565,
+        "num": 125565,
+        "word": "白月梵星爱奇艺近两年古偶冠军",
+        "onboard_time": 1737780857,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57467,
+        "num": 124370,
+        "word": "00后网恋失败崩溃痛哭欲轻生",
+        "onboard_time": 1737789619,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124247,
+        "num": 124247,
+        "word": "女孩偷拿妈妈百万珠宝卖了60元",
+        "onboard_time": 1737765136,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64379,
+        "num": 124075,
+        "word": "韩素希南柱赫同框",
+        "onboard_time": 1737780678,
+        "rank": 41,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 124023,
+        "num": 124023,
+        "word": "美国一大学被爆切分出售退伍老兵遗体",
+        "onboard_time": 1737776357,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 118184,
+        "num": 118184,
+        "word": "河南省纪委内鬼卢锡恩被双开",
+        "onboard_time": 1737787698,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116492,
+        "num": 116492,
+        "word": "羽生结弦说没有重返赛场的打算",
+        "onboard_time": 1737787337,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116354,
+        "num": 116354,
+        "word": "晓华给奶奶剪王嘉尔同款造型",
+        "onboard_time": 1737777438,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 115874,
+        "num": 115874,
+        "word": "3天后就是除夕了",
+        "onboard_time": 1737776657,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114870,
+        "num": 114870,
+        "word": "尼泊尔回应珠峰垃圾成灾",
+        "onboard_time": 1737790338,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 108225,
+        "num": 108225,
+        "word": "白鹿2024制片人好感度艺人TOP1",
+        "onboard_time": 1737786677,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105174,
+        "num": 105174,
+        "word": "Doinb道歉",
+        "onboard_time": 1737790458,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全国各族人民致新春祝福#"
+    }
+  }
+}
