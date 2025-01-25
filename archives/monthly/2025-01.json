@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737819355743,
+  "endTime": 1737822370823,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 3761403,
-      "num": 429276,
+      "num": 802124,
       "word": "张大大被指暴力殴打工作人员",
       "onboard_time": 1737798499,
       "rank": 10,
@@ -10619,6 +10619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 626649,
+      "num": 626649,
+      "word": "微信CallKit",
+      "onboard_time": 1737816202,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 626643,
       "num": 626643,
       "word": "于正称白鹿单扛白月梵星",
@@ -12985,14 +12993,6 @@
       "onboard_time": 1737765676,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 528094,
-      "num": 528094,
-      "word": "微信CallKit",
-      "onboard_time": 1737816202,
-      "rank": 9,
-      "category": "互联网"
     },
     {
       "raw_hot": 526354,
@@ -16369,6 +16369,14 @@
       "onboard_time": 1737684677,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 429517,
+      "num": 324100,
+      "word": "黄毛毛喊话无忧传媒",
+      "onboard_time": 1737818002,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 429364,
@@ -20675,6 +20683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 340406,
+      "num": 340406,
+      "word": "迪丽热巴设计的项链",
+      "onboard_time": 1737818301,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 339631,
       "num": 339631,
       "word": "猎罪图鉴",
@@ -21601,14 +21617,6 @@
       "onboard_time": 1735899680,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 324100,
-      "num": 324100,
-      "word": "黄毛毛喊话无忧传媒",
-      "onboard_time": 1737818002,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 323897,
@@ -24745,14 +24753,6 @@
       "onboard_time": 1736036484,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 279416,
-      "num": 321634,
-      "word": "迪丽热巴设计的项链",
-      "onboard_time": 1737818301,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 279374,
@@ -28689,6 +28689,14 @@
       "onboard_time": 1735826780,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 239182,
+      "num": 266912,
+      "word": "北京的雪",
+      "onboard_time": 1737818361,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 239133,
@@ -34292,7 +34300,7 @@
     },
     {
       "raw_hot": 201825,
-      "num": 201825,
+      "num": 214416,
       "word": "韩国失事客机事发前8分钟细节公布",
       "onboard_time": 1737813382,
       "rank": 18,
@@ -45073,6 +45081,14 @@
       "onboard_time": 1736136925,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 162807,
+      "num": 215842,
+      "word": "此沙发长文回应素人时期",
+      "onboard_time": 1737821420,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 162794,
@@ -59147,6 +59163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118310,
+      "num": 201954,
+      "word": "冻肉不要直接泡水解冻",
+      "onboard_time": 1737819921,
+      "rank": 23,
+      "category": "美食,健康医疗"
+    },
+    {
       "raw_hot": 118278,
       "num": 118278,
       "word": "特朗普称没有人比我更懂北约",
@@ -59793,14 +59817,6 @@
       "onboard_time": 1736579422,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 116535,
-      "num": 190795,
-      "word": "北京的雪",
-      "onboard_time": 1737818361,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116506,
@@ -62219,6 +62235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 108926,
+      "num": 199263,
+      "word": "女子买短乘长高铁霸座被拘",
+      "onboard_time": 1737822079,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108920,
       "num": 260212,
       "word": "被国漫开年第一首战歌燃到了",
@@ -64091,6 +64115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 101688,
+      "num": 101688,
+      "word": "王星越原声台词",
+      "onboard_time": 1737821659,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101666,
       "num": 140097,
       "word": "千朵桃花决战癫疯",
@@ -64579,6 +64611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99740,
+      "num": 99740,
+      "word": "电竞选手幻云称网恋被骗流露轻生念头",
+      "onboard_time": 1737821840,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 99677,
       "num": 99677,
       "word": "陈奕恒 希望能让你们看到一个不同的我",
@@ -64689,6 +64729,14 @@
       "onboard_time": 1735959318,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 99092,
+      "num": 99092,
+      "word": "女子吐槽网购买到翻新春联",
+      "onboard_time": 1737817462,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99045,
@@ -67233,6 +67281,14 @@
       "onboard_time": 1736364551,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84992,
+      "num": 84992,
+      "word": "射雕小说与电影一起热销",
+      "onboard_time": 1737819440,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 84968,
