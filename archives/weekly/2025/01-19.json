@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737783410993,
+  "endTime": 1737786483562,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 1963235,
-      "num": 335180,
+      "num": 354405,
       "word": "霸王茶姬发文致歉",
       "onboard_time": 1737734719,
       "rank": 11,
@@ -700,7 +700,7 @@
     },
     {
       "raw_hot": 1175773,
-      "num": 339701,
+      "num": 361557,
       "word": "濒危尸体花盛开数千人排队参观",
       "onboard_time": 1737771317,
       "rank": 10,
@@ -827,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1089461,
+      "num": 1174313,
+      "word": "李小冉哭着对刘晓庆说我对不起你",
+      "onboard_time": 1737781337,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1088075,
       "num": 1174092,
       "word": "杨子黄圣依葛夕留几手签约蜂群",
@@ -913,14 +921,6 @@
       "onboard_time": 1737356478,
       "rank": 15,
       "category": "互联网,国际时政"
-    },
-    {
-      "raw_hot": 1067537,
-      "num": 630565,
-      "word": "李小冉哭着对刘晓庆说我对不起你",
-      "onboard_time": 1737781337,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1063521,
@@ -1955,6 +1955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 688371,
+      "num": 688371,
+      "word": "高铁上为何没有E座",
+      "onboard_time": 1737783677,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 687464,
       "num": 260208,
       "word": "特朗普发帖呼吁挽救TikTok",
@@ -2041,6 +2049,14 @@
       "onboard_time": 1737617901,
       "rank": 7,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 653986,
+      "num": 376147,
+      "word": "李小冉躲在厕所自责爆哭",
+      "onboard_time": 1737783737,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 652288,
@@ -2881,6 +2897,14 @@
       "onboard_time": 1737765676,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 524589,
+      "num": 375023,
+      "word": "Jennie新歌ZEN",
+      "onboard_time": 1737783857,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 523130,
@@ -3819,6 +3843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 417113,
+      "num": 417113,
+      "word": "官方通报梅大高速塌方问责",
+      "onboard_time": 1737781098,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 415915,
       "num": 415915,
       "word": "集五福",
@@ -4003,14 +4035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 395878,
-      "num": 395878,
-      "word": "官方通报梅大高速塌方问责",
-      "onboard_time": 1737781098,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 395413,
       "num": 247861,
       "word": "女儿要报12天4万的瑜伽课老人报警",
@@ -4089,6 +4113,14 @@
       "onboard_time": 1737205520,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 383268,
+      "num": 383268,
+      "word": "小伙长期侧卧玩手机两眼近视差500度",
+      "onboard_time": 1737783857,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 383235,
@@ -4577,6 +4609,14 @@
       "onboard_time": 1737538578,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 348253,
+      "num": 362032,
+      "word": "女子上门喂猫110元一次一天20家",
+      "onboard_time": 1737785417,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 347753,
@@ -5120,6 +5160,14 @@
       "word": "李小冉你好好演戏唱歌我另有人选",
       "onboard_time": 1737368538,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 307323,
+      "num": 307323,
+      "word": "我家那小子",
+      "onboard_time": 1737781457,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -6219,6 +6267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 255411,
+      "num": 255411,
+      "word": "倪虹洁自曝曾因身材姣好感到羞耻",
+      "onboard_time": 1737785597,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255237,
       "num": 217945,
       "word": "四川巴中一大桥多车相撞有人员伤亡",
@@ -6883,14 +6939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 228956,
-      "num": 228956,
-      "word": "我家那小子",
-      "onboard_time": 1737781457,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 228583,
       "num": 228583,
       "word": "所有人都忘了许七安",
@@ -6961,6 +7009,14 @@
       "onboard_time": 1737696199,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 224304,
+      "num": 224304,
+      "word": "茯苓恶女妆",
+      "onboard_time": 1737785658,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 224154,
@@ -7849,6 +7905,14 @@
       "onboard_time": 1737642440,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204922,
+      "num": 204922,
+      "word": "四川开始流行鸡爪灌肠了",
+      "onboard_time": 1737785838,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 204670,
@@ -9307,6 +9371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184865,
+      "num": 268346,
+      "word": "王鹤棣曾因肩周炎去看医生",
+      "onboard_time": 1737786138,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184679,
       "num": 175621,
       "word": "翟潇闻舞台",
@@ -9329,6 +9401,14 @@
       "onboard_time": 1737774438,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 184450,
+      "num": 184450,
+      "word": "英国男子称泰国监狱的条件令人作呕",
+      "onboard_time": 1737783618,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 184339,
@@ -10107,6 +10187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173311,
+      "num": 173311,
+      "word": "刘晓庆迟到是因为要打官司",
+      "onboard_time": 1737786437,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173270,
       "num": 173270,
       "word": "张雅钦做女主做女二都精彩",
@@ -10241,6 +10329,14 @@
       "onboard_time": 1737685458,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171624,
+      "num": 171624,
+      "word": "尚公主",
+      "onboard_time": 1737784098,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 171563,
@@ -11643,6 +11739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154473,
+      "num": 154473,
+      "word": "王影璐和周深歌声适配度",
+      "onboard_time": 1737785417,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154450,
       "num": 287640,
       "word": "发哥70岁健步如飞我20岁两眼一黑",
@@ -11665,6 +11769,14 @@
       "onboard_time": 1737522740,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 154336,
+      "num": 237414,
+      "word": "3天后就是除夕了",
+      "onboard_time": 1737776657,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154330,
@@ -13099,6 +13211,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 138234,
+      "num": 155747,
+      "word": "杨紫化身领队",
+      "onboard_time": 1737784157,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138182,
       "num": 138182,
       "word": "赴山海腾讯视频预约人数破200万",
@@ -13489,6 +13609,14 @@
       "onboard_time": 1737286098,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134977,
+      "num": 134977,
+      "word": "制片人夸孟子义懂得感恩",
+      "onboard_time": 1737784937,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 134974,
@@ -14803,6 +14931,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 121206,
+      "num": 121206,
+      "word": "布朗尼炸裂隔扣",
+      "onboard_time": 1737786077,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121156,
       "num": 121156,
       "word": "嫦娥器灵落星盏新皮肤",
@@ -14937,6 +15073,14 @@
       "onboard_time": 1737719478,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 119619,
+      "num": 119619,
+      "word": "射雕演员们提前看到了正片",
+      "onboard_time": 1737784818,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 119492,
@@ -15113,6 +15257,14 @@
       "onboard_time": 1737361939,
       "rank": 24,
       "category": "体育,汽车"
+    },
+    {
+      "raw_hot": 117792,
+      "num": 117792,
+      "word": "谷爱凌神经系统处于超负荷状态",
+      "onboard_time": 1737785838,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 117791,
@@ -15369,6 +15521,14 @@
       "onboard_time": 1737463099,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 115194,
+      "num": 115194,
+      "word": "制片人眼中的黑榜艺人",
+      "onboard_time": 1737786257,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 115183,
@@ -15681,6 +15841,14 @@
       "onboard_time": 1737288858,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 112006,
+      "num": 112006,
+      "word": "高铁座位ABCDF是啥意思",
+      "onboard_time": 1737785838,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111990,
@@ -16963,6 +17131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98004,
+      "num": 98004,
+      "word": "一路繁花这期哭成一团了",
+      "onboard_time": 1737786018,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97983,
       "num": 97983,
       "word": "JDG战胜UP",
@@ -17105,6 +17281,14 @@
       "onboard_time": 1737264678,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96416,
+      "num": 154338,
+      "word": "曹恩齐 音乐一响王子登场",
+      "onboard_time": 1737786317,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 96411,
@@ -17731,6 +17915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82373,
+      "num": 222218,
+      "word": "珠穆朗玛峰入山费上调为1万5美元",
+      "onboard_time": 1737786257,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 82261,
       "num": 82261,
       "word": "国色芳华27集预告",
@@ -18073,14 +18265,6 @@
       "onboard_time": 1737328995,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 74746,
-      "num": 237414,
-      "word": "3天后就是除夕了",
-      "onboard_time": 1737776657,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 73942,
@@ -21016,6 +21200,14 @@
       "word": "全国公安机关严惩有组织造谣炒作",
       "onboard_time": 1737571152,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11625,
+      "num": 297276,
+      "word": "专访苏享茂家属代理律师",
+      "onboard_time": 1737786138,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
