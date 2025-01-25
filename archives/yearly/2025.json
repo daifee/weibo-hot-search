@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737775357673,
+  "endTime": 1737776200637,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1675,6 +1675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1846407,
+      "num": 1846407,
+      "word": "何老师都接不住的烂梗出现了",
+      "onboard_time": 1737771677,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1834605,
       "num": 1834605,
       "word": "昀牵孟绕",
@@ -1777,14 +1785,6 @@
       "onboard_time": 1735995328,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1778811,
-      "num": 1778811,
-      "word": "何老师都接不住的烂梗出现了",
-      "onboard_time": 1737771677,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 1768799,

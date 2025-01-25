@@ -1,6 +1,6 @@
 {
   "startTime": 1737736047740,
-  "endTime": 1737775357673,
+  "endTime": 1737776200637,
   "band_list": [
     {
       "raw_hot": 2134060,
@@ -19,8 +19,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1778811,
-      "num": 1778811,
+      "raw_hot": 1846407,
+      "num": 1846407,
       "word": "何老师都接不住的烂梗出现了",
       "onboard_time": 1737771677,
       "rank": 6,
@@ -41,6 +41,14 @@
       "onboard_time": 1737764297,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 868668,
+      "num": 529160,
+      "word": "迪丽热巴携三部大剧来拜年",
+      "onboard_time": 1737774736,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 813470,
@@ -107,14 +115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 499543,
-      "num": 349146,
-      "word": "迪丽热巴携三部大剧来拜年",
-      "onboard_time": 1737774736,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 490733,
       "num": 286357,
       "word": "最强大脑窒息198分钟",
@@ -123,20 +123,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 464776,
+      "num": 464776,
+      "word": "韩国破获继N号房后最大规模网络性剥削案",
+      "onboard_time": 1737770778,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 459134,
       "num": 459134,
       "word": "地铁上导盲犬乖乖捂住自己的嘴",
       "onboard_time": 1737760454,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 422853,
-      "num": 422853,
-      "word": "韩国破获继N号房后最大规模网络性剥削案",
-      "onboard_time": 1737770778,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 413400,
@@ -307,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260095,
+      "num": 260095,
+      "word": "近800万人申请国补买手机数码",
+      "onboard_time": 1737768438,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 258459,
       "num": 258459,
       "word": "永夜星河",
@@ -347,6 +355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 224373,
+      "num": 201976,
+      "word": "楼上爆改5个厕所楼下交涉反遭恐吓",
+      "onboard_time": 1737774618,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 223501,
       "num": 175246,
       "word": "打赌喝马桶水给1万后反悔起诉",
@@ -361,14 +377,6 @@
       "onboard_time": 1737734959,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 212693,
-      "num": 212693,
-      "word": "近800万人申请国补买手机数码",
-      "onboard_time": 1737768438,
-      "rank": 46,
-      "category": "数码"
     },
     {
       "raw_hot": 209834,
@@ -411,6 +419,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202628,
+      "num": 202628,
+      "word": "肖战郭靖金刀驸马的含金量",
+      "onboard_time": 1737775097,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 199564,
+      "num": 199564,
+      "word": "虞书欣甜美加盟北京台春晚",
+      "onboard_time": 1737775217,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198044,
       "num": 198044,
       "word": "野生大熊猫公路上边跑边扭屁股",
@@ -427,12 +451,20 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 189555,
-      "num": 148667,
-      "word": "虞书欣甜美加盟北京台春晚",
-      "onboard_time": 1737775217,
+      "raw_hot": 193263,
+      "num": 193263,
+      "word": "博主涉嫌恶意抹黑小米汽车被抓",
+      "onboard_time": 1737771018,
       "rank": 27,
-      "category": "综艺"
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 184478,
+      "num": 184478,
+      "word": "恋与制作人 许墨设定",
+      "onboard_time": 1737774438,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 180333,
@@ -491,12 +523,12 @@
       "category": "综艺,剧集"
     },
     {
-      "raw_hot": 164696,
-      "num": 164696,
-      "word": "博主涉嫌恶意抹黑小米汽车被抓",
-      "onboard_time": 1737771018,
-      "rank": 27,
-      "category": "汽车"
+      "raw_hot": 158756,
+      "num": 158756,
+      "word": "白月梵星",
+      "onboard_time": 1737775758,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 156663,
@@ -571,14 +603,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 141933,
-      "num": 141933,
-      "word": "肖战郭靖金刀驸马的含金量",
-      "onboard_time": 1737775097,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 141082,
       "num": 141082,
       "word": "网传沈腾马丽孙千合作春晚",
@@ -593,14 +617,6 @@
       "onboard_time": 1737765858,
       "rank": 31,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 135022,
-      "num": 135022,
-      "word": "楼上爆改5个厕所楼下交涉反遭恐吓",
-      "onboard_time": 1737774618,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133278,
@@ -627,14 +643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130617,
-      "num": 130617,
-      "word": "恋与制作人 许墨设定",
-      "onboard_time": 1737774438,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 129261,
       "num": 129261,
       "word": "美国防部宣布暂停官媒活动",
@@ -657,6 +665,14 @@
       "onboard_time": 1737766697,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125964,
+      "num": 125964,
+      "word": "母女遛弯发现地上4亿年前化石",
+      "onboard_time": 1737775578,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125611,
@@ -795,6 +811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105140,
+      "num": 105140,
+      "word": "打工人年前综合症",
+      "onboard_time": 1737773718,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 105015,
       "num": 105015,
       "word": "韩国赢了 围棋输了",
@@ -851,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100657,
+      "num": 100657,
+      "word": "国补4天申请了超1000万件手机数码",
+      "onboard_time": 1737773597,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99615,
       "num": 99615,
       "word": "还有2天放假",
@@ -867,28 +899,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96837,
+      "num": 228534,
+      "word": "女子36年前被堂兄卖给人贩子",
+      "onboard_time": 1737774317,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96051,
+      "num": 279710,
+      "word": "扫码充电莫名被阅读软件扣7000多元",
+      "onboard_time": 1737773656,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95421,
       "num": 95421,
       "word": "虞书欣 狭路",
       "onboard_time": 1737718577,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 94312,
-      "num": 94312,
-      "word": "国补4天申请了超1000万件手机数码",
-      "onboard_time": 1737773597,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94070,
-      "num": 279710,
-      "word": "扫码充电莫名被阅读软件扣7000多元",
-      "onboard_time": 1737773656,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93038,
@@ -931,20 +963,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 86362,
-      "num": 86362,
-      "word": "打工人年前综合症",
-      "onboard_time": 1737773718,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 83873,
       "num": 83873,
       "word": "电影射雕英雄传公布特辑镜头",
       "onboard_time": 1737705199,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 82531,
+      "num": 96628,
+      "word": "赵一博深吸今天的空气",
+      "onboard_time": 1737776176,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 81866,
@@ -1011,11 +1043,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 47804,
-      "num": 228534,
-      "word": "女子36年前被堂兄卖给人贩子",
-      "onboard_time": 1737774317,
-      "rank": 19,
+      "raw_hot": 51716,
+      "num": 342720,
+      "word": "多地进入雨雪鼎盛时段",
+      "onboard_time": 1737774557,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1067,12 +1099,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 35046,
-      "num": 342720,
-      "word": "多地进入雨雪鼎盛时段",
-      "onboard_time": 1737774557,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 35891,
+      "num": 529694,
+      "word": "9组数据速览中国向新发力",
+      "onboard_time": 1737775456,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 34966,
