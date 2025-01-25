@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737787249714,
+  "endTime": 1737789607330,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -611,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1283726,
+      "num": 1283726,
+      "word": "高铁上为何没有E座",
+      "onboard_time": 1737783677,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1264255,
       "num": 1264255,
       "word": "李昀锐新剧空降定档",
@@ -1003,6 +1011,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1032027,
+      "num": 284562,
+      "word": "赵露思请吃饭",
+      "onboard_time": 1737786677,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1028719,
       "num": 1028719,
       "word": "中国36岁男子在柬埔寨坠楼身亡",
@@ -1147,6 +1163,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 955149,
+      "num": 148438,
+      "word": "纪凌尘与女友现身机场",
+      "onboard_time": 1737787877,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 953205,
       "num": 953205,
       "word": "Angelababy王安宇新剧将上线",
@@ -1233,14 +1257,6 @@
       "onboard_time": 1737456018,
       "rank": 49,
       "category": "数码,民生新闻"
-    },
-    {
-      "raw_hot": 924793,
-      "num": 924793,
-      "word": "高铁上为何没有E座",
-      "onboard_time": 1737783677,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 923982,
@@ -1595,6 +1611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 815090,
+      "num": 815090,
+      "word": "女子上门喂猫110元一次一天20家",
+      "onboard_time": 1737785417,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 814989,
       "num": 1130398,
       "word": "遭追尾车上3人身亡肇事司机被判3缓5",
@@ -1659,19 +1683,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 788922,
+      "num": 692486,
+      "word": "小伙长期侧卧玩手机两眼近视差500度",
+      "onboard_time": 1737783857,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 788716,
       "num": 788716,
       "word": "小孩捐10元被工作人员说抠门",
       "onboard_time": 1737603799,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 785181,
-      "num": 785181,
-      "word": "女子上门喂猫110元一次一天20家",
-      "onboard_time": 1737785417,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1705,6 +1729,14 @@
       "onboard_time": 1737493571,
       "rank": 1,
       "category": "网红"
+    },
+    {
+      "raw_hot": 770897,
+      "num": 770897,
+      "word": "制片人眼中的黑榜艺人",
+      "onboard_time": 1737786257,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 769410,
@@ -1953,14 +1985,6 @@
       "onboard_time": 1737427698,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 692486,
-      "num": 692486,
-      "word": "小伙长期侧卧玩手机两眼近视差500度",
-      "onboard_time": 1737783857,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 691735,
@@ -2873,6 +2897,14 @@
       "onboard_time": 1737779239,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 532851,
+      "num": 326816,
+      "word": "倪虹洁自曝曾因身材姣好感到羞耻",
+      "onboard_time": 1737785597,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 531313,
@@ -4595,27 +4627,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 350898,
-      "num": 285829,
-      "word": "倪虹洁自曝曾因身材姣好感到羞耻",
-      "onboard_time": 1737785597,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 350730,
       "num": 285978,
       "word": "哇唧唧哇年会终于有直播了",
       "onboard_time": 1737634219,
       "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 349930,
-      "num": 284562,
-      "word": "赵露思请吃饭",
-      "onboard_time": 1737786677,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -4793,6 +4809,14 @@
       "onboard_time": 1737678319,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 336159,
+      "num": 336159,
+      "word": "珠穆朗玛峰入山费上调为1万5美元",
+      "onboard_time": 1737786257,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 336098,
@@ -5193,6 +5217,14 @@
       "onboard_time": 1737781457,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 307291,
+      "num": 148239,
+      "word": "白敬亭章若楠难哄网飞上线",
+      "onboard_time": 1737788477,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 306404,
@@ -5619,6 +5651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 282012,
+      "num": 282012,
+      "word": "发臭的网约车戳中中年男人的隐痛",
+      "onboard_time": 1737788357,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 281868,
       "num": 218443,
       "word": "夏以昼开门",
@@ -5881,14 +5921,6 @@
       "onboard_time": 1737614419,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 269866,
-      "num": 239808,
-      "word": "制片人眼中的黑榜艺人",
-      "onboard_time": 1737786257,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 269399,
@@ -7400,6 +7432,14 @@
       "word": "莫小贝居然32岁了",
       "onboard_time": 1737245176,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 214936,
+      "num": 147335,
+      "word": "曝长相清纯95小花拜高踩低",
+      "onboard_time": 1737789437,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -9531,14 +9571,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 182478,
-      "num": 240220,
-      "word": "珠穆朗玛峰入山费上调为1万5美元",
-      "onboard_time": 1737786257,
-      "rank": 22,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 182317,
       "num": 182317,
       "word": "2025网络视听盛典节目单",
@@ -10433,6 +10465,14 @@
       "onboard_time": 1737605538,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170635,
+      "num": 147597,
+      "word": "谷爱凌神经系统处于超负荷状态",
+      "onboard_time": 1737785838,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 170565,
@@ -12195,6 +12235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149440,
+      "num": 146960,
+      "word": "自以为飞升的古装中生",
+      "onboard_time": 1737789558,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149267,
       "num": 194606,
       "word": "陈丽君演出现场偶遇尚雯婕朱丹",
@@ -12265,6 +12313,14 @@
       "onboard_time": 1737383120,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148315,
+      "num": 146541,
+      "word": "白鹿2024制片人好感度艺人TOP1",
+      "onboard_time": 1737786677,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 148314,
@@ -12657,6 +12713,14 @@
       "onboard_time": 1737614419,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144866,
+      "num": 144866,
+      "word": "虞书欣草莓味棉花糖",
+      "onboard_time": 1737789197,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 144832,
@@ -14123,6 +14187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129428,
+      "num": 147656,
+      "word": "高铁座位ABCDF是啥意思",
+      "onboard_time": 1737785838,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129285,
       "num": 129285,
       "word": "有恋与深空谁还怕被催婚",
@@ -14315,6 +14387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127702,
+      "num": 127702,
+      "word": "河南省纪委内鬼卢锡恩被双开",
+      "onboard_time": 1737787698,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127638,
       "num": 127638,
       "word": "ChatGPT崩了",
@@ -14339,14 +14419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127350,
-      "num": 127350,
-      "word": "谷爱凌神经系统处于超负荷状态",
-      "onboard_time": 1737785838,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 127290,
       "num": 127290,
       "word": "王也诸葛青双向赴死",
@@ -14368,6 +14440,14 @@
       "word": "3月起公立医疗机构取消门诊预交金",
       "onboard_time": 1737374658,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127069,
+      "num": 230708,
+      "word": "上四休三后工资只剩八成",
+      "onboard_time": 1737786559,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -14859,6 +14939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122594,
+      "num": 148039,
+      "word": "春节哪些美好瞬间让你念念不忘",
+      "onboard_time": 1737787518,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122499,
       "num": 124461,
       "word": "资深围棋裁判谈死子争议",
@@ -15121,14 +15209,6 @@
       "onboard_time": 1737784818,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 119512,
-      "num": 133971,
-      "word": "白鹿2024制片人好感度艺人TOP1",
-      "onboard_time": 1737786677,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 119492,
@@ -15875,12 +15955,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 112006,
-      "num": 112006,
-      "word": "高铁座位ABCDF是啥意思",
-      "onboard_time": 1737785838,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 112033,
+      "num": 112033,
+      "word": "李昀锐清爽男高具像化",
+      "onboard_time": 1737788118,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 111990,
@@ -17875,6 +17955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84345,
+      "num": 127344,
+      "word": "中国汽车的全球学霸",
+      "onboard_time": 1737789378,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84103,
       "num": 84103,
       "word": "为吸引韩国游客上海火锅店店员学会APT了",
@@ -18443,14 +18531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 68710,
-      "num": 230708,
-      "word": "上四休三后工资只剩八成",
-      "onboard_time": 1737786559,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 68472,
       "num": 226478,
       "word": "一代人有一代人的接好运仪式",
@@ -18497,6 +18577,14 @@
       "onboard_time": 1737270558,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 67211,
+      "num": 147401,
+      "word": "曼谷空气污染严重学校停课",
+      "onboard_time": 1737788897,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 67049,
@@ -18873,6 +18961,14 @@
       "onboard_time": 1737713778,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56117,
+      "num": 148260,
+      "word": "当一个打工家庭努力嵌入城市",
+      "onboard_time": 1737788118,
+      "rank": 14,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 55820,
@@ -20025,6 +20121,14 @@
       "onboard_time": 1737536597,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31846,
+      "num": 147453,
+      "word": "被捕80次美国男子抢劫仍被释放",
+      "onboard_time": 1737787997,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 31701,
@@ -21225,6 +21329,14 @@
       "onboard_time": 1737648678,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12195,
+      "num": 147770,
+      "word": "上海少女们的三十年人生起伏",
+      "onboard_time": 1737789259,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 12000,

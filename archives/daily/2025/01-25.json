@@ -1,6 +1,6 @@
 {
   "startTime": 1737736047740,
-  "endTime": 1737787249714,
+  "endTime": 1737789607330,
   "band_list": [
     {
       "raw_hot": 2134060,
@@ -27,6 +27,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1283726,
+      "num": 1283726,
+      "word": "高铁上为何没有E座",
+      "onboard_time": 1737783677,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1175773,
       "num": 361557,
       "word": "濒危尸体花盛开数千人排队参观",
@@ -43,20 +51,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1032027,
+      "num": 284562,
+      "word": "赵露思请吃饭",
+      "onboard_time": 1737786677,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 955149,
+      "num": 148438,
+      "word": "纪凌尘与女友现身机场",
+      "onboard_time": 1737787877,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 927651,
       "num": 1148424,
       "word": "禹宙中欣",
       "onboard_time": 1737764297,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 924793,
-      "num": 924793,
-      "word": "高铁上为何没有E座",
-      "onboard_time": 1737783677,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 868668,
@@ -75,6 +91,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 815090,
+      "num": 815090,
+      "word": "女子上门喂猫110元一次一天20家",
+      "onboard_time": 1737785417,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 813470,
       "num": 813470,
       "word": "15岁女孩到云南边境见男网友",
@@ -83,12 +107,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 785181,
-      "num": 785181,
-      "word": "女子上门喂猫110元一次一天20家",
-      "onboard_time": 1737785417,
-      "rank": 9,
+      "raw_hot": 788922,
+      "num": 692486,
+      "word": "小伙长期侧卧玩手机两眼近视差500度",
+      "onboard_time": 1737783857,
+      "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 770897,
+      "num": 770897,
+      "word": "制片人眼中的黑榜艺人",
+      "onboard_time": 1737786257,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 767086,
@@ -112,14 +144,6 @@
       "word": "第一批上四休三的员工开始主动加班",
       "onboard_time": 1737777977,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 692486,
-      "num": 692486,
-      "word": "小伙长期侧卧玩手机两眼近视差500度",
-      "onboard_time": 1737783857,
-      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -177,6 +201,14 @@
       "onboard_time": 1737779239,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 532851,
+      "num": 326816,
+      "word": "倪虹洁自曝曾因身材姣好感到羞耻",
+      "onboard_time": 1737785597,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 528177,
@@ -331,28 +363,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 350898,
-      "num": 285829,
-      "word": "倪虹洁自曝曾因身材姣好感到羞耻",
-      "onboard_time": 1737785597,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 349930,
-      "num": 284562,
-      "word": "赵露思请吃饭",
-      "onboard_time": 1737786677,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 339536,
       "num": 414325,
       "word": "虞书欣 小红鱼",
       "onboard_time": 1737737537,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 336159,
+      "num": 336159,
+      "word": "珠穆朗玛峰入山费上调为1万5美元",
+      "onboard_time": 1737786257,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 334899,
@@ -403,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307291,
+      "num": 148239,
+      "word": "白敬亭章若楠难哄网飞上线",
+      "onboard_time": 1737788477,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 304861,
       "num": 179317,
       "word": "肖战台词",
@@ -419,19 +451,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 282012,
+      "num": 282012,
+      "word": "发臭的网约车戳中中年男人的隐痛",
+      "onboard_time": 1737788357,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 278335,
       "num": 278335,
       "word": "王俊凯叫了姐姐",
       "onboard_time": 1737763576,
       "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 269866,
-      "num": 239808,
-      "word": "制片人眼中的黑榜艺人",
-      "onboard_time": 1737786257,
-      "rank": 44,
       "category": "艺人"
     },
     {
@@ -611,6 +643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 214936,
+      "num": 147335,
+      "word": "曝长相清纯95小花拜高踩低",
+      "onboard_time": 1737789437,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209834,
       "num": 209834,
       "word": "砂糖橘",
@@ -731,14 +771,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 182478,
-      "num": 240220,
-      "word": "珠穆朗玛峰入山费上调为1万5美元",
-      "onboard_time": 1737786257,
-      "rank": 22,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 180333,
       "num": 162785,
       "word": "男子喝酒过量致呕出全身近一半血",
@@ -801,6 +833,14 @@
       "onboard_time": 1737784098,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170635,
+      "num": 147597,
+      "word": "谷爱凌神经系统处于超负荷状态",
+      "onboard_time": 1737785838,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 169440,
@@ -931,12 +971,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149440,
+      "num": 146960,
+      "word": "自以为飞升的古装中生",
+      "onboard_time": 1737789558,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 148315,
+      "num": 146541,
+      "word": "白鹿2024制片人好感度艺人TOP1",
+      "onboard_time": 1737786677,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147476,
       "num": 147476,
       "word": "甲辰龙年最后一个周末",
       "onboard_time": 1737761115,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144866,
+      "num": 144866,
+      "word": "虞书欣草莓味棉花糖",
+      "onboard_time": 1737789197,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 144618,
@@ -1067,6 +1131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129428,
+      "num": 147656,
+      "word": "高铁座位ABCDF是啥意思",
+      "onboard_time": 1737785838,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129261,
       "num": 129261,
       "word": "美国防部宣布暂停官媒活动",
@@ -1091,12 +1163,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127350,
-      "num": 127350,
-      "word": "谷爱凌神经系统处于超负荷状态",
-      "onboard_time": 1737785838,
-      "rank": 42,
-      "category": "体育"
+      "raw_hot": 127702,
+      "num": 127702,
+      "word": "河南省纪委内鬼卢锡恩被双开",
+      "onboard_time": 1737787698,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127069,
+      "num": 230708,
+      "word": "上四休三后工资只剩八成",
+      "onboard_time": 1737786559,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126723,
@@ -1155,6 +1235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122594,
+      "num": 148039,
+      "word": "春节哪些美好瞬间让你念念不忘",
+      "onboard_time": 1737787518,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121529,
       "num": 121529,
       "word": "黄景瑜送来蛇年新春祝福",
@@ -1177,14 +1265,6 @@
       "onboard_time": 1737784818,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 119512,
-      "num": 133971,
-      "word": "白鹿2024制片人好感度艺人TOP1",
-      "onboard_time": 1737786677,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 119149,
@@ -1275,12 +1355,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112006,
-      "num": 112006,
-      "word": "高铁座位ABCDF是啥意思",
-      "onboard_time": 1737785838,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 112033,
+      "num": 112033,
+      "word": "李昀锐清爽男高具像化",
+      "onboard_time": 1737788118,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 111777,
@@ -1571,6 +1651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84345,
+      "num": 127344,
+      "word": "中国汽车的全球学霸",
+      "onboard_time": 1737789378,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83873,
       "num": 83873,
       "word": "电影射雕英雄传公布特辑镜头",
@@ -1627,20 +1715,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 68710,
-      "num": 230708,
-      "word": "上四休三后工资只剩八成",
-      "onboard_time": 1737786559,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 68356,
       "num": 68356,
       "word": "让人瞬间快乐的8件小事",
       "onboard_time": 1737734839,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 67211,
+      "num": 147401,
+      "word": "曼谷空气污染严重学校停课",
+      "onboard_time": 1737788897,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 60080,
@@ -1665,6 +1753,14 @@
       "onboard_time": 1737780978,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 56117,
+      "num": 148260,
+      "word": "当一个打工家庭努力嵌入城市",
+      "onboard_time": 1737788118,
+      "rank": 14,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 53073,
@@ -1761,6 +1857,14 @@
       "onboard_time": 1737686898,
       "rank": 2,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 31846,
+      "num": 147453,
+      "word": "被捕80次美国男子抢劫仍被释放",
+      "onboard_time": 1737787997,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 31655,
@@ -1913,6 +2017,14 @@
       "onboard_time": 1737742094,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12195,
+      "num": 147770,
+      "word": "上海少女们的三十年人生起伏",
+      "onboard_time": 1737789259,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 7287,
