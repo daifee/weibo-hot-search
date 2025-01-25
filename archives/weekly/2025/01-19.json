@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737811316695,
+  "endTime": 1737812096352,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -995,6 +995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1077788,
+      "num": 292991,
+      "word": "碗盆",
+      "onboard_time": 1737805581,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1072857,
       "num": 451256,
       "word": "特朗普签令将墨西哥湾改名为美国湾",
@@ -1272,14 +1280,6 @@
       "word": "纪凌尘与女友现身机场",
       "onboard_time": 1737787877,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 954172,
-      "num": 292991,
-      "word": "碗盆",
-      "onboard_time": 1737805581,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -3299,6 +3299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 506498,
+      "num": 378098,
+      "word": "陈思诚感谢射雕预售打开市场",
+      "onboard_time": 1737809721,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 506223,
       "num": 212325,
       "word": "赵今麦演出了破天的倒灌感",
@@ -4107,6 +4115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 418958,
+      "num": 325581,
+      "word": "央视新闻专访徐克肖战",
+      "onboard_time": 1737806781,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 418703,
       "num": 319879,
       "word": "何惟芳开大",
@@ -4153,6 +4169,14 @@
       "onboard_time": 1737332357,
       "rank": 5,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 415573,
+      "num": 415573,
+      "word": "网友曝火车站给座椅铺软垫疑为摆拍",
+      "onboard_time": 1737809540,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 415488,
@@ -4579,6 +4603,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 371226,
+      "num": 244549,
+      "word": "陈思诚哭了",
+      "onboard_time": 1737810922,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 371199,
       "num": 384993,
       "word": "手机被撞飞后正掉在车轮下被碾压",
@@ -4835,6 +4867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 354326,
+      "num": 290971,
+      "word": "赵丽颖早期晋江式演技",
+      "onboard_time": 1737810321,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 354060,
       "num": 229652,
       "word": "赵露思明日复工",
@@ -4969,14 +5009,6 @@
       "onboard_time": 1737297500,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 344649,
-      "num": 325581,
-      "word": "央视新闻专访徐克肖战",
-      "onboard_time": 1737806781,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 344516,
@@ -5219,6 +5251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 329834,
+      "num": 291024,
+      "word": "张鑫哽咽感谢白鹿鼓励",
+      "onboard_time": 1737807441,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 329010,
       "num": 329010,
       "word": "肖战射雕预售票房占比",
@@ -5387,6 +5427,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 312647,
+      "num": 232045,
+      "word": "雷军直播时突然被封",
+      "onboard_time": 1737811641,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 312489,
       "num": 312489,
       "word": "RNG对战iG",
@@ -5552,14 +5600,6 @@
       "word": "宋红玉结局",
       "onboard_time": 1737540798,
       "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 305911,
-      "num": 291024,
-      "word": "张鑫哽咽感谢白鹿鼓励",
-      "onboard_time": 1737807441,
-      "rank": 17,
       "category": "剧集"
     },
     {
@@ -5827,14 +5867,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 290971,
-      "num": 290971,
-      "word": "赵丽颖早期晋江式演技",
-      "onboard_time": 1737810321,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 290746,
       "num": 290746,
       "word": "胡歌连发三条微博",
@@ -5849,14 +5881,6 @@
       "onboard_time": 1737297020,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 290397,
-      "num": 290397,
-      "word": "陈思诚感谢射雕预售打开市场",
-      "onboard_time": 1737809721,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 290288,
@@ -7035,14 +7059,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 243286,
-      "num": 293884,
-      "word": "网友曝火车站给座椅铺软垫疑为摆拍",
-      "onboard_time": 1737809540,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 243119,
       "num": 243119,
       "word": "雷军位列全球最佳CEO第八",
@@ -7361,6 +7377,14 @@
       "onboard_time": 1737359958,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232828,
+      "num": 261182,
+      "word": "中国围棋协会拟拒外援",
+      "onboard_time": 1737810562,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 232827,
@@ -9411,6 +9435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192419,
+      "num": 260739,
+      "word": "河南大学火灾事故调查处理情况公布",
+      "onboard_time": 1737809721,
+      "rank": 20,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 192381,
       "num": 192381,
       "word": "张凌赫亲手写的福字",
@@ -9707,6 +9739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 189105,
+      "num": 232338,
+      "word": "王鹤棣这次没告别",
+      "onboard_time": 1737809661,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188956,
       "num": 188956,
       "word": "国色芳华大唐猛女图鉴",
@@ -9913,6 +9953,14 @@
       "onboard_time": 1737526758,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186169,
+      "num": 186169,
+      "word": "iG战胜RNG",
+      "onboard_time": 1737811400,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 186150,
@@ -10489,14 +10537,6 @@
       "onboard_time": 1737609500,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 177867,
-      "num": 260739,
-      "word": "河南大学火灾事故调查处理情况公布",
-      "onboard_time": 1737809721,
-      "rank": 20,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 177824,
@@ -11843,6 +11883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162634,
+      "num": 162634,
+      "word": "何与飞奔抱虞书欣路透",
+      "onboard_time": 1737812001,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162616,
       "num": 221157,
       "word": "千朵桃花八十多天没吻戏了",
@@ -12041,6 +12089,14 @@
       "onboard_time": 1737793878,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 159698,
+      "num": 244777,
+      "word": "2025电影春节档",
+      "onboard_time": 1737805581,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 159695,
@@ -12625,6 +12681,14 @@
       "onboard_time": 1737266838,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153064,
+      "num": 153064,
+      "word": "白鹿说白烁往前走别回头",
+      "onboard_time": 1737810922,
+      "rank": 45,
+      "category": "剧集,综艺"
     },
     {
       "raw_hot": 153005,
@@ -13403,14 +13467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145410,
-      "num": 145410,
-      "word": "2025电影春节档",
-      "onboard_time": 1737805581,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 145313,
       "num": 145313,
       "word": "中方回应是否邀请特朗普访华",
@@ -13449,6 +13505,14 @@
       "onboard_time": 1737208340,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 144963,
+      "num": 232681,
+      "word": "周杰伦ins晒与权志龙合照",
+      "onboard_time": 1737811161,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 144956,
@@ -13641,14 +13705,6 @@
       "onboard_time": 1737258797,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 142940,
-      "num": 142940,
-      "word": "陈思诚哭了",
-      "onboard_time": 1737810922,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 142755,
@@ -14257,6 +14313,14 @@
       "onboard_time": 1737342918,
       "rank": 34,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 136917,
+      "num": 136917,
+      "word": "白月梵星爱奇艺热度破9600",
+      "onboard_time": 1737811581,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 136792,
@@ -14908,7 +14972,7 @@
     },
     {
       "raw_hot": 130861,
-      "num": 130861,
+      "num": 145488,
       "word": "朱广权广州小蛮腰走钢丝",
       "onboard_time": 1737804620,
       "rank": 44,
@@ -15723,14 +15787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123052,
-      "num": 123052,
-      "word": "白鹿说白烁往前走别回头",
-      "onboard_time": 1737810922,
-      "rank": 45,
-      "category": "剧集,综艺"
-    },
-    {
       "raw_hot": 123042,
       "num": 123042,
       "word": "李威被警方第三次传唤",
@@ -15961,14 +16017,6 @@
       "onboard_time": 1737458238,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120934,
-      "num": 261182,
-      "word": "中国围棋协会拟拒外援",
-      "onboard_time": 1737810562,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 120818,
@@ -17451,6 +17499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106269,
+      "num": 146705,
+      "word": "秋瓷炫晒全家福庆46岁生日",
+      "onboard_time": 1737811222,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106259,
       "num": 98046,
       "word": "赵丽颖杜莎夫人沈璃蜡像亮相",
@@ -17769,14 +17825,6 @@
       "onboard_time": 1737413293,
       "rank": 27,
       "category": "体育,作品衍生"
-    },
-    {
-      "raw_hot": 103137,
-      "num": 103137,
-      "word": "秋瓷炫晒全家福庆46岁生日",
-      "onboard_time": 1737811222,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 103068,
@@ -18764,7 +18812,7 @@
     },
     {
       "raw_hot": 88460,
-      "num": 201887,
+      "num": 232025,
       "word": "澳网冠军的胜利时刻",
       "onboard_time": 1737808939,
       "rank": 27,
@@ -20507,6 +20555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47088,
+      "num": 231735,
+      "word": "萨巴伦卡摔球拍",
+      "onboard_time": 1737811342,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47008,
       "num": 146524,
       "word": "钎城也是同款追奉人",
@@ -20881,14 +20937,6 @@
       "onboard_time": 1737398653,
       "rank": 24,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 38348,
-      "num": 190323,
-      "word": "周杰伦ins晒与权志龙合照",
-      "onboard_time": 1737811161,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 37970,

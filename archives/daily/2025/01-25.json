@@ -1,6 +1,6 @@
 {
   "startTime": 1737736047740,
-  "endTime": 1737811316695,
+  "endTime": 1737812096352,
   "band_list": [
     {
       "raw_hot": 4212168,
@@ -139,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1077788,
+      "num": 292991,
+      "word": "碗盆",
+      "onboard_time": 1737805581,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1067626,
       "num": 410621,
       "word": "赵露思请吃饭",
@@ -168,14 +176,6 @@
       "word": "纪凌尘与女友现身机场",
       "onboard_time": 1737787877,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 954172,
-      "num": 292991,
-      "word": "碗盆",
-      "onboard_time": 1737805581,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -451,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 506498,
+      "num": 378098,
+      "word": "陈思诚感谢射雕预售打开市场",
+      "onboard_time": 1737809721,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 502414,
       "num": 423903,
       "word": "医生吐槽麻药有时麻不倒病人",
@@ -523,11 +531,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 418958,
+      "num": 325581,
+      "word": "央视新闻专访徐克肖战",
+      "onboard_time": 1737806781,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 417113,
       "num": 417113,
       "word": "官方通报梅大高速塌方问责",
       "onboard_time": 1737781098,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 415573,
+      "num": 415573,
+      "word": "网友曝火车站给座椅铺软垫疑为摆拍",
+      "onboard_time": 1737809540,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -587,6 +611,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 371226,
+      "num": 244549,
+      "word": "陈思诚哭了",
+      "onboard_time": 1737810922,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 370920,
       "num": 287091,
       "word": "茯苓恶女妆",
@@ -619,6 +651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 354326,
+      "num": 290971,
+      "word": "赵丽颖早期晋江式演技",
+      "onboard_time": 1737810321,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 353100,
       "num": 353100,
       "word": "美国加州旧火未灭新火又来",
@@ -633,14 +673,6 @@
       "onboard_time": 1737718699,
       "rank": 8,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 344649,
-      "num": 325581,
-      "word": "央视新闻专访徐克肖战",
-      "onboard_time": 1737806781,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 341437,
@@ -691,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 329834,
+      "num": 291024,
+      "word": "张鑫哽咽感谢白鹿鼓励",
+      "onboard_time": 1737807441,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 325642,
       "num": 293416,
       "word": "王源一人分饰两角",
@@ -713,6 +753,14 @@
       "onboard_time": 1737724458,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 312647,
+      "num": 232045,
+      "word": "雷军直播时突然被封",
+      "onboard_time": 1737811641,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 312489,
@@ -747,14 +795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 305911,
-      "num": 291024,
-      "word": "张鑫哽咽感谢白鹿鼓励",
-      "onboard_time": 1737807441,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 304861,
       "num": 179317,
       "word": "肖战台词",
@@ -771,28 +811,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 290971,
-      "num": 290971,
-      "word": "赵丽颖早期晋江式演技",
-      "onboard_time": 1737810321,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 290746,
       "num": 290746,
       "word": "胡歌连发三条微博",
       "onboard_time": 1737803900,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 290397,
-      "num": 290397,
-      "word": "陈思诚感谢射雕预售打开市场",
-      "onboard_time": 1737809721,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 290288,
@@ -1003,14 +1027,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 243286,
-      "num": 293884,
-      "word": "网友曝火车站给座椅铺软垫疑为摆拍",
-      "onboard_time": 1737809540,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 241139,
       "num": 327916,
       "word": "台湾5.4级左右地震",
@@ -1041,6 +1057,14 @@
       "onboard_time": 1737776838,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 232828,
+      "num": 261182,
+      "word": "中国围棋协会拟拒外援",
+      "onboard_time": 1737810562,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 232216,
@@ -1307,6 +1331,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 192419,
+      "num": 260739,
+      "word": "河南大学火灾事故调查处理情况公布",
+      "onboard_time": 1737809721,
+      "rank": 20,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 192242,
       "num": 192242,
       "word": "自以为飞升的古装中生",
@@ -1337,6 +1369,22 @@
       "onboard_time": 1737809239,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189105,
+      "num": 232338,
+      "word": "王鹤棣这次没告别",
+      "onboard_time": 1737809661,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 186169,
+      "num": 186169,
+      "word": "iG战胜RNG",
+      "onboard_time": 1737811400,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 185789,
@@ -1393,14 +1441,6 @@
       "onboard_time": 1737730339,
       "rank": 30,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 177867,
-      "num": 260739,
-      "word": "河南大学火灾事故调查处理情况公布",
-      "onboard_time": 1737809721,
-      "rank": 20,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 175513,
@@ -1571,6 +1611,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 162634,
+      "num": 162634,
+      "word": "何与飞奔抱虞书欣路透",
+      "onboard_time": 1737812001,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161803,
       "num": 220437,
       "word": "王俊凯的幸运老K有球必应",
@@ -1601,6 +1649,14 @@
       "onboard_time": 1737793878,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 159698,
+      "num": 244777,
+      "word": "2025电影春节档",
+      "onboard_time": 1737805581,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 159184,
@@ -1665,6 +1721,14 @@
       "onboard_time": 1737776657,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153064,
+      "num": 153064,
+      "word": "白鹿说白烁往前走别回头",
+      "onboard_time": 1737810922,
+      "rank": 45,
+      "category": "剧集,综艺"
     },
     {
       "raw_hot": 151580,
@@ -1747,12 +1811,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 145410,
-      "num": 145410,
-      "word": "2025电影春节档",
-      "onboard_time": 1737805581,
-      "rank": 35,
-      "category": "电影"
+      "raw_hot": 144963,
+      "num": 232681,
+      "word": "周杰伦ins晒与权志龙合照",
+      "onboard_time": 1737811161,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 144618,
@@ -1769,14 +1833,6 @@
       "onboard_time": 1737771018,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 142940,
-      "num": 142940,
-      "word": "陈思诚哭了",
-      "onboard_time": 1737810922,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 142644,
@@ -1883,6 +1939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136917,
+      "num": 136917,
+      "word": "白月梵星爱奇艺热度破9600",
+      "onboard_time": 1737811581,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136643,
       "num": 136643,
       "word": "白敬亭章若楠难哄将网飞上线",
@@ -1964,7 +2028,7 @@
     },
     {
       "raw_hot": 130861,
-      "num": 130861,
+      "num": 145488,
       "word": "朱广权广州小蛮腰走钢丝",
       "onboard_time": 1737804620,
       "rank": 44,
@@ -2099,14 +2163,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 123052,
-      "num": 123052,
-      "word": "白鹿说白烁往前走别回头",
-      "onboard_time": 1737810922,
-      "rank": 45,
-      "category": "剧集,综艺"
-    },
-    {
       "raw_hot": 122913,
       "num": 122913,
       "word": "白鹿敖瑞鹏不语只是一味脸红",
@@ -2137,14 +2193,6 @@
       "onboard_time": 1737772338,
       "rank": 35,
       "category": "美食"
-    },
-    {
-      "raw_hot": 120934,
-      "num": 261182,
-      "word": "中国围棋协会拟拒外援",
-      "onboard_time": 1737810562,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 119619,
@@ -2339,6 +2387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106269,
+      "num": 146705,
+      "word": "秋瓷炫晒全家福庆46岁生日",
+      "onboard_time": 1737811222,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105690,
       "num": 105690,
       "word": "经常运动和经常久坐的区别",
@@ -2409,14 +2465,6 @@
       "onboard_time": 1737782897,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 103137,
-      "num": 103137,
-      "word": "秋瓷炫晒全家福庆46岁生日",
-      "onboard_time": 1737811222,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 103064,
@@ -2644,7 +2692,7 @@
     },
     {
       "raw_hot": 88460,
-      "num": 201887,
+      "num": 232025,
       "word": "澳网冠军的胜利时刻",
       "onboard_time": 1737808939,
       "rank": 27,
@@ -2875,6 +2923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47088,
+      "num": 231735,
+      "word": "萨巴伦卡摔球拍",
+      "onboard_time": 1737811342,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45959,
       "num": 45959,
       "word": "孙颖莎学唱lovestory",
@@ -2928,14 +2984,6 @@
       "word": "蹭车蹦迪的90后女艺人",
       "onboard_time": 1737804141,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 38348,
-      "num": 190323,
-      "word": "周杰伦ins晒与权志龙合照",
-      "onboard_time": 1737811161,
-      "rank": 29,
       "category": "艺人"
     },
     {
