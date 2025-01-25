@@ -1,6 +1,6 @@
 {
   "startTime": 1737736047740,
-  "endTime": 1737801430657,
+  "endTime": 1737803875119,
   "band_list": [
     {
       "raw_hot": 3761403,
@@ -33,6 +33,14 @@
       "onboard_time": 1737765136,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1979319,
+      "num": 1979319,
+      "word": "谷爱凌摔倒已不能走路",
+      "onboard_time": 1737800899,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 1963235,
@@ -75,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1256813,
+      "num": 265357,
+      "word": "张大大录音",
+      "onboard_time": 1737799759,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1175773,
       "num": 361557,
       "word": "濒危尸体花盛开数千人排队参观",
@@ -100,7 +116,7 @@
     },
     {
       "raw_hot": 1035082,
-      "num": 283442,
+      "num": 286086,
       "word": "刘亦菲带火了奥特曼发夹",
       "onboard_time": 1737797777,
       "rank": 13,
@@ -137,14 +153,6 @@
       "onboard_time": 1737792319,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 911416,
-      "num": 274317,
-      "word": "谷爱凌摔倒已不能走路",
-      "onboard_time": 1737800899,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 868668,
@@ -235,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 723205,
+      "num": 1087508,
+      "word": "做了美甲后弟弟逐渐烦我了",
+      "onboard_time": 1737798259,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 720650,
       "num": 542619,
       "word": "第一批上四休三的员工开始主动加班",
@@ -283,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 646664,
+      "num": 646664,
+      "word": "河南暴雪被困12小时车主发声",
+      "onboard_time": 1737801079,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 645225,
       "num": 645225,
       "word": "晓华给奶奶剪王嘉尔同款造型",
@@ -315,28 +339,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 587052,
-      "num": 226757,
-      "word": "张大大录音",
-      "onboard_time": 1737799759,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 560095,
       "num": 203542,
       "word": "仙台有树",
       "onboard_time": 1737725722,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 546926,
-      "num": 1087508,
-      "word": "做了美甲后弟弟逐渐烦我了",
-      "onboard_time": 1737798259,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 533888,
@@ -393,6 +401,14 @@
       "onboard_time": 1737729201,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 475123,
+      "num": 475123,
+      "word": "南京南站4天捡到1000个身份证",
+      "onboard_time": 1737797777,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 464776,
@@ -456,14 +472,6 @@
       "word": "多地禁改限明确春节可燃放烟花爆竹",
       "onboard_time": 1737739695,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 403383,
-      "num": 403383,
-      "word": "南京南站4天捡到1000个身份证",
-      "onboard_time": 1737797777,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -547,6 +555,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 341437,
+      "num": 292606,
+      "word": "杨紫沈梦辰一不小心成了6年的好朋友",
+      "onboard_time": 1737798437,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 339536,
       "num": 414325,
       "word": "虞书欣 小红鱼",
@@ -577,6 +593,14 @@
       "onboard_time": 1737776477,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 325642,
+      "num": 293416,
+      "word": "王源一人分饰两角",
+      "onboard_time": 1737797838,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 321326,
@@ -643,20 +667,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 293416,
-      "num": 293416,
-      "word": "王源一人分饰两角",
-      "onboard_time": 1737797838,
-      "rank": 16,
-      "category": "综艺"
+      "raw_hot": 284698,
+      "num": 284698,
+      "word": "凯斯首夺大满贯冠军",
+      "onboard_time": 1737802759,
+      "rank": 13,
+      "category": "体育"
     },
     {
-      "raw_hot": 292606,
-      "num": 292606,
-      "word": "杨紫沈梦辰一不小心成了6年的好朋友",
-      "onboard_time": 1737798437,
-      "rank": 12,
-      "category": "综艺"
+      "raw_hot": 282117,
+      "num": 296000,
+      "word": "射雕英雄传预售票房进中国影史前十",
+      "onboard_time": 1737794838,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 278335,
@@ -699,6 +723,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 265820,
+      "num": 265820,
+      "word": "权志龙巴黎街头吸烟",
+      "onboard_time": 1737800298,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265336,
       "num": 216146,
       "word": "白鹿对敖瑞鹏说你已经看过日照金山了",
@@ -713,6 +745,14 @@
       "onboard_time": 1737769577,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262449,
+      "num": 262449,
+      "word": "韩安冉妈妈澄清",
+      "onboard_time": 1737798499,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 261771,
@@ -811,20 +851,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228548,
+      "num": 228548,
+      "word": "萨巴伦卡vs凯斯",
+      "onboard_time": 1737794598,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 227271,
       "num": 227271,
       "word": "王毅同美国国务卿鲁比奥通话",
       "onboard_time": 1737735019,
       "rank": 10,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 224706,
-      "num": 224706,
-      "word": "韩安冉妈妈澄清",
-      "onboard_time": 1737798499,
-      "rank": 29,
-      "category": "网红"
     },
     {
       "raw_hot": 224078,
@@ -857,6 +897,14 @@
       "onboard_time": 1737789857,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220299,
+      "num": 292173,
+      "word": "babymonster首尔演唱会",
+      "onboard_time": 1737803061,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 219465,
@@ -897,6 +945,22 @@
       "onboard_time": 1737785838,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212505,
+      "num": 288225,
+      "word": "凯斯澳网女单夺冠",
+      "onboard_time": 1737802820,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 210275,
+      "num": 210275,
+      "word": "当事人回应小姨在团年宴上表白姨夫",
+      "onboard_time": 1737799879,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 209834,
@@ -1035,16 +1099,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 191362,
-      "num": 204810,
-      "word": "权志龙巴黎街头吸烟",
-      "onboard_time": 1737800298,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 189553,
-      "num": 189553,
+      "num": 238368,
       "word": "杨紫回应国色芳华第二部故事背景",
       "onboard_time": 1737800238,
       "rank": 44,
@@ -1097,6 +1153,14 @@
       "onboard_time": 1737730339,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 175513,
+      "num": 175513,
+      "word": "澳网",
+      "onboard_time": 1737798198,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 174644,
@@ -1268,7 +1332,7 @@
     },
     {
       "raw_hot": 158756,
-      "num": 158756,
+      "num": 211009,
       "word": "白月梵星",
       "onboard_time": 1737775758,
       "rank": 26,
@@ -1332,7 +1396,7 @@
     },
     {
       "raw_hot": 151580,
-      "num": 151580,
+      "num": 223217,
       "word": "韩国当事裁判谈柯洁退赛",
       "onboard_time": 1737799400,
       "rank": 37,
@@ -1355,16 +1419,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 150081,
-      "num": 150081,
-      "word": "射雕英雄传预售票房进中国影史前十",
-      "onboard_time": 1737794838,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 149088,
-      "num": 166402,
+      "num": 219929,
       "word": "张翰回老家过年",
       "onboard_time": 1737796219,
       "rank": 35,
@@ -1384,6 +1440,14 @@
       "word": "甲辰龙年最后一个周末",
       "onboard_time": 1737761115,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147434,
+      "num": 147434,
+      "word": "女子表白丈夫20年一句没凶过我",
+      "onboard_time": 1737800180,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -1467,14 +1531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140670,
-      "num": 140670,
-      "word": "河南暴雪被困12小时车主发声",
-      "onboard_time": 1737801079,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140629,
       "num": 140629,
       "word": "黄杨钿甜两部女主剧同屏",
@@ -1505,14 +1561,6 @@
       "onboard_time": 1737791418,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 139417,
-      "num": 139417,
-      "word": "当事人回应小姨在团年宴上表白姨夫",
-      "onboard_time": 1737799879,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 138234,
@@ -1563,11 +1611,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 135583,
+      "num": 135583,
+      "word": "刘晓庆卖签名照",
+      "onboard_time": 1737803540,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134977,
       "num": 134977,
       "word": "制片人夸孟子义懂得感恩",
       "onboard_time": 1737784937,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 133345,
+      "num": 133345,
+      "word": "73岁张纪中哄四胎女儿睡觉",
+      "onboard_time": 1737801319,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -1673,6 +1737,14 @@
       "onboard_time": 1737770656,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125401,
+      "num": 125401,
+      "word": "相思令烟花play",
+      "onboard_time": 1737802640,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 125271,
@@ -1827,6 +1899,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 113576,
+      "num": 113576,
+      "word": "曝爱营销美貌95花耍大牌",
+      "onboard_time": 1737802159,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113521,
       "num": 113521,
       "word": "女神们穿着婚纱牵手走出来那一下",
@@ -1849,14 +1929,6 @@
       "onboard_time": 1737714319,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 112138,
-      "num": 112138,
-      "word": "73岁张纪中哄四胎女儿睡觉",
-      "onboard_time": 1737801319,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 112033,
@@ -1883,6 +1955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110964,
+      "num": 110964,
+      "word": "制片人曝某95花拍亲密戏加戏",
+      "onboard_time": 1737802340,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110877,
       "num": 176006,
       "word": "日本很多小型车站被指撞人事故频发",
@@ -1907,20 +1987,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 108812,
+      "num": 108812,
+      "word": "黑灯说十个勤天手上都是老茧",
+      "onboard_time": 1737803421,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108656,
       "num": 120197,
       "word": "网红烟花加特林价格下跌30%",
       "onboard_time": 1737731479,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107214,
-      "num": 107214,
-      "word": "萨巴伦卡vs凯斯",
-      "onboard_time": 1737794598,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 106319,
@@ -2347,14 +2427,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 58704,
-      "num": 151142,
-      "word": "澳网",
-      "onboard_time": 1737798198,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 58048,
       "num": 100217,
       "word": "当非遗春节遇上非遗项目",
@@ -2419,6 +2491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50666,
+      "num": 274850,
+      "word": "出走的决心原型苏敏靠直播换房车",
+      "onboard_time": 1737802280,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 50535,
       "num": 226472,
       "word": "于适封神直播",
@@ -2428,7 +2508,7 @@
     },
     {
       "raw_hot": 49007,
-      "num": 473269,
+      "num": 660487,
       "word": "春节年俗仪式感拉满",
       "onboard_time": 1737783197,
       "rank": 36,
@@ -2569,6 +2649,14 @@
       "onboard_time": 1737792978,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 28765,
+      "num": 108408,
+      "word": "广告做得这么土不要命了吗",
+      "onboard_time": 1737801500,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 27154,

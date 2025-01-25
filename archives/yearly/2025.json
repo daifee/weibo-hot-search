@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737801430657,
+  "endTime": 1737803875119,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1411,6 +1411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1979319,
+      "num": 1979319,
+      "word": "谷爱凌摔倒已不能走路",
+      "onboard_time": 1737800899,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1964992,
       "num": 1964992,
       "word": "国航 美珍香",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736063488,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1571182,
-      "num": 422307,
-      "word": "黄轩回应公开女友",
-      "onboard_time": 1736952020,
-      "rank": 10,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
