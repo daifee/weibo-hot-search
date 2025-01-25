@@ -1,0 +1,410 @@
+{
+  "runTime": 1737808670792,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1417923,
+        "num": 1417923,
+        "word": "赵露思拐杖",
+        "onboard_time": 1737806960,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1374705,
+        "num": 1374705,
+        "word": "谷爱凌摔倒已不能走路",
+        "onboard_time": 1737800899,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44595,
+        "num": 822177,
+        "word": "春节年俗仪式感拉满",
+        "onboard_time": 1737783197,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 436388,
+        "num": 436388,
+        "word": "乐山地震",
+        "onboard_time": 1737794238,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 435698,
+        "num": 435698,
+        "word": "幻云",
+        "onboard_time": 1737804620,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1599877,
+        "num": 430538,
+        "word": "赵露思回应医学奇迹",
+        "onboard_time": 1737804021,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517125,
+        "num": 427606,
+        "word": "刘亦菲带火了奥特曼发夹",
+        "onboard_time": 1737797777,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423903,
+        "num": 423903,
+        "word": "医生吐槽麻药有时麻不倒病人",
+        "onboard_time": 1737804319,
+        "rank": 7,
+        "category": "舆论监督,健康医疗"
+      },
+      {
+        "raw_hot": 362978,
+        "num": 362978,
+        "word": "肖战练武术画面曝光",
+        "onboard_time": 1737804561,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 330601,
+        "num": 330601,
+        "word": "澳网女单冠亚军都哭了",
+        "onboard_time": 1737805040,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2258290,
+        "num": 330574,
+        "word": "张大大被指暴力殴打工作人员",
+        "onboard_time": 1737798499,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169787,
+        "num": 327916,
+        "word": "台湾5.4级左右地震",
+        "onboard_time": 1737807621,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 745707,
+        "num": 323978,
+        "word": "潘宏请了50多个律师",
+        "onboard_time": 1737805160,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 416929,
+        "num": 322609,
+        "word": "河南暴雪被困12小时车主发声",
+        "onboard_time": 1737801079,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344649,
+        "num": 321236,
+        "word": "央视新闻专访徐克肖战",
+        "onboard_time": 1737806781,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1359263,
+        "num": 318901,
+        "word": "张大大 我的话就是圣旨",
+        "onboard_time": 1737806181,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317122,
+        "num": 317122,
+        "word": "做了美甲后弟弟逐渐烦我了",
+        "onboard_time": 1737798259,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 269289,
+        "num": 269289,
+        "word": "张鑫哽咽感谢白鹿鼓励",
+        "onboard_time": 1737807441,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261056,
+        "num": 261056,
+        "word": "王俊凯我在巴黎等哥",
+        "onboard_time": 1737807320,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136582,
+        "num": 246045,
+        "word": "游戏人的蛇年福利",
+        "onboard_time": 1737806060,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 564156,
+        "num": 241572,
+        "word": "节目组 麦琳身世",
+        "onboard_time": 1737789918,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333047,
+        "num": 239468,
+        "word": "碗盆",
+        "onboard_time": 1737805581,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236885,
+        "num": 236885,
+        "word": "南京南站4天捡到1000个身份证",
+        "onboard_time": 1737797777,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236782,
+        "num": 236782,
+        "word": "五福临门开播",
+        "onboard_time": 1737806539,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101368,
+        "num": 213672,
+        "word": "郑钦文世界排名下跌至第8",
+        "onboard_time": 1737806719,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212405,
+        "num": 212405,
+        "word": "胡歌连发三条微博",
+        "onboard_time": 1737803900,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206918,
+        "num": 206918,
+        "word": "刘晓庆卖签名照",
+        "onboard_time": 1737803540,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196588,
+        "num": 196588,
+        "word": "春联",
+        "onboard_time": 1737808221,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193214,
+        "num": 193214,
+        "word": "李小冉我那漂亮小姨",
+        "onboard_time": 1737804021,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174780,
+        "num": 174780,
+        "word": "你好星期六",
+        "onboard_time": 1737804080,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171473,
+        "num": 171473,
+        "word": "王源一人分饰两角",
+        "onboard_time": 1737797838,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164973,
+        "num": 164973,
+        "word": "老员工收了1000元春节红包遭辞退",
+        "onboard_time": 1737792857,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164943,
+        "num": 164943,
+        "word": "金珉奎 CK",
+        "onboard_time": 1737807800,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163283,
+        "num": 163283,
+        "word": "黄毛毛发声",
+        "onboard_time": 1737804561,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151906,
+        "num": 151906,
+        "word": "郑州出现大暴雪",
+        "onboard_time": 1737791477,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139141,
+        "num": 139141,
+        "word": "2025电影春节档",
+        "onboard_time": 1737805581,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135279,
+        "num": 135279,
+        "word": "杨紫回应国色芳华第二部故事背景",
+        "onboard_time": 1737800238,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129098,
+        "num": 129098,
+        "word": "刘晓庆珠宝被安保公司的保安偷了",
+        "onboard_time": 1737795798,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127561,
+        "num": 127561,
+        "word": "朱广权广州小蛮腰走钢丝",
+        "onboard_time": 1737804620,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127274,
+        "num": 127274,
+        "word": "射雕英雄传预售票房进中国影史前十",
+        "onboard_time": 1737794838,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123526,
+        "num": 123526,
+        "word": "第一批回家的人正在重新定义新年",
+        "onboard_time": 1737808221,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121322,
+        "num": 121322,
+        "word": "货车女司机说怀孕8个月还在跑车",
+        "onboard_time": 1737795258,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120971,
+        "num": 120971,
+        "word": "鞠婧祎坊间最擅舞的女儿",
+        "onboard_time": 1737808458,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115463,
+        "num": 115463,
+        "word": "女子上门喂猫110元一次一天20家",
+        "onboard_time": 1737785417,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109092,
+        "num": 114069,
+        "word": "73岁张纪中哄四胎女儿睡觉",
+        "onboard_time": 1737801319,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113733,
+        "num": 113733,
+        "word": "女儿好像以为我对她的生活很感兴趣",
+        "onboard_time": 1737799337,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112296,
+        "num": 112296,
+        "word": "babymonster首尔演唱会",
+        "onboard_time": 1737803061,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106106,
+        "num": 106106,
+        "word": "权志龙巴黎街头吸烟",
+        "onboard_time": 1737800298,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106064,
+        "num": 106064,
+        "word": "当事人回应小姨在团年宴上表白姨夫",
+        "onboard_time": 1737799879,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104669,
+        "num": 104669,
+        "word": "李嘉琦发文告别团建不能停",
+        "onboard_time": 1737808639,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#暖心祝福激扬奋进力量#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737804917124,
+  "endTime": 1737808670792,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 3761403,
-      "num": 288738,
+      "num": 330574,
       "word": "张大大被指暴力殴打工作人员",
       "onboard_time": 1737798499,
       "rank": 10,
@@ -2987,6 +2987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1417923,
+      "num": 1417923,
+      "word": "赵露思拐杖",
+      "onboard_time": 1737806960,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1411538,
       "num": 819173,
       "word": "葛夕没下车",
@@ -3161,6 +3169,14 @@
       "onboard_time": 1736508080,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1359263,
+      "num": 318901,
+      "word": "张大大 我的话就是圣旨",
+      "onboard_time": 1737806181,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1358503,
@@ -5100,7 +5116,7 @@
     },
     {
       "raw_hot": 1035082,
-      "num": 286086,
+      "num": 427606,
       "word": "刘亦菲带火了奥特曼发夹",
       "onboard_time": 1737797777,
       "rank": 13,
@@ -8337,6 +8353,14 @@
       "onboard_time": 1737613399,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 745707,
+      "num": 323978,
+      "word": "潘宏请了50多个律师",
+      "onboard_time": 1737805160,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 744576,
@@ -16011,6 +16035,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 435698,
+      "num": 435698,
+      "word": "幻云",
+      "onboard_time": 1737804620,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 435466,
       "num": 435466,
       "word": "白鹿百指登顶",
@@ -16481,6 +16513,14 @@
       "onboard_time": 1737463158,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 423903,
+      "num": 423903,
+      "word": "医生吐槽麻药有时麻不倒病人",
+      "onboard_time": 1737804319,
+      "rank": 41,
+      "category": "舆论监督,健康医疗"
     },
     {
       "raw_hot": 423352,
@@ -19331,6 +19371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 362978,
+      "num": 362978,
+      "word": "肖战练武术画面曝光",
+      "onboard_time": 1737804561,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 362816,
       "num": 198509,
       "word": "唯一一个上班让老板亏钱的人",
@@ -20267,6 +20315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 344649,
+      "num": 321236,
+      "word": "央视新闻专访徐克肖战",
+      "onboard_time": 1737806781,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 344516,
       "num": 305555,
       "word": "射雕英雄传预售影史第18",
@@ -20859,6 +20915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 333047,
+      "num": 239468,
+      "word": "碗盆",
+      "onboard_time": 1737805581,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 332722,
       "num": 388796,
       "word": "于正说白鹿的剧都是单扛",
@@ -20993,6 +21057,14 @@
       "onboard_time": 1736945900,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 330601,
+      "num": 330601,
+      "word": "澳网女单冠亚军都哭了",
+      "onboard_time": 1737805040,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 330592,
@@ -25491,6 +25563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269289,
+      "num": 269289,
+      "word": "张鑫哽咽感谢白鹿鼓励",
+      "onboard_time": 1737807441,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 269229,
       "num": 269229,
       "word": "刘晓庆卖签名照",
@@ -26193,6 +26273,14 @@
       "onboard_time": 1737010278,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 261056,
+      "num": 261056,
+      "word": "王俊凯我在巴黎等哥",
+      "onboard_time": 1737807320,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 261008,
@@ -28657,6 +28745,14 @@
       "onboard_time": 1735961540,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 236782,
+      "num": 236782,
+      "word": "五福临门开播",
+      "onboard_time": 1737806539,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 236778,
@@ -35387,6 +35483,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 196588,
+      "num": 196588,
+      "word": "春联",
+      "onboard_time": 1737808221,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 196568,
       "num": 196568,
       "word": "你好星期六三周年",
@@ -35705,14 +35809,6 @@
       "onboard_time": 1736670438,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 195261,
-      "num": 195261,
-      "word": "幻云",
-      "onboard_time": 1737804620,
-      "rank": 29,
-      "category": "电竞"
     },
     {
       "raw_hot": 195255,
@@ -37905,14 +38001,6 @@
       "onboard_time": 1736874134,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 188165,
-      "num": 204410,
-      "word": "肖战练武术画面曝光",
-      "onboard_time": 1737804561,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 188129,
@@ -42611,6 +42699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 169787,
+      "num": 327916,
+      "word": "台湾5.4级左右地震",
+      "onboard_time": 1737807621,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169784,
       "num": 149139,
       "word": "柯洁去年对申真谞也被裁判干扰",
@@ -44019,6 +44115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164943,
+      "num": 164943,
+      "word": "金珉奎 CK",
+      "onboard_time": 1737807800,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164940,
       "num": 227118,
       "word": "樊振东熠熠生辉的28岁",
@@ -44480,6 +44584,14 @@
       "word": "肖战五年变化",
       "onboard_time": 1736396302,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 163283,
+      "num": 163283,
+      "word": "黄毛毛发声",
+      "onboard_time": 1737804561,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -50619,14 +50731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 142374,
-      "num": 142374,
-      "word": "医生吐槽麻药有时麻不倒病人",
-      "onboard_time": 1737804319,
-      "rank": 41,
-      "category": "舆论监督,健康医疗"
-    },
-    {
       "raw_hot": 142349,
       "num": 142349,
       "word": "济南趵突泉的猪锦鲤要减肥了",
@@ -51355,14 +51459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 140220,
-      "num": 140220,
-      "word": "黄毛毛发声",
-      "onboard_time": 1737804561,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 140189,
       "num": 140189,
       "word": "年会抽中一头300斤的活猪",
@@ -51729,6 +51825,14 @@
       "onboard_time": 1737271457,
       "rank": 37,
       "category": "互联网,游戏"
+    },
+    {
+      "raw_hot": 139141,
+      "num": 139141,
+      "word": "2025电影春节档",
+      "onboard_time": 1737805581,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 139127,
@@ -52513,6 +52617,14 @@
       "onboard_time": 1736760140,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136582,
+      "num": 246045,
+      "word": "游戏人的蛇年福利",
+      "onboard_time": 1737806060,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 136577,
@@ -56835,6 +56947,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 123526,
+      "num": 123526,
+      "word": "第一批回家的人正在重新定义新年",
+      "onboard_time": 1737808221,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123505,
       "num": 123505,
       "word": "新兰情侣又牵手发糖了",
@@ -57753,6 +57873,14 @@
       "onboard_time": 1737011898,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120971,
+      "num": 120971,
+      "word": "鞠婧祎坊间最擅舞的女儿",
+      "onboard_time": 1737808458,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 120960,
@@ -62811,6 +62939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104669,
+      "num": 104669,
+      "word": "李嘉琦发文告别团建不能停",
+      "onboard_time": 1737808639,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104624,
       "num": 218934,
       "word": "Icon力挺Doinb",
@@ -63633,6 +63769,14 @@
       "onboard_time": 1737204679,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101368,
+      "num": 213672,
+      "word": "郑钦文世界排名下跌至第8",
+      "onboard_time": 1737806719,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 101324,
