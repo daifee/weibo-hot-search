@@ -1,0 +1,410 @@
+{
+  "runTime": 1737796895299,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1354230,
+        "num": 1354230,
+        "word": "乐山地震",
+        "onboard_time": 1737794238,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 690777,
+        "num": 690777,
+        "word": "郑州出现大暴雪",
+        "onboard_time": 1737791477,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22076,
+        "num": 667185,
+        "word": "9组数据速览中国向新发力",
+        "onboard_time": 1737775456,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 666247,
+        "num": 666247,
+        "word": "向佐回应杨幂模仿自己",
+        "onboard_time": 1737792619,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349804,
+        "num": 349804,
+        "word": "高铁上为何没有E座",
+        "onboard_time": 1737783677,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1602970,
+        "num": 345133,
+        "word": "节目组 麦琳身世",
+        "onboard_time": 1737789918,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337175,
+        "num": 337175,
+        "word": "四川乐山4.1级地震",
+        "onboard_time": 1737794538,
+        "rank": 6,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 329743,
+        "num": 329743,
+        "word": "女子上门喂猫110元一次一天20家",
+        "onboard_time": 1737785417,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328743,
+        "num": 328743,
+        "word": "Doinb道歉",
+        "onboard_time": 1737790458,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 239869,
+        "num": 239869,
+        "word": "王宝强为了腹肌半年没喝酒",
+        "onboard_time": 1737795258,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 960883,
+        "num": 238309,
+        "word": "黄毛毛 张大大",
+        "onboard_time": 1737795798,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 919172,
+        "num": 236721,
+        "word": "烟瘾很大的95生",
+        "onboard_time": 1737792319,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 673429,
+        "num": 234378,
+        "word": "赵露思请吃饭",
+        "onboard_time": 1737786677,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496931,
+        "num": 233534,
+        "word": "刘晓庆珠宝被安保公司的保安偷了",
+        "onboard_time": 1737795798,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61725,
+        "num": 230691,
+        "word": "员工上班摸鱼该不该被拍照曝光",
+        "onboard_time": 1737795438,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 442006,
+        "num": 230190,
+        "word": "曝长相清纯95小花拜高踩低",
+        "onboard_time": 1737789437,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342740,
+        "num": 228401,
+        "word": "纪凌尘与女友现身机场",
+        "onboard_time": 1737787877,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19767,
+        "num": 225076,
+        "word": "女子欲给网恋男友八万元被民警拦下",
+        "onboard_time": 1737796158,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165028,
+        "num": 223748,
+        "word": "爱谈恋爱的待爆00后生",
+        "onboard_time": 1737794238,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41578,
+        "num": 221005,
+        "word": "成龙闪现澳网",
+        "onboard_time": 1737794779,
+        "rank": 19,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 220940,
+        "num": 220940,
+        "word": "何老师都接不住的烂梗出现了",
+        "onboard_time": 1737771677,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 718814,
+        "num": 217122,
+        "word": "黄毛毛曝被6000万粉男艺人殴打",
+        "onboard_time": 1737789918,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514819,
+        "num": 216424,
+        "word": "制片人眼中的黑榜艺人",
+        "onboard_time": 1737786257,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310600,
+        "num": 209572,
+        "word": "老员工收了1000元春节红包遭辞退",
+        "onboard_time": 1737792857,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146078,
+        "num": 207087,
+        "word": "向鱼做真正的自己",
+        "onboard_time": 1737794718,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 205408,
+        "num": 205408,
+        "word": "成都震感",
+        "onboard_time": 1737795020,
+        "rank": 25,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 211018,
+        "num": 184871,
+        "word": "孟子义2024制片人好感度艺人",
+        "onboard_time": 1737793219,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216322,
+        "num": 168915,
+        "word": "白敬亭章若楠难哄网飞上线",
+        "onboard_time": 1737788477,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242085,
+        "num": 165921,
+        "word": "倪虹洁自曝曾因身材姣好感到羞耻",
+        "onboard_time": 1737785597,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148780,
+        "num": 148780,
+        "word": "Jennie新歌ZEN",
+        "onboard_time": 1737783857,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115118,
+        "num": 147646,
+        "word": "射雕经典旋律的江湖代入感太强",
+        "onboard_time": 1737792619,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163255,
+        "num": 147629,
+        "word": "新国辩回应",
+        "onboard_time": 1737793939,
+        "rank": 31,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 147602,
+        "num": 147602,
+        "word": "货车女司机说怀孕8个月还在跑车",
+        "onboard_time": 1737795258,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145826,
+        "num": 145826,
+        "word": "庆奶74岁有五个官司在身",
+        "onboard_time": 1737792737,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136229,
+        "num": 136229,
+        "word": "谷爱凌神经系统处于超负荷状态",
+        "onboard_time": 1737785838,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134914,
+        "num": 134914,
+        "word": "张翰回老家过年",
+        "onboard_time": 1737796219,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120364,
+        "num": 120364,
+        "word": "高铁座位ABCDF是啥意思",
+        "onboard_time": 1737785838,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117772,
+        "num": 117772,
+        "word": "四川开始流行鸡爪灌肠了",
+        "onboard_time": 1737785838,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 112801,
+        "num": 112801,
+        "word": "射雕英雄传预售票房进中国影史前十",
+        "onboard_time": 1737794838,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110304,
+        "num": 110304,
+        "word": "李小冉哭着对刘晓庆说我对不起你",
+        "onboard_time": 1737781337,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102976,
+        "num": 102976,
+        "word": "春运乘警提供的情绪价值",
+        "onboard_time": 1737795379,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102881,
+        "num": 102881,
+        "word": "珠穆朗玛峰入山费上调为1万5美元",
+        "onboard_time": 1737786257,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 102510,
+        "num": 102510,
+        "word": "虞书欣给剧组发新年红包",
+        "onboard_time": 1737793818,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102317,
+        "num": 102317,
+        "word": "小伙长期侧卧玩手机两眼近视差500度",
+        "onboard_time": 1737783857,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100915,
+        "num": 100915,
+        "word": "萨巴伦卡vs凯斯",
+        "onboard_time": 1737794598,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99614,
+        "num": 99614,
+        "word": "爸爸攒一麻袋饮料扛回家给孩子",
+        "onboard_time": 1737789857,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97046,
+        "num": 97046,
+        "word": "TTG向鱼正式连接",
+        "onboard_time": 1737795979,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96811,
+        "num": 96811,
+        "word": "茯苓恶女妆",
+        "onboard_time": 1737785658,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95250,
+        "num": 95250,
+        "word": "刘宇讲出了非遗里的浓浓年味",
+        "onboard_time": 1737790877,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94790,
+        "num": 94790,
+        "word": "片场发疯的95生",
+        "onboard_time": 1737791238,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全国各族人民致新春祝福#"
+    }
+  }
+}

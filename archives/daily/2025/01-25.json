@@ -1,6 +1,6 @@
 {
   "startTime": 1737736047740,
-  "endTime": 1737794301169,
+  "endTime": 1737796895299,
   "band_list": [
     {
       "raw_hot": 2227928,
@@ -35,20 +35,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1354230,
+      "num": 1354230,
+      "word": "乐山地震",
+      "onboard_time": 1737794238,
+      "rank": 1,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1283726,
       "num": 1283726,
       "word": "高铁上为何没有E座",
       "onboard_time": 1737783677,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1258395,
-      "num": 1258395,
-      "word": "乐山地震",
-      "onboard_time": 1737794238,
-      "rank": 1,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 1175773,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 960883,
+      "num": 238309,
+      "word": "黄毛毛 张大大",
+      "onboard_time": 1737795798,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 955149,
       "num": 397239,
       "word": "纪凌尘与女友现身机场",
@@ -97,6 +105,14 @@
       "onboard_time": 1737764297,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 919172,
+      "num": 410044,
+      "word": "烟瘾很大的95生",
+      "onboard_time": 1737792319,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 868668,
@@ -179,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 718814,
+      "num": 553844,
+      "word": "黄毛毛曝被6000万粉男艺人殴打",
+      "onboard_time": 1737789918,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 699369,
       "num": 699369,
       "word": "倪虹洁自曝曾因身材姣好感到羞耻",
@@ -187,12 +211,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 672201,
-      "num": 553844,
-      "word": "黄毛毛曝被6000万粉男艺人殴打",
-      "onboard_time": 1737789918,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 690777,
+      "num": 690777,
+      "word": "郑州出现大暴雪",
+      "onboard_time": 1737791477,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 669939,
@@ -241,22 +265,6 @@
       "onboard_time": 1737765136,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 576713,
-      "num": 410044,
-      "word": "烟瘾很大的95生",
-      "onboard_time": 1737792319,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 573230,
-      "num": 573230,
-      "word": "郑州出现大暴雪",
-      "onboard_time": 1737791477,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 560095,
@@ -313,6 +321,14 @@
       "onboard_time": 1737780857,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 496931,
+      "num": 233534,
+      "word": "刘晓庆珠宝被安保公司的保安偷了",
+      "onboard_time": 1737795798,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 490733,
@@ -467,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 337175,
+      "num": 337175,
+      "word": "四川乐山4.1级地震",
+      "onboard_time": 1737794538,
+      "rank": 6,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 334899,
       "num": 177777,
       "word": "5岁男孩被亲舅舅拐卖离家36年",
@@ -499,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 310600,
+      "num": 213100,
+      "word": "老员工收了1000元春节红包遭辞退",
+      "onboard_time": 1737792857,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 307765,
       "num": 296450,
       "word": "嘘国王在冬眠",
@@ -528,14 +560,6 @@
       "word": "河南暴雪三预警齐发",
       "onboard_time": 1737726501,
       "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 286684,
-      "num": 213100,
-      "word": "老员工收了1000元春节红包遭辞退",
-      "onboard_time": 1737792857,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -649,6 +673,14 @@
       "onboard_time": 1737726680,
       "rank": 3,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 239869,
+      "num": 239869,
+      "word": "王宝强为了腹肌半年没喝酒",
+      "onboard_time": 1737795258,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 239357,
@@ -777,6 +809,14 @@
       "onboard_time": 1737769278,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205408,
+      "num": 205408,
+      "word": "成都震感",
+      "onboard_time": 1737795020,
+      "rank": 25,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 203829,
@@ -1019,12 +1059,28 @@
       "category": "综艺,剧集"
     },
     {
+      "raw_hot": 165028,
+      "num": 223748,
+      "word": "爱谈恋爱的待爆00后生",
+      "onboard_time": 1737794238,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163416,
       "num": 163416,
       "word": "虞书欣草莓味棉花糖",
       "onboard_time": 1737789197,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163255,
+      "num": 147629,
+      "word": "新国辩回应",
+      "onboard_time": 1737793939,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 161803,
@@ -1139,6 +1195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147602,
+      "num": 147602,
+      "word": "货车女司机说怀孕8个月还在跑车",
+      "onboard_time": 1737795258,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147476,
       "num": 147476,
       "word": "甲辰龙年最后一个周末",
@@ -1148,19 +1212,19 @@
     },
     {
       "raw_hot": 146300,
-      "num": 146300,
+      "num": 147646,
       "word": "射雕经典旋律的江湖代入感太强",
       "onboard_time": 1737792619,
       "rank": 34,
       "category": "电影"
     },
     {
-      "raw_hot": 145235,
-      "num": 145235,
-      "word": "新国辩回应",
-      "onboard_time": 1737793939,
-      "rank": 38,
-      "category": "教育"
+      "raw_hot": 146078,
+      "num": 207087,
+      "word": "向鱼做真正的自己",
+      "onboard_time": 1737794718,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 144618,
@@ -1272,6 +1336,14 @@
       "word": "制片人夸孟子义懂得感恩",
       "onboard_time": 1737784937,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 134914,
+      "num": 134914,
+      "word": "张翰回老家过年",
+      "onboard_time": 1737796219,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -1443,14 +1515,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 120768,
-      "num": 137507,
-      "word": "爱谈恋爱的待爆00后生",
-      "onboard_time": 1737794238,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 119619,
       "num": 119619,
       "word": "射雕演员们提前看到了正片",
@@ -1561,6 +1625,14 @@
       "onboard_time": 1737714319,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112801,
+      "num": 112801,
+      "word": "射雕英雄传预售票房进中国影史前十",
+      "onboard_time": 1737794838,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 112033,
@@ -1699,6 +1771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 102976,
+      "num": 102976,
+      "word": "春运乘警提供的情绪价值",
+      "onboard_time": 1737795379,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102955,
       "num": 102955,
       "word": "AHOF组合出道",
@@ -1745,6 +1825,14 @@
       "onboard_time": 1737768917,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100915,
+      "num": 100915,
+      "word": "萨巴伦卡vs凯斯",
+      "onboard_time": 1737794598,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 100892,
@@ -1795,6 +1883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97046,
+      "num": 97046,
+      "word": "TTG向鱼正式连接",
+      "onboard_time": 1737795979,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 96837,
       "num": 228534,
       "word": "女子36年前被堂兄卖给人贩子",
@@ -1817,6 +1913,14 @@
       "onboard_time": 1737718577,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95250,
+      "num": 151935,
+      "word": "刘宇讲出了非遗里的浓浓年味",
+      "onboard_time": 1737790877,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 94050,
@@ -1955,20 +2059,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 68935,
-      "num": 151935,
-      "word": "刘宇讲出了非遗里的浓浓年味",
-      "onboard_time": 1737790877,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 68356,
       "num": 68356,
       "word": "让人瞬间快乐的8件小事",
       "onboard_time": 1737734839,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 61725,
+      "num": 230691,
+      "word": "员工上班摸鱼该不该被拍照曝光",
+      "onboard_time": 1737795438,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60080,
@@ -2057,6 +2161,14 @@
       "onboard_time": 1737755531,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41578,
+      "num": 221005,
+      "word": "成龙闪现澳网",
+      "onboard_time": 1737794779,
+      "rank": 19,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 41324,
@@ -2233,6 +2345,14 @@
       "onboard_time": 1737745632,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19767,
+      "num": 225076,
+      "word": "女子欲给网恋男友八万元被民警拦下",
+      "onboard_time": 1737796158,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19102,

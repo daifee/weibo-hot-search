@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737794301169,
+  "endTime": 1737796895299,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -539,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1354230,
+      "num": 1354230,
+      "word": "乐山地震",
+      "onboard_time": 1737794238,
+      "rank": 1,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1353805,
       "num": 1353805,
       "word": "湖南卫视春晚官宣阵容",
@@ -633,14 +641,6 @@
       "onboard_time": 1737602117,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1258395,
-      "num": 1258395,
-      "word": "乐山地震",
-      "onboard_time": 1737794238,
-      "rank": 1,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 1253564,
@@ -1171,6 +1171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 960883,
+      "num": 238309,
+      "word": "黄毛毛 张大大",
+      "onboard_time": 1737795798,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 959806,
       "num": 959806,
       "word": "美国小哥警告中国不要学美国糟粕",
@@ -1297,6 +1305,14 @@
       "onboard_time": 1737277818,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 919172,
+      "num": 410044,
+      "word": "烟瘾很大的95生",
+      "onboard_time": 1737792319,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 918877,
@@ -1931,6 +1947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 718814,
+      "num": 553844,
+      "word": "黄毛毛曝被6000万粉男艺人殴打",
+      "onboard_time": 1737789918,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 717928,
       "num": 717928,
       "word": "陈震赔付领克500万元违约金",
@@ -2043,6 +2067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 690777,
+      "num": 690777,
+      "word": "郑州出现大暴雪",
+      "onboard_time": 1737791477,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 687464,
       "num": 260208,
       "word": "特朗普发帖呼吁挽救TikTok",
@@ -2073,14 +2105,6 @@
       "onboard_time": 1737328094,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 672201,
-      "num": 553844,
-      "word": "黄毛毛曝被6000万粉男艺人殴打",
-      "onboard_time": 1737789918,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 669939,
@@ -2611,27 +2635,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 576713,
-      "num": 410044,
-      "word": "烟瘾很大的95生",
-      "onboard_time": 1737792319,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 576606,
       "num": 267014,
       "word": "女子出国做断骨增高腿喷脓",
       "onboard_time": 1737207261,
       "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 573230,
-      "num": 573230,
-      "word": "郑州出现大暴雪",
-      "onboard_time": 1737791477,
-      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -3273,6 +3281,14 @@
       "onboard_time": 1737638240,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 496931,
+      "num": 233534,
+      "word": "刘晓庆珠宝被安保公司的保安偷了",
+      "onboard_time": 1737795798,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 495717,
@@ -4899,6 +4915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 337175,
+      "num": 337175,
+      "word": "四川乐山4.1级地震",
+      "onboard_time": 1737794538,
+      "rank": 6,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 336857,
       "num": 336857,
       "word": "杨子回应钻戒没送出去怎么办",
@@ -5201,6 +5225,14 @@
       "onboard_time": 1737599417,
       "rank": 17,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 310600,
+      "num": 213100,
+      "word": "老员工收了1000元春节红包遭辞退",
+      "onboard_time": 1737792857,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 310335,
@@ -5633,14 +5665,6 @@
       "onboard_time": 1737334218,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 286684,
-      "num": 213100,
-      "word": "老员工收了1000元春节红包遭辞退",
-      "onboard_time": 1737792857,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 285837,
@@ -6793,6 +6817,14 @@
       "onboard_time": 1737609018,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 239869,
+      "num": 239869,
+      "word": "王宝强为了腹肌半年没喝酒",
+      "onboard_time": 1737795258,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 239357,
@@ -8025,6 +8057,14 @@
       "onboard_time": 1737556639,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205408,
+      "num": 205408,
+      "word": "成都震感",
+      "onboard_time": 1737795020,
+      "rank": 25,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 205328,
@@ -11107,6 +11147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 165028,
+      "num": 223748,
+      "word": "爱谈恋爱的待爆00后生",
+      "onboard_time": 1737794238,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165024,
       "num": 165024,
       "word": "射雕45分钟预售破千万",
@@ -11241,6 +11289,14 @@
       "onboard_time": 1737705738,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163255,
+      "num": 147629,
+      "word": "新国辩回应",
+      "onboard_time": 1737793939,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 163226,
@@ -12547,6 +12603,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 147602,
+      "num": 147602,
+      "word": "货车女司机说怀孕8个月还在跑车",
+      "onboard_time": 1737795258,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147594,
       "num": 147594,
       "word": "为何找王一博演唱点亮亚洲",
@@ -12724,7 +12788,7 @@
     },
     {
       "raw_hot": 146300,
-      "num": 146300,
+      "num": 147646,
       "word": "射雕经典旋律的江湖代入感太强",
       "onboard_time": 1737792619,
       "rank": 34,
@@ -12753,6 +12817,14 @@
       "onboard_time": 1737637340,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146078,
+      "num": 207087,
+      "word": "向鱼做真正的自己",
+      "onboard_time": 1737794718,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 145973,
@@ -12833,14 +12905,6 @@
       "onboard_time": 1737565815,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 145235,
-      "num": 145235,
-      "word": "新国辩回应",
-      "onboard_time": 1737793939,
-      "rank": 38,
-      "category": "教育"
     },
     {
       "raw_hot": 145214,
@@ -13889,6 +13953,14 @@
       "onboard_time": 1737729800,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 134914,
+      "num": 134914,
+      "word": "张翰回老家过年",
+      "onboard_time": 1737796219,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 134901,
@@ -15283,14 +15355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120768,
-      "num": 137507,
-      "word": "爱谈恋爱的待爆00后生",
-      "onboard_time": 1737794238,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 120763,
       "num": 120763,
       "word": "谢娜钟楚曦爆改杨迪",
@@ -16073,6 +16137,14 @@
       "onboard_time": 1737461419,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112801,
+      "num": 112801,
+      "word": "射雕英雄传预售票房进中国影史前十",
+      "onboard_time": 1737794838,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 112798,
@@ -17075,6 +17147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 102976,
+      "num": 102976,
+      "word": "春运乘警提供的情绪价值",
+      "onboard_time": 1737795379,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102971,
       "num": 102971,
       "word": "时代少年团在新音后台也没闲着",
@@ -17281,6 +17361,14 @@
       "onboard_time": 1737549319,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100915,
+      "num": 100915,
+      "word": "萨巴伦卡vs凯斯",
+      "onboard_time": 1737794598,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 100912,
@@ -17563,6 +17651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97046,
+      "num": 97046,
+      "word": "TTG向鱼正式连接",
+      "onboard_time": 1737795979,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 96946,
       "num": 96946,
       "word": "电影射雕英雄传侠之大者",
@@ -17665,6 +17761,14 @@
       "onboard_time": 1737254956,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 95250,
+      "num": 151935,
+      "word": "刘宇讲出了非遗里的浓浓年味",
+      "onboard_time": 1737790877,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 95157,
@@ -18755,14 +18859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 68935,
-      "num": 151935,
-      "word": "刘宇讲出了非遗里的浓浓年味",
-      "onboard_time": 1737790877,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 68472,
       "num": 226478,
       "word": "一代人有一代人的接好运仪式",
@@ -18977,6 +19073,14 @@
       "onboard_time": 1737700638,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61725,
+      "num": 230691,
+      "word": "员工上班摸鱼该不该被拍照曝光",
+      "onboard_time": 1737795438,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61505,
@@ -19873,6 +19977,14 @@
       "onboard_time": 1737221234,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 41578,
+      "num": 221005,
+      "word": "成龙闪现澳网",
+      "onboard_time": 1737794779,
+      "rank": 19,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 41472,
@@ -21145,6 +21257,14 @@
       "onboard_time": 1737489011,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 19767,
+      "num": 225076,
+      "word": "女子欲给网恋男友八万元被民警拦下",
+      "onboard_time": 1737796158,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19749,
