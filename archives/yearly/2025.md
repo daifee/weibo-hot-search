@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/25 07:35:31
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/25 09:35:53
 </p>
 </blockquote>
 <p>
@@ -875,6 +875,12 @@ TikTok停止在美服务（热度：2463156）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%89%AB%E5%B8%9A%E6%8F%90%E5%90%8D%E5%90%8D%E5%8D%95%23" target="weibo">
 金扫帚提名名单（热度：2136319）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%81%B7%E6%8B%BF%E5%A6%88%E5%A6%88%E7%99%BE%E4%B8%87%E7%8F%A0%E5%AE%9D%E5%8D%96%E4%BA%8660%E5%85%83%23" target="weibo">
+女孩偷拿妈妈百万珠宝卖了60元（热度：2134060）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ AG挑战者杯夺冠（热度：1652837）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%9C%A3%E4%BE%9D%E5%8F%91%E6%96%87%E6%B2%A1%E6%9C%89%E4%B8%80%E5%8F%A5%E6%8F%90%E6%9D%A8%E5%AD%90%23" target="weibo">
 黄圣依发文没有一句提杨子（热度：1562767）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E7%AB%9E%E6%96%87%E7%94%B7%E4%B8%BB%E6%9C%89%E8%84%B8%E4%BA%86%23" target="weibo">
-电竞文男主有脸了（热度：1559260）
 </a>
 </li>
 

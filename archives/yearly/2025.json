@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737761731378,
+  "endTime": 1737768953812,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1155,6 +1155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 2134060,
+      "num": 2134060,
+      "word": "女孩偷拿妈妈百万珠宝卖了60元",
+      "onboard_time": 1737765136,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2127395,
       "num": 2127395,
       "word": "王菲 春晚",
@@ -1388,7 +1396,7 @@
     },
     {
       "raw_hot": 1963235,
-      "num": 184627,
+      "num": 204909,
       "word": "霸王茶姬发文致歉",
       "onboard_time": 1737734719,
       "rank": 11,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736495480,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1559260,
-      "num": 1559260,
-      "word": "电竞文男主有脸了",
-      "onboard_time": 1735900819,
-      "rank": 5,
-      "category": "电竞"
     }
   ],
   "hotgov_list": [

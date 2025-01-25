@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/25 07:35:31
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/25 09:35:53
 </p>
 </blockquote>
 <p>
@@ -875,6 +875,12 @@ TikTok停止在美服务（热度：2463156）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%89%AB%E5%B8%9A%E6%8F%90%E5%90%8D%E5%90%8D%E5%8D%95%23" target="weibo">
 金扫帚提名名单（热度：2136319）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%81%B7%E6%8B%BF%E5%A6%88%E5%A6%88%E7%99%BE%E4%B8%87%E7%8F%A0%E5%AE%9D%E5%8D%96%E4%BA%8660%E5%85%83%23" target="weibo">
+女孩偷拿妈妈百万珠宝卖了60元（热度：2134060）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ GMM（热度：773720）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E9%9C%84%E8%B4%A4%E5%A7%90%E5%A7%90%E5%9B%9E%E5%BA%94%E8%BE%9B%E9%9B%A8%E9%94%A1%23" target="weibo">
 秦霄贤姐姐回应辛雨锡（热度：755901）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E6%8A%8A%E6%A2%B3%E5%AD%90%E5%81%9A%E6%88%90%E6%9F%BF%E5%AD%90%E5%BD%A2%E7%8A%B6%E5%8D%96%E4%BA%865%E4%B8%87%E6%8A%8A%23" target="weibo">
-小伙把梳子做成柿子形状卖了5万把（热度：754567）
 </a>
 </li>
 
