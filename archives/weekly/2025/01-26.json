@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737844729835,
+  "endTime": 1737847258554,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -33,6 +33,14 @@
       "onboard_time": 1737816623,
       "rank": 3,
       "category": "艺人,演出"
+    },
+    {
+      "raw_hot": 640496,
+      "num": 796923,
+      "word": "起底张大大背后的mcn公司",
+      "onboard_time": 1737846433,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 626649,
@@ -107,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317558,
+      "num": 147467,
+      "word": "特朗普与洛杉矶市长爆发争吵",
+      "onboard_time": 1737846313,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 303315,
       "num": 303315,
       "word": "周杰伦ins晒与权志龙合照",
@@ -139,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248628,
+      "num": 248628,
+      "word": "网友不买账霸王茶姬评论区致歉",
+      "onboard_time": 1737823156,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 240487,
       "num": 204626,
       "word": "节目组 麦琳身世",
@@ -161,14 +185,6 @@
       "onboard_time": 1737816262,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 211342,
-      "num": 211342,
-      "word": "网友不买账霸王茶姬评论区致歉",
-      "onboard_time": 1737823156,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 209948,
@@ -249,6 +265,14 @@
       "onboard_time": 1737804561,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 126372,
+      "num": 126372,
+      "word": "东北爷爷宠孙女有了新高度",
+      "onboard_time": 1737827894,
+      "rank": 48,
+      "category": "正能量"
     },
     {
       "raw_hot": 121538,
@@ -347,6 +371,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 98474,
+      "num": 98474,
+      "word": "河南局地暴雪深度超20厘米",
+      "onboard_time": 1737840431,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96376,
       "num": 96376,
       "word": "韩安冉再回应前夫破产",
@@ -395,14 +427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 75022,
-      "num": 75022,
-      "word": "河南局地暴雪深度超20厘米",
-      "onboard_time": 1737840431,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72832,
       "num": 72832,
       "word": "胡歌刘诗诗街采路人ie分明",
@@ -435,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 67912,
+      "num": 67912,
+      "word": "打工宝妈在国色芳华里演上了贵人",
+      "onboard_time": 1737846193,
+      "rank": 23,
+      "category": "剧集,民生新闻"
+    },
+    {
       "raw_hot": 66275,
       "num": 100814,
       "word": "赵小童把相册照片抖一抖",
@@ -449,6 +481,22 @@
       "onboard_time": 1737823578,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 59489,
+      "num": 59489,
+      "word": "14岁女孩玩挖宝花光母亲14万打工钱",
+      "onboard_time": 1737846374,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57848,
+      "num": 57848,
+      "word": "赵露思说感觉自己重新站起来了",
+      "onboard_time": 1737833652,
+      "rank": 28,
+      "category": "艺人,艺人"
     },
     {
       "raw_hot": 57514,
@@ -475,28 +523,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 51015,
-      "num": 51015,
-      "word": "赵露思说感觉自己重新站起来了",
-      "onboard_time": 1737833652,
-      "rank": 28,
-      "category": "艺人,艺人"
-    },
-    {
-      "raw_hot": 46221,
-      "num": 83484,
-      "word": "东北爷爷宠孙女有了新高度",
-      "onboard_time": 1737827894,
-      "rank": 48,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 46129,
       "num": 64671,
       "word": "俱乐部已找到电竞选手幻云本人",
       "onboard_time": 1737825736,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 44703,
+      "num": 44703,
+      "word": "河南暴雪亲历者发声",
+      "onboard_time": 1737828373,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39248,
@@ -515,12 +555,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31836,
-      "num": 31836,
-      "word": "河南暴雪亲历者发声",
-      "onboard_time": 1737828373,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 30345,
+      "num": 147793,
+      "word": "黄毛毛控诉受到无忧传媒威胁",
+      "onboard_time": 1737846493,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 29763,
+      "num": 84629,
+      "word": "刘宇宁直播规劝粉丝",
+      "onboard_time": 1737846374,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 28226,
@@ -531,12 +579,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25449,
+      "num": 34974,
+      "word": "老君山的玻璃滑道太有戏了",
+      "onboard_time": 1737838092,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 25240,
       "num": 25240,
       "word": "女子推理社全员空降超话",
       "onboard_time": 1737831433,
       "rank": 41,
       "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 25038,
+      "num": 34970,
+      "word": "年轻人意识到健康比赚钱更加重要",
+      "onboard_time": 1737846674,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23982,
@@ -547,20 +611,20 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 23662,
+      "num": 34964,
+      "word": "西藏有一种像棒棒糖的鼓",
+      "onboard_time": 1737836231,
+      "rank": 40,
+      "category": "民生新闻,幽默"
+    },
+    {
       "raw_hot": 23628,
       "num": 68002,
       "word": "墨西哥拒绝美驱逐移民军机降落请求",
       "onboard_time": 1737830173,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 23587,
-      "num": 25316,
-      "word": "老君山的玻璃滑道太有戏了",
-      "onboard_time": 1737838092,
-      "rank": 39,
-      "category": "旅游"
     },
     {
       "raw_hot": 23062,
@@ -633,14 +697,6 @@
       "onboard_time": 1737842832,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8561,
-      "num": 23230,
-      "word": "西藏有一种像棒棒糖的鼓",
-      "onboard_time": 1737836231,
-      "rank": 40,
-      "category": "民生新闻,幽默"
     }
   ],
   "hotgov_list": [
