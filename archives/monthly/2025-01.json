@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737796895299,
+  "endTime": 1737797734679,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -2793,6 +2793,14 @@
       "onboard_time": 1737501735,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1456428,
+      "num": 266409,
+      "word": "黄毛毛 张大大",
+      "onboard_time": 1737795798,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1454805,
@@ -5633,14 +5641,6 @@
       "onboard_time": 1737697279,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 960883,
-      "num": 238309,
-      "word": "黄毛毛 张大大",
-      "onboard_time": 1737795798,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 960505,
@@ -8505,6 +8505,14 @@
       "onboard_time": 1735912399,
       "rank": 6,
       "category": "网红"
+    },
+    {
+      "raw_hot": 733415,
+      "num": 733415,
+      "word": "刘晓庆珠宝被安保公司的保安偷了",
+      "onboard_time": 1737795798,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 733399,
@@ -13839,14 +13847,6 @@
       "num": 422312,
       "word": "2025春晚4个分会场首次合排",
       "onboard_time": 1737158775,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 496931,
-      "num": 233534,
-      "word": "刘晓庆珠宝被安保公司的保安偷了",
-      "onboard_time": 1737795798,
       "rank": 13,
       "category": "综艺"
     },
@@ -26851,6 +26851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 252907,
+      "num": 252907,
+      "word": "王宝强为了腹肌半年没喝酒",
+      "onboard_time": 1737795258,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 252711,
       "num": 240586,
       "word": "马龙不语只是一味地帅",
@@ -28169,14 +28177,6 @@
       "onboard_time": 1736810356,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 239869,
-      "num": 239869,
-      "word": "王宝强为了腹肌半年没喝酒",
-      "onboard_time": 1737795258,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 239803,
@@ -44236,7 +44236,7 @@
     },
     {
       "raw_hot": 163255,
-      "num": 147629,
+      "num": 153589,
       "word": "新国辩回应",
       "onboard_time": 1737793939,
       "rank": 38,
@@ -44993,6 +44993,14 @@
       "onboard_time": 1736168843,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160674,
+      "num": 160674,
+      "word": "货车女司机说怀孕8个月还在跑车",
+      "onboard_time": 1737795258,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160590,
@@ -48251,6 +48259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149088,
+      "num": 149088,
+      "word": "张翰回老家过年",
+      "onboard_time": 1737796219,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149078,
       "num": 212775,
       "word": "19.9元的电影票回来了",
@@ -48731,14 +48747,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 147602,
-      "num": 147602,
-      "word": "货车女司机说怀孕8个月还在跑车",
-      "onboard_time": 1737795258,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 147594,
       "num": 147594,
       "word": "为何找王一博演唱点亮亚洲",
@@ -49212,7 +49220,7 @@
     },
     {
       "raw_hot": 146300,
-      "num": 147646,
+      "num": 275622,
       "word": "射雕经典旋律的江湖代入感太强",
       "onboard_time": 1737792619,
       "rank": 34,
@@ -50273,6 +50281,14 @@
       "onboard_time": 1737735619,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 142576,
+      "num": 142576,
+      "word": "杨紫李现二搭的含金量还在上升",
+      "onboard_time": 1737797118,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 142572,
@@ -52825,14 +52841,6 @@
       "onboard_time": 1736077886,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 134914,
-      "num": 134914,
-      "word": "张翰回老家过年",
-      "onboard_time": 1737796219,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 134901,
@@ -56092,7 +56100,7 @@
     },
     {
       "raw_hot": 124747,
-      "num": 124747,
+      "num": 196435,
       "word": "贾静雯一家五口上海逛街",
       "onboard_time": 1737790757,
       "rank": 44,
@@ -61675,6 +61683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107214,
+      "num": 107214,
+      "word": "萨巴伦卡vs凯斯",
+      "onboard_time": 1737794598,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107189,
       "num": 324462,
       "word": "A股市场超5200只个股上涨",
@@ -63345,14 +63361,6 @@
       "onboard_time": 1737549319,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 100915,
-      "num": 100915,
-      "word": "萨巴伦卡vs凯斯",
-      "onboard_time": 1737794598,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 100912,
@@ -65603,6 +65611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88872,
+      "num": 88872,
+      "word": "五福临门云包场",
+      "onboard_time": 1737797598,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88801,
       "num": 180047,
       "word": "尹锡悦说在看守所一切安好",
@@ -65665,6 +65681,14 @@
       "onboard_time": 1737280759,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 88399,
+      "num": 88399,
+      "word": "减肥人为了朋友含泪吃生日蛋糕",
+      "onboard_time": 1737797059,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 88391,
@@ -66123,6 +66147,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 85687,
+      "num": 85687,
+      "word": "RNG对战iG",
+      "onboard_time": 1737797477,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 85654,
       "num": 85654,
       "word": "数九寒天健康日历",
@@ -66249,6 +66281,14 @@
       "onboard_time": 1737162618,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 84867,
+      "num": 230691,
+      "word": "员工上班摸鱼该不该被拍照曝光",
+      "onboard_time": 1737795438,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84796,
@@ -68883,6 +68923,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 65963,
+      "num": 190602,
+      "word": "SK再度担任eStar主教练",
+      "onboard_time": 1737791179,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 65944,
       "num": 69759,
       "word": "巴萨8轮联赛仅1胜",
@@ -69457,14 +69505,6 @@
       "onboard_time": 1737700638,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 61725,
-      "num": 230691,
-      "word": "员工上班摸鱼该不该被拍照曝光",
-      "onboard_time": 1737795438,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61700,
@@ -70209,6 +70249,14 @@
       "onboard_time": 1736396543,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 57057,
+      "num": 225076,
+      "word": "女子欲给网恋男友八万元被民警拦下",
+      "onboard_time": 1737796158,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57056,
@@ -77849,14 +77897,6 @@
       "onboard_time": 1736447772,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 19767,
-      "num": 225076,
-      "word": "女子欲给网恋男友八万元被民警拦下",
-      "onboard_time": 1737796158,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19749,

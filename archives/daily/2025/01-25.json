@@ -1,6 +1,6 @@
 {
   "startTime": 1737736047740,
-  "endTime": 1737796895299,
+  "endTime": 1737797734679,
   "band_list": [
     {
       "raw_hot": 2227928,
@@ -33,6 +33,14 @@
       "onboard_time": 1737771677,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1456428,
+      "num": 266409,
+      "word": "黄毛毛 张大大",
+      "onboard_time": 1737795798,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1354230,
@@ -80,14 +88,6 @@
       "word": "制片人眼中的黑榜艺人",
       "onboard_time": 1737786257,
       "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 960883,
-      "num": 238309,
-      "word": "黄毛毛 张大大",
-      "onboard_time": 1737795798,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -185,6 +185,14 @@
       "onboard_time": 1737792619,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 733415,
+      "num": 733415,
+      "word": "刘晓庆珠宝被安保公司的保安偷了",
+      "onboard_time": 1737795798,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 720650,
@@ -321,14 +329,6 @@
       "onboard_time": 1737780857,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 496931,
-      "num": 233534,
-      "word": "刘晓庆珠宝被安保公司的保安偷了",
-      "onboard_time": 1737795798,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 490733,
@@ -651,6 +651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252907,
+      "num": 252907,
+      "word": "王宝强为了腹肌半年没喝酒",
+      "onboard_time": 1737795258,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 248798,
       "num": 180505,
       "word": "王俊凯接管DIOR官微",
@@ -673,14 +681,6 @@
       "onboard_time": 1737726680,
       "rank": 3,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 239869,
-      "num": 239869,
-      "word": "王宝强为了腹肌半年没喝酒",
-      "onboard_time": 1737795258,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 239357,
@@ -1076,7 +1076,7 @@
     },
     {
       "raw_hot": 163255,
-      "num": 147629,
+      "num": 153589,
       "word": "新国辩回应",
       "onboard_time": 1737793939,
       "rank": 38,
@@ -1097,6 +1097,14 @@
       "onboard_time": 1737778338,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160674,
+      "num": 160674,
+      "word": "货车女司机说怀孕8个月还在跑车",
+      "onboard_time": 1737795258,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159724,
@@ -1187,20 +1195,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149088,
+      "num": 149088,
+      "word": "张翰回老家过年",
+      "onboard_time": 1737796219,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148315,
       "num": 146541,
       "word": "白鹿2024制片人好感度艺人TOP1",
       "onboard_time": 1737786677,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 147602,
-      "num": 147602,
-      "word": "货车女司机说怀孕8个月还在跑车",
-      "onboard_time": 1737795258,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 147476,
@@ -1212,7 +1220,7 @@
     },
     {
       "raw_hot": 146300,
-      "num": 147646,
+      "num": 275622,
       "word": "射雕经典旋律的江湖代入感太强",
       "onboard_time": 1737792619,
       "rank": 34,
@@ -1257,6 +1265,14 @@
       "onboard_time": 1737735619,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 142576,
+      "num": 142576,
+      "word": "杨紫李现二搭的含金量还在上升",
+      "onboard_time": 1737797118,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 142005,
@@ -1336,14 +1352,6 @@
       "word": "制片人夸孟子义懂得感恩",
       "onboard_time": 1737784937,
       "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 134914,
-      "num": 134914,
-      "word": "张翰回老家过年",
-      "onboard_time": 1737796219,
-      "rank": 35,
       "category": "艺人"
     },
     {
@@ -1468,7 +1476,7 @@
     },
     {
       "raw_hot": 124747,
-      "num": 124747,
+      "num": 196435,
       "word": "贾静雯一家五口上海逛街",
       "onboard_time": 1737790757,
       "rank": 44,
@@ -1691,6 +1699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107214,
+      "num": 107214,
+      "word": "萨巴伦卡vs凯斯",
+      "onboard_time": 1737794598,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106319,
       "num": 106319,
       "word": "胡冰卿清冷古韵骨相",
@@ -1825,14 +1841,6 @@
       "onboard_time": 1737768917,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 100915,
-      "num": 100915,
-      "word": "萨巴伦卡vs凯斯",
-      "onboard_time": 1737794598,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 100892,
@@ -1971,6 +1979,38 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 88872,
+      "num": 88872,
+      "word": "五福临门云包场",
+      "onboard_time": 1737797598,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 88399,
+      "num": 88399,
+      "word": "减肥人为了朋友含泪吃生日蛋糕",
+      "onboard_time": 1737797059,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 85687,
+      "num": 85687,
+      "word": "RNG对战iG",
+      "onboard_time": 1737797477,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 84867,
+      "num": 230691,
+      "word": "员工上班摸鱼该不该被拍照曝光",
+      "onboard_time": 1737795438,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84766,
       "num": 84766,
       "word": "虞书欣网络视听盛典的幕后vlog",
@@ -2067,12 +2107,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 61725,
-      "num": 230691,
-      "word": "员工上班摸鱼该不该被拍照曝光",
-      "onboard_time": 1737795438,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 65963,
+      "num": 190602,
+      "word": "SK再度担任eStar主教练",
+      "onboard_time": 1737791179,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 60080,
@@ -2104,6 +2144,14 @@
       "word": "00后网恋失败崩溃痛哭欲轻生",
       "onboard_time": 1737789619,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57057,
+      "num": 225076,
+      "word": "女子欲给网恋男友八万元被民警拦下",
+      "onboard_time": 1737796158,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -2345,14 +2393,6 @@
       "onboard_time": 1737745632,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 19767,
-      "num": 225076,
-      "word": "女子欲给网恋男友八万元被民警拦下",
-      "onboard_time": 1737796158,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19102,
