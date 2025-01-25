@@ -1,7 +1,15 @@
 {
   "startTime": 1737736047740,
-  "endTime": 1737797734679,
+  "endTime": 1737800448716,
   "band_list": [
+    {
+      "raw_hot": 3761403,
+      "num": 246240,
+      "word": "张大大被指暴力殴打工作人员",
+      "onboard_time": 1737798499,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2227928,
       "num": 2227928,
@@ -25,6 +33,14 @@
       "onboard_time": 1737734719,
       "rank": 11,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1851483,
+      "num": 1851483,
+      "word": "赵露思直播",
+      "onboard_time": 1737800420,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1846407,
@@ -83,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1035082,
+      "num": 236637,
+      "word": "刘亦菲带火了奥特曼发夹",
+      "onboard_time": 1737797777,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 998135,
       "num": 998135,
       "word": "制片人眼中的黑榜艺人",
@@ -121,6 +145,14 @@
       "onboard_time": 1737774736,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 858481,
+      "num": 229150,
+      "word": "小谢晒与赵露思合照",
+      "onboard_time": 1737798198,
+      "rank": 15,
+      "category": "艺人,网红"
     },
     {
       "raw_hot": 827335,
@@ -275,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 587052,
+      "num": 226757,
+      "word": "张大大录音",
+      "onboard_time": 1737799759,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 560095,
       "num": 203542,
       "word": "仙台有树",
@@ -329,6 +369,14 @@
       "onboard_time": 1737780857,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 499822,
+      "num": 226569,
+      "word": "做了美甲后弟弟逐渐烦我了",
+      "onboard_time": 1737798259,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 490733,
@@ -523,8 +571,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 312489,
+      "num": 312489,
+      "word": "RNG对战iG",
+      "onboard_time": 1737797477,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 310600,
-      "num": 213100,
+      "num": 223801,
       "word": "老员工收了1000元春节红包遭辞退",
       "onboard_time": 1737792857,
       "rank": 27,
@@ -561,6 +617,14 @@
       "onboard_time": 1737726501,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 283879,
+      "num": 225752,
+      "word": "刘学义",
+      "onboard_time": 1737798021,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 278335,
@@ -609,6 +673,14 @@
       "onboard_time": 1737736277,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 265237,
+      "num": 265237,
+      "word": "南京南站4天捡到1000个身份证",
+      "onboard_time": 1737797777,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 263591,
@@ -675,6 +747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 246092,
+      "num": 246092,
+      "word": "杨紫沈梦辰一不小心成了6年的好朋友",
+      "onboard_time": 1737798437,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243465,
       "num": 243465,
       "word": "用人民币感受韩国工资水平",
@@ -721,6 +801,22 @@
       "onboard_time": 1737735019,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 226927,
+      "num": 226927,
+      "word": "王源一人分饰两角",
+      "onboard_time": 1737797838,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 224706,
+      "num": 224706,
+      "word": "韩安冉妈妈澄清",
+      "onboard_time": 1737798499,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 224078,
@@ -841,6 +937,14 @@
       "onboard_time": 1737775097,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 201185,
+      "num": 201185,
+      "word": "熊大熊二不语只是一味赶高铁",
+      "onboard_time": 1737799999,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 199564,
@@ -1067,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165023,
+      "num": 165023,
+      "word": "吴艳妮说穿衣化妆为取悦自己",
+      "onboard_time": 1737797777,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163416,
       "num": 163416,
       "word": "虞书欣草莓味棉花糖",
@@ -1179,6 +1291,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153206,
+      "num": 153206,
+      "word": "女儿好像以为我对她的生活很感兴趣",
+      "onboard_time": 1737799337,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 151580,
+      "num": 151580,
+      "word": "韩国当事裁判谈柯洁退赛",
+      "onboard_time": 1737799400,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150762,
       "num": 150762,
       "word": "韩素希南柱赫同框",
@@ -1225,6 +1353,14 @@
       "onboard_time": 1737792619,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 146243,
+      "num": 146243,
+      "word": "林高远巴黎时装周云走秀",
+      "onboard_time": 1737798919,
+      "rank": 38,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 146078,
@@ -1307,6 +1443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 139794,
+      "num": 139794,
+      "word": "射雕英雄传预售票房进中国影史前十",
+      "onboard_time": 1737794838,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 138234,
       "num": 155747,
       "word": "杨紫化身领队",
@@ -1331,6 +1475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136643,
+      "num": 136643,
+      "word": "白敬亭章若楠难哄将网飞上线",
+      "onboard_time": 1737788477,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136437,
       "num": 136437,
       "word": "蛇年快把设计师逼没辙了",
@@ -1353,6 +1505,14 @@
       "onboard_time": 1737784937,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134790,
+      "num": 134790,
+      "word": "萨巴伦卡状态",
+      "onboard_time": 1737799879,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 133325,
@@ -1403,6 +1563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 129047,
+      "num": 129047,
+      "word": "杨紫回应国色芳华第二部故事背景",
+      "onboard_time": 1737800238,
+      "rank": 44,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 129044,
       "num": 129044,
       "word": "外国网友拆箱中国寄来的礼物",
@@ -1417,6 +1585,14 @@
       "onboard_time": 1737766697,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128177,
+      "num": 128177,
+      "word": "权志龙巴黎街头吸烟",
+      "onboard_time": 1737800298,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 127702,
@@ -1504,6 +1680,14 @@
       "word": "春节哪些美好瞬间让你念念不忘",
       "onboard_time": 1737787518,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121544,
+      "num": 121544,
+      "word": "当事人回应小姨在团年宴上表白姨夫",
+      "onboard_time": 1737799879,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -1633,14 +1817,6 @@
       "onboard_time": 1737714319,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 112801,
-      "num": 112801,
-      "word": "射雕英雄传预售票房进中国影史前十",
-      "onboard_time": 1737794838,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 112033,
@@ -1892,7 +2068,7 @@
     },
     {
       "raw_hot": 97046,
-      "num": 97046,
+      "num": 225499,
       "word": "TTG向鱼正式连接",
       "onboard_time": 1737795979,
       "rank": 46,
@@ -1993,14 +2169,6 @@
       "onboard_time": 1737797059,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 85687,
-      "num": 85687,
-      "word": "RNG对战iG",
-      "onboard_time": 1737797477,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 84867,
@@ -2115,6 +2283,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 61984,
+      "num": 246297,
+      "word": "沈阳一小区超市要接受居民打分",
+      "onboard_time": 1737798919,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60080,
       "num": 160456,
       "word": "Gumayusi回应成为替补",
@@ -2187,6 +2363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50535,
+      "num": 226472,
+      "word": "于适封神直播",
+      "onboard_time": 1737799400,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 45959,
       "num": 45959,
       "word": "孙颖莎学唱lovestory",
@@ -2225,6 +2409,14 @@
       "onboard_time": 1737742813,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 37793,
+      "num": 473269,
+      "word": "春节年俗仪式感拉满",
+      "onboard_time": 1737783197,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37536,
@@ -2395,14 +2587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 19102,
-      "num": 117623,
-      "word": "春节年俗仪式感拉满",
-      "onboard_time": 1737783197,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 18649,
       "num": 30693,
       "word": "詹杜库的最后一舞",
@@ -2475,12 +2659,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 13115,
+      "num": 230960,
+      "word": "蛟龙行动成春节档第一部超点影片",
+      "onboard_time": 1737799640,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 12262,
       "num": 67537,
       "word": "年味浓度已爆表",
       "onboard_time": 1737742094,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8972,
+      "num": 225349,
+      "word": "徐克说降龙十八掌每掌都有具体展示",
+      "onboard_time": 1737800119,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 7287,
@@ -2502,6 +2702,9 @@
   "hotgov_list": [
     {
       "word": "#习近平向全国各族人民致新春祝福#"
+    },
+    {
+      "word": "#暖心祝福激扬奋进力量#"
     }
   ]
 }
