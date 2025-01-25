@@ -1,0 +1,410 @@
+{
+  "runTime": 1737793564575,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2227928,
+        "num": 2227928,
+        "word": "节目组 麦琳身世",
+        "onboard_time": 1737789918,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 606469,
+        "num": 606469,
+        "word": "发臭的网约车戳中中年男人的隐痛",
+        "onboard_time": 1737788357,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21306,
+        "num": 556639,
+        "word": "网信办加强互联网新闻信息服务许可管理",
+        "onboard_time": 1737792978,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 635708,
+        "num": 553844,
+        "word": "黄毛毛曝被6000万粉男艺人殴打",
+        "onboard_time": 1737789918,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 546736,
+        "num": 546736,
+        "word": "高铁上为何没有E座",
+        "onboard_time": 1737783677,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 528972,
+        "num": 528972,
+        "word": "郑州出现大暴雪",
+        "onboard_time": 1737791477,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 582821,
+        "num": 493121,
+        "word": "曝长相清纯95小花拜高踩低",
+        "onboard_time": 1737789437,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408359,
+        "num": 408359,
+        "word": "女子上门喂猫110元一次一天20家",
+        "onboard_time": 1737785417,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 792906,
+        "num": 408297,
+        "word": "制片人眼中的黑榜艺人",
+        "onboard_time": 1737786257,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369378,
+        "num": 369378,
+        "word": "Doinb道歉",
+        "onboard_time": 1737790458,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 657083,
+        "num": 368011,
+        "word": "赵露思请吃饭",
+        "onboard_time": 1737786677,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 513013,
+        "num": 366772,
+        "word": "纪凌尘与女友现身机场",
+        "onboard_time": 1737787877,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476850,
+        "num": 365635,
+        "word": "倪虹洁自曝曾因身材姣好感到羞耻",
+        "onboard_time": 1737785597,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378546,
+        "num": 364107,
+        "word": "向佐回应杨幂模仿自己",
+        "onboard_time": 1737792619,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363307,
+        "num": 363307,
+        "word": "烟瘾很大的95生",
+        "onboard_time": 1737792319,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357711,
+        "num": 357711,
+        "word": "何老师都接不住的烂梗出现了",
+        "onboard_time": 1737771677,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353961,
+        "num": 353961,
+        "word": "白敬亭章若楠难哄网飞上线",
+        "onboard_time": 1737788477,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275004,
+        "num": 275004,
+        "word": "珠穆朗玛峰入山费上调为1万5美元",
+        "onboard_time": 1737786257,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 237661,
+        "num": 237661,
+        "word": "庆奶74岁有五个官司在身",
+        "onboard_time": 1737792737,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176974,
+        "num": 233496,
+        "word": "片场发疯的95生",
+        "onboard_time": 1737791238,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231573,
+        "num": 231573,
+        "word": "李小冉哭着对刘晓庆说我对不起你",
+        "onboard_time": 1737781337,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222887,
+        "num": 222887,
+        "word": "爸爸攒一麻袋饮料扛回家给孩子",
+        "onboard_time": 1737789857,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200318,
+        "num": 200318,
+        "word": "Jennie新歌ZEN",
+        "onboard_time": 1737783857,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191521,
+        "num": 191521,
+        "word": "霸王茶姬发文致歉",
+        "onboard_time": 1737734719,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 169019,
+        "num": 169019,
+        "word": "孟子义2024制片人好感度艺人",
+        "onboard_time": 1737793219,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159184,
+        "num": 159184,
+        "word": "难哄",
+        "onboard_time": 1737791657,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98251,
+        "num": 155993,
+        "word": "2024年上海婚姻登记数据出炉",
+        "onboard_time": 1737789138,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155836,
+        "num": 155836,
+        "word": "老员工收了1000元春节红包遭辞退",
+        "onboard_time": 1737792857,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18975,
+        "num": 154070,
+        "word": "导演谈鹊刀门2剧情讽刺娱乐圈乱象",
+        "onboard_time": 1737792677,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45972,
+        "num": 153631,
+        "word": "外媒称特朗普与丹麦首相激烈通话",
+        "onboard_time": 1737793159,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153259,
+        "num": 153259,
+        "word": "四川开始流行鸡爪灌肠了",
+        "onboard_time": 1737785838,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 68935,
+        "num": 151935,
+        "word": "刘宇讲出了非遗里的浓浓年味",
+        "onboard_time": 1737790877,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150843,
+        "num": 150843,
+        "word": "濒危尸体花盛开数千人排队参观",
+        "onboard_time": 1737771317,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 147662,
+        "num": 147662,
+        "word": "谷爱凌神经系统处于超负荷状态",
+        "onboard_time": 1737785838,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146300,
+        "num": 146300,
+        "word": "射雕经典旋律的江湖代入感太强",
+        "onboard_time": 1737792619,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17210,
+        "num": 143567,
+        "word": "90后小伙带全村老人坐旋转木马",
+        "onboard_time": 1737793398,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17978,
+        "num": 142161,
+        "word": "中国汽车的全球学霸",
+        "onboard_time": 1737789378,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21421,
+        "num": 141344,
+        "word": "对话入行25年女货车司机",
+        "onboard_time": 1737791597,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141180,
+        "num": 141180,
+        "word": "茯苓恶女妆",
+        "onboard_time": 1737785658,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140629,
+        "num": 140629,
+        "word": "黄杨钿甜两部女主剧同屏",
+        "onboard_time": 1737792200,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134255,
+        "num": 134255,
+        "word": "高铁座位ABCDF是啥意思",
+        "onboard_time": 1737785838,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128552,
+        "num": 128552,
+        "word": "女子眼中插进4.5厘米树枝浑然不知",
+        "onboard_time": 1737776477,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127881,
+        "num": 127881,
+        "word": "美国一大学被爆切分出售退伍老兵遗体",
+        "onboard_time": 1737776357,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 127419,
+        "num": 127419,
+        "word": "小伙长期侧卧玩手机两眼近视差500度",
+        "onboard_time": 1737783857,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124747,
+        "num": 124747,
+        "word": "贾静雯一家五口上海逛街",
+        "onboard_time": 1737790757,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117420,
+        "num": 117420,
+        "word": "3天后就是除夕了",
+        "onboard_time": 1737776657,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108651,
+        "num": 108651,
+        "word": "iG投资人道歉",
+        "onboard_time": 1737791418,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108642,
+        "num": 108642,
+        "word": "李小冉躲在厕所自责爆哭",
+        "onboard_time": 1737783737,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75435,
+        "num": 106478,
+        "word": "羽生结弦说没有重返赛场的打算",
+        "onboard_time": 1737787337,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104954,
+        "num": 104954,
+        "word": "BLG战胜LNG",
+        "onboard_time": 1737793518,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全国各族人民致新春祝福#"
+    }
+  }
+}

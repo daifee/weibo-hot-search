@@ -1,7 +1,15 @@
 {
   "startTime": 1737736047740,
-  "endTime": 1737790518649,
+  "endTime": 1737793564575,
   "band_list": [
+    {
+      "raw_hot": 2227928,
+      "num": 2227928,
+      "word": "节目组 麦琳身世",
+      "onboard_time": 1737789918,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 2134060,
       "num": 2134060,
@@ -59,14 +67,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1009923,
-      "num": 1161587,
-      "word": "节目组 麦琳身世",
-      "onboard_time": 1737789918,
-      "rank": 0,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 998135,
       "num": 998135,
       "word": "制片人眼中的黑榜艺人",
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 955149,
-      "num": 365145,
+      "num": 366772,
       "word": "纪凌尘与女友现身机场",
       "onboard_time": 1737787877,
       "rank": 11,
@@ -187,6 +187,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 635708,
+      "num": 553844,
+      "word": "黄毛毛曝被6000万粉男艺人殴打",
+      "onboard_time": 1737789918,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 626316,
       "num": 626316,
       "word": "近800万人申请国补买手机数码",
@@ -203,12 +211,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 603996,
-      "num": 603996,
+      "raw_hot": 606469,
+      "num": 606469,
       "word": "发臭的网约车戳中中年男人的隐痛",
       "onboard_time": 1737788357,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 582821,
+      "num": 493121,
+      "word": "曝长相清纯95小花拜高踩低",
+      "onboard_time": 1737789437,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 560095,
@@ -225,6 +241,14 @@
       "onboard_time": 1737779239,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 528972,
+      "num": 528972,
+      "word": "郑州出现大暴雪",
+      "onboard_time": 1737791477,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 528177,
@@ -347,6 +371,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 378546,
+      "num": 364107,
+      "word": "向佐回应杨幂模仿自己",
+      "onboard_time": 1737792619,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 377322,
       "num": 377322,
       "word": "中央气象台连发4个预警",
@@ -371,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 369378,
+      "num": 369378,
+      "word": "Doinb道歉",
+      "onboard_time": 1737790458,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 367685,
       "num": 347425,
       "word": "韩国网友呼吁裁判承认卞相壹犯规",
@@ -385,6 +425,14 @@
       "onboard_time": 1737766936,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 363307,
+      "num": 363307,
+      "word": "烟瘾很大的95生",
+      "onboard_time": 1737792319,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 353100,
@@ -409,14 +457,6 @@
       "onboard_time": 1737728059,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 331801,
-      "num": 331801,
-      "word": "曝长相清纯95小花拜高踩低",
-      "onboard_time": 1737789437,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 331248,
@@ -595,18 +635,18 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237661,
+      "num": 237661,
+      "word": "庆奶74岁有五个官司在身",
+      "onboard_time": 1737792737,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235637,
       "num": 173576,
       "word": "李莎旻子21岁到31岁荧幕变化",
       "onboard_time": 1737776838,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 232111,
-      "num": 232111,
-      "word": "黄毛毛曝被6000万粉男艺人殴打",
-      "onboard_time": 1737789918,
       "rank": 25,
       "category": "艺人"
     },
@@ -649,6 +689,14 @@
       "onboard_time": 1737779058,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222887,
+      "num": 347161,
+      "word": "爸爸攒一麻袋饮料扛回家给孩子",
+      "onboard_time": 1737789857,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 217592,
@@ -827,6 +875,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 176974,
+      "num": 233496,
+      "word": "片场发疯的95生",
+      "onboard_time": 1737791238,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174644,
       "num": 125691,
       "word": "时代少年团和国宝大熊猫同台了",
@@ -881,6 +937,14 @@
       "onboard_time": 1737776778,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169019,
+      "num": 169019,
+      "word": "孟子义2024制片人好感度艺人",
+      "onboard_time": 1737793219,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 167852,
@@ -947,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159184,
+      "num": 159184,
+      "word": "难哄",
+      "onboard_time": 1737791657,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158756,
       "num": 158756,
       "word": "白月梵星",
@@ -961,6 +1033,14 @@
       "onboard_time": 1737734239,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155836,
+      "num": 155836,
+      "word": "老员工收了1000元春节红包遭辞退",
+      "onboard_time": 1737792857,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155818,
@@ -1035,6 +1115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146300,
+      "num": 146300,
+      "word": "射雕经典旋律的江湖代入感太强",
+      "onboard_time": 1737792619,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 144618,
       "num": 144618,
       "word": "橘朵新品海报被指擦边",
@@ -1081,6 +1169,14 @@
       "onboard_time": 1737767117,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140629,
+      "num": 140629,
+      "word": "黄杨钿甜两部女主剧同屏",
+      "onboard_time": 1737792200,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 138234,
@@ -1249,6 +1345,14 @@
       "onboard_time": 1737765136,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 124747,
+      "num": 124747,
+      "word": "贾静雯一家五口上海逛街",
+      "onboard_time": 1737790757,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 123315,
@@ -1459,6 +1563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108651,
+      "num": 108651,
+      "word": "iG投资人道歉",
+      "onboard_time": 1737791418,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 106319,
       "num": 106319,
       "word": "胡冰卿清冷古韵骨相",
@@ -1483,14 +1595,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 105174,
-      "num": 105174,
-      "word": "Doinb道歉",
-      "onboard_time": 1737790458,
-      "rank": 49,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 105140,
       "num": 105140,
       "word": "打工人年前综合症",
@@ -1505,6 +1609,14 @@
       "onboard_time": 1737723018,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104954,
+      "num": 104954,
+      "word": "BLG战胜LNG",
+      "onboard_time": 1737793518,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 104484,
@@ -1625,6 +1737,14 @@
       "onboard_time": 1737781277,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98251,
+      "num": 155993,
+      "word": "2024年上海婚姻登记数据出炉",
+      "onboard_time": 1737789138,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96837,
@@ -1779,6 +1899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 68935,
+      "num": 151935,
+      "word": "刘宇讲出了非遗里的浓浓年味",
+      "onboard_time": 1737790877,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68356,
       "num": 68356,
       "word": "让人瞬间快乐的8件小事",
@@ -1843,12 +1971,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47083,
-      "num": 347161,
-      "word": "爸爸攒一麻袋饮料扛回家给孩子",
-      "onboard_time": 1737789857,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 45972,
+      "num": 153631,
+      "word": "外媒称特朗普与丹麦首相激烈通话",
+      "onboard_time": 1737793159,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 45959,
@@ -1987,6 +2115,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21421,
+      "num": 141344,
+      "word": "对话入行25年女货车司机",
+      "onboard_time": 1737791597,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21306,
+      "num": 556639,
+      "word": "网信办加强互联网新闻信息服务许可管理",
+      "onboard_time": 1737792978,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 21027,
       "num": 80265,
       "word": "派出所院子里铺上锦旗地毯",
@@ -2019,12 +2163,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18975,
+      "num": 154070,
+      "word": "导演谈鹊刀门2剧情讽刺娱乐圈乱象",
+      "onboard_time": 1737792677,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18649,
       "num": 30693,
       "word": "詹杜库的最后一舞",
       "onboard_time": 1737735079,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17210,
+      "num": 143567,
+      "word": "90后小伙带全村老人坐旋转木马",
+      "onboard_time": 1737793398,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17161,

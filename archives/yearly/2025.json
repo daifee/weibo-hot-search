@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737790518649,
+  "endTime": 1737793564575,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1049,6 +1049,14 @@
       "onboard_time": 1737081558,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2227928,
+      "num": 2227928,
+      "word": "节目组 麦琳身世",
+      "onboard_time": 1737789918,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2227116,
@@ -2392,14 +2400,6 @@
       "word": "李小冉 都说了让你说话注意点",
       "onboard_time": 1735895179,
       "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1565917,
-      "num": 1565917,
-      "word": "杨幂别打鼓了 打我",
-      "onboard_time": 1735660942,
-      "rank": 14,
       "category": "综艺"
     }
   ],
