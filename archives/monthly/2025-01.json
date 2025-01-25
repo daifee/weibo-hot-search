@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737843641584,
+  "endTime": 1737844729835,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -68827,6 +68827,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 75022,
+      "num": 75022,
+      "word": "河南局地暴雪深度超20厘米",
+      "onboard_time": 1737840431,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74762,
       "num": 207804,
       "word": "张云雷演唱会唱京韵大鼓",
@@ -71089,14 +71097,6 @@
       "onboard_time": 1737480194,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 58550,
-      "num": 58550,
-      "word": "河南局地暴雪深度超20厘米",
-      "onboard_time": 1737840431,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 58487,
@@ -73409,6 +73409,14 @@
       "onboard_time": 1736184434,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46221,
+      "num": 83484,
+      "word": "东北爷爷宠孙女有了新高度",
+      "onboard_time": 1737827894,
+      "rank": 48,
+      "category": "正能量"
     },
     {
       "raw_hot": 46129,
@@ -76611,14 +76619,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 30135,
-      "num": 37887,
-      "word": "东北爷爷宠孙女有了新高度",
-      "onboard_time": 1737827894,
-      "rank": 48,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 30127,
       "num": 143222,
       "word": "谁能想到墨尔本年味这么浓",
@@ -78227,6 +78227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 23587,
+      "num": 25316,
+      "word": "老君山的玻璃滑道太有戏了",
+      "onboard_time": 1737838092,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 23580,
       "num": 337303,
       "word": "张泽群 我们一同走过从前",
@@ -78593,14 +78601,6 @@
       "onboard_time": 1737699918,
       "rank": 25,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 22000,
-      "num": 23232,
-      "word": "老君山的玻璃滑道太有戏了",
-      "onboard_time": 1737838092,
-      "rank": 39,
-      "category": "旅游"
     },
     {
       "raw_hot": 21975,
@@ -79220,7 +79220,7 @@
     },
     {
       "raw_hot": 19575,
-      "num": 23228,
+      "num": 25244,
       "word": "曼城vs切尔西",
       "onboard_time": 1737827115,
       "rank": 46,
@@ -79265,6 +79265,14 @@
       "onboard_time": 1736853799,
       "rank": 29,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 19451,
+      "num": 25268,
+      "word": "我们的春节",
+      "onboard_time": 1737827834,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19379,
@@ -79361,14 +79369,6 @@
       "onboard_time": 1737313211,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 18878,
-      "num": 23231,
-      "word": "我们的春节",
-      "onboard_time": 1737827834,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18845,

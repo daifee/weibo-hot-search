@@ -1,0 +1,410 @@
+{
+  "runTime": 1737844729835,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 190193,
+        "num": 463833,
+        "word": "张大大被指暴力殴打工作人员",
+        "onboard_time": 1737798499,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162764,
+        "num": 162764,
+        "word": "谷爱凌摔倒已不能走路",
+        "onboard_time": 1737800899,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15210,
+        "num": 151311,
+        "word": "2025春节假期安全提示",
+        "onboard_time": 1737815362,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151073,
+        "num": 151073,
+        "word": "女子买短乘长高铁霸座被拘",
+        "onboard_time": 1737822079,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129220,
+        "num": 129220,
+        "word": "网友不买账霸王茶姬评论区致歉",
+        "onboard_time": 1737823156,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 127618,
+        "num": 127618,
+        "word": "美国叫停几乎全部对外援助",
+        "onboard_time": 1737814223,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105739,
+        "num": 105739,
+        "word": "黄子韬看萱萱爸爸快哭了很心疼",
+        "onboard_time": 1737816623,
+        "rank": 6,
+        "category": "艺人,演出"
+      },
+      {
+        "raw_hot": 100758,
+        "num": 100758,
+        "word": "雷军直播时突然被封",
+        "onboard_time": 1737811641,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 94546,
+        "num": 94546,
+        "word": "北京的雪",
+        "onboard_time": 1737818361,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46221,
+        "num": 83484,
+        "word": "东北爷爷宠孙女有了新高度",
+        "onboard_time": 1737827894,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 75022,
+        "num": 75022,
+        "word": "河南局地暴雪深度超20厘米",
+        "onboard_time": 1737840431,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67880,
+        "num": 67880,
+        "word": "深圳多个地铁站贴上了白头春联",
+        "onboard_time": 1737812721,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66007,
+        "num": 66007,
+        "word": "冻肉不要直接泡水解冻",
+        "onboard_time": 1737819921,
+        "rank": 12,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 51511,
+        "num": 51511,
+        "word": "央视新闻专访徐克肖战",
+        "onboard_time": 1737806781,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 50757,
+        "num": 50757,
+        "word": "河南大学火灾事故48人被处理",
+        "onboard_time": 1737808880,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 50245,
+        "num": 50245,
+        "word": "微信CallKit",
+        "onboard_time": 1737816202,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 42760,
+        "num": 42760,
+        "word": "电竞选手幻云称网恋被骗流露轻生念头",
+        "onboard_time": 1737821840,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 41996,
+        "num": 41996,
+        "word": "小伙骑行三亚把行李埋沙滩1年后取出用",
+        "onboard_time": 1737814762,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37859,
+        "num": 40467,
+        "word": "赵露思说感觉自己重新站起来了",
+        "onboard_time": 1737833652,
+        "rank": 18,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 35433,
+        "num": 40430,
+        "word": "五福临门",
+        "onboard_time": 1737809059,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 373655,
+        "num": 40430,
+        "word": "张大大被曝指使社会人士砸门恐吓",
+        "onboard_time": 1737808998,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40430,
+        "num": 40429,
+        "word": "女子刮彩票中奖工作人员情绪激动",
+        "onboard_time": 1737815841,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35433,
+        "num": 35433,
+        "word": "韩国失事客机事发前8分钟细节公布",
+        "onboard_time": 1737813382,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 75326,
+        "num": 35010,
+        "word": "赵露思回应医学奇迹",
+        "onboard_time": 1737804021,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34490,
+        "num": 34490,
+        "word": "潘宏请了50多个律师",
+        "onboard_time": 1737805160,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 33545,
+        "num": 33545,
+        "word": "周杰伦ins晒与权志龙合照",
+        "onboard_time": 1737811161,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32835,
+        "num": 32835,
+        "word": "韩安冉再回应前夫破产",
+        "onboard_time": 1737809179,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 32833,
+        "num": 32833,
+        "word": "节目组 麦琳身世",
+        "onboard_time": 1737789918,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31820,
+        "num": 31820,
+        "word": "杨紫李现好六国色芳华专场收视率",
+        "onboard_time": 1737816262,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31688,
+        "num": 31688,
+        "word": "河南暴雪亲历者发声",
+        "onboard_time": 1737828373,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31662,
+        "num": 31662,
+        "word": "黄毛毛喊话无忧传媒",
+        "onboard_time": 1737818002,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30942,
+        "num": 30942,
+        "word": "刘亦菲带火了奥特曼发夹",
+        "onboard_time": 1737797777,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29138,
+        "num": 29138,
+        "word": "徐莹谈卞相壹举手示意裁判片段",
+        "onboard_time": 1737822618,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28318,
+        "num": 28318,
+        "word": "陈思诚感谢射雕预售打开市场",
+        "onboard_time": 1737809721,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27473,
+        "num": 27473,
+        "word": "北京下雪",
+        "onboard_time": 1737812303,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26726,
+        "num": 26726,
+        "word": "赵丽颖早期晋江式演技",
+        "onboard_time": 1737810321,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25321,
+        "num": 25321,
+        "word": "人与人最舒服的关系是熟不逾矩",
+        "onboard_time": 1737827354,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23587,
+        "num": 25316,
+        "word": "老君山的玻璃滑道太有戏了",
+        "onboard_time": 1737838092,
+        "rank": 37,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 25542,
+        "num": 25312,
+        "word": "陈思诚哭了",
+        "onboard_time": 1737810922,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22226,
+        "num": 25300,
+        "word": "迪丽热巴设计的项链",
+        "onboard_time": 1737818301,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20337,
+        "num": 25294,
+        "word": "墨西哥拒绝美驱逐移民军机降落请求",
+        "onboard_time": 1737830173,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19814,
+        "num": 25288,
+        "word": "厦门福州泉州震感",
+        "onboard_time": 1737825255,
+        "rank": 41,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 19696,
+        "num": 25284,
+        "word": "韩国代表团内部讨论过重赛可能性",
+        "onboard_time": 1737823578,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19601,
+        "num": 25274,
+        "word": "张元英李瑞KKT聊天记录",
+        "onboard_time": 1737814943,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19451,
+        "num": 25268,
+        "word": "我们的春节",
+        "onboard_time": 1737827834,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18262,
+        "num": 25257,
+        "word": "俱乐部已找到电竞选手幻云本人",
+        "onboard_time": 1737825736,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17673,
+        "num": 25254,
+        "word": "幻云",
+        "onboard_time": 1737804620,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17561,
+        "num": 25244,
+        "word": "曼城vs切尔西",
+        "onboard_time": 1737827115,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17547,
+        "num": 25240,
+        "word": "记者调查潘宏是否涉嫌虐狗",
+        "onboard_time": 1737825076,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 16830,
+        "num": 25228,
+        "word": "五福临门开播",
+        "onboard_time": 1737806539,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平春节前夕视察慰问部队#"
+    }
+  }
+}
