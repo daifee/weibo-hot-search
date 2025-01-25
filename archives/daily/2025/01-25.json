@@ -1,6 +1,6 @@
 {
   "startTime": 1737736047740,
-  "endTime": 1737782421374,
+  "endTime": 1737783410993,
   "band_list": [
     {
       "raw_hot": 2134060,
@@ -33,6 +33,14 @@
       "onboard_time": 1737771317,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1067537,
+      "num": 630565,
+      "word": "李小冉哭着对刘晓庆说我对不起你",
+      "onboard_time": 1737781337,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 927651,
@@ -75,20 +83,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 764692,
-      "num": 630565,
-      "word": "李小冉哭着对刘晓庆说我对不起你",
-      "onboard_time": 1737781337,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 739477,
       "num": 739477,
       "word": "谷爱凌说身体已达极限",
       "onboard_time": 1737776537,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 720650,
+      "num": 542619,
+      "word": "第一批上四休三的员工开始主动加班",
+      "onboard_time": 1737777977,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 669824,
@@ -131,14 +139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 542619,
-      "num": 542619,
-      "word": "第一批上四休三的员工开始主动加班",
-      "onboard_time": 1737777977,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 533888,
       "num": 329978,
       "word": "特朗普政府宣布墨西哥湾更名美国湾",
@@ -169,6 +169,14 @@
       "onboard_time": 1737735019,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 512117,
+      "num": 375405,
+      "word": "白月梵星爱奇艺近两年古偶冠军",
+      "onboard_time": 1737780857,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 490733,
@@ -219,7 +227,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 385465,
+      "raw_hot": 395878,
+      "num": 395878,
+      "word": "官方通报梅大高速塌方问责",
+      "onboard_time": 1737781098,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 387190,
       "num": 299611,
       "word": "虞书欣丁禹兮夫妻味",
       "onboard_time": 1737778578,
@@ -241,14 +257,6 @@
       "onboard_time": 1737767176,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 375998,
-      "num": 272494,
-      "word": "白月梵星爱奇艺近两年古偶冠军",
-      "onboard_time": 1737780857,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 367685,
@@ -459,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228956,
+      "num": 228956,
+      "word": "我家那小子",
+      "onboard_time": 1737781457,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227271,
       "num": 227271,
       "word": "王毅同美国国务卿鲁比奥通话",
@@ -521,14 +537,6 @@
       "onboard_time": 1737733818,
       "rank": 23,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 207551,
-      "num": 207551,
-      "word": "我家那小子",
-      "onboard_time": 1737781457,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 206360,
@@ -659,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172399,
+      "num": 172399,
+      "word": "网友偶遇食蚁兽洗了一下午尾巴",
+      "onboard_time": 1737779239,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172012,
       "num": 172012,
       "word": "肖战说射雕最大的挑战是演郭靖",
@@ -683,14 +699,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166996,
-      "num": 166995,
-      "word": "网友偶遇食蚁兽洗了一下午尾巴",
-      "onboard_time": 1737779239,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166981,
       "num": 124712,
       "word": "六公主精准播放电影片段为柯洁发声",
@@ -713,14 +721,6 @@
       "onboard_time": 1737767597,
       "rank": 30,
       "category": "综艺,剧集"
-    },
-    {
-      "raw_hot": 163091,
-      "num": 325381,
-      "word": "官方通报梅大高速塌方问责",
-      "onboard_time": 1737781098,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 161803,
@@ -779,6 +779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 150762,
+      "num": 150762,
+      "word": "韩素希南柱赫同框",
+      "onboard_time": 1737780678,
+      "rank": 36,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 150209,
       "num": 123307,
       "word": "原来羽绒服里要穿得薄才暖和",
@@ -827,14 +835,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 142564,
-      "num": 142564,
-      "word": "韩素希南柱赫同框",
-      "onboard_time": 1737780678,
-      "rank": 36,
-      "category": "艺人,作品衍生"
-    },
-    {
       "raw_hot": 142005,
       "num": 308225,
       "word": "母女遛弯发现地上4亿年前化石",
@@ -851,12 +851,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137683,
+      "num": 137683,
+      "word": "梅大高速塌方灾害32名公职人员被问责",
+      "onboard_time": 1737782838,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136437,
       "num": 136437,
       "word": "蛇年快把设计师逼没辙了",
       "onboard_time": 1737765858,
       "rank": 31,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 135893,
+      "num": 153403,
+      "word": "陈奕迅嫌弃自己的肱二头肌",
+      "onboard_time": 1737782656,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 133278,
@@ -915,6 +931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125663,
+      "num": 125663,
+      "word": "王鹤棣为配合剧组放弃睡觉时间",
+      "onboard_time": 1737783077,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125611,
       "num": 125611,
       "word": "福建舰送福啦",
@@ -937,6 +961,14 @@
       "onboard_time": 1737765136,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 123315,
+      "num": 178187,
+      "word": "唐探1900德州有个旧金山",
+      "onboard_time": 1737782176,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 122913,
@@ -1051,14 +1083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111827,
-      "num": 178187,
-      "word": "唐探1900德州有个旧金山",
-      "onboard_time": 1737782176,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 110877,
       "num": 176006,
       "word": "日本很多小型车站被指撞人事故频发",
@@ -1131,12 +1155,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104484,
+      "num": 104484,
+      "word": "斗破苍穹",
+      "onboard_time": 1737782778,
+      "rank": 40,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 104075,
       "num": 104075,
       "word": "撒贝宁你也没放过尼格买提",
       "onboard_time": 1737780678,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103968,
+      "num": 103968,
+      "word": "春节最想二刷的电影",
+      "onboard_time": 1737782897,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 103064,
@@ -1299,6 +1339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 84766,
+      "num": 84766,
+      "word": "虞书欣网络视听盛典的幕后vlog",
+      "onboard_time": 1737783377,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83873,
       "num": 83873,
       "word": "电影射雕英雄传公布特辑镜头",
@@ -1345,6 +1393,14 @@
       "onboard_time": 1737736997,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 74746,
+      "num": 237414,
+      "word": "3天后就是除夕了",
+      "onboard_time": 1737776657,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69861,
@@ -1553,6 +1609,14 @@
       "onboard_time": 1737745632,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19102,
+      "num": 117623,
+      "word": "春节年俗仪式感拉满",
+      "onboard_time": 1737783197,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18649,
