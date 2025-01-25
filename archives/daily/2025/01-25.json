@@ -1,6 +1,6 @@
 {
   "startTime": 1737736047740,
-  "endTime": 1737773621292,
+  "endTime": 1737775357673,
   "band_list": [
     {
       "raw_hot": 2134060,
@@ -12,27 +12,27 @@
     },
     {
       "raw_hot": 1963235,
-      "num": 302371,
+      "num": 335180,
       "word": "霸王茶姬发文致歉",
       "onboard_time": 1737734719,
       "rank": 11,
       "category": "美食"
     },
     {
-      "raw_hot": 1175773,
-      "num": 307486,
-      "word": "濒危尸体花盛开数千人排队参观",
-      "onboard_time": 1737771317,
-      "rank": 10,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1145470,
-      "num": 1183275,
+      "raw_hot": 1778811,
+      "num": 1778811,
       "word": "何老师都接不住的烂梗出现了",
       "onboard_time": 1737771677,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1175773,
+      "num": 339701,
+      "word": "濒危尸体花盛开数千人排队参观",
+      "onboard_time": 1737771317,
+      "rank": 10,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 927651,
@@ -107,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 499543,
+      "num": 349146,
+      "word": "迪丽热巴携三部大剧来拜年",
+      "onboard_time": 1737774736,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 490733,
       "num": 286357,
       "word": "最强大脑窒息198分钟",
@@ -121,6 +129,14 @@
       "onboard_time": 1737760454,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 422853,
+      "num": 422853,
+      "word": "韩国破获继N号房后最大规模网络性剥削案",
+      "onboard_time": 1737770778,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 413400,
@@ -179,8 +195,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 351378,
-      "num": 351378,
+      "raw_hot": 353100,
+      "num": 353100,
       "word": "美国加州旧火未灭新火又来",
       "onboard_time": 1737769397,
       "rank": 13,
@@ -209,14 +225,6 @@
       "onboard_time": 1737724458,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 312404,
-      "num": 312404,
-      "word": "韩国破获继N号房后最大规模网络性剥削案",
-      "onboard_time": 1737770778,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 307765,
@@ -249,6 +257,14 @@
       "onboard_time": 1737763576,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269020,
+      "num": 269020,
+      "word": "G社王俊凯生图",
+      "onboard_time": 1737771977,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 268836,
@@ -347,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212693,
+      "num": 212693,
+      "word": "近800万人申请国补买手机数码",
+      "onboard_time": 1737768438,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 209834,
       "num": 209834,
       "word": "砂糖橘",
@@ -403,12 +427,12 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 192282,
-      "num": 192282,
-      "word": "G社王俊凯生图",
-      "onboard_time": 1737771977,
-      "rank": 25,
-      "category": "作品衍生,时尚"
+      "raw_hot": 189555,
+      "num": 148667,
+      "word": "虞书欣甜美加盟北京台春晚",
+      "onboard_time": 1737775217,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 180333,
@@ -467,12 +491,12 @@
       "category": "综艺,剧集"
     },
     {
-      "raw_hot": 158421,
-      "num": 158421,
-      "word": "近800万人申请国补买手机数码",
-      "onboard_time": 1737768438,
-      "rank": 46,
-      "category": "数码"
+      "raw_hot": 164696,
+      "num": 164696,
+      "word": "博主涉嫌恶意抹黑小米汽车被抓",
+      "onboard_time": 1737771018,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 156663,
@@ -481,14 +505,6 @@
       "onboard_time": 1737734239,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 155891,
-      "num": 155891,
-      "word": "博主涉嫌恶意抹黑小米汽车被抓",
-      "onboard_time": 1737771018,
-      "rank": 27,
-      "category": "汽车"
     },
     {
       "raw_hot": 155130,
@@ -531,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142680,
+      "num": 142680,
+      "word": "花5万元处理爱犬遗体毛发都未整理",
+      "onboard_time": 1737773777,
+      "rank": 28,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 142644,
       "num": 142644,
       "word": "特朗普说泽连斯基不应和俄罗斯对抗",
@@ -547,6 +571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 141933,
+      "num": 141933,
+      "word": "肖战郭靖金刀驸马的含金量",
+      "onboard_time": 1737775097,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 141082,
       "num": 141082,
       "word": "网传沈腾马丽孙千合作春晚",
@@ -561,6 +593,14 @@
       "onboard_time": 1737765858,
       "rank": 31,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 135022,
+      "num": 135022,
+      "word": "楼上爆改5个厕所楼下交涉反遭恐吓",
+      "onboard_time": 1737774618,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133278,
@@ -585,6 +625,14 @@
       "onboard_time": 1737734058,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130617,
+      "num": 130617,
+      "word": "恋与制作人 许墨设定",
+      "onboard_time": 1737774438,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 129261,
@@ -715,6 +763,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110646,
+      "num": 203386,
+      "word": "你踏上春运回家路了吗",
+      "onboard_time": 1737768376,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109962,
+      "num": 109962,
+      "word": "射雕音乐一起武侠DNA就动了",
+      "onboard_time": 1737774198,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 108656,
       "num": 120197,
       "word": "网红烟花加特林价格下跌30%",
@@ -787,14 +851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 100537,
-      "num": 203386,
-      "word": "你踏上春运回家路了吗",
-      "onboard_time": 1737768376,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 99615,
       "num": 99615,
       "word": "还有2天放假",
@@ -824,6 +880,14 @@
       "word": "国补4天申请了超1000万件手机数码",
       "onboard_time": 1737773597,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94070,
+      "num": 279710,
+      "word": "扫码充电莫名被阅读软件扣7000多元",
+      "onboard_time": 1737773656,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -865,6 +929,14 @@
       "onboard_time": 1737725059,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 86362,
+      "num": 86362,
+      "word": "打工人年前综合症",
+      "onboard_time": 1737773718,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 83873,
@@ -939,6 +1011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 47804,
+      "num": 228534,
+      "word": "女子36年前被堂兄卖给人贩子",
+      "onboard_time": 1737774317,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45959,
       "num": 45959,
       "word": "孙颖莎学唱lovestory",
@@ -985,6 +1065,14 @@
       "onboard_time": 1737740175,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 35046,
+      "num": 342720,
+      "word": "多地进入雨雪鼎盛时段",
+      "onboard_time": 1737774557,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34966,
