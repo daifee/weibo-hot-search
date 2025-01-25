@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737809567640,
+  "endTime": 1737811316695,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -1275,6 +1275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 954172,
+      "num": 292991,
+      "word": "碗盆",
+      "onboard_time": 1737805581,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 953205,
       "num": 953205,
       "word": "Angelababy王安宇新剧将上线",
@@ -1649,6 +1657,14 @@
       "onboard_time": 1737421279,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 835620,
+      "num": 835620,
+      "word": "河南大学火灾事故48人被处理",
+      "onboard_time": 1737808880,
+      "rank": 25,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 833909,
@@ -3947,14 +3963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 438585,
-      "num": 285333,
-      "word": "碗盆",
-      "onboard_time": 1737805581,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 438222,
       "num": 438222,
       "word": "徐克你根本没有喝中药",
@@ -5547,6 +5555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 305911,
+      "num": 291024,
+      "word": "张鑫哽咽感谢白鹿鼓励",
+      "onboard_time": 1737807441,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 305779,
       "num": 305779,
       "word": "急诊医生压力大到在家流泪",
@@ -5811,6 +5827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 290971,
+      "num": 290971,
+      "word": "赵丽颖早期晋江式演技",
+      "onboard_time": 1737810321,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290746,
       "num": 290746,
       "word": "胡歌连发三条微博",
@@ -5825,6 +5849,14 @@
       "onboard_time": 1737297020,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 290397,
+      "num": 290397,
+      "word": "陈思诚感谢射雕预售打开市场",
+      "onboard_time": 1737809721,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 290288,
@@ -6001,14 +6033,6 @@
       "onboard_time": 1737432799,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 281174,
-      "num": 281174,
-      "word": "张鑫哽咽感谢白鹿鼓励",
-      "onboard_time": 1737807441,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 281145,
@@ -6515,6 +6539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261247,
+      "num": 261247,
+      "word": "周杰伦约王俊凯骑车",
+      "onboard_time": 1737809421,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261106,
       "num": 315799,
       "word": "肖战练蒙语练成肌肉记忆",
@@ -6939,6 +6971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 246619,
+      "num": 246619,
+      "word": "韩安冉再回应前夫破产",
+      "onboard_time": 1737809179,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 246436,
       "num": 205895,
       "word": "楼上爆改5个厕所楼下交涉反遭恐吓",
@@ -6993,6 +7033,14 @@
       "onboard_time": 1737530659,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 243286,
+      "num": 293884,
+      "word": "网友曝火车站给座椅铺软垫疑为摆拍",
+      "onboard_time": 1737809540,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 243119,
@@ -7857,14 +7905,6 @@
       "onboard_time": 1737300018,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 215960,
-      "num": 215960,
-      "word": "河南大学火灾事故48人被处理",
-      "onboard_time": 1737808880,
-      "rank": 25,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 215817,
@@ -9603,6 +9643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190315,
+      "num": 278469,
+      "word": "医疗证明有问号退机票被拒绝",
+      "onboard_time": 1737809239,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190094,
       "num": 190094,
       "word": "一男子去年成功举报1945起交通事故",
@@ -10443,6 +10491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 177867,
+      "num": 260739,
+      "word": "河南大学火灾事故调查处理情况公布",
+      "onboard_time": 1737809721,
+      "rank": 20,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 177824,
       "num": 177824,
       "word": "孟子义李昀锐拼好宣",
@@ -11155,6 +11211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 168744,
+      "num": 168744,
+      "word": "刘宇宁格局",
+      "onboard_time": 1737809961,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168710,
       "num": 168710,
       "word": "王嘉尔朱一龙王鹤棣G社生图",
@@ -11249,14 +11313,6 @@
       "onboard_time": 1737343638,
       "rank": 42,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 167815,
-      "num": 167815,
-      "word": "韩安冉再回应前夫破产",
-      "onboard_time": 1737809179,
-      "rank": 36,
-      "category": "网红"
     },
     {
       "raw_hot": 167724,
@@ -13587,6 +13643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142940,
+      "num": 142940,
+      "word": "陈思诚哭了",
+      "onboard_time": 1737810922,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 142755,
       "num": 142755,
       "word": "今年过年知道怎么拍照了",
@@ -15659,6 +15723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123052,
+      "num": 123052,
+      "word": "白鹿说白烁往前走别回头",
+      "onboard_time": 1737810922,
+      "rank": 45,
+      "category": "剧集,综艺"
+    },
+    {
       "raw_hot": 123042,
       "num": 123042,
       "word": "李威被警方第三次传唤",
@@ -15889,6 +15961,14 @@
       "onboard_time": 1737458238,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120934,
+      "num": 261182,
+      "word": "中国围棋协会拟拒外援",
+      "onboard_time": 1737810562,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 120818,
@@ -17467,6 +17547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 105690,
+      "num": 105690,
+      "word": "经常运动和经常久坐的区别",
+      "onboard_time": 1737808939,
+      "rank": 48,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 105652,
       "num": 105652,
       "word": "干活的时候适合碎玉轩BGM",
@@ -17681,6 +17769,14 @@
       "onboard_time": 1737413293,
       "rank": 27,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 103137,
+      "num": 103137,
+      "word": "秋瓷炫晒全家福庆46岁生日",
+      "onboard_time": 1737811222,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 103068,
@@ -18307,14 +18403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95320,
-      "num": 186151,
-      "word": "周杰伦约王俊凯骑车",
-      "onboard_time": 1737809421,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 95311,
       "num": 221163,
       "word": "Doinb复出首秀",
@@ -18673,6 +18761,14 @@
       "onboard_time": 1737280759,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 88460,
+      "num": 201887,
+      "word": "澳网冠军的胜利时刻",
+      "onboard_time": 1737808939,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 88399,
@@ -19464,14 +19560,6 @@
       "word": "张帅说樊振东激励我们前进",
       "onboard_time": 1737538278,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 67955,
-      "num": 192808,
-      "word": "澳网冠军的胜利时刻",
-      "onboard_time": 1737808939,
-      "rank": 27,
       "category": "体育"
     },
     {
@@ -20411,14 +20499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 47187,
-      "num": 146163,
-      "word": "网友曝火车站给座椅铺软垫疑为摆拍",
-      "onboard_time": 1737809540,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47163,
       "num": 47163,
       "word": "华晨宇演唱晨光里有你",
@@ -20448,14 +20528,6 @@
       "word": "文化中国行看火花迎新春",
       "onboard_time": 1737731900,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46394,
-      "num": 278469,
-      "word": "医疗证明有问号退机票被拒绝",
-      "onboard_time": 1737809239,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -20809,6 +20881,14 @@
       "onboard_time": 1737398653,
       "rank": 24,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 38348,
+      "num": 190323,
+      "word": "周杰伦ins晒与权志龙合照",
+      "onboard_time": 1737811161,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 37970,
@@ -22265,6 +22345,14 @@
       "onboard_time": 1737262578,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14615,
+      "num": 144624,
+      "word": "郑秀晶出发巴黎时装周生图",
+      "onboard_time": 1737797238,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 14492,

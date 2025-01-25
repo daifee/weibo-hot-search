@@ -1,0 +1,410 @@
+{
+  "runTime": 1737811316695,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4014009,
+        "num": 4014009,
+        "word": "张大大被曝指使社会人士砸门恐吓",
+        "onboard_time": 1737808998,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1185396,
+        "num": 1185396,
+        "word": "谷爱凌摔倒已不能走路",
+        "onboard_time": 1737800899,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44225,
+        "num": 956058,
+        "word": "春节年俗仪式感拉满",
+        "onboard_time": 1737783197,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 926377,
+        "num": 926377,
+        "word": "赵露思拐杖",
+        "onboard_time": 1737806960,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 835620,
+        "num": 835620,
+        "word": "河南大学火灾事故48人被处理",
+        "onboard_time": 1737808880,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 366503,
+        "num": 366503,
+        "word": "幻云",
+        "onboard_time": 1737804620,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 611684,
+        "num": 350354,
+        "word": "刘亦菲带火了奥特曼发夹",
+        "onboard_time": 1737797777,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315192,
+        "num": 315192,
+        "word": "央视新闻专访徐克肖战",
+        "onboard_time": 1737806781,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 294006,
+        "num": 294006,
+        "word": "做了美甲后弟弟逐渐烦我了",
+        "onboard_time": 1737798259,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243286,
+        "num": 293884,
+        "word": "网友曝火车站给座椅铺软垫疑为摆拍",
+        "onboard_time": 1737809540,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1615238,
+        "num": 293508,
+        "word": "张大大被指暴力殴打工作人员",
+        "onboard_time": 1737798499,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 954172,
+        "num": 292991,
+        "word": "碗盆",
+        "onboard_time": 1737805581,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260787,
+        "num": 292474,
+        "word": "肖战练武术画面曝光",
+        "onboard_time": 1737804561,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 617840,
+        "num": 291962,
+        "word": "潘宏请了50多个律师",
+        "onboard_time": 1737805160,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 447461,
+        "num": 291700,
+        "word": "医生吐槽麻药有时麻不倒病人",
+        "onboard_time": 1737804319,
+        "rank": 14,
+        "category": "舆论监督,健康医疗"
+      },
+      {
+        "raw_hot": 305911,
+        "num": 291024,
+        "word": "张鑫哽咽感谢白鹿鼓励",
+        "onboard_time": 1737807441,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290971,
+        "num": 290971,
+        "word": "赵丽颖早期晋江式演技",
+        "onboard_time": 1737810321,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290397,
+        "num": 290397,
+        "word": "陈思诚感谢射雕预售打开市场",
+        "onboard_time": 1737809721,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 261247,
+        "num": 261247,
+        "word": "周杰伦约王俊凯骑车",
+        "onboard_time": 1737809421,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120934,
+        "num": 261182,
+        "word": "中国围棋协会拟拒外援",
+        "onboard_time": 1737810562,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177867,
+        "num": 260739,
+        "word": "河南大学火灾事故调查处理情况公布",
+        "onboard_time": 1737809721,
+        "rank": 20,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1218689,
+        "num": 260629,
+        "word": "赵露思回应医学奇迹",
+        "onboard_time": 1737804021,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 525659,
+        "num": 260113,
+        "word": "节目组 麦琳身世",
+        "onboard_time": 1737789918,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260085,
+        "num": 260085,
+        "word": "河南暴雪被困12小时车主发声",
+        "onboard_time": 1737801079,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249507,
+        "num": 249507,
+        "word": "五福临门开播",
+        "onboard_time": 1737806539,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246619,
+        "num": 246619,
+        "word": "韩安冉再回应前夫破产",
+        "onboard_time": 1737809179,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 221142,
+        "num": 221142,
+        "word": "五福临门",
+        "onboard_time": 1737809059,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88460,
+        "num": 201887,
+        "word": "澳网冠军的胜利时刻",
+        "onboard_time": 1737808939,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190775,
+        "num": 190775,
+        "word": "乐山地震",
+        "onboard_time": 1737794238,
+        "rank": 28,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 38348,
+        "num": 190323,
+        "word": "周杰伦ins晒与权志龙合照",
+        "onboard_time": 1737811161,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190315,
+        "num": 190315,
+        "word": "医疗证明有问号退机票被拒绝",
+        "onboard_time": 1737809239,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179580,
+        "num": 179580,
+        "word": "澳网女单冠亚军都哭了",
+        "onboard_time": 1737805040,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168744,
+        "num": 168744,
+        "word": "刘宇宁格局",
+        "onboard_time": 1737809961,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148262,
+        "num": 148262,
+        "word": "黄毛毛发声",
+        "onboard_time": 1737804561,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146965,
+        "num": 146965,
+        "word": "老员工收了1000元春节红包遭辞退",
+        "onboard_time": 1737792857,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14615,
+        "num": 144624,
+        "word": "郑秀晶出发巴黎时装周生图",
+        "onboard_time": 1737797238,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 111014,
+        "num": 143884,
+        "word": "2025电影春节档",
+        "onboard_time": 1737805581,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143628,
+        "num": 143628,
+        "word": "王源一人分饰两角",
+        "onboard_time": 1737797838,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143534,
+        "num": 143534,
+        "word": "RNG对战iG",
+        "onboard_time": 1737797477,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142940,
+        "num": 142940,
+        "word": "陈思诚哭了",
+        "onboard_time": 1737810922,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138143,
+        "num": 138143,
+        "word": "金珉奎 CK",
+        "onboard_time": 1737807800,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134114,
+        "num": 134114,
+        "word": "南京南站4天捡到1000个身份证",
+        "onboard_time": 1737797777,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133263,
+        "num": 133263,
+        "word": "李小冉我那漂亮小姨",
+        "onboard_time": 1737804021,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133165,
+        "num": 133165,
+        "word": "台湾5.4级左右地震",
+        "onboard_time": 1737807621,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127092,
+        "num": 127092,
+        "word": "你好星期六",
+        "onboard_time": 1737804080,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123052,
+        "num": 123052,
+        "word": "白鹿说白烁往前走别回头",
+        "onboard_time": 1737810922,
+        "rank": 45,
+        "category": "剧集,综艺"
+      },
+      {
+        "raw_hot": 116441,
+        "num": 116441,
+        "word": "刘晓庆珠宝被安保公司的保安偷了",
+        "onboard_time": 1737795798,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113453,
+        "num": 113453,
+        "word": "郑州出现大暴雪",
+        "onboard_time": 1737791477,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105690,
+        "num": 105690,
+        "word": "经常运动和经常久坐的区别",
+        "onboard_time": 1737808939,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 103137,
+        "num": 103137,
+        "word": "秋瓷炫晒全家福庆46岁生日",
+        "onboard_time": 1737811222,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#暖心祝福激扬奋进力量#"
+    }
+  }
+}

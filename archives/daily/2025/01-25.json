@@ -1,6 +1,6 @@
 {
   "startTime": 1737736047740,
-  "endTime": 1737809567640,
+  "endTime": 1737811316695,
   "band_list": [
     {
       "raw_hot": 4212168,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 954172,
+      "num": 292991,
+      "word": "碗盆",
+      "onboard_time": 1737805581,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 927651,
       "num": 1148424,
       "word": "禹宙中欣",
@@ -201,6 +209,14 @@
       "onboard_time": 1737798198,
       "rank": 15,
       "category": "艺人,网红"
+    },
+    {
+      "raw_hot": 835620,
+      "num": 835620,
+      "word": "河南大学火灾事故48人被处理",
+      "onboard_time": 1737808880,
+      "rank": 25,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 827335,
@@ -475,14 +491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 438585,
-      "num": 285333,
-      "word": "碗盆",
-      "onboard_time": 1737805581,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 437373,
       "num": 437373,
       "word": "Doinb道歉",
@@ -739,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 305911,
+      "num": 291024,
+      "word": "张鑫哽咽感谢白鹿鼓励",
+      "onboard_time": 1737807441,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 304861,
       "num": 179317,
       "word": "肖战台词",
@@ -755,12 +771,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 290971,
+      "num": 290971,
+      "word": "赵丽颖早期晋江式演技",
+      "onboard_time": 1737810321,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290746,
       "num": 290746,
       "word": "胡歌连发三条微博",
       "onboard_time": 1737803900,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 290397,
+      "num": 290397,
+      "word": "陈思诚感谢射雕预售打开市场",
+      "onboard_time": 1737809721,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 290288,
@@ -784,14 +816,6 @@
       "word": "五福临门开播",
       "onboard_time": 1737806539,
       "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 281174,
-      "num": 281174,
-      "word": "张鑫哽咽感谢白鹿鼓励",
-      "onboard_time": 1737807441,
-      "rank": 17,
       "category": "剧集"
     },
     {
@@ -891,6 +915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 261247,
+      "num": 261247,
+      "word": "周杰伦约王俊凯骑车",
+      "onboard_time": 1737809421,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261056,
       "num": 261056,
       "word": "王俊凯我在巴黎等哥",
@@ -939,6 +971,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 246619,
+      "num": 246619,
+      "word": "韩安冉再回应前夫破产",
+      "onboard_time": 1737809179,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 246436,
       "num": 205895,
       "word": "楼上爆改5个厕所楼下交涉反遭恐吓",
@@ -961,6 +1001,14 @@
       "onboard_time": 1737726680,
       "rank": 3,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 243286,
+      "num": 293884,
+      "word": "网友曝火车站给座椅铺软垫疑为摆拍",
+      "onboard_time": 1737809540,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 241139,
@@ -1089,14 +1137,6 @@
       "onboard_time": 1737777557,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 215960,
-      "num": 215960,
-      "word": "河南大学火灾事故48人被处理",
-      "onboard_time": 1737808880,
-      "rank": 25,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 214059,
@@ -1291,6 +1331,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 190315,
+      "num": 278469,
+      "word": "医疗证明有问号退机票被拒绝",
+      "onboard_time": 1737809239,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185789,
       "num": 185789,
       "word": "出道6个月的2NE1",
@@ -1345,6 +1393,14 @@
       "onboard_time": 1737730339,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 177867,
+      "num": 260739,
+      "word": "河南大学火灾事故调查处理情况公布",
+      "onboard_time": 1737809721,
+      "rank": 20,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 175513,
@@ -1419,6 +1475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168744,
+      "num": 168744,
+      "word": "刘宇宁格局",
+      "onboard_time": 1737809961,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168281,
       "num": 168281,
       "word": "女儿好像以为我对她的生活很感兴趣",
@@ -1433,14 +1497,6 @@
       "onboard_time": 1737773116,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167815,
-      "num": 167815,
-      "word": "韩安冉再回应前夫破产",
-      "onboard_time": 1737809179,
-      "rank": 36,
-      "category": "网红"
     },
     {
       "raw_hot": 167305,
@@ -1713,6 +1769,14 @@
       "onboard_time": 1737771018,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142940,
+      "num": 142940,
+      "word": "陈思诚哭了",
+      "onboard_time": 1737810922,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 142644,
@@ -2035,6 +2099,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 123052,
+      "num": 123052,
+      "word": "白鹿说白烁往前走别回头",
+      "onboard_time": 1737810922,
+      "rank": 45,
+      "category": "剧集,综艺"
+    },
+    {
       "raw_hot": 122913,
       "num": 122913,
       "word": "白鹿敖瑞鹏不语只是一味脸红",
@@ -2065,6 +2137,14 @@
       "onboard_time": 1737772338,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 120934,
+      "num": 261182,
+      "word": "中国围棋协会拟拒外援",
+      "onboard_time": 1737810562,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 119619,
@@ -2259,6 +2339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105690,
+      "num": 105690,
+      "word": "经常运动和经常久坐的区别",
+      "onboard_time": 1737808939,
+      "rank": 48,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 105622,
       "num": 105622,
       "word": "从没见过餐桌上有这么多蛇",
@@ -2321,6 +2409,14 @@
       "onboard_time": 1737782897,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 103137,
+      "num": 103137,
+      "word": "秋瓷炫晒全家福庆46岁生日",
+      "onboard_time": 1737811222,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 103064,
@@ -2475,14 +2571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 95320,
-      "num": 186151,
-      "word": "周杰伦约王俊凯骑车",
-      "onboard_time": 1737809421,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 95250,
       "num": 151935,
       "word": "刘宇讲出了非遗里的浓浓年味",
@@ -2553,6 +2641,14 @@
       "onboard_time": 1737797598,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88460,
+      "num": 201887,
+      "word": "澳网冠军的胜利时刻",
+      "onboard_time": 1737808939,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 88399,
@@ -2667,14 +2763,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 67955,
-      "num": 192808,
-      "word": "澳网冠军的胜利时刻",
-      "onboard_time": 1737808939,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 65963,
       "num": 190602,
       "word": "SK再度担任eStar主教练",
@@ -2787,22 +2875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47187,
-      "num": 146163,
-      "word": "网友曝火车站给座椅铺软垫疑为摆拍",
-      "onboard_time": 1737809540,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46394,
-      "num": 278469,
-      "word": "医疗证明有问号退机票被拒绝",
-      "onboard_time": 1737809239,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 45959,
       "num": 45959,
       "word": "孙颖莎学唱lovestory",
@@ -2856,6 +2928,14 @@
       "word": "蹭车蹦迪的90后女艺人",
       "onboard_time": 1737804141,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 38348,
+      "num": 190323,
+      "word": "周杰伦ins晒与权志龙合照",
+      "onboard_time": 1737811161,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -3113,6 +3193,14 @@
       "onboard_time": 1737786138,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14615,
+      "num": 144624,
+      "word": "郑秀晶出发巴黎时装周生图",
+      "onboard_time": 1737797238,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 14362,
